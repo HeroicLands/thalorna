@@ -1,5 +1,3 @@
-# See `@heroiclands/package-build` for the full documentation.
-
 contentPackage: thalorna
 packageKind: modules
 
@@ -15,10 +13,10 @@ relationships:
           compatibility:
               minimum: "0.8.2"
               verified: "0.8.6"
-          # Its Item packs are this repository's item catalogue. A Thalorna
-          # being is nested items addressed by shortcode, and almost all of
-          # those belong to sohl; `content-build deps fetch` caches them, keyed
-          # by the `verified` version above so a build names one artifact.
+          # Its Item packs are this repository's item catalogue: a Thalorna
+          # being nests items addressed by shortcode, and almost all of those
+          # belong to sohl. `content-build deps fetch` caches them, keyed by
+          # the `verified` version above so a build names one artifact.
           itemCatalog: true
 
 stats:
@@ -26,38 +24,29 @@ stats:
 
 itemBuilders: sohl
 
-# The dependency between the passes is real and the order here is not what
-# enforces it: the actors pass resolves each being's embedded items against the
-# items pass's output, and package-build derives the compile order from what
-# each pass reads, so items compile first whatever order this list declares
-# (package-build#73). The list is free to be ordered for a reader, because it
-# is also the manifest's `packs` array and the thing `packFolders` below names.
+# The actors pass resolves each being's embedded items against the items
+# pass's output, and package-build derives compile order from what each pass
+# reads, so items compile first whatever order this list declares — the order
+# below is for a reader, matching the manifest's `packs` array and what
+# `packFolders` below names.
 #
 # What the actors pass cannot find locally comes from sohl's item catalogue,
-# declared above. Run `content-build deps fetch` before compiling; a cold cache
-# fails saying so.
+# declared above. Run `content-build deps fetch` before compiling; a cold
+# cache fails saying so.
 packs:
     - { name: items, label: Items, type: Item }
     - { name: journals, label: Journals, type: JournalEntry }
     - { name: actors, label: Actors, type: Actor }
 
 publish:
-    # `content`: the homepage *and* every page the content tree compiles to.
-    # `homepage` fences the content surfaces off, which is what a package whose
-    # licence forbids publishing its material needs. This setting is original
-    # work, so it publishes in full.
+    # This repository's content is original work with no publishing
+    # restriction, so it publishes in full.
     site: content
-    # Where the content tree mounts inside the package, read by both `manifest`
-    # and the site build so the address a manifest publishes is the address a
-    # page is emitted at. This package's content *is* its site, so it mounts at
-    # the package root and the prefix is empty.
+    # This package's content is its site, so it mounts at the package root and
+    # the prefix is empty.
     address:
         prefix: ""
 
-# The third surface: the content tree printed as a book. `document:` names the
-# tree that says which notes the volume carries and in what order (`book.yaml`
-# at this root) — a selection, not the whole corpus the site and the packs
-# publish.
 pdf:
     title: The World of Thalorna
     subtitle: A Song of Heroic Lands Sourcebook
@@ -78,55 +67,38 @@ pdf:
         sans: Libertinus Sans
         mono: Libertinus Mono
 
-# How this repository frames the website it publishes. Framing only — how a page
-# gets its *address* is `publish.address` above, shared with the link manifest
-# so the two cannot disagree about where a page is.
-#
-# `content-build site` generates the whole Hugo source tree — configuration
-# included — under `build/hugo/`; this repository holds no Hugo configuration
-# of its own.
 site:
-    # The host every package's imagery is served from, joined onto the package
-    # name and the path inside that package's `assets/`. The generated Hugo
-    # `params.cdnBaseURL` reads this value.
     assets: https://cdn.heroiclands.org
-    # Site's <meta name="description">
     description: The World of Thalorna — realms, peoples, faiths, creatures, and the lore behind them.
-    # `packages:` is absent, and absent means `[contentPackage]`. `package:`
-    # is retired, so every note in this tree is `thalorna` by construction and
-    # naming a second package would select nothing.
+    # `packages:` is absent — every note in this tree is `thalorna` by
+    # construction, and naming a second package here would select nothing.
     #
     # No `trees:` — this repository publishes no documentation tree beside its
-    # content — and no `pass:`, which is a named bundle of a repository's own
-    # body rewrites and this one has none.
+    # content. No `pass:` — this repository has no body-rewrite bundle of its
+    # own.
     #
-    # `backfillSections` is off. It writes a bare landing for every directory
-    # under the mount, and with pages emitted flat the only directories are the
-    # ones declared below, which already state their own titles.
+    # `backfillSections` is off: it writes a bare landing for every directory
+    # under the mount, and with pages emitted flat the only directories are
+    # the ones declared below, which already state their own titles.
     #
     # Every section this package publishes, so `/thalorna/<section>/` answers
-    # with a titled page rather than a directory listing. Since #204 this is the
-    # only place a section exists: a page is addressed `(type, shortcode)` and
-    # written flat, so nothing else creates the directory. The list is also what
-    # the package landing's card grid is built from — `assets/content/homepage.md`
-    # declares `cards.source: sections`, which reads the site's own top-level
-    # sections — so a section missing here is a card missing there.
+    # with a titled page rather than a directory listing — a page is addressed
+    # `(type, shortcode)` and written flat, so nothing else creates the
+    # directory. The list is also what the package landing's card grid is
+    # built from: `assets/content/homepage.md` declares `cards.source:
+    # sections`, which reads the site's own top-level sections, so a section
+    # missing here is a card missing there.
     #
-    # `listType` is what the section lists, and it is not optional in practice:
-    # flat emission left every landing with an empty `.Pages`, so a section that
-    # names nothing renders "Nothing here yet." (package-build#212,
-    # heroiclands-hugo-theme#50). The theme falls back to a site-wide query —
-    # `where site.RegularPages "Type" .Params.listType` — which asks what a page
-    # *is* rather than where its file sits, so it is indifferent to the flat
-    # layout. The key is written onto the generated `_index.md`.
+    # `listType` is not optional in practice: flat emission left every landing
+    # with an empty `.Pages`, so a section that names nothing renders "Nothing
+    # here yet." The theme falls back to a site-wide query — `where
+    # site.RegularPages "Type" .Params.listType` — which asks what a page *is*
+    # rather than where its file sits, so it is indifferent to the flat
+    # layout.
     #
-    # A section name is a URL this repository chose and a type is what a note
-    # declares, so the two are free to differ; every mapping below was read off
-    # the notes' own front matter rather than inferred from the directory name.
-    # Ten of the eleven happen to coincide. `reference` is the one that does
-    # not: its 21 notes are `type: doc, subType: reference`, and every doc genre
-    # shares `type: doc`, so `listType` alone would sweep the whole tree in.
-    # `listSubType` narrows it, and is only ever valid alongside `listType`.
+    # `reference` is `type: doc, subType: reference`, and every doc genre
+    # shares `type: doc`, so `listType` alone would sweep the whole tree in —
+    # `listSubType` narrows it.
     sections:
         affiliation: { title: Affiliations, listType: affiliation }
         being: { title: Beings, listType: being }
@@ -140,9 +112,8 @@ site:
         skill: { title: Skills, listType: skill }
         weapongear: { title: Weapons, listType: weapongear }
 
-    # The "page not found" page. Its template is the theme's, since every
-    # consumer needs one; the wording and the routes back are ours. A relative
-    # `url` is resolved against this site's own base, so these survive a move.
+    # A relative `url` here is resolved against this site's own base, so it
+    # survives a move.
     notfound:
         heroimage: images/banners/tapestry-of-dreams.webp
         tagline: This world has no page at
@@ -188,7 +159,6 @@ packageBuild:
 
     manifest:
         title: Thalorna Setting
-        # Foundry package browser description
         descriptionHtml: Items, Actors, Journals, Scenes, and other assets to enable play in the Thalorna setting for Song of Heroic Lands
         authors:
             - name: Toasty
@@ -209,12 +179,8 @@ packageBuild:
             - src: styles/thalorna.css
               layer: thalorna
         # Names every pack this package ships, so everything Thalorna adds
-        # appears together in the compendium sidebar under one folder. It was
-        # written when the build compiled two packs and described itself as
-        # naming "only the packs this build compiles"; #69 turned the actors
-        # pack on without extending it, and nothing reported the divergence
-        # until package-build#81 began comparing the two (#95). Adding a pack
-        # to `packs:` above means adding it here.
+        # appears together in the compendium sidebar under one folder. Adding
+        # a pack to `packs:` above means adding it here.
         packFolders:
             - name: Thalorna
               sorting: m
