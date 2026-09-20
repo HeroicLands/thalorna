@@ -85,8 +85,7 @@ What the build does to a note:
 
 - **Addresses** it as `type-shortcode`, and writes it flat: a page publishes at
   `/thalorna/<type>-<shortcode>/` whatever directory the note is filed in.
-  Sections are Hugo directories the note format does not carry, so the ones this
-  site publishes are declared in `site.sections` and nothing else creates one.
+  The package root publishes the homepage at `/thalorna/`.
 - **Expands** its fenced `sql` table directives — SQL run by DuckDB over the
   content index — against every published note.
 - **Resolves** its wikilinks to site-local hrefs — the same authored links the

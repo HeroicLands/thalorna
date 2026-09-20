@@ -64,41 +64,6 @@ site:
     # No `trees:` — this repository publishes no documentation tree beside its
     # content. No `pass:` — this repository has no body-rewrite bundle of its
     # own.
-    #
-    # `backfillSections` is off: it writes a bare landing for every directory
-    # under the mount, and with pages emitted flat the only directories are
-    # the ones declared below, which already state their own titles.
-    #
-    # Every section this package publishes, so `/thalorna/<section>/` answers
-    # with a titled page rather than a directory listing — a page is addressed
-    # `(type, shortcode)` and written flat, so nothing else creates the
-    # directory. The list is also what the package landing's card grid is
-    # built from: `assets/content/homepage.md` declares `cards.source:
-    # sections`, which reads the site's own top-level sections, so a section
-    # missing here is a card missing there.
-    #
-    # `listType` is not optional in practice: flat emission left every landing
-    # with an empty `.Pages`, so a section that names nothing renders "Nothing
-    # here yet." The theme falls back to a site-wide query — `where
-    # site.RegularPages "Type" .Params.listType` — which asks what a page *is*
-    # rather than where its file sits, so it is indifferent to the flat
-    # layout.
-    #
-    # `reference` is `type: doc, subType: reference`, and every doc genre
-    # shares `type: doc`, so `listType` alone would sweep the whole tree in —
-    # `listSubType` narrows it.
-    sections:
-        affiliation: { title: Affiliations, listType: affiliation }
-        being: { title: Beings, listType: being }
-        concoctiongear: { title: Concoctions, listType: concoctiongear }
-        lore: { title: Lore, listType: lore }
-        mystery: { title: Mysteries, listType: mystery }
-        mysticalability: { title: Mystical Abilities, listType: mysticalability }
-        place: { title: Places, listType: place }
-        reference: { title: Reference, listType: doc, listSubType: reference }
-        scenario: { title: Scenarios, listType: scenario }
-        skill: { title: Skills, listType: skill }
-        weapongear: { title: Weapons, listType: weapongear }
 
     # A relative `url` here is resolved against this site's own base, so it
     # survives a move.
