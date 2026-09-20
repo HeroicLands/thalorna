@@ -10,8 +10,7 @@ name:
   given: Mildred
   clan: Harden
   home: brynhallow
-  aliases:
-    - Elda Brightbrew
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: mildrdhrdn
 type: being
@@ -558,7 +557,7 @@ Mildred Harden is a 45-year-old woman who stands 5'10" tall and is of moderate b
 
 Born in the Aelwyth region to a guilded family of Aelwythan heritage, Mildred Harden came into the world of the innkeeper through a combination of circumstance and aptitude.
 
-Elda has run the Brightbrew Inn for over twenty years, offering travelers a warm meal and a cozy bed. Known for her hospitality and excellent brewing skills, she prides herself on serving the finest ale in town. Elda has a talent for making guests feel at home and often shares stories from her own travels. Her inn is a popular gathering place for locals and travelers alike.
+Mildred has run the Harden Inn for over twenty years, offering travelers a warm meal and a cozy bed. Known for her hospitality and excellent brewing skills, she prides herself on serving the finest ale in town. Mildred has a talent for making guests feel at home and often shares stories from her own travels. Her inn is a popular gathering place for locals and travelers alike.
 
 Now at 45 years of age, Mildred Harden has established herself as a known figure among the innkeepers of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

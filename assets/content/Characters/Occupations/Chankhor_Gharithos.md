@@ -9,8 +9,7 @@ name:
   given: Chânkhor
   clan: Ghârîthôs
   home: theradon2
-  aliases:
-    - Garrick Stablemaster
+  aliases: []
 packFolder: helladhelionis
 shortcode: chnkhrghrths
 type: being
@@ -558,7 +557,7 @@ Chânkhor Ghârîthôs is a 42-year-old man who stands 6'3" tall and is broad an
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Chânkhor Ghârîthôs came into the world of the ostler through a combination of circumstance and aptitude.
 
-Garrick is a seasoned ostler who has managed stables for many years. With a wealth of knowledge about different horse breeds and their care requirements, he is often called upon for his expertise. Garrick takes pride in maintaining a well-organized stable and often trains younger ostlers in proper care techniques. His strong presence and experience make him a respected figure in the community.
+Chânkhor is a seasoned ostler who has managed stables for many years. With a wealth of knowledge about different horse breeds and their care requirements, he is often called upon for his expertise. Chânkhor takes pride in maintaining a well-organized stable and often trains younger ostlers in proper care techniques. His strong presence and experience make him a respected figure in the community.
 
 Now at 42 years of age, Chânkhor Ghârîthôs has established himself as a known figure among the ostlers of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 

@@ -9,8 +9,7 @@ name:
   given: Aevarr
   clan: Hafringr
   home: bloth
-  aliases:
-    - Roderick Heavyload
+  aliases: []
 packFolder: ankarisnordlands
 shortcode: aevrhfrngr
 type: being
@@ -559,7 +558,7 @@ Aevarr Hafringr is a 45-year-old man who stands 6'0" tall and is broad and solid
 
 Born in the Nordheim region to a freeman family of Nordheimn heritage, Aevarr Hafringr came into the world of the longshoreman through a combination of circumstance and aptitude.
 
-Roderick is a veteran longshoreman with over twenty years of experience on the docks. He has seen the industry evolve and is known for his knowledge of shipping practices and safety protocols. Roderick takes pride in mentoring younger workers and is often called upon to resolve disputes or oversee complex loading operations. He values hard work and camaraderie, making him a respected figure among his peers.
+Aevarr is a veteran longshoreman with over twenty years of experience on the docks. He has seen the industry evolve and is known for his knowledge of shipping practices and safety protocols. Aevarr takes pride in mentoring younger workers and is often called upon to resolve disputes or oversee complex loading operations. He values hard work and camaraderie, making him a respected figure among his peers.
 
 Now at 45 years of age, Aevarr Hafringr has established himself as a known figure among the longshoremans of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 

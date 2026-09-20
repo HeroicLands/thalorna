@@ -9,8 +9,7 @@ name:
   given: Thésia
   clan: Delvánor
   home: null # was: Eskárath
-  aliases:
-    - Seraphine Steelheart
+  aliases: []
 packFolder: aureldiatarvenia
 shortcode: thesidlvnr
 type: being
@@ -558,7 +557,7 @@ Thésia Delvánor is a 29-year-old woman who stands 5'10" tall and is of moderat
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Thésia Delvánor came into the world of the mercenary through a combination of circumstance and aptitude.
 
-Seraphine is a skilled fighter and mercenary who has built a reputation for her combat prowess. With a strong moral code, she takes on jobs that align with her beliefs, often defending the downtrodden and fighting against oppression. Seraphine is known for her bravery and willingness to put herself in harm's way to protect others. She dreams of one day forming her own mercenary company.
+Thésia is a skilled fighter and mercenary who has built a reputation for her combat prowess. With a strong moral code, she takes on jobs that align with her beliefs, often defending the downtrodden and fighting against oppression. Thésia is known for her bravery and willingness to put herself in harm's way to protect others. She dreams of one day forming her own mercenary company.
 
 Now at 29 years of age, Thésia Delvánor has established herself as a known figure among the mercenarys of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

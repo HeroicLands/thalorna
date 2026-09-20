@@ -9,8 +9,7 @@ name:
   given: Sahîra
   clan: Tâbîrês
   home: pelagora2
-  aliases:
-    - Elowen Quillmaster
+  aliases: []
 packFolder: helladhelionis
 shortcode: sahiratbrs
 type: being
@@ -557,7 +556,7 @@ Sahîra Tâbîrês is a 29-year-old woman who stands 5'11" tall and is of modera
 
 Born in the Heliónis region to a noble family of Helionite heritage, Sahîra Tâbîrês came into the world of the scribe through a combination of circumstance and aptitude.
 
-Elowen is a skilled scribe known for her elegant handwriting and meticulous attention to detail. She works in a busy urban office, where she transcribes documents, letters, and legal texts for merchants and noble families. Elowen takes great pride in her work and is often sought after for her ability to create beautiful manuscripts. In her spare time, she enjoys studying literature and dreams of writing her own book someday.
+Sahîra is a skilled scribe known for her elegant handwriting and meticulous attention to detail. She works in a busy urban office, where she transcribes documents, letters, and legal texts for merchants and noble families. Sahîra takes great pride in her work and is often sought after for her ability to create beautiful manuscripts. In her spare time, she enjoys studying literature and dreams of writing her own book someday.
 
 Now at 29 years of age, Sahîra Tâbîrês has established herself as a known figure among the scribes of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

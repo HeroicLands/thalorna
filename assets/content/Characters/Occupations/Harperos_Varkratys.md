@@ -9,8 +9,7 @@ name:
   given: Harpêros
   clan: Vârkrâtys
   home: corvinus
-  aliases:
-    - Orin Swiftbow
+  aliases: []
 packFolder: midhalionvylaria
 shortcode: hrprsvrkrtys
 type: being
@@ -560,7 +559,7 @@ Harpêros Vârkrâtys is a 39-year-old man who stands 5'11" tall and is of moder
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Harpêros Vârkrâtys came into the world of the yeoman archer through a combination of circumstance and aptitude.
 
-Orin has served as a yeoman archer for most of his adult life. He has extensive experience in both hunting and military service, making him a valuable asset to the local militia. Orin prefers to stay out of the limelight, quietly doing his duty and teaching younger archers. His calm demeanor makes him a natural leader, though he rarely seeks the role.
+Harpêros has served as a yeoman archer for most of his adult life. He has extensive experience in both hunting and military service, making him a valuable asset to the local militia. Harpêros prefers to stay out of the limelight, quietly doing his duty and teaching younger archers. His calm demeanor makes him a natural leader, though he rarely seeks the role.
 
 Now at 39 years of age, Harpêros Vârkrâtys has established himself as a known figure among the yeoman archers of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
 

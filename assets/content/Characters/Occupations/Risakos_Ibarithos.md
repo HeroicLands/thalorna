@@ -9,8 +9,7 @@ name:
   given: Rísàkós
   clan: Ibârìthôs
   home: korinthea2
-  aliases:
-    - Osbert Kett
+  aliases: []
 packFolder: helladhelionis
 shortcode: risksbrths
 type: being
@@ -560,7 +559,7 @@ Rísàkós Ibârìthôs is a 46-year-old man who stands 5'8" tall and is of mode
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Rísàkós Ibârìthôs came into the world of the apothecary through a combination of circumstance and aptitude.
 
-Osbert began as an assistant to an apothecary who dealt with both legitimate medicine and more questionable practices. He learned a wide variety of skills, from crafting remedies to mixing poisons. He now runs a small apothecary shop on the outskirts of town, where he serves both the desperate and the morally dubious.
+Rísàkós began as an assistant to an apothecary who dealt with both legitimate medicine and more questionable practices. He learned a wide variety of skills, from crafting remedies to mixing poisons. He now runs a small apothecary shop on the outskirts of town, where he serves both the desperate and the morally dubious.
 
 Now at 46 years of age, Rísàkós Ibârìthôs has established himself as a known figure among the apothecarys of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 

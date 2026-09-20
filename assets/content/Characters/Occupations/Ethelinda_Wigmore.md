@@ -9,8 +9,7 @@ name:
   given: Ethelinda
   clan: Wigmore
   home: kingsholow
-  aliases:
-    - Brenna Lockwood
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: ethlndwgmr
 type: being
@@ -560,7 +559,7 @@ Ethelinda Wigmore is a 34-year-old woman who stands 6'0" tall and is of moderate
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Ethelinda Wigmore came into the world of the jailer through a combination of circumstance and aptitude.
 
-Brenna became a jailer after serving as a city guard for several years. She was drawn to the role because of the opportunity to make a difference by maintaining order and safety within the prison. Known for her sharp mind and keen observation skills, Brenna is good at reading people and often mediates disputes between inmates. While dedicated to her work, she sometimes struggles with the harshness of the environment.
+Ethelinda became a jailer after serving as a city guard for several years. She was drawn to the role because of the opportunity to make a difference by maintaining order and safety within the prison. Known for her sharp mind and keen observation skills, Ethelinda is good at reading people and often mediates disputes between inmates. While dedicated to her work, she sometimes struggles with the harshness of the environment.
 
 Now at 34 years of age, Ethelinda Wigmore has established herself as a known figure among the jailers of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

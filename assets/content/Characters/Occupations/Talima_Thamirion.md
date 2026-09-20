@@ -9,8 +9,7 @@ name:
   given: Tàlîma
   clan: Thamîrîon
   home: korinthea2
-  aliases:
-    - Brynn Digger
+  aliases: []
 packFolder: helladhelionis
 shortcode: talimthmrn
 type: being
@@ -559,7 +558,7 @@ Tàlîma Thamîrîon is a 26-year-old woman who stands 5'8" tall and is slender.
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Tàlîma Thamîrîon came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
 
-Brynn grew up in the city and was drawn to the art of engineering. She has trained as a sapper and quickly gained a reputation for her skills in tunnel construction and demolition. Known for her quick thinking and resourcefulness, Brynn often devises creative solutions to challenges. She aspires to become a master sapper and help design fortifications.
+Tàlîma grew up in the city and was drawn to the art of engineering. She has trained as a sapper and quickly gained a reputation for her skills in tunnel construction and demolition. Known for her quick thinking and resourcefulness, Tàlîma often devises creative solutions to challenges. She aspires to become a master sapper and help design fortifications.
 
 Now at 26 years of age, Tàlîma Thamîrîon has established herself as a known figure among the man-at-arms (sapper)s of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

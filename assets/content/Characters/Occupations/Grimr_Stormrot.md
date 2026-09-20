@@ -9,8 +9,7 @@ name:
   given: Grímr
   clan: Stormrót
   home: greyfjord
-  aliases:
-    - Alistair Goldcrest
+  aliases: []
 packFolder: ankarisnordlands
 shortcode: grmrstrmrt
 type: being
@@ -559,7 +558,7 @@ Grímr Stormrót is a 38-year-old man who stands 5'6" tall and is of moderate bu
 
 Born in the Nordheim region to a noble family of Nordheimn heritage, Grímr Stormrót came into the world of the litigant through a combination of circumstance and aptitude.
 
-Alistair hails from a prominent family of lawyers and has made a name for himself in the Litigant's Guild. Known for his sharp intellect and eloquence, he specializes in contract disputes and property law. Alistair has a reputation for being a formidable opponent in the courtroom and is sought after by clients seeking to protect their interests. He believes strongly in justice and fairness.
+Grímr hails from a prominent family of lawyers and has made a name for himself in the Litigant's Guild. Known for his sharp intellect and eloquence, he specializes in contract disputes and property law. Grímr has a reputation for being a formidable opponent in the courtroom and is sought after by clients seeking to protect their interests. He believes strongly in justice and fairness.
 
 Now at 38 years of age, Grímr Stormrót has established himself as a known figure among the litigants of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 

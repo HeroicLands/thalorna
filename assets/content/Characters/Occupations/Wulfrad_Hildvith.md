@@ -9,8 +9,7 @@ name:
   given: Wulfrád
   clan: Hildvith
   home: eichengrnd
-  aliases:
-    - Garrick Blastforge
+  aliases: []
 packFolder: ankarisvrystwald
 shortcode: wlfrdhldvth
 type: being
@@ -560,7 +559,7 @@ Wulfrád Hildvith is a 40-year-old man who stands 6'1" tall and is broad and sol
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Wulfrád Hildvith came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
 
-Garrick has dedicated his life to the art of siege warfare as a sapper. With years of experience, he is skilled in constructing defensive structures and demolishing enemy fortifications. Known for his practical knowledge and leadership, he often trains new recruits in the art of engineering. Garrick believes in the importance of teamwork and often emphasizes safety in his training.
+Wulfrád has dedicated his life to the art of siege warfare as a sapper. With years of experience, he is skilled in constructing defensive structures and demolishing enemy fortifications. Known for his practical knowledge and leadership, he often trains new recruits in the art of engineering. Wulfrád believes in the importance of teamwork and often emphasizes safety in his training.
 
 Now at 40 years of age, Wulfrád Hildvith has established himself as a known figure among the man-at-arms (sapper)s of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 

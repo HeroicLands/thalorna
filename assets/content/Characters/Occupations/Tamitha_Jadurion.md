@@ -9,8 +9,7 @@ name:
   given: Tamîtha
   clan: Jâdurîon
   home: pelagora2
-  aliases:
-    - Elysia Stonehewer
+  aliases: []
 packFolder: helladhelionis
 shortcode: tamithjdrn
 type: being
@@ -560,7 +559,7 @@ Tamîtha Jâdurîon is a 28-year-old woman who stands 5'11" tall and is slender.
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Tamîtha Jâdurîon came into the world of the mason through a combination of circumstance and aptitude.
 
-Elysia is a skilled mason who learned the trade from her father, who was also a respected stoneworker. She specializes in bricklaying and often works on public buildings and homes. Elysia has faced challenges in a male-dominated field but has proven herself through hard work and determination. Her attention to detail and dedication to quality make her a sought-after mason in the area.
+Tamîtha is a skilled mason who learned the trade from her father, who was also a respected stoneworker. She specializes in bricklaying and often works on public buildings and homes. Tamîtha has faced challenges in a male-dominated field but has proven herself through hard work and determination. Her attention to detail and dedication to quality make her a sought-after mason in the area.
 
 Now at 28 years of age, Tamîtha Jâdurîon has established herself as a known figure among the masons of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

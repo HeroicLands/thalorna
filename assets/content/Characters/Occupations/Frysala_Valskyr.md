@@ -9,8 +9,7 @@ name:
   given: Frýsala
   clan: Válskyr
   home: fiordaure
-  aliases:
-    - Sigrid Frostholm
+  aliases: []
 packFolder: aureldiaprovenzia
 shortcode: fryslvlskyr
 type: being
@@ -557,7 +556,7 @@ Frýsala Válskyr is a 42-year-old woman who stands 5'10" tall and is of moderat
 
 Born in the Provènzia region to a noble family of Provenzian heritage, Frýsala Válskyr came into the world of the chieftain through a combination of circumstance and aptitude.
 
-Sigrid became chieftain after her father's death in battle, leading her clan with a mix of tradition and innovation. Known for her strategic mind, she has strengthened her tribe's alliances and fortified their lands. Though some elders question her methods, Sigrid's victories against raiders have earned her respect.
+Frýsala became chieftain after her father's death in battle, leading her clan with a mix of tradition and innovation. Known for her strategic mind, she has strengthened her tribe's alliances and fortified their lands. Though some elders question her methods, Frýsala's victories against raiders have earned her respect.
 
 Now at 42 years of age, Frýsala Válskyr has established herself as a known figure among the chieftains of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

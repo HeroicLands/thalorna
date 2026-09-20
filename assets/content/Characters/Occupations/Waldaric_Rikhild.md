@@ -9,8 +9,7 @@ name:
   given: Waldaric
   clan: Ríkhild
   home: grimholt
-  aliases:
-    - Edric Bannerman
+  aliases: []
 packFolder: ankarisvrystwald
 shortcode: wldrcrkhld
 type: being
@@ -560,7 +559,7 @@ Waldaric Ríkhild is a 44-year-old man who stands 5'11" tall and is of moderate 
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Waldaric Ríkhild came into the world of the tentmaker through a combination of circumstance and aptitude.
 
-Edric has been making tents and canvas goods for traveling merchants, soldiers, and wanderers for over twenty years. He runs a small workshop in the city, where he stitches and repairs tents, awnings, and other cloth items. Known for his sturdy products, Edric has a reputation for reliability, though his shop struggles to compete with larger manufacturers. He takes pride in his craftsmanship but sometimes sacrifices speed for quality.
+Waldaric has been making tents and canvas goods for traveling merchants, soldiers, and wanderers for over twenty years. He runs a small workshop in the city, where he stitches and repairs tents, awnings, and other cloth items. Known for his sturdy products, Waldaric has a reputation for reliability, though his shop struggles to compete with larger manufacturers. He takes pride in his craftsmanship but sometimes sacrifices speed for quality.
 
 Now at 44 years of age, Waldaric Ríkhild has established himself as a known figure among the tentmakers of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 

@@ -9,8 +9,7 @@ name:
   given: Erthran
   clan: Hildvith
   home: waldburg
-  aliases:
-    - Bram Hollowfoot
+  aliases: []
 packFolder: ankarisvrystwald
 shortcode: erthrnhldvth
 type: being
@@ -559,7 +558,7 @@ Erthran Hildvith is a 44-year-old man who stands 6'0" tall and is of moderate bu
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Erthran Hildvith came into the world of the trapper through a combination of circumstance and aptitude.
 
-Bram has spent his entire life in the forest, trapping animals for their fur and meat. He learned the trade from his father, who taught him to respect nature and take only what is needed. Bram is a skilled tracker and has an intimate knowledge of the local wildlife. He is often hired to remove problem animals or gather furs for traders, though he avoids over-trapping out of a deep respect for the land.
+Erthran has spent his entire life in the forest, trapping animals for their fur and meat. He learned the trade from his father, who taught him to respect nature and take only what is needed. Erthran is a skilled tracker and has an intimate knowledge of the local wildlife. He is often hired to remove problem animals or gather furs for traders, though he avoids over-trapping out of a deep respect for the land.
 
 Now at 44 years of age, Erthran Hildvith has established himself as a known figure among the trappers of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 

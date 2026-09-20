@@ -9,8 +9,7 @@ name:
   given: Vígbrandr
   clan: Steinblót
   home: ulfheim
-  aliases:
-    - Lucien Nightshade
+  aliases: []
 packFolder: ankarisnordlands
 shortcode: vgbrndrstnblt
 type: being
@@ -559,7 +558,7 @@ Vígbrandr Steinblót is a 35-year-old man who stands 5'7" tall and is of modera
 
 Born in the Nordheim region to a noble family of Nordheimn heritage, Vígbrandr Steinblót came into the world of the perfumer through a combination of circumstance and aptitude.
 
-Lucien is a renowned perfumer who specializes in crafting bold and exotic scents. He is known for using unconventional ingredients, often sourcing rare plants and flowers from distant lands. Lucien has developed a reputation for his artistic approach to perfumery and has garnered a loyal clientele. He enjoys the challenge of creating scents that evoke powerful emotions and memories.
+Vígbrandr is a renowned perfumer who specializes in crafting bold and exotic scents. He is known for using unconventional ingredients, often sourcing rare plants and flowers from distant lands. Vígbrandr has developed a reputation for his artistic approach to perfumery and has garnered a loyal clientele. He enjoys the challenge of creating scents that evoke powerful emotions and memories.
 
 Now at 35 years of age, Vígbrandr Steinblót has established himself as a known figure among the perfumers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 

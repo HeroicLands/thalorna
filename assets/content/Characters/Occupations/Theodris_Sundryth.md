@@ -9,8 +9,7 @@ name:
   given: Theódris
   clan: Sundrýth
   home: grimholt
-  aliases:
-    - Mirabelle Thorn
+  aliases: []
 packFolder: ankarisvrystwald
 shortcode: thdrsndryth
 type: being
@@ -555,7 +554,7 @@ Theódris Sundrýth is a 29-year-old woman who stands 5'3" tall and is slender. 
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Theódris Sundrýth came into the world of the beggar through a combination of circumstance and aptitude.
 
-Mirabelle was left to fend for herself at a young age after her mother passed away. She learned to survive on the streets, using her wits to find food and avoid trouble. Her beautiful singing voice has brought her occasional favor, though she still struggles to escape the cycle of poverty.
+Theódris was left to fend for herself at a young age after her mother passed away. She learned to survive on the streets, using her wits to find food and avoid trouble. Her beautiful singing voice has brought her occasional favor, though she still struggles to escape the cycle of poverty.
 
 Now at 29 years of age, Theódris Sundrýth has established herself as a known figure among the beggars of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

@@ -9,8 +9,7 @@ name:
   given: Ghârîdos
   clan: Mûrâdês
   home: korinthea2
-  aliases:
-    - Marcus Tidebreaker
+  aliases: []
 packFolder: helladhelionis
 shortcode: ghardsmrds
 type: being
@@ -556,7 +555,7 @@ Ghârîdos Mûrâdês is a 30-year-old man who stands 6'3" tall and is broad and
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Ghârîdos Mûrâdês came into the world of the longshoreman through a combination of circumstance and aptitude.
 
-Marcus has spent the last decade working on the docks, where he has become a vital part of the shipping and cargo handling operations. Known for his strength and reliability, he often takes on the heaviest loads and is responsible for ensuring that cargo is loaded and unloaded safely and efficiently. Marcus enjoys the camaraderie of his fellow workers and takes pride in the essential role he plays in trade.
+Ghârîdos has spent the last decade working on the docks, where he has become a vital part of the shipping and cargo handling operations. Known for his strength and reliability, he often takes on the heaviest loads and is responsible for ensuring that cargo is loaded and unloaded safely and efficiently. Ghârîdos enjoys the camaraderie of his fellow workers and takes pride in the essential role he plays in trade.
 
 Now at 30 years of age, Ghârîdos Mûrâdês has established himself as a known figure among the longshoremans of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 

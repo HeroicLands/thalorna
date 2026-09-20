@@ -10,8 +10,7 @@ name:
   given: Girmûn
   clan: Takkûnûm
   home: azhun2
-  aliases:
-    - Maerwin Blathe
+  aliases: []
 packFolder: midhalionharad
 shortcode: girmuntknm
 type: being
@@ -561,7 +560,7 @@ Girmûn Takkûnûm is a 52-year-old man who stands 5'7" tall and is of moderate 
 
 Born in the Harad region to a guilded family of Haradian heritage, Girmûn Takkûnûm came into the world of the apothecary through a combination of circumstance and aptitude.
 
-Maerwin is a well-known apothecary in the city, often sought after for his knowledge of rare medicinal herbs and remedies. He inherited the shop from his father, who was also an apothecary. Maerwin has seen the darker side of city life, treating those who come to him for poisons as well as cures.
+Girmûn is a well-known apothecary in the city, often sought after for his knowledge of rare medicinal herbs and remedies. He inherited the shop from his father, who was also an apothecary. Girmûn has seen the darker side of city life, treating those who come to him for poisons as well as cures.
 
 Now at 52 years of age, Girmûn Takkûnûm has established himself as a known figure among the apothecarys of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
 

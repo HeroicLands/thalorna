@@ -9,8 +9,7 @@ name:
   given: Bràzenlâs
   clan: Vânamyês
   home: corvinus
-  aliases:
-    - Orwin Blackshade
+  aliases: []
 packFolder: midhalionvylaria
 shortcode: brznlsvnmys
 type: being
@@ -561,7 +560,7 @@ Bràzenlâs Vânamyês is a 52-year-old man who stands 6'0" tall and is of moder
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Bràzenlâs Vânamyês came into the world of the embalmer through a combination of circumstance and aptitude.
 
-Orwin has been an embalmer for over three decades, following in the footsteps of his father and grandfather. He is a traditionalist who adheres to the old methods of preservation and respects the ancient customs of the trade. Orwin believes that the dead must be prepared properly to ensure their peaceful passage to the afterlife. While he is dedicated and skilled, his somber nature and adherence to tradition make him appear unapproachable to some.
+Bràzenlâs has been an embalmer for over three decades, following in the footsteps of his father and grandfather. He is a traditionalist who adheres to the old methods of preservation and respects the ancient customs of the trade. Bràzenlâs believes that the dead must be prepared properly to ensure their peaceful passage to the afterlife. While he is dedicated and skilled, his somber nature and adherence to tradition make him appear unapproachable to some.
 
 Now at 52 years of age, Bràzenlâs Vânamyês has established himself as a known figure among the embalmers of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
 

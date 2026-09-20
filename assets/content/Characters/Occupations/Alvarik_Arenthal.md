@@ -9,8 +9,7 @@ name:
   given: Alvárik
   clan: Árenthal
   home: valdes
-  aliases:
-    - Jory Wheatfield
+  aliases: []
 packFolder: aureldiatarvenia
 shortcode: alvrkrnthl
 type: being
@@ -560,7 +559,7 @@ Alvárik Árenthal is a 41-year-old man who stands 6'2" tall and is broad and so
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Alvárik Árenthal came into the world of the farmer through a combination of circumstance and aptitude.
 
-Jory comes from a long line of farmers and has spent his life tending the fields. He grows wheat and barley on his family's land, which has been passed down through generations. Jory is a hardworking and practical man who takes pride in the quality of his crops. Though life as a farmer can be difficult, he finds fulfillment in the cycles of planting and harvest.
+Alvárik comes from a long line of farmers and has spent his life tending the fields. He grows wheat and barley on his family's land, which has been passed down through generations. Alvárik is a hardworking and practical man who takes pride in the quality of his crops. Though life as a farmer can be difficult, he finds fulfillment in the cycles of planting and harvest.
 
 Now at 41 years of age, Alvárik Árenthal has established himself as a known figure among the farmers of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
 

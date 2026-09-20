@@ -9,8 +9,7 @@ name:
   given: Ármund
   clan: Hildskorn
   home: falkensten
-  aliases:
-    - Jorvik the Merry
+  aliases: []
 packFolder: ankarisvrystwald
 shortcode: armndhldskrn
 type: being
@@ -556,7 +555,7 @@ sohl:
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Ármund Hildskorn came into the world of the jester through a combination of circumstance and aptitude.
 
-Jorvik grew up in the bustling streets of the city, using humor and wit to entertain those around him. He earned a reputation as a talented jester, known for his clever wordplay, acrobatics, and mimicry. Jorvik now serves as the jester for the Duke, entertaining guests with his antics and providing comic relief during formal events. Despite his cheerful demeanor, he often uses humor to mask deeper insecurities.
+Ármund grew up in the bustling streets of the city, using humor and wit to entertain those around him. He earned a reputation as a talented jester, known for his clever wordplay, acrobatics, and mimicry. Ármund now serves as the jester for the Duke, entertaining guests with his antics and providing comic relief during formal events. Despite his cheerful demeanor, he often uses humor to mask deeper insecurities.
 
 Now at 30 years of age, Ármund Hildskorn has established himself as a known figure among the jesters of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 

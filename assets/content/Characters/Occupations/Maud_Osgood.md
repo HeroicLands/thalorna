@@ -9,8 +9,7 @@ name:
   given: Maud
   clan: Osgood
   home: greywater
-  aliases:
-    - Gytha Craggs
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: maudosgood
 type: being
@@ -556,7 +555,7 @@ Maud Osgood is a 62-year-old woman who stands 5'5" tall and is slight of build. 
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Maud Osgood came into the world of the beggar through a combination of circumstance and aptitude.
 
-Gytha has been living on the streets for most of her life, begging for scraps and coins. Once a domestic servant, she fell into poverty after the death of her employer, leaving her with no family or means to survive. Gytha is resourceful and has learned how to navigate the dangers of city life, relying on both charity and cunning to get by.
+Maud has been living on the streets for most of her life, begging for scraps and coins. Once a domestic servant, she fell into poverty after the death of her employer, leaving her with no family or means to survive. Maud is resourceful and has learned how to navigate the dangers of city life, relying on both charity and cunning to get by.
 
 Now at 62 years of age, Maud Osgood has established herself as a known figure among the beggars of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

@@ -9,8 +9,7 @@ name:
   given: Qirûsh
   clan: Tarûzî
   home: sulun
-  aliases:
-    - Torvin Hidebark
+  aliases: []
 packFolder: midhalionharad
 shortcode: qirushtarz
 type: being
@@ -558,7 +557,7 @@ Qirûsh Tarûzî is a 41-year-old man who stands 5'11" tall and is of moderate b
 
 Born in the Harad region to a freeman family of Haradian heritage, Qirûsh Tarûzî came into the world of the hideworker through a combination of circumstance and aptitude.
 
-Torvin has spent his life working with animal hides, learning the craft from his father. He specializes in tanning and crafting leather goods, including clothing, armor, and accessories. Known for his meticulous work and quality, Torvin takes pride in using traditional methods to create durable and functional items. He is respected in his community, but the labor is physically demanding and can take a toll on his body.
+Qirûsh has spent his life working with animal hides, learning the craft from his father. He specializes in tanning and crafting leather goods, including clothing, armor, and accessories. Known for his meticulous work and quality, Qirûsh takes pride in using traditional methods to create durable and functional items. He is respected in his community, but the labor is physically demanding and can take a toll on his body.
 
 Now at 41 years of age, Qirûsh Tarûzî has established himself as a known figure among the hideworkers of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
 

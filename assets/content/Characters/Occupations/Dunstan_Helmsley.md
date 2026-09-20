@@ -9,8 +9,7 @@ name:
   given: Dunstan
   clan: Helmsley
   home: ashford
-  aliases:
-    - Eirik Stonehand
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: dnstnhlmsly
 type: being
@@ -555,7 +554,7 @@ Dunstan Helmsley is a 49-year-old man who stands 6'5" tall and is broad and soli
 
 Born in the Aelwyth region to a noble family of Aelwythan heritage, Dunstan Helmsley came into the world of the chieftain through a combination of circumstance and aptitude.
 
-Eirik, known as "Stonehand" for his immense strength, leads a clan that values martial prowess above all. He gained his title through numerous feats of strength and skill in combat. Though he is a fierce warrior, Eirik struggles with diplomacy, often letting his temper dictate his actions.
+Dunstan, known as "Helmsley" for his immense strength, leads a clan that values martial prowess above all. He gained his title through numerous feats of strength and skill in combat. Though he is a fierce warrior, Dunstan struggles with diplomacy, often letting his temper dictate his actions.
 
 Now at 49 years of age, Dunstan Helmsley has established himself as a known figure among the chieftains of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 

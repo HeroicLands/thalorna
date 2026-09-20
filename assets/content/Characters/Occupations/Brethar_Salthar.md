@@ -9,8 +9,7 @@ name:
   given: Bréthar
   clan: Sálthar
   home: valdun
-  aliases:
-    - Beran Rookwood
+  aliases: []
 packFolder: aureldiaelavendre
 shortcode: brthrslthr
 type: being
@@ -560,7 +559,7 @@ Bréthar Sálthar is a 51-year-old man who stands 6'2" tall and is broad and sol
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Bréthar Sálthar came into the world of the charcoaler through a combination of circumstance and aptitude.
 
-Beran has worked as a charcoaler in the dense forests near his village for most of his life, producing charcoal used by blacksmiths and households alike. The work is physically demanding and dangerous, involving long hours and exposure to smoke and fire, but Beran takes pride in his craft. He is known as a hardworking and gruff man, though his stubborn nature sometimes gets him into conflicts.
+Bréthar has worked as a charcoaler in the dense forests near his village for most of his life, producing charcoal used by blacksmiths and households alike. The work is physically demanding and dangerous, involving long hours and exposure to smoke and fire, but Bréthar takes pride in his craft. He is known as a hardworking and gruff man, though his stubborn nature sometimes gets him into conflicts.
 
 Now at 51 years of age, Bréthar Sálthar has established himself as a known figure among the charcoalers of Élavendre. His reputation, for better or worse, precedes him in the circles where such things matter.
 

@@ -10,8 +10,7 @@ name:
   given: Harphôs
   clan: Ôrchârenîs
   home: aelissium
-  aliases:
-    - Alric Henton
+  aliases: []
 packFolder: midhalionvylaria
 shortcode: hrphsrchrns
 type: being
@@ -559,7 +558,7 @@ Harphôs Ôrchârenîs is a 38-year-old man who stands 5'10" tall and is of mode
 
 Born in the Vylaría region to a guilded family of Vylarian heritage, Harphôs Ôrchârenîs came into the world of the chandler through a combination of circumstance and aptitude.
 
-Alric operates a bustling candle shop in the city, catering to the demands of the local nobility as well as commoners. He uses a mix of beeswax and tallow to produce candles for different price ranges, often adding scents and colors for variety. Ambitious and entrepreneurial, Alric is always looking for ways to expand his business.
+Harphôs operates a bustling candle shop in the city, catering to the demands of the local nobility as well as commoners. He uses a mix of beeswax and tallow to produce candles for different price ranges, often adding scents and colors for variety. Ambitious and entrepreneurial, Harphôs is always looking for ways to expand his business.
 
 Now at 38 years of age, Harphôs Ôrchârenîs has established himself as a known figure among the chandlers of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
 

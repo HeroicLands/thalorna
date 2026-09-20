@@ -9,8 +9,7 @@ name:
   given: Óskar
   clan: Brýlond
   home: fiordaure
-  aliases:
-    - Anton Silverhand
+  aliases: []
 packFolder: aureldiaprovenzia
 shortcode: oskrbrylnd
 type: being
@@ -558,7 +557,7 @@ sohl:
 
 Born in the Provènzia region to a noble family of Provenzian heritage, Óskar Brýlond came into the world of the mercantyler through a combination of circumstance and aptitude.
 
-Anton has been in the mercantile business for decades, specializing in the trade of precious metals and gems. He is known for his integrity and expertise in evaluating the worth of goods. Anton often advises young traders and is respected for his extensive knowledge of the market and negotiation tactics. He values honesty and strives to create lasting relationships with his clients.
+Óskar has been in the mercantile business for decades, specializing in the trade of precious metals and gems. He is known for his integrity and expertise in evaluating the worth of goods. Óskar often advises young traders and is respected for his extensive knowledge of the market and negotiation tactics. He values honesty and strives to create lasting relationships with his clients.
 
 Now at 46 years of age, Óskar Brýlond has established himself as a known figure among the mercantylers of Provènzia. His reputation, for better or worse, precedes him in the circles where such things matter.
 

@@ -9,8 +9,7 @@ name:
   given: Aldwin
   clan: Grayling
   home: ravenmoor
-  aliases:
-    - Harlon Pitch
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: aldwngrylng
 type: being
@@ -556,7 +555,7 @@ Aldwin Grayling is a 48-year-old man who stands 6'0" tall and is of moderate bui
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Aldwin Grayling came into the world of the beggar through a combination of circumstance and aptitude.
 
-Harlon once worked as a farmhand but lost his job after a poor harvest left the farm struggling to survive. He drifted to the nearest town in search of work but ended up living on the streets, begging for coin. Harlon is determined to find his way back to a better life, though his pride sometimes prevents him from accepting help.
+Aldwin once worked as a farmhand but lost his job after a poor harvest left the farm struggling to survive. He drifted to the nearest town in search of work but ended up living on the streets, begging for coin. Aldwin is determined to find his way back to a better life, though his pride sometimes prevents him from accepting help.
 
 Now at 48 years of age, Aldwin Grayling has established himself as a known figure among the beggars of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 

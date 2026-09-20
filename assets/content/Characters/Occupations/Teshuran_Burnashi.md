@@ -9,8 +9,7 @@ name:
   given: Teshûran
   clan: Bûrnashî
   home: kethara2
-  aliases:
-    - Galen Stonehart
+  aliases: []
 packFolder: midhalionharad
 shortcode: tshrnbrnsh
 type: being
@@ -561,7 +560,7 @@ Teshûran Bûrnashî is a 50-year-old man who stands 6'0" tall and is broad and 
 
 Born in the Harad region to a freeman family of Haradian heritage, Teshûran Bûrnashî came into the world of the swordmaster through a combination of circumstance and aptitude.
 
-Galen was a mercenary who spent most of his life fighting in various skirmishes and wars. After losing his left eye in a battle, he retired from mercenary life and settled in a small village, where he teaches swordsmanship to young men and women seeking to defend their homeland. Galen's experience in real combat sets him apart from other swordmasters, but his past haunts him, and he struggles with guilt over the lives he took.
+Teshûran was a mercenary who spent most of his life fighting in various skirmishes and wars. After losing his left eye in a battle, he retired from mercenary life and settled in a small village, where he teaches swordsmanship to young men and women seeking to defend their homeland. Teshûran's experience in real combat sets him apart from other swordmasters, but his past haunts him, and he struggles with guilt over the lives he took.
 
 Now at 50 years of age, Teshûran Bûrnashî has established himself as a known figure among the swordmasters of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
 

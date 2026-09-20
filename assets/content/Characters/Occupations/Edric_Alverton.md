@@ -9,8 +9,7 @@ name:
   given: Edric
   clan: Alverton
   home: brynhallow
-  aliases:
-    - Bram Hollowhill
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: edriclvrtn
 type: being
@@ -560,7 +559,7 @@ Edric Alverton is a 53-year-old man who stands 5'11" tall and is broad and solid
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Edric Alverton came into the world of the farmer through a combination of circumstance and aptitude.
 
-Bram has worked his small farm for decades, growing a variety of vegetables and raising livestock. He values hard work and takes pride in his self-sufficiency. Known for his gruff but kind demeanor, Bram often lends a hand to his neighbors when they are in need. While farming has taken a toll on his body, he refuses to give up the life he loves.
+Edric has worked his small farm for decades, growing a variety of vegetables and raising livestock. He values hard work and takes pride in his self-sufficiency. Known for his gruff but kind demeanor, Edric often lends a hand to his neighbors when they are in need. While farming has taken a toll on his body, he refuses to give up the life he loves.
 
 Now at 53 years of age, Edric Alverton has established himself as a known figure among the farmers of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 

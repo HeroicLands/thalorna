@@ -9,8 +9,7 @@ name:
   given: Xâthrîon
   clan: Kâserânis
   home: valdosta
-  aliases:
-    - Dr. Fenwick Grayshadow
+  aliases: []
 packFolder: midhalionvylaria
 shortcode: xthrnksrns
 type: being
@@ -560,7 +559,7 @@ Xâthrîon Kâserânis is a 48-year-old man who stands 5'9" tall and is of moder
 
 Born in the Vylaría region to a noble family of Vylarian heritage, Xâthrîon Kâserânis came into the world of the physician through a combination of circumstance and aptitude.
 
-Dr. Fenwick is a physician with a reputation for his innovative treatments and thorough approach to patient care. He has spent years researching various medical practices and is known for his willingness to experiment with new methods. Fenwick is passionate about advancing medical knowledge and often shares his findings with peers. Despite his serious demeanor, he has a kind heart and is dedicated to his patients' well-being.
+Dr. Xâthrîon is a physician with a reputation for his innovative treatments and thorough approach to patient care. He has spent years researching various medical practices and is known for his willingness to experiment with new methods. Xâthrîon is passionate about advancing medical knowledge and often shares his findings with peers. Despite his serious demeanor, he has a kind heart and is dedicated to his patients' well-being.
 
 Now at 48 years of age, Xâthrîon Kâserânis has established himself as a known figure among the physicians of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
 

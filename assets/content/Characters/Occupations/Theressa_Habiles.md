@@ -9,8 +9,7 @@ name:
   given: Thêrèssa
   clan: Hàbîlês
   home: theradon2
-  aliases:
-    - Elenora Gray
+  aliases: []
 packFolder: helladhelionis
 shortcode: thereshbls
 type: being
@@ -557,7 +556,7 @@ Thêrèssa Hàbîlês is a 34-year-old woman who stands 5'11" tall and is of mod
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Thêrèssa Hàbîlês came into the world of the prostitute through a combination of circumstance and aptitude.
 
-Elenora is a poor widow with two young children, struggling to make ends meet after the death of her husband. With few options available to her, she has turned to prostitution as a means of survival. Though she is weary and feels trapped in her situation, Elenora is fiercely protective of her children and works hard to provide for them. She hopes for a better future and dreams of finding a way out of her circumstances.
+Thêrèssa is a poor widow with two young children, struggling to make ends meet after the death of her husband. With few options available to her, she has turned to prostitution as a means of survival. Though she is weary and feels trapped in her situation, Thêrèssa is fiercely protective of her children and works hard to provide for them. She hopes for a better future and dreams of finding a way out of her circumstances.
 
 Now at 34 years of age, Thêrèssa Hàbîlês has established herself as a known figure among the prostitutes of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

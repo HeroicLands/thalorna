@@ -9,8 +9,7 @@ name:
   given: Îmarakîs
   clan: Zêrâzêndis
   home: belekos
-  aliases:
-    - Halda Drumwright
+  aliases: []
 packFolder: midhalionvylaria
 shortcode: imrkszrznds
 type: being
@@ -559,7 +558,7 @@ sohl:
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Îmarakîs Zêrâzêndis came into the world of the musician (drums) through a combination of circumstance and aptitude.
 
-Halda grew up in a traveling performers' troupe, learning to play various percussion instruments. She specializes in rhythmic drumming that accompanies dances and storytelling performances. Halda’s energetic and spirited playing has made her popular at festivals, though some consider her style to be too wild for refined tastes.
+Îmarakîs grew up in a traveling performers' troupe, learning to play various percussion instruments. She specializes in rhythmic drumming that accompanies dances and storytelling performances. Îmarakîs’s energetic and spirited playing has made her popular at festivals, though some consider her style to be too wild for refined tastes.
 
 Now at 31 years of age, Îmarakîs Zêrâzêndis has established herself as a known figure among the musician (drums)s of Vylaria. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

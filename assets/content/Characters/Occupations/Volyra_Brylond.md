@@ -9,8 +9,7 @@ name:
   given: Vólyra
   clan: Brýlond
   home: belporte
-  aliases:
-    - Marwen Thatcher
+  aliases: []
 packFolder: aureldiaprovenzia
 shortcode: vlyrbrylnd
 type: being
@@ -560,7 +559,7 @@ Vólyra Brýlond is a 34-year-old woman who stands 5'7" tall and is slender. She
 
 Born in the Provènzia region to a freeman family of Provenzian heritage, Vólyra Brýlond came into the world of the thatcher through a combination of circumstance and aptitude.
 
-Marwen learned the craft of thatching from her father, a well-known thatcher in their village. She was one of the few women in the area to take up the trade, earning respect for her skill and dedication. Her work is known for its neatness and durability, though some older villagers were initially skeptical about a woman working in such a physically demanding trade.
+Vólyra learned the craft of thatching from her father, a well-known thatcher in their village. She was one of the few women in the area to take up the trade, earning respect for her skill and dedication. Her work is known for its neatness and durability, though some older villagers were initially skeptical about a woman working in such a physically demanding trade.
 
 Now at 34 years of age, Vólyra Brýlond has established herself as a known figure among the thatchers of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

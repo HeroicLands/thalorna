@@ -9,8 +9,7 @@ name:
   given: Pórena
   clan: Dhárel
   home: portaelion
-  aliases:
-    - Elara Wavehand
+  aliases: []
 packFolder: aureldiaelavendre
 shortcode: porenadhrl
 type: being
@@ -554,7 +553,7 @@ Pórena Dhárel is a 28-year-old woman who stands 5'8" tall and is of moderate b
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Pórena Dhárel came into the world of the longshorewoman through a combination of circumstance and aptitude.
 
-Elara has worked as a longshorewoman since she was a teenager, breaking stereotypes in a traditionally male-dominated field. She is known for her agility and ability to navigate the busy docks efficiently. Elara has earned respect among her colleagues for her skills in cargo handling and is often called upon to mentor new workers. She takes pride in her work and is determined to show that women can excel in this profession.
+Pórena has worked as a longshorewoman since she was a teenager, breaking stereotypes in a traditionally male-dominated field. She is known for her agility and ability to navigate the busy docks efficiently. Pórena has earned respect among her colleagues for her skills in cargo handling and is often called upon to mentor new workers. She takes pride in her work and is determined to show that women can excel in this profession.
 
 Now at 28 years of age, Pórena Dhárel has established herself as a known figure among the longshorewomans of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

@@ -9,8 +9,7 @@ name:
   given: Eiríkr
   clan: Stormrót
   home: frostmark
-  aliases:
-    - Brynden Wavecrest
+  aliases: []
 packFolder: ankarisnordlands
 shortcode: erkrstrmrt
 type: being
@@ -560,7 +559,7 @@ Eiríkr Stormrót is a 54-year-old man who stands 5'10" tall and is broad and so
 
 Born in the Nordheim region to a freeman family of Nordheimn heritage, Eiríkr Stormrót came into the world of the fisher through a combination of circumstance and aptitude.
 
-Brynden has spent his entire life on the water, fishing the coastal seas. He is known for his toughness and endurance, often staying out longer than others to ensure a good catch. Though his body has grown weary with age, Brynden remains a fixture at the docks and is respected for his hard-earned wisdom. He enjoys sharing stories of the sea and teaching younger fishers the ways of the trade.
+Eiríkr has spent his entire life on the water, fishing the coastal seas. He is known for his toughness and endurance, often staying out longer than others to ensure a good catch. Though his body has grown weary with age, Eiríkr remains a fixture at the docks and is respected for his hard-earned wisdom. He enjoys sharing stories of the sea and teaching younger fishers the ways of the trade.
 
 Now at 54 years of age, Eiríkr Stormrót has established himself as a known figure among the fishers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 

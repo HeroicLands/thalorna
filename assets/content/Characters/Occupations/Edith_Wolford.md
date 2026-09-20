@@ -10,8 +10,7 @@ name:
   given: Edith
   clan: Wolford
   home: ashford
-  aliases:
-    - Liora Stonemaster
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: edithwlfrd
 type: being
@@ -557,7 +556,7 @@ Edith Wolford is a 29-year-old woman who stands 5'8" tall and is slender. She ha
 
 Born in the Aelwyth region to a guilded family of Aelwythan heritage, Edith Wolford came into the world of the jeweler through a combination of circumstance and aptitude.
 
-Liora discovered her talent for jewelry making while working as an apprentice in her father’s shop. She specializes in crafting intricate pieces that often incorporate unique designs inspired by nature. Liora's work has gained attention for its originality, and she has a growing clientele who appreciate her artistic vision. Despite her success, she remains humble and dedicated to her craft.
+Edith discovered her talent for jewelry making while working as an apprentice in her father’s shop. She specializes in crafting intricate pieces that often incorporate unique designs inspired by nature. Edith's work has gained attention for its originality, and she has a growing clientele who appreciate her artistic vision. Despite her success, she remains humble and dedicated to her craft.
 
 Now at 29 years of age, Edith Wolford has established herself as a known figure among the jewellers of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

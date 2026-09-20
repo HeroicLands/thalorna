@@ -9,8 +9,7 @@ name:
   given: Rodrén
   clan: Jútharen
   home: null # was: Eskárath
-  aliases:
-    - Rollo Ember
+  aliases: []
 packFolder: aureldiatarvenia
 shortcode: rodrnjthrn
 type: being
@@ -565,7 +564,7 @@ Rodrén Jútharen is a 38-year-old man who stands 6'1" tall and is of moderate b
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Rodrén Jútharen came into the world of the miner through a combination of circumstance and aptitude.
 
-Rollo was a free man until he was captured during a conflict and sold into slavery. He was forced to work in a mine, where he learned to endure harsh conditions. Despite his captivity, Rollo maintains a rebellious spirit and has attempted to escape several times. His efforts have only led to harsher treatment, but he refuses to give up on the idea of freedom.
+Rodrén was a free man until he was captured during a conflict and sold into slavery. He was forced to work in a mine, where he learned to endure harsh conditions. Despite his captivity, Rodrén maintains a rebellious spirit and has attempted to escape several times. His efforts have only led to harsher treatment, but he refuses to give up on the idea of freedom.
 
 Now at 38 years of age, Rodrén Jútharen has established himself as a known figure among the miners of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
 

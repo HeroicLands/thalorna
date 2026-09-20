@@ -9,8 +9,7 @@ name:
   given: Áleren
   clan: Párdalen
   home: silvain
-  aliases:
-    - Torvin Ashbark
+  aliases: []
 packFolder: aureldiaelavendre
 shortcode: alernprdln
 type: being
@@ -557,7 +556,7 @@ sohl:
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Áleren Párdalen came into the world of the shaman through a combination of circumstance and aptitude.
 
-Torvin became a shaman after a profound vision during a hunting expedition. Since then, he has served as a mediator between the spirit world and his people, often called upon to resolve disputes and interpret omens. Torvin is more practical than mystical, believing in the shaman's role as a guide rather than a miracle worker. His pragmatic approach sometimes brings him into conflict with more traditional shamans.
+Áleren became a shaman after a profound vision during a hunting expedition. Since then, he has served as a mediator between the spirit world and his people, often called upon to resolve disputes and interpret omens. Áleren is more practical than mystical, believing in the shaman's role as a guide rather than a miracle worker. His pragmatic approach sometimes brings him into conflict with more traditional shamans.
 
 Now at 48 years of age, Áleren Párdalen has established himself as a known figure among the shamans of Élavendre. His reputation, for better or worse, precedes him in the circles where such things matter.
 

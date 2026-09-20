@@ -9,8 +9,7 @@ name:
   given: Guthný
   clan: Eldskari
   home: skarholme
-  aliases:
-    - Thalia Stonehand
+  aliases: []
 packFolder: ankarisnordlands
 shortcode: gthnyldskr
 type: being
@@ -562,7 +561,7 @@ Guthný Eldskari is a 32-year-old woman who stands 6'0" tall and is of moderate 
 
 Born in the Nordheim region to a freeman family of Nordheimn heritage, Guthný Eldskari came into the world of the laborer (farm) through a combination of circumstance and aptitude.
 
-Thalia grew up in a family of laborers, working the fields from a young age. She is strong and capable, often taking on physically demanding tasks such as lifting and carrying heavy loads. Thalia is known for her reliability and work ethic, making her a valued member of any crew. Despite the hard labor, she finds satisfaction in her work and enjoys the camaraderie with her fellow workers.
+Guthný grew up in a family of laborers, working the fields from a young age. She is strong and capable, often taking on physically demanding tasks such as lifting and carrying heavy loads. Guthný is known for her reliability and work ethic, making her a valued member of any crew. Despite the hard labor, she finds satisfaction in her work and enjoys the camaraderie with her fellow workers.
 
 Now at 32 years of age, Guthný Eldskari has established herself as a known figure among the laborer (farm)s of Nordheim. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

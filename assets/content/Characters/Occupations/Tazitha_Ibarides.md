@@ -9,8 +9,7 @@ name:
   given: Tázîtha
   clan: Ibârîdês
   home: pelagora2
-  aliases:
-    - Mirna Woodsong
+  aliases: []
 packFolder: helladhelionis
 shortcode: tazithbrds
 type: being
@@ -556,7 +555,7 @@ Tázîtha Ibârîdês is a 29-year-old woman who stands 6'1" tall and is slender
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Tázîtha Ibârîdês came into the world of the charcoaler through a combination of circumstance and aptitude.
 
-Mirna is one of the few female charcoalers in her area, having learned the trade from her uncle. She enjoys the solitude of the forest and takes great care in her work. Her charcoal is known for being exceptionally clean-burning, and she often supplies local forges as well as herbalists who use it in remedies.
+Tázîtha is one of the few female charcoalers in her area, having learned the trade from her uncle. She enjoys the solitude of the forest and takes great care in her work. Her charcoal is known for being exceptionally clean-burning, and she often supplies local forges as well as herbalists who use it in remedies.
 
 Now at 29 years of age, Tázîtha Ibârîdês has established herself as a known figure among the charcoalers of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

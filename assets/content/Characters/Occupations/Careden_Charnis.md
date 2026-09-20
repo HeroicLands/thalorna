@@ -9,8 +9,7 @@ name:
   given: Cáreden
   clan: Chárnis
   home: monverdre
-  aliases:
-    - Korga Stoneseer
+  aliases: []
 packFolder: aureldiaprovenzia
 shortcode: cardnchrns
 type: being
@@ -558,7 +557,7 @@ Cáreden Chárnis is a 62-year-old man who stands 5'6" tall and is of moderate b
 
 Born in the Provènzia region to a freeman family of Provenzian heritage, Cáreden Chárnis came into the world of the shaman through a combination of circumstance and aptitude.
 
-Korga is a respected shaman who has guided his tribe for decades, serving as a healer, spiritual advisor, and keeper of ancient traditions. He communicates with the spirits of nature and the ancestors, often leading rituals to ensure the tribe’s prosperity. While age has diminished his physical strength, his wisdom is highly valued, and his influence remains strong.
+Cáreden is a respected shaman who has guided his tribe for decades, serving as a healer, spiritual advisor, and keeper of ancient traditions. He communicates with the spirits of nature and the ancestors, often leading rituals to ensure the tribe’s prosperity. While age has diminished his physical strength, his wisdom is highly valued, and his influence remains strong.
 
 Now at 62 years of age, Cáreden Chárnis has established himself as a known figure among the shamans of Provènzia. His reputation, for better or worse, precedes him in the circles where such things matter.
 

@@ -9,8 +9,7 @@ name:
   given: Elfreda
   clan: Lewknor
   home: caerwynd
-  aliases:
-    - Elara Springbrook
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: elfrdlwknr
 type: being
@@ -556,7 +555,7 @@ Elfreda Lewknor is a 28-year-old woman who stands 5'10" tall and is of moderate 
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Elfreda Lewknor came into the world of the farmer through a combination of circumstance and aptitude.
 
-Elara grew up on her family's farm, where she learned to tend to animals and grow vegetables. After her parents passed away, she took over the management of the farm and has worked hard to maintain its productivity. Elara is innovative and open to new agricultural practices, often experimenting with different crops and techniques to improve yields.
+Elfreda grew up on her family's farm, where she learned to tend to animals and grow vegetables. After her parents passed away, she took over the management of the farm and has worked hard to maintain its productivity. Elfreda is innovative and open to new agricultural practices, often experimenting with different crops and techniques to improve yields.
 
 Now at 28 years of age, Elfreda Lewknor has established herself as a known figure among the farmers of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

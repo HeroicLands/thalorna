@@ -9,8 +9,7 @@ name:
   given: Leifr
   clan: Dróttgar
   home: frostmark
-  aliases:
-    - Jorah Stone
+  aliases: []
 packFolder: ankarisnordlands
 shortcode: leifrdrtgr
 type: being
@@ -563,7 +562,7 @@ Leifr Dróttgar is a 31-year-old man who stands 6'3" tall and is broad and solid
 
 Born in the Nordheim region to a freeman family of Nordheimn heritage, Leifr Dróttgar came into the world of the farmer through a combination of circumstance and aptitude.
 
-Jorah was born into slavery on a large estate, where he has spent his entire life working in the fields and performing hard labor. Despite his harsh circumstances, he maintains a sense of resilience and holds onto the hope of freedom. Jorah is known for his physical strength and endurance, but his defiance has occasionally gotten him into trouble with his overseers.
+Leifr was born into slavery on a large estate, where he has spent his entire life working in the fields and performing hard labor. Despite his harsh circumstances, he maintains a sense of resilience and holds onto the hope of freedom. Leifr is known for his physical strength and endurance, but his defiance has occasionally gotten him into trouble with his overseers.
 
 Now at 31 years of age, Leifr Dróttgar has established himself as a known figure among the farmers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 

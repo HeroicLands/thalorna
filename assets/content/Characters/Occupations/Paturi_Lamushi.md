@@ -10,8 +10,7 @@ name:
   given: Pâtûri
   clan: Lamûshî
   home: azhun2
-  aliases:
-    - Hilda Brigham
+  aliases: []
 packFolder: midhalionharad
 shortcode: paturilmsh
 type: being
@@ -560,7 +559,7 @@ Pâtûri Lamûshî is a 50-year-old woman who stands 5'9" tall and is solidly bu
 
 Born in the Harad region to a guilded family of Haradian heritage, Pâtûri Lamûshî came into the world of the cook through a combination of circumstance and aptitude.
 
-Hilda is a seasoned cook who has worked in several high-end kitchens throughout the city. She currently serves as the head cook for a wealthy merchant's household, where she oversees a small staff of kitchen hands. Known for her hearty stews and elaborate pastries, Hilda prides herself on providing excellent meals, though she can be harsh with her subordinates.
+Pâtûri is a seasoned cook who has worked in several high-end kitchens throughout the city. She currently serves as the head cook for a wealthy merchant's household, where she oversees a small staff of kitchen hands. Known for her hearty stews and elaborate pastries, Pâtûri prides herself on providing excellent meals, though she can be harsh with her subordinates.
 
 Now at 50 years of age, Pâtûri Lamûshî has established herself as a known figure among the cooks of Harad. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

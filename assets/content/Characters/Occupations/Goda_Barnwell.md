@@ -9,8 +9,7 @@ name:
   given: Goda
   clan: Barnwell
   home: kingsholow
-  aliases:
-    - Mira Glazewalker
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: godabarnwl
 type: being
@@ -556,7 +555,7 @@ Goda Barnwell is a 29-year-old woman who stands 5'7" tall and is slender. She ha
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Goda Barnwell came into the world of the potter through a combination of circumstance and aptitude.
 
-Mira is a talented potter with a passion for creating vibrant and colorful pottery. She specializes in glazing techniques and often incorporates artistic designs into her work. Mira enjoys experimenting with new colors and patterns, pushing the boundaries of traditional pottery. Her shop is a favorite among locals for its unique offerings, and she frequently collaborates with other artists for special projects.
+Goda is a talented potter with a passion for creating vibrant and colorful pottery. She specializes in glazing techniques and often incorporates artistic designs into her work. Goda enjoys experimenting with new colors and patterns, pushing the boundaries of traditional pottery. Her shop is a favorite among locals for its unique offerings, and she frequently collaborates with other artists for special projects.
 
 Now at 29 years of age, Goda Barnwell has established herself as a known figure among the potters of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

@@ -9,8 +9,7 @@ name:
   given: Shárîna
   clan: Thâmîdon
   home: athenikos2
-  aliases:
-    - Eira Stonefist
+  aliases: []
 packFolder: helladhelionis
 shortcode: sharnthmdn
 type: being
@@ -559,7 +558,7 @@ Shárîna Thâmîdon is a 28-year-old woman who stands 6'1" tall and is of moder
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Shárîna Thâmîdon came into the world of the miner through a combination of circumstance and aptitude.
 
-Eira has always been passionate about mining, inspired by the stories of her family who worked in the industry. She is known for her agility and precision in extracting valuable stones from the rock. Eira has proven herself in a male-dominated field, often leading teams of miners and advocating for better working conditions. Her determination and skills have earned her respect among her colleagues.
+Shárîna has always been passionate about mining, inspired by the stories of her family who worked in the industry. She is known for her agility and precision in extracting valuable stones from the rock. Shárîna has proven herself in a male-dominated field, often leading teams of miners and advocating for better working conditions. Her determination and skills have earned her respect among her colleagues.
 
 Now at 28 years of age, Shárîna Thâmîdon has established herself as a known figure among the miners of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

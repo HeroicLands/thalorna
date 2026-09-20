@@ -10,8 +10,7 @@ name:
   given: Oswin
   clan: Harden
   home: caerwynd
-  aliases:
-    - Harlan Stoneforge
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: oswinhardn
 type: being
@@ -561,7 +560,7 @@ Oswin Harden is a 50-year-old man who stands 6'2" tall and is broad and solidly 
 
 Born in the Aelwyth region to a guilded family of Aelwythan heritage, Oswin Harden came into the world of the innkeeper through a combination of circumstance and aptitude.
 
-Harlan is a former blacksmith who decided to shift his focus to running the Forge & Flame Inn. Known for his hearty meals and strong drinks, he caters to adventurers and merchants passing through town. Harlan has a commanding presence and a good sense of humor, making his inn a lively place. He enjoys hearing tales from travelers and often joins in the storytelling.
+Oswin is a former blacksmith who decided to shift his focus to running the Forge & Flame Inn. Known for his hearty meals and strong drinks, he caters to adventurers and merchants passing through town. Oswin has a commanding presence and a good sense of humor, making his inn a lively place. He enjoys hearing tales from travelers and often joins in the storytelling.
 
 Now at 50 years of age, Oswin Harden has established himself as a known figure among the innkeepers of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 

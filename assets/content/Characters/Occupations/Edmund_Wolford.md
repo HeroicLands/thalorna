@@ -10,8 +10,7 @@ name:
   given: Edmund
   clan: Wolford
   home: ashford
-  aliases:
-    - Elric Threadgold
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: edmndwlfrd
 type: being
@@ -563,7 +562,7 @@ Edmund Wolford is a 44-year-old man who stands 5'8" tall and is of moderate buil
 
 Born in the Aelwyth region to a guilded family of Aelwythan heritage, Edmund Wolford came into the world of the clothier through a combination of circumstance and aptitude.
 
-Elric has been a clothier for over twenty years, running a small but reputable shop in the city that caters to both the nobility and common folk. His expertise lies in fine tailoring and embroidery, and he is known for his skill in creating custom garments for special occasions. Elric is meticulous about his work, often taking on fewer clients to ensure the highest quality.
+Edmund has been a clothier for over twenty years, running a small but reputable shop in the city that caters to both the nobility and common folk. His expertise lies in fine tailoring and embroidery, and he is known for his skill in creating custom garments for special occasions. Edmund is meticulous about his work, often taking on fewer clients to ensure the highest quality.
 
 Now at 44 years of age, Edmund Wolford has established himself as a known figure among the clothiers of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 

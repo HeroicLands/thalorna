@@ -9,8 +9,7 @@ name:
   given: Leofric
   clan: Barnwell
   home: ashford
-  aliases:
-    - Dr. Alaric Hawthorne
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: lefrcbrnwl
 type: being
@@ -559,7 +558,7 @@ Leofric Barnwell is a 42-year-old man who stands 5'7" tall and is of moderate bu
 
 Born in the Aelwyth region to a noble family of Aelwythan heritage, Leofric Barnwell came into the world of the physician through a combination of circumstance and aptitude.
 
-Dr. Alaric Hawthorne is a respected physician known for his extensive knowledge of medicine and healing practices. He has spent many years studying both traditional remedies and modern techniques, making him a trusted figure in the community. Alaric is dedicated to helping his patients and often volunteers his services to the less fortunate. His calm demeanor and empathetic nature have made him a beloved doctor.
+Dr. Leofric Barnwell is a respected physician known for his extensive knowledge of medicine and healing practices. He has spent many years studying both traditional remedies and modern techniques, making him a trusted figure in the community. Leofric is dedicated to helping his patients and often volunteers his services to the less fortunate. His calm demeanor and empathetic nature have made him a beloved doctor.
 
 Now at 42 years of age, Leofric Barnwell has established himself as a known figure among the physicians of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 

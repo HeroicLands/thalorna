@@ -9,8 +9,7 @@ name:
   given: Leofrun
   clan: Chilwell
   home: kingsholow
-  aliases:
-    - Elara Greenpath
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: lefrnchlwl
 type: being
@@ -560,7 +559,7 @@ Leofrun Chilwell is a 30-year-old woman who stands 5'11" tall and is slender. Sh
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Leofrun Chilwell came into the world of the trapper through a combination of circumstance and aptitude.
 
-Elara grew up in the forests, where her family lived off the land. She learned to trap animals and gather wild plants from a young age. Now, she traps animals both for their pelts and to protect local farms from pests. Known for her gentle approach to wildlife, she often releases animals when she can, choosing to trap selectively.
+Leofrun grew up in the forests, where her family lived off the land. She learned to trap animals and gather wild plants from a young age. Now, she traps animals both for their pelts and to protect local farms from pests. Known for her gentle approach to wildlife, she often releases animals when she can, choosing to trap selectively.
 
 Now at 30 years of age, Leofrun Chilwell has established herself as a known figure among the trappers of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

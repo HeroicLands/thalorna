@@ -9,8 +9,7 @@ name:
   given: Nûlazî
   clan: Zarrâshî
   home: azhun2
-  aliases:
-    - Elara Birchwood
+  aliases: []
 packFolder: midhalionharad
 shortcode: nulazizrsh
 type: being
@@ -556,7 +555,7 @@ Nûlazî Zarrâshî is a 31-year-old woman who stands 6'0" tall and is of modera
 
 Born in the Harad region to a freeman family of Haradian heritage, Nûlazî Zarrâshî came into the world of the timberwright through a combination of circumstance and aptitude.
 
-Elara comes from a family of timberwrights and has always felt at home in the forest. She specializes in selecting the best trees for various types of woodwork and is known for her keen eye and attention to detail. Elara's work is highly valued by local carpenters, though some traditionalists have been slow to accept a woman in the trade.
+Nûlazî comes from a family of timberwrights and has always felt at home in the forest. She specializes in selecting the best trees for various types of woodwork and is known for her keen eye and attention to detail. Nûlazî's work is highly valued by local carpenters, though some traditionalists have been slow to accept a woman in the trade.
 
 Now at 31 years of age, Nûlazî Zarrâshî has established herself as a known figure among the timberwrights of Harad. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

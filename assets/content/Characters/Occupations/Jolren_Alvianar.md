@@ -9,8 +9,7 @@ name:
   given: Jólren
   clan: Álvianar
   home: null # was: Eskárath
-  aliases:
-    - Taran Stonecarver
+  aliases: []
 packFolder: aureldiatarvenia
 shortcode: jolrenlvnr
 type: being
@@ -564,7 +563,7 @@ Jólren Álvianar is a 35-year-old man who stands 6'0" tall and is of moderate b
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Jólren Álvianar came into the world of the mason through a combination of circumstance and aptitude.
 
-Taran has been working as a mason for over fifteen years, specializing in stone carving and masonry for buildings and sculptures. He takes great pride in his work, often infusing his pieces with intricate details and artistic flair. Taran is well-respected in his community for his craftsmanship and dedication to preserving traditional techniques, while also adapting to modern methods.
+Jólren has been working as a mason for over fifteen years, specializing in stone carving and masonry for buildings and sculptures. He takes great pride in his work, often infusing his pieces with intricate details and artistic flair. Jólren is well-respected in his community for his craftsmanship and dedication to preserving traditional techniques, while also adapting to modern methods.
 
 Now at 35 years of age, Jólren Álvianar has established himself as a known figure among the masons of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
 

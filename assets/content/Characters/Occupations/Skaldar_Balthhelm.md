@@ -10,8 +10,7 @@ name:
   given: Skaldár
   clan: Balthhelm
   home: falkensten
-  aliases:
-    - Thorne Cobblepot
+  aliases: []
 packFolder: ankarisvrystwald
 shortcode: skldrblthlm
 type: being
@@ -560,7 +559,7 @@ Skaldár Balthhelm is a 51-year-old man who stands 5'10" tall and is of moderate
 
 Born in the Vrystwald region to a guilded family of Varokhi heritage, Skaldár Balthhelm came into the world of the toymaker through a combination of circumstance and aptitude.
 
-Thorne is a veteran toymaker whose shop has been a staple in the city for decades. He specializes in mechanical toys and clockwork creations, bringing a touch of magic to his work with moving parts and lifelike features. Known for his innovation, Thorne takes great pride in his craftsmanship, though he struggles to keep up with newer trends in toymaking.
+Skaldár is a veteran toymaker whose shop has been a staple in the city for decades. He specializes in mechanical toys and clockwork creations, bringing a touch of magic to his work with moving parts and lifelike features. Known for his innovation, Skaldár takes great pride in his craftsmanship, though he struggles to keep up with newer trends in toymaking.
 
 Now at 51 years of age, Skaldár Balthhelm has established himself as a known figure among the toymakers of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 

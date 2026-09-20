@@ -9,8 +9,7 @@ name:
   given: Harold
   clan: Helmsley
   home: caerwynd
-  aliases:
-    - Garron Marlowe
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: hrldhlmsly
 type: being
@@ -559,7 +558,7 @@ Harold Helmsley is a 45-year-old man who stands 6'3" tall and is of moderate bui
 
 Born in the Aelwyth region to a peasant family of Aelwythan heritage, Harold Helmsley came into the world of the animal trainer through a combination of circumstance and aptitude.
 
-Garron grew up on a farm and has spent his life training draft animals. Known for his patience, he is called upon when unruly horses or oxen need breaking in.
+Harold grew up on a farm and has spent his life training draft animals. Known for his patience, he is called upon when unruly horses or oxen need breaking in.
 
 Now at 45 years of age, Harold Helmsley has established himself as a known figure among the animal trainers of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 

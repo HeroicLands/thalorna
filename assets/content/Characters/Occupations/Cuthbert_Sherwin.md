@@ -9,8 +9,7 @@ name:
   given: Cuthbert
   clan: Sherwin
   home: thornbury
-  aliases:
-    - Tovan Greenfist
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: cthbrtshrwn
 type: being
@@ -556,7 +555,7 @@ Cuthbert Sherwin is a 52-year-old man who stands 5'11" tall and is broad and sol
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Cuthbert Sherwin came into the world of the woodcutter through a combination of circumstance and aptitude.
 
-Tovan is a veteran woodcutter who has spent decades working in the forests. Known for his strength and resilience, he is often the first to volunteer for the toughest jobs. Tovan enjoys teaching younger woodcutters the skills needed to survive in the woods, though he can be stubborn about using traditional methods and is wary of new tools. He is a firm believer in sustainable forestry and takes care to replant trees.
+Cuthbert is a veteran woodcutter who has spent decades working in the forests. Known for his strength and resilience, he is often the first to volunteer for the toughest jobs. Cuthbert enjoys teaching younger woodcutters the skills needed to survive in the woods, though he can be stubborn about using traditional methods and is wary of new tools. He is a firm believer in sustainable forestry and takes care to replant trees.
 
 Now at 52 years of age, Cuthbert Sherwin has established himself as a known figure among the woodcutters of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 

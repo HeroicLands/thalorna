@@ -9,8 +9,7 @@ name:
   given: Sáfêrús
   clan: Ghôlâris
   home: pelagora2
-  aliases:
-    - Otto Fallowbrook
+  aliases: []
 packFolder: helladhelionis
 shortcode: safrsghlrs
 type: being
@@ -560,7 +559,7 @@ Sáfêrús Ghôlâris is a 52-year-old man who stands 5'9" tall and is of modera
 
 Born in the Heliónis region to a noble family of Helionite heritage, Sáfêrús Ghôlâris came into the world of the clothier through a combination of circumstance and aptitude.
 
-Otto is a master clothier whose shop has served the city’s nobility for decades. He is known for crafting luxurious garments and keeps up with the latest fashions from the capital. Otto's skills have earned him a reputation, but his demanding personality and high prices have also made him few friends among his peers.
+Sáfêrús is a master clothier whose shop has served the city’s nobility for decades. He is known for crafting luxurious garments and keeps up with the latest fashions from the capital. Sáfêrús's skills have earned him a reputation, but his demanding personality and high prices have also made him few friends among his peers.
 
 Now at 52 years of age, Sáfêrús Ghôlâris has established himself as a known figure among the clothiers of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 

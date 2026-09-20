@@ -10,8 +10,7 @@ name:
   given: Rowena
   clan: Storton
   home: ravenmoor
-  aliases:
-    - Edda Locklear
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: rowenstrtn
 type: being
@@ -559,7 +558,7 @@ Rowena Storton is a 28-year-old woman who stands 5'7" tall and is slender. She h
 
 Born in the Aelwyth region to a guilded family of Aelwythan heritage, Rowena Storton came into the world of the animal trainer through a combination of circumstance and aptitude.
 
-Edda trains exotic birds for a noble family. She is skilled at teaching them tricks and mimicking sounds, and often accompanies her employers to social events.
+Rowena trains exotic birds for a noble family. She is skilled at teaching them tricks and mimicking sounds, and often accompanies her employers to social events.
 
 Now at 28 years of age, Rowena Storton has established herself as a known figure among the animal trainers of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

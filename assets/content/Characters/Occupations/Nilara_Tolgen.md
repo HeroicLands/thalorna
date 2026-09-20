@@ -9,8 +9,7 @@ name:
   given: Nílara
   clan: Tólgen
   home: lunacorte
-  aliases:
-    - Maelis Oakhand
+  aliases: []
 packFolder: aureldiaprovenzia
 shortcode: nilaratlgn
 type: being
@@ -559,7 +558,7 @@ Nílara Tólgen is a 27-year-old woman who stands 5'10" tall and is slender. She
 
 Born in the Provènzia region to a freeman family of Provenzian heritage, Nílara Tólgen came into the world of the yeoman archer through a combination of circumstance and aptitude.
 
-Maelis grew up on the outskirts of the village, where her father taught her to use a bow for hunting. Her skills caught the eye of a local militia leader, who recruited her as a yeoman archer. Maelis is known for her speed and agility, allowing her to quickly reposition during battles. She is highly regarded for her ability to hit moving targets.
+Nílara grew up on the outskirts of the village, where her father taught her to use a bow for hunting. Her skills caught the eye of a local militia leader, who recruited her as a yeoman archer. Nílara is known for her speed and agility, allowing her to quickly reposition during battles. She is highly regarded for her ability to hit moving targets.
 
 Now at 27 years of age, Nílara Tólgen has established herself as a known figure among the yeoman archers of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

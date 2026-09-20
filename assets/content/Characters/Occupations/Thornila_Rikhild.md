@@ -10,8 +10,7 @@ name:
   given: Thornila
   clan: Ríkhild
   home: dunkelwald
-  aliases:
-    - Mataké Isolde Brightshield
+  aliases: []
 packFolder: ankarisvrystwald
 shortcode: thrnlrkhld
 type: being
@@ -562,7 +561,7 @@ Thornila Ríkhild is a 35-year-old woman who stands 6'0" tall and is slender. Sh
 
 Born in the Vrystwald region to a noble family of Varokhi heritage, Thornila Ríkhild came into the priesthood of Jánus through a combination of circumstance and aptitude.
 
-Mataké Isolde is a noble priestess devoted to the teachings of Jánus. With a strong belief in the protection of the weak, she often organizes charitable events, although her upper-class upbringing sometimes leads her to view those in need with a sense of superiority. Isolde believes that chivalry is essential in the defense of honor. She encourages her followers to uphold the ideals of justice and righteous struggle, though she struggles with understanding the plight of the lower classes.
+Thornila is a noble priestess devoted to the teachings of Jánus. With a strong belief in the protection of the weak, she often organizes charitable events, although her upper-class upbringing sometimes leads her to view those in need with a sense of superiority. Thornila believes that chivalry is essential in the defense of honor. She encourages her followers to uphold the ideals of justice and righteous struggle, though she struggles with understanding the plight of the lower classes.
 
 Now at 35 years of age, Thornila Ríkhild has established herself as a known figure among the priesthood of Jánus in Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

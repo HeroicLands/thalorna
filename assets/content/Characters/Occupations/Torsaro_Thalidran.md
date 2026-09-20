@@ -9,8 +9,7 @@ name:
   given: Tórsaro
   clan: Thalídran
   home: castamere
-  aliases:
-    - Oswin Thornhill
+  aliases: []
 packFolder: aureldiatarvenia
 shortcode: trsrthldrn
 type: being
@@ -555,7 +554,7 @@ Tórsaro Thalídran is a 29-year-old man who stands 6'0" tall and is of moderate
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Tórsaro Thalídran came into the world of the yeoman infantry through a combination of circumstance and aptitude.
 
-Oswin grew up on a farm, but his strength and eagerness to serve led him to the life of a yeoman infantryman. He is known for his agility and ability to adapt quickly in battle. While he lacks the years of experience of some of his comrades, his enthusiasm and quick learning have earned him respect among his peers.
+Tórsaro grew up on a farm, but his strength and eagerness to serve led him to the life of a yeoman infantryman. He is known for his agility and ability to adapt quickly in battle. While he lacks the years of experience of some of his comrades, his enthusiasm and quick learning have earned him respect among his peers.
 
 Now at 29 years of age, Tórsaro Thalídran has established himself as a known figure among the yeoman infantrys of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
 

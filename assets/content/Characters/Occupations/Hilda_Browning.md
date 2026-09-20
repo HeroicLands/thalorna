@@ -9,8 +9,7 @@ name:
   given: Hilda
   clan: Browning
   home: ashford
-  aliases:
-    - Nyssa Shadowveil
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: hildbrwnng
 type: being
@@ -554,7 +553,7 @@ Hilda Browning is a 24-year-old woman who stands 5'6" tall and is of moderate bu
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Hilda Browning came into the world of the prostitute through a combination of circumstance and aptitude.
 
-Nyssa works at a bustling brothel but has strong ties to the Gray Tide. While she provides companionship to clients, she secretly gathers information and assists the organization in various activities. Known for her charm and quick wit, Nyssa uses her position to navigate the world of both pleasure and crime. She is determined to rise above her circumstances and dreams of one day escaping the life of a prostitute.
+Hilda works at a bustling brothel but has strong ties to the Gray Tide. While she provides companionship to clients, she secretly gathers information and assists the organization in various activities. Known for her charm and quick wit, Hilda uses her position to navigate the world of both pleasure and crime. She is determined to rise above her circumstances and dreams of one day escaping the life of a prostitute.
 
 Now at 24 years of age, Hilda Browning has established herself as a known figure among the prostitutes of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

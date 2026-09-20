@@ -9,8 +9,7 @@ name:
   given: Táldor
   clan: Kálmereth
   home: elanmere
-  aliases:
-    - Harlan Tidewalker
+  aliases: []
 packFolder: aureldiaelavendre
 shortcode: tldrklmrth
 type: being
@@ -559,7 +558,7 @@ Táldor Kálmereth is a 47-year-old man who stands 6'0" tall and is of moderate 
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Táldor Kálmereth came into the world of the fisher through a combination of circumstance and aptitude.
 
-Harlan has been fishing since he was a boy, learning the trade from his father along the coast. He owns a small fishing boat and spends his days at sea, catching fish to sell at the local market. Harlan is known for his deep knowledge of the ocean and its currents. Despite his rugged exterior, he has a gentle heart and often shares his catch with struggling families in the village.
+Táldor has been fishing since he was a boy, learning the trade from his father along the coast. He owns a small fishing boat and spends his days at sea, catching fish to sell at the local market. Táldor is known for his deep knowledge of the ocean and its currents. Despite his rugged exterior, he has a gentle heart and often shares his catch with struggling families in the village.
 
 Now at 47 years of age, Táldor Kálmereth has established himself as a known figure among the fishers of Élavendre. His reputation, for better or worse, precedes him in the circles where such things matter.
 

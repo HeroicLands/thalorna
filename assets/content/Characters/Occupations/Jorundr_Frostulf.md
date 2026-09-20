@@ -9,8 +9,7 @@ name:
   given: Jörundr
   clan: Frostulf
   home: thrymstead
-  aliases:
-    - Halwyn Ironbrace
+  aliases: []
 packFolder: ankarisnordlands
 shortcode: jrndrfrstlf
 type: being
@@ -557,7 +556,7 @@ Jörundr Frostulf is a 51-year-old man who stands 6'0" tall and is broad and sol
 
 Born in the Nordheim region to a freeman family of Nordheimn heritage, Jörundr Frostulf came into the world of the jailer through a combination of circumstance and aptitude.
 
-Halwyn has been a jailer for most of his life, working his way up from a guard to the head of security in a notorious city prison. Known for his stern but fair approach, Halwyn has seen it all over the years and is not easily shaken. He is well respected by his colleagues, though his strict adherence to rules sometimes causes friction. Halwyn is committed to ensuring the safety of both the staff and inmates.
+Jörundr has been a jailer for most of his life, working his way up from a guard to the head of security in a notorious city prison. Known for his stern but fair approach, Jörundr has seen it all over the years and is not easily shaken. He is well respected by his colleagues, though his strict adherence to rules sometimes causes friction. Jörundr is committed to ensuring the safety of both the staff and inmates.
 
 Now at 51 years of age, Jörundr Frostulf has established himself as a known figure among the jailers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 

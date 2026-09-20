@@ -10,8 +10,7 @@ name:
   given: Zádìmêros
   clan: Mâkîthôn
   home: thyrenae2
-  aliases:
-    - Edwyn Merle
+  aliases: []
 packFolder: helladhelionis
 shortcode: zdmrsmkthn
 type: being
@@ -561,7 +560,7 @@ Zádìmêros Mâkîthôn is a 45-year-old man who stands 5'6" tall and is of mod
 
 Born in the Heliónis region to a guilded family of Helionite heritage, Zádìmêros Mâkîthôn came into the world of the cartographer/artist through a combination of circumstance and aptitude.
 
-Edwyn is a skilled cartographer known for his detailed maps of the surrounding region. Originally trained as an artist, he turned to mapmaking when he realized the lucrative opportunities it offered. His work is sought after by merchants, explorers, and nobles alike, though he has also been accused of selling sensitive maps to rival factions.
+Zádìmêros is a skilled cartographer known for his detailed maps of the surrounding region. Originally trained as an artist, he turned to mapmaking when he realized the lucrative opportunities it offered. His work is sought after by merchants, explorers, and nobles alike, though he has also been accused of selling sensitive maps to rival factions.
 
 Now at 45 years of age, Zádìmêros Mâkîthôn has established himself as a known figure among the cartographer/artists of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 

@@ -10,7 +10,6 @@ name:
   clan: Fródbán
   home: dunkelwald
   aliases:
-    - Thrain Ironpick
     - Theodric Froban
 packFolder: ankarisvrystwald
 shortcode: thdrcfrdbn
@@ -558,7 +557,7 @@ Theódric Fródbán is a 36-year-old man who stands 6'3" tall and is broad and s
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Theódric Fródbán came into the world of the miner through a combination of circumstance and aptitude.
 
-Thrain has worked in the mines since he was a teenager, following in his father's footsteps. He specializes in extracting precious metals and stones, using his strength and experience to navigate the treacherous tunnels. Thrain is known for his reliability and strong work ethic, often taking on the most challenging tasks. He values camaraderie among his fellow miners and believes in looking out for one another.
+Theódric has worked in the mines since he was a teenager, following in his father's footsteps. He specializes in extracting precious metals and stones, using his strength and experience to navigate the treacherous tunnels. Theódric is known for his reliability and strong work ethic, often taking on the most challenging tasks. He values camaraderie among his fellow miners and believes in looking out for one another.
 
 Now at 36 years of age, Theódric Fródbán has established himself as a known figure among the miners of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 

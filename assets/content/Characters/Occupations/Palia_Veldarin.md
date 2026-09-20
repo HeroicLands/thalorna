@@ -9,8 +9,7 @@ name:
   given: Pália
   clan: Véldarin
   home: cerdwnshlw
-  aliases:
-    - Agnes Turner
+  aliases: []
 packFolder: aureldiaelavendre
 shortcode: paliavldrn
 type: being
@@ -559,7 +558,7 @@ Pália Véldarin is a 46-year-old woman who stands 6'0" tall and is of moderate 
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Pália Véldarin came into the world of the domestic servant through a combination of circumstance and aptitude.
 
-Agnes has served as a housemaid for several prominent families throughout her life. Currently, she works for a rural nobleman, managing the daily upkeep of his estate. She is diligent and hardworking, often taking on extra tasks to ensure everything runs smoothly. Agnes is known for her no-nonsense attitude and practical skills, though some see her as overly stern.
+Pália has served as a housemaid for several prominent families throughout her life. Currently, she works for a rural nobleman, managing the daily upkeep of his estate. She is diligent and hardworking, often taking on extra tasks to ensure everything runs smoothly. Pália is known for her no-nonsense attitude and practical skills, though some see her as overly stern.
 
 Now at 46 years of age, Pália Véldarin has established herself as a known figure among the domestic servants of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

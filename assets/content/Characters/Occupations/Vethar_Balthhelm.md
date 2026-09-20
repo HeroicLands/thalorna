@@ -10,8 +10,7 @@ name:
   given: Véthar
   clan: Balthhelm
   home: waldburg
-  aliases:
-    - Torvald Grimstone
+  aliases: []
 packFolder: ankarisvrystwald
 shortcode: vthrblthlm
 type: being
@@ -558,7 +557,7 @@ Véthar Balthhelm is a 60-year-old man who stands 5'8" tall and is broad and sol
 
 Born in the Vrystwald region to a guilded family of Varokhi heritage, Véthar Balthhelm came into the world of the innkeeper through a combination of circumstance and aptitude.
 
-Torvald has been the innkeeper of the Old Stone Inn for over thirty years. Known for his hearty laugh and welcoming nature, he has built a loyal clientele. Torvald is a skilled cook, often sharing recipes passed down through generations. While he enjoys the camaraderie of guests, he also values the peace and tranquility of the countryside.
+Véthar has been the innkeeper of the Old Stone Inn for over thirty years. Known for his hearty laugh and welcoming nature, he has built a loyal clientele. Véthar is a skilled cook, often sharing recipes passed down through generations. While he enjoys the camaraderie of guests, he also values the peace and tranquility of the countryside.
 
 Now at 60 years of age, Véthar Balthhelm has established himself as a known figure among the innkeepers of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 

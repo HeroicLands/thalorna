@@ -9,8 +9,7 @@ name:
   given: Godwin
   clan: Adwell
   home: caerwynd
-  aliases:
-    - Bronn Hillstride
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: godwinadwl
 type: being
@@ -560,7 +559,7 @@ Godwin Adwell is a 38-year-old man who stands 6'1" tall and is of moderate build
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Godwin Adwell came into the world of the herder through a combination of circumstance and aptitude.
 
-Bronn comes from a long line of herders, spending his life tending sheep and goats in the hills. He knows the land like the back of his hand and can navigate even the most treacherous paths. His quiet, calm demeanor makes him well-suited to the solitary life of a herder, though he can be protective when necessary. Bronn is deeply connected to his animals and believes in treating them with care and respect.
+Godwin comes from a long line of herders, spending his life tending sheep and goats in the hills. He knows the land like the back of his hand and can navigate even the most treacherous paths. His quiet, calm demeanor makes him well-suited to the solitary life of a herder, though he can be protective when necessary. Godwin is deeply connected to his animals and believes in treating them with care and respect.
 
 Now at 38 years of age, Godwin Adwell has established himself as a known figure among the herders of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 

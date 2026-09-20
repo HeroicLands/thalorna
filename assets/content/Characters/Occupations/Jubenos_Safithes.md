@@ -10,8 +10,7 @@ name:
   given: Júbênós
   clan: Safîthês
   home: thyrenae2
-  aliases:
-    - Alaric Rosewood
+  aliases: []
 packFolder: helladhelionis
 shortcode: jubensfths
 type: being
@@ -559,7 +558,7 @@ Júbênós Safîthês is a 32-year-old man who stands 5'7" tall and is of modera
 
 Born in the Heliónis region to a guilded family of Helionite heritage, Júbênós Safîthês came into the world of the courtesan through a combination of circumstance and aptitude.
 
-Alaric began his career as an actor, but his good looks and silver tongue eventually led him to a more lucrative path as a courtesan. He is known for his charm and wit, often accompanying wealthy clients to social events where his conversation skills shine. Alaric enjoys the finer things in life but keeps his true feelings guarded, never allowing himself to become too attached.
+Júbênós began his career as an actor, but his good looks and silver tongue eventually led him to a more lucrative path as a courtesan. He is known for his charm and wit, often accompanying wealthy clients to social events where his conversation skills shine. Júbênós enjoys the finer things in life but keeps his true feelings guarded, never allowing himself to become too attached.
 
 Now at 32 years of age, Júbênós Safîthês has established himself as a known figure among the courtesans of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 

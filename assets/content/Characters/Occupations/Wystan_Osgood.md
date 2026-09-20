@@ -9,8 +9,7 @@ name:
   given: Wystan
   clan: Osgood
   home: brynhallow
-  aliases:
-    - Finn the Ratcatcher
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: wystanosgd
 type: being
@@ -558,7 +557,7 @@ Wystan Osgood is a 34-year-old man who stands 5'9" tall and is of moderate build
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Wystan Osgood came into the world of the ratter through a combination of circumstance and aptitude.
 
-Finn has spent most of his life catching rats in the bustling streets of the city. Known for his quick reflexes and keen sense of smell, he uses a combination of traps and trained ferrets to control rodent populations. Finn is a familiar figure in his neighborhood, often seen with his loyal ferret companion, Squeak. His skills are in high demand, especially in homes and markets plagued by infestations.
+Wystan has spent most of his life catching rats in the bustling streets of the city. Known for his quick reflexes and keen sense of smell, he uses a combination of traps and trained ferrets to control rodent populations. Wystan is a familiar figure in his neighborhood, often seen with his loyal ferret companion, Squeak. His skills are in high demand, especially in homes and markets plagued by infestations.
 
 Now at 34 years of age, Wystan Osgood has established himself as a known figure among the ratters of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 

@@ -10,8 +10,7 @@ name:
   given: Ashârâ
   clan: Hârôrdâs
   home: tyrellan
-  aliases:
-    - Thalia Ashbrook
+  aliases: []
 packFolder: midhalionvylaria
 shortcode: asharhrrds
 type: being
@@ -559,7 +558,7 @@ Ashârâ Hârôrdâs is a 34-year-old woman who stands 6'0" tall and is of moder
 
 Born in the Vylaría region to a guilded family of Vylarian heritage, Ashârâ Hârôrdâs came into the world of the swordmaster through a combination of circumstance and aptitude.
 
-Thalia is a skilled duelist who made a name for herself in the city's fencing circles. After winning several prestigious tournaments, she opened her own fencing school, where she trains young nobles and skilled fighters alike. Thalia's quick reflexes and keen eye make her a formidable opponent, but she can be overly competitive, sometimes letting her pride get the better of her.
+Ashârâ is a skilled duelist who made a name for herself in the city's fencing circles. After winning several prestigious tournaments, she opened her own fencing school, where she trains young nobles and skilled fighters alike. Ashârâ's quick reflexes and keen eye make her a formidable opponent, but she can be overly competitive, sometimes letting her pride get the better of her.
 
 Now at 34 years of age, Ashârâ Hârôrdâs has established herself as a known figure among the swordmasters of Vylaria. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

@@ -9,8 +9,7 @@ name:
   given: Wilfred
   clan: Dunwell
   home: brynhallow
-  aliases:
-    - Hrothgar Stormcaller
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: wilfrednwl
 type: being
@@ -558,7 +557,7 @@ Wilfred Dunwell is a 45-year-old man who stands 6'1" tall and is broad and solid
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Wilfred Dunwell came into the world of the herder through a combination of circumstance and aptitude.
 
-Hrothgar comes from a family of herders and has spent his life tending to cattle and sheep. Known for his strength and resilience, he is capable of handling the toughest challenges that come with herding. Hrothgar has a deep understanding of the weather and its effects on livestock, which he uses to guide his practices. Despite his ruggedness, he has a soft spot for his animals and often talks to them as if they were companions.
+Wilfred comes from a family of herders and has spent his life tending to cattle and sheep. Known for his strength and resilience, he is capable of handling the toughest challenges that come with herding. Wilfred has a deep understanding of the weather and its effects on livestock, which he uses to guide his practices. Despite his ruggedness, he has a soft spot for his animals and often talks to them as if they were companions.
 
 Now at 45 years of age, Wilfred Dunwell has established himself as a known figure among the herders of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 

@@ -9,8 +9,7 @@ name:
   given: Pédroth
   clan: Jútharen
   home: torreviga
-  aliases:
-    - Thoran Blackstitch
+  aliases: []
 packFolder: aureldiatarvenia
 shortcode: pdrthjthrn
 type: being
@@ -562,7 +561,7 @@ Pédroth Jútharen is a 53-year-old man who stands 6'0" tall and is of moderate 
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Pédroth Jútharen came into the world of the tentmaker through a combination of circumstance and aptitude.
 
-Thoran has been crafting tents and tarps for the military for over thirty years, earning a reputation for producing durable and weather-resistant products. He runs a busy workshop in the city, often employing apprentices to keep up with demand. Although Thoran is a skilled craftsman, he is stubborn and set in his ways, refusing to experiment with new materials or techniques.
+Pédroth has been crafting tents and tarps for the military for over thirty years, earning a reputation for producing durable and weather-resistant products. He runs a busy workshop in the city, often employing apprentices to keep up with demand. Although Pédroth is a skilled craftsman, he is stubborn and set in his ways, refusing to experiment with new materials or techniques.
 
 Now at 53 years of age, Pédroth Jútharen has established himself as a known figure among the tentmakers of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
 

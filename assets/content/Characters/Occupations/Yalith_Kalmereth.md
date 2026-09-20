@@ -9,8 +9,7 @@ name:
   given: Yálith
   clan: Kálmereth
   home: liranel
-  aliases:
-    - Brynn Silversong
+  aliases: []
 packFolder: aureldiaelavendre
 shortcode: ylthklmrth
 type: being
@@ -559,7 +558,7 @@ Yálith Kálmereth is a 33-year-old woman who stands 5'8" tall and is of moderat
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Yálith Kálmereth came into the world of the bard through a combination of circumstance and aptitude.
 
-Brynn earned the name "Silversong" for her clear, melodic voice. She grew up in a family of performers and chose the life of a bard, traveling from village to village. Brynn is known for her ballads of love and loss, which resonate with the common folk. Though she has performed for nobility, she prefers the freedom of the open road. Her music reflects the joys and hardships of life.
+Yálith earned the name "Kálmereth" for her clear, melodic voice. She grew up in a family of performers and chose the life of a bard, traveling from village to village. Yálith is known for her ballads of love and loss, which resonate with the common folk. Though she has performed for nobility, she prefers the freedom of the open road. Her music reflects the joys and hardships of life.
 
 Now at 33 years of age, Yálith Kálmereth has established herself as a known figure among the bards of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

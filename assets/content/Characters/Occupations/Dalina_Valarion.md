@@ -9,8 +9,7 @@ name:
   given: Dálina
   clan: Valárion
   home: castamere
-  aliases:
-    - Callista Galeheart
+  aliases: []
 packFolder: aureldiatarvenia
 shortcode: dalinavlrn
 type: being
@@ -563,7 +562,7 @@ Dálina Valárion is a 32-year-old woman who stands 5'9" tall and is slender. Sh
 
 Born in the Tarvénia region to a noble family of Tarvénan heritage, Dálina Valárion came into the world of the pilot through a combination of circumstance and aptitude.
 
-Callista is an accomplished pilot who specializes in cargo transport. She has a talent for managing her crew and ensuring that shipments arrive safely and on time. Known for her strong leadership skills, she is respected among her colleagues and has built a solid reputation for reliability. Callista is passionate about her work and often advocates for improved working conditions in the aviation industry.
+Dálina is an accomplished pilot who specializes in cargo transport. She has a talent for managing her crew and ensuring that shipments arrive safely and on time. Known for her strong leadership skills, she is respected among her colleagues and has built a solid reputation for reliability. Dálina is passionate about her work and often advocates for improved working conditions in the aviation industry.
 
 Now at 32 years of age, Dálina Valárion has established herself as a known figure among the pilots of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
