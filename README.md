@@ -8,7 +8,7 @@ This module provides the necessary items, actors, and assets needed to play in t
 npm install
 npm run build:compiledb      # assets/content/ → build/stage/packs/{items,journals}
 npm run build:link-manifest  # assets/content/ → build/manifests/thalorna.json
-npm run build:site-content   # assets/content/ → site/content/
+npm run build:site-content   # assets/content/ → build/hugo/content/
 npm run build:site           # the above, then Hugo → build/site/thalorna/
 ```
 
@@ -25,8 +25,8 @@ rather than a journal, and how to write a link into another package.
 
 Everything built from those notes — the compendium packs, the link manifest, and
 the website — is generated output: the packs and the manifest land under
-`build/`, the site under `site/content/` and `build/site/thalorna/`. All of it is
-gitignored, and no compiled output is committed.
+`build/`, the site under `build/hugo/content/` and `build/site/thalorna/`. All of
+it is gitignored, and no compiled output is committed.
 
 The pack compiler is [`@heroiclands/package-build`](https://www.npmjs.com/package/@heroiclands/package-build),
 the shared toolchain every HeroicLands content package builds with. This
@@ -41,14 +41,15 @@ builds, renders and deploys the whole of it. Nothing else writes to that prefix,
 and no other repository is in the path between these pages and their readers.
 
 ```sh
-npm run build:site   # assets/content/ → site/content/ → build/site/thalorna/
+npm run build:site   # assets/content/ → build/hugo/content/ → build/site/thalorna/
 npm run serve:site   # the same, then `hugo server` for a local preview
 ```
 
-`site/` is the Hugo project: its configuration, this site's own home-page
-layout, and the shared `heroiclands-hugo-theme` as a submodule (so clone with
-`--recurse-submodules`, or run `git submodule update --init`). The pages
-themselves are generated beneath it and are not committed.
+`build/hugo/` is the generated Hugo project: `content-build site` writes its
+configuration and the content mount there, and the home page is rendered by
+the theme's landing layout from `assets/content/homepage.md`. The shared
+`heroiclands-hugo-theme` arrives through `npm ci`, as `@heroiclands/hugo-theme`.
+Nothing under `build/hugo/` is committed.
 `.github/workflows/deploy-site.yml` builds the site on every push that touches
 the content or the build deriving it, and deploys it to this package's own
 Cloudflare Pages project. That project and the routing that puts it at
@@ -57,8 +58,8 @@ workflow builds and verifies the site, and skips the upload.
 
 ### The address is written down once
 
-`baseURL` in [`site/hugo.toml`](site/hugo.toml) is where Hugo is told the site's
-address, and `contentPackage` in
+`baseURL` for the generated Hugo site is `package.json`'s own `homepage`, and
+`contentPackage` in
 [`package-build.config.yaml`](package-build.config.yaml) is where the site build
 is: a page publishes at `/<contentPackage>/<type>-<shortcode>/`, and `site.base`
 overrides that if the package ever moves. Pointing both at another prefix — or

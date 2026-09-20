@@ -82,22 +82,13 @@ pdf:
 # gets its *address* is `publish.address` above, shared with the link manifest
 # so the two cannot disagree about where a page is.
 #
-# `content-build site` is the whole of the emitter (#85). This repository used
-# to carry its own — a 907-line copy of `engine/site-build.mjs` plus a 281-line
-# copy of `engine/web-wikilinks.mjs` — and that copy missed four upstream fixes
-# in as many months, one of which emitted a zero-page site and one of which
-# silently stripped every `uuid` from the published link manifest. There is no
-# local site code left, and no seam for any: a gap here is fixed in
-# `@heroiclands/package-build`, where every package gets the fix.
+# `content-build site` generates the whole Hugo source tree — configuration
+# included — under `build/hugo/`; this repository holds no Hugo configuration
+# of its own.
 site:
-    # Hugo's `contentDir`, and the mount as well: `publish.address.prefix` is
-    # empty, so a page publishes at `/thalorna/<type>-<shortcode>/` and its file
-    # is written flat at the root of this directory. The whole tree is wiped and
-    # rewritten on every run, so it is a build artifact and never committed.
-    out: site/content
     # The host every package's imagery is served from, joined onto the package
-    # name and the path inside that package's `assets/`. The Hugo site spells
-    # the same address as `params.cdnBaseURL`; keep the two in step.
+    # name and the path inside that package's `assets/`. The generated Hugo
+    # `params.cdnBaseURL` reads this value.
     assets: https://cdn.heroiclands.org
     # `packages:` is absent, and absent means `[contentPackage]`. `package:`
     # is retired, so every note in this tree is `thalorna` by construction and
@@ -147,6 +138,35 @@ site:
         skill: { title: Skills, listType: skill }
         weapongear: { title: Weapons, listType: weapongear }
 
+    # The "page not found" page. Its template is the theme's, since every
+    # consumer needs one; the wording and the routes back are ours. A relative
+    # `url` is resolved against this site's own base, so these survive a move.
+    notfound:
+        heroimage: images/banners/tapestry-of-dreams.webp
+        tagline: This world has no page at
+        sitenoun: world
+        links:
+            - {
+                  title: The World of Thalorna,
+                  url: /,
+                  text: "Every section of the setting, from the top.",
+              }
+            - {
+                  title: Realms and Regions,
+                  url: /polity/,
+                  text: "The realms of Thalorna, their rulers, and the lands they hold.",
+              }
+            - {
+                  title: Characters,
+                  url: /character/,
+                  text: "The people of the world — rulers, rivals, and the merely notorious.",
+              }
+            - {
+                  title: Creatures,
+                  url: /creature/,
+                  text: "What lives out there, and what it does to those who meet it.",
+              }
+
 packageBuild:
     assets:
         - { from: src/thalorna.mjs, to: thalorna.mjs }
@@ -166,7 +186,6 @@ packageBuild:
 
     manifest:
         title: Thalorna Setting
-        description: Items, Actors, Journals, Scenes, and other assets to enable play in the Thalorna setting for Song of Heroic Lands
         authors:
             - name: Toasty
               discord: toasty#8538
