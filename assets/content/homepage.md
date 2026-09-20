@@ -2,21 +2,11 @@
 # The package landing at /thalorna/ — the front door to everything this
 # repository publishes.
 #
-# The page is a card grid over the setting's own sections, and it is authored
-# here rather than hand-built as a layout because the shape is shared: six
-# packages publish a landing at their own prefix, so the arrangement lives in
-# @heroiclands/hugo-theme's `layouts/partials/landing.html` and this note
-# supplies only Thalorna's words and addresses. The contract is documented in
-# that package's README under "A package landing page"
-# (heroiclands-hugo-theme#33, #91).
-#
-# `cards.source: sections` is the whole of the grid, and deliberately so. This
-# is a content package: its landing *is* its section index, one card per
-# top-level section with that section's own title and description. Listing
-# them here instead would mean re-writing this file every time the content
-# build emits or retires a section — which is exactly the maintenance the
-# hand-built layout it replaces already avoided, by reading the site's own
-# section list. Deriving them keeps that property and gains the shared shape.
+# This is an ordinary page with a banner and body. It is a homepage note rather
+# than a doc note, so it publishes at `/thalorna/` itself rather than at a
+# `/<type>-<shortcode>/` address. An index of what the package publishes — a
+# guide to sections, a table of contents, or any other navigation — is authored
+# here in the page body, or lives as a separate `doc` note linked from here.
 #
 # There is no `install:` block. Every other package's landing carries one, but
 # this repository has cut no release, so a
@@ -31,8 +21,4 @@ description: >-
   places, creatures, and the lore that binds them.
 data:
   banner: tapestryofdreamsbnr
-
-landing:
-  cards:
-    source: sections
 ---

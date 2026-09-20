@@ -73,8 +73,8 @@ jobs:
 
             # Nothing outside /thalorna is this repository's to publish, and a
             # deploy is a whole-subtree replacement — so prove the tree carries
-            # a home page and the sections, and stop before uploading if the
-            # build came out empty.
+            # at least one page, and stop before uploading if the build came out
+            # empty.
             - name: Verify the tree is a complete site
               run: |
                   test -s build/site/thalorna/index.html
