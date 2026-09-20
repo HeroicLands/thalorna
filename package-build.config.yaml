@@ -146,10 +146,26 @@ site:
         tagline: This world has no page at
         sitenoun: world
         links:
-            - { title: The World of Thalorna, url: /, text: "Every section of the setting, from the top." }
-            - { title: Realms and Regions, url: /polity/, text: "The realms of Thalorna, their rulers, and the lands they hold." }
-            - { title: Characters, url: /character/, text: "The people of the world — rulers, rivals, and the merely notorious." }
-            - { title: Creatures, url: /creature/, text: "What lives out there, and what it does to those who meet it." }
+            - {
+                  title: The World of Thalorna,
+                  url: /,
+                  text: "Every section of the setting, from the top.",
+              }
+            - {
+                  title: Realms and Regions,
+                  url: /polity/,
+                  text: "The realms of Thalorna, their rulers, and the lands they hold.",
+              }
+            - {
+                  title: Characters,
+                  url: /character/,
+                  text: "The people of the world — rulers, rivals, and the merely notorious.",
+              }
+            - {
+                  title: Creatures,
+                  url: /creature/,
+                  text: "What lives out there, and what it does to those who meet it.",
+              }
 
 packageBuild:
     assets:
