@@ -24,15 +24,6 @@ stats:
 
 itemBuilders: sohl
 
-# The actors pass resolves each being's embedded items against the items
-# pass's output, and package-build derives compile order from what each pass
-# reads, so items compile first whatever order this list declares — the order
-# below is for a reader, matching the manifest's `packs` array and what
-# `packFolders` below names.
-#
-# What the actors pass cannot find locally comes from sohl's item catalogue,
-# declared above. Run `content-build deps fetch` before compiling; a cold
-# cache fails saying so.
 packs:
     - { name: items, label: Items, type: Item }
     - { name: journals, label: Journals, type: JournalEntry }
@@ -70,9 +61,6 @@ pdf:
 site:
     assets: https://cdn.heroiclands.org
     description: The World of Thalorna — realms, peoples, faiths, creatures, and the lore behind them.
-    # `packages:` is absent — every note in this tree is `thalorna` by
-    # construction, and naming a second package here would select nothing.
-    #
     # No `trees:` — this repository publishes no documentation tree beside its
     # content. No `pass:` — this repository has no body-rewrite bundle of its
     # own.
