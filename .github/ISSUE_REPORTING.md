@@ -347,8 +347,8 @@ an issue here.
 through it, so if a page is wrong here and the equivalent page is fine on `/sohl`,
 the variable is this repository's content or site config — not the theme. If it is
 wrong on both, file it in `heroiclands-hugo-theme`. Anything about a URL, menu entry,
-or branding is ours either way: the theme carries no addresses, `site/hugo.toml`
-does.
+or branding is ours either way: the theme carries no addresses, `package.json` and
+`package-build.config.yaml` do.
 
 **When work genuinely spans two repositories, file in each and link them.** Cross-repo
 references work fine (`HeroicLands/<repo>#123`); what does **not** work is closing:
