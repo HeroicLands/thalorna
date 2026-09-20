@@ -10,8 +10,7 @@ name:
   given: Wítharic
   clan: Druthgar
   home: waldburg
-  aliases:
-    - Thorne Harrows
+  aliases: []
 packFolder: ankarisvrystwald
 shortcode: wthrcdrthgr
 type: being
@@ -564,7 +563,7 @@ Wítharic Druthgar is a 42-year-old man who stands 6'0" tall and is broad and so
 
 Born in the Vrystwald region to a guilded family of Varokhi heritage, Wítharic Druthgar came into the world of the shipwright through a combination of circumstance and aptitude.
 
-Thorne hails from a long line of shipwrights and inherited his family's business. He specializes in crafting warships, and his vessels are highly prized for their durability and speed. Thorne is a hard worker but struggles with the administrative side of the business. His temper can flare when things don't go according to plan, especially with clients who constantly change their requirements.
+Wítharic hails from a long line of shipwrights and inherited his family's business. He specializes in crafting warships, and his vessels are highly prized for their durability and speed. Wítharic is a hard worker but struggles with the administrative side of the business. His temper can flare when things don't go according to plan, especially with clients who constantly change their requirements.
 
 Now at 42 years of age, Wítharic Druthgar has established himself as a known figure among the shipwrights of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 

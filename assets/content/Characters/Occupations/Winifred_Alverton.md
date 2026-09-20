@@ -9,8 +9,7 @@ name:
   given: Winifred
   clan: Alverton
   home: dunmere
-  aliases:
-    - Anwen Lys
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: wnfrdlvrtn
 type: being
@@ -560,7 +559,7 @@ Winifred Alverton is a 31-year-old woman who stands 5'2" tall and is slender. Sh
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Winifred Alverton came into the world of the cartographer/artist through a combination of circumstance and aptitude.
 
-Anwen grew up in a small village where she developed a love for nature and art. Her skill in sketching landscapes attracted the attention of a traveling cartographer, who took her on as an apprentice. She now creates maps for local lords and travelers, infusing her artistic style into her work to create maps that are both functional and beautiful.
+Winifred grew up in a small village where she developed a love for nature and art. Her skill in sketching landscapes attracted the attention of a traveling cartographer, who took her on as an apprentice. She now creates maps for local lords and travelers, infusing her artistic style into her work to create maps that are both functional and beautiful.
 
 Now at 31 years of age, Winifred Alverton has established herself as a known figure among the cartographer/artists of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

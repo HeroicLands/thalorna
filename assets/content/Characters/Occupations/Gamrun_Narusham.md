@@ -10,8 +10,7 @@ name:
   given: Gamrûn
   clan: Narûsham
   home: qadhirun
-  aliases:
-    - Cedric Valewyn
+  aliases: []
 packFolder: midhalionharad
 shortcode: gamrunrshm
 type: being
@@ -558,7 +557,7 @@ Gamrûn Narûsham is a 45-year-old man who stands 6'1" tall and is of moderate b
 
 Born in the Harad region to a guilded family of Haradian heritage, Gamrûn Narûsham came into the world of the swordmaster through a combination of circumstance and aptitude.
 
-Cedric is a veteran swordsman who once served as a guard captain for a prominent noble family. Now retired from active service, he earns his living by teaching swordsmanship to young nobles and aspiring warriors. Known for his strict discipline and precise techniques, Cedric takes great pride in his students' achievements. However, he struggles with the aches and pains of aging, which sometimes hinder his own movements.
+Gamrûn is a veteran swordsman who once served as a guard captain for a prominent noble family. Now retired from active service, he earns his living by teaching swordsmanship to young nobles and aspiring warriors. Known for his strict discipline and precise techniques, Gamrûn takes great pride in his students' achievements. However, he struggles with the aches and pains of aging, which sometimes hinder his own movements.
 
 Now at 45 years of age, Gamrûn Narûsham has established himself as a known figure among the swordmasters of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
 

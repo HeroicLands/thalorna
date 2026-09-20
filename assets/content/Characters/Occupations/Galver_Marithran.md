@@ -9,8 +9,7 @@ name:
   given: Gálver
   clan: Maríthran
   home: valdes
-  aliases:
-    - Gorvin Rockshield
+  aliases: []
 packFolder: aureldiatarvenia
 shortcode: glvrmrthrn
 type: being
@@ -560,7 +559,7 @@ Gálver Maríthran is a 50-year-old man who stands 6'0" tall and is broad and so
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Gálver Maríthran came into the world of the mason through a combination of circumstance and aptitude.
 
-Gorvin is a veteran mason with over thirty years of experience. He has worked on countless projects, from simple homes to grand cathedrals. Known for his strength and expertise, Gorvin often takes on leadership roles in construction projects and is respected for his ability to train younger workers. He believes in the importance of craftsmanship and integrity in his work.
+Gálver is a veteran mason with over thirty years of experience. He has worked on countless projects, from simple homes to grand cathedrals. Known for his strength and expertise, Gálver often takes on leadership roles in construction projects and is respected for his ability to train younger workers. He believes in the importance of craftsmanship and integrity in his work.
 
 Now at 50 years of age, Gálver Maríthran has established himself as a known figure among the masons of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
 

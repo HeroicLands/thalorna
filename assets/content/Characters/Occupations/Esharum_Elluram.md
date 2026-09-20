@@ -9,8 +9,7 @@ name:
   given: Eshârum
   clan: Ellûram
   home: kashmuret
-  aliases:
-    - Edwin Hale
+  aliases: []
 packFolder: midhalionharad
 shortcode: esharumlrm
 type: being
@@ -558,7 +557,7 @@ Eshârum Ellûram is a 29-year-old man who stands 5'7" tall and is lean and wiry
 
 Born in the Harad region to a freeman family of Haradian heritage, Eshârum Ellûram came into the world of the domestic servant through a combination of circumstance and aptitude.
 
-Edwin works as a footman in a city manor, attending to the needs of his employer and guests. He is quick and attentive, with a polite manner that makes him well-suited to his role. Edwin dreams of one day opening his own small business, but for now, he is focused on earning enough to support his family.
+Eshârum works as a footman in a city manor, attending to the needs of his employer and guests. He is quick and attentive, with a polite manner that makes him well-suited to his role. Eshârum dreams of one day opening his own small business, but for now, he is focused on earning enough to support his family.
 
 Now at 29 years of age, Eshârum Ellûram has established himself as a known figure among the domestic servants of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
 
@@ -586,7 +585,7 @@ As a Haradian domestic servant, Eshârum occupies a recognized social niche with
 
 ### Patrons
 
-Eshârum's primary patron is His employer, who appreciates Edwin's loyalty and good service.. This relationship provides both opportunity and obligation.
+Eshârum's primary patron is His employer, who appreciates Eshârum's loyalty and good service.. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

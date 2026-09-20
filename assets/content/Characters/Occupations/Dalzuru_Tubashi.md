@@ -9,8 +9,7 @@ name:
   given: Dalzûru
   clan: Tûbashî
   home: kethara2
-  aliases:
-    - Sigurd Ravensong
+  aliases: []
 packFolder: midhalionharad
 shortcode: dalzurtbsh
 type: being
@@ -559,7 +558,7 @@ Dalzûru Tûbashî is a 43-year-old man who stands 5'10" tall and is of moderate
 
 Born in the Harad region to a freeman family of Haradian heritage, Dalzûru Tûbashî came into the world of the skald through a combination of circumstance and aptitude.
 
-Sigurd was raised in a warrior's family but found his true calling as a skald, weaving tales of valor and tragedy in the mead halls. He is renowned for his vivid storytelling and deep, resonant voice, often recounting the sagas of ancient heroes. Though he can wield a sword, he prefers to wield words and music to inspire others.
+Dalzûru was raised in a warrior's family but found his true calling as a skald, weaving tales of valor and tragedy in the mead halls. He is renowned for his vivid storytelling and deep, resonant voice, often recounting the sagas of ancient heroes. Though he can wield a sword, he prefers to wield words and music to inspire others.
 
 Now at 43 years of age, Dalzûru Tûbashî has established himself as a known figure among the skalds of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
 

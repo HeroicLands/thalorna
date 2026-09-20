@@ -9,8 +9,7 @@ name:
   given: Aldred
   clan: Harden
   home: kingsholow
-  aliases:
-    - Cedric Goldleaf
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: aldredhrdn
 type: being
@@ -563,7 +562,7 @@ Aldred Harden is a 42-year-old man who stands 5'11" tall and is of moderate buil
 
 Born in the Aelwyth region to a noble family of Aelwythan heritage, Aldred Harden came into the world of the mercantyler through a combination of circumstance and aptitude.
 
-Cedric comes from a wealthy merchant family and has built a successful career as a mercantyler. He specializes in importing and exporting luxury goods, including fine textiles and precious metals. Cedric is known for his keen eye for quality and his ability to establish strong relationships with suppliers and clients. He enjoys the finer things in life and often travels to seek out the best products for his clientele.
+Aldred comes from a wealthy merchant family and has built a successful career as a mercantyler. He specializes in importing and exporting luxury goods, including fine textiles and precious metals. Aldred is known for his keen eye for quality and his ability to establish strong relationships with suppliers and clients. He enjoys the finer things in life and often travels to seek out the best products for his clientele.
 
 Now at 42 years of age, Aldred Harden has established himself as a known figure among the mercantylers of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 

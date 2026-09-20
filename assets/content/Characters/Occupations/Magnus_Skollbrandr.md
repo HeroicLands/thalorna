@@ -10,8 +10,7 @@ name:
   given: Magnús
   clan: Sköllbrandr
   home: haukstad
-  aliases:
-    - Alaric Gemcutter
+  aliases: []
 packFolder: ankarisnordlands
 shortcode: mgnsklbrndr
 type: being
@@ -559,7 +558,7 @@ Magnús Sköllbrandr is a 35-year-old man who stands 5'6" tall and is of moderat
 
 Born in the Nordheim region to a guilded family of Nordheimn heritage, Magnús Sköllbrandr came into the world of the jeweler through a combination of circumstance and aptitude.
 
-Alaric comes from a family of skilled artisans and has dedicated his life to mastering the art of gem cutting and jewelry making. He is known for his attention to detail and ability to bring out the beauty of each stone he works with. Alaric runs his own shop, where he creates exquisite pieces that attract both commoners and nobles alike. His passion for his craft is evident in every piece he produces.
+Magnús comes from a family of skilled artisans and has dedicated his life to mastering the art of gem cutting and jewelry making. He is known for his attention to detail and ability to bring out the beauty of each stone he works with. Magnús runs his own shop, where he creates exquisite pieces that attract both commoners and nobles alike. His passion for his craft is evident in every piece he produces.
 
 Now at 35 years of age, Magnús Sköllbrandr has established himself as a known figure among the jewellers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 

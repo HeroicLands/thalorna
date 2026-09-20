@@ -9,8 +9,7 @@ name:
   given: Kadméros
   clan: Hârôrdîs
   home: velysara
-  aliases:
-    - Eamon Oakshade
+  aliases: []
 packFolder: midhalionvylaria
 shortcode: kdmrshrrds
 type: being
@@ -557,7 +556,7 @@ Kadméros Hârôrdîs is a 38-year-old man who stands 6'1" tall and is of modera
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Kadméros Hârôrdîs came into the world of the woodcrafter through a combination of circumstance and aptitude.
 
-Eamon has been working with wood since he was a boy, learning the craft from his father in a small village surrounded by forests. His skills lie in crafting furniture, tools, and decorative items from local hardwoods. Known for his intricate carvings and quality craftsmanship, Eamon is proud of his trade, though he often struggles to find steady customers in a small community.
+Kadméros has been working with wood since he was a boy, learning the craft from his father in a small village surrounded by forests. His skills lie in crafting furniture, tools, and decorative items from local hardwoods. Known for his intricate carvings and quality craftsmanship, Kadméros is proud of his trade, though he often struggles to find steady customers in a small community.
 
 Now at 38 years of age, Kadméros Hârôrdîs has established himself as a known figure among the woodcrafters of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
 

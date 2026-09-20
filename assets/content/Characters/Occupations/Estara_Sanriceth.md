@@ -9,8 +9,7 @@ name:
   given: Estára
   clan: Sánriceth
   home: valdes
-  aliases:
-    - Brynna Highfield
+  aliases: []
 packFolder: aureldiatarvenia
 shortcode: estrsnrcth
 type: being
@@ -557,7 +556,7 @@ Estára Sánriceth is a 29-year-old woman who stands 5'11" tall and is of modera
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Estára Sánriceth came into the world of the teamster through a combination of circumstance and aptitude.
 
-Brynna grew up in a bustling city, where her father worked as a teamster. She learned the trade from him, and after his passing, she took over the family business. Brynna is known for her determination and resourcefulness, often handling challenging deliveries in tight urban spaces. Despite her young age, she is respected among the older teamsters for her skills.
+Estára grew up in a bustling city, where her father worked as a teamster. She learned the trade from him, and after his passing, she took over the family business. Estára is known for her determination and resourcefulness, often handling challenging deliveries in tight urban spaces. Despite her young age, she is respected among the older teamsters for her skills.
 
 Now at 29 years of age, Estára Sánriceth has established herself as a known figure among the teamsters of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

@@ -9,8 +9,7 @@ name:
   given: Óvelyn
   clan: Sálthar
   home: liranel
-  aliases:
-    - Gwyneth Vane
+  aliases: []
 packFolder: aureldiaelavendre
 shortcode: ovlynslthr
 type: being
@@ -560,7 +559,7 @@ sohl:
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Óvelyn Sálthar came into the world of the chandler through a combination of circumstance and aptitude.
 
-Gwyneth is a young chandler who recently started her own business after apprenticing with a skilled candle maker. She specializes in creating decorative and scented candles for special occasions and religious ceremonies. Her unique designs have begun attracting attention, though she still struggles to gain a foothold in the market.
+Óvelyn is a young chandler who recently started her own business after apprenticing with a skilled candle maker. She specializes in creating decorative and scented candles for special occasions and religious ceremonies. Her unique designs have begun attracting attention, though she still struggles to gain a foothold in the market.
 
 Now at 29 years of age, Óvelyn Sálthar has established herself as a known figure among the chandlers of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

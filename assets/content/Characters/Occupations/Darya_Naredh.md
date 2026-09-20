@@ -10,8 +10,7 @@ name:
   given: Dárya
   clan: Náredh
   home: cerdwnshlw
-  aliases:
-    - Catrin Brightvoice
+  aliases: []
 packFolder: aureldiaelavendre
 shortcode: daryanardh
 type: being
@@ -559,7 +558,7 @@ Dárya Náredh is a 28-year-old woman who stands 5'11" tall and is slender. She 
 
 Born in the Élavendre region to a guilded family of Élavendri heritage, Dárya Náredh came into the world of the bard through a combination of circumstance and aptitude.
 
-Catrin was trained in the bardic arts from a young age, and her talent for storytelling and song quickly became apparent. She travels from court to court, performing for nobility and commoners alike. Her songs often blend historical events with myth, and she has a talent for charming her audience. Though ambitious, Catrin is genuinely passionate about preserving history through her craft.
+Dárya was trained in the bardic arts from a young age, and her talent for storytelling and song quickly became apparent. She travels from court to court, performing for nobility and commoners alike. Her songs often blend historical events with myth, and she has a talent for charming her audience. Though ambitious, Dárya is genuinely passionate about preserving history through her craft.
 
 Now at 28 years of age, Dárya Náredh has established herself as a known figure among the bards of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

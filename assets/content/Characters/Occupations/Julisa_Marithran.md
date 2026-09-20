@@ -10,8 +10,7 @@ name:
   given: Júlisa
   clan: Maríthran
   home: solarden
-  aliases:
-    - Sigrun Stoneheart
+  aliases: []
 packFolder: aureldiatarvenia
 shortcode: julsmrthrn
 type: being
@@ -558,7 +557,7 @@ Júlisa Maríthran is a 52-year-old woman who stands 5'10" tall and is of modera
 
 Born in the Tarvénia region to a guilded family of Tarvénan heritage, Júlisa Maríthran came into the world of the innkeeper through a combination of circumstance and aptitude.
 
-Sigrun took over the Stoneheart Inn after her husband passed away. She is known for her strength and resilience, managing the inn single-handedly while providing a warm and inviting atmosphere. Sigrun prides herself on her homemade dishes and has built a reputation for her signature stews. While she faces challenges as a single innkeeper, her determination keeps the inn thriving.
+Júlisa took over the Maríthran Inn after her husband passed away. She is known for her strength and resilience, managing the inn single-handedly while providing a warm and inviting atmosphere. Júlisa prides herself on her homemade dishes and has built a reputation for her signature stews. While she faces challenges as a single innkeeper, her determination keeps the inn thriving.
 
 Now at 52 years of age, Júlisa Maríthran has established herself as a known figure among the innkeepers of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

@@ -9,8 +9,7 @@ name:
   given: Ázîna
   clan: Râfîrôs
   home: theradon2
-  aliases:
-    - Elira Coldbrook
+  aliases: []
 packFolder: helladhelionis
 shortcode: azinarafrs
 type: being
@@ -561,7 +560,7 @@ sohl:
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Ázîna Râfîrôs came into the world of the embalmer through a combination of circumstance and aptitude.
 
-Elira found her calling as an embalmer after losing her brother, taking comfort in preparing his body for burial. She sees the profession as a way to help families cope with loss and ensure that their loved ones are treated with dignity. Elira's gentle demeanor makes her well-suited to the work, though it sometimes takes a toll on her emotionally. She often incorporates rituals and herbs that are believed to protect the deceased's spirit.
+Ázîna found her calling as an embalmer after losing her brother, taking comfort in preparing his body for burial. She sees the profession as a way to help families cope with loss and ensure that their loved ones are treated with dignity. Ázîna's gentle demeanor makes her well-suited to the work, though it sometimes takes a toll on her emotionally. She often incorporates rituals and herbs that are believed to protect the deceased's spirit.
 
 Now at 33 years of age, Ázîna Râfîrôs has established herself as a known figure among the embalmers of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

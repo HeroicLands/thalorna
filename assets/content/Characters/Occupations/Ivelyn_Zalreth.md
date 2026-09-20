@@ -9,8 +9,7 @@ name:
   given: Ívelyn
   clan: Zálreth
   home: valdun
-  aliases:
-    - Liora Willowbrook
+  aliases: []
 packFolder: aureldiaelavendre
 shortcode: ivlynzlrth
 type: being
@@ -558,7 +557,7 @@ sohl:
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Ívelyn Zálreth came into the world of the woodcrafter through a combination of circumstance and aptitude.
 
-Liora grew up near a dense forest and spent her childhood learning to carve simple wooden toys. As she grew older, she expanded her skills to create larger and more intricate pieces, including furniture and decorative carvings. Liora's work is known for its natural motifs, often inspired by the local flora and fauna. She enjoys experimenting with different wood types to find the best material for each piece.
+Ívelyn grew up near a dense forest and spent her childhood learning to carve simple wooden toys. As she grew older, she expanded her skills to create larger and more intricate pieces, including furniture and decorative carvings. Ívelyn's work is known for its natural motifs, often inspired by the local flora and fauna. She enjoys experimenting with different wood types to find the best material for each piece.
 
 Now at 29 years of age, Ívelyn Zálreth has established herself as a known figure among the woodcrafters of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

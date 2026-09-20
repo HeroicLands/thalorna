@@ -9,8 +9,7 @@ name:
   given: Arzânalàs
   clan: Bâredâs
   home: tyrellan
-  aliases:
-    - Ulfric Battleborn
+  aliases: []
 packFolder: midhalionvylaria
 shortcode: arznlsbrds
 type: being
@@ -557,7 +556,7 @@ Arzânalàs Bâredâs is a 54-year-old man who stands 6'2" tall and is broad and
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Arzânalàs Bâredâs came into the world of the huscarl through a combination of circumstance and aptitude.
 
-Ulfric has dedicated his life to serving as a huscarl for Lord Halvar. With decades of experience, he is a seasoned warrior known for his exceptional skills in combat and strategy. Ulfric has fought in many battles, earning respect for his resilience and tactical mind. Now, he serves as a mentor to younger warriors, sharing his knowledge and experience to prepare them for the challenges ahead.
+Arzânalàs has dedicated his life to serving as a huscarl for Lord Halvar. With decades of experience, he is a seasoned warrior known for his exceptional skills in combat and strategy. Arzânalàs has fought in many battles, earning respect for his resilience and tactical mind. Now, he serves as a mentor to younger warriors, sharing his knowledge and experience to prepare them for the challenges ahead.
 
 Now at 54 years of age, Arzânalàs Bâredâs has established himself as a known figure among the huscarls of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
 

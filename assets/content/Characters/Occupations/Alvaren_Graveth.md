@@ -9,8 +9,7 @@ name:
   given: Alváren
   clan: Gráveth
   home: valdes
-  aliases:
-    - Thaddeus Brine
+  aliases: []
 packFolder: aureldiatarvenia
 shortcode: alvrngrvth
 type: being
@@ -559,7 +558,7 @@ Alváren Gráveth is a 40-year-old man who stands 6'2" tall and is broad and sol
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Alváren Gráveth came into the world of the salter through a combination of circumstance and aptitude.
 
-Thaddeus is a seasoned salter who has spent decades perfecting his craft. He runs a larger saltworks that supplies salt to several coastal towns. Known for his expertise, he often experiments with different evaporation techniques to produce unique types of salt, including flavored varieties. Thaddeus is respected in the community for his knowledge and often mentors younger salt workers.
+Alváren is a seasoned salter who has spent decades perfecting his craft. He runs a larger saltworks that supplies salt to several coastal towns. Known for his expertise, he often experiments with different evaporation techniques to produce unique types of salt, including flavored varieties. Alváren is respected in the community for his knowledge and often mentors younger salt workers.
 
 Now at 40 years of age, Alváren Gráveth has established himself as a known figure among the salters of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
 

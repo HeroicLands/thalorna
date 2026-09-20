@@ -9,8 +9,7 @@ name:
   given: Eda
   clan: Somervell
   home: thornbury
-  aliases:
-    - Elira Willowbrook
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: edasomervl
 type: being
@@ -559,7 +558,7 @@ Eda Somervell is a 27-year-old woman who stands 5'7" tall and is slender. She ha
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Eda Somervell came into the world of the innkeeper through a combination of circumstance and aptitude.
 
-Elira manages the Willowbrook Inn, which is nestled near a popular trade route. After taking over from her parents, she has worked tirelessly to ensure that her inn remains a welcoming place for travelers. Elira is known for her friendly demeanor and ability to connect with guests, but she sometimes struggles with the pressures of running the business.
+Eda manages the Somervell Inn, which is nestled near a popular trade route. After taking over from her parents, she has worked tirelessly to ensure that her inn remains a welcoming place for travelers. Eda is known for her friendly demeanor and ability to connect with guests, but she sometimes struggles with the pressures of running the business.
 
 Now at 27 years of age, Eda Somervell has established herself as a known figure among the innkeepers of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

@@ -9,8 +9,7 @@ name:
   given: Fródwyn
   clan: Dómhár
   home: dunkelwald
-  aliases:
-    - Professor Liraen Windwhisper
+  aliases: []
 packFolder: ankarisvrystwald
 shortcode: frdwyndmhr
 type: being
@@ -562,7 +561,7 @@ Fródwyn Dómhár is a 38-year-old woman who stands 5'8" tall and is of moderate
 
 Born in the Vrystwald region to a noble family of Varokhi heritage, Fródwyn Dómhár came into the world of the scholar through a combination of circumstance and aptitude.
 
-Professor Liraen is a distinguished scholar of natural sciences, known for her groundbreaking research in botany and herbal medicine. She has authored several influential texts on the subject and is frequently invited to speak at conferences. Liraen is passionate about using her knowledge to improve the lives of others and often conducts workshops to teach practical applications of her research. She believes in the importance of blending science with community service.
+Professor Fródwyn is a distinguished scholar of natural sciences, known for her groundbreaking research in botany and herbal medicine. She has authored several influential texts on the subject and is frequently invited to speak at conferences. Fródwyn is passionate about using her knowledge to improve the lives of others and often conducts workshops to teach practical applications of her research. She believes in the importance of blending science with community service.
 
 Now at 38 years of age, Fródwyn Dómhár has established herself as a known figure among the scholars of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

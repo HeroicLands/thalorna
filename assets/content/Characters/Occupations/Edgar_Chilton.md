@@ -9,8 +9,7 @@ name:
   given: Edgar
   clan: Chilton
   home: caerwynd
-  aliases:
-    - Thadeus Grimshaw
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: edgarchltn
 type: being
@@ -560,7 +559,7 @@ Edgar Chilton is a 45-year-old man who stands 5'7" tall and is of moderate build
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Edgar Chilton came into the world of the embalmer through a combination of circumstance and aptitude.
 
-Thadeus grew up in a family of undertakers, where he learned the art of embalming from his father. Known for his steady hands and meticulous nature, he has prepared many bodies for burial over the years. Thadeus takes his work seriously, seeing it as a final service to the deceased and their families. While his profession makes some people uneasy, Thadeus is dedicated to his craft and carries out his duties with a solemn respect for the dead.
+Edgar grew up in a family of undertakers, where he learned the art of embalming from his father. Known for his steady hands and meticulous nature, he has prepared many bodies for burial over the years. Edgar takes his work seriously, seeing it as a final service to the deceased and their families. While his profession makes some people uneasy, Edgar is dedicated to his craft and carries out his duties with a solemn respect for the dead.
 
 Now at 45 years of age, Edgar Chilton has established himself as a known figure among the embalmers of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 

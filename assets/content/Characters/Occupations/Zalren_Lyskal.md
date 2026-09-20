@@ -9,8 +9,7 @@ name:
   given: Zálren
   clan: Lýskal
   home: chastelclr
-  aliases:
-    - Harvin Greenbark
+  aliases: []
 packFolder: aureldiaprovenzia
 shortcode: zalrnlyskl
 type: being
@@ -559,7 +558,7 @@ Zálren Lýskal is a 54-year-old man who stands 6'0" tall and is of moderate bui
 
 Born in the Provènzia region to a freeman family of Provenzian heritage, Zálren Lýskal came into the world of the woodcrafter through a combination of circumstance and aptitude.
 
-Harvin has been a woodcrafter for over thirty years, known for his craftsmanship in building sturdy furniture and everyday items. He learned the craft from his grandfather, who instilled in him a love for woodworking and a dedication to quality. Harvin's workshop is filled with tools and half-finished projects, reflecting his preference for practicality over aesthetics. Although his work lacks decorative flair, it is highly valued for its durability.
+Zálren has been a woodcrafter for over thirty years, known for his craftsmanship in building sturdy furniture and everyday items. He learned the craft from his grandfather, who instilled in him a love for woodworking and a dedication to quality. Zálren's workshop is filled with tools and half-finished projects, reflecting his preference for practicality over aesthetics. Although his work lacks decorative flair, it is highly valued for its durability.
 
 Now at 54 years of age, Zálren Lýskal has established himself as a known figure among the woodcrafters of Provènzia. His reputation, for better or worse, precedes him in the circles where such things matter.
 

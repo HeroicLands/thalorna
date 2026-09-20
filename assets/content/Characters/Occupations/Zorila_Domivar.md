@@ -9,8 +9,7 @@ name:
   given: Zórila
   clan: Dómivar
   home: valthari
-  aliases:
-    - Brynhild Stonefoot
+  aliases: []
 packFolder: aureldiatarvenia
 shortcode: zoriladmvr
 type: being
@@ -556,7 +555,7 @@ Zórila Dómivar is a 29-year-old woman who stands 5'8" tall and is slender. She
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Zórila Dómivar came into the world of the huntsman through a combination of circumstance and aptitude.
 
-Brynhild is the trusted huntswoman for Lord Varek of Thornhill Manor. Growing up in a hunting family, she excelled in the trade from a young age. Brynhild is known for her skill with a bow and her ability to move silently through the woods. She is often invited to hunt with the lord and his guests, and her expertise is highly valued during the hunting season.
+Zórila is the trusted huntswoman for Lord Varek of Thornhill Manor. Growing up in a hunting family, she excelled in the trade from a young age. Zórila is known for her skill with a bow and her ability to move silently through the woods. She is often invited to hunt with the lord and his guests, and her expertise is highly valued during the hunting season.
 
 Now at 29 years of age, Zórila Dómivar has established herself as a known figure among the huntsmans of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

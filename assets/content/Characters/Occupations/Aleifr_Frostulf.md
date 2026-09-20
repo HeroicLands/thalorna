@@ -9,8 +9,7 @@ name:
   given: Áleifr
   clan: Frostulf
   home: greyfjord
-  aliases:
-    - Garron Oakleaf
+  aliases: []
 packFolder: ankarisnordlands
 shortcode: alfrfrstlf
 type: being
@@ -559,7 +558,7 @@ sohl:
 
 Born in the Nordheim region to a freeman family of Nordheimn heritage, Áleifr Frostulf came into the world of the huntsman through a combination of circumstance and aptitude.
 
-Garron is the chief huntsman for Lady Elenora of Wildwood Manor. With years of experience, he has an unparalleled understanding of the local ecosystems and the best practices for sustainable hunting. Garron is respected by the other hunters for his wisdom and experience, and he is often consulted when disputes arise regarding hunting rights or land use. His dedication to his lady and the land is unwavering.
+Áleifr is the chief huntsman for Lady Elenora of Wildwood Manor. With years of experience, he has an unparalleled understanding of the local ecosystems and the best practices for sustainable hunting. Áleifr is respected by the other hunters for his wisdom and experience, and he is often consulted when disputes arise regarding hunting rights or land use. His dedication to his lady and the land is unwavering.
 
 Now at 40 years of age, Áleifr Frostulf has established himself as a known figure among the huntsmans of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 

@@ -9,8 +9,7 @@ name:
   given: Edrígar
   clan: Sundrýth
   home: falkensten
-  aliases:
-    - Garrick Deepdelver
+  aliases: []
 packFolder: ankarisvrystwald
 shortcode: edrgrsndryth
 type: being
@@ -558,7 +557,7 @@ Edrígar Sundrýth is a 45-year-old man who stands 6'1" tall and is broad and so
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Edrígar Sundrýth came into the world of the miner through a combination of circumstance and aptitude.
 
-Garrick is a veteran miner with decades of experience in the field. He has worked in various mines and has a deep understanding of geology and extraction methods. Known for his wisdom and mentoring abilities, Garrick often trains younger miners and shares his knowledge of the trade. He values the importance of safety and has fought for better conditions in the mines.
+Edrígar is a veteran miner with decades of experience in the field. He has worked in various mines and has a deep understanding of geology and extraction methods. Known for his wisdom and mentoring abilities, Edrígar often trains younger miners and shares his knowledge of the trade. He values the importance of safety and has fought for better conditions in the mines.
 
 Now at 45 years of age, Edrígar Sundrýth has established himself as a known figure among the miners of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 

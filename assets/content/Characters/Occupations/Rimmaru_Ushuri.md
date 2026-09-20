@@ -9,8 +9,7 @@ name:
   given: Rimmârû
   clan: Ushûrî
   home: miravel
-  aliases:
-    - Althea Rosebloom
+  aliases: []
 packFolder: midhalionharad
 shortcode: rimarushur
 type: being
@@ -558,7 +557,7 @@ Rimmârû Ushûrî is a 30-year-old woman who stands 5'11" tall and is slender. 
 
 Born in the Harad region to a noble family of Haradian heritage, Rimmârû Ushûrî came into the world of the perfumer through a combination of circumstance and aptitude.
 
-Althea is a talented perfumer known for her exquisite fragrances. She inherited her family's perfume shop in the bustling marketplace, where she creates signature scents using rare and exotic ingredients. Althea has a refined sense of smell and a passion for blending aromas, often experimenting with new combinations to craft unique perfumes. She enjoys hosting scent workshops to share her knowledge with aspiring perfumers and enthusiasts.
+Rimmârû is a talented perfumer known for her exquisite fragrances. She inherited her family's perfume shop in the bustling marketplace, where she creates signature scents using rare and exotic ingredients. Rimmârû has a refined sense of smell and a passion for blending aromas, often experimenting with new combinations to craft unique perfumes. She enjoys hosting scent workshops to share her knowledge with aspiring perfumers and enthusiasts.
 
 Now at 30 years of age, Rimmârû Ushûrî has established herself as a known figure among the perfumers of Harad. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

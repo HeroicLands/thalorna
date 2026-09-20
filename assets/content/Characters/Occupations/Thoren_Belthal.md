@@ -9,8 +9,7 @@ name:
   given: Thóren
   clan: Bélthal
   home: cerdwnshlw
-  aliases:
-    - Garvin Tidewalker
+  aliases: []
 packFolder: aureldiaelavendre
 shortcode: thornblthl
 type: being
@@ -565,7 +564,7 @@ Thóren Bélthal is a 49-year-old man who stands 5'11" tall and is broad and sol
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Thóren Bélthal came into the world of the shipwright through a combination of circumstance and aptitude.
 
-Garvin has spent his entire life by the sea, learning the craft of shipbuilding from his father. Over the years, he has built and repaired countless ships for sailors and merchants. Known for his skill and attention to detail, Garvin takes pride in his work but often finds himself at odds with clients who want things done faster and cheaper. Despite his gruff exterior, he has a deep respect for the sea and the ships that sail upon it.
+Thóren has spent his entire life by the sea, learning the craft of shipbuilding from his father. Over the years, he has built and repaired countless ships for sailors and merchants. Known for his skill and attention to detail, Thóren takes pride in his work but often finds himself at odds with clients who want things done faster and cheaper. Despite his gruff exterior, he has a deep respect for the sea and the ships that sail upon it.
 
 Now at 49 years of age, Thóren Bélthal has established himself as a known figure among the shipwrights of Élavendre. His reputation, for better or worse, precedes him in the circles where such things matter.
 

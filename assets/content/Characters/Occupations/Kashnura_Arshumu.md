@@ -9,8 +9,7 @@ name:
   given: Kashnûra
   clan: Arshûmû
   home: qadhirun
-  aliases:
-    - Edda Buckley
+  aliases: []
 packFolder: midhalionharad
 shortcode: kashnrrshm
 type: being
@@ -562,7 +561,7 @@ Kashnûra Arshûmû is a 47-year-old woman who stands 5'6" tall and is of modera
 
 Born in the Harad region to a freeman family of Haradian heritage, Kashnûra Arshûmû came into the world of the chandler through a combination of circumstance and aptitude.
 
-Edda has been making candles for over twenty years in her small village. She learned the craft from her mother and now runs a small shop, supplying candles to the local community and nearby towns. Edda takes pride in her work, using only the best tallow and beeswax, and her candles are known for their quality and long burn times.
+Kashnûra has been making candles for over twenty years in her small village. She learned the craft from her mother and now runs a small shop, supplying candles to the local community and nearby towns. Kashnûra takes pride in her work, using only the best tallow and beeswax, and her candles are known for their quality and long burn times.
 
 Now at 47 years of age, Kashnûra Arshûmû has established herself as a known figure among the chandlers of Harad. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

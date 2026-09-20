@@ -9,8 +9,7 @@ name:
   given: Valáren
   clan: Álvianar
   home: null # was: Eskárath
-  aliases:
-    - Harlan Quick
+  aliases: []
 packFolder: aureldiatarvenia
 shortcode: valarnlvnr
 type: being
@@ -560,7 +559,7 @@ Valáren Álvianar is a 37-year-old man who stands 5'9" tall and is of moderate 
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Valáren Álvianar came into the world of the bureaucrat through a combination of circumstance and aptitude.
 
-Harlan began his career as a clerk and gradually climbed his way up in the city administration. He is known for his ability to find loopholes in regulations and for his ambition. While not particularly well-liked, his resourcefulness has earned him a place in some of the city’s higher circles.
+Valáren began his career as a clerk and gradually climbed his way up in the city administration. He is known for his ability to find loopholes in regulations and for his ambition. While not particularly well-liked, his resourcefulness has earned him a place in some of the city’s higher circles.
 
 Now at 37 years of age, Valáren Álvianar has established himself as a known figure among the bureaucrats of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
@@ -588,7 +587,7 @@ As a Tarvénan bureaucrat, Valáren occupies a recognized social niche within Ta
 
 ### Patrons
 
-Valáren's primary patron is A powerful city councilor who appreciates Harlan's cunning.. This relationship provides both opportunity and obligation.
+Valáren's primary patron is A powerful city councilor who appreciates Valáren's cunning.. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

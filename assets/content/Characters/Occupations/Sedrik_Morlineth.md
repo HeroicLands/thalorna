@@ -9,8 +9,7 @@ name:
   given: Sédrik
   clan: Mórlineth
   home: liranel
-  aliases:
-    - Edric Stonewall
+  aliases: []
 packFolder: aureldiaelavendre
 shortcode: sdrkmrlnth
 type: being
@@ -560,7 +559,7 @@ Sédrik Mórlineth is a 49-year-old man who stands 6'3" tall and is broad and so
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Sédrik Mórlineth came into the world of the jailer through a combination of circumstance and aptitude.
 
-Edric has been a jailer for over twenty years, working in the city’s largest prison. Known for his imposing stature and stern demeanor, he keeps order among the inmates with a firm hand. Despite his tough exterior, Edric believes in fair treatment and tries to help prisoners reform when he can. However, his dedication to his job has made him few friends outside the jail.
+Sédrik has been a jailer for over twenty years, working in the city’s largest prison. Known for his imposing stature and stern demeanor, he keeps order among the inmates with a firm hand. Despite his tough exterior, Sédrik believes in fair treatment and tries to help prisoners reform when he can. However, his dedication to his job has made him few friends outside the jail.
 
 Now at 49 years of age, Sédrik Mórlineth has established himself as a known figure among the jailers of Élavendre. His reputation, for better or worse, precedes him in the circles where such things matter.
 

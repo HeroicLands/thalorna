@@ -9,8 +9,7 @@ name:
   given: Lýraen
   clan: Válskyr
   home: valcerise
-  aliases:
-    - Beatrice Lindley
+  aliases: []
 packFolder: aureldiaprovenzia
 shortcode: lyrnvlskyr
 type: being
@@ -559,7 +558,7 @@ Lýraen Válskyr is a 38-year-old woman who stands 6'0" tall and is of moderate 
 
 Born in the Provènzia region to a freeman family of Provenzian heritage, Lýraen Válskyr came into the world of the domestic servant through a combination of circumstance and aptitude.
 
-Beatrice has worked in service since she was a teenager, starting as a scullery maid and eventually rising to the position of housekeeper for a prominent family. She is organized and meticulous, managing the other servants and ensuring the household runs smoothly. Despite her hard work, she often feels undervalued.
+Lýraen has worked in service since she was a teenager, starting as a scullery maid and eventually rising to the position of housekeeper for a prominent family. She is organized and meticulous, managing the other servants and ensuring the household runs smoothly. Despite her hard work, she often feels undervalued.
 
 Now at 38 years of age, Lýraen Válskyr has established herself as a known figure among the domestic servants of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

@@ -9,8 +9,7 @@ name:
   given: Frítha
   clan: Stormrót
   home: thrymstead
-  aliases:
-    - Lyra Quickpaw
+  aliases: []
 packFolder: ankarisnordlands
 shortcode: frthstrmrt
 type: being
@@ -553,7 +552,7 @@ Frítha Stormrót is a 27-year-old woman who stands 5'11" tall and is of moderat
 
 Born in the Nordheim region to a freeman family of Nordheimn heritage, Frítha Stormrót came into the world of the ratter through a combination of circumstance and aptitude.
 
-Lyra grew up in the city and learned the art of rat catching from her father. She is known for her agility and cunning, often using a combination of traps and her quick reflexes to catch rodents. Lyra takes pride in her work and is dedicated to keeping the streets safe from infestations. She has a strong bond with her trained cat, Whiskers, who assists her in her endeavors.
+Frítha grew up in the city and learned the art of rat catching from her father. She is known for her agility and cunning, often using a combination of traps and her quick reflexes to catch rodents. Frítha takes pride in her work and is dedicated to keeping the streets safe from infestations. She has a strong bond with her trained cat, Whiskers, who assists her in her endeavors.
 
 Now at 27 years of age, Frítha Stormrót has established herself as a known figure among the ratters of Nordheim. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

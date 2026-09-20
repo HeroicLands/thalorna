@@ -9,8 +9,7 @@ name:
   given: Vithár
   clan: Hildvith
   home: waldburg
-  aliases:
-    - Garrick Stoneforge
+  aliases: []
 packFolder: ankarisvrystwald
 shortcode: vthrhldvth
 type: being
@@ -562,7 +561,7 @@ Vithár Hildvith is a 47-year-old man who stands 6'3" tall and is broad and soli
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Vithár Hildvith came into the world of the weaponcrafter (armorer) through a combination of circumstance and aptitude.
 
-Garrick grew up in a small village, where he learned the basics of blacksmithing from his father. He later ventured into weaponcrafting and developed a reputation for crafting sturdy, reliable weapons. Garrick focuses on creating functional weapons with no frills, catering mainly to soldiers and mercenaries. He is practical and down-to-earth but often clashes with weaponcrafters who emphasize aesthetics over durability.
+Vithár grew up in a small village, where he learned the basics of blacksmithing from his father. He later ventured into weaponcrafting and developed a reputation for crafting sturdy, reliable weapons. Vithár focuses on creating functional weapons with no frills, catering mainly to soldiers and mercenaries. He is practical and down-to-earth but often clashes with weaponcrafters who emphasize aesthetics over durability.
 
 Now at 47 years of age, Vithár Hildvith has established himself as a known figure among the weaponcrafter (armorer)s of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 

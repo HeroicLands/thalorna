@@ -9,8 +9,7 @@ name:
   given: Thórdís
   clan: Dróttgar
   home: skarholme
-  aliases:
-    - Liora Ashdown
+  aliases: []
 packFolder: ankarisnordlands
 shortcode: thrdsdrtgr
 type: being
@@ -561,7 +560,7 @@ Thórdís Dróttgar is a 34-year-old woman who stands 5'7" tall and is slender. 
 
 Born in the Nordheim region to a freeman family of Nordheimn heritage, Thórdís Dróttgar came into the world of the apothecary through a combination of circumstance and aptitude.
 
-Liora grew up in a small village where her mother was a healer. She learned the basics of herbal medicine at an early age and later moved to the city to expand her knowledge and practice. She works out of a modest shop, providing simple remedies and salves for common ailments. Liora is passionate about treating the poor and often gives away medicines for free.
+Thórdís grew up in a small village where her mother was a healer. She learned the basics of herbal medicine at an early age and later moved to the city to expand her knowledge and practice. She works out of a modest shop, providing simple remedies and salves for common ailments. Thórdís is passionate about treating the poor and often gives away medicines for free.
 
 Now at 34 years of age, Thórdís Dróttgar has established herself as a known figure among the apothecarys of Nordheim. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

@@ -9,8 +9,7 @@ name:
   given: Maḥmûdrós
   clan: Gharîdís
   home: pelagora2
-  aliases:
-    - Grimwald Thickhide
+  aliases: []
 packFolder: helladhelionis
 shortcode: mmdrsghrds
 type: being
@@ -561,7 +560,7 @@ Maḥmûdrós Gharîdís is a 54-year-old man who stands 6'0" tall and is broad 
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Maḥmûdrós Gharîdís came into the world of the hideworker through a combination of circumstance and aptitude.
 
-Grimwald has been a hideworker for decades, known for his expertise in working with tougher hides from larger animals. He primarily crafts durable leather goods, such as armor and heavy bags. His experience makes him a sought-after craftsman, though his no-nonsense demeanor can be intimidating. Grimwald takes pride in his work and has a wealth of knowledge about different tanning methods.
+Maḥmûdrós has been a hideworker for decades, known for his expertise in working with tougher hides from larger animals. He primarily crafts durable leather goods, such as armor and heavy bags. His experience makes him a sought-after craftsman, though his no-nonsense demeanor can be intimidating. Maḥmûdrós takes pride in his work and has a wealth of knowledge about different tanning methods.
 
 Now at 54 years of age, Maḥmûdrós Gharîdís has established himself as a known figure among the hideworkers of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 

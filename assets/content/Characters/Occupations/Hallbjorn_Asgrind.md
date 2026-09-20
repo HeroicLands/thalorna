@@ -9,8 +9,7 @@ name:
   given: Hallbjörn
   clan: Ásgrind
   home: thrymstead
-  aliases:
-    - Eadric Hawke
+  aliases: []
 packFolder: ankarisnordlands
 shortcode: hlbjrnsgrnd
 type: being
@@ -560,7 +559,7 @@ Hallbjörn Ásgrind is a 34-year-old man who stands 6'1" tall and is of moderate
 
 Born in the Nordheim region to a freeman family of Nordheimn heritage, Hallbjörn Ásgrind came into the world of the huntsman through a combination of circumstance and aptitude.
 
-Eadric serves as the head huntsman for Lord Gwendolyn of Ashenwood Manor. He is responsible for managing the lord's hunting grounds and ensuring that the game population is maintained sustainably. Eadric has a keen eye for tracking and a deep knowledge of the local wildlife. His loyalty to the lord is unwavering, and he is often called upon to lead hunting parties during the lord's feasts.
+Hallbjörn serves as the head huntsman for Lord Gwendolyn of Ashenwood Manor. He is responsible for managing the lord's hunting grounds and ensuring that the game population is maintained sustainably. Hallbjörn has a keen eye for tracking and a deep knowledge of the local wildlife. His loyalty to the lord is unwavering, and he is often called upon to lead hunting parties during the lord's feasts.
 
 Now at 34 years of age, Hallbjörn Ásgrind has established himself as a known figure among the huntsmans of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 

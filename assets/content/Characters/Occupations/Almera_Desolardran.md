@@ -9,8 +9,7 @@ name:
   given: Álmera
   clan: Desolárdran
   home: valthari
-  aliases:
-    - Elira Swiftfoot
+  aliases: []
 packFolder: aureldiatarvenia
 shortcode: almrdslrdrn
 type: being
@@ -554,7 +553,7 @@ sohl:
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Álmera Desolárdran came into the world of the caravan guard through a combination of circumstance and aptitude.
 
-Elira has worked as a caravan guard for several years, known for her agility and keen senses. She specializes in scouting ahead of the caravan to detect any potential dangers. Her quick reflexes and sharp wit make her an invaluable asset on the road. Elira is determined to prove herself in a traditionally male-dominated field and often takes the initiative in training younger guards.
+Álmera has worked as a caravan guard for several years, known for her agility and keen senses. She specializes in scouting ahead of the caravan to detect any potential dangers. Her quick reflexes and sharp wit make her an invaluable asset on the road. Álmera is determined to prove herself in a traditionally male-dominated field and often takes the initiative in training younger guards.
 
 Now at 28 years of age, Álmera Desolárdran has established herself as a known figure among the caravan guards of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

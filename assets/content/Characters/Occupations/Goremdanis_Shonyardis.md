@@ -9,8 +9,7 @@ name:
   given: Goremdânis
   clan: Shônyàrdîs
   home: corvinus
-  aliases:
-    - Eirik Windwhistle
+  aliases: []
 packFolder: midhalionvylaria
 shortcode: grmdnshnyrds
 type: being
@@ -558,7 +557,7 @@ Goremdânis Shônyàrdîs is a 35-year-old man who stands 6'1" tall and is of mo
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Goremdânis Shônyàrdîs came into the world of the musician (lyre) through a combination of circumstance and aptitude.
 
-Eirik was raised in a small village where music was a key part of life. He learned to play the lyre from his father and now travels from town to town, sharing his music. Eirik’s songs are often inspired by nature, and he is known for his ability to evoke vivid imagery through his music. Though he performs mostly for rural audiences, he dreams of becoming a court musician.
+Goremdânis was raised in a small village where music was a key part of life. He learned to play the lyre from his father and now travels from town to town, sharing his music. Goremdânis’s songs are often inspired by nature, and he is known for his ability to evoke vivid imagery through his music. Though he performs mostly for rural audiences, he dreams of becoming a court musician.
 
 Now at 35 years of age, Goremdânis Shônyàrdîs has established himself as a known figure among the musician (lyre)s of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
 

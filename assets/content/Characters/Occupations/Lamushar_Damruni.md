@@ -9,8 +9,7 @@ name:
   given: Lamûshar
   clan: Damrûnî
   home: qadhirun
-  aliases:
-    - Cedric Ashwood
+  aliases: []
 packFolder: midhalionharad
 shortcode: lamshrdmrn
 type: being
@@ -559,7 +558,7 @@ Lamûshar Damrûnî is a 45-year-old man who stands 5'7" tall and is of moderate
 
 Born in the Harad region to a noble family of Haradian heritage, Lamûshar Damrûnî came into the world of the litigant through a combination of circumstance and aptitude.
 
-Cedric has spent decades as a litigator, focusing on commercial law and trade disputes. His extensive experience and sharp legal mind have earned him a prominent position within the Litigant's Guild. Cedric is respected for his analytical approach and ability to navigate complex legal systems. He is known to mentor young litigants and is passionate about upholding the law.
+Lamûshar has spent decades as a litigator, focusing on commercial law and trade disputes. His extensive experience and sharp legal mind have earned him a prominent position within the Litigant's Guild. Lamûshar is respected for his analytical approach and ability to navigate complex legal systems. He is known to mentor young litigants and is passionate about upholding the law.
 
 Now at 45 years of age, Lamûshar Damrûnî has established himself as a known figure among the litigants of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
 

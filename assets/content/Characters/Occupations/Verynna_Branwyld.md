@@ -9,8 +9,7 @@ name:
   given: Vérynna
   clan: Brânwyld
   home: aureliane
-  aliases:
-    - Mira Whisperwind
+  aliases: []
 packFolder: aureldiaprovenzia
 shortcode: vrynbrnwyld
 type: being
@@ -562,7 +561,7 @@ Vérynna Brânwyld is a 34-year-old woman who stands 5'7" tall and is slender. S
 
 Born in the Provènzia region to a freeman family of Provenzian heritage, Vérynna Brânwyld came into the world of the shaman through a combination of circumstance and aptitude.
 
-Mira was chosen at a young age to train as a shaman, believed to possess a strong connection to the spirit world. She has served her tribe for over a decade, performing rituals, divining omens, and healing the sick. Despite her abilities, she often feels the weight of responsibility and struggles to balance her duties with her desire for a more ordinary life.
+Vérynna was chosen at a young age to train as a shaman, believed to possess a strong connection to the spirit world. She has served her tribe for over a decade, performing rituals, divining omens, and healing the sick. Despite her abilities, she often feels the weight of responsibility and struggles to balance her duties with her desire for a more ordinary life.
 
 Now at 34 years of age, Vérynna Brânwyld has established herself as a known figure among the shamans of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

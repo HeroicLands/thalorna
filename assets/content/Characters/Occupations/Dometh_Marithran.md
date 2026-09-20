@@ -10,8 +10,7 @@ name:
   given: Dómeth
   clan: Maríthran
   home: castamere
-  aliases:
-    - Alaric Greenshadow
+  aliases: []
 packFolder: aureldiatarvenia
 shortcode: dmthmrthrn
 type: being
@@ -558,7 +557,7 @@ Dómeth Maríthran is a 36-year-old man who stands 5'9" tall and is of moderate 
 
 Born in the Tarvénia region to a guilded family of Tarvénan heritage, Dómeth Maríthran came into the world of the thespian through a combination of circumstance and aptitude.
 
-Alaric is a seasoned actor known for his dramatic performances in the city's most prestigious theater. He excels at tragic roles, captivating audiences with his deep voice and expressive mannerisms. While he enjoys fame and the company of admirers, he secretly struggles with self-doubt, fearing that he will one day be forgotten.
+Dómeth is a seasoned actor known for his dramatic performances in the city's most prestigious theater. He excels at tragic roles, captivating audiences with his deep voice and expressive mannerisms. While he enjoys fame and the company of admirers, he secretly struggles with self-doubt, fearing that he will one day be forgotten.
 
 Now at 36 years of age, Dómeth Maríthran has established himself as a known figure among the thespians of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
 

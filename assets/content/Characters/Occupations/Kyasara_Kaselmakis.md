@@ -9,8 +9,7 @@ name:
   given: Kyàsârâ
   clan: Kâselmakîs
   home: tyrellan
-  aliases:
-    - Isolde Faire
+  aliases: []
 packFolder: midhalionvylaria
 shortcode: kysrkslmks
 type: being
@@ -554,7 +553,7 @@ Kyàsârâ Kâselmakîs is a 29-year-old woman who stands 5'4" tall and is slend
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Kyàsârâ Kâselmakîs came into the world of the thespian through a combination of circumstance and aptitude.
 
-Isolde began her acting career as a street performer before being discovered by a theater director. She quickly rose to prominence, known for her ability to shift seamlessly between comedic and dramatic roles. Her performances are marked by a raw intensity that draws audiences in, but offstage, she struggles with bouts of loneliness and self-doubt.
+Kyàsârâ began her acting career as a street performer before being discovered by a theater director. She quickly rose to prominence, known for her ability to shift seamlessly between comedic and dramatic roles. Her performances are marked by a raw intensity that draws audiences in, but offstage, she struggles with bouts of loneliness and self-doubt.
 
 Now at 29 years of age, Kyàsârâ Kâselmakîs has established herself as a known figure among the thespians of Vylaria. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

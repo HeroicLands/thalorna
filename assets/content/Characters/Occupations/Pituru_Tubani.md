@@ -9,8 +9,7 @@ name:
   given: Pitûrû
   clan: Tûbanî
   home: azhun2
-  aliases:
-    - Cedric Earthshaker
+  aliases: []
 packFolder: midhalionharad
 shortcode: piturutubn
 type: being
@@ -562,7 +561,7 @@ Pitûrû Tûbanî is a 30-year-old man who stands 5'11" tall and is of moderate 
 
 Born in the Harad region to a freeman family of Haradian heritage, Pitûrû Tûbanî came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
 
-Cedric has always been fascinated by the art of siege warfare and demolition. He trained as a sapper under a seasoned engineer and has become skilled in setting traps and demolishing structures. Cedric is known for his meticulous planning and ability to work under pressure. He is dedicated to his craft and takes pride in ensuring that his work is both effective and safe.
+Pitûrû has always been fascinated by the art of siege warfare and demolition. He trained as a sapper under a seasoned engineer and has become skilled in setting traps and demolishing structures. Pitûrû is known for his meticulous planning and ability to work under pressure. He is dedicated to his craft and takes pride in ensuring that his work is both effective and safe.
 
 Now at 30 years of age, Pitûrû Tûbanî has established himself as a known figure among the man-at-arms (sapper)s of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
 

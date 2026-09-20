@@ -10,8 +10,7 @@ name:
   given: Hróaldr
   clan: Hrafnsvald
   home: thrymstead
-  aliases:
-    - Oswin Brightstone
+  aliases: []
 packFolder: ankarisnordlands
 shortcode: hrldrhrfnsvld
 type: being
@@ -560,7 +559,7 @@ Hróaldr Hrafnsvald is a 48-year-old man who stands 5'10" tall and is broad and 
 
 Born in the Nordheim region to a guilded family of Nordheimn heritage, Hróaldr Hrafnsvald came into the world of the jeweler through a combination of circumstance and aptitude.
 
-Oswin has spent more than two decades in the jewelry trade, honing his skills in crafting both traditional and contemporary pieces. He has a reputation for his expertise in valuing gemstones and negotiating prices. Oswin runs a successful shop that attracts a variety of clients, from nobles to common folk. Despite his success, he enjoys mentoring young apprentices in the craft.
+Hróaldr has spent more than two decades in the jewelry trade, honing his skills in crafting both traditional and contemporary pieces. He has a reputation for his expertise in valuing gemstones and negotiating prices. Hróaldr runs a successful shop that attracts a variety of clients, from nobles to common folk. Despite his success, he enjoys mentoring young apprentices in the craft.
 
 Now at 48 years of age, Hróaldr Hrafnsvald has established himself as a known figure among the jewellers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 

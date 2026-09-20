@@ -9,8 +9,7 @@ name:
   given: Hàrêkôs
   clan: Bàremzâtôr
   home: corvinus
-  aliases:
-    - Elwood Strawbridge
+  aliases: []
 packFolder: midhalionvylaria
 shortcode: hrksbrmztr
 type: being
@@ -561,7 +560,7 @@ Hàrêkôs Bàremzâtôr is a 58-year-old man who stands 5'9" tall and is of mod
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Hàrêkôs Bàremzâtôr came into the world of the thatcher through a combination of circumstance and aptitude.
 
-Elwood has been a thatcher since he was a boy, working alongside his father and grandfather. Known for his storytelling as much as his thatching, he has become something of a local legend. He takes pride in his traditional techniques and often works with his grandchildren, passing on the craft. Though his age slows him down, his knowledge and experience make him a master of his trade.
+Hàrêkôs has been a thatcher since he was a boy, working alongside his father and grandfather. Known for his storytelling as much as his thatching, he has become something of a local legend. He takes pride in his traditional techniques and often works with his grandchildren, passing on the craft. Though his age slows him down, his knowledge and experience make him a master of his trade.
 
 Now at 58 years of age, Hàrêkôs Bàremzâtôr has established himself as a known figure among the thatchers of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
 

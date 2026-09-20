@@ -9,8 +9,7 @@ name:
   given: Hródar
   clan: Skáldrith
   home: waldburg
-  aliases:
-    - Garrick Ironhand
+  aliases: []
 packFolder: ankarisvrystwald
 shortcode: hrdrskldrth
 type: being
@@ -559,7 +558,7 @@ Hródar Skáldrith is a 45-year-old man who stands 6'4" tall and is broad and so
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Hródar Skáldrith came into the world of the mercenary through a combination of circumstance and aptitude.
 
-Garrick is a veteran mercenary with extensive experience in various conflicts. He has fought for both noble houses and common folk, depending on the contracts he takes. Known for his combat skills and experience, he often serves as a mentor to younger mercenaries. Garrick believes in honor and loyalty, often refusing contracts that involve unnecessary violence.
+Hródar is a veteran mercenary with extensive experience in various conflicts. He has fought for both noble houses and common folk, depending on the contracts he takes. Known for his combat skills and experience, he often serves as a mentor to younger mercenaries. Hródar believes in honor and loyalty, often refusing contracts that involve unnecessary violence.
 
 Now at 45 years of age, Hródar Skáldrith has established himself as a known figure among the mercenarys of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 

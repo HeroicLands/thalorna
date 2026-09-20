@@ -9,8 +9,7 @@ name:
   given: Pyrânês
   clan: Zêralmâkor
   home: valdosta
-  aliases:
-    - Tancred Wayland
+  aliases: []
 packFolder: midhalionvylaria
 shortcode: pyrnszrlmkr
 type: being
@@ -559,7 +558,7 @@ Pyrânês Zêralmâkor is a 39-year-old man who stands 5'9" tall and is of moder
 
 Born in the Vylaría region to a noble family of Vylarian heritage, Pyrânês Zêralmâkor came into the world of the cartographer/artist through a combination of circumstance and aptitude.
 
-Tancred hails from a wealthy family and pursued cartography out of a love for exploration. His maps are highly detailed and often feature embellishments that make them popular among collectors. However, his adventurous spirit sometimes gets him into dangerous situations, as he insists on personally surveying remote and uncharted areas.
+Pyrânês hails from a wealthy family and pursued cartography out of a love for exploration. His maps are highly detailed and often feature embellishments that make them popular among collectors. However, his adventurous spirit sometimes gets him into dangerous situations, as he insists on personally surveying remote and uncharted areas.
 
 Now at 39 years of age, Pyrânês Zêralmâkor has established himself as a known figure among the cartographer/artists of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
 

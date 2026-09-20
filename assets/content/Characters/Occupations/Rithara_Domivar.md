@@ -9,8 +9,7 @@ name:
   given: Ríthara
   clan: Dómivar
   home: torreviga
-  aliases:
-    - Lira Shellwhisper
+  aliases: []
 packFolder: aureldiatarvenia
 shortcode: rithardmvr
 type: being
@@ -556,7 +555,7 @@ Ríthara Dómivar is a 22-year-old woman who stands 5'8" tall and is of moderate
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Ríthara Dómivar came into the world of the common seaman through a combination of circumstance and aptitude.
 
-Lira is a young and spirited seaman who dreams of adventure on the open sea. She has a knack for navigation and often helps the crew chart their course. Lira is eager to learn and often asks questions to improve her skills. Her enthusiasm and positive attitude make her a beloved member of the crew. She hopes to one day become a captain and explore the world.
+Ríthara is a young and spirited seaman who dreams of adventure on the open sea. She has a knack for navigation and often helps the crew chart their course. Ríthara is eager to learn and often asks questions to improve her skills. Her enthusiasm and positive attitude make her a beloved member of the crew. She hopes to one day become a captain and explore the world.
 
 Now at 22 years of age, Ríthara Dómivar has established herself as a known figure among the common seamans of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

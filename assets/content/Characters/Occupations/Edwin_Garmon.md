@@ -9,8 +9,7 @@ name:
   given: Edwin
   clan: Garmon
   home: kingsholow
-  aliases:
-    - Eirik Ironfist
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: edwingarmn
 type: being
@@ -558,7 +557,7 @@ Edwin Garmon is a 28-year-old man who stands 6'2" tall and is of moderate build.
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Edwin Garmon came into the world of the huscarl through a combination of circumstance and aptitude.
 
-Eirik is a promising young huscarl serving Lord Ragnar. He trained for years under the watchful eye of seasoned warriors and has a reputation for his quick reflexes and fierce loyalty. Eirik dreams of one day leading his own band of warriors but knows he must first prove himself in battle. He is eager to face challenges head-on and earn glory for his lord.
+Edwin is a promising young huscarl serving Lord Ragnar. He trained for years under the watchful eye of seasoned warriors and has a reputation for his quick reflexes and fierce loyalty. Edwin dreams of one day leading his own band of warriors but knows he must first prove himself in battle. He is eager to face challenges head-on and earn glory for his lord.
 
 Now at 28 years of age, Edwin Garmon has established himself as a known figure among the huscarls of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 

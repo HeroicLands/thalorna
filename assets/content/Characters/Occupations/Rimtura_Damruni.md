@@ -9,8 +9,7 @@ name:
   given: Rimtûra
   clan: Damrûnî
   home: azhun2
-  aliases:
-    - Isolde Fairbloom
+  aliases: []
 packFolder: midhalionharad
 shortcode: rimturdmrn
 type: being
@@ -559,7 +558,7 @@ Rimtûra Damrûnî is a 32-year-old woman who stands 5'8" tall and is slender. S
 
 Born in the Harad region to a noble family of Haradian heritage, Rimtûra Damrûnî came into the world of the litigant through a combination of circumstance and aptitude.
 
-Isolde is a skilled litigator specializing in family law and inheritance disputes. As a respected member of the Litigant's Guild, she is known for her compassion and dedication to her clients. Isolde has a keen understanding of emotional and legal complexities, allowing her to navigate difficult cases with empathy. She is passionate about ensuring that justice is served and works tirelessly for her clients.
+Rimtûra is a skilled litigator specializing in family law and inheritance disputes. As a respected member of the Litigant's Guild, she is known for her compassion and dedication to her clients. Rimtûra has a keen understanding of emotional and legal complexities, allowing her to navigate difficult cases with empathy. She is passionate about ensuring that justice is served and works tirelessly for her clients.
 
 Now at 32 years of age, Rimtûra Damrûnî has established herself as a known figure among the litigants of Harad. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

@@ -9,8 +9,7 @@ name:
   given: Kenelm
   clan: Adwell
   home: brynhallow
-  aliases:
-    - Garrik Ironshield
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: kenelmadwl
 type: being
@@ -557,7 +556,7 @@ Kenelm Adwell is a 40-year-old man who stands 6'2" tall and is broad and solidly
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Kenelm Adwell came into the world of the caravan guard through a combination of circumstance and aptitude.
 
-Garrik is a seasoned caravan guard with decades of experience. He has seen many dangers on the road and has learned to anticipate threats. His strong leadership skills make him an excellent choice for overseeing caravan security. Garrik believes in camaraderie and often shares stories and strategies with younger guards to help them grow in their roles.
+Kenelm is a seasoned caravan guard with decades of experience. He has seen many dangers on the road and has learned to anticipate threats. His strong leadership skills make him an excellent choice for overseeing caravan security. Kenelm believes in camaraderie and often shares stories and strategies with younger guards to help them grow in their roles.
 
 Now at 40 years of age, Kenelm Adwell has established himself as a known figure among the caravan guards of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 

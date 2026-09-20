@@ -9,8 +9,7 @@ name:
   given: Hrefna
   clan: Íseldr
   home: ravensholm
-  aliases:
-    - Maera Fernwood
+  aliases: []
 packFolder: ankarisnordlands
 shortcode: hrefnasldr
 type: being
@@ -561,7 +560,7 @@ Hrefna Íseldr is a 34-year-old woman who stands 5'10" tall and is of moderate b
 
 Born in the Nordheim region to a freeman family of Nordheimn heritage, Hrefna Íseldr came into the world of the woodcutter through a combination of circumstance and aptitude.
 
-Maera grew up in a family of woodcutters and took to the trade naturally. She is known for her efficiency and ability to navigate dense forests to find the best trees for cutting. Maera works alongside her brothers, who have come to respect her skills and knowledge of the craft. Despite the physical demands of the job, she enjoys the work and finds a sense of freedom in the forest.
+Hrefna grew up in a family of woodcutters and took to the trade naturally. She is known for her efficiency and ability to navigate dense forests to find the best trees for cutting. Hrefna works alongside her brothers, who have come to respect her skills and knowledge of the craft. Despite the physical demands of the job, she enjoys the work and finds a sense of freedom in the forest.
 
 Now at 34 years of age, Hrefna Íseldr has established herself as a known figure among the woodcutters of Nordheim. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

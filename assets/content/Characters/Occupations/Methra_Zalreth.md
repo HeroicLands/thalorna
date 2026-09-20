@@ -9,8 +9,7 @@ name:
   given: Méthra
   clan: Zálreth
   home: liranel
-  aliases:
-    - Mira Clayfoot
+  aliases: []
 packFolder: aureldiaelavendre
 shortcode: methrzlrth
 type: being
@@ -558,7 +557,7 @@ Méthra Zálreth is a 26-year-old woman who stands 5'11" tall and is slender. Sh
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Méthra Zálreth came into the world of the laborer (unskilled) through a combination of circumstance and aptitude.
 
-Mira is a hardworking young woman who assists in various labor jobs around her village. She enjoys working with her hands and has developed skills in farming and crafting. Despite her lighter frame, she is determined and has a strong work ethic. Mira is known for her friendly disposition and ability to uplift those around her, making her popular among her peers.
+Méthra is a hardworking young woman who assists in various labor jobs around her village. She enjoys working with her hands and has developed skills in farming and crafting. Despite her lighter frame, she is determined and has a strong work ethic. Méthra is known for her friendly disposition and ability to uplift those around her, making her popular among her peers.
 
 Now at 26 years of age, Méthra Zálreth has established herself as a known figure among the laborer (unskilled)s of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

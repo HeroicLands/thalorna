@@ -9,8 +9,7 @@ name:
   given: Avice
   clan: Winwick
   home: thornbury
-  aliases:
-    - Selene Wavecaller
+  aliases: []
 packFolder: aureldiaaelwyth
 shortcode: avicewnwck
 type: being
@@ -557,7 +556,7 @@ Avice Winwick is a 30-year-old woman who stands 5'10" tall and is slender. She h
 
 Born in the Aelwyth region to a noble family of Aelwythan heritage, Avice Winwick came into the world of the mercantyler (supercargo) through a combination of circumstance and aptitude.
 
-Selene has a background in maritime trade and has spent years as a supercargo for a major trading company. She is adept at managing cargo and ensuring that all transactions are conducted smoothly. Selene is known for her keen business acumen and her ability to adapt to changing market conditions. Her reputation for honesty and reliability has earned her respect among clients and colleagues alike.
+Avice has a background in maritime trade and has spent years as a supercargo for a major trading company. She is adept at managing cargo and ensuring that all transactions are conducted smoothly. Avice is known for her keen business acumen and her ability to adapt to changing market conditions. Her reputation for honesty and reliability has earned her respect among clients and colleagues alike.
 
 Now at 30 years of age, Avice Winwick has established herself as a known figure among the mercantyler (supercargo)s of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

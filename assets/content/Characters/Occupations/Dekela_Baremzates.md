@@ -9,8 +9,7 @@ name:
   given: Dékêla
   clan: Bàremzâtês
   home: aelissium
-  aliases:
-    - Elara Clayforge
+  aliases: []
 packFolder: midhalionvylaria
 shortcode: deklbrmzts
 type: being
@@ -557,7 +556,7 @@ Dékêla Bàremzâtês is a 32-year-old woman who stands 5'11" tall and is of mo
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Dékêla Bàremzâtês came into the world of the potter through a combination of circumstance and aptitude.
 
-Elara has been a potter since she was a child, learning the craft from her parents who owned a small pottery shop. Known for her unique designs and attention to detail, she specializes in creating functional pottery with intricate patterns. Elara takes pride in her work and often participates in local markets and fairs to showcase her creations. She enjoys experimenting with different glazes and techniques to develop her style.
+Dékêla has been a potter since she was a child, learning the craft from her parents who owned a small pottery shop. Known for her unique designs and attention to detail, she specializes in creating functional pottery with intricate patterns. Dékêla takes pride in her work and often participates in local markets and fairs to showcase her creations. She enjoys experimenting with different glazes and techniques to develop her style.
 
 Now at 32 years of age, Dékêla Bàremzâtês has established herself as a known figure among the potters of Vylaria. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

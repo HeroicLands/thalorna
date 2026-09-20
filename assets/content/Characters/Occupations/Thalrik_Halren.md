@@ -9,8 +9,7 @@ name:
   given: Thálrik
   clan: Hálren
   home: portaelion
-  aliases:
-    - Garrick Ironwood
+  aliases: []
 packFolder: aureldiaelavendre
 shortcode: thalrkhlrn
 type: being
@@ -558,7 +557,7 @@ Thálrik Hálren is a 46-year-old man who stands 6'5" tall and is broad and soli
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Thálrik Hálren came into the world of the woodcutter through a combination of circumstance and aptitude.
 
-Garrick has spent his entire life working in the forests, cutting down trees and processing lumber for local carpenters and builders. He is known for his strength and endurance, which allow him to handle the most difficult tasks with ease. Garrick prefers the solitude of the woods and values the peace it provides, though the isolation has made him a bit gruff. He is highly skilled at identifying which trees to fell to maintain the forest's health.
+Thálrik has spent his entire life working in the forests, cutting down trees and processing lumber for local carpenters and builders. He is known for his strength and endurance, which allow him to handle the most difficult tasks with ease. Thálrik prefers the solitude of the woods and values the peace it provides, though the isolation has made him a bit gruff. He is highly skilled at identifying which trees to fell to maintain the forest's health.
 
 Now at 46 years of age, Thálrik Hálren has established himself as a known figure among the woodcutters of Élavendre. His reputation, for better or worse, precedes him in the circles where such things matter.
 

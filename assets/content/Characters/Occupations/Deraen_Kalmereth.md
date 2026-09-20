@@ -9,8 +9,7 @@ name:
   given: Déraen
   clan: Kálmereth
   home: silvain
-  aliases:
-    - Elowen Saltbloom
+  aliases: []
 packFolder: aureldiaelavendre
 shortcode: dernklmrth
 type: being
@@ -557,7 +556,7 @@ Déraen Kálmereth is a 29-year-old woman who stands 5'9" tall and is of moderat
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Déraen Kálmereth came into the world of the salter through a combination of circumstance and aptitude.
 
-Elowen is a dedicated salter who works alongside her father in their family-run saltworks. She focuses on the delicate process of harvesting and packaging the salt for sale. Elowen has a keen eye for quality and often interacts with customers at local markets. She takes pride in her family's tradition of salt production and is passionate about promoting the benefits of salt in cooking and preservation.
+Déraen is a dedicated salter who works alongside her father in their family-run saltworks. She focuses on the delicate process of harvesting and packaging the salt for sale. Déraen has a keen eye for quality and often interacts with customers at local markets. She takes pride in her family's tradition of salt production and is passionate about promoting the benefits of salt in cooking and preservation.
 
 Now at 29 years of age, Déraen Kálmereth has established herself as a known figure among the salters of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

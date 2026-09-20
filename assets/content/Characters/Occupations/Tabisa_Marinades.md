@@ -9,8 +9,7 @@ name:
   given: Tàbîsa
   clan: Mârinadês
   home: kalydria2
-  aliases:
-    - Sigrid Stonemantle
+  aliases: []
 packFolder: helladhelionis
 shortcode: tabismrnds
 type: being
@@ -557,7 +556,7 @@ Tàbîsa Mârinadês is a 38-year-old woman who stands 5'9" tall and is of moder
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Tàbîsa Mârinadês came into the world of the huscarl through a combination of circumstance and aptitude.
 
-Sigrid is a skilled huscarl who has fought alongside her comrades for years. Serving Lady Freydis, she is known for her bravery and determination in battle. Sigrid often leads scouting missions to ensure the safety of her lord's territory. While she is respected among her peers, she often faces challenges as a female warrior in a male-dominated field.
+Tàbîsa is a skilled huscarl who has fought alongside her comrades for years. Serving Lady Freydis, she is known for her bravery and determination in battle. Tàbîsa often leads scouting missions to ensure the safety of her lord's territory. While she is respected among her peers, she often faces challenges as a female warrior in a male-dominated field.
 
 Now at 38 years of age, Tàbîsa Mârinadês has established herself as a known figure among the huscarls of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

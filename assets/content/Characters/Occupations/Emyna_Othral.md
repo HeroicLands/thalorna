@@ -9,8 +9,7 @@ name:
   given: Émyna
   clan: Óthral
   home: valdun
-  aliases:
-    - Seraphina Duval
+  aliases: []
 packFolder: aureldiaelavendre
 shortcode: emynaothrl
 type: being
@@ -558,7 +557,7 @@ sohl:
 
 Born in the Élavendre region to a noble family of Élavendri heritage, Émyna Óthral came into the world of the courtesan through a combination of circumstance and aptitude.
 
-Seraphina is the daughter of a minor noble, but scandal forced her to leave her family and seek a living on her own terms. She became a courtesan, known for her grace and intellect, often entertaining clients who appreciate her conversation as much as her beauty. Seraphina maintains connections with high society, though she is cautious not to overstep boundaries that could reignite the scandal.
+Émyna is the daughter of a minor noble, but scandal forced her to leave her family and seek a living on her own terms. She became a courtesan, known for her grace and intellect, often entertaining clients who appreciate her conversation as much as her beauty. Émyna maintains connections with high society, though she is cautious not to overstep boundaries that could reignite the scandal.
 
 Now at 36 years of age, Émyna Óthral has established herself as a known figure among the courtesans of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

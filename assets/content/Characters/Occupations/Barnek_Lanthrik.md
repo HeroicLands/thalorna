@@ -10,8 +10,7 @@ name:
   given: Bárnek
   clan: Lánthrik
   home: fiordaure
-  aliases:
-    - Alaric Fairwind
+  aliases: []
 packFolder: aureldiaprovenzia
 shortcode: brnklnthrk
 type: being
@@ -558,7 +557,7 @@ Bárnek Lánthrik is a 40-year-old man who stands 5'11" tall and is of moderate 
 
 Born in the Provènzia region to a guilded family of Provenzian heritage, Bárnek Lánthrik came into the world of the bard through a combination of circumstance and aptitude.
 
-Alaric has been a bard for over twenty years, gaining a reputation for his adventurous spirit and compelling stories. He travels widely, seeking new tales and experiences to share in his performances. Alaric often acts as a mediator or diplomat, using his skills in persuasion to resolve disputes. Though respected, he sometimes exaggerates his stories for effect.
+Bárnek has been a bard for over twenty years, gaining a reputation for his adventurous spirit and compelling stories. He travels widely, seeking new tales and experiences to share in his performances. Bárnek often acts as a mediator or diplomat, using his skills in persuasion to resolve disputes. Though respected, he sometimes exaggerates his stories for effect.
 
 Now at 40 years of age, Bárnek Lánthrik has established himself as a known figure among the bards of Provènzia. His reputation, for better or worse, precedes him in the circles where such things matter.
 

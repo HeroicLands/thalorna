@@ -9,8 +9,7 @@ name:
   given: Vôrnan
   clan: Tólgen
   home: valcerise
-  aliases:
-    - Cedric Ironquill
+  aliases: []
 packFolder: aureldiaprovenzia
 shortcode: vornantlgn
 type: being
@@ -559,7 +558,7 @@ Vôrnan Tólgen is a 50-year-old man who stands 5'8" tall and is broad and solid
 
 Born in the Provènzia region to a freeman family of Provenzian heritage, Vôrnan Tólgen came into the world of the scholar through a combination of circumstance and aptitude.
 
-Cedric is a self-taught scholar who has dedicated his life to studying philosophy and ethics. Although he comes from a humble background, his passion for learning has driven him to gather a wealth of knowledge from various sources. He often shares his insights with anyone willing to listen, conducting informal lectures in local taverns and community centers. Cedric is known for his thought-provoking discussions and encourages critical thinking among his listeners.
+Vôrnan is a self-taught scholar who has dedicated his life to studying philosophy and ethics. Although he comes from a humble background, his passion for learning has driven him to gather a wealth of knowledge from various sources. He often shares his insights with anyone willing to listen, conducting informal lectures in local taverns and community centers. Vôrnan is known for his thought-provoking discussions and encourages critical thinking among his listeners.
 
 Now at 50 years of age, Vôrnan Tólgen has established himself as a known figure among the scholars of Provènzia. His reputation, for better or worse, precedes him in the circles where such things matter.
 

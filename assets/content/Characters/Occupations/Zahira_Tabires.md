@@ -9,8 +9,7 @@ name:
   given: Zahîra
   clan: Tâbîrês
   home: thyrenae2
-  aliases:
-    - Elira Weaver
+  aliases: []
 packFolder: helladhelionis
 shortcode: zahiratbrs
 type: being
@@ -558,7 +557,7 @@ Zahîra Tâbîrês is a 32-year-old woman who stands 5'7" tall and is slender. S
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Zahîra Tâbîrês came into the world of the tentmaker through a combination of circumstance and aptitude.
 
-Elira learned the craft of tentmaking from her father, who ran a small shop in a rural town. After his passing, she took over the business and continued supplying tents to local farmers, merchants, and travelers. Elira is known for her intricate stitching and the decorative designs she incorporates into her work. Although her products are beautiful, some customers question their durability.
+Zahîra learned the craft of tentmaking from her father, who ran a small shop in a rural town. After his passing, she took over the business and continued supplying tents to local farmers, merchants, and travelers. Zahîra is known for her intricate stitching and the decorative designs she incorporates into her work. Although her products are beautiful, some customers question their durability.
 
 Now at 32 years of age, Zahîra Tâbîrês has established herself as a known figure among the tentmakers of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

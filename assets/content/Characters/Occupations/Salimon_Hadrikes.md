@@ -9,8 +9,7 @@ name:
   given: Sâlimón
   clan: Hâdrîkês
   home: theradon2
-  aliases:
-    - Dr. Alistair Reed
+  aliases: []
 packFolder: helladhelionis
 shortcode: salmnhdrks
 type: being
@@ -558,7 +557,7 @@ Sâlimón Hâdrîkês is a 45-year-old man who stands 5'7" tall and is of modera
 
 Born in the Heliónis region to a noble family of Helionite heritage, Sâlimón Hâdrîkês came into the world of the scholar through a combination of circumstance and aptitude.
 
-Dr. Alistair is a renowned scholar specializing in ancient history and mythology. He has spent decades researching forgotten texts and artifacts, often traveling to distant lands to gather information for his studies. Alistair is known for his lectures at prestigious academies, where he shares his extensive knowledge with eager students. Despite his accomplishments, he remains humble and is passionate about preserving the past for future generations.
+Dr. Sâlimón is a renowned scholar specializing in ancient history and mythology. He has spent decades researching forgotten texts and artifacts, often traveling to distant lands to gather information for his studies. Sâlimón is known for his lectures at prestigious academies, where he shares his extensive knowledge with eager students. Despite his accomplishments, he remains humble and is passionate about preserving the past for future generations.
 
 Now at 45 years of age, Sâlimón Hâdrîkês has established himself as a known figure among the scholars of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 

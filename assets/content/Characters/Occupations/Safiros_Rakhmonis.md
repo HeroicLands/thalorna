@@ -9,8 +9,7 @@ name:
   given: Sàfîros
   clan: Râkhmônis
   home: kalydria2
-  aliases:
-    - Berwin Greenfield
+  aliases: []
 packFolder: helladhelionis
 shortcode: sfrsrkhmns
 type: being
@@ -559,7 +558,7 @@ Sàfîros Râkhmônis is a 42-year-old man who stands 6'3" tall and is broad and
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Sàfîros Râkhmônis came into the world of the yeoman infantry through a combination of circumstance and aptitude.
 
-Berwin is a seasoned veteran who has fought in numerous skirmishes and battles. He is tough and resilient, respected for his leadership on the battlefield. Berwin often trains younger yeomen in the arts of melee combat and defense. Despite his gruff demeanor, he cares deeply for those who fight beside him.
+Sàfîros is a seasoned veteran who has fought in numerous skirmishes and battles. He is tough and resilient, respected for his leadership on the battlefield. Sàfîros often trains younger yeomen in the arts of melee combat and defense. Despite his gruff demeanor, he cares deeply for those who fight beside him.
 
 Now at 42 years of age, Sàfîros Râkhmônis has established himself as a known figure among the yeoman infantrys of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 
