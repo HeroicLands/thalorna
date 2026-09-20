@@ -90,6 +90,8 @@ site:
     # name and the path inside that package's `assets/`. The generated Hugo
     # `params.cdnBaseURL` reads this value.
     assets: https://cdn.heroiclands.org
+    # Site's <meta name="description">
+    description: The World of Thalorna — realms, peoples, faiths, creatures, and the lore behind them.
     # `packages:` is absent, and absent means `[contentPackage]`. `package:`
     # is retired, so every note in this tree is `thalorna` by construction and
     # naming a second package would select nothing.
@@ -186,6 +188,8 @@ packageBuild:
 
     manifest:
         title: Thalorna Setting
+        # Foundry package browser description
+        descriptionHtml: Items, Actors, Journals, Scenes, and other assets to enable play in the Thalorna setting for Song of Heroic Lands
         authors:
             - name: Toasty
               discord: toasty#8538
