@@ -628,72 +628,70 @@ sohl:
 
 ![[smrnklkyrs|Samarína Kalokyrês]]{float: top-left}
 
-Samarína stands 5'10" tall with a light build. She has light olive skin, very dark brown hair, and green eyes. Her features include an oval face, a prominent nose, a narrow chin, well-defined lips, very dark brows, hollow cheeks.
+Tall for a highland woman at 5'10" and light with it, she has the light olive skin and very dark brown hair of the Byzarian hill families and green eyes that are the first thing anyone remembers. The face is oval and hollow-cheeked, the nose prominent, the chin narrow, the lips well defined under very dark brows.
 
 # Dossier {#dossier}
 
-**Pastoral Heritage:** Samarína was born the youngest daughter of a respected herding family in the Byzarian highlands, where sheep and goat herding is the primary economic activity and cultural foundation. From childhood, she was immersed in the rhythms of pastoral life—learning to read weather patterns, to identify individual animals from subtle distinctions, and to understand the complex social hierarchies within flocks. Her family taught her that herding is not merely an economic activity but a sacred trust, a covenant with the animals under one's care.
+The year Samarína turned sixteen she took a herd of her own onto the hills, as the youngest daughter of a herding family is entitled to do, and the year nearly ruined her. The drought came first, then the wolves, then a wool market that fell just when she needed it to hold. She did not go home. It took her three years to rebuild, and she did it the slow way: breeding for the fleece rather than the flock count, resting pasture her neighbours would have grazed bare, and selling a finer wool that fetched more at Byzarian markets than the coarse stuff the highlands usually send down. What she learned in those three years is what everyone in the southern commune now holds against her. She will not overextend. She will not gamble on a good season.
 
-**Early Challenges and Growth:** At sixteen, Samarína attempted to establish her own herd independently, a common practice among young herders. However, an unusual drought year combined with predator losses and a market fluctuation threatened the survival of both her animals and her livelihood. Rather than give up, she spent three years rebuilding through careful selective breeding, innovative grazing techniques, and the development of premium wool products that commanded higher market prices. This early hardship taught her resilience while also revealing her caution—she learned to make conservative decisions, to prioritize security over expansion.
-
-**Current Standing:** Now at thirty-two, Samarína has established a modest but respected herding operation in the Byzarian League's southern territories. She produces wool of exceptional quality, raises lambs for both meat and breeding stock, and has earned a reputation for ethical animal husbandry and fair dealing. However, as her neighbors have grown increasingly wealthy through more aggressive expansion and exploitation of marginal lands, Samarína's caution has begun to feel like a liability. Younger herders question her conservative approach, and she finds herself increasingly isolated as the herding culture shifts toward more competitive, less communal practices.
+At thirty-two she runs a modest holding in the Byzarian League's southern territories and produces the best wool in it, with lambs sold for meat and for breeding stock and a name for honest dealing and for animals that are handled rather than driven. Her neighbours have grown richer than she has. They did it by pushing onto marginal land and grazing it hard, and the younger herders have begun to say openly that her way is an old woman's way. She is more alone on the hills each year, and she knows it, and she has not changed anything.
 
 ## Psyche
 
 ### Personality
 
-Samarína is fundamentally quiet and introspective, someone who has spent more time in conversation with animals than with people. She is not antisocial but rather selective, preferring deep interactions with fewer people to shallow relations with many. With those she trusts, she is warm and genuinely interested, capable of surprising moments of humor and insight. With strangers, she is polite but reserved, cautious in her speech and careful not to commit herself beyond what she can fulfill.
+Quiet, and more used to animals than to people. She is not unfriendly; she is selective, and would rather know four people well than forty slightly. With those four she is warm, funny in an unexpected way, and quick to notice what is wrong before it is said. With strangers she is polite and careful, and she will not promise what she is not sure she can deliver.
 
-Her caution is not cowardice but rather a learned response—she has experienced failure, loss, and betrayal, and has chosen to protect herself by moving deliberately and conservatively. This can read as lack of ambition or initiative, but it is actually deep wisdom about the dangers of overextension. Her empathy, particularly toward animals, is profound and occasionally manifests as melancholy as she witnesses the inevitable suffering inherent in pastoral life—birth and death, health and disease, attachment and loss.
+The caution is learned, not born. She has lost a herd, been let down by a buyer, and been cheated once, and she moves slowly now on purpose. People read it as a want of ambition. It is closer to an exact knowledge of how far a thing can be stretched before it breaks. She feels for animals more than is comfortable, and the ordinary run of pastoral life — lambing and slaughter, a good ewe lost to the scour — leaves a melancholy on her that takes a day or two to lift.
 
 ### Motivation
 
-Samarína is driven by multiple, sometimes conflicting motivations. Her primary drive is to maintain and improve her herd while staying true to ethical practices of care that have been passed down through her family. Beyond this, she increasingly wrestles with a desire to understand the changing world around her—the pressures that are driving her community toward more aggressive practices, the possibility that her traditional ways are becoming obsolete, and whether she should adapt or hold firm to her values. She also harbors a growing curiosity about the larger world beyond her pastoral territories, wondering what other paths might be available to her while simultaneously fearing such exploration as betrayal of her heritage.
+To keep the herd, and to keep it the way her family taught her to keep it. Under that, a growing unease about what is happening to the commune around her: the harder grazing, the drift from shared pasture to private advantage, the possibility that her way is simply over. She has begun to wonder what else there is beyond the hills, and to feel disloyal for wondering.
 
 ### Strengths
 
-- **Master Herder:** Her animal craft skill (14 base, 5 focuses) combined with her exceptional empathy (16) allows her to manage, calm, and understand her flock with remarkable precision and gentleness, and to achieve results through consent rather than coercion.
-- **Exceptional Horsemanship:** Her riding skill (16 base, 3 focuses) extends to managing all manner of livestock and allows her to cover large distances efficiently while tending her herd or escorting dangerous clients.
-- **Wilderness Survival:** Her survival skill (12 base, 5 focuses) and tracking ability (14 base, 5 focuses) make her exceptionally capable in natural environments; she can subsist in harsh conditions, navigate by subtle environmental signs, and locate lost animals.
-- **Physical Prowess:** Her high agility (15), strong climbing ability (15), acrobatics, and jumping (both 14) make her capable in difficult terrain; her archery (15) and melee (14) abilities provide adequate combat capability if needed.
-- **Practical Herbalism:** Her knowledge of herbal remedies, perfumery (15 base, 2 focuses), and physician skill (14) allow her to treat animal (and human) injuries and illnesses using natural materials available in the environment.
-- **Intuitive Intelligence:** While her reasoning is modest (13), her perception (16) and awareness (14) give her nearly supernatural ability to notice subtle environmental changes and recognize threats before they become obvious.
+- **Master Herder:** She reads a flock the way other people read faces. Animals settle for her that fight everyone else, and she gets what she needs from them without the stick.
+- **Horsemanship:** A very good rider, and the same hands work on any livestock. She covers ground fast and has escorted clients through country most herders will not enter.
+- **Wilderness Survival:** She can live off the hills in any season, find her way by the ground rather than the sky, and track a strayed animal for days.
+- **Physical Prowess:** Agile, a strong climber, quick over broken ground. Competent with a bow and adequate with a blade, and she has needed both against wolves and once against men.
+- **Practical Herbalism:** She treats her own animals' hurts and sicknesses with what grows around her, and has treated people the same way when there was no one else.
+- **Intuitive Intelligence:** Not a fast reasoner, but her eyes and ears are very good. She notices a change in the weather, the grass or a dog's behaviour long before it becomes a problem.
 
 ### Weaknesses
 
-- **Inexperience with Authority:** Her low eloquence (10) and modest discourse (12) make her ineffective at negotiating with government officials, landowners, or powerful figures. She struggles to advocate for herself in formal settings.
-- **Caution as Limitation:** Her tendency to play it safe and make conservative choices means she frequently misses opportunities for growth, wealth, or influence that would require risk-taking.
-- **Land Dispute Vulnerability:** Her limited reasoning (13) and low command (11) mean she is poor at dealing with complex legal matters, territorial disputes, or formal conflicts over land rights and resource use.
-- **Combat Limitation:** While competent, she is not a warrior and would struggle in sustained direct combat with trained fighters. Her melee (14) and archery (15) are adequate for survival but not dominance.
-- **Limited Magical Knowledge:** Her low spirit (12) and lack of mystical training mean she cannot work with magical elements or understand supernatural phenomena, making her vulnerable to magical threats.
-- **Social Isolation Risk:** Her tendency to isolate and her reluctance to ask for help can leave her vulnerable if facing situations requiring allies or political support.
+- **Inexperience with Authority:** She speaks plainly and briefly, and it fails her in front of magistrates, landowners and anyone who expects to be flattered. She cannot argue her own case in a formal setting.
+- **Caution as Limitation:** She has passed up land, money and influence rather than take a risk, and will again.
+- **Land Dispute Vulnerability:** Boundaries, grazing rights, written claims — she is out of her depth in any quarrel that turns on law rather than sense, and cannot command a room.
+- **Combat Limitation:** Enough to survive, not enough to win a sustained fight against trained men.
+- **Limited Magical Knowledge:** No training and little instinct for anything uncanny. A curse on the flock would look to her like a disease until it was too late.
+- **Social Isolation Risk:** She does not ask for help, and there are fewer people each year she could ask.
 
 ## Social
 
 ### Patrons
 
-- **Elder Vasilis Komnenos:** The respected elder of her herding commune and unofficial keeper of pastoral traditions, Vasilis has mentored Samarína throughout her life and provides guidance on both practical and cultural matters, though he sometimes expresses concern about her caution.
-- **The Wool Merchant Dimitri Kalvestris:** A fair-dealing trader who purchases Samarína's wool at premium prices and advocates for her products in distant markets, creating reliable income despite market fluctuations.
-- **The Veterinary Herbalist Katerina:** A semi-retired healer who specializes in animal care and has become a friend and occasional mentor, sharing knowledge about herbal remedies and holistic animal husbandry.
+- **Elder Vasilis Komnenos:** Elder of the herding commune and keeper of its customs, who has looked after her since she was a girl and still frets that she is too careful.
+- **The Wool Merchant Dimitri Kalvestris:** Buys her clip at the top of the market and talks it up in towns she has never seen. His custom is what keeps a bad year from being a ruinous one.
+- **The Veterinary Herbalist Katerina:** A healer, half retired, who works on animals and taught Samarína most of what she knows about them.
 
 ### Enemies
 
-- **Landowner Theron Vaspas:** A wealthy landowner whose territories border Samarína's grazing lands, Theron has repeatedly attempted to purchase her land or pressure her into more intensive, environmentally destructive grazing practices. Her refusal has earned his enmity.
-- **The Competitive Herders Collective:** Younger herders in the region, frustrated with what they see as outdated practices and conservative thinking, have begun ostracizing Samarína and spreading rumors about the inferior quality of her animals, despite evidence to the contrary.
-- **Her Own Doubts:** More dangerous than any external foe, Samarína's constant uncertainty about whether her traditional approaches are becoming obsolete, whether she is clinging to the past at the expense of her future.
+- **Landowner Theron Vaspas:** Holds the land along her boundaries and has tried to buy her out, and failing that to push her into grazing harder. She said no both times.
+- **The Competitive Herders Collective:** The younger herders, who have stopped inviting her to anything and have started saying her animals are poor. Anyone who has seen them knows better.
+- **Her Own Doubts:** The question of whether she is holding a line or clinging to the past. She has no answer she trusts.
 
 ### Affiliations
 
-- **None formal:** Samarína maintains independence from official organizations, though she participates informally in the Byzarian herding commune and honors the customs and traditions of her pastoral culture.
+- **None formal:** She belongs to no guild or company. She keeps the customs of the Byzarian herding commune and attends its gatherings when she is asked.
 
 ## Plot Hooks
 
-1. **The Sanctuary Under Threat:** Samarína discovers that Landowner **Theron Vaspas** has begun systematically purchasing lands that will encircle her grazing territories, effectively trapping her and forcing her to either abandon her herd or sell her land at depressed prices. She recruits adventurers to help her navigate legal systems, discover evidence of Vaspas's unethical practices, and potentially locate alternative grazing lands. This plot forces her to develop political acumen while testing whether she will compromise her values to survive.
+1. **The Sanctuary Under Threat:** Theron Vaspas has been buying land in a ring around her grazing, parcel by parcel. When the ring closes she will be able to reach her own pasture only across his, and he will name the price. She needs people who can read a deed, find out what Vaspas has done to get those parcels, and perhaps find her other grazing before the last one is bought.
 
-2. **The Plague in the Flocks:** A mysterious disease begins spreading through herds across the Byzarian League, devastating animals and threatening the pastoral economy. Samarína's keen observation suggests the disease is not natural but deliberately introduced. She must work with adventurers to investigate the source (whether environmental, magical, or deliberate), find a cure or treatment, and prevent her herd from being destroyed. This positions her as an unexpected expert and potential savior figure.
+2. **The Plague in the Flocks:** A sickness is moving through the herds of the Byzarian League, and Samarína, who has watched it more closely than anyone, does not think it is a natural one. Something is being introduced — from the water, from the salt licks, from somewhere. She wants help finding the source and a treatment before it reaches her own animals, and she has become, without wanting it, the person the commune looks to.
 
-3. **The Ancient Shepherd's Secret:** While researching ancient herding techniques to improve her practice, Samarína discovers references to an ancient shepherd who allegedly lived five hundred years ago and whose herding techniques were said to be so advanced that his animals never sickened and his flock doubled in size every generation. Legend suggests his knowledge was hidden in a distant sanctuary. Intrigued by the possibility of learning truly revolutionary techniques, she recruits adventurers to help her locate and understand these ancient practices, potentially uncovering magic or lost knowledge.
+3. **The Ancient Shepherd's Secret:** In an old commune record she has found mention of a shepherd who lived five hundred years ago, whose animals never sickened and whose flock is said to have doubled every generation. His methods are supposed to be preserved in a sanctuary somewhere in the far hills. She would like to go and look, and she knows she cannot go alone.
 
-4. **The Outsider's Arrival:** A stranger arrives in Samarína's territory driving a herd of extraordinary animals—creatures that seem almost unnatural, moving with perfect synchronization and showing no signs of the diseases or weaknesses normal animals exhibit. The stranger offers to trade advanced breeding techniques and superior animals in exchange for Samarína's assistance with something dangerous and morally complicated. As Samarína grapples with the temptation to revolutionize her herding through these superior animals, she realizes the stranger and their animals may not be entirely natural, and she must decide whether to accept potentially cursed aid.
+4. **The Outsider's Arrival:** A stranger has driven a herd into her valley — animals that move as one, never scour, never limp, and are wrong in a way she cannot name. The stranger will trade breeding stock and the knowledge of how it was made for her help with something dangerous and, she suspects, wicked. She has not said no yet.
 
-5. **The Land Spirits' Awakening:** Ancient earth spirits, long dormant in the pastoral lands of the Byzarian League, begin manifesting in response to environmental damage caused by intensive herding practices. Rather than punish Samarína (whose conservative practices are less damaging), the spirits contact her with a proposition: help convince other herders to change their practices, or the spirits will forcibly reclaim the land, devastating the entire pastoral economy. Samarína must become an unlikely ambassador between human culture and natural forces, recruiting adventurers to help her convince both the spirits to show patience and the herders to accept change.
+5. **The Land Spirits' Awakening:** The old spirits of the pasture have begun to stir, woken by the hard grazing, and they have come to her rather than to the herders who did the damage. The offer is plain: persuade the commune to change its ways, or the spirits will take the land back and the wool trade with it. She is the wrong person to persuade anyone of anything, and there is nobody else.
