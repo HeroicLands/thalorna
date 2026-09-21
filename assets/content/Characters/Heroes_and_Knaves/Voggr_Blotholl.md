@@ -601,7 +601,7 @@ Vöggr stands 5'11" tall with a heavy build. He has tanned weathered skin, gray 
 
 **The Forest's Education**
 
-Vöggr Blóthöll was born into a family of woodcutters in the Darkwood Reaches of the Kingdom of Nordheim, a region where the vast forests that covered the landscape were simultaneously the greatest resource and the most dangerous adversary. From the moment he could walk, he learned to move through the forest with respect and care, training from his father and uncles emphasizing that the forest was not a resource to be exploited without consequence, but rather a living system that would provide sustainably if treated with wisdom. This philosophy—unusual among northern woodcutters who tended toward aggressive extraction—was passed through the Blóthöll line as carefully as any inherited treasure.
+Vöggr Blóthöll was born into a family of woodcutters in the Darkwood Reaches of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], a region where the vast forests that covered the landscape were simultaneously the greatest resource and the most dangerous adversary. From the moment he could walk, he learned to move through the forest with respect and care, training from his father and uncles emphasizing that the forest was not a resource to be exploited without consequence, but rather a living system that would provide sustainably if treated with wisdom. This philosophy—unusual among northern woodcutters who tended toward aggressive extraction—was passed through the Blóthöll line as carefully as any inherited treasure.
 
 **The Scar's Lesson**
 

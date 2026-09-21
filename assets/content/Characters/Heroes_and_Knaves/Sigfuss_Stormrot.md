@@ -596,7 +596,7 @@ Sigfúss stands 6'2" tall with a medium build. He has tanned weathered skin, bro
 
 # Dossier {#dossier}
 
-Sigfúss was born in Bjornstad, a minor coastal settlement of the Kingdom of Vithgard, to parents of modest means. His mother, **Ragnhildr**, ran a small inn catering to sailors, while his father, **Jostein Stormrót**, was himself a ship's navigator until a boarding accident left him partially crippled. Rather than burden his aging parents further, Sigfúss took to the sea at fourteen, climbing the ranks from cabin boy through sheer competence and an intuitive understanding of ships and seafaring.
+Sigfúss was born in [[place-bjornstad|Bjornstad]], a minor coastal settlement of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], to parents of modest means. His mother, **Ragnhildr**, ran a small inn catering to sailors, while his father, **Jostein Stormrót**, was himself a ship's navigator until a boarding accident left him partially crippled. Rather than burden his aging parents further, Sigfúss took to the sea at fourteen, climbing the ranks from cabin boy through sheer competence and an intuitive understanding of ships and seafaring.
 
 For sixteen years, Sigfúss has served aboard merchant vessels, fishing fleets, and occasionally military patrol ships contracted to Vithgard's coastal defense. He has sailed the Crystalline Straits, the Shattered Archipelago, and the dangerous shoals of the Merchant's Passage, surviving tempests that sank larger, better-equipped vessels. His reputation is earned through uncountable small acts of seamanship—the ability to read weather before it manifests, to navigate by stars when maps fail, to remain calm when the deck pitches forty degrees and the masts groan with the strain of violent wind.
 
@@ -606,7 +606,7 @@ Five years ago, after the death of his father, Sigfúss briefly returned to Bjor
 
 ### Personality
 
-Sigfúss possesses the easy confidence of a man comfortable in his domain and secure in his competence. He is neither arrogant nor boastful; simply untroubled by doubt. In crisis, he becomes crystalline in focus, his mind operating with preternatural clarity. Outside of emergencies, he is gregarious and quick to laugh, entertaining crew with tales of impossible catches and narrow escapes told with theatrical flair. He views himself as servant of Fréyja, goddess of prosperity, and attributes his survival of multiple storms to her grace.
+Sigfúss possesses the easy confidence of a man comfortable in his domain and secure in his competence. He is neither arrogant nor boastful; simply untroubled by doubt. In crisis, he becomes crystalline in focus, his mind operating with preternatural clarity. Outside of emergencies, he is gregarious and quick to laugh, entertaining crew with tales of impossible catches and narrow escapes told with theatrical flair. He views himself as servant of [[lore-freyjadty|Fréyja]], goddess of prosperity, and attributes his survival of multiple storms to her grace.
 
 His philosophy is fundamentally practical. He sees little point in unnecessary worry or elaborate planning when experience has taught him the sea's true nature—unpredictable, dangerous, beautiful, and ultimately indifferent to human pretense. This makes him seem cavalier to those who don't understand him, though in reality, he has internalized decades of nautical knowledge into instinctive decision-making that appears intuitive but is grounded in rigorous observation.
 

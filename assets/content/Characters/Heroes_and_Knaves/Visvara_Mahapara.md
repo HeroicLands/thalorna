@@ -606,7 +606,7 @@ Viśvàra stands 6'4" tall with a heavy build. He has warm golden brown skin, da
 
 ### Born to the Waters
 
-Viśvàra was born to a fishing family in one of the Vedyara city-states' coastal settlements, the son of **Mahâpara the Elder**, a competent but undistinguished fisherman whose life was as unremarkable as it was difficult. From his earliest years, Viśvàra knew the sea—learned to respect its moods, to read its signs, to accept both its generosity and its cruelty. His childhood was one of subsistence, of helping his father with nets and lines, of hunger when the catches were poor and modest plenty when fortune favored them.
+Viśvàra was born to a fishing family in one of the [[place-vedyarargn|Vedyara]] city-states' coastal settlements, the son of **Mahâpara the Elder**, a competent but undistinguished fisherman whose life was as unremarkable as it was difficult. From his earliest years, Viśvàra knew the sea—learned to respect its moods, to read its signs, to accept both its generosity and its cruelty. His childhood was one of subsistence, of helping his father with nets and lines, of hunger when the catches were poor and modest plenty when fortune favored them.
 
 At age twelve, recognizing that his son possessed an instinctive affinity for the water and a body suited to the labors required, Viśvàra's father arranged for him to be taken on as a cabin boy aboard **The Merchant's Fortune**, a substantial trading vessel captained by **Captain Sorven**, a legendary seaman known for his exacting standards and his unwillingness to tolerate laziness or negligence.
 

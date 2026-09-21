@@ -597,7 +597,7 @@ Vígbrandr stands 5'10" tall with a medium build. He has light fair skin, dark b
 
 **The Wandering Years**
 
-Vígbrandr was born into the Skýrekkr clan during an age when the old ways still held dominion over the hearts of the northern peoples. His father, a respected warrior-poet, recognized early the boy's gift for memorization and the peculiar cadence of his voice—a voice that could carry across mead-halls and mountainous valleys alike. At seven years, Vígbrandr was apprenticed to the Master Skald Eiríkr Hrafnsbane, a legendary storyteller whose repertoire encompassed the entire history of the Kingdom of Targud and the exploits of its greatest heroes. For thirty years, he learned not merely the words of the ancient sagas, but their spirit—the pauses that make hearts quicken, the inflections that bring tears to hardened warriors' eyes, the rhythms that echo in memory long after the final verse.
+Vígbrandr was born into the Skýrekkr clan during an age when the old ways still held dominion over the hearts of the northern peoples. His father, a respected warrior-poet, recognized early the boy's gift for memorization and the peculiar cadence of his voice—a voice that could carry across mead-halls and mountainous valleys alike. At seven years, Vígbrandr was apprenticed to the Master Skald Eiríkr Hrafnsbane, a legendary storyteller whose repertoire encompassed the entire history of the [[affiliation-kingdmtrgd|Kingdom of Targud]] and the exploits of its greatest heroes. For thirty years, he learned not merely the words of the ancient sagas, but their spirit—the pauses that make hearts quicken, the inflections that bring tears to hardened warriors' eyes, the rhythms that echo in memory long after the final verse.
 
 **The Skald's Mastery**
 

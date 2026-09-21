@@ -627,7 +627,7 @@ Razanash stands 5'7" tall with a light build. She has tawny skin, black hair, an
 
 **The Unquiet Awakening**
 
-**Razanash** was born into the Mervaran lineage of the Khazryn Desert, the daughter of a respected hunter and a woman known to possess the gift of prophecy. She showed signs of shamanic potential from childhood—she spoke with animals, sensed approaching storms before any sign appeared in the sky, and occasionally fell into trances during which she seemed to converse with invisible presences. However, her early years were marked by confusion and suffering; without proper training, her abilities manifested as vivid nightmares, unexplained illnesses, and a desperate sense of disconnection from normal reality. By her teenage years, she had become withdrawn and troubled, and some in the tribe questioned whether she was blessed or cursed.
+**Razanash** was born into the Mervaran lineage of the [[place-khzryndsrtrgn|Khazryn Desert]], the daughter of a respected hunter and a woman known to possess the gift of prophecy. She showed signs of shamanic potential from childhood—she spoke with animals, sensed approaching storms before any sign appeared in the sky, and occasionally fell into trances during which she seemed to converse with invisible presences. However, her early years were marked by confusion and suffering; without proper training, her abilities manifested as vivid nightmares, unexplained illnesses, and a desperate sense of disconnection from normal reality. By her teenage years, she had become withdrawn and troubled, and some in the tribe questioned whether she was blessed or cursed.
 
 **The Trial of Becoming**
 

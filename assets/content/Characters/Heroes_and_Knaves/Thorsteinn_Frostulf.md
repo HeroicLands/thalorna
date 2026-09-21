@@ -597,7 +597,7 @@ Thorsteinn stands 6'1" tall with a medium build. He has tanned weathered skin, b
 
 ### Early Apprenticeship
 
-Thorsteinn was born the third son of a poor farming family in Vithgard's interior, with little prospect of inheriting significant land or wealth. At age twelve, he was apprenticed to the master potter **Kalaugr Clayhand**, an aging craftsman whose hands trembled but whose mind remained sharp. Kalaugr recognized something in the boy—not flashy talent, but the kind of patient persistence that separates true craftspeople from mere imitators. For eight years, Thorsteinn learned the fundamental truths of clay work: that patience yields greater results than passion, that tradition exists because it works, that the smallest variations in temperature or technique can mean the difference between a masterpiece and a pile of shards.
+Thorsteinn was born the third son of a poor farming family in [[affiliation-kngdmvthgrd|Vithgard]]'s interior, with little prospect of inheriting significant land or wealth. At age twelve, he was apprenticed to the master potter **Kalaugr Clayhand**, an aging craftsman whose hands trembled but whose mind remained sharp. Kalaugr recognized something in the boy—not flashy talent, but the kind of patient persistence that separates true craftspeople from mere imitators. For eight years, Thorsteinn learned the fundamental truths of clay work: that patience yields greater results than passion, that tradition exists because it works, that the smallest variations in temperature or technique can mean the difference between a masterpiece and a pile of shards.
 
 ### The Journeyman Years
 
