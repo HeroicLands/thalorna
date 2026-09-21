@@ -353,7 +353,7 @@ The Octowolf is an unnatural fusion of apex predators from incompatible environm
 
 ## Presentation
 
-An Octowolf measures roughly 12 to 16 feet in total length, with the wolf-portion constituting about half its frame. Its front end resembles a massive, dire wolf—muscular shoulders, powerful forelimbs ending in ripping claws, and a head of terrible size with jaws large enough to swallow a human whole. Its fur is midnight black, slick and oil-like, seeming to absorb light rather than reflect it, and it perpetually appears wet even when dry. Its eyes are an unsettling silver-gray, ringed with what appears to be calcified predator-scar tissue. Behind and below the wolf-body, eight tentacles of extraordinary musculature erupt, each as thick as a man's torso and covered in dark suckers that can pierce armor. The creature's skin where wolf-body transitions to tentacles is a twisted, scarred mass of tissue that never fully healed. The smell it carries is of deep water, predatory musk, and the ozone-scent of deep underwater caves.
+An Octowolf measures roughly 12 to 16 feet in total length, with the wolf-portion constituting about half its frame. Its front end resembles a massive, dire wolf—muscular shoulders, powerful forelimbs ending in ripping claws, and a head of terrible size with jaws large enough to swallow a human whole. Its fur is midnight black, slick and oil-like, seeming to swallow light, and it perpetually appears wet even when dry. Its eyes are an unsettling silver-gray, ringed with what appears to be calcified predator-scar tissue. Behind and below the wolf-body, eight tentacles of extraordinary musculature erupt, each as thick as a man's torso and covered in dark suckers that can pierce armor. The creature's skin where wolf-body transitions to tentacles is a twisted, scarred mass of tissue that never fully healed. The smell it carries is of deep water, predatory musk, and the ozone-scent of deep underwater caves.
 
 ## Key Behaviors
 
@@ -367,11 +367,11 @@ An Octowolf typically initiates combat from water or dense vegetation, using ran
 
 ### Rending Bite
 
-The Octowolf's massive jaws snap down with bone-crushing force, capable of severing limbs or tearing through armor. A successful bite does catastrophic damage and may prevent victims from further action.
+The Octowolf's massive jaws snap down with bone-crushing force, capable of severing limbs or tearing through armor. A bite that lands does catastrophic damage and may leave the victim unable to act.
 
 ### Tentacle Constriction
 
-One or more of the creature's tentacles wraps around a victim with relentless pressure, constricting their breath and crushing bones. A victim caught in a tentacle loses mobility and suffers progressive damage.
+One or more of the creature's tentacles wraps around a victim with relentless pressure, constricting their breath and crushing bones. A victim caught in a tentacle cannot move and is crushed harder with every moment.
 
 ### Tentacle Rake
 
@@ -381,19 +381,19 @@ Multiple tentacles lash out in rapid succession, each one capable of piercing or
 
 ### Amphibious Supremacy
 
-The Octowolf moves with equal ease in water and on land, and suffers no movement penalty or disadvantage in either medium. In water, it gains significant tactical advantages—increased speed, the ability to approach unseen, and access to escape routes land-bound creatures cannot follow.
+The Octowolf moves with equal ease in water and on land. In water it is faster, can approach unseen, and has escape routes land-bound creatures cannot follow.
 
 ### Tentacle Precision
 
-The creature's eight tentacles move with independent, highly precise coordination, allowing it to grapple multiple targets or perform complex actions simultaneously. The tentacles can extend surprising distances and manipulate objects with remarkable dexterity.
+The creature's eight tentacles move with independent, highly precise coordination, allowing it to grapple multiple targets or perform complex actions simultaneously. The tentacles can extend surprising distances and handle objects with great dexterity.
 
 ### Predatory Intellect
 
-The Octowolf demonstrates genuine intelligence, learning prey patterns, setting traps, and anticipating evasive action. It can coordinate with other Octowolves if they happen to meet, though these encounters often end in combat between them.
+The Octowolf is intelligent, learning prey patterns, setting traps, and anticipating evasive action. It can coordinate with other Octowolves if they happen to meet, though these encounters often end in combat between them.
 
 ## Additional Information
 
-Fire and extreme cold are the Octowolf's primary vulnerabilities—fire damages its flesh directly and overwhelms its sensory organs, while sustained cold immobilizes its tentacles and slows its reflexes dramatically. Deep, warm water is where the Octowolf is most dangerous; in cold waters or dry conditions, its performance degrades significantly. The creature's tentacles, if severed, will eventually regenerate over weeks or months, but significant tissue damage takes years to fully heal. Harvesting an Octowolf after death is dangerous—the creature's tentacle reflexes persist for hours, and the venom glands in its suckers remain active even in death. The fur can be crafted into water-resistant clothing of exceptional quality, and the teeth make formidable weapons or trophies. Some legendary hunters have made it their life's work to track and kill Octowolves, building elaborate traps or calling in aid from multiple communities; these hunts are often as deadly for the hunters as for the prey.
+Fire and extreme cold are the Octowolf's primary vulnerabilities—fire damages its flesh directly and overwhelms its sensory organs, while sustained cold immobilizes its tentacles and slows its reflexes dramatically. Deep, warm water is where the Octowolf is most dangerous; in cold waters or dry conditions, it is far less dangerous. The creature's tentacles, if severed, will eventually regenerate over weeks or months, but significant tissue damage takes years to fully heal. Harvesting an Octowolf after death is dangerous—the creature's tentacle reflexes persist for hours, and the venom glands in its suckers remain active even in death. The fur can be crafted into water-resistant clothing of fine quality, and the teeth make good weapons or trophies. Some hunters have made it their life's work to track and kill Octowolves, building elaborate traps or calling in aid from multiple communities; these hunts are often as deadly for the hunters as for the prey.
 
 ## Attributes
 

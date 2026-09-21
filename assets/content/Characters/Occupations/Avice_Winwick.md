@@ -550,54 +550,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Avice Winwick is a 30-year-old woman who stands 5'10" tall and is slender. She has a heart-shaped face with broad cheekbones, a high forehead, and a narrow jaw that leads to a rounded chin. Her large green eyes sit beneath straight brows, lending her an expressive gaze. A narrow nose and expressive lips complete her features. She has fair skin with a lightly freckled complexion. Her dark blonde hair is flowing past her shoulders.
+Avice Winwick is a 30-year-old woman who stands 5'10" tall and is slender. She has a heart-shaped face with broad cheekbones, a high forehead, and a narrow jaw that leads to a rounded chin. Her large green eyes sit beneath straight brows and give her an expressive gaze. She has a narrow nose and expressive lips. She has fair skin with a lightly freckled complexion. Her dark blonde hair flows past her shoulders.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heritage, Avice Winwick came into the world of the mercantyler (supercargo) through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heritage, Avice Winwick is a mercantyler who sails as a supercargo.
 
-Avice has a background in maritime trade and has spent years as a supercargo for a major trading company. She is adept at managing cargo and ensuring that all transactions are conducted smoothly. Avice is known for her keen business acumen and her ability to adapt to changing market conditions. Her reputation for honesty and reliability has earned her respect among clients and colleagues alike.
+Avice has a background in maritime trade and has spent years as a supercargo for a major trading company. She is adept at managing cargo and seeing that every transaction goes smoothly. She is known for her head for business and her ability to adapt to changing markets. Clients and colleagues alike respect her for her honesty and reliability.
 
-Now at 30 years of age, Avice Winwick has established herself as a known figure among the mercantyler (supercargo)s of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 30 years of age, she is a known figure among the supercargoes of Aelwyth.
 
 ## Psyche
 
 ### Personality
 
-Can be perceived as aloof, struggles with the more physical aspects of loading and unloading.
+She can seem aloof, and struggles with the heavier work of loading and unloading.
 
 ### Motivation
 
-Avice is driven by the desire to master her craft and secure a stable future. The uncertainties of life in mercantyler (supercargo) work keep her vigilant and adaptable.
+Avice wants every cargo she carries to arrive and sell as agreed, and her name to stay good with the companies that hire her.
 
 ### Strengths
 
-Skilled in logistics and trade negotiations, adaptable, strong understanding of market dynamics.
+She is skilled in the management of cargo and in trade negotiation, adaptable, and understands how markets move.
 
 ## Social
 
-Avice is affiliated with Local Merchant's Guild.
-
-As a Aelwythan mercantyler (supercargo), Avice occupies a recognized social niche within Aelwyth society.
+Avice belongs to the Local Merchant's Guild.
 
 ## Companions
 
 ### Patrons
 
-Avice's primary patron is Trading companies and shipping lines.. This relationship provides both opportunity and obligation.
+Avice's patrons are the trading companies and shipping lines that hire her.
 
 ### Enemies
 
-Few; generally well-respected.
+Few; she is generally well respected.
 
 ## Plot Hooks
 
-1. **The Mercantyler (Supercargo)'s Dilemma** — Avice faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
+1. **The Mercantyler (Supercargo)'s Dilemma** — A cargo Avice is responsible for turns out to be other than its manifest says, and her company and her name cannot both be kept.
 
-2. **Old Grudges** — Few; generally well-respected. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A merchant whose cargo Avice refused to carry has not forgotten it.
 
-3. **Echoes of the Past** — Something from Avice's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** — A voyage from Avice's early years at sea comes back to her as a claim against the cargo she carried.
 
-4. **Shifting Winds** — Political changes in Aelwyth threaten to upend the social order that Avice depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Aelwyth threatens the trade Avice depends upon, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Avice the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — Avice is offered a share in a trading company, and its price is not named up front.

@@ -342,11 +342,11 @@ The massive form rises from the underbrush, and suddenly the forest itself seems
 
 # Dossier {#dossier}
 
-The Rockback Bear is a apex predator of high mountains and rocky slopes, standing 8-10 feet tall on hind legs and weighing over 1200 pounds, distinguished by the dense, rocky protrusions that cover its back, shoulders, and skull. These solitary, intensely territorial creatures are aggressive in defense of their domain and will actively hunt large prey. Adventurers might encounter rockback bears while traversing mountain passes, exploring alpine meadows, or disturbing a bear’s territory in search of resources.
+The Rockback Bear is an apex predator of high mountains and rocky slopes, standing 8-10 feet tall on hind legs and weighing over 1200 pounds, distinguished by the dense, rocky protrusions that cover its back, shoulders, and skull. These solitary, intensely territorial creatures are aggressive in defense of their domain and will actively hunt large prey. Adventurers might encounter rockback bears while traversing mountain passes, exploring alpine meadows, or disturbing a bear’s territory in search of resources.
 
 ## Presentation
 
-The Rockback Bear presents a form of overwhelming muscular power covered in dark, shaggy fur that appears matted and weathered from years of rough terrain navigation. The distinctive feature is the rocky armor — rough, stone-like protrusions that grow along the back, shoulders, spine, and skull, creating a natural armoring that appears to be part of the creature itself. These growths are not dead stone but living bone covered in keratin, adapted for the bear’s mountain environment. The head is massive and bear-like, with small, deep-set dark eyes that burn with predatory intelligence, a powerful jaw capable of crushing bone, and ears that swivel to track sounds. The paws are enormous, each with five curved claws suitable for climbing, digging, and tearing. The tail is short and barely visible beneath the bear’s rear haunches.
+The Rockback Bear presents a form of overwhelming muscular power covered in dark, shaggy fur that appears matted and weathered from years in rough terrain. The distinctive feature is the rocky armor — rough, stone-like protrusions that grow along the back, shoulders, spine, and skull, creating a natural armoring that appears to be part of the creature itself. These growths are not dead stone but living bone covered in keratin, adapted for the bear’s mountain environment. The head is massive and bear-like, with small, deep-set dark eyes that burn with predatory intelligence, a powerful jaw capable of crushing bone, and ears that swivel to track sounds. The paws are enormous, each with five curved claws suitable for climbing, digging, and tearing. The tail is short and barely visible beneath the bear’s rear haunches.
 
 ## Key Behaviors
 
@@ -372,13 +372,13 @@ The bear collides with an opponent using its massive body weight and muscular sh
 
 ### Grapple and Shake
 
-If the bear manages to grasp a victim, it uses its immense strength to lift and shake them violently, inflicting impacts and trauma damage while attempting to position for a killing bite.
+If the bear manages to grasp a victim, it uses its immense strength to lift and shake them violently, inflicting crushing injuries while attempting to position for a killing bite.
 
 ## Special Abilities
 
 ### Rocky Armor
 
-The stone-like protrusions along the bear’s back, shoulders, and skull provide genuine armor protection that reduces damage from slashing and piercing weapons. The rocky growths are nearly equivalent to scale or leather armor in protection but are an integral part of the creature’s biology.
+The stone-like protrusions along the bear’s back, shoulders, and skull protect it like armor, reducing damage from slashing and piercing weapons. The rocky growths are nearly equivalent to scale or leather armor in protection but are an integral part of the creature’s biology.
 
 ### Downhill Charge
 
@@ -390,11 +390,11 @@ Once the rockback engages in combat, it commits with absolute totality and rarel
 
 ### Mountaineer Instinct
 
-The rockback is extraordinarily capable on difficult terrain, moving with confidence and speed across steep slopes, loose rock, and unstable ground where humanoids would struggle. It gains advantage in combat when fighting on mountain terrain.
+The rockback is extraordinarily capable on steep, broken ground, moving with confidence and speed across steep slopes, loose rock, and unstable ground where humanoids would struggle. It fights best on mountain terrain.
 
 ### Regenerative Nature
 
-The rockback’s body heals with remarkable speed, recovering from wounds over days or weeks that would cripple other creatures. Minor wounds close within hours, and even severe injuries show recovery within days.
+The rockback’s body heals fast, recovering from wounds over days or weeks that would cripple other creatures. Minor wounds close within hours, and even severe injuries show recovery within days.
 
 ### Additional Information
 

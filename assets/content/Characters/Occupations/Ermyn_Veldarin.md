@@ -535,9 +535,9 @@ sohl:
 
 Êrmyn was born to Élavendren parents but does not remember his early childhood. He was part of a refugee cohort that fled political persecution twelve years ago, when he was eleven years old. The experience of flight, loss, and displacement marked him in ways that remain visible in his bearing. His parents died during the journey (he will not say how), and he was taken in by a settlement near [[place-elavendre|Élavendre]]'s forest edge—a community that specialized in accepting refugees and integrating them into its life.
 
-At eighteen, he joined the local town guard not out of ambition but out of pragmatic recognition that he had no other marketable skills. The work suited him in unexpected ways. His years as a refugee had made him acutely aware of danger and threat; his instinctive hypervigilance, which had been a liability in civilian life, became an asset in security work. He moves through the forest-edge town with the characteristic silence of someone who learned early that making noise could mean death.
+At eighteen, he joined the local town guard not out of ambition but out of pragmatic recognition that he had no other skills to sell. The work suited him in unexpected ways. His years as a refugee had made him acutely aware of danger and threat; his instinctive watchfulness, which had been a liability in civilian life, became an asset in security work. He moves through the forest-edge town with the characteristic silence of someone who learned early that making noise could mean death.
 
-At twenty-three, he has served five years in the town guard and has earned the respect of older, more experienced officers. His prematurely gray hair—a stress response that began during his refugee years—has become his identifying feature. He speaks quietly, often barely audible, and uses fewer words than almost anyone in his town. His reputation is for being the guard who notices things others miss and who remains calm under stress.
+At twenty-three, he has served five years in the town guard and is respected by older, more experienced officers. His prematurely gray hair—which began during his refugee years—has become his identifying feature. He speaks quietly, often barely audible, and uses fewer words than almost anyone in his town. His reputation is for being the guard who notices things others miss and who remains calm under stress.
 
 ## Psyche
 
@@ -547,21 +547,21 @@ At twenty-three, he has served five years in the town guard and has earned the r
 
 ### Motivation
 
-Êrmyn's primary motivation is simple survival and security. He has experienced the worst that the world offers and has no illusions about human nature. His secondary motivation, which he rarely articulates even to himself, is the desire to protect the refugee community that saved him from death as a displaced child. He wants to ensure that others do not experience the suffering he endured.
+Êrmyn's primary motivation is simple survival and security. He has experienced the worst that the world offers and has no illusions about human nature. His secondary motivation, which he rarely articulates even to himself, is the desire to protect the refugee community that saved him from death as a displaced child. He wants others spared the suffering he endured.
 
 ### Strengths
 
-His awareness of danger is preternatural. His ability to move silently and remain unnoticed is exceptional. His physical competence is solid and reliable. His emotional restraint allows him to remain calm under stress that would destabilize others.
+His awareness of danger is preternatural. His ability to move silently and remain unnoticed is uncommon. His physical competence is solid and reliable. His emotional restraint allows him to remain calm under stress that would destabilize others.
 
 ## Social
 
-Êrmyn is regarded with a mixture of respect and unease by his community. His status as refugee-turned-guard makes him something of a symbol of successful integration, but his obvious trauma and emotional distance make people uncomfortable in extended interaction with him. He is welcomed but not fully accepted.
+Êrmyn is regarded with a mixture of respect and unease by his community. His status as refugee-turned-guard makes him something of a symbol of successful integration, but the marks his past has left on him and his emotional distance make people uncomfortable in his company for long. He is welcomed but not fully accepted.
 
 ## Companions
 
 ### Patrons
 
-**Town Magistrate Aelwen Forestsong** — The administrator of the forest-edge town. Aelwen was instrumental in the refugee integration program and personally advocated for Êrmyn's acceptance. She has become his primary patron and has made it clear that she trusts him absolutely. She has also quietly supported his continued education and personal development.
+**Town Magistrate Aelwen Forestsong** — The administrator of the forest-edge town. Aelwen was instrumental in the settling of refugees and personally advocated for Êrmyn's acceptance. She has become his primary patron and has made it clear that she trusts him absolutely. She has also quietly supported his continued education.
 
 ### Enemies
 
@@ -569,12 +569,12 @@ His awareness of danger is preternatural. His ability to move silently and remai
 
 ## Plot Hooks
 
-1. **The Refugee Crisis Revisited** — A new wave of refugees arrives at the forest-edge town, fleeing the same political persecution that displaced Êrmyn a decade ago. The new arrivals include people Êrmyn knew in his childhood—people from his refugee cohort who scattered years before. Some want to stay and settle; others are being actively hunted by the persecutors they fled. The town becomes divided about accepting the refugees. Êrmyn is personally invested in their survival but must maintain professional impartiality. Kessian uses the crisis to demand that Êrmyn be dismissed as potentially biased in favor of refugees.
+1. **The Refugee Crisis Revisited** — A new wave of refugees arrives at the forest-edge town, fleeing the same political persecution that displaced Êrmyn a decade ago. The new arrivals include people Êrmyn knew in his childhood—people from his refugee cohort who scattered years before. Some want to stay and settle; others are being actively hunted by the persecutors they fled. The town becomes divided about accepting the refugees. Êrmyn is personally invested in their survival but must keep the impartiality of his office. Kessian uses the crisis to demand that Êrmyn be dismissed as potentially biased in favor of refugees.
 
-2. **The Personal Recognition** — One of the new refugees recognizes Êrmyn and reveals knowledge about Êrmyn's parents' deaths that Êrmyn has repressed—traumatic details that Êrmyn has blocked from memory as a survival mechanism. The refugee is offering to tell him the truth. Êrmyn must choose whether to face trauma he has spent years avoiding or preserve his psychological stability by refusing to know.
+2. **The Personal Recognition** — One of the new refugees recognizes Êrmyn and reveals knowledge about Êrmyn's parents' deaths that he has buried—details he has shut out of memory in order to go on. The refugee is offering to tell him the truth. He can face what he has spent years avoiding, or keep his footing by refusing to know.
 
-3. **The Extremist's Escalation** — Kessian begins actively organizing violence against the refugee settlement, using rhetoric that stokes local resentment. He is technically not breaking laws—his speech, while inflammatory, is within legal bounds. Êrmyn can see violence developing and knows that his intervention could prevent it, but doing so would require suppressing legal speech or arresting Kessian on insufficient evidence. Town Magistrate Aelwen asks him to find a way to stop Kessian. Êrmyn must choose between legal restraint and practical prevention.
+3. **The Extremist's Escalation** — Kessian begins actively organizing violence against the refugee settlement, using rhetoric that stokes local resentment. He is technically not breaking laws—his speech, while inflammatory, is within legal bounds. Êrmyn can see violence developing and knows that his intervention could prevent it, but doing so would require suppressing legal speech or arresting Kessian on insufficient evidence. Town Magistrate Aelwen asks him to find a way to stop Kessian. He can hold to the law or prevent the violence, not both.
 
 4. **The Forest Revelation** — While patrolling the forest-edge, Êrmyn discovers evidence of an Élavendren government military operation that appears to be deliberately targeting refugee settlements beyond Élavendre's official borders. The operation is technically operating in foreign territory and therefore outside Élavendren's jurisdiction. But the refugees being targeted are people Êrmyn knows and cares about. Reporting this to Town Magistrate Aelwen would be reporting his own government to someone outside it, technically treason. Not reporting means allowing refugees to be assassinated.
 
-5. **The Spy's Truth** — Êrmyn discovers evidence that the accusation Kessian made—that Êrmyn is a spy—is partially accurate. Someone has been using Êrmyn's access to town information to gather intelligence on the refugee settlement. Investigation suggests someone in the community has been coercing another refugee into providing information. Êrmyn learns that the coercion involves threats against family members. Êrmyn must choose between exposing the coercion (which requires revealing how he obtained the evidence, admitting he was investigating the accusation Kessian made) or protecting the coerced refugee while allowing the intelligence gathering to continue.
+5. **The Spy's Truth** — Êrmyn discovers evidence that the accusation Kessian made—that Êrmyn is a spy—is partially accurate. Someone has been using Êrmyn's access to town information to gather intelligence on the refugee settlement. Investigation suggests someone in the community has been coercing another refugee into providing information. Êrmyn learns that the coercion involves threats against family members. Êrmyn can expose the coercion, which means revealing how he obtained the evidence and admitting he was investigating Kessian's accusation, or protect the coerced refugee and let the spying go on.

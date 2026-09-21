@@ -335,7 +335,7 @@ sohl:
 
 ![[glmfng|Gloomfang]]{float: top-left}
 
-Eyes catch your torchlight first—dozens of them, rings of luminescent violet that hover at shoulder height in the darkness. Then you see the creatures themselves: hunched, rat-like things the size of large dogs, covered in matted fur that might once have been brown. Teeth fill their mouths in irregular rows, and they move with skittering, jerky energy that suggests neither quite natural nor entirely corrupted. They surround you in a loose circle, no sound but the rustle of movement and the constant, hungry breathing. They are waiting for something.
+Eyes catch your torchlight first—dozens of them, rings of luminescent violet that hover at shoulder height in the darkness. Then you see the creatures themselves: hunched, rat-like things the size of large dogs, covered in matted fur that might once have been brown. Teeth fill their mouths in irregular rows, and they move with skittering, jerky energy that seems neither quite natural nor entirely corrupted. They surround you in a loose circle, no sound but the rustle of movement and the constant, hungry breathing. They are waiting for something.
 
 # Dossier {#dossier}
 
@@ -365,7 +365,7 @@ The creatures rake with their curved claws, attempting to open wounds and cause 
 
 ### Pack Tackle
 
-The Gloomfangs attempt to drag targets to the ground through coordinated assault, using numbers to overcome resistance. Once a target is prone, the pack focuses attacks on vulnerable areas.
+The Gloomfangs attempt to drag targets to the ground through coordinated assault, using numbers to overcome resistance. Once a target is down, the pack focuses attacks on vulnerable areas.
 
 ## Special Abilities
 
@@ -375,11 +375,11 @@ Gloomfangs navigate and hunt effectively in absolute darkness. Their bioluminesc
 
 ### Pack Coordination
 
-Individual Gloomfangs are not particularly intelligent, but the pack operates under a form of distributed intelligence. Packs gain advantage on all tactical decisions and coordinated actions. The loss of a pack leader causes temporary coordination loss; the pack regains focus once a new hierarchy establishes.
+Individual Gloomfangs are not particularly intelligent, but the pack operates under a form of distributed intelligence. A pack decides and moves together far better than any of its members could alone. The loss of a pack leader causes temporary coordination loss; the pack regains focus once a new hierarchy establishes.
 
 ### Endurance and Resilience
 
-Gloomfangs can sustain intense activity for extended periods without tiring. They show remarkable resistance to poison and disease due to their hardy constitution. They can pursue prey relentlessly, matching or exceeding human endurance.
+Gloomfangs can sustain intense activity for extended periods without tiring. They resist poison and disease well, thanks to their hardy constitution. They can pursue prey relentlessly, matching or exceeding human endurance.
 
 ### Climbing and Vertical Movement
 
