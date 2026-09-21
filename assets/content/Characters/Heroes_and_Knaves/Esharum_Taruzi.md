@@ -576,7 +576,7 @@ Eshârum Tarûzî is a tall, rangy man with the sun-darkened skin and salt-rough
 
 ### Early Life
 
-Eshârum was born in the port of Azhûn, one of the lesser harbors of the Haradian Confederation, to a family of modest cattle herders who worked the scrublands east of the city. His father died of a wasting sickness when Shâ was eleven, leaving his mother to raise him alone. The boy grew up hard, learning self-reliance early. By fourteen he was working the docks for coin, and by sixteen he had signed onto a merchant vessel as a deckhand, desperate to escape the grinding poverty of the hinterland.
+Eshârum was born in the port of [[place-azhun2|Azhûn]], one of the lesser harbors of the Haradian Confederation, to a family of modest cattle herders who worked the scrublands east of the city. His father died of a wasting sickness when Shâ was eleven, leaving his mother to raise him alone. The boy grew up hard, learning self-reliance early. By fourteen he was working the docks for coin, and by sixteen he had signed onto a merchant vessel as a deckhand, desperate to escape the grinding poverty of the hinterland.
 
 ### The Haradian War of Independence
 
@@ -588,7 +588,7 @@ The war ended in Haradian independence — on paper. But the merchant guilds who
 
 ### Captain of the Tamzîr
 
-For the last twelve years, Shâ has worked the Vylarian Sea as a freelance trader, smuggler, and occasional thief. He takes the jobs that respectable captains refuse — running cargo past imperial patrols, hauling passengers who need to disappear, delivering goods to ports where no questions are asked. He has assembled a crew of misfits, outcasts, and fugitives who are loyal to him because he is loyal to them. The Tamzîr is not much to look at — a patched and weatherbeaten vessel that smells of tar and old fish — but she is fast, nimble, and home.
+For the last twelve years, Shâ has worked the [[place-vylarianse|Vylarian Sea]] as a freelance trader, smuggler, and occasional thief. He takes the jobs that respectable captains refuse — running cargo past imperial patrols, hauling passengers who need to disappear, delivering goods to ports where no questions are asked. He has assembled a crew of misfits, outcasts, and fugitives who are loyal to him because he is loyal to them. The Tamzîr is not much to look at — a patched and weatherbeaten vessel that smells of tar and old fish — but she is fast, nimble, and home.
 
 ## Psyche
 
@@ -616,7 +616,7 @@ Shâ has no formal patrons. He works freelance and prefers it that way. He maint
 
 ### Enemies
 
-The **Haradian Guild Enforcers** have a long memory for debts and slights. Shâ's wartime activities embarrassed several guild families who collaborated with the Vylarian occupiers, and his refusal to fall in line after the war has made him a persistent irritant. **Vylarian Imperial Agents**, manipulated by the Ordo Arcanis, have taken an interest in the Tamzîr since the Tamaro siblings came aboard. Shâ does not yet fully understand how dangerous the forces arrayed against his passengers truly are.
+The **Haradian Guild Enforcers** have a long memory for debts and slights. Shâ's wartime activities embarrassed several guild families who collaborated with the Vylarian occupiers, and his refusal to fall in line after the war has made him a persistent irritant. **Vylarian Imperial Agents**, manipulated by the [[affiliation-ordoarcanis|Ordo Arcanis]], have taken an interest in the Tamzîr since the Tamaro siblings came aboard. Shâ does not yet fully understand how dangerous the forces arrayed against his passengers truly are.
 
 ### Affiliations
 

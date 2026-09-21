@@ -608,7 +608,7 @@ What was meant to be two years of service became a career. Athênagoras discover
 
 ### Present Circumstances
 
-Now a veteran soldier with a decade remaining until he can expect retirement, Athênagoras maintains his position with exemplary discipline and professionalism. He serves under **Lord Commander Vasilis of the Eastern March**, whom he respects greatly. He trains younger soldiers, many of whom remind him uncomfortably of his younger self. He participates in the endless cycle of training exercises, garrison duty, and occasional military campaigns. His service is respected but his personal life has become compressed into the margins—brief romantic encounters, strained relationships with his family who view military service as abandonment, friendships limited to other soldiers who understand the weight he carries.
+Now a veteran soldier with a decade remaining until he can expect retirement, Athênagoras maintains his position with exemplary discipline and professionalism. He serves under **Lord Commander Vasilis of the [[place-eastrnmrch|Eastern March]]**, whom he respects greatly. He trains younger soldiers, many of whom remind him uncomfortably of his younger self. He participates in the endless cycle of training exercises, garrison duty, and occasional military campaigns. His service is respected but his personal life has become compressed into the margins—brief romantic encounters, strained relationships with his family who view military service as abandonment, friendships limited to other soldiers who understand the weight he carries.
 
 ## Psyche
 

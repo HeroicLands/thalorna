@@ -606,7 +606,7 @@ Bazûdar stands 6'3" tall with a medium build. He has dark tan skin, black hair,
 
 ### Early Years in the Desert
 
-Bazûdar was born to the nomadic tribes of the Khazryn Desert, the second son of a herder family whose reputation for understanding animals was legendary even among the desert peoples. From childhood, he could communicate with horses and camels in ways that seemed almost mystical—animals responded to his presence with unusual calm and trust. His father, **Shahrûn the Wanderer**, taught him the ancient dialects and gestures that the desert peoples use to speak with creatures, and the tattoo on his shoulder bears a portrait of his mother, **Lethara of the Morning Star**, whom he lost to desert sickness when he was only seventeen.
+Bazûdar was born to the nomadic tribes of the [[place-khzryndsrtrgn|Khazryn Desert]], the second son of a herder family whose reputation for understanding animals was legendary even among the desert peoples. From childhood, he could communicate with horses and camels in ways that seemed almost mystical—animals responded to his presence with unusual calm and trust. His father, **Shahrûn the Wanderer**, taught him the ancient dialects and gestures that the desert peoples use to speak with creatures, and the tattoo on his shoulder bears a portrait of his mother, **Lethara of the Morning Star**, whom he lost to desert sickness when he was only seventeen.
 
 ### Trial and Transformation
 

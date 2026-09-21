@@ -596,7 +596,7 @@ Most striking is the tiger tattoo that adorns his right forearm—a creature ren
 
 # Dossier {#dossier}
 
-Anûraja was born into a city-state family of middling merchants in Vedyara, the youngest child of a father whose business interests were built upon careful political positioning rather than genuine commerce. From earliest childhood, he displayed an unsettling affinity for violence—not the hot-blooded rage of a typical child, but a cold, analytical interest in how injury could be inflicted with maximum efficiency and minimum effort.
+Anûraja was born into a city-state family of middling merchants in [[place-vedyarargn|Vedyara]], the youngest child of a father whose business interests were built upon careful political positioning rather than genuine commerce. From earliest childhood, he displayed an unsettling affinity for violence—not the hot-blooded rage of a typical child, but a cold, analytical interest in how injury could be inflicted with maximum efficiency and minimum effort.
 
 At age eight, his father, recognizing something exceptional in the boy, engaged instructors from the Vedyaran shadow-brotherhoods—organizations of trained assassins who maintain the balance of power through selective elimination of threats and inconvenient persons. For the next fifteen years, Anûraja underwent an intensive education unlike any formal schooling. He learned poisons from **Master Devan**, studied the art of silent movement under **the Night-Walker**, mastered the philosophy of clean assassination from the elderly **Grandmother Vex**, and trained in weaponry under **Kesh the Scarred**. By age twenty-three, he had completed his training and taken his first professional contracts.
 

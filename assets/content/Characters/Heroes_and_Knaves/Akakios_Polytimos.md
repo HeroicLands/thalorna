@@ -594,7 +594,7 @@ Akákios stands 6'2" tall with a heavy build. He has tanned weathered skin, dark
 
 # Dossier {#dossier}
 
-Akákios was born a tradesman's son in the bustling port districts of the Byzarian League, where the smell of tar and hemp was his first scent. At twelve, his father apprenticed him to **Captain Merillos**, a gruff merchant vessel commander who saw potential in the lean boy's willingness to work beyond his strength. For fourteen years, Akákios learned every aspect of seamanship—rigging sails in shrieking gales, navigating by stars when compasses failed, coaxing damaged hulls to stay afloat through sheer determination.
+Akákios was born a tradesman's son in the bustling port districts of the [[affiliation-byzarianlg|Byzarian League]], where the smell of tar and hemp was his first scent. At twelve, his father apprenticed him to **Captain Merillos**, a gruff merchant vessel commander who saw potential in the lean boy's willingness to work beyond his strength. For fourteen years, Akákios learned every aspect of seamanship—rigging sails in shrieking gales, navigating by stars when compasses failed, coaxing damaged hulls to stay afloat through sheer determination.
 
 By his twenty-fourth year, Akákios had become a specialist in ship repair and fishing harvest management, taking charge of preservation techniques and crew victuals. His reputation for tireless work and honest dealing spread through the port, making him sought after by captains and merchants alike. He has never taken command of his own vessel, content instead to remain the reliable hand upon whom others depend, though whispers suggest he possesses the capability for greater things.
 

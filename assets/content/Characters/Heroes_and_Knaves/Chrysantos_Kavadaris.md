@@ -605,7 +605,7 @@ Chrysántos stands 5'10" tall with a light build. He has light pale skin, black 
 
 Chrysántos was born the second son of a wealthy Byzarian merchant family with trading interests throughout the League's territories. His older brother inherited the family's primary commercial enterprises; Chrysántos received education, capital, and the expectation that he would establish his own mercantile success. Rather than compete directly with his family's operations, he identified an underserved market: wealthy individuals and noble houses seeking custom-crafted luxury goods, rare imports, and items with historical or spiritual significance. He established himself as a merchant-broker and merchant-craftsperson, positioning himself as the intermediary between discerning buyers and the finest artisans, suppliers, and sources throughout the known world.
 
-Over the past eighteen years, he has built an exceptional network spanning the Byzarian League, the City-States of Vedyara, the Kingdom of Tarvénia, and beyond. He maintains direct relationships with master craftspeople, artisans of legendary skill, and suppliers of rare materials. He has cultivated connections with nobles, merchant lords, clergy, and collectors willing to pay extraordinary sums for specific items. Through careful cultivation of reputation and ruthless management of information, he has become indispensable to a particular tier of wealthy clientele who trust him to locate items they had not known existed and to manage acquisitions they preferred to keep discreet.
+Over the past eighteen years, he has built an exceptional network spanning the [[affiliation-byzarianlg|Byzarian League]], the City-States of Vedyara, the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], and beyond. He maintains direct relationships with master craftspeople, artisans of legendary skill, and suppliers of rare materials. He has cultivated connections with nobles, merchant lords, clergy, and collectors willing to pay extraordinary sums for specific items. Through careful cultivation of reputation and ruthless management of information, he has become indispensable to a particular tier of wealthy clientele who trust him to locate items they had not known existed and to manage acquisitions they preferred to keep discreet.
 
 ## Psyche
 
@@ -652,7 +652,7 @@ Chrysántos is driven by the endless accumulation of wealth, influence, and pres
 ### Affiliations
 
 - **Merchant's Guild of the Byzarian League**: His primary professional affiliation, providing legitimacy, protection, and access to guild resources and information networks.
-- **Prosperity Cults of Vénusia**: His fire tattoo marks him as at least peripherally involved with certain fertility and prosperity mystery cults devoted to Vénusia. His actual level of involvement with these groups remains ambiguous even to those who know him well.
+- **Prosperity Cults of [[lore-venusiadty|Vénusia]]**: His fire tattoo marks him as at least peripherally involved with certain fertility and prosperity mystery cults devoted to Vénusia. His actual level of involvement with these groups remains ambiguous even to those who know him well.
 - **The Collector's Circle**: An informal network of wealthy collectors, merchants, and brokers who facilitate transactions among themselves and share information about notable acquisitions and opportunities.
 
 ## Plot Hooks

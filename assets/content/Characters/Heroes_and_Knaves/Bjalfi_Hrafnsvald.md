@@ -592,7 +592,7 @@ Thjótharr stands 6'0" tall with a medium build. He has light fair skin, brown h
 
 # Dossier {#dossier}
 
-Bjalfi was born in a rural settlement of the **Kingdom of Vithgard**, the son of **[[being-hrfnklhrfnsvld|Hrafnkell Hrafnsvald]]**, a soldier who enlisted in Vithgard's levy when Bjalfi was only three years old. With his father away fighting in the border conflicts, Bjalfi was raised primarily by his mother on the family's small farm in the borderlands—a region prone to bandit raids and territorial disputes. He grew up knowing his father only through stories and the occasional brief visit between campaigns.
+Bjalfi was born in a rural settlement of the **[[affiliation-kngdmvthgrd|Kingdom of Vithgard]]**, the son of **[[being-hrfnklhrfnsvld|Hrafnkell Hrafnsvald]]**, a soldier who enlisted in Vithgard's levy when Bjalfi was only three years old. With his father away fighting in the border conflicts, Bjalfi was raised primarily by his mother on the family's small farm in the borderlands—a region prone to bandit raids and territorial disputes. He grew up knowing his father only through stories and the occasional brief visit between campaigns.
 
 At fifteen, his family's lands were attacked by a raider band. Bjalfi's mother died defending the property, and his younger brothers were too small to help. By the time word reached [[being-hrfnklhrfnsvld|Hrafnkell]], it was over. The experience crystallized something in the young man: a burning desire to become strong enough to protect others from similar suffering—and a quiet resentment toward the father who had not been there when it mattered most.
 
@@ -647,9 +647,9 @@ Bjalfi is motivated by a desire to ensure no one else suffers what his family en
 ### Affiliations
 
 - **The Militia of **Vithgard\*\*: Bjalfi's primary affiliation. He is a dedicated member and now a sergeant with increasing responsibility.
-- **The Followers of Týr**: Bjalfi actively participates in worship of the god of order and justice, and his faith is genuine—not merely ritual.
+- **The Followers of [[lore-tyrdty|Týr]]**: Bjalfi actively participates in worship of the god of order and justice, and his faith is genuine—not merely ritual.
 - **[[being-hrfnklhrfnsvld|Hrafnkell Hrafnsvald]] (Father)**: Bjalfi's father, a former soldier turned tentmaker in Vithgard. Their relationship is complicated by years of absence during Bjalfi's childhood and the unspoken weight of his mother's death. They see each other from time to time, and there is love beneath the tension, but reconciliation remains a work in progress.
-- **[[being-thjthrhrfnsvld|Thjótharr Hrafnsvald]] (Uncle)**: Bjalfi's uncle, a renowned clothier in the Kingdom of Norgaad. Though they live in different realms and lead very different lives, the family bond remains. [[being-thjthrhrfnsvld|Thjótharr]]'s connections among nobility have occasionally proven useful, and Bjalfi's martial reputation lends a certain rugged credibility to the Hrafnsvald name that his uncle quietly appreciates.
+- **[[being-thjthrhrfnsvld|Thjótharr Hrafnsvald]] (Uncle)**: Bjalfi's uncle, a renowned clothier in the [[affiliation-kingdmnrgd|Kingdom of Norgaad]]. Though they live in different realms and lead very different lives, the family bond remains. [[being-thjthrhrfnsvld|Thjótharr]]'s connections among nobility have occasionally proven useful, and Bjalfi's martial reputation lends a certain rugged credibility to the Hrafnsvald name that his uncle quietly appreciates.
 
 ## Plot Hooks
 

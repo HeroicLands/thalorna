@@ -602,7 +602,7 @@ Alýkos stands 5'7" tall with a medium build. He has light tanned skin, gray hai
 
 # Dossier {#dossier}
 
-Alýkos was born into a merchant family of the Byzarian League, the younger son of a silk trader who expected him to eventually manage family commerce. Yet from childhood, Alýkos demonstrated an obsessive fascination with the mechanisms of the body and the nature of disease. At sixteen, against his father's strong objections, he apprenticed himself to **Physician Theordos**, a respected healer whose small practice operated from a converted storehouse near the harbor district.
+Alýkos was born into a merchant family of the [[affiliation-byzarianlg|Byzarian League]], the younger son of a silk trader who expected him to eventually manage family commerce. Yet from childhood, Alýkos demonstrated an obsessive fascination with the mechanisms of the body and the nature of disease. At sixteen, against his father's strong objections, he apprenticed himself to **Physician Theordos**, a respected healer whose small practice operated from a converted storehouse near the harbor district.
 
 Theordos recognized immediately that Alýkos possessed not merely intelligence but a rare combination of precise observation, logical reasoning, and genuine compassion for the suffering. For twelve years, Alýkos worked as apprentice, then journeyman, absorbing medical knowledge both from formal study of inherited texts and from the relentless practice of treating diverse patients. At twenty-eight, he completed his training and established his own practice, which quickly became renowned throughout the League's merchant and noble circles.
 
