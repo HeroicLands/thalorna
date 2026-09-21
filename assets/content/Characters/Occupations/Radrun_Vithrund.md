@@ -554,7 +554,7 @@ Rádrún Vithrúnd is a 22-year-old woman who stands 5'9" tall and is slender. S
 
 # Dossier {#dossier}
 
-Born in the Vrystwald region to a freeman family of Varokhi heritage, Rádrún Vithrúnd came into the world of the prostitute through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Rádrún Vithrúnd came into the world of the prostitute through a combination of circumstance and aptitude.
 
 Rádrún also works in the same brothel as Nyssa, secretly serving the Gray Tide. While she entertains clients, she discreetly acts as a lookout and messenger for the organization. Rádrún is known for her ability to blend into the background and overhear valuable information. Despite her involvement with the Tide, she remains conflicted about her choices and the risks involved in her double life.
 

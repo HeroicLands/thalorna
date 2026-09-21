@@ -555,7 +555,7 @@ Féthar Óthral is a 40-year-old man who stands 6'1" tall and is of moderate bui
 
 # Dossier {#dossier}
 
-Born in the Élavendre region to a freeman family of Élavendri heritage, Féthar Óthral came into the world of the potter through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Féthar Óthral came into the world of the potter through a combination of circumstance and aptitude.
 
 Féthar is a seasoned potter known for his expertise in creating sturdy stoneware. He has spent years perfecting his techniques and often teaches apprentices in his workshop. Féthar values the practical aspects of pottery and believes in producing items that can withstand daily use. His reputation for quality has earned him a loyal customer base, and he often collaborates with local artisans to create unique pieces.
 

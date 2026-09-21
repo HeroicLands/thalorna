@@ -551,7 +551,7 @@ Pórena Dhárel is a 28-year-old woman who stands 5'8" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the Élavendre region to a freeman family of Élavendri heritage, Pórena Dhárel came into the world of the longshorewoman through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Pórena Dhárel came into the world of the longshorewoman through a combination of circumstance and aptitude.
 
 Pórena has worked as a longshorewoman since she was a teenager, breaking stereotypes in a traditionally male-dominated field. She is known for her agility and ability to navigate the busy docks efficiently. Pórena has earned respect among her colleagues for her skills in cargo handling and is often called upon to mentor new workers. She takes pride in her work and is determined to show that women can excel in this profession.
 

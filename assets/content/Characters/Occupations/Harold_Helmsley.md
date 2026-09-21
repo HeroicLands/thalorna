@@ -556,7 +556,7 @@ Harold Helmsley is a 45-year-old man who stands 6'3" tall and is of moderate bui
 
 # Dossier {#dossier}
 
-Born in the Aelwyth region to a peasant family of Aelwythan heritage, Harold Helmsley came into the world of the animal trainer through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a peasant family of Aelwythan heritage, Harold Helmsley came into the world of the animal trainer through a combination of circumstance and aptitude.
 
 Harold grew up on a farm and has spent his life training draft animals. Known for his patience, he is called upon when unruly horses or oxen need breaking in.
 

@@ -558,7 +558,7 @@ Zádìmêros Mâkîthôn is a 45-year-old man who stands 5'6" tall and is of mod
 
 # Dossier {#dossier}
 
-Born in the Heliónis region to a guilded family of Helionite heritage, Zádìmêros Mâkîthôn came into the world of the cartographer/artist through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Heliónis]] region to a guilded family of Helionite heritage, Zádìmêros Mâkîthôn came into the world of the cartographer/artist through a combination of circumstance and aptitude.
 
 Zádìmêros is a skilled cartographer known for his detailed maps of the surrounding region. Originally trained as an artist, he turned to mapmaking when he realized the lucrative opportunities it offered. His work is sought after by merchants, explorers, and nobles alike, though he has also been accused of selling sensitive maps to rival factions.
 

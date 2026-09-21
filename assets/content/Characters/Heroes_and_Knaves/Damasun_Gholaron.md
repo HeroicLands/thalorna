@@ -616,13 +616,13 @@ Unknown, but clearly present. Parma avoids certain ports, certain people, and ce
 
 ### Affiliations
 
-Passenger and informal counselor aboard the **Tamzîr**. He claims affiliation with a minor contemplative order in Heliónis, but the order's records, if checked, would prove curiously incomplete.
+Passenger and informal counselor aboard the **Tamzîr**. He claims affiliation with a minor contemplative order in [[place-helionis|Heliónis]], but the order's records, if checked, would prove curiously incomplete.
 
 ## Plot Hooks
 
 1. **The Past Arrives**: A stranger in a port city recognizes Parma and addresses him by a different name — a name that carries weight and danger. Parma's carefully constructed new identity begins to unravel, and the crew must decide how much they need to know about the old man's past.
 
-2. **The Confessor's Burden**: Parma has been quietly corresponding with someone about the Ordo Arcanis. He knows more about the organization than he has revealed — perhaps more than is safe. When an opportunity arises to strike at the Ordo's interests, Parma has the knowledge to make it possible, but using it would expose who he once was.
+2. **The Confessor's Burden**: Parma has been quietly corresponding with someone about the [[affiliation-ordoarcanis|Ordo Arcanis]]. He knows more about the organization than he has revealed — perhaps more than is safe. When an opportunity arises to strike at the Ordo's interests, Parma has the knowledge to make it possible, but using it would expose who he once was.
 
 3. **Crisis of Faith**: An event aboard the Tamzîr shakes Parma's already fragile faith to its foundation. The crew must contend with the possibility that their steadfast spiritual anchor is coming apart, and that the darkness in Parma's past may be closer to the surface than anyone realized.
 

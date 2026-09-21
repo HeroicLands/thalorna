@@ -546,7 +546,7 @@ Delânash is matter-of-fact and practical, with little patience for ornamentatio
 
 ### Motivation
 
-Delânash's primary motivation is the garrison itself—ensuring it functions effectively and that its soldiers survive their tours of duty. She has made peace with her status as tribal outsider by committing entirely to institutional loyalty. Her secondary motivation is proving that desert-born warriors can be professional soldiers, not merely tribal mercenaries. She wants the fortress to become a model that expands across Dunhara.
+Delânash's primary motivation is the garrison itself—ensuring it functions effectively and that its soldiers survive their tours of duty. She has made peace with her status as tribal outsider by committing entirely to institutional loyalty. Her secondary motivation is proving that desert-born warriors can be professional soldiers, not merely tribal mercenaries. She wants the fortress to become a model that expands across [[place-dunharargn|Dunhara]].
 
 ### Strengths
 

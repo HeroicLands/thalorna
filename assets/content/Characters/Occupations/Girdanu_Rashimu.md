@@ -556,7 +556,7 @@ Girdanû Rashîmû is a 42-year-old man who stands 6'1" tall and is broad and so
 
 # Dossier {#dossier}
 
-Born in the Harad region to a freeman family of Haradian heritage, Girdanû Rashîmû came into the world of the gladiator through a combination of circumstance and aptitude.
+Born in the [[place-haradregin|Harad]] region to a freeman family of Haradian heritage, Girdanû Rashîmû came into the world of the gladiator through a combination of circumstance and aptitude.
 
 Girdanû began his career as a laborer in the city’s quarries, using his strength to break stone. After being accused of a crime he did not commit, he was sent to the arena as punishment. Girdanû proved to be a formidable fighter, and his natural strength helped him win numerous battles. Now a free man, he continues to fight in the arena for the money and respect it brings.
 

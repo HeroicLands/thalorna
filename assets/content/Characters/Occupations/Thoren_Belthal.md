@@ -562,7 +562,7 @@ Thóren Bélthal is a 49-year-old man who stands 5'11" tall and is broad and sol
 
 # Dossier {#dossier}
 
-Born in the Élavendre region to a freeman family of Élavendri heritage, Thóren Bélthal came into the world of the shipwright through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Thóren Bélthal came into the world of the shipwright through a combination of circumstance and aptitude.
 
 Thóren has spent his entire life by the sea, learning the craft of shipbuilding from his father. Over the years, he has built and repaired countless ships for sailors and merchants. Known for his skill and attention to detail, Thóren takes pride in his work but often finds himself at odds with clients who want things done faster and cheaper. Despite his gruff exterior, he has a deep respect for the sea and the ships that sail upon it.
 

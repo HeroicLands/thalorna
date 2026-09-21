@@ -553,7 +553,7 @@ Ghârîdos Mûrâdês is a 30-year-old man who stands 6'3" tall and is broad and
 
 # Dossier {#dossier}
 
-Born in the Heliónis region to a freeman family of Helionite heritage, Ghârîdos Mûrâdês came into the world of the longshoreman through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Ghârîdos Mûrâdês came into the world of the longshoreman through a combination of circumstance and aptitude.
 
 Ghârîdos has spent the last decade working on the docks, where he has become a vital part of the shipping and cargo handling operations. Known for his strength and reliability, he often takes on the heaviest loads and is responsible for ensuring that cargo is loaded and unloaded safely and efficiently. Ghârîdos enjoys the camaraderie of his fellow workers and takes pride in the essential role he plays in trade.
 

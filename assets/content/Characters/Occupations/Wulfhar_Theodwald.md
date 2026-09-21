@@ -550,7 +550,7 @@ Wulfhár Theódwald is a 30-year-old man who stands 6'1" tall and is broad and s
 
 # Dossier {#dossier}
 
-Born in the Vrystwald region to a freeman family of Varokhi heritage, Wulfhár Theódwald came into the world of the huscarl through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Wulfhár Theódwald came into the world of the huscarl through a combination of circumstance and aptitude.
 
 Wulfhár is known for his intimidating presence and fearlessness in battle. He serves Lord Hrothgar and has built a reputation as a reliable and fierce protector. Wulfhár has a strong bond with his fellow huscarls and often trains them in combat techniques. While he thrives in battle, he struggles to express his emotions outside of it.
 

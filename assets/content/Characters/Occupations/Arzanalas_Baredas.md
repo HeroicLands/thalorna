@@ -554,7 +554,7 @@ Arzânalàs Bâredâs is a 54-year-old man who stands 6'2" tall and is broad and
 
 # Dossier {#dossier}
 
-Born in the Vylaría region to a freeman family of Vylarian heritage, Arzânalàs Bâredâs came into the world of the huscarl through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Arzânalàs Bâredâs came into the world of the huscarl through a combination of circumstance and aptitude.
 
 Arzânalàs has dedicated his life to serving as a huscarl for Lord Halvar. With decades of experience, he is a seasoned warrior known for his exceptional skills in combat and strategy. Arzânalàs has fought in many battles, earning respect for his resilience and tactical mind. Now, he serves as a mentor to younger warriors, sharing his knowledge and experience to prepare them for the challenges ahead.
 

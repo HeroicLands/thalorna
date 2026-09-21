@@ -577,7 +577,7 @@ Dôren is a towering man of twenty-eight, standing six foot four with a heavy, m
 
 # Dossier {#dossier}
 
-Dôren hails from the rugged highlands of Provènzia, where he was once a farmer. That life ended when his village was raided and destroyed during a border skirmish. With nothing left—no home, no family, no reason to stay—he joined a local militia to seek vengeance. He quickly rose through the ranks on the strength of his raw physical power and his utter fearlessness in battle.
+Dôren hails from the rugged highlands of [[place-provenzrgn|Provènzia]], where he was once a farmer. That life ended when his village was raided and destroyed during a border skirmish. With nothing left—no home, no family, no reason to stay—he joined a local militia to seek vengeance. He quickly rose through the ranks on the strength of his raw physical power and his utter fearlessness in battle.
 
 His reputation as a fighter drew the attention of Brànwâal, who recruited him into the [[affiliation-slntlncmpny|Silent Talon]] for his resilience and brute force. Dôren has been with the band ever since, finding in it the family he lost. He fights with an axe and shield in the old highland style—direct, brutal, and unrelenting.
 

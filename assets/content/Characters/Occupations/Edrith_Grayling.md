@@ -554,7 +554,7 @@ Edrith Grayling is a 28-year-old woman who stands 5'8" tall and is slender. She 
 
 # Dossier {#dossier}
 
-Born in the Aelwyth region to a freeman family of Aelwythan heritage, Edrith Grayling came into the world of the hideworker through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Edrith Grayling came into the world of the hideworker through a combination of circumstance and aptitude.
 
 Edrith learned the art of hideworking from her mother, who taught her the secrets of tanning and crafting leather into beautiful items. She specializes in creating garments and accessories that are both functional and fashionable. Edrith is known for her creativity and eye for design, and she often incorporates intricate patterns into her work. While she enjoys her craft, she faces challenges in a male-dominated trade.
 

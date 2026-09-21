@@ -558,7 +558,7 @@ Bràzenlâs Vânamyês is a 52-year-old man who stands 6'0" tall and is of moder
 
 # Dossier {#dossier}
 
-Born in the Vylaría region to a freeman family of Vylarian heritage, Bràzenlâs Vânamyês came into the world of the embalmer through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Bràzenlâs Vânamyês came into the world of the embalmer through a combination of circumstance and aptitude.
 
 Bràzenlâs has been an embalmer for over three decades, following in the footsteps of his father and grandfather. He is a traditionalist who adheres to the old methods of preservation and respects the ancient customs of the trade. Bràzenlâs believes that the dead must be prepared properly to ensure their peaceful passage to the afterlife. While he is dedicated and skilled, his somber nature and adherence to tradition make him appear unapproachable to some.
 

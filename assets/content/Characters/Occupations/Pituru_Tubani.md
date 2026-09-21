@@ -559,7 +559,7 @@ Pitûrû Tûbanî is a 30-year-old man who stands 5'11" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the Harad region to a freeman family of Haradian heritage, Pitûrû Tûbanî came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
+Born in the [[place-haradregin|Harad]] region to a freeman family of Haradian heritage, Pitûrû Tûbanî came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
 
 Pitûrû has always been fascinated by the art of siege warfare and demolition. He trained as a sapper under a seasoned engineer and has become skilled in setting traps and demolishing structures. Pitûrû is known for his meticulous planning and ability to work under pressure. He is dedicated to his craft and takes pride in ensuring that his work is both effective and safe.
 

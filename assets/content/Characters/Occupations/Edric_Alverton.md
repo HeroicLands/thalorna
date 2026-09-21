@@ -557,7 +557,7 @@ Edric Alverton is a 53-year-old man who stands 5'11" tall and is broad and solid
 
 # Dossier {#dossier}
 
-Born in the Aelwyth region to a freeman family of Aelwythan heritage, Edric Alverton came into the world of the farmer through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Edric Alverton came into the world of the farmer through a combination of circumstance and aptitude.
 
 Edric has worked his small farm for decades, growing a variety of vegetables and raising livestock. He values hard work and takes pride in his self-sufficiency. Known for his gruff but kind demeanor, Edric often lends a hand to his neighbors when they are in need. While farming has taken a toll on his body, he refuses to give up the life he loves.
 

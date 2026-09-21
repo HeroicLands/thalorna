@@ -555,7 +555,7 @@ Thésia Delvánor is a 29-year-old woman who stands 5'10" tall and is of moderat
 
 # Dossier {#dossier}
 
-Born in the Tarvénia region to a freeman family of Tarvénan heritage, Thésia Delvánor came into the world of the mercenary through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Thésia Delvánor came into the world of the mercenary through a combination of circumstance and aptitude.
 
 Thésia is a skilled fighter and mercenary who has built a reputation for her combat prowess. With a strong moral code, she takes on jobs that align with her beliefs, often defending the downtrodden and fighting against oppression. Thésia is known for her bravery and willingness to put herself in harm's way to protect others. She dreams of one day forming her own mercenary company.
 

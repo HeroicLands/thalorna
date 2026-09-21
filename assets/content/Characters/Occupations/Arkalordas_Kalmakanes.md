@@ -558,7 +558,7 @@ Arkálòrdâs Kâlmâkanês is a 37-year-old man who stands 6'4" tall and is bro
 
 # Dossier {#dossier}
 
-Born in the Vylaría region to a freeman family of Vylarian heritage, Arkálòrdâs Kâlmâkanês came into the world of the common seaman through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Arkálòrdâs Kâlmâkanês came into the world of the common seaman through a combination of circumstance and aptitude.
 
 Arkálòrdâs is a seasoned sailor with many tales of the sea. He has faced storms and adventures, earning a reputation as a fearless seaman. Known for his strength and experience, Arkálòrdâs often takes on leadership roles aboard the ship, assisting the captain in decision-making. He is a mentor to younger sailors, sharing his knowledge of seamanship and safety at sea.
 

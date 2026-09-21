@@ -607,7 +607,7 @@ sohl:
 
 ### Early Years and Tragedy
 
-Born to a merchant family in the Byzarian League, Ángelides was raised with every advantage—education, connections, and exposure to the finer pleasures of the cosmopolitan cities of the north. His childhood was spent in the marketplace stalls of his family's perfume house, where he learned to distinguish thousands of scents, to understand the poetry of olfaction, and to recognize how fragrance shapes emotion and memory. At seventeen, he was betrothed to a young woman of equal standing, **Lady Thessal Kantakouzenós**—a marriage that was to unite two powerful merchant families.
+Born to a merchant family in the [[affiliation-byzarianlg|Byzarian League]], Ángelides was raised with every advantage—education, connections, and exposure to the finer pleasures of the cosmopolitan cities of the north. His childhood was spent in the marketplace stalls of his family's perfume house, where he learned to distinguish thousands of scents, to understand the poetry of olfaction, and to recognize how fragrance shapes emotion and memory. At seventeen, he was betrothed to a young woman of equal standing, **Lady Thessal Kantakouzenós**—a marriage that was to unite two powerful merchant families.
 
 On the night of their wedding, tragedy struck. A rival merchant house, jealous of his family's dominance in the lucrative perfume trade, orchestrated an attack. Ángelides survived only by chance—his would-be assassin's blade struck his neck rather than his heart. His betrothed was not so fortunate. Thessal died in his arms, whispering words of forgiveness rather than recrimination, even as her blood stained the silken wedding garments they both wore.
 

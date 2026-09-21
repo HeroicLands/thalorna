@@ -595,7 +595,7 @@ Càndrathar stands 5'7" tall with a medium build. He has tawny brown skin, grayi
 
 # Dossier {#dossier}
 
-Born to the merchant guild families of Vedyara's merchant quarter, Càndrathar was marked early for the apothecary's art. His family had connections to the ancient knowledge-keepers, and as a youth he apprenticed under the legendary **Master Karī Dharmendra**, learning not merely which herbs heal and which kill, but the deeper principles of their essences and interactions. The fires of the Apothecaries' Guild burned brightly in his spirit then—a desire to ease suffering, to preserve life. He rose swiftly through the guild ranks, his keen perception and extraordinary skill with Herblore marking him as exceptional.
+Born to the merchant guild families of [[place-vedyarargn|Vedyara]]'s merchant quarter, Càndrathar was marked early for the apothecary's art. His family had connections to the ancient knowledge-keepers, and as a youth he apprenticed under the legendary **Master Karī Dharmendra**, learning not merely which herbs heal and which kill, but the deeper principles of their essences and interactions. The fires of the Apothecaries' Guild burned brightly in his spirit then—a desire to ease suffering, to preserve life. He rose swiftly through the guild ranks, his keen perception and extraordinary skill with Herblore marking him as exceptional.
 
 Yet prosperity and renown drew attention of a different sort. Nobles with poisoned rivals, merchants seeking to dissolve inconvenient competitors, and the shadowed folk who dwell in the margins of respectable society all began to find their way to his door. Càndrathar discovered that the coin paid for a cure could be matched—and often exceeded—by coin paid for a bane. For the last two decades, he has walked an increasingly precarious line between healer and harbinger of death, his hands as likely to wield salvation as damnation. He maintains his legitimate apothecary practice, and indeed his remedies are among the finest in Vedyara, but whispers follow him through the guild halls like smoke.
 
@@ -639,7 +639,7 @@ Càndrathar is driven by survival—not merely physical survival, but the preser
 
 - **Apothecary Mandávar the Accuser**: The most vocal critic within the Apothecaries' Guild, Mandávar has been attempting for years to prove that Càndrathar engages in poison-craft and murder-for-hire. His investigations have come dangerously close to truth on several occasions, and Càndrathar lives in constant fear of what evidence Mandávar might uncover—or manufacture.
 - **The Crimson Sisters (Assassins' Collective)**: A loose confederacy of professional killers who view Càndrathar's poison-work as encroachment on their exclusive domain. There is unspoken war between them; each has attempted to frame the other for high-profile murders.
-- **Temple of Rásikara's Inquisitors**: The clergy of his own patron deity have grown concerned by rumors of his activities. Several clerics suspect him of desecrating the sacred fire of Rásikara through his abuse of divine knowledge for profane ends.
+- **Temple of [[lore-rasikaradty|Rásikara]]'s Inquisitors**: The clergy of his own patron deity have grown concerned by rumors of his activities. Several clerics suspect him of desecrating the sacred fire of Rásikara through his abuse of divine knowledge for profane ends.
 
 ### Affiliations
 

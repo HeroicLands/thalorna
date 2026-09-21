@@ -555,7 +555,7 @@ sohl:
 
 # Dossier {#dossier}
 
-Born in the Heliónis region to a noble family of Helionite heritage, Ázîta Râkhrîdês came into the world of the mercantyler through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Heliónis]] region to a noble family of Helionite heritage, Ázîta Râkhrîdês came into the world of the mercantyler through a combination of circumstance and aptitude.
 
 Ázîta is a savvy mercantyler who specializes in the import of spices and exotic goods from distant lands. She has built a reputation for her expertise in sourcing unique products and establishing fair trade agreements. Ázîta is well-connected in both local and international markets, allowing her to navigate the complexities of trade with ease.
 

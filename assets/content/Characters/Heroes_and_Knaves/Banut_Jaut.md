@@ -639,7 +639,7 @@ Her greatest weakness is her tendency to see the best in people and to trust imp
 
 ### Motivation
 
-Bânut is driven by the desire to heal suffering and to prove that her brother's death was not meaningless—that through her work, she can prevent other families from experiencing the loss that devastated hers. She believes her gifts are sacred, intended by the divine Ra for the benefit of the suffering, and that to charge excessive prices or deny treatment to those in need would be a betrayal of her purpose. She also harbors a secret desire for redemption—though Kephren's death was not her fault, she has never fully absolved herself of the belief that she could have done something more, something better. Her healing work is, in part, an attempt to achieve that impossible absolution through countless other successes.
+Bânut is driven by the desire to heal suffering and to prove that her brother's death was not meaningless—that through her work, she can prevent other families from experiencing the loss that devastated hers. She believes her gifts are sacred, intended by the divine [[lore-radty|Rā]] for the benefit of the suffering, and that to charge excessive prices or deny treatment to those in need would be a betrayal of her purpose. She also harbors a secret desire for redemption—though Kephren's death was not her fault, she has never fully absolved herself of the belief that she could have done something more, something better. Her healing work is, in part, an attempt to achieve that impossible absolution through countless other successes.
 
 ### Strengths
 

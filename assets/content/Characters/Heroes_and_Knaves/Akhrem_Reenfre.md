@@ -652,7 +652,7 @@ Additionally, Akhrem carries a private mission to discover and preserve knowledg
 
 ### Patrons
 
-- **Lord Vaskan of the Southern March**: A noble who has contracted Akhrem for decades, providing both animal resources and payment in exchange for trained beasts for noble hunts and the occasional military campaign. Vaskan is one of the few humans Akhrem genuinely respects, as the lord treats animals with consideration.
+- **Lord Vaskan of the [[place-southrnmrch|Southern March]]**: A noble who has contracted Akhrem for decades, providing both animal resources and payment in exchange for trained beasts for noble hunts and the occasional military campaign. Vaskan is one of the few humans Akhrem genuinely respects, as the lord treats animals with consideration.
 - **The Temple of Sacred Beasts**: A religious institution that occasionally seeks Akhrem's expertise for the training and care of sacred creatures used in ceremonies, offering both prestige and reasonable compensation.
 - **The Merchant Consortium**: Wealthy traders occasionally hire Akhrem to train guard beasts, assess the condition of animals brought through the trade routes, or consult on the transport and care of exotic creatures destined for distant markets.
 

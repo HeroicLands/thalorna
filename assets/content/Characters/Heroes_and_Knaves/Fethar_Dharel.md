@@ -570,7 +570,7 @@ Féthar Dhárel is a man who looks like he wandered off a Provenzian promenade a
 
 ### Origin
 
-Féthar grew up in a landlocked river town in northern Provènzia, the son of a dyer. From childhood he had an inexplicable fascination with water and boats, spending every spare hour messing about on the river in whatever craft he could borrow or build. He was an excellent fisherman, supplementing his family's income, but there was always something restless in him — a pull toward horizons he could not see from the riverbank.
+Féthar grew up in a landlocked river town in northern [[place-provenzrgn|Provènzia]], the son of a dyer. From childhood he had an inexplicable fascination with water and boats, spending every spare hour messing about on the river in whatever craft he could borrow or build. He was an excellent fisherman, supplementing his family's income, but there was always something restless in him — a pull toward horizons he could not see from the riverbank.
 
 ### Finding the Sea
 
@@ -582,7 +582,7 @@ Féthar joined the Tamzîr seven years ago, hired as a replacement pilot after t
 
 ### Marriage
 
-Féthar married Sélvara Válskyr three years ago, and their relationship is the ship's worst-kept secret turned open joy. He is besotted with his wife in a way that is both genuine and slightly comedic, and he is amusingly insecure about measuring up to the legendary warrior woman he somehow convinced to marry him. The crew alternately finds this endearing and insufferable.
+Féthar married [[being-slvrvlskyr|Sélvara Válskyr]] three years ago, and their relationship is the ship's worst-kept secret turned open joy. He is besotted with his wife in a way that is both genuine and slightly comedic, and he is amusingly insecure about measuring up to the legendary warrior woman he somehow convinced to marry him. The crew alternately finds this endearing and insufferable.
 
 ## Psyche
 
@@ -596,7 +596,7 @@ Féthar is motivated by love — for his wife, for the sea, for the strange fami
 
 ### Strengths
 
-He is arguably the finest pilot on the Vylarian Sea, with an almost supernatural feel for ships and water. He is also the crew's emotional glue — his humor and warmth keep morale from collapsing during hard times. He is clever, observant in his own way, and possessed of a courage that is all the more impressive for being quiet rather than dramatic.
+He is arguably the finest pilot on the [[place-vylarianse|Vylarian Sea]], with an almost supernatural feel for ships and water. He is also the crew's emotional glue — his humor and warmth keep morale from collapsing during hard times. He is clever, observant in his own way, and possessed of a courage that is all the more impressive for being quiet rather than dramatic.
 
 ### Weaknesses
 
@@ -622,4 +622,4 @@ Pilot of the **Tamzîr**. Husband of **Sélvara Válskyr**. He maintains occasio
 
 2. **River and Sea**: Féthar receives word that his hometown is threatened by flooding after a dam collapse upriver. His family needs help, and his intimate knowledge of the river system could save lives — but reaching them means leaving the Tamzîr at a critical moment.
 
-3. **The Uncharted Passage**: An ancient chart surfaces suggesting a hidden sea passage through a treacherous archipelago that could cut weeks off the journey between Harad and the northern ports. Only a pilot of extraordinary skill could navigate it. The potential profit is enormous, but the chart may be incomplete — or a trap.
+3. **The Uncharted Passage**: An ancient chart surfaces suggesting a hidden sea passage through a treacherous archipelago that could cut weeks off the journey between [[place-haradregin|Harad]] and the northern ports. Only a pilot of extraordinary skill could navigate it. The potential profit is enormous, but the chart may be incomplete — or a trap.

@@ -553,7 +553,7 @@ Elfreda Lewknor is a 28-year-old woman who stands 5'10" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the Aelwyth region to a freeman family of Aelwythan heritage, Elfreda Lewknor came into the world of the farmer through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Elfreda Lewknor came into the world of the farmer through a combination of circumstance and aptitude.
 
 Elfreda grew up on her family's farm, where she learned to tend to animals and grow vegetables. After her parents passed away, she took over the management of the farm and has worked hard to maintain its productivity. Elfreda is innovative and open to new agricultural practices, often experimenting with different crops and techniques to improve yields.
 

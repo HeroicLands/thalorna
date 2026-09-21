@@ -555,7 +555,7 @@ sohl:
 
 # Dossier {#dossier}
 
-Born in the Provènzia region to a noble family of Provenzian heritage, Óskar Brýlond came into the world of the mercantyler through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provènzia]] region to a noble family of Provenzian heritage, Óskar Brýlond came into the world of the mercantyler through a combination of circumstance and aptitude.
 
 Óskar has been in the mercantile business for decades, specializing in the trade of precious metals and gems. He is known for his integrity and expertise in evaluating the worth of goods. Óskar often advises young traders and is respected for his extensive knowledge of the market and negotiation tactics. He values honesty and strives to create lasting relationships with his clients.
 

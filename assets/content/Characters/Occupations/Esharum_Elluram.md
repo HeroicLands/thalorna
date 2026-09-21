@@ -555,7 +555,7 @@ Eshârum Ellûram is a 29-year-old man who stands 5'7" tall and is lean and wiry
 
 # Dossier {#dossier}
 
-Born in the Harad region to a freeman family of Haradian heritage, Eshârum Ellûram came into the world of the domestic servant through a combination of circumstance and aptitude.
+Born in the [[place-haradregin|Harad]] region to a freeman family of Haradian heritage, Eshârum Ellûram came into the world of the domestic servant through a combination of circumstance and aptitude.
 
 Eshârum works as a footman in a city manor, attending to the needs of his employer and guests. He is quick and attentive, with a polite manner that makes him well-suited to his role. Eshârum dreams of one day opening his own small business, but for now, he is focused on earning enough to support his family.
 

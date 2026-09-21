@@ -554,7 +554,7 @@ Sahîra Tâbîrês is a 29-year-old woman who stands 5'11" tall and is of modera
 
 # Dossier {#dossier}
 
-Born in the Heliónis region to a noble family of Helionite heritage, Sahîra Tâbîrês came into the world of the scribe through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Heliónis]] region to a noble family of Helionite heritage, Sahîra Tâbîrês came into the world of the scribe through a combination of circumstance and aptitude.
 
 Sahîra is a skilled scribe known for her elegant handwriting and meticulous attention to detail. She works in a busy urban office, where she transcribes documents, letters, and legal texts for merchants and noble families. Sahîra takes great pride in her work and is often sought after for her ability to create beautiful manuscripts. In her spare time, she enjoys studying literature and dreams of writing her own book someday.
 

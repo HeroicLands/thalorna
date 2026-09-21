@@ -604,7 +604,7 @@ Athalwa stands 5'10" tall with a medium build. She has pale fair skin, blonde ha
 
 ### Born to Unorthodoxy
 
-Athalwa was the second child of **Chieftain Vorthgar Vithrúnd**, born during an unusual winter when the omens were considered ambiguous at best. Unlike her older brother Raeth, who showed early aptitude for the traditional chieftain's role—leading hunts, mediating disputes, upholding ancient law—Athalwa demonstrated an unusual combination of mystical sensitivity and tactical brilliance. As a child, she experienced visions of battles not yet fought and landscapes beyond the Vrystwald borders. The elders debated whether she was blessed or cursed.
+Athalwa was the second child of **Chieftain Vorthgar Vithrúnd**, born during an unusual winter when the omens were considered ambiguous at best. Unlike her older brother Raeth, who showed early aptitude for the traditional chieftain's role—leading hunts, mediating disputes, upholding ancient law—Athalwa demonstrated an unusual combination of mystical sensitivity and tactical brilliance. As a child, she experienced visions of battles not yet fought and landscapes beyond the [[affiliation-vrystwldtrbs|Vrystwald]] borders. The elders debated whether she was blessed or cursed.
 
 ### The Warrior's Calling
 
@@ -644,7 +644,7 @@ Athalwa's primary motivation is the survival and flourishing of the Vrystwald Tr
 - **Political Vulnerability**: As a female chieftain operating outside traditional frameworks, Athalwa is perpetually vulnerable to challenges from conservative factions within her own people. Her authority, though real, remains contested.
 - **Emotional Distance**: Her tendency to perceive events in larger, longer timescales than others makes her sometimes seem cold and dismissive of immediate human suffering. Warriors and clan members occasionally feel she values strategic outcomes over their wellbeing.
 - **Limited Diplomatic Subtlety**: While effective with direct negotiations, Athalwa sometimes misses the nuances of courtly politics in more sophisticated realms. The Byzarian League and other complex political entities sometimes take advantage of her more straightforward approach.
-- **Dependence on Visions**: Should her mystical abilities fade or prove unreliable, her authority would be severely compromised. The elders already doubt her connection to Ymir; evidence of false visions could destroy her completely.
+- **Dependence on Visions**: Should her mystical abilities fade or prove unreliable, her authority would be severely compromised. The elders already doubt her connection to [[lore-ymirdty|Ymir]]; evidence of false visions could destroy her completely.
 
 ## Social
 

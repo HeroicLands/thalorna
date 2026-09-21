@@ -559,7 +559,7 @@ Hârlak Válskyr is a 38-year-old man who stands 6'1" tall and is broad and soli
 
 # Dossier {#dossier}
 
-Born in the Provènzia region to a freeman family of Provenzian heritage, Hârlak Válskyr came into the world of the animal trainer through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Hârlak Válskyr came into the world of the animal trainer through a combination of circumstance and aptitude.
 
 A rugged animal trainer who works with hunting dogs. Braden has a talent for taming wild beasts and often participates in local hunts.
 

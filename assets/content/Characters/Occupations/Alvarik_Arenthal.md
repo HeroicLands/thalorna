@@ -557,7 +557,7 @@ Alvárik Árenthal is a 41-year-old man who stands 6'2" tall and is broad and so
 
 # Dossier {#dossier}
 
-Born in the Tarvénia region to a freeman family of Tarvénan heritage, Alvárik Árenthal came into the world of the farmer through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Alvárik Árenthal came into the world of the farmer through a combination of circumstance and aptitude.
 
 Alvárik comes from a long line of farmers and has spent his life tending the fields. He grows wheat and barley on his family's land, which has been passed down through generations. Alvárik is a hardworking and practical man who takes pride in the quality of his crops. Though life as a farmer can be difficult, he finds fulfillment in the cycles of planting and harvest.
 

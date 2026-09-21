@@ -555,7 +555,7 @@ Zahîra Tâbîrês is a 32-year-old woman who stands 5'7" tall and is slender. S
 
 # Dossier {#dossier}
 
-Born in the Heliónis region to a freeman family of Helionite heritage, Zahîra Tâbîrês came into the world of the tentmaker through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Zahîra Tâbîrês came into the world of the tentmaker through a combination of circumstance and aptitude.
 
 Zahîra learned the craft of tentmaking from her father, who ran a small shop in a rural town. After his passing, she took over the business and continued supplying tents to local farmers, merchants, and travelers. Zahîra is known for her intricate stitching and the decorative designs she incorporates into her work. Although her products are beautiful, some customers question their durability.
 

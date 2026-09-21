@@ -557,7 +557,7 @@ Wulfrád Hildvith is a 40-year-old man who stands 6'1" tall and is broad and sol
 
 # Dossier {#dossier}
 
-Born in the Vrystwald region to a freeman family of Varokhi heritage, Wulfrád Hildvith came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Wulfrád Hildvith came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
 
 Wulfrád has dedicated his life to the art of siege warfare as a sapper. With years of experience, he is skilled in constructing defensive structures and demolishing enemy fortifications. Known for his practical knowledge and leadership, he often trains new recruits in the art of engineering. Wulfrád believes in the importance of teamwork and often emphasizes safety in his training.
 

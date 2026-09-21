@@ -602,7 +602,7 @@ Alýkos stands 6'0" tall with a medium build. He has light weathered skin, grayi
 
 # Dossier {#dossier}
 
-Alýkos was born into the timber-working tradition of the Byzarian League, son of a master craftsman whose reputation was built on the quality of ships' frames and architectural beams. From age eight, Alýkos worked alongside his father **Theotókis the Elder**, learning to read the grain of timber as one reads text, understanding which trees would yield which properties of wood, and mastering the traditional techniques passed through generations of his family line.
+Alýkos was born into the timber-working tradition of the [[affiliation-byzarianlg|Byzarian League]], son of a master craftsman whose reputation was built on the quality of ships' frames and architectural beams. From age eight, Alýkos worked alongside his father **Theotókis the Elder**, learning to read the grain of timber as one reads text, understanding which trees would yield which properties of wood, and mastering the traditional techniques passed through generations of his family line.
 
 At twenty-two, he completed his formal apprenticeship and became a journeyman, traveling throughout the League to work on prestigious projects—the reinforced beams of merchant halls, the masts of noble vessels, the ornamental woodwork of temple interiors. At thirty, he established his own workshop and took the title of Master when his innovations in joinery technique earned recognition from the Timberwrights' Guild. For the next twenty-three years, he built a reputation as a craftsman of exceptional skill, his work commissioned by the most demanding clients, his designs influencing standards throughout the industry.
 

@@ -555,7 +555,7 @@ Goremdânis Shônyàrdîs is a 35-year-old man who stands 6'1" tall and is of mo
 
 # Dossier {#dossier}
 
-Born in the Vylaría region to a freeman family of Vylarian heritage, Goremdânis Shônyàrdîs came into the world of the musician (lyre) through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Goremdânis Shônyàrdîs came into the world of the musician (lyre) through a combination of circumstance and aptitude.
 
 Goremdânis was raised in a small village where music was a key part of life. He learned to play the lyre from his father and now travels from town to town, sharing his music. Goremdânis’s songs are often inspired by nature, and he is known for his ability to evoke vivid imagery through his music. Though he performs mostly for rural audiences, he dreams of becoming a court musician.
 

@@ -555,7 +555,7 @@ Júlisa Maríthran is a 52-year-old woman who stands 5'10" tall and is of modera
 
 # Dossier {#dossier}
 
-Born in the Tarvénia region to a guilded family of Tarvénan heritage, Júlisa Maríthran came into the world of the innkeeper through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a guilded family of Tarvénan heritage, Júlisa Maríthran came into the world of the innkeeper through a combination of circumstance and aptitude.
 
 Júlisa took over the Maríthran Inn after her husband passed away. She is known for her strength and resilience, managing the inn single-handedly while providing a warm and inviting atmosphere. Júlisa prides herself on her homemade dishes and has built a reputation for her signature stews. While she faces challenges as a single innkeeper, her determination keeps the inn thriving.
 

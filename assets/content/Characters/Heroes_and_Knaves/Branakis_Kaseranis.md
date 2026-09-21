@@ -611,7 +611,7 @@ Most striking is the tattoo adorning his left forearm: a great tree with roots s
 
 ### The Forest's Gift
 
-Bránakis was born in the remote lumber settlements at the edge of the great forests that define the borderlands of the Holy Kingdom of Nartum. His father was a timber harvester, and his mother the daughter of a charcoal maker—the profession seemed almost hereditary, a calling written into the family's very blood. From his earliest memories, Bránakis was surrounded by the smell of wood smoke, the sound of saws cutting through living timber, and the essential knowledge that from fire and ash came the materials that civilization required to survive and flourish.
+Bránakis was born in the remote lumber settlements at the edge of the great forests that define the borderlands of the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]]. His father was a timber harvester, and his mother the daughter of a charcoal maker—the profession seemed almost hereditary, a calling written into the family's very blood. From his earliest memories, Bránakis was surrounded by the smell of wood smoke, the sound of saws cutting through living timber, and the essential knowledge that from fire and ash came the materials that civilization required to survive and flourish.
 
 Unlike many born to humble trades, Bránakis received genuine education—the Holy Kingdom's temples were unusually generous in extending basic literacy and knowledge to children of the lower orders. His mother, in particular, ensured he could read and calculate, understanding that such skills would elevate his craft beyond mere physical labor.
 
@@ -664,7 +664,7 @@ Bránakis is driven by a commitment to excellence that borders on obsession, and
 ### Patrons
 
 - **Master Blacksmith Torvin Ironhand**: The region's most renowned blacksmith who specifically seeks out Bránakis' charcoal for his most important commissions. Torvin is perhaps the only person Bránakis considers a genuine peer.
-- **The Abbey of Vúlcan's Flame**: A monastic order devoted to the fire god, which purchases substantial quantities of charcoal for both practical and spiritual purposes. They also provide some protection and prestige to Bránakis within the religious community.
+- **The Abbey of [[lore-vulcandty|Vúlcan]]'s Flame**: A monastic order devoted to the fire god, which purchases substantial quantities of charcoal for both practical and spiritual purposes. They also provide some protection and prestige to Bránakis within the religious community.
 - **Guild Master Aldus Woodbark**: The head of the Woodworkers' Guild, who has maintained Bránakis' membership despite pressure from younger, more pliable members.
 
 ### Enemies

@@ -529,7 +529,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Brýgar stands 5'9" with a heavy, stocky frame — broad in the chest and thick in the arms, built like a man who has lifted barrels since childhood. His blonde hair is thick and slightly unkempt, and his blue eyes are bright and friendly in a ruddy, dark-complexioned face that flushes easily when he laughs, which is often. His features are round and open, with a broad nose and a wide mouth that seems built for smiling. He is not a handsome man in any refined sense, but there is a warmth to his appearance that puts people at ease. He wears the Chastèlclair merchant-quarter guard uniform — padded tunic, leather bracers, short sword and cudgel at his belt — and has a habit of rolling his sleeves up regardless of weather, exposing thick forearms tanned dark from years of outdoor patrol.
+Brýgar stands 5'9" with a heavy, stocky frame — broad in the chest and thick in the arms, built like a man who has lifted barrels since childhood. His blonde hair is thick and slightly unkempt, and his blue eyes are bright and friendly in a ruddy, dark-complexioned face that flushes easily when he laughs, which is often. His features are round and open, with a broad nose and a wide mouth that seems built for smiling. He is not a handsome man in any refined sense, but there is a warmth to his appearance that puts people at ease. He wears the [[place-chastelclr|Chastèlclair]] merchant-quarter guard uniform — padded tunic, leather bracers, short sword and cudgel at his belt — and has a habit of rolling his sleeves up regardless of weather, exposing thick forearms tanned dark from years of outdoor patrol.
 
 # Dossier {#dossier}
 

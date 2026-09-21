@@ -609,7 +609,7 @@ Dómeth stands 5'11" tall with a heavy build. He has tanned weathered skin, gray
 
 # Dossier {#dossier}
 
-Dómeth was born to shipwrights in the coastal district of Tarvénia, where the sea determines all things and timber is the only true currency. His father, the legendary **Master Toren Gráveth**, was considered the kingdom's finest builder of ocean-going vessels, and Dómeth inherited not merely the trade but a philosophy of absolute dedication to the craft. For thirty-one years, Dómeth worked beside his father, learning that ships are not products but living things—entities that must be honored, understood, and negotiated with rather than imposed upon.
+Dómeth was born to shipwrights in the coastal district of [[place-tarvenirgn|Tarvénia]], where the sea determines all things and timber is the only true currency. His father, the legendary **Master Toren Gráveth**, was considered the kingdom's finest builder of ocean-going vessels, and Dómeth inherited not merely the trade but a philosophy of absolute dedication to the craft. For thirty-one years, Dómeth worked beside his father, learning that ships are not products but living things—entities that must be honored, understood, and negotiated with rather than imposed upon.
 
 When his father passed—drowning in the very sea that had always been his realm—Dómeth inherited both his workshop and his reputation. Rather than expand or capitalize on his inheritance, he deliberately restricted his output, accepting only commissions that met his personal standards. Over the next two decades, he became known not for productivity but for creating ships of such durability and elegance that captains would wait years for a Gráveth vessel and pay premiums without complaint.
 

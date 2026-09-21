@@ -560,7 +560,7 @@ Aldred Harden is a 42-year-old man who stands 5'11" tall and is of moderate buil
 
 # Dossier {#dossier}
 
-Born in the Aelwyth region to a noble family of Aelwythan heritage, Aldred Harden came into the world of the mercantyler through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heritage, Aldred Harden came into the world of the mercantyler through a combination of circumstance and aptitude.
 
 Aldred comes from a wealthy merchant family and has built a successful career as a mercantyler. He specializes in importing and exporting luxury goods, including fine textiles and precious metals. Aldred is known for his keen eye for quality and his ability to establish strong relationships with suppliers and clients. He enjoys the finer things in life and often travels to seek out the best products for his clientele.
 

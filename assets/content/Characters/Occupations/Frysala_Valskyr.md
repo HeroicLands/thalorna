@@ -554,7 +554,7 @@ Frýsala Válskyr is a 42-year-old woman who stands 5'10" tall and is of moderat
 
 # Dossier {#dossier}
 
-Born in the Provènzia region to a noble family of Provenzian heritage, Frýsala Válskyr came into the world of the chieftain through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provènzia]] region to a noble family of Provenzian heritage, Frýsala Válskyr came into the world of the chieftain through a combination of circumstance and aptitude.
 
 Frýsala became chieftain after her father's death in battle, leading her clan with a mix of tradition and innovation. Known for her strategic mind, she has strengthened her tribe's alliances and fortified their lands. Though some elders question her methods, Frýsala's victories against raiders have earned her respect.
 

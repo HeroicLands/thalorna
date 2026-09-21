@@ -551,7 +551,7 @@ Aldous Brandon is a 37-year-old man who stands 6'1" tall and is of moderate buil
 
 # Dossier {#dossier}
 
-Born in the Aelwyth region to a freeman family of Aelwythan heritage, Aldous Brandon came into the world of the charcoaler through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Aldous Brandon came into the world of the charcoaler through a combination of circumstance and aptitude.
 
 Aldous grew up in a family of charcoalers and took over the business after his father’s death. He works in the nearby woods, carefully maintaining his kilns and producing high-quality charcoal. Aldous is more open to new techniques than his father was, and he experiments with different woods to produce charcoal for specific uses.
 

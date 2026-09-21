@@ -554,7 +554,7 @@ Sundwíra Hildvith is a 30-year-old woman who stands 5'9" tall and is of moderat
 
 # Dossier {#dossier}
 
-Born in the Vrystwald region to a freeman family of Varokhi heritage, Sundwíra Hildvith came into the world of the ostler through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Sundwíra Hildvith came into the world of the ostler through a combination of circumstance and aptitude.
 
 Sundwíra has worked as an ostler for many years, focusing on the health and well-being of horses. She is known for her ability to identify problems early, ensuring that horses remain in peak condition. Sundwíra often assists travelers in saddling their horses and provides advice on care and feeding. Her reputation for excellence has earned her the trust of both locals and visiting merchants.
 

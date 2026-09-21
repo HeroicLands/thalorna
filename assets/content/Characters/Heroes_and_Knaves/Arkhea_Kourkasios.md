@@ -608,7 +608,7 @@ Arkhêa stands 5'5" tall with a scant build. She has pale weathered and wrinkled
 
 ### A Woman of Property Lost
 
-Arkhêa was born into the merchant class of the Byzarian League, daughter to a moderately successful fabric trader. Her early life held promise—education, musical training, the prospect of an advantageous marriage. That life ended abruptly when her father invested heavily in a trading venture that was destroyed by pirates. The family's social collapse was swift and thorough. Her mother, unable to survive the loss of status, withdrew into illness. Her father took his own life. By twenty-five, Arkhêa found herself without protection, resources, or a place in the world that once claimed to honor her.
+Arkhêa was born into the merchant class of the [[affiliation-byzarianlg|Byzarian League]], daughter to a moderately successful fabric trader. Her early life held promise—education, musical training, the prospect of an advantageous marriage. That life ended abruptly when her father invested heavily in a trading venture that was destroyed by pirates. The family's social collapse was swift and thorough. Her mother, unable to survive the loss of status, withdrew into illness. Her father took his own life. By twenty-five, Arkhêa found herself without protection, resources, or a place in the world that once claimed to honor her.
 
 ### The Long Descent
 

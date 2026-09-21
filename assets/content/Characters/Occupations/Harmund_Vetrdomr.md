@@ -528,7 +528,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Hármund stands 6'0" even, with a medium build that has gone slightly soft around the middle after twenty-two years of harbor watch rather than field combat. His auburn hair is beginning to thin on top, and he compensates with a thick beard that he keeps trimmed to regulation length. His hazel eyes are his most striking feature — pale and watchful in an olive-skinned face that has aged well for a man of forty. His skin is smooth and largely unscarred, a testament to a career spent managing docks rather than fighting wars. He wears the Greyfjord harbor watch uniform: a heavy wool tunic over quilted padding, leather knee boots, and a broadsword at his hip that sees more use as a visual deterrent than a weapon. A brass harbor-watch badge is pinned to his left breast.
+Hármund stands 6'0" even, with a medium build that has gone slightly soft around the middle after twenty-two years of harbor watch rather than field combat. His auburn hair is beginning to thin on top, and he compensates with a thick beard that he keeps trimmed to regulation length. His hazel eyes are his most striking feature — pale and watchful in an olive-skinned face that has aged well for a man of forty. His skin is smooth and largely unscarred, a testament to a career spent managing docks rather than fighting wars. He wears the [[place-greyfjord|Greyfjord]] harbor watch uniform: a heavy wool tunic over quilted padding, leather knee boots, and a broadsword at his hip that sees more use as a visual deterrent than a weapon. A brass harbor-watch badge is pinned to his left breast.
 
 # Dossier {#dossier}
 

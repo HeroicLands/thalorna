@@ -553,7 +553,7 @@ Ríthara Dómivar is a 22-year-old woman who stands 5'8" tall and is of moderate
 
 # Dossier {#dossier}
 
-Born in the Tarvénia region to a freeman family of Tarvénan heritage, Ríthara Dómivar came into the world of the common seaman through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Ríthara Dómivar came into the world of the common seaman through a combination of circumstance and aptitude.
 
 Ríthara is a young and spirited seaman who dreams of adventure on the open sea. She has a knack for navigation and often helps the crew chart their course. Ríthara is eager to learn and often asks questions to improve her skills. Her enthusiasm and positive attitude make her a beloved member of the crew. She hopes to one day become a captain and explore the world.
 

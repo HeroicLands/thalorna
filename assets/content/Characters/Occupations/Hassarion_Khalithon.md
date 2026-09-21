@@ -558,7 +558,7 @@ Hassârìon Khalîthôn is a 48-year-old man who stands 6'2" tall and is broad a
 
 # Dossier {#dossier}
 
-Born in the Heliónis region to a freeman family of Helionite heritage, Hassârìon Khalîthôn came into the world of the nobility (tenant-in-chief) through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Hassârìon Khalîthôn came into the world of the nobility (tenant-in-chief) through a combination of circumstance and aptitude.
 
 Lord Alaric is a powerful lord who oversees vast lands and is known for his military prowess. He has earned the loyalty of his vassals through his just rulership and strategic mind. Alaric is dedicated to protecting his domain from threats and is often seen leading his men into battle. His strong sense of duty and honor has made him a respected figure among both his peers and the common folk.
 

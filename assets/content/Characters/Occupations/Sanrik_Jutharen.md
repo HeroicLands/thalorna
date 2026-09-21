@@ -559,7 +559,7 @@ Sánrik Jútharen is a 52-year-old man who stands 6'1" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the Tarvénia region to a freeman family of Tarvénan heritage, Sánrik Jútharen came into the world of the glassworker through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Sánrik Jútharen came into the world of the glassworker through a combination of circumstance and aptitude.
 
 Sánrik has been crafting glass items for over thirty years, specializing in practical wares such as bottles, jars, and windows. He takes pride in his traditional techniques, preferring to use time-honored methods rather than experimenting with new styles. While Sánrik's work may lack the artistic flair of some younger glassworkers, it is valued for its quality and durability. He is a staunch defender of traditional craftsmanship.
 

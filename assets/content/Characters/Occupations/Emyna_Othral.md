@@ -555,7 +555,7 @@ sohl:
 
 # Dossier {#dossier}
 
-Born in the Élavendre region to a noble family of Élavendri heritage, Émyna Óthral came into the world of the courtesan through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a noble family of Élavendri heritage, Émyna Óthral came into the world of the courtesan through a combination of circumstance and aptitude.
 
 Émyna is the daughter of a minor noble, but scandal forced her to leave her family and seek a living on her own terms. She became a courtesan, known for her grace and intellect, often entertaining clients who appreciate her conversation as much as her beauty. Émyna maintains connections with high society, though she is cautious not to overstep boundaries that could reignite the scandal.
 

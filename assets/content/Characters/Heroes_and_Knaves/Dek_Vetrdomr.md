@@ -598,7 +598,7 @@ Dek stands 6'1" tall with a medium build. He has tanned weathered skin, dark bro
 
 ### The Thatchers' Path
 
-Dek was born in Malagna as the youngest son of **Vetrarr the Roofman**, a thatcher of modest reputation but unquestionable skill. Unlike his siblings who sought fortune in distant cities, Dek remained in the countryside, learning not just the mechanics of thatching but the intimate knowledge of his region's climate, materials, and needs. He mastered the art of reading weather patterns, understanding that a roof built in spring must account for the specific challenges of the following winter. His father taught him that thatching was not merely technical work—it was a promise of protection made between craftsman and family.
+Dek was born in [[affiliation-kingdomlgn|Malagna]] as the youngest son of **Vetrarr the Roofman**, a thatcher of modest reputation but unquestionable skill. Unlike his siblings who sought fortune in distant cities, Dek remained in the countryside, learning not just the mechanics of thatching but the intimate knowledge of his region's climate, materials, and needs. He mastered the art of reading weather patterns, understanding that a roof built in spring must account for the specific challenges of the following winter. His father taught him that thatching was not merely technical work—it was a promise of protection made between craftsman and family.
 
 ### The Years of Mastery
 
@@ -614,7 +614,7 @@ Now in his late forties, Dek feels the weight of his chosen trade more acutely e
 
 Skúli is a man of profound quietude and philosophical depth. He speaks rarely and only when he has something worth saying. To those who know him, his silences are comfortable—filled with observation and thought rather than awkwardness. He has a dry humor that emerges unexpectedly, often making light of the hardships and dangers of roof work. Unlike many of his peers, Dek harbors no bitterness toward those who choose different paths or adopt new methods. He understands that the world changes, and he views his role as steward rather than gatekeeper.
 
-He is deeply spiritual, invoking the creation-god Ymir before major projects, believing that each roof is a small act of creation in the world—making shelter from chaos, order from the raw materials of nature. He makes offerings of grain and mead to local spirits before beginning work, a practice that might seem superstitious to urban dwellers but is held as wisdom by the rural communities he serves.
+He is deeply spiritual, invoking the creation-god [[lore-ymirdty|Ymir]] before major projects, believing that each roof is a small act of creation in the world—making shelter from chaos, order from the raw materials of nature. He makes offerings of grain and mead to local spirits before beginning work, a practice that might seem superstitious to urban dwellers but is held as wisdom by the rural communities he serves.
 
 ### Motivation
 

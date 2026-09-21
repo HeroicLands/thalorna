@@ -556,7 +556,7 @@ Erthran Hildvith is a 44-year-old man who stands 6'0" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Born in the Vrystwald region to a freeman family of Varokhi heritage, Erthran Hildvith came into the world of the trapper through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Erthran Hildvith came into the world of the trapper through a combination of circumstance and aptitude.
 
 Erthran has spent his entire life in the forest, trapping animals for their fur and meat. He learned the trade from his father, who taught him to respect nature and take only what is needed. Erthran is a skilled tracker and has an intimate knowledge of the local wildlife. He is often hired to remove problem animals or gather furs for traders, though he avoids over-trapping out of a deep respect for the land.
 

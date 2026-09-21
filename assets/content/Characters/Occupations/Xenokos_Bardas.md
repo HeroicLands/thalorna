@@ -530,7 +530,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Xénokôs is young and still growing into himself — twenty-two years old, 5'9", with a light build that makes him look more like a clerk than a guardsman. His dark brown hair is worn longer than regulation permits, falling across his forehead in a way that his sergeant has remarked upon more than once. His honey-brown eyes sit in a pale, almost sallow face that rarely sees sunlight, and a thin scar runs across his forehead from an incident during his first month on duty that he would prefer to forget. His features are fine-boned and Vylarian in the classical sense: high forehead, straight nose, narrow chin. He wears his Alyssa district guard uniform — padded tunic, leather bracers, short sword at his hip — with the self-conscious stiffness of someone who has not yet learned to forget he is wearing it.
+Xénokôs is young and still growing into himself — twenty-two years old, 5'9", with a light build that makes him look more like a clerk than a guardsman. His dark brown hair is worn longer than regulation permits, falling across his forehead in a way that his sergeant has remarked upon more than once. His honey-brown eyes sit in a pale, almost sallow face that rarely sees sunlight, and a thin scar runs across his forehead from an incident during his first month on duty that he would prefer to forget. His features are fine-boned and Vylarian in the classical sense: high forehead, straight nose, narrow chin. He wears his [[affiliation-provinclys|Alyssa]] district guard uniform — padded tunic, leather bracers, short sword at his hip — with the self-conscious stiffness of someone who has not yet learned to forget he is wearing it.
 
 # Dossier {#dossier}
 

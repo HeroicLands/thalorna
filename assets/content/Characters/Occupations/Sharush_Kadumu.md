@@ -555,7 +555,7 @@ Shârûsh Kadûmû is a 34-year-old man who stands 5'10" tall and is of moderate
 
 # Dossier {#dossier}
 
-Born in the Harad region to a freeman family of Haradian heritage, Shârûsh Kadûmû came into the world of the cook through a combination of circumstance and aptitude.
+Born in the [[place-haradregin|Harad]] region to a freeman family of Haradian heritage, Shârûsh Kadûmû came into the world of the cook through a combination of circumstance and aptitude.
 
 Shârûsh grew up on a farm and learned to cook using simple, local ingredients. His specialty is rustic cuisine, and he works at a well-known tavern in the countryside, where travelers come to enjoy his hearty meals. Shârûsh is humble and hardworking, always willing to adapt and improve his recipes.
 
