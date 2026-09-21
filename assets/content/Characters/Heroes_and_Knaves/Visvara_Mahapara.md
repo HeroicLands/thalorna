@@ -598,7 +598,7 @@ sohl:
 
 ![[visvarmhpr|Viśvàra Mahâpara]]{float: top-left}
 
-Viśvàra stands 6'4" tall with a heavy build. He has warm golden brown skin, dark black hair, and warm brown eyes. His features include a soft-featured face, a prominent nose, a tapered chin, full lips, warm golden brows, soft cheeks. A distinguishing mark is a scar on the right calf.
+Viśvàra stands 6'4" tall with a heavy build. He has warm golden brown skin, dark black hair, and warm brown eyes. His features include a soft-featured face, a prominent nose, a tapered chin, full lips, warm golden brows, and soft cheeks. He has a scar on his right calf.
 
 # Dossier {#dossier}
 
@@ -608,21 +608,21 @@ Viśvàra stands 6'4" tall with a heavy build. He has warm golden brown skin, da
 
 Viśvàra was born to a fishing family in one of the [[place-vedyarargn|Vedyara]] city-states' coastal settlements, the son of **Mahâpara the Elder**, a competent but undistinguished fisherman whose life was as unremarkable as it was difficult. From his earliest years, Viśvàra knew the sea—learned to respect its moods, to read its signs, to accept both its generosity and its cruelty. His childhood was one of subsistence, of helping his father with nets and lines, of hunger when the catches were poor and modest plenty when fortune favored them.
 
-At age twelve, recognizing that his son possessed an instinctive affinity for the water and a body suited to the labors required, Viśvàra's father arranged for him to be taken on as a cabin boy aboard **The Merchant's Fortune**, a substantial trading vessel captained by **Captain Sorven**, a legendary seaman known for his exacting standards and his unwillingness to tolerate laziness or negligence.
+At age twelve, recognizing that his son possessed an instinctive affinity for the water and a body suited to the labors required, Viśvàra's father arranged for him to be taken on as a cabin boy aboard **The Merchant's Fortune**, a substantial trading vessel captained by **Captain Sorven**, a seaman of great repute, known for his exacting standards and his unwillingness to tolerate laziness or negligence.
 
 ### The Making of a Sailor
 
-Viśvàra's years under **Captain Sorven's** command were transformative. Unlike his father, who had been a mere fisherman, Sorven was a master of seafaring—a man who understood not merely how to sail but the deeper knowledge of how to navigate the world's waters, how to manage complex crews, how to read weather patterns that would have escaped ordinary observation. Sorven recognized something in the young Viśvàra—a combination of physical capability, quick intelligence, and an almost mystical attunement to the sea's moods.
+Viśvàra's years under Captain Sorven's command were transformative. Unlike his father, who had been a mere fisherman, Sorven was a master of seafaring—a man who knew how to sail and, beyond that, how to find his way across the world's waters, how to handle a large crew, how to read weather that would have escaped ordinary observation. Sorven recognized something in the young Viśvàra—a combination of physical capability, quick intelligence, and an almost mystical attunement to the sea's moods.
 
-Over twenty years of service, Viśvàra rose from cabin boy to skilled rigger to mate to first mate. He learned every aspect of seacraft: navigation by stars and currents, the repair and maintenance of vessels, the management of cargo, the subtle arts of leadership that keep complex crews functioning in dangerous circumstances. He accompanied Sorven on trading voyages that spanned the known world's coasts, accumulating knowledge of ports, customs, dangers, and opportunities across vast distances.
+Over twenty years of service, Viśvàra rose from cabin boy to skilled rigger to mate to first mate. He learned every aspect of seacraft: navigation by stars and currents, the repair and maintenance of vessels, the stowage of cargo, the subtle arts of leadership that keep a large crew working in dangerous circumstances. He accompanied Sorven on trading voyages that spanned the known world's coasts, accumulating knowledge of ports, customs, dangers, and opportunities across vast distances.
 
 ### The Transition to Independence
 
-When **Captain Sorven** retired at seventy, Viśvàra was offered command of **The Merchant's Fortune**. However, at forty-five, unwilling to remain tied to a single vessel or the demands of merchant captaincy, Viśvàra instead accepted an arrangement that has defined the past decade of his life: he offers himself as a skilled hire to various merchant captains, commanding crews, training sailors, managing complex maritime operations, and advising on seamanship. He commands respect through demonstrated competence and carries the authority of decades of accumulated experience.
+When Captain Sorven retired at seventy, Viśvàra was offered command of The Merchant's Fortune. However, at forty-five, unwilling to remain tied to a single vessel or the demands of merchant captaincy, Viśvàra instead accepted an arrangement that has defined the past decade of his life: he offers himself as a skilled hire to various merchant captains, commanding crews, training sailors, overseeing difficult voyages, and advising on seamanship. He commands respect through demonstrated competence and carries the authority of decades of accumulated experience.
 
 ### The Current Moment
 
-Now at thirty-seven (yet carrying the weathered appearance of a man in his fifties), Viśvàra occupies an unique position in the maritime world. He is not a captain, yet captains defer to his judgment in matters of seamanship. He is not formally a merchant, yet his knowledge of trade routes, cargo management, and market conditions is exceptional. He is respected—almost revered—by those who work under him, and feared by those who oppose him, though his reputation is one of fairness rather than cruelty. Yet he has become increasingly concerned by the changing nature of seafaring. The old traditions of seamanship, the respect for the sea's power, and the emphasis on crew safety that characterized **Captain Sorven's** era are giving way to profit-focused ventures that prioritize cargo and speed over the welfare of those who must risk their lives to achieve them.
+Now at thirty-seven (yet carrying the weathered appearance of a man in his fifties), Viśvàra occupies a unique position in the maritime world. He is not a captain, yet captains defer to his judgment in matters of seamanship. He is not formally a merchant, yet his knowledge of trade routes, cargo, and markets is wide. He is respected—almost revered—by those who work under him, and feared by those who oppose him, though his reputation is one of fairness rather than cruelty. Yet he has become increasingly concerned by the changing nature of seafaring. The old traditions of seamanship, the respect for the sea's power, and the emphasis on crew safety that characterized Captain Sorven's era are giving way to ventures bent on profit that put cargo and speed before the welfare of those who must risk their lives to achieve them.
 
 ## Psyche
 
@@ -630,41 +630,41 @@ Now at thirty-seven (yet carrying the weathered appearance of a man in his fifti
 
 Viśvàra is a man of few words, preferring action and example to lengthy explanation. He speaks in the direct, economical manner of those accustomed to shouting over wind and waves—no unnecessary elaboration, just clear statement of fact and intention. His observations are often pointed, delivered with a dry humor that catches people unaware.
 
-Despite his taciturn nature, Viśvàra possesses genuine warmth toward those he considers worthy of it. He is fiercely loyal to sailors under his command and takes their welfare personally. He has been known to go without meals so that his crew could eat, to spend his own coin on medicines for sick sailors, and to blacklist ship captains known for mistreating their crews. Yet he is also a man of rigid standards—he has little patience for excuses, tolerates no slacking, and will dismiss incompetent or lazy crew members without hesitation.
+Despite his taciturn nature, Viśvàra possesses real warmth toward those he considers worthy of it. He is fiercely loyal to sailors under his command and takes their welfare personally. He has been known to go without meals so that his crew could eat, to spend his own coin on medicines for sick sailors, and to blacklist ship captains known for mistreating their crews. Yet he is also a man of rigid standards—he has little patience for excuses, tolerates no slacking, and will dismiss incompetent or lazy crew members without hesitation.
 
-Viśvàra's resistance to change stems not from rigidity but from the knowledge that the old ways of doing things—the traditional practices, the emphasis on crew safety, the respect for the sea—emerge from hard-won experience. He views innovations that sacrifice these principles as reckless, no matter how profitable they might prove.
+Viśvàra's resistance to change stems not from rigidity but from the knowledge that the old ways of doing things—the traditional practices, the emphasis on crew safety, the respect for the sea—emerge from hard-won experience. He views new practices that sacrifice these principles as reckless, no matter how profitable they might prove.
 
 ### Motivation
 
-Viśvàra is driven by loyalty to a way of life that he sees slowly disappearing. He wishes to preserve the traditions of seafaring that he learned from **Captain Sorven**, to maintain standards of seamanship and crew welfare even as economic pressures push toward their abandonment. More personally, he seeks to find some method of giving back to the sea that has given him a life of meaning and purpose—to serve younger sailors as **Sorven** served him, to pass on knowledge that might prevent unnecessary deaths, to ensure that seamanship remains valued above mere profit.
+Viśvàra is driven by loyalty to a way of life that he sees slowly disappearing. He wishes to preserve the traditions of seafaring that he learned from Captain Sorven, to maintain standards of seamanship and crew welfare even as economic pressures push toward their abandonment. More personally, he seeks to find some method of giving back to the sea that has given him a life of meaning and purpose—to serve younger sailors as Sorven served him, to pass on knowledge that might prevent unnecessary deaths, to see that seamanship remains valued above mere profit.
 
 ### Strengths
 
-- **Unparalleled Seafaring Expertise**: Viśvàra's knowledge of maritime navigation, vessel handling, weather prediction, and crew management is encyclopedic. There are few scenarios at sea that he has not encountered or learned how to handle.
+- **Unparalleled Seafaring Expertise**: Viśvàra's knowledge of maritime navigation, vessel handling, weather prediction, and crew management is vast. There are few situations at sea that he has not encountered or learned how to handle.
 - **Natural Leadership and Authority**: Though not formally trained in command, Viśvàra exerts effortless authority. Sailors trust his judgment implicitly and follow his orders without question.
-- **Exceptional Physical Capability**: At thirty-seven, Viśvàra remains extraordinarily strong and capable. His endurance is remarkable, and he can perform physical feats that younger men struggle with.
+- **Exceptional Physical Capability**: At thirty-seven, Viśvàra remains extraordinarily strong and capable. His endurance is great, and he can perform physical feats that younger men struggle with.
 - **Comprehensive Practical Knowledge**: Beyond seamanship, Viśvàra possesses competence in ship repair, navigation calculation, fishing, agriculture, and a host of practical survival skills that serve him throughout his life.
 - **Shrewd Judgment of Character**: Years of reading people in high-pressure situations have given Viśvàra an almost preternatural ability to assess trustworthiness and potential.
 
 ### Weaknesses
 
-- **Resistance to Innovation**: Viśvàra's commitment to traditional seamanship means he sometimes dismisses new technologies or methods without fair evaluation. This occasionally puts him at disadvantage against more innovative competitors.
-- **Limited Formal Education**: Viśvàra cannot read complex navigational texts or understand sophisticated mathematical navigation. He navigates by experience and traditional methods, which can be limiting in novel situations.
+- **Resistance to Innovation**: Viśvàra's commitment to traditional seamanship means he sometimes dismisses new instruments or methods without a fair hearing. This occasionally puts him at a disadvantage against rivals quicker to adopt them.
+- **Limited Formal Education**: Viśvàra cannot read complex navigational texts or understand navigation by mathematics. He navigates by experience and traditional methods, which can be limiting in novel situations.
 - **Stubbornness**: His convictions, while generally sound, are held with an inflexibility that prevents compromise. He has alienated captains and merchants who might otherwise value his services.
-- **Emotional Distance**: Though capable of loyalty, Viśvàra keeps emotional distance from others. He forms few genuine friendships and tends toward isolation despite his social competence.
-- **Vulnerability Outside His Element**: On land, away from the sea, Viśvàra is considerably less formidable. His strength and expertise do not transfer to terrestrial situations, and he is somewhat out of place in complex social or political scenarios.
+- **Emotional Distance**: Though capable of loyalty, Viśvàra keeps emotional distance from others. He forms few close friendships and tends toward isolation despite his social competence.
+- **Vulnerability Outside His Element**: On land, away from the sea, Viśvàra is considerably less capable. His strength and skill do not carry over to matters on land, and he is somewhat out of place in tangled social or political affairs.
 
 ## Social
 
 ### Patrons
 
-- **The Merchant Captains' Collective**: Various ship captains and merchants who regularly contract Viśvàra's services respect his expertise and seek his guidance. This informal network provides him with steady employment.
+- **The Merchant Captains' Collective**: Various ship captains and merchants who regularly contract Viśvàra's services respect his skill and seek his guidance. This informal circle provides him with steady employment.
 - **Shipping Industry Veterans**: Older, established ship captains who remember the traditions Viśvàra upholds and value his commitment to the old ways of seamanship.
 
 ### Enemies
 
-- **Captain Meredith the Reckless**: A younger, ambitious captain who represents everything Viśvàra despises—prioritizes speed and profit over safety, drives crews beyond reasonable endurance, and ignores the traditional practices that keep sailors alive. Their professional conflicts have become personal, with Meredith viewing Viśvàra as an obstacle to progress.
-- **The Trade Efficiency Bureau**: A nascent government body designed to optimize maritime commerce has begun implementing regulations that require faster sailing schedules and reduced crew sizes. Viśvàra views these policies as dangerous and has publicly criticized them, earning the Bureau's enmity.
+- **Captain Meredith the Reckless**: A younger, ambitious captain who represents everything Viśvàra despises—puts speed and profit before safety, drives crews beyond reasonable endurance, and ignores the traditional practices that keep sailors alive. Their conflicts over the trade have become personal, with Meredith viewing Viśvàra as an obstacle to progress.
+- **The Trade Efficiency Bureau**: A new office of the crown charged with speeding maritime commerce has begun issuing rules that require faster sailing schedules and smaller crews. Viśvàra views these policies as dangerous and has publicly criticized them, earning the Bureau's enmity.
 
 ### Affiliations
 
@@ -672,12 +672,12 @@ Viśvàra is driven by loyalty to a way of life that he sees slowly disappearing
 
 ## Plot Hooks
 
-1. **The Lost Crew**: A merchant vessel that Viśvàra trained crew members for vanishes without trace on a standard trade route. An investigation suggests the ship encountered something unknown in the deep waters—perhaps a creature, perhaps something worse. The merchant company that owns the vessel wants the matter buried, but Viśvàra becomes obsessed with discovering what happened to the sailors he trained, leading him on a dangerous voyage into waters that even **Captain Sorven** would have avoided.
+1. **The Lost Crew**: A merchant vessel that Viśvàra trained crew members for vanishes without trace on a standard trade route. An investigation suggests the ship encountered something unknown in the deep waters—perhaps a creature, perhaps something worse. The merchant company that owns the vessel wants the matter buried, but Viśvàra becomes obsessed with discovering what happened to the sailors he trained, leading him on a dangerous voyage into waters that even Captain Sorven would have avoided.
 
-2. **The Young Reformer**: A brilliant young sailor named **Kesh** apprentices under Viśvàra and learns the traditional ways, but also possesses the formal education and understanding of new nautical technologies that Viśvàra lacks. Kesh challenges Viśvàra's resistance to change while maintaining respect for the old master's wisdom. Together, they must find a synthesis between tradition and innovation, or watch maritime practices split into increasingly hostile factions.
+2. **The Young Reformer**: A brilliant young sailor named **Kesh** apprentices under Viśvàra and learns the traditional ways, but also possesses the formal education and understanding of new nautical instruments that Viśvàra lacks. Kesh challenges Viśvàra's resistance to change while maintaining respect for the old master's wisdom. Together, they must find a marriage of the old ways and the new, or watch seafaring split into increasingly hostile camps.
 
-3. **The Betrayed Crew**: Viśvàra discovers that several of the sailors he trained and trusted have become involved in smuggling operations—not out of greed but out of desperation, as legitimate merchant work has become increasingly unreliable and unprofitable. He must decide whether to report them, thereby destroying people he cares about, or to involve himself in criminal enterprise to protect them.
+3. **The Betrayed Crew**: Viśvàra discovers that several of the sailors he trained and trusted have become involved in smuggling operations—not out of greed but out of desperation, as legitimate merchant work has become increasingly unreliable and unprofitable. He can report them, destroying people he cares about, or involve himself in crime to protect them.
 
-4. **The Navy's Offer**: The nascent royal navy, seeking to professionalize maritime command, offers Viśvàra a substantial position—formal authority, significant compensation, and the ability to implement his principles of seamanship on a large scale. However, the navy's agenda includes aggressive expansion and militarization of the seas. Accepting would give Viśvàra power to save lives through better training, but would also make him complicit in potentially unjust military actions.
+4. **The Navy's Offer**: The nascent royal navy, seeking to put maritime command on a regular footing, offers Viśvàra a substantial position—formal authority, significant compensation, and the ability to implement his principles of seamanship on a large scale. However, the navy's aims include aggressive expansion and militarization of the seas. Accepting would give Viśvàra power to save lives through better training, but would also make him complicit in potentially unjust military actions.
 
-5. **The Cursed Voyage**: A wealthy merchant offers Viśvàra an enormous sum to captain a voyage to a distant location that other sailors have refused—a journey that has resulted in multiple disappearances and legendary tales of supernatural danger. Viśvàra's experience suggests the crew would not survive, yet his financial situation has deteriorated to the point where refusing the commission means losing the modest security he has built. He must weigh his life's principles against the practical realities of aging and scarcity.
+5. **The Cursed Voyage**: A wealthy merchant offers Viśvàra an enormous sum to captain a voyage to a distant location that other sailors have refused—a journey that has resulted in multiple disappearances and tales of supernatural danger. Viśvàra's experience suggests the crew would not survive, yet his financial situation has deteriorated to the point where refusing the commission means losing the modest security he has built. He must weigh his life's principles against the practical realities of aging and scarcity.
