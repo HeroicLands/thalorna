@@ -9,11 +9,11 @@ name:
   title: Sir
   given: Drazha
   clan: Sycâni
-  home: telvari
+  home: karatas2
   aliases:
     - Knight of the Black Flame
     - Sir Drazha Sycani
-packFolder: heroesandknaveskalihara
+packFolder: helladbyzaria
 shortcode: srdrzhsycnknghtblckflm
 type: being
 data:
@@ -25,9 +25,9 @@ data:
   lore:
     - landedlordrnk
   homes:
-    - kaliharargn
+    - byzariargn
   affiliations:
-    - kalihara
+    - byzarianlg
   gender: male
   species: null
   age: 43
@@ -596,7 +596,7 @@ Drazhan is a towering figure at 6'4" with a heavily muscled frame, weighing arou
 
 # Dossier {#dossier}
 
-Drazha Sycâni is from **Zánatu**, a kingdom situated in a harsh and unforgiving landscape. Once a province of the Vylarian Empire, Zánatu gained independence and is now ruled by a monarch alongside the **Council of Syndics**, an oligarchic council of trade syndics. The land of Zánatu is shaped by the austere values of its people, influenced by both the Vylarian and Kaliharan cultures.
+Drazha Sycâni is from the **Sycâni holds**, a clan-country in the high passes above [[place-karatas2|Karataş]], on the desert side of [[place-byzariargn|Byzaría]]. The holds answer to no city's charter; the [[affiliation-byzarianlg|Byzarian League]] tolerates them as its eastern shield, because the clans fight the desert raiders so the League need not. No priest of the established faiths has ever reached them, and the Black Flame is practiced there openly. The holds are shaped by the austere values of their people, hard mountain folk who measure a man by what he can hold.
 
 Drazhan was born into the Sycâni, a powerful warrior clan, his father a fierce warlord and his mother a devoted priestess of the Black Flame. From his earliest years, Drazhan was trained to embrace the tenets of the Black Flame, which glorifies pain and suffering as paths to strength and transcendence. He was taught that strength and dominance are the measures of a person’s worth, and the weak should be crushed beneath the weight of their betters. His childhood was a brutal series of trials designed to harden him into an unrelenting warrior. The sacred **Trial of the Flames**, which every aspiring Black Flame must endure, left Drazhan’s body scarred but his spirit unbroken.
 
@@ -606,7 +606,7 @@ Drazhan was born into the Sycâni, a powerful warrior clan, his father a fierce 
 
 By the age of 16, Drazhan had joined the **Servants of Sycânus**, one of the most feared military orders of Black Flame knights. The order is notorious for its ruthlessness, and Drazhan quickly rose through the ranks by excelling in battle, particularly during campaigns against neighboring regions. His ferocity in combat and willingness to embrace pain as a means of glorifying Vúlcan earned him the title of **Blazewarden**, a position of honor within the order.
 
-As a Blazewarden, Drazhan became known for leading punitive raids across the borders of Zánatu, particularly into the **Desert of Hek’ar**, a barren and desolate region. These raids were intended to spread terror and reinforce the dominance of the Black Flame. Drazhan’s ability to inspire fear and loyalty among his troops made him a rising star within the Servants of Sycânus.
+As a Blazewarden, Drazhan became known for leading punitive raids down out of the passes into the Khazryn margin beyond the Eastern March, particularly into the **Desert of Hek’ar**, a barren tract at the desert's edge. These raids were intended to spread terror and reinforce the dominance of the Black Flame. Drazhan’s ability to inspire fear and loyalty among his troops made him a rising star within the Servants of Sycânus.
 
 ### The Blazing Oath and the Search for the Eye of Velok
 
@@ -616,7 +616,7 @@ The Eye is believed to be hidden within the **Ruins of Arkor**, an ancient city 
 
 ### End Goal
 
-Drazhan’s primary goal is to retrieve the **Eye of Velok** and unleash its destructive power in Vúlcan’s name. However, as he journeys deeper into the Desert of Hek’ar and faces opposition from enemies both external and within the Vúlcanian order **Nakarys the Scourge**, Drazhan begins to realize that the path to true power may not be as straightforward as he believed. Whether he succeeds or falls may well determine the future of Zánatu and the broader Black Flame movement.
+Drazhan’s primary goal is to retrieve the **Eye of Velok** and unleash its destructive power in Vúlcan’s name. However, as he journeys deeper into the Desert of Hek’ar and faces opposition from enemies both external and within the Vúlcanian order **Nakarys the Scourge**, Drazhan begins to realize that the path to true power may not be as straightforward as he believed. Whether he succeeds or falls may well determine the future of the Sycâni holds and the broader Black Flame movement.
 
 ### Skills and Abilities
 

@@ -9,10 +9,10 @@ name:
   title: ""
   given: Shadiq
   clan: Rahman
-  home: korinthel
+  home: karatas2
   aliases:
     - The Diplomatic Blade Dancer
-packFolder: heroesandknaveskalihara
+packFolder: helladbyzaria
 shortcode: shdqbnrhmndplmtcblddncr
 type: being
 data:
@@ -24,9 +24,9 @@ data:
   lore:
     - landedlordrnk
   homes:
-    - kaliharargn
+    - byzariargn
   affiliations:
-    - kalihara
+    - byzarianlg
   gender: male
   species: null
   age: 28
@@ -617,7 +617,7 @@ Shadiq stands 6'0" tall with a light build. He has dark skin, black hair, and da
 
 # Dossier {#dossier}
 
-Shadiq ibn Rahman hails from the southern deserts of **Zánatu**, a land where the sun scorches the earth and [[affiliation-blackflame|The Black Flame]] burns openly. His family were influential merchants and diplomats, brokering alliances between the desert tribes and the empire, and Shadiq grew up steeped in the Black Flame’s teachings—that strength is virtue, that the strong shape the world, and that fire is the truest expression of Vúlcan’s will. For Shadiq, the faith is not merely spiritual; it is a practical philosophy that governs how he conducts business, forges alliances, and reads the intentions of others.
+Shadiq ibn Rahman was born to a merchant-diplomat house of **[[place-karatas2|Karataş]]**, in the mountainous interior of [[place-byzariargn|Byzaría]], whose trade runs up into the Sycâni holds in the high passes above the city, where [[affiliation-blackflame|The Black Flame]] burns openly. His family brokers between the [[affiliation-byzarianlg|Byzarian League]] and the holds, and Shadiq grew up steeped in the Black Flame’s teachings—that strength is virtue, that the strong shape the world, and that fire is the truest expression of Vúlcan’s will. For Shadiq, the faith is not merely spiritual; it is a practical philosophy that governs how he conducts business, forges alliances, and reads the intentions of others.
 
 Shadiq met Kallistratos during a diplomatic mission in Velysâra, where he immediately recognized a kindred spirit in the young mage. Shadiq was drawn to Kallistratos’s fiery ambition and saw in him the embodiment of Vúlcan’s power—a man capable of wielding fire to shape the future. Eager to expand his own influence and advance the Black Flame’s reach, Shadiq offered his services as a diplomat and political advisor, knowing that Kallistratos’s rise would serve both their ambitions and the faith.
 
@@ -651,7 +651,7 @@ Shadiq is charismatic, charming, and always thinking ahead. While he reveres fir
 
 ### Motivation
 
-Shadiq is motivated by his desire to expand his influence and advance the Black Flame’s reach. He believes that by helping Kallistratos harness the power of fire, he can secure a place for himself among the most powerful figures in both Vylaria and Zánatu. He sees Kallistratos’s quest as a means to elevate both of them to positions of great power—and to prove, in the process, that the Black Flame’s philosophy is simply the way the world works.
+Shadiq is motivated by his desire to expand his influence and advance the Black Flame’s reach. He believes that by helping Kallistratos harness the power of fire, he can secure a place for himself among the most powerful figures in both Vylaria and Byzaría. He sees Kallistratos’s quest as a means to elevate both of them to positions of great power—and to prove, in the process, that the Black Flame’s philosophy is simply the way the world works.
 
 ### Strengths
 
