@@ -597,7 +597,7 @@ sohl:
 
 ![[sentatsrkt|Sênta Ta'Sereket]]{float: top-left}
 
-Sênta stands 5'10" tall with a medium build. She has tawny skin, jet black hair, and honey brown eyes. Her features include a slightly arched nose, a tapered chin, generous lips, honey brows.
+Sênta stands 5'10" tall with a medium build. She has tawny skin, jet black hair, and honey brown eyes. Her features include a slightly arched nose, a tapered chin, generous lips, and honey brows.
 
 # Dossier {#dossier}
 
@@ -609,19 +609,19 @@ Born to the Ta'Sereket clan in the fertile valleys of the Empire of [[affiliatio
 
 ### Training and Path
 
-At thirteen, Sênta convinced a weathered caravan master named **Thoren the Keen-Eyed** to hire her as a porter. Within two seasons, her exceptional climbing ability and innate awareness caught the attention of the caravan's head scout, **[[lore-mesharawse|Meshara]]**, a hard woman in her late sixties who taught Sênta everything about reconnaissance, evasion, and survival in wild country. Under Meshara's tutelage, Sênta learned not only to move silently through scrubland and avoid bandits' notice, but to read wind patterns, predict weather, and understand the subtle signs of dangerous predators or hidden camps. She earned her first scout's blade at twenty, marking her official entry into the Mercenaries' Guild of Ta'Kheperu.
+At thirteen, Sênta convinced a weathered caravan master named **Thoren the Keen-Eyed** to hire her as a porter. Within two seasons, her rare climbing ability and innate awareness caught the attention of the caravan's head scout, **[[lore-mesharawse|Meshara]]**, a hard woman in her late sixties who taught Sênta everything about reconnaissance, evasion, and survival in wild country. Under Meshara's tutelage, Sênta learned to move silently through scrubland and avoid bandits' notice, and to read wind patterns, predict weather, and understand the subtle signs of dangerous predators or hidden camps. She earned her first scout's blade at twenty, marking her official entry into the Mercenaries' Guild of Ta'Kheperu.
 
 ### Current Situation
 
-Now at twenty-eight, Sênta stands as one of the most sought-after caravan guards in the southern routes, known for her ability to spot trouble from miles away and her uncanny luck in avoiding catastrophe. She works regularly for **Merchant Prince Valren Stoneworth**, a shrewd trader whose caravans have never been successfully robbed under her watch. Recent seasons have seen her considering other opportunities—rumor speaks of bandits more organized and vicious than before, and Sênta wonders if the old ways of caravan guarding are becoming obsolete. She maintains her position with the Mercenaries' Guild while exploring opportunities to guide adventurers through treacherous terrain.
+Now at twenty-eight, Sênta stands as one of the most in-demand caravan guards in the southern routes, known for her ability to spot trouble from miles away and her uncanny luck in avoiding catastrophe. She works regularly for **Merchant Prince Valren Stoneworth**, a shrewd trader whose caravans have never been successfully robbed under her watch. Recent seasons have seen her considering other opportunities—rumor speaks of bandits more organized and vicious than before, and Sênta wonders if the old ways of caravan guarding are becoming obsolete. She maintains her position with the Mercenaries' Guild while exploring opportunities to guide adventurers through treacherous terrain.
 
 ## Psyche
 
 ### Personality
 
-Sênta is a woman of few words, her communication style honed by years of silent reconnaissance and the constant need to listen to every sound around her. She possesses a sharp, wry humor that emerges in tense moments, using wit as both a stress relief and a way to put anxious caravan members at ease. Those who work with her appreciate her steadiness—in moments of danger, she never panics, instead becoming almost eerily calm as she assesses threats and charts escape routes. However, her recklessness is legendary among her peers; she will often take risks that more cautious scouts would avoid, believing that speed and daring can accomplish what patience cannot. She has little patience for bureaucratic details or lengthy explanations, preferring action to words.
+Sênta is a woman of few words, her manner of speech honed by years of silent reconnaissance and the constant need to listen to every sound around her. She possesses a sharp, wry humor that emerges in tense moments, using wit as both a relief and a way to put anxious caravan members at ease. Those who work with her appreciate her steadiness—in moments of danger, she never panics, instead becoming almost eerily calm as she assesses threats and charts escape routes. However, her recklessness is well known among her peers; she will often take risks that more cautious scouts would avoid, believing that speed and daring can accomplish what patience cannot. She has little patience for clerkish details or lengthy explanations, preferring action to words.
 
-Despite her dangerous occupation, Sênta possesses a genuine warmth for those she trusts, and she is fiercely loyal to companions who prove themselves reliable. She respects courage and competence above all else, and looks down on cowardice with barely concealed disdain. Her relationship with authority is complicated—she accepts the structure of the Mercenaries' Guild because it provides work, but she chafes at unnecessary hierarchy and rules that seem designed more for comfort than survival.
+Despite her dangerous occupation, Sênta possesses a real warmth for those she trusts, and she is fiercely loyal to companions who prove themselves reliable. She respects courage and competence above all else, and looks down on cowardice with barely concealed disdain. Her relationship with authority is complicated—she accepts the structure of the Mercenaries' Guild because it provides work, but she chafes at unnecessary hierarchy and rules that seem designed more for comfort than survival.
 
 ### Motivation
 
@@ -629,27 +629,27 @@ Sênta seeks to test herself against increasingly difficult challenges, driven b
 
 ### Strengths
 
-- **Exceptional Perception and Awareness**: Sênta's keen green eyes and heightened senses allow her to perceive threats and opportunities long before others. Her awareness score of 14 and perception of 15 make her invaluable at detecting ambushes, hidden dangers, or suspicious movements.
+- **Exceptional Perception and Awareness**: Sênta's keen green eyes and heightened senses allow her to perceive threats and opportunities long before others. Her awareness and perception make her indispensable at detecting ambushes, hidden dangers, or suspicious movements.
 
-- **Masterful Stealth and Climbing**: With a climbing skill of 16 and stealth of 14, Sênta can navigate terrain others find impassable and move through hostile territory unseen. She can scale cliff faces, cross rooftops, and scout enemy positions without detection.
+- **Masterful Stealth and Climbing**: Sênta can cross terrain others find impassable and move through hostile territory unseen. She can scale cliff faces, cross rooftops, and scout enemy positions without detection.
 
-- **Combat Versatility**: Her archery skill of 16 and melee expertise of 17 make her a formidable fighter in both ranged and close-quarters combat. She can adapt her approach based on the situation, making her effective in almost any conflict.
+- **Combat Versatility**: Her archery and swordplay make her a dangerous fighter in both ranged and close-quarters combat. She can adapt her approach based on the situation, making her effective in almost any conflict.
 
-- **Survival Mastery**: With a survival skill of 12 and multiple expansions, Sênta can procure food, water, and shelter in harsh wilderness conditions. She reads animal signs, predicts weather patterns, and navigates by stars and landmarks.
+- **Survival Mastery**: Sênta can procure food, water, and shelter in harsh wilderness conditions. She reads animal signs, predicts weather patterns, and navigates by stars and landmarks.
 
-- **Swift Initiative and Tactical Response**: Her dexterity of 17 and agility of 16 allow her to act quickly in chaotic situations, position herself advantageously, and execute rapid tactical adjustments during combat.
+- **Swift Initiative and Tactical Response**: Her dexterity and agility allow her to act quickly in chaotic situations, position herself advantageously, and change her tactics rapidly during combat.
 
 ### Weaknesses
 
 - **Recklessness and Overconfidence**: Sênta's tendency to rush into dangerous situations without fully evaluating all risks has gotten her companions injured. She sometimes assumes her superior skills can overcome any obstacle, leading to close calls that could have been fatal.
 
-- **Weak Reasoning and Creativity**: With relatively low scores in reasoning (11) and creativity (10), Sênta struggles with complex problem-solving and long-term planning. She is better at responding to immediate threats than preventing future ones through careful strategy.
+- **Weak Reasoning and Creativity**: Weak in reasoning and invention, Sênta struggles with complex problem-solving and long-term planning. She is better at responding to immediate threats than preventing future ones through careful strategy.
 
-- **Limited Diplomatic Skills**: Her low eloquence (10) and moderate charm (14) make her ineffective in negotiations or persuasion. She often alienates people through blunt speech and lacks the finesse to handle political situations gracefully.
+- **Limited Diplomatic Skills**: Her poor eloquence and moderate charm make her ineffective in negotiations or persuasion. She often alienates people through blunt speech and lacks the finesse to handle political situations gracefully.
 
-- **Emotional Restraint and Empathy**: With empathy of only 13, Sênta can seem cold or indifferent to others' emotional needs. She focuses on practical concerns and may miss important social cues or fail to comfort companions in distress.
+- **Emotional Restraint and Empathy**: Sênta can seem cold or indifferent to others' emotional needs. She focuses on practical concerns and may miss important social cues or fail to comfort companions in distress.
 
-- **Physical Limitations**: Though athletic and agile, Sênta's moderate strength (11) means she cannot match heavily armored warriors in raw power. Prolonged physical contests against superior strength can tire her quickly.
+- **Physical Limitations**: Though athletic and agile, Sênta's moderate strength means she cannot match heavily armored warriors in raw power. Prolonged physical contests against superior strength can tire her quickly.
 
 ## Social
 
@@ -659,7 +659,7 @@ Sênta seeks to test herself against increasingly difficult challenges, driven b
 
 - **Caravan Master Thoren the Keen-Eyed**: Her early mentor who first hired her as a porter, Thoren remains a friend and occasional employer. Though he rarely travels the trade routes himself anymore, managing a large operation from his warehouse in the capital, he recommends Sênta to other caravan masters seeking reliable protection.
 
-- **The Mercenaries' Guild of Ta'Kheperu**: The formal institution that certifies her as a professional guard and provides a steady stream of work. Guild contacts occasionally request her specifically for high-value or dangerous routes.
+- **The Mercenaries' Guild of Ta'Kheperu**: The formal institution that recognizes her as a guard and provides a steady stream of work. Guild contacts occasionally request her specifically for high-value or dangerous routes.
 
 ### Enemies
 
@@ -679,8 +679,8 @@ Sênta seeks to test herself against increasingly difficult challenges, driven b
 
 2. **Meshara's Final Message**: Word reaches Sênta that her old mentor, Meshara the Wise, is dead, and that before she died she hid in the [[place-shtrdpks|Shattered Peaks]] — at a spot only Sênta knows how to reach — the proof she had gathered of a conspiracy inside the Mercenaries' Guild: senior officers in league with bandit companies, arranging the robberies and sharing the indemnities paid out on a lost caravan. Sênta can expose it and break the guild she helped build, or keep silent and live with what she knows.
 
-3. **The Refugee Caravan**: Sênta is hired to protect a caravan of refugees fleeing political persecution in a neighboring kingdom. Unlike her usual merchant runs, these people are desperate, poor, and vulnerable. When the pursuants catch up—elite cavalry sent by the persecuting kingdom—Sênta finds herself defending civilians rather than cargo. The situation forces her to choose between her professional oath to protect goods and her unexpected maternal instinct to shield the refugees, particularly a young girl who reminds her of herself at that age.
+3. **The Refugee Caravan**: Sênta is hired to protect a caravan of refugees fleeing political persecution in a neighboring kingdom. Unlike her usual merchant runs, these people are desperate, poor, and vulnerable. When the pursuers catch up—elite cavalry sent by the persecuting kingdom—Sênta finds herself defending civilians rather than cargo. The situation forces her to choose between her sworn duty to protect goods and her unexpected maternal instinct to shield the refugees, particularly a young girl who reminds her of herself at that age.
 
-4. **Bandit Leader's Daughter**: Kraed Hardscale, the bandit leader who has sworn to kill Sênta, sends an unexpected visitor—his own daughter, a skilled archer named **Lyra Hardscale**, who reveals that she can no longer support her father's violent methods. Lyra offers to spy on her father's organization from within, helping Sênta dismantle the Crimson Jackals. However, Sênta must decide whether to trust the enemy's daughter, and if her father discovers the betrayal, Lyra will almost certainly be executed. This alliance could solve Sênta's bandit problem, but at the cost of becoming responsible for a young woman's life.
+4. **Bandit Leader's Daughter**: Kraed Hardscale, the bandit leader who has sworn to kill Sênta, sends an unexpected visitor—his own daughter, a skilled archer named **Lyra Hardscale**, who reveals that she can no longer support her father's violent methods. Lyra offers to spy on her father's organization from within, helping Sênta dismantle the Crimson Jackals. Whether the enemy's daughter can be trusted is an open question, and if her father discovers the betrayal, Lyra will almost certainly be executed. This alliance could solve Sênta's bandit problem, but at the cost of becoming responsible for a young woman's life.
 
 5. **The Caravan Beyond the Maps**: An aging cartographer seeking to complete his life's work hires Sênta to guide a small expedition into unmapped territory beyond the known trade routes. The regions he wishes to explore are rumored to be haunted by ancient spirits and inhabited by dangerous creatures never documented. As Sênta leads them deeper into the unknown, she discovers ruins suggesting a lost civilization far more advanced than the current empire, and evidence that something ancient and immensely powerful sleeps in the depths. The cartographer reveals he is not simply curious—he believes these ruins contain knowledge that could transform the entire empire, and he is willing to stop at nothing to claim it.

@@ -584,7 +584,7 @@ sohl:
 
 ![[unreldskar|Unnr Eldskari]]{float: top-left}
 
-Unnr stands 5'3" tall with a light build. She has pale fair skin, dark brown hair, and green eyes. Her features include a narrow face, a long nose, a square jawline, a small mouth, dark brows, high cheeks.
+Unnr stands 5'3" tall with a light build. She has pale fair skin, dark brown hair, and green eyes. Her features include a narrow face, a long nose, a square jawline, a small mouth, dark brows, and high cheeks.
 
 # Dossier {#dossier}
 
@@ -596,51 +596,51 @@ Born in 691 to a modest family in [[affiliation-kngdmvthgrd|Vithgard]]'s timber 
 
 ### The Venture into Independence
 
-Three years ago, following her mother's retirement, Unnr took control of the family chandlery and began transforming it from a simple functional workshop into something far more ambitious. She developed distinctive styles blending practical illumination with genuine artistic merit—candles with embedded botanical elements, sophisticated color gradations achieved through careful wax layering, and scent profiles that complemented the spiritual purposes for which candles were purchased. Her work attracted notice from temple clergy, who began commissioning candles for significant religious observances. Local nobility discovered her creations, and her reputation began to grow.
+Three years ago, following her mother's retirement, Unnr took control of the family chandlery and began transforming it from a simple functional workshop into something far more ambitious. She developed distinctive styles blending practical illumination with real artistic merit—candles with embedded botanical elements, subtle color gradations achieved through careful wax layering, and scents that complemented the spiritual purposes for which candles were purchased. Her work attracted notice from temple clergy, who began commissioning candles for significant religious observances. Local nobility discovered her creations, and her reputation began to grow.
 
 ### The Current Struggle
 
-Yet artistic success has not translated to business success. Unnr struggles with the mundane yet crucial aspects of commerce—she underprices her work, uncertain of true value; she overshoots production runs and wastes materials; she struggles to maintain relationships with suppliers and has difficulty collecting payment from clients. The arrival of more experienced, less scrupulous competitors has begun to threaten her modest commercial foundation. She is at a crossroads between genuine artistic achievement and commercial viability, uncertain whether pursuing her craft in a way that honors her artistic vision will allow her enterprise to survive.
+Yet artistic success has not translated to business success. Unnr struggles with the mundane yet crucial aspects of commerce—she underprices her work, uncertain of true value; she makes more than she can sell and wastes materials; she struggles to maintain relationships with suppliers and has difficulty collecting payment from clients. The arrival of more experienced, less scrupulous competitors has begun to threaten her modest footing in trade. She is at a crossroads between artistic achievement and a living, uncertain whether pursuing her craft in a way that honors her vision will let her workshop survive.
 
 ## Psyche
 
 ### Personality
 
-Unnr is a woman of quiet artistry and occasional intensity, most fully alive when engaged in creative work. In solitude or in the presence of those who appreciate her craft, she becomes animated and eloquent, capable of discussing color theory and scent composition with genuine passion. Yet in commercial or social settings, she becomes withdrawn, uncertain, and awkwardly quiet. She possesses genuine modesty about her talent—the compliments her work receives seem to confuse her rather than gratify her—and she frequently attributes her success to luck rather than skill.
+Unnr is a woman of quiet artistry and occasional intensity, most fully alive when engaged in creative work. In solitude or in the presence of those who appreciate her craft, she becomes animated and eloquent, capable of discussing color theory and scent composition with passion. Yet in trade or company, she becomes withdrawn, uncertain, and awkwardly quiet. She is modest about her talent—the compliments her work receives seem to confuse her rather than gratify her—and she frequently attributes her success to luck rather than skill.
 
-Her spiritual commitment to [[lore-freyrdty|Fréyr]], god of fertility, growth, and natural abundance, is deeply genuine; she approaches her work as a form of spiritual practice, creating candles not merely for illumination but as offerings to divine principle and aids to others' spiritual wellbeing. This perspective, while beautiful, sometimes conflicts with practical business demands; she has been known to refuse commissions that she feels would betray the sacred character of her work.
+Her spiritual commitment to [[lore-freyrdty|Fréyr]], god of fertility, growth, and natural abundance, is deeply felt; she approaches her work as a form of spiritual practice, creating candles as offerings to divine principle and aids to others' spiritual wellbeing as well as for light. This perspective, while beautiful, sometimes conflicts with the demands of trade; she has been known to refuse commissions that she feels would betray the sacred character of her work.
 
-Unnr is both courageous and fearful—willing to take substantial professional risks in pursuit of artistic vision, yet terrified of business failure and judgment from established authorities. She experiences genuine anxiety in social situations, particularly with those of higher social station or greater confidence, yet shows remarkable boldness in defending artistic integrity. She forms attachments slowly but deeply, and those few people she allows into genuine intimacy discover unusual warmth and loyalty.
+Unnr is both courageous and fearful—willing to take substantial risks in her craft in pursuit of artistic vision, yet terrified of failure in trade and judgment from established authorities. She experiences real anxiety in company, particularly with those of higher social station or greater confidence, yet shows unusual boldness in defending artistic integrity. She forms attachments slowly but deeply, and those few people she allows into intimacy discover unusual warmth and loyalty.
 
 ### Motivation
 
-Unnr is driven by a need to create beauty and to contribute to others' spiritual and practical wellbeing through her craft. She wants to prove that art and utility can coexist, that something can be both functional and beautiful, both commercially viable and spiritually authentic. She is also motivated by a desire to honor her mother's legacy by transforming a simple family trade into something of genuine significance. Increasingly, she is driven by mounting anxiety—a fear that she will fail, lose everything, and be forced to concede that artistic ambition was a foolish indulgence. She is motivated too by a yearning for recognition and validation, wanting those around her to see her not merely as a pleasant young woman maintaining a modest craft, but as an artist of genuine significance and vision.
+Unnr is driven by a need to create beauty and to contribute to others' spiritual and practical wellbeing through her craft. She wants to prove that art and utility can coexist, that something can be both functional and beautiful, both saleable and spiritually true. She is also motivated by a desire to honor her mother's legacy by transforming a simple family trade into something of significance. Increasingly, she is driven by mounting anxiety—a fear that she will fail, lose everything, and be forced to concede that artistic ambition was a foolish indulgence. She is motivated too by a yearning for recognition, wanting those around her to see her as an artist of significance and vision rather than as a pleasant young woman keeping a modest craft.
 
 ### Strengths
 
 - **Aesthetic Vision**: Possesses an intuitive grasp of color, form, and spatial relationship that borders on the artistic genius; her candles are recognized as beautiful even by those with no particular interest in chandlery.
 
-- **Meticulous Craftsmanship**: Works with extraordinary precision and attention to detail; each candle is a carefully considered composition, with consistency and quality control that are exemplary.
+- **Meticulous Craftsmanship**: Works with extraordinary precision and attention to detail; each candle is a carefully considered composition, with a consistency and quality that are exemplary.
 
-- **Botanical and Herbal Knowledge**: Understands plants, herbs, and aromatic compounds with genuine expertise; she can harvest, prepare, and combine scents to create sophisticated profiles that enhance both spirituality and function.
+- **Botanical and Herbal Knowledge**: Understands plants, herbs, and aromatic compounds with real knowledge; she can harvest, prepare, and combine scents to create subtle blends that enhance both spirituality and function.
 
-- **Spiritual Authenticity**: Her commitment to Fréyr and to the sacred dimension of her work manifests in products that many report to have genuine spiritual efficacy; her candles are particularly sought for religious observances and rituals.
+- **Spiritual Authenticity**: Her commitment to Fréyr and to the sacred dimension of her work manifests in products that many report to have real spiritual power; her candles are particularly sought for religious observances and rituals.
 
 - **Creative Problem-Solving**: When approached as artistic challenge rather than business problem, she demonstrates impressive ingenuity; she has developed novel techniques for wax layering, color saturation, and botanical embedding that are unique to her practice.
 
-- **Willingness to Innovate**: Despite her reverence for tradition, she is not bound to conventional chandlery; she constantly experiments with new materials, techniques, and applications, introducing genuine novelty to an ancient craft.
+- **Willingness to Innovate**: Despite her reverence for tradition, she is not bound to conventional chandlery; she constantly experiments with new materials, techniques, and applications, introducing real novelty to an ancient craft.
 
 ### Weaknesses
 
-- **Business Incompetence**: Lacks any formal training in commerce; she cannot properly estimate production costs, consistently underprices her work, struggles with record-keeping, and has difficulty managing cash flow.
+- **Business Incompetence**: Lacks any formal training in commerce; she cannot properly reckon what her work costs to make, consistently underprices her work, struggles with record-keeping, and has difficulty keeping coin in hand.
 
-- **Social Anxiety**: Becomes withdrawn and inarticulate in commercial or social situations, particularly with authority figures or strangers; her inability to advocate effectively for herself undermines business success.
+- **Social Anxiety**: Becomes withdrawn and inarticulate in trade or company, particularly with authority figures or strangers; her inability to advocate effectively for herself undermines her trade.
 
 - **Perfectionism Paralysis**: Her commitment to artistic integrity can prevent her from completing work or delivering on deadlines; she struggles with "good enough" and can become frozen deciding between marginally different options.
 
-- **Supplier Vulnerability**: Her limited business experience makes her vulnerable to exploitation by suppliers and competitors; she has been cheated, overcharged, and taken advantage of by those with greater commercial sophistication.
+- **Supplier Vulnerability**: Her limited business experience makes her vulnerable to exploitation by suppliers and competitors; she has been cheated, overcharged, and taken advantage of by those with greater cunning in trade.
 
-- **Market Ignorance**: She has little understanding of her market, cannot identify pricing trends, fails to understand customer preferences clearly, and makes purchasing decisions based on artistic impulse rather than demand projections.
+- **Market Ignorance**: She has little understanding of her market, cannot tell how prices are moving, fails to understand what buyers want, and buys on artistic impulse rather than on what will sell.
 
 - **Physical Frailty**: Despite her precision work, she lacks physical strength and stamina; extended labor causes fatigue, and she possesses no combat skill or defensive capability.
 
@@ -648,21 +648,21 @@ Unnr is driven by a need to create beauty and to contribute to others' spiritual
 
 ### Patrons
 
-- **Priestess Sigrid**: High priestess of Fréyr's temple who has commissioned multiple candle sets for significant religious observances; she actively promotes Unnr's work and has provided spiritual mentorship alongside commercial patronage.
+- **Priestess Sigrid**: High priestess of Fréyr's temple who has commissioned multiple candle sets for significant religious observances; she actively promotes Unnr's work and has provided spiritual guidance alongside patronage.
 
-- **Master Craftsman Halvarr**: A respected woodworker and fellow member of the artisan community who has become something of informal business advisor; he provides practical guidance while genuinely respecting her artistic vision.
+- **Master Craftsman Halvarr**: A respected woodworker and fellow member of the artisan community who has become something of an informal adviser in trade; he provides practical guidance while respecting her artistic vision.
 
 - **The Widow Solveig**: An elderly woman of considerable means who has adopted Unnr as something of a spiritual protégé; she has purchased candles regularly and has begun subtly promoting Unnr's work to her social circle.
 
-- **Lord Brynjorn**: A minor nobleman who discovered Unnr's candles and has begun commissioning elaborate custom orders; his patronage provides crucial commercial stability and social validation.
+- **Lord Brynjorn**: A minor nobleman who discovered Unnr's candles and has begun commissioning elaborate custom orders; his patronage provides crucial steady custom and social standing.
 
 ### Enemies
 
-- **Master Chandler Ragnar**: An established chandler of twenty years' standing who views Unnr's innovation and rising reputation as threatening to his business; he has begun undercutting her prices and spreading rumors about the quality of her work.
+- **Master Chandler Ragnar**: An established chandler of twenty years' standing who views Unnr's new methods and rising reputation as threatening to his business; he has begun undercutting her prices and spreading rumors about the quality of her work.
 
 - **The Guild of Established Crafts**: The formal guild, while not directly opposed to Unnr, maintains standards and requirements that effectively exclude her; their members view her as an outsider and resist her attempts to join their organization.
 
-- **Merchant Aldred**: A supplier and commercial operator who sees Unnr's inexperience as opportunity; he has deliberately sold her substandard materials at inflated prices and encourages her poor business decisions that benefit his interests.
+- **Merchant Aldred**: A supplier and dealer who sees Unnr's inexperience as opportunity; he has deliberately sold her substandard materials at inflated prices and encourages her poor business decisions that benefit his interests.
 
 ### Affiliations
 
@@ -672,10 +672,10 @@ Unnr is driven by a need to create beauty and to contribute to others' spiritual
 
 ## Plot Hooks
 
-1. **The Commission of Impossible Beauty**: A stranger arrives in the city offering an enormous commission—extraordinary compensation for a single, massive candle to be created according to highly specific (and unusual) requirements: specific herbs, specific color gradations, and specific symbolic elements that suggest esoteric knowledge. The stranger's appearance is peculiar, their questions oddly probing, and their payment method unconventional. As Unnr works on the commission, she discovers that the specifications align with descriptions of ritual magic components. The stranger is increasingly secretive, the deadline increasingly urgent, and Unnr becomes convinced she is being commissioned to create something intended for magical purposes. The commission could provide financial security, but potentially at cost of spiritual integrity and possible danger.
+1. **The Commission of Impossible Beauty**: A stranger arrives in the city offering an enormous commission—extraordinary compensation for a single, massive candle to be created according to highly specific (and unusual) requirements: specific herbs, specific color gradations, and specific symbolic elements that suggest esoteric knowledge. The stranger's appearance is peculiar, their questions oddly probing, and their manner of payment unusual. As Unnr works on the commission, she discovers that the specifications align with descriptions of ritual magic components. The stranger is increasingly secretive, the deadline increasingly urgent, and Unnr becomes convinced she is being commissioned to create something intended for magical purposes. The commission could provide financial security, but potentially at cost of spiritual integrity and possible danger.
 
-2. **The Corrupted Craft**: Unnr begins to notice subtle symptoms in her work—finished candles that burn irregularly, colors that fail to match her intentions, scents that become malodorous without cause. Initially she attributes this to supply issues, but deeper investigation suggests something more sinister: someone may be deliberately sabotaging her materials or her process. She begins to suspect Merchant Aldred, her unscrupulous supplier, but investigation reveals the interference originates elsewhere—possibly from Master Chandler Ragnar, or even from someone within her own workshop. The sabotage threatens to destroy her reputation and her fragile business, and Unnr must discover the culprit and determine whether the motivation is purely commercial rivalry or something darker.
+2. **The Corrupted Craft**: Unnr begins to notice subtle symptoms in her work—finished candles that burn irregularly, colors that fail to match her intentions, scents that become malodorous without cause. Initially she attributes this to bad materials, but deeper investigation suggests something worse: someone may be deliberately sabotaging her materials or her process. She begins to suspect Merchant Aldred, her unscrupulous supplier, but investigation reveals the interference originates elsewhere—possibly from Master Chandler Ragnar, or even from someone within her own workshop. The sabotage threatens to destroy her reputation and her fragile business, and Unnr must discover the culprit and determine whether the motive is mere rivalry in trade or something darker.
 
-3. **The Unexpected Inheritance**: An elderly distant relative whom Unnr has never met dies and inexplicably leaves her a substantial sum of money and a workshop facility in a different city. The inheritance comes with a condition: Unnr must travel to claim it and work the family workshop for a minimum of one year. The opportunity is too significant to refuse, yet it would require abandoning her established practice and spiritual community. When she arrives at the inherited workshop, she discovers it is in significantly worse condition than represented, holds mysterious previous tenant arrangements she must navigate, and is located in a commercial environment hostile to her artistic approach. The year-long commitment forces her to confront whether her art can thrive in different circumstances and whether she is ready to truly establish herself as a significant artisan rather than remaining a local craftsperson.
+3. **The Unexpected Inheritance**: An elderly distant relative whom Unnr has never met dies and inexplicably leaves her a substantial sum of money and a workshop facility in a different city. The inheritance comes with a condition: Unnr must travel to claim it and work the family workshop for a minimum of one year. The opportunity is too significant to refuse, yet it would require abandoning her established practice and spiritual community. When she arrives at the inherited workshop, she discovers it is in significantly worse condition than represented, comes with mysterious arrangements from the previous tenant that she must untangle, and is located in a trading town hostile to her artistic approach. The year-long commitment will show whether her art can thrive in different circumstances and whether she is ready to truly establish herself as a significant artisan rather than remaining a local craftsperson.
 
-4. **The Temple's Desperate Request**: Priestess Sigrid approaches Unnr with a confidential request: the temple's primary sanctuary has been struck by curse or malevolent magic, and candles and light sources consistently fail or burn incorrectly within it, disrupting religious services. Sigrid believes that Unnr's spiritually authentic candles might possess the capacity to counteract the curse, but creating such candles would require Unnr to develop new techniques, possibly study spiritual practices beyond her current knowledge, and work in collaboration with priestesses versed in theological magic. The project would be immensely prestigious and spiritually significant, but would also expose Unnr to forces and knowledge she does not fully understand, require her to operate at the limits of her capacity, and potentially put her at risk if she becomes entangled in temple politics and spiritual conflicts.
+4. **The Temple's Desperate Request**: Priestess Sigrid approaches Unnr with a confidential request: the temple's primary sanctuary has been struck by curse or malevolent magic, and candles and light sources consistently fail or burn incorrectly within it, disrupting religious services. Sigrid believes that Unnr's spiritually authentic candles might possess the capacity to counteract the curse, but creating such candles would require Unnr to develop new techniques, possibly study spiritual practices beyond her current knowledge, and work in collaboration with priestesses versed in theological magic. The project would be immensely prestigious and spiritually significant, but would also expose Unnr to forces and knowledge she does not fully understand, require her to work at the limits of her capacity, and potentially put her at risk if she becomes entangled in temple politics and spiritual conflicts.
