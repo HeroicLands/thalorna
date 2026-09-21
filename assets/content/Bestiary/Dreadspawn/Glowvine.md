@@ -269,17 +269,17 @@ The Glowvine appears as a mass of animated tendrils, each one two to four feet l
 
 ## Key Behaviors
 
-The Glowvine is rooted or semi-rooted in place, moving through writhing motion rather than locomotion. It dwells in forest canopies, cave ceilings, or dense undergrowth where its bioluminescence provides maximum advantage for ambush hunting. The creature is patient, remaining still for extended periods while its glowing tendrils dangle like lures. When prey—drawn by the hypnotic beauty of the light—draws close, the vines strike with sudden violence. The creature shows no interest in hunting large prey; it specializes in small creatures, insects, and small animals, but it will attempt to ensnare humanoids if they come within reach. It appears to be slowly mobile, capable of moving from one location to another over days and weeks, seeking optimal hunting positions.
+The Glowvine is rooted or semi-rooted in place, moving through writhing motion rather than locomotion. It dwells in forest canopies, cave ceilings, or dense undergrowth where its bioluminescence provides maximum advantage for ambush hunting. The creature is patient, remaining still for extended periods while its glowing tendrils dangle like lures. When prey—drawn by the hypnotic beauty of the light—draws close, the vines strike with sudden violence. The creature shows no interest in hunting large prey; it specializes in small creatures, insects, and small animals, but it will attempt to ensnare humanoids if they come within reach. It appears to be slowly mobile, capable of moving from one location to another over days and weeks, seeking better hunting positions.
 
 ## Combat Strategy
 
-The Glowvine does not actively pursue prey. Instead, it uses its bioluminescence to lure prey into range, then grapples with tendrils when a target draws close. Multiple tendrils can ensnare simultaneously, attempting to immobilize and pull the target against the central mass. Once grappled, the creature applies constriction and acid damage while releasing spores. The vines themselves are relatively fragile; if a victim breaks free or the grapple fails, the Glowvine has limited offensive options and relies on its bioluminescence to re-lure prey or on spore clouds to affect escape attempts.
+The Glowvine does not actively pursue prey. Instead, it uses its bioluminescence to lure prey into range, then grapples with tendrils when a target draws close. Multiple tendrils can ensnare simultaneously, attempting to immobilize and pull the target against the central mass. Once grappled, the creature constricts and burns with acid while releasing spores. The vines themselves are relatively fragile; if a victim breaks free or the grapple fails, the Glowvine has limited offensive options and relies on its bioluminescence to re-lure prey or on spore clouds to affect escape attempts.
 
 ## Attack Methods
 
 ### Constricting Tendril Grapple
 
-Multiple tendrils wrap around the target simultaneously, attempting to immobilize and pull the victim toward the central mass. Grappled targets take ongoing constriction damage and cannot easily break free.
+Multiple tendrils wrap around the target simultaneously, attempting to immobilize and pull the victim toward the central mass. Grappled targets are squeezed harder the longer they are held and cannot easily break free.
 
 ### Thorned Whipping
 
@@ -287,13 +287,13 @@ The tendrils lash with their sharp thorns, attempting to slash and wound targets
 
 ### Corrosive Acid Secretion
 
-Once a target is grappled, the tendrils exude a corrosive acid that burns exposed flesh and deteriorates armor and sohl. This acid weakens materials and living tissue alike.
+Once a target is grappled, the tendrils exude a corrosive acid that burns exposed flesh and eats into armor and kit. This acid weakens materials and living tissue alike.
 
 ## Special Abilities
 
 ### Bioluminescent Lure
 
-The Glowvine’s bioluminescent beads pulse in hypnotic patterns that draw the attention and curiosity of creatures. This effect is not directly compulsive but is deeply captivating; creatures drawn by the light gain disadvantage on perception checks and suffer penalties to noticing danger.
+The Glowvine’s bioluminescent beads pulse in hypnotic patterns that draw the attention and curiosity of creatures. This effect is not directly compulsive but is deeply captivating; creatures drawn by the light are slow to notice danger.
 
 ### Hallucinogenic Spores
 
@@ -309,7 +309,7 @@ When growing in dark environments with adequate moisture, the Glowvine slowly re
 
 ## Additional Information
 
-Fire is highly effective against Glowvines, as it destroys the plant structure and halts regeneration. Sustained bright light can drive the creature away or make it dormant. The spores released are not inherently lethal but are disorienting and can mask the creature’s position. Creating wind or air circulation can disperse spores and make them less effective. Glowvines show no interest in moving from optimal hunting positions—static traps rather than mobile predators.
+Fire is highly effective against Glowvines, as it destroys the plant structure and halts regeneration. Sustained bright light can drive the creature away or make it dormant. The spores released are not inherently lethal but are disorienting and can mask the creature’s position. Creating wind or air circulation can disperse spores and make them less effective. Glowvines show no interest in moving from a good hunting position—they are static traps rather than mobile predators.
 
 ## Attributes
 

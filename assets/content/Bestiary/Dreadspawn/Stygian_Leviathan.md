@@ -286,7 +286,7 @@ sohl:
 
 ![[stygnlvt|Stygian Leviathan]]{float: top-left}
 
-The water ahead grows darker, as though shadow itself is taking form, rising from the depths. You see something vast and terrible break the surface—scaled hide the color of a bruise, gray-black and ancient, crusted with what might be barnacles or might be something worse. Eyes like twin moons break the surface, studying you with an intelligence that is cold and utterly indifferent to your existence. The creature's breath is an exhalation like the wind from a tomb, and the water around it seems to grow colder, more viscous, weighted with age and predatory hunger. Then, impossibly, something wraps around your leg—a tentacle as thick as a man's arm, bristling with suckers and barbs, pulling downward with inexorable strength toward depths from which no scream can escape.
+The water ahead grows darker, as though shadow itself is taking form, rising from the depths. You see something vast and terrible break the surface—scaled hide the color of a bruise, gray-black and ancient, crusted with what might be barnacles or might be something worse. Eyes like twin moons break the surface, studying you with an intelligence that is cold and indifferent to your existence. The creature's breath is an exhalation like the wind from a tomb, and the water around it seems to grow colder, more viscous, weighted with age and predatory hunger. Then, impossibly, something wraps around your leg—a tentacle as thick as a man's arm, bristling with suckers and barbs, pulling downward with inexorable strength toward depths from which no scream can escape.
 
 # Dossier {#dossier}
 
@@ -302,7 +302,7 @@ A Stygian Leviathan claims a territory spanning miles of underground water and d
 
 ## Combat Strategy
 
-A Stygian Leviathan initiates combat by attacking with tentacles from a distance, attempting to grasp and drag prey into water or toward the creature's body. Once prey is within range, it uses multiple appendages in coordinated strikes while reserving its bite for finishing moves. The creature is intelligent enough to recognize overwhelming force and will retreat into deep water where pursuit becomes impossible for most enemies. A cornered or injured Leviathan becomes dramatically more aggressive, its tactics becoming less patient and more brutally direct. The creature will fight to the death if cornered, and its death throes can be as deadly as its attacks.
+A Stygian Leviathan initiates combat by attacking with tentacles from a distance, attempting to grasp and drag prey into water or toward the creature's body. Once prey is within range, it uses multiple appendages in coordinated strikes while reserving its bite for the kill. The creature is intelligent enough to recognize overwhelming force and will retreat into deep water where pursuit becomes impossible for most enemies. A cornered or injured Leviathan becomes dramatically more aggressive, its tactics becoming less patient and more brutally direct. The creature will fight to the death if cornered, and its death throes can be as deadly as its attacks.
 
 ## Attack Methods
 
@@ -322,7 +322,7 @@ If a victim is successfully dragged into water, the creature uses tentacles and 
 
 ### Deep-Water Supremacy
 
-The Stygian Leviathan is perfectly adapted to extreme pressure and cold that would kill lesser creatures instantly. In deep water, its movement speed increases, and its attacks gain advantage. In shallow water or on land, it becomes slow and sluggish.
+The Stygian Leviathan is perfectly adapted to extreme pressure and cold that would kill lesser creatures instantly. In deep water, it moves faster and strikes more surely. In shallow water or on land, it becomes slow and sluggish.
 
 ### Vibration Sense
 
@@ -338,7 +338,7 @@ So long as the Leviathan remains in deep, cold water, it regenerates from damage
 
 ## Additional Information
 
-Light is the Leviathan's primary weakness—bright magical light, sunlight, or even sustained illumination in its dark domain causes it genuine pain and disrupts its sensory awareness. Heat is equally effective; exposure to warmth weakens it, and being removed from cold water causes it to weaken slowly. The creature cannot survive indefinitely out of water, and in dry conditions it becomes increasingly sluggish. The teeth and bones of a slain Leviathan are extraordinarily valuable, capable of being crafted into legendary weapons or tools. Some civilizations have based entire economies on the occasional discovery of a Leviathan corpse, spending generations harvesting and processing its remains. The creature's hide can be rendered into leather of exceptional quality and resilience. Hunting a living Leviathan is considered a suicidal undertaking, and those rare expeditions that attempt it do so only with armies of support and sohl. The few survivors of such expeditions are forever changed by the experience.
+Light is the Leviathan's primary weakness—bright magical light, sunlight, or even sustained illumination in its dark domain causes it pain and disrupts its sensory awareness. Heat is equally effective; exposure to warmth weakens it, and being removed from cold water causes it to weaken slowly. The creature cannot survive indefinitely out of water, and in dry conditions it becomes increasingly sluggish. The teeth and bones of a slain Leviathan are extraordinarily valuable, capable of being crafted into weapons or tools of rare power. Some civilizations have based entire economies on the occasional discovery of a Leviathan corpse, spending generations harvesting and processing its remains. The creature's hide can be rendered into leather of great quality and resilience. Hunting a living Leviathan is considered a suicidal undertaking, and those rare expeditions that attempt it do so only with armies of support and kit. The few survivors of such expeditions are forever changed by the experience.
 
 ## Attributes
 

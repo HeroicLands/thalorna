@@ -256,7 +256,7 @@ sohl:
 
 ![[gntscrpn|Giant Scorpion]]{float: top-left}
 
-Movement at the edge of vision makes you turn—and a chill of primal horror runs down your spine. Emerging from beneath a rock outcropping is a creature easily ten feet long from the tip of its pincers to the end of its tail. The exoskeleton gleams in shades of dark brown and rust, armored like a knight in chitinous plate. The pincers are massive and cruel, each one ending in a curved point sharp enough to pierce armor. But worse is the tail—it curves high above the creature's body, segmented and sinuous, and at its tip a stinger glints with clear, oily venom that drips to the ground and hisses where it falls. The creature's multiple eyes fix on you, and you have the absolute conviction that you are being measured, evaluated, and found edible.
+Movement at the edge of vision makes you turn—and a chill of primal horror runs down your spine. Out from under a rock outcropping comes a creature easily ten feet long from the tip of its pincers to the end of its tail. The exoskeleton gleams in shades of dark brown and rust, armored like a knight in chitinous plate. The pincers are massive and cruel, each one ending in a curved point sharp enough to pierce armor. But worse is the tail—it curves high above the creature's body, segmented and sinuous, and at its tip a stinger glints with clear, oily venom that drips to the ground and hisses where it falls. The creature's multiple eyes fix on you, and you have the absolute conviction that you are being measured, evaluated, and found edible.
 
 # Dossier {#dossier}
 
@@ -278,7 +278,7 @@ A Giant Scorpion's preferred method is complete surprise—a target is completel
 
 ### Pincer Crush
 
-The massive pincers deliver a crushing force capable of splintering bones and breaking armor. A target caught by the pincers is held fast and takes additional crushing damage each round.
+The massive pincers deliver a crushing force capable of splintering bones and breaking armor. A target caught by the pincers is held fast and crushed harder the longer it is held.
 
 ### Tail Sting
 
@@ -288,11 +288,11 @@ Once prey is grappled or helpless, the tail can strike repeatedly—injecting a 
 
 ### Exoskeletal Armor
 
-The Giant Scorpion's chitin provides exceptional protection against slashing and piercing weapons, deflecting many attacks entirely. Blunt weapons are more effective than edged ones. The soft undersides and joints between segments are more vulnerable.
+The Giant Scorpion's chitin provides superb protection against slashing and piercing weapons, deflecting many attacks entirely. Blunt weapons are more effective than edged ones. The soft undersides and joints between segments are more vulnerable.
 
 ### Ambush Predator
 
-A scorpion that remains motionless gains near-invisibility—particularly in rocky terrain where its coloration matches stone. A target caught unaware by a scorpion strike suffers significant disadvantage on defensive actions.
+A scorpion that remains motionless gains near-invisibility—particularly in rocky terrain where its coloration matches stone. A target caught unaware by a scorpion strike has little chance to defend itself.
 
 ## Additional Information
 

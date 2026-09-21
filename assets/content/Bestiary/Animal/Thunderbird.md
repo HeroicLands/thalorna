@@ -382,11 +382,11 @@ The Thunderbird is an enormous bird of prey standing as an apex aerial predator 
 
 ## Presentation
 
-The Thunderbird is a massive raptor with dark plumage ranging from deep black to charcoal, streaked with iridescent blue and silver that shifts with movement like captured lightning. The feathers are dense and structured, providing both insulation and weather resistance. The wings are proportionally enormous, with powerful flight muscles and extended feather structures designed for achieving high speeds and maneuverability despite the bird's massive size. The head is fearsome, with forward-facing golden eyes that burn with genuine intelligence and a sharp, hooked beak capable of tearing through armor. The talons are massive curved claws designed to seize and crush large prey.
+The Thunderbird is a massive raptor with dark plumage ranging from deep black to charcoal, streaked with iridescent blue and silver that shifts with movement like captured lightning. The feathers are dense and structured, providing both insulation and weather resistance. The wings are proportionally enormous, with powerful flight muscles and extended feather structures designed for achieving high speeds and maneuverability despite the bird's massive size. The head is fearsome, with forward-facing golden eyes that burn with intelligence and a sharp, hooked beak capable of tearing through armor. The talons are massive curved claws designed to seize and crush large prey.
 
 ## Key Behaviors
 
-Thunderbirds are solitary, territorial creatures that hunt large prey in high-altitude regions. They are most active during stormy weather when wind currents reach their maximum and the bird's already-exceptional agility receives additional enhancement. They nest on inaccessible peaks and defend their territories aggressively against rival thunderbirds. These creatures are genuinely intelligent and capable of learning and remembering. They are most active during daylight but hunt opportunistically at any time.
+Thunderbirds are solitary, territorial creatures that hunt large prey in high-altitude regions. They are most active during stormy weather when wind currents reach their maximum and the bird's agility, already great, grows greater still. They nest on inaccessible peaks and defend their territories aggressively against rival thunderbirds. These creatures are intelligent and capable of learning and remembering. They are most active during daylight but hunt opportunistically at any time.
 
 ## Combat Strategy
 
@@ -422,15 +422,15 @@ The bird's eyesight is extraordinary, allowing it to spot movement from miles aw
 
 ### Lightning Affinity
 
-Some sources suggest thunderbirds possess supernatural electrical affinity, creating visible lightning during flight and potentially using electrical attacks during combat.
+By some accounts thunderbirds possess a supernatural electrical affinity, creating visible lightning during flight and potentially using electrical attacks during combat.
 
 ### Regenerative Power
 
-The thunderbird heals with remarkable speed, recovering from injuries that would cripple other creatures.
+The thunderbird heals with unnatural speed, recovering from injuries that would cripple other creatures.
 
 ### Additional Information
 
-Thunderbirds are most vulnerable when grounded or in enclosed spaces where they cannot achieve flight. The creatures are rare enough that many scholars question whether they exist or are purely legendary. A thunderbird that has successfully hunted humanoids may develop increasing boldness toward human-occupied lands. The creature's feathers are extraordinarily valuable and can be harvested after death for creation of magical items and powerful armor.
+Thunderbirds are most vulnerable when grounded or in enclosed spaces where they cannot achieve flight. The creatures are rare enough that many scholars question whether they exist or are only a story. A thunderbird that has successfully hunted humanoids may develop increasing boldness toward human-occupied lands. The creature's feathers are extraordinarily valuable and can be harvested after death for creation of magical items and powerful armor.
 
 ## Attributes
 

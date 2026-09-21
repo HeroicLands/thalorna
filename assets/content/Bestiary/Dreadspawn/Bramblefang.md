@@ -365,31 +365,31 @@ The Bramblefang is a patient, methodical hunter that dwells in dense undergrowth
 
 ## Combat Strategy
 
-The Bramblefang attacks only when certain of advantage. It charges from concealment or difficult terrain, attempting to close the distance before prey can retreat. Once engaged, it uses its thorned body as both offense and defense, causing bleeding wounds through simple contact while its tough hide resists counterattacks. If seriously injured or facing overwhelming opposition, it retreats into its thicket, where it uses tangled terrain to prevent pursuit. It never pursues prey beyond its claimed territory.
+The Bramblefang attacks only when certain of advantage. It charges from concealment or broken ground, attempting to close the distance before prey can retreat. Once engaged, it uses its thorned body as both offense and defense, causing bleeding wounds through simple contact while its tough hide resists counterattacks. If seriously injured or facing overwhelming opposition, it retreats into its thicket, where it uses tangled terrain to prevent pursuit. It never pursues prey beyond its claimed territory.
 
 ## Attack Methods
 
 ### Thorn Swipe
 
-The creature slashes with a limb covered in backward-curving thorns, attempting to tear open targets. These attacks cause not just trauma but also cause barbed edges to lodge in flesh, causing ongoing bleeding even after the creature disengages.
+The creature slashes with a limb covered in backward-curving thorns, attempting to tear open targets. The barbed edges lodge in the flesh they open, so the wound keeps bleeding even after the creature disengages.
 
 ### Tearing Bite
 
-The Bramblefang bites with force and malice, attempting to deliver crushing trauma to limbs or vital areas. Its bite often pulls away with strips of flesh or armor still caught on its wooden teeth.
+The Bramblefang bites with force and malice, attempting to crush limbs or vital areas. Its bite often pulls away with strips of flesh or armor still caught on its wooden teeth.
 
 ### Entangling Brambles
 
-The creature can manipulate thorny vines around itself or nearby terrain, attempting to grapple, entangle, or restrict prey. Once grappled, prey takes ongoing damage from the barbed thorns.
+The creature can manipulate thorny vines around itself or nearby terrain, attempting to grapple, entangle, or restrict prey. Once grappled, prey is torn continually by the barbed thorns.
 
 ## Special Abilities
 
 ### Thorny Body
 
-The Bramblefang’s entire form is a weapon and armor both. Any creature that grapples, is grappled by, or makes close physical contact with it takes immediate damage from thorns. Weapons used in melee combat risk becoming caught on thorns, potentially tearing from the wielder’s grip.
+The Bramblefang’s entire form is a weapon and armor both. Any creature that grapples, is grappled by, or makes close physical contact with it is immediately wounded by thorns. Weapons used in melee combat risk becoming caught on thorns, potentially tearing from the wielder’s grip.
 
 ### Camouflage
 
-When stationary in undergrowth or dense forest, the Bramblefang is nearly impossible to distinguish from natural bramble thickets. It gains advantage on concealment checks in its natural environment and can remain motionless for extended periods without tiring.
+When stationary in undergrowth or dense forest, the Bramblefang is nearly impossible to distinguish from natural bramble thickets. In its own ground it is very hard to spot, and it can remain motionless for extended periods without tiring.
 
 ### Thicket Growth
 

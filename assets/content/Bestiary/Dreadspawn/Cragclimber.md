@@ -347,7 +347,7 @@ sohl:
 
 ![[crgclmbr|Cragclimber]]{float: top-left}
 
-The rock face ahead seems to shift. What you thought was a ledge has eyes—polished, reflective, utterly aware—and the "cliff face" is moving toward you with terrible, impossible speed. Stone-colored scales rasp against stone as the creature propels itself downward with four limbs that move like liquid metal. Its tail lashes behind it, a whip of crystalline hardness. You realize with horror that it has been waiting, yards away and invisible, the entire time.
+The rock face ahead seems to shift. What you thought was a ledge has eyes—polished, reflective, aware—and the "cliff face" is moving toward you with terrible, impossible speed. Stone-colored scales rasp against stone as the creature propels itself downward with four limbs that move like liquid metal. Its tail lashes behind it, a whip of crystalline hardness. You realize with horror that it has been waiting, yards away and invisible, the entire time.
 
 # Dossier {#dossier}
 
@@ -377,13 +377,13 @@ The creature's whip-like tail is made of flexible but hardened bone and scale. A
 
 ### Diving Strike
 
-When attacking from height or a significant positional advantage, the Cragclimber launches itself at prey with claws extended, attempting to deliver maximum trauma through combined impact and tearing.
+When attacking from height or a significant positional advantage, the Cragclimber launches itself at prey with claws extended, attempting to do the greatest harm through combined impact and tearing.
 
 ## Special Abilities
 
 ### Stone Camouflage
 
-The Cragclimber's scales perfectly match surrounding rocky terrain, rendering it nearly invisible when stationary. It gains advantage on concealment checks on mountainsides and cliff faces and can hold position for extended periods without detection.
+The Cragclimber's scales perfectly match surrounding rocky terrain, rendering it nearly invisible when stationary. On mountainsides and cliff faces it is very hard to spot, and it can hold position for extended periods without detection.
 
 ### Vertical Supremacy
 
@@ -391,7 +391,7 @@ The creature's claws and muscular frame allow it to cling to vertical rock faces
 
 ### Stone Hardening
 
-The creature can deliberately harden its scales to stone-like rigidity, increasing its resistance to damage and allowing it to withstand impacts that would shatter normal bone. This ability is active in combat; ranged attacks against the Cragclimber have reduced effectiveness.
+The creature can deliberately harden its scales to stone-like rigidity, increasing its resistance to damage and allowing it to withstand impacts that would shatter normal bone. This ability is active in combat; arrows and other missiles do little against it.
 
 ## Additional Information
 

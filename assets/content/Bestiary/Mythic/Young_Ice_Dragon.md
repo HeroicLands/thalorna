@@ -479,15 +479,15 @@ The air crystallizes before you see it. Your breath freezes mid-exhale, turning 
 
 # Dossier {#dossier}
 
-Young ice dragons are apex predators of high mountains and glacial regions, possessing formidable strength and aerial mastery despite their comparative youth. They range from sixteen to twenty-four feet in length with wingspans of up to thirty-six feet, weighing between eight hundred and two thousand five hundred pounds. Unlike their fire-breathing kin, ice dragons are notably less aggressive and more methodical—a difference that makes them no less lethal, only deadlier in ways that require patience to recognize. A young ice dragon will observe a settlement for weeks before hunting, learning routes and schedules. It does not strike in rage; it strikes with precision.
+Young ice dragons are apex predators of high mountains and glacial regions, possessing great strength and aerial mastery despite their comparative youth. They range from sixteen to twenty-four feet in length with wingspans of up to thirty-six feet, weighing between eight hundred and two thousand five hundred pounds. Unlike their fire-breathing kin, ice dragons are notably less aggressive and more methodical—a difference that makes them deadlier, in ways that take patience to recognize. A young ice dragon will observe a settlement for weeks before hunting, learning routes and schedules. It does not strike in rage; it strikes with precision.
 
-The cold aura that surrounds a young ice dragon is genuinely lethal within prolonged proximity. Unprotected travelers within fifty feet will find their core body temperature dropping noticeably within minutes. Frostbite begins within an hour of exposure. The dragon's lair, invariably located in a glacier or mountain ice cave, becomes an environment where only the dragon thrives—stone becomes brittle, metal becomes treacherous, and flesh hardens and fails.
+The cold aura that surrounds a young ice dragon is lethal within prolonged proximity. Unprotected travelers within fifty feet will find their core body temperature dropping noticeably within minutes. Frostbite begins within an hour of exposure. The dragon's lair, invariably located in a glacier or mountain ice cave, becomes an environment where only the dragon thrives—stone becomes brittle, metal becomes treacherous, and flesh hardens and fails.
 
 ## Presentation
 
 A young ice dragon's scales are predominantly pale silver-blue, with deeper glacial blue striations along the spine and wings. The edges of its scales are translucent, almost crystalline, causing light to refract in disorienting patterns. Unlike the heat-darkened scales of fire dragons, these scales remain bright and reflective, making the creature shimmer even in dim light. Its eyes are pale silver-gray, devoid of warmth, and seem to calculate rather than merely observe.
 
-The dragon's hide is supernaturally cold to the touch, radiating frost in visible waves during calm weather. Breath mists perpetually from its nostrils. Ice forms spontaneously around its claws where they touch stone. Its wings, when folded, create a faint musical chiming as the scales settle against one another. The dragon's voice, when it chooses to speak, is low and measured—never urgent, never panicked. It speaks with the confidence of something that knows it will outlast you.
+The dragon's hide is supernaturally cold to the touch, radiating frost in visible waves during calm weather. Breath mists perpetually from its nostrils. Ice forms spontaneously around its claws where they touch stone. Its wings, when folded, create a faint musical chiming as the scales settle against one another. The dragon's voice, when it chooses to speak, is low and measured—never urgent, never panicked. It speaks with the confidence of something that knows it will outlast its listener.
 
 ## Key Behaviors
 
@@ -497,33 +497,33 @@ The young ice dragon is patient to the point of unsettling. It will circle prey 
 
 ## Combat Strategy
 
-A young ice dragon prefers to engage enemies at a distance, using its flight advantage and frost breath to separate prey from aid and create environmental hazards. It circles at altitude, making ranged attacks difficult while it pummels targets with its breath weapon. Only when prey is sufficiently weakened—frozen, disoriented, or isolated—does the dragon descend for melee combat.
+A young ice dragon prefers to engage enemies at a distance, using its flight and frost breath to separate prey from aid and create environmental hazards. It circles at altitude, making ranged attacks difficult while it pummels targets with its breath. Only when prey is sufficiently weakened—frozen, disoriented, or isolated—does the dragon descend to fight at close quarters.
 
-The dragon uses terrain ruthlessly. A single sweep of its tail near a glacier's edge can trigger avalanches. Its presence itself creates hazards; ice sheets become slick and treacherous, stone becomes brittle, and the very air becomes weaponized. The dragon is patient enough to force enemies into mistakes born of cold, fear, and desperation.
+The dragon uses terrain ruthlessly. A single sweep of its tail near a glacier's edge can trigger avalanches. Its presence itself creates hazards; ice sheets become slick and treacherous, stone becomes brittle, and the very air becomes a weapon. The dragon is patient enough to force enemies into mistakes born of cold, fear, and desperation.
 
 ## Attack Methods
 
 ### Bite
 
-The dragon's bite targets a single enemy within reach. The creature inflicts damage equal to its strength modifier plus weapon dice, and victims must resist cold exposure in addition to physical trauma.
+The dragon's bite takes a single enemy within reach. The jaws crush and tear with the creature's full strength behind them, and the wound freezes as it is made, so the victim suffers the cold as well as the injury.
 
 ### Claw Rake
 
-The dragon's claws extend and rake across one or more targets within reach, inflicting slashing damage and leaving wounds that frostbite rapidly. A claw rake can target multiple enemies in a small area.
+The dragon's claws extend and rake across one or more targets within reach, opening wounds that frostbite rapidly. A claw rake can catch several enemies standing close together.
 
 ### Tail Sweep
 
-The dragon's muscular tail whips in a broad arc, attempting to knock enemies prone or hurl them backward. Targets in the tail's path must resist a strength check or fall prone and take bludgeoning damage.
+The dragon's muscular tail whips in a broad arc, attempting to knock enemies down or hurl them backward. Anyone in the tail's path who cannot brace against it is thrown to the ground and battered.
 
 ### Frost Breath
 
-The dragon exhales in a fifteen-foot cone of supercooled mist and crystalline shards. Targets in the cone take cold damage and must resist or suffer reduced movement and vulnerability to additional cold damage on the next round. Unprotected targets can suffer frostbite.
+The dragon exhales a spreading cloud of supercooled mist and crystalline shards that reaches fifteen feet. Those caught in it are seared by the cold, and those who cannot shake it off are slowed and left more vulnerable to the next blast. Unprotected targets can suffer frostbite.
 
 ## Special Abilities
 
 ### Frost Breath
 
-The dragon's breath weapon manifests as a cone of supercooled air laced with razor-sharp ice crystals. The cold is so intense it burns, and the mist obscures vision. A young ice dragon can use this ability multiple times but must rest between uses.
+The dragon's breath is a spreading blast of supercooled air laced with razor-sharp ice crystals. The cold is so intense it burns, and the mist obscures vision. A young ice dragon can breathe this way several times but must rest between breaths.
 
 ### Flight
 
@@ -535,7 +535,7 @@ The dragon's scales are supernaturally hard, shedding conventional weapons and p
 
 ### Cold Aura
 
-The dragon's natural body temperature is so far below freezing that it radiates killing cold. Creatures within fifty feet of the dragon take incremental cold damage based on proximity and exposure duration. This aura cannot be dispelled without affecting the dragon itself.
+The dragon's natural body temperature is so far below freezing that it radiates killing cold. Creatures within fifty feet of the dragon are harmed by the cold, and the harm grows the closer they stand and the longer they stay. The aura cannot be lifted without affecting the dragon itself.
 
 ## Attributes
 
