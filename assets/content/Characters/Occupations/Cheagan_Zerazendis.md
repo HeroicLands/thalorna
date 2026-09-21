@@ -556,7 +556,7 @@ Chéagan Zêrâzêndis is a 32-year-old woman who stands 5'7" tall and is slende
 
 # Dossier {#dossier}
 
-Born in the Vylaría region to a freeman family of Vylarian heritage, Chéagan Zêrâzêndis came into the world of the innkeeper through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Chéagan Zêrâzêndis came into the world of the innkeeper through a combination of circumstance and aptitude.
 
 Chéagan inherited the Zêrâzêndis Inn from her parents and has worked hard to keep it running smoothly. She is known for her hearty meals and warm hospitality. Chéagan is passionate about creating a welcoming atmosphere, and her inn has become a beloved spot for local farmers and travelers alike. Despite her dedication, she often feels the weight of the responsibilities on her shoulders.
 

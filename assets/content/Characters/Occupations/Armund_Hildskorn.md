@@ -553,7 +553,7 @@ sohl:
 
 # Dossier {#dossier}
 
-Born in the Vrystwald region to a freeman family of Varokhi heritage, Ármund Hildskorn came into the world of the jester through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Ármund Hildskorn came into the world of the jester through a combination of circumstance and aptitude.
 
 Ármund grew up in the bustling streets of the city, using humor and wit to entertain those around him. He earned a reputation as a talented jester, known for his clever wordplay, acrobatics, and mimicry. Ármund now serves as the jester for the Duke, entertaining guests with his antics and providing comic relief during formal events. Despite his cheerful demeanor, he often uses humor to mask deeper insecurities.
 

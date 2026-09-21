@@ -556,7 +556,7 @@ Aevarr Hafringr is a 45-year-old man who stands 6'0" tall and is broad and solid
 
 # Dossier {#dossier}
 
-Born in the Nordheim region to a freeman family of Nordheimn heritage, Aevarr Hafringr came into the world of the longshoreman through a combination of circumstance and aptitude.
+Born in the [[affiliation-kngdmnrdhm|Nordheim]] region to a freeman family of Nordheimn heritage, Aevarr Hafringr came into the world of the longshoreman through a combination of circumstance and aptitude.
 
 Aevarr is a veteran longshoreman with over twenty years of experience on the docks. He has seen the industry evolve and is known for his knowledge of shipping practices and safety protocols. Aevarr takes pride in mentoring younger workers and is often called upon to resolve disputes or oversee complex loading operations. He values hard work and camaraderie, making him a respected figure among his peers.
 

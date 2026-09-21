@@ -557,7 +557,7 @@ Chýnara Kórisvar is a 33-year-old woman who stands 6'1" tall and is of moderat
 
 # Dossier {#dossier}
 
-Born in the Provènzia region to a freeman family of Provenzian heritage, Chýnara Kórisvar came into the world of the salter through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Chýnara Kórisvar came into the world of the salter through a combination of circumstance and aptitude.
 
 Chýnara has been working as a salter since she was a child, learning the trade from her parents. She operates a small saltworks near the coast, where she collects seawater and evaporates it to produce salt. Chýnara is known for her dedication to quality and often sells her salt to local fishermen and merchants. She is a resilient and hardworking individual who takes pride in her work and the role she plays in her community.
 

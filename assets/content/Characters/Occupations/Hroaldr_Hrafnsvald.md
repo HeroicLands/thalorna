@@ -557,7 +557,7 @@ Hróaldr Hrafnsvald is a 48-year-old man who stands 5'10" tall and is broad and 
 
 # Dossier {#dossier}
 
-Born in the Nordheim region to a guilded family of Nordheimn heritage, Hróaldr Hrafnsvald came into the world of the jeweler through a combination of circumstance and aptitude.
+Born in the [[affiliation-kngdmnrdhm|Nordheim]] region to a guilded family of Nordheimn heritage, Hróaldr Hrafnsvald came into the world of the jeweler through a combination of circumstance and aptitude.
 
 Hróaldr has spent more than two decades in the jewelry trade, honing his skills in crafting both traditional and contemporary pieces. He has a reputation for his expertise in valuing gemstones and negotiating prices. Hróaldr runs a successful shop that attracts a variety of clients, from nobles to common folk. Despite his success, he enjoys mentoring young apprentices in the craft.
 

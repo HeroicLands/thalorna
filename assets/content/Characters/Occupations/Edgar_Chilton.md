@@ -557,7 +557,7 @@ Edgar Chilton is a 45-year-old man who stands 5'7" tall and is of moderate build
 
 # Dossier {#dossier}
 
-Born in the Aelwyth region to a freeman family of Aelwythan heritage, Edgar Chilton came into the world of the embalmer through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Edgar Chilton came into the world of the embalmer through a combination of circumstance and aptitude.
 
 Edgar grew up in a family of undertakers, where he learned the art of embalming from his father. Known for his steady hands and meticulous nature, he has prepared many bodies for burial over the years. Edgar takes his work seriously, seeing it as a final service to the deceased and their families. While his profession makes some people uneasy, Edgar is dedicated to his craft and carries out his duties with a solemn respect for the dead.
 

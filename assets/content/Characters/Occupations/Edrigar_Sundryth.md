@@ -555,7 +555,7 @@ Edrígar Sundrýth is a 45-year-old man who stands 6'1" tall and is broad and so
 
 # Dossier {#dossier}
 
-Born in the Vrystwald region to a freeman family of Varokhi heritage, Edrígar Sundrýth came into the world of the miner through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Edrígar Sundrýth came into the world of the miner through a combination of circumstance and aptitude.
 
 Edrígar is a veteran miner with decades of experience in the field. He has worked in various mines and has a deep understanding of geology and extraction methods. Known for his wisdom and mentoring abilities, Edrígar often trains younger miners and shares his knowledge of the trade. He values the importance of safety and has fought for better conditions in the mines.
 

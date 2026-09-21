@@ -557,7 +557,7 @@ Hármund Garwald is a 55-year-old man who stands 6'0" tall and is broad and soli
 
 # Dossier {#dossier}
 
-Born in the Vrystwald region to a guilded family of Varokhi heritage, Hármund Garwald came into the world of the weaponcrafter (armorer) through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a guilded family of Varokhi heritage, Hármund Garwald came into the world of the weaponcrafter (armorer) through a combination of circumstance and aptitude.
 
 Hármund is a master blacksmith and weaponcrafter who has been forging weapons for over thirty years. His blades are known for their durability and sharpness, and he has earned a reputation as one of the finest weaponcrafters in the city. Hármund is strict with his apprentices, demanding precision and quality in every piece. He takes pride in his work, but age has begun to slow him down, and he struggles to maintain the same level of output as in his younger years.
 

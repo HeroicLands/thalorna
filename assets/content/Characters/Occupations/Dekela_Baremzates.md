@@ -554,7 +554,7 @@ Dékêla Bàremzâtês is a 32-year-old woman who stands 5'11" tall and is of mo
 
 # Dossier {#dossier}
 
-Born in the Vylaría region to a freeman family of Vylarian heritage, Dékêla Bàremzâtês came into the world of the potter through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Dékêla Bàremzâtês came into the world of the potter through a combination of circumstance and aptitude.
 
 Dékêla has been a potter since she was a child, learning the craft from her parents who owned a small pottery shop. Known for her unique designs and attention to detail, she specializes in creating functional pottery with intricate patterns. Dékêla takes pride in her work and often participates in local markets and fairs to showcase her creations. She enjoys experimenting with different glazes and techniques to develop her style.
 

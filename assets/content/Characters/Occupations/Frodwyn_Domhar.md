@@ -559,7 +559,7 @@ Fródwyn Dómhár is a 38-year-old woman who stands 5'8" tall and is of moderate
 
 # Dossier {#dossier}
 
-Born in the Vrystwald region to a noble family of Varokhi heritage, Fródwyn Dómhár came into the world of the scholar through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a noble family of Varokhi heritage, Fródwyn Dómhár came into the world of the scholar through a combination of circumstance and aptitude.
 
 Professor Fródwyn is a distinguished scholar of natural sciences, known for her groundbreaking research in botany and herbal medicine. She has authored several influential texts on the subject and is frequently invited to speak at conferences. Fródwyn is passionate about using her knowledge to improve the lives of others and often conducts workshops to teach practical applications of her research. She believes in the importance of blending science with community service.
 

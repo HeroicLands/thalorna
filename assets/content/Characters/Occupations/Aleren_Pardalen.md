@@ -554,7 +554,7 @@ sohl:
 
 # Dossier {#dossier}
 
-Born in the Élavendre region to a freeman family of Élavendri heritage, Áleren Párdalen came into the world of the shaman through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Áleren Párdalen came into the world of the shaman through a combination of circumstance and aptitude.
 
 Áleren became a shaman after a profound vision during a hunting expedition. Since then, he has served as a mediator between the spirit world and his people, often called upon to resolve disputes and interpret omens. Áleren is more practical than mystical, believing in the shaman's role as a guide rather than a miracle worker. His pragmatic approach sometimes brings him into conflict with more traditional shamans.
 

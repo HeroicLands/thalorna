@@ -560,7 +560,7 @@ Garlîndris Korâzênis is a 45-year-old man who stands 5'9" tall and is of mode
 
 # Dossier {#dossier}
 
-Born in the Vylaría region to a freeman family of Vylarian heritage, Garlîndris Korâzênis came into the world of the herald through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Garlîndris Korâzênis came into the world of the herald through a combination of circumstance and aptitude.
 
 Sir Cedric Loudvale comes from a long line of minor nobility who have served as heralds for generations. Trained from a young age in the intricacies of heraldry, he is known for his commanding voice and meticulous attention to the details of protocol. He takes great pride in upholding the dignity of his family’s legacy and is often tasked with announcing important decrees and leading ceremonial events for the city’s nobility. Cedric's adherence to tradition sometimes makes him appear rigid, but his dedication to his craft is unquestionable.
 

@@ -534,7 +534,7 @@ Bélrik stands 5'7" with a medium build — compact and quietly strong rather th
 
 # Dossier {#dossier}
 
-Bélrik was born in the forest borderlands of Élavendre, son of a ranger who worked the deep woods. His mother was a settlement dweller; his father was a man of the wild who lived in that liminal space between Élavendren civilization and the ancient forest itself. Bélrik inherited his father's discomfort with walls and his mother's connection to people, a combination that made him ideally suited for border patrol work.
+Bélrik was born in the forest borderlands of [[place-elavendre|Élavendre]], son of a ranger who worked the deep woods. His mother was a settlement dweller; his father was a man of the wild who lived in that liminal space between Élavendren civilization and the ancient forest itself. Bélrik inherited his father's discomfort with walls and his mother's connection to people, a combination that made him ideally suited for border patrol work.
 
 At twenty, he volunteered for Élavendre's border militia, specifically requesting forest patrol duty. For fifteen years, he has worked that role: monitoring boundaries, protecting settlements from predatory creatures, tracking foreign incursions through terrain that others find disorienting. He is more comfortable with a bow than a sword, more at ease among trees than in garrison compounds. He has killed three foreign agents, two aggressive forest predators, and one Élavendren political fugitive—a complex shooting that required his judgment more than his aim.
 
