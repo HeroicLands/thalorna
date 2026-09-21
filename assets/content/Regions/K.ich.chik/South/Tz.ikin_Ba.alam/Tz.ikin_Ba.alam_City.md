@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - sthrnkchchk
+    - tzikinbalmrgn
   population: null
 name:
   full: Tz'ikin Ba'alam

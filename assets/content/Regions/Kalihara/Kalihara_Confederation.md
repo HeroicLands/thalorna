@@ -16,7 +16,8 @@ data:
     offices: {}
   commonSkills: []
   seat: kaliharargn
-  domains: []
+  domains:
+    - kaliharargn
   population: null
   economy: []
   lore: []
