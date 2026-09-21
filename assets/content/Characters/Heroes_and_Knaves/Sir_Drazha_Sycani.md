@@ -9,7 +9,7 @@ name:
   title: Sir
   given: Drazha
   clan: Sycâni
-  home: telvari
+  home: karatas2
   aliases:
     - Knight of the Black Flame
     - Sir Drazha Sycani
@@ -596,7 +596,7 @@ Drazhan is a towering figure at 6'4" with a heavily muscled frame, weighing arou
 
 # Dossier {#dossier}
 
-Drazha Sycâni is from the **Sycâni holds**, a clan-country in the high passes above [[affiliation-karatas|Karataş]], on the desert side of [[place-byzariargn|Byzaría]]. The holds answer to no city's charter; the [[affiliation-byzarianlg|Byzarian League]] tolerates them as its eastern shield, because the clans fight the desert raiders so the League need not. No priest of the established faiths has ever reached them, and the Black Flame is practiced there openly. The holds are shaped by the austere values of their people, hard mountain folk who measure a man by what he can hold.
+Drazha Sycâni is from the **Sycâni holds**, a clan-country in the high passes above [[place-karatas2|Karataş]], on the desert side of [[place-byzariargn|Byzaría]]. The holds answer to no city's charter; the [[affiliation-byzarianlg|Byzarian League]] tolerates them as its eastern shield, because the clans fight the desert raiders so the League need not. No priest of the established faiths has ever reached them, and the Black Flame is practiced there openly. The holds are shaped by the austere values of their people, hard mountain folk who measure a man by what he can hold.
 
 Drazhan was born into the Sycâni, a powerful warrior clan, his father a fierce warlord and his mother a devoted priestess of the Black Flame. From his earliest years, Drazhan was trained to embrace the tenets of the Black Flame, which glorifies pain and suffering as paths to strength and transcendence. He was taught that strength and dominance are the measures of a person’s worth, and the weak should be crushed beneath the weight of their betters. His childhood was a brutal series of trials designed to harden him into an unrelenting warrior. The sacred **Trial of the Flames**, which every aspiring Black Flame must endure, left Drazhan’s body scarred but his spirit unbroken.
 
