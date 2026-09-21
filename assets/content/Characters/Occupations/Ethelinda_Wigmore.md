@@ -553,54 +553,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Ethelinda Wigmore is a 34-year-old woman who stands 6'0" tall and is of moderate build. She has a round face with soft cheekbones, a broad forehead, and an angular jaw that leads to a pointed chin. Her round green eyes sit beneath arched brows, lending her a candid gaze. A narrow nose and wide lips complete her features. She has fair skin with a fair complexion. Her graying brown hair is woven with small braids.
+Ethelinda Wigmore is a 34-year-old woman who stands 6'0" tall and is of moderate build. She has a round face with soft cheekbones, a broad forehead, and an angular jaw that leads to a pointed chin. Her round green eyes sit beneath arched brows and give her a candid gaze. She has a narrow nose and wide lips. She has fair skin. Her graying brown hair is woven with small braids.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Ethelinda Wigmore came into the world of the jailer through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Ethelinda Wigmore is a jailer.
 
-Ethelinda became a jailer after serving as a city guard for several years. She was drawn to the role because of the opportunity to make a difference by maintaining order and safety within the prison. Known for her sharp mind and keen observation skills, Ethelinda is good at reading people and often mediates disputes between inmates. While dedicated to her work, she sometimes struggles with the harshness of the environment.
+Ethelinda became a jailer after serving as a city guard for several years. She was drawn to the role by the chance to keep order and safety within the prison. Known for her sharp mind and close observation, she is good at reading people and often mediates disputes between inmates. While dedicated to her work, she sometimes struggles with the harshness of the place.
 
-Now at 34 years of age, Ethelinda Wigmore has established herself as a known figure among the jailers of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 34 years of age, she is a known figure among the jailers of Aelwyth.
 
 ## Psyche
 
 ### Personality
 
-Emotionally affected by the environment, can be too trusting of inmates.
+She is worn by the prison's harshness and can be too trusting of inmates.
 
 ### Motivation
 
-Ethelinda is driven by the desire to master her craft and secure a stable future. The uncertainties of life in jailer work keep her vigilant and adaptable.
+Ethelinda wants to keep order and safety within the prison without hardening to the place.
 
 ### Strengths
 
-Observant, skilled at de-escalating conflicts, disciplined.
+She is observant, skilled at calming quarrels, and disciplined.
 
 ## Social
 
-Ethelinda is affiliated with City Watch.
-
-As a Aelwythan jailer, Ethelinda occupies a recognized social niche within Aelwyth society.
+Ethelinda belongs to the City Watch.
 
 ## Companions
 
 ### Patrons
 
-Ethelinda's primary patron is City officials who value her conflict resolution skills.. This relationship provides both opportunity and obligation.
+Ethelinda's patrons are the city officials who value her skill at settling disputes.
 
 ### Enemies
 
-A few prisoners who see her empathy as a weakness.
+A few prisoners see her kindness as a weakness.
 
 ## Plot Hooks
 
-1. **The Jailer's Dilemma** — Ethelinda faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
+1. **The Jailer's Dilemma** — An inmate Ethelinda has come to trust asks her to look the other way, and the choice is between her fellow-feeling and her post.
 
-2. **Old Grudges** — A few prisoners who see her empathy as a weakness. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A prisoner who took her kindness for weakness sets out to prove it in front of the others.
 
-3. **Echoes of the Past** — Something from Ethelinda's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** — A man Ethelinda arrested in her years as a city guard is brought into her prison and remembers her.
 
-4. **Shifting Winds** — Political changes in Aelwyth threaten to upend the social order that Ethelinda depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — A change of officials in Aelwyth puts the prison under men who want it run harder, and Ethelinda can bend to them, resist them, or leave.
 
-5. **The Opportunity** — A chance encounter offers Ethelinda the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — Ethelinda is offered charge of the prison, and the price of it is not named up front.

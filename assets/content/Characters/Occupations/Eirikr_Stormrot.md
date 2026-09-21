@@ -553,54 +553,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Eiríkr Stormrót is a 54-year-old man who stands 5'10" tall and is broad and solidly built. He has an oval face with defined cheekbones, a lined forehead, and a square jaw that leads to a square chin. His piercing gray eyes sit beneath straight brows, lending him a penetrating gaze. A broad nose and firm lips complete his features. He has light skin with a fair complexion. His red hair is thick and unkempt. A notable feature is crow's feet at the corners of sharp eyes.
+Eiríkr Stormrót is a 54-year-old man who stands 5'10" tall and is broad and solidly built. He has an oval face with defined cheekbones, a lined forehead, and a square jaw that leads to a square chin. His piercing gray eyes sit beneath straight brows and give him a penetrating gaze. He has a broad nose and firm lips. He has light skin with a fair complexion. His red hair is thick and unkempt. He has crow's feet at the corners of his sharp eyes.
 
 # Dossier {#dossier}
 
-Born in the [[affiliation-kngdmnrdhm|Nordheim]] region to a freeman family of Nordheimn heritage, Eiríkr Stormrót came into the world of the fisher through a combination of circumstance and aptitude.
+Born in the [[affiliation-kngdmnrdhm|Nordheim]] region to a freeman family of Nordheimn heritage, Eiríkr Stormrót is a fisher.
 
-Eiríkr has spent his entire life on the water, fishing the coastal seas. He is known for his toughness and endurance, often staying out longer than others to ensure a good catch. Though his body has grown weary with age, Eiríkr remains a fixture at the docks and is respected for his hard-earned wisdom. He enjoys sharing stories of the sea and teaching younger fishers the ways of the trade.
+Eiríkr has spent his whole life on the water, fishing the coastal seas. He is known for his toughness and endurance, and often stays out longer than others to bring in a good catch. Though his body has grown weary with age, he remains a fixture at the docks and is respected for the wisdom of his years. He enjoys telling stories of the sea and teaching younger fishers the ways of the trade.
 
-Now at 54 years of age, Eiríkr Stormrót has established himself as a known figure among the fishers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 54 years of age, he is a known figure among the fishers of Nordheim.
 
 ## Psyche
 
 ### Personality
 
-Slower due to age, struggles with the physical demands of fishing.
+He is slower with age and struggles with the physical demands of fishing.
 
 ### Motivation
 
-Eiríkr is driven by the desire to master his craft and secure a stable future. The uncertainties of life in fisher work keep him vigilant and adaptable.
+Eiríkr wants to keep fishing as long as his body allows, and to pass what he knows of the sea to the younger fishers.
 
 ### Strengths
 
-Experienced, resilient, skilled in sea navigation, good teacher.
+He is experienced, resilient, skilled at finding his way at sea, and a good teacher.
 
 ## Social
 
-Eiríkr is affiliated with Coastal Fishers' Guild.
-
-As a Nordheimn fisher, Eiríkr occupies a recognized social niche within Nordheim society.
+Eiríkr belongs to the Coastal Fishers' Guild.
 
 ## Companions
 
 ### Patrons
 
-Eiríkr's primary patron is Local inns and fishmongers who value his consistent supply.. This relationship provides both opportunity and obligation.
+Eiríkr's patrons are the local inns and fishmongers who value his steady supply.
 
 ### Enemies
 
-None; respected in the community, though some younger fishers find him overly traditional.
+None; he is respected in the community, though some younger fishers find him overly traditional.
 
 ## Plot Hooks
 
-1. **The Fisher's Dilemma** — Eiríkr faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
+1. **The Fisher's Dilemma** — A season of poor catches leaves Eiríkr choosing between the grounds he has always fished and the riskier waters the younger fishers favour.
 
-2. **Old Grudges** — None; respected in the community, though some younger fishers find him overly traditional. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A younger fisher who thinks Eiríkr's ways outdated sets out to take his place with the inns and fishmongers.
 
-3. **Echoes of the Past** — Something from Eiríkr's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past** — A boat lost in a storm in Eiríkr's youth is found, and he is the only one left who remembers its crew.
 
-4. **Shifting Winds** — Political changes in Nordheim threaten to upend the social order that Eiríkr depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Nordheim threatens the trade Eiríkr depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Eiríkr the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — Eiríkr is offered the mastery of a larger boat than his own, and its price is not named up front.

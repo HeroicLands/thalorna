@@ -551,54 +551,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Thésia Delvánor is a 29-year-old woman who stands 5'10" tall and is of moderate build. She has a diamond face with prominent cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her almond-shaped amber eyes sit beneath heavy brows, lending her a measured gaze. A straight nose and narrow lips complete her features. She has medium-toned skin with a bronzed complexion. Her dark brown hair is braided and coiled at the nape. A notable feature is a crooked nose from an old break.
+Thésia Delvánor is a 29-year-old woman who stands 5'10" tall and is of moderate build. She has a diamond face with prominent cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her almond-shaped amber eyes sit beneath heavy brows and give her a measured gaze. She has a straight nose and narrow lips. She has medium-toned skin with a bronzed complexion. Her dark brown hair is braided and coiled at the nape. Her nose is crooked from an old break.
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Thésia Delvánor came into the world of the mercenary through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Thésia Delvánor is a mercenary.
 
-Thésia is a skilled fighter and mercenary who has built a reputation for her combat prowess. With a strong moral code, she takes on jobs that align with her beliefs, often defending the downtrodden and fighting against oppression. Thésia is known for her bravery and willingness to put herself in harm's way to protect others. She dreams of one day forming her own mercenary company.
+Thésia is a skilled fighter and mercenary who has built a reputation on her prowess in combat. With a strong moral code, she takes on jobs that fit her beliefs, often defending the downtrodden and fighting against oppression. She is known for her bravery and her willingness to put herself in harm's way to protect others. She dreams of one day forming her own mercenary company.
 
-Now at 29 years of age, Thésia Delvánor has established herself as a known figure among the mercenarys of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 29 years of age, she is a known figure among the mercenaries of Tarvénia.
 
 ## Psyche
 
 ### Personality
 
-Can be too idealistic, struggles with ruthless clients.
+She can be too idealistic and struggles with ruthless clients.
 
 ### Motivation
 
-Thésia is driven by the desire to master her craft and secure a stable future. The uncertainties of life in mercenary work keep her vigilant and adaptable.
+Thésia wants a company of her own, so that she chooses the jobs and the clients.
 
 ### Strengths
 
-Excellent combat skills, strong leadership abilities, empathetic.
+She is an excellent fighter, a strong leader, and quick to feel for others.
 
 ## Social
 
-Thésia is affiliated with Local Mercenaries' Guild.
-
-As a Tarvénan mercenary, Thésia occupies a recognized social niche within Tarvénia society.
+Thésia belongs to the Local Mercenaries' Guild.
 
 ## Companions
 
 ### Patrons
 
-Thésia's primary patron is Local communities seeking protection or help against threats.. This relationship provides both opportunity and obligation.
+Thésia's patrons are the local communities that hire her for protection or help against threats.
 
 ### Enemies
 
-Few; respected by those she helps but has made enemies among those who exploit the weak.
+Few; she is respected by those she helps but has made enemies among those who prey on the weak.
 
 ## Plot Hooks
 
-1. **The Mercenary's Dilemma** — Thésia faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
+1. **The Mercenary's Dilemma** — The only contract on offer is from a client whose methods Thésia despises, and her company will not be founded on an empty purse.
 
-2. **Old Grudges** — Few; respected by those she helps but has made enemies among those who exploit the weak. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A man whose hold over a village Thésia broke has hired mercenaries of his own.
 
-3. **Echoes of the Past** — Something from Thésia's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** — A village Thésia once defended sends for her again, and the threat this time is the company she fought beside.
 
-4. **Shifting Winds** — Political changes in Tarvénia threaten to upend the social order that Thésia depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Tarvénia threatens the guild contracts Thésia depends upon, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Thésia the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — Thésia is offered the men and money to found her company, and its price is not named up front.

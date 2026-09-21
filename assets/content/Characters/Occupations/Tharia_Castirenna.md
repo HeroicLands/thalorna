@@ -549,54 +549,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Thária Castírenna is a 27-year-old woman who stands 5'8" tall and is slender. She has an angular face with angular cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. Her large amber eyes sit beneath straight brows, lending her an expressive gaze. A hawkish nose and thin lips complete her features. She has olive skin with a battle-scarred complexion. Her gray hair is braided and coiled at the nape.
+Thária Castírenna is a 27-year-old woman who stands 5'8" tall and is slender. She has an angular face with angular cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. Her large amber eyes sit beneath straight brows and give her an expressive gaze. She has a hawkish nose and thin lips. She has olive, battle-scarred skin. Her gray hair is braided and coiled at the nape.
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Thária Castírenna came into the world of the domestic servant through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Thária Castírenna is a domestic servant.
 
-Thária was captured during a raid on her village and sold into slavery in the city, where she serves as a housemaid for a wealthy family. Although her tasks are not as grueling as those of a field laborer, she suffers from the emotional toll of being treated as property. Thária's sharp mind and quick reflexes have helped her avoid punishment, but she longs for a life of freedom.
+Thária was captured during a raid on her village and sold into slavery in the city, where she works as a housemaid for a wealthy family. Although her tasks are not as grueling as a field laborer's, being treated as property wears on her. Her sharp mind and quick reflexes have helped her avoid punishment, but she longs for freedom.
 
-Now at 27 years of age, Thária Castírenna has established herself as a known figure among the domestic servants of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 27 years of age, she is a known figure among the domestic servants of Tarvénia.
 
 ## Psyche
 
 ### Personality
 
-Tends to be anxious and fearful of punishment, struggles with self-worth.
+She tends to be anxious and fearful of punishment, and thinks little of herself.
 
 ### Motivation
 
-Thária is driven by the desire to master her craft and secure a stable future. The uncertainties of life in domestic servant work keep her vigilant and adaptable.
+Thária wants her freedom, and until she has it, to avoid punishment.
 
 ### Strengths
 
-Quick-witted, resourceful, skilled in domestic tasks.
+She is quick-witted, resourceful, and skilled in the work of a household.
 
 ## Social
 
-Thária is affiliated with None; has no freedom to join any groups..
-
-As a Tarvénan domestic servant, Thária occupies a recognized social niche within Tarvénia society.
+Thária belongs to no group; she has no freedom to join one.
 
 ## Companions
 
 ### Patrons
 
-Thária's primary patron is None; regarded only as a servant by her masters.. This relationship provides both opportunity and obligation.
+Thária has no patron; her masters regard her only as a servant.
 
 ### Enemies
 
-Other servants who resent her for trying to gain favor with the masters.
+Other servants resent her for trying to gain favor with the masters.
 
 ## Plot Hooks
 
-1. **The Domestic Servant's Dilemma** — Thária faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
+1. **The Domestic Servant's Dilemma** — Thária learns of a way out of the household, and taking it means leaving behind the servants who would be punished for her flight.
 
-2. **Old Grudges** — Other servants who resent her for trying to gain favor with the masters. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A servant who resents Thária's favor with the masters plants a theft on her.
 
-3. **Echoes of the Past** — Something from Thária's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** — Someone from the village Thária was taken from is brought into the household as a slave.
 
-4. **Shifting Winds** — Political changes in Tarvénia threaten to upend the social order that Thária depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Tarvénia threatens the household Thária serves, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Thária the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — Thária is offered her freedom by a stranger to the household, and its price is not named up front.

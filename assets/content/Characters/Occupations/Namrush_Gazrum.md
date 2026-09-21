@@ -533,9 +533,9 @@ Namrûsh stands 5'11" with a medium build — rangy and loose-limbed, with the e
 
 # Dossier {#dossier}
 
-Namrûsh was born into a Haradian merchant family but chose military service over commercial life. At seventeen, he joined the port warehouse district guard, a position that monitors cargo movement, prevents theft, and enforces commercial regulations. The work was less prestigious than he might have hoped, but it proved more interesting than his family's expectations. He discovered a talent for understanding how wealth actually moves through the city—not the official channels that appear on manifests but the real, complex networks that merchants use to avoid taxes, hide profits, and facilitate trade that exists outside legal frameworks.
+Namrûsh was born into a Haradian merchant family but chose military service over commercial life. At seventeen, he joined the port warehouse district guard, a position that monitors cargo movement, prevents theft, and enforces commercial regulations. The work had less prestige than he might have hoped, but it proved more interesting than his family's expectations. He discovered a talent for understanding how wealth actually moves through the city—not the official channels that appear on manifests but the real, complex networks that merchants use to avoid taxes, hide profits, and facilitate trade that exists outside the law.
 
-At thirty-two, he has spent fifteen years in warehouse district work and has become expertise in detecting deception in shipping documentation. Most guards look at cargo manifests and verify quantities; Namrûsh reads documentation and understands the gaps where illegal goods are hidden, where profits are being siphoned, where merchants are deceiving both the city and each other. His colleagues consider him overly focused on paperwork, but Namrûsh understands that actual crimes are often ledger crimes—visible in numbers and documentation rather than in physical evidence.
+At thirty-two, he has spent fifteen years in warehouse district work and has become expert at detecting deception in shipping documentation. Most guards look at cargo manifests and verify quantities; Namrûsh reads documentation and understands the gaps where illegal goods are hidden, where profits are being siphoned, where merchants are deceiving both the city and each other. His colleagues consider him overly focused on paperwork, but Namrûsh understands that actual crimes are often ledger crimes—visible in numbers and documentation rather than in physical evidence.
 
 The scar through his left eyebrow was earned during a confrontation with smugglers five years ago. He was investigating inconsistencies in a merchant's shipment documentation and encountered resistance that turned physical. He survived and pressed charges. The smugglers were prosecuted. The incident reinforced his understanding that the most dangerous criminals are the ones intelligent enough to hide their crimes in paperwork.
 
@@ -543,15 +543,15 @@ The scar through his left eyebrow was earned during a confrontation with smuggle
 
 ### Personality
 
-Namrûsh is methodical and precise, finding satisfaction in the detective work inherent in financial crime investigation. He is not particularly charismatic and does not form close friendships easily. He is genuinely intelligent about economic systems and will spend hours analyzing financial patterns that others find boring. He has a dry sense of humor about human nature and the creative methods people use to engage in fraud.
+Namrûsh is methodical and precise, finding satisfaction in the detective work of tracing crimes through accounts. He is not particularly charismatic and does not form close friendships easily. He is intelligent about the workings of trade and will spend hours analyzing financial patterns that others find boring. He has a dry sense of humor about human nature and the creative methods people use to engage in fraud.
 
 ### Motivation
 
-Namrûsh's primary motivation is understanding the true economic structure of his city—recognizing where wealth actually flows and how it moves. His secondary motivation is preventing the specific kind of crime that damages legitimate commerce through fraud. He is not motivated by ideology but by a genuine appreciation for the intellectual puzzle of financial investigation.
+Namrûsh's primary motivation is understanding the true economic structure of his city—recognizing where wealth actually flows and how it moves. His secondary motivation is preventing the specific kind of crime that damages legitimate commerce through fraud. He is not motivated by ideology but by an appreciation for the intellectual puzzle of financial investigation.
 
 ### Strengths
 
-His understanding of commercial documentation and financial systems is exceptional. He can recognize inconsistencies in manifests and accounts that others miss. He is patient with tedious investigation. His knowledge of merchant networks and relationships is comprehensive.
+His understanding of commercial documentation and accounts is thorough. He can recognize inconsistencies in manifests and accounts that others miss. He is patient with tedious investigation. His knowledge of merchant networks and relationships is comprehensive.
 
 ## Social
 
@@ -561,7 +561,7 @@ Namrûsh occupies an unusual role within the port warehouse district—respected
 
 ### Patrons
 
-**Warehouse Master Tariq Sindros** — The administrator of the port warehouse district. Tariq has come to rely on Namrûsh absolutely for maintaining order and preventing theft. He pays Namrûsh substantially above standard guard wages and has ensured his position is secure and protected from reassignment.
+**Warehouse Master Tariq Sindros** — The administrator of the port warehouse district. Tariq has come to rely on Namrûsh absolutely for maintaining order and preventing theft. He pays Namrûsh substantially above standard guard wages and has made his position secure and protected from reassignment.
 
 ### Enemies
 
@@ -569,12 +569,12 @@ Namrûsh occupies an unusual role within the port warehouse district—respected
 
 ## Plot Hooks
 
-1. **The Documentation Trap** — Namrûsh discovers evidence in shipping manifests that suggests a major merchant operation is engaged in human trafficking—moving people through the port disguised as legitimate cargo. The documentation is methodical and almost open; the perpetrators were confident nobody would recognize the pattern. Namrûsh assembles the evidence carefully. But when he reports it to Warehouse Master Tariq, he learns that the operation is being protected by senior government officials. Tariq warns him that pursuing the investigation will cost him his position and possibly his life. Namrûsh must choose between professional safety and exposing a serious crime.
+1. **The Documentation Trap** — Namrûsh discovers evidence in shipping manifests that suggests a major merchant operation is engaged in the trade in people—moving them through the port disguised as legitimate cargo. The documentation is methodical and almost open; the perpetrators were confident nobody would recognize the pattern. Namrûsh assembles the evidence carefully. But when he reports it to Warehouse Master Tariq, he learns that the operation is being protected by senior government officials. Tariq warns him that pursuing the investigation will cost him his position and possibly his life. Namrûsh can keep his post and his safety, or expose a serious crime.
 
-2. **The Corrupted Guard** — Namrûsh discovers that a younger warehouse guard has been accepting payments from Merchant Prince Hallak in exchange for failing to document certain cargo movements. The guard is technically skilled and has been praised for his work. Namrûsh faces a choice: arrest the guard (destroying his career) or give him a chance to resign, which allows Hallak to continue fraud while preserving the guard's future.
+2. **The Corrupted Guard** — Namrûsh discovers that a younger warehouse guard has been accepting payments from Merchant Prince Hallak in exchange for failing to document certain cargo movements. The guard is technically skilled and has been praised for his work. Namrûsh faces a choice: arrest the guard, ending his service, or give him a chance to resign, which allows Hallak to continue fraud while preserving the guard's future.
 
-3. **The Warehouse Master's Deception** — Namrûsh discovers that Warehouse Master Tariq has been engaged in systematic fraud—falsifying inspection records to allow contraband through the warehouse in exchange for bribes. Tariq has been Namrûsh's patron and supporter. The discovery is devastating personally and professionally. Namrûsh must choose between reporting his patron or becoming complicit in corruption.
+3. **The Warehouse Master's Deception** — Namrûsh discovers that Warehouse Master Tariq has been engaged in systematic fraud—falsifying inspection records to allow contraband through the warehouse in exchange for bribes. Tariq has been Namrûsh's patron and supporter. The discovery is devastating to him. He can report his patron or become complicit in corruption.
 
 4. **The Ledger Conspiracy** — Namrûsh discovers a pattern across multiple merchants that suggests they are working together to manipulate prices and monopolize certain goods. The conspiracy is probably illegal but is technically complex, and the merchants involved have political protection. Namrûsh is being pressured by his superiors to either stop investigating (because it involves politically protected people) or to rapidly close the case with insufficient evidence.
 
-5. **The Whistleblower's Risk** — A merchant's employee approaches Namrûsh privately with documentation proving that the employee's employer (a major merchant) is engaged in systematic organized crime: smuggling, fraud, and likely involvement in human trafficking. The employee has stolen the documentation and is now in possession of evidence that proves the crime but is itself technically evidence obtained through theft. The employee is asking Namrûsh to help her bring charges while protecting her identity. Accepting the evidence makes Namrûsh complicit in the theft. Refusing means allowing serious crime to continue.
+5. **The Whistleblower's Risk** — A merchant's employee approaches Namrûsh privately with documentation proving that the employee's employer (a major merchant) is engaged in systematic crime: smuggling, fraud, and likely involvement in the trade in people. The employee has stolen the documentation and is now in possession of evidence that proves the crime but is itself technically evidence obtained through theft. The employee is asking Namrûsh to help her bring charges while protecting her identity. Accepting the evidence makes Namrûsh complicit in the theft. Refusing means allowing serious crime to continue.

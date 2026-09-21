@@ -547,54 +547,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Hilda Browning is a 24-year-old woman who stands 5'6" tall and is of moderate build. She has a round face with soft cheekbones, a prominent forehead, and a strong jaw that leads to a delicate chin. Her narrow gray eyes sit beneath straight brows, lending her a keen gaze. A rounded nose and thin lips complete her features. She has fair skin with a ruddy complexion. Her blonde hair is loose and wavy.
+Hilda Browning is a 24-year-old woman who stands 5'6" tall and is of moderate build. She has a round face with soft cheekbones, a prominent forehead, and a strong jaw that leads to a delicate chin. Her narrow gray eyes sit beneath straight brows and give her a keen gaze. She has a rounded nose and thin lips. She has fair skin with a ruddy complexion. Her blonde hair is loose and wavy.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Hilda Browning came into the world of the prostitute through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Hilda Browning is a prostitute.
 
-Hilda works at a bustling brothel but has strong ties to the Gray Tide. While she provides companionship to clients, she secretly gathers information and assists the organization in various activities. Known for her charm and quick wit, Hilda uses her position to navigate the world of both pleasure and crime. She is determined to rise above her circumstances and dreams of one day escaping the life of a prostitute.
+Hilda works at a busy brothel but has strong ties to the Gray Tide. While she keeps clients company, she secretly gathers information and helps the organization in various ways. Known for her charm and quick wit, she uses her position to move between the trade in pleasure and the trade in crime. She is determined to rise above her circumstances and dreams of one day leaving the life of a prostitute.
 
-Now at 24 years of age, Hilda Browning has established herself as a known figure among the prostitutes of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 24 years of age, she is a known figure among the prostitutes of Aelwyth.
 
 ## Psyche
 
 ### Personality
 
-Can be overly trusting of her Tide contacts, struggles with her dual life.
+She can be too trusting of her Tide contacts and struggles with her double life.
 
 ### Motivation
 
-Hilda is driven by the desire to master her craft and secure a stable future. The uncertainties of life in prostitute work keep her vigilant and adaptable.
+Hilda wants out of the brothel, and the Gray Tide is the way out she has found.
 
 ### Strengths
 
-Skilled in persuasion, resourceful, good at gathering information.
+She is persuasive, resourceful, and good at gathering information.
 
 ## Social
 
-Hilda is affiliated with the Gray Tide, a maritime crime network operating in Aelwyth.
-
-As a Aelwythan prostitute, Hilda occupies a recognized social niche within Aelwyth society.
+Hilda belongs to the Gray Tide, a maritime crime network operating in Aelwyth.
 
 ## Companions
 
 ### Patrons
 
-Hilda's primary patron is Wealthy clients seeking companionship and entertainment.. This relationship provides both opportunity and obligation.
+Hilda's patrons are the wealthy clients who pay for her company and entertainment.
 
 ### Enemies
 
-Few; respected in her profession, but some rival guild members may see her as a threat.
+Few; she is respected in her trade, but some rival guild members may see her as a threat.
 
 ## Plot Hooks
 
-1. **The Prostitute's Dilemma** — Hilda faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
+1. **The Prostitute's Dilemma** — A client Hilda likes turns out to be the man the Gray Tide wants informed on, and she cannot keep faith with both him and the Tide.
 
-2. **Old Grudges** — Few; respected in her profession, but some rival guild members may see her as a threat. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A rival at the brothel who sees Hilda as a threat has worked out where her information goes.
 
-3. **Echoes of the Past** — Something from Hilda's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** — Someone from the family Hilda left behind finds her at the brothel.
 
-4. **Shifting Winds** — Political changes in Aelwyth threaten to upend the social order that Hilda depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Aelwyth threatens the Gray Tide's hold on the docks, and Hilda can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Hilda the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — The Gray Tide offers Hilda a place in the organization that would take her out of the brothel, and its price is not named up front.
