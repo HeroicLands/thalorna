@@ -574,7 +574,7 @@ His conscience sits at the threshold. The ruthlessness his investigations requir
 
 Azatô's mind is a tower with nobody living in it. It works with the clarity of polished steel, breaking a problem to its elements; his creativity shows as sideways leaps of insight, approaches to transmutation that colleagues cannot reproduce. And it is alone. Other people reach him as obstacles, instruments or background; he can lay out their motives exactly and does not feel them at all.
 
-The sheet says it plainly: reasoning 17, creativity 14, will 13, eloquence 13, morality 11, and an empathy of 8; the talent of 42 that marked him for the Ordo as a boy; mineral craft and discourse both at 60; embalming and river piloting both at 30. It is the profile of a man who can make you feel understood and has never once understood anybody.
+He is a man who can make you feel understood and has never once understood anybody.
 
 That is the dissonance in his company. The eloquence and the discourse let him project warmth, concern, even intimacy, and all of it is built — a mask worn so long that in his rarer quiet moments he wonders whether there is anything under it. His will has carried him through long nights at the bench, through setbacks, through the slow erosion of age; untempered by feeling, it has begun to set into something like obsession.
 

@@ -573,9 +573,9 @@ At thirty-five she has everything the Harding name was for — wealth, influence
 
 ## Psyche
 
-Audrey's reasoning is 18, in the range the Temple's examiners call brilliant, and her eloquence 16. The first shows as an almost uncanny grasp of pattern and system and outcome; she thinks in incentives and leverage because that is how the world arranges itself to her, not from malice. Meet her and she has assessed your value, your weak points and your use to her before you have finished your name.
+Audrey's mind is what the Temple's examiners call brilliant, and it shows as an almost uncanny grasp of pattern and system and outcome; she thinks in incentives and leverage because that is how the world arranges itself to her, not from malice. Meet her and she has assessed your value, your weak points and your use to her before you have finished your name.
 
-What makes her troubling is not the mind but what is missing beside it. She does not feel other people. Attachment for its own sake does not draw her, other people's needs puzzle her, and the eloquence lets her perform an understanding she does not have. Ideas she cares for; puzzles; the clean geometry of a well-made deal. People are interesting as systems and not otherwise.
+What makes her troubling is not the mind but what is missing beside it. She does not feel other people. Attachment for its own sake does not draw her, other people's needs puzzle her, and her eloquence lets her perform an understanding she does not have. Ideas she cares for; puzzles; the clean geometry of a well-made deal. People are interesting as systems and not otherwise.
 
 She is not cruel. In commerce and contract she keeps a strict code, and she believes that prosperity serves everyone and that growth makes abundance that can be shared. To those inside her circle she can be extraordinarily generous — her daughter Lyssa, eighteen now and starting out in the trading world, has every advantage Audrey's wealth and connections can buy. To those outside it she is indifferent with the completeness of stone.
 

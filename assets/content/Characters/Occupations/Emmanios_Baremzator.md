@@ -577,7 +577,7 @@ His secret is that he has stopped waiting for the Temple. He keeps a network of 
 
 Paired with it is a stubborn idealism about what compassion requires. Comfort is not enough; the causes must be addressed, and the Temple's posture — that Vylaria's decline is to be accepted and the priesthood's own safety secured — looks to him more and more like complicity in the suffering it claims to ease.
 
-He is not naive. His guile is 45 and his intrigue 48, which people who know only the gentle priest would not guess. He understands power, knows how an institution is worked from inside, and will deceive when he judges it necessary. The remedy network runs partly on what he grows and partly on careful theft and black-market friendships built over years. He is an idealist who has learned that ideals require dirty hands.
+He is not naive, which people who know only the gentle priest would not guess. He understands power, knows how an institution is worked from inside, and will deceive when he judges it necessary. The remedy network runs partly on what he grows and partly on careful theft and black-market friendships built over years. He is an idealist who has learned that ideals require dirty hands.
 
 What drives him has only hardened: the empire's collapse opens a window for people with vision and nerve to build something better. The Temple is too bound to the old order to do it, the lords too busy protecting their own share; but the villages, knit together in mutual aid and led by someone who cares whether they live, might come through the dark. He is moving, slowly, toward the conclusion that he will have to choose between the institution and the people, and toward the suspicion that when the empire finally breaks no institution will matter at all.
 
@@ -589,7 +589,7 @@ Unofficially he is the nearest thing his twelve villages have to a civic leader.
 
 With the wider priesthood it is another matter. The conservatives see his radical charity and his challenges to orthodoxy as dangerous. The liberals, who might be allies, are wary of how far he has drifted from the structure. The hierarchy tolerates him because removing him would set his villages alight, and that is pragmatism, not support.
 
-He has begun to draw the attention of radical reform movements inside the priesthood and of lay groups organising outside Church sanction. Some of them see in him the leader of a Floránia worship without a Church — distributed, rooted in the villages. He has committed to none of it. He is listening, and his resistance is thinning.
+He has begun to draw the attention of radical reform movements inside the priesthood and of lay groups organising outside Church sanction. Some of them see in him the leader of a Flórania worship without a Church — distributed, rooted in the villages. He has committed to none of it. He is listening, and his resistance is thinning.
 
 ## Companions
 

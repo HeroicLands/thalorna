@@ -566,7 +566,7 @@ Társia's position is privileged and deeply uncomfortable. She is deferred to be
 
 ### Enemies
 
-**Captain Mársel Jútharen** — A rival officer commanding the neighbouring garrison sector. Sordello is ambitious, well connected, and seething that Társia — younger, a woman, and a Torvaleth — was given the more valuable Kávrenath posting. He has begun recording every small decision she makes, waiting for the mistake he can use, and he spreads the story that her unit's success comes from brutality toward refugees and suspected collaborators.
+**Captain Mársel Jútharen** — A rival officer commanding the neighbouring garrison sector. Jútharen is ambitious, well connected, and seething that Társia — younger, a woman, and a Torvaleth — was given the more valuable Kávrenath posting. He has begun recording every small decision she makes, waiting for the mistake he can use, and he spreads the story that her unit's success comes from brutality toward refugees and suspected collaborators.
 
 ## Plot Hooks
 

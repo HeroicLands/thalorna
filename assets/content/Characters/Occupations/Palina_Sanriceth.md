@@ -570,7 +570,7 @@ Now she is the priestess who blesses a marriage bed as gravely as a sickbed, who
 
 Pálina's defining trait is her absolute sincerity, in a world that has taught her sincerity is dangerous. She believes that pleasure, desire and human connection are the goddess's gifts and that her work is to help people take them with reverence. The conviction is her strength and the place she can be hurt.
 
-Her empathy is 18, her intrigue 75, her guile 51. The first lets her see what people need under what they say they want; the other two let her move through Tarvénia's tangled politics without seeming to. To most people she looks straightforward and guileless. In fact she is careful, and plans; and every plan she makes is for someone else's good rather than her own advancement.
+She sees what people need under what they say they want, and she can move through Tarvénia's tangled politics without seeming to. To most people she looks straightforward and guileless. In fact she is careful, and plans; and every plan she makes is for someone else's good rather than her own advancement.
 
 The idealism causes real trouble. She sees the good that might be in people and situations that are past saving, and she is slow to notice when she is being used or her generosity milked. The scar on her leg came from defending someone she believed in, and there are signs it was not the only time her trust was catastrophically misplaced.
 
