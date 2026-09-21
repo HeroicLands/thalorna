@@ -602,79 +602,77 @@ sohl:
 
 ![[grgrsphthympls|Grégoras Ephthymiópoulos]]{float: top-left}
 
-Heavy through the shoulders and 6'0" tall, with the tanned, weathered skin of a man who has spent forty years on a slipway. Dark brown hair, hazel eyes, a diamond-shaped face with a hawkish nose, a pronounced chin, well-defined lips and dark brows.
+Grégoras stands 6'0" tall with a heavy build. He has weathered tanned skin, dark brown hair, and hazel eyes. His features include a diamond-shaped face, a hawkish nose, a pronounced chin, well-defined lips, and dark brows.
 
 # Dossier {#dossier}
 
 **The Shipwright's Apprenticeship**
 
-When a plank is wrong in the yard at Chrysamar, everyone within a hundred yards knows it. Grégoras's temper clears the slipway. It is over as fast as it comes and he holds nothing afterwards — the anger is at the plank, not the man who laid it — but nobody who has been on the wrong end of it forgets the experience, and the yard's work is very good.
-
-He was born in Chrysamar to a family without money and with, in his case, a head for numbers and for shapes in space. At nine his father apprenticed him to Master Shipwright Kyros the Old, the best builder on the Byzarian coast, and for twelve years Kyros pushed him: timber and its seasoning, the grain and where it fails, the sums for displacement and hull stress, the geometry of sail and ballast. Kyros held him to a standard nobody could meet and he came closer than anyone.
+Born in the maritime city of Chrysamar to a family of modest means, Grégoras showed early aptitude for mathematics and spatial reasoning. At age nine, his father apprenticed him to Master Shipwright Kyros the Old, the most celebrated shipbuilder of the Byzarian coast. For twelve years, Grégoras absorbed everything—understanding timber grain and seasoning, learning to calculate displacement and hull stress, mastering the geometry of sails and balance. Kyros recognized rare talent and pushed the boy relentlessly, holding him to impossibly high standards.
 
 **Rising Through the Guild Ranks**
 
-He passed his journeyman's examination at twenty-one and was given crews to supervise. His first vessel of his own was a small merchantman, delivered three weeks early and better built than anything else on the water that year, and that is the reputation he has kept: reliable and better than asked. Through his twenties and thirties he climbed the guild, and his refinements — a hull line here, a rigging plan that needed fewer hands, a way of sealing seams that held a season longer — began to be asked for by name.
+By age twenty-one, Grégoras completed his journeyman's examination and began supervising construction crews. His first independent commission was a merchant vessel of modest size; he completed it three weeks ahead of schedule with superior craftsmanship, establishing his reputation for reliable excellence. Throughout his twenties and thirties, he ascended the guild hierarchy, taking on increasingly complex and prestigious projects. His improvements to design—subtle changes to hull shape, rigging that needed fewer hands, novel approaches to weatherproofing—became prized by naval commanders and wealthy merchants alike.
 
 **Master and Commander**
 
-He made Master Shipwright at thirty-five and opened his own yard in Chrysamar. In season it employs thirty. The Byzarian fleet builds his warships; merchants buy his hulls for their speed and for how long they last. Each vessel now is a problem in mathematics as much as in carpentry, and he has grown harder with age, not softer. Anything short of the best is a personal insult.
+At age thirty-five, Grégoras achieved the rank of Master Shipwright and opened his own yard in Chrysamar, employing up to thirty craftspeople during busy seasons. His warship designs have been adopted by the Byzarian naval fleet, and his merchant vessels are prized for their speed and durability. His work has grown ever more refined—each vessel is a marvel of engineering, drawing on mathematics, a deep knowledge of timber and iron, and accumulated practical wisdom. Yet his success has not mellowed him; if anything, age has sharpened his perfectionism and his intolerance for anything less than excellence.
 
 ## Psyche
 
 ### Personality
 
-His work is nearly all of him. He thinks about hull strength and timber and how to make a design a shade better, and he has no patience for pleasantries or politics. A promise from him — a date, a specification — is kept exactly, and he expects the same and is astonished when he does not get it.
+Grégoras is a man consumed by his work, his consciousness rarely venturing far from questions of structural integrity, timber quality, and how a design might be improved. He speaks with the directness of someone who has no patience for social pleasantries or political maneuvering. His word is his bond; he commits to deadlines and delivery specifications with absolute seriousness, and he expects the same unflinching commitment from those he employs.
 
-The temper is famous. It burns out in minutes and leaves no grudge, and the people who work for him learn that it is aimed at failure, not at them, which is a comfort afterwards but not at the time. He pays fairly, keeps the yard safe, and treats a serious injury as a disaster rather than an inconvenience. He would not call that kindness. It is what a yard should be.
+His temper is notorious—minor delays, poor workmanship, or interference in his process can trigger volcanic outbursts that clear entire work sites. However, his anger, while intense, dissipates quickly, and he harbors no grudges. Those who experience his rage learn that it is directed at failure itself, not at the person, though this distinction provides little comfort in the moment. He has real compassion for his workers; he sees that they are paid fairly, that they work in safe conditions, and that serious injuries are treated as disasters rather than inconveniences.
 
 ### Motivation
 
-The perfect ship — strong and light and balanced so exactly that people will still be studying it in a hundred years. He knows his best years are behind him or nearly, and he is in a hurry to build the one that will be remembered before he can no longer climb the scaffold. He also knows he needs a successor, and he has not found an apprentice willing to be worked the way Kyros worked him.
+Grégoras is primarily motivated by the pursuit of maritime perfection—the creation of vessels that represent the summit of shipbuilding art and engineering. He yearns to design a ship so advanced, so perfectly balanced between strength and elegance, that it will be remembered and studied centuries hence. He is also increasingly aware that his most productive years may be behind him, driving him toward completing his masterwork before age robs him of the physical capacity to oversee major projects. He is also beginning to recognize that he needs a successor capable of carrying his legacy forward, and he is frustrated by the dearth of truly talented apprentices willing to commit to the grueling standards he demands.
 
 ### Strengths
 
-- **Mastery of Naval Engineering**: Hull, rig, ballast, and the theory behind all three. He can design a warship that is fast, hard to sink and lethal, and he has.
-- **Mathematical Brilliance**: Load calculations others would take a week over, done at the bench.
-- **Practical Craftwork Excellence**: He knows timber by hand and eye, runs a many-stage build without losing the thread, and lets nothing leave the yard he has not checked.
-- **Authoritative Leadership**: A big man with a big voice who is never wrong about the work, and a crew that does what he says because of the second part.
-- **Invention and Problem-Solving**: Several building methods now common on the coast were his first. He solves what other yards call impossible.
+- **Mastery of Naval Engineering**: His shipwright, engineering, and mathematics scores reflect comprehensive knowledge of vessel design, construction, and the theoretical principles underlying maritime vessels. He can design a warship that is simultaneously elegant, durable, and devastating in combat capability.
+- **Mathematical Brilliance**: His reasoning and mathematics allow him to perform complex load calculations, shape hulls to specific purposes, and devise solutions to unprecedented engineering challenges.
+- **Practical Craftwork Excellence**: His hands-on understanding of materials, his ability to manage complex multi-stage construction projects, and his quality control standards make him capable of flawless execution of even elaborate designs.
+- **Authoritative Leadership**: His command and strength scores reflect his natural ability to direct large crews with absolute authority. Workers obey his instructions without question, recognizing his mastery and commitment to their safety.
+- **Innovation and Problem-Solving**: His creativity combined with his technical knowledge allows him to devise novel solutions to shipbuilding challenges that others consider impossible. He has pioneered several construction techniques now adopted throughout the trade.
 
 ### Weaknesses
 
-- **Poor Interpersonal Management**: Excellent with craftsmen, useless with nobles and clerks. He inspires respect and fear and nothing warmer, and cannot bargain.
-- **Volatile Temperament**: Anyone who knows what sets him off can set him off, and some have done it on purpose.
-- **Limited Diplomacy and Eloquence**: He cannot charm, flatter or sell. Someone else has to bring in the customers.
-- **Perfectionism as Bottleneck**: He will not deliver a ship he is not satisfied with, which means late ships, cost overruns and patrons who expected them sooner.
-- **Vulnerability to Burnout**: He does nothing but work, and when the work fails or goes unappreciated he goes somewhere dark and stays a while.
+- **Poor Interpersonal Management**: His strength and direct nature, while excellent for commanding craftspeople, make him ineffective at the political and social aspects of managing a successful business. He struggles to inspire loyalty beyond that based on fear or respect, and he cannot negotiate effectively with nobles or bureaucrats.
+- **Volatile Temperament**: His quick anger, while not malicious, creates instability in his workplace and makes him vulnerable to manipulation by those who understand how to trigger his outbursts.
+- **Limited Diplomacy and Eloquence**: His lack of charm and eloquence reflects his discomfort with social niceties. He cannot charm patrons, schmooze with nobles, or sell himself effectively, leaving the selling to others.
+- **Perfectionism as Bottleneck**: His refusal to accept anything less than perfection sometimes delays projects, runs up costs, and frustrates patrons who expected speedier delivery.
+- **Vulnerability to Burnout**: His singular focus on his work and his inability to set it down make him prone to exhaustion and despair. When projects fail or when he perceives his work to be inadequately appreciated, he can fall into dark moods.
 
 ## Social
 
 ### Patrons
 
-- **Admiral Theodosius of the Byzarian Fleet**: The League's senior naval commander keeps him under permanent contract for warship design and building, and keeps the clerks away from him.
-- **House Merkarios**: A merchant dynasty that has bought several fast traders and naval auxiliaries from him. Its patriarch, Lord Justinian Merkarios, deals with him in person and asks his advice on anything that floats.
-- **Guild Master Petrolas**: Head of the Maritime Shipwrights' Guild, and the man who smooths over what Grégoras's manner breaks with the port's officials.
+- **Admiral Theodosius of the Byzarian Fleet**: The supreme naval commander of the Byzarian League maintains a permanent contract with Grégoras for advanced warship design and construction. Theodosius shields Grégoras from bureaucratic interference and sees that his projects get first call on materials.
+- **House Merkarios**: A wealthy merchant dynasty that has commissioned multiple high-speed merchant vessels and naval support ships. Their patriarch, Lord Justinian Merkarios, personally negotiates with Grégoras and values his counsel on maritime matters.
+- **Guild Master Petrolas**: The current head of the Maritime Shipwrights' Guild, Petrolas acts as a political buffer between Grégoras and various governmental bureaucracies, smoothing over conflicts caused by the shipwright's abrasive manner.
 
 ### Enemies
 
-- **The Byzarian Naval Bureaucracy**: The clerks and functionaries whose procedures he ignores and whose authority he despises. Several have blocked his projects or audited his books to repay a slight.
-- **Competitor Shipwright Stavros**: A rival master who builds cheaper, has begun undercutting him on price, and is telling anyone who will listen that the old man has lost his touch. Stavros has started winning contracts, which makes it worse.
-- **The Harbor Master's Office**: He will not pay the customary bribes or respect the harbor's regulations, and the office answers with fines, permit delays and inspections timed to hurt.
+- **The Byzarian Naval Bureaucracy**: Mid-level administrators and functionaries who view Grégoras's refusal to follow standard procedures and his contempt for political process as intolerable insubordination. Several have attempted to block his projects or audit his finances in retaliation for perceived slights.
+- **Competitor Shipwright Stavros**: A rival master shipwright whose designs put cheapness before quality, Stavros has begun undercutting Grégoras on price and spreading rumors that the aging master is losing his edge. This rivalry has become increasingly bitter as Stavros actually begins winning some contracts.
+- **The Harbor Master's Office**: Grégoras's refusal to grease the proper palms and his contempt for the harbor authority's regulations have resulted in repeated fines, permit delays, and bureaucratic harassment designed to make his work more difficult.
 
 ### Affiliations
 
-- **Maritime Shipwrights' Guild**: Master, and a member of its technical council, where he argues for stricter standards and usually loses.
-- **The Scholars of Technological Arts**: An informal circle of engineers, mathematicians and craftsmen who trade ideas. He attends irregularly and, when he does, enjoys it more than he lets on.
+- **Maritime Shipwrights' Guild**: Grégoras holds the rank of Master and sits on the guild's technical council, where he occasionally advocates for stricter standards and craft requirements.
+- **The Scholars of Technological Arts**: An informal circle of engineers, mathematicians, and craftspeople who share discoveries and discuss theoretical principles underlying their work. Grégoras participates irregularly but with real enthusiasm for the intellectual component of this community.
 
 ## Plot Hooks
 
-1. **The Impossible Commission**: A noble — or a foreign power — wants a warship built to specifications he can see at a glance cannot float: weight against strength, armor against draft. He refused. They kept offering, and the sum has reached the point where he is looking at the drawings again. It is possible the patron has an old manuscript or an artifact that makes the impossible merely difficult. It is also possible he is being set up.
+1. **The Impossible Commission**: A major noble or foreign power commissions Grégoras to build a warship incorporating specifications that he immediately recognizes as theoretically unsound—they demand impossible weight-to-strength ratios, armor thickness that would make the vessel too heavy to float, or other fundamental contradictions. Grégoras initially refuses, but the patron persists, offering such enormous payment that he reconsiders. The party might be hired to assist Grégoras in resolving the contradiction, discovering that the patron actually possesses an ancient artifact or theoretical manuscript that suggests a solution previously considered impossible. Alternatively, Grégoras might be forced to choose between his principles and financial desperation.
 
-2. **The Sabotaged Masterwork**: He has begun the ship that is meant to be his monument, and someone is spoiling it — hidden flaws in the timber, measurements altered by a finger's width, workers paid to be careless. The trail points at Stavros. It may not end there.
+2. **The Sabotaged Masterwork**: Grégoras begins work on his intended masterpiece—a warship so advanced it will eclipse all previous designs and cement his legacy as the greatest shipwright of his age. However, he begins discovering subtle sabotage in his materials and designs—timber with hidden flaws, measurements that have been subtly altered, key workers who are being paid to introduce errors. He hires adventurers to identify the saboteur(s). Investigation leads to Shipwright Stavros, his rival, who has become desperate enough to commit sabotage rather than compete fairly. The resolution might involve preventing further sabotage, dealing with Stavros through legal or more violent means, or discovering that someone is using Stavros as a dupe in a larger conspiracy.
 
-3. **The Cursed Timber**: A shipment of timber has arrived that is too good — grain like nothing he has seen, and it will not take a saw the way wood should. Since it came the yard has had accidents that should not have been possible, and the men are talking. The contract cannot be delayed and the wood cannot be used, and he needs to know where it was cut and by whom.
+3. **The Cursed Timber**: A shipment of unusually high-quality timber arrives for Grégoras's current project—wood so superior that it seems almost supernatural in its properties. Too late, he discovers the wood is cursed or comes from a forbidden source. Workers begin reporting strange occurrences, accidents that shouldn't be possible occur during construction, and the timber itself seems to resist cutting and shaping. Grégoras must work with the party to determine the source and nature of the curse and either lift it or find alternative materials without losing the major contract. The investigation might reveal the timber came from a forest sacred to an ancient power, or that it was harvested using slave labor and dark rituals.
 
-4. **The Naval Innovation Race**: Admiral Theodosius has commissioned a warship that would give the League's fleet a decisive edge over its rival, and the rival knows it. Somebody — possibly with Stavros's help — has been hired to steal the drawings or the ship before it launches, and the outcome will settle who owns the sea for a generation.
+4. **The Naval Innovation Race**: The Byzarian League and a rival naval power are engaged in an escalating race to build better warships. The League's Admiral Theodosius commissions Grégoras to design and build a warship incorporating new ideas that will give an overwhelming advantage at sea. However, the rival power simultaneously commissions the party (perhaps along with Grégoras's rival Stavros) to acquire the designs or the finished vessel before it can be deployed. The party becomes caught between competing factions, and the resolution determines which power will rule the sea for decades to come.
 
-5. **The Retirement Dilemma**: The one apprentice good enough to succeed him is leaving the trade — for love, or a chance elsewhere, or simply to get out from under him — and Grégoras, who cannot say what the loss would mean to him, has become impossible to work for and is driving the young man away faster. Somebody who could talk to both of them might still save it.
+5. **The Retirement Dilemma**: As Grégoras approaches the age when he feels he must finally take on a successor and begin transitioning away from day-to-day work, he realizes his most talented protégé is planning to leave the trade entirely to pursue a different calling (love, adventure, political opportunity, etc.). Grégoras, terrified of seeing his legacy lost and unable to articulate his emotional attachment, becomes difficult and controlling, driving the protégé away faster. The party might be hired to convince the protégé to reconsider, to help Grégoras learn to let go, or to discover that the protégé has a legitimate reason for leaving that requires the party's assistance to resolve. Alternatively, the party might assist Grégoras in recruiting and training a new generation of ship builders capable of carrying forward his methods and vision.
