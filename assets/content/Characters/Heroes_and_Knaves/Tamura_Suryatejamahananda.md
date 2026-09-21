@@ -599,13 +599,13 @@ sohl:
 
 ![[tmrsrytjmhnnd|Tamûra Sūryatejamahānanda]]{float: top-left}
 
-Tamûra stands 6'0" tall with a medium build. He has golden brown skin, graying black hair, and honey brown eyes. His features include a soft-featured face, a straight nose, a gentle jawline, an expressive mouth, golden brows, full cheeks. A distinguishing mark is a tattoo of a butterfly on the neck.
+Tamûra stands 6'0" tall with a medium build. He has golden brown skin, graying black hair, and honey brown eyes. His features include a soft-featured face, a straight nose, a gentle jawline, an expressive mouth, golden brows, and full cheeks. He has a tattoo of a butterfly on his neck.
 
 # Dossier {#dossier}
 
 Tamûra was born into the woodcrafter's caste of the City-States of [[affiliation-janpdsvdyr|Vedyara]], the second son of a master carpenter who had built his reputation on the creation of lasting structures and functional beauty. From childhood, Tamûra's relationship with wood was almost spiritual—he claimed he could hear what each piece wished to become, could sense the grain's direction before ever touching chisel to surface. Where his older brother pursued elaborate decorative work, Tamûra found his calling in structures that would last centuries: barn frames, ship keels, the massive gate timbers that stood against storm and siege.
 
-In his youth, Tamûra apprenticed under the legendary craftsman Maharaj Thavin Woodhearth, a figure of near-mythical status in Vedyaran woodcraft traditions. For thirteen years, he learned not merely technique but philosophy—the belief that every wooden creation was a covenant with future generations, a promise that it would bear its intended weight without failure. This philosophy shaped him entirely. While his contemporaries chased profitable commissions from wealthy merchants seeking ornate furniture, Tamûra established himself as the craftsman one employed when one's survival depended on quality.
+In his youth, Tamûra apprenticed under the celebrated craftsman Maharaj Thavin Woodhearth, a figure of near-mythical status in Vedyaran woodcraft traditions. For thirteen years, he learned technique and philosophy—the belief that every wooden creation was a covenant with future generations, a promise that it would bear its intended weight without failure. This philosophy shaped him entirely. While his contemporaries chased profitable commissions from wealthy merchants seeking ornate furniture, Tamûra established himself as the craftsman one employed when one's survival depended on quality.
 
 At fifty-four, Tamûra has achieved something far more valuable than wealth: he has become indispensable. His reputation extends across multiple city-states, and armies of agricultural workers have built their livelihoods around the tools and implements he crafts. More recently, he has taken on a role as mentor to younger craftsmen, though he admits he finds this frustrating—the younger generation seems more interested in quick profits than in the integrity of their work.
 
@@ -613,51 +613,51 @@ At fifty-four, Tamûra has achieved something far more valuable than wealth: he 
 
 ### Personality
 
-Tamûra is a man of few words, but each word carries weight. He speaks deliberately, often taking long pauses before responding, as though consulting with some internal wisdom before committing to speech. There is no artifice in him; he will tell you plainly if he thinks your idea is foolish, but without judgment or rancor. He finds joy in simple pleasures: a perfectly executed joint, the smell of fresh wood shavings, a meal prepared well.
+Tamûra is a man of few words, but each word carries weight. He speaks deliberately, often taking long pauses before responding, as though consulting with some internal wisdom before committing to speech. There is no artifice in him; he will tell a person plainly if he thinks their idea is foolish, but without judgment or rancor. He finds joy in simple pleasures: a perfectly executed joint, the smell of fresh wood shavings, a meal prepared well.
 
 He is not cold or distant, but he maintains clear boundaries between himself and others. His loyalty is absolute once earned, but he is deeply skeptical of those who seek relationships based on anything other than honest exchange. He respects effort and honesty above all qualities, and he is contemptuous of deceit or shortcuts, whether in craftsmanship or personal dealings. Despite his severity, those close to him know he possesses a dry wit and unexpected capacity for laughter, particularly at his own expense.
 
 ### Motivation
 
-Tamûra is motivated primarily by the desire to create things that will outlast him, that will serve genuine purpose for generations beyond his own lifetime. This is not an abstract motivation—he has been known to inquire, years after completing a commission, how his work has served. He also seeks to preserve traditional methods against the encroachment of cheaper, faster alternatives that sacrifice durability for profit. His mentorship of younger craftsmen, while he professes irritation at their shortcomings, reveals a deeper motivation: he wants to ensure that knowledge dies with him.
+Tamûra is motivated primarily by the desire to create things that will outlast him, that will serve a real purpose for generations beyond his own lifetime. This is not an abstract motivation—he has been known to inquire, years after completing a commission, how his work has served. He also seeks to preserve traditional methods against the encroachment of cheaper, faster alternatives that sacrifice durability for profit. His mentorship of younger craftsmen, while he professes irritation at their shortcomings, reveals a deeper motivation: he wants to see that his knowledge does not die with him.
 
 ### Strengths
 
-- **Uncompromising Craftsmanship**: His woodworking skill (13, specializing in functional pieces), combined with high levels in timbercraft (14), masonry (13), and metalcraft (13), make him the most reliable craftsman in his region. When Tamûra takes a commission, completion and quality are guaranteed.
+- **Uncompromising Craftsmanship**: His woodworking, in which he specializes in functional pieces, combined with his timbercraft, masonry, and metalcraft, makes him the most reliable craftsman in his region. When Tamûra takes a commission, completion and quality are guaranteed.
 
-- **Structural Understanding**: His reasoning (13) and awareness (14) allow him to grasp complex structural problems intuitively. He can identify weaknesses in others' designs and correct them before problems arise.
+- **Structural Understanding**: His reasoning and awareness allow him to grasp complex structural problems intuitively. He can identify weaknesses in others' designs and correct them before problems arise.
 
-- **Practical Problem-Solving**: With high strength (14) and survival (14), he can adapt to difficult conditions and resolve practical obstacles in real-time. He has built functioning structures in floods, droughts, and during wars.
+- **Practical Problem-Solving**: With his strength and survival skill, he can adapt to difficult conditions and resolve practical obstacles as they arise. He has built functioning structures in floods, droughts, and during wars.
 
-- **Institutional Knowledge**: His folklore (13) and ritual (14) knowledge stem from deep roots in Vedyaran craftsman traditions. He serves as a living repository of techniques that might otherwise be lost to time.
+- **Institutional Knowledge**: His knowledge of folklore and ritual stems from deep roots in Vedyaran craftsman traditions. He is a living store of techniques that might otherwise be lost to time.
 
-- **Dependable Execution**: His consistency is legendary. He meets deadlines, honors commitments, and produces work that matches specifications perfectly. This reliability has made him invaluable.
+- **Dependable Execution**: His consistency is well known. He meets deadlines, honors commitments, and produces work that matches specifications perfectly. This reliability has made him indispensable.
 
 ### Weaknesses
 
-- **Resistance to Innovation**: While his traditional methods are proven, Tamûra is slow to adopt new techniques or materials, even when they might improve efficiency or durability. This can make him seem obsolete to younger patrons or those seeking speed over tradition.
+- **Resistance to Innovation**: While his traditional methods are proven, Tamûra is slow to adopt new techniques or materials, even when they might save labor or improve durability. This can make him seem obsolete to younger patrons or those seeking speed over tradition.
 
-- **Limited Decorative Sensibility**: His creativity (11) is his lowest attribute, and it shows in his resistance to ornamental work. He views decoration as frivolous and unnecessary, which limits his appeal to wealthy clients seeking beauty alongside function.
+- **Limited Decorative Sensibility**: Creativity is his weakest quality, and it shows in his resistance to ornamental work. He views decoration as frivolous and unnecessary, which limits his appeal to wealthy clients seeking beauty alongside function.
 
-- **Poor Interpersonal Skills**: His eloquence (10) and comeliness (10) make him difficult to charm or be charmed by. He is not a salesman and dislikes negotiation, often accepting unfavorable terms rather than haggling.
+- **Poor Interpersonal Skills**: His plain speech and plain looks make him difficult to charm or be charmed by. He is not a salesman and dislikes negotiation, often accepting unfavorable terms rather than haggling.
 
-- **Aging Physicality**: At fifty-four, his endurance (13), while solid, is beginning to show strain. Long projects that once took him a season now take longer, and he is increasingly aware of his physical limitations.
+- **Aging Physicality**: At fifty-four, his endurance, while solid, is beginning to show strain. Long projects that once took him a season now take longer, and he is increasingly aware of his physical limitations.
 
-- **Inflexibility in Thought**: His will (14) is strong, but it manifests as stubbornness. Once convinced of a course of action, he is difficult to dissuade, even when circumstances suggest adjustment would be wise.
+- **Inflexibility in Thought**: His will is strong, but it shows as stubbornness. Once convinced of a course of action, he is difficult to dissuade, even when circumstances suggest adjustment would be wise.
 
 ## Social
 
 ### Patrons
 
-- **Farmer Lord Kestin Haroway**: A wealthy agricultural magnate who employs Tamûra exclusively for all structural work on his sprawling estates. Kestin considers Tamûra's work to be investment in his properties' permanence and pays handsomely for priority access to his time.
+- **Farmer Lord Kestin Haroway**: A wealthy landowner who employs Tamûra exclusively for all structural work on his sprawling estates. Kestin considers Tamûra's work to be an investment in the permanence of his properties and pays handsomely for first call on his time.
 
-- **the Vedyaran Guildhall Commission**: The official body overseeing craftsman standards frequently contracts with Tamûra to evaluate the work of other craftsmen or to handle critical infrastructure projects. His reputation lends legitimacy to their assessments.
+- **the Vedyaran Guildhall Commission**: The official body overseeing craftsman standards frequently contracts with Tamûra to evaluate the work of other craftsmen or to handle the most important public works. His reputation lends legitimacy to their assessments.
 
-- **Shipbuilder Master Alden Coursewright**: A renowned builder of merchant vessels who employs Tamûra for keel and frame work on his most important commissions, knowing his structural integrity will make the difference between a ship that lasts twenty years and one that lasts a century.
+- **Shipbuilder Master Alden Coursewright**: A celebrated builder of merchant vessels who employs Tamûra for keel and frame work on his most important commissions, knowing his structural integrity will make the difference between a ship that lasts twenty years and one that lasts a century.
 
 ### Enemies
 
-- **Industrialist Merchant Grayson Thrift**: A businessman who has mechanized much of the wood-processing trade, creating cheaper, faster production at the cost of quality. Grayson views Tamûra's insistence on traditional methods as an impediment to progress and has publicly derided his approach as antiquated. Grayson actively seeks to undercut Tamûra's prices and steal his commissions.
+- **Industrialist Merchant Grayson Thrift**: A merchant who has turned much of the wood-working trade over to mills, creating cheaper, faster work at the cost of quality. Grayson views Tamûra's insistence on traditional methods as an impediment to progress and has publicly derided his approach as antiquated. Grayson actively seeks to undercut Tamûra's prices and steal his commissions.
 
 - **Rival Craftsman Marden the Swift**: A younger woodcrafter who has made a name for himself by producing fashionable, ornate pieces quickly and cheaply. Marden sees Tamûra as a relic of the old ways, and he actively courts the younger patrons Tamûra alienates with his refusal to adapt.
 
@@ -665,16 +665,16 @@ Tamûra is motivated primarily by the desire to create things that will outlast 
 
 - **The Rural Craftsmen's Guild of Vedyara**: The primary organization governing craftsmen standards in the agricultural regions. Tamûra serves on their council and acts as one of their primary arbiters of quality and technique standards.
 
-- **The Woodhearth Lineage**: An informal but deeply respected chain of apprenticeship and mentorship stretching back three hundred years, of which Tamûra is a senior member. The lineage emphasizes that wood-craft is a calling, not merely a profession.
+- **The Woodhearth Lineage**: An informal but deeply respected chain of apprenticeship and mentorship stretching back three hundred years, of which Tamûra is a senior member. The lineage emphasizes that wood-craft is a calling rather than a trade alone.
 
 ## Plot Hooks
 
-1. **The Haunted Commission**: A mysterious noble from the far borders approaches Tamûra with a commission to craft a specific type of wooden structure—one that matches descriptions from ancient texts that Tamûra has never shared with anyone. The noble seems to know precisely what Tamûra builds in secret, in his own time, projects he has never shown to clients. When Tamûra refuses, the noble produces a document suggesting that these same structures appear in classified architectural records from the imperial archives. Tamûra must determine how this stranger knows his private work and what they intend to do with such knowledge.
+1. **The Haunted Commission**: A mysterious noble from the far borders approaches Tamûra with a commission to craft a specific type of wooden structure—one that matches descriptions from ancient texts that Tamûra has never shared with anyone. The noble seems to know precisely what Tamûra builds in secret, in his own time, projects he has never shown to clients. When Tamûra refuses, the noble produces a document suggesting that these same structures appear in sealed architectural records from the imperial archives. Tamûra must determine how this stranger knows his private work and what they intend to do with such knowledge.
 
-2. **The Apprentice's Betrayal**: A young apprentice of exceptional talent whom Tamûra took under his wing as a potential heir to the Woodhearth lineage disappears after three years of study. Months later, Tamûra discovers that the apprentice has been producing cheap imitations of his signature techniques, flooding the market and damaging Tamûra's reputation. When Tamûra confronts the apprentice, he discovers the young craftsman was coerced into this by the industrialist Grayson Thrift, but the apprentice is now too frightened to break free. Tamûra must decide whether to help his former student risk Grayson's wrath or allow his reputation to continue deteriorating.
+2. **The Apprentice's Betrayal**: A young apprentice of rare talent whom Tamûra took under his wing as a potential heir to the Woodhearth lineage disappears after three years of study. Months later, Tamûra discovers that the apprentice has been producing cheap imitations of his signature techniques, flooding the market and damaging Tamûra's reputation. When Tamûra confronts the apprentice, he discovers the young craftsman was coerced into this by the merchant Grayson Thrift, but the apprentice is now too frightened to break free. Tamûra can help his former student risk Grayson's wrath or allow his own reputation to go on deteriorating.
 
 3. **The Living Wood**: An elderly scholar approaches Tamûra with a fragment of wood that behaves impossibly—it never rots, grows in strange directions, and seems to be almost alive. The scholar claims that Tamûra is the only craftsman with the skill to work with such material and requests he create something specific from it, though the scholar is reluctant to reveal what. Tamûra discovers that this wood is somehow connected to an ancient curse or blessing affecting the region, and that both good and dark forces seek it.
 
-4. **The Bridge Between Worlds**: Tamûra is contracted to repair a massive ancient bridge that has stood for centuries, possibly millennia. As he works on it, he discovers that the original construction technique is impossible according to current knowledge—the wood should not have survived this long, the joinery should not support such weight, the structure defies explanation. An order of scholars offers significant payment for him to document exactly how the bridge was constructed, suggesting it holds secrets about ancient civilization that could rewrite history.
+4. **The Bridge Between Worlds**: Tamûra is contracted to repair a massive ancient bridge that has stood for centuries, possibly millennia. As he works on it, he discovers that the original construction technique is impossible according to current knowledge—the wood should not have survived this long, the joinery should not support such weight, the structure cannot be accounted for. An order of scholars offers significant payment for him to document exactly how the bridge was constructed, suggesting it holds secrets about ancient civilization that could rewrite history.
 
-5. **The Generational Debt**: Tamûra discovers that a significant loan his grandfather took decades ago was never fully repaid, and a merchant family now claims legal rights to Tamûra's property and business as settlement of the debt. When Tamûra investigates, he finds conflicting documents about whether the debt was actually settled. He must prove the truth while crafting a carefully managed legal strategy, all while his business suffers from the legal uncertainty. The twist: the merchant family's current head was once apprenticed to Tamûra and abandoned the craft, making the situation personal as well as legal.
+5. **The Generational Debt**: Tamûra discovers that a significant loan his grandfather took decades ago was never fully repaid, and a merchant family now claims legal rights to Tamûra's property and business as settlement of the debt. When Tamûra investigates, he finds conflicting documents about whether the debt was actually settled. He must prove the truth while managing his case at law with care, all while his business suffers from the legal uncertainty. The merchant family's current head was once apprenticed to Tamûra and abandoned the craft, making the situation personal as well as legal.
