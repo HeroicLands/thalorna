@@ -558,7 +558,7 @@ Sölmundr Blóthöll is a 32-year-old man who stands 6'1" tall and is of moderat
 
 # Dossier {#dossier}
 
-Born in the Nordheim region to a freeman family of Nordheimn heritage, Sölmundr Blóthöll came into the world of the yeoman archer through a combination of circumstance and aptitude.
+Born in the [[affiliation-kngdmnrdhm|Nordheim]] region to a freeman family of Nordheimn heritage, Sölmundr Blóthöll came into the world of the yeoman archer through a combination of circumstance and aptitude.
 
 Sölmundr has always had a knack for archery, learning to hunt with a bow from a young age. His skill with a longbow earned him a place among the local lord’s yeomen. Known for his accuracy and steady hand, Sölmundr has made a name for himself as one of the best archers in the region. He often serves as a scout and marksman, preferring to keep his distance from the chaos of melee combat.
 

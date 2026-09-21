@@ -554,7 +554,7 @@ Thrágrim Ríkhild is a 48-year-old man who stands 6'3" tall and is broad and so
 
 # Dossier {#dossier}
 
-Born in the Vrystwald region to a freeman family of Varokhi heritage, Thrágrim Ríkhild came into the world of the timberwright through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Thrágrim Ríkhild came into the world of the timberwright through a combination of circumstance and aptitude.
 
 Thrágrim has spent most of his life working in the forests, felling trees and crafting timber for construction. He learned the trade from his father and has earned a reputation for his skill and efficiency. Thrágrim is a hardworking man who takes pride in his craft, but his rough demeanor can be off-putting. He often works alone, preferring the solitude of the woods to the bustle of the village.
 

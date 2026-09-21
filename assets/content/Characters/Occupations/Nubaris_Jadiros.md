@@ -555,7 +555,7 @@ Nûbàris Jâdîrôs is a 40-year-old woman who stands 5'7" tall and is slender.
 
 # Dossier {#dossier}
 
-Born in the Heliónis region to a freeman family of Helionite heritage, Nûbàris Jâdîrôs came into the world of the nobility (courtier) through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Nûbàris Jâdîrôs came into the world of the nobility (courtier) through a combination of circumstance and aptitude.
 
 Lady Mirabel is a cunning and resourceful minor noble known for her shrewd political maneuvers and influence in court. While she has a reputation for being somewhat secretive, she uses her intelligence to navigate the complexities of noble society. Mirabel often acts as a mediator in disputes among her peers and is respected for her strategic thinking. She is adept at forging alliances and has a network of contacts throughout the region.
 

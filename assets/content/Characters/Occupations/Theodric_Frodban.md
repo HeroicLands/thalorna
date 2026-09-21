@@ -555,7 +555,7 @@ Theódric Fródbán is a 36-year-old man who stands 6'3" tall and is broad and s
 
 # Dossier {#dossier}
 
-Born in the Vrystwald region to a freeman family of Varokhi heritage, Theódric Fródbán came into the world of the miner through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Theódric Fródbán came into the world of the miner through a combination of circumstance and aptitude.
 
 Theódric has worked in the mines since he was a teenager, following in his father's footsteps. He specializes in extracting precious metals and stones, using his strength and experience to navigate the treacherous tunnels. Theódric is known for his reliability and strong work ethic, often taking on the most challenging tasks. He values camaraderie among his fellow miners and believes in looking out for one another.
 

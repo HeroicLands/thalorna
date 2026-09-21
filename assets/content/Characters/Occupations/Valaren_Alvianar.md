@@ -557,7 +557,7 @@ Valáren Álvianar is a 37-year-old man who stands 5'9" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the Tarvénia region to a freeman family of Tarvénan heritage, Valáren Álvianar came into the world of the bureaucrat through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Valáren Álvianar came into the world of the bureaucrat through a combination of circumstance and aptitude.
 
 Valáren began his career as a clerk and gradually climbed his way up in the city administration. He is known for his ability to find loopholes in regulations and for his ambition. While not particularly well-liked, his resourcefulness has earned him a place in some of the city’s higher circles.
 

@@ -558,7 +558,7 @@ Kólrith Delvánor is a 29-year-old man who stands 5'11" tall and is of moderate
 
 # Dossier {#dossier}
 
-Born in the Tarvénia region to a freeman family of Tarvénan heritage, Kólrith Delvánor came into the world of the pilot through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Kólrith Delvánor came into the world of the pilot through a combination of circumstance and aptitude.
 
 Kólrith is a daring pilot known for his adventurous spirit and quick reflexes. He often takes on challenging routes and is not afraid to push the limits of his airship. With a background in racing, he enjoys the thrill of speed and competition. While his boldness can lead to risky situations, Kólrith has a knack for finding innovative solutions in the air, making him a respected figure among his peers.
 

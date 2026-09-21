@@ -557,7 +557,7 @@ Sáfêrús Ghôlâris is a 52-year-old man who stands 5'9" tall and is of modera
 
 # Dossier {#dossier}
 
-Born in the Heliónis region to a noble family of Helionite heritage, Sáfêrús Ghôlâris came into the world of the clothier through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Heliónis]] region to a noble family of Helionite heritage, Sáfêrús Ghôlâris came into the world of the clothier through a combination of circumstance and aptitude.
 
 Sáfêrús is a master clothier whose shop has served the city’s nobility for decades. He is known for crafting luxurious garments and keeps up with the latest fashions from the capital. Sáfêrús's skills have earned him a reputation, but his demanding personality and high prices have also made him few friends among his peers.
 

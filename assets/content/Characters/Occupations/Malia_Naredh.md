@@ -556,7 +556,7 @@ Mália Náredh is a 32-year-old woman who stands 5'10" tall and is slender. She 
 
 # Dossier {#dossier}
 
-Born in the Élavendre region to a freeman family of Élavendri heritage, Mália Náredh came into the world of the herder through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Mália Náredh came into the world of the herder through a combination of circumstance and aptitude.
 
 Mália grew up on a small farm, learning the art of herding from her father. She specializes in caring for a large flock of sheep, guiding them to the best pastures and ensuring their health. Known for her gentle touch and patience, Mália has a knack for understanding animal behavior. While she loves her work, she dreams of one day owning her own land and expanding her flock.
 

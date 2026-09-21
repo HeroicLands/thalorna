@@ -557,7 +557,7 @@ Leofrun Chilwell is a 30-year-old woman who stands 5'11" tall and is slender. Sh
 
 # Dossier {#dossier}
 
-Born in the Aelwyth region to a freeman family of Aelwythan heritage, Leofrun Chilwell came into the world of the trapper through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Leofrun Chilwell came into the world of the trapper through a combination of circumstance and aptitude.
 
 Leofrun grew up in the forests, where her family lived off the land. She learned to trap animals and gather wild plants from a young age. Now, she traps animals both for their pelts and to protect local farms from pests. Known for her gentle approach to wildlife, she often releases animals when she can, choosing to trap selectively.
 

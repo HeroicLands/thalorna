@@ -557,7 +557,7 @@ Tamîtha Jâdurîon is a 28-year-old woman who stands 5'11" tall and is slender.
 
 # Dossier {#dossier}
 
-Born in the Heliónis region to a freeman family of Helionite heritage, Tamîtha Jâdurîon came into the world of the mason through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Tamîtha Jâdurîon came into the world of the mason through a combination of circumstance and aptitude.
 
 Tamîtha is a skilled mason who learned the trade from her father, who was also a respected stoneworker. She specializes in bricklaying and often works on public buildings and homes. Tamîtha has faced challenges in a male-dominated field but has proven herself through hard work and determination. Her attention to detail and dedication to quality make her a sought-after mason in the area.
 

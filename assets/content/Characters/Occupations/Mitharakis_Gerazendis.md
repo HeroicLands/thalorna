@@ -556,7 +556,7 @@ Mitharâkîs Gêrazêndis is a 50-year-old man who stands 6'0" tall and is of mo
 
 # Dossier {#dossier}
 
-Born in the Vylaría region to a freeman family of Vylarian heritage, Mitharâkîs Gêrazêndis came into the world of the jester through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Mitharâkîs Gêrazêndis came into the world of the jester through a combination of circumstance and aptitude.
 
 Mitharâkîs has spent decades as a jester, earning a reputation for his infectious laughter and playful spirit. He has performed for various lords and ladies, and his experience allows him to connect with audiences of all ages. Mitharâkîs’s humor often comes from storytelling and satire, and while he enjoys entertaining, he carries a wealth of wisdom gained from his years in the court. He values the importance of laughter in difficult times.
 

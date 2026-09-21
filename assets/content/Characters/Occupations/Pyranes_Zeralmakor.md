@@ -556,7 +556,7 @@ Pyrânês Zêralmâkor is a 39-year-old man who stands 5'9" tall and is of moder
 
 # Dossier {#dossier}
 
-Born in the Vylaría region to a noble family of Vylarian heritage, Pyrânês Zêralmâkor came into the world of the cartographer/artist through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaría]] region to a noble family of Vylarian heritage, Pyrânês Zêralmâkor came into the world of the cartographer/artist through a combination of circumstance and aptitude.
 
 Pyrânês hails from a wealthy family and pursued cartography out of a love for exploration. His maps are highly detailed and often feature embellishments that make them popular among collectors. However, his adventurous spirit sometimes gets him into dangerous situations, as he insists on personally surveying remote and uncharted areas.
 

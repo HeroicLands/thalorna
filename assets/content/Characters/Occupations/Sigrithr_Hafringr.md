@@ -534,7 +534,7 @@ Sigríthr stands 5'3" with a lean, weathered frame that has been carved down to 
 
 # Dossier {#dossier}
 
-Sigríthr Hafringr was born to a shield-maiden lineage in Nordheim's frozen northern coast. Her mother, **Álfa Stormborn**, was legendary along the Greyfjord: a warrior who commanded a crew of twenty raiders and died defending her hold against an Ibeerian incursion when Sigríthr was barely four winters old. Sigríthr has no memory of her mother, only the stories—how Álfa stood alone in a mountain pass, holding back thirty soldiers until the rest of her crew escaped. Those stories became a weight.
+Sigríthr Hafringr was born to a shield-maiden lineage in [[affiliation-kngdmnrdhm|Nordheim]]'s frozen northern coast. Her mother, **Álfa Stormborn**, was legendary along the [[place-greyfjord|Greyfjord]]: a warrior who commanded a crew of twenty raiders and died defending her hold against an Ibeerian incursion when Sigríthr was barely four winters old. Sigríthr has no memory of her mother, only the stories—how Álfa stood alone in a mountain pass, holding back thirty soldiers until the rest of her crew escaped. Those stories became a weight.
 
 Her father, **Garôn the Smith**, remarried quickly to a merchant woman and wanted Sigríthr to abandon the warrior's path. He built her a life in trade, away from fighting. But at fourteen, Sigríthr watched her father's new wife's nephew push a merchant off a dock during a dispute, and nobody moved to stop him. Something in her broke. She took up her mother's spear, left her father's house without farewell, and presented herself to the Greyfjord fortress commander demanding service as a shield-maiden in the traditional way.
 

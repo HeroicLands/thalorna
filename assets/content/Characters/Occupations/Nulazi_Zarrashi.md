@@ -553,7 +553,7 @@ Nûlazî Zarrâshî is a 31-year-old woman who stands 6'0" tall and is of modera
 
 # Dossier {#dossier}
 
-Born in the Harad region to a freeman family of Haradian heritage, Nûlazî Zarrâshî came into the world of the timberwright through a combination of circumstance and aptitude.
+Born in the [[place-haradregin|Harad]] region to a freeman family of Haradian heritage, Nûlazî Zarrâshî came into the world of the timberwright through a combination of circumstance and aptitude.
 
 Nûlazî comes from a family of timberwrights and has always felt at home in the forest. She specializes in selecting the best trees for various types of woodwork and is known for her keen eye and attention to detail. Nûlazî's work is highly valued by local carpenters, though some traditionalists have been slow to accept a woman in the trade.
 

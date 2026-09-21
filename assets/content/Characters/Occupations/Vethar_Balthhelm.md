@@ -555,7 +555,7 @@ Véthar Balthhelm is a 60-year-old man who stands 5'8" tall and is broad and sol
 
 # Dossier {#dossier}
 
-Born in the Vrystwald region to a guilded family of Varokhi heritage, Véthar Balthhelm came into the world of the innkeeper through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a guilded family of Varokhi heritage, Véthar Balthhelm came into the world of the innkeeper through a combination of circumstance and aptitude.
 
 Véthar has been the innkeeper of the Old Stone Inn for over thirty years. Known for his hearty laugh and welcoming nature, he has built a loyal clientele. Véthar is a skilled cook, often sharing recipes passed down through generations. While he enjoys the camaraderie of guests, he also values the peace and tranquility of the countryside.
 
