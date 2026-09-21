@@ -7,7 +7,6 @@ data:
   lore: []
   parents:
     - aureldirgn
-    - midhalnrgn
   population: 5000000
 name:
   full: Provènzia Region

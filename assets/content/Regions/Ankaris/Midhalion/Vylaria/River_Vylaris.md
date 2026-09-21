@@ -6,7 +6,8 @@ subType: feature
 data:
   demonym: null
   lore: []
-  parents: []
+  parents:
+    - vylariargn
   population: null
 name:
   full: River Vylaris
@@ -15,4 +16,4 @@ shortcode: vylarisrvr
 packFolder: vylaria
 ---
 
-The river the Vylarian heartland is named for.
+The river the Vylarian heartland is named for. It runs through the [[affiliation-provinclys|Province of Alyssa]] and the [[affiliation-provincvld|Province of Vald]], where it reaches the sea.

@@ -16,6 +16,7 @@ data:
     - kchchkcntnnt
   population: null
 shortcode: nrthrnkchchk
+packFolder: kichchik
 ---
 
 ## Overview

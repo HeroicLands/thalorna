@@ -13,7 +13,6 @@ data:
   demonym: null
   lore: []
   parents:
-    - midhalnrgn
     - ankrscntnnt
     - xerathia
   population: null

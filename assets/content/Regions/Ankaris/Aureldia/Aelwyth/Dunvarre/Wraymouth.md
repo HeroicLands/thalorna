@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - kingdmdnvr
+    - aelwyth
   population: 15000
 name:
   full: Wraymouth

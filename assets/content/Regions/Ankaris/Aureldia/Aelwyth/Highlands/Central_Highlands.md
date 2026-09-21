@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - repblctrvn
+    - aelwyth
   population: 58000
 name:
   full: The Central Highlands
