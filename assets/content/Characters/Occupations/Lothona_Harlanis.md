@@ -530,7 +530,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Lôthônâ stands 5'8" with a solid, medium build that carries its weight in the shoulders and arms. Her chestnut hair is kept practical — tied back and pinned when on duty, falling to her shoulders when loose. Her dark brown eyes are direct and unblinking, the kind that make petty criminals confess before she has asked a question. Her tanned skin is freckled across the bridge of her nose and cheeks, and her face is broad and strong-featured, with a firm jaw and a mouth that settles naturally into a skeptical line. Her knuckles are visibly calloused from years of hand-to-hand training. She wears the standard Alyssa guard kit — padded tunic over linen, leather bracers, a short sword and truncheon on her belt — with the settled ease of a woman who stopped thinking about her uniform a decade ago.
+Lôthônâ stands 5'8" with a solid, medium build that carries its weight in the shoulders and arms. Her chestnut hair is kept practical — tied back and pinned when on duty, falling to her shoulders when loose. Her dark brown eyes are direct and unblinking, the kind that make petty criminals confess before she has asked a question. Her tanned skin is freckled across the bridge of her nose and cheeks, and her face is broad and strong-featured, with a firm jaw and a mouth that settles naturally into a skeptical line. Her knuckles are visibly calloused from years of hand-to-hand training. She wears the standard [[affiliation-provinclys|Alyssa]] guard kit — padded tunic over linen, leather bracers, a short sword and truncheon on her belt — with the settled ease of a woman who stopped thinking about her uniform a decade ago.
 
 # Dossier {#dossier}
 

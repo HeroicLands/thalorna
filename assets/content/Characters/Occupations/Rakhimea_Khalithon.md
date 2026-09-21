@@ -555,7 +555,7 @@ Ràkhîmêa Khalîthôn is a 27-year-old woman who stands 6'1" tall and is of mo
 
 # Dossier {#dossier}
 
-Born in the Heliónis region to a freeman family of Helionite heritage, Ràkhîmêa Khalîthôn came into the world of the huscarl through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Ràkhîmêa Khalîthôn came into the world of the huscarl through a combination of circumstance and aptitude.
 
 Ràkhîmêa has always been driven to prove herself in a male-dominated field. She trained as a huscarl alongside her brothers and quickly became known for her fierce combat skills and tactical mind. Serving Lady Astrid, Ràkhîmêa aims to show that women can be just as formidable as men on the battlefield. Her confidence and determination inspire those around her.
 

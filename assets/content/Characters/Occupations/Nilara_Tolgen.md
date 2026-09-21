@@ -556,7 +556,7 @@ Nílara Tólgen is a 27-year-old woman who stands 5'10" tall and is slender. She
 
 # Dossier {#dossier}
 
-Born in the Provènzia region to a freeman family of Provenzian heritage, Nílara Tólgen came into the world of the yeoman archer through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Nílara Tólgen came into the world of the yeoman archer through a combination of circumstance and aptitude.
 
 Nílara grew up on the outskirts of the village, where her father taught her to use a bow for hunting. Her skills caught the eye of a local militia leader, who recruited her as a yeoman archer. Nílara is known for her speed and agility, allowing her to quickly reposition during battles. She is highly regarded for her ability to hit moving targets.
 

@@ -561,7 +561,7 @@ Sigríthr Hrafnsvald is a 35-year-old woman who stands 5'11" tall and is of mode
 
 # Dossier {#dossier}
 
-Born in the Nordheim region to a freeman family of Nordheimn heritage, Sigríthr Hrafnsvald came into the world of the shipwright through a combination of circumstance and aptitude.
+Born in the [[affiliation-kngdmnrdhm|Nordheim]] region to a freeman family of Nordheimn heritage, Sigríthr Hrafnsvald came into the world of the shipwright through a combination of circumstance and aptitude.
 
 Sigríthr grew up in a family of fishermen, but she was more interested in building boats than sailing on them. She apprenticed with a renowned shipwright and quickly earned a reputation for designing fast and sturdy vessels. Sigríthr has a passion for innovation and often experiments with new techniques, making her a standout in a male-dominated field.
 

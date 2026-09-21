@@ -558,7 +558,7 @@ Teshûran Bûrnashî is a 50-year-old man who stands 6'0" tall and is broad and 
 
 # Dossier {#dossier}
 
-Born in the Harad region to a freeman family of Haradian heritage, Teshûran Bûrnashî came into the world of the swordmaster through a combination of circumstance and aptitude.
+Born in the [[place-haradregin|Harad]] region to a freeman family of Haradian heritage, Teshûran Bûrnashî came into the world of the swordmaster through a combination of circumstance and aptitude.
 
 Teshûran was a mercenary who spent most of his life fighting in various skirmishes and wars. After losing his left eye in a battle, he retired from mercenary life and settled in a small village, where he teaches swordsmanship to young men and women seeking to defend their homeland. Teshûran's experience in real combat sets him apart from other swordmasters, but his past haunts him, and he struggles with guilt over the lives he took.
 

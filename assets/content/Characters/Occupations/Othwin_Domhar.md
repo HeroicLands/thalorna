@@ -555,7 +555,7 @@ sohl:
 
 # Dossier {#dossier}
 
-Born in the Vrystwald region to a freeman family of Varokhi heritage, Óthwin Dómhár came into the world of the trapper through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Óthwin Dómhár came into the world of the trapper through a combination of circumstance and aptitude.
 
 Óthwin has lived in the woods his entire life, learning to trap animals for food and furs from his grandfather. He is a grizzled veteran of the trade, well-versed in the habits of forest creatures. His experience allows him to locate animals that others cannot, and he is often sought after for tracking dangerous predators. Óthwin's gruff nature can be intimidating, but he is loyal to those who earn his trust.
 

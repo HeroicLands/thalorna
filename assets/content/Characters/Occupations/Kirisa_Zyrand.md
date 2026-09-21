@@ -555,7 +555,7 @@ Kírisa Zýrand is a 41-year-old woman who stands 5'10" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the Provènzia region to a freeman family of Provenzian heritage, Kírisa Zýrand came into the world of the cook through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Kírisa Zýrand came into the world of the cook through a combination of circumstance and aptitude.
 
 Kírisa works in the kitchen of a bustling inn, where she has become known for her flavorful soups and stews. She is practical and no-nonsense, having learned to cook out of necessity rather than passion. However, over the years, she has come to appreciate the art of cooking and takes pride in feeding the many travelers who pass through.
 

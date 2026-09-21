@@ -551,7 +551,7 @@ Kyàsârâ Kâselmakîs is a 29-year-old woman who stands 5'4" tall and is slend
 
 # Dossier {#dossier}
 
-Born in the Vylaría region to a freeman family of Vylarian heritage, Kyàsârâ Kâselmakîs came into the world of the thespian through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Kyàsârâ Kâselmakîs came into the world of the thespian through a combination of circumstance and aptitude.
 
 Kyàsârâ began her acting career as a street performer before being discovered by a theater director. She quickly rose to prominence, known for her ability to shift seamlessly between comedic and dramatic roles. Her performances are marked by a raw intensity that draws audiences in, but offstage, she struggles with bouts of loneliness and self-doubt.
 

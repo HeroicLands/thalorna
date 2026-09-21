@@ -556,7 +556,7 @@ Yálith Kálmereth is a 33-year-old woman who stands 5'8" tall and is of moderat
 
 # Dossier {#dossier}
 
-Born in the Élavendre region to a freeman family of Élavendri heritage, Yálith Kálmereth came into the world of the bard through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Yálith Kálmereth came into the world of the bard through a combination of circumstance and aptitude.
 
 Yálith earned the name "Kálmereth" for her clear, melodic voice. She grew up in a family of performers and chose the life of a bard, traveling from village to village. Yálith is known for her ballads of love and loss, which resonate with the common folk. Though she has performed for nobility, she prefers the freedom of the open road. Her music reflects the joys and hardships of life.
 

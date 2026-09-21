@@ -557,7 +557,7 @@ Oswald Dunwell is a 33-year-old man who stands 6'0" tall and is of moderate buil
 
 # Dossier {#dossier}
 
-Born in the Aelwyth region to a freeman family of Aelwythan heritage, Oswald Dunwell came into the world of the nobility (manor lord) through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Oswald Dunwell came into the world of the nobility (manor lord) through a combination of circumstance and aptitude.
 
 Sir Cedric is a minor noble who oversees his family's lands and is known for his dedication to improving agricultural practices in his region. He frequently hosts events to educate local farmers on innovative techniques and sustainable farming. Cedric is respected for his practical approach to leadership and his commitment to the welfare of his tenants. His focus on agriculture often leads him to clash with other nobles who prioritize trade and industry.
 

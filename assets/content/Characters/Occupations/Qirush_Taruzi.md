@@ -555,7 +555,7 @@ Qirûsh Tarûzî is a 41-year-old man who stands 5'11" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the Harad region to a freeman family of Haradian heritage, Qirûsh Tarûzî came into the world of the hideworker through a combination of circumstance and aptitude.
+Born in the [[place-haradregin|Harad]] region to a freeman family of Haradian heritage, Qirûsh Tarûzî came into the world of the hideworker through a combination of circumstance and aptitude.
 
 Qirûsh has spent his life working with animal hides, learning the craft from his father. He specializes in tanning and crafting leather goods, including clothing, armor, and accessories. Known for his meticulous work and quality, Qirûsh takes pride in using traditional methods to create durable and functional items. He is respected in his community, but the labor is physically demanding and can take a toll on his body.
 

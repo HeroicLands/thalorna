@@ -557,7 +557,7 @@ Khôrn Hálren is a 36-year-old man who stands 6'0" tall and is broad and solidl
 
 # Dossier {#dossier}
 
-Born in the Élavendre region to a freeman family of Élavendri heritage, Khôrn Hálren came into the world of the yeoman infantry through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Khôrn Hálren came into the world of the yeoman infantry through a combination of circumstance and aptitude.
 
 Khôrn has served as a yeoman infantryman for nearly two decades, first joining his local lord’s levy at the age of 18. Known for his bravery and physical strength, he has seen his share of battles and skirmishes. Khôrn is a reliable soldier who values loyalty, but the years of fighting have made him weary. He now hopes for a peaceful life but remains committed to his duty.
 

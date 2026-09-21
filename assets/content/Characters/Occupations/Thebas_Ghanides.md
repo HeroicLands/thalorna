@@ -555,7 +555,7 @@ Thêbas Ghânîdês is a 51-year-old man who stands 5'11" tall and is of moderat
 
 # Dossier {#dossier}
 
-Born in the Heliónis region to a freeman family of Helionite heritage, Thêbas Ghânîdês came into the world of the teamster through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Thêbas Ghânîdês came into the world of the teamster through a combination of circumstance and aptitude.
 
 Thêbas has been a teamster for over thirty years, traveling countless miles and weathering many storms. He is a familiar face on the trade routes and is often sought after for advice by younger teamsters. Known for his easygoing nature, he enjoys the freedom of the open road, but age is starting to catch up with him.
 

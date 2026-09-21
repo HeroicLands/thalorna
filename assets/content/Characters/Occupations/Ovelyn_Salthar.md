@@ -557,7 +557,7 @@ sohl:
 
 # Dossier {#dossier}
 
-Born in the Élavendre region to a freeman family of Élavendri heritage, Óvelyn Sálthar came into the world of the chandler through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Óvelyn Sálthar came into the world of the chandler through a combination of circumstance and aptitude.
 
 Óvelyn is a young chandler who recently started her own business after apprenticing with a skilled candle maker. She specializes in creating decorative and scented candles for special occasions and religious ceremonies. Her unique designs have begun attracting attention, though she still struggles to gain a foothold in the market.
 

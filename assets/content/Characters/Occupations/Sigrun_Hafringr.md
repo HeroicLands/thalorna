@@ -534,7 +534,7 @@ Sigrún stands 5'11" with a heavy, broad-shouldered build that would not look ou
 
 # Dossier {#dossier}
 
-Sigrún was born in a working-class Aelwythan community where her family operated a small weaving business. She grew up in relative poverty but with genuine community connection. At sixteen, her family's business failed due to competition from larger operations, and her parents fell into debt. At eighteen, Sigrún joined the market square guard partially for employment and partially for reasons she would not articulate clearly: a need to protect her community from the kind of predatory economics that destroyed her family.
+Sigrún was born in a working-class [[place-aelwyth|Aelwythan]] community where her family operated a small weaving business. She grew up in relative poverty but with genuine community connection. At sixteen, her family's business failed due to competition from larger operations, and her parents fell into debt. At eighteen, Sigrún joined the market square guard partially for employment and partially for reasons she would not articulate clearly: a need to protect her community from the kind of predatory economics that destroyed her family.
 
 At twenty-six, during a fire that consumed a warehouse in the market district, Sigrún was on patrol nearby. She heard a child screaming from the building and without conscious decision, she ran in. She rescued the child but was severely burned on her wrist in the process. The scar tissue there is substantial and painful on cold mornings. The incident made her locally famous and elevated her status from ordinary guard to community guardian.
 

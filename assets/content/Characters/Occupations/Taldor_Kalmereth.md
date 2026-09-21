@@ -556,7 +556,7 @@ Táldor Kálmereth is a 47-year-old man who stands 6'0" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the Élavendre region to a freeman family of Élavendri heritage, Táldor Kálmereth came into the world of the fisher through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Táldor Kálmereth came into the world of the fisher through a combination of circumstance and aptitude.
 
 Táldor has been fishing since he was a boy, learning the trade from his father along the coast. He owns a small fishing boat and spends his days at sea, catching fish to sell at the local market. Táldor is known for his deep knowledge of the ocean and its currents. Despite his rugged exterior, he has a gentle heart and often shares his catch with struggling families in the village.
 

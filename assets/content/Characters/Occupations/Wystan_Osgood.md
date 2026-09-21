@@ -555,7 +555,7 @@ Wystan Osgood is a 34-year-old man who stands 5'9" tall and is of moderate build
 
 # Dossier {#dossier}
 
-Born in the Aelwyth region to a freeman family of Aelwythan heritage, Wystan Osgood came into the world of the ratter through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Wystan Osgood came into the world of the ratter through a combination of circumstance and aptitude.
 
 Wystan has spent most of his life catching rats in the bustling streets of the city. Known for his quick reflexes and keen sense of smell, he uses a combination of traps and trained ferrets to control rodent populations. Wystan is a familiar figure in his neighborhood, often seen with his loyal ferret companion, Squeak. His skills are in high demand, especially in homes and markets plagued by infestations.
 
