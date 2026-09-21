@@ -601,7 +601,7 @@ The left ear carries the scar, an old one, taken from a suspect's knife when he 
 
 The younger guards talk about new locks. New chains, tally-boards, a way of running the cells that needs fewer men and less watching — a prison as a problem of arrangement rather than of people. Nobody has said to Xerôphôn that this would make him unnecessary. He has heard it anyway. It does not frighten him; it has the feel of an ending, the kind that comes to a way of doing a thing when the thing is about to be done another way.
 
-He did not start in the prison. He was a soldier of the City Watch in Moktur, the capital of the Empire of Vylaria, and an unusual one: while the others chased the arrests that got noticed, he did the evidence, the paperwork and the long patient questioning of suspects. His superiors found in him a man who could not be bribed and who also understood that the law was a range rather than a line, and that applying it without looking at the case in front of him served nobody.
+He did not start in the prison. He was a soldier of the City Watch in Moktur, the Empire of Vylaria's mountainous northern province, and an unusual one: while the others chased the arrests that got noticed, he did the evidence, the paperwork and the long patient questioning of suspects. His superiors found in him a man who could not be bribed and who also understood that the law was a range rather than a line, and that applying it without looking at the case in front of him served nobody.
 
 **The Jailer's Burden**
 

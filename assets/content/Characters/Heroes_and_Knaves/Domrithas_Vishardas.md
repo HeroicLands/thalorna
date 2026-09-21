@@ -599,11 +599,11 @@ Dómrithâs stands 5'4" tall with a medium build. He has pale fair skin, graying
 
 # Dossier {#dossier}
 
-Dómrithâs emerged from minor nobility in Harlan with a gift for understanding chemical transformation. As a young man, he appeared destined for conventional success—formal training in the Alchemist Guild, eventually inheriting his family's modest estate and living a comfortable if unremarkable life. But when his beloved sister **Anelise** contracted the Withering—an incurable disease that slowly transformed victims into husks—his entire trajectory shifted.
+Dómrithâs emerged from minor nobility in Nartûm with a gift for understanding chemical transformation. As a young man, he appeared destined for conventional success—formal training in the Alchemist Guild, eventually inheriting his family's modest estate and living a comfortable if unremarkable life. But when his beloved sister **Anelise** contracted the Withering—an incurable disease that slowly transformed victims into husks—his entire trajectory shifted.
 
 He became obsessed with curing her condition and in the process, began to suspect that the boundary between life and death was not absolute but permeable, that with sufficient knowledge of transformation and chemistry, one might cross it. He began conducting experiments in secret, delving into texts the guild considered forbidden and creating substances that produced results contradicting official alchemical doctrine. Despite his efforts, Anelise died—but not before she seemed, in her final moments, to recognize something in Dómrithâs's work that suggested he was approaching some terrible truth.
 
-Since her death fifteen years ago, Dómrithâs has devoted himself with singular purpose to the pursuit of immortality. He has secured patronage from **Baron Gerald of Harlan**, who is himself elderly and afraid of death, providing him resources and protection from guild scrutiny. His work has produced substances and discoveries that exist at the boundary of poison and cure, corruption and transformation. He is becoming increasingly unstable, increasingly willing to test his creations on unwilling subjects, increasingly convinced that he is approaching a breakthrough that will revolutionize human existence itself.
+Since her death fifteen years ago, Dómrithâs has devoted himself with singular purpose to the pursuit of immortality. He has secured patronage from **Baron Gerald of Nartûm**, who is himself elderly and afraid of death, providing him resources and protection from guild scrutiny. His work has produced substances and discoveries that exist at the boundary of poison and cure, corruption and transformation. He is becoming increasingly unstable, increasingly willing to test his creations on unwilling subjects, increasingly convinced that he is approaching a breakthrough that will revolutionize human existence itself.
 
 ## Psyche
 
@@ -641,25 +641,25 @@ There is also a will-to-power beneath his stated goals—a desire to become some
 
 ### Patrons
 
-- **Baron Gerald of Harlan**: An aging nobleman of considerable wealth and power who has become increasingly obsessed with his own mortality and views Dómrithâs's work as his best hope for extended life or outright immortality. Gerald provides resources, protection from guild scrutiny, and unwilling test subjects from his estate's servile population.
+- **Baron Gerald of Nartûm**: An aging nobleman of considerable wealth and power who has become increasingly obsessed with his own mortality and views Dómrithâs's work as his best hope for extended life or outright immortality. Gerald provides resources, protection from guild scrutiny, and unwilling test subjects from his estate's servile population.
 - **Master Physician Corvus**: A healer of genuine reputation who, while publicly maintaining distance from Dómrithâs's more questionable work, secretly purchases certain of his creations for use in his own practice, generating income and intellectual exchange.
 
 ### Enemies
 
-- **Master Alchemist Theron**: The guild-master of Harlan's Alchemist Guild views Dómrithâs as a corruption of their craft and has spent years gathering evidence of his unethical practices with intent to expose him and have him expelled or worse.
+- **Master Alchemist Theron**: The guild-master of Nartûm's Alchemist Guild views Dómrithâs as a corruption of their craft and has spent years gathering evidence of his unethical practices with intent to expose him and have him expelled or worse.
 - **Priestess Morvanna of Jánus's Temple**: The keeper of the order-god's temple views Dómrithâs's work as corruption of natural order and has declared his pursuit of immortality heretical. She actively works to discredit him and protect innocents from his experiments.
 - **The Widow Selene**: The former lover of Dómrithâs who realized the depth of his moral corruption and left him, she now operates a secret network providing sanctuary to those who have escaped his experiments.
 
 ### Affiliations
 
-- **Alchemist Guild of Harlan**: Nominally affiliated but increasingly shunned by mainstream guild members.
+- **Alchemist Guild of Nartûm**: Nominally affiliated but increasingly shunned by mainstream guild members.
 - **The Hidden Cabal**: Rumored to be part of a secret society of researchers pursuing similar goals of transcendence and immortality, though his actual membership status is unclear.
 
 ## Plot Hooks
 
 1. **The Transformation Accelerant**: Dómrithâs completes what may be his greatest work—a substance that genuinely seems to arrest aging and cellular decay. He begins testing it, and the results appear miraculous. But he discovers that the substance is not merely preventing death; it is fundamentally transforming the human body into something other, something that may not be human at all. Those who take it begin to manifest strange abilities and gradual physical changes that suggest they are becoming something entirely new. Dómrithâs must grapple with whether he should continue refining this transformation or whether he has created something that should be destroyed.
 
-2. **The Sister's Return**: Dómrithâs receives a shock that appears to destroy his fundamental understanding of reality: someone claiming to be his sister **Anelise** appears in Harlan, alive, unchanged, requesting to speak with him. When confronted, she reveals that Dómrithâs's experiments did not fail—they succeeded—and she has been kept in hiding all these years. But there are complications: Anelise claims she cannot truly die anymore and has witnessed the horrific costs of the work Dómrithâs has continued pursuing in her name. She confronts him with evidence of experiments he conducted on innocents in the years after her supposed death, and demands he stop before she is forced to stop him.
+2. **The Sister's Return**: Dómrithâs receives a shock that appears to destroy his fundamental understanding of reality: someone claiming to be his sister **Anelise** appears in Nartûm, alive, unchanged, requesting to speak with him. When confronted, she reveals that Dómrithâs's experiments did not fail—they succeeded—and she has been kept in hiding all these years. But there are complications: Anelise claims she cannot truly die anymore and has witnessed the horrific costs of the work Dómrithâs has continued pursuing in her name. She confronts him with evidence of experiments he conducted on innocents in the years after her supposed death, and demands he stop before she is forced to stop him.
 
 3. **The Plague's Cure and Curse**: A plague outbreak threatens to devastate the region, and in desperation, the authorities turn to Dómrithâs for a cure. He produces something that genuinely seems to work—those infected are healed and recover completely. But within months, survivors begin manifesting strange symptoms: sudden, violent changes in personality, aggressive behavior, and apparent transformation toward something inhuman. Dómrithâs realizes his cure did not eliminate the plague—it transformed it into something far more dangerous, something that spreads through personality and behavior rather than infection. He must find a true cure before the kingdom descends into chaos.
 
