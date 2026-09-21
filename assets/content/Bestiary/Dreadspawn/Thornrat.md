@@ -339,7 +339,7 @@ A shape no larger than a cat skitters across the underbrush, and in the shadows 
 
 # Dossier {#dossier}
 
-Thornrats are plague-bearers and scavengers of corruption, creatures that seem to grow in numbers wherever filth and disease congregate. They are technically small—barely larger than a normal rat—but they punch far beyond their weight through venomous spines, toxic bites, and their uncanny ability to spread sickness and infection. A Thornrat colony can bring disease and death to an entire settlement if left unchecked, and some villages live in perpetual fear of their arrival. They are drawn to rot and decay, nesting in dungheaps, graves, and plague-houses, and they seem to serve as vectors for numerous diseases. Some scholars theorize that Thornrats are not natural creatures at all but rather manifestations of disease itself, given flesh and hunger by concentrations of corruption.
+Thornrats are plague-bearers and scavengers of corruption, creatures that seem to grow in numbers wherever filth and disease congregate. They are technically small—barely larger than a normal rat—but they punch far beyond their weight through venomous spines, toxic bites, and their uncanny ability to spread sickness and infection. A Thornrat colony can bring disease and death to an entire settlement if left unchecked, and some villages live in perpetual fear of their arrival. They are drawn to rot and decay, nesting in dungheaps, graves, and plague-houses, and they seem to carry numerous diseases. One theory holds that Thornrats are manifestations of disease itself rather than natural creatures, given flesh and hunger by concentrations of corruption.
 
 ## Presentation
 
@@ -347,7 +347,7 @@ A Thornrat stands roughly 8 to 12 inches in height, with a body resembling a rat
 
 ## Key Behaviors
 
-Thornrats are communal creatures that form colonies, often ranging from a dozen to hundreds of individuals in an infested area. They are nocturnal hunters that seem drawn to filth, decay, and disease. They will nest in dungheaps, grave-earth, sewage systems, and anywhere that death concentrates. The creatures show a surprising level of coordination for animals of their size—they will work together to coordinate attacks or to herd prey toward better kill-zones. They breed rapidly, and a Thornrat colony can multiply exponentially if left unchecked. The presence of a Thornrat colony seems to accelerate disease and decay in an area, as though their very presence poisons the environment.
+Thornrats are communal creatures that form colonies, often ranging from a dozen to hundreds of individuals in an infested area. They are nocturnal hunters that seem drawn to filth, decay, and disease. They will nest in dungheaps, grave-earth, sewers, and anywhere that death concentrates. The creatures show a surprising level of coordination for animals of their size—they will work together to coordinate attacks or to herd prey toward better kill-zones. They breed rapidly, and a Thornrat colony can grow out of all control if left unchecked. The presence of a Thornrat colony seems to accelerate disease and decay in an area, as though their very presence poisons the environment.
 
 ## Combat Strategy
 
@@ -379,7 +379,7 @@ When multiple Thornrats work together, they coordinate their attacks with unsett
 
 ## Additional Information
 
-Fire is the Thornrat's primary weakness—flames damage its spines, burn away the toxic secretions, and cause it genuine pain. A single Thornrat can be dispatched with fire relatively easily, and entire colonies can be eliminated by burning infested areas, though the process is dangerous and time-consuming. The creatures are also vulnerable to disease-neutralizing magic and to poison resistance. In areas where Thornrats infest, preventing infestation means maintaining cleanliness and immediately disposing of corpses, rotting food, and waste. Communities dealing with Thornrat colonies often employ professional exterminators, though the risk of contracting disease during the process is high. The creatures themselves have no inherent value—their hide is too thin and diseased to tan, and their spines contain so much toxin that harvesting them is extraordinarily hazardous.
+Fire is the Thornrat's primary weakness—flames damage its spines, burn away the toxic secretions, and cause it pain. A single Thornrat can be dispatched with fire relatively easily, and entire colonies can be eliminated by burning infested areas, though the process is dangerous and time-consuming. The creatures are also vulnerable to disease-neutralizing magic and to poison resistance. In areas where Thornrats infest, preventing infestation means maintaining cleanliness and immediately disposing of corpses, rotting food, and waste. Communities dealing with Thornrat colonies often hire exterminators, though the risk of contracting disease during the process is high. The creatures themselves have no inherent value—their hide is too thin and diseased to tan, and their spines contain so much toxin that harvesting them is extraordinarily hazardous.
 
 ## Attributes
 

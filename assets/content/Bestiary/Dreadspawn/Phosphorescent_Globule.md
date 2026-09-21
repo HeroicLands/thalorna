@@ -225,7 +225,7 @@ In the deepest darkness, a luminous green glow blooms like a sickly flower. The 
 
 # Dossier {#dossier}
 
-The Phosphorescent Globule is a predatory ooze of supreme cunning that hunts through deception rather than direct assault. It manifests as a near-mindless creature in its behavior yet employs tactics that suggest terrible intelligence, using its bioluminescence as both lure and weapon. These creatures are found exclusively in deep, lightless caves and underground lakes where their glow stands out as a beacon in the darkness. A Phosphorescent Globule can slowly consume an entire ecosystem by drawing creatures to it with promises of light before dissolving them in its acidic body. Some scholars theorize that these oozes are not natural creatures at all but rather manifestations of corrupted magic, capable of spontaneous generation wherever enough ambient arcane energy concentrates in darkness.
+The Phosphorescent Globule is a predatory ooze of supreme cunning that hunts through deception rather than direct assault. It manifests as a near-mindless creature in its behavior yet employs tactics that suggest terrible intelligence, using its bioluminescence as both lure and weapon. These creatures are found exclusively in deep, lightless caves and underground lakes where their glow stands out as a beacon in the darkness. A Phosphorescent Globule can slowly consume an entire ecosystem by drawing creatures to it with promises of light before dissolving them in its acidic body. One theory holds that these oozes are manifestations of corrupted magic rather than natural creatures, capable of spontaneous generation wherever enough ambient arcane energy concentrates in darkness.
 
 ## Presentation
 
@@ -237,7 +237,7 @@ A Phosphorescent Globule is a patient, nearly sedentary predator that settles in
 
 ## Combat Strategy
 
-A Phosphorescent Globule opens combat by intensifying its luminescence, attempting to disorient and mesmerize opponents with dazzling light displays. Once prey is disoriented, it moves to engulf and dissolve them in its acidic body. The creature is slow-moving but remarkably difficult to damage—physical attacks pass partially through its gelatinous form without causing lasting harm. If severely damaged, it can voluntarily fragment into multiple smaller globs, each capable of independent action, forcing opponents to deal with multiple threats simultaneously. A Phosphorescent Globule rarely retreats from combat; instead, it simply waits with eerie patience for an opening.
+A Phosphorescent Globule opens combat by intensifying its luminescence, attempting to disorient and mesmerize opponents with dazzling light displays. Once prey is disoriented, it moves to engulf and dissolve them in its acidic body. The creature is slow-moving but very difficult to damage—physical attacks pass partially through its gelatinous form without causing lasting harm. If severely damaged, it can voluntarily fragment into multiple smaller globs, each capable of independent action, forcing opponents to deal with multiple threats simultaneously. A Phosphorescent Globule rarely retreats from combat; instead, it simply waits with eerie patience for an opening.
 
 ## Attack Methods
 
@@ -253,15 +253,15 @@ The creature's luminescence flares with brilliant intensity, flooding the area w
 
 ### Bioluminescent Lure
 
-The creature's constant glow is hypnotic and compelling to creatures of weak will, drawing them inexorably closer despite conscious misgivings. Those with strong will or high reasoning can resist the pull, but weaker minds find themselves walking toward the light as though compelled by strings.
+The creature's constant glow is hypnotic and compelling to creatures of weak will, drawing them inexorably closer despite conscious misgivings. Those of strong will or clear mind can resist the pull, but weaker minds find themselves walking toward the light as though compelled by strings.
 
 ### Fragmentation
 
-When severely damaged, the Phosphorescent Globule can voluntarily split into multiple smaller globs, each with a fraction of the parent's size and attributes. These fragments can act semi-independently to flank or surround opponents, creating multiple threat vectors.
+When severely damaged, the Phosphorescent Globule can voluntarily split into multiple smaller globs, each with a fraction of the parent's size and strength. These fragments can act semi-independently to flank or surround opponents.
 
 ### Acidic Body
 
-The Globule's very form is corrosive to most materials, slowly dissolving anything it touches. Weapons and armor exposed to the creature for prolonged periods suffer degradation, and flesh exposed directly to the creature experiences burning, caustic damage.
+The Globule's very form is corrosive to most materials, slowly dissolving anything it touches. Weapons and armor exposed to the creature for prolonged periods suffer degradation, and flesh exposed directly to the creature is burned by the caustic slime.
 
 ## Additional Information
 

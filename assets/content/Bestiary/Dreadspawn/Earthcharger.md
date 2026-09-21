@@ -296,11 +296,11 @@ The Earthcharger employs a simple but devastating strategy: it charges. It build
 
 ### Crushing Mandible Bite
 
-The creature's massive jaws open wide and snap shut with bone-shearing force, easily severing limbs or breaking ribs through armor. Targets caught in the bite take heavy trauma damage; if the creature successfully grapples, it can maintain the grip across multiple rounds, slowly crushing the victim.
+The creature's massive jaws open wide and snap shut with bone-shearing force, easily severing limbs or breaking ribs through armor. Targets caught in the bite are grievously wounded; if the creature successfully grapples, it can maintain the grip, slowly crushing the victim.
 
 ### Carapace Charge
 
-The Earthcharger lowers its armored head and charges, using its full weight and bulk as a weapon. The impact throws targets backward and prone; the creature's momentum carries it forward, potentially trampling additional targets.
+The Earthcharger lowers its armored head and charges, using its full weight and bulk as a weapon. The impact throws targets backward off their feet; the creature's momentum carries it forward, potentially trampling additional targets.
 
 ### Trample Attack
 
@@ -310,11 +310,11 @@ The creature uses its massive feet to crush opponents beneath it. After engaging
 
 ### Heavy Chitin
 
-The Earthcharger's natural armor is exceptionally tough. Slashing and piercing attacks against the carapace are largely deflected or absorbed; only well-placed strikes against the joints between plates land cleanly. Blunt-force trauma — heavy hammers, falling rock, siege weaponry — is more effective but still significantly resisted by the layered plates.
+The Earthcharger's natural armor is very tough. Cuts and thrusts against the carapace are largely deflected or absorbed; only well-placed strikes against the joints between plates land cleanly. Blunt force — heavy hammers, falling rock, siege weaponry — is more effective but still significantly resisted by the layered plates.
 
 ### Territorial Aggression
 
-The creature's will is absolute within its claimed territory. All its attacks gain bonus damage when fighting within territory it recognizes as its own. It fights with increasing fury if its lair is threatened, becoming more aggressive and less rational.
+The creature's will is absolute within its claimed territory. All its attacks land harder when it fights within territory it recognizes as its own. It fights with increasing fury if its lair is threatened, becoming more aggressive and less rational.
 
 ### Hardened Mass
 

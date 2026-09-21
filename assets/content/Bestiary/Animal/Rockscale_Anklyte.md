@@ -409,7 +409,7 @@ The Rockscale Anklyte presents a squat, powerful form covered entirely in rough,
 
 ## Key Behaviors
 
-Anklytes are herbivorous but intensely territorial, maintaining exclusive grazing grounds against all intruders including other anklytes. They are highly social within established herds but those herds are small (typically 3-8 individuals) and each herd maintains fierce territorial boundaries. The creatures produce low-frequency vocalizations that travel through the ground and across substantial distances, creating communication networks between herd members and warning calls to approach anklytes. When threatened, anklytes escalate through warning displays before actual combat, giving intruders opportunity to retreat. However, once the decision to defend is made, anklytes commit completely to the defense and will continue until the threat is gone or the anklyte is dead. They are most active during dawn and dusk, resting during the heat of day.
+Anklytes are herbivorous but intensely territorial, maintaining exclusive grazing grounds against all intruders including other anklytes. They are highly social within established herds but those herds are small (typically 3-8 individuals) and each herd maintains fierce territorial boundaries. The creatures produce low-frequency vocalizations that travel through the ground and across substantial distances, creating communication networks between herd members and warning calls to whatever approaches. When threatened, anklytes escalate through warning displays before actual combat, giving intruders opportunity to retreat. However, once the decision to defend is made, anklytes commit completely to the defense and will continue until the threat is gone or the anklyte is dead. They are most active during dawn and dusk, resting during the heat of day.
 
 ## Combat Strategy
 
@@ -437,7 +437,7 @@ If an opponent is on the ground, the anklyte may attempt to simply step on them,
 
 ### Stone Armor
 
-The rough, dense scales that cover the anklyte's body provide genuine protection equivalent to scale armor, reducing damage from slashing and piercing attacks. The armor is part of the creature's living tissue and regenerates if damaged.
+The rough, dense scales that cover the anklyte's body provide protection equivalent to scale armor, turning cuts and thrusts. The armor is part of the creature's living tissue and regenerates if damaged.
 
 ### Ground Tremor
 
@@ -445,7 +445,7 @@ When the anklyte strikes the ground with its tail or charges with full force, it
 
 ### Territorial Aggression
 
-The anklyte becomes significantly more dangerous when defending its established territory, gaining bonuses to all attack rolls and damage within its grazing grounds. Outside of territory, the anklyte is less aggressive and more likely to avoid conflict.
+The anklyte becomes significantly more dangerous when defending its established territory, striking harder and more surely within its grazing grounds. Outside of territory, the anklyte is less aggressive and more likely to avoid conflict.
 
 ### Low-Frequency Communication
 

@@ -374,11 +374,11 @@ sohl:
 
 ![[ironjaw|Ironjaw]]{float: top-left}
 
-The thing moves like a wolf but built from armor and malice. Its entire body is covered in interlocking metal scales that catch light with a dull, threatening gleam. The jaw juts forward unnaturally, lined with teeth that gleam like steel and appear far too numerous for any natural animal. Its eyes are cold and bright, burning with a hunger that feels deliberate and cruel. When it breathes, sparks catch in its nostrils. It walks with deliberate slowness, utterly confident, each step sinking slightly into the ground under its weight.
+The thing moves like a wolf but built from armor and malice. Its entire body is covered in interlocking metal scales that catch light with a dull, threatening gleam. The jaw juts forward unnaturally, lined with teeth that gleam like steel and appear far too numerous for any natural animal. Its eyes are cold and bright, burning with a hunger that feels deliberate and cruel. When it breathes, sparks catch in its nostrils. It walks with deliberate slowness, confident, each step sinking slightly into the ground under its weight.
 
 # Dossier {#dossier}
 
-Ironjaws are predatory, pack-based hunters corrupted by dark magic and fused with metallic material, creatures of burden and violence. These armored predators hunt in coordinated packs across mountain regions and industrial wastelands, following territories marked by claw-scratches and the bones of previous kills. Adventurers encounter them in mountains, abandoned mines, stone deserts, and places where corruption has taken hold of wildlife.
+Ironjaws are predatory, pack-based hunters corrupted by dark magic and fused with metallic material, creatures of burden and violence. These armored predators hunt in coordinated packs across mountain regions and barren wastes, following territories marked by claw-scratches and the bones of previous kills. Adventurers encounter them in mountains, abandoned mines, stone deserts, and places where corruption has taken hold of wildlife.
 
 ## Presentation
 
@@ -386,7 +386,7 @@ The Ironjaw resembles a large hunting dog or wolf in basic shape, but it is cove
 
 ## Key Behaviors
 
-Ironjaws hunt in organized packs of four to eight individuals, coordinating tactics with surprising sophistication. They are absolutely territorial and will attack anything that enters their claimed regions with relentless determination. They mark territory through claw-scratchings on stone and the deliberate scattering of bones. The creatures are intelligent enough to recognize individuals and remember previous conflicts. They hunt actively, pursuing prey relentlessly once engaged. When pack members are killed, the survivors show apparent grief-like responses before attacking with increased ferocity. Outside their territories, they become less aggressive; they will flee to home ground rather than pursue indefinitely.
+Ironjaws hunt in organized packs of four to eight individuals, coordinating tactics with surprising cunning. They are absolutely territorial and will attack anything that enters their claimed regions with relentless determination. They mark territory through claw-scratchings on stone and the deliberate scattering of bones. The creatures are intelligent enough to recognize individuals and remember previous conflicts. They hunt actively, pursuing prey relentlessly once engaged. When pack members are killed, the survivors show what looks like grief before attacking with increased ferocity. Outside their territories, they become less aggressive; they will flee to home ground rather than pursue indefinitely.
 
 ## Combat Strategy
 
@@ -400,33 +400,33 @@ The Ironjaw's jaws snap forward with tremendous force, capable of crushing throu
 
 ### Armor Charge
 
-The creature lowers its head and charges at high speed, using its metallic armor as both battering ram and blade. Targets struck take impact damage and are knocked prone; the charge can drive targets backward into hazards.
+The creature lowers its head and charges at high speed, using its metallic armor as both battering ram and blade. Targets struck are battered and knocked off their feet; the charge can drive targets backward into hazards.
 
 ### Raking Claw Strikes
 
-The Ironjaw slashes with its metal-edged claws, attempting to open wounds and tear armor apart. The metal edges catch and catch on armor, potentially ripping away pieces.
+The Ironjaw slashes with its metal-edged claws, attempting to open wounds and tear armor apart. The metal edges catch on armor, potentially ripping away pieces.
 
 ## Special Abilities
 
 ### Metallic Plating
 
-The Ironjaw's scales are fused with metallic material, providing exceptional protection against physical attacks. Slashing and piercing attacks have significantly reduced effectiveness; blunt force and crushing attacks are more effective.
+The Ironjaw's scales are fused with metallic material, providing heavy protection against physical attacks. Cuts and thrusts do little against it; blunt force and crushing blows are more effective.
 
 ### Pack Coordination
 
-Pack members gain advantage on all tactics and coordinated attacks when operating within visual or auditory range of other pack members. The death of a pack leader causes temporary coordination loss; the pack reestablishes hierarchy and regains coordination over several rounds.
+Pack members fight better together than apart when within sight or hearing of one another. The death of a pack leader throws the pack into brief confusion; it reestablishes hierarchy and regains coordination after some moments.
 
 ### Heat Resistance
 
-The Ironjaw's internal nature allows it to function in high-temperature environments and to resist fire and heat-based damage. However, extreme cold damages the metallic structure and degrades the creature's performance.
+The Ironjaw's internal nature allows it to function in high-temperature environments and to resist fire and heat. However, extreme cold damages the metallic structure and slows the creature.
 
 ### Temporary Hardening
 
-The creature can deliberately reinforce its metallic scales, increasing its resistance to damage. This ability lasts for a limited duration; once used, it requires time to recharge.
+The creature can deliberately reinforce its metallic scales, increasing its resistance to damage. The hardening lasts only a short while; once used, it needs time before it can be used again.
 
 ## Additional Information
 
-Acid and corrosion-based attacks are particularly effective against Ironjaws, as they degrade the metallic components of the creature's armor. Extreme cold similarly weakens performance and can cause structural failure. Separating pack members and preventing coordination significantly reduces their effectiveness. Some evidence suggests Ironjaws can survive for extended periods with significant structural damage, as long as their central vital areas remain intact.
+Acid and corrosion-based attacks are particularly effective against Ironjaws, as they degrade the metallic components of the creature's armor. Extreme cold similarly weakens it and can cause its plating to fail. Separating pack members and preventing coordination significantly reduces their effectiveness. By some accounts, Ironjaws can survive for extended periods with heavy damage to their bodies, as long as their central vital areas remain intact.
 
 ## Attributes
 

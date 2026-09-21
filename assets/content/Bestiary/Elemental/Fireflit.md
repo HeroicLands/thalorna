@@ -322,7 +322,7 @@ A spark catches your eye, bright as a meteor. What you see is smaller than your 
 
 # Dossier {#dossier}
 
-Fireflits are small fire elementals, quick and clever, often acting as scouts, messengers, or servants for larger entities. They are not mindless—they play tricks, they remember faces, and they show preference for certain individuals. Some Fireflits are bound into service; others are wild and roam as they wish. A single Fireflit is rarely a serious threat but can be extraordinarily annoying. A swarm of them is genuinely dangerous. They are attracted to excitement, chaos, and sources of flame, and they seem to take delight in mischief and small acts of destruction.
+Fireflits are small fire elementals, quick and clever, often acting as scouts, messengers, or servants for larger entities. They are not mindless—they play tricks, they remember faces, and they show preference for certain individuals. Some Fireflits are bound into service; others are wild and roam as they wish. A single Fireflit is rarely a serious threat but can be extraordinarily annoying. A swarm of them is dangerous. They are attracted to excitement, chaos, and sources of flame, and they seem to take delight in mischief and small acts of destruction.
 
 ## Presentation
 
@@ -340,7 +340,7 @@ Fireflits rarely engage in serious combat against larger foes. Instead, they har
 
 ### Fire Breath
 
-The Fireflit exhales a small cone of flame that is not large but is extremely hot. The attack can ignite flammable materials and cause painful burns on exposed skin. Multiple Fireflits using this simultaneously create a significant hazard.
+The Fireflit exhales a small but extremely hot cone of flame. The attack can ignite flammable materials and cause painful burns on exposed skin. Multiple Fireflits using this simultaneously create a significant hazard.
 
 ### Scorching Touch
 
@@ -354,7 +354,7 @@ The Fireflit's wings, when moved at full speed, create sharp edges of flame that
 
 ### Preternatural Speed
 
-The Fireflit moves at speeds that make it difficult to track. It can change direction instantly and position itself for attacks while opponents are still processing its last movement. No normal physical attack can follow its movements.
+The Fireflit moves at speeds that make it difficult to track. It can change direction instantly and position itself for attacks while opponents are still following its last movement. No normal physical attack can follow its movements.
 
 ### Merge with Flames
 

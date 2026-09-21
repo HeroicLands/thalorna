@@ -367,19 +367,19 @@ The creature's crystalline body refracts and magnifies light to blinding intensi
 
 ### Arcane Affinity
 
-The Shardbeak is drawn to and feeds on magical energy. It can sense sources of magic at considerable distance and is strengthened by proximity to arcane power, gaining bonuses to healing and to all physical abilities while in areas of magical concentration.
+The Shardbeak is drawn to and feeds on magical energy. It can sense sources of magic at considerable distance and is strengthened by proximity to arcane power, healing faster and growing stronger in every physical respect while in areas of magical concentration.
 
 ### Crystal Armor
 
-The creature's crystalline form is resistant to slashing and piercing damage, though it is remarkably fragile against blunt force and sonic attacks, which can shatter its protective shell.
+The creature's crystalline form turns cuts and thrusts, though it is fragile against blunt force and sound, which can shatter its protective shell.
 
 ### Prismatic Refraction
 
-The Shardbeak's crystalline surface causes all light to refract in unpredictable ways, making it difficult to focus on or target. Attacks against it suffer disadvantage unless the attacker is particularly observant or uses magical means to track it.
+The Shardbeak's crystalline surface causes all light to refract in unpredictable ways, making it difficult to focus on or target. Attacks against it go astray unless the attacker is particularly observant or uses magical means to track it.
 
 ## Additional Information
 
-Shardbeaks are extremely vulnerable to sonic attacks, which can shatter their crystalline bodies. Thunder and vibration-based magic is particularly effective. They are also weak to cold, which can cause their crystal to become brittle and prone to cracking. Blunt force trauma is also effective—while slashing weapons glance off their smooth surfaces, heavy hammers and mauls can deal serious damage. In areas where magic is suppressed or nullified, a Shardbeak will slowly weaken and eventually die from lack of sustenance. The creature's corpse, if preserved carefully, retains value—its crystalline components can be fashioned into gems of unusual properties, used in magical foci, or ground into components for potion creation. Some alchemists prize Shardbeak crystal above diamonds for its inherent magical reactivity.
+Shardbeaks are extremely vulnerable to sonic attacks, which can shatter their crystalline bodies. Thunder and vibration-based magic is particularly effective. They are also weak to cold, which can cause their crystal to become brittle and prone to cracking. Blunt force is also effective—while slashing weapons glance off their smooth surfaces, heavy hammers and mauls can deal serious damage. In areas where magic is suppressed or nullified, a Shardbeak will slowly weaken and eventually die from lack of sustenance. The creature's corpse, if preserved carefully, retains value—its crystalline components can be fashioned into gems of unusual properties, used in magical foci, or ground into components for potion creation. Some alchemists prize Shardbeak crystal above diamonds for its inherent magical reactivity.
 
 ## Attributes
 
