@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - septminnome
   population: 34000
 name:
   full: Ipu

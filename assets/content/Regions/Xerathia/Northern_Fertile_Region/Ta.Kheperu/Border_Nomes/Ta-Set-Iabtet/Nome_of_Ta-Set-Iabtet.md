@@ -98,7 +98,7 @@ data:
     - kheperlng
   seat: bakhu
   domains:
-    - takheperurgn
+    - tasetiabtetnome
   population: 350000
   economy:
     - affiliation-perhati
@@ -115,28 +115,15 @@ packFolder: tasetiabtet
 
 ## Overview
 
-Ta-Set-Iabtet — "the Land of the Eastern Hills" — is the great mining march of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]], a rugged border nome where the river-valley gives way to the mineral-rich uplands east of the water. This is where the empire digs its wealth out of the ground: gold and copper from the hill-mines, turquoise and other fine stones from the desert diggings, and the hard building-stone that the monuments of the whole realm are raised from. It is a [[affiliation-bordernoms|border nome]] in the fullest sense — thinly peopled, harsh, and held by a soldier-[[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] who is as much a military governor as a lord, charged with guarding the mines, the smelter-towns, and the long desert quarry-roads against the raiders of the eastern wastes. Its patron is [[affiliation-kemtnpnthn|Ptā'h]], god of craft and the working of metal and stone, worshipped here by miners and smiths with a directness the soft valley cults lack.
+The Nome of Ta-Set-Iabtet holds the land of [[place-tasetiabtetnome|Ta-Set-Iabtet]]. It is a [[affiliation-bordernoms|border nome]] in the fullest sense — thinly peopled, harsh, and held by a soldier-[[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] who is as much a military governor as a lord, charged with guarding the mines, the smelter-towns, and the long desert quarry-roads against the raiders of the eastern wastes. Its patron is [[affiliation-kemtnpnthn|Ptā'h]], god of craft and the working of metal and stone, worshipped here by miners and smiths with a directness the soft valley cults lack.
 
 ## Character
 
-Ta-Set-Iabtet is hard country and hard people. The nome is a landscape of stony hills, dry wadis, and sun-blasted desert tracks, dotted with mine-heads, smelter-towns, quarry-camps, and the small forts that guard them. Its population is a rough mix of miners and quarrymen — some free wage-gangs, some convict-labor sent east as punishment, some seasonal levies — overseen by mine-captains, engineers, and the garrison troops who keep order and watch the desert. There is little of the temple-bound gentility of the valley here; status is measured in the output of a diggings and the strength of a fort. The cult of Ptā'h the craftsman dominates, with the war-god Mentu close behind among the soldiers, and the festival-life is the rougher, harder-drinking kind of a frontier where men do dangerous work far from home.
+Its population is a rough mix of miners and quarrymen — some free wage-gangs, some convict-labor sent east as punishment, some seasonal levies — overseen by mine-captains, engineers, and the garrison troops who keep order and watch the desert. There is little of the temple-bound gentility of the valley here; status is measured in the output of a diggings and the strength of a fort. The cult of Ptā'h the craftsman dominates, with the war-god Mentu close behind among the soldiers, and the festival-life is the rougher, harder-drinking kind of a frontier where men do dangerous work far from home.
 
 ## Economy
 
-Mining and quarrying are the whole of it. The nome's gold and copper feed the empire's coinage, ornament, and bronze; its turquoise and fine stones supply the jewelers and the ceremonial trades; its hard stone is quarried and barged or dragged to the great construction projects across the realm. The work is dangerous, capital-intensive, and tightly controlled — the richest mines are crown or temple monopolies, run by appointed captains under garrison guard, and the gold especially is escorted under arms all the way to the treasuries of the capital. Around the extractive core the nome grows almost nothing and imports its grain, water-management and all, from the valley; it is a pure producer-nome, valued for what it pulls from the rock and for nothing else.
-
-## Notable Features
-
-- The gold and copper hill-mines — a chief source of the empire's precious and base metal
-- The turquoise and fine-stone diggings of the eastern desert
-- The hard-stone quarries that supply the empire's monuments
-- The smelter-towns and the temple-workshops of [[affiliation-kemtnpnthn|Ptā'h]]
-- The desert quarry-roads and the forts and water-stations that guard them
-
-## Settlements
-
-- **[[place-bakhu|Bakhu]]** (~22,000) — the nome capital, a fortified hill-town at the mouth of the chief mining district; the seat of the soldier-Haty'a, the assay-house and treasury where the gold is weighed and sealed for the capital, the garrison barracks, and the great temple of Ptā'h the smith.
-- **The mine-and-quarry camps:** scattered through the hills and desert are mining settlements, smelter-towns, and quarry-camps of 500–4,000 — among them Bia-Resu (the copper diggings), Mefkat (the turquoise camps), Inr-Hedj (the white-stone quarry), and the convict-station of Kheset — each clustered around its diggings and its guard-fort, supplied by water-caravan from the river.
+The work is dangerous, capital-intensive, and tightly controlled — the richest mines are crown or temple monopolies, run by appointed captains under garrison guard, and the gold especially is escorted under arms all the way to the treasuries of the capital.
 
 ## For the Worldbuilder
 
@@ -153,3 +140,4 @@ Ta-Set-Iabtet uses the [[lore-tkhprcrncy|Ta'Kheperu currency system]], and as th
 - [[place-bakhu|Bakhu]] — Nome capital
 - [[affiliation-kemtnpnthn|Kemetian]] — Pantheon (Ptā'h)
 - [[affiliation-perhati|Pér-Háti]] — Temple-treasuries
+- [[place-tasetiabtetnome|Ta-Set-Iabtet]] — The land the nome holds

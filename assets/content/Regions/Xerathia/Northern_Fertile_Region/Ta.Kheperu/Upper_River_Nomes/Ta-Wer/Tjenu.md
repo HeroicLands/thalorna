@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - tawernome
   population: 39000
 name:
   full: Tjenu

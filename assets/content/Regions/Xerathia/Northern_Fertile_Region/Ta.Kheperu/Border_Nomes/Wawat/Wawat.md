@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - wawatnome
   population: 14000
 name:
   full: Wawat

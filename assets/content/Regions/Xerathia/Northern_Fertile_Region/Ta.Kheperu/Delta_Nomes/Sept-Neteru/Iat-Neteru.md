@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - septneterunome
   population: 11000
 name:
   full: Iat-Neteru

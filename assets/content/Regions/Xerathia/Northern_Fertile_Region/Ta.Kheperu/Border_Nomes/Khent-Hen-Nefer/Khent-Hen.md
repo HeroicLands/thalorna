@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - khenthennefernome
   population: 15000
 name:
   full: Khent-Hen

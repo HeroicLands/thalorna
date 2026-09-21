@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - tjarunome
   population: 41000
 name:
   full: Tjaru

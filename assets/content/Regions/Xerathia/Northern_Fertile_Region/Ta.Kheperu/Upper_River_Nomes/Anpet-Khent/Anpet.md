@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - anpetkhentnome
   population: 24000
 name:
   full: Anpet

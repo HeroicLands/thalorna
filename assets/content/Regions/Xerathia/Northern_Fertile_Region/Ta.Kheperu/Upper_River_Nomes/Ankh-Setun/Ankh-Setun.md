@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - ankhsetunnome
   population: 80000
 name:
   full: Ankh-Setûn

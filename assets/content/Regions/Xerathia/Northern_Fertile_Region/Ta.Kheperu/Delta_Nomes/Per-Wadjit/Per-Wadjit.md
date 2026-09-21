@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - perwadjitnome
   population: 49000
 name:
   full: Per-Wadjit

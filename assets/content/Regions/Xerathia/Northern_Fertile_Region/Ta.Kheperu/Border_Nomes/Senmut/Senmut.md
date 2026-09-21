@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - senmutnome
   population: 11000
 name:
   full: Senmut

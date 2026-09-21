@@ -11,7 +11,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - ankhsetunnome
   population: 25000
 name:
   full: Meru-Hotep
