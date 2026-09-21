@@ -348,7 +348,7 @@ sohl:
 
 ![[stnclmbr|Stoneclimber]]{float: top-left}
 
-The rock face moves before you see it—a ripple in the stone that shouldn't exist. Then the creature simply peels away from the mountainside as though it was never part of it, and you see it fully: a predator wrought from saurian muscle and armor, its scales the exact color and texture of granite, studded with quartz and feldspar. Its claws are hooks designed for stone, and it moves up a near-vertical cliff face as effortlessly as a spider crawling across a wall. Its eyes burn with predatory intelligence and shine like rubies caught in candlelight. You hear nothing as it moves—no scuff of claw, no dislodged stone—just the whisper of scale against rock and the dry clicking of its breath. Then it is gone, vanished back into the stone, and you cannot tell if it is above you, behind you, or waiting in an overhang to strike when you pass.
+The rock face moves before you see it—a ripple in the stone that shouldn't exist. Then the creature simply peels away from the mountainside as though it was never part of it, and you see it fully: a predator wrought from saurian muscle and armor, its scales the exact color and texture of granite, studded with quartz and feldspar. Its claws are hooks designed for stone, and it moves up a near-vertical cliff face as effortlessly as a spider crawling across a wall. Its eyes burn with predatory intelligence and shine like rubies caught in candlelight. You hear nothing as it moves—no scuff of claw, no dislodged stone—just the soft scrape of scale against rock and the dry clicking of its breath. Then it is gone, vanished back into the stone, and you cannot tell if it is above you, behind you, or waiting in an overhang to strike when you pass.
 
 # Dossier {#dossier}
 
@@ -356,7 +356,7 @@ Stoneclimbers are apex predators of rocky highlands and mountain ranges, creatur
 
 ## Presentation
 
-A Stoneclimber measures roughly 12 to 16 feet in length, with a low, powerful, saurian frame perfectly suited for traversing difficult terrain. Its body is covered in overlapping scales of gray, brown, or rust-colored hue, each one textured like natural stone and often studded with quartz crystals, mica, or feldspar that makes the creature shimmer when light catches it properly. Its four limbs are stocky and muscular, tipped with claws that are less like weapons and more like specialized climbing equipment—curved, rough, and designed to grip stone with supernatural adhesion. Its head is broad and flattened, with eyes that glow a deep amber or ruby red, and a mouth filled with teeth of surprising sharpness. Its hide is thick enough that scales are clearly visible, and it often bears the scars of territorial conflicts with its own kind. When it moves, it makes almost no sound; its passages can only be tracked by disturbed dust, displaced gravel, or occasionally a claw-mark in stone too hard for normal climbing tools.
+A Stoneclimber measures roughly 12 to 16 feet in length, with a low, powerful, saurian frame perfectly suited to steep, broken ground. Its body is covered in overlapping scales of gray, brown, or rust-colored hue, each one textured like natural stone and often studded with quartz crystals, mica, or feldspar that makes the creature shimmer when light catches it properly. Its four limbs are stocky and muscular, tipped with claws that are less like weapons and more like specialized climbing equipment—curved, rough, and designed to grip stone with supernatural adhesion. Its head is broad and flattened, with eyes that glow a deep amber or ruby red, and a mouth filled with teeth of surprising sharpness. Its hide is thick enough that scales are clearly visible, and it often bears the scars of territorial conflicts with its own kind. When it moves, it makes almost no sound; its passages can only be tracked by disturbed dust, displaced gravel, or occasionally a claw-mark in stone too hard for normal climbing tools.
 
 ## Key Behaviors
 
@@ -384,11 +384,11 @@ From a high vantage point, the Stoneclimber launches itself at a target, using g
 
 ### Cliffhanger Supremacy
 
-The Stoneclimber traverses all terrain as though it were level ground. Vertical cliff faces, ceilings, overhangs, and unstable surfaces all provide equivalent mobility. In rocky terrain, the creature's movement speed increases, and it can assume positions that would be impossible for other creatures.
+The Stoneclimber traverses all terrain as though it were level ground. Vertical cliff faces, ceilings, overhangs, and unstable surfaces all provide equivalent mobility. In rocky terrain the creature moves faster and can take positions that would be impossible for other creatures.
 
 ### Environmental Camouflage
 
-In rocky terrain, the Stoneclimber's scales blend so perfectly with stone that spotting it requires exceptional perception. In its preferred environment, the creature is essentially invisible until it chooses to reveal itself.
+In rocky terrain, the Stoneclimber's scales blend so perfectly with stone that spotting it takes a very sharp eye. In its preferred environment, the creature is essentially invisible until it chooses to reveal itself.
 
 ### Predatory Awareness
 
@@ -400,7 +400,7 @@ The Stoneclimber's body is as tough as the stone it climbs, resistant to environ
 
 ## Additional Information
 
-Fire is the Stoneclimber's primary weakness—flames damage its scales, disrupt its climbing grip, and seem to cause it genuine discomfort and pain. Sustained heat will drive a Stoneclimber away from an area. Magic is also effective, particularly spells that would prevent climbing or dull its environmental perception. In flat, open terrain without stone or complex geometry, a Stoneclimber loses much of its advantage and becomes a comparatively normal predator. The creature's scales, if harvested carefully, can be fashioned into armor of exceptional quality that retains the creature's natural stone-gray coloration and grants modest resistance to physical damage. Its claws are prized by climbers and trappers as grappling tools. The creature's bones, being partially mineralized, make excellent tool hafts or construction materials.
+Fire is the Stoneclimber's primary weakness—flames damage its scales, disrupt its climbing grip, and plainly cause it discomfort and pain. Sustained heat will drive a Stoneclimber away from an area. Magic is also effective, particularly spells that would prevent climbing or dull its environmental perception. In flat, open terrain without stone or complex geometry, a Stoneclimber loses much of its advantage and becomes a comparatively normal predator. The creature's scales, if harvested carefully, can be fashioned into armor of unusual quality that retains the creature's natural stone-gray coloration and grants modest resistance to physical damage. Its claws are prized by climbers and trappers as grappling tools. The creature's bones, being partially mineralized, make excellent tool hafts or construction materials.
 
 ## Attributes
 

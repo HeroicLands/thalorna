@@ -346,7 +346,7 @@ The Shadow Lynx is an ambush predator of deep forests and dense woodlands, stand
 
 ## Presentation
 
-The Shadow Lynx is a sleek, muscular feline with a build optimized for stealth rather than raw power. The fur is dark, ranging from charcoal gray to deep brown with subtle mottling and striations that provide extraordinary camouflage in forest shadows. Characteristic lynx features include pointed ears tipped with tufts of hair, a compact body with powerful hind legs, a relatively short tail with a dark tip, and large paws with retractable claws. The face is proportionally round and flat-featured, with large forward-facing eyes that glow faintly green in dim light. The whiskers are long and sensitive, capable of detecting minute air movements and vibrations. The overall build speaks of an animal designed for silent movement and explosive power across short distances.
+The Shadow Lynx is a sleek, muscular feline with a build made for stealth rather than raw power. The fur is dark, ranging from charcoal gray to deep brown with subtle mottling and striations that provide extraordinary camouflage in forest shadows. Characteristic lynx features include pointed ears tipped with tufts of hair, a compact body with powerful hind legs, a relatively short tail with a dark tip, and large paws with retractable claws. The face is proportionally round and flat-featured, with large forward-facing eyes that glow faintly green in dim light. The whiskers are long and sensitive, capable of detecting minute air movements and vibrations. The overall build speaks of an animal designed for silent movement and explosive power across short distances.
 
 ## Key Behaviors
 
@@ -374,11 +374,11 @@ The lynx uses its powerful forelimbs and retractable claws to rake and slash at 
 
 ### Forest Camouflage
 
-The shadow lynx's coloration and fur patterning are so effective in forest environments that the creature is nearly invisible when still or moving slowly through undergrowth. The lynx gains significant advantage on stealth checks in forest terrain.
+The shadow lynx's coloration and fur patterning are so effective in forest environments that the creature is nearly invisible when still or moving slowly through undergrowth. In forest it is very hard to spot until it moves.
 
 ### Silent Movement
 
-The shadow lynx can move with remarkable silence, even across terrain that would normally produce significant noise. The creature's paws are padded and its muscle control is precise, allowing it to approach prey without detection. The lynx gains advantage on stealth checks while moving.
+The shadow lynx moves almost silently, even across terrain that would normally produce significant noise. The creature's paws are padded and its muscle control is precise, allowing it to approach prey without detection. Even on the move it is seldom heard.
 
 ### Acute Hearing and Whisker Sensitivity
 
@@ -394,7 +394,7 @@ The shadow lynx's familiarity with its own territory provides it with advantage 
 
 ### Additional Information
 
-Shadow lynxes are most dangerous at night and in forest environments, where their natural advantages are maximized. In open ground or bright daylight, the creatures become significantly less confident. A lynx that has successfully hunted humanoids becomes more likely to target humans in future encounters. Young lynxes are vulnerable and mothers defending kittens become extremely aggressive and dangerous. The creatures can be tracked by their claw marks and scent deposits, allowing careful hunters to avoid established lynx territories. A shadow lynx's fur is valuable and can be harvested after death to create camouflage cloaks and other items.
+Shadow lynxes are most dangerous at night and in forest environments, where their natural advantages are greatest. In open ground or bright daylight, the creatures become significantly less confident. A lynx that has successfully hunted humanoids becomes more likely to target humans in future encounters. Young lynxes are vulnerable and mothers defending kittens become extremely aggressive and dangerous. The creatures can be tracked by their claw marks and scent deposits, allowing careful hunters to avoid established lynx territories. A shadow lynx's fur is valuable and can be harvested after death to create camouflage cloaks and other items.
 
 ## Attributes
 

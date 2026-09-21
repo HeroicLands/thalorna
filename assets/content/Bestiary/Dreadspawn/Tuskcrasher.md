@@ -353,7 +353,7 @@ The forest ahead explodes—trees splinter and crash as something massive tears 
 
 # Dossier {#dossier}
 
-Tuskcrashers are embodiments of territorial rage given flesh, corrupted wild boars driven to impossible size and strength. They are the undisputed rulers of deep forests and woodland regions, creatures that have claimed vast territories and defend them with suicidal ferocity against all comers. A Tuskcrasher seems less interested in hunting for food and more interested in eliminating any potential threat to its dominion—the creature will attack settlements, wayfarers, and other creatures with equal viciousness. An old Tuskcrasher has left a trail of destruction across its territory measured in decades, and it becomes increasingly hostile and aggressive with age, as though its hatred of intrusion deepens with every passing year.
+Tuskcrashers are territorial rage given flesh, corrupted wild boars driven to impossible size and strength. They are the undisputed rulers of deep forests and woodland regions, creatures that have claimed vast territories and defend them with suicidal ferocity against all comers. A Tuskcrasher seems less interested in hunting for food and more interested in eliminating any potential threat to its dominion—the creature will attack settlements, wayfarers, and other creatures with equal viciousness. An old Tuskcrasher has left a trail of destruction across its territory measured in decades, and it becomes increasingly hostile and aggressive with age, as though its hatred of intrusion deepens with every passing year.
 
 ## Presentation
 
@@ -365,7 +365,7 @@ A Tuskcrasher claims a territory spanning ten to twenty miles or more, depending
 
 ## Combat Strategy
 
-A Tuskcrasher initiates combat by lowering its head and charging at maximum speed, attempting to gore opponents on its tusks or to ramming them with its massive shoulder. It relies purely on direct force, using its overwhelming strength to crush and destroy obstacles and opponents alike. The creature is methodical rather than tactical—it will charge the same direction repeatedly if that strategy is working, and it shows little capacity to change tactics or adapt to new circumstances. Once engaged, it fights with relentless fury, the rage driving it forward despite injuries that would slow lesser creatures. The Tuskcrasher will fight to the death rather than retreat, and its death throes are so violent that even in dying it can cause catastrophic damage.
+A Tuskcrasher initiates combat by lowering its head and charging at maximum speed, attempting to gore opponents on its tusks or to ram them with its massive shoulder. It relies purely on direct force, using its overwhelming strength to crush and destroy obstacles and opponents alike. The creature is methodical rather than tactical—it will charge the same direction repeatedly if that strategy is working, and it shows little capacity to change tactics or adapt to new circumstances. Once engaged, it fights with relentless fury, the rage driving it forward despite injuries that would slow lesser creatures. The Tuskcrasher will fight to the death rather than retreat, and its death throes are so violent that even in dying it can cause catastrophic damage.
 
 ## Attack Methods
 
@@ -379,7 +379,7 @@ With tusks raised, the creature uses its tusks as slashing weapons, capable of c
 
 ### Destructive Trampling
 
-Once an opponent is prone, the Tuskcrasher will deliberately trample them, using its massive hooves to crush whatever lies beneath.
+Once an opponent is down, the Tuskcrasher will deliberately trample them, using its massive hooves to crush whatever lies beneath.
 
 ## Special Abilities
 
@@ -389,7 +389,7 @@ The Tuskcrasher moves through dense forest and broken terrain with surprising ea
 
 ### Relentless Aggression
 
-The Tuskcrasher does not tire. It will fight continuously for hours or days without rest, and its rage only intensifies as combat continues. The creature becomes faster and stronger when wounded, counterintuitively.
+The Tuskcrasher does not tire. It will fight continuously for hours or days without rest, and its rage only intensifies as combat continues. Wounds make the creature faster and stronger, not slower.
 
 ### Hide Resilience
 
@@ -397,7 +397,7 @@ The Tuskcrasher's thick hide and massive size grant it resistance to physical da
 
 ## Additional Information
 
-Fire is the Tuskcrasher's primary vulnerability—flames damage its thick hide and cause it genuine pain and distress. Sustained heat can eventually drive a Tuskcrasher away, though only fire of exceptional intensity will stop a determined charge. Agility-based combat tactics and ranged attacks can exploit the creature's slow reflexes and low dexterity, though this requires exceptional skill and coordination. The creature's tusks, if harvested from a slain specimen, are extraordinarily valuable and can be crafted into weapons or building materials of exceptional quality and durability. The hide can be tanned into leather tough enough to stop arrows. Some cultures have built entire traditions around hunting Tuskcrashers, and successful hunters are celebrated with legendary status. The corpse of a slain Tuskcrasher is valuable enough to support an expedition for months.
+Fire is the Tuskcrasher's primary vulnerability—flames damage its thick hide and cause it pain and distress. Sustained heat can eventually drive a Tuskcrasher away, though only a very hot fire will stop a determined charge. Agility-based combat tactics and ranged attacks can exploit the creature's slow reflexes and low dexterity, though this takes great skill and coordination. The creature's tusks, if harvested from a slain specimen, are extraordinarily valuable and can be crafted into weapons or building materials of rare quality and durability. The hide can be tanned into leather tough enough to stop arrows. Some cultures have built entire traditions around hunting Tuskcrashers, and successful hunters are celebrated for the rest of their lives. The corpse of a slain Tuskcrasher is valuable enough to support an expedition for months.
 
 ## Attributes
 

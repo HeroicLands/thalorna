@@ -563,11 +563,11 @@ Dozens of versions of you stare back from a perfectly smooth, humanoid surface b
 
 # Dossier {#dossier}
 
-Mirrorlings are living paradoxes born from the collision of light, memory, and malice—creatures of pure manifestation that exist as much in reflection as in flesh. They are drawn to places where light scatters and multiplies: halls of mirrors, crystal caverns, sunlit waters, and the chambers of vain nobles. A Mirrorling's true nature is to fracture and confuse, using light as a weapon and illusion as a shield. The creature is said to feed not on flesh but on the reflection of violence—the more brutally an opponent attacks and misses, the stronger it becomes. Some believe Mirrorlings are the echoes of mages who gazed too long into their own vanity, corrupted into beings of pure reflection and spite.
+Mirrorlings are living paradoxes born from the collision of light, memory, and malice—creatures of pure manifestation that exist as much in reflection as in flesh. They are drawn to places where light scatters and multiplies: halls of mirrors, crystal caverns, sunlit waters, and the chambers of vain nobles. A Mirrorling's true nature is to fracture and confuse, using light as a weapon and illusion as a shield. The creature is said to feed not on flesh but on the reflection of violence—the more brutally an opponent attacks and misses, the stronger it becomes. One tale makes Mirrorlings the remnants of mages who gazed too long into their own vanity, corrupted into beings of pure reflection and spite.
 
 ## Presentation
 
-A Mirrorling presents an unsettling humanoid form roughly 6 to 8 feet in height, composed entirely of a perfectly reflective, liquid-smooth surface like burnished quicksilver or polished chrome. Its body has defined musculature and articulation, but the joints bend with an unnatural fluidity, as though the thing has no bone or cartilage—just frictionless motion. Its face is a blank, featureless mirror when viewed directly, yet reflections within its surface show eyes of impossible depth, sometimes countless, sometimes singular. The creature moves with liquid grace, its form occasionally seeming to blur or double, and it leaves no footprints or disturbance in its wake. The temperature drops noticeably near a Mirrorling, and the air carries a faint scent of ozone and burned silver.
+A Mirrorling presents an unsettling humanoid form roughly 6 to 8 feet in height, composed entirely of a perfectly reflective, liquid-smooth surface like burnished quicksilver or polished steel. Its body has defined musculature and articulation, but the joints bend with an unnatural fluidity, as though the thing has no bone or cartilage—just frictionless motion. Its face is a blank, featureless mirror when viewed directly, yet reflections within its surface show eyes of impossible depth, sometimes countless, sometimes singular. The creature moves with liquid grace, its form occasionally seeming to blur or double, and it leaves no footprints or disturbance in its wake. The temperature drops noticeably near a Mirrorling, and the air carries a faint scent of ozone and burned silver.
 
 ## Key Behaviors
 
@@ -575,7 +575,7 @@ Mirrorlings are solitary and territorial, claiming reflective spaces as their do
 
 ## Combat Strategy
 
-A Mirrorling opens combat by using its natural reflectivity to create the illusion of multiple versions of itself, positioning these illusory forms to confuse and misdirect attacks. It moves constantly, using the terrain to maximize reflections and reinforce the illusion of greater numbers. Each strike against the creature that misses strengthens its defenses slightly, and it relies on this feedback loop to outlast opponents. When facing ranged attackers, a Mirrorling may position itself to redirect projectiles back toward the archer. If cornered or facing an opponent who lands consistent hits, it attempts to break line-of-sight and escape into the nearest reflective surface—a mirror, a pool of water, or polished stone.
+A Mirrorling opens combat by using its natural reflectivity to create the illusion of multiple versions of itself, positioning these illusory forms to confuse and misdirect attacks. It moves constantly, using the terrain to maximize reflections and reinforce the illusion of greater numbers. Each strike against the creature that misses strengthens its defenses slightly, and it counts on that to outlast opponents. When facing ranged attackers, a Mirrorling may position itself to redirect projectiles back toward the archer. If cornered or facing an opponent who lands consistent hits, it attempts to break line-of-sight and escape into the nearest reflective surface—a mirror, a pool of water, or polished stone.
 
 ## Attack Methods
 
@@ -591,19 +591,19 @@ When an opponent's attack glances off the creature's reflective surface, that sa
 
 ### Reflective Embodiment
 
-The creature's body reflects and refracts light with impossible perfection, making it extraordinarily difficult to strike. Physical attacks against it are resolved with disadvantage, and many strikes seem to pass through or around it without landing.
+The creature's body reflects and refracts light with impossible perfection, making it extraordinarily difficult to strike. Physical attacks against it often go astray, and many strikes seem to pass through or around it without landing.
 
 ### Fractured Image
 
-The Mirrorling can create illusory duplicates of itself through careful manipulation of light and reflection. At least two of the images will move independently and seem tactilely real, forcing opponents to guess which version is the genuine article.
+The Mirrorling can create illusory duplicates of itself through careful manipulation of light and reflection. At least two of the images will move independently and seem tactilely real, forcing opponents to guess which version is the real one.
 
 ### Void Reflection
 
-When looking into the Mirrorling's surface, perceptive creatures can glimpse fleeting, disturbing images: scenes of violence, moments of vanity, echoes of the creature's feeding. Those who stare too long find their sense of self becoming distant and unreal.
+When looking into the Mirrorling's surface, perceptive creatures can glimpse fleeting, disturbing images: scenes of violence, moments of vanity, glimpses of the creature's feeding. Those who stare too long begin to feel distant and unreal to themselves.
 
 ## Additional Information
 
-Darkness and non-reflective environments pose the greatest challenge to a Mirrorling, negating both its illusory and defensive advantages. Magical attacks that create obscurement or shadow force the creature to fight at near-normal disadvantage. If a Mirrorling is forced to remain in absolute darkness for more than a few minutes, it begins to weaken, its form becoming sluggish and brittle. The creature is vulnerable to spells that damage or cloud reflective surfaces, including rusted metals, broken glass, and muddied water. Some scholars theorize that destroying every mirror in a Mirrorling's territory will starve it, forcing it to move on or perish. The creature's remains—if it is slain—dissolve into mercury-like drops that evaporate within hours, leaving no physical trace.
+Darkness and non-reflective environments pose the greatest challenge to a Mirrorling, negating both its illusory and defensive advantages. Magical attacks that create obscurement or shadow leave the creature fighting on nearly even terms. If a Mirrorling is forced to remain in absolute darkness for more than a few minutes, it begins to weaken, its form becoming sluggish and brittle. The creature is vulnerable to spells that damage or cloud reflective surfaces, including rusted metals, broken glass, and muddied water. Destroying every mirror in a Mirrorling's territory may starve it, forcing it to move on or perish. The creature's remains—if it is slain—dissolve into mercury-like drops that evaporate within hours, leaving no physical trace.
 
 ## Attributes
 
