@@ -599,7 +599,7 @@ Dómrithâs stands 5'4" tall with a medium build. He has pale fair skin, graying
 
 # Dossier {#dossier}
 
-Dómrithâs emerged from minor nobility in Nartûm with a gift for understanding chemical transformation. As a young man, he appeared destined for conventional success—formal training in the Alchemist Guild, eventually inheriting his family's modest estate and living a comfortable if unremarkable life. But when his beloved sister **Anelise** contracted the Withering—an incurable disease that slowly transformed victims into husks—his entire trajectory shifted.
+Dómrithâs emerged from minor nobility in [[place-nartum|Nartûm]] with a gift for understanding chemical transformation. As a young man, he appeared destined for conventional success—formal training in the Alchemist Guild, eventually inheriting his family's modest estate and living a comfortable if unremarkable life. But when his beloved sister **Anelise** contracted the Withering—an incurable disease that slowly transformed victims into husks—his entire trajectory shifted.
 
 He became obsessed with curing her condition and in the process, began to suspect that the boundary between life and death was not absolute but permeable, that with sufficient knowledge of transformation and chemistry, one might cross it. He began conducting experiments in secret, delving into texts the guild considered forbidden and creating substances that produced results contradicting official alchemical doctrine. Despite his efforts, Anelise died—but not before she seemed, in her final moments, to recognize something in Dómrithâs's work that suggested he was approaching some terrible truth.
 
@@ -647,7 +647,7 @@ There is also a will-to-power beneath his stated goals—a desire to become some
 ### Enemies
 
 - **Master Alchemist Theron**: The guild-master of Nartûm's Alchemist Guild views Dómrithâs as a corruption of their craft and has spent years gathering evidence of his unethical practices with intent to expose him and have him expelled or worse.
-- **Priestess Morvanna of Jánus's Temple**: The keeper of the order-god's temple views Dómrithâs's work as corruption of natural order and has declared his pursuit of immortality heretical. She actively works to discredit him and protect innocents from his experiments.
+- **Priestess Morvanna of [[lore-janusdty|Jánus]]'s Temple**: The keeper of the order-god's temple views Dómrithâs's work as corruption of natural order and has declared his pursuit of immortality heretical. She actively works to discredit him and protect innocents from his experiments.
 - **The Widow Selene**: The former lover of Dómrithâs who realized the depth of his moral corruption and left him, she now operates a secret network providing sanctuary to those who have escaped his experiments.
 
 ### Affiliations
