@@ -397,15 +397,15 @@ sohl:
 
 ![[xrthnsvn|Xerathian Savanna Elephant]]{float: top-left}
 
-Presence announces itself before sight — the earth trembles rhythmically with hoofsteps that carry impossible weight. The creature that emerges is a living mountain of gray flesh, powerful beyond immediate comprehension. The long tusks gleam like ivory swords, and the vast ears shaped vaguely like continents fan the air with hypnotic rhythm. The trunk is a secondary limb of remarkable intelligence and power, and the eyes hold a sadness and awareness that speaks of profound intelligence and emotional capacity. You understand you're looking at not merely the largest land animal, but something that carries weight in multiple senses.
+Presence announces itself before sight — the earth trembles rhythmically with footfalls that carry impossible weight. The creature that emerges is a living mountain of gray flesh, powerful beyond immediate comprehension. The long tusks gleam like ivory swords, and the vast ears shaped vaguely like continents fan the air with hypnotic rhythm. The trunk is a second limb, deft and powerful, and the eyes hold a sadness and awareness that speak of deep intelligence and feeling. You understand you are looking at more than the largest of land animals: at a creature that thinks and feels.
 
 # Dossier {#dossier}
 
-The Xerathian Savanna Elephant is the largest land creature on the planet, standing 10-13 feet at the shoulder and weighing up to 10-14 tons, found in grasslands across the Xerathian continent and surrounding regions. These magnificent creatures are highly social, traveling in herds led by experienced matriarchs. Adventurers encounter them while crossing savanna regions or when herds conflict with human settlements.
+The Xerathian Savanna Elephant is the largest land creature in the world, standing 10-13 feet at the shoulder and weighing up to 10-14 tons, found in grasslands across the Xerathian continent and surrounding regions. These magnificent creatures are highly social, traveling in herds led by experienced matriarchs. Adventurers encounter them while crossing savanna regions or when herds conflict with human settlements.
 
 ## Presentation
 
-The savanna elephant is enormous, wrinkled gray skinned, with long curved tusks and ears proportionally larger than forest cousins. The trunk is powerful and dexterous. The overall presence is both magnificent and intimidating.
+The savanna elephant is enormous, wrinkled and gray-skinned, with long curved tusks and ears proportionally larger than forest cousins. The trunk is powerful and dexterous. The overall presence is both magnificent and intimidating.
 
 ## Key Behaviors
 
@@ -427,7 +427,7 @@ The trunk delivers powerful blows that can kill or maim.
 
 ### Trampling Stomp
 
-The creature's weight crushing targets under its feet.
+The creature's weight crushes targets under its feet.
 
 ## Special Abilities
 
@@ -441,7 +441,7 @@ Elephants work together defensively, protecting young and injured members.
 
 ### Intelligent Manipulation
 
-The trunk can manipulate environment and objects with precision.
+The trunk can handle objects and its surroundings with precision.
 
 ### Additional Information
 

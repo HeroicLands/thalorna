@@ -338,7 +338,7 @@ sohl:
 
 ![[kmdbhmth|Komodo Behemoth]]{float: top-left}
 
-A shadow moves across the rocky ground—enormous, inexorable, patient. The air grows warmer as the massive shape draws close, and the smell reaches you first: stale, meaty, and laced with something rotten. The creature slides into view with terrifying grace for something so vast, its scales catching the light in dull, metallic flashes. The ground trembles with each footfall. Its forked tongue emerges and retracts, tasting your fear on the wind, and its eyes—ancient, knowing, utterly pitiless—lock onto yours as the tail sweeps behind it like a felled tree.
+A shadow moves across the rocky ground—enormous, inexorable, patient. The air grows warmer as the massive shape draws close, and the smell reaches you first: stale, meaty, and laced with something rotten. The creature slides into view with terrifying grace for something so vast, its scales catching the light in dull, metallic flashes. The ground trembles with each footfall. Its forked tongue emerges and retracts, tasting your fear on the wind, and its eyes—ancient, knowing, pitiless—lock onto yours as the tail sweeps behind it like a felled tree.
 
 # Dossier {#dossier}
 
@@ -350,31 +350,31 @@ Komodo Behemoths display coarse, warty scales across their entire body, with the
 
 ## Key Behaviors
 
-Komodo Behemoths are solitary hunters that establish and fiercely defend large territories encompassing several square miles. They spend much of their day resting in burrows or dens, conserving energy until hungry or triggered by the presence of prey. When hunting, they employ patient ambush tactics, positioning themselves along known game trails and waiting motionlessly for hours or even days. Once prey appears within striking distance, they explode into action with shocking speed. Their saliva contains numerous species of pathogenic bacteria and venom, making a bite a death sentence even if the initial wound is not immediately fatal. They will bite prey, then retreat to allow the venom and infection to weaken the animal before returning to feed.
+Komodo Behemoths are solitary hunters that establish and fiercely defend large territories encompassing several square miles. They spend much of their day resting in burrows or dens, conserving energy until hungry or triggered by the presence of prey. When hunting, they employ patient ambush tactics, positioning themselves along known game trails and waiting motionlessly for hours or even days. Once prey appears within striking distance, they explode into action with shocking speed. Their saliva carries venom and a foulness that festers in any wound, making a bite a death sentence even if the initial wound is not immediately fatal. They will bite prey, then retreat to allow the venom and infection to weaken the animal before returning to feed.
 
 ## Combat Strategy
 
-The Komodo Behemoth's primary strategy is ambush and patience. It positions itself for maximum advantage and strikes with overwhelming force before its opponent can react. If forced into extended combat with a living opponent, it relies on the poisonous, bacterial saliva in its bite to gradually incapacitate the enemy while it harries with tail strikes and claws. A behemoth will only pursue if the prey is wounded; if prey escapes unharmed, it generally abandons the chase, reserving energy for a more promising hunt.
+The Komodo Behemoth's primary strategy is ambush and patience. It positions itself for maximum advantage and strikes with overwhelming force before its opponent can react. If forced into extended combat with a living opponent, it relies on the poisonous, festering saliva in its bite to gradually incapacitate the enemy while it harries with tail strikes and claws. A behemoth will only pursue if the prey is wounded; if prey escapes unharmed, it generally abandons the chase, reserving energy for a more promising hunt.
 
 ## Attack Methods
 
 ### Powerful Bite
 
-The behemoth lunges forward with jaw spread wide, aiming to clamp down on limbs or the throat; the bite delivers an infectious toxin through saliva laden with venom and dangerous bacteria, causing progressive damage even after the initial wound is sustained.
+The behemoth lunges forward with jaw spread wide, aiming to clamp down on limbs or the throat; the bite carries venom and a foul infection in its saliva, and the wound worsens long after it is made.
 
 ### Tail Strike
 
-With the force of a felled tree, the massive tail sweeps horizontally to knock opponents prone, destroy obstacles, or drive back multiple assailants; the tail can disarm, break bones, or inflict crushing damage.
+With the force of a felled tree, the massive tail sweeps horizontally to knock opponents off their feet, destroy obstacles, or drive back multiple assailants; the tail can disarm, break bones, or crush.
 
 ## Special Abilities
 
 ### Infectious Bite
 
-The Komodo Behemoth's bite is laden with venom and pathogenic bacteria; victims suffer immediate wound damage and ongoing poison damage as the infection progresses, with severity increasing over time if untreated.
+The Komodo Behemoth's bite is laden with venom and a festering infection; the wound itself is bad, and the poison and infection go on working, growing worse over time if untreated.
 
 ### Stealth Predator
 
-Despite its enormous size, the behemoth moves with remarkable stealth and silence when hunting; it gains substantial bonuses to stealth and hiding checks, particularly in rocky or vegetated terrain.
+Despite its enormous size, the behemoth moves with surprising stealth and silence when hunting, and it is very hard to spot before it strikes, particularly in rocky or vegetated terrain.
 
 ## Attributes
 

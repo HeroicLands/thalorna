@@ -353,15 +353,15 @@ The sound comes first: a furious snort that seems to explode from the undergrowt
 
 # Dossier {#dossier}
 
-The Thornback Boar is a wild, heavily built predator standing 4-5 feet at the shoulder and weighing 300-400 pounds, found in forests, scrublands, and rough terrain throughout temperate regions. These ferociously territorial creatures are dangerous to anything that ventures into claimed space, with solitary males being exceptionally aggressive. Adventurers encounter thornback boars while traveling forests, hunting game, or inadvertently entering territory claimed by the creatures.
+The Thornback Boar is a wild, heavily built predator standing 4-5 feet at the shoulder and weighing 300-400 pounds, found in forests, scrublands, and rough terrain throughout temperate regions. These ferociously territorial creatures are dangerous to anything that ventures into claimed space, and the solitary males are the most aggressive of all. Adventurers encounter thornback boars while traveling forests, hunting game, or inadvertently entering territory claimed by the creatures.
 
 ## Presentation
 
-The Thornback Boar is a compact, muscular creature built for charging and goring rather than running or climbing. The body is covered in coarse, bristly hair ranging from dark brown to black, often matted and stained with mud, blood, and vegetation. The most distinctive feature is the row of jagged, bony spines running down the back from neck to tail — each spike 4-8 inches in length, sharp at the point, and clearly evolved for defense against attacking predators. The head is massive and blocky, with small, deep-set eyes that burn with primal intensity, and a snout adapted for rooting in earth. The tusks are curved, thick, and often darkened with age and use, capable of perforating armor and inflicting terrible wounds. The legs are powerful and short, built for driving forward with all the creature’s weight.
+The Thornback Boar is a compact, muscular creature built for charging and goring rather than running or climbing. The body is covered in coarse, bristly hair ranging from dark brown to black, often matted and stained with mud, blood, and vegetation. The most distinctive feature is the row of jagged, bony spines running down the back from neck to tail — each spike 4-8 inches in length, sharp at the point, and plainly a defense against attacking predators. The head is massive and blocky, with small, deep-set eyes that burn with primal intensity, and a snout adapted for rooting in earth. The tusks are curved, thick, and often darkened with age and use, capable of perforating armor and inflicting terrible wounds. The legs are powerful and short, built for driving forward with all the creature’s weight.
 
 ## Key Behaviors
 
-Thornback Boars are territorial and aggressively defensive of claimed ranges, which include sources of water, good rooting ground, and shelter. They are primarily solitary except during mating season, when males’ aggression peaks. They spend much of their time rooting through soil and undergrowth for food, leaving trails of disturbed earth and churned vegetation. Mothers defending young become nearly uncontrollable in aggression. The creatures are most active during dawn, dusk, and night, resting during midday heat. They are highly intelligent in terms of territorial defense and learning, and a boar that has successfully driven off predators learns to recognize threats and reuse successful tactics.
+Thornback Boars are territorial and aggressively defensive of claimed ranges, which include sources of water, good rooting ground, and shelter. They are primarily solitary except during mating season, when males’ aggression peaks. They spend much of their time rooting through soil and undergrowth for food, leaving trails of disturbed earth and churned vegetation. Mothers defending young become nearly uncontrollable in aggression. The creatures are most active during dawn, dusk, and night, resting during midday heat. They are clever in defending territory and in learning, and a boar that has successfully driven off predators learns to recognize threats and reuse successful tactics.
 
 ## Combat Strategy
 
@@ -385,7 +385,7 @@ Anyone attacking from behind or attempting to grapple the boar’s rear risks in
 
 ### Armor Spines
 
-The jagged spines along the boar’s back provide genuine protection that reduces damage from slashing attacks and create hazard for anything attempting to grapple or attack from behind.
+The jagged spines along the boar’s back protect it against slashing blows and are a hazard to anything attempting to grapple or attack from behind.
 
 ### Relentless Charge
 
@@ -393,11 +393,11 @@ Once the boar commits to a charge, it is nearly unstoppable, continuing forward 
 
 ### Territorial Aggression
 
-Within claimed territory, the boar fights with enhanced aggression and bonuses to all attack rolls, drawing confidence from dominance in familiar ground.
+Within claimed territory, the boar fights with enhanced aggression and strikes with greater accuracy, drawing confidence from dominance in familiar ground.
 
 ### Rage Frenzy
 
-As the boar becomes injured, it becomes progressively more aggressive and dangerous, not backing down or retreating regardless of the damage sustained.
+As the boar becomes injured, it becomes progressively more aggressive and dangerous, not backing down or retreating regardless of its wounds.
 
 ### Additional Information
 

@@ -333,19 +333,19 @@ sohl:
 
 ![[gnthdghg|Giant Hedgehog]]{float: top-left}
 
-Your foot nearly comes down on it before you see it: a rounded form the size of a large boar, covered in spines that stand nearly vertical from its body. The quills catch the light and gleam like steel, and when you shift your weight, the entire creature rattles—a warning sound like a thousand dice tumbling in a barrel. A long, pointed snout pokes forward and sniffs the air, and small dark eyes lock onto you. The smell is earthy and rank. The creature seems utterly unimpressed by your presence, but those quills continue to rattle, each spine gleaming with a wickedness that promises serious harm.
+Your foot nearly comes down on it before you see it: a rounded form the size of a large boar, covered in spines that stand nearly vertical from its body. The quills catch the light and gleam like steel, and when you shift your weight, the entire creature rattles—a warning sound like a thousand dice tumbling in a barrel. A long, pointed snout pokes forward and sniffs the air, and small dark eyes lock onto you. The smell is earthy and rank. The creature seems unimpressed by your presence, but those quills continue to rattle, each spine gleaming with a wickedness that promises serious harm.
 
 # Dossier {#dossier}
 
-The Giant Hedgehog is a bulky, heavily-quilled creature standing three feet tall and extending six feet or more in length. These are solitary, nocturnal foragers that spend their time rooting through leaf litter and soil in search of grubs, insects, and roots. Despite their herbivorous preference, they are dangerous to encounter due to their covered armor of razor-sharp spines. Adventurers most commonly encounter them when traveling through woodlands at night or when camping in territory where hedgehogs forage.
+The Giant Hedgehog is a bulky, heavily-quilled creature standing three feet tall and extending six feet or more in length. These are solitary, nocturnal foragers that spend their time rooting through leaf litter and soil in search of grubs, insects, and roots. Despite their herbivorous preference, they are dangerous to encounter because of their armor of razor-sharp spines. Adventurers most commonly encounter them when traveling through woodlands at night or when camping in territory where hedgehogs forage.
 
 ## Presentation
 
-The Giant Hedgehog is a rotund creature built like a mobile fortress—short, powerful legs support a large, barrel-shaped body covered entirely in spines. The quills are impressive: each one up to a foot in length, thick and sharp, arranged in overlapping rows across the dorsal surface and sides. The underside is slightly less spiny but still formidable. The head is relatively small, tapered to a long, flexible snout equipped with keen olfactory organs and small teeth suitable for grubbing in soil. The eyes are small, dark, and set on the sides of the head, providing good lateral vision but limited forward sight. The creature moves with ponderous deliberation, but its quills create a constant whispering rattle as they shift and resonate with each step. The coloration is typically brown or gray, often caked with soil.
+The Giant Hedgehog is a rotund creature built like a mobile fortress—short, powerful legs support a large, barrel-shaped body covered entirely in spines. The quills are impressive: each one up to a foot in length, thick and sharp, arranged in overlapping rows across the dorsal surface and sides. The underside is slightly less spiny but still well defended. The head is relatively small, tapered to a long, flexible snout with a fine sense of smell and small teeth suitable for grubbing in soil. The eyes are small, dark, and set on the sides of the head, providing good lateral vision but limited forward sight. The creature moves with ponderous deliberation, but its quills create a constant whispering rattle as they shift and resonate with each step. The coloration is typically brown or gray, often caked with soil.
 
 ## Key Behaviors
 
-Giant Hedgehogs are solitary creatures that establish feeding territories but rarely interact with other hedgehogs except during breeding season. They are nocturnal and most active during warm, damp nights when invertebrates are abundant. A hedgehog spends much of the night rooting and snuffling through forest floor debris, consuming large quantities of grubs, insects, and plant matter. They are primarily herbivorous but will consume any protein-rich food they encounter. They are methodical and patient creatures, showing no particular fear of larger animals—their armor is their confidence. During winter or cold weather, they seek shelter in burrows and become less active.
+Giant Hedgehogs are solitary creatures that establish feeding territories but rarely interact with other hedgehogs except during breeding season. They are nocturnal and most active during warm, damp nights when invertebrates are abundant. A hedgehog spends much of the night rooting and snuffling through forest floor debris, consuming large quantities of grubs, insects, and plant matter. They are primarily herbivorous but will eat any meat they encounter. They are methodical and patient creatures, showing no particular fear of larger animals—their armor is their confidence. During winter or cold weather, they seek shelter in burrows and become less active.
 
 ## Combat Strategy
 
@@ -365,11 +365,11 @@ Rarely, a hedgehog will charge at a threat—using its armored body as a weapon 
 
 ### Quill Armor
 
-Any creature that strikes the hedgehog in melee combat risks its own injury—the quills penetrate flesh and draw blood, and a creature in prolonged contact with the hedgehog suffers cumulative damage. The belly and underside have fewer quills and are more vulnerable than the back.
+Any creature that strikes the hedgehog in melee combat risks its own injury—the quills penetrate flesh and draw blood, and a creature in prolonged contact with the hedgehog is wounded again and again. The belly and underside have fewer quills and are more vulnerable than the back.
 
 ### Defensive Curl
 
-When curled into a ball, the hedgehog becomes nearly indestructible—attacks from most angles are harmlessly deflected by the quills. Only attacks from the underside (which is accessible only if the hedgehog is flipped or lifted) can cause real damage.
+When curled into a ball, the hedgehog becomes nearly indestructible—attacks from most angles are harmlessly deflected by the quills. Only attacks from the underside (which is accessible only if the hedgehog is flipped or lifted) can do real harm.
 
 ## Additional Information
 

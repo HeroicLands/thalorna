@@ -371,7 +371,7 @@ Your breath mists in air that should be warmer. A shape materializes from white 
 
 # Dossier {#dossier}
 
-Frostjaws are predators of ice and cold, manifestations of winter itself given animal form. They hunt in frozen lands and are drawn to the deepest cold. Some are natural creatures of elemental nature; others are summoned or bound by sorcerers. A Frostjaw is driven by hunger and territorial aggression in equal measure, and it will pursue prey across frozen wastes with relentless determination. In the proper environment—deep winter, glacial regions, frozen peaks—a Frostjaw is nearly unstoppable.
+Frostjaws are predators of ice and cold, manifestations of winter itself given animal form. They hunt in frozen lands and are drawn to the deepest cold. Some are natural creatures of elemental nature; others are summoned or bound by sorcerers. A Frostjaw is driven as much by hunger as by territorial aggression, and it will pursue prey across frozen wastes with relentless determination. In the proper environment—deep winter, glacial regions, frozen peaks—a Frostjaw is nearly unstoppable.
 
 ## Presentation
 
@@ -379,7 +379,7 @@ A Frostjaw resembles a large, powerful wolf ten to twelve feet in length, but co
 
 ## Key Behaviors
 
-Frostjaws are solitary hunters that claim frozen territories and defend them against all intruders. They are drawn to sources of living heat—warm-blooded animals, settlements with fires, humans. They seem to delight in the contrast between heat and cold, pursuing prey that generates maximum thermal disruption. They are intelligent and patient, willing to stalk prey for days if necessary. In their native cold, they are supremely confident. Away from cold, they become more aggressive and more dangerous, as though fighting against their nature.
+Frostjaws are solitary hunters that claim frozen territories and defend them against all intruders. They are drawn to sources of living heat—warm-blooded animals, settlements with fires, humans. They seem to delight in the contrast between heat and cold, pursuing the prey that gives off the most warmth. They are intelligent and patient, willing to stalk prey for days if necessary. In their native cold, they are supremely confident. Away from cold, they become more aggressive and more dangerous, as though fighting against their nature.
 
 ## Combat Strategy
 
@@ -389,7 +389,7 @@ A Frostjaw attacks with a combination of speed and control, using its freezing a
 
 ### Frost Bite
 
-The Frostjaw's jaws close with crushing force, and the victim is simultaneously crushed and frozen. The bite inflicts terrible physical damage and introduces freezing cold into the victim's body. Victims struck feel their strength and mobility deteriorating from the intense cold.
+The Frostjaw's jaws close with crushing force, and the victim is simultaneously crushed and frozen. The bite crushes bone and introduces freezing cold into the victim's body. Victims struck feel their strength and mobility deteriorating from the intense cold.
 
 ### Freezing Breath
 
@@ -397,13 +397,13 @@ The Frostjaw exhales a torrent of sub-zero air and crystalline ice that engulfs 
 
 ### Shatter Strike
 
-The Frostjaw strikes a frozen opponent or frozen ground and uses the brittle nature of ice to cause maximum damage. The strike shatters frozen enemies or creates dangerous shards of ice that spread additional cold.
+The Frostjaw strikes a frozen opponent or frozen ground and uses the brittle nature of ice to do the worst harm it can. The strike shatters frozen enemies or creates dangerous shards of ice that spread additional cold.
 
 ## Special Abilities
 
 ### Glacial Resilience
 
-The Frostjaw's body is composed of living ice, making it naturally resistant to cold damage. Fire and heat damage harm it, but it is nearly immune to cold-based magic. Physical weapons are less effective due to the hardness and regenerative nature of its icy form.
+The Frostjaw's body is composed of living ice, making it naturally resistant to cold. Fire and heat harm it, but it is nearly immune to cold-based magic. Physical weapons are less effective due to the hardness and regenerative nature of its icy form.
 
 ### Frozen Territory
 
@@ -415,11 +415,11 @@ The ambient temperature near a Frostjaw drops dramatically. Exposed skin begins 
 
 ### Winter's Curse
 
-The Frostjaw can permanently lower the temperature in a region, causing accelerated freezing. Water freezes solid, vegetation dies, and the land becomes more and more like the creature's native habitat. An Frostjaw that remains in a location long enough can transform the entire region into frozen wasteland.
+The Frostjaw can permanently lower the temperature in a region, causing accelerated freezing. Water freezes solid, vegetation dies, and the land becomes more and more like the creature's native habitat. A Frostjaw that remains in a location long enough can transform the entire region into frozen wasteland.
 
 ## Additional Information
 
-Fire and heat are the Frostjaw's primary weaknesses. A large source of heat can harm it significantly, and sustained fire-based magic can reduce its power. A Frostjaw cannot survive in regions of sustained heat and will retreat to colder climates. A Frostjaw destroyed in a warm location may not reform. One destroyed in its native frozen territory will likely return after several seasons. Permanent destruction requires either keeping it away from cold sources until it weakens to death, or collapsing it into warming water or burying it in earth that generates geothermal heat.
+Fire and heat are the Frostjaw's primary weaknesses. A large source of heat can harm it significantly, and sustained fire-based magic can reduce its power. A Frostjaw cannot survive in regions of sustained heat and will retreat to colder climates. A Frostjaw destroyed in a warm location may not reform. One destroyed in its native frozen territory will likely return after several seasons. Permanent destruction requires either keeping it away from cold sources until it weakens to death, or collapsing it into warming water or burying it in earth warmed from below.
 
 ## Attributes
 
