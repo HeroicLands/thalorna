@@ -617,7 +617,7 @@ sohl:
 
 ### Early Years
 
-Ályra was born to a minor merchant family in the Kingdom of [[place-elavendre|Élavendre]], where her father traded in exotic woods and her mother preserved rare plants. As the youngest of five children, she was initially destined for marriage or service, yet her obsessive fascination with creating miniature worlds from scraps and wood shavings could not be ignored. By age twelve, she had apprenticed herself informally to the traveling toymaker Valdyn Ashwhisper, trading household labor for knowledge of joinery, painting, and the ancient art of bringing inanimate forms to life.
+Ályra was born to a minor merchant family in the Kingdom of [[affiliation-kngdmlvndr|Élavendre]], where her father traded in exotic woods and her mother preserved rare plants. As the youngest of five children, she was initially destined for marriage or service, yet her obsessive fascination with creating miniature worlds from scraps and wood shavings could not be ignored. By age twelve, she had apprenticed herself informally to the traveling toymaker Valdyn Ashwhisper, trading household labor for knowledge of joinery, painting, and the ancient art of bringing inanimate forms to life.
 
 ### Training and Growth
 
