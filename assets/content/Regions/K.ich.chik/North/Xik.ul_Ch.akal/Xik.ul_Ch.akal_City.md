@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - nrthrnkchchk
+    - xikulchaklrgn
   population: null
 name:
   full: Xik'ul Ch'akal

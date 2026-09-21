@@ -97,7 +97,7 @@ data:
   commonSkills: []
   seat: balamkiahk2
   domains:
-    - nrthrnkchchk
+    - balamkiahkrgn
   population: null
   economy: []
   lore:
@@ -110,19 +110,11 @@ packFolder: baalamkiahk
 
 ## Overview
 
-Ba'alam Ki'ahk — "Jaguar-Eagle Place" in the K'ich'chik tongue — is the westernmost expanse of the northern frontier. The people K'ich'chik border scouts call the Xak'nal Tz'aqalil ("Eagle People," from the eagle-imagery on their war-standards) inhabit this region, though what they call themselves and their land in their own language remains unknown. They do not welcome outsiders. Towering cedar and redwood forests stretch from the rugged Pacific coastline inland to the spine of snow-crowned peaks, with volcanic mountains rising like the sacred guardians of an elder age.
+Ba'alam Ki'ahk holds the land of [[place-balamkiahkrgn|Ba'alam Ki'ahk Region]]. The people K'ich'chik border scouts call the Xak'nal Tz'aqalil ("Eagle People," from the eagle-imagery on their war-standards) inhabit this region, though what they call themselves and their land in their own language remains unknown. They do not welcome outsiders.
 
 What K'ich'chik merchants and captives have reported suggests a people who have thrived here for uncounted generations, their lives woven into the cycles of salmon runs, the rhythms of cedar groves, and the moods of an ocean that both nourishes and tests their resolve. Though they appear to claim no permanent settlements, their seasonal camps follow pathways worn smooth by ancestors, and the quality of their carving, weaving, and building — glimpsed at rare trade encounters — speaks to a sophistication that rivals anything in the south. When the mountain passes close during winter's teeth, outsiders find Ba'alam Ki'ahk impenetrable — and during the rest of the year, the Xak'nal ensure it remains nearly so.
 
-From Ba'alam Ki'ahk's high valleys, one can see across the great water to distant lands. The Xak'nal guard their territory with lethal seriousness; the mountain passes are few, and the Xak'nal know every hidden trail and defensible ridge. K'ich'chik traders who venture too far into the interior without invitation do not return.
-
-## Geography
-
-The landscape of Ba'alam Ki'ahk fractures into three distinct regions, each with its own character and spiritual significance. The coastal reaches feature precipitous fjords cut by ancient ice, where cedar forests descend nearly to the tide-line and salmon rivers cascade down from snowmelt. These temperate rainforests are among the densest and most productive ecosystems in all of [[place-kchchkcntnnt|K'ich'chik]], their canopies so thick that even at midday the ground dwells in twilight. The coastal waters team with life—seal, sea otter, and the great whales that the Xak'nal hunt with reverence and ceremony.
-
-Inland from the coast rises the mountain spine, a chain of volcanic peaks whose summits pierce the cloud-layer and touch the realm of spirit. Here, at the edge of stone and sky, eagles nest and wheel; here too are the high meadows where the Xak'nal gather for vision quests and seasonal councils. The mountains channel the rivers that feed the coastal settlements and provide trade routes to the interior. Snow accumulates heavily in the high passes, making winter crossing treacherous and summer travel a window of mere months.
-
-To the east, where the mountains give way to plateau and boreal forest, the landscape transitions gradually toward the prairies and northern reaches claimed by [[affiliation-kiximtzul|K'ixim Tzul]] and the bear-people. Here, the cedar gives way to spruce and pine, and the Xak'nal maintain hunting camps and trade routes. The region is a frontier within a frontier—less densely populated than the coastal and mountain zones, yet still watched carefully by Xak'nal scouts who know that the borders of their territory are always negotiable should outsiders grow bold.
+The Xak'nal guard their territory with lethal seriousness; the mountain passes are few, and the Xak'nal know every hidden trail and defensible ridge. K'ich'chik traders who venture too far into the interior without invitation do not return.
 
 ## The Xak'nal Tz'aqalil
 
@@ -134,9 +126,7 @@ K'ich'chik observers believe the Xak'nal political structure is decentralized, o
 
 ## Trade
 
-Ba'alam Ki'ahk sits at a crucial intersection of northern and southern trade networks. The Xak'nal serve as intermediaries between [[place-kchchkcntnnt|K'ich'chik]]'s civilizations and the more remote northern peoples; cedar products, whale oil, and furs flow south, while obsidian, jade, and featherwork flow north. The high mountain passes are impassable in winter, making trade seasonal and unpredictable—a factor that keeps prices volatile and makes successful traders among the Xak'nal wealthy and influential.
-
-Coastal trade with the regions to the north (lands beyond even the Xak'nal's claimed territory) brings items of mysterious origin and enormous value—furs of creatures unknown in the south, amber from some distant northern sea, bone and ivory carved in styles utterly foreign to K'ich'chik's aesthetic traditions. The Xak'nal maintain a monopoly on this northern trade, and they guard their routes and contacts with jealous intensity. Attempts by southern merchants to circumvent Xak'nal intermediaries have ended in disappearances. The Xak'nal tolerate trade only on their terms, at locations they choose, and any K'ich'chik merchant who overstays or wanders is treated as an invader.
+The Xak'nal maintain a monopoly on this northern trade, and they guard their routes and contacts with jealous intensity. Attempts by southern merchants to circumvent Xak'nal intermediaries have ended in disappearances. The Xak'nal tolerate trade only on their terms, at locations they choose, and any K'ich'chik merchant who overstays or wanders is treated as an invader.
 
 ## See Also
 
@@ -144,3 +134,4 @@ Coastal trade with the regions to the north (lands beyond even the Xak'nal's cla
 - [[affiliation-hanalxilan|Ha'nal Xi'lan]] — Contested borderlands far to the southeast, where Xak'nal traders sometimes venture
 - [[affiliation-chakultzkl|Ch'akul Tza'kul]] — The great southern desert separating the northern frontier from [[place-kchchkcntnnt|K'ich'chik]] proper
 - [[affiliation-itzanpnthn|Itzáni Faith]] — The distant civilization's religion and culture, encountered through trade and occasional conflict
+- [[place-balamkiahkrgn|Ba'alam Ki'ahk Region]] — The land Ba'alam Ki'ahk holds

@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - nrthrnkchchk
+    - chakultzklrgn
   population: null
 name:
   full: Ch'akul Tza'kul

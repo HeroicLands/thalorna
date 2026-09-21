@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - nrthrnkchchk
+    - balamkiahkrgn
   population: null
 name:
   full: Ba'alam Ki'ahk
