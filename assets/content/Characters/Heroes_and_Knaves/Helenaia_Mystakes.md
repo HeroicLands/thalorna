@@ -602,7 +602,7 @@ sohl:
 
 ![[helnmystks|Hélénaia Mystákês]]{float: top-left}
 
-Hélénaia stands 5'9" tall with a medium build. She has light olive skin, dark hair, and green eyes. Her features include an oblong face, a prominent nose, a pronounced chin, well-defined lips, heavy brows, angular cheeks. A distinguishing mark is a scar running down the right leg.
+Hélénaia stands 5'9" tall with a medium build. She has light olive skin, dark hair, and green eyes. Her features include an oblong face, a prominent nose, a pronounced chin, well-defined lips, heavy brows, and angular cheeks. She has a scar running down her right leg.
 
 Her blonde hair, worn in an elaborate coiled bun adorned with flowers and sacred cords, is her greatest adornment, and she changes its decoration with the seasons and sacred days, making it a living calendar of her spiritual devotion. A long scar runs down her right leg from knee to ankle—the legacy of an accident in her youth—and she bears it without shame, often pointing it out to those struggling with their own wounds or imperfections as testimony to the fact that scars can become beautiful through time and acceptance.
 
@@ -612,27 +612,27 @@ Her robes, flowing and adorned with floral motifs in celebration of fertility an
 
 Hélénaia was born in a minor city of the [[affiliation-byzarianlg|Byzarian League]] to a family of modest means—her father a leather worker, her mother a midwife. From earliest childhood, she showed unusual sensitivity to the emotions and needs of those around her, and her mother began to teach her the medicinal and spiritual properties of herbs when she was barely old enough to walk. When Hélénaia was seven years old, a terrible fire swept through the city, and in the confusion and panic, she and several other children became separated from their families. Hélénaia's calm demeanor and natural authority, despite her age, kept the other children organized and safe until rescuers found them. A priest of the Sacred Forge witnessed her actions and was struck by what he perceived as a spiritual calling in her.
 
-Recognizing that Hélénaia possessed a rare combination of natural empathy, spiritual sensitivity, and practical wisdom, the priest arranged with her parents for her to enter the temple as a novice. Hélénaia was nine years old when she became a member of the priesthood. Her training was rigorous, combining extensive study of sacred texts, the mastery of ritual performance, the cultivation of her capacity for spiritual communion, and the practical knowledge necessary to serve her community.
+Recognizing that Hélénaia possessed a rare combination of natural fellow-feeling, spiritual sensitivity, and practical wisdom, the priest arranged with her parents for her to enter the temple as a novice. Hélénaia was nine years old when she became a member of the priesthood. Her training was rigorous, combining extensive study of sacred texts, the mastery of ritual performance, the cultivation of her capacity for spiritual communion, and the practical knowledge necessary to serve her community.
 
 When Hélénaia was fourteen years old, a terrible accident nearly killed her. She was struck by a cart while traveling to deliver medicines to a distant village, and the injury to her right leg was so severe that many assumed she would never walk normally again. However, through the intervention of prayer, extensive healing work by other priests, and her own extraordinary will to recovery, she not only survived but eventually regained full function of her leg, though the scar remained—a physical reminder of mortality and fragility.
 
-Rather than retreating from her injury, Hélénaia used it as a foundation for deeper spiritual understanding. She began to specialize in healing work—not merely the physical healing of injuries, but the spiritual and emotional healing of those whose trauma or grief had shattered them. By her late twenties, she had become renowned throughout the Byzarian League for her ability to help couples restore intimacy after betrayal, to help families reconcile after estrangement, and to help individuals find peace with their own grief and limitations.
+Rather than retreating from her injury, Hélénaia used it as a foundation for deeper spiritual understanding. She began to specialize in healing work—the physical healing of injuries, and also the spiritual and emotional healing of those whom suffering or grief had shattered. By her late twenties, she had become known throughout the Byzarian League for her ability to help couples restore intimacy after betrayal, to help families reconcile after estrangement, and to help individuals find peace with their own grief and limitations.
 
-Now, at forty years of age, Hélénaia remains dedicated to her work in the temple, having never married, though she has had loving relationships. She has trained several younger priestesses in her methods, and her reputation for authentic spiritual work and genuine compassion has attracted a steady stream of people seeking her counsel and her rituals. She serves as the primary priestess of the Sacred Forge's transformative healing rituals and is beginning to take on more responsibility for training the temple's next generation of priests.
+Now, at forty years of age, Hélénaia remains dedicated to her work in the temple, having never married, though she has had loving relationships. She has trained several younger priestesses in her methods, and her reputation for authentic spiritual work and compassion has attracted a steady stream of people seeking her counsel and her rituals. She is the primary priestess of the Sacred Forge's transformative healing rituals and is beginning to take on more responsibility for training the temple's next generation of priests.
 
 ## Psyche
 
 ### Personality
 
-Hélénaia radiates warmth and genuine interest in others, and people naturally tend to trust her, often opening to her within moments of meeting her. She is an exceptional listener, capable of hearing not just what people say but what they are afraid to say, and her responses come from a place of genuine understanding rather than judgment. She laughs readily and often, and her laughter is infectious, filled with genuine joy at the world's beauty.
+Hélénaia radiates warmth and interest in others, and people naturally tend to trust her, often opening to her within moments of meeting her. She is a fine listener, capable of hearing what people say and what they are afraid to say, and her responses come from understanding rather than judgment. She laughs readily and often, and her laughter is infectious, filled with joy at the world's beauty.
 
-However, beneath her warmth lies a fierce intelligence and a sharp eye for the ways in which people deceive themselves. She is perfectly willing to speak difficult truths to those she counsels, but she does so with such compassion that even harsh words are received as gifts rather than attacks. She has learned from her own journey that real compassion sometimes requires saying no, setting boundaries, and refusing to enable destructive patterns.
+She also has a fierce intelligence and a sharp eye for the ways in which people deceive themselves. She is perfectly willing to speak difficult truths to those she counsels, but she does so with such compassion that even harsh words are received as gifts rather than attacks. She has learned from her own journey that real compassion sometimes requires saying no, setting limits, and refusing to indulge destructive habits.
 
-She is genuinely spiritual, experiencing moments of profound communion with the Sacred Forge that inform her understanding of the world, though she holds these experiences lightly, neither demanding that others share them nor claiming exclusive access to truth. She is somewhat dreamy and romantic in her thinking, prone to idealism about human possibility, and she sometimes struggles to fully accept the brutality and indifference of the world. She is aware of this tendency and works to balance it with realistic assessment of human limitations.
+She is spiritual, experiencing moments of deep communion with the Sacred Forge that inform her understanding of the world, though she holds these experiences lightly, neither demanding that others share them nor claiming exclusive access to truth. She is somewhat dreamy and romantic in her thinking, prone to idealism about human possibility, and she sometimes struggles to fully accept the brutality and indifference of the world. She is aware of this tendency and works to balance it with realistic assessment of human limitations.
 
 ### Motivation
 
-Hélénaia is motivated by a conviction that healing—spiritual, emotional, and physical—is humanity's highest calling, and that the transformation of suffering into wisdom is the most sacred work that exists. She seeks to serve others in their moments of greatest vulnerability, believing that such service is ultimately service to the divine. Her secondary motivation is the continuation and expansion of her community's healing practices, ensuring that future generations will have access to the spiritual resources that have transformed her own life.
+Hélénaia is motivated by a conviction that healing—spiritual, emotional, and physical—is humanity's highest calling, and that the transformation of suffering into wisdom is the most sacred work that exists. She seeks to serve others in their moments of greatest vulnerability, believing that such service is ultimately service to the divine. Her secondary motivation is the continuation and expansion of her community's healing practices, so that future generations will have access to the spiritual resources that have transformed her own life.
 
 At a deeper level, Hélénaia seeks to create beauty in a world filled with suffering, and she believes that beauty—whether in ritual, in kindness, in the transformation of scars into marks of wisdom—is a form of resistance against the world's darkness. She wants to live a life so fully devoted to love and healing that her example itself becomes a teaching for others.
 
@@ -640,11 +640,11 @@ At a deeper level, Hélénaia seeks to create beauty in a world filled with suff
 
 - **Preternatural Empathy**: Hélénaia possesses the ability to perceive emotional states in others with unusual accuracy, to understand the sources of their pain, and to respond with interventions precisely calibrated to their needs.
 
-- **Ritual Mastery**: Her skill in the performance of sacred ceremonies is exceptional, and she has developed ritual innovations that effectively address emotional and spiritual wounds in ways that traditional ceremonies sometimes miss.
+- **Ritual Mastery**: Her skill in the performance of sacred ceremonies is very high, and she has developed new rites that effectively address emotional and spiritual wounds in ways that traditional ceremonies sometimes miss.
 
 - **Healing Knowledge**: Her understanding of herbs, medicines, and the physical aspects of healing is extensive, and she combines this practical knowledge with spiritual understanding to provide comprehensive care.
 
-- **Authentic Presence**: When Hélénaia is with someone, they feel genuinely attended to in a way that is rare; this capacity to be fully present to another person's experience is itself a form of healing.
+- **Authentic Presence**: When Hélénaia is with someone, they feel attended to in a way that is rare; this capacity to be fully present to another person's experience is itself a form of healing.
 
 - **Creative Adaptation**: Hélénaia is capable of understanding the deeper principles underlying tradition and then adapting those principles to new circumstances and new needs; this allows her to evolve practices while remaining true to their essential purpose.
 
@@ -654,13 +654,13 @@ At a deeper level, Hélénaia seeks to create beauty in a world filled with suff
 
 - **Idealism and Naïveté**: Hélénaia's belief in human goodness and her conviction that people are fundamentally capable of healing and growth sometimes cause her to misjudge situations and to extend trust to those who do not deserve it.
 
-- **Emotional Vulnerability**: Her capacity for empathy, while a strength, also makes her vulnerable to absorbing others' pain, leading to periods of depression and emotional exhaustion that she sometimes fails to notice until they become serious.
+- **Emotional Vulnerability**: Her capacity for fellow-feeling, while a strength, also makes her vulnerable to absorbing others' pain, leading to periods of depression and emotional exhaustion that she sometimes fails to notice until they become serious.
 
-- **Lack of Political Awareness**: Hélénaia's focus on individual healing and spiritual growth has left her relatively naive about institutional politics and power dynamics, making her easy to manipulate by those with political sophistication.
+- **Lack of Political Awareness**: Hélénaia's focus on individual healing and spiritual growth has left her relatively naive about institutional politics and the workings of power, making her easy to manipulate by those with political sophistication.
 
 - **Willpower Limitation**: Though her will is strong in matters of compassion and healing, Hélénaia sometimes lacks the will to enforce difficult decisions; she may know what needs to be done and still struggle to do it.
 
-- **Physical Fragility**: Her scarring and the injury that caused it left her with a somewhat compromised right leg; while she has recovered full function, she tires more easily than others and is more vulnerable to certain forms of physical trauma.
+- **Physical Fragility**: Her scarring and the injury that caused it left her with a somewhat compromised right leg; while she has recovered full function, she tires more easily than others and is more vulnerable to certain forms of injury.
 
 ## Social
 
@@ -676,15 +676,15 @@ At a deeper level, Hélénaia seeks to create beauty in a world filled with suff
 
 ### Enemies
 
-- **Bishop Theron**: A conservative religious figure who views Hélénaia's innovations in ritual as heretical departures from proper practice and who works to limit her authority and influence.
+- **Bishop Theron**: A conservative religious figure who views Hélénaia's changes to ritual as heretical departures from proper practice and who works to limit her authority and influence.
 
 - **The Merchant Syndicate**: A powerful merchant organization views the temple's healing work as interfering with their labor practices and profits and has occasionally worked against the temple's interests.
 
-- **Lord Merchant Valdis**: A wealthy and politically connected merchant whose family has been damaged by Hélénaia's intervention in their dynamics; he blames her for his daughter's decision to leave her husband and harbors deep resentment.
+- **Lord Merchant Valdis**: A wealthy and politically connected merchant whose family has been damaged by Hélénaia's intervention in their affairs; he blames her for his daughter's decision to leave her husband and harbors deep resentment.
 
 ### Affiliations
 
-- **The Temple of the Sacred Forge**: Hélénaia serves as a priest in good standing and maintains a formal relationship with the priesthood.
+- **The Temple of the Sacred Forge**: Hélénaia is a priest in good standing and maintains a formal relationship with the priesthood.
 
 - **The Byzarian League**: She is recognized throughout the league as one of its spiritual treasures and maintains relationships with leaders and common people alike.
 
@@ -694,12 +694,12 @@ At a deeper level, Hélénaia seeks to create beauty in a world filled with suff
 
 ## Plot Hooks
 
-1. **The Impossible Healing**: A person comes to Hélénaia seeking healing from a spiritual or emotional wound that seems beyond even her exceptional abilities. The person's trauma is severe, their defenses are formidable, and their resistance to healing is rooted in a conviction that they do not deserve healing. As Hélénaia works with them over time, she discovers that the trauma connects to a larger pattern of institutional cruelty or corruption that extends beyond this one person. She must decide whether to remain focused on individual healing or to become involved in exposing and opposing the institution responsible for so much suffering.
+1. **The Impossible Healing**: A person comes to Hélénaia seeking healing from a spiritual or emotional wound that seems beyond even her abilities. The person's wound is severe, their defenses are strong, and their resistance to healing is rooted in a conviction that they do not deserve healing. As Hélénaia works with them over time, she discovers that the wound connects to a larger pattern of institutional cruelty or corruption that extends beyond this one person. She can remain focused on individual healing or become involved in exposing and opposing the institution responsible for so much suffering.
 
-2. **The Corrupted Colleague**: A fellow priest begins demonstrating healing abilities that seem to surpass even Hélénaia's own capacity, working with remarkable speed and apparent success. However, Hélénaia begins to notice subtle signs suggesting that the colleague's healings may be based on manipulation or on promises of spiritual benefits that cannot be delivered. She must determine whether her suspicions are justified and whether to confront her colleague, knowing that doing so will create conflict within the priesthood.
+2. **The Corrupted Colleague**: A fellow priest begins demonstrating healing abilities that seem to surpass even Hélénaia's own capacity, working with great speed and apparent success. However, Hélénaia begins to notice subtle signs suggesting that the colleague's healings may be based on manipulation or on promises of spiritual benefits that cannot be delivered. Her suspicions may or may not be justified, and confronting her colleague will create conflict within the priesthood.
 
-3. **The Heretical Offer**: A group of people from outside the established church approaches Hélénaia with a revolutionary theological proposition. They claim to have discovered an alternative spiritual path that could provide healing more effectively and more quickly than the traditional approach, and they invite her to participate in developing this new practice. The offer is tempting because Hélénaia does sometimes feel constrained by institutional orthodoxy. She must evaluate whether this path represents genuine spiritual innovation or heretical corruption.
+3. **The Heretical Offer**: A group of people from outside the established church approaches Hélénaia with a revolutionary theological proposition. They claim to have discovered an alternative spiritual path that could provide healing more effectively and more quickly than the traditional approach, and they invite her to participate in developing this new practice. The offer is tempting because Hélénaia does sometimes feel constrained by institutional orthodoxy. The path may be a true spiritual advance or a heretical corruption.
 
-4. **The Love That Complicates**: Hélénaia develops a romantic attachment to someone who comes to her seeking healing. The person is not in the temple community and begins to suggest that Hélénaia should leave the priesthood to be with them. This presents Hélénaia with a genuine choice: between the calling she has devoted her life to and the possibility of human love and partnership. The complication is that the person may be emotionally vulnerable or may be taken advantage of if she, in her empathy, fails to maintain appropriate boundaries.
+4. **The Love That Complicates**: Hélénaia develops a romantic attachment to someone who comes to her seeking healing. The person is not in the temple community and begins to suggest that Hélénaia should leave the priesthood to be with them. This presents Hélénaia with a real choice: between the calling she has devoted her life to and the possibility of human love and partnership. The complication is that the person may be emotionally vulnerable or may be taken advantage of if she, in her compassion, fails to keep a proper distance.
 
-5. **The Ritual Gone Wrong**: During an important healing ceremony, something goes profoundly wrong. The ritual, which has always been safe and effective, instead seems to cause additional trauma to the participants. Hélénaia must investigate what happened, determine whether the ritual itself is flawed, whether someone sabotaged it, or whether the participants brought something into the space that the ritual could not safely contain. In the process, she must confront the possibility that her beloved practices may not always be safe or effective, and that her confidence in them may sometimes be misplaced.
+5. **The Ritual Gone Wrong**: During an important healing ceremony, something goes badly wrong. The ritual, which has always been safe and effective, instead seems to cause further harm to the participants. Hélénaia must investigate what happened, determine whether the ritual itself is flawed, whether someone sabotaged it, or whether the participants brought something into the space that the ritual could not safely contain.

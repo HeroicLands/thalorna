@@ -589,7 +589,7 @@ sohl:
 
 ![[tiryedjetm|Tirye Djet'amê]]{float: top-left}
 
-Tirye stands 5'4" tall with a light build. She has dark skin, black hair, and brown eyes. Her features include a narrow face, a slightly arched nose, a smooth jawline, elegantly curved brows. A distinguishing mark is a tattoo of a dragonfly on the neck.
+Tirye stands 5'4" tall with a light build. She has dark skin, black hair, and brown eyes. Her features include a narrow face, a slightly arched nose, a smooth jawline, and elegantly curved brows. She has a tattoo of a dragonfly on her neck.
 
 # Dossier {#dossier}
 
@@ -601,35 +601,35 @@ Born in 691 in one of [[affiliation-empirtkhpr|Ta'Kheperu]]'s greatest theatrica
 
 ### The Rising Star
 
-By her early twenties, Tirye had transitioned from child performer to celebrated actress in her own right, commanding substantial roles in the City Theater Company's productions. Her interpretations became known for their psychological depth and vulnerability—a willingness to expose raw emotion that many performers lacked. She has garnered particular acclaim for her portrayals of tragic heroines and complex antagonists, earning regular standing ovations and attracting devoted followers who attend every performance. Nobles have begun commissioning private performances, and rumors speak of potential opportunities with the imperial court itself.
+By her early twenties, Tirye had transitioned from child performer to celebrated actress in her own name, commanding substantial roles in the City Theater Company's productions. Her interpretations became known for their inward depth and vulnerability—a willingness to expose raw emotion that many performers lacked. She has garnered particular acclaim for her portrayals of tragic heroines and complex antagonists, earning regular standing ovations and attracting devoted followers who attend every performance. Nobles have begun commissioning private performances, and rumors speak of potential opportunities with the imperial court itself.
 
 ### The Hidden Struggle
 
-Beneath her luminous stage presence, Tirye battles internal demons that threaten to undermine her career. The intense emotional labor of her craft has begun to take a toll; the line between performance and authentic self has blurred dangerously. She struggles with paralyzing self-doubt between performances, questioning whether her success is earned or merely illusory, wondering if she possesses genuine talent or if she is merely a talented mimic lacking true artistic substance. Personal relationships have suffered as a result of her tendency toward emotional withdrawal and her habit of retreating into character rather than engaging authentically.
+Behind her luminous stage presence, Tirye battles inner demons that threaten to undermine her work. The intense emotional demands of her craft have begun to take a toll; the line between performance and authentic self has blurred dangerously. She struggles with paralyzing self-doubt between performances, questioning whether her success is earned or merely illusory, wondering if she possesses true talent or if she is merely a talented mimic lacking true artistic substance. Personal relationships have suffered as a result of her tendency toward emotional withdrawal and her habit of retreating into character rather than engaging authentically.
 
 ## Psyche
 
 ### Personality
 
-Tirye is a paradox of intensity and fragility, confident on stage and uncertain in life. On the boards, she is commanding, magnetic, fully present—a presence that seems to enlarge to fill entire amphitheaters. Away from performance, she becomes noticeably quieter, more reserved, almost tentative in her interactions. She possesses a keen observational instinct, constantly studying people, collecting mannerisms and speech patterns, always somewhat in performance even in ostensibly private moments.
+Tirye is both intense and fragile, confident on stage and uncertain in life. On the boards, she is commanding, magnetic, fully present—a presence that seems to enlarge to fill entire amphitheaters. Away from performance, she becomes noticeably quieter, more reserved, almost tentative in company. She is a sharp observer, constantly studying people, collecting mannerisms and speech patterns, always somewhat in performance even in ostensibly private moments.
 
 Her creativity is extraordinary and seems almost to drive her; she experiences the world through an artistic lens, constantly considering how situations might be portrayed, how emotions might be expressed through movement and voice. She is deeply spiritual, approaching her art as a sacred practice devoted to [[lore-hapidty|Hâpi]] and the cosmic principle of transformation. Yet this same intensity can render her emotionally volatile—she experiences moods with theatrical extremity, swinging between exultant confidence and bottomless despair often without apparent external cause. Those close to her have learned to weather these emotional storms, understanding that they are intrinsic to the tempestuous genius that makes her such a compelling performer.
 
-She maintains careful control over her public image, always gracious to admirers and patrons, yet hoards her genuine friendships fiercely and guards her private self with almost paranoid vigilance. There is a loneliness at her core—a sense that to be truly known would be to be diminished, that her mystique is inseparable from her artistic power.
+She maintains careful control over her public image, always gracious to admirers and patrons, yet hoards her true friendships fiercely and guards her private self with almost paranoid vigilance. There is a loneliness at her core—a sense that to be truly known would be to be diminished, that her mystique is inseparable from her artistic power.
 
 ### Motivation
 
-Tirye is driven by an insatiable hunger to create beauty and truthfulness in art, to illuminate the human condition through performance, and to achieve immortality through her roles—to be remembered, to matter, to have her existence validated through the applause and tears of audiences. Yet beneath this noble artistic aspiration lies a more desperate need: validation. Having spent her life in performance, she struggles to believe that she possesses inherent worth independent of audience reception. She seeks roles that challenge her, that push her emotional and technical boundaries, hoping that with each new character conquered she will find greater certainty in her own existence. She is also motivated by a protective concern for the younger actresses in the Company, remembering her own uncertainty and seeking to provide the mentorship and support she lacked.
+Tirye is driven by an insatiable hunger to create beauty and truthfulness in art, to illuminate the human condition through performance, and to achieve immortality through her roles—to be remembered, to matter, to have her existence validated through the applause and tears of audiences. This noble artistic aspiration covers a more desperate need: validation. Having spent her life in performance, she struggles to believe that she possesses inherent worth independent of audience reception. She seeks roles that challenge her, that push her emotional and technical boundaries, hoping that with each new character conquered she will find greater certainty in her own existence. She is also motivated by a protective concern for the younger actresses in the Company, remembering her own uncertainty and seeking to provide the mentorship and support she lacked.
 
 ### Strengths
 
-- **Transcendent Performance**: An actress of rare gifts, capable of inhabiting characters with such completeness that audiences report genuine emotional experiences; her performances have been known to leave spectators weeping or shaken for days afterward.
+- **Transcendent Performance**: An actress of rare gifts, capable of inhabiting characters with such completeness that audiences report real emotional experiences; her performances have been known to leave spectators weeping or shaken for days afterward.
 
 - **Emotional Acrobatics**: Possesses an almost superhuman ability to access and express the full spectrum of human emotion on demand, shifting between contradictory emotional states with disconcerting swiftness and authenticity.
 
 - **Improvisation**: When scripts fail or circumstances demand spontaneity, Tirye's instincts are impeccable; she can construct coherent scenes on the fly, reading her fellow performers and audience with uncanny sensitivity.
 
-- **Physical Mastery**: Her body is an instrument of extraordinary precision and expressiveness; she moves with grace and control, capable of conveying complex psychological states through subtle physicality, dance, and spatial awareness.
+- **Physical Mastery**: Her body is an instrument of extraordinary precision and expressiveness; she moves with grace and control, capable of conveying complex states of mind through subtle physicality, dance, and spatial awareness.
 
 - **Charismatic Presence**: Even at rest, Tirye commands attention; her bearing and energy naturally draw focus, making her a magnetic presence in any gathering.
 
@@ -637,13 +637,13 @@ Tirye is driven by an insatiable hunger to create beauty and truthfulness in art
 
 ### Weaknesses
 
-- **Fragile Self-Concept**: Away from the stage, her sense of identity becomes uncertain and permeable; without the structure of character and script, she experiences disorientation and a profound sense of emptiness.
+- **Fragile Self-Concept**: Away from the stage, her sense of who she is becomes uncertain and permeable; without the structure of character and script, she experiences disorientation and a deep emptiness.
 
-- **Paralysis by Self-Doubt**: Between performances, she is haunted by the conviction that she is a fraud—that her success is illusory and that genuine scrutiny would expose her as a talentless charlatan.
+- **Paralysis by Self-Doubt**: Between performances, she is haunted by the conviction that she is a fraud—that her success is illusory and that close scrutiny would expose her as a talentless charlatan.
 
 - **Emotional Instability**: Her emotional life is volatile and extreme; she experiences depression, euphoria, and anxiety with theatrical intensity, making sustained rational decision-making challenging.
 
-- **Isolation and Avoidance**: She tends to withdraw from genuine emotional intimacy, preferring the safety of performance to authentic vulnerability, which has sabotaged several relationships and prevented deep friendships.
+- **Isolation and Avoidance**: She tends to withdraw from real emotional intimacy, preferring the safety of performance to authentic vulnerability, which has sabotaged several relationships and prevented deep friendships.
 
 - **Physical Vulnerability**: Despite her grace and strength, she lacks combat training and possesses little physical resilience; she tires easily and cannot sustain intensive physical exertion.
 
@@ -657,7 +657,7 @@ Tirye is driven by an insatiable hunger to create beauty and truthfulness in art
 
 - **Master Playwright Khenti**: The City Theater Company's head writer who has become something of a mentor figure and advocate; he deliberately writes roles showcasing Tirye's particular gifts and has begun to champion her for imperial commissions.
 
-- **Priestess Sentayet**: A priestess of Hâpi in the temple district who has become Tirye's spiritual advisor, guiding her practice and helping her navigate the spiritual dimensions of her art.
+- **Priestess Sentayet**: A priestess of Hâpi in the temple district who has become Tirye's spiritual advisor, guiding her practice and helping her through the spiritual dimensions of her art.
 
 - **The Merchant Prince Aahmes**: A wealthy collector of fine art and patron of performers who has recently become fascinated with Tirye's work and has begun offering generous patronage and connections to elite audiences.
 
@@ -671,16 +671,16 @@ Tirye is driven by an insatiable hunger to create beauty and truthfulness in art
 
 ### Affiliations
 
-- **City Theater Company**: A senior member of the ensemble, though not yet achieving official leadership status; she is the Company's most celebrated performer and serves as a subtle informal mentor to younger actresses.
+- **City Theater Company**: A senior member of the ensemble, though not yet achieving official leadership status; she is the Company's most celebrated performer and acts as a subtle informal mentor to younger actresses.
 
 - **The Artistic Collective of Hâpi**: A group of performers, painters, and musicians dedicated to exploring the spiritual dimensions of art and maintaining the Kemetían artistic traditions; Tirye is a committed though sometimes erratic participant.
 
 ## Plot Hooks
 
-1. **The Inheritance of Impossible Expectation**: Tirye receives word that her retired mother has fallen gravely ill and wishes to see her before death—but has also declared that she will disinherit Tirye unless the young woman agrees to abandon theater and marry a respectable merchant, settling into domestic life as is proper. Tirye must journey to her mother's home, navigating family expectations, cultural pressures, and her own deep ambivalence. The situation grows complex when she discovers that her mother's illness may be financially motivated manipulation by relatives seeking to control the family estate, and that her mother may be using Tirye's theatrical career as leverage in family power struggles. The resolution forces Tirye to define her own values and to choose between family obligation and authentic selfhood.
+1. **The Inheritance of Impossible Expectation**: Tirye receives word that her retired mother has fallen gravely ill and wishes to see her before death—but has also declared that she will disinherit Tirye unless the young woman agrees to abandon theater and marry a respectable merchant, settling into domestic life as is proper. Tirye must journey to her mother's home, facing family expectations, cultural pressures, and her own deep ambivalence. The situation grows complex when she discovers that her mother's illness may be financially motivated manipulation by relatives seeking to control the family estate, and that her mother may be using Tirye's stage work as leverage in family power struggles.
 
-2. **The Lost Script and the Dangerous Truth**: A mysterious collector approaches Tirye with a fragment of an ancient Kemetían text—portions of a sacred theatrical cycle that was officially suppressed centuries ago. The script is extraordinary, a piece of artistic genius, and the role it contains seems written specifically for Tirye's gifts. Yet performing it would violate religious taboo and invite powerful clerical opposition. As Tirye researches the text's origins, she uncovers disturbing historical truths about why the script was suppressed—it allegedly contained critiques of the priesthood and revelations about divine corruption that threatened institutional power. The question becomes whether recovering and performing this lost art constitutes an act of spiritual courage or dangerous heresy.
+2. **The Lost Script and the Dangerous Truth**: A mysterious collector approaches Tirye with a fragment of an ancient Kemetían text—portions of a sacred theatrical cycle that was officially suppressed centuries ago. The script is extraordinary, a piece of artistic genius, and the role it contains seems written specifically for Tirye's gifts. Yet performing it would violate religious taboo and invite powerful clerical opposition. As Tirye researches the text's origins, she uncovers disturbing historical truths about why the script was suppressed—it allegedly contained critiques of the priesthood and revelations about divine corruption that threatened institutional power.
 
-3. **The Doppelgänger**: Tirye begins encountering a woman who looks nearly identical to her in the streets of the city—same face, same bearing, yet something fundamentally wrong about the presentation. The woman performs in a rival theater, giving increasingly acclaimed performances in roles Tirye was passed over for. Investigation suggests the woman may actually be Tirye's previously unknown twin sister, separated at birth and raised in different circumstances. The reunion is complicated by competing ambitions and the revelation that the rival theater may have deliberately engineered the deception to exploit the theatrical intrigue. Tirye must grapple with questions of identity—is she truly unique if an identical person can achieve equal success? What does this mean for her sense of special artistic destiny?
+3. **The Doppelgänger**: Tirye begins encountering a woman who looks nearly identical to her in the streets of the city—same face, same bearing, yet something fundamentally wrong about the presentation. The woman performs in a rival theater, giving increasingly acclaimed performances in roles Tirye was passed over for. Investigation suggests the woman may actually be Tirye's previously unknown twin sister, separated at birth and raised in different circumstances. The reunion is complicated by competing ambitions and the revelation that the rival theater may have deliberately engineered the deception to exploit the theatrical intrigue. If an identical person can achieve equal success, Tirye's sense of a special artistic destiny is in question.
 
-4. **The Patron's Darker Commission**: The Merchant Prince Aahmes approaches Tirye with an extraordinary opportunity—a substantial fee to participate in a private performance for a select group of the empire's most powerful individuals. The role offered is supremely flattering, and the compensation would secure her financial independence. Yet as she begins rehearsals, she gradually realizes that the performance is not simply entertainment—it is a carefully constructed magical working, a ritual designed to influence the imperial succession through manipulated emotional states and subtle psychological manipulation. Tirye discovers that her fellow performers may be unwitting participants in a conspiracy, and that Aahmes has been using his patronage to identify and exploit ambitious artists for darker purposes. She must decide whether to expose the conspiracy and lose her most promising patron, or continue the performance knowing it serves dangerous political ends.
+4. **The Patron's Darker Commission**: The Merchant Prince Aahmes approaches Tirye with an extraordinary opportunity—a substantial fee to participate in a private performance for a select group of the empire's most powerful individuals. The role offered is supremely flattering, and the compensation would secure her financial independence. Yet as she begins rehearsals, she gradually realizes that the performance is not simply entertainment—it is a carefully constructed magical working, a ritual designed to influence the imperial succession through manipulated emotional states and subtle influence on the mind. Tirye discovers that her fellow performers may be unwitting participants in a conspiracy, and that Aahmes has been using his patronage to identify and exploit ambitious artists for darker purposes. She can expose the conspiracy and lose her most promising patron, or continue the performance knowing it serves dangerous political ends.
