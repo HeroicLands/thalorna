@@ -552,41 +552,39 @@ sohl:
 
 # Appearance {#appearance}
 
-Rimtûra Damrûnî is a 32-year-old woman who stands 5'8" tall and is slender. She has a long face with broad cheekbones, a high forehead, and a strong jaw that leads to a pointed chin. Her wide-set dark brown eyes sit beneath arched brows, lending her an open gaze. A strong nose and narrow lips complete her features. She has olive-tanned skin with a sun-tanned complexion. Her black hair is tucked beneath a kerchief.
+Rimtûra Damrûnî is a 32-year-old woman who stands 5'8" tall and is slender. She has a long face with broad cheekbones, a high forehead, and a strong jaw that leads to a pointed chin. Her wide-set dark brown eyes sit beneath arched brows and give her an open gaze. She has a strong nose and narrow lips. She has olive-tanned skin with a sun-tanned complexion. Her black hair is tucked beneath a kerchief.
 
 # Dossier {#dossier}
 
-Born in the [[place-haradregin|Harad]] region to a noble family of Haradian heritage, Rimtûra Damrûnî came into the world of the litigant through a combination of circumstance and aptitude.
+Born in the [[place-haradregin|Harad]] region to a noble family of Haradian heritage, Rimtûra Damrûnî is a litigant.
 
-Rimtûra is a skilled litigator specializing in family law and inheritance disputes. As a respected member of the Litigant's Guild, she is known for her compassion and dedication to her clients. Rimtûra has a keen understanding of emotional and legal complexities, allowing her to navigate difficult cases with empathy. She is passionate about ensuring that justice is served and works tirelessly for her clients.
+Rimtûra is a skilled litigant specializing in family law and inheritance disputes. As a respected member of the Litigant's Guild, she is known for her compassion and dedication to her clients. She understands the feelings in a case as well as the law, and handles difficult cases with care. She cares that justice is done and works tirelessly for her clients.
 
-Now at 32 years of age, Rimtûra Damrûnî has established herself as a known figure among the litigants of Harad. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 32 years of age, she is a known figure among the litigants of Harad.
 
 ## Psyche
 
 ### Personality
 
-Can be overly empathetic, struggles with taking on too much emotional weight from her cases.
+She can feel too much for her clients, and takes on too much of the weight of her cases.
 
 ### Motivation
 
-Rimtûra is driven by the desire to master her craft and secure a stable future. The uncertainties of life in litigant work keep her vigilant and adaptable.
+Rimtûra wants justice done for the families who come to her.
 
 ### Strengths
 
-Strong interpersonal skills, adept at mediation, compassionate.
+She deals well with people, is adept at mediation, and is compassionate.
 
 ## Social
 
-Rimtûra is affiliated with Litigant's Guild.
-
-As a Haradian litigant, Rimtûra occupies a recognized social niche within Harad society.
+Rimtûra belongs to the Litigant's Guild.
 
 ## Companions
 
 ### Patrons
 
-Rimtûra's primary patron is Families seeking legal advice and representation.. This relationship provides both opportunity and obligation.
+Rimtûra's patrons are the families seeking legal advice and representation.
 
 ### Enemies
 
@@ -594,12 +592,12 @@ Few; respected in her field but occasionally faces skepticism from more traditio
 
 ## Plot Hooks
 
-1. **The Litigant's Dilemma** — Rimtûra faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Harad.
+1. **The Litigant's Dilemma** — An inheritance case turns on a will Rimtûra knows to be forged, and she has to choose between her client and the truth.
 
-2. **Old Grudges** — Few; respected in her field but occasionally faces skepticism from more traditional litigators. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — One of the traditional litigants who doubt her takes a case against her personally.
 
-3. **Echoes of the Past** — Something from Rimtûra's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** — A family dispute Rimtûra settled years ago resurfaces with a party she had forgotten.
 
-4. **Shifting Winds** — Political changes in Harad threaten to upend the social order that Rimtûra depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Harad threatens the courts Rimtûra depends upon, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Rimtûra the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — A noble house offers Rimtûra its business beyond anything she has hoped for, and the price is not named up front.

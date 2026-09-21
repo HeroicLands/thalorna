@@ -602,7 +602,7 @@ sohl:
 
 ![[nushirnrsf|Nushir Narsâfî]]{float: top-left}
 
-Nushir stands 5'6" tall with a medium build. She has light olive skin, gray hair, and brown eyes. Her features include a diamond-shaped face, a strong nose, an angular jawline, a firm-set mouth, arched brows, prominent cheeks.
+Nushir stands 5'6" tall with a medium build. She has light olive skin, gray hair, and brown eyes. Her features include a diamond-shaped face, a strong nose, an angular jawline, a firm-set mouth, arched brows, and prominent cheeks.
 
 # Dossier {#dossier}
 
@@ -610,13 +610,13 @@ Nushir stands 5'6" tall with a medium build. She has light olive skin, gray hair
 
 ### Apprenticeship and Early Mastery
 
-Nushir Narsâfî was born to a family of modest means in the [[place-khzryndsrtrgn|Khazryn Desert]]'s scattered settlements, where reliable light is both precious commodity and constant concern. Her parents operated a small chandlery, and from her earliest years she was immersed in the work—tending to rush lights, learning to render tallow from animal fats, understanding the properties of various waxes. While her brothers inherited other aspects of the family business or pursued other trades, Nushir found in chandlery both practical necessity and genuine passion. The work was meditative yet technically demanding, requiring precise judgment about temperatures, precise measurement of ingredients, careful attention to timing.
+Nushir Narsâfî was born to a family of modest means in the [[place-khzryndsrtrgn|Khazryn Desert]]'s scattered settlements, where reliable light is both precious commodity and constant concern. Her parents operated a small chandlery, and from her earliest years she was immersed in the work—tending to rush lights, learning to render tallow from animal fats, understanding the properties of various waxes. While her brothers inherited other aspects of the family business or pursued other trades, Nushir found in chandlery both practical necessity and passion. The work was meditative yet technically demanding, requiring precise judgment about temperatures, precise measurement of ingredients, careful attention to timing.
 
-Under her mother's exacting tutelage, Nushir became proficient in the craft by her twentieth year. Her candles burned cleaner and longer than those of competitors, and her soap possessed a quality that left skin soft rather than raw. She earned guild certification at twenty-three, marking her as a master craftsperson worthy of independent commission.
+Under her mother's exacting tutelage, Nushir became skilled in the craft by her twentieth year. Her candles burned cleaner and longer than those of competitors, and her soap possessed a quality that left skin soft rather than raw. She earned guild certification at twenty-three, marking her as a master craftsperson worthy of independent commission.
 
 ### Years of Dominance
 
-For nearly two decades, Nushir operated the family business with steady success. She innovated slowly but persistently—developing new scent combinations by infusing herbs and oils into wax, experimenting with different wick configurations to achieve more consistent flames, perfecting the proportions of lye and animal fat that would produce soap of superior quality. Her reputation grew steadily. She could command premium prices for her goods, and merchants from across the region sought her products. The Narsâfî chandlery became synonymous with quality in the Khazryn Desert's scattered settlements.
+For nearly two decades, Nushir operated the family business with steady success. She made changes slowly but persistently—developing new scent combinations by infusing herbs and oils into wax, experimenting with different wick configurations to achieve more consistent flames, perfecting the proportions of lye and animal fat that would produce soap of superior quality. Her reputation grew steadily. She could command premium prices for her goods, and merchants from across the region sought her products. The Narsâfî chandlery became synonymous with quality in the Khazryn Desert's scattered settlements.
 
 She married late, at thirty-two, to **Jahren Narsâfî**, a man of modest merchant connections who was content to allow his wife's work to define their family's position and income. Though they had no children of their own, Nushir took on apprentices, though her exacting standards meant few remained long in her service.
 
@@ -624,7 +624,7 @@ She married late, at thirty-two, to **Jahren Narsâfî**, a man of modest mercha
 
 Now forty-seven, Nushir finds herself increasingly challenged by economic forces she cannot control. Three years ago, a younger woman named **Salira** established herself as a competing chandler in the region. Though Salira's work lacks the sophistication and quality of Nushir's products, her prices are substantially lower. More troublingly, Salira seems willing to adapt to new market demands—experimenting with color additives from foreign traders, offering candles shaped and scented according to the latest fashions from distant cities, accepting lower margins in exchange for higher volume sales.
 
-Nushir initially dismissed these innovations as cheap tricks that would fade once customers recognized the inferior quality. Instead, she watched in growing alarm as many of her regular clients defected, seduced by lower prices and fashionable novelties. Her income, stable for nearly two decades, has begun to decline noticeably. The decision she now faces—whether to adapt her methods and risk diluting her standards, or to hold firm to her principles while watching her business gradually erode—weighs on her increasingly.
+Nushir initially dismissed these novelties as cheap tricks that would fade once customers recognized the inferior quality. Instead, she watched in growing alarm as many of her regular clients defected, seduced by lower prices and fashionable novelties. Her income, stable for nearly two decades, has begun to decline noticeably. The decision she now faces—whether to adapt her methods and risk diluting her standards, or to hold firm to her principles while watching her business gradually erode—weighs on her increasingly.
 
 ## Psyche
 
@@ -632,13 +632,13 @@ Nushir initially dismissed these innovations as cheap tricks that would fade onc
 
 Nushir is, above all, practical. She does not indulge in sentimentality or elaborate explanation. When asked why her candles cost more than others, she will provide a detailed technical comparison of wick burn rates and wax purity rather than an emotional appeal to tradition. This directness, while refreshing to some, comes across as coldness to others. She has little patience for imprecision, for excuses, or for compromise on matters of quality.
 
-Yet beneath this austere exterior lies a person of quiet integrity. She honors her commitments, pays her debts scrupulously, and maintains a strict code of professional conduct. She is a woman of few close relationships but deep loyalty to those few she calls friends. Her marriage to Jahren, while lacking obvious displays of affection, is stable and genuinely companionable—they have built a life together based on mutual respect and shared purpose.
+Under the austere manner she is a person of quiet integrity. She honors her commitments, pays her debts scrupulously, and maintains a strict code of conduct in trade. She is a woman of few close relationships but deep loyalty to those few she calls friends. Her marriage to Jahren, while lacking obvious displays of affection, is stable and companionable—they have built a life together based on mutual respect and shared purpose.
 
-She is also lonely in ways she does not readily acknowledge. The absence of children, combined with her single-minded focus on her craft, has left her without the social connections and family ties that provide meaning and comfort to most people. Her work is her identity, and the gradual erosion of her business is therefore an erosion of her sense of self.
+She is also lonely in ways she does not readily acknowledge. The absence of children, combined with her single-minded focus on her craft, has left her without the social connections and family ties that provide meaning and comfort to most people. Her work is who she is, and the gradual erosion of her business is therefore an erosion of herself.
 
 ### Motivation
 
-Nushir's primary motivation is the maintenance of her standards and the preservation of her craft as she understands it. Quality is not merely a professional standard but a moral principle—she believes that producing inferior goods in exchange for increased profit would be a form of dishonesty that she cannot countenance. Simultaneously, she faces the painful realization that the market does not necessarily reward this integrity, and that her refusal to compromise may result in economic hardship.
+Nushir's primary motivation is the maintenance of her standards and the preservation of her craft as she understands it. Quality is a moral principle to her, not only a standard of trade—she believes that producing inferior goods in exchange for increased profit would be a form of dishonesty that she cannot countenance. Simultaneously, she faces the painful realization that the market does not necessarily reward this integrity, and that her refusal to compromise may result in economic hardship.
 
 Secondarily, she is motivated by a fear of irrelevance—the fear that she is becoming an anachronism, that her methods and values belong to a previous generation and have no place in a world that is changing in ways she does not fully understand and does not particularly like.
 
@@ -648,7 +648,7 @@ Secondarily, she is motivated by a fear of irrelevance—the fear that she is be
 
 - **Precise Technical Knowledge**: Her decades of work have given her intuitive mastery of the variables affecting her craft. She can judge temperature by sight alone, diagnose problems in products before they become apparent, and execute techniques with exacting precision.
 
-- **Efficient Production**: Despite her small operation, Nushir produces a volume of goods that would require significantly more staff elsewhere, managing through meticulous organization and elimination of waste.
+- **Efficient Production**: Despite her small operation, Nushir produces a volume of goods that would require significantly more staff elsewhere, managing through careful organization and elimination of waste.
 
 - **Established Reputation**: Her name is synonymous with quality throughout the region, and those who truly value excellence continue to seek her products regardless of price.
 
@@ -656,9 +656,9 @@ Secondarily, she is motivated by a fear of irrelevance—the fear that she is be
 
 ### Weaknesses
 
-- **Inability to Adapt**: Nushir's strength—her unwillingness to compromise on quality—becomes a weakness when the market does not reward that stance. She refuses to experiment with cost-cutting measures or novel innovations, viewing them as shortcuts that undermine the integrity of her work.
+- **Inability to Adapt**: Nushir's strength—her unwillingness to compromise on quality—becomes a weakness when the market does not reward that stance. She refuses to experiment with cost-cutting measures or novelties, viewing them as shortcuts that undermine the integrity of her work.
 
-- **Limited Business Acumen**: While excellent at the technical aspects of chandlery, Nushir has limited understanding of marketing, customer psychology, or the broader economic forces affecting her business. She views such concerns as beneath her attention.
+- **Limited Business Acumen**: While excellent at the technical aspects of chandlery, Nushir has limited understanding of how goods are sold, what draws customers, or the broader economic forces affecting her business. She views such concerns as beneath her attention.
 
 - **Price Inflexibility**: Nushir bases her prices on her costs of materials plus a reasonable profit margin. She is often astonished to learn that other chandlers charge less despite lower quality, and she cannot bring herself to raise prices artificially or to compete on price by cutting quality.
 
@@ -670,7 +670,7 @@ Secondarily, she is motivated by a fear of irrelevance—the fear that she is be
 
 ### Patrons
 
-- **The Temple of Khóršádrä, Keeper of Flames Morhan**: The desert temple dedicated to the deity of knowledge maintains an exclusive contract with Nushir for high-quality candles used in religious observance. **Morhan** has quietly assured Nushir that this contract will remain regardless of economic circumstances, reflecting the temple's commitment to supporting craftspeople of genuine excellence.
+- **The Temple of Khóršádrä, Keeper of Flames Morhan**: The desert temple dedicated to the deity of knowledge maintains an exclusive contract with Nushir for high-quality candles used in religious observance. **Morhan** has quietly assured Nushir that this contract will remain regardless of economic circumstances, reflecting the temple's commitment to supporting craftspeople of real excellence.
 
 - **The Desert Caravans Consortium**: A confederation of merchants who travel the dangerous desert routes contracts with Nushir for high-quality candles for use in their camps. The reliability and superior burn characteristics of her products are valued for the safety they provide.
 
@@ -678,7 +678,7 @@ Secondarily, she is motivated by a fear of irrelevance—the fear that she is be
 
 ### Enemies
 
-- **Salira the Innovator**: The younger chandler who has established herself as Nushir's rival, Salira represents everything Nushir despises—shortcuts, low standards, chasing fashions rather than perfecting craft. Though Salira has shown Nushir no deliberate disrespect, Nushir views her as a threat to everything she has spent her life building. Salira, for her part, is genuinely unaware of how deeply Nushir resents her, viewing the older chandler as merely a stuck-in-the-mud competitor who refuses to adapt to changing times.
+- **Salira the Innovator**: The younger chandler who has established herself as Nushir's rival, Salira represents everything Nushir despises—shortcuts, low standards, chasing fashions rather than perfecting craft. Though Salira has shown Nushir no deliberate disrespect, Nushir views her as a threat to everything she has spent her life building. Salira, for her part, is unaware of how deeply Nushir resents her, viewing the older chandler as merely a stuck-in-the-mud competitor who refuses to adapt to changing times.
 
 ### Affiliations
 
@@ -686,12 +686,12 @@ Secondarily, she is motivated by a fear of irrelevance—the fear that she is be
 
 ## Plot Hooks
 
-1. **The Foreign Innovation**: A traveling merchant brings samples of candles and soaps from distant lands, made using techniques and materials wholly unfamiliar to Nushir. While some are clearly inferior, others exhibit qualities Nushir must acknowledge are equal or superior to her own work—achieved through methods that represent a complete departure from everything she believes about her craft. The merchant offers to supply her with these materials and teach her the techniques, at a cost that would require her to significantly lower her prices. Nushir must confront the possibility that her way is not the only way, and perhaps not even the best way.
+1. **The Foreign Innovation**: A traveling merchant brings samples of candles and soaps from distant lands, made using techniques and materials wholly unfamiliar to Nushir. While some are clearly inferior, others exhibit qualities Nushir must acknowledge are equal or superior to her own work—achieved through methods that represent a complete departure from everything she believes about her craft. The merchant offers to supply her with these materials and teach her the techniques, at a cost that would require her to significantly lower her prices.
 
-2. **The Apprentice with Promise**: A young person of genuine talent arrives seeking apprenticeship, showing raw ability that suggests they could eventually rival Nushir herself. However, their approach to learning is haphazard and impatient—they want to understand the philosophy before mastering the technique, want to experiment before understanding basics. Nushir must decide whether to invest the time and effort in training this potential master, risking frustration with their methods, or to turn them away and further isolate herself.
+2. **The Apprentice with Promise**: A young person of real talent arrives seeking apprenticeship, showing raw ability that suggests they could eventually rival Nushir herself. However, their approach to learning is haphazard and impatient—they want to understand the philosophy before mastering the technique, want to experiment before understanding basics. She can invest the time and effort in training this potential master, risking frustration with their methods, or turn them away and further isolate herself.
 
-3. **The Malicious Competitor**: Nushir discovers that several of her customers have become ill after using products from a chandler undercutting her prices. Investigation suggests deliberate adulteration of products with toxic substances, possibly to drive competitors out of business through association with poisoning. Nushir must decide whether to simply distance herself from the scandal or to take action to expose the truth, potentially becoming embroiled in legal and political complications.
+3. **The Malicious Competitor**: Nushir discovers that several of her customers have become ill after using products from a chandler undercutting her prices. Investigation suggests deliberate adulteration of products with toxic substances, possibly to drive competitors out of business through association with poisoning. Nushir can simply distance herself from the scandal or take action to expose the truth, potentially becoming embroiled in legal and political complications.
 
 4. **The Temple's Secret Request**: The Keeper of Flames approaches Nushir with an unusual request—to produce specialized candles for a sacred ritual, using specific ingredients and techniques that the keeper describes only vaguely. The project is lucrative and prestigious, but the keeper's secrecy about the purpose troubles Nushir. As she works on the candles, she begins to suspect they may have applications beyond normal religious use, potentially involving magic or harm.
 
-5. **The Desperate Inheritance**: Jahren falls seriously ill, and during his recovery, Nushir begins contemplating mortality and legacy. She realizes she has no heir, no one to carry forward the family business, and no savings adequate to sustain her if she becomes unable to work. A distant relative she has never met, a younger cousin with business ambitions, approaches her about taking over the business and modernizing it. Nushir must grapple with whether letting go means surrender or wisdom, and whether preserving her methods matters more than ensuring the family name survives.
+5. **The Desperate Inheritance**: Jahren falls seriously ill, and during his recovery, Nushir begins contemplating mortality and legacy. She realizes she has no heir, no one to carry forward the family business, and no savings adequate to sustain her if she becomes unable to work. A distant relative she has never met, a younger cousin with business ambitions, approaches her about taking over the business and modernizing it. She has to weigh whether letting go is surrender or wisdom, and whether her methods matter more than the survival of the family name.

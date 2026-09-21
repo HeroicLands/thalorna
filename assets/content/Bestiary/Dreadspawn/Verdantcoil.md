@@ -270,15 +270,15 @@ sohl:
 
 ![[vrdntcl|Verdantcoil]]{float: top-left}
 
-The branch ahead shifts though there is no wind. You might have missed it—might have thought it nothing but an old bough settling—except you see the scales now, brilliant emerald catching light that should be blocked by the canopy above. The coil tightens around the branch, and the creature raises its head with terrible, slow grace. Eyes like polished jade fixate on you with predatory calculation, and a forked tongue tastes the air, sensing your heat, your fear, your vulnerability. The creature's body is massive—easily thirty feet in length, all coiled muscle and power. Emerald scales shimmer as the creature shifts its position, seeking the optimal angle for its strike. You hear nothing as it moves—no scrape, no rustle, no warning beyond the sight of that beautiful, terrible head turning to face you with absolute intent.
+The branch ahead shifts though there is no wind. You might have missed it—might have thought it nothing but an old bough settling—except you see the scales now, brilliant emerald catching light that should be blocked by the canopy above. The coil tightens around the branch, and the creature raises its head with terrible, slow grace. Eyes like polished jade fixate on you with predatory calculation, and a forked tongue tastes the air, sensing your heat, your fear, your vulnerability. The creature's body is massive—easily thirty feet in length, all coiled muscle and power. Emerald scales shimmer as the creature shifts its position, seeking the best angle for its strike. You hear nothing as it moves—no scrape, no rustle, no warning beyond the sight of that beautiful, terrible head turning to face you with absolute intent.
 
 # Dossier {#dossier}
 
-Verdantcoils are apex predators of ancient forests, massive snakes of corrupted or magical origin that have evolved supernatural strength, intelligence, and patience. They are ambush hunters of supreme skill, creatures that can remain perfectly motionless for days waiting for the perfect moment to strike. A Verdantcoil seems less interested in actively hunting and more interested in positioning itself in locations where prey cannot possibly escape. These creatures are found primarily in deep, old-growth forests where the canopy is thick and the darkness is profound. A single Verdantcoil can effectively cut off travel through an entire stretch of forest as travelers learn to avoid the creature's territory and the high likelihood of death.
+Verdantcoils are apex predators of ancient forests, massive snakes of corrupted or magical origin that have evolved supernatural strength, intelligence, and patience. They are ambush hunters of supreme skill, creatures that can remain perfectly motionless for days waiting for the perfect moment to strike. A Verdantcoil does little active hunting; it prefers to place itself where prey cannot possibly escape. These creatures are found primarily in deep, old-growth forests where the canopy is thick and the darkness is deep. A single Verdantcoil can effectively cut off travel through an entire stretch of forest as travelers learn to avoid the creature's territory and the high likelihood of death.
 
 ## Presentation
 
-A Verdantcoil measures roughly 25 to 35 feet in length, with a muscular frame built for constriction and power. Its scales are brilliant emerald in color, often with darker striping or patterns that provide perfect camouflage in forest foliage. The scales are smooth and gloss-like, shedding water and seeming to absorb light rather than reflect it, which makes the creature disturbingly difficult to track even when looking directly at it. Its head is large and triangular, filled with teeth of surprising sharpness, and hollow fangs that drip with venom of a luminescent green color. Its eyes are large and intelligent, positioned toward the front of its head for binocular vision. Its tongue is forked and nearly as long as a hand-span. The creature is utterly silent as it moves, and even experienced trackers have difficulty determining whether a Verdantcoil is present until it strikes.
+A Verdantcoil measures roughly 25 to 35 feet in length, with a muscular frame built for constriction and power. Its scales are brilliant emerald in color, often with darker striping or patterns that provide perfect camouflage in forest foliage. The scales are smooth and gloss-like, shedding water and seeming to absorb light rather than reflect it, which makes the creature disturbingly difficult to track even when looking directly at it. Its head is large and triangular, filled with teeth of surprising sharpness, and hollow fangs that drip with venom of a luminescent green color. Its eyes are large and intelligent, positioned toward the front of its head for binocular vision. Its tongue is forked and nearly as long as a hand-span. The creature is silent as it moves, and even experienced trackers have difficulty determining whether a Verdantcoil is present until it strikes.
 
 ## Key Behaviors
 
@@ -296,7 +296,7 @@ The Verdantcoil hurls itself at a target from concealment, attempting to wrap mu
 
 ### Venomous Bite
 
-Once prey is secured or cornered, the creature delivers a bite injecting potent neurotoxins that cause progressive paralysis and excruciating pain.
+Once prey is secured or cornered, the creature delivers a bite injecting potent neurotoxins that cause creeping paralysis and excruciating pain.
 
 ### Suffocating Squeeze
 
@@ -306,11 +306,11 @@ By maintaining constriction over time, the Verdantcoil slowly suffocates victims
 
 ### Forest Supremacy
 
-The Verdantcoil moves through forest terrain with supernatural grace, traversing branches, vines, and dense undergrowth with perfect silent efficiency. In heavy forest, the creature is nearly invisible and can move at full speed while remaining undetected.
+The Verdantcoil moves through forest terrain with supernatural grace, traversing branches, vines, and dense undergrowth in perfect silence. In heavy forest, the creature is nearly invisible and can move at full speed while remaining undetected.
 
 ### Ambush Mastery
 
-The Verdantcoil can remain perfectly motionless for extraordinary lengths of time, blending completely with its surroundings. Spotting one requires exceptional perception or magical sight.
+The Verdantcoil can remain perfectly motionless for extraordinary lengths of time, blending completely with its surroundings. Spotting one requires the keenest eyes or magical sight.
 
 ### Constriction Strength
 
@@ -322,7 +322,7 @@ The Verdantcoil senses heat with perfect accuracy, allowing it to track prey in 
 
 ## Additional Information
 
-Cold is the Verdantcoil's primary weakness—extreme cold slows its metabolism dramatically, reducing its speed and strength significantly. Fire is equally effective, as the creature abhors heat and will retreat from sustained flames. Repeated exposure to either extreme temperature can eventually drive a Verdantcoil from its territory. In areas where the forest has been cleared or where the canopy is thin, the creature loses much of its advantage and becomes a comparatively normal predator, though still formidable. The creature's scales, if harvested carefully, can be fashioned into armor that retains the creature's natural camouflage properties and grants the wearer partial invisibility in forest settings. Its fangs make weapons of deadly efficiency. The venom can be extracted and preserved, though doing so requires exceptional care and protective gear. Hunting a Verdantcoil is considered one of the most dangerous activities a human can undertake, and successful hunters achieve legendary status.
+Cold is the Verdantcoil's primary weakness—extreme cold slows its metabolism dramatically, reducing its speed and strength significantly. Fire is equally effective, as the creature abhors heat and will retreat from sustained flames. Repeated exposure to either extreme temperature can eventually drive a Verdantcoil from its territory. In areas where the forest has been cleared or where the canopy is thin, the creature loses much of its advantage and becomes a comparatively normal predator, though still dangerous. The creature's scales, if harvested carefully, can be fashioned into armor that retains the creature's natural camouflage properties and grants the wearer partial invisibility in forest settings. Its fangs make deadly weapons. The venom can be extracted and preserved, though doing so requires great care and protective gear. Hunting a Verdantcoil is considered one of the most dangerous activities a human can undertake, and a successful hunter is famous for life.
 
 ## Attributes
 

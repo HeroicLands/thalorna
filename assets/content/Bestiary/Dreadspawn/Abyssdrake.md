@@ -375,7 +375,7 @@ sohl:
 
 ![[abyssdrk|Abyssdrake]]{float: top-left}
 
-The temperature drops as a sinuous shape moves through the water—a body serpentine and scaled in deepest obsidian, barely visible even in daylight. When it turns, your breath catches: its eyes burn with cold, actinic blue light, and along its spine, jagged fins trail a luminescence of sickly green and purple. The stench reaches you first—brine mixed with something sulfurous, decaying, wrong. Its scales catch the light in ways that hurt to watch, as if they exist slightly out of phase with reality.
+The temperature drops as a sinuous shape moves through the water—a body serpentine and scaled in deepest obsidian, barely visible even in daylight. When it turns, its eyes burn with cold, actinic blue light, and along its spine, jagged fins trail a luminescence of sickly green and purple. The stench reaches you first—brine mixed with something sulfurous, decaying, wrong. Its scales catch the light in ways that hurt to watch.
 
 # Dossier {#dossier}
 
@@ -397,7 +397,7 @@ The Abyssdrake favors ambush from darkness or murky water, striking from conceal
 
 ### Serpent Bite
 
-The creature lunges with its full body behind a devastating bite attack, attempting to seize and crush prey in its jaws. The bite inflicts massive trauma; if it succeeds in grappling, it can hold prey in its mouth for multiple rounds, dragging them toward deeper water.
+The creature lunges with its full body behind a devastating bite attack, attempting to seize and crush prey in its jaws. The bite does terrible damage; once it has a grip, it can hold prey in its mouth and drag them toward deeper water.
 
 ### Shadow Claws
 
@@ -405,13 +405,13 @@ Raking attacks with its fore-claws rake and tear armor, cloth, and flesh alike. 
 
 ### Corrosive Breath
 
-The drake exhales a stream of caustic vapor and fluid that dissolves flesh and corrodes armor. This breath weapon leaves chemical burns that continue damaging exposed skin for rounds after the initial exhalation.
+The drake exhales a stream of caustic vapor and fluid that dissolves flesh and corrodes armor. The burns it leaves go on eating into exposed skin for some time after the breath itself has passed.
 
 ## Special Abilities
 
 ### Shadow Adaptation
 
-The Abyssdrake is nearly invisible in darkness or murky water. In dim light or shadow, it gains advantage on concealment checks; in complete darkness, it has advantage on all attack rolls made against creatures that cannot see in darkness.
+The Abyssdrake is nearly invisible in darkness or murky water. In dim light or shadow it is very hard to spot, and in complete darkness its strikes land on creatures that cannot see in the dark before they know it is there.
 
 ### Regeneration
 
@@ -419,11 +419,11 @@ Drawn from deep places where natural law frays, the creature regenerates slowly 
 
 ### Aquatic Propulsion
 
-The drake's sinuous body and powerful tail give it exceptional speed in water, allowing it to move faster than most swimmers and to maneuver in ways land-bound creatures cannot match.
+The drake's sinuous body and powerful tail give it great speed in water, allowing it to move faster than most swimmers and to maneuver in ways land-bound creatures cannot match.
 
 ## Additional Information
 
-Abyssdrakes are vulnerable to sustained light exposure; creatures wielding light-generating items (enchanted torches, magical spells) can drive one from its lair or prevent it from regenerating. Some scholars believe Abyssdrakes are partially extraplanar in nature, explaining their resistance to conventional weapons and their seeming indifference to depth pressure.
+Abyssdrakes are vulnerable to sustained light exposure; creatures wielding light-generating items (enchanted torches, magical spells) can drive one from its lair or prevent it from regenerating. Abyssdrakes may be partly extraplanar in nature, which would explain their resistance to conventional weapons and their seeming indifference to depth pressure.
 
 ## Attributes
 

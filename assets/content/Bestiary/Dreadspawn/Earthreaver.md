@@ -262,7 +262,7 @@ The Earthreaver is a massive worm-like arthropod, roughly thirty feet in length,
 
 ## Key Behaviors
 
-The Earthreaver is an active, aggressive hunter that creates vast burrow networks beneath its claimed territory. Unlike many burrowing creatures, it hunts actively and frequently, emerging randomly throughout its territory to attack anything moving within its domain. It demonstrates sophisticated hunting intelligence—understanding prey behavior, setting ambushes in frequented passages, even herding prey toward specific kill zones. It does not share territory peacefully; if another Earthreaver enters its domain, violence is inevitable. When satisfied with feeding, it becomes less active but still vigilant. It exhibits no social behavior and shows no evidence of mating rituals or family groups.
+The Earthreaver is an active, aggressive hunter that creates vast burrow networks beneath its claimed territory. Unlike many burrowing creatures, it hunts actively and frequently, emerging randomly throughout its territory to attack anything moving within its domain. It hunts with cunning—understanding prey behavior, setting ambushes in frequented passages, even herding prey toward specific kill zones. It does not share territory peacefully; if another Earthreaver enters its domain, violence is inevitable. When satisfied with feeding, it becomes less active but still vigilant. It exhibits no social behavior and shows no evidence of mating rituals or family groups.
 
 ## Combat Strategy
 
@@ -272,11 +272,11 @@ The Earthreaver favors ambush from below or within burrow passages where its mob
 
 ### Venomous Bite
 
-The Earthreaver's mandibles snap forward with tremendous speed, attempting to seize and crush prey. More critically, the attack injects potent venom that causes progressive paralysis and muscle weakness. Multiple bites from the same creature stack venom effects.
+The Earthreaver's mandibles snap forward with tremendous speed, attempting to seize and crush prey. Worse, the attack injects potent venom that causes creeping paralysis and muscle weakness, and each further bite deepens the effect.
 
 ### Burrow Eruption
 
-The creature emerges explosively from beneath soil or debris, using the sudden movement as a weapon as much as an attack pose. Targets struck by this eruption are knocked prone; the creature gains advantage on its first attack when emerging this way.
+The creature emerges explosively from beneath soil or debris, using the sudden movement as a weapon as much as an attack pose. Targets struck by this eruption are knocked down, and the creature's first strike on emerging is very hard to meet.
 
 ### Acid Slime
 
@@ -290,11 +290,11 @@ The Earthreaver moves through earth, sand, and stone as easily as other creature
 
 ### Venom Potency
 
-The creature's venom is progressive and cumulative. Each injection causes increasing paralysis; targets affected by multiple injections suffer severe movement impairment and potential complete immobilization.
+The creature's venom builds with each dose. Each injection deepens the paralysis; targets affected by multiple injections suffer severe movement impairment and potential complete immobilization.
 
 ### Segmented Resilience
 
-The creature's multi-segmented body allows it to function even when partially damaged. Damage to individual segments does not significantly hamper overall function; the creature requires total systemic damage to be truly incapacitated.
+The creature's multi-segmented body allows it to function even when partially damaged. Damage to individual segments does not significantly hamper overall function; the creature must be damaged along its whole length to be truly incapacitated.
 
 ### Vibration Sensing
 
