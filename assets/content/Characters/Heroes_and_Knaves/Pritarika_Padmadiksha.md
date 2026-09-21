@@ -599,100 +599,82 @@ sohl:
 
 ![[prtrkpdmdksh|Pritàrika Padmadîksha]]{float: top-left}
 
-Pritàrika stands 5'6" tall with a medium build. She has rich brown skin, very dark brown hair, and dark brown eyes. Her features include a diamond-shaped face, a narrow nose, a narrow chin, full lips, rich brows, prominent cheeks.
+Nothing about her makes anyone brace. She is 5'6" and of medium build, rich brown skin, very dark brown hair, dark brown eyes, a diamond-shaped face with a narrow nose and a narrow chin, full lips, prominent cheeks, rich brows — and people who have sat across a table from her say that is the mistake.
 
 # Dossier {#dossier}
 
-Pritàrika was born into the great house of Padmadîksha, one of the most ancient and respected lineages of the City-States of Vedyara. Her childhood in the sprawling family estates was one of unusual enlightenment for the era—her father, Lord Jayendra, believed that women of noble blood should receive education equal to their male counterparts in law, rhetoric, natural philosophy, and martial studies. Her mother, the learned Lady Amrita, was herself a scholar of considerable renown and passed to Pritàrika a love of knowledge and an unusually compassionate worldview.
+Vikrama died in a hunting field at fifty-five, of a fall that nobody saw and everyone described. Pritàrika has read every account. They disagree with each other in the ways honest accounts fail to agree; they agree in the ways arranged ones do. She has never said so aloud. She has never stopped looking.
 
-The realm's traditional nobility resisted this progressive education, but Lord Jayendra was powerful enough to defend his daughter's unusual preparation. When she came of age, these diverse skills made her invaluable in court politics. At twenty-three, she made a strategic marriage to Lord Vikrama of a neighboring manor, uniting two significant landholdings and merging their political interests. The marriage, though arranged, proved genuinely compatible—Vikrama respected her intellect and supported her gradually expanding influence in regional governance.
+She was born to the house of Padmadîksha, one of the oldest names among the City-States of Vedyara. Her father, Lord Jayendra, held that a daughter of the house should be taught what a son was — law, rhetoric, natural philosophy, arms — and was powerful enough to ignore the neighbours who said otherwise. Her mother, the Lady Amrita, was a scholar of standing herself, and gave her the habit of learning and a way of looking at the people on her land that the nobility around her did not share.
 
-When Vikrama was killed in a hunting accident at age fifty-five—an incident Pritàrika's keen mind suspects was not accidental—she inherited full control of both estates. Rather than remarry as tradition dictated, she declared herself steward of her late husband's house while maintaining full governance of her birth family's holdings. This unprecedented move sparked outrage among traditionalists but was ultimately accepted due to the economic prosperity her management brought to both estates.
+The education made her useful at court very young. At twenty-three she was married to Lord Vikrama of the neighbouring manor, an arrangement that joined two large holdings and, as it turned out, two people who suited each other; he respected her mind and let her take on more of the governing each year. When he died she did not remarry, as custom expected. She named herself steward of his house and kept her own, and the outrage lasted until the harvests came in.
 
-For the past fifteen years, she has implemented innovative agricultural reforms, established fair legal codes that protect commoners alongside noble interests, invested in education for promising youth regardless of birth status, and carefully navigated the treacherous waters of inter-noble politics to strengthen her position and that of her people.
+That was fifteen years ago. In those years she has changed how the estates farm, written a code of law that protects a commoner as well as a lord, paid for the schooling of any child who showed promise, and held her ground among the other houses, which is the hardest of the four.
 
 ## Psyche
 
 ### Personality
 
-Pritàrika is a woman of formidable intelligence housed in a frame and manner that makes others forget to be intimidated by her. She listens more than she speaks, asks penetrating questions that expose flawed thinking, and possesses genuine patience for different viewpoints—even those she fundamentally disagrees with. This apparent gentleness masks an utterly ruthless pragmatism; she will negotiate endlessly but is prepared to destroy her enemies when negotiation fails.
+She listens more than she talks, and when she talks it is usually a question, and the question usually finds the weak joint in what was just said. She is patient with views she dislikes. She negotiates for as long as there is anything to negotiate, and then, if there is not, she destroys people. The gentleness is not a mask, but it is not all there is.
 
-She is driven by genuine care for those under her protection, which makes the harder decisions—sacrificing some for the greater good—torment her in ways pure pragmatists never experience. She lies awake at night troubled by problems she cannot fully solve, and this awareness of her own limitations actually makes her a better leader than she would be if more confident in her own judgment.
+She cares about the people on her land, and it makes the hard decisions — the ones where someone is spent for the rest — hurt in a way that does not trouble the merely practical. She lies awake over problems she has not solved. She thinks that is what makes her fit to rule; she may be right.
 
-She is often lonely in her position. Her authority prevents genuine friendship with those of lesser rank, while traditionalist nobles view her with deep suspicion. She maintains personal correspondence with a network of like-minded female leaders across multiple realms, a secret friendship that sustains her when isolation threatens her resolve.
+It is lonely. She cannot be a friend to anyone below her, and the old houses will not be friends to her. She keeps up a private correspondence with women who rule elsewhere, in several realms, and it is that, more than anything at home, that holds her steady.
 
 ### Motivation
 
-Pritàrika's deepest motivation is the creation of a society that functions according to merit and justice rather than mere tradition and bloodline. She views her positions of power not as personal privilege but as stewardship, and she is determined to use her influence to gradually reshape Vedyaran society into something more humane and egalitarian. She knows this transformation will not occur in her lifetime and may be reversed after her death, but she is committed to planting seeds that might grow in future generations.
+A society that rewards merit and honours justice, rather than blood and habit. She holds her power as a stewardship, not a possession, and means to use it to bend Vedyaran custom toward something fairer, a little at a time. She knows she will not see it finished and that it may be undone the year she dies. She is planting anyway.
 
-Privately, she also seeks to honor the memory of her late husband by ensuring his house and legacy endure and prosper, and she wonders obsessively whether his death was truly accident or the consequence of powerful enemies who feared what she and Vikrama might accomplish together.
+Privately, she means to keep Vikrama's house whole and prosperous, because it was his — and she means, someday, to know whether the fall was a fall.
 
 ### Strengths
 
-- **Master Negotiator and Rhetorician**: Pritàrika can find common ground between seemingly irreconcilable positions and possesses the eloquence to articulate solutions that allow all parties to save face. Her command of legal language, political tradition, and human psychology makes her nearly unstoppable in formal discourse.
-
-- **Incisive Strategic Mind**: Her reasoning is exceptional—she sees multiple moves ahead in the complex game of inter-noble politics, maintains detailed knowledge of the genealogies, debts, and alliances that bind the realm, and can construct long-term plans that account for countless variables.
-
-- **Legitimate Authority and Resources**: As lord of two significant estates with substantial populations, Pritàrika commands real power. She controls military forces, economic resources, and vast lands, and her decisions directly affect thousands of lives.
-
-- **Natural Philosopher and Scholar**: Her education in natural philosophy and mathematics is superior to most nobles of any gender. She understands agricultural science, basic medicine, and engineering principles, allowing her to implement practical innovations that benefit her estates.
-
-- **Skilled at Arms**: While not a professional warrior, Pritàrika trained extensively in traditional martial disciplines. She can handle a rapier competently and rides with considerable skill, allowing her to maintain a physical presence of capability and confidence.
-
-- **Genuine Compassion**: Unlike many leaders who feign care, Pritàrika's concern for her people's wellbeing is authentic. This authenticity—recognized by those under her rule—generates loyalty that fear and authority alone could never achieve.
+- **Master Negotiator and Rhetorician**: She finds the ground two enemies can both stand on, and words it so that neither loses face. In law, precedent and the reading of people she is very hard to beat.
+- **Long Sight**: She sees several moves ahead among the houses, knows the genealogies, debts and marriages that tie them, and plans for years.
+- **Real Authority and Resources**: Two large estates, soldiers, money, land, and thousands of people whose lives turn on what she decides.
+- **Natural Philosopher and Scholar**: Better read in natural philosophy and mathematics than most nobles of either sex; she understands farming, medicine and engineering well enough to change how her estates do them.
+- **Skilled at Arms**: Not a soldier, but trained in the old disciplines; she handles a rapier competently, rides well, and looks, on a horse, like someone who could.
+- **Compassion**: The care is real, and the people under her know it, which buys a loyalty fear could not.
 
 ### Weaknesses
 
-- **Idealism in a Pragmatist's World**: Pritàrika's vision of justice sometimes blinds her to the realities of entrenched power. She has been known to propose reforms that, while philosophically sound, are simply impossible to implement given current political circumstances, leading to disappointment and wasted effort.
-
-- **Dangerous Compassion**: Her genuine care for people sometimes prevents her from making the hard choices necessary for the greater good. She hesitates to punish the guilty if punishment will cause disproportionate suffering, a hesitation that can be exploited by those without her scruples.
-
-- **Profound Isolation**: Her position and her progressive views isolate her from true friendship. This isolation can manifest as moments of paralyzing self-doubt when she lacks external validation for difficult decisions.
-
-- **Potential Vulnerability Regarding Her Husband's Death**: If convinced that Vikrama's death was murder rather than accident, Pritàrika would be capable of extreme action, possibly undermining her own principles in pursuit of justice or revenge. This is her most dangerous psychological pressure point.
-
-- **Underestimation of Traditional Forces**: While aware intellectually of the power of tradition and conservative reaction, Pritàrika sometimes underestimates how deeply rooted resistance to change can be. She may be surprised by how effectively traditionalist opponents mobilize against her initiatives.
+- **Idealism in a Practical World**: Some of her reforms were right and impossible, and she has wasted effort and heart on them.
+- **Dangerous Compassion**: She will not punish where the punishment falls too wide, and people who lack her scruples have noticed.
+- **Isolation**: With no one to confide in, a hard decision can leave her doubting herself for days.
+- **Her Husband's Death**: If she were ever shown that Vikrama was murdered, she would be capable of things that would undo every principle she has governed by. It is the one lever that would move her.
+- **Underestimating the Old Houses**: She knows how deep tradition runs and is still surprised, sometimes, by how fast it can gather against her.
 
 ## Social
 
 ### Patrons
 
-- **The Scholarly Circle of Vedyara**: A network of educated women from various noble houses who share Pritàrika's progressive vision. They exchange knowledge, provide mutual support, and work toward gradual transformation of Vedyaran society. Led formally by the aging matriarch Lord Shashvati, the circle functions as both salon and secret society.
-
-- **The Merchant Guilds of Three Cities**: Prosperous merchant families appreciate Pritàrika's progressive trade policies and protection of commerce. They provide financial support and political backing, viewing her as good for business stability.
-
-- **Parameshvara the Wise**: A legendary holy woman of indeterminate age who dwells in a mountaintop hermitage. Pritàrika visits her for counsel on matters of conscience and receives guidance that is cryptic but often proves profound. Few know of this relationship.
-
-- **The Common People of Her Estates**: While not formally organized, the population broadly supports Pritàrika's rule due to the visible improvements in their lives. This widespread loyalty is her greatest political asset.
+- **The Scholarly Circle of Vedyara**: Educated women of the noble houses who share her aims, exchange knowledge and back each other. Old Lord Shashvati leads it; it is a salon in public and something closer to a secret society in private.
+- **The Merchant Guilds of Three Cities**: Merchant families who like her trade policy and her protection of commerce, and pay for the privilege in money and votes.
+- **Parameshvara the Wise**: A holy woman of no known age in a hermitage on a mountaintop, to whom she goes with matters of conscience. The answers are cryptic and have not yet been wrong. Few people know she goes.
+- **The Common People of Her Estates**: Not organised, and not needing to be. Their lives are better and they know whose doing it is.
 
 ### Enemies
 
-- **Lord Mantra Deshpande**: The leader of the traditionalist faction within the nobility. He views Pritàrika's reforms as an existential threat to the noble order and has made it his mission to discredit her, expose weaknesses in her administration, and ultimately force her removal or replacement with a more conservative leader.
-
-- **The Orthodox Temple Authority**: Certain powerful religious figures view Pritàrika's support for lower-class education and her questioning of traditional gender roles as heretical. They preach against her from their pulpits and have excommunicated followers who support her reforms.
-
-- **Unknown Assassins**: Someone has made at least three attempts on Pritàrika's life over the past seven years—attempts that appeared accidental or coincidental but revealed patterns to her suspicious mind. She does not know whether these attacks originate from Deshpande, foreign powers, or someone with personal motivation.
-
-- **Kalindi Padmadîksha**: Pritàrika's younger brother, who was bypassed in the succession due to his youth and perceived lack of aptitude. He has grown bitter, viewing Pritàrika's success as theft of his birthright. While not directly opposing her, his resentment simmers and may become dangerous.
+- **Lord Mantra Deshpande**: Leader of the traditionalists, who sees her reforms as the end of the noble order and has made her removal his life's work.
+- **The Orthodox Temple Authority**: Priests who preach against the schooling of the low-born and the questioning of women's place, and have excommunicated followers of hers for it.
+- **Unknown Assassins**: Three attempts in seven years, each of them looking like an accident until she laid them side by side. Deshpande, a foreign hand, someone with a private grudge — she does not know.
+- **Kalindi Padmadîksha**: Her younger brother, passed over for being young and, it was judged, not up to it. He has grown bitter and thinks her success was stolen from him. He has done nothing yet.
 
 ### Affiliations
 
-- **The Grand Council of Nobility of Vedyara**: Pritàrika holds a prominent seat and uses this platform to advocate for her vision of reformed governance.
-
-- **The Padmadîksha House and its Territories**: Her primary loyalty and greatest responsibility, encompassing two estates and several satellite holdings.
-
-- **The Order of Mahájaya**: She is a devotee of this peaceful deity aspect and uses her religious affiliation to justify her reformist philosophy.
-
-- **The Learned Society of Vedyara**: An organization dedicated to preserving and advancing knowledge. Pritàrika serves as a generous patron and active member.
+- **The Grand Council of Nobility of Vedyara**: A prominent seat, from which she argues her case.
+- **The Padmadîksha House and its Territories**: Two estates and several smaller holdings; her first loyalty and heaviest charge.
+- **The Order of Mahájaya**: She is a devotee of this peaceful aspect of the god, and her reforms are argued in its terms.
+- **The Learned Society of Vedyara**: A patron and a working member.
 
 ## Plot Hooks
 
-1. **The Murder Most Convenient**: Pritàrika receives evidence—a letter discovered in long-sealed archives—suggesting that her husband Vikrama's death fifteen years ago was deliberately orchestrated. The letter implicates a powerful figure now deceased but names co-conspirators who are still alive and influential. As she investigates, she discovers that revealing the truth would destroy powerful current alliances and cast doubt on decisions she has made since Vikrama's death. She must decide whether pursuing this ancient murder will serve justice or merely seek vengeance at the cost of stability her people depend upon. Meanwhile, someone wants these documents destroyed and may attempt to murder Pritàrika to prevent their publication.
+1. **The Murder Most Convenient**: A letter found in sealed archives says Vikrama's death, fifteen years ago, was arranged. The man behind it is dead; the people who helped are alive, and some of them are her allies. To pursue it is to break alliances her people depend on and to reopen every decision she has made since. Someone wants the letter burned and has begun to consider burning her with it.
 
-2. **The Heir Problem**: Pritàrika discovers she is unable to bear children due to complications from a riding accident in her youth—something she had concealed even from herself through denial. Without an heir of her blood, her entire program of reform is vulnerable to reversal after her death. She must decide whether to adopt an heir, marry despite her resistance to that institution, restore power to the Padmadîksha line through a younger family member, or implement structural reforms that will protect her legacy even without biological succession. Each option creates political complications and personal heartache.
+2. **The Heir Problem**: A riding accident in her youth has left her unable to bear a child, which she has known for years and not let herself know. Without an heir of her blood every reform dies with her. Adopt, marry, hand power back to Kalindi's line, or build the reforms into law so they do not need her — every road costs, and she has begun to walk all four.
 
-3. **The Reformer's Dilemma**: A peasant uprising occurs on neighboring estates—commoners demanding rights and freedoms similar to what Pritàrika has granted her own territories. The uprising is brutal and destabilizing. Lord Deshpande and traditionalists blame Pritàrika for having "planted the seeds of rebellion" through her progressive policies, and they demand military action to suppress the uprising. If Pritàrika supports suppression, she betrays her principles; if she refuses, she appears weak and may face her own peasantry rising in coordinated rebellion. The situation requires nuance and genuine cleverness to navigate without catastrophic loss of life or principle.
+3. **The Reformer's Dilemma**: The commoners on the estates next to hers have risen, demanding what she gave her own, and the rising is bloody. Deshpande says she planted it and demands soldiers. Send them and she is what she has fought; refuse and she is weak, and her own peasants may take the point. There is a narrow way through, and she is looking for it.
 
-4. **The Courtier's Confession**: A high-ranking official in her administration confesses to crimes—misuse of funds, betrayal of confidences, sleeping with the governor's wife—crimes that seem designed specifically to humiliate and undermine Pritàrika's authority. The official claims this confession is voluntary and seeks punishment. Pritàrika suspects this is a setup by Deshpande's faction to either force her into harsh punishment that makes her appear tyrannical or lenient treatment that makes her appear weak and unserious about governance. Unraveling the truth requires careful investigation while maintaining her position's credibility.
+4. **The Courtier's Confession**: A senior official of her administration has confessed, unasked, to embezzlement, betrayed confidences and adultery with the governor's wife, and asks to be punished. Every one of the crimes shames her office. She thinks Deshpande's people built the whole thing so that whatever she does — hang him, spare him — makes her a tyrant or a fool.
 
-5. **The Ritual of Succession**: An ancient and powerful ritual known as the Ceremony of the Eternal Lord is scheduled to occur in three months—a traditional Vedyaran rite in which the oldest ruling noble family confirms its succession and renews its covenant with the land through blood magic and sacred vows. Pritàrika's participation is expected, and her refusal would be interpreted as rejection of the entire noble order. However, a mysterious stranger—possibly sent by foreign powers—approaches her with evidence that the ritual involves practices she considers abhorrent, including ritual sacrifice and the subjugation of women. The stranger offers to help her expose the ritual's true nature and revolutionize the ceremony, but doing so would shatter centuries of tradition and alienate her from the nobility whose support she needs. She must decide whether to participate in a ceremony she now finds morally compromised or risk everything to transform it.
+5. **The Ritual of Succession**: In three months the oldest ruling house of Vedyara renews its bond with the land in the Ceremony of the Eternal Lord — blood magic, sacred oaths, and her attendance expected; to refuse is to refuse the whole order. A stranger, possibly foreign, has brought her evidence that the rite includes sacrifice and the subjection of women, and offers to help her expose and remake it. Doing so would end centuries of custom and most of her support among the houses in a night.

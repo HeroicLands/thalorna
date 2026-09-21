@@ -621,79 +621,79 @@ sohl:
 
 ![[rznshmrvrn|Razanash Mervaran]]{float: top-left}
 
-Razanash stands 5'7" tall with a light build. She has tawny skin, black hair, and green eyes. Her features include a narrow face, an arched nose, an angular jawline, thick dark brows, sculpted cheeks. A distinguishing mark is a scar on the left thigh.
+Green eyes, which the desert does not often produce, in a narrow tawny face with an arched nose, an angular jawline, sculpted cheeks and thick dark brows; black hair; 5'7" and lightly built. There is a scar on her left thigh that she says a serpent gave her, and nobody in the tribe doubts it.
 
 # Dossier {#dossier}
 
 **The Unquiet Awakening**
 
-**Razanash** was born into the Mervaran lineage of the Khazryn Desert, the daughter of a respected hunter and a woman known to possess the gift of prophecy. She showed signs of shamanic potential from childhood—she spoke with animals, sensed approaching storms before any sign appeared in the sky, and occasionally fell into trances during which she seemed to converse with invisible presences. However, her early years were marked by confusion and suffering; without proper training, her abilities manifested as vivid nightmares, unexplained illnesses, and a desperate sense of disconnection from normal reality. By her teenage years, she had become withdrawn and troubled, and some in the tribe questioned whether she was blessed or cursed.
+She talked to animals before she talked well to people, and knew a storm was coming a day before the sky did. Her father was a respected hunter of the Mervaran, in the Khazryn Desert; her mother had the gift of prophecy, and the tribe assumed the daughter had it too when she began to fall into trances and hold conversations with nobody. What the gift did to an untrained child was nightmares, sicknesses no one could name, and a feeling of being a little to one side of the world. By her teens she was withdrawn and strange, and there were people in the tribe who said blessed and people who said cursed.
 
 **The Trial of Becoming**
 
-At twenty-two, following a severe fever that nearly took her life, **Razanash** underwent the formal shamanic initiation ordeal. This required her to survive alone in the deep desert for forty days and nights with minimal supplies, sustained only by her wits, her connection to the spirits, and the rituals the tribal elders had taught her. During this ordeal, she encountered a great serpent spirit that marked her thigh with fire and scar—a mark she now understands as a seal of covenant with forces beyond the material world. When she emerged from the desert, her fever had broken, her mind had clarified, and she had returned as a true shaman, able to channel and interpret the voices of the spirit realm with genuine authority and precision.
+At twenty-two a fever nearly killed her, and when it broke the elders sent her out for the ordeal: forty days and nights alone in the deep desert with almost nothing, kept alive by what she knew, what the spirits gave, and the rites she had been taught. Somewhere in those days a great serpent spirit came to her and laid fire across her thigh. She understands the scar as the seal on a covenant. She came back with the fever gone, her head clear, and the voices sorted into those she could trust and those she could not, and the tribe had a shaman.
 
 **Current Standing**
 
-Now in her mid-thirties, **Razanash** serves as one of the Tribal Shamanic Circle's most valued members, though her authority is still somewhat challenged by older shamans who question her youthfulness and her unconventional interpretive style. She maintains a dwelling on the tribe's outskirts—a tent decorated with bones, feathers, and stones from significant spiritual locations. She is consulted for healing, divination, and interpretation of omens, and her herbal medicines are renowned for their efficacy. Yet she remains somewhat isolated even within her community, neither fully accepted as a peer by the elder shamans nor able to relate to those without spiritual gifts. Her self-doubt, while diminishing with each successful reading and healing, still surfaces when faced with complex problems that seem beyond her abilities to divine or resolve.
+She is in her mid-thirties and one of the Tribal Shamanic Circle's most consulted members, though the old shamans still call her young and say her readings run in unusual directions. She lives at the edge of the camp in a tent hung with bones, feathers and stones from places that matter. People come for healing, for readings and for what an omen meant, and her medicines are known beyond the tribe. She is not quite one of the elders and not quite one of the people, and when a question is larger than she is, the old doubt comes back.
 
 ## Psyche
 
 ### Personality
 
-**Razanash** is a woman caught between worlds—the material and the spiritual—and this liminal existence defines her personality. She is quiet by nature, preferring to listen rather than speak, and she moves through her community with the careful grace of one aware that she inhabits a space others cannot fully access or understand. When she does speak, she often answers questions with parables, omens, or references to the spirit realm that can frustrate those seeking practical advice. She possesses a dry sense of humor that emerges unexpectedly, usually in situations where the absurdity of the material world's concerns becomes obvious when compared to spiritual realities.
+She lives between the material and the other place, and it shows: quiet, listening, moving through the camp like someone who knows she stands where others cannot. Her answers come as parables, omens and references to the spirit realm, which is maddening to anyone who wanted to know where to dig the well. Her humour is dry and sudden, and usually arrives when someone's worldly trouble has just been set against the size of the other world.
 
-Despite her gifts, **Razanash** is profoundly humble, even to the point of self-limitation. She questions her own abilities far more than her actual record of accuracy warrants, and she can fall into paralysis when attempting to make decisions that will affect others. Part of this stems from her awareness of how devastating incorrect spiritual interpretation can be; part comes from lingering doubt about whether she truly hears the spirits' voices or whether she is simply a woman prone to vivid imagination. She is loyal to her tribe and to those who treat her with respect, but she maintains emotional distance from most people, finding genuine communion only with other shamans and the animals that seem drawn to her presence.
+For all her gifts she is humble to the point of getting in her own way. Her record is good; she doubts it anyway, and can freeze over a decision that will land on other people. Part of that is knowing what a wrong reading does. Part is the question she has never answered: whether she hears the spirits, or is a woman with a large imagination. She is loyal to the tribe and to anyone who treats her with respect, and close to almost no one except other shamans and the animals, which come to her uncalled.
 
 ### Motivation
 
-**Razanash** is motivated primarily by her commitment to her spiritual vows and to the tribe that granted her a place to belong after her frightening childhood. She seeks to develop her shamanic skills to the point of complete mastery, believing that the more powerfully she can commune with the spirit realm, the more effectively she can serve her people. Beyond this, she is driven by a desire to find others like herself—other shamans, other individuals of divided nature between material and spiritual—and to build a community that does not require one to choose between worlds but rather celebrates the integration of both. She harbors a secret dream of establishing a shamanic academy where the gifted can be trained without the suffering and isolation she experienced.
+Her vows, and the tribe that gave a frightened girl a place. She wants to go as far into the craft as it goes, on the reasoning that the more clearly she hears, the more use she is. Past that she wants to find others like herself, people of divided nature, and make something with them that does not require a person to choose a world. She has a dream she has told nobody: a school where the gifted are trained without the years of fear and isolation she had.
 
 ### Strengths
 
-- **Profound Spiritual Perception:** **Razanash** can sense spiritual currents, presences, and magical auras with remarkable accuracy; she perceives patterns in dreams and signs that others miss entirely.
-- **Master of Herbal Medicine:** Her knowledge of desert plants and their healing properties is encyclopedic; she can prepare remedies for almost any physical ailment, and her medicines are more effective than conventional healing.
-- **Skilled Diviner:** Her various divination practices—reading bones, interpreting visions, sensing auras—consistently provide accurate information about past events and probable futures.
-- **Shamanic Trance and Ritual:** She can enter profound trance states and conduct rituals that genuinely connect with spiritual forces; her ceremonies have demonstrable effects on reality.
-- **Animal Empathy:** Animals are mysteriously drawn to **Razanash** and respond to her with an intelligence and obedience that far exceeds normal animal behavior; she can communicate with creatures across species boundaries.
-- **Tactical Survival and Movement:** Her desert upbringing has made her an expert in navigation, survival, and moving silently through difficult terrain; she can track individuals and animals across nearly featureless desert.
+- **Spiritual Perception:** She feels currents, presences and auras with unusual accuracy, and reads the patterns in dreams and signs.
+- **Master of Herbal Medicine:** The desert's plants and their uses, all of them; her remedies work where ordinary healing does not.
+- **Skilled Diviner:** Bones, visions, auras — her readings of what has happened and what is likely have a record she does not credit.
+- **Shamanic Trance and Ritual:** She goes deep, and her rites do things that can be seen afterward.
+- **Animal Kinship:** Animals come to her and do as she asks, well beyond what training explains, and she can make herself understood to most of them.
+- **Survival and Movement:** Raised in the desert, she finds her way across featureless ground, moves quietly, and can track a person or a beast where there seems to be nothing to track.
 
 ### Weaknesses
 
-- **Chronic Self-Doubt:** Despite her remarkable accuracy and power, **Razanash** constantly questions whether she is genuinely channeling spirits or self-deluded; this doubt can paralyze her decision-making at critical moments.
-- **Difficulty with Direct Action:** Her shaman's nature makes her uncomfortable with violence and direct confrontation; while not incapable of combat, she much prefers to resolve conflicts through spiritual or diplomatic means.
-- **Physical Fragility:** While not weak, she lacks the robust strength of warriors and hunters; she tires more quickly in sustained physical exertion and is vulnerable in direct physical combat.
-- **Social Isolation and Miscommunication:** Her tendency to speak in spiritual metaphors and her natural quietness create barriers to understanding with those who are not shamans; she often fails to communicate practical concerns clearly.
-- **Vulnerability to Spiritual Entities:** Her open connection to the spirit realm makes her susceptible to possession, manipulation, or assault by hostile spiritual forces; her permeability to spiritual influence is both her greatest gift and most dangerous vulnerability.
-- **Limited Trust in Material Solutions:** She can underestimate the value of practical, mundane approaches to problems, becoming so focused on spiritual dimensions that she misses obvious material solutions.
+- **Chronic Self-Doubt:** She questions whether she hears anything at all, and the questioning can stop her at the wrong moment.
+- **Difficulty with Direct Action:** Violence and confrontation are foreign to her; she can fight and would rather do anything else.
+- **Physical Fragility:** Not weak, but no hunter; she tires in a long effort and is easily hurt in a fight.
+- **Miscommunication:** Metaphor and silence do not carry a practical warning, and hers have gone unheard.
+- **Open to Spirits:** The same openness that lets her hear them lets them in; possession and assault from the other side are real dangers for her.
+- **Distrust of Plain Solutions:** She can be so far into the spiritual side of a problem that she misses the ordinary answer in front of her.
 
 ## Social
 
 ### Patrons
 
-- **Elder Shaman Khenti:** The oldest and most respected shaman in the tribe; he has mentored **Razanash** since her initiation and continues to provide guidance, though he sometimes worries that her methods are too unconventional.
-- **Chief Amara:** The tribe's leader who respects **Razanash's** spiritual authority and often consults her on matters of tribal importance; she has granted **Razanash** considerable autonomy in conducting her shamanic duties.
-- **The Serpent Spirit:** An entity **Razanash** encountered during her initiation ordeal and maintains an ongoing relationship with; it communicates with her through dreams and visions and provides guidance (though sometimes cryptic or morally complex guidance).
+- **Elder Shaman Khenti:** The oldest and most respected shaman of the tribe, her teacher since the ordeal, who worries aloud about her methods and defends her anyway.
+- **Chief Amara:** The tribe's leader, who respects her authority, consults her on the tribe's affairs, and has left her free to do her work as she sees it.
+- **The Serpent Spirit:** The presence from the ordeal, still with her; it speaks in dreams and visions, and its counsel is sound and not always comfortable.
 
 ### Enemies
 
-- **Shaman Darius:** A rival shamanic practitioner who views **Razanash** as an upstart and challenges her interpretations publicly; he represents the traditionalist faction that questions her unconventional methods.
-- **The Shadow Collective:** A mysterious group of rogue shamans and sorcerers who have approached **Razanash** multiple times with offers of power and knowledge; she has rejected them, but they view her refusal as naive and continue to attempt recruitment.
-- **Skeptical Warriors:** A faction within the tribe, led by hunter **Tarek**, who view shamanism generally as superstition and **Razanash** specifically as a charlatan capitalizing on superstitious fears. Their skepticism creates friction and undermines her authority.
+- **Shaman Darius:** A rival who calls her an upstart, disputes her readings in public, and speaks for the traditionalists who want the old ways kept.
+- **The Shadow Collective:** Rogue shamans and sorcerers who have offered her power more than once. She has refused each time. They think she is naive and have not stopped asking.
+- **Skeptical Warriors:** The hunter **Tarek** and the men around him, who think shamanism a superstition and Razanash a fraud living on fear.
 
 ### Affiliations
 
-- **Tribal Shamanic Circle:** **Razanash** holds formal membership and is one of the circle's active practitioners, though her influence within the hierarchy is still secondary to the oldest shamans.
-- **The Desert Heralists' Collective:** An informal network of healers and herbalists across multiple desert tribes who share knowledge and recipes; **Razanash** maintains active correspondence through written symbols and occasional meetings.
+- **Tribal Shamanic Circle:** A full member and one of its working shamans, ranked below the eldest.
+- **The Desert Herbalists' Collective:** Healers and herbalists of several desert tribes who share cures and knowledge; she corresponds in written signs and meets them when she can.
 
 ## Plot Hooks
 
-1. **The Severed Spirit:**: **Razanash** discovers that a member of the tribe has become disconnected from their spiritual essence—their soul or vital spark seems to have been severed or stolen by dark shamanic magic. The victim is still alive but gradually fading, becoming less present, less responsive. **Razanash** realizes this is beyond her immediate ability to heal, and she enlists the party to help her journey into the spirit realm itself to locate and retrieve the stolen piece of soul, or to track down whoever performed this dark working and force them to reverse it.
+1. **The Severed Spirit:** A member of the tribe has had something cut out of them — the soul, or the spark — by a dark working, and is alive and fading. It is beyond her. She needs help to go into the spirit realm after the stolen piece, or to find whoever did it and make them undo it.
 
-2. **The Prophecy's Burden:**: Through a vision or divination, **Razanash** receives a prophecy of catastrophe coming to the tribe or the region—a disaster that is approaching but not yet inevitable. The problem is that the prophecy is cryptic and confusing, and **Razanash** is tormented by doubt about her interpretation of what she saw. She involves the party in attempting to understand the prophecy's meaning while working to prevent the disaster she fears. As events unfold, the party may realize that **Razanash's** prophecy is accurate but incomplete, or that her interpretation is wrong, or that the act of trying to prevent it may actually bring it about.
+2. **The Prophecy's Burden:** A vision has shown her a catastrophe coming to the tribe or the region, not yet certain. The vision is confused, she does not trust her own reading of it, and she needs people to help her understand it and to act on it. It may be right and incomplete. It may be wrong. Trying to stop it may be what brings it.
 
-3. **The Shaman's Challenger:**: A powerful and charismatic shaman from another tribe arrives claiming to represent a new spiritual movement that rejects traditional shamanic practices in favor of a more direct communion with spirits that requires fewer intermediaries. This shaman draws **Razanash's** students and admirers away, challenging her authority and suggesting publicly that her methods are old, restrictive, and ineffective. **Razanash** is torn between defending her practices and her doubt that she even deserves to defend them. The party must investigate the newcomer's true intentions and possibly help **Razanash** decide whether to engage in direct spiritual confrontation with her rival.
+3. **The Shaman's Challenger:** A shaman from another tribe, powerful and easy to like, preaches a direct communion with spirits that needs no intermediaries and calls her ways old and useless. Her students are drifting to him. She is not sure her practice deserves defending, or that she is the one to defend it, and the newcomer's real intent is unknown.
 
-4. **The Spirit Debt:**: **Razanash** is approached by a desperate individual who claims a hostile spirit has enslaved them and made them a vehicle for its will; they commit terrible acts but experience them as if watching themselves from outside their own body. **Razanash** attempts a standard spiritual exorcism, but the entity is far more powerful and resilient than she expected. In attempting to free the person, she herself becomes partially possessed, creating a dangerous situation where **Razanash** becomes a conduit for the entity's manifestation. The party must help her reclaim her body and mind while discovering what the entity wants and why it has become so entrenched.
+4. **The Spirit Debt:** Someone came to her enslaved by a hostile spirit, doing terrible things and watching themselves do them. She tried the usual exorcism. The thing was stronger than she was, and part of it is in her now; at moments she is its door. She needs her body and mind back, and someone to find out what it wants and why it holds so hard.
 
-5. **The Hidden Knowledge:**: **Razanash's** mentor, Elder Shaman **Khenti**, reveals on his deathbed that the official shamanic teachings the tribe has passed down for generations are incomplete—that there are deeper, more dangerous spiritual practices and connections that have been deliberately hidden from younger shamans because they are considered too dangerous or too morally ambiguous for those lacking sufficient wisdom and spiritual development. He gives her cryptic instructions to seek out a hidden library or location where these teachings are preserved, and suggests that she may need to decide whether to let this knowledge remain hidden or to master it and decide its use. The party becomes involved in the quest to locate this hidden knowledge while **Razanash** wrestles with whether some knowledge is too dangerous to possess.
+5. **The Hidden Knowledge:** Elder Shaman **Khenti**, dying, has told her that the teachings the tribe hands down are incomplete — that there are deeper and more dangerous practices, hidden from the young on purpose — and has given her cryptic directions to where they are kept. She has to find the place and then decide whether some knowledge should stay lost.

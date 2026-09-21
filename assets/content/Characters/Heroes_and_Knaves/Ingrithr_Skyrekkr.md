@@ -592,7 +592,7 @@ sohl:
 
 ![[ingrthrskyrkr|Íngrithr Skýrekkr]]{float: top-left}
 
-Íngrithr stands 5'8" tall with a light build. She has pale fair skin, black hair, and hazel eyes. Her features include a broad face, a snub nose, a narrow chin, rosy lips, light brows, soft cheeks.
+She is built to be overlooked and has worked at it: 5'8" but slight, pale, with black hair kept back and hazel eyes kept down, a broad face with a snub nose, a narrow chin, soft cheeks, rosy lips and light brows.
 
 # Dossier {#dossier}
 
@@ -600,72 +600,72 @@ sohl:
 
 ### The Taking
 
-Íngrithr does not remember her freedom, though she was born to it. She was seven years old when the slave-traders came through the rural villages of the Kingdom of Malagna. Her mother had gone to market, and her father was working in the fields. Slave-catchers came to their cottage, and Íngrithr was taken along with four other children from her village. That was twenty years ago. The woman that the traders claimed was her mother, who should have come to purchase her back, never appeared. Either her mother never learned where Íngrithr had been taken, or could not afford the ransom. Íngrithr has long since stopped wondering which.
+Her mother had gone to market. Her father was in the fields. That is all she has of the day, and she was seven, and she has stopped trying for more. The slave-catchers came through the villages of the Kingdom of Malagna that season and took five children from hers; that was twenty years ago. The traders said a mother would come to buy her back. No one came. Íngrithr does not know whether her mother never learned where she had gone or could not find the price, and has stopped asking herself which.
 
 ### The Household
 
-For the first five years, Íngrithr was passed between owners, her worth declining as she grew older and less "valuable" as a house servant. She was purchased at age twelve by the current master, **Lord Aldwyn Darkmore**, a cold and meticulous nobleman of moderate wealth who preferred competent staff to beautiful ones. In his household, Íngrithr discovered she had a gift for anticipating needs—she could read a person's mood in their posture and have what they required ready before they asked for it. She became extraordinarily valuable precisely because she was so good at being invisible, at providing service without demanding recognition or sympathy.
+For five years she was sold and sold again, worth less at each sale as she grew out of being a pretty child. At twelve **Lord Aldwyn Darkmore** bought her — a cold, exact nobleman of middling wealth who wanted competent servants rather than handsome ones. In his house she found she could read a person's mood from how they stood and have what they wanted ready before they asked. She became valuable by being invisible.
 
-Over the years, she has become the primary household servant, the one person who keeps the entire establishment running. She manages the junior servants, oversees the kitchen, maintains the household accounts, and serves as the closest thing to confidante the emotionally distant Lord Aldwyn possesses. Her position has afforded her certain minor privileges—a small private room, slightly better food, the trust of her master. And yet it has also marked her as someone above the other servants, creating resentment among those who have not achieved her status.
+She runs the house now. The junior servants answer to her, the kitchen is hers, the accounts are hers, and she is the closest thing to a confidant the cold Lord Aldwyn has. It has bought her a small room of her own, slightly better food, and her master's trust, and it has set her above the other servants, who have not forgiven it.
 
 ### Present Circumstance
 
-Now twenty-seven years old, Íngrithr exists in the peculiar intersection of being valued and utterly disposable. Her master depends on her—more than he might recognize—but she remains slave, property that can be sold or traded at his whim. She has become remarkably skilled at managing the household, understanding financial matters, negotiating with merchants, and manipulating situations through subtle influence. Yet she remains bound by law and circumstance to absolute obedience. Recently, she has begun to wonder what freedom might look like, and the question itself terrifies her because to even ask it suggests rebellion.
+She is twenty-seven. Her master depends on her more than he knows, and she is still property, to be sold or traded on a whim. She has learned to run a household, to keep accounts, to bargain with merchants and to move a situation a little without anyone seeing her hand in it. She is still bound to obey. Lately she has begun to wonder what freedom would be like, and the wondering frightens her, because it feels like the beginning of a rebellion.
 
 ## Psyche
 
 ### Personality
 
-Íngrithr has learned through painful experience that the safest strategy is invisibility combined with meek cooperation. She has perfected the art of appearing submissive while observing everything. Her humor is quiet and private—she rarely laughs where her masters might hear, finding comedy in observations she shares only with the other servants, usually in the safety of the kitchen. She is intelligent and capable of sophisticated thought, but she has learned to hide this from those with power over her, recognizing that intelligence in a slave can be perceived as threat.
+She learned young that the safe way is to be invisible and agreeable, and she is very good at it — submissive to look at, and watching everything. Her humour is private, shared in the kitchen with the other servants where the family cannot hear. She is clever and hides it, because in a slave cleverness reads as a threat.
 
-Beneath the submissive exterior lies a more complex individual. She is capable of genuine kindness toward those more wretched than herself—the oldest servants, the less capable servants who struggle with their duties. She will cover for others' mistakes when she can, ensure they are fed when rations are short, and listen to their troubles with genuine empathy. This kindness is not strategic but flows from understanding what it means to be powerless. However, she is also capable of ruthless pragmatism—she has learned to prioritize her own survival and will do what is necessary to maintain her position, including throwing others under scrutiny when her own safety demands it.
+She is kind to the ones worse off than she is — the old, the slow, the ones who cannot keep up — and covers their mistakes, sees that they eat when rations are short, and listens. It is not a tactic; it is knowing what powerlessness is. She is also capable of a hard pragmatism. Her survival comes first, and when it has required her to let scrutiny fall on someone else, she has let it.
 
 ### Motivation
 
-Íngrithr is driven primarily by the need to survive, to maintain stability and avoid punishment in an existence where both are precarious. This basic survival instinct has blossomed into something more complex: a desperate hope that perhaps her life might be something more than endless labor and servitude. She dreams of freedom with the intensity of someone who has never experienced it, yet fears it equally because freedom is incomprehensible to her. She is motivated also by a desire to prove her worth, perhaps as a way of asserting her humanity in a system that denies it—if she can be so valuable that she is irreplaceable, perhaps she has value that slavery cannot diminish.
+To survive, and to keep the small stability she has in a life where a bad week can end it. Then a hope she barely admits: that her life might be more than work and obedience. She dreams of freedom as only someone who has never had it can, and fears it as much, because she cannot picture it. And she works to be so valuable that she cannot be replaced — as if worth were a thing slavery could not take away.
 
 ### Strengths
 
-- **Exceptional Observation and Intuition**: She reads people with remarkable accuracy, understanding motivations and moods through subtle cues. This skill has made her invaluable as a household manager and confidante.
-- **Skilled in Domestic Arts**: Her cooking is excellent, her housekeeping immaculate, and her management of servants and household resources remarkably competent. Few in the kingdom could manage a household as efficiently as she does.
-- **Pragmatic Intelligence**: She understands systems—how money flows, how authority structures work, how to navigate complex social dynamics within the servant hierarchy. She is naturally gifted at finding solutions to practical problems.
-- **Resourcefulness and Problem-Solving**: Working with limited resources, she has learned to improvise and make do with what is available. She can solve complex household management challenges with remarkable creativity.
-- **Survival Instinct**: Twenty years of navigating a dangerous and uncertain existence have honed her ability to assess threats and respond appropriately. She knows how to survive.
-- **Linguistic Ability**: She speaks multiple languages, a skill acquired from listening to the household's many visiting merchants and nobles. This could be valuable in contexts beyond her current station.
+- **Observation and Intuition**: She reads a mood from a posture and a motive from a pause, which is what makes her the manager and the confidant.
+- **Domestic Arts**: Her cooking is excellent, her housekeeping faultless, and few in the kingdom could run a household as well.
+- **Practical Intelligence**: She understands how money moves, how authority works and how the servants' world is ordered, and finds the practical answer.
+- **Resourcefulness**: She has always had too little, and has learned to make do and to improvise.
+- **Survival Instinct**: Twenty years of judging threats have made her very good at it.
+- **Languages**: Several, picked up listening to the merchants and nobles who pass through the house.
 
 ### Weaknesses
 
-- **Learned Helplessness and Submissiveness**: Years of slavery have conditioned her to accept her fate, to not fight for her own interests. She would struggle to assert herself even if opportunity for freedom presented itself.
-- **Profound Anxiety and Fear of Punishment**: She lives in constant low-level fear of discipline and punishment. Loud voices or unexpected anger from authority figures can cause her significant distress.
-- **Internalized Belief in Her Own Worthlessness**: Despite her obvious competence and intelligence, she believes on a fundamental level that she is less human than free people, that she deserves her position. Overcoming this will require profound healing.
-- **Lack of Combat or Physical Defense Skills**: She has never been trained to fight and would be helpless in physical confrontation. Her body is designed for labor, not combat.
-- **Social Isolation**: Her position as both servant and above-servants means she belongs to neither community. She has no true friends or trusted confidantes who know her whole self.
-- **Dependence on Her Master's Will**: Everything about her life—her shelter, food, security—depends entirely on Lord Aldwyn's continued whim. Without him, she has nothing.
+- **Learned Helplessness and Submissiveness**: She has been taught to accept, and would find it hard to take her own side even if a door opened.
+- **Fear of Punishment**: A raised voice or a sudden anger from anyone in authority can undo her.
+- **Belief in Her Own Worthlessness**: For all her competence she believes she is less than a free person and that her place is deserved. It will take a long time to unlearn.
+- **No Defence**: She has never been taught to fight and could not.
+- **Isolation**: Above the servants and below the family, she belongs to neither, and nobody knows all of her.
+- **Dependence on Her Master's Will**: Shelter, food, safety — all of it is Lord Aldwyn's to withdraw.
 
 ## Social
 
 ### Patrons
 
-None in any formal sense. She is dependent entirely on the whim of her master, **Lord Aldwyn Darkmore**, who has come to rely on her more than he might acknowledge. In some ways, she serves him more than he serves her, though this is obscured by formal power relationships.
+None, formally. She depends wholly on **Lord Aldwyn Darkmore**, who has come to depend on her more than he would say; in most of the ways that matter she serves him, and in some he serves her, and the law recognises only the first.
 
 ### Enemies
 
-- **Other Servants in the Household**: The junior servants resent what they perceive as her elevated position and favor. They sometimes sabotage her work, speak against her to Lord Aldwyn, or deliberately create extra work for her as punishment for her perceived betrayal of servant solidarity.
-- **Senior Housemistress Morvanna**: The elderly servant who would have taken the position Íngrithr now holds has become her bitter enemy, blaming her for being passed over due to age. Morvanna actively works against Íngrithr within the servant hierarchy.
-- **Unspoken Enemies Among Nobility**: Some of the visiting nobles are aware of Íngrithr's position as a boundary-crosser (a servant trusted with knowledge and responsibility beyond her station) and view her with suspicion or hostility. A few have made inappropriate advances toward her, and when she has managed to evade them, they have blamed her for the embarrassment.
+- **Other Servants in the Household**: The juniors resent her place and her favour, and sabotage her work, carry tales to Lord Aldwyn, and make extra work for her when they can.
+- **Senior Housemistress Morvanna**: The old servant who should have had Íngrithr's post, and blames her for being passed over. She works against her wherever the servants' order allows.
+- **Unspoken Enemies Among Nobility**: Visiting nobles who see a servant trusted beyond her station and dislike it. Several have made advances; when she slipped away, they blamed her for the embarrassment.
 
 ### Affiliations
 
-None. As an enslaved person in the Kingdom of Malagna, she is forbidden by law from joining any formal organization or association. She exists outside all affiliations by legal definition, bound only to her master's household.
+None. A slave in the Kingdom of Malagna may belong to no organisation by law. She belongs to the household, and to nothing else.
 
 ## Plot Hooks
 
-1. **The Hidden Will**: A traveler comes to the household as a guest and, during his stay, witnesses Íngrithr's remarkable competence and kindness. When he leaves, he leaves behind a carefully hidden letter, written by an old woman who claims to be Íngrithr's mother. The letter speaks of a legal action, filed decades ago but buried in bureaucratic processes, that could potentially free her. The traveler promises to return to help her pursue this claim. Íngrithr faces an agonizing dilemma: hope that freedom is possible, or accept her fate and protect herself from the devastating disappointment that could follow. If she pursues this, she may betray her master's trust, placing her in danger.
+1. **The Hidden Will**: A guest who noticed her has left, hidden, a letter from an old woman who says she is Íngrithr's mother — a legal claim, filed long ago and lost in the offices, that might free her — and has promised to come back and help pursue it. Hope, or the safety of expecting nothing; to pursue it would betray her master's trust, and that is dangerous.
 
-2. **The Magical Binding**: Lord Aldwyn falls gravely ill and in his delirium reveals to Íngrithr that her servitude is bound by more than legal contracts—she has been magically bound to the household by a dark ritual performed on her as a child, something designed to prevent her from escaping or even wanting to escape. A mysterious figure, perhaps a mage or a freed slave, contacts her and offers to break the binding, but doing so requires an act of betrayal against her master. More troublingly, she is not certain the binding is truly constraining her, or if she has simply accepted slavery so completely that the magic is no longer necessary—the chains might be entirely psychological.
+2. **The Magical Binding**: In a fever Lord Aldwyn told her that she is bound to the house by more than law — a dark rite worked on her as a child so that she could not run, or want to. A stranger, a mage or a freed slave, offers to break it, at the price of a betrayal. She is not sure the binding is doing anything any more. She may have finished the work herself.
 
-3. **The Secret Pregnancy**: Íngrithr discovers she is pregnant, possibly from an assault by a visiting nobleman that she was powerless to prevent. She has no rights as a mother—any child born to a slave becomes property of her master or can be sold away. She desperately seeks help, approaching a sympathetic visitor who might help her escape before the pregnancy becomes apparent. This desperate flight could be the beginning of freedom or could lead to her recapture and terrible punishment if discovered.
+3. **The Secret Pregnancy**: She is pregnant, perhaps by a visiting nobleman she could not refuse, and a slave's child is her master's to keep or sell. She has approached a sympathetic visitor about getting away before it shows. It could be the start of a free life, or the end of every small safety she has.
 
-4. **The Household in Decline**: Lord Aldwyn, aging and showing signs of serious illness, begins to make concerning decisions about his estate. Íngrithr realizes that upon his death, her position is not secure—she might be sold as part of the estate settlement or simply abandoned. She begins secretly educating herself in the household accounts and Lord Aldwyn's finances, attempting to position herself somehow to survive his death. Her actions risk appearing treacherous if discovered, but inaction guarantees her vulnerability.
+4. **The Household in Decline**: Lord Aldwyn is old and ill and making odd decisions about the estate, and when he dies she will be sold with the furniture or turned out. She has begun, secretly, to learn his finances, to find some position she could survive from. If she is caught at it, it looks like treachery. If she does nothing, she is helpless.
 
-5. **The Underground Movement**: A member of an underground network helping enslaved people achieve freedom makes contact with Íngrithr. The network is apparently well-funded and efficient, having successfully moved dozens of people to freedom over recent years. They believe Íngrithr's skills—her intelligence, her knowledge of the household, her ability to move unsuspected—would be invaluable to their cause. They ask her to become an agent within noble households, gathering information or subtly assisting escapes. Helping would be deeply dangerous, requiring her to maintain the pretense of absolute loyalty while actually working against her master. But it would also mean becoming part of something larger than her own survival, connecting her to a community dedicated to liberation.
+5. **The Underground Movement**: A network that moves slaves to freedom — well funded, quiet, with dozens freed in recent years — has reached her. They want her to work inside noble houses: watching, passing word, helping escapes. It would mean feigning perfect loyalty while betraying it every day, and it would mean, for the first time, belonging to something.

@@ -617,82 +617,78 @@ sohl:
 
 ![[renuternfr|Renutê Re'en'fré]]{float: top-left}
 
-Renutê stands 5'7" tall with a light build. She has dark skin, black hair, and dark brown eyes. Her features include a high-cheekboned face, a straight narrow nose, a gentle jawline, generous lips, dark brows, angular cheeks.
+Loud first, then seen: the laugh arrives from the kitchen before she does. She is dark-skinned, 5'7" and lightly built, with black hair, dark brown eyes and a high-cheekboned face — a straight narrow nose, a gentle jawline, generous lips, angular cheeks, dark brows.
 
 # Dossier {#dossier}
 
-**From Humble Hearth to the Reenfré**
+Nobody eats alone at the Reenfré. That is the only rule of the house Renutê enforces in person, and a stranger who comes in wanting a quiet corner will find, before the second cup, that the innkeeper has sat a scholar or a sailor down opposite him and gone away laughing. It is how the inn was made, and a good deal of the city has been made in it since.
 
-**Renutê** was born the daughter of a cook in the grand house of a noble family of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], learning her culinary arts at her mother's side in vast kitchens where she prepared food for dozens. However, rather than spending her life in service to a single household, she dreamed of something greater: a place where people of all stations could gather, where exceptional food and drink would flow freely, where stories would be exchanged and friendships forged. At twenty-three, using money saved across years of careful management and loans from supportive patrons of her cooking, she purchased a ramshackle building near the harbor and converted it into the Reenfré, an establishment that would become legendary across the empire.
+She was a cook's daughter in the great house of a noble family of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], and learned at her mother's side in kitchens that fed dozens. She did not want a lifetime of feeding one family. What she wanted — she could describe it at ten — was a place where anyone could sit, eat well, drink well and talk, and where a story told at one table would be known at the next by morning. At twenty-three, with years of savings and loans from people who had eaten her cooking, she bought a ramshackle building near the harbor and opened it.
 
-**The Making of Legend**
+The Reenfré has grown since: private rooms for guests who want them, a kitchen that turns out the day's plain fare and, when it matters, something people cross the city for, lodging from a merchant's plain bed to the suites upstairs. Her cellar is talked about in noble houses. She remembers the names, families and troubles of hundreds of guests, asks after all of them, and has a gift for seating two people who need each other. Marriages, partnerships and expeditions have started at her tables, and she keeps the tally.
 
-Over three decades, **Renutê** transformed her modest inn into one of the city's most beloved establishments. Her culinary skill is not merely competence but true artistry—she can take simple ingredients and transform them into dishes that people travel miles to experience, and she maintains an extensive wine and ale collection that rivals noble houses. Beyond the food and drink, she created an atmosphere where adventurers, merchants, scholars, and common folk could mingle without pretense. She remembers the names and histories of hundreds of guests, asks about their families and fortunes, and has a gift for introducing people who need to meet each other. Tales of matches made at her tables, business deals struck, and adventures planned in her common room form a vast oral history that she treasures.
-
-**Current Authority**
-
-Now in her early sixties (though she claims fifty), **Renutê** reigns over the Reenfré with benevolent authority. Her establishment has expanded over the years, with private rooms for important guests, a kitchen that produces both everyday fare and culinary masterworks, and accommodations ranging from simple rooms for traveling merchants to more luxurious suites. She serves on the Local Innkeepers' Association and uses that position to advocate for the interests of hospitality workers and small proprietors. She has become the keeper of the city's stories—she knows the histories, scandals, secrets, and victories of hundreds of people, and this knowledge makes her a subtle but significant power broker. Yet for all her influence and success, she remains genuinely connected to the work of the inn, personally cooking many of its most important meals and greeting regular patrons with authentic warmth.
+She sits on the Local Innkeepers' Association and uses it for the small proprietors and the people who work for them. She knows the histories, scandals and quiet victories of half the city, which makes her more than an innkeeper to the people who know that she knows. She still cooks the meals that matter, and still meets her regulars at the door.
 
 ## Psyche
 
 ### Personality
 
-**Renutê** is boisterous and vivacious, with a laugh that can be heard across the common room and a tendency to express herself in dramatic gestures and colorful language. She is a natural storyteller who can transfix an audience with tales of notable guests, historical events, or her own adventurous past (the extent to which her stories embellish reality is a matter of good-natured debate). She treats most people with genuine warmth but is not naive; she can size up a person's character quickly and will refuse service to those she deems dangerous or disreputable.
+Loud, quick, and given to big gestures and bad language, with a laugh that carries across the common room. She tells stories — about famous guests, about old wars, about her own past, which grows in the telling and which nobody minds — and holds a room while she does it. She is warm to almost everyone and fooled by very few, and a guest she judges dangerous is out before his drink arrives.
 
-Beneath the boisterousness is a sharp mind for business, a deep understanding of human nature, and a genuine commitment to the welfare of her staff and regular patrons. She can be maternal in her concern for those she feels responsible for, though she expresses this through practical help and honest counsel rather than sentimentality. She has strong opinions and expresses them freely, though she is secure enough in herself that disagreement doesn't threaten her. She is fiercely proud of her inn and its reputation, and she takes personally any attack on its quality or standing.
+Under the noise is a good head for business, a long knowledge of what people are, and a steady care for her staff and her regulars. She mothers the people she is responsible for, in a practical way: a meal, a loan, an honest word, never a soft one. She has opinions, gives them freely, and is not shaken when they are argued with. Slight the inn, though, and the argument is over.
 
 ### Motivation
 
-**Renutê** is motivated by her vision of her inn as a sanctuary—a place where people can find honest food, genuine hospitality, and the freedom to be themselves without pretense or judgment. She continues working long past the age when she could have retired, because the Reenfré has become more than a business to her; it is a vocation and an expression of her values. She is driven by a desire to create and maintain a space where community happens naturally, where the lonely can find connection and the weary can find rest. She takes pride in the success of her patrons—when adventurers who planned their journeys at her tables return with stories of triumph, or when business partnerships made at her tables flourish, she feels that her inn has fulfilled its purpose. She also maintains a commitment to paying her staff fairly and treating them with respect, viewing the Reenfré as much as an experiment in creating a just workplace as in providing hospitality.
+The inn is a refuge, and that is the point of it: honest food, honest welcome, and no need to pretend. She could have stopped working some time ago and has not, because the Reenfré is not a business to her; it is what she believes in, built. She wants a place where the lonely find someone and the tired find a bed, and she counts an expedition that came home or a partnership that prospered as the inn's own success. She pays her people fairly and treats them well, and thinks of that as part of the same experiment.
 
 ### Strengths
 
-- **Culinary Mastery:** **Renutê** is a genuine artist with food and drink; her creations are among the finest in the empire, and her knowledge of cuisines, ingredients, and flavor combinations is extensive and sophisticated. She has trained numerous cooks who now run their own establishments.
-- **Exceptional Memory for People:** She remembers the names, histories, families, and preferences of hundreds of patrons; this gift makes guests feel genuinely valued and gives her remarkable ability to facilitate connections between people.
-- **Management of Complex Operations:** Despite her reputation for being less detail-oriented, she runs her inn efficiently; she understands inventory management, staff scheduling, financial planning, and quality control well enough to maintain a thriving business across decades.
-- **Genuine Warmth and Charisma:** Her capacity to make people feel welcome and valued is authentic rather than performed; she has a gift for creating atmosphere and comfort that goes beyond mere hospitality.
-- **Sound Judgment of Character:** She can assess a person's integrity and trustworthiness quickly; her instincts about people have proven reliable across decades, making her a good source of judgment about someone's reliability or danger.
-- **Substantial Physical Strength:** She is stronger than most people would assume from looking at her; she can handle herself in physical confrontation if necessary, though she prefers to avoid it.
-- **Political Savvy:** She navigates guild politics and city governance with considerable skill, using her position on the Innkeepers' Association to advocate effectively for her interests and values.
+- **Culinary Mastery:** Her cooking is among the best in the empire, and cooks she trained now run their own kitchens.
+- **Memory for People:** Names, families, histories, what they drink — hundreds of them — and the gift of putting two together.
+- **Running a Large House:** For someone who hates a ledger, she runs a big, complicated inn very well, and has for years.
+- **Warmth:** Real, not performed. People feel it and come back for it.
+- **Judge of Character:** She reads a guest in a glance and is seldom wrong.
+- **Physical Strength:** Stronger than she looks and able to end a fight in her own common room, though she would rather talk.
+- **Political Sense:** She knows how the guilds and the magistrates work and gets what she wants out of the Association.
 
 ### Weaknesses
 
-- **Aversion to Detail Work:** While she manages her business adequately, she struggles with meticulous record-keeping, complex accounting, and the fine administrative details that separate adequate management from excellence. She relies on capable staff members to compensate for this weakness.
-- **Overconfidence in Her Judgment:** Her generally accurate assessment of people can occasionally lead her to misjudge someone, particularly if they appeal to her sympathies or if she is emotionally invested in believing in their integrity.
-- **Loud and Sometimes Inappropriate:** Her boisterous nature and tendency toward colorful language can be jarring in more refined settings; she sometimes lacks the filter to recognize when her exuberance is unwelcome.
-- **Vulnerability to Emotional Manipulation:** Those who appeal to her loyalty or her desire to help can occasionally manipulate her into providing assistance that she later regrets or that compromises her business interests.
-- **Protective Impulsiveness:** Her fierce loyalty to her staff and regular patrons can cause her to act without full consideration of consequences; she has been known to shelter fugitives or become involved in disputes that endanger her business.
-- **Age and Stamina:** While still strong and vital, she is no longer young; sustained physical exertion tires her, and she recovers from injuries more slowly than she once did.
+- **Aversion to Detail Work:** Accounts, records and the fine end of management bore her, and she leaves them to staff who are good at it.
+- **Overconfidence in Her Judgment:** When someone reaches her sympathy, her read of them goes soft.
+- **Loud and Sometimes Inappropriate:** Refined company finds her a lot, and she does not always notice.
+- **Vulnerability to Emotional Manipulation:** Ask her for help in the name of loyalty and she may give it before she has thought.
+- **Protective Impulsiveness:** She has hidden fugitives and waded into other people's quarrels, and the inn has paid for it.
+- **Age and Stamina:** She tires now, and heals slower than she did.
 
 ## Social
 
 ### Patrons
 
-- **Captain Ahmet Sekar:** A decorated naval officer who frequently stays at the Reenfré and uses her common room for important meetings. He values her discretion and her ability to ensure that conversations remain private.
-- **Master Merchant Khadija:** The head of a major trading concern who has relied on **Renutê's** recommendations for finding trustworthy business associates and reliable travel partners. Their relationship has made both of them substantial profits.
-- **The Scholars' Circle:** A group of learned individuals who hold regular meetings at the Reenfré and have come to depend on **Renutê's** ability to provide excellent meals on their schedule and maintain privacy for their discussions.
-- **Various Adventuring Companies:** Numerous groups of adventurers have made the Reenfré their base of operations between expeditions, and they maintain loyalty to **Renutê** across the years.
+- **Captain Ahmet Sekar:** A decorated naval officer who lodges at the Reenfré and holds his meetings in her common room, because she keeps them private.
+- **Master Merchant Khadija:** Head of a large trading house, who asks Renutê whom to trust and whom to travel with, and has made money by the answers.
+- **The Scholars' Circle:** Learned men and women who meet at the inn on a fixed night, eat well, and are not overheard.
+- **Various Adventuring Companies:** Several bands make the Reenfré their base between expeditions, and have done for years.
 
 ### Enemies
 
-- **Vex the Competitor:** The proprietor of a rival establishment who views **Renutê's** success with jealousy and has begun spreading rumors about food quality and sanitation at the Reenfré. The conflict is more professional rivalry than genuine enmity, but it is real enough.
-- **City Magistrate Tomás:** An official who attempted to impose onerous new regulations on innkeepers, which **Renutê** organized opposition against. He views her advocacy as insubordination and has looked for ways to harass or fine her establishment.
-- **The Debt Collector's Guild:** A disreputable organization that **Renutê** has refused to pay protection fees to, insisting that her inn exists under the city's legitimate jurisdiction. They view her as a target and an example, though direct action against her is risky given her popularity.
+- **Vex the Competitor:** Runs a rival house and has started rumours about the Reenfré's kitchen and its cleanliness. A trade quarrel more than a feud, but real.
+- **City Magistrate Tomás:** Tried to load the innkeepers with new regulations; Renutê organised the opposition. He has been looking for something to fine her for since.
+- **The Debt Collector's Guild:** She will not pay them protection, on the grounds that the city's law is the only law over her inn. They would like to make an example of her and are wary of how many people would notice.
 
 ### Affiliations
 
-- **Local Innkeepers' Association:** **Renutê** serves as an active member and advocate for innkeeper interests, though her focus on fair labor practices and customer treatment sometimes puts her at odds with more profit-focused proprietors.
-- **The Harbor Community:** As someone located near the docks, **Renutê** maintains connections with merchants, sailors, and port workers; she is considered part of the harbor community and is trusted by its members.
-- **The Scholars' Circle:** While not formally a member, **Renutê** has close ties to this intellectual group and allows them preferential access to her private spaces.
+- **Local Innkeepers' Association:** An active member and an argumentative one, on the side of the workers and the customers more often than the owners like.
+- **The Harbor Community:** Merchants, sailors and dock workers count her as one of theirs.
+- **The Scholars' Circle:** Not a member, but their host, and they have the run of her private rooms.
 
 ## Plot Hooks
 
-1. **The Mysterious Inheritance:**: A wealthy patron whom **Renutê** knew casually decades ago arrives at her inn and announces that she has been named in his will as the inheritor of a substantial estate and fortune. The catch: the estate is located far from the city, in a region she has never visited, and accepting it would require her to leave the Reenfré for an extended period or permanently. Moreover, the patron's family contests the will, suggesting that **Renutê** somehow manipulated him. The party becomes involved in traveling to the estate to investigate the situation, potentially defending **Renutê's** character while discovering what the deceased patron's true intentions were.
+1. **The Mysterious Inheritance:** A rich guest she barely remembers has died and named her heir to an estate far from the city. To take it she would have to leave the Reenfré, for a long time or for good, and his family are saying she talked him into it. Someone is going to have to go and see what he meant.
 
-2. **The Missing Supplier Crisis:**: Several of **Renutê's** key suppliers—a grain merchant, a fisherman, a vintner—suddenly disappear or become unavailable, causing her ability to maintain the Reenfré's quality and reputation to suffer. Investigation suggests they have been pressured or threatened to cease dealing with the Reenfré as part of a coordinated effort to undermine her business. The party is hired to discover who is orchestrating this campaign and to either convince the suppliers to return or find replacements that meet **Renutê's** standards.
+2. **The Missing Supplier Crisis:** Her grain merchant, her fisherman and her vintner have all, within a month, stopped dealing with her — frightened off, it seems, by the same someone. The kitchen is running on what she can find. She wants to know who, and she wants her suppliers back or as good replaced.
 
-3. **The Trouble the Reenfré Brings:**: A dangerous criminal organization uses the Reenfré as a neutral meeting ground for negotiations, assuming **Renutê's** reputation for discretion means she will not interfere with their business. When the party discovers this, they pressure **Renutê** to deny the criminals access or to inform the authorities about their meetings. **Renutê** is torn between her loyalty to her inn's openness and her moral obligation to prevent crime, and she involves the party in a delicate situation where she must balance community values with justice.
+3. **The Trouble the Reenfré Brings:** A criminal company has been using her inn as neutral ground for its bargaining, counting on her discretion. Now that she knows, her openness and her conscience want different things, and she is looking for a way to be rid of them that does not make the inn a place where people are turned away.
 
-4. **The Recipe Worth Killing For:**: A mysterious visitor approaches **Renutê** with an extraordinary claim: one of her signature dishes—let's say a particular seafood preparation or spiced wine blend—is actually based on a recipe stolen centuries ago from a noble house, and that house's descendants are now demanding she surrender the recipe and compensation. Alternatively, the recipe is based on ingredients or knowledge that are forbidden by religious or legal authorities, and the mysterious visitor is a representative of that authority. **Renutê** must decide whether the recipe is worth legal trouble, and the party becomes involved in either defending her right to use the recipe or discovering whether there is actual foundation to the claim.
+4. **The Recipe Worth Killing For:** A stranger says one of her signature dishes — a particular seafood preparation, a spiced wine — was stolen generations ago from a noble house whose heirs now want it back, with compensation; or that it uses something the priests or the law forbid, and the stranger speaks for them. She would like to know whether there is anything in it before she decides how loudly to laugh.
 
-5. **The Legacy Moment:**: After decades of running the Reenfré, **Renutê** is presented with an opportunity to sell her establishment to a larger hospitality organization that would offer her substantial wealth and retirement but would fundamentally change the character of her inn. Simultaneously, a promising staff member expresses interest in taking over the business and continuing it according to **Renutê's** values, but lacks the capital to buy it. The party becomes involved in helping **Renutê** navigate what amounts to a decision about her legacy and the future of a beloved community institution. The emotional weight of choosing between security and values becomes the true substance of the hook.
+5. **The Legacy Moment:** A large hospitality concern wants to buy the Reenfré for enough to keep her in comfort, and would change it into something else. A member of her staff who understands the place wants to take it on and cannot pay. What she decides is what the inn will be after her, and she knows it.

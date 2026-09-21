@@ -598,7 +598,7 @@ sohl:
 
 ![[bazdrshhrn|Bazûdar Shahrûn]]{float: top-left}
 
-Bazûdar stands 6'3" tall with a medium build. He has dark tan skin, black hair, and dark amber eyes. His features include a diamond-shaped face, a prominent nose, a well-defined jawline, full lips, thick dark brows, angular cheeks. A distinguishing mark is a tattoo of a woman on the shoulder.
+Horses settle when he walks into a yard, and so, after a moment, do people. He is 6'3" and of medium build, dark tan skin, black hair, dark amber eyes, a diamond-shaped face with a prominent nose, a well-defined jawline, full lips, angular cheeks and thick dark brows. The woman tattooed on his shoulder is his mother.
 
 # Dossier {#dossier}
 
@@ -606,86 +606,74 @@ Bazûdar stands 6'3" tall with a medium build. He has dark tan skin, black hair,
 
 ### Early Years in the Desert
 
-Bazûdar was born to the nomadic tribes of the Khazryn Desert, the second son of a herder family whose reputation for understanding animals was legendary even among the desert peoples. From childhood, he could communicate with horses and camels in ways that seemed almost mystical—animals responded to his presence with unusual calm and trust. His father, **Shahrûn the Wanderer**, taught him the ancient dialects and gestures that the desert peoples use to speak with creatures, and the tattoo on his shoulder bears a portrait of his mother, **Lethara of the Morning Star**, whom he lost to desert sickness when he was only seventeen.
+He sat outside the pen for three weeks. The horse — the warhorse **Ashenbrand**, which had killed three handlers and thrown a dozen — watched him and he watched it, and on most days neither of them did anything else. He was twenty. At the end of it the horse let him in, and then let him on, and the desert lords who had heard of Ashenbrand heard of Bazûdar Shahrûn.
+
+He was born to the nomad tribes of the Khazryn Desert, the second son of a herder family known even among the desert peoples for their way with animals. As a child he could quiet a horse or a camel by standing near it, and his father, **Shahrûn the Wanderer**, taught him the old dialects and gestures the desert peoples use to speak to their beasts. The portrait on his shoulder is **Lethara of the Morning Star**, his mother, who died of desert sickness when he was seventeen.
 
 ### Trial and Transformation
 
-At twenty, Bazûdar encountered the great warhorse **Ashenbrand**, an animal so wild and dangerous that it had killed three handlers and thrown a dozen more. Where others used force or fear, Bazûdar spent weeks simply sitting in silence near the horse, learning its rhythms, its fears, its nature. Gradually, Ashenbrand came to accept him, and eventually to trust him. That bond transformed Bazûdar's reputation—he became known as "the Whisperer," the one to whom dangerous animals could be entrusted. He spent his twenties and thirties traveling across the desert kingdoms, training noble steeds and wild beasts, growing wealthy from the patronage of desert lords and merchant princes.
+After Ashenbrand they called him the Whisperer, and for twenty years he went where the difficult animals were: the horses of desert lords, the beasts of merchant princes, anything that had hurt someone and was too valuable to kill. He made money at it, and a name.
 
 ### Settlement and Complication
 
-Now in his middle years, Bazûdar has settled in a semi-permanent way, establishing himself as the primary animal trainer for the Khazryn farming communities. He has built a reputation for impossible feats—calming fractious oxen, training desert dogs, doctoring sick animals using herbal knowledge passed down through generations. Yet settlement has brought complications. The modern farming community increasingly demands efficiency and profit over the careful, time-intensive relationship-building that Bazûdar considers essential to proper animal work. He finds himself frequently at odds with younger farmers, Town Administrator **Magister Caldus**, and modernizing forces that view his methods as antiquated.
+He has settled now, or nearly, as the trainer the Khazryn farming communities call for anything they cannot manage themselves — an ox that will not be yoked, dogs for the desert, a sick animal the herb-women have given up on. Settlement has its own trouble. The farms want speed and profit, and his way takes weeks of doing nothing visible before the animal is ready to be asked. The younger farmers think him slow. Town Administrator **Magister Caldus** thinks him an obstacle, and says so.
 
 ## Psyche
 
 ### Personality
 
-Bazûdar is taciturn and contemplative, a man of few words who communicates more through gesture, presence, and direct action than through speech. He is patient to the point of seeming sluggish to those unfamiliar with him, capable of standing in absolute stillness for hours, observing, absorbing information before acting. Yet those who know him recognize that this apparent passivity masks profound decisiveness—when he acts, he does so with certainty and commitment. He possesses a deep, almost spiritual connection to animals that extends to genuine empathy—he experiences animal pain and fear as his own, and cannot abide cruelty without responding. His stubbornness is legendary; once his mind is set, nearly nothing can move him.
+He says little and does not perform. Most of what he means is in where he stands and what he does with his hands. He is patient past the point that looks like idleness — he can stand still for hours, watching — and when he has seen enough he acts, all at once, without looking back. What he feels from an animal he feels as if it were his own, and he cannot watch cruelty to one without doing something about it. Once he has decided a thing, that is the end of it.
 
-He is haunted by loss—the deaths of animals under his care, and the perpetual sense that the world is moving too quickly, abandoning the old ways and relationships that he considers sacred. There is a melancholy to him, a sense that he is an anachronism, clinging to values that the younger generation no longer understands or values.
+He carries his losses: the animals that died under his care, and the sense that the world is going faster than the old relationships can follow. He thinks of himself as a man left over from something, holding to values the young do not want.
 
 ### Motivation
 
-Bazûdar is driven by a desire to preserve the ancient relationship between human and animal that predates civilization's mechanization—the covenant of care and trust that he believes reflects the highest good. He works to train animals in ways that honor their nature rather than merely forcing their obedience. He seeks to prove that the old ways remain relevant, that patience and relationship can accomplish what force and haste cannot. Beneath this noble motivation lies a personal grief: he works with animals partly because they are easier than humans, because they respond to sincerity in ways that people have grown too complex to match. He fears that he is preserving a world that is already dead, and that his life's work will be forgotten within a generation of his death.
+The old covenant between people and animals — care given, trust returned — which he thinks is the best thing the desert peoples ever made, and which he watches being replaced by haste and the whip. He trains so that the animal's nature is honoured rather than broken, and wants to prove that patience does what force cannot. There is grief in it: animals answer honesty, and people have grown too complicated to. He is afraid the world he is keeping is already dead, and that a generation after him nobody will remember there was another way.
 
 ### Strengths
 
-- **Supernatural Way with Animals**: Animalcraft (16), the pinnacle of his skills, represents a near-magical affinity for understanding and working with creatures. He can calm the most dangerous animals, diagnose illnesses through subtle behavioral cues, and establish bonds that make animals willing to endure hardships for him. His empathetic connection to animal nature is genuinely exceptional.
-
-- **Exceptional Endurance and Strength**: Endurance (15) and Strength (14) grant him physical resilience that allows him to work full days under punishing desert conditions without faltering. He can overpower most human opponents through sheer physical power and toughness.
-
-- **Mastery of Practical Survival**: Survival (13), Herblore (12), Riding (13), and Jumping (12) make him extraordinarily capable in harsh environments. He can navigate deserts that would kill ordinary travelers, locate water, treat injuries with herbal remedies, and move across difficult terrain with surprising grace for his size.
-
-- **Skilled Craftsperson**: Metalcraft (12) and Hideworking (11) allow him to repair equipment, create bridles and saddles, and maintain the tools of his trade. He is self-sufficient and rarely dependent on others for his material needs.
-
-- **Ritual and Spiritual Practice**: Spirit (13) and Ritual (13) reflect his connection to the shamanic traditions of the desert peoples, allowing him to understand and participate in ceremonies that most outsiders cannot even perceive.
-
-- **Fearsome in Combat**: His Initiative (13), natural Strength and Endurance, and willingness to engage make him dangerous in direct confrontation, though he avoids violence when possible. His opponents often underestimate him until they face his physical power.
+- **Way with Animals**: He calms what nobody else can go near, reads sickness in how a beast stands, and wins a trust that will follow him into hardship.
+- **Endurance and Strength**: He works the desert day through without slowing, and few men could wrestle him down.
+- **Desert Survival**: He can cross country that kills travellers, find water, dress a wound with what grows, and move over broken ground lightly for his size.
+- **Craft**: He mends his own gear and makes his own bridles and saddles, and needs nobody for it.
+- **Ritual and Spirit**: He was raised in the desert's shamanic ways and takes part in ceremonies most outsiders cannot see.
+- **Dangerous When Roused**: He avoids a fight and is very bad news in one; people misjudge the stillness until they are on the ground.
 
 ### Weaknesses
 
-- **Poor Eloquence and Charm**: Eloquence (9) and Charm (11) are genuine liabilities. He struggles to advocate for his position verbally, and his taciturn nature can be misinterpreted as stubbornness, hostility, or incompetence. He cannot easily talk his way out of conflicts or persuade those inclined toward skepticism.
-
-- **Low Dexterity and Agility**: Dexterity (10) and Agility (10) mean he lacks the finesse of more nimble fighters. His combat style relies on strength and endurance rather than technique. Fine manipulation work is difficult for him.
-
-- **Stubborn Resistance to Change**: His refusal to adapt even when circumstances demand it is genuinely problematic. He cannot accept that the world is changing, that new methods might have value, and his inflexibility increasingly isolates him from the broader community.
-
-- **Emotional Vulnerability to Animal Suffering**: His deep empathy for animals, while admirable, is also a profound weakness. He cannot function when witnessing animal cruelty, and his emotional response can override his judgment. He is easily manipulated through threats to animals in his care.
-
-- **Social Isolation and Difficulty with Human Relationships**: His preference for animal company leaves him emotionally isolated. He has few genuine human friendships, and his inability to communicate clearly makes intimate relationships nearly impossible. His loneliness is profound.
+- **No Gift for Words**: He cannot argue his case, and his silence is taken for stubbornness, hostility or stupidity by people who want an answer.
+- **Not Nimble**: He fights with weight, not technique, and fine work with his hands is hard for him.
+- **Will Not Change**: He cannot accept that a new method might have anything in it, and it costs him allies every year.
+- **Emotional Vulnerability to Animal Suffering**: Hurt an animal in front of him and his judgement goes; threaten one in his care and he can be made to do almost anything.
+- **Isolation**: He prefers animals, has few human friends, and cannot say the things a close bond is made of. He is very lonely.
 
 ## Social
 
 ### Patrons
 
-- **Desert Lord Malik Shadowstep**: A wealthy noble who has employed Bazûdar for two decades to manage his prized herd of racing camels. Malik respects Bazûdar's methods and pays generously, providing one of his most reliable sources of income and social legitimacy.
-
-- **Mistress Arah of the Cooperative**: The leading figure of the Farmers' Cooperative, Arah recognizes Bazûdar's value and defends him against critics, though even her patience is sometimes tested by his inflexibility.
-
-- **The Village Healer Senna**: An older woman who has recognized that Bazûdar is fundamentally lonely and has made subtle attempts to include him in village social life. She brings him meals occasionally and treats his injuries, maternal in her concern without being patronizing.
+- **Desert Lord Malik Shadowstep**: A rich noble whose racing camels he has managed for twenty years. Malik respects his methods, pays well, and is the steadiest thing in his life.
+- **Mistress Arah of the Cooperative**: The leading voice of the Farmers' Cooperative, who knows what he is worth and defends him from his critics, when her patience holds.
+- **The Village Healer Senna**: An older woman who saw that he was lonely and has quietly made room for him — a meal now and then, his injuries seen to, and no fuss about it.
 
 ### Enemies
 
-- **Magister Caldus**: The ambitious Town Administrator who views Bazûdar's traditional methods as an obstacle to progress and modernization. Caldus has been quietly working to impose regulations that would force Bazûdar to adopt new training techniques and potentially strip him of his authority. Caldus is also motivated by jealousy—Bazûdar commands more genuine respect than Caldus despite his lower social status.
-
-- **The Merchant Combine of the North**: A faction of wealthy merchants pushing for industrialized animal breeding and training methods to increase productivity. They view Bazûdar as a dangerous impediment to progress and have commissioned Magister Caldus to develop policies that would eliminate his influence.
-
-- **Rival Trainer Vex Ironhoof**: A younger animal trainer who has adopted harsh, forceful methods that produce quick results. Vex views Bazûdar as weak and outdated, and their ideological conflict has become personal. Vex deliberately undercuts Bazûdar's prices and spreads rumors that his methods are ineffective.
+- **Magister Caldus**: The Town Administrator, ambitious and modernising, who has been drafting rules that would force new training methods on him and take away his standing. He also envies the respect Bazûdar has and he does not.
+- **The Merchant Combine of the North**: Rich merchants pushing for animals bred and trained by the fastest methods in the largest numbers. They have paid Caldus to write Bazûdar out.
+- **Rival Trainer Vex Ironhoof**: A younger trainer whose harsh methods get quick results. He calls Bazûdar soft and old, undercuts his prices, and spreads word that the patient way does not work.
 
 ### Affiliations
 
-- **The Farmers' Cooperative of Khazryn**: Bazûdar holds membership and the respect of most members, though the organization is increasingly divided between traditionalists who support him and modernizers who view him as an impediment.
-
-- **The Desert Shamanic Circle**: An informal collective of spiritual practitioners who maintain the ancient traditions of desert magic and ritual. Bazûdar participates in their ceremonies, though his primary commitment remains his work with animals rather than explicit magical practice.
+- **The Farmers' Cooperative of Khazryn**: A member, respected by most of it, and the point on which it is splitting between those who want the old ways and those who want him gone.
+- **The Desert Shamanic Circle**: The keepers of the desert's old rites, whose ceremonies he attends. His work is with animals, not with magic, but the two have never been separate for him.
 
 ## Plot Hooks
 
-1. **The Plague of Unnatural Aggression**: Animals throughout the region begin behaving in aberrant ways—normally docile creatures become violently aggressive, herd animals refuse to eat, and wild creatures encroach on settlements in ways that suggest coordinated malevolence. The conventional experts attribute this to disease or mismanagement, but Bazûdar senses something darker at work. Investigation reveals that a dark practitioner has placed a curse upon the animals, and only Bazûdar's unique understanding of animal nature can identify and counter it. Breaking the curse will require shamanic work and potentially alliances with practitioners he distrusts.
+1. **The Plague of Unnatural Aggression**: Across the region docile animals have turned savage, herds will not eat, and wild beasts are coming into the settlements as if directed. The experts say disease, or bad management. He says a curse, and he can feel it. Breaking it will take shamanic work and the help of practitioners he does not trust.
 
-2. **The Foal With Impossible Lineage**: A pregnant mare in Lord Malik's care gives birth to a foal of obviously impossible parentage—it bears no resemblance to any known horse breed, with unusual coloration and features that suggest something other than mundane livestock. Some suspect sorcery or demonic influence; others propose it as a sign of divine intervention or evolutionary transformation. Bazûdar becomes obsessed with understanding and protecting this unique creature, which attracts the attention of multiple factions all wishing to exploit the foal for their own purposes—merchants seeking profit, religious authorities suspecting heresy, sorcerers seeking arcane power.
+2. **The Foal With Impossible Lineage**: A mare in Lord Malik's care has dropped a foal that is not any horse there is — the colour is wrong, the shape is wrong, and there is something in the way it looks at people. Sorcery, a demon, a god's sign, or something new: the arguments have begun, and merchants, priests and sorcerers all want it. Bazûdar means to keep it alive.
 
-3. **The Rebellion Against Modernization**: As Magister Caldus moves forward with regulations designed to end traditional animal training, Bazûdar finds himself reluctantly positioned as the leader of a broader resistance movement against modernization. Younger farmers and traditionalists look to him for leadership, yet his own resistance to organization and public engagement makes him a poor figurehead. He must decide whether to step into an explicitly political role or allow the movement to fragment without his guidance.
+3. **The Rebellion Against Modernization**: Caldus's rules are coming, and the younger farmers who hate them and the old ones who fear them have started looking to Bazûdar, who cannot make a speech and has never wanted to lead anyone. If he refuses, the resistance breaks apart. If he accepts, he is a public man, which is the one thing he has always avoided.
 
-4. **The Wasting Sickness**: An animal dear to Bazûdar—perhaps Ashenbrand in his old age, or a younger creature that has become symbolic of his work—develops a mysterious wasting sickness that resists both conventional veterinary treatment and his herbal knowledge. To save the animal's life, he must undertake a dangerous quest to locate a legendary healer or a mythical plant, requiring him to journey beyond the familiar desert into territories he fears and doesn't understand.
+4. **The Wasting Sickness**: An animal he loves — old Ashenbrand, perhaps, or a younger beast that has come to stand for his whole work — is wasting with something neither the physicians nor his own herb-lore can touch. The cure, if there is one, is a healer out of legend or a plant that grows past the edge of the desert, in country he has never trusted.
 
-5. **The Child Who Speaks to Animals**: A young orphan arrives in the settlement claiming to possess the same gift as Bazûdar—the ability to communicate with animals in ways that transcend ordinary training. Bazûdar is confronted with the possibility of training an apprentice and potentially passing on his knowledge, yet the child's presence also attracts dangerous attention from sorcerers and others who covet such gifts. Bazûdar must protect the child while deciding whether to risk emotional investment in another human being after a lifetime of preferring animal company.
+5. **The Child Who Speaks to Animals**: An orphan has come to the settlement with his gift, or something like it, and the same people who would like Bazûdar's gift for themselves have noticed. He could teach the child. It would mean caring about a human being again, and standing between the child and the sorcerers who want it.
