@@ -587,23 +587,23 @@ sohl:
 
 ![[klxnsprklvs|Kallíxenos Paraklávos]]{float: top-left}
 
-Kallíxenos stands 5'7" tall with a medium build. He has light weathered skin, gray hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a pointed chin, well-defined lips, strong brows, prominent cheeks.
+Kallíxenos stands 5'7" tall with a medium build. He has light weathered skin, gray hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a pointed chin, well-defined lips, strong brows, and prominent cheeks.
 
 # Dossier {#dossier}
 
 Born the son of a successful merchant, Kallíxenos showed early aptitude for rhetoric and logic. His family secured him apprenticeship with **Advocate Lysander**, the most feared litigant in the Byzarian League's commercial courts. Lysander was a harsh master but brilliant, training Kallíxenos in the arts of argumentation, negotiation, and the complex web of commercial law that governed the League.
 
-By his early twenties, Kallíxenos had established himself as a formidable advocate, known for his ability to find previously unnoticed clauses in contracts and his uncanny ability to sway juries through precise logic presented with devastating eloquence. Over the next two decades, he built an empire of influence, representing major merchant houses, shipping enterprises, and craftsmen's guilds. He accumulated wealth, power, and knowledge of the League's secrets—information that could destroy lesser figures.
+By his early twenties, Kallíxenos had established himself as a feared advocate, known for his ability to find previously unnoticed clauses in contracts and his uncanny ability to sway juries through precise logic presented with devastating eloquence. Over the next two decades, he built an empire of influence, representing major merchant houses, shipping concerns, and craftsmen's guilds. He accumulated wealth, power, and knowledge of the League's secrets—information that could destroy lesser figures.
 
-Five years ago, he was brought before the council accused of using improper methods to win cases. The accusation was carefully orchestrated by a rival advocate and a merchant house he had defeated in court. Rather than face the scandal, Kallíxenos accepted a settlement that required him to step back from directly arguing cases. Now forty-five, he serves primarily as a strategic advisor and mentor to younger litigants, still wielding considerable power behind the scenes, though with somewhat diminished public prominence. The experience left him bitter about the capriciousness of reputation and honor in commercial society.
+Five years ago, he was brought before the council accused of using improper methods to win cases. The accusation was carefully orchestrated by a rival advocate and a merchant house he had defeated in court. Rather than face the scandal, Kallíxenos accepted a settlement that required him to step back from directly arguing cases. Now forty-five, he acts primarily as an advisor and mentor to younger litigants, still wielding considerable power behind the scenes, though with somewhat diminished public prominence. The experience left him bitter about the capriciousness of reputation and honor in commercial society.
 
 ## Psyche
 
 ### Personality
 
-Kallíxenos is professionally charming—intelligent, thoughtful, and capable of making anyone feel valued during conversation. He is an excellent listener, remembering details that others forget, using this information to build rapport and leverage. He mentors younger advocates with genuine dedication, believing he is grooming the next generation of legal minds who will surpass him.
+Kallíxenos is charming by trade—intelligent, thoughtful, and capable of making anyone feel valued during conversation. He is an excellent listener, remembering details that others forget, using this information to build trust and a hold over people. He mentors younger advocates with real dedication, believing he is grooming the next generation of legal minds who will surpass him.
 
-However, beneath this affability lies deep cynicism. He views the legal system as fundamentally corrupt, commerce as inherently predatory, and most people as fundamentally self-interested. He manipulates and maneuvers constantly, finding it almost impossible to trust anyone completely. His relationships with those close to him are cordial but carefully controlled, never truly open. The forced reduction in his public role was a humiliation he has not entirely processed, and it has hardened what was already a somewhat cold personality.
+The affability covers a deep cynicism. He views the courts as fundamentally corrupt, commerce as inherently predatory, and most people as fundamentally self-interested. He manipulates and maneuvers constantly, finding it almost impossible to trust anyone completely. His relationships with those close to him are cordial but carefully controlled, never truly open. The forced reduction in his public role was a humiliation he has not entirely come to terms with, and it has hardened what was already a somewhat cold personality.
 
 ### Motivation
 
@@ -611,27 +611,27 @@ Kallíxenos is driven by the desire to regain his prominent position within the 
 
 ### Strengths
 
-- **Master of Law**: His Law skill at 16 (with 5 multipliers) and Reasoning at 18 make him unparalleled in understanding the letter and spirit of commercial contracts and regulations. He can find loopholes others miss.
-- **Exceptional Orator**: His Discourse at 17 and Eloquence at 15 allow him to present arguments with compelling clarity that sways juries and negotiating partners alike.
-- **Strategic Thinker**: His combination of high Reasoning, Will, and extensive practical experience makes him able to plan complex strategies multiple moves in advance.
-- **Networked**: His decades in the League have given him connections throughout the business community. Few merchants or advocates operate without considering his potential involvement or opposition.
-- **Diplomatic Protocol**: His high Heraldry and Folklore scores make him well-versed in proper procedure and tradition, allowing him to work within (and sometimes exploit) formal structures.
+- **Master of Law**: His law skill, with five multipliers, and his reasoning make him without equal in understanding the letter and spirit of commercial contracts and regulations. He can find loopholes others miss.
+- **Exceptional Orator**: His discourse and eloquence allow him to present arguments with compelling clarity that sways juries and negotiating partners alike.
+- **Strategic Thinker**: His combination of strong reasoning, will, and extensive practical experience makes him able to plan complex campaigns many moves in advance.
+- **Networked**: His decades in the League have given him connections throughout the merchant houses. Few merchants or advocates operate without considering his potential involvement or opposition.
+- **Diplomatic Protocol**: His heraldry and folklore make him well-versed in proper procedure and tradition, allowing him to work within (and sometimes exploit) formal structures.
 
 ### Weaknesses
 
 - **Overly Rigid Analysis**: His reliance on logical analysis sometimes prevents him from understanding or accepting that people are motivated by emotion as much as reason. He dismisses unconventional approaches without fully considering them.
-- **Limited Physical Capability**: His Strength of 10 and Agility of 9 leave him vulnerable in physical confrontation. He is entirely dependent on others for protection.
+- **Limited Physical Capability**: His weak strength and poor agility leave him vulnerable in physical confrontation. He is entirely dependent on others for protection.
 - **Burned Bridges**: His cynicism and occasional betrayal of allies in pursuit of advantage have created enemies. Not everyone he has defeated remains friendly.
 - **Political Vulnerability**: His forced reduction in prominence remains a sore subject, and his enemies could potentially orchestrate another scandal if given the opportunity.
-- **Isolation**: His inability to truly trust others means he lacks the kind of genuine allies who would support him unconditionally in a crisis.
+- **Isolation**: His inability to truly trust others means he lacks the kind of true allies who would support him unconditionally in a crisis.
 
 ## Social
 
 ### Patrons
 
 - **The Litigant's Guild**: Official organization that still employs him in advisory capacity, though his role is more limited than in his glory days.
-- **Lord Merchant Vasilis**: A major trader whose commercial interests Kallíxenos has protected through countless lawsuits, maintaining a mutually beneficial relationship of considerable depth.
-- **The Byzarian Consortium of Shipping Merchants**: A trade organization that regularly seeks his counsel on matters of regulatory compliance and competitive advantage.
+- **Lord Merchant Vasilis**: A major trader whose commercial interests Kallíxenos has protected through countless suits at law, maintaining a mutually beneficial relationship of considerable depth.
+- **The Byzarian Consortium of Shipping Merchants**: A trade organization that regularly seeks his counsel on the League's trade rules and how to turn them against rivals.
 
 ### Enemies
 
@@ -640,17 +640,17 @@ Kallíxenos is driven by the desire to regain his prominent position within the 
 
 ### Affiliations
 
-- **The Litigant's Guild of Byzaría**: Official organization governing advocates and commercial law representatives.
+- **The Litigant's Guild of Byzaría**: Official organization governing advocates and pleaders in commercial law.
 - **The Council of Master Advocates**: Informal organization of senior litigants who meet to discuss precedent and strategy, though Kallíxenos's position within it has weakened.
 
 ## Plot Hooks
 
-1. **The Incriminating Evidence**: A clerk from Kallíxenos's earlier career arrives with evidence that some of his greatest victories were achieved through technically illegal methods—suppressed witnesses, forged documents, corrupted judges. The clerk is either blackmailing him or has been sent by rivals. Kallíxenos must determine the truth while protecting his legacy and considering whether justice might actually require that he face consequences for past actions.
+1. **The Incriminating Evidence**: A clerk from Kallíxenos's earlier years arrives with evidence that some of his greatest victories were achieved through technically illegal methods—suppressed witnesses, forged documents, corrupted judges. The clerk is either blackmailing him or has been sent by rivals. Kallíxenos must determine the truth while protecting his legacy and considering whether justice might actually require that he face consequences for past actions.
 
-2. **The Impossible Defense**: A client approaches Kallíxenos with a seemingly unwinnable case—they are accused of a crime that carries automatic forfeiture of all property and exile. The evidence against them appears overwhelming, but Kallíxenos realizes the accusation is politically motivated, meant to eliminate a rival of someone powerful. He must decide whether to take the case knowing that success might make powerful enemies and that the financial reward will never justify the risk.
+2. **The Impossible Defense**: A client approaches Kallíxenos with a seemingly unwinnable case—they are accused of a crime that carries automatic forfeiture of all property and exile. The evidence against them appears overwhelming, but Kallíxenos realizes the accusation is politically motivated, meant to eliminate a rival of someone powerful. He can take the case knowing that success might make powerful enemies and that the fee will never justify the risk, or turn it away.
 
-3. **The Successor's Rebellion**: A young advocate he mentored approaches him with evidence that his own mentor, **Advocate Lysander**, was corrupt and used illegal methods even more egregiously than Kallíxenos himself. The question becomes whether Kallíxenos will help cover up this truth (protecting his own reputation as Lysander's student) or expose it (potentially undermining the entire foundation of his career and credentials).
+3. **The Successor's Rebellion**: A young advocate he mentored approaches him with evidence that his own mentor, Advocate Lysander, was corrupt and used illegal methods even more egregiously than Kallíxenos himself. The question becomes whether Kallíxenos will help cover up this truth (protecting his own reputation as Lysander's student) or expose it (potentially undermining the entire foundation of his standing and training).
 
-4. **Demetrius's Fall**: Evidence emerges that **Advocate Demetrius**, his rival, orchestrated the scandal against Kallíxenos and is currently engaged in even more serious corruptions. Kallíxenos has the means to destroy him through legal action—but doing so would require him to expose evidence that would also implicate him in the original scandal. He must choose between revenge and self-preservation.
+4. **Demetrius's Fall**: Evidence emerges that Advocate Demetrius, his rival, orchestrated the scandal against Kallíxenos and is currently engaged in even more serious corruptions. Kallíxenos has the means to destroy him through legal action—but doing so would require him to expose evidence that would also implicate him in the original scandal. The choice is between revenge and self-preservation.
 
-5. **The Shadow Counsel**: An anonymous patron offers Kallíxenos extraordinary compensation to serve as legal advisor to a merchant operation that appears legitimate on the surface but whose true operations clearly venture into criminal activity. The work is intellectually stimulating, the pay is life-changing, and the patron knows enough about his past indiscretions to ensure compliance. Kallíxenos must decide whether to accept and risk becoming entangled with genuine criminality, or refuse and face exposure of his secrets.
+5. **The Shadow Counsel**: An anonymous patron offers Kallíxenos extraordinary payment to act as legal advisor to a merchant operation that appears legitimate on the surface but whose true operations clearly venture into criminal activity. The work is intellectually stimulating, the pay is life-changing, and the patron knows enough about his past indiscretions to compel obedience. Kallíxenos can accept and risk becoming entangled with outright crime, or refuse and face exposure of his secrets.

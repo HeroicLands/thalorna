@@ -16,12 +16,12 @@ data:
     - humanflk
   parents:
     - ankrscntnnt
-  # borders:
-  #   - { to: khzryndsrtrgn, bearing: NE }
-  #   - { to: vedyarargn, bearing: SE }
-  #   - { to: takheperurgn, bearing: SW }
-  #   - { to: khstmhttrgn, bearing: SW }
-  #   - { to: vylarianse, bearing: W }
+  borders:
+    - { to: khzryndsrtrgn, bearing: NE }
+    - { to: vedyarargn, bearing: SE }
+    - { to: takheperurgn, bearing: SW }
+    - { to: khstmhttrgn, bearing: SW }
+    - { to: vylarianse, bearing: W }
   population: null
 terran_analog: "Jordan, Sinai, the Arabian Peninsula, Iraq, Iran, Turkmenistan, Afghanistan, and Pakistan — the Persian-and-Arabian world. The Sultanate of Amradad occupies the Anatolian-Caucasian northwestern corner; the rest of the region is Bedouin tribal desert through Persianate plateau and Pashtun-Baloch frontier."
 packFolder: dunhara

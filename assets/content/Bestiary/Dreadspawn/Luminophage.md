@@ -224,7 +224,7 @@ A soft, pulsing radiance emanates from the shadows overhead—beautiful and hypn
 
 # Dossier {#dossier}
 
-Luminophages are parasitic predators that haunt deep, lightless places—caverns, sunken ruins, and the abyssal depths of underground waters. They have evolved to weaponize light itself, using bioluminescence as both lure and feeding mechanism. When they find a chamber, they settle into the ceiling or walls and wait with preternatural patience for wanderers drawn to their glow; once prey draws close enough, the creature strikes with lethal precision, paralyzing its victim with neurotoxic venom while slowly draining its life force and absorbing any light sources in the area, leaving survivors in absolute darkness.
+Luminophages are parasitic predators that haunt deep, lightless places—caverns, sunken ruins, and the abyssal depths of underground waters. They have made light itself a weapon, using bioluminescence as both lure and feeding mechanism. When they find a chamber, they settle into the ceiling or walls and wait with preternatural patience for wanderers drawn to their glow; once prey draws close enough, the creature strikes with lethal precision, paralyzing its victim with neurotoxic venom while slowly draining its life force and absorbing any light sources in the area, leaving survivors in absolute darkness.
 
 ## Presentation
 
@@ -242,7 +242,7 @@ A Luminophage begins an encounter by intensifying its glow, attempting to mesmer
 
 ### Needle Strike
 
-The creature's appendages lash out with surgeon-like precision, driving clusters of venomous proboscises into exposed flesh. These attacks are remarkably accurate, made more so by the creature's exceptional hand-eye coordination.
+The creature's appendages lash out with surgeon-like precision, driving clusters of venomous proboscises into exposed flesh. These attacks are accurate, made more so by the precision with which the creature guides its appendages.
 
 ### Paralytic Venom Injection
 
@@ -252,11 +252,11 @@ Successful needle strikes inject a potent neurotoxin that spreads rapidly throug
 
 ### Bioluminescent Lure
 
-The creature's hypnotic glow can fascinate weaker-minded targets, compelling them to approach despite conscious misgivings. Those with strong will or high reasoning can resist the compulsion, but others find themselves drawn inexorably forward.
+The creature's hypnotic glow can fascinate weaker-minded targets, compelling them to approach despite conscious misgivings. Those of strong will or clear mind can resist the compulsion, but others find themselves drawn inexorably forward.
 
 ### Light Absorption
 
-Luminophages drain the luminous energy from any light source they can reach, extinguishing flames, dimming magical light, and converting the absorbed energy into their own bioluminescence. A torch can be drained in a single round.
+Luminophages drain the luminous energy from any light source they can reach, extinguishing flames, dimming magical light, and converting the absorbed energy into their own bioluminescence. A torch can be drained in moments.
 
 ### Darkness Adaptation
 
@@ -264,7 +264,7 @@ The creature sees perfectly in absolute darkness and moves as easily in the blac
 
 ## Additional Information
 
-Fire poses the greatest threat to a Luminophage—flames damage its translucent body directly and overwhelm its sensory systems, causing it to withdraw. Its venom can be extracted and preserved in ceramic vessels, and alchemists prize it for medicinal purposes or the creation of poisons. The chitin plates along its back, when harvested carefully, can be fashioned into armor or magical foci that retain faint bioluminescent properties for years. Some isolated communities have learned to trap Luminophages in light-filled chambers, where the creatures become docile and can be contained; a few mad scholars keep them as living lanterns, accepting the constant threat of paralysis as the price of endless illumination.
+Fire poses the greatest threat to a Luminophage—flames damage its translucent body directly and overwhelm its senses, causing it to withdraw. Its venom can be extracted and preserved in ceramic vessels, and alchemists prize it for medicinal purposes or the creation of poisons. The chitin plates along its back, when harvested carefully, can be fashioned into armor or magical foci that retain faint bioluminescent properties for years. Some isolated communities have learned to trap Luminophages in light-filled chambers, where the creatures become docile and can be contained; a few mad scholars keep them as living lanterns, accepting the constant threat of paralysis as the price of endless illumination.
 
 ## Attributes
 

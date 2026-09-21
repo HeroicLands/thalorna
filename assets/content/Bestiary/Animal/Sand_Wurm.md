@@ -261,11 +261,11 @@ sohl:
 
 ![[sandwurm|Sand Wurm]]{float: top-left}
 
-The ground itself becomes the warning — a deep, subsonic vibration that travels up through your feet and into your bones. The sand and earth around you begins to shift, creating patterns of disturbance that shouldn't exist, as if something impossibly vast moves beneath the surface. Then, with the violence of an eruption, the ground explodes upward, and a maw of such scale and such teeth emerges that your mind struggles to comprehend it. Rough, beige scales gleam in harsh sunlight, each one the size of a shield, arranged in patterns that mimic dunes, and the creature's eyeless head sways with an awareness that seems to transcend normal senses. The smell hits — sulfur and ancient earth, the reek of a creature that has hunted for centuries. The sound is worst of all: not a roar but a hiss from deep in the throat, a sound that resonates with hunger and inevitability.
+The ground itself becomes the warning — a deep, subsonic vibration that travels up through your feet and into your bones. The sand and earth around you begins to shift, creating patterns of disturbance that shouldn't exist, as if something impossibly vast moves beneath the surface. Then, with the violence of an eruption, the ground explodes upward, and a maw of such scale and such teeth emerges that your mind struggles to comprehend it. Rough, beige scales gleam in harsh sunlight, each one the size of a shield, arranged in patterns that mimic dunes, and the creature's eyeless head sways with an awareness that seems to reach beyond ordinary senses. The smell hits — sulfur and ancient earth, the reek of a creature that has hunted for centuries. The sound is worst of all: not a roar but a hiss from deep in the throat, a sound that resonates with hunger and inevitability.
 
 # Dossier {#dossier}
 
-The Sand Wurm is an impossibly massive subterranean predator reaching lengths of 50-100 feet and diameters of 10-15 feet, found in deep deserts, badlands, and subterranean caverns where vast prey populations exist. These apex predators are virtually unstoppable underground, using tremor sense and ambush tactics to hunt creatures ranging from large animals to humanoid settlements. Adventurers encounter sand wurms rarely — encountering one is often a catastrophe that marks the end of an expedition.
+The Sand Wurm is an impossibly massive subterranean predator reaching lengths of 50-100 feet and diameters of 10-15 feet, found in deep deserts, badlands, and subterranean caverns where vast prey populations exist. These apex predators are virtually unstoppable underground, using tremor sense and ambush tactics to hunt creatures ranging from large animals to humanoid settlements. Adventurers meet sand wurms rarely — encountering one is often a catastrophe that marks the end of an expedition.
 
 ## Presentation
 
@@ -283,7 +283,7 @@ The sand wurm attacks from beneath, erupting through sand or stone to engulf pre
 
 ### Erupting Bite
 
-The sand wurm burst upward from beneath, attempting to engulf prey in its massive circular maw. If successful, the creature can swallow creatures up to horse-sized whole, drawing them down into its gullet. Even if the target is too large to swallow, the bite causes horrific injury from the concentric rows of teeth.
+The sand wurm bursts upward from beneath, attempting to engulf prey in its massive circular maw. If successful, the creature can swallow creatures up to horse-sized whole, drawing them down into its gullet. Even if the target is too large to swallow, the bite causes horrific injury from the concentric rows of teeth.
 
 ### Constricting Body
 
@@ -301,11 +301,11 @@ The sand wurm can detect vibrations in earth and sand from extraordinary distanc
 
 ### Burrow Master
 
-The sand wurm can tunnel through sand, loose earth, and even stone at remarkable speed, creating or enlarging passages as needed. The creature can disappear beneath the surface in moments, making it nearly impossible to pursue.
+The sand wurm can tunnel through sand, loose earth, and even stone at great speed, creating or enlarging passages as needed. The creature can disappear beneath the surface in moments, making it nearly impossible to pursue.
 
 ### Underground Dominance
 
-When fighting beneath sand or earth, the wurm gains overwhelming advantage. It is faster, more maneuverable, and can attack from any angle while opponents are constrained to surface movement.
+When fighting beneath sand or earth, the wurm holds every advantage. It is faster, more maneuverable, and can attack from any angle while opponents are constrained to surface movement.
 
 ### Massive Strength
 
@@ -313,7 +313,7 @@ A creature of such size possesses strength far beyond any land-based predator. T
 
 ### Regenerative Capacity
 
-The wurm's body heals with remarkable speed, recovering from wounds that would cripple other creatures. Even severe injuries close within days or weeks.
+The wurm's body heals quickly, recovering from wounds that would cripple other creatures. Even severe injuries close within days or weeks.
 
 ### Swallowing Capacity
 
@@ -321,7 +321,7 @@ The wurm's throat is capable of swallowing creatures whole without damage to the
 
 ### Additional Information
 
-Sand Wurms are territorial and will avoid areas where multiple wurms have claimed territory, as intrusion results in lethal combat. The creatures' presence in a region effectively prevents normal settlement or travel — trade routes must be rerouted to avoid known wurm territories. A sand wurm that has successfully hunted a humanoid settlement will return to that location, making the settlement temporarily uninhabitable. The creatures' scales can be harvested after death and used to create extraordinary armor or defensive architecture, making a dead wurm an enormous resource. Some rare humanoid cultures have learned to coexist with sand wurms through careful territory management and avoidance patterns.
+Sand Wurms are territorial and will avoid areas where multiple wurms have claimed territory, as intrusion results in lethal combat. The creatures' presence in a region effectively prevents normal settlement or travel — trade routes must be rerouted to avoid known wurm territories. A sand wurm that has successfully hunted a humanoid settlement will return to that location, making the settlement temporarily uninhabitable. The creatures' scales can be harvested after death and used to create extraordinary armor or defensive architecture, making a dead wurm an enormous resource. Some rare humanoid cultures have learned to coexist with sand wurms by carefully keeping clear of their territories.
 
 ## Attributes
 

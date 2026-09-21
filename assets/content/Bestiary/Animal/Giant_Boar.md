@@ -381,15 +381,15 @@ The boar uses its massive body weight as a weapon, simply bowling over enemies o
 
 ### Thick Hide
 
-The boar’s hide is tough and resistant to slashing weapons, though it provides less protection against piercing attacks aimed at vulnerable points. A knife or spear can find the softer underside or the region behind the front leg.
+The boar’s hide is tough and turns a blade’s edge, though it provides less protection against a thrust aimed at vulnerable points. A knife or spear can find the softer underside or the region behind the front leg.
 
 ### Charge Momentum
 
-When the boar has space to build speed, its charge becomes devastating—the longer the run-up, the more damage the tusk strike does. A boar charging across open ground is far more dangerous than one engaged in tight quarters.
+When the boar has space to build speed, its charge becomes devastating—the longer the run-up, the more damage the tusk strike does. A boar charging across open ground is much more dangerous than one engaged in tight quarters.
 
 ## Additional Information
 
-A giant boar’s territory can be traversed safely if one understands boar behavior and respects territorial markers. Most boars will abandon a charge if the target can reach thick enough brush or get behind an obstacle. A boar’s tusks are valuable, and its hide makes excellent leather. Some hunters make their reputation on successfully taking a giant boar solo—it is genuinely dangerous work.
+A giant boar’s territory can be traversed safely if one understands boar behavior and respects territorial markers. Most boars will abandon a charge if the target can reach thick enough brush or get behind an obstacle. A boar’s tusks are valuable, and its hide makes excellent leather. Some hunters make their reputation on successfully taking a giant boar solo—it is dangerous work.
 
 ## Attributes
 

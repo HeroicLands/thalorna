@@ -589,23 +589,23 @@ sohl:
 
 ![[lmnshd|Luminshade]]{float: top-left}
 
-Where there is light, a shadow moves against it. Where there is darkness, a pale luminescence blooms. The figure is beautiful in the way that the edge of a knife is beautiful—precise, dangerous, and utterly indifferent to your perception of it. Its form shifts between solid and translucent, and the longer you look at it, the harder it is to determine what you're actually seeing.
+Where there is light, a shadow moves against it. Where there is darkness, a pale luminescence blooms. The figure is beautiful in the way that the edge of a knife is beautiful—precise, dangerous, and indifferent to your perception of it. Its form shifts between solid and translucent, and the longer you look at it, the harder it is to determine what you're actually seeing.
 
 # Dossier {#dossier}
 
-Luminshades are paradox creatures born where light and shadow meet in unusual proportion. They exist in the liminal spaces between day and night, in reflective surfaces and the gaps between stars. Unlike most spirits, they are not inherently malevolent, but their nature makes them incomprehensible to humans. A Luminshade may observe humans for months with no hostile intent, studying them as a scholar might study insects. Alternatively, it may decide on a whim that a particular person must be removed. They sometimes serve as agents or messengers for more powerful entities, though their loyalty is questionable and their terms often incomprehensible.
+Luminshades are paradox creatures born where light and shadow meet in unusual proportion. They exist in the liminal spaces between day and night, in reflective surfaces and the gaps between stars. Unlike most spirits, they are not inherently malevolent, but their nature makes them incomprehensible to humans. A Luminshade may observe humans for months with no hostile intent, studying them as a scholar might study insects. Alternatively, it may decide on a whim that a particular person must be removed. They sometimes act as agents or messengers for more powerful entities, though their loyalty is questionable and their terms often incomprehensible.
 
 ## Presentation
 
-A Luminshade is roughly human-shaped but clearly not human. Its body is composed of light and shadow in perfect balance—neither predominates, and both seem to shift independently. It stands about six feet tall, with limbs that are too long and graceful, and movements that seem to flow rather than step. Its face is smooth and featureless except for two points of luminescence where eyes should be—sometimes bright, sometimes dark, sometimes shifting between colors. The creature is semi-transparent, and through its body, the background becomes visible yet distorted, as if you are seeing the world through warped glass. It leaves no shadow when standing in light, and casts no glow when standing in darkness.
+A Luminshade is roughly human-shaped but clearly not human. Its body is composed of light and shadow in perfect balance—neither predominates, and both seem to shift independently. It stands about six feet tall, with limbs that are too long and graceful, and movements that seem to flow rather than step. Its face is smooth and featureless except for two points of luminescence where eyes should be—sometimes bright, sometimes dark, sometimes shifting between colors. The creature is semi-transparent, and through its body, the background becomes visible yet distorted, as if the world were seen through warped glass. It leaves no shadow when standing in light, and casts no glow when standing in darkness.
 
 ## Key Behaviors
 
-Luminshades are curiosity-driven beings. They are drawn to places of change—battlefields, cities growing or shrinking, the boundaries between realms. They often appear at twilight or in places where light interacts strangely with architecture (mirrors, glass, water). Some scholars believe Luminshades are collectors of memories or moments, gathering impressions of events they find aesthetically interesting. A Luminshade may protect a location it finds beautiful, or destroy one it finds ugly, with no regard for the humans inhabiting it. They do not hunt for food and do not require sleep. Their motivations, if they exist, are utterly alien.
+Luminshades are curiosity-driven beings. They are drawn to places of change—battlefields, cities growing or shrinking, the boundaries between realms. They often appear at twilight or in places where light interacts strangely with architecture (mirrors, glass, water). By one account, Luminshades are collectors of memories or moments, gathering impressions of events they find aesthetically interesting. A Luminshade may protect a location it finds beautiful, or destroy one it finds ugly, with no regard for the humans inhabiting it. They do not hunt for food and do not require sleep. Their motivations, if they exist, are alien.
 
 ## Combat Strategy
 
-Luminshades fight with creative, almost playful violence if forced into combat. They use their control over light and shadow to create confusion, with the goal of making combat more interesting rather than more efficient. They may refuse to fight a boring opponent, or press harder against a worthy one. They are not cowardly but they are vain; disabling their light-form can frustrate them enough to make them careless. They often disengage combat not from injury but from boredom, deciding the encounter is no longer aesthetically interesting.
+Luminshades fight with creative, almost playful violence if forced into combat. They use their control over light and shadow to create confusion, with the goal of making combat more interesting rather than ending it quickly. They may refuse to fight a boring opponent, or press harder against a worthy one. They are not cowardly but they are vain; disabling their light-form can frustrate them enough to make them careless. They often break off a fight out of boredom rather than injury, deciding the encounter is no longer aesthetically interesting.
 
 ## Attack Methods
 
@@ -629,7 +629,7 @@ With equal finesse, the creature can manipulate darkness—deepening shadows to 
 
 ### Translocation Through Light
 
-The Luminshade can move through reflective surfaces and directly between areas of light. It can step into a mirror and emerge from another, or move from one torch's glow to another torch's glow instantly, crossing the intervening darkness in zero time. This ability only works between light sources that the creature can see.
+The Luminshade can move through reflective surfaces and directly between areas of light. It can step into a mirror and emerge from another, or move from one torch's glow to another torch's glow instantly. This ability only works between light sources that the creature can see.
 
 ### Paradox Nature
 

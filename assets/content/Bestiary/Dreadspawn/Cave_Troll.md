@@ -618,11 +618,11 @@ The Cave Troll attacks from darkness and concealment, using its sensory advantag
 
 ### Raking Claws
 
-The troll slashes viciously with its fore-claws, attempting to tear through armor and flesh alike. Multiple claw strikes in rapid succession is the creature's preferred attack pattern.
+The troll slashes viciously with its fore-claws, attempting to tear through armor and flesh alike. Multiple claw strikes in rapid succession are the creature's preferred pattern of attack.
 
 ### Terrible Bite
 
-The troll lunges with its oversized jaw, attempting to seize and crush prey or tear away entire limbs. This bite delivers devastating trauma and—if the creature successfully grapples with prey—can be maintained across multiple rounds while the troll shakes and worries the victim.
+The troll lunges with its oversized jaw, attempting to seize and crush prey or tear away entire limbs. This bite does devastating harm and—if the creature successfully grapples with prey—can be held while the troll shakes and worries the victim.
 
 ### Shocking Roar
 
@@ -632,7 +632,7 @@ The creature emits a deafening, inarticulate howl that reverberates through cave
 
 ### Darkvision and Sensory Dominance
 
-The Cave Troll perceives its subterranean environment through a combination of acute hearing, exceptional smell, and subtle bioluminescent sight. It functions perfectly in absolute darkness and gains significant advantage in any underground environment. Light sources disorient and weaken it, imposing penalties on its perception and attack rolls when exposed to bright light.
+The Cave Troll perceives its subterranean environment through a combination of acute hearing, a keen nose, and subtle bioluminescent sight. It functions perfectly in absolute darkness and holds a significant advantage in any underground environment. Light sources disorient and weaken it; in bright light it perceives poorly and its attacks go astray.
 
 ### Regeneration
 
@@ -644,7 +644,7 @@ The Cave Troll's thin frame allows it to navigate tight cavern passages that wou
 
 ## Additional Information
 
-Cave trolls fear sunlight more than any other force—extended exposure to bright daylight can weaken and eventually kill them. They also show unusual vulnerability to fire, which prevents regeneration entirely as long as it's sustained. Most cave troll lairs are marked by the bones and torn armor of previous meals, creating a distinctive and disturbing archaeological marker. Some very old lairs have become cavern ossaries of immense depth.
+Cave trolls fear sunlight more than any other force—extended exposure to bright daylight can weaken and eventually kill them. They also show unusual vulnerability to fire, which prevents regeneration entirely as long as it's sustained. Most cave troll lairs are marked by the bones and torn armor of previous meals, creating a distinctive and disturbing sign. Some very old lairs have become cavern ossuaries of immense depth.
 
 ## Attributes
 

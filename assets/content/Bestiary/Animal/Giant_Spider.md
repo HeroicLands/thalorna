@@ -220,11 +220,11 @@ sohl:
 
 ![[gntspdr|Giant Spider]]{float: top-left}
 
-The smell reaches you first: acrid, wrong, the scent of digestive secretions and decaying flesh. You see the web before you see the creator—strands as thick as rope extending across the cavern or dense forest, catching light with an oily sheen. Then movement: something massive moving along a strand with absolute confidence, and your eyes struggle to fully process its size. The body is a bloated orb four feet across, glossy black or dark brown in color, covered in fine bristles that quiver constantly. The legs are impossibly long and articulate, jointed in ways that make your brain hurt to watch. There are eight eyes—arranged across the front of the head, each one catching light and reflecting it back with terrible intelligence. The mouth opens, revealing fangs that glisten with clear venom. The sound it makes—a skittering, clicking, rustling—is the sound of your own death approaching.
+The smell reaches you first: acrid, wrong, the scent of digestive secretions and decaying flesh. You see the web before you see the creator—strands as thick as rope extending across the cavern or dense forest, catching light with an oily sheen. Then movement: something massive moving along a strand with absolute confidence, and your eyes struggle to take in its size. The body is a bloated orb four feet across, glossy black or dark brown in color, covered in fine bristles that quiver constantly. The legs are impossibly long and articulate, jointed in ways that make your brain hurt to watch. There are eight eyes—arranged across the front of the head, each one catching light and reflecting it back with terrible intelligence. The mouth opens, revealing fangs that glisten with clear venom. The sound it makes—a skittering, clicking, rustling—is the sound of your own death approaching.
 
 # Dossier {#dossier}
 
-The Giant Spider is a masterwork of predatory evolution—a creature that has elevated web-hunting to an art form of terrible sophistication. With a body four feet in diameter and leg spans exceeding twenty feet, a single giant spider dominates a territory through webs and venom. These creatures establish vast web systems within caves, canyons, or dense forests, creating three-dimensional mazes of sticky silk that can trap creatures as large as deer or humanoids. Adventurers most commonly encounter them when entering caves, traversing deep forests, or when a web system forces them to find alternate routes.
+The Giant Spider is a predator that has raised web-hunting to a terrible art. With a body four feet in diameter and leg spans exceeding twenty feet, a single giant spider dominates a territory through webs and venom. These creatures establish vast web systems within caves, canyons, or dense forests, creating three-dimensional mazes of sticky silk that can trap creatures as large as deer or humanoids. Adventurers most commonly encounter them when entering caves, traversing deep forests, or when a web system forces them to find alternate routes.
 
 ## Presentation
 
@@ -246,21 +246,21 @@ The spider strikes with precise bites, injecting fast-acting venom designed to p
 
 ### Venom Spit
 
-The spider can eject a spray of venom-tinged webbing from its spinnerets—a sticky, paralyzing substance that coats anything in its path and entangles movement. Multiple applications compound the paralysis effect.
+The spider can eject a spray of venom-tinged webbing from its spinnerets—a sticky, paralyzing substance that coats anything in its path and entangles movement. Repeated coats deepen the paralysis.
 
 ## Special Abilities
 
 ### Web Mastery
 
-The Giant Spider can create and manipulate vast webs of exceptional strength—the silk is multiple times stronger than steel wire of equivalent thickness. The spider can move through its own web at full speed while intruders become progressively more entangled. The web is invisible in darkness and difficult to spot even in good light.
+The Giant Spider can create and manipulate vast webs of extraordinary strength—the silk is multiple times stronger than steel wire of equivalent thickness. The spider can move through its own web at full speed while intruders become progressively more entangled. The web is invisible in darkness and difficult to spot even in good light.
 
 ### Climbing Mastery
 
-The spider can move across any surface (horizontal, vertical, or even inverted) with absolute grip and confidence. It can climb at full movement speed and never risks falling.
+The spider can move across any surface (horizontal, vertical, or even inverted) with absolute grip and confidence. It can climb at full speed and never risks falling.
 
 ## Additional Information
 
-Giant Spider webs have value—the silk can be harvested and used for rope, armor reinforcement, or specialized sohl. However, harvesting silk from an active web almost always alerts the spider. A spider's venom is valuable to alchemists and can be harvested (extremely dangerously) by collectors. Fire is the spider's primary weakness—flames destroy the web and cause the creature to flee. Some characters claim spiders can be negotiated with through magical means, though such claims should be treated with deep skepticism.
+Giant Spider webs have value—the silk can be harvested and used for rope, armor reinforcement, or specialized kit. However, harvesting silk from an active web almost always alerts the spider. A spider's venom is valuable to alchemists and can be harvested (extremely dangerously) by collectors. Fire is the spider's primary weakness—flames destroy the web and cause the creature to flee. Spiders are said by some to be open to negotiation through magical means, though such claims should be treated with deep skepticism.
 
 ## Attributes
 

@@ -597,7 +597,7 @@ The swamp itself seems to rise before you—at first you think it is simply a su
 
 # Dossier {#dossier}
 
-Swampgolems are creatures of corrupted nature and malevolent animation, formed from the accumulated detritus of centuries of swamps—mud, rotting vegetation, bones of drowned creatures, and the accumulated spiritual poison of places where death is constant and life is desperate. A Swampgolem seems less alive than simply animated by the swamp itself, as though the wetland has grown a limb to lash out at those who would drain or despoil it. These creatures are found exclusively in deep marshes and ancient swamps where the water is thick and the soil is more decay than earth. They seem boundless in number—destroy one, and another seems to rise in its place weeks or months later, as though the swamp is endlessly capable of generating them.
+Swampgolems are creatures of corrupted nature and malevolent animation, formed from the accumulated detritus of centuries of swamps—mud, rotting vegetation, bones of drowned creatures, and the accumulated spiritual poison of places where death is constant and life is desperate. A Swampgolem seems animated by the swamp itself rather than alive, as though the wetland has grown a limb to lash out at those who would drain or despoil it. These creatures are found exclusively in deep marshes and ancient swamps where the water is thick and the soil is more decay than earth. They seem boundless in number—destroy one, and another seems to rise in its place weeks or months later, as though the swamp is endlessly capable of generating them.
 
 ## Presentation
 
@@ -609,7 +609,7 @@ A Swampgolem is a territorial creature, though less aggressively so than living 
 
 ## Combat Strategy
 
-A Swampgolem fights with methodical aggression, using its substantial mass and strength to deliver crushing blows rather than trying anything requiring finesse. It attempts to push opponents into deeper water or treacherous terrain where its weight is advantage and their mobility is compromised. The creature is patient, willing to wait and attack at its own pace, seemingly unaffected by prolonged combat or the passage of time. If forced to retreat, it moves toward deeper water where it becomes increasingly powerful and less vulnerable to most forms of attack.
+A Swampgolem fights with methodical aggression, using its substantial mass and strength to deliver crushing blows rather than trying anything requiring finesse. It attempts to push opponents into deeper water or treacherous terrain where its weight is an advantage and their mobility is compromised. The creature is patient, willing to wait and attack at its own pace, seemingly unaffected by prolonged combat or the passage of time. If forced to retreat, it moves toward deeper water where it becomes increasingly powerful and less vulnerable to most forms of attack.
 
 ## Attack Methods
 
@@ -633,15 +633,15 @@ So long as the Swampgolem remains in contact with water and organic material, it
 
 ### Swamp Camouflage
 
-In thick mud and murky water, a Swampgolem is extraordinarily difficult to perceive, blending completely with its surroundings. Spotting one requires exceptional perception or magical sight.
+In thick mud and murky water, a Swampgolem is extraordinarily difficult to perceive, blending completely with its surroundings. Spotting one requires a very sharp eye or magical sight.
 
 ### Terrain Mastery
 
-The Swampgolem's presence makes the swamp itself treacherous—mud becomes deeper, footing becomes uncertain, and the very ground seems to work against enemies. In swamp terrain, opponents suffer significant disadvantage to movement and balance checks.
+The Swampgolem's presence makes the swamp itself treacherous—mud becomes deeper, footing becomes uncertain, and the very ground seems to work against enemies. In swamp terrain, opponents move slowly and keep their footing with difficulty.
 
 ## Additional Information
 
-Fire is the Swampgolem's greatest weakness—flames damage its composition directly and prevent it from regenerating. Sustained heat or direct exposure to fire can destroy the creature entirely. Air-based magic is similarly effective, as are drying effects. Removing the Swampgolem to dry land causes it to weaken over time as its mud-based body slowly desiccates. The creature cannot survive indefinitely out of water and will become increasingly sluggish and weak if forced away from its swampy domain for extended periods. In communities neighboring particularly active swamp areas, preventing the formation of new Swampgolems through controlled burning or through the strategic dumping of lime and salt to poison the water is sometimes attempted—though such efforts are typically only temporary, as the swamp always seems to regenerate what was destroyed.
+Fire is the Swampgolem's greatest weakness—flames damage its composition directly and prevent it from regenerating. Sustained heat or direct exposure to fire can destroy the creature entirely. Air-based magic is similarly effective, as are drying effects. Removing the Swampgolem to dry land causes it to weaken over time as its mud-based body slowly desiccates. The creature cannot survive indefinitely out of water and will become increasingly sluggish and weak if forced away from its swampy domain for extended periods. In communities neighboring particularly active swamp areas, preventing the formation of new Swampgolems through controlled burning or through the dumping of lime and salt to poison the water is sometimes attempted—though such efforts are typically only temporary, as the swamp always seems to regenerate what was destroyed.
 
 ## Attributes
 

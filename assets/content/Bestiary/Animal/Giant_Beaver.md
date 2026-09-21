@@ -350,11 +350,11 @@ The Giant Beaver is an intelligent, industrious creature standing four feet at t
 
 ## Presentation
 
-The Giant Beaver is a powerful aquatic mammal with a body built for both water and land. Its fur is dense and waterproof, typically dark brown with hints of red or lighter undertones, and it sits wet and slick whether the creature is in or out of water. The shoulders and hindquarters are powerfully muscled, and the hind feet are partially webbed, providing propulsion in water. The front paws are smaller and more dexterous, equipped with sharp claws used for felling trees and manipulating materials. The tail is the creature's most distinctive feature—a flat, paddle-like appendage covered in scales and nearly as long as the body, used for balance, signaling, and as a powerful weapon. The head is blocky and powerful, with prominent incisors that never stop growing and are kept sharp by constant gnawing. The eyes are small and set to the sides of the head, providing good peripheral vision. The overall impression is of a creature designed for specific purpose—water, wood, and creation.
+The Giant Beaver is a powerful aquatic mammal with a body built for both water and land. Its fur is dense and waterproof, typically dark brown with hints of red or lighter undertones, and it sits wet and slick whether the creature is in or out of water. The shoulders and hindquarters are powerfully muscled, and the hind feet are partially webbed, providing propulsion in water. The front paws are smaller and more dexterous, equipped with sharp claws used for felling trees and manipulating materials. The tail is the creature's most distinctive feature—a flat, paddle-like appendage covered in scales and nearly as long as the body, used for balance, signaling, and as a powerful weapon. The head is blocky and powerful, with prominent incisors that never stop growing and are kept sharp by constant gnawing. The eyes are small and set to the sides of the head, providing good peripheral vision. The overall impression is of a creature designed for a specific purpose—water, wood, and creation.
 
 ## Key Behaviors
 
-Giant Beavers are highly intelligent and work with singular focus on constructing and maintaining their territories. A territory includes elaborate dam systems (sometimes consisting of multiple dams on a single watercourse), lodge structures that serve as homes and defensible positions, and carefully maintained foraging areas. Beavers spend much of the day gathering wood and materials, falling trees with their teeth and transporting the material through water or by dragging. They are social within family units but fiercely territorial toward other beavers. They are primarily nocturnal but will work during daylight hours if urgent construction demands it. A beaver that perceives a threat to its dam or lodge responds with immediate, focused aggression.
+Giant Beavers are highly intelligent and work with singular focus on constructing and maintaining their territories. A territory includes elaborate dam systems (sometimes consisting of multiple dams on a single watercourse), lodge structures that are homes and defensible positions, and carefully maintained foraging areas. Beavers spend much of the day gathering wood and materials, felling trees with their teeth and transporting the material through water or by dragging. They are social within family units but fiercely territorial toward other beavers. They are primarily nocturnal but will work during daylight hours if urgent construction demands it. A beaver that perceives a threat to its dam or lodge responds with immediate, focused aggression.
 
 ## Combat Strategy
 
@@ -378,7 +378,7 @@ In water, the Giant Beaver is supremely graceful and fast—it can navigate subm
 
 ### Tireless Engineering
 
-The beaver can fell trees and move materials at remarkable speed, reshaping waterways and constructing barriers. This ability is useful for trapping or isolating enemies within the beaver's territory.
+The beaver can fell trees and move materials at great speed, reshaping waterways and constructing barriers. This ability is useful for trapping or isolating enemies within the beaver's territory.
 
 ## Additional Information
 
