@@ -607,7 +607,7 @@ Sunáti stands 5'7" tall with a medium build. She has rich brown skin, black hai
 
 ### The House of Āyodhyārājavardhan
 
-Sunáti was born into the House of Āyodhyārājavardhan, one of the city-states of [[place-vedyarargn|Vedyara]]'s most prestigious courtier families. Her family has produced celebrated courtesans for four generations, each woman refined through intensive training in the arts of music, dance, conversation, and courtship. Rather than viewing this legacy as constraining, Sunáti embraced it as her path to freedom—the courtier's trade being one of the few avenues through which women of Vedyara could accumulate genuine wealth and independence.
+Sunáti was born into the House of Āyodhyārājavardhan, one of the city-states of [[affiliation-janpdsvdyr|Vedyara]]'s most prestigious courtier families. Her family has produced celebrated courtesans for four generations, each woman refined through intensive training in the arts of music, dance, conversation, and courtship. Rather than viewing this legacy as constraining, Sunáti embraced it as her path to freedom—the courtier's trade being one of the few avenues through which women of Vedyara could accumulate genuine wealth and independence.
 
 ### The Education
 
