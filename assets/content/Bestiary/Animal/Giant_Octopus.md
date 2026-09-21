@@ -265,7 +265,7 @@ The Giant Octopus is an underwater apex predator standing as one of the most int
 
 ## Presentation
 
-The Giant Octopus is a marvel of malleability and power—its body is essentially boneless, allowing it to compress through impossibly small spaces while remaining capable of exerting crushing force. The central body (mantle) is bulbous and muscular, with two large, prominent eyes set to provide excellent forward and lateral vision. The skin is covered in chromatophores that allow rapid color and pattern changes for camouflage and communication. Eight tentacles radiate from the central body, each lined with powerful suction cups and capable of independent movement and sensation. Each tentacle is functionally an arm with its own sensory organs and decision-making capability. The mouth is a hard, sharp beak capable of piercing bone, and it is surrounded by a funnel used for jet propulsion.
+The Giant Octopus is a marvel of malleability and power—its body is essentially boneless, allowing it to compress through impossibly small spaces while remaining capable of exerting crushing force. The central body (mantle) is bulbous and muscular, with two large, prominent eyes set to provide excellent forward and lateral vision. The skin is covered in chromatophores that allow rapid color and pattern changes for camouflage and communication. Eight tentacles radiate from the central body, each lined with powerful suction cups and capable of independent movement and sensation. Each tentacle is functionally an arm with its own sensory organs and a measure of its own judgement. The mouth is a hard, sharp beak capable of piercing bone, and it is surrounded by a funnel used for jet propulsion.
 
 ## Key Behaviors
 
@@ -283,7 +283,7 @@ The powerful tentacles wrap around prey and squeeze with force sufficient to cru
 
 ### Beak Bite
 
-Once prey is held by tentacles, the octopus brings it toward the central body where the hard, sharp beak can bite and pierce. The bite can crack armor, splinter bone, and cause massive trauma.
+Once prey is held by tentacles, the octopus brings it toward the central body where the hard, sharp beak can bite and pierce. The bite can crack armor, splinter bone, and cause grievous wounds.
 
 ## Special Abilities
 

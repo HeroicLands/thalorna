@@ -345,15 +345,15 @@ Small shapes move through the darkness, barely visible in the torchlight. Cave g
 
 # Dossier {#dossier}
 
-Cave goblins are a sapient species that dwells in subterranean regions, existing as both solitary hunters and loose communities depending on the abundance of food and territory. They are highly intelligent despite stereotypes, and they are neither evil nor good but rather amoral—they follow their own self-interest and the customs of their kind with utter consistency. A cave goblin encountered alone is following its own agenda; a group of cave goblins is either a family unit or an opportunistic assembly, never a structured military formation. They view other species with either indifference or as resources, and their treatment of captives varies based on whether those captives have utility or novelty.
+Cave goblins are a sapient species that dwells in subterranean regions, existing as both solitary hunters and loose communities depending on the abundance of food and territory. They are highly intelligent, and they are neither evil nor good; they are amoral—they follow their own self-interest and the customs of their kind with utter consistency. A cave goblin encountered alone is about its own business; a group of cave goblins is either a family unit or an opportunistic assembly, never a structured military formation. They view other species with either indifference or as resources, and their treatment of captives varies based on whether those captives have utility or novelty.
 
 ## Presentation
 
-Cave goblins stand three to four feet tall on average, with elongated, hunched postures that suggest evolution for underground travel. Their skin ranges from sickly gray to mottled dark green or brown, often with fungal growth or cave slime darkening patches. Their eyes are large and luminous, adapted perfectly to see in near-total darkness. Their ears are pointed and mobile, positioned to catch sounds humans miss. Their hands are long-fingered with sharp, dark nails, and their feet are splayed and callused from climbing. They typically wear cobbled-together clothing made from cave fungus leather, hide, and bone, often in tatters but surprisingly functional for their environment.
+Cave goblins stand three to four feet tall on average, with elongated, hunched postures suited to underground travel. Their skin ranges from sickly gray to mottled dark green or brown, often with fungal growth or cave slime darkening patches. Their eyes are large and luminous, adapted perfectly to see in near-total darkness. Their ears are pointed and mobile, positioned to catch sounds humans miss. Their hands are long-fingered with sharp, dark nails, and their feet are splayed and callused from climbing. They typically wear cobbled-together clothing made from cave fungus leather, hide, and bone, often in tatters but surprisingly functional for their environment.
 
 ## Key Behaviors
 
-Cave goblins are fundamentally individualistic and self-interested. They are driven by hunger, curiosity, and the desire for status within goblin hierarchies. Each cave goblin is focused on personal advancement and personal survival. When multiple goblins are present, they maintain a complex social dynamic—they may cooperate when the benefit is clear, but they are equally likely to turn on each other or sacrifice each other for personal gain. They are found throughout cave systems in the region, sometimes in established communities and sometimes as solitary hunters. They are intelligent enough to teach their young, to plan ahead, and to understand the value of tools and weapons. They view other sapient species with contempt or indifference, and they see humanoid creatures primarily as either threats or resources.
+Cave goblins are fundamentally individualistic and self-interested. They are driven by hunger, curiosity, and the desire for status within goblin hierarchies. Each cave goblin is focused on personal advancement and personal survival. When multiple goblins are present, their dealings with each other are complicated—they may cooperate when the benefit is clear, but they are equally likely to turn on each other or sacrifice each other for personal gain. They are found throughout cave systems in the region, sometimes in established communities and sometimes as solitary hunters. They are intelligent enough to teach their young, to plan ahead, and to understand the value of tools and weapons. They view other sapient species with contempt or indifference, and they see humanoid creatures primarily as either threats or resources.
 
 ## Combat Strategy
 
@@ -367,11 +367,11 @@ The goblin strikes with a crude but sharp spear, often treated with toxin. The a
 
 ### Sling Attack
 
-A projectile attack using stones or bone missiles. The goblin can attack from distance and is difficult to target in return due to their small size and superior cover awareness.
+A projectile attack using stones or bone missiles. The goblin can attack from distance and is difficult to target in return due to their small size and their skill at using cover.
 
 ### Poisoned Dart
 
-Some cave goblins use small, accurate darts coated in paralytic toxins derived from fungal growths. A successful hit inflicts the poison effect, causing numbness and reduced movement.
+Some cave goblins use small, accurate darts coated in paralytic toxins derived from fungal growths. A hit delivers the poison, causing numbness and slowed movement.
 
 ### Ambush Attack
 
@@ -389,7 +389,7 @@ In cave environments, cave goblins move with perfect silence and understand thre
 
 ### Toxin Knowledge
 
-Cave goblins instinctively understand how to identify, process, and apply toxins derived from cave fungi. Many of their weapons carry coating with paralytic or mild poison agents.
+Cave goblins instinctively understand how to identify, process, and apply toxins derived from cave fungi. Many of their weapons carry a coating of paralytic or mild poison.
 
 ### Cunning Misdirection
 

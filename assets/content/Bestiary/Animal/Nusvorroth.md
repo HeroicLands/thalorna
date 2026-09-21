@@ -337,7 +337,7 @@ Standing seven feet tall and stretching up to twelve feet from beak to tail, the
 
 Nüsvōrroths are solitary and fiercely territorial, claiming expansive stretches of desolate, rocky landscape as their own. They are primarily scavengers, using their acute sense of smell to detect carrion from great distances, but they kill without hesitation when their territory is violated. Their domain is easy to identify: scattered bone piles, the reek of decay, and claw-scored boulders mark the borders.
 
-The creature is remarkably patient and cunning for a bird. When it detects intruders, it often observes from a concealed position — crouching behind boulders or blending into rocky terrain with its dark plumage — before launching a sudden, explosive ambush. It commits fully to attacks and rarely retreats, even when injured.
+The creature is unusually patient and cunning for a bird. When it detects intruders, it often observes from a concealed position — crouching behind boulders or blending into rocky terrain with its dark plumage — before launching a sudden, explosive ambush. It commits fully to attacks and rarely retreats, even when injured.
 
 ## Combat Strategy
 
@@ -355,13 +355,13 @@ Slashing kicks with its powerful legs, each talon capable of opening deep gashes
 
 ### Leaping Strike
 
-A wing-assisted bound covering up to thirty feet, landing with crushing force on the target. The impact alone can stagger or knock prone, setting up follow-up attacks.
+A wing-assisted bound covering up to thirty feet, landing with crushing force on the target. The impact alone can stagger or knock down, setting up follow-up attacks.
 
 ## Special Abilities
 
 ### Camouflage Plumage
 
-Its dark feathers blend naturally with rocky, barren terrain. When crouching motionless, the Nüsvōrroth is remarkably difficult to spot, giving it a significant advantage in ambush situations.
+Its dark feathers blend naturally with rocky, barren terrain. When crouching motionless, the Nüsvōrroth is very difficult to spot, giving it a significant advantage in ambush.
 
 ### Carrion Sense
 
@@ -377,4 +377,4 @@ The creature observes intruders from concealment before striking, choosing the m
 
 ## Additional Information
 
-Despite its power, the Nüsvōrroth has notable vulnerabilities. It cannot fly, limiting its ability to pursue prey that reaches high ground or crosses water. Its heavy build makes it clumsy in dense forest or tight enclosed spaces. Its bloodshot eyes are sensitive to sudden bright light — a flash of reflected sunlight or a thrown torch can disorient it momentarily. Most critically, its refusal to retreat from territorial confrontations means it can be lured into traps or disadvantageous positions by adventurers who understand its behavior. The feathers and talons of a Nüsvōrroth are prized by some cultures as trophies, and its beak can be fashioned into a formidable skinning tool.
+Despite its power, the Nüsvōrroth has notable vulnerabilities. It cannot fly, limiting its ability to pursue prey that reaches high ground or crosses water. Its heavy build makes it clumsy in dense forest or tight enclosed spaces. Its bloodshot eyes are sensitive to sudden bright light — a flash of reflected sunlight or a thrown torch can disorient it momentarily. Most critically, its refusal to retreat from territorial confrontations means it can be lured into traps or disadvantageous positions by adventurers who understand its behavior. The feathers and talons of a Nüsvōrroth are prized by some cultures as trophies, and its beak can be fashioned into an excellent skinning tool.
