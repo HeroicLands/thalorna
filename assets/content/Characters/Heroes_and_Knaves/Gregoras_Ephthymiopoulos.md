@@ -608,7 +608,7 @@ Grégoras stands 6'0" tall with a heavy build. He has weathered tanned skin, dar
 
 **The Shipwright's Apprenticeship**
 
-Born in the maritime city of Chrysamar to a family of modest means, Grégoras showed early aptitude for mathematics and spatial reasoning. At age nine, his father apprenticed him to Master Shipwright Kyros the Old, the most celebrated shipbuilder of the Byzarian coast. For twelve years, Grégoras absorbed everything—understanding timber grain and seasoning, learning to calculate displacement and hull stress, mastering the geometry of sails and balance. Kyros recognized rare talent and pushed the boy relentlessly, holding him to impossibly high standards.
+Born in the maritime city of [[place-chrysamar|Chrysamar]] to a family of modest means, Grégoras showed early aptitude for mathematics and spatial reasoning. At age nine, his father apprenticed him to Master Shipwright Kyros the Old, the most celebrated shipbuilder of the Byzarian coast. For twelve years, Grégoras absorbed everything—understanding timber grain and seasoning, learning to calculate displacement and hull stress, mastering the geometry of sails and balance. Kyros recognized rare talent and pushed the boy relentlessly, holding him to impossibly high standards.
 
 **Rising Through the Guild Ranks**
 
@@ -650,7 +650,7 @@ Grégoras is primarily motivated by the pursuit of maritime perfection—the cre
 
 ### Patrons
 
-- **Admiral Theodosius of the Byzarian Fleet**: The supreme naval commander of the Byzarian League maintains a permanent contract with Grégoras for advanced warship design and construction. Theodosius shields Grégoras from bureaucratic interference and sees that his projects get first call on materials.
+- **Admiral Theodosius of the Byzarian Fleet**: The supreme naval commander of the [[affiliation-byzarianlg|Byzarian League]] maintains a permanent contract with Grégoras for advanced warship design and construction. Theodosius shields Grégoras from bureaucratic interference and sees that his projects get first call on materials.
 - **House Merkarios**: A wealthy merchant dynasty that has commissioned multiple high-speed merchant vessels and naval support ships. Their patriarch, Lord Justinian Merkarios, personally negotiates with Grégoras and values his counsel on maritime matters.
 - **Guild Master Petrolas**: The current head of the Maritime Shipwrights' Guild, Petrolas acts as a political buffer between Grégoras and various governmental bureaucracies, smoothing over conflicts caused by the shipwright's abrasive manner.
 

@@ -595,7 +595,7 @@ sohl:
 
 **Early Life and Training**
 
-Óskunn was born in the village of Steinmark, at the foot of the Bjarg mountains that granted her clan its name. Her mother, a weaver of considerable skill, taught her the fundamentals of textile work before she could read, and her father, a merchant of furs and hides, instilled in her an instinct for the market. By age twelve, she had already begun experimenting with natural dyes—extracting color from madder root, woad, and the rare indigo traders brought from southern lands. Her most formative years were spent apprenticed to the legendary dyer **Einkorn Greybeard**, a master craftsperson whose works were prized throughout Norgaad. From Einkorn, she learned not merely technique but philosophy: that every thread tells a story, and that true craftsmanship is an act of honor to Ymir, the creator god.
+Óskunn was born in the village of [[place-steinmark|Steinmark]], at the foot of the Bjarg mountains that granted her clan its name. Her mother, a weaver of considerable skill, taught her the fundamentals of textile work before she could read, and her father, a merchant of furs and hides, instilled in her an instinct for the market. By age twelve, she had already begun experimenting with natural dyes—extracting color from madder root, woad, and the rare indigo traders brought from southern lands. Her most formative years were spent apprenticed to the legendary dyer **Einkorn Greybeard**, a master craftsperson whose works were prized throughout [[affiliation-kingdmnrgd|Norgaad]]. From Einkorn, she learned not merely technique but philosophy: that every thread tells a story, and that true craftsmanship is an act of honor to [[lore-ymirdty|Ymir]], the creator god.
 
 **Journey to Independence**
 
@@ -603,7 +603,7 @@ At twenty-two, Óskunn established her own workshop in the market quarter, drawi
 
 **Current Situation**
 
-Now at the height of her craft, Óskunn finds herself at a crossroads. Her small workshop has become profitable, but opportunity and ambition gnaw at her. She possesses the skill to work with the finest fabrics imported from Vedyara and beyond, yet her customers remain largely of modest means. A wealthy merchant from the capital city of Asgarthul recently visited, commissioning elaborate garments for his wife. He hinted at patronage that could lift Óskunn into the ranks of the realm's most prestigious craftspeople. Yet accepting such work would mean leaving her village and abandoning the community that trusted her. Her heart remains divided between ambition and loyalty.
+Now at the height of her craft, Óskunn finds herself at a crossroads. Her small workshop has become profitable, but opportunity and ambition gnaw at her. She possesses the skill to work with the finest fabrics imported from Vedyara and beyond, yet her customers remain largely of modest means. A wealthy merchant from the capital city of [[place-asgarthul|Asgarthul]] recently visited, commissioning elaborate garments for his wife. He hinted at patronage that could lift Óskunn into the ranks of the realm's most prestigious craftspeople. Yet accepting such work would mean leaving her village and abandoning the community that trusted her. Her heart remains divided between ambition and loyalty.
 
 ## Psyche
 

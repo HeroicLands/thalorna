@@ -608,7 +608,7 @@ Thalísa stands 5'10" tall with a light build. She has warm olive skin, dark bro
 
 # Dossier {#dossier}
 
-Thalísa Torvaleth was born in the Kingdom of Tarvénia to a family with established but not distinguished ties to craftsmanship. Her father was a metalworker of modest reputation, and her mother kept a small herb garden and cultivated rare plants. From childhood, Thalísa was fascinated by light and color—particularly the way sunlight transformed when passing through colored glass in the windows of the local cathedral. By age twelve, she had begun seeking out the cathedral's glassworker, Master Aldwin, begging him to teach her his craft.
+Thalísa Torvaleth was born in the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] to a family with established but not distinguished ties to craftsmanship. Her father was a metalworker of modest reputation, and her mother kept a small herb garden and cultivated rare plants. From childhood, Thalísa was fascinated by light and color—particularly the way sunlight transformed when passing through colored glass in the windows of the local cathedral. By age twelve, she had begun seeking out the cathedral's glassworker, Master Aldwin, begging him to teach her his craft.
 
 Aldwin, having no children of his own and recognizing unusual talent, agreed to take her on as an informal apprentice. For the next eight years, she learned traditional glasswork: cutting, leading, soldering, the practical creation of functional windows. However, even as a young apprentice, Thalísa's inclinations diverged from the conventional. She experimented with color combinations that her mentor considered garish, designed patterns that deviated from ecclesiastical tradition, and pushed the boundaries of what glass could express.
 
