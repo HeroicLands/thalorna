@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - perthothnome
   population: 85000
 name:
   full: Khemenu

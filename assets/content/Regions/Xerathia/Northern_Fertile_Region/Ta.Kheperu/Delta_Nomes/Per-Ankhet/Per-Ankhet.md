@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - perankhetnome
   population: 120000
 name:
   full: Per-Ankhet

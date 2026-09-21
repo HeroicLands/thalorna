@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - wasetkaranome
   population: 30000
 name:
   full: Per-Heka

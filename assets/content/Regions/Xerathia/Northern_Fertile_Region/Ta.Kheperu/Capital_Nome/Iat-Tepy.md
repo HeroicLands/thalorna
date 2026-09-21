@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - wasetkaranome
   population: null
 description: "The sacred midstream island at the heart of Wasetkara — held to be the primeval mound where creation began, walled in white limestone, and bearing the two poles of imperial power: the Great Temple of Rā and the palace of the Per-Aá, with the great flood-gauge called the Measure."
 name:

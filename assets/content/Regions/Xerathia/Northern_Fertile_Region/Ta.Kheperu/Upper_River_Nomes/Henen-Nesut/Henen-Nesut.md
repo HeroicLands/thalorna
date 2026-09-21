@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - henennesutnome
   population: 26000
 name:
   full: Henen-Nesut

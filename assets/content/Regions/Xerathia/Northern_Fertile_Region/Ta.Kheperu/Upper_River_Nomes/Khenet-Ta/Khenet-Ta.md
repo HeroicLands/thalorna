@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - khenettanome
   population: 32000
 name:
   full: Khenet-Ta

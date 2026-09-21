@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - khensuretnome
   population: 6000
 name:
   full: Set-Maat

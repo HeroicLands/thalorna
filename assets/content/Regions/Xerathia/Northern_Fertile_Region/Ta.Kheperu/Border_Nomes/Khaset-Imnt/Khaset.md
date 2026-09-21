@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - khasetimntnome
   population: 12000
 name:
   full: Khaset

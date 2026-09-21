@@ -11,7 +11,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - tasetiabtetnome
   population: 22000
 name:
   full: Bakhu
