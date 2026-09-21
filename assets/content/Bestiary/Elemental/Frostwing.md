@@ -328,11 +328,11 @@ High above, a shape circles on wings that catch the light wrongly. The Frostwing
 
 # Dossier {#dossier}
 
-Frostwings are aerial hunters of ice and cold, patrolling regions of deep winter and bringing death from above. They are migratory, following the seasons to where cold is deepest. They are intelligent predators that hunt in coordinated groups, using aerial tactics to outmaneuver ground-based prey. A single Frostwing is formidable; a pair is nearly unstoppable. They seem to view smaller creatures as simple prey and show no compunction about raiding settlements or attacking caravans.
+Frostwings are aerial hunters of ice and cold, patrolling regions of deep winter and bringing death from above. They are migratory, following the seasons to where cold is deepest. They are intelligent predators that hunt in coordinated groups, using aerial tactics to outmaneuver ground-based prey. A single Frostwing is dangerous; a pair is nearly unstoppable. They seem to view smaller creatures as simple prey and show no compunction about raiding settlements or attacking caravans.
 
 ## Presentation
 
-A Frostwing is a large, eagle-like creature with a wingspan of twenty to twenty-five feet. Its feathers appear to be made of crystalline ice that catches and refracts light beautifully. Its body is sleek and designed for speed, and its movements in the air are fluid and graceful. Its eyes are bright sapphire blue, and they are far more intelligent than any normal bird. Its talons are sharp and frozen solid, and where they touch, frost spreads. Its breath is visible as it moves—cold air crystallizing in its wake.
+A Frostwing is a large, eagle-like creature with a wingspan of twenty to twenty-five feet. Its feathers appear to be made of crystalline ice that catches and refracts light beautifully. Its body is sleek and built for speed, and its movements in the air are fluid and graceful. Its eyes are bright sapphire blue, and they are far more intelligent than any normal bird. Its talons are sharp and frozen solid, and where they touch, frost spreads. Its breath is visible as it moves—cold air crystallizing in its wake.
 
 ## Key Behaviors
 
@@ -346,7 +346,7 @@ Frostwings fight from the air, using their mobility to strike and withdraw befor
 
 ### Icy Talons
 
-The Frostwing dives and strikes with talons that are sharp and frozen. The strike combines physical damage from the talons with the cold that penetrates the wound. Victims report that wounds from Frostwing talons are difficult to heal and leave areas of persistent numbness.
+The Frostwing dives and strikes with talons that are sharp and frozen. The talons cut deep, and the cold penetrates the wound. Victims report that wounds from Frostwing talons are difficult to heal and leave areas of persistent numbness.
 
 ### Freezing Breath
 
@@ -354,17 +354,17 @@ The Frostwing exhales a cone of crystalline air that freezes everything it touch
 
 ### Ice Shard Barrage
 
-The Frostwing causes ice to form in the air around itself and directs it toward opponents like a ranged attack. The shards are sharp enough to cut and are infused with cold that goes beyond mere physical damage.
+The Frostwing causes ice to form in the air around itself and hurls it at opponents. The shards are sharp enough to cut, and the cold in them does more harm than the wound itself.
 
 ## Special Abilities
 
 ### Aerial Mastery
 
-The Frostwing is supremely at home in the sky. In open air, it gains tremendous advantages in positioning and mobility that ground-based creatures cannot match.
+The Frostwing is supremely at home in the sky. In open air, its positioning and mobility are beyond anything a ground-based creature can match.
 
 ### Freezing Aura
 
-The presence of a Frostwing lowers the ambient temperature dramatically. The cold radiates outward, making movement difficult and reducing the effectiveness of physical actions.
+The presence of a Frostwing lowers the ambient temperature dramatically. The cold radiates outward, making movement difficult and every physical effort slower.
 
 ### Cold Resistance
 

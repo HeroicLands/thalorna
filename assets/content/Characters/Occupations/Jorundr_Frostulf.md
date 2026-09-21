@@ -556,7 +556,7 @@ Jörundr Frostulf is a 51-year-old man who stands 6'0" tall and is broad and sol
 
 Jörundr Frostulf is head gaoler of the king's prison at Thrymstead, the seat of [[affiliation-kngdmnrdhm|Nordheim]], a Nordman freeman who has spent thirty years inside its walls and now runs them.
 
-Jörundr came to the prison as a young guard because the watch was hiring and the fjord was not. The prison holds men awaiting the king's judgment, men held for ransom between clans, and men whose kin outside would kill them given an hour's opportunity. His answer to all of it is the rules. Every man inside is fed the same, locked the same and treated the same, whatever his clan or his jarl, and every guard under him keeps to the same book or leaves. It is not a popular way to run a prison in a country where a jarl expects to be obliged, and it has kept the feuds of Nordheim outside the walls.
+Jörundr came to the prison as a young guard because the Tingward was hiring and the fjord was not. The prison holds men awaiting the king's judgment, men held for ransom between clans, and men whose kin outside would kill them given an hour's opportunity. His answer to all of it is the rules. Every man inside is fed the same, locked the same and treated the same, whatever his clan or his jarl, and every guard under him keeps to the same book or leaves. It is not a popular way to run a prison in a country where a jarl expects to be obliged, and it has kept the feuds of Nordheim outside the walls.
 
 He is a known figure among the gaolers of Nordheim.
 
@@ -576,13 +576,13 @@ Experienced, authoritative, strong sense of duty.
 
 ## Social
 
-Jörundr holds his post under the City Watch of Thrymstead and answers to the king's reeve.
+Jörundr holds his post under the Tingward, the _Tingvördr_, the sworn men who keep the ting-peace within Thrymstead's walls, and answers to the Sýslumadr, the king's reeve.
 
 ## Companions
 
 ### Patrons
 
-Jörundr's patrons are the king's reeve at Thrymstead and the senior officers of the Watch, who trust his judgment because it has never once been bought.
+Jörundr's patrons are the reeve at Thrymstead and the senior officers of the Tingward, who trust his judgment because it has never once been bought.
 
 ### Enemies
 

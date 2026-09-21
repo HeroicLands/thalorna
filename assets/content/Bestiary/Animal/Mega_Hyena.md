@@ -321,7 +321,7 @@ Mega Hyenas display enormous musculature throughout their frame, particularly in
 
 ## Key Behaviors
 
-Mega Hyenas are scavengers and hunters in equal measure, thriving in arid savannas and broken terrain. They live in large packs with rigid hierarchies dominated by one or more alpha individuals whose status is determined through combat. Pack size typically ranges from 5-20 individuals. They hunt large prey cooperatively, but are also opportunistic and will steal kills from other predators, defend carcasses from competitors, or opportunistically hunt smaller prey when the opportunity arises. Lone Mega Hyenas are typically outcasts or young individuals seeking to establish a new pack, and they are considerably more aggressive and unpredictable than pack members.
+Mega Hyenas are scavengers as much as hunters, thriving in arid savannas and broken terrain. They live in large packs with rigid hierarchies dominated by one or more leaders whose status is determined through combat. Pack size typically ranges from 5-20 individuals. They hunt large prey cooperatively, but are also opportunistic and will steal kills from other predators, defend carcasses from competitors, or hunt smaller prey when the chance arises. Lone Mega Hyenas are typically outcasts or young individuals seeking to establish a new pack, and they are considerably more aggressive and unpredictable than pack members.
 
 ## Combat Strategy
 
@@ -331,25 +331,25 @@ Mega Hyenas rely on pack tactics and overwhelming force. In a pack, they coordin
 
 ### Bone-Crushing Bite
 
-The Mega Hyena lunges to clamp its enormous jaws on the target, aiming for limbs, throat, or belly; the bite delivers devastating damage capable of crushing bone, shattering light armor, and pinning an opponent in place if they fail a strength check to break free.
+The Mega Hyena lunges to clamp its enormous jaws on the target, aiming for limbs, throat, or belly; the bite crushes bone, shatters light armor, and pins an opponent in place until they can wrench themselves free by main strength.
 
 ### Pack Overwhelm
 
-Multiple Mega Hyenas attack simultaneously from different directions, each attempting to knock the opponent down or distract them; coordinated pack attacks gain substantial bonuses and can incapacitate isolated opponents quickly.
+Multiple Mega Hyenas attack simultaneously from different directions, each attempting to knock the opponent down or distract them; attacks pressed from several sides at once land far more often and can incapacitate isolated opponents quickly.
 
 ## Special Abilities
 
 ### Crushing Jaws
 
-The Mega Hyena’s bite force is extraordinary, capable of breaking bone, shattering weapons or shields, and penetrating armor; a successful bite deals massive damage and may incapacitate the victim if the bite connects with a vital area.
+The Mega Hyena’s bite force is extraordinary, capable of breaking bone, shattering weapons or shields, and penetrating armor; a bite that lands does terrible harm and may incapacitate the victim if it closes on a vital area.
 
 ### Pack Instincts
 
-Mega Hyenas gain significant bonuses to attack rolls, damage, and to resistance checks when fighting alongside other Mega Hyenas; a pack of hyenas is far more dangerous than the sum of its individual members would suggest.
+Mega Hyenas fighting alongside their pack strike more often, bite harder, and shrug off what would stop a lone animal; a pack of hyenas is more dangerous than its numbers would suggest.
 
 ### Territorial Defense
 
-When defending a kill, den, or pack, a Mega Hyena becomes considerably more aggressive and gains bonuses to all combat rolls; they will fight to the death to protect pack resources or hierarchy status.
+When defending a kill, den, or pack, a Mega Hyena becomes considerably more aggressive and fights with more skill and fury than at any other time; they will fight to the death to protect the pack's kill, den, or standing.
 
 ## Attributes
 

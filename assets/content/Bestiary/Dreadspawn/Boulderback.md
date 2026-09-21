@@ -644,7 +644,7 @@ The Boulderback does not employ tactics. It moves toward threats and crushes the
 
 ### Crushing Blow
 
-The creature swings one enormous stone fist at its target, attempting to deliver devastating blunt-force trauma. The impact is capable of shattering bone and armor alike.
+The creature swings one enormous stone fist at its target with devastating force. The impact is capable of shattering bone and armor alike.
 
 ### Powerful Charge
 
@@ -652,21 +652,21 @@ Moving with surprising speed despite its size, the Boulderback can build momentu
 
 ### Stone Throw
 
-The creature can dislodge individual boulders from its body or surrounding terrain and hurl them at distant targets. These projectiles deliver impact damage and can pinning or crushing effects.
+The creature can dislodge individual boulders from its body or surrounding terrain and hurl them at distant targets. These projectiles strike with crushing force and can pin whoever they land on.
 
 ## Special Abilities
 
 ### Stone-Bound Durability
 
-The Boulderback's construct nature makes it immensely difficult to harm through conventional means. Its body is distributed across many separate stone blocks; destroying one section does not kill the creature, though it may limit its mobility. The creature is resistant to all physical damage.
+The Boulderback's construct nature makes it immensely difficult to harm through conventional means. Its body is distributed across many separate stone blocks; destroying one section does not kill the creature, though it may limit its mobility. It is resistant to any physical blow.
 
 ### Tremor Sense
 
-The Boulderback perceives its surroundings through ground vibrations and stone resonance. It senses anything moving or disturbing the earth within its immediate territory, even through solid walls or in complete darkness. It is effectively blind and deaf to sound, but this limitation is rarely meaningful.
+The Boulderback perceives its surroundings through ground vibrations and stone resonance. It senses anything moving or disturbing the earth within its immediate territory, even through solid walls or in complete darkness. It is effectively blind and deaf, but that rarely matters.
 
 ### Slow Regeneration
 
-Exposed to stone and earth, the Boulderback repairs damage over time. Cracks seal, separated blocks drift back together, and wounds close. This regeneration is slow—hours or days—but relentless.
+Exposed to stone and earth, the Boulderback repairs itself over time. Cracks seal, separated blocks drift back together, and wounds close. This regeneration is slow—hours or days—but relentless.
 
 ## Additional Information
 
