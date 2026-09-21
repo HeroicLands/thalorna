@@ -557,7 +557,7 @@ Thaldrá Druthgar is a 27-year-old woman who stands 5'10" tall and is of moderat
 
 # Dossier {#dossier}
 
-Born in the Vrystwald region to a freeman family of Varokhi heritage, Thaldrá Druthgar came into the world of the common seaman through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Thaldrá Druthgar came into the world of the common seaman through a combination of circumstance and aptitude.
 
 Known as "Thorn" for her sharp wit and tenacity, Thalia is a fierce seaman who has proven herself in a male-dominated profession. She is skilled in rigging and often takes on the role of lookout during voyages. Thalia is determined to earn her place among the crew and dreams of one day captaining her own ship. She has a reputation for being tough and resilient, admired by her peers.
 

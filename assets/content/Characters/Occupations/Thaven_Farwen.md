@@ -555,7 +555,7 @@ Thâven Fárwèn is a 45-year-old man who stands 6'0" tall and is broad and soli
 
 # Dossier {#dossier}
 
-Born in the Provènzia region to a freeman family of Provenzian heritage, Thâven Fárwèn came into the world of the bosun through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Thâven Fárwèn came into the world of the bosun through a combination of circumstance and aptitude.
 
 Bosun Kellan is a seasoned veteran of the sea and is responsible for the ship's crew and operations. He ensures that all tasks are carried out efficiently, from managing the sails to overseeing the maintenance of the ship. Kellan has a no-nonsense attitude and is respected by his crew for his experience and leadership. He often shares his knowledge of seamanship with younger sailors, helping them become skilled mariners.
 

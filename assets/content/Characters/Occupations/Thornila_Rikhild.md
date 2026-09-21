@@ -559,7 +559,7 @@ Thornila Ríkhild is a 35-year-old woman who stands 6'0" tall and is slender. Sh
 
 # Dossier {#dossier}
 
-Born in the Vrystwald region to a noble family of Varokhi heritage, Thornila Ríkhild came into the priesthood of Jánus through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a noble family of Varokhi heritage, Thornila Ríkhild came into the priesthood of Jánus through a combination of circumstance and aptitude.
 
 Thornila is a noble priestess devoted to the teachings of Jánus. With a strong belief in the protection of the weak, she often organizes charitable events, although her upper-class upbringing sometimes leads her to view those in need with a sense of superiority. Thornila believes that chivalry is essential in the defense of honor. She encourages her followers to uphold the ideals of justice and righteous struggle, though she struggles with understanding the plight of the lower classes.
 

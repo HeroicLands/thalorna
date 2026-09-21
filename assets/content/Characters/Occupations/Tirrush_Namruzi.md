@@ -561,7 +561,7 @@ Tirrûsh Namrûzî is a 38-year-old man who stands 6'0" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the Harad region to a freeman family of Haradian heritage, Tirrûsh Namrûzî came into the world of the glassworker through a combination of circumstance and aptitude.
+Born in the [[place-haradregin|Harad]] region to a freeman family of Haradian heritage, Tirrûsh Namrûzî came into the world of the glassworker through a combination of circumstance and aptitude.
 
 Tirrûsh has been working with glass since his youth, apprenticing under his father in a small workshop. Over time, he developed a skill for crafting intricate glass items, from window panes to delicate sculptures. Tirrûsh’s reputation for fine craftsmanship has spread, and while he enjoys the creative process, the work is physically demanding and often dangerous. He remains dedicated to his craft, always striving to improve.
 

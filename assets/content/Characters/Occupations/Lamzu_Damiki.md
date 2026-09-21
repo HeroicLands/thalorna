@@ -555,7 +555,7 @@ Lâmzû Damîkî is a 34-year-old man who stands 6'0" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Born in the Harad region to a freeman family of Haradian heritage, Lâmzû Damîkî came into the world of the scribe through a combination of circumstance and aptitude.
+Born in the [[place-haradregin|Harad]] region to a freeman family of Haradian heritage, Lâmzû Damîkî came into the world of the scribe through a combination of circumstance and aptitude.
 
 Lâmzû is a humble scribe who works in a small village, transcribing important documents and maintaining records for the local community. He is known for his friendly demeanor and willingness to help others, often offering his services to those who cannot afford them. Lâmzû values the preservation of knowledge and is dedicated to ensuring that important information is recorded accurately for future generations.
 

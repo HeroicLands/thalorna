@@ -553,7 +553,7 @@ Párthun Cárdeth is a 41-year-old man who stands 5'7" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the Élavendre region to a guilded family of Élavendri heritage, Párthun Cárdeth came into the world of the thespian through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a guilded family of Élavendri heritage, Párthun Cárdeth came into the world of the thespian through a combination of circumstance and aptitude.
 
 Párthun is an actor and playwright who has spent much of his life on the stage. He is known for his powerful voice and his ability to portray complex characters. Párthun's writing often draws from his own experiences, and his plays are filled with rich dialogue and intricate plots. However, he struggles with perfectionism, often rewriting scenes endlessly before he's satisfied.
 

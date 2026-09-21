@@ -559,7 +559,7 @@ Osmund Winwick is a 37-year-old man who stands 5'8" tall and is of moderate buil
 
 # Dossier {#dossier}
 
-Born in the Aelwyth region to a noble family of Aelwythan heritage, Osmund Winwick came into the world of the mercantyler (supercargo) through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heritage, Osmund Winwick came into the world of the mercantyler (supercargo) through a combination of circumstance and aptitude.
 
 Osmund is a seasoned mercantyler specializing in ocean trade. As a supercargo, he oversees the cargo on ships, ensuring that goods are loaded, unloaded, and transported safely. With years of experience sailing between ports, Osmund has developed a keen understanding of maritime laws and trade routes. He is respected in the mercantile community for his negotiation skills and ability to resolve disputes.
 

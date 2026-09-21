@@ -557,7 +557,7 @@ Rísàkós Ibârìthôs is a 46-year-old man who stands 5'8" tall and is of mode
 
 # Dossier {#dossier}
 
-Born in the Heliónis region to a freeman family of Helionite heritage, Rísàkós Ibârìthôs came into the world of the apothecary through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Rísàkós Ibârìthôs came into the world of the apothecary through a combination of circumstance and aptitude.
 
 Rísàkós began as an assistant to an apothecary who dealt with both legitimate medicine and more questionable practices. He learned a wide variety of skills, from crafting remedies to mixing poisons. He now runs a small apothecary shop on the outskirts of town, where he serves both the desperate and the morally dubious.
 

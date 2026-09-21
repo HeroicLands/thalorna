@@ -558,7 +558,7 @@ Llénar Cárdeth is a 45-year-old man who stands 6'2" tall and is broad and soli
 
 # Dossier {#dossier}
 
-Born in the Élavendre region to a freeman family of Élavendri heritage, Llénar Cárdeth came into the world of the ratter through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Llénar Cárdeth came into the world of the ratter through a combination of circumstance and aptitude.
 
 Llénar is a veteran ratter who has dedicated his life to controlling rat populations in both urban and rural settings. With years of experience under his belt, he is known for his effective techniques and vast knowledge of rodent behavior. Llénar often shares his expertise with younger ratters, teaching them the tricks of the trade. He has a loyal dog named Scout who helps him in his work.
 

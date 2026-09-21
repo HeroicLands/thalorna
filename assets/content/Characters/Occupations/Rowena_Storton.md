@@ -556,7 +556,7 @@ Rowena Storton is a 28-year-old woman who stands 5'7" tall and is slender. She h
 
 # Dossier {#dossier}
 
-Born in the Aelwyth region to a guilded family of Aelwythan heritage, Rowena Storton came into the world of the animal trainer through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage, Rowena Storton came into the world of the animal trainer through a combination of circumstance and aptitude.
 
 Rowena trains exotic birds for a noble family. She is skilled at teaching them tricks and mimicking sounds, and often accompanies her employers to social events.
 

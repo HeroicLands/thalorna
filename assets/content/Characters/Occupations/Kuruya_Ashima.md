@@ -554,7 +554,7 @@ Kûrûya Ashîmâ is a 33-year-old woman who stands 5'8" tall and is of moderate
 
 # Dossier {#dossier}
 
-Born in the Harad region to a freeman family of Haradian heritage, Kûrûya Ashîmâ came into the world of the weaponcrafter (armorer) through a combination of circumstance and aptitude.
+Born in the [[place-haradregin|Harad]] region to a freeman family of Haradian heritage, Kûrûya Ashîmâ came into the world of the weaponcrafter (armorer) through a combination of circumstance and aptitude.
 
 Kûrûya is a talented weaponcrafter who grew up in a family of blacksmiths. She took a particular interest in crafting smaller, more intricate weapons such as daggers and throwing knives. Kûrûya is known for her detailed work and the artistic designs she incorporates into her creations. While her weapons are beautiful, some potential customers see them as more decorative than functional, which she seeks to change by proving their effectiveness in combat.
 

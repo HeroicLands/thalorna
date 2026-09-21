@@ -557,7 +557,7 @@ Pâtûri Lamûshî is a 50-year-old woman who stands 5'9" tall and is solidly bu
 
 # Dossier {#dossier}
 
-Born in the Harad region to a guilded family of Haradian heritage, Pâtûri Lamûshî came into the world of the cook through a combination of circumstance and aptitude.
+Born in the [[place-haradregin|Harad]] region to a guilded family of Haradian heritage, Pâtûri Lamûshî came into the world of the cook through a combination of circumstance and aptitude.
 
 Pâtûri is a seasoned cook who has worked in several high-end kitchens throughout the city. She currently serves as the head cook for a wealthy merchant's household, where she oversees a small staff of kitchen hands. Known for her hearty stews and elaborate pastries, Pâtûri prides herself on providing excellent meals, though she can be harsh with her subordinates.
 
