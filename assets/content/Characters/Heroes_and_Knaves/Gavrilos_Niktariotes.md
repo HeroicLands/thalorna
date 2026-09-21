@@ -608,7 +608,7 @@ Gávrilos stands 6'1" tall with a medium build. He has light tanned skin, grayin
 
 **The Rising Star**
 
-Born to a minor merchant house in the port city of Chrysamar, Gávrilos showed early aptitude with steel. At fifteen, he was apprenticed to **Master Duvon of the Silver Halls**, the most renowned swordmaster in the Byzarian League. For seven years he trained with obsessive devotion, drilling combinations until his shoulders screamed and his palms bled. His breakthrough came at twenty-two, when he bested **Duvon** himself in a ceremonial bout, a victory that scandalized the traditional hierarchy and elevated him to independent master status.
+Born to a minor merchant house in the port city of [[place-chrysamar|Chrysamar]], Gávrilos showed early aptitude with steel. At fifteen, he was apprenticed to **Master Duvon of the Silver Halls**, the most renowned swordmaster in the Byzarian League. For seven years he trained with obsessive devotion, drilling combinations until his shoulders screamed and his palms bled. His breakthrough came at twenty-two, when he bested **Duvon** himself in a ceremonial bout, a victory that scandalized the traditional hierarchy and elevated him to independent master status.
 
 **Years of Ascendancy**
 
@@ -663,7 +663,7 @@ Gávrilos is driven by two conflicting forces: the desire to cement his legacy a
 ### Affiliations
 
 - **Byzarian Swordmasters' Guild**: A prestigious organization to which only masters of proven excellence are admitted. Gávrilos sits on the Council of Masters that adjudicates disputes and sets standards.
-- **The Scholars of Vénusia**: A philosophical circle devoted to the goddess of prosperity and martial excellence. Gávrilos attends their quarterly meetings, where swordmasters debate technique and history.
+- **The Scholars of [[lore-venusiadty|Vénusia]]**: A philosophical circle devoted to the goddess of prosperity and martial excellence. Gávrilos attends their quarterly meetings, where swordmasters debate technique and history.
 
 ## Plot Hooks
 

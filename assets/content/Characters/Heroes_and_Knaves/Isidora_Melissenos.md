@@ -609,7 +609,7 @@ Isidôra stands 5'7" tall with a light build. She has olive skin, dark brown hai
 
 ### A Merchant's Daughter
 
-Isidôra was born the youngest of five daughters to **Merchant-Prince Kossian Melissenós**, a wealthy trader in the Byzarian League whose fortune came from controlling spice routes. Her childhood was one of abundance and expectation—she was educated in languages, music, and the arts of hospitality, groomed to become a merchant's wife in an advantageous alliance. Her father had already begun negotiations with three different families when Isidôra, at seventeen, politely but firmly declined all offers and requested instead to be sent to apprentice with **Maestra Lydia Windwhisper**, proprietor of the renowned Gilded Gryphon Inn.
+Isidôra was born the youngest of five daughters to **Merchant-Prince Kossian Melissenós**, a wealthy trader in the [[affiliation-byzarianlg|Byzarian League]] whose fortune came from controlling spice routes. Her childhood was one of abundance and expectation—she was educated in languages, music, and the arts of hospitality, groomed to become a merchant's wife in an advantageous alliance. Her father had already begun negotiations with three different families when Isidôra, at seventeen, politely but firmly declined all offers and requested instead to be sent to apprentice with **Maestra Lydia Windwhisper**, proprietor of the renowned Gilded Gryphon Inn.
 
 ### The Making of an Innkeeper
 
@@ -666,7 +666,7 @@ Isidôra's driving passion is simple: she wants to create sanctuary. In a world 
 ### Affiliations
 
 - **The Innkeepers' Association of the Byzarian League**: A professional organization of hospitality providers where Isidôra serves as a respected voice advocating for the rights of independent innkeepers against larger merchant organizations.
-- **The Vénusia Circle**: An informal society of women who worship the prosperity goddess Vénusia, through which Isidôra maintains connections with female merchants, scholars, and influential women throughout the League.
+- **The [[lore-venusiadty|Vénusia]] Circle**: An informal society of women who worship the prosperity goddess Vénusia, through which Isidôra maintains connections with female merchants, scholars, and influential women throughout the League.
 
 ## Plot Hooks
 
