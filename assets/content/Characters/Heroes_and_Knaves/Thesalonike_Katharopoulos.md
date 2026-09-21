@@ -642,8 +642,8 @@ Thêsaloníke is driven by a profound love for the forests of her homeland and a
 
 ### Patrons
 
-- **Master Carpenter **Stavros Leontidis\*\*: A renowned furniture maker who commissions Thêsaloníke specifically for rare wood projects. He values her craftsmanship and has become a trusted colleague and occasional confidant.
-- **The Architects' Collective of the **Byzarian League\*\*: A group of progressive builders committed to sustainable construction. They seek Thêsaloníke's timber for high-profile projects and trust her judgment on material selection.
+- **Master Carpenter Stavros Leontidis**: A renowned furniture maker who commissions Thêsaloníke specifically for rare wood projects. He values her craftsmanship and has become a trusted colleague and occasional confidant.
+- **The Architects' Collective of the Byzarian League**: A group of progressive builders committed to sustainable construction. They seek Thêsaloníke's timber for high-profile projects and trust her judgment on material selection.
 - **The Monastery of Silent Waters**: A religious community in the forest that employs Thêsaloníke to manage their woodlands sustainably while generating income. The head priest, **Father Damian**, shares her conservation philosophy.
 
 ### Enemies

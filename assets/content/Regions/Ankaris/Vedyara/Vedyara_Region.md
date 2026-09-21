@@ -16,6 +16,8 @@ data:
     - humanflk
   parents:
     - ankrscntnnt
+  borders:
+    - { to: dunharargn, bearing: NW }
   population: null
 terran_analog: India (subcontinent of independent states)
 packFolder: vedyara

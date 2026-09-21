@@ -1,5 +1,5 @@
 ---
-description: "Green-land city-state of the Byzarian League on the southern coast — prosperous maritime city with a reputation for gardeners, merchants, and peaceful culture."
+description: "Green-land city-state of the Byzarian League at the junction of the eastern and southern caravan roads — an inland caravanserai city with a reputation for gardeners, merchants, and peaceful culture."
 type: affiliation
 name:
   full: Yeşilhan

@@ -5,7 +5,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - helionis
+    - byzariargn
   population: null
 name:
   full: Nékropolis
