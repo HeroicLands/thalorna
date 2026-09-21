@@ -547,41 +547,39 @@ sohl:
 
 # Appearance {#appearance}
 
-Pórena Dhárel is a 28-year-old woman who stands 5'8" tall and is of moderate build. She has an oval face with wide-set cheekbones, a broad forehead, and a narrow jaw that leads to a firm chin. Her deep-set green eyes sit beneath arched brows, lending her a watchful gaze. A slightly upturned nose and firm lips complete her features. She has pale skin with a smooth complexion. Her dark brown hair is loose and wavy.
+Pórena Dhárel is a 28-year-old woman who stands 5'8" tall and is of moderate build. She has an oval face with wide-set cheekbones, a broad forehead, and a narrow jaw that leads to a firm chin. Her deep-set green eyes sit beneath arched brows and give her a watchful gaze. She has a slightly upturned nose and firm lips. She has pale skin with a smooth complexion. Her dark brown hair is loose and wavy.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Pórena Dhárel came into the world of the longshorewoman through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Pórena Dhárel is a longshorewoman.
 
-Pórena has worked as a longshorewoman since she was a teenager, breaking stereotypes in a traditionally male-dominated field. She is known for her agility and ability to navigate the busy docks efficiently. Pórena has earned respect among her colleagues for her skills in cargo handling and is often called upon to mentor new workers. She takes pride in her work and is determined to show that women can excel in this profession.
+Pórena has worked as a longshorewoman since she was a girl, in a trade that has few women in it. She is known for her agility and for moving quickly through the crowded docks. She has earned respect among the other dock hands for her skill in cargo handling and is often called upon to train new workers. She takes pride in her work and is determined to show that a woman can do it as well as anyone.
 
-Now at 28 years of age, Pórena Dhárel has established herself as a known figure among the longshorewomans of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 28 years of age, she is a known figure among the dock hands of Élavendre.
 
 ## Psyche
 
 ### Personality
 
-Sometimes faces prejudice, struggles with heavy lifting.
+She sometimes meets prejudice, and struggles with the heaviest lifting.
 
 ### Motivation
 
-Pórena is driven by the desire to master her craft and secure a stable future. The uncertainties of life in longshorewoman work keep her vigilant and adaptable.
+Pórena wants to be taken as the equal of any man on the docks and to keep the work that gives her a living.
 
 ### Strengths
 
-Agile and quick, skilled in logistics, good communicator.
+She is agile and quick, good at ordering the loading of cargo, and speaks well.
 
 ## Social
 
-Pórena is affiliated with Local Longshorewomen's Union.
-
-As a Élavendri longshorewoman, Pórena occupies a recognized social niche within Élavendre society.
+Pórena belongs to the local Longshorewomen's Union.
 
 ## Companions
 
 ### Patrons
 
-Pórena's primary patron is Cargo merchants and shipping companies.. This relationship provides both opportunity and obligation.
+Pórena's patrons are the cargo merchants and shipping houses.
 
 ### Enemies
 
@@ -589,12 +587,12 @@ Few; respected but occasionally faces skepticism from traditionalists.
 
 ## Plot Hooks
 
-1. **The Longshorewoman's Dilemma** — Pórena faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **The Longshorewoman's Dilemma** — A merchant asks Pórena to look away from what is in his cargo, and she has to choose between her principles and her place on the docks.
 
-2. **Old Grudges** — Few; respected but occasionally faces skepticism from traditionalists. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — One of the traditionalists who doubted her goes from skepticism to sabotage.
 
-3. **Echoes of the Past** — Something from Pórena's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** — Something from Pórena's earlier life resurfaces on the docks and has to be settled.
 
-4. **Shifting Winds** — Political changes in Élavendre threaten to upend the social order that Pórena depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Élavendre threatens the docks Pórena depends upon, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Pórena the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — A shipping house offers Pórena a post beyond anything she has hoped for, and its price is not named up front.
