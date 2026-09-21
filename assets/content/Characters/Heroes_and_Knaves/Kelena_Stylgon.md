@@ -588,7 +588,7 @@ Kêlena stands 5'7" tall with a heavy build. She has golden-toned skin, Flowing 
 
 ### The Dancer's Daughter
 
-Kêlena was born in the Kingdom of [[place-provenzrgn|Provènzia]] to a musician mother and a father whose identity she has never disclosed and seems reluctant to discuss. Her childhood was spent in the theatrical world—her mother performed in various traveling troupes, and young **Kêlena** was raised backstage, absorbing the arts of performance, seduction, and social manipulation as naturally as other children learn language. By age ten, she performed minor roles in stage productions; by fifteen, she was drawing attention as a dancer of unusual grace and charisma. Yet she demonstrated an early intelligence about the performance itself—understanding that physical beauty and dancing skill, while important, were secondary to the art of capturing and holding an audience's emotional attention.
+Kêlena was born in the Kingdom of [[affiliation-kngdmprvnz|Provènzia]] to a musician mother and a father whose identity she has never disclosed and seems reluctant to discuss. Her childhood was spent in the theatrical world—her mother performed in various traveling troupes, and young **Kêlena** was raised backstage, absorbing the arts of performance, seduction, and social manipulation as naturally as other children learn language. By age ten, she performed minor roles in stage productions; by fifteen, she was drawing attention as a dancer of unusual grace and charisma. Yet she demonstrated an early intelligence about the performance itself—understanding that physical beauty and dancing skill, while important, were secondary to the art of capturing and holding an audience's emotional attention.
 
 ### The Rise Through Society
 
