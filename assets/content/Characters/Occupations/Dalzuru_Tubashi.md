@@ -556,7 +556,7 @@ Dalzûru Tûbashî is a 43-year-old man who stands 5'10" tall and is of moderate
 
 # Dossier {#dossier}
 
-Born in the Harad region to a freeman family of Haradian heritage, Dalzûru Tûbashî came into the world of the skald through a combination of circumstance and aptitude.
+Born in the [[place-haradregin|Harad]] region to a freeman family of Haradian heritage, Dalzûru Tûbashî came into the world of the skald through a combination of circumstance and aptitude.
 
 Dalzûru was raised in a warrior's family but found his true calling as a skald, weaving tales of valor and tragedy in the mead halls. He is renowned for his vivid storytelling and deep, resonant voice, often recounting the sagas of ancient heroes. Though he can wield a sword, he prefers to wield words and music to inspire others.
 

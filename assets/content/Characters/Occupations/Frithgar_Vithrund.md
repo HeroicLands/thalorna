@@ -554,7 +554,7 @@ Frithgár Vithrúnd is a 42-year-old man who stands 6'2" tall and is broad and s
 
 # Dossier {#dossier}
 
-Born in the Vrystwald region to a freeman family of Varokhi heritage, Frithgár Vithrúnd came into the world of the huscarl through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Frithgár Vithrúnd came into the world of the huscarl through a combination of circumstance and aptitude.
 
 Frithgár has served as a loyal huscarl for Lord Sigvald for many years. With extensive battle experience, he has seen his share of conflicts and knows how to handle himself in the heat of battle. Frithgár is respected for his tactical knowledge and ability to mentor younger warriors. He aims to pass down his wisdom and ensure the next generation is ready to defend their lord.
 

@@ -557,7 +557,7 @@ Ethelinda Wigmore is a 34-year-old woman who stands 6'0" tall and is of moderate
 
 # Dossier {#dossier}
 
-Born in the Aelwyth region to a freeman family of Aelwythan heritage, Ethelinda Wigmore came into the world of the jailer through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Ethelinda Wigmore came into the world of the jailer through a combination of circumstance and aptitude.
 
 Ethelinda became a jailer after serving as a city guard for several years. She was drawn to the role because of the opportunity to make a difference by maintaining order and safety within the prison. Known for her sharp mind and keen observation skills, Ethelinda is good at reading people and often mediates disputes between inmates. While dedicated to her work, she sometimes struggles with the harshness of the environment.
 

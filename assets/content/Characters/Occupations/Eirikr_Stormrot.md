@@ -557,7 +557,7 @@ Eiríkr Stormrót is a 54-year-old man who stands 5'10" tall and is broad and so
 
 # Dossier {#dossier}
 
-Born in the Nordheim region to a freeman family of Nordheimn heritage, Eiríkr Stormrót came into the world of the fisher through a combination of circumstance and aptitude.
+Born in the [[affiliation-kngdmnrdhm|Nordheim]] region to a freeman family of Nordheimn heritage, Eiríkr Stormrót came into the world of the fisher through a combination of circumstance and aptitude.
 
 Eiríkr has spent his entire life on the water, fishing the coastal seas. He is known for his toughness and endurance, often staying out longer than others to ensure a good catch. Though his body has grown weary with age, Eiríkr remains a fixture at the docks and is respected for his hard-earned wisdom. He enjoys sharing stories of the sea and teaching younger fishers the ways of the trade.
 

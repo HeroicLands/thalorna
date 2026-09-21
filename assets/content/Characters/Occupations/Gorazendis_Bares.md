@@ -555,7 +555,7 @@ Gorâzendîs Bârês is a 27-year-old woman who stands 5'10" tall and is slender
 
 # Dossier {#dossier}
 
-Born in the Vylaría region to a freeman family of Vylarian heritage, Gorâzendîs Bârês came into the world of the locksmith through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Gorâzendîs Bârês came into the world of the locksmith through a combination of circumstance and aptitude.
 
 Gorâzendîs is a talented locksmith with secret ties to the Velvet Hand. She uses her skills to create locks that are both beautiful and functional, often incorporating secret mechanisms that only a few know about. While she operates a legitimate locksmith business, her connections to the Velvet Hand allow her to provide unique services to those in the underworld. Gorâzendîs walks the line between legality and crime, using her talents to survive in a challenging environment.
 

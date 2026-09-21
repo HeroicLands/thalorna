@@ -558,7 +558,7 @@ sohl:
 
 # Dossier {#dossier}
 
-Born in the Heliónis region to a freeman family of Helionite heritage, Ázîna Râfîrôs came into the world of the embalmer through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Ázîna Râfîrôs came into the world of the embalmer through a combination of circumstance and aptitude.
 
 Ázîna found her calling as an embalmer after losing her brother, taking comfort in preparing his body for burial. She sees the profession as a way to help families cope with loss and ensure that their loved ones are treated with dignity. Ázîna's gentle demeanor makes her well-suited to the work, though it sometimes takes a toll on her emotionally. She often incorporates rituals and herbs that are believed to protect the deceased's spirit.
 

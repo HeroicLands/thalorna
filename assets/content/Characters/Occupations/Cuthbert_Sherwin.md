@@ -553,7 +553,7 @@ Cuthbert Sherwin is a 52-year-old man who stands 5'11" tall and is broad and sol
 
 # Dossier {#dossier}
 
-Born in the Aelwyth region to a freeman family of Aelwythan heritage, Cuthbert Sherwin came into the world of the woodcutter through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Cuthbert Sherwin came into the world of the woodcutter through a combination of circumstance and aptitude.
 
 Cuthbert is a veteran woodcutter who has spent decades working in the forests. Known for his strength and resilience, he is often the first to volunteer for the toughest jobs. Cuthbert enjoys teaching younger woodcutters the skills needed to survive in the woods, though he can be stubborn about using traditional methods and is wary of new tools. He is a firm believer in sustainable forestry and takes care to replant trees.
 

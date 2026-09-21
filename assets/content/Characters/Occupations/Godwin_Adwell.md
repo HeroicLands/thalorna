@@ -557,7 +557,7 @@ Godwin Adwell is a 38-year-old man who stands 6'1" tall and is of moderate build
 
 # Dossier {#dossier}
 
-Born in the Aelwyth region to a freeman family of Aelwythan heritage, Godwin Adwell came into the world of the herder through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Godwin Adwell came into the world of the herder through a combination of circumstance and aptitude.
 
 Godwin comes from a long line of herders, spending his life tending sheep and goats in the hills. He knows the land like the back of his hand and can navigate even the most treacherous paths. His quiet, calm demeanor makes him well-suited to the solitary life of a herder, though he can be protective when necessary. Godwin is deeply connected to his animals and believes in treating them with care and respect.
 

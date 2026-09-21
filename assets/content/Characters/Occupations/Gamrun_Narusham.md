@@ -555,7 +555,7 @@ Gamrûn Narûsham is a 45-year-old man who stands 6'1" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the Harad region to a guilded family of Haradian heritage, Gamrûn Narûsham came into the world of the swordmaster through a combination of circumstance and aptitude.
+Born in the [[place-haradregin|Harad]] region to a guilded family of Haradian heritage, Gamrûn Narûsham came into the world of the swordmaster through a combination of circumstance and aptitude.
 
 Gamrûn is a veteran swordsman who once served as a guard captain for a prominent noble family. Now retired from active service, he earns his living by teaching swordsmanship to young nobles and aspiring warriors. Known for his strict discipline and precise techniques, Gamrûn takes great pride in his students' achievements. However, he struggles with the aches and pains of aging, which sometimes hinder his own movements.
 

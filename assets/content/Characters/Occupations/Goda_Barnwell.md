@@ -553,7 +553,7 @@ Goda Barnwell is a 29-year-old woman who stands 5'7" tall and is slender. She ha
 
 # Dossier {#dossier}
 
-Born in the Aelwyth region to a freeman family of Aelwythan heritage, Goda Barnwell came into the world of the potter through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Goda Barnwell came into the world of the potter through a combination of circumstance and aptitude.
 
 Goda is a talented potter with a passion for creating vibrant and colorful pottery. She specializes in glazing techniques and often incorporates artistic designs into her work. Goda enjoys experimenting with new colors and patterns, pushing the boundaries of traditional pottery. Her shop is a favorite among locals for its unique offerings, and she frequently collaborates with other artists for special projects.
 

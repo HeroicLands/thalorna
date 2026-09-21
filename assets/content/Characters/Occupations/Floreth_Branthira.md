@@ -556,7 +556,7 @@ Floréth Bránthira is a 45-year-old man who stands 6'4" tall and is broad and s
 
 # Dossier {#dossier}
 
-Born in the Tarvénia region to a freeman family of Tarvénan heritage, Floréth Bránthira came into the world of the laborer (semi-skilled) through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Floréth Bránthira came into the world of the laborer (semi-skilled) through a combination of circumstance and aptitude.
 
 Floréth has spent his life working in construction and manual labor. Known for his strength and stamina, he has taken on various roles, from bricklaying to heavy lifting. Floréth takes pride in his work and often leads teams of laborers. While he has a tough exterior, he is known for his sense of humor and willingness to lend a hand to those in need.
 

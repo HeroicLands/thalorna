@@ -557,7 +557,7 @@ Kélyra Sálthar is a 42-year-old woman who stands 5'5" tall and is slender. She
 
 # Dossier {#dossier}
 
-Born in the Élavendre region to a guilded family of Élavendri heritage, Kélyra Sálthar came into the world of the bureaucrat through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a guilded family of Élavendri heritage, Kélyra Sálthar came into the world of the bureaucrat through a combination of circumstance and aptitude.
 
 Kélyra comes from a family of civil servants and followed in their footsteps, working in the city’s treasury department. Known for her sharp mind and keen eye for detail, she has uncovered several cases of embezzlement. Her dedication to rooting out corruption has made her a few enemies among the more unscrupulous officials.
 

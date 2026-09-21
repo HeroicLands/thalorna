@@ -555,7 +555,7 @@ Brýnael Fálwyn is a 27-year-old woman who stands 5'9" tall and is slender. She
 
 # Dossier {#dossier}
 
-Born in the Élavendre region to a freeman family of Élavendri heritage, Brýnael Fálwyn came into the world of the toymaker through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Brýnael Fálwyn came into the world of the toymaker through a combination of circumstance and aptitude.
 
 Brýnael grew up in a small village, where she started making simple toys for her younger siblings out of whatever materials she could find. Her talent for creating playful and durable toys gained local attention, and she eventually opened a small workshop. Brýnael’s work is known for its rustic charm, with a focus on toys that encourage outdoor play.
 

@@ -553,7 +553,7 @@ Hâlira Náredh is a 26-year-old woman who stands 5'9" tall and is slender. She 
 
 # Dossier {#dossier}
 
-Born in the Élavendre region to a freeman family of Élavendri heritage, Hâlira Náredh came into the world of the scribe through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Hâlira Náredh came into the world of the scribe through a combination of circumstance and aptitude.
 
 Hâlira is an aspiring scribe who has taken up work in a bustling urban center, where she transcribes letters and documents for local merchants. Known for her artistic flair, she often adds decorative elements to her manuscripts, making them more visually appealing. Hâlira dreams of one day creating her own illustrated texts and often practices her skills in her free time.
 

@@ -560,7 +560,7 @@ Dálina Valárion is a 32-year-old woman who stands 5'9" tall and is slender. Sh
 
 # Dossier {#dossier}
 
-Born in the Tarvénia region to a noble family of Tarvénan heritage, Dálina Valárion came into the world of the pilot through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a noble family of Tarvénan heritage, Dálina Valárion came into the world of the pilot through a combination of circumstance and aptitude.
 
 Dálina is an accomplished pilot who specializes in cargo transport. She has a talent for managing her crew and ensuring that shipments arrive safely and on time. Known for her strong leadership skills, she is respected among her colleagues and has built a solid reputation for reliability. Dálina is passionate about her work and often advocates for improved working conditions in the aviation industry.
 

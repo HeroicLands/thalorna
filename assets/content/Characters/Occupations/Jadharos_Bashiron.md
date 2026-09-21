@@ -556,7 +556,7 @@ Jâdhâros Bâshirôn is a 30-year-old man who stands 6'2" tall and is of modera
 
 # Dossier {#dossier}
 
-Born in the Heliónis region to a freeman family of Helionite heritage, Jâdhâros Bâshirôn came into the world of the common seaman through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Jâdhâros Bâshirôn came into the world of the common seaman through a combination of circumstance and aptitude.
 
 Jâdhâros is an experienced seaman who has spent years sailing the coastal waters. Known for his reliability and work ethic, he is often called upon to handle various tasks aboard the ship. Jâdhâros is well-liked by his crewmates for his sense of humor and ability to lift spirits during long voyages. He dreams of one day becoming a captain himself.
 

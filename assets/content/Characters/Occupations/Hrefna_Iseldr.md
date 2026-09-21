@@ -558,7 +558,7 @@ Hrefna Íseldr is a 34-year-old woman who stands 5'10" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the Nordheim region to a freeman family of Nordheimn heritage, Hrefna Íseldr came into the world of the woodcutter through a combination of circumstance and aptitude.
+Born in the [[affiliation-kngdmnrdhm|Nordheim]] region to a freeman family of Nordheimn heritage, Hrefna Íseldr came into the world of the woodcutter through a combination of circumstance and aptitude.
 
 Hrefna grew up in a family of woodcutters and took to the trade naturally. She is known for her efficiency and ability to navigate dense forests to find the best trees for cutting. Hrefna works alongside her brothers, who have come to respect her skills and knowledge of the craft. Despite the physical demands of the job, she enjoys the work and finds a sense of freedom in the forest.
 

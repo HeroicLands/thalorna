@@ -556,7 +556,7 @@ Harphôs Ôrchârenîs is a 38-year-old man who stands 5'10" tall and is of mode
 
 # Dossier {#dossier}
 
-Born in the Vylaría region to a guilded family of Vylarian heritage, Harphôs Ôrchârenîs came into the world of the chandler through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaría]] region to a guilded family of Vylarian heritage, Harphôs Ôrchârenîs came into the world of the chandler through a combination of circumstance and aptitude.
 
 Harphôs operates a bustling candle shop in the city, catering to the demands of the local nobility as well as commoners. He uses a mix of beeswax and tallow to produce candles for different price ranges, often adding scents and colors for variety. Ambitious and entrepreneurial, Harphôs is always looking for ways to expand his business.
 

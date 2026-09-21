@@ -554,7 +554,7 @@ Kenelm Adwell is a 40-year-old man who stands 6'2" tall and is broad and solidly
 
 # Dossier {#dossier}
 
-Born in the Aelwyth region to a freeman family of Aelwythan heritage, Kenelm Adwell came into the world of the caravan guard through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Kenelm Adwell came into the world of the caravan guard through a combination of circumstance and aptitude.
 
 Kenelm is a seasoned caravan guard with decades of experience. He has seen many dangers on the road and has learned to anticipate threats. His strong leadership skills make him an excellent choice for overseeing caravan security. Kenelm believes in camaraderie and often shares stories and strategies with younger guards to help them grow in their roles.
 

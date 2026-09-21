@@ -555,7 +555,7 @@ sohl:
 
 # Dossier {#dossier}
 
-Born in the Élavendre region to a freeman family of Élavendri heritage, Ívelyn Zálreth came into the world of the woodcrafter through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Ívelyn Zálreth came into the world of the woodcrafter through a combination of circumstance and aptitude.
 
 Ívelyn grew up near a dense forest and spent her childhood learning to carve simple wooden toys. As she grew older, she expanded her skills to create larger and more intricate pieces, including furniture and decorative carvings. Ívelyn's work is known for its natural motifs, often inspired by the local flora and fauna. She enjoys experimenting with different wood types to find the best material for each piece.
 

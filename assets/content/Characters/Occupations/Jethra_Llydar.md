@@ -558,7 +558,7 @@ Jéthra Llýdar is a 39-year-old woman who stands 5'6" tall and is slender. She 
 
 # Dossier {#dossier}
 
-Born in the Élavendre region to a guilded family of Élavendri heritage, Jéthra Llýdar came into the world of the astrologer through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a guilded family of Élavendri heritage, Jéthra Llýdar came into the world of the astrologer through a combination of circumstance and aptitude.
 
 Jéthra grew up in a bustling port city, where she developed a fascination with the night sky while watching ships navigate by the stars. She became an astrologer to provide guidance to sailors and merchants. Known for her practical and down-to-earth readings, she is popular among the seafaring community. She sometimes assists in navigation for long voyages.
 

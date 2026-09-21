@@ -532,7 +532,7 @@ Gábêros stands 5'8" with a light, lean build — narrow in the shoulders and s
 
 # Dossier {#dossier}
 
-Gábêros was born into a scholarly family in Heliónis and spent his early years surrounded by philosophy, rhetoric, and intellectual discourse. His father was a minor scholar at the Panepistemium. Gábêros was educated beyond most soldiers' expectations but discovered early that pure intellectual work did not satisfy him—he wanted to apply knowledge to practical problems. At twenty, he joined the agora patrol, the city guard detail responsible for maintaining order in Heliónis's central marketplace and intellectual gathering spaces.
+Gábêros was born into a scholarly family in [[place-helionis|Heliónis]] and spent his early years surrounded by philosophy, rhetoric, and intellectual discourse. His father was a minor scholar at [[affiliation-panepistmm|the Panepistemium]]. Gábêros was educated beyond most soldiers' expectations but discovered early that pure intellectual work did not satisfy him—he wanted to apply knowledge to practical problems. At twenty, he joined the agora patrol, the city guard detail responsible for maintaining order in Heliónis's central marketplace and intellectual gathering spaces.
 
 The agora patrol is different from other city guard work. It requires the ability to understand complex commercial disputes, recognize when intellectual debate is beginning to shift into incitement to violence, manage both merchants and philosophers with equal authority. Gábêros thrived in this role. He became known as the guard who would explain the law instead of merely enforcing it, who would engage in actual discussion rather than wielding authority blindly.
 

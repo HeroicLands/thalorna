@@ -555,7 +555,7 @@ sohl:
 
 # Dossier {#dossier}
 
-Born in the Tarvénia region to a freeman family of Tarvénan heritage, Élsaro Castírenna came into the world of the mercenary through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Élsaro Castírenna came into the world of the mercenary through a combination of circumstance and aptitude.
 
 Élsaro is a skilled assassin-for-hire, known for his stealth and precision. He operates in the shadows, taking on contracts from those willing to pay for his services. Élsaro has a reputation for being efficient and discreet, often using his skills to eliminate targets without a trace. He values his independence and often works alone but is also willing to collaborate when the job requires it.
 

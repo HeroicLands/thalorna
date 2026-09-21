@@ -553,7 +553,7 @@ Ermína Fródbán is a 30-year-old woman who stands 5'11" tall and is slender. S
 
 # Dossier {#dossier}
 
-Born in the Vrystwald region to a freeman family of Varokhi heritage, Ermína Fródbán came into the world of the fisher through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Ermína Fródbán came into the world of the fisher through a combination of circumstance and aptitude.
 
 Ermína grew up near the shore, where she developed a love for the sea. She became a fisher to support her family and enjoys the freedom that comes with being on the water. Ermína is known for her quick thinking and ability to adapt to changing conditions at sea. She is also a skilled netmaker, often mending her own nets and selling spares to other fishers.
 
