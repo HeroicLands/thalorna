@@ -546,54 +546,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Frítha Stormrót is a 27-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with sharp cheekbones, a prominent forehead, and a broad jaw that leads to a strong chin. Her narrow blue eyes sit beneath thick brows, lending her a keen gaze. A strong nose and firm lips complete her features. She has medium-toned skin with a ruddy complexion. Her auburn hair is braided and coiled at the nape.
+Frítha Stormrót is a 27-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with sharp cheekbones, a prominent forehead, and a broad jaw that leads to a strong chin. Her narrow blue eyes sit beneath thick brows and give her a keen gaze. She has a strong nose and firm lips. She has medium-toned skin with a ruddy complexion. Her auburn hair is braided and coiled at the nape.
 
 # Dossier {#dossier}
 
-Born in the [[affiliation-kngdmnrdhm|Nordheim]] region to a freeman family of Nordheimn heritage, Frítha Stormrót came into the world of the ratter through a combination of circumstance and aptitude.
+Born in the [[affiliation-kngdmnrdhm|Nordheim]] region to a freeman family of Nordheimn heritage, Frítha Stormrót is a ratter.
 
-Frítha grew up in the city and learned the art of rat catching from her father. She is known for her agility and cunning, often using a combination of traps and her quick reflexes to catch rodents. Frítha takes pride in her work and is dedicated to keeping the streets safe from infestations. She has a strong bond with her trained cat, Whiskers, who assists her in her endeavors.
+Frítha grew up in the city and learned rat-catching from her father. She is known for her agility and cunning, and uses traps and her own quick reflexes together to catch rodents. She takes pride in her work and is dedicated to keeping the streets free of infestations. She has a strong bond with her trained cat, Whiskers, who works alongside her.
 
-Now at 27 years of age, Frítha Stormrót has established herself as a known figure among the ratters of Nordheim. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 27 years of age, she is a known figure among the ratters of Nordheim.
 
 ## Psyche
 
 ### Personality
 
-Can be overly focused on her work, struggles with trust in others.
+She can be overly focused on her work, and struggles to trust others.
 
 ### Motivation
 
-Frítha is driven by the desire to master her craft and secure a stable future. The uncertainties of life in ratter work keep her vigilant and adaptable.
+Frítha wants the streets she grew up in kept clear of rats, and her father's trade kept up as he taught it.
 
 ### Strengths
 
-Agile and quick, skilled in using traps, adept at handling animals.
+She is agile and quick, skilled with traps, and good with animals.
 
 ## Social
 
-Frítha is affiliated with None; operates independently..
-
-As a Nordheimn ratter, Frítha occupies a recognized social niche within Nordheim society.
+Frítha belongs to no guild and works independently.
 
 ## Companions
 
 ### Patrons
 
-Frítha's primary patron is Local businesses and households dealing with rat problems.. This relationship provides both opportunity and obligation.
+Frítha's patrons are the local businesses and households with rat problems.
 
 ### Enemies
 
-Few; well-liked in her community, though some rats remain elusive.
+Few; she is well liked in her community, though some rats remain elusive.
 
 ## Plot Hooks
 
-1. **The Ratter's Dilemma** — Frítha faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Nordheim.
+1. **The Ratter's Dilemma** — A householder who pays Frítha well wants the rats driven out rather than killed, into the street where they will become someone else's.
 
-2. **Old Grudges** — Few; well-liked in her community, though some rats remain elusive. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A rat Frítha could never catch has been seen again, in the one house whose custom she cannot afford to lose.
 
-3. **Echoes of the Past** — Something from Frítha's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** — A trap of Frítha's father's design is found set in a part of the city he never worked, and she did not set it.
 
-4. **Shifting Winds** — Political changes in Nordheim threaten to upend the social order that Frítha depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Nordheim threatens the businesses Frítha's trade depends on, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Frítha the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — A merchant offers Frítha the keeping of his whole warehouse district at a wage, and the poisons he wants used would put Whiskers at risk.

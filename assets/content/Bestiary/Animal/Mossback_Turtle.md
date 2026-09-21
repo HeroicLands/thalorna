@@ -342,7 +342,7 @@ The Mossback Turtle’s shell is its most prominent feature—a dome of armor so
 
 ## Key Behaviors
 
-Mossback Turtles are herbivorous grazers that spend much of their time slowly moving through forests, consuming vegetation, fungi, and plant matter. They are solitary, with only minimal interaction with other turtles during mating season. They prefer forest environments near water—streams, ponds, and wetlands—where they can bathe and find aquatic vegetation. They are primarily diurnal, resting at night in burrows or beneath overhanging rocks. They live for many decades, if not centuries, and their shells show the accumulated damage of a long life. They are generally reclusive and non-aggressive, preferring to withdraw when threatened.
+Mossback Turtles are herbivorous grazers that spend much of their time slowly moving through forests, consuming vegetation, fungi, and plant matter. They are solitary, meeting other turtles only during mating season. They prefer forest environments near water—streams, ponds, and wetlands—where they can bathe and find aquatic vegetation. They are primarily diurnal, resting at night in burrows or beneath overhanging rocks. They live for many decades, if not centuries, and their shells show the accumulated damage of a long life. They are generally reclusive and non-aggressive, preferring to withdraw when threatened.
 
 ## Combat Strategy
 
@@ -362,15 +362,15 @@ The Mossback Turtle can use its immense weight to crush opponents, toppling them
 
 ### Impenetrable Shell
 
-The Mossback Turtle’s shell provides extraordinary protection, reducing physical damage from most sources; attacks from above or the sides are largely ineffective, though strikes to exposed limbs or the head bypass the protection.
+The Mossback Turtle’s shell provides extraordinary protection, blunting most blows; attacks from above or the sides are largely ineffective, though strikes to exposed limbs or the head bypass the protection.
 
 ### Natural Camouflage
 
-When still, the Mossback Turtle is nearly invisible in forest environments, appearing indistinguishable from a moss-covered rock; enemies gain disadvantages to perception checks to notice a stationary turtle.
+When still, the Mossback Turtle is nearly invisible in forest environments, appearing indistinguishable from a moss-covered rock; a stationary turtle is easily overlooked even by those searching for it.
 
 ### Slow but Steadfast
 
-While slow, the Mossback Turtle is difficult to move once it has taken position; it gains bonuses to opposed strength checks to resist being moved or knocked prone.
+While slow, the Mossback Turtle is difficult to move once it has taken position; it is very hard to shove aside or overturn.
 
 ## Attributes
 

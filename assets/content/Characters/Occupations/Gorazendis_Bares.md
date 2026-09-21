@@ -551,54 +551,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Gorâzendîs Bârês is a 27-year-old woman who stands 5'10" tall and is slender. She has a diamond face with sharp cheekbones, a prominent forehead, and a square jaw that leads to a prominent chin. Her piercing hazel eyes sit beneath straight brows, lending her a penetrating gaze. A strong nose and wide lips complete her features. She has medium-toned skin with a sun-tanned complexion. Her black hair is pinned in an elegant twist.
+Gorâzendîs Bârês is a 27-year-old woman who stands 5'10" tall and is slender. She has a diamond face with sharp cheekbones, a prominent forehead, and a square jaw that leads to a prominent chin. Her piercing hazel eyes sit beneath straight brows and give her a penetrating gaze. She has a strong nose and wide lips. She has medium-toned skin with a sun-tanned complexion. Her black hair is pinned in an elegant twist.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Gorâzendîs Bârês came into the world of the locksmith through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Gorâzendîs Bârês is a locksmith.
 
-Gorâzendîs is a talented locksmith with secret ties to the Velvet Hand. She uses her skills to create locks that are both beautiful and functional, often incorporating secret mechanisms that only a few know about. While she operates a legitimate locksmith business, her connections to the Velvet Hand allow her to provide unique services to those in the underworld. Gorâzendîs walks the line between legality and crime, using her talents to survive in a challenging environment.
+Gorâzendîs is a talented locksmith with secret ties to the Velvet Hand. She uses her skills to make locks that are both beautiful and functional, often with hidden mechanisms that only a few know about. While she runs a legitimate locksmith's shop, her connections to the Velvet Hand let her provide unusual services to those in the underworld. She walks the line between legality and crime, using her talents to get by.
 
-Now at 27 years of age, Gorâzendîs Bârês has established herself as a known figure among the locksmiths of Vylaria. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 27 years of age, she is a known figure among the locksmiths of Vylaria.
 
 ## Psyche
 
 ### Personality
 
-Can be reckless, struggles with the moral implications of her work.
+She can be reckless, and struggles with the right and wrong of her work.
 
 ### Motivation
 
-Gorâzendîs is driven by the desire to master her craft and secure a stable future. The uncertainties of life in locksmith work keep her vigilant and adaptable.
+Gorâzendîs wants her shop to stand on its own, and her work for the Velvet Hand to stay the secret it is.
 
 ### Strengths
 
-Skilled in lockpicking and creating intricate designs, resourceful, street-smart.
+She is skilled in lockpicking and in fine, detailed lockwork, resourceful, and street-smart.
 
 ## Social
 
-Gorâzendîs is affiliated with the Velvet Hand, a network of skilled operatives in Vylaria.
-
-As a Vylarian locksmith, Gorâzendîs occupies a recognized social niche within Vylaria society.
+Gorâzendîs belongs to the Velvet Hand, a network of skilled operatives in Vylaria.
 
 ## Companions
 
 ### Patrons
 
-Gorâzendîs's primary patron is Members of the Velvet Hand and local nobles who appreciate her craft. This relationship provides both opportunity and obligation.
+Gorâzendîs's patrons are members of the Velvet Hand and the local nobles who appreciate her craft.
 
 ### Enemies
 
-Some city guards who suspect her affiliations.
+Some city guards suspect her affiliations.
 
 ## Plot Hooks
 
-1. **The Locksmith's Dilemma** — Gorâzendîs faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
+1. **The Locksmith's Dilemma** — A noble commissions a lock from Gorâzendîs and the Velvet Hand asks for its hidden mechanism, and she cannot keep faith with both.
 
-2. **Old Grudges** — Some city guards who suspect her affiliations. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A city guard who suspects Gorâzendîs's affiliations has begun watching her shop.
 
-3. **Echoes of the Past** — Something from Gorâzendîs's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** — A lock Gorâzendîs made with a hidden mechanism in her first years turns up on a door the Velvet Hand has been paid to open.
 
-4. **Shifting Winds** — Political changes in Vylaria threaten to upend the social order that Gorâzendîs depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Vylaria threatens the Velvet Hand and the nobles who buy Gorâzendîs's locks alike, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Gorâzendîs the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — A noble house offers Gorâzendîs its whole custom in locks, and the Velvet Hand's interest in that house is the part no one mentions.

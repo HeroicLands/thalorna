@@ -554,54 +554,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Teshûran Bûrnashî is a 50-year-old man who stands 6'0" tall and is broad and solidly built. He has a diamond face with soft cheekbones, a lined forehead, and a sharp jaw that leads to a pointed chin. His round dark brown eyes sit beneath prominent brows, lending him a candid gaze. A prominent nose and thin lips complete his features. He has medium-toned skin with a weathered complexion. His gray hair is tied in a low tail.
+Teshûran Bûrnashî is a 50-year-old man who stands 6'0" tall and is broad and solidly built. He has a diamond face with soft cheekbones, a lined forehead, and a sharp jaw that leads to a pointed chin. His round dark brown eyes sit beneath prominent brows and give him a candid gaze. He has a prominent nose and thin lips. He has medium-toned skin with a weathered complexion. His gray hair is tied in a low tail.
 
 # Dossier {#dossier}
 
-Born in the [[place-haradregin|Harad]] region to a freeman family of Haradian heritage, Teshûran Bûrnashî came into the world of the swordmaster through a combination of circumstance and aptitude.
+Born in the [[place-haradregin|Harad]] region to a freeman family of Haradian heritage, Teshûran Bûrnashî is a swordmaster.
 
-Teshûran was a mercenary who spent most of his life fighting in various skirmishes and wars. After losing his left eye in a battle, he retired from mercenary life and settled in a small village, where he teaches swordsmanship to young men and women seeking to defend their homeland. Teshûran's experience in real combat sets him apart from other swordmasters, but his past haunts him, and he struggles with guilt over the lives he took.
+Teshûran was a mercenary who spent most of his life fighting in skirmishes and wars. After losing his left eye in a battle, he left mercenary life and settled in a small village, where he teaches swordsmanship to young men and women who mean to defend their homeland. His experience of real combat sets him apart from other swordmasters, but his past haunts him, and he struggles with guilt over the lives he took.
 
-Now at 50 years of age, Teshûran Bûrnashî has established himself as a known figure among the swordmasters of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 50 years of age, he is a known figure among the swordmasters of Harad.
 
 ## Psyche
 
 ### Personality
 
-Haunted by his past, struggles with the morality of his former life.
+He is haunted by his past, and struggles with the morality of his former life.
 
 ### Motivation
 
-Teshûran's driving force is the search that defines his life — a quest that shapes every decision he makes and every risk he takes.
+Teshûran wants the young men and women he trains to be able to defend their homes, and to answer in that way for the lives he took.
 
 ### Strengths
 
-Combat experience, skilled in practical sword techniques, tough and resilient.
+He has combat experience, is skilled in practical sword technique, and is tough and resilient.
 
 ## Social
 
-Teshûran is affiliated with None; works independently in the village..
-
-As a Haradian swordmaster, Teshûran occupies a recognized social niche within Harad society.
+Teshûran belongs to no company and works on his own in the village.
 
 ## Companions
 
 ### Patrons
 
-Teshûran's primary patron is Local villagers who seek his instruction for defense.. This relationship provides both opportunity and obligation.
+Teshûran's patrons are the local villagers who seek his instruction for their defense.
 
 ### Enemies
 
-Former mercenary comrades who hold grudges from past conflicts.
+Former mercenary comrades hold grudges from past conflicts.
 
 ## Plot Hooks
 
-1. **The Swordmaster's Dilemma** — Teshûran faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Harad.
+1. **The Swordmaster's Dilemma** — A mercenary company offers to hire the students Teshûran has trained, and the pay would take them from the village they were trained to defend.
 
-2. **Old Grudges** — Former mercenary comrades who hold grudges from past conflicts. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A former comrade who holds Teshûran responsible for a past defeat has learned which village he settled in.
 
-3. **Echoes of the Past** — Something from Teshûran's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past** — A survivor of a battle Teshûran fought as a mercenary comes to the village, and knows him despite the lost eye.
 
-4. **Shifting Winds** — Political changes in Harad threaten to upend the social order that Teshûran depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Harad brings war toward the village Teshûran trains, and he can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Teshûran the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — A lord offers Teshûran command of his household troops, and taking it would put him back in the life he left.

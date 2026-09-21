@@ -550,54 +550,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Syphrânôs Vârênlâs is a 37-year-old man who stands 6'2" tall and is broad and solidly built. He has an angular face with sharp cheekbones, a smooth forehead, and a strong jaw that leads to a strong chin. His hooded dark brown eyes sit beneath prominent brows, lending him a guarded gaze. A straight nose and full lips complete his features. He has light skin with a sun-tanned complexion. His black hair is short and swept back.
+Syphrânôs Vârênlâs is a 37-year-old man who stands 6'2" tall and is broad and solidly built. He has an angular face with sharp cheekbones, a smooth forehead, and a strong jaw that leads to a strong chin. His hooded dark brown eyes sit beneath prominent brows and give him a guarded gaze. He has a straight nose and full lips. He has light skin with a sun-tanned complexion. His black hair is short and swept back.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Syphrânôs Vârênlâs came into the world of the gladiator through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Syphrânôs Vârênlâs is a gladiator.
 
-Syphrânôs was born into poverty and sold into slavery at a young age. He was trained as a gladiator and quickly rose to prominence in the arena, earning the name "Vârênlâs" for his ferocity in combat. Syphrânôs has fought countless opponents and gained his freedom through his victories, but he continues to fight for glory and coin. While known for his brutal fighting style, he is surprisingly honorable, following a strict code of conduct in the arena.
+Syphrânôs was born into poverty and sold into slavery at a young age. He was trained as a gladiator and quickly rose to prominence in the arena, earning the name "Vârênlâs" for his ferocity in combat. He has fought countless opponents and won his freedom through his victories, but he continues to fight for glory and coin. For all the brutality of his fighting style, he is honorable, and keeps a strict code of conduct in the arena.
 
-Now at 37 years of age, Syphrânôs Vârênlâs has established himself as a known figure among the gladiators of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 37 years of age, he is a known figure among the gladiators of Vylaria.
 
 ## Psyche
 
 ### Personality
 
-Haunted by his past, struggles to adapt to life outside of combat.
+He is haunted by his past, and struggles to adapt to life outside the arena.
 
 ### Motivation
 
-Syphrânôs is driven by the desire to master his craft and secure a stable future. The uncertainties of life in gladiator work keep him vigilant and adaptable.
+Syphrânôs wants glory and coin enough that no one can sell him again.
 
 ### Strengths
 
-Physically powerful, skilled in multiple combat styles, experienced in the arena.
+He is physically powerful, skilled in several styles of combat, and experienced in the arena.
 
 ## Social
 
-Syphrânôs is affiliated with Gladiators' Guild.
-
-As a Vylarian gladiator, Syphrânôs occupies a recognized social niche within Vylaria society.
+Syphrânôs belongs to the Gladiators' Guild.
 
 ## Companions
 
 ### Patrons
 
-Syphrânôs's primary patron is Wealthy sponsors who bet on his matches.. This relationship provides both opportunity and obligation.
+Syphrânôs's patrons are the wealthy sponsors who bet on his matches.
 
 ### Enemies
 
-Rival gladiators who seek to surpass his reputation.
+Rival gladiators seek to surpass his reputation.
 
 ## Plot Hooks
 
-1. **The Gladiator's Dilemma** — Syphrânôs faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
+1. **The Gladiator's Dilemma** — A sponsor who bets on Syphrânôs wants a bout thrown, and his code in the arena and the coin he fights for cannot both be kept.
 
-2. **Old Grudges** — Rival gladiators who seek to surpass his reputation. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A rival gladiator who means to surpass Syphrânôs has challenged him to a bout outside the guild's rules.
 
-3. **Echoes of the Past** — Something from Syphrânôs's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past** — The man who bought Syphrânôs as a boy is in the stands, and claims the sale was never properly undone.
 
-4. **Shifting Winds** — Political changes in Vylaria threaten to upend the social order that Syphrânôs depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Vylaria threatens the arena Syphrânôs lives by, and he can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Syphrânôs the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — A sponsor offers Syphrânôs a bout against a champion from another city, for a purse that would end his fighting days, and the champion's record is not what the sponsor says.

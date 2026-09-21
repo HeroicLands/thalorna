@@ -555,54 +555,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Thornila Ríkhild is a 35-year-old woman who stands 6'0" tall and is slender. She has a broad face with high cheekbones, a wide forehead, and a strong jaw that leads to a firm chin. Her almond-shaped amber eyes sit beneath heavy brows, lending her a measured gaze. A strong nose and full lips complete her features. She has fair skin with a rough complexion. Her black hair is plaited in a single thick braid.
+Thornila Ríkhild is a 35-year-old woman who stands 6'0" tall and is slender. She has a broad face with high cheekbones, a wide forehead, and a strong jaw that leads to a firm chin. Her almond-shaped amber eyes sit beneath heavy brows and give her a measured gaze. She has a strong nose and full lips. She has fair skin with a rough complexion. Her black hair is plaited in a single thick braid.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a noble family of Varokhi heritage, Thornila Ríkhild came into the priesthood of Jánus through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a noble family of Varokhi heritage, Thornila Ríkhild is a priestess of Jánus.
 
-Thornila is a noble priestess devoted to the teachings of Jánus. With a strong belief in the protection of the weak, she often organizes charitable events, although her upper-class upbringing sometimes leads her to view those in need with a sense of superiority. Thornila believes that chivalry is essential in the defense of honor. She encourages her followers to uphold the ideals of justice and righteous struggle, though she struggles with understanding the plight of the lower classes.
+Thornila is a noble priestess devoted to the teachings of Jánus. With a strong belief in the protection of the weak, she often organizes charitable works, though her upbringing sometimes leads her to look down on those in need. She believes that chivalry is essential to the defense of honor, and encourages her followers to uphold the ideals of justice and righteous struggle, though she struggles to understand the plight of the lower classes.
 
-Now at 35 years of age, Thornila Ríkhild has established herself as a known figure among the priesthood of Jánus in Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 35 years of age, she is a known figure among the priesthood of Jánus in Vrystwald.
 
 ## Psyche
 
 ### Personality
 
-Can be elitist, struggles to empathize with the disadvantaged.
+She can be elitist, and struggles to feel for the disadvantaged.
 
 ### Motivation
 
-Thornila is driven by the desire to master her craft and secure a stable future. The uncertainties of priestly work keep her vigilant and adaptable.
+Thornila wants the weak protected and honor defended as Jánus teaches, by nobles and knights who hold to chivalry.
 
 ### Strengths
 
-Passionate about her beliefs, strong leadership abilities.
+She is passionate about her beliefs, and a strong leader.
 
 ## Social
 
-Thornila is affiliated with the Temple of Jánus.
-
-As a Varokhi priestess of Jánus, Thornila occupies a recognized social niche within Vrystwald society.
+Thornila belongs to the Temple of Jánus.
 
 ## Companions
 
 ### Patrons
 
-Thornila's primary patron is Nobles and knights seeking spiritual support and honor.. This relationship provides both opportunity and obligation.
+Thornila's patrons are the nobles and knights who seek spiritual support and honor.
 
 ### Enemies
 
-Few; generally respected, but some view her as aloof.
+Few; she is generally respected, but some view her as aloof.
 
 ## Plot Hooks
 
-1. **The Priestess's Dilemma** — Thornila faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vrystwald.
+1. **The Priestess's Dilemma** — A knight Thornila counsels has broken the chivalry she preaches against one of the weak she preaches for, and he is of her own class.
 
-2. **Old Grudges** — Few; generally respected, but some view her as aloof. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — One of the poor Thornila's charity was meant for has not forgotten how she looked at him, and says so where the temple can hear.
 
-3. **Echoes of the Past** — Something from Thornila's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** — A charitable work Thornila organized years ago is found to have done its poor more harm than good, and they remember whose it was.
 
-4. **Shifting Winds** — Political changes in Vrystwald threaten to upend the social order that Thornila depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Vrystwald threatens the nobility Thornila was born into and preaches to, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Thornila the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — The Temple of Jánus offers Thornila a higher office, and the price is the charitable work that is the one part of her ministry that reaches the poor.

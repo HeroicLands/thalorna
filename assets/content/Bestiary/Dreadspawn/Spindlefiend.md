@@ -264,11 +264,11 @@ Spindlefiends are creatures of intelligent malice born from the corruption of ov
 
 ## Presentation
 
-A Spindlefiend stands roughly 5 to 7 feet in height, but its most distinctive feature is the incredible length of its limbs—each leg extends 8 to 12 feet when fully articulated, allowing the creature to span vast distances with single movements. Its body is remarkably narrow and lightweight, covered in a chitinous exoskeleton of deep gray or midnight black, often wreathed in strands of nearly invisible silk that cling to and trail from its form. Its head bears eight eyes arranged in a nearly human configuration, each one a glowing coal of amber or sickly green. Its mouth is a nightmare of biology—mandibles that can open nearly at right angles, and fangs that secrete a luminescent venom that glows faintly even in complete darkness. Its limbs terminate in what could charitably be called claws, but are in reality pointed, articulated hooks designed solely for gripping, piercing, and tearing. The creature makes almost no sound when it moves—if anything, silence follows in its wake.
+A Spindlefiend stands roughly 5 to 7 feet in height, but its most distinctive feature is the incredible length of its limbs—each leg extends 8 to 12 feet when fully articulated, allowing the creature to span vast distances with single movements. Its body is narrow and light, covered in a chitinous exoskeleton of deep gray or midnight black, often wreathed in strands of nearly invisible silk that cling to and trail from its form. Its head bears eight eyes arranged in a nearly human configuration, each one a glowing coal of amber or sickly green. Its mouth is a nightmare of biology—mandibles that can open nearly at right angles, and fangs that secrete a luminescent venom that glows faintly even in complete darkness. Its limbs terminate in what could charitably be called claws, but are in reality pointed, articulated hooks designed solely for gripping, piercing, and tearing. The creature makes almost no sound when it moves—if anything, silence follows in its wake.
 
 ## Key Behaviors
 
-Spindlefiends are solitary, brilliantly strategic hunters that establish territories in complex three-dimensional spaces—places with multiple levels, alcoves, and corners where web-spinning can create intricate mazes. A single Spindlefiend may spend months or years perfecting a hunting ground, creating layers of webs that would require a team of dedicated workers weeks to fully map. The creature is primarily nocturnal but will hunt during the day if prey is available. It demonstrates remarkable patience, often simply hanging motionless in one location for days at a time, waiting for a potential victim to blunder into its territory. An ancient Spindlefiend may have refined its hunting ground into something approaching an art form, with redundant traps, multiple kill-zones, and escape routes designed to herd prey deeper into the maze rather than allowing escape.
+Spindlefiends are solitary, brilliantly cunning hunters that establish territories in complex three-dimensional spaces—places with multiple levels, alcoves, and corners where web-spinning can create mazes. A single Spindlefiend may spend months or years perfecting a hunting ground, creating layers of webs that would require a team of dedicated workers weeks to fully map. The creature is primarily nocturnal but will hunt during the day if prey is available. It is patient beyond measure, often simply hanging motionless in one location for days at a time, waiting for a potential victim to blunder into its territory. An ancient Spindlefiend may have refined its hunting ground into something approaching an art form, with redundant traps, multiple kill-zones, and escape routes designed to herd prey deeper into the maze rather than allowing escape.
 
 ## Combat Strategy
 
@@ -278,7 +278,7 @@ A Spindlefiend’s primary goal is to force or trick opponents into its webbed t
 
 ### Paralyzing Bite
 
-The creature strikes with terrifying speed, its fangs driving deep into exposed flesh and injecting venom that begins its work almost immediately. Victims experience progressive paralysis beginning at the bite wound and spreading outward, eventually immobilizing the entire body.
+The creature strikes with terrifying speed, its fangs driving deep into exposed flesh and injecting venom that begins its work almost immediately. Victims are paralyzed by degrees, beginning at the bite wound and spreading outward, eventually immobilizing the entire body.
 
 ### Razor Limb Slash
 
@@ -286,17 +286,17 @@ The Spindlefiend’s elongated limbs are drawn into close proximity and used lik
 
 ### Web Entanglement
 
-Rather than merely trapping prey with web, the Spindlefiend actively manipulates web strands, tightening them around limbs, constricting the throat, or creating hazardous terrain on the fly.
+Rather than merely trapping prey with web, the Spindlefiend actively manipulates web strands, tightening them around limbs, constricting the throat, or turning the ground itself into a snare.
 
 ## Special Abilities
 
 ### Nearly Invisible Silk
 
-The Spindlefiend’s webs are composed of strands so fine and dark that they are nearly impossible to perceive without exceptional light or magical sight. Areas filled with these webs appear empty to the untrained eye, making navigation a nightmare.
+The Spindlefiend’s webs are composed of strands so fine and dark that they are nearly impossible to perceive without strong light or magical sight. Areas filled with these webs appear empty to the untrained eye, making navigation a nightmare.
 
 ### Impossible Agility
 
-The Spindlefiend’s body is so perfectly adapted for three-dimensional movement that it moves on walls, ceilings, and across the span of wide gaps with the same ease a human walks on flat ground. Its movement speed increases dramatically in areas with complex geometry.
+The Spindlefiend’s body is so perfectly adapted for three-dimensional movement that it moves on walls, ceilings, and across the span of wide gaps with the same ease a human walks on flat ground. It moves much faster in cluttered, many-angled spaces.
 
 ### Predatory Genius
 

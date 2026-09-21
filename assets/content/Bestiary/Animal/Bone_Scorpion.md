@@ -260,7 +260,7 @@ The air grows cold where it stands motionless among the rocks and sand. Its exos
 
 # Dossier {#dossier}
 
-The Bone Scorpion is a massive desert arachnid evolved to be the apex predator of its habitat. Measuring seven to nine feet from the tip of its tail to the far reach of its pincers, it is an ambush hunter of supernatural patience and terrifying efficiency. Its pale, chitinous exoskeleton has evolved to blend seamlessly with sand and stone, and its metabolism allows it to go weeks without food by entering a hibernation state between kills. These creatures are so feared by desert peoples that they appear in folklore and legend as harbingers of death. A Bone Scorpion guards a territory of several miles and will attack anything it perceives as prey or threat, with no discrimination between human, animal, or monster. Adventurers may encounter them while traveling desert trade routes, investigating ruins, or searching for rare materials—scorpion venom is valuable to alchemists and poisoners.
+The Bone Scorpion is a massive desert arachnid evolved to be the apex predator of its habitat. Measuring seven to nine feet from the tip of its tail to the far reach of its pincers, it is an ambush hunter of supernatural patience and terrifying skill. Its pale, chitinous exoskeleton blends with sand and stone, and its metabolism allows it to go weeks without food by entering a hibernation state between kills. These creatures are so feared by desert peoples that they appear in folklore and legend as harbingers of death. A Bone Scorpion guards a territory of several miles and will attack anything it perceives as prey or threat, with no discrimination between human, animal, or monster. Adventurers may encounter them while traveling desert trade routes, investigating ruins, or searching for rare materials—scorpion venom is valuable to alchemists and poisoners.
 
 ## Presentation
 
@@ -292,7 +292,7 @@ The creature's tail can be used as a secondary whipping weapon, striking multipl
 
 ### Neurotoxic Venom
 
-The Bone Scorpion's venom is a sophisticated neurotoxin that attacks the nervous system and paralyzes skeletal muscles. A single injection typically affects smaller creatures severely; larger creatures may resist but will still suffer debilitating weakness. Repeated injections or sustained exposure can overcome even the strongest resistances. The venom is sufficiently valuable that collectors and apothecaries will pay premium prices for fresh samples.
+The Bone Scorpion's venom is a neurotoxin that attacks the nervous system and paralyzes skeletal muscles. A single injection typically affects smaller creatures severely; larger creatures may resist but will still suffer debilitating weakness. Repeated injections or sustained exposure can overcome even the strongest resistances. The venom is sufficiently valuable that collectors and apothecaries will pay premium prices for fresh samples.
 
 ### Sand Camouflage and Burrowing
 
@@ -300,7 +300,7 @@ The scorpion's exoskeleton is naturally camouflaged to blend with sand and deser
 
 ### Sensory Acuity
 
-Despite having simple eyes, a Bone Scorpion has extraordinarily acute senses. It detects vibrations in the earth from considerable distances, perceives heat signatures through thermal sensing organs, and can follow scent trails with precision. In its native desert environment, it is nearly impossible to approach undetected; in other terrains, its sensory advantage remains significant.
+Despite having simple eyes, a Bone Scorpion has extraordinarily acute senses. It detects vibrations in the earth from considerable distances, perceives warmth through heat-sensing organs, and can follow scent trails with precision. In its native desert environment, it is nearly impossible to approach undetected; in other terrains, its sensory advantage remains significant.
 
 ## Attributes
 

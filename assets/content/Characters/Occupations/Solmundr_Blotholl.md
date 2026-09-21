@@ -554,54 +554,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Sölmundr Blóthöll is a 32-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with prominent cheekbones, a broad forehead, and a strong jaw that leads to a broad chin. His sharp hazel eyes sit beneath heavy brows, lending him an incisive gaze. A prominent nose and thin lips complete his features. He has fair skin with a weathered complexion. His dark blonde hair is pulled back in a warrior's knot.
+Sölmundr Blóthöll is a 32-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with prominent cheekbones, a broad forehead, and a strong jaw that leads to a broad chin. His sharp hazel eyes sit beneath heavy brows and give him an incisive gaze. He has a prominent nose and thin lips. He has fair skin with a weathered complexion. His dark blonde hair is pulled back in a warrior's knot.
 
 # Dossier {#dossier}
 
-Born in the [[affiliation-kngdmnrdhm|Nordheim]] region to a freeman family of Nordheimn heritage, Sölmundr Blóthöll came into the world of the yeoman archer through a combination of circumstance and aptitude.
+Born in the [[affiliation-kngdmnrdhm|Nordheim]] region to a freeman family of Nordheimn heritage, Sölmundr Blóthöll is a yeoman archer.
 
-Sölmundr has always had a knack for archery, learning to hunt with a bow from a young age. His skill with a longbow earned him a place among the local lord’s yeomen. Known for his accuracy and steady hand, Sölmundr has made a name for himself as one of the best archers in the region. He often serves as a scout and marksman, preferring to keep his distance from the chaos of melee combat.
+Sölmundr has always had a knack for archery, learning to hunt with a bow from a young age. His skill with a longbow earned him a place among the local lord’s yeomen. Known for his accuracy and steady hand, he has made a name for himself as one of the best archers in the region. He often goes out as a scout and marksman, and prefers to keep his distance from the press of melee.
 
-Now at 32 years of age, Sölmundr Blóthöll has established himself as a known figure among the yeoman archers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 32 years of age, he is a known figure among the yeoman archers of Nordheim.
 
 ## Psyche
 
 ### Personality
 
-Not as strong in close combat, tends to rely too much on his bow.
+He is not as strong in close combat, and tends to rely too much on his bow.
 
 ### Motivation
 
-Sölmundr is driven by the desire to master his craft and secure a stable future. The uncertainties of life in yeoman archer work keep him vigilant and adaptable.
+Sölmundr wants to keep his place among the lord's yeomen, and his name as the best archer in the region.
 
 ### Strengths
 
-Skilled archer, excellent vision, steady under pressure.
+He is a skilled archer with excellent vision, and steady under pressure.
 
 ## Social
 
-Sölmundr is affiliated with Local Militia.
-
-As a Nordheimn yeoman archer, Sölmundr occupies a recognized social niche within Nordheim society.
+Sölmundr belongs to the Local Militia.
 
 ## Companions
 
 ### Patrons
 
-Sölmundr's primary patron is The local lord who values his skill as a marksman.. This relationship provides both opportunity and obligation.
+Sölmundr's patron is the local lord, who values his skill as a marksman.
 
 ### Enemies
 
-Poachers and rival archers who challenge his reputation.
+Poachers and rival archers challenge his reputation.
 
 ## Plot Hooks
 
-1. **The Yeoman Archer's Dilemma** — Sölmundr faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
+1. **The Yeoman Archer's Dilemma** — The lord orders Sölmundr to shoot a poacher on sight, and the man in his sights is one he knows.
 
-2. **Old Grudges** — Poachers and rival archers who challenge his reputation. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A rival archer who lost to Sölmundr at the butts has challenged him to shoot again, with the lord's favour as the stake.
 
-3. **Echoes of the Past** — Something from Sölmundr's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past** — A poacher Sölmundr once ran off the lord's land has come back.
 
-4. **Shifting Winds** — Political changes in Nordheim threaten to upend the social order that Sölmundr depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Nordheim threatens the lord Sölmundr serves, and he can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Sölmundr the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — A greater lord who saw Sölmundr shoot offers him a place among his own archers, and taking it would mean leaving the militia and the lord who made him.
