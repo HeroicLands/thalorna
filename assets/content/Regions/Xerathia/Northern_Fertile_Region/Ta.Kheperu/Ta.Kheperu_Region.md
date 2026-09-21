@@ -16,6 +16,10 @@ data:
   parents:
     - nrthrnfrtlrgn
     - xerathia
+  # borders:
+  #   - { to: bethuargn, bearing: W }
+  #   - { to: dunharargn, bearing: NE }
+  #   - { to: vylarianse, bearing: NW }
   population: null
 packFolder: takheperu
 ---

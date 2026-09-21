@@ -16,6 +16,8 @@ data:
     - humanflk
   parents:
     - takheperurgn
+  # borders:
+  #   - { to: dunharargn, bearing: NE }
   population: null
 terran_analog: "Northern Sinai and the Negev margin — the fortress-wells of the Way of Horus between the Delta and Canaan: a garrisoned desert land-bridge held for the road that crosses it rather than for anything it grows."
 packFolder: takheperu
