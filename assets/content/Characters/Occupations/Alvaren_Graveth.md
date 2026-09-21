@@ -552,54 +552,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Alváren Gráveth is a 40-year-old man who stands 6'2" tall and is broad and solidly built. He has a diamond face with high cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. His hooded brown eyes sit beneath straight brows, lending him a guarded gaze. A prominent nose and wide lips complete his features. He has warm-toned skin with a bronzed complexion. His dark brown hair is cropped short.
+Alváren Gráveth is a 40-year-old man who stands 6'2" tall and is broad and solidly built. He has a diamond face with high cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. His hooded brown eyes sit beneath straight brows and give him a guarded gaze. He has a prominent nose and wide lips. He has warm-toned skin with a bronzed complexion. His dark brown hair is cropped short.
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Alváren Gráveth came into the world of the salter through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Alváren Gráveth is a salter.
 
-Alváren is a seasoned salter who has spent decades perfecting his craft. He runs a larger saltworks that supplies salt to several coastal towns. Known for his expertise, he often experiments with different evaporation techniques to produce unique types of salt, including flavored varieties. Alváren is respected in the community for his knowledge and often mentors younger salt workers.
+Alváren is a seasoned salter who has spent decades perfecting his craft. He runs a large saltworks that supplies salt to several coastal towns. Known for his knowledge of the trade, he often tries different ways of evaporating the brine to produce salts of his own, including flavored varieties. He is respected in the community for his knowledge and often mentors younger salt workers.
 
-Now at 40 years of age, Alváren Gráveth has established himself as a known figure among the salters of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 40 years of age, he is a known figure among the salters of Tarvénia.
 
 ## Psyche
 
 ### Personality
 
-Can be set in his ways, struggles with new technology.
+He can be set in his ways and struggles with new methods.
 
 ### Motivation
 
-Alváren is driven by the desire to master his craft and secure a stable future. The uncertainties of life in salter work keep him vigilant and adaptable.
+Alváren wants his saltworks to keep supplying the coastal towns, and his knowledge of the craft to pass to the younger salt workers he mentors.
 
 ### Strengths
 
-Highly experienced, skilled in production techniques, good mentor.
+He is highly experienced, skilled in the making of salt, and a good mentor.
 
 ## Social
 
-Alváren is affiliated with None; operates independently..
-
-As a Tarvénan salter, Alváren occupies a recognized social niche within Tarvénia society.
+Alváren belongs to no guild and works on his own.
 
 ## Companions
 
 ### Patrons
 
-Alváren's primary patron is Merchants and local businesses seeking bulk supplies of salt.. This relationship provides both opportunity and obligation.
+Alváren's patrons are the merchants and local businesses that buy salt from him in bulk.
 
 ### Enemies
 
-Few; generally well-respected but may have competitors in the industry.
+Few; he is generally well respected, though he has competitors in the trade.
 
 ## Plot Hooks
 
-1. **The Salter's Dilemma** — Alváren faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
+1. **The Salter's Dilemma** — A merchant offers to take Alváren's whole output at a price that would mean cutting off the coastal towns he supplies.
 
-2. **Old Grudges** — Few; generally well-respected but may have competitors in the industry. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A competing salter undercuts Alváren's prices with salt he suspects is adulterated.
 
-3. **Echoes of the Past** — Something from Alváren's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past** — A younger salt worker Alváren once mentored returns with a saltworks of his own and his old master's methods.
 
-4. **Shifting Winds** — Political changes in Tarvénia threaten to upend the social order that Alváren depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Tarvénia threatens the trade Alváren depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Alváren the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — Alváren is offered the salt contract for a whole town, and its price is not named up front.

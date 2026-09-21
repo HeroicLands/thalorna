@@ -552,54 +552,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Leofric Barnwell is a 42-year-old man who stands 5'7" tall and is of moderate build. He has an oval face with defined cheekbones, a smooth forehead, and a rounded jaw that leads to a pointed chin. His sharp blue eyes sit beneath arched brows, lending him an incisive gaze. A narrow nose and curved lips complete his features. He has fair skin with a lightly freckled complexion. His brown hair is short and swept back.
+Leofric Barnwell is a 42-year-old man who stands 5'7" tall and is of moderate build. He has an oval face with defined cheekbones, a smooth forehead, and a rounded jaw that leads to a pointed chin. His sharp blue eyes sit beneath arched brows and give him an incisive gaze. He has a narrow nose and curved lips. He has fair skin with a lightly freckled complexion. His brown hair is short and swept back.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heritage, Leofric Barnwell came into the world of the physician through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heritage, Leofric Barnwell is a physician.
 
-Dr. Leofric Barnwell is a respected physician known for his extensive knowledge of medicine and healing practices. He has spent many years studying both traditional remedies and modern techniques, making him a trusted figure in the community. Leofric is dedicated to helping his patients and often volunteers his services to the less fortunate. His calm demeanor and empathetic nature have made him a beloved doctor.
+Leofric Barnwell is a respected physician known for his wide knowledge of medicine and healing. He has spent many years studying both the old remedies and the newer techniques, and is a trusted figure in the community. He is dedicated to his patients and often treats the poor without charge. His calm manner and kindness have made him well loved.
 
-Now at 42 years of age, Leofric Barnwell has established himself as a known figure among the physicians of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 42 years of age, he is a known figure among the physicians of Aelwyth.
 
 ## Psyche
 
 ### Personality
 
-Can be overly focused on work, struggles with the emotional toll of his profession.
+He can be too absorbed in his work, and the losses of his calling weigh on him.
 
 ### Motivation
 
-Leofric is driven by the desire to master his craft and secure a stable future. The uncertainties of life in physician work keep him vigilant and adaptable.
+Leofric wants to treat whoever comes to him and to keep his practice trusted by noble and commoner alike.
 
 ### Strengths
 
-Highly knowledgeable, excellent bedside manner, skilled in diagnosis.
+He is highly knowledgeable, has an excellent manner at the bedside, and is skilled in diagnosis.
 
 ## Social
 
-Leofric is affiliated with Local Physicians' Guild.
-
-As a Aelwythan physician, Leofric occupies a recognized social niche within Aelwyth society.
+Leofric belongs to the Local Physicians' Guild.
 
 ## Companions
 
 ### Patrons
 
-Leofric's primary patron is Nobles and common folk alike seeking his medical expertise.. This relationship provides both opportunity and obligation.
+Leofric's patrons are nobles and common folk alike who seek his care.
 
 ### Enemies
 
-Few; respected but has faced criticism from some traditionalists.
+Few; he is respected, but some traditionalists have criticised him.
 
 ## Plot Hooks
 
-1. **The Physician's Dilemma** — Leofric faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
+1. **The Physician's Dilemma** — A patient Leofric can only save with a technique the traditionalists condemn forces him to choose between his standing and the cure.
 
-2. **Old Grudges** — Few; respected but has faced criticism from some traditionalists. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A traditionalist among the guild's physicians turns his criticism of Leofric into a formal complaint.
 
-3. **Echoes of the Past** — Something from Leofric's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past** — A patient Leofric lost in his early years has a family that has not forgotten him.
 
-4. **Shifting Winds** — Political changes in Aelwyth threaten to upend the social order that Leofric depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Aelwyth threatens the standing Leofric's noble family gives him, and he can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Leofric the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — Leofric is offered the post of physician to a great house, and its price is not named up front.
