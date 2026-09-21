@@ -554,54 +554,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Hàrêkôs Bàremzâtôr is a 58-year-old man who stands 5'9" tall and is of moderate build. He has a square face with defined cheekbones, a lined forehead, and an angular jaw that leads to a firm chin. His hooded dark brown eyes sit beneath heavy brows, lending him a guarded gaze. A strong nose and firm lips complete his features. He has olive skin with a weathered complexion. His dark brown hair is receding at the temples. A notable feature is calloused hands from years of hard work.
+Hàrêkôs Bàremzâtôr is a 58-year-old man who stands 5'9" tall and is of moderate build. He has a square face with defined cheekbones, a lined forehead, and an angular jaw that leads to a firm chin. His hooded dark brown eyes sit beneath heavy brows and give him a guarded gaze. He has a strong nose and firm lips. He has olive skin with a weathered complexion. His dark brown hair is receding at the temples. He has calloused hands from years of hard work.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Hàrêkôs Bàremzâtôr came into the world of the thatcher through a combination of circumstance and aptitude.
+Hàrêkôs Bàremzâtôr is a thatcher of Corvinus, the garrison town in the Alyssa country of [[place-vylariargn|Vylaría]], a Vylarian freeman who has roofed the farms around the town for more than forty years.
 
-Hàrêkôs has been a thatcher since he was a boy, working alongside his father and grandfather. Known for his storytelling as much as his thatching, he has become something of a local legend. He takes pride in his traditional techniques and often works with his grandchildren, passing on the craft. Though his age slows him down, his knowledge and experience make him a master of his trade.
-
-Now at 58 years of age, Hàrêkôs Bàremzâtôr has established himself as a known figure among the thatchers of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
+Hàrêkôs went up his first ladder as a boy behind his father and grandfather, and the reed he lays is cut, dried and dressed the way they laid it. The town inside its walls is tiled; the country round it is not, and every barn, byre and cottage for a day's ride has a Bàremzâtôr roof on it or has needed one. He works with his grandchildren on the ladders now, more slowly than he did, and talks while he works: the farms he has roofed, the storms that took roofs he did not lay, the year the legion's stores burned.
 
 ## Psyche
 
 ### Personality
 
-Slower due to age, resistant to adopting newer techniques.
+Hàrêkôs is slow now, deliberate in everything, and set against any way of laying reed that his father did not teach him; warm company on a roof and hard to argue with on the ground.
 
 ### Motivation
 
-Hàrêkôs is driven by the desire to master his craft and secure a stable future. The uncertainties of life in thatcher work keep him vigilant and adaptable.
+Hàrêkôs wants the trade to go to his grandchildren the way it came to him, and he wants the farms to keep sending for a Bàremzâtôr when a roof is due. He has not thought about what happens when he can no longer climb.
 
 ### Strengths
 
-Vast experience, skilled in traditional thatching methods, good teacher.
+Long experience, skilled in the old thatching methods, a good teacher.
 
 ## Social
 
-Hàrêkôs is affiliated with Rural Craftsmen's Guild.
-
-As a Vylarian thatcher, Hàrêkôs occupies a recognized social niche within Vylaria society.
+Hàrêkôs holds his master's seal from the Thatchers' Collegium of Corvinus, as every trade in Vylaria is chartered, and has sat among its senior masters for twenty years.
 
 ## Companions
 
 ### Patrons
 
-Hàrêkôs's primary patron is Local villagers who value his traditional craftsmanship.. This relationship provides both opportunity and obligation.
+Hàrêkôs's patrons are the farmers of the Corvinus country, who want a roof that will outlast the man who laid it, and the garrison's quartermaster.
 
 ### Enemies
 
-None; highly respected in the community.
+A younger master of the collegium who lays reed the Hylen way, faster and cheaper, and has proposed it as the collegium's standard.
 
 ## Plot Hooks
 
-1. **The Thatcher's Dilemma** — Hàrêkôs faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
+1. **The Stores Roof** — The garrison's grain store has lost its roof in a gale a month before the legion marches, and the quartermaster needs it thatched in a week. Hàrêkôs cannot do that the old way, and the younger master can.
 
-2. **Old Grudges** — None; highly respected in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Grandson** — The grandson Hàrêkôs has trained longest has gone to the garrison to take the legion's coin, and the recruiting serjeant is a man Hàrêkôs roofed a house for.
 
-3. **Echoes of the Past** — Something from Hàrêkôs's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **The Standard** — The collegium votes next session on the Hylen method, and the younger masters have the numbers. If it passes, every roof Hàrêkôs lays after will be laid against the rule.
 
-4. **Shifting Winds** — Political changes in Vylaria threaten to upend the social order that Hàrêkôs depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Hàrêkôs the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **The Old Roof** — A roof Hàrêkôs laid forty years ago has come down on a family, and the farmer's son says it was laid badly. Hàrêkôs remembers the roof and the reed, and he does not think it was.

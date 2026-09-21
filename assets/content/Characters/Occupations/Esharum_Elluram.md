@@ -551,54 +551,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Eshârum Ellûram is a 29-year-old man who stands 5'7" tall and is lean and wiry. He has a long face with angular cheekbones, a wide forehead, and an angular jaw that leads to a pointed chin. His piercing brown eyes sit beneath arched brows, lending him a penetrating gaze. A straight nose and thin lips complete his features. He has warm-toned skin with an olive-toned complexion. His black hair is kept practical and short.
+Eshârum Ellûram is a 29-year-old man who stands 5'7" tall and is lean and wiry. He has a long face with angular cheekbones, a wide forehead, and an angular jaw that leads to a pointed chin. His piercing brown eyes sit beneath arched brows and give him a penetrating gaze. He has a straight nose and thin lips. He has warm-toned skin with an olive-toned complexion. His black hair is kept practical and short.
 
 # Dossier {#dossier}
 
-Born in the [[place-haradregin|Harad]] region to a freeman family of Haradian heritage, Eshârum Ellûram came into the world of the domestic servant through a combination of circumstance and aptitude.
+Eshârum Ellûram is a domestic servant of Kashmuret, the caravan town inland of the coast of [[place-haradregin|Harad]], a Haradian freeman who is footman in the house of one of the town's factors and keeps a family on it.
 
-Eshârum works as a footman in a city manor, attending to the needs of his employer and guests. He is quick and attentive, with a polite manner that makes him well-suited to his role. Eshârum dreams of one day opening his own small business, but for now, he is focused on earning enough to support his family.
-
-Now at 29 years of age, Eshârum Ellûram has established himself as a known figure among the domestic servants of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
+Eshârum went into service at fourteen because his father's stall in the bazaar could not feed six, and he has served for fifteen years in the house of a factor of Kashmuret, who lends, stores and brokers for the merchants who pass through and are gone within the week. Eshârum keeps the door, waits at table and attends the guests, Dunhari caravan-masters, Vedyaran brokers and Haradian factors, with a quickness and a courtesy that the guests remark on and the master takes as his due. He hears everything a footman hears, and forgets it, which is the whole of the trade. He sends most of his wage to his mother and sisters in the bazaar quarter, and keeps back what he can toward a house of his own, a caravanserai's stable-yard or a stall in the cloth market.
 
 ## Psyche
 
 ### Personality
 
-Has trouble asserting himself, sometimes taken advantage of by other servants.
+Eshârum is polite, watchful and quick, and too mild for his own good: he cannot refuse the steward and cannot ask for what he is owed. He notices everything and says almost none of it.
 
 ### Motivation
 
-Eshârum is driven by the desire to master his craft and secure a stable future. The uncertainties of life in domestic servant work keep him vigilant and adaptable.
+Eshârum wants his mother and sisters fed on his wage, which they are, and he wants a house of his own in a town where every house is somebody's, which he is saving toward at a rate that will take twenty years. He has not yet been offered a faster way that did not frighten him.
 
 ### Strengths
 
-Polite and attentive, skilled in social etiquette.
+Courteous and attentive, skilled in the manners of a merchant's house.
 
 ## Social
 
-Eshârum is affiliated with None; keeps to himself..
-
-As a Haradian domestic servant, Eshârum occupies a recognized social niche within Harad society.
+Eshârum belongs to no body; the factor's house is his whole standing in Kashmuret, and he is careful of it.
 
 ## Companions
 
 ### Patrons
 
-Eshârum's primary patron is His employer, who appreciates Eshârum's loyalty and good service.. This relationship provides both opportunity and obligation.
+Eshârum's patron is the factor whose door he keeps, who values a footman the guests praise and pays him what a footman is paid.
 
 ### Enemies
 
-None; generally well-liked, though some higher-ranking servants look down on him.
+The house's steward, who runs the servants and takes a share of what the guests give them, and has taken to giving Eshârum's errands to a nephew.
 
 ## Plot Hooks
 
-1. **The Domestic Servant's Dilemma** — Eshârum faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Harad.
+1. **The Letter** — A guest left a letter open on his table and Eshârum, clearing it, read a line he should not have: the caravan is carrying something the factor is not to know about. The guest saw him read it.
 
-2. **Old Grudges** — None; generally well-liked, though some higher-ranking servants look down on him. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Caravan-Master's Offer** — A Dunhari caravan-master who has stayed at the house for six years has offered Eshârum a place as his steward on the southern road, at three times his wage, leaving in two days.
 
-3. **Echoes of the Past** — Something from Eshârum's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **The Missing Silver** — The steward has been selling the house's plate to the passing trade, and the factor has found the plate short and the footman's room searched. The steward searched it.
 
-4. **Shifting Winds** — Political changes in Harad threaten to upend the social order that Eshârum depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Eshârum the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **The Master's Credit** — The factor's credit at the Bayt has been questioned, and the caravan-masters who bank with him are asking Eshârum, at the door, whether the house is sound. It is not.

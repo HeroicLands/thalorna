@@ -552,54 +552,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Hródar Skáldrith is a 45-year-old man who stands 6'4" tall and is broad and solidly built. He has a long face with soft cheekbones, a smooth forehead, and an angular jaw that leads to a strong chin. His narrow gray eyes sit beneath furrowed brows, lending him a keen gaze. A strong nose and expressive lips complete his features. He has medium-toned skin with a ruddy complexion. His red hair is long and gathered with a leather thong. A notable feature is a chipped front tooth.
+Hródar Skáldrith is a 45-year-old man who stands 6'4" tall and is broad and solidly built. He has a long face with soft cheekbones, a smooth forehead, and an angular jaw that leads to a strong chin. His narrow gray eyes sit beneath furrowed brows and give him a keen gaze. He has a strong nose and expressive lips. He has medium-toned skin with a ruddy complexion. His red hair is long and gathered with a leather thong. He has a chipped front tooth.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Hródar Skáldrith came into the world of the mercenary through a combination of circumstance and aptitude.
+Hródar Skáldrith is a mercenary of Waldburg, a forest stronghold of the Varokh in [[place-vrystwald|Vrystwald]], a Varokh warrior who has sold his sword outside the forest for twenty-five years and comes home between wars.
 
-Hródar is a veteran mercenary with extensive experience in various conflicts. He has fought for both noble houses and common folk, depending on the contracts he takes. Known for his combat skills and experience, he often serves as a mentor to younger mercenaries. Hródar believes in honor and loyalty, often refusing contracts that involve unnecessary violence.
-
-Now at 45 years of age, Hródar Skáldrith has established himself as a known figure among the mercenarys of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
+Hródar was raised to fight, as every Varokh man is, and at twenty he went down the river with a war-band hired by a Velanthian river-prince, which is how most Varokh who see the outside world see it. He has fought since for the grain-belt princes against each other, for a Moktur border-lord against Varokh raiders who might have been his cousins, and for frontier villages that pooled their silver to hire a band. He leads Waldburg's war-band for hire now, and trains the boys who go out in it. There are fights he no longer takes: he will hire to hold a wall or break one, and he will not hire to a raid whose purpose is people. The river-traders who sell what such raids bring down the water have noticed, and so has the chieftain.
 
 ## Psyche
 
 ### Personality
 
-Can be overly cautious, struggles with the moral complexities of his work.
+Hródar is deliberate, loyal past reason to the men under him and slow to trust anyone else. He has grown careful with age, and weighs fights his younger self would have taken without a thought.
 
 ### Motivation
 
-Hródar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in mercenary work keep him vigilant and adaptable.
+Hródar wants every boy he takes out of Waldburg to come back to it, and he wants to fight only what is worth a Varokh's dying for. He has not found a way to say the second to the chieftain that does not sound like fear.
 
 ### Strengths
 
-Highly skilled in combat, experienced strategist, respected leader.
+A hard and skilled fighter, an experienced war-leader, followed without question by his band.
 
 ## Social
 
-Hródar is affiliated with Local Mercenaries' Guild.
-
-As a Varokhi mercenary, Hródar occupies a recognized social niche within Vrystwald society.
+Hródar leads the Waldburg Frath, the stronghold's war-band for hire, and answers to the chieftain for what it does and what it brings home.
 
 ## Companions
 
 ### Patrons
 
-Hródar's primary patron is Clients seeking reliable and experienced mercenaries.. This relationship provides both opportunity and obligation.
+Hródar's patrons are the Velanthian river-princes who hire the Frath for their wars with each other, and the Moktur border-lords who hire Varokh to fight Varokh.
 
 ### Enemies
 
-Few; generally respected but has made rivals in the mercenary community.
+A younger war-leader of Waldburg who takes the raiding contracts Hródar refuses and brings back more silver; and a Velanthian prince whose contract Hródar walked out of.
 
 ## Plot Hooks
 
-1. **The Mercenary's Dilemma** — Hródar faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Prince's Contract** — A river-prince has hired the Frath to take a village on his rival's bank, and the terms, read closely, are for the people in it. Hródar has sworn to it, and his men have spent the advance.
 
-2. **Old Grudges** — Few; generally respected but has made rivals in the mercenary community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Boy** — A boy Hródar trained went out under the younger war-leader and did not come back, and the war-leader's account of how he died is not the one the survivors tell.
 
-3. **Echoes of the Past** — Something from Hródar's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **The Governor's Offer** — A Moktur governor has offered the Frath a standing post on the march, with pay and land, to hold the frontier against Varokh. Half his men want it.
 
-4. **Shifting Winds** — Political changes in Vrystwald threaten to upend the social order that Hródar depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Hródar the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **The Council** — The Council of Chieftains has been called against a Nordman push into the western forest, and Waldburg's chieftain means to send the younger man's band. Hródar is to stay and train boys.

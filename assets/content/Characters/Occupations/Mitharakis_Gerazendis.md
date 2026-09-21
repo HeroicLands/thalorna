@@ -552,54 +552,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Mitharâkîs Gêrazêndis is a 50-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with angular cheekbones, a high forehead, and a sharp jaw that leads to a strong chin. His almond-shaped green eyes sit beneath heavy brows, lending him a measured gaze. A prominent nose and narrow lips complete his features. He has light skin with a weathered complexion. His gray hair is short and swept back.
+Mitharâkîs Gêrazêndis is a 50-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with angular cheekbones, a high forehead, and a sharp jaw that leads to a strong chin. His almond-shaped green eyes sit beneath heavy brows and give him a measured gaze. He has a prominent nose and narrow lips. He has light skin with a weathered complexion. His gray hair is short and swept back.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Mitharâkîs Gêrazêndis came into the world of the jester through a combination of circumstance and aptitude.
+Mitharâkîs Gêrazêndis is a jester of Tyrellan, the provincial city of Moktur on the northern frontier of [[place-vylariargn|Vylaría]], a Vylarian freeman who has made the halls of the frontier's governors and border-lords laugh for thirty years.
 
-Mitharâkîs has spent decades as a jester, earning a reputation for his infectious laughter and playful spirit. He has performed for various lords and ladies, and his experience allows him to connect with audiences of all ages. Mitharâkîs’s humor often comes from storytelling and satire, and while he enjoys entertaining, he carries a wealth of wisdom gained from his years in the court. He values the importance of laughter in difficult times.
-
-Now at 50 years of age, Mitharâkîs Gêrazêndis has established himself as a known figure among the jesters of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
+Mitharâkîs came up from the taverns of Tyrellan as a boy who could mimic anyone in the room and was paid not to, and he has performed since for three military governors, a dozen border-lords, and Varokh chiefs across the line who did not understand a word and laughed anyway. His humour is story and satire, the governor's temper, the Senate's letters, the legion's pay, the winter, and he has learned how far a frontier lord will let a fool go and how far past it a fool can go if the hall is laughing. He has kept his head when men who spoke plainly lost theirs. He holds that a hall that can laugh at its lord will follow him, and one that cannot will not.
 
 ## Psyche
 
 ### Personality
 
-Can be cynical, sometimes struggles with feeling relevant.
+Mitharâkîs is warm in performance and dry out of it, cynical about lords and audiences, and privately afraid that he has become a fixture the hall keeps out of habit rather than a fool it needs.
 
 ### Motivation
 
-Mitharâkîs is driven by the desire to master his craft and secure a stable future. The uncertainties of life in jester work keep him vigilant and adaptable.
+Mitharâkîs wants the hall laughing when the winter is hard and the news is bad, because he has seen a frontier hall when nobody does. He wants to matter to it still, and the governor has a new favourite who is twenty-four.
 
 ### Strengths
 
-Experienced performer, great storyteller, knowledgeable about court politics.
+An experienced performer, a fine storyteller, knows the politics of every hall in the province.
 
 ## Social
 
-Mitharâkîs is affiliated with None; works independently..
-
-As a Vylarian jester, Mitharâkîs occupies a recognized social niche within Vylaria society.
+Mitharâkîs holds no post; he performs at the governor's hall by long custom and elsewhere by invitation, and is paid by all of them and kept by none.
 
 ## Companions
 
 ### Patrons
 
-Mitharâkîs's primary patron is Nobility and common folk alike.. This relationship provides both opportunity and obligation.
+Mitharâkîs's patrons are the military governor of Moktur, whose hall he has kept through three governors' tenures, and the border-lords who ask for him.
 
 ### Enemies
 
-Few; generally well-liked but sometimes dismissed by the younger jesters.
+The governor's new favourite, a young singer from the capital who has told the governor's steward that the old man's satire is dangerous; and a border-lord who was the subject of it.
 
 ## Plot Hooks
 
-1. **The Jester's Dilemma** — Mitharâkîs faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
+1. **The Satire** — Mitharâkîs told a story at the governor's table about a lord who sold his own pass to the Varokh, and the hall laughed. The next morning a border-lord who had been at the table did not, and the governor has asked to see the fool.
 
-2. **Old Grudges** — Few; generally well-liked but sometimes dismissed by the younger jesters. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Message** — A border-lord has asked Mitharâkîs, who goes where a lord's messenger cannot, to carry a word to a Varokh chief across the line. The word is not treason, quite.
 
-3. **Echoes of the Past** — Something from Mitharâkîs's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **The Favourite** — The young singer has been given the governor's midwinter feast, and Mitharâkîs the servants' hall, which has asked him for the story about the singer.
 
-4. **Shifting Winds** — Political changes in Vylaria threaten to upend the social order that Mitharâkîs depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Mitharâkîs the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **The Governor's Temper** — The governor has begun to drink in the afternoons and to take the fool's stories as they are meant, and the officers have asked Mitharâkîs to say to him what they cannot.

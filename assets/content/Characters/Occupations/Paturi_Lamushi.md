@@ -553,54 +553,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Pâtûri Lamûshî is a 50-year-old woman who stands 5'9" tall and is solidly built. She has a long face with high cheekbones, a lined forehead, and a strong jaw that leads to a pointed chin. Her piercing dark brown eyes sit beneath prominent brows, lending her a penetrating gaze. A prominent nose and full lips complete her features. She has medium-toned skin with a sun-kissed complexion. Her graying black hair is braided and coiled at the nape. A notable feature is laugh lines around the eyes.
+Pâtûri Lamûshî is a 50-year-old woman who stands 5'9" tall and is solidly built. She has a long face with high cheekbones, a lined forehead, and a strong jaw that leads to a pointed chin. Her piercing dark brown eyes sit beneath prominent brows and give her a penetrating gaze. She has a prominent nose and full lips. She has medium-toned skin with a sun-kissed complexion. Her graying black hair is braided and coiled at the nape. She has laugh lines around the eyes.
 
 # Dossier {#dossier}
 
-Born in the [[place-haradregin|Harad]] region to a guilded family of Haradian heritage, Pâtûri Lamûshî came into the world of the cook through a combination of circumstance and aptitude.
+Pâtûri Lamûshî is a cook of Azhûn, the port city at the mouth of the Alz in [[place-haradregin|Harad]], a Haradian freewoman of a guild family who is head cook to one of the factors' houses that rule the city.
 
-Pâtûri is a seasoned cook who has worked in several high-end kitchens throughout the city. She currently serves as the head cook for a wealthy merchant's household, where she oversees a small staff of kitchen hands. Known for her hearty stews and elaborate pastries, Pâtûri prides herself on providing excellent meals, though she can be harsh with her subordinates.
-
-Now at 50 years of age, Pâtûri Lamûshî has established herself as a known figure among the cooks of Harad. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Pâtûri came up through the kitchens of Azhûn from scullery to spit to the head of the table, and she has cooked for Kheperi captains, Vylarian envoys and the whole of the House of Factors at a sitting. For eleven years she has kept the kitchen of a factor's house on the harbour, with a staff of six under her and the household's whole name for hospitality in her hands. A Haradian house does its business over its table, and a factor who feeds a Kheperi captain badly loses the cargo before the sweet is served. Her honeyed pastries are known across the harbour, and so is her temper; she has driven out two kitchen hands this year for a sauce that was nearly right.
 
 ## Psyche
 
 ### Personality
 
-Tends to be a perfectionist and can be overly critical of others.
+Pâtûri is exacting, proud, and hard on everyone under her, herself first. She measures people by whether they can be trusted with a dish, and she has found very few who can.
 
 ### Motivation
 
-Pâtûri is driven by the desire to master her craft and secure a stable future. The uncertainties of life in cook work keep her vigilant and adaptable.
+Pâtûri wants every plate that leaves her kitchen to be exactly what it should be, because the house is judged on it and she on the house. She wants the kitchen to stay hers, and she has trained nobody who could hold it after her, which is not an accident.
 
 ### Strengths
 
-Skilled in a wide range of cooking techniques, experienced in managing a kitchen.
+Skilled in the whole range of Haradian cooking, experienced in running a kitchen.
 
 ## Social
 
-Pâtûri is affiliated with City Cooks' Guild.
-
-As a Haradian cook, Pâtûri occupies a recognized social niche within Harad society.
+Pâtûri holds her mastery from the Cooks' Compact of Azhûn, chartered under the Sôd-Naqîrîn, as her family has since before the war of independence.
 
 ## Companions
 
 ### Patrons
 
-Pâtûri's primary patron is The merchant family she currently works for.. This relationship provides both opportunity and obligation.
+Pâtûri's patron is the factor whose house she keeps, who means his table to stay the best in Azhûn at whatever she asks.
 
 ### Enemies
 
-Rival cooks who envy her position.
+The house's steward, who holds the purse she cooks from and has never forgiven her for going over his head; and a kitchen hand she dismissed who now cooks for a rival house and knows her recipes.
 
 ## Plot Hooks
 
-1. **The Cook's Dilemma** — Pâtûri faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Harad.
+1. **The Captain's Table** — A Kheperi captain is to dine at the house on the night the season's cargo is settled, and the steward has cut the kitchen's silver by half. The captain's cook has told Pâtûri which dish would give offence.
 
-2. **Old Grudges** — Rival cooks who envy her position. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Dismissed Hand** — The rival house is serving Pâtûri's honeyed pastries, to the last spice, and its factor has begun inviting her patron's guests.
 
-3. **Echoes of the Past** — Something from Pâtûri's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **The Sickness** — Three guests were ill after a dinner at the house, and the steward has said in the factor's hearing that the kitchen was the cause. Pâtûri knows every dish that left it, and one she did not cook.
 
-4. **Shifting Winds** — Political changes in Harad threaten to upend the social order that Pâtûri depends upon. She must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Pâtûri the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+4. **The Empty Cellar** — The house's credit at the Bayt has been stopped, quietly, and the tradesmen have begun asking for coin. The factor has said nothing to his kitchen, and there is a feast in ten days.

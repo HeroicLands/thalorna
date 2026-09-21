@@ -547,54 +547,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Aldous Brandon is a 37-year-old man who stands 6'1" tall and is of moderate build. He has a round face with broad cheekbones, a smooth forehead, and a strong jaw that leads to a delicate chin. His bright hazel eyes sit beneath straight brows, lending him a lively gaze. A slightly upturned nose and firm lips complete his features. He has fair skin with a fair complexion. His auburn hair is falling in loose waves. A notable feature is rough, work-worn hands.
+Aldous Brandon is a 37-year-old man who stands 6'1" tall and is of moderate build. He has a round face with broad cheekbones, a smooth forehead, and a strong jaw that leads to a delicate chin. His bright hazel eyes sit beneath straight brows and give him a lively gaze. He has a slightly upturned nose and firm lips. He has fair skin with a fair complexion. His auburn hair falls in loose waves. He has rough, work-worn hands.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Aldous Brandon came into the world of the charcoaler through a combination of circumstance and aptitude.
+Aldous Brandon is a charcoaler of Thornbury, the seat of the Republic of Tarvenne on the western coast of [[place-aelwyth|Aelwyth]], an Aelwythan freeman who burns charcoal in the woods behind the town for the smiths of the harbour.
 
-Aldous grew up in a family of charcoalers and took over the business after his father’s death. He works in the nearby woods, carefully maintaining his kilns and producing high-quality charcoal. Aldous is more open to new techniques than his father was, and he experiments with different woods to produce charcoal for specific uses.
-
-Now at 37 years of age, Aldous Brandon has established himself as a known figure among the charcoalers of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
+Aldous took over his father's kilns at twenty-five and has run them since in the coppice woods inland of the town, where the republic's senators own the ground and lease the cutting. His father burned one charcoal for every use and let the smiths sort it. Aldous burns oak for the forges that need a long heat, alder for the fine work, beech for the armourers, and has tried every wood on the coast to learn what it gives. He will not draw a kiln early or sell a sack that is green, which is why his charcoal costs more and why the smiths who know the difference pay it. He is late with deliveries more often than a man with two rivals should be, and he is late because the kiln was not ready, and he says so.
 
 ## Psyche
 
 ### Personality
 
-Overly cautious about quality, sometimes delays deliveries to ensure the best product.
+Aldous is cheerful, curious and exacting, more interested in what a wood will do in the kiln than in what it will fetch at the forge door.
 
 ### Motivation
 
-Aldous is driven by the desire to master his craft and secure a stable future. The uncertainties of life in charcoaler work keep him vigilant and adaptable.
+Aldous wants every sack that leaves his kilns to be charcoal a smith can trust, and he wants to learn what every wood on the coast will make. The first has cost him contracts and the second costs him time.
 
 ### Strengths
 
-Skilled in kiln management and experimenting with different types of wood.
+Skilled at managing a kiln, knows the coast's woods and what each burns to.
 
 ## Social
 
-Aldous is affiliated with Woodworkers' Guild.
-
-As a Aelwythan charcoaler, Aldous occupies a recognized social niche within Aelwyth society.
+Aldous holds his seal from the Woodworkers' Guild of Thornbury, chartered under the Magnum Collegium, which takes the charcoalers among its lesser members.
 
 ## Companions
 
 ### Patrons
 
-Aldous's primary patron is Blacksmiths who appreciate his attention to detail.. This relationship provides both opportunity and obligation.
+Aldous's patrons are the smiths of the Thornbury harbour, and the armourers who supply the republic's legions.
 
 ### Enemies
 
-None; generally well-regarded, though some rivals see him as a threat.
+A charcoaler of the coast who draws his kilns early and sells green charcoal cheap under the Aedile's contract for the public forges; and a senator's steward who leases the coppice and has been raising the rent.
 
 ## Plot Hooks
 
-1. **The Charcoaler's Dilemma** — Aldous faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
+1. **The Armourers' Contract** — The Senate's contract for the legions' armourers has gone to Aldous's rival, whose charcoal is cheaper, and the armourers say the steel is coming out short. The Quaestor who signed was paid to.
 
-2. **Old Grudges** — None; generally well-regarded, though some rivals see him as a threat. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Black Fires** — A shrine of the Black Flame, which the town's magistrates are paid not to notice, has asked for a standing supply of Aldous's oak charcoal at a price the smiths could not match.
 
-3. **Echoes of the Past** — Something from Aldous's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **The Senator's Wood** — The senator whose coppice Aldous leases has decided to clear it for pasture, and Aldous's kilns and his year's cut stand in it.
 
-4. **Shifting Winds** — Political changes in Aelwyth threaten to upend the social order that Aldous depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Aldous the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **The Late Sack** — Aldous held a kiln two days past its date to get it right, and the smith who waited for it, his father's oldest customer, lost a commission to a rival with green charcoal.

@@ -551,54 +551,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Óskar Brýlond is a 46-year-old man who stands 5'9" tall and is broad and solidly built. He has a heart-shaped face with angular cheekbones, a lined forehead, and a strong jaw that leads to a firm chin. His deep-set gray eyes sit beneath expressive brows, lending him a watchful gaze. A straight nose and thin lips complete his features. He has warm-toned skin with a sun-tanned complexion. His black hair is combed neatly to one side.
+Óskar Brýlond is a 46-year-old man who stands 5'9" tall and is broad and solidly built. He has a heart-shaped face with angular cheekbones, a lined forehead, and a strong jaw that leads to a firm chin. His deep-set gray eyes sit beneath expressive brows and give him a watchful gaze. He has a straight nose and thin lips. He has warm-toned skin with a sun-tanned complexion. His black hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a noble family of Provenzian heritage, Óskar Brýlond came into the world of the mercantyler through a combination of circumstance and aptitude.
+Óskar Brýlond is a mercantyler of Fiòrdaure, the salt town on the southern coast of [[place-provenzrgn|Provènzia]], the head of a minor Provenzian house whose money is in bullion and stones rather than in land.
 
-Óskar has been in the mercantile business for decades, specializing in the trade of precious metals and gems. He is known for his integrity and expertise in evaluating the worth of goods. Óskar often advises young traders and is respected for his extensive knowledge of the market and negotiation tactics. He values honesty and strives to create lasting relationships with his clients.
-
-Now at 46 years of age, Óskar Brýlond has established himself as a known figure among the mercantylers of Provènzia. His reputation, for better or worse, precedes him in the circles where such things matter.
+Óskar heads one of the small noble houses of Fiòrdaure, rich enough to matter in the district and not landed enough to matter at Lunacòrte, which has traded in gold, silver and cut stone since his grandfather's day. He buys metal and stones where they come ashore, weighs and values them himself, and sells to the goldsmiths of Válaren City and the households of the capital, where his weight on an ingot is taken without a second scale. He has never sold short weight and never over-valued a stone for a buyer who wanted it over-valued, which has cost him custom and made the custom he has. He keeps his house out of the long quarrel between the Crown and the Council of Peers, as his family always has.
 
 ## Psyche
 
 ### Personality
 
-Can be overly cautious, sometimes resistant to new ideas in trading.
+Óskar is careful, courteous and unhurried, distrustful of any way of trading he did not learn from his father. He would rather lose a sale than a name.
 
 ### Motivation
 
-Óskar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in mercantyler work keep him vigilant and adaptable.
+Óskar wants every weight and valuation that leaves his house to be true, because the house's whole worth rests on that. He wants the house to go on small, sound and uninteresting to the great, and he has a nephew who wants it otherwise.
 
 ### Strengths
 
-Highly knowledgeable about precious metals, excellent negotiator, mentor to young traders.
+Knows precious metal and stone, a fine negotiator, teacher of the young traders of the coast.
 
 ## Social
 
-Óskar is affiliated with Local Merchant's Guild.
-
-As a Provenzian mercantyler, Óskar occupies a recognized social niche within Provènzia society.
+Óskar holds his seal from the Merchants' Guild of Lunacòrte, chartered under the Magnum Collegium.
 
 ## Companions
 
 ### Patrons
 
-Óskar's primary patron is Jewelers and high-profile clients looking for valuable goods.. This relationship provides both opportunity and obligation.
+Óskar's patrons are the goldsmiths of Válaren City, who buy his metal on his weight, and the households of the Crown's court, who send to him for a valuation that will not flatter.
 
 ### Enemies
 
-Few; generally well-respected but has rivals in the precious metals trade.
+A trading house of Válaren City that sells the goldsmiths short weight and has lost custom to him, and a Peer of the Council who asked Óskar for a valuation and did not get the one he wanted.
 
 ## Plot Hooks
 
-1. **The Mercantyler's Dilemma** — Óskar faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
+1. **The Peer's Stone** — A Peer wants a ruby valued high enough to secure a loan against it, and has made plain what it will cost the house at Lunacòrte if Óskar values it as he sees it.
 
-2. **Old Grudges** — Few; generally well-respected but has rivals in the precious metals trade. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Light Aurions** — A consignment of Aurions Óskar bought on the coast weighs light, and the milled edges are clean. Somebody has learned a new trick, and he has already sold half of them.
 
-3. **Echoes of the Past** — Something from Óskar's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **The Nephew** — Óskar's nephew and heir has begun trading on the house's name at Lunacòrte, in the Crown's quarrel and against the Peers, and the house has begun to be talked about.
 
-4. **Shifting Winds** — Political changes in Provènzia threaten to upend the social order that Óskar depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Óskar the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **The Crown's Loan** — The Crown's treasurer has asked the coastal houses for a loan against the salt revenue, and Óskar's answer either way will place a house that has spent generations declining to be placed.

@@ -553,54 +553,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Tamîtha Jâdurîon is a 28-year-old woman who stands 5'11" tall and is slender. She has a diamond face with wide-set cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her piercing hazel eyes sit beneath arched brows, lending her a penetrating gaze. A straight nose and curved lips complete her features. She has olive skin with a weathered complexion. Her brown hair is gathered in a practical bun. A notable feature is sun-darkened skin on the arms and face.
+Tamîtha Jâdurîon is a 28-year-old woman who stands 5'11" tall and is slender. She has a diamond face with wide-set cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her piercing hazel eyes sit beneath arched brows and give her a penetrating gaze. She has a straight nose and curved lips. She has olive skin with a weathered complexion. Her brown hair is gathered in a practical bun. She has sun-darkened skin on the arms and face.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Tamîtha Jâdurîon came into the world of the mason through a combination of circumstance and aptitude.
+Tamîtha Jâdurîon is a mason of Pelagora, the naval city of [[place-helionis|Heliónis]], a Helionite freewoman who lays brick and stone on the city's harbour works and public buildings and is judged, when she is judged fairly, by her wall.
 
-Tamîtha is a skilled mason who learned the trade from her father, who was also a respected stoneworker. She specializes in bricklaying and often works on public buildings and homes. Tamîtha has faced challenges in a male-dominated field but has proven herself through hard work and determination. Her attention to detail and dedication to quality make her a sought-after mason in the area.
-
-Now at 28 years of age, Tamîtha Jâdurîon has established herself as a known figure among the masons of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Tamîtha learned the trade on the scaffolds of her father, a respected stoneworker who had no son and did not see why that should stop the trade, and she served the collegium's seven years under him and was examined on a harbour wall that stands. She works on what Pelagora builds most: the moles and quays the fleet needs, the ship-sheds, and the town-houses of the shipowning families. Her bricklaying is exact and her joints are tight, and a master who has watched her build knows it; a master who has not knows only that she is a woman on a scaffold. She takes every contract she is offered because she has had to prove herself on every one.
 
 ## Psyche
 
 ### Personality
 
-Can be underestimated due to her gender, sometimes takes on too much work.
+Tamîtha is proud, tireless and blunt, quick to take offence and slow to notice a compliment. She takes on more than she can carry, because a refused job is a job somebody will say she could not do.
 
 ### Motivation
 
-Tamîtha is driven by the desire to master her craft and secure a stable future. The uncertainties of life in mason work keep her vigilant and adaptable.
+Tamîtha wants work that stands, every course of it, and she wants to be judged by that and nothing else. The second is why she never refuses the first, and she is wearing herself out on both.
 
 ### Strengths
 
-Excellent bricklayer, strong work ethic, detail-oriented.
+A first-rate bricklayer, tireless, exact in every detail.
 
 ## Social
 
-Tamîtha is affiliated with Local Masons' Guild.
-
-As a Helionite mason, Tamîtha occupies a recognized social niche within Heliónis society.
+Tamîtha holds her seal from the Masons' Collegium of Pelagora, which examined her and passed her and has not yet given her a public work in her own name.
 
 ## Companions
 
 ### Patrons
 
-Tamîtha's primary patron is Local builders and community projects.. This relationship provides both opportunity and obligation.
+Tamîtha's patrons are the clerk of works of the citizen assembly, who lets the harbour contracts, and the shipowning families whose town-houses she has built.
 
 ### Enemies
 
-Few; respected but occasionally faces skepticism from traditionalists.
+A senior master of the collegium who holds that a woman on a scaffold shames the trade and has said so in session; and a rival gang-master whose wall she rebuilt after it failed.
 
 ## Plot Hooks
 
-1. **The Mason's Dilemma** — Tamîtha faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
+1. **The Mole** — The assembly is letting the contract for the new harbour mole, the largest work in a generation, and the clerk of works has asked Tamîtha to bid in her own name. The senior master has said the collegium will not seal it.
 
-2. **Old Grudges** — Few; respected but occasionally faces skepticism from traditionalists. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Failed Wall** — A quay wall has slumped into the harbour, and the gang-master whose wall it was has told the assembly that Tamîtha's gang laid the failed course. She did not, and the tide has taken the evidence.
 
-3. **Echoes of the Past** — Something from Tamîtha's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **The Demagogue** — A speaker in the assembly has taken up the woman mason as a cause, and the crowd is shouting her name at the collegium's doors. She did not ask him to.
 
-4. **Shifting Winds** — Political changes in Heliónis threaten to upend the social order that Tamîtha depends upon. She must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Tamîtha the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+4. **The Sixth Contract** — Tamîtha has five works running and has been offered a sixth, a shipowner's house that must be roofed before his daughter's wedding, and she trusts no one to run any of them but herself.

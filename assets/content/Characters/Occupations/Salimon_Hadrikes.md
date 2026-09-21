@@ -551,54 +551,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Sâlimón Hâdrîkês is a 45-year-old man who stands 5'7" tall and is of moderate build. He has an angular face with angular cheekbones, a prominent forehead, and a sharp jaw that leads to a square chin. His bright brown eyes sit beneath heavy brows, lending him a lively gaze. A prominent nose and wide lips complete his features. He has light skin with an olive-toned complexion. His dark brown hair is combed neatly to one side.
+Sâlimón Hâdrîkês is a 45-year-old man who stands 5'7" tall and is of moderate build. He has an angular face with angular cheekbones, a prominent forehead, and a sharp jaw that leads to a square chin. His bright brown eyes sit beneath heavy brows and give him a lively gaze. He has a prominent nose and wide lips. He has light skin with an olive-toned complexion. His dark brown hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a noble family of Helionite heritage, Sâlimón Hâdrîkês came into the world of the scholar through a combination of circumstance and aptitude.
+Sâlimón Hâdrîkês is a scholar of Therádon, the philosophers' city of [[place-helionis|Heliónis]], a Helionite of an old house who lectures at the city's Panepistemium chapterhouse on the history of the Vylarian conquest and digs for what the record left out.
 
-Dr. Sâlimón is a renowned scholar specializing in ancient history and mythology. He has spent decades researching forgotten texts and artifacts, often traveling to distant lands to gather information for his studies. Sâlimón is known for his lectures at prestigious academies, where he shares his extensive knowledge with eager students. Despite his accomplishments, he remains humble and is passionate about preserving the past for future generations.
-
-Now at 45 years of age, Sâlimón Hâdrîkês has established himself as a known figure among the scholars of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
+Sâlimón comes of a house that has sat in the assembly of Therádon for six generations, and the assembly's oligarchs hold that a Therádon citizen's duty is to know more than anyone else. He took the duty literally. He has spent twenty-five years on the Helionite city-states before and during the conquest, reading in the chapterhouse's library, which holds texts older than the empire, and travelling to the old battlefields and the ruins of the mage-warlords' seats to find what nobody has read. He lectures to full halls, and his students leave knowing what the old texts say and where the record stops. It stops, he has found, at the same place every time: the disbanding of the Dragon Riders, of which the Republic's histories say nothing honest and the chapterhouse's oldest fragments say something. He has no idea how much of what he says in a lecture hall is heard outside it.
 
 ## Psyche
 
 ### Personality
 
-Can be forgetful of everyday matters, struggles with social interactions outside academia.
+Sâlimón is gentle, absent and single-minded, at ease with a text or a student and helpless with anything else. He is modest about his findings and immodest about the questions.
 
 ### Motivation
 
-Sâlimón's driving force is the search that defines his life — a quest that shapes every decision he makes and every risk he takes.
+Sâlimón wants the past kept whole for whoever comes after, and he wants to find the piece of it the record dropped at the Dragon Riders. He does not think of the second as dangerous, which is the whole of the danger.
 
 ### Strengths
 
-Highly knowledgeable, excellent communicator, skilled researcher.
+Deeply learned, a clear speaker, a fine reader of old texts.
 
 ## Social
 
-Sâlimón is affiliated with Local Scholars' Guild.
-
-As a Helionite scholar, Sâlimón occupies a recognized social niche within Heliónis society.
+Sâlimón holds a lectureship at the Panepistemium chapterhouse of Therádon and a seat in the city's assembly by his house's right, which he attends when reminded.
 
 ## Companions
 
 ### Patrons
 
-Sâlimón's primary patron is Students, fellow scholars, and institutions seeking historical insight.. This relationship provides both opportunity and obligation.
+Sâlimón's patrons are the oligarchs of the Therádon assembly, who fund the chapterhouse's library and count his lectures among the city's ornaments.
 
 ### Enemies
 
-Few; respected in his field, but some may challenge his theories.
+A lecturer of the chapterhouse who holds that the conquest is settled history and Sâlimón's questions are vanity; and the chapterhouse's senior officer, who answers to the Ordo and has begun to ask what the old man is digging for.
 
 ## Plot Hooks
 
-1. **The Scholar's Dilemma** — Sâlimón faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Fragment** — A student has brought Sâlimón a leaf in a hand of the early Republic that names the man who betrayed the Dragon Riders. The student has told no one else, and the senior officer has asked to see the student.
 
-2. **Old Grudges** — Few; respected in his field, but some may challenge his theories. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Artifact** — Sâlimón has brought back from a sunken temple an object the fragments describe, and the Ordo's Quaesitorium has written, courteously, to ask for it.
 
-3. **Echoes of the Past** — Something from Sâlimón's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **The Thesis** — Sâlimón's best student has written a thesis on the disbanding that says plainly what he has only asked, and means to read it before the assembly. The student is the senior officer's nephew.
 
-4. **Shifting Winds** — Political changes in Heliónis threaten to upend the social order that Sâlimón depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Sâlimón the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **The Seat** — The assembly has asked Sâlimón to take his house's seat for one session and vote on the chapterhouse's funding, and both factions have sent to explain what the vote is about.
