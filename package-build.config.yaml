@@ -61,6 +61,9 @@ pdf:
 site:
     assets: https://cdn.heroiclands.org
     description: The World of Thalorna — realms, peoples, faiths, creatures, and the lore behind them.
+    hugo:
+        params:
+            search: true
     # No `trees:` — this repository publishes no documentation tree beside its
     # content. No `pass:` — this repository has no body-rewrite bundle of its
     # own.
