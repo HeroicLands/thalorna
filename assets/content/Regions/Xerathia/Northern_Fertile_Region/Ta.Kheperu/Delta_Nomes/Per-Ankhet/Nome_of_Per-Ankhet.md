@@ -98,7 +98,7 @@ data:
     - kheperlng
   seat: perankhet
   domains:
-    - takheperurgn
+    - perankhetnome
   population: 1100000
   economy:
     - affiliation-perhati
@@ -115,29 +115,19 @@ packFolder: perankhet
 
 ## Overview
 
-Per-Ankhet is the first nome of the [[affiliation-deltanomes|delta]] and the richest province in [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — the empire's chief port, its window on the [[place-vylarianse|Vylarian Sea]], and the place where the wealth of forty nomes meets the wealth of the wider world. Built around the great harbor-city of [[place-perankhet|Per-Ankhet]] on the westernmost and deepest of the river's mouths, the nome handles the lion's share of the empire's seaborne commerce. Its [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] is reckoned the wealthiest noble in the realm outside the royal house, and rules less like a provincial governor than like a merchant-prince and diplomat, with the [[affiliation-cnfdrtnhrdnstts|Haradian]] factors, the [[affiliation-sebeqsut|Sebeq'Sut]] houses, and the Per-Aá's customs men all dancing to the rhythm of his harbor.
+Per-Ankhet is the first nome of the [[affiliation-deltanomes|delta]] and the richest province in [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — the empire's chief port, its window on the [[place-vylarianse|Vylarian Sea]], and the place where the wealth of forty nomes meets the wealth of the wider world. Its [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] is reckoned the wealthiest noble in the realm outside the royal house, and rules less like a provincial governor than like a merchant-prince and diplomat, with the [[affiliation-cnfdrtnhrdnstts|Haradian]] factors, the [[affiliation-sebeqsut|Sebeq'Sut]] houses, and the Per-Aá's customs men all dancing to the rhythm of his harbor. The land it holds is [[place-perankhetnome|Per-Ankhet Nome]].
 
 ## Character
 
-If the delta is the empire's purse, Per-Ankhet is the mouth of it. The nome is a place of quays and counting-houses, of foreign quarters and bonded warehouses, of a hundred languages on the dockside and a fortune changing hands every hour. Its patron is [[affiliation-kemtnpnthn|Hápi]], lord of abundance and pleasure, and the nome worships him with the easy confidence of the very rich. The Per-Ankhet aristocracy made its money in shipping and trade and thinks in cargoes and margins; it intermarries with foreign merchant houses, keeps villas along the garden coast, and regards the dour landowners of the [[affiliation-uperivrnms|upper river]] as provincial fossils. The river-lords return the favor, muttering that Per-Ankhet would sell the Per-Aá's crown for a good freight-rate — and they are not entirely wrong.
+Its patron is [[affiliation-kemtnpnthn|Hápi]], lord of abundance and pleasure, and the nome worships him with the easy confidence of the very rich. The Per-Ankhet aristocracy made its money in shipping and trade and thinks in cargoes and margins; it intermarries with foreign merchant houses, keeps villas along the garden coast, and regards the dour landowners of the [[affiliation-uperivrnms|upper river]] as provincial fossils. The river-lords return the favor, muttering that Per-Ankhet would sell the Per-Aá's crown for a good freight-rate — and they are not entirely wrong.
 
 ## Economy
 
-Trade is everything. Per-Ankhet's harbor is the empire's principal sea-gate: outward go grain, papyrus, linen, gold, and the empire's exquisite artisan-work; inward come timber, metals, spices, wine, and the luxury goods of [[place-midhalnrgn|Mídhalión Region]]. The nome takes its cut of all of it — harbor-fees, customs, warehousing, brokerage, and the banking that the [[affiliation-perhati|Pér-Háti]] treasuries run from its docks. Beyond the port, the nome's marshes yield fish, fowl, salt, and papyrus, and its share of the garden coast grows wine and oil for export. Per-Ankhet mints comparatively little of its own production and grows its own bread hardly at all; its genius is in moving other people's goods and taking a fee on every transaction.
+The nome takes its cut of all of it — harbor-fees, customs, warehousing, brokerage, and the banking that the [[affiliation-perhati|Pér-Háti]] treasuries run from its docks.
 
 ## Notable Features
 
-- The great harbor of [[place-perankhet|Per-Ankhet]] — the empire's principal sea-gate
-- The foreign quarters, with permanent Haradian and Mídhalión merchant factories
-- The bonded warehouses and the [[affiliation-perhati|Pér-Háti]] banking-houses of the waterfront
 - The Per-Aá's chief customs-station, where the empire taxes its seaborne trade
-- The villa-coast of the merchant-princes, west along the garden strip
-
-## Settlements
-
-- **[[place-perankhet|Per-Ankhet]]** (~120,000) — the nome capital and the empire's first port; the great harbor, the foreign quarters, the customs-house, and the counting-houses of the richest merchants in the realm.
-- **[[place-mehitper|Mehit-Per]]** (~14,000) — a fishing-and-victualling town on a northern channel; it supplies the great port with fish and crews and handles the lesser coasting-trade the big harbor cannot be bothered with.
-- **The channel villages:** a scatter of small fishing and ferry communities of 500–2,000 thread the marsh-channels around the port — among them Tjau-Mehit, Per-Iry, Sma-Behdet, and Wadj-Setji — living by their boats, their nets, and the custom of the great city.
 
 ## For the Worldbuilder
 
@@ -154,3 +144,4 @@ Per-Ankhet uses the [[lore-tkhprcrncy|Ta'Kheperu currency system]], but its harb
 - [[place-perankhet|Per-Ankhet]] — Nome capital
 - [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — Chief trading partner
 - [[affiliation-perhati|Pér-Háti]] — Temple-treasuries
+- [[place-perankhetnome|Per-Ankhet Nome]] — The land the nome holds

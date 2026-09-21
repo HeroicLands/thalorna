@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - wadjmunome
   population: 27000
 name:
   full: Wadj-Mu

@@ -95,7 +95,7 @@ data:
     - kheperlng
   seat: behdet
   domains:
-    - takheperurgn
+    - behdetresunome
   population: 200000
   economy:
     - affiliation-perhati
@@ -112,26 +112,11 @@ packFolder: bordernomes
 
 ## Overview
 
-Behdet-Resu is one of the border nomes of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]: the deepest southern fort; the empire's last writ before the tribal frontier. Like every nome it is held by a hereditary [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Per-Aá at a distance that varies with the strength of the throne. Its patron is [[affiliation-mentu|Mentu]], and the nome's religious life runs through that cult's temples and their estates.
+Behdet-Resu is one of the border nomes of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]: the deepest southern fort; the empire's last writ before the tribal frontier. Like every nome it is held by a hereditary [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Per-Aá at a distance that varies with the strength of the throne. Its patron is [[affiliation-mentu|Mentu]], and the nome's religious life runs through that cult's temples and their estates. The land it holds is [[place-behdetresunome|Behdet-Resu]].
 
 ## Character
 
-The deepest southern fort; the empire's last writ before the tribal frontier. Its seat is [[place-behdet|Behdet]], where the Haty'a keeps his court and the nome's chief temple of Mentu stands. Beyond the capital the nome is the ordinary Kheperi landscape of villages, estates and temple lands, worked by farmers who owe a share of the harvest and labour on the canals, and lettered by the scribes who are the one reliable ladder out of the fields.
-
-## Economy
-
-Like every Kheperi nome it runs on the flood, the harvest and the render — grain to the granaries, labour to the canals and the flood-season works, and a share of everything to the temples and the crown. What it contributes to the empire beyond that is what its character names: the deepest southern fort; the empire's last writ before the tribal frontier.
-
-## Notable Features
-
-- [[place-behdet|Behdet]] — the nome capital and the Haty'a's seat
-- The chief temple of [[affiliation-mentu|Mentu]] and its estates
-- The deepest southern fort; the empire's last writ before the tribal frontier
-
-## Settlements
-
-- **[[place-behdet|Behdet]]** (~11,000) — the nome capital and the seat of the Haty'a.
-- **The villages and estate-towns:** the ordinary settlements of the nome, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+Its seat is [[place-behdet|Behdet]], where the Haty'a keeps his court and the nome's chief temple of Mentu stands.
 
 ## Commerce and Currency
 
@@ -144,3 +129,4 @@ Behdet-Resu uses the [[lore-tkhprcrncy|Ta'Kheperu currency system]], with the lo
 - [[place-behdet|Behdet]] — Nome capital
 - [[affiliation-mentu|Mentu]] — Patron cult
 - [[affiliation-perhati|Pér-Háti]] — Temple-treasuries
+- [[place-behdetresunome|Behdet-Resu]] — The land the nome holds

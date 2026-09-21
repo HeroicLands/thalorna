@@ -1,0 +1,49 @@
+---
+tags:
+  - region
+description: "An old capital of a former dynasty, proud and faded; ram-cult and horse-pasture — the land of the Nome of Henen-Nesut, one of the upper-river nomes of Ta'Kheperu."
+name:
+  full: Henen-Nesut Nome
+  aliases: []
+shortcode: henennesutnome
+type: place
+subType: region
+data:
+  banner: takheperubnr
+  demonym: null
+  lore:
+    - humanflk
+  parents:
+    - takheperurgn
+  population: 340000
+packFolder: upperrivernomes
+---
+
+## Overview
+
+Henen-Nesut Nome is the land of [[affiliation-nomehnnnst|The Nome of Henen-Nesut]], one of the [[affiliation-uperivrnms|Upper River Nomes]] of the [[affiliation-empirtkhpr|Empire of Ta'Kheperu]], and lies within the [[place-takheperurgn|Ta'Kheperu Region]].
+
+## Character
+
+An old capital of a former dynasty, proud and faded; ram-cult and horse-pasture. Beyond the capital the nome is the ordinary Kheperi landscape of villages, estates and temple lands, worked by farmers who owe a share of the harvest and labour on the canals, and lettered by the scribes who are the one reliable ladder out of the fields.
+
+## Economy
+
+Like every Kheperi nome it runs on the flood, the harvest and the render — grain to the granaries, labour to the canals and the flood-season works, and a share of everything to the temples and the crown. What it contributes to the empire beyond that is what its character names: an old capital of a former dynasty, proud and faded; ram-cult and horse-pasture.
+
+## Notable Features
+
+- [[place-henennesut|Henen-Nesut]] — the nome capital and the Haty'a's seat
+- The chief temple of [[affiliation-ra|Rā]] and its estates
+- An old capital of a former dynasty, proud and faded; ram-cult and horse-pasture
+
+## Settlements
+
+- **[[place-henennesut|Henen-Nesut]]** (~26,000) — the nome capital and the seat of the Haty'a.
+- **The villages and estate-towns:** the ordinary settlements of the nome, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+
+## See Also
+
+- [[affiliation-nomehnnnst|The Nome of Henen-Nesut]] — The nome that holds this land
+- [[place-takheperurgn|Ta'Kheperu Region]] — The enclosing region
+- [[place-henennesut|Henen-Nesut]] — Nome capital

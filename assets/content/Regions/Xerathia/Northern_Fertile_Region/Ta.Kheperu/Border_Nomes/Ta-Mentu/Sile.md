@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - tamentunome
   population: 12000
 name:
   full: Sile

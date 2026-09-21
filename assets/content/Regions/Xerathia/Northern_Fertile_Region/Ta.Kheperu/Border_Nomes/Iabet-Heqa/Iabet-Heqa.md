@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - iabetheqanome
   population: 12000
 name:
   full: Iabet-Heqa

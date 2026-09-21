@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - hutsobeknome
   population: 38000
 name:
   full: Hut-Sobek

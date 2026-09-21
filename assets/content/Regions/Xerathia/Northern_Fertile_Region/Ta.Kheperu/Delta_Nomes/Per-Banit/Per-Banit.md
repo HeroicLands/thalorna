@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - perbanitnome
   population: 34000
 name:
   full: Per-Banit

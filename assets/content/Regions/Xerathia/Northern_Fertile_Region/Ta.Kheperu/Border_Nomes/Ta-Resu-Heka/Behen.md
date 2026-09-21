@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - taresuhekanome
   population: 24000
 name:
   full: Behen

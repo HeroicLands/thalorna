@@ -98,7 +98,7 @@ data:
     - kheperlng
   seat: khemenu
   domains:
-    - takheperurgn
+    - perthothnome
   population: 700000
   economy:
     - affiliation-perhati
@@ -115,28 +115,17 @@ packFolder: perthoth
 
 ## Overview
 
-Per-Thōth — "the House of Thōth" — is the learned nome of the [[affiliation-uperivrnms|upper river]], the empire's seat of writing, reckoning, and recorded knowledge. At its centre stands [[place-khemenu|Khemenu]], the foremost temple-city of [[affiliation-kemtnpnthn|Thōth]], keeper of sacred wisdom, whose great library-temple holds the deepest archive in [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] and whose priest-scribes maintain the meticulous king-lists that stretch back, unbroken, to the [[affiliation-empirtkhpr#the-kheperi-calendar-and-dating|Sep Tepy]]. Here are the finest scribal schools in the empire, the astronomers who keep the calendar that is the most accurate in the known world, and the archivists, lawyers, mathematicians, and physicians whose training begins under Thōth's wing. The nome's worldly produce is ordinary upper-river grain; its real export is literate, numerate, and learned men, and the records by which the empire knows itself.
+Per-Thōth — "the House of Thōth" — is the learned nome of the [[affiliation-uperivrnms|upper river]], the empire's seat of writing, reckoning, and recorded knowledge. Here are the finest scribal schools in the empire, the astronomers who keep the calendar that is the most accurate in the known world, and the archivists, lawyers, mathematicians, and physicians whose training begins under Thōth's wing. The land it holds is [[place-perthothnome|Per-Thōth]].
 
 ## Character
 
 Per-Thōth is the empire's memory and its schoolroom. Its temper is bookish, exacting, and quietly proud: this is the nome that taught the bureaucracy to count and the priesthood to read, and it never quite lets the rest of the empire forget it. The priesthood of Thōth is its dominant power — less wealthy than the great mortuary or solar cults but more influential than its purse, for it controls the archives, certifies the scribes, computes the calendar, and is trusted to keep the king-lists that legitimize every dynasty. The [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] governs the land and the grain; the Wer'Hekau of Thōth governs the word and the number, and in a civilization that runs on records, that is no small thing. The nome draws ambitious youths from every corner of the empire to its schools, and sends them back out as the scribes, accountants, and learned men who actually run Ta'Kheperu.
 
-## Economy
-
-The nome farms its share of upper-river grain like any other, but its distinctive wealth is intellectual and institutional. The temple-schools draw fee-paying pupils and temple-endowments from across the empire; the scriptoria copy and sell the texts — legal, medical, astronomical, ritual — that the rest of the realm depends on; the astronomers' calendar-service is a quiet monopoly that every temple and farmer relies on; and the certification of scribes is itself a source of fees and influence. Around this learned core the nome supports the ordinary trades of a settled river-country, but its true balance of trade is in trained minds: Per-Thōth imports raw talent and exports educated men, and grows comfortably rich on the difference.
-
 ## Notable Features
 
-- The great library-temple of [[affiliation-kemtnpnthn|Thōth]] at [[place-khemenu|Khemenu]] — the deepest archive in the empire
 - The scribal schools — the empire's finest, the gold standard of literate training
-- The astronomers' observatory and the calendar-service that keeps the realm's time
 - The priestly archives and the unbroken king-lists since the Sep Tepy
 - The scriptoria and the medical, legal, and mathematical learning of the temple
-
-## Settlements
-
-- **[[place-khemenu|Khemenu]]** (~85,000) — the nome capital and the empire's great temple-city of learning; the library-temple of Thōth, the scribal schools, the observatory, the archives, and the bustling pupil-and-scholar quarters that surround them, alongside the seat of the Haty'a.
-- **The school-and-farm villages:** the nome's grain-country holds the usual scatter of villages of 500–2,500 — among them Per-Djehuti, Hut-Sesh, Iat-Khemenu, and Sma-Thoth — several of them grown prosperous as lodging-towns for the families of pupils and the lesser temple-schools that feed the great one at Khemenu.
 
 ## For the Worldbuilder
 
@@ -153,3 +142,4 @@ Per-Thōth uses the [[lore-tkhprcrncy|Ta'Kheperu currency system]]. Its school-f
 - [[place-khemenu|Khemenu]] — Nome capital and temple-city of Thōth
 - [[place-helionis|Heliónis]] — Foreign scholars who study in its libraries
 - [[affiliation-kemtnpnthn|Kemetian]] — Pantheon (Thōth) · [[affiliation-imprlscrblgld|The Imperial Scribal Guild]] — The scribal profession
+- [[place-perthothnome|Per-Thōth]] — The land the nome holds

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - neferusinome
   population: 38000
 name:
   full: Neferusi

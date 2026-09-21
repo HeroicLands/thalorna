@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - iunetnome
   population: 42000
 name:
   full: Iunet

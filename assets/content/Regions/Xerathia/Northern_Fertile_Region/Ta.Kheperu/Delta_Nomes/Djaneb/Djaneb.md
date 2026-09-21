@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - djanebnome
   population: 56000
 name:
   full: Djaneb
