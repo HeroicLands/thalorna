@@ -551,54 +551,50 @@ sohl:
 
 # Appearance {#appearance}
 
-Bâlden Stýlgon is a 51-year-old man who stands 6'0" tall and is broad and solidly built. He has an oval face with soft cheekbones, a wide forehead, and a sharp jaw that leads to a pointed chin. His piercing green eyes sit beneath arched brows, lending him a penetrating gaze. A straight nose and full lips complete his features. He has fair skin with a fair complexion. His black hair is shoulder-length and loose. A notable feature is deep lines etched into a weathered brow.
+Bâlden Stýlgon is a 51-year-old man who stands 6'0" tall and is broad and solidly built. He has an oval face with soft cheekbones, a wide forehead, and a sharp jaw that leads to a pointed chin. His piercing green eyes sit beneath arched brows and give him a penetrating gaze. He has a straight nose and full lips. He has fair skin with a fair complexion. His black hair is shoulder-length and loose. A notable feature is deep lines worn into a weathered brow.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Bâlden Stýlgon came into the world of the skald through a combination of circumstance and aptitude.
+Bâlden Stýlgon is a sworn skald of the Skalds' Circle living at Aurèliane, in [[place-provenzrgn|Provènzia]], a Provenzian by birth and a skald by thirty years' training and service in the halls of the Nordlands.
 
-Bâlden is an older skald who has spent most of his life reciting epic poems and histories in the great halls of chieftains. His voice is as strong as his name suggests, able to carry over the din of a feast. He values tradition and is dedicated to preserving the old stories without embellishment, believing that history should be remembered as it was. Bâlden is a respected mentor to younger skalds.
+Bâlden was taken as an apprentice young and made the Circle's way, and he spent most of his life reciting in the halls of Nordland chieftains, where a skald is the hall's record and his recitation is evidence, and came back to Aurèliane past forty with a voice that carries over a feast. Aurèliane lives on its past, and its old families found that a man who could recite their lineages exactly as received, and would not improve them, was worth keeping. He has trained a handful of Provenzian apprentices, and Bâlden does not compose to please. He holds that a story remembered wrongly is a story lost, and he has ended friendships over a line.
 
-Now at 51 years of age, Bâlden Stýlgon has established himself as a known figure among the skalds of Provènzia. His reputation, for better or worse, precedes him in the circles where such things matter.
+He is a known figure among the skalds of Provènzia.
 
 ## Psyche
 
 ### Personality
 
-Resistant to changes in storytelling methods, struggles with new compositions.
+Bâlden is grave, exact and unbending about the record, and slow with any composition of his own; he would rather recite a saga he holds true than write a new one he does not.
 
 ### Motivation
 
-Bâlden is driven by the desire to master his craft and secure a stable future. The uncertainties of life in skald work keep him vigilant and adaptable.
+Bâlden wants the old stories kept exactly as they were given, because the Circle's first principle is the accuracy of memory and he has never found a reason to doubt it. He wants apprentices who will keep them the same way after him.
 
 ### Strengths
 
-Experienced storyteller, powerful voice, respected elder.
+Experienced reciter, powerful voice, respected by the old families.
 
 ## Social
 
-Bâlden is affiliated with Nordic Skalds' Guild.
-
-As a Provenzian skald, Bâlden occupies a recognized social niche within Provènzia society.
+Bâlden is a sworn skald of the Skalds' Circle, which gives him standing in Aurèliane under the Circle's recognition with the Collegium.
 
 ## Companions
 
 ### Patrons
 
-Bâlden's primary patron is Wealthy Nordic families who prefer traditional tales.. This relationship provides both opportunity and obligation.
+Bâlden's patrons are the old families of Aurèliane, who want their lineages and their ancestors' deeds recited as received at weddings, funerals and feasts.
 
 ### Enemies
 
-Younger skalds who see him as outdated.
+His own former apprentices, who compose the flattering verse that Bâlden will not and have begun to take the patrons he taught them to sing for; and one patron whose grandfather's saga Bâlden recited accurately, in company.
 
 ## Plot Hooks
 
-1. **The Skald's Dilemma** — Bâlden faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
+1. **A Line Amended** — An old family has asked Bâlden to leave out a verse of their lineage at a wedding, and offered a year's keep for it. The verse is accurate, and the bride's family has heard it before.
 
-2. **Old Grudges** — Younger skalds who see him as outdated. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Recital as Witness** — An inheritance dispute has reached the high court at Aurèliane, and one party has asked that Bâlden recite the family's record in evidence, as a Nordland court would take it. The other party knows what the record says.
 
-3. **Echoes of the Past** — Something from Bâlden's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **The False Saga** — A former apprentice has composed a saga of a patron's father that is finer than the truth and is being repeated in Aurèliane as history. Bâlden holds the true record and nobody wants it.
 
-4. **Shifting Winds** — Political changes in Provènzia threaten to upend the social order that Bâlden depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Bâlden the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **The Gathering** — Bâlden has been summoned north to the Circle's yearly gathering to have his repertoire verified by collective recitation, as every sworn skald is in turn. A line he has recited for thirty years is disputed.

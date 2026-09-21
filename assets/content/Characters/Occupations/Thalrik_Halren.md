@@ -551,54 +551,50 @@ sohl:
 
 # Appearance {#appearance}
 
-Thálrik Hálren is a 46-year-old man who stands 6'5" tall and is broad and solidly built. He has an angular face with high cheekbones, a broad forehead, and a sharp jaw that leads to a delicate chin. His large green eyes sit beneath thin brows, lending him an expressive gaze. A slightly upturned nose and full lips complete his features. He has pale skin with a flawless complexion. His blonde hair is long and gathered with a leather thong.
+Thálrik Hálren is a 46-year-old man who stands 6'5" tall and is broad and solidly built. He has an angular face with high cheekbones, a broad forehead, and a sharp jaw that leads to a delicate chin. His large green eyes sit beneath thin brows and give him an expressive gaze. He has a slightly upturned nose and full lips. He has pale skin with a flawless complexion. His blonde hair is long and gathered with a leather thong.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Thálrik Hálren came into the world of the woodcutter through a combination of circumstance and aptitude.
+Thálrik Hálren is a woodcutter of Port Aelion, on the coast of [[place-elavendre|Élavendre]], an Élavendri freeman who has worked the wooded slopes above the harbour since he was a boy.
 
-Thálrik has spent his entire life working in the forests, cutting down trees and processing lumber for local carpenters and builders. He is known for his strength and endurance, which allow him to handle the most difficult tasks with ease. Thálrik prefers the solitude of the woods and values the peace it provides, though the isolation has made him a bit gruff. He is highly skilled at identifying which trees to fell to maintain the forest's health.
+Thálrik cuts under licence, as every Élavendri woodcutter does. The Crown's forest court at Liranel issues the licences, and above the licensed belt the old forest begins, which the Wardens patrol and nobody cuts. He has spent thirty years learning exactly where that line runs and which trees on his side of it can be taken without harming the stand, and the carpenters and shipwrights of Port Aelion have learned that a Hálren load is sound timber, honestly measured. He works alone by choice.
 
-Now at 46 years of age, Thálrik Hálren has established himself as a known figure among the woodcutters of Élavendre. His reputation, for better or worse, precedes him in the circles where such things matter.
+He is a known figure among the woodcutters of Élavendre.
 
 ## Psyche
 
 ### Personality
 
-Gruff demeanor, prefers working alone, struggles with social skills.
+Thálrik is gruff and short-spoken, and easier with trees than with people. He does not mean to intimidate, but he is a very large man who does not smile, and villagers who do not know him keep their distance.
 
 ### Motivation
 
-Thálrik is driven by the desire to master his craft and secure a stable future. The uncertainties of life in woodcutter work keep him vigilant and adaptable.
+Thálrik wants the solitude of the wood, and he wants the wood still standing when he is gone. He will not fell a tree the stand cannot spare, whoever is paying.
 
 ### Strengths
 
-Physically strong, experienced in forestry, knowledgeable about tree selection.
+Physically strong, experienced in forestry, knowledgeable about which trees to fell and which to leave.
 
 ## Social
 
-Thálrik is affiliated with Woodcutters' Guild.
-
-As a Élavendri woodcutter, Thálrik occupies a recognized social niche within Élavendre society.
+Thálrik belongs to the Woodcutters' Guild, which holds his licence and settles his disputes. He keeps a hut above Port Aelion rather than a house in it.
 
 ## Companions
 
 ### Patrons
 
-Thálrik's primary patron is Local carpenters and builders who rely on his lumber.. This relationship provides both opportunity and obligation.
+Thálrik's patrons are the carpenters and shipwrights of Port Aelion, who rely on him for sound oak and ash.
 
 ### Enemies
 
-Few, though some villagers find him intimidating.
+Cutting crews that work past the licence line and find Thálrik between them and the trees they wanted.
 
 ## Plot Hooks
 
-1. **The Woodcutter's Dilemma** — Thálrik faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
+1. **The Stand He Will Not Fell** — A shipwright with a keel to lay wants a stand of old oak that Thálrik has licence to cut and refuses to. He will pay anyone who can persuade him, or anyone who will fell it in his place.
 
-2. **Old Grudges** — Few, though some villagers find him intimidating. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Line** — A crew from up the coast has been cutting past the line into Warden country and hauling the timber out through Thálrik's slopes. They want his silence, and they are prepared to pay for it or arrange it.
 
-3. **Echoes of the Past** — Something from Thálrik's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **A Licence Refused** — The forest court has declined to renew Thálrik's licence for the slope he has worked for thirty years, without saying why. Someone with more influence wants that ground.
 
-4. **Shifting Winds** — Political changes in Élavendre threaten to upend the social order that Thálrik depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Thálrik the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **Lost in the Wood** — A child from Port Aelion has gone into the wood and not come out. Thálrik is the only man who knows those slopes well enough to search them in the dark, and the only one the family has not thought to ask.

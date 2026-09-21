@@ -551,54 +551,50 @@ sohl:
 
 # Appearance {#appearance}
 
-Thâven Fárwèn is a 45-year-old man who stands 6'0" tall and is broad and solidly built. He has a heart-shaped face with wide-set cheekbones, a wide forehead, and an angular jaw that leads to a pointed chin. His wide-set brown eyes sit beneath expressive brows, lending him an open gaze. A narrow nose and firm lips complete his features. He has fair skin with a fair complexion. His red hair is short and swept back.
+Thâven Fárwèn is a 45-year-old man who stands 6'0" tall and is broad and solidly built. He has a heart-shaped face with wide-set cheekbones, a wide forehead, and an angular jaw that leads to a pointed chin. His wide-set brown eyes sit beneath expressive brows and give him an open gaze. He has a narrow nose and firm lips. He has fair skin with a fair complexion. His red hair is short and swept back.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Thâven Fárwèn came into the world of the bosun through a combination of circumstance and aptitude.
+Thâven Fárwèn is a ship's bosun of [[place-provenzrgn|Provènzia]], a Provenzian freeman born in the eastern march who went to sea from the coast at fifteen and keeps his household inside the walls of Chastèlclair.
 
-Bosun Kellan is a seasoned veteran of the sea and is responsible for the ship's crew and operations. He ensures that all tasks are carried out efficiently, from managing the sails to overseeing the maintenance of the ship. Kellan has a no-nonsense attitude and is respected by his crew for his experience and leadership. He often shares his knowledge of seamanship with younger sailors, helping them become skilled mariners.
+Thâven is a march boy who found he preferred the sea to the levy, and a bosun is what the sea made of him. He has a rule for everything the crew handles and keeps every rule, in fair weather when it seems needless and in foul when it is the reason the ship comes home. Captains hire him because a Fárwèn crew does what it is told at once and has never lost a man to a rotten line. When the ship lays up he goes home to Chastèlclair, where his wife keeps the house and his sons are growing up.
 
-Now at 45 years of age, Thâven Fárwèn has established himself as a known figure among the bosuns of Provènzia. His reputation, for better or worse, precedes him in the circles where such things matter.
+He is a known figure among the bosuns of Provènzia.
 
 ## Psyche
 
 ### Personality
 
-Can be too strict, struggles with adapting to new technologies.
+Thâven is direct, strict and suspicious of anything new on a ship, whether it is a rig, a rope or an idea.
 
 ### Motivation
 
-Thâven is driven by the desire to master his craft and secure a stable future. The uncertainties of life in bosun work keep him vigilant and adaptable.
+Thâven wants the ship run right, which to him means every man doing his work the way it should be done, without being asked twice. He wants the sailors he trains able to run one the same way when he is not there.
 
 ### Strengths
 
-Strong leader, highly experienced, excellent at managing crew.
+Strong leader, highly experienced, excellent at handling a crew.
 
 ## Social
 
-Thâven is affiliated with None; works on a hired basis..
-
-As a Provenzian bosun, Thâven occupies a recognized social niche within Provènzia society.
+Thâven belongs to no guild and hires by the voyage, as bosuns do. In Chastèlclair he is a sailor among soldiers and carters.
 
 ## Companions
 
 ### Patrons
 
-Thâven's primary patron is Ship captains and crew members who respect his authority.. This relationship provides both opportunity and obligation.
+Thâven's patrons are the captains who hire him.
 
 ### Enemies
 
-Few; generally well-respected, though some may resent his strictness.
+Nobody lasting, but there is always a sailor on any ship who thinks a bosun's rules are for other men.
 
 ## Plot Hooks
 
-1. **The Bosun's Dilemma** — Thâven faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
+1. **The Captain Who Cuts Corners** — Thâven's present captain has taken a cargo he should not and means to sail in weather he should not, and has told the bosun to keep the crew quiet about both. The crew will follow Thâven, whichever way he goes.
 
-2. **Old Grudges** — Few; generally well-respected, though some may resent his strictness. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Crew Turns** — Half a crew of new men has decided that Thâven's rules are tyranny and has stopped short of mutiny only because nobody has led it yet. The one who could lead it is the best sailor aboard.
 
-3. **Echoes of the Past** — Something from Thâven's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **A Winter Ashore** — Laid up for the winter at Chastèlclair with the passes shut, Thâven has been asked by the Winter Assize to say what he saw on a voyage two years ago.
 
-4. **Shifting Winds** — Political changes in Provènzia threaten to upend the social order that Thâven depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Thâven the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **A Green Crew** — A captain has hired Thâven to make a crew out of thirty march boys who have never seen the sea, on a ship that sails in a month.

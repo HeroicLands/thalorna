@@ -551,54 +551,50 @@ sohl:
 
 # Appearance {#appearance}
 
-Nûbàris Jâdîrôs is a 40-year-old woman who stands 5'7" tall and is slender. She has a square face with prominent cheekbones, a prominent forehead, and a strong jaw that leads to a strong chin. Her bright blue eyes sit beneath heavy brows, lending her a lively gaze. A strong nose and curved lips complete her features. She has tanned skin with an olive-toned complexion. Her black hair is gathered in a practical bun.
+Nûbàris Jâdîrôs is a 40-year-old woman who stands 5'7" tall and is slender. She has a square face with prominent cheekbones, a prominent forehead, and a strong jaw that leads to a strong chin. Her bright blue eyes sit beneath heavy brows and give her a lively gaze. She has a strong nose and curved lips. She has tanned skin with an olive-toned complexion. Her black hair is gathered in a practical bun.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Nûbàris Jâdîrôs came into the world of the nobility (courtier) through a combination of circumstance and aptitude.
+Nûbàris Jâdîrôs is a courtier of Therádon, in [[place-helionis|Heliónis]], a Helionite noblewoman of a minor house with a seat in the city's assembly, who has made herself the person the greater houses send for when they need something settled quietly.
 
-Lady Mirabel is a cunning and resourceful minor noble known for her shrewd political maneuvers and influence in court. While she has a reputation for being somewhat secretive, she uses her intelligence to navigate the complexities of noble society. Mirabel often acts as a mediator in disputes among her peers and is respected for her strategic thinking. She is adept at forging alliances and has a network of contacts throughout the region.
+The city is governed by an assembly of its wealthiest and most educated citizens. The Jâdîrôs seat is an old one and a small one, and Nûbàris inherited it with the debts attached. She mediates. When two houses fall out over a marriage, a tax farm or a philosopher's chair, Nûbàris is the one who knows what each side actually wants, carries the messages neither will send directly, and proposes the settlement both can accept. She takes a fee from both. Her contacts run through every house in Therádon and several in Thyrenae and she has never been caught telling anyone what she was told. That reputation for discretion is her whole capital.
 
-Now at 40 years of age, Nûbàris Jâdîrôs has established herself as a known figure among the nobility (courtier)s of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
+She is a known figure among the courtiers of Heliónis.
 
 ## Psyche
 
 ### Personality
 
-Can be perceived as manipulative, struggles with open trust.
+Nûbàris is composed, attentive and difficult to read, and likes it that way; she gives away nothing she has not decided to give. She has been called manipulative to her face and took it as a description.
 
 ### Motivation
 
-Nûbàris is driven by the desire to master her craft and secure a stable future. The uncertainties of life in nobility (courtier) work keep her vigilant and adaptable.
+Nûbàris wants influence — to be the one the great houses cannot do without — and she has it. Behind the fee and the favour is a plainer want, to be needed, since being liked was never on offer to a small house with debts.
 
 ### Strengths
 
-Highly intelligent, skilled in diplomacy, strategic thinker.
+Highly intelligent, skilled in diplomacy, a long and exact memory.
 
 ## Social
 
-Nûbàris is affiliated with Local Nobility Council.
-
-As a Helionite nobility (courtier), Nûbàris occupies a recognized social niche within Heliónis society.
+Nûbàris holds the Jâdîrôs seat in the assembly of Therádon and speaks in it rarely, which is itself a tactic. She belongs to no faction and is invited by all of them.
 
 ## Companions
 
 ### Patrons
 
-Nûbàris's primary patron is Fellow nobles seeking alliances and mediation.. This relationship provides both opportunity and obligation.
+Nûbàris's patrons are the greater houses of the assembly, who use her when they need an alliance arranged, a dispute closed or a message delivered that cannot be seen to come from them.
 
 ### Enemies
 
-Some rivals view her as a threat to their influence.
+Rival courtiers who see a small house grown too useful and would like to prove her indiscreet; and one great house that lost a settlement she arranged and has since worked out how.
 
 ## Plot Hooks
 
-1. **The Nobility (Courtier)'s Dilemma** — Nûbàris faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
+1. **Both Sides Paying** — Two houses in a feud have each retained Nûbàris to settle it, and each has instructed her to see the other lose. Only a settlement that leaves both believing they won keeps her reputation.
 
-2. **Old Grudges** — Some rivals view her as a threat to their influence. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **A Secret of Her Own** — Something Nûbàris has kept from everyone — the true state of the Jâdîrôs debts, and who holds them — has reached a rival.
 
-3. **Echoes of the Past** — Something from Nûbàris's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **The Envoy** — A Vylarian envoy wants to know which houses of the assembly would welcome a firmer imperial hand, and has heard that Nûbàris knows every house's mind. He has offered a great deal, and the assembly would call the sale treason.
 
-4. **Shifting Winds** — Political changes in Heliónis threaten to upend the social order that Nûbàris depends upon. She must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Nûbàris the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+4. **The Feud** — Two of the oldest houses in Therádon have quarrelled past the point of mediation, and each has told Nûbàris that neutrality will be taken as enmity.

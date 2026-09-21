@@ -557,54 +557,50 @@ sohl:
 
 # Appearance {#appearance}
 
-Tirrûsh Namrûzî is a 38-year-old man who stands 6'0" tall and is of moderate build. He has a heart-shaped face with angular cheekbones, a broad forehead, and a sharp jaw that leads to a strong chin. His piercing amber eyes sit beneath straight brows, lending him a penetrating gaze. A strong nose and narrow lips complete his features. He has medium-toned skin with a sun-tanned complexion. His black hair is combed neatly to one side. A notable feature is calloused hands from years of hard work.
+Tirrûsh Namrûzî is a 38-year-old man who stands 6'0" tall and is of moderate build. He has a heart-shaped face with angular cheekbones, a broad forehead, and a sharp jaw that leads to a strong chin. His piercing amber eyes sit beneath straight brows and give him a penetrating gaze. He has a strong nose and narrow lips. He has medium-toned skin with a sun-tanned complexion. His black hair is combed neatly to one side. A notable feature is calloused hands from years of hard work.
 
 # Dossier {#dossier}
 
-Born in the [[place-haradregin|Harad]] region to a freeman family of Haradian heritage, Tirrûsh Namrûzî came into the world of the glassworker through a combination of circumstance and aptitude.
+Tirrûsh Namrûzî is a glassworker of Qadhirun, in [[place-haradregin|Harad]], a Haradian freeman who has worked his father's furnace-house since he was a boy.
 
-Tirrûsh has been working with glass since his youth, apprenticing under his father in a small workshop. Over time, he developed a skill for crafting intricate glass items, from window panes to delicate sculptures. Tirrûsh’s reputation for fine craftsmanship has spread, and while he enjoys the creative process, the work is physically demanding and often dangerous. He remains dedicated to his craft, always striving to improve.
+Tirrûsh learned window panes and bottles from his father and then went past them, into blown vessels, figured lamps and the glass sculptures — birds, ships, a hand — that the guild families of Qadhirun buy to stand in their halls. He loves the making and is bad at everything else about a shop. The books are behind, the apprentices are paid late, and the price he names is usually less than the work is worth. The furnace has burned him a dozen times and his hands are scarred from wrist to fingertip; a bad burn costs the shop a month, and the shop cannot always afford a month.
 
-Now at 38 years of age, Tirrûsh Namrûzî has established himself as a known figure among the glassworkers of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
+He is a known figure among the glassworkers of Harad.
 
 ## Psyche
 
 ### Personality
 
-Prone to hand injuries, struggles with the business side of his craft.
+Tirrûsh is absorbed, driven and impractical, and hard on any piece of his own that falls short of what he saw before he started it. He is careless of his hands and his money in exactly the same way.
 
 ### Motivation
 
-Tirrûsh is driven by the desire to master his craft and secure a stable future. The uncertainties of life in glassworker work keep him vigilant and adaptable.
+Tirrûsh wants to make glass better than any he has made, and each finished piece is only the measure for the next. Under that is the need to keep his father's furnace-house lit, which he manages by luck and the patience of his creditors.
 
 ### Strengths
 
-Skilled in glassblowing and sculpting, creative, meticulous.
+Skilled in glassblowing and sculpture, inventive, painstaking with a piece once it is in hand.
 
 ## Social
 
-Tirrûsh is affiliated with Glassworkers' Guild.
-
-As a Haradian glassworker, Tirrûsh occupies a recognized social niche within Harad society.
+Tirrûsh holds his licence from the Glassworkers' Guild of Qadhirun and is behind on its dues.
 
 ## Companions
 
 ### Patrons
 
-Tirrûsh's primary patron is Local merchants and nobles who commission glass pieces.. This relationship provides both opportunity and obligation.
+Tirrûsh's patrons are the guild houses of Qadhirun, who commission glass for their halls and their gifts and pay handsomely when he remembers to ask. Two of them send a steward to settle his suppliers directly, so that the piece they want is finished.
 
 ### Enemies
 
-Rival glassworkers who compete for high-profile commissions.
+Rival glassworkers of the port who want the guild houses' commissions and are better at asking for them; one of them keeps an account of Tirrûsh's late dues and mentions it where guild-wardens can hear.
 
 ## Plot Hooks
 
-1. **The Glassworker's Dilemma** — Tirrûsh faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Harad.
+1. **The Burned Hand** — Tirrûsh has taken a commission for a guild-warden's wedding, the largest of his life, and put his right hand in the furnace mouth a month before it is due. The piece is half-made and only he can finish it.
 
-2. **Old Grudges** — Rival glassworkers who compete for high-profile commissions. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Rival's Bid** — The house that has bought from Tirrûsh for ten years is being courted by a rival with a better ledger and a copy of Tirrûsh's best design. The house has asked him to match a price he cannot make glass at.
 
-3. **Echoes of the Past** — Something from Tirrûsh's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **The Partner** — A merchant of the port has offered to take over the shop's books and its debts for a half share, which would keep the furnace lit and put a stranger's name on his father's door.
 
-4. **Shifting Winds** — Political changes in Harad threaten to upend the social order that Tirrûsh depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Tirrûsh the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **A Piece for the Compact** — An officer of the Auric Compact has commissioned a glass ship from Tirrûsh as a gift for the Grand Council and has made clear that the Compact does not accept excuses.

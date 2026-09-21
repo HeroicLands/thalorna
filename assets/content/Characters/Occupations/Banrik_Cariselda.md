@@ -552,54 +552,50 @@ sohl:
 
 # Appearance {#appearance}
 
-Bánrik Cáriselda is a 33-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with wide-set cheekbones, a smooth forehead, and a strong jaw that leads to a square chin. His piercing gray eyes sit beneath prominent brows, lending him a penetrating gaze. A prominent nose and full lips complete his features. He has olive skin with a sun-tanned complexion. His graying brown hair is short and swept back.
+Bánrik Cáriselda is a 33-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with wide-set cheekbones, a smooth forehead, and a strong jaw that leads to a square chin. His piercing gray eyes sit beneath prominent brows and give him a penetrating gaze. He has a prominent nose and full lips. He has olive skin with a sun-tanned complexion. His graying brown hair is short and swept back.
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Bánrik Cáriselda came into the world of the bodyguard through a combination of circumstance and aptitude.
+Bánrik Cáriselda is a bodyguard of Solárden, in [[place-tarvenirgn|Tarvénia]], a Tarvénan of the town's back streets who has made himself the man its merchants hire when they want to arrive somewhere alive.
 
-Bánrik has established himself as a quick and resourceful bodyguard known for his agility and quick reflexes. With a background in the streets, he has learned how to navigate dangerous situations and protect his clients from both physical threats and underhanded dealings. Bánrik often employs a strategic approach, using both words and actions to keep his clients safe. His experience allows him to anticipate potential dangers before they arise.
+Bánrik grew up without a father in the lanes below Solárden's walls, and learned there what he still trades on: how to read a room, which men to watch, and when a door is about to open. He is not strong, and in a town that breeds sellswords that ought to have kept him out of the trade. He keeps his clients safe by seeing trouble before it arrives — a hired knife in a crowd, a contract with a bad clause, a host who has seated the wrong men together — and by talking his way through what he cannot fight.
 
-Now at 33 years of age, Bánrik Cáriselda has established himself as a known figure among the bodyguards of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
+He is a known figure among the bodyguards of Tarvénia.
 
 ## Psyche
 
 ### Personality
 
-Can be overly cautious, struggles with physical strength compared to others.
+Bánrik is watchful, dry and over-careful; he has cancelled a client's evening on a suspicion more than once and been right often enough to get away with it.
 
 ### Motivation
 
-Bánrik is driven by the desire to master his craft and secure a stable future. The uncertainties of life in bodyguard work keep him vigilant and adaptable.
+Bánrik wants every client he takes to walk home, because his living is the record of clients who have. He also wants to keep the standing a street boy was never meant to have.
 
 ### Strengths
 
-Quick and agile, skilled in strategy, excellent at detecting threats.
+Quick and agile, good at reading people and rooms, excellent at spotting a threat before it moves.
 
 ## Social
 
-Bánrik is affiliated with Local Mercenaries Guild.
-
-As a Tarvénan bodyguard, Bánrik occupies a recognized social niche within Tarvénia society.
+Bánrik is on the sellswords' roll at Solárden, which lets him take hire lawfully, and belongs to no company.
 
 ## Companions
 
 ### Patrons
 
-Bánrik's primary patron is Merchants and minor nobility seeking stealthy protection.. This relationship provides both opportunity and obligation.
+Bánrik's patrons are the merchants and minor nobility of Solárden who want protection that does not look like protection — a quiet man beside them at the table rather than a wall of hired steel.
 
 ### Enemies
 
-Few; generally well-liked but has made rivals due to his success.
+The bigger bodyguards of Solárden who have lost work to him and say a man who cannot lift a shield has no business in the trade.
 
 ## Plot Hooks
 
-1. **The Bodyguard's Dilemma** — Bánrik faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
+1. **Hired Away** — A client's chief rival has offered Bánrik three times his rate to change sides, the day before a meeting between the two. Taking it would be lawful, and would tell the whole quarter what his loyalty costs.
 
-2. **Old Grudges** — Few; generally well-liked but has made rivals due to his success. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **What He Cannot Prove** — Bánrik is certain that a client's steward is arranging to have him killed, and has nothing but the steward's manner to show for it.
 
-3. **Echoes of the Past** — Something from Bánrik's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **A Face from the Lanes** — A companion from his boyhood, now a thief, has asked Bánrik for the hour at which his client's house is unwatched. He has refused.
 
-4. **Shifting Winds** — Political changes in Tarvénia threaten to upend the social order that Bánrik depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Bánrik the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **The Fight He Cannot Win** — A rival has arranged a challenge that Bánrik cannot talk his way out of: a public bout, sellsword to sellsword, in front of the men who hire him. He will lose it on strength.
