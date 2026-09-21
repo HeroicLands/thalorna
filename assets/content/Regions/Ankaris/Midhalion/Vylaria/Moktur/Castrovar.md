@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - vylariargn
+    - moktur
   population: 6000
 name:
   full: Castrovar

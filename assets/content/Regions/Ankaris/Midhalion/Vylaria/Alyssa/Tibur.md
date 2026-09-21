@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - vylariargn
+    - alyssa
   population: 12000
 name:
   full: Tibur

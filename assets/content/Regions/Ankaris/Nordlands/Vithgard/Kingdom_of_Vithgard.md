@@ -102,7 +102,7 @@ data:
     - nordmalng
   seat: bjornstad
   domains:
-    - nrdlndsrgn
+    - vithgard
   population: 300000
   economy:
     - lore-vylrncrncy
@@ -122,13 +122,9 @@ packFolder: vithgard
 
 ## Overview
 
-Vithgard is the northernmost of the Nordmen kingdoms, a land of ice, tundra, and long polar nights where survival itself is an achievement. Its territory stretches into the frozen wastes beyond the tree line, and its people are the hardiest and most isolated of the Nordmen. Vithgard's settlements are sparse and scattered, connected by sea routes along the ice-choked northern coast.
+The Kingdom of Vithgard holds the land of [[place-vithgard|Vithgard]].
 
 ## Character
-
-Vithgard is a land of extremes. The brief summer brings constant daylight and a frantic burst of activity — fishing, hunting, trading, and gathering supplies for the long winter ahead. The winter brings months of darkness, bitter cold, and isolation, when communities turn inward and survive on stored provisions, hunting skills, and the shared warmth of the longhouse.
-
-The people of Vithgard are renowned for their whaling and seal-hunting, skills that produce the oil, bone, blubber, and hides that form the kingdom's primary trade goods. Vithgard whale-oil is prized across the north for lamps and waterproofing, and Vithgard ivory (walrus and narwhal) commands high prices among craftsmen as far south as [[place-midhalnrgn|Mídhalión Region]].
 
 The kingdom's shamanic traditions are the strongest of any Nordmen realm. The long dark winters are considered sacred time, when the veil between worlds thins and the völvur can commune most clearly with the spirits. Vithgard's seers are sought out by all five kingdoms for their prophetic gifts.
 
@@ -138,5 +134,6 @@ Kingdom of Vithgard uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo
 
 ## See Also
 
+- [[place-vithgard|Vithgard]] — The land the kingdom holds
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]] — Sister kingdoms
 - [[affiliation-asguardian|Asguardian Pantheon]] — Pantheon

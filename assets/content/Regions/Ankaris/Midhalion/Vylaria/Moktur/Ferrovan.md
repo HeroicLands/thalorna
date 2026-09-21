@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - vylariargn
+    - moktur
   population: 7000
 name:
   full: Ferrovan

@@ -154,7 +154,7 @@ data:
     - tarvenlng
   seat: kavrenath
   domains:
-    - tarvenirgn
+    - asturath
   population: 1000000
   economy:
     - lore-vylrncrncy
@@ -181,15 +181,15 @@ packFolder: tarvenia
 
 ## Overview
 
-Astúrath is the mountainous heartland of [[place-tarvenirgn|Tarvénia Region]] and the spiritual core of Tarvénan independence. Its fortress-towns cling to steep mountain valleys and high plateaus in the interior ranges, and its lords have never been conquered — not by the [[affiliation-vylarinmpr|Vylarian Empire]], not by anyone. The High King of Tarvénia is traditionally (though not always) drawn from the Astúrathi nobility, and the kingdom considers itself the keeper of the true Tarvénan warrior tradition.
+Astúrath is the mountainous heartland of [[place-tarvenirgn|Tarvénia Region]] and the spiritual core of Tarvénan independence. Its fortress-towns cling to steep mountain valleys and high plateaus in the interior ranges, and its lords have never been conquered — not by the [[affiliation-vylarinmpr|Vylarian Empire]], not by anyone. The High King of Tarvénia is traditionally (though not always) drawn from the Astúrathi nobility, and the kingdom considers itself the keeper of the true Tarvénan warrior tradition. The kingdom holds the land of [[place-asturath|Astúrath]].
 
 ## Character
 
 Astúrath is the most martial and conservative of the Tarvénan regions. Its people are mountain folk — tough, proud, and deeply attached to the old ways. The kingdom's lords rule from fortified hilltop castles, and the social order is built on bonds of personal loyalty between lord and retainer rather than bureaucratic administration. Every free man is expected to bear arms, and the mountain clans maintain a warrior readiness that borders on paranoia.
 
-The kingdom's geography is its greatest defense. The mountain passes are narrow and easily blocked, the terrain favors defenders absolutely, and the Astúrathi know every goat path and hidden valley in their ranges. Invading armies that have ventured into Astúrath's mountains have universally regretted it. The Vylarian legions, after several disastrous campaigns, eventually settled for holding the lowland approaches and leaving the mountains alone — a fact the Astúrathi have never tired of celebrating.
+Invading armies that have ventured into Astúrath's mountains have universally regretted it. The Vylarian legions, after several disastrous campaigns, eventually settled for holding the lowland approaches and leaving the mountains alone — a fact the Astúrathi have never tired of celebrating.
 
-The High King's seat is traditionally at **Peñalthár**, a fortress-city perched on a near-inaccessible plateau in the central mountains. The council of mountain lords meets here to elect a new High King when the throne falls vacant, a process that is equal parts solemn ceremony and bare-knuckle political brawl.
+The council of mountain lords meets here to elect a new High King when the throne falls vacant, a process that is equal parts solemn ceremony and bare-knuckle political brawl.
 
 ## Commerce and Currency
 
@@ -199,5 +199,6 @@ Kingdom of Astúrath uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Ar
 
 - [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] — The loose overlord
 - [[place-tarvenirgn|Tarvénia Region]] — Regional overview
+- [[place-asturath|Astúrath]] — The land the kingdom holds
 - [[affiliation-kngdmglvrn|Kingdom of Galváren]], [[affiliation-kingdmlnrk|Kingdom of Léonrik]] — Sister kingdoms
 - [[affiliation-frctyvlthr|Free City of Valthári]], [[affiliation-frtrtryskrth|Free Territory of Eskárath]] — Fellow Tarvénan regions

@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - vylariargn
+    - hylen
   population: 5000
 name:
   full: Olivenna

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - heladrgn
+    - helionis
   population: null
 name:
   full: Therádon

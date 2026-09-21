@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - vylariargn
+    - vald
   population: 20000
 name:
   full: Castamar

@@ -133,8 +133,6 @@ The Mahā-Saṅgha as a whole has, three times in recorded Vedyari history, rais
 
 The Janapadas of Vedyara collectively account for the overwhelming mass of Vedyára's people — on the order of **ninety million**, spread across several thousand temple-republics (some reckonings put their number at six or seven thousand) — filling the bulk of inland Vedyara: the river valleys, the highland plateaus, the inland forests, and the smaller coastal stretches that lie between the great city-states. They are the demographic and economic mass of the region; the great city-states are the headlines, but the janapadas are the substrate.
 
-Geographically, janapadas are concentrated wherever sustainable village-cluster agriculture is possible, which is most of inland Vedyara. They are densest in the great river valleys (the Chandramahī, the Sarvada, the Mahānadi, the Bhārava), thinnest in the deep forests and the arid central plateau. The northern hill-country has its own variant of the janapada form, somewhat smaller and somewhat more isolated; the southern tropical interior has another variant, with greater dependence on temple-controlled forest products.
-
 ## Famous Figures
 
 **Mahāprasāda of the Sarvada**, current senior priest of the great temple at the Mela ground. Approximately seventy years old, presided over the most recent Mahā-Mela four years ago, widely regarded as the most respected priestly authority in inland Vedyara. The next Mahā-Mela will be his last as convening priest; succession arrangements are already being negotiated.

@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - nrdlndsrgn
+    - vithgard
   population: null
 name:
   full: Bjornstad

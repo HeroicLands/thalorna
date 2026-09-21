@@ -98,7 +98,7 @@ data:
     - helonclng
   seat: korinthea2
   domains:
-    - helionis
+    - korinthea2
   population: null
   economy: []
   lore:
@@ -112,10 +112,11 @@ packFolder: helionis
 
 ## Overview
 
-Korinthea is one of the [[affiliation-ctysttshlns|Helionite city-states]], governed by an oligarchy of its wealthy patron families. _To be expanded._
+Korinthea is one of the [[affiliation-ctysttshlns|Helionite city-states]], governed by an oligarchy of its wealthy patron families. The city-state holds [[place-korinthea2|Korinthea]] itself. _To be expanded._
 
 ## See Also
 
 - [[affiliation-ctysttshlns|City-States of Heliónis]] — The confederation
 - [[place-helionis|Heliónis]] — Regional overview
+- [[place-korinthea2|Korinthea]] — The city itself
 - [[affiliation-thyrenae|Thyrenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalydria]], [[affiliation-theradon|Therádon]], [[affiliation-athenikos|Athenikos]] — Sister city-states

@@ -98,7 +98,7 @@ data:
     - vedyarlng
   seat: dhanurkota
   domains:
-    - vedyarargn
+    - dhanurkotajnpd
   population: 30000
   economy:
     - affiliation-mrchntclctvvdyr
@@ -113,13 +113,7 @@ terran_analog: "Medieval South Indian temple-republic with a martial-caste speci
 packFolder: vedyara
 ---
 
-The **Dhanurkota Janapada** is the federation of fourteen villages of the upper Sarvada river valley, governed jointly through the great hall of the **Mahájaya temple** at Dhanurkota — the "Bow-Fort" town from which the janapada takes its name. Its population is approximately eighteen thousand; its territory occupies a long defensible curve of the Sarvada where the river emerges from the northern hill country into the inland plain. It is one of perhaps eighty similar janapadas comprising the [[affiliation-janpdsvdyr|Mahā-Saṅgha of Vedyara]], and it is not large or wealthy by Vedyari standards. What it has, and what it is known for across the region, is the **Bow** — the four ancient archery academies whose graduates have for fifteen centuries staffed the elite missile units of every major Vedyari kingdom.
-
-## The Bow-Fort
-
-The town of Dhanurkota is built on a low fortified hill where the Sarvada bends west around an outcrop of red rock. The fort itself is older than the janapada — older, indeed, than the Mahā-Saṅgha, older than the temples, older perhaps than the Vedyari language itself. Its lowest courses are megalithic, of a construction-style that no living mason knows how to reproduce; the upper walls have been rebuilt many times in successive Vedyari styles. The fort encloses the **Mahájaya temple**, the four academy halls, the sabhā chamber, and the granary; the town proper spreads down the slope below the walls and along the riverbank.
-
-The fort's name has always been Dhanurkota. The original meaning of the word is contested — some scholars derive _dhanur_ from the bow that has been the janapada's emblem since before recorded history, others from a much older root meaning a bend or curve in a river. The latter is probably more accurate to the fort's original naming; the bow-association came later, after the academies were founded, and is now ineradicable.
+The **Dhanurkota Janapada** is the federation of fourteen villages of the upper Sarvada river valley, governed jointly through the great hall of the **Mahájaya temple** at Dhanurkota — the "Bow-Fort" town from which the janapada takes its name. It is one of perhaps eighty similar janapadas comprising the [[affiliation-janpdsvdyr|Mahā-Saṅgha of Vedyara]], and it is not large or wealthy by Vedyari standards. What it has, and what it is known for across the region, is the **Bow** — the four ancient archery academies whose graduates have for fifteen centuries staffed the elite missile units of every major Vedyari kingdom. The janapada holds the land of [[place-dhanurkotajnpd|Dhanurkota Janapada]].
 
 ## The Four Academies
 
@@ -136,7 +130,7 @@ Each academy maintains its own master, its own hereditary teaching lineages, and
 
 Dhanurkota's social structure is the standard Vedyari caste arrangement, but with the warrior caste (kshatriya-equivalent) unusually well-represented and unusually wealthy by janapada standards. About one in eight Dhanurkoti is of the warrior caste, compared to perhaps one in twenty in a typical Vedyari janapada. The wealth flows from the academy fees paid by aspiring archers from across Vedyara, the long-term retainer fees paid by patron kingdoms whose officer corps draws on Dhanurkota graduates, and the prestige donations made to the Mahájaya temple by those who have benefited from the academies' training.
 
-The other castes are present in normal proportions. The cultivator villages along the Sarvada produce rice, sugarcane, sesame, and the cotton that feeds the local weaver-caste workshops. The merchant caste handles the considerable trade in arms (Dhanurkoti bows and arrows are exported across Vedyara) and in academy-related logistics (provisioning, lodging, equipment maintenance). The priestly caste is concentrated in and around the Mahájaya temple, with the senior priest holding the convening authority of the sabhā.
+The other castes are present in normal proportions. The merchant caste handles the considerable trade in arms (Dhanurkoti bows and arrows are exported across Vedyara) and in academy-related logistics (provisioning, lodging, equipment maintenance). The priestly caste is concentrated in and around the Mahájaya temple, with the senior priest holding the convening authority of the sabhā.
 
 Dhanurkota maintains an unusual degree of social mobility for a Vedyari polity. The academies accept students from any caste, including the lowest, and a graduate of the academies — regardless of birth — is granted certain warrior-caste prerogatives within the janapada (the right to bear arms, the right to hold land in his own name, the right to participate in sabhā discussions on military matters). This is a long-standing janapada tradition that the Vedyari classical-orthodox occasionally find scandalous and that the sabhā has consistently defended as essential to the academies' continued excellence.
 
@@ -147,8 +141,6 @@ The **Mahájaya temple** at Dhanurkota is the religious heart of the janapada an
 Subsidiary shrines to other Varṇaka deities exist throughout the constituent villages. The temple of **Vyālendra** the creator at the Sarvada source-spring is a popular pilgrimage site for those seeking children; the **Rásikara** shrine in the cremation-ground outside the town receives the dead.
 
 ## Economy
-
-Dhanurkota's economy rests on three pillars: agriculture (the standard Vedyari rice-cotton-sugarcane mix, providing subsistence and modest export surplus), bow and arrow manufacture (a distinctive specialty, with hereditary bowyer-fletcher families whose products are exported across Vedyara), and the academy-and-retainer income system. Of the three, the academies produce the smallest direct revenue but the greatest indirect benefit — through the pilgrim-traffic of academy aspirants and their families, the constant inflow of patron-kingdom payments for graduate services, and the steady stream of donations to the Mahájaya temple.
 
 The janapada is moderately wealthy by janapada standards but not rich by city-state standards. Most of its wealth is held by the temple and the warrior-caste lineages; the cultivator villages live at standards typical of inland Vedyara.
 
@@ -170,6 +162,7 @@ Dhanurkota Janapada uses the [[lore-vdyrnbnkng|Vedyaran banking system]] adminis
 
 ## See Also
 
+- [[place-dhanurkotajnpd|Dhanurkota Janapada]] — the land the janapada holds
 - [[affiliation-janpdsvdyr|Janapadas of Vedyara]] — parent confederation
 - [[place-vedyarargn|Vedyara]] — parent region
 - [[place-dhanurkota|Dhanurkota]] — the bow-fort town itself (settlement note)

@@ -5,7 +5,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - nrdlndsrgn
+    - nordheim
   population: null
 name:
   full: Laurelossë

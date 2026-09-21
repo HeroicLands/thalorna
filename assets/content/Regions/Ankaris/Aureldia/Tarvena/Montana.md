@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - tarvenirgn
+    - leonrik
   population: null
 name:
   full: Montaña

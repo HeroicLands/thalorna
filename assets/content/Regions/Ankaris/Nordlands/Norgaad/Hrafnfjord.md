@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - nrdlndsrgn
+    - norgaad
   population: null
 name:
   full: Hrafnfjord

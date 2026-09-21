@@ -154,7 +154,7 @@ data:
     - tarvenlng
   seat: montana
   domains:
-    - tarvenirgn
+    - leonrik
   population: 1000000
   economy:
     - lore-vylrncrncy
@@ -181,15 +181,13 @@ packFolder: tarvenia
 
 ## Overview
 
-Léonrik is the largest, most populous, and most fertile of the three Tarvénan kingdoms, occupying the central-southern lowlands between the mountains of [[affiliation-kngdmstrth|Astúrath]] and the coast of [[affiliation-kngdmglvrn|Galváren]]. Its rich farmland, productive vineyards, and thriving market towns make it the agricultural backbone of [[place-tarvenirgn|Tarvénia Region]] — and its ambitious nobility makes it the kingdom most likely to challenge the others for dominance.
+The Kingdom of Léonrik holds the land of [[place-leonrik|Léonrik]]. Its rich farmland, productive vineyards, and thriving market towns make it the agricultural backbone of [[place-tarvenirgn|Tarvénia Region]] — and its ambitious nobility makes it the kingdom most likely to challenge the others for dominance.
 
 ## Character
 
 Léonrik has the most conventional feudal structure of any Tarvénan region. Its lords hold their lands from the king, who in turn owes nominal allegiance to the High King of Tarvénia. In practice, Léonriki nobles are among the most politically active in the kingdom — their wealth gives them ambitions that the mountain lords of Astúrath and the shipmasters of Galváren cannot easily match. Léonriki lords have contested the High Kingship more often than anyone, and several have worn the crown.
 
-The kingdom's lowland terrain makes it more accessible — and more vulnerable — than mountainous Astúrath. Léonrik bore the brunt of Vylarian occupation during the imperial era, and its architecture reflects this: fortified manor houses, walled towns, and a network of watchtowers that once served as an early-warning system against Vylarian patrols. The occupation left a lasting mark on Léonriki culture. The kingdom's administrative traditions are more sophisticated than those of its neighbors, its legal codes more formalized, and its nobility more conscious of lineage and precedence — all legacies of Vylarian influence, though no Léonriki lord would thank you for pointing this out.
-
-The capital, **Torváleth**, is the largest town in Tarvénia — a prosperous market center surrounded by some of the richest farmland in western [[place-ankrscntnnt|Ankaris Continent]]. Its annual harvest fair draws merchants from across the [[place-vylarianse|Vylarian Sea]], and its cattle markets are legendary.
+Léonrik bore the brunt of Vylarian occupation during the imperial era, and its architecture reflects this: fortified manor houses, walled towns, and a network of watchtowers that once served as an early-warning system against Vylarian patrols. The occupation left a lasting mark on Léonriki culture. The kingdom's administrative traditions are more sophisticated than those of its neighbors, its legal codes more formalized, and its nobility more conscious of lineage and precedence — all legacies of Vylarian influence, though no Léonriki lord would thank you for pointing this out.
 
 ## Commerce and Currency
 
@@ -199,5 +197,6 @@ Kingdom of Léonrik uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Arg
 
 - [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] — The loose overlord
 - [[place-tarvenirgn|Tarvénia Region]] — Regional overview
+- [[place-leonrik|Léonrik]] — The land the kingdom holds
 - [[affiliation-kngdmstrth|Kingdom of Astúrath]], [[affiliation-kngdmglvrn|Kingdom of Galváren]] — Sister kingdoms
 - [[affiliation-frctyvlthr|Free City of Valthári]], [[affiliation-frtrtryskrth|Free Territory of Eskárath]] — Fellow Tarvénan regions

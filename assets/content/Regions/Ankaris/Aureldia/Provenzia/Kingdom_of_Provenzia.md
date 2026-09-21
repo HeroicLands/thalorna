@@ -173,7 +173,7 @@ packFolder: provenzia
 
 ## Overview
 
-The Kingdom of Provènzia is a prosperous, cultured realm that won its independence from the [[affiliation-vylarinmpr|Vylarian Empire]] roughly a century ago — long enough that the memory of imperial rule has faded into a sense of cultural inheritance rather than resentment. Provènzia took the best of Vylarian civilization — its law, its learning, its architecture — and married it to a native tradition of artistic expression and courtly refinement.
+The Kingdom of Provènzia is a prosperous, cultured realm that won its independence from the [[affiliation-vylarinmpr|Vylarian Empire]] roughly a century ago — long enough that the memory of imperial rule has faded into a sense of cultural inheritance rather than resentment. Provènzia took the best of Vylarian civilization — its law, its learning, its architecture — and married it to a native tradition of artistic expression and courtly refinement. The kingdom holds the land of [[place-provenzrgn|Provènzia Region]].
 
 ## Government
 

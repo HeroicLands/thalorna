@@ -98,7 +98,7 @@ data:
     - helonclng
   seat: pelagora2
   domains:
-    - heladrgn
+    - pelagora2
   population: 600000
   economy:
     - affiliation-aerarimmpr
@@ -120,13 +120,13 @@ packFolder: helionis
 
 ## Overview
 
-Pelagora is the naval power of [[place-helionis|Heliónis]] — the city-state that commands the most important harbors and controls the sea lanes of the eastern [[place-vylarianse|Vylarian Sea]]. Its citizen-sailors are formidable fighters, its fleet the largest in the region, and its harbor one of the finest natural anchorages in the central sea. Where [[affiliation-thyrenae|Thyrenae]] leads in philosophy, Pelagora leads in ships, trade, and the projection of military force.
+Pelagora is the naval power of [[place-helionis|Heliónis]] — the city-state that commands the most important harbors and controls the sea lanes of the eastern [[place-vylarianse|Vylarian Sea]]. Its citizen-sailors are formidable fighters, its fleet the largest in the region, and its harbor one of the finest natural anchorages in the central sea. Where [[affiliation-thyrenae|Thyrenae]] leads in philosophy, Pelagora leads in ships, trade, and the projection of military force. The city-state holds [[place-pelagora2|Pelagora]] itself.
 
 ## Character
 
 Pelagora is a democracy in the Helionite tradition: its assembly of free citizens votes on matters of war, trade, and law, and every citizen is expected to serve in the fleet or the militia. The result is a city-state that is loud, passionate, and politically volatile — assembly debates can turn into shouting matches, and demagogues rise and fall with the public mood. But the system also produces a fiercely patriotic citizenry who fight for their city because they own a share of it.
 
-The city is built around its great harbor, a natural bay sheltered by rocky headlands. The waterfront is a forest of masts — warships, merchant vessels, and fishing boats packed together in organized chaos. Pelagora's shipwrights build the fastest galleys in the Vylarian Sea, and its admirals have defended Helionite waters against [[affiliation-cnfdrtnhrdnstts|Haradian]] incursions, Vylarian ambitions, and the occasional pirate fleet with equal determination.
+Pelagora's shipwrights build the fastest galleys in the Vylarian Sea, and its admirals have defended Helionite waters against [[affiliation-cnfdrtnhrdnstts|Haradian]] incursions, Vylarian ambitions, and the occasional pirate fleet with equal determination.
 
 Pelagora is more commercially minded than scholarly Thyrenae. Its merchants are wealthy and influential, its markets are well-stocked with goods from across the sea, and the city's economic power gives it a practical leverage that balances Thyrenae's intellectual prestige. The two cities are natural rivals — and natural partners, since Thyrenae needs Pelagora's fleet and Pelagora needs Thyrenae's diplomatic connections.
 
@@ -138,4 +138,5 @@ Pelagora uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Oct
 
 - [[affiliation-ctysttshlns|City-States of Heliónis]] — The polity
 - [[place-helionis|Heliónis]] — Regional overview
+- [[place-pelagora2|Pelagora]] — The city itself
 - [[affiliation-thyrenae|Thyrenae]], [[affiliation-kalydria|Kalydria]] — Sister city-states

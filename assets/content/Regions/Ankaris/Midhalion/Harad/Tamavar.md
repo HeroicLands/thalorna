@@ -93,7 +93,7 @@ data:
     - haradilng
   seat: qadhirun
   domains:
-    - haradregin
+    - tamavar2
   population: 3000000
   economy:
     - affiliation-aerarimmpr
@@ -110,22 +110,11 @@ packFolder: harad
 
 ## Overview
 
-Tamavar is the largest and wealthiest city in the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — the de facto capital, though the Confederation's constitution grants no city that formal status. The Grand Council meets here, the Arch-Consul's residence is here, and the headquarters of the most powerful merchant guilds line its harbor. If Harad has a beating heart, Tamavar is it.
+Tamavar is the largest and wealthiest city in the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — the de facto capital, though the Confederation's constitution grants no city that formal status. The Grand Council meets here, the Arch-Consul's residence is here, and the headquarters of the most powerful merchant guilds line its harbor. If Harad has a beating heart, Tamavar is it. The city-state holds [[place-tamavar2|Tamavar]] itself.
 
 ## Character
 
-Tamavar is a city of staggering contrasts. The guild quarter along the great harbor is a canyon of marble-faced warehouses, counting houses, and palatial guild halls, where fortunes are made and destroyed over a single shipment of eastern spice. Behind the harbor, the old city rises in a maze of narrow streets, covered bazaars, and tenement blocks where dock workers, sailors, and craftspeople live in the shadow of wealth they will never share.
-
 The city's politics are dominated by the three great guilds — the [[affiliation-auricompct|Auric Compact]], the [[affiliation-corsairleg|Corsair League]], and the [[affiliation-mrchntryvl|Merchantry of the Veil]] — whose representatives effectively control the Grand Council. The city's official government, a Council of Elders elected by property-owning citizens, serves largely at the guilds' pleasure.
-
-Tamavar's harbor is the finest on the [[place-vylarianse|Vylarian Sea]] — a deep natural bay protected by breakwaters and fortified islands, capable of sheltering hundreds of vessels. The naval yards on the harbor's northern arm produce warships and merchantmen; the southern arm is given over to the fishing fleet and smaller traders.
-
-## Notable Features
-
-- The Grand Harbor — largest and most protected port on the Vylarian Sea
-- The Guild Quarter — headquarters of the major merchant guilds
-- The Grand Council Hall — meeting place of the Confederation's governing body
-- The Tamzîr Monument — a captured Vylarian warship, preserved in dry-dock as a memorial to the Battle of Tamzîr Shoals
 
 ## Commerce and Currency
 
@@ -133,6 +122,7 @@ Tamavar uses the [[lore-hardncrncy|Haradian currency system]] — the post-seces
 
 ## See Also
 
+- [[place-tamavar2|Tamavar]] — The city itself
 - [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — Parent polity
 - [[affiliation-auricompct|Auric Compact]], [[affiliation-corsairleg|Corsair League]], [[affiliation-mrchntryvl|Merchantry of the Veil]] — Major guilds
 - [[affiliation-kethara|Kethara]], [[affiliation-varoshan|Varoshan]], [[affiliation-ashkabel|Ashkabel]] — Sister city-states

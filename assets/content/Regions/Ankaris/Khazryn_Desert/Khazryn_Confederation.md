@@ -97,7 +97,7 @@ data:
     - khazrilng
   seat: oasishirvn
   domains:
-    - khzryndsrtrgn
+    - swoasisbelt
   population: 2000000
   economy:
     - lore-bartercnmy
@@ -114,7 +114,7 @@ terran_analog: "Canaanites of the post-Conquest period — indigenous urban-past
 packFolder: khazryndesert
 ---
 
-The **Khazryn Confederation** is what survives of the indigenous civilization of the [[place-khzryndsrtrgn|Khazryn Desert]] — the people for whom the desert itself is named, the oasis-builders whose hereditary princes ruled the great walled cities for the better part of three thousand years, and the dispossessed nation that has been locked since the **Catastrophe** (four generations ago) in unresolved blood-feud with the [[affiliation-tribestrzd|Tribes of Ātárzád]] who took its choicest lands.
+The **Khazryn Confederation** is what survives of the indigenous civilization of the [[place-khzryndsrtrgn|Khazryn Desert]] — the people for whom the desert itself is named, the oasis-builders whose hereditary princes ruled the great walled cities for the better part of three thousand years, and the dispossessed nation that has been locked since the **Catastrophe** (four generations ago) in unresolved blood-feud with the [[affiliation-tribestrzd|Tribes of Ātárzád]] who took its choicest lands. The Confederation holds what it still holds of the [[place-swoasisbelt|Southwestern Oasis-Belt]] — the peripheral oases — and claims the whole.
 
 The Khazryn are not a small people. There are perhaps eight hundred thousand of them in all — three hundred thousand still living on Khazryn-held peripheral oases under three of the original seven princely houses; nearly five hundred thousand more living within the great Ātárzád-held cities (Zargandûr, Ashkarad, Kethramír, and the holy Oasis of Shirvan) as a subject class of merchants, craftsmen, water-engineers, scribes, physicians, and palm-grove tenders. The four other princely houses are in continuous exile, mostly in [[affiliation-sultntmrdd|Amradad]], where they have maintained their genealogies, their household priests, their court-ceremonial, and their explicit claim to the thrones from which their forebears were driven. The exile courts are not large — a few hundred souls each — but they are scrupulous about their continuity. A Khazryn prince in Amradad today can recite the names of every ancestor back to the founding of his line.
 
@@ -179,8 +179,6 @@ Particular Khazryn devotional emphases:
 
 ## Economy
 
-In the still-Khazryn oases — Mehrnāgord, Ushtra-bēr, the small Vahúrdash settlement — the economy is the traditional oasis economy: dates, palm-sugar, garden produce, salt (in Mehrnāgord's case), and trade with passing caravans. These are small economies; the populations are not large, the surpluses are modest, and the wealth of the still-Khazryn lands is reckoned in continuity rather than in volume.
-
 The substantial Khazryn economic activity takes place in the diaspora and the subject communities. Khazryn merchant-houses, primarily based in Amradad but with branches in Vylarian Sea ports, handle a meaningful share of the Sultanate's external trade and a near-monopoly on certain specialty goods — Khazryn wines (rare, but prized), Khazryn scholarly books, Khazryn scientific instruments. The Khazryn professional class within the Ātárzád cities is paid for its expertise by Ātárzád employers, and a significant fraction of those wages flow back to the Council of the Princes through informal channels as donations to the perpetuation of the genealogies, the maintenance of the exile courts, and the funding of Khazryn schools.
 
 The Khazryn do not pay taxes to any state. They pay — by ancient compact — a tithe to the Mōbadate, which funds the temples, the educational institutions, and the legal-administrative apparatus of the Confederation as a whole.
@@ -222,6 +220,7 @@ Khazryn Confederation's commerce operates primarily through [[lore-bartercnmy|ba
 ## See Also
 
 - [[place-khzryndsrtrgn|Khazryn Desert]] — the contested homeland (named for the Khazryn)
+- [[place-swoasisbelt|Southwestern Oasis-Belt]] — the oasis country the Confederation holds and claims
 - [[affiliation-tribestrzd|Tribes of Ātárzád]] — the eternal adversary
 - [[affiliation-ahurdaen|Faith of Āhúrdáén]] — the central object of Khazryn formal devotion
 - [[affiliation-zurathra|Faith of Zúráthrä]] — the central object of Khazryn popular devotion

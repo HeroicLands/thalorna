@@ -105,7 +105,8 @@ data:
   commonSkills:
     - tanvurlng
   seat: null
-  domains: []
+  domains:
+    - tanvuregin
   population: 120000000
   economy: []
   lore:
@@ -117,7 +118,7 @@ data:
 packFolder: tanvur
 ---
 
-The Empire of Tānvür is the oldest continuously-governed polity on Thalorna — a vast, caste-ordered, celestially-organized civilization that has occupied the eastern mainland of [[place-ankrscntnnt|Ankaris Continent]] for three millennia and that has seen every other major power on the continent rise, flourish, and decline from the cold vantage of an institution that measures its own history in dynasties rather than generations. Where [[affiliation-vylarinmpr|Vylaria]] rose and fell inside seven hundred years, Tānvür has had seven hundred years for one serious succession crisis.
+The Empire of Tānvür is the oldest continuously-governed polity on Thalorna — a vast, caste-ordered, celestially-organized civilization that has occupied the eastern mainland of [[place-ankrscntnnt|Ankaris Continent]] for three millennia and that has seen every other major power on the continent rise, flourish, and decline from the cold vantage of an institution that measures its own history in dynasties rather than generations. Where [[affiliation-vylarinmpr|Vylaria]] rose and fell inside seven hundred years, Tānvür has had seven hundred years for one serious succession crisis. The Empire holds the land of [[place-tanvuregin|Tānvür Region]].
 
 The Empire's self-understanding is that it is not so much a state as the mortal-plane expression of a cosmic order — that the celestial bureaucracy of the [[affiliation-tngvkvnlei|Celestial Order]] administers the heavens in the same way and by the same principles that the imperial bureaucracy administers the earth, and that these are not two systems that happen to resemble one another but two faces of a single underlying reality. Outsiders, missionaries, and foreign theologians have spent centuries arguing with this claim. The Tānvüri themselves consider the argument beneath serious attention.
 

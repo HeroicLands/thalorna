@@ -88,7 +88,7 @@ data:
     - vylarilng
   seat: alyssar
   domains:
-    - vylariargn
+    - alyssa
   population: 7000000
   economy:
     - affiliation-aerarimmpr
@@ -108,46 +108,13 @@ packFolder: vylaria
 
 ## Overview
 
-Alyssa is the heartland of the [[affiliation-vylarinmpr|Vylarian Empire]] — the province that contains the imperial capital, the Senate, and the oldest institutions of Vylarian civilization. It is the most urbanized, politically sophisticated, and culturally self-assured of the four provinces. When Vylarians speak of "the empire," they mean Alyssa first and everything else second.
+Alyssa is the heartland of the [[affiliation-vylarinmpr|Vylarian Empire]] — the province that contains the imperial capital, the Senate, and the oldest institutions of Vylarian civilization. It is the most urbanized, politically sophisticated, and culturally self-assured of the four provinces. When Vylarians speak of "the empire," they mean Alyssa first and everything else second. The Province of Alyssa holds the land of [[place-alyssa|Alyssa]].
 
 ## Character
 
-The province is dominated by the capital city and its sprawling web of senatorial estates, bureaucratic offices, temples, and markets. The oldest families — those who trace their lineage to the empire's founding — hold court here, and the politics of Alyssa are the politics of the empire. Every major institution is headquartered in the capital: the Senate, the Imperial Court, the high priesthoods of the [[affiliation-arldnpnthn|Aurèldían]] faith, and — most significantly — the [[affiliation-ordoarcanis|Ordo Arcanis]].
+The oldest families — those who trace their lineage to the empire's founding — hold court here, and the politics of Alyssa are the politics of the empire. Every major institution is headquartered in the capital: the Senate, the Imperial Court, the high priesthoods of the [[affiliation-arldnpnthn|Aurèldían]] faith, and — most significantly — the [[affiliation-ordoarcanis|Ordo Arcanis]].
 
 Alyssan society is intensely political. Every conversation carries subtext; every dinner party is a negotiation. The senatorial families compete for influence through patronage networks, strategic marriages, and control of religious offices. The common people of the capital are more politically aware than their counterparts elsewhere in the empire, and public opinion — expressed through street demonstrations, pamphlets, and the occasional riot — is a force that even senators must reckon with.
-
-## Economy
-
-Alyssa's economy is driven by government, trade, and the crafts that serve the wealthy. The province produces little agricultural surplus of its own — it depends on [[affiliation-provnchyln|Hylen]] for grain and [[affiliation-provincvld|Vald]] for seafood and imports. What Alyssa produces is influence, law, and [[affiliation-vylarinmpr|Vylarian Steel]]. The capital's metalworking guilds are the finest in Ankaris, and access to Vylarian Steel production is one of the empire's most closely guarded advantages.
-
-## Notable Features
-
-- The imperial capital — seat of the Emperor, the Senate, and the Ordo Arcanis
-- The Forum of Laws — the empire's supreme judicial institution
-- The greatest concentration of Aurèldían temples in the world
-- The Ordo Arcanis headquarters and its academy for arcane training
-
-## Settlements
-
-Alyssa is the most densely settled of the provinces — its countryside a near-continuous quilt of towns, villas, and senatorial estates, knit together by the oldest and best-kept stretch of the Vylarian road network.
-
-**The cities.**
-
-- **[[place-magnapolis|Magnápolis]]** (~1,000,000) — the imperial capital, seat of the Emperor, the Senate, and the Ordo Arcanis; so vast it is kept as its own thing rather than filed under the province. (See [[place-urbsaquiln|Urbs Aquilion]] and the [[place-pnthnrldnm|Pantheon Aurèldiānum]].)
-- **[[place-alyssar|Alyssar]]** (~45,000) — the provincial capital, administrative seat of Alyssa proper.
-- **[[place-lentora|Lentora]]** (~32,000) — the province's second city, market and governing hub of the inner farm-and-villa country.
-- **[[place-belekos|Belekos]]** (~25,000) — a merchant city of the river valleys, grown rich on agricultural surplus and trade.
-- **[[place-velysara|Velysâra]]** (~20,000) — a secondary provincial city of columned forums and faded imperial grandeur.
-
-**Towns.**
-
-- **[[place-tibur|Tibur]]** (~12,000) — a market town on a great road into the capital.
-- **[[place-corvinus|Corvinus]]** (~9,000) — a garrison town anchoring the province's interior.
-- **[[place-calvaris|Calvaris]]** (~9,000) — a temple-and-market town around an ancient hilltop precinct.
-- **[[place-ostenna|Ostenna]]** (~7,000) — a river-port town transshipping grain by barge.
-- **[[place-vennara|Vennara]]** (~6,000) — a villa-town in the hills, favored for senatorial country estates.
-
-**Villages and villa-estates.** Beyond the towns the heartland is a near-unbroken quilt of villages and country villas of 300–1,500 souls — among them Aventis, Caldera, Tibrenna, Sorrenza, Marvale, Corennis, Vellano, Pradio, Sennara, Olivetta, Tarsenna, Quirnis, Belluno, Castellis, Florenza, Nervia, Ostrella, and Aravenna — most within a half-day's road of a market town and a magistrate. These are only the named places; the great mass of Alyssa's people live in countless smaller hamlets and farms between them.
 
 ## For the Worldbuilder
 
@@ -160,5 +127,6 @@ Province of Alyssa uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Arge
 ## See Also
 
 - [[affiliation-vylarinmpr|Vylarian Empire]] — Parent polity
+- [[place-alyssa|Alyssa]] — The land the province holds
 - [[affiliation-provnchyln|Province of Hylen]], [[affiliation-provncmktr|Province of Moktur]], [[affiliation-provincvld|Province of Vald]] — Sister provinces
 - [[affiliation-ordoarcanis|Ordo Arcanis]] — Headquartered here

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - vylariargn
+    - nartumkngdm
   population: null
 name:
   full: Nartûm

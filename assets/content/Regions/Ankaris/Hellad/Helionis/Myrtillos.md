@@ -10,7 +10,7 @@ data:
   lore:
     - humanflk
   parents:
-    - helionis
+    - kostarosdst
   population: null
 name:
   full: Myrtillos

@@ -163,6 +163,10 @@ Tirwen, exported through Béravel and the coastal ports.
 - **[[affiliation-bardicolgs|The Bardic Colleges]]:** Institutions of learning that combine musical training, oral history, magical study, and diplomacy. Élavendren bards serve as ambassadors, historians, and spies across Mídhalión.
 - **[[place-silvrfrsts|The Silver Forests]]:** Ancient woodland said to be planted by the fae themselves, where the trees have bark that gleams like metal in moonlight.
 
+## Character
+
+The forests are old — genuinely ancient in a way that the cleared, farmed landscapes of [[affiliation-vylarinmpr|Vylaria]] and [[place-provenzrgn|Provènzia Region]] are not — and the boundary between the mortal world and the fae realm is thin.
+
 ## See Also
 
 - [[place-aelwyth|Aelwyth]] — Island off the western coast

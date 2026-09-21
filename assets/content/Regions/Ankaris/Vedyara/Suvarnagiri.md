@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - vedyarargn
+    - suvarnagirijnpd
   population: null
 name:
   full: Suvarṇagiri

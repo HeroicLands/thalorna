@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - vylariargn
+    - hylen
   population: 2500
 name:
   full: Cervalia

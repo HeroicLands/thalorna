@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - vylariargn
+    - moktur
   population: 3000
 name:
   full: Pinnhald

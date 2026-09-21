@@ -98,7 +98,7 @@ data:
     - helonclng
   seat: athenikos2
   domains:
-    - helionis
+    - athenikos2
   population: null
   economy: []
   lore:
@@ -112,10 +112,11 @@ packFolder: helionis
 
 ## Overview
 
-Athenikos is one of the [[affiliation-ctysttshlns|Helionite city-states]], governed by an oligarchy of its wealthy patron families. _To be expanded._
+Athenikos is one of the [[affiliation-ctysttshlns|Helionite city-states]], governed by an oligarchy of its wealthy patron families. The city-state holds [[place-athenikos2|Athenikos]] itself. _To be expanded._
 
 ## See Also
 
 - [[affiliation-ctysttshlns|City-States of Heliónis]] — The confederation
 - [[place-helionis|Heliónis]] — Regional overview
+- [[place-athenikos2|Athenikos]] — The city itself
 - [[affiliation-thyrenae|Thyrenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalydria]], [[affiliation-theradon|Therádon]], [[affiliation-korinthea|Korinthea]] — Sister city-states

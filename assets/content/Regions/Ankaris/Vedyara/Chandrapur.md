@@ -90,7 +90,7 @@ data:
     - vedyarlng
   seat: chandrapur2
   domains:
-    - vedyarargn
+    - chandrapur2
   population: 6000000
   economy:
     - affiliation-mrchntclctvvdyr
@@ -104,11 +104,11 @@ data:
 packFolder: vedyara
 ---
 
-Chandrapur, the "Moon City," stands as Vedyara's preeminent center of gemcraft and jewelry. Built along the banks of the Chandramahī River, its white-marble temples and merchant guildhalls gleam in the tropical sun. The city's fame rests upon the skill of its jewelers—artisans whose work commands prices across all the known realms. Royal courts from Provènzia to Tānvür commission pieces from Chandrapur's master craftspeople, and the city's merchant families have accumulated wealth spanning generations.
+Chandrapur, the "Moon City," stands as Vedyara's preeminent center of gemcraft and jewelry. The city's fame rests upon the skill of its jewelers—artisans whose work commands prices across all the known realms. Royal courts from Provènzia to Tānvür commission pieces from Chandrapur's master craftspeople, and the city's merchant families have accumulated wealth spanning generations.
 
-The beating heart of Chandrapur lies in the Great Bazaar, where raw gemstones arrive from mines across Vedyara and beyond. Here, cutters, polishers, and setters labor with obsessive precision, transforming rough stones into objects of transcendent beauty. The city maintains strict guildhall regulations—artisans must apprentice for years before earning the right to their own workshop—ensuring that Chandrapur's reputation for excellence remains unsullied.
+The city maintains strict guildhall regulations—artisans must apprentice for years before earning the right to their own workshop—ensuring that Chandrapur's reputation for excellence remains unsullied.
 
-Wealth has made Chandrapur cosmopolitan. Traders and craftspeople from across the realms have settled here; the city speaks a dozen languages in its markets. Yet beneath the glittering surface runs an older current: the temples of Varṇaka remain the true seat of power, their priesthoods mediating disputes between merchant families and blessing the work of the jewelcrafters before they begin. The city's prosperity, inhabitants believe, flows from divine favor.
+Wealth has made Chandrapur cosmopolitan. Traders and craftspeople from across the realms have settled here; the city speaks a dozen languages in its markets. Yet beneath the glittering surface runs an older current: the temples of Varṇaka remain the true seat of power, their priesthoods mediating disputes between merchant families and blessing the work of the jewelcrafters before they begin. The city's prosperity, inhabitants believe, flows from divine favor. The city-state holds [[place-chandrapur2|Chandrapur]] itself.
 
 ## Commerce and Currency
 
@@ -117,5 +117,6 @@ Chandrapur uses the [[lore-vdyrnbnkng|Vedyaran banking system]] administered thr
 ## See Also
 
 - [[place-vedyarargn|Vedyara Region]] — Regional overview
+- [[place-chandrapur2|Chandrapur]] — The city itself
 - [[skill-vedyarlng|Vedyari]] — Naming tradition
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — Religious tradition
