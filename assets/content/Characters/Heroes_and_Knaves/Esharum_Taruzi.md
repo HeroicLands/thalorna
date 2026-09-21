@@ -576,7 +576,7 @@ Eshârum Tarûzî is a tall, rangy man with the sun-darkened skin and salt-rough
 
 ### Early Life
 
-Eshârum was born in the port of [[place-azhun2|Azhûn]], one of the lesser harbors of the Haradian Confederation, to a family of modest cattle herders who worked the scrublands east of the city. His father died of a wasting sickness when Shâ was eleven, leaving his mother to raise him alone. The boy grew up hard, learning self-reliance early. By fourteen he was working the docks for coin, and by sixteen he had signed onto a merchant vessel as a deckhand, desperate to escape the grinding poverty of the hinterland.
+Eshârum was born in the port of [[place-azhun2|Azhûn]], one of the lesser harbors of the [[affiliation-cnfdrtnhrdnstts|Haradian Confederation]], to a family of modest cattle herders who worked the scrublands east of the city. His father died of a wasting sickness when Shâ was eleven, leaving his mother to raise him alone. The boy grew up hard, learning self-reliance early. By fourteen he was working the docks for coin, and by sixteen he had signed onto a merchant vessel as a deckhand, desperate to escape the grinding poverty of the hinterland.
 
 ### The Haradian War of Independence
 

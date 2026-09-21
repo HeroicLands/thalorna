@@ -619,7 +619,7 @@ Shadiq stands 6'0" tall with a light build. He has dark skin, black hair, and da
 
 Shadiq ibn Rahman was born to a merchant-diplomat house of **[[place-karatas2|Karataş]]**, in the mountainous interior of [[place-byzariargn|Byzaría]], whose trade runs up into the Sycâni holds in the high passes above the city, where [[affiliation-blackflame|The Black Flame]] burns openly. His family brokers between the [[affiliation-byzarianlg|Byzarian League]] and the holds, and Shadiq grew up steeped in the Black Flame’s teachings—that strength is virtue, that the strong shape the world, and that fire is the truest expression of Vúlcan’s will. For Shadiq, the faith is not merely spiritual; it is a practical philosophy that governs how he conducts business, forges alliances, and reads the intentions of others.
 
-Shadiq met Kallistratos during a diplomatic mission in Velysâra, where he immediately recognized a kindred spirit in the young mage. Shadiq was drawn to Kallistratos’s fiery ambition and saw in him the embodiment of Vúlcan’s power—a man capable of wielding fire to shape the future. Eager to expand his own influence and advance the Black Flame’s reach, Shadiq offered his services as a diplomat and political advisor, knowing that Kallistratos’s rise would serve both their ambitions and the faith.
+Shadiq met Kallistratos during a diplomatic mission in [[place-velysara|Velysâra]], where he immediately recognized a kindred spirit in the young mage. Shadiq was drawn to Kallistratos’s fiery ambition and saw in him the embodiment of Vúlcan’s power—a man capable of wielding fire to shape the future. Eager to expand his own influence and advance the Black Flame’s reach, Shadiq offered his services as a diplomat and political advisor, knowing that Kallistratos’s rise would serve both their ambitions and the faith.
 
 ## Background
 
@@ -651,7 +651,7 @@ Shadiq is charismatic, charming, and always thinking ahead. While he reveres fir
 
 ### Motivation
 
-Shadiq is motivated by his desire to expand his influence and advance the Black Flame’s reach. He believes that by helping Kallistratos harness the power of fire, he can secure a place for himself among the most powerful figures in both Vylaria and Byzaría. He sees Kallistratos’s quest as a means to elevate both of them to positions of great power—and to prove, in the process, that the Black Flame’s philosophy is simply the way the world works.
+Shadiq is motivated by his desire to expand his influence and advance the Black Flame’s reach. He believes that by helping Kallistratos harness the power of fire, he can secure a place for himself among the most powerful figures in both [[place-vylariargn|Vylaria]] and Byzaría. He sees Kallistratos’s quest as a means to elevate both of them to positions of great power—and to prove, in the process, that the Black Flame’s philosophy is simply the way the world works.
 
 ### Strengths
 
@@ -675,7 +675,7 @@ rival faction
    - **Uncovering the True Culprit**: Through negotiation and investigation, Shadiq uncovers that the real insurgents are agents of the **Ashen Circle**, trying to turn the rival house against Kallistratos. He must use this information carefully, deciding whether to expose the Ashen Circle or manipulate events to secure the house’s loyalty.
    - **Negotiating a Truce**: Once the truth is revealed, Shadiq must broker a truce between the rival house and Kallistratos, turning what could have been a deadly conflict into a political victory.
 
-2. **The Desert of Khazryn Desert: Lost Relics of Vúlcan**: Word reaches Shadiq that a powerful relic of Vúlcan—the **Torch of Fury**, said to grant its wielder immense destructive power—has been discovered in the **Desert of Khazryn Desert**. The relic is a sacred object tied to both the worship of Vúlcan and the political power of desert tribes. Recovering it could rally the desert lords behind Kallistratos, strengthening his position.
+2. **The [[place-khzryndsrtrgn|Khazryn Desert]]: Lost Relics of Vúlcan**: Word reaches Shadiq that a powerful relic of Vúlcan—the **Torch of Fury**, said to grant its wielder immense destructive power—has been discovered in the **Khazryn Desert**. The relic is a sacred object tied to both the worship of Vúlcan and the political power of desert tribes. Recovering it could rally the desert lords behind Kallistratos, strengthening his position.
 
    However, several factions are also interested in the relic, including rival desert lords and the Guilded Talon. Shadiq could play a pivotal role in securing it.
    - **Negotiating with Tribes**: Shadiq must navigate the complex relationships between the desert tribes, using his diplomacy to secure their loyalty or at least permission to seek the relic.

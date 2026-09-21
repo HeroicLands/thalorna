@@ -571,7 +571,7 @@ Kasûra Damzarû is a young woman whose appearance perfectly reflects her profes
 
 ### Origin
 
-Kasûra was born in the port of [[place-kashmuret|Kashmuret]], a bustling harbor in the Haradian Confederation, the daughter of a master shipwright. She grew up in his yard, surrounded by the smell of fresh-cut timber and hot pitch, and from the time she could walk she was underfoot — watching, touching, learning. Her father never formally apprenticed her (the guild traditions were resistant to women in the craft), but she shadowed him so constantly and so eagerly that by twelve she could identify any wood by touch and tell you where it should go in a hull.
+Kasûra was born in the port of [[place-kashmuret|Kashmuret]], a bustling harbor in the [[affiliation-cnfdrtnhrdnstts|Haradian Confederation]], the daughter of a master shipwright. She grew up in his yard, surrounded by the smell of fresh-cut timber and hot pitch, and from the time she could walk she was underfoot — watching, touching, learning. Her father never formally apprenticed her (the guild traditions were resistant to women in the craft), but she shadowed him so constantly and so eagerly that by twelve she could identify any wood by touch and tell you where it should go in a hull.
 
 ### The Gift
 
