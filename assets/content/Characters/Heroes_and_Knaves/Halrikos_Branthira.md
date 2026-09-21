@@ -608,7 +608,7 @@ Hálrikos stands 5'4" tall with a medium build. He has pale sallow skin, graying
 
 # Dossier {#dossier}
 
-Hálrikos was born into a merchant family of modest means in one of Tarvénia's port cities, though his parents harbored ambitions beyond trade. Recognizing their son's preternatural gift for understanding written regulations and legal structure, they apprenticed him to the Guild of Scribes at age twelve. By his eighteenth year, Hálrikos had become the fastest, most accurate copyist in the city, capable of rendering even the most complex legal documents with flawless precision. He rose through the ranks of the city's bureaucratic apparatus, becoming a record-keeper, then a clerk of minor courts, and eventually ascending to his current position as Senior Archivist and Advisory Clerk to the City Council.
+Hálrikos was born into a merchant family of modest means in one of [[affiliation-kingdmtrvn|Tarvénia]]'s port cities, though his parents harbored ambitions beyond trade. Recognizing their son's preternatural gift for understanding written regulations and legal structure, they apprenticed him to the Guild of Scribes at age twelve. By his eighteenth year, Hálrikos had become the fastest, most accurate copyist in the city, capable of rendering even the most complex legal documents with flawless precision. He rose through the ranks of the city's bureaucratic apparatus, becoming a record-keeper, then a clerk of minor courts, and eventually ascending to his current position as Senior Archivist and Advisory Clerk to the City Council.
 
 For thirty-five years, Hálrikos has been the institutional memory of Tarvénia, the man who knows every law, every precedent, every regulation, and every hidden clause that governs the city's operations. He has served under six different city magistrates, each one depending on his institutional knowledge to keep the wheels of governance turning. His marriage to a practical woman named Thessa has produced two children, both of whom have become bureaucrats themselves—a source of quiet pride for Hálrikos. His wife died seven years ago, and he has since devoted even more time to his work, finding in the orderly world of documents and regulations a comfort that human relationships cannot provide.
 
@@ -680,7 +680,7 @@ Hálrikos is motivated by a deep, almost religious belief that proper procedure,
 
 - **The Archives of Tarvénia**: He has effectively become the guardian of the city's historical records and legal documents.
 
-- **The Order of Táranon**: Hálrikos is a pious if unemotional follower of Táranon, god of storms and order, attending temple services regularly.
+- **The Order of [[lore-taranondty|Táranon]]**: Hálrikos is a pious if unemotional follower of Táranon, god of storms and order, attending temple services regularly.
 
 ## Plot Hooks
 

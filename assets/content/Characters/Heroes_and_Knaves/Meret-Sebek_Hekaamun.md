@@ -616,7 +616,7 @@ Meret-Sebek stands 5'9\" tall with a medium build. He has dark skin, dark hair, 
 
 ### Origin and Early Life
 
-Meret-Sebek was born into a respected family of scholars and astrologers in the grand city of **Zerula**, a cultural and scholarly hub of the **Empire of [[affiliation-empirtkhpr|Ta’Kheperu]]**. The Empire, steeped in ancient traditions dating back thousands of years, continues to blend mysticism and scholarly pursuits, with astrology playing a critical role in their governance and daily life. The empire’s priests and astrologers serve as key advisors to the ruling elite, using celestial signs to predict outcomes of war, trade, and political alliances.
+Meret-Sebek was born into a respected family of scholars and astrologers in the grand city of **[[place-khemenu|Khemenu]]**, a cultural and scholarly hub of the **Empire of [[affiliation-empirtkhpr|Ta’Kheperu]]**. The Empire, steeped in ancient traditions dating back thousands of years, continues to blend mysticism and scholarly pursuits, with astrology playing a critical role in their governance and daily life. The empire’s priests and astrologers serve as key advisors to the ruling elite, using celestial signs to predict outcomes of war, trade, and political alliances.
 
 Meret-Sebek, from a young age, showed a remarkable affinity for reading the stars. His family, who had long served the high courts of Ta’Kheperu, ensured he was trained by the greatest scholars and priests of the empire. By the age of 16, he had already earned a reputation for accurate star readings and predictions, and his name spread through the noble circles of Ta’Kheperu.
 

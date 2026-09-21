@@ -567,7 +567,7 @@ Lucerian Serentia is a handsome young man whose appearance screams wealth and ed
 
 ### Origin
 
-Lucerian was born in the Vylarian city of Belekos, the son of a wealthy and successful guild merchant. His family occupied the comfortable upper tiers of Vylarian society — not nobility, but close enough to move in those circles. Lucerian was brilliant from childhood, excelling in every academic pursuit, and his parents had every expectation that he would enter the imperial civil service or perhaps the university. Instead, at sixteen, he chose medicine.
+Lucerian was born in the Vylarian city of [[place-belekos|Belekos]], the son of a wealthy and successful guild merchant. His family occupied the comfortable upper tiers of Vylarian society — not nobility, but close enough to move in those circles. Lucerian was brilliant from childhood, excelling in every academic pursuit, and his parents had every expectation that he would enter the imperial civil service or perhaps the university. Instead, at sixteen, he chose medicine.
 
 ### Training
 
@@ -575,7 +575,7 @@ Lucerian apprenticed to a renowned surgeon-physician in Azerya, the intellectual
 
 ### The Rescue
 
-Everything changed when Lucerian's younger sister, Cibella, was taken by the Ordo Arcanis.
+Everything changed when Lucerian's younger sister, Cibella, was taken by the [[affiliation-ordoarcanis|Ordo Arcanis]].
 
 Cibella had always been different — brilliant, mercurial, and possessed of an extraordinary arcane aura that drew attention from the moment it manifested. The Ordo identified her at thirteen and invited her to study at one of their academies. The family was honored. For two years, Cibella wrote glowing letters home. Then the letters stopped. When Lucerian finally gained access to the academy, what he found destroyed his world. The Ordo had been experimenting on his sister, pushing her abilities beyond safe limits, and the process had left her damaged — erratic, traumatized, and partially broken.
 
@@ -615,7 +615,7 @@ The **Ordo Arcanis** wants Cibella back, and they want Lucerian punished for tak
 
 ### Affiliations
 
-Passenger aboard the **Tamzîr**. Brother and guardian of **Cibella Serentia**. He has formed a grudging mutual respect with **Captain Eshârum Tarûzî**, who reminds him — uncomfortably — that principle and pragmatism are not always compatible.
+Passenger aboard the **Tamzîr**. Brother and guardian of **[[being-cibelasrnt|Cibella Serentia]]**. He has formed a grudging mutual respect with **Captain Eshârum Tarûzî**, who reminds him — uncomfortably — that principle and pragmatism are not always compatible.
 
 ## Plot Hooks
 

@@ -590,9 +590,9 @@ Lord Aemilon Visbari presents the image of a distinguished Vylarian elder states
 
 # Dossier {#dossier}
 
-The Visbari family has served the Vylarian imperial throne for generations, and Aemilon was groomed from boyhood for a life of quiet service. Officially, he trained at the Imperial College of Heralds in the capital, where he excelled in heraldry, genealogy, diplomacy, and the thousand small courtesies that oil the machinery of Vylarian noble society. Unofficially, his real education began afterward — years of travel across the empire's former provinces and the wider shores of the Vylarian Sea, during which he built and inherited a network of informants, agents, and assets woven through every level of society from Provènzia to Harad.
+The Visbari family has served the Vylarian imperial throne for generations, and Aemilon was groomed from boyhood for a life of quiet service. Officially, he trained at the Imperial College of Heralds in the capital, where he excelled in heraldry, genealogy, diplomacy, and the thousand small courtesies that oil the machinery of Vylarian noble society. Unofficially, his real education began afterward — years of travel across the empire's former provinces and the wider shores of the Vylarian Sea, during which he built and inherited a network of informants, agents, and assets woven through every level of society from [[place-provenzrgn|Provènzia]] to [[place-haradregin|Harad]].
 
-When his father died over twenty years ago, Aemilon inherited the full weight of the family's secret vocation: spymaster to the Emperor. He has spent the decades since expanding the network, improving the speed and reliability of its communications, and quietly ensuring that certain secrets reach the imperial ear while others are buried forever. He is fluent in multiple languages of the Midhalion region and several scripts, including ciphers of his own devising, and his memory for names, faces, and relationships is legendary among those few who know what he truly does.
+When his father died over twenty years ago, Aemilon inherited the full weight of the family's secret vocation: spymaster to the Emperor. He has spent the decades since expanding the network, improving the speed and reliability of its communications, and quietly ensuring that certain secrets reach the imperial ear while others are buried forever. He is fluent in multiple languages of the [[place-midhalnrgn|Mídhalión Region]] and several scripts, including ciphers of his own devising, and his memory for names, faces, and relationships is legendary among those few who know what he truly does.
 
 Now in his fifties, Lord Aemilon faces a problem he cannot solve with information alone. He has no children, and the network must survive him — especially now, as the empire's power wanes and its enemies grow bolder. He has identified a candidate — a woman of uncommon ability — but training a successor requires time he may not have, and trust he finds difficult to extend. The limp that slows his step grows worse each year, a reminder that even spymasters grow old.
 
@@ -604,7 +604,7 @@ Lord Aemilon is courteous, measured, and deeply private. He has spent a lifetime
 
 ### Motivation
 
-Aemilon serves the imperial throne out of deep family loyalty and a principled belief that the stability of what remains of the Vylarian Empire depends on good intelligence — perhaps now more than ever, as the empire contracts and its rivals circle. He fears what would happen if the network collapsed — the plots it would fail to uncover, the wars it would fail to prevent. Finding and training a worthy successor has become his consuming purpose. He also carries guilt for the agents he has had to sacrifice over the years, and for the few he ordered killed when they knew too much.
+Aemilon serves the imperial throne out of deep family loyalty and a principled belief that the stability of what remains of the [[affiliation-vylarinmpr|Vylarian Empire]] depends on good intelligence — perhaps now more than ever, as the empire contracts and its rivals circle. He fears what would happen if the network collapsed — the plots it would fail to uncover, the wars it would fail to prevent. Finding and training a worthy successor has become his consuming purpose. He also carries guilt for the agents he has had to sacrifice over the years, and for the few he ordered killed when they knew too much.
 
 ### Strengths
 
@@ -626,7 +626,7 @@ Lord Aemilon has many enemies who don't know they are his enemies — Haradian m
 
 ### Affiliations
 
-The Imperial College of Heralds (his public affiliation), the imperial intelligence network (his true affiliation), and the Visbari family's extensive web of informants among common clans throughout the Midhalion region who have prospered through the family's secret patronage.
+The Imperial College of Heralds (his public affiliation), the imperial intelligence network (his true affiliation), and the Visbari family's extensive web of informants among common clans throughout the Mídhalión Region who have prospered through the family's secret patronage.
 
 ## Plot Hooks
 

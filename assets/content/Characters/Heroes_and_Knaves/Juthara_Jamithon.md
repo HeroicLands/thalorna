@@ -644,7 +644,7 @@ Júthâra is driven by an almost obsessive need to understand the forces that co
 
 ### Patrons
 
-- **The Matriarch's Council**: Officially, she serves the ruling body of Bethua, conducting investigations and providing medical consultation on matters of state health.
+- **The Matriarch's Council**: Officially, she serves the ruling body of [[affiliation-mtrrchybth|Bethua]], conducting investigations and providing medical consultation on matters of state health.
 - **Thessala the Wise**: Her elderly mentor and former primary teacher, though now retired, continues to provide guidance and occasionally supplies rare components for her experiments.
 - **Master Archivist Solene**: The keeper of the Great Library, who has protected Júthâra's reputation and provided her with access to restricted texts in exchange for her discoveries.
 
