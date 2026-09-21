@@ -279,7 +279,7 @@ The Abyssal Silt relies on ambush and surprise. It attempts to grapple and immob
 
 ### Corrosive Envelopment
 
-The creature contracts its mass around a target, attempting to dissolve them with secreted enzymes. Any flesh or organic armor touching the silt takes corrosive damage each round of contact; the creature may maintain this hold for multiple rounds.
+The creature contracts its mass around a target, attempting to dissolve them with secreted enzymes. Any flesh or organic armor touching the silt is eaten away for as long as the contact lasts, and the creature can hold on for a long while.
 
 ### Lashing Tendrils
 
@@ -287,7 +287,7 @@ Long, elastic appendages whip out to grapple and drag targets closer. Each tendr
 
 ### Fission
 
-When severely damaged, the silt can deliberately split into smaller autonomous entities. Each fragment retains a portion of the original creature's abilities and hungers independently; this increases the number of threats but divides the original creature's total health pool.
+When severely damaged, the silt can deliberately split into smaller autonomous entities. Each fragment retains a portion of the original creature's abilities and hungers independently; this increases the number of threats, but the creature's vitality is divided among them.
 
 ## Special Abilities
 
