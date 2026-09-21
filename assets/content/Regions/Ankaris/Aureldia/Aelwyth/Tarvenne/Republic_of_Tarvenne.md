@@ -101,7 +101,7 @@ data:
     - elvndrlng
   seat: thornbury
   domains:
-    - aelwyth
+    - tarvenne
   population: 150000
   economy:
     - affiliation-clgmrgntrrm
@@ -120,7 +120,7 @@ packFolder: aelwyth
 
 ## Overview
 
-A southwestern republic governed by a senate of landed citizens and military officers. Tarvenne's political culture is pragmatic and martial, with a strong citizen-soldier tradition that contrasts sharply with the courtly refinement of [[affiliation-kingdmdnvr|Dúnavarre]] and the feudal romanticism of [[affiliation-kngdmldrth|Aldorath]].
+A southwestern republic governed by a senate of landed citizens and military officers. Tarvenne's political culture is pragmatic and martial, with a strong citizen-soldier tradition that contrasts sharply with the courtly refinement of [[affiliation-kingdmdnvr|Dúnavarre]] and the feudal romanticism of [[affiliation-kngdmldrth|Aldorath]]. The republic holds the land of [[place-tarvenne|Tarvenne]].
 
 ## Character
 
@@ -142,8 +142,7 @@ Tarvenne runs along Aelwyth's **western coast** and holds about **150,000** peop
 polity on the island, twice the size of [[affiliation-kingdmdnvr|Dúnavarre]], and the only part of
 Aelwyth governed by anything resembling a civic constitution.
 
-The coast is good for fishing and moderate for farming, and the republic's wealth comes chiefly from
-carrying trade along the western shore and from what it can charge others for access to it. Its
+Its
 merchants are able, its accounts are creative, and its neighbours deal with it warily and constantly.
 
 ## The Senate and the Model
@@ -253,6 +252,7 @@ are careful to be seen at both temples.
 ## See Also
 
 - [[place-aelwyth|Aelwyth]] — The island
+- [[place-tarvenne|Tarvenne]] — The land the republic holds
 - [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] — Southeastern neighbor
 - [[affiliation-kngdmldrth|Kingdom of Aldorath]] — East-central rival
 - [[affiliation-vylarinmpr|Vylarian Empire]] — Diplomatic partner

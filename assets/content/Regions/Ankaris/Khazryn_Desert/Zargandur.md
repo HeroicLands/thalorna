@@ -12,7 +12,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - khzryndsrtrgn
+    - swoasisbelt
   population: null
 packFolder: khazryndesert
 ---

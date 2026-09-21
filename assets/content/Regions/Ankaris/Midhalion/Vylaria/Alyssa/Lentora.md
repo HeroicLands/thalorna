@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - vylariargn
+    - alyssa
   population: 32000
 name:
   full: Lentora

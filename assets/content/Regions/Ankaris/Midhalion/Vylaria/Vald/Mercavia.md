@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - vylariargn
+    - vald
   population: 50000
 name:
   full: Mercavia

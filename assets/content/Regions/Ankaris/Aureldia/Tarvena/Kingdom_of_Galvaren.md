@@ -154,7 +154,7 @@ data:
     - tarvenlng
   seat: marendal
   domains:
-    - tarvenirgn
+    - galvaren
   population: 1000000
   economy:
     - lore-vylrncrncy
@@ -181,15 +181,15 @@ packFolder: tarvenia
 
 ## Overview
 
-Galváren occupies the green, mist-shrouded western coast of [[place-tarvenirgn|Tarvénia Region]], where the land meets the open ocean. It is a kingdom of rain, fog, deep forests, and rocky coastlines — beautiful and melancholy in equal measure. The Galváreni are seafarers, fishermen, and storytellers, with a reputation for mysticism and superstition that sets them apart from the more pragmatic Tarvénans of the interior.
+The Kingdom of Galváren holds the land of [[place-galvaren|Galváren]]. The Galváreni are seafarers, fishermen, and storytellers, with a reputation for mysticism and superstition that sets them apart from the more pragmatic Tarvénans of the interior.
 
 ## Character
 
-Where [[affiliation-kngdmstrth|Astúrath]] looks inward to its mountains and [[affiliation-kingdmlnrk|Léonrik]] to its fields, Galváren looks outward to the sea. Its fishing fleets are the largest in western [[place-ankrscntnnt|Ankaris Continent]], ranging far into the open ocean for the great seasonal runs of cod, herring, and tuna. Galváreni sailors are legendarily fearless — or foolhardy, depending on who you ask — and the kingdom produces a disproportionate number of the navigators, sea captains, and explorers who push the boundaries of the known world.
+Where [[affiliation-kngdmstrth|Astúrath]] looks inward to its mountains and [[affiliation-kingdmlnrk|Léonrik]] to its fields, Galváren looks outward to the sea. Galváreni sailors are legendarily fearless — or foolhardy, depending on who you ask — and the kingdom produces a disproportionate number of the navigators, sea captains, and explorers who push the boundaries of the known world.
 
 The kingdom has a distinctive folk culture that blends mainstream Tarvénan warrior traditions with something older and stranger. The western coast is littered with ancient stone circles, standing stones, and passage graves that predate the Tarvéni migration, and the local people maintain a complex body of folk belief about the spirits of the dead, the sea, and the liminal places where the mortal world thins. Ghost stories, fairy tales, and tales of drowned cities are taken more seriously here than in the rest of Tarvénia. The [[affiliation-arldnpnthn|Aurèldían]] priests tolerate these folk traditions with varying degrees of patience.
 
-The capital, **Maréndal**, is a harbor town built along a natural bay where fishing boats, merchant vessels, and the occasional war galley crowd together. Galváren's political structure gives unusual influence to the shipmasters — captains of the fishing and trading fleets — who sit on the royal council alongside the landed lords.
+Galváren's political structure gives unusual influence to the shipmasters — captains of the fishing and trading fleets — who sit on the royal council alongside the landed lords.
 
 ## Commerce and Currency
 
@@ -199,5 +199,6 @@ Kingdom of Galváren uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Ar
 
 - [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] — The loose overlord
 - [[place-tarvenirgn|Tarvénia Region]] — Regional overview
+- [[place-galvaren|Galváren]] — The land the kingdom holds
 - [[affiliation-kngdmstrth|Kingdom of Astúrath]], [[affiliation-kingdmlnrk|Kingdom of Léonrik]] — Sister kingdoms
 - [[affiliation-frctyvlthr|Free City of Valthári]], [[affiliation-frtrtryskrth|Free Territory of Eskárath]] — Fellow Tarvénan regions

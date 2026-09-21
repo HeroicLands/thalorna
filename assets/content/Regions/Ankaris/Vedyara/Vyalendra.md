@@ -91,7 +91,7 @@ data:
     - vedyarlng
   seat: vyalendra3
   domains:
-    - vedyarargn
+    - vyalendra3
   population: 6000000
   economy:
     - affiliation-mrchntclctvvdyr
@@ -105,11 +105,11 @@ data:
 packFolder: vedyara
 ---
 
-Vyālendra, "the City of Ten Thousand Looms," has long been the textile capital of southern Vedyara. Silk and cotton cloth woven here bear patterns and dyes unknown elsewhere, the result of centuries of refinement and closely guarded techniques passed from master weavers to their apprentices. The city rises from the valleys of the Nilachaṛī region, where cotton fields blanket the surrounding countryside and indigo dyers work in compounds that stain the very air a deep, rich blue.
+Vyālendra, "the City of Ten Thousand Looms," has long been the textile capital of southern Vedyara. Silk and cotton cloth woven here bear patterns and dyes unknown elsewhere, the result of centuries of refinement and closely guarded techniques passed from master weavers to their apprentices.
 
-The weavers of Vyālendra operate within an intricate caste structure maintained by the merchant guilds. Master weavers occupy the highest ranks, controlling both production and trade networks that extend westward to Harad and northward to Heliónis. The textiles of Vyālendra adorned the courts of emperors and the robes of high priests for generations, and the city's weavers guard their status jealously, ensuring no rival city can match their output or artistry.
+The weavers of Vyālendra operate within an intricate caste structure maintained by the merchant guilds. Master weavers occupy the highest ranks, controlling both production and trade networks that extend westward to Harad and northward to Heliónis. The textiles of Vyālendra adorned the courts of emperors and the robes of high priests for generations, and the city's weavers guard their status jealously, ensuring no rival city can match their output or artistry. The city-state holds [[place-vyalendra3|Vyālendra]] itself.
 
-Vyālendra's streets are narrow and shaded by ancient banyan trees, and the constant sound of looms clacking fills the air from dawn to dusk. The city's temples—particularly the sanctuary of Kali, the divine mother—stand adjacent to the great weaving halls, acknowledging the spiritual dimension that weavers believe infuses their work. The city is quieter and less cosmopolitan than Chandrapur, its character shaped entirely by the slow, meditative rhythms of textile craft.
+The city's temples—particularly the sanctuary of Kali, the divine mother—stand adjacent to the great weaving halls, acknowledging the spiritual dimension that weavers believe infuses their work. The city is quieter and less cosmopolitan than Chandrapur, its character shaped entirely by the slow, meditative rhythms of textile craft.
 
 ## Commerce and Currency
 
@@ -118,5 +118,6 @@ Vyālendra uses the [[lore-vdyrnbnkng|Vedyaran banking system]] administered thr
 ## See Also
 
 - [[place-vedyarargn|Vedyara Region]] — Regional overview
+- [[place-vyalendra3|Vyālendra]] — The city itself
 - [[skill-vedyarlng|Vedyari]] — Naming tradition
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — Religious tradition

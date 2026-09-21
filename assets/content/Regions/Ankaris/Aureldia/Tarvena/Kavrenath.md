@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - tarvenirgn
+    - asturath
   population: null
 name:
   full: Kávrenath

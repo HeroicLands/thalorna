@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - tarvenirgn
+    - galvaren
   population: null
 name:
   full: Maréndal

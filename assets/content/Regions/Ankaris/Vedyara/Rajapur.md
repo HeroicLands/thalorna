@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - vedyarargn
+    - rajapurjnpd
   population: null
 name:
   full: Rājapur

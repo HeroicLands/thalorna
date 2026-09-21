@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - vylariargn
+    - alyssa
   population: 25000
 name:
   full: Belekos

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - khzryndsrtrgn
+    - swoasisbelt
   population: null
 name:
   full: Beit-Shōfár

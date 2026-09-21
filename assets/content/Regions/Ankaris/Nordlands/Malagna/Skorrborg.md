@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - nrdlndsrgn
+    - malagna
   population: null
 name:
   full: Skorrborg

@@ -93,7 +93,7 @@ data:
     - byzarnlng
   seat: denizara2
   domains:
-    - byzariargn
+    - denizara2
   population: 1800000
   economy:
     - affiliation-clgmrgntrrm
@@ -108,13 +108,11 @@ data:
 packFolder: byzaria
 ---
 
-Denizara — the Sea-Between — is the [[affiliation-byzarianlg|Byzarian League]]'s principal seaport on the [[place-vylarianse|Vylarian Sea]] coast. It sits at the point where maritime and overland trade routes converge, making it the gateway through which goods flow between the sea-trading powers of the west and the caravan routes of the east. Its harbor is one of the busiest in the eastern Vylarian Sea.
+Denizara — the Sea-Between — is the [[affiliation-byzarianlg|Byzarian League]]'s principal seaport on the [[place-vylarianse|Vylarian Sea]] coast. The city-state holds [[place-denizara2|Denizara]] itself.
 
 ## Character
 
 Denizara is the most cosmopolitan of the five city-states, its docks crowded with [[affiliation-cnfdrtnhrdnstts|Haradian]] merchantmen, Vylarian galleys, and the occasional vessel from as far as [[affiliation-kalihara|Kalihara]]. The city has a powerful admiralty that maintains a fleet of fast war-galleys to protect League shipping from pirates and competitors. Denizara's shipwrights are among the finest in the eastern sea, and the city's naval strength gives it considerable influence within the League — Altinkale has the gold, but Denizara has the ships.
-
-The waterfront district is a maze of warehouses, taverns, and chandleries where a dozen languages can be heard on any given day. Inland, the city climbs a series of terraced hills, with the wealthier districts rising above the harbor's noise and smell.
 
 ## Commerce and Currency
 
@@ -124,4 +122,5 @@ Denizara uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Oct
 
 - [[affiliation-byzarianlg|Byzarian League]] — The confederation
 - [[place-byzariargn|Byzaría Region]] — Regional overview
+- [[place-denizara2|Denizara]] — The city itself
 - [[affiliation-altinkale|Altinkale]], [[affiliation-yesilhan|Yeşilhan]], [[affiliation-gumushisar|Gümüşhisar]], [[affiliation-karatas|Karataş]] — Sister city-states

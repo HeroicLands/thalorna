@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - nrdlndsrgn
+    - targud
   population: null
 name:
   full: Valgard

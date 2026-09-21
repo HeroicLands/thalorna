@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - vylariargn
+    - hylen
   population: 7000
 name:
   full: Granaria

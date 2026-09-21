@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - vylariargn
+    - vald
   population: 7000
 name:
   full: Korsvik

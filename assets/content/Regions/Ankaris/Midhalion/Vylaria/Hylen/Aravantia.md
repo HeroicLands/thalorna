@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - vylariargn
+    - hylen
   population: 28000
 name:
   full: Aravantia

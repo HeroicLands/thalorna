@@ -93,7 +93,7 @@ data:
     - haradilng
   seat: ashkabel2
   domains:
-    - haradregin
+    - ashkabel2
   population: 2000000
   economy:
     - affiliation-aerarimmpr
@@ -107,7 +107,7 @@ data:
 packFolder: harad
 ---
 
-Ashkabel is the Confederation's cultural heart — a city of scholars, artists, shipwrights, and dreamers on the southern coast. Smaller and less wealthy than [[affiliation-tamavar|Tamavar]], less martial than [[affiliation-kethara|Kethara]], and less cosmopolitan than [[affiliation-varoshan|Varoshan]], Ashkabel compensates with a creative energy that the other cities lack. It is the city where Haradian art, music, theater, and literature flourish, and where the Confederation's finest ships are designed (if not always built).
+Ashkabel is the Confederation's cultural heart — a city of scholars, artists, shipwrights, and dreamers on the southern coast. Smaller and less wealthy than [[affiliation-tamavar|Tamavar]], less martial than [[affiliation-kethara|Kethara]], and less cosmopolitan than [[affiliation-varoshan|Varoshan]], Ashkabel compensates with a creative energy that the other cities lack. It is the city where Haradian art, music, theater, and literature flourish, and where the Confederation's finest ships are designed (if not always built). The city-state holds [[place-ashkabel2|Ashkabel]] itself.
 
 ## Character
 
@@ -119,9 +119,6 @@ Politically, Ashkabel is the least guild-dominated of the major cities. The [[af
 
 ## Notable Features
 
-- The Design Yards — where the Confederation's finest ships are conceived
-- The Academy of the Tides — a school of navigation, astronomy, and natural philosophy
-- The Painted Harbor — Ashkabel's waterfront, famous for its colorful buildings and open-air theaters
 - A reputation as a refuge for those who don't fit in the more guild-controlled cities
 
 ## Commerce and Currency
@@ -130,6 +127,7 @@ Ashkabel uses the [[lore-hardncrncy|Haradian currency system]] — the post-sece
 
 ## See Also
 
+- [[place-ashkabel2|Ashkabel]] — The city itself
 - [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — Parent polity
 - [[affiliation-tamavar|Tamavar]], [[affiliation-kethara|Kethara]], [[affiliation-varoshan|Varoshan]] — Sister city-states
 - [[place-helionis|Heliónis]] — Cultural counterpart across the sea

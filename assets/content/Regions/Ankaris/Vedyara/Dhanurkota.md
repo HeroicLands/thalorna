@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - vedyarargn
+    - dhanurkotajnpd
   population: null
 name:
   full: Dhanurkota

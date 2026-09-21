@@ -101,7 +101,7 @@ data:
     - nordmalng
   seat: thrymstead
   domains:
-    - nrdlndsrgn
+    - nordheim
   population: 650000
   economy:
     - lore-vylrncrncy
@@ -125,13 +125,7 @@ packFolder: nordheim
 
 ## Overview
 
-In the frozen north of [[place-ankrscntnnt|Ankaris Continent]], Nordheim is a land of rugged mountains, vast fjords, and warrior peoples. The Nordmen are fierce, independent, and known for their seafaring and raiding cultures. They are hardy and adaptable, living in a harsh environment where only the strongest survive. Their warriors are respected and feared across Ankaris, and their longships sail the seas in search of plunder, trade, and glory.
-
-## Geography
-
-Nordheim occupies the northwestern coast of Ankaris, where jagged mountain ranges plunge into icy fjords. The interior is a mix of boreal forests, glacial valleys, and high tundra. Winters are long and brutal, with months of near-total darkness, while brief summers bring an explosion of life to the coastal lowlands. The coastline is deeply indented, creating thousands of natural harbors that have made the Nordmen the foremost sailors of the northern seas.
-
-Key geographic features include the great fjords that cut deep into the mountains, providing sheltered harbors for longship fleets; the high interior plateau where caribou herds migrate and where the most isolated clans dwell; and the volcanic islands off the northwestern coast, where hot springs warm the earth even in the depths of winter.
+The Kingdom of Nordheim holds the land of [[place-nordheim|Nordheim]]. The Nordmen are fierce, independent, and known for their seafaring and raiding cultures. They are hardy and adaptable, living in a harsh environment where only the strongest survive. Their warriors are respected and feared across Ankaris, and their longships sail the seas in search of plunder, trade, and glory.
 
 ## Culture and Society
 
@@ -170,6 +164,7 @@ Kingdom of Nordheim uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo
 
 ## See Also
 
+- [[place-nordheim|Nordheim]] — The land the kingdom holds
 - [[place-grkrhlmrgn|Grukarhölm]] — Eastern neighbors, the Grukar tribes
 - [[place-vrystwald|Vrystwald]] — Southern frontier
 - [[affiliation-asguardian|Asguardian Pantheon]] — The Nordmen pantheon

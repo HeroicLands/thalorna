@@ -155,7 +155,6 @@ data:
   seat: dunmere
   domains:
     - aldorathrgn
-    - aelwyth
   population: 200000
   economy:
     - lore-vylrncrncy
@@ -174,13 +173,11 @@ packFolder: aelwyth
 
 ## Overview
 
-The heartland kingdom of [[place-aelwyth|Aelwyth]], occupying the fertile lowlands and gentle hills that surround the great central lake. Aldorath is the most storied of the island's realms — a feudal monarchy of knights and castles, ancient oaths and courtly intrigue, where the boundary between history and legend is hopelessly blurred. The king rules from a lakeside fortress, advised by a council of barons whose families have held their lands since the earliest human settlement.
+The heartland kingdom of [[place-aelwyth|Aelwyth]], occupying the fertile lowlands and gentle hills that surround the great central lake. Aldorath is the most storied of the island's realms — a feudal monarchy of knights and castles, ancient oaths and courtly intrigue, where the boundary between history and legend is hopelessly blurred. The king rules from a lakeside fortress, advised by a council of barons whose families have held their lands since the earliest human settlement. The kingdom holds the land of [[place-aldorathrgn|Aldorath Region]].
 
 ## Character
 
 Prophecy and questing are woven into the fabric of Aldorathian culture; knights ride out to fulfill visions, and the court seers wield as much influence as the military commanders. The kingdom's chronicles are as much mythology as history — tales of kings who drew enchanted swords from stone, of bargains struck with lake-spirits, and of holy grails hidden in mist-shrouded ruins are told not as fables but as the deeds of ancestors whose bloodlines still rule.
-
-Aldorath's proximity to the great central lake gives it a mystical character that sets it apart from the more outward-looking [[affiliation-kingdmdnvr|Dúnavarre]]. The lake's mists sometimes part to reveal paths to places that cannot be found by ordinary means, and the kingdom's chronicles are full of accounts of knights who rode into the fog and returned changed — or did not return at all.
 
 ## The Sinalë Connection
 
@@ -197,6 +194,7 @@ Kingdom of Aldorath uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Arg
 ## See Also
 
 - [[place-aelwyth|Aelwyth]] — The island
+- [[place-aldorathrgn|Aldorath Region]] — The land the kingdom holds
 - [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] — Southeastern rival
 - [[affiliation-repblctrvn|Republic of Tarvenne]] — Southwestern republic
 - [[lore-flksinale|Sinalë]] — Elder race with southern forest enclaves

@@ -93,7 +93,7 @@ data:
     - tarvenlng
   seat: null
   domains:
-    - tarvenirgn
+    - eskarath
   population: 200000
   economy:
     - affiliation-clgmrgntrrm
@@ -118,7 +118,7 @@ packFolder: tarvenia
 
 ## Overview
 
-Eskárath is the highland territory along Tarvénia's northern border with [[place-elavendre|Élavendre]], home to a people who predate the Tarvéni migration by centuries. The Eskárathi speak their own language — **Eskári**, a linguistic isolate with no known relatives — maintain their own legal customs, and acknowledge the High King of [[affiliation-kingdmtrvn|Tarvénia]] only in the loosest possible sense. They are fiercely independent even by Tarvénan standards, which is saying a great deal.
+The Free Territory of Eskárath holds the land of [[place-eskarath|Eskárath]]. The Eskárathi speak their own language — **Eskári**, a linguistic isolate with no known relatives — maintain their own legal customs, and acknowledge the High King of [[affiliation-kingdmtrvn|Tarvénia]] only in the loosest possible sense. They are fiercely independent even by Tarvénan standards, which is saying a great deal.
 
 ## Character
 
@@ -138,6 +138,7 @@ Free Territory of Eskárath uses the [[lore-vylrncrncy|Vylarian currency]] (Auri
 
 - [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] — The loose overlord (barely)
 - [[place-tarvenirgn|Tarvénia Region]] — Regional overview
+- [[place-eskarath|Eskárath]] — The land the Free Territory holds
 - [[place-elavendre|Élavendre]] — Northern neighbor (cultural affinity)
 - [[affiliation-kngdmstrth|Kingdom of Astúrath]], [[affiliation-kngdmglvrn|Kingdom of Galváren]], [[affiliation-kingdmlnrk|Kingdom of Léonrik]] — The three kingdoms
 - [[affiliation-frctyvlthr|Free City of Valthári]] — Fellow Tarvénan free polity

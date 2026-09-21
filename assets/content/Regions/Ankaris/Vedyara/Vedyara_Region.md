@@ -79,6 +79,10 @@ To the **east** lies [[place-tanvuregin|Tānvür]]. The two civilizations are mu
 
 To the **southeast**, across the seas, lie lands that the Vedyari know through their own maritime tradition — scattered islands, coastal kingdoms, and ultimately the more distant southern continents.
 
+## Population and Geography
+
+Geographically, janapadas are concentrated wherever sustainable village-cluster agriculture is possible, which is most of inland Vedyara. They are densest in the great river valleys (the Chandramahī, the Sarvada, the Mahānadi, the Bhārava), thinnest in the deep forests and the arid central plateau. The northern hill-country has its own variant of the janapada form, somewhat smaller and somewhat more isolated; the southern tropical interior has another variant, with greater dependence on temple-controlled forest products.
+
 ## See Also
 
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — the cycle-gods

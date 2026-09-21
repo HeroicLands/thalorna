@@ -103,7 +103,7 @@ data:
     - atarzadilng
   seat: beitshofar
   domains:
-    - khzryndsrtrgn
+    - swoasisbelt
   population: 1000000
   economy:
     - lore-bartercnmy
@@ -120,7 +120,7 @@ terran_analog: "Israelites of the Exodus and Conquest — twelve-tribe nomadic-p
 packFolder: khazryndesert
 ---
 
-The **Tribes of Ātárzád** are a confederation of twelve allied tribes who today hold the great walled oases and the major caravan routes of the [[place-khzryndsrtrgn|Khazryn Desert]]. They are newcomers — by the reckoning of their own griots, only six generations have passed since their forebears came up out of bondage in [[affiliation-empirtkhpr|Ta'Kheperu]] under the prophet **Mūshárā** and received the **Promise of the Khazryn** at the Unconsuming Flame on Mt. Shōfar. By the reckoning of their adversaries, the [[affiliation-khzrncnfdrtn|Khazryn]], they are six generations of trespassers whose claim rests on theology rather than on right.
+The **Tribes of Ātárzád** are a confederation of twelve allied tribes who today hold the great walled oases and the major caravan routes of the [[place-khzryndsrtrgn|Khazryn Desert]]. They are newcomers — by the reckoning of their own griots, only six generations have passed since their forebears came up out of bondage in [[affiliation-empirtkhpr|Ta'Kheperu]] under the prophet **Mūshárā** and received the **Promise of the Khazryn** at the Unconsuming Flame on Mt. Shōfar. By the reckoning of their adversaries, the [[affiliation-khzrncnfdrtn|Khazryn]], they are six generations of trespassers whose claim rests on theology rather than on right. The Tribes hold the four great cities of the [[place-swoasisbelt|Southwestern Oasis-Belt]] and the pasturelands between them.
 
 Both reckonings are correct. The Ātárzád do not deny that the Khazryn were here first; they deny that _first_ matters. The land was promised to the Flame-born by the Sacred Flame himself. To the faithful Ātárzád, that promise is more solid than any wall the Khazryn built before them and any deed the Khazryn kept after them.
 
@@ -190,8 +190,6 @@ Several practical consequences follow:
 
 The Ātárzád inherited the great irrigated oasis-agriculture of the Khazryn. They did not initially understand it well; the Khazryn water-engineers and palm-grove cultivators were essential to keeping the oases productive after the Conquest, and a substantial Khazryn technical class persists in the cities today as a result. Over four generations the Ātárzád have absorbed enough of the technique to manage the systems themselves, but the most senior water-masters in every Ātárzád city are still, by overwhelming majority, Khazryn by descent.
 
-The principal exports of the Ātárzád lands are dates, palm-sugar, leather, fine wool, salt (from pans on the western fringe), and the great **Khazryn horses** — the long-legged desert breed, prized across Ankaris for endurance, that the Ātárzád raise on the open pasturelands between the oases. Imports are metals, fine cloth, glass, books, and the exotica of the wider world; the Ardashír merchant-houses run caravans to Amradad, to the Haradian ports, and (during the better-relations decades) into the Sultanate proper.
-
 The cities are taxed; the herding tribes pay a tithe of cattle and horses; the Council of the Twelve maintains a modest standing treasury at Beit-Shōfár. There is no central tax-collecting bureaucracy; each tribe is responsible for raising its own contribution and presenting it at the annual Council session.
 
 ## Defense
@@ -239,6 +237,7 @@ Tribes of Ātárzád's commerce operates primarily through [[lore-bartercnmy|bar
 
 ## See Also
 
+- [[place-swoasisbelt|Southwestern Oasis-Belt]] — the oasis country the Tribes hold
 - [[place-khzryndsrtrgn|Khazryn Desert]] — the contested homeland
 - [[affiliation-khzrncnfdrtn|Khazryn Confederation]] — the eternal adversary
 - [[affiliation-ataros|Faith of Ātáröš]] — the patron deity

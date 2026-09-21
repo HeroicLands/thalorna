@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - vylariargn
+    - alyssa
   population: 7000
 name:
   full: Ostenna

@@ -93,7 +93,7 @@ data:
     - haradilng
   seat: kethara2
   domains:
-    - haradregin
+    - kethara2
   population: 2200000
   economy:
     - affiliation-aerarimmpr
@@ -108,7 +108,7 @@ data:
 packFolder: harad
 ---
 
-Kethara is the Confederation's naval stronghold — a heavily fortified city on the strait between the mainland and the Haradian archipelago. The city that built the fleet that won the Battle of Tamzîr Shoals, Kethara's identity is military as much as mercantile. Its admirals command the Confederation's most powerful warships, and its marine infantry are the closest thing Harad has to a professional standing army.
+Kethara is the Confederation's naval stronghold — a heavily fortified city on the strait between the mainland and the Haradian archipelago. The city that built the fleet that won the Battle of Tamzîr Shoals, Kethara's identity is military as much as mercantile. Its admirals command the Confederation's most powerful warships, and its marine infantry are the closest thing Harad has to a professional standing army. The city-state holds [[place-kethara2|Kethara]] itself.
 
 ## Character
 
@@ -120,8 +120,6 @@ This is the city where the captain of the [[affiliation-thetamzir|The Tamzîr]] 
 
 ## Notable Features
 
-- The Strait Fortress — massive coastal fortification controlling the passage to the archipelago
-- The Naval Yards — where the Confederation's warships are built and maintained
 - The Veterans' Quarter — home to a large, restless community of independence war veterans
 - The Admiral's Council — Kethara's governing body, drawn heavily from naval families
 
@@ -131,6 +129,7 @@ Kethara uses the [[lore-hardncrncy|Haradian currency system]] — the post-seces
 
 ## See Also
 
+- [[place-kethara2|Kethara]] — The city itself
 - [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — Parent polity
 - [[affiliation-tamavar|Tamavar]], [[affiliation-varoshan|Varoshan]], [[affiliation-ashkabel|Ashkabel]] — Sister city-states
 - [[affiliation-corsairleg|Corsair League]] — The guild with strongest roots here

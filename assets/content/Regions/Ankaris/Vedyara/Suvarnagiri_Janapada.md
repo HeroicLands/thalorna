@@ -100,7 +100,7 @@ data:
     - vedyarlng
   seat: suvaragiri
   domains:
-    - vedyarargn
+    - suvarnagirijnpd
   population: 35000
   economy:
     - affiliation-mrchntclctvvdyr
@@ -115,13 +115,11 @@ terran_analog: "Medieval South Indian temple-republic with mineral-resource weal
 packFolder: vedyara
 ---
 
-The **Suvarṇagiri Janapada** is the federation of fifteen villages of the Bhārava highlands, governed jointly through three great temples of **Mahájaya** that ring the slopes of the gold-bearing mountain from which the janapada takes its name — _Suvarṇa_ (gold) _giri_ (mountain). Its population is roughly twenty-five thousand. Its territory occupies a triangular wedge of upland country at the headwaters of the Bhārava river, in the foothills where the central Vedyari plain rises into the great northern mountain chain. It is one of the wealthier and more institutionally elaborate janapadas of the [[affiliation-janpdsvdyr|Mahā-Saṅgha]], and it is the case-study in every Vedyari political-economy treatise of how a temple-republic can manage the corrupting potential of mineral wealth without either failing or transforming itself into a kingdom.
+The **Suvarṇagiri Janapada** is the federation of fifteen villages of the Bhārava highlands, governed jointly through three great temples of **Mahájaya** that ring the slopes of the gold-bearing mountain from which the janapada takes its name — _Suvarṇa_ (gold) _giri_ (mountain). Its population is roughly twenty-five thousand. It is one of the wealthier and more institutionally elaborate janapadas of the [[affiliation-janpdsvdyr|Mahā-Saṅgha]], and it is the case-study in every Vedyari political-economy treatise of how a temple-republic can manage the corrupting potential of mineral wealth without either failing or transforming itself into a kingdom. The janapada holds the land of [[place-suvarnagirijnpd|Suvarṇagiri Janapada]].
 
 That it has not failed in fifteen centuries, and has not transformed itself into a kingdom in fifteen centuries, is the central political fact of Suvarṇagiri.
 
 ## The Mountain
-
-Suvarṇagiri the mountain is a moderately sized peak — perhaps three thousand feet above the surrounding country — composed of weathered metamorphic rock through which thin veins of native gold run in patterns that geologists would, in another world, recognize as a classic alluvial-derivation pattern. The veins themselves have never been mined directly; the gold extracted at Suvarṇagiri is, and has always been, **alluvial** — washed out of the mountain by the seasonal rains, accumulated in the streams and small rivers that drain the slopes, and panned out by hereditary panning-families whose techniques have been refined across fifty generations. The streams produce, in a typical year, perhaps six to eight hundred ounces of gold; in a wet year, somewhat more; in a drought year, somewhat less. This is not a fortune by the standards of the great Vedyari kingdoms, but for a janapada of twenty-five thousand people it is a significant and sustained income.
 
 The gold sustains, more than it enriches. Suvarṇagiri's expenditures of its gold income across the centuries have gone overwhelmingly to: the construction and maintenance of its three great temples; the support of the temple schools and the training of priests; the irrigation works that allow the fifteen villages to cultivate the difficult upland terrain; the famine reserves; and the **Bhārava-Devasthāna**, an endowed pilgrimage-hostel network that maintains free hostels for traveling priests and ascetics at twenty-three sites along the major Vedyari pilgrimage routes. Very little gold has gone into private accumulation. This is a deliberate constitutional outcome, not an accident of Suvarnagiri virtue.
 
@@ -153,12 +151,6 @@ Subsidiary shrines to Vyālendra and Rásikara exist throughout the constituent 
 
 A distinctive Suvarnagiri religious practice is the **Weighing**, conducted at each new moon at the central temple weighing-station, when the previous moon's gold extraction is publicly weighed in the presence of the sabhā representatives. The weighing is open to public attendance, and any Suvarnagiri may attend and watch the weights recorded. This is the operational core of the constitutional anti-concentration mechanism: the gold extraction is _visible_. No one can quietly accumulate; the entire community knows, every month, exactly how much gold has come out of the mountain and where it has gone.
 
-## Economy
-
-Beyond the gold, Suvarṇagiri's economy includes the standard Vedyari upland agricultural mix (millet, mountain rice, pulses, certain temperate fruits that don't grow on the lowland plain), an unusually well-developed metallurgical tradition (the local iron-smelting work, fed by gold-byproduct knowledge, is some of the best in inland Vedyara), and a thriving jeweler's quarter at Lower Suvarṇagiri whose work — using both the local gold and gemstones imported from [[affiliation-chandrapur|Chandrapur]] — has a continental reputation, second only to Chandrapur's own.
-
-The janapada exports gold (about half of annual extraction is sold or traded to the wider Vedyari economy, generating the cash that funds many of the common-share expenditures), iron and ironwork, fine jewelry, mountain produce, and the considerable manuscripts of the Suvarnagiri Mahájaya tradition. It imports textiles, books, gemstones, salt, and the various luxuries the wealthier Suvarnagiri can afford within their constitutional caps.
-
 ## Defense
 
 Suvarṇagiri's mineral wealth makes it a more attractive target than most janapadas, and Suvarnagiri has accordingly maintained a more serious defensive posture than is typical. The janapada keeps a permanent body of perhaps three hundred trained guards (drawn from the warrior caste, paid from the common share), maintains observation posts on the mountain's higher slopes, and has fortified the three temples sufficiently that any plausible raiding force could be held at bay until reinforcements arrived.
@@ -181,6 +173,7 @@ Suvarṇagiri Janapada uses the [[lore-vdyrnbnkng|Vedyaran banking system]] admi
 
 ## See Also
 
+- [[place-suvarnagirijnpd|Suvarṇagiri Janapada]] — the land the janapada holds
 - [[affiliation-janpdsvdyr|Janapadas of Vedyara]] — parent confederation
 - [[place-vedyarargn|Vedyara]] — parent region
 - [[place-suvaragiri|Suvarṇagiri]] — the central town settlement note

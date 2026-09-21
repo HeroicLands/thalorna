@@ -93,7 +93,7 @@ data:
     - byzarnlng
   seat: gumushisar2
   domains:
-    - byzariargn
+    - gumushisar2
   population: 1400000
   economy:
     - affiliation-clgmrgntrrm
@@ -108,15 +108,15 @@ data:
 packFolder: byzaria
 ---
 
-Gümüşhisar — the Silver Citadel — is a fortified mountain city that guards the eastern passes into [[place-byzariargn|Byzaría Region]]. It is the [[affiliation-byzarianlg|Byzarian League]]'s military backbone, maintaining the garrison and patrols that keep the mountain routes open for trade and discourage the ambitions of eastern warlords, desert raiders, and bandits.
+Gümüşhisar — the Silver Citadel — is a fortified mountain city that guards the eastern passes into [[place-byzariargn|Byzaría Region]]. It is the [[affiliation-byzarianlg|Byzarian League]]'s military backbone, maintaining the garrison and patrols that keep the mountain routes open for trade and discourage the ambitions of eastern warlords, desert raiders, and bandits. The city-state holds [[place-gumushisar2|Gümüşhisar]] itself.
 
 ## Character
 
-Gümüşhisar is the most martial of the five city-states. While its sister cities trade and negotiate, Gümüşhisar fights — or more accurately, maintains a visible readiness to fight that makes actual fighting largely unnecessary. The city sits astride the principal mountain pass connecting Byzaría to the eastern lands, and its fortress walls are among the most formidable in the region.
+Gümüşhisar is the most martial of the five city-states. While its sister cities trade and negotiate, Gümüşhisar fights — or more accurately, maintains a visible readiness to fight that makes actual fighting largely unnecessary.
 
 The city's silver mines in the surrounding mountains fund the League's collective defense, and the income gives Gümüşhisar a political weight that belies its smaller population. The mining operations also support a community of skilled engineers and metalworkers. The city's military governor sits on the League council alongside the merchant-princes, a reminder that the League's prosperity ultimately rests on the security of its trade routes.
 
-Gümüşhisar has a more austere character than the other League cities — less ornate, more functional, with the disciplined air of a garrison town. Its monasteries of the eastern rite are particularly influential here, and the city's monks serve as chroniclers, healers, and occasional diplomatic intermediaries with the peoples beyond the passes.
+Its monasteries of the eastern rite are particularly influential here, and the city's monks serve as chroniclers, healers, and occasional diplomatic intermediaries with the peoples beyond the passes.
 
 ## Commerce and Currency
 
@@ -126,4 +126,5 @@ Gümüşhisar uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus 
 
 - [[affiliation-byzarianlg|Byzarian League]] — The confederation
 - [[place-byzariargn|Byzaría Region]] — Regional overview
+- [[place-gumushisar2|Gümüşhisar]] — The city itself
 - [[affiliation-altinkale|Altinkale]], [[affiliation-denizara|Denizara]], [[affiliation-yesilhan|Yeşilhan]], [[affiliation-karatas|Karataş]] — Sister city-states

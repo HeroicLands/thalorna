@@ -161,7 +161,7 @@ data:
     - vylarilng
   seat: nartum
   domains:
-    - vylariargn
+    - nartumkngdm
   population: 2500000
   economy:
     - lore-vylrncrncy
@@ -181,7 +181,7 @@ packFolder: vylaria
 
 ## Overview
 
-The Holy Kingdom of Nartûm is an independent Vylari-speaking realm that shares cultural and linguistic roots with the [[affiliation-vylarinmpr|Vylarian Empire]] but maintains its own sovereignty under a theocratic monarchy. Where the empire's power rests on legions and senators, Nartum's rests on faith — the kingdom defines itself through its devotion to the [[affiliation-arldnpnthn|Aurèldían]] pantheon, and its king rules as a sacred figure blessed by the gods.
+The Holy Kingdom of Nartûm is an independent Vylari-speaking realm that shares cultural and linguistic roots with the [[affiliation-vylarinmpr|Vylarian Empire]] but maintains its own sovereignty under a theocratic monarchy. Where the empire's power rests on legions and senators, Nartum's rests on faith — the kingdom defines itself through its devotion to the [[affiliation-arldnpnthn|Aurèldían]] pantheon, and its king rules as a sacred figure blessed by the gods. The kingdom holds the land of [[place-nartumkngdm|Nartûm Kingdom]].
 
 ## Character
 
@@ -201,6 +201,8 @@ Holy Kingdom of Nartûm uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion /
 
 ## See Also
 
+- [[place-nartumkngdm|Nartûm Kingdom]] — The land the kingdom holds
+- [[place-nartum|Nartûm]] — The holy city, its seat
 - [[affiliation-vylarinmpr|Vylarian Empire]] — Cultural parent, political rival
 - [[affiliation-arldnpnthn|Aurèldían]] — State pantheon
 - [[skill-vylarilng|Vylari]] — Naming conventions

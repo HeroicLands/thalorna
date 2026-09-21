@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - vylariargn
+    - moktur
   population: 2000
 name:
   full: Sanctara

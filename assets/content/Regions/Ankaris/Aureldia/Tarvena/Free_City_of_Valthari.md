@@ -96,7 +96,7 @@ data:
     - tarvenlng
   seat: valthari
   domains:
-    - tarvenirgn
+    - valthari
   population: 300000
   economy:
     - affiliation-clgmrgntrrm
@@ -121,11 +121,11 @@ packFolder: tarvenia
 
 ## Overview
 
-Valthári is Tarvénia's great port — a wealthy, cosmopolitan city-state on the southern coast where the [[place-vylarianse|Vylarian Sea]] trade meets the overland routes into the Tarvénan interior. Governed by a council of powerful merchant families called the **Consejárath**, Valthári pays handsome tribute to the High King of [[affiliation-kingdmtrvn|Tarvénia]] in exchange for a charter guaranteeing its self-governance, its own courts, and its freedom from feudal levies. The arrangement makes Valthári the richest single settlement in Tarvénia and the kingdom's commercial lifeline.
+Valthári is Tarvénia's great port — a wealthy, cosmopolitan city-state on the southern coast where the [[place-vylarianse|Vylarian Sea]] trade meets the overland routes into the Tarvénan interior. Governed by a council of powerful merchant families called the **Consejárath**, Valthári pays handsome tribute to the High King of [[affiliation-kingdmtrvn|Tarvénia]] in exchange for a charter guaranteeing its self-governance, its own courts, and its freedom from feudal levies. The arrangement makes Valthári the richest single settlement in Tarvénia and the kingdom's commercial lifeline. The Free City holds [[place-valthari|Valthári]] itself.
 
 ## Character
 
-Valthári is everything the mountain lords of [[affiliation-kngdmstrth|Astúrath]] distrust: wealthy, cosmopolitan, and thoroughly mercantile. Its harbor is crowded with ships from [[place-provenzrgn|Provènzia Region]], [[affiliation-cnfdrtnhrdnstts|Harad]], [[place-helionis|Heliónis]], and beyond, and its dockside markets trade in goods from across [[place-midhalnrgn|Mídhalión Region]]. The city's wealth is built on its position as the gateway for seaborne trade into Tarvénia — wine, olive oil, grain, wool, and iron flow out; spices, silk, luxury goods, and coin flow in.
+Valthári is everything the mountain lords of [[affiliation-kngdmstrth|Astúrath]] distrust: wealthy, cosmopolitan, and thoroughly mercantile.
 
 The Consejárath — the ruling council — is drawn from the dozen or so merchant dynasties that control the city's major trading houses, shipyards, and banking operations. Seats on the council are fiercely contested, and Valthári politics are an intricate dance of commercial alliances, marriage pacts, and occasionally, discreet assassination. The city maintains its own small but professional navy to protect its shipping lanes, and its marine soldiers are among the best-equipped troops in Tarvénia.
 
@@ -139,6 +139,7 @@ Free City of Valthári uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / 
 
 - [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] — The loose overlord
 - [[place-tarvenirgn|Tarvénia Region]] — Regional overview
+- [[place-valthari|Valthári]] — The city itself
 - [[affiliation-kngdmstrth|Kingdom of Astúrath]], [[affiliation-kngdmglvrn|Kingdom of Galváren]], [[affiliation-kingdmlnrk|Kingdom of Léonrik]] — The three kingdoms
 - [[affiliation-frtrtryskrth|Free Territory of Eskárath]] — Fellow Tarvénan free polity
 - [[place-provenzrgn|Provènzia Region]], [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — Major trading partners

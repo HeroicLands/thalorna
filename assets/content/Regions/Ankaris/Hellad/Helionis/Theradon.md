@@ -98,7 +98,7 @@ data:
     - helonclng
   seat: theradon2
   domains:
-    - heladrgn
+    - theradon2
   population: 800000
   economy:
     - affiliation-aerarimmpr
@@ -117,7 +117,7 @@ packFolder: helionis
 
 ## Overview
 
-Therádon is one of the smaller yet distinguished city-states of Heliónis, built upon terraced hillsides overlooking the Theradic Gulf. The city's significance derives not from military might or mercantile wealth, but from its role as a center of philosophical inquiry and the home of an important Panepistemium chapterhouse. Scholars from across the realms travel to Therádon to study with its renowned philosophers, physicians, and natural historians. The city's libraries contain some of the oldest written texts in western Ankaris, and its marble colonnades echo with the voices of students engaged in rigorous dialectic with their teachers.
+Therádon is one of the smaller yet distinguished city-states of Heliónis, built upon terraced hillsides overlooking the Theradic Gulf. The city's significance derives not from military might or mercantile wealth, but from its role as a center of philosophical inquiry and the home of an important Panepistemium chapterhouse. Scholars from across the realms travel to Therádon to study with its renowned philosophers, physicians, and natural historians. The city's libraries contain some of the oldest written texts in western Ankaris, and its marble colonnades echo with the voices of students engaged in rigorous dialectic with their teachers. The city-state holds [[place-theradon2|Therádon]] itself.
 
 Therádon's constitution is oligarchic, governed by an assembly of the wealthiest and most educated citizens who believe themselves uniquely qualified to guide the polis toward justice and virtue. This system produces remarkable intellectual achievement but also profound arrogance—the city's citizens often express barely concealed disdain for the "barbarous" territories beyond Heliónis. Yet despite their airs, Therádon's philosophers have grappled seriously with difficult questions about justice, knowledge, and the good life, and their work continues to influence thought throughout the civilized world.
 
@@ -130,6 +130,7 @@ Therádon uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Oc
 ## See Also
 
 - [[place-helionis|Heliónis]] — Regional overview
+- [[place-theradon2|Therádon]] — The city itself
 - [[skill-helonclng|Helonic]] — Naming tradition
 - [[skill-helonclng|Helonic]] — Naming tradition
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Religious tradition

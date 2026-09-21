@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - vylariargn
+    - hylen
   population: 6000
 name:
   full: Vindara

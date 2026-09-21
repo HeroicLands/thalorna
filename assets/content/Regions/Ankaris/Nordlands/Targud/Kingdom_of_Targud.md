@@ -102,7 +102,7 @@ data:
     - nordmalng
   seat: valgard
   domains:
-    - nrdlndsrgn
+    - targud
   population: 300000
   economy:
     - lore-vylrncrncy
@@ -122,13 +122,13 @@ packFolder: targud
 
 ## Overview
 
-Targud is the easternmost Nordmen kingdom, bordering the territories of the [[place-grkrhlmrgn|Grukar]] tribes. It is the most militaristic of the five kingdoms, its entire culture shaped by the need to defend against Grukar raids and incursions. Targud's warriors are hardened by constant frontier warfare, and its fortified settlements are built for survival first and comfort second.
+The Kingdom of Targud holds the land of [[place-targud|Targud]]. It is the most militaristic of the five kingdoms, its entire culture shaped by the need to defend against Grukar raids and incursions. Targud's warriors are hardened by constant frontier warfare, and its fortified settlements are built for survival first and comfort second.
 
 ## Character
 
 Life in Targud is defined by the eastern frontier. The Grukar are not a distant threat — they are a daily reality. Raids come with the seasons, and Targud's people live with one hand on a weapon at all times. This produces a culture that is grimmer and more fatalistic than the other Nordmen kingdoms. Targud's people worship the war-gods of the [[affiliation-asguardian|Asguardian Pantheon]] with particular fervor, and their skalds sing of heroic last stands and glorious defeats as often as victories.
 
-The kingdom's eastern border is a contested no-man's-land of burned farmsteads, abandoned watchtowers, and forests where neither Nordmen nor Grukar can safely travel alone. Targud maintains a network of frontier forts manned by warriors who serve rotating duty — a system that ensures every able-bodied person in the kingdom has combat experience.
+Targud maintains a network of frontier forts manned by warriors who serve rotating duty — a system that ensures every able-bodied person in the kingdom has combat experience.
 
 Despite the grim reputation, Targud is also the kingdom with the most knowledge of the Grukar — their language, customs, and internal politics. Some Targudan border lords maintain cautious trading relationships with the nearer Grukar clans, exchanging metalwork and salt for furs and amber.
 
@@ -138,6 +138,7 @@ Kingdom of Targud uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo /
 
 ## See Also
 
+- [[place-targud|Targud]] — The land the kingdom holds
 - [[place-grkrhlmrgn|Grukarholm Region]] — Eastern enemy
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] — Sister kingdoms
 - [[affiliation-asguardian|Asguardian Pantheon]] — Pantheon

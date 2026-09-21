@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - vedyarargn
+    - vindhyalayaland
   population: null
 name:
   full: Sūryāgarha

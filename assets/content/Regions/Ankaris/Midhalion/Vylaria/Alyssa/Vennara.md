@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - vylariargn
+    - alyssa
   population: 6000
 name:
   full: Vennara

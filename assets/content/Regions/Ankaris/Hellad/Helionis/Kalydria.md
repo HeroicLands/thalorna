@@ -98,7 +98,7 @@ data:
     - helonclng
   seat: kalydria2
   domains:
-    - helionis
+    - kalydria2
   population: 700000
   economy:
     - affiliation-aerarimmpr
@@ -120,7 +120,7 @@ packFolder: helionis
 
 ## Overview
 
-Kalydria is the cultural jewel of [[place-helionis|Heliónis]] — renowned across [[place-midhalnrgn|Mídhalión Region]] for its artists, playwrights, musicians, and the famous [[place-helionis|Academy of the Silver Veil]], which trains the hetairai who serve as companions, advisors, and intelligence-gatherers in courts across the known world. Where [[affiliation-thyrenae|Thyrenae]] pursues truth and [[affiliation-pelagora|Pelagora]] pursues power, Kalydria pursues beauty.
+Kalydria is the cultural jewel of [[place-helionis|Heliónis]] — renowned across [[place-midhalnrgn|Mídhalión Region]] for its artists, playwrights, musicians, and the famous [[place-helionis|Academy of the Silver Veil]], which trains the hetairai who serve as companions, advisors, and intelligence-gatherers in courts across the known world. Where [[affiliation-thyrenae|Thyrenae]] pursues truth and [[affiliation-pelagora|Pelagora]] pursues power, Kalydria pursues beauty. The city-state holds [[place-kalydria2|Kalydria]] itself.
 
 ## Character
 
@@ -140,4 +140,5 @@ Kalydria uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Oct
 
 - [[affiliation-ctysttshlns|City-States of Heliónis]] — The polity
 - [[place-helionis|Heliónis]] — Regional overview
+- [[place-kalydria2|Kalydria]] — The city itself
 - [[affiliation-thyrenae|Thyrenae]], [[affiliation-pelagora|Pelagora]] — Sister city-states

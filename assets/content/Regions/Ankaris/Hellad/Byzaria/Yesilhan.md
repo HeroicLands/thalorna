@@ -93,7 +93,7 @@ data:
     - byzarnlng
   seat: yesilhan2
   domains:
-    - byzariargn
+    - yesilhan2
   population: 1200000
   economy:
     - affiliation-clgmrgntrrm
@@ -109,13 +109,13 @@ data:
 packFolder: byzaria
 ---
 
-Yeşilhan — the Green Caravanserai — is an inland city positioned at the junction of the great caravan routes leading east toward the [[place-khzryndsrtrgn|Khazryn Desert Region]] and south toward [[place-dunharargn|Dunhara Region]]. It is here that eastern goods — spices, silk, incense, gemstones — first pass into [[affiliation-byzarianlg|League]] hands before being distributed to the other city-states and onward to [[place-midhalnrgn|Mídhalión Region]].
+The city-state of Yeşilhan holds [[place-yesilhan2|Yeşilhan]] itself.
 
 ## Character
 
-Yeşilhan is named for the lush river valley in which it sits — a green oasis amid the drier eastern hills — and for the vast caravanserais that are the heart of its economy. These fortified inn-complexes can house hundreds of merchants, their servants, and their pack animals, and the largest of them are small cities in their own right. The caravansary masters who run these establishments are legendarily shrewd negotiators, and their political influence within the city rivals that of the merchant-princes.
+The caravansary masters who run these establishments are legendarily shrewd negotiators, and their political influence within the city rivals that of the merchant-princes.
 
-The city has a stronger eastern character than the other League members. [[affiliation-ashanpnthn|Āsháian]] worship has a significant following here, particularly among the Dunhari and Khazryni merchant communities who maintain permanent trading quarters. The bazaars of Yeşilhan are famous across [[place-ankrscntnnt|Ankaris Continent]] for the variety and quality of their eastern goods.
+The city has a stronger eastern character than the other League members. [[affiliation-ashanpnthn|Āsháian]] worship has a significant following here, particularly among the Dunhari and Khazryni merchant communities who maintain permanent trading quarters.
 
 ## Commerce and Currency
 
@@ -125,4 +125,5 @@ Yeşilhan uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Oc
 
 - [[affiliation-byzarianlg|Byzarian League]] — The confederation
 - [[place-byzariargn|Byzaría Region]] — Regional overview
+- [[place-yesilhan2|Yeşilhan]] — The city itself
 - [[affiliation-altinkale|Altinkale]], [[affiliation-denizara|Denizara]], [[affiliation-gumushisar|Gümüşhisar]], [[affiliation-karatas|Karataş]] — Sister city-states

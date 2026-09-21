@@ -86,7 +86,7 @@ data:
     - nordmalng
   seat: stormveil
   domains:
-    - aelwyth
+    - stormveld
   population: 150000
   economy:
     - affiliation-clgmrgntrrm
@@ -107,11 +107,11 @@ packFolder: aelwyth
 
 ## Overview
 
-The northeastern coast of [[place-aelwyth|Aelwyth]], with its fjord-like inlets and rocky headlands, has been settled by Nordmen — seafarers from [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] who arrived in successive waves of raiding and colonization over the past few centuries. The Stormveld is not a single unified polity but a loose confederation of járldoms, each ruled by a járl who owes nominal allegiance to a High Járl elected from among their number.
+The Járldom of Stormveld holds the land of [[place-stormveld|Stormveld]]. The Stormveld is not a single unified polity but a loose confederation of járldoms, each ruled by a járl who owes nominal allegiance to a High Járl elected from among their number.
 
 ## Character
 
-The Nordmen of Stormveld worship the [[affiliation-asguardian|Asguardian Pantheon]] gods, speak Nordmal, and maintain strong cultural ties to [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] across the sea. Their settlements cluster around the fjords — fortified longhouses and harbors built to weather both the storms of the northeastern coast and the raids that come from every direction. Shipbuilding, fishing, and raiding (when the opportunity presents itself) are the foundations of Stormveld's economy.
+The Nordmen of Stormveld worship the [[affiliation-asguardian|Asguardian Pantheon]] gods, speak Nordmal, and maintain strong cultural ties to [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] across the sea.
 
 The High Járl's authority is real but limited — each járl governs his own territory with near-complete autonomy, and the High Járl's primary role is to coordinate defense and settle disputes between the járldoms. Elections for the position are contentious affairs that occasionally descend into armed contests.
 
@@ -128,6 +128,7 @@ Járldom of Stormveld uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / A
 ## See Also
 
 - [[place-aelwyth|Aelwyth]] — The island
+- [[place-stormveld|Stormveld]] — The land the Járldom holds
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] — Ancestral homeland
 - [[affiliation-kngdmldrth|Kingdom of Aldorath]] — Southern neighbor and frequent target
 - [[lore-flkkhazar|Khazári]] — Elder race in the northeastern mountains
@@ -135,13 +136,10 @@ Járldom of Stormveld uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / A
 
 ## The Conquest
 
-Stormveld occupies the **north-east** of Aelwyth and is enormous — something like **a fifth of the
-island's land area**, more than any other realm holds. It is also not, in the sense the other realms
+It is also not, in the sense the other realms
 are, an Aelwythan polity at all.
 
-All of it was **Vardanreach** before the conquest: the plain, the [[place-nordfells|Nordfells]], the
-[[place-sunderfells|Sunderfells]] and the high valleys within them, held by the
-[[lore-vardain|Vardain]] for thousands of years. **Nordmen took it about sixty years ago** and hold it still.
+**Nordmen took it about sixty years ago** and hold it still.
 
 The conquest was quick and thorough. The existing population was not driven out; it was **enslaved**,
 and the arrangement has since hardened into the ordinary structure of the country. Of roughly
@@ -177,7 +175,6 @@ happens to it will be decided.
 The Nordlands are not one power, and Stormveld's northern dealings are correspondingly mixed: steady
 trade with some kingdoms, raiding and open fighting with others, shifting alliance and grudge among
 jarls who regard the Aelwythan holding as an outpost of their own world rather than a foreign country.
-Timber, thrall-worked produce and hides go north; iron, ships, men and quarrels come south.
 
 This is also why the Synod's **compulsory call at [[place-ravenmoor|Ravenmoor]]** does not touch the
 Jarldom. Stormveld's shipping does not cross to the mainland; it crosses north, into the water the

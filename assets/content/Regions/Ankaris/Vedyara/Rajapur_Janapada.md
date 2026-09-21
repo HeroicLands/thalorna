@@ -101,7 +101,7 @@ data:
     - vedyarlng
   seat: rajapur
   domains:
-    - vedyarargn
+    - rajapurjnpd
   population: 25000
   economy:
     - affiliation-mrchntclctvvdyr
@@ -116,7 +116,7 @@ terran_analog: "Medieval South Indian temple-republic that emerged from the ruin
 packFolder: vedyara
 ---
 
-The **Rājapur Janapada** is the federation of eleven villages of the central Mahānadi plain that took its name and its temple-seat from the ruins of an ancient royal capital. Its population is roughly twenty-two thousand; its territory occupies a fertile floodplain stretching some forty miles along the upper Mahānadi. It is one of the larger and wealthier janapadas of the [[affiliation-janpdsvdyr|Mahā-Saṅgha]], and it is the classical example, recited in every Vedyari political-philosophy curriculum, of a janapada that grew by **replacing** a kingdom rather than by **emerging beside** one.
+The **Rājapur Janapada** is the federation of eleven villages of the central Mahānadi plain that took its name and its temple-seat from the ruins of an ancient royal capital. It is one of the larger and wealthier janapadas of the [[affiliation-janpdsvdyr|Mahā-Saṅgha]], and it is the classical example, recited in every Vedyari political-philosophy curriculum, of a janapada that grew by **replacing** a kingdom rather than by **emerging beside** one. The janapada holds the land of [[place-rajapurjnpd|Rājapur Janapada]].
 
 The "King's-Town" of the name is a memory. There is no longer a king. There has not been one for nine hundred years.
 
@@ -153,7 +153,7 @@ The senior priest of the Vyālendra temple is, by long custom, also the convenor
 
 Rājapur's society is the standard Vedyari caste structure with one notable Rājapuri specialty: an unusually large and influential **scholar-caste** community, descended in part from the educated court-functionaries of the old kingdom who were absorbed into the new order at the dissolution. The scholar caste in Rājapur is concentrated in and around the temple complex, staffs the school, the library, and the sabhā's secretariat, and provides the janapada with its disproportionate share of contributions to Vedyari classical scholarship.
 
-The cultivator villages along the Mahānadi produce the standard Vedyari rice-cotton-pulse mix, plus the distinctive **Mahānadi sugar** that is one of Rājapur's principal exports. The merchant caste handles river-trade up and down the Mahānadi, including the considerable manuscript trade flowing out of the temple library. The warrior caste is small (Rājapur has no military tradition since the dissolution and no need for one) and has largely merged with the artisan caste over the centuries.
+The merchant caste handles river-trade up and down the Mahānadi, including the considerable manuscript trade flowing out of the temple library. The warrior caste is small (Rājapur has no military tradition since the dissolution and no need for one) and has largely merged with the artisan caste over the centuries.
 
 ## Religion
 
@@ -165,7 +165,7 @@ The Day of the Dissolution is unique to Rājapur. Other janapadas have their own
 
 ## Economy
 
-Rājapur is moderately wealthy by janapada standards. The combination of fertile Mahānadi floodplain agriculture, the sugar specialty, the manuscript trade, and the substantial pilgrim economy of the Vyālendra temple produces a comfortable surplus most years. The temple holds significant wealth — though, characteristically of janapada governance, this is held as community wealth rather than as priestly personal wealth, and the senior priest's standard of living is not noticeably higher than that of an ordinary Rājapuri scholar-caste household.
+Rājapur is moderately wealthy by janapada standards. The temple holds significant wealth — though, characteristically of janapada governance, this is held as community wealth rather than as priestly personal wealth, and the senior priest's standard of living is not noticeably higher than that of an ordinary Rājapuri scholar-caste household.
 
 The janapada maintains a modest endowment of common funds — managed by the temple, drawn from the centuries of pilgrim donations — that is used for emergency famine relief, irrigation works, the support of the school, and the occasional substantial contribution to the Mahā-Mela.
 
@@ -189,6 +189,7 @@ Rājapur Janapada uses the [[lore-vdyrnbnkng|Vedyaran banking system]] administe
 
 ## See Also
 
+- [[place-rajapurjnpd|Rājapur Janapada]] — the land the janapada holds
 - [[affiliation-janpdsvdyr|Janapadas of Vedyara]] — parent confederation
 - [[place-vedyarargn|Vedyara]] — parent region
 - [[place-rajapur|Rājapur]] — the King's-Town settlement note

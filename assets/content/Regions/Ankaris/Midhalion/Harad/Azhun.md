@@ -92,7 +92,7 @@ data:
     - haradilng
   seat: azhun2
   domains:
-    - haradregin
+    - azhun2
   population: 2500000
   economy:
     - affiliation-aerarimmpr
@@ -114,11 +114,11 @@ packFolder: harad
 
 ## Overview
 
-Azhûn sprawls along a natural harbor at the mouth of the Alz River, its white-walled warehouses and bustling docks defining one of the Vylarian Sea's most vital trading posts. As one of the three great city-states of the Haradian Confederation, Azhûn serves as the conduit through which goods flow between the Dunhari desert, the inland city-states, and the maritime routes that connect Harad to the western realms. The harbor never sleeps—merchant vessels arrive and depart with the tides, their holds brimming with spices, silks, and rare woods.
+The city-state holds [[place-azhun2|Azhûn]] itself. As one of the three great city-states of the Haradian Confederation, Azhûn serves as the conduit through which goods flow between the Dunhari desert, the inland city-states, and the maritime routes that connect Harad to the western realms.
 
 The city's merchant guilds hold absolute power here, and their councils meet in the towering House of Factors that overlooks the harbor. Competition between guilds is fierce but disciplined; they maintain an elaborate system of tariffs, trading monopolies, and agreements that regulate commerce with surgical precision. A ship's captain who violates guild protocol finds no harbor master willing to accept her vessel, no crew willing to work for her. The guilds have learned that stability, however rigidly maintained, yields greater wealth than chaos.
 
-Azhûn's population is a polyglot mixture of Haradi merchants, Dunhari traders, Āsháian priests, and adventurers from every corner of the known world. The city maintains an uneasy religious balance, with temples of the Aurèldían pantheon standing near shrines to the Āsháian deities—both recognized as legitimate paths by the merchant councils. Street markets overflow with languages, accents, and goods so exotic that locals joke the sea itself disgorges treasures at Azhûn's feet.
+Azhûn's population is a polyglot mixture of Haradi merchants, Dunhari traders, Āsháian priests, and adventurers from every corner of the known world. The city maintains an uneasy religious balance, with temples of the Aurèldían pantheon standing near shrines to the Āsháian deities—both recognized as legitimate paths by the merchant councils.
 
 ## Commerce and Currency
 
@@ -126,6 +126,7 @@ Azhûn uses the [[lore-hardncrncy|Haradian currency system]] — the post-secess
 
 ## See Also
 
+- [[place-azhun2|Azhûn]] — The city itself
 - [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — Regional overview
 - [[skill-haradilng|Haradi]] — Naming tradition
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Western religious tradition

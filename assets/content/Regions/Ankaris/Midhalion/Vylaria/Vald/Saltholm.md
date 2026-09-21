@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - vylariargn
+    - vald
   population: 6000
 name:
   full: Saltholm

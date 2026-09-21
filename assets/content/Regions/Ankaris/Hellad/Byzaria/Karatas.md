@@ -93,7 +93,7 @@ data:
     - byzarnlng
   seat: karatas2
   domains:
-    - byzariargn
+    - karatas2
   population: 1600000
   economy:
     - affiliation-clgmrgntrrm
@@ -108,15 +108,13 @@ data:
 packFolder: byzaria
 ---
 
-Karataş — Blackstone — is the [[affiliation-byzarianlg|Byzarian League]]'s mining and manufacturing heart. Built on rich deposits of iron, copper, and semi-precious stones in the mountainous interior of [[place-byzariargn|Byzaría Region]], Karataş produces the arms, armor, metalwork, and finished goods that the other city-states trade across [[place-ankrscntnnt|Ankaris Continent]].
+Karataş — Blackstone — is the [[affiliation-byzarianlg|Byzarian League]]'s mining and manufacturing heart. The city-state holds [[place-karatas2|Karataş]] itself.
 
 ## Character
 
-Where Altinkale glitters and Denizara bustles, Karataş works. The city is less glamorous than its sister states but no less essential — the League's commerce ultimately depends on having goods to sell, and Karataş provides them. Its forges burn day and night, producing everything from fine jewelry to military-grade weapons. The city's craft guilds are powerful institutions that control the quality and quantity of production, and the guild masters sit on the city council with as much authority as the merchant-princes.
+Where Altinkale glitters and Denizara bustles, Karataş works. The city is less glamorous than its sister states but no less essential — the League's commerce ultimately depends on having goods to sell, and Karataş provides them. The city's craft guilds are powerful institutions that control the quality and quantity of production, and the guild masters sit on the city council with as much authority as the merchant-princes.
 
 Karataş has a distinctive working-class character that sets it apart from the other League cities. Its population includes a large community of miners, smiths, and craftspeople, and the city's politics tend to be more egalitarian — or at least more contentious — than the merchant oligarchies of Altinkale or Denizara. The guild system gives ordinary craftsmen a political voice that workers in other League cities lack.
-
-The surrounding mountains are riddled with mines, and the roads leading out of Karataş are perpetually clogged with ore wagons heading in and finished goods heading out. The city's famous black stone — a dark basalt from local quarries — gives the city its name and its distinctive appearance: dark-walled and sturdy, built to endure.
 
 ## Commerce and Currency
 
@@ -126,4 +124,5 @@ Karataş uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Oct
 
 - [[affiliation-byzarianlg|Byzarian League]] — The confederation
 - [[place-byzariargn|Byzaría Region]] — Regional overview
+- [[place-karatas2|Karataş]] — The city itself
 - [[affiliation-altinkale|Altinkale]], [[affiliation-denizara|Denizara]], [[affiliation-yesilhan|Yeşilhan]], [[affiliation-gumushisar|Gümüşhisar]] — Sister city-states

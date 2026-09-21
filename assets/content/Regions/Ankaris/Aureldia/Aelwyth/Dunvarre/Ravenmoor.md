@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - aelwyth
+    - dunavarre
   population: 20000
 name:
   full: Ravenmoor

@@ -102,7 +102,7 @@ data:
     - nordmalng
   seat: skorrborg
   domains:
-    - nrdlndsrgn
+    - malagna
   population: 340000
   economy:
     - lore-vylrncrncy
@@ -123,13 +123,11 @@ packFolder: malagna
 
 ## Overview
 
-Malagna is the westernmost of the five Nordmen kingdoms, occupying fjord-cut coastline and forested highlands facing the open ocean beyond [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]]. Of all the Nordmen realms, Malagna has the most contact with the western kingdoms and the most trade with the cultures of [[place-midhalnrgn|Mídhalión Region]]. Its sailors are explorers and merchants as much as raiders, and Malagnan longships have reached the furthest shores of the known world.
+The Kingdom of Malagna holds the land of [[place-malagna|Malagna]]. Of all the Nordmen realms, Malagna has the most contact with the western kingdoms and the most trade with the cultures of [[place-midhalnrgn|Mídhalión Region]]. Its sailors are explorers and merchants as much as raiders, and Malagnan longships have reached the furthest shores of the known world.
 
 ## Character
 
 Malagna's western position has given it a slightly more cosmopolitan character than its sister kingdoms. Malagnan traders deal regularly with [[place-elavendre|Élavendrian]] and [[place-aelwyth|Aelwythan]] merchants, and the kingdom's port towns host small communities of foreign traders. This exposure has softened some of the harsher edges of Nordmen culture — Malagna's people are still warriors and sailors, but they are also diplomats and deal-makers.
-
-The kingdom is known for its shipbuilding. Malagnan longships are considered the finest in the north, prized for their speed, seaworthiness, and elegant construction. The master shipwrights of Malagna guard their craft jealously, and a Malagnan-built vessel commands a premium in any harbor.
 
 ## Relations
 
@@ -141,6 +139,7 @@ Kingdom of Malagna uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo 
 
 ## See Also
 
+- [[place-malagna|Malagna]] — The land the kingdom holds
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] — Sister kingdom, primary rival
 - [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] — Sister kingdoms
 - [[place-elavendre|Élavendre]] — Western trading partner

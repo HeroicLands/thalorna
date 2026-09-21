@@ -96,7 +96,7 @@ data:
     - elvndrlng
   seat: ravenmoor
   domains:
-    - aelwyth
+    - dunavarre
   population: 75000
   economy:
     - affiliation-clgmrgntrrm
@@ -119,7 +119,7 @@ packFolder: aelwyth
 
 ## Overview
 
-Dúnavarre is the most powerful and diplomatically active kingdom on [[place-aelwyth|Aelwyth]], occupying the southeastern coast of the island where the best natural harbors face the open sea toward [[place-elavendre|Élavendre]] and the mainland beyond. Its sheltered harbors, fertile coastal plains, and proximity to the mainland have made it the island's gateway to the wider world. Where other Aelwythan polities look inward — to the mysteries of the great central lake or the feudal quarrels of the lowlands — Dúnavarre looks outward, maintaining trade and diplomatic ties with [[place-elavendre|Élavendre]], [[place-provenzrgn|Provènzia Region]], and even the courts of the [[affiliation-vylarinmpr|Vylarian Empire]].
+Dúnavarre is the most powerful and diplomatically active kingdom on [[place-aelwyth|Aelwyth]], occupying the southeastern coast of the island where the best natural harbors face the open sea toward [[place-elavendre|Élavendre]] and the mainland beyond. Where other Aelwythan polities look inward — to the mysteries of the great central lake or the feudal quarrels of the lowlands — Dúnavarre looks outward, maintaining trade and diplomatic ties with [[place-elavendre|Élavendre]], [[place-provenzrgn|Provènzia Region]], and even the courts of the [[affiliation-vylarinmpr|Vylarian Empire]]. The kingdom holds the land of [[place-dunavarre|Dúnavarre]].
 
 ## Government
 
@@ -142,10 +142,6 @@ Dúnavarre enjoys **very cordial** relations with [[place-elavendre|Élavendre]]
 Relations with [[affiliation-kngdmldrth|Aldorath]] are competitive — the two realms have long vied for influence over the island's interior, and Aldorath's feudal aristocracy views Dúnavarre's mage-rule with a mix of envy and contempt. The kingdom maintains connections to the [[affiliation-repblctrvn|Republic of Tarvenne]] through coastal trade routes.
 
 Most recently, Dúnavarre has launched an ambitious diplomatic initiative to establish independent relations with the [[affiliation-tanvurempr|Empire of Tānvür]], seeking to bypass the [[affiliation-vylarinmpr|Vylarian Empire]]'s long-standing monopoly as intermediary for east-west diplomacy. This mission — led by Sir Aran al Célavren — represents a bold assertion of Dúnavarren independence on the international stage.
-
-## Notable Places
-
-- **Celivren:** Site of the prestigious Royal Celivren Tournament of Chivalry, one of the foremost martial competitions on the island.
 
 ## Notable Institutions
 
@@ -185,8 +181,7 @@ subjects and minds Dúnavarren opinion a great deal, which looks absurd until on
 Synod is: the Ordo's **central chantry for the island**, and therefore the body that decides whether a
 neighbouring court keeps the advisors it cannot govern without.
 
-The kingdom has only two places that can be called cities: **[[place-ravenmoor|Ravenmoor]]**, the seat,
-at about twenty thousand, and **[[place-wraymouth|Wraymouth]]**, the chief harbour, at about fifteen thousand. The remaining
+The remaining
 forty thousand live on **manorial estates** through the coastal plains and the river valleys — demesne
 and tenantry in the ordinary way, but administered for the Synod by appointed stewards rather than held
 by a landed aristocracy with claims of its own. That is one of the quieter ways mage-rule differs from
@@ -199,6 +194,7 @@ Kingdom of Dúnavarre uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / A
 ## See Also
 
 - [[place-aelwyth|Aelwyth]] — The island
+- [[place-dunavarre|Dúnavarre]] — The land the kingdom holds
 - [[place-elavendre|Élavendre]] — Nearest mainland region, cultural cousin
 - [[affiliation-ordoarcanis|Ordo Arcanis]] — Governing institution
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — State pantheon

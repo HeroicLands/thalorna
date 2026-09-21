@@ -93,7 +93,7 @@ data:
     - vedyarlng
   seat: suryagarha
   domains:
-    - vedyarargn
+    - vindhyalayaland
   population: 8000000
   economy:
     - lore-vdyrnbnkng
@@ -113,7 +113,7 @@ packFolder: vedyara
 
 ## Overview
 
-Vindhyālaya — "the abode of the Vindhya" — is the principal kingdom of the northern highlands of [[place-vedyarargn|Vedyara]], commanding the great passes that link the subcontinent to the caravan routes of the [[place-dunharargn|Dunhara]] and, further north, the far-eastern markets beyond the [[place-khzryndsrtrgn|Khazryn]]. Where the southern Vedyari kingdoms are defined by river valleys, tropical ports, and the slow rhythms of agricultural and artisan life, Vindhyālaya is a realm of pine-clad ridges, snow-fed rivers, and stone fortresses built into the passes themselves. Its wealth is the wealth of the toll-road and the customs-house; its politics are the politics of the march.
+Vindhyālaya — "the abode of the Vindhya" — is the principal kingdom of the northern highlands of [[place-vedyarargn|Vedyara]], commanding the great passes that link the subcontinent to the caravan routes of the [[place-dunharargn|Dunhara]] and, further north, the far-eastern markets beyond the [[place-khzryndsrtrgn|Khazryn]]. Its wealth is the wealth of the toll-road and the customs-house; its politics are the politics of the march. The kingdom holds the land of [[place-vindhyalayaland|Vindhyālaya]].
 
 ## Character
 
@@ -125,11 +125,7 @@ The caste system holds, but its practical texture is different: in the highlands
 
 ## Economy
 
-The kingdom's wealth rides on the pass-roads. Caravans carrying cotton, silk, spice, and worked metal travel north from the Vedyari plains toward [[place-dunharargn|Dunhari]] oases and the desert emporia beyond; return caravans bring salt, horses, lapis, amber, and the rarer goods of the eastern steppes. Vindhyālaya taxes every bale on entry and again on exit, and the resulting customs revenue keeps the royal coffers full without ever needing to squeeze the peasantry — a stability that the southern kingdoms regard with a mixture of envy and suspicion.
-
-The kingdom itself produces copper, tin, and iron in modest but steady quantities from mountain mines worked by hereditary smithing sub-castes. Vindhyan steel is not as celebrated as Vylarian or even Chandrapuri work, but it is serviceable, cheap, and reliably supplied — virtues that matter enormously to the mercenary companies of the western Vedyari kingdoms, who buy arms by the wagonload.
-
-Highland agriculture is limited by terrain. The great terraced fields of the lower valleys produce rice and barley; the upper slopes graze sheep, goats, and the small mountain cattle whose dried milk-curds are a staple of the Vindhyan diet and, increasingly, an export curiosity in the southern courts.
+Vindhyālaya taxes every bale on entry and again on exit, and the resulting customs revenue keeps the royal coffers full without ever needing to squeeze the peasantry — a stability that the southern kingdoms regard with a mixture of envy and suspicion.
 
 ## Government
 
@@ -147,18 +143,13 @@ To the **north**, relations with the [[affiliation-dunhartrbs|Dunhara tribes]] a
 
 To the **east**, across the mountain spine, lie routes that lead eventually to [[affiliation-tanvurempr|Tānvür]]. The direct routes are treacherous and lightly travelled, but Tānvüri scholarly envoys appear at Vindhyan court every few decades, and a small Tānvüri community has existed in Sūryāgarha for centuries.
 
-## Notable Features
-
-- **Sūryāgarha** — the stone capital, a fortress-city built across the throat of the greatest northern pass. Every caravan entering or leaving Vedyara from the north passes beneath its walls.
-- **The Pass-Shrines** — a chain of Varṇaka temples built at the high points of the caravan roads, where travellers stop to leave offerings before attempting the descent. The shrines are maintained by a specialised brahmin sub-caste whose members live year-round at altitudes that would kill an unaccustomed lowlander within a week.
-- **The Silver Gorges** — steep valleys in the eastern mountains, worked for lapis and silver since before the founding of the kingdom. The mines are held by hereditary smithing clans whose prerogatives predate the Mahārāja's own charter.
-
 ## Commerce and Currency
 
 Vindhyālaya uses the [[lore-vdyrnbnkng|Vedyaran banking system]] administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign currencies (Vylarian Argo and Aurion, Ta'Kheperan deben pieces) are exchangeable at frontier moneylenders at Collective-controlled rates, but the Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the (presently stub) system reference and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institutional details.
 
 ## See Also
 
+- [[place-vindhyalayaland|Vindhyālaya]] — The land the kingdom holds
 - [[place-vedyarargn|Vedyara Region]] — Regional overview
 - [[skill-vedyarlng|Vedyari]] — Language and naming conventions
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — Religious tradition
