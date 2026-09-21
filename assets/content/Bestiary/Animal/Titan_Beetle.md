@@ -278,7 +278,7 @@ The ground itself seems to tremble with deliberate, rhythmic footsteps. A dark, 
 
 # Dossier {#dossier}
 
-The Titan Beetle is a massive armored insect reaching 6-8 feet in body length and weighing several hundred pounds, found in dense forests, rocky badlands, and caves across tropical and temperate regions. Despite their herbivorous diet, these creatures are formidable defensive combatants that will aggressively protect territory or themselves when threatened. Adventurers encounter titan beetles primarily in dense vegetation or while mining/quarrying in beetle territory.
+The Titan Beetle is a massive armored insect reaching 6-8 feet in body length and weighing several hundred pounds, found in dense forests, rocky badlands, and caves across tropical and temperate regions. Despite their herbivorous diet, these creatures are dangerous defenders that will aggressively protect territory or themselves when threatened. Adventurers encounter titan beetles primarily in dense vegetation or while mining/quarrying in beetle territory.
 
 ## Presentation
 
@@ -290,7 +290,7 @@ Titan beetles are herbivorous, spending much of their time feeding on vegetation
 
 ## Combat Strategy
 
-The titan beetle defends itself through sheer durability and crushing power. It charges opponents with all its weight, using mandibles to deliver devastating bites. The creature is slow but relentless, simply overwhelming opposition through durability and repeated attacks. If escape is possible, the beetle will flee rather than continue losing battle.
+The titan beetle defends itself through sheer durability and crushing power. It charges opponents with all its weight, using mandibles to deliver devastating bites. The creature is slow but relentless, simply overwhelming opposition through durability and repeated attacks. If escape is possible, the beetle will flee rather than continue a losing battle.
 
 ## Attack Methods
 
@@ -306,7 +306,7 @@ The creature uses its weight as a weapon, colliding with opponents and attemptin
 
 ### Natural Armor
 
-The chitin shell provides genuine protection equivalent to heavy armor against slashing and piercing attacks.
+The chitin shell protects it as well as heavy armor against cuts and thrusts.
 
 ### Immovable Mass
 
@@ -314,7 +314,7 @@ The beetle's weight and low center of gravity make it nearly impossible to knock
 
 ### Relentless Strength
 
-The beetle continues fighting despite damage, driven by territorial instinct rather than fear or pain.
+The beetle continues fighting despite its wounds, driven by territorial instinct rather than fear or pain.
 
 ### Additional Information
 

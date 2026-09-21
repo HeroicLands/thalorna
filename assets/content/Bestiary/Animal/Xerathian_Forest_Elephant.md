@@ -397,11 +397,11 @@ sohl:
 
 ![[xrthnfrs|Xerathian Forest Elephant]]{float: top-left}
 
-The forest seems to move as a single unit before separating into distinct creature: massive, dark-skinned, and emerging with surprising grace from dense vegetation. The rounded ears fan humid air, and the straighter tusks point downward, carving through foliage with practiced ease. The trunk curls and unfolds with obvious intelligence, sampling scents and reaching for vegetation. The eyes are remarkable in their awareness and wariness.
+The forest seems to move as a single unit before separating into a distinct creature: massive, dark-skinned, and emerging with surprising grace from dense vegetation. The rounded ears fan humid air, and the straighter tusks point downward, carving through foliage with practiced ease. The trunk curls and unfolds with obvious intelligence, sampling scents and reaching for vegetation. The eyes are aware and wary.
 
 # Dossier {#dossier}
 
-The Xerathian Forest Elephant is smaller and more elusive than its savanna cousin, standing 8-9 feet at the shoulder and weighing 4-5 tons, found exclusively in dense tropical forests. These intelligent, reclusive creatures are rarely encountered by humans due to their avoidance of human areas and their camouflage in forest environments.
+The Xerathian Forest Elephant is smaller and more elusive than its savanna cousin, standing 8-9 feet at the shoulder and weighing 4-5 tons, found exclusively in dense tropical forests. These intelligent, reclusive creatures are rarely encountered by humans because they avoid human areas and are hard to see among the trees.
 
 ## Presentation
 
@@ -409,11 +409,11 @@ The forest elephant has darker gray or brownish skin compared to savanna elephan
 
 ## Key Behaviors
 
-Forest elephants are shy and avoid human contact when possible. They feed on wide variety of forest vegetation and play crucial role in seed dispersal. They are highly intelligent and social within family groups.
+Forest elephants are shy and avoid human contact when possible. They feed on a wide variety of forest vegetation and spread the seeds of much of it. They are highly intelligent and social within family groups.
 
 ## Combat Strategy
 
-When threatened, the forest elephant charges using tusks and trunk. It is less aggressive than savanna cousins but equally dangerous when defending young or territory.
+When threatened, the forest elephant charges using tusks and trunk. It is not as aggressive as its savanna cousins but equally dangerous when defending young or territory.
 
 ## Attack Methods
 
@@ -429,7 +429,7 @@ The trunk delivers powerful strikes capable of knocking opponents backward.
 
 ### Forest Navigation
 
-The elephant can move through dense terrain with remarkable grace and speed.
+The elephant can move through dense terrain with surprising grace and speed.
 
 ### Intelligent Problem-Solving
 

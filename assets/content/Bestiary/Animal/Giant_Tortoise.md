@@ -327,11 +327,11 @@ The ground trembles with each step of the creature—a slow, rhythmic vibration 
 
 # Dossier {#dossier}
 
-The Giant Tortoise is a walking fortress of overwhelming durability, a creature that has evolved over centuries to be nearly indestructible. These herbivorous creatures can live for hundreds of years, and a truly ancient tortoise represents a mobile historical archive. They are generally peaceful and indifferent to smaller creatures, focusing entirely on the slow business of consuming vegetation. Adventurers most commonly encounter them while traveling through warm lands, deserts, or temperate forests where tortoises establish feeding routes.
+The Giant Tortoise is a walking fortress of overwhelming durability, a creature grown over centuries to be nearly indestructible. These herbivorous creatures can live for hundreds of years, and a truly ancient tortoise is a living record of centuries. They are generally peaceful and indifferent to smaller creatures, focusing entirely on the slow business of consuming vegetation. Adventurers most commonly encounter them while traveling through warm lands, deserts, or temperate forests where tortoises establish feeding routes.
 
 ## Presentation
 
-The Giant Tortoise is an absolutely massive creature, capable of exceeding twenty feet in length and weighing many tons. The body is entirely dominated by the shell—a domed, scaly carapace in earth tones of brown, gray, and weathered tan. The shell is heavily scarred and patterned with accumulated age, each scar and wear mark representing a century or more of existence. The plastron (underside) is flat and equally well-armored, providing protection from below as well as above. The head is relatively small compared to the body, with ancient-looking skin that is deeply wrinkled and scaled. The eyes are small and dark, expressing remarkable calm and wisdom. The legs are thick and powerful, capable of supporting the creature's enormous weight.
+The Giant Tortoise is an absolutely massive creature, capable of exceeding twenty feet in length and weighing many tons. The body is entirely dominated by the shell—a domed, scaly carapace in earth tones of brown, gray, and weathered tan. The shell is heavily scarred and patterned with accumulated age, each scar and wear mark representing a century or more of existence. The plastron (underside) is flat and equally well-armored, providing protection from below as well as above. The head is relatively small compared to the body, with ancient-looking skin that is deeply wrinkled and scaled. The eyes are small and dark, expressing a great calm and wisdom. The legs are thick and powerful, capable of supporting the creature's enormous weight.
 
 ## Key Behaviors
 
@@ -339,7 +339,7 @@ Giant Tortoises are herbivorous and spend much of their time methodically consum
 
 ## Combat Strategy
 
-A Giant Tortoise is not an aggressive creature and rarely initiates combat. When threatened, its first response is to simply ignore the threat and continue about its business. If forced to engage, the tortoise relies entirely on its overwhelming armor and mass. It will attempt to shove or crush attackers using its body, or it may bite if something interferes with its movement. If seriously threatened, the tortoise withdraws completely into its shell and enters a state of minimal responsiveness, becoming essentially immobile and nearly indestructible. A tortoise will remain withdrawn until it determines the threat has passed.
+A Giant Tortoise is not an aggressive creature and rarely initiates combat. When threatened, its first response is to simply ignore the threat and continue about its business. If forced to engage, the tortoise relies entirely on its overwhelming armor and mass. It will attempt to shove or crush attackers using its body, or it may bite if something interferes with its movement. If seriously threatened, the tortoise withdraws completely into its shell and scarcely responds to anything, becoming essentially immobile and nearly indestructible. A tortoise will remain withdrawn until it determines the threat has passed.
 
 ## Attack Methods
 
@@ -355,15 +355,15 @@ The tortoise can bite with surprising force—the bite is slow and deliberate bu
 
 ### Impenetrable Shell
 
-The tortoise's shell is nearly indestructible—normal weapons have difficulty penetrating or damaging it. The shell distributes force across its surface, protecting the creature from virtually all conventional damage. The plastron (belly) is slightly less heavily armored but still exceptionally tough.
+The tortoise's shell is nearly indestructible—normal weapons have difficulty penetrating or damaging it. The shell distributes force across its surface, protecting the creature from nearly any ordinary blow. The plastron (belly) is slightly less heavily armored but still very tough.
 
 ### Withdrawal Defense
 
-When the tortoise fully withdraws into its shell, it becomes an immobile fortress. In this state, it is nearly impossible to harm—most weapons cannot penetrate the shell, and the creature simply ceases to exist as an active participant in the world, waiting for threats to pass.
+When the tortoise fully withdraws into its shell, it becomes an immobile fortress. In this state, it is nearly impossible to harm—most weapons cannot penetrate the shell, and the creature simply waits, inert, for the threat to pass.
 
 ## Additional Information
 
-A Giant Tortoise's shell, when shed (which occurs naturally over centuries), can be worked into extraordinary armor or decorative pieces. The creature's age can be determined by counting the rings on the shell, and truly ancient tortoises are honored as living monuments. Some characters have attempted to ride tortoises, though the creatures are indifferent to riders and will not modify their behavior for them. A tortoise that has lived for centuries has witnessed the rise and fall of kingdoms.
+A Giant Tortoise's shell, when shed (which occurs naturally over centuries), can be worked into extraordinary armor or decorative pieces. The creature's age can be determined by counting the rings on the shell, and truly ancient tortoises are honored as living monuments. Some have attempted to ride tortoises, though the creatures are indifferent to riders and will not change their course for them.
 
 ## Attributes
 

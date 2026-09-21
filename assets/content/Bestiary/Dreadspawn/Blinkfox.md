@@ -335,7 +335,7 @@ sohl:
 
 ![[blinkfox|Blinkfox]]{float: top-left}
 
-Movement catches your eye—a flicker, a blur of color that shouldn't be there. One moment it's to your left, the next directly ahead. Its fur ripples through a spectrum of hues, never quite settling on any single color, as if it hasn't fully decided what it should look like. You catch the glint of an eye—sharp, calculating, utterly intelligent—and then it's gone, the space where it stood empty save for a faint shimmer that hangs in the air like heat haze.
+Movement catches your eye—a flicker, a blur of color that shouldn't be there. One moment it's to your left, the next directly ahead. Its fur ripples through a spectrum of hues, never quite settling on any single color, as if it hasn't fully decided what it should look like. You catch the glint of an eye—sharp, calculating, intelligent—and then it's gone, the space where it stood empty save for a faint shimmer that hangs in the air like heat haze.
 
 # Dossier {#dossier}
 
@@ -347,7 +347,7 @@ The Blinkfox resembles a fox roughly the size of a large hound—lean, graceful,
 
 ## Key Behaviors
 
-The Blinkfox is a cunning, solitary hunter with intelligence approaching that of sapient creatures. It stalks prey with calculated patience, using its speed and spatial manipulation to corner targets. The creature shows particular preference for intelligent prey—birds, smaller humanoids, clever animals—and will spend considerable time studying a potential quarry before striking. When not hunting, it rests in clearings or atop high stones, its form becoming nearly invisible as its fur matches the surroundings. It exhibits no fear of humans unless badly wounded; it is curious and playful in a way that suggests hunger rather than aggression.
+The Blinkfox is a cunning, solitary hunter with intelligence approaching that of sapient creatures. It stalks prey with calculated patience, using its speed and its blinking to corner targets. The creature shows particular preference for intelligent prey—birds, smaller humanoids, clever animals—and will spend considerable time studying a potential quarry before striking. When not hunting, it rests in clearings or atop high stones, its form becoming nearly invisible as its fur matches the surroundings. It exhibits no fear of humans unless badly wounded; it is curious and playful in a way that suggests hunger rather than aggression.
 
 ## Combat Strategy
 
@@ -357,21 +357,21 @@ The Blinkfox never commits to a direct fight. Instead, it strikes from unexpecte
 
 ### Blinking Bite
 
-The creature materializes in close proximity to its target and delivers a precise bite to exposed flesh or weak points in armor. The bite is accurate and delivers sharp trauma; the Blinkfox immediately blinks away afterward.
+The creature materializes in close proximity to its target and delivers a precise bite to exposed flesh or weak points in armor. The bite is accurate and cuts deep; the Blinkfox immediately blinks away afterward.
 
 ### Flickering Claw Strikes
 
-The fox rakes with its fore-claws in rapid succession, each strike occurring from a slightly different position as the creature briefly blinks between strikes. This creates the illusion of multiple simultaneous attacks and makes defending against it exceptionally difficult.
+The fox rakes with its fore-claws in rapid succession, each strike occurring from a slightly different position as the creature briefly blinks between strikes. This creates the illusion of multiple simultaneous attacks and makes defending against it very difficult.
 
 ### Disorienting Manifestation
 
-The Blinkfox can teleport directly in front of a target's eyes, causing momentary disorientation and potentially breaking line of sight or initiative focus. Some targets panic when the creature appears and disappears repeatedly in their immediate vicinity.
+The Blinkfox can teleport directly in front of a target's eyes, causing momentary disorientation and breaking the target's concentration. Some targets panic when the creature appears and disappears repeatedly in their immediate vicinity.
 
 ## Special Abilities
 
 ### Short-Range Teleportation
 
-The Blinkfox can teleport up to sixty feet in a single blink action, appearing in any location it can see or has recently occupied. It can execute one of these blinks per round freely; additional blinks require expenditure of magical reserve. It can teleport while carrying light burdens.
+The Blinkfox can blink up to sixty feet at a time, appearing anywhere it can see or has recently occupied. It can blink once freely in the time it takes to strike a blow; blinking more often than that draws on its magical reserve. It can teleport while carrying light burdens.
 
 ### Chromatic Concealment
 
@@ -379,7 +379,7 @@ The creature's fur automatically adopts the dominant colors of its surroundings,
 
 ### Fey Heritage
 
-The Blinkfox's partial existence in multiple planes grants it resistance to physical damage and magical effects designed to affect purely material creatures. It is vulnerable to spells and effects that target creatures regardless of planar position and can be harmed by materials imbued with anti-fey properties.
+The Blinkfox's partial existence in multiple planes makes it resistant to physical blows and to magic that works only on wholly material creatures. It is vulnerable to spells that reach a creature wherever it stands between the planes, and it can be harmed by materials imbued with anti-fey properties.
 
 ## Additional Information
 

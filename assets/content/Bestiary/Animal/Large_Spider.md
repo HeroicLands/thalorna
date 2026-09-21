@@ -232,21 +232,21 @@ Large spiders typically bear eight dark eyes clustered toward the front of the c
 
 ## Key Behaviors
 
-Large spiders are ambush and hunting predators, employing two primary strategies: constructing elaborate webs to trap prey, or actively hunting by prowling through vegetation, across surfaces, or through the air. Web-building spiders remain near their webs, vibrating the silk to sense trapped prey. Active hunters stalk prey through their territory, using eight eyes and thousands of sensory hairs to track movement. All spiders are solitary outside of mating season and actively avoid other spiders. They primarily hunt insects and other arthropods but large species readily consume small vertebrates including mice, lizards, and birds. They have extremely fast metabolisms and must feed frequently.
+Large spiders are ambush and hunting predators, employing two primary strategies: constructing elaborate webs to trap prey, or actively hunting by prowling through vegetation, across surfaces, or through the air. Web-building spiders remain near their webs, vibrating the silk to sense trapped prey. Active hunters stalk prey through their territory, using eight eyes and thousands of sensory hairs to track movement. All spiders are solitary outside of mating season and actively avoid other spiders. They primarily hunt insects and other arthropods but large species readily consume small vertebrates including mice, lizards, and birds. They burn through food quickly and must feed often.
 
 ## Combat Strategy
 
-Spiders prefer to strike from positions of advantage—from above, behind, or from within a web. They aim for the head and neck with their bite, attempting to immobilize prey with venom before feeding. Against more formidable opponents, spiders rely on hit-and-run tactics, biting and retreating to let venom work. A cornered spider will become aggressive, leaping at attackers and biting repeatedly. Web-building spiders will remain in or near their webs, using them to slow and entangle opponents.
+Spiders prefer to strike from positions of advantage—from above, behind, or from within a web. They aim for the head and neck with their bite, attempting to immobilize prey with venom before feeding. Against stronger opponents, spiders rely on hit-and-run tactics, biting and retreating to let venom work. A cornered spider will become aggressive, leaping at attackers and biting repeatedly. Web-building spiders will remain in or near their webs, using them to slow and entangle opponents.
 
 ## Attack Methods
 
 ### Venomous Bite
 
-The spider lunges with fangs extended, aiming for the head, neck, or exposed skin, and injects paralyzing venom; the bite causes piercing damage and progressive paralysis depending on the victim's constitution and the spider's venom potency.
+The spider lunges with fangs extended, aiming for the head, neck, or exposed skin, and injects paralyzing venom; the bite pierces deep and brings on a spreading paralysis whose severity depends on the victim's constitution and the potency of the venom.
 
 ### Web Entanglement
 
-If within its web, a spider can engulf portions of an opponent in sticky webbing to slow or immobilize; an ensnared opponent must make a strength check to break free or becomes completely immobilized.
+If within its web, a spider can engulf portions of an opponent in sticky webbing to slow or immobilize; an ensnared opponent who cannot tear free by main strength is held completely immobilized.
 
 ## Special Abilities
 
@@ -256,11 +256,11 @@ The spider can traverse vertical and inverted surfaces with ease, moving at full
 
 ### Venomous Bite
 
-The spider's fangs deliver a neurotoxin designed to paralyze prey; victims of the bite suffer immediate damage and must make a resistance check or begin to suffer progressive paralysis that can render them completely immobilized if sufficiently strong.
+The spider's fangs deliver a venom that attacks the nerves and paralyzes prey; a victim of the bite feels immediate pain and, unless they can resist it, a spreading paralysis that can leave them completely immobilized if the dose is strong enough.
 
 ### Web Weaver
 
-The spider can create sticky webbing to entangle prey, repair webs, or construct barriers; these webs are difficult for opponents to break and can impede movement or prevent escape from a designated area.
+The spider can create sticky webbing to entangle prey, repair webs, or construct barriers; these webs are difficult for opponents to break and can impede movement or prevent escape from an area.
 
 ## Attributes
 

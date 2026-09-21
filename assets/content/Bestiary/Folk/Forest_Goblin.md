@@ -345,19 +345,19 @@ A shape in the green flickers at the edge of perception. Forest goblins are smal
 
 # Dossier {#dossier}
 
-Forest goblins are sapient beings that dwell in deep woodlands, existing as solitary hunters and loose aggregations of opportunity rather than communities. Each forest goblin is focused on personal advancement, personal hunger, and personal amusement. They are bound together by cultural traditions and by occasional alliances of convenience, but these bonds are fragile and subject to disruption by personal greed. A forest goblin encountered alone is pursuing individual goals; a group is either a hunting party with shared prey or an assembly that may turn on each other at any moment. They view forest dwellers as resources or competition. They view surface dwellers as ignorant and amusing. They understand the forest on a level that other species can barely conceive.
+Forest goblins are sapient beings that dwell in deep woodlands, existing as solitary hunters and loose aggregations of opportunity rather than communities. Each forest goblin is focused on personal advancement, personal hunger, and personal amusement. They are bound together by cultural traditions and by occasional alliances of convenience, but these bonds are fragile and subject to disruption by personal greed. A forest goblin encountered alone is pursuing individual goals; a group is either a hunting party with shared prey or an assembly that may turn on each other at any moment. They view other forest dwellers as things to use or as rivals. They view surface dwellers as ignorant and amusing. They understand the forest on a level that other species can barely conceive.
 
 ## Presentation
 
-Forest goblins stand three to four feet tall, with wiry builds that suggest evolution for climbing and traversing dense undergrowth. Their skin is dark green to earthy brown, often mottled or striped with patterns that provide natural camouflage. Their features are sharp-angled—pointed ears that are mobile and highly attuned to sound, large bright eyes that seem to reflect light, wide mouths that display sharp teeth. Their hair is long and wild, usually matted and decorated with feathers, leaves, small bones, and trinkets. Their clothing is woven from natural materials—bark cloth, leather, vine-woven garments, adorned with shells, teeth, claws, and other trophies from their exploits.
+Forest goblins stand three to four feet tall, with wiry builds made for climbing and moving through dense undergrowth. Their skin is dark green to earthy brown, often mottled or striped with patterns that provide natural camouflage. Their features are sharp-angled—pointed ears that are mobile and highly attuned to sound, large bright eyes that seem to reflect light, wide mouths that display sharp teeth. Their hair is long and wild, usually matted and decorated with feathers, leaves, small bones, and trinkets. Their clothing is woven from natural materials—bark cloth, leather, vine-woven garments, adorned with shells, teeth, claws, and other trophies from their exploits.
 
 ## Key Behaviors
 
-Forest goblins are opportunistic and individualistic. They hunt the forest continually and seem to take pleasure in the hunt as much as in the acquisition of food. Each goblin is focused on personal status within the social hierarchy of their kind, and they accumulate trophies, kills, and stories to enhance their standing. Multiple goblins in an area may hunt cooperatively if prey is large, but they quickly dissolve back into solitary pursuits. They are highly territorial about specific hunting grounds and will drive out competitors. They seem to view most other species as either prey, competition, or entertainment. Their treatment of captured humanoids varies based on whim—some are killed immediately, some are tortured for amusement, some are released to spread tales of goblin prowess.
+Forest goblins are opportunistic and individualistic. They hunt the forest continually and seem to take pleasure in the hunt as much as in the food it brings. Each goblin is focused on personal status within the social hierarchy of their kind, and they accumulate trophies, kills, and stories to enhance their standing. Multiple goblins in an area may hunt cooperatively if prey is large, but they quickly dissolve back into solitary pursuits. They are highly territorial about specific hunting grounds and will drive out competitors. They seem to view most other species as either prey, competition, or entertainment. Their treatment of captured humanoids varies based on whim—some are killed immediately, some are tortured for amusement, some are released to spread tales of goblin prowess.
 
 ## Combat Strategy
 
-Forest goblins are ambush specialists. They attack from above from trees, from concealment in undergrowth, from positions of advantage where their superior agility and local knowledge dominate. They rarely engage in open combat; instead, they use the forest to create kill zones. A forest goblin alone will often flee if the fight turns against them. Multiple goblins coordinate simple tactics—some creating distraction while others position for devastating strikes. They favor ranged weapons—shortbows, blowguns, sling weapons—and follow up with spear or knife if an enemy gets close. Most weapons are treated with natural toxins derived from forest plants and insects.
+Forest goblins are ambush specialists. They attack from above from trees, from concealment in undergrowth, from positions of advantage where their superior agility and local knowledge dominate. They rarely engage in open combat; instead, they use the forest to make killing grounds. A forest goblin alone will often flee if the fight turns against them. Multiple goblins coordinate simple tactics—some creating distraction while others position for devastating strikes. They favor ranged weapons—shortbows, blowguns, sling weapons—and follow up with spear or knife if an enemy gets close. Most weapons are treated with natural toxins derived from forest plants and insects.
 
 ## Attack Methods
 
@@ -375,17 +375,17 @@ Once prey is wounded or distracted, the goblin moves in for close-range attacks 
 
 ### Trap Exploitation
 
-Forest goblins are experts at creating deadfall traps, snares, and pit traps. They regularly exploit pre-existing traps when leading prey through their territory.
+Forest goblins are experts at creating deadfall traps, snares, and pit traps. They regularly lead prey through their territory into traps already laid.
 
 ## Special Abilities
 
 ### Forest Mastery
 
-In forest environments, forest goblins move with silence and grace that other species cannot match. They climb trees, traverse dense undergrowth, and navigate three-dimensional forest space with ease and speed.
+In forest environments, forest goblins move with silence and grace that other species cannot match. They climb trees, traverse dense undergrowth, and move through the forest at every height with ease and speed.
 
 ### Camouflage
 
-The goblin's natural coloring and clothing allow them to blend seamlessly with forest foliage. In dense vegetation, they become nearly invisible, especially to outsiders unfamiliar with tracking small creatures.
+The goblin's natural coloring and clothing allow them to blend into forest foliage. In dense vegetation, they become nearly invisible, especially to outsiders unfamiliar with tracking small creatures.
 
 ### Toxin Knowledge
 
@@ -397,7 +397,7 @@ The forest goblin is an expert tracker, able to follow prey through the forest w
 
 ### Trickster's Wit
 
-Forest goblins are natural deceivers and liars, skilled at creating confusion through misdirection and false claims. They understand psychology and can manipulate outsiders into making poor decisions.
+Forest goblins are natural deceivers and liars, skilled at creating confusion through misdirection and false claims. They understand how people think and can lead outsiders into poor decisions.
 
 ## Additional Information
 

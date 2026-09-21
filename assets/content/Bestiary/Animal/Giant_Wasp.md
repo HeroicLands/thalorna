@@ -333,7 +333,7 @@ The Giant Wasp is a vicious aerial predator that combines speed, agility, and a 
 
 ## Presentation
 
-The Giant Wasp is a sleek, aggressive predator built entirely for aerial combat and rapid hunting. The body is composed of three distinct segments: head, thorax, and abdomen, all covered in chitinous armor in vivid black and yellow striping that serves as warning coloration. The head bears large, compound eyes providing excellent vision, and powerful mandibles designed for cutting and slicing. The thorax is muscular and supports two pairs of wings that beat rapidly enough to produce an audible hum. The abdomen is elongated and ends in a long, barbed stinger that curves downward, dripping with clear venom. The legs are relatively short but equipped with claws for gripping. The overall impression is of barely contained aggression and predatory competence.
+The Giant Wasp is a sleek, aggressive predator built entirely for aerial combat and rapid hunting. The body is composed of three distinct segments: head, thorax, and abdomen, all covered in chitinous armor in vivid black and yellow striping, a warning coloration. The head bears large, compound eyes providing excellent vision, and powerful mandibles designed for cutting and slicing. The thorax is muscular and supports two pairs of wings that beat rapidly enough to produce an audible hum. The abdomen is elongated and ends in a long, barbed stinger that curves downward, dripping with clear venom. The legs are relatively short but equipped with claws for gripping. The overall impression is of barely contained aggression and predatory competence.
 
 ## Key Behaviors
 
@@ -341,13 +341,13 @@ Giant Wasps are solitary hunters and apex predators, but they often operate from
 
 ## Combat Strategy
 
-A Giant Wasp's preferred method is the high-speed diving strike—approaching from above or behind and striking with the full force of aerial momentum. The wasp delivers a sting that injects venom and causes pain while allowing the wasp to retreat before the target can fully react. If the target is incapacitated or captured, the wasp may land and use mandibles for cutting. A lone wasp retreats after a single failed strike, but multiple wasps attack repeatedly, working to separate targets and focus fire on individuals. A wasp defending its hive shows no instinct to retreat and will make suicidal attacks to protect the colony.
+A Giant Wasp's preferred method is the high-speed diving strike—approaching from above or behind and striking with the full force of aerial momentum. The wasp delivers a sting that injects venom and causes pain while allowing the wasp to retreat before the target can fully react. If the target is incapacitated or captured, the wasp may land and use mandibles for cutting. A lone wasp retreats after a single failed strike, but multiple wasps attack repeatedly, working to separate targets and concentrate their attacks on individuals. A wasp defending its hive shows no instinct to retreat and will make suicidal attacks to protect the colony.
 
 ## Attack Methods
 
 ### Stinger Strike
 
-A rapid thrust with the barbed stinger, injecting venom designed to cause pain, disorientation, and progressive paralysis. Multiple stings compound the venom's effect.
+A rapid thrust with the barbed stinger, injecting venom designed to cause pain, disorientation, and a spreading paralysis. Multiple stings compound the venom's effect.
 
 ### Mandible Slash
 

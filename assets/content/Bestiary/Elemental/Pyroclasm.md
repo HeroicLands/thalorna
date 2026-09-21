@@ -629,7 +629,7 @@ A Pyroclasm is roughly humanoid in shape, standing about twelve feet tall, and c
 
 ## Key Behaviors
 
-Pyroclasms are aggressive and destructive by nature. They are driven by hunger for fuel and by the compulsion to burn and incinerate. They show minimal intelligence and seem to lack any real sense of self-preservation. They will continue attacking even when clearly losing, driven by rage and instinct. They are most active in volcanic regions and near sources of flame, and they become more aggressive and more powerful in such environments.
+Pyroclasms are aggressive and destructive by nature. They are driven by hunger for fuel and by the compulsion to burn and incinerate. They show minimal intelligence and seem to have no instinct for self-preservation. They will continue attacking even when clearly losing, driven by rage and instinct. They are most active in volcanic regions and near sources of flame, and they become more aggressive and more powerful in such environments.
 
 ## Combat Strategy
 
@@ -639,11 +639,11 @@ Pyroclasms fight with destructive directness, charging and striking with overwhe
 
 ### Lava Punch
 
-The Pyroclasm strikes with a fist of molten matter, and the impact combines physical force with catastrophic heat. The strike can melt armor and burn flesh to ash. Victims struck are often incapacitated by the combined trauma of impact and thermal damage.
+The Pyroclasm strikes with a fist of molten matter, and the impact combines physical force with catastrophic heat. The strike can melt armor and burn flesh to ash. Victims struck are often incapacitated by the impact and the heat together.
 
 ### Fire Burst
 
-The Pyroclasm explodes with flame in a cone or sphere, engulfing everything nearby in searing heat. The attack spreads to flammable materials and can ignite an entire area. Multiple uses of this ability in sequence can transform a location into a full conflagration.
+The Pyroclasm explodes with flame in every direction, engulfing everything nearby in searing heat. The attack spreads to flammable materials and can ignite an entire area. Several bursts in succession can turn a location into a full conflagration.
 
 ### Lava Spray
 
@@ -651,13 +651,13 @@ The Pyroclasm vomits or sprays magma and burning material in a wide arc, coating
 
 ### Seismic Explosion
 
-The Pyroclasm can cause localized eruptions of flame and lava that burst from the ground beneath opponents, creating hazardous terrain and dealing area damage.
+The Pyroclasm can cause localized eruptions of flame and lava that burst from the ground beneath opponents, leaving the ground burning and scorching everyone within reach.
 
 ## Special Abilities
 
 ### Volcanic Resilience
 
-The Pyroclasm is immune to fire damage and heals from fire-based magic. It is harmed primarily by cold and water, which cause it to solidify and become slower and weaker.
+The Pyroclasm is immune to fire and heals from fire-based magic. It is harmed primarily by cold and water, which cause it to solidify and become slower and weaker.
 
 ### Thermal Destruction
 
@@ -669,7 +669,7 @@ The Pyroclasm can immerse itself in lava or sources of extreme heat to heal and 
 
 ### Thermal Sense
 
-The Pyroclasm can sense heat sources and can pursue victims by tracking their body heat. It can see in complete darkness and navigate invisible to normal sight.
+The Pyroclasm can sense heat sources and can pursue victims by tracking their body heat. It can see in complete darkness.
 
 ## Additional Information
 

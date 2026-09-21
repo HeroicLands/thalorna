@@ -374,7 +374,7 @@ sohl:
 
 ![[mntndrk|Mountain Drake]]{float: top-left}
 
-The drake is barely visible until it moves—a granite-gray shape pressed against stone, utterly motionless. Then a claw flexes against rock, and suddenly its form resolves: a sinuous reptilian body built low and powerful, spines running down its spine like a ridgeline in miniature. Curved horns catch the light, and its amber eyes are neither animal nor lifeless, but something in between. When it shifts position on its perch, the movement is economical and precise, and the view of the tiny vestigial wings folded against its sides suggests a creature that perhaps remembers larger ancestors—or dreams of becoming one.
+The drake is barely visible until it moves—a granite-gray shape pressed against stone, perfectly motionless. Then a claw flexes against rock, and suddenly its form resolves: a sinuous reptilian body built low and powerful, spines running down its spine like a ridgeline in miniature. Curved horns catch the light, and its amber eyes are neither animal nor lifeless, but something in between. When it shifts position on its perch, the movement is economical and precise, and the view of the tiny vestigial wings folded against its sides suggests a creature that perhaps remembers larger ancestors—or dreams of becoming one.
 
 # Dossier {#dossier}
 
@@ -382,7 +382,7 @@ The Mountain Drake is a mid-sized reptilian predator measuring 7-8 feet in lengt
 
 ## Presentation
 
-Mountain Drakes display rough, scaly hide in cryptic stone tones—granite gray, pale brown, darker charcoal, with lighter patches providing disruptive coloration against rocky backgrounds. The limbs are heavily muscled and end in sharp claws designed for climbing and gripping stone. The tail is nearly as long as the body, muscular and used for balance and combat. The head features a strong jaw line and forward-facing eyes that give excellent binocular vision. The spines along the back are sharp and can inflict damage if pressed against. Small, useless-looking wings fold tight against the sides of the body, barely visible until the drake shifts position. A distinctive sulfur-like smell surrounds them.
+Mountain Drakes display rough, scaly hide in cryptic stone tones—granite gray, pale brown, darker charcoal, with lighter patches providing disruptive coloration against rocky backgrounds. The limbs are heavily muscled and end in sharp claws designed for climbing and gripping stone. The tail is nearly as long as the body, muscular and used for balance and combat. The head features a strong jaw line and forward-facing eyes that give excellent binocular vision. The spines along the back are sharp and can wound anyone pressed against them. Small, useless-looking wings fold tight against the sides of the body, barely visible until the drake shifts position. A distinctive sulfur-like smell surrounds them.
 
 ## Key Behaviors
 
@@ -390,31 +390,31 @@ Mountain Drakes are territorial predators establishing and defending large range
 
 ## Combat Strategy
 
-Mountain Drakes strike swiftly using speed and agility to advantage, attacking from above whenever possible. They use their claws and teeth for direct combat, but if faced with overwhelming opposition, they use terrain knowledge to retreat to their lair. Within their chosen territory, they have the advantage of knowing every crevice and cliff edge. They employ environmental tactics, dislodging rocks and triggering small avalanches or rockfalls to damage opponents or force them into disadvantageous positions. If an opponent proves too strong, the drake will use its gliding ability to escape to higher ground where pursuers cannot easily follow.
+Mountain Drakes strike swiftly using speed and agility to advantage, attacking from above whenever possible. They use their claws and teeth for direct combat, but if faced with overwhelming opposition, they use terrain knowledge to retreat to their lair. Within their chosen territory, they have the advantage of knowing every crevice and cliff edge. They use the ground itself, dislodging rocks and triggering small avalanches or rockfalls to injure opponents or force them into disadvantageous positions. If an opponent proves too strong, the drake will use its gliding ability to escape to higher ground where pursuers cannot easily follow.
 
 ## Attack Methods
 
 ### Raking Claws
 
-The drake strikes with its sharp claws, either in a frontal assault or by pouncing from above; these attacks can tear through flesh and light armor, and the drake often aims for the face, neck, or shoulders to cause maximum damage.
+The drake strikes with its sharp claws, either in a frontal assault or by pouncing from above; these attacks can tear through flesh and light armor, and the drake often aims for the face, neck, or shoulders, where a strike does the worst harm.
 
 ### Tail Strike
 
-The drake lashes its muscular tail to knock opponents back, knock weapons from their hands, or inflict slashing damage; the tail can also be used as a grappling weapon to entangle or throw smaller opponents.
+The drake lashes its muscular tail to knock opponents back, knock weapons from their hands, or deliver a crushing blow; the tail can also be used as a grappling weapon to entangle or throw smaller opponents.
 
 ## Special Abilities
 
 ### Gliding Master
 
-The Mountain Drake can leap from high ledges and glide considerable distances, allowing it to travel quickly across mountainous terrain or dive onto prey from unexpected angles; this grants bonuses to surprise attacks and allows the drake to reach terrain that non-flying creatures cannot.
+The Mountain Drake can leap from high ledges and glide considerable distances, allowing it to travel quickly across mountainous terrain or dive onto prey from unexpected angles; so it strikes with surprise more often than not, and it can to reach terrain that non-flying creatures cannot.
 
 ### Environmental Exploitation
 
-Within its chosen territory, the drake can trigger small avalanches, dislodge boulders, or cause rockfalls to damage opponents or obstruct movement; these environmental attacks can inflict significant area damage and may cause opponents to be buried or trapped.
+Within its chosen territory, the drake can trigger small avalanches, dislodge boulders, or cause rockfalls to injure opponents or obstruct movement; a rockfall strikes everyone beneath it and may leave opponents buried or trapped.
 
 ### Mountain Camouflage
 
-The drake's coloration provides excellent concealment in rocky terrain, and it gains bonuses to stealth checks in mountainous environments.
+The drake's coloration provides excellent concealment in rocky terrain, and it is very hard to spot when it keeps still among mountain rock.
 
 ## Attributes
 
