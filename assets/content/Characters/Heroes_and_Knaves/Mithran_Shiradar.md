@@ -624,7 +624,7 @@ Mithran is driven by a single, all-consuming purpose: the survival and dominance
 ### Enemies
 
 - **Kethrak the Challenger**: A rival chieftain from the neighboring Valdun tribes who has been systematically consolidating power and openly positioning himself as a future threat to Mithran's dominion. The two have never directly fought, but each respects the other's capabilities and recognizes that conflict is eventually inevitable.
-- **The Imperial Garrison at Northmarch**: The military outpost maintains nominal peace with the Dunhara, but recent commanders have proven hostile to tribal interests, leading to multiple border skirmishes and failed negotiations.
+- **The Imperial Garrison at [[place-khstmhttrgn|Khaset-Mehtet]]**: The military outpost maintains nominal peace with the Dunhara, but recent commanders have proven hostile to tribal interests, leading to multiple border skirmishes and failed negotiations.
 - **Estheva, the Returning Son**: Mithran's youngest son, once considered his heir, abandoned tribal life twenty years ago to live among the settled kingdoms. He has recently returned with outsider ideas about governance and change, threatening Mithran's traditionalist authority.
 
 ### Affiliations

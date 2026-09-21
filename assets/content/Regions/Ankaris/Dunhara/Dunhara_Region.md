@@ -16,6 +16,12 @@ data:
     - humanflk
   parents:
     - ankrscntnnt
+  # borders:
+  #   - { to: khzryndsrtrgn, bearing: NE }
+  #   - { to: vedyarargn, bearing: SE }
+  #   - { to: takheperurgn, bearing: SW }
+  #   - { to: khstmhttrgn, bearing: SW }
+  #   - { to: vylarianse, bearing: W }
   population: null
 terran_analog: "Jordan, Sinai, the Arabian Peninsula, Iraq, Iran, Turkmenistan, Afghanistan, and Pakistan — the Persian-and-Arabian world. The Sultanate of Amradad occupies the Anatolian-Caucasian northwestern corner; the rest of the region is Bedouin tribal desert through Persianate plateau and Pashtun-Baloch frontier."
 packFolder: dunhara
@@ -31,7 +37,7 @@ The Dunhara stretches south and east from the arid scrublands of the Haradian hi
 
 The climate is brutal. Summer daytime temperatures can be lethal within hours; winter nights drop far below freezing; windstorms can bury a camp or scour paint from a merchant's chests in minutes. The southern reaches see almost no rain at all; the northern margin — bordering Harad — receives a thin winter rain that supports dryland pastoralism and a narrow belt of seasonal grass.
 
-The desert borders the [[place-khzryndsrtrgn|Khazryn Desert]] to the north and east (the two regions shade into one another along a long, ill-defined frontier), the [[affiliation-cnfdrtnhrdnstts|Haradian States]] to the northwest, and the lands of [[place-vedyarargn|Vedyara]] to the southeast. To the southwest lies the vast region of [[place-takheperurgn|Ta'Kheperu]], a constant source of both commerce and conflict.
+The desert borders the [[place-khzryndsrtrgn|Khazryn Desert]] to the north and east (the two regions shade into one another along a long, ill-defined frontier), the [[affiliation-cnfdrtnhrdnstts|Haradian States]] to the northwest, and the lands of [[place-vedyarargn|Vedyara]] to the southeast. To the southwest and west lies the vast region of [[place-takheperurgn|Ta'Kheperu]], a constant source of both commerce and conflict; between the two lies [[place-khstmhttrgn|Khaset-Mehtet]], the disputed desert-march the empire garrisons and the western clans contest.
 
 ## Peoples and Culture
 
@@ -75,7 +81,7 @@ To the **north and east** lies the [[place-khzryndsrtrgn|Khazryn Desert]]. The t
 
 To the **southeast** lie the lands of [[place-vedyarargn|Vedyara]]. Relations are commercial and cautious; the civilizational differences are greater than with Harad or the Khazryn, but centuries of caravan-trade have built up mutual respect and a practical working understanding.
 
-To the **southwest**, across the [[place-vylarianse|Vylarian Sea]], lies [[place-xerathia|Xerathia]] and especially [[affiliation-empirtkhpr|Ta'Kheperu]]. Direct contact is sparse but ancient; where it exists, it is mediated primarily through Haradi and Ta'Kheperian maritime merchants.
+To the **southwest and west** lies [[place-xerathia|Xerathia]] and especially [[affiliation-empirtkhpr|Ta'Kheperu]], met by land across [[place-khstmhttrgn|Khaset-Mehtet]], the desert-march the empire garrisons between them. Direct contact is ancient and constant — caravan-tolls, well-disputes and skirmishes at the march, and a sea-borne trade mediated through Haradi and Ta'Kheperian maritime merchants on the [[place-vylarianse|Vylarian Sea]] to the west.
 
 ## See Also
 
