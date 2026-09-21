@@ -601,7 +601,7 @@ Véldor stands 5'9" tall with a medium build. He has light fair skin, dark brown
 
 ### Early Life
 
-Véldor was born into modest means in the bustling streets of Élavendre's theatrical quarter, the son of a silk merchant and a chambermaid who possessed a voice of startling clarity. His mother's love of song became his earliest education, filling his childhood with melody and story. By age seven, he had already begun performing in the street pageants that drew crowds during the Festival of Vénusia, his precocious talent earning coins and admiration in equal measure. His father, initially skeptical of such frivolous pursuits, came to recognize his son's gift during a spring performance that moved the lord mayor himself to tears.
+Véldor was born into modest means in the bustling streets of [[place-elavendre|Élavendre]]'s theatrical quarter, the son of a silk merchant and a chambermaid who possessed a voice of startling clarity. His mother's love of song became his earliest education, filling his childhood with melody and story. By age seven, he had already begun performing in the street pageants that drew crowds during the Festival of Vénusia, his precocious talent earning coins and admiration in equal measure. His father, initially skeptical of such frivolous pursuits, came to recognize his son's gift during a spring performance that moved the lord mayor himself to tears.
 
 ### Training and Ascendance
 

@@ -553,11 +553,11 @@ sohl:
 
 ![[thrwldhldskrn|Thráwald Hildskorn]]{float: top-left}
 
-Thráwald Hildskorn is the largest man in Dágulf's gang and looks every year of the hard life he has led. He is tall and thick-bodied, with slablike shoulders and a barrel chest gone slightly soft around the middle. His graying brown hair is cropped close to the skull, and his broad, weathered face has been rearranged by violence — his nose has been broken so many times it sits crooked and flat, and two fingers are missing from his left hand, lost to a Vylarian soldier's sword years ago. His brown eyes are dull and watchful, set deep beneath a heavy brow. He moves with a lumbering deliberateness that belies surprising quickness when the axe comes out. He wears a padded shirt under a scarred leather vest, rawhide cap, and heavy boots, and carries a battered battleaxe that he handles with grim familiarity.
+Thráwald Hildskorn is the largest man in Dágulf's gang and looks every year of the hard life he has led. He is tall and thick-bodied, with slablike shoulders and a barrel chest gone slightly soft around the middle. His graying brown hair is cropped close to the skull, and his broad, weathered face has been rearranged by violence — his nose has been broken so many times it sits crooked and flat, and two fingers are missing from his left hand, lost to a [[affiliation-vylarinmpr|Vylarian]] soldier's sword years ago. His brown eyes are dull and watchful, set deep beneath a heavy brow. He moves with a lumbering deliberateness that belies surprising quickness when the axe comes out. He wears a padded shirt under a scarred leather vest, rawhide cap, and heavy boots, and carries a battered battleaxe that he handles with grim familiarity.
 
 # Dossier {#dossier}
 
-Thráwald was born into the Hildskorn clan, a minor Varokh family of shepherds and woodcutters in the deep pine country of Vrystwald. He was always big — big enough that the Vylarian garrison conscripted him at sixteen to serve as labor on a border fortification. He spent three years hauling stone and timber, learned to hate the empire with a pure and uncomplicated fury, and deserted the first winter the garrison was short-handed enough to let discipline slip.
+Thráwald was born into the Hildskorn clan, a minor Varokh family of shepherds and woodcutters in the deep pine country of [[place-vrystwald|Vrystwald]]. He was always big — big enough that the Vylarian garrison conscripted him at sixteen to serve as labor on a border fortification. He spent three years hauling stone and timber, learned to hate the empire with a pure and uncomplicated fury, and deserted the first winter the garrison was short-handed enough to let discipline slip.
 
 He drifted for years after that, hiring on as muscle for petty traders and cattle thieves. He killed his first man in a drunken brawl over a gambling debt and discovered he felt nothing about it. That emptiness defined his career. He joined Dágulf's band five years ago, when his previous gang was broken up by a Vylarian patrol — he was the only one who escaped, and only because he was relieving himself in the woods when the soldiers struck. He is now the longest-serving member of the Blackpine Wolves after Dágulf himself, and the closest thing the gang has to a second-in-command, though Dágulf trusts no one with real authority.
 
@@ -583,7 +583,7 @@ His strength and toughness are genuine assets in a fight. He is also remarkably 
 
 ## Companions
 
-Dágulf Véthar's gang, the Blackpine Wolves. He is nominally second-in-command by seniority and size, though Dágulf does not formally delegate authority.
+[[being-dagulfvthr|Dágulf Véthar]]'s gang, the Blackpine Wolves. He is nominally second-in-command by seniority and size, though Dágulf does not formally delegate authority.
 
 ### Patrons
 

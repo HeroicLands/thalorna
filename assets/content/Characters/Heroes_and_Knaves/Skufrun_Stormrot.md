@@ -603,7 +603,7 @@ Skúfrún stands 5'7" tall with a light build. She has pale fair skin, blonde ha
 
 # Dossier {#dossier}
 
-**Skúfrún** was born in the Kingdom of Malagna to **Vigram Stormrót**, a skilled tentmaker of considerable reputation, and **Ashjora**, a woman known for her excellence in textile dying and pattern design. From infancy, she was surrounded by fabrics, dyes, and the rhythmic sounds of looms and needles. Where her father **Vigram** was practical—designing tents to withstand mountain gales and desert heat—her mother **Ashjora** was artistic, creating patterns that made functional items beautiful.
+**Skúfrún** was born in the [[affiliation-kingdomlgn|Kingdom of Malagna]] to **Vigram Stormrót**, a skilled tentmaker of considerable reputation, and **Ashjora**, a woman known for her excellence in textile dying and pattern design. From infancy, she was surrounded by fabrics, dyes, and the rhythmic sounds of looms and needles. Where her father **Vigram** was practical—designing tents to withstand mountain gales and desert heat—her mother **Ashjora** was artistic, creating patterns that made functional items beautiful.
 
 **Skúfrún** inherited gifts from both parents, but early on demonstrated her mother's inclination toward artistry over pure function. She trained first under her father, learning structure and practical construction, but spent her true passion studying under her mother, discovering the secrets of dyes and the possibilities of decorative design. At twenty-four, **Vigram** retired due to arthritis in his hands and left the shop to **Skúfrún** on the condition that she maintain both their family's traditions—functional excellence and artistic beauty.
 

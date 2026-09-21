@@ -646,7 +646,7 @@ Sekhemet Ka'sekhen was born to a family of modest merchants with shipping intere
 
 She earned her pilot's marks at an unusually young age and quickly became known for her reliability, her ability to deliver cargo intact and on schedule despite the treacherous river and coastal routes she navigated. Seven years ago, a catastrophic accident—still shrouded in some mystery—damaged her vessel and nearly killed her, resulting in the scar that marks her body. She recovered her confidence, though not without struggle, and has since earned a reputation as one of the most dependable pilots in the entire Empire, commanding premium rates from merchants who value certainty above price.
 
-She answers to no single master, instead maintaining relationships with dozens of merchants and trading houses who know they can depend on her. This independence has become both her greatest asset and her defining characteristic. Her devotion to Hâpi, the god of prosperity and the Iteru's abundance, reflects her philosophy: success comes from understanding flows, redirecting currents wisely, and maintaining balance in all things.
+She answers to no single master, instead maintaining relationships with dozens of merchants and trading houses who know they can depend on her. This independence has become both her greatest asset and her defining characteristic. Her devotion to [[lore-hapidty|Hâpi]], the god of prosperity and the Iteru's abundance, reflects her philosophy: success comes from understanding flows, redirecting currents wisely, and maintaining balance in all things.
 
 ## Psyche
 

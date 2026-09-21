@@ -606,7 +606,7 @@ Suvaratika stands 5'6" tall with a light build. She has warm bronze skin, deep b
 
 ### The Child of the Craftsmith Quarter
 
-Suvaratika was born in the Craftsmith Quarter of Vedyara's largest city-state to parents both devoted to artisanship—her father a woodworker and her mother a textile artist. From earliest childhood, she was surrounded by the sounds and smells of creation: wood shavings, paint solvents, the crackle of dying fabric dyes. Rather than view this as constraint, she embraced it as the natural order of existence. By age six, she was sketching designs. By twelve, she was creating toys under her father's guidance.
+Suvaratika was born in the Craftsmith Quarter of [[place-vedyarargn|Vedyara]]'s largest city-state to parents both devoted to artisanship—her father a woodworker and her mother a textile artist. From earliest childhood, she was surrounded by the sounds and smells of creation: wood shavings, paint solvents, the crackle of dying fabric dyes. Rather than view this as constraint, she embraced it as the natural order of existence. By age six, she was sketching designs. By twelve, she was creating toys under her father's guidance.
 
 ### The Tragedy and Transformation
 
@@ -624,7 +624,7 @@ Yet her success remains modest by the standards of larger merchants, and she has
 
 Suvaratika is a woman of few words and profound creative vision. She speaks only when she has something to communicate, and her thoughts tend toward the abstract and philosophical. She is fascinated by the psychology of play, the relationship between form and function, and the ways in which objects can encode meaning and wisdom for those perceptive enough to receive it. She has a gentle sense of humor, often making dry observations about the ironies of her work—how the most valuable toys are often the simplest, how children often prefer boxes to the elaborate toys within them.
 
-She is spiritual in a personal way, devoted to Meghanātha, the storm-goddess, viewing the chaotic power of storms as metaphor for the creative force that flows through her work. She views her toys not as commercial products but as offerings—small pieces of intentional beauty released into the world to inspire wonder in those who receive them.
+She is spiritual in a personal way, devoted to [[lore-meghanathadty|Meghanātha]], the storm-goddess, viewing the chaotic power of storms as metaphor for the creative force that flows through her work. She views her toys not as commercial products but as offerings—small pieces of intentional beauty released into the world to inspire wonder in those who receive them.
 
 ### Motivation
 
