@@ -550,41 +550,39 @@ sohl:
 
 # Appearance {#appearance}
 
-Frýsala Válskyr is a 42-year-old woman who stands 5'10" tall and is of moderate build. She has a heart-shaped face with wide-set cheekbones, a smooth forehead, and an angular jaw that leads to a strong chin. Her hooded hazel eyes sit beneath thin brows, lending her a guarded gaze. A delicate nose and expressive lips complete her features. She has fair skin with a clear complexion. Her chestnut hair is pinned in an elegant twist.
+Frýsala Válskyr is a 42-year-old woman who stands 5'10" tall and is of moderate build. She has a heart-shaped face with wide-set cheekbones, a smooth forehead, and an angular jaw that leads to a strong chin. Her hooded hazel eyes sit beneath thin brows and give her a guarded gaze. She has a delicate nose and expressive lips. She has fair skin with a clear complexion. Her chestnut hair is pinned in an elegant twist.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a noble family of Provenzian heritage, Frýsala Válskyr came into the world of the chieftain through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provènzia]] region to a noble family of Provenzian heritage, Frýsala Válskyr is a chieftain.
 
-Frýsala became chieftain after her father's death in battle, leading her clan with a mix of tradition and innovation. Known for her strategic mind, she has strengthened her tribe's alliances and fortified their lands. Though some elders question her methods, Frýsala's victories against raiders have earned her respect.
+Frýsala became chieftain after her father's death in battle, and leads her clan by tradition where it serves and by her own methods where it does not. Known for her planning, she has strengthened her tribe's alliances and fortified their lands. Though some elders question her methods, her victories against raiders have won her respect.
 
-Now at 42 years of age, Frýsala Válskyr has established herself as a known figure among the chieftains of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 42 years of age, she is a known figure among the chieftains of Provènzia.
 
 ## Psyche
 
 ### Personality
 
-Distrusted by some elders who view her as too unorthodox.
+She is distrusted by some elders who view her as too unorthodox.
 
 ### Motivation
 
-Frýsala is driven by the desire to master her craft and secure a stable future. The uncertainties of life in chieftain work keep her vigilant and adaptable.
+Frýsala wants to hold her clan's lands and alliances against the raiders and against the elders who doubt her.
 
 ### Strengths
 
-Strategic thinker, skilled at forming alliances, capable warrior.
+She is a planner, skilled at forming alliances, and a capable warrior.
 
 ## Social
 
-Frýsala is affiliated with Tribal Council.
-
-As a Provenzian chieftain, Frýsala occupies a recognized social niche within Provènzia society.
+Frýsala belongs to the Tribal Council.
 
 ## Companions
 
 ### Patrons
 
-Frýsala's primary patron is Clan warriors and young leaders who support her rule.. This relationship provides both opportunity and obligation.
+Frýsala's patrons are the clan warriors and young leaders who support her rule.
 
 ### Enemies
 
@@ -592,12 +590,12 @@ Neighboring clan leaders threatened by her growing power.
 
 ## Plot Hooks
 
-1. **The Chieftain's Dilemma** — Frýsala faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
+1. **The Chieftain's Dilemma** — A raid forces Frýsala to choose between the elders' way and her own, with her clan's survival in the balance.
 
-2. **Old Grudges** — Neighboring clan leaders threatened by her growing power. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A neighboring chieftain threatened by her growing power stops waiting for her to fail.
 
-3. **Echoes of the Past** — Something from Frýsala's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** — Something from the battle that killed her father resurfaces, and the clan looks to Frýsala to settle it.
 
-4. **Shifting Winds** — Political changes in Provènzia threaten to upend the social order that Frýsala depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Provènzia threatens the standing Frýsala's clan depends upon, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Frýsala the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — An alliance is offered to Frýsala on terms beyond anything she has hoped for, and its price is not named up front.
