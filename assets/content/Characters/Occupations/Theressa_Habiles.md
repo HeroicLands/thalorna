@@ -550,54 +550,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Thêrèssa Hàbîlês is a 34-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with high cheekbones, a lined forehead, and a strong jaw that leads to a strong chin. Her deep-set blue eyes sit beneath straight brows, lending her a watchful gaze. A strong nose and curved lips complete her features. She has olive-tanned skin with a clear complexion. Her brown hair is pinned in an elegant twist.
+Thêrèssa Hàbîlês is a 34-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with high cheekbones, a lined forehead, and a strong jaw that leads to a strong chin. Her deep-set blue eyes sit beneath straight brows and give her a watchful gaze. She has a strong nose and curved lips. She has olive-tanned skin with a clear complexion. Her brown hair is pinned in an elegant twist.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Thêrèssa Hàbîlês came into the world of the prostitute through a combination of circumstance and aptitude.
+Thêrèssa Hàbîlês is a widow of Therádon, in [[place-helionis|Heliónis]], who keeps herself and her two young children by prostitution. She is Helionite freeborn, of a family of no standing, and was widowed young.
 
-Thêrèssa is a poor widow with two young children, struggling to make ends meet after the death of her husband. With few options available to her, she has turned to prostitution as a means of survival. Though she is weary and feels trapped in her situation, Thêrèssa is fiercely protective of her children and works hard to provide for them. She hopes for a better future and dreams of finding a way out of her circumstances.
-
-Now at 34 years of age, Thêrèssa Hàbîlês has established herself as a known figure among the prostitutes of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
+The city has an honoured place for women who sell their company: the hetairai, trained at the Academy of the Silver Veil and kept by the wealthy. Thêrèssa is not one of them. She took to the trade in the year after her husband's death, when the alternatives were beggary or her husband's kin in the countryside, who offered to take the children and not her. She works from rented rooms below the market ward, takes the students and lesser citizens the hetairai do not, and is careful, sober and kind to the men who come to her. She is tired, and ashamed of the work in a city with strong opinions about proper living.
 
 ## Psyche
 
 ### Personality
 
-Can be overly self-sacrificing, struggles with feelings of shame.
+Thêrèssa is warm, patient and watchful, and gives more than she can afford to anyone who seems to need it.
 
 ### Motivation
 
-Thêrèssa is driven by the desire to master her craft and secure a stable future. The uncertainties of life in prostitute work keep her vigilant and adaptable.
+Thêrèssa wants her children fed, clothed and clear of the trade that feeds them. Behind that is a smaller, fiercer hope of a way out for herself — a household to serve in, a shop to keep, anything that is not this.
 
 ### Strengths
 
-Resilient, nurturing, good at managing her limited resources.
+Resilient, nurturing, good at making a little money go a long way.
 
 ## Social
 
-Thêrèssa is affiliated with None; works independently..
-
-As a Helionite prostitute, Thêrèssa occupies a recognized social niche within Heliónis society.
+Thêrèssa belongs to no guild or house and works independently.
 
 ## Companions
 
 ### Patrons
 
-Thêrèssa's primary patron is Men seeking companionship; she offers warmth and kindness.. This relationship provides both opportunity and obligation.
+Thêrèssa's patrons are the men who come to her rooms — students, clerks, minor tradesmen — and she offers them warmth and kindness as much as anything else. Two or three of the older ones pay for an evening's talk and a meal.
 
 ### Enemies
 
-Few; generally sympathetic, though some may look down on her.
+The decency officers of the market ward, who are paid to leave her alone and may stop being paid; and her late husband's kin, who would take the children if the assembly gave them the chance.
 
 ## Plot Hooks
 
-1. **The Prostitute's Dilemma** — Thêrèssa faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
+1. **A Place in a Household** — A hetaira of the Silver Veil has offered Thêrèssa a place as housekeeper: honest work, a roof for the children, and a mistress whose own trade is the one Thêrèssa is trying to leave.
 
-2. **Old Grudges** — Few; generally sympathetic, though some may look down on her. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Kin** — Her husband's brother has petitioned the assembly for custody of the children, on the grounds of their mother's trade. Thêrèssa has no one to speak for her.
 
-3. **Echoes of the Past** — Something from Thêrèssa's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **A Regular** — One of the men who pays for her evenings has begun to talk of marriage, and of the children as his. He is kind, he has a wife and household already in another city, and Thêrèssa has begun to suspect it.
 
-4. **Shifting Winds** — Political changes in Heliónis threaten to upend the social order that Thêrèssa depends upon. She must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Thêrèssa the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+4. **The Purge** — The assembly has resolved to clear the market ward of vice before a festival. The decency officers have a list, Thêrèssa is on it, and the fine is more than a year's rent.

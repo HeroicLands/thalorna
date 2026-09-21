@@ -550,25 +550,25 @@ sohl:
 
 # Appearance {#appearance}
 
-Jörundr Frostulf is a 51-year-old man who stands 6'0" tall and is broad and solidly built. He has a broad face with soft cheekbones, a narrow forehead, and a strong jaw that leads to a broad chin. His round green eyes sit beneath heavy brows, lending him a candid gaze. A strong nose and narrow lips complete his features. He has fair skin with a fair complexion. His white hair is thick and unkempt.
+Jörundr Frostulf is a 51-year-old man who stands 6'0" tall and is broad and solidly built. He has a broad face with soft cheekbones, a narrow forehead, and a strong jaw that leads to a broad chin. His round green eyes sit beneath heavy brows and give him a candid gaze. He has a strong nose and narrow lips. He has fair skin with a fair complexion. His white hair is thick and unkempt.
 
 # Dossier {#dossier}
 
-Born in the [[affiliation-kngdmnrdhm|Nordheim]] region to a freeman family of Nordheimn heritage, Jörundr Frostulf came into the world of the jailer through a combination of circumstance and aptitude.
+Jörundr Frostulf is head gaoler of the king's prison at Thrymstead, the seat of [[affiliation-kngdmnrdhm|Nordheim]], a Nordman freeman who has spent thirty years inside its walls and now runs them.
 
-Jörundr has been a jailer for most of his life, working his way up from a guard to the head of security in a notorious city prison. Known for his stern but fair approach, Jörundr has seen it all over the years and is not easily shaken. He is well respected by his colleagues, though his strict adherence to rules sometimes causes friction. Jörundr is committed to ensuring the safety of both the staff and inmates.
+Jörundr came to the prison as a young guard because the watch was hiring and the fjord was not. The prison holds men awaiting the king's judgment, men held for ransom between clans, and men whose kin outside would kill them given an hour's opportunity. His answer to all of it is the rules. Every man inside is fed the same, locked the same and treated the same, whatever his clan or his jarl, and every guard under him keeps to the same book or leaves. It is not a popular way to run a prison in a country where a jarl expects to be obliged, and it has kept the feuds of Nordheim outside the walls.
 
-Now at 51 years of age, Jörundr Frostulf has established himself as a known figure among the jailers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
+He is a known figure among the gaolers of Nordheim.
 
 ## Psyche
 
 ### Personality
 
-Stubborn adherence to rules, slow to adapt to new methods.
+Jörundr is stern, fair and immovable, and takes any suggestion that he bend the rules as an insult, which it usually is.
 
 ### Motivation
 
-Jörundr is driven by the desire to master his craft and secure a stable future. The uncertainties of life in jailer work keep him vigilant and adaptable.
+Jörundr wants order inside his walls — the staff safe, the prisoners alive, the feuds outside — and he holds that the rules, kept for everyone, are the only thing that delivers it.
 
 ### Strengths
 
@@ -576,28 +576,24 @@ Experienced, authoritative, strong sense of duty.
 
 ## Social
 
-Jörundr is affiliated with City Watch.
-
-As a Nordheimn jailer, Jörundr occupies a recognized social niche within Nordheim society.
+Jörundr holds his post under the City Watch of Thrymstead and answers to the king's reeve.
 
 ## Companions
 
 ### Patrons
 
-Jörundr's primary patron is Senior prison officials who trust his judgment.. This relationship provides both opportunity and obligation.
+Jörundr's patrons are the king's reeve at Thrymstead and the senior officers of the Watch, who trust his judgment because it has never once been bought.
 
 ### Enemies
 
-Some inmates who have crossed paths with him more than once.
+Inmates who have been through his hands more than once; and a jarl of the fjord whose kinsman Jörundr will not release before the king has heard the case, whatever the jarl offers.
 
 ## Plot Hooks
 
-1. **The Jailer's Dilemma** — Jörundr faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
+1. **The Jarl's Kinsman** — A jarl's nephew is inside for a killing, his clan is outside demanding him, and the dead man's clan is outside demanding him too. Jörundr will give him to nobody but the king.
 
-2. **Old Grudges** — Some inmates who have crossed paths with him more than once. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **New Methods** — The reeve has appointed a younger warden over the prison, a man with ideas about informers and separate cells, and told Jörundr to work under him.
 
-3. **Echoes of the Past** — Something from Jörundr's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **The Freed Man** — A prisoner Jörundr held for five years and treated exactly like everyone else has come back to Thrymstead a rich man, and has asked to see him. He has not said why.
 
-4. **Shifting Winds** — Political changes in Nordheim threaten to upend the social order that Jörundr depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Jörundr the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **The Ting** — With the clans assembled for the ting, a purse has reached Jörundr through his own steward: an hour's carelessness with one door on one night. He has not touched it and he knows which of his guards it came through.

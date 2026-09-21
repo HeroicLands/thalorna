@@ -551,54 +551,50 @@ sohl:
 
 # Appearance {#appearance}
 
-Rimmârû Ushûrî is a 30-year-old woman who stands 5'11" tall and is slender. She has a long face with broad cheekbones, a smooth forehead, and an angular jaw that leads to a strong chin. Her large hazel eyes sit beneath straight brows, lending her an expressive gaze. A prominent nose and curved lips complete her features. She has olive skin with a sun-kissed complexion. Her dark brown hair is braided and coiled at the nape.
+Rimmârû Ushûrî is a 30-year-old woman who stands 5'11" tall and is slender. She has a long face with broad cheekbones, a smooth forehead, and an angular jaw that leads to a strong chin. Her large hazel eyes sit beneath straight brows and give her an expressive gaze. She has a prominent nose and curved lips. She has olive skin with a sun-kissed complexion. Her dark brown hair is braided and coiled at the nape.
 
 # Dossier {#dossier}
 
-Born in the [[place-haradregin|Harad]] region to a noble family of Haradian heritage, Rimmârû Ushûrî came into the world of the perfumer through a combination of circumstance and aptitude.
+Rimmârû Ushûrî is a perfumer of Míravel, in [[place-haradregin|Harad]], born to a Haradian family of old standing whose money is mostly gone and whose perfume shop on the market square is what remains of it.
 
-Rimmârû is a talented perfumer known for her exquisite fragrances. She inherited her family's perfume shop in the bustling marketplace, where she creates signature scents using rare and exotic ingredients. Rimmârû has a refined sense of smell and a passion for blending aromas, often experimenting with new combinations to craft unique perfumes. She enjoys hosting scent workshops to share her knowledge with aspiring perfumers and enthusiasts.
+Rimmârû grew up in the shop's back room among the stills and the oils. She has the finest nose in Míravel and spends her days blending — attar of rose from the inland valleys, resins off the Kheperi ships, ambergris when the corsairs have some — in combinations nobody has tried. The guild families of Míravel come to her for scents made for one wearer. What she does not do is keep the books: her guild dues are late, her suppliers are paid when she remembers, and the shop lives on the reputation of the scents. She teaches anyone with a nose who asks.
 
-Now at 30 years of age, Rimmârû Ushûrî has established herself as a known figure among the perfumers of Harad. Her reputation, for better or worse, precedes her in the circles where such things matter.
+She is a known figure among the perfumers of Harad.
 
 ## Psyche
 
 ### Personality
 
-Can be overly critical of her work, struggles with the business side of her craft.
+Rimmârû is absorbed, generous and hard on her own work; a scent she has spent a month on she will call a failure over one note.
 
 ### Motivation
 
-Rimmârû is driven by the desire to master her craft and secure a stable future. The uncertainties of life in perfumer work keep her vigilant and adaptable.
+Rimmârû wants to make scents nobody has made before, and to teach what she knows to anyone who cares to learn it. Keeping the shop solvent is a means to those ends and she treats it as one.
 
 ### Strengths
 
-Highly creative, skilled in fragrance blending, excellent communicator.
+Highly creative, skilled in fragrance blending, a patient teacher.
 
 ## Social
 
-Rimmârû is affiliated with Local Artisans' Guild.
-
-As a Haradian perfumer, Rimmârû occupies a recognized social niche within Harad society.
+Rimmârû holds her licence from the perfumers' guild of Míravel, under the guild-wardens, and is a term behind on her dues.
 
 ## Companions
 
 ### Patrons
 
-Rimmârû's primary patron is Nobles and affluent clients seeking bespoke perfumes.. This relationship provides both opportunity and obligation.
+Rimmârû's patrons are the guild families of Míravel, who commission scents made for one wearer and pay well for the exclusivity.
 
 ### Enemies
 
-Few; respected in her field, though some competitors may envy her success.
+A rival house on the same square, better run and less gifted, which would like her formulas, her lease and her clients, in that order, and has begun to inquire about her dues.
 
 ## Plot Hooks
 
-1. **The Perfumer's Dilemma** — Rimmârû faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Harad.
+1. **The Dues** — The guild has given Rimmârû a term to pay what she owes or surrender her licence. The rival house has offered to pay it for her, in exchange for a partnership that would give them her formulas.
 
-2. **Old Grudges** — Few; respected in her field, though some competitors may envy her success. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **One Wearer Only** — A guild family has commissioned a signature scent and wants Rimmârû's oath that no one else will ever wear it. A second family has asked for the same scent, having smelled it at a wedding, and will pay more.
 
-3. **Echoes of the Past** — Something from Rimmârû's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **A Pupil's Bottle** — A scent from Rimmârû's back room is being sold under another name across the square. One of the apprentices she taught for nothing wrote the formula down.
 
-4. **Shifting Winds** — Political changes in Harad threaten to upend the social order that Rimmârû depends upon. She must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Rimmârû the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+4. **Past the Customs House** — A consignment of ambergris has reached Rimmârû without passing the guild customs house, and the corsair who brought it wants a favour rather than money.

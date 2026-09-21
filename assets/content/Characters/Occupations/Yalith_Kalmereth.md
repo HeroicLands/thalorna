@@ -552,54 +552,50 @@ sohl:
 
 # Appearance {#appearance}
 
-Yálith Kálmereth is a 33-year-old woman who stands 5'8" tall and is of moderate build. She has a diamond face with broad cheekbones, a high forehead, and an angular jaw that leads to a firm chin. Her bright gray eyes sit beneath expressive brows, lending her a lively gaze. A delicate nose and wide lips complete her features. She has light skin with a lightly freckled complexion. Her white hair is flowing past her shoulders.
+Yálith Kálmereth is a 33-year-old woman who stands 5'8" tall and is of moderate build. She has a diamond face with broad cheekbones, a high forehead, and an angular jaw that leads to a firm chin. Her bright gray eyes sit beneath expressive brows and give her a lively gaze. She has a delicate nose and wide lips. She has light skin with a lightly freckled complexion. Her white hair is flowing past her shoulders.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Yálith Kálmereth came into the world of the bard through a combination of circumstance and aptitude.
+Yálith Kálmereth is a travelling bard of [[place-elavendre|Élavendre]], born at Liranel to an Élavendri family of performers, who sings the ballads of the common folk from village to village and comes home to the timber town only between roads.
 
-Yálith earned the name "Kálmereth" for her clear, melodic voice. She grew up in a family of performers and chose the life of a bard, traveling from village to village. Yálith is known for her ballads of love and loss, which resonate with the common folk. Though she has performed for nobility, she prefers the freedom of the open road. Her music reflects the joys and hardships of life.
+Yálith was given the name "Kálmereth" for the clarity of her voice, and has kept it. Her own songs are ballads of love and loss, and Liranel gave her a subject: it is the town where people hire guides into the old wood, and where some families wait for someone who does not come back. She has sung in noble halls and been well paid there, and she has never stayed; the formalities of court sit badly on her and she says so.
 
-Now at 33 years of age, Yálith Kálmereth has established herself as a known figure among the bards of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
+She is a known figure among the bards of Élavendre.
 
 ## Psyche
 
 ### Personality
 
-Struggles with the formalities of court life, hesitant to settle in one place.
+Yálith is warm, quick to laugh and quick to weep, and restless within a week of arriving anywhere.
 
 ### Motivation
 
-Yálith is driven by the desire to master her craft and secure a stable future. The uncertainties of life in bard work keep her vigilant and adaptable.
+Yálith wants the open road and an audience that has lived what she sings about. A settled place at a lord's table would pay better, and she has turned it down more than once.
 
 ### Strengths
 
-Skilled singer, emotionally expressive, connects with common people.
+Skilled singer, emotionally expressive, at ease with common people.
 
 ## Social
 
-Yálith is affiliated with Minstrels' Guild.
-
-As a Élavendri bard, Yálith occupies a recognized social niche within Élavendre society.
+Yálith belongs to the Minstrels' Guild, which gives her the right to sing for pay in any Élavendri market.
 
 ## Companions
 
 ### Patrons
 
-Yálith's primary patron is Villagers and small-town lords who value her heartfelt songs.. This relationship provides both opportunity and obligation.
+Yálith's patrons are the villagers and small-town lords of the forest belt, who pay in coin, meals and beds for songs about their own lives.
 
 ### Enemies
 
-Few, though some court bards view her as a simple minstrel.
+The court bards of Élavendre, who call her a simple minstrel because she sings for farmers and because the farmers prefer her.
 
 ## Plot Hooks
 
-1. **The Bard's Dilemma** — Yálith faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **A Hall for Good** — A lord of the Glanmor country has offered Yálith a permanent place in his household, on condition that she stops travelling. She has said no twice and he has begun asking why.
 
-2. **Old Grudges** — Few, though some court bards view her as a simple minstrel. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Stolen Lament** — A court bard has performed one of Yálith's laments as his own before the Crown, and it has made his name. The guild will hear a complaint only if she can prove authorship of a song she never wrote down.
 
-3. **Echoes of the Past** — Something from Yálith's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **The One Who Came Back** — A family that paid Yálith to sing a lament for a guide lost in the wood has had him walk into their house, years later, claiming no time has passed. They want a different song now.
 
-4. **Shifting Winds** — Political changes in Élavendre threaten to upend the social order that Yálith depends upon. She must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Yálith the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+4. **A Song the Guides Dislike** — Yálith's newest ballad says plainly which of Liranel's guides work for the Crown. It is popular, it is accurate, and the Crown's guides have asked her, courteously, to drop it.

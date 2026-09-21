@@ -550,54 +550,50 @@ sohl:
 
 # Appearance {#appearance}
 
-Dékêla Bàremzâtês is a 32-year-old woman who stands 5'11" tall and is of moderate build. She has an angular face with prominent cheekbones, a broad forehead, and an angular jaw that leads to a strong chin. Her piercing brown eyes sit beneath heavy brows, lending her a penetrating gaze. A hawkish nose and wide lips complete her features. She has olive skin with a ruddy complexion. Her auburn hair is swept up and held with carved combs.
+Dékêla Bàremzâtês is a 32-year-old woman who stands 5'11" tall and is of moderate build. She has an angular face with prominent cheekbones, a broad forehead, and an angular jaw that leads to a strong chin. Her piercing brown eyes sit beneath heavy brows and give her a penetrating gaze. She has a hawkish nose and wide lips. She has olive skin with a ruddy complexion. Her auburn hair is swept up and held with carved combs.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Dékêla Bàremzâtês came into the world of the potter through a combination of circumstance and aptitude.
+Dékêla Bàremzâtês is a potter of Aelissium, the trade city of [[place-vylariargn|Vylaría]], a Vylarian freewoman who was raised at her parents' wheel and now keeps their shop.
 
-Dékêla has been a potter since she was a child, learning the craft from her parents who owned a small pottery shop. Known for her unique designs and attention to detail, she specializes in creating functional pottery with intricate patterns. Dékêla takes pride in her work and often participates in local markets and fairs to showcase her creations. She enjoys experimenting with different glazes and techniques to develop her style.
+Dékêla learned to throw at the wheel of a shop off the market where her parents made plain crockery for the households of Aelissium. By the time the shop came to her she had gone somewhere her parents never went: patterned ware, bowls and jars and lamps with designs worked into the slip, and glazes she has spent years arriving at — a green that holds its colour through the kiln, a blue that came out of a season of failures. She is never satisfied with any of it. What she cannot do is sell. She takes a stall at the markets and fairs and stands behind it saying too little, and the merchants who might carry her ware to the capital have never been asked.
 
-Now at 32 years of age, Dékêla Bàremzâtês has established herself as a known figure among the potters of Vylaria. Her reputation, for better or worse, precedes her in the circles where such things matter.
+She is a known figure among the potters of Vylaria, and less known than her work deserves.
 
 ## Psyche
 
 ### Personality
 
-Can be overly critical of her work, struggles with marketing.
+Dékêla is intent, self-critical and awkward with strangers, and will break a bowl she has spent a day on for a flaw a buyer would never see.
 
 ### Motivation
 
-Dékêla is driven by the desire to master her craft and secure a stable future. The uncertainties of life in potter work keep her vigilant and adaptable.
+Dékêla wants the next glaze — the colour she has seen in her head and not yet got out of the kiln — and she wants her ware in the hands of people who will use it.
 
 ### Strengths
 
-Skilled in wheel-throwing, creative, attentive to detail.
+Skilled at the wheel, inventive with glaze and pattern, attentive to detail.
 
 ## Social
 
-Dékêla is affiliated with Local Artisans' Guild.
-
-As a Vylarian potter, Dékêla occupies a recognized social niche within Vylaria society.
+Dékêla holds her master's seal from the potters' collegium of Aelissium, which her parents held before her and is the potter the others come to about glaze and never about business.
 
 ## Companions
 
 ### Patrons
 
-Dékêla's primary patron is Local households and merchants seeking unique pottery.. This relationship provides both opportunity and obligation.
+Dékêla's patrons are the households of Aelissium that have found her stall and come back to it, and two or three merchants of the city who buy her patterned ware by the crate at a price she should never have agreed to.
 
 ### Enemies
 
-Few; generally well-liked, though some competitors may envy her success.
+Nobody who wishes her harm, but a rival shop in the potters' street has begun copying her patterns in a cheaper glaze and selling them under a name close enough to hers to confuse a buyer.
 
 ## Plot Hooks
 
-1. **The Potter's Dilemma** — Dékêla faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
+1. **Plain Ware by the Thousand** — A merchant house of Aelissium has offered Dékêla a contract for plain crockery in quantity, enough to keep the shop for years and to leave her no time for anything else.
 
-2. **Old Grudges** — Few; generally well-liked, though some competitors may envy her success. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Glaze That Failed** — A commission for a senatorial household — her first — has come out of the kiln with the blue gone grey across half the set. The delivery is in a week.
 
-3. **Echoes of the Past** — Something from Dékêla's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **The Copy** — The rival shop's copies of her patterns have reached the capital under a name that is nearly hers. The collegium will hear a case only if she brings one, in front of people.
 
-4. **Shifting Winds** — Political changes in Vylaria threaten to upend the social order that Dékêla depends upon. She must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Dékêla the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+4. **The Examination** — The collegium has asked Dékêla to sit as an examiner for new masters, an honour that would give her a voice on standards. It would require her to speak to strangers about money and method, several times a year.

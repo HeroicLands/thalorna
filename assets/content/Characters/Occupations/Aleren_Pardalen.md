@@ -550,54 +550,50 @@ sohl:
 
 # Appearance {#appearance}
 
-Áleren Párdalen is a 48-year-old man who stands 5'9" tall and is of moderate build. He has a heart-shaped face with angular cheekbones, a broad forehead, and an angular jaw that leads to a narrow chin. His hooded hazel eyes sit beneath thin brows, lending him a guarded gaze. A slightly upturned nose and thin lips complete his features. He has light skin with a clear complexion. His brown hair is combed neatly to one side.
+Áleren Párdalen is a 48-year-old man who stands 5'9" tall and is of moderate build. He has a heart-shaped face with angular cheekbones, a broad forehead, and an angular jaw that leads to a narrow chin. His hooded hazel eyes sit beneath thin brows and give him a guarded gaze. He has a slightly upturned nose and thin lips. He has light skin with a clear complexion. His brown hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Áleren Párdalen came into the world of the shaman through a combination of circumstance and aptitude.
+Áleren Párdalen is the shaman of Silvain, the Élavendri village inside the Silver Forests of [[place-elavendre|Élavendre]], a freeman born in the village who has stood between it and the spirits of the wood for twenty years.
 
-Áleren became a shaman after a profound vision during a hunting expedition. Since then, he has served as a mediator between the spirit world and his people, often called upon to resolve disputes and interpret omens. Áleren is more practical than mystical, believing in the shaman's role as a guide rather than a miracle worker. His pragmatic approach sometimes brings him into conflict with more traditional shamans.
+Áleren was a hunter until his late twenties, when a vision took him on a winter hunt and left him three days in the snow. The old shaman of Silvain read it as a calling, and Áleren has served since. Silvain exists on sufferance in country that belongs to the Áelendan, and what it gives in return is an observance nobody explains to outsiders and a shaman keeps. Áleren keeps it. The rest of his work is the village's disputes and its omens, which he answers plainly and often unwelcomely. He holds that a shaman is a guide, not a miracle worker, and distrusts the grand visions other shamans build their standing on, including, on most days, his own.
 
-Now at 48 years of age, Áleren Párdalen has established himself as a known figure among the shamans of Élavendre. His reputation, for better or worse, precedes him in the circles where such things matter.
+He is a known figure among the shamans of Élavendre.
 
 ## Psyche
 
 ### Personality
 
-Less inclined to believe in grand mystical experiences, prefers a more grounded approach.
+Áleren is dry, practical and sparing with reverence, and prefers a question answered to a mystery admired.
 
 ### Motivation
 
-Áleren is driven by the desire to master his craft and secure a stable future. The uncertainties of life in shaman work keep him vigilant and adaptable.
+Áleren wants to be of use to his village — its disputes settled, its observance kept, its people told the truth as far as he can see it. He wants nothing to do with the mystical standing other shamans cultivate.
 
 ### Strengths
 
-Skilled mediator, experienced in practical rituals and conflict resolution.
+Skilled mediator, experienced in practical ritual and in settling quarrels.
 
 ## Social
 
-Áleren is affiliated with Tribal Council of Shamans.
-
-As a Élavendri shaman, Áleren occupies a recognized social niche within Élavendre society.
+Áleren sits on the Tribal Council of Shamans that the forest peoples of the interior keep, where he is respected for his judgment and disliked for his tongue.
 
 ## Companions
 
 ### Patrons
 
-Áleren's primary patron is Tribal warriors who respect his no-nonsense attitude.. This relationship provides both opportunity and obligation.
+Áleren's patrons are the hunters and fighting men of the wood, who bring him their quarrels and their omens because he gives them an answer they can act on.
 
 ### Enemies
 
-Traditionalist shamans who think he lacks reverence for ancient customs.
+Traditionalist shamans of the interior who hold that his plainness is a want of reverence.
 
 ## Plot Hooks
 
-1. **The Shaman's Dilemma** — Áleren faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
+1. **The Observance** — This year's observance at the At'aan Wyrd went wrong in a way Áleren cannot explain and will not dress up. The village wants to be told it was nothing.
 
-2. **Old Grudges** — Traditionalist shamans who think he lacks reverence for ancient customs. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Birch** — A villager has felled a silver birch, which nobody in Silvain does, for any reason. The council wants a ritual answer and the Áelendan may want a different one.
 
-3. **Echoes of the Past** — Something from Áleren's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **The Physician's Offer** — A physician of Béravel has come to Silvain with silver and a request for the herbs Áleren uses in his rites, and for the words that go with them. The silver would keep the village a winter, and the words are not his to sell.
 
-4. **Shifting Winds** — Political changes in Élavendre threaten to upend the social order that Áleren depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Áleren the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **The Vision Returns** — Áleren's vision has come back, twenty years on, in the same winter and the same wood. He does not believe in grand visions. He has not told anyone.
