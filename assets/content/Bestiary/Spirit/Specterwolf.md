@@ -333,7 +333,7 @@ In the darkness ahead, you hear what should be the sound of paws on stone—but 
 
 # Dossier {#dossier}
 
-Specterwolves are the remnants of ancient beasts that died in places saturated with death and despair. They exist partially in the spirit realm, hunting on both sides of the veil between worlds. Some are wild predators; others are bound by dark magicians or haunted shamans to serve as guardians or hunters. A Specterwolf pack is among the most terrifying threats to isolated travelers—coordinated, relentless, and able to move through obstacles that would stop normal wolves. They are intelligent enough to plan hunts and to learn from failures.
+Specterwolves are the remnants of ancient beasts that died in places saturated with death and despair. They exist partially in the spirit realm, hunting on both sides of the veil between worlds. Some are wild predators; others are bound by dark magicians or haunted shamans as guardians or hunters. A Specterwolf pack is among the most terrifying threats to isolated travelers—coordinated, relentless, and able to move through obstacles that would stop normal wolves. They are intelligent enough to plan hunts and to learn from failures.
 
 ## Presentation
 
@@ -345,13 +345,13 @@ Specterwolves are pack hunters that display eerie coordination even without visi
 
 ## Combat Strategy
 
-Specterwolves use pack tactics to overwhelming advantage, attempting to surround and isolate opponents. They exploit their phasing ability to move through obstacles and attack from unexpected angles. One wolf attacks from the front while others emerge from shadows or stone to flank and attack. They are intelligent enough to recognize which opponents pose the most threat and will focus on disabling those first. Against light or radiant magic, they become more cautious and may choose to hunt elsewhere. A single Specterwolf separated from its pack becomes noticeably less effective and may attempt to flee.
+Specterwolves use pack tactics to overwhelming advantage, attempting to surround and isolate opponents. They exploit their phasing ability to move through obstacles and attack from unexpected angles. One wolf attacks from the front while others emerge from shadows or stone to flank and attack. They are intelligent enough to recognize which opponents pose the most threat and will focus on disabling those first. Against light or holy magic, they become more cautious and may choose to hunt elsewhere. A single Specterwolf separated from its pack becomes noticeably less effective and may attempt to flee.
 
 ## Attack Methods
 
 ### Ethereal Bite
 
-The wolf’s jaws close around a victim and the experience is nightmarish—teeth seem to pass partially through armor and flesh. The bite wounds feel cold and wrong, and the victim experiences a profound draining sensation as if the attack reaches into their vitality itself. Multiple bites can leave a person unable to continue fighting or fleeing.
+The wolf’s jaws close around a victim and the experience is nightmarish—teeth seem to pass partially through armor and flesh. The bite wounds feel cold and wrong, and the victim feels a deep draining sensation as if the attack reaches into their vitality itself. Multiple bites can leave a person unable to continue fighting or fleeing.
 
 ### Disarming Howl
 
@@ -377,7 +377,7 @@ The necrotic energy in the Specterwolf’s bite does more than wound—it saps t
 
 ## Additional Information
 
-Specterwolves are vulnerable to radiant light and to weapons blessed or imbued with holy magic. Bright light drives them to ground and makes them less mobile and dangerous. A well-lit campfire can deter a pack, though determined wolves may simply wait for the light to fade. Some rangers and shamans claim that Specterwolves can be driven off or negotiated with if approached with the proper ritual respect. A Specterwolf pack killed in its territory may reform after several days, particularly if the source of its manifestation is not addressed. Permanent destruction requires either destroying the binding object if one exists, or cleansing the location of the death and despair that created the creatures.
+Specterwolves are vulnerable to bright light and to weapons blessed or imbued with holy magic. Bright light drives them to ground and makes them less mobile and dangerous. A well-lit campfire can deter a pack, though determined wolves may simply wait for the light to fade. A few rangers and shamans claim that Specterwolves can be driven off or negotiated with if approached with the proper ritual respect. A Specterwolf pack killed in its territory may reform after several days, particularly if the source of its manifestation is not addressed. Permanent destruction requires either destroying the binding object if one exists, or cleansing the location of the death and despair that created the creatures.
 
 ## Attributes
 

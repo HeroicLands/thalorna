@@ -399,7 +399,7 @@ Before you, the ground itself seems to become molten. A creature writhes upward 
 
 # Dossier {#dossier}
 
-Embermaws are elementals of pure molten heat and destructive fire, more powerful than their smaller cousins the Emberhounds. They are drawn to volcanic regions and places of extreme geothermal activity, where they feed on the earth's own fire. An Embermaw is driven by hunger and territorial aggression in equal measure. They are not mindless—they plan hunts and understand tactics—but their primary motivation is destruction and consumption. An Embermaw encountered in the wild is almost certainly a threat that will need to be fought or avoided entirely.
+Embermaws are elementals of pure molten heat and destructive fire, more powerful than their smaller cousins the Emberhounds. They are drawn to volcanic regions and places of extreme geothermal activity, where they feed on the earth's own fire. An Embermaw is driven as much by hunger as by territorial aggression. They are not mindless—they plan hunts and understand tactics—but their primary motivation is destruction and consumption. An Embermaw encountered in the wild is almost certainly a threat that will need to be fought or avoided entirely.
 
 ## Presentation
 
@@ -407,11 +407,11 @@ An Embermaw is a draconic creature roughly twelve feet long, composed entirely o
 
 ## Key Behaviors
 
-Embermaws are solitary, territorial creatures that claim volcanic regions or places of intense heat as their own. They are extremely aggressive and will attack almost any intrusion into their territory. They hunt actively, pursuing prey across difficult terrain and using the landscape to their advantage. They are drawn to sources of fuel and will consume anything flammable in their path. Unlike smaller fire elementals, they seem to take satisfaction in destruction for its own sake. An Embermaw will often destroy settlements or forests for no reason other than the simple pleasure of immolation. They are intelligent enough to lay ambushes and to understand the weaknesses of their enemies.
+Embermaws are solitary, territorial creatures that claim volcanic regions or places of intense heat as their own. They are extremely aggressive and will attack almost any intrusion into their territory. They hunt actively, pursuing prey across broken ground and using the landscape to their advantage. They are drawn to sources of fuel and will consume anything flammable in their path. Unlike smaller fire elementals, they seem to take satisfaction in destruction for its own sake. An Embermaw will often destroy settlements or forests for no reason other than the simple pleasure of immolation. They are intelligent enough to lay ambushes and to understand the weaknesses of their enemies.
 
 ## Combat Strategy
 
-An Embermaw fights with relentless aggression, using its strength and size to overwhelm opponents. It attacks from protected positions in lava or among volcanic rock, using terrain as cover and advantage. It is utterly fearless and will pursue a wounded opponent to the death. Against cold and water attacks, it becomes more cautious and may withdraw to deeper heat sources. It fights most effectively in volcanic or heated terrain where it can draw power from the environment. An Embermaw rarely retreats and fights until destroyed or until all enemies flee.
+An Embermaw fights with relentless aggression, using its strength and size to overwhelm opponents. It attacks from protected positions in lava or among volcanic rock, using terrain as cover and advantage. It is fearless and will pursue a wounded opponent to the death. Against cold and water attacks, it becomes more cautious and may withdraw to deeper heat sources. It fights most effectively in volcanic or heated terrain where it can draw power from the environment. An Embermaw rarely retreats and fights until destroyed or until all enemies flee.
 
 ## Attack Methods
 
@@ -425,7 +425,7 @@ The Embermaw's jaws close with crushing force around a victim, and the victim is
 
 ### Magma Spray
 
-The creature rears back and sprays molten magma and burning debris in a wide arc. This attack is less devastating than the breath but covers a wider area and can catch multiple opponents at once.
+The creature rears back and sprays molten magma and burning debris in a wide arc. This attack does less harm than the breath but covers a wider area and can catch multiple opponents at once.
 
 ### Tail Whip
 

@@ -575,11 +575,11 @@ A Shadowstalker is a being of movement rather than form. When partially visible,
 
 ## Key Behaviors
 
-Shadowstalkers are ambush hunters with a preference for isolated victims. They stalk prey for extended periods, learning routines, identifying weaknesses, and timing the optimal moment for attack. Some Shadowstalkers seem to take pleasure in the hunt itself, drawing it out unnecessarily; others strike with brutal efficiency. They are territorial and will defend their hunting grounds against humans and other Shadowstalkers alike. They seem to understand the concept of mercy—occasionally releasing a victim who appeals to them in some way—but mercy is rare and idiosyncratic.
+Shadowstalkers are ambush hunters with a preference for isolated victims. They stalk prey for extended periods, learning routines, identifying weaknesses, and timing the best moment for attack. Some Shadowstalkers seem to take pleasure in the hunt itself, drawing it out unnecessarily; others kill quickly and without flourish. They are territorial and will defend their hunting grounds against humans and other Shadowstalkers alike. They seem to understand the concept of mercy—occasionally releasing a victim who appeals to them in some way—but mercy is rare and idiosyncratic.
 
 ## Combat Strategy
 
-A Shadowstalker never engages in fair combat if avoidable. It attacks from darkness, deals devastating damage in the first strike, and then repositions or flees if the fight doesn't go perfectly. It uses shadows as both concealment and highways, and it targets isolated opponents whenever possible. Against multiple enemies, it attempts to separate and disable them methodically rather than engaging all at once. It is intelligent enough to recognize when an enemy poses too much threat and will withdraw to another day. Radiant light infuriates and panics a Shadowstalker, forcing it to become more aggressive and reckless.
+A Shadowstalker never engages in fair combat if avoidable. It attacks from darkness, deals devastating damage in the first strike, and then repositions or flees if the fight doesn't go perfectly. It uses shadows as both concealment and highways, and it targets isolated opponents whenever possible. Against multiple enemies, it attempts to separate and disable them methodically rather than engaging all at once. It is intelligent enough to recognize when an enemy poses too much threat and will withdraw to another day. Bright light infuriates and panics a Shadowstalker, forcing it to become more aggressive and reckless.
 
 ## Attack Methods
 
@@ -607,15 +607,15 @@ When attacking from stealth or from surprise, a Shadowstalker's strike is devast
 
 ### Life Drain
 
-The necrotic energy in the creature's attacks drains not merely health but vitality. Victims struck by a Shadowstalker find their strength diminishing, not just from the wounds but from the unnatural cold the creature leaves behind.
+The necrotic energy in the creature's attacks drains vitality as well as health. Victims struck by a Shadowstalker find their strength diminishing, not just from the wounds but from the unnatural cold the creature leaves behind.
 
 ### Necrotic Resistance
 
-The Shadowstalker is resistant to necrotic energy and completely immune to normal disease. Radiant energy and light are the primary things that can harm it beyond normal weapons.
+The Shadowstalker is resistant to necrotic energy and completely immune to normal disease. Light and holy power are the primary things that can harm it beyond normal weapons.
 
 ## Additional Information
 
-Radiant light is the key counter to a Shadowstalker. Bright magical light forces the creature into a more material state where normal weapons can harm it effectively. Sacred sites and temples empowered by good-natured faiths are places where Shadowstalkers cannot hide. Some Shadowstalkers can be negotiated with, especially those bound to service rather than driven by hunger. Others are utterly implacable and will pursue a target across the world. The most dangerous Shadowstalkers are those that develop obsessions with particular prey—they become unstoppable until either the prey is dead or the Shadowstalker is destroyed.
+Bright light is the key counter to a Shadowstalker. Bright magical light forces the creature into a more material state where normal weapons can harm it effectively. Sacred sites and temples empowered by good-natured faiths are places where Shadowstalkers cannot hide. Some Shadowstalkers can be negotiated with, especially those bound to service rather than driven by hunger. Others are implacable and will pursue a target across the world. The most dangerous Shadowstalkers are those that develop obsessions with particular prey—they become unstoppable until either the prey is dead or the Shadowstalker is destroyed.
 
 ## Attributes
 
