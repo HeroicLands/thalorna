@@ -475,83 +475,31 @@ sohl:
 
 # Appearance {#appearance}
 
-You feel it before the world goes silent—a pressure in your bones, a wrongness that makes your body want to curl inward. The temperature plummets so rapidly that ice crystals form on your eyelashes and in your hair. Your breath becomes painful, each inhalation a blade in your lungs. Then the clouds part, and you see her—a dragon the size of a merchant ship, twenty-four feet of pale silver-blue muscle suspended above the glacier, wings spread in a span of thirty-six feet. She doesn't move with fire or fury. She simply hangs there, and in the time it takes you to comprehend her presence, your fingers have begun to blacken, your thoughts have scattered like migrating birds, and you know—with the absolute clarity of the condemned—that you are already dead. The mature ice dragon is not a creature that hungers. It is hunger incarnate, patient and eternal, wearing scales and wings. Every second you draw breath is a second stolen from winter itself, and winter always collects its debts.
+You feel it before the world goes silent — a pressure in your bones, a wrongness that makes your body want to curl in on itself. The cold comes down so fast that ice forms on your eyelashes and in your hair. Each breath is a blade in your lungs. Then the clouds part and you see her — a dragon the size of a merchant ship, pale silver-blue muscle hanging above the glacier, wings spread wider than a barn is long. She does not move with fire or fury. She simply hangs there, and in the time it takes you to understand what she is, your fingers have begun to blacken, your thoughts have scattered like migrating birds, and you know — with the absolute clarity of the condemned — that you are already dead. She is not a creature that hungers. She is hunger itself, patient and eternal, wearing scales and wings, and every breath you draw is a breath stolen from winter. Winter always collects its debts.
 
 # Dossier {#dossier}
 
-The mature ice dragon represents the apex of formidable predatory intelligence coupled with supernatural patience. Spanning twenty-four to thirty-six feet in length with wingspans exceeding fifty feet, and weighing between two thousand and four thousand pounds, these creatures have transcended mere animal fury. They are the architects of their own legend.
+A mature ice dragon runs twenty-four to thirty-six feet in length with wings spanning more than fifty, and weighs between two and four thousand pounds. It has lived two or three centuries — long enough to leave animal rage behind, to learn its ground, and to make its own legend.
 
-A mature ice dragon has likely spent two to three centuries in existence, giving it ample time to develop territorial sophistication and hunting strategies of devastating elegance. These dragons maintain multiple lairs across their ranges—a primary glacier palace for brooding, secondary ice caves for backup hunting reserves, and isolated peaks used as waypoints during seasonal migration. Some maintain mountain fortresses where they collect tribute from fearful kingdoms. Others prefer solitude, claiming entire mountain ranges as exclusively theirs.
+## Its Lairs
 
-The cold aura around a mature ice dragon is not merely lethal—it is selective. Prey animals approaching the dragon freeze and die within minutes. Prey-sized humans suffer frostbite within the hour. Only the dragon itself moves freely in temperatures that would destroy flesh in moments. The dragon's breath weapon, over centuries of use, has perfected to a thirty-foot cone of cold so pure and intense that it flash-freezes moisture in the air and turns blood to slush within living bodies.
+It keeps several. A main lair, a palace in the glacier, is where it broods; ice caves elsewhere in the range hold reserves against a bad season; lone peaks along its migration are its waypoints. Some mature ice dragons hold a mountain fortress and take tribute from the kingdoms below it. Others want nothing from anyone and claim a whole range as theirs alone. A territory typically covers fifty to a hundred square miles of mountain, and the dragon flies its boundaries regularly — to hunt, or for the pleasure of looking — with feeding routes laid along the seasonal movements of game and every pass, valley and path in memory. A settlement that pushes in is watched for months before the dragon decides whether it may stay.
 
-## Presentation
+The patience is nearly supernatural. It will wait years to repay an insult. It will shadow a kingdom for decades, learning its defences, holding off for the moment when the blow will do the most. Some have signed treaties with human rulers, taking tribute and slaves in return for leaving the farms alone. Some hold themselves apart entirely, neither attacking nor allowing themselves to be watched.
 
-A mature ice dragon's scales are predominantly glacial blue, deepening toward midnight blue along the spine and extending down the tail. The creature's size makes its translucent scale edges visible from a distance, creating a haunting prismatic shimmer even in poor light. Its eyes are pale silver, nearly white at the center, and possess an unsettling depth—intelligence and calculation visible in every glance.
+## The Body
 
-Frost perpetually weeps from the dragon's nostrils, and ice forms spontaneously around its claws and along its spinal ridge. During flight, the dragon trails a visible aura of supercooled mist. Its scales produce a faint harmonic humming at certain pitches—a sound that triggers primal dread in creatures that hear it. The dragon's voice, when it speaks, carries overtones of wind across glaciers and the groaning of pack ice.
+The scales are glacial blue, deepening to midnight blue down the spine and along the tail, with edges clear enough that at a distance the whole animal throws a faint prismatic shimmer even in bad light. The eyes are pale silver, nearly white at the centre, and there is calculation in every glance. Frost weeps from the nostrils. Ice grows of its own accord on the claws and along the ridge of the back, and forms constantly on the ground where the dragon stands; in flight it trails a visible haze of supercooled mist. At certain pitches the scales hum, a harmonic that puts an animal dread into whatever hears it, and when the dragon speaks the voice carries the wind over a glacier and the groan of pack ice. It is scarred — by adventurers who are centuries dead, by rivals as large as itself — and the scars do not diminish it. Many of the scales are hundreds of years old and have never been shed. Nothing ordinary gets through them; a magical weapon or a great heat can.
 
-Scars mark the mature dragon's frame—some inflicted centuries ago by adventurers long dust, others from territorial disputes with creatures equally large. Rather than diminishing the dragon's aspect, these marks add gravitas: this is a creature that has survived ages and wars and catastrophes.
+## How It Fights
 
-## Key Behaviors
+With height. It stays above, working with breath and with its own presence before it ever comes down, because few things on the ground can hurt it and it knows that; its concern is to own the field — to turn the battle ground into a frozen hell in which only it can live — and to break the will of whoever is standing on it. It circles, weighs, calculates, and takes the most dangerous opponent first, coldly. If the fight turns it leaves, since winter is on its side: nobody chases a flying dragon into a blizzard, and it can wait in the storm for cold and exhaustion to finish what it started. The sight of it puts despair into everything that has a mind; the strong-willed can hold against that, and most cannot.
 
-A mature ice dragon's territory typically spans fifty to a hundred square miles of mountainous terrain. The dragon patrols these boundaries regularly, sometimes for the sheer pleasure of surveillance, sometimes to hunt. It maintains feeding routes that take advantage of seasonal migration patterns, and it remembers every path, every valley, every mountain pass. If a human settlement encroaches, the dragon will observe for months before deciding whether to tolerate the presence or eradicate it.
+When it closes, the jaws crush, and the dragon's supercooled saliva freezes the tissue around the bite. The claws cut deep, several opponents at a stroke, and the wounds freeze at once — the cold stops the bleeding and leaves the flesh around it brittle. The wings, folded and snapped out, batter everything within twenty feet and throw the unbraced back ten feet and more. The tail is nearly as long as the body and sweeps an arc that fells several at once, brings down a small building, or starts an avalanche off a mountainside. In the air it hovers as long as it likes, dives hard and pulls out with an agility nothing its size should have.
 
-The mature dragon's patience is almost supernatural. It will wait years for revenge against those who anger it. It will shadow kingdoms for decades, learning their defenses, waiting for the moment when destruction will yield maximum effect. Some mature ice dragons have negotiated treaties with human rulers, accepting tribute and slaves in exchange for agrarian protection. Others maintain an aloof isolation, neither attacking nor tolerating observers.
+## Breath and Cold
 
-## Combat Strategy
-
-A mature ice dragon engages enemies with devastating tactical awareness. It uses its superior flight to maintain altitude advantage, overwhelming targets with breath weapon and ranged attacks before descending. The dragon recognizes that few ground-based enemies can harm it seriously, so it focuses on psychological dominance and environmental control—turning a battlefield into a frozen hell where only the dragon thrives.
-
-The dragon's combat pattern is methodical. It circles, assesses, calculates. It singles out the most dangerous target first, not through rage but through cold analysis. It will break off from combat if the tide turns, knowing that winter itself is its ally—prey cannot chase a flying dragon into a blizzard. The dragon will simply wait in the storm until exhaustion and cold finish the work.
-
-## Attack Methods
-
-### Bite
-
-The dragon's jaws close with crushing force, inflicting damage equivalent to its strength modifier plus substantial weapon dice. Victims bitten by a mature ice dragon may suffer additional cold damage as the dragon's supercooled saliva freezes tissue.
-
-### Claw Rake
-
-The dragon's claws are weapons in themselves, inflicting deep slashing wounds. A claw rake can target multiple enemies, and the wounds freeze rapidly, cauterizing with cold that prevents excessive bleeding but creates brittleness in surrounding tissue.
-
-### Wing Buffet
-
-The dragon's wings, folded and snapped outward with tremendous force, batter everything within a twenty-foot radius. Targets must resist a strength check or be knocked prone and potentially blown backward ten feet or more.
-
-### Tail Sweep
-
-The tail, nearly as long as the dragon's body, whips in a devastating arc. Multiple targets in the tail's path suffer damage and must resist or fall prone. A tail sweep can potentially topple small structures or create avalanches on mountainsides.
-
-### Frost Breath
-
-The dragon exhales in a thirty-foot cone of supercooled crystalline mist. Targets in the cone take cold damage and immediately suffer frostbite conditions. Unprotected flesh exposed to this breath weapon can crystallize and shatter with subsequent impact.
-
-## Special Abilities
-
-### Frost Breath
-
-The mature dragon's breath weapon is a culmination of centuries of refinement. The supercooled mist is dense enough to obscure vision entirely and cold enough to kill in moments. A mature ice dragon can use this ability multiple times in succession.
-
-### Flight
-
-The dragon is an expert flier, capable of acrobatic combat maneuvers. It can hover indefinitely, dive with tremendous speed, and pull out of dives with impossible agility for something its size.
-
-### Armored Scales
-
-The mature dragon's scales are virtually impervious to conventional damage. Only magical weapons or extreme heat can penetrate the hide. Many of the dragon's scales are centuries old, having never been shed.
-
-### Cold Aura
-
-The dragon's cold aura is lethal within a hundred feet. Unprotected humans in this radius take cold damage every round of exposure. The aura warps light itself, creating visual distortion and mirages. Ice forms constantly on the ground around the dragon.
-
-### Draconic Presence
-
-The mature dragon radiates a crushing psychic pressure that induces despair and hopelessness in all who perceive it. Creatures must resist or suffer profound disadvantage on attack rolls and ability checks. Heroes of exceptional will may resist this effect.
-
-### Cold Immunity
-
-The dragon is immune to all cold damage, regardless of source. Ice, blizzard, and magical cold cannot harm it. In fact, cold effects strengthen the dragon slightly.
+The breath is a cone of supercooled crystalline mist thirty feet long, thick enough to blind and cold enough to kill in moments. It freezes the moisture out of the air, turns the blood to slush in a living body, and leaves bare flesh crystallised so that a blow afterward shatters it. The dragon can breathe again at once, and again after that. Its cold is not even-handed: game animals near it freeze and die within minutes, a person suffers frostbite within the hour, and only the dragon moves freely in it. Within a hundred feet it is lethal to anyone unprotected. The light bends in it into mirages, and ice forms without pause on the ground around the dragon. Cold cannot hurt it — not ice, not blizzard, not magic — and it grows a little stronger in it.
 
 ## Attributes
 

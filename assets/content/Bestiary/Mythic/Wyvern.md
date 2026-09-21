@@ -384,59 +384,27 @@ sohl:
 
 # Appearance {#appearance}
 
-The cliff face erupts. What you took for stone or shadow suddenly transforms as wings unfold—massive, bat-like membranes stretched between foreleg and hind leg—and the creature launches into open air with impossible grace for something so heavy. The body is obscene: a serpent's trunk scaled in sickly yellows and browns, perhaps seven feet long, ending in a barbed tail that curves like a scorpion's sting. The wings, when fully extended, span twenty feet or more, thin-membraned but clearly powerful enough to support the bulk of several hundred pounds. The head is purely reptilian, a predator's wedge of bone and muscle with teeth that seem designed for tearing, eyes like molten gold burning with the intelligence of a hunting animal. Smoke—actual smoke—seeps from the nostrils. The creature circles with no apparent haste, regarding you with the casual interest a hunter shows prey already marked for death. Then the tail twitches, and you see the barb at its tip glistening with some viscous substance that catches the light. The air itself smells of sulfur and copper and something organic-wrong. The wyvern makes a sound—not a roar, but a steady rumbling hiss that vibrates through your bones and carries a promise of fire and fang and venom. It begins to dive.
+The cliff face erupts. What you took for stone and shadow unfolds as wings — great bat-like membranes stretched from foreleg to hind leg — and the creature launches into open air with an impossible grace for something so heavy. The body is obscene: a serpent's trunk scaled in sickly yellows and browns, ending in a barbed tail that curves like a scorpion's sting. The wings, fully spread, are wider than a house, thin-skinned but plainly strong enough to carry that bulk. The head is purely reptile, a hunter's wedge of bone and muscle with teeth made for tearing and eyes like molten gold, burning with the intelligence of a hunting animal. Smoke — actual smoke — seeps from its nostrils. It circles without any hurry, looking at you the way a hunter looks at prey already marked for death. Then the tail twitches, and you see the barb at its tip glistening with something thick that catches the light. The air smells of sulfur and copper and something organic and wrong. The wyvern makes a sound — not a roar but a steady rumbling hiss that shakes in your bones and carries a promise of fang and sting. It begins to dive.
 
 # Dossier {#dossier}
 
-The wyvern is a true monster of the upper air—a two-legged dragon-like creature of considerable size and lethality. Weighing five hundred to eight hundred pounds, with a wingspan of eighteen to twenty-four feet, the wyvern is encountered in mountainous regions, high plateaus, and isolated peaks where thermals allow sustained flight. Unlike true dragons—creatures of mythic intelligence and breath weapons—the wyvern is fundamentally a beast: intelligent enough to be dangerous and strategic in its hunting, but driven primarily by predatory instinct rather than complex motivation. Wyverns are territorial, solitary hunters that defend vast vertical territories spanning multiple peaks and valleys. They are not intelligent enough to establish hoards, but they will gather valuables for nest building and decoration. They are long-lived, sometimes exceeding a century, and they breed rarely—perhaps once per decade—making their young exceptionally precious and jealously guarded. Adventurers encounter wyverns most commonly when crossing mountain passes, climbing to high altitude, or approaching ancient cliff-top ruins where wyverns often nest. A wyvern in its territory is one of the most dangerous encounters possible.
+The wyvern is a beast of the high air — a two-legged, dragon-shaped creature of five to eight hundred pounds with a wingspan of eighteen to twenty-four feet, met in mountains, on high plateaus and among lone peaks where the thermals will hold it up all day. It is not a dragon. It has no breath and no great intelligence; it is an animal, clever enough to hunt with a plan and to be very dangerous, but driven by appetite rather than by anything more complicated. Wyverns are solitary and hold vast vertical territories across several peaks and valleys. They keep no hoard, having no mind for one, but they do gather bright things to build and decorate the nest. They live past a century and breed perhaps once in ten years, so the young are precious and guarded fiercely. Travellers meet them crossing a high pass, climbing above the treeline, or approaching the old ruins on clifftops where wyverns like to nest, and a wyvern on its own ground is about as dangerous as an encounter gets.
 
-## Presentation
+## The Body
 
-The wyvern is a compact, efficient killing machine: a serpentine body six to eight feet in length, covered entirely in scales of yellowed amber, sickly green, or muddy brown, often with darker bands or spots. The scales are thick and overlapping, providing natural armor. The head is purely reptilian and disproportionately large, with a wedge-shaped skull, powerful jaw muscles, and forward-facing eyes that speak of binocular hunting vision. The teeth are conical, sharp, and designed for piercing and tearing flesh. Two stout hind legs support the forward portion of the body, ending in claws each as long as a finger. The creature's wings extend from modified forelimbs—what might be arms on a true dragon have become skeletal structures supporting vast membranes of leathery skin in dusky colors shot through with blood vessels that glow faintly when extended. The tail is the creature's third weapon: long, muscular, and terminating in a venomous barb as long as a dagger, dripping constantly with neurotoxin so potent that small animals exposed to its miasma collapse within moments. The overall impression is of something evolved purely for predatory efficiency: every element serves the hunt.
+Everything on it is for the hunt. A serpentine body six to eight feet long under thick overlapping scales of yellowed amber, sick green or muddy brown, often banded or spotted darker — natural armour. A head too big for the body, wedge-shaped, heavy in the jaw, with forward-facing eyes for judging a dive; conical teeth for piercing and tearing. Two stout hind legs carry the front of the body and end in claws each as long as a finger. The wings are the forelimbs remade — bone struts stretched with leathery membrane in dusky colours, veined with blood vessels that glow faintly when the wing is spread. The tail is the third weapon: long, muscular, and tipped with a barb as long as a dagger that never stops dripping a neurotoxin strong enough that small animals caught in its fumes drop where they stand.
 
-## Key Behaviors
+## The Sky
 
-Wyverns are solitary territorial hunters that defend aerial space spanning dozens of miles. They establish roosts on cliff faces, in high caves, or within ancient structures, preferring locations with good thermal updrafts that minimize flight expenditure. They are diurnal, hunting primarily during daylight when thermals are strongest and visibility maximum. They hunt by ascending to great altitude using thermals, then diving at speeds exceeding eighty miles per hour to strike prey that has no warning. They prefer large flying prey—eagles, griffins, other wyverns from rival territories—but will take ground-based prey if opportunity presents. They are known to hunt in a pattern: driving prey to preferred killing grounds, then striking. They consume enormous quantities of meat in single meals, then may not hunt again for weeks. They are long-lived, with individuals living past one hundred years, and they show clear evidence of learning: a wyvern remembers hunters who have previously attacked it, remembers locations of prey concentrations, and develops personal variations in hunting technique.
+A wyvern roosts on a cliff face, in a high cave, or in an old building on a height, wherever the updrafts are good, because riding thermals is how it flies for hours without effort and how it climbs to heights where lesser creatures cannot breathe, and from there it can put itself anywhere in its territory at will. It hunts by day, when the thermals are strongest and it can see farthest. It climbs high, picks its prey, and comes down at better than eighty miles an hour on something that never saw it. It prefers big flyers — eagles, griffins, wyverns from the next territory — and takes ground prey when it offers. It herds: it drives an animal toward the killing ground it likes and strikes there. A wyvern eats an enormous meal at a sitting and may not hunt again for weeks. It learns. It remembers a hunter who has attacked it before, remembers where the game gathers, and works out its own variations on the hunt.
 
-## Combat Strategy
+## The Hunt
 
-A wyvern's hunting methodology is based on exploiting three-dimensional superiority: it maintains altitude advantage, strikes from above and behind where defenses are weakest, and retreats to the sky if pressed. Against ground-based opponents, the wyvern conducts multiple diving passes, each strike designed to wound without fully committing. Against airborne opponents of comparable size, the wyvern uses superior maneuverability and the lethal barb to maintain distance while dealing damage. A wyvern will attempt to force prey into terrain that minimizes escape options—toward cliff edges, into narrow valleys, toward obstacles that limit movement. Once an opponent is wounded by the venomous barb, the wyvern becomes more aggressive, following the prey relentlessly as toxins degrade its ability to resist. A truly desperate wyvern—one defending nest with young, or one that is desperate from starvation—will sacrifice its flight advantage to close to melee distance, using teeth and claws and tail with reckless abandon.
+It fights from above. It keeps its height, strikes from above and behind where the defence is weakest, and goes back up if pressed. Against something on the ground it makes pass after pass, each a wound rather than a commitment — the hind claws raking across the target at the speed of the dive, opening deep wounds — and it works the prey toward a cliff edge, a narrow valley, some obstacle that limits where it can run. Against another flyer of its own size it uses its agility and the reach of the tail to keep its distance while it hurts, or closes to grapple with hind claws and body and twist the opponent into a position where the tail can land. At close range the jaws bite for bare flesh, break bones, and can take a limb at one snap. Once the barb has gone in, the wyvern turns from careful to relentless and follows the prey as the venom takes its strength away. Only a desperate wyvern — starving, or defending a nest with young in it — gives up its height to fight on the ground, and then it uses teeth and claws and tail with nothing held back.
 
-## Attack Methods
+## The Barb
 
-### Venomous Tail Strike
-
-The wyvern whips its tail with blinding speed, attempting to drive the barb home and inject its deadly venom. The neurotoxin causes paralysis, weakness, and eventually death in exposed creatures. Even survival of the injection leaves lingering weakness and vulnerability.
-
-### Diving Claw Rake
-
-The wyvern dives from above, extending its hind claws to rake across targets as it passes. The speed of the pass adds tremendous force, and the strike is designed to open major wounds.
-
-### Snapping Bite
-
-At close range, the wyvern uses its powerful jaws to bite, aiming for exposed flesh, breaking bones, and potentially severing limbs in single strikes.
-
-### Aerial Grapple
-
-Against airborne opponents of comparable size, the wyvern uses its hind claws and body to grapple, attempting to force opponents into positions where the tail can strike home.
-
-## Special Abilities
-
-### Aerial Mastery
-
-The wyvern is a creature evolved purely for flight. It can hover, bank, dive, and perform aerial maneuvers that ground-based opponents cannot replicate. In open sky, the wyvern possesses absolute superiority over grounded foes.
-
-### Venomous Barb
-
-The wyvern's tail bears a barb that drips constantly with neurotoxin—a venom potent enough to kill large animals in minutes. Creatures struck by the barb suffer progressive paralysis, loss of coordination, and eventually death if the venom is not countered.
-
-### Thermal Soaring
-
-The wyvern is evolved to exploit thermal updrafts, climbing to extreme altitudes with minimal energy expenditure. This allows the creature to maintain flight for hours, remain at crushing altitudes where lesser creatures cannot breathe, and position itself anywhere within its territory with ease.
-
-### Predatory Intelligence
-
-While not intelligent enough for language or abstract reasoning, the wyvern demonstrates clear learning capacity, problem-solving ability, and the capacity to plan multi-stage hunts. A wyvern remembers individuals who have threatened it and adjusts behavior accordingly.
+The tail moves faster than the eye. It whips round to drive the barb home and pump the venom in, and the venom paralyses, weakens and kills in minutes if nothing is done to counter it; those who survive the sting are left weak and easily hurt for some time after.
 
 ## Attributes
 

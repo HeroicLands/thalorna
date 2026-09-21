@@ -257,59 +257,27 @@ sohl:
 
 ![[wbcrwlr|Webcrawler]]{float: top-left}
 
-At first you cannot see it—there is only a shimmer in the air, something that might be dew on near-invisible thread, catching light that should not reach here. Then the spider itself emerges from hiding, and you see it: a creature the size of a human torso, its eight spindly legs moving with predatory grace, its body iridescent black with hints of deep purple and sickly green. The abdomen is grotesquely distended, constantly producing silken thread that glimmers with barely-visible luminescence. Its eyes are multifaceted and glowing, each one fixing on you with intelligent calculation. Fangs like curved needles protrude from its mouth, dripping venom that sizzles and steams when it touches stone. The air around it seems to vibrate with the tension of its web, and you realize with horror that you have already walked into the creature's territory—that what you thought was empty air is actually a labyrinth of nearly invisible threads waiting to ensnare you.
+At first you cannot see it — there is only a shimmer in the air, something that might be dew on a thread too fine to see, catching a light that should not reach this far down. Then the spider comes out of hiding, and you see it: a creature the size of a man's torso, its eight thin legs moving with a hunter's grace, its body an iridescent black with hints of deep purple and sick green. The abdomen is grotesquely swollen and never stops paying out a silk that glimmers faintly. Its many-faceted eyes glow, and every one of them fixes on you with a cold calculation. Fangs like curved needles jut from its mouth, dripping a venom that sizzles and steams where it touches the stone. The air around you seems to hum with the tension of its web, and you realise, with a lurch of horror, that you are already inside it — that what you took for empty air is a maze of near-invisible threads waiting to take you.
 
 # Dossier {#dossier}
 
-Webcrawlers are creatures of silk and supreme cunning, spiders of supernatural intelligence and creative venom-craft that have essentially evolved the hunting web into an art form. They are found in dark, confined spaces—caverns, ruins, and the deep shadows of ancient structures—where their nearly invisible webs can be spread across three-dimensional terrain and prey cannot easily escape. A Webcrawler does not hunt through active predation but through supreme patience and the engineering of elaborate traps designed to catch and entangle without fail. These creatures demonstrate genuine intelligence and creativity in the construction of their webs, and old Webcrawlers have been observed to create traps of stunning complexity that would take a human engineer months to design.
+Webcrawlers are spiders of silk and cunning — intelligent, inventive with venom, and builders who have made the hunting web into something like an art. They live in the dark and the confined: caverns, ruins, the deep parts of old buildings, wherever a web can be strung through three dimensions and prey cannot easily get out. A Webcrawler does not go hunting. It waits, and it builds, and what it builds is meant to catch without fail. Old ones have made traps so elaborate that a human engineer would want months to design them.
 
-## Presentation
+## The Web
 
-A Webcrawler measures roughly 5 to 7 feet in body length with a legspan extending an additional 8 to 12 feet, making the total creature comparable in size to a large humanoid. Its body is segmented and covered in an exoskeleton of deep black chitin with iridescent reflections of purple and green. Its legs are long and articulated, ending in sharp, adhesive points that allow it to climb any surface and cling to its webs with perfect grip. Its abdomen is distended and constantly glistening with the silk being produced. Its head bears eight eyes arranged in complex geometric patterns, each one burning with sickly luminescence. Its fangs are hollow chelicerae dripping constantly with venom of a greenish-white color that hisses and steams on contact with stone. The creature is nearly silent as it moves, and in darkness it is nearly invisible except for the faint glow of its eyes and the occasional glimmer of its webs.
+A Webcrawler claims a volume rather than an area — a cavern, a run of connected chambers, a building several storeys deep — and fills it with a net of near-invisible silk of astonishing complexity. Most of its time goes into the work, spinning new silk and improving what is there. The web catches prey, warns of anything that touches it, carries signals along its own strands, and serves the spider as a road across ground nothing else could cross. There is thought in the design: the spider adjusts it to the prey it expects, lays false paths that lead into killing grounds, and keeps separate tiers for creatures of different sizes, and it changes the pattern according to what has worked and what has not. A web of any complexity takes months or years, and the spider treats it as part of its own body. It will fight for the web where it would not fight for itself, and grows desperate when the web is threatened. The silk is stronger than anything its thinness suggests and carries the spider's weight and a good deal besides.
 
-## Key Behaviors
+## The Builder
 
-A Webcrawler claims a three-dimensional territory—usually a cavern, a series of connected chambers, or a multi-story structure—and fills it with an incredibly complex network of nearly invisible webs. The creature spends much of its time in maintenance and creation, constantly spinning new silk and improving its traps. The web network serves multiple purposes: capturing prey, warning the creature of intruders, creating communication networks within the web itself, and providing a three-dimensional highway across otherwise impassable terrain. A Webcrawler shows signs of genuine creativity and planning—adjusting web designs based on prey type, creating false paths to lead prey into kill zones, and maintaining multiple tiers of web for different sizes of creatures. Ancient Webcrawlers have web networks of staggering complexity.
+The body is 5 to 7 feet long and the legs add another 8 to 12 feet of span, so that the whole animal is about the size of a large man. The shell is deep black chitin with purple and green in its sheen. The legs are long, articulated, and tipped with sharp adhesive points that grip any surface and hold the web without slipping. The abdomen is distended and always wet with silk. The head carries eight eyes in a geometric arrangement, each with a sick glow in it, and hollow fangs that drip a greenish-white venom which hisses and steams on stone. It is nearly silent, and in the dark nearly invisible but for the eyes and the occasional gleam of a strand.
 
-## Combat Strategy
+## Taking Prey
 
-A Webcrawler engages enemies primarily through entanglement in its webs. Once prey is caught, the creature moves with exceptional speed along its webbing to attack with fangs. The creature avoids prolonged direct combat, instead relying on its web to control the battle space. It will prioritize removing targets from the web through careful positioning and will use the web to restrict movement and prevent escape. If pressed hard, a Webcrawler will retreat deeper into its web network where it has perfect mobility and comprehensive knowledge of every inch of terrain. The creature fights to defend its web, not its own survival, and it will battle ferociously if its web is threatened.
+The web does most of it. Once something is caught, the spider comes along the strands at speed and bites; the venom is fast, numbing the wound at once and spreading through the body into a paralysis that ends in death, and it is made to hold the prey still rather than to kill quickly, so the spider can feed at leisure. The spider does not passively wait for the web to hold: it can draw the strands tight around a caught victim to crush and suffocate, and it can throw new strands into a path prey is about to take, or raise a barrier nobody sees until they walk into it. It stays out of a stand-up fight, using the web to govern where its opponents can move and to keep them from leaving. Hard pressed, it withdraws deeper into the network, where it can go anywhere and knows every inch. On its web it moves over walls and ceilings as a man walks a floor. Off the web it is a different creature — slow and clumsy, with most of its agility gone.
 
-## Attack Methods
+## Fire and Silk
 
-### Paralytic Bite
-
-The Webcrawler strikes with remarkable speed, driving its fangs into flesh and injecting a potent neurotoxin. The venom begins working almost immediately, numbing the injection site and spreading through the body.
-
-### Web Constriction
-
-Rather than using web passively, the Webcrawler can actively manipulate the strands, tightening them around entangled prey, crushing and suffocating simultaneously.
-
-### Guided Entanglement
-
-The creature can manipulate its webs to create new traps on the fly, positioning sticky strands in paths prey might take and creating barriers that seem invisible until touched.
-
-## Special Abilities
-
-### Web Mastery
-
-The Webcrawler commands its web network with perfect precision, capable of manipulating individual strands or entire sections simultaneously. The webs are nearly invisible, incredibly strong, and capable of supporting the creature's weight plus substantial additional burden.
-
-### Silk Navigation
-
-The creature moves across its webs with perfect grace and speed, treating three-dimensional web networks as a humanoid would treat ground. It can traverse vertical surfaces, hang from ceilings, and maneuver in ways that would be impossible for less specialized creatures.
-
-### Predatory Creativity
-
-The Webcrawler demonstrates genuine creativity and problem-solving ability in the design and construction of its web networks. It learns prey patterns, designs traps specifically for certain prey types, and adjusts its web designs based on success or failure.
-
-### Venom Mastery
-
-The Webcrawler's venom is potent and complex, causing progressive paralysis, numbness, and eventual death. The venom seems designed to render prey immobile rather than kill quickly, allowing the creature to feed at leisure.
-
-## Additional Information
-
-Fire is the Webcrawler's primary weakness—flames destroy its web immediately and cause the creature severe distress. The destruction of a web section forces the Webcrawler to either retreat or spend time rebuilding. Acid is also effective against the web. Cold can slow the creature's venom production and metabolism. In areas where the creature is not supported by its web, it becomes slow and sluggish, losing much of its extraordinary agility. The silk itself is extraordinarily valuable—capable of being harvested and used for numerous purposes, from rope to specialized armor. Alchemists and crafters will pay substantial sums for high-quality Webcrawler silk. A Webcrawler's web of significant complexity can take months or years to construct, and the creature views its web almost as an extension of itself, becoming desperately aggressive if the web is threatened.
+Fire is what it fears. Flame takes a web apart at once and leaves the spider in visible distress, and a burnt section forces it either to retreat or to stop and rebuild; acid does the same to the silk. Cold slows both its venom and its body. The silk itself is worth a great deal — it can be harvested and worked into anything from rope to armour, and alchemists and crafters pay well for good Webcrawler silk.
 
 ## Attributes
 

@@ -331,55 +331,29 @@ sohl:
 
 ![[nghtwrth|Nightwraith]]{float: top-left}
 
-The darkness above you ripples with motion—a shadow that moves against the shadows themselves. Then you hear it: not the flap of wings but something worse, a wet, clicking chirp that seems to come from everywhere at once. The temperature plummets as an enormous winged shape passes overhead, blocking out even the starlight, and you catch the reek of blood and cave-rot. Two points of sickly crimson luminescence fixate on you from above—eyes that see you more clearly in utter darkness than you can see in daylight. Fangs the length of fingers curve downward, and you hear the thrash of leathery wings as the creature wheels for another pass, and the sound of its hunger is a thousand screaming voices condensed into a single, dripping maw.
+The darkness above you ripples with motion — a shadow moving against the shadows. Then you hear it: not the flap of wings but something worse, a wet, clicking chirp that seems to come from everywhere at once. The air goes cold as an enormous winged shape passes over, blotting out even the starlight, and you catch the reek of blood and cave-rot. Two points of sickly crimson fix on you from above — eyes, and they find you easily in the dark. Fangs the length of fingers curve downward. You hear the thrash of leathery wings as the creature wheels for another pass, and the sound of its hunger is a thousand screaming voices packed into one dripping mouth.
 
 # Dossier {#dossier}
 
-Nightwraiths are apex predators of the darkness, corrupted giant bats whose forms have been twisted by magical or infernal forces into weapons of terrible efficiency. They roam the night skies, deep cave systems, and the spaces below ground where no natural light reaches, hunting with ruthless precision. Unlike their natural ancestors, Nightwraiths possess an intelligence that borders on cunning, and they seem to take pleasure in the hunt itself rather than merely feeding. They are said to gather in large roosts in caverns of particular depth or remoteness, and traveling merchants have learned to fear the arrival of dusk and the sound of their chittering calls.
+Nightwraiths are giant bats that something — magic or the infernal — has bent into instruments for killing. They hunt the night sky, the deep caves and the lightless places underground, with a cunning their ancestors never had, and they seem to take pleasure in the hunt over and above the feeding.
 
-## Presentation
+## The Roost
 
-A Nightwraith measures 15 to 20 feet from wingtip to wingtip, with a muscular, emaciated frame that seems half-starved despite its constant feeding. Its skin is a sickly, translucent gray-black like rotted leather stretched over bone, with visible veins and sinews pulsing beneath. Its wings are vast and membranous, webbed with a material that seems to absorb light rather than reflect it, and they emit a wet, chittering sound when they flex. Its face is a nightmare of adaptation—eyes like burning coals set above a mouth of terrible proportions, lined with fangs of fearsome length and sharpness. Tufts of bristling fur run along its spine and the upper edges of its wings. The creature emits a constant, ultrasonic clicking that humans can feel but barely hear, and the air around it carries the overpowering stench of blood and corrupted flesh.
+They are colonial. By day they hang in deep caverns and remote cave systems, dozens or hundreds to a roost; at dusk they scatter to hunt, each to a ground of its own that overlaps its neighbours', and at dawn they come back. They go where prey is thickest, which means where livestock and people are, and a Nightwraith's hearing is fine enough to pick out a single human heartbeat at a distance and to follow a wounded or sick animal with patience until the moment is right.
 
-## Key Behaviors
+## The Body
 
-Nightwraiths are primarily crepuscular and nocturnal, becoming active as darkness falls and hunting throughout the night until dawn drives them to roost. They are colonial creatures, returning to large communal roosts in deep caves or cavern systems where dozens or even hundreds may gather during the day. At night, they disperse to hunt, each creature claiming its own territory but often overlapping with others. They are drawn to areas of high prey density—particularly settlements where livestock or humans might be found. A Nightwraith’s hearing is extraordinarily sensitive; it can detect the heartbeat of a human at considerable distance and will stalk wounded or sick prey with patient deliberation.
+A Nightwraith spans 15 to 20 feet from wingtip to wingtip. The frame is muscular and starved-looking at once, as if no amount of feeding filled it: skin a translucent grey-black like rotted leather stretched over bone, with the veins and sinews visible and moving underneath. The wings are vast membranes that seem to swallow light rather than reflect it and make a wet chittering as they flex. The face is all adaptation — eyes like coals set over a mouth too large for the head, lined with fangs of fearful length. Bristling tufts of fur run along the spine and the upper edges of the wings. It clicks without pause at a pitch a person feels more than hears, and the air around it stinks of blood and corrupt flesh.
 
-## Combat Strategy
+## The Hunt
 
-A Nightwraith attacks from above and behind whenever possible, attempting to rake prey with its fangs and claws before ascending beyond reach. It relies on speed and superior agility to avoid damage, making multiple passes rather than committing to prolonged melee. Against multiple opponents or heavily armored foes, it attempts to separate and isolate targets, dragging one away from the group where it can finish the kill without interference. The creature is intelligent enough to recognize when it faces an overwhelmingly superior threat and will retreat to its roost if severely wounded, though it may circle and wait for an opportunity to renew the attack once its opponent shows signs of fatigue.
+It comes from above and behind when it can, fangs and claws raking on the pass, and climbs out of reach before there is an answer. It is faster and more agile than most things it hunts and makes several passes rather than staying to fight. Against a group, or against armour, it works to cut one out and drag him off where it can finish without interference. The claws are nearly as bad as the fangs and are used to rake, or to hold a victim still while it feeds. The bite drives the long fangs into bare flesh and anchors there; the victim bleeds fast and weakens faster, from the blood loss and from a parasitic venom in the bite. It can focus its clicking into a screech that dazes everything in front of it, ruining balance and breaking a spellcaster's concentration.
 
-## Attack Methods
+In the dark it is blind and sees perfectly: its echolocation shows it the world in detail, and it finds warm creatures by heartbeat, breath and body heat as accurately as any magical sight. In darkness or poor light it moves and strikes better and notices more, and anything trying to follow it or aim at it in the dark is at a heavy disadvantage. Once it has tasted blood it fixes on that one victim and will not be shaken; a bleeding target cannot hide from it. It knows when it is outmatched, though, and a badly wounded Nightwraith goes back to its roost — or circles, and waits for the opponent to tire.
 
-### Blood-Draining Bite
+## Guano and Bargains
 
-The Nightwraith dives from above, attempting to drive its elongated fangs into exposed flesh and anchoring itself while it feeds. Victims lose blood rapidly and begin to weaken from blood loss and the creature’s parasitic venom.
-
-### Raking Talons
-
-The creature’s claws are nearly as formidable as its fangs, used to rake prey during aerial passes or to hold a victim immobile while it feeds.
-
-### Sonic Screech
-
-The Nightwraith’s ultrasonic vocalizations can be focused into a devastating assault that disorients and dazes all creatures in a cone before it, disrupting spellcasting and balance alike.
-
-## Special Abilities
-
-### Echolocation Mastery
-
-The Nightwraith navigates and hunts with perfect precision in complete darkness, its echolocation revealing the world to it in perfect detail even when totally blind. It can perceive creatures by heartbeat, breath, and body heat with accuracy that rivals magical sight.
-
-### Nocturnal Predation
-
-In darkness or low light, the Nightwraith’s movement and attacks are enhanced, and its perceptiveness is magnified. Creatures attempting to track or target it in darkness suffer significant disadvantage.
-
-### Blood Hunger
-
-Once the Nightwraith has tasted blood, it enters a state of heightened aggression and focus on that particular victim, pursuing it with relentless determination. A bleeding target cannot easily escape or hide from the creature.
-
-## Additional Information
-
-Bright light is the Nightwraith’s primary weakness—sustained illumination causes it physical pain and forces it to retreat. Daylight is nearly unbearable; a Nightwraith caught in direct sunlight will flee desperately to the nearest darkness. Fire is equally effective, not only harming the creature but overwhelming its sensitive senses and disrupting its echolocation. Roosts can sometimes be eliminated by smoke or by destroying the cavern entrances, trapping the creatures in daylight where they slowly weaken. The guano accumulated in Nightwraith roosts is extraordinarily valuable to alchemists and tends to accumulate in toxic, crystalline forms that can be harvested. Some desperate communities have attempted to negotiate with Nightwraith colonies by providing regular sacrificial livestock, reducing human predation in exchange for food—a practice viewed with deep moral ambiguity by most societies.
+Light is what it cannot bear. Steady bright light pains it and drives it off; direct sunlight it flees in panic for the nearest dark. Fire does the same and worse, since it swamps the creature's senses and confuses its echolocation. A roost can sometimes be dealt with by smoke, or by sealing the cave mouths so the colony is trapped where the daylight slowly wears it down. The guano that piles up under a roost is worth a great deal to alchemists, and it tends to set into poisonous crystalline forms that can be cut and carried out. Some hard-pressed villages have come to terms with a colony instead, staking out livestock on a schedule so the Nightwraiths take beasts rather than people — an arrangement most of their neighbours think of as a kind of shame.
 
 ## Attributes
 

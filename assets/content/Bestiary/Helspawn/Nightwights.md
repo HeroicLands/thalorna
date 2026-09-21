@@ -525,7 +525,7 @@ sohl:
 
 ![[nghtwght|Nightwights]]{float: top-left}
 
-As night falls, the temperature drops and the darkness becomes attentive. A figure emerges from shadow—beautiful and terrible in equal measure, perfect in form and proportion like a god’s statue brought to life, yet utterly wrong. It is a human shape, but humanity has been refined away, leaving only an ideal that no living person could match. Its skin is pale but luminous, and its eyes burn with dark light. Where it stands, shadows deepen and cold settles. Looking upon it for too long fills you with an aching despair, as though witnessing something you were never meant to see.
+As night falls the air cools and the darkness becomes attentive. A figure comes out of the shadow — beautiful and terrible at once, perfect in form and proportion like a god’s statue brought to life, and wrong. It is a human shape, but the humanity has been refined away, leaving only an ideal no living person could match. Its skin is pale but luminous, and its eyes burn with a dark light. Where it stands, the shadows deepen and the cold settles. Looking at it for too long fills you with an aching despair, as though you were witnessing something you were never meant to see.
 
 # Dossier {#dossier}
 
@@ -543,13 +543,13 @@ The newly arisen Nightwight is back in the world — animated, moving, conscious
 
 ## Consent and Quality
 
-The candidate's psychological state during the ritual matters enormously. Three patterns are common.
+The candidate's state of mind during the ritual matters enormously. Three patterns are common.
 
 **Consenting and well-prepared.** A candidate who wants the transformation, who has worked through the rituals deliberately, who has prepared themselves spiritually for the death and the arising, produces a strong Nightwight. Their soul has a high liklihood of making the transition with maximum coherence preserved. The resulting Nightwight may be powerful, retains maximum identity and capacities at near-full or possibly beyond-full strength, and degrades slowly over time. This is the ideal Nightwight from the candidate's own perspective.
 
 **Non-consenting and fighting.** A candidate who fights the process — actively resists the transformation as it happens, struggles against the ritual's effects, tries to refuse the death — damages their soul during the transition. The result varies depending on how much damage is done.
 
-If the damage is moderate, the candidate may emerge as a weak Nightwight — lacking many of the capacities that fuller Nightwights have, perhaps fragmenting psychologically over time at a faster rate than usual. They are Nightwights only marginally. The worst part of this is the self-horror and self-loathing that comes along with this knowledge of what they have become, and the horror that awaits them.
+If the damage is moderate, the candidate may emerge as a weak Nightwight — lacking many of the capacities that fuller Nightwights have, perhaps fragmenting in mind over time at a faster rate than usual. They are Nightwights only marginally. The worst part of this is the self-horror and self-loathing that comes along with this knowledge of what they have become, and the horror that awaits them.
 
 If the damage is severe, the candidate emerges as a Helthraal instead — a [[being-hlthrls|Failed-Ritual Helthraal]]. The Nightwight transformation has failed, but the body still rises, animated by the partial soul that remains.
 
@@ -587,7 +587,7 @@ After the 13th life is complete, the Nightwight is completely destroyed, the sou
 
 ## Hallowed Ground
 
-All Nightwights have a "base", or Hallowed Ground, where they will eventually return if catastrophe strikes and their body is destroyed. The Nightwight takes care to choose this location with prudence, to ensure it is safe and hidden. The Nightwight may change the location at will, but only one location may be chosen at any time, and the Nightwight must be physically present to designate a spot as their Hallowed Ground.
+All Nightwights have a "base", or Hallowed Ground, where they will eventually return if catastrophe strikes and their body is destroyed. The Nightwight takes care to choose this location with prudence, so that it is safe and hidden. The Nightwight may change the location at will, but only one location may be chosen at any time, and the Nightwight must be physically present to designate a spot as their Hallowed Ground.
 
 ## Regeneration
 
@@ -597,7 +597,7 @@ To halt or reverse the degradation, Nightwights must _regenerate_ — and regene
 
 - **Feeding on the flesh of the living** - Some Nightwights sustain themselves with the flesh of living victims rather than simply the blood. This is functionally similar to drinking blood.
 
-- **Consuming Aura directly** — some Nightwights draw the soul-substance out of living victims, leaving the body intact but the person diminished. Victims may survive but with reduced Aura, often permanently. This is less common than blood-feeding but produces a Nightwight whose presence is detectable in different ways and whose victims show different signs.
+- **Consuming Aura directly** — some Nightwights draw the soul-substance out of living victims, leaving the body intact but the person diminished. Victims may survive but with reduced Aura, often permanently. It is rarer than blood-feeding, and it produces a Nightwight whose presence is detectable in different ways and whose victims show different signs.
 
 - **Feeding on emotions or specific kinds of mental experience** — fear, despair, ecstasy. Some Nightwight traditions cultivate this and require victims who can produce the specific emotion in sufficient quantity. These Nightwights are often skilled manipulators, since they need to engineer the emotional state of their prey.
 
@@ -607,21 +607,21 @@ Regeneration only occurs after feeding and spending time in their Hallowed Groun
 
 ## GM Notes: Running Helspawn
 
-Several practical implications follow from the cosmology established here.
+Several practical consequences follow from the cosmology established here.
 
-**Helthraals are tragic.** A Helthraal that retains fragments of identity is genuinely tragic. The being that remains is a damaged person, not a monster — at least at first. Encounters with Recently Returned Helthraals should be played for the emotional weight they deserve. The grieving necromancer who has pulled their lost child back, only to watch the child slowly deteriorate over weeks, is a story Thalorna's cosmology supports and rewards developing. Players who are made to feel the loss are players who understand why necromancy is treated as it is.
+**Helthraals are tragic.** A Helthraal that retains fragments of identity is tragic in the plain sense. The being that remains is a damaged person, not a monster — at least at first. Encounters with Recently Returned Helthraals should be played for the emotional weight they deserve. The grieving necromancer who has pulled their lost child back, only to watch the child slowly deteriorate over weeks, is a story Thalorna's cosmology supports and rewards developing. Players who are made to feel the loss are players who understand why necromancy is treated as it is.
 
-**Nightwights are people with terrible appetites.** A Nightwight is not a moustache-twirling villain in undead form. They are persons — frequently quite sophisticated persons, often educated, often with long memory and developed aesthetics — whose existence requires harming the living. The horror of a Nightwight is partly their power and partly the disconnect between their continued personhood and their predatory necessity. The vampire lord who hosts elegant gatherings, conducts intellectually engaging conversations, and quietly drains a servant in the cellars before retiring is a more disturbing figure than a snarling beast. The cosmology supports the former; the GM should lean into it.
+**Nightwights are people with terrible appetites.** A Nightwight is not a moustache-twirling villain in undead form. They are persons — frequently quite cultivated persons, often educated, often with long memory and developed aesthetics — whose existence requires harming the living. The horror of a Nightwight is partly their power and partly the disconnect between their continued personhood and their predatory necessity. The vampire lord who hosts elegant gatherings, conducts intellectually engaging conversations, and quietly drains a servant in the cellars before retiring is a more disturbing figure than a snarling beast. The cosmology supports the former; the GM should lean into it.
 
-**Nightwight politics are real and developable.** The control relationships, the lineage structures, the conflict between creators and creations — these can be developed into substantial campaign material. A campaign that involves the players' characters opposing a vampire court is also a campaign about the court's internal politics, which include real factions, real grievances, and real power dynamics. Some Nightwights may even be allies of convenience for the players, against rivals among their own kind.
+**Nightwight politics are real and developable.** The control relationships, the lineage structures, the conflict between creators and creations — these can be developed into substantial campaign material. A campaign that involves the players' characters opposing a vampire court is also a campaign about the court's internal politics, which include real factions, real grievances, and real struggles for power. Some Nightwights may even be allies of convenience for the players, against rivals among their own kind.
 
 **Failed-Ritual Helthraals raise the stakes for Nightwight encounters.** When a Nightwight ritual fails badly, the result is not "nothing happens." It is a Failed-Ritual Helthraal, possibly intelligent enough at first to be confused for a Nightwight. This means encounters with the aftermath of a failed ritual can be ambiguous — is this person a damaged Nightwight, a Failed-Ritual Helthraal, or something else? — and the answer takes time to become clear. Used sparingly, this is a useful narrative tool.
 
-**The dark theology of the cosmology applies.** Helspawn exist because mortal souls have been removed from their proper post-mortem trajectory. Every Helthraal is a soul that should have transitioned; every Nightwight is a soul that arranged to refuse the proper passage. The cosmological-religious frameworks of most Thalornan cultures treat this as a profound disorder — not just because Helspawn are dangerous to the living, but because they are _out of place_ in the order of things. Adherents of religions that take post-mortem destinations seriously will treat Helspawn with particular horror.
+**The dark theology of the cosmology applies.** Helspawn exist because mortal souls have been removed from their proper post-mortem trajectory. Every Helthraal is a soul that should have transitioned; every Nightwight is a soul that arranged to refuse the proper passage. The cosmological-religious frameworks of most Thalornan cultures treat this as a deep disorder — not just because Helspawn are dangerous to the living, but because they are _out of place_ in the order of things. Adherents of religions that take post-mortem destinations seriously will treat Helspawn with particular horror.
 
-**The Quaesitorium's hunting of necromancers includes Helspawn.** The Ordo's enforcement arm pursues necromancers because they are unsanctioned framework-mages doing soul-work the Ordo does not approve. The Quaesitorium also pursues Helspawn — particularly Nightwights — wherever they can be found. The hunt is dangerous (Nightwights are often more powerful than the Quaesitorium's investigators), and the Ordo accepts losses among its hunters as a cost of the work. Some Quaesitorium specialists have spent careers chasing specific Nightwight figures across decades; their motivations may be religious, political, personal, or some combination.
+**The Quaesitorium's hunting of necromancers includes Helspawn.** The Ordo's enforcement arm pursues necromancers because they are unsanctioned framework-mages doing soul-work the Ordo does not approve. The Quaesitorium also pursues Helspawn — particularly Nightwights — wherever they can be found. The hunt is dangerous (Nightwights are often more powerful than the Quaesitorium's investigators), and the Ordo accepts losses among its hunters as a cost of the work. Some Quaesitorium specialists have spent their working lives chasing specific Nightwight figures across decades; their motivations may be religious, political, personal, or some combination.
 
-**Helspawn-hunters as a profession.** Across Thalorna, several professional traditions exist for hunting Helspawn — typically employing some combination of framework-magic (priestly or arcane), specialised weapons, ritual knowledge, and mundane investigation. The Quaesitorium maintains formal hunters within the Ordo's structure. Independent hunters operate in regions where the Ordo has limited reach. Folk traditions in some areas raise particular families or lineages as Helspawn-hunters. Campaigns can centre on such hunters — their methods, their training, their losses, their occasional triumphs.
+**Helspawn-hunters as a profession.** Across Thalorna, several established traditions exist for hunting Helspawn — typically employing some combination of framework-magic (priestly or arcane), specialised weapons, ritual knowledge, and mundane investigation. The Quaesitorium maintains formal hunters within the Ordo's structure. Independent hunters operate in regions where the Ordo has limited reach. Folk traditions in some areas raise particular families or lineages as Helspawn-hunters. Campaigns can centre on such hunters — their methods, their training, their losses, their occasional triumphs.
 
 **Specific Helspawn types belong in the bestiary.** This document covers the cosmological foundation. Specific named undead — particular vampire courts, particular Nightwight lineages, particular Helthraal variants associated with certain regions or traditions — belong in their own bestiary entries, with statistics, lore, and adventure hooks. The cosmology established here applies to all of them; the specifics are individual.
 

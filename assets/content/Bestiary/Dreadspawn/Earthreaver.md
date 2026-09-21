@@ -250,59 +250,27 @@ sohl:
 
 ![[erthrvr|Earthreaver]]{float: top-left}
 
-The ground writhes. Soil ripples like water, and then the thing erupts—segmented, armored, impossibly long. Its body is a chain of chitinous plates that glisten with slime and crushed earth. Too many legs move in synchronized horror, carrying it forward at speeds that shouldn't be possible for something so massive. Its mandibles open, dripping venom that hisses where it touches stone. The stench of turned soil and something acidic fills your nostrils.
+The ground writhes. Soil ripples like water under your feet, and then the thing erupts — segmented, armoured, impossibly long. Its body is a chain of chitinous plates glistening with slime and crushed earth. Too many legs move in a single dreadful rhythm, carrying it toward you at a speed nothing that size should manage. Its mandibles open, and what drips from them hisses where it touches the stone. The stench of turned soil and something acid fills your nose.
 
 # Dossier {#dossier}
 
-Earthreavers are apex predators of underground ecosystems, venomous hunters that rule through speed and toxin rather than raw strength. These creatures reshape terrain through their burrowing, creating vast networks of passages that form their hunting grounds. Adventurers encounter them in deep cavern systems, in mountain passages, and in places where mining operations have disturbed soil the creatures claim as home.
+Earthreavers rule the country under the ground, hunting by speed and poison rather than by brute strength. Their burrowing remakes the terrain: a single animal cuts a great network of passages under its territory and hunts through them. They are met in deep cave systems, in the passes through mountains, and wherever a mine has broken into soil the creature counts as its own.
 
-## Presentation
+## The Animal
 
-The Earthreaver is a massive worm-like arthropod, roughly thirty feet in length, its body composed of overlapping segments of dark brown and black chitin. Each segment is independently armored and supported by multiple jointed legs—six pairs, allowing coordinated, wave-like movement that provides both horizontal and vertical mobility. The creature's head is dominated by powerful mandibles capable of slicing through stone; these mandibles drip with iridescent venom. Its anterior segments bear sensory tentacles used for detecting prey. The creature's skin is constantly moist with secretions that aid in burrowing; this slime is itself acidic and caustic. Movement is accompanied by the wet sounds of burrow creation and the scrape of chitin sliding through stone.
+An Earthreaver is a worm-shaped arthropod about thirty feet long, built of overlapping segments of dark brown and black chitin. Each segment is armoured on its own and carried on jointed legs — six pairs in all — so that the whole body moves in a wave that carries it up and down as easily as along. The head is mostly mandibles, strong enough to cut stone, and they drip an iridescent venom. Tentacles on the front segments feel for prey. The skin is always wet with a secretion that eases burrowing and is itself acid and caustic; it burns bare flesh and corrodes armour, and gear that has been in it for long falls apart. The creature can smear it deliberately over a victim, or over a passage it wants to make dangerous. It moves to the wet sound of earth being cut and the scrape of chitin through rock.
 
-## Key Behaviors
+## The Tunnels
 
-The Earthreaver is an active, aggressive hunter that creates vast burrow networks beneath its claimed territory. Unlike many burrowing creatures, it hunts actively and frequently, emerging randomly throughout its territory to attack anything moving within its domain. It demonstrates sophisticated hunting intelligence—understanding prey behavior, setting ambushes in frequented passages, even herding prey toward specific kill zones. It does not share territory peacefully; if another Earthreaver enters its domain, violence is inevitable. When satisfied with feeding, it becomes less active but still vigilant. It exhibits no social behavior and shows no evidence of mating rituals or family groups.
+It goes through earth, sand and stone as other animals go through air, fast, and leaves behind it passages large enough for its own body, which it then uses for ambush, for escape, and for pushing its ground outward. It hunts often and actively rather than lying in wait, surfacing without warning anywhere in its territory to take whatever is moving there, and it hunts with intelligence — it reads how prey behaves, sets ambushes in the passages prey uses, and drives prey toward a killing ground it has chosen. Earthreavers have been seen to farm: keeping a burrow system in order, letting a prey species settle in it, then hunting it through methodically. Another earthreaver in the territory means a fight; there is no evidence of mates, or of young kept, or of any social life at all. After feeding it is quieter, though never off guard. It feels the whole of its territory through the ground, and anything walking on it or digging through it is known at a good distance.
 
-## Combat Strategy
+## The Bite
 
-The Earthreaver favors ambush from below or within burrow passages where its mobility advantage is greatest. It erupts from beneath soil with tremendous speed, attempting to wound severely with mandible strikes before withdrawing. If prey is wounded and weakened by venom, it stalks patiently. If prey proves resilient, it employs repeated hit-and-run tactics from burrow passages, never remaining exposed for long. It uses terrain knowledge to break contact and regenerate between engagements. Against prey that prevents burrowing access, it fights more directly but still maintains mobility.
+The mandibles snap forward faster than the eye follows, to seize and crush, and what matters more is what goes in with them: a venom that brings on paralysis and weakness by stages, and adds up — each further bite from the same animal makes the paralysis worse, until the victim cannot move at all. The first attack is generally an eruption from below, the sudden violence of it as much a weapon as the jaws; whatever is standing over it is thrown down, and the creature gets its first bite in before anyone has found their feet. Then it withdraws. If the venom is working it stalks, patiently. If the prey is proving tough it strikes again from the passages, and again, never staying exposed for long, using its tunnels to break contact and recover between bouts. Only against prey that has managed to deny it the ground does it stand and fight, and even then it keeps moving. A damaged segment costs it little; the body goes on working around it, and the animal has to be wrecked from end to end before it stops.
 
-## Attack Methods
+## What Works
 
-### Venomous Bite
-
-The Earthreaver's mandibles snap forward with tremendous speed, attempting to seize and crush prey. More critically, the attack injects potent venom that causes progressive paralysis and muscle weakness. Multiple bites from the same creature stack venom effects.
-
-### Burrow Eruption
-
-The creature emerges explosively from beneath soil or debris, using the sudden movement as a weapon as much as an attack pose. Targets struck by this eruption are knocked prone; the creature gains advantage on its first attack when emerging this way.
-
-### Acid Slime
-
-The caustic secretions covering the creature damage exposed flesh and corrode armor. Prolonged contact causes deterioration of equipment; the creature can deliberately coat targets or burrow passages with this slime to create hostile terrain.
-
-## Special Abilities
-
-### Burrowing Mastery
-
-The Earthreaver moves through earth, sand, and stone as easily as other creatures move through air. It burrows at substantial speed and can create passages large enough for its body to pass through. These passages can be used by the creature for ambush, escape, or territory expansion.
-
-### Venom Potency
-
-The creature's venom is progressive and cumulative. Each injection causes increasing paralysis; targets affected by multiple injections suffer severe movement impairment and potential complete immobilization.
-
-### Segmented Resilience
-
-The creature's multi-segmented body allows it to function even when partially damaged. Damage to individual segments does not significantly hamper overall function; the creature requires total systemic damage to be truly incapacitated.
-
-### Vibration Sensing
-
-The Earthreaver perceives its environment through vibrations in earth and stone, detecting anything moving across or through its territory. It can sense prey at considerable distances through the ground.
-
-## Additional Information
-
-Fire-based attacks are particularly effective against the Earthreaver, as heat damages its moist exoskeleton and can cause severe pain. Extreme cold similarly cracks and weakens its chitinous armor. Water in burrow passages can flood its tunnels and drive it to surface, though the creature is capable of traveling through water for limited periods. Earthreavers have been observed farming territories—maintaining specific burrow systems and allowing certain prey species to populate them before systematic hunting.
+Fire. Heat dries and damages the wet shell and plainly hurts it badly. Hard cold cracks and weakens the chitin in much the same way. Water is a lever, too — flooding the passages drives an earthreaver up to the surface, though it can travel through water for a while when it must.
 
 ## Attributes
 

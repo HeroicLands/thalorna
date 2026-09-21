@@ -320,67 +320,27 @@ sohl:
 
 # Appearance {#appearance}
 
-The darkness seems to breathe. What emerges from the night is not wolf and not ordinary beast, but something touched by old, foul magic. It stands nearly four feet at the shoulder, but where a dire wolf is lean and quick, this creature is vast and heavy—muscles like iron beneath fur black as starless night, each bristle of its mane catching reflected firelight like dark metal. The eyes arrest you first: they burn with an intelligence that is utterly alien, utterly malevolent—not the simple predatory focus of beast but the calculating judgment of something that reasons, understands, and has decided your worth is measured in blood. When it breathes, you see that its breath steams even in mild air, and the sound is less growl than rumble of distant thunder. Around it, you sense movement in the darkness—other shapes, other eyes—and you understand with chilling clarity that this beast does not hunt alone, but commands. The thing fixes you in its gaze and you feel the weight of its attention like a physical force. It speaks—and though the sound that emerges is a subsonic howl, the meaning is clear: _We are here. We will feed._
+The darkness seems to breathe. What comes out of the night is not a wolf and not any ordinary beast, but something touched by old, foul magic. It stands nearly as high as your chest at the shoulder, and where a dire wolf is lean and quick this creature is vast and heavy — muscle like iron under fur as black as a starless night, every bristle of its mane catching the firelight like dark metal. The eyes arrest you first: they burn with an intelligence that is wholly alien and wholly malevolent — not the plain focus of a hunting beast but the calculating judgement of something that reasons, understands, and has decided what you are worth in blood. Its breath steams in the mild air, and the sound it makes has more of distant thunder in it than of any growl. Around it you sense movement in the dark — other shapes, other eyes — and you understand, with a chill, that this beast does not hunt alone. It commands. It fixes you in its gaze and you feel the weight of its attention like a hand on your chest. Then it speaks — and though the sound that comes is a howl below hearing, the meaning is plain: _We are here. We will feed._
 
 # Dossier {#dossier}
 
-The Warg is a supernatural predator of the highest order: a giant wolf touched and transformed by fell magic into something far more than mere animal. Standing three and a half to four feet at the shoulder and weighing four hundred to five hundred pounds, the warg combines the predatory efficiency of wolves with an unnatural intelligence that borders on the sapient. Unlike dire wolves—which are merely large and somewhat smarter versions of their natural cousins—the warg is categorically different: a creature twisted by dark powers into a tool of conquest and death. Wargs are possessed of a malevolent cunning, an understanding of tactics and strategy beyond what natural wolves can achieve, and a capacity for genuine cruelty that exceeds mere hunger. They are sometimes ridden by Grukar (goblin-folk), serving as both mounts and leaders of goblin war bands. These partnerships are far from domestication; rather, the warg and its Grukar rider achieve a synergy born of shared cruelty and predatory alliance. Wargs maintain pack structures similar to ordinary wolves, but with hierarchies far more rigid and potentially brutal. A warg pack is not a cooperative family unit but a military organization with strict command and absolute obedience. Adventurers encounter wargs primarily as vanguards of goblin war bands or as independent predators in wilderness regions touched by ancient curses and dark magic.
+The Warg is a giant wolf that fell magic has made into something else. It stands three and a half to four feet at the shoulder and weighs four to five hundred pounds, and it joins a wolf's economy in killing to an intelligence that borders on the sapient. A dire wolf is a large, somewhat cleverer wolf. A warg is a different kind of thing, twisted by dark powers into an instrument of conquest — cunning, tactical, and cruel past any hunger. Wargs are met as the vanguard of Grukar war bands or on their own in wild country under old curses.
 
-## Presentation
+## The Riders
 
-The warg is fundamentally canid—four-legged, digitigrade, with the body plan of a predatory hunter—but warped into something far more sinister than any natural wolf. The body is massive and heavily muscled, with longer legs than a normal wolf and a deeper chest that speaks of terrible power. The fur is invariably dark: black, dark gray, or burned brown, and it lies sleek and oily against the massive frame, shot through with an unsettling iridescence in certain light, as though the creature itself sheds darkness. The mane is voluminous and bristles constantly, regardless of wind or emotion, as though perpetually raised by unseen forces. The head is large and wedge-shaped, with a longer snout than a dire wolf but a more massive jaw structure. The teeth are enormous, yellow and cruel, visibly capable of crushing bone. The eyes are the most terrible feature: they burn with an intelligence that is utterly unnatural, filled with hunger and malice and something approaching comprehension. The tail is thick and powerful, useful for balance and expression. The claws are non-retractable and wickedly sharp, suited equally to gripping prey and climbing. The overall presence is profoundly wrong—a creature that violates the natural order, that inspires dread beyond merely practical fear.
+Grukar ride them, and a warg carries its rider as a leader of the band rather than as a mount. It is not domestication. The two understand each other, and the warg understands more than the rider might like — the plan of a raid, the shape of a campaign, what an enemy will do next.
 
-## Key Behaviors
+## The Pack
 
-Wargs organize into packs of five to fifteen individuals, with rigid hierarchies centered on the strongest or most magically potent individuals. Unlike natural wolves, wargs do not hunt cooperatively for survival but perform coordinated military operations with clear tactical objectives. A warg pack under a dominant alpha operates with precision and subordination that natural wolves never achieve. They maintain territories but are far more aggressive in defending or expanding them than natural wolves, conducting deliberate raid operations against rival packs and other predators. They are diurnal or nocturnal as circumstances dictate, fully capable of hunting effectively in either condition. They are omnivorous but strongly carnivorous, and they show particular predatory preference for humanoid prey—elves, humans, dwarves—treating such hunting as a form of sport rather than mere survival. Wargs that are bonded to Grukar riders develop a synergistic relationship that transcends normal animal-rider dynamics; the warg appears to understand tactical concepts, strategy, and the broader context of military operations. Wargs are capable of vocalizing beyond simple howls and growls, producing subsonic rumbles that carry complex meaning to other wargs across vast distances. They live significantly longer than natural wolves, with individuals potentially reaching forty years or more.
+Wargs run in packs of five to fifteen under the strongest or the most magic-touched among them, and the hierarchy is rigid and enforced. A natural wolf pack hunts to eat. A warg pack conducts operations: raids on rival packs and on other predators, deliberate expansion of territory, hunts with objectives. They hunt by day or by night as the work requires. They eat anything but prefer meat and prefer above all the flesh of elves, humans and dwarves, which they pursue as sport. They speak to each other in rumbles below human hearing that carry meaning across miles, and a warg lives long for a wolf — forty years and more.
 
-## Combat Strategy
+In a fight the pack flanks and isolates, comes from several directions at once, and keeps pressing until the prey goes down. Each warg holds its place in a formation and supports its neighbours without any sign passing between them. They read an enemy and change tactics on it: archers first, then one man at a time cut out and finished; against armour, the joints, the legs, the face, rather than brute force. They drive prey with the ground — to a cliff edge, into a dead end, onto a place they have prepared. Defending territory or young they attack anything, however strong, without hesitation. A warg on its own is careful but not afraid; it will run down a lone man for as long as it takes, knowing it outmatches him. The synchrony of a pack under a strong leader is not natural — every animal seems to know what every other will do before it does it, and the likeliest explanation is that something links them.
 
-A warg pack's combat doctrine is organized and ruthless: flanking maneuvers that isolate targets, coordinated ambushes from multiple vectors, and relentless pressing of attacks until prey collapses. Individual wargs demonstrate clear understanding of formation fighting, maintaining coordinated positions and supporting flanking maneuvers without apparent communication. A warg will shift tactics based on observed enemy behavior, focusing on archers first, then isolating individual targets for elimination. Against heavily armored opponents, wargs coordinate attacks on weak points—joints, exposed legs, faces—rather than attempting to overwhelm through raw force. A warg pack defending territory or protecting young exhibits suicidal determination, attacking far stronger opponents without hesitation. A single warg separated from its pack becomes cautious but not cowardly; it will pursue prey relentlessly even alone, understanding that it outclasses most individual opponents.
+## The Body
 
-## Attack Methods
+It is built as a canid — four legs, walking on the toes, a hunter's frame — and everything in the frame is enlarged and made worse: longer legs than a wolf's, a deeper chest, a great deal more mass. The fur is always dark, black or dark grey or burned brown, lying oily and sleek, with an unsettling iridescence in some lights, as if the animal shed darkness. The mane bristles all the time, whatever the wind or the animal's mood. The head is big and wedge-shaped, the muzzle longer than a dire wolf's and the jaw much heavier, the teeth enormous, yellow and plainly able to crush bone. The tail is thick and expressive. The claws do not retract and are sharp enough for climbing as well as for holding prey. The whole animal reads as a violation, and the fear it causes is out of proportion to the practical danger, which is already very great.
 
-### Crushing Bite
-
-The warg's bite force exceeds that of natural wolves and dire wolves combined. A single bite can crush bones, sever limbs, and penetrate armor of moderate strength. The warg's technique involves clamping and holding, pinning prey while pack-mates attack.
-
-### Coordinated Pack Strike
-
-Multiple wargs attack simultaneously from different vectors, each strike designed to support the others' attempts to isolate and overwhelm targets. This coordination suggests genuine tactical communication and planning.
-
-### Raking Claw Attack
-
-At close range, the warg tears with claws as readily as teeth, particularly effective against targets that are trying to flee or defend against the bite.
-
-### Driving and Trapping
-
-The warg pack uses terrain and coordinated movement to drive prey toward specific locations—cliff edges, dead-ends, prepared ambush sites—forcing targets into positions of maximum vulnerability.
-
-## Special Abilities
-
-### Supernatural Intelligence
-
-The warg possesses genuine sapient-level reasoning: it understands tactics, hierarchy, cause and effect across time, and even the broader contexts of military campaigns. While not capable of language or abstract philosophy, the warg can plan multi-stage operations, remember specific individuals, and make decisions based on calculated risk versus reward.
-
-### Pack Dominion
-
-A warg pack under a dominant alpha operates with supernatural synchronization. Individual wargs maintain formation without apparent communication, anticipate the actions of pack-mates with perfect accuracy, and adjust tactics mid-combat based on emerging circumstances. This coordination suggests shared consciousness or magical link between pack members.
-
-### Darkvision
-
-The warg hunts as effectively in absolute darkness as in daylight, seeing in the infrared spectrum and through magical darkness with equal competence. This gives warg packs enormous advantage in nocturnal or subterranean environments.
-
-### Aura of Dread
-
-The presence of a warg induces supernatural fear in prey creatures—a primal dread that transcends rational analysis. Creatures in the presence of a warg pack suffer psychological pressure that can lead to panic, flight, or paralysis.
-
-### Terrible Howl
-
-The warg can vocalize in a subsonic howl that carries across distances of miles, conveying complex meaning to other wargs and disrupting the morale of hearing creatures. This howl can coordinate pack actions across great distances and shake the courage of lesser beings.
-
-### Supernatural Endurance
-
-Wargs are less subject to fatigue than natural wolves and can maintain pursuit for days at a time without rest, seemingly driven by will and magic rather than mere physiology.
+The bite is stronger than a natural wolf's and a dire wolf's put together — it crushes bone, takes limbs, and goes through moderate armour — and the warg's habit is to clamp and hold, pinning the victim for the rest of the pack. At close quarters it tears with the claws as readily as the teeth, most of all at prey trying to run or to guard against the bite. It sees in total darkness, in the heat of bodies and through magical dark, and a warg pack underground or by night has every advantage. Its mere presence puts a supernatural dread into prey that reason does not lift; people panic, run or freeze. Its howl carries for miles below hearing, orders the pack across that distance and breaks the courage of anyone who feels it. And it does not tire as a wolf tires. A warg can follow a trail for days without rest, driven by will and by magic more than by flesh.
 
 ## Attributes
 

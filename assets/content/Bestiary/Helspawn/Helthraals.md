@@ -519,9 +519,9 @@ sohl:
 
 ![[hlthrls|Helthraals]]{float: top-left}
 
-What rises before you is the obscenity of a corpse made animate — a body that has been dead long enough to decay, long enough that pieces should be missing, yet here it stands moving with a shambling gait. The smell hits you like a physical force — rot, decay, the stench of death too advanced to sustain life. Where flesh has fallen away, bone is visible beneath. Patches of mold and fungi grow across the surface. Yet the creature moves with terrible purpose, driven by something other than flesh, other than will. Its eyes, if they can be called that, are dark pits filled with necromantic shadow. This was a person once. No longer.
+What rises in front of you is the obscenity of a corpse made to move — a body that has been dead long enough to decay, long enough that pieces should be missing, and yet here it stands, shambling forward. The smell hits you like a physical blow — rot, decay, the stench of a death too far gone to hold any life. Where the flesh has fallen away you see bone. Patches of mould and fungus grow across the surface. Yet the thing moves with a terrible purpose, driven by something other than flesh, other than will. Its eyes, if they can be called that, are dark pits filled with shadow. This was a person once. No longer.
 
-But not all Helthraals have reached this state. Some are far more terrible precisely because they are still recognizable — a returned husband whose eyes are slightly wrong, a daughter brought back from the grave who speaks in broken sentences and flinches from sunlight. These are the recently returned, the ones who still remember, and they are more disturbing than any shambling corpse because they occupy the space between the living and the dead where neither category quite applies.
+Not all of them look like that. Some are far more terrible for being recognisable — a returned husband whose eyes are slightly wrong, a daughter brought back from the grave who speaks in broken sentences and flinches from the sun. These still remember, and they are more disturbing than any shambling corpse, because they stand in the space between the living and the dead where neither word quite fits.
 
 # Dossier {#dossier}
 
@@ -533,17 +533,17 @@ Helthraals exist along a continuous spectrum of degradation. Where on the spectr
 
 ### The Recently Returned
 
-A soul pulled back shortly after death by a skilled necromancer may produce a Helthraal almost indistinguishable from the living person at first glance. The body is cold to the touch, the skin slightly grey or pallid, the eyes not quite right — too still, too reflective, or carrying a faint luminescence in low light. But the person speaks. They recognise family. They remember their name, their home, fragments of their life. Some can carry on conversation, follow complex instructions, even display emotion — though whether these emotions are genuine or echoes of habit is a matter of grim theological debate.
+A soul pulled back shortly after death by a skilled necromancer may produce a Helthraal almost indistinguishable from the living person at first glance. The body is cold to the touch, the skin slightly grey or pallid, the eyes not quite right — too still, too reflective, or carrying a faint luminescence in low light. But the person speaks. They recognise family. They remember their name, their home, fragments of their life. Some can carry on conversation, follow complex instructions, even display emotion — though whether these emotions are real or only the habit of them is a matter of grim theological debate.
 
 These recently returned Helthraals are the most dangerous to encounter emotionally, because they provoke sympathy rather than revulsion. A grieving spouse sees their partner returned, diminished but _present_, and the instinct is to care for them, to hope, to believe that this is still the person they loved. It is not. The soul is damaged, the personality fragmentary, and the hunger is already there — suppressed initially by whatever remains of the person's will, but present and growing. The recently returned may go days or even weeks before the hunger becomes unmanageable. When it does, the results are catastrophic for anyone nearby.
 
-**Attributes:** Recently returned Helthraals retain much of their living capability. Physical attributes may be only slightly diminished (or in some cases enhanced by necromantic energy), and mental attributes can be near-normal initially. They can use weapons with skill, speak clearly, and navigate complex environments. They are the most individually dangerous Helthraals because they combine near-human intelligence with the beginnings of undead resilience.
+**Attributes:** Recently returned Helthraals retain much of their living capability. Physical attributes may be only slightly diminished (or in some cases enhanced by necromantic energy), and mental attributes can be near-normal initially. They can use weapons with skill, speak clearly, and find their way through difficult ground. They are the most individually dangerous Helthraals because they combine near-human intelligence with the beginnings of undead resilience.
 
 ### The Fading
 
 Within weeks to months of reanimation (the rate varies based on the strength of the original soul, the skill of the necromancer, and the time spent in the spirit realm before retrieval), the degradation becomes unmistakable. Speech becomes slurred, then monosyllabic, then gone. Memory fragments — the Helthraal may recognise a place or a face but cannot say why. Coordination deteriorates: movements become stiff, then jerky, then shambling. The skin greys and begins to show signs of decay that no living body would exhibit. The eyes lose whatever warmth they had, becoming flat and dark.
 
-The hunger, previously suppressed, becomes the dominant drive. A fading Helthraal will attack living creatures to feed, though the feeding provides no benefit — the blood and flesh consumed simply pass through or accumulate uselessly. The compulsion is spiritual, not nutritional, a broken echo of the soul's desperate need for the vitality it lost.
+The hunger, previously suppressed, becomes the dominant drive. A fading Helthraal will attack living creatures to feed, though the feeding provides no benefit — the blood and flesh consumed simply pass through or accumulate uselessly. The compulsion is spiritual, not nutritional, a broken remnant of the soul's desperate need for the vitality it lost.
 
 **Attributes:** Physical attributes begin to decline, particularly dexterity and agility. Strength and endurance may remain high due to necromantic sustenance. Mental attributes deteriorate rapidly — reasoning, will, and perception all falling. The Helthraal becomes increasingly reliant on instinct and the commands of its controller.
 
@@ -569,73 +569,35 @@ This is because the Nightwight ritual _partly succeeded_. The candidate's soul w
 
 ## The Hunger
 
-All Helthraals, regardless of where they fall on the spectrum, experience an insatiable hunger for the flesh and blood of the living. The hunger is not nutritional — consuming flesh provides no sustenance, no healing, no benefit. It is a spiritual compulsion, the broken soul's desperate and futile attempt to reclaim the vitality it lost. Blood is the strongest draw; a Helthraal will pursue bleeding prey with particular intensity, driven by the warmth and life-force that blood represents. But flesh, breath, warmth of any kind — all provoke the hunger.
+All Helthraals, regardless of where they fall on the spectrum, experience an insatiable hunger for the flesh and blood of the living. The hunger is not nutritional — consuming flesh provides no sustenance, no healing, no benefit. It is a spiritual compulsion, the broken soul's desperate and futile attempt to reclaim the vitality it lost. Blood is the strongest draw; a Helthraal will pursue bleeding prey with particular intensity, driven by the warmth and life-force that blood represents. But flesh, breath, warmth of any kind — all provoke the hunger. They always prefer the living blood and flesh of their own kind before all others. Dead flesh and spilled blood have no attraction for them.
 
 The recently returned may suppress this hunger through residual willpower, sometimes for weeks. As degradation progresses, the hunger becomes uncontrollable. In their terminal state, the hunger is all that remains — the last flicker of animation in a body that has lost everything else.
 
-## Presentation
+## The Body Over Time
 
-The appearance of a Helthraal depends entirely on its position on the degradation spectrum. The recently returned may look almost normal — pale, cold, slightly stiff in their movements, but clothed and clean and recognisable. A Helthraal several weeks into degradation shows visible signs: greying skin, sunken features, a faint smell of decay, movements becoming increasingly mechanical. A fully degraded Helthraal is the classic horror — rotting flesh, exposed bone, tattered remnants of clothing, hollow eyes, overwhelming stench. The progression is continuous and irreversible.
+How a Helthraal looks depends entirely on its position on the degradation spectrum. The recently returned may look almost normal — pale, cold, slightly stiff in their movements, but clothed and clean and recognisable. A Helthraal several weeks into degradation shows visible signs: greying skin, sunken features, a faint smell of decay, movements becoming increasingly mechanical. A fully degraded Helthraal is the classic horror — rotting flesh, exposed bone, tattered remnants of clothing, hollow eyes, overwhelming stench. The progression is continuous and irreversible.
 
-## Combat Strategy
+## How They Fight
 
-Helthraals fight according to their position on the spectrum. The recently returned retain combat skills from life and can employ tactics, use weapons with proficiency, and make intelligent decisions in battle. They are dangerous opponents because they combine near-human capability with the beginnings of undead resilience — they feel no pain, do not tire, and can absorb injuries that would incapacitate a living fighter. As degradation progresses, tactics give way to instinct, instinct gives way to simple aggression, and simple aggression gives way to the mindless, relentless advance of the shambling dead. In groups, degraded Helthraals overwhelm through numbers and endurance, pressing attacks from multiple directions without regard for self-preservation.
+Helthraals fight according to their position on the spectrum. The recently returned retain combat skills from life and can employ tactics, use weapons with real skill, and make intelligent decisions in battle. They are dangerous opponents because they combine near-human capability with the beginnings of undead resilience — they feel no pain, do not tire, and can absorb injuries that would incapacitate a living fighter. As degradation progresses, tactics give way to instinct, instinct gives way to simple aggression, and simple aggression gives way to the mindless, relentless advance of the shambling dead. In groups, degraded Helthraals overwhelm through numbers and endurance, pressing attacks from multiple directions without regard for self-preservation.
 
-## Attack Methods
+Those that keep skill from life fight with whatever weapons they possessed or were given; degraded Helthraals strike clumsily but with supernatural strength. The hunger drives all of them toward close-quarters feeding, and even those with weapons will sometimes drop them to grapple and bite, particularly when the hunger is strong. The bite of a Helthraal carries infectious contamination — wounds inflicted by undead teeth often fester and cause sepsis. Multiple degraded Helthraals charging together create a wave of undead flesh that can overwhelm positions through sheer mass, and a group of them converging on prey (whether directed by a controller or simply drawn to the same warmth) will press relentless assaults, wearing the target down through repeated strikes from multiple directions. When several are controlled by the same entity, they move in perfect coordination without visible signals, as if they shared some connection through the controller.
 
-### Weapon Strike
+## What They Do Not Need
 
-Helthraals that retain skill from life fight with whatever weapons they possessed or were given. The recently returned may fight with genuine proficiency. Degraded Helthraals strike clumsily but with supernatural strength.
+A Helthraal does not tire, does not feel pain, and does not suffer effects on the mind.
 
-### Grapple and Bite
+It does not need to breathe. Initially it may mimic breathing, and it must draw breath to speak, but it cannot be suffocated or drowned. A Helthraal cannot float or swim; it drops to the bed of the river, lake or sea and walks there until it finds a way out of the water.
 
-The hunger drives all Helthraals toward close-quarters feeding. Even those retaining weapons will sometimes drop them to grapple and bite, particularly when the hunger is strong. The bite of a Helthraal carries infectious contamination — wounds inflicted by undead teeth often fester and cause sepsis.
+It has no need of sustenance. The necromantic energy is what animates it, and it takes no interest in eating or drinking ordinary food of any sort. If it does eat, it will in the end regurgitate the food undigested but putrid, since the digestive system no longer works but the food decays. This is separate from the Hunger, which is a spiritual compulsion.
 
-### Shambling Charge
+It survives the destruction of internal organs that would kill a living creature and keeps functioning when missing limbs, as long as the core animation sustains. It fights at full strength until destroyed and keeps moving until grievously damaged. No shock rolls are necessary. In many cases severed limbs go on animating — fingers dragging a severed hand across the ground, a leg continuing to bend and kick, a torso with one arm reaching out to grasp a victim. Only a grievous wound to a body part disables that body part, and only by disabling all of the body parts can a Helthraal be destroyed. Burning the whole body with fire is a particularly effective way to finish one.
 
-Multiple degraded Helthraals charging together create a wave of undead flesh that can overwhelm positions through sheer mass.
+## Daylight
 
-### Overwhelming Assault
+A Helthraal's abilities and resilience are degraded in ordinary sunlight. Torchlight and other light sources have no effect; only daylight does. Serious wounds are treated as grievous wounds when inflicted in daylight, and the Helthraal decays at a faster rate (3x normal) while exposed to ordinary sunlight. Even highly functional Helthraals avoid daylight if at all possible, hiding in a room or other shade to keep out of the direct sun.
 
-A group of Helthraals coordinating attacks (whether directed by a controller or simply converging on prey) will press relentless assaults, wearing the target down through repeated strikes from multiple directions.
-
-## Special Abilities
-
-### No Pain or Fatigue
-
-A Helthraal does not tire, does not feel pain, and does not suffer psychological effects.
-
-### No Need for Air or Rest
-
-A Helthraal does not need to breathe. Initially it may mimick this behavior, and it is necessary to breathe to speak, but it cannot be suffocated or drown. A helthraal cannot float or swim, but will drop to the river, lake, or sea floor, where they can walk to eventually make their way out of water.
-
-### No Need for Food
-
-A Helthraal has no need of sustenance. The necromantic energy is what provides them animation, and they will be uninterested in eating or drinking normal food of any sort. If they do so, they will ultimately regurgitate it undigested but putrid, since their digestive system no longer functions but the food decays.
-
-Note this is separate from the Hunger, which is a spiritual compulsion.
-
-### Supernatural Endurance
-
-A Helthraal can survive destruction of internal organs that would kill a living creature. It continues functioning even when missing limbs, as long as the core animation sustains. It fights at full strength until destroyed and will continue moving until grievously damaged. No shock rolls are necessary.
-
-In many cases, severed limbs will continue to animate, fingers draging a severed hand across the ground, a leg continuing to bend and kick to move, a torso with one arm reaching out to grasp a victim.
-
-Only a grevious wound to a body part will disable that body part, and only by disabling all of the body parts can a Helthraal be destroyed. A particularly effective way to defeat them is to use fire to burn the whole body.
-
-### Daylight Effects
-
-Helthraals abilities and resilience is degraded in normal sunlight. Torchlight or other sources of light have no effect, only daylight. The effect of this is that serious wounds are treated as if they are grevious wounds when inflicted in daylight, and the Helthraal decays at a faster rate (3x normal) when exposed to regular sunlight. Even highly functional Helthraals will avoid daylight if at all possible, hiding in a room or other shade to avoid direct sunlight.
-
-Note that the effect of sunlight on a Helthraal is directly proportional to its ability to cast a shadow. On dark, rainy, overcast days, the Helthraal may be unaffected by the dim daylight.
-
-### Hive Coordination
-
-When multiple Helthraals are controlled by the same entity, they move in perfect coordination without visible signals, suggesting they share some form of connection through the controller.
-
-### Flesh Hunger
-
-All Helthraals are drawn to living flesh and blood with compulsive intensity. They always prefer the living blood an flesh of their own kind before all others. Dead flesh and spilled blood has no attraction for them.
+The effect of sunlight on a Helthraal is directly proportional to its ability to cast a shadow. On dark, rainy, overcast days, the Helthraal may be unaffected by the dim daylight.
 
 ## Creators and Control
 
@@ -643,11 +605,11 @@ All Helthraals have creators — either the necromancer who animated them or the
 
 Helthraals who are not directly controlled, or whose controller dies or is incapacitated, revert to their natural state. The Helthraal either does what it wants (if it still has the mental capacity for self-determination or self-preservation) or reverts to hunger-driven autonomy.
 
-## Additional Information
+## What Can Be Done
 
 A Helthraal cannot be cured. The degradation of the soul is irreversible, and no known magic can restore what has been lost. The kindest thing that can be done for a recently returned Helthraal — one that still remembers, still speaks, still recognizes loved ones — is to destroy it swiftly and perform proper funerary rites over the remains. Whether those rites accomplish anything for the already-damaged soul is a matter of theological debate, but the alternative — allowing the person to slowly degrade into a mindless, flesh-hungry shell while their family watches — is universally acknowledged as worse.
 
-Settlements dealing with Helthraals should focus on finding and eliminating the controller or the source of necromantic power. Large groups of degraded Helthraals can be managed with obstacles and barriers, which they will not intelligently circumvent. The presence of recently returned Helthraals — those that can still speak and reason — should be treated with extreme caution. They are not the people they appear to be. They are the echoes of those people, fading, and they will become dangerous.
+Settlements dealing with Helthraals should focus on finding and eliminating the controller or the source of necromantic power. Large groups of degraded Helthraals can be managed with obstacles and barriers, which they will not intelligently circumvent. The presence of recently returned Helthraals — those that can still speak and reason — should be treated with extreme caution. They are not the people they appear to be. They are what remains of those people, fading, and they will become dangerous.
 
 ## Attributes
 

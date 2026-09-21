@@ -250,55 +250,29 @@ sohl:
 
 ![[vnmspttr|Venomspitter]]{float: top-left}
 
-A shape moves at the corner of your vision—something serpentine and sinuous sliding across stone with impossible grace. Then you see it fully and freeze: a creature like a cobra crossed with something altogether more alien, its scales shimmering with iridescent color—deep purples bleeding into sickly greens, reds burning in places where no color should exist. The patterns on its scales seem to shift as you watch them, creating an optical dissonance that makes your eyes water. It raises its head, and you see the fangs—enormous hollow points from which fluid drips and sizzles, leaving char marks on the stone beneath. The creature’s eyes are dark, intelligent, and utterly fixed on you with predatory certainty. Then the reek hits you: something acrid and burning, the smell of the venom itself, and you realize with dawning horror that the creature is already moving.
+A shape moves at the corner of your eye — something serpentine and sinuous sliding across the stone with impossible grace. Then you see it whole and you freeze: a creature like a cobra crossed with something altogether more alien, its scales shimmering in colours that should not sit together — deep purples bleeding into sickly greens, reds burning where no red should be. The patterns seem to shift as you watch them, a dissonance that makes your eyes water. It raises its head, and you see the fangs — enormous hollow points from which a fluid drips and sizzles, leaving char on the stone. Its eyes are dark and intelligent and fixed on you with a hunter's certainty. Then the reek hits you, something acrid and burning, and you realise with a slow horror that the creature is already moving.
 
 # Dossier {#dossier}
 
-Venomspitters are creatures of living acid and predatory grace, serpents or vaguely spider-like beings whose entire biology is built around the production and delivery of corrosive toxins. They are found in warm places—jungle ruins, desert caves, and deep, humid caverns where heat and humidity allow their complex venom to develop properly. A Venomspitter is primarily ambush-oriented, and it demonstrates tactical intelligence in how it positions itself and plans attacks. These creatures are solitary and territorial, establishing specific areas where they lair and hunt, and they are known to actively maintain and improve their hunting grounds over time. A single Venomspitter can make an entire region treacherous, and communities often employ bounty hunters specifically to eliminate such creatures.
+Venomspitters are living acid on a predator's frame. Everything in their bodies is arranged around making corrosive poison and delivering it, and they live where it is warm and wet enough for that poison to develop — jungle ruins, desert caves, deep humid caverns. They are solitary and hold a territory, and a Venomspitter thinks about its ground: it chooses its ambush points, it improves them over the years, and it plans. One can make a whole district impassable, which is why towns pay bounty hunters to go in after them.
 
-## Presentation
+## The Animal
 
-A Venomspitter measures roughly 8 to 12 feet in length, with a body that is difficult to classify—it has qualities of both serpent and arachnid, with a segmented structure that allows unusual flexibility. Its scales are covered in patterns of iridescent coloration—purples, greens, reds, and sickly yellows arranged in warning patterns that seem to shift as the creature moves. Its head is vaguely reptilian with a flattened profile, and its mouth is enormous, capable of opening nearly at right angles to its body. Within that mouth sit enormous fangs, hollow and dripping constantly with venom so potent that it hisses and smokes, leaving char marks on stone. Its eyes are dark and intelligent, ringed with patterns of contrasting color. The creature’s entire body glistens with a slick, secreted fluid—partially venom, partially something else—that makes its movements fluid and nearly silent. The temperature drops noticeably near a Venomspitter, and the air is thick with acrid, chemical smells.
+A venomspitter is 8 to 12 feet long and hard to classify — serpent and spider both, with a segmented body that bends where a snake's would not. The scales carry iridescent warning colours, purples and greens and reds and sickly yellows, that seem to move as it moves. The head is flattened and vaguely reptilian, the mouth enormous, opening nearly square to the body, and in it sit huge hollow fangs that never stop dripping venom strong enough to smoke and to scar stone. The eyes are dark and ringed in contrasting colour. The whole body glistens with a slick secretion, part venom and part something else, that lets it move fluidly and near silently. The air is colder near it, and it stinks of chemicals.
 
-## Key Behaviors
+## Its Ground
 
-A Venomspitter is a patient hunter that establishes a territory and then carefully constructs favorable ambush positions within it. The creature seems to understand that waiting in optimal positions is more reliable than actively hunting, and it will remain motionless for hours or days if necessary. The creatures may or may not be truly web-spinning arachnids—the nature of their webs varies, and some Venomspitters do not appear to spin at all. Those that do create webs use them as territorial markers and as supplementary traps. The creature feeds on whatever prey it can immobilize and dissolve with its venom, from insects to humanoids. A gravid female becomes unusually aggressive and may extend her territory substantially during reproductive cycles.
+It waits. A venomspitter establishes its territory, builds good ambush positions inside it, and lies in one of them without moving for hours or days, having apparently worked out that waiting in the right place is more reliable than hunting. Some spin webs — the habit varies, and some do not spin at all — and those that do use them to mark the ground and as extra snares. It eats whatever it can paralyse and dissolve, from insects to people. A gravid female turns much more aggressive and may push her territory out a long way while she carries.
 
-## Combat Strategy
+## The Spray
 
-A Venomspitter fights by maintaining distance and using venom projection as its primary weapon. It moves with exceptional speed and agility, positioning itself at angles where it can strike enemies without exposing itself to counterattack. The creature is intelligent enough to focus on immobile or less dangerous targets first and will deliberately prioritize mages, archers, and other ranged threats. If forced into melee combat, it will attempt to inject venom through bites while using its speed and agility to avoid sustained contact. A Venomspitter will retreat if seriously wounded, moving to areas where it maintains advantage or escaping entirely if the threat is too great.
+Its first weapon is distance. It projects streams of venom with surprising accuracy at targets 20 to 30 feet away, and the venom eats through armour and then through the flesh under it, leaving chemical burns of the worst kind. It is precise enough to aim for the gaps in mail or for a face, to blind. Pressed harder, it throws things — stones coated in venom, gouts of regurgitated acid, whatever comes to hand — fast and true. Only in close quarters does it bite, and the bite delivers the venom straight into the body: a paralysis that spreads from the wound and ends in death if nothing is done. The supply of venom appears to have no bottom. It can spray, coat, or concentrate the stuff for stronger effect, as the moment needs.
 
-## Attack Methods
+It fights at range for as long as it can, moving with real speed to angles where it can strike and not be struck. It is clever enough to go for the least dangerous target first and to single out mages, archers and anyone else who can hurt it from a distance. In melee it bites and slips away rather than staying in reach. Seriously wounded, it retreats to ground where it holds the advantage, or leaves altogether. Everything it touches is left tainted with its secretions, which go on eating armour and gear until they are neutralised, and equipment that has taken its venom may never be sound again.
 
-### Corrosive Venom Spray
+## Hunting One
 
-The Venomspitter projects streams of venom with surprising accuracy and distance, aimed at targets from 20 to 30 feet away. The venom corrodes armor and flesh alike, eating through protection and causing terrible chemical burns.
-
-### Reactive Venom Projectiles
-
-When threatened more directly, the creature can launch projectiles—venom-coated rocks, regurgitated acidic globules, or other objects—at high speed and with precision targeting.
-
-### Venomous Bite
-
-In close combat, the creature’s bite delivers venom directly into the victim’s body, causing paralysis that spreads from the bite point and eventual death if untreated.
-
-## Special Abilities
-
-### Venom Generation
-
-The Venomspitter produces its venom continuously and seems to have near-infinite supply. The creature can spray venom, coat ammunition, or concentrate it for more potent effects as needed.
-
-### Precision Aim
-
-The Venomspitter’s venom projection is remarkably accurate, and it can target specific weak points in armor or aim for faces to blind opponents.
-
-### Corrosive Secretions
-
-Everything the creature touches becomes tainted with acidic secretions, slowly degrading armor and equipment if the acid is not neutralized. Equipment that has been exposed to Venomspitter venom may be permanently damaged.
-
-## Additional Information
-
-Cold is the Venomspitter’s primary weakness—sustained cold slows its metabolism and reduces its venom production dramatically. Extreme cold can even cause the creature to become dormant or lethargic. Fire is also effective, though the creature’s venom can neutralize some heat-based attacks. Isolation from water reduces the creature’s effectiveness, as it requires humidity to maintain its venom production at peak efficiency. The venom itself, if carefully collected and preserved, is extraordinarily valuable to alchemists, poisoners, and dark sorcerers. A single vial of pure Venomspitter venom can command a fortune from the right buyer. The creature’s hide, if preserved, also has alchemical value. Hunting a Venomspitter requires exceptional caution and specialized protective gear, as mere exposure to its venom can cause severe injury.
+Cold is its weakness. In sustained cold its body slows and its venom production falls off sharply; in real cold it goes torpid. Fire works too, though the venom can quench some of the heat. Dry air is bad for it — it needs humidity to keep the venom coming — and cutting it off from water blunts it. The venom, carefully collected and kept, is worth a great deal to alchemists, poisoners and dark sorcerers alike; a single vial of the pure stuff commands a fortune from the right buyer, and the hide has alchemical value too. Hunting one calls for great care and proper protective gear. Mere contact with the venom is a serious injury.
 
 ## Attributes
 

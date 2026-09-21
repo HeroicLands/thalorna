@@ -328,59 +328,17 @@ sohl:
 
 ![[glssfng|Glassfang]]{float: top-left}
 
-Nothing is there, and then something is—a shimmer of light bending wrong, a shadow that isn’t quite transparent enough. You see it only when it moves, and when it does, your breath catches: the thing is made of glass, or ice, or something harder than either. Curved fangs catch light even though they shouldn’t be visible. It’s the size of a hunting cat, sleek and lethal, and it moves faster than thought toward your throat with predatory focus utterly clear in eyes like crystal slivers.
+Nothing is there, and then something is — a shimmer where the light bends wrong, a shadow that is not quite transparent enough. You see it only when it moves, and when it does, your breath catches: the thing is made of glass, or ice, or something harder than either. Curved fangs catch a gleam they should not be able to catch. It is the size of a hunting cat, sleek and low, and it comes at your throat faster than thought, with a hunter's fixed attention in eyes like slivers of crystal.
 
 # Dossier {#dossier}
 
-Glassfangs are magical predators born where light magic concentrates in the physical world, small hunters of terrible speed and lethality. These creatures hunt in places of bright light and magical radiation, moving through the world nearly invisible. Adventurers encounter them in crystalline caverns, in places of high magical concentration, near ancient magical sites, and in areas where light refracts unpredictably.
+Glassfangs are born where light-magic gathers thickly enough in the world to take a shape. They are small — a large cat or a small dog — and made almost wholly of transparent crystal: a body drawn out for speed, scales smooth and edged like razors that cut on contact, a mouth of curved crystal fangs that go through most things, and those two dark eyes. In bright light a glassfang is as good as invisible unless it is moving fast. In dim light it can be made out, with difficulty. They turn up in crystal caverns, at old magical sites, in places where light refracts strangely, and around anything that gives off a great deal of magic — hence the wards.
 
-## Presentation
+A Glassfang is solitary and rarely still. It hunts constantly, prefers bright ground where nothing can see it, and will work in poorer light if that is where the prey is. It holds no territory and keeps away from its own kind, and it feeds often — on small animals, and on the life in magical beings, which it drains. It reads how prey moves and sets its ambush accordingly. Hurt, it does not go careful; it goes wild.
 
-The Glassfang is a small predator, roughly the size of a large cat or small dog, composed almost entirely of transparent crystalline material. Its body is sleek and aerodynamic, optimized for speed. Its scales are smooth yet razor-edged, capable of cutting on contact. Its most distinctive feature is its mouth—full of curved fangs made of crystal so clear they’re nearly invisible, yet capable of piercing through most materials. Its eyes are the only opaque features: small, dark points within the crystal body that burn with intelligent predatory focus. The creature produces a faint chiming sound as it moves, like wind-chimes or crystal striking crystal. In bright light, it becomes almost completely invisible, visible only as a shimmer or distortion of light. In dim light, it is somewhat more visible.
+Everything it does depends on not being seen. It stalks until it is certain, then comes at a speed that beats thought, the first bite aimed at something vital from a place nobody was looking, the edges of the fangs opening a wound that bleeds hard through armour ordinary teeth would not mark. If that does not finish the matter it bites again and again before there is anything to strike back at, and the fangs carry a magical venom that weakens with each bite and, with enough of them, paralyses. Pressed or injured, it can throw off shards of itself — razor slivers, several in succession, at whoever is nearest — and then it runs, faster than anything on legs can follow, bending the light around itself into flashes and distortions until it has broken line of sight. It does not stay to trade blows with anything as hard to kill as itself.
 
-## Key Behaviors
-
-The Glassfang is a solitary, highly active hunter that spends most of its time in motion, stalking prey. It prefers bright environments where its near-invisibility is most effective, but it will hunt in lower light if prey is available. It demonstrates considerable intelligence in understanding prey behavior and setting ambushes. The creature shows no territorial behavior—it simply hunts where prey exists. It feeds frequently, consuming small creatures and the life-force of magical beings. It shows no social behavior and exhibits no interest in other Glassfangs beyond territorial avoidance. When injured, it becomes erratic and aggressive rather than cautious.
-
-## Combat Strategy
-
-The Glassfang relies absolutely on surprise and invisibility. It stalks prey until certain of advantage, then strikes with explosive speed and ferocity. Its opening attack is a bite from concealment, aiming for vital areas. If that initial strike does not immediately incapacitate prey, it attacks again in rapid succession, using speed and invisibility to prevent retaliation. If it takes significant damage, it attempts to break contact and flee, using its speed to escape. It does not engage in prolonged combat with anything that matches its physical durability. If pursued, it uses light refraction and terrain knowledge to break line of sight and escape.
-
-## Attack Methods
-
-### Crystalline Bite
-
-The Glassfang lunges with tremendous speed, attempting to bite the target with its razor-edged fangs. The bite is designed to cause bleeding and open severe wounds; the fang edges can penetrate armor that would stop normal teeth.
-
-### Venomous Injection
-
-The fangs themselves secrete a magical venom that courses through the bitten victim’s bloodstream. The venom causes progressive weakness and potential paralysis with repeated applications.
-
-### Crystalline Shard Release
-
-When threatened or injured, the Glassfang can deliberately dislodge shards of its body and propel them toward threats. These shards are razor-sharp and travel with surprising speed; the creature can release multiple shards in succession.
-
-## Special Abilities
-
-### Transparency
-
-The Glassfang’s crystalline body refracts light in ways that render it nearly invisible. In bright environments, it is effectively invisible unless moving rapidly. In dim light, it is difficult to see but not impossible. It gains massive advantage on stealth and concealment checks and can approach prey without detection even in relatively open ground.
-
-### Crystalline Fragility
-
-The Glassfang’s transparency and hardness come at the cost of brittleness. While it resists slashing and piercing damage (the edges of its scales deflecting blades), it is extremely vulnerable to blunt-force trauma, sonics, and vibration. A single solid hit from a hammer or blunt weapon can crack or shatter sections of its body, severely impairing function.
-
-### Light Refraction
-
-The Glassfang can deliberately bend light around itself, creating distortion effects that confuse visual predators. It can create blinding flashes of refracted light to disorient pursuers or prey.
-
-### Predatory Acceleration
-
-The creature’s physical form allows for sustained high-speed movement. It can sprint at great speed without tiring and can maintain that speed for extended periods, making pursuit nearly impossible for normal creatures.
-
-## Additional Information
-
-Glassfangs are vulnerable to sonic and vibration-based attacks, which shatter their crystalline structure. Blunt-force weapons are more effective than blades. The creature’s near-invisibility makes it exceptionally dangerous in small spaces where escape is difficult—in open ground, prey can potentially flee into areas where their higher endurance provides advantage. Some wizards and mages specifically protect their laboratories with anti-Glassfang wards, suggesting these creatures are drawn to sources of magical radiation.
+Hardness and clarity are bought with brittleness. A blade skates off the scale edges; a hammer, a club, a loud enough sound or a hard enough vibration cracks the body and can shatter a whole section of it, and the creature is crippled from then on. It is worst met in a small space where there is nowhere to run. In open ground, prey with the wind to keep going can sometimes simply outlast it.
 
 ## Attributes
 
