@@ -608,7 +608,7 @@ sohl:
 
 ![[mrtsbkhkmn|Meret-Sebek Heka’amun]]{float: top-left}
 
-Meret-Sebek stands 5'9\" tall with a medium build. He has dark skin, dark hair, and brown eyes. His features include a long nose, a pointed chin, generous lips, elegantly curved brows.
+Meret-Sebek stands 5'9\" tall with a medium build. He has dark skin, dark hair, and brown eyes. His features include a long nose, a pointed chin, generous lips, and elegantly curved brows.
 
 # Dossier {#dossier}
 
@@ -616,9 +616,9 @@ Meret-Sebek stands 5'9\" tall with a medium build. He has dark skin, dark hair, 
 
 ### Origin and Early Life
 
-Meret-Sebek was born into a respected family of scholars and astrologers in the grand city of **[[place-khemenu|Khemenu]]**, a cultural and scholarly hub of the **Empire of [[affiliation-empirtkhpr|Ta’Kheperu]]**. The Empire, steeped in ancient traditions dating back thousands of years, continues to blend mysticism and scholarly pursuits, with astrology playing a critical role in their governance and daily life. The empire’s priests and astrologers serve as key advisors to the ruling elite, using celestial signs to predict outcomes of war, trade, and political alliances.
+Meret-Sebek was born into a respected family of scholars and astrologers in the grand city of **[[place-khemenu|Khemenu]]**, a cultural and scholarly centre of the **Empire of [[affiliation-empirtkhpr|Ta’Kheperu]]**. The Empire, with traditions dating back thousands of years, continues to blend mysticism and scholarly pursuits, with astrology playing a critical role in its governance and daily life. The empire’s priests and astrologers are key advisors to the ruling elite, using celestial signs to predict outcomes of war, trade, and political alliances.
 
-Meret-Sebek, from a young age, showed a remarkable affinity for reading the stars. His family, who had long served the high courts of Ta’Kheperu, ensured he was trained by the greatest scholars and priests of the empire. By the age of 16, he had already earned a reputation for accurate star readings and predictions, and his name spread through the noble circles of Ta’Kheperu.
+Meret-Sebek, from a young age, showed a rare affinity for reading the stars. His family, who had long served the high courts of Ta’Kheperu, saw that he was trained by the greatest scholars and priests of the empire. By the age of 16, he had already earned a reputation for accurate star readings and predictions, and his name spread through the noble circles of Ta’Kheperu.
 
 ### Astrological Discoveries and Vision
 
@@ -636,19 +636,19 @@ Faced with skepticism from the court and the increasing pressure of the imperial
 
 Meret-Sebek embarked on a **pilgrimage** to these ancient locations, which were sacred to the early astrologers of Ta’Kheperu. His journey would take him deep into the deserts of Beshakan, across the **Venâria Sea**, and through forgotten ruins where ancient star maps were carved into the stones by the earliest astronomers.
 
-His first stop was the **Obelisk of Ankhura**, an ancient monolithic structure located in the heart of the Târga River Valley. There, Meret-Sebek discovered fragments of a lost prophecy inscribed in ancient runes, pointing him to a mountain shrine in the highlands of **Chenosolis**, where the oldest records of the empire’s astrologers were kept.
+His first stop was the **Obelisk of Ankhura**, an ancient monolithic structure standing in the middle of the Târga River Valley. There, Meret-Sebek discovered fragments of a lost prophecy inscribed in ancient runes, pointing him to a mountain shrine in the highlands of **Chenosolis**, where the oldest records of the empire’s astrologers were kept.
 
 ### Mystical Challenges and Allies
 
-Meret-Sebek’s journey is fraught with challenges. Rival astrologers and priests who either do not believe in the prophecy or seek to use the event for their own ends send agents to stop him. Additionally, his journey into the ruins reveals ancient powers long forgotten—spirits of the desert, creatures bound to the stars, and followers of ancient cults who view the Convergence as an opportunity to usher in a new age of chaos.
+Meret-Sebek’s journey is fraught with challenges. Rival astrologers and priests who either do not believe in the prophecy or seek to use the event for their own ends send agents to stop him. His journey into the ruins also reveals ancient powers long forgotten—spirits of the desert, creatures bound to the stars, and followers of ancient cults who view the Convergence as an opportunity to usher in a new age of chaos.
 
-Despite these dangers, Meret-Sebek finds unlikely allies along his path. He meets a wandering desert ranger named **“The Silent Jackal”** who, though initially skeptical of the astrologer’s quest, pledges to protect him after witnessing a celestial omen. Additionally, Meret-Sebek encounters a scholar, **[[being-neferetimr|Neferet]] Imi-Ra**, and an exiled priest, **[[being-hotepanu|Hotep]] Anu**, who together join him in his quest to unlock the true power of the Convergence.
+Despite these dangers, Meret-Sebek finds unlikely allies along his path. He meets a wandering desert ranger named **“The Silent Jackal”** who, though initially skeptical of the astrologer’s quest, pledges to protect him after witnessing a celestial omen. Meret-Sebek also encounters a scholar, **[[being-neferetimr|Neferet]] Imi-Ra**, and an exiled priest, **[[being-hotepanu|Hotep]] Anu**, who together join him in his quest to unlock the true power of the Convergence.
 
 ### End Goal
 
 Meret-Sebek seeks to reach the **Temple of the Eternal Heavens**, an ancient site hidden deep within the **Sands of Naresh**, where the final clue to stopping or mitigating the effects of the Convergence can be found. However, time is against him, as the stars grow ever closer to alignment, and forces—both seen and unseen—move to either stop him or claim the celestial power for themselves.
 
-The culmination of his journey will lead to a dramatic confrontation, not only with the forces of fate but also with the empire’s ruling elite, who may finally realize the truth of his predictions too late.
+The culmination of his journey will lead to a dramatic confrontation with the forces of fate and with the empire’s ruling elite, who may finally realize the truth of his predictions too late.
 
 ### Potential Story Hooks for the Character
 
@@ -667,30 +667,30 @@ The culmination of his journey will lead to a dramatic confrontation, not only w
 - **Strength**: Meret-Sebek is not particularly strong physically, as his pursuits are mainly scholarly.
 - **Endurance**: Long hours of study and travel have given him a decent level of stamina.
 - **Dexterity**: He is careful and precise, especially when handling delicate astrological instruments.
-- **Agility**: While not exceptionally agile, he moves with a purposeful grace.
+- **Agility**: While not especially agile, he moves with a purposeful grace.
 - **Perception**: His ability to observe celestial patterns and subtle details is highly developed.
 - **Comeliness**: His dignified appearance and composed demeanor make him pleasantly notable.
 - **Aura**: Meret-Sebek possesses a strong spiritual presence, enhancing his connection to cosmic forces.
 - **Will**: His determination to fulfill his quest demonstrates considerable willpower./li> **Reasoning**: A brilliant mind adept at complex calculations and interpretations of celestial events.
-- **Creativity**: His innovative approaches to astrology show a high level of creativity.
-- **Empathy**: He understands and resonates with others, aiding in his role as a guide.
+- **Creativity**: His novel approaches to astrology show a high level of creativity.
+- **Empathy**: He understands and feels with others, aiding in his role as a guide.
 - **Eloquence**: Communicates his thoughts clearly, making complex ideas accessible.
 - **Morality**: As an astrologer deeply connected to his culture’s beliefs about the cosmos and destiny, Meret-Sebek upholds his society’s mores with strong conviction.
-- **Voice**: While not a professional singer, Meret-Sebek’s voice carries the weight of his knowledge, delivering chants and incantations with clear precision.
+- **Voice**: While not a trained singer, Meret-Sebek’s voice carries the weight of his knowledge, delivering chants and incantations with clear precision.
 
 ## Psyche
 
 ## Motivations and Personality
 
-Meret-Sebek is driven by a deep sense of duty to the stars and his empire. Though he is soft-spoken and contemplative, he harbors a strong will and fierce dedication to uncovering the truth behind the celestial signs. He believes that the stars do not lie and that his role is not only to observe but to act on the guidance they provide, even if it means challenging the empire’s most powerful figures.
+Meret-Sebek is driven by a deep duty to the stars and his empire. Though he is soft-spoken and contemplative, he harbors a strong will and fierce dedication to uncovering the truth behind the celestial signs. He believes that the stars do not lie and that his role is to observe and then to act on the guidance they provide, even if it means challenging the empire’s most powerful figures.
 
-His journey is not only one of discovery but also of self-realization. Along the way, Meret-Sebek grapples with his faith in the stars and the responsibility that comes with interpreting their signs. He sometimes questions whether the Convergence is truly inevitable or if his interpretations are flawed, a weight that grows heavier with every step of his journey.
+His journey is one of discovery and of self-knowledge. Along the way, Meret-Sebek grapples with his faith in the stars and the responsibility that comes with interpreting their signs. He sometimes questions whether the Convergence is truly inevitable or if his interpretations are flawed, a weight that grows heavier with every step of his journey.
 
 ### Strengths
 
 - **Astrology**: Expert in reading celestial signs and star charts.
 - **Mystical Knowledge**: Understanding of ancient prophecies and magic.
-- **Diplomacy**: Skilled in navigating political intrigue within the empire.
+- **Diplomacy**: Skilled in the political intrigue of the empire.
 
 ## Social
 
@@ -704,6 +704,6 @@ Rival astrologers and courtiers
 
 2. **The Celestial Herald**: During a public astrological reading, Meret-Sebek predicts a celestial event that will bring great prosperity to the empire. However, when the event occurs, it is followed by strange and devastating natural phenomena instead. Accused of heresy and manipulation, Meret-Sebek must defend his reputation while investigating who or what twisted his prediction into a calamity.
 
-3. **The Starblade Prophecy**: An ancient noble family approaches Meret-Sebek with a request: decipher an inscription on a relic tied to their lineage. The artifact speaks of a blade forged under the light of a rare constellation, said to grant its wielder unparalleled power. As Meret-Sebek deciphers the riddle, he uncovers a warning that using the blade comes with dire consequences—ones the noble family is eager to ignore.
+3. **The Starblade Prophecy**: An ancient noble family approaches Meret-Sebek with a request: decipher an inscription on a relic tied to their lineage. The artifact speaks of a blade forged under the light of a rare constellation, said to grant its wielder power beyond any other. As Meret-Sebek deciphers the riddle, he uncovers a warning that using the blade comes with dire consequences—ones the noble family is eager to ignore.
 
-4. **The Missing Constellation**: While examining the night sky, Meret-Sebek notices that an once-prominent constellation has vanished without explanation. His investigation leads him to a temple abandoned centuries ago, where he discovers clues pointing to the constellation’s significance in ancient rituals. What begins as a scholarly pursuit turns into a race to prevent the awakening of a forgotten power tied to the stars.
+4. **The Missing Constellation**: While examining the night sky, Meret-Sebek notices that a once-prominent constellation has vanished without explanation. His investigation leads him to a temple abandoned centuries ago, where he discovers clues pointing to the constellation’s significance in ancient rituals. What begins as a scholarly pursuit turns into a race to prevent the awakening of a forgotten power tied to the stars.
