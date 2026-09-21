@@ -378,11 +378,11 @@ The shadow falls first — a darkness that swallows the sun, impossibly vast, an
 
 # Dossier {#dossier}
 
-The Roc is an impossibly massive bird of prey, with a wingspan exceeding 100 feet and a body weight measured in tons, representing the apex of avian predation across isolated mountains, deep valleys, and remote coastlines. These legendary creatures nest on inaccessible peaks and hunt creatures as large as elephants, making them living disasters for unwary expeditions. Adventurers encounter rocs only in the most remote and dangerous wilderness, where the creature's territory prevents all but the most desperate or foolish from passing.
+The Roc is an impossibly massive bird of prey, with a wingspan exceeding 100 feet and a body weight measured in tons, representing the apex of avian predation across isolated mountains, deep valleys, and remote coastlines. These creatures nest on inaccessible peaks and hunt creatures as large as elephants, making them living disasters for unwary expeditions. Adventurers encounter rocs only in the most remote and dangerous wilderness, where the creature's territory prevents all but the most desperate or foolish from passing.
 
 ## Presentation
 
-The Roc is a creature of overwhelming scale and predatory majesty. The body is covered in feathers that range from dark brown to golden-bronze, often displaying intricate patterning that aids in camouflage across rocky terrain when the bird is at rest. The wings are proportionally huge, muscular, and capable of generating the lift necessary to carry a fully loaded merchant wagon airborne. The head is fearsome — a massive skull housing a brain of genuine intelligence, with forward-facing eyes set for binocular vision, and a hooked beak large enough to shear off a tree limb or pierce armor. The talons are as thick as a man's arm and equipped with curved claws the length of swords. The legs are muscular and thick, built to grip and support the creature's tremendous weight.
+The Roc is a creature of overwhelming scale and predatory majesty. The body is covered in feathers that range from dark brown to golden-bronze, often with fine patterning that aids in camouflage across rocky terrain when the bird is at rest. The wings are proportionally huge, muscular, and capable of generating the lift necessary to carry a fully loaded merchant wagon airborne. The head is fearsome — a massive skull housing an intelligent brain, with forward-facing eyes set for binocular vision, and a hooked beak large enough to shear off a tree limb or pierce armor. The talons are as thick as a man's arm and equipped with curved claws the length of swords. The legs are muscular and thick, built to grip and support the creature's tremendous weight.
 
 ## Key Behaviors
 
@@ -390,13 +390,13 @@ Rocs are solitary and fiercely territorial, with individual birds maintaining hu
 
 ## Combat Strategy
 
-The roc's dominance is absolute in the air and uses that advantage ruthlessly. It attacks from altitude, diving with overwhelming speed and force, attempting to seize prey with its talons and lift them skyward where it can finish them at leisure or carry them to its nest. If forced to land or engage on the ground, the roc becomes somewhat less dominant but remains extraordinarily dangerous. It uses its beak and talons with devastating effect, and its size advantage means it can easily overpower anything short of a much larger creature or a group of well-organized opponents. The roc will never retreat unless mortally wounded — its size and dominance mean it has no natural predators and no experience with defeat.
+The roc's dominance in the air is absolute, and it uses that advantage ruthlessly. It attacks from altitude, diving with overwhelming speed and force, attempting to seize prey with its talons and lift them skyward where it can finish them at leisure or carry them to its nest. If forced to land or engage on the ground, the roc becomes somewhat less dominant but remains extraordinarily dangerous. It uses its beak and talons with devastating effect, and its size advantage means it can easily overpower anything short of a much larger creature or a group of well-organized opponents. The roc will never retreat unless mortally wounded — its size and dominance mean it has no natural predators and no experience with defeat.
 
 ## Attack Methods
 
 ### Diving Talon Strike
 
-The roc folds its wings and dives from altitude, building speed until the impact alone would shatter bone. The talons, extended at the last moment, rake across targets with claw weapons that penetrate armor and inflict terrible wounds. A successful strike can seize a humanoid-sized target and carry it aloft.
+The roc folds its wings and dives from altitude, building speed until the impact alone would shatter bone. The talons, extended at the last moment, rake across targets, penetrating armor and inflicting terrible wounds. A successful strike can seize a humanoid-sized target and carry it aloft.
 
 ### Crushing Grip
 
@@ -414,7 +414,7 @@ The roc's body weight, diverted downward in a diving attack, can impact targets 
 
 ### Aerial Mastery
 
-The roc is supremely powerful in flight, capable of hovering, diving, climbing, and maneuvering with grace that belies its massive size. Its flying capabilities are essentially perfect, with no significant limitations or disadvantages when airborne.
+The roc is supremely powerful in flight, capable of hovering, diving, climbing, and maneuvering with grace that belies its massive size.
 
 ### Immense Strength
 
@@ -426,15 +426,15 @@ The roc's eyesight is extraordinarily acute, allowing it to spot movement from a
 
 ### Impenetrable Plumage
 
-The roc's feathers are dense, overlapping, and incredibly tough — they provide genuine armor protection against most conventional weapons and provide weather protection in any condition.
+The roc's feathers are dense, overlapping, and incredibly tough — they protect it like armor against most conventional weapons and shelter it from weather in any condition.
 
 ### Regenerative Capability
 
-While not magical, the roc's body heals with remarkable speed, allowing it to recover from wounds that would permanently disable other creatures.
+While not magical, the roc's body heals fast, allowing it to recover from wounds that would permanently disable other creatures.
 
 ### Additional Information
 
-Rocs are rare enough that some scholars believe them mythical rather than real creatures. The presence of a roc in a region effectively closes that territory to normal settlement and trade — the loss of livestock and people becomes unsustainable. Rocs can live for centuries and create strong impressions of themselves in local culture and folklore. A roc occupies a uniquely dangerous role in the ecosystem, preventing overpopulation of large prey animals and maintaining predator-prey balance across vast territories.
+Rocs are rare enough that many take them for myth. The presence of a roc in a region effectively closes that territory to normal settlement and trade — the loss of livestock and people becomes unsustainable. Rocs can live for centuries and create strong impressions of themselves in local culture and folklore. A roc keeps the large prey animals of a vast territory in check.
 
 ## Attributes
 

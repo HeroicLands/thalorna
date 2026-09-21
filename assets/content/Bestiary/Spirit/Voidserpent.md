@@ -265,11 +265,11 @@ sohl:
 
 ![[vdsrpnt|Voidserpent]]{float: top-left}
 
-Where there is nothing, something moves. The Voidserpent is less a creature than an absence given purpose—a gap in reality that winds through space like a living scar. Its hide, if it can be called that, is the color of nothing, studded with points of light like a backwards night sky. When it moves, space seems to warp around it, as if the world is uncertain whether to allow its passage. The very air becomes heavy and slow in its presence.
+Where there is nothing, something moves. The Voidserpent is an absence given purpose—a gap in reality that winds through space like a living scar. Its hide, if it can be called that, is the color of nothing, studded with points of light like a backwards night sky. When it moves, space seems to warp around it, as if the world is uncertain whether to allow its passage. The very air becomes heavy and slow in its presence.
 
 # Dossier {#dossier}
 
-Voidserpents are beings from the spaces between worlds, creatures older than gods and far more alien than most mortals can comprehend. They may be fragments of something greater, or they may be whole entities in themselves—no one knows. They are extraordinarily rare, and each encounter is a singular event. A Voidserpent does not hunt in the normal sense; it seems to move through the world according to purposes and compulsions that are utterly indifferent to human presence. To encounter one is to touch something cosmically vast and utterly unconcerned with your existence.
+Voidserpents are beings from the spaces between worlds, creatures older than gods and far more alien than most mortals can comprehend. They may be fragments of something greater, or they may be whole entities in themselves—no one knows. They are extraordinarily rare, and each encounter is a singular event. A Voidserpent does not hunt in the normal sense; it seems to move through the world according to purposes and compulsions indifferent to human presence. To encounter one is to touch something cosmically vast and unconcerned with anything human.
 
 ## Presentation
 
@@ -277,17 +277,17 @@ A Voidserpent is serpentine in general shape but massive—easily thirty feet or
 
 ## Key Behaviors
 
-Voidserpents do not behave like normal creatures. They seem to follow paths and purposes that are invisible to human understanding. A Voidserpent may move through an entire region without attacking anyone, or it may destroy a settlement for no apparent reason. They do not eat in any conventional sense and do not seem to require sleep or rest. They are indifferent to temperature, weather, and most forms of harm. Some scholars believe Voidserpents serve a function in maintaining the integrity of reality itself, acting as repairs or defenders against incursion from truly hostile other realms. Others believe they are simply anomalies, living contradictions that should not exist.
+Voidserpents do not behave like normal creatures. They seem to follow paths and purposes that are invisible to human understanding. A Voidserpent may move through an entire region without attacking anyone, or it may destroy a settlement for no apparent reason. They do not eat in any conventional sense and do not seem to require sleep or rest. They are indifferent to temperature, weather, and most forms of harm. One school holds that Voidserpents keep reality whole, mending it or defending it against incursion from truly hostile realms. Another holds them to be anomalies, living contradictions that should not exist.
 
 ## Combat Strategy
 
-A Voidserpent does not fight tactically; it simply moves according to its own imperatives. If a human blocks its path, it will attempt to remove the obstacle through the most direct means. It seems largely unconcerned whether it is attacked in return. Its natural resistance to harm and its phasing abilities make it nearly invulnerable to conventional weapons. Against radiant light or magic, it becomes more reactive and more attentive. A Voidserpent focused on an opponent is nearly impossible to defeat; one that is ignoring you can usually be escaped from by running in the opposite direction.
+A Voidserpent does not fight tactically; it simply moves according to its own imperatives. If a human blocks its path, it will attempt to remove the obstacle through the most direct means. It seems largely unconcerned whether it is attacked in return. Its natural resistance to harm and its phasing abilities make it nearly invulnerable to conventional weapons. Against bright light or light-based magic, it becomes more reactive and more attentive. A Voidserpent focused on an opponent is nearly impossible to defeat; one that is ignoring a traveler can usually be escaped by walking the other way.
 
 ## Attack Methods
 
 ### Void Constriction
 
-The Voidserpent’s coils wrap around a victim and the experience is profoundly wrong. The victim feels not physical pressure but rather a compression of reality around them, as if existence itself is being squeezed. Bones do not break normally; victims report their entire body feeling as though it is being pulled inward from all directions simultaneously. The damage is both physical and conceptual.
+The Voidserpent’s coils wrap around a victim and the experience is deeply wrong. The victim feels not physical pressure but rather a compression of reality around them, as if existence itself is being squeezed. Bones do not break normally; victims report their entire body feeling as though it is being pulled inward from all directions simultaneously. The damage is both physical and conceptual.
 
 ### Energy Drain
 
@@ -309,7 +309,7 @@ Simply being near a Voidserpent is dangerous. Reality becomes unstable, and magi
 
 ### Cosmic Resilience
 
-The Voidserpent is nearly immune to harm from conventional sources. Physical weapons pass through it with minimal effect. Only light-based magic, radiant energy, and magic that specifically targets void energy have any real effect. Even then, damage is reduced significantly.
+The Voidserpent is nearly immune to harm from conventional sources. Physical weapons pass through it with minimal effect. Only light-based magic, holy power, and magic that specifically targets void energy have any real effect. Even then, damage is reduced significantly.
 
 ### Reality Warping
 
@@ -317,7 +317,7 @@ The Voidserpent can warp space and time in its immediate vicinity. Distances bec
 
 ## Additional Information
 
-A Voidserpent should not be fought unless absolutely necessary. The preferred response to encountering one is to move away from it and allow it to pass. Fleeing is not cowardice—it is wisdom. If combat is unavoidable, the only reliable weapon against a Voidserpent is radiant light and light-based magic. Blessed weapons and holy magic can harm it, and light can disrupt its phasing temporarily. However, even with these tools, defeating a Voidserpent is nearly impossible. More realistic goals are to disrupt it enough to create an escape route, or to damage it enough that it chooses to phase away entirely. Some believe that Voidserpents serve a cosmic purpose and that killing one could have catastrophic consequences. Others argue they are abominations that should not exist. Few who have encountered a Voidserpent have lived to share their knowledge, and fewer still trust their own memories of the encounter.
+A Voidserpent should not be fought unless absolutely necessary. The preferred response to encountering one is to move away from it and allow it to pass. If combat is unavoidable, the only reliable weapon against a Voidserpent is bright light and light-based magic. Blessed weapons and holy magic can harm it, and light can disrupt its phasing temporarily. However, even with these tools, defeating a Voidserpent is nearly impossible. More realistic goals are to disrupt it enough to create an escape route, or to damage it enough that it chooses to phase away entirely. One view holds that Voidserpents serve a cosmic purpose and that killing one could have catastrophic consequences; another, that they are abominations that should not exist. Few who have encountered a Voidserpent have lived to share their knowledge, and fewer still trust their own memories of the encounter.
 
 ## Attributes
 

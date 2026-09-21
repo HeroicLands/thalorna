@@ -266,7 +266,7 @@ sohl:
 
 ![[skysrpnt|Sky Serpent]]{float: top-left}
 
-The air above ripples with heat and motion, and you catch only glimpses of the creature — a serpentine form that seems to be made more of sky and light than flesh. The iridescent scales shimmer with hues that match the sky so perfectly that tracking the creature is nearly impossible, as if you're watching a living piece of atmosphere move with malicious intent. The undulating motion is hypnotic, almost aquatic despite the lack of water, and you notice the thin frills along the body unfurling and contracting with each shift of position. Then the creature's head swings toward you, and the slit-pupilled eyes lock on your position with predatory certainty. In that moment, you understand that you're being assessed as food, and the creature has significant advantages in this space.
+The air above ripples with heat and motion, and you catch only glimpses of the creature — a serpentine form that seems to be made more of sky and light than flesh. The iridescent scales shimmer with hues that match the sky so perfectly that tracking the creature is nearly impossible, as if you're watching a living piece of atmosphere move with malicious intent. The undulating motion is hypnotic, almost aquatic despite the lack of water, and you notice the thin frills along the body unfurling and contracting with each shift of position. Then the creature's head swings toward you, and the slit-pupilled eyes lock on your position with predatory certainty. In that moment, you understand that you're being assessed as food, and that the creature holds every advantage in the air.
 
 # Dossier {#dossier}
 
@@ -274,7 +274,7 @@ The Sky Serpent is a serpentine aerial predator reaching lengths of 20-30 feet, 
 
 ## Presentation
 
-The Sky Serpent is a sleek, serpentine creature with a body length that exceeds twenty feet but a width of only 2-4 feet, creating a streamlined form optimized for gliding and flight manipulation. The scales are iridescent, shifting through greens, blues, and silvers depending on angle and light, providing camouflage against sky and cloud formations. Thin, wing-like frills run along the creature's body, extending from above the spine and folding when not in use. These frills are not capable of powered flight but are superbly adapted for gliding, allowing the creature to extend falls and change trajectory. The head is relatively small and proportional to the body, with forward-facing slit-pupilled eyes adapted for aerial vision and motion detection. The mouth is filled with sharp fangs designed for gripping slippery prey. The tail is long and muscular, used for balance and directional control during gliding and flight manipulation.
+The Sky Serpent is a sleek, serpentine creature with a body length that exceeds twenty feet but a width of only 2-4 feet, creating a streamlined form built for gliding and steering in the air. The scales are iridescent, shifting through greens, blues, and silvers depending on angle and light, providing camouflage against sky and cloud formations. Thin, wing-like frills run along the creature's body, extending from above the spine and folding when not in use. These frills are not capable of powered flight but are superbly adapted for gliding, allowing the creature to extend falls and change trajectory. The head is relatively small and proportional to the body, with forward-facing slit-pupilled eyes adapted for aerial vision and motion detection. The mouth is filled with sharp fangs designed for gripping slippery prey. The tail is long and muscular, used for balance and steering during a glide.
 
 ## Key Behaviors
 
@@ -296,7 +296,7 @@ Once the sky serpent has wrapped around a victim, it uses muscular constriction 
 
 ### Venomous Bite
 
-While wrapped around prey or during initial contact, the sky serpent bites with needle-sharp fangs that inject a neurotoxic venom causing weakness, disorientation, and progressive paralysis. The venom is not immediately lethal but significantly weakens victims over time.
+While wrapped around prey or during initial contact, the sky serpent bites with needle-sharp fangs that inject a neurotoxic venom causing weakness, disorientation, and a spreading paralysis. The venom is not immediately lethal but significantly weakens victims over time.
 
 ## Special Abilities
 
@@ -306,7 +306,7 @@ The sky serpent can glide silently from altitude, extending falls to tremendous 
 
 ### Venomous Strike
 
-The sky serpent's venom is specialized to work on prey much larger than the creature itself, causing progressive weakness and paralysis that eventually immobilizes victims. The venom takes time to work but is extraordinarily effective against unarmored targets.
+The sky serpent's venom is specialized to work on prey much larger than the creature itself, causing a weakness that deepens into paralysis and eventually immobilizes victims. The venom takes time to work but is extraordinarily effective against unarmored targets.
 
 ### Aerial Agility
 
