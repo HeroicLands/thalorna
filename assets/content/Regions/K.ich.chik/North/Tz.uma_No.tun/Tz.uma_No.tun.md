@@ -126,11 +126,11 @@ The Ch'aqun have developed sophisticated traditions of mound-building—construc
 
 This middleman position generates considerable wealth and political influence; the ability to grant or withhold access to southern luxury goods gives Ch'aqun leadership substantial leverage in inter-tribal negotiations.
 
-The Ch'aqun appear to maintain some presence in the contested [[affiliation-hanalxilan|Ha'nal Xi'lan]] borderlands, and rare transactions with K'ich'chik merchants occur there — always on Ch'aqun terms, always brief, and always through intermediaries who may or may not actually be Ch'aqun. The opaque nature of these trade networks makes it impossible for K'ich'chik merchants to predict resource flows, negotiate reliably, or establish lasting commercial relationships.
+The Ch'aqun appear to maintain some presence in the contested [[place-hanalxilanrgn|Ha'nal Xi'lan]] borderlands, and rare transactions with K'ich'chik merchants occur there — always on Ch'aqun terms, always brief, and always through intermediaries who may or may not actually be Ch'aqun. The opaque nature of these trade networks makes it impossible for K'ich'chik merchants to predict resource flows, negotiate reliably, or establish lasting commercial relationships.
 
 ## See Also
 
-- [[affiliation-hanalxilan|Ha'nal Xi'lan]] — The contested borderlands to the north and west, source of frequent inter-tribal tensions
+- [[place-hanalxilanrgn|Ha'nal Xi'lan]] — The contested borderlands to the north and west, source of frequent inter-tribal tensions
 - [[affiliation-xikulchakl|Xik'ul Ch'akal]] — The Otter People's eastern woodlands, connected via river routes and occasional diplomatic contact
 - [[affiliation-haxaman|Ha' Xaman]] — The Coyote People's grasslands, contacted through the Ha'nal Xi'lan borderlands
 - [[place-kchchkcntnnt|K'ich'chik]] — The civilized southern lands, source of trade goods and occasional military threat

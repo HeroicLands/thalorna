@@ -18,4 +18,4 @@ shortcode: chakultzkl2
 
 ## Overview
 
-_To be written._ Ch'akul Tza'kul is the central city and seat of the [[affiliation-chakultzkl|Ch'akul Tza'kul]] city-state.
+_To be written._ Ch'akul Tza'kul is the central settlement of [[place-chakultzklrgn|Ch'akul Tza'kul Region]].

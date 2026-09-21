@@ -35,7 +35,7 @@ To the east, K'ixim Tzul transitions gradually into grassland and the edge of th
 
 ## Trade
 
-The No'kin maintain active trade relationships with all four of the other northern nations, but their greatest commercial contacts extend southward through the mountain passes of Ba'alam Ki'ahk and along river routes toward the [[affiliation-hanalxilan|Ha'nal Xi'lan]] borderlands. Hides, furs, and rendered fat flow south, with [[place-kchchkcntnnt|K'ich'chik]] merchants hungry for the highest-quality materials. In return, the No'kin acquire obsidian, jade, and craft materials that find their way north and east. Some No'kin traders venture into the subarctic territories beyond their claimed lands, trading for amber, arctic fox fur, and mysterious items whose origins remain obscure.
+The No'kin maintain active trade relationships with all four of the other northern nations, but their greatest commercial contacts extend southward through the mountain passes of Ba'alam Ki'ahk and along river routes toward the [[place-hanalxilanrgn|Ha'nal Xi'lan]] borderlands. Hides, furs, and rendered fat flow south, with [[place-kchchkcntnnt|K'ich'chik]] merchants hungry for the highest-quality materials. In return, the No'kin acquire obsidian, jade, and craft materials that find their way north and east. Some No'kin traders venture into the subarctic territories beyond their claimed lands, trading for amber, arctic fox fur, and mysterious items whose origins remain obscure.
 
 ## See Also
 

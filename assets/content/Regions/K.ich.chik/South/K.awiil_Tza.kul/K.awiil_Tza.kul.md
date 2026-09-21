@@ -124,7 +124,7 @@ The priesthood profits immensely from this transit trade, levying heavy fees and
 ## See Also
 
 - [[affiliation-kuxibalam|K'uxi Balam]] — The frontier lands to the north
-- [[affiliation-tzikinbalm|Tz'ikin Ba'alam]] — The forsaken wastes beyond
+- [[place-tzikinbalmrgn|Tz'ikin Ba'alam]] — The forsaken wastes beyond
 - [[place-tzikinkul|Tz'ikin K'ul]] — The last temple-fortress before the abyss
 - [[affiliation-itzanpnthn|Itzáni]] — The priesthood that maintains order at the threshold
 - [[place-kawiltzaklrgn|K'awiil Tza'kul Region]] — The land K'awiil Tza'kul holds

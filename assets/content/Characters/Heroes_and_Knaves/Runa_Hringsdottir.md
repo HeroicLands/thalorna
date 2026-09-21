@@ -600,7 +600,7 @@ Rúna is 5’10" with a strong, athletic build, weighing about 180 pounds. Her f
 
 # Dossier {#dossier}
 
-Rúna is a fierce warrior from the trading town of [[place-jarnhavn|Járnhavn]], a town renowned for its warlike traditions and its ships of raiders. Born into a warrior clan, Rúna was trained from childhood in the use of weapons, particularly the spear and shield. Her clan holds the duty of protecting [[affiliation-kingdmnrgd|Norgaad]]’s coastlines from invaders and raiders. Rúna first encountered [[being-grosdrnrgd|Gróa]] during a battle with [[affiliation-kingdmtrgd|Targud]] raiders. [[being-grosdrnrgd|Gróa]]’s strange powers and ability to foresee the movements of the enemy saved Rúna’s warband, earning her respect.
+Rúna is a fierce warrior from the trading town of [[place-jarnhavn|Járnhavn]], a town renowned for its warlike traditions and its ships of raiders. Born into a warrior clan, Rúna was trained from childhood in the use of weapons, particularly the spear and shield. Her clan holds the duty of protecting [[place-norgaad|Norgaad]]’s coastlines from invaders and raiders. Rúna first encountered [[being-grosdrnrgd|Gróa]] during a battle with [[affiliation-kingdmtrgd|Targud]] raiders. [[being-grosdrnrgd|Gróa]]’s strange powers and ability to foresee the movements of the enemy saved Rúna’s warband, earning her respect.
 
 ## Background
 

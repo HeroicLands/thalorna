@@ -600,7 +600,7 @@ Björg stands 5'3" tall with a light build. She has fair pale skin, dark brown h
 
 ### Early Years
 
-Björg was born to a fisher's family in the coastal settlements of [[affiliation-kngdmnrdhm|Nordheim]], where the howling wind and crashing waves formed the soundtrack of her childhood. When she was but seven winters old, a devastating storm claimed both her parents at sea. She was taken in by a monastery dedicated to [[lore-thorrdty|Thórr]], where the monks recognized in her a gift for song that seemed to transcend mortal origin. For fifteen years, she learned to weave melodies into prayers, channeling her grief into sacred music that moved even the stoniest hearts to tears. The crescent moon was marked upon her neck at her coming-of-age, a blessing and a burden both.
+Björg was born to a fisher's family in the coastal settlements of [[place-nordheim|Nordheim]], where the howling wind and crashing waves formed the soundtrack of her childhood. When she was but seven winters old, a devastating storm claimed both her parents at sea. She was taken in by a monastery dedicated to [[lore-thorrdty|Thórr]], where the monks recognized in her a gift for song that seemed to transcend mortal origin. For fifteen years, she learned to weave melodies into prayers, channeling her grief into sacred music that moved even the stoniest hearts to tears. The crescent moon was marked upon her neck at her coming-of-age, a blessing and a burden both.
 
 ### The Breaking
 

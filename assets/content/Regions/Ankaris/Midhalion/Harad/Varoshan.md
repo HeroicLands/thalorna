@@ -92,7 +92,7 @@ data:
   commonSkills:
     - haradilng
     - dunharlng
-  seat: kashmuret
+  seat: varoshan2
   domains:
     - varoshan2
   population: 2300000

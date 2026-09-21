@@ -608,7 +608,7 @@ Guthrún stands 5'11" tall with a light build. She has light fair skin, brown ha
 
 ### The Trapper's Daughter
 
-Guthrún was born in [[affiliation-kngdmnrdhm|Nordheim]]'s northern reaches to **Sólvi Sólvargr**, a trapper of wide fame whose knowledge of wilderness survival and animal behavior had no equal in three kingdoms. Her mother died bringing her into the world, and Sólvi raised his daughter in a solitary trapping settlement far from the comforts of civilization. He taught her not through formal instruction but through living—showing her how to read animal signs in snow and mud, how to construct traps that worked through understanding prey rather than brute force, how to harvest the creatures she caught with respect for the gift of their bodies.
+Guthrún was born in [[place-nordheim|Nordheim]]'s northern reaches to **Sólvi Sólvargr**, a trapper of wide fame whose knowledge of wilderness survival and animal behavior had no equal in three kingdoms. Her mother died bringing her into the world, and Sólvi raised his daughter in a solitary trapping settlement far from the comforts of civilization. He taught her not through formal instruction but through living—showing her how to read animal signs in snow and mud, how to construct traps that worked through understanding prey rather than brute force, how to harvest the creatures she caught with respect for the gift of their bodies.
 
 ### The Inheritance of Knowledge
 

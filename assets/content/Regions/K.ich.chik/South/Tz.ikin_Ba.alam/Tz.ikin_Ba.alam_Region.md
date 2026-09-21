@@ -20,7 +20,7 @@ packFolder: tzikinbaalam
 
 ## Overview
 
-Tz'ikin Ba'alam Region is the land of [[affiliation-tzikinbalm|Tz'ikin Ba'alam]], and lies within [[place-sthrnkchchk|Southern K'ich'chik]] on the [[place-kchchkcntnnt|K'ich'chik Continent]].
+Tz'ikin Ba'alam Region is forsaken wastes that no one truly rules, watched over from its threshold by the [[affiliation-itzanpnthn|Itzáni]] priesthood, and lies within [[place-sthrnkchchk|Southern K'ich'chik]] on the [[place-kchchkcntnnt|K'ich'chik Continent]].
 
 Tz'ikin Ba'alam—the Land of the Dead Jaguar—is the forsaken realm at the southern edge of [[place-kchchkcntnnt|K'ich'chik]]. It is a place of terror, legend, and desperate ambition. The earth here has been scourged by divine wrath, blasted and twisted into forms that defy nature and sense. Some priesthoods whisper that this was the site of a catastrophic failure in a previous age of the world, when the celestial order faltered and the gods themselves turned their back. Others claim the wastes are a living punishment, a scar in the world that refuses to heal.
 
@@ -48,6 +48,5 @@ What truly flows through Tz'ikin Ba'alam is not trade, but transformation. The w
 
 ## See Also
 
-- [[affiliation-tzikinbalm|Tz'ikin Ba'alam]] — The realm that holds this land
 - [[place-sthrnkchchk|Southern K'ich'chik]] — The enclosing region
 - [[place-tzikinbalm2|Tz'ikin Ba'alam]] — Seat of Tz'ikin Ba'alam
