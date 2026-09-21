@@ -370,7 +370,7 @@ The world stops being warm. What emerges from the blizzard is massive, easily th
 
 # Dossier {#dossier}
 
-A Frostmaw is an elemental force of pure glacial destruction, more powerful than smaller ice creatures. It is drawn to deep cold and frozen wastes, and it may remain in a single region for years, slowly deepening winter and expanding the frozen territory. Some Frostmaws are bound to serve, but most roam wild, driven by hunger and the simple imperative to spread cold and ice. An encounter with a Frostmaw in the depths of winter is a genuine existential threat.
+A Frostmaw is an elemental force of pure glacial destruction, more powerful than smaller ice creatures. It is drawn to deep cold and frozen wastes, and it may remain in a single region for years, slowly deepening winter and expanding the frozen territory. Some Frostmaws are bound to serve, but most roam wild, driven by hunger and the simple imperative to spread cold and ice. An encounter with a Frostmaw in the depths of winter is a mortal threat.
 
 ## Presentation
 
@@ -382,7 +382,7 @@ Frostmaws are solitary and territorial, claiming vast glacial regions as their h
 
 ## Combat Strategy
 
-A Frostmaw fights with terrible directness, charging opponents and using its massive strength to overwhelm them. It employs its freezing breath as both weapon and environmental control, transforming battlefields into icy hazards. It is utterly fearless and will pursue prey to exhaustion. Against fire and heat, it becomes more careful but does not flee—it adapts, using cold to counter heat and attempting to overwhelm the source of warmth. A Frostmaw rarely retreats and fights until destroyed or until enemies flee far enough away.
+A Frostmaw fights with terrible directness, charging opponents and using its massive strength to overwhelm them. It employs its freezing breath as both weapon and environmental control, transforming battlefields into icy hazards. It is fearless and will pursue prey to exhaustion. Against fire and heat, it becomes more careful but does not flee—it adapts, using cold to counter heat and attempting to overwhelm the source of warmth. A Frostmaw rarely retreats and fights until destroyed or until enemies flee far enough away.
 
 ## Attack Methods
 
@@ -406,7 +406,7 @@ The Frostmaw strikes the frozen ground with its massive weight, causing the ice 
 
 ### Glacial Regeneration
 
-The Frostmaw can repair its form by drawing moisture from the air and freezing it onto its body. In cold or damp environments, it heals at a remarkable rate. This makes it nearly impossible to outlast in its native habitat.
+The Frostmaw can repair its form by drawing moisture from the air and freezing it onto its body. In cold or damp environments, it heals quickly. This makes it nearly impossible to outlast in its native habitat.
 
 ### Frozen Mastery
 
@@ -414,7 +414,7 @@ The Frostmaw exerts absolute control over ice and snow in its territory. It can 
 
 ### Extreme Cold
 
-The temperature around a Frostmaw is lethal. Within one hundred feet, exposed flesh freezes in minutes. The extreme cold makes movement difficult and reduces the effectiveness of most physical actions.
+The temperature around a Frostmaw is lethal. Within one hundred feet, exposed flesh freezes in minutes. The extreme cold makes movement difficult and slows every physical effort.
 
 ### Hibernation Cycle
 
@@ -422,7 +422,7 @@ A Frostmaw can enter a kind of hibernation where it becomes dormant and nearly i
 
 ## Additional Information
 
-Fire is the Frostmaw's only serious weakness. A large, sustained source of heat can harm it significantly. Warm-based magic is effective. However, even against fire, a Frostmaw will fight with determined aggression. A Frostmaw destroyed far from cold sources or in extreme heat may not reform. One destroyed in its native glacial territory will likely return after several seasons. Permanent destruction requires either sustained exposure to extreme heat or collapsing it into warm water or underground geothermal regions. Some settlements in frozen lands have learned to coexist with a Frostmaw by offering it hunting territories separate from human habitation. Such arrangements are delicate and may break at any time.
+Fire is the Frostmaw's only serious weakness. A large, sustained source of heat can harm it significantly. Warm-based magic is effective. However, even against fire, a Frostmaw will fight with determined aggression. A Frostmaw destroyed far from cold sources or in extreme heat may not reform. One destroyed in its native glacial territory will likely return after several seasons. Permanent destruction requires either sustained exposure to extreme heat or collapsing it into warm water or underground hot springs. Some settlements in frozen lands have learned to coexist with a Frostmaw by offering it hunting territories separate from human habitation. Such arrangements are delicate and may break at any time.
 
 ## Attributes
 

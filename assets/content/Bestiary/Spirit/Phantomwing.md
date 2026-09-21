@@ -299,11 +299,11 @@ A shape moves across the sky that shouldn't be there—too pale, too thin, too w
 
 # Dossier {#dossier}
 
-Phantomwings are the spirits of creatures that died far from their birthplace—great birds that fell over foreign lands, or creatures whose connections to home were severed before death. They exist in a state of perpetual search, seeking a place they can no longer reach. They are not inherently hostile, but they are desperately lonely, and sometimes they pursue living beings in the hope of companionship or guidance. A Phantomwing may follow a caravan for weeks seeking only the sound of living voices. Alternatively, they may become violent, unable to process that the world has moved on without them.
+Phantomwings are the spirits of creatures that died far from their birthplace—great birds that fell over foreign lands, or creatures whose connections to home were severed before death. They exist in a state of perpetual search, seeking a place they can no longer reach. They are not inherently hostile, but they are desperately lonely, and sometimes they pursue living beings in the hope of companionship or guidance. A Phantomwing may follow a caravan for weeks seeking only the sound of living voices. Alternatively, they may become violent, unable to accept that the world has moved on without them.
 
 ## Presentation
 
-A Phantomwing has the general shape of a large raptor or eagle, with a wingspan approaching fifteen feet, but the form is composed of pale luminescence and semi-visible matter. It is almost transparent, and through its body you can see the landscape beyond, though always slightly distorted as if seen through frosted glass. Its wings are tattered and worn, as though it has been flying through storms and through centuries. Its eyes are the sharpest part of its form—large and distinctly present, usually luminous pale blue or gray, and containing an overwhelming sadness. When it moves, the air seems to waver, and sometimes you cannot see it at all, only the wake it leaves in the atmosphere.
+A Phantomwing has the general shape of a large raptor or eagle, with a wingspan approaching fifteen feet, but the form is composed of pale luminescence and semi-visible matter. It is almost transparent, and the landscape beyond shows through its body, though always slightly distorted as if seen through frosted glass. Its wings are tattered and worn, as though it has been flying through storms and through centuries. Its eyes are the sharpest part of its form—large and distinctly present, usually luminous pale blue or gray, and containing an overwhelming sadness. When it moves, the air seems to waver, and sometimes it cannot be seen at all, only the wake it leaves in the air.
 
 ## Key Behaviors
 
@@ -311,7 +311,7 @@ Phantomwings are solitary and nocturnal by preference, though they sometimes bec
 
 ## Combat Strategy
 
-Phantomwings do not seek combat. If forced into it, they become desperate and dangerous, but they would prefer to flee. They use their intangibility to avoid strikes and retreat to open sky. If cornered, a Phantomwing becomes vicious and will attack the source of its entrapment with focused fury. It fights with less tactical sophistication than material creatures—it lashes out in desperate patterns rather than executing strategy. Against opponents who cannot harm it (those without magical or radiant weapons), it ignores them entirely and seeks only to escape.
+Phantomwings do not seek combat. If forced into it, they become desperate and dangerous, but they would prefer to flee. They use their intangibility to avoid strikes and retreat to open sky. If cornered, a Phantomwing becomes vicious and will attack the source of its entrapment with focused fury. It fights with less cunning than material creatures—it lashes out in desperate patterns rather than executing strategy. Against opponents who cannot harm it (those without magical or blessed weapons), it ignores them entirely and seeks only to escape.
 
 ## Attack Methods
 
@@ -327,7 +327,7 @@ The Phantomwing emits a sound like wind through broken glass and a creature's fi
 
 ### Phasing
 
-The Phantomwing exists partially out of synchronization with the material world. Physical weapons pass through it with minimal effect. However, magical and radiant attacks strike it fully, as does the touch of blessed weapons.
+The Phantomwing exists partially out of synchronization with the material world. Physical weapons pass through it with minimal effect. However, magical and holy attacks strike it fully, as does the touch of blessed weapons.
 
 ### Aerial Mastery
 
@@ -335,7 +335,7 @@ The creature is at home in the sky in a way that nothing material can match. In 
 
 ### Mournful Presence
 
-Simply being near a Phantomwing for extended periods causes melancholy and despair. Those in close proximity for more than an hour begin to suffer from sadness and fatigue. Companions become irritable and withdrawn. This is not a supernatural compulsion—it is the natural effect of prolonged exposure to such overwhelming grief.
+Simply being near a Phantomwing for extended periods causes melancholy and despair. Those in close proximity for more than an hour begin to suffer from sadness and fatigue. Companions become irritable and withdrawn. This is the natural effect of prolonged exposure to such overwhelming grief, not a supernatural compulsion.
 
 ### Incorporeal Vision
 
@@ -343,7 +343,7 @@ The Phantomwing can perceive the world in ways that material creatures cannot. I
 
 ## Additional Information
 
-Phantomwings are often the harbingers of strange weather or magical phenomena. Their presence sometimes indicates that the boundary between the living world and the spirit realm is thin. Clerics and good-natured magic users sometimes attempt to help Phantomwings find peace, guiding them back to their homeland or granting them release from their search. Some who have succeeded report profound gratitude, with the Phantomwing's presence lingering protectively over those who helped it. A Phantomwing killed does not remain dead—it simply manifests again later, still searching. Permanent peace requires spiritual resolution, not violence.
+Phantomwings are often the harbingers of strange weather or magical phenomena. Their presence sometimes indicates that the boundary between the living world and the spirit realm is thin. Clerics and good-natured magic users sometimes attempt to help Phantomwings find peace, guiding them back to their homeland or granting them release from their search. Some who have succeeded report deep gratitude, with the Phantomwing's presence lingering protectively over those who helped it. A Phantomwing killed does not remain dead—it simply manifests again later, still searching. Permanent peace requires spiritual resolution, not violence.
 
 ## Attributes
 

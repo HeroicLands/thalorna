@@ -286,7 +286,7 @@ sohl:
 
 ![[rdgdskmm|Ridged Skimmer]]{float: top-left}
 
-The water erupts with wrongness — a sinuous neck rising from dark depths, scales sliding across each other with a wet, sliding sound. The thing’s eyes emerge first, unblinking and utterly alien, then the elongated snout with teeth like needle points revealed as the mouth opens. The creature moves with predatory grace that seems at odds with its emergence from murky water, and the sound that rumbles from its chest is something between a crocodile’s hiss and a creature gargling blood. The water around it seems to chill, and you instinctively understand that you have just been assessed as either threat or prey.
+The water erupts with wrongness — a sinuous neck rising from dark depths, scales sliding across each other with a wet, sliding sound. The thing’s eyes emerge first, unblinking and alien, then the elongated snout with teeth like needle points revealed as the mouth opens. The creature moves with predatory grace that seems at odds with its emergence from murky water, and the sound that rumbles from its chest is something between a crocodile’s hiss and a creature gargling blood. The water around it seems to chill, and you instinctively understand that you have just been assessed as either threat or prey.
 
 # Dossier {#dossier}
 
@@ -294,7 +294,7 @@ The Ridged Skimmer is a semi-aquatic predator measuring 6-8 feet in length plus 
 
 ## Presentation
 
-The Ridged Skimmer presents a sleek, streamlined form optimized for aquatic hunting. The body is covered in smooth, dark green scales with subtle patterning that provides camouflage in murky water. The neck is elongated and flexible, allowing the creature to reach and strike from unexpected angles. The head is proportionally large with unblinking, vertically-pupilled eyes positioned on the sides for monocular vision, a long snout filled with dozens of backward-pointing teeth designed to grip slippery prey, and flared nostrils positioned at the snout’s tip to allow breathing while mostly submerged. A thin crest runs along the neck and back, likely used for display or additional aquatic maneuvering. The tail is long, muscular, and whip-like, capable of lashing with significant force. The legs are short and positioned laterally, with webbed feet and sharp claws for gripping rocks and roots.
+The Ridged Skimmer presents a sleek, streamlined form built for aquatic hunting. The body is covered in smooth, dark green scales with subtle patterning that provides camouflage in murky water. The neck is elongated and flexible, allowing the creature to reach and strike from unexpected angles. The head is proportionally large with unblinking, vertically-pupilled eyes positioned on the sides for monocular vision, a long snout filled with dozens of backward-pointing teeth designed to grip slippery prey, and flared nostrils positioned at the snout’s tip to allow breathing while mostly submerged. A thin crest runs along the neck and back, likely used for display or additional aquatic maneuvering. The tail is long, muscular, and whip-like, capable of lashing with significant force. The legs are short and positioned laterally, with webbed feet and sharp claws for gripping rocks and roots.
 
 ## Key Behaviors
 
@@ -322,11 +322,11 @@ The powerful tail swings in a wide arc, creating a weapon capable of hitting tar
 
 ### Aquatic Ambush
 
-The skimmer’s entire body and hunting strategy is optimized for submerged waiting and sudden attacks. When striking from a submerged or hidden position, the creature gains significant advantage in attack rolls and damage.
+The skimmer’s entire body and hunting strategy are built for submerged waiting and sudden attacks. When striking from a submerged or hidden position, the creature strikes harder and more surely.
 
 ### Drowning Grip
 
-Once the skimmer has established a grapple, it is exceptionally difficult to escape. The creature’s strong jaws and body control make it nearly impossible to break free without significant strength advantage or magical assistance. The skimmer can drag a grappled victim underwater and hold them there, forcing them to hold their breath.
+Once the skimmer has established a grapple, it is very difficult to escape. The creature’s strong jaws and body control make it nearly impossible to break free without significant strength advantage or magical assistance. The skimmer can drag a grappled victim underwater and hold them there, forcing them to hold their breath.
 
 ### Aquatic Mastery
 

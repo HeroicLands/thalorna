@@ -16,8 +16,8 @@ data:
   parents:
     - nrthrnfrtlrgn
     - xerathia
-  # borders:
-  #   - { to: takheperurgn, bearing: E }
+  borders:
+    - { to: takheperurgn, bearing: E }
   population: null
 packFolder: bethua
 ---

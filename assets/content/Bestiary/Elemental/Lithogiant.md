@@ -624,7 +624,7 @@ sohl:
 
 ![[lthgnt|Lithogiant]]{float: top-left}
 
-The ground trembles. What rises before you is the size of a house, then larger—a humanoid figure of solid stone and living earth, perhaps twenty-five to thirty feet in height. Its body is composed of massive interlocked stone blocks and carved rock, with a silhouette of geological strata made animate. Where it moves, the earth shakes, and small stones rattle and bounce from the vibration. Its eyes are burning points deep within a stone head, and when it shifts its weight, entire hillsides seem to shift with it. It regards you with the alien patience of something that measures time in geological epochs.
+The ground trembles. What rises before you is the size of a house, then larger—a humanoid figure of solid stone and living earth, perhaps twenty-five to thirty feet in height. Its body is composed of massive interlocked stone blocks and carved rock, with a silhouette of geological strata made animate. Where it moves, the earth shakes, and small stones rattle and bounce from the vibration. Its eyes are burning points deep within a stone head, and when it shifts its weight, entire hillsides seem to shift with it. It regards you with the alien patience of something that measures time in ages of stone.
 
 # Dossier {#dossier}
 
@@ -632,7 +632,7 @@ A Lithogiant is raw elemental power—an earth elemental of titanic proportions.
 
 ## Presentation
 
-A Lithogiant stands twenty-five to thirty feet tall and is composed entirely of stone and earth held together by magic. Its body has a roughly humanoid shape—two legs, a torso, two arms, and a head—but the proportions are strange, shifted toward strength and endurance rather than human aesthetics. Its surface is jagged and rough, with exposed stone faces and geological patterns visible across its body. Its eyes are deep within its head, burning with a dull orange or red glow. Its hands are massive and stone, and its stride can crack the earth.
+A Lithogiant stands twenty-five to thirty feet tall and is composed entirely of stone and earth held together by magic. Its body has a roughly humanoid shape—two legs, a torso, two arms, and a head—but the proportions are strange, shifted toward strength and endurance rather than human likeness. Its surface is jagged and rough, with exposed stone faces and geological patterns visible across its body. Its eyes are deep within its head, burning with a dull orange or red glow. Its hands are massive and stone, and its stride can crack the earth.
 
 ## Key Behaviors
 
@@ -676,11 +676,11 @@ The Lithogiant is composed of stone and is nearly indestructible. It regenerates
 
 ### Geological Awareness
 
-The Lithogiant seems to perceive the earth on a level that humans cannot. It knows the structure of mountains and can sense geological anomalies. It may move according to knowledge of earthquakes or tectonic shifts about to occur.
+The Lithogiant seems to perceive the earth on a level that humans cannot. It knows the structure of mountains and can sense where the earth is strange. It may move according to knowledge of earthquakes or upheavals about to occur.
 
 ## Additional Information
 
-Water is the Lithogiant's primary vulnerability. Large bodies of flowing water can erode it, and sustained water-based magic can crack and damage its form. Settling it into a deep river or causing a flood can harm it significantly. Air-based magic that can scatter its stone components is also effective. A Lithogiant destroyed by dispersal or sinking cannot easily reform. One destroyed on solid earth may regenerate given enough time. Most encounters with Lithogiants cannot be won through combat; the goal is instead to get out of the creature's path or to redirect it toward a hazard (a chasm, a river, a flood). Some philosophers argue that Lithogiants serve a purpose in reshaping the world according to deeper geological principles beyond human understanding, and that killing one may have consequences beyond the obvious.
+Water is the Lithogiant's primary vulnerability. Large bodies of flowing water can erode it, and sustained water-based magic can crack and damage its form. Settling it into a deep river or causing a flood can harm it significantly. Air-based magic that can scatter its stone components is also effective. A Lithogiant destroyed by dispersal or sinking cannot easily reform. One destroyed on solid earth may regenerate given enough time. Most encounters with Lithogiants cannot be won through combat; the goal is instead to get out of the creature's path or to redirect it toward a hazard (a chasm, a river, a flood). One school of philosophy holds that Lithogiants serve a purpose in reshaping the world according to deeper geological principles beyond human understanding, and that killing one may have consequences beyond the obvious.
 
 ## Attributes
 
