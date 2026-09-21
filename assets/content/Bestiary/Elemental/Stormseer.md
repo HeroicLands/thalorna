@@ -328,7 +328,7 @@ High above, the air itself becomes uncertain. What you see is a shape wreathed i
 
 # Dossier {#dossier}
 
-Stormseers are elementals of sky and electricity, born from violent storms and drawing strength from tempestuous weather. They are intelligent and arrogant, regarding ground-dwelling creatures as primitives beneath serious consideration. A Stormseer in a region typically indicates incoming severe weather, and one account holds that the creature's presence actually causes storms to develop. They are territorial about sky and weather and will attack aircraft or attempts to control weather in their territory. A Stormseer is a threat to settlements, capable of calling down lightning strikes and creating deadly storms.
+Stormseers are elementals of sky and electricity, born from violent storms and drawing strength from tempestuous weather. They are intelligent and arrogant, regarding ground-dwelling creatures as primitives beneath serious consideration. A Stormseer in a region typically indicates incoming severe weather, and one account holds that the creature's presence actually causes storms to develop. They are territorial about sky and weather and will attack anything that flies through their territory or attempts to control its weather. A Stormseer is a threat to settlements, capable of calling down lightning strikes and creating deadly storms.
 
 ## Presentation
 
