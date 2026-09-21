@@ -533,7 +533,7 @@ sohl:
 
 # Dossier {#dossier}
 
-Êrmyn was born to Élavendren parents but does not remember his early childhood. He was part of a refugee cohort that fled political persecution twelve years ago, when he was eleven years old. The experience of flight, loss, and displacement marked him in ways that remain visible in his bearing. His parents died during the journey (he will not say how), and he was taken in by a settlement near Élavendre's forest edge—a community that specialized in accepting refugees and integrating them into its life.
+Êrmyn was born to Élavendren parents but does not remember his early childhood. He was part of a refugee cohort that fled political persecution twelve years ago, when he was eleven years old. The experience of flight, loss, and displacement marked him in ways that remain visible in his bearing. His parents died during the journey (he will not say how), and he was taken in by a settlement near [[place-elavendre|Élavendre]]'s forest edge—a community that specialized in accepting refugees and integrating them into its life.
 
 At eighteen, he joined the local town guard not out of ambition but out of pragmatic recognition that he had no other marketable skills. The work suited him in unexpected ways. His years as a refugee had made him acutely aware of danger and threat; his instinctive hypervigilance, which had been a liability in civilian life, became an asset in security work. He moves through the forest-edge town with the characteristic silence of someone who learned early that making noise could mean death.
 

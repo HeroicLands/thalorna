@@ -558,7 +558,7 @@ Vélaria Óthral is a 29-year-old woman who stands 5'11" tall and is of moderate
 
 # Dossier {#dossier}
 
-Vélaria was born in Liranel to a freeman family. Her father was a joiner; her mother worked as a seamstress for one of the minor merchant houses. The family was respectable but not prosperous, and Vélaria grew up in the streets around Liranel's lower market — close enough to the city's poorer quarters to see how illness, hunger, and neglect ate away at people the rest of the city preferred to ignore.
+Vélaria was born in [[place-liranel|Liranel]] to a freeman family. Her father was a joiner; her mother worked as a seamstress for one of the minor merchant houses. The family was respectable but not prosperous, and Vélaria grew up in the streets around Liranel's lower market — close enough to the city's poorer quarters to see how illness, hunger, and neglect ate away at people the rest of the city preferred to ignore.
 
 She showed two gifts early: an extraordinary sensitivity to the suffering of others, and a talent for drawing. The first brought her to the attention of the [[affiliation-florania|Faith of Flórania]] when, at twelve, she was found sitting with a dying beggar outside the temple, holding his hand and humming to him — not because anyone had asked her to, but because she could not bring herself to walk past. The temple's resident priestess took her in as an apprentice that same week. The second gift — the drawing — came alongside the first and proved surprisingly useful: Vélaria could sketch a wound, a rash, or a pattern of symptoms with clinical accuracy, producing illustrations that the temple's physicians found more useful than written descriptions.
 
@@ -586,7 +586,7 @@ She struggles with the weight of her work. She is better at managing it than she
 
 Vélaria wants to build a proper clinic in the lower quarters — a real one, with beds, a storeroom, an assistant, and enough supplies to treat the volume of patients who need her. She has been working toward this for years, saving what little coin she receives, cultivating relationships with sympathetic merchants, and petitioning the temple for support. The temple has been politely noncommittal. The city council considers the lower quarters a problem to be contained rather than invested in. She is running out of channels to try and is beginning to consider less conventional ones.
 
-Beyond the clinic, she is motivated by a conviction she does not often articulate: that the way a society treats its poorest members reveals what it truly believes, and that Élavendre, for all its beauty and tradition, has been failing this test for a long time. She does not frame this as political — she is not an agitator — but her daily work is, in its quiet way, an indictment of every feast and festival held while children in the lower quarters go hungry.
+Beyond the clinic, she is motivated by a conviction she does not often articulate: that the way a society treats its poorest members reveals what it truly believes, and that [[affiliation-kngdmlvndr|Élavendre]], for all its beauty and tradition, has been failing this test for a long time. She does not frame this as political — she is not an agitator — but her daily work is, in its quiet way, an indictment of every feast and festival held while children in the lower quarters go hungry.
 
 ### Strengths
 

@@ -558,7 +558,7 @@ Maḥmûdrós Gharîdís is a 54-year-old man who stands 6'0" tall and is broad 
 
 # Dossier {#dossier}
 
-Born in the Heliónis region to a freeman family of Helionite heritage, Maḥmûdrós Gharîdís came into the world of the hideworker through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Maḥmûdrós Gharîdís came into the world of the hideworker through a combination of circumstance and aptitude.
 
 Maḥmûdrós has been a hideworker for decades, known for his expertise in working with tougher hides from larger animals. He primarily crafts durable leather goods, such as armor and heavy bags. His experience makes him a sought-after craftsman, though his no-nonsense demeanor can be intimidating. Maḥmûdrós takes pride in his work and has a wealth of knowledge about different tanning methods.
 

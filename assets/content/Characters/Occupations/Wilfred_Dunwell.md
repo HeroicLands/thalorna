@@ -555,7 +555,7 @@ Wilfred Dunwell is a 45-year-old man who stands 6'1" tall and is broad and solid
 
 # Dossier {#dossier}
 
-Born in the Aelwyth region to a freeman family of Aelwythan heritage, Wilfred Dunwell came into the world of the herder through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Wilfred Dunwell came into the world of the herder through a combination of circumstance and aptitude.
 
 Wilfred comes from a family of herders and has spent his life tending to cattle and sheep. Known for his strength and resilience, he is capable of handling the toughest challenges that come with herding. Wilfred has a deep understanding of the weather and its effects on livestock, which he uses to guide his practices. Despite his ruggedness, he has a soft spot for his animals and often talks to them as if they were companions.
 

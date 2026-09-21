@@ -553,7 +553,7 @@ Tázîtha Ibârîdês is a 29-year-old woman who stands 6'1" tall and is slender
 
 # Dossier {#dossier}
 
-Born in the Heliónis region to a freeman family of Helionite heritage, Tázîtha Ibârîdês came into the world of the charcoaler through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Tázîtha Ibârîdês came into the world of the charcoaler through a combination of circumstance and aptitude.
 
 Tázîtha is one of the few female charcoalers in her area, having learned the trade from her uncle. She enjoys the solitude of the forest and takes great care in her work. Her charcoal is known for being exceptionally clean-burning, and she often supplies local forges as well as herbalists who use it in remedies.
 

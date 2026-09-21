@@ -553,7 +553,7 @@ Thária Castírenna is a 27-year-old woman who stands 5'8" tall and is slender. 
 
 # Dossier {#dossier}
 
-Born in the Tarvénia region to a freeman family of Tarvénan heritage, Thária Castírenna came into the world of the domestic servant through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Thária Castírenna came into the world of the domestic servant through a combination of circumstance and aptitude.
 
 Thária was captured during a raid on her village and sold into slavery in the city, where she serves as a housemaid for a wealthy family. Although her tasks are not as grueling as those of a field laborer, she suffers from the emotional toll of being treated as property. Thária's sharp mind and quick reflexes have helped her avoid punishment, but she longs for a life of freedom.
 

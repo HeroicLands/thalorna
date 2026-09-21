@@ -554,7 +554,7 @@ Avice Winwick is a 30-year-old woman who stands 5'10" tall and is slender. She h
 
 # Dossier {#dossier}
 
-Born in the Aelwyth region to a noble family of Aelwythan heritage, Avice Winwick came into the world of the mercantyler (supercargo) through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heritage, Avice Winwick came into the world of the mercantyler (supercargo) through a combination of circumstance and aptitude.
 
 Avice has a background in maritime trade and has spent years as a supercargo for a major trading company. She is adept at managing cargo and ensuring that all transactions are conducted smoothly. Avice is known for her keen business acumen and her ability to adapt to changing market conditions. Her reputation for honesty and reliability has earned her respect among clients and colleagues alike.
 

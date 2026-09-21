@@ -559,7 +559,7 @@ Alîmû Lâmarû is a 53-year-old man who stands 5'4" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Born in the Harad region to a guilded family of Haradian heritage, Alîmû Lâmarû came into the world of the bureaucrat through a combination of circumstance and aptitude.
+Born in the [[place-haradregin|Harad]] region to a guilded family of Haradian heritage, Alîmû Lâmarû came into the world of the bureaucrat through a combination of circumstance and aptitude.
 
 Alîmû has worked in the city’s administrative offices for over three decades, climbing the ranks through diligence and an ability to navigate the politics of the bureaucracy. He is known for his meticulous record-keeping and strict adherence to protocol, though his career has left him jaded and weary of corruption in the higher offices.
 

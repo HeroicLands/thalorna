@@ -555,7 +555,7 @@ Bárnek Lánthrik is a 40-year-old man who stands 5'11" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the Provènzia region to a guilded family of Provenzian heritage, Bárnek Lánthrik came into the world of the bard through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provènzia]] region to a guilded family of Provenzian heritage, Bárnek Lánthrik came into the world of the bard through a combination of circumstance and aptitude.
 
 Bárnek has been a bard for over twenty years, gaining a reputation for his adventurous spirit and compelling stories. He travels widely, seeking new tales and experiences to share in his performances. Bárnek often acts as a mediator or diplomat, using his skills in persuasion to resolve disputes. Though respected, he sometimes exaggerates his stories for effect.
 

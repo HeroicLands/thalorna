@@ -534,7 +534,7 @@ Habìdon is a giant of a man — 6'6" and 227 pounds of broad-shouldered, thick-
 
 # Dossier {#dossier}
 
-Habìdon was born into Heliónis's maritime culture where the sea is as fundamental as breath. His family worked the docks: loading cargo, maintaining vessels, repairing rigging. He grew up watching combat-ready naval forces and was conscripted into the Helionite marine service at nineteen. The transition from dock labor to naval infantry was surprisingly natural; the work required the same problem-solving and physical competence, only with higher stakes.
+Habìdon was born into [[place-helionis|Heliónis]]'s maritime culture where the sea is as fundamental as breath. His family worked the docks: loading cargo, maintaining vessels, repairing rigging. He grew up watching combat-ready naval forces and was conscripted into the Helionite marine service at nineteen. The transition from dock labor to naval infantry was surprisingly natural; the work required the same problem-solving and physical competence, only with higher stakes.
 
 Eight years of marine service have made Habìdon profoundly comfortable in naval environments. He has fought in boarding actions, defended merchant convoys against pirates, been involved in three major sea battles. He moves through the rigging of a ship with the same ease he walks on solid ground. His knuckles are scarred from boarding combat where his size and strength translate into raw utility. He does not move with a soldier's regimented bearing but rather with the rolling gait of a man who spends half his life on water.
 

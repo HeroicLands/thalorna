@@ -551,7 +551,7 @@ Hilda Browning is a 24-year-old woman who stands 5'6" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Born in the Aelwyth region to a freeman family of Aelwythan heritage, Hilda Browning came into the world of the prostitute through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Hilda Browning came into the world of the prostitute through a combination of circumstance and aptitude.
 
 Hilda works at a bustling brothel but has strong ties to the Gray Tide. While she provides companionship to clients, she secretly gathers information and assists the organization in various activities. Known for her charm and quick wit, Hilda uses her position to navigate the world of both pleasure and crime. She is determined to rise above her circumstances and dreams of one day escaping the life of a prostitute.
 

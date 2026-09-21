@@ -561,7 +561,7 @@ Wítharic Druthgar is a 42-year-old man who stands 6'0" tall and is broad and so
 
 # Dossier {#dossier}
 
-Born in the Vrystwald region to a guilded family of Varokhi heritage, Wítharic Druthgar came into the world of the shipwright through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a guilded family of Varokhi heritage, Wítharic Druthgar came into the world of the shipwright through a combination of circumstance and aptitude.
 
 Wítharic hails from a long line of shipwrights and inherited his family's business. He specializes in crafting warships, and his vessels are highly prized for their durability and speed. Wítharic is a hard worker but struggles with the administrative side of the business. His temper can flare when things don't go according to plan, especially with clients who constantly change their requirements.
 

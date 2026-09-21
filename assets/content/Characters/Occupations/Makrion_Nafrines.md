@@ -560,7 +560,7 @@ Mákrion Nâfrinês is a 46-year-old man who stands 5'11" tall and is of moderat
 
 # Dossier {#dossier}
 
-Born in the Heliónis region to a freeman family of Helionite heritage, Mákrion Nâfrinês came into the world of the astrologer through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Mákrion Nâfrinês came into the world of the astrologer through a combination of circumstance and aptitude.
 
 Mákrion is a self-taught astrologer who began his practice by observing the stars from his farmstead. He eventually moved to a nearby town, where he now provides astrological advice to farmers regarding planting and harvest times. Though less educated than other astrologers, his practical insights have earned him a local following.
 

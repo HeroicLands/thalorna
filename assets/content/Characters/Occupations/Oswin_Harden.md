@@ -558,7 +558,7 @@ Oswin Harden is a 50-year-old man who stands 6'2" tall and is broad and solidly 
 
 # Dossier {#dossier}
 
-Born in the Aelwyth region to a guilded family of Aelwythan heritage, Oswin Harden came into the world of the innkeeper through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage, Oswin Harden came into the world of the innkeeper through a combination of circumstance and aptitude.
 
 Oswin is a former blacksmith who decided to shift his focus to running the Forge & Flame Inn. Known for his hearty meals and strong drinks, he caters to adventurers and merchants passing through town. Oswin has a commanding presence and a good sense of humor, making his inn a lively place. He enjoys hearing tales from travelers and often joins in the storytelling.
 

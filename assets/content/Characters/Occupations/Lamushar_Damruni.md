@@ -556,7 +556,7 @@ Lamûshar Damrûnî is a 45-year-old man who stands 5'7" tall and is of moderate
 
 # Dossier {#dossier}
 
-Born in the Harad region to a noble family of Haradian heritage, Lamûshar Damrûnî came into the world of the litigant through a combination of circumstance and aptitude.
+Born in the [[place-haradregin|Harad]] region to a noble family of Haradian heritage, Lamûshar Damrûnî came into the world of the litigant through a combination of circumstance and aptitude.
 
 Lamûshar has spent decades as a litigator, focusing on commercial law and trade disputes. His extensive experience and sharp legal mind have earned him a prominent position within the Litigant's Guild. Lamûshar is respected for his analytical approach and ability to navigate complex legal systems. He is known to mentor young litigants and is passionate about upholding the law.
 

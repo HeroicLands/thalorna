@@ -557,7 +557,7 @@ Skaldár Balthhelm is a 51-year-old man who stands 5'10" tall and is of moderate
 
 # Dossier {#dossier}
 
-Born in the Vrystwald region to a guilded family of Varokhi heritage, Skaldár Balthhelm came into the world of the toymaker through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a guilded family of Varokhi heritage, Skaldár Balthhelm came into the world of the toymaker through a combination of circumstance and aptitude.
 
 Skaldár is a veteran toymaker whose shop has been a staple in the city for decades. He specializes in mechanical toys and clockwork creations, bringing a touch of magic to his work with moving parts and lifelike features. Known for his innovation, Skaldár takes great pride in his craftsmanship, though he struggles to keep up with newer trends in toymaking.
 

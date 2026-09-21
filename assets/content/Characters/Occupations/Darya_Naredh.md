@@ -556,7 +556,7 @@ Dárya Náredh is a 28-year-old woman who stands 5'11" tall and is slender. She 
 
 # Dossier {#dossier}
 
-Born in the Élavendre region to a guilded family of Élavendri heritage, Dárya Náredh came into the world of the bard through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a guilded family of Élavendri heritage, Dárya Náredh came into the world of the bard through a combination of circumstance and aptitude.
 
 Dárya was trained in the bardic arts from a young age, and her talent for storytelling and song quickly became apparent. She travels from court to court, performing for nobility and commoners alike. Her songs often blend historical events with myth, and she has a talent for charming her audience. Though ambitious, Dárya is genuinely passionate about preserving history through her craft.
 

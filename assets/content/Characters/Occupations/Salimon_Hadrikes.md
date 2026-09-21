@@ -555,7 +555,7 @@ Sâlimón Hâdrîkês is a 45-year-old man who stands 5'7" tall and is of modera
 
 # Dossier {#dossier}
 
-Born in the Heliónis region to a noble family of Helionite heritage, Sâlimón Hâdrîkês came into the world of the scholar through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Heliónis]] region to a noble family of Helionite heritage, Sâlimón Hâdrîkês came into the world of the scholar through a combination of circumstance and aptitude.
 
 Dr. Sâlimón is a renowned scholar specializing in ancient history and mythology. He has spent decades researching forgotten texts and artifacts, often traveling to distant lands to gather information for his studies. Sâlimón is known for his lectures at prestigious academies, where he shares his extensive knowledge with eager students. Despite his accomplishments, he remains humble and is passionate about preserving the past for future generations.
 

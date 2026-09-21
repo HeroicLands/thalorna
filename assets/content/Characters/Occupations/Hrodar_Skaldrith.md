@@ -556,7 +556,7 @@ Hródar Skáldrith is a 45-year-old man who stands 6'4" tall and is broad and so
 
 # Dossier {#dossier}
 
-Born in the Vrystwald region to a freeman family of Varokhi heritage, Hródar Skáldrith came into the world of the mercenary through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Hródar Skáldrith came into the world of the mercenary through a combination of circumstance and aptitude.
 
 Hródar is a veteran mercenary with extensive experience in various conflicts. He has fought for both noble houses and common folk, depending on the contracts he takes. Known for his combat skills and experience, he often serves as a mentor to younger mercenaries. Hródar believes in honor and loyalty, often refusing contracts that involve unnecessary violence.
 

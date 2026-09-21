@@ -556,7 +556,7 @@ sohl:
 
 # Dossier {#dossier}
 
-Born in the Provènzia region to a freeman family of Provenzian heritage, Árisla Kórisvar came into the world of the herald through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Árisla Kórisvar came into the world of the herald through a combination of circumstance and aptitude.
 
 Lady Elowen Faircourt was born into a minor noble family known for their service as heralds and courtiers. She has a natural gift for oratory and a keen understanding of social dynamics, which she uses to her advantage when delivering announcements and mediating disputes. Elowen is well-liked for her poise and ability to adapt her style to suit different occasions, whether formal or more relaxed. While her progressive approach has earned her praise, it has also drawn criticism from more traditional heralds.
 

@@ -555,7 +555,7 @@ Bâlden Stýlgon is a 51-year-old man who stands 6'0" tall and is broad and soli
 
 # Dossier {#dossier}
 
-Born in the Provènzia region to a freeman family of Provenzian heritage, Bâlden Stýlgon came into the world of the skald through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Bâlden Stýlgon came into the world of the skald through a combination of circumstance and aptitude.
 
 Bâlden is an older skald who has spent most of his life reciting epic poems and histories in the great halls of chieftains. His voice is as strong as his name suggests, able to carry over the din of a feast. He values tradition and is dedicated to preserving the old stories without embellishment, believing that history should be remembered as it was. Bâlden is a respected mentor to younger skalds.
 

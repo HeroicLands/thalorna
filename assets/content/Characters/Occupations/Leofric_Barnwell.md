@@ -556,7 +556,7 @@ Leofric Barnwell is a 42-year-old man who stands 5'7" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Born in the Aelwyth region to a noble family of Aelwythan heritage, Leofric Barnwell came into the world of the physician through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heritage, Leofric Barnwell came into the world of the physician through a combination of circumstance and aptitude.
 
 Dr. Leofric Barnwell is a respected physician known for his extensive knowledge of medicine and healing practices. He has spent many years studying both traditional remedies and modern techniques, making him a trusted figure in the community. Leofric is dedicated to helping his patients and often volunteers his services to the less fortunate. His calm demeanor and empathetic nature have made him a beloved doctor.
 

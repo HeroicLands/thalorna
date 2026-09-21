@@ -557,7 +557,7 @@ Sédrik Mórlineth is a 49-year-old man who stands 6'3" tall and is broad and so
 
 # Dossier {#dossier}
 
-Born in the Élavendre region to a freeman family of Élavendri heritage, Sédrik Mórlineth came into the world of the jailer through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Sédrik Mórlineth came into the world of the jailer through a combination of circumstance and aptitude.
 
 Sédrik has been a jailer for over twenty years, working in the city’s largest prison. Known for his imposing stature and stern demeanor, he keeps order among the inmates with a firm hand. Despite his tough exterior, Sédrik believes in fair treatment and tries to help prisoners reform when he can. However, his dedication to his job has made him few friends outside the jail.
 

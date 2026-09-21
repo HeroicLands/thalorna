@@ -556,7 +556,7 @@ Târlig Tólgen is a 47-year-old man who stands 6'1" tall and is of moderate bui
 
 # Dossier {#dossier}
 
-Born in the Provènzia region to a freeman family of Provenzian heritage, Târlig Tólgen came into the world of the thatcher through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Târlig Tólgen came into the world of the thatcher through a combination of circumstance and aptitude.
 
 Târlig has worked as a thatcher for most of his life, maintaining the roofs of cottages and barns throughout the countryside. He learned the craft from his father and has since taught his own sons. Known for his meticulous work and the durability of his roofs, Târlig is often in high demand, though his services come at a slower pace due to his attention to detail.
 

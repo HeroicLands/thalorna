@@ -555,7 +555,7 @@ Rýlden Brânwyld is a 56-year-old man who stands 6'2" tall and is broad and sol
 
 # Dossier {#dossier}
 
-Born in the Provènzia region to a noble family of Provenzian heritage, Rýlden Brânwyld came into the world of the chieftain through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provènzia]] region to a noble family of Provenzian heritage, Rýlden Brânwyld came into the world of the chieftain through a combination of circumstance and aptitude.
 
 Rýlden is the chieftain of a powerful tribal clan known for their warriors and hunters. He earned his place as leader through both his strength in battle and his cunning in negotiation. Rýlden is respected by his people, but his harsh and uncompromising ways have also made him feared. He is always looking out for threats to his position, both from rival clans and ambitious members of his own tribe.
 

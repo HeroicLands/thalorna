@@ -557,7 +557,7 @@ Gálver Maríthran is a 50-year-old man who stands 6'0" tall and is broad and so
 
 # Dossier {#dossier}
 
-Born in the Tarvénia region to a freeman family of Tarvénan heritage, Gálver Maríthran came into the world of the mason through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Gálver Maríthran came into the world of the mason through a combination of circumstance and aptitude.
 
 Gálver is a veteran mason with over thirty years of experience. He has worked on countless projects, from simple homes to grand cathedrals. Known for his strength and expertise, Gálver often takes on leadership roles in construction projects and is respected for his ability to train younger workers. He believes in the importance of craftsmanship and integrity in his work.
 

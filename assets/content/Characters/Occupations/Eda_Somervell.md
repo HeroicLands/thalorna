@@ -556,7 +556,7 @@ Eda Somervell is a 27-year-old woman who stands 5'7" tall and is slender. She ha
 
 # Dossier {#dossier}
 
-Born in the Aelwyth region to a freeman family of Aelwythan heritage, Eda Somervell came into the world of the innkeeper through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Eda Somervell came into the world of the innkeeper through a combination of circumstance and aptitude.
 
 Eda manages the Somervell Inn, which is nestled near a popular trade route. After taking over from her parents, she has worked tirelessly to ensure that her inn remains a welcoming place for travelers. Eda is known for her friendly demeanor and ability to connect with guests, but she sometimes struggles with the pressures of running the business.
 

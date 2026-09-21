@@ -556,7 +556,7 @@ Fárila Válskyr is a 35-year-old woman who stands 5'7" tall and is slender. She
 
 # Dossier {#dossier}
 
-Born in the Provènzia region to a noble family of Provenzian heritage, Fárila Válskyr came into the world of the physician through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provènzia]] region to a noble family of Provenzian heritage, Fárila Válskyr came into the world of the physician through a combination of circumstance and aptitude.
 
 Lady Seraphina is a skilled physician with a specialization in herbal medicine. Having grown up in a noble family, she pursued her passion for healing by studying both conventional medicine and natural remedies. Seraphina is known for her holistic approach, often considering the emotional and social aspects of her patients' health. She is a strong advocate for women's health and often conducts workshops to educate the community.
 

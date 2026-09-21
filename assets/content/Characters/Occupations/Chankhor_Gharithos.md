@@ -555,7 +555,7 @@ Chânkhor Ghârîthôs is a 42-year-old man who stands 6'3" tall and is broad an
 
 # Dossier {#dossier}
 
-Born in the Heliónis region to a freeman family of Helionite heritage, Chânkhor Ghârîthôs came into the world of the ostler through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Chânkhor Ghârîthôs came into the world of the ostler through a combination of circumstance and aptitude.
 
 Chânkhor is a seasoned ostler who has managed stables for many years. With a wealth of knowledge about different horse breeds and their care requirements, he is often called upon for his expertise. Chânkhor takes pride in maintaining a well-organized stable and often trains younger ostlers in proper care techniques. His strong presence and experience make him a respected figure in the community.
 

@@ -561,7 +561,7 @@ Jólren Álvianar is a 35-year-old man who stands 6'0" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the Tarvénia region to a freeman family of Tarvénan heritage, Jólren Álvianar came into the world of the mason through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Jólren Álvianar came into the world of the mason through a combination of circumstance and aptitude.
 
 Jólren has been working as a mason for over fifteen years, specializing in stone carving and masonry for buildings and sculptures. He takes great pride in his work, often infusing his pieces with intricate details and artistic flair. Jólren is well-respected in his community for his craftsmanship and dedication to preserving traditional techniques, while also adapting to modern methods.
 

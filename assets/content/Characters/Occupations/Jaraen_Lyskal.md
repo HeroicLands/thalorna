@@ -556,7 +556,7 @@ Járaen Lýskal is a 39-year-old woman who stands 5'6" tall and is slender. She 
 
 # Dossier {#dossier}
 
-Born in the Provènzia region to a freeman family of Provenzian heritage, Járaen Lýskal came into the world of the toymaker through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Járaen Lýskal came into the world of the toymaker through a combination of circumstance and aptitude.
 
 Járaen learned the art of toymaking from her grandfather, who crafted toys for children in the local village. She now runs a small workshop in the city, where she makes wooden toys, dolls, and miniature models. Járaen’s toys are known for their whimsical designs and intricate details, which bring joy to children and collectors alike. Although her craft is fulfilling, she struggles to compete with cheaper, mass-produced toys.
 

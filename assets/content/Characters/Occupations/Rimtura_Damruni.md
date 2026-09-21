@@ -556,7 +556,7 @@ Rimtûra Damrûnî is a 32-year-old woman who stands 5'8" tall and is slender. S
 
 # Dossier {#dossier}
 
-Born in the Harad region to a noble family of Haradian heritage, Rimtûra Damrûnî came into the world of the litigant through a combination of circumstance and aptitude.
+Born in the [[place-haradregin|Harad]] region to a noble family of Haradian heritage, Rimtûra Damrûnî came into the world of the litigant through a combination of circumstance and aptitude.
 
 Rimtûra is a skilled litigator specializing in family law and inheritance disputes. As a respected member of the Litigant's Guild, she is known for her compassion and dedication to her clients. Rimtûra has a keen understanding of emotional and legal complexities, allowing her to navigate difficult cases with empathy. She is passionate about ensuring that justice is served and works tirelessly for her clients.
 

@@ -556,7 +556,7 @@ Bánrik Cáriselda is a 33-year-old man who stands 6'1" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the Tarvénia region to a freeman family of Tarvénan heritage, Bánrik Cáriselda came into the world of the bodyguard through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Bánrik Cáriselda came into the world of the bodyguard through a combination of circumstance and aptitude.
 
 Bánrik has established himself as a quick and resourceful bodyguard known for his agility and quick reflexes. With a background in the streets, he has learned how to navigate dangerous situations and protect his clients from both physical threats and underhanded dealings. Bánrik often employs a strategic approach, using both words and actions to keep his clients safe. His experience allows him to anticipate potential dangers before they arise.
 

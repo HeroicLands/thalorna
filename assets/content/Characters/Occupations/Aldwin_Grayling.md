@@ -553,7 +553,7 @@ Aldwin Grayling is a 48-year-old man who stands 6'0" tall and is of moderate bui
 
 # Dossier {#dossier}
 
-Born in the Aelwyth region to a freeman family of Aelwythan heritage, Aldwin Grayling came into the world of the beggar through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Aldwin Grayling came into the world of the beggar through a combination of circumstance and aptitude.
 
 Aldwin once worked as a farmhand but lost his job after a poor harvest left the farm struggling to survive. He drifted to the nearest town in search of work but ended up living on the streets, begging for coin. Aldwin is determined to find his way back to a better life, though his pride sometimes prevents him from accepting help.
 

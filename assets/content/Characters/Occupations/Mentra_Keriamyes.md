@@ -555,7 +555,7 @@ Mêntrâ Kêrîamyês is a 27-year-old woman who stands 5'10" tall and is slende
 
 # Dossier {#dossier}
 
-Born in the Vylaría region to a freeman family of Vylarian heritage, Mêntrâ Kêrîamyês came into the world of the glassworker through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Mêntrâ Kêrîamyês came into the world of the glassworker through a combination of circumstance and aptitude.
 
 Mêntrâ discovered her passion for glassworking as a teenager, when she began working in a workshop to help support her family. She quickly developed a talent for creating stained glass windows and colorful glassware. Mêntrâ is known for her innovative designs and vivid use of color, often incorporating unique patterns that set her work apart from traditional styles. While her creativity is an asset, it also attracts criticism from more conventional artisans.
 

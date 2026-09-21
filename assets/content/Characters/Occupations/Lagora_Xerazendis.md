@@ -553,7 +553,7 @@ Làgôra Xêrâzêndis is a 27-year-old woman who stands 5'8" tall and is slende
 
 # Dossier {#dossier}
 
-Born in the Vylaría region to a freeman family of Vylarian heritage, Làgôra Xêrâzêndis came into the world of the fool through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Làgôra Xêrâzêndis came into the world of the fool through a combination of circumstance and aptitude.
 
 Làgôra grew up in a small village and developed a talent for mischief and humor at an early age. She travels from town to town, performing tricks and stunts to entertain audiences. Làgôra is known for her sharp tongue and playful antics, often using her humor to challenge social norms and expectations. While her jokes can be biting, she uses them to provoke thought and laughter.
 

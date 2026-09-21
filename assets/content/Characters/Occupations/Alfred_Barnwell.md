@@ -556,13 +556,13 @@ Alfred Barnwell cuts an unassuming figure—a lean man of moderate height with t
 
 # Dossier {#dossier}
 
-Alfred Barnwell was born in Kingshollow, a smaller settlement in the wilder reaches of Aelwyth, to a freeman's family with no connections to the Ordo Arcanis or any formal magical institution. His early aptitude for herbalism and mineral lore was unremarkable until a wandering scholar from the Panepistemium recognized something deeper—a gift for understanding the old ways of making, the marriage of folk tradition and systematic inquiry. By his mid-twenties, he had secured a place as a lay apprentice within the Epistemium's eastern chapter, and for ten years he immersed himself in the Sodalitas Physéra, the Earth school of alchemy.
+Alfred Barnwell was born in [[place-kingsholow|Kingshollow]], a smaller settlement in the wilder reaches of [[place-aelwyth|Aelwyth]], to a freeman's family with no connections to [[affiliation-ordoarcanis|the Ordo Arcanis]] or any formal magical institution. His early aptitude for herbalism and mineral lore was unremarkable until a wandering scholar from the Panepistemium recognized something deeper—a gift for understanding the old ways of making, the marriage of folk tradition and systematic inquiry. By his mid-twenties, he had secured a place as a lay apprentice within the Epistemium's eastern chapter, and for ten years he immersed himself in the Sodalitas Physéra, the Earth school of alchemy.
 
 But Alfred's trajectory took a sudden turn in his mid-thirties. The Ordo's demands for doctrinal purity and monopolistic control over all magical practice began to feel suffocating to a man raised on Aelwyth's foggy, liminal shores where the boundary between folk magic and learned sorcery had always been permeable. He began quietly gathering forbidden texts—records of pre-Ordo alchemy, techniques preserved by village cunning-folk, runecraft inscribed in stones. When the Quaesitorium began investigating unauthorized practitioners in the borderlands, Alfred made his choice: he left the Epistemium quietly, taking with him his accumulated knowledge and his considerable arsenal of herbal recipes, mineral elixirs, and enchanted stones.
 
 For the past seven years, he has lived as what most know him as: a traveling healer and scholar named Thalos Graymoor, moving through the less-settled regions of Aelwyth—the deep forests, the misty moorlands, the fishing villages that the Ordo's reach only touches lightly. He supplies remedies, crafts bespoke alchemical aids for local craftsfolk and hunters, reads old texts for those who need guidance with the unseen, and conducts his deeper work in candlelit cellars and forest clearings where few ask questions. His extraordinary folklore knowledge makes him a trusted advisor on matters of local tradition; his high intrigue suggests he maintains careful awareness of political currents that might threaten his precarious independence.
 
-He is faithful to Ménérva—the goddess of knowledge and wisdom—not the communal faith of his birth, but a personal devotion born from his conviction that true understanding transcends institutional boundaries.
+He is faithful to [[lore-menervadty|Ménérva]]—the goddess of knowledge and wisdom—not the communal faith of his birth, but a personal devotion born from his conviction that true understanding transcends institutional boundaries.
 
 ## Psyche
 
@@ -574,7 +574,7 @@ His weaknesses are equally real. His physical frailty (strength: 10) is no liabi
 
 ## Social
 
-Alfred's official affiliation is formally severed from the Panepistemium, though he maintains clandestine correspondence with one of its more liberal-minded archivists in the Dúnavarre chapterhouse. Should he ever be discovered, he would be considered a lapsed Adept operating without sanction—a serious violation in Dúnavarre's Ordo-dominated society.
+Alfred's official affiliation is formally severed from the Panepistemium, though he maintains clandestine correspondence with one of its more liberal-minded archivists in the [[affiliation-kingdmdnvr|Dúnavarre]] chapterhouse. Should he ever be discovered, he would be considered a lapsed Adept operating without sanction—a serious violation in Dúnavarre's Ordo-dominated society.
 
 Locally, in the scattered settlements and forest communities of the borderlands where he now works, he is known as a valuable resource. Village chieftains, hedge witches, master craftsfolk, and respected elders know him as someone who can be trusted with a problem and whose discretion is absolute. He has also cultivated selective relationships with other independent practitioners—smugglers of forbidden texts, practitioners of older seidr traditions, scholars of the natural world who operate outside institutional frameworks. These are not friendships so much as networks of mutual aid, held together by shared wariness of the Ordo's expanding reach.
 

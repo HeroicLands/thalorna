@@ -555,7 +555,7 @@ Vandaric Gárskald is a 25-year-old man who stands 6'1" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the Vrystwald region to a freeman family of Varokhi heritage, Vandaric Gárskald came into the world of the ostler through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Vandaric Gárskald came into the world of the ostler through a combination of circumstance and aptitude.
 
 Vandaric grew up around horses and has always had a natural affinity for caring for them. As an ostler, he manages the stables of a local inn, ensuring that the horses are well-fed, groomed, and ready for travel. Known for his gentle demeanor, Vandaric has a way of calming even the most skittish animals. He takes pride in his work and is respected by both travelers and locals for his expertise in horse care.
 
