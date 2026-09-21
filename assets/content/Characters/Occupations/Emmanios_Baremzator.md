@@ -593,7 +593,7 @@ He is beginning to attract attention from radical reform movements within the pr
 
 ## Companions
 
-**Patrons:** The farmers and village elders of the Valdosta circuit are Émmanîôs's true patrons. Specifically, Elder Theron of Millhaven (also patron to Azéndas Dâemâtôr, though the two priests have never met), a former militia officer, provides local political protection and shelter. Mother Celene, an elderly priestess of Flórania in the Temple hierarchy, maintains institutional support for Émmanîôs's circuit, despite her private reservations about his radical sympathies. A shadowy figure known only as "the Gathering" appears to coordinate with Émmanîôs about resource redistribution—whether ally or potential manipulator is unclear even to Émmanîôs.
+**Patrons:** Mother Celene, an elderly priestess of Flórania in the Temple hierarchy, maintains institutional support for Émmanîôs's circuit, despite her private reservations about his radical sympathies. A shadowy figure known only as "the Gathering" appears to coordinate with Émmanîôs about resource redistribution—whether ally or potential manipulator is unclear even to Émmanîôs.
 
 **Enemies:** The Temple's conservative faction views Émmanîôs as a threat to institutional stability and would remove him if they could do so without generating rural unrest. Bishop Morivan, an ambitious ecclesiastic in the capital, has marked Émmanîôs as a heretic-in-waiting and gathers evidence against him. Greedy regional lords see his charitable work as an obstacle to their own extraction of resources from the villages. A grain merchant named Solon, who has profited from village scarcity, despises Émmanîôs for disrupting the desperate desperation that makes the poor vulnerable to exploitation.
 
