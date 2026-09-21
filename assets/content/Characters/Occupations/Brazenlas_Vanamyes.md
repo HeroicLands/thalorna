@@ -554,54 +554,50 @@ sohl:
 
 # Appearance {#appearance}
 
-Bràzenlâs Vânamyês is a 52-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with soft cheekbones, a narrow forehead, and a square jaw that leads to a firm chin. His piercing brown eyes sit beneath straight brows, lending him a penetrating gaze. A straight nose and expressive lips complete his features. He has olive-tanned skin with a weathered complexion. His gray hair is cropped short.
+Bràzenlâs Vânamyês is a 52-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with soft cheekbones, a narrow forehead, and a square jaw that leads to a firm chin. His piercing brown eyes sit beneath straight brows and give him a penetrating gaze. He has a straight nose and expressive lips. He has olive-tanned skin with a weathered complexion. His gray hair is cropped short.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Bràzenlâs Vânamyês came into the world of the embalmer through a combination of circumstance and aptitude.
+Bràzenlâs Vânamyês is an embalmer of Corvinus, the garrison town in the Alyssan heartland of [[place-vylariargn|Vylaría]], a Vylarian freeman and the third of his line in the trade, who has prepared the dead of the town and its garrison for thirty years by his grandfather's methods.
 
-Bràzenlâs has been an embalmer for over three decades, following in the footsteps of his father and grandfather. He is a traditionalist who adheres to the old methods of preservation and respects the ancient customs of the trade. Bràzenlâs believes that the dead must be prepared properly to ensure their peaceful passage to the afterlife. While he is dedicated and skilled, his somber nature and adherence to tradition make him appear unapproachable to some.
+Bràzenlâs holds that the rite as his grandfather taught it is what sees a soul across, and a rite hurried or altered leaves the dead where they should not be. He does it the same way for a legionary and for the head of the oldest family in the town, and the old families come to him for exactly that. The garrison sends him its dead because he does not complain of the numbers. The younger embalmers of the collegium, who use the quicker preparations from Magnápolis, find him a reproach.
 
-Now at 52 years of age, Bràzenlâs Vânamyês has established himself as a known figure among the embalmers of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
+He is a known figure among the embalmers of Vylaria, and an unapproachable one.
 
 ## Psyche
 
 ### Personality
 
-Resistant to new methods, often comes across as overly somber and distant.
+Bràzenlâs is grave, exact and distant, and seems to prefer the dead, whose needs he understands, to the living.
 
 ### Motivation
 
-Bràzenlâs is driven by the desire to master his craft and secure a stable future. The uncertainties of life in embalmer work keep him vigilant and adaptable.
+Bràzenlâs wants every corpse that comes to him prepared correctly, because the soul's passage depends on it. He wants the house to continue after him, and he has no son and has not chosen an apprentice.
 
 ### Strengths
 
-Experienced, skilled in traditional embalming techniques, dedicated to his craft.
+Experienced, skilled in the traditional rites and preservations, wholly dedicated to the work.
 
 ## Social
 
-Bràzenlâs is affiliated with Morticians' Guild.
-
-As a Vylarian embalmer, Bràzenlâs occupies a recognized social niche within Vylaria society.
+Bràzenlâs is a master of the Morticians' Guild of Corvinus and attends its meetings to vote against every change in method.
 
 ## Companions
 
 ### Patrons
 
-Bràzenlâs's primary patron is Longstanding families who trust his expertise and tradition.. This relationship provides both opportunity and obligation.
+Bràzenlâs's patrons are the old families of Corvinus, who want the rite their grandparents had, and the garrison's quartermaster, who sends him the legion's dead.
 
 ### Enemies
 
-Some younger embalmers who advocate for modern techniques.
+The younger embalmers of the collegium, who use the Magnápolis preparations and would have the guild drop the old rite from its standard; their leader wants the garrison contract.
 
 ## Plot Hooks
 
-1. **The Embalmer's Dilemma** — Bràzenlâs faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
+1. **The Garrison's Dead** — A fever in the barracks has given Bràzenlâs forty bodies in a week and the quartermaster wants them ready in three days, which the full rite will not allow.
 
-2. **Old Grudges** — Some younger embalmers who advocate for modern techniques. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **A New Rite** — The daughter of an old family wants her father buried with a rite from the capital that Bràzenlâs holds to be worthless and has asked him to perform it because her father trusted no one else.
 
-3. **Echoes of the Past** — Something from Bràzenlâs's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **The Body That Should Not Be Embalmed** — A body has come from the garrison with a clerk's tally and a wound that no fever made, and Bràzenlâs has been told to prepare it quickly. The quartermaster's clerk knows what he has seen.
 
-4. **Shifting Winds** — Political changes in Vylaria threaten to upend the social order that Bràzenlâs depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Bràzenlâs the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **No Heir** — Bràzenlâs has no son and has turned away every apprentice as unfit. A young embalmer who uses the new preparations has asked to learn the old rite from him, and may be the only one who ever will.

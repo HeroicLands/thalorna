@@ -549,54 +549,50 @@ sohl:
 
 # Appearance {#appearance}
 
-Ríthara Dómivar is a 22-year-old woman who stands 5'8" tall and is of moderate build. She has a long face with defined cheekbones, a narrow forehead, and an angular jaw that leads to a strong chin. Her large dark brown eyes sit beneath thick brows, lending her an expressive gaze. A prominent nose and narrow lips complete her features. She has medium-toned skin with a weathered complexion. Her black hair is pulled back tightly from her face.
+Ríthara Dómivar is a 22-year-old woman who stands 5'8" tall and is of moderate build. She has a long face with defined cheekbones, a narrow forehead, and an angular jaw that leads to a strong chin. Her large dark brown eyes sit beneath thick brows and give her an expressive gaze. She has a prominent nose and narrow lips. She has medium-toned skin with a weathered complexion. Her black hair is pulled back tightly from her face.
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Ríthara Dómivar came into the world of the common seaman through a combination of circumstance and aptitude.
+Ríthara Dómivar is a common seaman of [[place-tarvenirgn|Tarvénia]], a Tarvénan freewoman from the hill town of Torreviga who walked down to the coast at seventeen to find a ship and has been on one ever since.
 
-Ríthara is a young and spirited seaman who dreams of adventure on the open sea. She has a knack for navigation and often helps the crew chart their course. Ríthara is eager to learn and often asks questions to improve her skills. Her enthusiasm and positive attitude make her a beloved member of the crew. She hopes to one day become a captain and explore the world.
+Ríthara comes of hill people who expected her to marry a hill man, and Torreviga has no sea in sight. She signed on as a deckhand at Valthári, undersized for the work and knowing nothing, and has spent five years learning. The stars came at once. She has a gift for navigation that her first mate noticed and her captain has used since — she works a reckoning as well as men twice her age — and she asks questions until the officers are sick of her. She is not strong, and knows it costs her in the crew's eyes. She means to be a captain, and has said so aloud.
 
-Now at 22 years of age, Ríthara Dómivar has established herself as a known figure among the common seamans of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
+She is a known figure among the seamen of Tarvénia.
 
 ## Psyche
 
 ### Personality
 
-Can be naive, struggles with physical tasks.
+Ríthara is eager, open and hopeful to the point of naivety; she takes people at their word and is surprised when it costs her.
 
 ### Motivation
 
-Ríthara is driven by the desire to master her craft and secure a stable future. The uncertainties of life in common seaman work keep her vigilant and adaptable.
+Ríthara wants a ship of her own and the open sea beyond the coasts she knows, and every watch she stands is a step toward it. She wants to learn everything the ship can teach her, from anyone who will teach it.
 
 ### Strengths
 
-Quick learner, enthusiastic, good with navigation.
+Quick learner, enthusiastic, gifted at navigation.
 
 ## Social
 
-Ríthara is affiliated with None; works as a hired hand..
-
-As a Tarvénan common seaman, Ríthara occupies a recognized social niche within Tarvénia society.
+Ríthara belongs to no guild or company and ships as a hired hand from voyage to voyage.
 
 ## Companions
 
 ### Patrons
 
-Ríthara's primary patron is Ship captains and crew members who appreciate her spirit.. This relationship provides both opportunity and obligation.
+Ríthara's patrons are the captains who take her on for her reckoning and the crews who take to her spirit. Her present captain has begun letting her stand a navigator's watch.
 
 ### Enemies
 
-Few; generally well-liked, though some may underestimate her abilities.
+Seamen who think a slight girl has no business aloft, and one mate who has seen where the captain's favour is going and does not intend to be passed over by a deckhand.
 
 ## Plot Hooks
 
-1. **The Common Seaman's Dilemma** — Ríthara faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
+1. **A Wrong Reckoning** — A course Ríthara plotted has put the ship a day off her landfall on a lee shore, and the mate has made sure everyone knows whose reckoning it was. The log has been altered.
 
-2. **Old Grudges** — Few; generally well-liked, though some may underestimate her abilities. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Price of Teaching** — A captain in another ship has offered to take Ríthara as an officer's apprentice and teach her everything, for a share of her wages for seven years and her signature on a paper she cannot fully read.
 
-3. **Echoes of the Past** — Something from Ríthara's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Word from Torreviga** — Her father is ill and her mother has sent for her to come home and take up the hill life she left. The ship sails in three days and will not wait.
 
-4. **Shifting Winds** — Political changes in Tarvénia threaten to upend the social order that Ríthara depends upon. She must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Ríthara the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+4. **The Mate** — The mate who resents her has proposed her for a job aloft in weather no sensible officer would send a deckhand into, and the captain is below. Refusing is the end of her on this ship.

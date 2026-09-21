@@ -552,54 +552,50 @@ sohl:
 
 # Appearance {#appearance}
 
-Áleifr Frostulf is a 40-year-old man who stands 6'0" tall and is broad and solidly built. He has an oval face with prominent cheekbones, a high forehead, and a strong jaw that leads to a cleft chin. His almond-shaped blue eyes sit beneath heavy brows, lending him a measured gaze. A straight nose and firm lips complete his features. He has light skin with a pale complexion. His dark blonde hair is thick and unkempt. A notable feature is a faded scar on the right brow.
+Áleifr Frostulf is a 40-year-old man who stands 6'0" tall and is broad and solidly built. He has an oval face with prominent cheekbones, a high forehead, and a strong jaw that leads to a cleft chin. His almond-shaped blue eyes sit beneath heavy brows and give him a measured gaze. He has a straight nose and firm lips. He has light skin with a pale complexion. His dark blonde hair is thick and unkempt. A notable feature is a faded scar on the right brow.
 
 # Dossier {#dossier}
 
-Born in the [[affiliation-kngdmnrdhm|Nordheim]] region to a freeman family of Nordheimn heritage, Áleifr Frostulf came into the world of the huntsman through a combination of circumstance and aptitude.
+Áleifr Frostulf is chief huntsman to Lady Elenora of Wildwood Manor, above the fishing village of Greyfjord in [[affiliation-kngdmnrdhm|Nordheim]], a Nordman freeman who has kept the manor's forest and settled the hunting quarrels of the fjord for fifteen years.
 
-Áleifr is the chief huntsman for Lady Elenora of Wildwood Manor. With years of experience, he has an unparalleled understanding of the local ecosystems and the best practices for sustainable hunting. Áleifr is respected by the other hunters for his wisdom and experience, and he is often consulted when disputes arise regarding hunting rights or land use. His dedication to his lady and the land is unwavering.
+Áleifr keeps the forest that climbs behind Greyfjord from the manor to the high ground; the village lives on fish, and the forest lives on him. He was a fisherman's son who preferred the wood, and took service at the manor as a boy. He knows which valleys the elk winter in, how many wolves the high ridge will carry, and which stands can be hunted this year and which must be left. He keeps the manor's table in game and its guests in sport. The clans of the fjord bring him their disputes over hunting rights and grazing at the wood's edge; he rules against his own lady's guests when the season requires, and she has never once overruled him.
 
-Now at 40 years of age, Áleifr Frostulf has established himself as a known figure among the huntsmans of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
+He is a known figure among the huntsmen of Nordheim.
 
 ## Psyche
 
 ### Personality
 
-Can be overly cautious, struggles to adapt to new hunting methods.
+Áleifr is steady, cautious and deliberate, slow to change a method that works and slower to trust a new one. He is respected rather than liked, which suits him.
 
 ### Motivation
 
-Áleifr is driven by the desire to master his craft and secure a stable future. The uncertainties of life in huntsman work keep him vigilant and adaptable.
+Áleifr wants the forest kept — its game, its ground and its balance — for the manor after him. He serves Lady Elenora because she lets him keep it that way.
 
 ### Strengths
 
-Experienced, knowledgeable about ecology, strong leadership skills.
+Experienced, knowledgeable about the land and its game, a natural leader of hunters.
 
 ## Social
 
-Áleifr is affiliated with Lady Elenora’s retinue.
-
-As a Nordheimn huntsman, Áleifr occupies a recognized social niche within Nordheim society.
+Áleifr belongs to Lady Elenora's retinue and ranks in it just below her steward.
 
 ## Companions
 
 ### Patrons
 
-Áleifr's primary patron is Lady Elenora and the manor's guests.. This relationship provides both opportunity and obligation.
+Áleifr's patrons are Lady Elenora and the guests she brings to Wildwood Manor to hunt, whom he guides, outfits and — when the season or the ground demands it — refuses.
 
 ### Enemies
 
-Few; he is well-respected in the community.
+Nobody open, but a fjord is a small place, and the men he has ruled against over a boundary or a grazing right remember it.
 
 ## Plot Hooks
 
-1. **The Huntsman's Dilemma** — Áleifr faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
+1. **The Guest** — A jarl's kinsman, guesting at the manor, wants to take a stag the season forbids, and will take a refusal as an insult to his house. Lady Elenora has left the answer to Áleifr.
 
-2. **Old Grudges** — Few; he is well-respected in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Boundary** — Two clans of the fjord have brought Áleifr a dispute over a stretch of the wood's edge that both have grazed for a century.
 
-3. **Echoes of the Past** — Something from Áleifr's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **The Manor's Fortunes** — Lady Elenora's income has failed and she is under pressure to sell the timber rights to the forest. Áleifr has been asked what the wood is worth, and the truth is not what she wants to hear.
 
-4. **Shifting Winds** — Political changes in Nordheim threaten to upend the social order that Áleifr depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Áleifr the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **The Hard Winter** — The wolves have come down from the high ridge early and taken three of the village's cattle, and the fjord wants the pack hunted out. Áleifr knows the ridge cannot spare it and the village cannot spare the cattle.

@@ -2,4 +2,4 @@
 "thalorna": patch
 ---
 
-**Characters** — Every occupation NPC's entry describes that person, not a template.
+**Characters** — Every occupation NPC is a person: a history, motivations, relations and hooks that belong to them.
