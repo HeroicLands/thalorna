@@ -634,9 +634,9 @@ Bjalfi is motivated by a desire to ensure no one else suffers what his family en
 
 ### Patrons
 
-- **Captain **Aldric Stonefist\*\*: Bjalfi's commanding officer and mentor. Aldric became the father figure Bjalfi lacked growing up, and his opinion matters more to Bjalfi than almost anyone else's.
-- **The Farming Council of **Vithgard\*\*: The communities Bjalfi's militia protects recognize him as their primary defender. They advocate for his promotions and provide support for militia operations.
-- **The Village Elder **Kara Stonekeeper\*\*: An influential elder who sees potential in Bjalfi and has been mentoring him in aspects of leadership beyond combat.
+- **Captain Aldric Stonefist**: Bjalfi's commanding officer and mentor. Aldric became the father figure Bjalfi lacked growing up, and his opinion matters more to Bjalfi than almost anyone else's.
+- **The Farming Council of Vithgard**: The communities Bjalfi's militia protects recognize him as their primary defender. They advocate for his promotions and provide support for militia operations.
+- **The Village Elder Kara Stonekeeper**: An influential elder who sees potential in Bjalfi and has been mentoring him in aspects of leadership beyond combat.
 
 ### Enemies
 
@@ -646,7 +646,7 @@ Bjalfi is motivated by a desire to ensure no one else suffers what his family en
 
 ### Affiliations
 
-- **The Militia of **Vithgard\*\*: Bjalfi's primary affiliation. He is a dedicated member and now a sergeant with increasing responsibility.
+- **The Militia of Vithgard**: Bjalfi's primary affiliation. He is a dedicated member and now a sergeant with increasing responsibility.
 - **The Followers of [[lore-tyrdty|Týr]]**: Bjalfi actively participates in worship of the god of order and justice, and his faith is genuine—not merely ritual.
 - **[[being-hrfnklhrfnsvld|Hrafnkell Hrafnsvald]] (Father)**: Bjalfi's father, a former soldier turned tentmaker in Vithgard. Their relationship is complicated by years of absence during Bjalfi's childhood and the unspoken weight of his mother's death. They see each other from time to time, and there is love beneath the tension, but reconciliation remains a work in progress.
 - **[[being-thjthrhrfnsvld|Thjótharr Hrafnsvald]] (Uncle)**: Bjalfi's uncle, a renowned clothier in the [[affiliation-kingdmnrgd|Kingdom of Norgaad]]. Though they live in different realms and lead very different lives, the family bond remains. [[being-thjthrhrfnsvld|Thjótharr]]'s connections among nobility have occasionally proven useful, and Bjalfi's martial reputation lends a certain rugged credibility to the Hrafnsvald name that his uncle quietly appreciates.

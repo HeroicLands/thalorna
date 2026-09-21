@@ -627,7 +627,7 @@ Kjôrvan is driven by a desire to provide genuine care and comfort to creatures 
 - **Practical Craftsmanship**: Strong in metalcraft, woodworking, and drawing allows him to repair tack, maintain stable facilities, and create tools perfectly suited to his purposes without needing to commission outside work.
 - **Keen Observation**: Perception of 16 combined with awareness skill allows him to notice details others miss—the slight favoring of a horse's leg that indicates injury, the nervous energy of a traveler fleeing danger, the subtle tells that someone is being dishonest.
 - **Patient Teaching**: His calm demeanor and proven track record make him an excellent informal teacher, and many younger folk work under him hoping to learn his methods.
-- **Climbing and Physical Capability**: Dexterity and climbing skills allow him to handle horses in difficult terrain and retrieve animals from dangerous situations, as well as maintain high rooftops and sohl.
+- **Climbing and Physical Capability**: Dexterity and climbing skills allow him to handle horses in difficult terrain and retrieve animals from dangerous situations, as well as maintain high rooftops and kit.
 - **Reliable Presence**: His reputation for absolute honesty, reliability, and kindness makes him one of the most trusted figures in the region. Merchants and nobles trust him with their most valuable animals and often confide in him.
 
 ### Weaknesses
@@ -644,7 +644,7 @@ Kjôrvan is driven by a desire to provide genuine care and comfort to creatures 
 
 - **Innkeeper Mârlith**: The proprietor of the **Traveler's Rest Inn**, who trusts Kjôrvan completely and relies on him to maintain the quality of the inn's services. She often consults him on matters beyond his stable work.
 - **Merchant Caravans of the Crossroads**: Regular merchants who pass through the inn give Kjôrvan gifts, bonuses, and special requests, viewing his care as worth premium payment.
-- **The Kingdom's **Ranger Corps\*\*: The royal rangers occasionally stable their horses with Kjôrvan and respect his knowledge of equine fitness and trail-readiness.
+- **The Kingdom's Ranger Corps**: The royal rangers occasionally stable their horses with Kjôrvan and respect his knowledge of equine fitness and trail-readiness.
 - **Noble Houses of Provènzia**: Several regional nobles have favorite horses stabled permanently at the inn specifically to be under Kjôrvan's care.
 
 ### Enemies

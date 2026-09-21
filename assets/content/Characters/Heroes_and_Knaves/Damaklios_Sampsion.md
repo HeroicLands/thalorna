@@ -651,7 +651,7 @@ Damáklios is driven by a complex tangle of motivations. Primarily, he seeks to 
 ### Patrons
 
 - **Military Intelligence Operatives of the Byzarian League**: The League's military establishment remains his primary legitimate patron, even as they suspect him of selling maps to their enemies. The contradiction remains unresolved because Damáklios's maps are so valuable that the military continues to commission them while simultaneously investigating him.
-- **Merchant-Lord **Davos the Uncouth\*\*: A wealthy merchant with significant smuggling interests throughout the coastal territories. Davos commissions maps identifying hidden coves, unpatrolled routes, and secure locations for illicit goods storage. Davos is also one of Damáklios's few social contacts and occasional drinking companions.
+- **Merchant-Lord Davos the Uncouth**: A wealthy merchant with significant smuggling interests throughout the coastal territories. Davos commissions maps identifying hidden coves, unpatrolled routes, and secure locations for illicit goods storage. Davos is also one of Damáklios's few social contacts and occasional drinking companions.
 - **Unknown Foreign Power**: Damáklios has been receiving increasingly lucrative commissions from intermediaries operating on behalf of a foreign power (possibly the Kingdom of Tarvénia or a distant northern confederation). He does not know the true identity of these patrons, which both attracts him (plausible deniability) and terrifies him.
 
 ### Enemies

@@ -644,12 +644,12 @@ Theomídes is motivated by a desire to preserve the balance of the wild places h
 ### Patrons
 
 - **The Merchant House of Pelios**: A family of fur traders who have purchased Theomídes' pelts for two decades. **Kyros Pelios**, the patriarch, trusts his judgment implicitly and often seeks his advice on which furs will command premium prices.
-- **Farmer **Alexandros Thrasonis\*\*: A desperate man whose lands were plagued by a massive bear until Theomídes tracked and relocated it. Alexandros now sends urgent requests whenever predators menace his herds.
-- **Master Leatherworker **Dmitri Korikotis\*\*: Uses only the finest hides, prepared by Theomídes himself. He values the trapper's expertise and treats him as a partner rather than a supplier.
+- **Farmer Alexandros Thrasonis**: A desperate man whose lands were plagued by a massive bear until Theomídes tracked and relocated it. Alexandros now sends urgent requests whenever predators menace his herds.
+- **Master Leatherworker Dmitri Korikotis**: Uses only the finest hides, prepared by Theomídes himself. He values the trapper's expertise and treats him as a partner rather than a supplier.
 
 ### Enemies
 
-- **The Poacher Cartel led by **Grevin the Scarred\*\*: A network of commercial hunters who strip forests bare and sell inferior pelts under false names. Theomídes has actively worked against them, sometimes preventing their hunts and always warning villages of their approach.
+- **The Poacher Cartel led by Grevin the Scarred**: A network of commercial hunters who strip forests bare and sell inferior pelts under false names. Theomídes has actively worked against them, sometimes preventing their hunts and always warning villages of their approach.
 - **The Logging Consortium of the Byzarian League**: Merchants who push for ever-deeper cutting into forests Theomídes considers sacred. He has not acted against them openly but harbors deep resentment.
 
 ### Affiliations

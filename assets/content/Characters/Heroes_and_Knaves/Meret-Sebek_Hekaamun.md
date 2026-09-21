@@ -671,7 +671,8 @@ The culmination of his journey will lead to a dramatic confrontation with the fo
 - **Perception**: His ability to observe celestial patterns and subtle details is highly developed.
 - **Comeliness**: His dignified appearance and composed demeanor make him pleasantly notable.
 - **Aura**: Meret-Sebek possesses a strong spiritual presence, enhancing his connection to cosmic forces.
-- **Will**: His determination to fulfill his quest demonstrates considerable willpower./li> **Reasoning**: A brilliant mind adept at complex calculations and interpretations of celestial events.
+- **Will**: His determination to fulfill his quest demonstrates considerable willpower.
+- **Reasoning**: A brilliant mind adept at complex calculations and interpretations of celestial events.
 - **Creativity**: His novel approaches to astrology show a high level of creativity.
 - **Empathy**: He understands and feels with others, aiding in his role as a guide.
 - **Eloquence**: Communicates his thoughts clearly, making complex ideas accessible.

@@ -641,7 +641,7 @@ Thêkla is motivated by a desire to protect those who cannot protect themselves.
 ### Enemies
 
 - **The Crimson Brotherhood**: A slavering organization operating throughout the **Byzarian League**. Their leader, **Captain Malachai the Chained**, has marked Thêkla for death after she dismantled two of their trafficking operations.
-- **Mercenary Lord **Korvas the Merciless\*\*: A rival who views her moral stance as weakness and profit-loss. He has actively worked to undermine her contracts and damage her reputation.
+- **Mercenary Lord Korvas the Merciless**: A rival who views her moral stance as weakness and profit-loss. He has actively worked to undermine her contracts and damage her reputation.
 - **The Corrupt House of Magistrates**: City officials who profit from allowing crime to flourish. They view Thêkla as a threat to their comfortable arrangements.
 
 ### Affiliations
