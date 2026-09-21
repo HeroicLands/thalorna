@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - cntrlkchchk
+    - balamkulrgn
   population: null
 name:
   full: Balamkul

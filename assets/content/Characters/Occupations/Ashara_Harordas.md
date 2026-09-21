@@ -552,54 +552,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Ashârâ Hârôrdâs is a 34-year-old woman who stands 6'0" tall and is of moderate build. She has a square face with angular cheekbones, a high forehead, and a square jaw that leads to a square chin. Her round brown eyes sit beneath prominent brows, lending her a candid gaze. A prominent nose and thin lips complete her features. She has tanned skin with a sun-tanned complexion. Her dark brown hair is swept up and held with carved combs.
+Ashârâ Hârôrdâs is a 34-year-old woman who stands 6'0" tall and is of moderate build. She has a square face with angular cheekbones, a high forehead, and a square jaw that leads to a square chin. Her round brown eyes sit beneath prominent brows and give her a candid gaze. She has a prominent nose and thin lips. She has sun-tanned skin. Her dark brown hair is swept up and held with carved combs.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a guilded family of Vylarian heritage, Ashârâ Hârôrdâs came into the world of the swordmaster through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaría]] region to a guilded family of Vylarian heritage, Ashârâ Hârôrdâs is a swordmaster.
 
-Ashârâ is a skilled duelist who made a name for herself in the city's fencing circles. After winning several prestigious tournaments, she opened her own fencing school, where she trains young nobles and skilled fighters alike. Ashârâ's quick reflexes and keen eye make her a formidable opponent, but she can be overly competitive, sometimes letting her pride get the better of her.
+Ashârâ is a skilled duelist who made a name for herself in the city's fencing circles. After winning several prestigious tournaments, she opened her own fencing school, where she trains young nobles and skilled fighters alike. Her quick reflexes and sharp eye make her a dangerous opponent, but she can be overly competitive, sometimes letting her pride get the better of her.
 
-Now at 34 years of age, Ashârâ Hârôrdâs has established herself as a known figure among the swordmasters of Vylaria. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 34 years of age, she is a known figure among the swordmasters of Vylaria.
 
 ## Psyche
 
 ### Personality
 
-Overly competitive, sometimes lets pride dictate her actions.
+She is overly competitive and sometimes lets pride dictate her actions.
 
 ### Motivation
 
-Ashârâ is driven by the desire to master her craft and secure a stable future. The uncertainties of life in swordmaster work keep her vigilant and adaptable.
+Ashârâ wants her school to be the first in Vylaria and her own name to stay ahead of every rival's.
 
 ### Strengths
 
-Exceptional reflexes, skilled in dueling, adept teacher.
+She has quick reflexes, is skilled in dueling, and is an adept teacher.
 
 ## Social
 
-Ashârâ is affiliated with City Fencing Guild.
-
-As a Vylarian swordmaster, Ashârâ occupies a recognized social niche within Vylaria society.
+Ashârâ belongs to the City Fencing Guild.
 
 ## Companions
 
 ### Patrons
 
-Ashârâ's primary patron is Wealthy patrons who seek her instruction for their children.. This relationship provides both opportunity and obligation.
+Ashârâ's patrons are the wealthy families who seek her instruction for their children.
 
 ### Enemies
 
-Rival fencers who challenge her for supremacy in the dueling circles.
+Rival fencers challenge her for supremacy in the dueling circles.
 
 ## Plot Hooks
 
-1. **The Swordmaster's Dilemma** — Ashârâ faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
+1. **The Swordmaster's Dilemma** — A wealthy patron's son is not good enough to pass, and his family's fees and her school's name cannot both be kept.
 
-2. **Old Grudges** — Rival fencers who challenge her for supremacy in the dueling circles. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A rival fencer she beat in a tournament challenges her to a duel she cannot decline without losing face.
 
-3. **Echoes of the Past** — Something from Ashârâ's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** — A rival from Ashârâ's tournament years returns to Vylaria with an old score to settle.
 
-4. **Shifting Winds** — Political changes in Vylaria threaten to upend the social order that Ashârâ depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Vylaria threatens the standing Ashârâ's guild gives her, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Ashârâ the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — Ashârâ is offered the post of swordmaster to a noble house, and its price is not named up front.

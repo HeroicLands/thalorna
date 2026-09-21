@@ -342,11 +342,11 @@ The shadow crosses over you first, immense and black—the wing-shadow of someth
 
 # Dossier {#dossier}
 
-The Giant Eagle is a mount-sized raptor that dominates the high mountain passes and cliff faces of the world. With a wingspan exceeding twenty feet and talons that could pierce a knight's armor, a single Giant Eagle is a threat that entire caravans fear. These creatures are not mindless beasts but intelligent, calculating hunters with remarkable spatial reasoning and tactical awareness. They establish vast territories spanning hundreds of square miles, and they defend those territories with terrible efficiency. Adventurers most commonly encounter them when traveling mountain passages, when an eagle takes interest in a caravan, or when an expedition reaches a nesting site.
+The Giant Eagle is a mount-sized raptor that dominates the high mountain passes and cliff faces of the world. With a wingspan exceeding twenty feet and talons that could pierce a knight's armor, a single Giant Eagle is a threat that entire caravans fear. These creatures are not mindless beasts but intelligent, calculating hunters that judge space and tactics well. They establish vast territories spanning hundreds of square miles, and they defend those territories with terrible thoroughness. Adventurers most commonly encounter them when traveling mountain passages, when an eagle takes interest in a caravan, or when an expedition reaches a nesting site.
 
 ## Presentation
 
-The Giant Eagle is an absolutely magnificent creature—a predator scaled to legendary proportions. Its body is heavily muscled and dense, built to carry weights that would break lesser birds. The plumage is primarily golden-brown and dark brown, with paler coloring on the head and neck that gives the eagle an expression of stern, old authority. The head is large and powerful, with a hooked beak that can open to angles seemingly impossible and tear flesh with surgical precision. The eyes are bright gold or amber, set to provide excellent forward binocular vision and remarkable peripheral awareness. The legs are thick and powerful, ending in talons that curve wickedly, each talon as long as a human finger and sharp enough to slice through leather like cloth. The wings are the eagle's defining feature—massive, powerful, and perfectly engineered for both precision maneuvering and raw explosive acceleration. Even at rest, the eagle conveys coiled power.
+The Giant Eagle is a magnificent creature—a predator scaled far beyond any natural bird. Its body is heavily muscled and dense, built to carry weights that would break lesser birds. The plumage is primarily golden-brown and dark brown, with paler coloring on the head and neck that gives the eagle an expression of stern, old authority. The head is large and powerful, with a hooked beak that can open to angles seemingly impossible and tear flesh cleanly. The eyes are bright gold or amber, set to provide excellent forward binocular vision and wide peripheral awareness. The legs are thick and powerful, ending in talons that curve wickedly, each talon as long as a human finger and sharp enough to slice through leather like cloth. The wings are the eagle's defining feature—massive, powerful, and perfectly formed for both precision maneuvering and raw explosive acceleration. Even at rest, the eagle looks ready to spring.
 
 ## Key Behaviors
 
@@ -364,7 +364,7 @@ A devastating raking attack, particularly devastating when delivered during a hi
 
 ### Beak Tear
 
-A precise, surgical attack aimed at soft targets or weak points in armor—the hooked beak opens wide and tears, capable of opening serious wounds or even severing limbs if the eagle has pinned a target with talons.
+A precise attack aimed at soft targets or weak points in armor—the hooked beak opens wide and tears, capable of opening serious wounds or even severing limbs if the eagle has pinned a target with talons.
 
 ## Special Abilities
 
@@ -374,7 +374,7 @@ The Giant Eagle is nearly unstoppable in open air combat—it can dive at speeds
 
 ### Piercing Vision
 
-The eagle's eyesight is supernatural—it can identify movement from impossibly far distances, can track moving targets across open sky, and can spot ambushes or hidden enemies with remarkable reliability. The eagle is nearly impossible to surprise.
+The eagle's eyesight is supernatural—it can identify movement from impossibly far distances, can track moving targets across open sky, and can reliably spot ambushes or hidden enemies. The eagle is nearly impossible to surprise.
 
 ### Talon Grapple
 
@@ -382,7 +382,7 @@ If the eagle succeeds in gripping prey with its talons, the target is held fast�
 
 ## Additional Information
 
-A Giant Eagle aerie is a treasure trove—eagle eyries often contain accumulated gold, jewelry, and weapons from previous kills. However, reaching an aerie and claiming treasure while avoiding protective parents is a deadly proposition. Some characters have attempted to negotiate with eagles through magical means, with rare success. An eagle feather is valuable for fletching, armor, or ceremonial purposes—a single primary feather can be worked into fine items.
+A Giant Eagle aerie is a treasure trove—eagle eyries often contain accumulated gold, jewelry, and weapons from previous kills. However, reaching an aerie and claiming treasure while avoiding protective parents is a deadly proposition. A few have attempted to negotiate with eagles through magical means, with rare success. An eagle feather is valuable for fletching, armor, or ceremonial purposes—a single primary feather can be worked into fine items.
 
 ## Attributes
 

@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - cntrlkchchk
+    - kankulrgn
   population: null
 name:
   full: K'ankul

@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - nrthrnkchchk
+    - haxamanrgn
   population: null
 name:
   full: Ha' Xaman

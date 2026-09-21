@@ -553,54 +553,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Hármund Garwald is a 55-year-old man who stands 6'0" tall and is broad and solidly built. He has an angular face with prominent cheekbones, a prominent forehead, and an angular jaw that leads to a broad chin. His deep-set green eyes sit beneath prominent brows, lending him a watchful gaze. A strong nose and expressive lips complete his features. He has light skin with a lined with age complexion. His graying brown hair is thinning on top.
+Hármund Garwald is a 55-year-old man who stands 6'0" tall and is broad and solidly built. He has an angular face with prominent cheekbones, a prominent forehead, and an angular jaw that leads to a broad chin. His deep-set green eyes sit beneath prominent brows and give him a watchful gaze. He has a strong nose and expressive lips. He has light skin, lined with age. His graying brown hair is thinning on top.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a guilded family of Varokhi heritage, Hármund Garwald came into the world of the weaponcrafter (armorer) through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a guilded family of Varokhi heritage, Hármund Garwald is a weaponcrafter and armorer.
 
-Hármund is a master blacksmith and weaponcrafter who has been forging weapons for over thirty years. His blades are known for their durability and sharpness, and he has earned a reputation as one of the finest weaponcrafters in the city. Hármund is strict with his apprentices, demanding precision and quality in every piece. He takes pride in his work, but age has begun to slow him down, and he struggles to maintain the same level of output as in his younger years.
+Hármund is a master blacksmith and weaponcrafter who has been forging weapons for over thirty years. His blades are known for their durability and sharpness, and he is held to be one of the finest weaponcrafters in the city. He is strict with his apprentices, demanding precision and quality in every piece. He takes pride in his work, but age has begun to slow him, and he struggles to turn out as much as he did in his younger years.
 
-Now at 55 years of age, Hármund Garwald has established himself as a known figure among the weaponcrafter (armorer)s of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 55 years of age, he is a known figure among the armorers of Vrystwald.
 
 ## Psyche
 
 ### Personality
 
-Slower due to age, has high standards that can be difficult for others to meet.
+He is slower with age and holds standards that others find hard to meet.
 
 ### Motivation
 
-Hármund is driven by the desire to master his craft and secure a stable future. The uncertainties of life in weaponcrafter (armorer) work keep him vigilant and adaptable.
+Hármund wants every piece that leaves his forge to be as good as the ones that made his name, and an apprentice fit to carry it on.
 
 ### Strengths
 
-Skilled in metalworking, knowledgeable about weapon design, meticulous.
+He is skilled in metalworking, knowledgeable about the design of weapons, and exacting.
 
 ## Social
 
-Hármund is affiliated with City Blacksmiths' Guild.
-
-As a Varokhi weaponcrafter (armorer), Hármund occupies a recognized social niche within Vrystwald society.
+Hármund belongs to the City Blacksmiths' Guild.
 
 ## Companions
 
 ### Patrons
 
-Hármund's primary patron is Nobles and soldiers who seek custom weapons.. This relationship provides both opportunity and obligation.
+Hármund's patrons are the nobles and soldiers who come to him for weapons made to order.
 
 ### Enemies
 
-Rival blacksmiths who covet his reputation.
+Rival blacksmiths covet his reputation.
 
 ## Plot Hooks
 
-1. **The Weaponcrafter (Armorer)'s Dilemma** — Hármund faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Weaponcrafter (Armorer)'s Dilemma** — A noble wants a blade faster than Hármund can forge it well, and his name rides on whichever he chooses.
 
-2. **Old Grudges** — Rival blacksmiths who covet his reputation. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A rival blacksmith is passing off inferior work under Hármund's mark.
 
-3. **Echoes of the Past** — Something from Hármund's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past** — A blade Hármund forged thirty years ago is brought back to him, and the man carrying it wants to know who commissioned it.
 
-4. **Shifting Winds** — Political changes in Vrystwald threaten to upend the social order that Hármund depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Vrystwald threatens the guild standing Hármund depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Hármund the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — Hármund is offered the arming of a lord's whole household, and its price is not named up front.

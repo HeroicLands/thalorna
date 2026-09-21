@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - sthrnkchchk
+    - kuxibalamrgn
   population: null
 name:
   full: K'uxi Balam

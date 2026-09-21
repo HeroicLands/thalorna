@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - cntrlkchchk
+    - kiikbaatergn
   population: null
 name:
   full: Ki'ik Ba'ate

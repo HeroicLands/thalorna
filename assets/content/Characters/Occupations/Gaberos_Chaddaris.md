@@ -536,13 +536,13 @@ Gábêros was born into a scholarly family in [[place-helionis|Heliónis]] and s
 
 The agora patrol is different from other city guard work. It requires the ability to understand complex commercial disputes, recognize when intellectual debate is beginning to shift into incitement to violence, manage both merchants and philosophers with equal authority. Gábêros thrived in this role. He became known as the guard who would explain the law instead of merely enforcing it, who would engage in actual discussion rather than wielding authority blindly.
 
-Now at thirty-nine, he is the senior patrol commander for the agora and has become something of an institution. Merchants respect him because he understands commerce. Scholars respect him because he understands philosophy. He maintains order through genuine persuasion rather than force. His neatly trimmed beard and careful appearance mark him as someone who takes personal presentation seriously, a Helionite cultural value.
+Now at thirty-nine, he is the senior patrol commander for the agora and has become something of an institution. Merchants respect him because he understands commerce. Scholars respect him because he understands philosophy. He maintains order through persuasion rather than force. His neatly trimmed beard and careful appearance mark him as someone who takes personal presentation seriously, a Helionite cultural value.
 
 ## Psyche
 
 ### Personality
 
-Gábêros is patient and thoughtful, approaching conflicts as problems to be solved rather than situations to be dominated. He genuinely enjoys intellectual discussion and will engage with both merchants and philosophers on their own terms. He is not condescending and is genuinely willing to learn from the people he polices. He can be stubborn when he believes he is correct, but his stubbornness is expressed through argument rather than force.
+Gábêros is patient and thoughtful, approaching conflicts as problems to be solved rather than situations to be dominated. He enjoys intellectual discussion and will engage with both merchants and philosophers on their own terms. He is not condescending and is willing to learn from the people he polices. He can be stubborn when he believes he is correct, but his stubbornness is expressed through argument rather than force.
 
 ### Motivation
 
@@ -550,7 +550,7 @@ Gábêros's primary motivation is maintaining the agora as a functional space fo
 
 ### Strengths
 
-His intellectual ability is genuine and allows him to understand complex disputes. His rhetorical skill is exceptional and allows him to de-escalate conflict through argument. He is physically capable and experienced in combat, though he prefers avoiding it. His understanding of Helionite culture and values is comprehensive.
+His intellect allows him to understand complex disputes. His rhetorical skill allows him to talk a conflict down. He is physically capable and experienced in combat, though he prefers avoiding it. His understanding of Helionite culture and values is comprehensive.
 
 ## Social
 
@@ -560,7 +560,7 @@ Gábêros is fully integrated into Heliónis's intellectual and commercial estab
 
 ### Patrons
 
-**Master Academician Theron Philosophos** — A senior scholar at the Panepistemium who has mentored Gábêros intellectually and has become his patron within the academy. Theron ensures that Gábêros has access to scholarly resources and support for his continued intellectual development alongside his guard work.
+**Master Academician Theron Philosophos** — A senior scholar at the Panepistemium who has mentored Gábêros intellectually and has become his patron within the academy. Theron sees that Gábêros has access to scholarly resources and support for his continued intellectual development alongside his guard work.
 
 ### Enemies
 
@@ -568,7 +568,7 @@ Gábêros is fully integrated into Heliónis's intellectual and commercial estab
 
 ## Plot Hooks
 
-1. **The Fraud Prosecution** — Gábêros finally secures enough evidence to prosecute Merchant Lord Kallist for fraud. The case is strong and Gábêros is prepared to present it to the magistrate. But during the preparation, Gábêros discovers that Master Academician Theron, his patron, has a financial relationship with Kallist—Theron borrowed money from Kallist years ago and is still paying it back. Theron, aware that the prosecution will damage Kallist and potentially interrupt the loan arrangement, asks Gábêros to delay or suppress the case. Gábêros must choose between his patron and his integrity.
+1. **The Fraud Prosecution** — Gábêros finally secures enough evidence to prosecute Merchant Lord Kallist for fraud. The case is strong and Gábêros is prepared to present it to the magistrate. But during the preparation, Gábêros discovers that Master Academician Theron, his patron, has a financial relationship with Kallist—Theron borrowed money from Kallist years ago and is still paying it back. Theron, aware that the prosecution will damage Kallist and potentially interrupt the loan arrangement, asks Gábêros to delay or suppress the case. His patron and his integrity now ask different things of him.
 
 2. **The Philosophical Extremist** — A charismatic philosopher begins gathering followers in the agora and delivering speeches that are technically legal but are clearly inciting social unrest and potentially violence against the merchant community. Gábêros cannot arrest him for speech alone, but he can see that the situation is escalating toward actual conflict. He is in a difficult position: prevent speech to maintain order, or maintain free expression and risk violence.
 
@@ -576,4 +576,4 @@ Gábêros is fully integrated into Heliónis's intellectual and commercial estab
 
 4. **The Merchant Council's Pressure** — The merchant council approaches Gábêros with pressure to be more aggressive in suppressing protesting workers and philosophers who are criticizing merchant practices. They are using political pressure and threatening to have him reassigned if he does not comply. Gábêros believes the protesters have legitimate grievances but is being pressured to silence them through guard authority.
 
-5. **The Academic Conspiracy** — Gábêros discovers evidence that some of the scholars at the Epistemium are engaged in a scheme to manipulate agora merchants through falsified intellectual arguments—deliberately creating philosophical justifications for harmful economic practices. Master Academician Theron is aware of the scheme and may even be involved. Gábêros must choose between exposing the conspiracy (which damages the academy he respects and his patron who has supported him) or allowing it to continue.
+5. **The Academic Conspiracy** — Gábêros discovers evidence that some of the scholars at the Epistemium are engaged in a scheme to manipulate agora merchants through falsified intellectual arguments—deliberately creating philosophical justifications for harmful economic practices. Master Academician Theron is aware of the scheme and may even be involved. Gábêros can expose the conspiracy, which damages the academy he respects and the patron who has supported him, or allow it to continue.

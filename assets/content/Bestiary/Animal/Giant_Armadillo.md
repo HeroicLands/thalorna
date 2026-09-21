@@ -334,11 +334,11 @@ sohl:
 
 ![[gntarmdl|Giant Armadillo]]{float: top-left}
 
-The earth itself seems to rise before you, a hillside of mud and moss resolving into the armored mass of a creature easily twelve feet from snout to tail. It moves with the inexorable slowness of something that has never needed to hurry, each massive claw sinking deep into the soft earth beneath it. The shell that covers its back gleams dully in the light—layer upon layer of segmented armor the color of river stone and old bone. As it turns its head toward you, you see the little eyes, sharp and shrewd, studying you with the calculating gaze of something utterly unimpressed by your size or presence. The smell hits next: rich loam and a musky, acidic reek of specialized digestion.
+The earth itself seems to rise before you, a hillside of mud and moss resolving into the armored mass of a creature easily twelve feet from snout to tail. It moves with the inexorable slowness of something that has never needed to hurry, each massive claw sinking deep into the soft earth beneath it. The shell that covers its back gleams dully in the light—layer upon layer of segmented armor the color of river stone and old bone. As it turns its head toward you, you see the little eyes, sharp and shrewd, studying you with the calculating gaze of something unimpressed by your size or presence. The smell hits next: rich loam and a musky, acidic reek of specialized digestion.
 
 # Dossier {#dossier}
 
-The Giant Armadillo is a massive, utterly solitary mammal that can exceed twelve feet in length and weigh as much as a small pony. Encased in segmented bony plates, these creatures are living fortifications that lumber through their territories with minimal regard for other inhabitants. These are nocturnal burrowers that command vast underground warren systems and aggressively defend them from intrusion. Adventurers most commonly encounter them when delving into underground areas or accidentally camping in territory the creature considers its own.
+The Giant Armadillo is a massive, solitary mammal that can exceed twelve feet in length and weigh as much as a small pony. Encased in segmented bony plates, these creatures are living fortifications that lumber through their territories with minimal regard for other inhabitants. These are nocturnal burrowers that command vast underground warren systems and aggressively defend them from intrusion. Adventurers most commonly encounter them when exploring underground or accidentally camping in territory the creature considers its own.
 
 ## Presentation
 
@@ -366,7 +366,7 @@ The armadillo will use its armored head and body mass as a weapon, lowering its 
 
 ### Segmented Armor
 
-The overlapping plates of bone and keratin provide exceptional protection against slashing, piercing, and even blunt weapons. The segments distribute force across the creature's body, reducing damage from individual strikes. The belly and underside are unarmored and vulnerable.
+The overlapping plates of bone and keratin provide heavy protection against slashing, piercing, and even blunt weapons. The segments distribute force across the creature's body, reducing damage from individual strikes. The belly and underside are unarmored and vulnerable.
 
 ### Defensive Curl
 
@@ -378,7 +378,7 @@ The giant armadillo can excavate through soil and soft rock at surprising speed,
 
 ## Additional Information
 
-Giant Armadillo burrows are sometimes claimed and enlarged by other creatures, becoming de facto cave systems. A giant armadillo's shell, when shed (which occurs naturally), can be worked into impressive armor or decorative pieces. Characters that find a burrow system should exercise caution, as the armadillo is territorial and will defend its territory relentlessly.
+Giant Armadillo burrows are sometimes claimed and enlarged by other creatures, becoming de facto cave systems. A giant armadillo's shell, when shed (which occurs naturally), can be worked into impressive armor or decorative pieces. Anyone who finds a burrow system should exercise caution, as the armadillo is territorial and will defend its territory relentlessly.
 
 ## Attributes
 

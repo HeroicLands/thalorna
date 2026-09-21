@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - nrthrnkchchk
+    - kiximtzulrgn
   population: null
 name:
   full: K'ixim Tzul

@@ -378,33 +378,33 @@ sohl:
 
 ![[stnbst|Stonebeast]]{float: top-left}
 
-The mountainside moves. You know this is impossible, and yet the stone itself shifts and rises—plates of it sliding across each other with a sound like avalanche, like the world breaking. Then you see it whole: a creature of mountain-sized density and utterly alien geometry, wrought from cracked stone and obsidian, its bulk barely contained by its rough, irregular shape. Obsidian eyes glow from deep recesses, burning with a light like subterranean fire, and you feel the tremor of each movement in your bones and teeth. Where it steps, the ground cracks, and you realize this thing is not simply massive—it is heavy beyond measure, as though it carries the weight of the earth itself within its petrified body.
+The mountainside moves. You know this is impossible, and yet the stone itself shifts and rises—plates of it sliding across each other with a sound like avalanche, like the world breaking. Then you see it whole: a creature of mountain-sized density and alien geometry, wrought from cracked stone and obsidian, its bulk barely contained by its rough, irregular shape. Obsidian eyes glow from deep recesses, burning with a light like subterranean fire, and you feel the tremor of each movement in your bones and teeth. Where it steps, the ground cracks, and you realize this thing is not simply massive—it is heavy beyond measure, as though it carries the weight of the earth itself within its petrified body.
 
 # Dossier {#dossier}
 
-Stonebeasts are ancient guardians that predate humanoid civilization, creatures of pure earth-and-stone embodiment that seem to have emerged from the deep places where mountains form and the world settles. They are ordinarily dormant—passive, stationary residents of caverns and stone labyrinths—but once disturbed or provoked, they become implacable forces of destruction. A Stonebeast's intelligence is minimal but not absent; it understands territory, intruders, and the concept of threat. Most of these creatures are found in deep places: the hearts of mountains, the hearts of ancient stone structures, and in the lightless depths where caves descend beyond the reach of normal exploration. An old Stonebeast may have rested in the same location for millennia, waiting in perfect stillness until something dares to disturb its domain.
+Stonebeasts are ancient guardians that predate humanoid civilization, creatures of pure earth and stone that seem to have emerged from the deep places where mountains form and the world settles. They are ordinarily dormant—passive, stationary residents of caverns and stone labyrinths—but once disturbed or provoked, they become implacable forces of destruction. A Stonebeast's intelligence is minimal but not absent; it understands territory, intruders, and the concept of threat. Most of these creatures are found in deep places: the hearts of mountains, the hearts of ancient stone structures, and in the lightless depths where caves descend beyond the reach of normal exploration. An old Stonebeast may have rested in the same location for millennia, waiting in perfect stillness until something dares to disturb its domain.
 
 ## Presentation
 
-A Stonebeast stands 20 feet in length, its body an irregular mass of blocky stone and crystalline formations, shaped vaguely like a quadrupedal creature but with anatomy that seems to prioritize weight and stability over naturalistic form. Its "head" is a roughly cubic protrusion, with eyes of polished black obsidian set deep within, burning with a slow, deep amber light that seems to come from the creature's interior rather than reflected from outside sources. Its limbs are pillars of stone, thick and unadorned, ending in roughly articulated digits that look less like claws than like chunks of stone that have barely achieved independent movement. Its surface is weathered and cracked, with seams showing layers of different stone types—granite, basalt, obsidian, veins of crystalline minerals. Where it moves, stone dust billows, and the smell is of deep caverns and minerals, a scent that makes the back of your throat burn. When it speaks—if what it does can be called speaking—the sound is of grinding stone, a low frequency that you feel more than hear.
+A Stonebeast stands 20 feet in length, its body an irregular mass of blocky stone and crystalline formations, shaped vaguely like a quadrupedal creature but with anatomy that favors weight and stability over natural form. Its "head" is a roughly cubic protrusion, with eyes of polished black obsidian set deep within, burning with a slow, deep amber light that seems to come from the creature's interior rather than reflected from outside sources. Its limbs are pillars of stone, thick and unadorned, ending in roughly articulated digits that look less like claws than like chunks of stone that have barely achieved independent movement. Its surface is weathered and cracked, with seams showing layers of different stone types—granite, basalt, obsidian, veins of crystalline minerals. Where it moves, stone dust billows, and the smell is of deep caverns and minerals, a scent that burns the back of the throat. When it speaks—if what it does can be called speaking—the sound is of grinding stone, a low note felt more than heard.
 
 ## Key Behaviors
 
-A Stonebeast is ordinarily dormant, content to rest in its chosen location indefinitely. It seems to require no food, no water, and no rest beyond stillness. It becomes active when disturbed—intruders in its territory, the removal of stone from its domain, or significant vibrations all serve as waking calls. Once awake, a Stonebeast will remain active until it has either eliminated the threat or is confident the threat will not return. It is intelligent enough to understand concepts like treasure, but it shows no interest in acquisition or hoarding. An ancient Stonebeast may have developed territorial behaviors spanning miles, and it will know every stone in its domain intimately.
+A Stonebeast is ordinarily dormant, content to rest in its chosen location indefinitely. It seems to require no food, no water, and no rest beyond stillness. It becomes active when disturbed—intruders in its territory, the removal of stone from its domain, or significant vibrations all wake it. Once awake, a Stonebeast will remain active until it has either eliminated the threat or is confident the threat will not return. It is intelligent enough to understand concepts like treasure, but it shows no interest in acquisition or hoarding. An ancient Stonebeast may have developed territorial behaviors spanning miles, and it will know every stone in its domain intimately.
 
 ## Combat Strategy
 
-A Stonebeast moves with methodical inevitability, advancing toward threats at its own deliberate pace. Its attacks are straightforward and devastating—it seeks to crush opponents through sheer weight and power rather than through tactical sophistication. The creature will adapt minimally to combat—if a tactic works, it will repeat it; if an opponent proves too quick to hit directly, it may shift to area-of-effect attacks rather than changing fundamental approach. A Stonebeast has never truly retreated from a confrontation; instead, it may simply become dormant again if it determines a threat cannot be eliminated. Only water, in sufficient quantity, can make it retreat—its stone body dissolves slowly in flowing water, and the creature instinctively avoids such fates.
+A Stonebeast moves with methodical inevitability, advancing toward threats at its own deliberate pace. Its attacks are straightforward and devastating—it seeks to crush opponents through sheer weight and power rather than by tactics. The creature will adapt minimally to combat—if a tactic works, it will repeat it; if an opponent proves too quick to hit directly, it may shift to attacks that strike everything nearby rather than change its approach. A Stonebeast has never truly retreated from a confrontation; instead, it may simply become dormant again if it determines a threat cannot be eliminated. Only water, in sufficient quantity, can make it retreat—its stone body dissolves slowly in flowing water, and the creature instinctively avoids such fates.
 
 ## Attack Methods
 
 ### Crushing Stomp
 
-The creature raises one of its massive limbs and brings it down with apocalyptic force, intending to pulverize whatever lies beneath. The impact radiates outward as a shock wave, and the ground itself becomes hazardous terrain from the blow.
+The creature raises one of its massive limbs and brings it down with apocalyptic force, intending to pulverize whatever lies beneath. The impact radiates outward as a shock wave, and the ground around the blow is left broken and treacherous.
 
 ### Shattering Punch
 
-The Stonebeast's fists are simple but devastatingly effective, capable of striking opponents from surprising distance and delivering blow that shatters bone and armor alike. A successful hit can permanently disable or cripple a target.
+The Stonebeast's fists are simple but devastatingly effective, capable of striking opponents from surprising distance and delivering a blow that shatters bone and armor alike. A successful hit can permanently disable or cripple a target.
 
 ### Rock Throw
 
@@ -418,7 +418,7 @@ The Stonebeast's body is extraordinarily resistant to physical damage. Swords, a
 
 ### Earthen Authority
 
-The Stonebeast can command stone within its domain, causing walls to shift, floors to become treacherous, and ceiling to rain down on opponents. This is not rapid—the manipulation takes time and concentration—but the effect is inexorable.
+The Stonebeast can command stone within its domain, causing walls to shift, floors to become treacherous, and ceiling to rain down on opponents. The work is slow, taking time and concentration, but the effect is inexorable.
 
 ### Regeneration Through Stone
 
@@ -426,7 +426,7 @@ So long as the Stonebeast remains in contact with stone, it slowly regenerates f
 
 ## Additional Information
 
-Water is the Stonebeast's primary vulnerability—flowing water erodes its stone body, and prolonged immersion will eventually dissolve it entirely. Acid functions similarly but more slowly. The creature abhors water-based attacks and will retreat from them if possible. Strong magical attacks, particularly those dealing thunder or force damage, can crack its crystalline structure. Fire is only marginally effective. The remains of a slain Stonebeast are essentially building materials—valuable for construction but requiring weeks or months to move and cut into workable pieces. Some fortress-builders have deliberately slain Stonebeasts to harvest their remains for use in construction, though doing so requires bringing enormous quantities of water to the creature's domain and patience measured in months.
+Water is the Stonebeast's primary vulnerability—flowing water erodes its stone body, and prolonged immersion will eventually dissolve it entirely. Acid functions similarly but more slowly. The creature abhors water-based attacks and will retreat from them if possible. Strong magical attacks, particularly those that strike with sound or raw force, can crack its crystalline structure. Fire is only marginally effective. The remains of a slain Stonebeast are essentially building materials—valuable for construction but requiring weeks or months to move and cut into workable pieces. Some fortress-builders have deliberately slain Stonebeasts to harvest their remains for use in construction, though doing so requires bringing enormous quantities of water to the creature's domain and patience measured in months.
 
 ## Attributes
 

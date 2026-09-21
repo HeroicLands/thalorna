@@ -325,15 +325,15 @@ sohl:
 
 ![[scrchbt|Screechbat]]{float: top-left}
 
-The sound comes first — a shriek that splits the darkness like a blade, piercing through ears and bone and mind with a force that seems physical. As your senses recoil from the auditory assault, shapes emerge in the darkness above — dark, swift silhouettes silhouetted against the lesser black of the night sky. The wings are leathery and wide, catching what little light exists and reflecting it from their membranes in sickly highlights. Below the wings dangle creatures that are more skeleton than flesh, lean and efficient, with fangs that catch the light like split obsidian. As they circle, the screeching continues — an unbearable chorus that seems designed to break resolve and shatter thought itself.
+The sound comes first — a shriek that splits the darkness like a blade, piercing through ears and bone and mind with a force that seems physical. As your senses recoil from the auditory assault, shapes emerge in the darkness above — dark, swift silhouettes silhouetted against the lesser black of the night sky. The wings are leathery and wide, catching what little light exists and reflecting it from their membranes in sickly highlights. Below the wings dangle creatures that are more skeleton than flesh, lean and spare, with fangs that catch the light like split obsidian. As they circle, the screeching continues — an unbearable chorus that seems designed to break resolve and shatter thought itself.
 
 # Dossier {#dossier}
 
-Screechbats are small, highly coordinated aerial predators standing 2-3 feet tall with wingspans reaching 8-10 feet, found in caves, deep forests, and ruins across many regions. These nocturnal hunters are specialized sound-hunters that use echolocation and sonic weaponization to disorient prey before closing for the kill. Adventurers encounter screechbats most commonly when exploring caves, traversing forests at night, or investigating ruins where bat populations have established.
+Screechbats are small, highly coordinated aerial predators standing 2-3 feet tall with wingspans reaching 8-10 feet, found in caves, deep forests, and ruins across many regions. These nocturnal hunters hunt by sound, using echolocation and their screech to disorient prey before closing for the kill. Adventurers encounter screechbats most commonly when exploring caves, traversing forests at night, or investigating ruins where bat populations have established.
 
 ## Presentation
 
-Screechbats resemble heavily adapted bats scaled up to predatory size and complexity. The wings are large, membranous, and supported by elongated finger bones that extend from a relatively compact body. The body itself is skeletal and lightweight, covered in dark leathery skin that provides minimal insulation. The head is proportionally large with a broad mouth capable of opening remarkably wide, filled with numerous small, sharp teeth designed to grip and bite but not to tear. The eyes are small and relatively weak, but the creature compensates with extraordinary aural and echolocation capabilities. The wings, when at rest, fold around the creature's body for warmth and protection. The feet and claws are sharp and designed for hanging rather than walking.
+Screechbats resemble heavily adapted bats scaled up to predatory size and complexity. The wings are large, membranous, and supported by elongated finger bones that extend from a relatively compact body. The body itself is skeletal and lightweight, covered in dark leathery skin that provides minimal insulation. The head is proportionally large with a broad mouth capable of opening very wide, filled with numerous small, sharp teeth designed to grip and bite but not to tear. The eyes are small and relatively weak, but the creature compensates with extraordinary aural and echolocation capabilities. The wings, when at rest, fold around the creature's body for warmth and protection. The feet and claws are sharp and designed for hanging rather than walking.
 
 ## Key Behaviors
 
@@ -341,7 +341,7 @@ Screechbats are social creatures that live in colonies and hunt cooperatively in
 
 ## Combat Strategy
 
-The screechbat's primary weapon is sound — the creature uses piercing sonic screeches to disorient, deafen, and psychologically damage targets before moving in for physical attack. A coordinated pack of screechbats creates overwhelming noise that can incapacitate unprepared opponents. Individual screechbats are relatively fragile and avoid physical engagement, preferring to remain aloft and attack from the air. The creatures will attempt to isolate prey from the group and swarm individual targets. If the pack is broken up or significant numbers are lost, the remaining screechbats retreat to darkness.
+The screechbat's primary weapon is sound — the creature uses piercing sonic screeches to disorient, deafen, and terrify targets before moving in for physical attack. A coordinated pack of screechbats creates overwhelming noise that can incapacitate unprepared opponents. Individual screechbats are relatively fragile and avoid physical engagement, preferring to remain aloft and attack from the air. The creatures will attempt to isolate prey from the group and swarm individual targets. If the pack is broken up or significant numbers are lost, the remaining screechbats retreat to darkness.
 
 ## Attack Methods
 
@@ -361,7 +361,7 @@ The screechbat's feet possess sharp claws that can rake and tear at exposed fles
 
 ### Sonic Scream
 
-The screechbat can emit powerful, focused sonic screeches that cause auditory damage, disorientation, and psychological distress in targets. The scream is nearly impossible to defend against in an open environment without magical protection or physical sound-dampening. Multiple screechbats screaming together create overwhelming noise that can incapacitate victims.
+The screechbat can emit powerful, focused sonic screeches that cause deafness, disorientation, and terror in targets. The scream is nearly impossible to defend against in an open environment without magical protection or physical sound-dampening. Multiple screechbats screaming together create overwhelming noise that can incapacitate victims.
 
 ### Echolocation Mastery
 
