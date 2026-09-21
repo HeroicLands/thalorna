@@ -250,7 +250,7 @@ sohl:
 
 ![[vnmspttr|Venomspitter]]{float: top-left}
 
-A shape moves at the corner of your vision—something serpentine and sinuous sliding across stone with impossible grace. Then you see it fully and freeze: a creature like a cobra crossed with something altogether more alien, its scales shimmering with iridescent color—deep purples bleeding into sickly greens, reds burning in places where no color should exist. The patterns on its scales seem to shift as you watch them, creating an optical dissonance that makes your eyes water. It raises its head, and you see the fangs—enormous hollow points from which fluid drips and sizzles, leaving char marks on the stone beneath. The creature’s eyes are dark, intelligent, and utterly fixed on you with predatory certainty. Then the reek hits you: something acrid and burning, the smell of the venom itself, and you realize with dawning horror that the creature is already moving.
+A shape moves at the corner of your vision—something serpentine and sinuous sliding across stone with impossible grace. Then you see it fully and freeze: a creature like a cobra crossed with something altogether more alien, its scales shimmering with iridescent color—deep purples bleeding into sickly greens, reds burning in places where no color should exist. The patterns on its scales seem to shift as you watch them, creating an optical dissonance that makes your eyes water. It raises its head, and you see the fangs—enormous hollow points from which fluid drips and sizzles, leaving char marks on the stone beneath. The creature’s eyes are dark, intelligent, and fixed on you. Then the reek hits you: something acrid and burning, the smell of the venom itself, and the creature is already moving.
 
 # Dossier {#dossier}
 
@@ -262,11 +262,11 @@ A Venomspitter measures roughly 8 to 12 feet in length, with a body that is diff
 
 ## Key Behaviors
 
-A Venomspitter is a patient hunter that establishes a territory and then carefully constructs favorable ambush positions within it. The creature seems to understand that waiting in optimal positions is more reliable than actively hunting, and it will remain motionless for hours or days if necessary. The creatures may or may not be truly web-spinning arachnids—the nature of their webs varies, and some Venomspitters do not appear to spin at all. Those that do create webs use them as territorial markers and as supplementary traps. The creature feeds on whatever prey it can immobilize and dissolve with its venom, from insects to humanoids. A gravid female becomes unusually aggressive and may extend her territory substantially during reproductive cycles.
+A Venomspitter is a patient hunter that establishes a territory and then carefully constructs favorable ambush positions within it. The creature seems to understand that waiting in a well-chosen position is more reliable than actively hunting, and it will remain motionless for hours or days if necessary. The creatures may or may not be truly web-spinning arachnids—the nature of their webs varies, and some Venomspitters do not appear to spin at all. Those that do create webs use them as territorial markers and as supplementary traps. The creature feeds on whatever prey it can immobilize and dissolve with its venom, from insects to humanoids. A gravid female becomes unusually aggressive and may extend her territory substantially during reproductive cycles.
 
 ## Combat Strategy
 
-A Venomspitter fights by maintaining distance and using venom projection as its primary weapon. It moves with exceptional speed and agility, positioning itself at angles where it can strike enemies without exposing itself to counterattack. The creature is intelligent enough to focus on immobile or less dangerous targets first and will deliberately prioritize mages, archers, and other ranged threats. If forced into melee combat, it will attempt to inject venom through bites while using its speed and agility to avoid sustained contact. A Venomspitter will retreat if seriously wounded, moving to areas where it maintains advantage or escaping entirely if the threat is too great.
+A Venomspitter fights by maintaining distance and using venom projection as its primary weapon. It moves with great speed and agility, positioning itself at angles where it can strike enemies without exposing itself to counterattack. The creature is intelligent enough to focus on immobile or less dangerous targets first and will deliberately go for mages, archers, and other ranged threats first. If forced into melee combat, it will attempt to inject venom through bites while using its speed and agility to avoid sustained contact. A Venomspitter will retreat if seriously wounded, moving to areas where it maintains advantage or escaping entirely if the threat is too great.
 
 ## Attack Methods
 
@@ -290,7 +290,7 @@ The Venomspitter produces its venom continuously and seems to have near-infinite
 
 ### Precision Aim
 
-The Venomspitter’s venom projection is remarkably accurate, and it can target specific weak points in armor or aim for faces to blind opponents.
+The Venomspitter’s venom projection is highly accurate, and it can target specific weak points in armor or aim for faces to blind opponents.
 
 ### Corrosive Secretions
 
@@ -298,7 +298,7 @@ Everything the creature touches becomes tainted with acidic secretions, slowly d
 
 ## Additional Information
 
-Cold is the Venomspitter’s primary weakness—sustained cold slows its metabolism and reduces its venom production dramatically. Extreme cold can even cause the creature to become dormant or lethargic. Fire is also effective, though the creature’s venom can neutralize some heat-based attacks. Isolation from water reduces the creature’s effectiveness, as it requires humidity to maintain its venom production at peak efficiency. The venom itself, if carefully collected and preserved, is extraordinarily valuable to alchemists, poisoners, and dark sorcerers. A single vial of pure Venomspitter venom can command a fortune from the right buyer. The creature’s hide, if preserved, also has alchemical value. Hunting a Venomspitter requires exceptional caution and specialized protective gear, as mere exposure to its venom can cause severe injury.
+Cold is the Venomspitter’s primary weakness—sustained cold slows its metabolism and reduces its venom production dramatically. Extreme cold can even cause the creature to become dormant or lethargic. Fire is also effective, though the creature’s venom can neutralize some heat-based attacks. Isolation from water reduces the creature’s effectiveness, as it needs humidity to keep its venom production at full strength. The venom itself, if carefully collected and preserved, is extraordinarily valuable to alchemists, poisoners, and dark sorcerers. A single vial of pure Venomspitter venom can command a fortune from the right buyer. The creature’s hide, if preserved, also has alchemical value. Hunting a Venomspitter requires great caution and specialized protective gear, as mere exposure to its venom can cause severe injury.
 
 ## Attributes
 

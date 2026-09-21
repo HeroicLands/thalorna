@@ -195,11 +195,11 @@ sohl:
 
 ![[grmshdw|Grimshadow]]{float: top-left}
 
-The temperature drops so suddenly you can see your breath misting in the air. In your peripheral vision, something moves—but when you turn to look directly at it, only shadow remains. You feel watched, hunted, with the specific helplessness that comes from being prey to something you cannot quite see. There is a cold on your skin that has nothing to do with winter.
+The temperature drops so suddenly you can see your breath misting in the air. In your peripheral vision, something moves—but when you turn to look directly at it, only shadow remains. You feel watched and hunted, prey to something you cannot quite see. There is a cold on your skin that has nothing to do with winter.
 
 # Dossier {#dossier}
 
-Grimshadows are ancient malevolent spirits that haunt places steeped in tragedy and despair. They are not demons, not undead, but something older and stranger—creatures born from concentrated terror and suffering. A Grimshadow is often tied to a location, anchored by the death or torment that created it, though some wander at will. They feed on fear and despair rather than flesh, making them more dangerous to the mind than the body. A victim of a Grimshadow may survive physically but be left broken spiritually. Most encounters with Grimshadows are social or psychological rather than purely martial.
+Grimshadows are ancient malevolent spirits that haunt places of old tragedy and despair. They are not demons, not undead, but something older and stranger—creatures born from concentrated terror and suffering. A Grimshadow is often tied to a location, anchored by the death or torment that created it, though some wander at will. They feed on fear and despair rather than flesh, making them more dangerous to the mind than the body. A victim of a Grimshadow may survive physically but be left broken spiritually. Most encounters with Grimshadows are a contest of nerve rather than of arms.
 
 ## Presentation
 
@@ -211,13 +211,13 @@ Grimshadows prefer to stalk rather than ambush, following their prey and feeding
 
 ## Combat Strategy
 
-Grimshadows do not fight directly if they can help it. They use fear and illusions to break opponents' resolve, herding them into mistakes or paralysis. In combat, a Grimshadow uses its superior mobility to strike from unexpected angles, always emphasizing the victim's inability to predict or stop it. It targets the psychologically weakest member of a group, focusing attacks to demoralize rather than kill. If forced into sustained direct combat against prepared opponents, a Grimshadow attempts to retreat into shadow; it will not engage an opponent with strong radiant magic or unshakeable courage, preferring prey with existing weaknesses.
+Grimshadows do not fight directly if they can help it. They use fear and illusions to break opponents' resolve, herding them into mistakes or paralysis. In combat, a Grimshadow uses its superior mobility to strike from unexpected angles, always emphasizing the victim's inability to predict or stop it. It targets the most fearful member of a group, focusing attacks to demoralize rather than kill. If forced into sustained direct combat against prepared opponents, a Grimshadow attempts to retreat into shadow; it will not engage an opponent armed with strong light-magic or unshakeable courage, preferring prey with existing weaknesses.
 
 ## Attack Methods
 
 ### Shadow Strike
 
-Tendrils of living darkness coalesce around the creature's form and strike with supernatural precision. The blow is both physical and spiritual—victims feel as though their strength drains with each impact, and the psychological weight of being struck by something that should not exist is crushing.
+Tendrils of living darkness coalesce around the creature's form and strike with supernatural precision. The blow is both physical and spiritual—victims feel as though their strength drains with each impact, and the horror of being struck by something that should not exist is crushing.
 
 ### Fear Aura
 
@@ -227,23 +227,23 @@ The Grimshadow radiates an overwhelming presence of dread and despair. Those nea
 
 ### Shadow Blend
 
-In any area of dim light or shadow, the Grimshadow becomes nearly invisible. It can move through areas of darkness as though they were open space, and it gains tremendous advantage when attacking from shadows or dim light.
+In any area of dim light or shadow, the Grimshadow becomes nearly invisible. It can move through areas of darkness as though they were open space, and an attack it makes from shadow or dim light is very hard to see coming.
 
 ### Tenebrous Form
 
-The Grimshadow is not fully material and is resistant to physical weapons. Radiant magic and light-based spells bypass this resistance and harm it as normal. The creature's form becomes more solid and vulnerable in bright light.
+The Grimshadow is not fully material and is resistant to physical weapons. Light-magic and blessed light bypass this resistance and harm it as normal. The creature's form becomes more solid and vulnerable in bright light.
 
 ### Despair Manifestation
 
-The Grimshadow can create phantom images and sensations drawn from the fears of those near it. Victims see different horrors depending on what they fear most. These illusions are not mere visions—they can cause genuine harm through a victim's conviction that they are real.
+The Grimshadow can create phantom images and sensations drawn from the fears of those near it. Victims see different horrors depending on what they fear most. These illusions can do real harm, through a victim's conviction that they are real.
 
 ### Aura of Dread
 
-Simply being near a Grimshadow is psychologically damaging. The longer a victim remains in close proximity, the more their will and strength deteriorate. Extended exposure can leave permanent psychological scars.
+Simply being near a Grimshadow wears at the mind. The longer a victim remains close to it, the more their will and strength deteriorate. Extended exposure can leave scars on the mind that never heal.
 
 ## Additional Information
 
-Grimshadows are most vulnerable to radiant light and magic associated with hope, courage, and protection. Clerics and priests of faiths emphasizing light and righteousness are natural counters to these creatures. Bright torchlight alone is insufficient; the light must be blessed or magical in nature to fully suppress a Grimshadow. A Grimshadow cannot be permanently killed while anchored to a location—it will reform in that place. To permanently destroy one, the source of its manifestation must be addressed: the curse lifted, the murdered spirit avenged, the trauma cleansed. Some philosophers argue that Grimshadows are not truly evil but wounded, and that redemption or healing is possible. Few have been brave or wise enough to attempt it.
+Grimshadows are most vulnerable to blessed light and magic associated with hope, courage, and protection. Clerics and priests of faiths emphasizing light and righteousness are natural counters to these creatures. Bright torchlight alone is insufficient; the light must be blessed or magical in nature to fully suppress a Grimshadow. A Grimshadow cannot be permanently killed while anchored to a location—it will reform in that place. To permanently destroy one, the source of its manifestation must be addressed: the curse lifted, the murdered spirit avenged, the old wound cleansed. Some philosophers argue that Grimshadows are not truly evil but wounded, and that redemption or healing is possible. Few have been brave or wise enough to attempt it.
 
 ## Attributes
 
