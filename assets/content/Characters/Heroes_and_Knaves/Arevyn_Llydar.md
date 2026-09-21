@@ -606,7 +606,7 @@ Arévyn stands 6'1" tall with a heavy build. He has tanned weathered skin, black
 
 ### Early Years in Stone
 
-Arévyn was born the third son of a mining family whose lineage stretched back generations into the deep shafts beneath the Kingdom of Élavendre. From childhood, he descended into darkness where his father and uncles worked, learning the songs of stone and the subtle signatures that betrayed precious metals and gems. By fifteen, he had mapped more ore veins than many experienced miners ever would, his Mineralogy surpassing even his father's considerable expertise.
+Arévyn was born the third son of a mining family whose lineage stretched back generations into the deep shafts beneath the Kingdom of [[place-elavendre|Élavendre]]. From childhood, he descended into darkness where his father and uncles worked, learning the songs of stone and the subtle signatures that betrayed precious metals and gems. By fifteen, he had mapped more ore veins than many experienced miners ever would, his Mineralogy surpassing even his father's considerable expertise.
 
 ### Mastery and Mentorship
 
@@ -669,7 +669,7 @@ Arévyn drives forward not from ambition or material need, but from a deep convi
 
 2. **The Veins of Whispers**: A young apprentice presents Arévyn with samples of an unprecedented ore formation discovered far beneath the usual mining depths—a mineral that seems to hum with an eerie vibration when struck. The composition defies his extensive knowledge, suggesting either a complete redefinition of geology or something far stranger beneath Élavendre's mountains. Investigation reveals hints of something ancient and possibly dangerous awakening in the deep earth.
 
-3. **The Heir's Validation**: Merchant House Kallinthiros offers Arévyn an enormous contract: prospect an entirely new mountain range on the Kingdom's border, with a team of the finest engineers and guards. The catch: he must validate it before the Byzarian League can claim it, and political tensions make the expedition a potential powder keg. Arévyn must navigate not just treacherous terrain but international intrigue while proving his methods remain vital to the realm.
+3. **The Heir's Validation**: Merchant House Kallinthiros offers Arévyn an enormous contract: prospect an entirely new mountain range on the Kingdom's border, with a team of the finest engineers and guards. The catch: he must validate it before the [[affiliation-byzarianlg|Byzarian League]] can claim it, and political tensions make the expedition a potential powder keg. Arévyn must navigate not just treacherous terrain but international intrigue while proving his methods remain vital to the realm.
 
 4. **The Forbidden Depths**: Arévyn discovers references in old mining records to a legendary chamber deep beneath the known mines—a place deliberately sealed off and forgotten by his predecessors. The cryptic warnings suggest catastrophe if the seals were ever breached. When strange geological disturbances suggest the seals may be failing, Arévyn faces a terrible choice: risk descending to inspect the seals, or remain silent and hope the danger passes.
 

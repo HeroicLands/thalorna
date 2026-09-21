@@ -562,7 +562,7 @@ sohl:
 
 ![[dagulfvthr|Dágulf Véthar]]{float: top-left}
 
-Dágulf cuts a wretched figure on the forest road. He stands at middling height with a wiry, restless frame that never quite holds still — always shifting weight, always glancing over his shoulder. His brown hair hangs in matted ropes past his jaw, unwashed and uncared for, and his face is cratered with the pale scars of a childhood pox. What strikes most who meet him are his eyes: a startling ice-blue, bright and watchful in a face otherwise unremarkable. He wears a battered leather vest over rough cloth, a cowl of cracked hide pulled low, and carries himself with the coiled tension of a man accustomed to violence. His hands are never far from the club at his hip or the long dagger in his belt. He smells of woodsmoke, sweat, and something faintly sour — the smell of a man who sleeps rough in the dark pines of Vrystwald and trusts no one.
+Dágulf cuts a wretched figure on the forest road. He stands at middling height with a wiry, restless frame that never quite holds still — always shifting weight, always glancing over his shoulder. His brown hair hangs in matted ropes past his jaw, unwashed and uncared for, and his face is cratered with the pale scars of a childhood pox. What strikes most who meet him are his eyes: a startling ice-blue, bright and watchful in a face otherwise unremarkable. He wears a battered leather vest over rough cloth, a cowl of cracked hide pulled low, and carries himself with the coiled tension of a man accustomed to violence. His hands are never far from the club at his hip or the long dagger in his belt. He smells of woodsmoke, sweat, and something faintly sour — the smell of a man who sleeps rough in the dark pines of [[place-vrystwald|Vrystwald]] and trusts no one.
 
 # Dossier {#dossier}
 
@@ -570,7 +570,7 @@ Dágulf grew up the second son of a sheepherder among the Varokh clans of Vrystw
 
 By fifteen, a cruel streak had surfaced. He began striking his father, then his mother and sister. The village reeve — a scarred former soldier who had served the Vylarian garrison — beat him bloody more than once, but punishment only hardened Dágulf's defiance. When the men of the village finally came together to thrash him after he struck his mother in the open square, Dágulf vanished into the deep woods with a bow, a dagger, and a burning hatred for the life he'd left behind.
 
-His years tracking lost sheep through the fog-filled valleys and hiding from chores served him well as a fugitive. He fell in with a roving band of runaway serfs preying on the old imperial trade road that threads through Vrystwald toward Vylaria, and within a season had murdered three of their strongest men in their sleep to seize control. The gang now operates along a stretch of that crumbling road, ambushing merchants and travelers in the shadow of ancient ruins under Dágulf's cold direction.
+His years tracking lost sheep through the fog-filled valleys and hiding from chores served him well as a fugitive. He fell in with a roving band of runaway serfs preying on the old imperial trade road that threads through Vrystwald toward [[place-vylariargn|Vylaria]], and within a season had murdered three of their strongest men in their sleep to seize control. The gang now operates along a stretch of that crumbling road, ambushing merchants and travelers in the shadow of ancient ruins under Dágulf's cold direction.
 
 ## Psyche
 

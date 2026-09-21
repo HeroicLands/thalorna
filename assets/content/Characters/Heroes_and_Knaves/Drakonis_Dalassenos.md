@@ -596,7 +596,7 @@ Drákonis stands 6'0" tall with a heavy build. He has tanned ruddy skin, graying
 
 # Dossier {#dossier}
 
-Drákonis emerged from the frontier regions of the Byzarian League, born into a family of trappers and hunters who worked the wild edges where civilization met untamed wilderness. His early years were spent learning the languages of animals—the signs that indicate a predator's territory, the weight and pace of a creature's movement, the subtle variations in track patterns that reveal age and condition. By his teens, he was already recognized as exceptionally gifted, capable of reading landscapes others could not comprehend.
+Drákonis emerged from the frontier regions of the [[affiliation-byzarianlg|Byzarian League]], born into a family of trappers and hunters who worked the wild edges where civilization met untamed wilderness. His early years were spent learning the languages of animals—the signs that indicate a predator's territory, the weight and pace of a creature's movement, the subtle variations in track patterns that reveal age and condition. By his teens, he was already recognized as exceptionally gifted, capable of reading landscapes others could not comprehend.
 
 At twenty-seven, Drákonis ventured beyond the territories familiar to his family, seeking more dangerous prey and greater challenges. The wilderness accepted him, or perhaps more accurately, he learned to move through it with such attunement that he became barely an intruder. Over the next twenty-five years, he developed a reputation as the trapper to call when conventional methods had failed—when dangerous predators proved too intelligent or savage for ordinary hunters, when the wilderness itself seemed to be the adversary rather than merely the location of the hunt.
 
@@ -638,7 +638,7 @@ Beneath this lies a more personal motivation: the wilderness is the only place w
 
 - **Lord Harren of the Frontier Territories**: A regional noble who maintains vast estates and regularly contracts Drákonis to eliminate predators threatening livestock and hunting preserves; their relationship is professional but carries unusual mutual respect.
 - **The Kozna Collective of Woodsmen**: A loose association of trappers and hunters who, while maintaining distance from Drákonis, regularly defer difficult contracts to him and pay extraordinary rates for his expertise.
-- **Brother Selvak of Ménérva's Monastery**: A monk keeper who acknowledges that Drákonis's work, while violent, serves a necessary function in maintaining the balance that the knowledge-goddess requires.
+- **Brother Selvak of [[lore-menervadty|Ménérva]]'s Monastery**: A monk keeper who acknowledges that Drákonis's work, while violent, serves a necessary function in maintaining the balance that the knowledge-goddess requires.
 
 ### Enemies
 

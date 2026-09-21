@@ -610,7 +610,7 @@ Gârlen stands 5'11" tall with a medium build. He has light tanned skin, black h
 
 **Apprenticeship in Blood and Leather**
 
-Born in the Tanners' Quarter of Élavendre's capital city, Gârlen was apprenticed to his uncle **Thorin Dhárel** at age nine, beginning a decade-long education in the mysteries of leather craft. The work was harsh and malodorous—scraping hides, boiling solutions, treating skins with mineral salts and plant dyes—but Gârlen showed genuine aptitude and genuine love for the craft. By his twentieth year, he had earned the title of journeyman and established a modest workshop of his own in a leased space near the city's hunter's market.
+Born in the Tanners' Quarter of [[place-elavendre|Élavendre]]'s capital city, Gârlen was apprenticed to his uncle **Thorin Dhárel** at age nine, beginning a decade-long education in the mysteries of leather craft. The work was harsh and malodorous—scraping hides, boiling solutions, treating skins with mineral salts and plant dyes—but Gârlen showed genuine aptitude and genuine love for the craft. By his twentieth year, he had earned the title of journeyman and established a modest workshop of his own in a leased space near the city's hunter's market.
 
 **The Accident and Recovery**
 

@@ -590,7 +590,7 @@ Elýsè is a slender young woman of twenty-seven with fair, lightly freckled ski
 
 # Dossier {#dossier}
 
-Elýsè Skýrn grew up as the daughter of an apothecary in a small village, learning the healing arts from her father and grandmother before she could read. Her natural aptitude for medicine and alchemy—combined with a charm that put even the most fearful patients at ease—led to her being sent to study in Béravel, Élavendre, where she received formal training in both conventional healing and alchemical science.
+Elýsè Skýrn grew up as the daughter of an apothecary in a small village, learning the healing arts from her father and grandmother before she could read. Her natural aptitude for medicine and alchemy—combined with a charm that put even the most fearful patients at ease—led to her being sent to study in [[place-beravel|Béravel]], [[place-elavendre|Élavendre]], where she received formal training in both conventional healing and alchemical science.
 
 Despite her success in Béravel, Elýsè grew restless. Academic study was too slow, too contained. She wanted to see rare herbs in the wild, test remedies under real conditions, and learn techniques that no chapterhouse could teach her. When the opportunity arose to join the [[affiliation-slntlncmpny|Silent Talon]] as their field medic, she took it without hesitation. War brings patients, and patients bring learning.
 

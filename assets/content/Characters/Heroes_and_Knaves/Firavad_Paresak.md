@@ -609,7 +609,7 @@ Firâvâd stands 5'6" tall with a medium build. He has tanned weathered skin, wh
 
 **Early Life and Calling**
 
-Born beneath a thunderstorm—a sign the Dunhara elders recognized as the touch of Báhrámiš himself—Firâvâd was designated at birth as a shaman-child. His youth passed in service to the elder shamans, learning the secret languages of herbs and storms, the names of spirits older than mountains. At thirty-two summers, during a vision-trance lasting three days and nights, he received the full mantle of shamanic power, his spirit bonded forever to the tempests that sweep across the tribal lands.
+Born beneath a thunderstorm—a sign the [[place-dunharargn|Dunhara]] elders recognized as the touch of [[lore-bahramisdty|Báhrámiš]] himself—Firâvâd was designated at birth as a shaman-child. His youth passed in service to the elder shamans, learning the secret languages of herbs and storms, the names of spirits older than mountains. At thirty-two summers, during a vision-trance lasting three days and nights, he received the full mantle of shamanic power, his spirit bonded forever to the tempests that sweep across the tribal lands.
 
 **Training and Mastery**
 

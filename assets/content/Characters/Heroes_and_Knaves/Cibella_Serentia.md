@@ -565,11 +565,11 @@ Cibella Serentia is a young woman of startling beauty and deeply unsettling pres
 
 ### Origin
 
-Cibella was born in Belekos to the same wealthy merchant family as her brother Lucerian. From infancy, she was different. She spoke early, read earlier, and displayed an insatiable hunger for knowledge that outpaced every tutor her parents provided. By ten, she was solving mathematical problems that challenged university scholars. By twelve, her arcane aura — the ambient resonance that marks those with potential for magical ability — was measured as Profound, the highest classification. She was a genius in every measurable sense, and the world seemed limitless.
+Cibella was born in [[place-belekos|Belekos]] to the same wealthy merchant family as her brother Lucerian. From infancy, she was different. She spoke early, read earlier, and displayed an insatiable hunger for knowledge that outpaced every tutor her parents provided. By ten, she was solving mathematical problems that challenged university scholars. By twelve, her arcane aura — the ambient resonance that marks those with potential for magical ability — was measured as Profound, the highest classification. She was a genius in every measurable sense, and the world seemed limitless.
 
 ### The Academy
 
-When agents of the Ordo Arcanis identified Cibella's extraordinary aura, they approached her parents with an invitation to study at one of the Order's elite academies. The family was honored — the Ordo's training was prestigious, and acceptance was rare. Cibella was ecstatic. For the first time, she would be among peers, studying subjects worthy of her abilities. She entered the academy at thirteen.
+When agents of the [[affiliation-ordoarcanis|Ordo Arcanis]] identified Cibella's extraordinary aura, they approached her parents with an invitation to study at one of the Order's elite academies. The family was honored — the Ordo's training was prestigious, and acceptance was rare. Cibella was ecstatic. For the first time, she would be among peers, studying subjects worthy of her abilities. She entered the academy at thirteen.
 
 ### The Experiments
 
@@ -581,7 +581,7 @@ When Lucerian found her and extracted her from the facility, Cibella was a shatt
 
 ### Aboard the Tamzîr
 
-Cibella has been aboard the Tamzîr for eighteen months, sheltered by the crew and monitored constantly by Lucerian. She spends most of her time in their cabin, drawing, calculating, or staring at things no one else can see. On good days she is gentle, curious, and childlike — studying a rope splice with the rapt attention of a scholar examining a lost manuscript, or watching the cook chop vegetables with an expression of pure wonder. On bad days she is unreachable, or worse — reactive, her erratic abilities surging in ways that frighten everyone, including herself. The crew has learned to give her space, to speak softly around her, and to never, ever touch her without warning. They have also learned that Cibella is not helpless, even if she appears so. Twice the ship has been boarded, and twice Cibella stood frozen while the fighting raged around her — until a blade came close enough to threaten her life, at which point she became something else entirely: blindingly fast, precise, and lethal, disarming or destroying her attackers with a physicality that defies her slight frame. Both times, the moment the danger passed, she simply stopped — blinking, confused, as if waking from a dream — and had to be led below by her brother. She has no memory of what she did, and she cannot do it again on purpose. Kasûra Damzarû has made the most progress in reaching her, finding in shared silence and simple mechanical work a connection that words cannot achieve.
+Cibella has been aboard the Tamzîr for eighteen months, sheltered by the crew and monitored constantly by Lucerian. She spends most of her time in their cabin, drawing, calculating, or staring at things no one else can see. On good days she is gentle, curious, and childlike — studying a rope splice with the rapt attention of a scholar examining a lost manuscript, or watching the cook chop vegetables with an expression of pure wonder. On bad days she is unreachable, or worse — reactive, her erratic abilities surging in ways that frighten everyone, including herself. The crew has learned to give her space, to speak softly around her, and to never, ever touch her without warning. They have also learned that Cibella is not helpless, even if she appears so. Twice the ship has been boarded, and twice Cibella stood frozen while the fighting raged around her — until a blade came close enough to threaten her life, at which point she became something else entirely: blindingly fast, precise, and lethal, disarming or destroying her attackers with a physicality that defies her slight frame. Both times, the moment the danger passed, she simply stopped — blinking, confused, as if waking from a dream — and had to be led below by her brother. She has no memory of what she did, and she cannot do it again on purpose. [[being-kasuradmzr|Kasûra Damzarû]] has made the most progress in reaching her, finding in shared silence and simple mechanical work a connection that words cannot achieve.
 
 ## Psyche
 
@@ -605,7 +605,7 @@ Cibella suffers from severe dissociation. She is not in control of her own abili
 
 ### Patrons
 
-Her brother **Lucerian Serentia** is her protector, caretaker, and most constant presence. The crew of the **Tamzîr** have become reluctant but genuine guardians.
+Her brother **[[being-lucernsrnt|Lucerian Serentia]]** is her protector, caretaker, and most constant presence. The crew of the **Tamzîr** have become reluctant but genuine guardians.
 
 ### Enemies
 
@@ -613,7 +613,7 @@ The **Ordo Arcanis** considers Cibella their most valuable escaped asset. They h
 
 ### Affiliations
 
-Passenger aboard the **Tamzîr**. Sister of **Lucerian Serentia**. She has formed a quiet bond with **Kasûra Damzarû**, who treats her with simple warmth rather than the anxious protectiveness of her brother, and with **Dámàsûn Ghôlâron** (Parma), whose calm presence seems to soothe her in ways that defy easy explanation.
+Passenger aboard the **Tamzîr**. Sister of **Lucerian Serentia**. She has formed a quiet bond with **Kasûra Damzarû**, who treats her with simple warmth rather than the anxious protectiveness of her brother, and with **[[being-damsnghlrn|Dámàsûn Ghôlâron]]** (Parma), whose calm presence seems to soothe her in ways that defy easy explanation.
 
 ## Plot Hooks
 
@@ -627,4 +627,4 @@ Passenger aboard the **Tamzîr**. Sister of **Lucerian Serentia**. She has forme
 
 # Playing Cibella
 
-The tragedy of Cibella Serentia is this: the Ordo's experiments unlocked something truly staggering, but they destroyed the mind that would have been able to wield it. She is arguably the most dangerous person on the Vylarian Sea, and she spends her days watching spiders and being led to meals by her brother. The Ordo wants her back not just because she is powerful, but because they believe they can finish what they started — rebuild the control architecture they destroyed. Whether that is possible, and what it would cost, is one of the most compelling tensions in her story.
+The tragedy of Cibella Serentia is this: the Ordo's experiments unlocked something truly staggering, but they destroyed the mind that would have been able to wield it. She is arguably the most dangerous person on the [[place-vylarianse|Vylarian Sea]], and she spends her days watching spiders and being led to meals by her brother. The Ordo wants her back not just because she is powerful, but because they believe they can finish what they started — rebuild the control architecture they destroyed. Whether that is possible, and what it would cost, is one of the most compelling tensions in her story.
