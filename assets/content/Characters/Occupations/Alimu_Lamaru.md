@@ -555,41 +555,39 @@ sohl:
 
 # Appearance {#appearance}
 
-Alîmû Lâmarû is a 53-year-old man who stands 5'4" tall and is of moderate build. He has a diamond face with prominent cheekbones, a smooth forehead, and a strong jaw that leads to a pointed chin. His deep-set black eyes sit beneath heavy brows, lending him a watchful gaze. An aquiline nose and full lips complete his features. He has olive skin with a smooth complexion. His brown hair is kept practical and short.
+At 53, Alîmû Lâmarû is 5'4" and neat in the way of a man whose desk is neat. Diamond face, prominent cheekbones, a smooth forehead and a strong jaw coming to a pointed chin. Deep-set black eyes under heavy brows, an aquiline nose, full lips that do not smile at petitioners. Olive skin, smooth; brown hair kept short and practical.
 
 # Dossier {#dossier}
 
-Born in the Harad region to a guilded family of Haradian heritage, Alîmû Lâmarû came into the world of the bureaucrat through a combination of circumstance and aptitude.
+Alîmû has sat in the city's administrative offices in Harad for more than thirty years and has climbed them the slow way, by never mislaying a record and never filing a form out of its order. He knows the regulations of the city the way a priest knows a liturgy, and he holds to them for the same reason: they are what is left when the men above him change.
 
-Alîmû has worked in the city’s administrative offices for over three decades, climbing the ranks through diligence and an ability to navigate the politics of the bureaucracy. He is known for his meticulous record-keeping and strict adherence to protocol, though his career has left him jaded and weary of corruption in the higher offices.
+The men above him have changed often, and he has watched them. What he has seen in the higher offices — who is paid, who is passed over, whose petition arrives at the top of the pile — has left him jaded and weary, and it has not once tempted him to join in. He is not honest out of virtue; he is honest because he keeps the records, and the records are his.
 
-Now at 53 years of age, Alîmû Lâmarû has established himself as a known figure among the bureaucrats of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
+Reformists want the offices remade and see him as the stagnant system with a face. He sees them as men who have not yet read the regulations. Both are right, and the city officials who value him know it, which is why he is still at his desk.
 
 ## Psyche
 
 ### Personality
 
-Cynical and resistant to change, especially when it comes to reform.
+Cynical and set against change, most of all the change that calls itself reform.
 
 ### Motivation
 
-Alîmû is driven by the desire to master his craft and secure a stable future. The uncertainties of life in bureaucrat work keep him vigilant and adaptable.
+To keep the office in order and himself in it until he can leave it in order.
 
 ### Strengths
 
-Extremely organized and knowledgeable about city regulations.
+Extremely organised; there is no regulation of the city he cannot cite.
 
 ## Social
 
-Alîmû is affiliated with City Bureaucracy.
-
-As a Haradian bureaucrat, Alîmû occupies a recognized social niche within Harad society.
+Alîmû is a Haradian clerk of the guilded class in the city bureaucracy, and in Harad that is a rank of its own — beneath the officials he serves, above the petitioners he keeps waiting.
 
 ## Companions
 
 ### Patrons
 
-Alîmû's primary patron is City officials who value his experience.. This relationship provides both opportunity and obligation.
+The city officials who value his experience, and who find that an office runs badly the month he is ill.
 
 ### Enemies
 
@@ -597,12 +595,8 @@ Reformists who view him as a symbol of the stagnant system.
 
 ## Plot Hooks
 
-1. **The Bureaucrat's Dilemma** — Alîmû faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Harad.
-
-2. **Old Grudges** — Reformists who view him as a symbol of the stagnant system. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-3. **Echoes of the Past** — Something from Alîmû's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-4. **Shifting Winds** — Political changes in Harad threaten to upend the social order that Alîmû depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Alîmû the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+1. **The Missing Page** — A record he keeps is asked for by a man above him, and it names that man. Produce it and lose the office; lose it and lose the one thing he has been for thirty years.
+2. **The Reformists Move** — The reformists carry a vote and his desk is on their list. The grudge is public now, and they have the regulations on their side for once.
+3. **An Old File** — A petition he stamped decades ago, in someone else's interest, comes back with the petitioner's heir attached.
+4. **A New Confederation** — The politics of Harad shift and the offices with them; the order he serves may not survive the year, and he has to decide what a clerk is loyal to.
+5. **The Higher Office** — He is offered the promotion he stopped hoping for, from the very corruption he has spent his life recording, and the price is the record.

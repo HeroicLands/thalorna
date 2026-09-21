@@ -550,41 +550,37 @@ sohl:
 
 # Appearance {#appearance}
 
-Thrágrim Ríkhild is a 48-year-old man who stands 6'3" tall and is broad and solidly built. He has a broad face with prominent cheekbones, a lined forehead, and a square jaw that leads to a strong chin. His bright blue eyes sit beneath thick brows, lending him a lively gaze. A broad nose and wide lips complete his features. He has light skin with a weathered complexion. His gray hair is thick and unkempt.
+Thrágrim Ríkhild is 6'3" and 48, a broad, solid man with a broad face: prominent cheekbones, a lined forehead, a square jaw and a strong chin. Bright blue eyes under thick brows, a broad nose, a wide mouth that does not say much. Light skin weathered by forty years of Vrystwald winters; thick grey hair he leaves as it grows.
 
 # Dossier {#dossier}
 
-Born in the Vrystwald region to a freeman family of Varokhi heritage, Thrágrim Ríkhild came into the world of the timberwright through a combination of circumstance and aptitude.
+Thrágrim works alone, and has arranged his life so that he can. He is a timberwright of Vrystwald — he fells the trees, dresses them, and delivers the beams and planks the builders and carpenters put into houses — and most days there is nobody within a mile of him but the horse. He learned the trade from his father and does it the way his father did, well and without talking about it.
 
-Thrágrim has spent most of his life working in the forests, felling trees and crafting timber for construction. He learned the trade from his father and has earned a reputation for his skill and efficiency. Thrágrim is a hardworking man who takes pride in his craft, but his rough demeanor can be off-putting. He often works alone, preferring the solitude of the woods to the bustle of the village.
-
-Now at 48 years of age, Thrágrim Ríkhild has established himself as a known figure among the timberwrights of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
+The village finds him strange. He is gruff, he does not come to the hall, and the few things he says come out rougher than he means them. But his timber is straight and it is there when he said it would be, and in Vrystwald that buys more forgiveness than good manners do. The Timberwrights' Guild lists him and leaves him be.
 
 ## Psyche
 
 ### Personality
 
-Gruff and prefers working alone, struggles with social interactions.
+Gruff, solitary, and bad at the parts of life that happen indoors with other people.
 
 ### Motivation
 
-Thrágrim is driven by the desire to master his craft and secure a stable future. The uncertainties of life in timberwright work keep him vigilant and adaptable.
+To keep the forest, the work and the quiet, and to be let alone to do it.
 
 ### Strengths
 
-Skilled in felling trees, experienced in timber processing, physically strong.
+Skilled at felling; long practice in dressing and seasoning timber; strong as the beams he carries.
 
 ## Social
 
-Thrágrim is affiliated with Timberwrights' Guild.
-
-As a Varokhi timberwright, Thrágrim occupies a recognized social niche within Vrystwald society.
+Thrágrim is a Varokhi freeman and a member of the Timberwrights' Guild, and holds the place in Vrystwald that a reliable man with no friends holds.
 
 ## Companions
 
 ### Patrons
 
-Thrágrim's primary patron is Local builders and carpenters who rely on him for quality timber.. This relationship provides both opportunity and obligation.
+The local builders and carpenters who rely on him for sound timber.
 
 ### Enemies
 
@@ -592,12 +588,8 @@ Few, though some villagers find his solitary nature strange.
 
 ## Plot Hooks
 
-1. **The Timberwright's Dilemma** — Thrágrim faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
-
-2. **Old Grudges** — Few, though some villagers find his solitary nature strange. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-3. **Echoes of the Past** — Something from Thrágrim's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-4. **Shifting Winds** — Political changes in Vrystwald threaten to upend the social order that Thrágrim depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Thrágrim the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+1. **The Beam** — A house he timbered comes down, and the builder says the wood was bad. It was not, and proving it means going into the village and talking.
+2. **The Village Turns** — The villagers who find him strange find a reason to be afraid of him, and a man with no friends has nobody to say otherwise.
+3. **His Father's Woods** — Something his father did in the forest, and told him never to speak of, is dug up by a stranger's axe.
+4. **The Tribes Divide** — The Vrystwald tribes fall out, and the forest he works is claimed by both sides; a man who wants only to be left alone has to decide whether to bend, resist, or go deeper in.
+5. **The Great Hall** — He is offered the timbering of a hall that would make his name across Vrystwald, and the work would keep him among people for a year.

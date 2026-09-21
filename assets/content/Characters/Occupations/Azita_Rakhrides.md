@@ -551,54 +551,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Ázîta Râkhrîdês is a 34-year-old woman who stands 5'11" tall and is of moderate build. She has a diamond face with wide-set cheekbones, a broad forehead, and an angular jaw that leads to a square chin. Her round dark brown eyes sit beneath straight brows, lending her a candid gaze. A strong nose and thin lips complete her features. She has medium-toned skin with a sun-tanned complexion. Her black hair is flowing past her shoulders.
+Ázîta Râkhrîdês stands 5'11", tall for a Helionite woman, and at 34 is built for a long day on a quay. Diamond face, wide-set cheekbones, a broad forehead and an angular jaw ending in a square chin. Round dark brown eyes under straight brows, a strong nose, thin lips. Medium-toned skin tanned by the sun of other people's harbours. Her black hair falls past her shoulders.
 
 # Dossier {#dossier}
 
-Born in the Heliónis region to a noble family of Helionite heritage, Ázîta Râkhrîdês came into the world of the mercantyler through a combination of circumstance and aptitude.
+What Ázîta sells cannot be grown in Heliónis. Spices and the goods of distant lands come in on her account — sourced where nobody else has thought to look, bought on agreements that both sides can live with, which is how she gets a second cargo where a sharper dealer gets one. Her connections run through the local markets and out past them, and she moves through the trade with an ease that her competitors in spice find hard to forgive.
 
-Ázîta is a savvy mercantyler who specializes in the import of spices and exotic goods from distant lands. She has built a reputation for her expertise in sourcing unique products and establishing fair trade agreements. Ázîta is well-connected in both local and international markets, allowing her to navigate the complexities of trade with ease.
+Her family is noble; her trade is not, and she does not care. A mercantyler of the Merchant's Guild with a landed name is an oddity in Heliónis, and an oddity with the best cinnamon in the city is a woman people receive.
 
-Now at 34 years of age, Ázîta Râkhrîdês has established herself as a known figure among the mercantylers of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
+The buyers are cooks — the great houses' kitchens and the eating-houses that pay for rarity. They want the one ingredient nobody else can get, and she wants to be the one who has it, which is a competition she cannot stop running even when the counting-house is closed.
 
 ## Psyche
 
 ### Personality
 
-Can be overly competitive, struggles with work-life balance.
+Competitive past the point of profit, and she does not know how to leave the counting-house at the counting-house.
 
 ### Motivation
 
-Ázîta is driven by the desire to master her craft and secure a stable future. The uncertainties of life in mercantyler work keep her vigilant and adaptable.
+To have what nobody else has, first, and to keep the agreements that get it.
 
 ### Strengths
 
-Strong understanding of international trade, persuasive, well-connected.
+Knows the trade of distant lands; persuasive; well-connected at home and abroad.
 
 ## Social
 
-Ázîta is affiliated with Local Merchant's Guild.
-
-As a Helionite mercantyler, Ázîta occupies a recognized social niche within Heliónis society.
+Ázîta is affiliated with the Merchant's Guild, and sits in it as a noble's daughter among merchants, which she has made into an advantage.
 
 ## Companions
 
 ### Patrons
 
-Ázîta's primary patron is Culinary experts and high-end restaurants seeking unique ingredients.. This relationship provides both opportunity and obligation.
+The cooks and kitchens of Heliónis — the great houses and the eating-houses — that want a unique ingredient and will pay for it.
 
 ### Enemies
 
-Few; generally well-respected but has competitors in the spice trade.
+Few; she is generally well respected, but she has competitors in the spice trade.
 
 ## Plot Hooks
 
-1. **The Mercantyler's Dilemma** — Ázîta faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
-
-2. **Old Grudges** — Few; generally well-respected but has competitors in the spice trade. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-3. **Echoes of the Past** — Something from Ázîta's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-4. **Shifting Winds** — Political changes in Heliónis threaten to upend the social order that Ázîta depends upon. She must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Ázîta the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+1. **The Fair Agreement** — A supplier abroad who has dealt fairly with her for years is ruined, and she can honour the agreement and lose the season or break it and keep the trade.
+2. **The Spice Rivals** — Her competitors in spice, tired of losing, combine to shut her out of a source; the rivalry stops being about price.
+3. **The First Cargo** — Someone from the voyage that made her name arrives in Heliónis with a different account of how that cargo was got.
+4. **Heliónis Turns** — The city's politics shift against the noble houses, or against the guild, and a woman who belongs to both has to decide which name to keep.
+5. **The Monopoly** — A patron offers her the sole supply of something the whole city wants, and the terms would make her a great trader and someone else's creature.

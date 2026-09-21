@@ -547,54 +547,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Pórena Dhárel is a 28-year-old woman who stands 5'8" tall and is of moderate build. She has an oval face with wide-set cheekbones, a broad forehead, and a narrow jaw that leads to a firm chin. Her deep-set green eyes sit beneath arched brows, lending her a watchful gaze. A slightly upturned nose and firm lips complete her features. She has pale skin with a smooth complexion. Her dark brown hair is loose and wavy.
+A longshorewoman of 28 with a climber's build, Pórena Dhárel stands 5'8" and carries no spare weight. Oval face, wide-set cheekbones, a broad forehead narrowing to a firm chin; deep-set green eyes under arched brows, a nose that turns up a little, a firm mouth. Pale skin the dock wind has not managed to roughen. Her dark brown hair is worn loose and wavy, which is the one thing about her that is not practical.
 
 # Dossier {#dossier}
 
-Born in the Élavendre region to a freeman family of Élavendri heritage, Pórena Dhárel came into the world of the longshorewoman through a combination of circumstance and aptitude.
+What comes over the rail at Élavendre's docks comes to Pórena: bales, casks, crates slung from a yard and swung to the quay. She has worked the waterfront since she was a girl in her teens, and she works it the way a light woman must — up the nets and the stacks, fast, never under a load a heavier hand should be under. A crate she cannot lift she can move; she knows where the leverage is.
 
-Pórena has worked as a longshorewoman since she was a teenager, breaking stereotypes in a traditionally male-dominated field. She is known for her agility and ability to navigate the busy docks efficiently. Pórena has earned respect among her colleagues for her skills in cargo handling and is often called upon to mentor new workers. She takes pride in her work and is determined to show that women can excel in this profession.
+Her hands know cargo — what stows against what, which cask will shift in a swell, which knot a green hand ties wrong. The new hands are sent to her. She teaches them without ceremony and does not spare them, and the ones who last come back to her for the next thing.
 
-Now at 28 years of age, Pórena Dhárel has established herself as a known figure among the longshorewomans of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
+The merchants who own the cargo and the shipping houses that move it pay her by the day, and not a few of them would rather see a man on the rope. She has heard every version of that and answers none of it. The older stevedores who still mutter are few, and they are not the ones the merchants ask for by name.
 
 ## Psyche
 
 ### Personality
 
-Sometimes faces prejudice, struggles with heavy lifting.
+Quick with her tongue and quicker on her feet. She takes the prejudice as weather. She does not pretend the heavy lifts are easy for her; she pairs on those and says so.
 
 ### Motivation
 
-Pórena is driven by the desire to master her craft and secure a stable future. The uncertainties of life in longshorewoman work keep her vigilant and adaptable.
+To keep the docks — to be old on this waterfront with her own gang and her own word good.
 
 ### Strengths
 
-Agile and quick, skilled in logistics, good communicator.
+Agile and fast; knows a cargo and how to stow it; talks to a captain and a dock-rat in the same voice, and both listen.
 
 ## Social
 
-Pórena is affiliated with Local Longshorewomen's Union.
-
-As a Élavendri longshorewoman, Pórena occupies a recognized social niche within Élavendre society.
+Pórena belongs to the Longshorewomen's Union of the port and stands with it. She is Élavendri common stock on a waterfront that runs on common stock, and her standing there is exactly what her work has made it.
 
 ## Companions
 
 ### Patrons
 
-Pórena's primary patron is Cargo merchants and shipping companies.. This relationship provides both opportunity and obligation.
+The cargo merchants and shipping houses that hire the quay by the day. They pay her, and most of them would rather not have to.
 
 ### Enemies
 
-Few; respected but occasionally faces skepticism from traditionalists.
+Few. Some traditionalists on the quay doubt her, and keep it to muttering.
 
 ## Plot Hooks
 
-1. **The Longshorewoman's Dilemma** — Pórena faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
-
-2. **Old Grudges** — Few; respected but occasionally faces skepticism from traditionalists. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-3. **Echoes of the Past** — Something from Pórena's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-4. **Shifting Winds** — Political changes in Élavendre threaten to upend the social order that Pórena depends upon. She must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Pórena the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+1. **Manifest and Weight** — A cargo comes through that she knows is wrong — the manifest says one thing and the weight says another — and the merchant paying for it keeps half the docks in work. Say nothing and keep the gang's bread; say something and answer for what follows in Élavendre.
+2. **The Muttering Turns** — The few who still doubt her find a moment when a load goes wrong on her watch, and the muttering becomes a case made to the shipping houses.
+3. **Someone She Taught** — A hand she trained comes back to the docks under another name, and what he wants from her is not work.
+4. **New Masters** — Power in Élavendre shifts and the union's standing with it. The docks she knows may not be hers to keep, and she has to decide whether to bend, stand, or go.
+5. **A Place Above the Rope** — A shipping house offers her a foreman's pay and her own gang, and the price is only that she stop asking what is in the crates.

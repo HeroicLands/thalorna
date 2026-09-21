@@ -555,7 +555,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Lady Ârnela Kórisvar is a 42-year-old woman who stands 5'6" tall and is of moderate build. She has an oval face with soft cheekbones, a wide forehead, and an angular jaw that leads to a firm chin. Her wide-set hazel eyes sit beneath arched brows, lending her an open gaze. A straight nose and full lips complete her features. She has medium-toned skin with a smooth complexion. Her auburn hair is hanging in ringlets.
+Lady Ârnela Kórisvar, 42, is 5'6" with a moderate build and an oval face — soft cheekbones, a wide forehead, an angular jaw and a firm chin. Wide-set hazel eyes under arched brows give her an open look that is not the same as an unguarded one. A straight nose, full lips. Medium-toned, smooth skin; auburn hair worn in ringlets.
 
 # Dossier {#dossier}
 
@@ -563,60 +563,56 @@ Lady Ârnela Kórisvar is a 42-year-old woman who stands 5'6" tall and is of mod
 
 ### The Kórisvar Name
 
-The Kórisvars are a minor noble house of Fiòrdaure, their wealth built on coastal trade and the salt flats east of the town. Ârnela's father, Lord Pálthen Kórisvar, was a cautious man who kept his head down during the last decades of political maneuvering between the crown and the Council of Peers. He died when Ârnela was twenty-six, leaving her an estate that was solvent but unremarkable — a manor house on the hill above Fiòrdaure's harbor, a handful of tenant farms, fishing rights along a stretch of coast, and a seat on the town's charter council that no one particularly coveted.
+The Kórisvars are a minor noble house of Fiòrdaure whose money comes from the coastal trade and the salt flats east of the town. Ârnela's father, Lord Pálthen Kórisvar, was a cautious man who kept his head down through the last decades of manoeuvring between the crown and the Council of Peers, and when he died — she was twenty-six — he left her an estate that was solvent and not much more: the manor house on the hill above Fiòrdaure's harbour, a handful of tenant farms, fishing rights along a stretch of coast, and a seat on the town's charter council that nobody much wanted.
 
 ### A Different Kind of Ambition
 
-What Ârnela's father lacked in vision, she possessed in abundance. Within a year of inheriting, she had used the estate's modest income to establish a small academy in Fiòrdaure — not a grand institution, but a practical school of navigation, natural philosophy, and commercial law, aimed at the sons and daughters of merchants and skilled tradesmen. In Provènzia, where noble prestige is measured by patronage, this was a shrewd move. The academy cost relatively little to maintain, attracted goodwill from the merchant class, and gave Ârnela a reputation as a progressive patron of learning — precisely the currency that matters on the Council of Peers.
+Ârnela had what her father lacked. Within a year of inheriting she had spent the estate's modest income on a small academy in Fiòrdaure — not a grand foundation but a practical school of navigation, natural philosophy and commercial law, for the sons and daughters of merchants and skilled tradesmen. In Provènzia, where a noble's standing is measured in patronage, it was a shrewd purchase. The academy cost little to keep, earned the goodwill of the merchant class, and gave her the name of a forward-looking patron of learning, which is exactly the coin the Council of Peers trades in.
 
-She has since leveraged that reputation into a position of genuine influence. She brokered the current fishing rights compact between Fiòrdaure and Belpòrte, chairs the town's harbor commission, and has twice been selected to represent Fiòrdaure's interests before the royal court. She is not wealthy by the standards of the great Provenzian houses, but she is effective, and in a kingdom that values negotiation over force, effectiveness counts for more than gold.
+The name has since bought real influence. She brokered the fishing-rights compact now in force between Fiòrdaure and Belpòrte, she chairs the town's harbour commission, and twice she has been chosen to speak for Fiòrdaure before the royal court. By the measure of the great Provenzian houses she is not rich. She is effective, and in a kingdom that prefers negotiation to force, that counts for more than gold.
 
 ### Present Circumstances
 
-At forty-two, Ârnela manages her estate, her academy, and her political obligations with a discipline that leaves little room for personal life. She has never married — whether by choice or circumstance, she does not say, and those who know her well enough to ask know better than to press the question. She divides her time between the manor at Fiòrdaure and the court at Aurèliane, where she maintains a modest townhouse and a growing network of allies and obligations.
+At forty-two, Ârnela runs the estate, the academy and her political obligations with a discipline that leaves little room for anything else. She has never married. Whether that is choice or circumstance she does not say, and the people close enough to ask know not to. She divides her time between the manor at Fiòrdaure and the court at Aurèliane, where she keeps a modest townhouse and a growing web of allies and debts.
 
 ## Psyche
 
 ### Personality
 
-Ârnela is precise, composed, and relentlessly practical. She listens more than she speaks and chooses her words with the care of someone who has learned that in Provenzian politics, a careless sentence can undo a year's work. She can be charming when it serves her purposes, but her natural mode is directness — she prefers to state what she wants and negotiate from there. Those who mistake her calm for passivity discover their error quickly.
+Ârnela is precise, composed and relentlessly practical. She listens more than she talks, and chooses her words like someone who has learned that in Provenzian politics one careless sentence can undo a year. She can be charming when charm is useful; her natural mode is directness — say what she wants, then negotiate. People who take the calm for passivity find out their mistake quickly.
 
-She has a genuine interest in education and ideas, not merely as tools of political advancement. She reads widely, corresponds with scholars at the Panepistemium chapterhouse in Chastèlclair, and has been known to spend an evening debating natural philosophy with her academy's instructors when she should be reviewing accounts. This intellectual curiosity is both a strength and an indulgence she cannot always afford.
+She has a real interest in ideas, not only as instruments. She reads widely, keeps up a correspondence with scholars at the Panepistemium chapterhouse in Chastèlclair, and has been known to spend an evening arguing natural philosophy with her academy's masters when the accounts were waiting. It is a strength, and an indulgence she cannot always afford.
 
 ### Motivation
 
-Ârnela wants to build something that outlasts her — to make the Kórisvar name mean something beyond a minor house with fishing rights. The academy is the seed of that ambition, but the deeper goal is to demonstrate that Provènzia's future lies in practical education and broad prosperity, not in the old aristocratic model of land, lineage, and inherited privilege. She is pragmatic enough to work within the existing system while quietly undermining its assumptions.
+She wants to build something that outlasts her — to make the Kórisvar name mean more than a minor house with fishing rights. The academy is the seed of it. The larger aim is to show that Provènzia's future lies in practical learning and broad prosperity rather than in land, lineage and inherited privilege, and she is pragmatic enough to work inside the old system while quietly undermining what it assumes.
 
-Beneath the political calculation, she is motivated by a fear she would never voice aloud: that her father was right, that keeping one's head down is the only safe strategy, and that her ambition will eventually bring the house down rather than raise it up.
+Under the calculation is a fear she would never speak aloud: that her father was right, that keeping one's head down is the only safe course, and that her ambition will bring the house down rather than raise it.
 
 ### Strengths
 
-Ârnela is an exceptional negotiator who reads people with the precision of a merchant reading a ledger. She understands leverage, timing, and the art of making others believe a compromise was their own idea. Her legal knowledge is formidable — she drafted the Fiòrdaure-Belpòrte fishing compact herself, a document now used as a teaching text in commercial law. She is disciplined, patient, and capable of maintaining several long-term political strategies simultaneously without losing track of any of them.
+Ârnela is a negotiator of the first order who reads people the way a merchant reads a ledger. She understands leverage and timing, and the art of letting the other side believe the compromise was their own idea. Her law is strong — she drafted the Fiòrdaure-Belpòrte fishing compact herself, and it is now used as a teaching text in commercial law. She is disciplined, patient, and able to carry several long political games at once without dropping any of them.
 
 ## Social
 
-Ârnela holds a seat on Fiòrdaure's charter council and chairs the harbor commission. She is a regular presence at the royal court in Aurèliane, where she represents Fiòrdaure's interests and cultivates relationships with the reform-minded faction among the Council of Peers. Her academy has given her connections to the merchant class that most minor nobles lack.
+Ârnela holds a seat on Fiòrdaure's charter council and chairs its harbour commission. She is a familiar presence at the royal court in Aurèliane, where she speaks for Fiòrdaure and cultivates the reform-minded faction of the Council of Peers. The academy has given her connections to the merchant class that most minor nobles do not have.
 
 ## Companions
 
 ### Patrons
 
-- **Countess Míravel Tárveneth**: A senior member of the Council of Peers and leader of the reformist faction. She sees Ârnela as a useful ally — capable, ambitious, and expendable enough that the Countess can use her as a stalking horse for policies too controversial to champion directly. Ârnela is aware of this dynamic and accepts it as the cost of access.
-- **Master Lúcen Fáravel**: The elderly head of the Panepistemium chapterhouse in Chastèlclair. He helped Ârnela establish her academy in Fiòrdaure and continues to provide instructors and texts in exchange for her political support on matters affecting the Epistemium's chartered rights.
+- **Countess Míravel Tárveneth**: A senior member of the Council of Peers and leader of its reformist faction. She sees Ârnela as a useful ally — able, ambitious, and expendable enough to be run out ahead of policies too contentious to champion herself. Ârnela knows this and accepts it as the price of access.
+- **Master Lúcen Fáravel**: The elderly head of the Panepistemium chapterhouse in Chastèlclair. He helped Ârnela found her academy and goes on supplying masters and texts, in return for her political support wherever the Epistemium's chartered rights are in question.
 
 ### Enemies
 
-- **Lord Vásquen Cortelúni**: Head of one of Fiòrdaure's older noble families and a staunch traditionalist who views Ârnela's academy as an insult to the proper order — educating commoners above their station, he says, weakens the fabric of society. He has blocked several of her proposals on the charter council and is quietly working to undermine her influence at court. The rivalry is conducted with impeccable Provenzian courtesy, which makes it no less dangerous.
-- **The Syndics of Belpòrte**: The merchant guild that governs Belpòrte resents the fishing compact that Ârnela brokered, believing she gave Fiòrdaure's fishermen too generous a share. They have retained a litigant to challenge the compact's terms, and there are rumors they have also hired less legitimate agents to gather information about Ârnela's finances and political dealings.
+- **Lord Vásquen Cortelúni**: Head of one of Fiòrdaure's older noble houses and a thorough traditionalist, who takes Ârnela's academy as an insult to the proper order — teaching commoners above their station, he says, loosens the whole weave of society. He has blocked several of her proposals on the charter council and is quietly working against her at court. The rivalry is conducted with perfect Provenzian courtesy, and is exactly as dangerous as it would be without.
+- **The Syndics of Belpòrte**: The merchant guild that governs Belpòrte resents the fishing compact and holds that Ârnela gave Fiòrdaure's fishermen too generous a share. They have retained a litigant to challenge its terms, and there are rumours of less legitimate agents hired to look into her finances and her dealings.
 
 ## Plot Hooks
 
-1. **The Compact Under Siege** — The Syndics of Belpòrte have found a legal vulnerability in the fishing compact and are preparing a formal challenge before the royal court. If the compact is overturned, Ârnela loses her signature achievement and the political credibility built upon it. She must defend the compact while discovering who inside Fiòrdaure leaked the information the Syndics needed.
-
-2. **The Countess's Gambit** — Countess Tárveneth asks Ârnela to publicly champion a controversial reform — extending chartered rights to two more towns — knowing it will draw fierce opposition from traditionalists. If Ârnela succeeds, the reform advances and her standing rises. If she fails, the Countess loses nothing while Ârnela absorbs the political damage. Ârnela must decide whether the potential reward justifies the risk of becoming the Countess's sacrificial piece.
-
-3. **A Scholar's Disappearance** — One of the academy's most promising instructors vanishes without notice. Investigation reveals he was conducting research into pre-Vylarian ruins in the hills above Fiòrdaure — research that may have drawn the attention of the Ordo Arcanis. Ârnela must navigate the delicate politics of the Ordo's relationship with the Provenzian crown while finding her missing scholar before the Ordo's Quaesitorium does.
-
-4. **The Cortelúni Marriage** — Lord Vásquen proposes a marriage alliance between his eldest son and Ârnela, framing it as a reconciliation between traditional and progressive factions in Fiòrdaure. The offer is politically astute and personally revolting. Refusing outright would insult a powerful family; accepting would yoke her to a man who despises everything she has built. She needs a third option.
-
-5. **Debts of the Father** — A merchant from Harad arrives in Fiòrdaure with documents suggesting that Lord Pálthen Kórisvar borrowed heavily near the end of his life to cover losses that Ârnela never knew about. The debts were sold and resold, and the current holder wants payment — or the estate. The documents may be genuine, or they may be a forgery designed to destroy her. Either way, she must resolve the matter before her enemies learn of it.
+1. **The Compact Under Siege** — The Syndics of Belpòrte have found a legal weakness in the fishing compact and are preparing a formal challenge before the royal court. If it falls, Ârnela loses her signature achievement and the political credit built on it. She has to defend the compact while finding out who inside Fiòrdaure gave the Syndics what they needed.
+2. **The Countess's Gambit** — Countess Tárveneth asks Ârnela to champion, in public, a contentious reform — chartered rights for two more towns — knowing it will draw the traditionalists' full weight. If it carries, the reform advances and Ârnela rises. If it fails, the Countess loses nothing and Ârnela takes the whole of the damage. The question is whether the prize is worth being the Countess's sacrificial piece.
+3. **A Scholar's Disappearance** — One of the academy's most promising masters vanishes without word. He turns out to have been investigating pre-Vylarian ruins in the hills above Fiòrdaure — work that may have drawn the Ordo Arcanis's attention. Ârnela has to thread the Ordo's relationship with the Provenzian crown, and find her scholar before the Ordo's Quaesitorium does.
+4. **The Cortelúni Marriage** — Lord Vásquen proposes a match between his eldest son and Ârnela, dressed as a reconciliation between Fiòrdaure's old and new factions. Politically it is astute and personally it is revolting. Refuse outright and insult a powerful house; accept and be yoked to a man who despises everything she has built. She needs a third way.
+5. **Debts of the Father** — A merchant from Harad arrives in Fiòrdaure with papers suggesting that Lord Pálthen Kórisvar borrowed heavily near the end of his life to cover losses Ârnela never knew of. The debts have been sold and sold again, and the present holder wants payment or the estate. The papers may be real; they may be a forgery made to ruin her. Either way the matter has to be settled before her enemies hear of it.

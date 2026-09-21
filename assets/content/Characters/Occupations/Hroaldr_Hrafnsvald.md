@@ -553,54 +553,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Hróaldr Hrafnsvald is a 48-year-old man who stands 5'10" tall and is broad and solidly built. He has an angular face with defined cheekbones, a smooth forehead, and a strong jaw that leads to a broad chin. His round brown eyes sit beneath straight brows, lending him a candid gaze. A straight nose and curved lips complete his features. He has fair skin with a weathered complexion. His dark blonde hair is thick and unkempt.
+Hróaldr Hrafnsvald, 48, is a jeweller with a smith's shoulders: 5'10" and broad, solidly made. Angular face, defined cheekbones, a smooth forehead over a strong jaw and a broad chin. Round brown eyes under straight brows, a straight nose, a curved mouth that is usually saying a price. Fair skin gone weathered; thick dark blonde hair that he does not bother to keep tidy.
 
 # Dossier {#dossier}
 
-Born in the Nordheim region to a guilded family of Nordheimn heritage, Hróaldr Hrafnsvald came into the world of the jeweler through a combination of circumstance and aptitude.
+Put a stone on Hróaldr's counter and he will tell you what it is, what it is worth, and what he will give you for it, and the three numbers are never the same. Two decades in the jewellery trade of Nordheim have taught him the stones better than the people who bring them, and the negotiating better than either. He makes as well as buys — old forms and new ones, in metal and glass and set stone — and his shop draws nobles and common folk alike, the one for the work and the other for the price.
 
-Hróaldr has spent more than two decades in the jewelry trade, honing his skills in crafting both traditional and contemporary pieces. He has a reputation for his expertise in valuing gemstones and negotiating prices. Hróaldr runs a successful shop that attracts a variety of clients, from nobles to common folk. Despite his success, he enjoys mentoring young apprentices in the craft.
+The apprentices are the part he does not talk about and does not charge for. He takes them young, teaches them the bench, and keeps the good ones longer than a shrewder man would. It is the one place his eye for profit does not reach.
 
-Now at 48 years of age, Hróaldr Hrafnsvald has established himself as a known figure among the jewellers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
+His eye for profit reaches everywhere else. He is a Jewellers' Guild man of the old kind, dismissive of whatever the young are wearing this year, and the guild finds him useful in exactly that way.
 
 ## Psyche
 
 ### Personality
 
-Can be too focused on profit, sometimes dismissive of new trends.
+Too fond of a margin, and slow to believe a new fashion will last. Kinder at the bench than at the counter.
 
 ### Motivation
 
-Hróaldr is driven by the desire to master his craft and secure a stable future. The uncertainties of life in jeweler work keep him vigilant and adaptable.
+To keep the shop, the stock and the bench through whatever the trade does next, and to leave the craft in hands he trained.
 
 ### Strengths
 
-Experienced, excellent negotiator, skilled in both design and craftsmanship.
+Long experience; a hard and patient negotiator; as good at the design as at the making.
 
 ## Social
 
-Hróaldr is affiliated with Local Jewellers' Guild.
-
-As a Nordheimn jeweler, Hróaldr occupies a recognized social niche within Nordheim society.
+Hróaldr is affiliated with the Jewellers' Guild of Nordheim, where a Nordheimn craftsman of the guilded class with a full shop and a good name sits comfortably.
 
 ## Companions
 
 ### Patrons
 
-Hróaldr's primary patron is Nobles and local traders who trust his expertise.. This relationship provides both opportunity and obligation.
+The nobles and local traders who trust his valuations, and who would not dream of buying a stone elsewhere without first hearing what he thinks it is worth.
 
 ### Enemies
 
-Few; generally respected within the industry.
+Few. He is generally respected in the trade.
 
 ## Plot Hooks
 
-1. **The Jeweler's Dilemma** — Hróaldr faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
-
-2. **Old Grudges** — Few; generally respected within the industry. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-3. **Echoes of the Past** — Something from Hróaldr's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-4. **Shifting Winds** — Political changes in Nordheim threaten to upend the social order that Hróaldr depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Hróaldr the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+1. **The Stone He Knows** — A stone comes to the counter that he set himself, years ago, for a house that has not sold it. He can value it, buy it and say nothing, or ask where it came from and lose the sale and perhaps more.
+2. **Trade Grudges** — A rival in the guild, tired of losing custom to his valuations, starts saying his prices are not honest. Few believe it; the ones who do are the ones who matter.
+3. **An Apprentice Returns** — One of the young he trained and lost comes back to Nordheim with skill, money and a grievance he has never explained.
+4. **A New Order in Nordheim** — The kingdom's politics turn, the nobles who buy from him lose or gain, and the guild's charter with them. He must choose what the shop is when the customers change.
+5. **A Commission Too Large** — A commission arrives that would make his name for a generation, on terms that leave him owing more than the work is worth if the patron's fortunes turn.

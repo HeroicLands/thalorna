@@ -553,54 +553,46 @@ sohl:
 
 # Appearance {#appearance}
 
-Hallbjörn Ásgrind is a 34-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with wide-set cheekbones, a narrow forehead, and a heavy jaw that leads to a strong chin. His deep-set blue eyes sit beneath thick brows, lending him a watchful gaze. A strong nose and firm lips complete his features. He has pale skin with a rough complexion. His auburn hair is long and gathered with a leather thong. A notable feature is a web of fine scars on the knuckles.
+Hallbjörn Ásgrind is 6'1", 34, and built for walking all day. Oval face, wide-set cheekbones, a narrow forehead, a heavy jaw and a strong chin. Deep-set blue eyes under thick brows, a strong nose, a firm mouth. Pale, rough-skinned; auburn hair worn long and tied back with a leather thong. His knuckles carry a web of fine scars.
 
 # Dossier {#dossier}
 
-Born in the Nordheim region to a freeman family of Nordheimn heritage, Hallbjörn Ásgrind came into the world of the huntsman through a combination of circumstance and aptitude.
+The woods of Ashenwood Manor are Hallbjörn's to keep. He is head huntsman to Lord Gwendolyn, and the work is mostly counting, not killing: knowing what game is on the lord's ground, what can be taken this year and what must be left to breed, where the deer are lying and which of the tenants has been setting snares. He tracks the way other men read. When the lord feasts, Hallbjörn leads the hunt that fills the table, and the hunt goes where he says.
 
-Hallbjörn serves as the head huntsman for Lord Gwendolyn of Ashenwood Manor. He is responsible for managing the lord's hunting grounds and ensuring that the game population is maintained sustainably. Hallbjörn has a keen eye for tracking and a deep knowledge of the local wildlife. His loyalty to the lord is unwavering, and he is often called upon to lead hunting parties during the lord's feasts.
-
-Now at 34 years of age, Hallbjörn Ásgrind has established himself as a known figure among the huntsmans of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
+His loyalty to Lord Gwendolyn does not waver, and it does not need saying; it is in the state of the woods. He speaks easily to the hunting party and to almost nobody else, and he takes a long time to decide anything that can be got wrong.
 
 ## Psyche
 
 ### Personality
 
-Can be overly cautious, struggles to communicate with those outside the hunting party.
+Cautious to a fault. Fluent with the men of the hunt, tongue-tied outside it.
 
 ### Motivation
 
-Hallbjörn is driven by the desire to master his craft and secure a stable future. The uncertainties of life in huntsman work keep him vigilant and adaptable.
+To keep the woods full and the lord's table full, in that order, for as long as his legs hold.
 
 ### Strengths
 
-Excellent tracker, knowledgeable about local fauna, strong leadership skills.
+An excellent tracker; knows the beasts of the district; leads a hunting party well.
 
 ## Social
 
-Hallbjörn is affiliated with Lord Gwendolyn’s retinue.
-
-As a Nordheimn huntsman, Hallbjörn occupies a recognized social niche within Nordheim society.
+Hallbjörn belongs to Lord Gwendolyn's retinue, a Nordheimn freeman with a place at the manor that his craft earned.
 
 ## Companions
 
 ### Patrons
 
-Hallbjörn's primary patron is Lord Gwendolyn and other members of the manor's household.. This relationship provides both opportunity and obligation.
+Lord Gwendolyn and the household of the manor.
 
 ### Enemies
 
-None; respected by the local community.
+None. The local community respects him.
 
 ## Plot Hooks
 
-1. **The Huntsman's Dilemma** — Hallbjörn faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
-
-2. **Old Grudges** — None; respected by the local community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-3. **Echoes of the Past** — Something from Hallbjörn's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-4. **Shifting Winds** — Political changes in Nordheim threaten to upend the social order that Hallbjörn depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Hallbjörn the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+1. **The Lord's Feast** — Lord Gwendolyn wants a hunt the woods cannot spare this year. Hallbjörn can give it and empty the ground for a decade, or refuse and find out what his loyalty is worth.
+2. **Snares** — Somebody is taking the manor's game, and the tracks lead to a tenant the household cannot afford to lose.
+3. **The Scars** — A man who knew Hallbjörn before the manor, and knows how his knuckles came to be scarred, arrives at Ashenwood asking for him.
+4. **A New Lord in Nordheim** — The kingdom's quarrels reach the manor and the lordship of Ashenwood is in question; a huntsman whose whole standing is one lord's has to decide whom the woods belong to.
+5. **The King's Forest** — He is offered the keeping of a greater forest than Ashenwood's, at a price he does not at first see: it belongs to someone who wants Lord Gwendolyn's woods next.

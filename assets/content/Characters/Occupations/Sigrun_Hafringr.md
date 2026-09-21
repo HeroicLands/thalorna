@@ -530,52 +530,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Sigrún stands 5'11" with a heavy, broad-shouldered build that would not look out of place on a blacksmith's apprentice. Her black hair is thick and wiry, pulled back in a tight knot that keeps it from her face during patrols. Her dark amber eyes are fierce and direct in a dark-skinned, ruddy face that flushes darker still when her temper rises, which is not infrequently. Her features are strong and blunt: a wide jaw, a flat nose, a mouth that sets into a hard line when she is displeased. A burn mark on her left wrist — a crescent of shiny, puckered skin — is the result of a forge accident in her youth, before she left her family's smithy for the watch. She wears a mail shirt over quilted padding, leather gauntlets, and heavy boots, and carries a mace at her hip with the casual grip of someone who has used it.
+Sigrún stands 5'11" with a heavy, broad-shouldered build that would not look out of place on a blacksmith's apprentice. Her black hair is thick and wiry, pulled back in a tight knot that keeps it out of her face on patrol. Her dark amber eyes are fierce and direct in a dark-skinned, ruddy face that flushes darker still when her temper rises, which is not seldom. Her features are strong and blunt: a wide jaw, a flat nose, a mouth that sets hard when she is displeased. A burn mark on her left wrist — a crescent of shiny, puckered skin — is what the warehouse fire left her. She wears a mail shirt over quilted padding, leather gauntlets and heavy boots, and carries a mace at her hip with the easy grip of someone who has used it.
 
 # Dossier {#dossier}
 
-Sigrún was born in a working-class Aelwythan community where her family operated a small weaving business. She grew up in relative poverty but with genuine community connection. At sixteen, her family's business failed due to competition from larger operations, and her parents fell into debt. At eighteen, Sigrún joined the market square guard partially for employment and partially for reasons she would not articulate clearly: a need to protect her community from the kind of predatory economics that destroyed her family.
+When the warehouse in the market district burned, Sigrún was on patrol nearby, heard a child screaming inside, and went in without deciding to. She was twenty-six. She brought the child out and the fire took the skin of her wrist for it; the scar is thick and hurts on cold mornings. The market district has treated her as its guardian since, and it is not wrong to, though the story misleads a little. Sigrún is careful and methodical in her work. What she will not do is leave anyone in danger, even when leaving them would be the wise thing.
 
-At twenty-six, during a fire that consumed a warehouse in the market district, Sigrún was on patrol nearby. She heard a child screaming from the building and without conscious decision, she ran in. She rescued the child but was severely burned on her wrist in the process. The scar tissue there is substantial and painful on cold mornings. The incident made her locally famous and elevated her status from ordinary guard to community guardian.
+Sigrún was born into a working-class Aelwythan community where her family ran a small weaving business. They were poor and they were part of something. When she was sixteen the business failed against larger operations and her parents went into debt, and at eighteen she joined the market square guard — for the wage, and for a reason she would not have put into words: to keep her community from the kind of predatory trade that had broken her family.
 
-Now at thirty-one, she serves as market square guard with the reputation of someone who will rush into burning buildings for her community. This reputation is accurate but also somewhat misleading; Sigrún is methodical and careful in her actual work. She simply refuses to abandon people who are in danger, even when doing so would be professionally wise.
+Now, at thirty-one, she is the market square guard with the reputation of a woman who will run into a burning building, and she is one; and she is also the one who knows every stall-holder by name and which of them is behind on a debt to whom.
 
 ## Psyche
 
 ### Personality
 
-Sigrún is fierce and protective, moving through the market with the bearing of someone who owns the space. She speaks loudly and confidently, and has little patience for people who exploit the vulnerable. She is not cruel but she is not gentle to those she perceives as predatory. She has a fierce sense of humor and is capable of genuine warmth with people she respects. She carries herself with aggressive confidence that makes most people instinctively defer to her.
+Fierce and protective, and she moves through the market as if she owned it. She speaks loudly and with confidence, and has little patience for anyone who preys on the weak. Not cruel, but not gentle with people she has decided are predators. She has a fierce sense of humour and a real warmth for people she respects, and a swagger that makes most people step aside before they have thought about it.
 
 ### Motivation
 
-Sigrún's primary motivation is protecting her community—literally and figuratively. She wants the market square to be a safe place for working people and explicitly distrusts merchants and authorities who treat the poor as disposable. Her secondary motivation is preventing the kind of economic exploitation that destroyed her family. She is driven by both love for her community and anger at systems that prey upon it.
+To protect her community, in the plainest sense. She wants the market square safe for working people, and she distrusts on principle the merchants and officials who treat the poor as disposable. Under that is the family's failure: she means to stop the kind of exploitation that caused it, and she is driven by love for the square and anger at what feeds on it in about equal measure.
 
 ### Strengths
 
-Her physical strength and capability are exceptional. She is genuinely fearless in the face of danger to others. She has sophisticated understanding of community dynamics and can read social situations accurately. Her willingness to personally intervene in dangerous situations makes her extraordinarily effective as a protective force.
+Very strong and very capable. Fearless where someone else is in danger. She reads the square — who is frightened, who is lying, which quarrel is about to turn — accurately, and her readiness to put herself between people and harm makes her a protective force out of proportion to one guard.
 
 ## Social
 
-Sigrún is beloved by the working-class community of the market square and deeply trusted by merchants of moderate means. She is distrusted and avoided by wealthy merchants who she has opposed, and treated with careful respect by city authorities who recognize her community support.
+Sigrún is loved by the working people of the market square and trusted by the merchants of modest means. She is distrusted and avoided by the rich merchants she has stood against, and handled carefully by city authorities who know how much of the square is behind her.
 
 ## Companions
 
 ### Patrons
 
-**Market Master Elyric Thornwell** — The administrator responsible for market square operations. Elyric is a fair-minded merchant himself who respects Sigrún's commitment to community protection. He has supported her and ensured that her authority is recognized and backed by institutional power.
+**Market Master Elyric Thornwell** — The administrator responsible for the running of the market square. Elyric is a fair-minded merchant himself and respects what Sigrún does for the community; he has backed her, and seen to it that her authority is recognised and has the weight of his office behind it.
 
 ### Enemies
 
-**Merchant Magnate Verath Coldstone** — A wealthy merchant who has been systematically buying up small businesses in the market district and consolidating them under his control. Sigrún recognizes this process as similar to what destroyed her family and has actively opposed him. Verath views her as an obstacle and is working to have her reassigned or dismissed from the market square.
+**Merchant Magnate Verath Coldstone** — A rich merchant who has been buying up the small businesses of the market district and gathering them under his own hand. Sigrún knows the shape of it from her own family's ruin and has opposed him openly. Verath regards her as an obstacle and is working to have her reassigned or dismissed from the square.
 
 ## Plot Hooks
 
-1. **The Corporate Takeover** — Merchant Magnate Verath accelerates his acquisition of market businesses and Sigrún realizes his plan is to eliminate independent merchants entirely and monopolize the market under his control. He is using technically legal financial mechanisms to do so. Sigrún can see it happening but can barely stop any individual transaction. She attempts to warn merchants, but many are desperate enough to accept Verath's buyout offers. Sigrún considers more aggressive interference but that would exceed her authority. She must choose between accepting the takeover or taking extra-legal action to prevent it.
-
-2. **The Guard Station Politics** — Sigrún is reassigned to a different patrol area by a new commanding officer who is politically connected to Merchant Magnate Verath. The removal is officially justified by rotation policy but everyone recognizes it as punishment for her opposition to Verath. Sigrún is devastated by the separation from her community. She can accept the reassignment quietly or openly challenge it, knowing that confrontation will damage her career.
-
-3. **The Innocent Arrest** — A young person from the working-class community, someone Sigrún has mentored, is accused of stealing from a wealthy merchant. The evidence appears strong but Sigrún knows the young person and is convinced of his innocence. Investigation reveals that Merchant Magnate Verath planted false evidence to discredit and arrest the young person as retaliation against Sigrún's opposition. Sigrún must decide whether to publicly expose Verath's corruption (which would require revealing how she knows about the false evidence, which means admitting she tampered with the official investigation) or allow an innocent person to be convicted.
-
-4. **The Fire Again** — Another fire breaks out in the market district, this time in a building that Sigrún recognizes as recently purchased by Verath. Evidence suggests it was deliberately set to destroy the previous leaseholder's inventory and force them into financial failure. Sigrún can see the fire and knows people are inside. She must choose between rushing in to rescue people (which has already burned her once and could kill her) or maintaining professional distance and reporting it properly.
-
-5. **The Community's Betrayal** — Sigrún discovers that someone in her community—someone she trusts—has been secretly working with Merchant Magnate Verath, feeding him information about which merchants are vulnerable to takeover. The betrayal is personal and painful. The person involved claims they had no choice because Verath had leverage over them (debt, family threats, something). Sigrún must decide whether to expose the betrayal (which punishes the person) or protect them (which allows Verath to continue exploiting the community).
+1. **The Corporate Takeover** — Verath speeds up his buying, and Sigrún sees where it ends: no independent merchants at all, and the whole market under him. Every step of it is lawful on paper. She can see it happening and can barely block a single sale; she warns the merchants, and many are desperate enough to take his money anyway. Stopping it would mean stepping past her authority. Accept the takeover, or act outside the law to prevent it.
+2. **The Guard Station Politics** — A new commanding officer with ties to Verath moves Sigrún to another patrol. Officially it is rotation; everyone knows it is punishment. She is cut off from her community and devastated by it. Take the reassignment quietly, or fight it openly and know what that does to her future in the guard.
+3. **The Innocent Arrest** — A young man from the working-class quarter, someone Sigrún has taught and looked after, is accused of stealing from a rich merchant. The evidence looks strong; she knows him and is sure of his innocence. What she finds is that Verath planted the evidence to discredit and jail the boy as payback for her opposition — and to prove it she would have to admit how she knows, which means admitting she tampered with the official inquiry. Expose Verath and herself, or let an innocent be convicted.
+4. **The Fire Again** — Another fire in the market district, this time in a building Sigrún knows Verath bought recently, and the signs say it was set to destroy the last tenant's stock and finish him. She can see the fire and knows there are people inside. Go in — it has burned her once and could kill her this time — or hold back, report it properly, and live with what that costs.
+5. **The Community's Betrayal** — Sigrún discovers that someone she trusts in the community has been quietly working for Verath, telling him which merchants are weak enough to buy. It is a personal wound. The person says there was no choice — Verath had something over them, a debt, a family, a threat. Expose the betrayal and punish them, or shield them and let Verath go on feeding.

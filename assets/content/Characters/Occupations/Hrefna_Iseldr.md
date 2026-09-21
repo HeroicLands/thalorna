@@ -554,54 +554,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Hrefna Íseldr is a 34-year-old woman who stands 5'10" tall and is of moderate build. She has an oval face with sharp cheekbones, a wide forehead, and a square jaw that leads to a strong chin. Her bright hazel eyes sit beneath straight brows, lending her a lively gaze. A broad nose and firm lips complete her features. She has pale skin with a pale complexion. Her dark blonde hair is plaited in a single thick braid.
+At 34 Hrefna Íseldr stands 5'10" and swings an axe all day without thinking about it. Oval face, sharp cheekbones, a wide forehead, a square jaw and a strong chin. Bright hazel eyes under straight brows, a broad nose, a firm mouth. Her skin is pale and stays pale under a summer of sun. Dark blonde hair in one thick plait down her back.
 
 # Dossier {#dossier}
 
-Born in the Nordheim region to a freeman family of Nordheimn heritage, Hrefna Íseldr came into the world of the woodcutter through a combination of circumstance and aptitude.
+Hrefna's brothers cut the trees and Hrefna chooses them. That is the division the family has come to, and it took her brothers some years to come to it. She grew up in the woodcutters' trade — her father's, her brothers' — and took to it as a child takes to a language. She can walk a stand of timber in Nordheim and say which trunks will split clean and which will fight the saw, and she can find a road through dense forest to the good trees and back with the load.
 
-Hrefna grew up in a family of woodcutters and took to the trade naturally. She is known for her efficiency and ability to navigate dense forests to find the best trees for cutting. Hrefna works alongside her brothers, who have come to respect her skills and knowledge of the craft. Despite the physical demands of the job, she enjoys the work and finds a sense of freedom in the forest.
+The work is hard on the body and she likes it. She likes the forest better than the village, and says so; there is a freedom in it she has not found anywhere else. She will keep swinging after her brothers have stopped, and she will not hear it when they tell her to.
 
-Now at 34 years of age, Hrefna Íseldr has established herself as a known figure among the woodcutters of Nordheim. Her reputation, for better or worse, precedes her in the circles where such things matter.
+The Woodcutters' Guild has her name. The builders and furniture makers who buy her timber know it too.
 
 ## Psyche
 
 ### Personality
 
-Sometimes overexerts herself, can be stubborn about taking advice.
+Works past what her body wants and is stubborn about advice, her brothers' most of all.
 
 ### Motivation
 
-Hrefna is driven by the desire to master her craft and secure a stable future. The uncertainties of life in woodcutter work keep her vigilant and adaptable.
+To stay in the forest, on her own account, with her own crew.
 
 ### Strengths
 
-Skilled in felling trees, efficient worker, knowledgeable about forest navigation.
+Skilled at felling; wastes nothing; knows the forest well enough to find her way in it in the dark.
 
 ## Social
 
-Hrefna is affiliated with Woodcutters' Guild.
-
-As a Nordheimn woodcutter, Hrefna occupies a recognized social niche within Nordheim society.
+Hrefna is a member of the Woodcutters' Guild and a Nordheimn freeman's daughter, which on this side of the trade is all the standing a good axe needs.
 
 ## Companions
 
 ### Patrons
 
-Hrefna's primary patron is Local builders and furniture makers.. This relationship provides both opportunity and obligation.
+The local builders and furniture makers who buy her wood and trust her to have chosen it.
 
 ### Enemies
 
-Few, though some older woodcutters were initially skeptical of her abilities.
+Few, though some of the older woodcutters doubted her at first.
 
 ## Plot Hooks
 
-1. **The Woodcutter's Dilemma** — Hrefna faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Nordheim.
-
-2. **Old Grudges** — Few, though some older woodcutters were initially skeptical of her abilities. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-3. **Echoes of the Past** — Something from Hrefna's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-4. **Shifting Winds** — Political changes in Nordheim threaten to upend the social order that Hrefna depends upon. She must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Hrefna the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+1. **The Wrong Trees** — A builder who pays well wants timber from a stand the guild has marked for leaving, and her brothers want the money.
+2. **The Old Cutters** — The older woodcutters who doubted her find their doubt useful when a load she chose fails in a house, and say so to the guild.
+3. **The Forest's Debt** — Something she found in the deep forest years ago and told nobody about is found by someone else.
+4. **The Crown's Timber** — Nordheim's politics reach the forest — a new lord, a new charter for the guild — and a woman who wants only to stay in the woods has to decide whether to bend, resist, or move on.
+5. **Her Own Crew** — A furniture maker offers to set her up with a gang of her own, away from her brothers, on terms that bind her to his orders alone.
