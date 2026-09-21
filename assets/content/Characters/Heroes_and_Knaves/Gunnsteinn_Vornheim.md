@@ -579,7 +579,7 @@ sohl:
 
 ![[gnstnvrnhm|Gunnsteinn Vörnheim]]{float: top-left}
 
-Gunnsteinn stands 6'2" tall with a heavy build. He has tanned weathered skin, dark brown hair, and blue eyes. His features include a narrow face, an aquiline nose, a broad chin, a slightly downturned mouth, dark brows. A distinguishing mark is a scar on the right forearm.
+Gunnsteinn stands 6'2" tall with a heavy build. He has tanned weathered skin, dark brown hair, and blue eyes. His features include a narrow face, an aquiline nose, a broad chin, a slightly downturned mouth, and dark brows. He has a scar on his right forearm.
 
 # Dossier {#dossier}
 
@@ -587,11 +587,11 @@ Gunnsteinn stands 6'2" tall with a heavy build. He has tanned weathered skin, da
 
 ### The Warrior's Birth
 
-Gunnsteinn was born the third son of **Ragnar Vörnheim**, a minor jarl of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], into a world where strength and sword-skill determined a man's worth. As third son, he held no claim to his father's modest holdings—those belonged to his elder brother—and so was raised from his eleventh year as a warrior-for-hire, sent to train under the legendary sword-master **Kael Ironhand** in the fortress-barracks of Greystones. The training was brutal, designed to strip away softness and replace it with reflexive violence. By his sixteenth year, Gunnsteinn had drawn blood in earnest, fighting in border skirmishes against Vithgard's eternal rivals. By his twentieth, he had earned a fearsome reputation as a man who did not fall, did not yield, and did not ask questions of those who employed him.
+Gunnsteinn was born the third son of **Ragnar Vörnheim**, a minor jarl of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], into a world where strength and sword-skill determined a man's worth. As third son, he held no claim to his father's modest holdings—those belonged to his elder brother—and so was raised from his eleventh year as a warrior-for-hire, sent to train under the famous sword-master **Kael Ironhand** in the fortress-barracks of Greystones. The training was brutal, designed to strip away softness and replace it with reflexive violence. By his sixteenth year, Gunnsteinn had drawn blood in earnest, fighting in border skirmishes against Vithgard's eternal rivals. By his twentieth, he had earned a fearsome reputation as a man who did not fall, did not yield, and did not ask questions of those who employed him.
 
 ### The Years of Iron
 
-For fifteen years, Gunnsteinn hired himself out as a bodyguard, mercenary, and enforcer to the merchant houses, minor lords, and wealthy traders of Vithgard's primary settlements. He took wounds that would have killed lesser men—the forearm scar came during a siege at **Port Vethmark**, when a rival's blade nearly separated hand from wrist; only his legendary pain tolerance and a swift healer's intervention preserved his sword-arm. He earned a reputation for absolute loyalty to his employers, unwavering courage, and a peculiar honor: he would not kill those incapable of defending themselves, and would not raise his hand against women or children under any contract. Such scruples cost him lucrative work, but they were the only lines he would not cross.
+For fifteen years, Gunnsteinn hired himself out as a bodyguard, mercenary, and enforcer to the merchant houses, minor lords, and wealthy traders of Vithgard's primary settlements. He took wounds that would have killed lesser men—the forearm scar came during a siege at **Port Vethmark**, when a rival's blade nearly separated hand from wrist; only his great tolerance of pain and a swift healer's intervention preserved his sword-arm. He earned a reputation for absolute loyalty to his employers, steady courage, and a peculiar honor: he would not kill those incapable of defending themselves, and would not raise his hand against women or children under any contract. Such scruples cost him lucrative work, but they were the only lines he would not cross.
 
 ### Present Circumstances
 
@@ -601,11 +601,11 @@ At thirty-five years old, Gunnsteinn's body has begun to slow, though impercepti
 
 ### Personality
 
-Gunnsteinn is a man of action rather than philosophy, of direct speech rather than careful diplomacy. In social settings, his discomfort is palpable; he tends toward monosyllabic responses, averts his gaze from those of higher social standing, and fidgets with his weapons as though uncertain what to do with his massive hands when they are not engaged in combat. Yet this apparent simplicity masks a tactical mind of genuine sophistication. He plays strategy games with unexpected depth, understands complex military positions that many officers struggle to grasp, and possesses an uncanny ability to read an opponent's intent before they act.
+Gunnsteinn is a man of action rather than philosophy, of direct speech rather than careful diplomacy. In social settings, his discomfort is plain; he tends toward monosyllabic responses, averts his gaze from those of higher social standing, and fidgets with his weapons as though uncertain what to do with his massive hands when they are not engaged in combat. Yet this apparent simplicity masks a subtle tactical mind. He plays strategy games with unexpected depth, understands complex military positions that many officers struggle to grasp, and possesses an uncanny ability to read an opponent's intent before they act.
 
-His manner with those he respects—which is rare—becomes almost gentle. He takes genuine care with the safety of those under his protection, often positioning himself to absorb harm before it can reach his charges. With his peers in the mercenary world, he is collegial but distant, aware that friendship and contract work often conflict. The few men he considers true friends receive absolute loyalty and the gift of his honest counsel, though he rarely volunteers words unless solicited.
+His manner with those he respects—which is rare—becomes almost gentle. He takes real care with the safety of those under his protection, often positioning himself to absorb harm before it can reach his charges. With his peers in the mercenary world, he is collegial but distant, aware that friendship and contract work often conflict. The few men he considers true friends receive absolute loyalty and the gift of his honest counsel, though he rarely volunteers words unless solicited.
 
-Beneath the warrior's exterior lies a man surprisingly troubled by his life's work. The accumulation of blood on his hands weighs upon him, though he would never admit it aloud. He has begun to drink more heavily in recent years, a sign of inward struggle masked behind his stoic facade.
+The warrior's exterior covers a man surprisingly troubled by his life's work. The accumulation of blood on his hands weighs upon him, though he would never admit it aloud. He has begun to drink more heavily in recent years, a sign of inward struggle masked behind his stoic facade.
 
 ### Motivation
 
@@ -614,16 +614,16 @@ Gunnsteinn seeks primarily the satisfaction of doing his work well—to earn fai
 ### Strengths
 
 - **Overwhelming Strength**: Possesses supernatural levels of physical power; can wield weapons and armor that would cripple normal men and accomplish feats of raw force that seem impossible
-- **Combat Mastery**: Decades of professional warfare have created a warrior of legendary skill in hand-to-hand combat, melee weapons, and tactical positioning
+- **Combat Mastery**: Decades of warfare for pay have created a warrior of great skill in hand-to-hand combat, melee weapons, and tactical positioning
 - **Unwavering Courage**: Demonstrates almost unnatural resistance to fear; will stand firm in the face of overwhelming odds where lesser men would flee
 - **Protective Loyalty**: Once hired, will shield his charge from harm with his own body, positioning himself between danger and those he defends
-- **Tactical Acumen**: Despite outward simplicity, possesses genuine strategic knowledge and can recognize military advantages and disadvantages with impressive speed
+- **Tactical Acumen**: Despite outward simplicity, possesses real knowledge of strategy and can recognize military advantages and disadvantages with impressive speed
 
 ### Weaknesses
 
 - **Poor Communication**: Struggles with negotiation, diplomacy, and articulating complex ideas; easily outmaneuvered in social or political settings by more eloquent opponents
 - **Excessive Aggression**: Tends toward violent solutions first, and sometimes fails to recognize non-violent alternatives that might serve better
-- **Social Discomfort**: Profoundly ill at ease in courtly or refined settings; his presence often causes tension and his behavior can be misinterpreted as hostility
+- **Social Discomfort**: Deeply ill at ease in courtly or refined settings; his presence often causes tension and his behavior can be misinterpreted as hostility
 - **Moral Exhaustion**: The weight of accumulated bloodshed burdens him in ways he struggles to manage; turning increasingly to alcohol to suppress darker thoughts
 - **Inflexible Contracts**: Once committed to a contract, will not deviate from its terms even if circumstances suggest adaptation would serve all parties better; views honor as absolute adherence
 
@@ -633,7 +633,7 @@ Gunnsteinn seeks primarily the satisfaction of doing his work well—to earn fai
 
 - **Lord Henrick Thorne**: A merchant prince of considerable wealth who has employed Gunnsteinn multiple times for extended contracts, though their current relationship is strained due to personal complications
 - **The Vithgard Mercenaries Guild**: Though not formally a member by choice, the Guild regularly contracts his services for their most dangerous work and provides steady flow of employment
-- **High Priestess Ellara of the Asgardian Temple**: Spiritual authority who has occasionally hired him for sacred protection duties and who views him as a man of genuine, if conflicted, faith
+- **High Priestess Ellara of the Asgardian Temple**: Spiritual authority who has occasionally hired him for sacred protection duties and who views him as a man of real, if conflicted, faith
 
 ### Enemies
 
@@ -648,7 +648,7 @@ Gunnsteinn seeks primarily the satisfaction of doing his work well—to earn fai
 
 ## Plot Hooks
 
-1. **The Ghost of Greystones**: A young warrior appears in Vithgard's settlements claiming to be Gunnsteinn's lost brother—the brother he watched die during their training under **Kael Ironhand** nearly twenty years past. The appearance is uncanny; the man bears the exact same mark on his left shoulder that Gunnsteinn's brother possessed. Yet investigation reveals the man has no history before three years ago. Gunnsteinn becomes obsessed with discovering whether this is a resurrection, an imposter, or a curse, and finds his legendary focus fragmenting as the question consumes him.
+1. **The Ghost of Greystones**: A young warrior appears in Vithgard's settlements claiming to be Gunnsteinn's lost brother—the brother he watched die during their training under **Kael Ironhand** nearly twenty years past. The appearance is uncanny; the man bears the exact same mark on his left shoulder that Gunnsteinn's brother possessed. Yet investigation reveals the man has no history before three years ago. Gunnsteinn becomes obsessed with discovering whether this is a resurrection, an imposter, or a curse, and finds his famous focus fragmenting as the question consumes him.
 
 2. **The Sacred Blade Contract**: The High Priestess **Ellara** approaches Gunnsteinn with a contract unlike any he has accepted before—to retrieve a holy artifact, the Blade of First Creation, stolen from the Asgardian Temple by mysterious raiders. The priestess confides that only Gunnsteinn possesses both the skill and the spiritual standing to bear the blade without corruption. Yet the trail leads him toward a revelation about his past that will shatter his understanding of his training under Kael Ironhand and force him to reconcile the mentor he revered with a terrible historical truth.
 
@@ -656,4 +656,4 @@ Gunnsteinn seeks primarily the satisfaction of doing his work well—to earn fai
 
 4. **The Curse of the Crimson Ravens**: The Crimson Ravens, Gunnsteinn's rivals, appear to be murdering their way through Vithgard's warrior community in a pattern that traces directly toward him. One by one, warriors he fought alongside, trained with, or competed against fall dead under mysterious circumstances. Each death appears to carry a mark linking the Crimson Ravens as perpetrators, yet no evidence directly implicates them. Gunnsteinn must uncover whether he is being deliberately targeted, whether someone else is framing the Ravens, or whether a darker force is at work hunting warriors connected to him.
 
-5. **The Path to Redemption**: An elderly healer and philosopher named **Magister Aldous** offers Gunnsteinn something he has come to desperately crave—a path to spiritual redemption. Aldous claims to train broken warriors in methods of meditation and honor that can absolve them of the spiritual stain of accumulated killing. But Gunnsteinn's past includes a deed of such darkness (which he has never disclosed to anyone) that he fears no spiritual discipline can wash it away. He must choose between continuing to deny the deed existed, seeking to have it forgiven, or discovering that some acts cannot be absolved and must instead be borne as eternal weight.
+5. **The Path to Redemption**: An elderly healer and philosopher named **Magister Aldous** offers Gunnsteinn something he has come to desperately crave—a path to spiritual redemption. Aldous claims to train broken warriors in methods of meditation and honor that can absolve them of the spiritual stain of accumulated killing. But Gunnsteinn's past includes a deed of such darkness (which he has never disclosed to anyone) that he fears no spiritual discipline can wash it away. He can continue to deny the deed existed, seek to have it forgiven, or discover that some acts cannot be absolved and must be borne.

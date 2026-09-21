@@ -591,7 +591,7 @@ sohl:
 
 ![[timthngvls|Timothéon Gaválas]]{float: top-left}
 
-Timothéon stands 5'11" tall with a medium build. He has light ruddy skin, gray hair, and olive-green eyes. His features include a long face, a strong nose, a strong jawline, a wide mouth, strong brows.
+Timothéon stands 5'11" tall with a medium build. He has light ruddy skin, gray hair, and olive-green eyes. His features include a long face, a strong nose, a strong jawline, a wide mouth, and strong brows.
 
 # Dossier {#dossier}
 
@@ -599,37 +599,37 @@ Timothéon stands 5'11" tall with a medium build. He has light ruddy skin, gray 
 
 ### Early Years
 
-Born in 669 on the winter solstice, Timothéon was raised in the bustling port settlements of the [[affiliation-byzarianlg|Byzarian League]], the son of a minor merchant family with deep roots in the trading guilds. From his youth, he showed an uncommon affinity with beasts and an intuitive sense for navigation, talents he cultivated under the watchful eye of his father and the grizzled veterans of the merchant caravans. By his teens, Timothéon had already embarked on his first trade runs, learning the intricate choreography of managing teams of draft animals and coordinating the logistical complexity of long-distance commerce.
+Born in 669 on the winter solstice, Timothéon was raised in the busy port settlements of the [[affiliation-byzarianlg|Byzarian League]], the son of a minor merchant family with deep roots in the trading guilds. From his youth, he showed an uncommon affinity with beasts and an intuitive sense for navigation, talents he cultivated under the watchful eye of his father and the grizzled veterans of the merchant caravans. By his teens, Timothéon had already embarked on his first trade runs, learning to manage teams of draft animals and to supply a long-distance caravan.
 
 ### Mastery and Reputation
 
-For the past three decades, Timothéon has built an unparalleled reputation as the Byzarian League's most dependable teamster. His mastery extends far beyond mere animal husbandry—he is a skilled craftsman capable of fabricating repairs under field conditions, an intuitive navigator who reads landscape and weather with uncanny accuracy, and a seasoned diplomat equally comfortable negotiating with merchants and settling disputes among fractious crew members. His workshops are marvels of practical engineering, and his maintenance practices have become legendary among those who travel the merchant roads.
+For the past three decades, Timothéon has built a reputation as the Byzarian League's most dependable teamster. His mastery extends far beyond mere animal husbandry—he is a skilled craftsman capable of fabricating repairs under field conditions, an intuitive navigator who reads landscape and weather with uncanny accuracy, and a seasoned diplomat equally comfortable negotiating with merchants and settling disputes among fractious crew members. His workshops are marvels of practical engineering, and his maintenance practices are famous among those who travel the merchant roads.
 
 ### Current Station
 
-Now in his twilight years, Timothéon remains active but increasingly conscious of his diminishing stamina. He has begun mentoring younger teamsters in the Guild, sharing his vast accumulated knowledge while still taking on selective contracts from his most established patrons—merchants who have trusted him for decades and refuse to hire anyone but Timothéon for their most critical shipments. The walking stick he carries is both practical necessity and badge of earned authority; carved from hardwood and polished to a gleam, it serves as much as a symbol of his station as it does a functional aid.
+Now in his twilight years, Timothéon remains active but increasingly conscious of his diminishing stamina. He has begun mentoring younger teamsters in the Guild, sharing his vast accumulated knowledge while still taking on selective contracts from his most established patrons—merchants who have trusted him for decades and refuse to hire anyone but Timothéon for their most critical shipments. The walking stick he carries is both practical necessity and badge of earned authority; carved from hardwood and polished to a gleam, it is as much a symbol of his station as a functional aid.
 
 ## Psyche
 
 ### Personality
 
-Timothéon possesses the weathered wisdom of someone who has solved a thousand problems and learned to anticipate a thousand more. He is measured in speech, preferring to listen and observe before offering his thoughts, yet when he speaks it is with the authority of genuine expertise. His humor runs dry and practical, seasoned with the kind of hard-won irony that comes from decades of weathering misfortune and triumph in equal measure. Despite his advancing age, he maintains a keen eye for human nature and an almost paternal patience with younger folk, though he has little tolerance for foolishness or dishonesty. His deep faith in [[lore-janusdty|Jánus]], god of order and boundaries, manifests in his meticulous organization and his belief in maintaining proper protocols—be they the maintenance schedules for wagon wheels or the proper hierarchy of respect among traveling companions.
+Timothéon possesses the weathered wisdom of someone who has solved a thousand problems and learned to anticipate a thousand more. He is measured in speech, preferring to listen and observe before offering his thoughts, yet when he speaks it is with the authority of long experience. His humor runs dry and practical, seasoned with the kind of hard-won irony that comes from decades of weathering misfortune and triumph alike. Despite his advancing age, he maintains a sharp eye for human nature and an almost paternal patience with younger folk, though he has little tolerance for foolishness or dishonesty. His deep faith in [[lore-janusdty|Jánus]], god of order and boundaries, manifests in his careful organization and his belief in doing things in their proper order—be they the maintenance schedules for wagon wheels or the proper hierarchy of respect among traveling companions.
 
-He is a creature of ritual and habit, finding comfort in routine and excellence, yet paradoxically adapts with impressive flexibility when circumstances demand improvisation. Those who know him well understand that beneath his gruff exterior beats a genuinely kind heart; he has quietly arranged aid for struggling teamsters and their families, and his regular patronage of the Cooks Guild has made him a beloved figure among those who provision the traveling merchants.
+He is a creature of ritual and habit, finding comfort in routine and excellence, yet paradoxically adapts with impressive flexibility when circumstances demand improvisation. Those who know him well understand that beneath his gruff exterior beats a kind heart; he has quietly arranged aid for struggling teamsters and their families, and his regular patronage of the Cooks Guild has made him a beloved figure among those who provision the traveling merchants.
 
 ### Motivation
 
-Timothéon is driven by a profound commitment to excellence and the preservation of knowledge. Every journey completed safely, every crew brought home unharmed, every inexperienced teamster trained in the proper arts—these are the measures of a life well-lived in his estimation. He is motivated also by a deep sense of obligation to the Byzarian League and its merchant traditions; he sees in his work not mere commerce but the lifeblood of civilization itself, the precious goods and ideas that bind distant peoples together. As he enters his final active years, he is increasingly focused on leaving behind a legacy—mentoring the next generation of teamsters who will carry forward the standards of excellence he has fought to maintain throughout his career.
+Timothéon is driven by a deep commitment to excellence and the preservation of knowledge. Every journey completed safely, every crew brought home unharmed, every inexperienced teamster trained in the proper arts—these are the measures of a life well-lived in his estimation. He is motivated also by obligation to the Byzarian League and its merchant traditions; he sees in his work the lifeblood of civilization, the precious goods and ideas that bind distant peoples together. As he enters his final active years, he is increasingly focused on leaving behind a legacy—mentoring the next generation of teamsters who will carry forward the standards of excellence he has fought to maintain throughout his working life.
 
 ### Strengths
 
-- **Master Navigator**: Possesses an uncanny ability to read maps, weather patterns, and terrain, able to find optimal routes through nearly any landscape and predict dangers with remarkable accuracy.
+- **Master Navigator**: Possesses an uncanny ability to read maps, weather patterns, and terrain, able to find the best routes through nearly any landscape and predict dangers with great accuracy.
 
 - **Skilled Craftsperson**: Expert in the repair and maintenance of wagons, harnesses, tools, and equipment—capable of fabricating functional solutions under field conditions that would normally require a proper workshop.
 
 - **Exemplary Animal Handler**: Unusually gifted with draft animals; his herds consistently outperform others', and animals respond to his commands with alacrity despite his advancing years.
 
-- **Seasoned Diplomat**: Years of negotiating with merchants, settling disputes, and managing relationships have given him an intuitive grasp of human nature and remarkable ability to navigate complex interpersonal dynamics.
+- **Seasoned Diplomat**: Years of negotiating with merchants, settling disputes, and managing relationships have given him an intuitive grasp of human nature and a sure hand with quarrelsome people.
 
 - **Practical Knowledge**: Possesses encyclopedic understanding of trade routes, merchant practices, local customs, and the peculiarities of goods management across diverse territories.
 
@@ -639,7 +639,7 @@ Timothéon is driven by a profound commitment to excellence and the preservation
 
 - **Diminishing Stamina**: Age has caught up with him; he can no longer endure the grueling pace that once marked his journeys, struggling with extended periods of physical labor and limited rest.
 
-- **Resistance to Change**: While capable of adaptation, he tends toward conservatism, preferring proven methods and occasionally dismissing newer techniques or innovations as unnecessary complications.
+- **Resistance to Change**: While capable of adaptation, he tends toward conservatism, preferring proven methods and occasionally dismissing newer techniques as unnecessary complications.
 
 - **Emotional Reserve**: His tendency toward quiet introspection can make him seem distant or uncommunicative, and he struggles to articulate deeper feelings, which can create misunderstandings with those seeking more open connection.
 
@@ -653,7 +653,7 @@ Timothéon is driven by a profound commitment to excellence and the preservation
 
 - **Merchant House Valdris**: One of the Byzarian League's most prominent trading families; they have exclusively employed Timothéon for their most valuable shipments for over twenty years and would accept no substitute.
 
-- **Master Cook Ilenna**: Proprietor of a renowned provision house where Timothéon coordinates supplies for merchant caravans; they maintain a mutually beneficial relationship built on decades of reliable partnership.
+- **Master Cook Ilenna**: Proprietor of a well-known provision house where Timothéon coordinates supplies for merchant caravans; they maintain a mutually beneficial relationship built on decades of reliable partnership.
 
 - **Guildmaster Corvus**: The current head of the Teamsters' Guild values Timothéon as an unofficial advisor on standards and practices, consulting with him on disputes and policy matters.
 
@@ -663,7 +663,7 @@ Timothéon is driven by a profound commitment to excellence and the preservation
 
 - **The Ravenswood Brigands**: A loose confederation of bandits who have targeted merchant caravans throughout the eastern trade routes; Timothéon famously refused their demands for tribute, leading to an ongoing vendetta that has made those routes increasingly dangerous for his shipments.
 
-- **Merchant Castellan Thorne**: A rival who rose through the ranks using cutthroat practices; he views Timothéon as an obstacle to modernization and has publicly disputed his methods, working to undermine the old teamster's reputation.
+- **Merchant Castellan Thorne**: A rival who rose through the ranks using cutthroat practices; he views Timothéon as an obstacle to new ways and has publicly disputed his methods, working to undermine the old teamster's reputation.
 
 ### Affiliations
 
@@ -673,10 +673,10 @@ Timothéon is driven by a profound commitment to excellence and the preservation
 
 ## Plot Hooks
 
-1. **The Lost Caravan**: A major shipment from Merchant House Valdris vanished three weeks past on a route Timothéon has traveled safely a hundred times. The patrons initially assumed it was lost to Ravenswood brigands, but Timothéon's careful investigation suggests something far stranger—the caravan simply _disappeared_, leaving no trace of wreckage, bodies, or signs of struggle. Some of his younger proteges may have been traveling with that doomed convoy, and Timothéon is determined to discover what happened, even as darker implications surface: whispers of sorcery, rumors of a rival merchant deliberately sabotaging competitors, or worse—suggestions that Timothéon himself may have been responsible for the loss, a final test of his faculties before his inevitable retirement.
+1. **The Lost Caravan**: A major shipment from Merchant House Valdris vanished three weeks past on a route Timothéon has traveled safely a hundred times. The patrons initially assumed it was lost to Ravenswood brigands, but Timothéon's careful investigation suggests something far stranger—the caravan simply _disappeared_, leaving no trace of wreckage, bodies, or signs of struggle. Some of his younger proteges may have been traveling with that doomed convoy, and Timothéon is determined to discover what happened, even as darker possibilities surface: talk of sorcery, rumors of a rival merchant deliberately sabotaging competitors, or worse—suggestions that Timothéon himself may have been responsible for the loss, a final test of his faculties before his inevitable retirement.
 
 2. **The Inheritance and the Imposter**: Timothéon's estranged sister, from whom he has been separated for over twenty years, has suddenly died and left him ownership of a remote inn and trading post at the edge of the Byzarian League's territory. When Timothéon travels to claim his inheritance, he discovers a man already entrenched as proprietor, claiming to be his sister's partner and asserting prior claims to the establishment. The situation becomes complicated when locals seem to know nothing of Timothéon's sister, and documents suggest she may have fabricated details about her family history. The true nature of the inheritance—and the mysterious stranger's claim—may require unraveling years of secrets.
 
-3. **The Prodigy and the Crisis of Conscience**: A brilliant young teamster named Cassin, whom Timothéon trained and considered something of a protégé, has begun using Guild resources and knowledge to smuggle forbidden goods through merchant caravans. When Timothéon discovers the truth, he faces an agonizing choice: report Cassin and destroy a promising career (and perhaps the young man's life), or become complicit in criminal enterprise. Worse, Cassin threatens to reveal damaging truths about one of Timothéon's oldest patrons—truths that Timothéon himself may have deliberately overlooked for decades in the service of profitable arrangements. The moral reckoning forces Timothéon to confront how much of his legendary reliability has rested on convenient blindness.
+3. **The Prodigy and the Crisis of Conscience**: A brilliant young teamster named Cassin, whom Timothéon trained and considered something of a protégé, has begun using Guild resources and knowledge to smuggle forbidden goods through merchant caravans. When Timothéon discovers the truth, he faces an agonizing choice: report Cassin and destroy a promising future (and perhaps the young man's life), or become complicit in criminal enterprise. Worse, Cassin threatens to reveal damaging truths about one of Timothéon's oldest patrons—truths that Timothéon himself may have deliberately overlooked for decades in the service of profitable arrangements. The reckoning forces Timothéon to confront how much of his reputation for reliability has rested on convenient blindness.
 
-4. **The Road That Wasn't There**: Timothéon is hired to guide a prestigious expedition of scholars and artificers to an ancient ruin deep in uncharted territory, using fragments of a map that predates even the oldest trade routes in the League's records. As the expedition progresses, Timothéon begins to realize that the landscape doesn't quite match what he remembers from other journeys to that region—geography seems subtly shifted, landmarks appear in unexpected locations, and distances prove incalculable. His legendary navigational skills begin to fail him, an experience that shakes him deeply. The expedition faces increasing supernatural strangeness, and Timothéon must grapple with the horrifying possibility that his reputation and skills, the foundation of his entire identity, may be meaningless in places where the normal rules of the world have been fundamentally altered.
+4. **The Road That Wasn't There**: Timothéon is hired to guide a prestigious expedition of scholars and artificers to an ancient ruin deep in uncharted territory, using fragments of a map that predates even the oldest trade routes in the League's records. As the expedition progresses, Timothéon begins to realize that the landscape doesn't quite match what he remembers from other journeys to that region—geography seems subtly shifted, landmarks appear in unexpected locations, and distances prove incalculable. His navigational skills begin to fail him, an experience that shakes him deeply. The expedition faces increasing supernatural strangeness, and Timothéon must grapple with the horrifying possibility that his reputation and skills, the foundation of his whole life, may be meaningless in places where the normal rules of the world have been fundamentally altered.
