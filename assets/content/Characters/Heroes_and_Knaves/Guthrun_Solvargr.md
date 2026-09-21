@@ -608,7 +608,7 @@ Guthrún stands 5'11" tall with a light build. She has light fair skin, brown ha
 
 ### The Trapper's Daughter
 
-Guthrún was born in Nordheim's northern reaches to **Sólvi Sólvargr**, a legendary trapper whose knowledge of wilderness survival and animal behavior was unmatched in three kingdoms. Her mother died bringing her into the world, and Sólvi raised his daughter in a solitary trapping settlement far from the comforts of civilization. He taught her not through formal instruction but through living—showing her how to read animal signs in snow and mud, how to construct traps that worked through understanding prey rather than brute force, how to harvest the creatures she caught with respect for the gift of their bodies.
+Guthrún was born in [[affiliation-kngdmnrdhm|Nordheim]]'s northern reaches to **Sólvi Sólvargr**, a legendary trapper whose knowledge of wilderness survival and animal behavior was unmatched in three kingdoms. Her mother died bringing her into the world, and Sólvi raised his daughter in a solitary trapping settlement far from the comforts of civilization. He taught her not through formal instruction but through living—showing her how to read animal signs in snow and mud, how to construct traps that worked through understanding prey rather than brute force, how to harvest the creatures she caught with respect for the gift of their bodies.
 
 ### The Inheritance of Knowledge
 
@@ -654,7 +654,7 @@ Guthrún seeks only to live with integrity in a world that grows increasingly di
 
 - **House Nordthorne**: A noble family that has maintained standing contracts with Guthrún for exceptional furs and wilderness supplies; they pay well and respect her expertise
 - **Harvin's Fur Trading Company**: The primary commercial outlet for Guthrún's work, run by an aging merchant named **Harvin Coldwater** who has worked with her for over a decade and views her as indispensable
-- **Priest Aldwin of the Fréyr's Temple**: A spiritual authority who has taken interest in Guthrún's deepening moral philosophy and occasionally contracts her for wilderness-based spiritual retreats and teachings
+- **Priest Aldwin of the [[lore-freyrdty|Fréyr]]'s Temple**: A spiritual authority who has taken interest in Guthrún's deepening moral philosophy and occasionally contracts her for wilderness-based spiritual retreats and teachings
 
 ### Enemies
 
