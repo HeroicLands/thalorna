@@ -350,29 +350,29 @@ The Acidtoad strikes from concealment, attempting to incapacitate or severely in
 
 ### Corrosive Spit
 
-The creature projects a stream of caustic fluid from its gaping maw that burns exposed flesh and erodes armor and sohl. This attack can be sustained over multiple rounds if the toad maintains line of sight.
+The creature projects a stream of caustic fluid from its gaping maw that burns exposed flesh and erodes armor and kit. The toad can keep spitting for as long as it has a clear line to its target.
 
 ### Venomous Bite
 
-The Acidtoad's bite delivers both crushing trauma and injected venom that weakens muscles and slows reflexes in the bitten limb. Prey bitten in the leg may find movement increasingly difficult; prey bitten in the arm loses grip strength and precision.
+The Acidtoad's bite crushes and injects a venom that weakens muscles and slows reflexes in the bitten limb. Prey bitten in the leg may find movement increasingly difficult; prey bitten in the arm loses grip strength and precision.
 
 ### Toxic Slime
 
-The toad's body secretes a mildly corrosive mucus that burns on prolonged contact. Any creature grappled by or in close physical contact with the toad takes cumulative damage from this slime.
+The toad's body secretes a mildly corrosive mucus that burns on prolonged contact. Any creature grappled by or in close physical contact with the toad is burned worse the longer the contact lasts.
 
 ## Special Abilities
 
 ### Camouflage in Wetlands
 
-The Acidtoad's mottled coloring renders it nearly invisible in shallow water, muddy banks, and algae-choked pools. It gains advantage on concealment checks in these environments and can maintain motionless ambush positions for extended periods without detection.
+The Acidtoad's mottled coloring renders it nearly invisible in shallow water, muddy banks, and algae-choked pools. In these places it is very hard to spot, and it can hold a motionless ambush position for extended periods without detection.
 
 ### Acidic Secretion
 
-The creature's body constantly weeps corrosive slime. Any creature in prolonged contact with the toad takes ongoing acid damage; leather, wood, and organic armor deteriorate rapidly from exposure.
+The creature's body constantly weeps corrosive slime. Any creature in prolonged contact with the toad is burned continually; leather, wood, and organic armor deteriorate rapidly from exposure.
 
 ### Venom Potency
 
-The venom injected through the toad's bite and saliva causes progressive debilitation. Victims bitten or struck by acid spit suffer cumulative penalties to movement and fine motor skills, representing muscle weakness and increasing stiffness.
+The venom injected through the toad's bite and saliva weakens the victim by degrees. Victims bitten or struck by acid spit grow slower and clumsier with each dose as their muscles weaken and stiffen.
 
 ## Additional Information
 

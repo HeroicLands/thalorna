@@ -397,19 +397,19 @@ sohl:
 
 ![[tnvrnelp|Tānvüran Elephant]]{float: top-left}
 
-An impossible vastness approaches, and you understand that you're looking at sheer physical power given form. The elephant moves with surprising grace for its size, its massive gray form calmed and purposeful. The domed head gives it a regal appearance, and the trunk curves and flexes with obvious intelligence and control. The tusks, if present on males, are less prominent than you might expect, but the trunk itself is clearly sufficient weapon for any task. The eyes are surprisingly intelligent and aware, suggesting genuine cognition behind the size.
+An impossible vastness approaches, and you understand that you're looking at sheer physical power given form. The elephant moves with surprising grace for its size, its massive gray form calm and purposeful. The domed head gives it a regal appearance, and the trunk curves and flexes with obvious intelligence and control. The tusks, if present on males, are less prominent than you might expect, but the trunk itself is clearly sufficient weapon for any task. The eyes are surprisingly intelligent and aware, suggesting real thought behind the size.
 
 # Dossier {#dossier}
 
-The Tānvüran Elephant is a massive megafauna creature standing 8-10 feet at the shoulder and weighing up to 6-7 tons, found in grasslands, forests, and savanna regions across the Tānvür empire and surrounding lands. These highly intelligent creatures are frequently domesticated for labor, transportation, and ceremonial use, but wild populations remain formidable. Adventurers encounter them primarily as companions to civilized peoples or while traveling through wild elephant territory.
+The Tānvüran Elephant is a massive megafauna creature standing 8-10 feet at the shoulder and weighing up to 6-7 tons, found in grasslands, forests, and savanna regions across the Tānvür empire and surrounding lands. These highly intelligent creatures are frequently domesticated for labor, transportation, and ceremonial use, but wild populations remain dangerous. Adventurers encounter them primarily as companions to civilized peoples or while traveling through wild elephant territory.
 
 ## Presentation
 
-The tānvüran elephant is smaller and more refined than its Xerathian cousin, with a distinctly domed forehead and proportionally smaller ears. The skin is thick and gray, with wrinkled texture. Males may possess tusks but they are less prominent than Xerathian specimens. The trunk is extraordinarily dexterous and powerful. The legs are thick and columnar, adapted for supporting massive weight. The eyes are proportionally large and expressive, indicating genuine intelligence.
+The tānvüran elephant is smaller and more refined than its Xerathian cousin, with a distinctly domed forehead and proportionally smaller ears. The skin is thick and gray, with wrinkled texture. Males may possess tusks but they are less prominent than Xerathian specimens. The trunk is extraordinarily dexterous and powerful. The legs are thick and columnar, adapted for supporting massive weight. The eyes are proportionally large and expressive, indicating intelligence.
 
 ## Key Behaviors
 
-Tānvüran elephants are highly social and intelligent, forming close bonds within herds and demonstrating genuine mourning when members die. They are frequently domesticated and capable of learning complex tasks and commands. Wild herds are protective of young and will defend aggressively against threats.
+Tānvüran elephants are highly social and intelligent, forming close bonds within herds and mourning when members die. They are frequently domesticated and capable of learning complex tasks and commands. Wild herds are protective of young and will defend aggressively against threats.
 
 ## Combat Strategy
 

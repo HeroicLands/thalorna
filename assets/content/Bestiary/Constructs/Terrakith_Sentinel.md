@@ -67,19 +67,19 @@ sohl:
 
 ![[trrkthsn|Terrakith Sentinel]]{float: top-left}
 
-The ground seems to shudder as the figure rises, an 8-foot-tall form sculpted from gray-brown clay with roughly hewn features that suggest both crude construction and undeniable power. The clay surface is perpetually moist, glistening with an earthen sheen, and intricate archaic runes are carved across every surface. When it moves, low grinding sounds emerge — the noise of shifting earth given form. The eyes are empty sockets yet somehow radiate unyielding determination and primal intelligence through their very emptiness. You understand you are facing something created through mystical craftsmanship and powerful enchantment, brought to unnatural life with relentless purpose.
+The ground seems to shudder as the figure rises, an 8-foot-tall form sculpted from gray-brown clay with roughly hewn features that suggest both crude construction and undeniable power. The clay surface is perpetually moist, glistening with an earthen sheen, and archaic runes are carved across every surface. When it moves, low grinding sounds emerge — the noise of shifting earth given form. The eyes are empty sockets yet somehow radiate unyielding determination and primal intelligence through their very emptiness. You understand you are facing something created through mystical craftsmanship and powerful enchantment, brought to unnatural life with relentless purpose.
 
 # Dossier {#dossier}
 
-Terrakith Sentinels are constructs sculpted from dense, magically-infused clay and standing 8 feet tall, engineered to be formidable guardians and enforcers. These relentless golems protect sacred temples, crypts, and chambers of powerful mages. Adventurers encounter them when approaching protected locations or disturbing guarded areas.
+Terrakith Sentinels are constructs sculpted from dense, magically-infused clay and standing 8 feet tall, made to be guardians and enforcers. These relentless golems protect sacred temples, crypts, and chambers of powerful mages. Adventurers encounter them when approaching protected locations or disturbing guarded areas.
 
 ## Presentation
 
-A humanoid figure of rough-hewn gray-brown clay, perpetually moist with earthen sheen. Intricate runes are carved across the surface, and the overall form radiates power and purpose. The empty eye sockets somehow convey awareness and intelligence.
+A humanoid figure of rough-hewn gray-brown clay, perpetually moist with earthen sheen. Runes are carved across the surface, and the overall form radiates power and purpose. The empty eye sockets somehow convey awareness and intelligence.
 
 ## Key Behaviors
 
-Terrakith Sentinels execute their programming absolutely, driven by relentless commitment to fulfill their master's commands.
+Terrakith Sentinels carry out their instructions absolutely, driven by relentless commitment to fulfill their master's commands.
 
 ## Combat Strategy
 

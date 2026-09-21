@@ -260,7 +260,7 @@ sohl:
 
 ![[duneclaw|Duneclaw]]{float: top-left}
 
-Sand shifts in ways the wind cannot explain. Something immense lurks just beneath the surface—a shadow that moves with purpose. Then it erupts: an armored scorpion-thing, each segment of its carapace the size of a boulder, its pincers as thick as tree limbs. The stinger curves above its back, black and dripping, and its multifaceted eyes—clusters of lenses—swivel to track your movement with inhuman intelligence. Hot wind rises from where it emerged, carrying the stench of venom and baked chitin.
+Sand shifts in ways the wind cannot explain. Something immense lurks just beneath the surface—a shadow that moves with purpose. Then it erupts: an armored scorpion-thing, each segment of its carapace the size of a boulder, its pincers as thick as tree limbs. The stinger curves above its back, black and dripping, and its faceted eyes—clusters of lenses—swivel to track your movement with inhuman intelligence. Hot wind rises from where it emerged, carrying the stench of venom and baked chitin.
 
 # Dossier {#dossier}
 
@@ -272,7 +272,7 @@ The Duneclaw is a creature of immense size—roughly twenty to thirty feet in le
 
 ## Key Behaviors
 
-The Duneclaw is a solitary, apex predator that claims vast desert territories as its exclusive hunting ground. It dwells in deep burrows below the sand, emerging to hunt during cooler hours. The creature exhibits remarkable territorial intelligence—it knows every dune, every hardpan, every place prey habitually passes—and it uses this knowledge with calculated patience. When not hunting, it remains beneath the sand, relatively dormant. When hunting, it becomes active and aggressive. It marks territory through pheromone trails and crushed remains of failed hunters who dared to encroach. It shows no sign of social behavior; multiple Duneclaws in the same region maintain strict separation through violent defense of boundaries.
+The Duneclaw is a solitary, apex predator that claims vast desert territories as its exclusive hunting ground. It dwells in deep burrows below the sand, emerging to hunt during cooler hours. The creature knows its territory—every dune, every hardpan, every place prey habitually passes—and it uses this knowledge with calculated patience. When not hunting, it remains beneath the sand, relatively dormant. When hunting, it becomes active and aggressive. It marks territory through pheromone trails and crushed remains of failed hunters who dared to encroach. It shows no sign of social behavior; multiple Duneclaws in the same region maintain strict separation through violent defense of boundaries.
 
 ## Combat Strategy
 
@@ -282,7 +282,7 @@ The Duneclaw attacks with overwhelming force, attempting to grapple and crush pr
 
 ### Crushing Pincer Grasp
 
-The creature attempts to seize prey in its massive pincers. Once grappled, prey takes ongoing crushing damage each round as the pincers contract. Breaking free requires exceptional strength. The creature can lift and tear apart large prey.
+The creature attempts to seize prey in its massive pincers. Once seized, prey is crushed harder and harder as the pincers contract. Breaking free takes great strength. The creature can lift and tear apart large prey.
 
 ### Stinger Strike
 
@@ -290,17 +290,17 @@ The Duneclaw's curved tail whips downward with tremendous force, attempting to p
 
 ### Trampling Charge
 
-The creature can build momentum in a charge across open ground, using its full weight and armor as a weapon. Targets struck take impact damage and are likely knocked prone.
+The creature can build momentum in a charge across open ground, using its full weight and armor as a weapon. Targets struck are battered and likely knocked off their feet.
 
 ## Special Abilities
 
 ### Venomous Injection
 
-The creature's stinger delivers a paralytic venom that weakens muscles and impairs movement and fine motor control. Victims bitten suffer cumulative penalties to physical actions; multiple injections can render prey completely immobilized.
+The creature's stinger delivers a paralytic venom that weakens muscles and impairs movement and fine motor control. A stung victim grows weaker and clumsier with each dose; multiple injections can render prey completely immobilized.
 
 ### Chitinous Armor
 
-The Duneclaw's exoskeleton provides exceptional natural defense against physical damage. Slashing and piercing attacks have reduced effectiveness; blunt-force trauma is more effective but still resisted.
+The Duneclaw's exoskeleton is a superb natural defense against physical attack. Slashing and piercing attacks do little; blunt force does more but is still resisted.
 
 ### Sand Tunneling
 
@@ -312,7 +312,7 @@ The Duneclaw perceives its environment through vibrations in sand and stone, det
 
 ## Additional Information
 
-Cold-based attacks significantly hamper the Duneclaw's mobility and effectiveness. Extreme cold can freeze venom in the stinger, preventing injection. Creatures that can track across sand or sense through earth gain advantage in pursuing or predicting Duneclaw movement. Some desert cultures maintain peace with local Duneclaws through ritualistic offerings, using the creatures as both deterrent and waste disposal.
+Cold-based attacks significantly hamper the Duneclaw's mobility and effectiveness. Extreme cold can freeze venom in the stinger, preventing injection. Creatures that can track across sand or sense through earth are better placed to pursue or predict Duneclaw movement. Some desert cultures maintain peace with local Duneclaws through ritualistic offerings, using the creatures as both deterrent and waste disposal.
 
 ## Attributes
 

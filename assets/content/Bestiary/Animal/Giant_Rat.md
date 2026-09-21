@@ -303,7 +303,7 @@ The torch catches a pair of eyes in the dark — low, reddish, reflecting the fl
 
 # Dossier {#dossier}
 
-The Giant Rat is the universal vermin of civilization — a dog-sized rodent weighing twenty to fifty pounds that infests sewers, cellars, ruins, ship holds, granaries, and anywhere else that darkness and food waste intersect. They are found across every continent and in every settlement large enough to produce garbage. Giant rats are not natural animals — they are the product of magical contamination, alchemical runoff, or simply the accelerated evolution that occurs wherever large quantities of arcane waste accumulate near grain stores. Whatever their origin, they are now permanently established in the ecology of every major city in [[place-ankrscntnnt|Ankaris Continent]] and beyond. Individually, a giant rat is a nuisance — aggressive enough to bite, fast enough to be difficult to hit, but too small to pose a serious threat to an armed adult. In packs, they are genuinely dangerous. A dozen giant rats swarming from the darkness in a confined space can overwhelm and kill an armored warrior through sheer numbers, each bite tearing a small wound that bleeds and festers. Giant rats are the first serious combat encounter many adventurers face, and veterans who dismiss them as trivial tend to accumulate scars and infections that teach respect.
+The Giant Rat is the universal vermin of civilization — a dog-sized rodent weighing twenty to fifty pounds that infests sewers, cellars, ruins, ship holds, granaries, and anywhere else that darkness and food waste intersect. They are found across every continent and in every settlement large enough to produce garbage. Giant rats are not natural animals — they are the product of magical contamination, alchemical runoff, or simply the accelerated evolution that occurs wherever large quantities of arcane waste accumulate near grain stores. Whatever their origin, they are now permanently established in the ecology of every major city in [[place-ankrscntnnt|Ankaris Continent]] and beyond. Individually, a giant rat is a nuisance — aggressive enough to bite, fast enough to be difficult to hit, but too small to pose a serious threat to an armed adult. In packs, they are dangerous. A dozen giant rats swarming from the darkness in a confined space can overwhelm and kill an armored warrior through sheer numbers, each bite tearing a small wound that bleeds and festers. Giant rats are the first serious combat encounter many adventurers face, and veterans who dismiss them as trivial tend to accumulate scars and infections that teach respect.
 
 ## Presentation
 
@@ -311,7 +311,7 @@ The giant rat is a scaled-up horror of the common rat — the same basic body pl
 
 ## Key Behaviors
 
-Giant rats are nocturnal, omnivorous, and opportunistic. They live in warrens — interconnected tunnel systems excavated beneath buildings, in sewer networks, in ship holds, and in the rubble of ruins. A warren houses a colony of twenty to fifty rats organized around a dominance hierarchy maintained through constant, vicious infighting. They eat anything organic: grain, meat, leather, wood, corpses, each other. They breed rapidly and continuously, with females producing multiple litters per year, which makes them virtually impossible to eradicate once established — a colony reduced to a handful of survivors will repopulate within months. Giant rats are intelligent for rodents, capable of learning trap locations, recognizing individual threats, and adapting their routes to avoid danger. They are also disease vectors of extraordinary efficiency, carrying plague, filth fever, and a dozen other illnesses in their saliva, fleas, and droppings.
+Giant rats are nocturnal, omnivorous, and opportunistic. They live in warrens — interconnected tunnel systems excavated beneath buildings, in sewer networks, in ship holds, and in the rubble of ruins. A warren houses a colony of twenty to fifty rats organized around a dominance hierarchy maintained through constant, vicious infighting. They eat anything organic: grain, meat, leather, wood, corpses, each other. They breed rapidly and continuously, with females producing multiple litters per year, which makes them virtually impossible to eradicate once established — a colony reduced to a handful of survivors will repopulate within months. Giant rats are intelligent for rodents, capable of learning trap locations, recognizing individual threats, and adapting their routes to avoid danger. They also spread disease on an extraordinary scale, carrying plague, filth fever, and a dozen other illnesses in their saliva, fleas, and droppings.
 
 ## Combat Strategy
 
@@ -325,11 +325,11 @@ The rat darts in, delivers a rapid slashing bite to the nearest exposed flesh, a
 
 ### Gnawing Attack
 
-When a target is pinned, prone, or unconscious, rats will gnaw — settling their incisors into flesh and working with the same patient, mechanical rhythm they use on wood and grain. This is how giant rats kill: not through dramatic violence but through relentless, grinding consumption.
+When a target is pinned, down, or unconscious, rats will gnaw — settling their incisors into flesh and working with the same patient, mechanical rhythm they use on wood and grain. This is how giant rats kill: not through dramatic violence but through relentless, grinding consumption.
 
 ### Overwhelming Rush
 
-A full colony swarming simultaneously creates a wall of fur, teeth, and claws that is psychologically devastating as much as physically dangerous. The sheer number of bodies can knock opponents off balance, and the noise — dozens of rats squealing, hissing, and scratching simultaneously — can break morale.
+A full colony swarming simultaneously creates a wall of fur, teeth, and claws that is as unnerving as it is dangerous. The sheer number of bodies can knock opponents off balance, and the noise — dozens of rats squealing, hissing, and scratching simultaneously — can break morale.
 
 ## Special Abilities
 
@@ -339,7 +339,7 @@ Giant rat bites carry a high risk of infection. Wounds that are not cleaned and 
 
 ### Darkvision
 
-Giant rats navigate and hunt in total darkness using their whiskers, hearing, and sense of smell. They suffer no penalty for operating in lightless environments, which gives them a significant advantage in their preferred habitats — sewers, cellars, and underground warrens.
+Giant rats navigate and hunt in total darkness using their whiskers, hearing, and sense of smell. Darkness costs them nothing, which gives them a significant advantage in their preferred habitats — sewers, cellars, and underground warrens.
 
 ### Tunnel Escape
 

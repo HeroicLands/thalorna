@@ -635,7 +635,7 @@ The stone beneath your feet trembles before you see it—a tremor that runs thro
 
 # Dossier {#dossier}
 
-Mountain trolls are the eldest guardians of the high peaks, creatures of such primordial weight and power that they seem carved from the mountains themselves rather than born of flesh. They roam the alpine heights, deep caverns, and windswept ridges in solitary dominion, claiming vast territories and tolerating no other large predators within their realms. A Mountain Troll's diet is omnivorous and prodigious—it consumes whatever it can catch or kill, from mountain goats to unwary travelers, and its bulk requires constant feeding. These creatures are long-lived, possessing lifespans measured in centuries; old Mountain Trolls bear the scars of innumerable battles etched into their hides like a record of their dominion. Their strength is matched only by their stubborn, almost invulnerable endurance, making them nearly impossible to kill through conventional means.
+Mountain trolls are the eldest guardians of the high peaks, creatures of such primordial weight and power that they seem carved from the mountains themselves rather than born of flesh. They roam the alpine heights, deep caverns, and windswept ridges in solitary dominion, claiming vast territories and tolerating no other large predators within their realms. A Mountain Troll's diet is omnivorous and prodigious—it consumes whatever it can catch or kill, from mountain goats to unwary travelers, and its bulk requires constant feeding. These creatures are long-lived, possessing lifespans measured in centuries; old Mountain Trolls bear the scars of innumerable battles cut into their hides like a record of their dominion. Their strength is matched only by their stubborn, almost invulnerable endurance, making them nearly impossible to kill through conventional means.
 
 ## Presentation
 
@@ -647,7 +647,7 @@ Mountain Trolls are territorial to obsession, claiming a range of territory that
 
 ## Combat Strategy
 
-A Mountain Troll opens combat by attempting to maximize the psychological impact of its presence—it advances slowly, deliberately, allowing opponents to feel the weight of what they face. It uses its immense size and strength to dominate terrain, often maneuvering enemies toward cliff edges or unstable ground where a single blow will be devastating. When it strikes, it commits fully to the attack, using the full weight of its body; efficiency is irrelevant when one swing can kill a lesser creature. If injured, a Mountain Troll becomes more aggressive and relentless, not fleeing but pressing harder. Only serious, sustained damage—particularly fire or acid—will make one consider retreat, and even then it may simply return to its lair to rest and heal rather than abandoning the territory.
+A Mountain Troll opens combat by making the most of the dread its presence causes—it advances slowly, deliberately, allowing opponents to feel the weight of what they face. It uses its immense size and strength to dominate terrain, often maneuvering enemies toward cliff edges or unstable ground where a single blow will be devastating. When it strikes, it commits fully to the attack, using the full weight of its body; there is no need for restraint when one swing can kill a lesser creature. If injured, a Mountain Troll becomes more aggressive and relentless, not fleeing but pressing harder. Only serious, sustained damage—particularly fire or acid—will make one consider retreat, and even then it may simply return to its lair to rest and heal rather than abandoning the territory.
 
 ## Attack Methods
 
@@ -667,11 +667,11 @@ Two massive fists swing in coordinated or successive attacks, each driven by the
 
 ### Stone-Touched Resilience
 
-The Mountain Troll's body is partially calcified, its hide and internal organs reinforced with mineral deposits that make it extraordinarily resistant to physical damage. Cutting, piercing, and bludgeoning attacks are all significantly mitigated by its toughened frame.
+The Mountain Troll's body is partially calcified, its hide and internal organs reinforced with mineral deposits that make it extraordinarily resistant to physical harm. Cutting, piercing, and bludgeoning attacks are all blunted by its toughened frame.
 
 ### Regeneration
 
-The Mountain Troll heals with preternatural speed, regrowing damaged tissue and bone over minutes or hours depending on the severity of the wound. Only sustained damage of exceptional severity—or damage from fire, acid, or magical sources—can prevent this regeneration.
+The Mountain Troll heals with preternatural speed, regrowing damaged tissue and bone over minutes or hours depending on the severity of the wound. Only sustained wounds of great severity—or damage from fire, acid, or magical sources—can prevent this regeneration.
 
 ### Undaunted Fortitude
 
@@ -679,7 +679,7 @@ The Mountain Troll's endurance is nearly limitless. It can march across alpine t
 
 ## Additional Information
 
-Fire poses the greatest threat to a Mountain Troll—flames damage its regenerative capacity and cause it genuine pain. Acid is equally effective. The creature has a notable weakness to prolonged exposure to extreme heat or drought, which dries its skin and cracks its mineral deposits. Some legends suggest that a Mountain Troll can be killed by destroying the stone heart at the center of its chest, though doing so would require cleaving through feet of hardened hide and bone. The corpse of a slain Mountain Troll is extraordinarily valuable; its hide can be fashioned into armor of exceptional quality, its stone-like bones into tools or weapons that never dull, and its teeth into talismans of protection. However, moving or harvesting the remains of a Mountain Troll is itself a dangerous undertaking that may take weeks and the resources of an entire company.
+Fire poses the greatest threat to a Mountain Troll—flames damage its regenerative capacity and cause it pain. Acid is equally effective. The creature has a notable weakness to prolonged exposure to extreme heat or drought, which dries its skin and cracks its mineral deposits. Some legends suggest that a Mountain Troll can be killed by destroying the stone heart at the center of its chest, though doing so would require cleaving through feet of hardened hide and bone. The corpse of a slain Mountain Troll is extraordinarily valuable; its hide can be fashioned into armor of superb quality, its stone-like bones into tools or weapons that never dull, and its teeth into talismans of protection. However, moving or harvesting the remains of a Mountain Troll is itself a dangerous undertaking that may take weeks and the resources of an entire company.
 
 ## Attributes
 

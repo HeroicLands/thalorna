@@ -328,7 +328,7 @@ High above, the air itself becomes uncertain. What you see is a shape wreathed i
 
 # Dossier {#dossier}
 
-Stormseers are elementals of sky and electricity, born from violent storms and drawing strength from tempestuous weather. They are intelligent and arrogant, regarding ground-dwelling creatures as primitives beneath serious consideration. A Stormseer in a region typically indicates incoming severe weather, and some scholars believe the creature's presence actually causes storms to develop. They are territorial about sky and weather and will attack aircraft or attempts to control weather in their territory. A Stormseer is a genuine threat to settlements, capable of calling down lightning strikes and creating deadly storms.
+Stormseers are elementals of sky and electricity, born from violent storms and drawing strength from tempestuous weather. They are intelligent and arrogant, regarding ground-dwelling creatures as primitives beneath serious consideration. A Stormseer in a region typically indicates incoming severe weather, and one account holds that the creature's presence actually causes storms to develop. They are territorial about sky and weather and will attack aircraft or attempts to control weather in their territory. A Stormseer is a threat to settlements, capable of calling down lightning strikes and creating deadly storms.
 
 ## Presentation
 
@@ -368,7 +368,7 @@ The Stormseer is supremely at home in the sky and maintains incredible speed and
 
 ### Lightning Affinity
 
-The Stormseer is immune to electrical damage and heals from lightning-based magic. It can sense electrical currents and navigate in complete darkness by sensing electromagnetic fields.
+The Stormseer is immune to lightning and heals from lightning-based magic. It can sense electrical currents and navigate in complete darkness by sensing electromagnetic fields.
 
 ### Storm Creation
 
@@ -384,7 +384,7 @@ When the Stormseer generates thunder, the sound carries magical force and can st
 
 ## Additional Information
 
-Earth-based magic and sonic-based magic are most effective against a Stormseer, as they disrupt its electrical form and can scatter its cohesion. Grounding rods and structures designed to conduct electricity safely can reduce the threat of its lightning. A Stormseer destroyed during calm weather may not reform, but one destroyed during a storm will likely return. A Stormseer can be drawn away from a settlement by creating atmospheric conditions that attract it to a different location. Some scholars believe that understanding Stormseers is key to predicting and controlling severe weather, but research into this remains dangerous and incomplete.
+Earth-based magic and sonic-based magic are most effective against a Stormseer, as they disrupt its electrical form and can scatter its cohesion. Grounding rods and structures designed to conduct electricity safely can reduce the threat of its lightning. A Stormseer destroyed during calm weather may not reform, but one destroyed during a storm will likely return. A Stormseer can be drawn away from a settlement by creating atmospheric conditions that attract it to a different location. One school holds that understanding Stormseers is the key to predicting and controlling severe weather, but the study of them remains dangerous and incomplete.
 
 ## Attributes
 

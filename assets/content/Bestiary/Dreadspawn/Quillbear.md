@@ -373,11 +373,11 @@ sohl:
 
 ![[qllbr|Quillbear]]{float: top-left}
 
-The forest floor cracks and splinters as something massive erupts from the earth—a explosion of dirt and debris that blocks your vision. Through the dust, you see it: a creature that resembles a bear in gross shape alone, but its entire body is encased in thousands of spear-like quills that shimmer with sickly luminescence. The beast's fur bristles around the quills like some nightmare fusion of porcupine and ursine horror, and as it shakes itself clear of the soil, individual quills vibrate with an audible, high-pitched keening. Its low growl is the rumble of earth and stone, and you can see the venom glistening on each quill's barbed tip. The creature's eyes lock on you with feral intelligence, and you smell the burning-metal stench of its venom on the air.
+The forest floor cracks and splinters as something massive erupts from the earth—an explosion of dirt and debris that blocks your vision. Through the dust, you see it: a creature that resembles a bear in gross shape alone, but its entire body is encased in thousands of spear-like quills that shimmer with sickly luminescence. The beast's fur bristles around the quills like some nightmare fusion of porcupine and ursine horror, and as it shakes itself clear of the soil, individual quills vibrate with an audible, high-pitched keening. Its low growl is the rumble of earth and stone, and you can see the venom glistening on each quill's barbed tip. The creature's eyes lock on you with feral intelligence, and you smell the burning-metal stench of its venom on the air.
 
 # Dossier {#dossier}
 
-Quillbears are predatory abominations that represent the worst marriage of apex bear strength and porcupine's defensive weaponry. These creatures roam forested and mountainous regions, always maintaining burrows of significant depth and sophistication where they lair and breed. A Quillbear is naturally reclusive but becomes explosively aggressive when its territory is threatened or when hunger drives it to hunt. The venom coating its quills is potent enough to kill a human in hours if untreated, and the creatures seem to understand this advantage, using it with calculated deliberation. Ancient Quillbears develop territories spanning dozens of miles, and other large predators learn to avoid them entirely.
+Quillbears are predatory abominations that represent the worst marriage of apex bear strength and porcupine's defensive weaponry. These creatures roam forested and mountainous regions, always maintaining burrows of great depth and complexity where they lair and breed. A Quillbear is naturally reclusive but becomes explosively aggressive when its territory is threatened or when hunger drives it to hunt. The venom coating its quills is potent enough to kill a human in hours if untreated, and the creatures seem to understand this advantage, using it with calculated deliberation. Ancient Quillbears develop territories spanning dozens of miles, and other large predators learn to avoid them entirely.
 
 ## Presentation
 
@@ -385,7 +385,7 @@ A Quillbear measures roughly 10 to 14 feet in length and stands 7 to 9 feet when
 
 ## Key Behaviors
 
-Quillbears are solitary, fiercely territorial creatures that claim and defend a range spanning several miles of forest or mountainous terrain. They are excellent engineers, digging burrow systems of considerable sophistication with multiple entrances, vaulted chambers for sleeping, and dedicated areas for hoarding food. A Quillbear spends much of its time in or near its burrow, emerging to hunt or patrol its territory on a regular schedule. They are primarily nocturnal but will hunt during the day if motivated by hunger or territorial defense. A gravid female becomes doubly protective of her burrow and will attack anything that approaches within sight of the entrance. Quillbears breed slowly and live for decades; an ancient Quillbear may have held the same territory for forty years or more.
+Quillbears are solitary, fiercely territorial creatures that claim and defend a range spanning several miles of forest or mountainous terrain. They are excellent engineers, digging burrow systems of considerable complexity with multiple entrances, vaulted chambers for sleeping, and dedicated areas for hoarding food. A Quillbear spends much of its time in or near its burrow, emerging to hunt or patrol its territory on a regular schedule. They are primarily nocturnal but will hunt during the day if motivated by hunger or territorial defense. A gravid female becomes doubly protective of her burrow and will attack anything that approaches within sight of the entrance. Quillbears breed slowly and live for decades; an ancient Quillbear may have held the same territory for forty years or more.
 
 ## Combat Strategy
 
@@ -395,7 +395,7 @@ A Quillbear typically initiates combat by charging with its full mass and speed,
 
 ### Pile-Driver Charge
 
-The Quillbear hurls its massive, quill-covered body forward at tremendous speed, attempting to knock opponents prone and impale them simultaneously. The force of the charge alone can break bones, and the quills add terrible additional trauma.
+The Quillbear hurls its massive, quill-covered body forward at tremendous speed, attempting to knock opponents down and impale them at once. The force of the charge alone can break bones, and the quills add terrible wounds of their own.
 
 ### Quill Barrage
 
@@ -413,11 +413,11 @@ The Quillbear's quills continuously regenerate, allowing it to launch them repea
 
 ### Paralyzing Venom
 
-The venom coating each quill is a complex cocktail of neurotoxins that begin their work immediately upon contact with blood. Victims experience progressive paralysis beginning with the injection site and spreading throughout the body, eventually leading to complete immobility and death if untreated.
+The venom coating each quill is a complex cocktail of neurotoxins that begin their work immediately upon contact with blood. Victims are paralyzed by degrees, beginning at the injection site and spreading throughout the body, eventually leading to complete immobility and death if untreated.
 
 ### Burrow Network
 
-The Quillbear is an exceptional engineer and digger, capable of creating complex burrow systems with multiple exits and chambers. It can retreat through burrows, seal entrances, or even cause targeted collapses to trap pursuers.
+The Quillbear is a superb builder and digger, capable of creating complex burrow systems with multiple exits and chambers. It can retreat through burrows, seal entrances, or even cause targeted collapses to trap pursuers.
 
 ### Venom Immunity
 
@@ -425,7 +425,7 @@ The Quillbear is naturally immune to its own venom and to most other toxic subst
 
 ## Additional Information
 
-Fire is the Quillbear's greatest weakness—flames damage its quill covering directly, can ignite the venom causing painful explosions, and burn the creature's underlying fur. Smoke and heat also seem to cause it genuine distress and disorientation. Its burrows can be rendered uninhabitable by fire or flooding, forcing a Quillbear to abandon its territory. The creature's quills, if harvested properly, are extraordinarily valuable—they can be fashioned into natural weapons that retain their venom for months or years, or processed into powerful poisons for sale on the black market. The hide beneath the quills is thick and can be crafted into armor of exceptional quality. Some desperate communities employ Quillbear hunters professionally, paying substantial sums for the removal of problem creatures; these hunts are among the most dangerous undertakings a mortal can pursue, and many hunters do not survive their pursuit.
+Fire is the Quillbear's greatest weakness—flames damage its quill covering directly, can ignite the venom causing painful explosions, and burn the creature's underlying fur. Smoke and heat also seem to cause it distress and disorientation. Its burrows can be rendered uninhabitable by fire or flooding, forcing a Quillbear to abandon its territory. The creature's quills, if harvested properly, are extraordinarily valuable—they can be fashioned into natural weapons that retain their venom for months or years, or processed into powerful poisons for sale on the black market. The hide under the quills is thick and can be crafted into armor of fine quality. Some desperate communities hire Quillbear hunters, paying substantial sums for the removal of problem creatures; these hunts are among the most dangerous undertakings a mortal can pursue, and many hunters do not survive their pursuit.
 
 ## Attributes
 

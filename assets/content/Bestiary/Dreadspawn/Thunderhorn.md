@@ -394,13 +394,13 @@ A Thunderhorn claims a territory of considerable size—usually several miles of
 
 ## Combat Strategy
 
-A Thunderhorn initiates combat by charging with its full mass and speed, attempting to gore opponents on its electrified horns or to ram them with shoulder and body. The creature's electrical discharge is as much a weapon as its physical form, dealing damage even to targets that avoid direct contact. It is slow and ponderous but possesses such strength that its attacks are nearly impossible to defend against through ordinary means. The creature seems immune to its own electrical discharges and resistant to external electrical attacks, relying on these advantages to dominate opponents. A wounded Thunderhorn becomes more aggressive, charging with less tactical awareness and more reckless power. Only truly overwhelming force will convince one to retreat, and even then it will attempt to take its attacker with it.
+A Thunderhorn initiates combat by charging with its full mass and speed, attempting to gore opponents on its electrified horns or to ram them with shoulder and body. The creature's electrical discharge is as much a weapon as its physical form, burning even targets that avoid direct contact. It is slow and ponderous but possesses such strength that its attacks are nearly impossible to defend against through ordinary means. The creature seems immune to its own electrical discharges and resistant to external electrical attacks, relying on these advantages to dominate opponents. A wounded Thunderhorn becomes more aggressive, charging with less tactical awareness and more reckless power. Only truly overwhelming force will convince one to retreat, and even then it will attempt to take its attacker with it.
 
 ## Attack Methods
 
 ### Electrified Charge
 
-The Thunderhorn lowers its horns and charges with terrible speed and force, attempting to gore the target. The horns discharge massive amounts of electrical energy simultaneously, and the impact combines both crushing physical force and electrical trauma.
+The Thunderhorn lowers its horns and charges with terrible speed and force, attempting to gore the target. The horns discharge massive amounts of electrical energy simultaneously, and the impact combines crushing physical force with a searing electrical shock.
 
 ### Thunderous Stomp
 
@@ -408,25 +408,25 @@ The creature raises one of its massive hooves and brings it down with devastatin
 
 ### Electrical Discharge
 
-Without charging, the Thunderhorn can channel electricity through its body and horns, creating a sphere or cone of electrical energy that damages everything in the area.
+Without charging, the Thunderhorn can channel electricity through its body and horns, creating a sphere or cone of electrical energy that scorches everything within it.
 
 ## Special Abilities
 
 ### Electrical Embodiment
 
-The Thunderhorn is composed partially of electrical energy and is highly resistant to electrical damage. Lightning strikes provide it sustenance, and thunderstorms energize it, making it faster and stronger during inclement weather.
+The Thunderhorn is composed partially of electrical energy and is highly resistant to lightning. Lightning strikes provide it sustenance, and thunderstorms energize it, making it faster and stronger during inclement weather.
 
 ### Lightning Authority
 
-The Thunderhorn can call lightning from storm clouds, though this ability seems limited and requires several rounds of concentration. The creature is most likely to use this ability in open terrain during active storms.
+The Thunderhorn can call lightning from storm clouds, though this ability seems limited and requires some moments of concentration. The creature is most likely to use this ability in open terrain during active storms.
 
 ### Primal Fury
 
-When injured or cornered, the Thunderhorn's electrical discharge increases dramatically, and it enters a state of heightened aggression where it attacks with reckless abandon, electrical damage increasing but tactical sense decreasing.
+When injured or cornered, the Thunderhorn's electrical discharge increases dramatically, and it enters a state of heightened aggression where it attacks with reckless abandon, its discharges growing fiercer as its judgment fails.
 
 ## Additional Information
 
-Earth-based magic and grounding effects are the Thunderhorn's primary weakness, as they can dissipate or redirect its electrical discharges and prevent it from building up charge. The creature is also vulnerable to water, which conducts electricity away and can short-circuit its natural abilities if sufficient quantities are applied. The creature's horns, if somehow harvested from a slain Thunderhorn, retain electrical charge for years or even longer, making them extraordinarily valuable for crafting weapons or foci of electrical magic. The hide can be fashioned into armor that retains some electrical resistance. Hunting a Thunderhorn is considered an exceptionally dangerous undertaking, and most communities in Thunderhorn territory learn to simply avoid the creatures' ranges rather than attempting to oppose them.
+Earth-based magic and grounding effects are the Thunderhorn's primary weakness, as they can dissipate or redirect its electrical discharges and prevent it from building up charge. The creature is also vulnerable to water, which conducts electricity away and can quench its natural abilities if sufficient quantities are applied. The creature's horns, if somehow harvested from a slain Thunderhorn, retain electrical charge for years or even longer, making them extraordinarily valuable for crafting weapons or foci of electrical magic. The hide can be fashioned into armor that retains some electrical resistance. Hunting a Thunderhorn is considered a supremely dangerous undertaking, and most communities in Thunderhorn territory learn to simply avoid the creatures' ranges rather than attempting to oppose them.
 
 ## Attributes
 

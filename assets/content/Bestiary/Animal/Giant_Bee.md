@@ -329,11 +329,11 @@ The sound fills the air before you fully see it—a deep, penetrating hum that s
 
 # Dossier {#dossier}
 
-The Giant Bee is a massive insect that has evolved far beyond its common cousins, standing as large as a wolf at the shoulder and possessed of surprising strength and speed. These creatures are workers and defenders of colossal hive systems that can have hundreds or thousands of individual bees. They are not solitary creatures but part of a collective intelligence directed by pheromone signals from a queen. Adventurers most often encounter them when traveling near a hive location or when they inadvertently threaten a hive's foraging operation or territory. A single giant bee is dangerous; a swarm is nearly unstoppable.
+The Giant Bee is a massive insect that has evolved far beyond its common cousins, standing as large as a wolf at the shoulder, with surprising strength and speed. These creatures are workers and defenders of colossal hive systems that can have hundreds or thousands of individual bees. They are not solitary creatures but part of a collective intelligence directed by pheromone signals from a queen. Adventurers most often encounter them when traveling near a hive location or when they inadvertently threaten a hive's foraging operation or territory. A single giant bee is dangerous; a swarm is nearly unstoppable.
 
 ## Presentation
 
-A Giant Bee is a creature of striking appearance: a bulbous abdomen striped in vivid yellow and black, covered in fine hairs, two pairs of translucent wings that beat constantly to create an audible hum, six jointed legs that can cling to any surface, and a head bearing large compound eyes and powerful mandibles. The most fearsome feature is the stinger—a long, sharp appendage extending from the rear abdomen, capable of injecting venom. The body is built for flight, and the wings are capable of carrying the bee's full weight at considerable speed. Despite its apparent heaviness, the bee's frame is remarkably light relative to its size.
+A Giant Bee is a creature of striking appearance: a bulbous abdomen striped in vivid yellow and black, covered in fine hairs, two pairs of translucent wings that beat constantly to create an audible hum, six jointed legs that can cling to any surface, and a head bearing large compound eyes and powerful mandibles. The most fearsome feature is the stinger—a long, sharp appendage extending from the rear abdomen, capable of injecting venom. The body is built for flight, and the wings are capable of carrying the bee's full weight at considerable speed. Despite its apparent heaviness, the bee's frame is light for its size.
 
 ## Key Behaviors
 
@@ -347,7 +347,7 @@ A lone giant bee avoids combat if escape is possible, preferring to return to th
 
 ### Poisoned Sting
 
-The bee drives its stinger into a target and injects venom designed to cause pain, paralysis, or death depending on dosage and the target's size. The stinger is barbed in some bee species, leaving it behind (fatal to the bee) and ensuring a deep injection. Multiple stings compound the venom load.
+The bee drives its stinger into a target and injects venom designed to cause pain, paralysis, or death depending on dosage and the target's size. The stinger is barbed in some bee species, leaving it behind (fatal to the bee) and driving the venom deep. Multiple stings compound the venom load.
 
 ### Bite and Grapple
 
@@ -357,7 +357,7 @@ The bee uses powerful mandibles to bite and hold, attempting to position the tar
 
 ### Hive Coordination
 
-When multiple bees fight together, they act as if controlled by a single mind—no fumbles, perfect tactical awareness, and devastating synchronized attacks. A lone bee loses this advantage.
+When multiple bees fight together, they act as if controlled by a single mind—never a wasted movement, perfect tactical awareness, and devastating synchronized attacks. A lone bee loses this advantage.
 
 ### Flight Mastery
 
@@ -365,7 +365,7 @@ The bee's wings allow it to hover, reverse direction, and reach speeds that land
 
 ## Additional Information
 
-A giant bee hive can be harvested for honey, wax, and other valuable materials, but only by those brave enough to approach during the appropriate season when the queen is least protective. Some characters have attempted to communicate with hives through magical means, with limited success—the collective intelligence is alien and not easily bargained with. A dead bee's stinger is sometimes preserved or worked into jewelry or weapons.
+A giant bee hive can be harvested for honey, wax, and other valuable materials, but only by those brave enough to approach during the appropriate season when the queen is least protective. Some have attempted to communicate with hives through magical means, with limited success—the collective intelligence is alien and not easily bargained with. A dead bee's stinger is sometimes preserved or worked into jewelry or weapons.
 
 ## Attributes
 

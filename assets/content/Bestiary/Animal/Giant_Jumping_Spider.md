@@ -256,19 +256,19 @@ sohl:
 
 ![[gntjmpng|Giant Jumping Spider]]{float: top-left}
 
-Something impossible catches the corner of your eye—a shape that moves too fast to fully track. When you spin to look, you see nothing. Then, from a nearby rock, eight eyes catch the light and reflect it back at you—luminous, intelligent, watching. The spider is only visible when it moves, its mottled brown-and-black fur seemingly part of the stone itself. The moment it knows it’s been seen, the hind legs tense and bunch—you can see the muscles coiling—and the creature begins to move sideways, never breaking eye contact. All eight eyes focus on you with an intensity that feels almost predatory. The sensation is utterly wrong: a non-humanoid thing that clearly sees you as thoroughly as you see it.
+Something impossible catches the corner of your eye—a shape that moves too fast to fully track. When you spin to look, you see nothing. Then, from a nearby rock, eight eyes catch the light and reflect it back at you—luminous, intelligent, watching. The spider is only visible when it moves, its mottled brown-and-black fur seemingly part of the stone itself. The moment it knows it’s been seen, the hind legs tense and bunch—you can see the muscles coiling—and the creature begins to move sideways, never breaking eye contact. All eight eyes focus on you with an intensity that feels almost predatory. The sensation is wrong: a non-humanoid thing that clearly sees you as thoroughly as you see it.
 
 # Dossier {#dossier}
 
-The Giant Jumping Spider is a remarkable arachnid that combines exceptional intelligence with devastating physical capabilities. With a body diameter of one foot and leg spans exceeding two feet, these spiders are formidable ambush predators. Unlike their web-building cousins, jumping spiders are active hunters that stalk and pounce on prey with terrifying speed and accuracy. These creatures are solitary and territorial, and they seem to demonstrate problem-solving abilities unusual in arachnids. Adventurers most commonly encounter them in rocky terrain, forested areas, and anywhere with suitable prey populations.
+The Giant Jumping Spider is an arachnid that combines unusual intelligence with devastating physical capabilities. With a body diameter of one foot and leg spans exceeding two feet, these spiders are dangerous ambush predators. Unlike their web-building cousins, jumping spiders are active hunters that stalk and pounce on prey with terrifying speed and accuracy. These creatures are solitary and territorial, and they seem to demonstrate problem-solving abilities unusual in arachnids. Adventurers most commonly encounter them in rocky terrain, forested areas, and anywhere with suitable prey populations.
 
 ## Presentation
 
-The Giant Jumping Spider has a compact, heavily-haired body in shades of glossy black, brown, or gray with mottled patterning that provides excellent camouflage. The abdomen is large and bulbous, the cephalothorax (head-body) is squat and muscular, and the legs are long, articulated, and powerful. The most distinctive features are the eight eyes: eight large, forward-facing orbs arranged across the front of the head, with the two largest dominating the face and giving an impression of remarkable awareness. The eyes are reflective and gleam with intelligence. The fangs are prominent, and the legs are equipped with small claws and fine hairs that aid in climbing and gripping.
+The Giant Jumping Spider has a compact, heavily-haired body in shades of glossy black, brown, or gray with mottled patterning that provides excellent camouflage. The abdomen is large and bulbous, the cephalothorax (head-body) is squat and muscular, and the legs are long, articulated, and powerful. The most distinctive features are the eight eyes: eight large, forward-facing orbs arranged across the front of the head, with the two largest dominating the face and giving an impression of intense awareness. The eyes are reflective and gleam with intelligence. The fangs are prominent, and the legs are equipped with small claws and fine hairs that aid in climbing and gripping.
 
 ## Key Behaviors
 
-Giant Jumping Spiders are solitary hunters that establish territories but do not defend them violently—instead, they simply maintain hunting grounds and silk-lined refuges. They are diurnal and most active during daylight hours when their vision is most effective. A spider stalks prey methodically, using its exceptional vision to track movement from considerable distances, then closes with a single explosive leap when the distance is right. They are not web-builders—they create only small silk shelters for rest and safety, and they lay down silk anchor lines during jumps for safety in case of miscalculation. They communicate visually with other spiders during mating season, using elaborate displays.
+Giant Jumping Spiders are solitary hunters that establish territories but do not defend them violently—instead, they simply maintain hunting grounds and silk-lined refuges. They are diurnal and most active during daylight hours when their vision is most effective. A spider stalks prey methodically, using its sharp vision to track movement from considerable distances, then closes with a single explosive leap when the distance is right. They are not web-builders—they create only small silk shelters for rest and safety, and they lay down silk anchor lines during jumps for safety in case of miscalculation. They communicate visually with other spiders during mating season, using elaborate displays.
 
 ## Combat Strategy
 
@@ -278,7 +278,7 @@ A Giant Jumping Spider relies on surprise and the shock of sudden violence. It s
 
 ### Venomous Fangs
 
-The spider’s bite injects a fast-acting venom designed to paralyze prey—a creature bitten by a giant jumping spider must resist the venom or suffer progressive paralysis. The venom is not lethal to humanoids unless exposure is extreme.
+The spider’s bite injects a fast-acting venom designed to paralyze prey—a creature bitten by a giant jumping spider must resist the venom or be paralyzed by degrees. The venom is not lethal to humanoids unless exposure is extreme.
 
 ### Pouncing Tackle
 
@@ -292,7 +292,7 @@ The Giant Jumping Spider can leap up to 20 feet in a single bound, carrying its 
 
 ### Perfect Vision
 
-The spider’s eight eyes provide exceptional depth perception and motion-tracking ability. The spider can spot movement from great distances and can judge distances with remarkable accuracy.
+The spider’s eight eyes give it superb depth perception and tracking of motion. The spider can spot movement from great distances and judge distances with precision.
 
 ### Silk Safety Line
 
@@ -300,7 +300,7 @@ When leaping, the spider lays down a silk line that provides both safety (preven
 
 ## Additional Information
 
-A dead giant jumping spider’s fangs are sometimes harvested and used to craft weapons that deliver venom. The spider’s own venom is valuable to alchemists. Some characters have attempted to domesticate or recruit jumping spiders as allies—the creatures are intelligent enough that negotiation is theoretically possible, though results vary widely.
+A dead giant jumping spider’s fangs are sometimes harvested and used to craft weapons that deliver venom. The spider’s own venom is valuable to alchemists. Some have attempted to domesticate or recruit jumping spiders as allies—the creatures are intelligent enough that negotiation is theoretically possible, though results vary widely.
 
 ## Attributes
 
