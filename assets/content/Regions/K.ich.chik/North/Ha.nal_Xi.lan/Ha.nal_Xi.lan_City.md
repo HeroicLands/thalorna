@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - nrthrnkchchk
+    - hanalxilanrgn
   population: null
 name:
   full: Ha'nal Xi'lan

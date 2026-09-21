@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - sthrnkchchk
+    - kawiltzaklrgn
   population: null
 name:
   full: K'awiil Tza'kul

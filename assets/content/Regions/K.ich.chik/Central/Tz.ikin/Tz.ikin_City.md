@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - cntrlkchchk
+    - tzikinrgn
   population: null
 name:
   full: Tz'ikin
