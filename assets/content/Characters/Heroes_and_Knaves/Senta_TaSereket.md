@@ -609,7 +609,7 @@ Born to the Ta'Sereket clan in the fertile valleys of the Empire of [[affiliatio
 
 ### Training and Path
 
-At thirteen, Sênta convinced a weathered caravan master named **Thoren the Keen-Eyed** to hire her as a porter. Within two seasons, her exceptional climbing ability and innate awareness caught the attention of the caravan's head scout, **[[lore-mesharawse|Meshara]]**, a hard woman in her fifties who taught Sênta everything about reconnaissance, evasion, and survival in wild country. Under Meshara's tutelage, Sênta learned not only to move silently through scrubland and avoid bandits' notice, but to read wind patterns, predict weather, and understand the subtle signs of dangerous predators or hidden camps. She earned her first scout's blade at twenty, marking her official entry into the Mercenaries' Guild of Ta'Kheperu.
+At thirteen, Sênta convinced a weathered caravan master named **Thoren the Keen-Eyed** to hire her as a porter. Within two seasons, her exceptional climbing ability and innate awareness caught the attention of the caravan's head scout, **[[lore-mesharawse|Meshara]]**, a hard woman in her late sixties who taught Sênta everything about reconnaissance, evasion, and survival in wild country. Under Meshara's tutelage, Sênta learned not only to move silently through scrubland and avoid bandits' notice, but to read wind patterns, predict weather, and understand the subtle signs of dangerous predators or hidden camps. She earned her first scout's blade at twenty, marking her official entry into the Mercenaries' Guild of Ta'Kheperu.
 
 ### Current Situation
 
