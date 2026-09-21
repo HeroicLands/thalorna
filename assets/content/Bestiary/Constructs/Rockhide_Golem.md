@@ -67,11 +67,11 @@ sohl:
 
 ![[rckhdglm|Rockhide Golem]]{float: top-left}
 
-The ground trembles as the massive stone construct rises, its form an assemblage of layered rocks and boulders fused into something approaching humanoid shape. The exterior is armored in thick stone plates, and magical runes glow faintly across the surface. The eyes are deep-set, glowing like molten lava, burning with unwavering dedication and purpose. You are looking at something created from stone and sorcery, given movement and will through magical binding.
+The ground trembles as the massive stone construct rises, its form an assemblage of layered rocks and boulders fused into something approaching humanoid shape. The exterior is armored in thick stone plates, and magical runes glow faintly across the surface. The eyes are deep-set, glowing like molten lava, burning with a single fixed purpose. You are looking at something created from stone and sorcery, given movement and will through magical binding.
 
 # Dossier {#dossier}
 
-Rockhide Golems are engineered for defense and brute force, standing 10-12 feet tall and composed of fused stone and rock. These relentless guardians protect valuable treasures and important locations throughout ancient ruins and fortifications. Adventurers encounter them when approaching guarded sites or attempting theft from protected locations.
+Rockhide Golems are made for defense and brute force, standing 10-12 feet tall and composed of fused stone and rock. These relentless guardians protect valuable treasures and important locations throughout ancient ruins and fortifications. Adventurers encounter them when approaching guarded sites or attempting theft from protected locations.
 
 ## Presentation
 
@@ -79,7 +79,7 @@ A humanoid figure constructed from massive stones and boulders fused together, w
 
 ## Key Behaviors
 
-Rockhide Golems execute their programming absolutely, defending assigned areas with relentless commitment and no deviation.
+Rockhide Golems carry out their instructions absolutely, defending assigned areas with relentless commitment and no deviation.
 
 ## Combat Strategy
 
@@ -99,7 +99,7 @@ The golem tears loose stone and throws it as a projectile weapon.
 
 ### Stone Armor
 
-Highly resistant to physical and fire damage.
+Highly resistant to blows and to fire.
 
 ### Structural Reassembly
 
@@ -111,7 +111,7 @@ Uses landscape tactically, moving through rocky terrain with ease.
 
 ### Additional Information
 
-Water and sonic attacks disrupt the golem’s structure. The golem cannot be negotiated with or destroyed through conventional damage alone.
+Water and loud sound disrupt the golem’s structure. The golem cannot be negotiated with or destroyed by ordinary weapons alone.
 
 ## Attributes
 

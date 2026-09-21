@@ -67,19 +67,19 @@ sohl:
 
 ![[agrnsntn|Aegiron Sentinel]]{float: top-left}
 
-The presence hits like a physical force: an eight-foot colossus of interlocking iron plates etched with ancient runes that glow with faint, eerie light. The metallic frame gleams with cold precision, and every movement speaks of immense power held in careful check. The eyes are dark voids illuminated from within by shifting, otherworldly light that conveys watchful awareness and absolute purpose. There is no doubt whatsoever that you are facing something created for a singular purpose: to guard, to protect, and to destroy anything that threatens what it watches.
+The presence hits like a physical force: an eight-foot colossus of interlocking iron plates engraved with ancient runes that glow with faint, eerie light. The metallic frame gleams with cold precision, and every movement speaks of immense power held in careful check. The eyes are dark voids illuminated from within by shifting, otherworldly light that conveys watchful awareness and absolute purpose. There is no doubt whatsoever that you are facing something created for a singular purpose: to guard, to protect, and to destroy anything that threatens what it watches.
 
 # Dossier {#dossier}
 
-Aegiron Sentinels are ultimate guardians forged through magical engineering and arcane might, standing 8 feet tall and composed of interlocking iron plates. These constructs are stationed to protect sacred sites, treasures, and important individuals. Adventurers encounter them only when approaching guarded locations or attempting breach of protected areas.
+Aegiron Sentinels are ultimate guardians forged by arcane craft and might, standing 8 feet tall and composed of interlocking iron plates. These constructs are stationed to protect sacred sites, treasures, and important individuals. Adventurers encounter them only when approaching guarded locations or attempting to breach protected areas.
 
 ## Presentation
 
-The Aegiron Sentinel is towering, composed entirely of interlocking iron plates forming a humanoid shape. Ancient runes are etched across its frame, glowing faintly with magical power. The eyes are dark voids with shifting light within suggesting consciousness and awareness.
+The Aegiron Sentinel is towering, composed entirely of interlocking iron plates forming a humanoid shape. Ancient runes are cut across its frame, glowing faintly with magical power. The eyes are dark voids with shifting light within suggesting consciousness and awareness.
 
 ## Key Behaviors
 
-Aegiron Sentinels follow programming absolutely, neither tiring nor deviating from their duty. They are relentless and unflinching in defense of their assigned post or charge.
+Aegiron Sentinels follow their instructions absolutely, neither tiring nor deviating from their duty. They are relentless and unflinching in defense of their assigned post or charge.
 
 ## Combat Strategy
 
@@ -99,11 +99,11 @@ The sentinel projects destructive light from its eyes.
 
 ### Iron Durability
 
-Nearly immune to slashing and piercing attacks.
+Nearly immune to cuts and thrusts.
 
 ### Magical Regeneration
 
-Absorbs ambient magical energy to heal damage.
+Absorbs ambient magical energy to repair itself.
 
 ### Arcane Attacks
 
@@ -111,7 +111,7 @@ Projects destructive light beams from its eyes.
 
 ### Additional Information
 
-Electrical energy disrupts the sentinel's circuits, causing malfunction. Rust-based attacks compromise structural integrity. The sentinel cannot be reasoned with or bribed.
+Lightning disrupts the workings within the sentinel, and it falters. Rust weakens its frame. The sentinel cannot be reasoned with or bribed.
 
 ## Attributes
 

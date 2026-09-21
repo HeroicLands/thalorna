@@ -326,11 +326,11 @@ sohl:
 
 ![[dnstrdr|Dune Strider]]{float: top-left}
 
-The creature is impossibly tall, standing a full head and shoulders above human height on legs like living stilts. Tan and cream plumage ripples in the desert wind, providing camouflage so perfect that distance makes the creature seem to materialize from sand itself. The head is proportionally tiny, crowned with a wicked curve of beak, but the eyes are alert, intelligent, and constantly scanning. When it moves, the motion is economical and graceful: each step covers ground with remarkable efficiency, the powerful legs driving the body forward in bursts of speed. When it runs, dust rises in billowing clouds that obscure all vision, a golden veil between predator and prey.
+The creature is impossibly tall, standing a full head and shoulders above human height on legs like living stilts. Tan and cream plumage ripples in the desert wind, providing camouflage so perfect that distance makes the creature seem to materialize from sand itself. The head is proportionally tiny, crowned with a wicked curve of beak, but the eyes are alert, intelligent, and constantly scanning. When it moves, the motion is economical and graceful: each step covers a great stretch of ground, the powerful legs driving the body forward in bursts of speed. When it runs, dust rises in billowing clouds that obscure all vision, a golden veil between predator and prey.
 
 # Dossier {#dossier}
 
-The Dune Strider is an enormous, flightless bird found in hot deserts. Standing eight to ten feet tall and weighing one hundred fifty to three hundred pounds, these creatures are remarkably adapted to desert life. They are herbivorous/omnivorous foragers, eating desert plants, insects, and seeds. They are social animals, typically moving in small herds of four to six individuals. While not aggressive by nature, they are capable of defending themselves with powerful kicks capable of breaking bones and killing predators. They are famous for their speed—capable of sustained running across open desert at speeds approaching thirty miles per hour. A mounted rider on a trained Dune Strider can cross desert terrain faster than nearly any other land mount. Adventurers encounter these creatures while traveling desert regions, sometimes attempting to capture young birds for mount training.
+The Dune Strider is an enormous, flightless bird found in hot deserts. Standing eight to ten feet tall and weighing one hundred fifty to three hundred pounds, these creatures are well adapted to desert life. They are foragers, eating desert plants, insects, and seeds. They are social animals, typically moving in small herds of four to six individuals. While not aggressive by nature, they are capable of defending themselves with powerful kicks capable of breaking bones and killing predators. They are famous for their speed—capable of sustained running across open desert at speeds approaching thirty miles per hour. A mounted rider on a trained Dune Strider can cross desert terrain faster than nearly any other land mount. Adventurers encounter these creatures while traveling desert regions, sometimes attempting to capture young birds for mount training.
 
 ## Presentation
 
@@ -358,7 +358,7 @@ The beak can inflict minor injuries on small threats.
 
 ### Desert Speed and Endurance
 
-Dune Striders can run at high speeds across desert terrain for extended periods. Their endurance at running speeds is legendary.
+Dune Striders can run at high speeds across desert terrain for extended periods. Few creatures can keep pace with them for long.
 
 ### Dust-raising Camouflage
 

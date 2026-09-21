@@ -343,7 +343,7 @@ The Crystalclaw resembles a large feline predator—roughly six to eight feet in
 
 ## Key Behaviors
 
-The Crystalclaw is a solitary, territorial hunter that claims vast underground cavern systems as its domain. It patrols boundaries methodically and attacks any intrusion. Unlike beasts driven by hunger, the Crystalclaw seems to hunt for the joy of the hunt itself—for the movement, the refraction of light through violence, the song of crystal striking stone. It demonstrates remarkable intelligence in understanding prey behavior and adapting tactics. It hunts most actively in daylight when its light-based abilities are most effective, becoming partially dormant in prolonged darkness.
+The Crystalclaw is a solitary, territorial hunter that claims vast underground cavern systems as its domain. It patrols boundaries methodically and attacks any intrusion. Unlike beasts driven by hunger, the Crystalclaw seems to hunt for the joy of the hunt itself—for the movement, the refraction of light through violence, the song of crystal striking stone. It is intelligent enough to read prey behavior and adapt its tactics. It hunts most actively in daylight when its light-based abilities are most effective, becoming partially dormant in prolonged darkness.
 
 ## Combat Strategy
 
@@ -353,7 +353,7 @@ The Crystalclaw attacks with fluid grace and devastating speed. Its preferred ta
 
 ### Razor Claw Strikes
 
-The creature slashes with its four-clawed limbs in rapid, precise succession. These attacks deliver both physical trauma and can open severe lacerations due to the razor sharpness of crystalline edges.
+The creature slashes with its four-clawed limbs in rapid, precise succession. These attacks strike hard and open severe lacerations with the razor sharpness of their crystalline edges.
 
 ### Crystal Shard Projection
 
@@ -361,7 +361,7 @@ The Crystalclaw can detach and propel razor-edged shards of its own body at prey
 
 ### Blinding Flash
 
-The creature channels light through its crystalline body and releases it as a blinding burst of radiance. Targets struck by this flash suffer disorientation and impaired vision lasting several rounds. The ability is most effective in daylight or when light sources are available.
+The creature channels light through its crystalline body and releases it as a blinding burst of radiance. Targets struck by this flash suffer disorientation and impaired vision for a short while. The ability is most effective in daylight or when light sources are available.
 
 ## Special Abilities
 
@@ -371,7 +371,7 @@ The Crystalclaw can bend light through its faceted body, rendering itself diffic
 
 ### Crystal Durability
 
-The creature’s body is composed of material harder than most stone and harder than steel. It is extremely resistant to slashing and piercing damage. However, this same rigid structure makes it vulnerable to vibration, shock, and sonic attacks—anything that can cause the crystal lattice to resonate and fracture.
+The creature’s body is composed of material harder than most stone and harder than steel. It is extremely resistant to cutting and piercing blows. However, this same rigid structure makes it vulnerable to vibration, shock, and loud sound—anything that can cause the crystal lattice to resonate and fracture.
 
 ### Luminous Emission
 
@@ -379,7 +379,7 @@ The Crystalclaw produces its own light, allowing it to navigate and hunt in comp
 
 ## Additional Information
 
-Sonic attacks, high-pitched sounds, and vibration-based effects are the Crystalclaw’s primary weakness. Coordinated blunt-force trauma, specifically hammer strikes or impact spells designed to generate internal resonance, can shatter the creature’s body. Creatures wearing sound-dampening or protective eyewear gain advantage against its blinding flashes. Crystalclaws seem drawn to light-based magic and sources of magical radiation; they sometimes remain in areas of high magical concentration regardless of prey availability.
+Loud sound, high-pitched notes, and anything that sets it vibrating are the Crystalclaw’s primary weakness. Coordinated heavy blows, hammer strikes in particular, or impact spells that set the crystal ringing from within, can shatter the creature’s body. Creatures with their ears stopped or their eyes shielded suffer far less from its blinding flashes. Crystalclaws seem drawn to light-based magic and sources of raw magic; they sometimes remain in areas of high magical concentration regardless of prey availability.
 
 ## Attributes
 

@@ -258,7 +258,7 @@ sohl:
 
 ![[mmmthcnt|Mammoth Centipede]]{float: top-left}
 
-The vibration through the stone reaches you first—a rhythmic, undulating pulse like a second heartbeat in the earth itself. Then you see it: segment after segment of dark, chitinous plating emerging from the shadows, each plate slightly overlapping the next, rippling with an alien, fluid motion. The creature's antennae wave at the air, blindly seeking, and the sound of hundreds of tiny clawed feet pattering against stone fills the darkness. The mandibles—large, serrated, dripping something that glimmers faintly—open and close with a horrifying clacking sound. The smell is acrid, almost chemical, accompanied by the distinctive musk of something purely predatory and utterly inhuman.
+The vibration through the stone reaches you first—a rhythmic, undulating pulse like a second heartbeat in the earth itself. Then you see it: segment after segment of dark, chitinous plating emerging from the shadows, each plate slightly overlapping the next, rippling with an alien, fluid motion. The creature's antennae wave at the air, blindly seeking, and the sound of hundreds of tiny clawed feet pattering against stone fills the darkness. The mandibles—large, serrated, dripping something that glimmers faintly—open and close with a horrifying clacking sound. The smell is acrid, almost chemical, accompanied by the distinctive musk of something purely predatory and inhuman.
 
 # Dossier {#dossier}
 
@@ -266,11 +266,11 @@ The Mammoth Centipede is a large arthropod measuring 5-8 feet in length and weig
 
 ## Presentation
 
-Each segment of the centipede's body is protected by overlapping plates that provide armor and flexibility. The body tapers slightly from front to rear, allowing it to navigate tight spaces. The antennae are extraordinarily long—sometimes nearly as long as the body itself—and are covered in sensory hairs that detect vibration, temperature, and chemical signals. The mandibles are serrated and curved, designed to pierce and crush chitinous exoskeletons but equally effective against fleshy prey. The legs number in the dozens, each tipped with a small claw for purchase on any surface. Between the segments, glimpses of the softer, pale internal tissue are visible. A distinctive musky odor surrounds the creature.
+Each segment of the centipede's body is protected by overlapping plates that provide armor and flexibility. The body tapers slightly from front to rear, allowing it to navigate tight spaces. The antennae are extraordinarily long—sometimes nearly as long as the body itself—and are covered in sensory hairs that detect vibration, temperature, and scent. The mandibles are serrated and curved, designed to pierce and crush chitinous exoskeletons but equally effective against fleshy prey. The legs number in the dozens, each tipped with a small claw for purchase on any surface. Between the segments, glimpses of the softer, pale internal tissue are visible. A distinctive musky odor surrounds the creature.
 
 ## Key Behaviors
 
-Mammoth Centipedes are solitary, predatory arthropods that prefer dark, damp environments: caves, deep forest ruins, abandoned structures, and underground waterways. They are primarily nocturnal, retreating during the day into crevices or burrows. They navigate using their antennae to detect vibration and pheromone trails, relying on this sensory input more than vision. They are voracious hunters, stalking prey methodically through darkness and striking with explosive speed. They will consume nearly any creature they can subdue, from insects to small mammals and reptiles.
+Mammoth Centipedes are solitary, predatory arthropods that prefer dark, damp environments: caves, deep forest ruins, abandoned structures, and underground waterways. They are primarily nocturnal, retreating during the day into crevices or burrows. They navigate using their antennae to detect vibration and scent trails, relying on these more than on sight. They are voracious hunters, stalking prey methodically through darkness and striking with explosive speed. They will consume nearly any creature they can subdue, from insects to small mammals and reptiles.
 
 ## Combat Strategy
 
@@ -280,11 +280,11 @@ Centipedes employ ambush and speed to advantage, positioning themselves along kn
 
 ### Venomous Bite
 
-The centipede lunges with mandibles extended, striking at the closest vital area and immediately injecting venom; the bite deals piercing damage and progressive paralytic toxin that renders the victim increasingly immobilized, potentially causing complete paralysis.
+The centipede lunges with mandibles extended, striking at the closest vital area and immediately injecting venom; the bite pierces deep, and its toxin spreads, leaving the victim more and more immobilized and, at its worst, wholly paralysed.
 
 ### Constricting Coil
 
-For prey smaller than itself — small mammals, reptiles, and the like — the centipede uses its body length to wrap around the victim, compressing with surprising force; constricted prey takes crushing damage each round and must make a strength check to break free. The coil is rarely effective against a humanoid-sized opponent, but it can pin a limb or trap an arm against the body, leaving the victim open to repeated bites.
+For prey smaller than itself — small mammals, reptiles, and the like — the centipede uses its body length to wrap around the victim, compressing with surprising force; constricted prey is crushed steadily and can break free only by main strength. The coil is rarely effective against a humanoid-sized opponent, but it can pin a limb or trap an arm against the body, leaving the victim open to repeated bites.
 
 ## Special Abilities
 
@@ -294,11 +294,11 @@ The Mammoth Centipede can traverse vertical and inverted surfaces at full speed,
 
 ### Vibration Sense
 
-The centipede's antennae allow it to detect vibrations through solid matter, stone, and water, giving it a nearly perfect awareness of prey movements even in absolute darkness; it gains bonuses to detecting hidden or invisible creatures.
+The centipede's antennae allow it to detect vibrations through solid matter, stone, and water, giving it a nearly perfect awareness of prey movements even in absolute darkness; it senses hidden or invisible creatures more readily than most.
 
 ### Paralytic Venom
 
-The venom injected through the centipede's bite is a powerful neurotoxin designed to incapacitate prey; victims experience immediate damage and progressive paralysis that can render them completely immobilized if the venom is potent enough.
+The venom injected through the centipede's bite is a powerful poison that attacks the nerves and incapacitates prey; victims feel immediate pain and a spreading paralysis that can leave them completely immobilized if the dose is strong enough.
 
 ## Attributes
 

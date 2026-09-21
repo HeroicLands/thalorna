@@ -324,7 +324,7 @@ sohl:
 
 ![[thndrtln|Thundertalon]]{float: top-left}
 
-The sky darkens around it. What descends is magnificent and terrifying—an eagle the size of a great horse, wreathed in storm clouds and alive with crackling electricity. Its feathers are not feathers but formations of electrical discharge, each one glowing with electric blue. Its talons are points of pure lightning, and its eyes burn with intelligence and predatory purpose. When it moves, the air itself screams, and thunder follows its passage. The static electricity in the air becomes palpable, making hair stand on end and forcing breath to come in shallow gasps.
+The sky darkens around it. What descends is magnificent and terrifying—an eagle the size of a great horse, wreathed in storm clouds and alive with crackling lightning. Its feathers are not feathers but tongues of lightning, each one glowing blue-white. Its talons are points of pure lightning, and its eyes burn with intelligence and predatory purpose. When it moves, the air itself screams, and thunder follows its passage. The charge in the air makes hair stand on end and forces breath to come in shallow gasps.
 
 # Dossier {#dossier}
 
@@ -332,29 +332,29 @@ A Thundertalon is a storm elemental of tremendous power and intelligence. Unlike
 
 ## Presentation
 
-A Thundertalon resembles an enormous eagle, with a wingspan approaching thirty feet. Its body is composed of electrical energy and storm given form, with feathers that crackle and spark with electricity. Its talons are pure lightning, and they glow with an intense electric-blue light. Its eyes are storm-gray and far more intelligent than any natural bird. Where it flies, the air becomes charged with static, and the smell of ozone grows strong. It moves with grace and power, and its presence causes atmospheric disturbance.
+A Thundertalon resembles an enormous eagle, with a wingspan approaching thirty feet. Its body is composed of storm and lightning given form, with feathers that crackle and spark. Its talons are pure lightning, and they glow with an intense blue-white light. Its eyes are storm-gray and far more intelligent than any natural bird. Where it flies, the air prickles, and the sharp smell that follows a lightning strike grows strong. It moves with grace and power, and the weather turns where it passes.
 
 ## Key Behaviors
 
-Thundertalons are territorial and intelligent. They understand human settlement patterns and will attack humans attempting to climb mountains or enter sky-regions they have claimed. They hunt regularly and seem to prefer hunting from the air, diving at prey with tremendous speed. They show remarkable memory and will remember individuals who have threatened them. Multiple Thundertalons in a region may coordinate or may fight for territorial dominance. They seem to grow stronger during storms and may position themselves in locations where violent weather is developing.
+Thundertalons are territorial and intelligent. They understand human settlement patterns and will attack humans attempting to climb mountains or enter sky-regions they have claimed. They hunt regularly and seem to prefer hunting from the air, diving at prey with tremendous speed. They have long memories and will remember individuals who have threatened them. Multiple Thundertalons in a region may coordinate or may fight for territorial dominance. They seem to grow stronger during storms and may position themselves in locations where violent weather is developing.
 
 ## Combat Strategy
 
-A Thundertalon fights from the air with tactical precision. It uses its speed to attack and withdraw before enemies can retaliate. It combines physical talon attacks with lightning strikes, and it can create localized storms to increase environmental hazards. It will attempt to drive opponents off cliffs or into dangerous terrain. Against opponents with earth-based magic or electrical protection, it becomes more aggressive, viewing them as worthy threats. A Thundertalon will fight to the death if protecting territory or young.
+A Thundertalon fights from the air with tactical precision. It uses its speed to attack and withdraw before enemies can retaliate. It combines physical talon attacks with lightning strikes, and it can create localized storms to make the ground more dangerous. It will attempt to drive opponents off cliffs or into dangerous terrain. Against opponents with earth-based magic or protection against lightning, it becomes more aggressive, viewing them as worthy threats. A Thundertalon will fight to the death if protecting territory or young.
 
 ## Attack Methods
 
 ### Lightning-Charged Talons
 
-The Thundertalon dives and strikes with talons of pure electrical energy. The strike combines physical damage from talon impact with electrical burns that penetrate even armored opponents. Victims struck experience muscle paralysis and nerve damage.
+The Thundertalon dives and strikes with talons of pure lightning. The talons tear, and the lightning burns through even armored opponents. Victims struck are seized by paralysis and left with lasting numbness.
 
 ### Lightning Bolt
 
-The Thundertalon summons a bolt of electricity from the sky that strikes a target with devastating precision. The bolt can strike multiple times if the Thundertalon maintains focus, turning a single target into a conduit for repeated electrical damage.
+The Thundertalon summons a bolt of lightning from the sky that strikes a target with devastating precision. The bolt can strike multiple times if the Thundertalon maintains focus, and a single target may be struck again and again.
 
 ### Thunderclap
 
-The Thundertalon beats its wings and generates a shockwave of sonic and electrical force. The effect is deafening and knocks opponents off their feet. It can be used both as attack and as defense to create distance.
+The Thundertalon beats its wings and generates a shockwave of thunder and lightning. The effect is deafening and knocks opponents off their feet. It can be used both as attack and as defense to create distance.
 
 ### Storm Creation
 
@@ -364,27 +364,27 @@ The Thundertalon can cause localized storms to develop rapidly, complete with li
 
 ### Aerial Dominance
 
-The Thundertalon is supremely skilled in aerial combat and maneuvers with incredible precision and speed in open sky. In aerial combat, it gains overwhelming advantages against ground-based opponents.
+The Thundertalon is supremely skilled in aerial combat and maneuvers with incredible precision and speed in open sky. In aerial combat, ground-based opponents can barely answer it.
 
 ### Electrical Form
 
-The Thundertalon is partially composed of electrical energy and is resistant to electrical damage. It is harmed primarily by earth-based magic and by grounding effects that dissipate its electrical charge.
+The Thundertalon is partially composed of lightning, and lightning does it little harm. It is harmed primarily by earth-based magic and by anything that draws its charge into the ground.
 
 ### Lightning Summoning
 
-The Thundertalon can call down lightning from storm clouds with precision. It seems to have an almost supernatural ability to direct electricity from the sky.
+The Thundertalon can call down lightning from storm clouds with precision. It seems to have an almost supernatural ability to direct lightning from the sky.
 
 ### Feather Projectiles
 
-The Thundertalon can shed feathers of pure electrical energy that function as projectiles, arcing through the air and striking targets with surprising accuracy.
+The Thundertalon can shed feathers of pure lightning that fly like darts, arcing through the air and striking targets with surprising accuracy.
 
 ### Storm Attunement
 
-The Thundertalon grows stronger during storms and draws power from electrical discharges in its environment. In a region of active thunderstorms, it becomes nearly unstoppable.
+The Thundertalon grows stronger during storms and draws power from every lightning strike around it. In a region of active thunderstorms, it becomes nearly unstoppable.
 
 ## Additional Information
 
-Earth-based magic and grounding effects are most effective against a Thundertalon. Materials designed to conduct electricity safely—proper grounding rods and metal frameworks—can reduce the threat of its lightning. A Thundertalon destroyed far from electrical sources may not reform. One destroyed during a storm will likely return. Settlement threats from a Thundertalon can sometimes be resolved by offering alternative territory or by avoiding areas the creature has claimed. Some rare individuals have trained to fight Thundertalons and have survived such encounters through use of proper grounding equipment and earth-based magic.
+Earth-based magic and grounding effects are most effective against a Thundertalon. Iron rods driven into the earth and metal frameworks that carry lightning safely to the ground can reduce the threat of its bolts. A Thundertalon destroyed far from any storm may not reform. One destroyed during a storm will likely return. Settlement threats from a Thundertalon can sometimes be resolved by offering alternative territory or by avoiding areas the creature has claimed. Some rare individuals have trained to fight Thundertalons and have survived such encounters by drawing its lightning into the ground and by earth-based magic.
 
 ## Attributes
 

@@ -365,11 +365,11 @@ The creature stands upon stone as if born from it, its massive frame balanced wi
 
 # Dossier {#dossier}
 
-The Stone Ram is a powerful, heavily built mountain herbivore standing 4-5 feet at the shoulder and weighing 300-400 pounds, found on high-altitude cliffs, rocky plateaus, and mountainous regions across temperate and cool climates. These herd animals are exceptional climbers that maintain exclusive territories in terrain where ground-bound predators cannot follow. Adventurers encounter stone rams while traveling mountain passes, camping near cliffs, or hunting in areas where the rams establish grazing grounds.
+The Stone Ram is a powerful, heavily built mountain herbivore standing 4-5 feet at the shoulder and weighing 300-400 pounds, found on high-altitude cliffs, rocky plateaus, and mountainous regions across temperate and cool climates. These herd animals are superb climbers that maintain exclusive territories in terrain where ground-bound predators cannot follow. Adventurers encounter stone rams while traveling mountain passes, camping near cliffs, or hunting in areas where the rams establish grazing grounds.
 
 ## Presentation
 
-The Stone Ram presents a compact, muscular form built for power and climbing capability. The body is stocky and heavily muscled, covered in thick, shaggy fur ranging from gray to gray-white with darker markings. The most distinctive feature is the spiraling horns that extend upward from the skull — enormous, dark, and deeply grooved from years of combat with rival rams and weathering against stone. The horns can exceed 3 feet in length and weigh 20+ pounds each. The head is broad and blocky, with a strong jaw adapted for grinding vegetation and a pair of forward-facing eyes. The legs are proportionally short but extraordinarily muscular and powerful. The hooves are small and highly specialized for gripping stone and rock, capable of finding purchase on surfaces that appear smooth to human observation.
+The Stone Ram presents a compact, muscular form built for power and climbing capability. The body is stocky and heavily muscled, covered in thick, shaggy fur ranging from gray to gray-white with darker markings. The most distinctive feature is the spiraling horns that extend upward from the skull — enormous, dark, and deeply grooved from years of combat with rival rams and weathering against stone. The horns can exceed 3 feet in length and weigh 20+ pounds each. The head is broad and blocky, with a strong jaw adapted for grinding vegetation and a pair of forward-facing eyes. The legs are proportionally short but extraordinarily muscular and powerful. The hooves are small and highly specialized for gripping stone and rock, capable of finding purchase on surfaces that appear smooth to a human eye.
 
 ## Key Behaviors
 
@@ -391,13 +391,13 @@ When rearing up, the stone ram uses its powerful hind legs to deliver upward kic
 
 ### Head Butt
 
-The stone ram uses its thick skull as a battering weapon, delivering impacts that can daze and disorient opponents. This attack is less devastating than the horned charge but can be repeated rapidly.
+The stone ram uses its thick skull as a battering weapon, delivering impacts that can daze and disorient opponents. This attack does less harm than the horned charge but can be repeated rapidly.
 
 ## Special Abilities
 
 ### Mountain Agility
 
-The stone ram is supremely adapted to vertical and near-vertical terrain, capable of scaling near-vertical cliff faces and traversing ledges that would be impassable for humanoids. The creature gains overwhelming advantage when fighting on rocky, steep, or uneven terrain.
+The stone ram is supremely adapted to vertical and near-vertical terrain, capable of scaling near-vertical cliff faces and traversing ledges that would be impassable for humanoids. On rocky, steep, or uneven ground the creature has the upper hand entirely.
 
 ### Unyielding Charge
 
@@ -417,7 +417,7 @@ Once a stone ram commits to a charge or defense, it follows through with complet
 
 ### Additional Information
 
-Stone rams are most dangerous in their native mountain terrain where climbing ability and rocky environment provide complete advantage. In open ground or level terrain, the creatures' advantage is significantly diminished. Herds of stone rams are more dangerous than individuals, as coordination and numbers create overwhelming threat. Rams defending young become more aggressive but still prioritize use of terrain for defense. The creature's horns can be harvested after death and used for decoration, crafting, or magical use. Stone rams are traditionally hunted by mountain cultures, and hunting them is a significant rite of passage or religious practice.
+Stone rams are most dangerous in their native mountain terrain where climbing ability and rocky environment give it complete mastery. In open ground or level terrain, much of that mastery is lost. Herds of stone rams are more dangerous than individuals, as coordination and numbers create overwhelming threat. Rams defending young become more aggressive but still rely first on terrain for defense. The creature's horns can be harvested after death and used for decoration, crafting, or magical use. Stone rams are traditionally hunted by mountain cultures, and hunting them is a significant rite of passage or religious practice.
 
 ## Attributes
 
