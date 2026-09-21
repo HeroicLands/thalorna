@@ -606,73 +606,84 @@ sohl:
 
 ![[tarelblthl|Tárellia Bélthal]]{float: top-left}
 
-Slight, fair and blue-eyed, with dark brown hair, a soft-featured face, a narrow nose, a gentle jawline and dark brows; 5'6" and light. She looks like someone who works indoors, which she does.
+Tárellia stands 5'6" tall with a light build. She has light fair skin, dark brown hair, and blue eyes. Her features include a soft-featured face, a narrow nose, a gentle jawline, dark brows.
 
 # Dossier {#dossier}
 
-Everyone in Port Aelion knows the joke: the best maritime astrologer in the Kingdom of Élavendre cannot go to sea. Tárellia Bélthal is sick on flat water in harbor. Her whole knowledge of tides, winds and the timing of voyages was built from a chair, and the captains who take her advice have learned not to invite her aboard.
+Tárellia Bélthal was born in a coastal trading city of the Kingdom of Élavendre to a merchant family with interests in maritime commerce. Her father, recognizing her aptitude for mathematics and observation, arranged for her to study with an aging astrologer named Meridian the Far-Seeing, a woman of considerable reputation who had served as advisor to merchant captains and the kingdom's navies. Where others found astrology mystical and obscure, Tárellia approached it as a complex system of pattern recognition and mathematical correlation—a way of reading the future through the language of stars, cycles, and celestial mechanics.
 
-She was born in a coastal trading city of Élavendre to merchants in the sea trade. Her father saw that she counted and noticed things, and put her to study with an old astrologer, Meridian the Far-Seeing, who had advised merchant captains and the kingdom's navies. Where most people find astrology mysterious, Tárellia found a system: cycles, correlations, the mechanics of the sky read as a set of tables, and a way of saying what would happen at sea before it did.
+By her early twenties, Tárellia had already surpassed most of her contemporaries in her understanding of nautical astrology, the specific practices of predicting weather patterns, tides, and journeys by sea. She began consulting for major merchant ventures and, eventually, for the Mariners' Guild itself. Her predictions—particularly regarding seasonal trade winds, storm patterns, and auspicious departure dates—became legendary for their accuracy. A mistake early in her career left a merchant vessel caught in an unexpected winter storm, resulting in significant loss of life. Though investigation showed the error was caused by the ship's captain ignoring her specific warnings, Tárellia took the responsibility deeply to heart, and it has shaped her cautious, precise approach to her work ever since.
 
-By her early twenties she was ahead of her contemporaries in the nautical branch of the art — winds by season, storms, tides, the right day to sail — and was consulting for merchant ventures and then for the Mariners' Guild itself. Her forecasts of trade winds and storm tracks became the ones people bet ships on. Early in that time a merchant vessel went down in a winter storm with heavy loss of life. The inquiry found that the captain had ignored her explicit warning. She took it as hers anyway, and everything she has done since has been done more carefully because of it.
-
-At thirty-nine she is the astrologer the sea trade of Élavendre consults first. She keeps a small study in Port Aelion where merchants and captains come to ask about routes, timing and the wisdom of a venture. She has never married. That has not kept her private life free of complication.
+At thirty-nine, she has become the preeminent astrological advisor for maritime concerns in Élavendre. She maintains a small study in the coastal city of Port Aelion, where merchants and captains come seeking her guidance on everything from trade route timing to the auspiciousness of various ventures. She has never married, dedicating herself entirely to her craft, though this has not prevented certain romantic complications from shaping her personal life.
 
 ## Psyche
 
 ### Personality
 
-Deliberate in everything, as one would expect of someone who spends her days on calculation. She chooses words the way she chooses figures and can seem cold to people who do not know that it is care rather than coldness: imprecise language causes misunderstanding, and at sea a misunderstanding drowns people.
+Tárellia is thoughtful and deliberate in all her actions, a natural consequence of her work with celestial mechanics and precise calculations. She speaks carefully, choosing words with mathematical precision, which can make her seem emotionally distant to those who do not know her well. However, those who spend time with her discover that this careful communication stems not from coldness but from a genuine respect for accuracy—she believes that imprecise language leads to misunderstanding, which can literally kill.
 
-Among friends she is dry and unexpectedly playful. She has few of them, having spent her social life on her studies, and she is loyal to those few without limit. She is honest about what she knows and does not know — a probability is stated as one, never dressed as a certainty — and that honesty is the reason her counsel is worth so much.
+She possesses a dry wit and surprising capacity for playfulness when comfortable in company. She is intensely loyal to those she considers friends, though she has few such relationships, having sacrificed much of her social life to her studies. She is genuinely humble about her abilities, never claiming certainty where probabilities exist, and she is quick to acknowledge the limits of her knowledge. This honesty—her refusal to fabricate certainty—is perhaps what makes her counsel so valuable.
 
 ### Motivation
 
-To stop things going wrong that need not. The storm is under everything: she does not want fame or money from her art, she wants it to be exact enough that nobody else dies of a warning not given or not heard. Under that is a scholar's curiosity about why the sky's patterns work at all, and every forecast that comes true feels to her like a step toward the answer.
+Tárellia is motivated by a drive to prevent tragedy through accurate knowledge, stemming from the guilt she carries about the maritime disaster she failed to prevent. She seeks mastery of her craft not for fame or wealth, but as a form of expiation—a way of honoring those lost by ensuring that her knowledge serves the living. She also maintains a scholarly curiosity about the mechanisms underlying celestial influence, viewing each successful prediction as a step toward understanding the deeper patterns governing reality.
 
 ### Strengths
 
-- **Extraordinary Perception and Awareness**: She sees the detail in a chart, a star's position or the look of the sky that nobody else has noticed, and reads pattern from it with uncanny accuracy.
-- **Mathematical Mastery**: Long calculations across several astronomical tables, done fast and done right.
-- **Fluent Communication**: She can explain a difficult idea plainly and talk a captain out of a departure he had his heart set on.
-- **Scholarly Learning**: The lore of navigation and the sky, historical precedent for almost any situation, and the ability to read texts other scholars cannot.
-- **Reliable Consultation**: Steady under pressure, and once she has committed to a forecast she does not waver. The people who ask her trust what they are told.
+- **Extraordinary Perception and Awareness**: Her perception (15) and awareness (15) are exceptional, allowing her to notice details in charts, star positions, and environmental indicators that others miss entirely. She can read nuance and pattern with almost uncanny accuracy.
+
+- **Mathematical Mastery**: Her reasoning (14) and mathematics (13) skills, combined with extensive knowledge of astrology (13), allow her to perform complex calculations rapidly and accurately. She can cross-reference multiple astronomical tables and reach conclusions that would take others hours.
+
+- **Fluent Communication**: Her eloquence (14), discourse (14), and voice (15) allow her to explain complex concepts clearly and to persuade merchants and captains to follow her advice, even when it contradicts their instincts or previous plans.
+
+- **Scholarly Expertise**: Her folk knowledge (14) and script (14) skills make her a repository of navigational and astrological lore. She can reference historical precedent to support her recommendations and has access to rare texts others cannot interpret.
+
+- **Reliable Consultation**: Her will (14) makes her steady under pressure, and her command presence (14) ensures that those seeking her advice trust her guidance. She does not second-guess herself once committed to a prediction.
 
 ### Weaknesses
 
-- **Physical Vulnerability to Sea Travel**: The seasickness is disabling, not inconvenient. She cannot stay aboard long enough to observe anything, or travel anywhere by water, which for a maritime astrologer is an absurdity she has stopped finding funny.
-- **Emotional Isolation**: Very few close ties, sometimes real loneliness, and no gift for making new friends.
-- **Weight of Responsibility**: The old guilt makes her over-cautious. She has refused commissions whose risk she could not fully calculate, and her advice sometimes errs on the side of staying in port.
-- **Physical Frailty**: Not strong and quickly tired. Anything heavy needs other hands.
-- **Limited Combat Capability**: A dagger she has never used in anger, and no other defense. She depends entirely on others if it comes to violence.
+- **Physical Vulnerability to Sea Travel**: Her seasickness is not a minor inconvenience—it is genuinely debilitating. She cannot be on the water for extended periods without becoming incapacitated, severely limiting her ability to conduct research aboard ships or to travel to distant locations. This creates a paradox: the world's most knowledgeable maritime astrologer cannot actually travel by sea.
+
+- **Emotional Isolation**: Her dedication to her craft has left her with minimal social connections. This isolation can become severe, and she sometimes struggles with loneliness. Her lack of social skills (charm is only 12) makes forming new relationships difficult.
+
+- **Weight of Responsibility**: She carries deep guilt about past failures, which sometimes manifests as excessive caution. She may refuse commissions that carry risk she has not fully calculated, potentially being too conservative in her advice.
+
+- **Physical Frailty**: Her strength (9) and endurance (11) are her lowest attributes, making her physically vulnerable. She requires assistance with tasks requiring strength and is easily fatigued by demanding physical labor.
+
+- **Limited Combat Capability**: Beyond her dagger and general lack of martial skills, she is unprepared for violence. She must depend entirely on others for physical protection if threatened.
 
 ## Social
 
 ### Patrons
 
-- **Merchant Prince Nathaniel Seaworth**: A trader whose fortune has grown on her routes and her sailing dates. He pays well for exclusive consultation and considers her his secret edge.
-- **Captain-Commander Theron Glassbrand**: Head of Élavendre's naval forces, who uses her for weather, for enemy movements and for the timing of operations. His trust gives her forecasts official weight.
-- **the Mariners' Guild Council**: The guild's governing body, which keeps her on retainer as its chief consultant on celestial navigation and maritime astrology.
-- **Scholar-Collector Adrienne Moonwhisper**: An old woman with a private library of rare astrological texts, who employs Tárellia to authenticate, order and study new acquisitions. Colleagues rather than patron and client.
+- **Merchant Prince Nathaniel Seaworth**: A wealthy trader whose fortune was significantly increased by consistently following Tárellia's advice regarding trade routes and departure timing. He pays handsomely for her exclusive consultation and considers her his secret advantage against competitors.
+
+- **Captain-Commander Theron Glassbrand**: The supreme naval commander of Élavendre's maritime forces, who employs Tárellia for strategic predictions regarding weather, enemy movements, and auspicious timing for naval operations. His trust in her has made her recommendations carry official weight.
+
+- **the Mariners' Guild Council**: The official governing body of the guild that has engaged Tárellia as the primary consultant for matters of celestial navigation and maritime astrology. They pay her retainer and frequently consult her on matters affecting guild interests.
+
+- **Scholar-Collector Adrienne Moonwhisper**: An elderly woman of learning who maintains a private library of rare astrological texts and who employs Tárellia to help authenticate, organize, and study new acquisitions. Their relationship is more scholarly and collegial than typical patron-consultant relationships.
 
 ### Enemies
 
-- **Captain Darios Stormrider**: The captain whose ship went down when he ignored her. The inquiry cleared her; he did not. He still blames her for his crew and his cargo and tells anyone who listens that her forecasts are unreliable and her caution is fear.
-- **Charlatan Astrologer Malachai the False**: A rival who sells theatre and vague prophecy to rich clients and sees her as a threat to the trade. He puts it about that her successes are luck.
+- **Captain Darios Stormrider**: A successful merchant captain who publicly blamed Tárellia for the naval disaster that occurred when his ship ignored her warnings. Though investigation absolved her, Darios continues to view her as responsible for his lost crew and missing cargo. He actively spreads the story that her predictions are unreliable and that her caution is nothing more than excessive fear.
+
+- **Charlatan Astrologer Malachai the False**: A rival astrologer who employs theatrical presentation and ambiguous prophecy to charm wealthy clients. He views Tárellia as a threat to his livelihood and has actively worked to undermine her credibility, spreading claims that her success is due to luck rather than skill.
 
 ### Affiliations
 
-- **the Mariners' Guild of Port Aelion**: The port's governing body for the sea trade. She is its official adviser, and the standing helps.
-- **the Aurèldián Academy of Celestial Studies**: The scholarly institution for astrology and the mechanics of the sky. She works independently but keeps her membership and lectures there sometimes on the maritime uses of the art.
+- **the Mariners' Guild of Port Aelion**: The primary professional organization governing maritime interests in the region. Tárellia serves as an official advisor and maintains guild standing that enhances her credibility.
+
+- **the Aurèldián Academy of Celestial Studies**: A scholarly institution focused on the study of astrology and celestial mechanics. Though she operates independently, Tárellia maintains membership and occasionally guest-lectures on maritime applications of her knowledge.
 
 ## Plot Hooks
 
-1. **The Impossible Celestial Conjunction**: For the first time in her life the sky is doing something her tables say it cannot. A conjunction is forming that no model allows, and the reading is catastrophe unless something is done. No merchant will act on an impossible forecast, and she has until the convergence to prove both the mathematics and the danger.
+1. **The Impossible Celestial Conjunction**: For the first time in her career, the stars are moving in ways that contradict every mathematical model and historical precedent Tárellia possesses. A celestial conjunction is occurring that should not be possible according to known mechanics, and the signs suggest a catastrophe of unprecedented magnitude will occur unless action is taken. No merchant will listen to a prediction based on impossible astronomy, and Tárellia must somehow prove both that her calculations are correct and that the threat is real before the convergence date arrives.
 
-2. **the Drowned Captain's Map**: A waterlogged chart has turned up in a merchant's hands, purporting to show routes recommended by an astrologer three hundred years dead — and they match, exactly, her own forecast for next season's winds. Either the sky repeats itself in ways she has not understood, or someone who knows her work has made a very good fake.
+2. **the Drowned Captain's Map**: A waterlogged map surfaces in a merchant's possession, purporting to show trade routes recommended by an astrologer from three centuries past. When Tárellia examines it, she realizes that the routes recommended perfectly align with her own predictions for next season's trade winds—suggesting either that celestial patterns are cyclical in ways she hasn't understood, or that someone with knowledge of her work created a false artifact. She must determine which is true and whether the map holds genuine value or is an elaborate deception.
 
-3. **The Sea-Curse Investigation**: Merchant ships have been vanishing on ordinary routes in ordinary weather, and by her calculations none of them should have met trouble. She has been asked to find out whether it is a curse, a sorcery or something in the sea itself, and the answer she is closing on is that the cycles themselves are being interfered with.
+3. **The Sea-Curse Investigation**: A series of merchant vessels have been mysteriously lost at sea, their final reports indicating they were following standard trading practices and experiencing normal weather. Yet Tárellia's records show that none of those ships should have encountered problems according to her astral calculations. She is hired to investigate whether a curse, sorcery, or unknown natural phenomenon is affecting maritime travel, and her investigation leads to implications suggesting interference with the natural cycles themselves.
 
-4. **The Prophecy in Her Own Name**: An old text names "Tárellia the Star-Reader" and describes, accurately, things that have happened to her — and then describes her death, in particular circumstances, within a stated time. It may be real. It may be coincidence. It may have been written with her name in it by someone who wants her frightened, and it is working.
+4. **The Prophecy in Her Own Name**: Tárellia discovers an ancient text that contains a prophecy specifically naming someone called "Tárellia the Star-Reader," describing events that have already occurred in her life with terrifying accuracy. The prophecy continues with predictions of her death under specific circumstances within a defined timeframe. She must determine whether the prophecy is genuine and applies to her, whether it's a coincidence, or whether someone has created a false prophecy with her name deliberately inserted to manipulate her.
 
-5. **the Silent Mutiny**: A captain she has worked with for years came to her door at night. His crew are about to mutiny because they believe the stars foretell disaster for any ship under his command. She has to judge whether their reading has anything in it, what they actually want, and how to handle what may be superstition or may be a conspiracy wearing it.
+5. **the Silent Mutiny**: A merchant captain she has worked with for years arrives at her door asking for an emergency consultation. He believes his crew is about to mutiny based on astrological interpretation—they believe that the stars indicate a terrible fate will befall any ship with his command. Tárellia must determine whether the crew's interpretation has any validity, what their true motivations are, and how to navigate the political and personal implications of what might be a conspiracy disguised as superstition.

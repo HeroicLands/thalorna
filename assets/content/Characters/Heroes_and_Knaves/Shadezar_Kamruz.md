@@ -600,7 +600,7 @@ sohl:
 
 ![[shadzrkmrz|Shâdezar Kamruz]]{float: top-left}
 
-Six and a half feet of him, 6'5" and heavy with it, tanned and ruddy, with dark brown hair and brown eyes. The face is diamond-shaped with a hawkish nose, a narrow chin, well-defined lips, dark brows and angular cheeks, and it has not been asked to smile in some time.
+Shâdezar stands 6'5" tall with a heavy build. He has tanned ruddy skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a narrow chin, well-defined lips, dark brows, angular cheeks.
 
 # Dossier {#dossier}
 
@@ -608,70 +608,86 @@ Six and a half feet of him, 6'5" and heavy with it, tanned and ruddy, with dark 
 
 ### Rise to Power
 
-The first time his name was sung at the fires, Shâdezar was sixteen and had just come back from his first raid on a neighboring tribe with more blood on him than any man twice his age. He has been trying to hear that song again ever since.
+Shâdezar was born forty-nine years ago into the Kamruz clan, one of the mid-tier tribes of the Dunhara confederation. His father, a capable warrior named **Krezech Kamruz**, was respected but not feared, and the clan held only modest territory and influence. Young Shâdezar grew up hearing stories of the great chieftains of old and resolved early to become greater than his father, to expand the Kamruz holdings and establish his bloodline as one of supreme authority. His mother, a shaman named **Tashira**, blessed him with rituals dedicated to **Báhrámiš**, the god of storms, asking the deity to bless her son with strength and fury.
 
-He was born forty-nine years ago into the Kamruz clan, a middling tribe of the Dunhara confederation, to Krezech Kamruz, a good warrior who was respected and not feared, and to Tashira, a shaman, who put him under the storm god Báhrámiš with rites asking for strength and fury. The boy grew up on stories of the great chieftains and decided early to outdo his father: more land, more tribes, a bloodline that ruled. Within five years of that first raid he had fought in more skirmishes than anyone counted and had never lost a duel. At twenty-seven his father fell in battle against the Soltrev clan and Shâdezar took the Kamruz, and began at once to expand. In two decades he has broken or bound five neighboring tribes to the Kamruz banner, by his own arm and by the argument that the strong rule.
+At sixteen, Shâdezar participated in his first raid against a neighboring tribe. He fought with such ferocity and skill that his name was sung in celebration fires. Within five years, he had participated in countless skirmishes and won every duel he fought. He ascended to leadership of the Kamruz clan at twenty-seven when his father fell in battle against the rival **Soltrev clan**, and immediately began an aggressive policy of expansion. Over the next two decades, Shâdezar conquered or subjugated five neighboring tribes, binding them to the Kamruz banner through superior martial prowess and the legitimacy of strength.
 
 ### Consolidation and Current Rule
 
-At forty-nine he rules a confederation covering most of the Dunhara. It has brought a kind of peace — the endless raiding and feuding have given way to campaigns and a clear order of command — and it has rested more and more on fear. His younger sons are jockeying. His rivals are bolder, sensing that an old chieftain's grip loosens. His recent decisions have been harder and less wise than his earlier ones, and there are people in the tents saying, carefully, that the years may finally have caught the great Shâdezar Kamruz.
+Now at forty-nine, Shâdezar rules a confederation of tribes that controls a vast territory of the Dunhara region. His rule has brought stability of a sort—the constant raiding and feuding that characterized the tribes before his rise have diminished, replaced by organized military campaigns and clear hierarchies. However, his method of governance has increasingly relied on fear and direct domination rather than consensus or negotiation. His younger sons vie for position, and his rivals grow bolder, sensing that the aging chieftain may not maintain his grip forever. His recent decisions have become more aggressive and less strategic, leading some to whisper that perhaps age is finally catching up with the legendary Shâdezar Kamruz.
 
 ## Psyche
 
 ### Personality
 
-Direct, forceful, and certain of his own superiority. He is a poor speaker and knows it; he says a thing once, briefly, and expects it to be done, and he takes a question for weakness. He does not think in complications. Give him an enemy to beat, ground to take or a rival to break and he is happy; give him a treaty and he is lost.
+Shâdezar is direct, forceful, and utterly convinced of his own superiority. His eloquence of 8 means he cannot articulate his positions with sophistication or persuasion; instead, he communicates through action and simple, powerful statements. When he speaks, he expects absolute obedience, and he interprets hesitation or question as weakness. His reasoning of 10 limits his ability to engage with complex political or strategic thinking; he prefers clear problems with direct solutions—an enemy to be defeated, territory to be conquered, a rival to be crushed.
 
-He feels no remorse worth the name. He believes that the strong thrive and the weak go under and that this is simply how the world is made, and he despises cunning, magic and trickery as the tools of people who cannot win honestly. He is not a savage. He keeps a strict code, honors an oath, fights within the tribal rules, and holds himself to a warrior's discipline, and his men follow him from admiration as much as fear. There is a purity in his devotion to strength that some find inspiring, even those who can see where it leads.
+His low empathy of 7 and morality of 9 mean that Shâdezar feels no genuine remorse for harm he causes others. He views violence not as a regrettable necessity but as the fundamental truth of existence—strong tribes thrive, weak tribes perish, and the universe operates according to these simple truths. He respects only strength and honor (defined as keeping one's word and fighting fairly within the tribal codes), and he has nothing but contempt for those who rely on cunning, magic, or subterfuge. From his perspective, such tactics are the resort of the weak.
+
+Yet Shâdezar is not mindless or savage. He maintains strict codes of honor, keeps his word to those bound by oath, and possesses a warrior's discipline. His followers respect him not out of fear alone (though fear is certainly part of it) but out of genuine admiration for his strength and unwavering conviction. There is a purity to his dedication to strength and martial prowess that many find inspirational, even if his philosophy is fundamentally brutal.
 
 ### Motivation
 
-His bloodline's power, and proof of his own strength through conquest. He believes the strong have the right and the duty to rule, and he means the Kamruz to hold all the Dunhara lands and to be remembered as the greatest the tribes have produced. He wants his deeds to become the stories the young are raised on. He wants the song.
+Shâdezar's core motivation is the perpetuation and expansion of his bloodline's power and the proof of his own superiority through conquest and dominance. He genuinely believes that the strong have not only the right but the responsibility to rule the weak, and that the universe is fundamentally ordered around this principle. He seeks to expand Kamruz territory until his clan controls all the Dunhara lands, and to establish a dynasty that will be remembered for generations as the greatest the tribes have ever known. He also craves validation—he wants his name to be sung in celebration fires, his deeds to become legend, and his strength to be universally acknowledged as supreme.
 
 ### Strengths
 
-- **Physical Strength**: He lifts and swings what strains other warriors, and his people tell stories about it.
-- **Warrior's Endurance**: He fights on when the men around him are spent, and has outlasted every duelist who ever tried to tire him.
-- **Combat Mastery and Weapon Skill**: Several fighting disciplines, a bow when he needs one, and a warhammer that moves like part of his arm.
-- **Fearsome Presence and Command**: His reputation and his size do most of the work, and an order from him is carried out without a second's pause.
-- **Tactical Awareness**: Not a planner, but on the field he sees the movement of men and the ground that matters, and his instinct for a fight is very good.
+- **Unparalleled Physical Strength**: With a strength attribute of 17, Shâdezar possesses exceptional raw power. He can lift, carry, and wield weapons that would strain ordinary warriors, and his physical capability is legendary among his people.
+
+- **Warrior's Endurance**: His endurance of 15 means he can fight for extended periods without tiring, maintaining peak performance in battles that would exhaust lesser warriors. His stamina is nearly as legendary as his strength.
+
+- **Combat Mastery and Weapon Skill**: With seamanship (13), archery (12), and a variety of other combat skills, Shâdezar is trained in multiple fighting disciplines. His warhammer is an extension of his will, and he can fight effectively at any range.
+
+- **Fearsome Presence and Command**: His command skill of 11 (with 5 extensions), combined with his physical presence and reputation, allows him to inspire absolute obedience in his warriors. A single order from Shâdezar is followed without question or hesitation.
+
+- **Tactical Awareness**: Despite his low reasoning, Shâdezar's awareness of 13 and jumping of 13 give him good battlefield awareness. He can perceive troop movements and identify advantageous positions, and his instincts for combat are exceptional.
 
 ### Weaknesses
 
-- **Poor Diplomatic and Persuasion Ability**: He cannot negotiate, persuade or build an alliance by talking. His attempts end in insult and broken agreements.
-- **Rigid Thinking and Poor Reasoning**: When a situation changes shape he cannot change with it. Plain war he understands; politics and anything unconventional defeat him.
-- **No Feeling for Others**: The suffering of his people and his enemies leaves him unmoved, and he cannot understand why heavy tribute and hard levies make him hated.
-- **Limited Magical or Spiritual Understanding**: He respects the shamans and keeps the rites, and he has no real grasp of what magic can do. An enemy who uses it has an opening he cannot see.
-- **Age and Mortality**: Forty-nine, and no longer in his prime, however strong. The young wolves see it, and his recent aggression may be an old man's answer to his own mortality.
+- **Poor Diplomatic and Persuasion Ability**: With eloquence of 8, charm of 9, and discourse of 9, Shâdezar is utterly incapable of negotiating, persuading, or building coalitions through speech. His attempts at diplomacy typically result in offense and broken agreements.
+
+- **Rigid Thinking and Poor Reasoning**: With reasoning of 10 and creativity of 9, Shâdezar cannot adapt his strategy when circumstances change unexpectedly. He is excellent at straightforward warfare but terrible at dealing with political complications or unconventional problems.
+
+- **Profound Lack of Empathy**: With empathy of 7, Shâdezar is indifferent to the suffering of his people or his enemies. This makes him an ineffective administrator, as he cannot understand why his people might resent heavy taxation or draft obligations.
+
+- **Limited Magical or Spiritual Understanding**: While Shâdezar respects the shamans of his people and will perform proper rituals, he has little genuine understanding of magic or spiritual power. Enemies using magical warfare can exploit his lack of comprehension.
+
+- **Age and Mortality**: At forty-nine, Shâdezar is entering the final decades of a warrior's life. His strength and endurance remain exceptional, but he is no longer in his prime. Younger, hungry rivals perceive vulnerability, and Shâdezar's aggression in recent years may be partially driven by awareness of his own mortality.
 
 ## Social
 
 ### Patrons
 
-- **The Warrior's Circle of the Dunhara Tribes**: The old fraternity of senior warriors and chieftains, which honors him and calls on him when all the tribes have a war to fight.
-- **His Own Kamruz Clan Warriors**: The men who depend on him for leadership, protection and the chance of glory, and who see in him what a tribesman should be.
-- **Shamanic Council**: The tribes' spiritual leaders consult him on matters touching all the Dunhara and perform rites in his name for Báhrámiš's favor on his campaigns.
+- **The Warrior's Circle of the Dunhara Tribes**: An ancient organization of senior warriors and chieftains that recognizes Shâdezar as one of its most honored members. The circle occasionally calls upon him for major military ventures that benefit all the tribes.
+
+- **His Own Kamruz Clan Warriors**: The primary patrons who depend on Shâdezar for leadership, protection, and the opportunity to gain glory through expansion. They view him as the embodiment of tribal virtue.
+
+- **Shamanic Council**: The spiritual leaders of the tribes consult with Shâdezar on matters affecting all Dunhara people, and they perform rituals in his name to invoke **Báhrámiš**'s blessing on his campaigns.
 
 ### Enemies
 
-- **Chieftain Morven of the Soltrev Clan**: Leader of one of the clans he broke, who has never accepted it and works constantly to bring the other displaced chieftains together against him.
-- **The Merchant Coalition of the Northern Trade Routes**: The merchant republics beyond the Dunhara, who see his expansion as a threat to trade and have begun funding his rivals and arming rebel tribes.
-- **Warlord Kethren the Sorcerer**: Rules the lands next to his and fights with magic, which Shâdezar calls cowardice. They have met several times and it has never been settled.
+- **Chieftain Morven of the Soltrev Clan**: Leader of one of the clans that Shâdezar defeated, Morven harbors deep resentment and plots constant rebellion. He seeks alliances with other displaced chieftains to overthrow Shâdezar's rule.
+
+- **The Merchant Coalition of the Northern Trade Routes**: The merchant republics beyond the Dunhara territories view Shâdezar's expansion as a threat to their trade and have begun funding his rivals and providing weapons to rebel tribes.
+
+- **Warlord Kethren the Sorcerer**: A rival warrior who rules lands adjacent to Shâdezar's territory. Kethren uses magical power rather than pure physical strength, which Shâdezar views as cowardly. Their conflicting approaches to warfare have led to several bitter confrontations.
 
 ### Affiliations
 
-- **Kamruz Clan**: His blood, his authority, and the one loyalty he returns in full.
-- **The Warrior's Circle**: The elite warriors of the Dunhara, who meet each quarter and sometimes make war together.
-- **The Storm Cults**: Followers of Báhrámiš who count him the storm god's chosen vessel, and whose various sects seek his favor.
+- **Kamruz Clan**: Shâdezar's primary affiliation and the source of his authority and power. The clan loyalty is absolute and reciprocal.
+
+- **The Warrior's Circle**: An ancient organization of elite warriors across the Dunhara tribes, meeting quarterly to discuss matters of mutual concern and occasionally coordinating large campaigns.
+
+- **The Storm Cults**: Followers of **Báhrámiš** recognize Shâdezar as a chosen vessel of the storm god, and various religious groups seek his patronage and blessing.
 
 ## Plot Hooks
 
-1. **The Challenge of the Young Wolf**: A warrior named Drayven Kamruz, a distant kinsman claiming descent from his line, has come to court with a name for unbeatable swordsmanship and challenged him under tribal law to single combat for the clan. Losing means death as well as the title. There is evidence that Drayven has been strengthened by an outside sorcerer, which puts the duel in the one arena Shâdezar does not understand.
+1. **The Challenge of the Young Wolf**: A new warrior named **Drayven Kamruz**, a distant relation claiming descent from Shâdezar's line, arrives at the chieftain's court with a reputation for invincible swordsmanship. Drayven challenges Shâdezar to single combat for leadership of the clan, initiating a ritual duel that is legally binding under tribal law. Shâdezar faces an opponent whose youthful strength and speed may match his legendary power, and losing the duel would cost him not only his title but his life. The duel becomes complicated when evidence emerges that Drayven has been magically enhanced by an outside sorcerer, forcing Shâdezar to confront enemies using means outside his understanding and experience.
 
-2. **The Prophecy of the Broken Hammer**: A visiting shaman brought word of an old prophecy — "the great chieftain whose hammer will break, and with it, the age of strength." He laughed at it. Then his warhammer broke in battle, from nothing but a bad blow, and his warriors did not laugh. He can stamp the prophecy out or find some way to turn it, and neither is a thing he knows how to do.
+2. **The Prophecy of the Broken Hammer**: A visiting shaman from a distant tribe brings news of an ancient prophecy that speaks of "the great chieftain whose hammer will break, and with it, the age of strength." Shâdezar dismisses this as superstition, but his warriors become increasingly anxious. When his warhammer actually breaks during a battle (a purely mechanical accident), panic spreads through his forces. Shâdezar must either suppress the prophecy and retain control or find a way to reinterpret it to maintain his authority.
 
-3. **The Secret Heir**: A travelling merchant has proof that Shâdezar fathered a child in a foreign land in his youth, a child now grown into a warrior with a claim on his blood, and wants a great deal of silver to keep it from his rivals and his sons. Pay, acknowledge the heir, or kill the merchant and the heir both.
+3. **The Secret Heir**: A traveling merchant arrives with evidence suggesting that Shâdezar fathered a child in a foreign land during his youth—a child now grown into a capable warrior with a claim to his lineage. The merchant demands significant payment to keep the secret quiet, or threatens to reveal the heir to Shâdezar's rivals and his own ambitious sons. Shâdezar must decide whether to pay for silence, acknowledge the child, or eliminate both the merchant and the potential heir to protect his dynasty.
 
-4. **The Peaceful Confederacy**: Alethea the Peacemaker, a shaman of the neighboring tribes, has proposed a confederacy built on consensus, trade and common defense instead of the rule of the strongest, with Shâdezar as its ceremonial head if he will give his conquests back to their own people. It would keep his name and cost him everything he believes. Refusing means a war his body may not be able to fight.
+4. **The Peaceful Confederacy**: A coalition of neighboring tribes, led by the wise shaman **Alethea the Peacemaker**, proposes a radical alternative to Shâdezar's rule—a tribal confederacy based on consensus, trade, and mutual defense rather than dominance of the strongest. They offer to accept Shâdezar as the ceremonial head of this new confederacy if he will release his conquered territories to local rule. Shâdezar faces an existential choice: abandon his philosophy of strength and conquest to maintain nominal power, or resist and risk a war that might break his aging body.
 
-5. **The Shamanic Revelation**: His mother, Tashira, old and near death, has told him what she kept for forty years: his father did not die honorably in battle but was beaten by Kethren the Sorcerer with magic, and she bought her son's greatness from dark powers to cover the shame. Everything he has done stands on that bargain. He can tell the truth and undo his own claim to rule, or go on living inside the lie.
+5. **The Shamanic Revelation**: Shâdezar's mother, the shaman **Tashira**, now ancient and approaching death, finally reveals a secret she has kept for forty years—that Shâdezar's father did not die in honorable combat but was actually defeated by **Kethren the Sorcerer** using magic, and that she made a pact with dark forces to ensure her son would become legendary to compensate for his bloodline's hidden shame. This revelation shakes Shâdezar's entire understanding of his accomplishments and his right to rule. He must choose whether to expose the truth and undermine his own legitimacy, or continue a lie that was woven into the very foundation of his power.
