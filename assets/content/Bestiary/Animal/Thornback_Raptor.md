@@ -327,19 +327,19 @@ The tap-tap-tap of claw on stone precedes recognition — a rhythmic, eerie clic
 
 # Dossier {#dossier}
 
-The Thornback Raptor is a bipedal reptilian predator standing 5-6 feet tall, found in forests, jungles, and ruins across warm and temperate regions. These pack hunters are sophisticated coordinators that use psychological warfare alongside physical prowess to overcome prey. Adventurers encounter them primarily while exploring ruins, traveling through jungles, or camping near areas where the creatures hunt.
+The Thornback Raptor is a bipedal reptilian predator standing 5-6 feet tall, found in forests, jungles, and ruins across warm and temperate regions. These pack hunters work together closely and use fear as much as claw and tooth to overcome prey. Adventurers encounter them primarily while exploring ruins, traveling through jungles, or camping near areas where the creatures hunt.
 
 ## Presentation
 
-The Thornback Raptor is a sleek, muscular predator covered in mottled scales ranging from green to brown to gray, providing excellent camouflage in jungle and forest environments. The distinctive feature is the row of jagged bony ridges running along the spine from neck to tail. The head is proportionally large with forward-facing yellow eyes suited for predatory vision. The mouth contains rows of small, sharp teeth designed for precision cutting. The body is built for speed and agility over raw strength. The legs are powerful and positioned for bipedal locomotion, ending in three-toed feet with curved claws similar to modern raptors.
+The Thornback Raptor is a sleek, muscular predator covered in mottled scales ranging from green to brown to gray, providing excellent camouflage in jungle and forest environments. The distinctive feature is the row of jagged bony ridges running along the spine from neck to tail. The head is proportionally large with forward-facing yellow eyes suited for predatory vision. The mouth contains rows of small, sharp teeth designed for precision cutting. The body is built for speed and agility over raw strength. The legs are powerful and positioned for bipedal locomotion, ending in three-toed feet with curved claws like a bird of prey's.
 
 ## Key Behaviors
 
-Thornback Raptors hunt in coordinated packs of 4-8 individuals using sophisticated stalking and psychological tactics. They remain just beyond prey's perception, using vocalizations to unnerve and create mental disorientation. The creatures are genuinely intelligent and capable of mimicking sounds of wounded animals or humanoids to lure prey. Packs demonstrate clear hierarchies with alpha individuals directing hunts. Young raptors are trained in pack coordination through mock hunts. The creatures are most active during twilight and night hours.
+Thornback Raptors hunt in coordinated packs of 4-8 individuals stalking with patience and cunning. They remain just beyond prey's perception, calling to unnerve and confuse. The creatures are intelligent and capable of mimicking sounds of wounded animals or humanoids to lure prey. Packs demonstrate clear hierarchies with alpha individuals directing hunts. Young raptors are trained in pack coordination through mock hunts. The creatures are most active during twilight and night hours.
 
 ## Combat Strategy
 
-Raptors use sound and psychological pressure to weaken prey, then attack with precision strikes. Individual raptors leap and slash with their curved claws, targeting vital areas, then withdraw to allow venom or bleeding to weaken victims. Packs coordinate flank attacks that prevent prey from engaging all threats simultaneously. The raptors avoid prolonged direct combat when possible, preferring to kill through accumulated damage and disorientation.
+Raptors use sound and fear to weaken prey, then attack with precision strikes. Individual raptors leap and slash with their curved claws, targeting vital areas, then withdraw to allow venom or bleeding to weaken victims. Packs coordinate flank attacks that prevent prey from engaging all threats simultaneously. The raptors avoid prolonged direct combat when possible, preferring to kill through accumulated damage and disorientation.
 
 ## Attack Methods
 
@@ -359,23 +359,23 @@ Multiple raptors attack simultaneously from different directions, making compreh
 
 ### Predatory Vocalization
 
-Raptors emit clicking, hissing sounds that can be modulated to mimic wounded creatures. These vocalizations have genuine psychological effect on prey.
+Raptors emit clicking, hissing sounds that can be modulated to mimic wounded creatures. These calls work on the nerves of prey.
 
 ### Pack Coordination
 
-Raptors communicate and coordinate complex hunting strategies through vocalizations and body language. Coordinated packs are exponentially more dangerous than individuals.
+Raptors communicate and coordinate their hunts through calls and body language. A coordinated pack is many times as dangerous as its members would be alone.
 
 ### Fear Stalker
 
-Prolonged exposure to raptor hunting behavior causes cumulative psychological effects including paranoia and disorientation that impairs victim judgment.
+Being stalked by raptors for long wears at the mind, bringing on suspicion and confusion that cloud a victim's judgment.
 
 ### Surgical Precision
 
-Raptor attacks target vital areas with remarkable accuracy, gaining advantage against exposed targets and vital points.
+Raptor attacks find vital areas with great accuracy, and an exposed target is in particular danger.
 
 ### Ambush Predator
 
-Raptors are superlatively effective when attacking from cover or hidden position, gaining significant bonus to attack rolls when striking from ambush.
+Raptors are at their most effective when attacking from cover or a hidden position, and a strike from ambush is very hard to meet.
 
 ### Additional Information
 

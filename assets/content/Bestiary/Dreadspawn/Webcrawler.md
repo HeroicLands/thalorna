@@ -257,11 +257,11 @@ sohl:
 
 ![[wbcrwlr|Webcrawler]]{float: top-left}
 
-At first you cannot see it—there is only a shimmer in the air, something that might be dew on near-invisible thread, catching light that should not reach here. Then the spider itself emerges from hiding, and you see it: a creature the size of a human torso, its eight spindly legs moving with predatory grace, its body iridescent black with hints of deep purple and sickly green. The abdomen is grotesquely distended, constantly producing silken thread that glimmers with barely-visible luminescence. Its eyes are multifaceted and glowing, each one fixing on you with intelligent calculation. Fangs like curved needles protrude from its mouth, dripping venom that sizzles and steams when it touches stone. The air around it seems to vibrate with the tension of its web, and you realize with horror that you have already walked into the creature's territory—that what you thought was empty air is actually a labyrinth of nearly invisible threads waiting to ensnare you.
+At first you cannot see it—there is only a shimmer in the air, something that might be dew on near-invisible thread, catching light that should not reach here. Then the spider itself emerges from hiding, and you see it: a creature the size of a human torso, its eight spindly legs moving with predatory grace, its body iridescent black with hints of deep purple and sickly green. The abdomen is grotesquely distended, constantly producing silken thread that glimmers with barely-visible luminescence. Its eyes are many-faceted and glowing, each one fixing on you with intelligent calculation. Fangs like curved needles protrude from its mouth, dripping venom that sizzles and steams when it touches stone. The air around it seems to vibrate with the tension of its web, and what you took for empty air is a labyrinth of nearly invisible threads, and you are already inside it.
 
 # Dossier {#dossier}
 
-Webcrawlers are creatures of silk and supreme cunning, spiders of supernatural intelligence and creative venom-craft that have essentially evolved the hunting web into an art form. They are found in dark, confined spaces—caverns, ruins, and the deep shadows of ancient structures—where their nearly invisible webs can be spread across three-dimensional terrain and prey cannot easily escape. A Webcrawler does not hunt through active predation but through supreme patience and the engineering of elaborate traps designed to catch and entangle without fail. These creatures demonstrate genuine intelligence and creativity in the construction of their webs, and old Webcrawlers have been observed to create traps of stunning complexity that would take a human engineer months to design.
+Webcrawlers are creatures of silk and supreme cunning, spiders of supernatural intelligence that have made the hunting web into an art. They are found in dark, confined spaces—caverns, ruins, and the deep shadows of ancient structures—where their nearly invisible webs can be spread across three-dimensional terrain and prey cannot easily escape. A Webcrawler does not chase its prey; it waits, and builds elaborate traps meant to catch and entangle without fail. These creatures show intelligence and invention in the construction of their webs, and old Webcrawlers have been observed to create traps of stunning complexity that would take a human engineer months to design.
 
 ## Presentation
 
@@ -269,17 +269,17 @@ A Webcrawler measures roughly 5 to 7 feet in body length with a legspan extendin
 
 ## Key Behaviors
 
-A Webcrawler claims a three-dimensional territory—usually a cavern, a series of connected chambers, or a multi-story structure—and fills it with an incredibly complex network of nearly invisible webs. The creature spends much of its time in maintenance and creation, constantly spinning new silk and improving its traps. The web network serves multiple purposes: capturing prey, warning the creature of intruders, creating communication networks within the web itself, and providing a three-dimensional highway across otherwise impassable terrain. A Webcrawler shows signs of genuine creativity and planning—adjusting web designs based on prey type, creating false paths to lead prey into kill zones, and maintaining multiple tiers of web for different sizes of creatures. Ancient Webcrawlers have web networks of staggering complexity.
+A Webcrawler claims a three-dimensional territory—usually a cavern, a series of connected chambers, or a multi-story structure—and fills it with an incredibly complex network of nearly invisible webs. The creature spends much of its time in maintenance and creation, constantly spinning new silk and improving its traps. The web network has several purposes: capturing prey, warning the creature of intruders, creating communication networks within the web itself, and providing a three-dimensional highway across otherwise impassable terrain. A Webcrawler shows signs of invention and planning—adjusting web designs based on prey type, creating false paths to lead prey into kill zones, and maintaining multiple tiers of web for different sizes of creatures. Ancient Webcrawlers have web networks of staggering complexity.
 
 ## Combat Strategy
 
-A Webcrawler engages enemies primarily through entanglement in its webs. Once prey is caught, the creature moves with exceptional speed along its webbing to attack with fangs. The creature avoids prolonged direct combat, instead relying on its web to control the battle space. It will prioritize removing targets from the web through careful positioning and will use the web to restrict movement and prevent escape. If pressed hard, a Webcrawler will retreat deeper into its web network where it has perfect mobility and comprehensive knowledge of every inch of terrain. The creature fights to defend its web, not its own survival, and it will battle ferociously if its web is threatened.
+A Webcrawler engages enemies primarily through entanglement in its webs. Once prey is caught, the creature moves with great speed along its webbing to attack with fangs. The creature avoids prolonged direct combat, instead relying on its web to control the battle space. It will first work to cut targets off from any escape through careful positioning and will use the web to restrict movement and prevent escape. If pressed hard, a Webcrawler will retreat deeper into its web network where it has perfect mobility and comprehensive knowledge of every inch of terrain. The creature fights to defend its web, not its own survival, and it will battle ferociously if its web is threatened.
 
 ## Attack Methods
 
 ### Paralytic Bite
 
-The Webcrawler strikes with remarkable speed, driving its fangs into flesh and injecting a potent neurotoxin. The venom begins working almost immediately, numbing the injection site and spreading through the body.
+The Webcrawler strikes with great speed, driving its fangs into flesh and injecting a potent neurotoxin. The venom begins working almost immediately, numbing the injection site and spreading through the body.
 
 ### Web Constriction
 
@@ -301,11 +301,11 @@ The creature moves across its webs with perfect grace and speed, treating three-
 
 ### Predatory Creativity
 
-The Webcrawler demonstrates genuine creativity and problem-solving ability in the design and construction of its web networks. It learns prey patterns, designs traps specifically for certain prey types, and adjusts its web designs based on success or failure.
+The Webcrawler shows invention and the ability to solve problems in the design and construction of its web networks. It learns prey patterns, designs traps specifically for certain prey types, and adjusts its web designs based on success or failure.
 
 ### Venom Mastery
 
-The Webcrawler's venom is potent and complex, causing progressive paralysis, numbness, and eventual death. The venom seems designed to render prey immobile rather than kill quickly, allowing the creature to feed at leisure.
+The Webcrawler's venom is potent and complex, causing a creeping paralysis, numbness, and eventual death. The venom seems designed to render prey immobile rather than kill quickly, allowing the creature to feed at leisure.
 
 ## Additional Information
 

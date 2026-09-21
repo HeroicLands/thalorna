@@ -607,7 +607,7 @@ The Forest Troll stands twelve to fourteen feet tall, its body composed of dense
 
 ## Key Behaviors
 
-The Forest Troll claims enormous territories—sometimes entire forests—which it patrols with methodical determination. It knows every tree, every path, every clearing within its domain. The creature is absolutely territorial and will attack anything that enters its lands. It hunts actively, using its knowledge of the forest to corner prey and drive them into disadvantageous terrain. It shows signs of intelligence in understanding behavior patterns, timing attacks, and even manipulating prey through psychological pressure. It does not hunt for sport—only for feeding—but it will defend territory against any perceived threat regardless of hunger. When dormant between hunts, it remains in deep wilderness where it can rest undisturbed. It exhibits no social behavior toward other trolls; territorial conflicts between Forest Trolls are violent and total.
+The Forest Troll claims enormous territories—sometimes entire forests—which it patrols with methodical determination. It knows every tree, every path, every clearing within its domain. The creature is absolutely territorial and will attack anything that enters its lands. It hunts actively, using its knowledge of the forest to corner prey and drive them into disadvantageous terrain. It shows intelligence in reading the habits of its prey, timing its attacks, and even wearing prey down through fear. It does not hunt for sport—only for feeding—but it will defend territory against any perceived threat regardless of hunger. When dormant between hunts, it remains in deep wilderness where it can rest undisturbed. It exhibits no social behavior toward other trolls; territorial conflicts between Forest Trolls are violent and total.
 
 ## Combat Strategy
 
@@ -617,15 +617,15 @@ The Forest Troll uses terrain as much as raw strength. It attacks prey at disadv
 
 ### Crushing Grip
 
-The troll grasps prey with one massive hand, attempting to crush or compress the target. Once grappled, the troll can maintain pressure across multiple rounds, causing ongoing crushing damage.
+The troll grasps prey with one massive hand, attempting to crush or compress the target. Once it has hold, the troll keeps up the pressure, crushing its victim by degrees.
 
 ### Mighty Blow
 
-The troll swings its fist or arms in devastating arcs, attempting to deliver impact trauma capable of breaking bone and armor alike. The troll's reach advantage allows it to strike from distance other melee combatants cannot match.
+The troll swings its fist or arms in devastating arcs, with impact enough to break bone and armor alike. Its reach lets it strike from a distance other close fighters cannot match.
 
 ### Grapple and Tear
 
-When grappling prey, the troll can deliberately tear or rend, inflicting grievous trauma. The troll sometimes picks up grappled prey and throws them against trees, walls, or other fixed objects.
+When grappling prey, the troll can deliberately tear or rend, inflicting grievous wounds. The troll sometimes picks up grappled prey and throws them against trees, walls, or other fixed objects.
 
 ### Root Entanglement
 
@@ -635,7 +635,7 @@ The vines and roots integrated into the troll's body can extend outward, attempt
 
 ### Woodland Camouflage
 
-The Forest Troll's appearance allows it to blend into forest surroundings with remarkable effectiveness. In dense woodland, it is nearly impossible to distinguish from the environment until it moves. It gains advantage on concealment checks in its native forest and can surprise prey even when they are looking directly at it.
+The Forest Troll's appearance lets it blend into forest surroundings almost completely. In dense woodland, it is nearly impossible to distinguish from its surroundings until it moves, and in its native forest it can surprise prey even when they are looking directly at it.
 
 ### Regeneration
 
@@ -647,7 +647,7 @@ Lost limbs, even vital ones, regenerate over time. A severed arm may regrow with
 
 ### Forest Manipulation
 
-The Forest Troll can command plant growth to entangle, obscure, or attack enemies. Vines ensnare, branches block, roots erupt from soil to attack. This is less a spell and more a natural extension of the troll's will—the forest obeys its oldest predator.
+The Forest Troll can command plant growth to entangle, obscure, or attack enemies. Vines ensnare, branches block, roots erupt from soil to attack. This is no spell; it is a natural extension of the troll's will, and the forest obeys its oldest predator.
 
 ## Additional Information
 
