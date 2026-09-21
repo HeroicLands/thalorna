@@ -600,7 +600,7 @@ sohl:
 
 ### The Taking
 
-Íngrithr does not remember her freedom, though she was born to it. She was seven years old when the slave-traders came through the rural villages of the Kingdom of Malagna. Her mother had gone to market, and her father was working in the fields. Slave-catchers came to their cottage, and Íngrithr was taken along with four other children from her village. That was twenty years ago. The woman that the traders claimed was her mother, who should have come to purchase her back, never appeared. Either her mother never learned where Íngrithr had been taken, or could not afford the ransom. Íngrithr has long since stopped wondering which.
+Íngrithr does not remember her freedom, though she was born to it. She was seven years old when the slave-traders came through the rural villages of the [[affiliation-kingdomlgn|Kingdom of Malagna]]. Her mother had gone to market, and her father was working in the fields. Slave-catchers came to their cottage, and Íngrithr was taken along with four other children from her village. That was twenty years ago. The woman that the traders claimed was her mother, who should have come to purchase her back, never appeared. Either her mother never learned where Íngrithr had been taken, or could not afford the ransom. Íngrithr has long since stopped wondering which.
 
 ### The Household
 

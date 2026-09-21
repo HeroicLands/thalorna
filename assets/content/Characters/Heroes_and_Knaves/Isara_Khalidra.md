@@ -569,7 +569,7 @@ Isâra Khalîdra is beautiful in the way that a finely crafted instrument is bea
 
 ### Origin
 
-Isâra was born in the Helionite city of Therádon, one of the great intellectual and cultural centers of the western world. The daughter of a minor noble family with more prestige than wealth, she was identified at a young age as possessing the combination of beauty, intelligence, and charm that the Helionite courtesan academies prize. At twelve, she entered the Academy of the Silver Veil, one of the most prestigious training institutions for companions in all of Ankaris.
+Isâra was born in the Helionite city of [[place-theradon2|Therádon]], one of the great intellectual and cultural centers of the western world. The daughter of a minor noble family with more prestige than wealth, she was identified at a young age as possessing the combination of beauty, intelligence, and charm that the Helionite courtesan academies prize. At twelve, she entered the Academy of the Silver Veil, one of the most prestigious training institutions for companions in all of Ankaris.
 
 ### Training
 
@@ -577,7 +577,7 @@ The Academy of the Silver Veil does not produce common escorts. It produces arti
 
 ### Aboard the Tamzîr
 
-Isâra's motives for choosing to travel aboard the Tamzîr remain opaque, and even Captain Eshârum does not know what a woman of her refinement is doing on a ship full of petty criminals. She claims to be traveling between clients, using the Tamzîr's flexible itinerary to visit ports where her services are in demand. This is plausible but incomplete. Something drove Isâra from Heliónis, and she carries a quiet tension beneath her polished exterior that suggests she is running from something — or toward something she has not yet disclosed.
+Isâra's motives for choosing to travel aboard the Tamzîr remain opaque, and even Captain Eshârum does not know what a woman of her refinement is doing on a ship full of petty criminals. She claims to be traveling between clients, using the Tamzîr's flexible itinerary to visit ports where her services are in demand. This is plausible but incomplete. Something drove Isâra from [[place-helionis|Heliónis]], and she carries a quiet tension beneath her polished exterior that suggests she is running from something — or toward something she has not yet disclosed.
 
 ### Position Aboard
 
@@ -605,7 +605,7 @@ Isâra's emotional armor is nearly impenetrable, which isolates her from the cre
 
 ### Patrons
 
-Isâra maintains relationships with several wealthy and influential clients across the Vylarian Sea, though she guards their identities jealously. The **Academy of the Silver Veil** in Heliónis is a powerful institution that protects its graduates.
+Isâra maintains relationships with several wealthy and influential clients across the [[place-vylarianse|Vylarian Sea]], though she guards their identities jealously. The **Academy of the Silver Veil** in Heliónis is a powerful institution that protects its graduates.
 
 ### Enemies
 

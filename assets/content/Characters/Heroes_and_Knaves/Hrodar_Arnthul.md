@@ -556,7 +556,7 @@ sohl:
 
 ![[hrodrrnthl|Hródar Arnthúl]]{float: top-left}
 
-Hródar Arnthúl is a tall, gaunt man with the angular look of a half-starved crow, which is how he got his nickname. He has long arms, bony wrists, and a narrow face set in a perpetual scowl beneath a leather cowl. His black hair is lank and unwashed, his skin pale from a life lived under the canopy of the Vrystwald pines, and his dark brown eyes hold a sullen, simmering resentment that never quite boils over but never cools. He wears a padded shirt under a leather vest, dark boots, and carries a handaxe and a dagger. He moves through the forest with a long-limbed, loping stride that covers ground quickly and quietly. He rarely speaks unless spoken to, and when he does, his voice is flat and grudging.
+Hródar Arnthúl is a tall, gaunt man with the angular look of a half-starved crow, which is how he got his nickname. He has long arms, bony wrists, and a narrow face set in a perpetual scowl beneath a leather cowl. His black hair is lank and unwashed, his skin pale from a life lived under the canopy of the [[place-vrystwald|Vrystwald]] pines, and his dark brown eyes hold a sullen, simmering resentment that never quite boils over but never cools. He wears a padded shirt under a leather vest, dark boots, and carries a handaxe and a dagger. He moves through the forest with a long-limbed, loping stride that covers ground quickly and quietly. He rarely speaks unless spoken to, and when he does, his voice is flat and grudging.
 
 # Dossier {#dossier}
 
@@ -564,7 +564,7 @@ Hródar was a timber cutter's son from a logging settlement in the deep pine cou
 
 When Hródar's father was killed by a falling tree — exhausted, rushing to meet an impossible deadline — the twenty-year-old confronted the factor and broke his jaw. He fled into the forest that same day, knowing the garrison would come. He spent years drifting between illegal logging camps, poaching outfits, and seasonal labor, growing harder and more bitter with each passing winter. He joined the Blackpine Wolves eighteen months ago, recruited by Vandaric in a border tavern, and has proven himself a dependable fighter and woodsman — silent, tough, and willing to do what needs doing without being asked twice.
 
-He is the gang member most driven by genuine grievance. He hates the Vylarian Empire with a focused, personal fury that the others — motivated by greed, desperation, or indifference — cannot match. Every merchant he robs is a proxy for the factor who killed his father through negligence, and every Vylarian soldier he fights is an agent of the system that ground his family into the dirt.
+He is the gang member most driven by genuine grievance. He hates the [[affiliation-vylarinmpr|Vylarian Empire]] with a focused, personal fury that the others — motivated by greed, desperation, or indifference — cannot match. Every merchant he robs is a proxy for the factor who killed his father through negligence, and every Vylarian soldier he fights is an agent of the system that ground his family into the dirt.
 
 # Skills and Abilities
 
@@ -574,7 +574,7 @@ Hródar is a solid, workmanlike fighter — not brilliant, but reliable and hard
 
 ### Personality
 
-Hródar is bitter, taciturn, and consumed by resentment. He is not chaotic or unpredictable like Dágulf — his anger is cold, steady, and aimed squarely at the Vylarian Empire and everyone who profits from it. He does the work of banditry with grim efficiency and takes no pleasure in cruelty for its own sake, though he shows no mercy to Vylarian soldiers or imperial officials. Among the gang he is quiet and dependable, does his share without complaint, and neither seeks nor offers friendship. He occasionally mutters to himself in Varokhi when he thinks no one is listening.
+Hródar is bitter, taciturn, and consumed by resentment. He is not chaotic or unpredictable like Dágulf — his anger is cold, steady, and aimed squarely at the Vylarian Empire and everyone who profits from it. He does the work of banditry with grim efficiency and takes no pleasure in cruelty for its own sake, though he shows no mercy to Vylarian soldiers or imperial officials. Among the gang he is quiet and dependable, does his share without complaint, and neither seeks nor offers friendship. He occasionally mutters to himself in [[lore-varokhiclt|Varokhi]] when he thinks no one is listening.
 
 ### Motivation
 

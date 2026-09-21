@@ -600,7 +600,7 @@ Herjúlf stands 6'5" tall with a heavy build. He has tanned weathered skin, dark
 
 # Dossier {#dossier}
 
-Herjúlf was born in a small settlement in the wild borderlands of Nordheim, the fourth son of a farming family with little land and even fewer prospects. At age ten, his family apprenticed him to a master woodcutter named Forgath the Old, a massive man with whom Herjúlf seemed to develop an immediate rapport. For six years, Herjúlf learned the language of the forest—how to read a tree's character, how to identify the timber best suited to each purpose, how to fell without wasting and how to preserve without damaging.
+Herjúlf was born in a small settlement in the wild borderlands of [[affiliation-kngdmnrdhm|Nordheim]], the fourth son of a farming family with little land and even fewer prospects. At age ten, his family apprenticed him to a master woodcutter named Forgath the Old, a massive man with whom Herjúlf seemed to develop an immediate rapport. For six years, Herjúlf learned the language of the forest—how to read a tree's character, how to identify the timber best suited to each purpose, how to fell without wasting and how to preserve without damaging.
 
 At sixteen, Herjúlf was working with Forgath in a remote forest when a winter storm brought down a massive oak. Forgath was caught beneath its weight, his legs crushed beyond healing. Rather than abandon his master, Herjúlf spent the night beneath the snow, maintaining Forgath's warmth and consciousness while he waited for the morning to bring help. Help came, but too late for Forgath's legs—the old man lived for another decade, crippled and in pain, until a harsh winter finally claimed him. Herjúlf was there at the end, holding his dying mentor's hand.
 
@@ -652,7 +652,7 @@ Herjúlf is motivated by a desire to work at his craft with complete mastery, an
 
 - **The Builders' Collective**: An informal association of craftsmen engaged in major construction projects in Nordheim's cities depends on Herjúlf for special timber that must meet exacting standards; they pay well and do not question his methods.
 
-- **High Priestess Sigrún**: The priestess of Thórr in the nearest settlement views Herjúlf as a genuine worshipper of the storm god through his craft and occasionally calls upon him for advice on matters of practical implementation in temple construction.
+- **High Priestess Sigrún**: The priestess of [[lore-thorrdty|Thórr]] in the nearest settlement views Herjúlf as a genuine worshipper of the storm god through his craft and occasionally calls upon him for advice on matters of practical implementation in temple construction.
 
 - **Alderman Bórrin**: The local administrative leader respects Herjúlf's integrity and supports him against occasional attempts to regulate or control the forests from which he harvests.
 

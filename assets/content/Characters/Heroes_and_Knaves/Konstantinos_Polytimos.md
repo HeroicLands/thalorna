@@ -602,7 +602,7 @@ Konstántinos stands 5'10" tall with a medium build. He has light brown tanned s
 
 ### Early Life
 
-Konstántinos was born in a small village on the margins of the Byzarian League, the son of a widow who took in laundry for merchants and traveled folk. Money was scarce, and meals were often thin, but his mother possessed an innate wisdom about making simple ingredients sing with flavor. She taught him that cooking was not about abundance but about understanding—understanding the essential nature of an ingredient and coaxing from it its best self. When Konstántinos was ten years old, a merchant caravan became trapped in their village by a winter storm for three days. His mother and he fed the entire caravan for those days with nothing but their skill and the basic stores available in their home. Word of this miracle spread, and from that day forward, Konstántinos knew his path.
+Konstántinos was born in a small village on the margins of the [[affiliation-byzarianlg|Byzarian League]], the son of a widow who took in laundry for merchants and traveled folk. Money was scarce, and meals were often thin, but his mother possessed an innate wisdom about making simple ingredients sing with flavor. She taught him that cooking was not about abundance but about understanding—understanding the essential nature of an ingredient and coaxing from it its best self. When Konstántinos was ten years old, a merchant caravan became trapped in their village by a winter storm for three days. His mother and he fed the entire caravan for those days with nothing but their skill and the basic stores available in their home. Word of this miracle spread, and from that day forward, Konstántinos knew his path.
 
 ### Training and Apprenticeship
 

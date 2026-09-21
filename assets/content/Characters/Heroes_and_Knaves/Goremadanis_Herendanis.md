@@ -587,7 +587,7 @@ Goremadânis stands 5'8" tall with a medium build. She has light olive skin, lig
 
 **Orphaned Beginnings**
 
-Goremadânis was born to a sailor's widow in the port city of **Moktur** in the Empire of Vylaria. Her mother, a former ship's cook, died of lung fever when **Goremadânis** was only seven summers old, leaving her alone and resourceless in a city where orphans had few options beyond servitude or thievery. A kindly captain named **Revik Saltmask** found her stealing bread from the docks and, instead of turning her in to the city watch, offered her work aboard his merchant vessel—cleaning, hauling, running messages between crew members.
+Goremadânis was born to a sailor's widow in the port city of **[[affiliation-provncmktr|Moktur]]** in the [[affiliation-vylarinmpr|Empire of Vylaria]]. Her mother, a former ship's cook, died of lung fever when **Goremadânis** was only seven summers old, leaving her alone and resourceless in a city where orphans had few options beyond servitude or thievery. A kindly captain named **Revik Saltmask** found her stealing bread from the docks and, instead of turning her in to the city watch, offered her work aboard his merchant vessel—cleaning, hauling, running messages between crew members.
 
 **Coming of Age at Sea**
 

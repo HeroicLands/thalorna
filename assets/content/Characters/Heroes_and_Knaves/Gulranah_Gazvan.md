@@ -598,7 +598,7 @@ Gulrânah stands 6'1" tall with a light build. She has light olive skin, dark br
 
 ### Early Years
 
-Born to the Gazvân clan in the Sultanate of Amradad during a season of great drought, Gulrânah showed an unusual affinity for fire and ash from her earliest years. While other children played at merchant games, she watched the charcoalers work, mesmerized by the transformation of wood into black treasure. Her mother, a respected herbalist named **Yasmine al-Gazvân**, recognized the girl's calling and, rather than resist it as unseemly, arranged apprenticeship with the master charcoaler **Karamak of the Northern Kiln**—a rare honor for a child of noble guild-standing.
+Born to the Gazvân clan in the [[affiliation-sultntmrdd|Sultanate of Amradad]] during a season of great drought, Gulrânah showed an unusual affinity for fire and ash from her earliest years. While other children played at merchant games, she watched the charcoalers work, mesmerized by the transformation of wood into black treasure. Her mother, a respected herbalist named **Yasmine al-Gazvân**, recognized the girl's calling and, rather than resist it as unseemly, arranged apprenticeship with the master charcoaler **Karamak of the Northern Kiln**—a rare honor for a child of noble guild-standing.
 
 ### Training and Mastery
 
@@ -606,7 +606,7 @@ Under Karamak's exacting tutelage for twelve seasons, Gulrânah learned the deli
 
 ### Present Standing
 
-Now twenty-nine winters old, Gulrânah operates her kilns with renown throughout Amradad's trading districts. Her charcoal is sought by the realm's finest smiths for its purity and the metalsmiths for its control of heat. The herbalists—particularly the disciples of **Zúráthrä's Fertility Rites**—prize her product for ceremonial fires. Yet success has cost her a measure of ease; the weight of reputation and the demands of quality work have drawn her into a solitary existence that outsiders sometimes mistake for arrogance.
+Now twenty-nine winters old, Gulrânah operates her kilns with renown throughout Amradad's trading districts. Her charcoal is sought by the realm's finest smiths for its purity and the metalsmiths for its control of heat. The herbalists—particularly the disciples of **[[lore-zurathradty|Zúráthrä]]'s Fertility Rites**—prize her product for ceremonial fires. Yet success has cost her a measure of ease; the weight of reputation and the demands of quality work have drawn her into a solitary existence that outsiders sometimes mistake for arrogance.
 
 ## Psyche
 

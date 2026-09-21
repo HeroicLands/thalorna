@@ -587,7 +587,7 @@ Gunnsteinn stands 6'2" tall with a heavy build. He has tanned weathered skin, da
 
 ### The Warrior's Birth
 
-Gunnsteinn was born the third son of **Ragnar Vörnheim**, a minor jarl of the Kingdom of Vithgard, into a world where strength and sword-skill determined a man's worth. As third son, he held no claim to his father's modest holdings—those belonged to his elder brother—and so was raised from his eleventh year as a warrior-for-hire, sent to train under the legendary sword-master **Kael Ironhand** in the fortress-barracks of Greystones. The training was brutal, designed to strip away softness and replace it with reflexive violence. By his sixteenth year, Gunnsteinn had drawn blood in earnest, fighting in border skirmishes against Vithgard's eternal rivals. By his twentieth, he had earned a fearsome reputation as a man who did not fall, did not yield, and did not ask questions of those who employed him.
+Gunnsteinn was born the third son of **Ragnar Vörnheim**, a minor jarl of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], into a world where strength and sword-skill determined a man's worth. As third son, he held no claim to his father's modest holdings—those belonged to his elder brother—and so was raised from his eleventh year as a warrior-for-hire, sent to train under the legendary sword-master **Kael Ironhand** in the fortress-barracks of Greystones. The training was brutal, designed to strip away softness and replace it with reflexive violence. By his sixteenth year, Gunnsteinn had drawn blood in earnest, fighting in border skirmishes against Vithgard's eternal rivals. By his twentieth, he had earned a fearsome reputation as a man who did not fall, did not yield, and did not ask questions of those who employed him.
 
 ### The Years of Iron
 
@@ -644,7 +644,7 @@ Gunnsteinn seeks primarily the satisfaction of doing his work well—to earn fai
 ### Affiliations
 
 - **Vithgard Mercenaries Guild**: The primary employment network and social structure for warriors-for-hire throughout the kingdom
-- **The Asgardian Brotherhood**: Informal fellowship of men devoted to Ymir's aspect of creation and strength; mostly warriors, craftspeople, and those who revere the primal forces
+- **The Asgardian Brotherhood**: Informal fellowship of men devoted to [[lore-ymirdty|Ymir]]'s aspect of creation and strength; mostly warriors, craftspeople, and those who revere the primal forces
 
 ## Plot Hooks
 

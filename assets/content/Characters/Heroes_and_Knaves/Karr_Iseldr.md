@@ -601,7 +601,7 @@ Kárr stands 5'8" tall with a medium build. He has light fair skin, dark brown h
 
 ### Humble Beginnings
 
-Born into the family of a dyer in Vithgard's cloth district, young **Kárr** showed early aptitude for the textile crafts despite his parents' modest circumstances. At seven years old, he could already identify quality fabrics and demonstrated an almost preternatural understanding of how cloth draped on the human form. His parents apprenticed him to **Master Thorne Velwick**, a master tailor of considerable renown, when he was twelve. Under **Velwick's** stern but fair tutelage, **Kárr** spent a decade mastering not merely the mechanics of tailoring but the deeper philosophy—that clothing should respond to the body, enhance its natural lines, and serve as an expression of the wearer's essence.
+Born into the family of a dyer in [[affiliation-kngdmvthgrd|Vithgard]]'s cloth district, young **Kárr** showed early aptitude for the textile crafts despite his parents' modest circumstances. At seven years old, he could already identify quality fabrics and demonstrated an almost preternatural understanding of how cloth draped on the human form. His parents apprenticed him to **Master Thorne Velwick**, a master tailor of considerable renown, when he was twelve. Under **Velwick's** stern but fair tutelage, **Kárr** spent a decade mastering not merely the mechanics of tailoring but the deeper philosophy—that clothing should respond to the body, enhance its natural lines, and serve as an expression of the wearer's essence.
 
 ### The Journeyman's Wandering
 

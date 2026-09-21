@@ -584,7 +584,7 @@ Mithran stands 6'1" tall with a medium build. He has tanned weathered skin, dark
 
 # Dossier {#dossier}
 
-Mithran was born into the Mazânid clan, a family of herders whose flocks have grazed the steppes of Amradad for generations beyond counting. His childhood was spent in the company of sheep and goats, learning the language of animals before he fully mastered human speech. His father, a herder of some reputation, recognized early that Mithran possessed an unusual gift—an almost preternatural understanding of animal nature and the ability to manage large flocks with minimal violence or coercion.
+Mithran was born into the Mazânid clan, a family of herders whose flocks have grazed the steppes of [[affiliation-sultntmrdd|Amradad]] for generations beyond counting. His childhood was spent in the company of sheep and goats, learning the language of animals before he fully mastered human speech. His father, a herder of some reputation, recognized early that Mithran possessed an unusual gift—an almost preternatural understanding of animal nature and the ability to manage large flocks with minimal violence or coercion.
 
 At sixteen, Mithran began managing his own flock, gradually expanding it through careful breeding and wise grazing management. Over twenty years, he has built one of the largest independent herds in the region, producing wool of exceptional quality and cheese renowned for its subtle complexity. He has never married, though several families have offered daughters, finding no one whose company he prefers to that of his animals. His relationship with the land and his flocks is his primary passion, perhaps his only passion.
 

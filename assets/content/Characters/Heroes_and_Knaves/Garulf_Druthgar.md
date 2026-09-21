@@ -578,7 +578,7 @@ Garulf Druthgar is an enormous man — six foot four, heavy-boned, and packed wi
 
 ### Origin
 
-Garulf was born on a farmstead in the Vrystwald frontier, the son of Varokh settlers who scratched a living from the dark soil at the forest's edge. Life was brutal and simple — plant, harvest, survive, repeat. Garulf was the largest child anyone in the settlement had ever seen, and by fifteen he was doing the work of two grown men. He had no education, no prospects, and no patience for farming.
+Garulf was born on a farmstead in the [[place-vrystwald|Vrystwald]] frontier, the son of Varokh settlers who scratched a living from the dark soil at the forest's edge. Life was brutal and simple — plant, harvest, survive, repeat. Garulf was the largest child anyone in the settlement had ever seen, and by fifteen he was doing the work of two grown men. He had no education, no prospects, and no patience for farming.
 
 ### Mercenary Life
 
@@ -604,7 +604,7 @@ Coin. Comfort. Survival. Garulf's motivations are refreshingly uncomplicated. He
 
 ### Strengths
 
-Garulf is a devastating fighter — one of the most dangerous individuals on the Vylarian Sea in a straight-up brawl. He is strong, tough, experienced, and utterly without hesitation in combat. He is also a skilled tracker and survivalist, comfortable in wilderness conditions that would break softer men. His practical intelligence is often underestimated.
+Garulf is a devastating fighter — one of the most dangerous individuals on the [[place-vylarianse|Vylarian Sea]] in a straight-up brawl. He is strong, tough, experienced, and utterly without hesitation in combat. He is also a skilled tracker and survivalist, comfortable in wilderness conditions that would break softer men. His practical intelligence is often underestimated.
 
 ### Weaknesses
 
@@ -622,7 +622,7 @@ Garulf is wanted in two Vrystwald provinces for robbery and assault. He has made
 
 ### Affiliations
 
-Crewman of the **Tamzîr**. No other formal affiliations. He maintains a grudging, adversarial friendship with most of the crew, particularly irritating **Kasûra Damzarû** with crude commentary and being quietly disarmed by her persistent cheerfulness.
+Crewman of the **Tamzîr**. No other formal affiliations. He maintains a grudging, adversarial friendship with most of the crew, particularly irritating **[[being-kasuradmzr|Kasûra Damzarû]]** with crude commentary and being quietly disarmed by her persistent cheerfulness.
 
 ## Plot Hooks
 
@@ -630,4 +630,4 @@ Crewman of the **Tamzîr**. No other formal affiliations. He maintains a grudgin
 
 2. **Blood Debt**: The partner Garulf abandoned during the botched robbery survived, served time, and has spent years tracking Garulf down. Now free and vengeful, this former associate knows every port the Tamzîr visits and is closing in.
 
-3. **Better Offer**: A rival captain offers Garulf triple his current pay to betray the Tamzîr — specifically, to ensure the ship is in a particular location at a particular time. The money is tempting. But the rival's employer is connected to the Ordo Arcanis, and the real target is Cibella Tamaro. Garulf must decide what he is willing to sell and what he is not.
+3. **Better Offer**: A rival captain offers Garulf triple his current pay to betray the Tamzîr — specifically, to ensure the ship is in a particular location at a particular time. The money is tempting. But the rival's employer is connected to the [[affiliation-ordoarcanis|Ordo Arcanis]], and the real target is Cibella Tamaro. Garulf must decide what he is willing to sell and what he is not.
