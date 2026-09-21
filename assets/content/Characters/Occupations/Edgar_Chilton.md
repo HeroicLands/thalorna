@@ -553,41 +553,39 @@ sohl:
 
 # Appearance {#appearance}
 
-Edgar Chilton is a 45-year-old man who stands 5'7" tall and is of moderate build. He has a round face with broad cheekbones, a narrow forehead, and a narrow jaw that leads to a pointed chin. His deep-set brown eyes sit beneath arched brows, lending him a watchful gaze. A narrow nose and curved lips complete his features. He has fair skin with a lightly freckled complexion. His blonde hair is short and swept back.
+Edgar Chilton is a 45-year-old man who stands 5'7" tall and is of moderate build. He has a round face with broad cheekbones, a narrow forehead, and a narrow jaw that leads to a pointed chin. His deep-set brown eyes sit beneath arched brows and give him a watchful gaze. He has a narrow nose and curved lips. He has fair skin with a lightly freckled complexion. His blonde hair is short and swept back.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Edgar Chilton came into the world of the embalmer through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Edgar Chilton is an embalmer.
 
-Edgar grew up in a family of undertakers, where he learned the art of embalming from his father. Known for his steady hands and meticulous nature, he has prepared many bodies for burial over the years. Edgar takes his work seriously, seeing it as a final service to the deceased and their families. While his profession makes some people uneasy, Edgar is dedicated to his craft and carries out his duties with a solemn respect for the dead.
+Edgar grew up in a family of undertakers, where he learned the art of embalming from his father. Known for his steady hands and careful nature, he has prepared many bodies for burial over the years. He takes his work seriously, seeing it as a final service to the deceased and their families. While his profession makes some people uneasy, he is dedicated to his craft and carries out his duties with a solemn respect for the dead.
 
-Now at 45 years of age, Edgar Chilton has established himself as a known figure among the embalmers of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 45 years of age, he is a known figure among the embalmers of Aelwyth.
 
 ## Psyche
 
 ### Personality
 
-Socially distant, seen as morbid by some, struggles to form close relationships.
+He is socially distant, seen as morbid by some, and struggles to form close relationships.
 
 ### Motivation
 
-Edgar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in embalmer work keep him vigilant and adaptable.
+Edgar wants to do right by the dead who come to him and by the families who bring them.
 
 ### Strengths
 
-Skilled in embalming techniques, calm under pressure, meticulous.
+He is skilled in embalming, calm under pressure, and careful in everything he does.
 
 ## Social
 
-Edgar is affiliated with Morticians' Guild.
-
-As a Aelwythan embalmer, Edgar occupies a recognized social niche within Aelwyth society.
+Edgar belongs to the Morticians' Guild.
 
 ## Companions
 
 ### Patrons
 
-Edgar's primary patron is Local families who seek his services for funerals.. This relationship provides both opportunity and obligation.
+Edgar's patrons are the local families who seek his services for funerals.
 
 ### Enemies
 
@@ -595,12 +593,12 @@ None, though some people are wary of him due to his profession.
 
 ## Plot Hooks
 
-1. **The Embalmer's Dilemma** — Edgar faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
+1. **The Embalmer's Dilemma** — A body brought to Edgar for burial carries marks the family does not mention, and his respect for the dead sits badly with the silence they expect of him.
 
-2. **Old Grudges** — None, though some people are wary of him due to his profession. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — Edgar has no enemies, though the people who are wary of his trade are quick to suspect him when a death is questioned.
 
-3. **Echoes of the Past** — Something from Edgar's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past** — A family whose dead Edgar's father prepared years ago returns with questions about how it was done.
 
-4. **Shifting Winds** — Political changes in Aelwyth threaten to upend the social order that Edgar depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Aelwyth threatens the Morticians' Guild and the custom Edgar depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Edgar the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — A wealthy family offers Edgar the preparation of all its dead, and what that custom will cost him is not named up front.

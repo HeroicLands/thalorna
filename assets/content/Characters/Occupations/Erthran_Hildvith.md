@@ -552,54 +552,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Erthran Hildvith is a 44-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with defined cheekbones, a narrow forehead, and a strong jaw that leads to a firm chin. His large hazel eyes sit beneath furrowed brows, lending him an expressive gaze. A prominent nose and firm lips complete his features. He has light skin with a weathered complexion. His dark blonde hair is long and gathered with a leather thong.
+Erthran Hildvith is a 44-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with defined cheekbones, a narrow forehead, and a strong jaw that leads to a firm chin. His large hazel eyes sit beneath furrowed brows and give him an expressive gaze. He has a prominent nose and firm lips. He has light skin with a weathered complexion. His dark blonde hair is long and gathered with a leather thong.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Erthran Hildvith came into the world of the trapper through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Erthran Hildvith is a trapper.
 
-Erthran has spent his entire life in the forest, trapping animals for their fur and meat. He learned the trade from his father, who taught him to respect nature and take only what is needed. Erthran is a skilled tracker and has an intimate knowledge of the local wildlife. He is often hired to remove problem animals or gather furs for traders, though he avoids over-trapping out of a deep respect for the land.
+Erthran has spent his entire life in the forest, trapping animals for their fur and meat. He learned the trade from his father, who taught him to respect the land and take only what is needed. He is a skilled tracker and has an intimate knowledge of the local wildlife. He is often hired to remove problem animals or gather furs for traders, though he avoids over-trapping out of respect for the land.
 
-Now at 44 years of age, Erthran Hildvith has established himself as a known figure among the trappers of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 44 years of age, he is a known figure among the trappers of Vrystwald.
 
 ## Psyche
 
 ### Personality
 
-Prefers solitude, struggles with social interactions and bargaining.
+He prefers solitude, and is awkward in company and in bargaining.
 
 ### Motivation
 
-Erthran is driven by the desire to master his craft and secure a stable future. The uncertainties of life in trapper work keep him vigilant and adaptable.
+Erthran wants the forest to give him a living for the rest of his life, which means taking only what it can spare.
 
 ### Strengths
 
-Skilled tracker and trapper, knowledgeable about wildlife, resilient.
+He is a skilled tracker and trapper, knows the wildlife, and is resilient.
 
 ## Social
 
-Erthran is affiliated with None; works independently..
-
-As a Varokhi trapper, Erthran occupies a recognized social niche within Vrystwald society.
+Erthran belongs to no guild and works independently.
 
 ## Companions
 
 ### Patrons
 
-Erthran's primary patron is Local traders who purchase furs, and farmers who hire him to handle problem animals.. This relationship provides both opportunity and obligation.
+Erthran's patrons are the local traders who buy his furs, and the farmers who hire him to deal with problem animals.
 
 ### Enemies
 
-Poachers who exploit the land and overhunt.
+Poachers exploit the land and overhunt.
 
 ## Plot Hooks
 
-1. **The Trapper's Dilemma** — Erthran faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Trapper's Dilemma** — A trader offers Erthran a price for more furs than the forest can spare, and the winter is a hard one.
 
-2. **Old Grudges** — Poachers who exploit the land and overhunt. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — The poachers Erthran has driven off his ground have begun stripping his traplines.
 
-3. **Echoes of the Past** — Something from Erthran's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past** — A trapline Erthran's father taught him to run is found set again, by someone who knows it as well as he does.
 
-4. **Shifting Winds** — Political changes in Vrystwald threaten to upend the social order that Erthran depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Vrystwald puts the forest Erthran traps under a new lord, and he can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Erthran the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — A lord offers Erthran the wardenship of his forest, and the first duty of it is to trap out the animals Erthran has always spared.

@@ -550,54 +550,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Tavíro Delvánor is a 26-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with defined cheekbones, a broad forehead, and a square jaw that leads to a strong chin. His bright brown eyes sit beneath thick brows, lending him a lively gaze. An aquiline nose and wide lips complete his features. He has light skin with a rugged complexion. His dark brown hair is tied in a low tail.
+Tavíro Delvánor is a 26-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with defined cheekbones, a broad forehead, and a square jaw that leads to a strong chin. His bright brown eyes sit beneath thick brows and give him a lively gaze. He has an aquiline nose and wide lips. He has light skin with a rugged complexion. His dark brown hair is tied in a low tail.
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Tavíro Delvánor came into the world of the common seaman through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Tavíro Delvánor is a common seaman.
 
-Tavíro has always had a passion for the sea and has worked as a seaman since he was a teenager. Known for his strength and stamina, he excels in tasks that require physical labor, such as hoisting sails and loading cargo. Tavíro is a reliable crew member who values camaraderie among his fellow sailors. He dreams of one day traveling to distant lands and experiencing new cultures.
+Tavíro has always loved the sea, and has worked as a seaman since he was a teenager. Known for his strength and stamina, he excels at the heavy work of a ship, hoisting sails and loading cargo. He is a reliable crewman who values the fellowship of his shipmates. He dreams of one day sailing to distant lands and seeing other peoples.
 
-Now at 26 years of age, Tavíro Delvánor has established himself as a known figure among the common seamans of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 26 years of age, he is a known figure among the common seamen of Tarvénia.
 
 ## Psyche
 
 ### Personality
 
-Can be too blunt, struggles with delicate tasks.
+He can be too blunt, and struggles with delicate tasks.
 
 ### Motivation
 
-Tavíro is driven by the desire to master his craft and secure a stable future. The uncertainties of life in common seaman work keep him vigilant and adaptable.
+Tavíro wants a berth on a ship bound somewhere he has never been.
 
 ### Strengths
 
-Physically strong, skilled in manual labor, dependable.
+He is physically strong, skilled in the heavy work of a ship, and dependable.
 
 ## Social
 
-Tavíro is affiliated with None; works as a hired hand..
-
-As a Tarvénan common seaman, Tavíro occupies a recognized social niche within Tarvénia society.
+Tavíro belongs to no guild and works as a hired hand.
 
 ## Companions
 
 ### Patrons
 
-Tavíro's primary patron is Ship captains and merchants seeking hardworking crew members.. This relationship provides both opportunity and obligation.
+Tavíro's patrons are the ship captains and merchants who want hardworking crew.
 
 ### Enemies
 
-Few; generally respected, though some may see him as overly serious.
+Few; he is generally respected, though some see him as overly serious.
 
 ## Plot Hooks
 
-1. **The Common Seaman's Dilemma** — Tavíro faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
+1. **The Common Seaman's Dilemma** — A captain offers Tavíro the voyage to distant lands he has dreamed of, and the cargo in her hold is not one an honest seaman would carry.
 
-2. **Old Grudges** — Few; generally respected, though some may see him as overly serious. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A shipmate who took Tavíro's seriousness for contempt has been telling captains not to hire him.
 
-3. **Echoes of the Past** — Something from Tavíro's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past** — A captain Tavíro sailed under as a boy is back in port, and wants him back on his crew.
 
-4. **Shifting Winds** — Political changes in Tarvénia threaten to upend the social order that Tavíro depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Tarvénia threatens the port trade Tavíro's berths depend on, and he can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Tavíro the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — A merchant offers Tavíro a mate's berth on a ship bound for distant lands, and the crew he would command are not men who want him over them.

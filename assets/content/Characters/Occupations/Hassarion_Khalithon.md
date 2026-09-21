@@ -554,54 +554,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Hassârìon Khalîthôn is a 48-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with broad cheekbones, a broad forehead, and a sharp jaw that leads to a firm chin. His almond-shaped brown eyes sit beneath arched brows, lending him a measured gaze. A straight nose and full lips complete his features. He has olive skin with an olive-toned complexion. His graying black hair is falling in loose waves.
+Hassârìon Khalîthôn is a 48-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with broad cheekbones, a broad forehead, and a sharp jaw that leads to a firm chin. His almond-shaped brown eyes sit beneath arched brows and give him a measured gaze. He has a straight nose and full lips. He has olive skin with an olive-toned complexion. His graying black hair falls in loose waves.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Hassârìon Khalîthôn came into the world of the nobility (tenant-in-chief) through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Hassârìon Khalîthôn is a lord who holds his lands as a tenant-in-chief.
 
-Lord Alaric is a powerful lord who oversees vast lands and is known for his military prowess. He has earned the loyalty of his vassals through his just rulership and strategic mind. Alaric is dedicated to protecting his domain from threats and is often seen leading his men into battle. His strong sense of duty and honor has made him a respected figure among both his peers and the common folk.
+Lord Hassârìon is a powerful lord who oversees vast lands and is known for his military prowess. He has earned the loyalty of his vassals through his just rulership and his skill in war. He is dedicated to protecting his domain from threats and is often seen leading his men into battle. His strong sense of duty and honor has made him a respected figure among both his peers and the common folk.
 
-Now at 48 years of age, Hassârìon Khalîthôn has established himself as a known figure among the nobility (tenant-in-chief)s of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 48 years of age, he is a known figure among the tenants-in-chief of Heliónis.
 
 ## Psyche
 
 ### Personality
 
-Can be too rigid in his decisions, struggles with the changing dynamics of nobility.
+He can be too rigid in his decisions, and struggles with the shifting loyalties of the nobility.
 
 ### Motivation
 
-Hassârìon is driven by the desire to master his craft and secure a stable future. The uncertainties of life in nobility (tenant-in-chief) work keep him vigilant and adaptable.
+Hassârìon wants his domain protected and his vassals' loyalty deserved.
 
 ### Strengths
 
-Strong military leader, strategic thinker, respected authority.
+He is a strong military leader, a clear-headed planner, and a respected authority.
 
 ## Social
 
-Hassârìon is affiliated with Local Nobility Council.
-
-As a Helionite nobility (tenant-in-chief), Hassârìon occupies a recognized social niche within Heliónis society.
+Hassârìon sits on the Local Nobility Council.
 
 ## Companions
 
 ### Patrons
 
-Hassârìon's primary patron is Vassals and local nobility seeking guidance.. This relationship provides both opportunity and obligation.
+Hassârìon's patrons are the vassals and local nobility who seek his guidance.
 
 ### Enemies
 
-Few; generally respected but has made rivals in power struggles.
+Few; he is generally respected but has made rivals in power struggles.
 
 ## Plot Hooks
 
-1. **The Nobility (Tenant-in-chief)'s Dilemma** — Hassârìon faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Nobility (Tenant-in-chief)'s Dilemma** — A vassal Hassârìon trusts is found to have wronged the common folk on his land, and just rulership and the loyalty he has earned pull against each other.
 
-2. **Old Grudges** — Few; generally respected but has made rivals in power struggles. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A rival from an old power struggle on the Local Nobility Council has found allies enough to reopen it.
 
-3. **Echoes of the Past** — Something from Hassârìon's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past** — A battle Hassârìon led his men into years ago is raised again by the family of a man who did not come back from it.
 
-4. **Shifting Winds** — Political changes in Heliónis threaten to upend the social order that Hassârìon depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Heliónis threatens the standing of the tenants-in-chief, and Hassârìon can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Hassârìon the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — Hassârìon is offered command of a campaign beyond his own lands, and his domain would be left to his vassals while he is gone.

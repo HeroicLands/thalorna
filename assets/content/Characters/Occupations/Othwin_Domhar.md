@@ -551,54 +551,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Óthwin Dómhár is a 52-year-old man who stands 6'0" tall and is broad and solidly built. He has a diamond face with sharp cheekbones, a wide forehead, and a strong jaw that leads to a square chin. His almond-shaped hazel eyes sit beneath furrowed brows, lending him a measured gaze. A broad nose and full lips complete his features. He has light skin with a weathered complexion. His gray hair is thick and unkempt. A notable feature is deep lines etched into a weathered brow.
+Óthwin Dómhár is a 52-year-old man who stands 6'0" tall and is broad and solidly built. He has a diamond face with sharp cheekbones, a wide forehead, and a strong jaw that leads to a square chin. His almond-shaped hazel eyes sit beneath furrowed brows and give him a measured gaze. He has a broad nose and full lips. He has light skin with a weathered complexion. His gray hair is thick and unkempt. Deep lines mark his weathered brow.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Óthwin Dómhár came into the world of the trapper through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Óthwin Dómhár is a trapper.
 
-Óthwin has lived in the woods his entire life, learning to trap animals for food and furs from his grandfather. He is a grizzled veteran of the trade, well-versed in the habits of forest creatures. His experience allows him to locate animals that others cannot, and he is often sought after for tracking dangerous predators. Óthwin's gruff nature can be intimidating, but he is loyal to those who earn his trust.
+Óthwin has lived in the woods his entire life, learning to trap animals for food and furs from his grandfather. He is a grizzled veteran of the trade, well versed in the habits of forest creatures. His experience lets him find animals that others cannot, and he is often sent for to track dangerous predators. His gruff nature can be intimidating, but he is loyal to those who earn his trust.
 
-Now at 52 years of age, Óthwin Dómhár has established himself as a known figure among the trappers of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 52 years of age, he is a known figure among the trappers of Vrystwald.
 
 ## Psyche
 
 ### Personality
 
-Gruff and unapproachable, reluctant to trust others.
+He is gruff and unapproachable, and reluctant to trust others.
 
 ### Motivation
 
-Óthwin is driven by the desire to master his craft and secure a stable future. The uncertainties of life in trapper work keep him vigilant and adaptable.
+Óthwin wants to be left to his woods and his traps, and to owe nothing to the officials who would regulate them.
 
 ### Strengths
 
-Expert tracker, highly experienced in trapping, resilient and tough.
+He is an expert tracker, highly experienced in trapping, and resilient and tough.
 
 ## Social
 
-Óthwin is affiliated with None; works as a lone trapper..
-
-As a Varokhi trapper, Óthwin occupies a recognized social niche within Vrystwald society.
+Óthwin belongs to no guild and works as a lone trapper.
 
 ## Companions
 
 ### Patrons
 
-Óthwin's primary patron is Farmers and woodsmen who need dangerous predators removed.. This relationship provides both opportunity and obligation.
+Óthwin's patrons are the farmers and woodsmen who need dangerous predators removed.
 
 ### Enemies
 
-Local officials who disapprove of his disregard for hunting regulations.
+Local officials disapprove of his disregard for hunting regulations.
 
 ## Plot Hooks
 
-1. **The Trapper's Dilemma** — Óthwin faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Trapper's Dilemma** — The farmers want a predator removed from ground where the officials have forbidden Óthwin to set traps, and he cannot serve the one without handing the other its case against him.
 
-2. **Old Grudges** — Local officials who disapprove of his disregard for hunting regulations. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — The local officials who object to Óthwin's disregard for hunting regulations are gathering their cases against him.
 
-3. **Echoes of the Past** — Something from Óthwin's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past** — A trapline Óthwin's grandfather ran is found again, and someone else claims the ground.
 
-4. **Shifting Winds** — Political changes in Vrystwald threaten to upend the social order that Óthwin depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Vrystwald puts new officials over the forest Óthwin traps, and he can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Óthwin the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — A woodsman offers Óthwin a season's pay to track a predator no one else has found, and does not say what it has killed.

@@ -553,54 +553,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Godwin Adwell is a 38-year-old man who stands 6'1" tall and is of moderate build. He has a long face with sharp cheekbones, a high forehead, and a rounded jaw that leads to a delicate chin. His bright hazel eyes sit beneath straight brows, lending him a lively gaze. A straight nose and thin lips complete his features. He has pale skin with a ruddy complexion. His gray hair is combed neatly to one side.
+Godwin Adwell is a 38-year-old man who stands 6'1" tall and is of moderate build. He has a long face with sharp cheekbones, a high forehead, and a rounded jaw that leads to a delicate chin. His bright hazel eyes sit beneath straight brows and give him a lively gaze. He has a straight nose and thin lips. He has pale skin with a ruddy complexion. His gray hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Godwin Adwell came into the world of the herder through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Godwin Adwell is a herder.
 
-Godwin comes from a long line of herders, spending his life tending sheep and goats in the hills. He knows the land like the back of his hand and can navigate even the most treacherous paths. His quiet, calm demeanor makes him well-suited to the solitary life of a herder, though he can be protective when necessary. Godwin is deeply connected to his animals and believes in treating them with care and respect.
+Godwin comes from a long line of herders, and has spent his life tending sheep and goats in the hills. He knows the land like the back of his hand and can find his way over even the most treacherous paths. His quiet, calm manner suits him to the solitary life of a herder, though he can be protective when he needs to be. He is deeply attached to his animals and believes in treating them with care and respect.
 
-Now at 38 years of age, Godwin Adwell has established himself as a known figure among the herders of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 38 years of age, he is a known figure among the herders of Aelwyth.
 
 ## Psyche
 
 ### Personality
 
-Prefers solitude, struggles with social interactions, stubborn about traditional methods.
+He prefers solitude, is awkward in company, and is stubborn about traditional methods.
 
 ### Motivation
 
-Godwin is driven by the desire to master his craft and secure a stable future. The uncertainties of life in herder work keep him vigilant and adaptable.
+Godwin wants his flock kept safe on the hills and the grazing his family has always used left to him.
 
 ### Strengths
 
-Skilled in animal husbandry, knowledgeable about local terrain, calm under pressure.
+He is skilled in animal husbandry, knows the local terrain, and is calm under pressure.
 
 ## Social
 
-Godwin is affiliated with None; works independently..
-
-As a Aelwythan herder, Godwin occupies a recognized social niche within Aelwyth society.
+Godwin belongs to no guild and works independently.
 
 ## Companions
 
 ### Patrons
 
-Godwin's primary patron is Local farmers who buy his wool and cheese.. This relationship provides both opportunity and obligation.
+Godwin's patrons are the local farmers who buy his wool and cheese.
 
 ### Enemies
 
-Few, though some nearby farmers have disputes over grazing rights.
+Few, though some nearby farmers dispute his grazing rights.
 
 ## Plot Hooks
 
-1. **The Herder's Dilemma** — Godwin faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
+1. **The Herder's Dilemma** — A dispute over grazing comes to the point where Godwin can keep his flock on the hill and lose the farmers who buy his wool and cheese, or give up the hill and keep them.
 
-2. **Old Grudges** — Few, though some nearby farmers have disputes over grazing rights. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A nearby farmer who disputes Godwin's grazing rights has fenced a path his flock has always used.
 
-3. **Echoes of the Past** — Something from Godwin's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past** — A boundary stone Godwin's family set generations ago is found moved, and the hill it marked is claimed by another.
 
-4. **Shifting Winds** — Political changes in Aelwyth threaten to upend the social order that Godwin depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Aelwyth threatens the common grazing Godwin's flock depends on, and he can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Godwin the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — A lord offers Godwin the keeping of his own flocks, with a cottage and wages, and what would become of Godwin's animals is not said.

@@ -549,54 +549,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Tázîtha Ibârîdês is a 29-year-old woman who stands 6'1" tall and is slender. She has an angular face with prominent cheekbones, a smooth forehead, and a sharp jaw that leads to a firm chin. Her almond-shaped hazel eyes sit beneath straight brows, lending her a measured gaze. A prominent nose and firm lips complete her features. She has olive skin with an olive-toned complexion. Her brown hair is gathered in a practical bun. A notable feature is calloused hands from years of hard work.
+Tázîtha Ibârîdês is a 29-year-old woman who stands 6'1" tall and is slender. She has an angular face with prominent cheekbones, a smooth forehead, and a sharp jaw that leads to a firm chin. Her almond-shaped hazel eyes sit beneath straight brows and give her a measured gaze. She has a prominent nose and firm lips. She has olive skin with an olive-toned complexion. Her brown hair is gathered in a practical bun. Her hands are calloused from years of hard work.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Tázîtha Ibârîdês came into the world of the charcoaler through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Tázîtha Ibârîdês is a charcoaler.
 
-Tázîtha is one of the few female charcoalers in her area, having learned the trade from her uncle. She enjoys the solitude of the forest and takes great care in her work. Her charcoal is known for being exceptionally clean-burning, and she often supplies local forges as well as herbalists who use it in remedies.
+Tázîtha is one of the few women charcoalers in her area, having learned the trade from her uncle. She enjoys the solitude of the forest and takes great care in her work. Her charcoal is known for burning very clean, and she supplies local forges as well as herbalists who use it in remedies.
 
-Now at 29 years of age, Tázîtha Ibârîdês has established herself as a known figure among the charcoalers of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 29 years of age, she is a known figure among the charcoalers of Heliónis.
 
 ## Psyche
 
 ### Personality
 
-Can be overly reclusive, sometimes avoids people for weeks at a time.
+She can be overly reclusive, and sometimes avoids people for weeks at a time.
 
 ### Motivation
 
-Tázîtha is driven by the desire to master her craft and secure a stable future. The uncertainties of life in charcoaler work keep her vigilant and adaptable.
+Tázîtha wants to be left to her work in the forest and judged by her charcoal, not by her sex.
 
 ### Strengths
 
-Highly skilled at producing high-quality charcoal, enjoys the physical work.
+She is highly skilled at producing fine charcoal, and enjoys the physical work.
 
 ## Social
 
-Tázîtha is affiliated with None; prefers to work independently..
-
-As a Helionite charcoaler, Tázîtha occupies a recognized social niche within Heliónis society.
+Tázîtha belongs to no guild and prefers to work independently.
 
 ## Companions
 
 ### Patrons
 
-Tázîtha's primary patron is Local forges and herbalists who value the quality of her charcoal.. This relationship provides both opportunity and obligation.
+Tázîtha's patrons are the local forges and herbalists who value the quality of her charcoal.
 
 ### Enemies
 
-Rival charcoalers who think the trade should be left to men.
+Rival charcoalers think the trade should be left to men.
 
 ## Plot Hooks
 
-1. **The Charcoaler's Dilemma** — Tázîtha faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
+1. **The Charcoaler's Dilemma** — A forge offers to take all of Tázîtha's charcoal at a good price, and the herbalists who depend on her would get none.
 
-2. **Old Grudges** — Rival charcoalers who think the trade should be left to men. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A rival charcoaler who thinks the trade should be left to men has been selling poor charcoal under her name to the forges.
 
-3. **Echoes of the Past** — Something from Tázîtha's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** — The uncle who taught Tázîtha the trade comes back to the forest, old and without work, and expects to take up the burning where he left it.
 
-4. **Shifting Winds** — Political changes in Heliónis threaten to upend the social order that Tázîtha depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Heliónis threatens the forges Tázîtha's charcoal supplies, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Tázîtha the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — An herbalist offers Tázîtha a partnership in remedies made with her charcoal, and it would mean leaving the forest for the town.

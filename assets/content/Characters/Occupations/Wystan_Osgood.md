@@ -551,54 +551,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Wystan Osgood is a 34-year-old man who stands 5'9" tall and is of moderate build. He has a heart-shaped face with wide-set cheekbones, a high forehead, and a rounded jaw that leads to a delicate chin. His hooded green eyes sit beneath straight brows, lending him a guarded gaze. A straight nose and narrow lips complete his features. He has light skin with a clear complexion. His blonde hair is shoulder-length and loose.
+Wystan Osgood is a 34-year-old man who stands 5'9" tall and is of moderate build. He has a heart-shaped face with wide-set cheekbones, a high forehead, and a rounded jaw that leads to a delicate chin. His hooded green eyes sit beneath straight brows and give him a guarded gaze. He has a straight nose and narrow lips. He has light skin with a clear complexion. His blonde hair is shoulder-length and loose.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Wystan Osgood came into the world of the ratter through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Wystan Osgood is a ratter.
 
-Wystan has spent most of his life catching rats in the bustling streets of the city. Known for his quick reflexes and keen sense of smell, he uses a combination of traps and trained ferrets to control rodent populations. Wystan is a familiar figure in his neighborhood, often seen with his loyal ferret companion, Squeak. His skills are in high demand, especially in homes and markets plagued by infestations.
+Wystan has spent most of his life catching rats in the crowded streets of the city. Known for his quick reflexes and sharp nose, he uses traps and trained ferrets together to keep the rats down. He is a familiar figure in his neighborhood, often seen with his loyal ferret, Squeak. His skills are in high demand, especially in homes and markets plagued by infestations.
 
-Now at 34 years of age, Wystan Osgood has established himself as a known figure among the ratters of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 34 years of age, he is a known figure among the ratters of Aelwyth.
 
 ## Psyche
 
 ### Personality
 
-Can be overly obsessed with his work, struggles with social interactions outside his profession.
+He can be overly obsessed with his work, and is awkward in company outside his trade.
 
 ### Motivation
 
-Wystan is driven by the desire to master his craft and secure a stable future. The uncertainties of life in ratter work keep him vigilant and adaptable.
+Wystan wants the streets of his neighborhood clear of rats, and Squeak kept out of harm.
 
 ### Strengths
 
-Skilled in trapping and rodent behavior, good at navigating urban environments, resourceful.
+He is skilled in trapping and knows how rats behave, finds his way about the city well, and is resourceful.
 
 ## Social
 
-Wystan is affiliated with None; works independently..
-
-As a Aelwythan ratter, Wystan occupies a recognized social niche within Aelwyth society.
+Wystan belongs to no guild and works independently.
 
 ## Companions
 
 ### Patrons
 
-Wystan's primary patron is Local merchants and households seeking to control rat populations.. This relationship provides both opportunity and obligation.
+Wystan's patrons are the local merchants and households who want the rats kept down.
 
 ### Enemies
 
-Few; generally well-respected, but some rats may evade his traps.
+Few; he is generally well respected, but some rats still evade his traps.
 
 ## Plot Hooks
 
-1. **The Ratter's Dilemma** — Wystan faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
+1. **The Ratter's Dilemma** — A merchant pays Wystan to clear his warehouse and to say nothing of what the rats were living on, and the market next door is buying it.
 
-2. **Old Grudges** — Few; generally well-respected, but some rats may evade his traps. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A rat Wystan has never managed to trap has begun taking from a market that blames him for it.
 
-3. **Echoes of the Past** — Something from Wystan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past** — A household Wystan cleared years ago is infested again, worse, and the neighbours say he never cleared it at all.
 
-4. **Shifting Winds** — Political changes in Aelwyth threaten to upend the social order that Wystan depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Aelwyth threatens the markets Wystan's trade depends on, and he can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Wystan the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — A lord's steward offers Wystan the run of a whole manor's rats at good wages, and Squeak is not welcome in the house.

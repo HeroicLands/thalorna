@@ -551,54 +551,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Wilfred Dunwell is a 45-year-old man who stands 6'1" tall and is broad and solidly built. He has a long face with sharp cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. His piercing green eyes sit beneath arched brows, lending him a penetrating gaze. A rounded nose and curved lips complete his features. He has fair skin with a weathered complexion. His brown hair is short and swept back.
+Wilfred Dunwell is a 45-year-old man who stands 6'1" tall and is broad and solidly built. He has a long face with sharp cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. His piercing green eyes sit beneath arched brows and give him a penetrating gaze. He has a rounded nose and curved lips. He has fair skin with a weathered complexion. His brown hair is short and swept back.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Wilfred Dunwell came into the world of the herder through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Wilfred Dunwell is a herder.
 
-Wilfred comes from a family of herders and has spent his life tending to cattle and sheep. Known for his strength and resilience, he is capable of handling the toughest challenges that come with herding. Wilfred has a deep understanding of the weather and its effects on livestock, which he uses to guide his practices. Despite his ruggedness, he has a soft spot for his animals and often talks to them as if they were companions.
+Wilfred comes from a family of herders, and has spent his life tending cattle and sheep. Known for his strength and resilience, he can handle the hardest work that herding brings. He has a deep understanding of the weather and what it does to livestock, and lets it guide his practice. For all his ruggedness he has a soft spot for his animals, and often talks to them as if they were companions.
 
-Now at 45 years of age, Wilfred Dunwell has established himself as a known figure among the herders of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 45 years of age, he is a known figure among the herders of Aelwyth.
 
 ## Psyche
 
 ### Personality
 
-Stubborn about traditional methods, can be overly protective of his flock.
+He is stubborn about traditional methods, and can be overly protective of his flock.
 
 ### Motivation
 
-Wilfred is driven by the desire to master his craft and secure a stable future. The uncertainties of life in herder work keep him vigilant and adaptable.
+Wilfred wants his animals brought through every winter, and the herding done as his family has always done it.
 
 ### Strengths
 
-Strong and resilient, knowledgeable about weather patterns, excellent problem solver.
+He is strong and resilient, knows the weather, and is an excellent problem solver.
 
 ## Social
 
-Wilfred is affiliated with None; works independently..
-
-As a Aelwythan herder, Wilfred occupies a recognized social niche within Aelwyth society.
+Wilfred belongs to no guild and works independently.
 
 ## Companions
 
 ### Patrons
 
-Wilfred's primary patron is Local farmers who value his expertise in livestock care.. This relationship provides both opportunity and obligation.
+Wilfred's patrons are the local farmers who value his skill in livestock care.
 
 ### Enemies
 
-None; respected in his community for his dedication.
+None; he is respected in his community for his dedication.
 
 ## Plot Hooks
 
-1. **The Herder's Dilemma** — Wilfred faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
+1. **The Herder's Dilemma** — A farmer who pays for Wilfred's help asks him to drive his beasts through weather Wilfred can read as deadly, and the man will not wait.
 
-2. **Old Grudges** — None; respected in his community for his dedication. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — Wilfred has no enemies, though a farmer whose stock died in a storm he foretold has found it easier to blame the herder than the weather.
 
-3. **Echoes of the Past** — Something from Wilfred's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past** — A calf Wilfred raised by hand and sold years ago is found among stolen cattle, and its mark is his.
 
-4. **Shifting Winds** — Political changes in Aelwyth threaten to upend the social order that Wilfred depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Aelwyth threatens the common grazing Wilfred's herds depend on, and he can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Wilfred the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — A lord offers Wilfred the mastery of all his herds, and the methods the lord wants used are not the ones Wilfred's family has always used.
