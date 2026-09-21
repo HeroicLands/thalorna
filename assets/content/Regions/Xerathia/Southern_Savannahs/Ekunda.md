@@ -10,7 +10,6 @@ data:
   lore: []
   parents:
     - sthrnsvnhs
-    - xerathia
   population: null
 name:
   full: Ékunda

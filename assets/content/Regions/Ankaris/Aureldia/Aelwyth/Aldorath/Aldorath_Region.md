@@ -18,6 +18,7 @@ name:
   aliases:
     - Aldorath
 shortcode: aldorathrgn
+packFolder: aelwyth
 ---
 
 > **Draft.** This note exists so that the

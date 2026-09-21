@@ -19,7 +19,6 @@ data:
     - flkkhazar
   parents:
     - ankrscntnnt
-    - xerathia
   population: null
 terran_analog: "The Mediterranean basin — a cross-continental constellation of polities ringing the Vylarian Sea, with the Vylarian heartland centered on the Italian peninsula and Adriatic east, Harad on the Levantine coast (Israel and Lebanon), Hellad on the Aegean, and the southern shore in Xerathia."
 packFolder: midhalion

@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - repblctrvn
+    - aelwyth
   population: 14000
 name:
   full: Thornbury

@@ -14,7 +14,6 @@ data:
   lore: []
   parents:
     - midhalnrgn
-    - ankrscntnnt
   population: null
 terran_analog: ""
 packFolder: harad
