@@ -15,8 +15,8 @@ data:
   parents:
     - ankrscntnnt
     - xerathia
-  # borders:
-  #   - { to: takheperurgn, bearing: SE }
+  borders:
+    - { to: takheperurgn, bearing: SE }
   population: null
 terran_analog: The Mediterranean Sea
 packFolder: midhalion
