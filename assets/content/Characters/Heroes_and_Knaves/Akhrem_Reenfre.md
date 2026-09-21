@@ -605,7 +605,7 @@ sohl:
 
 ![[akhremrnfr|Akhrem Re'en'fré]]{float: top-left}
 
-Akhrem stands 6'1" tall with a heavy build. He has dark brown skin, jet black hair, and brown eyes. His features include a long face, a prominent nose, a narrow chin, full lips, dark brows, sculpted cheeks. A distinguishing mark is a scar on the back of the left arm.
+Akhrem stands 6'1" tall with a heavy build. He has dark brown skin, jet black hair, and brown eyes. His features include a long face, a prominent nose, a narrow chin, full lips, dark brows, and sculpted cheeks. He has a scar on the back of his left arm.
 
 # Dossier {#dossier}
 
@@ -613,7 +613,7 @@ Akhrem was born in the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], where th
 
 At fifteen, he apprenticed formally to **Master Soren**, the Empire's foremost animal trainer, learning not through books or doctrine but through intuition and practice. Soren taught him that animals respond to intention and respect, not dominance and cruelty. For twenty-three years, Akhrem worked beside Soren, specializing in the training of exotic beasts for noble hunts, military campaigns, and ceremonial purposes. When Soren grew too aged to continue, Akhrem inherited both his knowledge and his responsibilities.
 
-Now, at thirty-eight, Akhrem maintains a training compound near the Empire's border cities, where he works with creatures brought to him by nobility, hunters, and occasionally desperate merchants. Yet his dedication to his craft has come at a cost—a profound isolation from human society, born of both necessity and choice.
+Now, at thirty-eight, Akhrem maintains a training compound near the Empire's border cities, where he works with creatures brought to him by nobility, hunters, and occasionally desperate merchants. Yet his dedication to his craft has come at a cost—a deep isolation from human society, born of both necessity and choice.
 
 ## Psyche
 
@@ -621,58 +621,58 @@ Now, at thirty-eight, Akhrem maintains a training compound near the Empire's bor
 
 Akhrem's nature is fundamentally reserved, though not from shyness. He has simply learned that most humans communicate carelessly, with their attention fractured between multiple concerns. Animals, by contrast, are present in their communication; they speak through body language and scent and subtle shifts in posture. Over decades, Akhrem has become more fluent in the languages of beasts than in the languages of men.
 
-When forced to interact with people, he is cordial but limited in expression, often answering questions with the fewest possible words. This reticence is frequently misinterpreted as hostility, when in fact it reflects his simple lack of interest in social niceties. He sees through flattery, appreciates directness, and judges individuals entirely on whether their intentions toward animals are genuine. Those who befriend him discover an unexpectedly dry wit and a profound wisdom about patience and observation.
+When forced to interact with people, he is cordial but limited in expression, often answering questions with the fewest possible words. This reticence is frequently misinterpreted as hostility, when in fact it reflects his simple lack of interest in social niceties. He sees through flattery, appreciates directness, and judges individuals entirely on whether their intentions toward animals are honest. Those who befriend him discover an unexpectedly dry wit and a hard-won wisdom about patience and observation.
 
-With animals, he displays a tenderness that surprises those who encounter it. He speaks to creatures in soft tones, celebrates small victories in their training, and mourns their deaths with unguarded emotion. His empathy—one of his most highly developed attributes at 15—is reserved almost entirely for non-human beings.
+With animals, he displays a tenderness that surprises those who encounter it. He speaks to creatures in soft tones, celebrates small victories in their training, and mourns their deaths with unguarded emotion. His fellow-feeling—one of his most highly developed qualities—is reserved almost entirely for non-human beings.
 
 ### Motivation
 
-Akhrem's driving force is the preservation of balance between humanity and the wild creatures that share their world. He believes that most of the suffering inflicted upon animals stems from human ignorance rather than malice, and that training animals properly prevents both animal suffering and human harm. He envisions a world where noble hunters rely upon trained beasts that understand their role and take pride in their work, where military forces employ creatures as genuine partners rather than mindless weapons.
+Akhrem's driving force is the preservation of balance between humanity and the wild creatures that share their world. He believes that most of the suffering inflicted upon animals stems from human ignorance rather than malice, and that training animals properly prevents both animal suffering and human harm. He envisions a world where noble hunters rely upon trained beasts that understand their role and take pride in their work, where military forces employ creatures as true partners rather than mindless weapons.
 
-Additionally, Akhrem carries a private mission to discover and preserve knowledge about animal training that his mentor Soren possessed, fearing that if he passes without an heir, centuries of accumulated wisdom will vanish. He takes on apprentices reluctantly, waiting for someone who demonstrates the necessary gifts—and his standards are exacting.
+Akhrem also carries a private mission to discover and preserve knowledge about animal training that his mentor Soren possessed, fearing that if he passes without an heir, centuries of accumulated wisdom will vanish. He takes on apprentices reluctantly, waiting for someone who demonstrates the necessary gifts—and his standards are exacting.
 
 ### Strengths
 
-- **Masterful Animalcraft**: His unparalleled ability to train, communicate with, and command animals borders on the mystical. His animalcraft skill of 15 base, with four specializations, represents decades of dedicated study and natural talent combined. Wild creatures calm in his presence; aggressive beasts become obedient companions.
-- **Exceptional Endurance**: A constitution built for long hours working with demanding animals, often in harsh conditions. His endurance of 16 allows him to maintain focus and physical capability even during grueling multi-day training sessions.
-- **Superior Tracking and Survival**: Years living in the borderlands have granted him expert understanding of wilderness navigation, animal signs, and resource procurement. His tracking and survival skills make him invaluable for hunting expeditions or locating lost creatures.
-- **Skilled Riding**: His proficiency with horses and other mounts (riding base 13 with five specializations) makes him an exceptional mounted combatant and scout.
-- **Keen Awareness**: A perception of 14 and awareness skills that allow him to notice subtle signs others overlook—the signs of illness in animals, the approach of dangerous creatures, the emotional state of those around him.
-- **Combat Capability**: While not a warrior by vocation, his work with dangerous beasts has honed his martial skills. His melee and throwing proficiencies make him reasonably competent in direct conflict.
+- **Masterful Animalcraft**: His ability to train, communicate with, and command animals borders on the mystical. His animalcraft, with four specializations, represents decades of dedicated study and natural talent combined. Wild creatures calm in his presence; aggressive beasts become obedient companions.
+- **Exceptional Endurance**: A constitution built for long hours working with demanding animals, often in harsh conditions. His endurance allows him to maintain focus and physical capability even during grueling multi-day training sessions.
+- **Superior Tracking and Survival**: Years living in the borderlands have granted him expert understanding of wilderness navigation, animal signs, and resource procurement. His tracking and survival skills make him much sought for hunting expeditions or locating lost creatures.
+- **Skilled Riding**: His skill with horses and other mounts, with five riding specializations, makes him a fine mounted combatant and scout.
+- **Keen Awareness**: A sharp perception and awareness that allow him to notice subtle signs others overlook—the signs of illness in animals, the approach of dangerous creatures, the emotional state of those around him.
+- **Combat Capability**: While not a warrior by vocation, his work with dangerous beasts has honed his martial skills. His melee and throwing skills make him reasonably competent in direct conflict.
 
 ### Weaknesses
 
 - **Profound Distrust of Humans**: Years of isolation and bitter experiences with those who mistreat animals have left Akhrem skeptical of human motives. He assumes wrongdoing until proven otherwise, making alliance-building difficult.
-- **Poor Communication Skills**: His minimal eloquence (7 base) and tendency toward brevity make him ineffective at negotiation, persuasion, or any social interaction requiring nuance or emotional intelligence. He often inadvertently offends through bluntness.
+- **Poor Communication Skills**: His minimal eloquence and tendency toward brevity make him ineffective at negotiation, persuasion, or any dealing requiring nuance or a feel for others' moods. He often inadvertently offends through bluntness.
 - **Emotional Vulnerability Around Animals**: While his emotional distance from humans serves him well, his attachment to animals he trains creates a vulnerability. Those who threaten his beasts can manipulate him into poor decisions.
-- **Limited Creativity in Non-Animal Contexts**: His creativity of 9 means he struggles with innovative problem-solving outside the domain of animal training. Complex social or political puzzles frustrate him.
+- **Limited Creativity in Non-Animal Contexts**: His low creativity means he struggles with unfamiliar problems outside the domain of animal training. Complex social or political puzzles frustrate him.
 - **Aging Frame**: At thirty-eight, he remains physically capable, but the years of demanding physical labor are accumulating. He tires more easily than he did in youth and recovers more slowly from injury.
 
 ## Social
 
 ### Patrons
 
-- **Lord Vaskan of the [[place-southrnmrch|Southern March]]**: A noble who has contracted Akhrem for decades, providing both animal resources and payment in exchange for trained beasts for noble hunts and the occasional military campaign. Vaskan is one of the few humans Akhrem genuinely respects, as the lord treats animals with consideration.
-- **The Temple of Sacred Beasts**: A religious institution that occasionally seeks Akhrem's expertise for the training and care of sacred creatures used in ceremonies, offering both prestige and reasonable compensation.
+- **Lord Vaskan of the [[place-southrnmrch|Southern March]]**: A noble who has contracted Akhrem for decades, providing both animal resources and payment in exchange for trained beasts for noble hunts and the occasional military campaign. Vaskan is one of the few humans Akhrem respects, as the lord treats animals with consideration.
+- **The Temple of Sacred Beasts**: A religious institution that occasionally seeks Akhrem's skill for the training and care of sacred creatures used in ceremonies, offering both prestige and reasonable compensation.
 - **The Merchant Consortium**: Wealthy traders occasionally hire Akhrem to train guard beasts, assess the condition of animals brought through the trade routes, or consult on the transport and care of exotic creatures destined for distant markets.
 
 ### Enemies
 
-- **Kharven the Brutal**: A rival animal trainer who believes in domination and fear as training methods. Kharven has sabotaged several of Akhrem's commissions, poisoned animals in his care, and spread rumors about Akhrem's competence. The enmity is personal; years ago, **Lord Vaskan** chose to employ Akhrem over Kharven, a choice Kharven has never forgiven. Recently, Kharven has been working with darker patrons, suggesting his malice toward Akhrem may escalate.
+- **Kharven the Brutal**: A rival animal trainer who believes in domination and fear as training methods. Kharven has sabotaged several of Akhrem's commissions, poisoned animals in his care, and spread rumors about Akhrem's competence. The enmity is personal; years ago, Lord Vaskan chose to employ Akhrem over Kharven, a choice Kharven has never forgiven. Recently, Kharven has been working with darker patrons, suggesting his malice toward Akhrem may escalate.
 - **The Bloodlust Cult**: A secret society that captures exotic animals for forced combat spectacles. They view Akhrem's refusal to train beasts for such purposes as obstruction, and have made several attempts to steal particularly valuable animals from his compound.
 
 ### Affiliations
 
-- **The Hunters' Guild of Ta'Kheperu**: A formal organization of professional hunters and animal specialists. While Akhrem maintains membership and respects the Guild's codes, he remains something of an outsider due to his unorthodox methods and preference for solitude.
+- **The Hunters' Guild of Ta'Kheperu**: A formal organization of hunters and animal specialists. While Akhrem maintains membership and respects the Guild's codes, he remains something of an outsider due to his unorthodox methods and preference for solitude.
 
 ## Plot Hooks
 
-1. **The Dying Mentor's Legacy**: Akhrem receives word that **Master Soren**, ancient and ailing, has requested his presence before death. Soren claims to possess knowledge of a legendary beast—a creature of immense rarity and power—that he has never taught Akhrem about, fearing the responsibility too great. Now, believing his end is near, Soren wishes to pass this knowledge forward. The problem: the legendary creature may be more than myth, and powerful forces seek to control it.
+1. **The Dying Mentor's Legacy**: Akhrem receives word that Master Soren, ancient and ailing, has requested his presence before death. Soren claims to possess knowledge of a storied beast—a creature of immense rarity and power—that he has never taught Akhrem about, fearing the responsibility too great. Now, believing his end is near, Soren wishes to pass this knowledge forward. The problem: the creature may be more than myth, and powerful forces seek to control it.
 
-2. **The Cursed Animal**: A desperate merchant brings Akhrem an animal of obvious quality that nonetheless proves impossible to train—it rages against handlers, resists all conventional methods, and seems to suffer from an internal torment. Akhrem's investigation reveals signs suggesting magical corruption or curse. To help the creature, he must navigate the dangerous intersection of animal care and occult forces, seeking allies among those with arcane knowledge.
+2. **The Cursed Animal**: A desperate merchant brings Akhrem an animal of obvious quality that nonetheless proves impossible to train—it rages against handlers, resists all conventional methods, and seems to suffer from an internal torment. Akhrem's investigation reveals signs suggesting magical corruption or curse. To help the creature, he must work where animal care and occult forces meet, seeking allies among those with arcane knowledge.
 
-3. **The Poaching Ring**: Akhrem discovers evidence of an organized poaching operation targeting the rarest animals in the Empire. The operation is larger and better-organized than any he has encountered before, with military-style structure and significant resources. Following the trail leads him toward powerful figures in government and nobility, forcing him to choose between his loyalty to **Lord Vaskan** and his obligation to protect the creatures under threat.
+3. **The Poaching Ring**: Akhrem discovers evidence of an organized poaching operation targeting the rarest animals in the Empire. The operation is larger and better-organized than any he has encountered before, with military-style structure and significant resources. Following the trail leads him toward powerful figures in government and nobility, forcing him to choose between his loyalty to Lord Vaskan and his obligation to protect the creatures under threat.
 
-4. **The Stolen Beast**: One of Akhrem's prized trained animals—a magnificent creature worth a fortune and irreplaceable to him—is stolen by persons unknown. The investigation leads him into the criminal underworld of Ta'Kheperu's cities, where he must employ unfamiliar tactics of deception and information-gathering to track the theft. The trail suggests involvement of **Kharven**, but the conspiracy appears far larger than personal rivalry.
+4. **The Stolen Beast**: One of Akhrem's prized trained animals—a magnificent creature worth a fortune and irreplaceable to him—is stolen by persons unknown. The investigation leads him into the criminal underworld of Ta'Kheperu's cities, where he must employ unfamiliar tactics of deception and information-gathering to track the theft. The trail suggests involvement of Kharven, but the conspiracy appears far larger than personal rivalry.
 
-5. **The Sacred Charge**: The Temple of Sacred Beasts approaches Akhrem with a desperate commission: a sacred creature, essential to maintaining the religious ceremonies that bind the Empire together, is dying of an unknown affliction. They believe Akhrem's skills represent the only hope for the animal's recovery. Success would grant him influence and resources unprecedented in his career; failure would devastate both the creature and the social order itself. As Akhrem works to understand the creature's illness, he uncovers evidence suggesting the affliction was deliberately induced—and the perpetrator is someone high within the Temple hierarchy.
+5. **The Sacred Charge**: The Temple of Sacred Beasts approaches Akhrem with a desperate commission: a sacred creature, essential to maintaining the religious ceremonies that bind the Empire together, is dying of an unknown affliction. They believe Akhrem's skills represent the only hope for the animal's recovery. Success would grant him influence and resources unprecedented in his life; failure would devastate both the creature and the social order itself. As Akhrem works to understand the creature's illness, he uncovers evidence suggesting the affliction was deliberately induced—and the perpetrator is someone high within the Temple hierarchy.

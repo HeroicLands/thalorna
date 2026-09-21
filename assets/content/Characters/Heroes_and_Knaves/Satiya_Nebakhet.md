@@ -625,13 +625,13 @@ sohl:
 
 ![[satiynbkht|Satîya Neb'akhet]]{float: top-left}
 
-Satîya stands 6'0" tall with a medium build. She has ebony skin, black hair, and hazel eyes. Her features include an oval face, a noble nose, a gentle jawline, high-set brows.
+Satîya stands 6'0" tall with a medium build. She has ebony skin, black hair, and hazel eyes. Her features include an oval face, a noble nose, a gentle jawline, and high-set brows.
 
 # Dossier {#dossier}
 
-Satîya Neb'akhet was born into the free classes of [[affiliation-empirtkhpr|Ta'Kheperu]], neither enslaved nor nobility, but precisely placed in that careful middle where service becomes the foundation of survival. Her mother was a cook, her father a minor functionary in the temple of Íšét. From childhood, Satîya showed an almost obsessive need for order, and by her late teens, she had already begun managing the household of a moderately wealthy merchant. That position lasted seventeen years until the merchant's death, when Satîya found herself without patronage in a competitive market.
+Satîya Neb'akhet was born into the free classes of [[affiliation-empirtkhpr|Ta'Kheperu]], neither enslaved nor nobility, but precisely placed in that careful middle where service becomes the foundation of survival. Her mother was a cook, her father a minor functionary in the temple of Íšét. From childhood, Satîya showed an almost obsessive need for order, and by her late teens, she had already begun managing the household of a moderately wealthy merchant. That position lasted seventeen years until the merchant's death, when Satîya found herself without patronage and with many rivals for the next place.
 
-For the past four years, she has served in the household of Master Henti, a wealthy intellectual and collector of antiquities. Henti values her organizational genius and the way she has transformed his somewhat chaotic holdings into a model of efficiency. Yet Henti, like many employers, takes her service for granted, referring to her competence as simply "what Satîya does" rather than acknowledging it as exceptional. She manages not only the physical household but also coordinates with merchants, oversees the preparation of elaborate entertainments, and serves as Henti's informal advisor on matters of domestic stability.
+For the past four years, she has served in the household of Master Henti, a wealthy intellectual and collector of antiquities. Henti values her genius for order and the way she has transformed his somewhat chaotic holdings into a model of good management. Yet Henti, like many employers, takes her service for granted, referring to her competence as simply "what Satîya does" rather than acknowledging it as anything out of the ordinary. She manages the physical household, deals with merchants, oversees the preparation of elaborate entertainments, and acts as Henti's informal advisor on matters of domestic stability.
 
 Her spiritual devotion to Íšét, goddess of fertility and the domestic sphere, runs deep—though some might argue it borders on obsession. Satîya sees her work not as mere service but as sacred duty, maintaining the fertile, ordered space from which all civilization springs.
 
@@ -639,37 +639,37 @@ Her spiritual devotion to Íšét, goddess of fertility and the domestic sphere,
 
 ### Personality
 
-Satîya is a woman of profound contradictions. On the surface, she is unswervingly professional, composed, and calm in crisis. Yet beneath that calm lies a roiling ocean of resentment and wounded pride. She speaks softly and rarely volunteers opinion, yet when she does speak, people listen—her words carry the weight of someone who has watched everything while remaining largely invisible. She possesses a dry, biting humor that emerges only among those she trusts, revealing a keen intelligence often overshadowed by her role as a functionary.
+Satîya is a woman of deep contradictions. On the surface, she is unswervingly correct, composed, and calm in crisis. Under that calm is a roiling ocean of resentment and wounded pride. She speaks softly and rarely volunteers opinion, yet when she does speak, people listen—her words carry the weight of someone who has watched everything while remaining largely invisible. She possesses a dry, biting humor that emerges only among those she trusts, revealing a keen intelligence often overshadowed by her role as a functionary.
 
 What disturbs those who know her well is her capacity to hold grudges with almost architectural precision. She can remember, in perfect detail, every slight, every moment of ingratitude, every instance when her work was praised while she remained in shadow. These grievances do not make her cruel, but they do make her wary. She gives her loyalty completely to those who earn it, but once lost, that loyalty is not easily recovered.
 
 ### Motivation
 
-Satîya's deepest drive is paradoxical: she seeks both complete control over her domain and acknowledgment of that mastery by those above her. She works with meticulous precision not solely for the satisfaction of order but for the validation that such order brings. She remains in Master Henti's service despite her resentment because leaving would mean losing the context for her excellence—without a grand household to manage, what proof would she have of her worth? Yet this same bind increasingly irritates her. She yearns for a position where her contributions would be seen and valued, where her name would be known beyond the servants' quarters.
+Satîya's deepest drive pulls two ways: she seeks both complete control over her domain and acknowledgment of that mastery by those above her. She works with exacting precision not solely for the satisfaction of order but for the recognition that such order brings. She remains in Master Henti's service despite her resentment because leaving would mean losing the stage for her excellence—without a grand household to manage, what proof would she have of her worth? Yet this same bind increasingly irritates her. She yearns for a position where her contributions would be seen and valued, where her name would be known beyond the servants' quarters.
 
 ### Strengths
 
-- **Organizational Mastery**: Can manage complex households of any size with near-perfect efficiency, tracking resources, staff, schedules, and logistics with minimal effort.
-- **Problem Solver**: Possesses practical wisdom for solving the hundred small crises that arise in domestic life—from preventing conflicts between staff to stretching budgets without visible compromise.
+- **Organizational Mastery**: Can manage complex households of any size with near-perfect economy, tracking stores, staff, schedules, and deliveries with minimal effort.
+- **Problem Solver**: Possesses practical wisdom for solving the hundred small crises that arise in domestic life—from preventing conflicts between staff to stretching the household purse without visible compromise.
 - **Ritual Knowledge**: Deeply versed in the practices and observances necessary for proper worship of Íšét, allowing her to structure household activities in spiritually appropriate ways.
-- **Command Authority**: Can direct servants and staff with quiet authority—people obey her not from fear but from respect for her evident competence and fairness.
-- **Adaptability**: Though she values order, Satîya can adjust protocols and systems when circumstances demand, maintaining her vision of perfection while accommodating necessity.
+- **Command Authority**: Can direct servants and staff without raising her voice—people obey her not from fear but from respect for her evident competence and fairness.
+- **Adaptability**: Though she values order, Satîya can adjust routines and arrangements when circumstances demand, maintaining her vision of perfection while accommodating necessity.
 
 ### Weaknesses
 
-- **Bitterness Corrodes**: Her growing resentment of being taken for granted makes her increasingly sharp with staff and prone to passive-aggressive acts of control.
+- **Bitterness Corrodes**: Her growing resentment of being taken for granted makes her increasingly sharp with staff and prone to petty, unspoken acts of control.
 - **Difficulty Delegating**: She trusts her own standards absolutely and struggles to allow others to manage tasks, leading to exhaustion and bottlenecks.
-- **Inflexibility in Principles**: While adaptive in practice, Satîya possesses unwavering beliefs about how things "should" be, making her judgmental of those who deviate.
-- **Emotional Isolation**: Her distance and formality make it difficult for others to approach her with genuine care; she is respected but rarely loved.
-- **Vulnerability to Manipulation**: Those who offer her genuine recognition or challenge her to prove her worth can lead her into ill-advised situations, as her ego becomes invested.
+- **Inflexibility in Principles**: While adaptive in practice, Satîya possesses fixed beliefs about how things "should" be, making her harsh toward those who deviate.
+- **Emotional Isolation**: Her distance and formality make it difficult for others to approach her with real care; she is respected but rarely loved.
+- **Vulnerability to Manipulation**: Those who offer her sincere recognition or challenge her to prove her worth can lead her into ill-advised situations, as her pride becomes engaged.
 
 ## Social
 
 ### Patrons
 
-- **Master Henti of House Sekhemka**: Her current employer, a wealthy antiquarian who, despite his obliviousness to her resentment, genuinely depends on her and would be lost without her expertise.
+- **Master Henti of House Sekhemka**: Her current employer, a wealthy antiquarian who, despite his obliviousness to her resentment, depends on her and would be lost without her.
 - **The Temple of Íšét**: Satîya performs volunteer ritual work at the main temple and is recognized there as a keeper of proper domestic observances.
-- **The Association of Household Stewards**: A loose professional society through which Satîya occasionally takes consultancy work, redesigning household systems for other noble families.
+- **The Association of Household Stewards**: A loose society of the trade through which Satîya occasionally takes outside work, reordering the households of other noble families.
 
 ### Enemies
 
@@ -680,16 +680,16 @@ Satîya's deepest drive is paradoxical: she seeks both complete control over her
 ### Affiliations
 
 - **Temple of Íšét**: Devoted worshipper and volunteer, though she attends with the same methodical approach she applies to everything.
-- **Household Stewards' Association**: Member in good standing, though she remains somewhat isolated even among her professional peers.
+- **Household Stewards' Association**: Member in good standing, though she remains somewhat isolated even among her peers in the trade.
 
 ## Plot Hooks
 
 1. **The Inheritance Dispute**: Master Henti dies unexpectedly, and his will reveals that he has bequeathed his substantial household—not to his lazy nephew, but to Satîya, with instructions to run it until the nephew matures. However, the nephew and his supporters contest the will, claiming Satîya coerced or manipulated the elderly Henti. Satîya must now fight for her right to the position she has effectively held all along, proving both the legitimacy of Henti's wishes and her own worthiness. The vindication she has always craved now comes tangled with accusation and doubt.
 
-2. **The Seduction of the Smuggler**: A charming merchant captain arrives in Ta'Kheperu seeking to establish a shipping business, and he becomes a frequent guest in Master Henti's household. He pays Satîya extraordinary attention—complimenting her work, remembering details about her preferences, treating her with the respect and recognition she has been denied for decades. Only gradually does Satîya realize he is using her access and knowledge of the household to steal valuable antiquities for sale to foreign collectors. She must choose between the intoxicating validation he offers and her fundamental integrity, and then decide whether exposure will destroy the reputation she has built.
+2. **The Seduction of the Smuggler**: A charming merchant captain arrives in Ta'Kheperu seeking to establish a shipping venture, and he becomes a frequent guest in Master Henti's household. He pays Satîya extraordinary attention—complimenting her work, remembering details about her preferences, treating her with the respect and recognition she has been denied for decades. Only gradually does Satîya realize he is using her access and knowledge of the household to steal valuable antiquities for sale to foreign collectors. She has to choose between the intoxicating recognition he offers and her fundamental integrity, and then whether exposure will destroy the reputation she has built.
 
-3. **The Ritual Demands**: The Temple of Íšét approaches Satîya with an unusual request: to oversee a month-long ceremonial preparation of a noble household for a sacred fertility festival, essentially removing her from Master Henti's service. The temple promises her recognition and a position of minor authority that would finally see her name known and respected. However, completing this task would mean temporarily abandoning the household she has controlled, allowing a temporary steward to make decisions in her absence. Satîya must weigh her hunger for external validation against her need to maintain control of her domain.
+3. **The Ritual Demands**: The Temple of Íšét approaches Satîya with an unusual request: to oversee a month-long ceremonial preparation of a noble household for a sacred fertility festival, essentially removing her from Master Henti's service. The temple promises her recognition and a position of minor authority that would finally see her name known and respected. However, completing this task would mean temporarily abandoning the household she has controlled, allowing a temporary steward to make decisions in her absence. Satîya must weigh her hunger for recognition against her need to maintain control of her domain.
 
-4. **The Scandal and the Scapegoat**: A theft or moral scandal occurs in Master Henti's household—perhaps a young servant is found with child, or valuable items go missing—and though Satîya is certainly not responsible, her position makes her a convenient target for blame. Henti, rather than defending her, chooses to dismiss her to avoid further embarrassment. Satîya must then decide whether to accept the humiliation or take action to expose the truth, potentially destroying the household she has devoted herself to protecting.
+4. **The Scandal and the Scapegoat**: A theft or moral scandal occurs in Master Henti's household—perhaps a young servant is found with child, or valuable items go missing—and though Satîya is certainly not responsible, her position makes her a convenient target for blame. Henti, rather than defending her, chooses to dismiss her to avoid further embarrassment. Satîya can accept the humiliation or take action to expose the truth, potentially destroying the household she has devoted herself to protecting.
 
-5. **The Offer of Partnership**: A woman of similar age and background approaches Satîya with a proposition: together, they could establish a consulting firm advising noble families on household management and organization, building a business where Satîya's expertise would finally be properly credited and compensated. However, this would mean leaving Master Henti, risking her current security, and trusting another person—something Satîya finds nearly impossible. The opportunity represents everything she has wanted, but accepting it requires her to believe she deserves more, something decades of invisibility have made her unable to fully accept.
+5. **The Offer of Partnership**: A woman of similar age and background approaches Satîya with a proposition: together, they could set up as advisors to noble families on the running and ordering of households, building a business where Satîya's skill would finally be properly credited and paid. However, this would mean leaving Master Henti, risking her current security, and trusting another person—something Satîya finds nearly impossible. The opportunity represents everything she has wanted, but accepting it requires her to believe she deserves more, something decades of invisibility have made her unable to fully accept.
