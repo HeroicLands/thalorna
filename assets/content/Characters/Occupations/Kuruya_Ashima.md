@@ -550,54 +550,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Kûrûya Ashîmâ is a 33-year-old woman who stands 5'8" tall and is of moderate build. She has a diamond face with soft cheekbones, a smooth forehead, and a sharp jaw that leads to a prominent chin. Her piercing brown eyes sit beneath heavy brows, lending her a penetrating gaze. A straight nose and wide lips complete her features. She has medium-toned skin with a bronzed complexion. Her black hair is braided and coiled at the nape.
+Kûrûya Ashîmâ is a 33-year-old woman who stands 5'8" tall and is of moderate build. She has a diamond face with soft cheekbones, a smooth forehead, and a sharp jaw that leads to a prominent chin. Her piercing brown eyes sit beneath heavy brows and give her a penetrating gaze. She has a straight nose and wide lips. She has medium-toned skin with a bronzed complexion. Her black hair is braided and coiled at the nape.
 
 # Dossier {#dossier}
 
-Born in the [[place-haradregin|Harad]] region to a freeman family of Haradian heritage, Kûrûya Ashîmâ came into the world of the weaponcrafter (armorer) through a combination of circumstance and aptitude.
+Born in the [[place-haradregin|Harad]] region to a freeman family of Haradian heritage, Kûrûya Ashîmâ is a weaponcrafter and armorer.
 
-Kûrûya is a talented weaponcrafter who grew up in a family of blacksmiths. She took a particular interest in crafting smaller, more intricate weapons such as daggers and throwing knives. Kûrûya is known for her detailed work and the artistic designs she incorporates into her creations. While her weapons are beautiful, some potential customers see them as more decorative than functional, which she seeks to change by proving their effectiveness in combat.
+Kûrûya is a talented weaponcrafter who grew up in a family of blacksmiths. She took a particular interest in making smaller, finer weapons such as daggers and throwing knives. She is known for her detailed work and the designs she works into her blades. Her weapons are beautiful, but some would-be customers see them as more decorative than useful, and she means to change that by proving them in combat.
 
-Now at 33 years of age, Kûrûya Ashîmâ has established herself as a known figure among the weaponcrafter (armorer)s of Harad. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 33 years of age, she is a known figure among the weaponcrafters of Harad.
 
 ## Psyche
 
 ### Personality
 
-Struggles to market her work as practical, can be stubborn about her artistic vision.
+She struggles to sell her work as practical, and can be stubborn about her designs.
 
 ### Motivation
 
-Kûrûya's driving force is the search that defines her life — a quest that shapes every decision she makes and every risk she takes.
+Kûrûya wants her blades proved in combat, so that no one again calls them ornaments.
 
 ### Strengths
 
-Skilled in detailed metalwork, creative weapon designs, resourceful.
+She is skilled in detailed metalwork, inventive in her weapon designs, and resourceful.
 
 ## Social
 
-Kûrûya is affiliated with City Artisans' Guild.
-
-As a Haradian weaponcrafter (armorer), Kûrûya occupies a recognized social niche within Harad society.
+Kûrûya belongs to the City Artisans' Guild.
 
 ## Companions
 
 ### Patrons
 
-Kûrûya's primary patron is Wealthy clients who appreciate her artistry, and a few adventurers seeking unique weapons.. This relationship provides both opportunity and obligation.
+Kûrûya's patrons are the wealthy clients who appreciate her artistry, and a few adventurers seeking unusual weapons.
 
 ### Enemies
 
-Traditional blacksmiths who see her work as too ornamental.
+Traditional blacksmiths see her work as too ornamental.
 
 ## Plot Hooks
 
-1. **The Weaponcrafter (Armorer)'s Dilemma** — Kûrûya faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Harad.
+1. **The Weaponcrafter (Armorer)'s Dilemma** — A wealthy client wants a blade from Kûrûya made for show alone, and taking the commission would concede what she has spent years denying.
 
-2. **Old Grudges** — Traditional blacksmiths who see her work as too ornamental. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A traditional blacksmith who calls Kûrûya's work ornament has brought a complaint against her to the City Artisans' Guild.
 
-3. **Echoes of the Past** — Something from Kûrûya's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** — A dagger from Kûrûya's first years at the forge is found in a dead man, and its design names its maker.
 
-4. **Shifting Winds** — Political changes in Harad threaten to upend the social order that Kûrûya depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Harad threatens the wealthy clients Kûrûya's trade depends on, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Kûrûya the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — An adventurer offers to carry one of Kûrûya's blades into a fight the whole city will hear of, on the condition that she comes to see it used.

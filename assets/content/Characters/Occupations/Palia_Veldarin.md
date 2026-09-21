@@ -552,54 +552,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Pália Véldarin is a 46-year-old woman who stands 6'0" tall and is of moderate build. She has a diamond face with broad cheekbones, a prominent forehead, and a rounded jaw that leads to a narrow chin. Her round brown eyes sit beneath straight brows, lending her a candid gaze. A slightly upturned nose and full lips complete her features. She has tanned skin with a clear complexion. Her gray hair is swept up and held with carved combs.
+Pália Véldarin is a 46-year-old woman who stands 6'0" tall and is of moderate build. She has a diamond face with broad cheekbones, a prominent forehead, and a rounded jaw that leads to a narrow chin. Her round brown eyes sit beneath straight brows and give her a candid gaze. She has a slightly upturned nose and full lips. She has tanned skin with a clear complexion. Her gray hair is swept up and held with carved combs.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Pália Véldarin came into the world of the domestic servant through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Pália Véldarin is a domestic servant.
 
-Pália has served as a housemaid for several prominent families throughout her life. Currently, she works for a rural nobleman, managing the daily upkeep of his estate. She is diligent and hardworking, often taking on extra tasks to ensure everything runs smoothly. Pália is known for her no-nonsense attitude and practical skills, though some see her as overly stern.
+Pália has served as a housemaid for several prominent families over her life. She now works for a rural nobleman, managing the daily upkeep of his estate. She is diligent and hardworking, and often takes on extra tasks to keep the household running smoothly. She is known for her no-nonsense attitude and practical skills, though some see her as overly stern.
 
-Now at 46 years of age, Pália Véldarin has established herself as a known figure among the domestic servants of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 46 years of age, she is a known figure among the domestic servants of Élavendre.
 
 ## Psyche
 
 ### Personality
 
-Can be overly strict with junior servants, has little patience for laziness.
+She can be overly strict with junior servants, and has little patience for laziness.
 
 ### Motivation
 
-Pália is driven by the desire to master her craft and secure a stable future. The uncertainties of life in domestic servant work keep her vigilant and adaptable.
+Pália wants the estate run properly and her place in it secure until she is too old to hold it.
 
 ### Strengths
 
-Skilled in household management, excellent at multitasking.
+She is skilled in household management, and can keep many tasks going at once.
 
 ## Social
 
-Pália is affiliated with None; loyal only to her current employer..
-
-As a Élavendri domestic servant, Pália occupies a recognized social niche within Élavendre society.
+Pália belongs to no guild, and is loyal only to her current employer.
 
 ## Companions
 
 ### Patrons
 
-Pália's primary patron is The noble family she currently serves.. This relationship provides both opportunity and obligation.
+Pália's patron is the noble family she currently serves.
 
 ### Enemies
 
-Few; most respect her work ethic, but some junior servants resent her strictness.
+Few; most respect her work, but some junior servants resent her strictness.
 
 ## Plot Hooks
 
-1. **The Domestic Servant's Dilemma** — Pália faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **The Domestic Servant's Dilemma** — Pália learns something about the nobleman she serves that a loyal servant would keep and an honest one would not.
 
-2. **Old Grudges** — Few; most respect her work ethic, but some junior servants resent her strictness. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A junior servant Pália dismissed for laziness has found a place in a household that visits the estate.
 
-3. **Echoes of the Past** — Something from Pália's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** — One of the prominent families Pália once served comes to the estate as guests, and one of them remembers her.
 
-4. **Shifting Winds** — Political changes in Élavendre threaten to upend the social order that Pália depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Élavendre threatens the nobleman Pália serves, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Pália the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — A greater house offers Pália the running of its whole household, and taking it would mean leaving the employer she has given her loyalty to.

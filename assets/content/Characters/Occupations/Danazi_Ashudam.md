@@ -546,54 +546,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Dânâzi Ashûdam is a 29-year-old woman who stands 6'1" tall and is of moderate build. She has a long face with prominent cheekbones, a broad forehead, and a narrow jaw that leads to a pointed chin. Her sharp brown eyes sit beneath straight brows, lending her an incisive gaze. A strong nose and expressive lips complete her features. She has olive skin with an olive-toned complexion. Her black hair is twisted into an elaborate arrangement. A notable feature is a crooked nose from an old break.
+Dânâzi Ashûdam is a 29-year-old woman who stands 6'1" tall and is of moderate build. She has a long face with prominent cheekbones, a broad forehead, and a narrow jaw that leads to a pointed chin. Her sharp brown eyes sit beneath straight brows and give her an incisive gaze. She has a strong nose and expressive lips. She has olive skin with an olive-toned complexion. Her black hair is twisted into an elaborate arrangement. Her nose is crooked from an old break.
 
 # Dossier {#dossier}
 
-Born in the [[place-haradregin|Harad]] region to a freeman family of Haradian heritage, Dânâzi Ashûdam came into the world of the gladiator through a combination of circumstance and aptitude.
+Born in the [[place-haradregin|Harad]] region to a freeman family of Haradian heritage, Dânâzi Ashûdam is a gladiator.
 
-Dânâzi grew up as a street orphan and fought for survival every day. She was discovered by a gladiator trainer who saw her potential and offered her a chance to rise above her circumstances. Known for her speed and agility, Dânâzi quickly made a name for herself in the arena, where she fights with a blend of grace and ferocity. She enjoys the thrill of combat but remains wary of the dangers it brings.
+Dânâzi grew up as a street orphan and fought for survival every day. She was discovered by a gladiator trainer who saw her potential and offered her a chance to rise above her circumstances. Known for her speed and agility, she quickly made a name for herself in the arena, where she fights with a blend of grace and ferocity. She enjoys the thrill of combat but remains wary of the dangers it brings.
 
-Now at 29 years of age, Dânâzi Ashûdam has established herself as a known figure among the gladiators of Harad. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 29 years of age, she is a known figure among the gladiators of Harad.
 
 ## Psyche
 
 ### Personality
 
-Lacks raw strength, can be reckless in her pursuit of glory.
+She lacks raw strength, and can be reckless in her pursuit of glory.
 
 ### Motivation
 
-Dânâzi is driven by the desire to master her craft and secure a stable future. The uncertainties of life in gladiator work keep her vigilant and adaptable.
+Dânâzi wants a name in the arena that no one can take from her, and never to go back to the streets she came from.
 
 ### Strengths
 
-Fast, agile, skilled in acrobatic combat.
+She is fast, agile, and skilled in acrobatic combat.
 
 ## Social
 
-Dânâzi is affiliated with Gladiators' Guild.
-
-As a Haradian gladiator, Dânâzi occupies a recognized social niche within Harad society.
+Dânâzi belongs to the Gladiators' Guild.
 
 ## Companions
 
 ### Patrons
 
-Dânâzi's primary patron is Arena patrons who admire her style and grace.. This relationship provides both opportunity and obligation.
+Dânâzi's patrons are the arena patrons who admire her style and grace.
 
 ### Enemies
 
-Rival fighters who resent her quick rise to fame.
+Rival fighters resent her quick rise to fame.
 
 ## Plot Hooks
 
-1. **The Gladiator's Dilemma** — Dânâzi faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Harad.
+1. **The Gladiator's Dilemma** — An arena patron pays Dânâzi to lose a bout she could win, and her name and her purse cannot both be kept.
 
-2. **Old Grudges** — Rival fighters who resent her quick rise to fame. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A rival fighter who resents Dânâzi's quick rise has asked for her by name in the arena.
 
-3. **Echoes of the Past** — Something from Dânâzi's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** — Someone from Dânâzi's years as a street orphan recognises her in the arena and comes asking for a share of what she has made.
 
-4. **Shifting Winds** — Political changes in Harad threaten to upend the social order that Dânâzi depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Harad threatens the games Dânâzi lives by, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Dânâzi the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — The trainer who found Dânâzi offers her his school when he retires, and what he wants in return is not said.

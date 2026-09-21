@@ -558,54 +558,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Thóren Bélthal is a 49-year-old man who stands 5'11" tall and is broad and solidly built. He has a long face with soft cheekbones, a narrow forehead, and a rounded jaw that leads to a firm chin. His large green eyes sit beneath expressive brows, lending him an expressive gaze. A narrow nose and full lips complete his features. He has pale skin with a flawless complexion. His chestnut hair is falling in loose waves. A notable feature is rough, work-worn hands.
+Thóren Bélthal is a 49-year-old man who stands 5'11" tall and is broad and solidly built. He has a long face with soft cheekbones, a narrow forehead, and a rounded jaw that leads to a firm chin. His large green eyes sit beneath expressive brows and give him an expressive gaze. He has a narrow nose and full lips. He has pale skin with a flawless complexion. His chestnut hair falls in loose waves. His hands are rough and work-worn.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Thóren Bélthal came into the world of the shipwright through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Thóren Bélthal is a shipwright.
 
-Thóren has spent his entire life by the sea, learning the craft of shipbuilding from his father. Over the years, he has built and repaired countless ships for sailors and merchants. Known for his skill and attention to detail, Thóren takes pride in his work but often finds himself at odds with clients who want things done faster and cheaper. Despite his gruff exterior, he has a deep respect for the sea and the ships that sail upon it.
+Thóren has spent his entire life by the sea, learning the craft of shipbuilding from his father. Over the years he has built and repaired countless ships for sailors and merchants. Known for his skill and attention to detail, he takes pride in his work but is often at odds with clients who want things done faster and cheaper. For all his gruffness, he has a deep respect for the sea and the ships that sail upon it.
 
-Now at 49 years of age, Thóren Bélthal has established himself as a known figure among the shipwrights of Élavendre. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 49 years of age, he is a known figure among the shipwrights of Élavendre.
 
 ## Psyche
 
 ### Personality
 
-Stubborn, refuses to compromise on quality even if it means losing clients.
+He is stubborn, and refuses to compromise on quality even when it costs him clients.
 
 ### Motivation
 
-Thóren is driven by the desire to master his craft and secure a stable future. The uncertainties of life in shipwright work keep him vigilant and adaptable.
+Thóren wants every hull that leaves his yard to be one the sea cannot fault, whatever the client wanted to pay.
 
 ### Strengths
 
-Skilled in shipbuilding, excellent understanding of maritime conditions.
+He is skilled in shipbuilding, and understands maritime conditions well.
 
 ## Social
 
-Thóren is affiliated with Coastal Shipwrights' Guild.
-
-As a Élavendri shipwright, Thóren occupies a recognized social niche within Élavendre society.
+Thóren belongs to the Coastal Shipwrights' Guild.
 
 ## Companions
 
 ### Patrons
 
-Thóren's primary patron is Local merchants and ship captains who value his craftsmanship.. This relationship provides both opportunity and obligation.
+Thóren's patrons are the local merchants and ship captains who value his craftsmanship.
 
 ### Enemies
 
-Rival shipwrights who undercut his prices.
+Rival shipwrights undercut his prices.
 
 ## Plot Hooks
 
-1. **The Shipwright's Dilemma** — Thóren faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
+1. **The Shipwright's Dilemma** — A merchant wants a ship from Thóren built faster and cheaper than he will build one, and the yard cannot go another season without the work.
 
-2. **Old Grudges** — Rival shipwrights who undercut his prices. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A rival shipwright who undercuts Thóren's prices has taken his oldest customer, and the ship he built for him is not sound.
 
-3. **Echoes of the Past** — Something from Thóren's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past** — A ship Thóren built with his father comes back to his yard for repair after years at sea.
 
-4. **Shifting Winds** — Political changes in Élavendre threaten to upend the social order that Thóren depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Élavendre threatens the coastal trade Thóren's yard depends on, and he can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Thóren the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — A ship captain offers Thóren the building of a whole fleet, on terms that would mean building faster than he has ever agreed to.

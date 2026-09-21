@@ -551,41 +551,39 @@ sohl:
 
 # Appearance {#appearance}
 
-Goremdânis Shônyàrdîs is a 35-year-old man who stands 6'1" tall and is of moderate build. He has a long face with defined cheekbones, a broad forehead, and a strong jaw that leads to a firm chin. His almond-shaped dark brown eyes sit beneath arched brows, lending him a measured gaze. A hawkish nose and curved lips complete his features. He has medium-toned skin with a sun-tanned complexion. His dark brown hair is kept practical and short.
+Goremdânis Shônyàrdîs is a 35-year-old man who stands 6'1" tall and is of moderate build. He has a long face with defined cheekbones, a broad forehead, and a strong jaw that leads to a firm chin. His almond-shaped dark brown eyes sit beneath arched brows and give him a measured gaze. He has a hawkish nose and curved lips. He has medium-toned skin with a sun-tanned complexion. His dark brown hair is kept practical and short.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Goremdânis Shônyàrdîs came into the world of the musician (lyre) through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Goremdânis Shônyàrdîs is a musician who plays the lyre.
 
-Goremdânis was raised in a small village where music was a key part of life. He learned to play the lyre from his father and now travels from town to town, sharing his music. Goremdânis’s songs are often inspired by nature, and he is known for his ability to evoke vivid imagery through his music. Though he performs mostly for rural audiences, he dreams of becoming a court musician.
+Goremdânis was raised in a small village where music was a large part of life. He learned to play the lyre from his father and now travels from town to town, playing wherever he is welcome. His songs are often drawn from nature, and he is known for the vivid pictures his music calls up. Though he plays mostly for rural audiences, he dreams of becoming a court musician.
 
-Now at 35 years of age, Goremdânis Shônyàrdîs has established himself as a known figure among the musician (lyre)s of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 35 years of age, he is a known figure among the lyre players of Vylaria.
 
 ## Psyche
 
 ### Personality
 
-Lacks refinement for performing in courts, struggles with urban life.
+He lacks the polish courts expect of a performer, and struggles with town life.
 
 ### Motivation
 
-Goremdânis is driven by the desire to master his craft and secure a stable future. The uncertainties of life in musician (lyre) work keep him vigilant and adaptable.
+Goremdânis wants a place as a court musician, and the polish to hold it once he has it.
 
 ### Strengths
 
-Skilled in lyricism and composition, able to connect with rural audiences.
+He is skilled in lyric and composition, and at ease with rural audiences.
 
 ## Social
 
-Goremdânis is affiliated with Minstrels' Guild.
-
-As a Vylarian musician (lyre), Goremdânis occupies a recognized social niche within Vylaria society.
+Goremdânis belongs to the Minstrels' Guild.
 
 ## Companions
 
 ### Patrons
 
-Goremdânis's primary patron is Village elders and travelers who enjoy his performances.. This relationship provides both opportunity and obligation.
+Goremdânis's patrons are the village elders and travelers who enjoy his playing.
 
 ### Enemies
 
@@ -593,12 +591,12 @@ None, though some court musicians see him as a rustic.
 
 ## Plot Hooks
 
-1. **The Musician (Lyre)'s Dilemma** — Goremdânis faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
+1. **The Musician (Lyre)'s Dilemma** — A court sends for Goremdânis at last, on the condition that he leave his village songs behind and play what the court prefers.
 
-2. **Old Grudges** — None, though some court musicians see him as a rustic. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A court musician who calls Goremdânis a rustic has seen to it that his name is struck from a lord's entertainments.
 
-3. **Echoes of the Past** — Something from Goremdânis's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past** — A song Goremdânis learned from his father is sung back to him in a town far from the village, with words he never taught anyone.
 
-4. **Shifting Winds** — Political changes in Vylaria threaten to upend the social order that Goremdânis depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Vylaria closes the courts Goremdânis hoped to play in, and he can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Goremdânis the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — A traveler who heard Goremdânis play offers to bring him before a lord's court, and does not say what he wants for the introduction.

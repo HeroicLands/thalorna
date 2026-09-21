@@ -549,54 +549,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Zórila Dómivar is a 29-year-old woman who stands 5'8" tall and is slender. She has a square face with prominent cheekbones, a wide forehead, and a square jaw that leads to a firm chin. Her large amber eyes sit beneath straight brows, lending her an expressive gaze. A prominent nose and firm lips complete her features. She has olive-tanned skin with a sun-tanned complexion. Her dark brown hair is plaited in a single thick braid. A notable feature is a thin scar across the left cheek.
+Zórila Dómivar is a 29-year-old woman who stands 5'8" tall and is slender. She has a square face with prominent cheekbones, a wide forehead, and a square jaw that leads to a firm chin. Her large amber eyes sit beneath straight brows and give her an expressive gaze. She has a prominent nose and firm lips. She has olive-tanned skin with a sun-tanned complexion. Her dark brown hair is plaited in a single thick braid. She has a thin scar across her left cheek.
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Zórila Dómivar came into the world of the huntsman through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Zórila Dómivar is a hunter.
 
-Zórila is the trusted huntswoman for Lord Varek of Thornhill Manor. Growing up in a hunting family, she excelled in the trade from a young age. Zórila is known for her skill with a bow and her ability to move silently through the woods. She is often invited to hunt with the lord and his guests, and her expertise is highly valued during the hunting season.
+Zórila is the trusted huntswoman for Lord Varek of Thornhill Manor. Growing up in a hunting family, she excelled in the trade from a young age. She is known for her skill with a bow and her ability to move silently through the woods. She is often invited to hunt with the lord and his guests, and she is much relied on during the hunting season.
 
-Now at 29 years of age, Zórila Dómivar has established herself as a known figure among the huntsmans of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 29 years of age, she is a known figure among the hunters of Tarvénia.
 
 ## Psyche
 
 ### Personality
 
-Can be stubborn, often feels the need to prove herself in a male-dominated field.
+She can be stubborn, and often feels the need to prove herself among the men of her trade.
 
 ### Motivation
 
-Zórila is driven by the desire to master her craft and secure a stable future. The uncertainties of life in huntsman work keep her vigilant and adaptable.
+Zórila wants to keep her place at Lord Varek's side in the field, and to be judged by her bow rather than by her sex.
 
 ### Strengths
 
-Expert archer, agile, excellent at navigating woodland terrain.
+She is an expert archer, agile, and excellent at finding her way through woodland.
 
 ## Social
 
-Zórila is affiliated with Lord Varek’s retinue.
-
-As a Tarvénan huntsman, Zórila occupies a recognized social niche within Tarvénia society.
+Zórila belongs to Lord Varek’s retinue.
 
 ## Companions
 
 ### Patrons
 
-Zórila's primary patron is Lord Varek and his family.. This relationship provides both opportunity and obligation.
+Zórila's patrons are Lord Varek and his family.
 
 ### Enemies
 
-Few; respected by her peers but sometimes viewed with skepticism by traditionalists.
+Few; she is respected by her peers but sometimes viewed with skepticism by traditionalists.
 
 ## Plot Hooks
 
-1. **The Huntsman's Dilemma** — Zórila faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
+1. **The Huntsman's Dilemma** — One of Lord Varek's guests shoots a beast the lord had reserved for himself, and Zórila is the only one who saw who loosed the arrow.
 
-2. **Old Grudges** — Few; respected by her peers but sometimes viewed with skepticism by traditionalists. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A traditionalist among the manor's huntsmen who has never accepted a woman in the post is working to have her replaced.
 
-3. **Echoes of the Past** — Something from Zórila's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** — A kinsman from the hunting family Zórila grew up in comes to Thornhill Manor asking for a place in the lord's retinue on the strength of her name.
 
-4. **Shifting Winds** — Political changes in Tarvénia threaten to upend the social order that Zórila depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Tarvénia threatens Lord Varek's standing, and with it the place Zórila holds at Thornhill Manor; she can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Zórila the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — A greater lord who hunted as Lord Varek's guest offers Zórila a post in his own household, and leaving Thornhill Manor would cost her the trust she has built there.

@@ -551,41 +551,39 @@ sohl:
 
 # Appearance {#appearance}
 
-Ívelyn Zálreth is a 29-year-old woman who stands 5'10" tall and is slender. She has a heart-shaped face with angular cheekbones, a broad forehead, and a narrow jaw that leads to a firm chin. Her round gray eyes sit beneath expressive brows, lending her a candid gaze. A delicate nose and thin lips complete her features. She has fair skin with a fair complexion. Her gray hair is twisted into an elaborate arrangement.
+Ívelyn Zálreth is a 29-year-old woman who stands 5'10" tall and is slender. She has a heart-shaped face with angular cheekbones, a broad forehead, and a narrow jaw that leads to a firm chin. Her round gray eyes sit beneath expressive brows and give her a candid gaze. She has a delicate nose and thin lips. She has fair skin with a fair complexion. Her gray hair is twisted into an elaborate arrangement.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Ívelyn Zálreth came into the world of the woodcrafter through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Ívelyn Zálreth is a woodcrafter.
 
-Ívelyn grew up near a dense forest and spent her childhood learning to carve simple wooden toys. As she grew older, she expanded her skills to create larger and more intricate pieces, including furniture and decorative carvings. Ívelyn's work is known for its natural motifs, often inspired by the local flora and fauna. She enjoys experimenting with different wood types to find the best material for each piece.
+Ívelyn grew up near a dense forest and spent her childhood learning to carve simple wooden toys. As she grew older she took on larger and more detailed pieces, including furniture and decorative carvings. Her work is known for its natural motifs, often drawn from the local flora and fauna. She enjoys trying different woods to find the best material for each piece.
 
-Now at 29 years of age, Ívelyn Zálreth has established herself as a known figure among the woodcrafters of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 29 years of age, she is a known figure among the woodcrafters of Élavendre.
 
 ## Psyche
 
 ### Personality
 
-Prone to perfectionism, can take longer than expected to complete projects.
+She is prone to perfectionism, and can take longer than expected to finish a piece.
 
 ### Motivation
 
-Ívelyn is driven by the desire to master her craft and secure a stable future. The uncertainties of life in woodcrafter work keep her vigilant and adaptable.
+Ívelyn wants each piece to be the best the wood allows, and her workshop to stay her own.
 
 ### Strengths
 
-Creative, skilled in working with different types of wood, detailed carving techniques.
+She is creative, skilled in working with many kinds of wood, and exact in her carving.
 
 ## Social
 
-Ívelyn is affiliated with None; prefers to work alone in her small workshop..
-
-As a Élavendri woodcrafter, Ívelyn occupies a recognized social niche within Élavendre society.
+Ívelyn belongs to no guild and prefers to work alone in her small workshop.
 
 ## Companions
 
 ### Patrons
 
-Ívelyn's primary patron is Local artisans and travelers who admire her unique style.. This relationship provides both opportunity and obligation.
+Ívelyn's patrons are the local artisans and travelers who admire her style.
 
 ### Enemies
 
@@ -593,12 +591,12 @@ Few, though some other woodcrafters see her as competition.
 
 ## Plot Hooks
 
-1. **The Woodcrafter's Dilemma** — Ívelyn faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **The Woodcrafter's Dilemma** — A traveler orders a piece from Ívelyn that must be done by a date she cannot meet without finishing it worse than she would, and the price would keep the workshop for a year.
 
-2. **Old Grudges** — Few, though some other woodcrafters see her as competition. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A woodcrafter who sees Ívelyn as competition has begun copying her natural motifs and selling the copies as hers.
 
-3. **Echoes of the Past** — Something from Ívelyn's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** — One of the toys Ívelyn carved as a child turns up in a traveler's pack, and the traveler wants to know who made it.
 
-4. **Shifting Winds** — Political changes in Élavendre threaten to upend the social order that Ívelyn depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Élavendre threatens the travelers' trade Ívelyn's workshop depends on, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Ívelyn the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — A guild of woodcrafters offers Ívelyn membership and a larger shop, on condition that she stop working alone.

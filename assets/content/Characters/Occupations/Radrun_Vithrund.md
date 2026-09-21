@@ -550,54 +550,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Rádrún Vithrúnd is a 22-year-old woman who stands 5'9" tall and is slender. She has a long face with angular cheekbones, a lined forehead, and a strong jaw that leads to a broad chin. Her almond-shaped blue eyes sit beneath heavy brows, lending her a measured gaze. A straight nose and expressive lips complete her features. She has light skin with a weathered complexion. Her brown hair is loose and wavy.
+Rádrún Vithrúnd is a 22-year-old woman who stands 5'9" tall and is slender. She has a long face with angular cheekbones, a lined forehead, and a strong jaw that leads to a broad chin. Her almond-shaped blue eyes sit beneath heavy brows and give her a measured gaze. She has a straight nose and expressive lips. She has light skin with a weathered complexion. Her brown hair is loose and wavy.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Rádrún Vithrúnd came into the world of the prostitute through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Rádrún Vithrúnd is a prostitute.
 
-Rádrún also works in the same brothel as Nyssa, secretly serving the Gray Tide. While she entertains clients, she discreetly acts as a lookout and messenger for the organization. Rádrún is known for her ability to blend into the background and overhear valuable information. Despite her involvement with the Tide, she remains conflicted about her choices and the risks involved in her double life.
+Rádrún works in the same brothel as Nyssa, and secretly serves the Gray Tide. While she entertains clients, she acts as a lookout and messenger for the organization. She is known for her ability to blend into the background and overhear what is worth knowing. For all her involvement with the Tide, she remains conflicted about her choices and the risks of her double life.
 
-Now at 22 years of age, Rádrún Vithrúnd has established herself as a known figure among the prostitutes of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 22 years of age, she is a known figure among the prostitutes of Vrystwald.
 
 ## Psyche
 
 ### Personality
 
-Can be overly cautious, struggles with guilt over her involvement with the Tide.
+She can be overly cautious, and struggles with guilt over her involvement with the Tide.
 
 ### Motivation
 
-Rádrún is driven by the desire to master her craft and secure a stable future. The uncertainties of life in prostitute work keep her vigilant and adaptable.
+Rádrún wants to stay safe in a double life, and to be able to live with what the Tide asks of her.
 
 ### Strengths
 
-Observant, skilled in stealth, adept at eavesdropping.
+She is observant, skilled in stealth, and adept at eavesdropping.
 
 ## Social
 
-Rádrún is affiliated with the Gray Tide, a maritime crime network operating in Vrystwald coastal areas.
-
-As a Varokhi prostitute, Rádrún occupies a recognized social niche within Vrystwald society.
+Rádrún belongs to the Gray Tide, a maritime crime network operating in the coastal areas of Vrystwald.
 
 ## Companions
 
 ### Patrons
 
-Rádrún's primary patron is Wealthy clients seeking companionship and discretion.. This relationship provides both opportunity and obligation.
+Rádrún's patrons are the wealthy clients who pay for her company and discretion.
 
 ### Enemies
 
-Few; well-liked in her profession, but some rival Tide members may challenge her loyalty.
+Few; she is well liked in her trade, but some rival Tide members may challenge her loyalty.
 
 ## Plot Hooks
 
-1. **The Prostitute's Dilemma** — Rádrún faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vrystwald.
+1. **The Prostitute's Dilemma** — A client Rádrún has come to trust says something in her hearing that the Gray Tide would pay for, and she can carry it to the Tide or keep it.
 
-2. **Old Grudges** — Few; well-liked in her profession, but some rival guild members may challenge her loyalty. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A rival in the Tide who doubts Rádrún's loyalty has set a test for her that she is not meant to know is one.
 
-3. **Echoes of the Past** — Something from Rádrún's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** — A message Rádrún carried for the Tide in her first months is traced back to the brothel, and to her.
 
-4. **Shifting Winds** — Political changes in Vrystwald threaten to upend the social order that Rádrún depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Vrystwald threatens the Gray Tide's hold on the coast, and Rádrún can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Rádrún the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — The Tide offers Rádrún a place beyond the brothel, and a heavier share of the work she already doubts.

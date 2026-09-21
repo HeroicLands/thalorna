@@ -554,54 +554,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Ázîna Râfîrôs is a 33-year-old woman who stands 5'11" tall and is slender. She has a square face with defined cheekbones, a broad forehead, and an angular jaw that leads to a square chin. Her wide-set hazel eyes sit beneath prominent brows, lending her an open gaze. A straight nose and expressive lips complete her features. She has olive skin with a ruddy complexion. Her dark brown hair is adorned with simple pins.
+Ázîna Râfîrôs is a 33-year-old woman who stands 5'11" tall and is slender. She has a square face with defined cheekbones, a broad forehead, and an angular jaw that leads to a square chin. Her wide-set hazel eyes sit beneath prominent brows and give her an open gaze. She has a straight nose and expressive lips. She has olive skin with a ruddy complexion. Her dark brown hair is adorned with simple pins.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Ázîna Râfîrôs came into the world of the embalmer through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Ázîna Râfîrôs is an embalmer.
 
-Ázîna found her calling as an embalmer after losing her brother, taking comfort in preparing his body for burial. She sees the profession as a way to help families cope with loss and ensure that their loved ones are treated with dignity. Ázîna's gentle demeanor makes her well-suited to the work, though it sometimes takes a toll on her emotionally. She often incorporates rituals and herbs that are believed to protect the deceased's spirit.
+Ázîna found her calling as an embalmer after losing her brother, taking comfort in preparing his body for burial. She sees the work as a way to help families bear their loss and to see that their dead are treated with dignity. Her gentle manner suits her to the work, though it sometimes takes a toll on her. She often uses rituals and herbs that are believed to protect the spirit of the dead.
 
-Now at 33 years of age, Ázîna Râfîrôs has established herself as a known figure among the embalmers of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 33 years of age, she is a known figure among the embalmers of Heliónis.
 
 ## Psyche
 
 ### Personality
 
-Emotionally affected by the work, sometimes struggles to detach.
+She is affected by the work, and sometimes struggles to keep it at a distance.
 
 ### Motivation
 
-Ázîna is driven by the desire to master her craft and secure a stable future. The uncertainties of life in embalmer work keep her vigilant and adaptable.
+Ázîna wants the families who come to her to find the comfort she found in preparing her brother for burial.
 
 ### Strengths
 
-Gentle, compassionate, skilled in funerary rites and herbal preservation.
+She is gentle and compassionate, and skilled in funerary rites and herbal preservation.
 
 ## Social
 
-Ázîna is affiliated with Morticians' Guild.
-
-As a Helionite embalmer, Ázîna occupies a recognized social niche within Heliónis society.
+Ázîna belongs to the Morticians' Guild.
 
 ## Companions
 
 ### Patrons
 
-Ázîna's primary patron is Families seeking a compassionate embalmer to handle their loved one's final rites.. This relationship provides both opportunity and obligation.
+Ázîna's patrons are families seeking a compassionate embalmer to handle their loved one's final rites.
 
 ### Enemies
 
-None, but some traditionalists frown upon her use of ritualistic practices.
+None, but some traditionalists frown upon her use of ritual.
 
 ## Plot Hooks
 
-1. **The Embalmer's Dilemma** — Ázîna faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
+1. **The Embalmer's Dilemma** — A family forbids the rites Ázîna believes protect the spirit of their dead, and she can do the work their way or not at all.
 
-2. **Old Grudges** — None, but some traditionalists frown upon her use of ritualistic practices. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A traditionalist in the Morticians' Guild has brought Ázîna's use of ritual before the guild as a fault.
 
-3. **Echoes of the Past** — Something from Ázîna's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** — Questions are raised about how Ázîna's brother died, and she is the one who prepared his body.
 
-4. **Shifting Winds** — Political changes in Heliónis threaten to upend the social order that Ázîna depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Heliónis threatens the guild and the customs Ázîna's trade rests on, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Ázîna the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — A wealthy family offers Ázîna the care of all its dead, on condition that her rituals and herbs are kept out of it.
