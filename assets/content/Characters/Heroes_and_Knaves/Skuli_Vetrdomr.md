@@ -603,7 +603,7 @@ Skúli stands 6'0" tall with a medium build. He has light ruddy skin, gray hair,
 
 ### Early Years and Training
 
-Skúli was born into craft and hardship, the third son of a widowed tentmaker in the Kingdom of Nordheim. His father, Vetrarr, had learned the trade in the service of the old jarl's warband, and passed the knowledge to his children with the same rigor as a drill sergeant teaches battle formations. Where others saw mere fabric and stitching, Skúli learned to see the shelter that stands between a warrior and death in the mountain passes. His apprenticeship was merciless—his hands scarred and callused long before his sixteenth year, his eyes trained to spot the tiniest flaw that might admit wind or water.
+Skúli was born into craft and hardship, the third son of a widowed tentmaker in the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]. His father, Vetrarr, had learned the trade in the service of the old jarl's warband, and passed the knowledge to his children with the same rigor as a drill sergeant teaches battle formations. Where others saw mere fabric and stitching, Skúli learned to see the shelter that stands between a warrior and death in the mountain passes. His apprenticeship was merciless—his hands scarred and callused long before his sixteenth year, his eyes trained to spot the tiniest flaw that might admit wind or water.
 
 ### The Craftsman's Rise
 
@@ -619,7 +619,7 @@ Now, as the fifth decade of his life nears its close, Skúli faces a changing wo
 
 Skúli is a man of few words and profound convictions. He speaks with the authority of someone who has proven himself through decades of uncompromising labor. There is no bombast in him, no need for flattery or recognition—his tents speak louder than any boast. He views the younger generation with a mixture of paternalism and disdain, believing that shortcuts and expediency have no place in honest work. Yet beneath his gruff exterior lies a steadfast loyalty to those he considers worthy; customers who return year after year find him capable of surprising generosity, and he has been known to repair defective work at no charge if the fault was genuinely his own.
 
-He is deeply religious, invoking Súrtr before major projects, believing the fire-god guides his hands through the hottest work—the application of fireproofing compounds and the sealing of seams. His workshop always contains an altar of stones, and he makes offerings whenever a commission is completed successfully.
+He is deeply religious, invoking [[lore-surtrdty|Súrtr]] before major projects, believing the fire-god guides his hands through the hottest work—the application of fireproofing compounds and the sealing of seams. His workshop always contains an altar of stones, and he makes offerings whenever a commission is completed successfully.
 
 ### Motivation
 

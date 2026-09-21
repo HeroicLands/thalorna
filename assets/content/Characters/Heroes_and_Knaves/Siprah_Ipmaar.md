@@ -604,7 +604,7 @@ Siprah was born into the Ipmaâr family, a minor merchant household of [[affilia
 
 Apprenticed at thirteen to **Master Sokhoth**, then the Empire's foremost locksmith, Siprah spent twelve years in intensive study of his craft. Sokhoth was an exacting teacher whose patience was legendary but whose standards were impossibly high. Under his tutelage, Siprah learned that locks were not simple mechanical devices but expressions of philosophy—they were about trust, about creating a visible and tactile representation of the boundary between the protected and the vulnerable. When **Sokhoth** retired at Siprah's twenty-fifth year, he personally recommended Siprah as his successor to the guild, an honor rarely granted.
 
-Now, for fifteen years, Siprah has maintained the highest standards of his profession. He has designed locks for imperial treasuries, noble estates, merchant houses, and temples. His work is known for its elegance, security, and longevity. He has never married, living alone in chambers above his workshop, with no interest in domestic entanglements. His sole companions are his craft, his faith in Hórús the voyager, and the small circle of guild members who recognize his genius.
+Now, for fifteen years, Siprah has maintained the highest standards of his profession. He has designed locks for imperial treasuries, noble estates, merchant houses, and temples. His work is known for its elegance, security, and longevity. He has never married, living alone in chambers above his workshop, with no interest in domestic entanglements. His sole companions are his craft, his faith in [[lore-horusdty|Hórús]] the voyager, and the small circle of guild members who recognize his genius.
 
 ## Psyche
 

@@ -670,7 +670,7 @@ Shebas is fundamentally driven by a desire to ensure that no one suffers as her 
 
 - **The City's Poor and Laboring Classes**: Shebas's primary patrons, though they rarely pay in conventional coin. They repay her kindness with loyalty, gratitude, and protection. If anyone threatened Shebas, they would respond with fierce devotion.
 
-- **The Temple of Sét**: Though Shebas worships **Sét**, the god of storms, the local temple occasionally sends patients to her and provides her with access to their herbalist's library and resources.
+- **The Temple of [[lore-setdty|Sét]]**: Though Shebas worships **Sét**, the god of storms, the local temple occasionally sends patients to her and provides her with access to their herbalist's library and resources.
 
 - **Wealthy Merchants Seeking Discretion**: A few affluent clients seek Shebas specifically because they trust her discretion and know she will never betray their confidences. These clients pay well and help sustain her practice.
 

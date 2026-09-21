@@ -608,11 +608,11 @@ Sâbir stands 6'1" tall with a medium build. He has deep ebony skin, black hair,
 
 # Dossier {#dossier}
 
-Sâbir Âjira was born in the industrial heart of the Kalihara Confederation, in a district where the sky itself seems perpetually gray with woodsmoke. His father was a charcoaler of modest reputation, and Sâbir showed early aptitude for understanding fire's temperament and the subtle sciences of carbonization. Where others saw monotonous black dust, Sâbir perceived infinite variation in quality, purity, and character—each batch of charcoal an unique creation born from the controlled transformation of wood into something fundamentally different.
+Sâbir Âjira was born in the industrial heart of the [[affiliation-kaliharacnfd|Kalihara Confederation]], in a district where the sky itself seems perpetually gray with woodsmoke. His father was a charcoaler of modest reputation, and Sâbir showed early aptitude for understanding fire's temperament and the subtle sciences of carbonization. Where others saw monotonous black dust, Sâbir perceived infinite variation in quality, purity, and character—each batch of charcoal an unique creation born from the controlled transformation of wood into something fundamentally different.
 
 By his early twenties, he had begun experimenting, moving beyond his father's traditional methods to understand how different wood types, various kiln designs, and careful temperature management could yield superior product. These innovations earned him guild recognition and the loyalty of the Confederation's finest blacksmiths, who discovered that charcoal from Sâbir's kilns burned hotter, purer, and more controllably than standard product. He established his own workshop fifteen years ago and has since become the most sought-after charcoaler in the region, though his perfectionist methods mean that demand consistently outpaces his supply.
 
-Sâbir's devotion to Vúlcan, the fire-aspect deity of the Aurèldían pantheon, feels less like religious duty and more like natural extension of his work. He sees in his carefully tended flames a sacred process of transformation, a small echo of the god's cosmic power.
+Sâbir's devotion to [[lore-vulcandty|Vúlcan]], the fire-aspect deity of the [[affiliation-arldnpnthn|Aurèldián Pantheon]], feels less like religious duty and more like natural extension of his work. He sees in his carefully tended flames a sacred process of transformation, a small echo of the god's cosmic power.
 
 ## Psyche
 

@@ -574,7 +574,7 @@ Sélvara Válskyr is a striking woman — tall, dark-skinned, and built with the
 
 ### Origin
 
-Sélvara was born in a coastal village in northern Tarvénia, the daughter of fishermen. Life was hard but stable until she was fourteen, when Vylarian imperial forces raided her village searching for Tarvénan rebels. Eshârum Tarûzî — then a young rebel scout — was hiding in her father's boathouse. When Sélvara went to warn him, an imperial soldier followed. What happened next forged a bond between them that neither war nor the years since have broken. She killed the soldier with a gutting knife. She was fourteen years old.
+Sélvara was born in a coastal village in northern [[place-tarvenirgn|Tarvénia]], the daughter of fishermen. Life was hard but stable until she was fourteen, when Vylarian imperial forces raided her village searching for Tarvénan rebels. Eshârum Tarûzî — then a young rebel scout — was hiding in her father's boathouse. When Sélvara went to warn him, an imperial soldier followed. What happened next forged a bond between them that neither war nor the years since have broken. She killed the soldier with a gutting knife. She was fourteen years old.
 
 ### The War
 
@@ -586,7 +586,7 @@ When the merchant guilds seized power and the revolution's ideals collapsed, Sé
 
 ### Marriage
 
-Three years ago, Sélvara married Féthar Dhárel, the Tamzîr's pilot, in a dockside ceremony in Provènzia. The match surprised everyone except Shâ, who had seen it coming for years. Féthar's irreverent humor and warmth complement Sélvara's reserve, and the marriage is a genuinely happy one — a rare point of softness in her otherwise hard-edged life.
+Three years ago, Sélvara married [[being-fethardhrl|Féthar Dhárel]], the Tamzîr's pilot, in a dockside ceremony in [[place-provenzrgn|Provènzia]]. The match surprised everyone except Shâ, who had seen it coming for years. Féthar's irreverent humor and warmth complement Sélvara's reserve, and the marriage is a genuinely happy one — a rare point of softness in her otherwise hard-edged life.
 
 ## Psyche
 
@@ -614,7 +614,7 @@ None. Sélvara answers to Shâ and to herself.
 
 ### Enemies
 
-The same enemies as the Tamzîr's crew: Haradian guild enforcers, Vylarian imperial agents, and — increasingly — agents of the Ordo Arcanis.
+The same enemies as the Tamzîr's crew: Haradian guild enforcers, Vylarian imperial agents, and — increasingly — agents of the [[affiliation-ordoarcanis|Ordo Arcanis]].
 
 ### Affiliations
 

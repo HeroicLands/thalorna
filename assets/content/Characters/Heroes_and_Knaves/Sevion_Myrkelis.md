@@ -628,7 +628,7 @@ Sevion stands 5'10" tall with a light build. He has pale skin, dark hair, and bl
 
 ### Early Life and Family Background
 
-Sevion Myrkelis was born into a modest but respected family of traders in a quiet district of a city known for its winding streets and unassuming shops. The **Myrkelis family** has long been involved in the procurement and trade of rare herbs, minerals, and arcane components from across Nordheim. Sevion’s father, \*\*Daron Myrkelis, was a well-traveled merchant who built relationships with scholars, explorers, and traders, making the family’s shop a reliable source for alchemical supplies.
+Sevion Myrkelis was born into a modest but respected family of traders in a quiet district of a city known for its winding streets and unassuming shops. The **Myrkelis family** has long been involved in the procurement and trade of rare herbs, minerals, and arcane components from across [[affiliation-kngdmnrdhm|Nordheim]]. Sevion’s father, \*\*Daron Myrkelis, was a well-traveled merchant who built relationships with scholars, explorers, and traders, making the family’s shop a reliable source for alchemical supplies.
 
 From a young age, Sevion showed a keen interest in the curiosities that passed through his family’s shop. Rather than focusing on commerce, he was more intrigued by the possibilities of transforming raw materials into substances of power. His fascination with alchemy grew when a traveling alchemist visited their shop and demonstrated the transmutation of common minerals into reactive compounds. This moment sparked Sevion’s lifelong passion for alchemical experimentation.
 
@@ -650,7 +650,7 @@ Aside from his personal pursuit of the Visionary Elixir, Sevion’s more immedia
 
 Sevion’s ultimate goal is to unlock the secrets of the **Visionary Elixir**, believing that its power could lead to incredible breakthroughs in alchemical science. He imagines the elixir could guide individuals through their personal struggles by granting them foresight, offering them a glimpse of their potential futures. However, his fascination with the elixir is tempered by a lingering doubt—will the visions it provides truly benefit the individual, or will they become a curse that haunts those who seek to know too much?
 
-Sevion must navigate the perils of discovery, rivalry, and personal ambition while maintaining his relatively humble place in the world of Calypsa’s arcane and political circles.
+Sevion must navigate the perils of discovery, rivalry, and personal ambition while maintaining his relatively humble place in the world of [[place-calypsacity|Calypsa]]’s arcane and political circles.
 
 ### Skills and Abilities
 
