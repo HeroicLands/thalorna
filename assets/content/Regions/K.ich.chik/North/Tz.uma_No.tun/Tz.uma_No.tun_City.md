@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - nrthrnkchchk
+    - tzumanotunrgn
   population: null
 name:
   full: Tz'uma No'tun
