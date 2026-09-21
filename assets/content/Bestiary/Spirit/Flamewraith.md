@@ -613,7 +613,7 @@ sohl:
 
 ![[flmwrth|Flamewraith]]{float: top-left}
 
-Before you materializes a dancer of flame—a form that is less body than burning intention. The air itself warps and shimmers, bending light into distorted waves; you feel the heat on your skin from several paces away, like standing too close to a furnace. Where it moves, embers trail and scatter, sizzling against stone and wood. The creature's limbs form and dissolve like water running upward, and where they should be a face, there is only a churning vortex of orange and white fire that seems to regard you with terrible intelligence.
+Before you materializes a dancer of flame—a form more burning intention than body. The air itself warps and shimmers, bending light into distorted waves; you feel the heat on your skin from several paces away, like standing too close to a furnace. Where it moves, embers trail and scatter, sizzling against stone and wood. The creature's limbs form and dissolve like water running upward, and where they should be a face, there is only a churning vortex of orange and white fire that seems to regard you with terrible intelligence.
 
 # Dossier {#dossier}
 
@@ -635,7 +635,7 @@ Flamewraiths fight without fear of pain or death, knowing they can reform from t
 
 ### Incendiary Touch
 
-The creature makes contact with flesh or fabric and the temperature spikes instantly to agony. This is not merely heat—it is the inverse of freezing, a burning that penetrates through armor and cloth alike, searing muscle beneath. On a successful strike, the victim suffers severe thermal burns and ongoing damage from internal heat.
+The creature makes contact with flesh or fabric and the temperature spikes instantly to agony. This is heat of a different order—the inverse of freezing, a burning that penetrates through armor and cloth alike, searing muscle beneath. The victim suffers severe burns and lingering damage from internal heat.
 
 ### Fireball
 
@@ -653,11 +653,11 @@ The Flamewraith's true existence is tied to a single object—usually a cursed a
 
 ### Heat Aura
 
-Simply existing near a Flamewraith is dangerous. The ambient temperature rises markedly within a thirty-foot radius, and exposed skin burns over prolonged exposure. Flammable materials spontaneously ignite if too close. Metal weapons become too hot to hold comfortably.
+Simply existing near a Flamewraith is dangerous. The ambient temperature rises markedly for thirty feet around it, and exposed skin burns over prolonged exposure. Flammable materials spontaneously ignite if too close. Metal weapons become too hot to hold comfortably.
 
 ## Additional Information
 
-Flamewraiths are profoundly weakened by cold and water. A sufficiently large body of water can immobilize one, and sustained cold-based magic may reduce its power significantly. They are drawn instinctively to sources of flame—they will abandon a hunt if they sense a large fire nearby. This can be exploited by clever opponents. Their binding objects vary; some are grotesque (a charred bone), others beautiful (a gemstone that never cools). The object must be destroyed through normal means—typically, it requires great force or the right magical technique. A Flamewraith destroyed permanently leaves behind only ash and the binding object itself, which may be worth salvaging depending on its original nature.
+Flamewraiths are badly weakened by cold and water. A sufficiently large body of water can immobilize one, and sustained cold-based magic may reduce its power significantly. They are drawn instinctively to sources of flame—they will abandon a hunt if they sense a large fire nearby. This can be exploited by clever opponents. Their binding objects vary; some are grotesque (a charred bone), others beautiful (a gemstone that never cools). The object must be destroyed through normal means—typically, it requires great force or the right magical technique. A Flamewraith destroyed permanently leaves behind only ash and the binding object itself, which may be worth salvaging depending on its original nature.
 
 ## Attributes
 

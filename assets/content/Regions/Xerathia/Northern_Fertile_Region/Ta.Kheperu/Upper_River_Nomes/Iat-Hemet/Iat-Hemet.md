@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - iathemetnome
   population: 6000
 name:
   full: Iat-Hemet

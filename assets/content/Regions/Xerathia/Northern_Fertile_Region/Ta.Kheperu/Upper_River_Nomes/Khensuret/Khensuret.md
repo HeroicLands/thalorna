@@ -11,7 +11,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - khensuretnome
   population: 90000
 name:
   full: Khensuret

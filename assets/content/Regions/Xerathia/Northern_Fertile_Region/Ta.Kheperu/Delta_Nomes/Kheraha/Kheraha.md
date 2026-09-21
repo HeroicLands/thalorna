@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - kherahanome
   population: 26000
 name:
   full: Kheraha

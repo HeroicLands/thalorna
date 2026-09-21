@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - perhutnome
   population: 18000
 name:
   full: Per-Hût

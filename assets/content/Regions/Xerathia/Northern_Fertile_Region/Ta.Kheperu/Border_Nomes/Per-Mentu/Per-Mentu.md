@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - permentunome
   population: 13000
 name:
   full: Per-Mentu

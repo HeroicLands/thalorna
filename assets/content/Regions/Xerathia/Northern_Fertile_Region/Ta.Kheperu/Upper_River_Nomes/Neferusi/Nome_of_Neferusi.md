@@ -95,7 +95,7 @@ data:
     - kheperlng
   seat: neferusi
   domains:
-    - takheperurgn
+    - neferusinome
   population: 500000
   economy:
     - affiliation-perhati
@@ -112,26 +112,11 @@ packFolder: upperrivernomes
 
 ## Overview
 
-Neferusi is one of the upper-river nomes of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]: stone-quarries and master masons; the temple-workshops that carve the monuments. Like every nome it is held by a hereditary [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Per-Aá at a distance that varies with the strength of the throne. Its patron is [[affiliation-ptah|Ptā'h]], and the nome's religious life runs through that cult's temples and their estates.
+Neferusi is one of the upper-river nomes of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]: stone-quarries and master masons; the temple-workshops that carve the monuments. Like every nome it is held by a hereditary [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Per-Aá at a distance that varies with the strength of the throne. Its patron is [[affiliation-ptah|Ptā'h]], and the nome's religious life runs through that cult's temples and their estates. The land it holds is [[place-neferusinome|Neferusi Nome]].
 
 ## Character
 
-Stone-quarries and master masons; the temple-workshops that carve the monuments. Its seat is [[place-neferusi|Neferusi]], where the Haty'a keeps his court and the nome's chief temple of Ptā'h stands. Beyond the capital the nome is the ordinary Kheperi landscape of villages, estates and temple lands, worked by farmers who owe a share of the harvest and labour on the canals, and lettered by the scribes who are the one reliable ladder out of the fields.
-
-## Economy
-
-Like every Kheperi nome it runs on the flood, the harvest and the render — grain to the granaries, labour to the canals and the flood-season works, and a share of everything to the temples and the crown. What it contributes to the empire beyond that is what its character names: stone-quarries and master masons; the temple-workshops that carve the monuments.
-
-## Notable Features
-
-- [[place-neferusi|Neferusi]] — the nome capital and the Haty'a's seat
-- The chief temple of [[affiliation-ptah|Ptā'h]] and its estates
-- Stone-quarries and master masons; the temple-workshops that carve the monuments
-
-## Settlements
-
-- **[[place-neferusi|Neferusi]]** (~38,000) — the nome capital and the seat of the Haty'a.
-- **The villages and estate-towns:** the ordinary settlements of the nome, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+Its seat is [[place-neferusi|Neferusi]], where the Haty'a keeps his court and the nome's chief temple of Ptā'h stands.
 
 ## Commerce and Currency
 
@@ -144,3 +129,4 @@ Neferusi uses the [[lore-tkhprcrncy|Ta'Kheperu currency system]], with the local
 - [[place-neferusi|Neferusi]] — Nome capital
 - [[affiliation-ptah|Ptā'h]] — Patron cult
 - [[affiliation-perhati|Pér-Háti]] — Temple-treasuries
+- [[place-neferusinome|Neferusi Nome]] — The land the nome holds

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - behdetresunome
   population: 11000
 name:
   full: Behdet

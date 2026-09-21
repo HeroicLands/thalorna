@@ -557,54 +557,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Sigríthr Hrafnsvald is a 35-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with defined cheekbones, a prominent forehead, and a strong jaw that leads to a cleft chin. Her deep-set gray eyes sit beneath prominent brows, lending her a watchful gaze. A broad nose and wide lips complete her features. She has light skin with a fair complexion. Her black hair is flowing past her shoulders.
+Sigríthr Hrafnsvald is a 35-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with defined cheekbones, a prominent forehead, and a strong jaw that leads to a cleft chin. Her deep-set gray eyes sit beneath prominent brows and give her a watchful gaze. She has a broad nose and wide lips. She has light skin with a fair complexion. Her black hair flows past her shoulders.
 
 # Dossier {#dossier}
 
-Born in the [[affiliation-kngdmnrdhm|Nordheim]] region to a freeman family of Nordheimn heritage, Sigríthr Hrafnsvald came into the world of the shipwright through a combination of circumstance and aptitude.
+Born in the [[affiliation-kngdmnrdhm|Nordheim]] region to a freeman family of Nordheimn heritage, Sigríthr Hrafnsvald is a shipwright.
 
-Sigríthr grew up in a family of fishermen, but she was more interested in building boats than sailing on them. She apprenticed with a renowned shipwright and quickly earned a reputation for designing fast and sturdy vessels. Sigríthr has a passion for innovation and often experiments with new techniques, making her a standout in a male-dominated field.
+Sigríthr grew up in a family of fishermen, but she was more interested in building boats than sailing on them. She apprenticed with a well-known shipwright and quickly earned a reputation for designing fast and sturdy vessels. She is forever trying new methods, which sets her apart in a trade with few women in it.
 
-Now at 35 years of age, Sigríthr Hrafnsvald has established herself as a known figure among the shipwrights of Nordheim. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 35 years of age, she is a known figure among the shipwrights of Nordheim.
 
 ## Psyche
 
 ### Personality
 
-Sometimes prioritizes new techniques over traditional methods, which can cause friction with more conservative clients.
+She sometimes puts new methods before the old ones, which causes friction with her more conservative clients.
 
 ### Motivation
 
-Sigríthr is driven by the desire to master her craft and secure a stable future. The uncertainties of life in shipwright work keep her vigilant and adaptable.
+Sigríthr wants to build ships faster and sturdier than any the old methods produce, and to win over the clients who doubt them.
 
 ### Strengths
 
-Creative and skilled in innovative ship designs, attentive to detail.
+She is inventive, skilled in ship design, and attentive to detail.
 
 ## Social
 
-Sigríthr is affiliated with Coastal Shipwrights' Guild.
-
-As a Nordheimn shipwright, Sigríthr occupies a recognized social niche within Nordheim society.
+Sigríthr belongs to the Coastal Shipwrights' Guild.
 
 ## Companions
 
 ### Patrons
 
-Sigríthr's primary patron is Adventurers and traders who seek custom-built ships.. This relationship provides both opportunity and obligation.
+Sigríthr's patrons are the adventurers and traders who come to her for ships built to order.
 
 ### Enemies
 
-Traditional shipwrights who disapprove of her unconventional designs.
+Traditional shipwrights disapprove of her unconventional designs.
 
 ## Plot Hooks
 
-1. **The Shipwright's Dilemma** — Sigríthr faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Nordheim.
+1. **The Shipwright's Dilemma** — A trader wants a ship built to Sigríthr's newest design, and the guild's masters have warned her against it.
 
-2. **Old Grudges** — Traditional shipwrights who disapprove of her unconventional designs. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A traditional shipwright blames one of Sigríthr's designs for a wreck, and the guild is listening.
 
-3. **Echoes of the Past** — Something from Sigríthr's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** — A boat Sigríthr built for her family of fishermen in her apprentice years comes back to her yard broken, with her early work plain to see.
 
-4. **Shifting Winds** — Political changes in Nordheim threaten to upend the social order that Sigríthr depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Nordheim threatens the trade Sigríthr depends upon, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Sigríthr the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — Sigríthr is offered a commission larger than any she has built, and its price is not named up front.

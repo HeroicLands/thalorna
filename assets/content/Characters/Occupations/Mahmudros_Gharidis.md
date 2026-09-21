@@ -554,54 +554,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Maḥmûdrós Gharîdís is a 54-year-old man who stands 6'0" tall and is broad and solidly built. He has a long face with broad cheekbones, a wide forehead, and a sharp jaw that leads to a firm chin. His wide-set dark brown eyes sit beneath arched brows, lending him an open gaze. An aquiline nose and expressive lips complete his features. He has medium-toned skin with a smooth complexion. His graying brown hair is tied in a low tail. A notable feature is crow's feet at the corners of sharp eyes.
+Maḥmûdrós Gharîdís is a 54-year-old man who stands 6'0" tall and is broad and solidly built. He has a long face with broad cheekbones, a wide forehead, and a sharp jaw that leads to a firm chin. His wide-set dark brown eyes sit beneath arched brows and give him an open gaze. He has an aquiline nose and expressive lips. He has medium-toned skin with a smooth complexion. His graying brown hair is tied in a low tail. He has crow's feet at the corners of his sharp eyes.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Maḥmûdrós Gharîdís came into the world of the hideworker through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Maḥmûdrós Gharîdís is a hideworker.
 
-Maḥmûdrós has been a hideworker for decades, known for his expertise in working with tougher hides from larger animals. He primarily crafts durable leather goods, such as armor and heavy bags. His experience makes him a sought-after craftsman, though his no-nonsense demeanor can be intimidating. Maḥmûdrós takes pride in his work and has a wealth of knowledge about different tanning methods.
+Maḥmûdrós has been a hideworker for decades and is known for his skill with the tougher hides of larger animals. He mostly makes durable leather goods, such as armor and heavy bags. His experience keeps him in demand, though his blunt manner can be intimidating. He takes pride in his work and knows a great deal about the different methods of tanning.
 
-Now at 54 years of age, Maḥmûdrós Gharîdís has established himself as a known figure among the hideworkers of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 54 years of age, he is a known figure among the hideworkers of Heliónis.
 
 ## Psyche
 
 ### Personality
 
-Set in his ways, struggles with new techniques or trends.
+He is set in his ways and struggles with new methods or fashions.
 
 ### Motivation
 
-Maḥmûdrós is driven by the desire to master his craft and secure a stable future. The uncertainties of life in hideworker work keep him vigilant and adaptable.
+Maḥmûdrós wants to go on making leather that outlasts its buyer, by the methods he trusts.
 
 ### Strengths
 
-Highly skilled, strong, experienced in working with tough materials.
+He is highly skilled, strong, and experienced in working tough hides.
 
 ## Social
 
-Maḥmûdrós is affiliated with None; prefers to work independently..
-
-As a Helionite hideworker, Maḥmûdrós occupies a recognized social niche within Heliónis society.
+Maḥmûdrós belongs to no guild and prefers to work on his own.
 
 ## Companions
 
 ### Patrons
 
-Maḥmûdrós's primary patron is Local warriors and merchants who need strong leather goods.. This relationship provides both opportunity and obligation.
+Maḥmûdrós's patrons are the local warriors and merchants who need strong leather goods.
 
 ### Enemies
 
-Few; respected by peers, but some younger craftsmen see him as old-fashioned.
+Few; his peers respect him, but some younger craftsmen see him as old-fashioned.
 
 ## Plot Hooks
 
-1. **The Hideworker's Dilemma** — Maḥmûdrós faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Hideworker's Dilemma** — A merchant offers Maḥmûdrós a large order on condition that he use a quicker tanning method he does not trust.
 
-2. **Old Grudges** — Few; respected by peers, but some younger craftsmen see him as old-fashioned. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A younger craftsman who calls Maḥmûdrós old-fashioned begins taking his customers with cheaper, faster work.
 
-3. **Echoes of the Past** — Something from Maḥmûdrós's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past** — A suit of armor Maḥmûdrós made decades ago comes back to his shop, and the man wearing it is not the one he made it for.
 
-4. **Shifting Winds** — Political changes in Heliónis threaten to upend the social order that Maḥmûdrós depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Heliónis threatens the trade Maḥmûdrós depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Maḥmûdrós the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — Maḥmûdrós is offered the leatherwork for a whole company of warriors, and its price is not named up front.

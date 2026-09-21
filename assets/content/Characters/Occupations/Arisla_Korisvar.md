@@ -552,54 +552,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Árisla Kórisvar is a 32-year-old woman who stands 6'0" tall and is slender. She has a heart-shaped face with high cheekbones, a narrow forehead, and a narrow jaw that leads to a firm chin. Her piercing gray eyes sit beneath expressive brows, lending her a penetrating gaze. An aquiline nose and narrow lips complete her features. She has olive-tanned skin with a weathered complexion. Her black hair is twisted into an elaborate arrangement. A notable feature is laugh lines around the eyes.
+Árisla Kórisvar is a 32-year-old woman who stands 6'0" tall and is slender. She has a heart-shaped face with high cheekbones, a narrow forehead, and a narrow jaw that leads to a firm chin. Her piercing gray eyes sit beneath expressive brows and give her a penetrating gaze. She has an aquiline nose and narrow lips. She has olive-tanned skin with a weathered complexion. Her black hair is twisted into an elaborate arrangement. She has laugh lines around her eyes.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Árisla Kórisvar came into the world of the herald through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Árisla Kórisvar is a herald.
 
-Lady Elowen Faircourt was born into a minor noble family known for their service as heralds and courtiers. She has a natural gift for oratory and a keen understanding of social dynamics, which she uses to her advantage when delivering announcements and mediating disputes. Elowen is well-liked for her poise and ability to adapt her style to suit different occasions, whether formal or more relaxed. While her progressive approach has earned her praise, it has also drawn criticism from more traditional heralds.
+Lady Árisla Kórisvar was born into a minor noble family known for their service as heralds and courtiers. She has a natural gift for oratory and a sharp understanding of how people stand with one another, which she uses to her advantage when delivering announcements and mediating disputes. She is well liked for her poise and her ability to suit her style to the occasion, whether formal or more relaxed. Her informal manner has won her praise, and it has also drawn criticism from more traditional heralds.
 
-Now at 32 years of age, Árisla Kórisvar has established herself as a known figure among the heralds of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 32 years of age, she is a known figure among the heralds of Provènzia.
 
 ## Psyche
 
 ### Personality
 
-Sometimes lacks the gravitas expected of a herald, can be overly diplomatic.
+She sometimes lacks the gravitas expected of a herald and can be overly diplomatic.
 
 ### Motivation
 
-Árisla is driven by the desire to master her craft and secure a stable future. The uncertainties of life in herald work keep her vigilant and adaptable.
+Árisla wants to be heard and liked in every hall she speaks in, and to prove that a herald need not be stiff to be respected.
 
 ### Strengths
 
-Charismatic, adaptable, skilled in social etiquette and mediation.
+She is charismatic, adaptable, and skilled in etiquette and mediation.
 
 ## Social
 
-Árisla is affiliated with City Heralds' Guild.
-
-As a Provenzian herald, Árisla occupies a recognized social niche within Provènzia society.
+Árisla belongs to the City Heralds' Guild.
 
 ## Companions
 
 ### Patrons
 
-Árisla's primary patron is Nobles who appreciate her modern approach and diplomatic skills.. This relationship provides both opportunity and obligation.
+Árisla's patrons are the nobles who like her informal manner and her skill at diplomacy.
 
 ### Enemies
 
-Traditionalists who believe she is too informal for a herald.
+Traditionalists believe she is too informal for a herald.
 
 ## Plot Hooks
 
-1. **The Herald's Dilemma** — Árisla faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
+1. **The Herald's Dilemma** — Árisla is given a proclamation to deliver that she knows to be false, and her office and her conscience ask different things of her.
 
-2. **Old Grudges** — Traditionalists who believe she is too informal for a herald. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — A traditionalist herald brings a complaint against Árisla's manner before the guild.
 
-3. **Echoes of the Past** — Something from Árisla's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** — A dispute Árisla mediated in her early years comes apart, and both sides blame her.
 
-4. **Shifting Winds** — Political changes in Provènzia threaten to upend the social order that Árisla depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political change in Provènzia threatens the standing Árisla's noble patrons give her, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Árisla the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — Árisla is offered the post of herald to a great house, and its price is not named up front.

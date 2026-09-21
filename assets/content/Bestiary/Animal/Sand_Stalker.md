@@ -350,7 +350,7 @@ The Sand Stalker is a lithe desert feline predator reaching 6-7 feet in length w
 
 ## Presentation
 
-The Sand Stalker presents a lean, muscular form optimized for speed and agility over brute strength. The fur is a light sandy-tan or pale golden color with subtle darker markings that provide extraordinary camouflage in desert environments. The body is lithe and compact, with long legs suited for extended movement across sand and rough terrain. The head is proportionally feline with large, forward-facing amber eyes suited for nocturnal hunting, pointed ears that swivel to track sound, and a sensitive nose adapted for scent-hunting in arid conditions. The paws are notably wide and padded, spreading weight across sand and leaving minimal traces of passage. The tail is long and muscular, used for balance and communication.
+The Sand Stalker presents a lean, muscular form built for speed and agility over brute strength. The fur is a light sandy-tan or pale golden color with subtle darker markings that provide extraordinary camouflage in desert environments. The body is lithe and compact, with long legs suited for extended movement across sand and rough terrain. The head is proportionally feline with large, forward-facing amber eyes suited for nocturnal hunting, pointed ears that swivel to track sound, and a sensitive nose adapted for scent-hunting in arid conditions. The paws are notably wide and padded, spreading weight across sand and leaving minimal traces of passage. The tail is long and muscular, used for balance and communication.
 
 ## Key Behaviors
 
@@ -372,21 +372,21 @@ Once engaged, the stalker uses its powerful forelimbs to rake and slash at expos
 
 ### Swift Bite
 
-The sand stalker's bite is sharp and precise, targeted at exposed flesh, faces, hands, or the throat. The bite is used to establish dominance, create additional trauma, or finish wounded prey.
+The sand stalker's bite is sharp and precise, targeted at exposed flesh, faces, hands, or the throat. The bite is used to establish dominance, open further wounds, or finish wounded prey.
 
 ## Special Abilities
 
 ### Desert Camouflage
 
-The sand stalker's coloration is so effective in desert environments that it is nearly invisible when still or moving across sand and rocks. The cat gains significant advantage on stealth checks in desert terrain.
+The sand stalker's coloration is so effective in desert environments that it is nearly invisible when still or moving across sand and rocks. In the desert it is very hard to spot until it moves.
 
 ### Silent Prowl
 
-The sand stalker's wide paws and light weight allow it to move with remarkable silence, capable of approaching prey without detection. The cat gains advantage on stealth checks while moving and the ability to move at speed without creating audible disturbance.
+The sand stalker's wide paws and light weight allow it to move almost silently, approaching prey without detection. It can move at speed without making a sound.
 
 ### Nocturnal Superiority
 
-The sand stalker's eyes are adapted for night vision, allowing it to hunt effectively in near-total darkness. It gains significant advantage in all actions taken during low-light conditions.
+The sand stalker's eyes are adapted for night vision, allowing it to hunt effectively in near-total darkness. In the dark it sees and hunts far better than its prey.
 
 ### Scent Hunting
 
@@ -394,11 +394,11 @@ The sand stalker can track prey through smell, allowing it to hunt in darkness o
 
 ### Reflexive Evasion
 
-The sand stalker's speed and agility allow it to dodge incoming attacks more effectively than most creatures, gaining bonus to defense against ranged and melee attacks.
+The sand stalker's speed and agility allow it to dodge incoming attacks more effectively than most creatures, so that arrows and blows alike often miss it.
 
 ### Additional Information
 
-Sand stalkers are most active during night hours and sleeping or sheltering during day, making encounters during daylight hours rare. The cats avoid areas with significant human settlements or organized defense but will hunt isolated travelers or small groups. A stalker injured in combat will retreat and avoid re-engagement unless cornered or defending young. The creature's fur and claws are valuable to hunters and can be harvested to create armor or tools.
+Sand stalkers are most active during night hours and sleep or shelter during the day, making encounters during daylight hours rare. The cats avoid areas with significant human settlements or organized defense but will hunt isolated travelers or small groups. A stalker injured in combat will retreat and avoid re-engagement unless cornered or defending young. The creature's fur and claws are valuable to hunters and can be harvested to create armor or tools.
 
 ## Attributes
 

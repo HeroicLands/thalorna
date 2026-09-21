@@ -615,7 +615,7 @@ The forest stirs around you though there is no wind—leaves rustle, branches cr
 
 # Dossier {#dossier}
 
-Rootwraiths are the corrupted remnants of nature’s will made manifest—creatures of twisted vegetation and ancient malice that haunt deep forests and wild places where human civilization has never truly taken root. They seem less born than conjured, emerging from soil and root systems as though the earth itself has grown a thorn to punish intrusion. A Rootwraith is utterly territorial and possesses an intelligence that runs counter to nature—not the simple cunning of an animal but something older and colder, with patience measured in decades or centuries. They communicate through the growth and movement of vegetation around them, leaving messages written in withered trees and strangled vines. Some scholars theorize that Rootwraiths are the echo of forest gods rejected and corrupted, their divinity twisted into something malevolent.
+Rootwraiths are the corrupted remnants of nature’s will made manifest—creatures of twisted vegetation and ancient malice that haunt deep forests and wild places where human civilization has never truly taken root. They seem conjured rather than born, emerging from soil and root systems as though the earth itself has grown a thorn to punish intrusion. A Rootwraith is fiercely territorial and possesses an intelligence that runs counter to nature—not the simple cunning of an animal but something older and colder, with patience measured in decades or centuries. They communicate through the growth and movement of vegetation around them, leaving messages written in withered trees and strangled vines. One account holds that Rootwraiths are forest gods rejected and corrupted, their divinity twisted into something malevolent.
 
 ## Presentation
 
@@ -627,7 +627,7 @@ A Rootwraith is an absolute sentinel of its territory, maintaining dominion over
 
 ## Combat Strategy
 
-A Rootwraith opens combat by animate the surrounding environment—roots erupting from the ground, vines lashing out from branches, trees swaying to block escape routes. It manipulates terrain to create hazards and prevent retreat while its physical form moves slowly forward, deliberately, as though confident in its inevitable victory. The creature is patient, willing to let terrain and vegetation do much of the work while it delivers finishing touches. If pressed hard or cornered, it becomes more aggressive, its movements faster and its attacks more direct. It will never flee but may retreat into the forest proper, where its control over vegetation is absolute.
+A Rootwraith opens combat by animating the surrounding environment—roots erupting from the ground, vines lashing out from branches, trees swaying to block escape routes. It manipulates terrain to create hazards and prevent retreat while its physical form moves slowly forward, deliberately, as though confident in its inevitable victory. The creature is patient, willing to let terrain and vegetation do much of the work while it delivers finishing touches. If pressed hard or cornered, it becomes more aggressive, its movements faster and its attacks more direct. It will never flee but may retreat into the forest proper, where its control over vegetation is absolute.
 
 ## Attack Methods
 
@@ -659,11 +659,11 @@ The Rootwraith can sink into the earth, merge with a tree, or disappear into den
 
 ### Regeneration Through Plant Life
 
-So long as the Rootwraith remains in contact with living vegetation, it regenerates from damage. Only by severing it from plant life or destroying all vegetation in its vicinity can sustained damage be achieved.
+So long as the Rootwraith remains in contact with living vegetation, it regenerates from damage. Only by severing it from plant life or destroying all vegetation in its vicinity can it be worn down.
 
 ## Additional Information
 
-Fire is the Rootwraith’s primary vulnerability, as flames destroy its plant-matter composition and sever its connection to surrounding vegetation. Radiant or holy magic is equally effective, as it seems to oppose the corrupted essence that animates the creature. Cutting down trees around a Rootwraith forces it to seek new vegetation, and in barren areas it becomes slowly weaker. The creatures cannot abide in deserts or desolate places, and transporting one to such an environment effectively kills it. Rootwraiths seem to hold particular hatred for those who harm forests deliberately, and they have been known to pursue loggers and settlers with terrible persistence. Some ancient forests are said to be entirely ruled by Rootwraiths, with every clearing held in check and every traveler who enters never emerging again.
+Fire is the Rootwraith’s primary vulnerability, as flames destroy its plant-matter composition and sever its connection to surrounding vegetation. Light-based or holy magic is equally effective, as it seems to oppose the corrupted essence that animates the creature. Cutting down trees around a Rootwraith forces it to seek new vegetation, and in barren areas it becomes slowly weaker. The creatures cannot abide in deserts or desolate places, and transporting one to such an environment effectively kills it. Rootwraiths seem to hold particular hatred for those who harm forests deliberately, and they have been known to pursue loggers and settlers with terrible persistence. Some ancient forests are said to be entirely ruled by Rootwraiths, with every clearing held in check and every traveler who enters never emerging again.
 
 ## Attributes
 

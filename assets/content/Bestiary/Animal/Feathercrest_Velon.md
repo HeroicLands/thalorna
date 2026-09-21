@@ -334,7 +334,7 @@ A sound cuts through the air—a layered chirping that makes your teeth ache and
 
 # Dossier {#dossier}
 
-The Feathercrest Velon is a predatory creature roughly four feet tall, resembling a cross between a bird and something far stranger. It is covered in sleek, iridescent plumage that shifts from blue to green to violet depending on the angle of light. These creatures are dangerous pack hunters found in dense forests and rocky highlands, and they are known for territorial aggression and a hunting strategy that relies on coordinated ambush and psychological disruption. Adventurers most often encounter velons when they penetrate the creature's territory or stumble upon a pack's hunting ground.
+The Feathercrest Velon is a predatory creature roughly four feet tall, resembling a cross between a bird and something far stranger. It is covered in sleek, iridescent plumage that shifts from blue to green to violet depending on the angle of light. These creatures are dangerous pack hunters found in dense forests and rocky highlands, and they are known for territorial aggression and a hunting strategy that relies on coordinated ambush and on confusing its prey. Adventurers most often encounter velons when they penetrate the creature's territory or stumble upon a pack's hunting ground.
 
 ## Presentation
 
@@ -342,7 +342,7 @@ A velon stands upright on powerful hind legs, with a lean, muscular build that s
 
 ## Key Behaviors
 
-Velons are social hunters that operate in small groups or larger packs, with clear hierarchical relationships within each group. They are diurnal and most active in the dappled light of forest edges and rocky terrain where their coloration provides camouflage. A hunting pack communicates through a series of high-pitched vocalizations that are often described as beautiful and menacing in equal measure. Velons are territorial and will vigorously defend a hunting ground, often marking boundaries with the plucked feathers and fur of their kills—a warning that drives most sensible travelers away. They hunt smaller animals primarily, but a hungry pack will pursue humanoid prey with cold determination.
+Velons are social hunters that operate in small groups or larger packs, with clear hierarchical relationships within each group. They are diurnal and most active in the dappled light of forest edges and rocky terrain where their coloration provides camouflage. A hunting pack communicates through a series of high-pitched vocalizations that are often described as beautiful as they are menacing. Velons are territorial and will vigorously defend a hunting ground, often marking boundaries with the plucked feathers and fur of their kills—a warning that drives most sensible travelers away. They hunt smaller animals primarily, but a hungry pack will pursue humanoid prey with cold determination.
 
 ## Combat Strategy
 
@@ -352,7 +352,7 @@ A velon pack hunts with coordinated tactics—one or more creatures make spectac
 
 ### Talon Slash
 
-The velon executes rapid, hooking strikes with the talons on its forelimbs, moving with explosive speed to rake multiple times in a short span. These attacks are aimed at disabling—severing tendons, opening blood vessels, or causing shock through sheer trauma. A velon in a feeding frenzy will slash without pause until prey stops moving.
+The velon executes rapid, hooking strikes with the talons on its forelimbs, moving with explosive speed to rake multiple times in a short span. These attacks are aimed at disabling—severing tendons, opening blood vessels, or causing shock through sheer loss of blood. A velon in a feeding frenzy will slash without pause until prey stops moving.
 
 ### Beak Stab
 
@@ -362,15 +362,15 @@ A precise, driving attack targeted at soft tissue—the beak is used to pierce e
 
 ### Hypnotic Chirps
 
-A velon's vocalizations are produced through a specialized throat structure and carry a strange harmonic quality that is deeply disorienting to humanoids and most other creatures. A creature hearing the chirps must maintain concentration or become confused—unable to determine direction of sound, losing track of allies, or failing to notice obvious threats. Creatures that cannot hear are immune to this ability.
+A velon's vocalizations are produced through a specialized throat structure and carry a strange harmonic quality that is deeply disorienting to humanoids and most other creatures. A creature hearing the chirps struggles to keep its wits—it may be unable to tell where the sound comes from, lose track of allies, or fail to notice obvious threats. Creatures that cannot hear are immune to this ability.
 
 ### Dazzling Display
 
-When the velon flares its crest and combines this with rapid body movements and flashing color changes, it creates a visual disturbance that temporarily blinds or disorients observers. A creature caught in direct line of sight of this display must shield its eyes or suffer impaired vision and poor depth perception for several rounds.
+When the velon flares its crest and combines this with rapid body movements and flashing color changes, it creates a visual disturbance that temporarily blinds or disorients observers. A creature caught in direct line of sight of this display must shield its eyes or be left half-blind and unable to judge distance for a short while.
 
 ## Additional Information
 
-Velon packs are territorial and unlikely to abandon hunting grounds unless driven out by far superior force. Characters in velon territory should expect continued predation and harassment until they leave. A dead velon's magnificent crest is prized for ceremonial headdresses or trophies, though removing it requires careful work. Some experienced hunters have successfully captured young velons and trained them as hunting companions, though they retain a wild nature and unpredictable temperament.
+Velon packs are territorial and unlikely to abandon hunting grounds unless driven out by far superior force. Travelers in velon territory should expect continued predation and harassment until they leave. A dead velon's magnificent crest is prized for ceremonial headdresses or trophies, though removing it requires careful work. Some experienced hunters have successfully captured young velons and trained them as hunting companions, though they retain a wild nature and unpredictable temperament.
 
 ## Attributes
 

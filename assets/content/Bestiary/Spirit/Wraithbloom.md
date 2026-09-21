@@ -228,7 +228,7 @@ Wraithblooms are the spirits of ancient plants—flowers and vines from places w
 
 ## Presentation
 
-A Wraithbloom is a hovering assemblage of spectral plants—translucent petals forming a corona around a central cluster of ghostly vines and stamens. The whole construction is roughly three to five feet in diameter and floats a few feet above the ground, though it sometimes descends to brush its vines across soil or flower. The petals glow softly in shades of pale blue, lavender, or sickly green, and this light shifts subtly moment to moment. The central bloom contains eyes or at least optical organs—two pale luminescent points that regard observers with what seems like curiosity or judgment. The creature smells faintly of flowers and decay in equal measure, and pollen drifts from it constantly, creating a visible haze in still air.
+A Wraithbloom is a hovering assemblage of spectral plants—translucent petals forming a corona around a central cluster of ghostly vines and stamens. The whole construction is roughly three to five feet in diameter and floats a few feet above the ground, though it sometimes descends to brush its vines across soil or flower. The petals glow softly in shades of pale blue, lavender, or sickly green, and this light shifts subtly moment to moment. The central bloom contains eyes or at least optical organs—two pale luminescent points that regard observers with what seems like curiosity or judgment. The creature smells faintly of both flowers and decay, and pollen drifts from it constantly, creating a visible haze in still air.
 
 ## Key Behaviors
 
@@ -256,7 +256,7 @@ When a victim is entangled by vines or thoroughly inhales the pollen, the Wraith
 
 ### Spectral Nature
 
-The Wraithbloom is partially incorporeal and resistant to physical weapon strikes. Weapons pass through it with reduced effectiveness. However, fire, sunlight, and radiant magic all harm it significantly.
+The Wraithbloom is partially incorporeal and resistant to physical weapon strikes. Weapons pass through it with reduced effectiveness. Fire, sunlight, and light-based magic all harm it badly.
 
 ### Pollen Cloud
 
@@ -272,7 +272,7 @@ The Wraithbloom is deeply connected to a specific place and gains strength when 
 
 ## Additional Information
 
-Fire is the most effective weapon against a Wraithbloom, as it destroys the plant matter that comprises its form. Sunlight also harms it significantly, and radiant magic is effective. A Wraithbloom can sometimes be negotiated with if approached respectfully. It seems to understand human speech, though it does not speak in return. A human who tends the garden, removes invasive species, and shows respect for the space may actually gain the Wraithbloom's protection. Some rangers and druids have formed symbiotic relationships with Wraithblooms, allowing the spirit to nourish their plants in exchange for protection and care. A Wraithbloom is difficult to kill permanently because it is tied to the location it inhabits—killing it merely causes it to reform after several seasons. True destruction requires either burning the location and removing all plant life, or cleansing the land through ritual so that the magic sustaining the spirit dissipates.
+Fire is the most effective weapon against a Wraithbloom, as it destroys the plant matter that comprises its form. Sunlight also harms it badly, and light-based magic is effective. A Wraithbloom can sometimes be negotiated with if approached respectfully. It seems to understand human speech, though it does not speak in return. A human who tends the garden, removes invasive species, and shows respect for the space may actually gain the Wraithbloom's protection. A few rangers and druids have formed partnerships with Wraithblooms, allowing the spirit to nourish their plants in exchange for protection and care. A Wraithbloom is difficult to kill permanently because it is tied to the location it inhabits—killing it merely causes it to reform after several seasons. True destruction requires either burning the location and removing all plant life, or cleansing the land through ritual so that the magic sustaining the spirit dissipates.
 
 ## Attributes
 

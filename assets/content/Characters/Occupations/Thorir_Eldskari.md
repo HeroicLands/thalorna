@@ -536,7 +536,7 @@ Thórir is an enormous man, standing 6'1" and carrying 256 pounds of heavy bone 
 
 Thórir was born in the Stormveil mountains, to a family of quarrymen who had worked the black stone for generations. At fourteen, he was conscripted into the garrison—a standard practice in [[place-aelwyth|Aelwyth]]. He was broad, strong, and ideally suited for the physical labor the garrison required. He spent his first three years doing essentially what his family did: moving stone, building fortifications, hauling supplies. Then a captain noticed his size and recruited him for the castle guard.
 
-Twenty-six years of castle guard service have made Thórir what the military calls "essential furniture." He is six feet one, 255 pounds of dense muscle running to gray-speckled fat as he ages. The scar that runs from his right ear to his chin was earned in a barracks brawl in his twenties—a knife fight over a woman, the kind of stupid violence that Thórir now regards with the distant disgust of age. He has suppressed more riots, broken up more fights, physically removed more drunken nobles from the castle than any three other guards combined.
+In twenty-six years of castle guard service, Thórir has become what the military calls "essential furniture." His dense muscle is running to gray-speckled fat as he ages. The scar that runs from his right ear to his chin was earned in a barracks brawl in his twenties—a knife fight over a woman, the kind of stupid violence that Thórir now regards with the distant disgust of age. He has suppressed more riots, broken up more fights, physically removed more drunken nobles from the castle than any three other guards combined.
 
 Now at forty-three, Thórir's knees hurt, his hands have arthritis, and his wind is no longer reliable. He knows his time as active guard is ending. The garrison commander has quietly suggested that Thórir move into training and supervision roles. Thórir, who has never done anything but physical work, faces the terrifying prospect of becoming supervising authority rather than executing authority. He is six years away from mandatory retirement and counting the days.
 
@@ -548,11 +548,11 @@ Thórir is tired in a way that sleep does not fix. He moves with the careful del
 
 ### Motivation
 
-Thórir's motivation is simple: survive until retirement. He wants to return to his family's quarries and work stone again, where the work is simple and honest and kills you in predictable ways. He has no ambitions and no need for advancement. He simply wants to reach the finish line without catastrophe.
+Thórir's motivation is simple: survive until retirement. He wants to return to his family's quarries and work stone again, where the work is simple and honest and kills a man in predictable ways. He has no ambitions and no need for advancement. He simply wants to reach the finish line without catastrophe.
 
 ### Strengths
 
-His physical strength remains exceptional despite age. His judgment in physical confrontations is sound—he knows how to restrain people without permanently injuring them, a skill developed over decades of suppressing noble tantrums. He is utterly loyal to the institution of the castle, if not to the individuals who command it.
+His physical strength remains great despite age. His judgment in physical confrontations is sound—he knows how to restrain people without permanently injuring them, a skill developed over decades of suppressing noble tantrums. He is loyal to the institution of the castle, if not to the individuals who command it.
 
 ## Social
 
@@ -562,15 +562,15 @@ Thórir is respected by guards and soldiers, invisible to most nobility, and reg
 
 ### Patrons
 
-**Commander Aelys Stormwind** — The captain of Stormveil castle guard for the past fifteen years. Aelys is a professional soldier who recognizes Thórir's value and has explicitly protected him from reassignment. She has also quietly agreed to write a strong recommendation for Thórir's retirement, which will ensure his pension is maximized. Their relationship is built on practical respect.
+**Commander Aelys Stormwind** — The captain of Stormveil castle guard for the past fifteen years. Aelys is a soldier by trade who recognizes Thórir's value and has explicitly protected him from reassignment. She has also quietly agreed to write a strong recommendation for Thórir's retirement, which will secure him the fullest pension. Their relationship is built on practical respect.
 
 ### Enemies
 
-**Lord Kael Draven** — A younger noble who arrived at Stormveil five years ago as the regional lord's military advisor. Draven is ambitious, aristocratic, and disdainful of professional soldiers. He has attempted to force Thórir into increasingly harsh discipline protocols, and when Thórir did not comply, Draven began spreading rumors that Thórir is "soft" and "a relic of the old guard." Thórir ignores this, which infuriates Draven more than direct confrontation would.
+**Lord Kael Draven** — A younger noble who arrived at Stormveil five years ago as the regional lord's military advisor. Draven is ambitious, aristocratic, and disdainful of soldiers who serve for pay. He has attempted to force Thórir into increasingly harsh discipline, and when Thórir did not comply, Draven began spreading rumors that Thórir is "soft" and "a relic of the old guard." Thórir ignores this, which infuriates Draven more than direct confrontation would.
 
 ## Plot Hooks
 
-1. **The Heir's Crisis** — The regional lord's eldest son is discovered in a tavern brawl with severe injuries—injuries inflicted by a woman. The official story becomes that he was robbed; the truth is that he attempted to force himself on a guard captain's daughter and she defended herself. The lord demands justice. Thórir is instructed to arrest the woman and suppress the evidence. Commander Aelys is overridden by the lord's authority and forced to accept the orders. Thórir must choose between following direct command (which requires arresting an innocent woman) or defying his commander and the lord, knowing that disobedience will end his career one year short of his mandatory retirement.
+1. **The Heir's Crisis** — The regional lord's eldest son is discovered in a tavern brawl with severe injuries—injuries inflicted by a woman. The official story becomes that he was robbed; the truth is that he attempted to force himself on a guard captain's daughter and she defended herself. The lord demands justice. Thórir is instructed to arrest the woman and suppress the evidence. Commander Aelys is overridden by the lord's authority and forced to accept the orders. Thórir can follow the order and arrest an innocent woman, or defy his commander and the lord, knowing that disobedience will end his service one year short of his mandatory retirement.
 
 2. **The Assassin's Opportunity** — Thórir suspects that an attempted assault on the regional lord in the castle's inner courtyard was not random banditry but an inside job. He begins quietly investigating and discovers that two junior guards are being blackmailed by assassins from outside. The guards are young, terrified, and facing financial ruin if they do not cooperate. Thórir realizes that the next assassination attempt is coming soon, probably within days. He can arrest the guards and prevent the plot, but that means destroying their lives; he can warn them and give them a chance to escape, but that leaves the lord unprotected; or he can secretly feed the assassins false information and attempt to trap them. Each option risks his life in a different way.
 

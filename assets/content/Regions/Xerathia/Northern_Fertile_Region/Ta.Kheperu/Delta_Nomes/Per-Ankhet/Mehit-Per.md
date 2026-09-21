@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - perankhetnome
   population: 14000
 name:
   full: Mehit-Per

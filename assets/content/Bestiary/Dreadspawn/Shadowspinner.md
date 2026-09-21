@@ -260,11 +260,11 @@ You feel it before you see it—a sudden, terrible weight pressing against your 
 
 # Dossier {#dossier}
 
-Shadowspinners are apex arachnids corrupted by some infernal magic into creatures of terrible intelligence and supernatural predation. These creatures do not merely hunt—they engineer elaborate traps that serve not only to capture prey but to break the spirit of those who see them. A Shadowspinner weaves webs that are not simply sticky but seem to actively drink light and hope, webs that can hold a grown warrior immobilized for weeks. They haunt deep caves, sunken ruins, and places so dark that normal light seems to turn sick and dim. A Shadowspinner's presence is said to drive other creatures away; few things will venture into a chamber ruled by one of these monsters.
+Shadowspinners are apex arachnids corrupted by some infernal magic into creatures of terrible intelligence and supernatural predation. These creatures engineer elaborate traps that capture prey and break the spirit of those who see them. A Shadowspinner weaves webs that seem to drink light and hope, webs that can hold a grown warrior immobilized for weeks. They haunt deep caves, sunken ruins, and places so dark that normal light seems to turn sick and dim. A Shadowspinner's presence is said to drive other creatures away; few things will venture into a chamber ruled by one of these monsters.
 
 ## Presentation
 
-A Shadowspinner measures roughly 10 to 14 feet in length with a legspan of 20 to 30 feet or more. Its body is covered in plates of glossy black chitin that seem to absorb light, and its legs are jointed and furred with what appears to be metallic, almost fur-like hair that catches light like obsidian filaments. Its head bears eight eyes arranged in two groups of four, each eye glowing with a faint, sickly luminescence—some amber, some violet, some a sickly phosphorescent white. Its mandibles are tremendous, capable of grinding through bone, and they glisten with venom that seems to smoke faintly in warm air. Most distinctive are its spinnerets, which produce webs of impossible strength and darkness—thread so black it seems to be liquid shadow made solid. The creature moves with eerie grace on its jointed legs, and the sound is of chitinous plates scraping together, or sometimes of something more like wind whispering through a graveyard.
+A Shadowspinner measures roughly 10 to 14 feet in length with a legspan of 20 to 30 feet or more. Its body is covered in plates of glossy black chitin that seem to swallow light, and its legs are jointed and furred with what appears to be metallic, almost fur-like hair that catches light like obsidian filaments. Its head bears eight eyes arranged in two groups of four, each eye glowing with a faint, sickly luminescence—some amber, some violet, some a sickly phosphorescent white. Its mandibles are tremendous, capable of grinding through bone, and they glisten with venom that seems to smoke faintly in warm air. Most distinctive are its spinnerets, which produce webs of impossible strength and darkness—thread so black it seems to be liquid shadow made solid. The creature moves with eerie grace on its jointed legs, and the sound is of chitinous plates scraping together, or sometimes of something more like wind whispering through a graveyard.
 
 ## Key Behaviors
 
@@ -278,7 +278,7 @@ A Shadowspinner initiates combat by assuming a position in its web where it has 
 
 ### Venomous Bite
 
-The Shadowspinner's mandibles snap forward with terrible force, driving long chelicerae deep into flesh and injecting a potent neurotoxin that begins working immediately. Bitten targets experience spreading numbness and progressive paralysis.
+The Shadowspinner's mandibles snap forward with terrible force, driving long chelicerae deep into flesh and injecting a potent neurotoxin that begins working immediately. Bitten targets feel a spreading numbness and a creeping paralysis.
 
 ### Raking Limbs
 
@@ -300,7 +300,7 @@ The Shadowspinner perceives the world primarily through vibrations in its web, d
 
 ### Predatory Intellect
 
-The Shadowspinner demonstrates genuine intelligence and planning ability. It remembers prey that escape, learns patterns, and designs increasingly sophisticated traps. It has been known to alter its behavior based on the weapons or tactics of repeating opponents.
+The Shadowspinner is intelligent and plans ahead. It remembers prey that escape, learns patterns, and builds more elaborate traps each time. It has been known to alter its behavior based on the weapons or tactics of repeating opponents.
 
 ### Venom Resistance
 
@@ -308,7 +308,7 @@ The Shadowspinner is immune to most poisons and venoms, allowing it to feed on c
 
 ## Additional Information
 
-Fire is the Shadowspinner's primary weakness—flame damages its web immediately, destroys its exoskeleton, and seems to cause genuine panic in the creature. A sufficiently large fire can drive a Shadowspinner to abandon its territory entirely. The silk itself, if harvested carefully before the creature dies, is extraordinarily valuable—capable of holding tremendous weight and naturally resistant to most damage. Dark scholars and assassins prize Shadowspinner silk for creating nets, bindings, and armor. The creature's fangs can be crafted into weapons that retain venom for years. Entire careers have been built by hunters who specialize in raiding Shadowspinner territories, removing the creature, and harvesting its web and body parts—though the casualty rate for such work is terrifyingly high.
+Fire is the Shadowspinner's primary weakness—flame damages its web immediately, destroys its exoskeleton, and sends the creature into a panic. A sufficiently large fire can drive a Shadowspinner to abandon its territory entirely. The silk itself, if harvested carefully before the creature dies, is extraordinarily valuable—capable of holding tremendous weight and naturally resistant to most damage. Dark scholars and assassins prize Shadowspinner silk for creating nets, bindings, and armor. The creature's fangs can be crafted into weapons that retain venom for years. Some hunters make their living by raiding Shadowspinner territories, removing the creature, and harvesting its web and body parts—though the casualty rate for such work is terrifyingly high.
 
 ## Attributes
 

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - sauneferunome
   population: 12000
 name:
   full: Tjebu
