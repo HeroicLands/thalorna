@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - pekhenunome
   population: 30000
 name:
   full: Pekhenu

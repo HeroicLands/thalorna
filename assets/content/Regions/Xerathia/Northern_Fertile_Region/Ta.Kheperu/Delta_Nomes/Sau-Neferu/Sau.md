@@ -11,7 +11,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - sauneferunome
   population: 45000
 name:
   full: Sau

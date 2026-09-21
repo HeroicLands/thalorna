@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - maruatennome
   population: 22000
 name:
   full: Maru-Aten

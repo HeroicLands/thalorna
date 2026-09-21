@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - sebtrenpetnome
   population: 28000
 name:
   full: Sebt-Renpet

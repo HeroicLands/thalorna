@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - iperunome
   population: 33000
 name:
   full: Iperu

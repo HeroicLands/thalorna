@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - hutptahresunome
   population: 36000
 name:
   full: Hut-Ptah

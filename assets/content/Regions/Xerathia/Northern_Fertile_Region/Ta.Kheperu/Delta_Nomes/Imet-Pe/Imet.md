@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - imetpenome
   population: 45000
 name:
   full: Imet

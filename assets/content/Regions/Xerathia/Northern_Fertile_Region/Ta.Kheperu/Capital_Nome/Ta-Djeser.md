@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - wasetkaranome
   population: 40000
 name:
   full: Ta-Djeser

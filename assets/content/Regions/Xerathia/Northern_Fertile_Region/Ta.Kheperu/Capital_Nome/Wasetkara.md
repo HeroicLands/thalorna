@@ -11,7 +11,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - takheperurgn
+    - wasetkaranome
   population: 450000
 name:
   full: Wasetkara
