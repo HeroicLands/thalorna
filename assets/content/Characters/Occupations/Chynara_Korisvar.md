@@ -553,54 +553,50 @@ sohl:
 
 # Appearance {#appearance}
 
-Chýnara Kórisvar is a 33-year-old woman who stands 6'1" tall and is of moderate build. She has a long face with wide-set cheekbones, a lined forehead, and an angular jaw that leads to a strong chin. Her large dark brown eyes sit beneath expressive brows, lending her an expressive gaze. A narrow nose and firm lips complete her features. She has fair skin with a clear complexion. Her dark brown hair is twisted into an elaborate arrangement.
+Chýnara Kórisvar is a 33-year-old woman who stands 6'1" tall and is of moderate build. She has a long face with wide-set cheekbones, a lined forehead, and an angular jaw that leads to a strong chin. Her large dark brown eyes sit beneath expressive brows and give her an expressive gaze. She has a narrow nose and firm lips. She has fair skin with a clear complexion. Her dark brown hair is twisted into an elaborate arrangement.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Chýnara Kórisvar came into the world of the salter through a combination of circumstance and aptitude.
+Chýnara Kórisvar is a salter of Chastèlclair, the fortress town of the eastern march of [[place-provenzrgn|Provènzia]], a Provenzian freewoman who salts down the meat and fish that feed the garrison through the winter and the levies through the campaign season.
 
-Chýnara has been working as a salter since she was a child, learning the trade from her parents. She operates a small saltworks near the coast, where she collects seawater and evaporates it to produce salt. Chýnara is known for her dedication to quality and often sells her salt to local fishermen and merchants. She is a resilient and hardworking individual who takes pride in her work and the role she plays in her community.
+Chýnara learned the trade as a child in the salting-house inside the walls that her parents kept before her, packing fish from Lake Tiravel in brine and beef from the march's herds in coarse salt that comes up by cart through Valcèrise. From the thaw the town fills with soldiers and carters who must be fed on the road, and through the winter, when the passes close, everyone eats what was salted in the autumn. A salter who cuts her salt or hurries her cure kills people in the second month of the snow, and Chýnara has never done either. The garrison's victuallers buy from her by preference and the lake fishermen sell to her first, because a Kórisvar barrel opens in spring the way it was closed.
 
-Now at 33 years of age, Chýnara Kórisvar has established herself as a known figure among the salters of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
+She is a known figure among the salters of Provènzia.
 
 ## Psyche
 
 ### Personality
 
-Can be overly focused on work, struggles with self-care.
+Chýnara is hardworking, exact and single-minded to the point of neglecting herself. She is proud of the work in a plain way and impatient with anyone who treats salt as a trifle.
 
 ### Motivation
 
-Chýnara is driven by the desire to master her craft and secure a stable future. The uncertainties of life in salter work keep her vigilant and adaptable.
+Chýnara wants every barrel that leaves her house to hold, because the march eats from them when nothing else is to be had. She wants the standing that comes with that, and has not noticed what it has cost her.
 
 ### Strengths
 
-Knowledgeable about salt production, hardworking, resourceful.
+Knowledgeable about curing and salt, hardworking, resourceful.
 
 ## Social
 
-Chýnara is affiliated with None; operates independently..
-
-As a Provenzian salter, Chýnara occupies a recognized social niche within Provènzia society.
+Chýnara belongs to no guild and works for herself, as her parents did. The garrison quartermaster knows her name and the Winter Assize has taken her word on a barrel.
 
 ## Companions
 
 ### Patrons
 
-Chýnara's primary patron is Local fishermen and merchants seeking high-quality salt.. This relationship provides both opportunity and obligation.
+Chýnara's patrons are the victuallers of the garrison, who buy her barrels for the winter stores and the campaign carts, and the fishermen of Lake Tiravel.
 
 ### Enemies
 
-Few; generally well-respected, but some may compete for trade.
+A victualler of the town who buys cheap salt and cheaper fish, sells his barrels to the garrison under her price, and would like her out of the trade before somebody opens one of his in midwinter.
 
 ## Plot Hooks
 
-1. **The Salter's Dilemma** — Chýnara faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
+1. **The Bad Barrels** — The garrison's winter store has begun to spoil, barrel by barrel, and the barrels are the rival victualler's with Chýnara's mark forged on them. The quartermaster has come to her first.
 
-2. **Old Grudges** — Few; generally well-respected, but some may compete for trade. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Short Store** — The autumn catch failed and the herds were raided, and Chýnara has salted half what the winter needs. The passes close in three weeks. What she has will feed the garrison or the town, not both.
 
-3. **Echoes of the Past** — Something from Chýnara's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **The Assize** — The rival victualler has brought a claim against Chýnara at the Winter Assize for a debt her mother never owed, and the court is snowed in with both of them until spring.
 
-4. **Shifting Winds** — Political changes in Provènzia threaten to upend the social order that Chýnara depends upon. She must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Chýnara the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+4. **The Passes Close Early** — The snow has come a month before its time with the salt carts still below Valcèrise. Chýnara has fish in the yard and no salt to cure it.

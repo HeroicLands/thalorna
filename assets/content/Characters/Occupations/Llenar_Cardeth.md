@@ -554,54 +554,50 @@ sohl:
 
 # Appearance {#appearance}
 
-Llénar Cárdeth is a 45-year-old man who stands 6'2" tall and is broad and solidly built. He has a heart-shaped face with broad cheekbones, a smooth forehead, and an angular jaw that leads to a firm chin. His large blue eyes sit beneath straight brows, lending him an expressive gaze. A straight nose and full lips complete his features. He has medium-toned skin with a smooth complexion. His silver hair is combed neatly to one side.
+Llénar Cárdeth is a 45-year-old man who stands 6'2" tall and is broad and solidly built. He has a heart-shaped face with broad cheekbones, a smooth forehead, and an angular jaw that leads to a firm chin. His large blue eyes sit beneath straight brows and give him an expressive gaze. He has a straight nose and full lips. He has medium-toned skin with a smooth complexion. His silver hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Llénar Cárdeth came into the world of the ratter through a combination of circumstance and aptitude.
+Llénar Cárdeth is a ratter of Silvain, the Élavendri village inside the Silver Forests of [[place-elavendre|Élavendre]], a freeman who has kept the village's stores clear of rats for twenty-five years.
 
-Llénar is a veteran ratter who has dedicated his life to controlling rat populations in both urban and rural settings. With years of experience under his belt, he is known for his effective techniques and vast knowledge of rodent behavior. Llénar often shares his expertise with younger ratters, teaching them the tricks of the trade. He has a loyal dog named Scout who helps him in his work.
+The village lives on charcoal, honey, hazel and the gathered herbs that the physicians of Béravel pay so well for, and all of it is stored over a winter and draws rats. Llénar learned the trade from an old man of the village and has improved on it since: traps of his own pattern, ferrets, a knowledge of where a rat runs and why, and no poison, ever, because poison kills the dogs and cats that do half the work. His dog, Scout, a rough-coated terrier, has worked with him for nine years. He takes the farms of Ardwyn beyond the wood as well, and passes what he knows to any young ratter who will listen.
 
-Now at 45 years of age, Llénar Cárdeth has established himself as a known figure among the ratters of Élavendre. His reputation, for better or worse, precedes him in the circles where such things matter.
+He is a known figure among the ratters of Élavendre.
 
 ## Psyche
 
 ### Personality
 
-Can be overly critical of newcomers, struggles with adapting to modern methods.
+Llénar is exacting, blunt with beginners and slow to praise. He has no time for anyone who reaches for a poison bottle because a trap takes patience.
 
 ### Motivation
 
-Llénar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in ratter work keep him vigilant and adaptable.
+Llénar wants the work done properly — every loft clear, every dog alive — and he wants the trade passed on the way he had it, so that it outlasts him.
 
 ### Strengths
 
-Highly experienced, skilled in various trapping techniques, good mentor.
+Highly experienced, skilled with traps and ferrets, a good teacher of those who will be taught.
 
 ## Social
 
-Llénar is affiliated with None; operates independently..
-
-As a Élavendri ratter, Llénar occupies a recognized social niche within Élavendre society.
+Llénar belongs to no guild and works for whoever calls him. In Silvain he is one of the village's own, and outside it he is known at every farm in Ardwyn.
 
 ## Companions
 
 ### Patrons
 
-Llénar's primary patron is Farmers and local businesses needing assistance with rodent control.. This relationship provides both opportunity and obligation.
+Llénar's patrons are the households of Silvain with honey-stores and herb-lofts to keep, and the farmers of Ardwyn beyond the wood.
 
 ### Enemies
 
-Few; well-respected but some may see him as too traditional.
+A younger ratter from Béravel who works the Ardwyn farms with compounds bought from the physicians, and undercuts Llénar's price. Two farm dogs have died of his baits.
 
 ## Plot Hooks
 
-1. **The Ratter's Dilemma** — Llénar faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
+1. **The Poisoner** — The Béravel ratter's baits have killed a third dog, this time in Silvain itself, and the village wants him gone. He has a paper from the physicians that says the compound is safe.
 
-2. **Old Grudges** — Few; well-respected but some may see him as too traditional. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Scout** — Scout is nine and slowing, and Llénar has not trained a dog to follow him because he did not want to admit the need. A litter has been offered.
 
-3. **Echoes of the Past** — Something from Llénar's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Rats Before Winter** — Rats have come into the herb-lofts of Silvain in numbers Llénar has never seen, weeks before the first snow. He is beginning to think the rats did not come on their own.
 
-4. **Shifting Winds** — Political changes in Élavendre threaten to upend the social order that Llénar depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Llénar the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **The Apprentice Who Watches** — A young man has come to Silvain asking to learn the trade from Llénar, and learns it well. He also asks a great many questions about the village, and Silvain is careful about questions.

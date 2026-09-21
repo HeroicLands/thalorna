@@ -549,54 +549,50 @@ sohl:
 
 # Appearance {#appearance}
 
-Cuthbert Sherwin is a 52-year-old man who stands 5'11" tall and is broad and solidly built. He has a long face with wide-set cheekbones, a smooth forehead, and a narrow jaw that leads to a delicate chin. His bright green eyes sit beneath arched brows, lending him a lively gaze. A rounded nose and wide lips complete his features. He has fair skin with a fair complexion. His dark blonde hair is falling in loose waves.
+Cuthbert Sherwin is a 52-year-old man who stands 5'11" tall and is broad and solidly built. He has a long face with wide-set cheekbones, a smooth forehead, and a narrow jaw that leads to a delicate chin. His bright green eyes sit beneath arched brows and give him a lively gaze. He has a rounded nose and wide lips. He has fair skin with a fair complexion. His dark blonde hair is falling in loose waves.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Cuthbert Sherwin came into the world of the woodcutter through a combination of circumstance and aptitude.
+Cuthbert Sherwin is a woodcutter of Thornbury, the harbour seat of the Republic of Tarvenne in [[place-aelwyth|Aelwyth]], an Aelwythan freeman who has cut timber in the woods behind the town for thirty-five years and planted more trees than he has felled.
 
-Cuthbert is a veteran woodcutter who has spent decades working in the forests. Known for his strength and resilience, he is often the first to volunteer for the toughest jobs. Cuthbert enjoys teaching younger woodcutters the skills needed to survive in the woods, though he can be stubborn about using traditional methods and is wary of new tools. He is a firm believer in sustainable forestry and takes care to replant trees.
+The harbour at Thornbury is the busiest thing in the republic, and its carrying trade eats timber: hulls, masts, wharf-piling, warehouse frames. Cuthbert has supplied it since he was a boy, working the oak and ash on the slopes above the town, first for his father's crew and then for his own. He replants every stand he clears with saplings from his own nursery, on the reasoning that his father's wood fed him and his own should feed somebody, and he will not use the two-man saws that came in from Vylaria a decade ago, which are faster, more dangerous, and leave a stump that will not coppice. Half the younger cutters in Thornbury learned their axe from him, and most of them have since bought a saw, which he takes personally.
 
-Now at 52 years of age, Cuthbert Sherwin has established himself as a known figure among the woodcutters of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
+He is a known figure among the woodcutters of Aelwyth, the old man with the saplings.
 
 ## Psyche
 
 ### Personality
 
-Resistant to new methods, sometimes overly cautious about tree selection.
+Cuthbert is cheerful, stubborn and set in his methods, and slower than he used to be to admit it.
 
 ### Motivation
 
-Cuthbert is driven by the desire to master his craft and secure a stable future. The uncertainties of life in woodcutter work keep him vigilant and adaptable.
+Cuthbert wants the woods behind Thornbury standing for the next man, because somebody left them standing for him. He wants the young cutters to learn the axe and the reasons before they learn the saw.
 
 ### Strengths
 
-Experienced, physically strong, resilient, committed to sustainable practices.
+Experienced, physically strong, resilient, committed to keeping the woods in growth.
 
 ## Social
 
-Cuthbert is affiliated with Woodcutters' Guild.
-
-As a Aelwythan woodcutter, Cuthbert occupies a recognized social niche within Aelwyth society.
+Cuthbert is a member of the Woodcutters' Guild of Thornbury and has been its warden twice.
 
 ## Companions
 
 ### Patrons
 
-Cuthbert's primary patron is Local carpenters and environmental groups who appreciate his sustainable approach.. This relationship provides both opportunity and obligation.
+Cuthbert's patrons are the shipwrights and wharf-builders of Thornbury harbour, who pay a little over the rate for Sherwin oak because it is seasoned honestly and comes from a wood that will still be there for the next keel.
 
 ### Enemies
 
-Few, though some modern woodcutters find him old-fashioned.
+The cutting crews that work by contract for the senators' timber-factors, who clear a wood in a season with the Vylarian saws and move to the next.
 
 ## Plot Hooks
 
-1. **The Woodcutter's Dilemma** — Cuthbert faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
+1. **The Senator's Wood** — A senator has bought the slope Cuthbert has worked and replanted for twenty years and let it to a contract crew to clear for the harbour. The saplings are his by nobody's law but his own.
 
-2. **Old Grudges** — Few, though some modern woodcutters find him old-fashioned. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Boy and the Saw** — One of the young cutters Cuthbert trained has lost a hand to a Vylarian saw on a contract crew, and the crew's master says the boy was careless. Cuthbert says the saw was, and the guild has been asked to rule.
 
-3. **Echoes of the Past** — Something from Cuthbert's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Planting on Another Man's Ground** — Cuthbert has been setting saplings for years on a cleared slope that belongs to a family in the senate, without asking. The family has noticed.
 
-4. **Shifting Winds** — Political changes in Aelwyth threaten to upend the social order that Cuthbert depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Cuthbert the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **The Guild Vote** — The Woodcutters' Guild is to vote on admitting the two-man saw to its standard, which would let the contract crews take guild apprentices. Cuthbert is the senior man against it.

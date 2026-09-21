@@ -553,54 +553,50 @@ sohl:
 
 # Appearance {#appearance}
 
-Oswald Dunwell is a 33-year-old man who stands 6'0" tall and is of moderate build. He has a long face with sharp cheekbones, a high forehead, and a narrow jaw that leads to a rounded chin. His wide-set gray eyes sit beneath expressive brows, lending him an open gaze. A straight nose and firm lips complete his features. He has pale skin with a weathered complexion. His blonde hair is short and swept back.
+Oswald Dunwell is a 33-year-old man who stands 6'0" tall and is of moderate build. He has a long face with sharp cheekbones, a high forehead, and a narrow jaw that leads to a rounded chin. His wide-set gray eyes sit beneath expressive brows and give him an open gaze. He has a straight nose and firm lips. He has pale skin with a weathered complexion. His blonde hair is short and swept back.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Oswald Dunwell came into the world of the nobility (manor lord) through a combination of circumstance and aptitude.
+Oswald Dunwell is the lord of a small manor at Kingshollow, in the Aldorath country of [[place-aelwyth|Aelwyth]], an Aelwythan of minor gentry whose family has held the same few hundred acres beside the royal forest for six generations.
 
-Sir Cedric is a minor noble who oversees his family's lands and is known for his dedication to improving agricultural practices in his region. He frequently hosts events to educate local farmers on innovative techniques and sustainable farming. Cedric is respected for his practical approach to leadership and his commitment to the welfare of his tenants. His focus on agriculture often leads him to clash with other nobles who prioritize trade and industry.
+Oswald holds land in the fold of country below the old royal seat, bounded on its upper side by the king's wood, which his tenants may not graze, may not cut and may not take a hare from. He inherited at twenty-five and has spent the years since on the land itself: draining the lower meadow, bringing in a rotation he read of in a Vylarian treatise. His tenants eat better than they did under his father. His neighbours among the gentry are less impressed: a lord who walks his own furrows is lowering himself, and a lord who speaks up for his tenants at the forest court is a nuisance to the crown's foresters, whose goodwill the whole valley depends on.
 
-Now at 33 years of age, Oswald Dunwell has established himself as a known figure among the nobility (manor lord)s of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
+He is a known figure among the manor lords of Aelwyth.
 
 ## Psyche
 
 ### Personality
 
-Can be overly idealistic, struggles with political maneuvering.
+Oswald is earnest, practical and easily out-manoeuvred; he assumes other men want what is good for the land and is regularly surprised.
 
 ### Motivation
 
-Oswald is driven by the desire to master his craft and secure a stable future. The uncertainties of life in nobility (manor lord) work keep him vigilant and adaptable.
+Oswald wants his tenants to prosper and his land to yield more each year than the last, and he holds that the two are the same thing.
 
 ### Strengths
 
-Knowledgeable about agriculture, pragmatic, respected leader.
+Knowledgeable about agriculture, pragmatic, trusted by his tenants.
 
 ## Social
 
-Oswald is affiliated with Local Agricultural Society.
-
-As a Aelwythan nobility (manor lord), Oswald occupies a recognized social niche within Aelwyth society.
+Oswald holds his manor of the Kingdom of Aldorath and owes suit at the forest court and hospitality to the royal household when it descends on Kingshollow.
 
 ## Companions
 
 ### Patrons
 
-Oswald's primary patron is Local farmers and merchants seeking fair trade.. This relationship provides both opportunity and obligation.
+Oswald's patrons are the crown's bailiff at Kingshollow, who finds him useful because his manor pays its dues, and his own tenantry, who are the nearest thing he has to a following.
 
 ### Enemies
 
-Few; respected but faces opposition from industrial-focused nobles.
+The crown's foresters, whom he has crossed at the forest court on a tenant's behalf more than once; and a handful of Aldorath gentry who find his farming undignified and his tenants insolent.
 
 ## Plot Hooks
 
-1. **The Nobility (Manor Lord)'s Dilemma** — Oswald faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
+1. **A Tenant Taken** — A tenant of Oswald's has been taken by the foresters with a deer on his back, and the forest court will have his hand for it. Oswald can speak for him and lose the foresters' goodwill for good, or say nothing and lose his tenants'.
 
-2. **Old Grudges** — Few; respected but faces opposition from industrial-focused nobles. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Descent** — The court is coming to Kingshollow for the midwinter feast, and the royal household expects the manors to provision it. What it expects from Oswald is most of his seed corn.
 
-3. **Echoes of the Past** — Something from Oswald's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **The Debt** — A neighbouring lord has quietly bought up the loans Oswald took to drain the meadow, and has called them in. The neighbour wants the land, not the money.
 
-4. **Shifting Winds** — Political changes in Aelwyth threaten to upend the social order that Oswald depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Oswald the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **The Rotation Fails** — The Vylarian rotation that Oswald pressed on his tenants for three years has failed in a wet season, and the manor is short. The gentry who mocked him are watching.

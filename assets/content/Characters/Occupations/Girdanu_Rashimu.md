@@ -552,54 +552,50 @@ sohl:
 
 # Appearance {#appearance}
 
-Girdanû Rashîmû is a 42-year-old man who stands 6'1" tall and is broad and solidly built. He has a diamond face with prominent cheekbones, a lined forehead, and an angular jaw that leads to a pointed chin. His narrow green eyes sit beneath prominent brows, lending him a keen gaze. A hawkish nose and full lips complete his features. He has warm-toned skin with a sun-kissed complexion. His gray hair is cropped short.
+Girdanû Rashîmû is a 42-year-old man who stands 6'1" tall and is broad and solidly built. He has a diamond face with prominent cheekbones, a lined forehead, and an angular jaw that leads to a pointed chin. His narrow green eyes sit beneath prominent brows and give him a sharp gaze. He has a hawkish nose and full lips. He has warm-toned skin with a sun-kissed complexion. His gray hair is cropped short.
 
 # Dossier {#dossier}
 
-Born in the [[place-haradregin|Harad]] region to a freeman family of Haradian heritage, Girdanû Rashîmû came into the world of the gladiator through a combination of circumstance and aptitude.
+Girdanû Rashîmû is a gladiator of Qadhirun, in [[place-haradregin|Harad]], a Haradian freeman who was sent to the arena as a convict and stayed in it as a free man.
 
-Girdanû began his career as a laborer in the city’s quarries, using his strength to break stone. After being accused of a crime he did not commit, he was sent to the arena as punishment. Girdanû proved to be a formidable fighter, and his natural strength helped him win numerous battles. Now a free man, he continues to fight in the arena for the money and respect it brings.
+Girdanû began as a labourer in the quarries above the port. At thirty, in the first year of the Confederation, he was accused of theft from the quarry-master's strongbox, a crime he did not commit, and a magistrate of the kind the new guild government was then appointing sentenced him to the arena. Instead his strength carried him through five years of fights, until the arena-master petitioned for his freedom because a champion earns more than a convict. He has fought as a free man since, for the purse and the crowd's regard, and he has not forgotten the name of the man who accused him.
 
-Now at 42 years of age, Girdanû Rashîmû has established himself as a known figure among the gladiators of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
+He is a known figure among the gladiators of Harad.
 
 ## Psyche
 
 ### Personality
 
-Slow due to his size, stubborn, struggles with finesse in combat.
+Girdanû is slow, stubborn and plain-spoken, and does not pretend to finesse he has not got. He has a convict's memory, and trusts almost nobody.
 
 ### Motivation
 
-Girdanû is driven by the desire to master his craft and secure a stable future. The uncertainties of life in gladiator work keep him vigilant and adaptable.
+Girdanû fights for the money and the respect that come with winning, because nothing else in Harad ever offered him either. Under that, he wants the charge that put him in the arena answered, and he knows who to ask.
 
 ### Strengths
 
-Incredibly strong, skilled in wielding heavy weapons, resilient.
+Strong, skilled with heavy weapons, hard to put down.
 
 ## Social
 
-Girdanû is affiliated with Gladiators' Guild.
-
-As a Haradian gladiator, Girdanû occupies a recognized social niche within Harad society.
+Girdanû belongs to the Gladiators' Guild of Qadhirun, which registers his fights and takes its share of every purse.
 
 ## Companions
 
 ### Patrons
 
-Girdanû's primary patron is Arena patrons who appreciate his raw power and spectacle.. This relationship provides both opportunity and obligation.
+Girdanû's patrons are the arena-master of Qadhirun, who bills him as the convict who would not die, and the guild houses that back him with their money on fight days.
 
 ### Enemies
 
-Some rival fighters and guards who still distrust him due to his past.
+Rival fighters who want his place on the bill; the quarry guards who had charge of him as a convict; and the quarry-master's clerk who accused him, now an officer of the customs house.
 
 ## Plot Hooks
 
-1. **The Gladiator's Dilemma** — Girdanû faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Harad.
+1. **The Man Who Accused Him** — The clerk whose word sent Girdanû to the arena has risen to a post in the customs house, and Girdanû has found out where he lives.
 
-2. **Old Grudges** — Some rival fighters and guards who still distrust him due to his past. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **A Fixed Fight** — A guild house has offered Girdanû more than a year's purses to lose to a young fighter they are building up. He has never lost on purpose, and he is forty-two.
 
-3. **Echoes of the Past** — Something from Girdanû's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **The Quarry Again** — A young quarryman has been accused the way Girdanû was and sentenced to the same sand. Girdanû is the only man in Qadhirun who has stood where the boy stands and walked out.
 
-4. **Shifting Winds** — Political changes in Harad threaten to upend the social order that Girdanû depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Girdanû the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **Retirement** — The arena-master has decided that Girdanû's draw is spent and means to end his run with a fight he cannot win. Girdanû has been told nothing, and the bill has been posted.

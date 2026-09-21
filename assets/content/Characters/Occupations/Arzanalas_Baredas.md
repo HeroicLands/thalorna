@@ -550,54 +550,50 @@ sohl:
 
 # Appearance {#appearance}
 
-Arzânalàs Bâredâs is a 54-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with broad cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His large dark brown eyes sit beneath arched brows, lending him an expressive gaze. A straight nose and wide lips complete his features. He has medium-toned skin with an olive-toned complexion. His gray hair is kept practical and short. A notable feature is crow's feet at the corners of sharp eyes.
+Arzânalàs Bâredâs is a 54-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with broad cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His large dark brown eyes sit beneath arched brows and give him an expressive gaze. He has a straight nose and wide lips. He has medium-toned skin with an olive-toned complexion. His gray hair is kept practical and short. A notable feature is crow's feet at the corners of sharp eyes.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Arzânalàs Bâredâs came into the world of the huscarl through a combination of circumstance and aptitude.
+Arzânalàs Bâredâs is a huscarl of Lord Halvar's household at Tyrellan, in the Moktur march of [[place-vylariargn|Vylaría]], a Vylarian freeman of the border who swore to the Halvar house at seventeen and has never served anyone else.
 
-Arzânalàs has dedicated his life to serving as a huscarl for Lord Halvar. With decades of experience, he is a seasoned warrior known for his exceptional skills in combat and strategy. Arzânalàs has fought in many battles, earning respect for his resilience and tactical mind. Now, he serves as a mentor to younger warriors, sharing his knowledge and experience to prepare them for the challenges ahead.
+In Moktur, the empire's northern shield, the border-lords keep households of sworn fighting men against the Varokh raids that come over the march every summer. Arzânalàs has been one of Lord Halvar's for thirty-seven years — a spearman, then a captain of the household, then, as his knees went, the man who trains the young ones. What he holds now is the training yard. The young men of the household learn the spear and the shield-line from him, and some of them are better than he ever was and he tells them so.
 
-Now at 54 years of age, Arzânalàs Bâredâs has established himself as a known figure among the huscarls of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
+He is a known figure among the huscarls of Vylaria.
 
 ## Psyche
 
 ### Personality
 
-Slow to adapt to new methods, struggles with physical demands of battle due to age.
+Arzânalàs is steady, plain and set in his ways; he learned to fight one way and teaches that way and regards the newer drill from the capital as a fashion.
 
 ### Motivation
 
-Arzânalàs is driven by the desire to master his craft and secure a stable future. The uncertainties of life in huscarl work keep him vigilant and adaptable.
+Arzânalàs wants the Halvar house to stand, because he swore it would, and he wants the men he trains to be fit to hold it after him.
 
 ### Strengths
 
-Highly experienced, excellent strategist, resilient.
+Highly experienced, a sound judge of ground and of men, hard to break.
 
 ## Social
 
-Arzânalàs is affiliated with Lord Halvar's retinue.
-
-As a Vylarian huscarl, Arzânalàs occupies a recognized social niche within Vylaria society.
+Arzânalàs belongs to Lord Halvar's retinue and has for his whole adult life.
 
 ## Companions
 
 ### Patrons
 
-Arzânalàs's primary patron is Lord Halvar and his family.. This relationship provides both opportunity and obligation.
+Arzânalàs's patrons are Lord Halvar and his family, whom he has served since boyhood. The lord keeps him out of gratitude and habit.
 
 ### Enemies
 
-Few; respected by peers and young warriors.
+The Varokh war-bands across the march, and Lord Halvar's eldest son, who wants younger captains and a household drilled the capital's way.
 
 ## Plot Hooks
 
-1. **The Huscarl's Dilemma** — Arzânalàs faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
+1. **The Heir** — Lord Halvar is failing, and his heir has let it be known that the old huscarl will be pensioned off to a farm the day the lord dies. The younger men have said, quietly, that they will go with him.
 
-2. **Old Grudges** — Few; respected by peers and young warriors. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Raid** — A Varokh band has come over the march in a bad summer with the household's best men away, and the only captain in Tyrellan is Arzânalàs, with a yard of boys he has trained and no knees.
 
-3. **Echoes of the Past** — Something from Arzânalàs's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **The Lord's Loyalty** — Lord Halvar has been dealing with a Varokh chief across the line in ways the capital would call treason and Moktur calls sense. Arzânalàs swore to the house, not to Magnápolis, and someone from the capital has come to ask him what he has seen.
 
-4. **Shifting Winds** — Political changes in Vylaria threaten to upend the social order that Arzânalàs depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Arzânalàs the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **The Pupil** — The best spearman Arzânalàs ever trained has come back to Tyrellan as captain of a rival lord's household, and the two houses are about to quarrel over a ford.

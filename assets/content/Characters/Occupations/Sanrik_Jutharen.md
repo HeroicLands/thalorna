@@ -555,54 +555,50 @@ sohl:
 
 # Appearance {#appearance}
 
-Sánrik Jútharen is a 52-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with broad cheekbones, a wide forehead, and an angular jaw that leads to a square chin. His hooded green eyes sit beneath straight brows, lending him a guarded gaze. An aquiline nose and narrow lips complete his features. He has medium-toned skin with a weathered complexion. His gray hair is shorn at the sides with length on top. A notable feature is sun-darkened skin on the arms and face.
+Sánrik Jútharen is a 52-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with broad cheekbones, a wide forehead, and an angular jaw that leads to a square chin. His hooded green eyes sit beneath straight brows and give him a guarded gaze. He has an aquiline nose and narrow lips. He has medium-toned skin with a weathered complexion. His gray hair is shorn at the sides with length on top. A notable feature is sun-darkened skin on the arms and face.
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Sánrik Jútharen came into the world of the glassworker through a combination of circumstance and aptitude.
+Sánrik Jútharen is a glassworker of Solárden, in [[place-tarvenirgn|Tarvénia]], a Tarvénan freeman who has blown bottles, jars and window-glass in the same furnace-house for more than thirty years.
 
-Sánrik has been crafting glass items for over thirty years, specializing in practical wares such as bottles, jars, and windows. He takes pride in his traditional techniques, preferring to use time-honored methods rather than experimenting with new styles. While Sánrik's work may lack the artistic flair of some younger glassworkers, it is valued for its quality and durability. He is a staunch defender of traditional craftsmanship.
+Sánrik was apprenticed at fourteen to a master who made plain ware for a fortified town that needed it — jars that seal, bottles that survive a cart, panes that keep the wind out of a garrison's windows — and he makes the same ware now, by the same methods, to the same standard. He has no interest in the coloured and figured glass that the younger masters of Solárden have begun to make in the Provenzian style for the merchants' houses. He speaks for the old standard in the guild, where he is respected as a master and regarded as a brake.
 
-Now at 52 years of age, Sánrik Jútharen has established himself as a known figure among the glassworkers of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
+He is a known figure among the glassworkers of Tarvénia.
 
 ## Psyche
 
 ### Personality
 
-Resistant to change, lacks creativity in his designs.
+Sánrik is dependable, taciturn and set against change, and has no patience for ornament in glass or in speech. He is aware his work is unfashionable and does not care, though he minds that his own apprentices think so.
 
 ### Motivation
 
-Sánrik is driven by the desire to master his craft and secure a stable future. The uncertainties of life in glassworker work keep him vigilant and adaptable.
+Sánrik wants to make glass that lasts and be paid fairly for it, and he wants the trade to keep the standard it had when he learned it.
 
 ### Strengths
 
-Highly skilled in traditional glassworking techniques, experienced, dependable.
+Highly skilled in traditional glassworking, experienced, dependable.
 
 ## Social
 
-Sánrik is affiliated with Glassworkers' Guild.
-
-As a Tarvénan glassworker, Sánrik occupies a recognized social niche within Tarvénia society.
+Sánrik is a master of the Glassworkers' Guild of Solárden and has sat on its bench for a decade.
 
 ## Companions
 
 ### Patrons
 
-Sánrik's primary patron is Local merchants and craftsmen who value his reliable wares.. This relationship provides both opportunity and obligation.
+Sánrik's patrons are the merchants, vintners and craftsmen of Solárden who need ware that holds; the wine trade above all.
 
 ### Enemies
 
-Younger glassworkers who see him as outdated.
+The younger masters of Solárden who make figured glass for the merchants' houses, and one in particular, trained in Provènzia, who has begun to take the commissions Sánrik used to hold and to call his work peasant ware.
 
 ## Plot Hooks
 
-1. **The Glassworker's Dilemma** — Sánrik faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
+1. **A New Standard** — The guild bench is to vote on admitting figured glass to the master's examination, which Sánrik holds would make masters of men who cannot blow a sound jar. He will lose unless he can bring two members to his side, and he has never in his life canvassed anyone.
 
-2. **Old Grudges** — Younger glassworkers who see him as outdated. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Commission He Doubts** — A merchant house has commissioned a great figured window from the Provenzian-trained master and asked Sánrik, as the senior man, to certify the glass. He does not think it will hold a winter.
 
-3. **Echoes of the Past** — Something from Sánrik's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **The Apprentice Leaves** — Sánrik's best apprentice has asked to finish his years under the rival master, to learn the figured work. Sánrik can release him and lose the last hands trained his way, or refuse and lose him anyway.
 
-4. **Shifting Winds** — Political changes in Tarvénia threaten to upend the social order that Sánrik depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Sánrik the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **The Ash** — The good beech ash that Sánrik's glass depends on has stopped coming down from the hills, because the man who burned it is dead and his sons have sold the wood. Without it he can make the rival's glass or none.
