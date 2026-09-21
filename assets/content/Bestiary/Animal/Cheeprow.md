@@ -350,11 +350,11 @@ The Cheeprow appears to be a small, harmless creature—a living mascot barely t
 
 ## Presentation
 
-A round, fluffy creature approximately ten inches tall and six inches across, covered entirely in soft, dun-colored fur ranging from pale tan to warm gray. The body is stout and compact, supported by four short, stubby legs that allow hopping movement. The head is disproportionately large and almost perfectly spherical, dominated by enormous dark eyes that comprise nearly a quarter of the face’s surface area—these eyes are bright, shiny, and convey an impression of innocent curiosity. The small, round beak is used for feeding and for producing the characteristic chirping vocalizations. Beneath the deceptively cuddly exterior lie sharp claws on the forelimbs and sharp teeth designed for tearing meat. The fur provides excellent camouflage in grassland and scrub environments. Individual Cheeprows are indistinguishable from one another, and their responses to one another are governed by complex pheromone communication.
+A round, fluffy creature approximately ten inches tall and six inches across, covered entirely in soft, dun-colored fur ranging from pale tan to warm gray. The body is stout and compact, supported by four short, stubby legs that allow hopping movement. The head is disproportionately large and almost perfectly spherical, dominated by enormous dark eyes that comprise nearly a quarter of the face’s surface area—these eyes are bright, shiny, and convey an impression of innocent curiosity. The small, round beak is used for feeding and for producing the characteristic chirping vocalizations. The cuddly exterior hides sharp claws on the forelimbs and sharp teeth made for tearing meat. The fur provides excellent camouflage in grassland and scrub environments. Individual Cheeprows are indistinguishable from one another, and their responses to one another are governed by complex pheromone communication.
 
 ## Key Behaviors
 
-Cheeprows are colonial creatures, nesting in burrow systems containing dozens to hundreds of individuals. They are most active at dawn and dusk, foraging for insects, small animals, and roots. Individual Cheeprows separated from their nest become anxious and attempt to locate their group, chirping continuously to communicate. A single Cheeprow exploring a human camp is investigating for food and shiny objects—the creatures are attracted to reflective materials, possibly because such reflections mimic water sources or other shiny-eyed creatures. When a Cheeprow discovers something of interest, its chirp changes in pitch and pattern, communicating the discovery to nearby Cheeprows. This chirp triggers a cascade effect: other individuals are drawn to the location and repeat the discovery chirp, bringing more Cheeprows from increasing distances. Within minutes, dozens of creatures can gather in response to a single discovery. Once numbers are sufficient, the behavior shifts—the creatures become cooperative in a manner that suggests collective intelligence or pheromone-driven programming. They attack in coordinated waves, using tactics that suggest previous experience with prey defense mechanisms.
+Cheeprows are colonial creatures, nesting in burrow systems containing dozens to hundreds of individuals. They are most active at dawn and dusk, foraging for insects, small animals, and roots. Individual Cheeprows separated from their nest become anxious and attempt to locate their group, chirping continuously to communicate. A single Cheeprow exploring a human camp is investigating for food and shiny objects—the creatures are attracted to reflective materials, possibly because such reflections mimic water sources or other shiny-eyed creatures. When a Cheeprow discovers something of interest, its chirp changes in pitch and pattern, communicating the discovery to nearby Cheeprows. This chirp triggers a cascade effect: other individuals are drawn to the location and repeat the discovery chirp, bringing more Cheeprows from increasing distances. Within minutes, dozens of creatures can gather in response to a single discovery. Once numbers are sufficient, the behavior shifts—the creatures cooperate in a manner that suggests a shared intelligence or a pheromone-driven instinct. They attack in coordinated waves, using tactics that suggest previous experience of how prey defends itself.
 
 ## Combat Strategy
 
@@ -364,7 +364,7 @@ A solitary Cheeprow will not attack a human. If threatened or grabbed, it will s
 
 ### Claw Grip and Bite
 
-Multiple Cheeprows will grab a single target simultaneously, their claws latching onto clothing, pack straps, or skin. Once secured, they bite with surprising force, tearing flesh and puncturing skin. The cumulative effect of dozens of small bites and cuts can cause significant blood loss and create numerous infection vectors. The creatures will continue biting and tearing until the target is immobilized or the Cheeprows are physically removed.
+Multiple Cheeprows will grab a single target simultaneously, their claws latching onto clothing, pack straps, or skin. Once secured, they bite with surprising force, tearing flesh and puncturing skin. Dozens of small bites and cuts together can cause significant blood loss and leave many wounds open to infection. The creatures will continue biting and tearing until the target is immobilized or the Cheeprows are physically removed.
 
 ### Coordinated Swarming
 
@@ -372,17 +372,17 @@ As the pack’s numbers increase, individual Cheeprows coordinate attacks, attac
 
 ### Distraction and Overwhelming
 
-Cheeprows will focus attacks on creating opportunities for additional Cheeprows to inflict damage. A creature focused on defending against one attack vector is vulnerable to attacks from others. The small size of each individual creature makes them difficult to target effectively, even with area-effect weapons or magic.
+Cheeprows will focus attacks on creating opportunities for additional Cheeprows to inflict damage. A creature busy defending against one line of attack is open to attack from others. The small size of each creature makes them difficult to strike, even with magic or weapons that sweep an area.
 
 ## Special Abilities
 
 ### Deceptive Appearance and Pack Mentality
 
-Individual Cheeprows present as harmless, cute animals that inspire protection rather than caution. This deception allows them to gather in numbers unmolested. Once sufficient numbers are present, they operate as a unified organism, communicating through chirps and pheromones. The coordination displayed by large packs suggests either collective intelligence or sophisticated instinctive programming—the mechanism is not fully understood.
+Individual Cheeprows present as harmless, cute animals that inspire protection rather than caution. This deception allows them to gather in numbers unmolested. Once sufficient numbers are present, they operate as a unified organism, communicating through chirps and pheromones. The coordination displayed by large packs suggests either a shared intelligence or an elaborate instinct—the mechanism is not fully understood.
 
 ### Rapid Summoning and Escalation
 
-When threatened, a Cheeprow emits a wailing cry that travels considerable distance and triggers immediate response from the entire pack. Even Cheeprows a half-mile away will begin moving toward the sound. This allows the pack to rapidly concentrate force against any threat. Additionally, the act of attacking a single Cheeprow triggers immediate and severe response from all nearby individuals.
+When threatened, a Cheeprow emits a wailing cry that travels considerable distance and triggers immediate response from the entire pack. Even Cheeprows a half-mile away will begin moving toward the sound. This allows the pack to rapidly concentrate force against any threat, and attacking a single Cheeprow triggers an immediate and severe response from all nearby individuals.
 
 ### Small Size and Agility
 
@@ -390,7 +390,7 @@ Cheeprows are small and agile enough to evade most targeted attacks. They can sq
 
 ### Resistance to Pain and Relentless Aggression
 
-Once the pack reaches critical mass, individual Cheeprows display apparent indifference to injury. A Cheeprow with a fatal wound will continue attacking. This suggests either a different pain response than mammals or hormonal/chemical enhancement of aggression during pack hunting. Multiple injuries do not dissuade the creatures—they continue attacking until physically incapable of movement.
+Once the pack reaches critical mass, individual Cheeprows display apparent indifference to injury. A Cheeprow with a fatal wound will continue attacking. This suggests either a different response to pain than mammals have, or something in the blood that heightens aggression during pack hunting. Multiple injuries do not dissuade the creatures—they continue attacking until physically incapable of movement.
 
 ## Attributes
 

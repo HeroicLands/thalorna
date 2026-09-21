@@ -331,11 +331,11 @@ sohl:
 
 ![[nghtwrth|Nightwraith]]{float: top-left}
 
-The darkness above you ripples with motion—a shadow that moves against the shadows themselves. Then you hear it: not the flap of wings but something worse, a wet, clicking chirp that seems to come from everywhere at once. The temperature plummets as an enormous winged shape passes overhead, blocking out even the starlight, and you catch the reek of blood and cave-rot. Two points of sickly crimson luminescence fixate on you from above—eyes that see you more clearly in utter darkness than you can see in daylight. Fangs the length of fingers curve downward, and you hear the thrash of leathery wings as the creature wheels for another pass, and the sound of its hunger is a thousand screaming voices condensed into a single, dripping maw.
+The darkness above you ripples with motion—a shadow that moves against the shadows themselves. Then comes a sound—not the flap of wings but a wet, clicking chirp that seems to come from everywhere at once. The temperature plummets as an enormous winged shape passes overhead, blocking out even the starlight, and you catch the reek of blood and cave-rot. Two points of sickly crimson luminescence fixate on you from above—eyes that see you more clearly in utter darkness than you can see in daylight. Fangs the length of fingers curve downward, and you hear the thrash of leathery wings as the creature wheels for another pass.
 
 # Dossier {#dossier}
 
-Nightwraiths are apex predators of the darkness, corrupted giant bats whose forms have been twisted by magical or infernal forces into weapons of terrible efficiency. They roam the night skies, deep cave systems, and the spaces below ground where no natural light reaches, hunting with ruthless precision. Unlike their natural ancestors, Nightwraiths possess an intelligence that borders on cunning, and they seem to take pleasure in the hunt itself rather than merely feeding. They are said to gather in large roosts in caverns of particular depth or remoteness, and traveling merchants have learned to fear the arrival of dusk and the sound of their chittering calls.
+Nightwraiths are apex predators of the darkness, corrupted giant bats whose forms have been twisted by magical or infernal forces into killers of terrible economy. They roam the night skies, deep cave systems, and the spaces below ground where no natural light reaches, hunting with ruthless precision. Unlike their natural ancestors, Nightwraiths possess an intelligence that borders on cunning, and they seem to take pleasure in the hunt itself, beyond the feeding. They are said to gather in large roosts in caverns of particular depth or remoteness, and traveling merchants have learned to fear the arrival of dusk and the sound of their chittering calls.
 
 ## Presentation
 
@@ -357,11 +357,11 @@ The Nightwraith dives from above, attempting to drive its elongated fangs into e
 
 ### Raking Talons
 
-The creature’s claws are nearly as formidable as its fangs, used to rake prey during aerial passes or to hold a victim immobile while it feeds.
+The creature’s claws are nearly as dangerous as its fangs, used to rake prey during aerial passes or to hold a victim immobile while it feeds.
 
 ### Sonic Screech
 
-The Nightwraith’s ultrasonic vocalizations can be focused into a devastating assault that disorients and dazes all creatures in a cone before it, disrupting spellcasting and balance alike.
+The Nightwraith’s ultrasonic vocalizations can be focused into a devastating assault that disorients and dazes every creature in front of it, disrupting spellcasting and balance alike.
 
 ## Special Abilities
 
@@ -371,7 +371,7 @@ The Nightwraith navigates and hunts with perfect precision in complete darkness,
 
 ### Nocturnal Predation
 
-In darkness or low light, the Nightwraith’s movement and attacks are enhanced, and its perceptiveness is magnified. Creatures attempting to track or target it in darkness suffer significant disadvantage.
+In darkness or low light, the Nightwraith’s movement and attacks are enhanced, and its perceptiveness is magnified. Creatures trying to track or strike it in darkness find it very hard to do so.
 
 ### Blood Hunger
 

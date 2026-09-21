@@ -479,15 +479,15 @@ You round the outcropping of rust-colored stone and freeze. The heat hits you fi
 
 The young dragon is smaller than the legends promised, but the word _smaller_ holds no comfort as it shifts on the canyon ledge. Sixteen feet of coiled muscle and fury, with a wingspan that could eclipse the sun if it stretched. Its scales catch the light like hammered copper and burnished gold, each one overlapping in a pattern that speaks of restless youth and boundless aggression. A thin column of smoke rises from its nostrils, curling into pale ribbons.
 
-It hasn't seen you yet. But it will. It _will_.
+It hasn't seen you yet, but it will.
 
-The creature's movements are sharp, almost twitchy—the energy of adolescence barely contained in a body designed for destruction. It paces the ledge like a caged beast, claws scoring deep grooves in stone that should be impervious. Every motion radiates hunger: hunger for territory, for gold, for glory, for the chance to prove it can burn down anything that challenges its dominance. This is no cunning ancient wyrm waiting in its lair. This is a killer still learning the full depth of its power, and that makes it more dangerous, not less. It has everything to prove and nothing to lose.
+The creature's movements are sharp, almost twitchy—the energy of adolescence barely contained in a body designed for destruction. It paces the ledge like a caged beast, claws scoring deep grooves in stone that should be impervious. Every motion radiates hunger: hunger for territory, for gold, for glory, for the chance to prove it can burn down anything that challenges its dominance. This is no cunning ancient wyrm waiting in its lair; it is a killer still learning the full depth of its power, with everything to prove and nothing to lose.
 
-The dragon's head snaps toward a distant sound—a rockslide perhaps, or a frightened animal. It launches from the ledge with a roar that scorches the air, and you understand, with sickening clarity, that there are moments when the world remakes itself around the existence of something this primal.
+The dragon's head snaps toward a distant sound—a rockslide perhaps, or a frightened animal. It launches from the ledge with a roar that scorches the air, and the whole canyon seems to shrink around it.
 
 # Dossier {#dossier}
 
-The Young Fire Dragon represents the dragon at its most volatile and aggressive stage of development. Roughly a century old, it has only recently claimed territory and begun building its hoard. Lacking the sophisticated cruelty of an ancient wyrm, the young dragon kills with straightforward ferocity and territorial rage. It has survived the vulnerable years when larger predators hunted it, and now it hungers to establish itself as an apex threat.
+The Young Fire Dragon represents the dragon at its most volatile and aggressive stage of development. Roughly a century old, it has only recently claimed territory and begun building its hoard. Lacking the refined cruelty of an ancient wyrm, the young dragon kills with straightforward ferocity and territorial rage. It has survived the vulnerable years when larger predators hunted it, and now it hungers to establish itself as an apex threat.
 
 Young fire dragons are known for their impetuous nature. They attack without strategy—mostly. They communicate through roars, ground tremors, and the scent of sulfur. They remember who wronged them and actively pursue revenge against intruders. A young dragon that has been wounded or had its hoard disturbed will hunt down those responsible with single-minded fury.
 
@@ -533,17 +533,17 @@ The dragon rakes with both front claws in a blurring combination, capable of shr
 
 ### Tail Sweep
 
-The dragon whips its tail in a wide arc, using the appendage as both a weapon and an area-denial tool. This attack can knock smaller creatures prone or off balance, creating opening for other attacks.
+The dragon whips its tail in a wide arc, using it both to strike and to keep enemies at bay. This attack can knock smaller creatures down or off balance, creating opening for other attacks.
 
 ### Fire Breath
 
-The dragon exhales a 15-foot cone of roiling flame. The fire ignites combustibles instantly and causes severe thermal damage to all caught in its path. The young dragon can use this ability multiple times before fatiguing, though each use drains its reserves.
+The dragon exhales a spreading gout of roiling flame that reaches 15 feet. The fire ignites combustibles instantly and severely burns all caught in its path. The young dragon can use this ability multiple times before fatiguing, though each use drains its reserves.
 
 ## Special Abilities
 
 ### Fire Breath
 
-The young dragon can exhale a 15-foot cone of intense flame as an action. Creatures caught in the area of effect suffer severe thermal damage. The dragon can use this ability three times before requiring rest, though it may push itself to use it more frequently at the cost of temporary exhaustion.
+The young dragon's flame reaches 15 feet in a spreading gout. Creatures caught in it are severely burned. The dragon can use this ability three times before requiring rest, though it may push itself to use it more frequently at the cost of temporary exhaustion.
 
 ### Flight
 
@@ -551,7 +551,7 @@ With a wingspan of nearly 24 feet, the young dragon is a powerful flier capable 
 
 ### Armored Scales
 
-The dragon's scales provide substantial protection against physical damage. Conventional weapons struggle to penetrate deeply; magical weapons or sustained focused attacks are required to cause significant injury.
+The dragon's scales turn most blows. Ordinary weapons struggle to penetrate deeply; magical weapons or sustained focused attacks are required to cause significant injury.
 
 ### Heat Aura
 

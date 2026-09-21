@@ -291,7 +291,7 @@ A constellation walks across the ground. At first you think it must be some tric
 
 # Dossier {#dossier}
 
-Starcrawlers are celestial beings touched by the distant stars themselves, perhaps fragments of stellar essence given flesh. They are rare and strange, appearing in places where the boundary between earth and sky grows thin. Some are guardians of ancient sites; others seem to wander with no particular purpose. They are not aggressive by nature, but they are utterly alien in their priorities and values. A Starcrawler may protect a human one moment and ignore a human's death the next, following logic that mortals cannot fathom.
+Starcrawlers are celestial beings touched by the distant stars themselves, perhaps fragments of stellar essence given flesh. They are rare and strange, appearing in places where the boundary between earth and sky grows thin. Some are guardians of ancient sites; others seem to wander with no particular purpose. They are not aggressive by nature, but their priorities and values are wholly alien. A Starcrawler may protect a human one moment and ignore a human's death the next, following logic that mortals cannot fathom.
 
 ## Presentation
 
@@ -299,7 +299,7 @@ A Starcrawler is roughly the size of a cat or small dog, with a segmented, insec
 
 ## Key Behaviors
 
-Starcrawlers are active almost exclusively at night and in deep shadow. In direct sunlight, they become noticeably lethargic and will seek shelter. They are drawn to high places—peaks, towers, tall trees—from which they seem to observe the sky and the landscape below. Some researchers believe they are observing something humans cannot perceive, tracking patterns in the stars or monitoring changes in the world. They seem to care little for normal food and survive on something that humans do not have access to—perhaps pure starlight or magical energy. They are not territorial but do not associate with their own kind; even multiple Starcrawlers in the same location ignore each other completely.
+Starcrawlers are active almost exclusively at night and in deep shadow. In direct sunlight, they become noticeably lethargic and will seek shelter. They are drawn to high places—peaks, towers, tall trees—from which they seem to observe the sky and the landscape below. They may be watching something humans cannot perceive, tracking patterns in the stars or changes in the world. They seem to care little for normal food and survive on something that humans do not have access to—perhaps pure starlight or magical energy. They are not territorial but do not associate with their own kind; even multiple Starcrawlers in the same location ignore each other completely.
 
 ## Combat Strategy
 
@@ -335,7 +335,7 @@ The creature is almost impossibly fast. It can dodge attacks that seem unavoidab
 
 ## Additional Information
 
-Starcrawlers are not natural creatures and do not breed in the normal sense. They appear to be singular entities, each unique and potentially ancient. Some scholars believe them to be fragments of dying stars given form by ancient magic. They are profoundly resistant to normal weapons and much more vulnerable to magic in general. Earth-based magic is most effective against them, possibly because earth magic is the antithesis of their celestial nature. Some sages have reported that Starcrawlers can be communicated with if approached correctly, though the communication is difficult and strange—the creature seems to perceive concepts that human language cannot express. A Starcrawler has never been known to attack humans unprovoked. Those who kill one report that its light extinguishes like a snuffed candle, and the body dissipates into nothing—neither corpse remains nor any evidence of its ever having existed.
+Starcrawlers are not natural creatures and do not breed in the normal sense. They appear to be singular entities, each unique and potentially ancient. They may be fragments of dying stars given form by ancient magic. They are highly resistant to normal weapons and much more vulnerable to magic in general. Earth-based magic is most effective against them, possibly because earth magic is the antithesis of their celestial nature. There are reports that Starcrawlers can be communicated with if approached correctly, though the communication is difficult and strange—the creature seems to perceive concepts that human language cannot express. A Starcrawler has never been known to attack humans unprovoked. Those who kill one report that its light extinguishes like a snuffed candle, and the body dissipates into nothing—neither corpse remains nor any evidence of its ever having existed.
 
 ## Attributes
 
