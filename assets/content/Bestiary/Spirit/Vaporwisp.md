@@ -189,7 +189,7 @@ Vaporwisps attempt to avoid direct confrontation when possible. If cornered or t
 
 ### Cold Touch
 
-The Vaporwisp extends mist that solidifies enough to touch, and the contact is profound cold that seems to penetrate beyond mere flesh into the spirit itself. Victims struck by this attack feel their strength and will diminishing, as though the creature is drawing warmth not just from their body but from their core essence.
+The Vaporwisp extends mist that solidifies enough to touch, and the contact is a deep cold that seems to penetrate beyond flesh into the spirit itself. Victims struck by this attack feel their strength and will diminishing, as though the creature is drawing warmth not just from their body but from their core essence.
 
 ### Mist Suffocation
 
@@ -211,7 +211,7 @@ The Vaporwisp can move partially out of synchronization with the material world,
 
 ### Chilling Aura
 
-The creature radiates profound cold that extends up to thirty feet in all directions. The ambient temperature drops noticeably, and prolonged exposure causes discomfort and fatigue. This effect is not instantaneous harm but rather the accumulated effect of unnatural cold.
+The creature radiates a deep cold that extends up to thirty feet in all directions. The ambient temperature drops noticeably, and prolonged exposure causes discomfort and fatigue. The harm is not immediate; it accumulates the longer the cold is endured.
 
 ### Life Drain
 
