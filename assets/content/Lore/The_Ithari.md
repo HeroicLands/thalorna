@@ -59,6 +59,28 @@ each opening is a smooth oval whose edge runs continuous with the wall around it
 anyone can describe and nobody mistakes, and at a distance it is what a traveller recognises before
 anything else.
 
+**And they open by dilating.** There is no leaf to swing, no panel to slide, no hinge, no pivot and no
+track. The substance itself widens: the oval opens from its centre outward, smoothly and in silence,
+and closes the same way. Nothing in the wall moves as a door moves — the wall opens, and then it is
+whole again, with no line left to show where the opening was.
+
+On Kalihara the custodians work them. Opening a structure is one of the tended procedures, learned in
+the same way as the rest and performed the same way, and it is the plainest case there is of knowing
+the how and not the why: an [[affiliation-tharivaan|Ithári'kaan]] can open a given structure reliably
+and cannot say what it is that opens.
+
+Everywhere else there is no procedure, and no rule anyone has found. Some works stand open, or open of
+their own accord as a person approaches. Some open for one person and not for the next, and nothing
+anyone has managed to identify is shared by the people they admit — not birth, not blood, not
+training, not intent, not the Aura. Some have never opened for anybody, and may not open at all. Every
+rule that has ever been claimed has failed for somebody else.
+
+What that means standing in front of one is worth being plain about. A party may find a way in at
+once, or be admitted one at a time while the rest wait outside, or be refused altogether; and what
+worked yesterday may do nothing today. There is no forcing the question either — nothing bites the
+substance, so no tool, no ram, no fire and no quantity of effort opens a work that is not opening. You
+are admitted or you are not.
+
 A work has the shape of a thing with an inside, not of a building with rooms. It does not resemble
 anything that ever grew on Thalorna either, so the resemblance to something living leads nowhere at
 all.
