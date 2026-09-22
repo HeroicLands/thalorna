@@ -6,8 +6,8 @@ name:
   full: Damut
   aliases:
     - Damutu
-    - Helthraal
-    - Helthraals
+    - Hélthrall
+    - Hélthralls
 description: "The driven one — the mindless undead that goes as it is driven: zombies, skeletons, mummies, and ghouls, animated by necromancy that binds soul-fragments to a corpse."
 shortcode: damut
 type: being

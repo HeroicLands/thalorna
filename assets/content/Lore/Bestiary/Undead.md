@@ -38,7 +38,7 @@ In Ta'Kheperu itself the words keep their temple spelling, _ṭerebu_ and _ḍum
 
 Every region has its own words for the dead that walk, and a scholar sets the learned term beside them rather than replacing them.
 
-- **The [[place-nrdlndsrgn|Nordlands]]** and the [[affiliation-asguardian|Asguardian]] faiths: _Helspawn_ for the undead as a class, from the goddess [[affiliation-hel|Hél]]; _nightwight_ for the tereb and _helthraal_ for the damut. The Faith of Hél's own liturgy calls its favored terebu _draugar_ and its damutu _haugbúar_.
+- **The [[place-nrdlndsrgn|Nordlands]]** and the [[affiliation-asguardian|Asguardian]] faiths: _Helspawn_ for the undead as a class, from the goddess [[affiliation-hel|Hél]]; _nightwight_ for the tereb and _hélthrall_ for the damut. The Faith of Hél's own liturgy calls its favored terebu _draugar_ and its damutu _haugbúar_.
 - **[[place-kchchkcntnnt|K'ich'chik]]**: the _Threshold-Held_, the terebu whose souls [[affiliation-pikultzumaq|Pik'ul Tz'umaq]] holds at the boundary of Xibalba.
 
 ## The Undead Hierarchy
