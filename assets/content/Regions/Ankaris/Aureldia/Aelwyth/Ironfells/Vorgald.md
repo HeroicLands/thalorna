@@ -53,7 +53,7 @@ and therefore the only place neither would be trusted to keep it alone.
 
 **It never arrived.** Six ships left [[place-elavendre|Élavendre]] and went off the water without
 wreckage, without survivors and without explanation, and Vorgald has been waiting for a delivery that is
-four thousand years overdue.
+three thousand years overdue.
 
 What the Khazári of this island make of that is not discussed. It is worth noting only that they were
 promised something by the Sinalë, did not receive it, were given no account of why — and that some
@@ -65,7 +65,7 @@ finish it alone.
 Aelwyth was once ruled by both elder races together, and it was not an ancient inheritance. It was an
 **attempt at repair**.
 
-[[lore-khazarturn|Khazártúrn]] fell in 2800 BF and the two peoples stopped speaking everywhere in the
+[[lore-khazarturn|Khazártúrn]] fell in 2427 BF and the two peoples stopped speaking everywhere in the
 world — except here. The Sinalë and Khazári of Aelwyth united the island under a **single crown**, held
 by a Sinalë king, and managed its affairs jointly for **six hundred years**. It is the only reconciliation
 either race has ever attempted, and the works of that period are still in the ground: roads that run where
@@ -81,7 +81,7 @@ left the Khazári to finish the war alone.
 They finished it. They have never forgiven it, and the two elder races of Aelwyth have had nothing to do
 with one another since.
 
-For the Khazári of this hold it was the second abandonment in eighteen hundred years — and the second, unlike
+For the Khazári of this hold it was the second abandonment in fourteen hundred years — and the second, unlike
 the first, came after six centuries of being assured there would not be another.
 
 ## The Humans
@@ -125,7 +125,7 @@ this hold for millennia and know the Deep Folk better than any humans alive, are
 older and more particular than territory.
 
 The reason is recorded, and it is not a secret so much as a thing the Deep Folk do not raise with
-outsiders. In **2800 BF** a Sinalë outlaw wielding the [[miscgear-secondvoice|Second Voice]] took tens of
+outsiders. In **2427 BF** a Sinalë outlaw wielding the [[miscgear-secondvoice|Second Voice]] took tens of
 thousands of Grukar from their spawners and destroyed **[[lore-khazarturn|Khazártúrn]]**, the greatest
 city the Khazári ever built. Every hold since has kept the account in its working archive and reads it,
 so a Khazár of Vorgald who has never seen a Grukar knows precisely what one is before it is in front of
