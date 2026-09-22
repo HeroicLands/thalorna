@@ -170,6 +170,15 @@ Yet religious conservatism has resulted in Classical Kheperi being actively rein
 4. **Neb mehet aru kheper** — _Mercantile oath; "The lord's goods shall prosper"_
 5. **Shemsu setem** — _Sacred command; "Let the followers hear" (used to introduce proclamations)_
 
+## Learned Vocabulary
+
+Two Kheperi words are the learned world's names for the undead, taken from the funerary texts of [[affiliation-empirtkhpr|Ta'Kheperu]] by every scholarly tradition that copied them; see [[lore-helspawncrtr|Undead]] for their use.
+
+- **ṭerebu** — root _ṭ-r-b_, to wear, to cloak: _the cloaked one_, the sentient undead ([[being-nghtwght|tereb]]). Invariant in number: one _ṭerebu_, many _ṭerebu_.
+- **ḍumaṭu** — root _ḍ-m-ṭ_, to drive, to goad: _the driven one_, the mindless undead ([[being-hlthrls|damut]]). Invariant in number: one _ḍumaṭu_, many _ḍumaṭu_.
+
+The temple form is the word as Kheperi speak and write it, emphatics and all. _Tereb_ and _damut_ are what the rest of the world made of it: the international plural, _terebu_ and _damutu_, is the temple word heard without its emphatics, and the international singular, _tereb_ ("TEH-reb") and _damut_ ("dah-MOOT"), is a back-formation from that plural. A Kheperi priest says _ṭerebu_ for one and for many; a Vylarian physician says _tereb_ and _terebu_.
+
 ## Related Languages
 
 Kheperi remains an isolate, yet areal contacts have created zones of lexical and structural influence:

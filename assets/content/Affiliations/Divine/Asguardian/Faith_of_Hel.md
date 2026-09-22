@@ -148,7 +148,7 @@ She is often depicted as a ghastly figure, her eyes burning with a baleful light
 **High Ceremonies:**
 
 - **The Rite of Eternal Darkness:** A secret ceremony performed by the clergy to beseech power from the Eye of the Void, deepening their connection to Hél.
-- **The Binding of Souls:** A ritual where high-ranking clergy create Helspawn by sacrificing folk victims to serve Hél in the afterlife.
+- **The Binding of Souls:** A ritual where high-ranking clergy create Helspawn — the [[lore-helspawncrtr|undead]] — by sacrificing folk victims to serve Hél in the afterlife.
 
 **Festivals:**
 

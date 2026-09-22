@@ -151,7 +151,7 @@ The combat doctrine is heavy-weapon focused — the two-handed hammer, the short
 
 - **Coastal defense.** Standing arrangements with most major Nordland coastal settlements provide for the dispatch of Speakers to towns under raiding threat. The arrangements are renewed annually and have substantially reduced raiding losses where they are in force.
 - **Storm interpretation.** Speakers are routinely consulted by shipowners, captains, and the [[affiliation-skaldscrcl|Skalds' Circle]] on weather questions. The order does not charge for this consultation, but the practical reciprocity it generates is significant.
-- **Defense against chaos incursions.** The order regards Helspawn incursions, Black Flame infiltrations, and the rarer outright cosmological breaches as falling within Thórr's defensive mandate. When such an incursion is identified, the relevant Storm-Captain will typically commit a unit of Speakers without waiting for the Voice of the Hammer's authorization.
+- **Defense against chaos incursions.** The order regards Helspawn ([[lore-helspawncrtr|undead]]) incursions, Black Flame infiltrations, and the rarer outright cosmological breaches as falling within Thórr's defensive mandate. When such an incursion is identified, the relevant Storm-Captain will typically commit a unit of Speakers without waiting for the Voice of the Hammer's authorization.
 - **Training and instruction.** Aspirant training at Thrumufjall is famously rigorous and conducted in all weather.
 
 ## Relations

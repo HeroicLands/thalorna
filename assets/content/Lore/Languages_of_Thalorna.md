@@ -44,12 +44,12 @@ This note maps the languages spoken across [[place-worldthlrn|Thalorna]], the po
 
 ## Xerathia
 
-| Language     | Spoken In                                          | Reference                              | Notes                                                                                                                       |
-| ------------ | -------------------------------------------------- | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| **Kheperi**  | [[affiliation-empirtkhpr\|Ta.Kheperu]]             | [[skill-kheperlng\|Kheperi Language]]  | The ancient tongue of the southern empire. Hieroglyphic and demotic scripts. Deeply tied to religious and magical practice. |
-| **Bethuan**  | [[affiliation-mtrrchybth\|Matriarchy of Bethua]]   | [[skill-bethunlng\|Bethuan Language]]  | Related to Helonic through ancient migration. Distinct feminine and masculine registers in the grammar.                     |
-| **Okháric**  | [[affiliation-okharis\|Kingdom of Okháris]]        | [[skill-okharclng\|Okharic Language]]  | The language of the three city-states. Religious texts are in a sacred archaic form.                                        |
-| **Nyáluban** | [[affiliation-nylbtrblntn\|Nyáluba Tribal Nation]] | [[skill-nyalbnlng\|Nyaluban Language]] | The language of the southern tribal nation. Oral tradition with drum-and-tone communication over distances.                 |
+| Language     | Spoken In                                          | Reference                              | Notes                                                                                                                                                                                                                                               |
+| ------------ | -------------------------------------------------- | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Kheperi**  | [[affiliation-empirtkhpr\|Ta.Kheperu]]             | [[skill-kheperlng\|Kheperi Language]]  | The ancient tongue of the southern empire. Hieroglyphic and demotic scripts. Deeply tied to religious and magical practice. Its funerary vocabulary is the learned world's: _tereb_ and _damut_ for the two kinds of [[lore-helspawncrtr\|undead]]. |
+| **Bethuan**  | [[affiliation-mtrrchybth\|Matriarchy of Bethua]]   | [[skill-bethunlng\|Bethuan Language]]  | Related to Helonic through ancient migration. Distinct feminine and masculine registers in the grammar.                                                                                                                                             |
+| **Okháric**  | [[affiliation-okharis\|Kingdom of Okháris]]        | [[skill-okharclng\|Okharic Language]]  | The language of the three city-states. Religious texts are in a sacred archaic form.                                                                                                                                                                |
+| **Nyáluban** | [[affiliation-nylbtrblntn\|Nyáluba Tribal Nation]] | [[skill-nyalbnlng\|Nyaluban Language]] | The language of the southern tribal nation. Oral tradition with drum-and-tone communication over distances.                                                                                                                                         |
 
 ## K'ich'chik
 

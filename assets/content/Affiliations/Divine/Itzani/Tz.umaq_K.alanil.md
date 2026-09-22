@@ -91,7 +91,7 @@ data:
       Reckoner of the Failed: >-
         Holds the count of souls the movement says Xibalba has consumed, and the argument built
         on it.
-      Shepherd of the Helthraal: >-
+      Shepherd of the Damut: >-
         Takes charge of the returned once nothing recognisable remains, and directs what they
         are turned loose upon.
       Watcher: >-
@@ -127,11 +127,11 @@ What [[affiliation-pikultzumaq|Pik'ul Tz'umaq]] gave them was not merely theolog
 
 This is what makes the Serpent Awakeners genuinely dangerous rather than merely frightening. Their theology is internally coherent. A thinking person who examines their arguments — especially one who has lost someone and been told their soul is safely navigating the underworld — might find them disturbingly persuasive. The orthodox priesthood cannot simply dismiss the arguments; they must actively suppress them.
 
-In some formulations, the Awakeners teach that individuals can prepare spiritually to survive the dissolution and enter the Sixth Age unchanged, becoming the seed of new creation. In others, they argue that voluntary extinction is preferable to corrupted eternity. The most devoted adherents undergo the **Tz'uqil Ch'ul** ritual — submitting willingly to ritualized torture, killing, and immediate reanimation, their souls intercepted at the threshold by Pik'ul Tz'umaq's power before entering Xibalba. If the individual is sufficiently powerful and devoted, the result is a K'ich'chik [[being-nghtwght|Nightwight]] — intelligent, purposeful, retaining identity and gaining real power through undeath. If the individual proves insufficient, the result is a particularly powerful [[being-hlthrls|Helthraal]] that will inevitably degrade.
+In some formulations, the Awakeners teach that individuals can prepare spiritually to survive the dissolution and enter the Sixth Age unchanged, becoming the seed of new creation. In others, they argue that voluntary extinction is preferable to corrupted eternity. The most devoted adherents undergo the **Tz'uqil Ch'ul** ritual — submitting willingly to ritualized torture, killing, and immediate reanimation, their souls intercepted at the threshold by Pik'ul Tz'umaq's power before entering Xibalba. If the individual is sufficiently powerful and devoted, the result is a K'ich'chik [[being-nghtwght|tereb]] — intelligent, purposeful, retaining identity and gaining real power through undeath. If the individual proves insufficient, the result is a particularly powerful [[being-hlthrls|damut]] that will inevitably degrade.
 
 ## Recruitment
 
-The Serpent Awakeners' most insidious recruitment tool is the promise of reunion. Their priests offer to pull recently dead loved ones back from Xibalba — and they can. The first days may seem miraculous. But a soul that has entered Xibalba and been reversed comes back damaged, and the damage is irreversible. Over weeks and months, the returned loved one degrades — speech failing, memory fragmenting, the hunger for living flesh growing uncontrollable — until nothing remains but a shambling Helthraal. Worse, a soul pulled back from Xibalba can never re-enter the labyrinth. When the body finally collapses, the soul fragments simply dissipate. No afterlife. No rebirth. No continuation. A fate the orthodox priesthood considers worse than any the underworld could inflict.
+The Serpent Awakeners' most insidious recruitment tool is the promise of reunion. Their priests offer to pull recently dead loved ones back from Xibalba — and they can. The first days may seem miraculous. But a soul that has entered Xibalba and been reversed comes back damaged, and the damage is irreversible. Over weeks and months, the returned loved one degrades — speech failing, memory fragmenting, the hunger for living flesh growing uncontrollable — until nothing remains but a shambling damut. Worse, a soul pulled back from Xibalba can never re-enter the labyrinth. When the body finally collapses, the soul fragments simply dissipate. No afterlife. No rebirth. No continuation. A fate the orthodox priesthood considers worse than any the underworld could inflict.
 
 The approach is made by a **Comforter**, and it is made at the worst hour a household will ever have. Ki'ichek funerary practice is a paid service — a family that could not afford a full recitation was told plainly what it had bought — and the Comforter's opening question is simply whether they are certain the abbreviated rite was enough. It usually is not answered, because it cannot be. Nothing in the orthodox tradition provides a means of checking where a soul went.
 
@@ -147,7 +147,7 @@ The cells' most practical office is the **Watcher**, who keeps them ahead of the
 
 ## Relations
 
-The orthodox priesthood views the Serpent Awakeners with fear and contempt in equal measure — fear because the apocalyptic theology resonates with genuine inequities in Ki'ichek society, contempt because it represents a rejection of the priesthood's carefully constructed system of controlled apocalyptic tension. But it is the undead — the Helspawn walking the deep jungle, the returned loved ones degrading in remote villages, the cold-eyed Nightwights commanding them — that transforms the Serpent Awakeners from a philosophical heresy into a military threat.
+The orthodox priesthood views the Serpent Awakeners with fear and contempt in equal measure — fear because the apocalyptic theology resonates with genuine inequities in Ki'ichek society, contempt because it represents a rejection of the priesthood's carefully constructed system of controlled apocalyptic tension. But it is the undead — the damutu walking the deep jungle, the returned loved ones degrading in remote villages, the cold-eyed terebu commanding them — that transforms the Serpent Awakeners from a philosophical heresy into a military threat.
 
 With [[affiliation-pikultzumaq|Pik'ul Tz'umaq]] the movement's alliance is real and unsentimental on both sides. The owl supplies the explanation and the power to reclaim; the movement supplies reach, grieving households and a doctrine under which the reclaiming looks like mercy.
 
