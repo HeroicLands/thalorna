@@ -355,13 +355,13 @@ Necromancy proper produces several kinds of effects, depending on the practition
 
 This is the "I command you to speak from beyond the grave" practice that appears in folk tradition. It is real, it is illegal in most places, and it produces real but limited results. The bound soul is angry, often vague, sometimes deceptive. Information extracted under this kind of compulsion is unreliable.
 
-**Animation of Corpses.** A necromancer can pull a soul (or a fragment of one) and bind it to a corpse, animating the body. The result is a Helthraal — undead in the standard sense. Helthraals are described in detail in [[lore-helspawncrtr|Helspawn]].
+**Animation of Corpses.** A necromancer can pull a soul (or a fragment of one) and bind it to a corpse, animating the body. The result is a damut — undead in the standard sense. Damutu are described in detail in [[lore-undead|Undead]].
 
-The simplest form of this work is _fragmentation animation_: the necromancer does not care about the integrity of the soul being pulled and just grabs enough soul-stuff to drive a corpse into motion. The result is an unintelligent Helthraal — a zombie or similar. This is the easiest form of necromancy, achievable by relatively unskilled practitioners. It also damages the soul severely; what was pulled is fragmented, and whatever remains of the original person is destroyed in the process.
+The simplest form of this work is _fragmentation animation_: the necromancer does not care about the integrity of the soul being pulled and just grabs enough soul-stuff to drive a corpse into motion. The result is an unintelligent damut — a zombie or similar. This is the easiest form of necromancy, achievable by relatively unskilled practitioners. It also damages the soul severely; what was pulled is fragmented, and whatever remains of the original person is destroyed in the process.
 
-More skilful animation seeks to retrieve the soul intact (or nearly so) and bind it to the corpse with more delicacy. This is much harder. It produces Helthraals further along the spectrum of degradation — the Recently Returned, who retain identity and personality, at least at first. This kind of work is what people commission when they want a specific dead person back, knowing the result will be diminished. The diminishment is not optional; even the most skilful necromantic work cannot fully restore the soul to its body's animation. The soul has departed, and the framework binding it back is a poor substitute for the natural body-soul coupling.
+More skilful animation seeks to retrieve the soul intact (or nearly so) and bind it to the corpse with more delicacy. This is much harder. It produces damutu further along the spectrum of degradation — the Recently Returned, who retain identity and personality, at least at first. This kind of work is what people commission when they want a specific dead person back, knowing the result will be diminished. The diminishment is not optional; even the most skilful necromantic work cannot fully restore the soul to its body's animation. The soul has departed, and the framework binding it back is a poor substitute for the natural body-soul coupling.
 
-**Sponsored Nightwight Creation.** The most sophisticated form of necromantic work is the creation of a Nightwight. This requires not just necromantic skill but a willing or unwilling subject who has undergone the preparatory rituals during life. Nightwights are described in detail in [[lore-helspawncrtr|Helspawn]].
+**Sponsored Tereb Creation.** The most sophisticated form of necromantic work is the creation of a tereb. This requires not just necromantic skill but a willing or unwilling subject who has undergone the preparatory rituals during life. Terebu are described in detail in [[lore-undead|Undead]].
 
 ### What Necromancy Costs the Practitioner
 
@@ -376,22 +376,22 @@ What the necromancer does pay:
 
 These costs are sufficient to make necromancy difficult and dangerous as a practice without requiring additional metaphysical penalties. The cosmology lets necromancy be evil by every culture's standards while not being evil at the metaphysical level — consistent with the document's general approach to morality.
 
-## The Helspawn
+## The Undead
 
-_Helspawn_ is the universal Thalornan term for undead — beings that should be dead but are not, animated through necromantic or related work. The category includes everything from the simplest reanimated zombies (**Helthraals**) to the most powerful undying lords (**Nightwights**). All are Helspawn.
+The undead are beings that should be dead but are not, animated through necromantic or related work. The category includes everything from the simplest reanimated zombies (**damutu**) to the most powerful undying lords (**terebu**); the two learned terms are Kheperi, and every scholarly tradition uses them.
 
-The Helspawn are produced by mechanisms grounded in the soul-cosmology established in this document — the pulling-back of souls from the spirit realm, the binding of soul-substance to material bodies, the elaborate rituals by which powerful individuals arrange to persist past death. The cosmological foundation belongs here; the development of the Helspawn themselves — Helthraals along their spectrum of degradation, Nightwights with their consent-and-quality dynamics, the social and political structures of undead communities, and practical guidance for running them — is treated in detail in [[lore-helspawncrtr|Helspawn]].
+The undead are produced by mechanisms grounded in the soul-cosmology established in this document — the pulling-back of souls from the spirit realm, the binding of soul-substance to material bodies, the elaborate rituals by which powerful individuals arrange to persist past death. The cosmological foundation belongs here; the development of the undead themselves — damutu along their spectrum of degradation, terebu with their consent-and-quality dynamics, the social and political structures of undead communities, and practical guidance for running them — is treated in detail in [[lore-undead|Undead]].
 
 The key cosmological points to keep in mind when reading other documents:
 
-- **No mortal can make themselves Helspawn.** The transformation always requires action by an external agent on a soul that has died or is dying. Self-application is structurally impossible.
-- **All Helspawn have creators**, who typically retain some degree of control over them.
-- **Helthraals are produced by necromantic animation** — the binding of a soul, or fragments of one, to a corpse. The result varies enormously in quality depending on the necromancer's skill and the soul's state.
-- **Nightwights are produced by elaborate ritual during life**, ending in the candidate's death and a delayed arising. The ritual does not require the original performer to be present at the moment of arising.
-- **All Helspawn degrade over time**, though Nightwights degrade much more slowly than Helthraals.
-- **Nightwights regenerate predatorily**, by harming the living. There is no benign feeding pattern.
+- **No mortal can make themselves undead.** The transformation always requires action by an external agent on a soul that has died or is dying. Self-application is structurally impossible.
+- **All the undead have creators**, who typically retain some degree of control over them.
+- **Damutu are produced by necromantic animation** — the binding of a soul, or fragments of one, to a corpse. The result varies enormously in quality depending on the necromancer's skill and the soul's state.
+- **Terebu are produced by elaborate ritual during life**, ending in the candidate's death and a delayed arising. The ritual does not require the original performer to be present at the moment of arising.
+- **All the undead degrade over time**, though terebu degrade much more slowly than damutu.
+- **Terebu regenerate predatorily**, by harming the living. There is no benign feeding pattern.
 
-For the full treatment, see [[lore-helspawncrtr|Helspawn]].
+For the full treatment, see [[lore-undead|Undead]].
 
 ## Aura Damage and Soul Damage
 
@@ -401,13 +401,13 @@ A soul can be damaged. The damage shows up in life as reduced Aura — which tra
 
 Several mechanisms can damage a mortal's Aura:
 
-**Magical attack on the soul directly.** Certain framework-magic can target the soul rather than the body. Aural Shock effects in HMK terms; soul-strike abilities of certain magical creatures (particularly Nightwights of regeneration-via-Aura traditions); curses that specifically attack the victim's connection to the potential. These are the most direct cause of soul damage.
+**Magical attack on the soul directly.** Certain framework-magic can target the soul rather than the body. Aural Shock effects in HMK terms; soul-strike abilities of certain magical creatures (particularly terebu of regeneration-via-Aura traditions); curses that specifically attack the victim's connection to the potential. These are the most direct cause of soul damage.
 
-**Necromantic involvement.** A soul that has been pulled back, even briefly, even with some attempt at care, takes damage. The pulling itself disturbs the soul's coherence. Souls that have been animated as Helthraals and then somehow released back to their proper transit are severely damaged. Souls used in necromantic consultation are damaged less but still meaningfully.
+**Necromantic involvement.** A soul that has been pulled back, even briefly, even with some attempt at care, takes damage. The pulling itself disturbs the soul's coherence. Souls that have been animated as damutu and then somehow released back to their proper transit are severely damaged. Souls used in necromantic consultation are damaged less but still meaningfully.
 
-**Trauma so severe it reaches the soul.** Most ordinary trauma (physical injury, common emotional pain, social loss) damages the body or the personality but does not reach the soul. Some kinds of trauma do reach the soul — encounters with predator spirits that fail to consume the victim, exposure to certain dark magics, prolonged contact with Nightwights that drain Aura, the experience of losing a deeply bonded companion or shared soul-substance partner. Soul-deep trauma is rarer than ordinary trauma but more durable.
+**Trauma so severe it reaches the soul.** Most ordinary trauma (physical injury, common emotional pain, social loss) damages the body or the personality but does not reach the soul. Some kinds of trauma do reach the soul — encounters with predator spirits that fail to consume the victim, exposure to certain dark magics, prolonged contact with terebu that drain Aura, the experience of losing a deeply bonded companion or shared soul-substance partner. Soul-deep trauma is rarer than ordinary trauma but more durable.
 
-**Long-term proximity to soul-damaging environments.** Certain places and conditions slowly erode souls. Long captivity by Nightwights. Long residence in places where predators have fed and left residue. Long use of certain forbidden frameworks. The damage in these cases accumulates over time and may be unnoticed until it has become significant.
+**Long-term proximity to soul-damaging environments.** Certain places and conditions slowly erode souls. Long captivity by terebu. Long residence in places where predators have fed and left residue. Long use of certain forbidden frameworks. The damage in these cases accumulates over time and may be unnoticed until it has become significant.
 
 **Self-inflicted damage from repeated frame-collapse.** Mages who repeatedly suffer critical failures with significant magical workings damage their own souls — the discharge of unchannelled potential, repeatedly directed back through the failing framework into the mage's own being, leaves marks. Reckless practitioners who push wide channels they cannot reliably control are at greatest risk.
 
@@ -445,7 +445,7 @@ Several practical implications follow from the cosmology established here.
 
 **Death is consequential and should feel so.** The cosmology supports treating mortal death — the death of player characters, of beloved NPCs, of major figures — as cosmically weighty. The death of a beloved ally is not just emotionally significant; it is the start of that ally's own transit, with whatever uncertainty that involves. The GM should consider letting the players think about what happens to their characters' souls, and to NPCs they care about, when those souls' transits are at issue.
 
-**Necromancy is serious.** Beyond the legal and theological consequences, the metaphysical reality of necromancy — that it damages souls, that it produces beings whose suffering is real, that it interferes with the proper transit of the dead — is something the GM can convey through encounters. A Helthraal that retains fragments of identity is genuinely tragic. A Nightwight is genuinely a person whose existence is built on continuing harm. The cosmology supports treating these as moral weights, not just mechanical challenges.
+**Necromancy is serious.** Beyond the legal and theological consequences, the metaphysical reality of necromancy — that it damages souls, that it produces beings whose suffering is real, that it interferes with the proper transit of the dead — is something the GM can convey through encounters. A damut that retains fragments of identity is genuinely tragic. A tereb is genuinely a person whose existence is built on continuing harm. The cosmology supports treating these as moral weights, not just mechanical challenges.
 
 **Shamanism is sacred.** When players encounter shamanic traditions or undertake shamanic practices, the GM should distinguish them sharply from necromancy. The shaman's spirit-travel to the ancestor pool is not in the same category as a necromancer's pulling-back of a recalcitrant soul. The shaman's tradition — and the cosmology — treats these as morally and metaphysically different. The GM should respect that.
 
@@ -462,5 +462,5 @@ Several practical implications follow from the cosmology established here.
 - [[lore-magictruth|Magic Truth]] — The underlying metaphysics of magic, Aura, frameworks, and thin places
 - [[lore-godsrelign|Gods and Religion]] — What religions are, the four mechanisms of divine effect, blessings, curses, the Sacred Forge / Black Flame example
 - [[lore-divineactn|Divine Action]] — How the gods engage with the world through agents, the Balance, divine intelligence, the Heroic Age
-- [[lore-helspawncrtr|Helspawn]] — The undead in detail: Helthraals, Nightwights, their creation, their politics, and practical guidance for running them
+- [[lore-undead|Undead]] — The undead in detail: damutu, terebu, their creation, their politics, and practical guidance for running them
 - Foreign_Traditions_Comparative — _(GM-only, forthcoming)_ How each non-Ordo magical tradition channels the potential, including priestly traditions

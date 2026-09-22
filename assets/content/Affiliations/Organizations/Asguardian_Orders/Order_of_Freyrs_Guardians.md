@@ -138,7 +138,7 @@ The order swears three things in its working vow:
 - **The Refused Quarrel** — that a Guardian does not take part in quarrels not his own. Feuds between households, disputes over inheritance, raids of revenge, contracts of mercenary work — these are forbidden to a sworn Guardian even when his employer's household is involved. The principle is that the Guardian's sword is committed to protection from outside, not to participation within.
 - **The Honored Earth** — that the order's working warden is also a workman of the household to which he is attached: he labors at the harvest, the planting, the calving, the woodcutting. A Guardian who refuses ordinary work is no longer of the order.
 
-The order's training emphasizes the kinds of combat the Defended Hearth requires: defensive infantry standing in front of a steading's gate, polearm work in narrow spaces, archery from a barn loft, the suppression of dangerous beasts (wolves, bears, the occasional incursion of helspawn), and the careful, escalating response to raiders that begins with show of force and ends, when necessary, with practical lethality.
+The order's training emphasizes the kinds of combat the Defended Hearth requires: defensive infantry standing in front of a steading's gate, polearm work in narrow spaces, archery from a barn loft, the suppression of dangerous beasts (wolves, bears, the occasional incursion of helspawn — the [[lore-undead|undead]]), and the careful, escalating response to raiders that begins with show of force and ends, when necessary, with practical lethality.
 
 ## Notable Members
 
