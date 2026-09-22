@@ -65,9 +65,19 @@ The Celestial Calendar is the deeper, older system — used by scholars, astrolo
 
 #### Zero Date and the Great Convergence
 
-The Celestial Calendar begins at the **Great Convergence (Dāk Vān Hōk)**, which occurred exactly **6,959 years ago**. This event was not a mystical revelation or a divine creation — it was the moment when all celestial bodies, elemental forces, and spiritual energies achieved their first _perfect alignment_ after the Great Sorting. The Tānvüri understand this as the moment when Tānlüng's classification system first achieved full operational status — when every element was sorted, every bureau staffed, every jurisdiction defined, and the entire cosmic administration began processing its first cycle of business.
+The Celestial Calendar begins at the **Great Convergence (Dāk Vān Hōk)**, which the [[lore-celestlrdr|Celestial Order]] reckons at exactly **6,959 years ago**. This event was not a mystical revelation or a divine creation — it was the moment when all celestial bodies, elemental forces, and spiritual energies achieved their first _perfect alignment_ after the Great Sorting. The Tānvüri understand this as the moment when Tānlüng's classification system first achieved full operational status — when every element was sorted, every bureau staffed, every jurisdiction defined, and the entire cosmic administration began processing its first cycle of business.
 
-The Great Convergence is considered the founding of both cosmic time and the first imperial dynasty. The first Emperor was the first mortal designated to administer the mortal plane — the initial appointment under the Mandate of Heaven.
+The figure is exact because the zero of a calendar is exact, and inside the empire it is not offered as tradition or as a way of speaking. It is the date every bureau files against, the date a Tānthëi computes a Generation from, and the date a Nōkvür household names when it burns the year's spirit money — stated as plain fact from the imperial court down to a village hearth-shrine, and no more open to argument than the number of elements.
+
+The Great Convergence is the founding of cosmic time, and the Celestial Order teaches that it is the founding of the first imperial dynasty with it. The first Emperor was the first mortal designated to administer the mortal plane — the initial appointment under the [[lore-mandatehvn|Mandate of Heaven]].
+
+#### The Epoch and the Archive
+
+The dynastic record is a separate instrument, and it does not reach anything like so far. The oldest imperial dynasty the Bureau of Records can date from documents in its own custody begins around **2500 BF** — some thirty-seven centuries after the zero the Celestial Calendar counts from. Both figures are current in Tānvür and they are not rivals. One is the epoch of cosmic time, held as revelation and stated as fact. The other is the earliest point at which the empire's own filing cabinets can produce an emperor, a dynasty and a year together.
+
+The Tānthëi account for the interval between them as a matter of jurisdiction rather than of history — the **celestial custody**. The mortal Bureau of Records was not staffed at the Convergence. The Mandate was issued first, and the administration beneath it was assembled over the cycles that followed; until it existed there was no office on the mortal plane to hold a copy, and the filings of the earliest dynasties went where every spirit document goes at the New Year Purification — upward, into the celestial archive, and onto the Dāk Thōklëi, the Master Registry of all classified things. An entry in celestial custody is an entry. The doctrine of the Mandate already holds that a filing is valid whether or not the reviewing bureau has processed it, and the celestial administration is not known for speed. A record the mortal plane cannot produce is therefore a record the mortal plane was never issued, which is an administrative condition and not a hole in the past.
+
+This is taught, it is believed, and it also does precisely the work the empire needs done. The legitimacy of the Son of Heaven rests on an unbroken appointment reaching back to the founding of time, and the archive can vouch for the last thirty-two centuries of it. The Tānthëi who hold the forbidden texts are the only people in the empire positioned to notice the difference, and the caste's settled practice — as with the Elder Races and the classification system — is to leave it where it lies. A scholar who raised it would not be contradicting doctrine. He would be filing a question with a bureau that has no form for it.
 
 #### Celestial Generations
 
@@ -114,13 +124,13 @@ The spirit animals are not gods, not totems, and not mascots. They are **adminis
 
 #### Current Celestial Date
 
-**"20th Year of the 257th Celestial Generation, Year of the Golden Dragon, in the Descending Lëi Phase"**
+**"20th Year of the 258th Celestial Generation, Year of the Golden Dragon, in the Descending Lëi Phase"**
 
-In Celestial Writing: **"Dāk 257 Tëng Dāk, Jīklüng Nëir, Jöng Lëi Nëir 20"**
+In Celestial Writing: **"Dāk 258 Tëng Dāk, Jīklüng Nëir, Jöng Lëi Nëir 20"**
 
-**Shorthand:** **"20/257 Tëng Dāk"**
+**Shorthand:** **"20/258 Tëng Dāk"**
 
-This places the current moment in the Descending Phase — the period of retrenchment, institutional fatigue, and increased Hürnlëi risk. The Golden Dragon year amplifies accumulation, which during a Descending phase means the empire is hoarding resources and spiritual credit rather than spending them. The Tānthëi interpret this combination with considerable anxiety: the cosmic administration is approaching the end of its current cycle with its coffers full but its structures weakening. Whether this means a smooth transition to the 258th Generation or a catastrophic failure of the classification system depends entirely on how well the imperial administration manages the remaining seven years.
+This places the current moment in the Descending Phase — the period of retrenchment, institutional fatigue, and increased Hürnlëi risk. The Golden Dragon year amplifies accumulation, which during a Descending phase means the empire is hoarding resources and spiritual credit rather than spending them. The Tānthëi interpret this combination with considerable anxiety: the cosmic administration is approaching the end of its current cycle with its coffers full but its structures weakening. Whether this means a smooth transition to the 259th Generation or a catastrophic failure of the classification system depends entirely on how well the imperial administration manages the remaining seven years.
 
 ---
 
