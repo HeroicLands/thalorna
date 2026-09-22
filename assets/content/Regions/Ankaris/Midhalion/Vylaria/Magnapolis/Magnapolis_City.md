@@ -261,7 +261,7 @@ It is tended jointly by two priesthoods that, anywhere else, would have little t
 **Demonym:** Magnápolitan\
 **Nation:** [[affiliation-vylarinmpr\|Vylarian Empire]]\
 **Region:** [[place-midhalnrgn\|Midhalion]], western [[place-ankrscntnnt|Ankaris]]
-**Population:** 50,000–1,000,000 (city + outskirts)
+**Population:** 750,000–1,000,000 (city + outskirts)
 **Setting:** A cluster of six hills on the eastern bank of the River Vylaris; the Inner City crowns the highest, Mons Aquila
 **The Six Hills:** [[place-sixhillsvyl#monsaquila|Mons Aquila]] (Inner City & Palace); [[place-sixhillsvyl#monscoronus|Mons Corónus]] & [[place-sixhillsvyl#monslaurine|Mons Lauríne]] (the Heights); [[place-sixhillsvyl#monssapiens|Mons Sápiens]] (Scholars'); [[place-sixhillsvyl#monsvetus|Mons Vétus]] (the faded hill); [[place-sixhillsvyl#monsripae|Mons Rípae]] (above the Wharves)
 **Seat of power:** The [[place-palatimgnm|Grand Palace]], in the walled Inner City — [[place-urbsaquiln|Urbs Aquilion]], atop Mons Aquila

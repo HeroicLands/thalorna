@@ -257,7 +257,7 @@ one.
 | ----------------------------- | -------- |
 | The four settled realms       | ~575,000 |
 | The tribal peoples            | ~125,000 |
-| The [[lore-vardain\|Vardain]] | ~10,000  |
+| The [[lore-vardain\|Vardain]] | ~8,500   |
 
 The **tribal peoples** — about a sixth of the island — live outside every realm, in the
 [[place-pshtrwldrns|Peshtar Wilderness]] across the north-west and much of the northern coast, and in
@@ -269,8 +269,8 @@ than border.
 The **Vardain** are something else entirely, and lumping them with the tribes is the commonest error
 outsiders make about Aelwyth. They are the free remnant of **Vardanreach**, the nation that held the
 whole north-east until the Nordmen took it sixty years ago — a settled, literate, farming people whose
-kin make up the hundred and twenty thousand thralls of [[affiliation-jrldmstrmvld|Stormveld]]. Ten
-thousand of them live in the [[place-vardainvalleys|high valleys]] of the
+kin make up the hundred and twenty thousand thralls of [[affiliation-jrldmstrmvld|Stormveld]]. Eight
+thousand five hundred of them live in the [[place-vardainvalleys|high valleys]] of the
 [[place-ironfells|Ironfells]] under the protection of the [[lore-flkkhazar|Khazári]], which is why they
 belong to no realm and why they are not barbarians in any sense whatever.
 

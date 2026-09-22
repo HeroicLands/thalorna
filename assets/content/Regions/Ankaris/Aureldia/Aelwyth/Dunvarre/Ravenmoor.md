@@ -11,7 +11,7 @@ data:
   lore: []
   parents:
     - dunavarre
-  population: 20000
+  population: 3500
 name:
   full: Ravenmoor
   aliases: []
@@ -20,7 +20,7 @@ packFolder: aelwyth
 ---
 
 **Ravenmoor** stands on Aelwyth's south-eastern coast where the open moor that gives it its name breaks
-off into a deep sheltered anchorage. Twenty thousand people, the seat of the
+off into a deep sheltered anchorage. Thirty-five hundred people, the seat of the
 [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], and the seat of the **Synod**.
 
 It is not the kingdom's busiest harbour — [[place-wraymouth|Wraymouth]] handles far more tonnage — but

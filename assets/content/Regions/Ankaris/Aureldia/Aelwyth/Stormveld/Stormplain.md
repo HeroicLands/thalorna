@@ -38,7 +38,7 @@ worth making.
 The plain's people are **[[lore-vardain|Vardain]]**, and they were a nation before the Nordmen came.
 This country was **Vardanreach**, which kept the friendship of the [[lore-flkkhazar|Khazári]] of
 [[place-vorgald|Vorgald]] for thousands of years and is now called Stormveld by the men who took it.
-Their free kin are alive — some ten thousand of them, in the
+Their free kin are alive — some eight thousand five hundred of them, in the
 [[place-vardainvalleys|high valleys]] of the [[place-ironfells|Ironfells]] beyond the southern
 mountains, under Khazári protection. That is not a short distance. The plain lies a couple of hundred feet above the sea; the valleys are at
 **six thousand**, days away over the [[place-sunderfells|Sunderfells]] by ways a thrall has no business
