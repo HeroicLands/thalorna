@@ -85,6 +85,7 @@ data:
   seat: null
   domains:
     - vedyarargn
+    - sanghafort
   population: 90000000
   economy:
     - affiliation-mrchntclctvvdyr

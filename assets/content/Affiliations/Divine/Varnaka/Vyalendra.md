@@ -48,7 +48,8 @@ data:
     - eng
     - wood
   seat: null
-  domains: []
+  domains:
+    - sarvaprbhv
   population: null
   economy: []
   lore:

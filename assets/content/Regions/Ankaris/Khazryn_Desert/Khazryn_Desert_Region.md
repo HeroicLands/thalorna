@@ -21,6 +21,11 @@ data:
     - { to: dunharargn, bearing: SW }
     - { to: vedyarargn, bearing: S }
     - { to: tanvuregin, bearing: E }
+  routes:
+    - { to: meghadvara, bearing: S, mode: land, days: 30 }
+    - { to: gudesroad, bearing: S, mode: land, days: 45 }
+    - { to: suryadvara, bearing: S, mode: land, days: 30 }
+    - { to: tamradvara, bearing: S, mode: land, days: 30 }
   population: 5000000
 terran_analog: "Central Asia in the broadest sense — Siberia, Mongolia, Kazakhstan, Uzbekistan, Tajikistan, Kyrgyzstan, and the Gobi. The southwestern Persianate oasis-belt (Uzbek/Tajik analog) is held by the Khazryn and Ātárzád; the vast northern, central, and eastern steppes, taiga, and Gobi-analog dryland are home to Turkic and Mongolic horse-nomad confederations and Siberian forest peoples."
 packFolder: khazryndesert

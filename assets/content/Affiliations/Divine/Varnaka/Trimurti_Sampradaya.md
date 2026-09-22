@@ -74,7 +74,9 @@ data:
     - dscr
     - sing
   seat: null
-  domains: []
+  domains:
+    - chandrprbh
+    - himashila
   population: null
   economy: []
   lore: []
