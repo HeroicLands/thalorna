@@ -11,7 +11,7 @@ data:
   lore: []
   parents:
     - norgaad
-  population: null
+  population: 600
 name:
   full: Steinmark
   aliases: []

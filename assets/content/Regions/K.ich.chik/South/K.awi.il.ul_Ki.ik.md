@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - kuxibalamrgn
-  population: null
+  population: 6000
 name:
   full: K’awi’il’ul Ki’ik
   aliases: []

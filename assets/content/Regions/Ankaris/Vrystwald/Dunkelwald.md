@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - vrystwald
-  population: null
+  population: 400
 name:
   full: Dunkelwald
   aliases: []

@@ -14,7 +14,7 @@ data:
   lore: []
   parents:
     - swoasisbelt
-  population: null
+  population: 900
 packFolder: khazryndesert
 ---
 

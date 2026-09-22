@@ -11,7 +11,7 @@ data:
     - humanflk
   parents:
     - kostarosdst
-  population: null
+  population: 4000
 name:
   full: Myrtillos
   aliases: []

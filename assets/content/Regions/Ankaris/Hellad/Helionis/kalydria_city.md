@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - helionis
-  population: null
+  population: 45000
 name:
   full: Kalydria
   aliases: []

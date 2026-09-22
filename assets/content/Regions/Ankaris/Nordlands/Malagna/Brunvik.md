@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - malagna
-  population: null
+  population: 200
 name:
   full: Brúnvík
   aliases: []

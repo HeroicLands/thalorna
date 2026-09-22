@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - balamkulrgn
-  population: null
+  population: 150000
 name:
   full: Balamkul
   aliases: []

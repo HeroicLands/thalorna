@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - bethuargn
-  population: null
+  population: 7000
 name:
   full: Ashíra
   aliases: []

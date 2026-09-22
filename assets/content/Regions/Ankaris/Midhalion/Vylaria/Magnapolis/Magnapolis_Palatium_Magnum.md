@@ -14,7 +14,7 @@ data:
   lore: []
   parents:
     - vylariargn
-  population: null
+  population: 3000
 name:
   full: Palatium Magnum
   aliases:

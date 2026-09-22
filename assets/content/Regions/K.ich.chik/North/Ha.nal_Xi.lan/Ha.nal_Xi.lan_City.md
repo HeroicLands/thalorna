@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - hanalxilanrgn
-  population: null
+  population: 1200
 name:
   full: Ha'nal Xi'lan
   aliases: []

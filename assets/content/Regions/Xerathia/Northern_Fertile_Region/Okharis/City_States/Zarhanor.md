@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - okharisrgn
-  population: null
+  population: 40000
 name:
   full: Zarhánor
   aliases:

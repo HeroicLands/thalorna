@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - norgaad
-  population: null
+  population: 200
 name:
   full: Drekavík
   aliases: []

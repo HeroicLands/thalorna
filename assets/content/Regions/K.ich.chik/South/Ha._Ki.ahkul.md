@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - balamtzakurgn
-  population: null
+  population: 12000
 name:
   full: Ha’ Ki’ahkul
   aliases: []

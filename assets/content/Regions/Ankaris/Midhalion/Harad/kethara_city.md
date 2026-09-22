@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - haradregin
-  population: null
+  population: 180000
 name:
   full: Kethara
   aliases: []

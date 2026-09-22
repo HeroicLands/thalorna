@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - amradadrgn
-  population: null
+  population: 5000
 name:
   full: Zaristan
   aliases: []

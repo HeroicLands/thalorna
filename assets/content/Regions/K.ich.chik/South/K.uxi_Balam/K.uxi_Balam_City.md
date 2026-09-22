@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - kuxibalamrgn
-  population: null
+  population: 30000
 name:
   full: K'uxi Balam
   aliases: []

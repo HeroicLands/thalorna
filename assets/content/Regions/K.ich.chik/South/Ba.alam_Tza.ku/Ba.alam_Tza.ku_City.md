@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - balamtzakurgn
-  population: null
+  population: 60000
 name:
   full: Ba'alam Tza'ku
   aliases: []

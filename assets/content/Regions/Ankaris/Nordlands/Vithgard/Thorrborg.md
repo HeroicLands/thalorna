@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - vithgard
-  population: null
+  population: 700
 name:
   full: Thorrborg
   aliases: []

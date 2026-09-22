@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - dunhardsrtrgn
-  population: null
+  population: 1200
 name:
   full: Dûn Ashir
   aliases: []

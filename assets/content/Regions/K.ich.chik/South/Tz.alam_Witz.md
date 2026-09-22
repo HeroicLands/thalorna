@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - balamtzakurgn
-  population: null
+  population: 15000
 name:
   full: Tz’alam Witz
   aliases: []

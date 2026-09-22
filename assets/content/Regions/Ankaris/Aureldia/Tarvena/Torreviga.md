@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - tarvenirgn
-  population: null
+  population: 2500
 name:
   full: Torreviga
   aliases: []

@@ -11,7 +11,7 @@ data:
   lore: []
   parents:
     - tramontana
-  population: null
+  population: 25000
 name:
   full: Batáren City
   aliases: []

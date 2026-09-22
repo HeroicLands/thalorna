@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - nordheim
-  population: null
+  population: 500
 name:
   full: Ravensholm
   aliases: []

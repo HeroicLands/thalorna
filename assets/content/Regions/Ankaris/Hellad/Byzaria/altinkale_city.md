@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - byzariargn
-  population: null
+  population: 80000
 name:
   full: Altinkale
   aliases: []

@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - vedyarargn
-  population: null
+  population: 90000
 name:
   full: Chandrapur
   aliases: []

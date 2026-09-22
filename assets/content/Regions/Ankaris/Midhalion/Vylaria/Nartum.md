@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - nartumkngdm
-  population: null
+  population: 60000
 name:
   full: Nartûm
   aliases: []

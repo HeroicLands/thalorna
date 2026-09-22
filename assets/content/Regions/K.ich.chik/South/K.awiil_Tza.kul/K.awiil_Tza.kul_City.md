@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - kawiltzaklrgn
-  population: null
+  population: 4000
 name:
   full: K'awiil Tza'kul
   aliases: []

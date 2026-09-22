@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - nordheim
-  population: null
+  population: 200
 name:
   full: Vindborg
   aliases: []

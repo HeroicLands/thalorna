@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - kaliharargn
-  population: null
+  population: 18000
 name:
   full: Qasirah
   aliases: []

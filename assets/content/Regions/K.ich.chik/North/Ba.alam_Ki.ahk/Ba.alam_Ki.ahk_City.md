@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - balamkiahkrgn
-  population: null
+  population: 3000
 name:
   full: Ba'alam Ki'ahk
   aliases: []

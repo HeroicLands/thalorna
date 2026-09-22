@@ -14,7 +14,7 @@ data:
   lore: []
   parents:
     - vylariargn
-  population: null
+  population: 5000
 name:
   full: Castra Praetoria
   aliases:

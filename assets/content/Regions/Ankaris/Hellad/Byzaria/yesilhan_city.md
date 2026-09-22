@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - byzariargn
-  population: null
+  population: 40000
 name:
   full: Yeşilhan
   aliases: []

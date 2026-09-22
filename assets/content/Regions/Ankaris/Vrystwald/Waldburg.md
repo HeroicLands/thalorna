@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - vrystwald
-  population: null
+  population: 800
 name:
   full: Waldburg
   aliases: []

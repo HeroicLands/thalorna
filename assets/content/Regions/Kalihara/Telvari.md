@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - kaliharargn
-  population: null
+  population: 1200
 name:
   full: Telvári
   aliases: []

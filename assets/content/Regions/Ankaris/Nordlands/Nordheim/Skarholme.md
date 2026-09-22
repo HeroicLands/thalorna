@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - nordheim
-  population: null
+  population: 700
 name:
   full: Skarholme
   aliases: []

@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - malagna
-  population: null
+  population: 600
 name:
   full: Hávamál
   aliases: []

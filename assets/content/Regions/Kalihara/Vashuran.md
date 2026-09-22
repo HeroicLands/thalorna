@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - kaliharargn
-  population: null
+  population: 5000
 name:
   full: Vashurán
   aliases: []

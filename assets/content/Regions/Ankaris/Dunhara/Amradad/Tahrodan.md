@@ -11,7 +11,7 @@ data:
     - humanflk
   parents:
     - amradadrgn
-  population: null
+  population: 30000
 name:
   full: Tahrodan
   aliases: []
