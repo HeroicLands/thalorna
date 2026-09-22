@@ -52,7 +52,9 @@ Whether this is the healthiest relationship any human polity has managed with th
 
 ## The Kaliharan contrast
 
-[[affiliation-kalihara|Kalihara]] is the exception that clarifies the rule. There humanity was uplifted **deliberately**, by the Ithári, millennia before either Elder Race set foot on Thalorna, and the Kaliharans know it, say so, and organize their institutions around the fact. Elsewhere the same thing happened by accident and is denied by all parties — the Elder Races because they meant no such thing, and humanity because it would rather have done it alone.
+[[affiliation-kalihara|Kalihara]] is the exception that clarifies the rule. There humanity was uplifted **deliberately**, by the [[lore-theithari|Ithári]], millennia before either Elder Race set foot on Thalorna, and the Kaliharans know it, say so, and organize their institutions around the fact. Elsewhere the same thing happened by accident and is denied by all parties — the Elder Races because they meant no such thing, and humanity because it would rather have done it alone.
+
+The contrast runs deeper than the admission. Everything in the four modes above is partial: a technique seen and copied, a possibility glimpsed, a debt argued over for five thousand years. Kalihara was given a civilization entire — language, medicine, governance and a philosophy, arriving complete and with no clumsy ascent behind it — and given it by a people who were not an Elder Race, who were on Thalorna before either of them, and who raised humanity nowhere else on the world. The Ithári left in 5,100 BF; the Kaliharans have been keeping what was handed to them ever since, without ever having been told what most of it is for. Against that, the Long Inheritance is a slow argument between neighbours. The full account is [[lore-theithari|The Ithári]].
 
 ## What it means to say aloud
 

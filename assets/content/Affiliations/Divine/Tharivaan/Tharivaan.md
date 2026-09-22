@@ -18,7 +18,7 @@ data:
   governance:
     model: council
     summary: >-
-      The Ithári'kaan — "Keepers of What Was Left" — are the custodial priesthood at the spiritual and institutional heart of Kaliharan society, organised into four ranks "each defined less by hierarchy than by the kind of responsibility held". Their charge is to preserve the precursors' knowledge, maintain the ancient structures, and keep the balance from being disrupted; over ten thousand years the engineering has become liturgy, and they perform it with meticulous precision whether or not the original purpose survives.
+      The Ithári'kaan — "Keepers of What Was Left" — are the custodial priesthood at the spiritual and institutional heart of Kaliharan society, organised into four ranks "each defined less by hierarchy than by the kind of responsibility held". Their charge is to preserve the precursors' knowledge, maintain the ancient structures, and keep the balance from being disrupted; over fifty-eight centuries the engineering has become liturgy, and they perform it with meticulous precision whether or not the original purpose survives.
     ranks:
       - level: 0
         title: Unkept
@@ -101,9 +101,9 @@ The third is **kaan'vaar** — "holding what was left." This is the observance m
 
 ### The Ithári'kaan
 
-The custodial priesthood, the **Ithári'kaan** ("Keepers of What Was Left"), forms the spiritual and institutional heart of Kaliharan society. Their role is to preserve the knowledge and practices of the Ithári precursors, to maintain the ancient structures, and to ensure that the balance of Thári'vaan is not disrupted.
+The custodial priesthood, the **Ithári'kaan** ("Keepers of What Was Left"), forms the spiritual and institutional heart of Kaliharan society. Their role is to preserve the knowledge and practices of the [[lore-theithari|Ithári]] precursors, to maintain the ancient structures, and to ensure that the balance of Thári'vaan is not disrupted.
 
-Over ten thousand years, the original understanding of what they are maintaining has inevitably shifted. Procedures that the Ithári may have understood as practical engineering — the tending of specific structures, the performance of specific sequences of action at specific times — have acquired layers of ritual meaning. The Ithári'kaan perform these maintenance liturgies with meticulous precision, believing them essential to the health of the island, even as the original technical purpose has been forgotten or transformed into something closer to ceremony.
+Over fifty-eight centuries, the original understanding of what they are maintaining has inevitably shifted. Procedures that the Ithári may have understood as practical engineering — the tending of specific structures, the performance of specific sequences of action at specific times — have acquired layers of ritual meaning. The Ithári'kaan perform these maintenance liturgies with meticulous precision, believing them essential to the health of the island, even as the original technical purpose has been forgotten or transformed into something closer to ceremony.
 
 #### Ranks and Formation
 
@@ -131,11 +131,11 @@ Thári'vaan has no idols, no devotional images, no reliquaries in the Ankarian s
 
 **Sílhari manuals** are the small leather-bound observation journals kept by every Kaliharan, custodian or not. A child is given their first at age six or seven and keeps it for life; when filled, it is stored in the household archive. The contents are almost entirely naturalistic — dates of flowering, counts of particular birds, records of weather — but the practice itself is understood as sacred: the daily act of recording what one has seen is one of the principal ways a Kaliharan participates in Thári'vaan.
 
-**Ithári records** are carved stone slabs and inscribed metal plaques, many still undeciphered, held in the deepest archives of the interior sanctuaries. Only sílhari'kaan and the most senior kaan'thári have access to them. Most carry procedural instructions for the maintenance of specific structures; a minority contain what appear to be philosophical or historical texts whose meaning has been partially lost over ten millennia.
+**Ithári records** are carved stone slabs and inscribed metal plaques, many still undeciphered, held in the deepest archives of the interior sanctuaries. Only sílhari'kaan and the most senior kaan'thári have access to them. Most carry procedural instructions for the maintenance of specific structures; a minority contain what appear to be philosophical or historical texts whose meaning has been partially lost over fifty-eight centuries.
 
 ### Ceremonies and Maintenance Liturgies
 
-Kaliharans do not celebrate ceremonies in the festive, communal sense that characterises Ankarian religious life. What the Ithári'kaan call **sari'kaan** — "the tending-acts" — are closer to what an Ankarian engineer might recognise as scheduled maintenance, performed with the solemnity that the passage of ten thousand years has invested in procedures whose original technical purpose is no longer understood.
+Kaliharans do not celebrate ceremonies in the festive, communal sense that characterises Ankarian religious life. What the Ithári'kaan call **sari'kaan** — "the tending-acts" — are closer to what an Ankarian engineer might recognise as scheduled maintenance, performed with the solemnity that the passage of fifty-eight centuries has invested in procedures whose original technical purpose is no longer understood.
 
 **The Dawn Tending** is the most commonly observed. At every sanctuary, and at many ithári'sul sites throughout the interior, a kaan'vaar or kaan'sili walks the perimeter of their assigned structures in the hour before sunrise, speaking a sequence of words in an archaic form of Kalihári whose exact meaning is partially lost, and laying a hand briefly on specific surfaces in a specific order. The whole sequence takes between a quarter-hour and two hours depending on the installation. It is performed without exception, in every weather, every day.
 
