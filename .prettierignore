@@ -1,6 +1,5 @@
 # Build output and vendored/lock files — not hand-edited.
 /build/
-/nogit/
 /lang/
 package-lock.json
 
