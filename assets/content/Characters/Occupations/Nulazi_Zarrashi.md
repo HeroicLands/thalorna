@@ -549,54 +549,50 @@ sohl:
 
 # Appearance {#appearance}
 
-Nûlazî Zarrâshî is a 31-year-old woman who stands 6'0" tall and is of moderate build. She has a diamond face with high cheekbones, a wide forehead, and a narrow jaw that leads to a strong chin. Her almond-shaped dark brown eyes sit beneath straight brows, lending her a measured gaze. A hawkish nose and thin lips complete her features. She has warm-toned skin with a sun-tanned complexion. Her dark brown hair is falling in dark cascades.
+Nûlazî Zarrâshî is a 31-year-old woman who stands 6'0" tall and is of moderate build. She has a diamond face with high cheekbones, a wide forehead, and a narrow jaw that leads to a strong chin. Her almond-shaped dark brown eyes sit beneath straight brows and give her a measured gaze. She has a hawkish nose and thin lips. She has warm-toned skin with a sun-tanned complexion. Her dark brown hair falls in dark cascades.
 
 # Dossier {#dossier}
 
-Born in the [[place-haradregin|Harad]] region to a freeman family of Haradian heritage, Nûlazî Zarrâshî came into the world of the timberwright through a combination of circumstance and aptitude.
+Nûlazî Zarrâshî is a timberwright of Azhûn, the port city at the mouth of the Alz River in [[place-haradregin|Harad]], a Haradian freewoman who chooses the standing trees that become the city's ships and furniture.
 
-Nûlazî comes from a family of timberwrights and has always felt at home in the forest. She specializes in selecting the best trees for various types of woodwork and is known for her keen eye and attention to detail. Nûlazî's work is highly valued by local carpenters, though some traditionalists have been slow to accept a woman in the trade.
+Nûlazî was born to timberwrights in the hill woods up the Alz valley, where the family has cut for three generations. Her work begins before the axe: she walks a stand, reads the lean of a trunk and the run of its grain, and marks which tree will make a keel, which a mast, which a chest, and which will split in the seasoning. The shipwrights of Azhûn have learned that a stem with her mark on it does not surprise them on the saw-bench. She will not mark a tree she has doubts about, which the shipwrights value and the timber-dealers do not.
 
-Now at 31 years of age, Nûlazî Zarrâshî has established herself as a known figure among the timberwrights of Harad. Her reputation, for better or worse, precedes her in the circles where such things matter.
+She has been slower to be accepted in the compact than her marks have been in the yards. The older men say a woman cannot read a tree, and she answers them by never once being wrong about one.
 
 ## Psyche
 
 ### Personality
 
-Can be overly cautious when selecting trees, sometimes hesitant to take risks.
+Nûlazî is exact, quiet and hard to hurry, cautious to a fault in choosing a tree, and she takes a doubt about her judgement as a challenge to be answered with the next stem.
 
 ### Motivation
 
-Nûlazî is driven by the desire to master her craft and secure a stable future. The uncertainties of life in timberwright work keep her vigilant and adaptable.
+Nûlazî wants the right tree for the right work, every time, and she wants the men of the compact to take her word on a stand as they take each other's. The second will follow the first only if she outlives them.
 
 ### Strengths
 
-Skilled at selecting and processing wood, knowledgeable about different tree species.
+Skilled at choosing and working timber, knows the trees of the Alz woods.
 
 ## Social
 
-Nûlazî is affiliated with Timberwrights' Guild.
-
-As a Haradian timberwright, Nûlazî occupies a recognized social niche within Harad society.
+Nûlazî is registered as a master with the Timberwrights' Compact of Azhûn, chartered under the Sôd-Naqîrîn, and sits at the bottom of its seniority.
 
 ## Companions
 
 ### Patrons
 
-Nûlazî's primary patron is Local carpenters who appreciate her careful selection of timber.. This relationship provides both opportunity and obligation.
+Nûlazî's patrons are the shipwrights of the Azhûn yards, who ask for her marks on their keel and mast timber.
 
 ### Enemies
 
-Few, though some older timberwrights doubt her abilities due to her gender.
+The naqîr of the compact, an old timber-dealer who has said in council that a woman marking ship-timber is a joke the yards will regret; and the dealers whose stems the shipwrights now send back.
 
 ## Plot Hooks
 
-1. **The Timberwright's Dilemma** — Nûlazî faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Harad.
+1. **The Keel** — A galley built on a keel Nûlazî refused and another timberwright passed has broken its back in the first heavy sea. The yard wants her to say so before the compact; the naqîr wants her silent.
 
-2. **Old Grudges** — Few, though some older timberwrights doubt her abilities due to her gender. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Hill Stand** — The best oak she has found in years stands on ground the inland tribes up the valley say is theirs, and the compact's charter says nothing about tribes.
 
-3. **Echoes of the Past** — Something from Nûlazî's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **The Examination** — The compact has called Nûlazî to re-examination on a complaint about her marks. The complaint is the naqîr's, and the examiners are his.
 
-4. **Shifting Winds** — Political changes in Harad threaten to upend the social order that Nûlazî depends upon. She must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Nûlazî the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+4. **The Factors' Timber** — The House of Factors has contracted for cheap ship-timber from over the sea, and the shipwrights have been told to use it. Nûlazî would not mark a tree like it.

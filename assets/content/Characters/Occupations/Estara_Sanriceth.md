@@ -550,54 +550,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Estára Sánriceth is a 29-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with sharp cheekbones, a prominent forehead, and a sharp jaw that leads to a prominent chin. Her hooded amber eyes sit beneath heavy brows, lending her a guarded gaze. A prominent nose and wide lips complete her features. She has tanned skin with an olive-toned complexion. Her black hair is plaited in a single thick braid.
+Estára Sánriceth is a 29-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with sharp cheekbones, a prominent forehead, and a sharp jaw that leads to a prominent chin. Her hooded amber eyes sit beneath heavy brows and give her a guarded gaze. She has a prominent nose and wide lips. She has tanned skin with an olive-toned complexion. Her black hair is plaited in a single thick braid.
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Estára Sánriceth came into the world of the teamster through a combination of circumstance and aptitude.
+Estára Sánriceth is a teamster of Valdes, a port town of [[place-tarvenirgn|Tarvénia]], a Tarvénan freewoman who took over her father's carts and teams when he died and hauls between the quays, the warehouses and the market for anyone with a load and a deadline.
 
-Estára grew up in a bustling city, where her father worked as a teamster. She learned the trade from him, and after his passing, she took over the family business. Estára is known for her determination and resourcefulness, often handling challenging deliveries in tight urban spaces. Despite her young age, she is respected among the older teamsters for her skills.
-
-Now at 29 years of age, Estára Sánriceth has established herself as a known figure among the teamsters of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Estára grew up on the box of her father's cart, and she could back a loaded wain through a market crowd before she could read. When her father died she was twenty-three and the trade expected the teams to go to a man; she kept them, kept his customers, and has added to both. She hauls whatever the port moves, and she hauls it when it is promised, which in a port where the tide sets the hour is what a warehouseman pays for. She takes risks with a load and a team when the hour is short that the older teamsters shake their heads at and could not do themselves. They respect her. They do not like that they have to.
 
 ## Psyche
 
 ### Personality
 
-Impatient with delays, tends to take risks when pressed for time.
+Estára is quick, decided and impatient with anything slower than she is, which is nearly everything; she drives a hard bargain, a hard team and herself hardest. Pressed, she takes the risk rather than the delay.
 
 ### Motivation
 
-Estára is driven by the desire to master her craft and secure a stable future. The uncertainties of life in teamster work keep her vigilant and adaptable.
+Estára wants her father's business kept and grown under her name, and she wants every load where it was promised when it was promised. One day the corner she cuts will have something behind it.
 
 ### Strengths
 
-Resourceful, skilled at maneuvering through crowded streets, good with animals.
+Resourceful, skilled at working a team through crowded streets, good with horses and mules.
 
 ## Social
 
-Estára is affiliated with City Teamsters' Guild.
-
-As a Tarvénan teamster, Estára occupies a recognized social niche within Tarvénia society.
+Estára holds her father's seat in the Teamsters' Guild of Valdes, chartered under the Magnum Collegium, which licenses the carters and shares out the harbour's work.
 
 ## Companions
 
 ### Patrons
 
-Estára's primary patron is Local businesses that need reliable delivery services.. This relationship provides both opportunity and obligation.
+Estára's patrons are the warehousemen of the Valdes quays, who send for her when a cargo must make the tide, and the ship-victuallers.
 
 ### Enemies
 
-Rival teamsters who resent her for taking business away from them.
+The older teamsters of the guild, who have lost the harbour's best work to her and say she will kill somebody in a lane one day; and a carter she passed on the quay road, who went into the harbour.
 
 ## Plot Hooks
 
-1. **The Teamster's Dilemma** — Estára faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
+1. **The Tide** — A warehouseman has a cargo that must be aboard before the evening tide, and the only road from his store to the quay is through the market on market day.
 
-2. **Old Grudges** — Rival teamsters who resent her for taking business away from them. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Overturned Wain** — One of Estára's carts has gone over in a lane with a load of stone, and a child was under it. The child will live, and the guild has called her before it.
 
-3. **Echoes of the Past** — Something from Estára's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **The Cut Trace** — Estára's best team bolted on the quay road with a cut trace, and the carter who went into the harbour last year has been seen near her yard.
 
-4. **Shifting Winds** — Political changes in Tarvénia threaten to upend the social order that Estára depends upon. She must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Estára the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+4. **The Seat** — The older teamsters have proposed at the guild that a seat may not pass to a daughter, and the vote is next month. If it carries, her seat, her licence and the harbour work go together.

@@ -556,54 +556,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Aldred Harden is a 42-year-old man who stands 5'11" tall and is of moderate build. He has a heart-shaped face with angular cheekbones, a wide forehead, and a strong jaw that leads to a firm chin. His hooded blue eyes sit beneath thin brows, lending him a guarded gaze. A straight nose and narrow lips complete his features. He has medium-toned skin with a lightly freckled complexion. His blonde hair is combed neatly to one side.
+Aldred Harden is a 42-year-old man who stands 5'11" tall and is of moderate build. He has a heart-shaped face with angular cheekbones, a wide forehead, and a strong jaw that leads to a firm chin. His hooded blue eyes sit beneath thin brows and give him a guarded gaze. He has a straight nose and narrow lips. He has medium-toned skin with a lightly freckled complexion. His blonde hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heritage, Aldred Harden came into the world of the mercantyler through a combination of circumstance and aptitude.
+Aldred Harden is a mercantyler of Kingshollow, the old royal seat of Aldorath in [[place-aelwyth|Aelwyth]], a gentleman of a small Aldorathi house who trades in fine cloth and worked metal for the royal household and the barons' halls.
 
-Aldred comes from a wealthy merchant family and has built a successful career as a mercantyler. He specializes in importing and exporting luxury goods, including fine textiles and precious metals. Aldred is known for his keen eye for quality and his ability to establish strong relationships with suppliers and clients. He enjoys the finer things in life and often travels to seek out the best products for his clientele.
-
-Now at 42 years of age, Aldred Harden has established himself as a known figure among the mercantylers of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
+Aldred comes of a family that holds a few farms below the king's hall, long enough to be gentry and not long enough to be barons, and his father was the first Harden to see that the hall was worth more to the house than the farms. When the court comes down to Kingshollow for a coronation or the midwinter feast, it wants hangings, plate and cloth of a kind the village does not make, and it wants them at once. Aldred supplies them, buying through the harbours of the island and selling from a warehouse at Dunmere to the household and to any hall in Aldorath that wants to look as the king's does. He knows exactly what a baron will pay to be seen wearing what the king wears.
 
 ## Psyche
 
 ### Personality
 
-Can be overly focused on profit, sometimes dismissive of lower-class merchants.
+Aldred is shrewd, pleasant to anyone who can pay and short with anyone who cannot. He rates a man by his custom, and a market-town chapman lower than the chapman thinks fair.
 
 ### Motivation
 
-Aldred's driving force is the search that defines his life — a quest that shapes every decision he makes and every risk he takes.
+Aldred wants the house richer than he found it, and he wants the royal household's custom, which a Harden with only farms would never have. The second is why he will take a loss on a coronation.
 
 ### Strengths
 
-Excellent negotiator, knowledgeable about luxury markets, strong network of contacts.
+A hard bargainer, knows the luxury trade, well connected in the halls and the harbours.
 
 ## Social
 
-Aldred is affiliated with Local Merchant's Guild.
-
-As a Aelwythan mercantyler, Aldred occupies a recognized social niche within Aelwyth society.
+Aldred holds his seal from the Merchants' Guild of Dunmere, chartered under the Magnum Collegium, and is one of the few of its members received in the king's hall.
 
 ## Companions
 
 ### Patrons
 
-Aldred's primary patron is Nobles and affluent clients seeking quality goods.. This relationship provides both opportunity and obligation.
+Aldred's patrons are the royal household at Kingshollow, whose steward buys from him for every descent of the court, and the barons who follow the king's taste.
 
 ### Enemies
 
-Few; generally well-respected but has rivals in the luxury trade.
+The crown's Purveyor, who may take his goods for the household at the crown's price and has begun to; and a Dunmere house of older standing that supplied the court before the Hardens did.
 
 ## Plot Hooks
 
-1. **The Mercantyler's Dilemma** — Aldred faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
+1. **The Purveyance** — The Purveyor has requisitioned Aldred's whole stock of cloth for the coronation at the crown's price, a third of what it cost him. He can refuse and lose the household, or accept and lose the year.
 
-2. **Old Grudges** — Few; generally well-respected but has rivals in the luxury trade. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Raider's Bolt** — A bolt of Provenzian silk has come to Aldred cheap through a Stormveld harbour, off a ship the Nordmen took. The baron who wants it has a son who died on that ship.
 
-3. **Echoes of the Past** — Something from Aldred's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **The Descent** — The court is coming to Kingshollow a month early, and the steward has asked for a feast's worth of plate and hangings that are still at sea.
 
-4. **Shifting Winds** — Political changes in Aelwyth threaten to upend the social order that Aldred depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Aldred the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **The Baron's Account** — A baron owes Aldred two years' custom and has just been named to the king's council. Pressing the debt would end the trade; forgiving it would end the house.

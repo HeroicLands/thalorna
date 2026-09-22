@@ -556,54 +556,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Dálina Valárion is a 32-year-old woman who stands 5'9" tall and is slender. She has a long face with defined cheekbones, a prominent forehead, and a sharp jaw that leads to a square chin. Her large amber eyes sit beneath straight brows, lending her an expressive gaze. A hawkish nose and thin lips complete her features. She has olive-tanned skin with a sun-tanned complexion. Her dark brown hair is falling in dark cascades.
+Dálina Valárion is a 32-year-old woman who stands 5'9" tall and is slender. She has a long face with defined cheekbones, a prominent forehead, and a sharp jaw that leads to a square chin. Her large amber eyes sit beneath straight brows and give her an expressive gaze. She has a hawkish nose and thin lips. She has olive-tanned skin with a sun-tanned complexion. Her dark brown hair falls in dark cascades.
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a noble family of Tarvénan heritage, Dálina Valárion came into the world of the pilot through a combination of circumstance and aptitude.
+Dálina Valárion is a pilot of Castamere, a castle town of [[place-tarvenirgn|Tarvénia]], a daughter of a Tarvénan noble house who has the con of the family's cargo ship and keeps her house in the town when the ship is laid up.
 
-Dálina is an accomplished pilot who specializes in cargo transport. She has a talent for managing her crew and ensuring that shipments arrive safely and on time. Known for her strong leadership skills, she is respected among her colleagues and has built a solid reputation for reliability. Dálina is passionate about her work and often advocates for improved working conditions in the aviation industry.
-
-Now at 32 years of age, Dálina Valárion has established herself as a known figure among the pilots of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Dálina comes of a house that holds a small lordship at Castamere and a ship at Valthári, the free port on the southern coast, and the ship has paid for the lordship for two generations. She went aboard it at twelve because her father had no son who wanted the sea, and she has been its pilot for eight years: she sets the course, reads the coast and the sky, and brings its cargoes in whole and on the day they are due. The crews respect her, because she has never lost a man to weather she could have avoided. She has a talent for handling a crew and none for the sums, and she has made herself a nuisance to the ship-owners' council at Valthári by arguing for the crews' share and rations in a port where the owners set both.
 
 ## Psyche
 
 ### Personality
 
-Can be too focused on logistics, sometimes struggles with the technical aspects of piloting.
+Dálina is direct, confident and quick to decide, better at people than at figures. She has a noble's ease with authority and a seaman's contempt for anyone who has not stood a watch.
 
 ### Motivation
 
-Dálina is driven by the desire to master her craft and secure a stable future. The uncertainties of life in pilot work keep her vigilant and adaptable.
+Dálina wants the ship and every soul aboard it home whole on the day promised, and she wants the seamen who make that possible paid and fed as they should be. The owners' council has told her that her house's standing will not survive the second.
 
 ### Strengths
 
-Strong leader, excellent communicator, skilled in cargo management.
+A fine leader of a crew, speaks well and plainly, skilled in the stowing and handling of cargo.
 
 ## Social
 
-Dálina is affiliated with Local Pilots' Guild.
-
-As a Tarvénan pilot, Dálina occupies a recognized social niche within Tarvénia society.
+Dálina holds her licence from the Pilots' Guild of Valthári, chartered under the Magnum Collegium, which examines every pilot who takes a ship in over the port's bar.
 
 ## Companions
 
 ### Patrons
 
-Dálina's primary patron is Merchants seeking dependable cargo transport services.. This relationship provides both opportunity and obligation.
+Dálina's patrons are the merchant houses of Valthári, who charter the Valárion ship for cargoes that must arrive.
 
 ### Enemies
 
-Few; generally well-respected but may have rivals in the cargo industry.
+The ship-owners' council of Valthári, which sets the crews' share and has heard enough from her about it; and a rival pilot of the port whose ship lost a cargo she brought in.
 
 ## Plot Hooks
 
-1. **The Pilot's Dilemma** — Dálina faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
+1. **The Storm Season** — A merchant house has offered a charter that would clear her house's debts, for a run to Heliónis in the month the pilots of Valthári do not sail.
 
-2. **Old Grudges** — Few; generally well-respected but may have rivals in the cargo industry. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Strike** — The seamen of Valthári have refused to sign until the owners raise the share, and the owners' council has asked Dálina, whose crew is loyal, to sail and break it.
 
-3. **Echoes of the Past** — Something from Dálina's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **The Debt** — Her father has borrowed against the ship to hold the lordship, and the lender is a house on the owners' council.
 
-4. **Shifting Winds** — Political changes in Tarvénia threaten to upend the social order that Dálina depends upon. She must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Dálina the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+4. **The Cargo** — A charter's manifest says wine, and the casks are the wrong weight. Dálina is at sea, and the port she is bound for hangs smugglers.

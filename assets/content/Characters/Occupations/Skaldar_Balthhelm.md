@@ -553,54 +553,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Skaldár Balthhelm is a 51-year-old man who stands 5'10" tall and is of moderate build. He has a diamond face with defined cheekbones, a smooth forehead, and a heavy jaw that leads to a square chin. His narrow green eyes sit beneath heavy brows, lending him a keen gaze. A broad nose and curved lips complete his features. He has fair skin with a ruddy complexion. His dark brown hair is matted from years of outdoor work. A notable feature is laugh lines around the eyes.
+Skaldár Balthhelm is a 51-year-old man who stands 5'10" tall and is of moderate build. He has a diamond face with defined cheekbones, a smooth forehead, and a heavy jaw that leads to a square chin. His narrow green eyes sit beneath heavy brows and give him a keen gaze. He has a broad nose and curved lips. He has fair skin with a ruddy complexion. His dark brown hair is matted from years of outdoor work. He has laugh lines around the eyes.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a guilded family of Varokhi heritage, Skaldár Balthhelm came into the world of the toymaker through a combination of circumstance and aptitude.
+Skaldár Balthhelm is a toymaker of Falkenstein, a hill fort of the Varokh in [[place-vrystwald|Vrystwald]], a Varokh who fought until a Grukar spear ended it and has carved toys for the fort's children in the twenty years since.
 
-Skaldár is a veteran toymaker whose shop has been a staple in the city for decades. He specializes in mechanical toys and clockwork creations, bringing a touch of magic to his work with moving parts and lifelike features. Known for his innovation, Skaldár takes great pride in his craftsmanship, though he struggles to keep up with newer trends in toymaking.
-
-Now at 51 years of age, Skaldár Balthhelm has established himself as a known figure among the toymakers of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
+Skaldár was a warrior of Falkenstein's war-band until a spear through the thigh in the marsh fighting left him a limp that no war-band would carry. A Varokh man who cannot fight has no place the forest recognises, and Skaldár found one with a knife: he had always carved for his own children, and he began to carve for everyone's. His toys move. A wolf with jointed legs that lopes when it is pulled, a boatman whose arms row, birds on a string that beat their wings; he has spent twenty years learning how a joint should be cut so that a thing of wood looks for a moment alive. The fort's households pay him in meat and furs, and the river-traders carry his animals down to the Nordman markets. Lately the traders bring painted Nordman toys back up the river, and the children have begun to prefer them.
 
 ## Psyche
 
 ### Personality
 
-Reluctant to embrace modern trends, sometimes seen as old-fashioned.
+Skaldár is patient, wry and stubborn, at ease with children and awkward with the young men, who cannot see what an old cripple with a knife is for. He will not carve to a pattern that is not his own or paint a thing that should be left to the grain.
 
 ### Motivation
 
-Skaldár is driven by the desire to master his craft and secure a stable future. The uncertainties of life in toymaker work keep him vigilant and adaptable.
+Skaldár wants to make wooden things that move as living things move, and he wants the fort's children to want a Balthhelm animal over anything the boats bring. The second is slipping, and he answers it by working harder at the first.
 
 ### Strengths
 
-Skilled in clockwork mechanisms, experienced in woodworking, inventive.
+Skilled in jointed and moving work, experienced in carving, inventive.
 
 ## Social
 
-Skaldár is affiliated with Toymakers' Guild.
-
-As a Varokhi toymaker, Skaldár occupies a recognized social niche within Vrystwald society.
+Skaldár belongs to no body; the forest has no guilds. He sits in the fort's councils as a man who has fought.
 
 ## Companions
 
 ### Patrons
 
-Skaldár's primary patron is Wealthy families and collectors who seek unique, handcrafted toys.. This relationship provides both opportunity and obligation.
+Skaldár's patrons are the households of Falkenstein, who pay him in kind, and the river-traders, who carry his animals to the Nordman markets and have begun to tell him what to carve.
 
 ### Enemies
 
-Younger toymakers who believe his techniques are outdated.
+A young carver of the fort who copies his joints and paints them bright, and whose animals the children now want; and a river-trader who has said the old man should learn to paint.
 
 ## Plot Hooks
 
-1. **The Toymaker's Dilemma** — Skaldár faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Chieftain's Grandchild** — The chieftain's grandchild wants a wolf from Skaldár for the naming feast, and the chieftain's daughter, who runs the fort's trade, wants it painted like the Nordman ones.
 
-2. **Old Grudges** — Younger toymakers who believe his techniques are outdated. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Nordman's Offer** — A Nordman trader has offered Skaldár a workshop and apprentices in a hall-town across the frontier. He would have to leave the forest.
 
-3. **Echoes of the Past** — Something from Skaldár's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **The Thrall Child** — A thrall child has been coming to watch him work, and Skaldár has begun to teach it. A thrall who carves is a thrall somebody will sell for more.
 
-4. **Shifting Winds** — Political changes in Vrystwald threaten to upend the social order that Skaldár depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Skaldár the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **The Young Men** — The fort's young warriors have taken to breaking the old cripple's animals for sport, and one of them is the chieftain's son, whose father Skaldár fought beside.

@@ -553,54 +553,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Khôrn Hálren is a 36-year-old man who stands 6'0" tall and is broad and solidly built. He has an angular face with defined cheekbones, a lined forehead, and a narrow jaw that leads to a pointed chin. His almond-shaped hazel eyes sit beneath arched brows, lending him a measured gaze. A straight nose and firm lips complete his features. He has light skin with a lightly freckled complexion. His blonde hair is combed neatly to one side.
+Khôrn Hálren is a 36-year-old man who stands 6'0" tall and is broad and solidly built. He has an angular face with defined cheekbones, a lined forehead, and a narrow jaw that leads to a pointed chin. His almond-shaped hazel eyes sit beneath arched brows and give him a measured gaze. He has a straight nose and firm lips. He has light skin with a lightly freckled complexion. His blonde hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Khôrn Hálren came into the world of the yeoman infantry through a combination of circumstance and aptitude.
+Khôrn Hálren is a yeoman infantryman of Liranel, the forest town of the Glanmor coast of [[place-elavendre|Élavendre]], an Élavendri freeman who took the crown's coin in the coastal levy at eighteen and holds the crown's serjeanty at Liranel now.
 
-Khôrn has served as a yeoman infantryman for nearly two decades, first joining his local lord’s levy at the age of 18. Known for his bravery and physical strength, he has seen his share of battles and skirmishes. Khôrn is a reliable soldier who values loyalty, but the years of fighting have made him weary. He now hopes for a peaceful life but remains committed to his duty.
-
-Now at 36 years of age, Khôrn Hálren has established himself as a known figure among the yeoman infantrys of Élavendre. His reputation, for better or worse, precedes him in the circles where such things matter.
+Khôrn was a haulier's son in a town that lives by timber, and he went to the Glanmor levy because a levy man is paid and a haulier's second son is not. He served for most of two decades wherever the kingdom's fighting was: on the Cilfor shore when the Varokh and the Grukar came over the bay, and in the Brynavar hills when the war-parties came overland. Four years ago the crown gave him the serjeanty at Liranel: he keeps the peace of the forest court and musters the town's yeomen when the Forester needs them. It is what he wanted, a post at home with a wife and a roof, and the peace of a forest town has turned out to be a different kind of fighting.
 
 ## Psyche
 
 ### Personality
 
-Sometimes struggles with the emotional toll of war, slow to adapt to new strategies.
+Khôrn is loyal, patient and slow to change his mind about anything, including how a fight should be fought. The years on the shore have left him tired in a way that rest does not mend.
 
 ### Motivation
 
-Khôrn is driven by the desire to master his craft and secure a stable future. The uncertainties of life in yeoman infantry work keep him vigilant and adaptable.
+Khôrn wants to keep the post he was given and do it as he did the levy, exactly and without fuss, and he wants the quiet he was promised with it. The forest court keeps giving him reasons to draw the sword he came home to hang up.
 
 ### Strengths
 
-Physically strong, experienced in melee combat, disciplined.
+Strong, experienced in close fighting, disciplined.
 
 ## Social
 
-Khôrn is affiliated with Local Militia.
-
-As a Élavendri yeoman infantry, Khôrn occupies a recognized social niche within Élavendre society.
+Khôrn holds the crown's serjeanty at Liranel, and his name stays on the roll of the Glanmor levy, which can call him back to the shore.
 
 ## Companions
 
 ### Patrons
 
-Khôrn's primary patron is The local lord who calls upon him for military service.. This relationship provides both opportunity and obligation.
+Khôrn's patron is the crown's Forester at Liranel, who holds the forest court and relies on Khôrn to make its judgements stick.
 
 ### Enemies
 
-Rival soldiers from opposing regions.
+The guides who take paying visitors past the edge the Wardens allow, and the timber-thieves who cut over their licences; both know the serjeant by sight.
 
 ## Plot Hooks
 
-1. **The Yeoman Infantry's Dilemma** — Khôrn faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
+1. **The Seizure** — The forest court has condemned a haulier's whole season of timber as cut over licence, and Khôrn is to seize it. The haulier is his father's oldest friend.
 
-2. **Old Grudges** — Rival soldiers from opposing regions. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Beacon** — A beacon has been lit on the Cilfor headlands and the Glanmor levy is called. Khôrn's name is on the roll, and the Forester has said the town cannot spare him.
 
-3. **Echoes of the Past** — Something from Khôrn's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **The Guide** — A guide's party went into the deep wood a fortnight ago and has not come out, and the family wants Khôrn to go in after them. The Wardens have said nobody is to.
 
-4. **Shifting Winds** — Political changes in Élavendre threaten to upend the social order that Khôrn depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Khôrn the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **The Old Comrade** — A man Khôrn stood beside on the Cilfor shore is now cutting unlicensed oak above Liranel, and he has asked Khôrn, as a comrade, to look the other way once.

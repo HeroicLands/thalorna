@@ -554,54 +554,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Arkálòrdâs Kâlmâkanês is a 37-year-old man who stands 6'4" tall and is broad and solidly built. He has a diamond face with broad cheekbones, a smooth forehead, and a square jaw that leads to a strong chin. His narrow gray eyes sit beneath straight brows, lending him a keen gaze. An aquiline nose and narrow lips complete his features. He has tanned skin with an olive-toned complexion. His black hair is receding at the temples.
+Arkálòrdâs Kâlmâkanês is a 37-year-old man who stands 6'4" tall and is broad and solidly built. He has a diamond face with broad cheekbones, a smooth forehead, and a square jaw that leads to a strong chin. His narrow gray eyes sit beneath straight brows and give him a keen gaze. He has an aquiline nose and narrow lips. He has tanned skin with an olive-toned complexion. His black hair is receding at the temples.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Arkálòrdâs Kâlmâkanês came into the world of the common seaman through a combination of circumstance and aptitude.
+Arkálòrdâs Kâlmâkanês is a common seaman of Aelissium, a trade city of [[place-vylariargn|Vylaría]], a Vylarian freeman who has worked the merchant ships of the Vylarian Sea for twenty years and is the hand the captains ask for by name.
 
-Arkálòrdâs is a seasoned sailor with many tales of the sea. He has faced storms and adventures, earning a reputation as a fearless seaman. Known for his strength and experience, Arkálòrdâs often takes on leadership roles aboard the ship, assisting the captain in decision-making. He is a mentor to younger sailors, sharing his knowledge of seamanship and safety at sea.
-
-Now at 37 years of age, Arkálòrdâs Kâlmâkanês has established himself as a known figure among the common seamans of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
+Arkálòrdâs went to sea from Aelissium at seventeen and has been aboard something ever since: grain ships to the capital, timber ships to Vald, and the long runs east to Heliónis and, before the war, to Harad. He has been through the weather that sinks ships and has come home from it, which is the whole of a seaman's reputation. He is no officer and has never wanted to be one, but he has been the senior hand on every deck for ten years, the man the captain asks before he turns for a lee shore. He teaches the boys: how to reef, how to stow, what the sea looks like the hour before it kills a man. He has buried enough of them to teach hard.
 
 ## Psyche
 
 ### Personality
 
-Can be stubborn, struggles with change.
+Arkálòrdâs is steady, stubborn and set in the ways he learned, and distrusts any way of working a ship he has not seen tested in a gale.
 
 ### Motivation
 
-Arkálòrdâs is driven by the desire to master his craft and secure a stable future. The uncertainties of life in common seaman work keep him vigilant and adaptable.
+Arkálòrdâs wants the ship he is on to come home with every hand it left with, and he wants to keep the standing that makes the captains ask for him. The young officers do not ask.
 
 ### Strengths
 
-Highly experienced, strong leadership skills, excellent sailor.
+Long experience at sea, a natural leader on deck, a fine seaman.
 
 ## Social
 
-Arkálòrdâs is affiliated with None; works as a hired hand..
-
-As a Vylarian common seaman, Arkálòrdâs occupies a recognized social niche within Vylaria society.
+Arkálòrdâs is on the roll of the Seamen's Collegium of Aelissium, whose mark is on his right arm, and hires by the voyage as the seamen of Vylaria do.
 
 ## Companions
 
 ### Patrons
 
-Arkálòrdâs's primary patron is Ship captains and crew members who respect his experience.. This relationship provides both opportunity and obligation.
+Arkálòrdâs's patrons are the merchant captains of Aelissium, who ask for him when the cargo matters, and the crews who sign because he has.
 
 ### Enemies
 
-Few; generally well-respected, though some may see him as too traditional.
+A young mate on the Heliónis run who learned his trade in a Haradian yard and has told his captain that the old hand is slowing the deck; and a Haradian privateer who took a ship Arkálòrdâs was aboard and did not take him.
 
 ## Plot Hooks
 
-1. **The Common Seaman's Dilemma** — Arkálòrdâs faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
+1. **The Shoals** — A captain has offered double wages to take a cargo through the Tamzîr channels, which Haradian pilots know and Vylarian seamen do not, and the crew will not sign without Arkálòrdâs.
 
-2. **Old Grudges** — Few; generally well-respected, though some may see him as too traditional. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Letters of Marque** — A Haradian ship carrying letters against Vylarian trade has been seen off the Heliónis coast, and it is the privateer's. Arkálòrdâs's ship is the next out.
 
-3. **Echoes of the Past** — Something from Arkálòrdâs's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **The Navy's Need** — The empire's navy is short of seamen and is paying the collegium for its rolls. Arkálòrdâs's name is at the top of one.
 
-4. **Shifting Winds** — Political changes in Vylaria threaten to upend the social order that Arkálòrdâs depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Arkálòrdâs the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **The Young Mate** — The mate has been given the deck for the Heliónis run and has set the ship the Haradian way, with half the hands aloft that Arkálòrdâs would keep there. The weather is coming.
