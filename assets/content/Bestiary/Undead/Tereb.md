@@ -9,7 +9,7 @@ name:
     - Nightwight
     - Nightwights
 description: "The cloaked one — the sentient, self-directed undead that wears its former self as a garment: vampires, dread-priests, and sorcerer-emperors who persist past death through deliberate, prepared ritual."
-shortcode: nghtwght
+shortcode: tereb
 type: being
 data:
   icon: icon-person
@@ -526,13 +526,13 @@ sohl:
 
 # Appearance {#appearance}
 
-![[nghtwght|Tereb]]{float: top-left}
+![[tereb|Tereb]]{float: top-left}
 
 As night falls, the temperature drops and the darkness becomes attentive. A figure emerges from shadow—beautiful and terrible, perfect in form and proportion like a god’s statue brought to life, yet wrong. It is a human shape, but humanity has been refined away, leaving only an ideal that no living person could match. Its skin is pale but luminous, and its eyes burn with dark light. Where it stands, shadows deepen and cold settles. Looking upon it for too long fills you with an aching despair, as though witnessing something you were never meant to see.
 
 # Dossier {#dossier}
 
-**Tereb** (plural _terebu_; "terebs" at the table) is the learned name for the intelligent undead, from the Kheperi root _t-r-b_, to wear, to cloak: _the cloaked one_. A tereb is a powerful individual who has undergone deliberate, prepared rituals to persist past death — a vampire, an undying lord, a dread-priest, a sorcerer-emperor who rules from beyond the grave, or a similar figure — and who wears its former self as a garment. The cloak holds for a short time and not too closely: a tereb can pass for a living person across a room or through a brief exchange, but under close eyes and long company the cloak frays, because nothing wears it from inside but the will. See [[lore-helspawncrtr|Undead]] for the learned terms and the folk names.
+**Tereb** (plural _terebu_; "terebs" at the table) is the learned name for the intelligent undead, from the Kheperi root _t-r-b_, to wear, to cloak: _the cloaked one_. A tereb is a powerful individual who has undergone deliberate, prepared rituals to persist past death — a vampire, an undying lord, a dread-priest, a sorcerer-emperor who rules from beyond the grave, or a similar figure — and who wears its former self as a garment. The cloak holds for a short time and not too closely: a tereb can pass for a living person across a room or through a brief exchange, but under close eyes and long company the cloak frays, because nothing wears it from inside but the will. See [[lore-undead|Undead]] for the learned terms and the folk names.
 
 ## The Creation Process
 
@@ -542,7 +542,7 @@ The rituals inevitably end in the candidate's death. This is the critical point:
 
 After death — and this is the second critical point — the candidate is _not_ immediately reanimated by an attending agent. The arising happens later. Sometimes immediately, sometimes hours, sometimes days, sometimes weeks or months. The timing depends on the specific ritual, the candidate's nature, and the conditions. The arising does not require the original ritual-performer to be present. A vampire who bites and kills a victim does not need to stick around for the victim's eventual rising; the ritual was completed at the moment of biting and the framework continues to operate independently.
 
-The newly arisen tereb is back in the world — animated, moving, conscious, often confused or grieving or exhilarated depending on the circumstances. The person who arose is not exactly the person who died, but the continuity is much higher than for any [[being-hlthrls|damut]]. The soul is more or less intact; the personality is more or less preserved; the memories are more or less retained.
+The newly arisen tereb is back in the world — animated, moving, conscious, often confused or grieving or exhilarated depending on the circumstances. The person who arose is not exactly the person who died, but the continuity is much higher than for any [[being-damut|damut]]. The soul is more or less intact; the personality is more or less preserved; the memories are more or less retained.
 
 ## Consent and Quality
 
@@ -554,7 +554,7 @@ The candidate's state of mind during the ritual matters enormously. Three patter
 
 If the damage is moderate, the candidate may emerge as a weak tereb — lacking many of the capacities that fuller terebu have, their mind perhaps fragmenting faster than usual, the cloak thin from the first. They are terebu only marginally. The worst part of this is the self-horror and self-loathing that comes along with this knowledge of what they have become, and the horror that awaits them.
 
-If the damage is severe, the candidate emerges as a damut instead — a [[being-hlthrls|failed-ritual damut]]. The tereb transformation has failed, but the body still rises, animated by the partial soul that remains.
+If the damage is severe, the candidate emerges as a damut instead — a [[being-damut|failed-ritual damut]]. The tereb transformation has failed, but the body still rises, animated by the partial soul that remains.
 
 If the damage is catastrophic, the candidate may not arise at all. The body remains dead. The soul, fragmented and damaged, dissolves and disperses in the spirit realm, gone and irredeemably unrecoverable.
 
@@ -654,9 +654,9 @@ Several practical consequences follow from the cosmology established here.
 
 ## See Also
 
-- [[lore-helspawncrtr|Undead]] — The undead as a class, the learned terms and the folk names, and the Spirits-versus-undead distinction
+- [[lore-undead|Undead]] — The undead as a class, the learned terms and the folk names, and the Spirits-versus-undead distinction
 
-- [[being-hlthrls|Damut]] — The driven one: the mindless undead
+- [[being-damut|Damut]] — The driven one: the mindless undead
 
 - [[lore-soulspirts|Souls and Spirits]] — The underlying cosmology of souls, the spirit realm, death and transit, and related material
 

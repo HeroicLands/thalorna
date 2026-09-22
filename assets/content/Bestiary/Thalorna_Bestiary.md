@@ -47,7 +47,7 @@ See [[lore-goblinfolk|Goblins]].
 
 ## Undead
 
-See [[lore-helspawncrtr|Undead]].
+See [[lore-undead|Undead]].
 
 ## Mythic Creatures {#mythic}
 

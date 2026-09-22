@@ -104,9 +104,9 @@ The cult's devotional practice venerates the Demon Lords directly — with secre
 
 ## The Undead
 
-The cult deploys the [[lore-helspawncrtr|undead]] as a signature weapon of disruption. The ritual techniques for their creation are understood within the cult's theology as the gift of the Demon Lords — principally [[affiliation-nushot|Nüshöt]], the Unmaker, whose annihilating nature aligns directly with the undead's broken state. An undead outbreak in an imperial district does not merely kill; it _disrupts_, pulling imperial attention, resources, and administrative capacity away from other matters while the cult executes larger operations elsewhere. The bodies left behind generate their own moral-ledger complications — corpses whose classification status is disputed, souls whose disposition cannot be adjudicated, ancestor tablets that cannot be safely updated — which compounds the damage done.
+The cult deploys the [[lore-undead|undead]] as a signature weapon of disruption. The ritual techniques for their creation are understood within the cult's theology as the gift of the Demon Lords — principally [[affiliation-nushot|Nüshöt]], the Unmaker, whose annihilating nature aligns directly with the undead's broken state. An undead outbreak in an imperial district does not merely kill; it _disrupts_, pulling imperial attention, resources, and administrative capacity away from other matters while the cult executes larger operations elsewhere. The bodies left behind generate their own moral-ledger complications — corpses whose classification status is disputed, souls whose disposition cannot be adjudicated, ancestor tablets that cannot be safely updated — which compounds the damage done.
 
-The generic phenomenon and its cross-pantheon theology are documented in the [[lore-helspawncrtr|Undead]] article. What distinguishes the cult's practice is not the creatures themselves but the specific operational purpose: every undead the cult creates is aimed at the imperial classification apparatus, the public morale that sustains it, and the administrative capacity that maintains it. The empire does not yet understand the scope of this capability. Imperial investigators who have begun to piece it together have a distressing tendency to die before their findings can be filed.
+The generic phenomenon and its cross-pantheon theology are documented in the [[lore-undead|Undead]] article. What distinguishes the cult's practice is not the creatures themselves but the specific operational purpose: every undead the cult creates is aimed at the imperial classification apparatus, the public morale that sustains it, and the administrative capacity that maintains it. The empire does not yet understand the scope of this capability. Imperial investigators who have begun to piece it together have a distressing tendency to die before their findings can be filed.
 
 ## Why Not the Varnaka Pantheon
 
@@ -154,7 +154,7 @@ This structure has consequences. It makes the cult extraordinarily resistant to 
 - [[affiliation-zhaksok|Zhāksōk]] — The Walking Contradiction, patron of the classification-condemned
 - [[affiliation-hurnzhuk|Hürnzhük]] — The First Refusal, the cult's foundational theological figure
 - [[affiliation-dokyok|Dōkyök]] — The Lost Road, lesser patron of misdirection and escape
-- [[lore-helspawncrtr|Undead]] — The cult's signature weapon of disruption, created through the Demon Lords' gift
+- [[lore-undead|Undead]] — The cult's signature weapon of disruption, created through the Demon Lords' gift
 - [[lore-veizhatret|Vëi Zhāt Rëit]] — The court intrigue that produces many of the cult's recruits
 - [[lore-castelaws|Caste Laws]] — The classification system the cult exists to destroy
 - [[affiliation-tanvurempr|Empire of Tānvür]] — The empire the cult intends to annihilate

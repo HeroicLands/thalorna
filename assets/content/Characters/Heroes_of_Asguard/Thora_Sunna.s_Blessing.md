@@ -537,7 +537,7 @@ Thora radiates a quiet warmth that puts even the most troubled souls at ease. Sh
 
 ### Motivation
 
-Thora seeks to heal not just individuals but the deep wounds that war and hatred have inflicted on the northern lands. She believes that Fréyr's power of renewal can mend even the most devastated landscapes and shattered communities. She is particularly driven to find ways to heal those affected by dark magic and Helspawn ([[lore-helspawncrtr|undead]]) corruption, having seen too many people left beyond the reach of ordinary healing.
+Thora seeks to heal not just individuals but the deep wounds that war and hatred have inflicted on the northern lands. She believes that Fréyr's power of renewal can mend even the most devastated landscapes and shattered communities. She is particularly driven to find ways to heal those affected by dark magic and Helspawn ([[lore-undead|undead]]) corruption, having seen too many people left beyond the reach of ordinary healing.
 
 ### Strengths
 

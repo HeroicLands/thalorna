@@ -6,7 +6,7 @@ name:
     - The Undead
     - Helspawn
 description: "The undead — the dead made animate by necrotic spiritual force, found wherever a tradition holds the authority to call them back."
-shortcode: helspawncrtr
+shortcode: undead
 type: lore
 subType: bestiary
 data:
@@ -27,8 +27,8 @@ One important distinction is between the undead and Spirits. The spirits of dead
 
 Wherever the dead are studied — by scholars, priests, physicians and arcanists, on [[place-ankrscntnnt|Ankaris]] and on [[place-xerathia|Xerathia]] alike — the two kinds of undead are named in two Kheperi words, used unglossed and set against whatever the local folklore calls them. The words are Kheperi because [[affiliation-empirtkhpr|Ta'Kheperu]] is the oldest of the cultures and its funerary texts are the oldest writing on the dead: every later scholarly tradition learned to classify the dead from copies of them, and took the classification's vocabulary along with it.
 
-- **Tereb** ("TEH-reb"; plural _terebu_), from the root _t-r-b_, to wear, to cloak: _the cloaked one_. The sentient, self-directed and relatively powerful undead, which wears its former self as a garment and can pass for a living person for a short time and not too closely. The cloak frays under close eyes and long company, because nothing wears it from inside but the will. See [[being-nghtwght|Tereb]].
-- **Damut** ("dah-MOOT"; plural _damutu_), from the root _d-m-t_, to drive, to goad: _the driven one_. The mindless undead. Nothing in it moves itself; it goes as it is driven, by the one who raised it or by the last hunger left in the meat. No will, so no cloak, so it cannot pass for anything. See [[being-hlthrls|Damut]].
+- **Tereb** ("TEH-reb"; plural _terebu_), from the root _t-r-b_, to wear, to cloak: _the cloaked one_. The sentient, self-directed and relatively powerful undead, which wears its former self as a garment and can pass for a living person for a short time and not too closely. The cloak frays under close eyes and long company, because nothing wears it from inside but the will. See [[being-tereb|Tereb]].
+- **Damut** ("dah-MOOT"; plural _damutu_), from the root _d-m-t_, to drive, to goad: _the driven one_. The mindless undead. Nothing in it moves itself; it goes as it is driven, by the one who raised it or by the last hunger left in the meat. No will, so no cloak, so it cannot pass for anything. See [[being-damut|Damut]].
 
 The pairing is the lesson in two words: the one that _wears_, the one that is _driven_.
 
@@ -43,7 +43,7 @@ Every region has its own words for the dead that walk, and a scholar sets the le
 
 ## The Undead Hierarchy
 
-The undead exist on a spectrum defined by the completeness of the soul bound to the body. At one extreme are the [[being-nghtwght|terebu]] — intelligent, powerful, and semi-permanent, created through deliberate ritual from willing and powerful subjects whose souls, often already perverted, were violently transformed to produce powerful undead beings. At the other extreme are the [[being-hlthrls|damutu]] in their most degraded state — mindless, shambling, rotting corpses animated by the barest fragments of spiritual energy.
+The undead exist on a spectrum defined by the completeness of the soul bound to the body. At one extreme are the [[being-tereb|terebu]] — intelligent, powerful, and semi-permanent, created through deliberate ritual from willing and powerful subjects whose souls, often already perverted, were violently transformed to produce powerful undead beings. At the other extreme are the [[being-damut|damutu]] in their most degraded state — mindless, shambling, rotting corpses animated by the barest fragments of spiritual energy.
 
 Between these poles lies the full range of undead existence. A soul ripped back from the afterlife and forced into its deceased body arrives damaged by the process, the more so if unwilling — incomplete, diminished by the passage. How much of the original person remains depends on how long the body had been dead, how violently the spirit was coerced back, and the skill of whomever performed the reanimation. In some cases the recently dead, especially if the death was not violent, pulled back quickly, might return confused but retaining speech, memory, and personality, although with significant confusion about their situation, and significant memory gaps. So long as the fact of their death can be hidden from them, they might be able to persist for a short time as if nothing had happened. But quickly the body begins to decay, the mind to degenerate, and often a great hunger for living flesh and blood blossoms. All undead below the tereb tier degrade over time — the soul fragments eroding, the body decaying, identity slipping away week by week until nothing remains but the mindless hunger.
 

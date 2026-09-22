@@ -27,7 +27,7 @@ The enclave was small by Sinalëan standards — perhaps a few hundred souls at 
 
 ## Destruction
 
-The fall of Laurelossë is the most notorious deed of [[being-grmsvrtrnr|Gríma Svartrúnar]], a Nightwight necromancer — a [[being-nghtwght|tereb]], in the learned word — in the service of [[affiliation-hel|Hél]]. The goddess tasked Gríma with the enclave's destruction — whether as a strike against the living world, a test of her servant's power, or for reasons known only to the divine, no mortal can say.
+The fall of Laurelossë is the most notorious deed of [[being-grmsvrtrnr|Gríma Svartrúnar]], a Nightwight necromancer — a [[being-tereb|tereb]], in the learned word — in the service of [[affiliation-hel|Hél]]. The goddess tasked Gríma with the enclave's destruction — whether as a strike against the living world, a test of her servant's power, or for reasons known only to the divine, no mortal can say.
 
 Under cover of night, Gríma pierced the enclave's ancient wards — a feat that should have been impossible for a mortal, even a Helspawn one, and which suggests Hél's direct intercession. Once inside, he carved black runes into the earth itself, corrupting the natural energies that bound the sanctuary together. The corruption spread like a sickness, twisting the ancient trees, poisoning the waters, and turning the wards that once protected the enclave into a cage that trapped its inhabitants.
 

@@ -9,7 +9,7 @@ name:
     - Helthraal
     - Helthraals
 description: "The driven one — the mindless undead that goes as it is driven: zombies, skeletons, mummies, and ghouls, animated by necromancy that binds soul-fragments to a corpse."
-shortcode: hlthrls
+shortcode: damut
 type: being
 data:
   icon: icon-person
@@ -520,7 +520,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[hlthrls|Damut]]{float: top-left}
+![[damut|Damut]]{float: top-left}
 
 What rises before you is the obscenity of a corpse made animate — a body that has been dead long enough to decay, long enough that pieces should be missing, yet here it stands moving with a shambling gait. The smell hits you like a physical force — rot, decay, the stench of death too advanced to sustain life. Where flesh has fallen away, bone is visible beneath. Patches of mold and fungi grow across the surface. Yet the creature moves with terrible purpose, driven by something other than flesh, other than will. Its eyes, if they can be called that, are dark pits filled with necromantic shadow. This was a person once. No longer.
 
@@ -528,7 +528,7 @@ But not all of them have reached this state. Some are far more terrible precisel
 
 # Dossier {#dossier}
 
-**Damut** (plural _damutu_; "damuts" at the table) is the learned name for the unintelligent (or limited-intelligence) undead — zombies, mummies, skeletons, ghouls, and similar shambling things — from the Kheperi root _d-m-t_, to drive, to goad: _the driven one_. A damut is produced by necromantic animation of a corpse, with the soul (or a fragment of it) bound to drive the body's motion. Nothing in it moves itself: it goes as it is driven, by the one who raised it or by the last hunger left in the meat. Having no will, it has no cloak, and cannot pass for anything but what it is. See [[lore-helspawncrtr|Undead]] for the learned terms and the folk names.
+**Damut** (plural _damutu_; "damuts" at the table) is the learned name for the unintelligent (or limited-intelligence) undead — zombies, mummies, skeletons, ghouls, and similar shambling things — from the Kheperi root _d-m-t_, to drive, to goad: _the driven one_. A damut is produced by necromantic animation of a corpse, with the soul (or a fragment of it) bound to drive the body's motion. Nothing in it moves itself: it goes as it is driven, by the one who raised it or by the last hunger left in the meat. Having no will, it has no cloak, and cannot pass for anything but what it is. See [[lore-undead|Undead]] for the learned terms and the folk names.
 
 ## The Spectrum of Degradation
 
@@ -554,7 +554,7 @@ The hunger, previously suppressed, becomes the dominant drive. A fading damut wi
 
 This is the state most people associate with the word "damut" — a corpse in advanced decay given animation and terrible purpose. The body is partially decomposed, with patches of missing flesh revealing bone or empty cavities beneath. Clothing hangs in tatters from decaying flesh. The creature moves with jerky, irregular motion, as though the animation magic is pulling at random points rather than controlling the whole smoothly. The eyes are hollow pits of darkness that reflect no light. The smell is overwhelming. No trace of the original person remains.
 
-A damut in this state has no independent behaviours. It exists to follow commands from its controller — typically a [[being-nghtwght|tereb]] or priest — or, if no controller is present, to pursue the only drive that remains: hunger. It will march for days without rest. It will attack enemies regardless of odds. It cannot be intimidated or bargained with because there is no person present to bargain with. Multiple shambling damutu in an area will ignore each other unless commanded otherwise, standing or moving in mechanical uniformity.
+A damut in this state has no independent behaviours. It exists to follow commands from its controller — typically a [[being-tereb|tereb]] or priest — or, if no controller is present, to pursue the only drive that remains: hunger. It will march for days without rest. It will attack enemies regardless of odds. It cannot be intimidated or bargained with because there is no person present to bargain with. Multiple shambling damutu in an area will ignore each other unless commanded otherwise, standing or moving in mechanical uniformity.
 
 **Attributes:** Physical capability is reduced to brute force — high strength and endurance from necromantic energy, but minimal dexterity, agility, and perception. Mental attributes are effectively zero. These damutu are slow, clumsy, and predictable individually, but overwhelming in numbers.
 

@@ -135,7 +135,7 @@ The owl asks no blood. This is remarked on constantly by those who join, and it 
 
 ## The Threshold-Held
 
-Its rarest gift is also its most dangerous. The owl can intercept a soul at the boundary and hold it there rather than releasing it back into a ruined body — the soul returned whole, intact, and no longer counted among the living. These are the **Threshold-Held**, and on K'ich'chik they walk as [[being-nghtwght|terebu]]: intelligent, purposeful, retaining identity and gaining real power through undeath.
+Its rarest gift is also its most dangerous. The owl can intercept a soul at the boundary and hold it there rather than releasing it back into a ruined body — the soul returned whole, intact, and no longer counted among the living. These are the **Threshold-Held**, and on K'ich'chik they walk as [[being-tereb|terebu]]: intelligent, purposeful, retaining identity and gaining real power through undeath.
 
 Nothing about the process is generous. The owl holds the soul; the soul does not hold itself, and what it is held by is a being that has already decided the cosmic order is a lie worth breaking. A Threshold-Held who ceases to be useful is not destroyed. It is simply released, at a time the owl chooses, into the labyrinth it was promised it would never have to enter.
 

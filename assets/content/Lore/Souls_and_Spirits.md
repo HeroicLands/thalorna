@@ -355,13 +355,13 @@ Necromancy proper produces several kinds of effects, depending on the practition
 
 This is the "I command you to speak from beyond the grave" practice that appears in folk tradition. It is real, it is illegal in most places, and it produces real but limited results. The bound soul is angry, often vague, sometimes deceptive. Information extracted under this kind of compulsion is unreliable.
 
-**Animation of Corpses.** A necromancer can pull a soul (or a fragment of one) and bind it to a corpse, animating the body. The result is a damut — undead in the standard sense. Damutu are described in detail in [[lore-helspawncrtr|Undead]].
+**Animation of Corpses.** A necromancer can pull a soul (or a fragment of one) and bind it to a corpse, animating the body. The result is a damut — undead in the standard sense. Damutu are described in detail in [[lore-undead|Undead]].
 
 The simplest form of this work is _fragmentation animation_: the necromancer does not care about the integrity of the soul being pulled and just grabs enough soul-stuff to drive a corpse into motion. The result is an unintelligent damut — a zombie or similar. This is the easiest form of necromancy, achievable by relatively unskilled practitioners. It also damages the soul severely; what was pulled is fragmented, and whatever remains of the original person is destroyed in the process.
 
 More skilful animation seeks to retrieve the soul intact (or nearly so) and bind it to the corpse with more delicacy. This is much harder. It produces damutu further along the spectrum of degradation — the Recently Returned, who retain identity and personality, at least at first. This kind of work is what people commission when they want a specific dead person back, knowing the result will be diminished. The diminishment is not optional; even the most skilful necromantic work cannot fully restore the soul to its body's animation. The soul has departed, and the framework binding it back is a poor substitute for the natural body-soul coupling.
 
-**Sponsored Tereb Creation.** The most sophisticated form of necromantic work is the creation of a tereb. This requires not just necromantic skill but a willing or unwilling subject who has undergone the preparatory rituals during life. Terebu are described in detail in [[lore-helspawncrtr|Undead]].
+**Sponsored Tereb Creation.** The most sophisticated form of necromantic work is the creation of a tereb. This requires not just necromantic skill but a willing or unwilling subject who has undergone the preparatory rituals during life. Terebu are described in detail in [[lore-undead|Undead]].
 
 ### What Necromancy Costs the Practitioner
 
@@ -380,7 +380,7 @@ These costs are sufficient to make necromancy difficult and dangerous as a pract
 
 The undead are beings that should be dead but are not, animated through necromantic or related work. The category includes everything from the simplest reanimated zombies (**damutu**) to the most powerful undying lords (**terebu**); the two learned terms are Kheperi, and every scholarly tradition uses them.
 
-The undead are produced by mechanisms grounded in the soul-cosmology established in this document — the pulling-back of souls from the spirit realm, the binding of soul-substance to material bodies, the elaborate rituals by which powerful individuals arrange to persist past death. The cosmological foundation belongs here; the development of the undead themselves — damutu along their spectrum of degradation, terebu with their consent-and-quality dynamics, the social and political structures of undead communities, and practical guidance for running them — is treated in detail in [[lore-helspawncrtr|Undead]].
+The undead are produced by mechanisms grounded in the soul-cosmology established in this document — the pulling-back of souls from the spirit realm, the binding of soul-substance to material bodies, the elaborate rituals by which powerful individuals arrange to persist past death. The cosmological foundation belongs here; the development of the undead themselves — damutu along their spectrum of degradation, terebu with their consent-and-quality dynamics, the social and political structures of undead communities, and practical guidance for running them — is treated in detail in [[lore-undead|Undead]].
 
 The key cosmological points to keep in mind when reading other documents:
 
@@ -391,7 +391,7 @@ The key cosmological points to keep in mind when reading other documents:
 - **All the undead degrade over time**, though terebu degrade much more slowly than damutu.
 - **Terebu regenerate predatorily**, by harming the living. There is no benign feeding pattern.
 
-For the full treatment, see [[lore-helspawncrtr|Undead]].
+For the full treatment, see [[lore-undead|Undead]].
 
 ## Aura Damage and Soul Damage
 
@@ -462,5 +462,5 @@ Several practical implications follow from the cosmology established here.
 - [[lore-magictruth|Magic Truth]] — The underlying metaphysics of magic, Aura, frameworks, and thin places
 - [[lore-godsrelign|Gods and Religion]] — What religions are, the four mechanisms of divine effect, blessings, curses, the Sacred Forge / Black Flame example
 - [[lore-divineactn|Divine Action]] — How the gods engage with the world through agents, the Balance, divine intelligence, the Heroic Age
-- [[lore-helspawncrtr|Undead]] — The undead in detail: damutu, terebu, their creation, their politics, and practical guidance for running them
+- [[lore-undead|Undead]] — The undead in detail: damutu, terebu, their creation, their politics, and practical guidance for running them
 - Foreign_Traditions_Comparative — _(GM-only, forthcoming)_ How each non-Ordo magical tradition channels the potential, including priestly traditions

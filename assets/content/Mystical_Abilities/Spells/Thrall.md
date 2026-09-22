@@ -35,4 +35,4 @@ The animated corpse can perform one action per turn—walking, striking, lifting
 
 The spell is gruesome but tactically potent: a shambling corpse makes an excellent distraction, pack-bearer, or expendable vanguard.
 
-Note that this spell does not create an [[lore-helspawncrtr|undead]], it merely allows puppet-like control of a body, which ends when the spell duration expires.
+Note that this spell does not create an [[lore-undead|undead]], it merely allows puppet-like control of a body, which ends when the spell duration expires.
