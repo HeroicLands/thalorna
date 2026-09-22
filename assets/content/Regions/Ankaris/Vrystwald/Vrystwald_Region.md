@@ -88,7 +88,7 @@ It is also, man for man, the most dangerous population in the north — and the 
 judge that say so themselves. The **[[place-nrdlndsrgn|Nordmen]]** are feared along every coast within
 reach of a longship, and the Nordmen regard the Varokh as **worse**: harder, less reachable, and less
 inclined to stop. That is not a concession Nordmen make about anybody, and they make it about these
-neighbours without argument. It is the Varkhad half talking, four thousand years on.
+neighbours without argument. It is the Varkhad half talking, two thousand years on.
 
 And the numbers have never made the slightest difference, because numbers are not what has beaten every
 army sent in here. **There is nothing to capture.** No capital, no heartland, no field the Varokh have to hold and
@@ -139,7 +139,7 @@ The Aurèldían kingdoms deplore this and buy the furs, which travel the same ri
 
 There is an irony in it that nobody in Vrystwald has ever been in a position to appreciate. The Varokh
 exist because the **Varkhad** conquered the Pelwar and drove the survivors west and south in the
-Migration. Four thousand years on, their descendants make a living moving displaced people down the same
+Migration. Two thousand years on, their descendants make a living moving displaced people down the same
 rivers.
 
 ## Who Does What
