@@ -77,7 +77,7 @@ to act quickly.
 
 The reason is not competition, though they do compete. It is **[[lore-khazarturn|Khazártúrn]]**.
 
-In 2800 BF a Sinalë outlaw wielding the [[miscgear-secondvoice|Second Voice]] took tens of thousands of
+In 2427 BF a Sinalë outlaw wielding the [[miscgear-secondvoice|Second Voice]] took tens of thousands of
 Grukar from their spawners and destroyed the greatest city the Deep Folk ever built. The account — exact,
 with every name lost — has been kept in the working archive of every hold since, and is read at
 intervals. It is not treated as history.
@@ -87,8 +87,8 @@ and their conclusion was never about guilt: **Grukar are ammunition**, and the o
 be none near a hold to be picked up.
 
 So the hatred did not begin on Aelwyth and does not depend on anything the Aelwyth Grukar have done. It
-arrived on this island in the Khazári who carried it, three and a half thousand years after the fact and
-some seven centuries before the first Grukar ever set foot here.
+arrived on this island in the Khazári who carried it, centuries after the fact and long before the
+first Grukar ever set foot here.
 
 ## See Also
 
