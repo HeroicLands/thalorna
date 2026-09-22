@@ -19,7 +19,7 @@ The Grukar have not always been on Thalorna.
 
 They are first recorded around **3000 BF**, and the record is Khazári — the Deep Folk having both the
 habit of writing things down and, at that date, the finest archive in the world at
-[[lore-khazarturn|Khazártúrn]]. Nothing written there in its first seven centuries mentions them.
+[[lore-khazarturn|Khazártúrn]]. Nothing written there in its first twenty-one centuries mentions them.
 Then, within a generation, a great deal does.
 
 Where they came from is not known. The Khazári account, which is the only contemporary one, does not
@@ -30,7 +30,7 @@ being some two and a half thousand years in the future.
 What is beyond dispute is the speed with which they spread. Within three thousand years they held a
 substantial share of a continent.
 
-Two centuries after they appeared, Grukar destroyed [[lore-khazarturn|Khazártúrn]] — and this is the
+Close to six centuries after they appeared, Grukar destroyed [[lore-khazarturn|Khazártúrn]] — and this is the
 most misunderstood fact about them. They did not do it and could not have: **Ahks do not cooperate**,
 which is the constraint that has always kept the Grukar a frontier nuisance rather than a conquest. A
 [[lore-flksinale|Sinalë]] outlaw wielding the [[miscgear-secondvoice|Second Voice]] took tens of

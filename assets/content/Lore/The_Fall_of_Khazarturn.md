@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "The destruction of the Khazári's greatest city and every soul in it in 2800 BF — Grukar driven by a renegade Sinalë, the worst calamity the Deep Folk have known on Thalorna, and the sealing of the city afterward as a single tomb for thirty thousand."
+description: "The destruction of the Khazári's greatest city and every soul in it in 2427 BF — Grukar driven by a renegade Sinalë, the worst calamity the Deep Folk have known on Thalorna, and the sealing of the city afterward as a single tomb for thirty thousand."
 type: lore
 subType: history
 name:
@@ -12,19 +12,19 @@ shortcode: khazarturn
 packFolder: settinglore
 ---
 
-**Khazártúrn** was the greatest city the [[lore-flkkhazar|Khazári]] ever built. In **2800 BF** it was
+**Khazártúrn** was the greatest city the [[lore-flkkhazar|Khazári]] ever built. In **2427 BF** it was
 destroyed with every soul in it, and nothing before or since has come near it in the reckoning of the
 Deep Folk. It is **the worst thing that has ever happened to them on Thalorna**.
 
-They reached this world about 4280 BF. By roughly **3800 BF** Khazártúrn stood: not a hold among holds
+They reached this world about 5300 BF. By **5123 BF** Khazártúrn stood: not a hold among holds
 but the work all their other work was measured against, home to some thirty thousand, and the seat of an
 entire people's craft-records.
 
-It stood a thousand years.
+It stood close to twenty-seven centuries.
 
 ## What It Was Like
 
-No human has ever seen Khazártúrn. It fell five hundred years before the earliest human dynasty, and
+No human has ever seen Khazártúrn. It fell in an age when no human kept records at all, and
 everything said of it in the human world is **story** — and the stories do not come from the Khazári,
 who never speak of it at all.
 
@@ -45,7 +45,7 @@ rock, with the valley open in front of it, which is why its halls could take day
 anyone thought to try. And standing out from that cliff were **seven great towers**.
 
 There were seven because there were **seven clans** — the seven that came to Thalorna together around
-4280 BF — and each tower was that clan's, and the city was theirs jointly and severally in a way the
+5300 BF — and each tower was that clan's, and the city was theirs jointly and severally in a way the
 Khazári have never bothered to explain to anyone else.
 
 ## Seen From Within
@@ -54,7 +54,7 @@ Every one of the seven was built to be **indistinguishable, from outside, from a
 valley** — and it is worth being careful about why, because outsiders almost always get it wrong.
 
 It was not concealment. The Khazári were not hiding Khazártúrn from anyone; there was nobody to hide it
-from in 3800 BF, and they have never behaved as though they thought there was.
+from in 5123 BF, and they have never behaved as though they thought there was.
 
 It is **their aesthetic**, and it is consistent across everything they make. A Khazári work is finished
 to belong to the ground it stands in. The towers were not screened or camouflaged; they were _cut and
@@ -65,7 +65,7 @@ not a surface for display. It is the mountain, and it should look like the mount
 Everything they have to say is said **inside**.
 
 Which is the same principle as the halls, stated twice. A people who finish the outside of their
-greatest work so that it cannot be told from a cliff, and then spend a thousand years raising vaults
+greatest work so that it cannot be told from a cliff, and then spend twenty-seven centuries raising vaults
 hundreds of feet high and painting the ceilings as open sky, are not being secretive and are not being
 modest. They are being consistent: **the wonder is for those within it**, and there is no version of a
 Khazári building where the point of it is visible from the valley floor.
@@ -112,7 +112,7 @@ understood to be. It was the thing they made when they were doing their best.
 
 Around **3000 BF** the [[lore-grukarfolk|Grukar]] appeared — new in the world, and the Khazári were the
 only people on Thalorna keeping records when it happened. Nothing written at Khazártúrn in its first
-seven centuries mentions them; within a generation, a great deal does.
+twenty-one centuries mentions them; within a generation, a great deal does.
 
 They studied the new species with their customary thoroughness and set down the conclusion: Grukar were
 **a vicious but manageable vermin of the deep country** — dangerous at a frontier, incapable of
@@ -124,7 +124,7 @@ the city fell — and it did not matter, which is the part the Khazári have nev
 
 ## The Calamity
 
-In 2800 BF Khazártúrn was destroyed by Grukar, in numbers and under a coordination that should not have
+In 2427 BF Khazártúrn was destroyed by Grukar, in numbers and under a coordination that should not have
 been possible, **driven by a renegade of the [[lore-flksinale|Sinalë]]** who had taken up the
 **[[miscgear-secondvoice|Second Voice]]** — a relic that speaks over Ahks and commands the hatched
 directly.
@@ -181,7 +181,7 @@ Everything, unaltered, in the dark.
 Nothing is ruined and nothing is disordered. The colonnades stand, the galleries stand, the painted market
 skies are overhead exactly as they were painted, the stone still finished like spun glass, and thirty
 thousand Khazári lie in the rooms where they lived. It is all perfectly kept and it has been perfectly
-kept for four and a half thousand years.
+kept for three thousand years.
 
 And it is **completely dark, and completely silent.**
 
@@ -201,13 +201,13 @@ position of every Khazári hold on Thalorna, and it is the shortest way to under
 will and will not do.
 
 They are patient with almost everything. They tolerate human kingdoms, ignore human wars, decline human
-embassies and let four thousand years pass without troubling anyone. There are exactly two things that
+embassies and let six thousand years pass without troubling anyone. There are exactly two things that
 will move them: **Grukar**, and **Khazártúrn**.
 
 Their **silence about the location** is a defence, and that one is deliberate — no marker, no monument,
 no name on any map they have ever let out of their hands. The invisibility of the place itself is not: the
 valley looked like a valley from the day the first tower was finished, because that is how the Khazári
-build. But they have understood the value of it since 2800 BF, and they guard the knowledge accordingly.
+build. But they have understood the value of it since 2427 BF, and they guard the knowledge accordingly.
 
 A tomb that cannot be found is a tomb that cannot be entered, and they would far rather it were never
 located than have to do anything about somebody who located it.
@@ -243,7 +243,7 @@ declined to contradict — and everything else is open:
 - **Whether anyone goes back.** No comment. Whether the tomb has been tended once a century since the
   day it was closed, or never entered again at all, is not known to anybody who is not a Khazár.
 
-Four and a half thousand years of that, and it has never once slipped.
+Three thousand years of that, and it has never once slipped.
 
 ## What the Sinalë Say
 
@@ -251,7 +251,7 @@ Two things, and no more.
 
 **That the city was wondrous while it lived.** This they will speak of — the halls, the light, the
 fountains, the birds — in snippets, in asides, in songs whose subject is not announced. A people who do
-not build have carried the memory of the finest thing anyone ever built for four and a half thousand
+not build have carried the memory of the finest thing anyone ever built for three thousand
 years, and it comes out as elegy.
 
 **That it was destroyed by a horde of Grukar compelled by a renegade.** They say this much plainly, and
@@ -266,7 +266,7 @@ has ever pushed that far has come away certain of the answer and without having 
 
 So nobody has been _told_. It has been **inferred** — by the handful who noticed the shape of the
 silence, and corroborated by the other silence beside it, which is that the Deep Folk have not spoken to
-the Sinalë about anything at all in four and a half thousand years and will not say why.
+the Sinalë about anything at all in three thousand years and will not say why.
 
 Everything else remains closed. The renegade's name, never given. What became of him, never described.
 What drove him, never offered, defended or disputed. Where the [[miscgear-secondvoice|Second Voice]] came
@@ -287,7 +287,7 @@ working archive beside the craft-records and the genealogies, it is read at inte
 expected to know it the way they are expected to know their own line.
 
 The passage most often quoted is not about the killing. It is the assessment of 3000 BF, copied out
-entire, correct in every particular, dated two centuries before it stopped mattering.
+entire, correct in every particular, dated close to six centuries before it stopped mattering.
 
 ## The Conclusion
 
@@ -302,8 +302,8 @@ patience they extend to every other living thing in the world. Not because Gruka
 reliable defence against a weapon that may still exist is that there be nothing near a hold for it to
 pick up.
 
-A policy of prevention, reasoned out by people who wrote down their reasons, executed for four and a half
-thousand years against a species they know to be innocent, and never once revisited.
+A policy of prevention, reasoned out by people who wrote down their reasons, executed for three thousand
+years against a species they know to be innocent, and never once revisited.
 
 ## See Also
 
