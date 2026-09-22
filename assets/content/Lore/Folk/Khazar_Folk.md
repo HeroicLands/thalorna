@@ -73,7 +73,10 @@ an army. It killed **everyone** — thirty thousand, the whole population — an
 happened to the Deep Folk on Thalorna. Afterward they laid their dead in their own chambers, there
 being nothing like enough tombs, cleaned the city to the condition they had kept it in, and **sealed it
 for all generations**. Khazártúrn is not a ruin. It is intact, in good order, and full of its people:
-the greatest work of Khazári hands, and now the greatest grave in the world.
+the greatest work of Khazári hands, and now the greatest grave in the world. The city outlived the
+whole of human prehistory by a margin nobody has ever remarked on: it fell about seventy years after
+[[affiliation-tanvurempr|Tānvür]] opened the dynastic record that is still the oldest human archive
+anyone can read, and not a line of that archive mentions it.
 
 The account of its fall is kept in the working archive of every hold and read at intervals. It is the
 single most useful thing to know about how the Deep Folk behave: they are patient with everything in the world except Grukar, whom they kill on sight, everywhere,
