@@ -18,7 +18,7 @@ data:
     - ankrscntnnt
   borders:
     - { to: dunharargn, bearing: NW }
-  population: null
+  population: 110000000
 terran_analog: India (subcontinent of independent states)
 packFolder: vedyara
 ---

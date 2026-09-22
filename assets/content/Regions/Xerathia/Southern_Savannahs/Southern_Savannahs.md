@@ -16,7 +16,7 @@ data:
     - humanflk
   parents:
     - xerathia
-  population: null
+  population: 2000000
 terran_analog: Southern Africa — Namibia + Botswana + Zimbabwe + South Africa
 packFolder: southernsavannahs
 ---

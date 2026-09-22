@@ -19,7 +19,7 @@ data:
     - flkkhazar
   parents:
     - ankrscntnnt
-  population: null
+  population: 11000000
 terran_analog: Medieval Western Europe (Western Christendom)
 packFolder: aureldia
 ---

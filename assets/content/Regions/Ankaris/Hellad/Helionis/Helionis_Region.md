@@ -7,7 +7,7 @@ data:
   lore: []
   parents:
     - heladrgn
-  population: null
+  population: 3000000
 name:
   full: Heliónis
   aliases: []

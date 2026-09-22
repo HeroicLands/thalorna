@@ -16,7 +16,7 @@ data:
   parents:
     - nrthrnfrtlrgn
     - xerathia
-  population: null
+  population: 4000000
 packFolder: okharis
 ---
 

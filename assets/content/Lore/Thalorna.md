@@ -5,7 +5,7 @@ data:
   demonym: null
   lore: []
   parents: []
-  population: null
+  population: 370000000
 packFolder: setting
 name:
   full: The World of Thalorna

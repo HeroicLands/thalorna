@@ -99,7 +99,7 @@ data:
   seat: theradon2
   domains:
     - theradon2
-  population: 800000
+  population: 510000
   economy:
     - affiliation-aerarimmpr
     - affiliation-clgmrgntrrm

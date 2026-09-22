@@ -18,7 +18,7 @@ data:
     - xerathia
   borders:
     - { to: takheperurgn, bearing: E }
-  population: null
+  population: 3000000
 packFolder: bethua
 ---
 

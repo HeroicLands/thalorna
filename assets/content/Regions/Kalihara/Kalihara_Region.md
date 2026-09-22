@@ -15,7 +15,7 @@ data:
     - humanflk
   parents:
     - klhrcntnnt
-  population: null
+  population: 3000000
 packFolder: kalihara
 ---
 

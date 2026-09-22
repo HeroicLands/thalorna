@@ -99,7 +99,7 @@ data:
   seat: thyrenae2
   domains:
     - thyrenae2
-  population: 900000
+  population: 610000
   economy:
     - affiliation-aerarimmpr
     - affiliation-clgmrgntrrm

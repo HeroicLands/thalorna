@@ -11,7 +11,7 @@ data:
     - flkkhazar
   parents:
     - worldthlrn
-  population: null
+  population: 29000000
 name:
   full: Xerathia
   aliases: []

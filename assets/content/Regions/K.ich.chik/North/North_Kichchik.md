@@ -14,7 +14,7 @@ data:
     - humanflk
   parents:
     - kchchkcntnnt
-  population: null
+  population: 2000000
 shortcode: nrthrnkchchk
 packFolder: kichchik
 ---

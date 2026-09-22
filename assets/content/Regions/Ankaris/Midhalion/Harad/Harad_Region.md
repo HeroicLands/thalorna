@@ -14,7 +14,7 @@ data:
   lore: []
   parents:
     - midhalnrgn
-  population: null
+  population: 12000000
 terran_analog: ""
 packFolder: harad
 ---

@@ -99,7 +99,7 @@ data:
   seat: korinthea2
   domains:
     - korinthea2
-  population: null
+  population: 410000
   economy: []
   lore:
     - humanflk

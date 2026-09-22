@@ -16,7 +16,7 @@ data:
     - humanflk
   parents:
     - dunharargn
-  population: null
+  population: 1000000
 packFolder: dunharadesert
 ---
 
