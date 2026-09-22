@@ -14,6 +14,7 @@ name:
   full: Vyālendra
   aliases: []
 shortcode: vyalendra3
+packFolder: vedyara
 ---
 
 ## Overview

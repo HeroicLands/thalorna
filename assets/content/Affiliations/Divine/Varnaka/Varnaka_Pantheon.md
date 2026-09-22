@@ -16,7 +16,7 @@ data:
   governance:
     model: council
     summary: >-
-      Varṇaka organises by school, not by god. None of the eleven deities has a priesthood of its own; ordination is into one of the four sampradāya, which then serve whichever gods their doctrine requires. What a devotee holds toward a particular god is therefore the household observance and, if they undertake one, that god's Ordeal for Favour.
+      Varṇaka organises by school, not by god. None of the ten deities has a priesthood of its own; ordination is into one of the four sampradāya, which then serve whichever gods their doctrine requires. What a devotee holds toward a particular god is therefore the household observance and, if they undertake one, that god's Ordeal for Favour.
     ranks:
       - level: 0
         title: Patita

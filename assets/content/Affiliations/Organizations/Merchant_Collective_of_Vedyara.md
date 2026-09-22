@@ -97,7 +97,7 @@ data:
 _Vedyaran: Vyāpārī Sangha — "the Merchants' Assembly"_
 
 - **Type:** Mercantile federation
-- **Region:** All five seats of the Assembly of the Compact — [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra|Vyālendra]], [[affiliation-vindhyalay|Vindhyālaya]], [[affiliation-rajaprjnpd|Rājapur]] and [[affiliation-dhnrktjnpd|Dhanurkota]] — with caravan stations as far west as Amradad and as far north as the Khazryn frontier
+- **Region:** All five seats of the Assembly of the Compact — [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]], [[affiliation-vindhyalay|Vindhyālaya]], [[affiliation-rajaprjnpd|Rājapur]] and [[affiliation-dhnrktjnpd|Dhanurkota]] — with caravan stations as far west as Amradad and as far north as the Khazryn frontier
 - **Founded:** Traditionally dated to the Third Janapada Compact, four centuries ago
 - **Magnum Collegium status:** Not a member; independent. The [[affiliation-magnumclgm|The Magnum Collegium]] has, for two generations, attempted to negotiate trade-recognition agreements with the Collective; the Collective has declined every overture. The Haradian [[affiliation-sodnaqirin|Sôd-Naqîrîn]] has likewise been refused.
 
