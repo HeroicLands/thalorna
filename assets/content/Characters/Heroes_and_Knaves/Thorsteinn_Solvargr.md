@@ -593,7 +593,7 @@ sohl:
 
 ![[thrstnslvrgr|Thorsteinn Sólvargr]]{float: top-left}
 
-Thorsteinn stands 6'1" tall with a medium build. He has light weathered skin, gray hair, and gray eyes. His features include an angular face, a straight nose, a slightly downturned mouth, thick brows. A distinguishing mark is a scar on the chin.
+Thorsteinn stands 6'1" tall with a medium build. He has light weathered skin, gray hair, and gray eyes. His features include an angular face, a straight nose, a slightly downturned mouth, and thick brows. He has a scar on his chin.
 
 # Dossier {#dossier}
 
@@ -605,7 +605,7 @@ Thorsteinn Sólvargr was born into a merchant family of modest means, destined f
 
 ### The Golden Years
 
-For thirty years, Thorsteinn worked as an apprentice, journeyman, and finally master, gradually building a reputation as a reliable, skilled craftsman. He developed particular expertise in functional glassware—drinking vessels, decorative plates, and specialized containers for apothecaries and scholars. His work was known for its clarity, its precise form, and its subtle elegance. By his early forties, he had established his own workshop in [[place-vithgard|Vithgard]]'s merchant district and had become a respected figure in the Glassworkers' Guild. He trained a succession of apprentices, married a merchant's daughter named **Elara**, and settled into what seemed a life of comfortable mastery.
+For thirty years, Thorsteinn worked as an apprentice, journeyman, and finally master, gradually building a reputation as a reliable, skilled craftsman. He developed a particular skill in functional glassware—drinking vessels, decorative plates, and specialized containers for apothecaries and scholars. His work was known for its clarity, its precise form, and its subtle elegance. By his early forties, he had established his own workshop in [[place-vithgard|Vithgard]]'s merchant district and had become a respected figure in the Glassworkers' Guild. He trained a succession of apprentices, married a merchant's daughter named **Elara**, and settled into what seemed a life of comfortable mastery.
 
 ### The Plateau Years
 
@@ -615,31 +615,31 @@ Now in his fifties, Thorsteinn has become something approaching an institution�
 
 ### Personality
 
-Thorsteinn is the embodiment of measured calm—a man who has learned through decades of work that hasty reactions and emotional extremes serve no one, particularly in a craft where precision and patience are absolute requirements. He speaks thoughtfully, choosing words with precision, and he listens carefully to others' concerns. This can sometimes make him seem distant or formal, particularly to those accustomed to more animated social interaction, but those who work with him recognize his reserve as competence—a reflection of someone who has learned that emotional display often masks emptiness.
+Thorsteinn is measured calm itself—a man who has learned through decades of work that hasty reactions and emotional extremes serve no one, particularly in a craft where precision and patience are absolute requirements. He speaks thoughtfully, choosing words with precision, and he listens carefully to others' concerns. This can sometimes make him seem distant or formal, particularly to those accustomed to livelier company, but those who work with him recognize his reserve as competence—a reflection of someone who has learned that emotional display often masks emptiness.
 
-There is, however, a quiet sadness about Thorsteinn, a sense of someone who has achieved mastery only to discover that mastery brings fewer satisfactions than he anticipated. He is not depressed exactly, but rather seems to carry a kind of resigned acceptance—the philosophical understanding that plateaus follow peaks, and that acceptance of limitation is part of maturity.
+There is, however, a quiet sadness about Thorsteinn, the sadness of someone who has achieved mastery only to discover that mastery brings fewer satisfactions than he anticipated. He is not depressed exactly; he seems to carry a kind of resigned acceptance—the philosophical understanding that plateaus follow peaks, and that acceptance of limitation is part of maturity.
 
 ### Motivation
 
-Thorsteinn is primarily motivated by a desire to preserve the quality and integrity of traditional glassworking in an era when he perceives quality declining and shortcuts becoming commonplace. He sees younger craftspeople cutting corners, using cheaper materials, and prioritizing novelty over substance. This troubles him deeply. He wants to ensure that his knowledge and his standards survive his own passing—that the craft itself doesn't degrade into mere production. Beyond this, he seeks to find renewed meaning in work that has become routine, to discover whether there's more to accomplish or whether he has truly achieved all he's capable of achieving.
+Thorsteinn is primarily motivated by a desire to preserve the quality and integrity of traditional glassworking in an era when he perceives quality declining and shortcuts becoming commonplace. He sees younger craftspeople cutting corners, using cheaper materials, and prioritizing novelty over substance. This troubles him deeply. He wants his knowledge and his standards to survive his own passing—that the craft itself doesn't degrade into mere production. Beyond this, he seeks to find renewed meaning in work that has become routine, to discover whether there's more to accomplish or whether he has truly achieved all he's capable of achieving.
 
 ### Strengths
 
-- **Masterful Glassworking** - Thorsteinn's technical skill is remarkable. He can work with glass at all temperature ranges, understands material properties with precision, and executes complex forms with accuracy. His work is technically excellent.
+- **Masterful Glassworking** - Thorsteinn's technical skill is of the first order. He can work with glass at all temperature ranges, understands material properties with precision, and executes complex forms with accuracy. His work is technically excellent.
 - **Exceptional Precision** - His hands have the kind of steady control that comes from forty years of focused practice. He can execute delicate work without hesitation or waste, and his failure rate is minimal.
 - **Knowledge of Materials** - He understands glass composition, knows how different materials affect the final product, and can diagnose material-related problems by examining the finished piece.
-- **Reliable Production** - He consistently produces high-quality work on schedule, with excellent consistency. Merchants and clients know they can depend on **Thorsteinn Sólvargr** to deliver exactly what was promised.
+- **Reliable Production** - He consistently produces high-quality work on schedule, with excellent consistency. Merchants and clients know they can depend on Thorsteinn Sólvargr to deliver exactly what was promised.
 - **Respected Authority** - His reputation and position in the Guild carry weight. When Thorsteinn speaks on matters of glasscraft, younger artisans listen, and his endorsement carries significant prestige.
-- **Effective Teacher** - Despite his reserve, he's capable of teaching those with genuine dedication, breaking complex skills into manageable components and providing patient, methodical instruction.
+- **Effective Teacher** - Despite his reserve, he's capable of teaching those with real dedication, breaking complex skills into manageable components and providing patient, methodical instruction.
 - **Calm Under Pressure** - His emotional stability extends to crisis situations. He remains methodical even when furnaces malfunction or valuable work breaks, solving problems rather than panicking.
 
 ### Weaknesses
 
-- **Rigid Aesthetic Vision** - Thorsteinn's greatest limitation is his inability to appreciate or embrace new aesthetic approaches. What he perceives as frivolous decoration or pretentious innovation, others see as artistic evolution. His designs have become predictable.
-- **Lack of Creativity** - While technically excellent, his work is fundamentally conservative. He produces beautiful functional glass, but he rarely innovates in form or pushes boundaries in ways that capture imagination.
+- **Rigid Aesthetic Vision** - Thorsteinn's greatest limitation is his inability to appreciate or embrace new aesthetic approaches. What he perceives as frivolous decoration or pretentious novelty, others see as artistic evolution. His designs have become predictable.
+- **Lack of Creativity** - While technically excellent, his work is fundamentally conservative. He produces beautiful functional glass, but he rarely tries anything new in form or pushes boundaries in ways that capture imagination.
 - **Resistance to Modern Techniques** - New glassworking methods that have emerged in recent decades hold no interest for him. He views them with skepticism and clings to methods established decades ago.
 - **Limited Business Acumen** - He has never been particularly interested in marketing, business development, or understanding broader economic trends. His work has succeeded through reputation alone, but he lacks the entrepreneurial skills that might expand his influence.
-- **Emotional Detachment** - His professional reserve sometimes extends into personal relationships. His wife has remarked that he seems to give more affection to his work than to the people in his life.
+- **Emotional Detachment** - The reserve of his working life sometimes extends into personal relationships. His wife has remarked that he seems to give more affection to his work than to the people in his life.
 - **Vulnerability to Market Shifts** - Should market preferences shift significantly toward contemporary aesthetics or toward cheaper mass-produced glassware, Thorsteinn's traditional approach could become economically precarious.
 - **Physical Limitations** - Years of intense heat exposure have taken subtle tolls on his health. He tires more easily than he did decades ago, and the heat of the furnace, which once invigorated him, now leaves him depleted.
 
@@ -647,29 +647,29 @@ Thorsteinn is primarily motivated by a desire to preserve the quality and integr
 
 ### Patrons
 
-- **The Merchant House Valdris** - A wealthy merchant family of considerable power who commission specialized glassware and decorative pieces, ensuring steady income. Lord **Aldric Valdris** values quality and tradition, making him an ideal patron for Thorsteinn.
-- **The Scholars' Collegiate** - A consortium of scholars and researchers who depend on Thorsteinn's precision glasswork for laboratory equipment and specialized vessels.
+- **The Merchant House Valdris** - A wealthy merchant family of considerable power who commission specialized glassware and decorative pieces, providing steady income. Lord **Aldric Valdris** values quality and tradition, making him an ideal patron for Thorsteinn.
+- **The Scholars' Collegiate** - A consortium of scholars who depend on Thorsteinn's precision glasswork for laboratory equipment and specialized vessels.
 
 ### Enemies
 
-- **Artisan Corvus Brighthammer** - A younger glassworker (who is also trained in ceramics) who established a rival workshop and is actively promoting contemporary aesthetic and technical approaches that directly challenge traditional glassworking. Corvus has begun winning commissions from wealthy patrons seeking the cutting edge, which troubles Thorsteinn.
+- **Artisan Corvus Brighthammer** - A younger glassworker (who is also trained in ceramics) who established a rival workshop and is actively promoting contemporary aesthetic and technical approaches that directly challenge traditional glassworking. Corvus has begun winning commissions from wealthy patrons seeking the newest work, which troubles Thorsteinn.
 - **The Merchants' Coalition of Modern Commerce** - A faction of younger traders and merchants promoting cheaper, imported glassware and contemporary design trends, actively undercutting Thorsteinn's market.
 
 ### Affiliations
 
-- **Glassworkers' Guild of Vithgard** - He holds a position of respect but is increasingly aligned with the guild's conservative faction, creating friction with progressive members seeking modernization and experimentation.
-- **The Masters' Circle** - An informal association of elder craftspeople from various disciplines who meet to discuss preservation of traditional techniques and resistance to modernization trends.
+- **Glassworkers' Guild of Vithgard** - He holds a position of respect but is increasingly aligned with the guild's conservative faction, creating friction with younger members seeking new methods and experimentation.
+- **The Masters' Circle** - An informal association of elder craftspeople from various disciplines who meet to discuss preservation of traditional techniques and resistance to the newer fashions.
 
 ## Plot Hooks
 
-1. **The Impossible Commission**: - A mysterious patron of great wealth approaches **Thorsteinn Sólvargr** with an extraordinary request: create a piece of glasswork that no one has ever successfully made before—something technically demanding that requires innovation to accomplish, but also something of profound beauty that challenges his rigid aesthetic principles. The commission offers enough wealth to secure his family's future, but accepting requires him to embrace creative risk and innovation in ways he's avoided for decades.
+1. **The Impossible Commission**: - A mysterious patron of great wealth approaches Thorsteinn Sólvargr with an extraordinary request: create a piece of glasswork that no one has ever successfully made before—something technically demanding that requires new methods to accomplish, but also something of great beauty that challenges his rigid aesthetic principles. The commission offers enough wealth to secure his family's future, but accepting requires him to embrace creative risk in ways he's avoided for decades.
 
 2. **The Apprentice's Betrayal**: - One of Thorsteinn's most accomplished apprentices, trained for years in his methods, announces that they're leaving to study under **Artisan Corvus**, seeking to learn contemporary techniques that Thorsteinn refuses to teach. The apprentice asks for Thorsteinn's blessing, but he refuses, viewing the defection as a betrayal of everything the apprenticeship represented. The crisis forces Thorsteinn to confront whether his resistance to change is wisdom or merely fear.
 
-3. **The Archaeological Fragment**: - While working with materials delivered to his workshop, Thorsteinn discovers fragments of ancient glasswork—masterpieces from centuries past that suggest technical methods and aesthetic approaches that seem completely foreign to modern knowledge. He becomes obsessed with understanding how these pieces were created, realizing that perhaps his entire approach to glassworking is based on incomplete knowledge, and that what he thought was established tradition might actually be a degradation of more sophisticated ancient practices.
+3. **The Archaeological Fragment**: - While working with materials delivered to his workshop, Thorsteinn discovers fragments of ancient glasswork—masterpieces from centuries past that suggest technical methods and aesthetic approaches that seem completely foreign to what is known today. He becomes obsessed with understanding how these pieces were created, realizing that perhaps his entire approach to glassworking is based on incomplete knowledge, and that what he thought was established tradition might actually be a degradation of finer ancient practices.
 
-4. **The Guild's Succession Crisis**: - The current Master of the Glassworkers' Guild announces retirement, and the position is open for election. Thorsteinn is asked to run by senior members who respect his traditional values, but he'd be directly opposed by younger craftspeople championing modernization. The campaign forces him to articulate what glassworking is, what values the craft should preserve, and whether tradition or innovation should guide the guild's future. The conflict threatens to split the organization.
+4. **The Guild's Succession Crisis**: - The current Master of the Glassworkers' Guild announces retirement, and the position is open for election. Thorsteinn is asked to run by senior members who respect his traditional values, but he'd be directly opposed by younger craftspeople championing new methods. The campaign forces him to articulate what glassworking is, what values the craft should preserve, and whether tradition or novelty should guide the guild's future. The conflict threatens to split the organization.
 
 5. **The Visitor from Abroad**: - A foreign glassworker of extraordinary skill arrives in Vithgard, carrying techniques and aesthetic principles from distant kingdoms. This visitor respects Thorsteinn's mastery but gently challenges his assumption that traditional methods are fixed and unchanging—proposing instead that tradition itself is living, evolving, and strengthened by the addition of new knowledge rather than threatened by it. The encounter forces Thorsteinn to reconsider fundamental assumptions about what tradition actually means and whether evolution necessarily represents degradation.
 
-6. **The Crisis of Quality**: - Thorsteinn discovers that a rival glassworker is selling cheap, poorly-made glass under a forged mark bearing his own name. Customers are being defrauded, and his hard-earned reputation for quality is being destroyed. Pursuit of justice draws him into legal and political entanglements, forcing him to navigate systems beyond his expertise. More troubling, he discovers that economic pressures are driving younger craftspeople to these shortcuts because traditional quality work is becoming economically unviable. He's forced to confront whether his standards of quality can survive in a market increasingly valuing affordability over excellence.
+6. **The Crisis of Quality**: - Thorsteinn discovers that a rival glassworker is selling cheap, poorly-made glass under a forged mark bearing his own name. Customers are being defrauded, and his hard-earned reputation for quality is being destroyed. Pursuit of justice draws him into legal and political entanglements, forcing him into courts and councils he does not understand. More troubling, he discovers that economic pressures are driving younger craftspeople to these shortcuts because traditional quality work is becoming economically unviable. He's forced to confront whether his standards of quality can survive in a market increasingly valuing affordability over excellence.

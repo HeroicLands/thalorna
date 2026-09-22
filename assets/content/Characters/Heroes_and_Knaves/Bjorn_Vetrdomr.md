@@ -588,7 +588,7 @@ sohl:
 
 ![[bjrnvtrdmr|Björn Vetrdómr]]{float: top-left}
 
-Björn stands 6'0" tall with a heavy build. He has tanned weathered skin, white hair, and gray eyes. His features include a rectangular face, a slightly upturned nose, a heavy jawline, a firm-set mouth, straight brows. A distinguishing mark is a tattoo of a snake on the chest.
+Björn stands 6'0" tall with a heavy build. He has tanned weathered skin, white hair, and gray eyes. His features include a rectangular face, a slightly upturned nose, a heavy jawline, a firm-set mouth, and straight brows. He has a tattoo of a snake on his chest.
 
 # Dossier {#dossier}
 
@@ -596,45 +596,45 @@ Björn stands 6'0" tall with a heavy build. He has tanned weathered skin, white 
 
 ### The Maker's Path
 
-Björn was born the eldest son of a brewmaster in the northern reaches of [[place-nordheim|Nordheim]], in a small town whose fortunes rose and fell with the success of its seasonal harvests. His father expected him to inherit the family trade, and indeed, young Björn showed considerable talent in the craft—a keen nose for the subtle interplay of grain, herbs, and fermentation that separates merely palatable ale from transcendent brew. But Björn's mother, a storyteller of considerable skill, saw something else in her son: a capacity for hospitality, for creating spaces where strangers became friends and the weary found solace.
+Björn was born the eldest son of a brewmaster in the northern reaches of [[place-nordheim|Nordheim]], in a small town whose fortunes rose and fell with the success of its seasonal harvests. His father expected him to inherit the family trade, and indeed, young Björn showed considerable talent in the craft—a keen nose for the subtle interplay of grain, herbs, and fermentation that separates a palatable ale from a fine one. But Björn's mother, a storyteller of considerable skill, saw something else in her son: a capacity for hospitality, for creating spaces where strangers became friends and the weary found solace.
 
 When his father died suddenly—struck down by fever when Björn was but twenty—the family brewery fell to his younger brother, Keth, while Björn was left to find his own path. Rather than resent this, Björn saw providence. He spent five years as a traveling merchant, learning the roads and the needs of distant communities. He mastered cooking alongside brewing, understanding that a full belly and satisfied palate were the foundations of fellowship.
 
 ### The Founding of the Hearth
 
-At twenty-five, Björn took what savings he had gathered and purchased a modest building in the larger trading town of [[place-ravensholm|Ravensholm]], where the crossroads of three major roads converged. The location was strategic, but Björn's true genius lay in his understanding of what travelers and locals alike truly needed. He built not merely a tavern, but a sanctuary—a place where merchant princes and common folk could break bread together, where disputes were settled over shared drink rather than steel, where lonely wanderers could for a night feel the warmth of community.
+At twenty-five, Björn took what savings he had gathered and purchased a modest building in the larger trading town of [[place-ravensholm|Ravensholm]], where the crossroads of three major roads converged. The location was well chosen, but Björn's true genius lay in his understanding of what travelers and locals alike truly needed. He built a tavern that was also a sanctuary—a place where merchant princes and common folk could break bread together, where disputes were settled over shared drink rather than steel, where lonely wanderers could for a night feel the warmth of community.
 
-For nearly three decades, the Serpent's Hearth (named after his devotion to [[lore-tyrdty|Týr]]) has been Ravensholm's beating heart. Björn's special ales have become renowned throughout the kingdom; his cooking is spoken of in hushed, reverent tones; but most importantly, his establishment has become a genuine refuge. During harsh winters, he has sheltered those with nowhere else to go. During conflicts, he has mediated between feuding families. During celebrations, his hall has echoed with the most joyful sounds any of his patrons have known.
+For nearly three decades, the Serpent's Hearth (named after his devotion to [[lore-tyrdty|Týr]]) has been the center of Ravensholm's life. Björn's ales are known throughout the kingdom; his cooking is spoken of in hushed, reverent tones; but most importantly, his establishment has become a refuge. During harsh winters, he has sheltered those with nowhere else to go. During conflicts, he has mediated between feuding families. During celebrations, his hall has echoed with the most joyful sounds any of his patrons have known.
 
 ### The Weight of Years
 
-Yet recently, Björn has felt the weight of his years settling upon his shoulders like an iron cloak. His body, once powerful and tireless, now protests after long days of labor. He has made enemies through his impartiality—there are always those displeased by his fair judgments. And most troublingly, he has begun to wonder if all his years of building community and providing sanctuary have merely delayed the darker currents he senses moving through the kingdom. He has also begun to question whether his legendary trustfulness has blinded him to threats that now encircle his beloved establishment.
+Yet recently, Björn has felt the weight of his years settling upon his shoulders like an iron cloak. His body, once powerful and tireless, now protests after long days of labor. He has made enemies through his impartiality—there are always those displeased by his fair judgments. And most troublingly, he has begun to wonder if all his years of building community and providing sanctuary have merely delayed the darker currents he senses moving through the kingdom. He has also begun to question whether his well-known trustfulness has blinded him to threats that now encircle his beloved establishment.
 
 ## Psyche
 
 ### Personality
 
-Björn is a man of contradictions—simultaneously warm and reserved, open and calculating, expansive and introspective. He has perfected the art of listening; those who speak to him often feel genuinely heard in a way they rarely experience elsewhere. Yet this apparent openness masks a sharp tactical mind. He understands human nature with the precision of a craftsman understanding his materials, and he manages his patrons with subtle genius that few recognize.
+Björn is a man of contradictions—simultaneously warm and reserved, open and calculating, expansive and introspective. He has perfected the art of listening; those who speak to him often feel heard in a way they rarely experience elsewhere. Yet this apparent openness masks a sharp tactical mind. He understands human nature with the precision of a craftsman understanding his materials, and he manages his patrons with subtle genius that few recognize.
 
 His wit is dry and often self-deprecating, and he laughs readily, though those who know him well recognize that his laughter often masks deeper concerns. He speaks with the measured cadence of one accustomed to being heard, but he never dominates conversation—instead, he draws others out, making them feel as though their thoughts and experiences matter. There is an almost professorial quality to him, as though he is constantly teaching through example rather than lecture.
 
 ### Motivation
 
-Björn's driving force is the belief that civilization itself rests upon small acts of hospitality and justice. He views his inn not merely as a business, but as a bulwark against the encroaching darkness of a world that grows colder and more fractious each passing year. He seeks to create spaces where the better nature of humanity can flourish, where conflicts can be resolved through words and shared meals rather than violence and bloodshed. Yet he harbors a growing conviction that such refuges cannot indefinitely stand against the larger currents of history—and this knowledge drives him to accomplish as much as possible before the inevitable reckoning arrives.
+Björn's driving force is the belief that civilization itself rests upon small acts of hospitality and justice. He views his inn as a bulwark against the encroaching darkness of a world that grows colder and more fractious each passing year. He seeks to create spaces where the better nature of humanity can flourish, where conflicts can be resolved through words and shared meals rather than violence and bloodshed. Yet he harbors a growing conviction that such refuges cannot indefinitely stand against the larger currents of history—and this knowledge drives him to accomplish as much as possible before the inevitable reckoning arrives.
 
 ### Strengths
 
-- **Culinary Mastery**: Björn's cooking transcends mere sustenance; his meals are memorable experiences that evoke emotional responses. He understands how flavors and textures can soothe wounds both bodily and spiritual.
-- **Brewing Genius**: His ales, meads, and fermented beverages are sought after throughout the kingdom. He has developed proprietary techniques and flavor profiles that cannot be easily replicated.
-- **Emotional Intelligence**: He reads people with remarkable accuracy and understands the unspoken currents of group dynamics. He can calm heated situations through seemingly casual comments.
-- **Strategic Thinking**: Beneath his warm demeanor lies a sharp tactical mind. He has built and sustained his business through careful planning, observation, and adaptation.
+- **Culinary Mastery**: Björn's cooking does more than feed people; his meals are memorable experiences that evoke emotional responses. He understands how flavors and textures can soothe wounds both bodily and spiritual.
+- **Brewing Genius**: His ales, meads, and fermented beverages are in demand throughout the kingdom. He has developed techniques and flavors of his own that cannot be easily copied.
+- **Emotional Intelligence**: He reads people accurately and understands the unspoken currents in a room. He can calm heated situations through seemingly casual comments.
+- **Strategic Thinking**: His warm demeanor covers a sharp tactical mind. He has built and sustained his business through careful planning, observation, and adaptation.
 - **Conflict Resolution**: He possesses an almost supernatural ability to mediate disputes and find common ground, though this talent comes from hard-won experience rather than innate gift.
 - **Extensive Network**: Years of hospitality have built him a web of connections throughout Nordheim. Merchants, nobles, mercenaries, and common folk all consider him a trusted ally or acquaintance.
 
 ### Weaknesses
 
 - **Excessive Trust**: His openness and faith in human nature, while admirable, have made him vulnerable. He often fails to recognize predatory intent until it is too late.
-- **Physical Decline**: His aging body cannot match the demands he places upon it. Long periods of labor leave him exhausted, and he is no longer capable of the physical feats required in genuine combat.
+- **Physical Decline**: His aging body cannot match the demands he places upon it. Long periods of labor leave him exhausted, and he is no longer capable of the physical feats required in real combat.
 - **Emotional Burden**: The weight of being a refuge to so many has accumulated over decades. He carries the sorrows and struggles of his patrons within his own heart, and the burden grows heavier each year.
 - **Conflict Avoidance in Personal Matters**: While skilled at mediating others' disputes, he avoids addressing problems within his own life—unresolved tensions with his brother Keth, questions about his legacy and succession, and doubts about his own worthiness.
 - **Blindness to Systemic Problems**: For all his understanding of human nature, Björn sometimes fails to recognize larger patterns and conspiracies that extend beyond his personal sphere of influence.
@@ -661,12 +661,12 @@ Björn's driving force is the belief that civilization itself rests upon small a
 
 ## Plot Hooks
 
-1. **The Succession Question**: Björn is aging, and he has no clear heir for his beloved inn. His nephew—Keth's son—approaches him with an offer: in exchange for naming him successor, the young man will help Björn discover the extent of his father's (Keth's) campaign against him. But the nephew has his own hidden agenda, and accepting his help may inadvertently enable a scheme that threatens the entire community.
+1. **The Succession Question**: Björn is aging, and he has no clear heir for his beloved inn. His nephew—Keth's son—approaches him with an offer: in exchange for naming him successor, the young man will help Björn discover the extent of his father's (Keth's) campaign against him. But the nephew has his own hidden purpose, and accepting his help may inadvertently enable a scheme that threatens the entire community.
 
 2. **The Plague of False Ale**: A mysterious illness begins spreading through Ravensholm, affecting those who have consumed ale from the Serpent's Hearth. Björn is horrified to discover that someone has deliberately contaminated his supplies with subtle poison. The taint spreads faster than he can contain it, and he must work with both allies and dangerous outsiders to identify the poisoner while his reputation—and his patrons' lives—hang in the balance.
 
-3. **The Noble's Dark Secret**: A prominent noble confides in Björn, sharing a terrible secret that, if revealed, would destroy her family and alter the political landscape of Nordheim. She asks for his absolute discretion, and he grants it—until adventurers arrive seeking information about her, and Björn must decide whether to betray his code of hospitality to prevent whatever catastrophe they're trying to avert.
+3. **The Noble's Dark Secret**: A prominent noble confides in Björn, sharing a terrible secret that, if revealed, would destroy her family and shift the politics of Nordheim. She asks for his absolute discretion, and he grants it—until adventurers arrive seeking information about her, and Björn must weigh his code of hospitality against whatever catastrophe they're trying to avert.
 
-4. **The Resurrection of Keth**: Word arrives that Björn's younger brother, long thought lost to a trading accident years ago, has been discovered alive in distant lands, possessed of vast wealth and mysterious new allegiances. Keth returns to Ravensholm with claims to both the family brewery and the Serpent's Hearth, and he brings with him shadowy associates whose intentions are deeply unclear. Björn must navigate this reunion without knowing whether his brother is genuinely returned or an imposter, and what dark purposes motivate his sudden reappearance.
+4. **The Resurrection of Keth**: Word arrives that Björn's younger brother, long thought lost to a trading accident years ago, has been discovered alive in distant lands, with vast wealth and mysterious new allegiances. Keth returns to Ravensholm with claims to both the family brewery and the Serpent's Hearth, and he brings with him shadowy associates whose intentions are deeply unclear. Björn must face this reunion without knowing whether his brother is truly returned or an imposter, or what dark purposes lie behind his sudden reappearance.
 
-5. **The Tapestry of Fate**: An ancient prophet or oracle arrives at the inn, claiming to possess knowledge of a coming darkness that will test every principle Björn has built his life upon. She offers cryptic guidance in exchange for shelter and resources, but her predictions grow increasingly specific and disturbing. Björn must determine whether she is genuine or mad, while the events she predicted begin—slowly, terrifyingly—to manifest around him.
+5. **The Tapestry of Fate**: An ancient prophet or oracle arrives at the inn, claiming to possess knowledge of a coming darkness that will test every principle Björn has built his life upon. She offers cryptic guidance in exchange for shelter and resources, but her predictions grow increasingly specific and disturbing. Björn must judge whether she is a true seer or mad, while the events she predicted begin—slowly, terrifyingly—to manifest around him.
