@@ -624,7 +624,7 @@ Faradûn's primary motivation is to maintain his reputation as a reliable transp
 - **Mastery of Animal Husbandry**: Faradûn's skill with draft animals is exceptional; he can manage even difficult or temperamental teams, understands their needs and psychology, and treats them with genuine compassion.
 - **Expert Navigation and Survival**: His knowledge of the routes, terrain, weather patterns, and survival in harsh environments is comprehensive and intuitive.
 - **Physical Strength and Endurance**: Despite his age, he possesses considerable strength and the stamina to work long hours under difficult conditions.
-- **Mechanical Knowledge**: Years managing wagon repair and maintenance have given him solid practical skills with tools and sohl.
+- **Mechanical Knowledge**: Years managing wagon repair and maintenance have given him solid practical skills with tools and kit.
 - **Exceptional Judgment**: He has a keen sense of when situations are dangerous, which people can be trusted, and how to de-escalate conflicts.
 
 ### Weaknesses

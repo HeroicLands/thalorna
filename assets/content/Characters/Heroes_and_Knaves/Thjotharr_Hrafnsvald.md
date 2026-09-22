@@ -648,20 +648,20 @@ Thjótharr is motivated by a desire for recognition and immortality through his 
 
 ### Patrons
 
-- **Lady Viscontess **Erika Thorgrimsdottir\*\*: A powerful noblewoman who has been Thjótharr's most consistent and influential patron for twenty years. She wears his designs to every significant event and has championed his work in the highest circles.
-- **Duke **Soren Ironbrand\*\*: A wealthy warrior nobleman who commissions formal garments for official functions. He trusts Thjótharr's judgment completely and has introduced him to numerous high-ranking patrons.
-- **The Court of the **Kingdom of Norgaad\*\*: Official court functions and ceremonial occasions increasingly feature garments designed by Thjótharr. His influence on royal aesthetics is substantial.
+- **Lady Viscontess Erika Thorgrimsdottir**: A powerful noblewoman who has been Thjótharr's most consistent and influential patron for twenty years. She wears his designs to every significant event and has championed his work in the highest circles.
+- **Duke Soren Ironbrand**: A wealthy warrior nobleman who commissions formal garments for official functions. He trusts Thjótharr's judgment completely and has introduced him to numerous high-ranking patrons.
+- **The Court of the Kingdom of Norgaad**: Official court functions and ceremonial occasions increasingly feature garments designed by Thjótharr. His influence on royal aesthetics is substantial.
 
 ### Enemies
 
-- **Master Tailor **Oskar Redforge\*\*: Thjótharr's primary rival, whose more accessible and commercially successful designs have challenged Thjótharr's market dominance. Their competition is professional but venomous.
+- **Master Tailor Oskar Redforge**: Thjótharr's primary rival, whose more accessible and commercially successful designs have challenged Thjótharr's market dominance. Their competition is professional but venomous.
 - **The Tailors' Guild**: While Thjótharr holds prestigious membership, many guild members resent his elitism and his tendency to poach the best apprentices with promises of training superior to the guild provides.
 - **Common Clothiers and Market Merchants**: Those who serve average clients view Thjótharr as an elitist who has damaged the reputation of the entire profession by treating common people with contempt.
 
 ### Affiliations
 
 - **The City Tailors' Guild**: Thjótharr holds a prestigious position and effectively shapes the guild's standards, though this creates resentment among other members.
-- **Elite Social Circles of **Norgaad\*\*: He moves in the highest social strata and is welcome at noble gatherings where his opinions on aesthetics are treated as gospel.
+- **Elite Social Circles of Norgaad**: He moves in the highest social strata and is welcome at noble gatherings where his opinions on aesthetics are treated as gospel.
 - **[[being-hrfnklhrfnsvld|Hrafnkell Hrafnsvald]] (Brother)**: Thjótharr's younger brother by eight years, a tentmaker in Vithgard. The two share the Hrafnsvald name and a talent for working with fabric, but that is where the similarities end. Thjótharr considers tentmaking a waste of genuine skill—[[being-hrfnklhrfnsvld|Hrafnkell]] could have been a fine clothier if he hadn't squandered his youth soldiering. [[being-hrfnklhrfnsvld|Hrafnkell]], for his part, views his brother's vanity and elitism with weary amusement. They correspond infrequently but with real affection, each quietly convinced the other chose the wrong life.
 - **[[being-bjlfhrfnsvld|Bjalfi Hrafnsvald]] (Nephew)**: Thjótharr's nephew, the son of [[being-hrfnklhrfnsvld|Hrafnkell]], a young militia sergeant in Vithgard. Thjótharr finds [[being-bjlfhrfnsvld|Bjalfi]]'s martial lifestyle coarse and unglamorous, yet feels a genuine familial pride in the young man's courage and rising reputation. He has been known to send finely crafted garments to his nephew—gifts [[being-bjlfhrfnsvld|Bjalfi]] wears awkwardly but with quiet appreciation.
 
