@@ -11,6 +11,8 @@ data:
   parents:
     - vindhyalayaland
   population: 40000
+  routes:
+    - { to: suryadvara, bearing: N, mode: land, days: 20, terrain: [road, mountains, ice] }
 name:
   full: Sūryāgarha
   aliases: []

@@ -47,7 +47,10 @@ data:
         The working priest of a sampradāya, whose ordination is to the school and whose service is to whichever gods its doctrine requires.
   commonSkills: []
   seat: null
-  domains: []
+  domains:
+    - pssshrines
+    - mahaprbhva
+    - bhrvprbhav
   population: null
   economy: []
   lore: []
