@@ -110,7 +110,7 @@ Aelwyth's closest ties are with [[place-elavendre|Élavendre]] on the nearby mai
 
 Before there were kingdoms on Aelwyth there was one, and both elder races held it.
 
-After [[lore-khazarturn|Khazártúrn]] fell in 2800 BF the [[lore-flksinale|Sinalë]] and
+After [[lore-khazarturn|Khazártúrn]] fell in 2427 BF the [[lore-flksinale|Sinalë]] and
 [[lore-flkkhazar|Khazári]] ceased dealing with one another everywhere in the world — except on this
 island, where instead they attempted to repair it. They united Aelwyth under a **single crown** held by a
 Sinalë king and governed it together for **six centuries**: the only reconciliation either race has ever

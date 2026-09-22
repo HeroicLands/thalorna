@@ -310,7 +310,7 @@ builders, and there is no account of anyone telling them.
 
 The Sinalë have never said where it happened, what was said, or what the others were doing when they
 were found. They will confirm that it occurred, and that is the end of what they will give. The
-[[lore-flkkhazar|Khazári]], arriving a thousand years later, never met them and have nothing of their
+[[lore-flkkhazar|Khazári]], arriving two thousand years later, never met them and have nothing of their
 own; whatever the Sinalë chose to pass on in the years when the two peoples still spoke went no further
 than that, and both peoples have been silent since long before any human asked.
 
