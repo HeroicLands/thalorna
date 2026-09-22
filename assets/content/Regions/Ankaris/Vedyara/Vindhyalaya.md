@@ -94,6 +94,7 @@ data:
   seat: suryagarha
   domains:
     - vindhyalayaland
+    - suryagarha
   population: 8000000
   economy:
     - lore-vdyrnbnkng

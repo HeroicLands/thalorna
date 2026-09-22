@@ -1,6 +1,7 @@
 ---
 tags:
   - region
+  - held
 description: "The land of the kingdom of Vindhyālaya — the northern highlands of Vedyara, pine-clad ridges, snow-fed rivers and the pass-roads that carry the caravan trade over the wall to the steppe beyond."
 name:
   full: Vindhyālaya

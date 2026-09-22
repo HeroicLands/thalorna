@@ -1,6 +1,8 @@
 ---
 tags:
   - region
+  - endowed
+  - held
 description: The southern subcontinent of Ankaris — a patchwork of castes, courts, and mystical traditions beneath the cycle-gods of the Varṇaka Pantheon.
 name:
   full: Vedyara Region
@@ -25,7 +27,7 @@ terran_analog: India (subcontinent of independent states)
 packFolder: vedyara
 ---
 
-The Vedyara Region is the southeastern subcontinent of [[place-ankrscntnnt|Ankaris Continent]] — a vast, lush, politically fragmented land of river valleys, tropical forests, mountain kingdoms, and coastal city-states, united by shared language, shared pantheon, and a shared cultural inheritance that stretches back further than any comparable tradition on the continent. While Aurèldía is a civilization of the high-medieval court and Tānvür of the celestial bureaucracy, Vedyara is a civilization of the **caste-ordered polity** — a hundred small kingdoms, city-states, and temple-domains whose political boundaries shift across centuries but whose deeper social structures have been continuous for three millennia.
+The Vedyara Region is the southeastern subcontinent of [[place-ankrscntnnt|Ankaris Continent]] — a vast, lush, politically fragmented land of river valleys, tropical forests, mountain kingdoms, and coastal city-states, united by shared language, shared pantheon, and a shared cultural inheritance that stretches back further than any comparable tradition on the continent. While Aurèldía is a civilization of the high-medieval court and Tānvür of the celestial bureaucracy, Vedyara is a civilization of the **caste-ordered polity** — kingdoms, city-states and temple-republics whose political boundaries shift across centuries but whose deeper social structures have been continuous for three millennia.
 
 Vedyara's political fragmentation is genuine and chronic, but it coexists with an extraordinarily strong cultural unity. A Vedyari scholar from a southern port can travel to a northern mountain kingdom and find its temples, its caste categories, its mathematical curriculum, and its classical drama all intelligible at once. The region shares the [[affiliation-varakpnthn|Varṇaka Pantheon]], the Vedyari language (in several dialect forms), and a body of classical literature that every educated person studies regardless of which particular kingdom they serve.
 
@@ -67,7 +69,17 @@ The [[affiliation-ordoarcanis|Ordo Arcanis]] has no presence in Vedyara and is n
 
 ## Politics and Power
 
-Vedyara has no unified political authority and, unlike Tānvür, no tradition of unification. The region is a mosaic of independent kingdoms, city-states, republics, and temple-domains — perhaps forty major polities at any given time, plus a larger constellation of minor ones, each with its own hereditary ruler, its own court, its own foreign policy. Major kingdoms rise and fall, occasionally absorbing or subordinating their neighbors for a generation or two before fragmenting again. The deeper social order — the caste system, the temple networks, the classical language and literature — is continuous across these political rises and falls, which is why Vedyari unity persists even though Vedyari political fragmentation is permanent.
+Vedyara has no unified political authority and, unlike Tānvür, no tradition of unification. It has instead three forms of polity, each with its own sabhā, council or court, and the difference between them is most of what a Vedyari means when he says where he is from.
+
+The **janapada** is the substrate: eight to forty villages federated around a temple and governed by the temple's sabhā, holding its land through the temple and answering to no king. They are counted in thousands and they hold the great mass of the subcontinent's people; the roll is kept by the [[affiliation-janpdsvdyr|Mahā-Saṅgha]], which convenes them and does not govern them.
+
+The **rājya** is the kingdom: a hereditary Mahārāja advised by a martial council of clan-chieftains and a priestly court of Varṇaka brahmins, ruling his own clans directly and such janapadas as accept his patronage indirectly. When a Vedyari scholar writes of _a hundred small kingdoms_ he is counting these, and he is counting every size of them together — from a single valley with a fort in it to the pass-country of [[affiliation-vindhyalay|Vindhyālaya]].
+
+The **nagara** is the city-state: a coastal or river city ruling its hinterland through a council of merchant houses and temple patrons, whether it keeps a king at the head of that council as [[affiliation-chandrapur|Chandrapur]] does, or has outlived one as [[affiliation-vyalendra2|Vyālendra]] has.
+
+Of all of them, perhaps **forty** hold a seat at the great pilgrimage assembly in their own right rather than through a river-circuit, and those forty are what a foreign envoy means when he speaks of the major polities of Vedyara.
+
+Patronage is not suzerainty, and the distinction is taken seriously on both sides of it. A kingdom over a janapada guarantees its water and its road and takes a tithe and a levy in return; the sabhā keeps its own law, its own court and its own seat in the roll, and either party may let the arrangement lapse when it stops being worth the cost. Major kingdoms rise and fall, occasionally absorbing or subordinating their neighbors for a generation or two before fragmenting again. The deeper social order — the caste system, the temple networks, the classical language and literature — is continuous across these political rises and falls, which is why Vedyari unity persists even though Vedyari political fragmentation is permanent.
 
 Warfare between Vedyari kingdoms follows elaborate conventions that are simultaneously ruthless and highly restricted. Certain forms of violence are acceptable; others are unthinkable; the codification of these distinctions is a major subject of the classical military manuals. Cross-regional conflicts are typically resolved short of total war.
 
