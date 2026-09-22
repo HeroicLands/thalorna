@@ -1,6 +1,6 @@
 ---
 name:
-  full: "Helspawn"
+  full: "Undead"
 shortcode: helspawn
 type: folder
 data:

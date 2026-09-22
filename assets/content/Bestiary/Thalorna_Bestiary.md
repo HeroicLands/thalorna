@@ -45,9 +45,9 @@ See [[lore-grukarfolk|Grukar]].
 
 See [[lore-goblinfolk|Goblins]].
 
-## Helspawn
+## Undead
 
-See [[lore-helspawncrtr|Helspawn]].
+See [[lore-undead|Undead]].
 
 ## Mythic Creatures {#mythic}
 

@@ -59,8 +59,8 @@ data:
         Holds the litany by which a soul is guided through the night, and is answerable for its exactness at
         every hour.
       Binder of the Chamber: >-
-        Sets the workings in the deepest chambers — the shabti-warriors that wake at a broken seal, and the
-        wardens set to walk the dark.
+        Sets the workings in the deepest chambers — the shabti-warriors, ḍumaṭu that wake at a broken
+        seal, and the revenant-wardens, ṭerebu set to walk the dark with their wits about them.
       Reader of the Sealed Work: >-
         Alone permitted to open a sealed chamber to correct a failed binding, and required to reseal it the
         same night.

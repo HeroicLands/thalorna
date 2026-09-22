@@ -55,8 +55,9 @@ data:
         Endowed by the wealthy to keep standing watch above a tomb — the outermost of the guarded layer,
         above the barriers, the traps and the curses.
       Binder of the Warded Chamber: >-
-        Sets the bindings in the deepest chambers: shabti-warriors that wake and strike when the seal is
-        broken, and revenant-wardens set to walk the dark forever. It is the costliest defence and the most
+        Sets the bindings in the deepest chambers: shabti-warriors, ḍumaṭu that wake and strike when the
+        seal is broken, and revenant-wardens, ṭerebu that keep their wits and their post in the dark
+        forever. It is the costliest defence and the most
         dreaded — and the robbers' surest master-key is a corrupt priest who knows which glyph is live and
         which is bluff.
   commonSkills:
