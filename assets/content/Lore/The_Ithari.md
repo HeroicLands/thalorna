@@ -47,11 +47,28 @@ met one, and it is the only description there is.
 
 ## The works, and the one substance
 
+The look comes first, and it is what tells anyone who meets a work that it is not theirs and not
+anybody's they know of. An Ithári structure runs in ribs and shallow vaults, regular and true, its
+walls curving into floor and ceiling with no join anywhere and no straight edge in any of it — the
+economy of bone, or of the inside of a shell, held to with a severity no mason could better. Nothing
+on it is ornament. The strangeness is not that it is wild but that it is so disciplined: a form
+without a single square corner, and every curve of it exact.
+
+**The entryways are oval.** Not a rectangle anywhere, no lintel, no jamb, no threshold to step over —
+each opening is a smooth oval whose edge runs continuous with the wall around it. It is the detail
+anyone can describe and nobody mistakes, and at a distance it is what a traveller recognises before
+anything else.
+
+A work has the shape of a thing with an inside, not of a building with rooms. It does not resemble
+anything that ever grew on Thalorna either, so the resemblance to something living leads nowhere at
+all.
+
 Everything the Ithári left is made of the same thing. The Kaliharans call it **ithári'sul**, "precursor
 stone," and it resembles stone in the way that a word resembles the thing it names. It is seamless —
 no joints, no mortar, no tool-marks, no grain. It does not weather. Some of it is warm to the touch,
 and some of it is faintly luminous in the dark, and the pieces that do one do not reliably do the
-other.
+other. It is hard, and it is cold, and in a work of any size it is all one continuous piece: there is
+no seam on it anywhere, and no crack.
 
 It is found nowhere else on Thalorna, and it is not of Thalorna. No quarry has produced it, no smith
 has matched it, and no assayer the Kaliharans have let near a fragment has been able to say what it
@@ -59,6 +76,23 @@ is. The Kaliharans do not regard this as a mystery, because in their understandi
 of the world exactly as a reef or a river is, placed where it stands by the Ithári as part of the
 whole. Nobody else has the category at all: a foreign mason who handles a piece of it has met an
 unaccountable stone, not the work of a people.
+
+**Nothing can be done to a work.** It cannot be cut, drilled, prised, ground or split; no tool bites
+and no fire marks it; nothing can be joined to it and nothing taken from it. A structure will also not
+move — it cannot be shifted, lifted, tipped or dragged from where it stands, by any number of hands or
+beasts or engines, and no one has ever established what holds it. Implements, the small portable
+devices, are a different matter: those can be picked up and carried like anything else. It is
+structures that stay.
+
+What this leaves anyone who finds one is a short list. You cannot open it, quarry it, build with its
+material, or take it home. You can use it where it stands, or build around it. That is the whole of
+what is possible, and it is also why these things are still here: every other ancient work on Thalorna
+was robbed for its stone within a few generations of being left alone, and the Ithári's could not be
+robbed, so they were not.
+
+The one thing that gives is a work that has already died. When a structure fails, its fabric can at
+last be broken, and that is where every fragment of ithári'sul in Kaliharan hands has come from.
+Nothing has ever been taken from a living work.
 
 ## No mechanism
 
