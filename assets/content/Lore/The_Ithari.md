@@ -24,8 +24,11 @@ sites say nothing.
 
 **The name itself is Kalihári.** _Ithári_ means "Those Who Came Before," it is what the Kaliharans
 called them, and it is spoken nowhere else on the world, because nowhere else is there anything to
-attach it to. The Ithári's own name for themselves is not recorded. Neither is what they looked like,
-how many of them there were, how long any one of them lived, or whether the word names a people, a
+attach it to. It is not their name for themselves — **no Ithári word exists**, and none ever has in
+anybody's keeping. Thári'vaan, ithári'sul, Ithári'kaan: every term in this account is Kalihári, a
+Kaliharan word for a Kaliharan thing. Nobody has ever heard an Ithári name for the people, for a
+place, for an instrument, or for one of themselves. Neither is it recorded what they looked like, how
+many of them there were, how long any one of them lived, or whether the word names a people, a
 profession or a crew.
 
 What follows is therefore the Kaliharan account, which is the only account there is. Where it states a
@@ -87,24 +90,69 @@ all.
 
 Everything the Ithári left is made of the same thing. The Kaliharans call it **ithári'sul**, "precursor
 stone," and it resembles stone in the way that a word resembles the thing it names. It is seamless —
-no joints, no mortar, no tool-marks, no grain. It does not weather. Some of it is warm to the touch,
-and some of it is faintly luminous in the dark, and the pieces that do one do not reliably do the
-other. It is hard, and it is cold, and in a work of any size it is all one continuous piece: there is
-no seam on it anywhere, and no crack.
+no joints, no mortar, no tool-marks, no grain — and in a work of any size it is all one continuous
+piece, with no seam on it anywhere and no crack. Some of it is warm to the touch, and some of it is
+faintly luminous in the dark, and the pieces that do one do not reliably do the other.
+
+To the eye it is marble: smooth, softly lustrous, and a uniform grey. There is no vein in it, no
+figure, no grain, no mottling, no mark — the same grey across a floor, across a wall, across a whole
+chamber, without a single variation anywhere to rest on. To the hand it is nothing of the kind. It
+gives. A finger pressed against it sinks very slightly, as into supple leather, and the surface
+returns when the finger lifts.
+
+The two senses do not agree and neither will correct the other, and that is the thing people remember
+long afterwards. Some will not touch a work a second time. It is also why the rest of what is true of
+the substance is so hard to credit from the outside: a surface that yields under a fingertip takes no
+mark whatever from a chisel.
+
+**No work bears writing.** There is no inscription on any of them, no glyph, no sigil, no maker's
+mark, no numbering, no sign of any kind — nothing that could be read and nothing that names anything,
+and nothing could ever have been put there, since the substance takes no mark.
+
+It goes further than the works. **There is no Ithári writing anywhere, and no Ithári language that
+anyone knows of.** No script, no text, no record, nothing they left that was meant to be read, and
+nothing that could have served them as one. If they had any means of setting a thing down, the
+Kaliharans never learned of it. Every written thing on the island, from the sanctuaries' oldest slabs
+to a child's sílhari manual, is Kaliharan work in a Kaliharan hand.
+
+The accounts go one step beyond even that, and it is the single strangest thing in them. **They do not
+describe the Ithári as speaking.** What they describe is understanding arriving — a thing known that
+was not known a moment before, without a word having been said. The Kaliharans have transmitted this
+for eighty centuries as plain fact and have never treated it as remarkable; nothing survives that
+could confirm it, and nothing suggests they invented it either. It is what the stories say.
+
+That accounts for the shape of everything since. The teaching was **received, not read**: agriculture,
+medicine, governance, the whole understanding, all of it arriving with no text behind it and nothing
+to go back to. It is why the island's tradition is procedure and recitation to this day, and why the
+custodians' liturgies are held by rote — there has never been anything to consult, only what was given
+and what has been passed on since. The last instructions at the departure came the same way, hurriedly,
+and the caretakers wrote down afterwards what they could hold of them, which is why even those exist
+only as a Kaliharan record of something received.
+
+This is also why nobody has ever learned a single word about the Ithári from the works themselves.
+Every word anyone has is Kaliharan, and the Kaliharans have it because they were told.
 
 It is found nowhere else on Thalorna, and it is not of Thalorna. No quarry has produced it, no smith
-has matched it, and no assayer the Kaliharans have let near a fragment has been able to say what it
+has matched it, and no assayer the Kaliharans have let near a piece of it has been able to say what it
 is. The Kaliharans do not regard this as a mystery, because in their understanding ithári'sul is part
 of the world exactly as a reef or a river is, placed where it stands by the Ithári as part of the
 whole. Nobody else has the category at all: a foreign mason who handles a piece of it has met an
 unaccountable stone, not the work of a people.
 
-**Nothing can be done to a work.** It cannot be cut, drilled, prised, ground or split; no tool bites
-and no fire marks it; nothing can be joined to it and nothing taken from it. A structure will also not
-move — it cannot be shifted, lifted, tipped or dragged from where it stands, by any number of hands or
-beasts or engines, and no one has ever established what holds it. Implements, the small portable
-devices, are a different matter: those can be picked up and carried like anything else. It is
-structures that stay.
+**Nothing can harm it.** This is the plainest fact in the record and the one nobody disputes, because
+every people that has ever met a work has tried. No tool, no weapon, no fire, no acid, no cold, no
+flood, no fall, no siege engine and no working of any tradition — arcane, divine or spirit — has
+marked, scratched, dented, burned, stained, cracked or chipped a work of the Ithári. It cannot be cut,
+drilled, prised, ground or split. Nothing can be joined to it and nothing taken from it.
+
+Time does not touch it either. It does not weather, dull, discolour, erode, or gather any mark of age
+at all, and a work looks today exactly as it looked on the day the Ithári walked away from it eighty
+centuries ago.
+
+A structure will also not move — it cannot be shifted, lifted, tipped or dragged from where it stands,
+by any number of hands or beasts or engines, and no one has ever established what holds it.
+Implements, the small portable devices, are a different matter: those can be picked up and carried
+like anything else. It is structures that stay.
 
 What this leaves anyone who finds one is a short list. You cannot open it, quarry it, build with its
 material, or take it home. You can use it where it stands, or build around it. That is the whole of
@@ -112,9 +160,8 @@ what is possible, and it is also why these things are still here: every other an
 was robbed for its stone within a few generations of being left alone, and the Ithári's could not be
 robbed, so they were not.
 
-The one thing that gives is a work that has already died. When a structure fails, its fabric can at
-last be broken, and that is where every fragment of ithári'sul in Kaliharan hands has come from.
-Nothing has ever been taken from a living work.
+One thing does change, and only one: a work can **fail**. Failure is not damage and is described
+below on its own terms.
 
 ## No mechanism
 
@@ -138,10 +185,48 @@ and there is no inside.
 
 ## The failures
 
-The works also stop. Not all at once, not by any pattern anyone has established, and not for any reason
-that can be found afterward. An [[affiliation-kalihara#the-ancient-structures|installation]] that has performed the same office
-reliably for a hundred generations dims, cools, and is simply inert, and the fragment broken from it afterward is the same
-substance it always was.
+The works also stop. Not all at once, not by any pattern anyone has established, and not for any
+reason that can be found afterward. An
+[[affiliation-kalihara#the-ancient-structures|installation]] that has performed the same office
+reliably for a hundred generations does it no longer.
+
+A work is found in one of four states, and the first two are alive.
+
+1. **Working.** Grey, giving, doing whatever it does.
+2. **Working badly.** Still grey, still giving under the hand, and still a live work — but doing its
+   office weakly, or intermittently, or in the wrong place, or less each year than the year before.
+   This is malfunction, not dying, and the two must not be confused: a work in this state is not
+   partly dead, it is wholly alive and going wrong.
+3. **Stopped.** Nothing about the substance has changed at all — the same uniform grey, the same
+   marble sheen, the same slight give under a finger — and it does nothing. A stopped work cannot be
+   told from a working one by eye or by hand. It is discovered when somebody needs it.
+4. **White.** The grey is gone and the give with it, and what is left is hard the way bone is hard. A
+   white work is dead. Some white works later develop **cracks**; only a white work ever does, and a
+   cracked one is the only kind that has ever given up a held stone.
+
+**Nothing goes part white.** The whitening takes a whole work at once, and there is no half-grey,
+half-bone condition — not as a stage, not in passing, not anywhere on record. White is dead, and it is
+visible across a clearing.
+
+**Nothing anyone does affects any part of this.** A cracked work cannot be broken further: no force
+widens a crack, no blow extends one, and nothing takes a piece off by violence. Nobody has ever caused
+a failure, hastened one, halted one or reversed one. A work may stand in any of these states
+indefinitely, and being in one is no promise of the next — there are works that stopped in the time of
+the Elder Races and are grey and supple to this day.
+
+The cruelty of it is in the second state. A work going wrong gives no indication of how long it has,
+because every sign of trouble is in what it **does** and none of it is in what it **is**: the
+substance of a work failing badly is identical to the substance of one that will still be running in
+a thousand years. There is nothing to inspect. There is only the office, done well or done poorly.
+
+So the whole of it comes from the works themselves. Nothing can harm a work, and a work's ending is
+entirely its own.
+
+That also says exactly what a **held stone** is: the piece a dead, whitened, cracked work gives up.
+A held stone is bone-white and hard, never grey and never giving, which is why a custodian knows one
+by feel the instant it is in the hand and why the sanctuaries' reference pieces are all of that kind.
+No living work has ever yielded one. Even a cracked work yields only what it yields, and not what
+anybody takes.
 
 The [[affiliation-tharivaan|Ithári'kaan]], who tend them, have no repair to attempt.
 They know the procedures and not the principles, and a procedure that has kept a structure working
@@ -156,7 +241,7 @@ the fact most worth sitting with, because they were here for the better part of 
 and they did it once.
 
 What they made there was not a people improved but a civilization invented: agriculture, medicine,
-governance, a language with no relative anywhere on the world, a script beneath the script, and
+governance, a vocabulary for all of it, and
 **[[affiliation-tharivaan|Thári'vaan]]** — a disciplined account of the world as a single living whole,
 to be observed and tended rather than mastered or appeased. It arrived complete. Nothing on Kalihara
 shows the long clumsy ascent that every other human tradition shows, because there was not one.

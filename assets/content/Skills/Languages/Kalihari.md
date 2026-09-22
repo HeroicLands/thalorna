@@ -32,7 +32,7 @@ Kalihári is a tongue of the Kalihári (ancient isolate) family. Fluency measure
 
 ## Overview
 
-Kalihári is among the oldest living languages on Thalorna, predating all Ankarian human languages by millennia, and it is spoken today by the Kaliharan peoples of the Kalihara Confederation. The language stands in complete **linguistic isolation**—no known relatives exist anywhere on Thalorna, and no philologist off the island can account for it. Kaliharan informants at the ports say the tongue was given to their ancestors by a people who came before them; that is reported and unverifiable, and it is the whole of what any foreign scholar has on the question.
+Kalihári is among the oldest living languages on Thalorna, predating all Ankarian human languages by millennia, and it is spoken today by the Kaliharan peoples of the Kalihara Confederation. The language stands in complete **linguistic isolation**—no known relatives exist anywhere on Thalorna, and no philologist off the island can account for it. The likeliest explanation is also the dullest: a single people on a single landmass, out of contact with every other, speaking for eight thousand years whatever their ancestors happened to speak. Isolation of that length does not need a stranger to explain it.
 
 To the untrained ear, Kalihári sounds exotic and flowing: vowel-heavy, with liquid consonants that cascade like water. The language rarely employs harsh stops or heavy consonant clusters. Instead, it privileges open syllables, gliding transitions, and a musical quality unlike anything heard on the Ankarian mainland. This flowing character reflects both the coastal geography of the Kalihara Confederation and a philosophical worldview emphasizing harmony and interconnection.
 
@@ -134,11 +134,11 @@ Literacy in Interior Kalihári follows the same broad pattern as elsewhere on Th
 
 ## Historical Development
 
-Kaliharans questioned at the ports trace the tongue to a people they call the **Ithári**, who they say came before them and departed long ago, and they hold themselves to be those people's cultural and linguistic heirs by an unbroken descent. No scholar outside the island can test any part of that account, and none has been permitted to try. What the foreign evidence supports is the isolation itself and nothing further.
+Kaliharans questioned at the ports trace their civilization to a people they call the **Ithári**, who they say came before them and departed long ago. They do not claim the tongue from them. By their own account those people left no word of any kind behind them and were never heard to speak — what was received was understanding, not language — so Kalihári is held to be the islanders' own, enlarged over eighty centuries by everything they were given to name. No scholar outside the island can test any part of that account, and none has been permitted to try. What the foreign evidence supports is the isolation itself and nothing further.
 
 The language has **changed remarkably little in core structure** over recorded history—a testament to Kaliharan cultural conservatism and reverence for ancestral knowledge. However, **vocabulary has evolved** with geography and trade:
 
-- **Ancient layer** (the stratum Kaliharans call Ithári): Core spirituality, cosmology, natural phenomena
+- **Ancient layer** (the stratum Kaliharans date to the teaching): Core spirituality, cosmology, natural phenomena
 - **Classical layer** (Confederation development): Administrative, architectural, philosophical terms
 - **Modern layer** (port contact): Valtári borrowings, trade vocabulary, new technologies
 
@@ -164,7 +164,7 @@ A trader from Qasirah speaking Kalihári will sound notably different from an In
 
 ## Related Languages
 
-Kalihári is a **complete isolate** with no known relatives on Thalorna. Its isolation raises historical questions nobody can answer: where a tongue with no relations came from, and whether lost languages lie buried at sites no one has been allowed to dig. Scholars remain baffled, and have nothing to work from but the language itself.
+Kalihári is a **complete isolate** with no known relatives on Thalorna. Its isolation raises historical questions nobody can answer: what the islanders spoke before the record begins, and whether lost languages lie buried at sites no one has been allowed to dig. Scholars remain baffled, and have nothing to work from but the language itself.
 
 Linguistically, Kalihári shares **no demonstrable connection** to any other Thalorna language family. Phonologically, it is unique in its vowel emphasis and consonantal gentleness. Grammatically, its VSO word order is rare. Its deep antiquity and isolation make it invaluable to scholars of historical linguistics, who have no other example of anything like it.
 
