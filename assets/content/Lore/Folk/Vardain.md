@@ -26,7 +26,7 @@ lasted thousands of years.
 [[affiliation-jrldmstrmvld|Stormveld]] today, working ground their families held as free tenants within
 living memory. The conquerors renamed the country.
 
-The **only free Vardain left** are the ten thousand in the
+The **only free Vardain left** are the eight thousand five hundred in the
 [[place-vardainvalleys|mountain valleys]] beneath Vorgald, where the Khazári are. What got up the
 passes was a remnant of a remnant, and they are free because of where they reached and not because of
 anything they did.

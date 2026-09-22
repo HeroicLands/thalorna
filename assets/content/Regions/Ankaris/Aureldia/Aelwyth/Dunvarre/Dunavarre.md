@@ -31,7 +31,7 @@ Its sheltered harbors, fertile coastal plains, and proximity to the mainland hav
 ## Population and Settlement
 
 The kingdom has only two places that can be called cities: **[[place-ravenmoor|Ravenmoor]]**, the seat,
-at about twenty thousand, and **[[place-wraymouth|Wraymouth]]**, the chief harbour, at about fifteen thousand.
+at about thirty-five hundred, and **[[place-wraymouth|Wraymouth]]**, the chief harbour, at about twenty-five hundred.
 
 ## See Also
 
