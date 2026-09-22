@@ -56,7 +56,7 @@ The most persistent and troubling stories about Iseron concern what lies under t
 
 Whether these ruins are the remains of an ancient human civilization that flourished before the last great cooling, a long-vanished outpost of the Elder Races, or something more alien still, is not known. The climate, the distance, and the lethality of Iseronian travel have so far prevented any systematic investigation. What has been recovered from the ice — the occasional carved object, the occasional inscription in a script no living scholar can read — has only deepened the mystery rather than solved it.
 
-A persistent thread of Kaliharan commentary, rarely repeated and never confirmed, suggests that whoever built in Iseron may have been contemporary with — or even related to — the Ithári whose legacy shaped [[affiliation-kalihara|Kalihara]]. Whether this is informed speculation, garbled tradition, or a hint at something the Kaliharans know but will not say is impossible to determine from outside.
+One thread of commentary comes from [[affiliation-kalihara|Kalihara]], and from nowhere else on Thalorna. Kaliharans who hear of the Iseronian ruins have been known to wonder aloud whether whoever built them was contemporary with — or related to — the people their own island credits with its founding. The remark is rarely repeated and rests on nothing: no Kaliharan has seen Iseron, no object out of the ice has ever been set beside anything of theirs, and the island says no more when asked. It is reported here as a thing Kaliharans have said, not as a lead. Nothing recovered from Iseron supports it, and no tradition anywhere else on Thalorna draws any connection at all.
 
 ## Relations with the Wider World
 
@@ -68,5 +68,5 @@ What draws the occasional expedition south is not trade but the ruins — and th
 
 - [[place-worldthlrn|The World of Thalorna]] — World overview
 - [[place-arnscntnnt|Aurionis Continent]] — Northern neighbor across the southern ocean
-- [[affiliation-kalihara|Kalihara]] — Possible distant connection through the Ithári tradition
+- [[affiliation-kalihara|Kalihara]] — Source of the only commentary anywhere that speculates about the ruins
 - [[lore-flksinale|Sinalë]], [[lore-flkkhazar|Khazári]] — Elder Races, whose relationship (if any) to the Iseronian ruins is unknown

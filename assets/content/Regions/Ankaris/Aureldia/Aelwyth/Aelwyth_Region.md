@@ -117,8 +117,8 @@ Sinalë king and governed it together for **six centuries**: the only reconcilia
 tried.
 
 It was ended by refugees. The **Pelwar**, driven off the mainland by the [[place-vrystwald|Varokh]],
-reached Aelwyth around **2200 BF** with nowhere else to go, and an island has a fixed amount of good
-land. Two centuries of arrival and pressure and reprisal became the **Great War**, and in **1984 BF** the
+reached Aelwyth around **1200 BF** with nowhere else to go, and an island has a fixed amount of good
+land. Two centuries of arrival and pressure and reprisal became the **Great War**, and in **984 BF** the
 king was killed at the [[place-threesisters|Three Sisters]] in what is now the
 [[place-cntrlhghlnds|Central Highlands]]. The Sinalë withdrew into the [[place-hallowwood|Hallowwood]];
 the Khazári finished the war alone and have not spoken to them since.
