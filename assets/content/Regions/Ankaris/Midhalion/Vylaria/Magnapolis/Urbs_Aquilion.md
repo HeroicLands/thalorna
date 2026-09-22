@@ -13,7 +13,7 @@ data:
   lore: []
   parents:
     - vylariargn
-  population: null
+  population: 12000
 name:
   full: Urbs Aquilion
   aliases:

@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - targud
-  population: null
+  population: 900
 name:
   full: Valgard
   aliases: []

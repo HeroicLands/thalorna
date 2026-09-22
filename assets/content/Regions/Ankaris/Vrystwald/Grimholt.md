@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - vrystwald
-  population: null
+  population: 450
 name:
   full: Grimholt
   aliases: []

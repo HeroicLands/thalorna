@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - balamtzakurgn
-  population: null
+  population: 18000
 name:
   full: Ha’ K’ukul
   aliases: []

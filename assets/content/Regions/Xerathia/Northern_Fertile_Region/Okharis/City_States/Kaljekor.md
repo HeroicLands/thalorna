@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - okharisrgn
-  population: null
+  population: 35000
 name:
   full: Kaljékor
   aliases:

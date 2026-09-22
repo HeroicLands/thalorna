@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - norgaad
-  population: null
+  population: 300
 name:
   full: Hrafnfjord
   aliases: []

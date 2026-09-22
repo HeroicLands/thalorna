@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - vedyarargn
-  population: null
+  population: 80000
 name:
   full: Vyālendra
   aliases: []

@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - vylariargn
-  population: null
+  population: 900000
 name:
   full: Magnápolis City
   aliases:

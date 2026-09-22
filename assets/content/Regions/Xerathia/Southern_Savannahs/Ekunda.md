@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - sthrnsvnhs
-  population: null
+  population: 400
 name:
   full: Ékunda
   aliases: []

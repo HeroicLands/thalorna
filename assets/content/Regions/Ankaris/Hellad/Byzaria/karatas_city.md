@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - byzariargn
-  population: null
+  population: 45000
 name:
   full: Karataş
   aliases: []

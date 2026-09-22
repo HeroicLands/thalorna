@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - vrystwald
-  population: null
+  population: 300
 name:
   full: Thornhaven
   aliases: []

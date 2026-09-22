@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - balamtzakurgn
-  population: null
+  population: 45000
 name:
   full: Tz’alam Ha’
   aliases: []

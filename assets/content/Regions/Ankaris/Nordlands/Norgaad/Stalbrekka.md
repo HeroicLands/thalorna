@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - norgaad
-  population: null
+  population: 250
 name:
   full: Stálbrekka
   aliases: []

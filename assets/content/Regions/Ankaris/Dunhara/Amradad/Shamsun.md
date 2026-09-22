@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - amradadrgn
-  population: null
+  population: 15000
 name:
   full: Shamsûn
   aliases: []

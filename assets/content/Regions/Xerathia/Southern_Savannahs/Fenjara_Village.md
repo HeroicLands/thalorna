@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - sthrnsvnhs
-  population: null
+  population: 250
 name:
   full: Fénjara Village
   aliases:

@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - suvarnagirijnpd
-  population: null
+  population: 2400
 name:
   full: Suvarṇagiri
   aliases: []

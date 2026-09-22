@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - haradregin
-  population: null
+  population: 12000
 name:
   full: Kashmuret
   aliases: []

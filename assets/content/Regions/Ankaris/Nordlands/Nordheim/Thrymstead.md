@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - nordheim
-  population: null
+  population: 1500
 name:
   full: Thrymstead
   aliases: []

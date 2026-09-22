@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - glanmor
-  population: null
+  population: 9000
 name:
   full: Port Aelion
   aliases: []

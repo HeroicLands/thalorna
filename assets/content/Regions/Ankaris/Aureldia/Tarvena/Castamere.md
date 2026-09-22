@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - tarvenirgn
-  population: null
+  population: 3000
 name:
   full: Castamere
   aliases: []

@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - ironfells
-  population: null
+  population: 2000
 name:
   full: Vorgald
   aliases: []

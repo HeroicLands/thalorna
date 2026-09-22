@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - kuxibalamrgn
-  population: null
+  population: 14000
 name:
   full: Ixkul K’ul
   aliases: []

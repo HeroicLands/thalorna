@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - xikulchaklrgn
-  population: null
+  population: 2000
 name:
   full: Xik'ul Ch'akal
   aliases: []

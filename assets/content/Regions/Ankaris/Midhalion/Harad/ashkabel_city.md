@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - haradregin
-  population: null
+  population: 150000
 name:
   full: Ashkabel
   aliases: []

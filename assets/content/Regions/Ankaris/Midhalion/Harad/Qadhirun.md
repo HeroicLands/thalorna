@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - haradregin
-  population: null
+  population: 30000
 name:
   full: Qadhirun
   aliases: []

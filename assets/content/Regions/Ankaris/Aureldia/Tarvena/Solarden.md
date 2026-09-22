@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - tarvenirgn
-  population: null
+  population: 4000
 name:
   full: Solárden
   aliases: []

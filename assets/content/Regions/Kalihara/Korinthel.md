@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - kaliharargn
-  population: null
+  population: 9000
 name:
   full: Korinthel
   aliases: []

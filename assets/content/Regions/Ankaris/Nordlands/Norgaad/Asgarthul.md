@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - norgaad
-  population: null
+  population: 400
 name:
   full: Asgarthul
   aliases: []

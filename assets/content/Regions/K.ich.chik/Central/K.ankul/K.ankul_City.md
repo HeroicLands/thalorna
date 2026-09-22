@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - kankulrgn
-  population: null
+  population: 120000
 name:
   full: K'ankul
   aliases: []

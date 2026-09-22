@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - dunhardsrtrgn
-  population: null
+  population: 400
 name:
   full: Khar al-Sular
   aliases: []

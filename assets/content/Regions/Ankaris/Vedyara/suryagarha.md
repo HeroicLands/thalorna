@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - vindhyalayaland
-  population: null
+  population: 40000
 name:
   full: Sūryāgarha
   aliases: []

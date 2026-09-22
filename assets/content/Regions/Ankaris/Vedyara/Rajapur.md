@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - rajapurjnpd
-  population: null
+  population: 1800
 name:
   full: Rājapur
   aliases: []

@@ -11,7 +11,7 @@ data:
   lore: []
   parents:
     - vithgard
-  population: null
+  population: 1000
 name:
   full: Bjornstad
   aliases: []

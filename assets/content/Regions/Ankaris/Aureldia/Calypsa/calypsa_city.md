@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - aureldirgn
-  population: null
+  population: 28000
 name:
   full: Calypsa
   aliases: []

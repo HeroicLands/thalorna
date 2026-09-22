@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - swoasisbelt
-  population: null
+  population: 3000
 name:
   full: Beit-Shōfár
   aliases: []

@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - helionis
-  population: null
+  population: 60000
 name:
   full: Thyrenae
   aliases: []

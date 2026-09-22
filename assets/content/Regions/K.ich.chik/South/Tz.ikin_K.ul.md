@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - kawiltzaklrgn
-  population: null
+  population: 900
 name:
   full: Tz’ikin K’ul
   aliases: []

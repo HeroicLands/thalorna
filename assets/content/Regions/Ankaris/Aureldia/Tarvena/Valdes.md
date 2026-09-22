@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - tarvenirgn
-  population: null
+  population: 6000
 name:
   full: Valdés
   aliases: []

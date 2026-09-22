@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - kiikbaatergn
-  population: null
+  population: 70000
 name:
   full: Ki'ik Ba'ate
   aliases: []

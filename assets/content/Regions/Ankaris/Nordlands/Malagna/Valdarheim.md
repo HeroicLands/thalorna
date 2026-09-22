@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - malagna
-  population: null
+  population: 350
 name:
   full: Valdarheim
   aliases: []
