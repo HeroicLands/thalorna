@@ -21,7 +21,7 @@ packFolder: vedyara
 
 Suvarṇagiri Janapada is the land of the temple-republic of [[affiliation-suvrgrjnpd|Suvarṇagiri Janapada]], in the Bhārava highlands of [[place-vedyarargn|Vedyara]].
 
-Its territory occupies a triangular wedge of upland country at the headwaters of the Bhārava river, in the foothills where the central Vedyari plain rises into the great northern mountain chain.
+Its territory occupies a triangular wedge of upland country at the headwaters of the Bhārava river, in the foothills where the central Vedyari plain rises into the [[place-graznmntns|Grazian Mountains]].
 
 ## The Mountain
 

@@ -21,13 +21,14 @@ data:
     - { to: vedyarargn, bearing: SE }
     - { to: takheperurgn, bearing: SW }
     - { to: khstmhttrgn, bearing: SW }
+    - { to: graznmntns, bearing: E }
     - { to: vylarianse, bearing: W }
   population: 3000000
 terran_analog: "Jordan, Sinai, the Arabian Peninsula, Iraq, Iran, Turkmenistan, Afghanistan, and Pakistan — the Persian-and-Arabian world. The Sultanate of Amradad occupies the Anatolian-Caucasian northwestern corner; the rest of the region is Bedouin tribal desert through Persianate plateau and Pashtun-Baloch frontier."
 packFolder: dunhara
 ---
 
-The Dunhara Region is the vast southern desert of [[place-ankrscntnnt|Ankaris Continent]] — a harsh, ancient landscape of sand seas, rocky mesas, dry riverbeds, and hidden oases that stretches across the continent's southern interior from the [[affiliation-cnfdrtnhrdnstts|Haradian]] frontier in the west to the passes of [[place-vedyarargn|Vedyara]] in the east. Within it live the Dunhari, a confederation of tribal peoples whose caravans dominate the southern overland trade, whose oral literature is among the most sophisticated in Thalorna, and whose honor code is strict enough to govern relations among people who otherwise have every reason to kill each other for water.
+The Dunhara Region is the vast southern desert of [[place-ankrscntnnt|Ankaris Continent]] — a harsh, ancient landscape of sand seas, rocky mesas, dry riverbeds, and hidden oases that stretches across the continent's southern interior from the [[affiliation-cnfdrtnhrdnstts|Haradian]] frontier in the west to the foothills below the [[place-graznmntns|Grazian]] wall's western end, where the desert-margin gives way to the marches of [[place-vedyarargn|Vedyara]]. Within it live the Dunhari, a confederation of tribal peoples whose caravans dominate the southern overland trade, whose oral literature is among the most sophisticated in Thalorna, and whose honor code is strict enough to govern relations among people who otherwise have every reason to kill each other for water.
 
 The desert is not merely a barrier. It is a civilization — sparse in population, vast in cultural accomplishment, and entirely unimpressed by the settled kingdoms at its margins.
 
@@ -79,7 +80,7 @@ To the **northwest** lies [[affiliation-cnfdrtnhrdnstts|Harad]]. Relations are o
 
 To the **north and east** lies the [[place-khzryndsrtrgn|Khazryn Desert]]. The two regions are cultural cousins; the frontier between them is long and ill-defined, and many caravan routes begin in one and end in the other without any clear sense of boundary-crossing.
 
-To the **southeast** lie the lands of [[place-vedyarargn|Vedyara]]. Relations are commercial and cautious; the civilizational differences are greater than with Harad or the Khazryn, but centuries of caravan-trade have built up mutual respect and a practical working understanding.
+To the **southeast** lie the lands of [[place-vedyarargn|Vedyara]], reached by the march road that runs round the end of the [[place-graznmntns|Grazian]] wall rather than over it — the only way into the subcontinent that a loaded camel can take. Relations are commercial and cautious; the civilizational differences are greater than with Harad or the Khazryn, but centuries of caravan-trade have built up mutual respect and a practical working understanding.
 
 To the **southwest and west** lies [[place-xerathia|Xerathia]] and especially [[affiliation-empirtkhpr|Ta'Kheperu]], met by land across [[place-khstmhttrgn|Khaset-Mehtet]], the desert-march the empire garrisons between them. Direct contact is ancient and constant — caravan-tolls, well-disputes and skirmishes at the march, and a sea-borne trade mediated through Haradi and Ta'Kheperian maritime merchants on the [[place-vylarianse|Vylarian Sea]] to the west.
 
@@ -89,7 +90,8 @@ To the **southwest and west** lies [[place-xerathia|Xerathia]] and especially [[
 - [[affiliation-dunhartrbs|Dunhara Tribes]] — the tribal confederations
 - [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — northwestern trade partner
 - [[place-khzryndsrtrgn|Khazryn Desert Region]] — northern desert cousin
-- [[place-vedyarargn|Vedyara Region]] — southeastern trading neighbor
+- [[place-vedyarargn|Vedyara Region]] — southeastern trading neighbor, reached by land
+- [[place-graznmntns|The Grazian Mountains]] — the wall that ends at the region's eastern margin
 - [[affiliation-ashanpnthn|Āsháian Pantheon]] — pantheon shared across the desert peoples
 - [[skill-dunharlng|Dunhari]] — the language and naming tradition
 - [[place-ankrscntnnt|Ankaris Continent]] — parent continent

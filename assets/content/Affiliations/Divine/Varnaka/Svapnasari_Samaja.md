@@ -135,4 +135,6 @@ The sect's relationship with the orthodox Trimūrti-sampradāya is cautious but 
 
 ### Geographic Presence
 
-Established Samāja monasteries are found in the uplands north of [[place-vedyarargn|Vedyara Region]], at a handful of desert edge-towns, and in the quiet quarters of the oldest cities. Every major city has at least one Samāja-trained Darśaka in civic residence, often attached to a royal or noble household.
+Established Samāja monasteries are found in the northwest of [[place-vedyarargn|Vedyara Region]], where the [[place-graznmntns|Grazian]] wall runs down into the desert-margin of the [[place-dunharargn|Dunhara]]: in the broken uplands there, at a handful of edge-towns along the march road, and one at a Pass-Shrine on the westernmost of the crossings. The rest stand in the quiet quarters of the oldest cities. Every major city has at least one Samāja-trained Darśaka in civic residence, often attached to a royal or noble household.
+
+The march suits the sect. It is the one part of the subcontinent where the orthodox hierarchy's public religion sits lightly, the traffic is caravan traffic that comes and goes, and a monastery can keep its own hours without anyone in a capital taking an interest.
