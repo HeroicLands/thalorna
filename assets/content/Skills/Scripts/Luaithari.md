@@ -33,9 +33,9 @@ It carries [[skill-kalihrlng|Kalihári]], a language with no known relatives any
 
 Kaliharan scribal tradition holds that a text badly formed is a text partly false. Sacred and formal work carries ornate flourishes that are not decoration in the way an illuminated Provenzal capital is decoration — they modify how the passage is to be taken, and a copyist who flattens them has altered the document. This makes Luaithári unusually hostile to hasty copying, and is one reason so little Kalihári writing has reached foreign libraries in a trustworthy state.
 
-## Beneath it: the Ithári layer
+## Beneath it: what the custodians describe
 
-The Confederation's deep archive is not in Luaithári at all. The [[affiliation-tharivaan|Thári'vaan]] sanctuaries hold **carved stone slabs and inscribed metal plaques** left by the Ithári, largely procedural, largely still undeciphered, kept where only the senior custodians may go; alongside them hang the _kaan'sari'val_, knotted and dyed palm-fibre cords recording formation lineage, which are buried with the person they describe. The Luaithári is not descended from the Ithári writing in any way anyone can demonstrate — the custodians simply say the marks were always there and the Kaliharan syllabary is a much younger thing.
+The Confederation's deep archive is not in Luaithári at all. No outsider has ever been inside a [[affiliation-tharivaan|Thári'vaan]] sanctuary, so what follows is what custodians have said and what reached foreign scholars at the ports from there, at several removes and unverified at every one. They describe **carved stone slabs and inscribed metal plaques**, left — they say — by a people who came before them, largely procedural, largely still undeciphered, kept where only the senior custodians may go; alongside them hang the _kaan'sari'val_, knotted and dyed palm-fibre cords recording formation lineage, which are buried with the person they describe. The Luaithári is not descended from those older marks in any way anyone can demonstrate — the custodians simply say the marks were always there and the Kaliharan syllabary is a much younger thing.
 
 ## Who has it
 
