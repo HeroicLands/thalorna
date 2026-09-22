@@ -154,7 +154,7 @@ That was about ninety years ago. The Ātárzád have held the choicest oases sin
 
 ## The Twelve Tribes
 
-The twelve tribes are descended (so the genealogies say) from the twelve children of **Ātarpāt the Many-Sired**, a patriarch of the labor-caste in Ta'Kheperu who lived several generations before Mūshárā. Each tribe maintains its own genealogy back to Ātarpāt, its own dialect-inflection of the [[skill-atarzadilng|Ātárzādi tongue]], its own particular tribal customs, and its own apportioned territory among the conquered oases.
+The twelve tribes are descended (so the genealogies say) from the twelve children of **Ātarpāt the Many-Sired**, a patriarch of the labor-caste in Ta'Kheperu who lived several generations before Mūshárā. Each tribe maintains its own genealogy back to Ātarpāt, its own dialect-inflection of the Ātárzādi tongue, its own particular tribal customs, and its own apportioned territory among the conquered oases.
 
 The most prominent five tribes are:
 
@@ -245,4 +245,4 @@ Tribes of Ātárzád's commerce operates primarily through [[lore-bartercnmy|bar
 - [[affiliation-sultntmrdd|Sultanate of Amradad]] — the regional Āsháian power and host of the Khazryn exile community
 - [[affiliation-empirtkhpr|Ta'Kheperu]] — the place of bondage
 - [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — the people who granted the Exodus safe passage and provisions during its first leg
-- [[skill-atarzadilng|Ātárzādi Language]] — the language of the Twelve Tribes
+- Ātárzādi Language — the language of the Twelve Tribes

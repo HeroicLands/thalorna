@@ -590,7 +590,7 @@ sohl:
 
 ### The Foundling
 
-Ídrisè's earliest memory is of cold stone and the sound of chanting. She was raised in the Shrine of **[[lore-taranondty|Táranon]] the Stormkeeper**, in the Kingdom of [[affiliation-kngdmprvnz|Provènzia]], by a community of warrior-monks devoted to the storm god. Whether she was left there as an infant or born within the shrine, no one would ever tell her—the monks spoke only of her arrival as an act of divine will. They raised her alongside their sons and daughters, training her from childhood in the disciplines of blade, body, and spirit. While other children played, Ídrisè trained. While other girls learned needlework, she learned the anatomy of vulnerable points on the human body.
+Ídrisè's earliest memory is of cold stone and the sound of chanting. She was raised in the Shrine of **Táranon the Stormkeeper**, in the Kingdom of [[affiliation-kngdmprvnz|Provènzia]], by a community of warrior-monks devoted to the storm god. Whether she was left there as an infant or born within the shrine, no one would ever tell her—the monks spoke only of her arrival as an act of divine will. They raised her alongside their sons and daughters, training her from childhood in the disciplines of blade, body, and spirit. While other children played, Ídrisè trained. While other girls learned needlework, she learned the anatomy of vulnerable points on the human body.
 
 ### The Training and the Breaking
 

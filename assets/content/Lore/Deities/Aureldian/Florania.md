@@ -1,6 +1,6 @@
 ---
-tags:
-  - draft
+tags: []
+description: "The Nurturer of the Aurèldián pantheon — fertility, bloom, and the bearing of children and crops alike."
 type: lore
 subType: deity
 name:
@@ -9,5 +9,3 @@ name:
 shortcode: floraniadty
 packFolder: deitiesaureldian
 ---
-
-TBD

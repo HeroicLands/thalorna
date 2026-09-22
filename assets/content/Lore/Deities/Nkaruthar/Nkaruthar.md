@@ -1,6 +1,6 @@
 ---
-tags:
-  - draft
+tags: []
+description: "The Eternal Flame of the Okháric faith — one god holding creation, destruction, and renewal in three interlocking flames."
 type: lore
 subType: deity
 name:
@@ -9,5 +9,3 @@ name:
 shortcode: nkaruthardty
 packFolder: deitiesnkaruthar
 ---
-
-TBD

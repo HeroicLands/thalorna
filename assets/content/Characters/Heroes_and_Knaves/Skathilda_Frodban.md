@@ -563,7 +563,7 @@ Skathilda Fródbán is small, pale, and utterly terrifying. She stands barely ov
 
 # Dossier {#dossier}
 
-Skathilda was born the youngest of four children in a woodcutter's family deep in the [[place-vrystwald|Vrystwald]] pines. Her father drank, her mother died young, and her three older brothers treated her as a servant and a target. She endured it until she was thirteen, when her eldest brother came home drunk and tried to sell her to a passing [[lore-vylarianclt|Vylarian]] merchant for a cask of wine. She stabbed her brother in the thigh with his own belt knife, fled into the forest, and never went back.
+Skathilda was born the youngest of four children in a woodcutter's family deep in the [[place-vrystwald|Vrystwald]] pines. Her father drank, her mother died young, and her three older brothers treated her as a servant and a target. She endured it until she was thirteen, when her eldest brother came home drunk and tried to sell her to a passing Vylarian merchant for a cask of wine. She stabbed her brother in the thigh with his own belt knife, fled into the forest, and never went back.
 
 She survived alone in the pines for nearly a year — stealing from traplines, raiding smokehouse stores, sleeping in hollowed logs. A roving band of poachers took her in when they found her half-starved in a snowdrift, and she repaid their charity by learning everything they could teach her about moving unseen, picking pockets, and cutting throats. When the poachers' leader tried to force himself on her two years later, she opened his belly with a skinning knife while he slept and vanished before dawn.
 

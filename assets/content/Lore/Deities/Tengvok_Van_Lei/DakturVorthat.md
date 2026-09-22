@@ -1,6 +1,6 @@
 ---
-tags:
-  - draft
+tags: []
+description: "Lord of Metal in the Tëngvōk Vān Lëi — one of the five Elemental Lords, holding metal as an office of the celestial bureaucracy."
 type: lore
 subType: deity
 name:
@@ -9,5 +9,3 @@ name:
 shortcode: dktrvrthtdty
 packFolder: deitiestengvokvanlei
 ---
-
-TBD

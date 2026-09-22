@@ -601,7 +601,7 @@ Sharmînah stands 5'11" tall with a medium build. She has warm olive skin, dark 
 
 ### The Foundling's Calling
 
-Sharmînah was born in a settlement that no longer exists, destroyed in a wildfire that consumed everything when she was barely old enough to walk. Her parents died in the flames, but the child was pulled from the burning ruins by a wandering priest of [[lore-atarosdty|Ātáröš]] named **Salmeir the Flame-Bearer**, who took the miraculous survival as a sign of the god's will. Salmeir brought the girl to the Great Fire-Temple of Ātáröš in the heart of the [[place-khzryndsrtrgn|Khazryn Desert]], where she was raised by the priesthood. From her earliest years, Sharmînah demonstrated an unusual affinity for fire—flames seemed to bend to her will, burn at her command, and treat her with an almost protective reverence that startled even experienced priests.
+Sharmînah was born in a settlement that no longer exists, destroyed in a wildfire that consumed everything when she was barely old enough to walk. Her parents died in the flames, but the child was pulled from the burning ruins by a wandering priest of Ātáröš named **Salmeir the Flame-Bearer**, who took the miraculous survival as a sign of the god's will. Salmeir brought the girl to the Great Fire-Temple of Ātáröš in the heart of the [[place-khzryndsrtrgn|Khazryn Desert]], where she was raised by the priesthood. From her earliest years, Sharmînah demonstrated an unusual affinity for fire—flames seemed to bend to her will, burn at her command, and treat her with an almost protective reverence that startled even experienced priests.
 
 ### Training and Spiritual Development
 

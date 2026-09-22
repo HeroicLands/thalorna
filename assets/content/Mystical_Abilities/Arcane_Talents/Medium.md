@@ -3,6 +3,7 @@ tags: []
 name:
   full: Medium
   aliases: []
+description: "Hears and answers the dead and other disembodied spirits."
 shortcode: medm
 type: mysticalability
 subType: arcanetalent

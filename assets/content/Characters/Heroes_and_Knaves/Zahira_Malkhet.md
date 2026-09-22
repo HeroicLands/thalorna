@@ -605,7 +605,7 @@ For a time she served as one of the Dómissa's household guard, enforcing her mi
 
 ### Becoming a Bounty Hunter
 
-Her chance came with a runaway bound-man — a House servant who had struck his mistress and fled into the southern marches, a capital matter in Bethûa, where no man may raise his hand to a woman and live. Zahira tracked him across the borderlands and returned him for judgement, and in doing so found her trade. She left the Dómissa's guard with her blessing and set up as a **thief-taker and bounty hunter**, hiring out her tracking, her blade, and her Charíssa to any woman with coin and a quarry: the Houses, the Trade-Houses, the cantonal Hégissai, and in time the discreet agents of the capital itself. Working out of [[place-bethura|Bethûra]], she built a name as the woman you sent after a quarry no one else could run to ground.
+Her chance came with a runaway bound-man — a House servant who had struck his mistress and fled into the southern marches, a capital matter in Bethûa, where no man may raise his hand to a woman and live. Zahira tracked him across the borderlands and returned him for judgement, and in doing so found her trade. She left the Dómissa's guard with her blessing and set up as a **thief-taker and bounty hunter**, hiring out her tracking, her blade, and her Charíssa to any woman with coin and a quarry: the Houses, the Trade-Houses, the cantonal Hégissai, and in time the discreet agents of the capital itself. Working out of Bethûra, she built a name as the woman you sent after a quarry no one else could run to ground.
 
 ### Current Mission
 

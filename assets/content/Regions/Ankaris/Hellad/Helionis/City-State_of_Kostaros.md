@@ -113,7 +113,7 @@ packFolder: helionis
 
 ## Overview
 
-Kostaros is one of the [[affiliation-ctysttshlns|Helionite city-states]], a coastal polity that governs the surrounding district, including the town of [[place-myrtillos|Myrtillos]]. The city-state holds the land of [[place-kostarosdst|Kostaros District]]. _To be expanded._
+Kostaros is one of the [[affiliation-ctysttshlns|Helionite city-states]], a coastal polity that governs the surrounding district, including the town of Myrtillos. The city-state holds the land of [[place-kostarosdst|Kostaros District]]. _To be expanded._
 
 > Not to be confused with the Byzarian port town of the same name in the [[affiliation-byzarianlg|Byzarian League]].
 
@@ -122,4 +122,4 @@ Kostaros is one of the [[affiliation-ctysttshlns|Helionite city-states]], a coas
 - [[affiliation-ctysttshlns|City-States of Heliónis]] — The confederation
 - [[place-helionis|Heliónis]] — Regional overview
 - [[place-kostarosdst|Kostaros District]] — The land the city-state holds
-- [[place-myrtillos|Myrtillos]] — Coastal town within its territory
+- Myrtillos — Coastal town within its territory

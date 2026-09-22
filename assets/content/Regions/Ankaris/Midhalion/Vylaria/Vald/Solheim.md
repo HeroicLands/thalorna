@@ -2,6 +2,7 @@
 tags:
   - town
   - pilgrimage
+  - draft
 description: "Pilgrimage Town"
 type: place
 subType: settlement

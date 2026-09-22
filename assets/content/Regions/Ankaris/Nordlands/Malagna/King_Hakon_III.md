@@ -31,4 +31,4 @@ TBD
 
 # Dossier {#dossier}
 
-A king of the Nordlands, seated at [[place-skorrborg|Skorrborg]].
+A king of the Nordlands, seated at Skorrborg.

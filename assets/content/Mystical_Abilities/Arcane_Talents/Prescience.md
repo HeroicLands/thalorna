@@ -3,6 +3,7 @@ tags: []
 name:
   full: Prescience
   aliases: []
+description: "Warns of what is about to happen, moments or days before it does."
 shortcode: psnc
 type: mysticalability
 subType: arcanetalent

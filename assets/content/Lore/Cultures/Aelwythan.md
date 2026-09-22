@@ -1,6 +1,5 @@
 ---
-tags:
-  - draft
+tags: []
 type: lore
 subType: culture
 name:
@@ -9,5 +8,3 @@ name:
 shortcode: aelwythanclt
 description: "The Aelwythan — their beliefs, their mores, and what they hold a person owes."
 ---
-
-TBD.

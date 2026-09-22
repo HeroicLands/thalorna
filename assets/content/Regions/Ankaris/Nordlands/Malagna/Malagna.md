@@ -32,4 +32,4 @@ The kingdom is known for its shipbuilding. Malagnan longships are considered the
 
 - [[affiliation-kingdomlgn|Kingdom of Malagna]] — The kingdom that holds this land
 - [[place-nrdlndsrgn|Nordlands Region]] — The enclosing region
-- [[place-skorrborg|Skorrborg]] — The seat
+- Skorrborg — The seat

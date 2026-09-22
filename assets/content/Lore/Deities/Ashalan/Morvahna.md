@@ -1,6 +1,6 @@
 ---
-tags:
-  - draft
+tags: []
+description: "The Silent Keeper of the Āsháian pantheon, holding decay and the slow undoing of everything made."
 type: lore
 subType: deity
 name:
@@ -9,5 +9,3 @@ name:
 shortcode: morvahnadty
 packFolder: deitiesashalan
 ---
-
-TBD

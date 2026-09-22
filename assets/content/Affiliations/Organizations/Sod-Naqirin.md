@@ -105,7 +105,7 @@ data:
 _Haradi: Sôd-Naqîrîn — "The Council of the Guild-Wardens"_
 
 - **Type:** Confederation-chartered guild umbrella; institutional replacement for the [[affiliation-magnumclgm|The Magnum Collegium]]'s former Haradian operations
-- **Region:** [[place-haradregin|The Confederation of Haradian States]]
+- **Region:** The Confederation of Haradian States
 - **Seat:** **Bêt-Naqîrîn** ("The House of the Wardens") at [[affiliation-tamavar|Tamavar]], in the converted hall of the old Tamavar merchant princes' compact-house — a deliberate choice that places the institution on ground sacred to the pre-conquest Haradian commercial tradition rather than in any building the empire built
 - **Founded:** Twelve years ago, by act of the Confederation's founding council, in the closing weeks of the War of Independence
 

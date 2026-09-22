@@ -126,7 +126,7 @@ Khazryn tradition holds that the first Khazryn came down from the [[place-graznm
 
 Of these seven, three remain in Khazryn hands today: **Mehrnāgord** in the western fringe, **Ushtra-bēr** in the deep north, and a small revived settlement at the ruins of **Vahúrdash** that has been kept barely alive by determined Khazryn reclamation over the past generation. The other four — Shirvan, Ashkarad, Zargandûr, Kethramír — were taken by the Ātárzád in the War of the Twelve Years and have been Ātárzád-held since.
 
-The Khazryn civilization that flourished before the Catastrophe was urban, literate, polytheistic, and old enough to have absorbed and outlasted multiple waves of nomadic incursion. Khazryn scribal records — kept on baked-clay tablets in the [[skill-khazrilng|Khazri]] tongue, which uses a syllabic script descended from an ancient mountain-script — go back nearly two thousand years before the Catastrophe in continuous archive. The Mōbads of the Great Temple of Āhúrdáén at Shirvan maintained the calendar of the Khazryn kingdoms, the records of dynastic succession, the treaties between the seven cities, and the great theological commentary tradition that gave Āsháian theology much of its shape outside the Sultanate. Most of this archive was burned in the fall of Shirvan; what survived was carried out by the fleeing princely households and is now scattered across the exile courts in Amradad.
+The Khazryn civilization that flourished before the Catastrophe was urban, literate, polytheistic, and old enough to have absorbed and outlasted multiple waves of nomadic incursion. Khazryn scribal records — kept on baked-clay tablets in the Khazri tongue, which uses a syllabic script descended from an ancient mountain-script — go back nearly two thousand years before the Catastrophe in continuous archive. The Mōbads of the Great Temple of Āhúrdáén at Shirvan maintained the calendar of the Khazryn kingdoms, the records of dynastic succession, the treaties between the seven cities, and the great theological commentary tradition that gave Āsháian theology much of its shape outside the Sultanate. Most of this archive was burned in the fall of Shirvan; what survived was carried out by the fleeing princely households and is now scattered across the exile courts in Amradad.
 
 ## The Catastrophe
 
@@ -226,4 +226,4 @@ Khazryn Confederation's commerce operates primarily through [[lore-bartercnmy|ba
 - [[affiliation-zurathra|Faith of Zúráthrä]] — the central object of Khazryn popular devotion
 - [[affiliation-ashanpnthn|Āsháian Pantheon]] — the wider faith in its Khazryn-codified form
 - [[affiliation-sultntmrdd|Sultanate of Amradad]] — host of the exile community and protector
-- [[skill-khazrilng|Khazri Language]] — the Khazryn tongue
+- Khazri Language — the Khazryn tongue
