@@ -12,7 +12,7 @@ packFolder: ankaris
 - **Type:** Ancestral people / language family
 - **Descendants:** [[place-elavendre|Élavendri]], [[lore-aelendnppl|Áelendan]], Vylari, Nordmal, Varokhi, Tarvéni, Provenzal, and related peoples of [[place-ankrscntnnt|Ankaris Continent]]
 
-The **Pelwar** were ancient nomadic peoples who migrated across [[place-ankrscntnnt|Ankaris Continent]] in a great movement beginning millennia ago. They were not a single nation or polity but a loose cultural-linguistic grouping of related tribes that spread westward from an original homeland in the central or eastern interior of the continent. Over the course of centuries, the various Pelwar migrations settled different regions and, in time, diverged into the distinct peoples and languages that today populate much of Ankaris.
+The **Pelwar** were ancient nomadic peoples who migrated across [[place-ankrscntnnt|Ankaris Continent]] in a great movement beginning **approximately 1400 BF**. They were not a single nation or polity but a loose cultural-linguistic grouping of related tribes that spread westward from an original homeland in the central or eastern interior of the continent. The westward movement ran roughly three centuries, to **approximately 1100 BF**, and over the centuries that followed the peoples it carried west settled their different regions and, in time, diverged into the distinct peoples and languages that today populate much of Ankaris.
 
 The Pelwar no longer exist as a unified people. The name survives primarily as an ethnographic and linguistic category — the common ancestor from which many contemporary Ankarian peoples trace their descent, and the root language from which the Pelwar language family derives.
 
@@ -41,7 +41,7 @@ The Pelwar of the eastern grasslands were, by every account that survives, a com
 people** — herders and cultivators, tribal but not warlike, organised for grazing rather than for
 conquest. Into that country, out of the further east, came the **Varkhad**: a fierce people whose
 kinsmen went south into the deserts and whose descendants there remain, and who arrived in the Pelwar
-lands as conquerors.
+lands as conquerors around **fourteen centuries before the Founding**.
 
 They did not exterminate anybody. Over generations the Varkhad **took the country and then merged into
 it**, marrying into the tribes they had beaten and adopting a good deal of what they found, until the two
@@ -52,6 +52,8 @@ the temperament that came with the eastern half of it.
 
 The Pelwar who did not stay to be conquered went **west and south**, and that movement is the Migration:
 not one exodus but generations of pressure, pushing whole peoples ahead of it across half a continent.
+The displacement begins with the conquest, **approximately 1400 BF**, and the great westward movement
+runs from there to **approximately 1100 BF**.
 
 It stopped at the sea. The western coastline is where the Migration ran out of land, which is why the
 Pelwar-descended peoples are packed along it as densely as they are — and why a few communities did the

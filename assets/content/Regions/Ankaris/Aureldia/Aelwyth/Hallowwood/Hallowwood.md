@@ -55,9 +55,9 @@ Sinalë and [[lore-flkkhazar|Khazári]] **of this island** did something no othe
 attempted: they tried to repair it. They united Aelwyth under a **single crown**, held by a Sinalë king,
 and governed the island together — and they kept that up for **six hundred years**.
 
-Then, around **2200 BF**, the **Pelwar** arrived: refugees, driven off the mainland by the
+Then, around **1200 BF**, the **Pelwar** arrived: refugees, driven off the mainland by the
 [[place-vrystwald|Varokh]] in the great displacement of that people, with nowhere else to go. Two
-centuries of pressure and reprisal became the **Great War**, and in **1984 BF** the king was killed at
+centuries of pressure and reprisal became the **Great War**, and in **984 BF** the king was killed at
 the [[place-threesisters|Three Sisters]].
 
 The surviving Sinalë came into this forest and stayed, leaving the Khazári to finish the war without

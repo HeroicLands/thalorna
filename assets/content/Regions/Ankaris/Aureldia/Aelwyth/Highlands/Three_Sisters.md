@@ -3,7 +3,7 @@ tags:
   - sacred
   - mountain
   - inland
-description: "Three peaks above the Central Highlands, and the battlefield where the Sinalë king of Aelwyth was killed in 1984 BF — ending the Great War, the joint kingdom of the elder races, and six centuries of deliberate reconciliation."
+description: "Three peaks above the Central Highlands, and the battlefield where the Sinalë king of Aelwyth was killed in 984 BF — ending the Great War, the joint kingdom of the elder races, and six centuries of deliberate reconciliation."
 type: place
 subType: site
 data:
@@ -25,7 +25,7 @@ the middle of Aelwyth. They are unremarkable mountains and the most important pl
 
 ## The Battle
 
-In **1984 BF** the armies of the elder kingdom met the Pelwar beneath them, and the **Sinalë king of
+In **984 BF** the armies of the elder kingdom met the Pelwar beneath them, and the **Sinalë king of
 Aelwyth was killed**.
 
 It was the decisive engagement of the **Great War**, and its consequences went far past who held the
@@ -72,7 +72,7 @@ refuse them, and a large part of why refusing them anyway went as badly as it di
 
 What broke it was **scale**, and what came behind them.
 
-Around **2200 BF** the trickle became a flood — **tens of thousands** at once, whole communities crossing
+Around **1200 BF** the trickle became a flood — **tens of thousands** at once, whole communities crossing
 because the Migration had run out of land against the western coast and there was nowhere else to be.
 
 ## The Crossing
@@ -82,7 +82,7 @@ It should be understood what that means.
 Aelwyth lies something like a hundred and twenty sea-miles off the coast. That is not a distance
 barbarian peoples cross — not in the craft they had, not with families and stock aboard, not without
 pilots or charts or any notion of what the weather does out there. The early Pelwar had come as
-**passengers**, carried in Khazári bottoms by people who knew the water. The ones who came in 2200 BF
+**passengers**, carried in Khazári bottoms by people who knew the water. The ones who came in 1200 BF
 came in whatever would float.
 
 Most of them died. The traditions do not give a figure and the figure has been guessed at ever since,

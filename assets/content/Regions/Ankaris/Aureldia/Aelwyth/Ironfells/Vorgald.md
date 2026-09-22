@@ -72,16 +72,16 @@ either race has ever attempted, and the works of that period are still in the gr
 no later road runs, cut stone the [[lore-vardain|Vardain]] cannot match, foundations under three Aelwythan
 towns that nobody has satisfactorily dated.
 
-It ended with people who had nowhere else to go. The **Pelwar** reached Aelwyth around **2200 BF**,
+It ended with people who had nowhere else to go. The **Pelwar** reached Aelwyth around **1200 BF**,
 driven off the mainland by the [[place-vrystwald|Varokh]]; two centuries of pressure became the **Great
-War**; and in **1984 BF** the king was killed at the [[place-threesisters|Three Sisters]]. The surviving
+War**; and in **984 BF** the king was killed at the [[place-threesisters|Three Sisters]]. The surviving
 [[lore-flksinale|Sinalë]] withdrew into the forest that is now the [[place-hallowwood|Hallowwood]] and
 left the Khazári to finish the war alone.
 
 They finished it. They have never forgiven it, and the two elder races of Aelwyth have had nothing to do
 with one another since.
 
-For the Khazári of this hold it was the second abandonment in eight hundred years — and the second, unlike
+For the Khazári of this hold it was the second abandonment in eighteen hundred years — and the second, unlike
 the first, came after six centuries of being assured there would not be another.
 
 ## The Humans
