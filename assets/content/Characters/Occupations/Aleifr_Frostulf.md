@@ -556,7 +556,7 @@ sohl:
 
 # Dossier {#dossier}
 
-Áleifr Frostulf is chief huntsman to Lady Elenora of Wildwood Manor, above the fishing village of Greyfjord in [[affiliation-kngdmnrdhm|Nordheim]], a Nordman freeman who has kept the manor's forest and settled the hunting quarrels of the fjord for fifteen years.
+Áleifr Frostulf is chief huntsman to Lady Elenora of Wildwood Manor, above the fishing village of Greyfjord in [[place-nordheim|Nordheim]], a Nordman freeman who has kept the manor's forest and settled the hunting quarrels of the fjord for fifteen years.
 
 Áleifr keeps the forest that climbs behind Greyfjord from the manor to the high ground; the village lives on fish, and the forest lives on him. He was a fisherman's son who preferred the wood, and took service at the manor as a boy. He knows which valleys the elk winter in, how many wolves the high ridge will carry, and which stands can be hunted this year and which must be left. He keeps the manor's table in game and its guests in sport. The clans of the fjord bring him their disputes over hunting rights and grazing at the wood's edge; he rules against his own lady's guests when the season requires, and she has never once overruled him.
 

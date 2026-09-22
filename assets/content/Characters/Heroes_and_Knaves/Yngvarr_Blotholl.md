@@ -596,7 +596,7 @@ Yngvarr stands 5'7" tall with a light build. He has light fair skin, red hair, a
 
 ### Early Life and the Jester's Gift
 
-Yngvarr was born during the tempestuous month of spring winds in a riverside town of [[affiliation-kngdmvthgrd|Vithgard]]'s eastern provinces. His mother, **Sigrid the Brewmaster**, kept an inn where merchants and wanderers gathered; his father, a traveling performer himself, remained only long enough to pass on his gift for performance before departing for other horizons. From his earliest years, Yngvarr learned to read faces as others read scrolls—understanding the hidden griefs, the secret joys, the careful calculations behind every expression. He apprenticed under **Master Kolbeinn**, a legendary jester whose wit was said to have averted wars through sheer cleverness, learning that the craft of laughter is perhaps the most dangerous art of all.
+Yngvarr was born during the tempestuous month of spring winds in a riverside town of [[place-vithgard|Vithgard]]'s eastern provinces. His mother, **Sigrid the Brewmaster**, kept an inn where merchants and wanderers gathered; his father, a traveling performer himself, remained only long enough to pass on his gift for performance before departing for other horizons. From his earliest years, Yngvarr learned to read faces as others read scrolls—understanding the hidden griefs, the secret joys, the careful calculations behind every expression. He apprenticed under **Master Kolbeinn**, a legendary jester whose wit was said to have averted wars through sheer cleverness, learning that the craft of laughter is perhaps the most dangerous art of all.
 
 ### The Court Years
 

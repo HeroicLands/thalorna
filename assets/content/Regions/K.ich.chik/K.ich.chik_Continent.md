@@ -32,11 +32,11 @@ Despite the cultural unity of the K'ich'chik heartland, the continent is far fro
 
 K'ich'chik spans an enormous range of climates and terrain. The continent is broadly divided into three zones that reflect both geography and the reach of K'ich'chik civilization.
 
-The **Northern Territories** encompass everything from the boreal forests and great lakes of the northeast to the towering mountain ranges and coastal forests of the northwest, with vast grasslands and river valleys between them. The southern edge of this zone is defined by [[affiliation-chakultzkl|Ch'akul Tza'kul]], a terrible expanse of desert that serves as a natural buffer between the unconquered north and the civilized heartland. Five rival nations of tribal peoples hold these lands against all comers, cooperating to repel any K'ich'chik expansion while warring fiercely among themselves.
+The **Northern Territories** encompass everything from the boreal forests and great lakes of the northeast to the towering mountain ranges and coastal forests of the northwest, with vast grasslands and river valleys between them. The southern edge of this zone is defined by [[place-chakultzklrgn|Ch'akul Tza'kul]], a terrible expanse of desert that serves as a natural buffer between the unconquered north and the civilized heartland. Five rival nations of tribal peoples hold these lands against all comers, cooperating to repel any K'ich'chik expansion while warring fiercely among themselves.
 
 The **Central Regions** form the heartland of K'ich'chik civilization, encompassing highland plateaus, dense tropical jungles, limestone lowlands, and fertile coastal plains. This is where the great pyramid-cities rise, where the sacbe roads connect centers of trade and pilgrimage, and where the [[affiliation-itzanpnthn|Itzáni priesthood]] holds its greatest influence. The four regions of the center — [[affiliation-balamkul|Balamkul]], [[affiliation-kankul|K'ankul]], [[affiliation-kiikbaate|Ki'ik Ba'ate]], and [[affiliation-tzikin|Tz'ikin]] — represent the full flowering of K'ich'chik culture.
 
-The **Southern Territories** range from the upper south, where K'ich'chik civilization extends along mountain ranges and river basins, to the lower south, where the land descends into desolation. The upper regions of [[affiliation-balamtzaku|Ba'alam Tza'ku]] and [[affiliation-kuxibalam|K'uxi Balam]] are fully integrated into K'ich'chik civilization, with cities and agricultural estates. But beyond [[affiliation-kawiltzakl|K'awiil Tza'kul]], the land gives way to the frozen and blasted wastes of [[affiliation-tzikinbalm|Tz'ikin Ba'alam]], a place of terrible fauna, poisonous flora, and stories of divine wrath. Warriors and priests journey there as a proving ground, for to survive Tz'ikin Ba'alam is to demonstrate worth before the gods.
+The **Southern Territories** range from the upper south, where K'ich'chik civilization extends along mountain ranges and river basins, to the lower south, where the land descends into desolation. The upper regions of [[affiliation-balamtzaku|Ba'alam Tza'ku]] and [[affiliation-kuxibalam|K'uxi Balam]] are fully integrated into K'ich'chik civilization, with cities and agricultural estates. But beyond [[affiliation-kawiltzakl|K'awiil Tza'kul]], the land gives way to the frozen and blasted wastes of [[place-tzikinbalmrgn|Tz'ikin Ba'alam]], a place of terrible fauna, poisonous flora, and stories of divine wrath. Warriors and priests journey there as a proving ground, for to survive Tz'ikin Ba'alam is to demonstrate worth before the gods.
 
 ## Regions
 
@@ -61,7 +61,7 @@ The northern territories are dominated by five tribal nations about which K'ich'
 - **[[affiliation-xikulchakl|Xik'ul Ch'akal]]** — The Ha'ik Tz'aqalil ("Otter People"), canoe-folk of the eastern lakes and forests
 - **[[affiliation-tzumanotun|Tz'uma No'tun]]** — The Ch'aqun Tz'aqalil ("Serpent People"), chieftain-led peoples of the ancient eastern mountains and southern swamps
 
-The sixth northern region, [[affiliation-hanalxilan|Ha'nal Xi'lan]], is contested borderlands where the Coyote, Otter, and Serpent peoples clash over the rich river valleys. [[affiliation-chakultzkl|Ch'akul Tza'kul]], the great southern desert, is claimed by no nation and serves as the barrier between the tribal north and K'ich'chik civilization.
+The sixth northern region, [[place-hanalxilanrgn|Ha'nal Xi'lan]], is contested borderlands where the Coyote, Otter, and Serpent peoples clash over the rich river valleys. [[place-chakultzklrgn|Ch'akul Tza'kul]], the great southern desert, is claimed by no nation and serves as the barrier between the tribal north and K'ich'chik civilization.
 
 ## Culture and Society
 
@@ -95,7 +95,7 @@ The Ch'um Ix'lan achieves remarkable speed across the vast distances of K'ich'ch
 - **K'ankul coastal network** (internal): 1–2 days between major city-states via the coastal sacbe
 - **End to end, K'ankul to K'uxi Balam** (eastern lowlands to southern frontier): 6–8 days, routing through Balamkul
 
-Beyond K'uxi Balam, the Speaking Road falls silent. The last tz'ib'al cord to arrive from the civilized world is decoded at [[place-kawilulkik|K'awi'il'ul Ki'ik]], and what lies further south depends on the bravery of individual runners who carry no priestly mandate. The Ch'um Ix'lan does not extend into the northern territories either — the Five Nations have no sacbe roads, and the great desert of [[affiliation-chakultzkl|Ch'akul Tza'kul]] marks the network's northern boundary.
+Beyond K'uxi Balam, the Speaking Road falls silent. The last tz'ib'al cord to arrive from the civilized world is decoded at [[place-kawilulkik|K'awi'il'ul Ki'ik]], and what lies further south depends on the bravery of individual runners who carry no priestly mandate. The Ch'um Ix'lan does not extend into the northern territories either — the Five Nations have no sacbe roads, and the great desert of [[place-chakultzklrgn|Ch'akul Tza'kul]] marks the network's northern boundary.
 
 ## Faith
 
@@ -112,4 +112,4 @@ K'ich'chik is rich in resources. The central regions produce cacao, jade, obsidi
 - [[affiliation-itzanpnthn|Itzáni Pantheon]] — The unified faith of K'ich'chik
 - [[skill-kicheklng|Ki'ichek Language]] — the tongue, its lexicon and its naming conventions
 - [[affiliation-balamkul|Balamkul]] — The greatest city-state of the central heartland, seat of the K'ul Tq'an and home to Tz'aqal K'ul
-- [[affiliation-tzikinbalm|Tz'ikin Ba'alam]] — The forsaken southern wastes
+- [[place-tzikinbalmrgn|Tz'ikin Ba'alam]] — The forsaken southern wastes

@@ -131,7 +131,7 @@ The Xak'nal maintain a monopoly on this northern trade, and they guard their rou
 ## See Also
 
 - [[affiliation-kiximtzul|K'ixim Tzul]] — The bear-people's domain to the east, separated from Ba'alam Ki'ahk by mountain passes and boreal forest
-- [[affiliation-hanalxilan|Ha'nal Xi'lan]] — Contested borderlands far to the southeast, where Xak'nal traders sometimes venture
-- [[affiliation-chakultzkl|Ch'akul Tza'kul]] — The great southern desert separating the northern frontier from [[place-kchchkcntnnt|K'ich'chik]] proper
+- [[place-hanalxilanrgn|Ha'nal Xi'lan]] — Contested borderlands far to the southeast, where Xak'nal traders sometimes venture
+- [[place-chakultzklrgn|Ch'akul Tza'kul]] — The great southern desert separating the northern frontier from [[place-kchchkcntnnt|K'ich'chik]] proper
 - [[affiliation-itzanpnthn|Itzáni Faith]] — The distant civilization's religion and culture, encountered through trade and occasional conflict
 - [[place-balamkiahkrgn|Ba'alam Ki'ahk Region]] — The land Ba'alam Ki'ahk holds

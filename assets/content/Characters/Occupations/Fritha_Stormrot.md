@@ -550,7 +550,7 @@ Frítha Stormrót is a 27-year-old woman who stands 5'11" tall and is of moderat
 
 # Dossier {#dossier}
 
-Born in the [[affiliation-kngdmnrdhm|Nordheim]] region to a freeman family of Nordheimn heritage, Frítha Stormrót is a ratter.
+Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Frítha Stormrót is a ratter.
 
 Frítha grew up in the city and learned rat-catching from her father. She is known for her agility and cunning, and uses traps and her own quick reflexes together to catch rodents. She takes pride in her work and is dedicated to keeping the streets free of infestations. She has a strong bond with her trained cat, Whiskers, who works alongside her.
 

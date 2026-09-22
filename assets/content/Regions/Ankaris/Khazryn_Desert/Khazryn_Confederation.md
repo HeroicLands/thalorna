@@ -97,7 +97,7 @@ data:
     - khazrilng
   seat: oasishirvn
   domains:
-    - swoasisbelt
+    - khzryndsrtrgn
   population: 2000000
   economy:
     - lore-bartercnmy

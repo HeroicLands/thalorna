@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - sthrnkchchk
+    - balamtzakurgn
   population: null
 name:
   full: Tz’alam Ha’

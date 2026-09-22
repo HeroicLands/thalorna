@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - sthrnkchchk
+    - kawiltzaklrgn
   population: null
 name:
   full: Tz’ikin K’ul
@@ -20,7 +20,7 @@ packFolder: south
 
 ## Overview
 
-Tz’ikin K’ul, "The House of the Dead Bird," is the final outpost of civilized [[place-kchchkcntnnt|K’ich’chik]] before the forsaken wastes of [[affiliation-tzikinbalm|Tz’ikin Ba’alam]]. The settlement is a temple-fortress of forbidding aspect, built to endure and to serve as both blessing-place and final supply depot for those venturing into the abyss. Few permanently live here save the priesthood and their essential servants; most inhabitants are transient—warriors, priests, and desperate individuals gathering supplies and spiritual fortification before departing southward.
+Tz’ikin K’ul, "The House of the Dead Bird," is the final outpost of civilized [[place-kchchkcntnnt|K’ich’chik]] before the forsaken wastes of [[place-tzikinbalmrgn|Tz’ikin Ba’alam]]. The settlement is a temple-fortress of forbidding aspect, built to endure and to serve as both blessing-place and final supply depot for those venturing into the abyss. Few permanently live here save the priesthood and their essential servants; most inhabitants are transient—warriors, priests, and desperate individuals gathering supplies and spiritual fortification before departing southward.
 
 ## Location and Geography
 
@@ -28,7 +28,7 @@ Tz’ikin K’ul stands at the boundary between [[affiliation-kawiltzakl|K’awi
 
 ## Religious and Functional Role
 
-Tz’ikin K’ul serves as the staging ground for all major expeditions into [[affiliation-tzikinbalm|Tz’ikin Ba’alam]]. The priesthood here performs elaborate blessing ceremonies, consults auguries and celestial omens, and supplies final provisions. Two deities are worshipped with particular intensity: [[affiliation-itzanpnthn|Tz’uqil Ix’bal]], mistress of death, who receives blood offerings for the safe passage of the departed, and [[affiliation-itzanpnthn|P’uqil Ch’aqun]], god of storms and chaos, whose favor is desperately sought before southern ventures.
+Tz’ikin K’ul serves as the staging ground for all major expeditions into [[place-tzikinbalmrgn|Tz’ikin Ba’alam]]. The priesthood here performs elaborate blessing ceremonies, consults auguries and celestial omens, and supplies final provisions. Two deities are worshipped with particular intensity: [[affiliation-itzanpnthn|Tz’uqil Ix’bal]], mistress of death, who receives blood offerings for the safe passage of the departed, and [[affiliation-itzanpnthn|P’uqil Ch’aqun]], god of storms and chaos, whose favor is desperately sought before southern ventures.
 
 ## The Priesthood
 
@@ -37,6 +37,6 @@ The priesthood of Tz’ikin K’ul is known to be among the most severe and unco
 ## See Also
 
 - [[affiliation-kawiltzakl|K’awiil Tza’kul]] — The boundary lands to the north
-- [[affiliation-tzikinbalm|Tz’ikin Ba’alam]] — The forsaken wastes beyond
+- [[place-tzikinbalmrgn|Tz’ikin Ba’alam]] — The forsaken wastes beyond
 - [[place-kawilulkik|K’awi’il’ul Ki’ik]] — The garrison city in the plateau
 - [[affiliation-itzanpnthn|Itzáni]] — The priesthood that maintains this temple-fortress

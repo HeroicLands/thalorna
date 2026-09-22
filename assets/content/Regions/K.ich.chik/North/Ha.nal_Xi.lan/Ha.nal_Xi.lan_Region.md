@@ -21,7 +21,7 @@ packFolder: hanalxilan
 
 ## Overview
 
-Ha'nal Xi'lan Region is the land of [[affiliation-hanalxilan|Ha'nal Xi'lan]], and lies within [[place-nrthrnkchchk|Northern K'ich'chik]] on the [[place-kchchkcntnnt|K'ich'chik Continent]].
+Ha'nal Xi'lan Region is contested borderlands claimed by no single people — the Tz'okum, Ha'ik and Ch'aqun all hold ground within it — and lies within [[place-nrthrnkchchk|Northern K'ich'chik]] on the [[place-kchchkcntnnt|K'ich'chik Continent]].
 
 Ha'nal Xi'lan — "Great River Lands" in K'ich'chik — is a region without a nation, a contested expanse of fertile river valleys, rich bottomlands, and strategic waterways where the ambitions of three northern peoples collide in an ever-shifting pattern of violence. The great rivers that flow through these lands are among the most productive waterways known to K'ich'chik geographers, yet no single people has managed to establish dominant control.
 
@@ -41,6 +41,5 @@ The river system itself facilitates bulk transport of goods in ways unavailable 
 
 ## See Also
 
-- [[affiliation-hanalxilan|Ha'nal Xi'lan]] — The realm that holds this land
 - [[place-nrthrnkchchk|Northern K'ich'chik]] — The enclosing region
 - [[place-hanalxilan2|Ha'nal Xi'lan]] — Seat of Ha'nal Xi'lan
