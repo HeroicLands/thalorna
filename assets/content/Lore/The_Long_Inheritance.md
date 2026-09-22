@@ -14,9 +14,9 @@ shortcode: longnhrtnc
 packFolder: settinglore
 ---
 
-Both Elder Races came to Thalorna and found humanity already here, living in scattered hunter-gatherer bands, and both decided — separately, and for reasons neither has ever fully explained to a human — to leave humanity to its own becoming. That policy is real. It was sincerely held, it has been maintained for fifty centuries, and both peoples believe to this day that they kept it.
+Both Elder Races came to Thalorna and found humanity already here, living in scattered hunter-gatherer bands, and both decided — separately, and for reasons neither has ever fully explained to a human — to leave humanity to its own becoming. That policy is real. It was sincerely held, it has been maintained ever since, and both peoples believe to this day that they kept it.
 
-They also uplifted us. The two statements are not in conflict, because non-interference is a description of intent and uplift is a description of outcome, and five thousand years of proximity settles the matter without anyone's permission. Humanity did not become what it is on its own. Neither was it taught. What happened lies between those, and has no clean name; the scholars who admit it at all call it the Long Inheritance.
+They also uplifted us. The two statements are not in conflict, because non-interference is a description of intent and uplift is a description of outcome, and millennia of proximity settle the matter without anyone's permission. Humanity did not become what it is on its own. Neither was it taught. What happened lies between those, and has no clean name; the scholars who admit it at all call it the Long Inheritance.
 
 ## Four ways a thing passes
 
@@ -26,7 +26,7 @@ They also uplifted us. The two statements are not in conflict, because non-inter
 
 **Inferred.** The subtlest of the four and by far the most consequential. A man who has seen a single-span stone bridge stand does not need to be told how it was built; he needs only to know that it can be. Knowing a thing is possible is most of the distance to doing it, and the Elder Races could not prevent humanity from _seeing_ what was possible without withdrawing from the world entirely. Much of what humanity credits to its own genius is genius spent on a problem someone else had already proved solvable.
 
-**Direct.** Over five thousand years, individuals do as they please. A Sinalë who taught one student because the student asked well; a Khazári exile who sold what a hold would not have sold; a smith with an heirless craft; a scholar who wanted an idea to survive them; and — not rarely — someone with a purpose of their own who needed a human able to do something humans could not yet do. These transmissions are unauthorized, undocumented, and responsible for a startling share of what a modern mage or engineer takes for granted.
+**Direct.** Across all those millennia, individuals do as they please. A Sinalë who taught one student because the student asked well; a Khazári exile who sold what a hold would not have sold; a smith with an heirless craft; a scholar who wanted an idea to survive them; and — not rarely — someone with a purpose of their own who needed a human able to do something humans could not yet do. These transmissions are unauthorized, undocumented, and responsible for a startling share of what a modern mage or engineer takes for granted.
 
 ## Two channels
 
@@ -52,7 +52,11 @@ Whether this is the healthiest relationship any human polity has managed with th
 
 ## The Kaliharan contrast
 
-[[affiliation-kalihara|Kalihara]] is the exception that clarifies the rule. There humanity was uplifted **deliberately**, by the Ithári, millennia before either Elder Race set foot on Thalorna, and the Kaliharans know it, say so, and organize their institutions around the fact. Elsewhere the same thing happened by accident and is denied by all parties — the Elder Races because they meant no such thing, and humanity because it would rather have done it alone.
+[[affiliation-kalihara|Kalihara]] is the exception that clarifies the rule. There humanity was uplifted **deliberately**, by the [[lore-theithari|Ithári]], millennia before either Elder Race set foot on Thalorna, and the Kaliharans know it, say so, and organize their institutions around the fact. Elsewhere the same thing happened by accident and is denied by all parties — the Elder Races because they meant no such thing, and humanity because it would rather have done it alone.
+
+The contrast runs deeper than the admission. Everything in the four modes above is partial: a technique seen and copied, a possibility glimpsed, a debt argued over for millennia. Kalihara was given a civilization entire — language, medicine, governance and a philosophy, arriving complete and with no clumsy ascent behind it — and given it by a people who were not an Elder Race, who were on Thalorna before either of them, and who raised humanity nowhere else on the world. The Ithári left in 7,300 BF; the Kaliharans have been keeping what was handed to them ever since, without ever having been told what most of it is for. Against that, the Long Inheritance is a slow argument between neighbours.
+
+One caution about that comparison, which the learned world is in no position to make. Everything in the paragraph above rests on Kaliharan testimony, and Kaliharan testimony does not travel. The Ithári are named, remembered and accounted for on one island and nowhere else; the works they left in other countries stand there unexplained and unconnected, credited locally to gods, to the elder races, or to nobody. So the Kaliharan exception is not a case the scholars of Ankaris weigh against their own and set aside — it is a case they have never heard, argued over an inheritance they cannot see the whole of. The full account, such as it is, is [[lore-theithari|The Ithári]].
 
 ## What it means to say aloud
 
