@@ -182,7 +182,7 @@ Synod is: the Ordo's **central chantry for the island**, and therefore the body 
 neighbouring court keeps the advisors it cannot govern without.
 
 The remaining
-forty thousand live on **manorial estates** through the coastal plains and the river valleys — demesne
+sixty-nine thousand live on **manorial estates** through the coastal plains and the river valleys — demesne
 and tenantry in the ordinary way, but administered for the Synod by appointed stewards rather than held
 by a landed aristocracy with claims of its own. That is one of the quieter ways mage-rule differs from
 the feudal kingdoms across the water, and one of the reasons the Synod's writ runs as evenly as it does.

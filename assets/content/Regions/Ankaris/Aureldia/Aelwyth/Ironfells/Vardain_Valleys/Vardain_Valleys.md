@@ -12,7 +12,7 @@ data:
     - vardain
   parents:
     - ironfells
-  population: 10000
+  population: 8500
 name:
   full: The Vardain Valleys
   aliases: []
@@ -21,7 +21,7 @@ packFolder: aelwyth
 ---
 
 Beneath [[place-vorgald|Vorgald]], in the eastern heights of the [[place-ironfells|Ironfells]], a
-system of high valleys runs down toward the sea cliffs. They hold about **ten thousand [[lore-vardain|Vardain]]** — one town and eight villages — and they are not part of any Aelwythan
+system of high valleys runs down toward the sea cliffs. They hold about **eight thousand five hundred [[lore-vardain|Vardain]]** — one town and eight villages — and they are not part of any Aelwythan
 kingdom.
 
 No map made at [[place-dunmere|Dunmere]] or [[place-ravenmoor|Ravenmoor]] shows a border here, because
@@ -34,14 +34,14 @@ Aelwyth's land, and these mountains with it. When the Nordmen came they devastat
 enslaved the people; a hundred and twenty thousand Vardain are thralls down there now, and what reached
 the high valleys was a remnant of a remnant.
 
-Ten thousand people is what is left free of a nation that held a fifth of the island. The valleys
+Eight thousand five hundred people is what is left free of a nation that held a fifth of the island. The valleys
 survived because the Khazári are in them, and the valley folk are entirely clear that this is the only
 reason.
 
 ## The Country
 
-Not a gorge — a **small upland basin with a broad floor**, which is the whole reason ten thousand people
-can live here at all.
+Not a gorge — a **small upland basin with a broad floor**, which is the whole reason eight thousand five
+hundred people can live here at all.
 
 The proportion matters and the Vardain never forget it. This is **one basin**: perhaps twenty miles from
 end to end and a few across at its widest, with two or three side valleys hanging off it. Below and
@@ -176,7 +176,7 @@ economic purpose of the district.
 
 ## The Settlements
 
-- **[[place-vargate|Vargate]]** — the town at the foot of the road to the Gate; five thousand people, and
+- **[[place-vargate|Vargate]]** — the town at the foot of the road to the Gate; fifteen hundred people, and
   the only place where Khazári goods enter human hands.
 - **[[place-barakth|Barakth]]**, the oldest village and the tally-keepers.
 - **[[place-vellick|Vellick]]**, where the smiths are.
