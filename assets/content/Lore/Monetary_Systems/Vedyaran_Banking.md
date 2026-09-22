@@ -20,14 +20,14 @@ _Stub — to be expanded._
 
 ## Overview
 
-The Vedyaran banking system is the monetary and credit infrastructure operated by the [[affiliation-mrchntclctvvdyr|Merchant Collective]] across the five Vedyaran janapadas. It runs independently of both the Vylarian [[affiliation-aerarimmpr|The Aerarium Imperii]] and the Ta'Kheperan [[affiliation-perhati|Pér-Háti]] — the Vedyaran Merchant Collective has, for generations, declined every overture from those institutions for formal correspondent recognition, preferring to maintain its own self-contained system.
+The Vedyaran banking system is the monetary and credit infrastructure operated by the [[affiliation-mrchntclctvvdyr|Merchant Collective]] across the five seats of the Assembly of the Compact. It runs independently of both the Vylarian [[affiliation-aerarimmpr|The Aerarium Imperii]] and the Ta'Kheperan [[affiliation-perhati|Pér-Háti]] — the Vedyaran Merchant Collective has, for generations, declined every overture from those institutions for formal correspondent recognition, preferring to maintain its own self-contained system.
 
 The system's specific mechanics — denominations, credit instruments, intra-janapada clearing, treatment of foreign currency, interaction with the _kula_ and _karmakara_ commercial structures — are not yet documented in detail and will be expanded in a future pass.
 
 What is presently known:
 
 - The Merchant Collective operates as the principal banking institution of Vedyaran commerce, in addition to its role as the federation of mercantile _kulas_ (the great hereditary trading families).
-- The five Vedyaran janapadas — [[affiliation-chandrapur|Chandrapur]], [[affiliation-dhnrktjnpd|Dhanurkota]], [[affiliation-rajaprjnpd|Rajapur]], [[affiliation-suvrgrjnpd|Suvarnagiri]], and [[affiliation-vyalendra|Vyālendra]] — share the system; the Collective's standing as a supra-realm institution gives the banking infrastructure continent-internal scope.
+- The five seats of the Assembly of the Compact — [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra|Vyālendra]], [[affiliation-vindhyalay|Vindhyālaya]] through its capital, [[affiliation-rajaprjnpd|Rājapur]] and [[affiliation-dhnrktjnpd|Dhanurkota]] — share the system; the Collective's standing as a supra-realm institution gives the banking infrastructure continent-internal scope. [[affiliation-suvrgrjnpd|Suvarṇagiri]] keeps its own weighing and its own treasury and holds no seat.
 - Foreign currencies (Vylarian Argo and Aurion, Ta'Kheperan deben pieces) are exchangeable through Collective-controlled rates at frontier trading posts; the rates are not favorable to the bearer.
 - The Collective has refused trade-recognition agreements with both the Vylarian Magnum Collegium and the Haradian Sôd-Naqîrîn, which means Vedyaran merchants traveling to those territories must conduct their commerce in the local currency rather than through any clearing arrangement.
 

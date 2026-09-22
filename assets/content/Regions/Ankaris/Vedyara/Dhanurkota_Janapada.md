@@ -32,8 +32,9 @@ data:
       - level: 1
         title: Bonded Servant
         lore: bondservantrnk
-        description: Bound by debt or birth to a household, owing labour and lacking the standing
-          to hold land.
+        description: >-
+          Bound by debt or birth to a household, owing labour and lacking the standing to hold
+          land.
       - level: 2
         title: Śūdra
         lore: commonerrnk
@@ -44,61 +45,60 @@ data:
         title: Vaiśya
         lore: gentryrnk
         description: >-
-          Of the productive varṇa — merchants, herders and landholders, whose wealth sustains
-          the court and its temples.
+          Of the productive varṇa — merchants, herders and landholders, whose tithes in coin and
+          goods sustain the temple and its granary.
       - level: 4
         title: Kṣatriya
         lore: warriorrnk
-        description: Of the warrior varṇa, bearing arms by right and owing service in the Mahārāja's
-          host.
+        description: >-
+          Of the warrior varṇa, bearing arms by right and owing service in the militia the sabhā
+          raises from the villages.
       - level: 5
         title: Brāhmaṇa
         lore: priestrnk
         description: >-
-          Of the priestly varṇa, keeper of rite and learning, without whose sanction no royal
-          act is complete.
+          Of the priestly varṇa, keeper of rite and learning, without whose sanction no act of
+          the sabhā is complete.
       - level: 6
-        title: Sāmanta
-        lore: greatlordrnk
-        description: A clan-chieftain holding land of the Mahārāja and sitting on the martial
-          council.
-      - level: 7
-        title: Royal Kin
-        lore: heirrnk
-        description: Of the Mahārāja's house by blood or marriage, eligible for the throne and
-          its regencies.
-      - level: 8
-        title: Mahārāja
-        lore: sovereignrnk
+        title: Sabhāsad
+        lore: councillorrnk
         description: >-
-          The great king himself, in whom the martial council and the priestly court alike find
-          their sanction.
+          A seated member of the sabhā, sent by a constituent village at its turn or by a guild
+          holding a reserved seat, and answerable to those who sent him.
+      - level: 7
+        title: Sabhāpati
+        lore: prsdngffcrrnk
+        description: >-
+          The convening priest, who puts the sabhā's questions and declares what it has agreed.
+          He presides and does not rule, and only the ordained may hold the office.
     offices:
-      Mahārāja: The great king, ruling by descent and confirmed by the rites the Varṇaka brahmins
-        perform.
-      Rājñī: The chief queen, holding her own revenues, household and voice at court.
-      Yuvarāja: The designated heir, commonly given a province to govern as his apprenticeship.
-      Mantrin: Minister of the crown, one of the small council through which the kingdom is
-        actually run.
-      Purohita: Royal chaplain, who performs the rites on which the king's legitimacy rests.
-      Rājaguru: The king's own teacher and spiritual authority, whose counsel outweighs any
-        minister's.
-      Senāpati: Commander of the host, holding the martial council's confidence as well as
-        the king's.
-      Daṇḍanāyaka: Magistrate and keeper of the king's justice within a district.
-      Koṣādhyakṣa: Superintendent of the treasury, answerable for revenue, stores and the
-        mint.
-      Sāmanta: >-
-        A vassal chieftain holding land in return for service, and the kingdom's chief source
-        of both strength and rebellion.
-      Dūta: Envoy to a foreign court, whose person is protected by custom on both sides of
-        the passes.
-      Gaṇaka: Court astrologer, fixing the auspicious hour for campaigns, marriages and coronations.
+      Sabhāpati: >-
+        The senior priest of the central temple, who convenes the sabhā, puts its questions and
+        declares what it has agreed.
+      Smṛtibhāra: >-
+        The Memory-Keeper, who holds the janapada's genealogies, boundary records and
+        precedents, and recites them when the sabhā asks.
+      Koṣādhyakṣa: >-
+        Superintendent of the temple treasury, answerable for the granary reserve, the
+        endowments and the tithe rolls.
+      Gaṇaka: >-
+        The reckoner, who fixes the ritual calendar, keeps the survey of the fields and computes
+        each village's share of the water.
+      Dūta: >-
+        The envoy who carries the sabhā's word to a neighbouring janapada, to a patron court and
+        to the Mela.
+      Senānī: >-
+        Captain of the militia, raised from the villages at the sabhā's call and dismissed when
+        the need ends.
+      Dhanurācārya: >-
+        Master of one of the four archery academies, holding its reserved seat on the sabhā. The
+        four are seated together and answer together on any question of war.
   commonSkills:
     - vedyarlng
   seat: dhanurkota
   domains:
     - dhanurkotajnpd
+    - dhanurkota
   population: 30000
   economy:
     - affiliation-mrchntclctvvdyr
@@ -109,11 +109,13 @@ data:
     - janpdsvdyr
   relations:
     varakpnthn: aligned
+    vyalendra2: aligned
+    chandrapur: aligned
 terran_analog: "Medieval South Indian temple-republic with a martial-caste specialty — Chola-era brahmadeya village federation centered on a fortified temple complex, distinguished by hereditary archery training traditions"
 packFolder: vedyara
 ---
 
-The **Dhanurkota Janapada** is the federation of fourteen villages of the upper Sarvada river valley, governed jointly through the great hall of the **Mahájaya temple** at Dhanurkota — the "Bow-Fort" town from which the janapada takes its name. It is one of perhaps eighty similar janapadas comprising the [[affiliation-janpdsvdyr|Mahā-Saṅgha of Vedyara]], and it is not large or wealthy by Vedyari standards. What it has, and what it is known for across the region, is the **Bow** — the four ancient archery academies whose graduates have for fifteen centuries staffed the elite missile units of every major Vedyari kingdom. The janapada holds the land of [[place-dhanurkotajnpd|Dhanurkota Janapada]].
+The **Dhanurkota Janapada** is the federation of fourteen villages of the upper Sarvada river valley, governed jointly through the great hall of the **Mahájaya temple** at Dhanurkota — the "Bow-Fort" town from which the janapada takes its name. It is one of perhaps eighty similar janapadas of the **Sarvada circuit** — the reckoning that matters at the Mela, where a janapada is counted with the others that drink the same river and not with the several thousand of the [[affiliation-janpdsvdyr|Mahā-Saṅgha]] entire — and it is not large or wealthy by Vedyari standards. What it has, and what it is known for across the region, is the **Bow** — the four ancient archery academies whose graduates have for fifteen centuries staffed the elite missile units of every major Vedyari kingdom. The janapada holds the land of [[place-dhanurkotajnpd|Dhanurkota Janapada]].
 
 ## The Four Academies
 
@@ -136,7 +138,7 @@ Dhanurkota maintains an unusual degree of social mobility for a Vedyari polity. 
 
 ## Religion
 
-The **Mahájaya temple** at Dhanurkota is the religious heart of the janapada and one of the major Mahájaya temples of inland Vedyara. Mahájaya — the preserver-deity of the [[affiliation-varakpnthn|Varṇaka pantheon]], lord of order, prosperity, and the maintenance of dharma — is an unusually appropriate patron for a janapada whose identity centers on disciplined martial training in service of legitimate authority. The temple maintains the standard Mahājaya devotional cycle (daily, weekly, seasonal, and annual rites) and adds certain janapada-specific observances: the **Festival of the Drawn Bow** at the spring equinox, when each year's incoming academy students present themselves at the temple for blessing; the **Festival of the Returning** in autumn, when academy graduates returning from service abroad ritually re-enter the janapada and are welcomed; and the long **Watch of the Bow-String** held the night before any major military engagement involving Dhanurkoti graduates anywhere in Vedyara, when the temple's bowmen-priests maintain a vigil for the safety of their alumni.
+The **Mahájaya temple** at Dhanurkota is the religious heart of the janapada and one of the major Mahájaya temples of inland Vedyara. Mahájaya — the preserver-goddess of the [[affiliation-varakpnthn|Varṇaka pantheon]], mistress of order, prosperity, and the maintenance of dharma — is an unusually appropriate patron for a janapada whose identity centers on disciplined martial training in service of legitimate authority. The temple maintains the standard Mahājaya devotional cycle (daily, weekly, seasonal, and annual rites) and adds certain janapada-specific observances: the **Festival of the Drawn Bow** at the spring equinox, when each year's incoming academy students present themselves at the temple for blessing; the **Festival of the Returning** in autumn, when academy graduates returning from service abroad ritually re-enter the janapada and are welcomed; and the long **Watch of the Bow-String** held the night before any major military engagement involving Dhanurkoti graduates anywhere in Vedyara, when the temple's bowmen-priests maintain a vigil for the safety of their alumni.
 
 Subsidiary shrines to other Varṇaka deities exist throughout the constituent villages. The temple of **Vyālendra** the creator at the Sarvada source-spring is a popular pilgrimage site for those seeking children; the **Rásikara** shrine in the cremation-ground outside the town receives the dead.
 

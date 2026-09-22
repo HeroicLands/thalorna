@@ -34,8 +34,9 @@ data:
       - level: 1
         title: Bonded Servant
         lore: bondservantrnk
-        description: Bound by debt or birth to a household, owing labour and lacking the standing
-          to hold land.
+        description: >-
+          Bound by debt or birth to a household, owing labour and lacking the standing to hold
+          land.
       - level: 2
         title: Śūdra
         lore: commonerrnk
@@ -46,61 +47,60 @@ data:
         title: Vaiśya
         lore: gentryrnk
         description: >-
-          Of the productive varṇa — merchants, herders and landholders, whose wealth sustains
-          the court and its temples.
+          Of the productive varṇa — merchants, herders and landholders, whose tithes in coin and
+          goods sustain the temple and its granary.
       - level: 4
         title: Kṣatriya
         lore: warriorrnk
-        description: Of the warrior varṇa, bearing arms by right and owing service in the Mahārāja's
-          host.
+        description: >-
+          Of the warrior varṇa, bearing arms by right and owing service in the militia the sabhā
+          raises from the villages.
       - level: 5
         title: Brāhmaṇa
         lore: priestrnk
         description: >-
-          Of the priestly varṇa, keeper of rite and learning, without whose sanction no royal
-          act is complete.
+          Of the priestly varṇa, keeper of rite and learning, without whose sanction no act of
+          the sabhā is complete.
       - level: 6
-        title: Sāmanta
-        lore: greatlordrnk
-        description: A clan-chieftain holding land of the Mahārāja and sitting on the martial
-          council.
-      - level: 7
-        title: Royal Kin
-        lore: heirrnk
-        description: Of the Mahārāja's house by blood or marriage, eligible for the throne and
-          its regencies.
-      - level: 8
-        title: Mahārāja
-        lore: sovereignrnk
+        title: Sabhāsad
+        lore: councillorrnk
         description: >-
-          The great king himself, in whom the martial council and the priestly court alike find
-          their sanction.
+          A seated member of the sabhā, sent by a constituent village at its turn or by a guild
+          holding a reserved seat, and answerable to those who sent him.
+      - level: 7
+        title: Sabhāpati
+        lore: prsdngffcrrnk
+        description: >-
+          The convening priest, who puts the sabhā's questions and declares what it has agreed.
+          He presides and does not rule, and only the ordained may hold the office.
     offices:
-      Mahārāja: The great king, ruling by descent and confirmed by the rites the Varṇaka brahmins
-        perform.
-      Rājñī: The chief queen, holding her own revenues, household and voice at court.
-      Yuvarāja: The designated heir, commonly given a province to govern as his apprenticeship.
-      Mantrin: Minister of the crown, one of the small council through which the kingdom is
-        actually run.
-      Purohita: Royal chaplain, who performs the rites on which the king's legitimacy rests.
-      Rājaguru: The king's own teacher and spiritual authority, whose counsel outweighs any
-        minister's.
-      Senāpati: Commander of the host, holding the martial council's confidence as well as
-        the king's.
-      Daṇḍanāyaka: Magistrate and keeper of the king's justice within a district.
-      Koṣādhyakṣa: Superintendent of the treasury, answerable for revenue, stores and the
-        mint.
-      Sāmanta: >-
-        A vassal chieftain holding land in return for service, and the kingdom's chief source
-        of both strength and rebellion.
-      Dūta: Envoy to a foreign court, whose person is protected by custom on both sides of
-        the passes.
-      Gaṇaka: Court astrologer, fixing the auspicious hour for campaigns, marriages and coronations.
+      Sabhāpati: >-
+        The senior priest of the central temple, who convenes the sabhā, puts its questions and
+        declares what it has agreed.
+      Smṛtibhāra: >-
+        The Memory-Keeper, who holds the janapada's genealogies, boundary records and
+        precedents, and recites them when the sabhā asks.
+      Koṣādhyakṣa: >-
+        Superintendent of the temple treasury, answerable for the granary reserve, the
+        endowments and the tithe rolls.
+      Gaṇaka: >-
+        The reckoner, who fixes the ritual calendar, keeps the survey of the fields and computes
+        each village's share of the water.
+      Dūta: >-
+        The envoy who carries the sabhā's word to a neighbouring janapada, to a patron court and
+        to the Mela.
+      Senānī: >-
+        Captain of the militia, raised from the villages at the sabhā's call and dismissed when
+        the need ends.
+      The Twenty-Eight: >-
+        The heads of the twenty-eight hereditary panning-families, who meet quarterly, settle
+        disputes among themselves and speak with one voice on the panning regime.
   commonSkills:
     - vedyarlng
   seat: suvaragiri
   domains:
     - suvarnagirijnpd
+    - suvaragiri
   population: 35000
   economy:
     - affiliation-mrchntclctvvdyr
@@ -111,11 +111,13 @@ data:
     - janpdsvdyr
   relations:
     varakpnthn: aligned
+    chandrapur: aligned
+    mrchntclctvvdyr: rival
 terran_analog: "Medieval South Indian temple-republic with mineral-resource wealth — Chola-era brahmadeya village federation centered on a gold-bearing mountain, governed by an unusually elaborate constitutional structure designed to prevent the concentration of mineral wealth in any one lineage or temple"
 packFolder: vedyara
 ---
 
-The **Suvarṇagiri Janapada** is the federation of fifteen villages of the Bhārava highlands, governed jointly through three great temples of **Mahájaya** that ring the slopes of the gold-bearing mountain from which the janapada takes its name — _Suvarṇa_ (gold) _giri_ (mountain). Its population is roughly twenty-five thousand. It is one of the wealthier and more institutionally elaborate janapadas of the [[affiliation-janpdsvdyr|Mahā-Saṅgha]], and it is the case-study in every Vedyari political-economy treatise of how a temple-republic can manage the corrupting potential of mineral wealth without either failing or transforming itself into a kingdom. The janapada holds the land of [[place-suvarnagirijnpd|Suvarṇagiri Janapada]].
+The **Suvarṇagiri Janapada** is the federation of fifteen villages of the Bhārava highlands, governed jointly through three great temples of **Mahájaya** that ring the slopes of the gold-bearing mountain from which the janapada takes its name — _Suvarṇa_ (gold) _giri_ (mountain). Its population is roughly thirty-five thousand. It is one of the wealthier and more institutionally elaborate janapadas of the [[affiliation-janpdsvdyr|Mahā-Saṅgha]], and it is the case-study in every Vedyari political-economy treatise of how a temple-republic can manage the corrupting potential of mineral wealth without either failing or transforming itself into a kingdom. The janapada holds the land of [[place-suvarnagirijnpd|Suvarṇagiri Janapada]].
 
 That it has not failed in fifteen centuries, and has not transformed itself into a kingdom in fifteen centuries, is the central political fact of Suvarṇagiri.
 
@@ -145,7 +147,7 @@ These provisions were not all in place at the founding. They have accumulated ac
 
 ## Religion
 
-Suvarṇagiri is, theologically, a **Mahájaya janapada through and through** — the preserver-deity of the [[affiliation-varakpnthn|Varṇaka pantheon]] is the focus of its three great temples, the patron of its constitutional preservation, the lord whose dharma the gold income serves. The Suvarnagiri Mahájaya tradition emphasizes Mahájaya's role as the **balancer** — the force that holds the cosmic order in equilibrium against both the chaos of Rásikara and the unrestrained creative impulse of Vyālendra. The Gold Constitution is, in Suvarnagiri theology, a worldly enactment of Mahājaya's cosmic balancing function.
+Suvarṇagiri is, theologically, a **Mahájaya janapada through and through** — the preserver-goddess of the [[affiliation-varakpnthn|Varṇaka pantheon]] is the focus of its three great temples, the patron of its constitutional preservation, the goddess whose dharma the gold income serves. The Suvarnagiri Mahájaya tradition emphasizes Mahájaya's role as the **balancer** — the force that holds the cosmic order in equilibrium against both the chaos of Rásikara and the unrestrained creative impulse of Vyālendra. The Gold Constitution is, in Suvarnagiri theology, a worldly enactment of Mahājaya's cosmic balancing function.
 
 Subsidiary shrines to Vyālendra and Rásikara exist throughout the constituent villages. The Rásikara shrine on the back slope of the mountain — at the head of a small stream that does not yield gold — is significant: by Suvarnagiri tradition the panning is forbidden in the Rásikara stream, as a recognition that not all of the mountain's wealth belongs to Mahājaya's order, and that Rásikara's destructive-creative principle must be allowed its own portion.
 
@@ -166,6 +168,12 @@ The reinforcements are the more important defense. Suvarṇagiri maintains forma
 **The Twenty-Eight**, the collective designation of the heads of the twenty-eight hereditary panning-families. They meet quarterly to coordinate their work, settle inter-family disputes, and present a united view to the sabhā on questions affecting the panning regime. They are not technically a constitutional body, but they have a recognized voice in any sabhā discussion of panning-related matters and their joint pronouncements carry weight.
 
 **Padmavali Dhanurvedakirtiraja**, the most prominent recent Suvarnagiri-born scholar to have made a name in the wider Vedyari classical tradition. Currently teaching at one of the great academies of [[affiliation-chandrapur|Chandrapur]]; her commentary on the Suvarnagiri Gold Constitution is one of the major recent contributions to Vedyari political-philosophical literature.
+
+## Outside the Compact
+
+Suvarṇagiri is the one polity of consequence in inland Vedyara that holds no seat in the **Assembly of the Compact**, the standing agreement through which [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]], [[affiliation-vindhyalay|Vindhyālaya]], [[affiliation-rajaprjnpd|Rājapur]] and [[affiliation-dhnrktjnpd|Dhanurkota]] hold the Vedyaran banking system in common. It is outside by its own constitution and not by anyone's exclusion: a seat obliges its holder to let the [[affiliation-mrchntclctvvdyr|Merchant Collective]]'s factors weigh, assay and lend against the metal that passes through its territory, and the Gold Constitution vests the weighing in the temple station and the lending in the common treasury, where no outside house may reach either.
+
+The arrangement suits Suvarṇagiri and irritates everybody else. The Assembly would like a sixth seat and the gold behind it; the Twenty-Eight would like the cap kept exactly where it is; and the sabhā has to be seen to want both, since the janapada's gold reaches the coast anyway, by way of buyers who pay in coin at the edge of the territory and ask no questions inside it.
 
 ## Commerce and Currency
 

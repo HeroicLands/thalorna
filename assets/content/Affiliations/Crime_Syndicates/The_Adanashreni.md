@@ -109,8 +109,9 @@ criminal body in Thalorna — but it is not a syndicate, and the distinction is 
 character. The [[affiliation-crmsyndctsthlrn|syndicates]] of the Vylarian basin are enterprises: they
 hold territory, they answer to a boss, and they can be broken by taking the territory or killing the
 boss. The Ādānaśreṇī is a **craft guild** and a **hereditary caste**, chartered by law in some forty
-kingdoms, with a court of its own and a treasury of its own and craft-lines that pass from parent to
-child. No king has ever destroyed it, because there is nothing to destroy that is not also the social
+polities — the forty that hold a seat at the great pilgrimage assembly in their own right, kingdoms
+and city-states together, which is the count a Vedyari means by _the kingdoms_ — with a court of its
+own and a treasury of its own and craft-lines that pass from parent to child. No king has ever destroyed it, because there is nothing to destroy that is not also the social
 order itself. Dynasties fall; the weavers' guild persists, and so does this one.
 
 Its name means _the guild of taking_. On the charters, which are public documents, it is described as

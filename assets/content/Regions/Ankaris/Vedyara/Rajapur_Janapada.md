@@ -21,10 +21,9 @@ data:
       Sabhā of thirty-six members convened by the senior priest of the great Vyālendra temple,
       with representation drawn from each of the eleven constituent villages and from the
       principal artisan, merchant, and scholar guilds of the central town. By long tradition
-      the sabhā includes one **Memory-Keeper** — a hereditary office whose holder maintains
-      the genealogies of the displaced royal line and recites them at the opening of every
-      formal session, as a continuing acknowledgment of what Rājapur was before it became
-      a janapada.
+      the sabhā includes one Memory-Keeper — a hereditary office whose holder maintains the
+      genealogies of the displaced royal line and recites them at the opening of every formal
+      session, as a continuing acknowledgment of what Rājapur was before it became a janapada.
     ranks:
       - level: 0
         title: Outcaste
@@ -35,8 +34,9 @@ data:
       - level: 1
         title: Bonded Servant
         lore: bondservantrnk
-        description: Bound by debt or birth to a household, owing labour and lacking the standing
-          to hold land.
+        description: >-
+          Bound by debt or birth to a household, owing labour and lacking the standing to hold
+          land.
       - level: 2
         title: Śūdra
         lore: commonerrnk
@@ -47,61 +47,57 @@ data:
         title: Vaiśya
         lore: gentryrnk
         description: >-
-          Of the productive varṇa — merchants, herders and landholders, whose wealth sustains
-          the court and its temples.
+          Of the productive varṇa — merchants, herders and landholders, whose tithes in coin and
+          goods sustain the temple and its granary.
       - level: 4
         title: Kṣatriya
         lore: warriorrnk
-        description: Of the warrior varṇa, bearing arms by right and owing service in the Mahārāja's
-          host.
+        description: >-
+          Of the warrior varṇa, bearing arms by right and owing service in the militia the sabhā
+          raises from the villages.
       - level: 5
         title: Brāhmaṇa
         lore: priestrnk
         description: >-
-          Of the priestly varṇa, keeper of rite and learning, without whose sanction no royal
-          act is complete.
+          Of the priestly varṇa, keeper of rite and learning, without whose sanction no act of
+          the sabhā is complete.
       - level: 6
-        title: Sāmanta
-        lore: greatlordrnk
-        description: A clan-chieftain holding land of the Mahārāja and sitting on the martial
-          council.
-      - level: 7
-        title: Royal Kin
-        lore: heirrnk
-        description: Of the Mahārāja's house by blood or marriage, eligible for the throne and
-          its regencies.
-      - level: 8
-        title: Mahārāja
-        lore: sovereignrnk
+        title: Sabhāsad
+        lore: councillorrnk
         description: >-
-          The great king himself, in whom the martial council and the priestly court alike find
-          their sanction.
+          A seated member of the sabhā, sent by a constituent village at its turn or by a guild
+          holding a reserved seat, and answerable to those who sent him.
+      - level: 7
+        title: Sabhāpati
+        lore: prsdngffcrrnk
+        description: >-
+          The convening priest, who puts the sabhā's questions and declares what it has agreed.
+          He presides and does not rule, and only the ordained may hold the office.
     offices:
-      Mahārāja: The great king, ruling by descent and confirmed by the rites the Varṇaka brahmins
-        perform.
-      Rājñī: The chief queen, holding her own revenues, household and voice at court.
-      Yuvarāja: The designated heir, commonly given a province to govern as his apprenticeship.
-      Mantrin: Minister of the crown, one of the small council through which the kingdom is
-        actually run.
-      Purohita: Royal chaplain, who performs the rites on which the king's legitimacy rests.
-      Rājaguru: The king's own teacher and spiritual authority, whose counsel outweighs any
-        minister's.
-      Senāpati: Commander of the host, holding the martial council's confidence as well as
-        the king's.
-      Daṇḍanāyaka: Magistrate and keeper of the king's justice within a district.
-      Koṣādhyakṣa: Superintendent of the treasury, answerable for revenue, stores and the
-        mint.
-      Sāmanta: >-
-        A vassal chieftain holding land in return for service, and the kingdom's chief source
-        of both strength and rebellion.
-      Dūta: Envoy to a foreign court, whose person is protected by custom on both sides of
-        the passes.
-      Gaṇaka: Court astrologer, fixing the auspicious hour for campaigns, marriages and coronations.
+      Sabhāpati: >-
+        The senior priest of the central temple, who convenes the sabhā, puts its questions and
+        declares what it has agreed.
+      Smṛtibhāra: >-
+        The Memory-Keeper, who holds the janapada's genealogies, boundary records and
+        precedents, and recites them when the sabhā asks.
+      Koṣādhyakṣa: >-
+        Superintendent of the temple treasury, answerable for the granary reserve, the
+        endowments and the tithe rolls.
+      Gaṇaka: >-
+        The reckoner, who fixes the ritual calendar, keeps the survey of the fields and computes
+        each village's share of the water.
+      Dūta: >-
+        The envoy who carries the sabhā's word to a neighbouring janapada, to a patron court and
+        to the Mela.
+      Senānī: >-
+        Captain of the militia, raised from the villages at the sabhā's call and dismissed when
+        the need ends.
   commonSkills:
     - vedyarlng
   seat: rajapur
   domains:
     - rajapurjnpd
+    - rajapur
   population: 25000
   economy:
     - affiliation-mrchntclctvvdyr
@@ -112,6 +108,7 @@ data:
     - janpdsvdyr
   relations:
     varakpnthn: aligned
+    chandrapur: aligned
 terran_analog: "Medieval South Indian temple-republic that emerged from the ruins of a failed kingdom — a Chola-era brahmadeya village federation centered on a temple complex built atop or alongside an abandoned royal capital, governed by an assembly that explicitly preserves the memory of the displaced dynasty"
 packFolder: vedyara
 ---

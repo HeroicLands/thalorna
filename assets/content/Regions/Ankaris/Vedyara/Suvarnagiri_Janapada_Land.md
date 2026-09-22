@@ -1,6 +1,7 @@
 ---
 tags:
   - region
+  - endowed
 description: "The land of the Suvarṇagiri Janapada — fifteen villages in a wedge of upland at the Bhārava headwaters, ringing the gold-bearing mountain whose streams are panned for alluvial gold."
 name:
   full: Suvarṇagiri Janapada
@@ -25,7 +26,7 @@ Its territory occupies a triangular wedge of upland country at the headwaters of
 
 ## The Mountain
 
-Suvarṇagiri the mountain is a moderately sized peak — perhaps three thousand feet above the surrounding country — composed of weathered metamorphic rock through which thin veins of native gold run in patterns that geologists would, in another world, recognize as a classic alluvial-derivation pattern. The veins themselves have never been mined directly; the gold extracted at Suvarṇagiri is, and has always been, **alluvial** — washed out of the mountain by the seasonal rains, accumulated in the streams and small rivers that drain the slopes, and panned out by hereditary panning-families whose techniques have been refined across fifty generations. The streams produce, in a typical year, perhaps six to eight hundred ounces of gold; in a wet year, somewhat more; in a drought year, somewhat less. This is not a fortune by the standards of the great Vedyari kingdoms, but for a janapada of twenty-five thousand people it is a significant and sustained income.
+Suvarṇagiri the mountain is a moderately sized peak — perhaps three thousand feet above the surrounding country — composed of weathered metamorphic rock through which thin veins of native gold run in patterns that geologists would, in another world, recognize as a classic alluvial-derivation pattern. The veins themselves have never been mined directly; the gold extracted at Suvarṇagiri is, and has always been, **alluvial** — washed out of the mountain by the seasonal rains, accumulated in the streams and small rivers that drain the slopes, and panned out by hereditary panning-families whose techniques have been refined across fifty generations. The streams produce, in a typical year, perhaps six to eight hundred ounces of gold; in a wet year, somewhat more; in a drought year, somewhat less. This is not a fortune by the standards of the great Vedyari kingdoms, but for a janapada of thirty-five thousand people it is a significant and sustained income.
 
 ## Economy
 
