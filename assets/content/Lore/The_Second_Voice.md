@@ -56,7 +56,7 @@ afterward.
 
 ## Khazártúrn
 
-In **2800 BF** the Second Voice was taken up by a **Sinalë outlaw**, and used to destroy
+In **2427 BF** the Second Voice was taken up by a **Sinalë outlaw**, and used to destroy
 [[lore-khazarturn|Khazártúrn]] — the greatest city the Khazári ever built, and at that date the greatest
 work of any people on Thalorna.
 
@@ -69,7 +69,7 @@ afterward laid their dead in their own chambers, cleaned the city, and sealed it
 He was not mad, which is the part his own people found hardest.
 
 Khazártúrn could not feed itself — no hold can — and feeding a city of that size meant manufacturing an
-agricultural hinterland around it and expanding it for a thousand years: forests cleared, bogs drained,
+agricultural hinterland around it and expanding it for twenty-seven centuries: forests cleared, bogs drained,
 rivers diverted, whole uplands terraced and settled. It was the largest sustained alteration of the
 living world anyone on Thalorna had ever attempted.
 

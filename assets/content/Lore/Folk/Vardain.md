@@ -37,12 +37,12 @@ The Vardain are not a curiosity of one island. They are the **last surviving ins
 relationship between humans and any other people**.
 
 A [[lore-flkkhazar|Khazári]] hold grows nothing and will not be supplied from outside, so every hold has
-always needed farmers at its gate. When the Deep Folk arrived around 4280 BF there were none anywhere —
+always needed farmers at its gate. When the Deep Folk arrived around 5300 BF there were none anywhere —
 humanity was hunter-gatherers, who cannot provision anybody — and so, in the uplands around their first
 holds, the Khazári taught the nearest peoples to farm. Water-works, drainage, terracing, the granary.
 They were not making a civilization; they were making a larder.
 
-Every other such arrangement has lapsed in the four thousand years since — the peoples changed, the
+Every other such arrangement has lapsed in the six thousand years since — the peoples changed, the
 holds closed, the ground was conquered by somebody. The valleys beneath [[place-vorgald|Vorgald]] are
 the one that did not.
 

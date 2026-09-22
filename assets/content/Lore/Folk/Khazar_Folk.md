@@ -19,7 +19,7 @@ packFolder: settinglore
 
 - **Common Names:** The Deep Folk, the Stone-Wrights, the Under-Kin, the Forge-Born
 - **Self-Name:** Khazári (singular: _Khazár_; adjective: _Khazárian_)
-- **Origins:** Unknown; arrived on Thalorna from an undisclosed prior realm roughly five millennia ago (~4280 BF), about a thousand years after the [[lore-flksinale|Sinalë]] — in a period when most human populations were still hunter-gatherers
+- **Origins:** Unknown; arrived on Thalorna from an undisclosed prior realm roughly six millennia ago (~5300 BF), about two thousand years after the [[lore-flksinale|Sinalë]] — in a period when most human populations were still hunter-gatherers
 - **Population:** Vanishingly rare (<0.01% of world population). Most humans have never seen one.
 - **Enclaves:** Scattered throughout Thalorna, invariably in mountain fastnesses, deep cavern systems, and subterranean halls far from human settlement
 
@@ -64,9 +64,9 @@ Thalorna at once.
 
 The Khazári built one thing that all their other work was measured against, and lost it.
 
-**[[lore-khazarturn|Khazártúrn]]** was raised around 3800 BF and stood a thousand years — the seat of an
+**[[lore-khazarturn|Khazártúrn]]** was raised in 5123 BF and stood close to twenty-seven centuries — the seat of an
 entire people's craft-records, and the finest archive in the world at a date when humanity had not yet
-built a city anywhere. In **2800 BF** it was destroyed by a [[lore-flksinale|Sinalë]] outlaw wielding the
+built a city anywhere. In **2427 BF** it was destroyed by a [[lore-flksinale|Sinalë]] outlaw wielding the
 [[miscgear-secondvoice|Second Voice]] — a relic that takes [[lore-grukarfolk|Grukar]] from their
 spawners and commands them directly, and so produced the one thing Grukar biology otherwise forbids:
 an army. It killed **everyone** — thirty thousand, the whole population — and is the worst thing that has ever
@@ -105,11 +105,11 @@ There is exactly one exception, and it is not a realm. The **[[lore-vardain|Vard
 
 The Vardain are not an anomaly. They are a **survival**.
 
-A hold grows nothing and will not be supplied from outside, so every Khazári hold has always needed farmers within reach of its gate — and when the Deep Folk arrived around 4280 BF there were no farmers anywhere, only hunter-gatherers who could not provision anybody. So the Khazári made some, in the uplands around their first holds, by teaching the water-works, the drainage, the terracing and the granary that turn thin ground into a food supply.
+A hold grows nothing and will not be supplied from outside, so every Khazári hold has always needed farmers within reach of its gate — and when the Deep Folk arrived around 5300 BF there were no farmers anywhere, only hunter-gatherers who could not provision anybody. So the Khazári made some, in the uplands around their first holds, by teaching the water-works, the drainage, the terracing and the granary that turn thin ground into a food supply.
 
 That was not generosity and was never framed as such. It was a larder, built by a people who required one. What became of the knowledge afterward — that it ran downhill into the river valleys and grew into human civilization — happened without their participation and, so far as any evidence goes, without their interest.
 
-Most of those arrangements are four thousand years gone: the peoples changed, the holds closed, the countries were conquered by somebody. The Vardain are the one that never lapsed. They are the last people on Thalorna still doing what humans were originally taught to do.
+Most of those arrangements have lapsed in the six thousand years since: the peoples changed, the holds closed, the countries were conquered by somebody. The Vardain are the one that never lapsed. They are the last people on Thalorna still doing what humans were originally taught to do.
 
 ## Seen From Within
 
