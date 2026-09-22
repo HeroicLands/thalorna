@@ -13,6 +13,10 @@ earliest dynasties filed upward into the celestial archive before any mortal
 bureau existed to keep a copy, so the missing centuries are a question of
 jurisdiction rather than of history.
 
+**Khazártúrn fell within a lifetime of the first human empire.** The Fall and
+the Khazári entry now say so, and say that neither people's records notice the
+other.
+
 **Tānvüri chroniclers claim the elder age ended when the Mandate began.** The
 Elder Races entry carries the claim, and says plainly that nothing in the
 empire's possession supports it.
