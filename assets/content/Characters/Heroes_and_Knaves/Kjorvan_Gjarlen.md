@@ -644,7 +644,7 @@ Kjôrvan is driven by a desire to provide care and comfort to creatures that can
 
 - **Innkeeper Mârlith**: The proprietor of the Traveler's Rest Inn, who trusts Kjôrvan completely and relies on him to maintain the quality of the inn's services. She often consults him on matters beyond his stable work.
 - **Merchant Caravans of the Crossroads**: Regular merchants who pass through the inn give Kjôrvan gifts, bonuses, and special requests, viewing his care as worth premium payment.
-- **The Kingdom's **Ranger Corps\*\*: The royal rangers occasionally stable their horses with Kjôrvan and respect his knowledge of equine fitness and trail-readiness.
+- **The Kingdom's Ranger Corps**: The royal rangers occasionally stable their horses with Kjôrvan and respect his knowledge of equine fitness and trail-readiness.
 - **Noble Houses of Provènzia**: Several regional nobles have favorite horses stabled permanently at the inn specifically to be under Kjôrvan's care.
 
 ### Enemies

@@ -550,54 +550,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Sahîra Tâbîrês is a 29-year-old woman who stands 5'11" tall and is of moderate build. She has a square face with sharp cheekbones, a smooth forehead, and a sharp jaw that leads to a prominent chin. Her piercing brown eyes sit beneath heavy brows, lending her a penetrating gaze. An aquiline nose and firm lips complete her features. She has tanned skin with an olive-toned complexion. Her black hair is pinned in an elegant twist.
+Sahîra Tâbîrês is a 29-year-old woman who stands 5'11" tall and is of moderate build. She has a square face with sharp cheekbones, a smooth forehead, and a sharp jaw that leads to a prominent chin. Her piercing brown eyes sit beneath heavy brows and give her a penetrating gaze. She has an aquiline nose and firm lips. She has tanned skin with an olive-toned complexion. Her black hair is pinned in an elegant twist.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a noble family of Helionite heritage, Sahîra Tâbîrês came into the world of the scribe through a combination of circumstance and aptitude.
+Sahîra Tâbîrês is a scribe of Pelagora, the naval city of [[place-helionis|Heliónis]], the daughter of a Helionite house of standing who chose a trade over a marriage and holds a scribe's seal registered with the Imperial Scribal Guild.
 
-Sahîra is a skilled scribe known for her elegant handwriting and meticulous attention to detail. She works in a busy urban office, where she transcribes documents, letters, and legal texts for merchants and noble families. Sahîra takes great pride in her work and is often sought after for her ability to create beautiful manuscripts. In her spare time, she enjoys studying literature and dreams of writing her own book someday.
-
-Now at 29 years of age, Sahîra Tâbîrês has established herself as a known figure among the scribes of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Sahîra comes of a family that sits in the citizen assembly and owns two ships, and a daughter of such a house is expected to marry into another. She read instead, and at fifteen entered the Guild's chapterhouse for the seven-year course, which her father allowed on the understanding that she would not finish it. She finished it. She keeps an office off the harbour and writes for the shipowning families and the courts: contracts, wills, pleadings, and the fair copies of assembly decrees that are worth nothing in a Helionite court without a sealed hand at the foot of them. Her copies are exact, and they are also beautiful, which the Guild does not require and the families pay for. She reads the old poets at night, and she has begun a book of her own that nobody has seen.
 
 ## Psyche
 
 ### Personality
 
-Can be overly perfectionistic, struggles with time management.
+Sahîra is precise, proud and slow: she will recopy a page for a stroke she does not like, and she has never yet delivered a commission early. She is warmer on the page than in the room.
 
 ### Motivation
 
-Sahîra is driven by the desire to master her craft and secure a stable future. The uncertainties of life in scribe work keep her vigilant and adaptable.
+Sahîra wants every page that carries her seal to be exact and beautiful, and she wants to write a book that outlasts the contracts. The first eats the hours the second needs.
 
 ### Strengths
 
-Highly organized, skilled in calligraphy, good at understanding complex texts.
+Orderly and exact, skilled in the formal hands, able to follow a difficult text.
 
 ## Social
 
-Sahîra is affiliated with Local Scribes' Guild.
-
-As a Helionite scribe, Sahîra occupies a recognized social niche within Heliónis society.
+Sahîra holds a scribe's seal registered with the Imperial Scribal Guild, which makes her copies good in any court of the empire.
 
 ## Companions
 
 ### Patrons
 
-Sahîra's primary patron is Merchants, nobles, and local officials seeking transcription services.. This relationship provides both opportunity and obligation.
+Sahîra's patrons are the shipowning families of Pelagora, who send their contracts and wills to her, and the clerks of the citizen assembly, who send her the decrees to be fair-copied and sealed.
 
 ### Enemies
 
-Few; well-respected, though some competitors may envy her success.
+A master scribe of the chapterhouse who was passed over for the assembly's work when it went to her, and who says the families pay for her name rather than her hand.
 
 ## Plot Hooks
 
-1. **The Scribe's Dilemma** — Sahîra faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
+1. **The Decree** — A decree Sahîra fair-copied and sealed has been read in the assembly with a clause she did not write, and the demagogue who read it says the seal is hers. It is. The clause is not.
 
-2. **Old Grudges** — Few; well-respected, though some competitors may envy her success. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Forged Seal** — A will has surfaced in a court of Pelagora in a hand very like Sahîra's, under a seal that is hers to the last mark. The Guild's penalty for a counterfeited seal falls first on the seal's owner.
 
-3. **Echoes of the Past** — Something from Sahîra's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **The Thyrenae Text** — A philosopher of Thyrenae has asked Sahîra for a fair copy of a work on the founding of the Ordo, for private circulation. The chapterhouse's senior officer has asked her, the same week, to tell him of any such commission.
 
-4. **Shifting Winds** — Political changes in Heliónis threaten to upend the social order that Sahîra depends upon. She must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Sahîra the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+4. **The Late Commission** — A marriage contract must be sealed before the fleet sails in four days, and Sahîra has three days' work on it and a book that will not leave her alone.

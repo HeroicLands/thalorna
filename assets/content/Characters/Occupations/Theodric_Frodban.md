@@ -565,7 +565,7 @@ Now at 36 years of age, Theódric Fródbán has established himself as a known f
 
 ### Personality
 
-Can be overly cautious, struggles with technical mining sohl.
+Can be overly cautious, struggles with technical mining kit.
 
 ### Motivation
 

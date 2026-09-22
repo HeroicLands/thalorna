@@ -549,54 +549,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Hâlira Náredh is a 26-year-old woman who stands 5'9" tall and is slender. She has an oval face with soft cheekbones, a smooth forehead, and an angular jaw that leads to a firm chin. Her narrow blue eyes sit beneath expressive brows, lending her a keen gaze. A narrow nose and narrow lips complete her features. She has medium-toned skin with a clear complexion. Her silver hair is flowing past her shoulders. A notable feature is ink-stained fingers.
+Hâlira Náredh is a 26-year-old woman who stands 5'9" tall and is slender. She has an oval face with soft cheekbones, a smooth forehead, and an angular jaw that leads to a firm chin. Her narrow blue eyes sit beneath expressive brows and give her a keen gaze. She has a narrow nose and narrow lips. She has medium-toned skin with a clear complexion. Her silver hair flows past her shoulders. She has ink-stained fingers.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Hâlira Náredh came into the world of the scribe through a combination of circumstance and aptitude.
+Hâlira Náredh is a scribe of Valdûn, the walled market town of the eastern march of [[place-elavendre|Élavendre]], an Élavendri freewoman who writes for the drovers and the pack-trains and draws in the margins of everything she writes.
 
-Hâlira is an aspiring scribe who has taken up work in a bustling urban center, where she transcribes letters and documents for local merchants. Known for her artistic flair, she often adds decorative elements to her manuscripts, making them more visually appealing. Hâlira dreams of one day creating her own illustrated texts and often practices her skills in her free time.
-
-Now at 26 years of age, Hâlira Náredh has established herself as a known figure among the scribes of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Hâlira learned her letters from a chapterhouse scholar who wintered in the town, and she has kept herself since with a pen: drove contracts for the families bringing cattle down out of the hills, tallies for the stock fairs, escort bonds for the pack-masters crossing the march. She writes a clean, quick hand, and she cannot leave a page plain. A drove contract from her comes back with a border of bramble and a cow in the capital, and the drovers have grown fond of it, though the town's old muster-clerk has not. She practises at night on scraps, copying the one illuminated book she has seen, which a Béravel factor showed her at a fair. Béravel has a whole quarter that makes such books. She has never been there.
 
 ## Psyche
 
 ### Personality
 
-Can be easily distracted, struggles with the monotony of routine tasks.
+Hâlira is quick, curious and easily drawn off a page of tallies by anything more interesting than tallies, which is nearly everything. She has never yet delivered a plain page when a decorated one was possible.
 
 ### Motivation
 
-Hâlira is driven by the desire to master her craft and secure a stable future. The uncertainties of life in scribe work keep her vigilant and adaptable.
+Hâlira wants to make books like the one she saw, with the pictures her own, and she wants to be in Béravel, where books are made. Valdûn pays her and keeps her.
 
 ### Strengths
 
-Creative and artistic, skilled in calligraphy, good at multitasking.
+Inventive and artistic, skilled with a pen and brush, quick at holding several tasks at once.
 
 ## Social
 
-Hâlira is affiliated with Local Scribes' Guild.
-
-As a Élavendri scribe, Hâlira occupies a recognized social niche within Élavendre society.
+Hâlira belongs to no guild. The Guild of the Book at Béravel, which governs the work she wants to do, takes members by examination, and she has neither the fee nor the journey yet.
 
 ## Companions
 
 ### Patrons
 
-Hâlira's primary patron is Local merchants and community members seeking stylish manuscripts.. This relationship provides both opportunity and obligation.
+Hâlira's patrons are the droving families of the hills, who have contracts and tallies to write at every fair, and the pack-masters who need escort bonds drawn up before the escort will move.
 
 ### Enemies
 
-Few; generally well-liked, though some may criticize her style as frivolous.
+The town's muster-clerk, an old man who keeps the levy's roll and holds that a bramble in a contract is a frivolity; and a drover who lost a case on a contract she wrote and blames the pictures.
 
 ## Plot Hooks
 
-1. **The Scribe's Dilemma** — Hâlira faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **The Contract** — A dispute over a drove has come to Valdûn's court, and the court is reading a contract Hâlira illuminated. One side says the bramble border crosses out a clause. She drew it, and it does not.
 
-2. **Old Grudges** — Few; generally well-liked, though some may criticize her style as frivolous. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Factor** — The Béravel factor who showed her the book is at the autumn fair again, and has offered to take her back as an apprentice colourist. The fair ends in three days, and her mother is ill.
 
-3. **Echoes of the Past** — Something from Hâlira's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **The Warning** — Word of a Varokh war-party has come to Valdûn at dusk and must go to every steading by dawn, in as many copies as there are riders. Hâlira is the fastest pen in the town, and the muster-clerk will not have her.
 
-4. **Shifting Winds** — Political changes in Élavendre threaten to upend the social order that Hâlira depends upon. She must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Hâlira the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+4. **The Bond** — An escort bond has been presented in Hâlira's hand for a pack-train she never wrote for, and the escort it hired has vanished with the train.

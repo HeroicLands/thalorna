@@ -609,7 +609,7 @@ Gróa stands at 5’8" with a slender, wiry frame, weighing around 140 pounds. H
 
 ### Origin and Early Life
 
-Gróa was born into the Vindrkvé clan, a small, isolated lesser free clan of [[affiliation-kingdmnrgd|Norgaad]], a land of rugged fjords, deep forests, and frozen seas, home to fierce warriors and hardy seafarers. Growing up in the [[place-hrafnfjord|Hrafnfjord]] region, her family was primarily involved in fishing and hunting, eking out a living from the sea and the sparse lowlands that fringed the fjords. From a young age, Gróa exhibited signs of being different—she had strange dreams, could sense emotions in others, and felt a deep connection to the spirits of the natural world. Her village feared her, but they also recognized her gifts, for such powers were rare and valuable in [[affiliation-kngdmnrdhm|Nordheim]].
+Gróa was born into the Vindrkvé clan, a small, isolated lesser free clan of [[place-norgaad|Norgaad]], a land of rugged fjords, deep forests, and frozen seas, home to fierce warriors and hardy seafarers. Growing up in the [[place-hrafnfjord|Hrafnfjord]] region, her family was primarily involved in fishing and hunting, eking out a living from the sea and the sparse lowlands that fringed the fjords. From a young age, Gróa exhibited signs of being different—she had strange dreams, could sense emotions in others, and felt a deep connection to the spirits of the natural world. Her village feared her, but they also recognized her gifts, for such powers were rare and valuable in [[place-nordheim|Nordheim]].
 
 ### The Awakening
 

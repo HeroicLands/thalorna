@@ -155,9 +155,7 @@ This refusal was not born of hostility but of the same philosophical insularity 
 
 ## Geography
 
-Kalihara is a large tropical island dominated by dense jungle, volcanic mountains, and fertile river valleys. The climate is hot and humid year-round, supporting an extraordinary diversity of plant and animal life — including species found nowhere else on Thalorna, some of which Ankarian naturalists suspect may be remnants of deliberate cultivation by the Ithári. The interior is extraordinarily lush, with volcanic soil supporting intensive agriculture that feeds the Kaliharan population without the need for trade in staple goods.
-
-The island's topography creates natural defensive zones. The coastal lowlands give way quickly to steep, jungle-clad ridgelines that make overland travel into the interior extremely difficult for anyone unfamiliar with the paths. The volcanic peaks of the central highlands are visible from the sea but effectively unreachable without Kaliharan guidance. The combination of difficult terrain, dense vegetation, and the uncanny navigational hazards of the surrounding waters has made Kalihara effectively impregnable to any force that the Kaliharans have not chosen to admit.
+Kalihara holds [[place-kaliharargn|Kalihara Region]], the whole of the Kalihara Continent's inhabited country.
 
 ## The Port Cities
 

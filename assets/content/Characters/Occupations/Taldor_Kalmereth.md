@@ -552,54 +552,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Táldor Kálmereth is a 47-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with high cheekbones, a prominent forehead, and a rounded jaw that leads to a delicate chin. His almond-shaped gray eyes sit beneath expressive brows, lending him a measured gaze. A delicate nose and narrow lips complete his features. He has fair skin with a weathered complexion. His red hair is falling in loose waves.
+Táldor Kálmereth is a 47-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with high cheekbones, a prominent forehead, and a rounded jaw that leads to a delicate chin. His almond-shaped gray eyes sit beneath expressive brows and give him a measured gaze. He has a delicate nose and narrow lips. He has fair skin with a weathered complexion. His red hair falls in loose waves.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Táldor Kálmereth came into the world of the fisher through a combination of circumstance and aptitude.
+Táldor Kálmereth is a fisher of Elanmere, the lake town at the foot of the Ardwyn mountains in [[place-elavendre|Élavendre]], an Élavendri freeman who has worked the lake from his own boat for thirty years and keeps its observances.
 
-Táldor has been fishing since he was a boy, learning the trade from his father along the coast. He owns a small fishing boat and spends his days at sea, catching fish to sell at the local market. Táldor is known for his deep knowledge of the ocean and its currents. Despite his rugged exterior, he has a gentle heart and often shares his catch with struggling families in the village.
-
-Now at 47 years of age, Táldor Kálmereth has established himself as a known figure among the fishers of Élavendre. His reputation, for better or worse, precedes him in the circles where such things matter.
+Táldor learned the lake from his father and works it alone from the small boat that was his: where the fish lie in each month, how the wind comes down off the snowfields, and where a net is put down and where it is not. The lake is deep, cold and clear, and the boatmen hold it to be inhabited; Táldor keeps the observances his father kept without ever having said why, and he has seen enough in thirty years on the water to go on keeping them. He sells his catch at the Elanmere market and, in autumn, to the Béravel factors who come up for the fair, and he gives away more than he sells. A family with a sick father or a dead one eats Kálmereth fish through the winter and is not asked for thanks.
 
 ## Psyche
 
 ### Personality
 
-Gruff demeanor, prefers solitude, struggles with arthritis.
+Táldor is gruff, solitary and close-mouthed, easier with the lake than with people and kinder to them than his manner shows. His hands have begun to stiffen, and he hides it badly.
 
 ### Motivation
 
-Táldor is driven by the desire to master his craft and secure a stable future. The uncertainties of life in fisher work keep him vigilant and adaptable.
+Táldor wants to work the lake alone and correctly for as long as his hands will haul a net, and he wants nobody in Elanmere to go hungry while there is fish in his boat. He has not thought about what happens to either when the hands stop.
 
 ### Strengths
 
-Skilled at navigating the sea, experienced fisherman, resilient.
+Skilled in reading the lake's water and weather, an experienced fisherman, hard to wear down.
 
 ## Social
 
-Táldor is affiliated with Coastal Fishers' Guild.
-
-As a Élavendri fisher, Táldor occupies a recognized social niche within Élavendre society.
+Táldor belongs to no guild; what governs the boatmen of the lake is the observances, which every one of them keeps and none will explain to a stranger.
 
 ## Companions
 
 ### Patrons
 
-Táldor's primary patron is Local markets and taverns that buy his fresh catch.. This relationship provides both opportunity and obligation.
+Táldor's patrons are the market of Elanmere, which takes his catch fresh, and the Béravel factors who buy salted fish at the autumn fair.
 
 ### Enemies
 
-Rival fishers who compete for the best fishing spots.
+A younger fisher of the town who nets where the boatmen do not and has been lucky so far, and who says the observances are old men's stories to keep the good water for old men.
 
 ## Plot Hooks
 
-1. **The Fisher's Dilemma** — Táldor faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
+1. **The Wrong Water** — The young fisher has put a net down over the deep hole under the eastern cliff, where nobody nets, and it has come up full. He means to go back, and the boatmen have asked Táldor to stop him.
 
-2. **Old Grudges** — Rival fishers who compete for the best fishing spots. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Fair** — The Béravel factors have offered Táldor a contract for salted fish that would keep him for the years his hands have left, if he will fish the lake as they want it fished.
 
-3. **Echoes of the Past** — Something from Táldor's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **The Lake** — Something has begun to take nets from the water in the night, whole, and leave the floats. The boatmen have stopped going out, and the town is hungry.
 
-4. **Shifting Winds** — Political changes in Élavendre threaten to upend the social order that Táldor depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Táldor the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **The Hands** — Táldor could not close his hands on the net this morning, and he has three families who eat from his boat and nobody to tell.

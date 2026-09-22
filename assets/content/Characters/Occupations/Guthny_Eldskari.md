@@ -559,7 +559,7 @@ Guthný Eldskari is a 32-year-old woman who stands 6'0" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the [[affiliation-kngdmnrdhm|Nordheim]] region to a freeman family of Nordheimn heritage, Guthný Eldskari came into the world of the laborer (farm) through a combination of circumstance and aptitude.
+Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Guthný Eldskari came into the world of the laborer (farm) through a combination of circumstance and aptitude.
 
 Guthný grew up in a family of laborers, working the fields from a young age. She is strong and capable, often taking on physically demanding tasks such as lifting and carrying heavy loads. Guthný is known for her reliability and work ethic, making her a valued member of any crew. Despite the hard labor, she finds satisfaction in her work and enjoys the camaraderie with her fellow workers.
 

@@ -557,7 +557,7 @@ Hallbjörn Ásgrind is a 34-year-old man who stands 6'1" tall and is of moderate
 
 # Dossier {#dossier}
 
-Born in the [[affiliation-kngdmnrdhm|Nordheim]] region to a freeman family of Nordheimn heritage, Hallbjörn Ásgrind is a huntsman.
+Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Hallbjörn Ásgrind is a huntsman.
 
 Hallbjörn is the head huntsman for Lord Gwendolyn of Ashenwood Manor. He manages the lord's hunting grounds and sees that the game is not hunted out. He is a fine tracker with a deep knowledge of the local wildlife. His loyalty to the lord is unquestioned, and he is often called upon to lead hunting parties during the lord's feasts.
 

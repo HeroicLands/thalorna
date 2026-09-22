@@ -18,4 +18,4 @@ shortcode: tzikinbalm2
 
 ## Overview
 
-_To be written._ Tz'ikin Ba'alam is the central city and seat of the [[affiliation-tzikinbalm|Tz'ikin Ba'alam]] city-state.
+_To be written._ Tz'ikin Ba'alam is the central settlement of [[place-tzikinbalmrgn|Tz'ikin Ba'alam Region]].

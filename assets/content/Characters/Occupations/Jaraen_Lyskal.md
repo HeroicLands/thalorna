@@ -552,54 +552,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Járaen Lýskal is a 39-year-old woman who stands 5'6" tall and is slender. She has a heart-shaped face with high cheekbones, a narrow forehead, and a strong jaw that leads to a pointed chin. Her large brown eyes sit beneath straight brows, lending her an expressive gaze. A straight nose and wide lips complete her features. She has olive skin with a fair complexion. Her chestnut hair is twisted into an elaborate arrangement.
+Járaen Lýskal is a 39-year-old woman who stands 5'6" tall and is slender. She has a heart-shaped face with high cheekbones, a narrow forehead, and a strong jaw that leads to a pointed chin. Her large brown eyes sit beneath straight brows and give her an expressive gaze. She has a straight nose and wide lips. She has olive skin with a fair complexion. Her chestnut hair is twisted into an elaborate arrangement.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Járaen Lýskal came into the world of the toymaker through a combination of circumstance and aptitude.
+Járaen Lýskal is a toymaker of Lunacòrte, the capital of [[place-provenzrgn|Provènzia]], a Provenzian freewoman who makes wooden toys, dolls and small models in a workshop off the harbour quarter.
 
-Járaen learned the art of toymaking from her grandfather, who crafted toys for children in the local village. She now runs a small workshop in the city, where she makes wooden toys, dolls, and miniature models. Járaen’s toys are known for their whimsical designs and intricate details, which bring joy to children and collectors alike. Although her craft is fulfilling, she struggles to compete with cheaper, mass-produced toys.
-
-Now at 39 years of age, Járaen Lýskal has established herself as a known figure among the toymakers of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Járaen learned the trade from her grandfather, who carved for the children of a hill village and taught her that a toy is finished when a child cannot put it down. She brought the craft to the city at twenty and has kept a workshop for nearly as long, making jointed animals, painted dolls, ships with rigging that runs, and the small models of the court's ceremonies that collectors have begun to buy. No two pieces are the same and she will not make them so. The city is full of toys that are. Turned wood by the gross comes in through Belpòrte from Vylaria and sells at a third of her price, and Járaen, who can carve anything, cannot sell and hates trying, has watched the market she built go to it stall by stall.
 
 ## Psyche
 
 ### Personality
 
-Struggles with marketing and business aspects, can be overly perfectionist with her work.
+Járaen is gentle, patient with children and short with adults, and a perfectionist who will scrap a doll for a flaw in the grain. She cannot price her work and cannot bear to sell it to someone who will not love it.
 
 ### Motivation
 
-Járaen is driven by the desire to master her craft and secure a stable future. The uncertainties of life in toymaker work keep her vigilant and adaptable.
+Járaen wants every toy that leaves her to be a delight to the child who gets it, and she wants her grandfather's craft to go on in her hands and after them. Both are being priced out from under her, and she knows no answer but carving better.
 
 ### Strengths
 
-Skilled at woodworking and painting, creative, and good with children.
+Skilled in carving and painting, inventive, good with children.
 
 ## Social
 
-Járaen is affiliated with City Artisans' Guild.
-
-As a Provenzian toymaker, Járaen occupies a recognized social niche within Provènzia society.
+Járaen holds her seal from the Woodcarvers' Guild of Lunacòrte, chartered under the Magnum Collegium, and pays her dues and attends nothing.
 
 ## Companions
 
 ### Patrons
 
-Járaen's primary patron is Local families who value handmade toys.. This relationship provides both opportunity and obligation.
+Járaen's patrons are the households of the court's officers, who buy her toys for their children and her models for themselves, and a handful of collectors.
 
 ### Enemies
 
-Larger toy merchants who view her as insignificant competition.
+The importing houses that bring in Vylarian turned toys through Belpòrte and sell them by the gross, and a stall-holder who sells copies of her animals carved by nobody in particular.
 
 ## Plot Hooks
 
-1. **The Toymaker's Dilemma** — Járaen faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
+1. **The Peer's Child** — A Peer's small daughter has refused every toy in the palace but one of Járaen's, and the Peer's steward has come to order a dozen more by the feast. Járaen has never made a dozen of anything.
 
-2. **Old Grudges** — Larger toy merchants who view her as insignificant competition. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Procession** — A collector has commissioned a complete model of the Crown's coronation procession, with a figure for every officer, and the Crown's chamberlain has let it be known that certain officers are not to be included.
 
-3. **Echoes of the Past** — Something from Járaen's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **The Copy** — Járaen's jointed fox is being sold in the market in twenty copies, badly carved, under her grandfather's mark.
 
-4. **Shifting Winds** — Political changes in Provènzia threaten to upend the social order that Járaen depends upon. She must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Járaen the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+4. **The Rent** — The workshop's landlord has doubled the rent for the harbour quarter, and Járaen has a season's stock she cannot sell and an apprentice she cannot pay.

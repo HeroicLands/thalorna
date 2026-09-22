@@ -593,7 +593,7 @@ Thorsteinn stands 6'1" tall with a heavy build. He has tanned weathered skin, bl
 
 ### Origins Among the Herds
 
-Thorsteinn was born into the Járnskel clan, a family of herders whose bloodline extends back generations among the pastoral valleys of [[affiliation-kingdmnrgd|Norgaad]]. His earliest memories are of following his father across windswept highlands, learning to read the moods of livestock and the moods of the weather with equal attentiveness. Where most children played with toys, Thorsteinn practiced herding techniques with the family's mixed flocks. No one forced this education on him; it was simply the texture of his life.
+Thorsteinn was born into the Járnskel clan, a family of herders whose bloodline extends back generations among the pastoral valleys of [[place-norgaad|Norgaad]]. His earliest memories are of following his father across windswept highlands, learning to read the moods of livestock and the moods of the weather with equal attentiveness. Where most children played with toys, Thorsteinn practiced herding techniques with the family's mixed flocks. No one forced this education on him; it was simply the texture of his life.
 
 ### The Settling Years
 

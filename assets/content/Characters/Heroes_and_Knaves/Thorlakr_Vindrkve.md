@@ -617,7 +617,7 @@ Thorlákr stands 6'1" tall with a medium build. He has tanned ruddy skin, gray h
 
 ### Life Before the Mines
 
-Thorlákr was born free in [[affiliation-kngdmnrdhm|Nordheim]]'s borderlands, son of a leather-worker and a wandering warrior-woman who passed through the region in pursuit of her own destiny. His father taught him the craft, but Thorlákr's heart always burned with his mother's restlessness. At twenty, seeking adventure and fortune, he ventured to the great mining settlements of the north, where a young man could theoretically rise through skill and determination. His tiger tattoo was earned through a rite of passage—a test of strength and will in the sacred valleys. For a decade, he worked as a free miner, his strength and shrewd judgment bringing him respect and decent wages.
+Thorlákr was born free in [[place-nordheim|Nordheim]]'s borderlands, son of a leather-worker and a wandering warrior-woman who passed through the region in pursuit of her own destiny. His father taught him the craft, but Thorlákr's heart always burned with his mother's restlessness. At twenty, seeking adventure and fortune, he ventured to the great mining settlements of the north, where a young man could theoretically rise through skill and determination. His tiger tattoo was earned through a rite of passage—a test of strength and will in the sacred valleys. For a decade, he worked as a free miner, his strength and shrewd judgment bringing him respect and decent wages.
 
 ### Descent into Bondage
 

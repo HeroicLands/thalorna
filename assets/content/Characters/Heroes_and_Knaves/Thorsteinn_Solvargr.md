@@ -605,7 +605,7 @@ Thorsteinn Sólvargr was born into a merchant family of modest means, destined f
 
 ### The Golden Years
 
-For thirty years, Thorsteinn worked as an apprentice, journeyman, and finally master, gradually building a reputation as a reliable, skilled craftsman. He developed a particular skill in functional glassware—drinking vessels, decorative plates, and specialized containers for apothecaries and scholars. His work was known for its clarity, its precise form, and its subtle elegance. By his early forties, he had established his own workshop in [[affiliation-kngdmvthgrd|Vithgard]]'s merchant district and had become a respected figure in the Glassworkers' Guild. He trained a succession of apprentices, married a merchant's daughter named **Elara**, and settled into what seemed a life of comfortable mastery.
+For thirty years, Thorsteinn worked as an apprentice, journeyman, and finally master, gradually building a reputation as a reliable, skilled craftsman. He developed a particular skill in functional glassware—drinking vessels, decorative plates, and specialized containers for apothecaries and scholars. His work was known for its clarity, its precise form, and its subtle elegance. By his early forties, he had established his own workshop in [[place-vithgard|Vithgard]]'s merchant district and had become a respected figure in the Glassworkers' Guild. He trained a succession of apprentices, married a merchant's daughter named **Elara**, and settled into what seemed a life of comfortable mastery.
 
 ### The Plateau Years
 

@@ -553,54 +553,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Leofrun Chilwell is a 30-year-old woman who stands 5'11" tall and is slender. She has a round face with broad cheekbones, a wide forehead, and an angular jaw that leads to a pointed chin. Her piercing hazel eyes sit beneath arched brows, lending her a penetrating gaze. A narrow nose and full lips complete her features. She has fair skin with a lightly freckled complexion. Her red hair is woven with small braids.
+Leofrun Chilwell is a 30-year-old woman who stands 5'11" tall and is slender. She has a round face with broad cheekbones, a wide forehead, and an angular jaw that leads to a pointed chin. Her piercing hazel eyes sit beneath arched brows and give her a penetrating gaze. She has a narrow nose and full lips. She has fair skin with a lightly freckled complexion. Her red hair is woven with small braids.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Leofrun Chilwell came into the world of the trapper through a combination of circumstance and aptitude.
+Leofrun Chilwell is a trapper of Kingshollow, the old royal seat of Aldorath in [[place-aelwyth|Aelwyth]], an Aelwythan freewoman who traps on the tenants' land beside the king's forest and takes from it only what the land can spare.
 
-Leofrun grew up in the forests, where her family lived off the land. She learned to trap animals and gather wild plants from a young age. Now, she traps animals both for their pelts and to protect local farms from pests. Known for her gentle approach to wildlife, she often releases animals when she can, choosing to trap selectively.
-
-Now at 30 years of age, Leofrun Chilwell has established herself as a known figure among the trappers of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Leofrun was raised in the woods above the village by a family that lived off them, and she learned the snare and the deadfall before she learned to read. The tenants of Kingshollow pay her to keep the fox from the hen-house and the rat from the barn, the fur-buyer from Dunmere pays her for pelts, and the crown's foresters allow her lines up to the forest bound and not a yard past it, since the wood above is royal forest and everything in it is the king's. She traps selectively, which the trade does not: she sets for what she is paid to take, lets go what she is not, and walks a line twice a day rather than leave a beast to suffer in it. The foresters take her for a poacher, the poachers for an informer, and both are wrong.
 
 ## Psyche
 
 ### Personality
 
-Occasionally too compassionate to be effective, hesitant to trap animals unless necessary.
+Leofrun is quiet, solitary and softer than her trade: she will spare a beast she should take and lose the fee, and she knows it. She keeps her own counsel and does not join things.
 
 ### Motivation
 
-Leofrun is driven by the desire to master her craft and secure a stable future. The uncertainties of life in trapper work keep her vigilant and adaptable.
+Leofrun wants to live off the land beside the king's wood, taking what she is asked to take and no more, and she wants to answer to nobody for it. The forest court and the poachers between them are making the second a condition on the first.
 
 ### Strengths
 
-Skilled at setting traps, knowledgeable about plants and animals, resourceful.
+Skilled at setting traps, knows the plants and beasts of the country, resourceful.
 
 ## Social
 
-Leofrun is affiliated with None; prefers to remain independent..
-
-As a Aelwythan trapper, Leofrun occupies a recognized social niche within Aelwyth society.
+Leofrun belongs to no guild; she holds a forester's licence for her lines to the forest bound, renewed each year at the forest court.
 
 ## Companions
 
 ### Patrons
 
-Leofrun's primary patron is Local farmers and fur traders who rely on her services.. This relationship provides both opportunity and obligation.
+Leofrun's patrons are the tenant farmers of Kingshollow, who pay her by the season to keep vermin from their stock, and the fur-buyer from Dunmere.
 
 ### Enemies
 
-Poachers and hunters who see her as interfering with their work.
+The poachers who work the king's wood and use her lines as cover, and the crown's foresters, who cannot tell her snares from theirs and would like to hang somebody.
 
 ## Plot Hooks
 
-1. **The Trapper's Dilemma** — Leofrun faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
+1. **The Knot** — A snare has been found on a royal deer-path inside the bound, tied with the knot Leofrun uses, and the foresters have brought it to the forest court. She did not set it, and only one other person knows her knot.
 
-2. **Old Grudges** — Poachers and hunters who see her as interfering with their work. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Tenant's Boy** — A tenant's son has been caught in the king's wood with a hare, and the tenant has asked Leofrun to tell the court it came from her line. It did not, and the boy is fourteen.
 
-3. **Echoes of the Past** — Something from Leofrun's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **The Descent** — The court is coming to Kingshollow for midwinter and the household wants fifty pelts by the feast. Leofrun has twelve, and the way to fifty is over the bound.
 
-4. **Shifting Winds** — Political changes in Aelwyth threaten to upend the social order that Leofrun depends upon. She must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Leofrun the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+4. **The Wolf** — Something is taking sheep from the tenants' folds at night, and it is not a fox. The tenants have asked Leofrun to trap it, and the foresters have said that whatever it is, it is the king's.

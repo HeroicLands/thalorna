@@ -17,6 +17,7 @@ data:
     - xerathia
   borders:
     - { to: takheperurgn, bearing: SE }
+    - { to: dunharargn, bearing: E }
   population: null
 terran_analog: The Mediterranean Sea
 packFolder: midhalion

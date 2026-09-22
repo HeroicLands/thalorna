@@ -556,7 +556,7 @@ Vígbrandr Steinblót is a 35-year-old man who stands 5'7" tall and is of modera
 
 # Dossier {#dossier}
 
-Born in the [[affiliation-kngdmnrdhm|Nordheim]] region to a noble family of Nordheimn heritage, Vígbrandr Steinblót came into the world of the perfumer through a combination of circumstance and aptitude.
+Born in the [[place-nordheim|Nordheim]] region to a noble family of Nordheimn heritage, Vígbrandr Steinblót came into the world of the perfumer through a combination of circumstance and aptitude.
 
 Vígbrandr is a renowned perfumer who specializes in crafting bold and exotic scents. He is known for using unconventional ingredients, often sourcing rare plants and flowers from distant lands. Vígbrandr has developed a reputation for his artistic approach to perfumery and has garnered a loyal clientele. He enjoys the challenge of creating scents that evoke powerful emotions and memories.
 

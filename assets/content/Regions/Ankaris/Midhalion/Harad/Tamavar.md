@@ -91,7 +91,7 @@ data:
         rulings the Council enforces.
   commonSkills:
     - haradilng
-  seat: qadhirun
+  seat: tamavar2
   domains:
     - tamavar2
   population: 3000000

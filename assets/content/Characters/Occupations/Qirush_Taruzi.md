@@ -551,54 +551,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Qirûsh Tarûzî is a 41-year-old man who stands 5'11" tall and is of moderate build. He has a heart-shaped face with high cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. His wide-set brown eyes sit beneath arched brows, lending him an open gaze. A prominent nose and narrow lips complete his features. He has warm golden skin with an olive-toned complexion. His dark brown hair is cropped short.
+Qirûsh Tarûzî is a 41-year-old man who stands 5'11" tall and is of moderate build. He has a heart-shaped face with high cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. His wide-set brown eyes sit beneath arched brows and give him an open gaze. He has a prominent nose and narrow lips. He has warm golden skin with an olive-toned complexion. His dark brown hair is cropped short.
 
 # Dossier {#dossier}
 
-Born in the [[place-haradregin|Harad]] region to a freeman family of Haradian heritage, Qirûsh Tarûzî came into the world of the hideworker through a combination of circumstance and aptitude.
+Qirûsh Tarûzî is a hideworker of Sulun, a fishing village on the coast of [[place-haradregin|Harad]], a Haradian freeman who tans and works leather in the pits below the village as his father did.
 
-Qirûsh has spent his life working with animal hides, learning the craft from his father. He specializes in tanning and crafting leather goods, including clothing, armor, and accessories. Known for his meticulous work and quality, Qirûsh takes pride in using traditional methods to create durable and functional items. He is respected in his community, but the labor is physically demanding and can take a toll on his body.
-
-Now at 41 years of age, Qirûsh Tarûzî has established himself as a known figure among the hideworkers of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
+Qirûsh learned the trade at his father's pits and has kept them since his father's hands gave out: the soaking, the liming, the scraping and the long tan in bark and water that turns a hide into leather that lasts a lifetime. He makes what the coast needs, boots, harness and the heavy jerkins the fishermen wear against the wind, and he makes them the old way, slowly, and they last. Buyers come up from Azhûn for his hides because the city tanneries tan faster and sell leather that cracks in two winters. The work is filthy and heavy, and it is wearing him out. His hands are a man of sixty's, he has cut himself to the bone twice this year, and his back has begun to fail him on the scraping-beam.
 
 ## Psyche
 
 ### Personality
 
-Prone to injuries from sharp tools, struggles with marketing his goods.
+Qirûsh is steady, modest and slow to speak, proud of his leather and embarrassed to praise it. He works through pain because stopping is not something his father did.
 
 ### Motivation
 
-Qirûsh is driven by the desire to master his craft and secure a stable future. The uncertainties of life in hideworker work keep him vigilant and adaptable.
+Qirûsh wants leather that lasts, made the way his father made it, and he wants his hands and his back to last long enough to make it. He has begun to understand that they will not, and he has no son and no apprentice.
 
 ### Strengths
 
-Skilled in tanning and leather crafting, knowledgeable about animal hides, resilient.
+Skilled in tanning and leather-work, knows hides and how to cure them, hard to stop.
 
 ## Social
 
-Qirûsh is affiliated with None; works independently..
-
-As a Haradian hideworker, Qirûsh occupies a recognized social niche within Harad society.
+Qirûsh belongs to no compact. The Sôd-Naqîrîn requires a master to be registered, and a village tanner has so far been beneath its notice; his buyers from Azhûn are careful how they describe where his leather came from.
 
 ## Companions
 
 ### Patrons
 
-Qirûsh's primary patron is Local hunters and farmers who buy leather products.. This relationship provides both opportunity and obligation.
+Qirûsh's patrons are the fishermen and farmers of Sulun and the villages either side of it, and the leather-buyers who come up the coast from Azhûn.
 
 ### Enemies
 
-Rival hideworkers who compete for the same market.
+A tannery of Azhûn, chartered under the compact, whose naqîr has learned where the good coast leather comes from and would like it stopped, or bought.
 
 ## Plot Hooks
 
-1. **The Hideworker's Dilemma** — Qirûsh faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Harad.
+1. **The Registration** — A pāqîd of the Sôd has come up the coast with a list of unregistered tanners, and Qirûsh's name is on it. Registration means the compact's fee, methods and prices; refusal means the pits filled in.
 
-2. **Old Grudges** — Rival hideworkers who compete for the same market. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Hands** — Qirûsh has cut the tendon of his right hand, and the village has no one who can set it. The nearest physician is in Azhûn, and the tannery's naqîr has offered to send for one.
 
-3. **Echoes of the Past** — Something from Qirûsh's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **The Strange Hide** — The fishermen have brought Qirûsh a hide off something they netted that none of them can name. He does not know how to tan it, and has begun to think it should not be tanned.
 
-4. **Shifting Winds** — Political changes in Harad threaten to upend the social order that Qirûsh depends upon. He must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Qirûsh the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+4. **The Pits** — The village well has gone foul, and the elders have looked at the tan-pits. Moving them means a year without income and a debt to whoever lends it.

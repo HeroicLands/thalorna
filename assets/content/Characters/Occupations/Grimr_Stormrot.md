@@ -556,7 +556,7 @@ Grímr Stormrót is a 38-year-old man who stands 5'6" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Born in the [[affiliation-kngdmnrdhm|Nordheim]] region to a noble family of Nordheimn heritage, Grímr Stormrót came into the world of the litigant through a combination of circumstance and aptitude.
+Born in the [[place-nordheim|Nordheim]] region to a noble family of Nordheimn heritage, Grímr Stormrót came into the world of the litigant through a combination of circumstance and aptitude.
 
 Grímr hails from a prominent family of lawyers and has made a name for himself in the Litigant's Guild. Known for his sharp intellect and eloquence, he specializes in contract disputes and property law. Grímr has a reputation for being a formidable opponent in the courtroom and is sought after by clients seeking to protect their interests. He believes strongly in justice and fairness.
 

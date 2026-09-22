@@ -551,54 +551,48 @@ sohl:
 
 # Appearance {#appearance}
 
-Mêntrâ Kêrîamyês is a 27-year-old woman who stands 5'10" tall and is slender. She has a long face with wide-set cheekbones, a narrow forehead, and an angular jaw that leads to a prominent chin. Her bright green eyes sit beneath arched brows, lending her a lively gaze. A prominent nose and thin lips complete her features. She has medium-toned skin with a ruddy complexion. Her auburn hair is adorned with simple pins.
+Mêntrâ Kêrîamyês is a 27-year-old woman who stands 5'10" tall and is slender. She has a long face with wide-set cheekbones, a narrow forehead, and an angular jaw that leads to a prominent chin. Her bright green eyes sit beneath arched brows and give her a lively gaze. She has a prominent nose and thin lips. She has medium-toned skin with a ruddy complexion. Her auburn hair is adorned with simple pins.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Mêntrâ Kêrîamyês came into the world of the glassworker through a combination of circumstance and aptitude.
+Mêntrâ Kêrîamyês is a glassworker of Belekos, the city of the merchant houses in the Alyssa country of [[place-vylariargn|Vylaría]], a Vylarian freewoman who makes coloured windows and coloured glass for houses that buy art to be seen buying it.
 
-Mêntrâ discovered her passion for glassworking as a teenager, when she began working in a workshop to help support her family. She quickly developed a talent for creating stained glass windows and colorful glassware. Mêntrâ is known for her innovative designs and vivid use of color, often incorporating unique patterns that set her work apart from traditional styles. While her creativity is an asset, it also attracts criticism from more conventional artisans.
-
-Now at 27 years of age, Mêntrâ Kêrîamyês has established herself as a known figure among the glassworkers of Vylaria. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Mêntrâ went into a glasshouse at fourteen because her family needed her wage, and stayed because she found she could see colour in a way the masters could not. She served the collegium's seven years and came out with her seal and a name for windows nobody had seen before: patterns of her own, and colours laid against each other in ways the trade holds to be wrong and the buyers hold to be beautiful. In Belekos that is a living. The great merchant houses collect art because patronage is how a house shows its weight, and a window no rival house has is worth more to such a house than a window the temples approve. Her mother and sisters eat on what the houses pay.
 
 ## Psyche
 
 ### Personality
 
-Lacks experience with larger projects, can be sensitive to criticism.
+Mêntrâ is quick, eager and easily wounded. She has never yet made a window the size of a temple's east wall, and a word against her colours lands harder than she lets the masters see.
 
 ### Motivation
 
-Mêntrâ is driven by the desire to master her craft and secure a stable future. The uncertainties of life in glassworker work keep her vigilant and adaptable.
+Mêntrâ wants to make glass that is hers, in colours and patterns nobody taught her, and she wants her family kept on what that glass earns. The houses that pay for the first can withdraw the second in a season.
 
 ### Strengths
 
-Skilled in stained glass and decorative work, highly creative, quick learner.
+Skilled in coloured and decorative glass, inventive, quick to learn.
 
 ## Social
 
-Mêntrâ is affiliated with Glassworkers' Guild.
-
-As a Vylarian glassworker, Mêntrâ occupies a recognized social niche within Vylaria society.
+Mêntrâ holds her seal from the Glassworkers' Collegium of Belekos, whose senior masters examined her and passed her, and have said since that they should not have.
 
 ## Companions
 
 ### Patrons
 
-Mêntrâ's primary patron is Local churches and artisans who appreciate her unconventional style.. This relationship provides both opportunity and obligation.
+Mêntrâ's patrons are a merchant house of Belekos that has made her windows part of how it shows itself, and the temple that house endows.
 
 ### Enemies
 
-Traditional glassworkers who see her designs as unorthodox.
+The senior masters of the collegium, who hold her colours to be a fashion and her patterns a want of training; and a rival glasshouse that has begun copying her borders.
 
 ## Plot Hooks
 
-1. **The Glassworker's Dilemma** — Mêntrâ faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
+1. **The Rival's Window** — A second merchant house has commissioned a window from Mêntrâ for the hall where it receives the first house's rivals, and her patron has heard of it.
 
-2. **Old Grudges** — Traditional glassworkers who see her designs as unorthodox. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **The Master's Examination** — The collegium has called Mêntrâ to show a full window before the masters to confirm her seal, as it may under charter. The subject set is a traditional one.
 
-3. **Echoes of the Past** — Something from Mêntrâ's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **The Ledgers Go South** — Mêntrâ's patron house is moving its money out of Belekos and out of the empire, quietly, and has asked whether she will follow it to a foreign city where nobody knows her colours.
 
-4. **Shifting Winds** — Political changes in Vylaria threaten to upend the social order that Mêntrâ depends upon. She must decide whether to adapt, resist, or flee.
-
-5. **The Opportunity** — A chance encounter offers Mêntrâ the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+4. **The Cracked Light** — A window Mêntrâ set for the temple has cracked through in the first frost, and the priests say the fault is in her glass. The lead was set by a master who has not liked her since the examination.
