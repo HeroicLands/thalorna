@@ -40,7 +40,7 @@ have had nothing whatever to do with one another since.
 
 More than a king and more than a war.
 
-The joint kingdom had been **a deliberate attempt at reconciliation**. Khazártúrn had fallen in 2800 BF
+The joint kingdom had been **a deliberate attempt at reconciliation**. Khazártúrn had fallen in 2427 BF
 and the sundering with it, and the two peoples on this island — alone among their kind — had decided
 that would not be the end of it. They united under a single crown, governed Aelwyth together, and kept
 it up for six centuries. It is the only such attempt either race has ever made.

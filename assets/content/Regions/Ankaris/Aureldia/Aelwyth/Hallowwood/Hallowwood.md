@@ -50,7 +50,7 @@ Three exceptions are recognised, and they are exceptions of person rather than o
 
 The Sinalë did not always live in the Hallowwood, and they did not withdraw into it out of temperament.
 
-After [[lore-khazarturn|Khazártúrn]] fell in 2800 BF and the two elder races stopped speaking, the
+After [[lore-khazarturn|Khazártúrn]] fell in 2427 BF and the two elder races stopped speaking, the
 Sinalë and [[lore-flkkhazar|Khazári]] **of this island** did something no others of their kind have ever
 attempted: they tried to repair it. They united Aelwyth under a **single crown**, held by a Sinalë king,
 and governed the island together — and they kept that up for **six hundred years**.
