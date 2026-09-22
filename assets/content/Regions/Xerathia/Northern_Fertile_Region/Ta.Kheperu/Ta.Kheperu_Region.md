@@ -20,7 +20,7 @@ data:
     - { to: bethuargn, bearing: W }
     - { to: dunharargn, bearing: NE }
     - { to: vylarianse, bearing: NW }
-  population: null
+  population: 19000000
 packFolder: takheperu
 ---
 

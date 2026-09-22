@@ -99,7 +99,7 @@ data:
   seat: pelagora2
   domains:
     - pelagora2
-  population: 600000
+  population: 410000
   economy:
     - affiliation-aerarimmpr
     - affiliation-clgmrgntrrm

@@ -155,7 +155,7 @@ data:
   seat: beravel
   domains:
     - elavendre
-  population: 5000000
+  population: 1850000
   economy:
     - lore-vylrncrncy
     - affiliation-clgmrgntrrm

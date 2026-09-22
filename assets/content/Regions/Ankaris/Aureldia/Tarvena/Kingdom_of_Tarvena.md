@@ -155,7 +155,7 @@ data:
   seat: kavrenath
   domains:
     - tarvenirgn
-  population: 2500000
+  population: 3000000
   economy:
     - lore-vylrncrncy
     - affiliation-clgmrgntrrm

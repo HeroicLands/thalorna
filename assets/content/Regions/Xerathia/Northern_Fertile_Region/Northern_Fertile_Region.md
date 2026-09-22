@@ -15,7 +15,7 @@ data:
     - humanflk
   parents:
     - xerathia
-  population: null
+  population: 26000000
 terran_analog: North Africa — Morocco + Algeria + Tunisia + Libya + Egypt + Sudan + Niger + Mali + Chad
 packFolder: northernfertileregion
 ---

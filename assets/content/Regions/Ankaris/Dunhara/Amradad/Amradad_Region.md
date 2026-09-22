@@ -16,7 +16,7 @@ data:
     - humanflk
   parents:
     - dunharargn
-  population: null
+  population: 2000000
 packFolder: amradad
 ---
 

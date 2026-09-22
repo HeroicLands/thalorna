@@ -16,7 +16,7 @@ data:
     - humanflk
   parents:
     - ankrscntnnt
-  population: null
+  population: 500000
 terran_analog: Japanese archipelago (mountainous volcanic islands)
 packFolder: jurthat
 ---

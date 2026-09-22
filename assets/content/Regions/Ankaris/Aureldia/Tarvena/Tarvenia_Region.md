@@ -7,7 +7,7 @@ data:
   lore: []
   parents:
     - aureldirgn
-  population: 5000000
+  population: 3500000
 name:
   full: Tarvénia Region
   aliases:

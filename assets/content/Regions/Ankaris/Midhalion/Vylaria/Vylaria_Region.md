@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - midhalnrgn
-  population: null
+  population: 24000000
 name:
   full: Vylaría Region
   aliases: []

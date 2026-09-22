@@ -99,7 +99,7 @@ data:
   seat: kalydria2
   domains:
     - kalydria2
-  population: 700000
+  population: 460000
   economy:
     - affiliation-aerarimmpr
     - affiliation-clgmrgntrrm

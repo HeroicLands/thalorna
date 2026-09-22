@@ -10,7 +10,7 @@ data:
     - humanflk
   parents:
     - worldthlrn
-  population: null
+  population: 3000000
 name:
   full: Kalihara Continent
   aliases:

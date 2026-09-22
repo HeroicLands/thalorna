@@ -92,7 +92,7 @@ data:
   seat: waldburg
   domains:
     - vrystwald
-  population: 1000000
+  population: 500000
   economy:
     - affiliation-clgmrgntrrm
     - lore-bartercnmy

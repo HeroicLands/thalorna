@@ -100,7 +100,7 @@ data:
   seat: null
   domains:
     - kostarosdst
-  population: null
+  population: 40000
   economy: []
   lore:
     - humanflk

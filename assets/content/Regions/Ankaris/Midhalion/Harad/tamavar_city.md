@@ -16,7 +16,7 @@ data:
     - humanflk
   parents:
     - haradregin
-  population: 3000000
+  population: 400000
 packFolder: harad
 ---
 

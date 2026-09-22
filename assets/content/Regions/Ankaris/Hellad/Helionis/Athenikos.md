@@ -99,7 +99,7 @@ data:
   seat: athenikos2
   domains:
     - athenikos2
-  population: null
+  population: 560000
   economy: []
   lore:
     - humanflk

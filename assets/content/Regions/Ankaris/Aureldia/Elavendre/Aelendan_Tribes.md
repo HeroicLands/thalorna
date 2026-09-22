@@ -92,7 +92,7 @@ data:
   seat: eshalshldg
   domains:
     - alndntrblnds
-  population: 500000
+  population: 150000
   economy:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm

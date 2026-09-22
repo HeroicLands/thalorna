@@ -13,7 +13,7 @@ data:
     - flkkhazar
   parents:
     - worldthlrn
-  population: null
+  population: 300000000
 name:
   full: Ankaris Continent
   aliases: []

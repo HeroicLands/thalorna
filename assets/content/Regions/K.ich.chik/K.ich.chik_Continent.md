@@ -10,7 +10,7 @@ data:
     - humanflk
   parents:
     - worldthlrn
-  population: null
+  population: 34000000
 shortcode: kchchkcntnnt
 name:
   full: K'ich'chik Continent
