@@ -15,6 +15,7 @@ name:
   full: Sūryāgarha
   aliases: []
 shortcode: suryagarha
+packFolder: vedyara
 ---
 
 ## Overview

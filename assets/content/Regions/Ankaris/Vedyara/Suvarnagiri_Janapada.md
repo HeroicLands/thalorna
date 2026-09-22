@@ -97,10 +97,10 @@ data:
         disputes among themselves and speak with one voice on the panning regime.
   commonSkills:
     - vedyarlng
-  seat: suvaragiri
+  seat: suvarnagiri
   domains:
     - suvarnagirijnpd
-    - suvaragiri
+    - suvarnagiri
   population: 35000
   economy:
     - affiliation-mrchntclctvvdyr
@@ -147,9 +147,9 @@ These provisions were not all in place at the founding. They have accumulated ac
 
 ## Religion
 
-Suvarṇagiri is, theologically, a **Mahájaya janapada through and through** — the preserver-goddess of the [[affiliation-varakpnthn|Varṇaka pantheon]] is the focus of its three great temples, the patron of its constitutional preservation, the goddess whose dharma the gold income serves. The Suvarnagiri Mahájaya tradition emphasizes Mahájaya's role as the **balancer** — the force that holds the cosmic order in equilibrium against both the chaos of Rásikara and the unrestrained creative impulse of Vyālendra. The Gold Constitution is, in Suvarnagiri theology, a worldly enactment of Mahājaya's cosmic balancing function.
+Suvarṇagiri is, theologically, a **Mahájaya janapada through and through** — the preserver-goddess of the [[affiliation-varakpnthn|Varṇaka pantheon]] is the focus of its three great temples, the patron of its constitutional preservation, the goddess whose dharma the gold income serves. The Suvarnagiri Mahájaya tradition emphasizes Mahájaya's role as the **balancer** — the force that holds the cosmic order in equilibrium against both the chaos of Rásikara and the unrestrained creative impulse of Vyālendra. The Gold Constitution is, in Suvarnagiri theology, a worldly enactment of Mahájaya's cosmic balancing function.
 
-Subsidiary shrines to Vyālendra and Rásikara exist throughout the constituent villages. The Rásikara shrine on the back slope of the mountain — at the head of a small stream that does not yield gold — is significant: by Suvarnagiri tradition the panning is forbidden in the Rásikara stream, as a recognition that not all of the mountain's wealth belongs to Mahājaya's order, and that Rásikara's destructive-creative principle must be allowed its own portion.
+Subsidiary shrines to Vyālendra and Rásikara exist throughout the constituent villages. The Rásikara shrine on the back slope of the mountain — at the head of a small stream that does not yield gold — is significant: by Suvarnagiri tradition the panning is forbidden in the Rásikara stream, as a recognition that not all of the mountain's wealth belongs to Mahájaya's order, and that Rásikara's destructive-creative principle must be allowed its own portion.
 
 A distinctive Suvarnagiri religious practice is the **Weighing**, conducted at each new moon at the central temple weighing-station, when the previous moon's gold extraction is publicly weighed in the presence of the sabhā representatives. The weighing is open to public attendance, and any Suvarnagiri may attend and watch the weights recorded. This is the operational core of the constitutional anti-concentration mechanism: the gold extraction is _visible_. No one can quietly accumulate; the entire community knows, every month, exactly how much gold has come out of the mountain and where it has gone.
 
@@ -184,7 +184,7 @@ Suvarṇagiri Janapada uses the [[lore-vdyrnbnkng|Vedyaran banking system]] admi
 - [[place-suvarnagirijnpd|Suvarṇagiri Janapada]] — the land the janapada holds
 - [[affiliation-janpdsvdyr|Janapadas of Vedyara]] — parent confederation
 - [[place-vedyarargn|Vedyara]] — parent region
-- [[place-suvaragiri|Suvarṇagiri]] — the central town settlement note
+- [[place-suvarnagiri|Suvarṇagiri]] — the central town settlement note
 - [[affiliation-chandrapur|Chandrapur]] — major trading partner
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — religious tradition
 - [[skill-vedyarlng|Vedyari]] — language

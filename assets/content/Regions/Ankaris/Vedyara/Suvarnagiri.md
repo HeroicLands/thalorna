@@ -13,7 +13,7 @@ data:
 name:
   full: Suvarṇagiri
   aliases: []
-shortcode: suvaragiri
+shortcode: suvarnagiri
 packFolder: vedyara
 ---
 
