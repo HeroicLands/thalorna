@@ -600,7 +600,7 @@ Herjúlf stands 6'5" tall with a heavy build. He has tanned weathered skin, dark
 
 # Dossier {#dossier}
 
-Herjúlf was born in a small settlement in the wild borderlands of [[affiliation-kngdmnrdhm|Nordheim]], the fourth son of a farming family with little land and even fewer prospects. At age ten, his family apprenticed him to a master woodcutter named Forgath the Old, a massive man with whom Herjúlf seemed to develop an immediate rapport. For six years, Herjúlf learned the language of the forest—how to read a tree's character, how to identify the timber best suited to each purpose, how to fell without wasting and how to preserve without damaging.
+Herjúlf was born in a small settlement in the wild borderlands of [[place-nordheim|Nordheim]], the fourth son of a farming family with little land and even fewer prospects. At age ten, his family apprenticed him to a master woodcutter named Forgath the Old, a massive man with whom Herjúlf seemed to develop an immediate rapport. For six years, Herjúlf learned the language of the forest—how to read a tree's character, how to identify the timber best suited to each purpose, how to fell without wasting and how to preserve without damaging.
 
 At sixteen, Herjúlf was working with Forgath in a remote forest when a winter storm brought down a massive oak. Forgath was caught beneath its weight, his legs crushed beyond healing. Rather than abandon his master, Herjúlf spent the night beneath the snow, maintaining Forgath's warmth and consciousness while he waited for the morning to bring help. Help came, but too late for Forgath's legs—the old man lived for another decade, crippled and in pain, until a harsh winter finally claimed him. Herjúlf was there at the end, holding his dying mentor's hand.
 

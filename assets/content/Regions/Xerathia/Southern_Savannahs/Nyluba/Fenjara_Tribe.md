@@ -83,7 +83,7 @@ data:
     - trak
   seat: fenjaravlg
   domains:
-    - sthrnsvnhs
+    - fenjaravlg
   population: null
   economy: []
   lore:

@@ -592,7 +592,7 @@ Unnr stands 5'3" tall with a light build. She has pale fair skin, dark brown hai
 
 ### The Artisan's Awakening
 
-Born in 691 to a modest family in [[affiliation-kngdmvthgrd|Vithgard]]'s timber country, Unnr grew up surrounded by the materials of her craft—wax was a natural product in her region, and her mother maintained a small chandlery as a supplementary trade. From childhood, Unnr displayed unusual sensitivity to aesthetics and an intuitive grasp of how light and color interact. While her family assumed she would follow traditional paths—perhaps marrying a tradesman or apprenticing in a standard craft—Unnr became increasingly obsessed with the artistic possibilities of chandlery. She spent her early twenties working in her mother's chandlery while secretly studying the finer points of perfumery, herbal infusion, and decorative wax sculpture.
+Born in 691 to a modest family in [[place-vithgard|Vithgard]]'s timber country, Unnr grew up surrounded by the materials of her craft—wax was a natural product in her region, and her mother maintained a small chandlery as a supplementary trade. From childhood, Unnr displayed unusual sensitivity to aesthetics and an intuitive grasp of how light and color interact. While her family assumed she would follow traditional paths—perhaps marrying a tradesman or apprenticing in a standard craft—Unnr became increasingly obsessed with the artistic possibilities of chandlery. She spent her early twenties working in her mother's chandlery while secretly studying the finer points of perfumery, herbal infusion, and decorative wax sculpture.
 
 ### The Venture into Independence
 

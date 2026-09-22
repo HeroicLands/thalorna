@@ -21,7 +21,7 @@ packFolder: chakultzakul
 
 ## Overview
 
-Ch'akul Tza'kul Region is the land of [[affiliation-chakultzkl|Ch'akul Tza'kul]], and lies within [[place-nrthrnkchchk|Northern K'ich'chik]] on the [[place-kchchkcntnnt|K'ich'chik Continent]].
+Ch'akul Tza'kul Region is desert claimed by no nation, and lies within [[place-nrthrnkchchk|Northern K'ich'chik]] on the [[place-kchchkcntnnt|K'ich'chik Continent]].
 
 Ch'akul Tza'kul, the "Thirsty Land," is a vast expanse of inhospitable desert, salt flats, barren mesas, and scorching rock that forms a nearly impenetrable barrier between the tribal north and the civilizations of southern [[place-kchchkcntnnt|K'ich'chik]].
 
@@ -53,6 +53,5 @@ The crossing of Ch'akul Tza'kul is arduous enough that it effectively limits the
 
 ## See Also
 
-- [[affiliation-chakultzkl|Ch'akul Tza'kul]] — The realm that holds this land
 - [[place-nrthrnkchchk|Northern K'ich'chik]] — The enclosing region
 - [[place-chakultzkl2|Ch'akul Tza'kul]] — Seat of Ch'akul Tza'kul

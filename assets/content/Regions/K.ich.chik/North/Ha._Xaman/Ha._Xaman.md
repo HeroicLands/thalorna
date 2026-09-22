@@ -110,7 +110,7 @@ packFolder: haxaman
 
 ## Overview
 
-Ha' Xaman holds the land of [[place-haxamanrgn|Ha' Xaman Region]]. K'ich'chik border scouts call the people here the Tz'okum Tz'aqalil ("Coyote People"), from the coyote-imagery on their war-standards and painted shields. Their own name for themselves is unknown. Of the five northern nations, the Tz'okum are the most immediately dangerous to K'ich'chik interests — the most volatile, the most militarily aggressive, and the most likely to raid across the [[affiliation-chakultzkl|Ch'akul Tza'kul]] barrier when conditions permit.
+Ha' Xaman holds the land of [[place-haxamanrgn|Ha' Xaman Region]]. K'ich'chik border scouts call the people here the Tz'okum Tz'aqalil ("Coyote People"), from the coyote-imagery on their war-standards and painted shields. Their own name for themselves is unknown. Of the five northern nations, the Tz'okum are the most immediately dangerous to K'ich'chik interests — the most volatile, the most militarily aggressive, and the most likely to raid across the [[place-chakultzklrgn|Ch'akul Tza'kul]] barrier when conditions permit.
 
 The great herds that migrate across Ha' Xaman with seasonal regularity are the foundation of Tz'okum life. K'ich'chik observers report that the Tz'okum have built everything around pursuing these herds, and their mastery of mounted warfare and beast-craft is unparalleled among the northern peoples. The plains offer no shelter and few natural defenses; the Tz'okum have compensated by becoming warriors first and foremost, capable of dominating open terrain with tactical speed that K'ich'chik armies — designed for jungle and highland warfare — have found nearly impossible to counter. The Tz'okum regard all outsiders as either threats or prey, and K'ich'chik merchants who venture into Ha' Xaman do so at extreme personal risk.
 
@@ -132,6 +132,6 @@ The wealth flowing into Ha' Xaman from trade allows the Tz'okum to acquire south
 
 - [[affiliation-kiximtzul|K'ixim Tzul]] — The bear-people's boreal forests to the north and west
 - [[affiliation-xikulchakl|Xik'ul Ch'akal]] — The otter-people's woodlands to the east
-- [[affiliation-hanalxilan|Ha'nal Xi'lan]] — The contested river valleys to the south
+- [[place-hanalxilanrgn|Ha'nal Xi'lan]] — The contested river valleys to the south
 - [[affiliation-tzumanotun|Tz'uma No'tun]] — The serpent-people's swamps and mountains, connected through the Ha'nal Xi'lan borderlands
 - [[place-haxamanrgn|Ha' Xaman Region]] — The land Ha' Xaman holds

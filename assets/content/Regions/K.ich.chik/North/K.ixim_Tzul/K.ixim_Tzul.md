@@ -124,7 +124,7 @@ K'ich'chik scholars speculate that the No'kin are organized into loose bands fol
 
 ## Trade
 
-The isolation of K'ixim Tzul from direct access to the [[affiliation-chakultzkl|Ch'akul Tza'kul]] barrier and the [[affiliation-itzanpnthn|Itzáni]] lands means that the No'kin rely heavily on intermediaries—particularly the Xak'nal and Tz'okum—for access to goods from the far south. This dependence sometimes rankles, but the No'kin have accepted it as the cost of their location. The caribou migrations that define their livelihood follow ancient pathways indifferent to human commerce, and following these paths takes priority over optimizing trade routes.
+The isolation of K'ixim Tzul from direct access to the [[place-chakultzklrgn|Ch'akul Tza'kul]] barrier and the [[affiliation-itzanpnthn|Itzáni]] lands means that the No'kin rely heavily on intermediaries—particularly the Xak'nal and Tz'okum—for access to goods from the far south. This dependence sometimes rankles, but the No'kin have accepted it as the cost of their location. The caribou migrations that define their livelihood follow ancient pathways indifferent to human commerce, and following these paths takes priority over optimizing trade routes.
 
 ## See Also
 

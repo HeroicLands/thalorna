@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - sthrnkchchk
+    - kuxibalamrgn
   population: null
 name:
   full: Ixkul K’ul

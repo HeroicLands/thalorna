@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents:
-    - sthrnkchchk
+    - kuxibalamrgn
   population: null
 name:
   full: K’awi’il’ul Ki’ik
@@ -20,7 +20,7 @@ packFolder: south
 
 ## Overview
 
-K’awi’il’ul Ki’ik, "The Boundary House of the Sacred Blood," is a garrison-city and temple-fortress where civilization maintains its final, tenuous grasp on the high plateaus. The city exists primarily to serve as a staging ground and supply depot for those contemplating expeditions into [[affiliation-kawiltzakl|K’awiil Tza’kul]] and the forsaken wastes of [[affiliation-tzikinbalm|Tz’ikin Ba’alam]] beyond. Every able-bodied person in the city maintains some military or logistical function; the entire society is oriented toward readiness and provisioning.
+K’awi’il’ul Ki’ik, "The Boundary House of the Sacred Blood," is a garrison-city and temple-fortress where civilization maintains its final, tenuous grasp on the high plateaus. The city exists primarily to serve as a staging ground and supply depot for those contemplating expeditions into [[affiliation-kawiltzakl|K’awiil Tza’kul]] and the forsaken wastes of [[place-tzikinbalmrgn|Tz’ikin Ba’alam]] beyond. Every able-bodied person in the city maintains some military or logistical function; the entire society is oriented toward readiness and provisioning.
 
 ## Location and Geography
 
@@ -38,5 +38,5 @@ K’awi’il’ul Ki’ik has a martial culture; social status is determined by 
 
 - [[affiliation-kuxibalam|K’uxi Balam]] — The plateau realm
 - [[affiliation-kawiltzakl|K’awiil Tza’kul]] — The boundary lands
-- [[affiliation-tzikinbalm|Tz’ikin Ba’alam]] — The forsaken wastes
+- [[place-tzikinbalmrgn|Tz’ikin Ba’alam]] — The forsaken wastes
 - [[affiliation-itzanpnthn|Itzáni]] — The priesthood that commands this garrison
