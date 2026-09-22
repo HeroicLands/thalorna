@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - helionis
-  population: null
+  population: 55000
 name:
   full: Athenikos
   aliases: []

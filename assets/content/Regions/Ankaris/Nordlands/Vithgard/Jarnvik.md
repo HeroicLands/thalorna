@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - vithgard
-  population: null
+  population: 400
 name:
   full: Járnvík
   aliases: []

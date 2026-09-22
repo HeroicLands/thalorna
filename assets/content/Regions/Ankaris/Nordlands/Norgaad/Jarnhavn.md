@@ -11,7 +11,7 @@ data:
   lore: []
   parents:
     - norgaad
-  population: null
+  population: 800
 name:
   full: Járnhavn
   aliases: []

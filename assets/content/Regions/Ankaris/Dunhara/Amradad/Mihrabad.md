@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - amradadrgn
-  population: null
+  population: 6000
 name:
   full: Mihrabad
   aliases: []

@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - dunhardsrtrgn
-  population: null
+  population: 600
 name:
   full: Oasis of Teyran
   aliases: []

@@ -22,7 +22,7 @@ terran_analog: "China, Korea, and mainland Southeast Asia (Vietnam, Laos, Thaila
 packFolder: tanvur
 ---
 
-The Tānvür Region is the far east of [[place-ankrscntnnt|Ankaris Continent]] — a vast, mountain-guarded expanse of river basins, temperate plains, and coastal lowlands that has for three millennia formed the cradle of [[affiliation-tanvurempr|Tānvüri civilization]]. Where the [[place-aureldirgn|Aurèldían]] west is a mosaic of sovereign kingdoms bound by shared faith, the Tānvür Region is the opposite: a single continuous civilizational order whose political expression is almost always imperial, whose caste system has outlasted every dynasty, and whose celestial bureaucracy understands its own land as the one place where cosmic order has been properly classified. Ankaris's west has no emperor and does not want one. Ankaris's east has had little else.
+The Tānvür Region is the far east of [[place-ankrscntnnt|Ankaris Continent]] — a vast, mountain-guarded expanse of river basins, temperate plains, and coastal lowlands that has for more than three millennia formed the cradle of [[affiliation-tanvurempr|Tānvüri civilization]]. Where the [[place-aureldirgn|Aurèldían]] west is a mosaic of sovereign kingdoms bound by shared faith, the Tānvür Region is the opposite: a single continuous civilizational order whose political expression is almost always imperial, whose caste system has outlasted every dynasty, and whose celestial bureaucracy understands its own land as the one place where cosmic order has been properly classified. Ankaris's west has no emperor and does not want one. Ankaris's east has had little else.
 
 ## Geography
 

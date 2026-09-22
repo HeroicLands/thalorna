@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - galvaren
-  population: null
+  population: 20000
 name:
   full: Maréndal
   aliases: []

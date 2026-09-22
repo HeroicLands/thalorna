@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - haradregin
-  population: null
+  population: 200000
 name:
   full: Azhûn
   aliases: []

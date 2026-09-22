@@ -14,7 +14,7 @@ data:
   lore: []
   parents:
     - byzariargn
-  population: null
+  population: 6000
 packFolder: byzaria
 ---
 

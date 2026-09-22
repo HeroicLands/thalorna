@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - vithgard
-  population: null
+  population: 250
 name:
   full: Kvenndal
   aliases: []

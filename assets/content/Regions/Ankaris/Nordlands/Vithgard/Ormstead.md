@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - vithgard
-  population: null
+  population: 500
 name:
   full: Ormstead
   aliases: []

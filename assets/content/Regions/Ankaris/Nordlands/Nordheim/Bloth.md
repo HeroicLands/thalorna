@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - nordheim
-  population: null
+  population: 300
 name:
   full: Blód
   aliases: []

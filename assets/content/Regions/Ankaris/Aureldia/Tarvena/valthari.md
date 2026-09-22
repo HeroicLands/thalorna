@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - tarvenirgn
-  population: null
+  population: 45000
 name:
   full: Valthari
   aliases: []

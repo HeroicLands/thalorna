@@ -14,7 +14,7 @@ data:
   lore: []
   parents:
     - vylariargn
-  population: null
+  population: 400
 name:
   full: Pantheon Aurèldiānum
   aliases:

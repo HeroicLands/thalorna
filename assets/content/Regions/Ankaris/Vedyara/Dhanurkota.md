@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - dhanurkotajnpd
-  population: null
+  population: 2000
 name:
   full: Dhanurkota
   aliases: []

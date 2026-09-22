@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - chakultzklrgn
-  population: null
+  population: 700
 name:
   full: Ch'akul Tza'kul
   aliases: []

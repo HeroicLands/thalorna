@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - helionis
-  population: null
+  population: 40000
 name:
   full: Pelagora
   aliases: []

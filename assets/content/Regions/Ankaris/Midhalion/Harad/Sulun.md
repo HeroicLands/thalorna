@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - haradregin
-  population: null
+  population: 2000
 name:
   full: Sulûn
   aliases: []

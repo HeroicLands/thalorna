@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - malagna
-  population: null
+  population: 1200
 name:
   full: Skorrborg
   aliases: []

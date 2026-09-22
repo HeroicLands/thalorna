@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - vithgard
-  population: null
+  population: 450
 name:
   full: Haldrvík
   aliases: []

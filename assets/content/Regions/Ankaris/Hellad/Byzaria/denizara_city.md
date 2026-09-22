@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - byzariargn
-  population: null
+  population: 70000
 name:
   full: Denizara
   aliases: []

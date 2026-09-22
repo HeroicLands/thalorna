@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - tzumanotunrgn
-  population: null
+  population: 2500
 name:
   full: Tz'uma No'tun
   aliases: []

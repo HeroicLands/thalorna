@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - nordheim
-  population: null
+  population: 250
 name:
   full: Frostmark
   aliases: []

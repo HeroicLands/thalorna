@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - amradadrgn
-  population: null
+  population: 22000
 name:
   full: Golshahr
   aliases: []

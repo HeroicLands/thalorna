@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - leonrik
-  population: null
+  population: 30000
 name:
   full: Montaña
   aliases: []

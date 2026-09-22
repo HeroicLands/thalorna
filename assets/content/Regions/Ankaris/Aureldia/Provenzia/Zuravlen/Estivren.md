@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - zuravlenrgn
-  population: 185
+  population: 190
 name:
   full: Estivren
   aliases: []

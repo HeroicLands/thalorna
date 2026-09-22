@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - haxamanrgn
-  population: null
+  population: 1500
 name:
   full: Ha' Xaman
   aliases: []

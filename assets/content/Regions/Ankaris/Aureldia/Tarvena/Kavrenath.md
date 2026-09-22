@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - asturath
-  population: null
+  population: 10000
 name:
   full: Kávrenath
   aliases: []

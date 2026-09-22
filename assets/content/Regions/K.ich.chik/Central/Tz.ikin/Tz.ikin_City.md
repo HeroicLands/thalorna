@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - tzikinrgn
-  population: null
+  population: 60000
 name:
   full: Tz'ikin
   aliases: []

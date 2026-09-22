@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - alndntrblnds
-  population: null
+  population: 1500
 name:
   full: Eshálosha Lodge
   aliases:

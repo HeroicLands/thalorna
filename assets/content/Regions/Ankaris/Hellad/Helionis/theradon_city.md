@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - helionis
-  population: null
+  population: 50000
 name:
   full: Therádon
   aliases: []

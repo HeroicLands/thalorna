@@ -9,7 +9,7 @@ data:
   lore: []
   parents:
     - kiximtzulrgn
-  population: null
+  population: 1000
 name:
   full: K'ixim Tzul
   aliases: []

@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - vrystwald
-  population: null
+  population: 250
 name:
   full: Eichengrund
   aliases: []

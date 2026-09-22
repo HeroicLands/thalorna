@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - byzariargn
-  population: null
+  population: 35000
 name:
   full: Gümüşhisar
   aliases: []

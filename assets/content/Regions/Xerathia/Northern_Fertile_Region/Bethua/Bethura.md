@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - bethuargn
-  population: null
+  population: 35000
 name:
   full: Bethûra
   aliases: []

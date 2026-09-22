@@ -10,7 +10,7 @@ data:
   lore: []
   parents:
     - nordheim
-  population: null
+  population: 150
 name:
   full: Haukstad
   aliases: []

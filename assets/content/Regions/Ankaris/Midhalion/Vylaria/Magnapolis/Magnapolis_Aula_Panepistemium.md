@@ -14,7 +14,7 @@ data:
   lore: []
   parents:
     - vylariargn
-  population: null
+  population: 300
 name:
   full: Aula Panepistemium
   aliases:

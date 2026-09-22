@@ -86,9 +86,9 @@ The Khazári know the Grukar were compelled. It changes nothing, because the rel
 and their conclusion was never about guilt: **Grukar are ammunition**, and the only defence is that there
 be none near a hold to be picked up.
 
-So the hatred did not begin on Aelwyth and does not depend on anything the Aelwyth Grukar have done. It
-arrived on this island in the Khazári who carried it, centuries after the fact and long before the
-first Grukar ever set foot here.
+So the hatred did not begin on Aelwyth and does not depend on anything the Aelwyth Grukar have done.
+The Deep Folk had been in the [[place-ironfells|Ironfells]] some seven centuries when Khazártúrn fell,
+and kept the account twenty-four centuries more before the first Grukar ever set foot here.
 
 ## See Also
 
