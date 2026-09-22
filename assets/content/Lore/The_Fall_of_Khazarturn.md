@@ -22,11 +22,17 @@ entire people's craft-records.
 
 It stood close to twenty-seven centuries.
 
+It also fell about **seventy years after the first human empire began keeping a record anyone can still
+read**. The [[affiliation-tanvurempr|Empire of Tānvür]] dates its oldest documented dynasty to around
+2500 BF; Khazártúrn was destroyed in 2427 BF. The greatest work of the elder races and the oldest human
+archive overlap by a single lifetime — and neither one notices the other. No Tānvüri document of that
+century names Khazártúrn or the Khazári, and the Khazári account of the fall names no human polity at
+all. There is nothing in either record to suggest that anybody involved knew the other existed.
+
 ## What It Was Like
 
-No human has ever seen Khazártúrn. It fell in an age when no human kept records at all, and
-everything said of it in the human world is **story** — and the stories do not come from the Khazári,
-who never speak of it at all.
+No human has ever seen Khazártúrn. Everything said of it in the human world is **story** — and the
+stories do not come from the Khazári, who never speak of it at all.
 
 They come from the [[lore-flksinale|Sinalë]], who saw the city while it lived and who will, very
 occasionally, let something out: a snippet, an aside, a phrase in one of their ancient songs that turns

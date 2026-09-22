@@ -16,6 +16,16 @@ In the Empire of Tānvür, the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|K
 
 ---
 
+### The Mandate and the Elder Age
+
+The empire's datable dynastic record opens around **2500 BF**, and the [[lore-celestlrdr|Celestial Order]] teaches that the [[lore-mandatehvn|Mandate of Heaven]] was issued to a mortal line at the zero of the Celestial Calendar, far earlier still — see [[lore-clndrstrlgy|Calendar and Astrology]] for the two reckonings and how the empire holds both.
+
+Tānvüri chroniclers draw a conclusion from this that the Elder Races do not accept and will not be drawn into arguing about. The [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]], the chroniclers observe, set every one of their great works before the Mandate and none after it: their songs about their own best age are elegies, their finest halls are closed, and neither people has raised anything within the empire's memory to compare with what their own accounts describe. The chroniclers read this as a reassignment. The mortal plane required an administrator, the administrator was appointed, and the age in which the Elder Races held the world in trust closed at that appointment — in the ordinary way a jurisdiction closes once its successor bureau is staffed. The more assertive of them go further: that the Mandate's issue is what _permitted_ the elder age to end, and that the elder works could not have failed until the classification system was ready to take the file.
+
+Nothing in the empire's possession supports this. The imperial archive reaches back to 2500 BF and no further, and it says nothing whatever about the Elder Races before that. The Sinalë will not discuss when their own great age ended, and the Khazári will not discuss anything. It is exactly the claim an imperial chronicler would wish to make, it cannot be checked against a single document the empire holds, and the Tānthëi who sit in one caste beside Sinalëan and Khazárian scholars are careful not to raise it in their hearing.
+
+---
+
 ### Functional Caste Classification
 
 The empire classifies the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] within its caste system based on the functions they perform — not based on the cosmological reasoning that underlies the human castes. The classifications are administratively real (Elder Race members are subject to the rights and restrictions of their assigned caste) but cosmologically incomplete: the system can categorize them but cannot fully explain their magic or their relationship to the cosmic order. The elder races are placed within certain castes based on their roles and contributions:
