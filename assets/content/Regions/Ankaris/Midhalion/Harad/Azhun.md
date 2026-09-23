@@ -46,8 +46,8 @@ data:
         title: House Factor
         lore: officerrnk
         description: >-
-          Managing the affairs of one of the great houses – its warehouses, its ships, its correspondents
-          abroad.
+          Managing the affairs of one of the great houses—its warehouses, its ships, its
+          correspondents abroad.
       - level: 6
         title: House Head
         lore: councillorrnk
@@ -71,7 +71,7 @@ data:
         heads.
       Chancellor: Keeper of the city's charters, treaties and correspondence.
       Treasurer: >-
-        Keeper of the city's revenue – its customs, its tolls, and the loans it raises against
+        Keeper of the city's revenue—its customs, its tolls, and the loans it raises against
         them.
       Harbourmaster: Warden of the port, its pilots, its wharves and the dues levied on every
         hull that enters.
@@ -82,7 +82,7 @@ data:
       Captain of the Watch: Commander of the city's guard and of the militia its guilds are
         bound to raise.
       Warden of the Weights: >-
-        Inspector of measures, coin and quality in the markets – the office that makes the
+        Inspector of measures, coin and quality in the markets—the office that makes the
         city's word good.
       Guild Master: Head of a chartered trade, speaking for it before the Council.
       Arbitrator: >-
@@ -118,16 +118,16 @@ The city-state holds [[place-azhun2|Azhûn]] itself. As one of the three great c
 
 The city's merchant guilds hold absolute power here, and their councils meet in the towering House of Factors that overlooks the harbor. Competition between guilds is fierce but disciplined; they maintain an elaborate system of tariffs, trading monopolies, and agreements that regulate commerce with surgical precision. A ship's captain who violates guild protocol finds no harbor master willing to accept her vessel, no crew willing to work for her. The guilds have learned that stability, however rigidly maintained, yields greater wealth than chaos.
 
-Azhûn's population is a polyglot mixture of Haradi merchants, Dunhari traders, Āsháian priests, and adventurers from every corner of the known world. The city maintains an uneasy religious balance, with temples of the Aurèldían pantheon standing near shrines to the Āsháian deities – both recognized as legitimate paths by the merchant councils.
+Azhûn's population is a polyglot mixture of Haradi merchants, Dunhari traders, Āsháian priests, and adventurers from every corner of the known world. The city maintains an uneasy religious balance, with temples of the Aurèldían pantheon standing near shrines to the Āsháian deities—both recognized as legitimate paths by the merchant councils.
 
 ## Commerce and Currency
 
-Azhûn uses the [[lore-hardncrncy|Haradian currency system]] – the post-secession monetary system administered through the [[affiliation-sodnaqirin|Sôd-Naqîrîn]]'s Bayt al-Khazînah. The Haradian system uses the same denomination structure as the Vylarian (Aurion / Argo / Bit) but is backed by Haradian reserves rather than the Vylarian [[affiliation-aerarimmpr|The Aerarium Imperii]]; the Haradian Aurion is slightly underweight by the Vylarian standard. The Bayt-affiliated moneylender network handles the banking infrastructure; Vylarian script is _not_ honored here, and Haradian script is not honored in Vylarian territory. See [[lore-hardncrncy|Haradian Currency]] for the full system.
+Azhûn uses the [[lore-hardncrncy|Haradian currency system]]—the post-secession monetary system administered through the [[affiliation-sodnaqirin|Sôd-Naqîrîn]]'s Bayt al-Khazînah. The Haradian system uses the same denomination structure as the Vylarian (Aurion / Argo / Bit) but is backed by Haradian reserves rather than the Vylarian [[affiliation-aerarimmpr|The Aerarium Imperii]]; the Haradian Aurion is slightly underweight by the Vylarian standard. The Bayt-affiliated moneylender network handles the banking infrastructure; Vylarian script is _not_ honored here, and Haradian script is not honored in Vylarian territory. See [[lore-hardncrncy|Haradian Currency]] for the full system.
 
 ## See Also
 
-- [[place-azhun2|Azhûn]] – The city itself
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] – Regional overview
-- [[skill-haradilng|Haradi]] – Naming tradition
-- [[affiliation-arldnpnthn|Aurèldían Pantheon]] – Western religious tradition
-- [[affiliation-ashanpnthn|Āsháian Pantheon]] – Eastern religious tradition
+- [[place-azhun2|Azhûn]]—The city itself
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—Regional overview
+- [[skill-haradilng|Haradi]]—Naming tradition
+- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—Western religious tradition
+- [[affiliation-ashanpnthn|Āsháian Pantheon]]—Eastern religious tradition

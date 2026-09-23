@@ -20,7 +20,7 @@ data:
 packFolder: adventures
 ---
 
-The orchards of [[place-zuravlenrgn|Zûravlen]] produce the finest peaches in [[place-provenzrgn|Provènzia Region]], but a curse has turned the fruit into a deadly poison. The party must uncover whether this is sabotage, magic, or something far stranger – while powerful interests fight to control the narrative.
+The orchards of [[place-zuravlenrgn|Zûravlen]] produce the finest peaches in [[place-provenzrgn|Provènzia Region]], but a curse has turned the fruit into a deadly poison. The party must uncover whether this is sabotage, magic, or something far stranger—while powerful interests fight to control the narrative.
 
 ## Overview
 
@@ -41,7 +41,7 @@ The party arrives in or travels through Zûravlen as the crisis unfolds:
 
 - The curse affected the orchards suddenly, about two weeks ago
 - Attempts to cure or cleanse the fruit have failed (mundane and magical)
-- The poisoning is not simple toxin – it seems woven into the fruit itself
+- The poisoning is not simple toxin—it seems woven into the fruit itself
 - Several nobles have economic motivations to destroy the orchards (land grabs, rival business interests)
 - An estranged mage or spurned noble may have cursed the orchards in revenge
 - The [[affiliation-ordoarcanis|Ordo Arcanis]] has begun investigating (or may be involved)

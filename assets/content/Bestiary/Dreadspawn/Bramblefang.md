@@ -349,7 +349,7 @@ sohl:
 
 ![[brmblfng|Bramblefang]]{float: top-left}
 
-The undergrowth shivers before anything appears. You smell iron and vegetable rot, then it emerges – a mass of thorns and twisted wood, vaguely beast-shaped but wrong. Its body writhes with barbed vines, each spike dripping something black. Where it walks, the grass dies. You catch the glint of an eye – yellow, intelligent – buried deep within the tangle of spikes, and it has already seen you.
+The undergrowth shivers before anything appears. You smell iron and vegetable rot, then it emerges—a mass of thorns and twisted wood, vaguely beast-shaped but wrong. Its body writhes with barbed vines, each spike dripping something black. Where it walks, the grass dies. You catch the glint of an eye—yellow, intelligent—buried deep within the tangle of spikes, and it has already seen you.
 
 # Dossier {#dossier}
 
@@ -357,11 +357,11 @@ Bramblefangs are perversions of nature, creatures born when dark magic seeps int
 
 ## Presentation
 
-The Bramblefang is a compact, muscular predator roughly the size of a large wolverine or small lion, built low to the ground for charging through underbrush. Its entire body is covered in a living mesh of thorny vines and branches, dark wood and black bark interwoven so tightly that individual vines cannot be separated – they are now one organism. The thorns along its back and sides are thick as daggers and curve backward, designed to snag and tear anything that brushes past. Its head is a tangle of thorns with two burn-bright yellow eyes visible within; its mouth, when opened, reveals teeth of blackened bone interspersed with woody growths. A sickly-sweet stench of rot and iron accompanies it. Movement is accompanied by creaking, snapping sounds and the rustle of dead leaves.
+The Bramblefang is a compact, muscular predator roughly the size of a large wolverine or small lion, built low to the ground for charging through underbrush. Its entire body is covered in a living mesh of thorny vines and branches, dark wood and black bark interwoven so tightly that individual vines cannot be separated—they are now one organism. The thorns along its back and sides are thick as daggers and curve backward, designed to snag and tear anything that brushes past. Its head is a tangle of thorns with two burn-bright yellow eyes visible within; its mouth, when opened, reveals teeth of blackened bone interspersed with woody growths. A sickly-sweet stench of rot and iron accompanies it. Movement is accompanied by creaking, snapping sounds and the rustle of dead leaves.
 
 ## Key Behaviors
 
-The Bramblefang is a patient, methodical hunter that dwells in dense undergrowth of its own making. It actively cultivates thickets around its territory, entangling vines into impassable barriers and arranging them to channel prey toward its hunting ground. The creature is fiercely territorial, patrolling its boundaries and attacking anything that ventures within. It hunts by sound and movement rather than scent or sight, lying perfectly still until prey passes close enough to strike. It shows signs of cunning – setting ambushes, herding prey, even feigning injury to draw in potential meals.
+The Bramblefang is a patient, methodical hunter that dwells in dense undergrowth of its own making. It actively cultivates thickets around its territory, entangling vines into impassable barriers and arranging them to channel prey toward its hunting ground. The creature is fiercely territorial, patrolling its boundaries and attacking anything that ventures within. It hunts by sound and movement rather than scent or sight, lying perfectly still until prey passes close enough to strike. It shows signs of cunning—setting ambushes, herding prey, even feigning injury to draw in potential meals.
 
 ## Combat Strategy
 
@@ -397,7 +397,7 @@ The creature causes thorny vines and vegetation to grow rapidly in its presence 
 
 ## Additional Information
 
-Fire is highly effective against Bramblefangs; their wooden and plant-based bodies are vulnerable to burning, and the creature fears flame more than any other threat. Once its territory is discovered, the thickets can be burned to deprive it of camouflage and mobility advantage. Bramblefangs are drawn to places of natural corruption or magical blight – finding one suggests something worse dwells nearby.
+Fire is highly effective against Bramblefangs; their wooden and plant-based bodies are vulnerable to burning, and the creature fears flame more than any other threat. Once its territory is discovered, the thickets can be burned to deprive it of camouflage and mobility advantage. Bramblefangs are drawn to places of natural corruption or magical blight—finding one suggests something worse dwells nearby.
 
 ## Attributes
 

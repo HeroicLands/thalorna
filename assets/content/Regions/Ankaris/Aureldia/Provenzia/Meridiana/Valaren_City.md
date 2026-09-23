@@ -4,7 +4,7 @@ tags:
   - port
   - coastal
 
-description: "The great southern port of Provènzia on the warm Vylarian shore – the kingdom as foreigners picture it, rich and polished and wholly dependent on the sea, which is why a blockade is the only weapon that has ever frightened it."
+description: "The great southern port of Provènzia on the warm Vylarian shore—the kingdom as foreigners picture it, rich and polished and wholly dependent on the sea, which is why a blockade is the only weapon that has ever frightened it."
 type: place
 subType: settlement
 data:
@@ -32,7 +32,7 @@ have been the intermediaries for so long that the arrangement is mistaken locall
 ## What It Is Like
 
 Wealth, and the display of wealth, is the city's organizing principle. Its houses are old, its money is
-older, and its enthusiasms are the Provenzian ones taken to their limit – art, philosophy, glass,
+older, and its enthusiasms are the Provenzian ones taken to their limit—art, philosophy, glass,
 manuscripts, and an appetite for the rare and perishable that supports whole trades elsewhere. Fresh
 **Zûravlen peaches** command absurd prices on Válaren tables, and always have; the fast boats out of
 [[place-portvent|Portvent]] exist because Válaren will pay.
@@ -42,7 +42,7 @@ and the western march as a place wool comes from. Both opinions are returned wit
 
 ## The Vulnerability
 
-Everything Válaren is rests on open water, and the city has no other resource – no great hinterland of
+Everything Válaren is rests on open water, and the city has no other resource—no great hinterland of
 its own, no manufacture that matters, no walls that would signify against a serious army and no need of
 them. Nobody has ever taken Válaren by assault.
 

@@ -367,11 +367,11 @@ sohl:
 
 ![[frostjaw|Frostjaw]]{float: top-left}
 
-Your breath mists in air that should be warmer. A shape materializes from white snow and whiter fog – four-legged and deadly, composed of living ice and frosted air. Its fur, if it can be called that, is crystalline and brittle, and every step it takes cracks the frozen ground beneath it. Its breath is visible and freezing, and the space around it seems to age and become brittle with unnatural cold. When it opens its mouth, you see teeth of ice and something older, something that existed before fire ever warmed the world.
+Your breath mists in air that should be warmer. A shape materializes from white snow and whiter fog—four-legged and deadly, composed of living ice and frosted air. Its fur, if it can be called that, is crystalline and brittle, and every step it takes cracks the frozen ground beneath it. Its breath is visible and freezing, and the space around it seems to age and become brittle with unnatural cold. When it opens its mouth, you see teeth of ice and something older, something that existed before fire ever warmed the world.
 
 # Dossier {#dossier}
 
-Frostjaws are predators of ice and cold, manifestations of winter itself given animal form. They hunt in frozen lands and are drawn to the deepest cold. Some are natural creatures of elemental nature; others are summoned or bound by sorcerers. A Frostjaw is driven as much by hunger as by territorial aggression, and it will pursue prey across frozen wastes with relentless determination. In the proper environment – deep winter, glacial regions, frozen peaks – a Frostjaw is nearly unstoppable.
+Frostjaws are predators of ice and cold, manifestations of winter itself given animal form. They hunt in frozen lands and are drawn to the deepest cold. Some are natural creatures of elemental nature; others are summoned or bound by sorcerers. A Frostjaw is driven as much by hunger as by territorial aggression, and it will pursue prey across frozen wastes with relentless determination. In the proper environment—deep winter, glacial regions, frozen peaks—a Frostjaw is nearly unstoppable.
 
 ## Presentation
 
@@ -379,11 +379,11 @@ A Frostjaw resembles a large, powerful wolf ten to twelve feet in length, but co
 
 ## Key Behaviors
 
-Frostjaws are solitary hunters that claim frozen territories and defend them against all intruders. They are drawn to sources of living heat – warm-blooded animals, settlements with fires, humans. They seem to delight in the contrast between heat and cold, pursuing the prey that gives off the most warmth. They are intelligent and patient, willing to stalk prey for days if necessary. In their native cold, they are supremely confident. Away from cold, they become more aggressive and more dangerous, as though fighting against their nature.
+Frostjaws are solitary hunters that claim frozen territories and defend them against all intruders. They are drawn to sources of living heat—warm-blooded animals, settlements with fires, humans. They seem to delight in the contrast between heat and cold, pursuing the prey that gives off the most warmth. They are intelligent and patient, willing to stalk prey for days if necessary. In their native cold, they are supremely confident. Away from cold, they become more aggressive and more dangerous, as though fighting against their nature.
 
 ## Combat Strategy
 
-A Frostjaw attacks with a combination of speed and control, using its freezing abilities to slow and disable opponents before moving in for the kill. It uses terrain advantage – snow, ice, frozen obstacles – to control the battlefield. It will attempt to separate and isolate opponents, attacking isolated targets with overwhelming force. Against fire and heat-based magic, it becomes more cautious and evasive. In extreme heat, a Frostjaw becomes desperate and dangerous, fighting with furious intensity.
+A Frostjaw attacks with a combination of speed and control, using its freezing abilities to slow and disable opponents before moving in for the kill. It uses terrain advantage—snow, ice, frozen obstacles—to control the battlefield. It will attempt to separate and isolate opponents, attacking isolated targets with overwhelming force. Against fire and heat-based magic, it becomes more cautious and evasive. In extreme heat, a Frostjaw becomes desperate and dangerous, fighting with furious intensity.
 
 ## Attack Methods
 

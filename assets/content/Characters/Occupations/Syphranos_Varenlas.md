@@ -590,12 +590,12 @@ Rival gladiators seek to surpass his reputation.
 
 ## Plot Hooks
 
-1. **The Gladiator's Dilemma** – A sponsor who bets on Syphrânôs wants a bout thrown, and his code in the arena and the coin he fights for cannot both be kept.
+1. **The Gladiator's Dilemma**—A sponsor who bets on Syphrânôs wants a bout thrown, and his code in the arena and the coin he fights for cannot both be kept.
 
-2. **Old Grudges** – A rival gladiator who means to surpass Syphrânôs has challenged him to a bout outside the guild's rules.
+2. **Old Grudges**—A rival gladiator who means to surpass Syphrânôs has challenged him to a bout outside the guild's rules.
 
-3. **Echoes of the Past** – The man who bought Syphrânôs as a boy is in the stands, and claims the sale was never properly undone.
+3. **Echoes of the Past**—The man who bought Syphrânôs as a boy is in the stands, and claims the sale was never properly undone.
 
-4. **Shifting Winds** – Political change in Vylaria threatens the arena Syphrânôs lives by, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Vylaria threatens the arena Syphrânôs lives by, and he can adapt, resist, or leave.
 
-5. **The Opportunity** – A sponsor offers Syphrânôs a bout against a champion from another city, for a purse that would end his fighting days, and the champion's record is not what the sponsor says.
+5. **The Opportunity**—A sponsor offers Syphrânôs a bout against a champion from another city, for a purse that would end his fighting days, and the champion's record is not what the sponsor says.

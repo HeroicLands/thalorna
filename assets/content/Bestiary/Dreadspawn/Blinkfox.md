@@ -335,7 +335,7 @@ sohl:
 
 ![[blinkfox|Blinkfox]]{float: top-left}
 
-Movement catches your eye – a flicker, a blur of color that shouldn't be there. One moment it's to your left, the next directly ahead. Its fur ripples through a spectrum of hues, never quite settling on any single color, as if it hasn't fully decided what it should look like. You catch the glint of an eye – sharp, calculating, intelligent – and then it's gone, the space where it stood empty save for a faint shimmer that hangs in the air like heat haze.
+Movement catches your eye—a flicker, a blur of color that shouldn't be there. One moment it's to your left, the next directly ahead. Its fur ripples through a spectrum of hues, never quite settling on any single color, as if it hasn't fully decided what it should look like. You catch the glint of an eye—sharp, calculating, intelligent—and then it's gone, the space where it stood empty save for a faint shimmer that hangs in the air like heat haze.
 
 # Dossier {#dossier}
 
@@ -343,15 +343,15 @@ Blinkfoxes are creatures of fae origin or magical corruption, predators that exi
 
 ## Presentation
 
-The Blinkfox resembles a fox roughly the size of a large hound – lean, graceful, and built for speed. Its fur is never quite solid in color, shifting through iridescent hues of blue, green, purple, and silver depending on angle and light. Fine wisps of what appears to be luminescent smoke trail from its movement, dissipating slowly. Its eyes are oversized and intelligent, gleaming with an inner light. Its paws make no sound, and its form sometimes appears slightly translucent, as if not fully present in the material world. When it blinks, it sometimes vanishes entirely for a moment before reappearing elsewhere.
+The Blinkfox resembles a fox roughly the size of a large hound—lean, graceful, and built for speed. Its fur is never quite solid in color, shifting through iridescent hues of blue, green, purple, and silver depending on angle and light. Fine wisps of what appears to be luminescent smoke trail from its movement, dissipating slowly. Its eyes are oversized and intelligent, gleaming with an inner light. Its paws make no sound, and its form sometimes appears slightly translucent, as if not fully present in the material world. When it blinks, it sometimes vanishes entirely for a moment before reappearing elsewhere.
 
 ## Key Behaviors
 
-The Blinkfox is a cunning, solitary hunter with intelligence approaching that of sapient creatures. It stalks prey with calculated patience, using its speed and its blinking to corner targets. The creature shows particular preference for intelligent prey – birds, smaller humanoids, clever animals – and will spend considerable time studying a potential quarry before striking. When not hunting, it rests in clearings or atop high stones, its form becoming nearly invisible as its fur matches the surroundings. It exhibits no fear of humans unless badly wounded; it is curious and playful in a way that suggests hunger rather than aggression.
+The Blinkfox is a cunning, solitary hunter with intelligence approaching that of sapient creatures. It stalks prey with calculated patience, using its speed and its blinking to corner targets. The creature shows particular preference for intelligent prey—birds, smaller humanoids, clever animals—and will spend considerable time studying a potential quarry before striking. When not hunting, it rests in clearings or atop high stones, its form becoming nearly invisible as its fur matches the surroundings. It exhibits no fear of humans unless badly wounded; it is curious and playful in a way that suggests hunger rather than aggression.
 
 ## Combat Strategy
 
-The Blinkfox never commits to a direct fight. Instead, it strikes from unexpected angles, landing one bite or claw rake before teleporting away to assess its target. It uses hit-and-run tactics relentlessly, wearing down prey through accumulated wounds rather than a single devastating attack. When faced with overwhelming opposition, it blinks away into the deeper wilderness. It shows tactical awareness in using terrain – circling prey to drive them toward cliffs or rivers, separating individuals from groups, always maintaining escape routes.
+The Blinkfox never commits to a direct fight. Instead, it strikes from unexpected angles, landing one bite or claw rake before teleporting away to assess its target. It uses hit-and-run tactics relentlessly, wearing down prey through accumulated wounds rather than a single devastating attack. When faced with overwhelming opposition, it blinks away into the deeper wilderness. It shows tactical awareness in using terrain—circling prey to drive them toward cliffs or rivers, separating individuals from groups, always maintaining escape routes.
 
 ## Attack Methods
 

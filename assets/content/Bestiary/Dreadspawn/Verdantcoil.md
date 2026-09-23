@@ -270,7 +270,7 @@ sohl:
 
 ![[vrdntcl|Verdantcoil]]{float: top-left}
 
-The branch ahead shifts though there is no wind. You might have missed it – might have thought it nothing but an old bough settling – except you see the scales now, brilliant emerald catching light that should be blocked by the canopy above. The coil tightens around the branch, and the creature raises its head with terrible, slow grace. Eyes like polished jade fixate on you with predatory calculation, and a forked tongue tastes the air, sensing your heat, your fear, your vulnerability. The creature's body is massive – easily thirty feet in length, all coiled muscle and power. Emerald scales shimmer as the creature shifts its position, seeking the best angle for its strike. You hear nothing as it moves – no scrape, no rustle, no warning beyond the sight of that beautiful, terrible head turning to face you with absolute intent.
+The branch ahead shifts though there is no wind. You might have missed it—might have thought it nothing but an old bough settling—except you see the scales now, brilliant emerald catching light that should be blocked by the canopy above. The coil tightens around the branch, and the creature raises its head with terrible, slow grace. Eyes like polished jade fixate on you with predatory calculation, and a forked tongue tastes the air, sensing your heat, your fear, your vulnerability. The creature's body is massive—easily thirty feet in length, all coiled muscle and power. Emerald scales shimmer as the creature shifts its position, seeking the best angle for its strike. You hear nothing as it moves—no scrape, no rustle, no warning beyond the sight of that beautiful, terrible head turning to face you with absolute intent.
 
 # Dossier {#dossier}
 
@@ -282,7 +282,7 @@ A Verdantcoil measures roughly 25 to 35 feet in length, with a muscular frame bu
 
 ## Key Behaviors
 
-A Verdantcoil claims a territory spanning several miles of forest and establishes multiple preferred ambush positions throughout that range. The creature is known to spend weeks or months in a single location, perfectly coiled around a branch or within dense foliage, waiting with supernatural patience for prey to pass within striking range. The creature shows evidence of learning and memory – it will avoid poison, remember humans who have escaped, and adjust its tactics accordingly. A Verdantcoil seems to breed very rarely, and breeding females become so aggressive that entire regions of forest become nearly impassable during breeding season.
+A Verdantcoil claims a territory spanning several miles of forest and establishes multiple preferred ambush positions throughout that range. The creature is known to spend weeks or months in a single location, perfectly coiled around a branch or within dense foliage, waiting with supernatural patience for prey to pass within striking range. The creature shows evidence of learning and memory—it will avoid poison, remember humans who have escaped, and adjust its tactics accordingly. A Verdantcoil seems to breed very rarely, and breeding females become so aggressive that entire regions of forest become nearly impassable during breeding season.
 
 ## Combat Strategy
 
@@ -322,7 +322,7 @@ The Verdantcoil senses heat with perfect accuracy, allowing it to track prey in 
 
 ## Additional Information
 
-Cold is the Verdantcoil's primary weakness – extreme cold slows its metabolism dramatically, reducing its speed and strength significantly. Fire is equally effective, as the creature abhors heat and will retreat from sustained flames. Repeated exposure to either extreme temperature can eventually drive a Verdantcoil from its territory. In areas where the forest has been cleared or where the canopy is thin, the creature loses much of its advantage and becomes a comparatively normal predator, though still dangerous. The creature's scales, if harvested carefully, can be fashioned into armor that retains the creature's natural camouflage properties and grants the wearer partial invisibility in forest settings. Its fangs make deadly weapons. The venom can be extracted and preserved, though doing so requires great care and protective gear. Hunting a Verdantcoil is considered one of the most dangerous activities a human can undertake, and a successful hunter is famous for life.
+Cold is the Verdantcoil's primary weakness—extreme cold slows its metabolism dramatically, reducing its speed and strength significantly. Fire is equally effective, as the creature abhors heat and will retreat from sustained flames. Repeated exposure to either extreme temperature can eventually drive a Verdantcoil from its territory. In areas where the forest has been cleared or where the canopy is thin, the creature loses much of its advantage and becomes a comparatively normal predator, though still dangerous. The creature's scales, if harvested carefully, can be fashioned into armor that retains the creature's natural camouflage properties and grants the wearer partial invisibility in forest settings. Its fangs make deadly weapons. The venom can be extracted and preserved, though doing so requires great care and protective gear. Hunting a Verdantcoil is considered one of the most dangerous activities a human can undertake, and a successful hunter is famous for life.
 
 ## Attributes
 

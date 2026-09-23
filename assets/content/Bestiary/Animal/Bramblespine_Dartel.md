@@ -371,7 +371,7 @@ sohl:
 
 ![[brmblspn|Bramblespine Dartel]]{float: top-left}
 
-You hear it before you see it – a rustling like wind through dead branches, accompanied by a faint metallic clicking. The creature lies half-buried in rocky soil, so covered in jagged spines that distinguishing body from ground is difficult at first glance. Its eyes, cold and luminous yellow-green, lock onto yours. The spines begin to twitch faster, a mechanical sound like coins in a drum, and then comes the screech: a high, resonant cry that vibrates in your skull and sets your teeth on edge, reverberating off stone and seeming to come from everywhere at once.
+You hear it before you see it—a rustling like wind through dead branches, accompanied by a faint metallic clicking. The creature lies half-buried in rocky soil, so covered in jagged spines that distinguishing body from ground is difficult at first glance. Its eyes, cold and luminous yellow-green, lock onto yours. The spines begin to twitch faster, a mechanical sound like coins in a drum, and then comes the screech: a high, resonant cry that vibrates in your skull and sets your teeth on edge, reverberating off stone and seeming to come from everywhere at once.
 
 # Dossier {#dossier}
 
@@ -383,17 +383,17 @@ A compact, low-slung quadruped with a roughly barrel-shaped body covered entirel
 
 ## Key Behaviors
 
-Bramblespine Dartels are fiercely territorial carnivores, hunting small mammals, insects, and occasionally birds. They are most active at dusk and dawn, resting in partially concealed burrows or beneath rock overhangs during peak daylight. A territorial individual will defend its range against other Dartels with ritualized combat involving aggressive posturing and brief, vicious encounters. They are surprisingly intelligent and will remember locations of reliable food sources, returning to them seasonally. When threatened by a larger predator, a Dartel relies on its defensive posture and vocalization – most predators learn quickly that Dartels are not worth the injury. The metallic screech they produce is involuntary, triggered by stress or threat, but its disorienting properties make it as much weapon as alarm. Bramblespine Dartels are more likely to avoid humans than attack them, unless the human approaches the creature's burrow or an egg cache.
+Bramblespine Dartels are fiercely territorial carnivores, hunting small mammals, insects, and occasionally birds. They are most active at dusk and dawn, resting in partially concealed burrows or beneath rock overhangs during peak daylight. A territorial individual will defend its range against other Dartels with ritualized combat involving aggressive posturing and brief, vicious encounters. They are surprisingly intelligent and will remember locations of reliable food sources, returning to them seasonally. When threatened by a larger predator, a Dartel relies on its defensive posture and vocalization—most predators learn quickly that Dartels are not worth the injury. The metallic screech they produce is involuntary, triggered by stress or threat, but its disorienting properties make it as much weapon as alarm. Bramblespine Dartels are more likely to avoid humans than attack them, unless the human approaches the creature's burrow or an egg cache.
 
 ## Combat Strategy
 
-A Bramblespine Dartel's primary strategy is avoidance – these creatures will flee from larger threats when possible. If cornered or if their territory is threatened, they adopt a defensive posture, flattening themselves and raising spines while producing the characteristic metallic screech. The creature's tail is its primary offensive weapon, capable of rapid lashing attacks against anything within reach. If a threat persists, the Dartel may attempt to drive the intruder away by rolling into a tight ball and launching itself at the threat with every spine extended. In groups (rare), multiple Dartels will coordinate simultaneous strikes from different angles, making it difficult for a single target to defend against all threats simultaneously. The Dartel has poor depth perception and reliance on hearing and smell, making it vulnerable to fast, quiet attackers.
+A Bramblespine Dartel's primary strategy is avoidance—these creatures will flee from larger threats when possible. If cornered or if their territory is threatened, they adopt a defensive posture, flattening themselves and raising spines while producing the characteristic metallic screech. The creature's tail is its primary offensive weapon, capable of rapid lashing attacks against anything within reach. If a threat persists, the Dartel may attempt to drive the intruder away by rolling into a tight ball and launching itself at the threat with every spine extended. In groups (rare), multiple Dartels will coordinate simultaneous strikes from different angles, making it difficult for a single target to defend against all threats simultaneously. The Dartel has poor depth perception and reliance on hearing and smell, making it vulnerable to fast, quiet attackers.
 
 ## Attack Methods
 
 ### Tail Lash
 
-The creature swings its heavily barbed tail in rapid lateral arcs, each spine capable of piercing leather and penetrating skin. The attack has surprising reach – the tail extends nearly as long as the creature's body – and multiple rapid strikes in succession can open severe wounds. The spines on the tail are angled backward, making withdrawal painful and sometimes causing spines to break off in wounds.
+The creature swings its heavily barbed tail in rapid lateral arcs, each spine capable of piercing leather and penetrating skin. The attack has surprising reach—the tail extends nearly as long as the creature's body—and multiple rapid strikes in succession can open severe wounds. The spines on the tail are angled backward, making withdrawal painful and sometimes causing spines to break off in wounds.
 
 ### Spine-studded Charge
 

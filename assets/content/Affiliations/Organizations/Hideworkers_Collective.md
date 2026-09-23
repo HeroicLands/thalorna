@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "A collective of hideworkers – the tanners, curriers and leatherdressers of a trade kept at arm's length from the cities it supplies."
+description: "A collective of hideworkers—the tanners, curriers and leatherdressers of a trade kept at arm's length from the cities it supplies."
 type: affiliation
 subType: guild
 data:
@@ -11,7 +11,8 @@ data:
   governance:
     model: oligarchy
     summary: >-
-      A collective of hideworkers – the tanners, curriers and leatherdressers of a trade kept at arm's length from the cities it supplies.
+      A collective of hideworkers—the tanners, curriers and leatherdressers of a trade kept at arm's
+      length from the cities it supplies.
     ranks: []
     offices: {}
   commonSkills: []
@@ -29,4 +30,4 @@ shortcode: hideworkerscltv
 packFolder:
 ---
 
-A collective of hideworkers – the tanners, curriers and leatherdressers of a trade kept at arm's length from the cities it supplies.
+A collective of hideworkers—the tanners, curriers and leatherdressers of a trade kept at arm's length from the cities it supplies.

@@ -1,5 +1,5 @@
 ---
-description: "Frost-realm of the far north, land of ice and stone – austere kingdom of hard men and women, surviving in one of the harshest climates on Ankaris."
+description: "Frost-realm of the far north, land of ice and stone—austere kingdom of hard men and women, surviving in one of the harshest climates on Ankaris."
 type: affiliation
 name:
   full: Kingdom of Malagna
@@ -127,21 +127,21 @@ The Kingdom of Malagna holds the land of [[place-malagna|Malagna]]. Of all the N
 
 ## Character
 
-Malagna's western position has given it a slightly more cosmopolitan character than its sister kingdoms. Malagnan traders deal regularly with [[place-elavendre|Élavendrian]] and [[place-aelwyth|Aelwythan]] merchants, and the kingdom's port towns host small communities of foreign traders. This exposure has softened some of the harsher edges of Nordmen culture – Malagna's people are still warriors and sailors, but they are also diplomats and deal-makers.
+Malagna's western position has given it a slightly more cosmopolitan character than its sister kingdoms. Malagnan traders deal regularly with [[place-elavendre|Élavendrian]] and [[place-aelwyth|Aelwythan]] merchants, and the kingdom's port towns host small communities of foreign traders. This exposure has softened some of the harsher edges of Nordmen culture—Malagna's people are still warriors and sailors, but they are also diplomats and deal-makers.
 
 ## Relations
 
-Malagna maintains trading relationships with [[place-elavendre|Élavendre]], the northern communities of [[place-aelwyth|Aelwyth]], and occasionally even [[affiliation-provincvld|Vald]] and the [[place-vylarianse|Vylarian Sea]] ports. Relations with [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] are fraternal but competitive – the two kingdoms have historically vied for dominance among the Nordmen peoples. Malagna's western orientation sometimes puts it at odds with the more insular eastern kingdoms.
+Malagna maintains trading relationships with [[place-elavendre|Élavendre]], the northern communities of [[place-aelwyth|Aelwyth]], and occasionally even [[affiliation-provincvld|Vald]] and the [[place-vylarianse|Vylarian Sea]] ports. Relations with [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] are fraternal but competitive—the two kingdoms have historically vied for dominance among the Nordmen peoples. Malagna's western orientation sometimes puts it at odds with the more insular eastern kingdoms.
 
 ## Commerce and Currency
 
-Kingdom of Malagna uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) as its _de facto_ currency for transactions conducted in money – no native coin exists, and no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate in the Nordlands. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[lore-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[lore-kinhalcrdt|hall credit]] customs that have no relationship with the Vylarian banking system.
+Kingdom of Malagna uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) as its _de facto_ currency for transactions conducted in money—no native coin exists, and no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate in the Nordlands. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[lore-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[lore-kinhalcrdt|hall credit]] customs that have no relationship with the Vylarian banking system.
 
 ## See Also
 
-- [[place-malagna|Malagna]] – The land the kingdom holds
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] – Sister kingdom, primary rival
-- [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] – Sister kingdoms
-- [[place-elavendre|Élavendre]] – Western trading partner
-- [[place-aelwyth|Aelwyth]] – Maritime neighbor
-- [[affiliation-asguardian|Asguardian Pantheon]] – Pantheon
+- [[place-malagna|Malagna]]—The land the kingdom holds
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—Sister kingdom, primary rival
+- [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—Sister kingdoms
+- [[place-elavendre|Élavendre]]—Western trading partner
+- [[place-aelwyth|Aelwyth]]—Maritime neighbor
+- [[affiliation-asguardian|Asguardian Pantheon]]—Pantheon

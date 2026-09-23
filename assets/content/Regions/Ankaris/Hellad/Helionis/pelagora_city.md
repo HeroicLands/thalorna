@@ -23,4 +23,4 @@ _To be written._ Pelagora is the capital and principal settlement of [[affiliati
 
 ## Character
 
-The city is built around its great harbor, a natural bay sheltered by rocky headlands. The waterfront is a forest of masts – warships, merchant vessels, and fishing boats packed together in organized chaos.
+The city is built around its great harbor, a natural bay sheltered by rocky headlands. The waterfront is a forest of masts—warships, merchant vessels, and fishing boats packed together in organized chaos.

@@ -4,7 +4,7 @@ tags:
   - nkaruthar
 type: lore
 subType: spirit
-description: "Zohira of the blade – seated in the Magara Spirit Blades, which choose their wielders and cut both physical and spiritual foes."
+description: "Zohira of the blade—seated in the Magara Spirit Blades, which choose their wielders and cut both physical and spiritual foes."
 name:
   full: Roho wa Upanga
   aliases:
@@ -23,7 +23,7 @@ most often met not at a cairn but in an object: the **Spirit Blades** of the Mag
 which he is understood to be seated, passed down through generations and able to cut both physical
 and spiritual foes.
 
-A Spirit Blade is not given and is not inherited by right. It **chooses** – the bond is formed at
+A Spirit Blade is not given and is not inherited by right. It **chooses**—the bond is formed at
 an initiation in which the blade responds to a candidate or does not, and a Blade-Singer judges
 which has happened. A Magara who is refused by the blade of their own family is not disgraced, but
 is not going to carry it.

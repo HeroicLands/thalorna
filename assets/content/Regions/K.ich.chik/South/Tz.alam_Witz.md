@@ -20,7 +20,7 @@ packFolder: south
 
 ## Overview
 
-Tz’alam Witz, "The House of the Mountain," is a fortress-city built high in the passes of the great mountain range that bisects [[affiliation-balamtzaku|Ba’alam Tza’ku]]. Its primary purpose is military and strategic – to defend the highland passes against external threat and to control the flow of goods and peoples through the mountain corridors. The city is built into the mountain itself; much of its architecture is carved directly from living rock, making it nearly impregnable to assault.
+Tz’alam Witz, "The House of the Mountain," is a fortress-city built high in the passes of the great mountain range that bisects [[affiliation-balamtzaku|Ba’alam Tza’ku]]. Its primary purpose is military and strategic—to defend the highland passes against external threat and to control the flow of goods and peoples through the mountain corridors. The city is built into the mountain itself; much of its architecture is carved directly from living rock, making it nearly impregnable to assault.
 
 ## Location and Geography
 
@@ -36,6 +36,6 @@ Tz’alam Witz is austere and martial in character. The population consists prim
 
 ## See Also
 
-- [[affiliation-balamtzaku|Ba’alam Tza’ku]] – The highland region
-- [[place-tzalamha|Tz’alam Ha’]] – The coastal port city
-- [[affiliation-itzanpnthn|Itzáni]] – The priesthood that commands this fortress
+- [[affiliation-balamtzaku|Ba’alam Tza’ku]]—The highland region
+- [[place-tzalamha|Tz’alam Ha’]]—The coastal port city
+- [[affiliation-itzanpnthn|Itzáni]]—The priesthood that commands this fortress

@@ -1,5 +1,5 @@
 ---
-description: 'Textile city-state of southern Vedyára – "the City of Ten Thousand Looms," whose master-weaver guilds produce silks and cottons of patterns and dyes found nowhere else, traded to the courts of emperors and high priests across the known realms.'
+description: 'Textile city-state of southern Vedyára—"the City of Ten Thousand Looms," whose master-weaver guilds produce silks and cottons of patterns and dyes found nowhere else, traded to the courts of emperors and high priests across the known realms.'
 type: affiliation
 name:
   full: Vyālendra City-State
@@ -35,13 +35,13 @@ data:
         title: Śūdra
         lore: commonerrnk
         description: >-
-          Of the serving varṇa – cultivators, artisans and laborers who hold their place by
+          Of the serving varṇa—cultivators, artisans and laborers who hold their place by
           work rather than by rite.
       - level: 3
         title: Vaiśya
         lore: gentryrnk
         description: >-
-          Of the productive varṇa – merchants, dyers and cloth-factors, whose houses carry the
+          Of the productive varṇa—merchants, dyers and cloth-factors, whose houses carry the
           city's trade and pay for its walls.
       - level: 4
         title: Kṣatriya
@@ -113,11 +113,11 @@ The weavers of Vyālendra operate within an intricate caste structure maintained
 
 ## The Loom-Council
 
-Vyālendra keeps no king. It is governed by the **Loom-Council**, on which every chartered weaving guild holds a seat by loom-caste, and which raises one of its masters as **Speaker** for a term and takes him back to his loom at the end of it. The Council licenses the guilds, sets the cloth-tax and the warehouse dues, judges between craft-lines, and keeps the watch – whose commander, by a custom nobody remembers the beginning of, is a graduate of the [[affiliation-dhnrktjnpd|Dhanurkota]] academies and not a Vyālendri.
+Vyālendra keeps no king. It is governed by the **Loom-Council**, on which every chartered weaving guild holds a seat by loom-caste, and which raises one of its masters as **Speaker** for a term and takes him back to his loom at the end of it. The Council licenses the guilds, sets the cloth-tax and the warehouse dues, judges between craft-lines, and keeps the watch—whose commander, by a custom nobody remembers the beginning of, is a graduate of the [[affiliation-dhnrktjnpd|Dhanurkota]] academies and not a Vyālendri.
 
 Above the city's own affairs stand the temples. The senior priest of the Trimūrti temple, the city's **Triyācārya**, sanctions the Council's acts as a priest sanctions a sabhā's inland, and a Council decision the temples will not sanction does not take effect. The city-state holds [[place-vyalendraland|Vyālendra Land]], and [[place-vyalendra3|Vyālendra]] is its seat.
 
-The city's temples – particularly the sanctuary of Mahájaya, the serene matriarch who is the patron of honest measure and therefore of every bolt that leaves a hall – stand adjacent to the great weaving halls, acknowledging the spiritual dimension that weavers believe infuses their work. The city is quieter and less cosmopolitan than Chandrapur, its character shaped entirely by the slow, meditative rhythms of textile craft.
+The city's temples—particularly the sanctuary of Mahájaya, the serene matriarch who is the patron of honest measure and therefore of every bolt that leaves a hall—stand adjacent to the great weaving halls, acknowledging the spiritual dimension that weavers believe infuses their work. The city is quieter and less cosmopolitan than Chandrapur, its character shaped entirely by the slow, meditative rhythms of textile craft.
 
 ## Commerce and Currency
 
@@ -125,8 +125,8 @@ Vyālendra uses the [[lore-vdyrnbnkng|Vedyaran banking system]] administered thr
 
 ## See Also
 
-- [[place-vedyarargn|Vedyara Region]] – Regional overview
-- [[place-vyalendraland|Vyālendra Land]] – the land the city-state holds
-- [[place-vyalendra3|Vyālendra]] – The city itself
-- [[skill-vedyarlng|Vedyari]] – Naming tradition
-- [[affiliation-varakpnthn|Varṇaka Pantheon]] – Religious tradition
+- [[place-vedyarargn|Vedyara Region]]—Regional overview
+- [[place-vyalendraland|Vyālendra Land]]—the land the city-state holds
+- [[place-vyalendra3|Vyālendra]]—The city itself
+- [[skill-vedyarlng|Vedyari]]—Naming tradition
+- [[affiliation-varakpnthn|Varṇaka Pantheon]]—Religious tradition

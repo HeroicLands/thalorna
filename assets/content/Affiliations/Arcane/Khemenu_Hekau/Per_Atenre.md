@@ -45,9 +45,9 @@ data:
         title: Kher-Heb
         lore: masterrnk
         description: >-
-          Lector – the one who carries the book and reads the great formulae aloud at the rites. A Kher-Heb
-          holds the House's restricted forms, and is trusted with workings that are meant to stand for
-          centuries.
+          Lector—the one who carries the book and reads the great formulae aloud at the rites. A
+          Kher-Heb holds the House's restricted forms, and is trusted with workings that are meant
+          to stand for centuries.
       - level: 4
         title: Wer Kher-Heb
         lore: grandmasterrnk
@@ -59,8 +59,8 @@ data:
         Fixes the exact moment a formula must be spoken, the House's workings being bound to the sun's
         position rather than to the practitioner's readiness.
       Purifier: >-
-        Conducts the cleansing of those spiritually stained – warriors who have killed, and any practitioner
-        who has been seconded to Per-Sefút.
+        Conducts the cleansing of those spiritually stained—warriors who have killed, and any
+        practitioner who has been seconded to Per-Sefút.
   commonSkills:
     - aten
     - khprsshscrpt
@@ -92,12 +92,12 @@ that purifies, and the vitality and authority that flow from both. Its practitio
 open and at fixed hours, and its formulae are timed to the sun's position rather than to the
 practitioner's convenience.
 
-**Aten'ré** – the Disk in its Heat – is the domain of light, sight, the heat of heaven, kingship, vitality, and the day. It is
-one of the eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris – by
+**Aten'ré**—the Disk in its Heat—is the domain of light, sight, the heat of heaven, kingship, vitality, and the day. It is
+one of the eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris—by
 function in the cosmic order rather than by substance, which is why no portion of it corresponds
 to any single Eídma of the western [[lore-hexhodai|Héx Hodäi]].
 
 ### See Also
 
-- [[lore-khemenuhekau|Khemenu Hekau]] – the philosophy and the other seven domains
-- [[place-khemenu|Khemenu]] – where the Eight are taught
+- [[lore-khemenuhekau|Khemenu Hekau]]—the philosophy and the other seven domains
+- [[place-khemenu|Khemenu]]—where the Eight are taught

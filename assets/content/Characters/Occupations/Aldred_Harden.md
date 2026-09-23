@@ -594,10 +594,10 @@ The crown's Purveyor, who may take his goods for the household at the crown's pr
 
 ## Plot Hooks
 
-1. **The Purveyance** – The Purveyor has requisitioned Aldred's whole stock of cloth for the coronation at the crown's price, a third of what it cost him. He can refuse and lose the household, or accept and lose the year.
+1. **The Purveyance**—The Purveyor has requisitioned Aldred's whole stock of cloth for the coronation at the crown's price, a third of what it cost him. He can refuse and lose the household, or accept and lose the year.
 
-2. **The Raider's Bolt** – A bolt of Provenzian silk has come to Aldred cheap through a Stormveld harbor, off a ship the Nordmen took. The baron who wants it has a son who died on that ship.
+2. **The Raider's Bolt**—A bolt of Provenzian silk has come to Aldred cheap through a Stormveld harbor, off a ship the Nordmen took. The baron who wants it has a son who died on that ship.
 
-3. **The Descent** – The court is coming to Kingshollow a month early, and the steward has asked for a feast's worth of plate and hangings that are still at sea.
+3. **The Descent**—The court is coming to Kingshollow a month early, and the steward has asked for a feast's worth of plate and hangings that are still at sea.
 
-4. **The Baron's Account** – A baron owes Aldred two years' custom and has just been named to the king's council. Pressing the debt would end the trade; forgiving it would end the house.
+4. **The Baron's Account**—A baron owes Aldred two years' custom and has just been named to the king's council. Pressing the debt would end the trade; forgiving it would end the house.

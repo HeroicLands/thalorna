@@ -53,20 +53,20 @@ The velar fricatives _kh_ and _gh_ appear frequently in poetic registers but are
 
 Dunhari employs a five-vowel system with contrastive length and quality:
 
-- **a / â** – open front vowel (short/long)
-- **e / ê** – mid front vowel (short/long)
-- **i** – close front vowel
-- **o / ô** – mid back vowel (short/long)
-- **u / û** – close back vowel (short/long)
+- **a / â**—open front vowel (short/long)
+- **e / ê**—mid front vowel (short/long)
+- **i**—close front vowel
+- **o / ô**—mid back vowel (short/long)
+- **u / û**—close back vowel (short/long)
 
 Long vowels marked with circumflex accents carry significant semantic and poetic weight. The interplay of vowel length creates the characteristic rhythm of Dunhari poetry.
 
 Diphthongs are common and phonologically significant:
 
-- **ai** – as in _Jamaris, Afshanâr_
-- **au** – as in _Bahrazad, Qavâdar_
-- **ei** – as in _Farvân, Razanash_
-- **ou** – as in _Goshanad, Rostadar_
+- **ai**—as in _Jamaris, Afshanâr_
+- **au**—as in _Bahrazad, Qavâdar_
+- **ei**—as in _Farvân, Razanash_
+- **ou**—as in _Goshanad, Rostadar_
 
 These diphthongs are fundamental to the melodic quality of the language.
 
@@ -94,9 +94,9 @@ Dunhari nouns are marked for gender (masculine/feminine/common), number (singula
 
 Clan names (tribal affiliations) frequently employ suffixes:
 
-- **-an** (masculine tribal marker) – _Afsharan, Faradân, Vardôzan, Tamârân_
-- **-i** or **-î** (common or feminine clan marker) – _Gîrânî, Golshanî, Sâranî, Nazârî_
-- **-id** (descendant-of marker) – _Razdânak, Zârîd, Darvârid, Mazânid_
+- **-an** (masculine tribal marker)—_Afsharan, Faradân, Vardôzan, Tamârân_
+- **-i** or **-î** (common or feminine clan marker)—_Gîrânî, Golshanî, Sâranî, Nazârî_
+- **-id** (descendant-of marker)—_Razdânak, Zârîd, Darvârid, Mazânid_
 
 These suffixes denote tribal and clan affiliation, which is central to Dunhari social identity.
 
@@ -140,15 +140,15 @@ Amradi is the register of poetry competitions, diplomatic negotiations, and cour
 
 ## Sample Phrases
 
-1. **Khordesh-ân marûn dânâz** – "The desert teaches patience" (lit. "Desert-place knowledge gives")
+1. **Khordesh-ân marûn dânâz**—"The desert teaches patience" (lit. "Desert-place knowledge gives")
 
-2. **Shavûr khorvaz mirân sâlâkh** – "Honor flows like water through the seasons" (traditional nomadic saying)
+2. **Shavûr khorvaz mirân sâlâkh**—"Honor flows like water through the seasons" (traditional nomadic saying)
 
-3. **Farrah golvân âzardam** – "Beauty endures in memory" (poetic maxim)
+3. **Farrah golvân âzardam**—"Beauty endures in memory" (poetic maxim)
 
-4. **Mehrûn parvandar sâzâdar** – "The moon guides the truthful traveler" (navigational blessing)
+4. **Mehrûn parvandar sâzâdar**—"The moon guides the truthful traveler" (navigational blessing)
 
-5. **Shirzâri magûn varîdân** – "The lion's courage inspires generations" (courtly saying)
+5. **Shirzâri magûn varîdân**—"The lion's courage inspires generations" (courtly saying)
 
 ## Related Languages
 

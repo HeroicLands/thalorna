@@ -40,7 +40,7 @@ flora, or the [[place-mazeofechos|Maze of Echoes]].
 ## Who Wants It
 
 The **[[affiliation-alndnwrdns|Áelendan Wardens]]** guard the arálwain and will attempt to seize any
-Compass they learn of – both to deny the intrusion and because an instrument that manipulates time
+Compass they learn of—both to deny the intrusion and because an instrument that manipulates time
 inside an arálwen is precisely the sort of thing they exist to prevent. A party carrying one should
 assume the Wardens will know.
 

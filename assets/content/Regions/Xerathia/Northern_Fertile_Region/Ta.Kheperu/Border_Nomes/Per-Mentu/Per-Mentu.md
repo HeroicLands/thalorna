@@ -24,7 +24,7 @@ Per-Mentu is the capital of [[affiliation-nomepermen|the Nome of Per-Mentu]] and
 
 ## See Also
 
-- [[affiliation-nomepermen|The Nome of Per-Mentu]] – Parent nome
-- [[affiliation-bordernoms|The Border Nomes]] – Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview
-- [[affiliation-mentu|Mentu]] – Patron cult
+- [[affiliation-nomepermen|The Nome of Per-Mentu]]—Parent nome
+- [[affiliation-bordernoms|The Border Nomes]]—Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
+- [[affiliation-mentu|Mentu]]—Patron cult

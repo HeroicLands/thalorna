@@ -23,7 +23,7 @@ Ghost ships appear in the Gulf of Batáren, crewed by the [[lore-undead|undead]]
 
 ## Overview
 
-Merchant vessels traveling through the Gulf of Batáren report encounters with ghost ships – vessels that appear suddenly from fog, crewed by pale and spectral figures, and vanish just as mysteriously. Some ships are attacked or forced to surrender goods; others are simply observed, as if the ghosts are searching for something. Sailors whisper of curse and doom. The party is hired to investigate these phenomena and put an end to the haunting, whether through combat, negotiation, or magic.
+Merchant vessels traveling through the Gulf of Batáren report encounters with ghost ships—vessels that appear suddenly from fog, crewed by pale and spectral figures, and vanish just as mysteriously. Some ships are attacked or forced to surrender goods; others are simply observed, as if the ghosts are searching for something. Sailors whisper of curse and doom. The party is hired to investigate these phenomena and put an end to the haunting, whether through combat, negotiation, or magic.
 
 ## Stage One: The Problem
 

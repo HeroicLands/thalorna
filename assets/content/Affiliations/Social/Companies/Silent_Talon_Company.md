@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "Elite mercenary specialists in infiltration, espionage, and covert strikes – precision and discretion for those who can afford the expertise."
+description: "Elite mercenary specialists in infiltration, espionage, and covert strikes—precision and discretion for those who can afford the expertise."
 type: affiliation
 packFolder: politiescompanies
 subType: venture
@@ -47,7 +47,7 @@ data:
       - level: 5
         title: Officer
         lore: officerrnk
-        description: Holding a charge in the company – its stores, its scouts, its accounts,
+        description: Holding a charge in the company—its stores, its scouts, its accounts,
           its discipline.
       - level: 6
         title: Lieutenant
@@ -71,7 +71,7 @@ data:
       Lieutenant: Second in command, holding the company in the captain's absence.
       Quartermaster: Keeper of the company's stores, its baggage and the division of what
         it takes.
-      Purser: Keeper of the accounts – wages, shares, debts and the contract's terms.
+      Purser: Keeper of the accounts—wages, shares, debts and the contract's terms.
       Navigator: Holder of the routes, whether by chart at sea or by memory overland.
       Bosun: Master of the working of the ship or the ordering of the march.
       Master-at-Arms: Keeper of the company's discipline and of its weapons.

@@ -3,7 +3,7 @@ tags:
   - town
   - port
   - coastal
-description: "Zûravlen's harbor at the foot of the cliff – fish, salt pans and the fast boats now carrying fresh peaches to markets no rider could reach, at the quiet expense of the baron's drying yards."
+description: "Zûravlen's harbor at the foot of the cliff—fish, salt pans and the fast boats now carrying fresh peaches to markets no rider could reach, at the quiet expense of the baron's drying yards."
 type: place
 subType: settlement
 data:
@@ -26,8 +26,8 @@ forty days a year, no harbor at all.
 
 ## The Wind and the Water
 
-The ocean here is the cold one – the vast western water, not the warm
-[[place-vylarianse|Vylarian Sea]] to the south – and the wind off it is relentless. Portvent is built
+The ocean here is the cold one—the vast western water, not the warm
+[[place-vylarianse|Vylarian Sea]] to the south—and the wind off it is relentless. Portvent is built
 low and heavy against it, its roofs weighted with stone, and its people regard the valley's complaints
 about frost as the fussing of the sheltered.
 
@@ -38,15 +38,14 @@ town's oldest export and the one that pays whatever else happens.
 ## The Salt Pans
 
 Above the town, on the terraces the wind scours dry, lie the **salt pans**. Sun and wind do the work
-and the town takes the crop, and Zûravlen salt now goes to the fish, to the uplands for cheese, and –
-this is recent, and resented – inland to the preserving trades, which bought their salt from outside
+and the town takes the crop, and Zûravlen salt now goes to the fish, to the uplands for cheese, and—this is recent, and resented—inland to the preserving trades, which bought their salt from outside
 the barony for generations and would rather not be dependent on Portvent for it.
 
 ## The Fast Boats
 
 Portvent's importance is new. A peach picked at [[place-vergeval|Vergéval]] is worthless four days
 later, which for centuries meant fruit left Zûravlen dried and nothing else. A fast hull out of
-Portvent, leaving on the evening wind, reaches markets no rider could – and so **fresh Zûravlen fruit
+Portvent, leaving on the evening wind, reaches markets no rider could—and so **fresh Zûravlen fruit
 now appears on tables that had only ever seen it dried**.
 
 In harvest the boats sail nightly, and the town is worked as hard by dark as the drying yards at

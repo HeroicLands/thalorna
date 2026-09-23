@@ -24,7 +24,7 @@ Neferusi is the capital of [[affiliation-nomeneferu|the Nome of Neferusi]] and t
 
 ## See Also
 
-- [[affiliation-nomeneferu|The Nome of Neferusi]] – Parent nome
-- [[affiliation-uperivrnms|The Upper River Nomes]] – Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview
-- [[affiliation-ptah|Ptā'h]] – Patron cult
+- [[affiliation-nomeneferu|The Nome of Neferusi]]—Parent nome
+- [[affiliation-uperivrnms|The Upper River Nomes]]—Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
+- [[affiliation-ptah|Ptā'h]]—Patron cult

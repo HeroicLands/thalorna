@@ -2,7 +2,7 @@
 tags:
   - nyaluba
   - spirit-power
-description: "Standing with the crocodile-spirit of the Kambezi – what an allied guide of the Nyáluba Way is met and asked with."
+description: "Standing with the crocodile-spirit of the Kambezi—what an allied guide of the Nyáluba Way is met and asked with."
 type: skill
 subType: mystical
 shortcode: crocodilekambezisprt
@@ -25,4 +25,4 @@ sohl:
 packFolder: spiritskillsnyaluba
 ---
 
-See [[affiliation-nyalbcroc|Crocodile Totem]] – the guide of the Kambezi, the river-people of the eastern wetlands.
+See [[affiliation-nyalbcroc|Crocodile Totem]]—the guide of the Kambezi, the river-people of the eastern wetlands.

@@ -21,7 +21,7 @@ packFolder: adventures
 
 ## The Forgotten Shrine of the Thúravel Hills
 
-A shrine hidden in the Thúravel Hills holds secrets of pre-Aurèldían traditions. The party must locate and explore it, uncovering what knowledge or power the ancients left behind – and what prices came with it.
+A shrine hidden in the Thúravel Hills holds secrets of pre-Aurèldían traditions. The party must locate and explore it, uncovering what knowledge or power the ancients left behind—and what prices came with it.
 
 ### Overview
 

@@ -258,23 +258,23 @@ sohl:
 
 ![[ncrtcmr|Necrotic Mire]]{float: top-left}
 
-The swamp water ahead darkens and thickens, a black slick spreading across the surface like spilled oil. As it rises, the reek of millennia-old corpses and putrefying flesh floods your senses – a choking, almost physical presence. The ooze forms a loosely humanoid shape, its surface roiling with blisters and pustules that burst to release vapors. Where the dark slime touches living things – grass, trees, flesh – they wither and blacken as though exposed to decades of decay in mere seconds. The creature has no eyes, yet you feel inexplicably watched by something that hungers with a ghastly patience.
+The swamp water ahead darkens and thickens, a black slick spreading across the surface like spilled oil. As it rises, the reek of millennia-old corpses and putrefying flesh floods your senses—a choking, almost physical presence. The ooze forms a loosely humanoid shape, its surface roiling with blisters and pustules that burst to release vapors. Where the dark slime touches living things—grass, trees, flesh—they wither and blacken as though exposed to decades of decay in mere seconds. The creature has no eyes, yet you feel inexplicably watched by something that hungers with a ghastly patience.
 
 # Dossier {#dossier}
 
-The Necrotic Mire is a manifestation of death itself rather than a creature in the ordinary sense – an ooze animated by the concentrated essence of decay and corruption. It arises in deep swamps where countless creatures have died and rotted in place, their decomposition concentrated by stagnant water and airless depths until something wakens within the miasma. Once animate, a Necrotic Mire spreads inexorably, consuming everything organic and growing stronger with each meal. It exudes a tangible aura of death that withers living things and poisons the very air; entire regions of swamp can die around one of these creatures as it slowly devours the ecosystem that spawned it.
+The Necrotic Mire is a manifestation of death itself rather than a creature in the ordinary sense—an ooze animated by the concentrated essence of decay and corruption. It arises in deep swamps where countless creatures have died and rotted in place, their decomposition concentrated by stagnant water and airless depths until something wakens within the miasma. Once animate, a Necrotic Mire spreads inexorably, consuming everything organic and growing stronger with each meal. It exudes a tangible aura of death that withers living things and poisons the very air; entire regions of swamp can die around one of these creatures as it slowly devours the ecosystem that spawned it.
 
 ## Presentation
 
-A Necrotic Mire has no fixed form, but typically manifests as a column or blob of ebon sludge standing 4 to 8 feet in height. Its surface roils constantly, undulating with a sickening, organic motion, blistered with pustules and boils that leak dark, caustic fluid. The creature smells overwhelmingly of rotting flesh, sulfur, and grave-earth – a stench so potent it can sicken the stomach of even hardened soldiers. Its movement leaves a trail of blackened, dead earth and vegetation; anything it brushes against withers instantly. The air within ten feet of the creature seems to grow thicker and harder to breathe, and the temperature drops to the bitter chill of a tomb.
+A Necrotic Mire has no fixed form, but typically manifests as a column or blob of ebon sludge standing 4 to 8 feet in height. Its surface roils constantly, undulating with a sickening, organic motion, blistered with pustules and boils that leak dark, caustic fluid. The creature smells overwhelmingly of rotting flesh, sulfur, and grave-earth—a stench so potent it can sicken the stomach of even hardened soldiers. Its movement leaves a trail of blackened, dead earth and vegetation; anything it brushes against withers instantly. The air within ten feet of the creature seems to grow thicker and harder to breathe, and the temperature drops to the bitter chill of a tomb.
 
 ## Key Behaviors
 
-A Necrotic Mire exists for a single purpose: consumption and growth. It moves slowly but inexorably through its chosen territory – typically a swamp or wetland – devouring everything edible and spreading its corruption with each passing day. The creature is not mindless; it demonstrates a cunning ability to sense prey at distance through vibrations in water and ground, and it will position itself at watering holes or crossing points where living things must pass. It regenerates continuously as long as it remains in contact with organic material, making it nearly impossible to weaken unless isolated on barren ground. Necrotic Mires grow only marginally faster when actively hunting; their expansion is steady and relentless whether prey is scarce or abundant.
+A Necrotic Mire exists for a single purpose: consumption and growth. It moves slowly but inexorably through its chosen territory—typically a swamp or wetland—devouring everything edible and spreading its corruption with each passing day. The creature is not mindless; it demonstrates a cunning ability to sense prey at distance through vibrations in water and ground, and it will position itself at watering holes or crossing points where living things must pass. It regenerates continuously as long as it remains in contact with organic material, making it nearly impossible to weaken unless isolated on barren ground. Necrotic Mires grow only marginally faster when actively hunting; their expansion is steady and relentless whether prey is scarce or abundant.
 
 ## Combat Strategy
 
-A Necrotic Mire does not flee or strategize in the sense that mobile creatures do – it simply advances, consuming whatever lies before it. It may attempt to engulf a single target while ignoring others, choosing what it can fully encompass. If severely damaged or isolated from organic matter, it will retreat into the deepest, wettest part of its territory where regeneration is fastest. The creature's true power is not in active combat but in its poisonous aura, which weakens opponents and forces them into desperate decisions. Most combats against a Necrotic Mire hinge not on defeating the creature directly but on making it retreat by denying it access to its sustaining corpses and detritus.
+A Necrotic Mire does not flee or strategize in the sense that mobile creatures do—it simply advances, consuming whatever lies before it. It may attempt to engulf a single target while ignoring others, choosing what it can fully encompass. If severely damaged or isolated from organic matter, it will retreat into the deepest, wettest part of its territory where regeneration is fastest. The creature's true power is not in active combat but in its poisonous aura, which weakens opponents and forces them into desperate decisions. Most combats against a Necrotic Mire hinge not on defeating the creature directly but on making it retreat by denying it access to its sustaining corpses and detritus.
 
 ## Attack Methods
 
@@ -294,7 +294,7 @@ Everything within fifteen feet of the Necrotic Mire experiences the visceral pre
 
 ### Undying Regeneration
 
-As long as the creature remains in contact with organic matter – corpses, plants, soil rich with decay – it heals rapidly from all damage. Only sustained attacks from fire, acid, or powerful magical sources can overcome this regeneration.
+As long as the creature remains in contact with organic matter—corpses, plants, soil rich with decay—it heals rapidly from all damage. Only sustained attacks from fire, acid, or powerful magical sources can overcome this regeneration.
 
 ### Death Feeding
 
@@ -302,7 +302,7 @@ The creature grows larger and stronger with each organic meal. A Necrotic Mire t
 
 ## Additional Information
 
-Fire is the Necrotic Mire's greatest vulnerability, instantly destroying portions of its mass and preventing regeneration in the burned areas. Similarly, powerful acid or the magic of life and light can force it into retreat. Isolation from organic matter causes it to weaken and eventually dissolve entirely, though this process takes weeks or months depending on the creature's size. Some desperate communities have attempted to contain a Necrotic Mire by surrounding it with salt circles or driving it into barren, dead earth where nothing grows. The creature's remains, if completely destroyed, leave behind only a toxic sludge with no useful properties – though the land underneath may take years to recover from its presence.
+Fire is the Necrotic Mire's greatest vulnerability, instantly destroying portions of its mass and preventing regeneration in the burned areas. Similarly, powerful acid or the magic of life and light can force it into retreat. Isolation from organic matter causes it to weaken and eventually dissolve entirely, though this process takes weeks or months depending on the creature's size. Some desperate communities have attempted to contain a Necrotic Mire by surrounding it with salt circles or driving it into barren, dead earth where nothing grows. The creature's remains, if completely destroyed, leave behind only a toxic sludge with no useful properties—though the land underneath may take years to recover from its presence.
 
 ## Attributes
 

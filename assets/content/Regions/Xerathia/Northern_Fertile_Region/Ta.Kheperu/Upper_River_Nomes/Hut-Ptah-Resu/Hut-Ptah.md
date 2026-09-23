@@ -24,7 +24,7 @@ Hut-Ptah is the capital of [[affiliation-nomehtpthr|the Nome of Hut-Ptah-Resu]] 
 
 ## See Also
 
-- [[affiliation-nomehtpthr|The Nome of Hut-Ptah-Resu]] – Parent nome
-- [[affiliation-uperivrnms|The Upper River Nomes]] – Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview
-- [[affiliation-ptah|Ptā'h]] – Patron cult
+- [[affiliation-nomehtpthr|The Nome of Hut-Ptah-Resu]]—Parent nome
+- [[affiliation-uperivrnms|The Upper River Nomes]]—Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
+- [[affiliation-ptah|Ptā'h]]—Patron cult

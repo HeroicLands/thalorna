@@ -24,7 +24,7 @@ packFolder: hekauincantations
 ---
 
 Two parties speak the oath with the hekau as witness, and the form is set on a shard, a doorpost
-or the back of the contract itself. Neither party is compelled to keep the oath – the House of the
-Balance is careful about the difference – but the moment either breaks it, both know, wherever
+or the back of the contract itself. Neither party is compelled to keep the oath—the House of the
+Balance is careful about the difference—but the moment either breaks it, both know, wherever
 they are. It is the ordinary instrument of Kheperi commerce above a certain value, and the reason
 a Kheperi merchant will haggle for an hour over the wording and sign the total without reading it.

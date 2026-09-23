@@ -33,7 +33,7 @@ event:
     western Ankaris has seen, and the Republic answers with the Dragon Riders, near whom a working
     turns back on the one who made it. In the year the last city falls the Senate reaches into the
     Panepistemium, extracts its College of Arcane Philosophy,
-    and places it under a magistracy – the Praefectura Arcana – which holds the Republic's arcanists
+    and places it under a magistracy—the Praefectura Arcana—which holds the Republic's arcanists
     as state property, teaches nothing, publishes nothing and decides nothing.
   standing: attested
   names:

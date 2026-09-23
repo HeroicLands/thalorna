@@ -1,5 +1,5 @@
 ---
-description: "Central Nordmen kingdom of fjords, mountain passes, and silver-mines – diplomatic heartland of the five kingdoms, traditional convener of the Great Moot, and home of the most powerful völvur in the north."
+description: "Central Nordmen kingdom of fjords, mountain passes, and silver-mines—diplomatic heartland of the five kingdoms, traditional convener of the Great Moot, and home of the most powerful völvur in the north."
 type: affiliation
 name:
   full: Kingdom of Norgaad
@@ -127,7 +127,7 @@ The Kingdom of Norgaad holds the land of [[place-norgaad|Norgaad]]. This central
 
 ## Character
 
-Norgaad is considered the most traditional of the Nordmen kingdoms – the heartland of the old ways. Its people are deeply devoted to the [[affiliation-asguardian|Asguardian Pantheon]] faith, and its völvur (seers and shamans) are considered the most powerful and respected in the north. The kingdom's ting tradition is the strongest, and Norgaad's kings are the most constrained by customary law and assembly consensus.
+Norgaad is considered the most traditional of the Nordmen kingdoms—the heartland of the old ways. Its people are deeply devoted to the [[affiliation-asguardian|Asguardian Pantheon]] faith, and its völvur (seers and shamans) are considered the most powerful and respected in the north. The kingdom's ting tradition is the strongest, and Norgaad's kings are the most constrained by customary law and assembly consensus.
 
 ## Relations
 
@@ -135,11 +135,11 @@ Norgaad's central position makes it the natural mediator among the Nordmen kingd
 
 ## Commerce and Currency
 
-Kingdom of Norgaad uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) as its _de facto_ currency for transactions conducted in money – no native coin exists, and no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate in the Nordlands. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[lore-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[lore-kinhalcrdt|hall credit]] customs that have no relationship with the Vylarian banking system.
+Kingdom of Norgaad uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) as its _de facto_ currency for transactions conducted in money—no native coin exists, and no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate in the Nordlands. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[lore-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[lore-kinhalcrdt|hall credit]] customs that have no relationship with the Vylarian banking system.
 
 ## See Also
 
-- [[place-norgaad|Norgaad]] – The land the kingdom holds
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] – Sister kingdoms
-- [[affiliation-asguardian|Asguardian Pantheon]] – Pantheon
-- [[place-grkrhlmrgn|Grukarholm Region]] – Eastern threat
+- [[place-norgaad|Norgaad]]—The land the kingdom holds
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—Sister kingdoms
+- [[affiliation-asguardian|Asguardian Pantheon]]—Pantheon
+- [[place-grkrhlmrgn|Grukarholm Region]]—Eastern threat

@@ -329,15 +329,15 @@ sohl:
 
 ![[spctrwlf|Specterwolf]]{float: top-left}
 
-In the darkness ahead, you hear what should be the sound of paws on stone – but the sound comes wrong, as if from a great distance even as the shape moves toward you. The form is wolflike but not quite solid; it seems to slip between shadows and reality with each step. Its eyes are pale and depthless, regarding you with an intelligence that no natural wolf should possess, and something about its presence makes your skin crawl with primal warning.
+In the darkness ahead, you hear what should be the sound of paws on stone—but the sound comes wrong, as if from a great distance even as the shape moves toward you. The form is wolflike but not quite solid; it seems to slip between shadows and reality with each step. Its eyes are pale and depthless, regarding you with an intelligence that no natural wolf should possess, and something about its presence makes your skin crawl with primal warning.
 
 # Dossier {#dossier}
 
-Specterwolves are the remnants of ancient beasts that died in places saturated with death and despair. They exist partially in the spirit realm, hunting on both sides of the veil between worlds. Some are wild predators; others are bound by dark magicians or haunted shamans as guardians or hunters. A Specterwolf pack is among the most terrifying threats to isolated travelers – coordinated, relentless, and able to move through obstacles that would stop normal wolves. They are intelligent enough to plan hunts and to learn from failures.
+Specterwolves are the remnants of ancient beasts that died in places saturated with death and despair. They exist partially in the spirit realm, hunting on both sides of the veil between worlds. Some are wild predators; others are bound by dark magicians or haunted shamans as guardians or hunters. A Specterwolf pack is among the most terrifying threats to isolated travelers—coordinated, relentless, and able to move through obstacles that would stop normal wolves. They are intelligent enough to plan hunts and to learn from failures.
 
 ## Presentation
 
-A Specterwolf is roughly the size of a large wolf, with a frame built for endurance hunting. Its body is semi-transparent and composed of mist and shadow, with a shimmer like heat haze that distorts the background. Its fur, when visible, appears matted and unkempt, as if it has been wet and dried many times. Its eyes are the sharpest feature – pale blue or silver, often seeming to glow with faint luminescence. Its mouth, when open, shows translucent fangs that look more substantial than the rest of its form. The creature leaves no footprints and produces little sound, and where it passes, the temperature drops noticeably.
+A Specterwolf is roughly the size of a large wolf, with a frame built for endurance hunting. Its body is semi-transparent and composed of mist and shadow, with a shimmer like heat haze that distorts the background. Its fur, when visible, appears matted and unkempt, as if it has been wet and dried many times. Its eyes are the sharpest feature—pale blue or silver, often seeming to glow with faint luminescence. Its mouth, when open, shows translucent fangs that look more substantial than the rest of its form. The creature leaves no footprints and produces little sound, and where it passes, the temperature drops noticeably.
 
 ## Key Behaviors
 
@@ -351,11 +351,11 @@ Specterwolves use pack tactics to overwhelming advantage, attempting to surround
 
 ### Ethereal Bite
 
-The wolf’s jaws close around a victim and the experience is nightmarish – teeth seem to pass partially through armor and flesh. The bite wounds feel cold and wrong, and the victim feels a deep draining sensation as if the attack reaches into their vitality itself. Multiple bites can leave a person unable to continue fighting or fleeing.
+The wolf’s jaws close around a victim and the experience is nightmarish—teeth seem to pass partially through armor and flesh. The bite wounds feel cold and wrong, and the victim feels a deep draining sensation as if the attack reaches into their vitality itself. Multiple bites can leave a person unable to continue fighting or fleeing.
 
 ### Disarming Howl
 
-The Specterwolf releases a cry that is both sound and something more – a keening that seems to vibrate at a fundamental level. Those who hear it directly experience vertigo, disorientation, and a momentary inability to coordinate themselves. Weapons may fall from weakened hands, and footing becomes uncertain.
+The Specterwolf releases a cry that is both sound and something more—a keening that seems to vibrate at a fundamental level. Those who hear it directly experience vertigo, disorientation, and a momentary inability to coordinate themselves. Weapons may fall from weakened hands, and footing becomes uncertain.
 
 ## Special Abilities
 
@@ -373,7 +373,7 @@ The Specterwolf can see in complete darkness and can detect prey by their living
 
 ### Life Drain
 
-The necrotic energy in the Specterwolf’s bite does more than wound – it saps the victim’s strength and vitality. Wounds inflicted by a Specterwolf are slow to heal and leave the victim feeling diminished even after physical recovery.
+The necrotic energy in the Specterwolf’s bite does more than wound—it saps the victim’s strength and vitality. Wounds inflicted by a Specterwolf are slow to heal and leave the victim feeling diminished even after physical recovery.
 
 ## Additional Information
 

@@ -23,5 +23,5 @@ Vindara sits among the terraced hillsides of [[affiliation-provnchyln|Hylen]]'s 
 
 ## See Also
 
-- [[affiliation-provnchyln|Province of Hylen]] – Parent province
-- [[affiliation-vylarinmpr|Vylarian Empire]] – Imperial overview
+- [[affiliation-provnchyln|Province of Hylen]]—Parent province
+- [[affiliation-vylarinmpr|Vylarian Empire]]—Imperial overview

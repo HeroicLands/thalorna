@@ -257,23 +257,23 @@ sohl:
 
 ![[abysslsl|Abyssal Silt]]{float: top-left}
 
-The air above the ground reeks of char and copper – a caustic stench that makes your eyes water. Something writhes in the darkness, a throbbing mass of midnight blue that catches light as if the depths of the world have pooled here. Fine, thread-like appendages quiver from its surface, tasting the air, sensing. Where it rests, stone itself glistens wet and pitted, the stone dissolving as you watch.
+The air above the ground reeks of char and copper—a caustic stench that makes your eyes water. Something writhes in the darkness, a throbbing mass of midnight blue that catches light as if the depths of the world have pooled here. Fine, thread-like appendages quiver from its surface, tasting the air, sensing. Where it rests, stone itself glistens wet and pitted, the stone dissolving as you watch.
 
 # Dossier {#dossier}
 
-The Abyssal Silt is a predatory ooze born from deep caverns and toxic marshlands, a creature fundamentally wrong – a thing that hungers and calculates. It dwells in darkness, camouflaged by its murky coloration, waiting with patient malice for prey to draw near. Adventurers encounter it lurking in caves, abandoned ruins, or stagnant pools where nothing else dares venture.
+The Abyssal Silt is a predatory ooze born from deep caverns and toxic marshlands, a creature fundamentally wrong—a thing that hungers and calculates. It dwells in darkness, camouflaged by its murky coloration, waiting with patient malice for prey to draw near. Adventurers encounter it lurking in caves, abandoned ruins, or stagnant pools where nothing else dares venture.
 
 ## Presentation
 
-The creature appears as a viscous, dark-blue-to-black sludge, roughly six to eight feet in diameter when spread thin across stone. Its surface roils and shifts, covered in constantly shifting ripples. Thin, translucent tendrils protrude from its mass, each capable of extending ten feet or more. The silt emits a faint, unsettling luminescence in darkness – a ghostly phosphorescent pulse. Where it moves, it leaves a trail of caustic residue; stone pits and organic matter begins to break down. It makes no audible sound except the wet, sucking noise of its movement.
+The creature appears as a viscous, dark-blue-to-black sludge, roughly six to eight feet in diameter when spread thin across stone. Its surface roils and shifts, covered in constantly shifting ripples. Thin, translucent tendrils protrude from its mass, each capable of extending ten feet or more. The silt emits a faint, unsettling luminescence in darkness—a ghostly phosphorescent pulse. Where it moves, it leaves a trail of caustic residue; stone pits and organic matter begins to break down. It makes no audible sound except the wet, sucking noise of its movement.
 
 ## Key Behaviors
 
-The Abyssal Silt is an apex ambush predator of underground ecosystems. It dwells in stagnant water, beneath loose sediment, or plastered against cave ceilings – anywhere it can remain unseen until prey enters its hunting ground. The creature hunts by sensing vibration and chemical traces in the water or soil, feeding on whatever flesh it can dissolve: fish, cave-dwelling creatures, unfortunate adventurers. It exhibits no social behavior; multiple silts in the same region tolerate one another only through spatial separation. When well-fed, it remains dormant for weeks; when hungry, it roams and actively hunts.
+The Abyssal Silt is an apex ambush predator of underground ecosystems. It dwells in stagnant water, beneath loose sediment, or plastered against cave ceilings—anywhere it can remain unseen until prey enters its hunting ground. The creature hunts by sensing vibration and chemical traces in the water or soil, feeding on whatever flesh it can dissolve: fish, cave-dwelling creatures, unfortunate adventurers. It exhibits no social behavior; multiple silts in the same region tolerate one another only through spatial separation. When well-fed, it remains dormant for weeks; when hungry, it roams and actively hunts.
 
 ## Combat Strategy
 
-The Abyssal Silt relies on ambush and surprise. It attempts to grapple and immobilize prey with its tendrils before enveloping targets partially or wholly. When threatened by overwhelming force, it fragments itself into smaller entities and flees through tight spaces – a retreat strategy as much as a defensive tactic. It shows no interest in prolonged tactical maneuvers; the silt fights to feed, not to conquer.
+The Abyssal Silt relies on ambush and surprise. It attempts to grapple and immobilize prey with its tendrils before enveloping targets partially or wholly. When threatened by overwhelming force, it fragments itself into smaller entities and flees through tight spaces—a retreat strategy as much as a defensive tactic. It shows no interest in prolonged tactical maneuvers; the silt fights to feed, not to conquer.
 
 ## Attack Methods
 

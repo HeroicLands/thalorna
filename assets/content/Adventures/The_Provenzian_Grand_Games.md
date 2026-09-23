@@ -23,7 +23,7 @@ The Giochi Grandi (Provenzian Grand Games), the realm's greatest athletic and ma
 
 ## Overview
 
-Every five years, the City of Hárivren hosts the Giochi Grandi – a festival of martial prowess, athletic excellence, and elaborate ceremonies that draws competitors and spectators from across [[place-provenzrgn|Provènzia Region]] and beyond. Nobles prove their worth, commoners rise to glory, merchants deal in spectacular wagers, and the [[affiliation-arldnpnthn|Aurèldían]] faith is honored through sacred games. The event is also a nexus of political intrigue, as factions maneuver for influence and rivals settle scores. The party may be competitors, investigators, or unwilling participants in machinations that threaten the games themselves.
+Every five years, the City of Hárivren hosts the Giochi Grandi—a festival of martial prowess, athletic excellence, and elaborate ceremonies that draws competitors and spectators from across [[place-provenzrgn|Provènzia Region]] and beyond. Nobles prove their worth, commoners rise to glory, merchants deal in spectacular wagers, and the [[affiliation-arldnpnthn|Aurèldían]] faith is honored through sacred games. The event is also a nexus of political intrigue, as factions maneuver for influence and rivals settle scores. The party may be competitors, investigators, or unwilling participants in machinations that threaten the games themselves.
 
 ## Stage One: Arrival & Opportunity
 

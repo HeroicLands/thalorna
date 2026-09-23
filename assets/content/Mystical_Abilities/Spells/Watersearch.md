@@ -24,6 +24,6 @@ hmk:
 packFolder: spells
 ---
 
-The caster extends their awareness through the ground and air, feeling for the presence of water below the surface or hidden within structures. The spell manifests as a tingling pull in the caster's hands, growing stronger and more insistent as they approach a water source – an underground spring, a sealed cistern, a water table beneath dry soil.
+The caster extends their awareness through the ground and air, feeling for the presence of water below the surface or hidden within structures. The spell manifests as a tingling pull in the caster's hands, growing stronger and more insistent as they approach a water source—an underground spring, a sealed cistern, a water table beneath dry soil.
 
-Watersearch can detect water through several feet of earth or stone, and experienced practitioners can distinguish between fresh and salt water, still and flowing, clean and fouled. The spell has obvious value in arid lands and during sieges, but also serves to detect hidden passages that follow underground streams, flooded cellars, and even the moisture within living bodies – making it a crude but effective way to locate hidden creatures in darkness.
+Watersearch can detect water through several feet of earth or stone, and experienced practitioners can distinguish between fresh and salt water, still and flowing, clean and fouled. The spell has obvious value in arid lands and during sieges, but also serves to detect hidden passages that follow underground streams, flooded cellars, and even the moisture within living bodies—making it a crude but effective way to locate hidden creatures in darkness.

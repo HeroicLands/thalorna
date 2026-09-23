@@ -3,7 +3,7 @@ tags:
   - village
   - woodland
   - coastal
-description: "The sea-facing Sinalë enclave of the western deep forest – older and far more withdrawn than the mountain enclaves, and the one no Áelendan will guide anyone to."
+description: "The sea-facing Sinalë enclave of the western deep forest—older and far more withdrawn than the mountain enclaves, and the one no Áelendan will guide anyone to."
 type: place
 subType: settlement
 data:
@@ -31,8 +31,8 @@ respectful, and rare, and it is conducted at the enclave's initiative and never 
 
 ## The Sea
 
-Serenthalë faces west, and the Sinalë there are held – by other Sinalë, which is the only opinion on
-the matter anyone has recorded – to be concerned with the ocean in some way that the mountain enclaves
+Serenthalë faces west, and the Sinalë there are held—by other Sinalë, which is the only opinion on
+the matter anyone has recorded—to be concerned with the ocean in some way that the mountain enclaves
 are not. What that concern is has never been explained to a human.
 
 The [[affiliation-alndnwrdns|Áelendan Wardens]] patrol the approaches as they patrol every sacred
@@ -43,7 +43,7 @@ and they have never asked for more than that.
 ## Not Guided
 
 Every [[affiliation-ordoarcanis|Ordo]] expedition that has come to Glanmor looking for a Sinalë enclave
-has been looking, whether it knew the name or not, for Serenthalë – and none has been taken anywhere
+has been looking, whether it knew the name or not, for Serenthalë—and none has been taken anywhere
 near it. The crown's guides out of [[place-liranel|Liranel]] are courteous about this and inexhaustibly
 resourceful, and the Áelendan who could actually find it would not, for the crown or for anyone.
 

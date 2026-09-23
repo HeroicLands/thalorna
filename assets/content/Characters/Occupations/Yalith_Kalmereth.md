@@ -592,10 +592,10 @@ The court bards of Élavendre, who call her a simple minstrel because she sings 
 
 ## Plot Hooks
 
-1. **A Hall for Good** – A lord of the Glanmor country has offered Yálith a permanent place in his household, on condition that she stops traveling. She has said no twice and he has begun asking why.
+1. **A Hall for Good**—A lord of the Glanmor country has offered Yálith a permanent place in his household, on condition that she stops traveling. She has said no twice and he has begun asking why.
 
-2. **The Stolen Lament** – A court bard has performed one of Yálith's laments as his own before the Crown, and it has made his name. The guild will hear a complaint only if she can prove authorship of a song she never wrote down.
+2. **The Stolen Lament**—A court bard has performed one of Yálith's laments as his own before the Crown, and it has made his name. The guild will hear a complaint only if she can prove authorship of a song she never wrote down.
 
-3. **The One Who Came Back** – A family that paid Yálith to sing a lament for a guide lost in the wood has had him walk into their house, years later, claiming no time has passed. They want a different song now.
+3. **The One Who Came Back**—A family that paid Yálith to sing a lament for a guide lost in the wood has had him walk into their house, years later, claiming no time has passed. They want a different song now.
 
-4. **A Song the Guides Dislike** – Yálith's newest ballad says plainly which of Liranel's guides work for the Crown. It is popular, it is accurate, and the Crown's guides have asked her, courteously, to drop it.
+4. **A Song the Guides Dislike**—Yálith's newest ballad says plainly which of Liranel's guides work for the Crown. It is popular, it is accurate, and the Crown's guides have asked her, courteously, to drop it.

@@ -50,7 +50,7 @@ packFolder: bloodandashesinceravelvale
 
 - **Encounter:** If they fall into the trap, the adventurers are attacked from both sides by a mix of archers and close-combat fighters, who use the terrain for cover. They can either fight or try to retreat to regroup.
 
-- **Reward:** If they overcome this ambush, they find some supplies the bandits stashed here – healing herbs, spare weapons, and a map of the cave layout.
+- **Reward:** If they overcome this ambush, they find some supplies the bandits stashed here—healing herbs, spare weapons, and a map of the cave layout.
 
 ### Thárion’s Inner Chamber
 

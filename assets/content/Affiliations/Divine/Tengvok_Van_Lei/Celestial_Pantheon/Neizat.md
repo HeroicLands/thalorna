@@ -43,8 +43,8 @@ data:
         title: Copyist
         lore: apprenticernk
         description: >-
-          Under training in a temple – copying forms, learning the seals and the calendrical
-          schedules – and not yet permitted to file anything on another's behalf.
+          Under training in a temple—copying forms, learning the seals and the calendrical
+          schedules—and not yet permitted to file anything on another's behalf.
       - level: 3
         title: Clerk
         lore: clerkrnk
@@ -123,7 +123,7 @@ data:
 packFolder: celestialpantheon
 ---
 
-## Nëizāt – The Minister of Continuity
+## Nëizāt—The Minister of Continuity
 
 - **Bureau:** Zāt Sëi, The Bureau of Persistence
 - **Domain:** Continuity
@@ -134,17 +134,17 @@ to be what they were classified as: that a lineage breeds true, that a craft is 
 that a boundary drawn in the Great Sorting is still where it was drawn.
 
 It is the natural rival of the [[affiliation-zhurhot|Bureau of Transformation]], and the rivalry is
-the sharpest in the administration – one bureau exists to change things and the other to prevent
+the sharpest in the administration—one bureau exists to change things and the other to prevent
 it, and both are correct. Petitions for a difficult birth, an unbroken inheritance or the survival
 of a craft go here.
 
 ### Lesser Spirits
 
-- **Vüthëi** – The Instructor, associated with the transmission of knowledge and technique across generations; where Nëizāt preserves biological continuity, Vüthëi preserves cultural continuity.
-- **Zhëkvōr** – Continuity Spirits, who ensure that living things reproduce according to their classification.
+- **Vüthëi**—The Instructor, associated with the transmission of knowledge and technique across generations; where Nëizāt preserves biological continuity, Vüthëi preserves cultural continuity.
+- **Zhëkvōr**—Continuity Spirits, who ensure that living things reproduce according to their classification.
 
 ### See Also
 
-- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] – the Celestial Bureaucracy this bureau belongs to
-- [[affiliation-tanvurempr|Empire of Tānvür]] – the mortal realm it administers
-- [[skill-tngthkscrpt|Tëng Thōk Script]] – the writing every petition is made in
+- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]]—the Celestial Bureaucracy this bureau belongs to
+- [[affiliation-tanvurempr|Empire of Tānvür]]—the mortal realm it administers
+- [[skill-tngthkscrpt|Tëng Thōk Script]]—the writing every petition is made in

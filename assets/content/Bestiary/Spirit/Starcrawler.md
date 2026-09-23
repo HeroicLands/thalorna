@@ -287,7 +287,7 @@ sohl:
 
 ![[strcrwlr|Starcrawler]]{float: top-left}
 
-A constellation walks across the ground. At first you think it must be some trick of the night sky, but the stars move with purpose and direction across surfaces where stars should not be. As it approaches, you realize the lights are coming from something small and delicate – an insectoid shape no larger than a human hand, yet each segment of its body is studded with luminescent points. When it moves, it leaves behind a trail of light that lingers for a moment before fading, and the air around it smells faintly of ozone and distance.
+A constellation walks across the ground. At first you think it must be some trick of the night sky, but the stars move with purpose and direction across surfaces where stars should not be. As it approaches, you realize the lights are coming from something small and delicate—an insectoid shape no larger than a human hand, yet each segment of its body is studded with luminescent points. When it moves, it leaves behind a trail of light that lingers for a moment before fading, and the air around it smells faintly of ozone and distance.
 
 # Dossier {#dossier}
 
@@ -295,11 +295,11 @@ Starcrawlers are celestial beings touched by the distant stars themselves, perha
 
 ## Presentation
 
-A Starcrawler is roughly the size of a cat or small dog, with a segmented, insectoid body. Its exoskeleton is translucent or semi-transparent, and each segment is studded with points of light – some constant, some twinkling, some pulsing in slow patterns. Its limbs are long and spindly, ending in delicate claws that seem capable of moving with precision. Its head is a rounded shape with eyes that are themselves small lights, distinct from the rest of the creature's luminescence. The creature moves with impossible grace and fluidity, and where it passes, its light trail lingers like bioluminescent water. It makes almost no sound – its footsteps are inaudible, and its only vocalizations are faint chiming or bell-like notes.
+A Starcrawler is roughly the size of a cat or small dog, with a segmented, insectoid body. Its exoskeleton is translucent or semi-transparent, and each segment is studded with points of light—some constant, some twinkling, some pulsing in slow patterns. Its limbs are long and spindly, ending in delicate claws that seem capable of moving with precision. Its head is a rounded shape with eyes that are themselves small lights, distinct from the rest of the creature's luminescence. The creature moves with impossible grace and fluidity, and where it passes, its light trail lingers like bioluminescent water. It makes almost no sound—its footsteps are inaudible, and its only vocalizations are faint chiming or bell-like notes.
 
 ## Key Behaviors
 
-Starcrawlers are active almost exclusively at night and in deep shadow. In direct sunlight, they become noticeably lethargic and will seek shelter. They are drawn to high places – peaks, towers, tall trees – from which they seem to observe the sky and the landscape below. They may be watching something humans cannot perceive, tracking patterns in the stars or changes in the world. They seem to care little for normal food and survive on something that humans do not have access to – perhaps pure starlight or magical energy. They are not territorial but do not associate with their own kind; even multiple Starcrawlers in the same location ignore each other completely.
+Starcrawlers are active almost exclusively at night and in deep shadow. In direct sunlight, they become noticeably lethargic and will seek shelter. They are drawn to high places—peaks, towers, tall trees—from which they seem to observe the sky and the landscape below. They may be watching something humans cannot perceive, tracking patterns in the stars or changes in the world. They seem to care little for normal food and survive on something that humans do not have access to—perhaps pure starlight or magical energy. They are not territorial but do not associate with their own kind; even multiple Starcrawlers in the same location ignore each other completely.
 
 ## Combat Strategy
 
@@ -309,7 +309,7 @@ Starcrawlers rarely engage in direct combat. If threatened, they attempt to retr
 
 ### Sharp Mandibles
 
-The Starcrawler's mouth opens to reveal mandibles that are surprisingly strong and sharp. These strike with speed and precision, but the wounds are relatively minor – the creature is more concerned with escaping than with serious injury.
+The Starcrawler's mouth opens to reveal mandibles that are surprisingly strong and sharp. These strike with speed and precision, but the wounds are relatively minor—the creature is more concerned with escaping than with serious injury.
 
 ### Paralyzing Venom
 
@@ -319,7 +319,7 @@ When mandibles pierce flesh, the creature delivers a toxin that causes numbness 
 
 ### Celestial Luminescence
 
-The Starcrawler's body is a source of light, and it can adjust the brightness and intensity of its glow at will. By flashing with intense brightness, it can temporarily blind or disorient observers. By dimming completely, it can become nearly invisible in darkness. The light it produces is not magical in the normal sense – it is more like the bioluminescence of deep-sea creatures.
+The Starcrawler's body is a source of light, and it can adjust the brightness and intensity of its glow at will. By flashing with intense brightness, it can temporarily blind or disorient observers. By dimming completely, it can become nearly invisible in darkness. The light it produces is not magical in the normal sense—it is more like the bioluminescence of deep-sea creatures.
 
 ### Aerial Grace
 
@@ -335,7 +335,7 @@ The creature is almost impossibly fast. It can dodge attacks that seem unavoidab
 
 ## Additional Information
 
-Starcrawlers are not natural creatures and do not breed in the normal sense. They appear to be singular entities, each unique and potentially ancient. They may be fragments of dying stars given form by ancient magic. They are highly resistant to normal weapons and much more vulnerable to magic in general. Earth-based magic is most effective against them, possibly because earth magic is the antithesis of their celestial nature. There are reports that Starcrawlers can be communicated with if approached correctly, though the communication is difficult and strange – the creature seems to perceive concepts that human language cannot express. A Starcrawler has never been known to attack humans unprovoked. Those who kill one report that its light extinguishes like a snuffed candle, and the body dissipates into nothing – neither corpse remains nor any evidence of its ever having existed.
+Starcrawlers are not natural creatures and do not breed in the normal sense. They appear to be singular entities, each unique and potentially ancient. They may be fragments of dying stars given form by ancient magic. They are highly resistant to normal weapons and much more vulnerable to magic in general. Earth-based magic is most effective against them, possibly because earth magic is the antithesis of their celestial nature. There are reports that Starcrawlers can be communicated with if approached correctly, though the communication is difficult and strange—the creature seems to perceive concepts that human language cannot express. A Starcrawler has never been known to attack humans unprovoked. Those who kill one report that its light extinguishes like a snuffed candle, and the body dissipates into nothing—neither corpse remains nor any evidence of its ever having existed.
 
 ## Attributes
 

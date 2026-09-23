@@ -3,7 +3,7 @@ tags:
   - region
   - frontier
   - hill
-description: "Aldorath's eastern march below the Ironfells – the foothill country that watches the two passes, holds the royal forest, and shades into wilderness nobody governs."
+description: "Aldorath's eastern march below the Ironfells—the foothill country that watches the two passes, holds the royal forest, and shades into wilderness nobody governs."
 type: place
 subType: region
 data:
@@ -32,14 +32,14 @@ the southern pass-heads; the garrisons, the levies and the beacon chain all exis
 that something comes down out of the north.
 
 In sixty years nothing much has, because the passes cut both ways. The march has instead settled into a
-condition of permanent low-grade friction – raids, reprisals, stolen stock, and a smuggling trade over
+condition of permanent low-grade friction—raids, reprisals, stolen stock, and a smuggling trade over
 the mountains that everyone deplores and nobody stops.
 
 ## The Forest and the Wild
 
 Much of the march is wooded, and it shades eastward and southward into country that no realm governs.
-Tribal communities live in the deeper folds of it – the warlike sort, quite unlike the northern herders
-of [[place-pshtrwldrns|Peshtar]] – and the boundary between Aldorathi manor and unclaimed forest is a
+Tribal communities live in the deeper folds of it—the warlike sort, quite unlike the northern herders
+of [[place-pshtrwldrns|Peshtar]]—and the boundary between Aldorathi manor and unclaimed forest is a
 matter of local knowledge rather than of any map.
 
 The royal forest above [[place-kingsholow|Kingshollow]] lies here, under forest law, hunted by kings

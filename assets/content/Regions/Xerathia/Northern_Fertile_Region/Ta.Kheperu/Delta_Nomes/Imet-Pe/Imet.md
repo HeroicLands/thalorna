@@ -24,7 +24,7 @@ Imet is the capital of [[affiliation-nomeimetpe|the Nome of Imet-Pe]] and the se
 
 ## See Also
 
-- [[affiliation-nomeimetpe|The Nome of Imet-Pe]] – Parent nome
-- [[affiliation-deltanomes|The Delta Nomes]] – Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview
-- [[affiliation-hapi|Hápi]] – Patron cult
+- [[affiliation-nomeimetpe|The Nome of Imet-Pe]]—Parent nome
+- [[affiliation-deltanomes|The Delta Nomes]]—Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
+- [[affiliation-hapi|Hápi]]—Patron cult

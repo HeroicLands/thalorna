@@ -21,7 +21,7 @@ data:
     model: theocracy
     summary: >-
       Twelve separate priesthoods rather than one, sharing a pattern: acolytes in training, a body
-      of ordained clergy, and a high priest above them – a Pontifex, a Flamen, a Magistra or a
+      of ordained clergy, and a high priest above them—a Pontifex, a Flamen, a Magistra or a
       Somniatrix according to the god. The larger faiths insert a senior college between clergy and
       apex. Two stand outside it: Karnavos's, which is deliberately anarchic, and the Vúlcani
       faiths, split by schism into the Sacred Forge's Grand Pontifex and the Black Flame's
@@ -31,7 +31,7 @@ data:
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out – denied the rites, the temple and the burial a faith promises, which is the one
+          Cast out—denied the rites, the temple and the burial a faith promises, which is the one
           sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
@@ -42,7 +42,7 @@ data:
         title: Acolyte
         lore: initiaternk
         description: >-
-          In training at a temple and not yet ordained – a Vestalis, a Noctary, a Scholaris or an
+          In training at a temple and not yet ordained—a Vestalis, a Noctary, a Scholaris or an
           Acolyte of the Garden, according to the god.
       - level: 3
         title: Sacerdos
@@ -54,8 +54,8 @@ data:
         title: Senior College
         lore: highpriestrnk
         description: >-
-          Where a faith is large enough to need one – the Collegium Sacerdotalis of Jánus, the
-          Collegium Doctorum of Ménérva – a body of seniors between the clergy and the apex.
+          Where a faith is large enough to need one—the Collegium Sacerdotalis of Jánus, the
+          Collegium Doctorum of Ménérva—a body of seniors between the clergy and the apex.
       - level: 5
         title: Pontifex
         lore: grandmasterrnk
@@ -72,7 +72,7 @@ data:
       Acolyte: An initiate in training, not yet ordained.
       Flamen: The style used where a faith's apex is a single sacrificial priest of the god.
       Magistra: >-
-        The style used where a faith's apex is a mistress of an art – wisdom, life, death, flowers.
+        The style used where a faith's apex is a mistress of an art—wisdom, life, death, flowers.
   commonSkills: []
   seat: null
   domains: []
@@ -107,13 +107,13 @@ The Aurèldían pantheon is the dominant religious tradition of western [[place-
 
 ## The Vúlcani Schism
 
-Vúlcan, the Forge-Lord, embodies both the creative and destructive aspects of flame – the forge that shapes and the inferno that consumes. This duality split his worship roughly five hundred years ago when a faction within the Vúlcani clergy declared that Vúlcan's true nature was destruction, purification through fire, and the dominance of the strong over the weak.
+Vúlcan, the Forge-Lord, embodies both the creative and destructive aspects of flame—the forge that shapes and the inferno that consumes. This duality split his worship roughly five hundred years ago when a faction within the Vúlcani clergy declared that Vúlcan's true nature was destruction, purification through fire, and the dominance of the strong over the weak.
 
 The resulting schism produced two bitterly opposed faiths, each considering the other heretical:
 
-- **[[affiliation-sacredforge|The Sacred Forge]]** – Vúlcan's creative aspect: craftsmanship, transformation, illumination, and protection. The mainstream faith in most of western Ankaris.
+- **[[affiliation-sacredforge|The Sacred Forge]]**—Vúlcan's creative aspect: craftsmanship, transformation, illumination, and protection. The mainstream faith in most of western Ankaris.
   - **Symbol:** A radiant anvil beneath a sheltering flame.
-- **[[affiliation-blackflame|The Black Flame]]** – Vúlcan's destructive aspect: fire as purifier, weapon, and instrument of domination. Suppressed in most kingdoms, operating through secretive orders and hidden shrines.
+- **[[affiliation-blackflame|The Black Flame]]**—Vúlcan's destructive aspect: fire as purifier, weapon, and instrument of domination. Suppressed in most kingdoms, operating through secretive orders and hidden shrines.
   - **Symbol:** A black flame consuming a broken chain.
 
 The enmity between Sacred Forge and Black Flame runs deep. Each claims to represent Vúlcan's true will, and their conflict has shaped the religious and political landscape of western Ankaris for centuries. See [[lore-vulcanischism|The Vúlcani Schism]] for how the break came about and why it did not heal.

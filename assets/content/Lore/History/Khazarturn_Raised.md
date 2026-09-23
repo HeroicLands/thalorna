@@ -2,7 +2,7 @@
 tags:
   - history
   - spine
-description: "Khazártúrn is raised in 5123 BF – seven towers cut from the cliff of a mountain valley, one to each clan, the joint city of all seven and the only thing the Khazári are known to have made as a single people."
+description: "Khazártúrn is raised in 5123 BF—seven towers cut from the cliff of a mountain valley, one to each clan, the joint city of all seven and the only thing the Khazári are known to have made as a single people."
 type: lore
 subType: history
 name:
@@ -21,9 +21,9 @@ event:
     - lore-khazarturn
     - lore-flkkhazar
   summary: >-
-    The Khazári cut a city into the cliff face of a mountain valley – seven great towers standing out
-    from the rock, one to each clan, and the city held jointly beneath them. It becomes the seat of an
-    entire people's craft-records, home to some thirty thousand, and the greatest structure on
+    The Khazári cut a city into the cliff face of a mountain valley—seven great towers standing out
+    from the rock, one to each clan, and the city held jointly beneath them. It becomes the seat of
+    an entire people's craft-records, home to some thirty thousand, and the greatest structure on
     Thalorna. It is the only thing the Khazári are known to have made as a single people.
   standing: single-source
   names:
@@ -43,7 +43,7 @@ event:
   accounts:
     - by: lore-flksinale
       says: >-
-        It was wondrous while it lived – the halls, the light, the fountains, the birds – and the
+        It was wondrous while it lived—the halls, the light, the fountains, the birds—and the
         memory of it comes out as elegy in songs whose subject is not announced.
       agrees: partly
       withholds: where it stands
@@ -55,7 +55,7 @@ event:
 ---
 
 **[[lore-khazarturn|Khazártúrn]]** was not a buried hold. It was cut into the cliff face of a mountain
-valley – a city in a wall of rock with the valley open in front of it, which is why its halls could
+valley—a city in a wall of rock with the valley open in front of it, which is why its halls could
 take daylight at all and why anyone thought to try. Standing out from that cliff were seven great
 towers, because there were **seven clans**, and each tower was that clan's.
 

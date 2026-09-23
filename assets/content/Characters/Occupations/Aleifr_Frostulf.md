@@ -570,7 +570,7 @@ He is a known figure among the huntsmen of Nordheim.
 
 ### Motivation
 
-Áleifr wants the forest kept – its game, its ground and its balance – for the manor after him. He serves Lady Elenora because she lets him keep it that way.
+Áleifr wants the forest kept—its game, its ground and its balance—for the manor after him. He serves Lady Elenora because she lets him keep it that way.
 
 ### Strengths
 
@@ -584,7 +584,7 @@ Experienced, knowledgeable about the land and its game, a natural leader of hunt
 
 ### Patrons
 
-Áleifr's patrons are Lady Elenora and the guests she brings to Wildwood Manor to hunt, whom he guides, outfits and – when the season or the ground demands it – refuses.
+Áleifr's patrons are Lady Elenora and the guests she brings to Wildwood Manor to hunt, whom he guides, outfits and—when the season or the ground demands it—refuses.
 
 ### Enemies
 
@@ -592,10 +592,10 @@ Nobody open, but a fjord is a small place, and the men he has ruled against over
 
 ## Plot Hooks
 
-1. **The Guest** – A jarl's kinsman, guesting at the manor, wants to take a stag the season forbids, and will take a refusal as an insult to his house. Lady Elenora has left the answer to Áleifr.
+1. **The Guest**—A jarl's kinsman, guesting at the manor, wants to take a stag the season forbids, and will take a refusal as an insult to his house. Lady Elenora has left the answer to Áleifr.
 
-2. **The Boundary** – Two clans of the fjord have brought Áleifr a dispute over a stretch of the wood's edge that both have grazed for a century.
+2. **The Boundary**—Two clans of the fjord have brought Áleifr a dispute over a stretch of the wood's edge that both have grazed for a century.
 
-3. **The Manor's Fortunes** – Lady Elenora's income has failed and she is under pressure to sell the timber rights to the forest. Áleifr has been asked what the wood is worth, and the truth is not what she wants to hear.
+3. **The Manor's Fortunes**—Lady Elenora's income has failed and she is under pressure to sell the timber rights to the forest. Áleifr has been asked what the wood is worth, and the truth is not what she wants to hear.
 
-4. **The Hard Winter** – The wolves have come down from the high ridge early and taken three of the village's cattle, and the fjord wants the pack hunted out. Áleifr knows the ridge cannot spare it and the village cannot spare the cattle.
+4. **The Hard Winter**—The wolves have come down from the high ridge early and taken three of the village's cattle, and the fjord wants the pack hunted out. Áleifr knows the ridge cannot spare it and the village cannot spare the cattle.

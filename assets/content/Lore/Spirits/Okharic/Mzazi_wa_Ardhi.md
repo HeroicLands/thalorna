@@ -4,7 +4,7 @@ tags:
   - nkaruthar
 type: lore
 subType: spirit
-description: "Zohira of fertility – of the field, the herd and the birthing-house alike, and the most constantly attended of the zohira."
+description: "Zohira of fertility—of the field, the herd and the birthing-house alike, and the most constantly attended of the zohira."
 name:
   full: Mzazi wa Ardhi
   aliases:
@@ -28,7 +28,6 @@ the tradition is explicit that the household's rite is not a lesser substitute. 
 require an intermediary. What a shaman adds is knowledge of what has been promised in that family
 before.
 
-The offerings are ordinary – first fruits, first milk, a portion of the seed held back from sowing
-– and the prohibitions concern waste and boasting. A household that publicly counts its expected
+The offerings are ordinary—first fruits, first milk, a portion of the seed held back from sowing—and the prohibitions concern waste and boasting. A household that publicly counts its expected
 harvest or its expected children is understood to have insulted the zohira, and the harvest is
 watched by the neighbors with interest.

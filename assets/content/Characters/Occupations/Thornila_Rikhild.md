@@ -595,12 +595,12 @@ Few; she is generally respected, but some view her as aloof.
 
 ## Plot Hooks
 
-1. **The Priestess's Dilemma** – A knight Thornila counsels has broken the chivalry she preaches against one of the weak she preaches for, and he is of her own class.
+1. **The Priestess's Dilemma**—A knight Thornila counsels has broken the chivalry she preaches against one of the weak she preaches for, and he is of her own class.
 
-2. **Old Grudges** – One of the poor Thornila's charity was meant for has not forgotten how she looked at him, and says so where the temple can hear.
+2. **Old Grudges**—One of the poor Thornila's charity was meant for has not forgotten how she looked at him, and says so where the temple can hear.
 
-3. **Echoes of the Past** – A charitable work Thornila organized years ago is found to have done its poor more harm than good, and they remember whose it was.
+3. **Echoes of the Past**—A charitable work Thornila organized years ago is found to have done its poor more harm than good, and they remember whose it was.
 
-4. **Shifting Winds** – Political change in Vrystwald threatens the nobility Thornila was born into and preaches to, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Vrystwald threatens the nobility Thornila was born into and preaches to, and she can adapt, resist, or leave.
 
-5. **The Opportunity** – The Temple of Jánus offers Thornila a higher office, and the price is the charitable work that is the one part of her ministry that reaches the poor.
+5. **The Opportunity**—The Temple of Jánus offers Thornila a higher office, and the price is the charitable work that is the one part of her ministry that reaches the poor.

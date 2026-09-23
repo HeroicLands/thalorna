@@ -2,7 +2,7 @@
 tags:
   - history
   - spine
-description: "A disturbance goes through the Ithári, they give the caretakers a further set of instructions in haste, and then they leave – all of them, abruptly, at 7,300 BF, for a destination no record names."
+description: "A disturbance goes through the Ithári, they give the caretakers a further set of instructions in haste, and then they leave—all of them, abruptly, at 7,300 BF, for a destination no record names."
 type: lore
 subType: history
 name:
@@ -24,7 +24,7 @@ event:
     - lore-longnhrtnc
   summary: >-
     A disturbance goes through the Ithári. They go to the caretakers of the instruments, give them a
-    further set of instructions beyond the procedures already taught, and leave – all of them,
+    further set of instructions beyond the procedures already taught, and leave—all of them,
     abruptly. The island wakes to their absence. Kaliharan custodianship is counted from this year,
     and it is the one Ithári date the Kaliharans hold to the year.
   standing: single-source
@@ -63,7 +63,7 @@ event:
 ---
 
 The record describes it as a disturbance. Something went through the
-[[lore-theithari|Ithári]] – the word the custodians preserve carries no more than that, and does not
+[[lore-theithari|Ithári]]—the word the custodians preserve carries no more than that, and does not
 say whether it came from within them, from the island, or from somewhere else entirely.
 
 What followed was quick. They went to the caretakers of the instruments and gave them a further set of
@@ -75,5 +75,5 @@ perform, indistinguishable now from the older body of practice, and nothing in t
 of the tendings were added at the end. Nobody knows what they were for.
 
 This is the one Ithári date the Kaliharans hold precisely, because everything they do is counted from
-it. Everything else in the account – the arrival, the raising, the meeting with the Sinalë – is
+it. Everything else in the account—the arrival, the raising, the meeting with the Sinalë—is
 reckoned loosely.

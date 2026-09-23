@@ -591,10 +591,10 @@ A young carver of the fort who copies his joints and paints them bright, and who
 
 ## Plot Hooks
 
-1. **The Chieftain's Grandchild** – The chieftain's grandchild wants a wolf from Skaldár for the naming feast, and the chieftain's daughter, who runs the fort's trade, wants it painted like the Nordman ones.
+1. **The Chieftain's Grandchild**—The chieftain's grandchild wants a wolf from Skaldár for the naming feast, and the chieftain's daughter, who runs the fort's trade, wants it painted like the Nordman ones.
 
-2. **The Nordman's Offer** – A Nordman trader has offered Skaldár a workshop and apprentices in a hall-town across the frontier. He would have to leave the forest.
+2. **The Nordman's Offer**—A Nordman trader has offered Skaldár a workshop and apprentices in a hall-town across the frontier. He would have to leave the forest.
 
-3. **The Thrall Child** – A thrall child has been coming to watch him work, and Skaldár has begun to teach it. A thrall who carves is a thrall somebody will sell for more.
+3. **The Thrall Child**—A thrall child has been coming to watch him work, and Skaldár has begun to teach it. A thrall who carves is a thrall somebody will sell for more.
 
-4. **The Young Men** – The fort's young warriors have taken to breaking the old cripple's animals for sport, and one of them is the chieftain's son, whose father Skaldár fought beside.
+4. **The Young Men**—The fort's young warriors have taken to breaking the old cripple's animals for sport, and one of them is the chieftain's son, whose father Skaldár fought beside.

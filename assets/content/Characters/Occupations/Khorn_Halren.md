@@ -591,10 +591,10 @@ The guides who take paying visitors past the edge the Wardens allow, and the tim
 
 ## Plot Hooks
 
-1. **The Seizure** – The forest court has condemned a haulier's whole season of timber as cut over license, and Khôrn is to seize it. The haulier is his father's oldest friend.
+1. **The Seizure**—The forest court has condemned a haulier's whole season of timber as cut over license, and Khôrn is to seize it. The haulier is his father's oldest friend.
 
-2. **The Beacon** – A beacon has been lit on the Cilfor headlands and the Glanmor levy is called. Khôrn's name is on the roll, and the Forester has said the town cannot spare him.
+2. **The Beacon**—A beacon has been lit on the Cilfor headlands and the Glanmor levy is called. Khôrn's name is on the roll, and the Forester has said the town cannot spare him.
 
-3. **The Guide** – A guide's party went into the deep wood a fortnight ago and has not come out, and the family wants Khôrn to go in after them. The Wardens have said nobody is to.
+3. **The Guide**—A guide's party went into the deep wood a fortnight ago and has not come out, and the family wants Khôrn to go in after them. The Wardens have said nobody is to.
 
-4. **The Old Comrade** – A man Khôrn stood beside on the Cilfor shore is now cutting unlicensed oak above Liranel, and he has asked Khôrn, as a comrade, to look the other way once.
+4. **The Old Comrade**—A man Khôrn stood beside on the Cilfor shore is now cutting unlicensed oak above Liranel, and he has asked Khôrn, as a comrade, to look the other way once.

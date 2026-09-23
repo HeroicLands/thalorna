@@ -591,10 +591,10 @@ His own former apprentices, who compose the flattering verse that Bâlden will n
 
 ## Plot Hooks
 
-1. **A Line Amended** – An old family has asked Bâlden to leave out a verse of their lineage at a wedding, and offered a year's keep for it. The verse is accurate, and the bride's family has heard it before.
+1. **A Line Amended**—An old family has asked Bâlden to leave out a verse of their lineage at a wedding, and offered a year's keep for it. The verse is accurate, and the bride's family has heard it before.
 
-2. **The Recital as Witness** – An inheritance dispute has reached the high court at Aurèliane, and one party has asked that Bâlden recite the family's record in evidence, as a Nordland court would take it. The other party knows what the record says.
+2. **The Recital as Witness**—An inheritance dispute has reached the high court at Aurèliane, and one party has asked that Bâlden recite the family's record in evidence, as a Nordland court would take it. The other party knows what the record says.
 
-3. **The False Saga** – A former apprentice has composed a saga of a patron's father that is finer than the truth and is being repeated in Aurèliane as history. Bâlden holds the true record and nobody wants it.
+3. **The False Saga**—A former apprentice has composed a saga of a patron's father that is finer than the truth and is being repeated in Aurèliane as history. Bâlden holds the true record and nobody wants it.
 
-4. **The Gathering** – Bâlden has been summoned north to the Circle's yearly gathering to have his repertoire verified by collective recitation, as every sworn skald is in turn. A line he has recited for thirty years is disputed.
+4. **The Gathering**—Bâlden has been summoned north to the Circle's yearly gathering to have his repertoire verified by collective recitation, as every sworn skald is in turn. A line he has recited for thirty years is disputed.

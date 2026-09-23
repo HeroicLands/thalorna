@@ -2,7 +2,7 @@
 tags:
   - sacred
   - inland
-description: "The ruined abbey of Tramontàna – once a center of Aurèldían learning, sacked in the Nordheim raids and never refounded, holding a healing relic that four parties want and that no expedition has yet come back with."
+description: "The ruined abbey of Tramontàna—once a center of Aurèldían learning, sacked in the Nordheim raids and never refounded, holding a healing relic that four parties want and that no expedition has yet come back with."
 type: place
 subType: site
 data:
@@ -18,7 +18,7 @@ shortcode: menavarabbey
 packFolder: provenzia
 ---
 
-**Ménavar** was once a center of Aurèldían learning and spiritual practice – a great house of the
+**Ménavar** was once a center of Aurèldían learning and spiritual practice—a great house of the
 Twelve in the north of Provènzia, with a library, a school and an endowment, standing on the low
 country of [[place-tramontana|Tramontàna]] within reach of the sea.
 
@@ -32,7 +32,7 @@ refounded.
 Abbeys of that standing are usually rebuilt; the Church has the money and the motive, and a ruined
 house is a standing reproach. Ménavar was not, and the reasons given have changed with the century.
 
-The contemporary account is straightforward – the north was unsafe, the endowment had been carried off,
+The contemporary account is straightforward—the north was unsafe, the endowment had been carried off,
 and the surviving brothers were absorbed by houses further south. Later accounts are less comfortable.
 Every attempt to reoccupy the site was abandoned within a season, and the records of those attempts are
 notably brief for an institution that documented everything else exhaustively.
@@ -47,7 +47,7 @@ have **healing properties**, and rumored with enough consistency and for long en
 people take it seriously.
 
 Where it is within the ruins is genuinely uncertain. The abbey's own plans survive in three versions
-that do not agree, and the discrepancies are not the ordinary carelessness of copyists – they conflict
+that do not agree, and the discrepancies are not the ordinary carelessness of copyists—they conflict
 precisely where they matter, which some read as deliberate and others as the reason the brothers
 thought the relic safe.
 
@@ -67,7 +67,7 @@ Four parties, at least, and none of them will say so plainly:
 - The **Church**, which holds that the relic is its property and has never relinquished the claim.
 - The **[[affiliation-ordoarcanis|Ordo Arcanis]]**, which wishes to _study_ it, and whose agents are
   invariably furnished with an authority nobody can quite check.
-- A **noble house** claiming historical custody – a claim that is probably genuine and certainly
+- A **noble house** claiming historical custody—a claim that is probably genuine and certainly
   inconvenient.
 - A **collector**, unnamed, whose offer is substantial enough to raise the question of who is really
   paying.

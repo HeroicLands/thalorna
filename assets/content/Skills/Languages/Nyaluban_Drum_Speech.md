@@ -1,7 +1,7 @@
 ---
 tags:
   - nyaluba
-description: "The drum register of Nyáluban – tonal melody struck rather than spoken, carrying names, summons and genealogies twenty kilometers."
+description: "The drum register of Nyáluban—tonal melody struck rather than spoken, carrying names, summons and genealogies twenty kilometers."
 type: skill
 subType: language
 shortcode: nyalbdrm
@@ -29,8 +29,8 @@ spoken language is struck rather than voiced. Because Nyáluban carries meaning 
 who reproduces the melody reproduces the words; skilled practitioners transmit over ten to twenty
 kilometers, and a message crosses [[affiliation-nylbtrblntn|Nyáluba]] country in a day by relay.
 
-The register encodes personal names and titles, clan affiliations, categorical signals – warnings,
-celebrations, calls to assembly – and, at its most demanding, poetic formulae, proverbs, and whole
+The register encodes personal names and titles, clan affiliations, categorical signals—warnings,
+celebrations, calls to assembly—and, at its most demanding, poetic formulae, proverbs, and whole
 genealogies. Different drums cover different tonal ranges, and the nuance a practiced drum-speaker
 achieves is closer to speech than to signaling.
 

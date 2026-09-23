@@ -586,12 +586,12 @@ Rival fighters resent her quick rise to fame.
 
 ## Plot Hooks
 
-1. **The Gladiator's Dilemma** – An arena patron pays Dânâzi to lose a bout she could win, and her name and her purse cannot both be kept.
+1. **The Gladiator's Dilemma**—An arena patron pays Dânâzi to lose a bout she could win, and her name and her purse cannot both be kept.
 
-2. **Old Grudges** – A rival fighter who resents Dânâzi's quick rise has asked for her by name in the arena.
+2. **Old Grudges**—A rival fighter who resents Dânâzi's quick rise has asked for her by name in the arena.
 
-3. **Echoes of the Past** – Someone from Dânâzi's years as a street orphan recognizes her in the arena and comes asking for a share of what she has made.
+3. **Echoes of the Past**—Someone from Dânâzi's years as a street orphan recognizes her in the arena and comes asking for a share of what she has made.
 
-4. **Shifting Winds** – Political change in Harad threatens the games Dânâzi lives by, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Harad threatens the games Dânâzi lives by, and she can adapt, resist, or leave.
 
-5. **The Opportunity** – The trainer who found Dânâzi offers her his school when he retires, and what he wants in return is not said.
+5. **The Opportunity**—The trainer who found Dânâzi offers her his school when he retires, and what he wants in return is not said.

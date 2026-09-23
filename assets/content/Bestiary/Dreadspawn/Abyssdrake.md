@@ -375,11 +375,11 @@ sohl:
 
 ![[abyssdrk|Abyssdrake]]{float: top-left}
 
-The temperature drops as a sinuous shape moves through the water – a body serpentine and scaled in deepest obsidian, barely visible even in daylight. When it turns, its eyes burn with cold, actinic blue light, and along its spine, jagged fins trail a luminescence of sickly green and purple. The stench reaches you first – brine mixed with something sulfurous, decaying, wrong. Its scales catch the light in ways that hurt to watch.
+The temperature drops as a sinuous shape moves through the water—a body serpentine and scaled in deepest obsidian, barely visible even in daylight. When it turns, its eyes burn with cold, actinic blue light, and along its spine, jagged fins trail a luminescence of sickly green and purple. The stench reaches you first—brine mixed with something sulfurous, decaying, wrong. Its scales catch the light in ways that hurt to watch.
 
 # Dossier {#dossier}
 
-Abyssdrakes are draconic hunters born in crushing oceanic depths or caverns so dark that light becomes a weapon against them. These creatures are ambush predators of rare intelligence, dwelling in sunken ruins, abyssal trenches, and underwater passages between worlds. Adventurers may encounter an Abyssdrake guarding forbidden places – ruined temples, portals, or grotesquely corrupted sanctuaries – where the creature has made its lair.
+Abyssdrakes are draconic hunters born in crushing oceanic depths or caverns so dark that light becomes a weapon against them. These creatures are ambush predators of rare intelligence, dwelling in sunken ruins, abyssal trenches, and underwater passages between worlds. Adventurers may encounter an Abyssdrake guarding forbidden places—ruined temples, portals, or grotesquely corrupted sanctuaries—where the creature has made its lair.
 
 ## Presentation
 
@@ -387,11 +387,11 @@ The creature resembles a slender, wingless drake roughly twenty to thirty feet i
 
 ## Key Behaviors
 
-The Abyssdrake hunts in isolation, claiming vast territories as its own. It lurks in the deepest parts of its domain – lightless caverns, sunken ruins, narrow passages where its sinuous form gives it advantage. The creature is a patient hunter, willing to remain motionless for days to ambush prey. It exhibits tool-like reasoning in selecting and defending its hunting ground; it may even attempt to drive competitors from its territory without eating them, establishing dominance. When wounded or threatened with starvation, it becomes erratic and aggressive.
+The Abyssdrake hunts in isolation, claiming vast territories as its own. It lurks in the deepest parts of its domain—lightless caverns, sunken ruins, narrow passages where its sinuous form gives it advantage. The creature is a patient hunter, willing to remain motionless for days to ambush prey. It exhibits tool-like reasoning in selecting and defending its hunting ground; it may even attempt to drive competitors from its territory without eating them, establishing dominance. When wounded or threatened with starvation, it becomes erratic and aggressive.
 
 ## Combat Strategy
 
-The Abyssdrake favors ambush from darkness or murky water, striking from concealment to wound prey with teeth and claws before withdrawing to assess. In prolonged combat, it uses terrain to break line of sight, regenerating its wounds from the shadows. It does not fight to the death – if an encounter turns unfavorably, it flees into deepest water, knowing pursuers cannot follow. It shows particular cunning in using confined spaces against larger or multiple foes.
+The Abyssdrake favors ambush from darkness or murky water, striking from concealment to wound prey with teeth and claws before withdrawing to assess. In prolonged combat, it uses terrain to break line of sight, regenerating its wounds from the shadows. It does not fight to the death—if an encounter turns unfavorably, it flees into deepest water, knowing pursuers cannot follow. It shows particular cunning in using confined spaces against larger or multiple foes.
 
 ## Attack Methods
 

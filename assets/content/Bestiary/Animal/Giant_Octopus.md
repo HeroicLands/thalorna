@@ -257,7 +257,7 @@ sohl:
 
 ![[gntoctps|Giant Octopus]]{float: top-left}
 
-The water darkens before you see the creature itself. A massive bulbous form rises from the depths, slick and rubbery, its coloration shifting from moment to moment – now browns and grays to match the rock, now a flushed crimson that radiates intent. Eight tentacles unfurl around the central body, each as thick as a man's torso, lined with powerful suction cups that ripple as they move. The creature's large, luminous eyes fix on you, and they hold something that makes your blood chill: unmistakable intelligence, alien and absolute. Then comes a sound that travels through the water and into your chest – a beak clicking, tasting the current, preparing.
+The water darkens before you see the creature itself. A massive bulbous form rises from the depths, slick and rubbery, its coloration shifting from moment to moment—now browns and grays to match the rock, now a flushed crimson that radiates intent. Eight tentacles unfurl around the central body, each as thick as a man's torso, lined with powerful suction cups that ripple as they move. The creature's large, luminous eyes fix on you, and they hold something that makes your blood chill: unmistakable intelligence, alien and absolute. Then comes a sound that travels through the water and into your chest—a beak clicking, tasting the current, preparing.
 
 # Dossier {#dossier}
 
@@ -265,7 +265,7 @@ The Giant Octopus is an underwater apex predator standing as one of the most int
 
 ## Presentation
 
-The Giant Octopus is a marvel of malleability and power – its body is essentially boneless, allowing it to compress through impossibly small spaces while remaining capable of exerting crushing force. The central body (mantle) is bulbous and muscular, with two large, prominent eyes set to provide excellent forward and lateral vision. The skin is covered in chromatophores that allow rapid color and pattern changes for camouflage and communication. Eight tentacles radiate from the central body, each lined with powerful suction cups and capable of independent movement and sensation. Each tentacle is functionally an arm with its own sensory organs and a measure of its own judgment. The mouth is a hard, sharp beak capable of piercing bone, and it is surrounded by a funnel used for jet propulsion.
+The Giant Octopus is a marvel of malleability and power—its body is essentially boneless, allowing it to compress through impossibly small spaces while remaining capable of exerting crushing force. The central body (mantle) is bulbous and muscular, with two large, prominent eyes set to provide excellent forward and lateral vision. The skin is covered in chromatophores that allow rapid color and pattern changes for camouflage and communication. Eight tentacles radiate from the central body, each lined with powerful suction cups and capable of independent movement and sensation. Each tentacle is functionally an arm with its own sensory organs and a measure of its own judgment. The mouth is a hard, sharp beak capable of piercing bone, and it is surrounded by a funnel used for jet propulsion.
 
 ## Key Behaviors
 
@@ -273,13 +273,13 @@ Giant Octopuses are supremely intelligent creatures that demonstrate problem-sol
 
 ## Combat Strategy
 
-A Giant Octopus uses its intelligence to its absolute advantage. It approaches prey stealthily, using camouflage to remain undetected until the moment of attack. When it strikes, tentacles lash out to grapple and draw prey toward the central body where the beak can deliver lethal damage. If a tentacle is damaged or severed, the octopus shows no hesitation in using the remaining limbs with even greater focus. An octopus in serious trouble releases a cloud of ink to obscure pursuit and retreats into deep water. An octopus defending a lair becomes an absolute terror – it protects its home with cunning and desperation, potentially hunting a threat across considerable distances.
+A Giant Octopus uses its intelligence to its absolute advantage. It approaches prey stealthily, using camouflage to remain undetected until the moment of attack. When it strikes, tentacles lash out to grapple and draw prey toward the central body where the beak can deliver lethal damage. If a tentacle is damaged or severed, the octopus shows no hesitation in using the remaining limbs with even greater focus. An octopus in serious trouble releases a cloud of ink to obscure pursuit and retreats into deep water. An octopus defending a lair becomes an absolute terror—it protects its home with cunning and desperation, potentially hunting a threat across considerable distances.
 
 ## Attack Methods
 
 ### Tentacle Grapple
 
-The powerful tentacles wrap around prey and squeeze with force sufficient to crush bones – the suction cups create a grip that is nearly impossible to break without cutting the tentacle. Multiple tentacles can grapple multiple targets or work together to crush a single victim.
+The powerful tentacles wrap around prey and squeeze with force sufficient to crush bones—the suction cups create a grip that is nearly impossible to break without cutting the tentacle. Multiple tentacles can grapple multiple targets or work together to crush a single victim.
 
 ### Beak Bite
 
@@ -289,19 +289,19 @@ Once prey is held by tentacles, the octopus brings it toward the central body wh
 
 ### Chromatic Camouflage
 
-The octopus can change its color and pattern in seconds to match its surroundings – rocky bottom, sandy floor, or kelp forest. An octopus using this ability requires careful observation to spot even when in open water.
+The octopus can change its color and pattern in seconds to match its surroundings—rocky bottom, sandy floor, or kelp forest. An octopus using this ability requires careful observation to spot even when in open water.
 
 ### Ink Defensive Barrage
 
-When threatened or when escaping, the octopus releases a cloud of jet-black ink from its siphon – this cloud obscures vision, tastes foul to predators, and provides concealment for escape. The ink is thick and clouds water effectively.
+When threatened or when escaping, the octopus releases a cloud of jet-black ink from its siphon—this cloud obscures vision, tastes foul to predators, and provides concealment for escape. The ink is thick and clouds water effectively.
 
 ### Remarkable Intelligence
 
-The octopus demonstrates problem-solving ability unusual in animals – it can learn routes, remember locations, and appear to set traps for prey. It can open containers, manipulate objects, and understand cause-and-effect relationships.
+The octopus demonstrates problem-solving ability unusual in animals—it can learn routes, remember locations, and appear to set traps for prey. It can open containers, manipulate objects, and understand cause-and-effect relationships.
 
 ## Additional Information
 
-A giant octopus territory should be avoided by reasonable people – the potential for profit does not offset the danger. Some fishermen claim that old octopuses develop personalities and preferences, hunting specific ships or harbors with apparent vendetta. An octopus's beak is sometimes harvested for armor reinforcement or carved into jewelry. Some magical practitioners claim the ability to negotiate with octopuses through telepathic means, with mixed results.
+A giant octopus territory should be avoided by reasonable people—the potential for profit does not offset the danger. Some fishermen claim that old octopuses develop personalities and preferences, hunting specific ships or harbors with apparent vendetta. An octopus's beak is sometimes harvested for armor reinforcement or carved into jewelry. Some magical practitioners claim the ability to negotiate with octopuses through telepathic means, with mixed results.
 
 ## Attributes
 

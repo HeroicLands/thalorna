@@ -591,10 +591,10 @@ A senior master of the collegium who holds that a woman on a scaffold shames the
 
 ## Plot Hooks
 
-1. **The Mole** – The assembly is letting the contract for the new harbor mole, the largest work in a generation, and the clerk of works has asked Tamîtha to bid in her own name. The senior master has said the collegium will not seal it.
+1. **The Mole**—The assembly is letting the contract for the new harbor mole, the largest work in a generation, and the clerk of works has asked Tamîtha to bid in her own name. The senior master has said the collegium will not seal it.
 
-2. **The Failed Wall** – A quay wall has slumped into the harbor, and the gang-master whose wall it was has told the assembly that Tamîtha's gang laid the failed course. She did not, and the tide has taken the evidence.
+2. **The Failed Wall**—A quay wall has slumped into the harbor, and the gang-master whose wall it was has told the assembly that Tamîtha's gang laid the failed course. She did not, and the tide has taken the evidence.
 
-3. **The Demagogue** – A speaker in the assembly has taken up the woman mason as a cause, and the crowd is shouting her name at the collegium's doors. She did not ask him to.
+3. **The Demagogue**—A speaker in the assembly has taken up the woman mason as a cause, and the crowd is shouting her name at the collegium's doors. She did not ask him to.
 
-4. **The Sixth Contract** – Tamîtha has five works running and has been offered a sixth, a shipowner's house that must be roofed before his daughter's wedding, and she trusts no one to run any of them but herself.
+4. **The Sixth Contract**—Tamîtha has five works running and has been offered a sixth, a shipowner's house that must be roofed before his daughter's wedding, and she trusts no one to run any of them but herself.

@@ -1,5 +1,5 @@
 ---
-description: "Loose confederation of Nordmen járldoms on Aelwyth's fjord-like northeastern coast – Asguardian-worshipping settlements with strong ties to the Kingdom of Nordheim."
+description: "Loose confederation of Nordmen járldoms on Aelwyth's fjord-like northeastern coast—Asguardian-worshipping settlements with strong ties to the Kingdom of Nordheim."
 type: affiliation
 name:
   full: Járldom of Stormveld
@@ -101,7 +101,7 @@ data:
     kngdmldrth: nemesis
     kingdmdnvr: unaligned
     repblctrvn: unaligned
-terran_analog: "Northeastern Scotland – the fjord-cut Highland coast (Caithness, Sutherland, Orkney-and-Shetland-analog islands), heavily Norse-settled and culturally tied to its kindred kingdom across the cold sea. The northeastern tip of the eastern arm of the inverted-V Aelwythan island."
+terran_analog: "Northeastern Scotland—the fjord-cut Highland coast (Caithness, Sutherland, Orkney-and-Shetland-analog islands), heavily Norse-settled and culturally tied to its kindred kingdom across the cold sea. The northeastern tip of the eastern arm of the inverted-V Aelwythan island."
 packFolder: aelwyth
 ---
 
@@ -113,26 +113,26 @@ The Járldom of Stormveld holds the land of [[place-stormveld|Stormveld]]. The S
 
 The Nordmen of Stormveld worship the [[affiliation-asguardian|Asguardian Pantheon]] gods, speak Nordmal, and maintain strong cultural ties to [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] across the sea.
 
-The High Járl's authority is real but limited – each járl governs his own territory with near-complete autonomy, and the High Járl's primary role is to coordinate defense and settle disputes between the járldoms. Elections for the position are contentious affairs that occasionally descend into armed contests.
+The High Járl's authority is real but limited—each járl governs his own territory with near-complete autonomy, and the High Járl's primary role is to coordinate defense and settle disputes between the járldoms. Elections for the position are contentious affairs that occasionally descend into armed contests.
 
 ## Relations
 
-Relations with the southern Aelwythan kingdoms alternate between uneasy peace and open raiding, depending on the temperament of whoever holds the High Járl's seat. The [[affiliation-kngdmldrth|Kingdom of Aldorath]] bears the brunt of Stormveld's aggression, with the mountain ranges between the two polities serving as a contested frontier. The [[lore-flkkhazar|Khazári]] holds hidden in those same mountains are a source of wonder and occasional tension – the Nordmen respect the Deep Folk's craft but covet the mountain passes they control.
+Relations with the southern Aelwythan kingdoms alternate between uneasy peace and open raiding, depending on the temperament of whoever holds the High Járl's seat. The [[affiliation-kngdmldrth|Kingdom of Aldorath]] bears the brunt of Stormveld's aggression, with the mountain ranges between the two polities serving as a contested frontier. The [[lore-flkkhazar|Khazári]] holds hidden in those same mountains are a source of wonder and occasional tension—the Nordmen respect the Deep Folk's craft but covet the mountain passes they control.
 
 The Stormveld maintains strong connections to [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] across the sea, and warriors and traders move freely between the two. Some járls hold lands on both sides of the water.
 
 ## Commerce and Currency
 
-Járldom of Stormveld uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Járldom of Stormveld is a post-imperial commonwealth member – it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Járldom of Stormveld uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Járldom of Stormveld is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
-- [[place-aelwyth|Aelwyth]] – The island
-- [[place-stormveld|Stormveld]] – The land the Járldom holds
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] – Ancestral homeland
-- [[affiliation-kngdmldrth|Kingdom of Aldorath]] – Southern neighbor and frequent target
-- [[lore-flkkhazar|Khazári]] – Elder race in the northeastern mountains
-- [[affiliation-asguardian|Asguardian Pantheon]] – Pantheon
+- [[place-aelwyth|Aelwyth]]—The island
+- [[place-stormveld|Stormveld]]—The land the Járldom holds
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—Ancestral homeland
+- [[affiliation-kngdmldrth|Kingdom of Aldorath]]—Southern neighbor and frequent target
+- [[lore-flkkhazar|Khazári]]—Elder race in the northeastern mountains
+- [[affiliation-asguardian|Asguardian Pantheon]]—Pantheon
 
 ## The Conquest
 
@@ -145,7 +145,7 @@ The conquest was quick and thorough. The existing population was not driven out;
 and the arrangement has since hardened into the ordinary structure of the country. Of roughly
 **150,000** people in the Jarldom:
 
-- around **30,000 are Nordmen** – the jarl, his housed men, their families and holdings; and
+- around **30,000 are Nordmen**—the jarl, his housed men, their families and holdings; and
 - around **120,000 are native Aelwythan thralls**, worked on the land and holding nothing.
 
 Four in five people in Stormveld are the property of the remaining fifth. The jarls do not describe it
@@ -181,10 +181,9 @@ Jarldom. Stormveld's shipping does not cross to the mainland; it crosses north, 
 Nordmen have always used, and it has never presented itself for inspection.
 
 Dúnavarre permits this because Dúnavarre **is not interested**. The Synod's concern is the channel
-between Aelwyth and the Aurèldían world – the knowledge, the relics and the visitors that come by it –
-and a Nordmen hull carrying iron south and timber north bears on none of it. The mages watch the eastern
+between Aelwyth and the Aurèldían world—the knowledge, the relics and the visitors that come by it—and a Nordmen hull carrying iron south and timber north bears on none of it. The mages watch the eastern
 water and ignore the northern, and the distinction is deliberate rather than conceded.
 
 It does mean the Jarldom is the one realm on the island whose dealings with the outside are nobody's
-business but its own – and it explains why the Jarldom endures. The other realms are islands unto
+business but its own—and it explains why the Jarldom endures. The other realms are islands unto
 themselves. Stormveld has a mainland of its own behind it.

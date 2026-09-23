@@ -167,19 +167,19 @@ sohl:
 
 ![[vprwsp|Vaporwisp]]{float: top-left}
 
-The fog thickens before your eyes, and within it, something moves – or perhaps the mist itself becomes aware. What you see is barely there: a vague shape, a suggestion of form, lit from within with a pale glow. The temperature drops sharply, and your breath mists in the air. When you look directly at the shape, it seems to blur and shift, refusing to resolve into anything concrete. The only certainty is that you are being observed by something that is not quite present.
+The fog thickens before your eyes, and within it, something moves—or perhaps the mist itself becomes aware. What you see is barely there: a vague shape, a suggestion of form, lit from within with a pale glow. The temperature drops sharply, and your breath mists in the air. When you look directly at the shape, it seems to blur and shift, refusing to resolve into anything concrete. The only certainty is that you are being observed by something that is not quite present.
 
 # Dossier {#dossier}
 
-Vaporwisps are creatures of the boundary – beings that exist equally in the material and spirit realms and are at home in neither. They are drawn to places of transition: fog banks, mist-shrouded valleys, the boundaries between forests and clearings, the moments between day and night. Some seem to be lost spirits, unable to fully cross into the next realm. Others are fragments of something larger, pieces of greater entities that have been separated by magic or violence. Most Vaporwisps are not malevolent, but their hunger for substance and their phasing nature make them dangerous regardless. They are curious and often approach humans, seeking something they cannot quite articulate.
+Vaporwisps are creatures of the boundary—beings that exist equally in the material and spirit realms and are at home in neither. They are drawn to places of transition: fog banks, mist-shrouded valleys, the boundaries between forests and clearings, the moments between day and night. Some seem to be lost spirits, unable to fully cross into the next realm. Others are fragments of something larger, pieces of greater entities that have been separated by magic or violence. Most Vaporwisps are not malevolent, but their hunger for substance and their phasing nature make them dangerous regardless. They are curious and often approach humans, seeking something they cannot quite articulate.
 
 ## Presentation
 
-A Vaporwisp is a shape without clear definition, a roughly humanoid form composed of mist and fog held together by some force that humans do not understand. It is roughly five to seven feet tall when fully manifested, but its exact size and boundaries are constantly shifting. Its body is semi-transparent, and light passes through it in strange ways. The only clear features are eyes – two points of pale luminescence within the mist, intelligent and aware. The creature has no mouth, no nose, no features other than those eyes, yet somehow it seems to express intention and emotion. Where it passes, fog deepens and the temperature drops precipitously. It makes no sound unless it deliberately moves matter – the air does not part before it, footsteps do not mark its passage.
+A Vaporwisp is a shape without clear definition, a roughly humanoid form composed of mist and fog held together by some force that humans do not understand. It is roughly five to seven feet tall when fully manifested, but its exact size and boundaries are constantly shifting. Its body is semi-transparent, and light passes through it in strange ways. The only clear features are eyes—two points of pale luminescence within the mist, intelligent and aware. The creature has no mouth, no nose, no features other than those eyes, yet somehow it seems to express intention and emotion. Where it passes, fog deepens and the temperature drops precipitously. It makes no sound unless it deliberately moves matter—the air does not part before it, footsteps do not mark its passage.
 
 ## Key Behaviors
 
-Vaporwisps are most active during times when the boundary between realms is thin – at dawn and dusk, in heavy fog, during storms, or in places touched by recent death or magic. They are drawn to water, mist, and cold places, and seem to avoid sunlight and heat. They are curious but cautious, often observing humans for days before approaching. When they interact, their intentions are sometimes protective and sometimes harmful, and they seem unable to understand that their cold touch causes pain. They do not hunt; they seem to simply drift and observe. However, if threatened or trapped, they become desperate and dangerous.
+Vaporwisps are most active during times when the boundary between realms is thin—at dawn and dusk, in heavy fog, during storms, or in places touched by recent death or magic. They are drawn to water, mist, and cold places, and seem to avoid sunlight and heat. They are curious but cautious, often observing humans for days before approaching. When they interact, their intentions are sometimes protective and sometimes harmful, and they seem unable to understand that their cold touch causes pain. They do not hunt; they seem to simply drift and observe. However, if threatened or trapped, they become desperate and dangerous.
 
 ## Combat Strategy
 
@@ -207,7 +207,7 @@ The Vaporwisp can shift into a nearly pure fog form, becoming almost invisible e
 
 ### Phase Shift
 
-The Vaporwisp can move partially out of synchronization with the material world, allowing it to pass through solid objects. Stone, wood, metal – all are transparent to the phasing creature. However, it cannot move through blessed ground or areas sealed by religious wards.
+The Vaporwisp can move partially out of synchronization with the material world, allowing it to pass through solid objects. Stone, wood, metal—all are transparent to the phasing creature. However, it cannot move through blessed ground or areas sealed by religious wards.
 
 ### Chilling Aura
 
@@ -215,7 +215,7 @@ The creature radiates a deep cold that extends up to thirty feet in all directio
 
 ### Life Drain
 
-When the Vaporwisp makes successful contact with living flesh, it draws warmth and vitality from the victim. This goes beyond mere cold – the victim feels as though something fundamental is being pulled away, leaving them weakened and diminished.
+When the Vaporwisp makes successful contact with living flesh, it draws warmth and vitality from the victim. This goes beyond mere cold—the victim feels as though something fundamental is being pulled away, leaving them weakened and diminished.
 
 ## Additional Information
 

@@ -3,7 +3,7 @@ tags:
   - village
   - woodland
   - sacred
-description: "The Sinalë enclave of the Silver Forests – the longest-standing of the three, seated near the At'aan Wyrd and closer to the Áelendan than any Sinalëan community elsewhere in the world."
+description: "The Sinalë enclave of the Silver Forests—the longest-standing of the three, seated near the At'aan Wyrd and closer to the Áelendan than any Sinalëan community elsewhere in the world."
 type: place
 subType: settlement
 data:
@@ -28,13 +28,13 @@ have for longer than there has been a kingdom of Élavendre to be unaware of it.
 It is not a settlement in any sense a human surveyor would accept. There are no streets and no walls;
 there are dwellings worked into and around the living silver birch over the course of centuries, a
 water-court, and a great deal of open ground that is plainly tended and not plainly cultivated. It is
-protected the way every Sinalë enclave is protected – not by force, but because the paths that lead to
+protected the way every Sinalë enclave is protected—not by force, but because the paths that lead to
 Aelirossë have a way of leading elsewhere.
 
 ## The Nearest Neighbors
 
 Aelirossë is the closest that Sinalë and humans live to one another anywhere in Thalorna, and the
-relationship with the surrounding Áelendan is **genuinely cordial** – not an alliance, which would
+relationship with the surrounding Áelendan is **genuinely cordial**—not an alliance, which would
 imply purposes held in common, but a long neighborliness between peoples who share a wood and have had
 many centuries to work out how.
 

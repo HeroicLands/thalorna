@@ -596,7 +596,7 @@ sohl:
 
 ![[cvtrll|Cave Troll]]{float: top-left}
 
-The darkness moves. A shape detaches itself from the shadows of the cave wall – pale, skeletal, impossibly tall. You smell something wild and foul, something ancient and wrong. Then you hear it: a wet, rhythmic breathing that echoes off stone, and the scrape of something sharp – claws, many of them – dragging across rock. Its eyes catch the faint light like mirrors, tiny and bright with hunger, and it smiles. The mouth is too wide.
+The darkness moves. A shape detaches itself from the shadows of the cave wall—pale, skeletal, impossibly tall. You smell something wild and foul, something ancient and wrong. Then you hear it: a wet, rhythmic breathing that echoes off stone, and the scrape of something sharp—claws, many of them—dragging across rock. Its eyes catch the faint light like mirrors, tiny and bright with hunger, and it smiles. The mouth is too wide.
 
 # Dossier {#dossier}
 
@@ -604,11 +604,11 @@ Cave trolls are monstrous apex predators of deep cavern systems and underground 
 
 ## Presentation
 
-The Cave Troll stands between ten and twelve feet tall, its body an exaggeration of predatory form. Its skin is pale, almost translucent in places, with a faintly luminescent sheen – blue-white and veined with darkly discolored areas suggesting corruption. The creature's limbs are long and disproportionately thin relative to its torso, ending in hands with four elongated fingers tipped in curved, razor-sharp claws. Its head is elongated and angular, with a jaw that extends unnaturally far and teeth – rows of them, serrated and wickedly pointed – that never fully close. Its eyes are small, bright, and pupilless, glowing faintly with bioluminescence. The creature produces a constant wet, rattling breathing and the sound of claws dragging against stone as it moves.
+The Cave Troll stands between ten and twelve feet tall, its body an exaggeration of predatory form. Its skin is pale, almost translucent in places, with a faintly luminescent sheen—blue-white and veined with darkly discolored areas suggesting corruption. The creature's limbs are long and disproportionately thin relative to its torso, ending in hands with four elongated fingers tipped in curved, razor-sharp claws. Its head is elongated and angular, with a jaw that extends unnaturally far and teeth—rows of them, serrated and wickedly pointed—that never fully close. Its eyes are small, bright, and pupilless, glowing faintly with bioluminescence. The creature produces a constant wet, rattling breathing and the sound of claws dragging against stone as it moves.
 
 ## Key Behaviors
 
-The Cave Troll is a solitary stalker of cavern passages, claiming vast underground territories as hunting grounds. It dwells in the deepest parts of cave systems where light never penetrates, resting in concealed caverns and hunting along established routes where prey gathers. The creature has an almost supernatural ability to track prey by scent and sound alone; it hunts methodically, following prey through passages and waiting for opportunity. It exhibits territorial behavior, attacking any large creature that enters its domain. When successful in a hunt, it drags prey back to its lair to feed. It shows no interest in hoarding or collecting – only hunting and feeding.
+The Cave Troll is a solitary stalker of cavern passages, claiming vast underground territories as hunting grounds. It dwells in the deepest parts of cave systems where light never penetrates, resting in concealed caverns and hunting along established routes where prey gathers. The creature has an almost supernatural ability to track prey by scent and sound alone; it hunts methodically, following prey through passages and waiting for opportunity. It exhibits territorial behavior, attacking any large creature that enters its domain. When successful in a hunt, it drags prey back to its lair to feed. It shows no interest in hoarding or collecting—only hunting and feeding.
 
 ## Combat Strategy
 
@@ -622,7 +622,7 @@ The troll slashes viciously with its fore-claws, attempting to tear through armo
 
 ### Terrible Bite
 
-The troll lunges with its oversized jaw, attempting to seize and crush prey or tear away entire limbs. This bite does devastating harm and – if the creature successfully grapples with prey – can be held while the troll shakes and worries the victim.
+The troll lunges with its oversized jaw, attempting to seize and crush prey or tear away entire limbs. This bite does devastating harm and—if the creature successfully grapples with prey—can be held while the troll shakes and worries the victim.
 
 ### Shocking Roar
 
@@ -644,7 +644,7 @@ The Cave Troll's thin frame allows it to navigate tight cavern passages that wou
 
 ## Additional Information
 
-Cave trolls fear sunlight more than any other force – extended exposure to bright daylight can weaken and eventually kill them. They also show unusual vulnerability to fire, which prevents regeneration entirely as long as it's sustained. Most cave troll lairs are marked by the bones and torn armor of previous meals, creating a distinctive and disturbing sign. Some very old lairs have become cavern ossuaries of immense depth.
+Cave trolls fear sunlight more than any other force—extended exposure to bright daylight can weaken and eventually kill them. They also show unusual vulnerability to fire, which prevents regeneration entirely as long as it's sustained. Most cave troll lairs are marked by the bones and torn armor of previous meals, creating a distinctive and disturbing sign. Some very old lairs have become cavern ossuaries of immense depth.
 
 ## Attributes
 

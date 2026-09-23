@@ -25,7 +25,7 @@ sohl:
 packFolder: elixirs
 ---
 
-A clear, perfectly transparent elixir that tastes of silvery metal and old words, bound to the Principle of Incantation (Neutral). This elixir grants the drinker a second chance against magical failure. When a Spellcasting or Invocation Roll fails – whether a standard Failure or a Critical Failure – the imbiber makes a d10 roll against a Target Number equal to their current Aural Shock. If successful, the failed spell or talent's success level increases by one, potentially salvaging disaster into ordinary success or turning a critical failure into merely a miscast.
+A clear, perfectly transparent elixir that tastes of silvery metal and old words, bound to the Principle of Incantation (Neutral). This elixir grants the drinker a second chance against magical failure. When a Spellcasting or Invocation Roll fails—whether a standard Failure or a Critical Failure—the imbiber makes a d10 roll against a Target Number equal to their current Aural Shock. If successful, the failed spell or talent's success level increases by one, potentially salvaging disaster into ordinary success or turning a critical failure into merely a miscast.
 
 Note that Formfix offers no benefit to successful rolls; only failed magic can be redeemed. Each successful redemption costs Aural Shock 1, in addition to the monthly Decay Roll loss. A mage who imbibes Formfix before attempting a risky incantation reports a strange sensation of words rearranging themselves in their mouth, fragments of power reassembling at the last moment.
 

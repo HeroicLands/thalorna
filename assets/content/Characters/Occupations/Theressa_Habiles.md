@@ -566,7 +566,7 @@ Thêrèssa is warm, patient and watchful, and gives more than she can afford to 
 
 ### Motivation
 
-Thêrèssa wants her children fed, clothed and clear of the trade that feeds them. Behind that is a smaller, fiercer hope of a way out for herself – a household to serve in, a shop to keep, anything that is not this.
+Thêrèssa wants her children fed, clothed and clear of the trade that feeds them. Behind that is a smaller, fiercer hope of a way out for herself—a household to serve in, a shop to keep, anything that is not this.
 
 ### Strengths
 
@@ -580,7 +580,7 @@ Thêrèssa belongs to no guild or house and works independently.
 
 ### Patrons
 
-Thêrèssa's patrons are the men who come to her rooms – students, clerks, minor tradesmen – and she offers them warmth and kindness as much as anything else. Two or three of the older ones pay for an evening's talk and a meal.
+Thêrèssa's patrons are the men who come to her rooms—students, clerks, minor tradesmen—and she offers them warmth and kindness as much as anything else. Two or three of the older ones pay for an evening's talk and a meal.
 
 ### Enemies
 
@@ -588,10 +588,10 @@ The decency officers of the market ward, who are paid to leave her alone and may
 
 ## Plot Hooks
 
-1. **A Place in a Household** – A hetaira of the Silver Veil has offered Thêrèssa a place as housekeeper: honest work, a roof for the children, and a mistress whose own trade is the one Thêrèssa is trying to leave.
+1. **A Place in a Household**—A hetaira of the Silver Veil has offered Thêrèssa a place as housekeeper: honest work, a roof for the children, and a mistress whose own trade is the one Thêrèssa is trying to leave.
 
-2. **The Kin** – Her husband's brother has petitioned the assembly for custody of the children, on the grounds of their mother's trade. Thêrèssa has no one to speak for her.
+2. **The Kin**—Her husband's brother has petitioned the assembly for custody of the children, on the grounds of their mother's trade. Thêrèssa has no one to speak for her.
 
-3. **A Regular** – One of the men who pays for her evenings has begun to talk of marriage, and of the children as his. He is kind, he has a wife and household already in another city, and Thêrèssa has begun to suspect it.
+3. **A Regular**—One of the men who pays for her evenings has begun to talk of marriage, and of the children as his. He is kind, he has a wife and household already in another city, and Thêrèssa has begun to suspect it.
 
-4. **The Purge** – The assembly has resolved to clear the market ward of vice before a festival. The decency officers have a list, Thêrèssa is on it, and the fine is more than a year's rent.
+4. **The Purge**—The assembly has resolved to clear the market ward of vice before a festival. The decency officers have a list, Thêrèssa is on it, and the fine is more than a year's rent.

@@ -3,7 +3,7 @@ tags:
   - mountain
   - frontier
   - inland
-description: "The last three hundred miles of the Grazian range, where the wall comes apart into dry foothills above the Dunhari desert-margin – the one stretch a caravan crosses without a guide."
+description: "The last three hundred miles of the Grazian range, where the wall comes apart into dry foothills above the Dunhari desert-margin—the one stretch a caravan crosses without a guide."
 type: place
 subType: feature
 data:
@@ -28,7 +28,7 @@ There is no pass here, because none is needed. The march road goes round the ran
 
 The road is the whole significance of the Descent. West it runs to the Dunhari oases and the desert emporia; east it drops into the Vedyari marches and the river country beyond. Salt, horses and hides come east; cotton, worked metal and grain go west; and in a lean season on the sand the [[affiliation-dunhartrbs|Dunhara tribes]] come east too, in numbers, which is why the march is held by a kingdom rather than by a janapada.
 
-Four centuries ago the whole of a steppe host came down this way – round the range's end, not over it – swept the north-western marches, and went on west across the desert until it reached the Sultanate's walls from the wrong side. The road has not moved since.
+Four centuries ago the whole of a steppe host came down this way—round the range's end, not over it—swept the north-western marches, and went on west across the desert until it reached the Sultanate's walls from the wrong side. The road has not moved since.
 
 ## Uplands and Edge-Towns
 

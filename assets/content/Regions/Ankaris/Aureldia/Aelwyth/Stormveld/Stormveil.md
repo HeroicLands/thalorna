@@ -3,7 +3,7 @@ tags:
   - town
   - port
   - coastal
-description: "The jarl's seat in Nordmen-held Stormveld – a hall on the height, a harbor facing north, and the thrall quarters below."
+description: "The jarl's seat in Nordmen-held Stormveld—a hall on the height, a harbor facing north, and the thrall quarters below."
 type: place
 subType: settlement
 data:
@@ -23,7 +23,7 @@ packFolder: aelwyth
 coast of Aelwyth, facing the water the Nordmen came over sixty years ago and still use.
 
 It is not a city and does not aspire to be one. Six thousand people: the jarl's hall on the height, the
-houses of his sworn men about it, the harbor below, and – down the slope and set apart – the quarters
+houses of his sworn men about it, the harbor below, and—down the slope and set apart—the quarters
 of the thralls who do the work.
 
 ## The Hall and the Harbor
@@ -32,7 +32,7 @@ Everything that matters in Stormveld is decided in the hall, and the hall is a N
 conducted in the Nordmen manner: the jarl, his sworn men, the drinking and the giving, disputes settled
 in front of everybody. Aelwythan forms have not been adopted and are not admired.
 
-The harbor is the Jarldom's connection to the [[place-nrdlndsrgn|Nordlands]] – which is to say to the
+The harbor is the Jarldom's connection to the [[place-nrdlndsrgn|Nordlands]]—which is to say to the
 world it actually belongs to. Timber, hides and thrall-worked produce go north; iron, ships, men and
 quarrels come south. Nothing calls at [[place-ravenmoor|Ravenmoor]] and nothing is inspected, the Synod
 having no interest in northern traffic.

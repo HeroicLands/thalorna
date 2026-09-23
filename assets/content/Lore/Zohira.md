@@ -4,7 +4,7 @@ tags:
   - religion
 type: lore
 subType: spirit
-description: "The intermediary spirits of the Okháric world – emissaries of the Eternal Flame, tied to fertility, storms, rivers, death and the hunt, and dealt with at cairns rather than in temples."
+description: "The intermediary spirits of the Okháric world—emissaries of the Eternal Flame, tied to fertility, storms, rivers, death and the hunt, and dealt with at cairns rather than in temples."
 name:
   full: Zohira
   aliases:
@@ -14,7 +14,7 @@ shortcode: zohira
 packFolder: settinglore
 ---
 
-Between [[affiliation-nkaruthar|Nkaru'thar]] and the mortal world stand the **zohira** – demi-gods
+Between [[affiliation-nkaruthar|Nkaru'thar]] and the mortal world stand the **zohira**—demi-gods
 or intermediary spirits tied to specific aspects of life such as fertility, storms, rivers, death,
 and the hunt. Their shrines are scattered across the kingdom, from the pyramidal complexes of the
 city-states to simple stone cairns in tribal territories.
@@ -35,12 +35,12 @@ received among them; an Okháric is of the spirits from birth, the way they are 
 kin. There is no membership, so there is nothing to leave.
 
 **The Flame is worshipped.** It is a deity, with doctrine to assent to, temples, an ordained
-priesthood and a hierarchy – a religion that arrived among people who already had their cairns and
+priesthood and a hierarchy—a religion that arrived among people who already had their cairns and
 did not displace them.
 
 The asymmetry has a sharp consequence: because the Flame is professed, it can be professed
 otherwise. An Okháric who takes up a foreign god has not left the zohira and has not stopped being
-Okháric – only declined the Flame. In the tribal country that is an eccentricity. In the
+Okháric—only declined the Flame. In the tribal country that is an eccentricity. In the
 city-states, where the Overlord is titled Keeper of the Three Flames, it is close enough to treason
 that the distinction is rarely worth arguing. It is done. It is not often done twice.
 
@@ -51,7 +51,7 @@ Tension arises between the formalized hierarchy and the outlying tribes from tim
 is a tension about precedence and resources, never about whether the other is true.
 
 Foreign observers find this incomprehensible and record it as confusion. Okhárics find the
-confusion itself odd – to them it is not two beliefs held awkwardly together but the natural order
+confusion itself odd—to them it is not two beliefs held awkwardly together but the natural order
 of things, and the question of which one is _really_ believed has no answer because it has no
 purchase.
 
@@ -73,7 +73,7 @@ events, and neither defers.
   which choose their own bearers. Where the temple would appoint, the blade decides, and the temple
   has never found a way to say the blade is wrong.
 - **Rank.** A High Pyremant outranks every priest in Okháris and does not outrank a shaman, because
-  they are not on the same ladder at all – which means there is no procedure for what happens when
+  they are not on the same ladder at all—which means there is no procedure for what happens when
   the two disagree in a frontier village, and there never has been.
 
 _"How can you possibly believe both? They contradict!"_ is the outsider's objection, and it is
@@ -119,6 +119,6 @@ known across the Okháric country.
 
 ## See Also
 
-- [[affiliation-njiayaroho|Njia ya Roho]] – the shamanic tradition that deals with them
-- [[affiliation-nkaruthar|Nkaru'thar]] – the Eternal Flame whose emissaries they are
-- [[lore-thekindred|The Kindred]] – the Áelendan parallel, territorial where these are domanial
+- [[affiliation-njiayaroho|Njia ya Roho]]—the shamanic tradition that deals with them
+- [[affiliation-nkaruthar|Nkaru'thar]]—the Eternal Flame whose emissaries they are
+- [[lore-thekindred|The Kindred]]—the Áelendan parallel, territorial where these are domanial

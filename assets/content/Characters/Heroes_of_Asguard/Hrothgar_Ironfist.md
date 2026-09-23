@@ -521,7 +521,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Hrothgar stands 6'1" with a massive, heavily muscled frame, weighing around 240 pounds. His fair skin is mottled with old burn scars that web his arms and chest, and a deep wound scar runs from his left shoulder to his hip – a souvenir of the stone giants' war. His dark brown hair is cropped close, streaked with premature gray. His brown eyes are steady and appraising, the eyes of a man who measures everything he sees. His features are broad and blunt, with a heavy brow, a nose broken and reset more than once, a square jaw, and massive hands covered in heavy calluses from decades at the forge. Hrothgar wears a leather blacksmith's apron over mail when working, and full battle gear when he expects trouble. His warhammer – the same one he forged for the giant battle – hangs at his side, its head faintly glowing when enemies draw near.
+Hrothgar stands 6'1" with a massive, heavily muscled frame, weighing around 240 pounds. His fair skin is mottled with old burn scars that web his arms and chest, and a deep wound scar runs from his left shoulder to his hip—a souvenir of the stone giants' war. His dark brown hair is cropped close, streaked with premature gray. His brown eyes are steady and appraising, the eyes of a man who measures everything he sees. His features are broad and blunt, with a heavy brow, a nose broken and reset more than once, a square jaw, and massive hands covered in heavy calluses from decades at the forge. Hrothgar wears a leather blacksmith's apron over mail when working, and full battle gear when he expects trouble. His warhammer—the same one he forged for the giant battle—hangs at his side, its head faintly glowing when enemies draw near.
 
 # Dossier {#dossier}
 
@@ -533,11 +533,11 @@ The saga of Hrothgar Ironfist is one of endurance and relentless fury. When an a
 
 ### Personality
 
-Hrothgar is stoic and practical, a man who measures the world by what can be built and what must be destroyed. He speaks plainly and has no patience for flattery or deception. At the forge he is meticulous and patient; in battle he is terrifyingly efficient. He expresses affection through craftsmanship – a well-made blade gifted to a friend says more than any words he could muster. He carries deep scars, both physical and emotional, from his near-death experience, and sometimes stares into flames for hours, lost in memory.
+Hrothgar is stoic and practical, a man who measures the world by what can be built and what must be destroyed. He speaks plainly and has no patience for flattery or deception. At the forge he is meticulous and patient; in battle he is terrifyingly efficient. He expresses affection through craftsmanship—a well-made blade gifted to a friend says more than any words he could muster. He carries deep scars, both physical and emotional, from his near-death experience, and sometimes stares into flames for hours, lost in memory.
 
 ### Motivation
 
-Hrothgar seeks to create a weapon worthy of Súrtr himself – a masterwork that will stand as his legacy long after his death. He believes that the fire of creation and the fire of destruction are the same flame, and that a true smith must understand both. The wounds from his battle with the stone giants never fully healed, and he knows his time as a warrior is limited, which drives him to work with increasing urgency.
+Hrothgar seeks to create a weapon worthy of Súrtr himself—a masterwork that will stand as his legacy long after his death. He believes that the fire of creation and the fire of destruction are the same flame, and that a true smith must understand both. The wounds from his battle with the stone giants never fully healed, and he knows his time as a warrior is limited, which drives him to work with increasing urgency.
 
 ### Strengths
 
@@ -549,20 +549,20 @@ Hrothgar's smithing skill is legendary; weapons and armor from his forge are pri
 
 ### Patrons
 
-**The Smiths' Brotherhood of Nordheim** – A guild of master craftsmen who revere Hrothgar as the finest smith of his generation. They provide him with rare materials and commissions.
+**The Smiths' Brotherhood of Nordheim**—A guild of master craftsmen who revere Hrothgar as the finest smith of his generation. They provide him with rare materials and commissions.
 
-**Jarl Thorvald Embersteel** – The same lord who patronizes Eldgrimr also values Hrothgar for his smithing; the jarl's household guard bears Hrothgar's arms and armor.
+**Jarl Thorvald Embersteel**—The same lord who patronizes Eldgrimr also values Hrothgar for his smithing; the jarl's household guard bears Hrothgar's arms and armor.
 
 ### Enemies
 
-**The Stone Giant remnants** – Survivors of the army Hrothgar defeated have placed a blood price on his head. They send raiding parties to destroy his forge and everything he has built.
+**The Stone Giant remnants**—Survivors of the army Hrothgar defeated have placed a blood price on his head. They send raiding parties to destroy his forge and everything he has built.
 
-**Kolbjorn the Envious** – A rival blacksmith who has spread rumors that Hrothgar's work is enchanted through forbidden rituals rather than genuine skill, hoping to discredit him and steal his clients.
+**Kolbjorn the Envious**—A rival blacksmith who has spread rumors that Hrothgar's work is enchanted through forbidden rituals rather than genuine skill, hoping to discredit him and steal his clients.
 
 ## Plot Hooks
 
-1. **The Masterwork** – Hrothgar has located a vein of star-metal deep in giant territory that could allow him to forge his ultimate creation. He needs an escort to reach the deposit and protect him while he works.
+1. **The Masterwork**—Hrothgar has located a vein of star-metal deep in giant territory that could allow him to forge his ultimate creation. He needs an escort to reach the deposit and protect him while he works.
 
-2. **The Forge-Curse** – Someone has placed a curse on Hrothgar's forge, causing every weapon he creates to shatter within days. The culprit could be Kolbjorn, the stone giants, or something far more sinister.
+2. **The Forge-Curse**—Someone has placed a curse on Hrothgar's forge, causing every weapon he creates to shatter within days. The culprit could be Kolbjorn, the stone giants, or something far more sinister.
 
-3. **The Last Battle** – Hrothgar's old wounds are worsening, and a healer has told him he has months to live. He seeks one final battle worthy of a servant of Súrtr – a death in fire and glory rather than a slow fade.
+3. **The Last Battle**—Hrothgar's old wounds are worsening, and a healer has told him he has months to live. He seeks one final battle worthy of a servant of Súrtr—a death in fire and glory rather than a slow fade.

@@ -592,12 +592,12 @@ None; generally well-liked in the community.
 
 ## Plot Hooks
 
-1. **The Jeweler's Dilemma** – Edith faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
+1. **The Jeweler's Dilemma**—Edith faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 
-2. **Old Grudges** – None; generally well-liked in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges**—None; generally well-liked in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** – Something from Edith's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Edith's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds** – Political changes in Aelwyth threaten to upend the social order that Edith depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Edith depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** – A chance encounter offers Edith the possibility of advancement beyond anything she has dared hope for – but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Edith the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

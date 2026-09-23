@@ -27,4 +27,4 @@ Built on rich deposits of iron, copper, and semi-precious stones in the mountain
 
 Its forges burn day and night, producing everything from fine jewelry to military-grade weapons.
 
-The surrounding mountains are riddled with mines, and the roads leading out of Karataş are perpetually clogged with ore wagons heading in and finished goods heading out. The city's famous black stone – a dark basalt from local quarries – gives the city its name and its distinctive appearance: dark-walled and sturdy, built to endure.
+The surrounding mountains are riddled with mines, and the roads leading out of Karataş are perpetually clogged with ore wagons heading in and finished goods heading out. The city's famous black stone—a dark basalt from local quarries—gives the city its name and its distinctive appearance: dark-walled and sturdy, built to endure.

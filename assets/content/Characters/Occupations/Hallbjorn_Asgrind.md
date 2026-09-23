@@ -593,12 +593,12 @@ None; respected by the local community.
 
 ## Plot Hooks
 
-1. **The Huntsman's Dilemma** – Poachers thin the lord's game, and Hallbjörn has to choose between reporting men he knows and failing the lord he serves.
+1. **The Huntsman's Dilemma**—Poachers thin the lord's game, and Hallbjörn has to choose between reporting men he knows and failing the lord he serves.
 
-2. **Old Grudges** – Hallbjörn has no known enemies, so a grudge against him would come from outside the community that respects him.
+2. **Old Grudges**—Hallbjörn has no known enemies, so a grudge against him would come from outside the community that respects him.
 
-3. **Echoes of the Past** – Something from Hallbjörn's earlier life resurfaces and follows him onto the lord's grounds.
+3. **Echoes of the Past**—Something from Hallbjörn's earlier life resurfaces and follows him onto the lord's grounds.
 
-4. **Shifting Winds** – Political change in Nordheim threatens the manor Hallbjörn depends upon, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Nordheim threatens the manor Hallbjörn depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity** – Another lord offers Hallbjörn the mastery of a greater hunt than Ashenwood's, and the price of leaving Lord Gwendolyn is not named up front.
+5. **The Opportunity**—Another lord offers Hallbjörn the mastery of a greater hunt than Ashenwood's, and the price of leaving Lord Gwendolyn is not named up front.

@@ -24,7 +24,7 @@ Khaset is the capital of [[affiliation-nomekhstmn|the Nome of Khaset-Imnt]] and 
 
 ## See Also
 
-- [[affiliation-nomekhstmn|The Nome of Khaset-Imnt]] – Parent nome
-- [[affiliation-bordernoms|The Border Nomes]] – Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview
-- [[affiliation-ra|Rā]] – Patron cult
+- [[affiliation-nomekhstmn|The Nome of Khaset-Imnt]]—Parent nome
+- [[affiliation-bordernoms|The Border Nomes]]—Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
+- [[affiliation-ra|Rā]]—Patron cult

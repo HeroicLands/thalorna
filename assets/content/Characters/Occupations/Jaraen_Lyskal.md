@@ -590,10 +590,10 @@ The importing houses that bring in Vylarian turned toys through Belpòrte and se
 
 ## Plot Hooks
 
-1. **The Peer's Child** – A Peer's small daughter has refused every toy in the palace but one of Járaen's, and the Peer's steward has come to order a dozen more by the feast. Járaen has never made a dozen of anything.
+1. **The Peer's Child**—A Peer's small daughter has refused every toy in the palace but one of Járaen's, and the Peer's steward has come to order a dozen more by the feast. Járaen has never made a dozen of anything.
 
-2. **The Procession** – A collector has commissioned a complete model of the Crown's coronation procession, with a figure for every officer, and the Crown's chamberlain has let it be known that certain officers are not to be included.
+2. **The Procession**—A collector has commissioned a complete model of the Crown's coronation procession, with a figure for every officer, and the Crown's chamberlain has let it be known that certain officers are not to be included.
 
-3. **The Copy** – Járaen's jointed fox is being sold in the market in twenty copies, badly carved, under her grandfather's mark.
+3. **The Copy**—Járaen's jointed fox is being sold in the market in twenty copies, badly carved, under her grandfather's mark.
 
-4. **The Rent** – The workshop's landlord has doubled the rent for the harbor quarter, and Járaen has a season's stock she cannot sell and an apprentice she cannot pay.
+4. **The Rent**—The workshop's landlord has doubled the rent for the harbor quarter, and Járaen has a season's stock she cannot sell and an apprentice she cannot pay.

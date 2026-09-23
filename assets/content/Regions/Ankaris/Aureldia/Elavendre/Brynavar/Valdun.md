@@ -4,7 +4,7 @@ tags:
   - fortified
   - hill
   - frontier
-description: "The walled town that anchors Élavendre's eastern march – muster point of the hill levy, market of the drove roads, and the place the raiding has to get past."
+description: "The walled town that anchors Élavendre's eastern march—muster point of the hill levy, market of the drove roads, and the place the raiding has to get past."
 type: place
 subType: settlement
 data:
@@ -32,7 +32,7 @@ market as well as the houses; the stock pens are inside it; the gates are shut a
 routine rather than alarm; and every outlying steading within a day's drive knows which road it runs
 to.
 
-The **hill levy** musters here. It is not a noble force and does not pretend to be – drovers,
+The **hill levy** musters here. It is not a noble force and does not pretend to be—drovers,
 foresters, smiths and their sons, mounted on Brynavar ponies, who have done this before and expect to
 do it again. Its officers are local men. Its opinion of the court's cavalry is unprintable, and its
 record against Varokh war-parties and [[lore-grukarfolk|Grukar]] bands is better.

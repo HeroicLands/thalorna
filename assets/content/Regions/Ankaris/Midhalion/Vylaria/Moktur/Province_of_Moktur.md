@@ -1,5 +1,5 @@
 ---
-description: "The mountainous northern shield of the Vylarian Empire – a hard frontier province of mines, timber, and fortified garrisons guarding the Vrystwald march, governed by semi-autonomous military lords and home to a hybrid Vylarian–Varokh border culture."
+description: "The mountainous northern shield of the Vylarian Empire—a hard frontier province of mines, timber, and fortified garrisons guarding the Vrystwald march, governed by semi-autonomous military lords and home to a hybrid Vylarian–Varokh border culture."
 type: affiliation
 name:
   full: Province of Moktur
@@ -34,7 +34,7 @@ data:
         title: Peregrine
         lore: rsdntlnrnk
         description: >-
-          A provincial living under imperial authority without the citizenship – the great majority
+          A provincial living under imperial authority without the citizenship—the great majority
           of the empire's people.
       - level: 4
         title: Citizen
@@ -107,19 +107,19 @@ packFolder: vylaria
 
 ## Overview
 
-Moktur is the empire's northern shield – a mountainous province bordering the [[place-vrystwald|Vrystwald]], responsible for defending the frontier against Varokh raids and incursions. Its military governors command significant autonomy, and some function as semi-independent warlords whose loyalty to the capital is a matter of convenience as much as conviction. The Province of Moktur holds the land of [[place-moktur|Moktur]].
+Moktur is the empire's northern shield—a mountainous province bordering the [[place-vrystwald|Vrystwald]], responsible for defending the frontier against Varokh raids and incursions. Its military governors command significant autonomy, and some function as semi-independent warlords whose loyalty to the capital is a matter of convenience as much as conviction. The Province of Moktur holds the land of [[place-moktur|Moktur]].
 
 ## Character
 
 Moktur is the most martial province of the empire.
 
-The people of Moktur are proud, self-reliant, and faintly contemptuous of the soft southerners in [[affiliation-provinclys|Alyssa]] and [[affiliation-provnchyln|Hylen]]. Military service is not just honored – it is expected. The province produces the empire's best soldiers, and its legions are the most battle-tested in the Vylarian military.
+The people of Moktur are proud, self-reliant, and faintly contemptuous of the soft southerners in [[affiliation-provinclys|Alyssa]] and [[affiliation-provnchyln|Hylen]]. Military service is not just honored—it is expected. The province produces the empire's best soldiers, and its legions are the most battle-tested in the Vylarian military.
 
 The frontier with [[place-vrystwald|Vrystwald]] is not a clean line. There are Varokh communities within Moktur's nominal borders, and some Mokturan border lords have more in common with the barbarian chiefs across the line than with the senators in the capital. Intermarriage, trade, and occasional truces create a complex border culture that neither side fully controls.
 
 ## Economy
 
-The province also profits from the overland trade routes that pass through its mountain passes – tolls and customs duties are a major source of revenue for the military governors.
+The province also profits from the overland trade routes that pass through its mountain passes—tolls and customs duties are a major source of revenue for the military governors.
 
 ## Notable Features
 
@@ -128,7 +128,7 @@ The province also profits from the overland trade routes that pass through its m
 
 ## For the Worldbuilder
 
-Moktur is the wild end of the empire: mountains, forested hills, fast cold rivers, and a short hard growing season. This is the province for mines, logging, hunting, and frontier soldiering – and the one place inside the empire where the wilderness, and the people who live by it, are genuinely beyond the capital's reach. Power is held by the military governors and border-lords, some little better than warlords, whose loyalty to Magnápolis is a matter of convenience. Adventure here is frontier adventure: raids and reprisals across the Vrystwald march, feuds between border-lords, contested mining claims, smuggling over the passes, monsters and Varokh war-bands in the high country, and the murky politics of a half-Vylarian, half-barbarian borderland. What is abundant is metal, timber, game, and danger; what is scarce is imperial authority, soft living, and trust. A settlement here is walled, watchful, and loyal first to whoever can defend it.
+Moktur is the wild end of the empire: mountains, forested hills, fast cold rivers, and a short hard growing season. This is the province for mines, logging, hunting, and frontier soldiering—and the one place inside the empire where the wilderness, and the people who live by it, are genuinely beyond the capital's reach. Power is held by the military governors and border-lords, some little better than warlords, whose loyalty to Magnápolis is a matter of convenience. Adventure here is frontier adventure: raids and reprisals across the Vrystwald march, feuds between border-lords, contested mining claims, smuggling over the passes, monsters and Varokh war-bands in the high country, and the murky politics of a half-Vylarian, half-barbarian borderland. What is abundant is metal, timber, game, and danger; what is scarce is imperial authority, soft living, and trust. A settlement here is walled, watchful, and loyal first to whoever can defend it.
 
 ## Commerce and Currency
 
@@ -136,7 +136,7 @@ Province of Moktur uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Arge
 
 ## See Also
 
-- [[affiliation-vylarinmpr|Vylarian Empire]] – Parent polity
-- [[place-moktur|Moktur]] – The land the province holds
-- [[place-vrystwald|Vrystwald]] – Northern frontier threat
-- [[affiliation-provinclys|Province of Alyssa]], [[affiliation-provnchyln|Province of Hylen]], [[affiliation-provincvld|Province of Vald]] – Sister provinces
+- [[affiliation-vylarinmpr|Vylarian Empire]]—Parent polity
+- [[place-moktur|Moktur]]—The land the province holds
+- [[place-vrystwald|Vrystwald]]—Northern frontier threat
+- [[affiliation-provinclys|Province of Alyssa]], [[affiliation-provnchyln|Province of Hylen]], [[affiliation-provincvld|Province of Vald]]—Sister provinces

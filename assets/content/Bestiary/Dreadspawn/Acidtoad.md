@@ -328,11 +328,11 @@ sohl:
 
 ![[acidtoad|Acidtoad]]{float: top-left}
 
-The water ahead begins to bubble and steam. A bloated, warty form emerges from beneath the scum – prehistoric, bulbous, its massive body swollen as if overfilled with something vile. Sickly green-yellow skin glistens where it isn't covered in mucus that hisses and pops as it drips onto stone. Its mouth yawns wide, and the stench of old rot mixed with something acrid makes your eyes stream. Where its saliva spatters, stone and wood char.
+The water ahead begins to bubble and steam. A bloated, warty form emerges from beneath the scum—prehistoric, bulbous, its massive body swollen as if overfilled with something vile. Sickly green-yellow skin glistens where it isn't covered in mucus that hisses and pops as it drips onto stone. Its mouth yawns wide, and the stench of old rot mixed with something acrid makes your eyes stream. Where its saliva spatters, stone and wood char.
 
 # Dossier {#dossier}
 
-Acidtoads are shambling amphibian predators of swamps and toxic pools, twisted by corruption into apex hunters of wetlands. These creatures dwelt once as normal toads until something – dark magic, alchemical seepage, or worse – transformed them into sluggish but lethally venomous ambush killers. Adventurers stumble upon Acidtoads in marshes, abandoned alchemical sites, or pools fed by underground rivers running through cursed lands.
+Acidtoads are shambling amphibian predators of swamps and toxic pools, twisted by corruption into apex hunters of wetlands. These creatures dwelt once as normal toads until something—dark magic, alchemical seepage, or worse—transformed them into sluggish but lethally venomous ambush killers. Adventurers stumble upon Acidtoads in marshes, abandoned alchemical sites, or pools fed by underground rivers running through cursed lands.
 
 ## Presentation
 
@@ -340,7 +340,7 @@ The Acidtoad is a massive, toad-like creature roughly six to eight feet in lengt
 
 ## Key Behaviors
 
-The Acidtoad is a solitary, patient predator. It stations itself in shallow swamp water, at the margins of toxic pools, or in muddy riverbank hollows where its discolored hide renders it nearly invisible. There it waits – sometimes for days – until movement in the water betrays prey. It does not hunt actively except when starving; it prefers the ambush. When not hunting, it remains nearly comatose, breathing slowly, exuding its corrosive secretions at a reduced rate. Acidtoads show no interest in territories beyond their immediate hunting ground and do not congregate.
+The Acidtoad is a solitary, patient predator. It stations itself in shallow swamp water, at the margins of toxic pools, or in muddy riverbank hollows where its discolored hide renders it nearly invisible. There it waits—sometimes for days—until movement in the water betrays prey. It does not hunt actively except when starving; it prefers the ambush. When not hunting, it remains nearly comatose, breathing slowly, exuding its corrosive secretions at a reduced rate. Acidtoads show no interest in territories beyond their immediate hunting ground and do not congregate.
 
 ## Combat Strategy
 
@@ -376,4 +376,4 @@ The venom injected through the toad's bite and saliva weakens the victim by degr
 
 ## Additional Information
 
-Cold-based attacks are significantly more effective against Acidtoads, as extreme cold hardens and cracks their moist, soft exoskeletons. Disrupting the creature's ambush position by churning the water or creating vibrations can force it from hiding before it can strike. Once driven from its lair or severely wounded, an Acidtoad will not pursue prey into truly deep water or defensible terrain – it retreats to await a better opportunity.
+Cold-based attacks are significantly more effective against Acidtoads, as extreme cold hardens and cracks their moist, soft exoskeletons. Disrupting the creature's ambush position by churning the water or creating vibrations can force it from hiding before it can strike. Once driven from its lair or severely wounded, an Acidtoad will not pursue prey into truly deep water or defensible terrain—it retreats to await a better opportunity.

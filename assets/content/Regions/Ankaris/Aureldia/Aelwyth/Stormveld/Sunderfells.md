@@ -3,7 +3,7 @@ tags:
   - region
   - mountain
   - frontier
-description: "Stormveld's southern mountain march – the northern arm of the Ironfells, holding the two passes that are the only ways between the Jarldom and Aldorath."
+description: "Stormveld's southern mountain march—the northern arm of the Ironfells, holding the two passes that are the only ways between the Jarldom and Aldorath."
 type: place
 subType: region
 data:
@@ -41,7 +41,7 @@ to be worth.
 
 ## The Wilderness
 
-The approaches on both sides are genuinely wild – steep forest, no roads worth the name, and communities
+The approaches on both sides are genuinely wild—steep forest, no roads worth the name, and communities
 in the folds of it that answer to neither realm and trade with both. Smuggling over the Sunderfells is
 constant, seasonal and impossible to prevent, and a good deal of what Stormveld's thralls know about the
 outside world comes over these mountains on a pack-pony.

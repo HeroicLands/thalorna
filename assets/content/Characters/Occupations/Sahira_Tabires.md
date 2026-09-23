@@ -588,10 +588,10 @@ A master scribe of the chapterhouse who was passed over for the assembly's work 
 
 ## Plot Hooks
 
-1. **The Decree** – A decree Sahîra fair-copied and sealed has been read in the assembly with a clause she did not write, and the demagogue who read it says the seal is hers. It is. The clause is not.
+1. **The Decree**—A decree Sahîra fair-copied and sealed has been read in the assembly with a clause she did not write, and the demagogue who read it says the seal is hers. It is. The clause is not.
 
-2. **The Forged Seal** – A will has surfaced in a court of Pelagora in a hand very like Sahîra's, under a seal that is hers to the last mark. The Guild's penalty for a counterfeited seal falls first on the seal's owner.
+2. **The Forged Seal**—A will has surfaced in a court of Pelagora in a hand very like Sahîra's, under a seal that is hers to the last mark. The Guild's penalty for a counterfeited seal falls first on the seal's owner.
 
-3. **The Thyrenae Text** – A philosopher of Thyrenae has asked Sahîra for a fair copy of a work on the founding of the Ordo, for private circulation. The chapterhouse's senior officer has asked her, the same week, to tell him of any such commission.
+3. **The Thyrenae Text**—A philosopher of Thyrenae has asked Sahîra for a fair copy of a work on the founding of the Ordo, for private circulation. The chapterhouse's senior officer has asked her, the same week, to tell him of any such commission.
 
-4. **The Late Commission** – A marriage contract must be sealed before the fleet sails in four days, and Sahîra has three days' work on it and a book that will not leave her alone.
+4. **The Late Commission**—A marriage contract must be sealed before the fleet sails in four days, and Sahîra has three days' work on it and a book that will not leave her alone.

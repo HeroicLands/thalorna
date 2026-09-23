@@ -2,7 +2,7 @@
 tags:
   - history
   - spine
-description: "From 5274 BF to 2427 BF the Sinalë and the Khazári hold a shared accord across much of Thalorna, and make together what neither people can make alone – until the day Khazártúrn falls."
+description: "From 5274 BF to 2427 BF the Sinalë and the Khazári hold a shared accord across much of Thalorna, and make together what neither people can make alone—until the day Khazártúrn falls."
 type: lore
 subType: history
 name:
@@ -96,7 +96,7 @@ humanity, and cannot reproduce either half of one. They are not usually recogniz
 hands.
 
 It reached further than craft. Both peoples worshipped [[lore-goddreams|the god of dreams]] together, or at least in
-parallel, under the accord's terms – and when the accord shattered, the shared worship shattered with
+parallel, under the accord's terms—and when the accord shattered, the shared worship shattered with
 it. The two traditions have diverged so completely since that whether the Sinalë's
 Lúminarë and the Khazári's Khaldûr would recognize each other's rites is an
 open question, and one neither race has any interest in answering.

@@ -12,7 +12,7 @@ data:
   icon: maat
 ---
 
-_Keeper of Truth and Harmony – a feather atop a golden scale._
+_Keeper of Truth and Harmony—a feather atop a golden scale._
 
 Má'át is the great balancing force of the cosmos, and she is **not a goddess of compassion or
 mercy** but of absolute truth and immutable law. Before creation chaos reigned; she imposed order
@@ -34,5 +34,5 @@ imperfect check on the worst abuses of power in a civilization otherwise steeply
 She judges; [[lore-sekerdty|Sēker]] does not. By the time a soul reaches his realm it has already
 been weighed.
 
-TBD – the declarations the deceased makes before the assembled gods, and what Ámit is: whether a
+TBD—the declarations the deceased makes before the assembled gods, and what Ámit is: whether a
 god, a beast, or an office.

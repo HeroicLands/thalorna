@@ -3,7 +3,7 @@ tags:
   - town
   - lakeside
   - mountain
-description: "The lake town at the foot of the Ardwyn mountains – the market where the high country comes down to trade, and the last comfortable place before the passes."
+description: "The lake town at the foot of the Ardwyn mountains—the market where the high country comes down to trade, and the last comfortable place before the passes."
 type: place
 subType: settlement
 data:

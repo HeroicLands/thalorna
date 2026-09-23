@@ -11,8 +11,8 @@ shortcode: vulcanischism
 packFolder: aureldia
 ---
 
-**Vúlcan** the Forge-Lord holds both aspects of flame at once – the forge that shapes and the inferno
-that consumes – and for most of the [[affiliation-arldnpnthn|Aurèldían Pantheon]]'s history that
+**Vúlcan** the Forge-Lord holds both aspects of flame at once—the forge that shapes and the inferno
+that consumes—and for most of the [[affiliation-arldnpnthn|Aurèldían Pantheon]]'s history that
 duality was carried without difficulty. A god of fire was understood to be a god of both what fire
 makes and what it takes. Roughly **five hundred years ago** a faction within the Vúlcani clergy
 declared that this was an evasion: that the god's true nature was destruction, purification through
@@ -26,10 +26,10 @@ which half of the god was real.
 
 The schism produced two bitterly opposed faiths, each holding the other heretical:
 
-- **[[affiliation-sacredforge|The Sacred Forge]]** – the creative aspect: craftsmanship,
+- **[[affiliation-sacredforge|The Sacred Forge]]**—the creative aspect: craftsmanship,
   transformation, illumination and protection. The mainstream faith across most of western Ankaris,
   and the one that kept the temples, the endowments and the name.
-- **[[affiliation-blackflame|The Black Flame]]** – the destructive aspect: fire as purifier, as weapon
+- **[[affiliation-blackflame|The Black Flame]]**—the destructive aspect: fire as purifier, as weapon
   and as instrument of domination. Suppressed in most kingdoms, and surviving through secretive orders
   and hidden shrines.
 
@@ -42,12 +42,12 @@ comfortable lie told by people who wanted a patron for their workshops and could
 were praying to.
 
 Neither position leaves room for the other to be merely mistaken, and both are arguments about the
-same god rather than about different ones – which is what makes the enmity theological rather than
+same god rather than about different ones—which is what makes the enmity theological rather than
 merely political, and why five centuries have not worn it down. The conflict has shaped the religious
 and political landscape of western Ankaris ever since, and it still decides which shrines a kingdom
 tolerates and which it burns.
 
 ## See Also
 
-- [[affiliation-arldnpnthn|Aurèldían Pantheon]] – the Twelve, of whom Vúlcan is one
+- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the Twelve, of whom Vúlcan is one
 - [[affiliation-sacredforge|The Sacred Forge]] · [[affiliation-blackflame|The Black Flame]]

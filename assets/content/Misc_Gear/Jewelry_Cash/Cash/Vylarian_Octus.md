@@ -27,4 +27,4 @@ An eighth of an Argentus, either cut from the parent coin along the eight-segmen
 
 Cutting is done by moneylenders, shopkeepers, and anyone with a sharp blade and a need to make change. A coin with all eight wedges taken from it leaves a small central remnant, returned by convention to a moneylender or to the Aerarium for re-striking. The two forms pass interchangeably in casual use; formal contracts recognize only mint-struck pieces at face.
 
-This is the coin of ordinary days – a loaf, a tankard, a porter's tip.
+This is the coin of ordinary days—a loaf, a tankard, a porter's tip.

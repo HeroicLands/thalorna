@@ -347,7 +347,7 @@ sohl:
 
 ![[crgclmbr|Cragclimber]]{float: top-left}
 
-The rock face ahead seems to shift. What you thought was a ledge has eyes – polished, reflective, aware – and the "cliff face" is moving toward you with terrible, impossible speed. Stone-colored scales rasp against stone as the creature propels itself downward with four limbs that move like liquid metal. Its tail lashes behind it, a whip of crystalline hardness. You realize with horror that it has been waiting, yards away and invisible, the entire time.
+The rock face ahead seems to shift. What you thought was a ledge has eyes—polished, reflective, aware—and the "cliff face" is moving toward you with terrible, impossible speed. Stone-colored scales rasp against stone as the creature propels itself downward with four limbs that move like liquid metal. Its tail lashes behind it, a whip of crystalline hardness. You realize with horror that it has been waiting, yards away and invisible, the entire time.
 
 # Dossier {#dossier}
 
@@ -359,11 +359,11 @@ The Cragclimber is a reptilian predator roughly six feet in length, lean and mus
 
 ## Key Behaviors
 
-The Cragclimber is an apex predator of mountainous terrain, claiming hunting territories that extend across miles of cliff face. It spends most of its time absolutely motionless, perfectly camouflaged against stone, waiting with infinite patience for prey to pass within striking distance. Its hunting grounds are marked by the skeletal remains of previous meals, sometimes pushed from great heights. It hunts primarily in dawn and dusk hours when light is diffuse and shadows aid concealment. It exhibits no sign of territoriality toward other Cragclimbers – they simply ignore one another. When well-fed, it remains dormant for days; when hungry, it becomes more active, following movement along cliff paths.
+The Cragclimber is an apex predator of mountainous terrain, claiming hunting territories that extend across miles of cliff face. It spends most of its time absolutely motionless, perfectly camouflaged against stone, waiting with infinite patience for prey to pass within striking distance. Its hunting grounds are marked by the skeletal remains of previous meals, sometimes pushed from great heights. It hunts primarily in dawn and dusk hours when light is diffuse and shadows aid concealment. It exhibits no sign of territoriality toward other Cragclimbers—they simply ignore one another. When well-fed, it remains dormant for days; when hungry, it becomes more active, following movement along cliff paths.
 
 ## Combat Strategy
 
-The Cragclimber attacks from absolute concealment, launching from a stationary position with explosive speed and ferocity. It aims to wound severely or disable prey in the initial strike, preferring to wound prey and watch it flee or fall rather than prolonged combat. Once a strike lands, it uses the cliff terrain against its opponent – attempting to force prey toward edges, loose rock, or fall hazards. If its prey proves more resilient than expected, it will disengage and return to camouflage, waiting for weakness to set in. It cannot be pursued effectively through vertical terrain it knows well.
+The Cragclimber attacks from absolute concealment, launching from a stationary position with explosive speed and ferocity. It aims to wound severely or disable prey in the initial strike, preferring to wound prey and watch it flee or fall rather than prolonged combat. Once a strike lands, it uses the cliff terrain against its opponent—attempting to force prey toward edges, loose rock, or fall hazards. If its prey proves more resilient than expected, it will disengage and return to camouflage, waiting for weakness to set in. It cannot be pursued effectively through vertical terrain it knows well.
 
 ## Attack Methods
 

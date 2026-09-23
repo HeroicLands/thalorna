@@ -3,7 +3,7 @@ tags:
   - sacred
   - mountain
   - inland
-description: "Three peaks above the Central Highlands, and the battlefield where the Sinalë king of Aelwyth was killed in 984 BF – ending the Great War, the joint kingdom of the elder races, and six centuries of deliberate reconciliation."
+description: "Three peaks above the Central Highlands, and the battlefield where the Sinalë king of Aelwyth was killed in 984 BF—ending the Great War, the joint kingdom of the elder races, and six centuries of deliberate reconciliation."
 type: place
 subType: site
 data:
@@ -29,8 +29,8 @@ In **984 BF** the armies of the elder kingdom met the Pelwar beneath them, and t
 Aelwyth was killed**.
 
 It was the decisive engagement of the **Great War**, and its consequences went far past who held the
-field. With the king dead the surviving [[lore-flksinale|Sinalë]] **withdrew** – out of the war, out of
-the kingdom, and into the deep forest of the south that is now the [[place-hallowwood|Hallowwood]] – and
+field. With the king dead the surviving [[lore-flksinale|Sinalë]] **withdrew**—out of the war, out of
+the kingdom, and into the deep forest of the south that is now the [[place-hallowwood|Hallowwood]]—and
 left the [[lore-flkkhazar|Khazári]] to finish it.
 
 The Khazári finished it. They have never forgiven the withdrawal, and the two elder races of Aelwyth
@@ -41,7 +41,7 @@ have had nothing whatever to do with one another since.
 More than a king and more than a war.
 
 The joint kingdom had been **a deliberate attempt at reconciliation**. Khazártúrn had fallen in 2427 BF
-and the sundering with it, and the two peoples on this island – alone among their kind – had decided
+and the sundering with it, and the two peoples on this island—alone among their kind—had decided
 that would not be the end of it. They united under a single crown, governed Aelwyth together, and kept
 it up for six centuries. It is the only such attempt either race has ever made.
 
@@ -57,12 +57,12 @@ There had been humans on Aelwyth for a very long time, and it was the
 [[lore-flkkhazar|Khazári]] who put them there.
 
 A hold grows nothing and cannot be supplied from outside, so the Deep Folk have always needed farmers
-within reach of the gate – and when they settled this island they did what they had done everywhere
+within reach of the gate—and when they settled this island they did what they had done everywhere
 else: they **brought Pelwar across from the mainland to work the land for them**. Peaceful, patient,
 agricultural, and willing; the arrangement is the same one that produced the
 [[lore-vardain|Vardain]] a world away, and it worked here for a very long time.
 
-More came afterward on their own account, in **small numbers**, and were **accepted** – given ground,
+More came afterward on their own account, in **small numbers**, and were **accepted**—given ground,
 taken into the kingdom, and dealt with as subjects rather than intruders. The Khazári in particular
 took to them, for reasons that were entirely practical and not at all secret.
 
@@ -72,7 +72,7 @@ refuse them, and a large part of why refusing them anyway went as badly as it di
 
 What broke it was **scale**, and what came behind them.
 
-Around **1200 BF** the trickle became a flood – **tens of thousands** at once, whole communities crossing
+Around **1200 BF** the trickle became a flood—**tens of thousands** at once, whole communities crossing
 because the Migration had run out of land against the western coast and there was nowhere else to be.
 
 ## The Crossing
@@ -80,7 +80,7 @@ because the Migration had run out of land against the western coast and there wa
 It should be understood what that means.
 
 Aelwyth lies something like a hundred and twenty sea-miles off the coast. That is not a distance
-barbarian peoples cross – not in the craft they had, not with families and stock aboard, not without
+barbarian peoples cross—not in the craft they had, not with families and stock aboard, not without
 pilots or charts or any notion of what the weather does out there. The early Pelwar had come as
 **passengers**, carried in Khazári bottoms by people who knew the water. The ones who came in 1200 BF
 came in whatever would float.
@@ -111,18 +111,18 @@ Not a Pelwar spear, and this is the part of the account that is vague in every t
 filled in.
 
 A Sinalë king of that age was not a thing that mortals killed. Whatever met him beneath the Three
-Sisters, the tradition is consistent that it was **not merely an army** – that some other force was at
+Sisters, the tradition is consistent that it was **not merely an army**—that some other force was at
 work, spiritual in nature, and that it was present on that field for a reason nobody has ever explained.
 
 The Sinalë do not discuss it. The Khazári were not told. What is agreed is only the outcome: the king
-died, and the effect on his people was not defeat but **heart-failure** – they simply stopped.
+died, and the effect on his people was not defeat but **heart-failure**—they simply stopped.
 
 ## What They Did Next
 
 They did not withdraw from the war. They **abandoned everything**.
 
 The Sinalë gave up the crown, the kingdom, the settled country, the coasts, the works of six hundred
-years of joint rule, and every claim of any kind outside the deep forest of the south – and they went
+years of joint rule, and every claim of any kind outside the deep forest of the south—and they went
 into [[place-hallowwood|the wood]], and they have not come out.
 
 Everything they left, they left **to the other races**: to the Khazári who had been fighting beside them,

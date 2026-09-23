@@ -95,7 +95,7 @@ alone.
 
 A convoy of **six ships** sailed from [[place-elavendre|Élavendre]] carrying it. It never arrived.
 
-There was no storm of any note. No wreckage came ashore, then or since – no spar, no cargo, no body,
+There was no storm of any note. No wreckage came ashore, then or since—no spar, no cargo, no body,
 on any coast, in any year. Six hulls and every soul aboard them went off the water between Élavendre
 and Aelwyth and left nothing whatever behind. The passage is not a long one, and it had been made
 before.
@@ -104,6 +104,6 @@ The crews and the escort were above reproach, chosen for exactly that by people 
 precisely what they were entrusting and to whom. That is the detail that has troubled everyone who
 has ever been told it: it forecloses the comfortable explanation without offering another. Both
 peoples have been looking ever since, and the [[lore-flkkhazar|Khazári]] doctrine that follows from
-the search failing – that [[lore-grukarfolk|Grukar]] are ammunition, and are to be killed wherever
-they are found – is the one consequence of this crossing that anybody outside the Elder Races ever
+the search failing—that [[lore-grukarfolk|Grukar]] are ammunition, and are to be killed wherever
+they are found—is the one consequence of this crossing that anybody outside the Elder Races ever
 meets.

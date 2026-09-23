@@ -1,7 +1,7 @@
 ---
 tags: []
 type: affiliation
-description: The temple-republic of Suvarṇagiri – fifteen villages of the Bhārava highlands federated around the gold-bearing mountain whose alluvial wash has funded their three great Mahájaya temples for fifteen centuries. Wealthy by janapada standards, philosophically restrained about its wealth, and the seat of the most respected metallurgical-and-jewelers' tradition outside Chandrapur.
+description: The temple-republic of Suvarṇagiri—fifteen villages of the Bhārava highlands federated around the gold-bearing mountain whose alluvial wash has funded their three great Mahájaya temples for fifteen centuries. Wealthy by janapada standards, philosophically restrained about its wealth, and the seat of the most respected metallurgical-and-jewelers' tradition outside Chandrapur.
 name:
   full: Suvarṇagiri Janapada
   aliases:
@@ -22,7 +22,7 @@ data:
       senior priests of the three great Mahájaya temples of Upper, Middle, and Lower Suvarṇagiri.
       Each of the fifteen constituent villages sends two representatives; the artisan-and-merchant
       guilds collectively send twelve; the three temples send two each. Decisions on gold-related
-      questions – extraction, taxation, allocation of the temple-share – require a three-quarters
+      questions—extraction, taxation, allocation of the temple-share—require a three-quarters
       majority, a deliberate constitutional brake against the concentration of mineral wealth.
     ranks:
       - level: 0
@@ -41,13 +41,13 @@ data:
         title: Śūdra
         lore: commonerrnk
         description: >-
-          Of the serving varṇa – cultivators, artisans and laborers who hold their place by
+          Of the serving varṇa—cultivators, artisans and laborers who hold their place by
           work rather than by rite.
       - level: 3
         title: Vaiśya
         lore: gentryrnk
         description: >-
-          Of the productive varṇa – merchants, herders and landholders, whose tithes in coin and
+          Of the productive varṇa—merchants, herders and landholders, whose tithes in coin and
           goods sustain the temple and its granary.
       - level: 4
         title: Kṣatriya
@@ -113,11 +113,11 @@ data:
     varakpnthn: aligned
     chandrapur: aligned
     mrchntclctvvdyr: rival
-terran_analog: "Medieval South Indian temple-republic with mineral-resource wealth – Chola-era brahmadeya village federation centered on a gold-bearing mountain, governed by an unusually elaborate constitutional structure designed to prevent the concentration of mineral wealth in any one lineage or temple"
+terran_analog: "Medieval South Indian temple-republic with mineral-resource wealth—Chola-era brahmadeya village federation centered on a gold-bearing mountain, governed by an unusually elaborate constitutional structure designed to prevent the concentration of mineral wealth in any one lineage or temple"
 packFolder: vedyara
 ---
 
-The **Suvarṇagiri Janapada** is the federation of fifteen villages of the Bhārava highlands, governed jointly through three great temples of **Mahájaya** that ring the slopes of the gold-bearing mountain from which the janapada takes its name – _Suvarṇa_ (gold) _giri_ (mountain). Its population is roughly thirty-five thousand. It is one of the wealthier and more institutionally elaborate janapadas of the [[affiliation-janpdsvdyr|Mahā-Saṅgha]], and it is the case-study in every Vedyari political-economy treatise of how a temple-republic can manage the corrupting potential of mineral wealth without either failing or transforming itself into a kingdom. The janapada holds the land of [[place-suvarnagirijnpd|Suvarṇagiri Janapada]].
+The **Suvarṇagiri Janapada** is the federation of fifteen villages of the Bhārava highlands, governed jointly through three great temples of **Mahájaya** that ring the slopes of the gold-bearing mountain from which the janapada takes its name—_Suvarṇa_ (gold) _giri_ (mountain). Its population is roughly thirty-five thousand. It is one of the wealthier and more institutionally elaborate janapadas of the [[affiliation-janpdsvdyr|Mahā-Saṅgha]], and it is the case-study in every Vedyari political-economy treatise of how a temple-republic can manage the corrupting potential of mineral wealth without either failing or transforming itself into a kingdom. The janapada holds the land of [[place-suvarnagirijnpd|Suvarṇagiri Janapada]].
 
 That it has not failed in fifteen centuries, and has not transformed itself into a kingdom in fifteen centuries, is the central political fact of Suvarṇagiri.
 
@@ -127,7 +127,7 @@ The gold sustains, more than it enriches. Suvarṇagiri's expenditures of its go
 
 ## The Three Temples
 
-The three great Mahájaya temples of Suvarṇagiri are sited at the three principal stream-confluences on the lower slopes of the mountain – **Upper Suvarṇagiri** at the junction of the two highest streams, **Middle Suvarṇagiri** in the central valley below the principal panning grounds, and **Lower Suvarṇagiri** at the foot of the mountain where the Bhārava river proper begins. Each temple is roughly the same size, was constructed in roughly the same century, and houses a Mahájaya altar of comparable craftsmanship. The triple arrangement is constitutionally important: no one temple controls the janapada, no one priesthood controls the gold, and the convening of the sabhā rotates annually among the three senior priests.
+The three great Mahájaya temples of Suvarṇagiri are sited at the three principal stream-confluences on the lower slopes of the mountain—**Upper Suvarṇagiri** at the junction of the two highest streams, **Middle Suvarṇagiri** in the central valley below the principal panning grounds, and **Lower Suvarṇagiri** at the foot of the mountain where the Bhārava river proper begins. Each temple is roughly the same size, was constructed in roughly the same century, and houses a Mahájaya altar of comparable craftsmanship. The triple arrangement is constitutionally important: no one temple controls the janapada, no one priesthood controls the gold, and the convening of the sabhā rotates annually among the three senior priests.
 
 This rotation is the central anti-concentration mechanism of Suvarṇagiri governance. By long custom, the sabhā cannot meet in any one temple in two successive years; the convening priest changes annually; the three priesthoods are required to consult each other on every major question; and any priestly decision on gold-related matters that fails to gain at least a two-of-three concurrence is automatically referred to the sabhā for review. The architecture of the constitution is designed to make priestly faction-formation difficult and priestly enrichment effectively impossible.
 
@@ -147,9 +147,9 @@ These provisions were not all in place at the founding. They have accumulated ac
 
 ## Religion
 
-Suvarṇagiri is, theologically, a **Mahájaya janapada through and through** – the preserver-goddess of the [[affiliation-varakpnthn|Varṇaka pantheon]] is the focus of its three great temples, the patron of its constitutional preservation, the goddess whose dharma the gold income serves. The Suvarnagiri Mahájaya tradition emphasizes Mahájaya's role as the **balancer** – the force that holds the cosmic order in equilibrium against both the chaos of Rásikara and the unrestrained creative impulse of Vyālendra. The Gold Constitution is, in Suvarnagiri theology, a worldly enactment of Mahájaya's cosmic balancing function.
+Suvarṇagiri is, theologically, a **Mahájaya janapada through and through**—the preserver-goddess of the [[affiliation-varakpnthn|Varṇaka pantheon]] is the focus of its three great temples, the patron of its constitutional preservation, the goddess whose dharma the gold income serves. The Suvarnagiri Mahájaya tradition emphasizes Mahájaya's role as the **balancer**—the force that holds the cosmic order in equilibrium against both the chaos of Rásikara and the unrestrained creative impulse of Vyālendra. The Gold Constitution is, in Suvarnagiri theology, a worldly enactment of Mahájaya's cosmic balancing function.
 
-Subsidiary shrines to Vyālendra and Rásikara exist throughout the constituent villages. The Rásikara shrine on the back slope of the mountain – at the head of a small stream that does not yield gold – is significant: by Suvarnagiri tradition the panning is forbidden in the Rásikara stream, as a recognition that not all of the mountain's wealth belongs to Mahájaya's order, and that Rásikara's destructive-creative principle must be allowed its own portion.
+Subsidiary shrines to Vyālendra and Rásikara exist throughout the constituent villages. The Rásikara shrine on the back slope of the mountain—at the head of a small stream that does not yield gold—is significant: by Suvarnagiri tradition the panning is forbidden in the Rásikara stream, as a recognition that not all of the mountain's wealth belongs to Mahájaya's order, and that Rásikara's destructive-creative principle must be allowed its own portion.
 
 A distinctive Suvarnagiri religious practice is the **Weighing**, conducted at each new moon at the central temple weighing-station, when the previous moon's gold extraction is publicly weighed in the presence of the sabhā representatives. The weighing is open to public attendance, and any Suvarnagiri may attend and watch the weights recorded. This is the operational core of the constitutional anti-concentration mechanism: the gold extraction is _visible_. No one can quietly accumulate; the entire community knows, every month, exactly how much gold has come out of the mountain and where it has gone.
 
@@ -181,10 +181,10 @@ Suvarṇagiri Janapada uses the [[lore-vdyrnbnkng|Vedyaran banking system]] admi
 
 ## See Also
 
-- [[place-suvarnagirijnpd|Suvarṇagiri Janapada]] – the land the janapada holds
-- [[affiliation-janpdsvdyr|Janapadas of Vedyara]] – parent confederation
-- [[place-vedyarargn|Vedyara]] – parent region
-- Suvarṇagiri – the central town settlement note
-- [[affiliation-chandrapur|Chandrapur]] – major trading partner
-- [[affiliation-varakpnthn|Varṇaka Pantheon]] – religious tradition
-- [[skill-vedyarlng|Vedyari]] – language
+- [[place-suvarnagirijnpd|Suvarṇagiri Janapada]]—the land the janapada holds
+- [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—parent confederation
+- [[place-vedyarargn|Vedyara]]—parent region
+- Suvarṇagiri—the central town settlement note
+- [[affiliation-chandrapur|Chandrapur]]—major trading partner
+- [[affiliation-varakpnthn|Varṇaka Pantheon]]—religious tradition
+- [[skill-vedyarlng|Vedyari]]—language

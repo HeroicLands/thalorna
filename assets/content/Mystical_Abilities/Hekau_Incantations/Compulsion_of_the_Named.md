@@ -27,5 +27,5 @@ The apex of the tradition and the reason true names are guarded as they are. The
 refuse, cannot delay and cannot subvert the command; what they can do is obey it exactly, and the
 House's instruction on this point consists almost entirely of commands that were obeyed exactly.
 Its lawful use requires the assent of a Wer Kher-Heb and is recorded at Khemenu, and the Kheperi
-position – stated to foreigners with some emphasis – is that a tradition which can do this is
+position—stated to foreigners with some emphasis—is that a tradition which can do this is
 precisely the tradition that must be a priesthood.

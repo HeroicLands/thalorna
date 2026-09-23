@@ -571,7 +571,7 @@ Reluctant to take leadership roles, sometimes overly cautious.
 
 ### Motivation
 
-Harpêros's driving force is the search that defines his life – a quest that shapes every decision he makes and every risk he takes.
+Harpêros's driving force is the search that defines his life—a quest that shapes every decision he makes and every risk he takes.
 
 ### Strengths
 
@@ -595,12 +595,12 @@ Rival soldiers who have lost to him in archery competitions.
 
 ## Plot Hooks
 
-1. **The Yeoman Archer's Dilemma** – Harpêros faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
+1. **The Yeoman Archer's Dilemma**—Harpêros faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 
-2. **Old Grudges** – Rival soldiers who have lost to him in archery competitions. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges**—Rival soldiers who have lost to him in archery competitions. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** – Something from Harpêros's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Harpêros's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds** – Political changes in Vylaria threaten to upend the social order that Harpêros depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Harpêros depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** – A chance encounter offers Harpêros the possibility of advancement beyond anything he has dared hope for – but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Harpêros the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

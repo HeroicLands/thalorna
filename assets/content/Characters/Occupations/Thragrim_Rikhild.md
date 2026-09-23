@@ -590,12 +590,12 @@ Few, though some villagers find his solitary nature strange.
 
 ## Plot Hooks
 
-1. **The Timberwright's Dilemma** – A carpenter presses Thrágrim for green timber he knows will fail, and he has to choose between the sale and his name.
+1. **The Timberwright's Dilemma**—A carpenter presses Thrágrim for green timber he knows will fail, and he has to choose between the sale and his name.
 
-2. **Old Grudges** – The villagers who find him strange begin to blame him when something goes wrong in the woods.
+2. **Old Grudges**—The villagers who find him strange begin to blame him when something goes wrong in the woods.
 
-3. **Echoes of the Past** – Something from Thrágrim's earlier life resurfaces and has to be settled, solitude or no.
+3. **Echoes of the Past**—Something from Thrágrim's earlier life resurfaces and has to be settled, solitude or no.
 
-4. **Shifting Winds** – Political change in Vrystwald threatens the guild and the trade Thrágrim depends upon, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Vrystwald threatens the guild and the trade Thrágrim depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity** – A chance encounter offers Thrágrim work beyond anything the village has paid him, and the price is not named up front.
+5. **The Opportunity**—A chance encounter offers Thrágrim work beyond anything the village has paid him, and the price is not named up front.

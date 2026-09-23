@@ -648,7 +648,7 @@ Aside from his personal pursuit of the Visionary Elixir, Sevion’s more immedia
 
 ### End Goal
 
-Sevion’s ultimate goal is to unlock the secrets of the **Visionary Elixir**, believing that its power could lead to incredible breakthroughs in alchemical science. He imagines the elixir could guide individuals through their personal struggles by granting them foresight, offering them a glimpse of their potential futures. However, his fascination with the elixir is tempered by a lingering doubt – will the visions it provides truly benefit the individual, or will they become a curse that haunts those who seek to know too much?
+Sevion’s ultimate goal is to unlock the secrets of the **Visionary Elixir**, believing that its power could lead to incredible breakthroughs in alchemical science. He imagines the elixir could guide individuals through their personal struggles by granting them foresight, offering them a glimpse of their potential futures. However, his fascination with the elixir is tempered by a lingering doubt—will the visions it provides truly benefit the individual, or will they become a curse that haunts those who seek to know too much?
 
 Sevion must navigate the perils of discovery, rivalry, and personal ambition while maintaining his relatively humble place in the world of [[place-calypsacity|Calypsa]]’s arcane and political circles.
 
@@ -687,8 +687,8 @@ He avoids making enemies within the guild but is aware of the dangerous politics
 ### Patrons
 
 - **Lady Adrienna Alranis**: A minor noblewoman with a keen interest in alchemical remedies. Lady Adrienna suffers from a rare blood disorder and frequently commissions Sevion to create tonics and elixirs to alleviate her condition. In return, she provides him with funding and access to noble circles, where his reputation has begun to grow.
-- **The Merchant’s Guild**: Sevion has developed a lucrative relationship with several merchants who commission him to craft elixirs that enhance strength, stamina, and charisma – often for use in negotiations or physical contests. The **Merchant’s Guild** values his work and provides him with some of the rarest ingredients that come through the ports of Calypsa.
-- **Master Virel Danogir**: Although he is no longer Sevion’s mentor, Master Virel remains an important figure in his life. The two maintain a mutually beneficial relationship, exchanging information and occasionally collaborating on projects. Master Virel provides Sevion with insights from the inner workings of the Guild of Esoteric Crafts, though his support comes at a price – Sevion often feels indebted to his old mentor.
+- **The Merchant’s Guild**: Sevion has developed a lucrative relationship with several merchants who commission him to craft elixirs that enhance strength, stamina, and charisma—often for use in negotiations or physical contests. The **Merchant’s Guild** values his work and provides him with some of the rarest ingredients that come through the ports of Calypsa.
+- **Master Virel Danogir**: Although he is no longer Sevion’s mentor, Master Virel remains an important figure in his life. The two maintain a mutually beneficial relationship, exchanging information and occasionally collaborating on projects. Master Virel provides Sevion with insights from the inner workings of the Guild of Esoteric Crafts, though his support comes at a price—Sevion often feels indebted to his old mentor.
 
 ### Enemies
 

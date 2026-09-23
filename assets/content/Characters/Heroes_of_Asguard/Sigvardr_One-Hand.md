@@ -522,7 +522,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Sigvardr stands 5'11" with a lean, disciplined frame, weighing about 185 pounds. His fair skin shows the wear of a hard life lived outdoors, and his brown hair is streaked with gray and tied back from a face marked by gravity and purpose. His gray eyes are steady and penetrating – the eyes of a man who weighs every soul he meets. His features are gaunt and angular, with a long nose, sunken cheeks, a strong jaw, and thin lips that tighten when he disapproves, which is often. The stump of his right hand is cleanly healed and wrapped in worn leather bindings, displayed openly as a badge of sacrifice rather than hidden as a mark of shame. Sigvardr wears plain but well-made garments – a dark woolen tunic, leather breeches, and a heavy cloak – with a longsword worn on his left hip for cross-draw. A small iron pendant of Týr's rune hangs at his throat.
+Sigvardr stands 5'11" with a lean, disciplined frame, weighing about 185 pounds. His fair skin shows the wear of a hard life lived outdoors, and his brown hair is streaked with gray and tied back from a face marked by gravity and purpose. His gray eyes are steady and penetrating—the eyes of a man who weighs every soul he meets. His features are gaunt and angular, with a long nose, sunken cheeks, a strong jaw, and thin lips that tighten when he disapproves, which is often. The stump of his right hand is cleanly healed and wrapped in worn leather bindings, displayed openly as a badge of sacrifice rather than hidden as a mark of shame. Sigvardr wears plain but well-made garments—a dark woolen tunic, leather breeches, and a heavy cloak—with a longsword worn on his left hip for cross-draw. A small iron pendant of Týr's rune hangs at his throat.
 
 # Dossier {#dossier}
 
@@ -550,20 +550,20 @@ Sigvardr's left-handed fighting style is unorthodox and catches many opponents o
 
 ### Patrons
 
-**The Court of Justice at Vidarrholt** – The oldest seat of law in the northern territories, where Sigvardr has been granted permanent standing as an itinerant judge with authority across clan boundaries.
+**The Court of Justice at Vidarrholt**—The oldest seat of law in the northern territories, where Sigvardr has been granted permanent standing as an itinerant judge with authority across clan boundaries.
 
-**Eiríkr Lawgiver** – A fellow devotee of Týr who works alongside Sigvardr, providing legal expertise to complement Sigvardr's martial authority.
+**Eiríkr Lawgiver**—A fellow devotee of Týr who works alongside Sigvardr, providing legal expertise to complement Sigvardr's martial authority.
 
 ### Enemies
 
-**The former Jarl Halvdan** – The corrupt lord Sigvardr defeated in combat has never forgiven the humiliation. Though stripped of his title, Halvdan still commands loyal followers and plots revenge.
+**The former Jarl Halvdan**—The corrupt lord Sigvardr defeated in combat has never forgiven the humiliation. Though stripped of his title, Halvdan still commands loyal followers and plots revenge.
 
-**The Blood Eagle Clan** – A raider clan that follows the old ways of blood-vengeance and views Sigvardr's legal reforms as an attack on their traditions and honor.
+**The Blood Eagle Clan**—A raider clan that follows the old ways of blood-vengeance and views Sigvardr's legal reforms as an attack on their traditions and honor.
 
 ## Plot Hooks
 
-1. **The Unjust Execution** – A man condemned to death under Sigvardr's judgment has been found innocent after new evidence emerged. The execution has already been carried out. Sigvardr must face the consequences of his own fallibility and track down who planted the false evidence.
+1. **The Unjust Execution**—A man condemned to death under Sigvardr's judgment has been found innocent after new evidence emerged. The execution has already been carried out. Sigvardr must face the consequences of his own fallibility and track down who planted the false evidence.
 
-2. **The Blood Price** – The Blood Eagle Clan has kidnapped several villagers and demands the abolition of Sigvardr's legal reforms as ransom. Negotiation may be impossible, but a frontal assault risks the hostages' lives.
+2. **The Blood Price**—The Blood Eagle Clan has kidnapped several villagers and demands the abolition of Sigvardr's legal reforms as ransom. Negotiation may be impossible, but a frontal assault risks the hostages' lives.
 
-3. **Týr's Test** – Sigvardr is visited by a vision of Týr demanding that he sacrifice something even dearer than his hand. The nature of the sacrifice is unclear, but refusing may cost him his divine connection.
+3. **Týr's Test**—Sigvardr is visited by a vision of Týr demanding that he sacrifice something even dearer than his hand. The nature of the sacrifice is unclear, but refusing may cost him his divine connection.

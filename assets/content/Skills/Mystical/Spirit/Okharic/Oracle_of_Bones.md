@@ -2,7 +2,7 @@
 tags:
   - nkaruthar
   - spirit-power
-description: "Standing with The Oracle of Bones, zohira of death and prophecy – what this emissary of the Flame is petitioned and interceded with."
+description: "Standing with The Oracle of Bones, zohira of death and prophecy—what this emissary of the Flame is petitioned and interceded with."
 type: skill
 subType: mystical
 shortcode: orclbonessprt
@@ -24,4 +24,4 @@ sohl:
 packFolder: spiritskillsokharic
 ---
 
-See [[lore-orclbonesspr|The Oracle of Bones]] – zohira of death and prophecy, met through [[affiliation-njiayaroho|the Njia ya Roho]].
+See [[lore-orclbonesspr|The Oracle of Bones]]—zohira of death and prophecy, met through [[affiliation-njiayaroho|the Njia ya Roho]].

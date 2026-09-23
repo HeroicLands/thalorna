@@ -49,7 +49,7 @@ event:
     - where they came from, and whether Thalorna was a destination or a stop
     - what they were doing away from Kalihara for the better part of three thousand years
     - whether the works are technology past the world's understanding or a magic nobody else has practiced
-    - the record gives a bound and not a date – the Ithári were here before 10,000 BF, and nothing says how long before
+    - the record gives a bound and not a date—the Ithári were here before 10,000 BF, and nothing says how long before
 ---
 
 The Kaliharan record opens with the coming of the Ithári and says nothing of what preceded it. They
@@ -59,9 +59,9 @@ them in.
 
 Everything anyone knows of them is one island's testimony, and the island has never published. Outside
 [[affiliation-kalihara|Kalihara]] there is no tradition of them, no fragment of history, and not even
-the fact that there was anybody to know about. What exists elsewhere are **sites** – seamless
+the fact that there was anybody to know about. What exists elsewhere are **sites**—seamless
 structures of a gray substance nothing can mark, standing in country with no memory of anything having
-been there – and to every people that lives beside one, a site is a local marvel with a local name and
+been there—and to every people that lives beside one, a site is a local marvel with a local name and
 a story about something else.
 
 That scatter is the strongest evidence that the island was a choice rather than the whole of their

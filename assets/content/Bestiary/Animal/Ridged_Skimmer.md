@@ -286,7 +286,7 @@ sohl:
 
 ![[rdgdskmm|Ridged Skimmer]]{float: top-left}
 
-The water erupts with wrongness – a sinuous neck rising from dark depths, scales sliding across each other with a wet, sliding sound. The thing’s eyes emerge first, unblinking and alien, then the elongated snout with teeth like needle points revealed as the mouth opens. The creature moves with predatory grace that seems at odds with its emergence from murky water, and the sound that rumbles from its chest is something between a crocodile’s hiss and a creature gargling blood. The water around it seems to chill, and you instinctively understand that you have just been assessed as either threat or prey.
+The water erupts with wrongness—a sinuous neck rising from dark depths, scales sliding across each other with a wet, sliding sound. The thing’s eyes emerge first, unblinking and alien, then the elongated snout with teeth like needle points revealed as the mouth opens. The creature moves with predatory grace that seems at odds with its emergence from murky water, and the sound that rumbles from its chest is something between a crocodile’s hiss and a creature gargling blood. The water around it seems to chill, and you instinctively understand that you have just been assessed as either threat or prey.
 
 # Dossier {#dossier}
 

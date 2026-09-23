@@ -1,5 +1,5 @@
 ---
-description: "Mountainous heartland of Tarvénia, seat of the High King – kingdom of mountain fortresses never conquered by Vylaria, spiritual core of Tarvénan independence."
+description: "Mountainous heartland of Tarvénia, seat of the High King—kingdom of mountain fortresses never conquered by Vylaria, spiritual core of Tarvénan independence."
 type: affiliation
 name:
   full: Kingdom of Astúrath
@@ -19,7 +19,7 @@ data:
         title: Outlaw
         lore: outlawrnk
         description: >-
-          Cast out by the realm and set beyond its protection – outlawed, banished, or attainted.
+          Cast out by the realm and set beyond its protection—outlawed, banished, or attainted.
           Known to the polity only as one it has excluded.
       - level: 1
         title: Unfree
@@ -97,14 +97,14 @@ data:
       Justiciar: Chief justice of the realm, and commonly its regent when the sovereign is
         absent.
       Butler: >-
-        Holder of the crown's right in wine and the levy upon it – a revenue office far richer
+        Holder of the crown's right in wine and the levy upon it—a revenue office far richer
         than its name suggests.
       Admiral: Commander of the realm's ships and of the coasts they guard.
       Sheriff: >-
         The crown's officer within a shire, answerable for its revenue, its courts, and the
         raising of its posse.
       Coroner: >-
-        Keeper of the pleas of the crown within a district – sudden deaths, wrecks, and treasure
+        Keeper of the pleas of the crown within a district—sudden deaths, wrecks, and treasure
         trove.
       Escheator: >-
         Officer charged with lands falling to the crown by death without heir, by forfeiture,
@@ -122,7 +122,7 @@ data:
       Forester: Keeper of the royal forests and of the distinct law that governs them
       Purveyor: >-
         Officer empowered to requisition goods and labor for the household at the crown's
-        price – an office universally resented.
+        price—an office universally resented.
       Regent: One ruling in the sovereign's stead during minority, absence, or incapacity.
       Privy Councillor: >-
         Member of the sovereign's inner council, advising on matters not brought before any
@@ -134,7 +134,7 @@ data:
         even between enemies.
       Master of the Horse: Keeper of the sovereign's stables, mounts, and the men who tend
         them.
-      Master of the Hunt: Keeper of the sovereign's hunt – its hounds, its quarry, and its
+      Master of the Hunt: Keeper of the sovereign's hunt—its hounds, its quarry, and its
         grounds.
       Falconer: >-
         Keeper of the sovereign's hawks; a household post whose value lies chiefly in the
@@ -181,24 +181,24 @@ packFolder: tarvenia
 
 ## Overview
 
-Astúrath is the mountainous heartland of [[place-tarvenirgn|Tarvénia Region]] and the spiritual core of Tarvénan independence. Its fortress-towns cling to steep mountain valleys and high plateaus in the interior ranges, and its lords have never been conquered – not by the [[affiliation-vylarinmpr|Vylarian Empire]], not by anyone. The High King of Tarvénia is traditionally (though not always) drawn from the Astúrathi nobility, and the kingdom considers itself the keeper of the true Tarvénan warrior tradition. The kingdom holds the land of [[place-asturath|Astúrath]].
+Astúrath is the mountainous heartland of [[place-tarvenirgn|Tarvénia Region]] and the spiritual core of Tarvénan independence. Its fortress-towns cling to steep mountain valleys and high plateaus in the interior ranges, and its lords have never been conquered—not by the [[affiliation-vylarinmpr|Vylarian Empire]], not by anyone. The High King of Tarvénia is traditionally (though not always) drawn from the Astúrathi nobility, and the kingdom considers itself the keeper of the true Tarvénan warrior tradition. The kingdom holds the land of [[place-asturath|Astúrath]].
 
 ## Character
 
-Astúrath is the most martial and conservative of the Tarvénan regions. Its people are mountain folk – tough, proud, and deeply attached to the old ways. The kingdom's lords rule from fortified hilltop castles, and the social order is built on bonds of personal loyalty between lord and retainer rather than bureaucratic administration. Every free man is expected to bear arms, and the mountain clans maintain a warrior readiness that borders on paranoia.
+Astúrath is the most martial and conservative of the Tarvénan regions. Its people are mountain folk—tough, proud, and deeply attached to the old ways. The kingdom's lords rule from fortified hilltop castles, and the social order is built on bonds of personal loyalty between lord and retainer rather than bureaucratic administration. Every free man is expected to bear arms, and the mountain clans maintain a warrior readiness that borders on paranoia.
 
-Invading armies that have ventured into Astúrath's mountains have universally regretted it. The Vylarian legions, after several disastrous campaigns, eventually settled for holding the lowland approaches and leaving the mountains alone – a fact the Astúrathi have never tired of celebrating.
+Invading armies that have ventured into Astúrath's mountains have universally regretted it. The Vylarian legions, after several disastrous campaigns, eventually settled for holding the lowland approaches and leaving the mountains alone—a fact the Astúrathi have never tired of celebrating.
 
 The council of mountain lords meets here to elect a new High King when the throne falls vacant, a process that is equal parts solemn ceremony and bare-knuckle political brawl.
 
 ## Commerce and Currency
 
-Kingdom of Astúrath uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Kingdom of Astúrath is a post-imperial commonwealth member – it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Kingdom of Astúrath uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Kingdom of Astúrath is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
-- [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] – The loose overlord
-- [[place-tarvenirgn|Tarvénia Region]] – Regional overview
-- [[place-asturath|Astúrath]] – The land the kingdom holds
-- [[affiliation-kngdmglvrn|Kingdom of Galváren]], [[affiliation-kingdmlnrk|Kingdom of Léonrik]] – Sister kingdoms
-- [[affiliation-frctyvlthr|Free City of Valthári]], [[affiliation-frtrtryskrth|Free Territory of Eskárath]] – Fellow Tarvénan regions
+- [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]—The loose overlord
+- [[place-tarvenirgn|Tarvénia Region]]—Regional overview
+- [[place-asturath|Astúrath]]—The land the kingdom holds
+- [[affiliation-kngdmglvrn|Kingdom of Galváren]], [[affiliation-kingdmlnrk|Kingdom of Léonrik]]—Sister kingdoms
+- [[affiliation-frctyvlthr|Free City of Valthári]], [[affiliation-frtrtryskrth|Free Territory of Eskárath]]—Fellow Tarvénan regions

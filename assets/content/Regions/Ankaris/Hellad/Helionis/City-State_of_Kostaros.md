@@ -52,8 +52,8 @@ data:
         title: Magistrate
         lore: magistraternk
         description: >-
-          Elected or allotted to an office of the city – its markets, its walls, its treasury,
-          its courts – and audited at the end of the year.
+          Elected or allotted to an office of the city—its markets, its walls, its treasury,
+          its courts—and audited at the end of the year.
       - level: 7
         title: Strategos
         lore: magistraternk
@@ -64,7 +64,7 @@ data:
         title: Archon
         lore: grandmasterrnk
         description: >-
-          Presiding magistrate of the year, who gives it his name and hands it back – the assembly
+          Presiding magistrate of the year, who gives it his name and hands it back—the assembly
           remains sovereign throughout.
     offices:
       Archon: >-
@@ -78,7 +78,7 @@ data:
       Treasurer: >-
         Keeper of the city's revenue and of the sacred treasuries, audited publicly at the
         end of his term.
-      Agoranomos: Warden of the market – its weights, its coin, its quality and its disputes.
+      Agoranomos: Warden of the market—its weights, its coin, its quality and its disputes.
       Nomophylax: Guardian of the laws, who may halt a decree of the assembly that contradicts
         them.
       Secretary of the Council: Keeper of the council's record and of the decrees the assembly
@@ -119,7 +119,7 @@ Kostaros is one of the [[affiliation-ctysttshlns|Helionite city-states]], a coas
 
 ## See Also
 
-- [[affiliation-ctysttshlns|City-States of Heliónis]] – The confederation
-- [[place-helionis|Heliónis]] – Regional overview
-- [[place-kostarosdst|Kostaros District]] – The land the city-state holds
-- Myrtillos – Coastal town within its territory
+- [[affiliation-ctysttshlns|City-States of Heliónis]]—The confederation
+- [[place-helionis|Heliónis]]—Regional overview
+- [[place-kostarosdst|Kostaros District]]—The land the city-state holds
+- Myrtillos—Coastal town within its territory

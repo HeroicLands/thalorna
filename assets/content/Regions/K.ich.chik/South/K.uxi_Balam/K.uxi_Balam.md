@@ -1,7 +1,7 @@
 ---
 tags:
   - polity
-description: High altiplano of sacred lakes, pastoral priesthood, and mountain passes – the southern frontier of K'ich'chik civilization.
+description: High altiplano of sacred lakes, pastoral priesthood, and mountain passes—the southern frontier of K'ich'chik civilization.
 name:
   full: K'uxi Balam
   aliases: []
@@ -40,7 +40,7 @@ data:
         title: Craftsman
         lore: journeymanrnk
         description: >-
-          Of the skilled trades – potters, weavers, feather-workers, stone-cutters – attached
+          Of the skilled trades—potters, weavers, feather-workers, stone-cutters—attached
           to a lord's household or a temple.
       - level: 4
         title: Warrior
@@ -89,7 +89,7 @@ data:
       Ah Kulel: Deputy and herald of a lord, who carries his word and is answered as if it
         were his.
       Ah Ppolom: >-
-        Master merchant of the long-distance trade in cacao, salt, obsidian and jade – and
+        Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and
         a lord's eyes abroad.
       Ballcourt Keeper: >-
         Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice
@@ -111,7 +111,7 @@ packFolder: kuxibalam
 
 ## Overview
 
-K'uxi Balam holds the land of [[place-kuxibalamrgn|K'uxi Balam Region]]. The Ch'um Ix'lan relay network thins here as well; Ch'umbal way-stations are spaced further apart, runners are harder to recruit for the harsh southern routes, and messages from [[affiliation-balamkul|Balamkul]] that arrive in two days at [[affiliation-kankul|K'ankul]] take five or six to reach K'uxi Balam's outpost cities. Beyond K'uxi Balam, the Speaking Road falls silent entirely – the last tz'ib'al cord to arrive is decoded at [[place-kawilulkik|K'awi'il'ul Ki'ik]], and what lies further south relies on the courage of individual messengers. Those who venture south from K'uxi Balam do so with offerings and prayers heavy on their lips.
+K'uxi Balam holds the land of [[place-kuxibalamrgn|K'uxi Balam Region]]. The Ch'um Ix'lan relay network thins here as well; Ch'umbal way-stations are spaced further apart, runners are harder to recruit for the harsh southern routes, and messages from [[affiliation-balamkul|Balamkul]] that arrive in two days at [[affiliation-kankul|K'ankul]] take five or six to reach K'uxi Balam's outpost cities. Beyond K'uxi Balam, the Speaking Road falls silent entirely—the last tz'ib'al cord to arrive is decoded at [[place-kawilulkik|K'awi'il'ul Ki'ik]], and what lies further south relies on the courage of individual messengers. Those who venture south from K'uxi Balam do so with offerings and prayers heavy on their lips.
 
 ## Maritime Powers
 
@@ -121,13 +121,13 @@ Control of the major passes and highland routes is contested between the great c
 
 ## Trade
 
-The priesthood maintains strict control over K'uxi Balam's resources. Large portions of the pastoral herds and grain harvests are claimed as tribute or tithe, and little of true wealth leaves the region – most is hoarded in temple treasuries or consumed in ritual sacrifice. This has created a frontier mentality; the cities are garrison-like, their economies oriented toward survival and the provisioning of expeditions rather than the accumulation of luxury goods.
+The priesthood maintains strict control over K'uxi Balam's resources. Large portions of the pastoral herds and grain harvests are claimed as tribute or tithe, and little of true wealth leaves the region—most is hoarded in temple treasuries or consumed in ritual sacrifice. This has created a frontier mentality; the cities are garrison-like, their economies oriented toward survival and the provisioning of expeditions rather than the accumulation of luxury goods.
 
 ## See Also
 
-- [[affiliation-balamtzaku|Ba'alam Tza'ku]] – The wealthier realm to the north
-- [[affiliation-kawiltzakl|K'awiil Tza'kul]] – The boundary lands where civilization falters
-- [[place-ixkulkul|Ixkul K'ul]] – The sacred lake and pilgrimage destination
-- [[place-kawilulkik|K'awi'il'ul Ki'ik]] – The frontier garrison city
-- [[affiliation-itzanpnthn|Itzáni]] – The priesthood that commands these lands
-- [[place-kuxibalamrgn|K'uxi Balam Region]] – The land K'uxi Balam holds
+- [[affiliation-balamtzaku|Ba'alam Tza'ku]]—The wealthier realm to the north
+- [[affiliation-kawiltzakl|K'awiil Tza'kul]]—The boundary lands where civilization falters
+- [[place-ixkulkul|Ixkul K'ul]]—The sacred lake and pilgrimage destination
+- [[place-kawilulkik|K'awi'il'ul Ki'ik]]—The frontier garrison city
+- [[affiliation-itzanpnthn|Itzáni]]—The priesthood that commands these lands
+- [[place-kuxibalamrgn|K'uxi Balam Region]]—The land K'uxi Balam holds

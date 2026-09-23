@@ -5,7 +5,7 @@ tags:
 name:
   full: The Full Measure
   aliases: []
-description: "Reads the true state of a body of water – its depth, its course, and what it will do next."
+description: "Reads the true state of a body of water—its depth, its course, and what it will do next."
 shortcode: fllmsr
 type: mysticalability
 subType: arcaneincantation

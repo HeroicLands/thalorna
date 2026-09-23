@@ -22,7 +22,7 @@ data:
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out – denied the rites, the temple and the burial the faith promises, which is the one
+          Cast out—denied the rites, the temple and the burial the faith promises, which is the one
           sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
@@ -82,9 +82,9 @@ The worship of Lúsinía is characterized by intimate connection to the living w
 
 The great festival honoring Lúsinía occurs in early spring as the land awakens from winter's grip. The Festival of First Growth is a time of joyous celebration and ritual planting. The faithful process through cities and countryside planting seeds in communal gardens, while priestesses bless the fields and offer prayers for abundance. Young couples may pledge themselves to Lúsinía during this festival, and such unions are thought to be blessed with fertility and long life. In rural communities, the festival includes feasting on early vegetables and wines made from the previous year's harvest, with portions left as offerings at Lúsinía's shrines.
 
-Individual worship centers on tending and nurturing – gardeners, farmers, and herbalists invoke Lúsinía as they work the soil and tend growing things. Many homes maintain small shrines to the goddess with fresh flowers or growing herbs, and a family's first harvest of the season is presented at these shrines before consumption. Pregnant women often make pilgrimage to temples of Lúsinía to pray for safe delivery and healthy children. Sick individuals are brought to her healing sanctuaries, where priestesses prepare remedies from sacred plants grown in the temple gardens.
+Individual worship centers on tending and nurturing—gardeners, farmers, and herbalists invoke Lúsinía as they work the soil and tend growing things. Many homes maintain small shrines to the goddess with fresh flowers or growing herbs, and a family's first harvest of the season is presented at these shrines before consumption. Pregnant women often make pilgrimage to temples of Lúsinía to pray for safe delivery and healthy children. Sick individuals are brought to her healing sanctuaries, where priestesses prepare remedies from sacred plants grown in the temple gardens.
 
-The symbol of Lúsinía – the spinning wheel encircled by vines – represents both the labor of creation and the interconnected growth of all life. Weavers and textile workers revere her, and many guilds of craftspeople maintain small shrines to the goddess, acknowledging that all creation flows from her divine hand. Offerings to Lúsinía are simple and organic: flowers, grain, honey, and fresh fruit placed upon her altars.
+The symbol of Lúsinía—the spinning wheel encircled by vines—represents both the labor of creation and the interconnected growth of all life. Weavers and textile workers revere her, and many guilds of craftspeople maintain small shrines to the goddess, acknowledging that all creation flows from her divine hand. Offerings to Lúsinía are simple and organic: flowers, grain, honey, and fresh fruit placed upon her altars.
 
 ## Organization
 
@@ -98,8 +98,8 @@ A distinctive feature of Lúsinía's temples is the **Collegium of Growing Thing
 
 Lúsinía stands in complementary partnership with [[affiliation-florania|Flórania]], together embodying the full cycle of growth and fertility. Where Flórania represents the joy of sexual fertility and the explosion of spring blooms, Lúsinía offers the patient, methodical creation and nurturing that sustains life across generations. The two goddesses are often invoked together in harvest blessings and pregnancy rites, their domains harmonious and mutually supportive.
 
-The relationship with [[affiliation-morvana|Mórváná]] is acknowledged with respect rather than conflict. Lúsinía teaches that creation and decay are inseparable – a plant must fall and rot to nourish the soil that feeds new growth; a forest must have wildfire and renewal. The priesthoods recognize this cycle, though Lúsinía's faithful emphasize growth while Mórváná's emphasize endings. Together they represent the eternal wheel.
+The relationship with [[affiliation-morvana|Mórváná]] is acknowledged with respect rather than conflict. Lúsinía teaches that creation and decay are inseparable—a plant must fall and rot to nourish the soil that feeds new growth; a forest must have wildfire and renewal. The priesthoods recognize this cycle, though Lúsinía's faithful emphasize growth while Mórváná's emphasize endings. Together they represent the eternal wheel.
 
 Lúsinía maintains cordial relations with [[affiliation-menerva|Ménérva]], recognizing that the goddess of knowledge helps unlock the secrets of growing things. Temple libraries of the two faiths often share information about agriculture, medicine, and natural philosophy.
 
-The attitude toward [[affiliation-karnavos|Karnavos]] is wary but not hostile. Lúsinía understands that wild chaos and unexpected disruption are forces of nature – storms bring rain, forest fires clear deadwood and release seeds – but the priesthood teaches that such chaos must be balanced with cultivation and order. Where Karnavos represents untamed nature, Lúsinía represents nature brought into harmony with civilization.
+The attitude toward [[affiliation-karnavos|Karnavos]] is wary but not hostile. Lúsinía understands that wild chaos and unexpected disruption are forces of nature—storms bring rain, forest fires clear deadwood and release seeds—but the priesthood teaches that such chaos must be balanced with cultivation and order. Where Karnavos represents untamed nature, Lúsinía represents nature brought into harmony with civilization.

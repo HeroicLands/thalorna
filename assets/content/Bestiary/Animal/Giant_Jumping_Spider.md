@@ -256,7 +256,7 @@ sohl:
 
 ![[gntjmpng|Giant Jumping Spider]]{float: top-left}
 
-Something impossible catches the corner of your eye – a shape that moves too fast to fully track. When you spin to look, you see nothing. Then, from a nearby rock, eight eyes catch the light and reflect it back at you – luminous, intelligent, watching. The spider is only visible when it moves, its mottled brown-and-black fur seemingly part of the stone itself. The moment it knows it’s been seen, the hind legs tense and bunch – you can see the muscles coiling – and the creature begins to move sideways, never breaking eye contact. All eight eyes focus on you with an intensity that feels almost predatory. The sensation is wrong: a non-humanoid thing that clearly sees you as thoroughly as you see it.
+Something impossible catches the corner of your eye—a shape that moves too fast to fully track. When you spin to look, you see nothing. Then, from a nearby rock, eight eyes catch the light and reflect it back at you—luminous, intelligent, watching. The spider is only visible when it moves, its mottled brown-and-black fur seemingly part of the stone itself. The moment it knows it’s been seen, the hind legs tense and bunch—you can see the muscles coiling—and the creature begins to move sideways, never breaking eye contact. All eight eyes focus on you with an intensity that feels almost predatory. The sensation is wrong: a non-humanoid thing that clearly sees you as thoroughly as you see it.
 
 # Dossier {#dossier}
 
@@ -268,7 +268,7 @@ The Giant Jumping Spider has a compact, heavily-haired body in shades of glossy 
 
 ## Key Behaviors
 
-Giant Jumping Spiders are solitary hunters that establish territories but do not defend them violently – instead, they simply maintain hunting grounds and silk-lined refuges. They are diurnal and most active during daylight hours when their vision is most effective. A spider stalks prey methodically, using its sharp vision to track movement from considerable distances, then closes with a single explosive leap when the distance is right. They are not web-builders – they create only small silk shelters for rest and safety, and they lay down silk anchor lines during jumps for safety in case of miscalculation. They communicate visually with other spiders during mating season, using elaborate displays.
+Giant Jumping Spiders are solitary hunters that establish territories but do not defend them violently—instead, they simply maintain hunting grounds and silk-lined refuges. They are diurnal and most active during daylight hours when their vision is most effective. A spider stalks prey methodically, using its sharp vision to track movement from considerable distances, then closes with a single explosive leap when the distance is right. They are not web-builders—they create only small silk shelters for rest and safety, and they lay down silk anchor lines during jumps for safety in case of miscalculation. They communicate visually with other spiders during mating season, using elaborate displays.
 
 ## Combat Strategy
 
@@ -278,11 +278,11 @@ A Giant Jumping Spider relies on surprise and the shock of sudden violence. It s
 
 ### Venomous Fangs
 
-The spider’s bite injects a fast-acting venom designed to paralyze prey – a creature bitten by a giant jumping spider must resist the venom or be paralyzed by degrees. The venom is not lethal to humanoids unless exposure is extreme.
+The spider’s bite injects a fast-acting venom designed to paralyze prey—a creature bitten by a giant jumping spider must resist the venom or be paralyzed by degrees. The venom is not lethal to humanoids unless exposure is extreme.
 
 ### Pouncing Tackle
 
-The spider uses its leap to land atop prey and grapple – the impact and the spider’s weight are combined with the grip of the spider’s legs to hold the target in place while the fangs deliver venom.
+The spider uses its leap to land atop prey and grapple—the impact and the spider’s weight are combined with the grip of the spider’s legs to hold the target in place while the fangs deliver venom.
 
 ## Special Abilities
 
@@ -300,7 +300,7 @@ When leaping, the spider lays down a silk line that provides both safety (preven
 
 ## Additional Information
 
-A dead giant jumping spider’s fangs are sometimes harvested and used to craft weapons that deliver venom. The spider’s own venom is valuable to alchemists. Some have attempted to domesticate or recruit jumping spiders as allies – the creatures are intelligent enough that negotiation is theoretically possible, though results vary widely.
+A dead giant jumping spider’s fangs are sometimes harvested and used to craft weapons that deliver venom. The spider’s own venom is valuable to alchemists. Some have attempted to domesticate or recruit jumping spiders as allies—the creatures are intelligent enough that negotiation is theoretically possible, though results vary widely.
 
 ## Attributes
 

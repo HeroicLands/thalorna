@@ -3,7 +3,7 @@ tags:
   - sacred
   - hill
   - woodland
-description: "An abandoned shrine hidden in the Thúravel Hills – a place of powerful pre-Aurèldían worship of the Old Gods, undisturbed for centuries and guarded still by fae spirits."
+description: "An abandoned shrine hidden in the Thúravel Hills—a place of powerful pre-Aurèldían worship of the Old Gods, undisturbed for centuries and guarded still by fae spirits."
 type: place
 subType: site
 data:
@@ -44,7 +44,7 @@ are not described as hostile so much as _unrelenting_: bound to a duty that no l
 report to, and entirely uninterested in the fact that the world has changed around them.
 
 Nothing suggests they can be fought profitably. Everything suggests they can be addressed, if the
-addresser knows the older forms – which is why the antiquarians who want to reach the shrine and the
+addresser knows the older forms—which is why the antiquarians who want to reach the shrine and the
 hill families who know how to speak to it have such a difficult, mutually suspicious relationship.
 
 ## Why It Matters Now

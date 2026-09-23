@@ -1,7 +1,7 @@
 ---
 tags:
   - region
-description: "The shrine-islands; a quiet pilgrimage nome of marsh-temples and few people – the land of the Nome of Sept-Neteru, one of the delta nomes of Ta'Kheperu."
+description: "The shrine-islands; a quiet pilgrimage nome of marsh-temples and few people—the land of the Nome of Sept-Neteru, one of the delta nomes of Ta'Kheperu."
 name:
   full: Sept-Neteru
   aliases: []
@@ -29,21 +29,21 @@ The shrine-islands; a quiet pilgrimage nome of marsh-temples and few people. Bey
 
 ## Economy
 
-Like every Kheperi nome it runs on the flood, the harvest and the render – grain to the granaries, labor to the canals and the flood-season works, and a share of everything to the temples and the crown. What it contributes to the empire beyond that is what its character names: the shrine-islands; a quiet pilgrimage nome of marsh-temples and few people.
+Like every Kheperi nome it runs on the flood, the harvest and the render—grain to the granaries, labor to the canals and the flood-season works, and a share of everything to the temples and the crown. What it contributes to the empire beyond that is what its character names: the shrine-islands; a quiet pilgrimage nome of marsh-temples and few people.
 
 ## Notable Features
 
-- [[place-iatneteru|Iat-Neteru]] – the nome capital and the Haty'a's seat
+- [[place-iatneteru|Iat-Neteru]]—the nome capital and the Haty'a's seat
 - The chief temple of [[affiliation-iset|Íšét]] and its estates
 - The shrine-islands; a quiet pilgrimage nome of marsh-temples and few people
 
 ## Settlements
 
-- **[[place-iatneteru|Iat-Neteru]]** (~11,000) – the nome capital and the seat of the Haty'a.
+- **[[place-iatneteru|Iat-Neteru]]** (~11,000)—the nome capital and the seat of the Haty'a.
 - **The villages and estate-towns:** the ordinary settlements of the nome, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
-- [[affiliation-nomesptntr|The Nome of Sept-Neteru]] – The nome that holds this land
-- [[place-takheperurgn|Ta'Kheperu Region]] – The enclosing region
-- [[place-iatneteru|Iat-Neteru]] – Nome capital
+- [[affiliation-nomesptntr|The Nome of Sept-Neteru]]—The nome that holds this land
+- [[place-takheperurgn|Ta'Kheperu Region]]—The enclosing region
+- [[place-iatneteru|Iat-Neteru]]—Nome capital

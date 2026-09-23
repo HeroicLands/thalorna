@@ -617,11 +617,11 @@ sohl:
 
 ![[pyrclsm|Pyroclasm]]{float: top-left}
 
-Before you stands contained catastrophe – a roughly humanoid shape twelve feet tall, composed of roiling lava and burning rock held in violent cohesion. Its movements are aggressive and jerky, as if barely contained by the effort of maintaining form. Where it stands, the ground melts and the air shimmers. Magma drips from its limbs like sweat, and its breath is literally fire. The noise it makes is the hiss of lava striking water, the roar of volcanic eruption, the crackle of a world burning. When it looks at you, you are certain you are looking at something that simply wants to incinerate everything.
+Before you stands contained catastrophe—a roughly humanoid shape twelve feet tall, composed of roiling lava and burning rock held in violent cohesion. Its movements are aggressive and jerky, as if barely contained by the effort of maintaining form. Where it stands, the ground melts and the air shimmers. Magma drips from its limbs like sweat, and its breath is literally fire. The noise it makes is the hiss of lava striking water, the roar of volcanic eruption, the crackle of a world burning. When it looks at you, you are certain you are looking at something that simply wants to incinerate everything.
 
 # Dossier {#dossier}
 
-A Pyroclasm is volcanic devastation made animate – a fire elemental of tremendous power but less intelligent and more chaotic than larger fire creatures. It is born from active volcanoes and is drawn to places of heat and burning. A Pyroclasm encountered away from volcanic regions is likely an escaped binding, and it will consume and destroy everything in its path toward cooler water. In volcanic regions, Pyroclasms are natural phenomena, as inevitable as earthquakes and as destructive.
+A Pyroclasm is volcanic devastation made animate—a fire elemental of tremendous power but less intelligent and more chaotic than larger fire creatures. It is born from active volcanoes and is drawn to places of heat and burning. A Pyroclasm encountered away from volcanic regions is likely an escaped binding, and it will consume and destroy everything in its path toward cooler water. In volcanic regions, Pyroclasms are natural phenomena, as inevitable as earthquakes and as destructive.
 
 ## Presentation
 

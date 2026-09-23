@@ -195,19 +195,19 @@ sohl:
 
 ![[grmshdw|Grimshadow]]{float: top-left}
 
-The temperature drops so suddenly you can see your breath misting in the air. In your peripheral vision, something moves – but when you turn to look directly at it, only shadow remains. You feel watched and hunted, prey to something you cannot quite see. There is a cold on your skin that has nothing to do with winter.
+The temperature drops so suddenly you can see your breath misting in the air. In your peripheral vision, something moves—but when you turn to look directly at it, only shadow remains. You feel watched and hunted, prey to something you cannot quite see. There is a cold on your skin that has nothing to do with winter.
 
 # Dossier {#dossier}
 
-Grimshadows are ancient malevolent spirits that haunt places of old tragedy and despair. They are not demons, not undead, but something older and stranger – creatures born from concentrated terror and suffering. A Grimshadow is often tied to a location, anchored by the death or torment that created it, though some wander at will. They feed on fear and despair rather than flesh, making them more dangerous to the mind than the body. A victim of a Grimshadow may survive physically but be left broken spiritually. Most encounters with Grimshadows are a contest of nerve rather than of arms.
+Grimshadows are ancient malevolent spirits that haunt places of old tragedy and despair. They are not demons, not undead, but something older and stranger—creatures born from concentrated terror and suffering. A Grimshadow is often tied to a location, anchored by the death or torment that created it, though some wander at will. They feed on fear and despair rather than flesh, making them more dangerous to the mind than the body. A victim of a Grimshadow may survive physically but be left broken spiritually. Most encounters with Grimshadows are a contest of nerve rather than of arms.
 
 ## Presentation
 
-The Grimshadow has no fixed form. It appears as an absence of light more than a presence – a humanoid silhouette carved from deeper darkness, roughly seven feet tall. Where eyes should be, two points of red or amber light burn with terrible intelligence. Its outline shifts and wavers, and dark tendrils extend and withdraw like the tentacles of some deep-sea thing. It moves without the normal restrictions of weight or momentum, flowing across surfaces as easily as shadow flows across a wall. Where it passes, frost crystallizes in an instant and melts just as quickly.
+The Grimshadow has no fixed form. It appears as an absence of light more than a presence—a humanoid silhouette carved from deeper darkness, roughly seven feet tall. Where eyes should be, two points of red or amber light burn with terrible intelligence. Its outline shifts and wavers, and dark tendrils extend and withdraw like the tentacles of some deep-sea thing. It moves without the normal restrictions of weight or momentum, flowing across surfaces as easily as shadow flows across a wall. Where it passes, frost crystallizes in an instant and melts just as quickly.
 
 ## Key Behaviors
 
-Grimshadows prefer to stalk rather than ambush, following their prey and feeding off the growing anxiety of being hunted. They often manifest in places where travelers are already vulnerable – lost parties, isolated individuals, those fleeing other dangers. A Grimshadow may follow a caravan for days, appearing at dusk, vanishing at dawn, slowly corroding the victims' courage and sanity through sustained dread. Unlike other predators, they do not rush the kill. A Grimshadow can sustain itself on fear alone and will sometimes toy with victims indefinitely, feeding on their slow degradation. They show strong territorial behavior around places of past tragedy, and will defend such areas aggressively against intruders.
+Grimshadows prefer to stalk rather than ambush, following their prey and feeding off the growing anxiety of being hunted. They often manifest in places where travelers are already vulnerable—lost parties, isolated individuals, those fleeing other dangers. A Grimshadow may follow a caravan for days, appearing at dusk, vanishing at dawn, slowly corroding the victims' courage and sanity through sustained dread. Unlike other predators, they do not rush the kill. A Grimshadow can sustain itself on fear alone and will sometimes toy with victims indefinitely, feeding on their slow degradation. They show strong territorial behavior around places of past tragedy, and will defend such areas aggressively against intruders.
 
 ## Combat Strategy
 
@@ -217,7 +217,7 @@ Grimshadows do not fight directly if they can help it. They use fear and illusio
 
 ### Shadow Strike
 
-Tendrils of living darkness coalesce around the creature's form and strike with supernatural precision. The blow is both physical and spiritual – victims feel as though their strength drains with each impact, and the horror of being struck by something that should not exist is crushing.
+Tendrils of living darkness coalesce around the creature's form and strike with supernatural precision. The blow is both physical and spiritual—victims feel as though their strength drains with each impact, and the horror of being struck by something that should not exist is crushing.
 
 ### Fear Aura
 
@@ -243,7 +243,7 @@ Simply being near a Grimshadow wears at the mind. The longer a victim remains cl
 
 ## Additional Information
 
-Grimshadows are most vulnerable to blessed light and magic associated with hope, courage, and protection. Clerics and priests of faiths emphasizing light and righteousness are natural counters to these creatures. Bright torchlight alone is insufficient; the light must be blessed or magical in nature to fully suppress a Grimshadow. A Grimshadow cannot be permanently killed while anchored to a location – it will reform in that place. To permanently destroy one, the source of its manifestation must be addressed: the curse lifted, the murdered spirit avenged, the old wound cleansed. Some philosophers argue that Grimshadows are not truly evil but wounded, and that redemption or healing is possible. Few have been brave or wise enough to attempt it.
+Grimshadows are most vulnerable to blessed light and magic associated with hope, courage, and protection. Clerics and priests of faiths emphasizing light and righteousness are natural counters to these creatures. Bright torchlight alone is insufficient; the light must be blessed or magical in nature to fully suppress a Grimshadow. A Grimshadow cannot be permanently killed while anchored to a location—it will reform in that place. To permanently destroy one, the source of its manifestation must be addressed: the curse lifted, the murdered spirit avenged, the old wound cleansed. Some philosophers argue that Grimshadows are not truly evil but wounded, and that redemption or healing is possible. Few have been brave or wise enough to attempt it.
 
 ## Attributes
 

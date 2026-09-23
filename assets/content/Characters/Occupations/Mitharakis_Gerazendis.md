@@ -590,10 +590,10 @@ The governor's new favorite, a young singer from the capital who has told the go
 
 ## Plot Hooks
 
-1. **The Satire** – Mitharâkîs told a story at the governor's table about a lord who sold his own pass to the Varokh, and the hall laughed. The next morning a border-lord who had been at the table did not, and the governor has asked to see the fool.
+1. **The Satire**—Mitharâkîs told a story at the governor's table about a lord who sold his own pass to the Varokh, and the hall laughed. The next morning a border-lord who had been at the table did not, and the governor has asked to see the fool.
 
-2. **The Message** – A border-lord has asked Mitharâkîs, who goes where a lord's messenger cannot, to carry a word to a Varokh chief across the line. The word is not treason, quite.
+2. **The Message**—A border-lord has asked Mitharâkîs, who goes where a lord's messenger cannot, to carry a word to a Varokh chief across the line. The word is not treason, quite.
 
-3. **The Favorite** – The young singer has been given the governor's midwinter feast, and Mitharâkîs the servants' hall, which has asked him for the story about the singer.
+3. **The Favorite**—The young singer has been given the governor's midwinter feast, and Mitharâkîs the servants' hall, which has asked him for the story about the singer.
 
-4. **The Governor's Temper** – The governor has begun to drink in the afternoons and to take the fool's stories as they are meant, and the officers have asked Mitharâkîs to say to him what they cannot.
+4. **The Governor's Temper**—The governor has begun to drink in the afternoons and to take the fool's stories as they are meant, and the officers have asked Mitharâkîs to say to him what they cannot.

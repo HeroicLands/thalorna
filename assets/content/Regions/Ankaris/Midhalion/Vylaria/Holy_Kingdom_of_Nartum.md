@@ -1,5 +1,5 @@
 ---
-description: "Theocratic kingdom of the Vylarian Empire, seat of the Holy Mother and center of ecclesiastical power – a sanctuary city where the sacred and secular intertwine under priestly rule."
+description: "Theocratic kingdom of the Vylarian Empire, seat of the Holy Mother and center of ecclesiastical power—a sanctuary city where the sacred and secular intertwine under priestly rule."
 type: affiliation
 name:
   full: Holy Kingdom of Nartûm
@@ -21,7 +21,7 @@ data:
         title: Outlaw
         lore: outlawrnk
         description: >-
-          Cast out by the realm and set beyond its protection – outlawed, banished, or attainted.
+          Cast out by the realm and set beyond its protection—outlawed, banished, or attainted.
           Known to the polity only as one it has excluded.
       - level: 1
         title: Unfree
@@ -99,14 +99,14 @@ data:
       Justiciar: Chief justice of the realm, and commonly its regent when the sovereign is
         absent.
       Butler: >-
-        Holder of the crown's right in wine and the levy upon it – a revenue office far richer
+        Holder of the crown's right in wine and the levy upon it—a revenue office far richer
         than its name suggests.
       Admiral: Commander of the realm's ships and of the coasts they guard.
       Sheriff: >-
         The crown's officer within a shire, answerable for its revenue, its courts, and the
         raising of its posse.
       Coroner: >-
-        Keeper of the pleas of the crown within a district – sudden deaths, wrecks, and treasure
+        Keeper of the pleas of the crown within a district—sudden deaths, wrecks, and treasure
         trove.
       Escheator: >-
         Officer charged with lands falling to the crown by death without heir, by forfeiture,
@@ -124,7 +124,7 @@ data:
       Forester: Keeper of the royal forests and of the distinct law that governs them
       Purveyor: >-
         Officer empowered to requisition goods and labor for the household at the crown's
-        price – an office universally resented.
+        price—an office universally resented.
       Regent: One ruling in the sovereign's stead during minority, absence, or incapacity.
       Privy Councillor: >-
         Member of the sovereign's inner council, advising on matters not brought before any
@@ -136,7 +136,7 @@ data:
         even between enemies.
       Master of the Horse: Keeper of the sovereign's stables, mounts, and the men who tend
         them.
-      Master of the Hunt: Keeper of the sovereign's hunt – its hounds, its quarry, and its
+      Master of the Hunt: Keeper of the sovereign's hunt—its hounds, its quarry, and its
         grounds.
       Falconer: >-
         Keeper of the sovereign's hawks; a household post whose value lies chiefly in the
@@ -181,19 +181,19 @@ packFolder: vylaria
 
 ## Overview
 
-The Holy Kingdom of Nartûm is an independent Vylari-speaking realm that shares cultural and linguistic roots with the [[affiliation-vylarinmpr|Vylarian Empire]] but maintains its own sovereignty under a theocratic monarchy. Where the empire's power rests on legions and senators, Nartum's rests on faith – the kingdom defines itself through its devotion to the [[affiliation-arldnpnthn|Aurèldían]] pantheon, and its king rules as a sacred figure blessed by the gods. The kingdom holds the land of [[place-nartumkngdm|Nartûm Kingdom]].
+The Holy Kingdom of Nartûm is an independent Vylari-speaking realm that shares cultural and linguistic roots with the [[affiliation-vylarinmpr|Vylarian Empire]] but maintains its own sovereignty under a theocratic monarchy. Where the empire's power rests on legions and senators, Nartum's rests on faith—the kingdom defines itself through its devotion to the [[affiliation-arldnpnthn|Aurèldían]] pantheon, and its king rules as a sacred figure blessed by the gods. The kingdom holds the land of [[place-nartumkngdm|Nartûm Kingdom]].
 
 ## Character
 
-Nartûm occupies a position somewhere between the Vylarian Empire and the independent western kingdoms. Its people speak an archaic dialect of Vylari, practice the Aurèldían faith with an intensity that makes even Vylarian priests uncomfortable, and regard their kingdom as the true spiritual heir of Vylarian civilization – purified of the empire's corruption and moral decay.
+Nartûm occupies a position somewhere between the Vylarian Empire and the independent western kingdoms. Its people speak an archaic dialect of Vylari, practice the Aurèldían faith with an intensity that makes even Vylarian priests uncomfortable, and regard their kingdom as the true spiritual heir of Vylarian civilization—purified of the empire's corruption and moral decay.
 
-The kingdom is governed by a priestly aristocracy. Noble families derive their authority from religious office, and advancement in Nartumese society requires both lineage and demonstrated piety. The king is anointed by the high priesthood and is expected to embody the virtues of [[affiliation-arldnpnthn|Jánus]] (justice) and [[affiliation-arldnpnthn|Ménérva]] (wisdom). Kings who fail to live up to these expectations have been deposed – the priesthood's power is real, not merely ceremonial.
+The kingdom is governed by a priestly aristocracy. Noble families derive their authority from religious office, and advancement in Nartumese society requires both lineage and demonstrated piety. The king is anointed by the high priesthood and is expected to embody the virtues of [[affiliation-arldnpnthn|Jánus]] (justice) and [[affiliation-arldnpnthn|Ménérva]] (wisdom). Kings who fail to live up to these expectations have been deposed—the priesthood's power is real, not merely ceremonial.
 
-Nartûm is not expansionist, but it is not weak. Its military is small but professional, and its knights – the Order of the Sacred Flame – are among the finest heavy cavalry in western Ankaris. The kingdom's true power, however, is moral authority. Nartum's pronouncements on matters of faith carry weight across the Aurèldían world, and its scholars and theologians are sought out by rulers and churchmen throughout [[place-midhalnrgn|Mídhalión Region]].
+Nartûm is not expansionist, but it is not weak. Its military is small but professional, and its knights—the Order of the Sacred Flame—are among the finest heavy cavalry in western Ankaris. The kingdom's true power, however, is moral authority. Nartum's pronouncements on matters of faith carry weight across the Aurèldían world, and its scholars and theologians are sought out by rulers and churchmen throughout [[place-midhalnrgn|Mídhalión Region]].
 
 ## Relations
 
-Nartûm maintains correct but cool relations with the [[affiliation-vylarinmpr|Vylarian Empire]]. The empire regards Nartûm as a wayward province that should be reabsorbed; Nartûm regards the empire as a corrupted institution that has strayed from the true path. The [[affiliation-ordoarcanis|Ordo Arcanis]] has no presence in Nartûm – the kingdom views the Ordo's secular power and political manipulation as antithetical to proper spiritual life, and mages operating in Nartûm answer to the priesthood, not the Ordo.
+Nartûm maintains correct but cool relations with the [[affiliation-vylarinmpr|Vylarian Empire]]. The empire regards Nartûm as a wayward province that should be reabsorbed; Nartûm regards the empire as a corrupted institution that has strayed from the true path. The [[affiliation-ordoarcanis|Ordo Arcanis]] has no presence in Nartûm—the kingdom views the Ordo's secular power and political manipulation as antithetical to proper spiritual life, and mages operating in Nartûm answer to the priesthood, not the Ordo.
 
 ## Commerce and Currency
 
@@ -201,8 +201,8 @@ Holy Kingdom of Nartûm uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion /
 
 ## See Also
 
-- [[place-nartumkngdm|Nartûm Kingdom]] – The land the kingdom holds
-- Nartûm – The holy city, its seat
-- [[affiliation-vylarinmpr|Vylarian Empire]] – Cultural parent, political rival
-- [[affiliation-arldnpnthn|Aurèldían]] – State pantheon
-- [[skill-vylarilng|Vylari]] – Naming conventions
+- [[place-nartumkngdm|Nartûm Kingdom]]—The land the kingdom holds
+- Nartûm—The holy city, its seat
+- [[affiliation-vylarinmpr|Vylarian Empire]]—Cultural parent, political rival
+- [[affiliation-arldnpnthn|Aurèldían]]—State pantheon
+- [[skill-vylarilng|Vylari]]—Naming conventions

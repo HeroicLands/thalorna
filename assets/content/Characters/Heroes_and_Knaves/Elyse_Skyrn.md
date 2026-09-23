@@ -590,11 +590,11 @@ Elýsè is a slender young woman of twenty-seven with fair, lightly freckled ski
 
 # Dossier {#dossier}
 
-Elýsè Skýrn grew up as the daughter of an apothecary in a small village, learning the healing arts from her father and grandmother before she could read. Her natural aptitude for medicine and alchemy – combined with a charm that put even the most fearful patients at ease – led to her being sent to study in [[place-beravel|Béravel]], [[place-elavendre|Élavendre]], where she received formal training in both conventional healing and alchemical science.
+Elýsè Skýrn grew up as the daughter of an apothecary in a small village, learning the healing arts from her father and grandmother before she could read. Her natural aptitude for medicine and alchemy—combined with a charm that put even the most fearful patients at ease—led to her being sent to study in [[place-beravel|Béravel]], [[place-elavendre|Élavendre]], where she received formal training in both conventional healing and alchemical science.
 
 Despite her success in Béravel, Elýsè grew restless. Academic study was too slow, too contained. She wanted to see rare herbs in the wild, test remedies under real conditions, and learn techniques that no chapterhouse could teach her. When the opportunity arose to join the [[affiliation-slntlncmpny|Silent Talon]] as their field medic, she took it without hesitation. War brings patients, and patients bring learning.
 
-What Elýsè does not advertise is that her skills extend beyond conventional healing. She possesses genuine arcane talent – but a bad experience in her past has made her deeply cautious about revealing it. To most people, she is simply a very good healer. She intends to keep it that way.
+What Elýsè does not advertise is that her skills extend beyond conventional healing. She possesses genuine arcane talent—but a bad experience in her past has made her deeply cautious about revealing it. To most people, she is simply a very good healer. She intends to keep it that way.
 
 Her relationship with Tórnis has recently added an unexpected complication to her carefully ordered life.
 
@@ -606,13 +606,13 @@ Her relationship with Tórnis has recently added an unexpected complication to h
 - **Alchemy**: Formally trained in the preparation of potions, tonics, and elixirs. She can identify and process rare herbs and compounds, and is always experimenting with new formulations.
 - **Herbalism**: An expert botanist with an encyclopaedic knowledge of medicinal plants. She gathers specimens wherever the band travels, building a growing collection of rare ingredients.
 - **Hidden Arcane Talent**: Elýsè possesses genuine magical ability that she keeps carefully concealed. The nature and extent of this talent is known only to herself.
-- **Charm**: Elýsè has a bubbly, disarming manner that makes people trust her instinctively. This is not an act – she is genuinely warm – but it also serves as effective camouflage for the things she chooses not to reveal.
+- **Charm**: Elýsè has a bubbly, disarming manner that makes people trust her instinctively. This is not an act—she is genuinely warm—but it also serves as effective camouflage for the things she chooses not to reveal.
 
 ## Psyche
 
 ### Personality
 
-Elýsè is calm, resourceful, and empathetic, with an infectious optimism that lifts the spirits of those around her. She is focused on her work, valuing knowledge and skill above all else. Beneath the warmth, however, she is quietly guarded – she prefers to keep personal matters to herself and is cautious about letting others too close to the parts of her life she has chosen to hide.
+Elýsè is calm, resourceful, and empathetic, with an infectious optimism that lifts the spirits of those around her. She is focused on her work, valuing knowledge and skill above all else. Beneath the warmth, however, she is quietly guarded—she prefers to keep personal matters to herself and is cautious about letting others too close to the parts of her life she has chosen to hide.
 
 ### Motivation
 
@@ -639,12 +639,12 @@ None.
 
 ### Enemies
 
-Those who seek to control or exploit her knowledge – particularly anyone who might uncover her hidden arcane abilities.
+Those who seek to control or exploit her knowledge—particularly anyone who might uncover her hidden arcane abilities.
 
 ## Plot Hooks
 
-1. **The Hidden Gift**: Someone discovers – or suspects – Elýsè's concealed arcane talent. Whether it is a fellow mage who senses her power, an old acquaintance from Béravel, or an enemy who witnessed something she thought no one saw, Elýsè must decide whether to flee, fight, or finally reveal what she has been hiding.
+1. **The Hidden Gift**: Someone discovers—or suspects—Elýsè's concealed arcane talent. Whether it is a fellow mage who senses her power, an old acquaintance from Béravel, or an enemy who witnessed something she thought no one saw, Elýsè must decide whether to flee, fight, or finally reveal what she has been hiding.
 
-2. **The Plague Contract**: The Silent Talon is hired to escort supplies to a plague-stricken town. Elýsè's skills are put to the ultimate test as she must identify the cause, develop a treatment, and keep the band healthy – all while someone in the town may be deliberately spreading the sickness.
+2. **The Plague Contract**: The Silent Talon is hired to escort supplies to a plague-stricken town. Elýsè's skills are put to the ultimate test as she must identify the cause, develop a treatment, and keep the band healthy—all while someone in the town may be deliberately spreading the sickness.
 
-3. **The Rare Ingredient**: Elýsè learns of an extraordinarily rare herb growing deep in dangerous territory. Obtaining it could be the breakthrough she needs for a remedy she has been developing for years – but the expedition would put the entire band at risk for the sake of her personal ambition.
+3. **The Rare Ingredient**: Elýsè learns of an extraordinarily rare herb growing deep in dangerous territory. Obtaining it could be the breakthrough she needs for a remedy she has been developing for years—but the expedition would put the entire band at risk for the sake of her personal ambition.

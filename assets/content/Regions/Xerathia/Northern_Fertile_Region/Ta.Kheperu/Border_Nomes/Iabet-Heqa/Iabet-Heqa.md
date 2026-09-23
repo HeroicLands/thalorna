@@ -24,7 +24,7 @@ Iabet-Heqa is the capital of [[affiliation-nomeiabeth|the Nome of Iabet-Heqa]] a
 
 ## See Also
 
-- [[affiliation-nomeiabeth|The Nome of Iabet-Heqa]] – Parent nome
-- [[affiliation-bordernoms|The Border Nomes]] – Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview
-- [[affiliation-sobek|Sobek]] – Patron cult
+- [[affiliation-nomeiabeth|The Nome of Iabet-Heqa]]—Parent nome
+- [[affiliation-bordernoms|The Border Nomes]]—Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
+- [[affiliation-sobek|Sobek]]—Patron cult

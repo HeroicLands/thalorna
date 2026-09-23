@@ -45,10 +45,10 @@ Korith, the Helm, tempers its children for endurance and the clash of arms. Stro
 | Element | Skills it claims          | EML |
 | ------- | ------------------------- | --- |
 | Earth   | Nature                    | −10 |
-| Metal   | Craft, Script             | –   |
+| Metal   | Craft, Script             | —   |
 | Fire    | Combat, Combat Techniques | +10 |
 | Air     | Physical                  | +10 |
-| Spirit  | Lore, Mystical            | –   |
+| Spirit  | Lore, Mystical            | —   |
 | Water   | Language, Social          | −10 |
 
 The wheel of signs, and what the six elements of the Astrokýklos each claim, are set out under [[sohl-none-doc-brthsgn|Birthsign]].

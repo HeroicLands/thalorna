@@ -23,5 +23,5 @@ Vennara is a pleasant villa-town in the hills near the capital, long favored by 
 
 ## See Also
 
-- [[affiliation-provinclys|Province of Alyssa]] – Parent province
-- [[affiliation-vylarinmpr|Vylarian Empire]] – Imperial overview
+- [[affiliation-provinclys|Province of Alyssa]]—Parent province
+- [[affiliation-vylarinmpr|Vylarian Empire]]—Imperial overview

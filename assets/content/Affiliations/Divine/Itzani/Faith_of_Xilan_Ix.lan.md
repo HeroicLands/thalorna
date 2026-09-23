@@ -1,5 +1,5 @@
 ---
-description: "Travel, trade and communication – the god of the sacbeob, whose road shrines are the nerves of the continent and whose priesthood is mobile by design."
+description: "Travel, trade and communication—the god of the sacbeob, whose road shrines are the nerves of the continent and whose priesthood is mobile by design."
 tags:
   - itzani
   - religion
@@ -30,9 +30,9 @@ data:
         title: Blood-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites
-          – a soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one
-          sentence that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a
+          soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one sentence
+          that outlives the body.
       - level: 1
         title: Water-Marked
         lore: catechumenrnk
@@ -49,34 +49,34 @@ data:
         title: Debt-Bearer
         lore: layfaithfulrnk
         description: >-
-          Bound by a debt pledged beyond what the calendar requires – a captive dedicated in
+          Bound by a debt pledged beyond what the calendar requires—a captive dedicated in
           advance, a pilgrimage undertaken, a season of autosacrifice vowed.
       - level: 4
         title: Tq'an'ik
         lore: initiaternk
         description: >-
-          "Edge-Walker" – an initiate serving in the temples while learning the calendar, the
+          "Edge-Walker"—an initiate serving in the temples while learning the calendar, the
           sacred texts and the autosacrificial disciplines the priesthood demands of every
           member.
       - level: 5
         title: Ch'ul'bal
         lore: priestrnk
         description: >-
-          "Sacred Servant" – an ordained priest, trained from childhood in mathematics,
+          "Sacred Servant"—an ordained priest, trained from childhood in mathematics,
           astronomy, writing and the reading of celestial signs, who keeps the daily rites and
           the codices.
       - level: 6
         title: K'ul
         lore: highpriestrnk
         description: >-
-          "Keeper" – head of one specialist branch within a temple complex, answerable to its
+          "Keeper"—head of one specialist branch within a temple complex, answerable to its
           K'ul Tq'an and contending with the other branches for resources, precedence and
           favor.
       - level: 7
         title: K'ul Tq'an
         lore: highpriestrnk
         description: >-
-          "Sacred Boundary" – high priest of a temple complex, who alone performs the great
+          "Sacred Boundary"—high priest of a temple complex, who alone performs the great
           sacrificial rites at the turning of the cosmic cycles and holds the calculations that
           predict when an age will end.
       - level: 8
@@ -88,7 +88,7 @@ data:
           the gods approve a K'inmah's succession.
     offices:
       K'ul Ix'lan: >-
-        Keeper of the paths – head of the branch in a city-state, and the priest who answers
+        Keeper of the paths—head of the branch in a city-state, and the priest who answers
         for a causeway that has been allowed to fail.
       Warden of the Sacbeob: >-
         Holds a named stretch of causeway, its surface, its drainage and the shrines along it,
@@ -127,17 +127,17 @@ data:
 
 **Domain:** Travel, Trade, Journeys, Messengers, Commerce, Communication
 
-The K'ich'chik continent is not gentle land – impenetrable jungle, jagged mountains, unpredictable rivers – yet across this formidable geography the city-states maintain intricate networks of trade and communication. This feat is the domain of Xilan Ix'lan, god of travelers and the pathways they walk. The great causeway roads – sacbeob, the sacred white stone paths – that connect major city-states are understood as literal manifestations of his presence. These engineering marvels are raised above the landscape to prevent flooding, perfectly straight for hundreds of miles, their white stone surfaces reflecting moonlight for nighttime travel. To walk a sacbé is to walk in the god's own footsteps.
+The K'ich'chik continent is not gentle land—impenetrable jungle, jagged mountains, unpredictable rivers—yet across this formidable geography the city-states maintain intricate networks of trade and communication. This feat is the domain of Xilan Ix'lan, god of travelers and the pathways they walk. The great causeway roads—sacbeob, the sacred white stone paths—that connect major city-states are understood as literal manifestations of his presence. These engineering marvels are raised above the landscape to prevent flooding, perfectly straight for hundreds of miles, their white stone surfaces reflecting moonlight for nighttime travel. To walk a sacbé is to walk in the god's own footsteps.
 
 ## Worship
 
-The **Ix'lan Tzoqol** (traveler's blessing) is performed when caravans assemble for significant journeys – priests anoint travelers with aromatic oils and provide charms inscribed with the god's glyph. These blessings often include practical instruction: advice about water sources, reports of bandits, and route conditions. The mixture of liturgy and intelligence is deliberate and is the branch's whole character: the god is served by getting people where they are going, and a blessing that omits the state of the road is held to be incomplete.
+The **Ix'lan Tzoqol** (traveler's blessing) is performed when caravans assemble for significant journeys—priests anoint travelers with aromatic oils and provide charms inscribed with the god's glyph. These blessings often include practical instruction: advice about water sources, reports of bandits, and route conditions. The mixture of liturgy and intelligence is deliberate and is the branch's whole character: the god is served by getting people where they are going, and a blessing that omits the state of the road is held to be incomplete.
 
-Departure and arrival are both marked. A traveler setting out touches the shrine stone at the city's edge and leaves something small – a bead, a feather, a smear of blood from a pricked thumb; on returning, he leaves something of the journey itself, and the accumulated deposits at a busy shrine are a rough history of where that city's people have been. To pass a shrine without the gesture is not sinful but unlucky, and Ki'ichek travelers are conspicuously unwilling to test it.
+Departure and arrival are both marked. A traveler setting out touches the shrine stone at the city's edge and leaves something small—a bead, a feather, a smear of blood from a pricked thumb; on returning, he leaves something of the journey itself, and the accumulated deposits at a busy shrine are a rough history of where that city's people have been. To pass a shrine without the gesture is not sinful but unlucky, and Ki'ichek travelers are conspicuously unwilling to test it.
 
 During the trading season, great traveling festivals bring merchants from dozens of city-states together for ceremonies, trade fairs, and the ceremonial races that celebrate the god's association with swift movement. Young men competing to become professional relay runners undergo trials during these festivals, and those who excel are recruited for the priesthood's message networks. The fairs run under a declared peace which the **Master of the Fair** enforces and under which he judges disputes; the peace has been broken, but rarely, and the cities that broke it are still named.
 
-Blood is given lightly and often – a thumb at a shrine, a few drops at a crossroads – and the branch is easy about it, holding that a traveler gives his god the miles.
+Blood is given lightly and often—a thumb at a shrine, a few drops at a crossroads—and the branch is easy about it, holding that a traveler gives his god the miles.
 
 ## Organization
 

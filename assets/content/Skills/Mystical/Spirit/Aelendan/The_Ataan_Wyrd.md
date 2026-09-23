@@ -2,7 +2,7 @@
 tags:
   - first-gods
   - spirit-power
-description: "Standing with The At'aan Wyrd – what this allied Kindred is met, asked and bargained with."
+description: "Standing with The At'aan Wyrd—what this allied Kindred is met, asked and bargained with."
 type: skill
 subType: mystical
 shortcode: ataansprt
@@ -24,4 +24,4 @@ sohl:
 packFolder: spiritskillsaelendan
 ---
 
-See [[lore-ataanspr|The At'aan Wyrd]] – place-kin of [[lore-thekindred|the Kindred]], met through [[affiliation-theoldway|the Old Way]].
+See [[lore-ataanspr|The At'aan Wyrd]]—place-kin of [[lore-thekindred|the Kindred]], met through [[affiliation-theoldway|the Old Way]].

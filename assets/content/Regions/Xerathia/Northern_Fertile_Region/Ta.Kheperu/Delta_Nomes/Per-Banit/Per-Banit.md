@@ -24,7 +24,7 @@ Per-Banit is the capital of [[affiliation-nomeperban|the Nome of Per-Banit]] and
 
 ## See Also
 
-- [[affiliation-nomeperban|The Nome of Per-Banit]] – Parent nome
-- [[affiliation-deltanomes|The Delta Nomes]] – Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview
-- [[affiliation-ptah|Ptā'h]] – Patron cult
+- [[affiliation-nomeperban|The Nome of Per-Banit]]—Parent nome
+- [[affiliation-deltanomes|The Delta Nomes]]—Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
+- [[affiliation-ptah|Ptā'h]]—Patron cult

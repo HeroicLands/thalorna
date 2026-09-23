@@ -2,7 +2,7 @@
 tags:
   - first-gods
   - spirit-power
-description: "Standing with Rhysgen, the Red Fox of the Lower Wood – what this allied Kindred is met, asked and bargained with."
+description: "Standing with Rhysgen, the Red Fox of the Lower Wood—what this allied Kindred is met, asked and bargained with."
 type: skill
 subType: mystical
 shortcode: rhysgensprt
@@ -24,4 +24,4 @@ sohl:
 packFolder: spiritskillsaelendan
 ---
 
-See [[lore-rhysgenspr|Rhysgen, the Red Fox of the Lower Wood]] – animal-kin of [[lore-thekindred|the Kindred]], met through [[affiliation-theoldway|the Old Way]].
+See [[lore-rhysgenspr|Rhysgen, the Red Fox of the Lower Wood]]—animal-kin of [[lore-thekindred|the Kindred]], met through [[affiliation-theoldway|the Old Way]].

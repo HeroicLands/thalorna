@@ -1,5 +1,5 @@
 ---
-description: "Green, mist-shrouded western coast of Tarvénia – seafaring kingdom of fishermen and dreamers, with a reputation for mysticism that sits uneasily with Tarvénan skepticism."
+description: "Green, mist-shrouded western coast of Tarvénia—seafaring kingdom of fishermen and dreamers, with a reputation for mysticism that sits uneasily with Tarvénan skepticism."
 type: affiliation
 name:
   full: Kingdom of Galváren
@@ -19,7 +19,7 @@ data:
         title: Outlaw
         lore: outlawrnk
         description: >-
-          Cast out by the realm and set beyond its protection – outlawed, banished, or attainted.
+          Cast out by the realm and set beyond its protection—outlawed, banished, or attainted.
           Known to the polity only as one it has excluded.
       - level: 1
         title: Unfree
@@ -97,14 +97,14 @@ data:
       Justiciar: Chief justice of the realm, and commonly its regent when the sovereign is
         absent.
       Butler: >-
-        Holder of the crown's right in wine and the levy upon it – a revenue office far richer
+        Holder of the crown's right in wine and the levy upon it—a revenue office far richer
         than its name suggests.
       Admiral: Commander of the realm's ships and of the coasts they guard.
       Sheriff: >-
         The crown's officer within a shire, answerable for its revenue, its courts, and the
         raising of its posse.
       Coroner: >-
-        Keeper of the pleas of the crown within a district – sudden deaths, wrecks, and treasure
+        Keeper of the pleas of the crown within a district—sudden deaths, wrecks, and treasure
         trove.
       Escheator: >-
         Officer charged with lands falling to the crown by death without heir, by forfeiture,
@@ -122,7 +122,7 @@ data:
       Forester: Keeper of the royal forests and of the distinct law that governs them
       Purveyor: >-
         Officer empowered to requisition goods and labor for the household at the crown's
-        price – an office universally resented.
+        price—an office universally resented.
       Regent: One ruling in the sovereign's stead during minority, absence, or incapacity.
       Privy Councillor: >-
         Member of the sovereign's inner council, advising on matters not brought before any
@@ -134,7 +134,7 @@ data:
         even between enemies.
       Master of the Horse: Keeper of the sovereign's stables, mounts, and the men who tend
         them.
-      Master of the Hunt: Keeper of the sovereign's hunt – its hounds, its quarry, and its
+      Master of the Hunt: Keeper of the sovereign's hunt—its hounds, its quarry, and its
         grounds.
       Falconer: >-
         Keeper of the sovereign's hawks; a household post whose value lies chiefly in the
@@ -185,20 +185,20 @@ The Kingdom of Galváren holds the land of [[place-galvaren|Galváren]]. The Gal
 
 ## Character
 
-Where [[affiliation-kngdmstrth|Astúrath]] looks inward to its mountains and [[affiliation-kingdmlnrk|Léonrik]] to its fields, Galváren looks outward to the sea. Galváreni sailors are legendarily fearless – or foolhardy, depending on who you ask – and the kingdom produces a disproportionate number of the navigators, sea captains, and explorers who push the boundaries of the known world.
+Where [[affiliation-kngdmstrth|Astúrath]] looks inward to its mountains and [[affiliation-kingdmlnrk|Léonrik]] to its fields, Galváren looks outward to the sea. Galváreni sailors are legendarily fearless—or foolhardy, depending on who you ask—and the kingdom produces a disproportionate number of the navigators, sea captains, and explorers who push the boundaries of the known world.
 
 The kingdom has a distinctive folk culture that blends mainstream Tarvénan warrior traditions with something older and stranger. The western coast is littered with ancient stone circles, standing stones, and passage graves that predate the Tarvéni migration, and the local people maintain a complex body of folk belief about the spirits of the dead, the sea, and the liminal places where the mortal world thins. Ghost stories, fairy tales, and tales of drowned cities are taken more seriously here than in the rest of Tarvénia. The [[affiliation-arldnpnthn|Aurèldían]] priests tolerate these folk traditions with varying degrees of patience.
 
-Galváren's political structure gives unusual influence to the shipmasters – captains of the fishing and trading fleets – who sit on the royal council alongside the landed lords.
+Galváren's political structure gives unusual influence to the shipmasters—captains of the fishing and trading fleets—who sit on the royal council alongside the landed lords.
 
 ## Commerce and Currency
 
-Kingdom of Galváren uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Kingdom of Galváren is a post-imperial commonwealth member – it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Kingdom of Galváren uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Kingdom of Galváren is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
-- [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] – The loose overlord
-- [[place-tarvenirgn|Tarvénia Region]] – Regional overview
-- [[place-galvaren|Galváren]] – The land the kingdom holds
-- [[affiliation-kngdmstrth|Kingdom of Astúrath]], [[affiliation-kingdmlnrk|Kingdom of Léonrik]] – Sister kingdoms
-- [[affiliation-frctyvlthr|Free City of Valthári]], [[affiliation-frtrtryskrth|Free Territory of Eskárath]] – Fellow Tarvénan regions
+- [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]—The loose overlord
+- [[place-tarvenirgn|Tarvénia Region]]—Regional overview
+- [[place-galvaren|Galváren]]—The land the kingdom holds
+- [[affiliation-kngdmstrth|Kingdom of Astúrath]], [[affiliation-kingdmlnrk|Kingdom of Léonrik]]—Sister kingdoms
+- [[affiliation-frctyvlthr|Free City of Valthári]], [[affiliation-frtrtryskrth|Free Territory of Eskárath]]—Fellow Tarvénan regions

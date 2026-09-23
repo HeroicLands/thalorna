@@ -2,7 +2,7 @@
 tags:
   - region
   - held
-description: "The land of the city-state of Vyālendra – the Nilachaṛī valleys of cotton and indigo, the loom villages that feed the city's halls, and the river road that carries the cloth down to the sea."
+description: "The land of the city-state of Vyālendra—the Nilachaṛī valleys of cotton and indigo, the loom villages that feed the city's halls, and the river road that carries the cloth down to the sea."
 name:
   full: Vyālendra Land
   aliases: []
@@ -21,7 +21,7 @@ packFolder: vedyara
 
 ## Overview
 
-Vyālendra Land is the country the city-state of [[affiliation-vyalendra2|Vyālendra]] holds: the Nilachaṛī valleys of southern [[place-vedyarargn|Vedyara]], where cotton fields run to the foot of the hills on both sides and the indigo compounds stain the air, and the river road that carries the finished cloth down to the sea. The city sits in the middle of it, and the land is a single manufacture spread across a hundred villages – carders in one, spinners in the next, dyers wherever the water is right, and weavers everywhere.
+Vyālendra Land is the country the city-state of [[affiliation-vyalendra2|Vyālendra]] holds: the Nilachaṛī valleys of southern [[place-vedyarargn|Vedyara]], where cotton fields run to the foot of the hills on both sides and the indigo compounds stain the air, and the river road that carries the finished cloth down to the sea. The city sits in the middle of it, and the land is a single manufacture spread across a hundred villages—carders in one, spinners in the next, dyers wherever the water is right, and weavers everywhere.
 
 ## How the land is held
 
@@ -37,7 +37,7 @@ What leaves is cloth, and it leaves by water. The river road down to the coast i
 
 ## See Also
 
-- [[affiliation-vyalendra2|Vyālendra]] – the city-state that holds this land
-- [[place-vyalendra3|Vyālendra]] – the city itself
-- [[place-vedyarargn|Vedyara Region]] – the enclosing region
-- [[affiliation-dhnrktjnpd|Dhanurkota Janapada]] – where the commander of the city watch is always found
+- [[affiliation-vyalendra2|Vyālendra]]—the city-state that holds this land
+- [[place-vyalendra3|Vyālendra]]—the city itself
+- [[place-vedyarargn|Vedyara Region]]—the enclosing region
+- [[affiliation-dhnrktjnpd|Dhanurkota Janapada]]—where the commander of the city watch is always found

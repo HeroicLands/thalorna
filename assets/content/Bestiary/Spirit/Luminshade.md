@@ -589,7 +589,7 @@ sohl:
 
 ![[lmnshd|Luminshade]]{float: top-left}
 
-Where there is light, a shadow moves against it. Where there is darkness, a pale luminescence blooms. The figure is beautiful in the way that the edge of a knife is beautiful – precise, dangerous, and indifferent to your perception of it. Its form shifts between solid and translucent, and the longer you look at it, the harder it is to determine what you're actually seeing.
+Where there is light, a shadow moves against it. Where there is darkness, a pale luminescence blooms. The figure is beautiful in the way that the edge of a knife is beautiful—precise, dangerous, and indifferent to your perception of it. Its form shifts between solid and translucent, and the longer you look at it, the harder it is to determine what you're actually seeing.
 
 # Dossier {#dossier}
 
@@ -597,11 +597,11 @@ Luminshades are paradox creatures born where light and shadow meet in unusual pr
 
 ## Presentation
 
-A Luminshade is roughly human-shaped but clearly not human. Its body is composed of light and shadow in perfect balance – neither predominates, and both seem to shift independently. It stands about six feet tall, with limbs that are too long and graceful, and movements that seem to flow rather than step. Its face is smooth and featureless except for two points of luminescence where eyes should be – sometimes bright, sometimes dark, sometimes shifting between colors. The creature is semi-transparent, and through its body, the background becomes visible yet distorted, as if the world were seen through warped glass. It leaves no shadow when standing in light, and casts no glow when standing in darkness.
+A Luminshade is roughly human-shaped but clearly not human. Its body is composed of light and shadow in perfect balance—neither predominates, and both seem to shift independently. It stands about six feet tall, with limbs that are too long and graceful, and movements that seem to flow rather than step. Its face is smooth and featureless except for two points of luminescence where eyes should be—sometimes bright, sometimes dark, sometimes shifting between colors. The creature is semi-transparent, and through its body, the background becomes visible yet distorted, as if the world were seen through warped glass. It leaves no shadow when standing in light, and casts no glow when standing in darkness.
 
 ## Key Behaviors
 
-Luminshades are curiosity-driven beings. They are drawn to places of change – battlefields, cities growing or shrinking, the boundaries between realms. They often appear at twilight or in places where light interacts strangely with architecture (mirrors, glass, water). By one account, Luminshades are collectors of memories or moments, gathering impressions of events they find aesthetically interesting. A Luminshade may protect a location it finds beautiful, or destroy one it finds ugly, with no regard for the humans inhabiting it. They do not hunt for food and do not require sleep. Their motivations, if they exist, are alien.
+Luminshades are curiosity-driven beings. They are drawn to places of change—battlefields, cities growing or shrinking, the boundaries between realms. They often appear at twilight or in places where light interacts strangely with architecture (mirrors, glass, water). By one account, Luminshades are collectors of memories or moments, gathering impressions of events they find aesthetically interesting. A Luminshade may protect a location it finds beautiful, or destroy one it finds ugly, with no regard for the humans inhabiting it. They do not hunt for food and do not require sleep. Their motivations, if they exist, are alien.
 
 ## Combat Strategy
 
@@ -625,7 +625,7 @@ The Luminshade can bend, redirect, and concentrate light in its vicinity with pr
 
 ### Shadow Weaving
 
-With equal finesse, the creature can manipulate darkness – deepening shadows to invisibility, creating zones of absolute darkness where light cannot penetrate, or forming solid-seeming shadows that slow or tangle those who attempt to move through them.
+With equal finesse, the creature can manipulate darkness—deepening shadows to invisibility, creating zones of absolute darkness where light cannot penetrate, or forming solid-seeming shadows that slow or tangle those who attempt to move through them.
 
 ### Translocation Through Light
 
@@ -633,7 +633,7 @@ The Luminshade can move through reflective surfaces and directly between areas o
 
 ### Paradox Nature
 
-Being composed of equal parts light and shadow makes the Luminshade resistant to both darkness and light magic. However, it becomes more vulnerable when forced into a state of extreme shadow or extreme light – if surrounded only by darkness, or only by blinding brightness, it loses mobility and becomes vulnerable to attack.
+Being composed of equal parts light and shadow makes the Luminshade resistant to both darkness and light magic. However, it becomes more vulnerable when forced into a state of extreme shadow or extreme light—if surrounded only by darkness, or only by blinding brightness, it loses mobility and becomes vulnerable to attack.
 
 ## Additional Information
 

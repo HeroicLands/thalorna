@@ -325,7 +325,7 @@ sohl:
 
 ![[giantbee|Giant Bee]]{float: top-left}
 
-The sound fills the air before you fully see it – a deep, penetrating hum that seems to come from everywhere at once. Then it crests the ridge: a creature the size of a wolf, all furred body and translucent wings that beat so rapidly they become invisible. The yellow and black stripes that cover it are vivid, almost too bright, and when it banks in the air above you, the afternoon light catches and reflects off something terrible: a stinger as long as a dagger, dripping with clear venom that smokes where it falls. The buzzing grows louder, more insistent, and you realize with creeping dread that this is not one creature – there are more, emerging from behind the ridge, converging on your position. The smell hits next: a cloying sweetness mixed with something chemical and wrong, filling your sinuses and burning your throat.
+The sound fills the air before you fully see it—a deep, penetrating hum that seems to come from everywhere at once. Then it crests the ridge: a creature the size of a wolf, all furred body and translucent wings that beat so rapidly they become invisible. The yellow and black stripes that cover it are vivid, almost too bright, and when it banks in the air above you, the afternoon light catches and reflects off something terrible: a stinger as long as a dagger, dripping with clear venom that smokes where it falls. The buzzing grows louder, more insistent, and you realize with creeping dread that this is not one creature—there are more, emerging from behind the ridge, converging on your position. The smell hits next: a cloying sweetness mixed with something chemical and wrong, filling your sinuses and burning your throat.
 
 # Dossier {#dossier}
 
@@ -333,15 +333,15 @@ The Giant Bee is a massive insect that has evolved far beyond its common cousins
 
 ## Presentation
 
-A Giant Bee is a creature of striking appearance: a bulbous abdomen striped in vivid yellow and black, covered in fine hairs, two pairs of translucent wings that beat constantly to create an audible hum, six jointed legs that can cling to any surface, and a head bearing large compound eyes and powerful mandibles. The most fearsome feature is the stinger – a long, sharp appendage extending from the rear abdomen, capable of injecting venom. The body is built for flight, and the wings are capable of carrying the bee's full weight at considerable speed. Despite its apparent heaviness, the bee's frame is light for its size.
+A Giant Bee is a creature of striking appearance: a bulbous abdomen striped in vivid yellow and black, covered in fine hairs, two pairs of translucent wings that beat constantly to create an audible hum, six jointed legs that can cling to any surface, and a head bearing large compound eyes and powerful mandibles. The most fearsome feature is the stinger—a long, sharp appendage extending from the rear abdomen, capable of injecting venom. The body is built for flight, and the wings are capable of carrying the bee's full weight at considerable speed. Despite its apparent heaviness, the bee's frame is light for its size.
 
 ## Key Behaviors
 
-Giant Bees operate under hive intelligence – they are individuals only in physical form but follow the chemical and pheromonal commands of a central queen with perfect obedience. Scouts range far from the hive, identifying nectar sources and intruders. Workers gather food and maintain hive structures. Guards and soldiers defend the hive and food sources from threats. All individuals will sacrifice themselves without hesitation for the colony's survival. A bee away from the hive is quieter and more circumspect; near the hive, the bees are aggressive and coordinated.
+Giant Bees operate under hive intelligence—they are individuals only in physical form but follow the chemical and pheromonal commands of a central queen with perfect obedience. Scouts range far from the hive, identifying nectar sources and intruders. Workers gather food and maintain hive structures. Guards and soldiers defend the hive and food sources from threats. All individuals will sacrifice themselves without hesitation for the colony's survival. A bee away from the hive is quieter and more circumspect; near the hive, the bees are aggressive and coordinated.
 
 ## Combat Strategy
 
-A lone giant bee avoids combat if escape is possible, preferring to return to the hive and recruit assistance. A group of bees attacks with devastating coordination – multiple bees assault individual targets simultaneously, stinging from angles designed to prevent effective counterattack. The bees work to separate targets from the group, overwhelm single individuals, and drive enemies toward the hive (where more bees emerge to provide reinforcement). They show no tactical retreat or mercy once committed to attack.
+A lone giant bee avoids combat if escape is possible, preferring to return to the hive and recruit assistance. A group of bees attacks with devastating coordination—multiple bees assault individual targets simultaneously, stinging from angles designed to prevent effective counterattack. The bees work to separate targets from the group, overwhelm single individuals, and drive enemies toward the hive (where more bees emerge to provide reinforcement). They show no tactical retreat or mercy once committed to attack.
 
 ## Attack Methods
 
@@ -357,7 +357,7 @@ The bee uses powerful mandibles to bite and hold, attempting to position the tar
 
 ### Hive Coordination
 
-When multiple bees fight together, they act as if controlled by a single mind – never a wasted movement, perfect tactical awareness, and devastating synchronized attacks. A lone bee loses this advantage.
+When multiple bees fight together, they act as if controlled by a single mind—never a wasted movement, perfect tactical awareness, and devastating synchronized attacks. A lone bee loses this advantage.
 
 ### Flight Mastery
 
@@ -365,7 +365,7 @@ The bee's wings allow it to hover, reverse direction, and reach speeds that land
 
 ## Additional Information
 
-A giant bee hive can be harvested for honey, wax, and other valuable materials, but only by those brave enough to approach during the appropriate season when the queen is least protective. Some have attempted to communicate with hives through magical means, with limited success – the collective intelligence is alien and not easily bargained with. A dead bee's stinger is sometimes preserved or worked into jewelry or weapons.
+A giant bee hive can be harvested for honey, wax, and other valuable materials, but only by those brave enough to approach during the appropriate season when the queen is least protective. Some have attempted to communicate with hives through magical means, with limited success—the collective intelligence is alien and not easily bargained with. A dead bee's stinger is sometimes preserved or worked into jewelry or weapons.
 
 ## Attributes
 

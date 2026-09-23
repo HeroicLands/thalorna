@@ -589,10 +589,10 @@ The house's steward, who runs the servants and takes a share of what the guests 
 
 ## Plot Hooks
 
-1. **The Letter** – A guest left a letter open on his table and Eshârum, clearing it, read a line he should not have: the caravan is carrying something the factor is not to know about. The guest saw him read it.
+1. **The Letter**—A guest left a letter open on his table and Eshârum, clearing it, read a line he should not have: the caravan is carrying something the factor is not to know about. The guest saw him read it.
 
-2. **The Caravan-Master's Offer** – A Dunhari caravan-master who has stayed at the house for six years has offered Eshârum a place as his steward on the southern road, at three times his wage, leaving in two days.
+2. **The Caravan-Master's Offer**—A Dunhari caravan-master who has stayed at the house for six years has offered Eshârum a place as his steward on the southern road, at three times his wage, leaving in two days.
 
-3. **The Missing Silver** – The steward has been selling the house's plate to the passing trade, and the factor has found the plate short and the footman's room searched. The steward searched it.
+3. **The Missing Silver**—The steward has been selling the house's plate to the passing trade, and the factor has found the plate short and the footman's room searched. The steward searched it.
 
-4. **The Master's Credit** – The factor's credit at the Bayt has been questioned, and the caravan-masters who bank with him are asking Eshârum, at the door, whether the house is sound. It is not.
+4. **The Master's Credit**—The factor's credit at the Bayt has been questioned, and the caravan-masters who bank with him are asking Eshârum, at the door, whether the house is sound. It is not.

@@ -597,12 +597,12 @@ Traditional shipwrights disapprove of her unconventional designs.
 
 ## Plot Hooks
 
-1. **The Shipwright's Dilemma** – A trader wants a ship built to Sigríthr's newest design, and the guild's masters have warned her against it.
+1. **The Shipwright's Dilemma**—A trader wants a ship built to Sigríthr's newest design, and the guild's masters have warned her against it.
 
-2. **Old Grudges** – A traditional shipwright blames one of Sigríthr's designs for a wreck, and the guild is listening.
+2. **Old Grudges**—A traditional shipwright blames one of Sigríthr's designs for a wreck, and the guild is listening.
 
-3. **Echoes of the Past** – A boat Sigríthr built for her family of fishermen in her apprentice years comes back to her yard broken, with her early work plain to see.
+3. **Echoes of the Past**—A boat Sigríthr built for her family of fishermen in her apprentice years comes back to her yard broken, with her early work plain to see.
 
-4. **Shifting Winds** – Political change in Nordheim threatens the trade Sigríthr depends upon, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Nordheim threatens the trade Sigríthr depends upon, and she can adapt, resist, or leave.
 
-5. **The Opportunity** – Sigríthr is offered a commission larger than any she has built, and its price is not named up front.
+5. **The Opportunity**—Sigríthr is offered a commission larger than any she has built, and its price is not named up front.

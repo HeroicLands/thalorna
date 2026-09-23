@@ -4,7 +4,7 @@ tags:
   - fortified
   - frontier
   - inland
-description: "Aldorath's western fortress, watching the interior and the forest margin – a garrison town whose whole reason is the country beyond it."
+description: "Aldorath's western fortress, watching the interior and the forest margin—a garrison town whose whole reason is the country beyond it."
 type: place
 subType: settlement
 data:
@@ -32,7 +32,7 @@ are raided, and they have long memories about which is owed. Caerwynd is where A
 is organized.
 
 It is also the kingdom's forward position in its long rivalry with
-[[affiliation-kingdmdnvr|Dúnavarre]] over the interior – a rivalry that has never come to open war and
+[[affiliation-kingdmdnvr|Dúnavarre]] over the interior—a rivalry that has never come to open war and
 is conducted, on this side, largely by the placing of garrisons in country neither realm actually
 controls.
 

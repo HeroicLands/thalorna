@@ -1,5 +1,5 @@
 ---
-description: "Mountain fortress-city of the Byzarian League guarding the eastern passes – silver-mining garrison whose disciplined troops keep the trade routes open and whose ascetic monastic chronicler-tradition is the most serious in the region."
+description: "Mountain fortress-city of the Byzarian League guarding the eastern passes—silver-mining garrison whose disciplined troops keep the trade routes open and whose ascetic monastic chronicler-tradition is the most serious in the region."
 type: affiliation
 name:
   full: Gümüşhisar
@@ -47,8 +47,8 @@ data:
         title: House Factor
         lore: officerrnk
         description: >-
-          Managing the affairs of one of the great houses – its warehouses, its ships, its correspondents
-          abroad.
+          Managing the affairs of one of the great houses—its warehouses, its ships, its
+          correspondents abroad.
       - level: 6
         title: House Head
         lore: councillorrnk
@@ -72,7 +72,7 @@ data:
         heads.
       Chancellor: Keeper of the city's charters, treaties and correspondence.
       Treasurer: >-
-        Keeper of the city's revenue – its customs, its tolls, and the loans it raises against
+        Keeper of the city's revenue—its customs, its tolls, and the loans it raises against
         them.
       Harbourmaster: Warden of the port, its pilots, its wharves and the dues levied on every
         hull that enters.
@@ -83,7 +83,7 @@ data:
       Captain of the Watch: Commander of the city's guard and of the militia its guilds are
         bound to raise.
       Warden of the Weights: >-
-        Inspector of measures, coin and quality in the markets – the office that makes the
+        Inspector of measures, coin and quality in the markets—the office that makes the
         city's word good.
       Guild Master: Head of a chartered trade, speaking for it before the Council.
       Arbitrator: >-
@@ -108,11 +108,11 @@ data:
 packFolder: byzaria
 ---
 
-Gümüşhisar – the Silver Citadel – is a fortified mountain city that guards the eastern passes into [[place-byzariargn|Byzaría Region]]. It is the [[affiliation-byzarianlg|Byzarian League]]'s military backbone, maintaining the garrison and patrols that keep the mountain routes open for trade and discourage the ambitions of eastern warlords, desert raiders, and bandits. The city-state holds [[place-gumushisar2|Gümüşhisar]] itself.
+Gümüşhisar—the Silver Citadel—is a fortified mountain city that guards the eastern passes into [[place-byzariargn|Byzaría Region]]. It is the [[affiliation-byzarianlg|Byzarian League]]'s military backbone, maintaining the garrison and patrols that keep the mountain routes open for trade and discourage the ambitions of eastern warlords, desert raiders, and bandits. The city-state holds [[place-gumushisar2|Gümüşhisar]] itself.
 
 ## Character
 
-Gümüşhisar is the most martial of the five city-states. While its sister cities trade and negotiate, Gümüşhisar fights – or more accurately, maintains a visible readiness to fight that makes actual fighting largely unnecessary.
+Gümüşhisar is the most martial of the five city-states. While its sister cities trade and negotiate, Gümüşhisar fights—or more accurately, maintains a visible readiness to fight that makes actual fighting largely unnecessary.
 
 The city's silver mines in the surrounding mountains fund the League's collective defense, and the income gives Gümüşhisar a political weight that belies its smaller population. The mining operations also support a community of skilled engineers and metalworkers. The city's military governor sits on the League council alongside the merchant-princes, a reminder that the League's prosperity ultimately rests on the security of its trade routes.
 
@@ -120,11 +120,11 @@ Its monasteries of the eastern rite are particularly influential here, and the c
 
 ## Commerce and Currency
 
-Gümüşhisar uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Gümüşhisar is a post-imperial commonwealth member – it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Gümüşhisar uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Gümüşhisar is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
-- [[affiliation-byzarianlg|Byzarian League]] – The confederation
-- [[place-byzariargn|Byzaría Region]] – Regional overview
-- [[place-gumushisar2|Gümüşhisar]] – The city itself
-- [[affiliation-altinkale|Altinkale]], [[affiliation-denizara|Denizara]], [[affiliation-yesilhan|Yeşilhan]], [[affiliation-karatas|Karataş]] – Sister city-states
+- [[affiliation-byzarianlg|Byzarian League]]—The confederation
+- [[place-byzariargn|Byzaría Region]]—Regional overview
+- [[place-gumushisar2|Gümüşhisar]]—The city itself
+- [[affiliation-altinkale|Altinkale]], [[affiliation-denizara|Denizara]], [[affiliation-yesilhan|Yeşilhan]], [[affiliation-karatas|Karataş]]—Sister city-states

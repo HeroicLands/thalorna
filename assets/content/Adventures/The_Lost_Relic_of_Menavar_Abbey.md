@@ -25,7 +25,7 @@ An ancient relic of the Aurèldían faith has been lost in the ruins of Ménavar
 
 ### Overview
 
-Ménavar Abbey, once a center of Aurèldían learning and spiritual practice in [[place-provenzrgn|Provènzia Region]], was damaged centuries ago during the Nordheim raids and subsequently abandoned. A relic kept within its walls – rumored to have healing properties or arcane significance – has drawn the attention of both the formal Church hierarchy and the [[affiliation-ordoarcanis|Ordo Arcanis]]. The party is hired (or compelled) to recover it before either institution monopolizes its power.
+Ménavar Abbey, once a center of Aurèldían learning and spiritual practice in [[place-provenzrgn|Provènzia Region]], was damaged centuries ago during the Nordheim raids and subsequently abandoned. A relic kept within its walls—rumored to have healing properties or arcane significance—has drawn the attention of both the formal Church hierarchy and the [[affiliation-ordoarcanis|Ordo Arcanis]]. The party is hired (or compelled) to recover it before either institution monopolizes its power.
 
 ### Stage One: The Commission
 
@@ -39,7 +39,7 @@ The party is approached by one of several factions seeking the relic:
 **Initial Information:**
 
 - The relic's location within the abbey is uncertain (old maps conflict)
-- The abbey's ruins are dangerous – both from structural instability and other guardians
+- The abbey's ruins are dangerous—both from structural instability and other guardians
 - Previous expedition failed; some members returned mad or not at all
 - The abbey is said to be haunted by monks who died protecting it
 
@@ -68,7 +68,7 @@ The party must gather information about the abbey's layout and defenses:
 
 ### Stage Three: Approach & Discovery
 
-The party travels to the abbey's ruins (a journey that may present its own challenges – bandits, weather, cursed lands). Upon arrival:
+The party travels to the abbey's ruins (a journey that may present its own challenges—bandits, weather, cursed lands). Upon arrival:
 
 - The structure is more damaged than expected
 - Signs of recent activity suggest others have been here
@@ -92,7 +92,7 @@ The party must navigate the abbey to locate the relic's chamber. Challenges incl
 - Managing the abbey's structural hazards while under time pressure
 - Confrontation with a rival faction that has also reached the chamber
 
-**The Guardian:** A manifestation of the abbey's purpose – perhaps an oath-bound spirit of a high priest, a construct of Aurèldían magic, or a test woven into the very stones. It may be placated by piety, outsmarted by riddles, or overcome by force.
+**The Guardian:** A manifestation of the abbey's purpose—perhaps an oath-bound spirit of a high priest, a construct of Aurèldían magic, or a test woven into the very stones. It may be placated by piety, outsmarted by riddles, or overcome by force.
 
 ### Stage Five: Aftermath & Complications
 

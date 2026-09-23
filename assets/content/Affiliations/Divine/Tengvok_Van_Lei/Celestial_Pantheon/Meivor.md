@@ -43,8 +43,8 @@ data:
         title: Copyist
         lore: apprenticernk
         description: >-
-          Under training in a temple – copying forms, learning the seals and the calendrical
-          schedules – and not yet permitted to file anything on another's behalf.
+          Under training in a temple—copying forms, learning the seals and the calendrical
+          schedules—and not yet permitted to file anything on another's behalf.
       - level: 3
         title: Clerk
         lore: clerkrnk
@@ -83,7 +83,8 @@ data:
       Lëngvōr: >-
         Clerks of Auspicious Dreams, who deliver favorable omens.
       Hëkyök: >-
-        Clerks of Warning Dreams, who deliver cautionary visions. Not malevolent – a nightmare is simply an urgent memo.
+        Clerks of Warning Dreams, who deliver cautionary visions. Not malevolent—a nightmare is
+        simply an urgent memo.
       Chief Intendant: >-
         Senior mortal officer of this bureau's temples, who signs what is transmitted upward.
       Registrar: >-
@@ -123,7 +124,7 @@ data:
 packFolder: celestialpantheon
 ---
 
-## Mëivōr – The Minister of Dreams
+## Mëivōr—The Minister of Dreams
 
 - **Bureau:** Mëi Sëi, The Bureau of Night Counsel
 - **Domain:** Dreams
@@ -133,7 +134,7 @@ Mëi Sëi processes dream-petitions, delivers omens, and files night-counsel rep
 wishes to be answered in sleep files for it, and a dream that arrives unbidden is understood to be
 a memo from a clerk rather than a message from a god.
 
-The bureau is the Tëngvōk Vān Lëi's expression of [[lore-goddreams|the God of Dreams]] – the same
+The bureau is the Tëngvōk Vān Lëi's expression of [[lore-goddreams|the God of Dreams]]—the same
 entity the Asguardians call Baldr, the Aurèldíans Aethería, the Ki'ichek Nal'ik Tz'uqal and the
 Kemetíans Bēs. In the Tānvüri framework this is not a coincidence but a bureaucratic anomaly: one
 being appears to hold the Dream portfolio across several celestial administrations at once, which
@@ -141,11 +142,11 @@ no procedure accounts for and which the Tānthëi find deeply troubling.
 
 ### Lesser Spirits
 
-- **Lëngvōr** – Clerks of Auspicious Dreams, who deliver favorable omens.
-- **Hëkyök** – Clerks of Warning Dreams, who deliver cautionary visions. Not malevolent – a nightmare is simply an urgent memo.
+- **Lëngvōr**—Clerks of Auspicious Dreams, who deliver favorable omens.
+- **Hëkyök**—Clerks of Warning Dreams, who deliver cautionary visions. Not malevolent—a nightmare is simply an urgent memo.
 
 ### See Also
 
-- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] – the Celestial Bureaucracy this bureau belongs to
-- [[affiliation-tanvurempr|Empire of Tānvür]] – the mortal realm it administers
-- [[skill-tngthkscrpt|Tëng Thōk Script]] – the writing every petition is made in
+- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]]—the Celestial Bureaucracy this bureau belongs to
+- [[affiliation-tanvurempr|Empire of Tānvür]]—the mortal realm it administers
+- [[skill-tngthkscrpt|Tëng Thōk Script]]—the writing every petition is made in

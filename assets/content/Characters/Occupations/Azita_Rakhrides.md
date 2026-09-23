@@ -591,12 +591,12 @@ Few; generally well-respected but has competitors in the spice trade.
 
 ## Plot Hooks
 
-1. **The Mercantyler's Dilemma** – A shipment of spices arrives adulterated, and Ázîta has to choose between her buyers' trust and the loss of a season's profit.
+1. **The Mercantyler's Dilemma**—A shipment of spices arrives adulterated, and Ázîta has to choose between her buyers' trust and the loss of a season's profit.
 
-2. **Old Grudges** – A competitor in the spice trade decides that undercutting her is no longer enough.
+2. **Old Grudges**—A competitor in the spice trade decides that undercutting her is no longer enough.
 
-3. **Echoes of the Past** – A trade agreement Ázîta made years ago is called in by a partner she had forgotten.
+3. **Echoes of the Past**—A trade agreement Ázîta made years ago is called in by a partner she had forgotten.
 
-4. **Shifting Winds** – Political change in Heliónis threatens the markets Ázîta depends upon, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Heliónis threatens the markets Ázîta depends upon, and she can adapt, resist, or leave.
 
-5. **The Opportunity** – A foreign trader offers Ázîta a partnership beyond anything she has hoped for, and its price is not named up front.
+5. **The Opportunity**—A foreign trader offers Ázîta a partnership beyond anything she has hoped for, and its price is not named up front.

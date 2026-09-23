@@ -4,7 +4,7 @@ tags:
   - nyaluba
 type: lore
 subType: spirit
-description: "The eagle-guide of the Ngonzi as a being – the carrier between worlds, and the only guide that deals routinely with the stone-builder dead."
+description: "The eagle-guide of the Ngonzi as a being—the carrier between worlds, and the only guide that deals routinely with the stone-builder dead."
 name:
   full: Eagle Spirit
   aliases:
@@ -19,7 +19,7 @@ offices and its observances, see [[affiliation-nyalbeagl|Eagle Totem]]; for the 
 and the three postures, see [[lore-nyalbsprts|Nyáluba Spirits]].
 
 The eagle-guide is a carrier. Where the other four hold ground or hold a lineage, this one
-crosses between – between the highland and the plain, between the living clan and the dead who
+crosses between—between the highland and the plain, between the living clan and the dead who
 built in stone, and between the Nyáluba guides and whatever the Old Kraals contain. It is the
 messenger, and the tradition treats its manifestations as errands rather than visits.
 
@@ -33,5 +33,5 @@ spirits, are not party to the Long Pact, and are not certainly ancestors of anyo
 The eagle deals with them anyway. Whether it does so on the Ngonzi's behalf or on theirs is a
 question the clan does not answer to outsiders.
 
-TBD – whether the guide predates the Ngonzi presence in the highlands, as the Bombwe griots
+TBD—whether the guide predates the Ngonzi presence in the highlands, as the Bombwe griots
 maintain.

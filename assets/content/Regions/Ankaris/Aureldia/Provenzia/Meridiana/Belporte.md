@@ -3,7 +3,7 @@ tags:
   - town
   - port
   - coastal
-description: "The second of Provènzia's great southern ports and one of the two homes of the Còtière speech – a working harbor where Lunacòrte is a court, and the place the kingdom's bulk trade actually passes through."
+description: "The second of Provènzia's great southern ports and one of the two homes of the Còtière speech—a working harbor where Lunacòrte is a court, and the place the kingdom's bulk trade actually passes through."
 type: place
 subType: settlement
 data:
@@ -20,7 +20,7 @@ packFolder: provenzia
 ---
 
 **Belpòrte** stands on the warm southern shore and is, with [[place-lunacorte|Lunacòrte]], one of the
-two cities whose speech is **Còtière** – the prestige dialect of Provenzal, the form used in literature
+two cities whose speech is **Còtière**—the prestige dialect of Provenzal, the form used in literature
 and formal commerce, and the one carrying the deepest Vylarian influence.
 
 Where Lunacòrte is a capital that happens to have a harbor, Belpòrte is a harbor and nothing else,
@@ -40,8 +40,8 @@ where the goods are.
 
 ## The Port Dialect
 
-The **Parlàge dou Pòrt** – the pidgin-like register that multilingual merchants use among themselves,
-mixing Vylari and Élavendri freely – is heard here more than anywhere else in the kingdom, and a good
+The **Parlàge dou Pòrt**—the pidgin-like register that multilingual merchants use among themselves,
+mixing Vylari and Élavendri freely—is heard here more than anywhere else in the kingdom, and a good
 deal of Belpòrte's daily business is conducted in a speech that is nobody's mother tongue.
 
 ## See Also

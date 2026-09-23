@@ -5,7 +5,7 @@ tags:
   - underworld
   - dunavarre
   - aelwyth
-description: "The shadow court of Dúnavarre – the household of a crown the Ordo Arcanis set aside, kept alive by the dispossessed nobility as a criminal enterprise, a court of petition for subjects the Synod will not hear, and the one power on the island that has learned how not to be seen."
+description: "The shadow court of Dúnavarre—the household of a crown the Ordo Arcanis set aside, kept alive by the dispossessed nobility as a criminal enterprise, a court of petition for subjects the Synod will not hear, and the one power on the island that has learned how not to be seen."
 name:
   full: The Umbral Court
   aliases:
@@ -23,7 +23,7 @@ data:
   governance:
     model: monarchy
     summary: >-
-      A royal household in every particular except a throne – a masked sovereign whose identity is
+      A royal household in every particular except a throne—a masked sovereign whose identity is
       the organization's central secret, a Lord Chamberlain who actually runs it, and officers
       holding the offices of a court that has not lawfully existed for generations. Members are
       presented, not recruited; titles are granted, not earned; and the Court's judgments are
@@ -33,7 +33,7 @@ data:
         title: Attainted
         lore: outlawrnk
         description: >-
-          Struck from the rolls, with the attainder read aloud in the old form – no household on
+          Struck from the rolls, with the attainder read aloud in the old form—no household on
           the island will retain them, and the Court will not lift a hand when the Synod takes
           them.
       - level: 1
@@ -47,7 +47,7 @@ data:
         title: Retainer
         lore: swornmemberrnk
         description: >-
-          Sworn into a courtier's household – the runners, doormen, dealers, watchers and
+          Sworn into a courtier's household—the runners, doormen, dealers, watchers and
           bought clerks who do the work and are told only their part of it.
       - level: 3
         title: Courtier
@@ -59,8 +59,8 @@ data:
         title: Officer of the Household
         lore: officerrnk
         description: >-
-          Holder of one of the great offices – Chamberlain, Revels, Privy Purse, Rolls, Marshal,
-          Hunt, Herald – each with a portfolio and a household of its own.
+          Holder of one of the great offices—Chamberlain, Revels, Privy Purse, Rolls, Marshal,
+          Hunt, Herald—each with a portfolio and a household of its own.
       - level: 5
         title: Peer of the Shadow
         lore: councillorrnk
@@ -76,7 +76,7 @@ data:
     offices:
       The Veiled Crown: The masked sovereign, in whose name every judgment is rendered.
       Lord Chamberlain: >-
-        Master of the household and, in practice, the executive of the whole organization – the
+        Master of the household and, in practice, the executive of the whole organization—the
         Crown reigns and the Chamberlain governs.
       Master of the Revels: >-
         Keeper of the gaming houses, the salons and the private tables, which are the Court's
@@ -90,7 +90,7 @@ data:
         them.
       Lord Marshal: Enforcement, and the discipline of the Court's own.
       Master of the Hunt: >-
-        Counter-surveillance – the office charged with knowing when the Synod is looking, and with
+        Counter-surveillance—the office charged with knowing when the Synod is looking, and with
         seeing that it finds nothing.
       Herald: >-
         Keeper of the old registers and grantor of titles, whose office maintains the genealogies
@@ -111,15 +111,15 @@ packFolder: crimesyndicates
 ---
 
 The **Umbral Court** is the criminal power of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], and
-it is not organized as a criminal enterprise. It is organized as a **royal household** – with a
-sovereign, a chamberlain, great officers, peers, presentations and petitions – because that is exactly
+it is not organized as a criminal enterprise. It is organized as a **royal household**—with a
+sovereign, a chamberlain, great officers, peers, presentations and petitions—because that is exactly
 what it is the remains of.
 
 ## The Set-Aside Crown
 
 Dúnavarre is the only polity in Ankaris governed directly by mages: the Synod of the
 [[affiliation-ordoarcanis|Ordo Arcanis]] sets policy, administers justice and commands the kingdom's
-forces. The kingdom's own chronicles describe how this came about gently – generations of mage-advisors
+forces. The kingdom's own chronicles describe how this came about gently—generations of mage-advisors
 assuming duties that incompetent kings could not, until the crown was ceremonial and was at length set
 aside. Its critics in [[affiliation-kngdmldrth|Aldorath]] and [[affiliation-repblctrvn|Tarvenne]] tell
 a darker version involving coercion.
@@ -127,7 +127,7 @@ a darker version involving coercion.
 Either way, a thing was left behind that nobody accounted for. A crown can be set aside; a **court**
 is several hundred families, offices, titles, incomes, marriages and expectations, and it does not
 dissolve because a synod has stopped convening it. Dúnavarre's aristocracy was not destroyed. It was
-made irrelevant – left with its land, its names and its grudges, and with no institution through which
+made irrelevant—left with its land, its names and its grudges, and with no institution through which
 any of it meant anything.
 
 The Umbral Court is what those families did with themselves. It kept the household intact, kept the
@@ -140,13 +140,13 @@ It is at least four generations old, and the Synod's official position is that i
 
 The Court is ruled by a masked sovereign, addressed in the third person and never named. Perhaps six
 people have seen the face. Everything the Court does is done in the Crown's name, and this is not
-theater – it is the mechanism by which a criminal organization issues judgments that Dúnavarrans
+theater—it is the mechanism by which a criminal organization issues judgments that Dúnavarrans
 actually obey.
 
 Who wears it is the island's most valuable secret and its most productive rumor. Three answers
 circulate. That it is a true descendant of the last king, in the line the Herald's registers document.
 That it is a fiction, a rotating office kept masked precisely so that no genealogy need survive
-examination. Or – the version the Court itself most fears – that the Synod identified the line
+examination. Or—the version the Court itself most fears—that the Synod identified the line
 generations ago, and has since found it more convenient to have the opposition organized, addressable,
 and quietly steered.
 
@@ -165,8 +165,8 @@ The Court's income is leverage before it is money.
   [[affiliation-clgmrgntrrm|Collegium Argentariorum]] moneylenders and the
   [[lore-vylrncrncy|paper-script]] system, none of it appearing to be the Court's. A kingdom with
   sophisticated banking and a secretive government is an ideal place to be quietly rich.
-- **Contraband and passage.** Anything the Synod restricts – proscribed texts and components above
-  all – and any person who needs to leave the island without the harbor knowing.
+- **Contraband and passage.** Anything the Synod restricts—proscribed texts and components above
+  all—and any person who needs to leave the island without the harbor knowing.
 - **Information.** The Court's registers of who owes what to whom are the best political intelligence
   in Dúnavarre, better than the Synod's, because they were compiled by people the debtors thought
   were friends.
@@ -178,7 +178,7 @@ mages, and its defining problem is different in kind: it must assume the Synod h
 it does not fully understand.
 
 This shapes everything. The Court's most valuable possessions are not its houses or its purse but its
-**quiet places** – chambers, cellars and ships that are reliably opaque to the Synod's attention – and
+**quiet places**—chambers, cellars and ships that are reliably opaque to the Synod's attention—and
 the handful of people who can make more of them. Ordo washouts, disgraced adepts and scholars the
 Synod has censured are recruited on sight and treated better than peers. Business is conducted in
 person, in the old forms, with as little written as the Rolls will tolerate; the Master of the Hunt
@@ -189,7 +189,7 @@ Court is worth more to the Synod than any informer it could buy.
 ## Petitions
 
 The part outsiders misread. Dúnavarre is governed well by material measures and its subjects have **no
-voice whatever** – the Synod's decisions are made behind closed doors and there is no appeal from
+voice whatever**—the Synod's decisions are made behind closed doors and there is no appeal from
 them. So people bring their grievances to the Umbral Court, which hears them, in the forms the old
 crown used, and sometimes acts.
 
@@ -200,7 +200,7 @@ it is cheap, because it is the only source of legitimacy it has, and because eve
 a debt entered in the Rolls.
 
 The result is that the Umbral Court is genuinely popular among people who have never gambled a
-penny – which is why four generations of Synod pressure have not dislodged it, and why the Synod's
+penny—which is why four generations of Synod pressure have not dislodged it, and why the Synod's
 position that it does not exist is the least embarrassing one available.
 
 ## Relations
@@ -209,7 +209,7 @@ position that it does not exist is the least embarrassing one available.
   and each has spent generations ensuring the other cannot prove what it knows.
 - **The [[affiliation-justbladeordr|Order of the Just Blade]].** The Court's greatest hope and its
   greatest danger. The Order is Jánusian, sworn to order and justice, answerable to the Synod, and
-  commands enormous respect in its own right – and a knight sworn to _justice_ serving a state where
+  commands enormous respect in its own right—and a knight sworn to _justice_ serving a state where
   the governed have no voice is a man with a private difficulty. The Court has sympathizers among the
   Knight-Captains. It also has enemies there who regard it as everything Jánus abhors, and who are
   correct.
@@ -224,8 +224,7 @@ position that it does not exist is the least embarrassing one available.
 
 ## The Second Face
 
-Dúnavarre is devoutly [[affiliation-arldnpnthn|Aurèldían]] and honors **Jánus** above the rest –
-Keeper of the Gates, whose symbol is a mask with two faces, one serene and one stern. The Court has
+Dúnavarre is devoutly [[affiliation-arldnpnthn|Aurèldían]] and honors **Jánus** above the rest—Keeper of the Gates, whose symbol is a mask with two faces, one serene and one stern. The Court has
 taken this for its own with some relish. It calls itself the **Second Face**: the argument being that
 Jánus's stern aspect looks upon a kingdom whose rulers were never granted their office, and that the
 Court is what order looks like when the lawful form of it has been set aside.
@@ -236,11 +235,11 @@ Every priest of Jánus in Dúnavarre has denounced this. Not all of them have de
 
 The Court holds [[being-laradhluavel|Laradh Lúavel]], Steward of the mission to the
 [[affiliation-tanvurempr|Empire of Tānvür]], through gambling debts and the embezzlement he committed
-to cover them – and through his daughter [[being-ilaraluavel|Ilara]], whose safety is his first
+to cover them—and through his daughter [[being-ilaraluavel|Ilara]], whose safety is his first
 concern and the Court's best instrument.
 
 The motive is not money. The embassy is the Synod's boldest assertion of Dúnavarren independence, and a
-mission that fails badly and publicly is a Synod humiliation on the international stage – worth far
+mission that fails badly and publicly is a Synod humiliation on the international stage—worth far
 more to the Court than anything Laradh could repay. Whether the Court wants the mission steered or
 wrecked is a question its own officers disagree about, and Laradh has not been told which.
 
@@ -253,7 +252,7 @@ wrecked is a question its own officers disagree about, and Laradh has not been t
 - **The quiet room.** A place opaque to the Synod is worth more than its weight in anything. Someone
   has built a new one, or lost an old one, and both the Court and the Order want it.
 - **Aldorath's money.** Proof that the Court is foreign-funded would cost it the popular standing it
-  survives on. Both the Synod and the Court's own peers would pay to have that proof – or to have it
+  survives on. Both the Synod and the Court's own peers would pay to have that proof—or to have it
   destroyed.
 - **The unmasking.** A Herald's register surfaces that bears on who the Veiled Crown is. Every possible
   answer is catastrophic for somebody.

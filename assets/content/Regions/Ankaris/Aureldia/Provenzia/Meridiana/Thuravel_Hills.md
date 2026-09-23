@@ -19,7 +19,7 @@ shortcode: thuravelhills
 packFolder: provenzia
 ---
 
-The **Thúravel Hills** roll across the south of the [[place-provenzrgn|Provènzia Region]] – low,
+The **Thúravel Hills** roll across the south of the [[place-provenzrgn|Provènzia Region]]—low,
 wooded, thinly settled, and mapped with a vagueness unusual in so well-surveyed a kingdom. Roads skirt
 them. The villages at their edges are small, old and inward, and the shepherds who take flocks onto the
 higher ground keep to paths that are not written down anywhere.
@@ -53,7 +53,7 @@ is romantic invention by collectors. The people of the hills decline to help the
 
 ## Notable Features
 
-- **[[place-shrinethuravelhills|The Forgotten Shrine]]** – the great pre-Aurèldían sanctuary of the
+- **[[place-shrinethuravelhills|The Forgotten Shrine]]**—the great pre-Aurèldían sanctuary of the
   hills, lost to official history and remembered in song. See
   [[scenario-frgtnshrnthrvlhls|The Forgotten Shrine of the Thúravel Hills]].
 

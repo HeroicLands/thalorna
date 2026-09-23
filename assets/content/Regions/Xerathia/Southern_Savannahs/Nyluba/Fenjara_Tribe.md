@@ -38,7 +38,7 @@ data:
         title: Dependent
         lore: dependentrnk
         description: >-
-          Sheltered by a household without being of its blood – a client, a widow's family,
+          Sheltered by a household without being of its blood—a client, a widow's family,
           a taken-in stranger.
       - level: 3
         title: Kinsman
@@ -68,8 +68,8 @@ data:
       Delegate: >-
         Sent to the Great Indaba of the confederation, empowered to argue and not to bind.
       Master of the Hunt: >-
-        Holder of the tribe's grounds – their game, their seasons and their standing pacts –
-        and the one who apportions a take.
+        Holder of the tribe's grounds—their game, their seasons and their standing pacts—and the one
+        who apportions a take.
       Trail-Reader: >-
         Charged with the reading of sign, and with teaching it; the office the tribe is known
         for beyond its own country.
@@ -101,7 +101,7 @@ packFolder: politiesnyaluba
 The **Fénjara** are a small tribe of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]], living
 where the southeastern savannah closes into gallery forest and thicket. They are not one of the
 five clan-nations and do not pretend to be; for the purposes of totem law they are reckoned with
-the Sengala, and they keep the [[affiliation-nyalbleop|Leopard Totem]] – which suits them, since
+the Sengala, and they keep the [[affiliation-nyalbleop|Leopard Totem]]—which suits them, since
 the leopard is the guide that works alone, moves unseen, and is present in country it does not
 obviously hold.
 
@@ -128,8 +128,8 @@ is why so small a tribe is heard at the Great Indaba at all.
 
 ### See Also
 
-- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] – the confederation the tribe belongs to
-- [[affiliation-nyalbleop|Leopard Totem]] – the guide the Fénjara keep
-- [[place-fenjaravlg|Fénjara Village]] – the tribe's seat
-- [[affiliation-nyalbpnthn|The Nyáluba Way]] – the tradition, and the offices the Fénjara do not hold
-- [[being-gahijwfnjr|Gahiji wa Fénjara]] – the tribe's best-known tracker
+- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the confederation the tribe belongs to
+- [[affiliation-nyalbleop|Leopard Totem]]—the guide the Fénjara keep
+- [[place-fenjaravlg|Fénjara Village]]—the tribe's seat
+- [[affiliation-nyalbpnthn|The Nyáluba Way]]—the tradition, and the offices the Fénjara do not hold
+- [[being-gahijwfnjr|Gahiji wa Fénjara]]—the tribe's best-known tracker

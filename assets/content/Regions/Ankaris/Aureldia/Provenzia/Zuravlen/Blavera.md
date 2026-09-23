@@ -2,7 +2,7 @@
 tags:
   - village
   - river
-description: "A mixed manor of the Zûravlen valley floor – grain, fold and a little fruit – and the ordinary model that most of the barony actually resembles."
+description: "A mixed manor of the Zûravlen valley floor—grain, fold and a little fruit—and the ordinary model that most of the barony actually resembles."
 type: place
 subType: settlement
 data:
@@ -27,8 +27,8 @@ like this; Vergéval is the exception that gets talked about.
 
 ## The Manor
 
-- **Demesne.** Around sixty hectares in three great fields, worked in rotation – winter grain, spring
-  grain, fallow – with the fallow grazed and dunged.
+- **Demesne.** Around sixty hectares in three great fields, worked in rotation—winter grain, spring
+  grain, fallow—with the fallow grazed and dunged.
 - **Tenancies.** Some forty-five holdings in scattered strips across the fields, held by labor service
   and rent in grain. The arrangement is old, intricate and understood by everyone born to it.
 - **Banalities.** The lord's **mill** on the river and the lord's **oven**. Both are resented in the
@@ -48,5 +48,5 @@ and the fold.
 ## Why It Matters
 
 When frost takes the blossom, Vergéval borrows and Blavéra eats. In such years grain prices in the
-barony rise sharply and Blavéra's lord becomes, briefly and unaccustomedly, an important man – a
+barony rise sharply and Blavéra's lord becomes, briefly and unaccustomedly, an important man—a
 reversal that has caused more trouble in Zûravlen's history than any outside enemy.

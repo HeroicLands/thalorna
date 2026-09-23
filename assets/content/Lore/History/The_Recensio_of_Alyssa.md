@@ -2,7 +2,7 @@
 tags:
   - history
   - spine
-description: "In 75 BF the Praefectura assembles every registered practitioner in the Republic and their working-books in one place to be copied into a single register – and in the fourth month there is an unchanneled release."
+description: "In 75 BF the Praefectura assembles every registered practitioner in the Republic and their working-books in one place to be copied into a single register—and in the fourth month there is an unchanneled release."
 type: lore
 subType: history
 name:
@@ -21,12 +21,12 @@ event:
     - decided-midhalion
   summary: >-
     The prefect of the year orders every registered practitioner in the Republic to bring their
-    working-books to one place in the Alyssan country, to be copied into a single register the Senate
-    can hold. It puts the whole of the Republic's arcane knowledge and very nearly the whole of its
-    arcane manpower inside one set of walls for a season. In the fourth month there is an unchanneled
-    release. The books burn, most of the Republic's senior arcanists die, and a tract of good land is
-    left bare. Whether it was accident or act has never been established, and the inventory taken
-    afterward did not balance.
+    working-books to one place in the Alyssan country, to be copied into a single register the
+    Senate can hold. It puts the whole of the Republic's arcane knowledge and very nearly the whole
+    of its arcane manpower inside one set of walls for a season. In the fourth month there is an
+    unchanneled release. The books burn, most of the Republic's senior arcanists die, and a tract of
+    good land is left bare. Whether it was accident or act has never been established, and the
+    inventory taken afterward did not balance.
   standing: single-source
   where:
     locus:
@@ -72,7 +72,7 @@ event:
 
 The Recensio was an audit. Every registered practitioner in the Republic was ordered to bring their
 working-books to one place in the Alyssan country, a day's ride from what is now Velysâra, to be
-copied into a single register the Senate could hold – and for a season it put the whole of the
+copied into a single register the Senate could hold—and for a season it put the whole of the
 Republic's arcane knowledge, and very nearly the whole of its arcane manpower, inside one set of
 walls.
 
@@ -85,7 +85,7 @@ The books burned. Most of the Republic's senior arcanists died. A tract of good 
 seven centuries later and is fenced at the [[affiliation-ordoarcanis|Ordo]]'s charge.
 
 A deliberate release is the kind of thing that ends sieges, which is precisely why nobody has ever
-been able to say whether this was an accident or an act – and why that question is the Quaesitorium's
+been able to say whether this was an accident or an act—and why that question is the Quaesitorium's
 whole reason for existing.
 
 The audit did one other thing that is not in any account of it. It counted what the Praefectura held,

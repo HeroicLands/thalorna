@@ -109,4 +109,4 @@ sohl:
 packFolder: weapons
 ---
 
-A heavy iron weight attached to a long rope or chain, the meteor hammer is whirled to gather momentum before striking with crushing force. Advanced warriors spin it around their bodies to generate devastating reach and unpredictable angles; the weight can wrap around limbs or shafts to entangle and disarm. Mastery requires years of discipline – poor handling risks striking the wielder.
+A heavy iron weight attached to a long rope or chain, the meteor hammer is whirled to gather momentum before striking with crushing force. Advanced warriors spin it around their bodies to generate devastating reach and unpredictable angles; the weight can wrap around limbs or shafts to entangle and disarm. Mastery requires years of discipline—poor handling risks striking the wielder.

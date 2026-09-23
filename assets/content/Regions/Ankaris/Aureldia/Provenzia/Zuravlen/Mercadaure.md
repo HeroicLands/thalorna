@@ -20,8 +20,8 @@ packFolder: provenzia
 ---
 
 **Mercadaure** stands where the Zûravlen valley opens toward the plain, and it exists to sell what the
-valley grows. Some fourteen hundred people live there – more in August, very many more during the
-fair – and almost none of them farm.
+valley grows. Some fourteen hundred people live there—more in August, very many more during the
+fair—and almost none of them farm.
 
 It is the seat of **Baron Álegar alrí Zûravel**, who holds Zûravlen of the
 [[affiliation-kngdmprvnz|Crown of Provènzia]] and whose hall stands above the town rather than in it,
@@ -34,14 +34,13 @@ The town's real institution, and the source of Zûravlen's reputation. Every bas
 for sale outside the barony is brought to the **grading table** under the market hall, where sworn
 graders sort it into three marks. Only the first mark may be sold under the Zûravlen name.
 
-The graders are appointed by the baron, hold office for three years, and are forbidden to own orchards
-– a rule introduced after a scandal three generations ago and observed with varying rigor since. A
+The graders are appointed by the baron, hold office for three years, and are forbidden to own orchards—a rule introduced after a scandal three generations ago and observed with varying rigor since. A
 grader's decision can make or ruin a small holding's year, and every orchardist in the valley has a
 theory about which graders can be reached and how.
 
 ## The Drying Yards
 
-South of the town, on the open ground above the river, stand the great **drying yards** – racks of
+South of the town, on the open ground above the river, stand the great **drying yards**—racks of
 cane trays under low walls, where the halved fruit is laid out in the sun and turned twice a day.
 The yards belong to the baron. Every holding in the barony that lacks a yard of its own must dry its
 crop here and pay a share of it, which is the single largest item of baronial income and the single

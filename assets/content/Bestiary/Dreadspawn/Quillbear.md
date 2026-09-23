@@ -373,7 +373,7 @@ sohl:
 
 ![[qllbr|Quillbear]]{float: top-left}
 
-The forest floor cracks and splinters as something massive erupts from the earth – an explosion of dirt and debris that blocks your vision. Through the dust, you see it: a creature that resembles a bear in gross shape alone, but its entire body is encased in thousands of spear-like quills that shimmer with sickly luminescence. The beast's fur bristles around the quills like some nightmare fusion of porcupine and ursine horror, and as it shakes itself clear of the soil, individual quills vibrate with an audible, high-pitched keening. Its low growl is the rumble of earth and stone, and you can see the venom glistening on each quill's barbed tip. The creature's eyes lock on you with feral intelligence, and you smell the burning-metal stench of its venom on the air.
+The forest floor cracks and splinters as something massive erupts from the earth—an explosion of dirt and debris that blocks your vision. Through the dust, you see it: a creature that resembles a bear in gross shape alone, but its entire body is encased in thousands of spear-like quills that shimmer with sickly luminescence. The beast's fur bristles around the quills like some nightmare fusion of porcupine and ursine horror, and as it shakes itself clear of the soil, individual quills vibrate with an audible, high-pitched keening. Its low growl is the rumble of earth and stone, and you can see the venom glistening on each quill's barbed tip. The creature's eyes lock on you with feral intelligence, and you smell the burning-metal stench of its venom on the air.
 
 # Dossier {#dossier}
 
@@ -389,7 +389,7 @@ Quillbears are solitary, fiercely territorial creatures that claim and defend a 
 
 ## Combat Strategy
 
-A Quillbear typically initiates combat by charging with its full mass and speed, attempting to bowl over opponents and impale them on its quill-covered body. Once engaged, it shifts to rapid claw strikes combined with attempted grappling. At range, it can launch its quills as projectile weapons, though it does not appear to "run out" of quills for long – they seem to regenerate or be continuously produced. The creature is intelligent enough to recognize when an opponent is particularly dangerous and will attempt to use burrows or rough terrain to control the engagement. A cornered or defending Quillbear fights with ferocious determination, and it has been known to fight through severe wounds rather than retreat.
+A Quillbear typically initiates combat by charging with its full mass and speed, attempting to bowl over opponents and impale them on its quill-covered body. Once engaged, it shifts to rapid claw strikes combined with attempted grappling. At range, it can launch its quills as projectile weapons, though it does not appear to "run out" of quills for long—they seem to regenerate or be continuously produced. The creature is intelligent enough to recognize when an opponent is particularly dangerous and will attempt to use burrows or rough terrain to control the engagement. A cornered or defending Quillbear fights with ferocious determination, and it has been known to fight through severe wounds rather than retreat.
 
 ## Attack Methods
 
@@ -425,7 +425,7 @@ The Quillbear is naturally immune to its own venom and to most other toxic subst
 
 ## Additional Information
 
-Fire is the Quillbear's greatest weakness – flames damage its quill covering directly, can ignite the venom causing painful explosions, and burn the creature's underlying fur. Smoke and heat also seem to cause it distress and disorientation. Its burrows can be rendered uninhabitable by fire or flooding, forcing a Quillbear to abandon its territory. The creature's quills, if harvested properly, are extraordinarily valuable – they can be fashioned into natural weapons that retain their venom for months or years, or processed into powerful poisons for sale on the black market. The hide under the quills is thick and can be crafted into armor of fine quality. Some desperate communities hire Quillbear hunters, paying substantial sums for the removal of problem creatures; these hunts are among the most dangerous undertakings a mortal can pursue, and many hunters do not survive their pursuit.
+Fire is the Quillbear's greatest weakness—flames damage its quill covering directly, can ignite the venom causing painful explosions, and burn the creature's underlying fur. Smoke and heat also seem to cause it distress and disorientation. Its burrows can be rendered uninhabitable by fire or flooding, forcing a Quillbear to abandon its territory. The creature's quills, if harvested properly, are extraordinarily valuable—they can be fashioned into natural weapons that retain their venom for months or years, or processed into powerful poisons for sale on the black market. The hide under the quills is thick and can be crafted into armor of fine quality. Some desperate communities hire Quillbear hunters, paying substantial sums for the removal of problem creatures; these hunts are among the most dangerous undertakings a mortal can pursue, and many hunters do not survive their pursuit.
 
 ## Attributes
 

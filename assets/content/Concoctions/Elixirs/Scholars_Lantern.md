@@ -25,7 +25,7 @@ sohl:
 packFolder: elixirs
 ---
 
-A luminous golden elixir that tastes of honey and old parchment, infused with the Principle of Knowledge (Pneuménos). When drunk, the imbiber's mind sharpens and clarifies. Their thoughts accelerate and connect with preternatural clarity, allowing them to grasp esoteric truths and penetrate knotted arguments. Successful tests in Lore Group skills, Reasoning, and Creativity are automatically treated as Critical Successes – the very die roll becomes blessed, the units place determined as if fortune itself smiled upon wisdom.
+A luminous golden elixir that tastes of honey and old parchment, infused with the Principle of Knowledge (Pneuménos). When drunk, the imbiber's mind sharpens and clarifies. Their thoughts accelerate and connect with preternatural clarity, allowing them to grasp esoteric truths and penetrate knotted arguments. Successful tests in Lore Group skills, Reasoning, and Creativity are automatically treated as Critical Successes—the very die roll becomes blessed, the units place determined as if fortune itself smiled upon wisdom.
 
 This gift exacts a spiritual toll: the imbiber suffers Aural Shock 1, a small but measurable drain on their arcane reserves. The effect is instantaneous and remains for the duration of the test or the immediate moment of insight, fading as quickly as it arrived.
 

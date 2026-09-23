@@ -2,7 +2,7 @@
 tags:
   - village
   - mountain
-description: "The oldest of the Vardain villages and the nearest to the Gate – where the tallies are kept and the Khazári schedule is reckoned."
+description: "The oldest of the Vardain villages and the nearest to the Gate—where the tallies are kept and the Khazári schedule is reckoned."
 type: place
 subType: settlement
 data:
@@ -20,7 +20,7 @@ packFolder: aelwyth
 ---
 
 **Barakth** lies highest of the inhabited valleys but one, closest to the road up to
-[[place-vorgald|Vorgald]], and it is the oldest Vardain settlement – old enough that its name is
+[[place-vorgald|Vorgald]], and it is the oldest Vardain settlement—old enough that its name is
 Khazári and nobody can say what it means.
 
 Six hundred and twenty people, and the **tallies**. Every delivery owed up the mountain and every

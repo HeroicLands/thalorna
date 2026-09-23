@@ -1,5 +1,5 @@
 ---
-description: "Vedyara's preeminent center of gemcraft and jewelry, standing marble-bright on the Chandramahī River – artisans whose work commands prices across the known realms."
+description: "Vedyara's preeminent center of gemcraft and jewelry, standing marble-bright on the Chandramahī River—artisans whose work commands prices across the known realms."
 type: affiliation
 name:
   full: Chandrapur
@@ -34,13 +34,13 @@ data:
         title: Śūdra
         lore: commonerrnk
         description: >-
-          Of the serving varṇa – cultivators, artisans and laborers who hold their place by
+          Of the serving varṇa—cultivators, artisans and laborers who hold their place by
           work rather than by rite.
       - level: 3
         title: Vaiśya
         lore: gentryrnk
         description: >-
-          Of the productive varṇa – merchants, herders and landholders, whose wealth sustains
+          Of the productive varṇa—merchants, herders and landholders, whose wealth sustains
           the court and its temples.
       - level: 4
         title: Kṣatriya
@@ -116,9 +116,9 @@ data:
 packFolder: vedyara
 ---
 
-Chandrapur, the "Moon City," stands as Vedyara's preeminent center of gemcraft and jewelry. The city's fame rests upon the skill of its jewelers – artisans whose work commands prices across all the known realms. Royal courts from Provènzia to Tānvür commission pieces from Chandrapur's master craftspeople, and the city's merchant families have accumulated wealth spanning generations.
+Chandrapur, the "Moon City," stands as Vedyara's preeminent center of gemcraft and jewelry. The city's fame rests upon the skill of its jewelers—artisans whose work commands prices across all the known realms. Royal courts from Provènzia to Tānvür commission pieces from Chandrapur's master craftspeople, and the city's merchant families have accumulated wealth spanning generations.
 
-The city maintains strict guildhall regulations – artisans must apprentice for years before earning the right to their own workshop – ensuring that Chandrapur's reputation for excellence remains unsullied.
+The city maintains strict guildhall regulations—artisans must apprentice for years before earning the right to their own workshop—ensuring that Chandrapur's reputation for excellence remains unsullied.
 
 Wealth has made Chandrapur cosmopolitan. Traders and craftspeople from across the realms have settled here; the city speaks a dozen languages in its markets. Yet beneath the glittering surface runs an older current: the temples of Varṇaka remain the true seat of power, their priesthoods mediating disputes between merchant families and blessing the work of the jewelcrafters before they begin. The city's prosperity, inhabitants believe, flows from divine favor. The city-state holds [[place-chandrapurland|Chandrapur Land]], and [[place-chandrapur2|Chandrapur]] is its seat.
 
@@ -126,9 +126,9 @@ Wealth has made Chandrapur cosmopolitan. Traders and craftspeople from across th
 
 Chandrapur keeps a king, which among the great cities of the coast is now the uncommon arrangement. The **Mahārāja of the Moon House** rules by descent, and the rule holds because the temples confirm it: the rites the Varṇaka brahmins perform at an accession are what make the man king, and a claimant they will not crown has never yet reigned.
 
-What the Mahārāja rules with is a court, and the court is the **Nine Houses** – the merchant-prince families whose heads sit as **Kulina**, each holding one of the nine seats, the charters of his own trade, and the quarter of the city his house has always kept. The seats descend within the houses; the crown confirms a succession and has twice refused one. A Kulina is not a Sāmanta and holds no land of the king's grant: his standing is his house's charter, and a house that loses its trade loses its seat within a generation, which is the difference between this court and a kingdom's.
+What the Mahārāja rules with is a court, and the court is the **Nine Houses**—the merchant-prince families whose heads sit as **Kulina**, each holding one of the nine seats, the charters of his own trade, and the quarter of the city his house has always kept. The seats descend within the houses; the crown confirms a succession and has twice refused one. A Kulina is not a Sāmanta and holds no land of the king's grant: his standing is his house's charter, and a house that loses its trade loses its seat within a generation, which is the difference between this court and a kingdom's.
 
-The **Nau-senāpati** commands the fleet, answers for the river mouth and the coast, and lets the galleys out by the sailing season – an office of consequence in a city that carries other cities' cargo as well as its own.
+The **Nau-senāpati** commands the fleet, answers for the river mouth and the coast, and lets the galleys out by the sailing season—an office of consequence in a city that carries other cities' cargo as well as its own.
 
 ## Commerce and Currency
 
@@ -136,8 +136,8 @@ Chandrapur uses the [[lore-vdyrnbnkng|Vedyaran banking system]] administered thr
 
 ## See Also
 
-- [[place-vedyarargn|Vedyara Region]] – Regional overview
-- [[place-chandrapurland|Chandrapur Land]] – the land the city-state holds
-- [[place-chandrapur2|Chandrapur]] – The city itself
-- [[skill-vedyarlng|Vedyari]] – Naming tradition
-- [[affiliation-varakpnthn|Varṇaka Pantheon]] – Religious tradition
+- [[place-vedyarargn|Vedyara Region]]—Regional overview
+- [[place-chandrapurland|Chandrapur Land]]—the land the city-state holds
+- [[place-chandrapur2|Chandrapur]]—The city itself
+- [[skill-vedyarlng|Vedyari]]—Naming tradition
+- [[affiliation-varakpnthn|Varṇaka Pantheon]]—Religious tradition

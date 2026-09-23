@@ -2,7 +2,7 @@
 tags:
   - city
   - inland
-description: "The old Vylarian foundation of the southern interior – once the provincial capital and still the seat of Provenzian law and learning, a city of enormous prestige and diminished consequence."
+description: "The old Vylarian foundation of the southern interior—once the provincial capital and still the seat of Provenzian law and learning, a city of enormous prestige and diminished consequence."
 type: place
 subType: settlement
 data:
@@ -31,8 +31,8 @@ intervening centuries being magnificent about it.
 What the city kept was the institutions, and they turned out to matter more than the court did.
 
 Provenzian **law** is Vylarian law as received, amended and argued over at Aurèliane, and the high
-courts still sit here rather than at Lunacòrte. So do the **academies** – philosophy, rhetoric,
-medicine, and the manuscript and illumination trades that grew up around them – which is why a
+courts still sit here rather than at Lunacòrte. So do the **academies**—philosophy, rhetoric,
+medicine, and the manuscript and illumination trades that grew up around them—which is why a
 Provenzian sends a promising son to Aurèliane and an ambitious one to the capital.
 
 The distinction is felt keenly in both directions. Aurèliane regards Lunacòrte as a counting-house that

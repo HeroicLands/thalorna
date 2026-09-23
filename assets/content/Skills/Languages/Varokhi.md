@@ -61,9 +61,9 @@ Varokhi employs a somewhat simpler consonant inventory than Nordmal, with greate
 
 ## Script & Literacy
 
-Varokhi has no traditional writing system. The language is preserved entirely through oral transmission – memorization, recitation, and storytelling. This is not considered a limitation but rather a distinctive cultural feature: the Varokhi valorize those with strong memories and eloquent speech.
+Varokhi has no traditional writing system. The language is preserved entirely through oral transmission—memorization, recitation, and storytelling. This is not considered a limitation but rather a distinctive cultural feature: the Varokhi valorize those with strong memories and eloquent speech.
 
-In modern times, some Varokhi speakers have adopted the scripts of neighboring regions – the [[skill-semrnscrpt|Sêmarion]] from the empire, [[skill-thuravarkscript|Thurávark]] from the north – for practical communication, but these are viewed as foreign tools, not genuine Varokhi writing. The language remains fundamentally oral.
+In modern times, some Varokhi speakers have adopted the scripts of neighboring regions—the [[skill-semrnscrpt|Sêmarion]] from the empire, [[skill-thuravarkscript|Thurávark]] from the north—for practical communication, but these are viewed as foreign tools, not genuine Varokhi writing. The language remains fundamentally oral.
 
 ## Historical Development
 
@@ -91,7 +91,7 @@ The absence of a written form may seem to place Varokhi at a disadvantage compar
 
 ## Related Languages
 
-Varokhi stands closest to [[skill-nordmalng|Nordmal]], with which it shares fundamental vocabulary and much of its basic structure. Speakers with training can achieve mutual intelligibility, though the absence of shared writing systems and the differences in phonetics and grammar create barriers. The linguistic relationship is that of cousins who grew up in different households – recognizably related but with distinct personalities.
+Varokhi stands closest to [[skill-nordmalng|Nordmal]], with which it shares fundamental vocabulary and much of its basic structure. Speakers with training can achieve mutual intelligibility, though the absence of shared writing systems and the differences in phonetics and grammar create barriers. The linguistic relationship is that of cousins who grew up in different households—recognizably related but with distinct personalities.
 
 The relationship to southern [[lore-pelwarpepl|Pelwar People]] languages (Vylari, Provenzal, Tarvéni, Élavendri) is more distant. Varokhi speakers find these languages overly formal and restrictive; southern speakers find Varokhi difficult to follow due to its phonetic variation and lack of standardization.
 
@@ -99,7 +99,7 @@ The relationship to southern [[lore-pelwarpepl|Pelwar People]] languages (Vylari
 
 ## Naming Traditions
 
-Varokhi naming practices emphasize the meaning and power of names. A name is considered a binding force in a person's life – a naming ceremony is a major ritual event, and the choice of name is made with great care and deliberation. Names often incorporate Varokhi language roots that evoke the qualities parents wish to cultivate: strength, wisdom, connection to nature, or martial prowess.
+Varokhi naming practices emphasize the meaning and power of names. A name is considered a binding force in a person's life—a naming ceremony is a major ritual event, and the choice of name is made with great care and deliberation. Names often incorporate Varokhi language roots that evoke the qualities parents wish to cultivate: strength, wisdom, connection to nature, or martial prowess.
 
 The practice of _eth-kethrun_ (taking a true name) marks the transition to adulthood. A young person earns their true name through a deed of significance, and thereafter this becomes their primary identifier. Some individuals hold multiple names from different periods of their life, each encoding a chapter of their biography.
 

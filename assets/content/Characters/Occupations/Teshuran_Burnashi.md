@@ -594,12 +594,12 @@ Former mercenary comrades hold grudges from past conflicts.
 
 ## Plot Hooks
 
-1. **The Swordmaster's Dilemma** – A mercenary company offers to hire the students Teshûran has trained, and the pay would take them from the village they were trained to defend.
+1. **The Swordmaster's Dilemma**—A mercenary company offers to hire the students Teshûran has trained, and the pay would take them from the village they were trained to defend.
 
-2. **Old Grudges** – A former comrade who holds Teshûran responsible for a past defeat has learned which village he settled in.
+2. **Old Grudges**—A former comrade who holds Teshûran responsible for a past defeat has learned which village he settled in.
 
-3. **Echoes of the Past** – A survivor of a battle Teshûran fought as a mercenary comes to the village, and knows him despite the lost eye.
+3. **Echoes of the Past**—A survivor of a battle Teshûran fought as a mercenary comes to the village, and knows him despite the lost eye.
 
-4. **Shifting Winds** – Political change in Harad brings war toward the village Teshûran trains, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Harad brings war toward the village Teshûran trains, and he can adapt, resist, or leave.
 
-5. **The Opportunity** – A lord offers Teshûran command of his household troops, and taking it would put him back in the life he left.
+5. **The Opportunity**—A lord offers Teshûran command of his household troops, and taking it would put him back in the life he left.

@@ -23,7 +23,7 @@ sohl:
 packFolder: hekauincantations
 ---
 
-Not invisibility – the practitioner is plainly there – but an arrangement by which the dead and
+Not invisibility—the practitioner is plainly there—but an arrangement by which the dead and
 the things bound among them decline to take an interest. It is what allows the necropolis-guard to
 patrol after dark, and its failure mode is the reason they patrol in pairs: the working lapses
 without announcing itself, and the first sign is generally being noticed.

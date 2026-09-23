@@ -24,7 +24,7 @@ Kheraha is the capital of [[affiliation-nomekherah|the Nome of Kheraha]] and the
 
 ## See Also
 
-- [[affiliation-nomekherah|The Nome of Kheraha]] – Parent nome
-- [[affiliation-deltanomes|The Delta Nomes]] – Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview
-- [[affiliation-ra|Rā]] – Patron cult
+- [[affiliation-nomekherah|The Nome of Kheraha]]—Parent nome
+- [[affiliation-deltanomes|The Delta Nomes]]—Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
+- [[affiliation-ra|Rā]]—Patron cult

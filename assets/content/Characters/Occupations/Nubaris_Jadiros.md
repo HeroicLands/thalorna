@@ -569,7 +569,7 @@ Nûbàris is composed, attentive and difficult to read, and likes it that way; s
 
 ### Motivation
 
-Nûbàris wants influence – to be the one the great houses cannot do without – and she has it. Behind the fee and the favor is a plainer want, to be needed, since being liked was never on offer to a small house with debts.
+Nûbàris wants influence—to be the one the great houses cannot do without—and she has it. Behind the fee and the favor is a plainer want, to be needed, since being liked was never on offer to a small house with debts.
 
 ### Strengths
 
@@ -591,10 +591,10 @@ Rival courtiers who see a small house grown too useful and would like to prove h
 
 ## Plot Hooks
 
-1. **Both Sides Paying** – Two houses in a feud have each retained Nûbàris to settle it, and each has instructed her to see the other lose. Only a settlement that leaves both believing they won keeps her reputation.
+1. **Both Sides Paying**—Two houses in a feud have each retained Nûbàris to settle it, and each has instructed her to see the other lose. Only a settlement that leaves both believing they won keeps her reputation.
 
-2. **A Secret of Her Own** – Something Nûbàris has kept from everyone – the true state of the Jâdîrôs debts, and who holds them – has reached a rival.
+2. **A Secret of Her Own**—Something Nûbàris has kept from everyone—the true state of the Jâdîrôs debts, and who holds them—has reached a rival.
 
-3. **The Envoy** – A Vylarian envoy wants to know which houses of the assembly would welcome a firmer imperial hand, and has heard that Nûbàris knows every house's mind. He has offered a great deal, and the assembly would call the sale treason.
+3. **The Envoy**—A Vylarian envoy wants to know which houses of the assembly would welcome a firmer imperial hand, and has heard that Nûbàris knows every house's mind. He has offered a great deal, and the assembly would call the sale treason.
 
-4. **The Feud** – Two of the oldest houses in Therádon have quarreled past the point of mediation, and each has told Nûbàris that neutrality will be taken as enmity.
+4. **The Feud**—Two of the oldest houses in Therádon have quarreled past the point of mediation, and each has told Nûbàris that neutrality will be taken as enmity.

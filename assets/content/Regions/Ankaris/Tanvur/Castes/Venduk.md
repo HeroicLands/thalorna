@@ -54,7 +54,7 @@ Vëndük children who fail to demonstrate magical ability during this period are
 
 ## Threats to the Order
 
-The empire remains vigilant against rebellious nobles who have attempted to leverage Vëndük power for their own ends. Historical records show that insurgent Warlords have brought loyal Vëndük under their banners, including practitioners with formidable command over elemental forces – fire and earth mages, wielders of air magic and spirit manipulation – posing significant threats to imperial stability when factional conflicts arise.
+The empire remains vigilant against rebellious nobles who have attempted to leverage Vëndük power for their own ends. Historical records show that insurgent Warlords have brought loyal Vëndük under their banners, including practitioners with formidable command over elemental forces—fire and earth mages, wielders of air magic and spirit manipulation—posing significant threats to imperial stability when factional conflicts arise.
 
 ## Elder Races as Vëndük
 
@@ -62,8 +62,8 @@ The Vëndük caste maintains constant vigilance against potential influence from
 
 ## See Also
 
-- [[lore-castelaws|Caste Laws]] – overview of Vëndük rights and restrictions
-- [[lore-zheklung|Zhëklüng]] – the masters who own and command the Vëndük
-- [[lore-vushok|Vüshōk]] – Warrior Nobility who work alongside Vëndük counsel
-- [[lore-zeisik|Law and Honor]] – legal framework enforcing magical monopoly
-- [[affiliation-tanvurempr|Empire of Tānvür]] – overview of imperial structure and governance
+- [[lore-castelaws|Caste Laws]]—overview of Vëndük rights and restrictions
+- [[lore-zheklung|Zhëklüng]]—the masters who own and command the Vëndük
+- [[lore-vushok|Vüshōk]]—Warrior Nobility who work alongside Vëndük counsel
+- [[lore-zeisik|Law and Honor]]—legal framework enforcing magical monopoly
+- [[affiliation-tanvurempr|Empire of Tānvür]]—overview of imperial structure and governance

@@ -587,12 +587,12 @@ Few; respected but occasionally faces skepticism from traditionalists.
 
 ## Plot Hooks
 
-1. **The Longshorewoman's Dilemma** – A merchant asks Pórena to look away from what is in his cargo, and she has to choose between her principles and her place on the docks.
+1. **The Longshorewoman's Dilemma**—A merchant asks Pórena to look away from what is in his cargo, and she has to choose between her principles and her place on the docks.
 
-2. **Old Grudges** – One of the traditionalists who doubted her goes from skepticism to sabotage.
+2. **Old Grudges**—One of the traditionalists who doubted her goes from skepticism to sabotage.
 
-3. **Echoes of the Past** – Something from Pórena's earlier life resurfaces on the docks and has to be settled.
+3. **Echoes of the Past**—Something from Pórena's earlier life resurfaces on the docks and has to be settled.
 
-4. **Shifting Winds** – Political change in Élavendre threatens the docks Pórena depends upon, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Élavendre threatens the docks Pórena depends upon, and she can adapt, resist, or leave.
 
-5. **The Opportunity** – A shipping house offers Pórena a post beyond anything she has hoped for, and its price is not named up front.
+5. **The Opportunity**—A shipping house offers Pórena a post beyond anything she has hoped for, and its price is not named up front.

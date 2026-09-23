@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "The Death Jaguar of the Itzáni pantheon – the jaguar that kills swiftly and the owl that watches the slow return to earth."
+description: "The Death Jaguar of the Itzáni pantheon—the jaguar that kills swiftly and the owl that watches the slow return to earth."
 type: lore
 subType: deity
 name:

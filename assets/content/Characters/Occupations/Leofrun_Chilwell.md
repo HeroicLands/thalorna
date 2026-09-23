@@ -591,10 +591,10 @@ The poachers who work the king's wood and use her lines as cover, and the crown'
 
 ## Plot Hooks
 
-1. **The Knot** – A snare has been found on a royal deer-path inside the bound, tied with the knot Leofrun uses, and the foresters have brought it to the forest court. She did not set it, and only one other person knows her knot.
+1. **The Knot**—A snare has been found on a royal deer-path inside the bound, tied with the knot Leofrun uses, and the foresters have brought it to the forest court. She did not set it, and only one other person knows her knot.
 
-2. **The Tenant's Boy** – A tenant's son has been caught in the king's wood with a hare, and the tenant has asked Leofrun to tell the court it came from her line. It did not, and the boy is fourteen.
+2. **The Tenant's Boy**—A tenant's son has been caught in the king's wood with a hare, and the tenant has asked Leofrun to tell the court it came from her line. It did not, and the boy is fourteen.
 
-3. **The Descent** – The court is coming to Kingshollow for midwinter and the household wants fifty pelts by the feast. Leofrun has twelve, and the way to fifty is over the bound.
+3. **The Descent**—The court is coming to Kingshollow for midwinter and the household wants fifty pelts by the feast. Leofrun has twelve, and the way to fifty is over the bound.
 
-4. **The Wolf** – Something is taking sheep from the tenants' folds at night, and it is not a fox. The tenants have asked Leofrun to trap it, and the foresters have said that whatever it is, it is the king's.
+4. **The Wolf**—Something is taking sheep from the tenants' folds at night, and it is not a fox. The tenants have asked Leofrun to trap it, and the foresters have said that whatever it is, it is the king's.

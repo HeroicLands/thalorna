@@ -24,5 +24,5 @@ Ostvar is the largest of [[affiliation-provincvld|Vald]]'s four great fishing to
 
 ## See Also
 
-- [[affiliation-provincvld|Province of Vald]] – Parent province
-- [[affiliation-vylarinmpr|Vylarian Empire]] – Imperial overview
+- [[affiliation-provincvld|Province of Vald]]—Parent province
+- [[affiliation-vylarinmpr|Vylarian Empire]]—Imperial overview

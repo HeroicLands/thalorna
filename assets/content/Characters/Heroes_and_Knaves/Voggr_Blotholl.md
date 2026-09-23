@@ -601,7 +601,7 @@ Vöggr stands 5'11" tall with a heavy build. He has tanned weathered skin, gray 
 
 **The Forest's Education**
 
-Vöggr Blóthöll was born into a family of woodcutters in the Darkwood Reaches of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], a region where the vast forests that covered the landscape were simultaneously the greatest resource and the most dangerous adversary. From the moment he could walk, he learned to move through the forest with respect and care, training from his father and uncles emphasizing that the forest was a living system that would provide year after year if treated with wisdom, not a resource to be exploited without consequence. This philosophy – unusual among northern woodcutters who tended toward aggressive extraction – was passed through the Blóthöll line as carefully as any inherited treasure.
+Vöggr Blóthöll was born into a family of woodcutters in the Darkwood Reaches of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], a region where the vast forests that covered the landscape were simultaneously the greatest resource and the most dangerous adversary. From the moment he could walk, he learned to move through the forest with respect and care, training from his father and uncles emphasizing that the forest was a living system that would provide year after year if treated with wisdom, not a resource to be exploited without consequence. This philosophy—unusual among northern woodcutters who tended toward aggressive extraction—was passed through the Blóthöll line as carefully as any inherited treasure.
 
 **The Scar's Lesson**
 
@@ -609,7 +609,7 @@ At the age of twenty-two, Vöggr made a critical error in judgment: he chose a t
 
 **The Master of the Craft**
 
-For the next thirty years, Vöggr has been regarded as the finest practitioner of his craft in all of Nordheim – not because he cuts the most timber or takes on the largest contracts, but because his reputation is built entirely on the quality, sustainability, and ethics of his work. He has trained several apprentices in his methods, though fewer accept his philosophy each generation. He maintains relationships with local carpenters who depend upon his wood for their finest work, and with the Woodcutters' Guild, where his presence keeps certain standards of craft and care in place. He has also developed unexpected relationships with those who care for the forests' preservation, acting as a bridge between exploitation and conservation.
+For the next thirty years, Vöggr has been regarded as the finest practitioner of his craft in all of Nordheim—not because he cuts the most timber or takes on the largest contracts, but because his reputation is built entirely on the quality, sustainability, and ethics of his work. He has trained several apprentices in his methods, though fewer accept his philosophy each generation. He maintains relationships with local carpenters who depend upon his wood for their finest work, and with the Woodcutters' Guild, where his presence keeps certain standards of craft and care in place. He has also developed unexpected relationships with those who care for the forests' preservation, acting as a bridge between exploitation and conservation.
 
 **The Twilight of Traditional Ways**
 
@@ -627,20 +627,20 @@ Vöggr's primary emotional reality, however, is one of slow-burning melancholy. 
 
 ### Motivation
 
-Vöggr is driven by two interrelated motivations: a determination to practice his craft according to the highest principles of care and sustainability, and a desperate hope that he might somehow preserve this philosophy for future generations despite overwhelming evidence that the world is moving in the opposite direction. His actions are guided by the conviction that the proper relationship between humans and the natural world is one of careful stewardship rather than aggressive exploitation. He seeks opportunities to demonstrate this philosophy's validity and to inspire – or force – others to adopt more thoughtful practices. At his deepest level, he is fighting against inevitable decline, attempting to leave a legacy of understanding and method that might survive him.
+Vöggr is driven by two interrelated motivations: a determination to practice his craft according to the highest principles of care and sustainability, and a desperate hope that he might somehow preserve this philosophy for future generations despite overwhelming evidence that the world is moving in the opposite direction. His actions are guided by the conviction that the proper relationship between humans and the natural world is one of careful stewardship rather than aggressive exploitation. He seeks opportunities to demonstrate this philosophy's validity and to inspire—or force—others to adopt more thoughtful practices. At his deepest level, he is fighting against inevitable decline, attempting to leave a legacy of understanding and method that might survive him.
 
 ### Strengths
 
 - **Incomparable Expertise**: Vöggr's knowledge of trees, wood quality, sustainable harvesting, and timber preparation has no equal in the region. No other living woodcutter can match his ability to assess a tree's readiness for harvest or identify the best use for any given piece of timber.
 - **Physical Endurance**: Despite his age, Vöggr possesses great strength and stamina, capable of work that would exhaust younger men. His body is a tool perfectly calibrated through decades of use.
 - **Unquestionable Integrity**: His reputation for conducting his business with complete honesty and commitment to stated principles is absolute. Carpenters, nobles, and ordinary people alike know that Vöggr's word is reliable and his judgment incorruptible.
-- **Deep Forest Knowledge**: Beyond woodcutting, Vöggr possesses extensive practical knowledge of the life of the forest, medicinal plants, animal behavior, and wilderness survival – years of careful observation accumulated through constant presence in wild spaces.
+- **Deep Forest Knowledge**: Beyond woodcutting, Vöggr possesses extensive practical knowledge of the life of the forest, medicinal plants, animal behavior, and wilderness survival—years of careful observation accumulated through constant presence in wild spaces.
 
 ### Weaknesses
 
 - **Stubborn Inflexibility**: Vöggr's commitment to traditional methods blinds him to potential applications of newer techniques, even when such techniques might achieve sustainability through different means.
 - **Difficulty Adapting to Markets**: He struggles to understand and accept that commercial realities may require compromise. His refusal to cut corners sometimes makes him uncompetitive in a market that increasingly values speed over quality.
-- **Cautionary Pessimism**: His awareness of cultural decline and generational change sometimes manifests as fatalism – a belief that resistance is ultimately futile and that the best he can do is maintain his own standards while the world changes around him.
+- **Cautionary Pessimism**: His awareness of cultural decline and generational change sometimes manifests as fatalism—a belief that resistance is ultimately futile and that the best he can do is maintain his own standards while the world changes around him.
 - **Limited Capacity for Trust**: Vöggr's experiences with those who ignore his warnings and proceed with foolish practices have left him deeply skeptical of others' commitment to careful work, making collaboration difficult.
 
 ## Social
@@ -663,7 +663,7 @@ Vöggr is driven by two interrelated motivations: a determination to practice hi
 
 ## Plot Hooks
 
-1. **The Forest's Dying Plea**: A forester friend of Vöggr's discovers that an entire region of the forest is being systematically poisoned by something – whether deliberate contamination or waste from a distant settlement, it is killing the trees slowly and methodically. Vöggr is devastated but uncertain how to respond, as the poisoning is subtle enough that conventional harvesting practices won't resolve it. The party must help him investigate the source while also deciding whether the response requires violence, negotiation, or something more complex.
+1. **The Forest's Dying Plea**: A forester friend of Vöggr's discovers that an entire region of the forest is being systematically poisoned by something—whether deliberate contamination or waste from a distant settlement, it is killing the trees slowly and methodically. Vöggr is devastated but uncertain how to respond, as the poisoning is subtle enough that conventional harvesting practices won't resolve it. The party must help him investigate the source while also deciding whether the response requires violence, negotiation, or something more complex.
 
 2. **The Apprentice's Betrayal**: A young woodcutter trained by Vöggr under the promise of learning sustainable methods accepts a lucrative commission from the Rapid Timber Consortium to harvest an ancient grove in a way that violates all principles of stewardship. Vöggr feels personally betrayed and struggles with the realization that his teachings have failed to instill true understanding in the younger generation. The party must assist in a desperate effort to prevent the destruction, potentially through sabotage or negotiation.
 
@@ -671,4 +671,4 @@ Vöggr is driven by two interrelated motivations: a determination to practice hi
 
 4. **The Secret Sacred Grove**: An ancient grove of trees, sacred to the old faith of Nordheim and protected by obscure laws, is scheduled for harvest under a loophole that merchants have discovered. Vöggr becomes aware of the plan and determines to prevent it, even if it means breaking laws he has always respected. The party can support him in increasingly desperate measures or attempt to find legitimate means to prevent the harvest.
 
-5. **The Master's Final Commission**: Vöggr receives an offer that is extraordinary: a wealthy noble from a distant realm offers enough coin to secure his retirement, requesting that he personally oversee a single, enormous commission – felling a famed ancient tree that is said to be older than recorded history. The tree is perfect in every way for the work requested, but Vöggr realizes it is irreplaceable and that taking this one commission would violate every principle he has lived by. Yet the money offered would allow him to train a new generation of apprentices and establish a school dedicated to sustainable practices. The party must help him with the impossible choice between personal compromise and potential legacy.
+5. **The Master's Final Commission**: Vöggr receives an offer that is extraordinary: a wealthy noble from a distant realm offers enough coin to secure his retirement, requesting that he personally oversee a single, enormous commission—felling a famed ancient tree that is said to be older than recorded history. The tree is perfect in every way for the work requested, but Vöggr realizes it is irreplaceable and that taking this one commission would violate every principle he has lived by. Yet the money offered would allow him to train a new generation of apprentices and establish a school dedicated to sustainable practices. The party must help him with the impossible choice between personal compromise and potential legacy.

@@ -2,7 +2,7 @@
 tags:
   - nyaluba
   - spirit-power
-description: "Standing with the eagle-spirit of the Ngonzi – what an allied guide of the Nyáluba Way is met and asked with."
+description: "Standing with the eagle-spirit of the Ngonzi—what an allied guide of the Nyáluba Way is met and asked with."
 type: skill
 subType: mystical
 shortcode: eaglengonzisprt
@@ -25,4 +25,4 @@ sohl:
 packFolder: spiritskillsnyaluba
 ---
 
-See [[affiliation-nyalbeagl|Eagle Totem]] – the guide of the Ngonzi, the highlanders who live among the Old Kraals.
+See [[affiliation-nyalbeagl|Eagle Totem]]—the guide of the Ngonzi, the highlanders who live among the Old Kraals.

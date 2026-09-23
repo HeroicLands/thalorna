@@ -2,7 +2,7 @@
 tags:
   - nkaruthar
   - spirit-power
-description: "Standing with Kivuli cha Msitu, zohira of the hunt – what this emissary of the Flame is petitioned and interceded with."
+description: "Standing with Kivuli cha Msitu, zohira of the hunt—what this emissary of the Flame is petitioned and interceded with."
 type: skill
 subType: mystical
 shortcode: kivulisprt
@@ -24,4 +24,4 @@ sohl:
 packFolder: spiritskillsokharic
 ---
 
-See [[lore-kivulispr|Kivuli cha Msitu]] – zohira of the hunt, met through [[affiliation-njiayaroho|the Njia ya Roho]].
+See [[lore-kivulispr|Kivuli cha Msitu]]—zohira of the hunt, met through [[affiliation-njiayaroho|the Njia ya Roho]].

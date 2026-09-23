@@ -24,6 +24,6 @@ A loose alliance of smaller kingdoms to the west, each seeking to exploit Tānv�
 
 ### See Also
 
-- [[lore-bthrhrtzhk|Bāthür Hürtzhük]] – The northern warlord threat
-- [[lore-intrnlsbvrsvthrts|Internal Subversive Threats]] – Threats from within the empire
-- [[affiliation-tanvurempr|Empire of Tānvür]] – The empire under threat
+- [[lore-bthrhrtzhk|Bāthür Hürtzhük]]—The northern warlord threat
+- [[lore-intrnlsbvrsvthrts|Internal Subversive Threats]]—Threats from within the empire
+- [[affiliation-tanvurempr|Empire of Tānvür]]—The empire under threat

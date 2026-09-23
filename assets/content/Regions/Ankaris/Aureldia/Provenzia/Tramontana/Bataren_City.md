@@ -3,7 +3,7 @@ tags:
   - city
   - port
   - coastal
-description: "Provènzia's ocean port on the northwestern gulf – an Élavendren city under Provenzian rule, trading north rather than south, and the site of a slow and unresolved quarrel over land, rights and tradition."
+description: "Provènzia's ocean port on the northwestern gulf—an Élavendren city under Provenzian rule, trading north rather than south, and the site of a slow and unresolved quarrel over land, rights and tradition."
 type: place
 subType: settlement
 data:
@@ -36,13 +36,13 @@ building is heavy and low. A Provenzian from Válaren finds Batáren cold in eve
 
 ## The Élavendren
 
-The city's population is substantially **[[lore-elavendrnppl|Élavendren]]** – descendants of settlers
+The city's population is substantially **[[lore-elavendrnppl|Élavendren]]**—descendants of settlers
 who came down from Élavendre into these borderlands centuries ago, and who have been here longer than
 the present arrangement of crowns. They are Provenzian subjects. They are not, in any way that matters
 locally, Provenzian.
 
 Provenzian rulers and the settled Élavendren population have real and unresolved quarrels over **land,
-rights and tradition** – over inheritance customs the Crown does not recognize, over which observances
+rights and tradition**—over inheritance customs the Crown does not recognize, over which observances
 are permitted, over who holds what and on whose authority. Nothing about it is settled, and very
 little about it is violent. It grinds.
 

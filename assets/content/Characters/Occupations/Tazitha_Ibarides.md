@@ -589,12 +589,12 @@ Rival charcoalers think the trade should be left to men.
 
 ## Plot Hooks
 
-1. **The Charcoaler's Dilemma** – A forge offers to take all of Tázîtha's charcoal at a good price, and the herbalists who depend on her would get none.
+1. **The Charcoaler's Dilemma**—A forge offers to take all of Tázîtha's charcoal at a good price, and the herbalists who depend on her would get none.
 
-2. **Old Grudges** – A rival charcoaler who thinks the trade should be left to men has been selling poor charcoal under her name to the forges.
+2. **Old Grudges**—A rival charcoaler who thinks the trade should be left to men has been selling poor charcoal under her name to the forges.
 
-3. **Echoes of the Past** – The uncle who taught Tázîtha the trade comes back to the forest, old and without work, and expects to take up the burning where he left it.
+3. **Echoes of the Past**—The uncle who taught Tázîtha the trade comes back to the forest, old and without work, and expects to take up the burning where he left it.
 
-4. **Shifting Winds** – Political change in Heliónis threatens the forges Tázîtha's charcoal supplies, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Heliónis threatens the forges Tázîtha's charcoal supplies, and she can adapt, resist, or leave.
 
-5. **The Opportunity** – An herbalist offers Tázîtha a partnership in remedies made with her charcoal, and it would mean leaving the forest for the town.
+5. **The Opportunity**—An herbalist offers Tázîtha a partnership in remedies made with her charcoal, and it would mean leaving the forest for the town.

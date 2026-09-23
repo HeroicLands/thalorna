@@ -43,8 +43,8 @@ data:
         title: Copyist
         lore: apprenticernk
         description: >-
-          Under training in a temple – copying forms, learning the seals and the calendrical
-          schedules – and not yet permitted to file anything on another's behalf.
+          Under training in a temple—copying forms, learning the seals and the calendrical
+          schedules—and not yet permitted to file anything on another's behalf.
       - level: 3
         title: Clerk
         lore: clerkrnk
@@ -123,15 +123,15 @@ data:
 packFolder: celestialpantheon
 ---
 
-## Vënsōk Zhük – The Chief Auditor of Souls
+## Vënsōk Zhük—The Chief Auditor of Souls
 
 - **Bureau:** Sīkvōk, The Ministry of Final Account
 - **Domain:** Death
 - **Parent:** [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]]
 
 Every soul passes through Sīkvōk, which gives the ministry leverage no other bureau has and which it
-is not above using. At death the Chief Auditor reviews the moral ledger line by line – the running
-account of credits and debits that the household's Zātkür has been filing on all along – and what
+is not above using. At death the Chief Auditor reviews the moral ledger line by line—the running
+account of credits and debits that the household's Zātkür has been filing on all along—and what
 the audit finds determines the quality of the afterlife and the power the spirit will have to
 advocate for its descendants.
 
@@ -142,11 +142,11 @@ desk eventually.
 
 ### Lesser Spirits
 
-- **Vāt Sīkzhük** – The Ten Magistrates of the Dead, each presiding over a different category of moral failing.
-- **Hëklëi** – Transit Spirits, who escort souls from death to processing.
+- **Vāt Sīkzhük**—The Ten Magistrates of the Dead, each presiding over a different category of moral failing.
+- **Hëklëi**—Transit Spirits, who escort souls from death to processing.
 
 ### See Also
 
-- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] – the Celestial Bureaucracy this bureau belongs to
-- [[affiliation-tanvurempr|Empire of Tānvür]] – the mortal realm it administers
-- [[skill-tngthkscrpt|Tëng Thōk Script]] – the writing every petition is made in
+- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]]—the Celestial Bureaucracy this bureau belongs to
+- [[affiliation-tanvurempr|Empire of Tānvür]]—the mortal realm it administers
+- [[skill-tngthkscrpt|Tëng Thōk Script]]—the writing every petition is made in

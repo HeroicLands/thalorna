@@ -593,12 +593,12 @@ Few, though some nearby farmers dispute his grazing rights.
 
 ## Plot Hooks
 
-1. **The Herder's Dilemma** – A dispute over grazing comes to the point where Godwin can keep his flock on the hill and lose the farmers who buy his wool and cheese, or give up the hill and keep them.
+1. **The Herder's Dilemma**—A dispute over grazing comes to the point where Godwin can keep his flock on the hill and lose the farmers who buy his wool and cheese, or give up the hill and keep them.
 
-2. **Old Grudges** – A nearby farmer who disputes Godwin's grazing rights has fenced a path his flock has always used.
+2. **Old Grudges**—A nearby farmer who disputes Godwin's grazing rights has fenced a path his flock has always used.
 
-3. **Echoes of the Past** – A boundary stone Godwin's family set generations ago is found moved, and the hill it marked is claimed by another.
+3. **Echoes of the Past**—A boundary stone Godwin's family set generations ago is found moved, and the hill it marked is claimed by another.
 
-4. **Shifting Winds** – Political change in Aelwyth threatens the common grazing Godwin's flock depends on, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Aelwyth threatens the common grazing Godwin's flock depends on, and he can adapt, resist, or leave.
 
-5. **The Opportunity** – A lord offers Godwin the keeping of his own flocks, with a cottage and wages, and what would become of Godwin's animals is not said.
+5. **The Opportunity**—A lord offers Godwin the keeping of his own flocks, with a cottage and wages, and what would become of Godwin's animals is not said.

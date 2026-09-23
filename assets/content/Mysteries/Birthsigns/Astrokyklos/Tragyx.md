@@ -44,10 +44,10 @@ Tragyx, the Stag, gives an eloquent tongue and a searching mind. Born orators, l
 
 | Element | Skills it claims          | EML |
 | ------- | ------------------------- | --- |
-| Earth   | Nature                    | –   |
+| Earth   | Nature                    | —   |
 | Metal   | Craft, Script             | −10 |
 | Fire    | Combat, Combat Techniques | −10 |
-| Air     | Physical                  | –   |
+| Air     | Physical                  | —   |
 | Spirit  | Lore, Mystical            | +10 |
 | Water   | Language, Social          | +10 |
 

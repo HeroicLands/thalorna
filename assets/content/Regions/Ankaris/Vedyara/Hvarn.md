@@ -2,7 +2,7 @@
 tags: []
 type: affiliation
 subType: polity
-description: The guide-people of the Eastern Reach – fewer, poorer and better connected than the Ösket, keeping the two eastern crossings and supplying the one fort on the wall.
+description: The guide-people of the Eastern Reach—fewer, poorer and better connected than the Ösket, keeping the two eastern crossings and supplying the one fort on the wall.
 name:
   full: The Hvarn
   aliases: []
@@ -27,7 +27,7 @@ data:
         title: Taken-in
         lore: dependentrnk
         description: >-
-          Sheltered by a hearth without being of it – a widow's family, a stranger, a child
+          Sheltered by a hearth without being of it—a widow's family, a stranger, a child
           of the roads.
       - level: 2
         title: Hearth-kin

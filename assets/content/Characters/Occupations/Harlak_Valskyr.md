@@ -597,12 +597,12 @@ Rival animal trainer who sabotages his efforts.
 
 ## Plot Hooks
 
-1. **The Animal Trainer's Dilemma** – Hârlak faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
+1. **The Animal Trainer's Dilemma**—Hârlak faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
 
-2. **Old Grudges** – Rival animal trainer who sabotages his efforts. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges**—Rival animal trainer who sabotages his efforts. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** – Something from Hârlak's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Hârlak's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds** – Political changes in Provènzia threaten to upend the social order that Hârlak depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Provènzia threaten to upend the social order that Hârlak depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** – A chance encounter offers Hârlak the possibility of advancement beyond anything he has dared hope for – but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Hârlak the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

@@ -591,12 +591,12 @@ None, though some court musicians see him as a rustic.
 
 ## Plot Hooks
 
-1. **The Musician (Lyre)'s Dilemma** – A court sends for Goremdânis at last, on the condition that he leave his village songs behind and play what the court prefers.
+1. **The Musician (Lyre)'s Dilemma**—A court sends for Goremdânis at last, on the condition that he leave his village songs behind and play what the court prefers.
 
-2. **Old Grudges** – A court musician who calls Goremdânis a rustic has seen to it that his name is struck from a lord's entertainments.
+2. **Old Grudges**—A court musician who calls Goremdânis a rustic has seen to it that his name is struck from a lord's entertainments.
 
-3. **Echoes of the Past** – A song Goremdânis learned from his father is sung back to him in a town far from the village, with words he never taught anyone.
+3. **Echoes of the Past**—A song Goremdânis learned from his father is sung back to him in a town far from the village, with words he never taught anyone.
 
-4. **Shifting Winds** – Political change in Vylaria closes the courts Goremdânis hoped to play in, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Vylaria closes the courts Goremdânis hoped to play in, and he can adapt, resist, or leave.
 
-5. **The Opportunity** – A traveler who heard Goremdânis play offers to bring him before a lord's court, and does not say what he wants for the introduction.
+5. **The Opportunity**—A traveler who heard Goremdânis play offers to bring him before a lord's court, and does not say what he wants for the introduction.

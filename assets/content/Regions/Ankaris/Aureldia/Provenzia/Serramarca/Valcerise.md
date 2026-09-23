@@ -3,7 +3,7 @@ tags:
   - town
   - hill
   - frontier
-description: "The cherry town of the eastern uplands above Lake Tiravel – the last market before the Tarvénian passes, whose year is set by the blossom and the campaign season together."
+description: "The cherry town of the eastern uplands above Lake Tiravel—the last market before the Tarvénian passes, whose year is set by the blossom and the campaign season together."
 type: place
 subType: settlement
 data:
@@ -19,19 +19,19 @@ shortcode: valcerise
 packFolder: provenzia
 ---
 
-**Valcèrise** – the cherry vale – is a hill town of [[place-serramarca|Sèrramarca]], standing above the
+**Valcèrise**—the cherry vale—is a hill town of [[place-serramarca|Sèrramarca]], standing above the
 [[place-tiravellake|Lake Tiravel]] basin on the road that climbs toward the Tarvénian passes.
 
 Its orchards are the reason for the name and the reason anyone outside the march has heard of it. Sour
-cherries grow well in cold upland ground where softer fruit will not, and Valcèrise cherries – dried,
-and preserved in spirit – go down to [[place-harivrencity|Hárivren]] and across the kingdom. It is a
+cherries grow well in cold upland ground where softer fruit will not, and Valcèrise cherries—dried,
+and preserved in spirit—go down to [[place-harivrencity|Hárivren]] and across the kingdom. It is a
 smaller trade than [[place-zuravlenrgn|Zûravlen]]'s and the two districts are not remotely comparable
 in wealth, a fact Valcèrise mentions more often than Zûravlen does.
 
 ## Two Calendars
 
 The town keeps its year by the blossom, like any fruit district, and by the **campaign season**, like
-everywhere else on the frontier – and the two do not align comfortably. The passes open in spring, which
+everywhere else on the frontier—and the two do not align comfortably. The passes open in spring, which
 is when the trees are in flower and the orchards need hands; raiding is heaviest in early summer, which
 is when the fruit is setting.
 

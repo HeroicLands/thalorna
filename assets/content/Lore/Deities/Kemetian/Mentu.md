@@ -20,9 +20,9 @@ heartland where the chariot-corps drills.
 
 His great house is the war-temple at [[place-behen|Behen]], the double-walled fortress-capital
 commanding the river at the first cataract. He stands outside [[affiliation-kemtnpnthn|the Twelve]]
-without standing outside the religion – one of several nome gods with real temples and real
+without standing outside the religion—one of several nome gods with real temples and real
 priesthoods whom the canonical theology simply does not list.
 
-TBD – his myths. The record establishes where Mentu is worshipped and by whom, and says nothing
+TBD—his myths. The record establishes where Mentu is worshipped and by whom, and says nothing
 whatever about who he is: no cosmic role, no relations with the Twelve, no account of what a
 war-god's demand on a soldier's life amounts to at the weighing.

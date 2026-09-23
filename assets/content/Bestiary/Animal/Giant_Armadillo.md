@@ -334,7 +334,7 @@ sohl:
 
 ![[gntarmdl|Giant Armadillo]]{float: top-left}
 
-The earth itself seems to rise before you, a hillside of mud and moss resolving into the armored mass of a creature easily twelve feet from snout to tail. It moves with the inexorable slowness of something that has never needed to hurry, each massive claw sinking deep into the soft earth beneath it. The shell that covers its back gleams dully in the light – layer upon layer of segmented armor the color of river stone and old bone. As it turns its head toward you, you see the little eyes, sharp and shrewd, studying you with the calculating gaze of something unimpressed by your size or presence. The smell hits next: rich loam and a musky, acidic reek of specialized digestion.
+The earth itself seems to rise before you, a hillside of mud and moss resolving into the armored mass of a creature easily twelve feet from snout to tail. It moves with the inexorable slowness of something that has never needed to hurry, each massive claw sinking deep into the soft earth beneath it. The shell that covers its back gleams dully in the light—layer upon layer of segmented armor the color of river stone and old bone. As it turns its head toward you, you see the little eyes, sharp and shrewd, studying you with the calculating gaze of something unimpressed by your size or presence. The smell hits next: rich loam and a musky, acidic reek of specialized digestion.
 
 # Dossier {#dossier}
 
@@ -342,7 +342,7 @@ The Giant Armadillo is a massive, solitary mammal that can exceed twelve feet in
 
 ## Presentation
 
-The Giant Armadillo is a squat, heavily-built creature with a body that seems all muscle and armor. The dorsal surface is covered in overlapping segments of bone and keratin that form a natural shell – dull gray or brown in color, often caked with mud and insect secretions. The ventral surface (belly) is naked skin with sparse hair, vulnerable compared to the back. The head is small relative to the body and ends in a long, tapered snout with a small mouth adapted for eating insects and grubs. The eyes are small and set high, providing limited vision but adequate smell and hearing. The legs are short, thick, and powerful, ending in massive claws up to a foot long – tools designed for excavation and defense. The tail is long and tapered, sometimes used as a burrowing tool. The overall impression is one of ancient, overwhelming bulk.
+The Giant Armadillo is a squat, heavily-built creature with a body that seems all muscle and armor. The dorsal surface is covered in overlapping segments of bone and keratin that form a natural shell—dull gray or brown in color, often caked with mud and insect secretions. The ventral surface (belly) is naked skin with sparse hair, vulnerable compared to the back. The head is small relative to the body and ends in a long, tapered snout with a small mouth adapted for eating insects and grubs. The eyes are small and set high, providing limited vision but adequate smell and hearing. The legs are short, thick, and powerful, ending in massive claws up to a foot long—tools designed for excavation and defense. The tail is long and tapered, sometimes used as a burrowing tool. The overall impression is one of ancient, overwhelming bulk.
 
 ## Key Behaviors
 
@@ -350,13 +350,13 @@ Giant Armadillos are solitary creatures that spend much of their life below grou
 
 ## Combat Strategy
 
-A Giant Armadillo is not a creature that fights for dominance – it is a creature that simply endures. When threatened, its primary strategy is to curl into a nearly impenetrable ball, with the armored dorsum facing all directions and the vulnerable underside protected. From this position, it can remain indefinitely, waiting for threats to pass. If driven from its burrow or forced to move, it will lumber toward safety with singular focus, ignoring most attacks and using its powerful frame to crush or bulldoze through obstacles. Only if it cannot reach its burrow will it uncurl and fight with claws and head-butts, and this is rare – a giant armadillo's temperament is defensive, not aggressive.
+A Giant Armadillo is not a creature that fights for dominance—it is a creature that simply endures. When threatened, its primary strategy is to curl into a nearly impenetrable ball, with the armored dorsum facing all directions and the vulnerable underside protected. From this position, it can remain indefinitely, waiting for threats to pass. If driven from its burrow or forced to move, it will lumber toward safety with singular focus, ignoring most attacks and using its powerful frame to crush or bulldoze through obstacles. Only if it cannot reach its burrow will it uncurl and fight with claws and head-butts, and this is rare—a giant armadillo's temperament is defensive, not aggressive.
 
 ## Attack Methods
 
 ### Talon Slash
 
-The massive claws are the armadillo's only serious weapons – drawn in powerful raking attacks that can disembowel or cripple a target. These attacks are slow and telegraphed but carry tremendous force behind them.
+The massive claws are the armadillo's only serious weapons—drawn in powerful raking attacks that can disembowel or cripple a target. These attacks are slow and telegraphed but carry tremendous force behind them.
 
 ### Armored Ram
 
@@ -370,7 +370,7 @@ The overlapping plates of bone and keratin provide heavy protection against slas
 
 ### Defensive Curl
 
-When the armadillo coils into a ball, it becomes nearly impervious – attacks from the sides, back, or above are deflected harmlessly, and only attacks from the underside (which is inaccessible when curled) can cause real damage. An armadillo in this position cannot attack but is patient and will remain curled until threats depart.
+When the armadillo coils into a ball, it becomes nearly impervious—attacks from the sides, back, or above are deflected harmlessly, and only attacks from the underside (which is inaccessible when curled) can cause real damage. An armadillo in this position cannot attack but is patient and will remain curled until threats depart.
 
 ### Master Burrower
 

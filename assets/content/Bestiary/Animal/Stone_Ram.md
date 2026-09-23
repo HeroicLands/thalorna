@@ -369,7 +369,7 @@ The Stone Ram is a powerful, heavily built mountain herbivore standing 4-5 feet 
 
 ## Presentation
 
-The Stone Ram presents a compact, muscular form built for power and climbing capability. The body is stocky and heavily muscled, covered in thick, shaggy fur ranging from gray to gray-white with darker markings. The most distinctive feature is the spiraling horns that extend upward from the skull – enormous, dark, and deeply grooved from years of combat with rival rams and weathering against stone. The horns can exceed 3 feet in length and weigh 20+ pounds each. The head is broad and blocky, with a strong jaw adapted for grinding vegetation and a pair of forward-facing eyes. The legs are proportionally short but extraordinarily muscular and powerful. The hooves are small and highly specialized for gripping stone and rock, capable of finding purchase on surfaces that appear smooth to a human eye.
+The Stone Ram presents a compact, muscular form built for power and climbing capability. The body is stocky and heavily muscled, covered in thick, shaggy fur ranging from gray to gray-white with darker markings. The most distinctive feature is the spiraling horns that extend upward from the skull—enormous, dark, and deeply grooved from years of combat with rival rams and weathering against stone. The horns can exceed 3 feet in length and weigh 20+ pounds each. The head is broad and blocky, with a strong jaw adapted for grinding vegetation and a pair of forward-facing eyes. The legs are proportionally short but extraordinarily muscular and powerful. The hooves are small and highly specialized for gripping stone and rock, capable of finding purchase on surfaces that appear smooth to a human eye.
 
 ## Key Behaviors
 
@@ -377,7 +377,7 @@ Stone Rams live in herds ranging from 5 to 30 individuals, establishing exclusiv
 
 ## Combat Strategy
 
-A stone ram's primary response to threat is to use terrain advantage – the creature charges in directions that make pursuit difficult for less-capable climbers. If cornered, the ram becomes aggressive, using its horns and body weight to drive threats away. During rutting season, rams become much more aggressive and may charge at perceived rivals or threats without attempting escape. A charging ram uses its mass and momentum to knock opponents off balance or directly off cliff edges when possible.
+A stone ram's primary response to threat is to use terrain advantage—the creature charges in directions that make pursuit difficult for less-capable climbers. If cornered, the ram becomes aggressive, using its horns and body weight to drive threats away. During rutting season, rams become much more aggressive and may charge at perceived rivals or threats without attempting escape. A charging ram uses its mass and momentum to knock opponents off balance or directly off cliff edges when possible.
 
 ## Attack Methods
 

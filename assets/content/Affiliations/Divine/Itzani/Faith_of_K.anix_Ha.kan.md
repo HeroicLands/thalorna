@@ -1,5 +1,5 @@
 ---
-description: "Prosperity and the harvest – the maize god from whose sacred dough humankind was made, beloved rather than feared, whose festivals feed even the slaves."
+description: "Prosperity and the harvest—the maize god from whose sacred dough humankind was made, beloved rather than feared, whose festivals feed even the slaves."
 tags:
   - itzani
   - religion
@@ -30,9 +30,9 @@ data:
         title: Blood-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites
-          – a soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one
-          sentence that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a
+          soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one sentence
+          that outlives the body.
       - level: 1
         title: Water-Marked
         lore: catechumenrnk
@@ -49,34 +49,34 @@ data:
         title: Debt-Bearer
         lore: layfaithfulrnk
         description: >-
-          Bound by a debt pledged beyond what the calendar requires – a captive dedicated in
+          Bound by a debt pledged beyond what the calendar requires—a captive dedicated in
           advance, a pilgrimage undertaken, a season of autosacrifice vowed.
       - level: 4
         title: Tq'an'ik
         lore: initiaternk
         description: >-
-          "Edge-Walker" – an initiate serving in the temples while learning the calendar, the
+          "Edge-Walker"—an initiate serving in the temples while learning the calendar, the
           sacred texts and the autosacrificial disciplines the priesthood demands of every
           member.
       - level: 5
         title: Ch'ul'bal
         lore: priestrnk
         description: >-
-          "Sacred Servant" – an ordained priest, trained from childhood in mathematics,
+          "Sacred Servant"—an ordained priest, trained from childhood in mathematics,
           astronomy, writing and the reading of celestial signs, who keeps the daily rites and
           the codices.
       - level: 6
         title: K'ul
         lore: highpriestrnk
         description: >-
-          "Keeper" – head of one specialist branch within a temple complex, answerable to its
+          "Keeper"—head of one specialist branch within a temple complex, answerable to its
           K'ul Tq'an and contending with the other branches for resources, precedence and
           favor.
       - level: 7
         title: K'ul Tq'an
         lore: highpriestrnk
         description: >-
-          "Sacred Boundary" – high priest of a temple complex, who alone performs the great
+          "Sacred Boundary"—high priest of a temple complex, who alone performs the great
           sacrificial rites at the turning of the cosmic cycles and holds the calculations that
           predict when an age will end.
       - level: 8
@@ -88,13 +88,13 @@ data:
           the gods approve a K'inmah's succession.
     offices:
       K'ul Ha'kan: >-
-        Keeper of the Giver – head of the agricultural branch, and the priest who answers for
+        Keeper of the Giver—head of the agricultural branch, and the priest who answers for
         the city's stores when a season fails.
       Ixim'al: >-
-        Maize priest – holds the seed-lines, the planting depths and the varieties suited to
+        Maize priest—holds the seed-lines, the planting depths and the varieties suited to
         each soil, and blesses what is sown.
       Tz'ultzik: >-
-        Cacao priest – keeps the groves, the fermentation and the trade in beans, which is
+        Cacao priest—keeps the groves, the fermentation and the trade in beans, which is
         both an offering and a currency.
       Master of the Chuqtik: >-
         Conducts the planting ceremony at which farmers bring maize, cacao and beans to the
@@ -127,21 +127,21 @@ data:
 
 **Domain:** Prosperity, Agriculture, Abundance, Sustenance
 
-In the beginning, before even the Four Agelings were shaped, there was maize – the primordial plant that grew from the heart of chaos. When the gods created the current race of humans, they did not mold them from clay alone but from the finely ground dough of sacred maize mixed with water and divine blood. All human flesh is maize-flesh, and K'anix Ha'kan is the god who mediates between that sacred origin and the present age. He is beloved rather than feared, for he is the deity of abundance, and his gifts flow freely to the righteous. Where the solar god speaks in commandments carved upon stone, K'anix Ha'kan speaks in the language of the ripening ear, the swelling kernel, the harvest made manifest.
+In the beginning, before even the Four Agelings were shaped, there was maize—the primordial plant that grew from the heart of chaos. When the gods created the current race of humans, they did not mold them from clay alone but from the finely ground dough of sacred maize mixed with water and divine blood. All human flesh is maize-flesh, and K'anix Ha'kan is the god who mediates between that sacred origin and the present age. He is beloved rather than feared, for he is the deity of abundance, and his gifts flow freely to the righteous. Where the solar god speaks in commandments carved upon stone, K'anix Ha'kan speaks in the language of the ripening ear, the swelling kernel, the harvest made manifest.
 
 ## Worship
 
 The planting season is marked by the **Chuqtik** ceremony, in which farmers gather at temples carrying seeds of maize, cacao, and beans for priestly blessing. The seed is not merely blessed but inspected: the Ixim'al turns it in his hands, rejects what is poor, and issues sound seed from the temple's own stores in its place. The rite is therefore also the branch's chief instrument of agricultural policy, and a farmer who arrives with bad seed leaves with good seed and a debt.
 
-The harvest festivals are the most lavish celebrations in the Ki'ichek calendar – temples distribute food freely, markets overflow, and even slaves eat from the communal stores. The K'inmah themselves process to the temples not as sovereigns but as supplicants, carrying sheaves of maize. It is the one day of the Ki'ichek year on which the ordinary hierarchy is publicly inverted, and the priesthood is careful to stage the inversion in full view: the king walks, the Speaker of the Sheaves receives him standing, and the food is given out before any of it is offered.
+The harvest festivals are the most lavish celebrations in the Ki'ichek calendar—temples distribute food freely, markets overflow, and even slaves eat from the communal stores. The K'inmah themselves process to the temples not as sovereigns but as supplicants, carrying sheaves of maize. It is the one day of the Ki'ichek year on which the ordinary hierarchy is publicly inverted, and the priesthood is careful to stage the inversion in full view: the king walks, the Speaker of the Sheaves receives him standing, and the food is given out before any of it is offered.
 
-Everyday devotion to K'anix Ha'kan is domestic and constant. The first tortilla of a meal is broken and a fragment set aside; a kernel dropped on the floor is picked up and touched to the forehead rather than swept away, since to tread on maize is to tread on the substance of one's own body. Bloodletting in his honor is light – a few drops on the seed at planting, on the first ear at harvest – and the god is understood to prefer the labor to the blood.
+Everyday devotion to K'anix Ha'kan is domestic and constant. The first tortilla of a meal is broken and a fragment set aside; a kernel dropped on the floor is picked up and touched to the forehead rather than swept away, since to tread on maize is to tread on the substance of one's own body. Bloodletting in his honor is light—a few drops on the seed at planting, on the first ear at harvest—and the god is understood to prefer the labor to the blood.
 
 His mourning rites are unlike any other branch's. A field that has failed is not simply abandoned; the Ixim'al comes, the crop is cut and burned, and the ground is spoken over. The theology holds that maize which does not ripen has still given its substance, and that the debt runs from the farmer to the plant as much as from the plant to the farmer.
 
 ## Organization
 
-K'anix Ha'kan's specialist priests – the Tz'ultzik for cacao and the Ixim'al for maize – maintain detailed agricultural knowledge, temple gardens serving as experimental grounds where new cultivation methods are tested. The gardens are the branch's pride and its practical foundation: seed-lines are kept separate and labeled across generations, soil types are matched to varieties, and failures are recorded in bark-paper registers alongside successes. The **Keeper of the Temple Gardens** is usually a priest of long service and no political ambition, and the office is considered a fine one to hold and a poor one from which to rise.
+K'anix Ha'kan's specialist priests—the Tz'ultzik for cacao and the Ixim'al for maize—maintain detailed agricultural knowledge, temple gardens serving as experimental grounds where new cultivation methods are tested. The gardens are the branch's pride and its practical foundation: seed-lines are kept separate and labeled across generations, soil types are matched to varieties, and failures are recorded in bark-paper registers alongside successes. The **Keeper of the Temple Gardens** is usually a priest of long service and no political ambition, and the office is considered a fine one to hold and a poor one from which to rise.
 
 The branch's real power is the **Warden of the Common Stores**. The granaries that make the harvest festival possible are the same granaries that keep a city alive through a failed season, and their warden decides the ration. In a good year the office is invisible. In a bad one it is the most dangerous post in the priesthood, and more than one Warden has been surrendered to a hungry city by his own K'ul Ha'kan.
 
@@ -151,7 +151,7 @@ Together with [[affiliation-xaqikhanal|Xaq'ik Ha'nal]], K'anix Ha'kan is invoked
 
 ## Relations
 
-The Twin Givers are worshipped jointly at the great fertility observances, and the two branches share their festival calendar, their charitable distributions and, in smaller cities, their premises. The pairing is theological rather than administrative – one god gives the field, the other gives the womb – and it is the warmest standing relationship in the Itzáni priesthood.
+The Twin Givers are worshipped jointly at the great fertility observances, and the two branches share their festival calendar, their charitable distributions and, in smaller cities, their premises. The pairing is theological rather than administrative—one god gives the field, the other gives the womb—and it is the warmest standing relationship in the Itzáni priesthood.
 
 With the water-priests of [[affiliation-puqilchaqun|P'uqil Ch'aqun]] the branch is bound in a partnership it cannot escape: the seed is nothing without the rain. In ordinary years the two bless the Chuqtik together. In a drought the alliance strains, since one branch must announce the failure of the stores while the other is still insisting the god has not yet refused, and each would rather the other spoke first.
 

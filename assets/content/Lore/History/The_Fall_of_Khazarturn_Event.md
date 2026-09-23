@@ -2,7 +2,7 @@
 tags:
   - history
   - spine
-description: "In 2427 BF a Sinalë outlaw takes up the Second Voice, drives tens of thousands of Grukar against Khazártúrn and kills every soul in it – and the two Elder Races have not spoken since."
+description: "In 2427 BF a Sinalë outlaw takes up the Second Voice, drives tens of thousands of Grukar against Khazártúrn and kills every soul in it—and the two Elder Races have not spoken since."
 type: lore
 subType: history
 name:
@@ -113,8 +113,8 @@ nuisance. The [[miscgear-secondvoice|Second Voice]] removes it, reaching the hat
 displacing the spawner's claim, so that Grukar of any number of tribes answer one will.
 
 Afterward the Khazári went back in. There were not remotely enough tombs, so they laid the dead in
-their own chambers – the smiths in their shops, the archivists among the records, the households in
-their halls – one by one, by name. Then they cleaned the city to the condition they had kept it in,
+their own chambers—the smiths in their shops, the archivists among the records, the households in
+their halls—one by one, by name. Then they cleaned the city to the condition they had kept it in,
 blocked the skylights with granite dressed to the surrounding rock, shut the fountains off at their
 source, put the birds out, and sealed it. Khazártúrn is not a ruin. It is intact, in good order, and
 full of its people.

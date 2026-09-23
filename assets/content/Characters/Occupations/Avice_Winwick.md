@@ -590,12 +590,12 @@ Few; she is generally well respected.
 
 ## Plot Hooks
 
-1. **The Mercantyler (Supercargo)'s Dilemma** – A cargo Avice is responsible for turns out to be other than its manifest says, and her company and her name cannot both be kept.
+1. **The Mercantyler (Supercargo)'s Dilemma**—A cargo Avice is responsible for turns out to be other than its manifest says, and her company and her name cannot both be kept.
 
-2. **Old Grudges** – A merchant whose cargo Avice refused to carry has not forgotten it.
+2. **Old Grudges**—A merchant whose cargo Avice refused to carry has not forgotten it.
 
-3. **Echoes of the Past** – A voyage from Avice's early years at sea comes back to her as a claim against the cargo she carried.
+3. **Echoes of the Past**—A voyage from Avice's early years at sea comes back to her as a claim against the cargo she carried.
 
-4. **Shifting Winds** – Political change in Aelwyth threatens the trade Avice depends upon, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Aelwyth threatens the trade Avice depends upon, and she can adapt, resist, or leave.
 
-5. **The Opportunity** – Avice is offered a share in a trading company, and its price is not named up front.
+5. **The Opportunity**—Avice is offered a share in a trading company, and its price is not named up front.

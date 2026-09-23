@@ -338,7 +338,7 @@ sohl:
 
 ![[giantowl|Giant Owl]]{float: top-left}
 
-There is no warning. Only the sudden conviction that something is wrong – a shift in air pressure, a shadow that moves where no shadow should – and then the impact. The creature is already above you before you fully register its presence, wings folding with terrible grace. The wingspan is enormous, each feather the length of a sword blade, and the plumage is mottled brown-and-gray, seemingly woven from the darkness itself. The eyes are terrible: great golden orbs ringed with facial discs that give an expression of dreadful intelligence. The talons are the size of scythes. The worst part is the silence – a creature this enormous should make sound, should announce itself through wind and motion, but instead it glides through the night with absolute quiet, a predator so perfectly adapted that the darkness itself seems to carry it.
+There is no warning. Only the sudden conviction that something is wrong—a shift in air pressure, a shadow that moves where no shadow should—and then the impact. The creature is already above you before you fully register its presence, wings folding with terrible grace. The wingspan is enormous, each feather the length of a sword blade, and the plumage is mottled brown-and-gray, seemingly woven from the darkness itself. The eyes are terrible: great golden orbs ringed with facial discs that give an expression of dreadful intelligence. The talons are the size of scythes. The worst part is the silence—a creature this enormous should make sound, should announce itself through wind and motion, but instead it glides through the night with absolute quiet, a predator so perfectly adapted that the darkness itself seems to carry it.
 
 # Dossier {#dossier}
 
@@ -346,7 +346,7 @@ The Giant Owl is a nocturnal apex predator of phenomenal power and terrifying si
 
 ## Presentation
 
-The Giant Owl is a creature built entirely for silent, deadly hunting. The body is large and heavily muscled, with the characteristic upright posture of owls. The wings are enormous and perfectly suited for silent flight, with a feather structure that allows movement without sound. The plumage is mottled brown and gray with subtle patterns that provide perfect camouflage in shadow. The head is large and rotates with unsettling mobility. The eyes are the defining feature – enormous golden orbs set in facial discs of feathers that can rotate with the head, providing both binocular vision and nearly complete rotational awareness. The hooked beak is powerful and capable of piercing armor. The talons are among the deadliest weapons in nature – long, curved, wickedly sharp, and capable of piercing through thick leather, light armor, and bone.
+The Giant Owl is a creature built entirely for silent, deadly hunting. The body is large and heavily muscled, with the characteristic upright posture of owls. The wings are enormous and perfectly suited for silent flight, with a feather structure that allows movement without sound. The plumage is mottled brown and gray with subtle patterns that provide perfect camouflage in shadow. The head is large and rotates with unsettling mobility. The eyes are the defining feature—enormous golden orbs set in facial discs of feathers that can rotate with the head, providing both binocular vision and nearly complete rotational awareness. The hooked beak is powerful and capable of piercing armor. The talons are among the deadliest weapons in nature—long, curved, wickedly sharp, and capable of piercing through thick leather, light armor, and bone.
 
 ## Key Behaviors
 
@@ -354,13 +354,13 @@ Giant Owls are solitary predators that establish and defend vast hunting territo
 
 ## Combat Strategy
 
-A Giant Owl's preferred tactic is the silent approach and devastating strike – a target is completely unaware of the owl's presence until talons rake across them. An owl in combat with an aware opponent will circle and make repeated diving attacks, using altitude to its advantage. If wounded or if a strike fails to incapacitate, the owl climbs high and circles for another pass. An owl defending a nest or young becomes nearly suicidal in its commitment – it will pursue attackers for miles, making repeated assaults regardless of risk. An owl that has fed recently is less aggressive and more likely to retreat.
+A Giant Owl's preferred tactic is the silent approach and devastating strike—a target is completely unaware of the owl's presence until talons rake across them. An owl in combat with an aware opponent will circle and make repeated diving attacks, using altitude to its advantage. If wounded or if a strike fails to incapacitate, the owl climbs high and circles for another pass. An owl defending a nest or young becomes nearly suicidal in its commitment—it will pursue attackers for miles, making repeated assaults regardless of risk. An owl that has fed recently is less aggressive and more likely to retreat.
 
 ## Attack Methods
 
 ### Talon Rend
 
-The owl's primary attack – powerful talons delivered from above or in close combat, raking with force sufficient to cripple or kill. The initial diving strike is particularly devastating due to velocity and momentum.
+The owl's primary attack—powerful talons delivered from above or in close combat, raking with force sufficient to cripple or kill. The initial diving strike is particularly devastating due to velocity and momentum.
 
 ### Piercing Beak
 
@@ -370,7 +370,7 @@ Once prey is grasped, the owl uses its hooked beak to deliver precise, lethal st
 
 ### Silent Wings
 
-The Giant Owl moves through air with absolute silence – its wings and feathers are specialized to eliminate the sound of flight. An owl can close to melee range without any auditory warning whatsoever.
+The Giant Owl moves through air with absolute silence—its wings and feathers are specialized to eliminate the sound of flight. An owl can close to melee range without any auditory warning whatsoever.
 
 ### Supreme Night Vision
 
@@ -382,7 +382,7 @@ The owl can rotate its head through angles seemingly impossible for other creatu
 
 ## Additional Information
 
-A Giant Owl territory is marked by the remains of its kills – scattered bones and feathers, grim reminders of the owl's dominion. An owl that has learned that humanoid prey is available will begin to deliberately hunt settlements, making travel after dark supremely dangerous. A dead owl's feathers are incredibly valuable for fletching and decoration. Some magical practitioners claim to have negotiated with owls, though the wisdom of trusting such an arrangement is questionable.
+A Giant Owl territory is marked by the remains of its kills—scattered bones and feathers, grim reminders of the owl's dominion. An owl that has learned that humanoid prey is available will begin to deliberately hunt settlements, making travel after dark supremely dangerous. A dead owl's feathers are incredibly valuable for fletching and decoration. Some magical practitioners claim to have negotiated with owls, though the wisdom of trusting such an arrangement is questionable.
 
 ## Attributes
 

@@ -23,43 +23,50 @@ data:
         title: Nídingr
         lore: excmmnctrnk
         description: >-
-          Declared nithing – cut off from the faith and from the standing that being of it
+          Declared nithing—cut off from the faith and from the standing that being of it
           conferred. No hall will seat them and no godi will speak for them.
       - level: 1
         title: Eldr Thraell
         lore: initiaternk
         description: >-
-          "Fire Thrall" – Flame Acolyte. The god's thrall: taken into the temple young, given the observances and the labor, and years away from the priesthood.
+          "Fire Thrall"—Flame Acolyte. The god's thrall: taken into the temple young, given the
+          observances and the labor, and years away from the priesthood.
       - level: 3
         title: Eldr Godi/Gode
         lore: priestrnk
         description: >-
-          "Fire Priest/Priestess" – Flame Priest/Priestess. The working priest or priestess – Godi for a man, Gydja for a woman – who keeps the rites of a hall and the people who gather at it.
+          "Fire Priest/Priestess"—Flame Priest/Priestess. The working priest or priestess—Godi for a
+          man, Gydja for a woman—who keeps the rites of a hall and the people who gather at it.
       - level: 4
         title: Elding Hersir
         lore: commanderrnk
         description: >-
-          "Lightning Warlord" – Inferno Herald. A warlord of the faith, carrying its authority where it must be carried by force or by presence.
+          "Lightning Warlord"—Inferno Herald. A warlord of the faith, carrying its authority where
+          it must be carried by force or by presence.
       - level: 5
         title: Bál Jarl
         lore: greatlordrnk
         description: >-
-          "Pyre Jarl" – Warden of Flames. A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
+          "Pyre Jarl"—Warden of Flames. A senior rank carrying temporal weight as well as spiritual;
+          in many kingdoms a Jarl of a faith sits among the jarls of the land.
       - level: 6
         title: Eldjötunn Konungr/Konungrkvinde
         lore: sovereignrnk
         description: >-
-          "Fire Giant King/Queen" – Flamebringer. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
+          "Fire Giant King/Queen"—Flamebringer. King or queen within the faith's own hierarchy, and
+          in some kingdoms a power the crown must reckon with.
       - level: 7
         title: Aska Allsherjargodi
         lore: highpriestrnk
         description: >-
-          "Ash High Priest" – Ashen Lord. High priest – a pontifical office, speaking for the faith where it must speak with one voice.
+          "Ash High Priest"—Ashen Lord. High priest—a pontifical office, speaking for the faith
+          where it must speak with one voice.
       - level: 8
         title: Eldr Fadir/Módir
         lore: grandmasterrnk
         description: >-
-          "Father/Mother of Fire" – Pontiff of the Eternal Flame. Father or Mother of the god: the highest pontifical office, held by one person at a time.
+          "Father/Mother of Fire"—Pontiff of the Eternal Flame. Father or Mother of the god: the
+          highest pontifical office, held by one person at a time.
     offices:
       Order of the Inferno: >-
         Priests dedicated to mastering the power of fire, often serving as blacksmiths and forge masters.
@@ -70,7 +77,7 @@ data:
       Allsherjargodi: >-
         High priest of the faith, and its voice where it must speak with one.
       Fadir/Módir: >-
-        Father or Mother of the god – the highest office, held by one person.
+        Father or Mother of the god—the highest office, held by one person.
       Godi/Gydja: >-
         The working priest or priestess of a hall, who keeps its rites and its people.
   commonSkills: []
@@ -96,11 +103,11 @@ Súrtr, the fire giant and god of savage battle, embodies the raw, destructive f
 
 ## Aspects
 
-Súrtr is depicted as a massive, menacing figure, his skin blackened by the eternal flames that engulf him. He wields a colossal sword, often described as being made of fire, capable of incinerating anything in its path – the weapon that will set the world ablaze during Ragnarok.
+Súrtr is depicted as a massive, menacing figure, his skin blackened by the eternal flames that engulf him. He wields a colossal sword, often described as being made of fire, capable of incinerating anything in its path—the weapon that will set the world ablaze during Ragnarok.
 
 In the cosmic struggle, Súrtr is the embodiment of chaos and destruction, standing in direct opposition to Týr, who represents order and justice. This conflict between Súrtr and Týr is not just a battle of physical might, but a deeper, existential struggle over the fate of the cosmos itself.
 
-Followers of Súrtr are warriors who embrace the chaos and brutality of battle. They see war as a purifying force, one that burns away the weak and the unworthy, leaving only the strong to claim victory. Worship of Súrtr is intense and often involves acts of ritualistic violence or symbolic destruction. His altars are typically simple, often made of stone or metal, and are located in places associated with fire – volcanoes, forges, or the aftermath of a great fire.
+Followers of Súrtr are warriors who embrace the chaos and brutality of battle. They see war as a purifying force, one that burns away the weak and the unworthy, leaving only the strong to claim victory. Worship of Súrtr is intense and often involves acts of ritualistic violence or symbolic destruction. His altars are typically simple, often made of stone or metal, and are located in places associated with fire—volcanoes, forges, or the aftermath of a great fire.
 
 ## Sacred Objects
 
@@ -117,13 +124,13 @@ Followers of Súrtr are warriors who embrace the chaos and brutality of battle. 
 
 ## Clergy
 
-- **Eldr Thraell** (Circle I: "Fire Thrall") – Flame Acolyte
-- **Eldr Godi/Gode** (Circle III: "Fire Priest/Priestess") – Flame Priest/Priestess
-- **Elding Hersir** (Circle IV: "Lightning Warlord") – Inferno Herald
-- **Bál Jarl** (Circle V: "Pyre Jarl") – Warden of Flames
-- **Eldjötunn Konungr/Konungrkvinde** (Circle VI: "Fire Giant King/Queen") – Flamebringer
-- **Aska Allsherjargodi** (Circle VII: "Ash High Priest") – Ashen Lord
-- **Eldr Fadir/Módir** (Circle VIII: "Father/Mother of Fire") – Pontiff of the Eternal Flame
+- **Eldr Thraell** (Circle I: "Fire Thrall")—Flame Acolyte
+- **Eldr Godi/Gode** (Circle III: "Fire Priest/Priestess")—Flame Priest/Priestess
+- **Elding Hersir** (Circle IV: "Lightning Warlord")—Inferno Herald
+- **Bál Jarl** (Circle V: "Pyre Jarl")—Warden of Flames
+- **Eldjötunn Konungr/Konungrkvinde** (Circle VI: "Fire Giant King/Queen")—Flamebringer
+- **Aska Allsherjargodi** (Circle VII: "Ash High Priest")—Ashen Lord
+- **Eldr Fadir/Módir** (Circle VIII: "Father/Mother of Fire")—Pontiff of the Eternal Flame
 
 **Key Skills:** Fire manipulation and pyromancy, Battle tactics and warfare, Destruction and rebirth rituals, Forge and metalworking
 

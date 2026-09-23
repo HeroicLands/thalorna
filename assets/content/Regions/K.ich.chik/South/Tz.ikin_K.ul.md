@@ -20,11 +20,11 @@ packFolder: south
 
 ## Overview
 
-Tz’ikin K’ul, "The House of the Dead Bird," is the final outpost of civilized [[place-kchchkcntnnt|K’ich’chik]] before the forsaken wastes of [[place-tzikinbalmrgn|Tz’ikin Ba’alam]]. The settlement is a temple-fortress of forbidding aspect, built to endure and to serve as both blessing-place and final supply depot for those venturing into the abyss. Few permanently live here save the priesthood and their essential servants; most inhabitants are transient – warriors, priests, and desperate individuals gathering supplies and spiritual fortification before departing southward.
+Tz’ikin K’ul, "The House of the Dead Bird," is the final outpost of civilized [[place-kchchkcntnnt|K’ich’chik]] before the forsaken wastes of [[place-tzikinbalmrgn|Tz’ikin Ba’alam]]. The settlement is a temple-fortress of forbidding aspect, built to endure and to serve as both blessing-place and final supply depot for those venturing into the abyss. Few permanently live here save the priesthood and their essential servants; most inhabitants are transient—warriors, priests, and desperate individuals gathering supplies and spiritual fortification before departing southward.
 
 ## Location and Geography
 
-Tz’ikin K’ul stands at the boundary between [[affiliation-kawiltzakl|K’awiil Tza’kul]] and the true wastes, built on a high plateau with clear sight-lines in all directions toward the south. The architecture is entirely defensive and ritualistic – high walls, watchtowers, and a central pyramid-temple of imposing grandeur. The landscape around the city is already hostile; toxic mineral flats and geothermal vents mark the transition zone, and the priesthood uses these natural features as outer defenses.
+Tz’ikin K’ul stands at the boundary between [[affiliation-kawiltzakl|K’awiil Tza’kul]] and the true wastes, built on a high plateau with clear sight-lines in all directions toward the south. The architecture is entirely defensive and ritualistic—high walls, watchtowers, and a central pyramid-temple of imposing grandeur. The landscape around the city is already hostile; toxic mineral flats and geothermal vents mark the transition zone, and the priesthood uses these natural features as outer defenses.
 
 ## Religious and Functional Role
 
@@ -36,7 +36,7 @@ The priesthood of Tz’ikin K’ul is known to be among the most severe and unco
 
 ## See Also
 
-- [[affiliation-kawiltzakl|K’awiil Tza’kul]] – The boundary lands to the north
-- [[place-tzikinbalmrgn|Tz’ikin Ba’alam]] – The forsaken wastes beyond
-- [[place-kawilulkik|K’awi’il’ul Ki’ik]] – The garrison city in the plateau
-- [[affiliation-itzanpnthn|Itzáni]] – The priesthood that maintains this temple-fortress
+- [[affiliation-kawiltzakl|K’awiil Tza’kul]]—The boundary lands to the north
+- [[place-tzikinbalmrgn|Tz’ikin Ba’alam]]—The forsaken wastes beyond
+- [[place-kawilulkik|K’awi’il’ul Ki’ik]]—The garrison city in the plateau
+- [[affiliation-itzanpnthn|Itzáni]]—The priesthood that maintains this temple-fortress

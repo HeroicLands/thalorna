@@ -1,7 +1,7 @@
 ---
 tags:
   - coastal
-description: "The great sheltered bay of Provènzia's northwestern shore – the one deep harbor on an ocean coast otherwise made of cliffs, and the kingdom's whole window on the northern sea-roads."
+description: "The great sheltered bay of Provènzia's northwestern shore—the one deep harbor on an ocean coast otherwise made of cliffs, and the kingdom's whole window on the northern sea-roads."
 type: place
 subType: feature
 data:
@@ -30,7 +30,7 @@ and room for a fleet.
 
 ## The Two Waters
 
-The Gulf faces the **open ocean** – vast, cold and rough – and not the warm
+The Gulf faces the **open ocean**—vast, cold and rough—and not the warm
 [[place-vylarianse|Vylarian Sea]] that carries the rest of the kingdom's trade around the southern
 coast. That single fact makes the Gulf a different country commercially from every other Provenzian
 port. Nothing much of the Vylarian world comes here. What comes here comes down from

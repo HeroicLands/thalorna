@@ -568,7 +568,7 @@ Jörundr is stern, fair and immovable, and takes any suggestion that he bend the
 
 ### Motivation
 
-Jörundr wants order inside his walls – the staff safe, the prisoners alive, the feuds outside – and he holds that the rules, kept for everyone, are the only thing that delivers it.
+Jörundr wants order inside his walls—the staff safe, the prisoners alive, the feuds outside—and he holds that the rules, kept for everyone, are the only thing that delivers it.
 
 ### Strengths
 
@@ -590,10 +590,10 @@ Inmates who have been through his hands more than once; and a jarl of the fjord 
 
 ## Plot Hooks
 
-1. **The Jarl's Kinsman** – A jarl's nephew is inside for a killing, his clan is outside demanding him, and the dead man's clan is outside demanding him too. Jörundr will give him to nobody but the king.
+1. **The Jarl's Kinsman**—A jarl's nephew is inside for a killing, his clan is outside demanding him, and the dead man's clan is outside demanding him too. Jörundr will give him to nobody but the king.
 
-2. **New Methods** – The reeve has appointed a younger warden over the prison, a man with ideas about informers and separate cells, and told Jörundr to work under him.
+2. **New Methods**—The reeve has appointed a younger warden over the prison, a man with ideas about informers and separate cells, and told Jörundr to work under him.
 
-3. **The Freed Man** – A prisoner Jörundr held for five years and treated exactly like everyone else has come back to Thrymstead a rich man, and has asked to see him. He has not said why.
+3. **The Freed Man**—A prisoner Jörundr held for five years and treated exactly like everyone else has come back to Thrymstead a rich man, and has asked to see him. He has not said why.
 
-4. **The Ting** – With the clans assembled for the ting, a purse has reached Jörundr through his own steward: an hour's carelessness with one door on one night. He has not touched it and he knows which of his guards it came through.
+4. **The Ting**—With the clans assembled for the ting, a purse has reached Jörundr through his own steward: an hour's carelessness with one door on one night. He has not touched it and he knows which of his guards it came through.

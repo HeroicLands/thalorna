@@ -521,7 +521,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Eldgrimr stands 6'0" with a powerful, barrel-chested frame, weighing around 210 pounds. His tanned skin is deeply weathered and marked with faint burn scars that trace patterns across his forearms and hands. His brown hair is cropped short and singed at the edges, and his amber eyes burn with an unsettling intensity. His features are blunt and aggressive, with a broad, flat nose, a heavy jaw, thick brows, and a wide mouth set in a perpetual snarl or grin – it is often hard to tell which. His skin radiates an unnatural warmth that others can feel from paces away. Eldgrimr wears blackened leather armor reinforced with iron studs, scorched and pitted from proximity to flame. A heavy warhammer hangs from his belt, its head discolored from heat, and his cloak is made from the hide of some great beast, charred at the hems.
+Eldgrimr stands 6'0" with a powerful, barrel-chested frame, weighing around 210 pounds. His tanned skin is deeply weathered and marked with faint burn scars that trace patterns across his forearms and hands. His brown hair is cropped short and singed at the edges, and his amber eyes burn with an unsettling intensity. His features are blunt and aggressive, with a broad, flat nose, a heavy jaw, thick brows, and a wide mouth set in a perpetual snarl or grin—it is often hard to tell which. His skin radiates an unnatural warmth that others can feel from paces away. Eldgrimr wears blackened leather armor reinforced with iron studs, scorched and pitted from proximity to flame. A heavy warhammer hangs from his belt, its head discolored from heat, and his cloak is made from the hide of some great beast, charred at the hems.
 
 # Dossier {#dossier}
 
@@ -533,7 +533,7 @@ The saga of Eldgrimr Flameheart tells of his battle against the Frost Giants, an
 
 ### Personality
 
-Eldgrimr is intense and volatile, a man whose emotions burn as hot as the flames he reveres. He laughs loudly, argues passionately, and fights with abandon. He has little patience for cowardice or hesitation and can be cruel in his dismissal of those he considers weak. Yet beneath the bluster, Eldgrimr possesses a fierce loyalty to those who have earned his respect, and he would walk through literal fire for his companions – something he has done on more than one occasion.
+Eldgrimr is intense and volatile, a man whose emotions burn as hot as the flames he reveres. He laughs loudly, argues passionately, and fights with abandon. He has little patience for cowardice or hesitation and can be cruel in his dismissal of those he considers weak. Yet beneath the bluster, Eldgrimr possesses a fierce loyalty to those who have earned his respect, and he would walk through literal fire for his companions—something he has done on more than one occasion.
 
 ### Motivation
 
@@ -549,20 +549,20 @@ Eldgrimr's resistance to heat and fire borders on the supernatural, allowing him
 
 ### Patrons
 
-**The Flame Temple of Ashenmount** – The high priests of Súrtr's most sacred temple recognize Eldgrimr as blessed by the god and provide him with arms, provisions, and spiritual guidance.
+**The Flame Temple of Ashenmount**—The high priests of Súrtr's most sacred temple recognize Eldgrimr as blessed by the god and provide him with arms, provisions, and spiritual guidance.
 
-**Jarl Thorvald Embersteel** – A warlike jarl who keeps Eldgrimr close as both champion and bodyguard, knowing that the warrior's reputation alone deters many would-be challengers.
+**Jarl Thorvald Embersteel**—A warlike jarl who keeps Eldgrimr close as both champion and bodyguard, knowing that the warrior's reputation alone deters many would-be challengers.
 
 ### Enemies
 
-**The Frost Wardens** – Survivors of the Frost Giant clans who have sworn a blood oath against Eldgrimr for the destruction of their kin. They send assassins armed with enchanted ice weapons.
+**The Frost Wardens**—Survivors of the Frost Giant clans who have sworn a blood oath against Eldgrimr for the destruction of their kin. They send assassins armed with enchanted ice weapons.
 
-**Brynhildr Ashenmaiden** – Though both serve Súrtr, their interpretations of the god's will differ sharply. Brynhildr sees Eldgrimr's reckless aggression as a perversion of Súrtr's purifying flame, and the tension between them has nearly erupted into open conflict.
+**Brynhildr Ashenmaiden**—Though both serve Súrtr, their interpretations of the god's will differ sharply. Brynhildr sees Eldgrimr's reckless aggression as a perversion of Súrtr's purifying flame, and the tension between them has nearly erupted into open conflict.
 
 ## Plot Hooks
 
-1. **The Frozen Heart** – A new Frost Giant warlord has emerged, bearing an artifact that can extinguish any flame. Eldgrimr must find and destroy this weapon before it can be used against Súrtr's sacred fires.
+1. **The Frozen Heart**—A new Frost Giant warlord has emerged, bearing an artifact that can extinguish any flame. Eldgrimr must find and destroy this weapon before it can be used against Súrtr's sacred fires.
 
-2. **The Dying Flame** – Eldgrimr's supernatural resistance to fire is fading. The priests of the Flame Temple believe his connection to Súrtr is weakening and that he must undergo a dangerous trial within the volcano's caldera to renew his blessing – or die trying.
+2. **The Dying Flame**—Eldgrimr's supernatural resistance to fire is fading. The priests of the Flame Temple believe his connection to Súrtr is weakening and that he must undergo a dangerous trial within the volcano's caldera to renew his blessing—or die trying.
 
-3. **Trial by Fire** – A village has been accused of heresy against Súrtr. Eldgrimr is sent to carry out the judgment, but evidence suggests the accusation is false and politically motivated. He must choose between his fanatical devotion and his sense of justice.
+3. **Trial by Fire**—A village has been accused of heresy against Súrtr. Eldgrimr is sent to carry out the judgment, but evidence suggests the accusation is false and politically motivated. He must choose between his fanatical devotion and his sense of justice.

@@ -266,11 +266,11 @@ sohl:
 
 ![[nghtshds|Nightshade Serpent]]{float: top-left}
 
-The shadows between the stones seem wrong – deeper, more solid than they should be. You catch the glint of something like a jewel, then – movement that was never quite there, a shape that shifts at the edge of vision. The air grows cold and still, and you smell it: something like rotting nightflowers, a scent that makes your skin prickle with primal dread. Then you see the eyes – no, feel them – two points of sickly luminescence in the darkness, ancient and intelligent and empty of anything resembling mercy. A sinuous form rises from shadow itself, scales the color of midnight oil, and the whisper-sound of serpentine movement becomes deafening in your ears.
+The shadows between the stones seem wrong—deeper, more solid than they should be. You catch the glint of something like a jewel, then—movement that was never quite there, a shape that shifts at the edge of vision. The air grows cold and still, and you smell it: something like rotting nightflowers, a scent that makes your skin prickle with primal dread. Then you see the eyes—no, feel them—two points of sickly luminescence in the darkness, ancient and intelligent and empty of anything resembling mercy. A sinuous form rises from shadow itself, scales the color of midnight oil, and the whisper-sound of serpentine movement becomes deafening in your ears.
 
 # Dossier {#dossier}
 
-Nightshade Serpents are apex predators of shadow and darkness, born from the corruption of natural serpents by magical forces that transform them into something far greater and terrible. They are creatures of deliberate malice, possessing an intelligence far beyond that of normal animals and a hunger that goes beyond sustenance – they seem to feed on fear and suffering as much as on flesh. These serpents haunt deep caves, sunken ruins, and places where sunlight rarely penetrates, sometimes moving into civilization to hunt in cellars, crypts, and the darkness beneath cities. A single Nightshade Serpent can bring terror to an entire region as it methodically hunts, leaving behind only drained corpses.
+Nightshade Serpents are apex predators of shadow and darkness, born from the corruption of natural serpents by magical forces that transform them into something far greater and terrible. They are creatures of deliberate malice, possessing an intelligence far beyond that of normal animals and a hunger that goes beyond sustenance—they seem to feed on fear and suffering as much as on flesh. These serpents haunt deep caves, sunken ruins, and places where sunlight rarely penetrates, sometimes moving into civilization to hunt in cellars, crypts, and the darkness beneath cities. A single Nightshade Serpent can bring terror to an entire region as it methodically hunts, leaving behind only drained corpses.
 
 ## Presentation
 
@@ -278,7 +278,7 @@ A Nightshade Serpent measures 12 to 18 feet in length, its body thick as a man�
 
 ## Key Behaviors
 
-Nightshade Serpents are primarily nocturnal hunters, though they can remain active in deep darkness regardless of time of day. They are territorial, establishing a hunting ground and defending it fiercely from other large predators. Unlike natural serpents, they are not purely ambush predators – they will pursue prey relentlessly, driving it toward terrain disadvantages. They seem to hunt for pleasure as much as for food, often playing with prey rather than killing it immediately. A Nightshade Serpent has been known to toy with a victim for hours, inflicting pain without delivering the mercy of a killing bite. They breed rarely, and a gravid female becomes impossibly aggressive, attacking anything that approaches her nesting site with world-ending ferocity.
+Nightshade Serpents are primarily nocturnal hunters, though they can remain active in deep darkness regardless of time of day. They are territorial, establishing a hunting ground and defending it fiercely from other large predators. Unlike natural serpents, they are not purely ambush predators—they will pursue prey relentlessly, driving it toward terrain disadvantages. They seem to hunt for pleasure as much as for food, often playing with prey rather than killing it immediately. A Nightshade Serpent has been known to toy with a victim for hours, inflicting pain without delivering the mercy of a killing bite. They breed rarely, and a gravid female becomes impossibly aggressive, attacking anything that approaches her nesting site with world-ending ferocity.
 
 ## Combat Strategy
 
@@ -314,7 +314,7 @@ Unlike natural serpents, Nightshade Serpents demonstrate cunning and malice. The
 
 ## Additional Information
 
-Cold is the Nightshade Serpent’s primary weakness – sustained cold or freezing temperatures slow its metabolism and reduce the efficacy of its venom dramatically. Bright light does not harm it but does seem to make it uncomfortable, and the creature will usually avoid areas of direct sunlight if possible. Holy water and positive magical energy can damage it as well, as though the creature is partially sustained by negative or corrupted forces. The venom, if carefully harvested, is extraordinarily valuable, and poisoners and dark sorcerers alike will pay for it; a single vial can command a fortune from the right buyer. Some legends suggest that Nightshade Serpents are the corrupted remains of ancient serpent-gods, twisted into their current form by some primordial curse. Even in death the creature’s cold smile remains.
+Cold is the Nightshade Serpent’s primary weakness—sustained cold or freezing temperatures slow its metabolism and reduce the efficacy of its venom dramatically. Bright light does not harm it but does seem to make it uncomfortable, and the creature will usually avoid areas of direct sunlight if possible. Holy water and positive magical energy can damage it as well, as though the creature is partially sustained by negative or corrupted forces. The venom, if carefully harvested, is extraordinarily valuable, and poisoners and dark sorcerers alike will pay for it; a single vial can command a fortune from the right buyer. Some legends suggest that Nightshade Serpents are the corrupted remains of ancient serpent-gods, twisted into their current form by some primordial curse. Even in death the creature’s cold smile remains.
 
 ## Attributes
 

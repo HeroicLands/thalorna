@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "The Healer of the Asguardian gods – fertility, the harvest, peace, and the mending of the body."
+description: "The Healer of the Asguardian gods—fertility, the harvest, peace, and the mending of the body."
 type: lore
 subType: deity
 name:

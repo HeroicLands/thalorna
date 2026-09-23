@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "A crystalline artifact holding the essence of the elemental spirits called the Dhiríkri – it quickens natural growth around it and manipulates time within its arálwen, and lies at the center of Úqua-Arálwen behind the Maze of Echoes."
+description: "A crystalline artifact holding the essence of the elemental spirits called the Dhiríkri—it quickens natural growth around it and manipulates time within its arálwen, and lies at the center of Úqua-Arálwen behind the Maze of Echoes."
 type: miscgear
 name:
   full: Heart of Dhiríkri
@@ -18,7 +18,7 @@ sohl:
 
 A crystalline artifact believed to hold the essence of the powerful elemental spirits known as the
 **Dhiríkri**. It emanates an aura that enhances natural growth, and it can manipulate time within a
-time-zone arálwen – which is very probably why [[lore-aralwen|Úqua-Arálwen]] is a slow zone at all,
+time-zone arálwen—which is very probably why [[lore-aralwen|Úqua-Arálwen]] is a slow zone at all,
 rather than the Heart being merely a thing that happens to lie inside one.
 
 It sits at the center of Úqua-Arálwen, and reaching it means passing the

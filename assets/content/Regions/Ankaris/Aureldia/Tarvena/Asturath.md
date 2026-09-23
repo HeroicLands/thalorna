@@ -1,7 +1,7 @@
 ---
 tags:
   - region
-description: "The land of the Kingdom of Astúrath – the mountainous heartland of Tarvénia, whose narrow passes and hidden valleys have never been held by an invader."
+description: "The land of the Kingdom of Astúrath—the mountainous heartland of Tarvénia, whose narrow passes and hidden valleys have never been held by an invader."
 name:
   full: Astúrath
   aliases: []
@@ -30,6 +30,6 @@ The High King's seat is traditionally at **Peñalthár**, a fortress-city perche
 
 ## See Also
 
-- [[affiliation-kngdmstrth|Kingdom of Astúrath]] – The kingdom that holds this land
-- [[place-tarvenirgn|Tarvénia Region]] – The enclosing region
-- Kávrenath – The seat
+- [[affiliation-kngdmstrth|Kingdom of Astúrath]]—The kingdom that holds this land
+- [[place-tarvenirgn|Tarvénia Region]]—The enclosing region
+- Kávrenath—The seat

@@ -323,7 +323,7 @@ sohl:
 
 ![[gnttrts|Giant Tortoise]]{float: top-left}
 
-The ground trembles with each step of the creature – a slow, rhythmic vibration that speaks to immense mass. The creature itself is almost unbelievable in size: a tortoise as large as a house, moving with ponderous inevitability across the landscape. The shell dominates the creature – domed and ancient-looking, its surface carved and scarred by centuries of existence, colored in weathered browns and grays with patterns that suggest deep age. The creature's head extends periodically from within, each emergence slow and deliberate, allowing small dark eyes to survey the world with calm patience. The legs are thick as tree trunks, and the sound they make is the sound of the earth itself moving.
+The ground trembles with each step of the creature—a slow, rhythmic vibration that speaks to immense mass. The creature itself is almost unbelievable in size: a tortoise as large as a house, moving with ponderous inevitability across the landscape. The shell dominates the creature—domed and ancient-looking, its surface carved and scarred by centuries of existence, colored in weathered browns and grays with patterns that suggest deep age. The creature's head extends periodically from within, each emergence slow and deliberate, allowing small dark eyes to survey the world with calm patience. The legs are thick as tree trunks, and the sound they make is the sound of the earth itself moving.
 
 # Dossier {#dossier}
 
@@ -331,11 +331,11 @@ The Giant Tortoise is a walking fortress of overwhelming durability, a creature 
 
 ## Presentation
 
-The Giant Tortoise is an absolutely massive creature, capable of exceeding twenty feet in length and weighing many tons. The body is entirely dominated by the shell – a domed, scaly carapace in earth tones of brown, gray, and weathered tan. The shell is heavily scarred and patterned with accumulated age, each scar and wear mark representing a century or more of existence. The plastron (underside) is flat and equally well-armored, providing protection from below as well as above. The head is relatively small compared to the body, with ancient-looking skin that is deeply wrinkled and scaled. The eyes are small and dark, expressing a great calm and wisdom. The legs are thick and powerful, capable of supporting the creature's enormous weight.
+The Giant Tortoise is an absolutely massive creature, capable of exceeding twenty feet in length and weighing many tons. The body is entirely dominated by the shell—a domed, scaly carapace in earth tones of brown, gray, and weathered tan. The shell is heavily scarred and patterned with accumulated age, each scar and wear mark representing a century or more of existence. The plastron (underside) is flat and equally well-armored, providing protection from below as well as above. The head is relatively small compared to the body, with ancient-looking skin that is deeply wrinkled and scaled. The eyes are small and dark, expressing a great calm and wisdom. The legs are thick and powerful, capable of supporting the creature's enormous weight.
 
 ## Key Behaviors
 
-Giant Tortoises are herbivorous and spend much of their time methodically consuming vegetation – grass, shrubs, leaves, and occasionally fruits. They are slow-moving and methodical, showing no apparent concern for predators or other threats. Their lifespan is measured in centuries, and some individuals are believed to be over a thousand years old. A tortoise establishes feeding routes and follows them with minimal variation, appearing at the same places during the same seasons. They are solitary creatures but are not territorial – multiple tortoises may share the same general area without conflict.
+Giant Tortoises are herbivorous and spend much of their time methodically consuming vegetation—grass, shrubs, leaves, and occasionally fruits. They are slow-moving and methodical, showing no apparent concern for predators or other threats. Their lifespan is measured in centuries, and some individuals are believed to be over a thousand years old. A tortoise establishes feeding routes and follows them with minimal variation, appearing at the same places during the same seasons. They are solitary creatures but are not territorial—multiple tortoises may share the same general area without conflict.
 
 ## Combat Strategy
 
@@ -349,17 +349,17 @@ The tortoise uses its massive bulk as a weapon, simply moving forward and crushi
 
 ### Powerful Bite
 
-The tortoise can bite with surprising force – the bite is slow and deliberate but capable of causing serious injury to anything caught within the jaws.
+The tortoise can bite with surprising force—the bite is slow and deliberate but capable of causing serious injury to anything caught within the jaws.
 
 ## Special Abilities
 
 ### Impenetrable Shell
 
-The tortoise's shell is nearly indestructible – normal weapons have difficulty penetrating or damaging it. The shell distributes force across its surface, protecting the creature from nearly any ordinary blow. The plastron (belly) is slightly less heavily armored but still very tough.
+The tortoise's shell is nearly indestructible—normal weapons have difficulty penetrating or damaging it. The shell distributes force across its surface, protecting the creature from nearly any ordinary blow. The plastron (belly) is slightly less heavily armored but still very tough.
 
 ### Withdrawal Defense
 
-When the tortoise fully withdraws into its shell, it becomes an immobile fortress. In this state, it is nearly impossible to harm – most weapons cannot penetrate the shell, and the creature simply waits, inert, for the threat to pass.
+When the tortoise fully withdraws into its shell, it becomes an immobile fortress. In this state, it is nearly impossible to harm—most weapons cannot penetrate the shell, and the creature simply waits, inert, for the threat to pass.
 
 ## Additional Information
 

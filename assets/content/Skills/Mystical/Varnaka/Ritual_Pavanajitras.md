@@ -31,6 +31,6 @@ packFolder: varnaka
 - **Performed by:** Any Upāsaka who has tied the traveler's cord; the standing of Vratin, once earned, is held for life
 - **Licensed by:** No one. The Pavanajitras keep no priesthood, and are honored by gesture at every crossroads and waterway rather than through any fixed institution
 
-**The Pilgrim's Year** sends the devotee traveling continuously for a year, visiting every shrine of the Wandering Wind within a named region and keeping a record of the offerings left at each. **The Silent Caravan** has the devotee accompany a merchant caravan through its full season, speaking only the ceremonial words of the rites and serving the company as directed – the traveler's cord's knotted pledges lived out one shrine at a time rather than merely carried.
+**The Pilgrim's Year** sends the devotee traveling continuously for a year, visiting every shrine of the Wandering Wind within a named region and keeping a record of the offerings left at each. **The Silent Caravan** has the devotee accompany a merchant caravan through its full season, speaking only the ceremonial words of the rites and serving the company as directed—the traveler's cord's knotted pledges lived out one shrine at a time rather than merely carried.
 
 See [[affiliation-pavanajitras|Pavanajitras]].

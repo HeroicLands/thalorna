@@ -558,7 +558,7 @@ Bánrik Cáriselda is a 33-year-old man who stands 6'1" tall and is of moderate 
 
 Bánrik Cáriselda is a bodyguard of Solárden, in [[place-tarvenirgn|Tarvénia]], a Tarvénan of the town's back streets who has made himself the man its merchants hire when they want to arrive somewhere alive.
 
-Bánrik grew up without a father in the lanes below Solárden's walls, and learned there what he still trades on: how to read a room, which men to watch, and when a door is about to open. He is not strong, and in a town that breeds sellswords that ought to have kept him out of the trade. He keeps his clients safe by seeing trouble before it arrives – a hired knife in a crowd, a contract with a bad clause, a host who has seated the wrong men together – and by talking his way through what he cannot fight.
+Bánrik grew up without a father in the lanes below Solárden's walls, and learned there what he still trades on: how to read a room, which men to watch, and when a door is about to open. He is not strong, and in a town that breeds sellswords that ought to have kept him out of the trade. He keeps his clients safe by seeing trouble before it arrives—a hired knife in a crowd, a contract with a bad clause, a host who has seated the wrong men together—and by talking his way through what he cannot fight.
 
 He is a known figure among the bodyguards of Tarvénia.
 
@@ -584,7 +584,7 @@ Bánrik is on the sellswords' roll at Solárden, which lets him take hire lawful
 
 ### Patrons
 
-Bánrik's patrons are the merchants and minor nobility of Solárden who want protection that does not look like protection – a quiet man beside them at the table rather than a wall of hired steel.
+Bánrik's patrons are the merchants and minor nobility of Solárden who want protection that does not look like protection—a quiet man beside them at the table rather than a wall of hired steel.
 
 ### Enemies
 
@@ -592,10 +592,10 @@ The bigger bodyguards of Solárden who have lost work to him and say a man who c
 
 ## Plot Hooks
 
-1. **Hired Away** – A client's chief rival has offered Bánrik three times his rate to change sides, the day before a meeting between the two. Taking it would be lawful, and would tell the whole quarter what his loyalty costs.
+1. **Hired Away**—A client's chief rival has offered Bánrik three times his rate to change sides, the day before a meeting between the two. Taking it would be lawful, and would tell the whole quarter what his loyalty costs.
 
-2. **What He Cannot Prove** – Bánrik is certain that a client's steward is arranging to have him killed, and has nothing but the steward's manner to show for it.
+2. **What He Cannot Prove**—Bánrik is certain that a client's steward is arranging to have him killed, and has nothing but the steward's manner to show for it.
 
-3. **A Face from the Lanes** – A companion from his boyhood, now a thief, has asked Bánrik for the hour at which his client's house is unwatched. He has refused.
+3. **A Face from the Lanes**—A companion from his boyhood, now a thief, has asked Bánrik for the hour at which his client's house is unwatched. He has refused.
 
-4. **The Fight He Cannot Win** – A rival has arranged a challenge that Bánrik cannot talk his way out of: a public bout, sellsword to sellsword, in front of the men who hire him. He will lose it on strength.
+4. **The Fight He Cannot Win**—A rival has arranged a challenge that Bánrik cannot talk his way out of: a public bout, sellsword to sellsword, in front of the men who hire him. He will lose it on strength.

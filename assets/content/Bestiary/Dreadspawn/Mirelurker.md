@@ -647,15 +647,15 @@ sohl:
 
 ![[mrlrkr|Mirelurker]]{float: top-left}
 
-The water ahead shivers without cause, and then you see it – or rather, you see the absence of a thing, a void in the shape of something vast moving just beneath the surface. The reek of stagnant water and decaying vegetation floods your senses. A curved carapace breaks the murk, crusted with algae and slime, and then the water erupts as a limb strikes out – chitinous, twisted, impossibly powerful. The sound is wet and horrible, like tearing leather mixed with the click and scrape of insect armor.
+The water ahead shivers without cause, and then you see it—or rather, you see the absence of a thing, a void in the shape of something vast moving just beneath the surface. The reek of stagnant water and decaying vegetation floods your senses. A curved carapace breaks the murk, crusted with algae and slime, and then the water erupts as a limb strikes out—chitinous, twisted, impossibly powerful. The sound is wet and horrible, like tearing leather mixed with the click and scrape of insect armor.
 
 # Dossier {#dossier}
 
-Mirelurkers are apex predators of the deep marshes and brackish waters, evolved from some unholy fusion of crustacean and amphibian flesh. They haunt stagnant pools, murky rivers, and swamp channels where they can remain almost invisible amid the muck and reeds. Ambush is their method and their art – a Mirelurker can wait motionless for hours, indistinguishable from a submerged log or stone, before striking with brutal suddenness when prey ventures too close. Once an attack is underway, the creature's strength and resistance to damage make it a dangerous opponent, though it abhors dryness and fire with visceral intensity.
+Mirelurkers are apex predators of the deep marshes and brackish waters, evolved from some unholy fusion of crustacean and amphibian flesh. They haunt stagnant pools, murky rivers, and swamp channels where they can remain almost invisible amid the muck and reeds. Ambush is their method and their art—a Mirelurker can wait motionless for hours, indistinguishable from a submerged log or stone, before striking with brutal suddenness when prey ventures too close. Once an attack is underway, the creature's strength and resistance to damage make it a dangerous opponent, though it abhors dryness and fire with visceral intensity.
 
 ## Presentation
 
-A Mirelurker is roughly humanoid in basic structure but alien in every detail – measuring 8 to 10 feet in length, with a grotesquely bulky frame. Its body is encased in a chitinous exoskeleton of mottled gray-brown, spotted with patches of slime and algae that aid its camouflage. Six limbs project from its torso: four shorter ones ending in clusters of sharp claws, and two longer, more muscular appendages that are its primary striking weapons. Its head is a dome of armor with bulging, lidless eyes set wide apart, and a cavernous mouth lined with chitinous plates rather than teeth. The creature moves with an unsettling, side-to-side gait when on land but propels itself through water with serpentine grace. It emits a constant, barely audible clicking and chittering from deep within its shell.
+A Mirelurker is roughly humanoid in basic structure but alien in every detail—measuring 8 to 10 feet in length, with a grotesquely bulky frame. Its body is encased in a chitinous exoskeleton of mottled gray-brown, spotted with patches of slime and algae that aid its camouflage. Six limbs project from its torso: four shorter ones ending in clusters of sharp claws, and two longer, more muscular appendages that are its primary striking weapons. Its head is a dome of armor with bulging, lidless eyes set wide apart, and a cavernous mouth lined with chitinous plates rather than teeth. The creature moves with an unsettling, side-to-side gait when on land but propels itself through water with serpentine grace. It emits a constant, barely audible clicking and chittering from deep within its shell.
 
 ## Key Behaviors
 
@@ -663,7 +663,7 @@ Mirelurkers are solitary, territorial creatures that claim a stretch of swamp or
 
 ## Combat Strategy
 
-A Mirelurker initiates combat by erupting from concealment with overwhelming physical force, attempting to grapple or crush prey before the target can react or flee. Once engaged, it relies on its superior strength to dominate, using both primary limbs in coordinated strikes and snapping bites. The creature is cunning enough to exploit terrain – herding prey into deeper water where its advantage is magnified, or separating weakened targets from the group. If an opponent deals sustained fire damage or the creature finds itself dying, it will attempt to retreat into water deep enough to escape pursuit, though a truly cornered Mirelurker fights with vicious desperation.
+A Mirelurker initiates combat by erupting from concealment with overwhelming physical force, attempting to grapple or crush prey before the target can react or flee. Once engaged, it relies on its superior strength to dominate, using both primary limbs in coordinated strikes and snapping bites. The creature is cunning enough to exploit terrain—herding prey into deeper water where its advantage is magnified, or separating weakened targets from the group. If an opponent deals sustained fire damage or the creature finds itself dying, it will attempt to retreat into water deep enough to escape pursuit, though a truly cornered Mirelurker fights with vicious desperation.
 
 ## Attack Methods
 
@@ -683,7 +683,7 @@ The Mirelurker churns mud and water into a suffocating slurry, attempting to bli
 
 ### Amphibious Adaptation
 
-The Mirelurker breathes equally well in water and air and can remain submerged indefinitely. Its exoskeleton grants it resistance to slashing and piercing attacks – blade strikes glance off its armor with minimal effect.
+The Mirelurker breathes equally well in water and air and can remain submerged indefinitely. Its exoskeleton grants it resistance to slashing and piercing attacks—blade strikes glance off its armor with minimal effect.
 
 ### Swamp Camouflage
 
@@ -695,7 +695,7 @@ The Mirelurker moves through swamp and water with perfect ease, treating such te
 
 ## Additional Information
 
-Fire remains the Mirelurker's greatest weakness – sustained heat can crack its exoskeleton, and flames pain it badly. Extended drought is equally devastating; removed from water, a Mirelurker weakens over days as its body dries. Its shell can be harvested after death and fashioned into durable armor or shields, though the process of preservation is foul and time-consuming. Some wilderness hunters prize Mirelurker claws for weapon hafts, as they retain a subtle sharpness even after death. The creature's internal organs contain a bitter, poisonous fluid that can be extracted and used in the creation of toxic compounds.
+Fire remains the Mirelurker's greatest weakness—sustained heat can crack its exoskeleton, and flames pain it badly. Extended drought is equally devastating; removed from water, a Mirelurker weakens over days as its body dries. Its shell can be harvested after death and fashioned into durable armor or shields, though the process of preservation is foul and time-consuming. Some wilderness hunters prize Mirelurker claws for weapon hafts, as they retain a subtle sharpness even after death. The creature's internal organs contain a bitter, poisonous fluid that can be extracted and used in the creation of toxic compounds.
 
 ## Attributes
 

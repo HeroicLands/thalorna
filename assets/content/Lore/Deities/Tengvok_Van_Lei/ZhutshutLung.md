@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "Lord of Water in the Tëngvōk Vān Lëi – one of the five Elemental Lords, holding water as an office of the celestial bureaucracy."
+description: "Lord of Water in the Tëngvōk Vān Lëi—one of the five Elemental Lords, holding water as an office of the celestial bureaucracy."
 type: lore
 subType: deity
 name:

@@ -30,7 +30,7 @@ Kheperi is a tongue of the Kheperi (isolate) family. Fluency measures the sophis
 
 ## Overview
 
-Kheperi is the ancient and sacred tongue of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]], the monumental empire spanning the southern reaches of the [[place-xerathia|Xerathia]] continent. For over three millennia, Kheperi has served as the language of state, ritual, and sacred knowledge – deeply intertwined with the religious and magical traditions that form the bedrock of Kheperian civilization. Even as vernacular speech has evolved, the written and ritual languages remain largely frozen in their classical forms, creating a diglossia between the formal religious register and the spoken dialects of common life.
+Kheperi is the ancient and sacred tongue of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]], the monumental empire spanning the southern reaches of the [[place-xerathia|Xerathia]] continent. For over three millennia, Kheperi has served as the language of state, ritual, and sacred knowledge—deeply intertwined with the religious and magical traditions that form the bedrock of Kheperian civilization. Even as vernacular speech has evolved, the written and ritual languages remain largely frozen in their classical forms, creating a diglossia between the formal religious register and the spoken dialects of common life.
 
 Kheperi is spoken by an estimated 8-12 million people across the Kheperian Empire and its trading colonies. It is also the liturgical tongue of several mystery cults and esoteric orders, giving it prestige and mystical authority far beyond its geographic boundaries.
 
@@ -118,11 +118,11 @@ Kheperi follows a **Verb-Subject-Object (VSO)** order in narrative clauses, thou
 
 ### Proto-Kheperi
 
-Kheperi is an isolate language with no widely-accepted external relatives. Its ancient origins are lost in myth and speculation. Some scholars propose that it represents a linguistic refuge – a language family that once spread widely but was supplanted by the expansion of other tongues, leaving Kheperi as its sole surviving member. Certain lexical and structural features show vague similarities to northern Okháric, but these connections are tenuous and disputed.
+Kheperi is an isolate language with no widely-accepted external relatives. Its ancient origins are lost in myth and speculation. Some scholars propose that it represents a linguistic refuge—a language family that once spread widely but was supplanted by the expansion of other tongues, leaving Kheperi as its sole surviving member. Certain lexical and structural features show vague similarities to northern Okháric, but these connections are tenuous and disputed.
 
 ### Classical Period (Age of Monuments)
 
-The standardization of Classical Kheperi occurred during the early dynasties of the Kheperian Empire, roughly 2,300 years before present. This period saw the composition of the great temple inscriptions, the codification of ritual languages, and the establishment of scribal schools that have persisted to the present day. The language of this period – frozen in written form – remains the prestige register.
+The standardization of Classical Kheperi occurred during the early dynasties of the Kheperian Empire, roughly 2,300 years before present. This period saw the composition of the great temple inscriptions, the codification of ritual languages, and the establishment of scribal schools that have persisted to the present day. The language of this period—frozen in written form—remains the prestige register.
 
 ### Development of Demotic
 
@@ -164,18 +164,18 @@ Yet religious conservatism has resulted in Classical Kheperi being actively rein
 
 ## Sample Phrases
 
-1. **Khepru en ankh** – _Greeting formula; literally "May the Kheperian principles uphold life"_
-2. **Amuun ra, seker em khenet** – _Ritual invocation; "Sun-lord, hidden in the sanctuary"_
-3. **Ermen es hotet** – _Affirmation of loyalty; "I am bound to the throne"_
-4. **Neb mehet aru kheper** – _Mercantile oath; "The lord's goods shall prosper"_
-5. **Shemsu setem** – _Sacred command; "Let the followers hear" (used to introduce proclamations)_
+1. **Khepru en ankh**—_Greeting formula; literally "May the Kheperian principles uphold life"_
+2. **Amuun ra, seker em khenet**—_Ritual invocation; "Sun-lord, hidden in the sanctuary"_
+3. **Ermen es hotet**—_Affirmation of loyalty; "I am bound to the throne"_
+4. **Neb mehet aru kheper**—_Mercantile oath; "The lord's goods shall prosper"_
+5. **Shemsu setem**—_Sacred command; "Let the followers hear" (used to introduce proclamations)_
 
 ## Learned Vocabulary
 
 Two Kheperi words are the learned world's names for the undead, taken from the funerary texts of [[affiliation-empirtkhpr|Ta'Kheperu]] by every scholarly tradition that copied them; see [[lore-undead|Undead]] for their use.
 
-- **ṭerebu** – root _ṭ-r-b_, to wear, to cloak: _the cloaked one_, the sentient undead ([[being-tereb|tereb]]). Invariant in number: one _ṭerebu_, many _ṭerebu_.
-- **ḍumaṭu** – root _ḍ-m-ṭ_, to drive, to goad: _the driven one_, the mindless undead ([[being-damut|damut]]). Invariant in number: one _ḍumaṭu_, many _ḍumaṭu_.
+- **ṭerebu**—root _ṭ-r-b_, to wear, to cloak: _the cloaked one_, the sentient undead ([[being-tereb|tereb]]). Invariant in number: one _ṭerebu_, many _ṭerebu_.
+- **ḍumaṭu**—root _ḍ-m-ṭ_, to drive, to goad: _the driven one_, the mindless undead ([[being-damut|damut]]). Invariant in number: one _ḍumaṭu_, many _ḍumaṭu_.
 
 The temple form is the word as Kheperi speak and write it, emphatics and all. _Tereb_ and _damut_ are what the rest of the world made of it: the international plural, _terebu_ and _damutu_, is the temple word heard without its emphatics, and the international singular, _tereb_ ("TEH-reb") and _damut_ ("dah-MOOT"), is a back-formation from that plural. A Kheperi priest says _ṭerebu_ for one and for many; a Vylarian physician says _tereb_ and _terebu_.
 

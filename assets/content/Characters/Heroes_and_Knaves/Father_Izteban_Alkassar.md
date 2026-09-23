@@ -608,7 +608,7 @@ sohl:
 
 ![[frztbnlksr|Father Iztéban Alkássar]]{float: top-left}
 
-Standing at 5'11", Father Iztéban has a medium build, weighing around 170 pounds, with a tanned complexion that speaks to his Mèridiane heritage. His hair is dark and wavy, cut short, and his beard is neatly trimmed. His dark brown eyes are calm and observant, reflecting his deep sense of justice and his role as a Jánusian priest. His nose is straight, and his face is marked by a serene, almost paternal expression. Father Iztéban wears the traditional garb of the Jánusian clergy – a long, white robe embroidered with silver, and a red sash symbolizing his status as priest. He carries a ceremonial staff topped with the symbol of Jánus, though a short sword hangs at his waist as a reminder of his chivalric duties.
+Standing at 5'11", Father Iztéban has a medium build, weighing around 170 pounds, with a tanned complexion that speaks to his Mèridiane heritage. His hair is dark and wavy, cut short, and his beard is neatly trimmed. His dark brown eyes are calm and observant, reflecting his deep sense of justice and his role as a Jánusian priest. His nose is straight, and his face is marked by a serene, almost paternal expression. Father Iztéban wears the traditional garb of the Jánusian clergy—a long, white robe embroidered with silver, and a red sash symbolizing his status as priest. He carries a ceremonial staff topped with the symbol of Jánus, though a short sword hangs at his waist as a reminder of his chivalric duties.
 
 # Dossier {#dossier}
 
@@ -669,7 +669,7 @@ Despite his unwavering commitment to his faith, Father Iztéban is pragmatic eno
 
 ### Enemies
 
-- **Lord Goran de Virador**: A corrupt noble who has been exploiting his people and ignoring the laws of the kingdom, Lord Goran sees Iztéban’s investigation as a direct threat to his power. Lord Goran will use every means at his disposal – bribery, manipulation, and even violence – to stop Iztéban from uncovering the full extent of his crimes.
+- **Lord Goran de Virador**: A corrupt noble who has been exploiting his people and ignoring the laws of the kingdom, Lord Goran sees Iztéban’s investigation as a direct threat to his power. Lord Goran will use every means at his disposal—bribery, manipulation, and even violence—to stop Iztéban from uncovering the full extent of his crimes.
 - **Lady Isolda de Varas**: A shrewd noblewoman who plays a dangerous political game, Lady Isolda publicly supports the Jánusian faith but has secretly allied herself with the corrupt elements within the kingdom. She views Iztéban as an obstacle to her ambitions and has begun to quietly work against him, spreading rumors and using her influence in the royal court to undermine his reputation.
 
 ### Affiliations

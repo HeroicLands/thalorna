@@ -589,10 +589,10 @@ The cutting crews that work by contract for the senators' timber-factors, who cl
 
 ## Plot Hooks
 
-1. **The Senator's Wood** – A senator has bought the slope Cuthbert has worked and replanted for twenty years and let it to a contract crew to clear for the harbor. The saplings are his by nobody's law but his own.
+1. **The Senator's Wood**—A senator has bought the slope Cuthbert has worked and replanted for twenty years and let it to a contract crew to clear for the harbor. The saplings are his by nobody's law but his own.
 
-2. **The Boy and the Saw** – One of the young cutters Cuthbert trained has lost a hand to a Vylarian saw on a contract crew, and the crew's master says the boy was careless. Cuthbert says the saw was, and the guild has been asked to rule.
+2. **The Boy and the Saw**—One of the young cutters Cuthbert trained has lost a hand to a Vylarian saw on a contract crew, and the crew's master says the boy was careless. Cuthbert says the saw was, and the guild has been asked to rule.
 
-3. **Planting on Another Man's Ground** – Cuthbert has been setting saplings for years on a cleared slope that belongs to a family in the senate, without asking. The family has noticed.
+3. **Planting on Another Man's Ground**—Cuthbert has been setting saplings for years on a cleared slope that belongs to a family in the senate, without asking. The family has noticed.
 
-4. **The Guild Vote** – The Woodcutters' Guild is to vote on admitting the two-man saw to its standard, which would let the contract crews take guild apprentices. Cuthbert is the senior man against it.
+4. **The Guild Vote**—The Woodcutters' Guild is to vote on admitting the two-man saw to its standard, which would let the contract crews take guild apprentices. Cuthbert is the senior man against it.

@@ -1,7 +1,7 @@
 ---
 tags:
   - polity
-description: Boreal forests, tundra, and caribou migrations – the subarctic homeland of the No'kin, the Bear People.
+description: Boreal forests, tundra, and caribou migrations—the subarctic homeland of the No'kin, the Bear People.
 name:
   full: K'ixim Tzul
   aliases: []
@@ -40,7 +40,7 @@ data:
         title: Craftsman
         lore: journeymanrnk
         description: >-
-          Of the skilled trades – potters, weavers, feather-workers, stone-cutters – attached
+          Of the skilled trades—potters, weavers, feather-workers, stone-cutters—attached
           to a lord's household or a temple.
       - level: 4
         title: Warrior
@@ -89,7 +89,7 @@ data:
       Ah Kulel: Deputy and herald of a lord, who carries his word and is answered as if it
         were his.
       Ah Ppolom: >-
-        Master merchant of the long-distance trade in cacao, salt, obsidian and jade – and
+        Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and
         a lord's eyes abroad.
       Ballcourt Keeper: >-
         Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice
@@ -110,26 +110,26 @@ packFolder: kiximtzul
 
 ## Overview
 
-K'ixim Tzul holds the land of [[place-kiximtzulrgn|K'ixim Tzul Region]]. K'ich'chik scouts call the people here the No'kin Tz'aqalil ("Bear People"), from the bear-imagery prominent in the few trade goods and war-trophies that have reached southern hands. What they call themselves is unknown. They are among the most reclusive of the northern peoples; even the border merchants who deal with the Xak'nal and Tz'okum report almost no direct contact with the No'kin, who seem to regard all outsiders – including the other northern nations – with deep suspicion.
+K'ixim Tzul holds the land of [[place-kiximtzulrgn|K'ixim Tzul Region]]. K'ich'chik scouts call the people here the No'kin Tz'aqalil ("Bear People"), from the bear-imagery prominent in the few trade goods and war-trophies that have reached southern hands. What they call themselves is unknown. They are among the most reclusive of the northern peoples; even the border merchants who deal with the Xak'nal and Tz'okum report almost no direct contact with the No'kin, who seem to regard all outsiders—including the other northern nations—with deep suspicion.
 
-From the little K'ich'chik observers have pieced together, the No'kin move with the great herds through merciless winters and forests where snow lies thick for half the year. The quality of the hides that occasionally reach southern markets – processed with extraordinary skill into leather of remarkable suppleness and strength – attests to practical mastery, whatever their other customs may be. K'ich'chik merchants who have attempted to penetrate No'kin territory directly have been turned back at the border, firmly and without negotiation.
+From the little K'ich'chik observers have pieced together, the No'kin move with the great herds through merciless winters and forests where snow lies thick for half the year. The quality of the hides that occasionally reach southern markets—processed with extraordinary skill into leather of remarkable suppleness and strength—attests to practical mastery, whatever their other customs may be. K'ich'chik merchants who have attempted to penetrate No'kin territory directly have been turned back at the border, firmly and without negotiation.
 
 ## The No'kin Tz'aqalil
 
-The Bear People are endurance hunters of extraordinary skill, capable of tracking prey across impossible terrain and in conditions that would break the spirit of outsiders. They follow caribou herds across hundreds of miles, moving with them through the seasons in a migration pattern refined by centuries of observation. Their hide-working techniques produce leather of remarkable quality – supple yet strong, water-resistant and warm. Furs processed by No'kin masters command premium prices in southern markets, and this trade generates wealth and influence despite the No'kin's generally modest material culture.
+The Bear People are endurance hunters of extraordinary skill, capable of tracking prey across impossible terrain and in conditions that would break the spirit of outsiders. They follow caribou herds across hundreds of miles, moving with them through the seasons in a migration pattern refined by centuries of observation. Their hide-working techniques produce leather of remarkable quality—supple yet strong, water-resistant and warm. Furs processed by No'kin masters command premium prices in southern markets, and this trade generates wealth and influence despite the No'kin's generally modest material culture.
 
-The No'kin gather wild berries with systematic precision, knowing every patch of saskatoon, lingonberry, and cloudberry within their vast territory. These gatherings are seasonal events that draw extended families to ancestral sites; the berries are dried and stored, serving as both food and trade goods. The No'kin also possess deep knowledge of medicinal plants and poisons – a practical necessity in a harsh land where sickness or injury can mean death. This pharmacological expertise makes No'kin healers sought-after even by distant peoples, and several prominent medicinal compounds are known to originate in their territory and are guarded as trade secrets.
+The No'kin gather wild berries with systematic precision, knowing every patch of saskatoon, lingonberry, and cloudberry within their vast territory. These gatherings are seasonal events that draw extended families to ancestral sites; the berries are dried and stored, serving as both food and trade goods. The No'kin also possess deep knowledge of medicinal plants and poisons—a practical necessity in a harsh land where sickness or injury can mean death. This pharmacological expertise makes No'kin healers sought-after even by distant peoples, and several prominent medicinal compounds are known to originate in their territory and are guarded as trade secrets.
 
 K'ich'chik scholars speculate that the No'kin are organized into loose bands following extended family lines, each associated with a specific territory. Reports from the handful of captives and defectors who have provided accounts suggest that leadership may be spiritual in nature, with shamans and proven hunters wielding authority. The No'kin appear less inclined toward the elaborate display observed among the Xak'nal, though the rarity of direct contact makes any assessment of their internal governance unreliable. What is certain is that the No'kin present a unified front against outsiders; whatever disputes exist among their bands, they are invisible to K'ich'chik eyes.
 
 ## Trade
 
-The isolation of K'ixim Tzul from direct access to the [[place-chakultzklrgn|Ch'akul Tza'kul]] barrier and the [[affiliation-itzanpnthn|Itzáni]] lands means that the No'kin rely heavily on intermediaries – particularly the Xak'nal and Tz'okum – for access to goods from the far south. This dependence sometimes rankles, but the No'kin have accepted it as the cost of their location. The caribou migrations that define their livelihood follow ancient pathways indifferent to human commerce, and following these paths takes priority over optimizing trade routes.
+The isolation of K'ixim Tzul from direct access to the [[place-chakultzklrgn|Ch'akul Tza'kul]] barrier and the [[affiliation-itzanpnthn|Itzáni]] lands means that the No'kin rely heavily on intermediaries—particularly the Xak'nal and Tz'okum—for access to goods from the far south. This dependence sometimes rankles, but the No'kin have accepted it as the cost of their location. The caribou migrations that define their livelihood follow ancient pathways indifferent to human commerce, and following these paths takes priority over optimizing trade routes.
 
 ## See Also
 
-- [[affiliation-balamkiahk|Ba'alam Ki'ahk]] – The Xak'nal domain to the west, separated by high passes and shared hunting territories
-- [[affiliation-haxaman|Ha' Xaman]] – The Coyote People's grasslands to the south and east
-- [[affiliation-xikulchakl|Xik'ul Ch'akal]] – The Otter People's woodlands to the east, connected by river routes
-- [[affiliation-tzumanotun|Tz'uma No'tun]] – The Serpent People's distant southern territories, reached through intermediaries
-- [[place-kiximtzulrgn|K'ixim Tzul Region]] – The land K'ixim Tzul holds
+- [[affiliation-balamkiahk|Ba'alam Ki'ahk]]—The Xak'nal domain to the west, separated by high passes and shared hunting territories
+- [[affiliation-haxaman|Ha' Xaman]]—The Coyote People's grasslands to the south and east
+- [[affiliation-xikulchakl|Xik'ul Ch'akal]]—The Otter People's woodlands to the east, connected by river routes
+- [[affiliation-tzumanotun|Tz'uma No'tun]]—The Serpent People's distant southern territories, reached through intermediaries
+- [[place-kiximtzulrgn|K'ixim Tzul Region]]—The land K'ixim Tzul holds

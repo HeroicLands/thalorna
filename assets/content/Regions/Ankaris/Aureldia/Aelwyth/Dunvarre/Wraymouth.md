@@ -3,7 +3,7 @@ tags:
   - town
   - port
   - coastal
-description: "Dúnavarre's chief harbor and second city – the working port on the south-eastern coast through which the kingdom's trade with Élavendre and the mainland passes."
+description: "Dúnavarre's chief harbor and second city—the working port on the south-eastern coast through which the kingdom's trade with Élavendre and the mainland passes."
 type: place
 subType: settlement
 data:
@@ -24,7 +24,7 @@ second city of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] at about twe
 
 [[place-ravenmoor|Ravenmoor]] is the seat and holds the Synod; Wraymouth does the work. These are the
 best natural harbors on the island, facing open water toward [[place-elavendre|Élavendre]] and the
-mainland beyond, and effectively all of Dúnavarre's trade – and a good share of Aelwyth's – passes over
+mainland beyond, and effectively all of Dúnavarre's trade—and a good share of Aelwyth's—passes over
 its quays.
 
 ## The Port
@@ -41,7 +41,7 @@ Provènzia and the Vylarian ports land here, and the mission to Tānvür sailed 
 
 Wraymouth is more mixed and considerably less decorous than Ravenmoor. Its harbor quarter speaks
 several languages and a good deal of trade-creole, its shipping houses are commercial rather than
-courtly, and the Synod's administration sits more lightly here than anywhere else in the kingdom – not
+courtly, and the Synod's administration sits more lightly here than anywhere else in the kingdom—not
 from weakness, but because a port that is generating the realm's revenue is granted a certain latitude.
 
 ## See Also

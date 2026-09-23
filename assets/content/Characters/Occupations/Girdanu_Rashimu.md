@@ -592,10 +592,10 @@ Rival fighters who want his place on the bill; the quarry guards who had charge 
 
 ## Plot Hooks
 
-1. **The Man Who Accused Him** – The clerk whose word sent Girdanû to the arena has risen to a post in the customs house, and Girdanû has found out where he lives.
+1. **The Man Who Accused Him**—The clerk whose word sent Girdanû to the arena has risen to a post in the customs house, and Girdanû has found out where he lives.
 
-2. **A Fixed Fight** – A guild house has offered Girdanû more than a year's purses to lose to a young fighter they are building up. He has never lost on purpose, and he is forty-two.
+2. **A Fixed Fight**—A guild house has offered Girdanû more than a year's purses to lose to a young fighter they are building up. He has never lost on purpose, and he is forty-two.
 
-3. **The Quarry Again** – A young quarryman has been accused the way Girdanû was and sentenced to the same sand. Girdanû is the only man in Qadhirun who has stood where the boy stands and walked out.
+3. **The Quarry Again**—A young quarryman has been accused the way Girdanû was and sentenced to the same sand. Girdanû is the only man in Qadhirun who has stood where the boy stands and walked out.
 
-4. **Retirement** – The arena-master has decided that Girdanû's draw is spent and means to end his run with a fight he cannot win. Girdanû has been told nothing, and the bill has been posted.
+4. **Retirement**—The arena-master has decided that Girdanû's draw is spent and means to end his run with a fight he cannot win. Girdanû has been told nothing, and the bill has been posted.

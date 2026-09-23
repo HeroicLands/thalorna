@@ -3,7 +3,7 @@ tags:
   - village
   - caravan
   - inland
-description: "The principal Ösket village, above the throat of Sūryadvāra – stacked stone on a south-facing slope, full for two months of the year and shut for ten."
+description: "The principal Ösket village, above the throat of Sūryadvāra—stacked stone on a south-facing slope, full for two months of the year and shut for ten."
 type: place
 subType: settlement
 data:

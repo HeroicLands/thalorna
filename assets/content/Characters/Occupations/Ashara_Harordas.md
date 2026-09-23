@@ -592,12 +592,12 @@ Rival fencers challenge her for supremacy in the dueling circles.
 
 ## Plot Hooks
 
-1. **The Swordmaster's Dilemma** – A wealthy patron's son is not good enough to pass, and his family's fees and her school's name cannot both be kept.
+1. **The Swordmaster's Dilemma**—A wealthy patron's son is not good enough to pass, and his family's fees and her school's name cannot both be kept.
 
-2. **Old Grudges** – A rival fencer she beat in a tournament challenges her to a duel she cannot decline without losing face.
+2. **Old Grudges**—A rival fencer she beat in a tournament challenges her to a duel she cannot decline without losing face.
 
-3. **Echoes of the Past** – A rival from Ashârâ's tournament years returns to Vylaria with an old score to settle.
+3. **Echoes of the Past**—A rival from Ashârâ's tournament years returns to Vylaria with an old score to settle.
 
-4. **Shifting Winds** – Political change in Vylaria threatens the standing Ashârâ's guild gives her, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Vylaria threatens the standing Ashârâ's guild gives her, and she can adapt, resist, or leave.
 
-5. **The Opportunity** – Ashârâ is offered the post of swordmaster to a noble house, and its price is not named up front.
+5. **The Opportunity**—Ashârâ is offered the post of swordmaster to a noble house, and its price is not named up front.

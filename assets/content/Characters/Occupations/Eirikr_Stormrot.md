@@ -593,12 +593,12 @@ None; he is respected in the community, though some younger fishers find him ove
 
 ## Plot Hooks
 
-1. **The Fisher's Dilemma** – A season of poor catches leaves Eiríkr choosing between the grounds he has always fished and the riskier waters the younger fishers favor.
+1. **The Fisher's Dilemma**—A season of poor catches leaves Eiríkr choosing between the grounds he has always fished and the riskier waters the younger fishers favor.
 
-2. **Old Grudges** – A younger fisher who thinks Eiríkr's ways outdated sets out to take his place with the inns and fishmongers.
+2. **Old Grudges**—A younger fisher who thinks Eiríkr's ways outdated sets out to take his place with the inns and fishmongers.
 
-3. **Echoes of the Past** – A boat lost in a storm in Eiríkr's youth is found, and he is the only one left who remembers its crew.
+3. **Echoes of the Past**—A boat lost in a storm in Eiríkr's youth is found, and he is the only one left who remembers its crew.
 
-4. **Shifting Winds** – Political change in Nordheim threatens the trade Eiríkr depends upon, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Nordheim threatens the trade Eiríkr depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity** – Eiríkr is offered the mastery of a larger boat than his own, and its price is not named up front.
+5. **The Opportunity**—Eiríkr is offered the mastery of a larger boat than his own, and its price is not named up front.

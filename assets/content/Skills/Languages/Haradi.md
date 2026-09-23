@@ -53,11 +53,11 @@ The velar _kh_ and uvular _q_ give Haradi a guttural quality that distinguishes 
 
 Haradi employs five primary vowel qualities, each with both short and long forms:
 
-- **a / â** – front open vowel (short/long)
-- **e / ê** – front mid vowel (short/long)
-- **i / î** – front close vowel (short/long)
-- **o / ô** – back mid vowel (short/long)
-- **u / û** – back close vowel (short/long)
+- **a / â**—front open vowel (short/long)
+- **e / ê**—front mid vowel (short/long)
+- **i / î**—front close vowel (short/long)
+- **o / ô**—back mid vowel (short/long)
+- **u / û**—back close vowel (short/long)
 
 Long vowels (marked with circumflex or macron) carry heavy semantic weight. Compare _Shamut_ (short) vs. _Shamûlû_ (long vowel emphasis). The interplay of long and short vowels creates a distinctive rhythmic pattern in speech.
 
@@ -87,9 +87,9 @@ Haradi nouns carry grammatical gender (masculine/feminine) and number (singular/
 
 Family names characteristically employ suffixes:
 
-- **-î** (masculine lineage marker) – _Tarûzî, Shamûrîn, Girmâlî_
-- **-ûnî** (feminine/collective lineage) – _Pasharûnî, Beshûnî, Pîlmûnî_
-- **-ûm** (emphatic lineage) – _Bilûlûm, Takkûnûm, Eshkarûm, Ilammû_
+- **-î** (masculine lineage marker)—_Tarûzî, Shamûrîn, Girmâlî_
+- **-ûnî** (feminine/collective lineage)—_Pasharûnî, Beshûnî, Pîlmûnî_
+- **-ûm** (emphatic lineage)—_Bilûlûm, Takkûnûm, Eshkarûm, Ilammû_
 
 These suffixes denote family affiliation and are fundamental to Haradi identity.
 
@@ -101,13 +101,13 @@ Verbs conjugate for aspect (perfective/imperfective), mood (indicative/subjuncti
 
 Haradi employs the [[skill-hazarscrpt|Hazâri]] script, a consonantal alphabet derived from ancient proto-Ankarian writing systems. The script consists of 24 letters representing consonantal phonemes; vowels are optionally marked through diacritical marks (circumflex, macron, acute accent). In formal mercantile documents, vowels are always marked to avoid ambiguity in contracts and agreements.
 
-True Haradi literacy is confined to the nobility, the clergy, and the professional scribe class. Merchant guildsmen often possess functional literacy – enough to recognize trade marks, numerals, and common abbreviations – but rely on hired scribes for contracts, ledgers, and legal documents. The language is written left-to-right.
+True Haradi literacy is confined to the nobility, the clergy, and the professional scribe class. Merchant guildsmen often possess functional literacy—enough to recognize trade marks, numerals, and common abbreviations—but rely on hired scribes for contracts, ledgers, and legal documents. The language is written left-to-right.
 
 ## Historical Development
 
 Haradi evolved from proto-Ankarian maritime pidgin languages that developed in the trading ports of the southern coast over the past eight centuries. As merchant guilds consolidated power, Haradi became codified and standardized. The language preserves influences from older Ankarian substrate languages, particularly in its consonantal system and maritime vocabulary.
 
-The characteristic long-vowel marking system was systematized during the Merchant Guilds' formalization period (approximately 400 years ago), when written contracts – prepared and read aloud by professional scribes – became binding legal documents. The need for precise, unambiguous scribal reading led to the adoption of the vowel-marking diacritical system still in use today.
+The characteristic long-vowel marking system was systematized during the Merchant Guilds' formalization period (approximately 400 years ago), when written contracts—prepared and read aloud by professional scribes—became binding legal documents. The need for precise, unambiguous scribal reading led to the adoption of the vowel-marking diacritical system still in use today.
 
 ## Regional Dialects
 
@@ -125,15 +125,15 @@ A specialized register employed in high-level commercial negotiations, featuring
 
 ## Sample Phrases
 
-1. **Mardum qatûsh ilammû** – "A merchant's word is his bond" (lit. "Merchant-name holds-firm family-honor")
+1. **Mardum qatûsh ilammû**—"A merchant's word is his bond" (lit. "Merchant-name holds-firm family-honor")
 
-2. **Tû manî dammûsh kûrrîm** – "The sea gives and takes away" (lit. "The-sea gives-takes, justice-returns")
+2. **Tû manî dammûsh kûrrîm**—"The sea gives and takes away" (lit. "The-sea gives-takes, justice-returns")
 
-3. **Shamûlû zarûtan belginû** – "Fair winds and profitable voyages" (traditional merchant blessing)
+3. **Shamûlû zarûtan belginû**—"Fair winds and profitable voyages" (traditional merchant blessing)
 
-4. **Kadûmû ashûram nûmarû** – "Gold measures all value" (commercial maxim)
+4. **Kadûmû ashûram nûmarû**—"Gold measures all value" (commercial maxim)
 
-5. **Telmûsh qûmûnî tarûzî** – "A contract binds families for generations" (legal principle)
+5. **Telmûsh qûmûnî tarûzî**—"A contract binds families for generations" (legal principle)
 
 ## Related Languages
 

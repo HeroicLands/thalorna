@@ -591,10 +591,10 @@ Cutting crews that work past the license line and find Thálrik between them and
 
 ## Plot Hooks
 
-1. **The Stand He Will Not Fell** – A shipwright with a keel to lay wants a stand of old oak that Thálrik has license to cut and refuses to. He will pay anyone who can persuade him, or anyone who will fell it in his place.
+1. **The Stand He Will Not Fell**—A shipwright with a keel to lay wants a stand of old oak that Thálrik has license to cut and refuses to. He will pay anyone who can persuade him, or anyone who will fell it in his place.
 
-2. **The Line** – A crew from up the coast has been cutting past the line into Warden country and hauling the timber out through Thálrik's slopes. They want his silence, and they are prepared to pay for it or arrange it.
+2. **The Line**—A crew from up the coast has been cutting past the line into Warden country and hauling the timber out through Thálrik's slopes. They want his silence, and they are prepared to pay for it or arrange it.
 
-3. **A License Refused** – The forest court has declined to renew Thálrik's license for the slope he has worked for thirty years, without saying why. Someone with more influence wants that ground.
+3. **A License Refused**—The forest court has declined to renew Thálrik's license for the slope he has worked for thirty years, without saying why. Someone with more influence wants that ground.
 
-4. **Lost in the Wood** – A child from Port Aelion has gone into the wood and not come out. Thálrik is the only man who knows those slopes well enough to search them in the dark, and the only one the family has not thought to ask.
+4. **Lost in the Wood**—A child from Port Aelion has gone into the wood and not come out. Thálrik is the only man who knows those slopes well enough to search them in the dark, and the only one the family has not thought to ask.

@@ -42,9 +42,9 @@ As the battle raged on, Hazarak’s forces began to gain the upper hand, pushing
 
 ### **The Maul’s Disappearance**
 
-After Hazarak’s fall, the battle did not end cleanly. Both sides were devastated, and the bloodied fields became the final resting place of countless warriors. The maul, now abandoned, was sought after by both Black Flame cultists and the Forge faithful, but a sudden violent storm – a phenomenon some claimed was caused by the Black Flame itself – forced both sides to retreat, leaving the battlefield strewn with bodies and the sacred relic lost.
+After Hazarak’s fall, the battle did not end cleanly. Both sides were devastated, and the bloodied fields became the final resting place of countless warriors. The maul, now abandoned, was sought after by both Black Flame cultists and the Forge faithful, but a sudden violent storm—a phenomenon some claimed was caused by the Black Flame itself—forced both sides to retreat, leaving the battlefield strewn with bodies and the sacred relic lost.
 
-For years after the battle, the area became known as the **Blood Hills**, and few dared to approach the cursed land. Legends grew about spirits wandering the battlefield, and those brave enough to venture into the hills reported seeing flickers of light – like embers in the dark – where the maul was thought to have been lost.
+For years after the battle, the area became known as the **Blood Hills**, and few dared to approach the cursed land. Legends grew about spirits wandering the battlefield, and those brave enough to venture into the hills reported seeing flickers of light—like embers in the dark—where the maul was thought to have been lost.
 
 ### **The Cave and the Traps**
 

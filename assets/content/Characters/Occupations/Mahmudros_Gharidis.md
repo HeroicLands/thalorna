@@ -594,12 +594,12 @@ Few; his peers respect him, but some younger craftsmen see him as old-fashioned.
 
 ## Plot Hooks
 
-1. **The Hideworker's Dilemma** – A merchant offers Maḥmûdrós a large order on condition that he use a quicker tanning method he does not trust.
+1. **The Hideworker's Dilemma**—A merchant offers Maḥmûdrós a large order on condition that he use a quicker tanning method he does not trust.
 
-2. **Old Grudges** – A younger craftsman who calls Maḥmûdrós old-fashioned begins taking his customers with cheaper, faster work.
+2. **Old Grudges**—A younger craftsman who calls Maḥmûdrós old-fashioned begins taking his customers with cheaper, faster work.
 
-3. **Echoes of the Past** – A suit of armor Maḥmûdrós made decades ago comes back to his shop, and the man wearing it is not the one he made it for.
+3. **Echoes of the Past**—A suit of armor Maḥmûdrós made decades ago comes back to his shop, and the man wearing it is not the one he made it for.
 
-4. **Shifting Winds** – Political change in Heliónis threatens the trade Maḥmûdrós depends upon, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Heliónis threatens the trade Maḥmûdrós depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity** – Maḥmûdrós is offered the leatherwork for a whole company of warriors, and its price is not named up front.
+5. **The Opportunity**—Maḥmûdrós is offered the leatherwork for a whole company of warriors, and its price is not named up front.

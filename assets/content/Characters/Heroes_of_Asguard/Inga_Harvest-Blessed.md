@@ -521,7 +521,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Inga stands 5'7" with a sturdy, strong-limbed frame, weighing about 165 pounds. Her fair skin is sun-darkened and freckled across the nose and cheeks, and her dark blonde hair is kept in a practical braid wound around her head to keep it out of her way while working. Her brown eyes are shrewd and appraising, the eyes of a woman who judges people by what they produce. Her features are plain and honest, with a round face, a snub nose, a firm chin, full lips, and sun-bleached brows. Her forearms are strong and brown from fieldwork, and her calloused hands are rarely idle. Inga dresses in practical homespun – a linen tunic, a heavy apron, leather shoes worn thin at the soles – with dried herbs hanging from her belt, filling the air around her with the scent of lavender and thyme. She carries a pruning knife and a leather pouch of seeds as naturally as a warrior carries a sword.
+Inga stands 5'7" with a sturdy, strong-limbed frame, weighing about 165 pounds. Her fair skin is sun-darkened and freckled across the nose and cheeks, and her dark blonde hair is kept in a practical braid wound around her head to keep it out of her way while working. Her brown eyes are shrewd and appraising, the eyes of a woman who judges people by what they produce. Her features are plain and honest, with a round face, a snub nose, a firm chin, full lips, and sun-bleached brows. Her forearms are strong and brown from fieldwork, and her calloused hands are rarely idle. Inga dresses in practical homespun—a linen tunic, a heavy apron, leather shoes worn thin at the soles—with dried herbs hanging from her belt, filling the air around her with the scent of lavender and thyme. She carries a pruning knife and a leather pouch of seeds as naturally as a warrior carries a sword.
 
 # Dossier {#dossier}
 
@@ -549,20 +549,20 @@ Inga's agricultural knowledge combines practical expertise with divine blessing;
 
 ### Patrons
 
-**The Standing Stones of Hjartaland** – This sacred site and its keepers provide Inga with spiritual power and a place to perform her most important rituals.
+**The Standing Stones of Hjartaland**—This sacred site and its keepers provide Inga with spiritual power and a place to perform her most important rituals.
 
-**The Northern Farmers' Alliance** – A cooperative of farming communities that funds Inga's travels and implements her agricultural innovations across their lands.
+**The Northern Farmers' Alliance**—A cooperative of farming communities that funds Inga's travels and implements her agricultural innovations across their lands.
 
 ### Enemies
 
-**The Blight-Bringer** – A mysterious entity or person responsible for the increasing frequency of crop failures across the north. Inga has been investigating and is getting dangerously close to the truth.
+**The Blight-Bringer**—A mysterious entity or person responsible for the increasing frequency of crop failures across the north. Inga has been investigating and is getting dangerously close to the truth.
 
-**Jarl Grimbeard's Tax Collectors** – A lord who imposes crushing taxes on the villages Inga serves, deliberately keeping them dependent and hungry. He views Inga's efforts to improve their harvests as a threat to his control.
+**Jarl Grimbeard's Tax Collectors**—A lord who imposes crushing taxes on the villages Inga serves, deliberately keeping them dependent and hungry. He views Inga's efforts to improve their harvests as a threat to his control.
 
 ## Plot Hooks
 
-1. **The Poisoned Harvest** – A village's entire harvest has been tainted with a magical poison that causes madness in those who eat it. Inga must find the source and a cure before the stored grain runs out and starvation sets in.
+1. **The Poisoned Harvest**—A village's entire harvest has been tainted with a magical poison that causes madness in those who eat it. Inga must find the source and a cure before the stored grain runs out and starvation sets in.
 
-2. **The Famine War** – Two starving settlements are on the verge of war over a limited food supply. Inga must find a way to feed both communities before violence erupts.
+2. **The Famine War**—Two starving settlements are on the verge of war over a limited food supply. Inga must find a way to feed both communities before violence erupts.
 
-3. **The Blight's Source** – Inga has finally traced the spreading crop failures to their origin: a corrupted ley line deep underground. Reaching it will require delving into ancient tunnels that are home to something far worse than blight.
+3. **The Blight's Source**—Inga has finally traced the spreading crop failures to their origin: a corrupted ley line deep underground. Reaching it will require delving into ancient tunnels that are home to something far worse than blight.

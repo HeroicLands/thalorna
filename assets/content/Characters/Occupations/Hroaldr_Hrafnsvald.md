@@ -593,12 +593,12 @@ Few; generally respected within the industry.
 
 ## Plot Hooks
 
-1. **The Jeweler's Dilemma** – A noble brings Hróaldr a stone he recognizes as stolen, and he has to choose between the client and the truth.
+1. **The Jeweler's Dilemma**—A noble brings Hróaldr a stone he recognizes as stolen, and he has to choose between the client and the truth.
 
-2. **Old Grudges** – One of the few in the trade who do not respect him decides to do something about it.
+2. **Old Grudges**—One of the few in the trade who do not respect him decides to do something about it.
 
-3. **Echoes of the Past** – A piece Hróaldr made early in his trade resurfaces in the wrong hands.
+3. **Echoes of the Past**—A piece Hróaldr made early in his trade resurfaces in the wrong hands.
 
-4. **Shifting Winds** – Political change in Nordheim threatens the custom Hróaldr's shop depends upon, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Nordheim threatens the custom Hróaldr's shop depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity** – A noble commission comes to Hróaldr beyond anything his shop has handled, and its price is not named up front.
+5. **The Opportunity**—A noble commission comes to Hróaldr beyond anything his shop has handled, and its price is not named up front.

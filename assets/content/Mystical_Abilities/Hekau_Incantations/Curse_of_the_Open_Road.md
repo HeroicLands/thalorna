@@ -24,7 +24,7 @@ packFolder: hekauincantations
 ---
 
 The classic threshold-curse, and the form most often found on tombs by people who were not
-supposed to be reading it. It is not lethal and does not compel; it degrades – the rope frays, the
+supposed to be reading it. It is not lethal and does not compel; it degrades—the rope frays, the
 ford is deeper than it was, the letter arrives after the decision. Its proscription is absolute
 regardless, because a curse laid is a curse that runs until it is found and lifted, and finding
 one requires a practitioner who knows how it was laid.

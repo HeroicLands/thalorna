@@ -1,7 +1,7 @@
 ---
 tags:
   - polity
-description: Isthmus of volcanic gateways and coastal city-states – the liminal trade corridor binding the K'ich'chik north to the south.
+description: Isthmus of volcanic gateways and coastal city-states—the liminal trade corridor binding the K'ich'chik north to the south.
 name:
   full: Ki'ik Ba'ate
   aliases: []
@@ -40,7 +40,7 @@ data:
         title: Craftsman
         lore: journeymanrnk
         description: >-
-          Of the skilled trades – potters, weavers, feather-workers, stone-cutters – attached
+          Of the skilled trades—potters, weavers, feather-workers, stone-cutters—attached
           to a lord's household or a temple.
       - level: 4
         title: Warrior
@@ -89,7 +89,7 @@ data:
       Ah Kulel: Deputy and herald of a lord, who carries his word and is answered as if it
         were his.
       Ah Ppolom: >-
-        Master merchant of the long-distance trade in cacao, salt, obsidian and jade – and
+        Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and
         a lord's eyes abroad.
       Ballcourt Keeper: >-
         Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice
@@ -113,13 +113,13 @@ packFolder: kiikbaate
 
 Ki'ik Ba'ate holds the land of [[place-kiikbaatergn|Ki'ik Ba'ate Region]]. Ki'ik Ba'ate is neither fully of the north nor of the south; it exists in the liminal space between the tightly organized hierarchies of [[affiliation-balamkul|Balamkul]] and [[affiliation-kankul|K'ankul]] and the more fragmented, diverse cultures that flourish beyond the reach of the K'ul Tq'an's authority.
 
-Culturally and politically, Ki'ik Ba'ate is a realm of synthesis and contestation. Highland K'ich'chik traditions blend here with coastal practices and with the distinct cultures of tropical forest peoples who have only partially adopted the [[affiliation-itzanpnthn|Itzáni]] faith. The greatest city-states of Ki'ik Ba'ate maintain the forms of Itzáni orthodoxy – pyramids, vigesimal mathematics, the 260-day ritual calendar, ritual warfare – but with a distinctly local flavor. The K'inmah of Ki'ik Ba'ate are often characteristically independent-minded, chafing at the demands of tributary status while remaining too wealthy and too strategically important to be conquered outright by northern powers.
+Culturally and politically, Ki'ik Ba'ate is a realm of synthesis and contestation. Highland K'ich'chik traditions blend here with coastal practices and with the distinct cultures of tropical forest peoples who have only partially adopted the [[affiliation-itzanpnthn|Itzáni]] faith. The greatest city-states of Ki'ik Ba'ate maintain the forms of Itzáni orthodoxy—pyramids, vigesimal mathematics, the 260-day ritual calendar, ritual warfare—but with a distinctly local flavor. The K'inmah of Ki'ik Ba'ate are often characteristically independent-minded, chafing at the demands of tributary status while remaining too wealthy and too strategically important to be conquered outright by northern powers.
 
 ## City-States and Realms
 
-The political landscape of Ki'ik Ba'ate is characterized by what northern scholars disdainfully call "the Fragment Realms" – a patchwork of competing city-states, mountain kingdoms, and coastal confederacies. Some, like Quirigua and Copan, maintain the full ceremonial apparatus of the [[affiliation-itzanpnthn|Itzáni]] faith and send regular tribute to Balamkul. Others, particularly the coastal cities and the highland kingdoms of the interior, maintain a more loosely affiliated relationship with northern orthodoxy, blending Itzáni practices with local traditions and reserving the right to conduct their own negotiations with their own gods.
+The political landscape of Ki'ik Ba'ate is characterized by what northern scholars disdainfully call "the Fragment Realms"—a patchwork of competing city-states, mountain kingdoms, and coastal confederacies. Some, like Quirigua and Copan, maintain the full ceremonial apparatus of the [[affiliation-itzanpnthn|Itzáni]] faith and send regular tribute to Balamkul. Others, particularly the coastal cities and the highland kingdoms of the interior, maintain a more loosely affiliated relationship with northern orthodoxy, blending Itzáni practices with local traditions and reserving the right to conduct their own negotiations with their own gods.
 
-The Ch'um Ix'lan maintains a presence in Ki'ik Ba'ate, though the relay network here reflects the region's fragmented politics. Messages from [[affiliation-balamkul|Balamkul]] reach the major Ki'ik Ba'ate city-states in two to three days, but the priesthood-controlled way-stations are fewer and more widely spaced than in the heartland. The independent-minded K'inmah of Ki'ik Ba'ate have occasionally attempted to establish their own messenger networks outside priestly authority – efforts that the Itzáni have always suppressed with swift and pointed reminders of who controls the Speaking Road.
+The Ch'um Ix'lan maintains a presence in Ki'ik Ba'ate, though the relay network here reflects the region's fragmented politics. Messages from [[affiliation-balamkul|Balamkul]] reach the major Ki'ik Ba'ate city-states in two to three days, but the priesthood-controlled way-stations are fewer and more widely spaced than in the heartland. The independent-minded K'inmah of Ki'ik Ba'ate have occasionally attempted to establish their own messenger networks outside priestly authority—efforts that the Itzáni have always suppressed with swift and pointed reminders of who controls the Speaking Road.
 
 This fragmentation is both weakness and strength. Ki'ik Ba'ate cannot field the unified armies or match the population of Balamkul, nor does it possess the concentrated mercantile or intellectual power of K'ankul. Yet it is far more resilient against external domination than its small size might suggest. The terrain is too complex for an invading army to occupy; the sea routes cannot be entirely blockaded; and the numerous independent city-states can call upon one another for mutual defense without submitting to permanent rule by any single power.
 
@@ -129,8 +129,8 @@ Yet Ki'ik Ba'ate's merchants remain acutely aware of their vulnerability. The gr
 
 ## See Also
 
-- [[affiliation-balamkul|Balamkul]] – The paramount northern realm, toward which Ki'ik Ba'ate maintains ambivalent tributary relations
-- [[affiliation-kankul|K'ankul]] – The eastern lowlands connected to Ki'ik Ba'ate via both land and maritime routes
-- [[affiliation-tzikin|Tz'ikin]] – The eastern frontier accessed through Ki'ik Ba'ate's southern routes
-- [[affiliation-itzanpnthn|Itzáni Pantheon]] – The religious framework that shapes Ki'ik Ba'ate's identity while remaining a point of local variation
-- [[place-kiikbaatergn|Ki'ik Ba'ate Region]] – The land Ki'ik Ba'ate holds
+- [[affiliation-balamkul|Balamkul]]—The paramount northern realm, toward which Ki'ik Ba'ate maintains ambivalent tributary relations
+- [[affiliation-kankul|K'ankul]]—The eastern lowlands connected to Ki'ik Ba'ate via both land and maritime routes
+- [[affiliation-tzikin|Tz'ikin]]—The eastern frontier accessed through Ki'ik Ba'ate's southern routes
+- [[affiliation-itzanpnthn|Itzáni Pantheon]]—The religious framework that shapes Ki'ik Ba'ate's identity while remaining a point of local variation
+- [[place-kiikbaatergn|Ki'ik Ba'ate Region]]—The land Ki'ik Ba'ate holds

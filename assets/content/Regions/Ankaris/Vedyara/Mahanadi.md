@@ -3,7 +3,7 @@ tags:
   - river
   - pilgrimage
   - inland
-description: "The great central river – the longest, the most populous, the one whose channel has moved and taken a capital with it, and the one the Mela is held on."
+description: "The great central river—the longest, the most populous, the one whose channel has moved and taken a capital with it, and the one the Mela is held on."
 type: place
 subType: feature
 data:

@@ -1,7 +1,7 @@
 ---
 tags:
   - region
-description: "The land of the Free Territory of Eskárath – the highlands along Tarvénia's northern border with Élavendre, home to a people older than the Tarvéni migration."
+description: "The land of the Free Territory of Eskárath—the highlands along Tarvénia's northern border with Élavendre, home to a people older than the Tarvéni migration."
 name:
   full: Eskárath
   aliases: []
@@ -26,6 +26,6 @@ Eskárath is the highland territory along Tarvénia's northern border with [[pla
 
 ## See Also
 
-- [[affiliation-frtrtryskrth|Free Territory of Eskárath]] – The Free Territory that holds this land
-- [[place-tarvenirgn|Tarvénia Region]] – The enclosing region
-- [[place-elavendre|Élavendre]] – Northern neighbor
+- [[affiliation-frtrtryskrth|Free Territory of Eskárath]]—The Free Territory that holds this land
+- [[place-tarvenirgn|Tarvénia Region]]—The enclosing region
+- [[place-elavendre|Élavendre]]—Northern neighbor

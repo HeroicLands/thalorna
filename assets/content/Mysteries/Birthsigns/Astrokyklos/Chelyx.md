@@ -44,10 +44,10 @@ Chelyx, the Tortoise, shields its children with method and craft. They excel in 
 
 | Element | Skills it claims          | EML |
 | ------- | ------------------------- | --- |
-| Earth   | Nature                    | –   |
+| Earth   | Nature                    | —   |
 | Metal   | Craft, Script             | +10 |
 | Fire    | Combat, Combat Techniques | +10 |
-| Air     | Physical                  | –   |
+| Air     | Physical                  | —   |
 | Spirit  | Lore, Mystical            | −10 |
 | Water   | Language, Social          | −10 |
 

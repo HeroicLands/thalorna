@@ -549,20 +549,20 @@ Thora's healing abilities are extraordinary, combining deep knowledge of herblor
 
 ### Patrons
 
-**The Temple of Fréyr at Blómstjarna** – The temple at the sacred mountain considers Thora their most gifted healer and provides her with supplies, training, and access to their most closely guarded healing knowledge.
+**The Temple of Fréyr at Blómstjarna**—The temple at the sacred mountain considers Thora their most gifted healer and provides her with supplies, training, and access to their most closely guarded healing knowledge.
 
-**The Widows' Circle** – An informal network of women across the northern settlements who have lost family to war. They shelter and supply Thora during her travels in exchange for her healing services.
+**The Widows' Circle**—An informal network of women across the northern settlements who have lost family to war. They shelter and supply Thora during her travels in exchange for her healing services.
 
 ### Enemies
 
-**Mörkvidr the Deathmage** – The necromancer views Thora's healing power as a direct threat to his Helspawn legions and has specifically targeted her for destruction.
+**Mörkvidr the Deathmage**—The necromancer views Thora's healing power as a direct threat to his Helspawn legions and has specifically targeted her for destruction.
 
-**The Blood Cult of Súrtr** – An extremist faction within Súrtr's faith that believes healing the land prevents the necessary purification by fire. They consider Thora a heretic against the natural order.
+**The Blood Cult of Súrtr**—An extremist faction within Súrtr's faith that believes healing the land prevents the necessary purification by fire. They consider Thora a heretic against the natural order.
 
 ## Plot Hooks
 
-1. **The Plague Bearer** – A mysterious illness is spreading through the northern settlements, and Thora's healing powers are the only thing slowing its advance. The disease has an unnatural origin, and tracking it to its source will require venturing into dangerous territory.
+1. **The Plague Bearer**—A mysterious illness is spreading through the northern settlements, and Thora's healing powers are the only thing slowing its advance. The disease has an unnatural origin, and tracking it to its source will require venturing into dangerous territory.
 
-2. **The Corrupted Waters** – The sacred waters of Blómstjarna have been poisoned, and the temple's healing power is fading. Thora must ascend the mountain again and confront whatever force has tainted the source.
+2. **The Corrupted Waters**—The sacred waters of Blómstjarna have been poisoned, and the temple's healing power is fading. Thora must ascend the mountain again and confront whatever force has tainted the source.
 
-3. **The Healer's Dilemma** – A notorious war criminal lies dying, and only Thora can save him. Healing him would infuriate his many victims; letting him die would betray her oath as a healer. The situation is further complicated by what the criminal knows about an impending attack.
+3. **The Healer's Dilemma**—A notorious war criminal lies dying, and only Thora can save him. Healing him would infuriate his many victims; letting him die would betray her oath as a healer. The situation is further complicated by what the criminal knows about an impending attack.

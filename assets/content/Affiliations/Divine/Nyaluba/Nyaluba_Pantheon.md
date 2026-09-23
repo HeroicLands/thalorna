@@ -3,7 +3,7 @@ tags:
   - nyaluba
   - religion
   - totemic
-description: "The shamanic tradition of the Nyáluba Tribal Nation – one unvenerated source, many venerated spirit guides, five clan totems, and a council of shamans in place of any priesthood."
+description: "The shamanic tradition of the Nyáluba Tribal Nation—one unvenerated source, many venerated spirit guides, five clan totems, and a council of shamans in place of any priesthood."
 name:
   full: Nyáluba Pantheon
   aliases:
@@ -35,7 +35,7 @@ data:
         lore: catechumenrnk
         description: >-
           Living under the observances, the totem law and the clan's pacts without having
-          entered the tradition – most of the people, most of the time.
+          entered the tradition—most of the people, most of the time.
       - level: 2
         title: Initiate
         lore: initiaternk
@@ -46,7 +46,7 @@ data:
         title: Spirit-Speaker
         lore: sprtspkrrnk
         description: >-
-          The mwalimu wa roho – permitted to perceive, address and negotiate with the spirits on
+          The mwalimu wa roho—permitted to perceive, address and negotiate with the spirits on
           the clan's behalf, and answerable for what is asked of them.
       - level: 4
         title: Elder Shaman
@@ -56,13 +56,13 @@ data:
           the greater weight in what the younger Spirit-Speakers dispute.
     offices:
       Griot: >-
-        Keeper of the genealogies, the standing pacts and the memory-songs – a people who do not
+        Keeper of the genealogies, the standing pacts and the memory-songs—a people who do not
         write keep their whole record in this office.
       Drum-Speaker: >-
         Carries word across the drum-network, and keeps the ceremonial drumming without which
         the rites do not begin.
       Mwalimu wa Roho: >-
-        "Teacher of the spirit" – the Spirit-Speaker who addresses the spirits for the clan and
+        "Teacher of the spirit"—the Spirit-Speaker who addresses the spirits for the clan and
         reports what they answer.
       Elder Shaman: >-
         Of the council whose judgment settles what the younger Spirit-Speakers dispute; the
@@ -109,8 +109,8 @@ Brightness, from which all spirits emerged and into which all will return. It re
 No offering is made to it, no song is sung to it, and no shrine houses it. It is acknowledged,
 not venerated.
 
-Beneath it are the **[[lore-nyalbsprts|spirit guides]]** – totem, land, water, hunt, weather,
-ancestor and hearth – and it is the guides, not the source, that religious life is directed at.
+Beneath it are the **[[lore-nyalbsprts|spirit guides]]**—totem, land, water, hunt, weather,
+ancestor and hearth—and it is the guides, not the source, that religious life is directed at.
 Each is **venerated, appeased, or warded against** according to its character. Every clan holds
 standing pacts with the guides whose territory or lineage overlaps its own.
 
@@ -135,7 +135,7 @@ border between the living and the dead.
 | Bombwe  | Baobab    | settled water-districts      | [[affiliation-nyalbbaob\|Baobab Totem]]    |
 
 Totem law reaches far beyond religion. Marriage, diet, hunting rights, ritual obligation, the
-greeting of strangers, the salute of a chief, the bearing proper at a feast – all are shaped by
+greeting of strangers, the salute of a chief, the bearing proper at a feast—all are shaped by
 totem. Two of the same totem do not marry, and the prohibitions extend in complex patterns across
 allied totems. Totem law is the framework of Nyáluba kinship, and kinship is the framework of
 Nyáluba society.
@@ -149,18 +149,18 @@ crossings and kin-lines without any cult at all.
 The Nyáluba have no equivalent of an Aurèldían priest, and no rank above the council. Religious
 function is distributed across four roles, and individuals commonly hold more than one.
 
-- **Griots** – keepers of the spoken tradition: the genealogies, the lineages of the totems, the
+- **Griots**—keepers of the spoken tradition: the genealogies, the lineages of the totems, the
   standing pacts, and the songs that mark every significant occasion. A people who do not write
   keep their entire record in this office.
-- **Drum-speakers** – trained in the long-distance drum register of the
+- **Drum-speakers**—trained in the long-distance drum register of the
   [[skill-nyalbnlng|Nyáluban tongue]]. They call a clan to assembly, summon a distant shaman, and
   carry announcement across many miles; in religious life they keep the ceremonial drumming
   without which the rites do not begin.
-- **Spirit-Speakers** (_mwalimu wa roho_, "teachers of the spirit") – those taken through the
+- **Spirit-Speakers** (_mwalimu wa roho_, "teachers of the spirit")—those taken through the
   ordeal and trained to perceive, address and negotiate with the guides on the clan's behalf.
   Each allied guide is met through its own discipline; the Lion is not addressed as the Crocodile
   is.
-- **Elder Shamans** – long-practiced Spirit-Speakers who teach initiates and sit on the council.
+- **Elder Shamans**—long-practiced Spirit-Speakers who teach initiates and sit on the council.
 
 There is no hierarch and no single voice. Where the tradition must decide something, a council of
 Spirit-Speakers and Elder Shamans decides it, the elders' word carrying the greater weight, and
@@ -171,13 +171,13 @@ religious one.
 ### Relationship to Other Faiths
 
 Northern contact with the Okháric worship of [[affiliation-nkaruthar|Nkaru'thar]] has produced
-overlaps in the vocabulary of shamanism – the Spirit Hunt, the _mwalimu wa roho_, the
-Ashmark-adjacent purification rites – but the foundations differ. Where the Okháric faith centers
+overlaps in the vocabulary of shamanism—the Spirit Hunt, the _mwalimu wa roho_, the
+Ashmark-adjacent purification rites—but the foundations differ. Where the Okháric faith centers
 on a singular Eternal Flame whose aspects the city-states embody, the Nyáluba Way is plural,
 lineage-bound, and oriented to the specific territory of each clan.
 
-Contact with the major Ankarian pantheons – [[affiliation-kemtnpnthn|Kemetían]] solar worship to
-the north, the [[affiliation-arldnpnthn|Aurèldían]] faith of the western trade cities – has
+Contact with the major Ankarian pantheons—[[affiliation-kemtnpnthn|Kemetían]] solar worship to
+the north, the [[affiliation-arldnpnthn|Aurèldían]] faith of the western trade cities—has
 produced no syncretism. Nyáluba traders conduct themselves respectfully in foreign temples as
 courtesy demands, but do not take foreign gods into their own religious life. Those gods are
 understood as the spirits of other peoples, bound to other lands.
@@ -189,10 +189,10 @@ coherent of the documented forms.
 
 ### See Also
 
-- [[lore-nyalbsprts|Nyáluba Spirits]] – the guides, the seven kinds, the three postures, the pacts
-- [[lore-mwangadty|Mwánga-Kúbwa]] – the source, which is acknowledged and never venerated
-- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] – the five clans whose faith this is
-- [[skill-nyalbnlng|Nyáluban]] – the language of its songs, drums and oral tradition
-- [[affiliation-nkaruthar|Nkaru'thar]] – the Okháric Eternal Flame, kin-tradition to its shamanic line
-- [[affiliation-firstgods|The First Gods]] – the Áelendan pantheon whose Kindred most closely parallel the guides
-- [[lore-pnthnrgnlmp|Pantheon Regional Map]] – regional index of pantheons
+- [[lore-nyalbsprts|Nyáluba Spirits]]—the guides, the seven kinds, the three postures, the pacts
+- [[lore-mwangadty|Mwánga-Kúbwa]]—the source, which is acknowledged and never venerated
+- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the five clans whose faith this is
+- [[skill-nyalbnlng|Nyáluban]]—the language of its songs, drums and oral tradition
+- [[affiliation-nkaruthar|Nkaru'thar]]—the Okháric Eternal Flame, kin-tradition to its shamanic line
+- [[affiliation-firstgods|The First Gods]]—the Áelendan pantheon whose Kindred most closely parallel the guides
+- [[lore-pnthnrgnlmp|Pantheon Regional Map]]—regional index of pantheons

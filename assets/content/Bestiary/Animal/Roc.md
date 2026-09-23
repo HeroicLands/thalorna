@@ -374,7 +374,7 @@ sohl:
 
 ![[roc|Roc]]{float: top-left}
 
-The shadow falls first – a darkness that swallows the sun, impossibly vast, and you realize too late what it means. The sound arrives moments after, a shriek that seems to split the sky itself, a cry of hunger and territorial claim that makes your bones vibrate. Then you see it: a creature so enormous the eye struggles to contain it, wings spanning hundreds of feet, their undersides catching light in patterns of bronze and gold that seem to shift with each stroke. The talons are visible even at this distance – curved, dark, each one the size of a man's leg. The beak, hooked and cruel, opens as the creature circles, and you understand with perfect clarity that you are being assessed as a meal.
+The shadow falls first—a darkness that swallows the sun, impossibly vast, and you realize too late what it means. The sound arrives moments after, a shriek that seems to split the sky itself, a cry of hunger and territorial claim that makes your bones vibrate. Then you see it: a creature so enormous the eye struggles to contain it, wings spanning hundreds of feet, their undersides catching light in patterns of bronze and gold that seem to shift with each stroke. The talons are visible even at this distance—curved, dark, each one the size of a man's leg. The beak, hooked and cruel, opens as the creature circles, and you understand with perfect clarity that you are being assessed as a meal.
 
 # Dossier {#dossier}
 
@@ -382,7 +382,7 @@ The Roc is an impossibly massive bird of prey, with a wingspan exceeding 100 fee
 
 ## Presentation
 
-The Roc is a creature of overwhelming scale and predatory majesty. The body is covered in feathers that range from dark brown to golden-bronze, often with fine patterning that aids in camouflage across rocky terrain when the bird is at rest. The wings are proportionally huge, muscular, and capable of generating the lift necessary to carry a fully loaded merchant wagon airborne. The head is fearsome – a massive skull housing an intelligent brain, with forward-facing eyes set for binocular vision, and a hooked beak large enough to shear off a tree limb or pierce armor. The talons are as thick as a man's arm and equipped with curved claws the length of swords. The legs are muscular and thick, built to grip and support the creature's tremendous weight.
+The Roc is a creature of overwhelming scale and predatory majesty. The body is covered in feathers that range from dark brown to golden-bronze, often with fine patterning that aids in camouflage across rocky terrain when the bird is at rest. The wings are proportionally huge, muscular, and capable of generating the lift necessary to carry a fully loaded merchant wagon airborne. The head is fearsome—a massive skull housing an intelligent brain, with forward-facing eyes set for binocular vision, and a hooked beak large enough to shear off a tree limb or pierce armor. The talons are as thick as a man's arm and equipped with curved claws the length of swords. The legs are muscular and thick, built to grip and support the creature's tremendous weight.
 
 ## Key Behaviors
 
@@ -390,7 +390,7 @@ Rocs are solitary and fiercely territorial, with individual birds maintaining hu
 
 ## Combat Strategy
 
-The roc's dominance in the air is absolute, and it uses that advantage ruthlessly. It attacks from altitude, diving with overwhelming speed and force, attempting to seize prey with its talons and lift them skyward where it can finish them at leisure or carry them to its nest. If forced to land or engage on the ground, the roc becomes somewhat less dominant but remains extraordinarily dangerous. It uses its beak and talons with devastating effect, and its size advantage means it can easily overpower anything short of a much larger creature or a group of well-organized opponents. The roc will never retreat unless mortally wounded – its size and dominance mean it has no natural predators and no experience with defeat.
+The roc's dominance in the air is absolute, and it uses that advantage ruthlessly. It attacks from altitude, diving with overwhelming speed and force, attempting to seize prey with its talons and lift them skyward where it can finish them at leisure or carry them to its nest. If forced to land or engage on the ground, the roc becomes somewhat less dominant but remains extraordinarily dangerous. It uses its beak and talons with devastating effect, and its size advantage means it can easily overpower anything short of a much larger creature or a group of well-organized opponents. The roc will never retreat unless mortally wounded—its size and dominance mean it has no natural predators and no experience with defeat.
 
 ## Attack Methods
 
@@ -426,7 +426,7 @@ The roc's eyesight is extraordinarily acute, allowing it to spot movement from a
 
 ### Impenetrable Plumage
 
-The roc's feathers are dense, overlapping, and incredibly tough – they protect it like armor against most conventional weapons and shelter it from weather in any condition.
+The roc's feathers are dense, overlapping, and incredibly tough—they protect it like armor against most conventional weapons and shelter it from weather in any condition.
 
 ### Regenerative Capability
 
@@ -434,7 +434,7 @@ While not magical, the roc's body heals fast, allowing it to recover from wounds
 
 ### Additional Information
 
-Rocs are rare enough that many take them for myth. The presence of a roc in a region effectively closes that territory to normal settlement and trade – the loss of livestock and people becomes unsustainable. Rocs can live for centuries and create strong impressions of themselves in local culture and folklore. A roc keeps the large prey animals of a vast territory in check.
+Rocs are rare enough that many take them for myth. The presence of a roc in a region effectively closes that territory to normal settlement and trade—the loss of livestock and people becomes unsustainable. Rocs can live for centuries and create strong impressions of themselves in local culture and folklore. A roc keeps the large prey animals of a vast territory in check.
 
 ## Attributes
 

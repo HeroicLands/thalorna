@@ -592,10 +592,10 @@ A younger master of the collegium who lays reed the Hylen way, faster and cheape
 
 ## Plot Hooks
 
-1. **The Stores Roof** – The garrison's grain store has lost its roof in a gale a month before the legion marches, and the quartermaster needs it thatched in a week. Hàrêkôs cannot do that the old way, and the younger master can.
+1. **The Stores Roof**—The garrison's grain store has lost its roof in a gale a month before the legion marches, and the quartermaster needs it thatched in a week. Hàrêkôs cannot do that the old way, and the younger master can.
 
-2. **The Grandson** – The grandson Hàrêkôs has trained longest has gone to the garrison to take the legion's coin, and the recruiting serjeant is a man Hàrêkôs roofed a house for.
+2. **The Grandson**—The grandson Hàrêkôs has trained longest has gone to the garrison to take the legion's coin, and the recruiting serjeant is a man Hàrêkôs roofed a house for.
 
-3. **The Standard** – The collegium votes next session on the Hylen method, and the younger masters have the numbers. If it passes, every roof Hàrêkôs lays after will be laid against the rule.
+3. **The Standard**—The collegium votes next session on the Hylen method, and the younger masters have the numbers. If it passes, every roof Hàrêkôs lays after will be laid against the rule.
 
-4. **The Old Roof** – A roof Hàrêkôs laid forty years ago has come down on a family, and the farmer's son says it was laid badly. Hàrêkôs remembers the roof and the reed, and he does not think it was.
+4. **The Old Roof**—A roof Hàrêkôs laid forty years ago has come down on a family, and the farmer's son says it was laid badly. Hàrêkôs remembers the roof and the reed, and he does not think it was.

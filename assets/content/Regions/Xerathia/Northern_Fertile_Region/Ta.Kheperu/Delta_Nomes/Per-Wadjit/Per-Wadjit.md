@@ -24,7 +24,7 @@ Per-Wadjit is the capital of [[affiliation-nomeprwdjt|the Nome of Per-Wadjit]] a
 
 ## See Also
 
-- [[affiliation-nomeprwdjt|The Nome of Per-Wadjit]] – Parent nome
-- [[affiliation-deltanomes|The Delta Nomes]] – Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview
-- [[affiliation-wadjit|Wadjit]] – Patron cult
+- [[affiliation-nomeprwdjt|The Nome of Per-Wadjit]]—Parent nome
+- [[affiliation-deltanomes|The Delta Nomes]]—Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
+- [[affiliation-wadjit|Wadjit]]—Patron cult

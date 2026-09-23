@@ -591,12 +591,12 @@ Those who find her humor inappropriate or offensive.
 
 ## Plot Hooks
 
-1. **The Fool's Dilemma** – Làgôra faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
+1. **The Fool's Dilemma**—Làgôra faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
 
-2. **Old Grudges** – Those who find her humor inappropriate or offensive. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges**—Those who find her humor inappropriate or offensive. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** – Something from Làgôra's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Làgôra's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds** – Political changes in Vylaria threaten to upend the social order that Làgôra depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Làgôra depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** – A chance encounter offers Làgôra the possibility of advancement beyond anything she has dared hope for – but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Làgôra the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

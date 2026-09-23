@@ -1,7 +1,7 @@
 ---
 tags:
   - region
-description: "The land of the Kingdom of Norgaad – the central Nordmen kingdom of great fjords, mountain passes and the richest iron and silver mines in the north."
+description: "The land of the Kingdom of Norgaad—the central Nordmen kingdom of great fjords, mountain passes and the richest iron and silver mines in the north."
 name:
   full: Norgaad
   aliases: []
@@ -30,6 +30,6 @@ The kingdom's interior is dominated by vast mountain ranges and deep valleys. It
 
 ## See Also
 
-- [[affiliation-kingdmnrgd|Kingdom of Norgaad]] – The kingdom that holds this land
-- [[place-nrdlndsrgn|Nordlands Region]] – The enclosing region
-- [[place-asgarthul|Asgarthul]] – The seat
+- [[affiliation-kingdmnrgd|Kingdom of Norgaad]]—The kingdom that holds this land
+- [[place-nrdlndsrgn|Nordlands Region]]—The enclosing region
+- [[place-asgarthul|Asgarthul]]—The seat

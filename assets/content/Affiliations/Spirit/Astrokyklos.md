@@ -27,7 +27,7 @@ data:
         title: Uninitiated
         lore: catechumenrnk
         description: >-
-          Living under the tradition's observances without having entered it – most of the people,
+          Living under the tradition's observances without having entered it—most of the people,
           most of the time.
       - level: 2
         title: Supplicant
@@ -51,7 +51,7 @@ data:
         title: Vessel
         lore: sprtspkrrnk
         description: >-
-          One the spirit is allowed to enter, in the rites where somebody must be – a standing
+          One the spirit is allowed to enter, in the rites where somebody must be—a standing
           of honor and of considerable risk.
       - level: 6
         title: Elder Shaman

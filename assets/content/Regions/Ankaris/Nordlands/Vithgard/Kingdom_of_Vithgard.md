@@ -1,5 +1,5 @@
 ---
-description: "Northernmost Nordmen kingdom of polar nights, drift-ice coasts, and ivory-walled longhouses – whalers and seal-hunters whose shamanic tradition treats the long dark winter as the season when the worlds touch."
+description: "Northernmost Nordmen kingdom of polar nights, drift-ice coasts, and ivory-walled longhouses—whalers and seal-hunters whose shamanic tradition treats the long dark winter as the season when the worlds touch."
 type: affiliation
 name:
   full: Kingdom of Vithgard
@@ -130,10 +130,10 @@ The kingdom's shamanic traditions are the strongest of any Nordmen realm. The lo
 
 ## Commerce and Currency
 
-Kingdom of Vithgard uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) as its _de facto_ currency for transactions conducted in money – no native coin exists, and no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate in the Nordlands. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[lore-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[lore-kinhalcrdt|hall credit]] customs that have no relationship with the Vylarian banking system.
+Kingdom of Vithgard uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) as its _de facto_ currency for transactions conducted in money—no native coin exists, and no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate in the Nordlands. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[lore-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[lore-kinhalcrdt|hall credit]] customs that have no relationship with the Vylarian banking system.
 
 ## See Also
 
-- [[place-vithgard|Vithgard]] – The land the kingdom holds
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]] – Sister kingdoms
-- [[affiliation-asguardian|Asguardian Pantheon]] – Pantheon
+- [[place-vithgard|Vithgard]]—The land the kingdom holds
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]]—Sister kingdoms
+- [[affiliation-asguardian|Asguardian Pantheon]]—Pantheon

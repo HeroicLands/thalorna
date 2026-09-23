@@ -3,7 +3,7 @@ tags:
   - city
   - port
   - coastal
-description: "The capital of Provènzia on the warm southern shore – the Crown's seat, the home of the Còtière speech, and the city where the long argument between the crown and the Council of Peers is conducted."
+description: "The capital of Provènzia on the warm southern shore—the Crown's seat, the home of the Còtière speech, and the city where the long argument between the crown and the Council of Peers is conducted."
 type: place
 subType: settlement
 data:
@@ -21,7 +21,7 @@ packFolder: provenzia
 
 **Lunacòrte** is the capital of the [[affiliation-kngdmprvnz|Kingdom of Provènzia]] and, with some
 seventy thousand people, its largest city. It stands on the warm southern coast, on the
-[[place-vylarianse|Vylarian Sea]] – a working port as well as a court, which is unusual among the
+[[place-vylarianse|Vylarian Sea]]—a working port as well as a court, which is unusual among the
 capitals of Ankaris and explains a good deal about how Provènzia is governed.
 
 Its speech, **Còtière**, is the prestige dialect of the kingdom: the most standardized form of
@@ -34,8 +34,8 @@ placed instantly.
 Lunacòrte is where the kingdom's central political argument is carried on, and it is not a quiet one.
 The Crown sits here; so does the **Council of Peers**, and the last several decades have been a long
 maneuver between them over prerogative, taxation and appointment. Neither has won. Great houses have
-spent generations positioning themselves in that gap, and cautious ones – like the Kórisvars of
-[[place-fiordaure|Fiòrdaure]] – have spent the same generations keeping their heads down in it.
+spent generations positioning themselves in that gap, and cautious ones—like the Kórisvars of
+[[place-fiordaure|Fiòrdaure]]—have spent the same generations keeping their heads down in it.
 
 Nothing about the contest is revolutionary. It is conducted through offices, marriages, loans and the
 placing of relatives, and its participants would be genuinely shocked to be told they were doing

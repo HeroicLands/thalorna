@@ -477,13 +477,13 @@ sohl:
 
 The mountain itself seems to hold its breath.
 
-The sky ahead is wrong – hazier than it should be, darkened at the edges as if a storm were gathering. But there are no clouds. Instead, the air grows thick with heat and the stench of sulfur, a presence so heavy it presses against your skin like a living thing.
+The sky ahead is wrong—hazier than it should be, darkened at the edges as if a storm were gathering. But there are no clouds. Instead, the air grows thick with heat and the stench of sulfur, a presence so heavy it presses against your skin like a living thing.
 
-Then comes a sound – not a roar but something deeper, a rumble that travels through the stone beneath your feet and shakes loose gravel from the cliffs above. This place belongs to something, and you are trespassing.
+Then comes a sound—not a roar but something deeper, a rumble that travels through the stone beneath your feet and shakes loose gravel from the cliffs above. This place belongs to something, and you are trespassing.
 
-The dragon emerges from the thermal haze, twenty-four feet of it, with wings that span thirty-six feet and catch the light like molten copper. Its scales burn in shades of crimson and gold so vivid they seem almost impossible – patterns that shift in the heat distortion, making the creature seem larger than it truly is. A crown of spines runs down its spine, each one wickedly sharp. Its eyes are ancient despite its relative youth, holding the weight of centuries of prey and conquest.
+The dragon emerges from the thermal haze, twenty-four feet of it, with wings that span thirty-six feet and catch the light like molten copper. Its scales burn in shades of crimson and gold so vivid they seem almost impossible—patterns that shift in the heat distortion, making the creature seem larger than it truly is. A crown of spines runs down its spine, each one wickedly sharp. Its eyes are ancient despite its relative youth, holding the weight of centuries of prey and conquest.
 
-It has not seen you yet. The air around it shimmers and writhes with heat, intense enough to make breathing painful. When it notices you – and it will – there will be no escape.
+It has not seen you yet. The air around it shimmers and writhes with heat, intense enough to make breathing painful. When it notices you—and it will—there will be no escape.
 
 The dragon shifts, and the entire mountain trembles.
 
@@ -493,7 +493,7 @@ The Mature Fire Dragon stands at the apex of dragonkind's power and knowledge. B
 
 Unlike young dragons driven by impulse, a mature fire dragon selects its targets with purpose. It understands economics, geography, and the flow of trade routes. A dragon in this stage of life may control a region through calculated intimidation, burning caravans to keep trade away from its territory or allowing merchants through in exchange for tribute. It remembers favors, debts, and insults with perfect clarity across decades.
 
-Mature fire dragons are territorial but not solitary in nature – they are known to take consorts, though such relationships are fraught with danger. They lay eggs in carefully defended lairs and may actively defend nesting chambers. Some maintain informal arrangements with other creatures, using them as servants or sentries in exchange for protection.
+Mature fire dragons are territorial but not solitary in nature—they are known to take consorts, though such relationships are fraught with danger. They lay eggs in carefully defended lairs and may actively defend nesting chambers. Some maintain informal arrangements with other creatures, using them as servants or sentries in exchange for protection.
 
 These dragons are the basis of regional legends. Kingdoms plan their policies around dragon territory. Military campaigns are rerouted to avoid confirmed sightings. Entire towns have been built with the understanding that they exist at a dragon's sufferance.
 
@@ -517,7 +517,7 @@ Heat radiates from the dragon in visible waves. The ground where it walks is sco
 
 **Culling of Competitors:** The dragon will hunt down and destroy rival predators that threaten its dominance, particularly other dragons. Territorial conflicts between mature dragons are catastrophic regional events.
 
-**Selective Mercy:** Occasionally, a mature dragon will spare a creature to serve a purpose – as a servant, messenger, or tool. Such mercy is never free; there is always a price.
+**Selective Mercy:** Occasionally, a mature dragon will spare a creature to serve a purpose—as a servant, messenger, or tool. Such mercy is never free; there is always a price.
 
 ## Combat Strategy
 
@@ -525,7 +525,7 @@ A mature dragon is a master of predatory tactics. It uses terrain to its advanta
 
 The dragon will attempt to eliminate the most dangerous threats first, identifying spellcasters or heavily armed fighters and focusing fire breath and melee attacks on them. It uses flight to maintain favorable positioning, diving to strike and then climbing rapidly to escape retaliation.
 
-When facing a significant force, the dragon may set fire to the ground and cover to restrict movement and force enemies into vulnerable positions. It is not above retreating if badly hurt, but this retreat is tactical – the dragon will circle around and re-engage from an unexpected angle.
+When facing a significant force, the dragon may set fire to the ground and cover to restrict movement and force enemies into vulnerable positions. It is not above retreating if badly hurt, but this retreat is tactical—the dragon will circle around and re-engage from an unexpected angle.
 
 The mature dragon understands fear and may attempt to break the will of its enemies through displays of overwhelming power, waiting for fear to do half the work before closing in for the kill.
 

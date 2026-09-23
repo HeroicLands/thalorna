@@ -563,19 +563,19 @@ sohl:
 
 ![[shdwstlk|Shadowstalker]]{float: top-left}
 
-You feel it a moment before you see it – a sudden chill down the spine, the prickle of being watched. Then your eyes catch motion in the corner, a shape in shadow that should not move independently of the light that creates it. It is vaguely humanoid but wrong in proportion, with angles too sharp and movements too liquid. Before your mind can quite process what you are seeing, it is no longer there – only the lingering sensation that something predatory measured you and found you wanting.
+You feel it a moment before you see it—a sudden chill down the spine, the prickle of being watched. Then your eyes catch motion in the corner, a shape in shadow that should not move independently of the light that creates it. It is vaguely humanoid but wrong in proportion, with angles too sharp and movements too liquid. Before your mind can quite process what you are seeing, it is no longer there—only the lingering sensation that something predatory measured you and found you wanting.
 
 # Dossier {#dossier}
 
-Shadowstalkers are assassins of the spirit realm – born from murder, shaped by desperation, or occasionally bound into service by dark sorcerers. They are not mindless killers but tactical beings with their own codes and purposes. Some Shadowstalkers hunt specific targets across years; others are bound to a location and strike at any who enter their domain. All share an inhuman talent for moving unseen and striking with lethal precision. Most dangerous is that a Shadowstalker learns – each failed kill attempt teaches it something about its prey.
+Shadowstalkers are assassins of the spirit realm—born from murder, shaped by desperation, or occasionally bound into service by dark sorcerers. They are not mindless killers but tactical beings with their own codes and purposes. Some Shadowstalkers hunt specific targets across years; others are bound to a location and strike at any who enter their domain. All share an inhuman talent for moving unseen and striking with lethal precision. Most dangerous is that a Shadowstalker learns—each failed kill attempt teaches it something about its prey.
 
 ## Presentation
 
-A Shadowstalker is a being of movement rather than form. When partially visible, it appears vaguely humanoid but proportioned for killing – long, thin limbs; compact torso; predatory spine. Its body is composed of darkness made semi-solid, with edges that blur and shift like smoke. Its eyes are the most distinct feature: deep red or burning amber, positioned with unsettling awareness, and clearly intelligent. Where it passes, shadows seem to deepen and cling to it like fabric. It makes almost no sound – even when moving across loose stone or broken glass, the creature seems to muffle the world around it.
+A Shadowstalker is a being of movement rather than form. When partially visible, it appears vaguely humanoid but proportioned for killing—long, thin limbs; compact torso; predatory spine. Its body is composed of darkness made semi-solid, with edges that blur and shift like smoke. Its eyes are the most distinct feature: deep red or burning amber, positioned with unsettling awareness, and clearly intelligent. Where it passes, shadows seem to deepen and cling to it like fabric. It makes almost no sound—even when moving across loose stone or broken glass, the creature seems to muffle the world around it.
 
 ## Key Behaviors
 
-Shadowstalkers are ambush hunters with a preference for isolated victims. They stalk prey for extended periods, learning routines, identifying weaknesses, and timing the best moment for attack. Some Shadowstalkers seem to take pleasure in the hunt itself, drawing it out unnecessarily; others kill quickly and without flourish. They are territorial and will defend their hunting grounds against humans and other Shadowstalkers alike. They seem to understand the concept of mercy – occasionally releasing a victim who appeals to them in some way – but mercy is rare and idiosyncratic.
+Shadowstalkers are ambush hunters with a preference for isolated victims. They stalk prey for extended periods, learning routines, identifying weaknesses, and timing the best moment for attack. Some Shadowstalkers seem to take pleasure in the hunt itself, drawing it out unnecessarily; others kill quickly and without flourish. They are territorial and will defend their hunting grounds against humans and other Shadowstalkers alike. They seem to understand the concept of mercy—occasionally releasing a victim who appeals to them in some way—but mercy is rare and idiosyncratic.
 
 ## Combat Strategy
 
@@ -585,11 +585,11 @@ A Shadowstalker never engages in fair combat if avoidable. It attacks from darkn
 
 ### Shadow Claws
 
-The Shadowstalker extends claws that seem to be formed of living shadow, and they strike with supernatural force. The wounds they leave are grievous but also numbing – victims feel the cold touch of the necrotic energy, as if the wound itself is draining warmth and life. A claw strike leaves a victim weakened and struggling to act decisively.
+The Shadowstalker extends claws that seem to be formed of living shadow, and they strike with supernatural force. The wounds they leave are grievous but also numbing—victims feel the cold touch of the necrotic energy, as if the wound itself is draining warmth and life. A claw strike leaves a victim weakened and struggling to act decisively.
 
 ### Necrotic Dagger Strike
 
-The creature manifests a blade of shadows and bone and strikes with perfect precision at vital targets. These strikes are less about physical damage and more about spiritual harm – victims report feeling as though the blade reached into them, pulling at something fundamental. Multiple strikes can leave a person hollow, unmotivated, barely alive.
+The creature manifests a blade of shadows and bone and strikes with perfect precision at vital targets. These strikes are less about physical damage and more about spiritual harm—victims report feeling as though the blade reached into them, pulling at something fundamental. Multiple strikes can leave a person hollow, unmotivated, barely alive.
 
 ## Special Abilities
 
@@ -615,7 +615,7 @@ The Shadowstalker is resistant to necrotic energy and completely immune to norma
 
 ## Additional Information
 
-Bright light is the key counter to a Shadowstalker. Bright magical light forces the creature into a more material state where normal weapons can harm it effectively. Sacred sites and temples empowered by good-natured faiths are places where Shadowstalkers cannot hide. Some Shadowstalkers can be negotiated with, especially those bound to service rather than driven by hunger. Others are implacable and will pursue a target across the world. The most dangerous Shadowstalkers are those that develop obsessions with particular prey – they become unstoppable until either the prey is dead or the Shadowstalker is destroyed.
+Bright light is the key counter to a Shadowstalker. Bright magical light forces the creature into a more material state where normal weapons can harm it effectively. Sacred sites and temples empowered by good-natured faiths are places where Shadowstalkers cannot hide. Some Shadowstalkers can be negotiated with, especially those bound to service rather than driven by hunger. Others are implacable and will pursue a target across the world. The most dangerous Shadowstalkers are those that develop obsessions with particular prey—they become unstoppable until either the prey is dead or the Shadowstalker is destroyed.
 
 ## Attributes
 

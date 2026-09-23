@@ -5,7 +5,7 @@ name:
   aliases:
     - Tānvüri
     - Tanvuri
-description: "The imperial speech of Tānvür – logographic in script and intricate in morphology, with vernaculars that drift the farther one travels from the capital."
+description: "The imperial speech of Tānvür—logographic in script and intricate in morphology, with vernaculars that drift the farther one travels from the capital."
 shortcode: tanvurlng
 type: skill
 subType: language
@@ -25,7 +25,7 @@ packFolder: language
 
 Tānvüri is a tongue of the Tānvüri family. Fluency measures the sophistication of expression in Tānvüri, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-The Tānvüri language – known natively as **Tānvüri Thëitōk** ("Celestial-Center Speech") – is the common tongue of the [[affiliation-tanvurempr|Empire of Tānvür]] and, in a divergent form, of [[affiliation-jurthatempr|Jürthāt]]. This document provides a pronunciation guide, grammatical overview, and complete vocabulary for the language as it appears in Thalorna's worldbuilding.
+The Tānvüri language—known natively as **Tānvüri Thëitōk** ("Celestial-Center Speech")—is the common tongue of the [[affiliation-tanvurempr|Empire of Tānvür]] and, in a divergent form, of [[affiliation-jurthatempr|Jürthāt]]. This document provides a pronunciation guide, grammatical overview, and complete vocabulary for the language as it appears in Thalorna's worldbuilding.
 
 ---
 
@@ -77,25 +77,25 @@ The Tānvüri language – known natively as **Tānvüri Thëitōk** ("Celestial
 
 Tānvüri has several phonological characteristics that give it an immediately recognizable sound:
 
-**Final consonant stops** – Tānvüri words frequently end in **-k** and **-t**, giving speech a clipped, precise quality. Examples: _thāt_ (mountain), _höt_ (fire), _jīk_ (metal), _vōk_ (court).
+**Final consonant stops**—Tānvüri words frequently end in **-k** and **-t**, giving speech a clipped, precise quality. Examples: _thāt_ (mountain), _höt_ (fire), _jīk_ (metal), _vōk_ (court).
 
-**Initial v-** – The consonant **v** is extremely common in word-initial position: _vōk_ (court), _vān_ (myriad), _vëng_ (wind), _vōr_ (divine).
+**Initial v-**—The consonant **v** is extremely common in word-initial position: _vōk_ (court), _vān_ (myriad), _vëng_ (wind), _vōr_ (divine).
 
-**Initial th-** – The "th" of "thin" is used frequently and is a hallmark of Tānvüri: _thāt_ (mountain), _thëi_ (scholar), _thōk_ (knowledge), _thürk_ (winter).
+**Initial th-**—The "th" of "thin" is used frequently and is a hallmark of Tānvüri: _thāt_ (mountain), _thëi_ (scholar), _thōk_ (knowledge), _thürk_ (winter).
 
-**The vowel ë** – A mid-central schwa that gives Tānvüri its characteristic "muted" quality. It appears in nearly every other morpheme: _tëng_ (heaven), _lëi_ (spirit), _zhëk_ (life).
+**The vowel ë**—A mid-central schwa that gives Tānvüri its characteristic "muted" quality. It appears in nearly every other morpheme: _tëng_ (heaven), _lëi_ (spirit), _zhëk_ (life).
 
-**Final clusters -rt and -rn** – Tānvüri permits consonant clusters at the end of syllables: _vürt_ (five), _hürt_ (tiger), _gürt_ (master).
+**Final clusters -rt and -rn**—Tānvüri permits consonant clusters at the end of syllables: _vürt_ (five), _hürt_ (tiger), _gürt_ (master).
 
 ### Tone Marks
 
 Tānvüri uses diacritical marks on vowels to indicate **vowel length and quality**:
 
-- **Macron (ā, ō, ī)** – Long vowel; slightly higher pitch
-- **Umlaut (ë, ö, ü)** – Modified vowel quality (see vowel table above)
+- **Macron (ā, ō, ī)**—Long vowel; slightly higher pitch
+- **Umlaut (ë, ö, ü)**—Modified vowel quality (see vowel table above)
 - Unmarked vowels are short and neutral in pitch
 
-Tone is not phonemically contrastive in Tānvüri – mispronouncing the length or pitch will sound odd but rarely change meaning. The diacritics serve more as a spelling convention than a strict tonal system.
+Tone is not phonemically contrastive in Tānvüri—mispronouncing the length or pitch will sound odd but rarely change meaning. The diacritics serve more as a spelling convention than a strict tonal system.
 
 ---
 
@@ -113,11 +113,11 @@ Examples:
 
 ### Compounding
 
-The primary word-formation process is **compounding** – combining two or more monosyllabic morphemes into a new word. The first element typically modifies the second:
+The primary word-formation process is **compounding**—combining two or more monosyllabic morphemes into a new word. The first element typically modifies the second:
 
 - _höt_ (fire) + _sëi_ (bureau) > _Höt Sëi_ (Bureau of Fire)
 - _sīk_ (death) + _vōk_ (court) > _Sīkvōk_ (Court of the Dead)
-- _tëit_ (iron) + _jëk_ (blade) > _Tëitjëk_ (Iron Blade – a personal name)
+- _tëit_ (iron) + _jëk_ (blade) > _Tëitjëk_ (Iron Blade—a personal name)
 
 When compounds are written as personal or place names, they are typically joined into a single word: _Tānlüng_, _Vëizhük_, _Rëkgüng_. When they are descriptive titles or institutional names, they are written as separate words: _Tëng Güng_ (Celestial Minister), _Lëi Sëi_ (Spirit Bureau).
 
@@ -295,7 +295,7 @@ Titles follow the name: _Tānlüng Zhükvōr_ = Tānlüng + "Supreme Sacred" (a 
 
 | Tānvüri  | Literal Meaning   | Role                                                  |
 | -------- | ----------------- | ----------------------------------------------------- |
-| Zhëklüng | Life-Dragon       | Imperial family – "Dragon-born"                       |
+| Zhëklüng | Life-Dragon       | Imperial family—"Dragon-born"                         |
 | Vëndük   | Bound-Magic       | Chattel Sorcerers                                     |
 | Vüshōk   | Warrior-Noble     | Warrior Nobility                                      |
 | Tānthëi  | Celestial-Scholar | Celestial Scholars                                    |
@@ -361,7 +361,7 @@ Titles follow the name: _Tānlüng Zhükvōr_ = Tānlüng + "Supreme Sacred" (a 
 | Dākyāt    | Great-Heal      | Master Physician             |
 | Vōryāt    | Sacred-Heal     | Grand Healer (highest rank)  |
 
-### The Celestial Pantheon – Major Deities
+### The Celestial Pantheon—Major Deities
 
 | Tānvüri | Epithet                                          | Domain                                |
 | ------- | ------------------------------------------------ | ------------------------------------- |
@@ -369,7 +369,7 @@ Titles follow the name: _Tānlüng Zhükvōr_ = Tānlüng + "Supreme Sacred" (a 
 | Vëizhük | Vëizhük Dāknëi (Jade Emperor)                    | Administration, celestial bureaucracy |
 | Rëkgüng | Rëkgüng Vōrdāk (Thunder of Divine Might)         | Thunder, storms, justice              |
 | Yütvëi  | Yütvëi Tëngyōk (Moon Jade of the Heavenly Court) | Moon, healing, dreams                 |
-| Yökzhük | –                                                | Demon King, ruler of infernal realms  |
+| Yökzhük | —                                                | Demon King, ruler of infernal realms  |
 
 ### The Eleven Spirit Bureaus
 
@@ -389,15 +389,15 @@ Titles follow the name: _Tānlüng Zhükvōr_ = Tānlüng + "Supreme Sacred" (a 
 
 ### The Five Elemental Lords
 
-| Tānvüri         | Element                           |
-| --------------- | --------------------------------- |
-| Vëngdāk Zhütvōr | Air – Azure Wind of Sacred Breath |
-| Röthöt Dākvëng  | Fire – Blazing Fire Great Wind    |
-| Dāktūr Vōrthāt  | Earth – Great Earth Sacred Stone  |
-| Vōrjīk Jëk      | Metal – Divine Gold Blade         |
-| Zhütshüt Lüng   | Water – Azure Water Dragon        |
+| Tānvüri         | Element                         |
+| --------------- | ------------------------------- |
+| Vëngdāk Zhütvōr | Air—Azure Wind of Sacred Breath |
+| Röthöt Dākvëng  | Fire—Blazing Fire Great Wind    |
+| Dāktūr Vōrthāt  | Earth—Great Earth Sacred Stone  |
+| Vōrjīk Jëk      | Metal—Divine Gold Blade         |
+| Zhütshüt Lüng   | Water—Azure Water Dragon        |
 
-### Calendar – Month Names
+### Calendar—Month Names
 
 | #   | Tānvüri  | Literal Meaning       |
 | --- | -------- | --------------------- |
@@ -414,7 +414,7 @@ Titles follow the name: _Tānlüng Zhükvōr_ = Tānlüng + "Supreme Sacred" (a 
 | 11  | Zhürtyüt | Snow Month            |
 | 12  | Thürtyüt | Frost Month           |
 
-### Calendar – Spirit Animals
+### Calendar—Spirit Animals
 
 | Tānvüri    | Meaning              |
 | ---------- | -------------------- |
@@ -511,7 +511,7 @@ Tānvüri employs a **logographic writing system** in which each character repre
 
 **Cursive Script ([[skill-tngthkscrpt|Dōk Thōk]], "Flowing Record"):** A more rapid, connected hand used for administrative and mercantile purposes. Simplified character forms reduce the stroke count while preserving legibility for trained scribes.
 
-**Literacy:** True literacy – the ability to read and compose continuous text – is confined to the nobility (30-50%), the priesthood, the imperial bureaucracy, and professional scribes. Formal education in classical Tānvüri characters requires 10-15 years of study. Even in major urban centers, most merchants and guildsmen possess only functional recognition of common characters – enough for trade marks, numerals, and familiar signs – and rely on scribes for contracts and correspondence. The vast majority of the population is non-literate.
+**Literacy:** True literacy—the ability to read and compose continuous text—is confined to the nobility (30-50%), the priesthood, the imperial bureaucracy, and professional scribes. Formal education in classical Tānvüri characters requires 10-15 years of study. Even in major urban centers, most merchants and guildsmen possess only functional recognition of common characters—enough for trade marks, numerals, and familiar signs—and rely on scribes for contracts and correspondence. The vast majority of the population is non-literate.
 
 ## Historical Development
 
@@ -521,7 +521,7 @@ Tānvüri is a language isolate with no widely-accepted external relatives. Olde
 
 **Literary Standardization (~1,200 years ago):** A major literary standardization fixed the characters and their meanings in the _Dāk Thōklëi_ ("Great Record"). This standardization has proven remarkably stable; scholars can read texts 2,000 years old with only minor difficulty.
 
-**Modern Tānvüri:** The spoken language has undergone some phonological change – simplification of certain consonant clusters, minor vowel shifts – but the conservatism of the writing system and the prestige of classical education have kept the language extraordinarily stable.
+**Modern Tānvüri:** The spoken language has undergone some phonological change—simplification of certain consonant clusters, minor vowel shifts—but the conservatism of the writing system and the prestige of classical education have kept the language extraordinarily stable.
 
 ## Regional Dialects
 
@@ -537,7 +537,7 @@ Tānvüri is a language isolate with no widely-accepted external relatives. Olde
 
 In Tānvüri tradition, names are auspicious utterances invoking favorable qualities, celestial principles, or virtuous ancestors. The bestowing of a name is an occasion of considerable importance, often conducted by a learned scholar or priest who consults astrological and classical texts.
 
-Names follow a **family-name-first pattern**. The family name (_zhāk_) precedes the given name, creating names of two to three compound elements. Given names are constructed from the Tānvüri vocabulary through compounding – a name like _Tëitjëk_ ("Iron Blade") or _Lënglōt_ ("Bright Lotus") is simultaneously a name and a meaningful phrase.
+Names follow a **family-name-first pattern**. The family name (_zhāk_) precedes the given name, creating names of two to three compound elements. Given names are constructed from the Tānvüri vocabulary through compounding—a name like _Tëitjëk_ ("Iron Blade") or _Lënglōt_ ("Bright Lotus") is simultaneously a name and a meaningful phrase.
 
 **Male given names** often incorporate elements associated with strength, virtue, or celestial forces: _dāk_ (great), _vüs_ (warrior), _lüng_ (dragon), _jīk_ (gold), _thëi_ (scholar), _rëk_ (thunder).
 
@@ -557,8 +557,8 @@ Names follow a **family-name-first pattern**. The family name (_zhāk_) precedes
 
 ## See Also
 
-- [[affiliation-tanvurempr|Empire of Tānvür]] – Overview of the empire and its culture
-- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] – The Celestial Order (pantheon)
-- [[lore-phlsphylvr|Philosophy of Lëivōr]] – The philosophy of vital energy
-- [[lore-clndrstrlgy|Calendar and Astrology]] – Calendar, months, and spirit animals
-- [[lore-personlnms|Personal Names]] – Naming conventions and examples
+- [[affiliation-tanvurempr|Empire of Tānvür]]—Overview of the empire and its culture
+- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]]—The Celestial Order (pantheon)
+- [[lore-phlsphylvr|Philosophy of Lëivōr]]—The philosophy of vital energy
+- [[lore-clndrstrlgy|Calendar and Astrology]]—Calendar, months, and spirit animals
+- [[lore-personlnms|Personal Names]]—Naming conventions and examples

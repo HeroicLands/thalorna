@@ -3,7 +3,7 @@ tags:
   - village
   - woodland
   - sacred
-description: "A woodland settlement within the Silver Forests – one of the few permanent Élavendri holdings inside Áelendan country, existing on sufferance and on an agreement nobody will produce in writing."
+description: "A woodland settlement within the Silver Forests—one of the few permanent Élavendri holdings inside Áelendan country, existing on sufferance and on an agreement nobody will produce in writing."
 type: place
 subType: settlement
 data:
@@ -31,8 +31,8 @@ everyone in general and to nobody in particular. There is no charter. There is n
 [[affiliation-alndnwrdns|Wardens]] pass through without comment.
 
 What the villagers give in return is a matter of quiet local certainty and no evidence. The usual
-account is that Silvain keeps something – a watch, an observance, a duty at the
-[[place-ataanwyrd|At'aan Wyrd]] – and that the arrangement lapses the day it stops. Villagers asked
+account is that Silvain keeps something—a watch, an observance, a duty at the
+[[place-ataanwyrd|At'aan Wyrd]]—and that the arrangement lapses the day it stops. Villagers asked
 directly will say that they live there, which is true, and change the subject.
 
 ## Life

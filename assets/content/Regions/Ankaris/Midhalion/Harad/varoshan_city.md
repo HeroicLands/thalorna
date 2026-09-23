@@ -2,7 +2,7 @@
 tags:
   - city
   - caravan
-description: "The easternmost city of Harad – a dusty, polyglot crossroads of mudbrick and tile where the coastal trade meets the caravan trails from Dunhara and the Khazryn."
+description: "The easternmost city of Harad—a dusty, polyglot crossroads of mudbrick and tile where the coastal trade meets the caravan trails from Dunhara and the Khazryn."
 name:
   full: Varoshan
   aliases: []
@@ -31,12 +31,12 @@ Varoshan feels different from the coastal cities. The architecture shifts from V
 
 ## Notable Features
 
-- The Caravan Gate – the great eastern market where overland trade arrives
-- The Temple of Two Fires – a syncretic shrine where Aurèldían and Āsháian rites are practiced side by side
-- The Caravansary Quarter – a vast complex of hostels, stables, and warehouses serving the overland trade
+- The Caravan Gate—the great eastern market where overland trade arrives
+- The Temple of Two Fires—a syncretic shrine where Aurèldían and Āsháian rites are practiced side by side
+- The Caravansary Quarter—a vast complex of hostels, stables, and warehouses serving the overland trade
 
 ## See Also
 
-- [[affiliation-varoshan|Varoshan]] – The city-state
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] – The confederation
-- Harad Region – Regional overview
+- [[affiliation-varoshan|Varoshan]]—The city-state
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—The confederation
+- Harad Region—Regional overview

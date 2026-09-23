@@ -2,7 +2,7 @@
 tags:
   - history
   - spine
-description: "In 984 BF the Sinalë king of the joint Aelwythan kingdom is killed at the Three Sisters by something not merely an army – and the Sinalë abandon the crown, the kingdom and every claim outside the Hallowwood."
+description: "In 984 BF the Sinalë king of the joint Aelwythan kingdom is killed at the Three Sisters by something not merely an army—and the Sinalë abandon the crown, the kingdom and every claim outside the Hallowwood."
 type: lore
 subType: history
 name:
@@ -85,7 +85,7 @@ event:
 
 Before there were kingdoms on [[place-aelwyth|Aelwyth]] there was one, and both Elder Races held it.
 After [[lore-fallkhazturn|Khazártúrn fell]] the [[lore-flksinale|Sinalë]] and
-[[lore-flkkhazar|Khazári]] ceased dealing with one another everywhere in the world – except on this
+[[lore-flkkhazar|Khazári]] ceased dealing with one another everywhere in the world—except on this
 island, where instead they tried to repair it. They united Aelwyth under a single crown held by a
 Sinalë king and governed it together for six centuries. It is the only such attempt either race has
 ever made.

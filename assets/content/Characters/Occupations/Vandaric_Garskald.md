@@ -593,12 +593,12 @@ Few; well-liked among the community.
 
 ## Plot Hooks
 
-1. **The Ostler's Dilemma** – Vandaric faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Ostler's Dilemma**—Vandaric faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 
-2. **Old Grudges** – Few; well-liked among the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges**—Few; well-liked among the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** – Something from Vandaric's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Vandaric's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds** – Political changes in Vrystwald threaten to upend the social order that Vandaric depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Vandaric depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** – A chance encounter offers Vandaric the possibility of advancement beyond anything he has dared hope for – but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Vandaric the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

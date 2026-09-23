@@ -570,13 +570,13 @@ sohl:
 
 ![[torniskbry|Tórnis Kúbrý]]{float: top-left}
 
-Tórnis is a man of thirty with a slender, roguish appearance – fair-skinned, with dark blonde hair and green eyes. His face is the kind that is easy to forget: pleasant, unremarkable, and perfectly suited to a man who makes his living not being noticed. He moves with an easy, unhurried confidence that makes him look like he belongs wherever he happens to be.
+Tórnis is a man of thirty with a slender, roguish appearance—fair-skinned, with dark blonde hair and green eyes. His face is the kind that is easy to forget: pleasant, unremarkable, and perfectly suited to a man who makes his living not being noticed. He moves with an easy, unhurried confidence that makes him look like he belongs wherever he happens to be.
 
 # Dossier {#dossier}
 
-The man who calls himself Tórnis Kúbrý was born Calen, a Tarvénan outlaw who spent years operating with a brigand band along the Ibiria-Provènzia border. He was skilled in stealth, sabotage, and manipulation – known among his comrades for his cunning and his ability to talk his way out of situations that would get a less charming man killed.
+The man who calls himself Tórnis Kúbrý was born Calen, a Tarvénan outlaw who spent years operating with a brigand band along the Ibiria-Provènzia border. He was skilled in stealth, sabotage, and manipulation—known among his comrades for his cunning and his ability to talk his way out of situations that would get a less charming man killed.
 
-That life ended in blood. A betrayal within his group led to a massacre, and Calen barely escaped with his life. He buried his old name, adopted the alias Tórnis, and reinvented himself as a scout and trader – a wanderer who knew the roads, especially the ones people tended to avoid. When Brànwâal recruited him into the Silent Talon, it was for exactly the skills his old life had given him: intelligence-gathering, infiltration, and the ability to neutralize threats without drawing attention.
+That life ended in blood. A betrayal within his group led to a massacre, and Calen barely escaped with his life. He buried his old name, adopted the alias Tórnis, and reinvented himself as a scout and trader—a wanderer who knew the roads, especially the ones people tended to avoid. When Brànwâal recruited him into the Silent Talon, it was for exactly the skills his old life had given him: intelligence-gathering, infiltration, and the ability to neutralize threats without drawing attention.
 
 Tórnis presents himself as a simple, affable traveler. He is charming, easy to like, and always ready with a self-deprecating joke. Beneath the surface, however, he trusts no one completely and keeps everyone at a calculated distance. His past haunts him, and he is determined never to be caught off guard again.
 
@@ -589,7 +589,7 @@ Recently, his carefully maintained emotional walls have developed a crack: he ha
 - **Stealth**: Tórnis can move through hostile territory, urban streets, or fortified buildings without being detected. This is his primary professional skill and the reason the Silent Talon hired him.
 - **Infiltration**: He can assume identities, blend into crowds, and gain access to places and people that are supposed to be inaccessible.
 - **Deception**: A natural liar with the charm to make it convincing. He reads people quickly and tells them what they want to hear.
-- **Scouting**: An experienced pathfinder who knows the roads – particularly the ones most people avoid. He is often sent ahead of the band to survey terrain, identify threats, and gather intelligence.
+- **Scouting**: An experienced pathfinder who knows the roads—particularly the ones most people avoid. He is often sent ahead of the band to survey terrain, identify threats, and gather intelligence.
 - **Combat**: Tórnis is not a frontline fighter, but he can handle himself in a scrape. He prefers a knife in close quarters and avoids fair fights whenever possible.
 
 ## Psyche
@@ -600,7 +600,7 @@ Tórnis is charming and affable, able to blend into any crowd. However, beneath 
 
 ### Motivation
 
-Tórnis seeks to distance himself from his past life as a Tarvénan brigand and build something new. The Silent Talon has given him purpose and, in Elýsè, something he did not expect to find. Whether he can let go of the habits that kept him alive as an outlaw – the lies, the distance, the constant readiness to run – remains to be seen.
+Tórnis seeks to distance himself from his past life as a Tarvénan brigand and build something new. The Silent Talon has given him purpose and, in Elýsè, something he did not expect to find. Whether he can let go of the habits that kept him alive as an outlaw—the lies, the distance, the constant readiness to run—remains to be seen.
 
 ### Strengths
 
@@ -612,7 +612,7 @@ Tórnis seeks to distance himself from his past life as a Tarvénan brigand and 
 
 ## Companions
 
-- **[[being-branwldrgr|Brànwâal Dôrgaar]]**: Captain of the Silent Talon. Tórnis respects Brànwâal's competence and is loyal to him – as loyal as Tórnis is capable of being.
+- **[[being-branwldrgr|Brànwâal Dôrgaar]]**: Captain of the Silent Talon. Tórnis respects Brànwâal's competence and is loyal to him—as loyal as Tórnis is capable of being.
 - **[[being-elyseskyrn|Elýsè Skýrn]]**: A developing romantic relationship that Tórnis is unsure how to handle.
 - **[[being-chlbrhydyn|Chéleb Rhýddýn]]**: Fellow band member.
 - **[[being-dornsyndlr|Dôren Sýndalr]]**: Fellow band member.
@@ -627,7 +627,7 @@ Former comrades from his brigand days who survived the massacre and may be looki
 
 ## Plot Hooks
 
-1. **The Past Returns**: Someone from Tórnis's old life recognizes him – or worse, comes looking for Calen specifically. He must decide whether to run, fight, or finally tell the Silent Talon the truth about who he was before he joined them.
+1. **The Past Returns**: Someone from Tórnis's old life recognizes him—or worse, comes looking for Calen specifically. He must decide whether to run, fight, or finally tell the Silent Talon the truth about who he was before he joined them.
 
 2. **The Double Game**: Tórnis is sent to infiltrate a rival mercenary company, but discovers that the company's employer is connected to the betrayal that destroyed his old brigand band. The mission becomes personal, and Tórnis must choose between the Silent Talon's interests and his own need for answers.
 

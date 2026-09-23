@@ -4,7 +4,7 @@ tags:
   - first-gods
 type: lore
 subType: spirit
-description: "Hawk-spirit of the high Drenavar air – distant, exact about its crags, and the Kindred consulted about weather and distance."
+description: "Hawk-spirit of the high Drenavar air—distant, exact about its crags, and the Kindred consulted about weather and distance."
 name:
   full: Gwalchen, the Hawk of the Spine
   aliases: []
@@ -27,6 +27,6 @@ climbed between the thaw and midsummer, and the prohibition is absolute; the tri
 have kept it without exception for as long as the songs record. What is given otherwise is small
 and given high.
 
-What he is consulted for is sight – weather coming over the Spine, movement on the far slopes, the
+What he is consulted for is sight—weather coming over the Spine, movement on the far slopes, the
 state of a pass. A shaman with a standing relationship to Gwalchen is valuable to a tribe in a way
 that needs no explaining, and such shamen are correspondingly reluctant to travel.

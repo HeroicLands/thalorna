@@ -622,23 +622,23 @@ sohl:
 
 ![[bldrbck|Boulderback]]{float: top-left}
 
-The earth shakes. At first you think it's an avalanche descending the mountainside, but then you see it: a mass of boulders, each the size of a man's torso, fitted together in the mockery of a body. It stands fifteen feet tall, its movements grinding and ponderous. Where it places its massive feet, stone cracks. Its head is a single, misshapen boulder with two openings like eye sockets – and from within those voids, something watches you with absolute patience.
+The earth shakes. At first you think it's an avalanche descending the mountainside, but then you see it: a mass of boulders, each the size of a man's torso, fitted together in the mockery of a body. It stands fifteen feet tall, its movements grinding and ponderous. Where it places its massive feet, stone cracks. Its head is a single, misshapen boulder with two openings like eye sockets—and from within those voids, something watches you with absolute patience.
 
 # Dossier {#dossier}
 
-Boulderbacks are earth-elementals bound in physical form, creatures of stone and will animated by something that dwells in deep places. They are neither malicious nor gentle – they simply exist as obstacles in stone passages and buried valleys. Adventurers encounter them in mountains, ancient quarries, cave systems, and places where earth-magic concentrations run high.
+Boulderbacks are earth-elementals bound in physical form, creatures of stone and will animated by something that dwells in deep places. They are neither malicious nor gentle—they simply exist as obstacles in stone passages and buried valleys. Adventurers encounter them in mountains, ancient quarries, cave systems, and places where earth-magic concentrations run high.
 
 ## Presentation
 
-A Boulderback stands roughly fifteen feet tall, constructed of layered boulders and stone slabs fitted together into a vaguely humanoid frame. Its head is a single massive boulder with two deep-set eye sockets and a horizontal crevasse serving as a mouth. Its torso is built from stacked stone roughly six feet across; its limbs are thick columns of granite and flint. Enormous hands are formed from clusters of smaller stones bound together. Its back forms a jagged ridge of protruding stone blocks – hence the name. Each movement produces grinding, cracking sounds as stone shifts against stone; each step causes the ground to tremble and small rocks to cascade. It moves with deliberate slowness but inexorable determination.
+A Boulderback stands roughly fifteen feet tall, constructed of layered boulders and stone slabs fitted together into a vaguely humanoid frame. Its head is a single massive boulder with two deep-set eye sockets and a horizontal crevasse serving as a mouth. Its torso is built from stacked stone roughly six feet across; its limbs are thick columns of granite and flint. Enormous hands are formed from clusters of smaller stones bound together. Its back forms a jagged ridge of protruding stone blocks—hence the name. Each movement produces grinding, cracking sounds as stone shifts against stone; each step causes the ground to tremble and small rocks to cascade. It moves with deliberate slowness but inexorable determination.
 
 ## Key Behaviors
 
-The Boulderback is driven by a singular imperative: protect its territory. It dwells in caves, mountain gorges, or quarries it has claimed, and it patrols these lands with methodical patience. The creature does not hunt; it does not eat. It simply walks, examines, and waits. When threatened, it responds with violence. When left alone, it is content to remain. It shows no sign of emotion, fear, or aggression – merely duty. Some Boulderbacks remain in the same territory for centuries, their watch never flagging.
+The Boulderback is driven by a singular imperative: protect its territory. It dwells in caves, mountain gorges, or quarries it has claimed, and it patrols these lands with methodical patience. The creature does not hunt; it does not eat. It simply walks, examines, and waits. When threatened, it responds with violence. When left alone, it is content to remain. It shows no sign of emotion, fear, or aggression—merely duty. Some Boulderbacks remain in the same territory for centuries, their watch never flagging.
 
 ## Combat Strategy
 
-The Boulderback does not employ tactics. It moves toward threats and crushes them. When attacked, it retaliates with simple, devastating force. It will pursue fleeing prey only as far as its immediate territory; if a foe retreats beyond certain boundaries, the Boulderback ceases pursuit and returns to its patrol. It cannot be intimidated, bribed, or reasoned with – only destroyed or outmaneuvered.
+The Boulderback does not employ tactics. It moves toward threats and crushes them. When attacked, it retaliates with simple, devastating force. It will pursue fleeing prey only as far as its immediate territory; if a foe retreats beyond certain boundaries, the Boulderback ceases pursuit and returns to its patrol. It cannot be intimidated, bribed, or reasoned with—only destroyed or outmaneuvered.
 
 ## Attack Methods
 
@@ -666,7 +666,7 @@ The Boulderback perceives its surroundings through ground vibrations and stone r
 
 ### Slow Regeneration
 
-Exposed to stone and earth, the Boulderback repairs itself over time. Cracks seal, separated blocks drift back together, and wounds close. This regeneration is slow – hours or days – but relentless.
+Exposed to stone and earth, the Boulderback repairs itself over time. Cracks seal, separated blocks drift back together, and wounds close. This regeneration is slow—hours or days—but relentless.
 
 ## Additional Information
 

@@ -33,6 +33,6 @@ Sau is the capital of the delta's [[affiliation-nomesaunfr|garden-coast nome]], 
 
 ## See Also
 
-- [[affiliation-nomesaunfr|The Nome of Sau-Neferu]] – Parent nome
-- [[affiliation-deltanomes|The Delta Nomes]] – Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview
+- [[affiliation-nomesaunfr|The Nome of Sau-Neferu]]—Parent nome
+- [[affiliation-deltanomes|The Delta Nomes]]—Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview

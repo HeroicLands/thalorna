@@ -605,7 +605,7 @@ His initiation as a full-fledged shaman came when he survived the **Spirit Hunt*
 
 ### Current Goals
 
-Recently, Kiroba has been haunted by visions of a great imbalance in the spirit world, centered deep within the **[[place-yandamalaika|Yánda Maláika]]** mountains. These mountains are said to be the home of the gods themselves, a place no mortal is meant to tread. The Zohira speak of a disturbance – ancient spirits are restless, the forces of the natural world growing chaotic. The spirits have shown him that if this imbalance is not corrected, the spirits will turn against the living, causing famine, disease, and disaster throughout [[place-xerathia|Xerathia]].
+Recently, Kiroba has been haunted by visions of a great imbalance in the spirit world, centered deep within the **[[place-yandamalaika|Yánda Maláika]]** mountains. These mountains are said to be the home of the gods themselves, a place no mortal is meant to tread. The Zohira speak of a disturbance—ancient spirits are restless, the forces of the natural world growing chaotic. The spirits have shown him that if this imbalance is not corrected, the spirits will turn against the living, causing famine, disease, and disaster throughout [[place-xerathia|Xerathia]].
 
 To correct this, Kiroba must undertake a perilous journey deep into the Yánda Maláika, seeking out an ancient **Oracle of Bones**, a storied spirit that may hold the key to rebalancing the spiritual forces. His journey will take him across Xerathia, through the dangerous jungle rivers and eventually into the mountains themselves, where powerful **jinmuaji** (land-crocodile beasts) and other supernatural predators await.
 
@@ -632,7 +632,7 @@ To correct this, Kiroba must undertake a perilous journey deep into the Yánda M
 
 - **Jungle Trials**: Before he even reaches the mountains, Kiroba must navigate the labyrinthine rivers and dense jungle, ultimately facing a **Mnyama-Kijicho**. Rivals from the **[[affiliation-mtrrchybth|Matriarchy of Bethûa]]** have hired mercenaries to track him, seeking to steal his knowledge of the spirits for their own gain.
 - **The Cursed Canyon**: As Kiroba approaches the Yánda Maláika, he must pass through a canyon haunted by the **Roqomuaji**, fearsome, intelligent pack-hunting creatures. These creatures will test Kiroba’s connection to the Zohira, requiring him to summon powerful spirit allies to survive the journey.
-- **The Final Trial – The Oracle of Bones**: Upon reaching the Oracle, Kiroba must prove his worth. The Oracle demands a blood sacrifice – whether it is his own or that of another is a decision that will test Kiroba’s soul. The information he gains will not only show him how to fix the imbalance but may also reveal terrible truths about his people's future and the ancient gods of Xerathia.
+- **The Final Trial—The Oracle of Bones**: Upon reaching the Oracle, Kiroba must prove his worth. The Oracle demands a blood sacrifice—whether it is his own or that of another is a decision that will test Kiroba’s soul. The information he gains will not only show him how to fix the imbalance but may also reveal terrible truths about his people's future and the ancient gods of Xerathia.
 
 ### Challenges for Kiroba
 
@@ -679,7 +679,7 @@ Kiroba is cautious of outsiders and does not trust easily, particularly those fr
 
 1. **The Spirits’ Warning**: As Kiroba ventures deeper into the jungle on his way to the Yánda Maláika mountains, the Zohira send him disturbing visions of a looming spiritual catastrophe. Rivers turn blood-red in his dreams, and animals behave strangely, attacking anyone who crosses their path. The spirits warn that an ancient ritual, long forgotten, must be performed before the next full moon to prevent the Zohira from unleashing their wrath. The challenge is that the ritual requires a rare artifact, hidden deep within the territory of a rival tribe, the **Magara**, who are known for their hostility toward the Shókuma. Kiroba can risk conflict to retrieve the artifact or attempt to negotiate with the Magara.
 
-2. **The Hunt for the Jinmuaji**: As Kiroba approaches the Yánda Maláika mountains, he is warned by local tribes of the growing danger posed by the jinmuaji, massive land-crocodiles that have been terrorizing villages. These creatures are said to be controlled by a dark spirit, one that feeds on fear and chaos. To continue his journey and gain the favor of the Oracle of Bones, Kiroba must first defeat the jinmuaji and release the spirits that have been bound to the beasts. However, the jinmuaji are not ordinary creatures – they possess both physical and spiritual defenses, requiring Kiroba to outwit and overpower them using both shamanic rituals and his hunter’s instincts.
+2. **The Hunt for the Jinmuaji**: As Kiroba approaches the Yánda Maláika mountains, he is warned by local tribes of the growing danger posed by the jinmuaji, massive land-crocodiles that have been terrorizing villages. These creatures are said to be controlled by a dark spirit, one that feeds on fear and chaos. To continue his journey and gain the favor of the Oracle of Bones, Kiroba must first defeat the jinmuaji and release the spirits that have been bound to the beasts. However, the jinmuaji are not ordinary creatures—they possess both physical and spiritual defenses, requiring Kiroba to outwit and overpower them using both shamanic rituals and his hunter’s instincts.
 
 3. **The Shadow War of the Akh-Menraa**: Kiroba’s journey into the **[[affiliation-empirtkhpr|Empire of Ta'Kheperu]]** takes him into a world of secretive power struggles within the elite arcane circles. At the heart of this conflict is Master Neferha, leader of a clandestine society within the **Spirit** domain, which seeks to expand its influence over the empire by manipulating the minds and emotions of key political figures. Neferha’s mastery of the spiritual arcane arts allows her to tap into the spiritual forces of the Zohira, the nature spirits of Xerathia, whom she seeks to bind and control in order to increase her faction's power within Ta’Kheperu.
 
@@ -689,7 +689,7 @@ Kiroba is cautious of outsiders and does not trust easily, particularly those fr
 
 4. **The Zohira’s Call**:
 
-   Kiroba begins to experience vivid dreams of the Zohira, the jungle spirits, showing rivers running dry and animals turning against the villagers. These visions point to a massive, unnatural dam constructed by a faction of outsiders seeking to control the region’s waterways for profit. Kiroba must rally his people and determine how to approach the outsiders – through diplomacy or force – to restore balance and protect the spirits’ domain.
+   Kiroba begins to experience vivid dreams of the Zohira, the jungle spirits, showing rivers running dry and animals turning against the villagers. These visions point to a massive, unnatural dam constructed by a faction of outsiders seeking to control the region’s waterways for profit. Kiroba must rally his people and determine how to approach the outsiders—through diplomacy or force—to restore balance and protect the spirits’ domain.
 
 5. **The Spirit Hunt Reborn**:
 

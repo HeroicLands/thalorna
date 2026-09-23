@@ -596,12 +596,12 @@ Few; generally well-liked.
 
 ## Plot Hooks
 
-1. **The Innkeeper's Dilemma** – Oswin faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
+1. **The Innkeeper's Dilemma**—Oswin faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 
-2. **Old Grudges** – Few; generally well-liked. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges**—Few; generally well-liked. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** – Something from Oswin's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Oswin's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds** – Political changes in Aelwyth threaten to upend the social order that Oswin depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Oswin depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** – A chance encounter offers Oswin the possibility of advancement beyond anything he has dared hope for – but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Oswin the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

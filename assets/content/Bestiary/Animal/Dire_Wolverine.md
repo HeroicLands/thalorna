@@ -338,11 +338,11 @@ sohl:
 
 ![[drwlvrn|Dire Wolverine]]{float: top-left}
 
-The reek precedes the beast – a musky, animal smell mixed with something wild and fearless. What emerges is compact, squat, low-slung yet terrifyingly massive. Three feet tall at the shoulder, the Dire Wolverine is built entirely of muscle and aggression, a wedge of coiled fury wrapped in dark fur. The claws, curved and wickedly sharp, extend inches beyond the paws. The teeth, when visible in a snarl, promise a bite capable of crushing bone. The eyes – small, dark, devoid of fear – fix directly on you with singular intent. The sound it makes – a growl that rumbles like distant thunder – vibrates through your chest and carries the promise of something that will fight until death and drag you with it.
+The reek precedes the beast—a musky, animal smell mixed with something wild and fearless. What emerges is compact, squat, low-slung yet terrifyingly massive. Three feet tall at the shoulder, the Dire Wolverine is built entirely of muscle and aggression, a wedge of coiled fury wrapped in dark fur. The claws, curved and wickedly sharp, extend inches beyond the paws. The teeth, when visible in a snarl, promise a bite capable of crushing bone. The eyes—small, dark, devoid of fear—fix directly on you with singular intent. The sound it makes—a growl that rumbles like distant thunder—vibrates through your chest and carries the promise of something that will fight until death and drag you with it.
 
 # Dossier {#dossier}
 
-The Dire Wolverine is one of the most dangerous terrestrial predators, pound for pound. Standing three feet tall at the shoulder and weighing two hundred fifty to three hundred fifty pounds, these solitary mustelids are found in cold forests, mountains, and tundra regions. A Dire Wolverine is essentially a wolverine magnified to lethal proportions – it retains the fearlessness, aggression, and unstoppable persistence of its smaller cousins but adds the mass and strength to match or exceed bears and wolves in direct combat. These creatures are solitary and extraordinarily territorial, defending vast ranges against any perceived intrusion. A Dire Wolverine has been documented challenging and killing bears, wolf packs, and groups of hunters. They are famously immune to pain and fear – a wolverine that loses a limb will continue fighting with undiminished aggression. Adventurers in cold regions may encounter these creatures while traveling, camping, or hunting in wilderness.
+The Dire Wolverine is one of the most dangerous terrestrial predators, pound for pound. Standing three feet tall at the shoulder and weighing two hundred fifty to three hundred fifty pounds, these solitary mustelids are found in cold forests, mountains, and tundra regions. A Dire Wolverine is essentially a wolverine magnified to lethal proportions—it retains the fearlessness, aggression, and unstoppable persistence of its smaller cousins but adds the mass and strength to match or exceed bears and wolves in direct combat. These creatures are solitary and extraordinarily territorial, defending vast ranges against any perceived intrusion. A Dire Wolverine has been documented challenging and killing bears, wolf packs, and groups of hunters. They are famously immune to pain and fear—a wolverine that loses a limb will continue fighting with undiminished aggression. Adventurers in cold regions may encounter these creatures while traveling, camping, or hunting in wilderness.
 
 ## Presentation
 
@@ -354,7 +354,7 @@ Dire Wolverines are solitary and move through vast territories, sometimes rangin
 
 ## Combat Strategy
 
-A Dire Wolverine's strategy is direct and overwhelming: charge at the threat, use massive claws to open wounds, bite with crushing force, and continue attacking until something stops moving. The creature does not use terrain or tactics – it simply overwhelms through superior strength and refusal to accept defeat. Injured wolverines become more aggressive, not less.
+A Dire Wolverine's strategy is direct and overwhelming: charge at the threat, use massive claws to open wounds, bite with crushing force, and continue attacking until something stops moving. The creature does not use terrain or tactics—it simply overwhelms through superior strength and refusal to accept defeat. Injured wolverines become more aggressive, not less.
 
 ## Attack Methods
 
@@ -374,7 +374,7 @@ The wolverine's strength allows it to throw opponents and pin them using body we
 
 ### Fearless Aggression and Pain Immunity
 
-A Dire Wolverine charges threats without hesitation and continues fighting even with mortal wounds. Pain does not trigger retreat – instead, it seems to amplify aggression. A dying wolverine is more dangerous than a healthy one.
+A Dire Wolverine charges threats without hesitation and continues fighting even with mortal wounds. Pain does not trigger retreat—instead, it seems to amplify aggression. A dying wolverine is more dangerous than a healthy one.
 
 ### Overwhelming Strength and Durability
 

@@ -2,7 +2,7 @@
 tags:
   - first-gods
   - spirit-power
-description: "Standing with Gwalchen, the Hawk of the Spine – what this allied Kindred is met, asked and bargained with."
+description: "Standing with Gwalchen, the Hawk of the Spine—what this allied Kindred is met, asked and bargained with."
 type: skill
 subType: mystical
 shortcode: gwalchensprt
@@ -24,4 +24,4 @@ sohl:
 packFolder: spiritskillsaelendan
 ---
 
-See [[lore-gwalchenspr|Gwalchen, the Hawk of the Spine]] – animal-kin of [[lore-thekindred|the Kindred]], met through [[affiliation-theoldway|the Old Way]].
+See [[lore-gwalchenspr|Gwalchen, the Hawk of the Spine]]—animal-kin of [[lore-thekindred|the Kindred]], met through [[affiliation-theoldway|the Old Way]].

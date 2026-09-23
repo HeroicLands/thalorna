@@ -591,12 +591,12 @@ Few; generally well-liked, though some rival nobles may envy her influence.
 
 ## Plot Hooks
 
-1. **The Nobility (Courtier)'s Dilemma** – Gália faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
+1. **The Nobility (Courtier)'s Dilemma**—Gália faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
 
-2. **Old Grudges** – Few; generally well-liked, though some rival nobles may envy her influence. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges**—Few; generally well-liked, though some rival nobles may envy her influence. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** – Something from Gália's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Gália's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds** – Political changes in Provènzia threaten to upend the social order that Gália depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Provènzia threaten to upend the social order that Gália depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** – A chance encounter offers Gália the possibility of advancement beyond anything she has dared hope for – but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Gália the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

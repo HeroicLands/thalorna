@@ -1,7 +1,7 @@
 ---
 tags:
   - region
-description: "The land of the Kingdom of Léonrik – the central-southern lowlands of Tarvénia between the mountains and the coast, the richest farmland in the west."
+description: "The land of the Kingdom of Léonrik—the central-southern lowlands of Tarvénia between the mountains and the coast, the richest farmland in the west."
 name:
   full: Léonrik
   aliases: []
@@ -26,12 +26,12 @@ Léonrik is the largest, most populous, and most fertile of the three Tarvénan 
 
 ## Character
 
-The kingdom's lowland terrain makes it more accessible – and more vulnerable – than mountainous Astúrath.
+The kingdom's lowland terrain makes it more accessible—and more vulnerable—than mountainous Astúrath.
 
-The capital, **Torváleth**, is the largest town in Tarvénia – a prosperous market center surrounded by some of the richest farmland in western [[place-ankrscntnnt|Ankaris Continent]]. Its annual harvest fair draws merchants from across the [[place-vylarianse|Vylarian Sea]], and its cattle markets are legendary.
+The capital, **Torváleth**, is the largest town in Tarvénia—a prosperous market center surrounded by some of the richest farmland in western [[place-ankrscntnnt|Ankaris Continent]]. Its annual harvest fair draws merchants from across the [[place-vylarianse|Vylarian Sea]], and its cattle markets are legendary.
 
 ## See Also
 
-- [[affiliation-kingdmlnrk|Kingdom of Léonrik]] – The kingdom that holds this land
-- [[place-tarvenirgn|Tarvénia Region]] – The enclosing region
-- Montaña – The seat
+- [[affiliation-kingdmlnrk|Kingdom of Léonrik]]—The kingdom that holds this land
+- [[place-tarvenirgn|Tarvénia Region]]—The enclosing region
+- Montaña—The seat

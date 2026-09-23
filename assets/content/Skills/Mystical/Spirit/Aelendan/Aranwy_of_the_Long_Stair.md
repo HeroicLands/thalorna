@@ -2,7 +2,7 @@
 tags:
   - first-gods
   - spirit-power
-description: "Standing with Aranwy of the Long Stair – what this allied Kindred is met, asked and bargained with."
+description: "Standing with Aranwy of the Long Stair—what this allied Kindred is met, asked and bargained with."
 type: skill
 subType: mystical
 shortcode: aranwysprt
@@ -24,4 +24,4 @@ sohl:
 packFolder: spiritskillsaelendan
 ---
 
-See [[lore-aranwyspr|Aranwy of the Long Stair]] – water-kin of [[lore-thekindred|the Kindred]], met through [[affiliation-theoldway|the Old Way]].
+See [[lore-aranwyspr|Aranwy of the Long Stair]]—water-kin of [[lore-thekindred|the Kindred]], met through [[affiliation-theoldway|the Old Way]].

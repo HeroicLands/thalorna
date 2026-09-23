@@ -31,7 +31,7 @@ data:
         title: Dependent
         lore: dependentrnk
         description: >-
-          Sheltered by a household without being of its blood – a client, a widow's family,
+          Sheltered by a household without being of its blood—a client, a widow's family,
           a taken-in stranger.
       - level: 3
         title: Kinsman
@@ -80,7 +80,7 @@ data:
         Keeper of the wells, springs or pastures the tribes share, and of the order in which
         they are used.
       Guide: >-
-        Holder of the routes – their water, their seasons and their dangers – and hired at
+        Holder of the routes—their water, their seasons and their dangers—and hired at
         a price accordingly.
       Envoy: Sent to treat with a settled power, and protected by custom while he carries
         the word.
@@ -108,10 +108,10 @@ data:
 packFolder: elavendre
 ---
 
-There is no central government of the Tribal Lands. Each tribal community governs itself through a **Council of Elders**, and coordination between tribes is handled through seasonal councils and through runners who carry word between territories. The Crown of Élavendre recognizes this arrangement and treats the Áelendan as sovereign in their own land – the kingdom's courts will act against Élavendri who encroach, but they will not accept cases brought against the tribes themselves.
+There is no central government of the Tribal Lands. Each tribal community governs itself through a **Council of Elders**, and coordination between tribes is handled through seasonal councils and through runners who carry word between territories. The Crown of Élavendre recognizes this arrangement and treats the Áelendan as sovereign in their own land—the kingdom's courts will act against Élavendri who encroach, but they will not accept cases brought against the tribes themselves.
 
-Sacred sites are a special category. Authority over them falls to the **[[affiliation-alndnwrdns|Áelendan Wardens]]**, whose jurisdiction is unchallenged within the sacred territory. Where the Wardens' charge applies, no other authority holds sway – not the tribal councils, not the Crown, not outside observers. The Wardens' judgment on trespass, desecration, or disturbance of a sacred site is final.
+Sacred sites are a special category. Authority over them falls to the **[[affiliation-alndnwrdns|Áelendan Wardens]]**, whose jurisdiction is unchallenged within the sacred territory. Where the Wardens' charge applies, no other authority holds sway—not the tribal councils, not the Crown, not outside observers. The Wardens' judgment on trespass, desecration, or disturbance of a sacred site is final.
 
 ## Commerce and Currency
 
-Áelendan Tribes uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Áelendan Tribes is a post-imperial commonwealth member – it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Áelendan Tribes uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Áelendan Tribes is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.

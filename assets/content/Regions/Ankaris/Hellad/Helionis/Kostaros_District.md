@@ -1,7 +1,7 @@
 ---
 tags:
   - region
-description: "The land of the Helionite city-state of Kostaros – the coastal district it governs, including the town of Myrtillos."
+description: "The land of the Helionite city-state of Kostaros—the coastal district it governs, including the town of Myrtillos."
 name:
   full: Kostaros District
   aliases: []
@@ -24,6 +24,6 @@ Kostaros District is the land of [[affiliation-kostaros2|Kostaros]], a coastal d
 
 ## See Also
 
-- [[affiliation-kostaros2|Kostaros]] – The city-state that holds this land
-- [[place-helionis|Heliónis]] – The enclosing region
-- Myrtillos – Coastal town within the district
+- [[affiliation-kostaros2|Kostaros]]—The city-state that holds this land
+- [[place-helionis|Heliónis]]—The enclosing region
+- Myrtillos—Coastal town within the district

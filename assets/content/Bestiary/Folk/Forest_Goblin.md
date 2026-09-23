@@ -341,7 +341,7 @@ sohl:
 
 ![[frstgbln|Forest Goblin]]{float: top-left}
 
-A shape in the green flickers at the edge of perception. Forest goblins are small, wiry things, three to four feet tall, with skin that shifts between deep green and earthy brown depending on the season. They wear the forest as clothing – leaves woven into garments, feathers braided into wild hair, bark strips forming armor. Their eyes are bright and alert, constantly tracking movement and sound. When they move, they do so with flowing grace, as though the forest itself is merely an extension of their bodies. They seem less like creatures of civilization and more like the forest made aware.
+A shape in the green flickers at the edge of perception. Forest goblins are small, wiry things, three to four feet tall, with skin that shifts between deep green and earthy brown depending on the season. They wear the forest as clothing—leaves woven into garments, feathers braided into wild hair, bark strips forming armor. Their eyes are bright and alert, constantly tracking movement and sound. When they move, they do so with flowing grace, as though the forest itself is merely an extension of their bodies. They seem less like creatures of civilization and more like the forest made aware.
 
 # Dossier {#dossier}
 
@@ -349,15 +349,15 @@ Forest goblins are sapient beings that dwell in deep woodlands, existing as soli
 
 ## Presentation
 
-Forest goblins stand three to four feet tall, with wiry builds made for climbing and moving through dense undergrowth. Their skin is dark green to earthy brown, often mottled or striped with patterns that provide natural camouflage. Their features are sharp-angled – pointed ears that are mobile and highly attuned to sound, large bright eyes that seem to reflect light, wide mouths that display sharp teeth. Their hair is long and wild, usually matted and decorated with feathers, leaves, small bones, and trinkets. Their clothing is woven from natural materials – bark cloth, leather, vine-woven garments, adorned with shells, teeth, claws, and other trophies from their exploits.
+Forest goblins stand three to four feet tall, with wiry builds made for climbing and moving through dense undergrowth. Their skin is dark green to earthy brown, often mottled or striped with patterns that provide natural camouflage. Their features are sharp-angled—pointed ears that are mobile and highly attuned to sound, large bright eyes that seem to reflect light, wide mouths that display sharp teeth. Their hair is long and wild, usually matted and decorated with feathers, leaves, small bones, and trinkets. Their clothing is woven from natural materials—bark cloth, leather, vine-woven garments, adorned with shells, teeth, claws, and other trophies from their exploits.
 
 ## Key Behaviors
 
-Forest goblins are opportunistic and individualistic. They hunt the forest continually and seem to take pleasure in the hunt as much as in the food it brings. Each goblin is focused on personal status within the social hierarchy of their kind, and they accumulate trophies, kills, and stories to enhance their standing. Multiple goblins in an area may hunt cooperatively if prey is large, but they quickly dissolve back into solitary pursuits. They are highly territorial about specific hunting grounds and will drive out competitors. They seem to view most other species as either prey, competition, or entertainment. Their treatment of captured humanoids varies based on whim – some are killed immediately, some are tortured for amusement, some are released to spread tales of goblin prowess.
+Forest goblins are opportunistic and individualistic. They hunt the forest continually and seem to take pleasure in the hunt as much as in the food it brings. Each goblin is focused on personal status within the social hierarchy of their kind, and they accumulate trophies, kills, and stories to enhance their standing. Multiple goblins in an area may hunt cooperatively if prey is large, but they quickly dissolve back into solitary pursuits. They are highly territorial about specific hunting grounds and will drive out competitors. They seem to view most other species as either prey, competition, or entertainment. Their treatment of captured humanoids varies based on whim—some are killed immediately, some are tortured for amusement, some are released to spread tales of goblin prowess.
 
 ## Combat Strategy
 
-Forest goblins are ambush specialists. They attack from above from trees, from concealment in undergrowth, from positions of advantage where their superior agility and local knowledge dominate. They rarely engage in open combat; instead, they use the forest to make killing grounds. A forest goblin alone will often flee if the fight turns against them. Multiple goblins coordinate simple tactics – some creating distraction while others position for devastating strikes. They favor ranged weapons – shortbows, blowguns, sling weapons – and follow up with spear or knife if an enemy gets close. Most weapons are treated with natural toxins derived from forest plants and insects.
+Forest goblins are ambush specialists. They attack from above from trees, from concealment in undergrowth, from positions of advantage where their superior agility and local knowledge dominate. They rarely engage in open combat; instead, they use the forest to make killing grounds. A forest goblin alone will often flee if the fight turns against them. Multiple goblins coordinate simple tactics—some creating distraction while others position for devastating strikes. They favor ranged weapons—shortbows, blowguns, sling weapons—and follow up with spear or knife if an enemy gets close. Most weapons are treated with natural toxins derived from forest plants and insects.
 
 ## Attack Methods
 
@@ -401,7 +401,7 @@ Forest goblins are natural deceivers and liars, skilled at creating confusion th
 
 ## Additional Information
 
-Forest goblins are territorial but not as fiercely so as cave goblins. An individual goblin can sometimes be negotiated with if approached correctly and offered something they value – certain foods, weapons, shiny objects, or entertainment. They are far more likely to be amused than offended by human intrusion into their territory if the humans demonstrate respect for forest traditions. A group of forest goblins is much less predictable and negotiation becomes difficult. Those venturing into deep forests should realize that forest goblins have already seen them, have assessed their value, and are deciding what to do about them.
+Forest goblins are territorial but not as fiercely so as cave goblins. An individual goblin can sometimes be negotiated with if approached correctly and offered something they value—certain foods, weapons, shiny objects, or entertainment. They are far more likely to be amused than offended by human intrusion into their territory if the humans demonstrate respect for forest traditions. A group of forest goblins is much less predictable and negotiation becomes difficult. Those venturing into deep forests should realize that forest goblins have already seen them, have assessed their value, and are deciding what to do about them.
 
 ## Attributes
 

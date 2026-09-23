@@ -220,7 +220,7 @@ sohl:
 
 ![[gntspdr|Giant Spider]]{float: top-left}
 
-The smell reaches you first: acrid, wrong, the scent of digestive secretions and decaying flesh. You see the web before you see the creator – strands as thick as rope extending across the cavern or dense forest, catching light with an oily sheen. Then movement: something massive moving along a strand with absolute confidence, and your eyes struggle to take in its size. The body is a bloated orb four feet across, glossy black or dark brown in color, covered in fine bristles that quiver constantly. The legs are impossibly long and articulate, jointed in ways that make your brain hurt to watch. There are eight eyes – arranged across the front of the head, each one catching light and reflecting it back with terrible intelligence. The mouth opens, revealing fangs that glisten with clear venom. The sound it makes – a skittering, clicking, rustling – is the sound of your own death approaching.
+The smell reaches you first: acrid, wrong, the scent of digestive secretions and decaying flesh. You see the web before you see the creator—strands as thick as rope extending across the cavern or dense forest, catching light with an oily sheen. Then movement: something massive moving along a strand with absolute confidence, and your eyes struggle to take in its size. The body is a bloated orb four feet across, glossy black or dark brown in color, covered in fine bristles that quiver constantly. The legs are impossibly long and articulate, jointed in ways that make your brain hurt to watch. There are eight eyes—arranged across the front of the head, each one catching light and reflecting it back with terrible intelligence. The mouth opens, revealing fangs that glisten with clear venom. The sound it makes—a skittering, clicking, rustling—is the sound of your own death approaching.
 
 # Dossier {#dossier}
 
@@ -232,11 +232,11 @@ The Giant Spider is a creature of nightmarish proportions but distinctive arachn
 
 ## Key Behaviors
 
-Giant Spiders are solitary creatures that establish vast territories defined by their web systems. A spider spends much of its time at rest at the center of its web, feeling for vibrations that indicate prey. The creature is patient – it can wait motionless for days if necessary, entering a state of minimal metabolic activity. When prey touches the web, the spider responds with shocking speed, rushing to wrap and inject venom. The spider consumes only the liquid contents of prey, leaving exoskeletons or bone behind as litter. A spider's territory is recognizable by the accumulated remains of meals.
+Giant Spiders are solitary creatures that establish vast territories defined by their web systems. A spider spends much of its time at rest at the center of its web, feeling for vibrations that indicate prey. The creature is patient—it can wait motionless for days if necessary, entering a state of minimal metabolic activity. When prey touches the web, the spider responds with shocking speed, rushing to wrap and inject venom. The spider consumes only the liquid contents of prey, leaving exoskeletons or bone behind as litter. A spider's territory is recognizable by the accumulated remains of meals.
 
 ## Combat Strategy
 
-A Giant Spider prefers to fight in its own web – the spider can move through the sticky strands at full speed while prey becomes progressively more entangled. If forced to fight outside its web, the spider becomes more cautious but retains tactical advantage through speed and agility. The spider uses webs as both offense and defense, creating new barriers during combat or fleeing through pre-positioned escape routes within the web maze. A spider defending its lair becomes absolutely desperate and commits fully to combat, apparently willing to sustain any injury to eliminate threats.
+A Giant Spider prefers to fight in its own web—the spider can move through the sticky strands at full speed while prey becomes progressively more entangled. If forced to fight outside its web, the spider becomes more cautious but retains tactical advantage through speed and agility. The spider uses webs as both offense and defense, creating new barriers during combat or fleeing through pre-positioned escape routes within the web maze. A spider defending its lair becomes absolutely desperate and commits fully to combat, apparently willing to sustain any injury to eliminate threats.
 
 ## Attack Methods
 
@@ -246,13 +246,13 @@ The spider strikes with precise bites, injecting fast-acting venom designed to p
 
 ### Venom Spit
 
-The spider can eject a spray of venom-tinged webbing from its spinnerets – a sticky, paralyzing substance that coats anything in its path and entangles movement. Repeated coats deepen the paralysis.
+The spider can eject a spray of venom-tinged webbing from its spinnerets—a sticky, paralyzing substance that coats anything in its path and entangles movement. Repeated coats deepen the paralysis.
 
 ## Special Abilities
 
 ### Web Mastery
 
-The Giant Spider can create and manipulate vast webs of extraordinary strength – the silk is multiple times stronger than steel wire of equivalent thickness. The spider can move through its own web at full speed while intruders become progressively more entangled. The web is invisible in darkness and difficult to spot even in good light.
+The Giant Spider can create and manipulate vast webs of extraordinary strength—the silk is multiple times stronger than steel wire of equivalent thickness. The spider can move through its own web at full speed while intruders become progressively more entangled. The web is invisible in darkness and difficult to spot even in good light.
 
 ### Climbing Mastery
 
@@ -260,7 +260,7 @@ The spider can move across any surface (horizontal, vertical, or even inverted) 
 
 ## Additional Information
 
-Giant Spider webs have value – the silk can be harvested and used for rope, armor reinforcement, or specialized kit. However, harvesting silk from an active web almost always alerts the spider. A spider's venom is valuable to alchemists and can be harvested (extremely dangerously) by collectors. Fire is the spider's primary weakness – flames destroy the web and cause the creature to flee. Spiders are said by some to be open to negotiation through magical means, though such claims should be treated with deep skepticism.
+Giant Spider webs have value—the silk can be harvested and used for rope, armor reinforcement, or specialized kit. However, harvesting silk from an active web almost always alerts the spider. A spider's venom is valuable to alchemists and can be harvested (extremely dangerously) by collectors. Fire is the spider's primary weakness—flames destroy the web and cause the creature to flee. Spiders are said by some to be open to negotiation through magical means, though such claims should be treated with deep skepticism.
 
 ## Attributes
 

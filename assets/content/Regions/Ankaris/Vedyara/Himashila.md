@@ -3,7 +3,7 @@ tags:
   - sacred
   - strange
   - inland
-description: "The slab at the head of the Chandramahī's source – gray, warm, giving under a thumb, unmarked by anything the ice or the temple has done to it in four hundred years."
+description: "The slab at the head of the Chandramahī's source—gray, warm, giving under a thumb, unmarked by anything the ice or the temple has done to it in four hundred years."
 type: place
 subType: site
 data:
@@ -28,7 +28,7 @@ To the eye it is polished stone: smooth, and a uniform gray with no vein, no fig
 
 Nothing has ever marked it. Not the glacier, which has ground the col flat all round it and parts to either side of it; not the temple's four centuries of washing; not any tool, fire or working anyone has brought up here. Nothing can be taken off it and nothing can be added to it, it cannot be shifted or tipped or dragged an inch from where it lies, and it neither weathers nor dulls nor discolors.
 
-There is nothing written on it. Not an inscription, not a mark, not a sign of any kind – which is the thing a scholar cannot get past, in a country that carves a donor's name on every temple step. The rock shelf around it is cut over with four centuries of pilgrims' names and the temple's own dated dedications, and every one of them stops dead at the slab's edge.
+There is nothing written on it. Not an inscription, not a mark, not a sign of any kind—which is the thing a scholar cannot get past, in a country that carves a donor's name on every temple step. The rock shelf around it is cut over with four centuries of pilgrims' names and the temple's own dated dedications, and every one of them stops dead at the slab's edge.
 
 ## What It Does
 
@@ -40,7 +40,7 @@ The [[affiliation-trimurtisampradaya|Trimūrti]] priests hold it the god's foots
 
 Two winters ago the spring iced over, and stayed iced for nine days, which had never happened in the temple's record. Then it ran again.
 
-The slab was unchanged throughout – gray, warm, giving – and is unchanged now. There is nothing to show and nothing to point at, and the temple has entered nothing in the record, on the ground that nine days of weather is not an entry.
+The slab was unchanged throughout—gray, warm, giving—and is unchanged now. There is nothing to show and nothing to point at, and the temple has entered nothing in the record, on the ground that nine days of weather is not an entry.
 
 ## See Also
 

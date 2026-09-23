@@ -24,7 +24,7 @@ Behdet is the capital of [[affiliation-nomebhdtrs|the Nome of Behdet-Resu]] and 
 
 ## See Also
 
-- [[affiliation-nomebhdtrs|The Nome of Behdet-Resu]] – Parent nome
-- [[affiliation-bordernoms|The Border Nomes]] – Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview
-- [[affiliation-mentu|Mentu]] – Patron cult
+- [[affiliation-nomebhdtrs|The Nome of Behdet-Resu]]—Parent nome
+- [[affiliation-bordernoms|The Border Nomes]]—Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
+- [[affiliation-mentu|Mentu]]—Patron cult

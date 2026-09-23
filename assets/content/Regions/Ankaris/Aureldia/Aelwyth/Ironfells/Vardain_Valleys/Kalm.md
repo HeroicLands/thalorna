@@ -3,7 +3,7 @@ tags:
   - village
   - mountain
   - valley
-description: "The grain village of the lower valleys – the flattest, warmest ground the Vardain have, and the one that swelled most when the refugees came up."
+description: "The grain village of the lower valleys—the flattest, warmest ground the Vardain have, and the one that swelled most when the refugees came up."
 type: place
 subType: settlement
 data:
@@ -32,8 +32,8 @@ memory of **Vardanreach** is freshest, where the thralls of the [[place-stormpla
 spoken of as cousins rather than as history, and where the valleys' careful silence about doing anything
 for them is hardest to keep.
 
-Kalm is also where those who get over the mountains arrive. It is a hard crossing – days over the
-[[place-sunderfells|Sunderfells]] from a plain that is watched – and few attempt it, but the ones who
+Kalm is also where those who get over the mountains arrive. It is a hard crossing—days over the
+[[place-sunderfells|Sunderfells]] from a plain that is watched—and few attempt it, but the ones who
 manage it come down into this valley, and Kalm has never yet turned one away.
 
 ## See Also

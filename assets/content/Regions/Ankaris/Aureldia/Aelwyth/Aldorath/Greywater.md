@@ -3,7 +3,7 @@ tags:
   - town
   - port
   - river
-description: "Aldorath's river port on the tidal reach – the kingdom's outlet to the sea, and the place its trade meets the Synod's requirement."
+description: "Aldorath's river port on the tidal reach—the kingdom's outlet to the sea, and the place its trade meets the Synod's requirement."
 type: place
 subType: settlement
 data:

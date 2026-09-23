@@ -1,5 +1,5 @@
 ---
-description: "Haradian maritime guild – war-veteran captains blurring legitimate shipping and piracy, providing de facto navy and naval muscle for the Confederation."
+description: "Haradian maritime guild—war-veteran captains blurring legitimate shipping and piracy, providing de facto navy and naval muscle for the Confederation."
 type: affiliation
 name:
   full: Corsair League
@@ -48,7 +48,7 @@ data:
         title: Warden
         lore: officerrnk
         description: >-
-          Elected to inspect the craft – its work, its weights, its prices – and to present
+          Elected to inspect the craft—its work, its weights, its prices—and to present
           offenders.
       - level: 6
         title: Assistant
@@ -75,7 +75,7 @@ data:
       Clerk: Keeper of the guild's roll, its indentures, its minutes and its correspondence.
       Beadle: Summoner of the assembly and server of its process; the guild's hands in enforcement.
       Searcher: Examiner of goods offered under the guild's mark, whose refusal ends a sale.
-      Treasurer: Keeper of the guild's box – its dues, its fines and its loans to members.
+      Treasurer: Keeper of the guild's box—its dues, its fines and its loans to members.
       Almoner: Administrator of the guild's relief to sick members, widows and orphans.
       Keeper of the Hall: Warden of the guild's house, its plate, its records and its feasts.
   commonSkills:
@@ -91,7 +91,7 @@ headquarters: city-of-kethara
 packFolder: harad
 ---
 
-The Corsair League is Harad's maritime guild – an organization that blurs the line between legitimate shipping, naval power, and outright piracy depending on the political weather. Founded by the captains and admirals who won the [[affiliation-cnfdrtnhrdnstts|Battle of Tamzîr Shoals]], the League was originally a fraternity of war veterans. It has since evolved into a powerful shipping cartel that controls much of Harad's merchant marine and provides the Confederation's de facto navy.
+The Corsair League is Harad's maritime guild—an organization that blurs the line between legitimate shipping, naval power, and outright piracy depending on the political weather. Founded by the captains and admirals who won the [[affiliation-cnfdrtnhrdnstts|Battle of Tamzîr Shoals]], the League was originally a fraternity of war veterans. It has since evolved into a powerful shipping cartel that controls much of Harad's merchant marine and provides the Confederation's de facto navy.
 
 ## Character
 
@@ -101,12 +101,12 @@ The League's relationship with the [[affiliation-auricompct|Auric Compact]] is o
 
 ## The Privateer Problem
 
-The League's charter gives its captains broad authority to "protect Haradian commerce" – language that has been interpreted to include attacking competitors' ships in disputed waters, seizing cargoes from vessels trading outside guild agreements, and occasional outright piracy against targets of opportunity. The Grand Council periodically threatens to revoke these privileges; the League reminds the Council that it provides the only naval force standing between Harad and a [[affiliation-vylarinmpr|Vylarian]] reconquest.
+The League's charter gives its captains broad authority to "protect Haradian commerce"—language that has been interpreted to include attacking competitors' ships in disputed waters, seizing cargoes from vessels trading outside guild agreements, and occasional outright piracy against targets of opportunity. The Grand Council periodically threatens to revoke these privileges; the League reminds the Council that it provides the only naval force standing between Harad and a [[affiliation-vylarinmpr|Vylarian]] reconquest.
 
 Independent operators like the [[affiliation-thetamzir|The Tamzîr]] exist in a gray zone. The League would prefer that all Haradian-flagged vessels operate under its umbrella. Captains who refuse face harassment, port restrictions, and occasionally "mistaken" confrontations at sea.
 
 ## See Also
 
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] – Parent polity
-- [[affiliation-auricompct|Auric Compact]], [[affiliation-mrchntryvl|Merchantry of the Veil]] – Rival guilds
-- [[affiliation-kethara|Kethara]] – Headquarters
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—Parent polity
+- [[affiliation-auricompct|Auric Compact]], [[affiliation-mrchntryvl|Merchantry of the Veil]]—Rival guilds
+- [[affiliation-kethara|Kethara]]—Headquarters

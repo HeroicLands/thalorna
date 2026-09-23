@@ -13,7 +13,7 @@ name:
 shortcode: hathurhtzhk
 description: >-
   Warlord risen out of the Hëkvōr, the Black Wilds north of the Empire of
-  Tānvür – a master strategist whose steppe confederation has become the
+  Tānvür—a master strategist whose steppe confederation has become the
   gravest external threat the imperial frontier has faced in a generation.
 type: being
 data:
@@ -54,12 +54,12 @@ TBD
 > written.
 
 Bāthür Hürtzhük emerged from the northern wilderness the Tānvüri call the
-**Hëkvōr** – the Black Wilds – and welded its scattered steppe peoples into a
+**Hëkvōr**—the Black Wilds—and welded its scattered steppe peoples into a
 single fighting confederation. He is a strategist before he is a warrior, and
 the Empire's frontier commanders have learned that the campaigns he loses are
 the ones he intended to lose.
 
 # See Also
 
-- [[lore-bthrhrtzhk|Bāthür Hürtzhük]] – the threat as the Empire understands it
-- [[affiliation-tanvurempr|Empire of Tānvür]] – the power he presses against
+- [[lore-bthrhrtzhk|Bāthür Hürtzhük]]—the threat as the Empire understands it
+- [[affiliation-tanvurempr|Empire of Tānvür]]—the power he presses against

@@ -3,7 +3,7 @@ tags:
   - river
   - trading
   - inland
-description: "The westernmost of the four great rivers – from the ice under Sūryaśikhara through the gem-road valleys to the delta and the city-state that lives off it."
+description: "The westernmost of the four great rivers—from the ice under Sūryaśikhara through the gem-road valleys to the delta and the city-state that lives off it."
 type: place
 subType: feature
 data:
@@ -28,7 +28,7 @@ Boats work the river from the delta up to the last of the terraces below the hig
 
 It floods on snowmelt first and monsoon second, which makes it the most predictable of the four and the least forgiving when it is wrong: a warm spring on [[place-sthrnwall|the Southern Wall]] puts the rise three weeks early, and the janapadas of the middle valley plant by the temple almanac rather than by the water because the water has fooled them.
 
-Its lower valley carries the gem-road – the traffic of worked stone, gold and finished metal coming down out of the highlands to the coast – and the traffic is the reason the river has a fleet on it, a customs regime along it and a permanent argument about both.
+Its lower valley carries the gem-road—the traffic of worked stone, gold and finished metal coming down out of the highlands to the coast—and the traffic is the reason the river has a fleet on it, a customs regime along it and a permanent argument about both.
 
 ## Circuits
 

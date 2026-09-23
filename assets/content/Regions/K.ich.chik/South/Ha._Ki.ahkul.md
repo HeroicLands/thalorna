@@ -20,7 +20,7 @@ packFolder: south
 
 ## Overview
 
-Ha’ Ki’ahkul, "The Water House of Fire," is named for the volcanic activity that dominates the landscape and defines the city’s purpose. Built on the flanks of a semi-active volcano, Ha’ Ki’ahkul is the undisputed center of metalworking and obsidian craftsmanship in [[affiliation-balamtzaku|Ba’alam Tza’ku]]. The heat and mineral richness of the volcanic earth provide the resources and energy that master smiths and craftspeople use to create items of legendary quality – from functional tools to ceremonial vessels of stunning artistry.
+Ha’ Ki’ahkul, "The Water House of Fire," is named for the volcanic activity that dominates the landscape and defines the city’s purpose. Built on the flanks of a semi-active volcano, Ha’ Ki’ahkul is the undisputed center of metalworking and obsidian craftsmanship in [[affiliation-balamtzaku|Ba’alam Tza’ku]]. The heat and mineral richness of the volcanic earth provide the resources and energy that master smiths and craftspeople use to create items of legendary quality—from functional tools to ceremonial vessels of stunning artistry.
 
 ## Location and Geography
 
@@ -32,10 +32,10 @@ Ha’ Ki’ahkul is a city of artisans and craftspeople. Master smiths work copp
 
 ## People and Culture
 
-Ha’ Ki’ahkul is less cosmopolitan than [[place-hakukul|Ha’ K’ukul]], more focused and inward. The population is primarily concentrated among craftspeople families – guilds that have worked certain trades for generations. Social status is determined largely by skill and guild rank. The city has a reputation for producing artisans of exceptional ability, and master craftspeople from Ha’ Ki’ahkul are sought throughout [[place-kchchkcntnnt|K’ich’chik]].
+Ha’ Ki’ahkul is less cosmopolitan than [[place-hakukul|Ha’ K’ukul]], more focused and inward. The population is primarily concentrated among craftspeople families—guilds that have worked certain trades for generations. Social status is determined largely by skill and guild rank. The city has a reputation for producing artisans of exceptional ability, and master craftspeople from Ha’ Ki’ahkul are sought throughout [[place-kchchkcntnnt|K’ich’chik]].
 
 ## See Also
 
-- [[affiliation-balamtzaku|Ba’alam Tza’ku]] – The highland region
-- [[place-hakukul|Ha’ K’ukul]] – The trade hub to the south
-- [[affiliation-itzanpnthn|Itzáni]] – The priesthood that controls tribute
+- [[affiliation-balamtzaku|Ba’alam Tza’ku]]—The highland region
+- [[place-hakukul|Ha’ K’ukul]]—The trade hub to the south
+- [[affiliation-itzanpnthn|Itzáni]]—The priesthood that controls tribute

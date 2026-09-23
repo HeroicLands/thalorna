@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "The Nurturer of the Aurèldián pantheon – fertility, bloom, and the bearing of children and crops alike."
+description: "The Nurturer of the Aurèldián pantheon—fertility, bloom, and the bearing of children and crops alike."
 type: lore
 subType: deity
 name:

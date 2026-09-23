@@ -1,7 +1,7 @@
 ---
 tags:
   - region
-description: "The land of the Holy Kingdom of Nartûm – the independent Vylari-speaking realm ruled from the holy city of Nartûm under its priestly aristocracy."
+description: "The land of the Holy Kingdom of Nartûm—the independent Vylari-speaking realm ruled from the holy city of Nartûm under its priestly aristocracy."
 name:
   full: Nartûm Kingdom
   aliases: []
@@ -24,6 +24,6 @@ Nartûm Kingdom is the land of the [[affiliation-hlykngdmnrtm|Holy Kingdom of Na
 
 ## See Also
 
-- [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]] – The kingdom that holds this land
-- [[place-vylariargn|Vylaría Region]] – The enclosing region
-- Nartûm – The holy city, its seat
+- [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]]—The kingdom that holds this land
+- [[place-vylariargn|Vylaría Region]]—The enclosing region
+- Nartûm—The holy city, its seat

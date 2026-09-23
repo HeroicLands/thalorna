@@ -335,7 +335,7 @@ sohl:
 
 ![[glmfng|Gloomfang]]{float: top-left}
 
-Eyes catch your torchlight first – dozens of them, rings of luminescent violet that hover at shoulder height in the darkness. Then you see the creatures themselves: hunched, rat-like things the size of large dogs, covered in matted fur that might once have been brown. Teeth fill their mouths in irregular rows, and they move with skittering, jerky energy that seems neither quite natural nor entirely corrupted. They surround you in a loose circle, no sound but the rustle of movement and the constant, hungry breathing. They are waiting for something.
+Eyes catch your torchlight first—dozens of them, rings of luminescent violet that hover at shoulder height in the darkness. Then you see the creatures themselves: hunched, rat-like things the size of large dogs, covered in matted fur that might once have been brown. Teeth fill their mouths in irregular rows, and they move with skittering, jerky energy that seems neither quite natural nor entirely corrupted. They surround you in a loose circle, no sound but the rustle of movement and the constant, hungry breathing. They are waiting for something.
 
 # Dossier {#dossier}
 
@@ -347,7 +347,7 @@ A Gloomfang is a twisted rodent roughly the size of a large dog, standing five t
 
 ## Key Behaviors
 
-Gloomfangs are pack animals that operate under a distributed, hive-like intelligence. Each individual pack seems to answer to a larger alpha or queen, and packs in close proximity may coordinate across distance. They are active hunters that spend most daylight hours in deep caverns away from light, but they will hunt at surface level in darkness. They establish territories and aggressively defend them from both other packs and large predators. They are primarily scavengers that eat nearly anything, but they will hunt living prey when opportunity provides. When hunting, they use coordinated tactics – separating individuals, driving prey into traps, using their numbers to overwhelm defenses. Pack size ranges from three or four individuals to dozens in large colonies.
+Gloomfangs are pack animals that operate under a distributed, hive-like intelligence. Each individual pack seems to answer to a larger alpha or queen, and packs in close proximity may coordinate across distance. They are active hunters that spend most daylight hours in deep caverns away from light, but they will hunt at surface level in darkness. They establish territories and aggressively defend them from both other packs and large predators. They are primarily scavengers that eat nearly anything, but they will hunt living prey when opportunity provides. When hunting, they use coordinated tactics—separating individuals, driving prey into traps, using their numbers to overwhelm defenses. Pack size ranges from three or four individuals to dozens in large colonies.
 
 ## Combat Strategy
 

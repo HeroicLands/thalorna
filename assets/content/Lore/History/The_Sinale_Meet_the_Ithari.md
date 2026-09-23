@@ -2,7 +2,7 @@
 tags:
   - history
   - spine
-description: "Sinalë wayfarers come upon the Ithári by chance, are received with courtesy and politely declined – the only contact between the Ithári and an Elder Race in any record."
+description: "Sinalë wayfarers come upon the Ithári by chance, are received with courtesy and politely declined—the only contact between the Ithári and an Elder Race in any record."
 type: lore
 subType: history
 name:
@@ -43,7 +43,7 @@ event:
     - by: lore-flksinale
       says: >-
         We came upon them, we were not rebuffed and not taken seriously, and the impression we came
-        away with – given as an impression – is that we were found quaint.
+        away with—given as an impression—is that we were found quaint.
       agrees: partly
       withholds: where it happened, what was said, and what the others were doing when they were found
     - by: affiliation-kalihara
@@ -62,7 +62,7 @@ came upon them. They were received. They were not rebuffed, threatened, question
 No exchange was proposed and no further meeting was arranged. The others returned to whatever they had
 been doing, and the Sinalë went away.
 
-The limit of it is worth stating plainly. The Sinalë met someone and learned nothing – not who they
+The limit of it is worth stating plainly. The Sinalë met someone and learned nothing—not who they
 had met, not where those people had come from, not that there was any connection between them and
 anything else in the world. They do not use the name Ithári, because they were never given it. Nobody
 told the Kaliharans either, and Kalihara has never told them.

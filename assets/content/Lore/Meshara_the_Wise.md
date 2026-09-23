@@ -3,7 +3,7 @@ tags:
   - lore
   - history
   - takheperu
-description: "An apothecary of Ankh-Setûn who served the city's poor for decades and went out as a caravan head scout as far as the Nordlands into her old age – the mentor of Shebas Thutmosa and Sênta Ta'Sereket, dead now, whose proof of a conspiracy inside the Mercenaries' Guild still lies hidden in the Shattered Peaks."
+description: "An apothecary of Ankh-Setûn who served the city's poor for decades and went out as a caravan head scout as far as the Nordlands into her old age—the mentor of Shebas Thutmosa and Sênta Ta'Sereket, dead now, whose proof of a conspiracy inside the Mercenaries' Guild still lies hidden in the Shattered Peaks."
 type: lore
 subType: history
 name:
@@ -14,7 +14,7 @@ shortcode: mesharawse
 packFolder: settinglore
 ---
 
-**Meshara the Wise** was an apothecary of [[place-ankhsetun|Ankh-Setûn]] who served the city's poor for decades and died at an extraordinary age. She was also, for as long as her legs would carry her, a caravan head scout – a hard woman who ranged as far as the [[place-nrdlndsrgn|Nordlands]] and taught wild-country craft to the porters and guards who showed a gift for it. Two of the most capable people in the [[affiliation-empirtkhpr|Empire of Ta'Kheperu]] call her their teacher – [[being-shebsthtms|Shebas Thutmosa]], who inherited her shop, and [[being-sentatsrkt|Sênta Ta'Sereket]], who learned the road from her – and each of them knew a different half of her. She is dead. What she left behind is not.
+**Meshara the Wise** was an apothecary of [[place-ankhsetun|Ankh-Setûn]] who served the city's poor for decades and died at an extraordinary age. She was also, for as long as her legs would carry her, a caravan head scout—a hard woman who ranged as far as the [[place-nrdlndsrgn|Nordlands]] and taught wild-country craft to the porters and guards who showed a gift for it. Two of the most capable people in the [[affiliation-empirtkhpr|Empire of Ta'Kheperu]] call her their teacher—[[being-shebsthtms|Shebas Thutmosa]], who inherited her shop, and [[being-sentatsrkt|Sênta Ta'Sereket]], who learned the road from her—and each of them knew a different half of her. She is dead. What she left behind is not.
 
 ## The Shop
 
@@ -26,7 +26,7 @@ The shop did not hold her. For much of every year Meshara went out as head scout
 
 The Nordlands run was the longest Thoren's caravans made, and Meshara knew the far end of it better than anyone in his service: the pass road climbing from [[place-steinmark|Steinmark]] in the [[affiliation-kingdmnrgd|Kingdom of Norgaad]], and above it the [[place-shtrdpks|Shattered Peaks]], five leagues of broken stone where a cache set in the right cleft is safe from anyone who does not already know the cleft.
 
-The two callings were one craft to her. A head scout in wild country is also the caravan's healer, and what grows along a route, what stops bleeding, what brings a fever down and what kills was knowledge she carried in both directions – learned on the road, refined in the shop, and taken back out again.
+The two callings were one craft to her. A head scout in wild country is also the caravan's healer, and what grows along a route, what stops bleeding, what brings a fever down and what kills was knowledge she carried in both directions—learned on the road, refined in the shop, and taken back out again.
 
 ## What She Taught
 
@@ -38,12 +38,12 @@ The two teachings are one. A scout who misses a sign kills a caravan; an apothec
 
 ## Her Death
 
-Meshara died in Ankh-Setûn at an extraordinary age, a few years after Sênta came under her, still going out with the caravans until the last season she could. Shebas inherited the shop and its philosophy and has made of it what her teacher would recognize – a destination for the city's poorest, treated whether or not they can pay. Sênta, on the road, learned of the death late, and what reached her carried something more than grief.
+Meshara died in Ankh-Setûn at an extraordinary age, a few years after Sênta came under her, still going out with the caravans until the last season she could. Shebas inherited the shop and its philosophy and has made of it what her teacher would recognize—a destination for the city's poorest, treated whether or not they can pay. Sênta, on the road, learned of the death late, and what reached her carried something more than grief.
 
 ## What Remains
 
-Wounded men talk to the woman who dresses their wounds. Over her years in the warehouse district Meshara treated guards and drivers off caravans that had been reported lost, and she knew the trade well enough to hear what their accounts added up to: senior officers of the Mercenaries' Guild of Ta'Kheperu in league with bandit companies, arranging the robberies and sharing the indemnities paid out on a lost caravan. She gathered proof of it, and she gathered it the way she scouted a route – patiently, exactly, and without telling anyone what she was doing.
+Wounded men talk to the woman who dresses their wounds. Over her years in the warehouse district Meshara treated guards and drivers off caravans that had been reported lost, and she knew the trade well enough to hear what their accounts added up to: senior officers of the Mercenaries' Guild of Ta'Kheperu in league with bandit companies, arranging the robberies and sharing the indemnities paid out on a lost caravan. She gathered proof of it, and she gathered it the way she scouted a route—patiently, exactly, and without telling anyone what she was doing.
 
-She did not keep the proof in the shop. On the last Nordlands run she made, she carried it north and set it in the Shattered Peaks, at a spot only Sênta knows how to reach – a cleft Meshara had shown her on an earlier crossing. Her final message, arranged to reach Sênta after her death, says that she is dead and where the proof lies. It says nothing about what Sênta should do with it.
+She did not keep the proof in the shop. On the last Nordlands run she made, she carried it north and set it in the Shattered Peaks, at a spot only Sênta knows how to reach—a cleft Meshara had shown her on an earlier crossing. Her final message, arranged to reach Sênta after her death, says that she is dead and where the proof lies. It says nothing about what Sênta should do with it.
 
 The shop holds the rest of what she knew. Her records, now in Shebas's keeping, name who was treated for what and when, and among the names are men from caravans the Guild paid out on. Anyone inside the Guild who learns that Meshara kept notes has a reason to want them, and Shebas does not yet know what she is holding.

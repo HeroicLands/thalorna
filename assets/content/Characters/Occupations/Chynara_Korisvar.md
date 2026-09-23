@@ -593,10 +593,10 @@ A victualer of the town who buys cheap salt and cheaper fish, sells his barrels 
 
 ## Plot Hooks
 
-1. **The Bad Barrels** – The garrison's winter store has begun to spoil, barrel by barrel, and the barrels are the rival victualer's with Chýnara's mark forged on them. The quartermaster has come to her first.
+1. **The Bad Barrels**—The garrison's winter store has begun to spoil, barrel by barrel, and the barrels are the rival victualer's with Chýnara's mark forged on them. The quartermaster has come to her first.
 
-2. **The Short Store** – The autumn catch failed and the herds were raided, and Chýnara has salted half what the winter needs. The passes close in three weeks. What she has will feed the garrison or the town, not both.
+2. **The Short Store**—The autumn catch failed and the herds were raided, and Chýnara has salted half what the winter needs. The passes close in three weeks. What she has will feed the garrison or the town, not both.
 
-3. **The Assize** – The rival victualer has brought a claim against Chýnara at the Winter Assize for a debt her mother never owed, and the court is snowed in with both of them until spring.
+3. **The Assize**—The rival victualer has brought a claim against Chýnara at the Winter Assize for a debt her mother never owed, and the court is snowed in with both of them until spring.
 
-4. **The Passes Close Early** – The snow has come a month before its time with the salt carts still below Valcèrise. Chýnara has fish in the yard and no salt to cure it.
+4. **The Passes Close Early**—The snow has come a month before its time with the salt carts still below Valcèrise. Chýnara has fish in the yard and no salt to cure it.

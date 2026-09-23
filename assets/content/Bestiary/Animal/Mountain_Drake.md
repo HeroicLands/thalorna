@@ -374,7 +374,7 @@ sohl:
 
 ![[mntndrk|Mountain Drake]]{float: top-left}
 
-The drake is barely visible until it moves – a granite-gray shape pressed against stone, perfectly motionless. Then a claw flexes against rock, and suddenly its form resolves: a sinuous reptilian body built low and powerful, spines running down its spine like a ridgeline in miniature. Curved horns catch the light, and its amber eyes are neither animal nor lifeless, but something in between. When it shifts position on its perch, the movement is economical and precise, and the view of the tiny vestigial wings folded against its sides suggests a creature that perhaps remembers larger ancestors – or dreams of becoming one.
+The drake is barely visible until it moves—a granite-gray shape pressed against stone, perfectly motionless. Then a claw flexes against rock, and suddenly its form resolves: a sinuous reptilian body built low and powerful, spines running down its spine like a ridgeline in miniature. Curved horns catch the light, and its amber eyes are neither animal nor lifeless, but something in between. When it shifts position on its perch, the movement is economical and precise, and the view of the tiny vestigial wings folded against its sides suggests a creature that perhaps remembers larger ancestors—or dreams of becoming one.
 
 # Dossier {#dossier}
 
@@ -382,7 +382,7 @@ The Mountain Drake is a mid-sized reptilian predator measuring 7-8 feet in lengt
 
 ## Presentation
 
-Mountain Drakes display rough, scaly hide in cryptic stone tones – granite gray, pale brown, darker charcoal, with lighter patches providing disruptive coloration against rocky backgrounds. The limbs are heavily muscled and end in sharp claws designed for climbing and gripping stone. The tail is nearly as long as the body, muscular and used for balance and combat. The head features a strong jaw line and forward-facing eyes that give excellent binocular vision. The spines along the back are sharp and can wound anyone pressed against them. Small, useless-looking wings fold tight against the sides of the body, barely visible until the drake shifts position. A distinctive sulfur-like smell surrounds them.
+Mountain Drakes display rough, scaly hide in cryptic stone tones—granite gray, pale brown, darker charcoal, with lighter patches providing disruptive coloration against rocky backgrounds. The limbs are heavily muscled and end in sharp claws designed for climbing and gripping stone. The tail is nearly as long as the body, muscular and used for balance and combat. The head features a strong jaw line and forward-facing eyes that give excellent binocular vision. The spines along the back are sharp and can wound anyone pressed against them. Small, useless-looking wings fold tight against the sides of the body, barely visible until the drake shifts position. A distinctive sulfur-like smell surrounds them.
 
 ## Key Behaviors
 

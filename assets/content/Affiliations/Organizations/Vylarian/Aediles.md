@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "The ward magistrates of Magnápolis – the court most citizens ever meet, keeping the district law over markets, licenses, weights, building and sanitation, and famously open to a bribe."
+description: "The ward magistrates of Magnápolis—the court most citizens ever meet, keeping the district law over markets, licenses, weights, building and sanitation, and famously open to a bribe."
 name:
   full: The Aediles
   aliases:
@@ -26,9 +26,9 @@ data:
         title: Struck from the Roll
         lore: expelledrnk
         description: >-
-          Put out of the magistracy with the record endorsed. The endorsement is the sentence –
-          it closes every civic office in the city, and the trades a former Aedile ruled over
-          remember him.
+          Put out of the magistracy with the record endorsed. The endorsement is the sentence—it
+          closes every civic office in the city, and the trades a former Aedile ruled over remember
+          him.
       - level: 1
         title: Ward Clerk
         lore: clerkrnk
@@ -40,7 +40,7 @@ data:
         title: Inspector
         lore: officerrnk
         description: >-
-          Walks the quarter and applies the district law at the door – shutters a business, levies
+          Walks the quarter and applies the district law at the door—shutters a business, levies
           a fine on the spot, or marks a building for pulling down. The office where the law is
           actually felt, and the one most often bought.
       - level: 3
@@ -63,7 +63,7 @@ data:
         Attests the measures the markets trade by. A false weight is the ward's commonest charge
         and its most reliable revenue.
       Clerk of the Roll: >-
-        Holds the licenses and the record of every ruling made in the ward – including, for anyone
+        Holds the licenses and the record of every ruling made in the ward—including, for anyone
         who can read a register, the pattern of which premises are inspected and which are not.
   commonSkills:
     - law
@@ -82,7 +82,7 @@ data:
 ---
 
 The Aediles are the civic magistrates of [[place-magnapolis|Magnápolis]], and the only court most of
-its people will ever stand before. They keep the **district law** – the intricate and jealously
+its people will ever stand before. They keep the **district law**—the intricate and jealously
 enforced body of rule that dictates precisely what trade, craft and commerce may be conducted in each
 quarter of the city, and what may not.
 
@@ -92,7 +92,7 @@ business, levy a fine, or order a building pulled down, and the [[affiliation-vy
 supplies the muscle behind the ruling. The Watch enforces and investigates; it does not judge. The
 Aediles judge.
 
-They sit at the bottom of the civic tier – below the Iudicia for civil suits and the Criminal Tribunal
+They sit at the bottom of the civic tier—below the Iudicia for civil suits and the Criminal Tribunal
 for theft and violence, and far below the [[affiliation-curiaurbis|Curia Urbis]], the five-Curator
 council that crowns the system and hears its gravest cases. The Curator of Law oversees them. To be
 summoned from an Aedile's bench up to the imperial tribunals in the Officia Imperii is, for most of
@@ -112,11 +112,11 @@ to sell. A ward is a magistrate's own and he answers upward rather than to his c
 is no bench to appeal to and no peer to complain of him to.
 
 What the money buys is rarely acquittal. It buys the inspection that does not happen, the measure
-that is not tested, the condemnation that is delayed a season – and, for the unlucky, the discovery
+that is not tested, the condemnation that is delayed a season—and, for the unlucky, the discovery
 that a rival has bought first.
 
 ## See Also
 
-- [[affiliation-curiaurbis|The Courts of Magnápolis]] – the Curia Urbis and the tiered civic courts above them
-- [[place-magnapolis|Magnápolis]] – the city whose wards they keep
-- [[affiliation-vylrnmltry|The Vylarian Military]] – home of the City Watch, which enforces their rulings
+- [[affiliation-curiaurbis|The Courts of Magnápolis]]—the Curia Urbis and the tiered civic courts above them
+- [[place-magnapolis|Magnápolis]]—the city whose wards they keep
+- [[affiliation-vylrnmltry|The Vylarian Military]]—home of the City Watch, which enforces their rulings

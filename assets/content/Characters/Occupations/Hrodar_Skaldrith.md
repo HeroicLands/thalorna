@@ -590,10 +590,10 @@ A younger war-leader of Waldburg who takes the raiding contracts Hródar refuses
 
 ## Plot Hooks
 
-1. **The Prince's Contract** – A river-prince has hired the Frath to take a village on his rival's bank, and the terms, read closely, are for the people in it. Hródar has sworn to it, and his men have spent the advance.
+1. **The Prince's Contract**—A river-prince has hired the Frath to take a village on his rival's bank, and the terms, read closely, are for the people in it. Hródar has sworn to it, and his men have spent the advance.
 
-2. **The Boy** – A boy Hródar trained went out under the younger war-leader and did not come back, and the war-leader's account of how he died is not the one the survivors tell.
+2. **The Boy**—A boy Hródar trained went out under the younger war-leader and did not come back, and the war-leader's account of how he died is not the one the survivors tell.
 
-3. **The Governor's Offer** – A Moktur governor has offered the Frath a standing post on the march, with pay and land, to hold the frontier against Varokh. Half his men want it.
+3. **The Governor's Offer**—A Moktur governor has offered the Frath a standing post on the march, with pay and land, to hold the frontier against Varokh. Half his men want it.
 
-4. **The Council** – The Council of Chieftains has been called against a Nordman push into the western forest, and Waldburg's chieftain means to send the younger man's band. Hródar is to stay and train boys.
+4. **The Council**—The Council of Chieftains has been called against a Nordman push into the western forest, and Waldburg's chieftain means to send the younger man's band. Hródar is to stay and train boys.

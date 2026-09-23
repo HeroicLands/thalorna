@@ -564,7 +564,7 @@ sohl:
 
 ![[damsnghlrn|Dámàsûn Ghôlâron]]{float: top-left}
 
-Dámàsûn Ghôlâron – known to most simply as Parma – is a tall, dark-skinned man of sixty years who carries his age with a quiet dignity that commands respect without demanding it. His black hair has gone largely gray, kept close-cropped against his skull, and his hazel eyes hold a depth of experience that is both comforting and faintly unsettling. He is lean but not frail, and he moves with a measured deliberateness that suggests far more physical capability than his humble cleric's garments would imply. He dresses in a simple light blue tunic, leather shoes, and carries a worn leather shoulder bag that appears to contain little more than books, herbs, and writing materials.
+Dámàsûn Ghôlâron—known to most simply as Parma—is a tall, dark-skinned man of sixty years who carries his age with a quiet dignity that commands respect without demanding it. His black hair has gone largely gray, kept close-cropped against his skull, and his hazel eyes hold a depth of experience that is both comforting and faintly unsettling. He is lean but not frail, and he moves with a measured deliberateness that suggests far more physical capability than his humble cleric's garments would imply. He dresses in a simple light blue tunic, leather shoes, and carries a worn leather shoulder bag that appears to contain little more than books, herbs, and writing materials.
 
 # Dossier {#dossier}
 
@@ -580,25 +580,25 @@ What is not easily verified is anything about the thirty years between Parma's y
 
 ### A Man of Contradictions
 
-Parma arrived aboard the Tamzîr five years ago, presenting himself as a wandering cleric seeking passage between ports. Shâ was suspicious – the man was too capable, too calm, too comfortable with the ship's illegal activities to be what he claimed. But Parma proved useful. His theological knowledge earned trust in ports where the crew had none. His quiet counsel helped navigate interpersonal conflicts. And on the three occasions when the Tamzîr was boarded by hostile forces, Parma proved devastatingly effective in a fight. Shâ stopped asking questions. Some mysteries, he decided, were better left alone.
+Parma arrived aboard the Tamzîr five years ago, presenting himself as a wandering cleric seeking passage between ports. Shâ was suspicious—the man was too capable, too calm, too comfortable with the ship's illegal activities to be what he claimed. But Parma proved useful. His theological knowledge earned trust in ports where the crew had none. His quiet counsel helped navigate interpersonal conflicts. And on the three occasions when the Tamzîr was boarded by hostile forces, Parma proved devastatingly effective in a fight. Shâ stopped asking questions. Some mysteries, he decided, were better left alone.
 
 ### Inner Turmoil
 
-Something weighs on Parma. He suffers from insomnia, and crew members have heard him in his cabin at night, speaking in low tones – prayers, arguments, or confessions directed at no visible audience. He carries a moral weariness that goes beyond his years, and there are moments when his carefully maintained serenity cracks, revealing something darker beneath. Whatever Parma was before he became a wandering cleric, it haunts him still.
+Something weighs on Parma. He suffers from insomnia, and crew members have heard him in his cabin at night, speaking in low tones—prayers, arguments, or confessions directed at no visible audience. He carries a moral weariness that goes beyond his years, and there are moments when his carefully maintained serenity cracks, revealing something darker beneath. Whatever Parma was before he became a wandering cleric, it haunts him still.
 
 ## Psyche
 
 ### Personality
 
-Parma presents a face of gentle wisdom – patient, soft-spoken, and genuinely interested in the wellbeing of those around him. He offers counsel without being asked and never presses when it is refused. He is well-read, philosophically sophisticated, and possesses a dry humor that emerges unexpectedly. But there is steel beneath the gentleness. When pushed, Parma's eyes go flat and his manner becomes clipped and precise – the manner of a man accustomed to giving orders in dangerous situations. He is a mass of contradictions, and he knows it.
+Parma presents a face of gentle wisdom—patient, soft-spoken, and genuinely interested in the wellbeing of those around him. He offers counsel without being asked and never presses when it is refused. He is well-read, philosophically sophisticated, and possesses a dry humor that emerges unexpectedly. But there is steel beneath the gentleness. When pushed, Parma's eyes go flat and his manner becomes clipped and precise—the manner of a man accustomed to giving orders in dangerous situations. He is a mass of contradictions, and he knows it.
 
 ### Motivation
 
-Parma is seeking something – redemption, perhaps, or a peace he has not yet found. His faith is genuine but troubled, tested by experiences he will not discuss. He has attached himself to the Tamzîr's crew with a protectiveness that suggests he has found, in these misfits, something worth caring about. He is particularly watchful over the younger members of the crew.
+Parma is seeking something—redemption, perhaps, or a peace he has not yet found. His faith is genuine but troubled, tested by experiences he will not discuss. He has attached himself to the Tamzîr's crew with a protectiveness that suggests he has found, in these misfits, something worth caring about. He is particularly watchful over the younger members of the crew.
 
 ### Strengths
 
-Parma is far more dangerous than he appears. He is an expert archer, a skilled melee fighter, and possesses tactical awareness that suggests formal military or intelligence training. He is also genuinely wise – his counsel is sound, his reading of people is incisive, and his knowledge of folklore, astrology, and arcane traditions is encyclopedic. He has connections that he occasionally calls upon, connections that a simple cleric should not possess.
+Parma is far more dangerous than he appears. He is an expert archer, a skilled melee fighter, and possesses tactical awareness that suggests formal military or intelligence training. He is also genuinely wise—his counsel is sound, his reading of people is incisive, and his knowledge of folklore, astrology, and arcane traditions is encyclopedic. He has connections that he occasionally calls upon, connections that a simple cleric should not possess.
 
 ### Weaknesses
 
@@ -608,7 +608,7 @@ His secrets. Parma's hidden past is a liability because the crew cannot trust wh
 
 ### Patrons
 
-Parma has mysterious contacts who occasionally provide him with information or resources. The nature of these relationships is unknown to the crew. Sewn into the lining of his shoulder bag are three usurer's notes of significant value – emergency funds whose origin he has never explained.
+Parma has mysterious contacts who occasionally provide him with information or resources. The nature of these relationships is unknown to the crew. Sewn into the lining of his shoulder bag are three usurer's notes of significant value—emergency funds whose origin he has never explained.
 
 ### Enemies
 
@@ -620,10 +620,10 @@ Passenger and informal counselor aboard the **Tamzîr**. He claims affiliation w
 
 ## Plot Hooks
 
-1. **The Past Arrives**: A stranger in a port city recognizes Parma and addresses him by a different name – a name that carries weight and danger. Parma's carefully constructed new identity begins to unravel, and the crew must decide how much they need to know about the old man's past.
+1. **The Past Arrives**: A stranger in a port city recognizes Parma and addresses him by a different name—a name that carries weight and danger. Parma's carefully constructed new identity begins to unravel, and the crew must decide how much they need to know about the old man's past.
 
-2. **The Confessor's Burden**: Parma has been quietly corresponding with someone about the [[affiliation-ordoarcanis|Ordo Arcanis]]. He knows more about the organization than he has revealed – perhaps more than is safe. When an opportunity arises to strike at the Ordo's interests, Parma has the knowledge to make it possible, but using it would expose who he once was.
+2. **The Confessor's Burden**: Parma has been quietly corresponding with someone about the [[affiliation-ordoarcanis|Ordo Arcanis]]. He knows more about the organization than he has revealed—perhaps more than is safe. When an opportunity arises to strike at the Ordo's interests, Parma has the knowledge to make it possible, but using it would expose who he once was.
 
 3. **Crisis of Faith**: An event aboard the Tamzîr shakes Parma's already fragile faith to its foundation. The crew must contend with the possibility that their steadfast spiritual anchor is coming apart, and that the darkness in Parma's past may be closer to the surface than anyone realized.
 
-4. **The Usurer's Notes**: When Parma is injured and his shoulder bag is opened to treat him, the crew discovers the hidden usurer's notes – worth a small fortune. The notes trace back to an institution with ties to Vylarian intelligence. The crew must decide whether to confront Parma or trust him despite the evidence.
+4. **The Usurer's Notes**: When Parma is injured and his shoulder bag is opened to treat him, the crew discovers the hidden usurer's notes—worth a small fortune. The notes trace back to an institution with ties to Vylarian intelligence. The crew must decide whether to confront Parma or trust him despite the evidence.

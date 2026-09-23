@@ -1,7 +1,7 @@
 ---
 tags:
   - region
-description: The southern margin of Xerathia's fertile belt, where the irrigated country gives way to semi-arid savanna – pastoral land anchored by the three temple-cities of Okháris.
+description: The southern margin of Xerathia's fertile belt, where the irrigated country gives way to semi-arid savanna—pastoral land anchored by the three temple-cities of Okháris.
 name:
   full: Okháris Region
   aliases: []
@@ -23,7 +23,7 @@ packFolder: okharis
 ## Overview
 
 The Okháris Region is the southern margin of the
-[[place-nrthrnfrtlrgn|Northern Fertile Region]] – the country held by
+[[place-nrthrnfrtlrgn|Northern Fertile Region]]—the country held by
 [[affiliation-okharis|Okháris]], where the irrigated lands to the north shade out
 entirely into open savanna. It is the last settled country before the
 [[place-cntrlrnfrsts|Central Rainforests]], beyond which no northern
@@ -32,8 +32,7 @@ civilization has established a lasting presence.
 ## Geography
 
 This is true semi-arid savanna. Agriculture yields to pastoralism, the fixed
-cities thin out until only three remain – Zarhánis, Kaljékor and Vuthráka –
-and the grasslands roll south until they meet the wall of the rainforest. The
+cities thin out until only three remain—Zarhánis, Kaljékor and Vuthráka—and the grasslands roll south until they meet the wall of the rainforest. The
 region's western edge touches the wet-coastal strip that runs the length of
 the northern shore, but the character of the country is grass and herd rather
 than orchard and canal.
@@ -58,7 +57,7 @@ temple-cities into a tributary relationship collapsed within a generation.
 
 ## See Also
 
-- [[place-nrthrnfrtlrgn|Northern Fertile Region]] – the parent region
-- [[affiliation-okharis|Okháris]] – the realm that holds this region
-- [[place-takheperurgn|Ta'Kheperu Region]] – neighbor to the north
-- [[place-cntrlrnfrsts|Central Rainforests]] – the wall to the south
+- [[place-nrthrnfrtlrgn|Northern Fertile Region]]—the parent region
+- [[affiliation-okharis|Okháris]]—the realm that holds this region
+- [[place-takheperurgn|Ta'Kheperu Region]]—neighbor to the north
+- [[place-cntrlrnfrsts|Central Rainforests]]—the wall to the south

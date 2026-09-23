@@ -3,7 +3,7 @@ tags:
   - region
   - border
   - mountain
-description: "Provènzia's northern quarter – the Élavendren borderland, the Áelendan mountains that no crown truly holds, and the sea-frontier through which the Nordheim raids came."
+description: "Provènzia's northern quarter—the Élavendren borderland, the Áelendan mountains that no crown truly holds, and the sea-frontier through which the Nordheim raids came."
 type: place
 subType: region
 data:
@@ -19,7 +19,7 @@ shortcode: tramontana
 packFolder: provenzia
 ---
 
-**Tramontàna** – _beyond the mountains_, and also the name of the cold wind that comes over them.
+**Tramontàna**—_beyond the mountains_, and also the name of the cold wind that comes over them.
 
 The **Tramontàna** is Provènzia's frontier with [[place-elavendre|Élavendre]] and with the northern
 sea: some three-quarters of a million people on the coastal plain and in the valleys, and above them a
@@ -31,14 +31,14 @@ uplands belong to people who acknowledge no crown at all.
 
 ## The Áelendan Country
 
-The high ground is [[affiliation-aelndntrbs|Áelendan]] – the tribal kin of the
+The high ground is [[affiliation-aelndntrbs|Áelendan]]—the tribal kin of the
 [[lore-elavendrnppl|Élavendren]], holding the old ways in the high valleys and entirely indifferent to
 whose map covers them. They do not dispute sovereignty and will not be drawn into anyone's politics.
 They will involve themselves the instant a sacred site is disturbed, and they do not distinguish
 between a trespasser, a licensed antiquarian and an army.
 
 **[[place-hydravenmnt|Mount Hýdraven]]**, the source of the kingdom's water, is theirs.
-**[[place-lhenavren|Lhénavren]]** – shared with the [[lore-flksinale|Sinalë]] – is theirs.
+**[[place-lhenavren|Lhénavren]]**—shared with the [[lore-flksinale|Sinalë]]—is theirs.
 **[[lore-aralwen|Úqua-Arálwen]]**, which straddles the frontier, is held by their
 [[affiliation-alndnwrdns|Wardens]] and administered by neither kingdom.
 
@@ -57,7 +57,7 @@ Two centuries ago a fleet used it. The raiders threw down
 
 ## Its Settlements
 
-- **[[place-batarencity|Batáren City]]** – the ocean port, substantially Élavendren, trading north
+- **[[place-batarencity|Batáren City]]**—the ocean port, substantially Élavendren, trading north
   rather than south, and quietly grinding over rights both crowns treat as domestic.
 
 ## See Also

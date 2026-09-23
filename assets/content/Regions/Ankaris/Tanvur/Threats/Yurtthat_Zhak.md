@@ -10,7 +10,7 @@ data:
     model: oligarchy
     summary: >-
       A noble house of the Tānvüri court under the head who holds its name, its property and
-      its voice – and, at present, under a new head whose methods its elders will not own.
+      its voice—and, at present, under a new head whose methods its elders will not own.
     ranks:
       - level: 0
         title: Attainted
@@ -22,7 +22,7 @@ data:
         title: Dependent
         lore: dependentrnk
         description: >-
-          Sheltered and fed by the house without being of its blood – servants, wards, retainers'
+          Sheltered and fed by the house without being of its blood—servants, wards, retainers'
           families.
       - level: 2
         title: Client
@@ -110,7 +110,7 @@ The house was once formidable in the [[lore-veizhatret|Vëi Zhāt Rëit]] (polit
 
 ## The New Leader's Gamble
 
-A new ambitious leader, **Vëngzhük Lüngjëk** (Vëngzhük Lüngjëk, "Wind-Summoning Dragon Spear"), has vowed to restore the house by any means necessary. However, his approach is unorthodox – impatient with traditional methods, he has forged a secret alliance with the [[lore-intrnlsbvrsvthrts|Black Lotus Society]] (Hëk Lōt Zhāk).
+A new ambitious leader, **Vëngzhük Lüngjëk** (Vëngzhük Lüngjëk, "Wind-Summoning Dragon Spear"), has vowed to restore the house by any means necessary. However, his approach is unorthodox—impatient with traditional methods, he has forged a secret alliance with the [[lore-intrnlsbvrsvthrts|Black Lotus Society]] (Hëk Lōt Zhāk).
 
 ## Internal Division
 
@@ -127,7 +127,7 @@ Should the gamble fail:
 
 ## See Also
 
-- [[lore-intrnlsbvrsvthrts|Internal Subversive Threats]] – The Black Lotus Society and other destabilizing forces
-- [[lore-veizhatret|Vëi Zhāt Rëit]] – The political game that brought the house low
-- [[lore-ttjkvngyrt|Tëitjëk Vëngyürt]] – Another internal threat to the empire
-- [[affiliation-tanvurempr|Empire of Tānvür]] – The empire whose court they navigate
+- [[lore-intrnlsbvrsvthrts|Internal Subversive Threats]]—The Black Lotus Society and other destabilizing forces
+- [[lore-veizhatret|Vëi Zhāt Rëit]]—The political game that brought the house low
+- [[lore-ttjkvngyrt|Tëitjëk Vëngyürt]]—Another internal threat to the empire
+- [[affiliation-tanvurempr|Empire of Tānvür]]—The empire whose court they navigate

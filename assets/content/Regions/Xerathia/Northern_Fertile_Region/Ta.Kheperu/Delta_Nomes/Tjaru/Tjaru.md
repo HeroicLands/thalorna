@@ -24,7 +24,7 @@ Tjaru is the capital of [[affiliation-nometjaru|the Nome of Tjaru]] and the seat
 
 ## See Also
 
-- [[affiliation-nometjaru|The Nome of Tjaru]] – Parent nome
-- [[affiliation-deltanomes|The Delta Nomes]] – Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview
-- [[affiliation-seker|Sēker]] – Patron cult
+- [[affiliation-nometjaru|The Nome of Tjaru]]—Parent nome
+- [[affiliation-deltanomes|The Delta Nomes]]—Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
+- [[affiliation-seker|Sēker]]—Patron cult

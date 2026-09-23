@@ -604,11 +604,11 @@ Björg was born to a fisher's family in the coastal settlements of [[place-nordh
 
 ### The Breaking
 
-A theological schism within the monastery forced Björg to flee when she refused to renounce her personal spiritual experiences in favor of rigid doctrine. Cast out without coin or shelter, she initially despaired – until she discovered that the very gift that had protected her in the monastery could sustain her on the streets. For the past decade, she has survived by her voice and wit, performing in taverns, marketplaces, and shadowed alleyways where coin and coppers fall from purses of those moved by her haunting ballads. She has become something of a ghost, known to street folk as "the Moon Singer," appearing and vanishing like the celestial body marked upon her neck.
+A theological schism within the monastery forced Björg to flee when she refused to renounce her personal spiritual experiences in favor of rigid doctrine. Cast out without coin or shelter, she initially despaired—until she discovered that the very gift that had protected her in the monastery could sustain her on the streets. For the past decade, she has survived by her voice and wit, performing in taverns, marketplaces, and shadowed alleyways where coin and coppers fall from purses of those moved by her haunting ballads. She has become something of a ghost, known to street folk as "the Moon Singer," appearing and vanishing like the celestial body marked upon her neck.
 
 ### Present Condition
 
-Now a fixture of Nordheim's underworld community, Björg exists in the liminal spaces between respectability and ruin. She shares her meager earnings with other street folk and has become an unofficial keeper of their stories and secrets. Yet her trusting heart has made her prey to those less scrupulous, and more than once her charity has been exploited. Still, she refuses to harden herself, believing each kindness plants a seed that might one day bloom into redemption – whether for others or herself remains uncertain.
+Now a fixture of Nordheim's underworld community, Björg exists in the liminal spaces between respectability and ruin. She shares her meager earnings with other street folk and has become an unofficial keeper of their stories and secrets. Yet her trusting heart has made her prey to those less scrupulous, and more than once her charity has been exploited. Still, she refuses to harden herself, believing each kindness plants a seed that might one day bloom into redemption—whether for others or herself remains uncertain.
 
 ## Psyche
 
@@ -620,7 +620,7 @@ Yet this very openness is both her greatest strength and her fatal weakness. She
 
 ### Motivation
 
-Björg seeks not fortune nor fame, but redemption – both her own and that of others. She bears an unshakeable conviction that she was spared from the storm that claimed her parents for a purpose: to be a voice for the voiceless, a song of hope in the darkness that threatens to consume the forgotten. In her quiet moments, she whispers prayers to Thórr, not asking for deliverance, but asking how she might best serve those the gods seem to have abandoned. Every coin given to a hungry child, every tale preserved in song, every moment of human connection forged in the cold streets feels to her like a small victory against the encroaching tide of despair.
+Björg seeks not fortune nor fame, but redemption—both her own and that of others. She bears an unshakeable conviction that she was spared from the storm that claimed her parents for a purpose: to be a voice for the voiceless, a song of hope in the darkness that threatens to consume the forgotten. In her quiet moments, she whispers prayers to Thórr, not asking for deliverance, but asking how she might best serve those the gods seem to have abandoned. Every coin given to a hungry child, every tale preserved in song, every moment of human connection forged in the cold streets feels to her like a small victory against the encroaching tide of despair.
 
 ### Strengths
 
@@ -635,7 +635,7 @@ Björg seeks not fortune nor fame, but redemption – both her own and that of o
 - **Reckless Trust**: Björg's inability to see malice makes her vulnerable to exploitation. Con artists and predators find her an easy mark, and she rarely learns from being deceived.
 - **Impractical Idealism**: Her insistence on living by spiritual rather than pragmatic principles often leaves her in precarious circumstances that could be avoided through shrewdness.
 - **Physical Frailty**: Her light frame and generally poor nutrition leave her vulnerable to illness and violence. In a direct fight, she would be utterly outmatched.
-- **Attachment to Loss**: She carries her past – her parents' deaths, her expulsion from the monastery – as an unbridgeable chasm within her soul. This grief sometimes paralyzes her decision-making.
+- **Attachment to Loss**: She carries her past—her parents' deaths, her expulsion from the monastery—as an unbridgeable chasm within her soul. This grief sometimes paralyzes her decision-making.
 - **Conflict Aversion**: Confrontation causes her genuine distress, and she will often capitulate to avoid conflict, even when standing firm would serve her better.
 
 ## Social
@@ -659,12 +659,12 @@ Björg seeks not fortune nor fame, but redemption – both her own and that of o
 
 ## Plot Hooks
 
-1. **The Singing Stone**: A scholar seeking Björg claims that ancient texts describe a legendary artifact – the Singing Stone of Asgard – whose power can only be awakened through a voice of perfect purity. He believes Björg is the key to recovering it from a temple buried beneath Nordheim's oldest districts. What he doesn't know is that darker forces have also caught wind of this rumor, and they would sacrifice far more than ancient stone to possess such power. Björg must navigate the intersection of faith, greed, and ancient magic.
+1. **The Singing Stone**: A scholar seeking Björg claims that ancient texts describe a legendary artifact—the Singing Stone of Asgard—whose power can only be awakened through a voice of perfect purity. He believes Björg is the key to recovering it from a temple buried beneath Nordheim's oldest districts. What he doesn't know is that darker forces have also caught wind of this rumor, and they would sacrifice far more than ancient stone to possess such power. Björg must navigate the intersection of faith, greed, and ancient magic.
 
-2. **Memory in Melody**: A mysterious figure approaches Björg, offering substantial coin to help recover a stolen musical score said to contain encrypted messages crucial to a political uprising. The requester claims the oppressed people of a neighboring kingdom depend on her aid. Yet accepting this task would make Björg an unwitting pawn in a conflict between nobles, and the true contents of the score – and the true intended use of its decryption – remain obscure and potentially devastating.
+2. **Memory in Melody**: A mysterious figure approaches Björg, offering substantial coin to help recover a stolen musical score said to contain encrypted messages crucial to a political uprising. The requester claims the oppressed people of a neighboring kingdom depend on her aid. Yet accepting this task would make Björg an unwitting pawn in a conflict between nobles, and the true contents of the score—and the true intended use of its decryption—remain obscure and potentially devastating.
 
 3. **The Lost Monastery**: Word reaches Björg that survivors from her monastery have been discovered alive in the mountains after being presumed dead in a catastrophic fire. The monastery's new leadership denies their existence and refuses all inquiries. Björg is torn between the possibility of reunion with former brothers and the danger that investigating will draw unwanted attention from those who might benefit from keeping certain truths buried.
 
-4. **The Child of Storm**: A young orphan appears in the streets, displaying an uncanny ability to predict coming storms with disturbing accuracy. The child becomes attached to Björg, and soon it becomes apparent the monastery – and perhaps darker forces – are searching for the child with considerable urgency. Björg must decide whether protecting this mysterious youth is worth becoming a fugitive herself.
+4. **The Child of Storm**: A young orphan appears in the streets, displaying an uncanny ability to predict coming storms with disturbing accuracy. The child becomes attached to Björg, and soon it becomes apparent the monastery—and perhaps darker forces—are searching for the child with considerable urgency. Björg must decide whether protecting this mysterious youth is worth becoming a fugitive herself.
 
 5. **The Silent Singer's Last Song**: An elderly bard, one of Nordheim's few remaining living legends, seeks out Björg specifically, claiming he has trained his entire life to recognize a specific prophecy written in a long-lost saga. According to his interpretation, a singer marked with the crescent moon of Thórr will either be the salvation or the doom of Nordheim in the coming age of darkness. He asks for her help in deciphering which, and whether she has the courage to accept what the answer might demand of her.

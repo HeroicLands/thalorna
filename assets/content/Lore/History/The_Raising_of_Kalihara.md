@@ -2,7 +2,7 @@
 tags:
   - history
   - spine
-description: "The Ithári raise the human bands of Kalihara into a civilization that arrives complete – language, agriculture, medicine, governance and Thári'vaan – and do it nowhere else on Thalorna."
+description: "The Ithári raise the human bands of Kalihara into a civilization that arrives complete—language, agriculture, medicine, governance and Thári'vaan—and do it nowhere else on Thalorna."
 type: lore
 subType: history
 name:
@@ -23,7 +23,7 @@ event:
     - affiliation-kalihara
     - place-klhrcntnnt
   summary: >-
-    The Ithári raise the humans of Kalihara into a civilization that arrives complete – agriculture,
+    The Ithári raise the humans of Kalihara into a civilization that arrives complete—agriculture,
     medicine, governance, a vocabulary for all of it, and the philosophical tradition Thári'vaan.
     Nothing on the island shows the long ascent every other human tradition shows. It is the only
     place on Thalorna where the Ithári raised anyone.
@@ -65,7 +65,7 @@ complete: agriculture, medicine, governance, a vocabulary for all of it, and
 to be observed and tended rather than mastered or appeased.
 
 The Kaliharans hold that they were taught because teaching was the right way to treat what the Ithári
-found. Set beside the scatter of works in other countries, the island reads as an instrument – a
+found. Set beside the scatter of works in other countries, the island reads as an instrument—a
 society built to a specification, settled on a landmass its makers never expanded beyond, and handed
 the maintenance of installations whose purpose it was never told. Both readings fit every fact in
 evidence, and the Kaliharan record offers only the first.

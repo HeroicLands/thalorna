@@ -595,12 +595,12 @@ Bandits who view his well-loaded wagons as targets.
 
 ## Plot Hooks
 
-1. **The Teamster's Dilemma** – Ellimû faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Harad.
+1. **The Teamster's Dilemma**—Ellimû faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Harad.
 
-2. **Old Grudges** – Bandits who view his well-loaded wagons as targets. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges**—Bandits who view his well-loaded wagons as targets. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** – Something from Ellimû's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Ellimû's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds** – Political changes in Harad threaten to upend the social order that Ellimû depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Harad threaten to upend the social order that Ellimû depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** – A chance encounter offers Ellimû the possibility of advancement beyond anything he has dared hope for – but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Ellimû the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

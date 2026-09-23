@@ -24,7 +24,7 @@ packFolder: bloodandashesinceravelvale
 
 ### Teaser
 
-The roads of Céravel Vale have grown treacherous, with bold bandits striking caravans and travelers without mercy. These outlaws, once scattered and disorganized, now act with alarming precision, united under a mysterious leader who seems to know every weakness in the Vale’s defenses. Târlas Pélanvri, Lord of Bélsaren, has called upon skilled adventurers to root out the bandit menace, uncover their hidden lair, and restore order to the countryside. Yet the task is anything but straightforward – peasants whisper of secret alliances, while the bandits’ tactics grow ever more ruthless. Who truly pulls the strings behind the bandit threat? And what dangers lie in wait for those who dare to confront them? The answers lie in the shadows of Céravel Vale.
+The roads of Céravel Vale have grown treacherous, with bold bandits striking caravans and travelers without mercy. These outlaws, once scattered and disorganized, now act with alarming precision, united under a mysterious leader who seems to know every weakness in the Vale’s defenses. Târlas Pélanvri, Lord of Bélsaren, has called upon skilled adventurers to root out the bandit menace, uncover their hidden lair, and restore order to the countryside. Yet the task is anything but straightforward—peasants whisper of secret alliances, while the bandits’ tactics grow ever more ruthless. Who truly pulls the strings behind the bandit threat? And what dangers lie in wait for those who dare to confront them? The answers lie in the shadows of Céravel Vale.
 
 ### Background
 
@@ -90,15 +90,15 @@ _(He motions to his table, gesturing for the adventurers to sit.)_
 
 _(Târlas’s tone shifts to one of solemnity, though his eyes remain calculating.)_
 
-“As you may have heard, Bélsaren has been plagued by a growing bandit threat. What began as sporadic attacks – little more than petty thievery – has grown into something far more dangerous. These bandits have become unusually organized, attacking caravans and travelers with precision. Entire shipments have vanished, and the roads of Bélsaren are no longer safe.”
+“As you may have heard, Bélsaren has been plagued by a growing bandit threat. What began as sporadic attacks—little more than petty thievery—has grown into something far more dangerous. These bandits have become unusually organized, attacking caravans and travelers with precision. Entire shipments have vanished, and the roads of Bélsaren are no longer safe.”
 
 _(He leans forward, lowering his voice slightly as though sharing a secret.)_
 
-“They’ve struck throughout Céravel Vale, but Bélsaren seems to bear the brunt of their raids. My lands, my people – constant targets. And these are not random attacks; they’re coordinated. Someone is leading them, though I’ve yet to uncover who. That is where I need you.”
+“They’ve struck throughout Céravel Vale, but Bélsaren seems to bear the brunt of their raids. My lands, my people—constant targets. And these are not random attacks; they’re coordinated. Someone is leading them, though I’ve yet to uncover who. That is where I need you.”
 
 _(Târlas’s tone brightens as he moves to the matter of rewards.)_
 
-“Of course, your efforts will not go unrewarded. In addition to a generous sum of coin, I can assure you that success here will win you the gratitude of my house – and perhaps even my liege. Such gratitude can open many doors, as I’m sure you’re aware.”
+“Of course, your efforts will not go unrewarded. In addition to a generous sum of coin, I can assure you that success here will win you the gratitude of my house—and perhaps even my liege. Such gratitude can open many doors, as I’m sure you’re aware.”
 
 _(He pauses, studying the adventurers’ faces.)_
 
@@ -106,11 +106,11 @@ _(He pauses, studying the adventurers’ faces.)_
 
 _(Târlas gestures to a map of Bélsaren, spread out on the table.)_
 
-“These bandits are no mere rabble. They’ve struck travelers and caravans alike, from merchants to pilgrims. And they’re striking with a cunning that suggests a trained hand is guiding them. Their leader – whoever they are – has remained frustratingly elusive.”
+“These bandits are no mere rabble. They’ve struck travelers and caravans alike, from merchants to pilgrims. And they’re striking with a cunning that suggests a trained hand is guiding them. Their leader—whoever they are—has remained frustratingly elusive.”
 
 _(He taps the map, indicating likely ambush points and known attack sites.)_
 
-“More troubling still, I suspect they’re receiving help from within my own lands. The villagers, particularly the Thânevar, are not above suspicion. There are whispers that some have been aiding the bandits – providing them with food, shelter, and perhaps even information about my guards’ movements.”
+“More troubling still, I suspect they’re receiving help from within my own lands. The villagers, particularly the Thânevar, are not above suspicion. There are whispers that some have been aiding the bandits—providing them with food, shelter, and perhaps even information about my guards’ movements.”
 
 _(He sits back, clasping his hands together.)_
 
@@ -120,7 +120,7 @@ _(He sits back, clasping his hands together.)_
 
 _(If the adventurers hesitate or question his motives, Târlas leans in, his voice oozing reassurance.)_
 
-“I understand your hesitation. These are dangerous times, after all. But consider this: the people of Bélsaren are counting on us – on you. Without your help, their suffering will only continue. You would not turn your backs on such a noble cause, would you?”
+“I understand your hesitation. These are dangerous times, after all. But consider this: the people of Bélsaren are counting on us—on you. Without your help, their suffering will only continue. You would not turn your backs on such a noble cause, would you?”
 
 _(He smiles thinly, the charm in his voice now tinged with steel.)_
 
@@ -134,7 +134,7 @@ _(As the meeting concludes, Târlas rises and clasps his hands behind his back.)
 
 _(He nods to a servant, who escorts the adventurers out.)_
 
-“I await news of your success. And remember – discretion is key. The villagers are... sensitive about these matters, and we wouldn’t want any undue panic.”
+“I await news of your success. And remember—discretion is key. The villagers are... sensitive about these matters, and we wouldn’t want any undue panic.”
 
 ### Finding Information in the Village
 
@@ -178,7 +178,7 @@ The first place the adventurers are likely to go for information is the inn. The
 
 - **Rhéman (Lowered Voice):**
 
-  "I can’t say much. But I know this: the bandits don’t hit every caravan. They target ones that look weak – easy prey. If you’re planning to go after them, maybe think about looking the part. But don’t expect the villagers here to help much. We’ve got enough trouble as it is."
+  "I can’t say much. But I know this: the bandits don’t hit every caravan. They target ones that look weak—easy prey. If you’re planning to go after them, maybe think about looking the part. But don’t expect the villagers here to help much. We’ve got enough trouble as it is."
 
 #### Árgaen (Thânevar Goat Herder)
 
@@ -210,7 +210,7 @@ The first place the adventurers are likely to go for information is the inn. The
 
   _(He glances around, ensuring no one else is listening.)_
 
-  "They target the vulnerable – small groups, lightly armed caravans. If you were to appear as such... well, they might take the bait. But be prepared. These men are desperate, not stupid."
+  "They target the vulnerable—small groups, lightly armed caravans. If you were to appear as such... well, they might take the bait. But be prepared. These men are desperate, not stupid."
 
 ##### _If adventurers ask about villagers helping the bandits:_
 
@@ -247,12 +247,12 @@ If the adventurers’ questioning creates tension between the factions, an excha
 #### Hints to Push the Adventurers Toward a Plan
 
 - **From Vêrek:** "If you’re set on finding them, you’ll need more than swords. Those bandits know the woods better than anyone. Maybe you should let them find you instead."
-- **From Yvéndar:** "Disguising yourselves as defenseless travelers? Risky, but it just might work. They’d come to you – and then you’d have the upper hand."
+- **From Yvéndar:** "Disguising yourselves as defenseless travelers? Risky, but it just might work. They’d come to you—and then you’d have the upper hand."
 - **From Rhéman:** "You didn’t hear it from me, but the bandits watch the old south road closely. A few carts have been hit there recently. Might be worth investigating."
 
 ### The Ambush on the Old South Road
 
-The bandits of the Old South Road are notorious for their cunning tactics and use of the dense forest terrain to their advantage. To lure the bandits into an attack, the adventurers must pose as vulnerable travelers, creating an enticing target. However, the bandits are not to be underestimated – their ambush is coordinated and ruthless.
+The bandits of the Old South Road are notorious for their cunning tactics and use of the dense forest terrain to their advantage. To lure the bandits into an attack, the adventurers must pose as vulnerable travelers, creating an enticing target. However, the bandits are not to be underestimated—their ambush is coordinated and ruthless.
 
 #### Objective
 
@@ -269,7 +269,7 @@ The adventurers must:
 The players have the opportunity to:
 
 - **Scout the Area:**
-  - A successful Tracking or Survival test reveals likely ambush points – narrow parts of the road, dense underbrush, and areas with high ground.
+  - A successful Tracking or Survival test reveals likely ambush points—narrow parts of the road, dense underbrush, and areas with high ground.
   - If the adventurers fail, they may not anticipate the full scope of the ambush, leaving them vulnerable.
 
 - **Set Counter-Traps:**
@@ -362,7 +362,7 @@ The bandits have:
 
 1.  **Adventurer Success:**
     - The adventurers neutralize or drive off the bandits and capture one for interrogation.
-    - Clues from the bandits reveal the hideout’s approximate location – a cave hidden in the forest, protected by traps and guarded by more bandits.
+    - Clues from the bandits reveal the hideout’s approximate location—a cave hidden in the forest, protected by traps and guarded by more bandits.
 
 2.  **Bandit Victory:**
     - If the adventurers are forced to retreat, the bandits may mock them and regroup, leaving clues behind in their haste.
@@ -403,7 +403,7 @@ Unknown to the adventurers, Thárion’s men have instructed the villagers to re
 
 #### Suspicious Behavior and Subtle Signs
 
-1.  **Initial Suspicion:** As the adventurers move through the square, they may sense something is off. They might notice villagers acting skittish, a mother quickly pulling her child close as the adventurers pass, or an elderly villager glancing furtively around before muttering a quick prayer. If they’re observant, the adventurers might notice a few figures who are slightly out of place – villagers who are a bit too watchful or people with unusually bulky cloaks that could conceal weapons.
+1.  **Initial Suspicion:** As the adventurers move through the square, they may sense something is off. They might notice villagers acting skittish, a mother quickly pulling her child close as the adventurers pass, or an elderly villager glancing furtively around before muttering a quick prayer. If they’re observant, the adventurers might notice a few figures who are slightly out of place—villagers who are a bit too watchful or people with unusually bulky cloaks that could conceal weapons.
 2.  **The Ambush Begins:** Suddenly, one of Thárion’s disguised bandits steps forward from the crowd, drawing a weapon and lunging at an adventurer. This initiates a chaotic skirmish as other bandits, hidden among the villagers, follow suit. They attack sporadically and unpredictably, fading back into the crowd after each strike, blending back among the innocent bystanders.
 3.  **Villagers’ Reaction:** Panicked, the villagers scream and try to flee, but the fear of retaliation from the bandits keeps most of them rooted in place. Some duck down, shielding their heads, while others frantically look around, trying to distance themselves from potential attackers. The adventurers quickly realize that it’s difficult to tell who’s an enemy and who’s just a terrified villager, forcing them to act carefully.
 
@@ -575,7 +575,7 @@ In the aftermath of the bandit raid on the village, Tarlas and the Provenzian vi
 
 - **Árgaen (Breaking Down):**
 
-  “They’re in the cave! South of the forest clearing, past the old ridge trail! I don’t care what happens to them anymore – just end this madness!” _(He glares at the other Thânevar, his voice bitter.)_ “We thought we were saving ourselves, but all we did was bring ruin to the rest of you. I’ll take you there myself if it’ll end this.”
+  “They’re in the cave! South of the forest clearing, past the old ridge trail! I don’t care what happens to them anymore—just end this madness!” _(He glares at the other Thânevar, his voice bitter.)_ “We thought we were saving ourselves, but all we did was bring ruin to the rest of you. I’ll take you there myself if it’ll end this.”
 
 #### Approach to the Bandit Cave
 
@@ -625,11 +625,11 @@ The cave is located in a rocky outcrop at the base of a forested ridge. Dense tr
 
 _(Thárion stands tall, his hand resting on the hilt of his sword. His tone is both commanding and filled with bitter pride.)_
 
-“You know, I wasn’t always living like this. Scraping by in the dirt. Hiding in shadows. No, I once stood in the light, head held high as a lord of these lands. Bélsaren was mine – my family’s. We cared for its people, protected them, helped them prosper. Until Târlas al Pélanvri came.”
+“You know, I wasn’t always living like this. Scraping by in the dirt. Hiding in shadows. No, I once stood in the light, head held high as a lord of these lands. Bélsaren was mine—my family’s. We cared for its people, protected them, helped them prosper. Until Târlas al Pélanvri came.”
 
 _(He begins to pace, his voice growing sharper.)_
 
-“When the Provenzians swept through, they didn’t just take lands – they took everything. My title, my family, my birthright. I wasn’t cast down because I was weak or unfit to rule. I was cast down because I dared to stand against them. Because I refused to bow.”
+“When the Provenzians swept through, they didn’t just take lands—they took everything. My title, my family, my birthright. I wasn’t cast down because I was weak or unfit to rule. I was cast down because I dared to stand against them. Because I refused to bow.”
 
 _(He stops, locking eyes with the adventurers.)_
 
@@ -637,7 +637,7 @@ _(He stops, locking eyes with the adventurers.)_
 
 _(His tone softens slightly, though his intensity remains.)_
 
-“You have a choice here, just as I did. Târlas is no lord – he’s a thief playing dress-up. But me? I’ve ruled before. I know what it takes. I can rebuild Bélsaren into something greater than it’s ever been. And you... you could be part of that.”
+“You have a choice here, just as I did. Târlas is no lord—he’s a thief playing dress-up. But me? I’ve ruled before. I know what it takes. I can rebuild Bélsaren into something greater than it’s ever been. And you... you could be part of that.”
 
 ##### If the Adventurers Question His Decision to Attack the Village
 
@@ -651,7 +651,7 @@ _(He pauses, then clenches his fists.)_
 
 _(He glares at the adventurers, his voice rising with defiance.)_
 
-“And you – would you have stood idly by while Târlas stole everything from you? Don’t lecture me on morality until you’ve lived through the fire I have.”
+“And you—would you have stood idly by while Târlas stole everything from you? Don’t lecture me on morality until you’ve lived through the fire I have.”
 
 ##### If the Adventurers Argue He’s Becoming What He Hates
 
@@ -688,7 +688,7 @@ _(His tone shifts, defensive now.)_
 During the final confrontation, Tharion and his lieutenants fight fiercely. If things start going poorly for him, he will call a truce, and speak his final plea:
 
 **Thárion (Bloodied but Defiant):**  
-_"You fools! You think this rebellion is about me? It’s not. I was a tool, a pawn, manipulated by Kílan alrí Ilóvrel! That cunning devil is playing a game far bigger than this village – than all of us! He whispered promises of a free Bélsaren, but his true goal has nothing to do with the Thânevar cause. If you’re smart, you’ll want to know what he’s really after. Let me go, and I’ll give you the name of the informant who knows everything."_
+_"You fools! You think this rebellion is about me? It’s not. I was a tool, a pawn, manipulated by Kílan alrí Ilóvrel! That cunning devil is playing a game far bigger than this village—than all of us! He whispered promises of a free Bélsaren, but his true goal has nothing to do with the Thânevar cause. If you’re smart, you’ll want to know what he’s really after. Let me go, and I’ll give you the name of the informant who knows everything."_
 
 ##### Outcome
 
@@ -701,7 +701,7 @@ As the adventurers triumph, the remaining bandits either flee or surrender. Amon
 
   > Thárion,
   >
-  > Your cause is just, but you’ve been blind to the true game. Those who claim to support you weave a far darker web than you imagine. Resources sent your way were no charity – they were bait. They manipulate you to destabilize Bélsaren not for the Thânevar people, but for a scheme you do not understand.
+  > Your cause is just, but you’ve been blind to the true game. Those who claim to support you weave a far darker web than you imagine. Resources sent your way were no charity—they were bait. They manipulate you to destabilize Bélsaren not for the Thânevar people, but for a scheme you do not understand.
   >
   > If you wish to learn the truth, meet me in the grove near Ilóvren on the night of the new moon. I can provide proof of Kílan’s lies. But come alone, for your safety and mine.
   >
@@ -828,7 +828,7 @@ If bandits are caught and interrogated, or if the party members join the bandit 
 
 2. **Thárion’s Motivations:** “Look, Thárion... he wasn’t in this just for gold or revenge. He’s convinced he’s fighting for justice, to reclaim his birthright. The man thinks he’s some kind of hero, standing up for the Thânevar folk who’ve had it rough under Târlas. Says he’s the only one willing to stand up to that tyrant.”
 
-3. **Details about the Bandit Camp:** “You think we’re just sitting ducks in that cave? Think again. Thárion’s rigged the place with traps – collapsing tunnels, fake exits where his best lie in wait. He even poisoned a water source once, just in case any fool thought to sneak in thirsty. You’d be walking into your own graves.”
+3. **Details about the Bandit Camp:** “You think we’re just sitting ducks in that cave? Think again. Thárion’s rigged the place with traps—collapsing tunnels, fake exits where his best lie in wait. He even poisoned a water source once, just in case any fool thought to sneak in thirsty. You’d be walking into your own graves.”
 
 4. **Hints of Internal Tension:** “Not all of us are as loyal as Thárion likes to think. Some of the lads, they don’t agree with his ‘righteous cause’ or whatever he calls it. Thought his plans were too reckless, like that last ambush where so many of us died. But no one dares speak against him... not to his face, anyway.”
 
@@ -844,8 +844,8 @@ If bandits are caught and interrogated, or if the party members join the bandit 
 
 10. **Rituals and Superstitions:** “Some of the lads, they do these little rituals before a fight. Odd stuff, like chanting or drawing symbols. I think it’s Black Flame nonsense, but it seems to give ‘em a fire in their eyes. Thárion doesn’t bother with it, but these blokes are serious. Makes me wonder if there’s something behind it.”
 
-11. **Escape Routes and Weaknesses:** “That cave? Yeah, it’s got a few ways out, if you know where to look. There’s a back way hidden in the rocks, and I know a weak spot where a hard enough strike would bring down half the barricade. We’ve got some hidden supplies there, too – things we don’t want outsiders finding.”
+11. **Escape Routes and Weaknesses:** “That cave? Yeah, it’s got a few ways out, if you know where to look. There’s a back way hidden in the rocks, and I know a weak spot where a hard enough strike would bring down half the barricade. We’ve got some hidden supplies there, too—things we don’t want outsiders finding.”
 
 12. **Resentment Against Târlas:** “Ever heard what Târlas does to the Thânevar folk? He seizes land, beats them bloody, taxes them till they’re starving. Doesn’t care a lick for their lives. That’s why most of us fight, you see? ‘Cause no one else will stand up for ‘em. Thárion... he believes in that, even if some of us don’t.”
 
-13. **Rumors of a Powerful Artifact:** “There’s talk of something powerful out there in the hills, some Black Flame relic. Few of Thárion’s men have got it into their heads it’s real. Thárion doesn’t give it much thought – calls it superstition – but some of those Black Flame lads... they think it could turn the tide.”
+13. **Rumors of a Powerful Artifact:** “There’s talk of something powerful out there in the hills, some Black Flame relic. Few of Thárion’s men have got it into their heads it’s real. Thárion doesn’t give it much thought—calls it superstition—but some of those Black Flame lads... they think it could turn the tide.”

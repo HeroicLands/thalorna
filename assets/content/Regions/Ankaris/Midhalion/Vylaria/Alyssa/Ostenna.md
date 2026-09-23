@@ -25,5 +25,5 @@ Ostenna sits where a navigable river meets the road network, a small river-port 
 
 ## See Also
 
-- [[affiliation-provinclys|Province of Alyssa]] – Parent province
-- [[affiliation-vylarinmpr|Vylarian Empire]] – Imperial overview
+- [[affiliation-provinclys|Province of Alyssa]]—Parent province
+- [[affiliation-vylarinmpr|Vylarian Empire]]—Imperial overview

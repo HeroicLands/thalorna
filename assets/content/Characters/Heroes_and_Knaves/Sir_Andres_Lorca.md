@@ -599,7 +599,7 @@ sohl:
 
 ![[srndrslrcknghtwstrnmrchs|Sir Andrés Lorca, Knight of the Western Marches]]{float: top-left}
 
-Sir Andrés stands at 6'1", with a broad, muscular build, the result of years of rigorous knightly training. His olive-toned skin speaks of his noble heritage, while the faint scars that line his face and arms tell the story of a life dedicated to battle and honor. His dark hair is shoulder-length and slightly graying at the temples, often tied back or tucked under his helm during combat. Sir Andrés’s sharp, deep-set brown eyes reveal a calm but intense demeanor, and his chiseled jaw is typically clean-shaven, in accordance with the disciplined standards of his knightly order. He wears well-maintained plate armor, polished but not excessively ornate, marked with the sigil of his knightly order – a silver falcon, symbolizing vigilance and nobility. His favored weapon is a longsword, which he wields with precision and strength, and a round kite shield bearing his family crest.
+Sir Andrés stands at 6'1", with a broad, muscular build, the result of years of rigorous knightly training. His olive-toned skin speaks of his noble heritage, while the faint scars that line his face and arms tell the story of a life dedicated to battle and honor. His dark hair is shoulder-length and slightly graying at the temples, often tied back or tucked under his helm during combat. Sir Andrés’s sharp, deep-set brown eyes reveal a calm but intense demeanor, and his chiseled jaw is typically clean-shaven, in accordance with the disciplined standards of his knightly order. He wears well-maintained plate armor, polished but not excessively ornate, marked with the sigil of his knightly order—a silver falcon, symbolizing vigilance and nobility. His favored weapon is a longsword, which he wields with precision and strength, and a round kite shield bearing his family crest.
 
 # Dossier {#dossier}
 
@@ -641,7 +641,7 @@ Though outwardly stern, Sir Andrés is deeply compassionate, particularly toward
 
 ### Motivation
 
-Sir Andrés is driven by his commitment to the ideals of knighthood – honor, loyalty, and the protection of the weak. He views his role as a knight as a calling and a sacred duty, one that he must uphold at all costs. His primary goal is to safeguard the Western Marches from external threats and to maintain peace and justice in the land. However, he is also motivated by a desire to live up to the legacy of his ancestors and the knightly order to which he belongs.
+Sir Andrés is driven by his commitment to the ideals of knighthood—honor, loyalty, and the protection of the weak. He views his role as a knight as a calling and a sacred duty, one that he must uphold at all costs. His primary goal is to safeguard the Western Marches from external threats and to maintain peace and justice in the land. However, he is also motivated by a desire to live up to the legacy of his ancestors and the knightly order to which he belongs.
 
 Though he has achieved much in his life, Sir Andrés feels that his work is far from over. He seeks to leave behind a legacy that will inspire future generations of knights, and he is always on the lookout for opportunities to prove his worth, whether by defending the innocent or confronting the forces that threaten the stability of the realm. His greatest ambition is to be remembered as a knight who upheld the highest virtues of his order, even in the face of overwhelming odds.
 

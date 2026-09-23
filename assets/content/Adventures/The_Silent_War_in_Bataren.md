@@ -19,11 +19,11 @@ data:
 packFolder: adventures
 ---
 
-Tensions boil beneath the surface in the coastal City of Batáren, where Provenzian rulers and the indigenous [[lore-elavendrnppl|Élavendren]] people – descendants of [[place-elavendre|Élavendre]] who settled in these borderlands centuries ago – clash over land, rights, and tradition. A hidden hand stokes the conflict to destabilize the region.
+Tensions boil beneath the surface in the coastal City of Batáren, where Provenzian rulers and the indigenous [[lore-elavendrnppl|Élavendren]] people—descendants of [[place-elavendre|Élavendre]] who settled in these borderlands centuries ago—clash over land, rights, and tradition. A hidden hand stokes the conflict to destabilize the region.
 
 ## Overview
 
-Batáren, a prosperous coastal city in southern [[place-provenzrgn|Provènzia Region]], sits at the intersection of two cultures. The city's Provenzian ruling class and merchant establishment maintain order through law and tradition, while the Áelendan people – descendants of those who dwelt in the borderlands before Provenzian expansion – chafe under restrictions and marginalization. For decades, an uneasy peace has held. Now, carefully orchestrated incidents are pushing both communities toward open conflict, and the party must uncover who benefits from this war.
+Batáren, a prosperous coastal city in southern [[place-provenzrgn|Provènzia Region]], sits at the intersection of two cultures. The city's Provenzian ruling class and merchant establishment maintain order through law and tradition, while the Áelendan people—descendants of those who dwelt in the borderlands before Provenzian expansion—chafe under restrictions and marginalization. For decades, an uneasy peace has held. Now, carefully orchestrated incidents are pushing both communities toward open conflict, and the party must uncover who benefits from this war.
 
 ## Stage One: Arrival & Observation
 

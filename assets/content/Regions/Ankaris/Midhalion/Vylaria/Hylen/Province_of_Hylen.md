@@ -1,5 +1,5 @@
 ---
-description: "The breadbasket province of the Vylarian Empire – fertile lowlands and terraced hill-country of vast aristocratic estates producing the grain, wine, and oil that feed the empire, and the most conservative, tradition-bound region of Vylarian politics."
+description: "The breadbasket province of the Vylarian Empire—fertile lowlands and terraced hill-country of vast aristocratic estates producing the grain, wine, and oil that feed the empire, and the most conservative, tradition-bound region of Vylarian politics."
 type: affiliation
 name:
   full: Province of Hylen
@@ -35,7 +35,7 @@ data:
         title: Peregrine
         lore: rsdntlnrnk
         description: >-
-          A provincial living under imperial authority without the citizenship – the great majority
+          A provincial living under imperial authority without the citizenship—the great majority
           of the empire's people.
       - level: 4
         title: Citizen
@@ -112,14 +112,14 @@ The Province of Hylen holds the land of [[place-hylen|Hylen]]. Its landed aristo
 
 ## Character
 
-The estate lords live well – not with the ostentatious wealth of the capital, but with the quiet confidence of people who know that everyone else depends on what they grow.
+The estate lords live well—not with the ostentatious wealth of the capital, but with the quiet confidence of people who know that everyone else depends on what they grow.
 
-Hylen's aristocracy resists the growing influence of the merchant class and the [[affiliation-ordoarcanis|Ordo Arcanis]] alike. They see themselves as the true guardians of Vylarian tradition – the empire was built on the backs of soldiers and farmers, not mages and money-changers. This conservatism makes Hylen a bastion of the Imperial Cult and traditional Aurèldían practice.
+Hylen's aristocracy resists the growing influence of the merchant class and the [[affiliation-ordoarcanis|Ordo Arcanis]] alike. They see themselves as the true guardians of Vylarian tradition—the empire was built on the backs of soldiers and farmers, not mages and money-changers. This conservatism makes Hylen a bastion of the Imperial Cult and traditional Aurèldían practice.
 
 ## Notable Features
 
 - Conservative stronghold of traditional Vylarian values
-- Minimal Ordo Arcanis presence – the aristocracy keeps them at arm's length
+- Minimal Ordo Arcanis presence—the aristocracy keeps them at arm's length
 
 ## For the Worldbuilder
 
@@ -131,6 +131,6 @@ Province of Hylen uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argen
 
 ## See Also
 
-- [[affiliation-vylarinmpr|Vylarian Empire]] – Parent polity
-- [[place-hylen|Hylen]] – The land the province holds
-- [[affiliation-provinclys|Province of Alyssa]], [[affiliation-provncmktr|Province of Moktur]], [[affiliation-provincvld|Province of Vald]] – Sister provinces
+- [[affiliation-vylarinmpr|Vylarian Empire]]—Parent polity
+- [[place-hylen|Hylen]]—The land the province holds
+- [[affiliation-provinclys|Province of Alyssa]], [[affiliation-provncmktr|Province of Moktur]], [[affiliation-provincvld|Province of Vald]]—Sister provinces

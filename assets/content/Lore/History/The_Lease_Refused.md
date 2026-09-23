@@ -101,7 +101,7 @@ What is not recorded anywhere is the **terms**.
 A dragon cannot be threatened with its body. It can be threatened with its dead. In the early years of
 [[lore-helionscnq|the Helionite war]] a mage-warlord killed dragons and, at the transit, took their
 souls; [[lore-dragondead|the Republic took his workshop]] when it took his city, and found the jars. What it offered was
-the one thing only it could offer – the return of the bound to the pool – and the dragons' price for
+the one thing only it could offer—the return of the bound to the pool—and the dragons' price for
 that was the war.
 
 [[lore-thebargain|The Republic's terms]] were not "when the war ends" but a **term of years, renewed**. That is why the
@@ -111,7 +111,7 @@ docket named only by a number, under a cover-description the chancery invented s
 query the line.
 
 Then the term was not renewed, the return was refused, and the killing followed. So the betrayal is a
-**default** rather than an ambush – and the reason the missing records are the terms and not the war
+**default** rather than an ambush—and the reason the missing records are the terms and not the war
 is that what was suppressed is the evidence of a debt still owed and an object still held.
 
 Two readings stand over this instead, neither of them true and both of them reasonable, and the

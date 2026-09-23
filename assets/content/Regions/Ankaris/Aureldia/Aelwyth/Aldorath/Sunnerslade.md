@@ -3,7 +3,7 @@ tags:
   - region
   - hill
   - inland
-description: "The vine country of Aldorath – sheltered slopes in the rain-shadow of the Ironfells, producing a cool-climate wine that has no business existing and is famous as far as the mainland."
+description: "The vine country of Aldorath—sheltered slopes in the rain-shadow of the Ironfells, producing a cool-climate wine that has no business existing and is famous as far as the mainland."
 type: place
 subType: region
 data:
@@ -38,7 +38,7 @@ The margin is thin. A cold summer costs the vintage outright, and does so about 
 ## The Wine
 
 That precariousness is exactly why the wine is worth what it is. Sunnerslade produces a pale, sharp,
-long-lived white in small quantity, and it is **known on the mainland** – one of only two things
+long-lived white in small quantity, and it is **known on the mainland**—one of only two things
 Aelwyth exports that anyone abroad asks for by name, the other being Aldorathi wool.
 
 Mainland buyers who have troubled to come and see where it is grown are generally astonished, and say
@@ -47,7 +47,7 @@ so, and are not thanked.
 ## The Slade
 
 Twenty-one thousand people, on holdings much smaller than the vale's manors and worked under lighter
-tenures – vine-tending will not bear the ordinary labor service, and Aldorath's lords learned this
+tenures—vine-tending will not bear the ordinary labor service, and Aldorath's lords learned this
 early and adapted with unusual pragmatism. Sunnerslade tenants are the freest peasantry in the kingdom
 and are resented for it.
 

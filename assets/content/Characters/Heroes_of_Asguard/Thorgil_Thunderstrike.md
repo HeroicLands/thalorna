@@ -549,20 +549,20 @@ Thorgil's strength is prodigious, and his skill with a warhammer is unmatched. S
 
 ### Patrons
 
-**The Storm Temple of Hammersfjall** – The priests of Thórr's sacred mountain recognize Thorgil as their god's champion and provide him with blessings, healing, and the finest weapons they can offer.
+**The Storm Temple of Hammersfjall**—The priests of Thórr's sacred mountain recognize Thorgil as their god's champion and provide him with blessings, healing, and the finest weapons they can offer.
 
-**Widow Astridr of Kystvik** – A wealthy fisherwoman whose village Thorgil saved from sea raiders. She supplies him with provisions, a ship, and crew whenever he needs them.
+**Widow Astridr of Kystvik**—A wealthy fisherwoman whose village Thorgil saved from sea raiders. She supplies him with provisions, a ship, and crew whenever he needs them.
 
 ### Enemies
 
-**The Serpent Cult** – Worshippers of the great sea serpent who view Thorgil as a blasphemer for his legendary battle. They seek revenge through poison, sabotage, and ambush rather than open combat.
+**The Serpent Cult**—Worshippers of the great sea serpent who view Thorgil as a blasphemer for his legendary battle. They seek revenge through poison, sabotage, and ambush rather than open combat.
 
-**Jarl Brynjar Stormbreaker** – A prideful lord who once challenged Thorgil to a holmgang and was humiliated. He now works to undermine Thorgil's reputation and deny him shelter in his lands.
+**Jarl Brynjar Stormbreaker**—A prideful lord who once challenged Thorgil to a holmgang and was humiliated. He now works to undermine Thorgil's reputation and deny him shelter in his lands.
 
 ## Plot Hooks
 
-1. **The Serpent's Return** – The sea serpent did not truly die. Fishermen report seeing its shadow beneath the waves, larger than before. Thorgil must prepare for a rematch he may not survive.
+1. **The Serpent's Return**—The sea serpent did not truly die. Fishermen report seeing its shadow beneath the waves, larger than before. Thorgil must prepare for a rematch he may not survive.
 
-2. **Hammersfjall Under Siege** – An army of trolls has laid siege to the sacred mountain. The priests are trapped, and the storm blessing is fading. Thorgil must break the siege before Thórr's power wanes.
+2. **Hammersfjall Under Siege**—An army of trolls has laid siege to the sacred mountain. The priests are trapped, and the storm blessing is fading. Thorgil must break the siege before Thórr's power wanes.
 
-3. **The Storm Child** – A child born during an unprecedented storm displays powers similar to Thorgil's own. Both the Storm Temple and darker forces seek to claim the child, and Thorgil must decide what is truly best for them.
+3. **The Storm Child**—A child born during an unprecedented storm displays powers similar to Thorgil's own. Both the Storm Temple and darker forces seek to claim the child, and Thorgil must decide what is truly best for them.

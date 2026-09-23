@@ -594,12 +594,12 @@ Poachers and rival archers challenge his reputation.
 
 ## Plot Hooks
 
-1. **The Yeoman Archer's Dilemma** – The lord orders Sölmundr to shoot a poacher on sight, and the man in his sights is one he knows.
+1. **The Yeoman Archer's Dilemma**—The lord orders Sölmundr to shoot a poacher on sight, and the man in his sights is one he knows.
 
-2. **Old Grudges** – A rival archer who lost to Sölmundr at the butts has challenged him to shoot again, with the lord's favor as the stake.
+2. **Old Grudges**—A rival archer who lost to Sölmundr at the butts has challenged him to shoot again, with the lord's favor as the stake.
 
-3. **Echoes of the Past** – A poacher Sölmundr once ran off the lord's land has come back.
+3. **Echoes of the Past**—A poacher Sölmundr once ran off the lord's land has come back.
 
-4. **Shifting Winds** – Political change in Nordheim threatens the lord Sölmundr serves, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Nordheim threatens the lord Sölmundr serves, and he can adapt, resist, or leave.
 
-5. **The Opportunity** – A greater lord who saw Sölmundr shoot offers him a place among his own archers, and taking it would mean leaving the militia and the lord who made him.
+5. **The Opportunity**—A greater lord who saw Sölmundr shoot offers him a place among his own archers, and taking it would mean leaving the militia and the lord who made him.
