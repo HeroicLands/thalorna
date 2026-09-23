@@ -115,7 +115,7 @@ sohl: {}
 
 ## Overview
 
-Per-Thōth—"the House of Thōth"—is the learned nome of the [[affiliation-uperivrnms|upper river]], the empire's seat of writing, reckoning, and recorded knowledge. Here are the finest scribal schools in the empire, the astronomers who keep the calendar that is the most accurate in the known world, and the archivists, lawyers, mathematicians, and physicians whose training begins under Thōth's wing. The land it holds is [[place-perthothnome|Per-Thōth]].
+Per-Thōth—"the House of Thōth"—is the learned nome of the [[affiliation-uperivrnms|upper river]], the empire's seat of writing, reckoning, and recorded knowledge. Here are the finest scribal schools in the empire, the astronomers who keep the empire's calendar, and the archivists, lawyers, mathematicians, and physicians whose training begins under Thōth's wing. The land it holds is [[place-perthothnome|Per-Thōth]].
 
 ## Character
 
