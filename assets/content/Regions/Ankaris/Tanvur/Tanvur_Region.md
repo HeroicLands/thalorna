@@ -17,6 +17,10 @@ data:
     - humanflk
   parents:
     - ankrscntnnt
+  borders:
+    - { to: khzryndsrtrgn, bearing: W }
+    - { to: vedyarargn, bearing: SW }
+    - { to: graznmntns, bearing: W }
   population: null
 terran_analog: "China, Korea, and mainland Southeast Asia (Vietnam, Laos, Thailand, Cambodia, Myanmar) — the great eastern imperial sphere of celestial bureaucracy, mountain-fringed river civilizations, and tributary kingdoms."
 packFolder: tanvur
@@ -64,7 +68,7 @@ Coastal trade is secondary in prestige but enormous in volume: Tānvüri junks w
 
 To the **east**, across the narrow strait, is [[place-jurthatrgn|Jürthāt]]. The Empire claims the archipelago as a rebellious province; the archipelago considers itself the true inheritor of the Celestial Mandate and its Tānvüri ruling house to be usurpers. The result is a perpetual, low-intensity maritime war, punctuated by occasional disasters in both directions.
 
-To the **south**, contact with [[place-vedyarargn|Vedyara]] is old, substantial, and characterized by mutual cultural respect and almost no political integration. Vedyaran scholars travel the Tānvüri courts; Tānvüri monks study Vedyaran philosophical texts. Neither side has ever seriously tried to rule the other.
+To the **southwest**, beyond the eastern arc of the [[place-graznmntns|Grazian Mountains]], contact with [[place-vedyarargn|Vedyara]] is old, substantial, and characterized by mutual cultural respect and almost no political integration. Vedyaran scholars travel the Tānvüri courts; Tānvüri monks study Vedyaran philosophical texts. Neither side has ever seriously tried to rule the other.
 
 To the **west**, beyond the mountain passes, the Khazryn Desert is a buffer crossed by caravans and occasionally by imperial expeditions. The Aurèldían kingdoms further west are real but remote, a faint rumor of cathedrals and princes.
 
@@ -77,7 +81,8 @@ To the **north**, the [[place-grkrhlmrgn|Grukari]] frontier is a fortified march
 - [[lore-mandatehvn|Mandate of Heaven]] — the imperial doctrine
 - [[lore-castelaws|Caste Laws]] — the legal structure of the eight castes
 - [[place-jurthatrgn|Jürthāt Region]] — eastern archipelago, claimed province
-- [[place-vedyarargn|Vedyara Region]] — southern neighbor and scholarly counterpart
+- [[place-vedyarargn|Vedyara Region]] — southwestern neighbor and scholarly counterpart
+- [[place-graznmntns|The Grazian Mountains]] — the range along the western frontier
 - [[place-khzryndsrtrgn|Khazryn Desert Region]] — western buffer
 - [[place-grkrhlmrgn|Grukarholm Region]] — northern frontier
 - [[place-ankrscntnnt|Ankaris Continent]] — parent continent

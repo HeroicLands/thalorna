@@ -19,6 +19,8 @@ data:
     - ankrscntnnt
   borders:
     - { to: dunharargn, bearing: SW }
+    - { to: vedyarargn, bearing: S }
+    - { to: tanvuregin, bearing: E }
   population: 5000000
 terran_analog: "Central Asia in the broadest sense — Siberia, Mongolia, Kazakhstan, Uzbekistan, Tajikistan, Kyrgyzstan, and the Gobi. The southwestern Persianate oasis-belt (Uzbek/Tajik analog) is held by the Khazryn and Ātárzád; the vast northern, central, and eastern steppes, taiga, and Gobi-analog dryland are home to Turkic and Mongolic horse-nomad confederations and Siberian forest peoples."
 packFolder: khazryndesert
@@ -30,7 +32,7 @@ The desert is not empty. Nomadic confederations, oasis settlements, and the long
 
 ## Geography
 
-The Khazryn occupies an enormous central-and-eastern band of Ankaris, dwarfing every other region of the continent in sheer extent. It runs from the eastern frontier of [[place-velanthrgn|Velanthia]] in the west, across the high steppes and the great central sand-and-stone deserts, to the western passes that descend into [[place-vedyarargn|Vedyara]] and [[place-tanvuregin|Tānvür]]. North to south, it stretches from the Siberian-analog taiga that borders [[place-grkrhlmrgn|Grukarhölm]] down to the southern oasis-belt where it shades into the [[place-dunharargn|Dunhara]].
+The Khazryn occupies an enormous central-and-eastern band of Ankaris, dwarfing every other region of the continent in sheer extent. It runs from the eastern frontier of [[place-velanthrgn|Velanthia]] in the west, across the high steppes and the great central sand-and-stone deserts, to the eastern passes that descend into [[place-tanvuregin|Tānvür]] and the southern passes that descend through the [[place-graznmntns|Grazian Mountains]] into [[place-vedyarargn|Vedyara]]. North to south, it stretches from the Siberian-analog taiga that borders [[place-grkrhlmrgn|Grukarhölm]] down to the southern oasis-belt where it shades into the [[place-dunharargn|Dunhara]].
 
 The region's vastness produces extraordinary internal variation. Five distinct zones can be distinguished:
 
@@ -88,7 +90,7 @@ The [[affiliation-ordoarcanis|Ordo Arcanis]] has almost no presence here. The so
 
 No single ruler holds the Khazryn. Power is distributed among (a) the steppe confederations, perhaps a dozen major and many smaller, dominating the central and northern grasslands; (b) the [[affiliation-khzrncnfdrtn|Khazryn]] and [[affiliation-tribestrzd|Ātárzád]] in the southwestern oasis-belt, locked in their generations-long blood-feud over the four conquered cities; (c) the loose band-organization of the northern taiga peoples; and (d) the oasis settlements of the central caravan routes, whose allegiances shift with changing confederation fortunes.
 
-The steppe confederations occasionally unite into a great khanate in response to a charismatic warlord — and have, on three occasions in recorded history, threatened the settled neighbors with consequences serious enough to provoke continent-wide alarm. The most famous such episode, the **Storm of the Hundred Banners** four centuries ago, swept across half of Vedyara and reached the eastern walls of the [[affiliation-sultntmrdd|Sultanate of Amradad]] before fragmenting on the death of its founding khan. The southwestern oasis-civilizations were largely spared on that occasion (the storm-khan respected the Sultanate's diplomatic missions); the next such unification may not be so fortunate.
+The steppe confederations occasionally unite into a great khanate in response to a charismatic warlord — and have, on three occasions in recorded history, threatened the settled neighbors with consequences serious enough to provoke continent-wide alarm. The most famous such episode, the **Storm of the Hundred Banners** four centuries ago, took the one road a horde can take. It went round the [[place-graznmntns|Grazian]] wall rather than over it, down the broken country of the Western Descent at the range's western end, and overran the whole of [[place-vedyarargn|Vedyara]]'s northwestern marches; from there it turned west across the [[place-dunharargn|Dunhara]] and reached the eastern walls of the [[affiliation-sultntmrdd|Sultanate of Amradad]] before fragmenting on the death of its founding khan. No pass was forced and none could have been: a crossing that carries three caravans in a good season carries no army at all. The southwestern oasis-civilizations were largely spared on that occasion (the storm-khan respected the Sultanate's diplomatic missions); the next such unification may not be so fortunate.
 
 Foreign powers have generally given up trying to rule the desert. The [[affiliation-vylarinmpr|Vylarian Empire]] at its height maintained a handful of fortified outposts on the western margin; [[affiliation-tanvurempr|Tānvür]] keeps permanent garrisons on its western passes; the Sultanate of Amradad maintains formal diplomatic and trade relations with the southwestern oasis-civilizations and avoids any military adventure further north.
 
@@ -104,9 +106,11 @@ To the **west** lies [[place-velanthrgn|Velanthia]], the transitional zone of fo
 
 To the **southwest** lies the [[affiliation-sultntmrdd|Sultanate of Amradad]] (in the broader [[place-dunharargn|Dunhara]]). The Sultanate is the principal external power with which the southwestern oasis-civilizations maintain sustained diplomatic and trade relations, and is the host of the Khazryn exile community.
 
-To the **south** lies the rest of the [[place-dunharargn|Dunhara]] — the wider Dunhari world that wraps around the Khazryn's southwestern corner. The two regions share the Āsháian pantheon and many cultural patterns; the southwestern Khazryn especially functions as an extension of the Dunhari sphere.
+Beyond the Sultanate, the rest of the [[place-dunharargn|Dunhara]] wraps around the Khazryn's southwestern corner — the wider Dunhari world. The two regions share the Āsháian pantheon and many cultural patterns; the southwestern Khazryn especially functions as an extension of the Dunhari sphere.
 
-To the **east** lie the passes that lead to [[place-vedyarargn|Vedyara]] and [[place-tanvuregin|Tānvür]]. The eastern steppe confederations mediate most of the overland trade with both, and Tānvür has spent centuries managing its frontier with the easternmost steppe confederations as a permanent strategic problem.
+To the **south** stands the [[place-graznmntns|Grazian]] wall and, below it, [[place-vedyarargn|Vedyara]]. The frontier is the highest in the world and the least used: a handful of passes, open a few weeks in late summer, held at their throats by Vedyari powers and crossed under hereditary guides. The trade is small in volume and enormous in value, and the southwestern oasis-belt lives partly on it.
+
+To the **east** lie the passes that lead to [[place-tanvuregin|Tānvür]]. The eastern steppe confederations mediate most of the overland trade, and Tānvür has spent centuries managing its frontier with the easternmost of them as a permanent strategic problem.
 
 To the **northwest** lies [[place-vrystwald|Vrystwald]] across a long mountain-and-forest frontier. Contact is sparse — the mountains are bad terrain for everyone, and the Varokh forest tribes have little appetite for the open steppe — but the few crossings that exist carry a steady trickle of furs, amber, and (in the other direction) horses and Khazryn silver. The taiga peoples of the Khazryn's northern margin and the northeastern Varokh maintain the only continuous cross-border culture along this frontier.
 
@@ -117,6 +121,7 @@ To the **northwest** lies [[place-vrystwald|Vrystwald]] across a long mountain-a
 - [[place-heladrgn|Hellád Region]] — western gateway
 - [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — western trading partner
 - [[place-dunharargn|Dunhara Region]] — southern desert cousin
-- [[place-vedyarargn|Vedyara Region]] — southeastern pass-end
+- [[place-vedyarargn|Vedyara Region]] — southern neighbor beyond the Grazian wall
 - [[place-tanvuregin|Tānvür Region]] — far eastern pass-end
+- [[place-graznmntns|The Grazian Mountains]] — the southern wall and its passes
 - [[place-ankrscntnnt|Ankaris Continent]] — parent continent

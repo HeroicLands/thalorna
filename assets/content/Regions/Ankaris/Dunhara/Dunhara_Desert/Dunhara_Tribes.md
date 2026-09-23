@@ -115,7 +115,7 @@ The tribes are organized around kinship networks, with each tribe tracing descen
 
 The Dunhari are master riders and navigators. Their knowledge of the desert — its hidden water sources, its seasonal pastures, its treacherous sand seas — is passed down through oral tradition and jealously guarded. A Dunhari guide is the single most valuable asset a caravan crossing the desert can hire.
 
-Trade is central to Dunhari life. The tribes control the overland routes connecting [[affiliation-cnfdrtnhrdnstts|Harad]] and [[place-byzariargn|Byzaría Region]] to the east, and every tribe profits from caravan tolls, guide fees, and protection agreements. The wealthier tribes maintain semi-permanent settlements at major oases that function as caravansaries and market towns.
+Trade is central to Dunhari life. The tribes control the overland routes that run east from [[affiliation-cnfdrtnhrdnstts|Harad]] and [[place-byzariargn|Byzaría Region]] to their far terminus in [[place-vedyarargn|Vedyara]] — the one road into the subcontinent that crosses no mountain, since it passes south of the [[place-graznmntns|Grazian]] wall's western end — and every tribe profits from caravan tolls, guide fees, and protection agreements. The wealthier tribes maintain semi-permanent settlements at major oases that function as caravansaries and market towns.
 
 ## Commerce and Currency
 
@@ -127,4 +127,5 @@ Dunhara Tribes operates almost entirely on [[lore-bartercnmy|barter]] and [[lore
 - [[affiliation-sultntmrdd|Sultanate of Amradad]] — The settled Dunhari polity
 - [[place-khzryndsrtrgn|Khazryn Desert Region]] — Northern neighbor
 - [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — Western trade terminus
+- [[place-vedyarargn|Vedyara Region]] — Eastern trade terminus, reached by land round the wall's end
 - [[affiliation-ashanpnthn|Āsháian Pantheon]] — Pantheon

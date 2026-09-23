@@ -1,6 +1,6 @@
 ---
 tags: []
-description: Highland kingdom of the northern Vedyari passes — austere, martial, and jealous of the caravan routes that bind Vedyara to the desert realms beyond.
+description: Highland kingdom of the northern Vedyari passes — austere, martial, and jealous of the caravan routes that carry Vedyara over the wall to the steppe and the east.
 type: affiliation
 name:
   full: Vindhyālaya
@@ -103,8 +103,8 @@ data:
   parents: []
   relations:
     varakpnthn: aligned
-    sultntmrdd: unaligned
-    dunhartrbs: rival
+    khzrncnfdrtn: unaligned
+    tribestrzd: unaligned
     chandrapur: aligned
     vyalendra2: aligned
     tanvurempr: unaligned
@@ -113,7 +113,7 @@ packFolder: vedyara
 
 ## Overview
 
-Vindhyālaya — "the abode of the Vindhya" — is the principal kingdom of the northern highlands of [[place-vedyarargn|Vedyara]], commanding the great passes that link the subcontinent to the caravan routes of the [[place-dunharargn|Dunhara]] and, further north, the far-eastern markets beyond the [[place-khzryndsrtrgn|Khazryn]]. Its wealth is the wealth of the toll-road and the customs-house; its politics are the politics of the march. The kingdom holds the land of [[place-vindhyalayaland|Vindhyālaya]].
+Vindhyālaya — "the abode of the Vindhya" — is the principal kingdom of the northern highlands of [[place-vedyarargn|Vedyara]], commanding the great passes that carry the subcontinent's trade over the [[place-graznmntns|Grazian]] wall. Beyond the throat of the greatest of them the road forks: north to the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]] and the Celestial Road beyond, northeast by the longer branch to the western frontier of [[place-tanvuregin|Tānvür]]. Its wealth is the wealth of the toll-road and the customs-house; its politics are the politics of the march. The kingdom holds the land of [[place-vindhyalayaland|Vindhyālaya]].
 
 ## Character
 
@@ -139,9 +139,11 @@ Succession is hereditary but contested. The Mahārāja's eldest son is the presu
 
 To the **south**, Vindhyālaya's relationship with the river-valley kingdoms is long-standing and mostly cordial. Trade bonds are strong; marriages between Vindhyan princesses and southern courts are a regular feature of Vedyari diplomacy; southern merchants treat the kingdom as an indispensable partner. Border friction flares periodically over grazing rights and customs rates, but outright war is rare.
 
-To the **north**, relations with the [[affiliation-dunhartrbs|Dunhara tribes]] and with the caravan-guilds of the [[place-dunharargn|Dunhara]] are the kingdom's great diplomatic preoccupation. The tribes raid in lean seasons and trade in fat ones; the Vindhyan army exists primarily to make the first option unprofitable. A formal treaty with the [[affiliation-sultntmrdd|Sultanate of Amradad]], renewed every generation, regulates the movement of pilgrim caravans and the treatment of merchants arrested for trade violations on either side of the passes.
+To the **north**, beyond the wall, lie the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]] and the confederations that hold them. Neither the [[affiliation-khzrncnfdrtn|Khazryn Confederation]] nor the [[affiliation-tribestrzd|Ātárzád]] can reach Vindhyālaya in force — no horde has ever taken a Grazian pass and none is likely to — so the relationship is commercial rather than military, conducted through the edge-town markets and renegotiated season by season as tolls, escort fees and the quality of the year's horses require. The kingdom keeps no garrison beyond the summits and expects none in return.
 
-To the **east**, across the mountain spine, lie routes that lead eventually to [[affiliation-tanvurempr|Tānvür]]. The direct routes are treacherous and lightly travelled, but Tānvüri scholarly envoys appear at Vindhyan court every few decades, and a small Tānvüri community has existed in Sūryāgarha for centuries.
+To the **northeast**, by the eastern branch of the pass-roads, lie the western marches of [[affiliation-tanvurempr|Tānvür]]. The branch is longer, higher and lightly travelled, but Tānvüri scholarly envoys appear at the Vindhyan court every few decades, and a small Tānvüri community has existed in Sūryāgarha for centuries.
+
+The kingdom has no frontier with the [[place-dunharargn|Dunhara]] at all. The desert lies west of where the wall runs out, and the road to it belongs to the northwestern marches, not to the passes.
 
 ## Commerce and Currency
 
@@ -153,5 +155,6 @@ Vindhyālaya uses the [[lore-vdyrnbnkng|Vedyaran banking system]] administered t
 - [[place-vedyarargn|Vedyara Region]] — Regional overview
 - [[skill-vedyarlng|Vedyari]] — Language and naming conventions
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — Religious tradition
-- [[affiliation-dunhartrbs|Dunhara Tribes]], [[affiliation-sultntmrdd|Sultanate of Amradad]] — Northern trading partners and perennial rivals
+- [[place-graznmntns|The Grazian Mountains]] — The wall the kingdom's passes cross
+- [[affiliation-khzrncnfdrtn|Khazryn Confederation]], [[affiliation-tribestrzd|Ātárzád]] — Trading partners beyond the northern summits
 - [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]] — Southern Vedyari trade partners

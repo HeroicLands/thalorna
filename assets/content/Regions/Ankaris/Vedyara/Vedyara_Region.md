@@ -18,6 +18,8 @@ data:
     - ankrscntnnt
   borders:
     - { to: dunharargn, bearing: NW }
+    - { to: khzryndsrtrgn, bearing: N }
+    - { to: tanvuregin, bearing: NE }
   population: 110000000
 terran_analog: India (subcontinent of independent states)
 packFolder: vedyara
@@ -29,7 +31,11 @@ Vedyara's political fragmentation is genuine and chronic, but it coexists with a
 
 ## Geography
 
-Vedyara occupies the large subcontinental projection in southeastern Ankaris, extending from the mountain passes in the north down to a long tropical coastline facing the warm seas east of the [[place-vylarianse|Vylarian Sea]]. Great rivers rise in the northern mountains and flow south through fertile floodplains that support dense populations and intensive, sophisticated agriculture. The coast is tropical and lush; the interior ranges through jungle, grassland, and arid plateau as one travels inland; the far northern margin rises into temperate hill-country and eventually into the mountain chain that separates Vedyara from the [[place-dunharargn|Dunhara]] and the [[place-khzryndsrtrgn|Khazryn]].
+Vedyara occupies the large subcontinental projection in southeastern Ankaris, extending from the mountain passes in the north down to a long tropical coastline facing the warm seas east of the [[place-vylarianse|Vylarian Sea]]. Great rivers rise in the northern mountains and flow south through fertile floodplains that support dense populations and intensive, sophisticated agriculture. The coast is tropical and lush; the interior ranges through jungle, grassland, and arid plateau as one travels inland; the far northern margin rises into temperate hill-country and eventually into the [[place-graznmntns|Grazian Mountains]], the wall that separates Vedyara from the [[place-khzryndsrtrgn|Khazryn]] to the north and from [[place-tanvuregin|Tānvür]] to the northeast.
+
+The subcontinent has three shores, not two. The long eastern and southern coastlines carry the ports, the monsoon and the sailing trade; a shorter western coast runs south from the desert-margin below the wall's western end, arid where the others are lush, and its sea is the one Vedyari sailors know least.
+
+The wall does not continue west. The Grazian range's western end descends into broken foothills and runs out into desert-margin, and it is round that end — not over any pass — that the land road to the [[place-dunharargn|Dunhara]] runs. Dunhara is therefore Vedyara's only neighbour by open land, and the subcontinent's one door is its northwest.
 
 The climate is monsoon-driven, with a wet season and a dry season dominating the agricultural and ritual calendars. The coastal ports receive the heaviest rains; the interior plateau is semi-arid; the northern mountains carry snow for part of the year. The great rivers — rising from snowmelt and monsoon runoff in combination — are the region's transport and agricultural lifeblood.
 
@@ -67,17 +73,19 @@ Warfare between Vedyari kingdoms follows elaborate conventions that are simultan
 
 ## Trade
 
-Vedyara's political fragmentation means it has no unified trade policy — individual kingdoms and city-states maintain their own commercial relationships. The coastal polities trade extensively with [[affiliation-empirtkhpr|Ta'Kheperu]] across the southern seas and, through intermediaries, with the markets of the [[place-vylarianse|Vylarian Sea]] and [[place-midhalnrgn|Mídhalión Region]]. The northern kingdoms interact with [[place-dunharargn|Dunhara]] and the [[place-khzryndsrtrgn|Khazryn]] through the great caravan routes that cross the northern passes. The eastern kingdoms trade directly with [[place-tanvuregin|Tānvür]] through the passes and the southern sea routes.
+Vedyara's political fragmentation means it has no unified trade policy — individual kingdoms and city-states maintain their own commercial relationships. The coastal polities trade extensively with [[affiliation-empirtkhpr|Ta'Kheperu]] across the southern seas and, through intermediaries, with the markets of the [[place-vylarianse|Vylarian Sea]] and [[place-midhalnrgn|Mídhalión Region]]. The northern kingdoms reach the [[place-khzryndsrtrgn|Khazryn]] and, by the eastern branch of the pass-roads, [[place-tanvuregin|Tānvür]], through the handful of high crossings of the [[place-graznmntns|Grazian Mountains]] — three or four caravans a season to a route, at a markup that pays for the risk. Caravan trade across the desert to [[place-dunharargn|Dunhara]] is ancient and substantial and crosses no pass at all: it goes west by the march road round the wall's end, which is why it moves in bulk where the pass trade moves in bales. The eastern kingdoms also trade with Tānvür by the southern sea routes.
 
 Vedyari exports — silk, spice, gems, incense, medicines, fine textiles, ivory, worked metal, classical manuscripts — flow across half the known world. Very little direct contact exists between Vedyara and the western Aurèldían kingdoms; most Mídhalion dwellers know of Vedyara only through its trade goods, which by the time they reach Aurèldían markets have typically passed through three or four hands of intermediaries and accumulated extraordinary markups.
 
 ## Relations with Neighboring Regions
 
-To the **northwest** lies the [[place-dunharargn|Dunhara]]. Caravan trade across the desert is ancient and substantial; relations are cautious but workable.
+To the **northwest** lies the [[place-dunharargn|Dunhara]], and it is the only neighbour reached without a mountain crossing: the road runs round the western end of the wall, through foothill and desert-margin. Caravan trade across the desert is ancient and substantial; relations are cautious but workable.
 
-To the **north** lies the [[place-khzryndsrtrgn|Khazryn]] and, through its passes, the far-eastern empires. Trade rather than politics dominates the relationship.
+That frontier is a march, and it is governed like one. The [[affiliation-dunhartrbs|Dunhara tribes]] raid in lean seasons and trade in fat ones, and the standing forces of the northwestern kingdoms exist chiefly to make the first option unprofitable. A formal treaty with the [[affiliation-sultntmrdd|Sultanate of Amradad]], renewed every generation, regulates the movement of pilgrim caravans and the treatment of merchants arrested for trade violations on either side of the frontier. Vedyari cotton, silk, spice and worked metal go out along the march road toward the Dunhari oases and the desert emporia beyond; the road is also the only way an army has ever entered the subcontinent.
 
-To the **east** lies [[place-tanvuregin|Tānvür]]. The two civilizations are mutually respectful scholarly partners whose intellectual exchange is centuries old; direct political integration has never been attempted and is unlikely ever to be. Vedyari monks study in Tānvüri academies; Tānvüri scholars travel the Vedyari courts.
+To the **north** lies the [[place-khzryndsrtrgn|Khazryn]], beyond the wall and reached only by the high passes, and through it the far-eastern empires. Trade rather than politics dominates the relationship; the return caravans bring salt, horses, lapis, amber and the rarer goods of the eastern steppes.
+
+To the **northeast**, beyond the wall's eastern arc, lies [[place-tanvuregin|Tānvür]]. The two civilizations are mutually respectful scholarly partners whose intellectual exchange is centuries old; direct political integration has never been attempted and is unlikely ever to be. Vedyari monks study in Tānvüri academies; Tānvüri scholars travel the Vedyari courts.
 
 To the **southeast**, across the seas, lie lands that the Vedyari know through their own maritime tradition — scattered islands, coastal kingdoms, and ultimately the more distant southern continents.
 
@@ -89,8 +97,9 @@ Geographically, janapadas are concentrated wherever sustainable village-cluster 
 
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — the cycle-gods
 - [[skill-vedyarlng|Vedyari]] — the language and its classical form
-- [[place-dunharargn|Dunhara Region]] — northwestern desert neighbor
-- [[place-khzryndsrtrgn|Khazryn Desert Region]] — northern desert neighbor
-- [[place-tanvuregin|Tānvür Region]] — eastern scholarly partner
+- [[place-graznmntns|The Grazian Mountains]] — the wall along the north, and its passes
+- [[place-dunharargn|Dunhara Region]] — northwestern neighbor by land
+- [[place-khzryndsrtrgn|Khazryn Desert Region]] — beyond the wall to the north
+- [[place-tanvuregin|Tānvür Region]] — beyond the wall to the northeast, scholarly partner
 - [[affiliation-empirtkhpr|Ta'Kheperu]] — southwestern maritime partner
 - [[place-ankrscntnnt|Ankaris Continent]] — parent continent
