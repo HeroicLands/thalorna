@@ -106,6 +106,7 @@ data:
     arldnpnthn: aligned
     ashanpnthn: aligned
 packFolder: harad
+sohl: {}
 ---
 
 Kethara is the Confederation's naval stronghold—a heavily fortified city on the strait between the mainland and the Haradian archipelago. The city that built the fleet that won the Battle of Tamzîr Shoals, Kethara's identity is military as much as mercantile. Its admirals command the Confederation's most powerful warships, and its marine infantry are the closest thing Harad has to a professional standing army. The city-state holds [[place-kethara2|Kethara]] itself.

@@ -94,6 +94,7 @@ data:
   lore: []
   parents: []
   relations: {}
+sohl: {}
 ---
 
 _Vylarian: Magnum Collegium Collegiorum—"The Great Guild of the Guilds"_

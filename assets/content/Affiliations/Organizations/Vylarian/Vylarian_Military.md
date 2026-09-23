@@ -100,6 +100,7 @@ data:
   lore: []
   parents: []
   relations: {}
+sohl: {}
 ---
 
 - **Type:** Imperial military institution

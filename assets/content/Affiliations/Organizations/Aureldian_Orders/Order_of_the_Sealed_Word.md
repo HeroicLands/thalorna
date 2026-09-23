@@ -108,6 +108,7 @@ name:
     - The Sealed Hand
     - The Oath-Wardens
 shortcode: ordrsldwrd
+sohl: {}
 ---
 
 _Aurèldían: Ordo Verbi Signati—"The Order of the Sealed Word"_

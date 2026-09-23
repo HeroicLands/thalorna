@@ -82,6 +82,7 @@ name:
     - The House of Desert
 shortcode: deshrut
 packFolder: khemenuhekau
+sohl: {}
 ---
 
 ## Per-Deshr'ut (House of the Red Land)

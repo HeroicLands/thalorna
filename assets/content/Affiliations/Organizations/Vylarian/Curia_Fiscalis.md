@@ -86,6 +86,7 @@ data:
   lore: []
   parents: []
   relations: {}
+sohl: {}
 ---
 
 _Vylarian: Curia Fiscalis—"the Fiscal Court"_

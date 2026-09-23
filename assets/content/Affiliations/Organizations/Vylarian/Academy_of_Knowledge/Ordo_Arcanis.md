@@ -97,6 +97,7 @@ data:
   parents: []
   relations: {}
 packFolder: academyofknowledge
+sohl: {}
 ---
 
 The **Ordo Arcanis** is the dominant arcane guild of western [[place-ankrscntnnt|Ankaris Continent]] and one of the most powerful institutions in [[place-midhalnrgn|Mídhalión Region]]. It holds a monopoly on the practice, research, and teaching of arcane lore throughout the regions under its authority. Only members of the Ordo are sanctioned to practice magic; all others are subject to investigation, sanction, and—if necessary—elimination.

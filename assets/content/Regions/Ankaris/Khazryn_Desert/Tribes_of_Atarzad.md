@@ -118,6 +118,7 @@ data:
     sultntmrdd: unaligned
 terran_analog: "Israelites of the Exodus and Conquest—twelve-tribe nomadic-pastoral confederation, monolatrous fire-cult, covenantal land-claim, post-bondage founding narrative under a singular prophet, blood-feud with the indigenous urban polytheists whose territory they seized"
 packFolder: khazryndesert
+sohl: {}
 ---
 
 The **Tribes of Ātárzád** are a confederation of twelve allied tribes who today hold the great walled oases and the major caravan routes of the [[place-khzryndsrtrgn|Khazryn Desert]]. They are newcomers—by the reckoning of their own griots, only six generations have passed since their forebears came up out of bondage in [[affiliation-empirtkhpr|Ta'Kheperu]] under the prophet **Mūshárā** and received the **Promise of the Khazryn** at the Unconsuming Flame on Mt. Shōfar. By the reckoning of their adversaries, the [[affiliation-khzrncnfdrtn|Khazryn]], they are six generations of trespassers whose claim rests on theology rather than on right. The Tribes hold the four great cities of the [[place-swoasisbelt|Southwestern Oasis-Belt]] and the pasturelands between them.

@@ -59,6 +59,7 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
+sohl: {}
 ---
 
 ## Kālavrata—The Gatekeeper of Death

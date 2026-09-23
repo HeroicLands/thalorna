@@ -71,6 +71,7 @@ data:
   lore: []
   parents: []
   relations: {}
+sohl: {}
 ---
 
 - **Type:** Cultural federation

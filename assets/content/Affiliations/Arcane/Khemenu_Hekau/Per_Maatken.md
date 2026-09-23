@@ -83,6 +83,7 @@ name:
     - The House of Order
 shortcode: maatken
 packFolder: khemenuhekau
+sohl: {}
 ---
 
 ## Per-Maat'ken (House of the Balance)

@@ -95,6 +95,7 @@ data:
   lore: []
   parents: []
   relations: {}
+sohl: {}
 ---
 
 - **Type:** Federation of matriarchal trading clans; commercial institution

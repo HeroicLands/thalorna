@@ -27,6 +27,7 @@ name:
   aliases: []
 shortcode: njorvencult
 packFolder: nordlands
+sohl: {}
 ---
 
 The cult that venerates [[being-njorven|Njörven]].

@@ -110,6 +110,7 @@ data:
     cnfdrtnhrdnstts: rival
     sultntmrdd: unaligned
 packFolder: byzaria
+sohl: {}
 ---
 
 The Byzarian League is a confederation of five trading cities at the crossroads of eastern and western [[place-ankrscntnnt|Ankaris Continent]]. Neither a true kingdom nor a loose alliance, the League is a commercial pact—its member cities agree to mutual trade privileges, common tariffs against outsiders, and collective defense, while maintaining internal self-governance. The League's power rests on its geographic position: it controls the overland routes that connect the markets of [[place-midhalnrgn|Mídhalión Region]] to the [[place-khzryndsrtrgn|Khazryn Desert Region]], [[place-dunharargn|Dunhara Region]], and the distant east.

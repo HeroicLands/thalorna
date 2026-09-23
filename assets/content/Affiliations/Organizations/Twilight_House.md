@@ -116,6 +116,7 @@ data:
     velvethand: unaligned
     crmsyndctsthlrn: unaligned
     vindhyalay: unaligned
+sohl: {}
 ---
 
 - **Type:** Courtesan establishment and intelligence network

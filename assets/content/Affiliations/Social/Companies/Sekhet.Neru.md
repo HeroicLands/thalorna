@@ -101,6 +101,7 @@ name:
     - The Sacred Hunt of the Khetai
     - The Mighty Ones of the Field
 shortcode: sekhetneru
+sohl: {}
 ---
 
 ## Sekhet'Neru—The Sacred Hunt of the Khetai

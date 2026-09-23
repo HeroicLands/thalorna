@@ -83,6 +83,7 @@ name:
     - The House of Sun
 shortcode: atenre
 packFolder: khemenuhekau
+sohl: {}
 ---
 
 ## Per-Aten'ré (House of the Disk)

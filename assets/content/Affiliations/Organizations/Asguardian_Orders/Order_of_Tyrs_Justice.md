@@ -103,6 +103,7 @@ data:
   parents: []
   relations:
     asguardian: aligned
+sohl: {}
 ---
 
 _Old Norse: Týrshönd—"The Hand of Týr"_

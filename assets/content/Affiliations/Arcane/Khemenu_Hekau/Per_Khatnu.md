@@ -87,6 +87,7 @@ name:
     - The House of Form
 shortcode: khatnu
 packFolder: khemenuhekau
+sohl: {}
 ---
 
 ## Per-Khat'nu (House of the Body)

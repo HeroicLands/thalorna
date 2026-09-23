@@ -82,6 +82,7 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
+sohl: {}
 ---
 
 ## Svapnasāri-samāja—The Assembly of the Dream-Followers

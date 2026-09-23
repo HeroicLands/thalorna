@@ -93,6 +93,7 @@ data:
   lore: []
   parents: []
   relations: {}
+sohl: {}
 ---
 
 - **Type:** Royal-chartered trade guilds; small federation of urban commercial institutions

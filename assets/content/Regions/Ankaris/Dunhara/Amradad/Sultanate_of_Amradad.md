@@ -118,6 +118,7 @@ data:
     vindhyalay: unaligned
 terran_analog: "Turkey, Syria, Georgia, Armenia, and Azerbaijan—Anatolian-Caucasian sultanate fusing Turkic political-military traditions with Persianate court culture and Persian-language theology, a settled imperial counterpoint to the tribal Dunhari interior."
 packFolder: amradad
+sohl: {}
 ---
 
 ## Overview

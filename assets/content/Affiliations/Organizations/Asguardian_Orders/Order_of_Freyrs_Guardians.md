@@ -104,6 +104,7 @@ data:
   parents: []
   relations:
     asguardian: aligned
+sohl: {}
 ---
 
 _Old Norse: Fréyrsverdir—"Fréyr's Swords"_

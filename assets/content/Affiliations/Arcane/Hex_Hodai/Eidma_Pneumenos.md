@@ -95,6 +95,7 @@ name:
 thalorna:
   school: spirit
 packFolder: affiliationshexhodai
+sohl: {}
 ---
 
 Eídma **Pneuménos** is the Eídma of mind, soul, communion with otherworldly entities, and the immaterial. It occupies the lower-left vertex of the [[lore-hexhodai|Sigillum]], directly opposite [[affiliation-physera|Eídma Physéra]]. Where Earth trusts only what can be touched, Spirit reaches for what lies beyond touch—the unseen architectures of consciousness, the entities that inhabit the spaces between the material and the divine, and the deep structures of will and awareness that underlie all magical practice. Pneuménos is the most respected, the most feared, and the most closely supervised of the six schools.

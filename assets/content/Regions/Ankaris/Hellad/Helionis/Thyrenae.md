@@ -114,6 +114,7 @@ data:
     arldnpnthn: aligned
     panepistmm: aligned
 packFolder: helionis
+sohl: {}
 ---
 
 - **Patron Deity:** [[affiliation-arldnpnthn|Ménérva]] (knowledge and wisdom)

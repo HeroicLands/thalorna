@@ -114,6 +114,7 @@ data:
     ashanpnthn: aligned
     wrrscrcldnhrtrbs: aligned
     dunhartrbs: aligned
+sohl: {}
 ---
 
 _Dunhari: Bahârâmî-Pîravân—"the Followers of Báhrámiš"_

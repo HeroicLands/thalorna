@@ -76,6 +76,7 @@ data:
   lore: []
   parents: []
   relations: {}
+sohl: {}
 ---
 
 _Old Norse: Skaldahringr—"the Ring of the Skalds"_

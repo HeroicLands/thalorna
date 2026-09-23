@@ -121,6 +121,7 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
+sohl: {}
 ---
 
 ## Fëkvōr—The Minister of Material Fortune

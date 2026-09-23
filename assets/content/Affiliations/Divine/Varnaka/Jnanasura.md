@@ -60,6 +60,7 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
+sohl: {}
 ---
 
 ## Jñānasūra—The Radiant Sage

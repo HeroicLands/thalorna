@@ -106,6 +106,7 @@ data:
   relations:
     arldnpnthn: aligned
 packFolder: byzaria
+sohl: {}
 ---
 
 Gümüşhisar—the Silver Citadel—is a fortified mountain city that guards the eastern passes into [[place-byzariargn|Byzaría Region]]. It is the [[affiliation-byzarianlg|Byzarian League]]'s military backbone, maintaining the garrison and patrols that keep the mountain routes open for trade and discourage the ambitions of eastern warlords, desert raiders, and bandits. The city-state holds [[place-gumushisar2|Gümüşhisar]] itself.

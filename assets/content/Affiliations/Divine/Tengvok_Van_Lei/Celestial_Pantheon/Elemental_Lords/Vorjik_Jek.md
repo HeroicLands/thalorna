@@ -122,6 +122,7 @@ data:
   relations:
     tngvkvnlei: aligned
 packFolder: elementallords
+sohl: {}
 ---
 
 ## Vōrjīk Jëk—The Lord of Fire

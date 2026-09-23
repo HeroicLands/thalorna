@@ -89,6 +89,7 @@ name:
 shortcode: iset
 alias: Íšét, Mother of New Beginnings and Restorer of Health
 packFolder: pantheonskemetian
+sohl: {}
 ---
 
 Íšét is the great mother goddess of Ta'Kheperu, the principle of fertility, renewal, and healing that sustains all life. She is the great river that floods each year, laying rich black silt across the valley and coaxing the dry-season fields back into lush abundance. She is the womb from which all creation springs, the nurturing force that sustains children from birth to maturity. But Íšét is also the healer, the restorer of health, the one who mends what is broken and returns the wounded to wholeness. Her theology teaches that all life depends on balance between masculine and feminine principles, that creation itself requires the cooperation of male and female divine forces.

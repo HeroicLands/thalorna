@@ -107,6 +107,7 @@ data:
     arldnpnthn: aligned
     ashanpnthn: aligned
 packFolder: byzaria
+sohl: {}
 ---
 
 The city-state of Yeşilhan holds [[place-yesilhan2|Yeşilhan]] itself.

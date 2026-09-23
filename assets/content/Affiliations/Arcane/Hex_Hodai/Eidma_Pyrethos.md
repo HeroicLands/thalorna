@@ -95,6 +95,7 @@ name:
 thalorna:
   school: fire
 packFolder: affiliationshexhodai
+sohl: {}
 ---
 
 Eídma **Pyréthos** is the Eídma of heat, light, energy, and transformation through destruction. It occupies the topmost vertex of the [[lore-hexhodai|Sigillum]], and its practitioners are among the most visible and politically influential mages within the [[affiliation-ordoarcanis|Ordo]]. Where other schools work through subtlety, patience, or communion, Pyréthos works through _force_—the direct application of arcane energy to change the state of the world, usually by burning away what was there before.

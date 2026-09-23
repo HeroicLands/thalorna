@@ -118,6 +118,7 @@ data:
     kingdmnrgd: unaligned
     kingdmtrgd: unaligned
 packFolder: vithgard
+sohl: {}
 ---
 
 ## Overview

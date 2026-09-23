@@ -98,6 +98,7 @@ name:
     - The Serpent's Path
 shortcode: loki
 packFolder: pantheonsasguardian
+sohl: {}
 ---
 
 Lôki, the god of cunning, deception, and thieves, is the archetypal trickster—an unpredictable force of chaos and disruption. He is revered and feared in equal measure, embodying a dynamic, shape-shifting energy that defies the status quo and undermines conventional power structures. His followers are a diverse group, including assassins, thieves, and the downtrodden—those who lurk in society's shadows and navigate its underworld.

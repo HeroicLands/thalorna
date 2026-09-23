@@ -61,6 +61,7 @@ name:
     - The Divine Architect's Path
 shortcode: ymir
 packFolder: pantheonsasguardian
+sohl: {}
 ---
 
 Ymir, the god of creation, is a master craftsman and the divine architect of life. Ymir focuses his boundless creative energy on crafting new, unique forms of life, which he refers to as his "children." This god of innovation and experimentation resides in the physical world, where he has established vast laboratories and sprawling factories dedicated to his ceaseless work.

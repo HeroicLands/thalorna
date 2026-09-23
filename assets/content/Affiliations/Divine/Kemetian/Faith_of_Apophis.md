@@ -84,6 +84,7 @@ name:
     - The Chaos Serpent
 shortcode: apophis
 packFolder: pantheonskemetian
+sohl: {}
 ---
 
 Ápōphis represents that which opposes the divine order, the primordial chaos that existed before creation and that eternally strives to reclaim dominion over the cosmos. He is not worshipped or loved but feared, propitiated, and warded against—a presence so dangerous and antithetical to civilization that his very name is often avoided in polite speech. The god is depicted as an enormous serpent of impossible length, scales darker than the deepest night, eyes that glow with malevolent intelligence. Sometimes he is shown encircling a shattered star, symbolizing the moment of destruction he perpetually pursues. The coils of Ápōphis contain all the forces that break, rot, dissolve, and destroy—plague and pestilence, famine and drought, the slow entropy that claims all things, the sudden catastrophe that ends prosperity in an instant.

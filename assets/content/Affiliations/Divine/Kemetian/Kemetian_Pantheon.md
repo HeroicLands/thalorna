@@ -124,6 +124,7 @@ data:
   parents: []
   relations: {}
 packFolder: pantheonskemetian
+sohl: {}
 ---
 
 **Pronunciation**: _Keh-MEH-tee-ahn_

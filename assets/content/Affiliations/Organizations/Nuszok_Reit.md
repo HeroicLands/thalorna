@@ -77,6 +77,7 @@ data:
     yokveng: aligned
     tngvkvnlei: nemesis
 packFolder: organizations
+sohl: {}
 ---
 
 - **Type:** Nihilistic apocalyptic cult

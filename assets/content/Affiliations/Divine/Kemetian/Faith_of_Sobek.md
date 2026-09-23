@@ -77,6 +77,7 @@ name:
     - Sobek, The Crocodile-God
 shortcode: sobek
 packFolder: pantheonskemetian
+sohl: {}
 ---
 
 The great crocodile cult, seated in the eastern marsh at Hut-Sobek among the river-beast hunters, and patron besides of a dry garrison nome of desert wells and quarry-roads and of the narrow gorge-stretch where the valley pinches to almost nothing. Its central difficulty is that the beast sacred to the god is also the beast that takes farmers and children along the river, and must sometimes be killed.

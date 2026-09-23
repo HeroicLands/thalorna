@@ -108,6 +108,7 @@ name:
     - The Order of Two Faces
     - The Gate-Wardens
 shortcode: twinbldrdr
+sohl: {}
 ---
 
 _Aurèldían: Ordo Bifrons—"The Order of Two Faces"_

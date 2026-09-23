@@ -94,6 +94,7 @@ data:
     tngvkvnlei: aligned
     yokveng: aligned
 packFolder: demonlords
+sohl: {}
 ---
 
 ## Nüshöt—The Burning Dissolution

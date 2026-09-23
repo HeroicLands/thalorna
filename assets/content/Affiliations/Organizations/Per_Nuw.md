@@ -101,6 +101,7 @@ data:
     sobek: aligned
     sekhetneru: aligned
     permesnu: aligned
+sohl: {}
 ---
 
 _Kheperi: "The House of Hunters"—the guild of professional hunters of Ta'Kheperu_

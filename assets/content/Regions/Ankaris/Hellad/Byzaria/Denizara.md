@@ -106,6 +106,7 @@ data:
   relations:
     arldnpnthn: aligned
 packFolder: byzaria
+sohl: {}
 ---
 
 Denizara—the Sea-Between—is the [[affiliation-byzarianlg|Byzarian League]]'s principal seaport on the [[place-vylarianse|Vylarian Sea]] coast. The city-state holds [[place-denizara2|Denizara]] itself.

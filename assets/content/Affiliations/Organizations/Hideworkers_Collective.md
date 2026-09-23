@@ -28,6 +28,7 @@ name:
   aliases: []
 shortcode: hideworkerscltv
 packFolder:
+sohl: {}
 ---
 
 A collective of hideworkers—the tanners, curriers and leatherdressers of a trade kept at arm's length from the cities it supplies.

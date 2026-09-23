@@ -55,6 +55,7 @@ data:
     rajaprjnpd: aligned
     dhnrktjnpd: aligned
     suvrgrjnpd: unaligned
+sohl: {}
 ---
 
 _Vedyaran: Sangha-Sabhā—"the Assembly of the Compact"_

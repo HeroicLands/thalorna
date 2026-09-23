@@ -86,6 +86,7 @@ data:
   lore: []
   parents: []
   relations: {}
+sohl: {}
 ---
 
 _Dunhari: Tîgh'Bahârân—"Circle of the Mighty"_

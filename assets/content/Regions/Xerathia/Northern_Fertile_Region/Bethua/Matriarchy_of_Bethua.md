@@ -115,6 +115,7 @@ data:
     ctysttshlns: unaligned
 terran_analog: "Morocco + Algeria + Tunisia + Libya (Maghreb / Carthage—Mediterranean coast shading into Saharan interior)"
 packFolder: bethua
+sohl: {}
 ---
 
 ## Overview

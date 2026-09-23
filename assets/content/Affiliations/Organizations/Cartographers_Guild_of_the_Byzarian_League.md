@@ -92,6 +92,7 @@ data:
   lore: []
   parents: []
   relations: {}
+sohl: {}
 ---
 
 - **Type:** Chartered professional guild

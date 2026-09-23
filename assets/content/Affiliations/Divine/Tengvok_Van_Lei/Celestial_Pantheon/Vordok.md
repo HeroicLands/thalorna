@@ -121,6 +121,7 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
+sohl: {}
 ---
 
 ## Vōrdōk—The Minister of Roads

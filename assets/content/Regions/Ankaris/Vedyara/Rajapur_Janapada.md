@@ -111,6 +111,7 @@ data:
     chandrapur: aligned
 terran_analog: "Medieval South Indian temple-republic that emerged from the ruins of a failed kingdom—a Chola-era brahmadeya village federation centered on a temple complex built atop or alongside an abandoned royal capital, governed by an assembly that explicitly preserves the memory of the displaced dynasty"
 packFolder: vedyara
+sohl: {}
 ---
 
 The **Rājapur Janapada** is the federation of the villages of the central Mahānadi plain, and it took its name and its temple-seat from the ruins of an ancient royal capital. It is one of the larger and wealthier janapadas of the [[affiliation-janpdsvdyr|Mahā-Saṅgha]]. Every Vedyari political-philosophy curriculum recites it as the classical case of a janapada that **replaced** a kingdom where the others grew up beside one. The janapada holds the land of [[place-rajapurjnpd|Rājapur Janapada]].

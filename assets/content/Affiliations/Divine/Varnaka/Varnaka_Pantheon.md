@@ -57,6 +57,7 @@ data:
   parents: []
   relations: {}
 packFolder: pantheonsvarnaka
+sohl: {}
 ---
 
 The **Varṇaka** is a single unified faith with a plural pantheon. Ten deities and spirit-courts are honored across the tradition, and none of them is a religion of its own.

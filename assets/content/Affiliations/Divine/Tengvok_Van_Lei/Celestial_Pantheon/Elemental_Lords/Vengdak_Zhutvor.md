@@ -122,6 +122,7 @@ data:
   relations:
     tngvkvnlei: aligned
 packFolder: elementallords
+sohl: {}
 ---
 
 ## Vëngdāk Zhütvōr—The Lord of Earth

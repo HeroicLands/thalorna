@@ -116,6 +116,7 @@ data:
     okharis: unaligned
 terran_analog: "Egypt + Sudan (Nile valley civilization)"
 packFolder: takheperu
+sohl: {}
 ---
 
 {{< cartouche slug="takheperu" height="10rem" align="right" >}}

@@ -103,6 +103,7 @@ data:
     tyr: aligned
     ymir: aligned
 packFolder: pantheonsasguardian
+sohl: {}
 ---
 
 The Asguardian pantheon is the dominant religious tradition of the northern and coastal peoples of [[place-ankrscntnnt|Ankaris Continent]], worshipped in various forms across [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[place-vrystwald|Vrystwald]], [[place-aelwyth|Aelwyth]], and other northern territories. The pantheon comprises ten deities, each governing fundamental aspects of existence.

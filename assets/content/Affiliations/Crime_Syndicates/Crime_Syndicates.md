@@ -97,6 +97,7 @@ name:
   aliases: []
 shortcode: crmsyndctsthlrn
 packFolder: crimesyndicates
+sohl: {}
 ---
 
 Unlike some settings where a single monolithic "thieves' guild" spans the known world, Thalorna's criminal underworld is fractured, competitive, and deeply regional. Four major syndicates operate across the Vylarian Sea basin, with a fifth—the Hëk Lōt Zhāk—dominating the far east in the [[affiliation-tanvurempr|Empire of Tānvür]]. None share any love for one another. Alliances shift with the tides—the same two organizations might cooperate on a smuggling run in spring and be murdering each other's agents by autumn, depending on whose territory was encroached upon, whose informant was turned, or whose deal fell through.

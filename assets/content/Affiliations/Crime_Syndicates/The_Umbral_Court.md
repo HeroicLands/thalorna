@@ -108,6 +108,7 @@ data:
     justbladeordr: mixed
     velvethand: aligned
 packFolder: crimesyndicates
+sohl: {}
 ---
 
 The **Umbral Court** is the criminal power of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], and

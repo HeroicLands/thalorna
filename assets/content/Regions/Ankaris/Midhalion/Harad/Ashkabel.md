@@ -105,6 +105,7 @@ data:
   relations:
     arldnpnthn: aligned
 packFolder: harad
+sohl: {}
 ---
 
 Ashkabel is the Confederation's cultural heart—a city of scholars, artists, shipwrights, and dreamers on the southern coast. Smaller and less wealthy than [[affiliation-tamavar|Tamavar]], less martial than [[affiliation-kethara|Kethara]], and less cosmopolitan than [[affiliation-varoshan|Varoshan]], Ashkabel compensates with a creative energy that the other cities lack. It is the city where Haradian art, music, theater, and literature flourish, and where the Confederation's finest ships are designed (if not always built). The city-state holds [[place-ashkabel2|Ashkabel]] itself.

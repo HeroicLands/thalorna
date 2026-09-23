@@ -89,6 +89,7 @@ name:
   aliases: []
 shortcode: auricompct
 packFolder: harad
+sohl: {}
 ---
 
 - **Type:** Merchant guild (banking, trade finance, commodity markets)

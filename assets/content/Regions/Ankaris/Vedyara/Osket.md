@@ -100,6 +100,7 @@ data:
     svapnasarisamaja: aligned
     mrchntclctvvdyr: unaligned
 packFolder: vedyara
+sohl: {}
 ---
 
 The **Ösket** hold the western and central crossings of [[place-graznmntns|the Grazian wall]]—[[place-meghadvara|Meghadvāra]], [[place-suryadvara|Sūryadvāra]], [[place-tamradvara|Tāmradvāra]] and [[place-gudesroad|the Guides' Road]]—and without them nothing crosses. They are not a kingdom, a tribe or a confederation in any sense a lowland clerk would recognize, and the word they use for themselves means, as near as anyone has got, "the people of the way."

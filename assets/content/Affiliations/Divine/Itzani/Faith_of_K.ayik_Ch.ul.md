@@ -123,6 +123,7 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
+sohl: {}
 ---
 
 **Domain:** Fire, Transformation, Purification, Sacrifice

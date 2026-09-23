@@ -103,6 +103,7 @@ data:
     empirtkhpr: unaligned
 terran_analog: "Niger + Mali + Chad (the Sahel—pastoral savanna with temple-city trading centers)"
 packFolder: okharis
+sohl: {}
 ---
 
 ## Overview

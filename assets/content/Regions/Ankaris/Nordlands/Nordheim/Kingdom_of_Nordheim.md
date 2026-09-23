@@ -119,6 +119,7 @@ data:
     grukarholm: nemesis
     vrystwldtrbs: rival
 packFolder: nordheim
+sohl: {}
 ---
 
 **Sister Kingdoms:** [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
