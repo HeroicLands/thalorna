@@ -1,17 +1,32 @@
 ---
 tags:
-  - lore
-  - history
+  - character
   - takheperu
 description: "An apothecary of Ankh-Setûn who served the city's poor for decades and went out as a caravan head scout as far as the Nordlands into her old age—the mentor of Shebas Thutmosa and Sênta Ta'Sereket, dead now, whose proof of a conspiracy inside the Mercenaries' Guild still lies hidden in the Shattered Peaks."
-type: lore
-subType: history
 name:
   full: Meshara the Wise
+  title: ""
+  given: Meshara
+  clan: ""
+  home: ankhsetun
   aliases:
     - Meshara
+packFolder: northernfertileregiontakheperu
 shortcode: mesharawse
-packFolder: settinglore
+type: being
+data:
+  icon: icon-person
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes:
+    - takheperurgn
+  affiliations:
+    - empirtkhpr
+  gender: female
+  species: null
 ---
 
 **Meshara the Wise** was an apothecary of [[place-ankhsetun|Ankh-Setûn]] who served the city's poor for decades and died at an extraordinary age. She was also, for as long as her legs would carry her, a caravan head scout—a hard woman who ranged as far as the [[place-nrdlndsrgn|Nordlands]] and taught wild-country craft to the porters and guards who showed a gift for it. Two of the most capable people in the [[affiliation-empirtkhpr|Empire of Ta'Kheperu]] call her their teacher—[[being-shebsthtms|Shebas Thutmosa]], who inherited her shop, and [[being-sentatsrkt|Sênta Ta'Sereket]], who learned the road from her—and each of them knew a different half of her. She is dead. What she left behind is not.
