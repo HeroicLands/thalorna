@@ -156,9 +156,7 @@ The first place the adventurers are likely to go for information is the inn. The
 
 ##### _If pressed further:_
 
-- **Vêrek (Irritated):**
-
-  "Look, I run an inn, not a gossip shop. My job’s keeping this place running, not sticking my neck into trouble. If you want answers, maybe ask that busybody beekeeper over there. Yvéndar hears everything, whether he wants to or not."
+- **Vêrek (Irritated):** "Look, I run an inn, not a gossip shop. My job’s keeping this place running, not sticking my neck into trouble. If you want answers, maybe ask that busybody beekeeper over there. Yvéndar hears everything, whether he wants to or not."
 
 #### Rhéman (Provenzian Farmer)
 
@@ -176,9 +174,7 @@ The first place the adventurers are likely to go for information is the inn. The
 
 ##### _If asked for details:_
 
-- **Rhéman (Lowered Voice):**
-
-  "I can’t say much. But I know this: the bandits don’t hit every caravan. They target ones that look weak—easy prey. If you’re planning to go after them, maybe think about looking the part. But don’t expect the villagers here to help much. We’ve got enough trouble as it is."
+- **Rhéman (Lowered Voice):** "I can’t say much. But I know this: the bandits don’t hit every caravan. They target ones that look weak—easy prey. If you’re planning to go after them, maybe think about looking the part. But don’t expect the villagers here to help much. We’ve got enough trouble as it is."
 
 #### Árgaen (Thânevar Goat Herder)
 
@@ -196,9 +192,7 @@ The first place the adventurers are likely to go for information is the inn. The
 
 ##### _If adventurers challenge his story:_
 
-- **Árgaen (Defensive):**
-
-  "Think I don’t know what I’m talking about? Fine, go wandering in the woods without a guide. See how long you last! I’ll be here when you come crawling back, if you make it out alive."
+- **Árgaen (Defensive):** "Think I don’t know what I’m talking about? Fine, go wandering in the woods without a guide. See how long you last! I’ll be here when you come crawling back, if you make it out alive."
 
 #### Yvéndar (Provenzian Beekeeper)
 
@@ -214,9 +208,7 @@ The first place the adventurers are likely to go for information is the inn. The
 
 ##### _If adventurers ask about villagers helping the bandits:_
 
-- **Yvéndar (Reluctant):**
-
-  "There’s been talk, sure. Some say the Thânevar have sympathies. Others say it’s fear, not loyalty, that binds them to the bandits. Either way, if you’re planning to confront the bandits, tread carefully. You don’t want to turn the whole village against you."
+- **Yvéndar (Reluctant):** "There’s been talk, sure. Some say the Thânevar have sympathies. Others say it’s fear, not loyalty, that binds them to the bandits. Either way, if you’re planning to confront the bandits, tread carefully. You don’t want to turn the whole village against you."
 
 #### Vêrek and Árgaen: A Tense Exchange
 
@@ -573,9 +565,7 @@ In the aftermath of the bandit raid on the village, Tarlas and the Provenzian vi
 
 #### 5. Árgaen (Thânevar, Goat Herder)
 
-- **Árgaen (Breaking Down):**
-
-  “They’re in the cave! South of the forest clearing, past the old ridge trail! I don’t care what happens to them anymore—just end this madness!” _(He glares at the other Thânevar, his voice bitter.)_ “We thought we were saving ourselves, but all we did was bring ruin to the rest of you. I’ll take you there myself if it’ll end this.”
+- **Árgaen (Breaking Down):** “They’re in the cave! South of the forest clearing, past the old ridge trail! I don’t care what happens to them anymore—just end this madness!” _(He glares at the other Thânevar, his voice bitter.)_ “We thought we were saving ourselves, but all we did was bring ruin to the rest of you. I’ll take you there myself if it’ll end this.”
 
 #### Approach to the Bandit Cave
 

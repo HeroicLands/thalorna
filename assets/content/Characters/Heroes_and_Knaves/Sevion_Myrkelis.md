@@ -698,18 +698,10 @@ He avoids making enemies within the guild but is aware of the dangerous politics
 
 ## Plot Hooks
 
-1. **The Recipe of Ruin**:
+1. **The Recipe of Ruin**: Sevion receives an anonymous letter claiming to have the missing key to the **Visionary Elixir**, a formula he has been obsessively pursuing. The catch? The ingredients require him to retrieve volatile substances from the ruins of a long-abandoned alchemical fortress. As Sevion ventures into the fortress, he finds evidence that his mentor, Master Virel, may have intentionally withheld critical knowledge about the elixir. His quest for completion becomes a confrontation with betrayal and the ethical questions surrounding the power of foresight.
 
-   Sevion receives an anonymous letter claiming to have the missing key to the **Visionary Elixir**, a formula he has been obsessively pursuing. The catch? The ingredients require him to retrieve volatile substances from the ruins of a long-abandoned alchemical fortress. As Sevion ventures into the fortress, he finds evidence that his mentor, Master Virel, may have intentionally withheld critical knowledge about the elixir. His quest for completion becomes a confrontation with betrayal and the ethical questions surrounding the power of foresight.
+2. **A Merchant’s Deceit**: One of Sevion’s patrons, Lady Adrienna Alranis, hires him to create a life-preserving elixir for her rare blood disorder. As Sevion works on the formula, he uncovers evidence that the noblewoman has been using his tonics not for healing but to extend her influence over rival nobles. Torn between his loyalty to his client and the ethical implications of her schemes, Sevion must decide whether to confront her or continue his work under new terms.
 
-2. **A Merchant’s Deceit**:
+3. **The Alchemical Black Market**: A powerful alchemical guild rival, Arlis Ruthorn, sabotages one of Sevion’s shipments, accusing him of illegal practices to discredit his reputation. The situation escalates when the missing shipment is found in the possession of a black-market dealer in Calypsa. Investigating the truth places Sevion in the crosshairs of both the Guild of Esoteric Crafts and the Guild of Apothecaries, forcing him to navigate a dangerous web of alliances and betrayals.
 
-   One of Sevion’s patrons, Lady Adrienna Alranis, hires him to create a life-preserving elixir for her rare blood disorder. As Sevion works on the formula, he uncovers evidence that the noblewoman has been using his tonics not for healing but to extend her influence over rival nobles. Torn between his loyalty to his client and the ethical implications of her schemes, Sevion must decide whether to confront her or continue his work under new terms.
-
-3. **The Alchemical Black Market**:
-
-   A powerful alchemical guild rival, Arlis Ruthorn, sabotages one of Sevion’s shipments, accusing him of illegal practices to discredit his reputation. The situation escalates when the missing shipment is found in the possession of a black-market dealer in Calypsa. Investigating the truth places Sevion in the crosshairs of both the Guild of Esoteric Crafts and the Guild of Apothecaries, forcing him to navigate a dangerous web of alliances and betrayals.
-
-4. **The Elixir’s Curse**:
-
-   After finally synthesizing a prototype of the **Visionary Elixir**, Sevion tests it on himself, only to experience unsettling visions of destruction that appear to involve his close allies and the guild. The visions drive him to seek guidance from an ancient alchemical order, but their cryptic warnings suggest that the elixir’s power may carry a curse. The quest to understand the elixir’s true nature leads him into dangerous territory where failure could cost him his mind.
+4. **The Elixir’s Curse**: After finally synthesizing a prototype of the **Visionary Elixir**, Sevion tests it on himself, only to experience unsettling visions of destruction that appear to involve his close allies and the guild. The visions drive him to seek guidance from an ancient alchemical order, but their cryptic warnings suggest that the elixir’s power may carry a curse. The quest to understand the elixir’s true nature leads him into dangerous territory where failure could cost him his mind.
