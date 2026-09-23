@@ -192,7 +192,7 @@ Rājapur Janapada uses the [[lore-vdyrnbnkng|Vedyaran banking system]] administe
 - [[place-rajapurjnpd|Rājapur Janapada]] — the land the janapada holds
 - [[affiliation-janpdsvdyr|Janapadas of Vedyara]] — parent confederation
 - [[place-vedyarargn|Vedyara]] — parent region
-- [[place-rajapur|Rājapur]] — the King's-Town settlement note
+- Rājapur — the King's-Town settlement note
 - [[affiliation-chandrapur|Chandrapur]] — patron city-state
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — religious tradition
 - [[skill-vedyarlng|Vedyari]] — language

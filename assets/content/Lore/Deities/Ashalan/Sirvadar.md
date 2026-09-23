@@ -1,6 +1,6 @@
 ---
-tags:
-  - draft
+tags: []
+description: "The Wandering Guide of the Āsháian pantheon — caravan roads, commerce, and safe passage across the desert."
 type: lore
 subType: deity
 name:
@@ -9,5 +9,3 @@ name:
 shortcode: sirvadardty
 packFolder: deitiesashalan
 ---
-
-TBD

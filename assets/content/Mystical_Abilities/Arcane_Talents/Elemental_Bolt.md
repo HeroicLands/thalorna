@@ -3,6 +3,7 @@ tags: []
 name:
   full: Elemental Bolt
   aliases: []
+description: "Throws a bolt of raw elemental force at a target in sight."
 shortcode: eblt
 type: mysticalability
 subType: arcanetalent

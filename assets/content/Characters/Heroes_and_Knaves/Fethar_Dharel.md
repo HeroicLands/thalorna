@@ -622,4 +622,4 @@ Pilot of the **Tamzîr**. Husband of **Sélvara Válskyr**. He maintains occasio
 
 2. **River and Sea**: Féthar receives word that his hometown is threatened by flooding after a dam collapse upriver. His family needs help, and his intimate knowledge of the river system could save lives — but reaching them means leaving the Tamzîr at a critical moment.
 
-3. **The Uncharted Passage**: An ancient chart surfaces suggesting a hidden sea passage through a treacherous archipelago that could cut weeks off the journey between [[place-haradregin|Harad]] and the northern ports. Only a pilot of extraordinary skill could navigate it. The potential profit is enormous, but the chart may be incomplete — or a trap.
+3. **The Uncharted Passage**: An ancient chart surfaces suggesting a hidden sea passage through a treacherous archipelago that could cut weeks off the journey between Harad and the northern ports. Only a pilot of extraordinary skill could navigate it. The potential profit is enormous, but the chart may be incomplete — or a trap.

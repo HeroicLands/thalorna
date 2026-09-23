@@ -1,6 +1,6 @@
 ---
-tags:
-  - draft
+tags: []
+description: "The Owl of the Serpent — the fallen Itzáni celestial who guarded the threshold of Xibalba and now opens the boundary it was set to keep shut."
 type: lore
 subType: deity
 name:
@@ -9,5 +9,3 @@ name:
 shortcode: pikultzumaqdty
 packFolder: deitiesitzani
 ---
-
-TBD

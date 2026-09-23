@@ -44,7 +44,7 @@ Alyssa is the most densely settled of the provinces — its countryside a near-c
 **The cities.**
 
 - **[[place-magnapolis|Magnápolis]]** (~1,000,000) — the imperial capital, seat of the Emperor, the Senate, and the Ordo Arcanis; so vast it is kept as its own thing rather than filed under the province. (See [[place-urbsaquiln|Urbs Aquilion]] and the [[place-pnthnrldnm|Pantheon Aurèldiānum]].)
-- **[[place-alyssar|Alyssar]]** (~45,000) — the provincial capital, administrative seat of Alyssa proper.
+- **Alyssar** (~45,000) — the provincial capital, administrative seat of Alyssa proper.
 - **[[place-lentora|Lentora]]** (~32,000) — the province's second city, market and governing hub of the inner farm-and-villa country.
 - **[[place-belekos|Belekos]]** (~25,000) — a merchant city of the river valleys, grown rich on agricultural surplus and trade.
 - **[[place-velysara|Velysâra]]** (~20,000) — a secondary provincial city of columned forums and faded imperial grandeur.
@@ -52,7 +52,7 @@ Alyssa is the most densely settled of the provinces — its countryside a near-c
 **Towns.**
 
 - **[[place-tibur|Tibur]]** (~12,000) — a market town on a great road into the capital.
-- **[[place-corvinus|Corvinus]]** (~9,000) — a garrison town anchoring the province's interior.
+- **Corvinus** (~9,000) — a garrison town anchoring the province's interior.
 - **[[place-calvaris|Calvaris]]** (~9,000) — a temple-and-market town around an ancient hilltop precinct.
 - **[[place-ostenna|Ostenna]]** (~7,000) — a river-port town transshipping grain by barge.
 - **[[place-vennara|Vennara]]** (~6,000) — a villa-town in the hills, favored for senatorial country estates.
@@ -63,4 +63,4 @@ Alyssa is the most densely settled of the provinces — its countryside a near-c
 
 - [[affiliation-provinclys|Province of Alyssa]] — The province that holds this land
 - [[place-vylariargn|Vylaría Region]] — The enclosing region
-- [[place-alyssar|Alyssar]] — Provincial capital
+- Alyssar — Provincial capital

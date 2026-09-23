@@ -2,7 +2,6 @@
 tags:
   - lore
   - lineage
-  - draft
 description: "The Human Folk"
 type: lore
 subType: folk
@@ -12,5 +11,3 @@ name:
 shortcode: humanflk
 packFolder: settinglore
 ---
-
-TBD

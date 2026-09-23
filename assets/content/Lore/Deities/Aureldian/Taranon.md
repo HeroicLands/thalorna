@@ -1,6 +1,6 @@
 ---
-tags:
-  - draft
+tags: []
+description: "The Thunderer of the Aurèldián pantheon, holding the storm and the bolt that falls out of it."
 type: lore
 subType: deity
 name:
@@ -9,5 +9,3 @@ name:
 shortcode: taranondty
 packFolder: deitiesaureldian
 ---
-
-TBD

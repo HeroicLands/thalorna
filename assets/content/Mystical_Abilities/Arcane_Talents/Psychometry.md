@@ -3,6 +3,7 @@ tags: []
 name:
   full: Psychometry
   aliases: []
+description: "Reads an object for what has been done with it and who has held it."
 shortcode: phyc
 type: mysticalability
 subType: arcanetalent

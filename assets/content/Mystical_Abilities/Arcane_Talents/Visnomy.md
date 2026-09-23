@@ -3,6 +3,7 @@ tags: []
 name:
   full: Visnomy
   aliases: []
+description: "Reads a person's character and history from the face and bearing."
 shortcode: vsnm
 type: mysticalability
 subType: arcanetalent

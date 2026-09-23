@@ -1,6 +1,6 @@
 ---
-tags:
-  - draft
+tags: []
+description: "The Feathered Storm-Serpent of the Itzáni pantheon, whose rain feeds the maize and whose waking will end the Fifth Age."
 type: lore
 subType: deity
 name:
@@ -9,5 +9,3 @@ name:
 shortcode: puqilchaqundty
 packFolder: deitiesitzani
 ---
-
-TBD

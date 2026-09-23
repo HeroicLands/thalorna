@@ -45,4 +45,4 @@ the enormous supporting trade that a permanent theatre season requires.
 
 ## See Also
 
-- [[place-magnapolis|Magnápolis]] · [[place-circusmaximusmagnapls|Circus Maximus]]
+- [[place-magnapolis|Magnápolis]] · Circus Maximus

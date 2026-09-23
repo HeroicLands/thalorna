@@ -1,6 +1,6 @@
 ---
-tags:
-  - draft
+tags: []
+description: "The Forge-Lord of the Aurèldián pantheon — fire, honoured as the Sacred Forge and as the Black Flame by the two sides of the Vúlcani schism."
 type: lore
 subType: deity
 name:
@@ -9,5 +9,3 @@ name:
 shortcode: vulcandty
 packFolder: deitiesaureldian
 ---
-
-TBD

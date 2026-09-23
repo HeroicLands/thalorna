@@ -1,6 +1,6 @@
 ---
-tags:
-  - draft
+tags: []
+description: "Mother of the Oasis in the Āsháian pantheon — water, fertility, and the healing that follows both."
 type: lore
 subType: deity
 name:
@@ -9,5 +9,3 @@ name:
 shortcode: zurathradty
 packFolder: deitiesashalan
 ---
-
-TBD

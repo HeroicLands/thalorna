@@ -48,9 +48,9 @@ Hylen's settlement pattern is the estate and the market-town: great self-contain
 - **[[place-granaria|Granaria]]** (~7,000) — the chief grain-market of the central province, all granaries and weighing-yards.
 - **[[place-vindara|Vindara]]** (~6,000) — a prosperous town of the terraced wine country.
 - **[[place-olivenna|Olivenna]]** (~5,000) — a town of presses and oil-merchants in the olive country.
-- **[[place-valdosta|Valdosta]]** (~5,000) — a market town of the estate country.
+- **Valdosta** (~5,000) — a market town of the estate country.
 - **[[place-messora|Messora]]** (~4,000) — a harvest-market town of the southern estates.
-- **[[place-ashenmere|Ashenmere]]** (~4,000) — a border town on the province's march.
+- **Ashenmere** (~4,000) — a border town on the province's march.
 - **[[place-cervalia|Cervalia]]** (~2,500) — the forest town at the edge of the imperial game-reserve.
 
 **The great estates and manorial holdings.** Hylen's countryside is held in vast aristocratic domains rather than free villages — each a manor with its tenant village, chapel, and labor force (200–1,000 souls). Among the named holdings are Caldovia, Sennfeld, Aurvale, Olcassa, Brennfeld, Granholt, Vellora, Calvenna, Marenna, Tallenza, Oxenna, Harvenna, Wynnara, and Stonemere — several of them seats of senatorial families whose word is effectively law within their own bounds. These named domains are only the great houses; the province holds hundreds of lesser estates and tenant villages besides.

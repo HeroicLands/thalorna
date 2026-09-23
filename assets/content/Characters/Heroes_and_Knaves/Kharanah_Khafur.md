@@ -607,7 +607,7 @@ Khârânah was born into the merchant family of Khafûr, whose caravans once tra
 
 ### Training and Discovery
 
-At seventeen, Khârânah apprenticed herself to **Master Vasûn the Sage**, an ancient perfumer whose shop in the city of [[place-ashkarad|Ashkarad]] had been known for three generations. Under his patient tutelage, she learned to blend fragrances and to understand the deeper science and spirituality behind them. Vasûn taught her that each scent carries within it the memory of its source—the soil that nourished it, the sun that ripened it, the hands that harvested it. She studied fermentation, the geometry of crystalline compounds, and the rituals of the Āsháian Pantheon that honored [[lore-ahurdaendty|Āhúrdáén]], god of order and harmony. For eleven years, she perfected her craft, and when Vasûn finally passed to the Eternal Gardens, he left her his shop and his private grimoire of formulas.
+At seventeen, Khârânah apprenticed herself to **Master Vasûn the Sage**, an ancient perfumer whose shop in the city of [[place-ashkarad|Ashkarad]] had been known for three generations. Under his patient tutelage, she learned to blend fragrances and to understand the deeper science and spirituality behind them. Vasûn taught her that each scent carries within it the memory of its source—the soil that nourished it, the sun that ripened it, the hands that harvested it. She studied fermentation, the geometry of crystalline compounds, and the rituals of the Āsháian Pantheon that honored Āhúrdáén, god of order and harmony. For eleven years, she perfected her craft, and when Vasûn finally passed to the Eternal Gardens, he left her his shop and his private grimoire of formulas.
 
 ### Current Situation
 

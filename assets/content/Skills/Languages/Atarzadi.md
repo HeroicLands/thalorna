@@ -1,6 +1,5 @@
 ---
-tags:
-  - draft
+tags: []
 name:
   full: Ātárzādi Language
   aliases:
@@ -25,5 +24,3 @@ flags:
   "thalorna":
     lang_family: null
 ---
-
-TBD

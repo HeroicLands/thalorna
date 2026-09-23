@@ -20,10 +20,10 @@ packFolder: helionis
 
 ## Overview
 
-Kostaros District is the land of [[affiliation-kostaros2|Kostaros]], a coastal district of [[place-helionis|Heliónis]] that includes the town of [[place-myrtillos|Myrtillos]].
+Kostaros District is the land of [[affiliation-kostaros2|Kostaros]], a coastal district of [[place-helionis|Heliónis]] that includes the town of Myrtillos.
 
 ## See Also
 
 - [[affiliation-kostaros2|Kostaros]] — The city-state that holds this land
 - [[place-helionis|Heliónis]] — The enclosing region
-- [[place-myrtillos|Myrtillos]] — Coastal town within the district
+- Myrtillos — Coastal town within the district

@@ -1,6 +1,6 @@
 ---
-tags:
-  - draft
+tags: []
+description: "The Thunder Rider of the Āsháian pantheon — storms, battle, and the protection of those who stand in the open."
 type: lore
 subType: deity
 name:
@@ -9,5 +9,3 @@ name:
 shortcode: bahramisdty
 packFolder: deitiesashalan
 ---
-
-TBD

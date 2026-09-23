@@ -112,7 +112,7 @@ There is no single captain or chieftain of the Circle. By tradition the **Voice 
 
 ## Notable Members
 
-- **[[being-shadzrkmrz|Shâdezar Kamrûz]]** — one of the most honored members of his generation; the Storm Cults recognize him as a chosen vessel of [[lore-bahramisdty|Báhrámiš]] and his counsel carries weight beyond his vote. The Circle has called on him to lead coordinated actions twice in the last decade.
+- **[[being-shadzrkmrz|Shâdezar Kamrûz]]** — one of the most honored members of his generation; the Storm Cults recognize him as a chosen vessel of Báhrámiš and his counsel carries weight beyond his vote. The Circle has called on him to lead coordinated actions twice in the last decade.
 - Various unnamed chieftains, the inner Council of Scars (numbering perhaps twelve in any given year), and a handful of younger warriors whose presence at the Circle is itself a marker of their rising prominence.
 
 ## Doctrine and Practice

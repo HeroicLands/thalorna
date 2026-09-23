@@ -574,7 +574,7 @@ Hródar is a solid, workmanlike fighter — not brilliant, but reliable and hard
 
 ### Personality
 
-Hródar is bitter, taciturn, and consumed by resentment. He is not chaotic or unpredictable like Dágulf — his anger is cold, steady, and aimed squarely at the Vylarian Empire and everyone who profits from it. He does the work of banditry with grim efficiency and takes no pleasure in cruelty for its own sake, though he shows no mercy to Vylarian soldiers or imperial officials. Among the gang he is quiet and dependable, does his share without complaint, and neither seeks nor offers friendship. He occasionally mutters to himself in [[lore-varokhiclt|Varokhi]] when he thinks no one is listening.
+Hródar is bitter, taciturn, and consumed by resentment. He is not chaotic or unpredictable like Dágulf — his anger is cold, steady, and aimed squarely at the Vylarian Empire and everyone who profits from it. He does the work of banditry with grim efficiency and takes no pleasure in cruelty for its own sake, though he shows no mercy to Vylarian soldiers or imperial officials. Among the gang he is quiet and dependable, does his share without complaint, and neither seeks nor offers friendship. He occasionally mutters to himself in Varokhi when he thinks no one is listening.
 
 ### Motivation
 
