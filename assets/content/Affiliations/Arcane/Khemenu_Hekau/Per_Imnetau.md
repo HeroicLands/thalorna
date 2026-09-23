@@ -87,6 +87,7 @@ name:
     - The House of the Underworld
 shortcode: imnetau
 packFolder: khemenuhekau
+sohl: {}
 ---
 
 ## Per-Imnetáu (House of the Westward Road)

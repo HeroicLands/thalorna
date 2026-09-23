@@ -94,6 +94,7 @@ name:
 shortcode: ataros
 alias: Ātáröš, The Sacred Flame
 packFolder: ashaian
+sohl: {}
 ---
 
 _Not to be confused with [[affiliation-kayikchul|K'ayik Ch'ul]], the Sacred Flame of the [[affiliation-itzanpnthn|Itzáni pantheon]] on K'ich'chik. The two gods share an epithet and a domain and are otherwise unrelated._

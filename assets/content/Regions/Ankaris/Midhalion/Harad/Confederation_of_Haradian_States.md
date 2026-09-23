@@ -113,6 +113,7 @@ data:
     sultntmrdd: unaligned
 terran_analog: "Israel and Lebanon, plus the islands off their coasts—Phoenician-and-Levantine maritime confederation: trader city-states, naval power, and the perpetual political intrigue of merchant oligarchs."
 packFolder: harad
+sohl: {}
 ---
 
 The Confederation of Haradian States is a collection of city-states on the eastern edge of the [[place-vylarianse|Vylarian Sea]]. Harad is a powerful maritime region known for its naval supremacy, merchant guilds, and complex political intrigue. The coastal states are filled with wealthy trading cities, while the inland areas are home to tribal communities and ancient ruins. Roughly twelve years ago, Harad fought and won a war of independence from the [[affiliation-vylarinmpr|Vylarian Empire]], but the freedom the veterans bled for has been seized by merchant oligarchs, and the confederation's politics are as cutthroat as they ever were under imperial rule.

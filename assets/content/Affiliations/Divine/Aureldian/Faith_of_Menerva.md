@@ -83,6 +83,7 @@ name:
     - Ménérva
 shortcode: menerva
 packFolder: pantheonsaureldian
+sohl: {}
 ---
 
 Goddess of learning, language, and invention. Ménérva illuminates the minds of scholars, craftsmen, and leaders, guiding them to wisdom.

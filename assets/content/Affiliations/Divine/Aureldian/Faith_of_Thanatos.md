@@ -72,6 +72,7 @@ name:
     - Thánatos
 shortcode: thanatos
 packFolder: pantheonsaureldian
+sohl: {}
 ---
 
 God of death, the underworld, and corruption. Thánatos is a fearsome figure, embodying both implacability and terror.

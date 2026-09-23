@@ -120,6 +120,7 @@ data:
     ordoarcanis: unaligned
     vylarinmpr: aligned
 packFolder: helionis
+sohl: {}
 ---
 
 [[place-helionis|Heliónis]] has never been unified under a single ruler and likely never will be. Its people are too proud, too argumentative, and too convinced of the superiority of their own city's particular form of government to submit to another's. The city-states of Heliónis are instead bound by a shared culture, a common language, and a network of festivals, athletic games, and religious observances that provide social cohesion without political unity.

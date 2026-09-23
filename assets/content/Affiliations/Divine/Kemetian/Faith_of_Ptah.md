@@ -94,6 +94,7 @@ name:
     - The Divine Craftsman
 shortcode: ptah
 packFolder: pantheonskemetian
+sohl: {}
 ---
 
 Ptā'h stands as the supreme architect of creation, the divine craftsman whose hands and mind shaped the cosmos from formless void. In temple theology, the universe itself is understood as Ptā'h's masterwork—every mountain, every star, every creature exists because Ptā'h conceived its form and brought it into being through perfect artistry. He is depicted as a figure of serene focus, often shown with hammer and chisel in hand, or sometimes as a more abstract presence—the invisible force of creative intention that manifests in the world through human hands. His symbol, a chisel carving a star, represents the marriage of human craft with divine inspiration, the moment when the transcendent becomes material and perfect.

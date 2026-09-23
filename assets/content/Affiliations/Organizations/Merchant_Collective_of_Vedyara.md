@@ -92,6 +92,7 @@ data:
   lore: []
   parents: []
   relations: {}
+sohl: {}
 ---
 
 _Vedyaran: Vyāpārī Sangha—"the Merchants' Assembly"_

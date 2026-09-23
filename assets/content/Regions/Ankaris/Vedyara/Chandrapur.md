@@ -114,6 +114,7 @@ data:
     dhnrktjnpd: aligned
     rajaprjnpd: aligned
 packFolder: vedyara
+sohl: {}
 ---
 
 Chandrapur, the "Moon City," is Vedyara's foremost center of gemcraft and jewelry. Its fame rests on its jewelers, whose work commands prices across all the known realms. Royal courts from Provènzia to Tānvür commission pieces from Chandrapur's master craftspeople, and its merchant families have gathered wealth over generations.

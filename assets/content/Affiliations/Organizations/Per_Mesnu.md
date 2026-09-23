@@ -98,6 +98,7 @@ data:
   lore: []
   parents: []
   relations: {}
+sohl: {}
 ---
 
 _Kheperi: "The House of the Mesnu"—the guild of metalworkers, after the ancient smith-harpooners who forged the weapons of Horus_

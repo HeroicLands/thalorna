@@ -109,6 +109,7 @@ name:
     - The Owl at the Threshold
 shortcode: pikultzumaq
 packFolder: pantheonitzani
+sohl: {}
 ---
 
 The [[affiliation-tzumaqkalanil|Serpent Awakener]] movement draws its power from a being that the orthodox priesthood regards as the most dangerous heresy to emerge in living memory: **Pik'ul Tz'umaq**, a fallen celestial agent of [[affiliation-tzuqilixbal|Tz'uqil Ix'bal]].

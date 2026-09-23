@@ -114,6 +114,7 @@ data:
   relations:
     firstgods: aligned
 packFolder: pantheonsfirstgods
+sohl: {}
 ---
 
 - **Pantheon:** [[affiliation-firstgods|The First Gods]]

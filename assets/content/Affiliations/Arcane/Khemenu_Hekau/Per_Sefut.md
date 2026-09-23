@@ -87,6 +87,7 @@ name:
     - The House of Chaos
 shortcode: sefut
 packFolder: khemenuhekau
+sohl: {}
 ---
 
 ## Per-Sefút (House of the Unmaking)

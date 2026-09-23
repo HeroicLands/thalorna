@@ -120,6 +120,7 @@ data:
   relations:
     njiayaroho: aligned
 packFolder: pantheonsnkaruthar
+sohl: {}
 ---
 
 ## Nkaru'thar: The Eternal Flame

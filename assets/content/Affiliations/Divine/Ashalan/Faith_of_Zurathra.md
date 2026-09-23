@@ -93,6 +93,7 @@ name:
 shortcode: zurathra
 alias: Zúráthrä, Mother of the Oasis
 packFolder: ashaian
+sohl: {}
 ---
 
 In the theology of the Āsháian peoples, Zúráthrä stands as the gentle counterweight to the desiccating rage of Druj. While other gods wage war against chaos through flame and judgment, she defies it through the miracle of abundance. The oasis itself is her prayer made manifest—that spring which bursts from beneath the burning sand, surrounded by palms that seem to mock the very desert itself. In a land where water means survival and the lack of it means death, Zúráthrä is not merely a goddess of bounty but of resurrection. Each well she has blessed, each child she has guided into the world, each crop that drinks from an irrigation channel fed by her springs stands as a defiant answer to Druj's hunger for desolation.

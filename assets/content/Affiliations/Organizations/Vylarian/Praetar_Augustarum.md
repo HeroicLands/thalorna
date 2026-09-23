@@ -92,6 +92,7 @@ data:
   lore: []
   parents: []
   relations: {}
+sohl: {}
 ---
 
 _Vylarian: Praetar Augustarum—"the Guard of the Augustars"_

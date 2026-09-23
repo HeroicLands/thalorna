@@ -89,6 +89,7 @@ name:
     - The Overflowing One
 shortcode: hapi
 packFolder: pantheonskemetian
+sohl: {}
 ---
 
 Hâpi embodies the abundance that flows through Ta'Kheperu like the river itself, bringing fertility to the fields, prosperity to traders, and joy to those who know how to celebrate life. He is not a god of restraint or ascetic virtue, but of exuberant plenty—the laughter at a feast, the swell of passion, the glint of gold in lamplight. Depicted as a corpulent figure crowned with cornucopiae and adorned with precious metals, or sometimes as the golden waters of the Kheperian River itself flowing with treasures, Hâpi represents the divine promise that the world is abundant and meant to be enjoyed. His temples overflow with the scents of flowers, incense, and roasted meats; his festivals are famous throughout the civilized lands as occasions of unparalleled revelry.

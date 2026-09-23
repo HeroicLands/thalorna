@@ -94,6 +94,7 @@ data:
     tngvkvnlei: aligned
     yokveng: aligned
 packFolder: demonlords
+sohl: {}
 ---
 
 ## Hürnzhük—The Lord of the Unclassified

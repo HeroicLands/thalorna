@@ -103,6 +103,7 @@ data:
   relations:
     tharivaan: aligned
 packFolder: kalihara
+sohl: {}
 ---
 
 **Notable Polities:** Kalihara Confederation

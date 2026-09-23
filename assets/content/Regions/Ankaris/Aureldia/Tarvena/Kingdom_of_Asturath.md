@@ -171,6 +171,7 @@ data:
     kingdmlnrk: rival
     vylarinmpr: nemesis
 packFolder: tarvenia
+sohl: {}
 ---
 
 - **Overlord:** [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] (nominal)

@@ -100,6 +100,7 @@ data:
   parents: []
   relations: {}
 packFolder: academyofknowledge
+sohl: {}
 ---
 
 ## Panepistemium—The Academy of Knowledge

@@ -103,6 +103,7 @@ data:
   parents: []
   relations:
     asguardian: aligned
+sohl: {}
 ---
 
 _Old Norse: Stormmaelendir—"Storm-Speakers"_

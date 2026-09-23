@@ -123,6 +123,7 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
+sohl: {}
 ---
 
 **Domain:** Knowledge, Wisdom, Writing, The Calendar, Astronomy

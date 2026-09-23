@@ -58,6 +58,7 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
+sohl: {}
 ---
 
 ## Mahájaya—The Eternal Preserver

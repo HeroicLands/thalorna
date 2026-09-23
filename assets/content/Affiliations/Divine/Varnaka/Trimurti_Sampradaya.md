@@ -85,6 +85,7 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
+sohl: {}
 ---
 
 ## Trimūrti-sampradāya—The Tradition of the Three Forms

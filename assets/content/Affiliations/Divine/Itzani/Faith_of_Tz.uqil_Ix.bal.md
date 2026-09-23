@@ -123,6 +123,7 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
+sohl: {}
 ---
 
 **Domain:** Death, Decay, and the Underworld

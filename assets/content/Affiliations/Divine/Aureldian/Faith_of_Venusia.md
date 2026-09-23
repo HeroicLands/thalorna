@@ -77,6 +77,7 @@ name:
     - Vénusia
 shortcode: venusia
 packFolder: pantheonsaureldian
+sohl: {}
 ---
 
 Goddess of wealth, abundance, and seduction. Vénusia blesses people with prosperity and physical love.

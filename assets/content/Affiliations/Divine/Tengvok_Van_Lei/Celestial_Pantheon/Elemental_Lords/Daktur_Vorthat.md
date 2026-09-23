@@ -122,6 +122,7 @@ data:
   relations:
     tngvkvnlei: aligned
 packFolder: elementallords
+sohl: {}
 ---
 
 ## Dāktūr Vōrthāt—The Lord of Metal

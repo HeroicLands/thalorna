@@ -97,6 +97,7 @@ name:
     - The Iron Wolves
     - Lupi Ferri (Byzarian)
 shortcode: irnwlvscmpny
+sohl: {}
 ---
 
 _Byzarian: Lupi Ferri_

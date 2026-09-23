@@ -28,6 +28,7 @@ name:
   aliases: []
 shortcode: hrafnvar
 packFolder: malagna
+sohl: {}
 ---
 
 A polity of Malagna, under the crown of Lögnheim.

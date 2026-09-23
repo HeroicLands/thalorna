@@ -85,6 +85,7 @@ name:
     - The House of River
 shortcode: ankhkemet
 packFolder: khemenuhekau
+sohl: {}
 ---
 
 ## Per-Ankh'kemet (House of the Black Land)

@@ -106,6 +106,7 @@ data:
   relations:
     arldnpnthn: aligned
 packFolder: byzaria
+sohl: {}
 ---
 
 Karataş—Blackstone—is the [[affiliation-byzarianlg|Byzarian League]]'s mining and manufacturing heart. The city-state holds [[place-karatas2|Karataş]] itself.

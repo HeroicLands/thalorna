@@ -105,6 +105,7 @@ data:
     dhnrktjnpd: aligned
     rajaprjnpd: aligned
 packFolder: vedyara
+sohl: {}
 ---
 
 Vyālendra, "the City of Ten Thousand Looms," has long been the textile capital of southern Vedyara. Silk and cotton cloth woven here bear patterns and dyes unknown elsewhere, the result of centuries of refinement and closely guarded techniques passed from master weavers to their apprentices.

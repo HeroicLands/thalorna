@@ -87,6 +87,7 @@ data:
   lore: []
   parents: []
   relations: {}
+sohl: {}
 ---
 
 _Vylarian: Aerarium Imperii—"the Imperial Treasury"_

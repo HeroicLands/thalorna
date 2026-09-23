@@ -80,6 +80,7 @@ name:
     - Sét, Bringer of Tempests
 shortcode: set
 packFolder: pantheonskemetian
+sohl: {}
 ---
 
 Sét is the god of storms, wind, and the ferocious power of nature in its most violent and transformative aspects. Unlike [[affiliation-apophis|Faith of Ápōphis]], who represents primordial chaos and the cosmic entropy that threatens all existence, Sét embodies the destructive and purifying power of natural phenomena—the thunderhead that shatters ancient trees, the gale that drives ships onto the rocks, the lightning that burns away corruption, the wind that carries necessary change. To worship Sét is to acknowledge that not all divine power flows through gentle channels; some gods speak in thunder and fury, and their voices, though terrifying, carry wisdom for those brave enough to listen.

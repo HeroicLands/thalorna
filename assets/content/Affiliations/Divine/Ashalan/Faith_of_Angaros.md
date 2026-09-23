@@ -94,6 +94,7 @@ name:
 shortcode: angaros
 alias: Ángáróš, The Shadowed Serpent
 packFolder: ashaian
+sohl: {}
 ---
 
 Ángáróš is the great adversary, the god of chaos, destruction, deception, and entropy. He is the living principle of Druj—falsehood, corruption, and the slow dissolution of all imposed order. Where [[affiliation-ahurdaen|Āhúrdáén]] creates and sustains, Ángáróš tears down and unmakes. Where [[affiliation-ataros|Ātáröš]] purifies through flame, Ángáróš corrupts through poison and shadow. Where [[affiliation-korsadra|Khóršádrä]] reveals truth through light, Ángáróš obscures it through lies and deception. He is not a minor or regional deity—he is the supreme cosmic force opposing all righteousness, order, and truth. The entire Āsháian pantheon exists primarily to wage war against him.

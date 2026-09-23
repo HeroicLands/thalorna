@@ -87,6 +87,7 @@ name:
     - The House of Name
 shortcode: rensesh
 packFolder: khemenuhekau
+sohl: {}
 ---
 
 ## Per-Ren'sesh (House of the Name)

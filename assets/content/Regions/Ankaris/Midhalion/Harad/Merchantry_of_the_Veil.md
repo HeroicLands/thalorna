@@ -89,6 +89,7 @@ name:
   aliases: []
 shortcode: mrchntryvl
 packFolder: harad
+sohl: {}
 ---
 
 ## The Merchantry of the Veil

@@ -97,6 +97,7 @@ data:
     - tharivaan
   relations: {}
 packFolder: pantheonstharivaan
+sohl: {}
 ---
 
 ## Thári'vaan: The Living Whole

@@ -122,6 +122,7 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
+sohl: {}
 ---
 
 **Domain:** Creation, Building, Renewal, Craftsmanship, Architecture

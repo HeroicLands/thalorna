@@ -79,6 +79,7 @@ name:
     - Mvuzi Totem
 shortcode: nyalblion
 packFolder: nyaluba
+sohl: {}
 ---
 
 The **Lion Totem** is the guide of the [[affiliation-nylbtrblntn|Mvuzi]], the cattle-herding clan of the central grasslands and the most numerous of the five. The Mvuzi do not admire the lion; they understand themselves to be _of_ it. They do not hunt lions, do not eat lion flesh, and are held to the bearing the guide embodies—courage, sovereignty, and challenge made in the open rather than from cover.

@@ -95,6 +95,7 @@ data:
   relations: {}
 shortcode: astrokyklos
 packFolder: astrokyklos
+sohl: {}
 ---
 
 Arnos - Ram Bourax - Bull Diplos - Twins Chelyx - Crab Thyron - Lion Korith - Maiden Stathmos - Claws Kentros - Scorpion Belos - Archer Tragyx - Goat Nalos - Water-pourer Opsar - Fishes

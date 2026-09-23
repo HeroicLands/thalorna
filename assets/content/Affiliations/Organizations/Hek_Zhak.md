@@ -98,6 +98,7 @@ data:
   parents: []
   relations: {}
 packFolder: organizations
+sohl: {}
 ---
 
 - **Type:** Subversive magical sect

@@ -80,6 +80,7 @@ name:
     - Bombwe Totem
 shortcode: nyalbbaob
 packFolder: nyaluba
+sohl: {}
 ---
 
 The **Baobab Totem** is the guide of the [[affiliation-nylbtrblntn|Bombwe]], the settled cultivators of the perennial-water districts—long-rootedness, the gathering-place, and the keeping of stories. The Bombwe are the smallest of the five clans and the ritually senior one, because it is Bombwe griots who carry the official memory of the Long Pact and the genealogies of all five clans. They speak last in any council, and what they say is generally remembered.

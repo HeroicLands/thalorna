@@ -94,6 +94,7 @@ name:
 shortcode: zarvanya
 alias: Zárványä, The Weaver of Visions
 packFolder: ashaian
+sohl: {}
 ---
 
 Zárványä is the goddess of dreams, visions, omens, and divine insight. She is the weaver of the threads that connect the waking world to the realm of eternal truth—that timeless space where past and future exist simultaneously, where the gods speak directly to mortal minds, and where the deepest patterns of Āsha become visible to those gifted with the sight to perceive them. She is known across every major pantheon by different names—the Aurèldían call her [[lore-goddreams|the God of Dreams]], the Kemetíans honor her as a form of Thōth, the northern peoples know her by a dozen titles—but the Āsháian name alone captures her essence: she is not merely the goddess of sleep and dreams, but the Weaver, the one who spins the threads of vision into patterns of meaning.

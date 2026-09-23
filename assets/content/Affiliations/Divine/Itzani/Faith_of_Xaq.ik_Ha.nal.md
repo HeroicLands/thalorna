@@ -123,6 +123,7 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
+sohl: {}
 ---
 
 **Domain:** Fertility, Water, Healing, Renewal, Birth, Life

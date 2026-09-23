@@ -104,6 +104,7 @@ data:
   parents: []
   relations:
     asguardian: aligned
+sohl: {}
 ---
 
 _Old Norse: Ymisbörn—"Ymir's Children"_

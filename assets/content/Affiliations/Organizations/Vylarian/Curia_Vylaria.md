@@ -84,6 +84,7 @@ data:
   lore: []
   parents: []
   relations: {}
+sohl: {}
 ---
 
 ## The Curia Vylaria

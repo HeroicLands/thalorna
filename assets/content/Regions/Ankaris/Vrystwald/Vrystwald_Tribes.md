@@ -107,6 +107,7 @@ data:
     grukarholm: nemesis
     vylarinmpr: rival
 packFolder: vrystwald
+sohl: {}
 ---
 
 ## Overview

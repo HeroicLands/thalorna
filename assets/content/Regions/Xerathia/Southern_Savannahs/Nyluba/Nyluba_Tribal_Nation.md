@@ -112,6 +112,7 @@ data:
     nyalbpnthn: aligned
 terran_analog: "Iroquois Confederacy / Haudenosaunee + Sotho-Tswana morafe + Shona heirs of Great Zimbabwe—five distinct clan-nations bound by ancient pact, cattle-pastoral with stone-ruin heritage, drum-language as nervous system"
 packFolder: politiesnyaluba
+sohl: {}
 ---
 
 The **Nyáluba Tribal Nation** is a confederation of five distinct clan-nations occupying the southeastern quadrant of the [[place-sthrnsvnhs|Southern Savannahs]] of [[place-xerathia|Xerathia]]—the highland belt where the great upland rivers run year-round, the central grasslands where the herds migrate, and the riverine wetlands of the eastern coast. They are the largest organized political body in the savannahs, perhaps two and a half million people across a territory roughly the size of Provènzia and Tarvénia combined, and yet they have no king, no capital, no written law, no standing army, and no apparatus that would be recognized by an Aurèldían or Vylarian as a government. They have, instead, the **Long Pact**—an ancient covenant binding five clan-nations to a shared way of life—and the apparatus by which the Pact is renewed: the Great Indaba, the drum-network, the griots, and the totemic law.

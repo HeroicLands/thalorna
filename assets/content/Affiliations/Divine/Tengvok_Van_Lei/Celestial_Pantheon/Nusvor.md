@@ -121,6 +121,7 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
+sohl: {}
 ---
 
 ## Nüsvōr—The Minister of Dissolution

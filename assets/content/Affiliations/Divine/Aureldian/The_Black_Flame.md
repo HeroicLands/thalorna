@@ -77,6 +77,7 @@ data:
   relations:
     arldnpnthn: aligned
 packFolder: pantheonsaureldian
+sohl: {}
 ---
 
 - **Deity:** Vúlcan—_The Forge-Lord_

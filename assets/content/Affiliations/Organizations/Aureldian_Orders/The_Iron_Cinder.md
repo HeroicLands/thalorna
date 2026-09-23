@@ -109,6 +109,7 @@ name:
     - The Cinderhand
     - The Black Fist
 shortcode: ironcinder
+sohl: {}
 ---
 
 _Aurèldían: Cinis Ferreus—"Iron Cinder"_

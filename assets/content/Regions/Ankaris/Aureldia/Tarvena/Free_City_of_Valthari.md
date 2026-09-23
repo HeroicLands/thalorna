@@ -111,6 +111,7 @@ data:
     kingdmtrvn: aligned
     vylarinmpr: unaligned
 packFolder: tarvenia
+sohl: {}
 ---
 
 - **Overlord:** [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] (nominal—pays tribute for self-governance charter)

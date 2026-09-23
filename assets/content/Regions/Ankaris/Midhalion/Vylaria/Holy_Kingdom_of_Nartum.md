@@ -177,6 +177,7 @@ data:
     vylarinmpr: rival
     ordoarcanis: nemesis
 packFolder: vylaria
+sohl: {}
 ---
 
 ## Overview

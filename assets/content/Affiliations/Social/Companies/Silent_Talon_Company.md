@@ -90,6 +90,7 @@ shortcode: slntlncmpny
 name:
   full: The Silent Talon Company
   aliases: []
+sohl: {}
 ---
 
 _Precision, Discretion, and Expertise for Every Mission_

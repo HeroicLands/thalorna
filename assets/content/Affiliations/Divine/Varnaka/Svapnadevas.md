@@ -56,6 +56,7 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
+sohl: {}
 ---
 
 ## Svapnadēvas—The Dreaming Host

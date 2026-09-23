@@ -97,6 +97,7 @@ data:
     varakpnthn: aligned
 terran_analog: "Medieval South Indian sabhā/ur temple-republics—Chola-era brahmadeya village federations governed by temple-anchored assemblies, loosely confederated through pilgrimage networks and shared classical tradition rather than through any centralized political authority"
 packFolder: vedyara
+sohl: {}
 ---
 
 The **Janapadas of Vedyara** are not a single polity. They are the loose confederation of the several thousand small temple-republics that hold most of [[place-vedyarargn|Vedyari]] political life, alongside the great city-states of the coast and the river and the pass-kingdom of [[affiliation-vindhyalay|Vindhyālaya]]. The confederation is the **Mahā-Saṅgha**, the "Great Council". Each janapada is itself a federation of villages organized around a central temple-complex and the temple-anchored **sabhā** (assembly) that governs them. The name belongs to the whole class and to no one polity in it.

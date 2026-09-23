@@ -94,6 +94,7 @@ name:
   aliases: []
 shortcode: blckpnwlvs
 packFolder: politiescompanies
+sohl: {}
 ---
 
 ![The Blackpine Wolves](https://cdn.heroiclands.org/images/blackpine_wolves.webp)

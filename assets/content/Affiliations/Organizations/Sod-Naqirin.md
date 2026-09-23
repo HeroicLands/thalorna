@@ -100,6 +100,7 @@ data:
   lore: []
   parents: []
   relations: {}
+sohl: {}
 ---
 
 _Haradi: Sôd-Naqîrîn—"The Council of the Guild-Wardens"_

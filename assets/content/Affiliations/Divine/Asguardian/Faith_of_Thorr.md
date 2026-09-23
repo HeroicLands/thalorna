@@ -99,6 +99,7 @@ name:
     - The Stormborn Path
 shortcode: thorr
 packFolder: pantheonsasguardian
+sohl: {}
 ---
 
 Thórr, the thunderous god of war, reavers, and the sea, stands as a formidable protector and champion of both gods and humans. Known for his immense strength and unyielding courage, Thórr is the embodiment of the warrior spirit, a force of nature who defends the realms from the chaos of giants and other threats. His domain extends over the seas, making him a patron of sailors and reavers, who invoke his name for safe passage and victory in their raids.

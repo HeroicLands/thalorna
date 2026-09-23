@@ -73,6 +73,7 @@ name:
     - Mórváná
 shortcode: morvana
 packFolder: pantheonsaureldian
+sohl: {}
 ---
 
 Goddess of decay, endings, and transformation. Mórváná oversees the natural cycle of death and renewal, reminding mortals of life's impermanence.

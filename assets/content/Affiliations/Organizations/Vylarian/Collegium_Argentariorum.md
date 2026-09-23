@@ -91,6 +91,7 @@ data:
   lore: []
   parents: []
   relations: {}
+sohl: {}
 ---
 
 _Vylarian: Collegium Argentariorum—"the Bankers' College" or "the Moneylenders' Guild"_

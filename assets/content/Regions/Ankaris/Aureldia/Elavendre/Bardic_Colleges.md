@@ -91,6 +91,7 @@ name:
     - Bardic Circle
 shortcode: bardicolgs
 packFolder: elavendre
+sohl: {}
 ---
 
 - **Type:** Institutions of music, memory, magic, and diplomacy

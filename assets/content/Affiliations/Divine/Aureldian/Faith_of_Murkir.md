@@ -76,6 +76,7 @@ name:
     - Múrkír
 shortcode: murkir
 packFolder: pantheonsaureldian
+sohl: {}
 ---
 
 God of journeys, exploration, and wanderlust. Múrkír protects travelers and inspires mortals to seek the unknown.

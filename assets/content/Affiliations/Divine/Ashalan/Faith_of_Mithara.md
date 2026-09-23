@@ -93,6 +93,7 @@ name:
 shortcode: mithara
 alias: Míthárä, The World's First Light
 packFolder: ashaian
+sohl: {}
 ---
 
 In the beginning, according to Mitharan theology, there was no distinction between order and chaos, between Āsha and Druj. All was potential, all was undifferentiated darkness—not the darkness of night but the darkness of non-existence itself. Then came Míthárä, the First Light, and from her divine luminescence, the world took shape. But Míthárä did not merely create the world once and withdraw; rather, her act of creation is eternal and ongoing. The moment a seed splits and sends forth a sprout, that is Míthárä's hand. The instant a child draws its first breath, Míthárä's light enters it. When a cracked piece of clay is molded by a potter into a new vessel, that transformation is Míthárä's work. The priests of Míthárä teach that creation did not happen in some distant mythological past but continues now, at every moment, in every place. The world is not a finished thing but a perpetual act of becoming, and Āsha itself—truth and order—is only maintained through this constant renewal.
