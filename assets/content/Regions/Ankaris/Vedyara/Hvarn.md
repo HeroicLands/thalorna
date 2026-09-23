@@ -2,7 +2,7 @@
 tags: []
 type: affiliation
 subType: polity
-description: The guide-people of the Eastern Reach — fewer, poorer and better connected than the Ösket, keeping the two eastern crossings and supplying the one fort on the wall.
+description: The guide-people of the Eastern Reach—fewer, poorer and better connected than the Ösket, keeping the two eastern crossings and supplying the one fort on the wall.
 name:
   full: The Hvarn
   aliases: []
@@ -27,7 +27,7 @@ data:
         title: Taken-in
         lore: dependentrnk
         description: >-
-          Sheltered by a hearth without being of it — a widow's family, a stranger, a child
+          Sheltered by a hearth without being of it—a widow's family, a stranger, a child
           of the roads.
       - level: 2
         title: Hearth-kin
@@ -96,7 +96,7 @@ data:
 packFolder: vedyara
 ---
 
-The **Hvarn** hold [[place-jnanadvara|Jñānadvāra]] and [[place-sankhadvra|Śaṅkhadvāra]], the two crossings of [[place-estrnreach|the Eastern Reach]]. There are perhaps nine thousand of them, they are the poorer of the two guide-peoples by a wide margin, and they are the only people on the wall who deal with lowland institutions as a matter of routine.
+The **Hvarn** hold [[place-jnanadvara|Jñānadvāra]] and [[place-sankhadvra|Śaṅkhadvāra]], the two crossings of [[place-estrnreach|the Eastern Reach]]. There are nine thousand of them, they are the poorer of the two guide-peoples by a wide margin, and they are the only people on the wall who deal with lowland institutions as a matter of routine.
 
 ## The Rotation
 
@@ -106,13 +106,13 @@ The system exists because the eastern trade cannot support the western arrangeme
 
 ## The Fort
 
-[[place-sanghafort|The Saṅgha-fort]] on the conch-door col is fed by Hvarn pack-trains. The contract is old, is renewed every third year with the eastern janapadas, and is the single largest piece of Hvarn income; the Fort-carrier who negotiates it is the one member of the people who speaks fluent lowland Vedyari and the one the garrison's officers know by name.
+[[place-sanghafort|The Saṅgha-fort]] on the conch-door col is fed by Hvarn pack-trains. The contract is old, is renewed every third year with the eastern janapadas, and is the single largest piece of Hvarn income. The Fort-carrier who negotiates it is the one member of the people who speaks fluent lowland Vedyari, and the one the garrison's officers know by name.
 
 It also makes the Hvarn the confederation's eyes on a frontier the confederation has no other way of watching, a fact [[affiliation-vindhyalay|Vindhyālaya]] resents and the Hvarn decline to discuss.
 
 ## The Dead
 
-The Hvarn go down for their dead. A body in the eastern gorges is recovered if recovery is possible at all, brought up, and the place it was found is recorded and kept; the Bone-bringer's account is the longest continuous record the people keep and the only one they will show an outsider, because it is also the best available warning about where the ground fails.
+The Hvarn go down for their dead. A body in the eastern gorges is recovered wherever recovery is possible at all, brought up, and the place it was found recorded and kept. The Bone-bringer's account is the longest continuous record the people keep and the only one they will show an outsider. It is also the best warning anyone has about where the ground fails.
 
 ## See Also
 

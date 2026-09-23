@@ -21,7 +21,8 @@ data:
         title: Rite-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually requires — a sentence that reaches past the end of the life it is passed in.
+          Barred from the temple rites, and with them from the funerary rites every Kheperi
+          eventually requires—a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
         lore: layfaithfulrnk
@@ -31,17 +32,22 @@ data:
         title: Wab
         lore: initiaternk
         description: >-
-          "Purified One" — acolytes beginning young, apprenticing either under a master embalmer for the anatomical knowledge and manual skill, or as ritualists studying the funerary texts and prayers.
+          "Purified One"—acolytes beginning young, apprenticing either under a master embalmer for
+          the anatomical knowledge and manual skill, or as ritualists studying the funerary texts
+          and prayers.
       - level: 3
         title: Hem'Netjer
         lore: priestrnk
         description: >-
-          "Servant of the God" — ordained priests running the specialised functions of the god's domain — some scholars and ritualists supervising the ceremonies, some master embalmers of decades' practice, some managing the drying beds, linen workshops and oil chambers.
+          "Servant of the God"—ordained priests running the specialized functions of the god's
+          domain—some scholars and ritualists supervising the ceremonies, some master embalmers of
+          decades' practice, some managing the drying beds, linen workshops and oil chambers.
       - level: 4
         title: Wer'Hekau
         lore: highpriestrnk
         description: >-
-          "Great of Sacred Power" — High Priest of Ánubís, wielding influence second only to the Per-Aá and occasionally rivalling it, according to the political alignments of the moment.
+          "Great of Sacred Power"—High Priest of Ánubís, wielding influence second only to the
+          Per-Aá and occasionally rivaling it, according to the political alignments of the moment.
     offices:
       Master Embalmer: >-
         A Hem'Netjer who has spent decades perfecting the technical preservation of bodies; the most capable found families that keep the practice for generations.
@@ -50,19 +56,19 @@ data:
       Warden of the Embalming Houses: >-
         Manages the drying beds where bodies are treated with natron, the workshops preparing linen, and the chambers where aromatic oils and ointments are made.
       Embalmer of the First Class: >-
-        Performs the full treatment of some seventy days — the body drawn, dried in natron, anointed with
-        costly resins, and wrapped in fine linen with amulets at every joint. The trade is graded by old
-        custom into first, second and third class, and the scale of preparation tracks wealth with brutal
-        precision.
+        Performs the full treatment of some seventy days—the body drawn, dried in natron, anointed
+        with costly resins, and wrapped in fine linen with amulets at every joint. The trade is
+        graded by old custom into first, second and third class, and the scale of preparation tracks
+        wealth with brutal precision.
       Keeper of the Paupers' Field: >-
-        Because the weighing of the heart spares no one, no soul may be left without the minimum rites. The
-        temples keep paupers' fields and say the words over the destitute, alongside the neighbourhood and
-        guild burial-clubs ordinary folk pay into so that no member goes to the West unwrapped and
-        unmourned.
+        Because the weighing of the heart spares no one, no soul may be left without the minimum
+        rites. The temples keep paupers' fields and say the words over the destitute, alongside the
+        neighborhood and guild burial-clubs ordinary folk pay into so that no member goes to the
+        West unwrapped and unmourned.
       Cult-Priest of an Offering-Chapel: >-
-        Endowed to lay bread and beer and say the rites at a tomb's offering-chapel. The endowment is the
-        tomb's true defence: where a cult dwindles or a line is forgotten, decay creeps in — and those are
-        exactly the reaches where the tomb-robbers work.
+        Endowed to lay bread and beer and say the rites at a tomb's offering-chapel. The endowment
+        is the tomb's true defense: where a cult dwindles or a line is forgotten, decay creeps
+        in—and those are exactly the reaches where the tomb-robbers work.
   commonSkills:
     - anubis
     - pysn

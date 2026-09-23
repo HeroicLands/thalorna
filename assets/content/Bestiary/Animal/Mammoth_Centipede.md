@@ -284,7 +284,7 @@ The centipede lunges with mandibles extended, striking at the closest vital area
 
 ### Constricting Coil
 
-For prey smaller than itself — small mammals, reptiles, and the like — the centipede uses its body length to wrap around the victim, compressing with surprising force; constricted prey is crushed steadily and can break free only by main strength. The coil is rarely effective against a humanoid-sized opponent, but it can pin a limb or trap an arm against the body, leaving the victim open to repeated bites.
+For prey smaller than itself—small mammals, reptiles, and the like—the centipede uses its body length to wrap around the victim, compressing with surprising force; constricted prey is crushed steadily and can break free only by main strength. The coil is rarely effective against a humanoid-sized opponent, but it can pin a limb or trap an arm against the body, leaving the victim open to repeated bites.
 
 ## Special Abilities
 

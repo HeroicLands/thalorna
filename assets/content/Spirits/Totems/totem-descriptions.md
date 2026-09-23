@@ -359,7 +359,7 @@ Description: A resilient and steadfast individual, this person is characterized 
 - **Positive:** Strong, vigilant, and confident.
 - **Negative:** Can be overly proud, competitive, and confrontational.
 - **Minor Trait:** Confident.
-- **Major Disorder:** Narcissistic Personality Disorder (NPD), characterized by excessive pride and vigilance towards threats to self-esteem.
+- **Major Disorder:** Narcissistic Personality Disorder (NPD), characterized by excessive pride and vigilance toward threats to self-esteem.
 
 40. **Trout: Swift and Wary**
 

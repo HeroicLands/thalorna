@@ -521,7 +521,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Sigyn stands 5'7" with a slender, graceful frame, weighing about 130 pounds. Her fair skin is flawless and luminous, and her dark blonde hair is arranged in an elaborate style that appears effortless but takes considerable art. Her blue eyes are large and expressive, shifting between warmth and calculation so smoothly that few notice the transition. Her features are striking — high cheekbones, a delicate nose, full lips that curve in an enigmatic smile, and perfectly arched brows that can convey a dozen meanings with a single rise. Her bearing is poised and courtly, every gesture deliberate and graceful, and she carries herself with the quiet confidence of someone accustomed to being the most important person in any room. Sigyn wears gowns of fine silk and soft wool in rich jewel tones, accented with subtle gold embroidery and a necklace of amber beads sacred to Fréyja. Her hands are soft and adorned with slender rings, the hands of a woman who has never wielded anything heavier than a quill.
+Sigyn stands 5'7" with a slender, graceful frame, weighing about 130 pounds. Her fair skin is flawless and luminous, and her dark blonde hair is arranged in an elaborate style that appears effortless but takes considerable art. Her blue eyes are large and expressive, shifting between warmth and calculation so smoothly that few notice the transition. Her features are striking—high cheekbones, a delicate nose, full lips that curve in an enigmatic smile, and perfectly arched brows that can convey a dozen meanings with a single rise. Her bearing is poised and courtly, every gesture deliberate and graceful, and she carries herself with the quiet confidence of someone accustomed to being the most important person in any room. Sigyn wears gowns of fine silk and soft wool in rich jewel tones, accented with subtle gold embroidery and a necklace of amber beads sacred to Fréyja. Her hands are soft and adorned with slender rings, the hands of a woman who has never wielded anything heavier than a quill.
 
 # Dossier {#dossier}
 
@@ -533,7 +533,7 @@ The saga of Sigyn the Enchantress tells of how she saved her homeland from ruin 
 
 ### Personality
 
-Sigyn is sophisticated and perceptive, reading people with an accuracy that seems almost supernatural. She maintains a carefully cultivated image of graceful charm while keeping her true thoughts and feelings hidden behind an enigmatic smile. She is genuinely compassionate beneath her polished exterior and uses her influence to protect the vulnerable when she can. She is a master of the social arts — conversation, flattery, negotiation, and manipulation — but prefers persuasion to coercion and always seeks solutions that benefit as many people as possible.
+Sigyn is sophisticated and perceptive, reading people with an accuracy that seems almost supernatural. She maintains a carefully cultivated image of graceful charm while keeping her true thoughts and feelings hidden behind an enigmatic smile. She is genuinely compassionate beneath her polished exterior and uses her influence to protect the vulnerable when she can. She is a master of the social arts—conversation, flattery, negotiation, and manipulation—but prefers persuasion to coercion and always seeks solutions that benefit as many people as possible.
 
 ### Motivation
 
@@ -549,20 +549,20 @@ Sigyn's charisma is her most powerful weapon; her voice carries a subtle enchant
 
 ### Patrons
 
-**King Haraldr of the Northern Court** — The monarch who Sigyn saved from his corrupt advisor. He relies heavily on her counsel and has granted her considerable political authority.
+**King Haraldr of the Northern Court**—The monarch who Sigyn saved from his corrupt advisor. He relies heavily on her counsel and has granted her considerable political authority.
 
-**The Fréyja Sisterhood** — A secret order of women devoted to Fréyja who use their influence to shape events from behind the scenes. Sigyn is one of their most prominent members.
+**The Fréyja Sisterhood**—A secret order of women devoted to Fréyja who use their influence to shape events from behind the scenes. Sigyn is one of their most prominent members.
 
 ### Enemies
 
-**The Fallen Advisor's Family** — The relatives of the corrupt advisor Sigyn exposed have sworn revenge. They work through proxies and hired assassins to discredit and destroy her.
+**The Fallen Advisor's Family**—The relatives of the corrupt advisor Sigyn exposed have sworn revenge. They work through proxies and hired assassins to discredit and destroy her.
 
-**Jarl Thorvald Embersteel** — A warlike lord who distrusts Sigyn's influence over the king and views her as a manipulative sorceress rather than a wise counselor.
+**Jarl Thorvald Embersteel**—A warlike lord who distrusts Sigyn's influence over the king and views her as a manipulative sorceress rather than a wise counselor.
 
 ## Plot Hooks
 
-1. **The Poisoned Court** — Someone is systematically turning the king's advisors against each other using enchanted drinks. Sigyn suspects a rival enchantress and must unmask them before the court descends into chaos.
+1. **The Poisoned Court**—Someone is systematically turning the king's advisors against each other using enchanted drinks. Sigyn suspects a rival enchantress and must unmask them before the court descends into chaos.
 
-2. **The Marriage Alliance** — A crucial peace treaty depends on a marriage between two powerful families, but both the bride and groom secretly love others. Sigyn must navigate the competing desires of duty, love, and politics.
+2. **The Marriage Alliance**—A crucial peace treaty depends on a marriage between two powerful families, but both the bride and groom secretly love others. Sigyn must navigate the competing desires of duty, love, and politics.
 
-3. **Fréyja's Price** — Sigyn's enchanting abilities are growing stronger, but she has begun to notice that people she has influenced show signs of dependency. She must discover whether Fréyja's gifts carry an addiction that could harm those she is trying to help.
+3. **Fréyja's Price**—Sigyn's enchanting abilities are growing stronger, but she has begun to notice that people she has influenced show signs of dependency. She must discover whether Fréyja's gifts carry an addiction that could harm those she is trying to help.

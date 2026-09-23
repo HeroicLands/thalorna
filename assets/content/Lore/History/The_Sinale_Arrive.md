@@ -2,7 +2,7 @@
 tags:
   - history
   - spine
-description: "The Sinalë reach Thalorna at approximately 7500 BF from a prior realm they do not disclose — the first of the Elder Races, and the beginning of the world's recorded history."
+description: "The Sinalë reach Thalorna at approximately 7500 BF from a prior realm they do not disclose—the first of the Elder Races, and the beginning of the world's recorded history."
 type: lore
 subType: history
 name:
@@ -90,7 +90,7 @@ Thalorna, and by their own telling they are. They came from a prior realm whose 
 disclose, and for a time they walked with only the creatures and spirits humans would later call fae,
 and with scattered bands of humans who lived then without cities or letters or settled tongues.
 
-They observed those bands and left them alone — a restraint they held to, and which did not prevent
+They observed those bands and left them alone—a restraint they held to, and which did not prevent
 humanity from learning a great deal simply by watching them back. That is the beginning of
 [[lore-longnhrtnc|The Long Inheritance]], which neither Elder Race admits to and which is visible in
 every human craft that improved for a thousand years after appearing suddenly and badly.

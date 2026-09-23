@@ -591,12 +591,12 @@ None; he is respected in his community for his dedication.
 
 ## Plot Hooks
 
-1. **The Herder's Dilemma** — A farmer who pays for Wilfred's help asks him to drive his beasts through weather Wilfred can read as deadly, and the man will not wait.
+1. **The Herder's Dilemma**—A farmer who pays for Wilfred's help asks him to drive his beasts through weather Wilfred can read as deadly, and the man will not wait.
 
-2. **Old Grudges** — Wilfred has no enemies, though a farmer whose stock died in a storm he foretold has found it easier to blame the herder than the weather.
+2. **Old Grudges**—Wilfred has no enemies, though a farmer whose stock died in a storm he foretold has found it easier to blame the herder than the weather.
 
-3. **Echoes of the Past** — A calf Wilfred raised by hand and sold years ago is found among stolen cattle, and its mark is his.
+3. **Echoes of the Past**—A calf Wilfred raised by hand and sold years ago is found among stolen cattle, and its mark is his.
 
-4. **Shifting Winds** — Political change in Aelwyth threatens the common grazing Wilfred's herds depend on, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Aelwyth threatens the common grazing Wilfred's herds depend on, and he can adapt, resist, or leave.
 
-5. **The Opportunity** — A lord offers Wilfred the mastery of all his herds, and the methods the lord wants used are not the ones Wilfred's family has always used.
+5. **The Opportunity**—A lord offers Wilfred the mastery of all his herds, and the methods the lord wants used are not the ones Wilfred's family has always used.

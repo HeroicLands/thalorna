@@ -45,9 +45,9 @@ data:
         title: Kher-Heb
         lore: masterrnk
         description: >-
-          Lector — the one who carries the book and reads the great formulae aloud at the rites. A Kher-Heb
-          holds the House's restricted forms, and is trusted with workings that are meant to stand for
-          centuries.
+          Lector—the one who carries the book and reads the great formulae aloud at the rites. A
+          Kher-Heb holds the House's restricted forms, and is trusted with workings that are meant
+          to stand for centuries.
       - level: 4
         title: Wer Kher-Heb
         lore: grandmasterrnk
@@ -92,12 +92,11 @@ oath that binds, the ward that stands, the seal that is not opened. Its work is 
 conservative in the tradition and the most consequential, because an Order working done correctly
 outlives everyone who witnessed it.
 
-**Maat'ken** — the Truth that Judges — is the domain of law, judgement, binding, wards, oaths, and the weighing of the heart.
-It is one of the eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris —
-by function in the cosmic order rather than by substance, which is why no portion of it
+**Maat'ken**—the Truth that Judges—is the domain of law, judgment, binding, wards, oaths, and the weighing of the heart.
+It is one of the eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris—by function in the cosmic order rather than by substance, which is why no portion of it
 corresponds to any single Eídma of the western [[lore-hexhodai|Héx Hodäi]].
 
 ### See Also
 
-- [[lore-khemenuhekau|Khemenu Hekau]] — the philosophy and the other seven domains
-- [[place-khemenu|Khemenu]] — where the Eight are taught
+- [[lore-khemenuhekau|Khemenu Hekau]]—the philosophy and the other seven domains
+- [[place-khemenu|Khemenu]]—where the Eight are taught

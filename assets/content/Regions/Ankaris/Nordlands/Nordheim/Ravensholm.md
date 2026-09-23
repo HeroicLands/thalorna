@@ -27,5 +27,5 @@ Beyond its religious significance, Ravensholm serves a strategic role in Nordhei
 
 ## See Also
 
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] — Frozen northern kingdom
-- [[affiliation-asguardian|Asguardian Pantheon]] — Gods of the north, especially Odin
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—Frozen northern kingdom
+- [[affiliation-asguardian|Asguardian Pantheon]]—Gods of the north, especially Odin

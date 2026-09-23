@@ -551,9 +551,9 @@ Aldous Brandon is a 37-year-old man who stands 6'1" tall and is of moderate buil
 
 # Dossier {#dossier}
 
-Aldous Brandon is a charcoaler of Thornbury, the seat of the Republic of Tarvenne on the western coast of [[place-aelwyth|Aelwyth]], an Aelwythan freeman who burns charcoal in the woods behind the town for the smiths of the harbour.
+Aldous Brandon is a charcoaler of Thornbury, the seat of the Republic of Tarvenne on the western coast of [[place-aelwyth|Aelwyth]], an Aelwythan freeman who burns charcoal in the woods behind the town for the smiths of the harbor.
 
-Aldous took over his father's kilns at twenty-five and has run them since in the coppice woods inland of the town, where the republic's senators own the ground and lease the cutting. His father burned one charcoal for every use and let the smiths sort it. Aldous burns oak for the forges that need a long heat, alder for the fine work, beech for the armourers, and has tried every wood on the coast to learn what it gives. He will not draw a kiln early or sell a sack that is green, which is why his charcoal costs more and why the smiths who know the difference pay it. He is late with deliveries more often than a man with two rivals should be, and he is late because the kiln was not ready, and he says so.
+Aldous took over his father's kilns at twenty-five and has run them since in the coppice woods inland of the town, where the republic's senators own the ground and lease the cutting. His father burned one charcoal for every use and let the smiths sort it. Aldous burns oak for the forges that need a long heat, alder for the fine work, beech for the armorers, and has tried every wood on the coast to learn what it gives. He will not draw a kiln early or sell a sack that is green, which is why his charcoal costs more and why the smiths who know the difference pay it. He is late with deliveries more often than a man with two rivals should be, and he is late because the kiln was not ready, and he says so.
 
 ## Psyche
 
@@ -577,7 +577,7 @@ Aldous holds his seal from the Woodworkers' Guild of Thornbury, chartered under 
 
 ### Patrons
 
-Aldous's patrons are the smiths of the Thornbury harbour, and the armourers who supply the republic's legions.
+Aldous's patrons are the smiths of the Thornbury harbor, and the armorers who supply the republic's legions.
 
 ### Enemies
 
@@ -585,10 +585,10 @@ A charcoaler of the coast who draws his kilns early and sells green charcoal che
 
 ## Plot Hooks
 
-1. **The Armourers' Contract** — The Senate's contract for the legions' armourers has gone to Aldous's rival, whose charcoal is cheaper, and the armourers say the steel is coming out short. The Quaestor who signed was paid to.
+1. **The Armorers' Contract**—The Senate's contract for the legions' armorers has gone to Aldous's rival, whose charcoal is cheaper, and the armorers say the steel is coming out short. The Quaestor who signed was paid to.
 
-2. **The Black Fires** — A shrine of the Black Flame, which the town's magistrates are paid not to notice, has asked for a standing supply of Aldous's oak charcoal at a price the smiths could not match.
+2. **The Black Fires**—A shrine of the Black Flame, which the town's magistrates are paid not to notice, has asked for a standing supply of Aldous's oak charcoal at a price the smiths could not match.
 
-3. **The Senator's Wood** — The senator whose coppice Aldous leases has decided to clear it for pasture, and Aldous's kilns and his year's cut stand in it.
+3. **The Senator's Wood**—The senator whose coppice Aldous leases has decided to clear it for pasture, and Aldous's kilns and his year's cut stand in it.
 
-4. **The Late Sack** — Aldous held a kiln two days past its date to get it right, and the smith who waited for it, his father's oldest customer, lost a commission to a rival with green charcoal.
+4. **The Late Sack**—Aldous held a kiln two days past its date to get it right, and the smith who waited for it, his father's oldest customer, lost a commission to a rival with green charcoal.

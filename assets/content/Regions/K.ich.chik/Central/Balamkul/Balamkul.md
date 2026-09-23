@@ -1,7 +1,7 @@
 ---
 tags:
   - polity
-description: Paramount realm and beating heart of K'ich'chik civilization — a plateau of pyramid-temples, mathematics, and blood-priesthood.
+description: Paramount realm and beating heart of K'ich'chik civilization—a plateau of pyramid-temples, mathematics, and blood-priesthood.
 name:
   full: Balamkul
   aliases: []
@@ -28,19 +28,19 @@ data:
         title: Captive
         lore: slavernk
         description: >-
-          Taken in war and held for labour or for the altar, with no standing and, commonly,
+          Taken in war and held for labor or for the altar, with no standing and, commonly,
           no long future.
       - level: 2
         title: Commoner
         lore: commonerrnk
         description: >-
-          Working the milpa and owing labour on the temple platforms and causeways, and tribute
+          Working the milpa and owing labor on the temple platforms and causeways, and tribute
           in maize, cloth and cacao.
       - level: 3
         title: Craftsman
         lore: journeymanrnk
         description: >-
-          Of the skilled trades — potters, weavers, feather-workers, stone-cutters — attached
+          Of the skilled trades—potters, weavers, feather-workers, stone-cutters—attached
           to a lord's household or a temple.
       - level: 4
         title: Warrior
@@ -62,7 +62,7 @@ data:
         title: Sahal
         lore: greatlordrnk
         description: >-
-          A subordinate lord holding a lesser centre for the k'uhul ajaw, and the usual rank
+          A subordinate lord holding a lesser center for the k'uhul ajaw, and the usual rank
           of a conquered city's ruler.
       - level: 8
         title: K'uhul Ajaw
@@ -77,7 +77,7 @@ data:
       Ix Ajaw: >-
         Royal lady of the city, of a lineage recorded and married for, and a ruler in her
         own right where the line requires it.
-      Sahal: Subordinate lord holding a lesser centre in the Holy Lord's name.
+      Sahal: Subordinate lord holding a lesser center in the Holy Lord's name.
       Ajaw: Noble lord of the city, holding land, dependents and a voice at court.
       Ah K'in: Priest of the sun and keeper of the count of days, who fixes every auspicious
         hour.
@@ -89,7 +89,7 @@ data:
       Ah Kulel: Deputy and herald of a lord, who carries his word and is answered as if it
         were his.
       Ah Ppolom: >-
-        Master merchant of the long-distance trade in cacao, salt, obsidian and jade — and
+        Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and
         a lord's eyes abroad.
       Ballcourt Keeper: >-
         Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice
@@ -125,13 +125,13 @@ Every major city-state maintains a rival relationship with its neighbors, compet
 
 The Itzáni priesthood maintains strict hierarchical control within Balamkul's cities, with the K'ul Tq'an wielding authority over spiritual matters and the K'inmah responsible for tribute, tribute-armies, and secular governance. In practice, the line between these powers is fluid and often contested. A particularly ambitious K'ul Tq'an may orchestrate the downfall of a K'inmah who fails to collect sufficient tribute or loses a key battle; conversely, a powerful K'inmah may attempt to install a more compliant high priest. These struggles are conducted with ritual formality and do not usually descend into open conflict, for to undermine the priesthood is to risk the anger of the gods themselves.
 
-Balamkul is also the hub of the Ch'um Ix'lan, the great relay network of Ch'umbal runners that binds [[place-kchchkcntnnt|K'ich'chik]] civilization together. The Ch'um Ix'lan is administered entirely by the [[affiliation-itzanpnthn|Itzáni]] priesthood — not by any K'inmah or temporal authority. The Ch'umbal are ordained as minor religious functionaries, sworn to the service of [[affiliation-itzanpnthn|K'in'ul Tq'an]] (god of order), and no secular lord may command, delay, or interfere with a runner on the Speaking Road. Kul'taq'an houses the central dispatch, where tz'ib'al (knotted cord records) are decoded, copied, and redistributed by priestly scribes, and where the most sensitive intelligence from distant provinces is received and interpreted by the K'ul Tq'an's inner circle. No K'inmah — not even the most powerful Sun Lord in Balamkul — receives intelligence from the Speaking Road except through the priesthood's hands. The density of Ch'um Ix'lan way-stations within Balamkul is unmatched anywhere in the realm — a message can cross the entire plateau region in a single day, giving the K'ul Tq'an awareness of events almost as they unfold. This monopoly on long-distance communication is perhaps the priesthood's most potent instrument of power, for no rebellion can be coordinated and no alliance formed without the knowledge of the priests who read the knotted cords.
+Balamkul is also the hub of the Ch'um Ix'lan, the great relay network of Ch'umbal runners that binds [[place-kchchkcntnnt|K'ich'chik]] civilization together. The Ch'um Ix'lan is administered entirely by the [[affiliation-itzanpnthn|Itzáni]] priesthood—not by any K'inmah or temporal authority. The Ch'umbal are ordained as minor religious functionaries, sworn to the service of [[affiliation-itzanpnthn|K'in'ul Tq'an]] (god of order), and no secular lord may command, delay, or interfere with a runner on the Speaking Road. Kul'taq'an houses the central dispatch, where tz'ib'al (knotted cord records) are decoded, copied, and redistributed by priestly scribes, and where the most sensitive intelligence from distant provinces is received and interpreted by the K'ul Tq'an's inner circle. No K'inmah—not even the most powerful Sun Lord in Balamkul—receives intelligence from the Speaking Road except through the priesthood's hands. The density of Ch'um Ix'lan way-stations within Balamkul is unmatched anywhere in the realm—a message can cross the entire plateau region in a single day, giving the K'ul Tq'an awareness of events almost as they unfold. This monopoly on long-distance communication is perhaps the priesthood's most potent instrument of power, for no rebellion can be coordinated and no alliance formed without the knowledge of the priests who read the knotted cords.
 
 ## See Also
 
-- [[affiliation-kankul|K'ankul]] — The limestone lowlands to the east, tributary to Balamkul's religious authority
-- [[affiliation-kiikbaate|Ki'ik Ba'ate]] — The isthmus gateway, where highland and coastal trade routes intersect
-- [[affiliation-tzikin|Tz'ikin]] — The eastern frontier, source of exotic goods and sacred materials
-- [[affiliation-itzanpnthn|Itzáni Pantheon]] — The divine framework that grants Balamkul its religious authority
-- Tz'aqal K'ul — The Sacred Foundation, holiest pilgrimage site in K'ich'chik
-- [[place-balamkulrgn|Balamkul Region]] — The land Balamkul holds
+- [[affiliation-kankul|K'ankul]]—The limestone lowlands to the east, tributary to Balamkul's religious authority
+- [[affiliation-kiikbaate|Ki'ik Ba'ate]]—The isthmus gateway, where highland and coastal trade routes intersect
+- [[affiliation-tzikin|Tz'ikin]]—The eastern frontier, source of exotic goods and sacred materials
+- [[affiliation-itzanpnthn|Itzáni Pantheon]]—The divine framework that grants Balamkul its religious authority
+- Tz'aqal K'ul—The Sacred Foundation, holiest pilgrimage site in K'ich'chik
+- [[place-balamkulrgn|Balamkul Region]]—The land Balamkul holds

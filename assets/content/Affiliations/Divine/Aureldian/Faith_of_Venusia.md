@@ -22,7 +22,7 @@ data:
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out — denied the rites, the temple and the burial the faith promises, which is the one
+          Cast out—denied the rites, the temple and the burial the faith promises, which is the one
           sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
@@ -39,21 +39,26 @@ data:
         title: Priestesses of the Temple
         lore: priestrnk
         description: >-
-          Ordained clergy who manage daily worship, keep the sacred spaces and counsel those seeking the goddess's favour.
+          Ordained clergy who manage daily worship, keep the sacred spaces and counsel those seeking
+          the goddess's favor.
       - level: 4
         title: High Priestess of a Temple
         lore: grandmasterrnk
         description: >-
-          Each major city's temple is governed by its own High Priestess — or High Priest, though priestesses are far more common. There is no centralised hierarchy above them.
+          Each major city's temple is governed by its own High Priestess—or High Priest, though
+          priestesses are far more common. There is no centralized hierarchy above them.
     offices:
       High Priestess of a Temple: >-
-        Each major city's temple is governed by its own High Priestess — or High Priest, though priestesses are far more common. There is no centralised hierarchy above them.
+        Each major city's temple is governed by its own High Priestess—or High Priest, though
+        priestesses are far more common. There is no centralized hierarchy above them.
       Priestesses of the Temple: >-
-        Ordained clergy who manage daily worship, keep the sacred spaces and counsel those seeking the goddess's favour.
+        Ordained clergy who manage daily worship, keep the sacred spaces and counsel those seeking
+        the goddess's favor.
       Acolytes: >-
         Younger devotees in training, not yet ordained, who study the theology of prosperity and often serve as scribes and administrators.
       Temple Companion: >-
-        A practitioner of courtesanship consecrated to the goddess and understood as a sacred priestess in her own right — a formally recognised office of this faith.
+        A practitioner of courtesanship consecrated to the goddess and understood as a sacred
+        priestess in her own right—a formally recognized office of this faith.
   commonSkills: []
   seat: null
   domains: []
@@ -94,7 +99,7 @@ Below the High Priestess stand the Priestesses of the Temple, who manage day-to-
 
 The temple also maintains a cohort of Acolytes—younger devotees in training who are not yet fully ordained. These acolytes study the theology of prosperity, learn the rituals and festivals, and often serve as scribes and administrators for the temple's records of offerings and blessings. Many acolytes go on to full priesthood, but others use their training to become merchants, accountants, or guild officers in their own right.
 
-A distinctive feature of Vénusia's priesthood is the formal recognition of Temple Companions — practitioners of courtesanship who are consecrated to the goddess and understood as sacred priestesses in their own right. These individuals are not merely tolerated but actively honored within the cult structure. They undergo formal initiation ceremonies, wear identifying marks or tokens showing their dedication to Vénusia, and often take oaths to conduct their work with skill, discretion, and a kind of spiritual integrity. A temple's sponsorship of a Companion — providing training, housing, protection, and a portion of earnings — is understood as a religious duty and a form of worship itself.
+A distinctive feature of Vénusia's priesthood is the formal recognition of Temple Companions—practitioners of courtesanship who are consecrated to the goddess and understood as sacred priestesses in their own right. These individuals are not merely tolerated but actively honored within the cult structure. They undergo formal initiation ceremonies, wear identifying marks or tokens showing their dedication to Vénusia, and often take oaths to conduct their work with skill, discretion, and a kind of spiritual integrity. A temple's sponsorship of a Companion—providing training, housing, protection, and a portion of earnings—is understood as a religious duty and a form of worship itself.
 
 The temples also maintain close relationships with merchant guilds, banking houses, and trading companies. Many guilds formally dedicate themselves to Vénusia and maintain a shrine within their guildhouse where merchant-members can make offerings before major transactions. These guild-temple partnerships create a network of mutual support: the priesthood blesses commercial ventures, and the guilds provide tithes and resources to maintain the temples.
 

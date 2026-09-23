@@ -28,7 +28,7 @@ Kashmuret's architecture reflects its role as a transit hub: the largest structu
 
 ## See Also
 
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — Regional overview
-- [[skill-haradilng|Haradi]] — Naming tradition
-- [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Western religious tradition
-- [[affiliation-ashanpnthn|Āsháian Pantheon]] — Eastern religious tradition
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—Regional overview
+- [[skill-haradilng|Haradi]]—Naming tradition
+- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—Western religious tradition
+- [[affiliation-ashanpnthn|Āsháian Pantheon]]—Eastern religious tradition

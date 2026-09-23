@@ -19,7 +19,7 @@ data:
 packFolder: adventures
 ---
 
-Tensions boil beneath the surface in the coastal City of Batáren, where Provenzian rulers and the indigenous [[lore-elavendrnppl|Élavendren]] people — descendants of [[place-elavendre|Élavendre]] who settled in these borderlands centuries ago — clash over land, rights, and tradition. A hidden hand stokes the conflict to destabilize the region.
+Tensions boil beneath the surface in the coastal City of Batáren, where Provenzian rulers and the indigenous [[lore-elavendrnppl|Élavendren]] people—descendants of [[place-elavendre|Élavendre]] who settled in these borderlands centuries ago—clash over land, rights, and tradition. A hidden hand stokes the conflict to destabilize the region.
 
 ## Overview
 

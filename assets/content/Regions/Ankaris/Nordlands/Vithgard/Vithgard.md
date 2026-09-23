@@ -1,7 +1,7 @@
 ---
 tags:
   - region
-description: "The land of the Kingdom of Vithgard — the northernmost Nordmen country of ice, tundra and polar night, its sparse settlements strung along an ice-choked coast."
+description: "The land of the Kingdom of Vithgard—the northernmost Nordmen country of ice, tundra and polar night, its sparse settlements strung along an ice-choked coast."
 name:
   full: Vithgard
   aliases: []
@@ -26,12 +26,12 @@ Vithgard is the northernmost of the Nordmen kingdoms, a land of ice, tundra, and
 
 ## Character
 
-Vithgard is a land of extremes. The brief summer brings constant daylight and a frantic burst of activity — fishing, hunting, trading, and gathering supplies for the long winter ahead. The winter brings months of darkness, bitter cold, and isolation, when communities turn inward and survive on stored provisions, hunting skills, and the shared warmth of the longhouse.
+Vithgard is a land of extremes. The brief summer brings constant daylight and a frantic burst of activity—fishing, hunting, trading, and gathering supplies for the long winter ahead. The winter brings months of darkness, bitter cold, and isolation, when communities turn inward and survive on stored provisions, hunting skills, and the shared warmth of the longhouse.
 
 The people of Vithgard are renowned for their whaling and seal-hunting, skills that produce the oil, bone, blubber, and hides that form the kingdom's primary trade goods. Vithgard whale-oil is prized across the north for lamps and waterproofing, and Vithgard ivory (walrus and narwhal) commands high prices among craftsmen as far south as [[place-midhalnrgn|Mídhalión Region]].
 
 ## See Also
 
-- [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] — The kingdom that holds this land
-- [[place-nrdlndsrgn|Nordlands Region]] — The enclosing region
-- [[place-bjornstad|Bjornstad]] — The seat
+- [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—The kingdom that holds this land
+- [[place-nrdlndsrgn|Nordlands Region]]—The enclosing region
+- [[place-bjornstad|Bjornstad]]—The seat

@@ -342,7 +342,7 @@ sohl:
 
 ![[sndstlkr|Sand Stalker]]{float: top-left}
 
-Movement catches your eye — the ripple of a shadow across pale sand, gone as quickly as seen. The creature rises, and suddenly what was invisible becomes unmistakable: a lean, powerful feline silhouette against the desert heat. Its sandy-tan fur seems to shimmer and shift, making it difficult to focus upon even when you know where to look. The amber eyes fix on you with an unsettling intelligence, and you notice the tension in its body — every muscle coiled and ready. As it circles, its wide paws leave barely a trace in the sand, and you hear almost nothing despite its movement. The tail swishes once, twice, and you realize you're being assessed as potential prey.
+Movement catches your eye—the ripple of a shadow across pale sand, gone as quickly as seen. The creature rises, and suddenly what was invisible becomes unmistakable: a lean, powerful feline silhouette against the desert heat. Its sandy-tan fur seems to shimmer and shift, making it difficult to focus upon even when you know where to look. The amber eyes fix on you with an unsettling intelligence, and you notice the tension in its body—every muscle coiled and ready. As it circles, its wide paws leave barely a trace in the sand, and you hear almost nothing despite its movement. The tail swishes once, twice, and you realize you're being assessed as potential prey.
 
 # Dossier {#dossier}
 
@@ -354,11 +354,11 @@ The Sand Stalker presents a lean, muscular form built for speed and agility over
 
 ## Key Behaviors
 
-Sand Stalkers are primarily nocturnal and are most active during cool evening and night hours, sheltering during daylight in caves, rocky crevices, or deep burrows. They are solitary and territorial, with each cat maintaining exclusive hunting grounds marked by scent deposits on prominent rocks and clawed markings. They hunt small mammals, lizards, birds, and other prey items suitable for a mid-sized predator, and they will opportunistically target larger prey including humanoids if encounter permits. Sand Stalkers are intelligent and capable of learning — a cat that has successfully hunted humanoids will recognize humans as prey in future encounters. They communicate through vocalizations, scent marking, and subtle body language.
+Sand Stalkers are primarily nocturnal and are most active during cool evening and night hours, sheltering during daylight in caves, rocky crevices, or deep burrows. They are solitary and territorial, with each cat maintaining exclusive hunting grounds marked by scent deposits on prominent rocks and clawed markings. They hunt small mammals, lizards, birds, and other prey items suitable for a mid-sized predator, and they will opportunistically target larger prey including humanoids if encounter permits. Sand Stalkers are intelligent and capable of learning—a cat that has successfully hunted humanoids will recognize humans as prey in future encounters. They communicate through vocalizations, scent marking, and subtle body language.
 
 ## Combat Strategy
 
-The sand stalker's primary tactic is to approach prey silently and from unexpected direction, using stealth and terrain to close distance before attacking. The initial attack is explosive — a pounce intended to knock the target off balance and create an opening for bites and claw attacks. If the initial strike fails or the engagement turns against the cat, the stalker will retreat into darkness or terrain advantage, circling to find a new opening. The cat prefers not to engage in prolonged combat with anything that can effectively defend itself, preferring to wait for weakness or further opportunities.
+The sand stalker's primary tactic is to approach prey silently and from unexpected direction, using stealth and terrain to close distance before attacking. The initial attack is explosive—a pounce intended to knock the target off balance and create an opening for bites and claw attacks. If the initial strike fails or the engagement turns against the cat, the stalker will retreat into darkness or terrain advantage, circling to find a new opening. The cat prefers not to engage in prolonged combat with anything that can effectively defend itself, preferring to wait for weakness or further opportunities.
 
 ## Attack Methods
 

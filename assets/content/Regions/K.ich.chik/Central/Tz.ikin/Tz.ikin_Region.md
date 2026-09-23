@@ -49,6 +49,6 @@ Cacao grown in Tz'ikin's highland regions is of exceptional quality, and the cho
 
 ## See Also
 
-- [[affiliation-tzikin|Tz'ikin]] — The realm that holds this land
-- [[place-cntrlkchchk|Central K'ich'chik]] — The enclosing region
-- [[place-tzikin2|Tz'ikin]] — Seat of Tz'ikin
+- [[affiliation-tzikin|Tz'ikin]]—The realm that holds this land
+- [[place-cntrlkchchk|Central K'ich'chik]]—The enclosing region
+- [[place-tzikin2|Tz'ikin]]—Seat of Tz'ikin

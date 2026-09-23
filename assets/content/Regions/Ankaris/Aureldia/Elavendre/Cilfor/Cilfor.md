@@ -3,7 +3,7 @@ tags:
   - region
   - coastal
   - border
-description: "The northern coast of Élavendre, wrapped around Cilfor Bay — cold but temperate, rich in fish, thirty miles across the water from Vrystwald, and the kingdom's most raided shore."
+description: "The northern coast of Élavendre, wrapped around Cilfor Bay—cold but temperate, rich in fish, thirty miles across the water from Vrystwald, and the kingdom's most raided shore."
 type: place
 subType: region
 data:
@@ -22,7 +22,7 @@ packFolder: elavendre
 **Cilfor** is Élavendre's northern coast: a quarter of a million people along the southern shore of
 **[[place-cilforbay|Cilfor Bay]]**, from which the region takes its name.
 
-The climate is **cold but temperate** — grey, wet, windy, and never quite as hard as its latitude
+The climate is **cold but temperate**—gray, wet, windy, and never quite as hard as its latitude
 suggests, the sea keeping the frost off. The country behind the shore is low, boggy in places, and
 thickly wooded; the coast itself is shingle and low headland rather than the cliffs of
 [[place-glanmor|Glanmor]] to the southwest.
@@ -32,7 +32,7 @@ thickly wooded; the coast itself is shingle and low headland rather than the cli
 The bay is the region's whole strategic problem. Thirty miles of open water at the narrows is not a
 frontier; it is a crossing, and it is crossed.
 
-**[[place-vrystwald|Vrystwald]]** lies on the far shore — wild forest country held by the Varokh
+**[[place-vrystwald|Vrystwald]]** lies on the far shore—wild forest country held by the Varokh
 tribes, with large bands of **[[lore-grukarfolk|Grukar]]** ranging through it out of
 [[place-grkrhlmrgn|Grukarholm]] to its east and south. Neither is a kingdom that could invade
 Élavendre. Both raid it constantly, and Cilfor is where they land.
@@ -63,7 +63,7 @@ it before Béravel took much notice.
   Élavendre. Salt-fish and oil go south to Tirwen and out through Calypsa.
 - **Calypsan transit.** **[[affiliation-calypsa|Calypsa]]** lies some forty miles north-north-west off the
   coast, just outside the mouth of the bay, and a great deal of Élavendre's northern trade is handled
-  through it — including goods nobody wishes to declare.
+  through it—including goods nobody wishes to declare.
 - **Timber and pitch** from the coastal forest, for the shipyards.
 - **Furs**, most of which are not Élavendren. They come across the bay in small boats, traded quietly
   with Varokh who would rather deal than raid, and the trade continues in seasons when the raiding does

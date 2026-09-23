@@ -16,13 +16,17 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Less formally organised than most, and no less influential for it: the ability to command the finest food and entertainment in a region is real social power. The High Priest is chosen as much for a demonstrated ability to organise festivals and keep the temple's reputation for generosity as for spiritual knowledge.
+      Less formally organized than most, and no less influential for it: the ability to command the
+      finest food and entertainment in a region is real social power. The High Priest is chosen as
+      much for a demonstrated ability to organize festivals and keep the temple's reputation for
+      generosity as for spiritual knowledge.
     ranks:
       - level: 0
         title: Rite-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually requires — a sentence that reaches past the end of the life it is passed in.
+          Barred from the temple rites, and with them from the funerary rites every Kheperi
+          eventually requires—a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
         lore: layfaithfulrnk
@@ -32,25 +36,31 @@ data:
         title: Wab
         lore: initiaternk
         description: >-
-          "Purified One" — acolytes, many of whom never seek ordination at all and instead take up careers as chefs, brewmasters, musicians or organisers of festivals, keeping informal ties to the temple for life.
+          "Purified One"—acolytes, many of whom never seek ordination at all and instead take up
+          careers as chefs, brewmasters, musicians or organizers of festivals, keeping informal ties
+          to the temple for life.
       - level: 3
         title: Hem'Netjer
         lore: priestrnk
         description: >-
-          "Servant of the God" — ordained priests overseeing distinct parts of the temple's operations — the wine vaults, the granaries, the festival calendar.
+          "Servant of the God"—ordained priests overseeing distinct parts of the temple's
+          operations—the wine vaults, the granaries, the festival calendar.
       - level: 4
         title: Wer'Hekau
         lore: highpriestrnk
         description: >-
-          "Great of Sacred Power" — High Priest of Hâpi, chosen not only for spiritual knowledge but for demonstrated ability to organise festivals and maintain the temple's reputation for generosity and excellent food.
+          "Great of Sacred Power"—High Priest of Hâpi, chosen not only for spiritual knowledge but
+          for demonstrated ability to organize festivals and maintain the temple's reputation for
+          generosity and excellent food.
     offices:
       Keeper of the Wine Vaults: >-
         The Hem'Netjer responsible for the temple's wine.
       Keeper of the Granaries: >-
-        The Hem'Netjer responsible for the temple's stores. The great granaries anchor the grain-credit
-        economy and supply the dole given out to temple-dependents, the flood-season construction gangs and
-        the registered poor — which is less charity than statecraft: a hungry capital is a dangerous one,
-        and whoever controls the granaries holds a lever on the peace of the city.
+        The Hem'Netjer responsible for the temple's stores. The great granaries anchor the
+        grain-credit economy and supply the dole given out to temple-dependents, the flood-season
+        construction gangs and the registered poor—which is less charity than statecraft: a hungry
+        capital is a dangerous one, and whoever controls the granaries holds a lever on the peace of
+        the city.
       Keeper of the Festival Calendar: >-
         The Hem'Netjer who sets and keeps the cycle of feasts on which the cult's standing rests.
   commonSkills:

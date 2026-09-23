@@ -24,7 +24,7 @@ Iat-Hemet is the capital of [[affiliation-nomeiathem|the Nome of Iat-Hemet]] and
 
 ## See Also
 
-- [[affiliation-nomeiathem|The Nome of Iat-Hemet]] — Parent nome
-- [[affiliation-uperivrnms|The Upper River Nomes]] — Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[affiliation-sobek|Sobek]] — Patron cult
+- [[affiliation-nomeiathem|The Nome of Iat-Hemet]]—Parent nome
+- [[affiliation-uperivrnms|The Upper River Nomes]]—Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
+- [[affiliation-sobek|Sobek]]—Patron cult

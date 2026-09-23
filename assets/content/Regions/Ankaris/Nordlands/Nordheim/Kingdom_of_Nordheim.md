@@ -1,5 +1,5 @@
 ---
-description: "Vast Nordmen kingdom of the far north, dominated by Asguardian worship and seafaring tradition — realm of harsh winters, fearless raiders, and deep-rooted clan honor."
+description: "Vast Nordmen kingdom of the far north, dominated by Asguardian worship and seafaring tradition—realm of harsh winters, fearless raiders, and deep-rooted clan honor."
 type: affiliation
 name:
   full: Kingdom of Nordheim
@@ -25,7 +25,7 @@ data:
         title: Thrall
         lore: slavernk
         description: >-
-          Owned outright, owing labour rather than rent, bearing no weapon by right and having
+          Owned outright, owing labor rather than rent, bearing no weapon by right and having
           no voice at the assembly.
       - level: 2
         title: Freedman
@@ -86,7 +86,7 @@ data:
       Ármadr: Steward of a royal estate, answerable for its yield and for the king's rights
         within it.
       Féhirdir: Keeper of the king's treasure, his tribute and the silver of his hall.
-      Merkismadr: Bearer of the king's standard in battle, a post of the highest honour and
+      Merkismadr: Bearer of the king's standard in battle, a post of the highest honor and
         shortest life.
       Skald: Court poet, whose verse is the realm's memory and whose praise or scorn makes
         reputations.
@@ -129,11 +129,11 @@ The Kingdom of Nordheim holds the land of [[place-nordheim|Nordheim]]. The Nordm
 
 ## Culture and Society
 
-Nordmen society is organized around clans, each led by a jarl who commands loyalty through strength, wisdom, and generosity. The clans gather periodically at regional assemblies called _tings_, where disputes are settled, laws are proclaimed, and alliances are forged. The concept of personal honor is paramount — a Nordmen's reputation is their most valuable possession, and insults or betrayals can spark blood feuds that last generations.
+Nordmen society is organized around clans, each led by a jarl who commands loyalty through strength, wisdom, and generosity. The clans gather periodically at regional assemblies called _tings_, where disputes are settled, laws are proclaimed, and alliances are forged. The concept of personal honor is paramount—a Nordmen's reputation is their most valuable possession, and insults or betrayals can spark blood feuds that last generations.
 
 The Nordmen are master shipwrights and sailors. Their longships are marvels of engineering: shallow-drafted for navigating rivers and coastlines, yet seaworthy enough to cross open ocean. Raiding is a respected profession, though many Nordmen are also traders, carrying amber, furs, and whale ivory to the markets of [[place-midhalnrgn|Mídhalión Region]].
 
-Women in Nordmen society hold more autonomy than in many other Ankarian cultures. They manage estates while men are away on voyages, can own property, and may initiate divorce. Shield-maidens — women who take up arms — are uncommon but not unheard of, and they are respected warriors.
+Women in Nordmen society hold more autonomy than in many other Ankarian cultures. They manage estates while men are away on voyages, can own property, and may initiate divorce. Shield-maidens—women who take up arms—are uncommon but not unheard of, and they are respected warriors.
 
 ## Religion
 
@@ -143,13 +143,13 @@ Worship is practical and personal. Nordmen make offerings at standing stones, sa
 
 ## Magic
 
-Magic in Nordheim takes two primary forms. _Seidr_ is a shamanistic tradition practiced by the _völvur_, involving trance states, spirit journeys, and divination. It is powerful but socially complex — while respected in women, it is considered _ergi_ (unmanly) when practiced by men, though some male practitioners defy this taboo. _Rúnagaldr_ is the craft of inscribing runes with magical intent, practiced by specialists called _rúnameistari_. This tradition is more widely accepted across genders and is closely tied to the worship of Ódinn, who is said to have sacrificed himself to gain the knowledge of the runes.
+Magic in Nordheim takes two primary forms. _Seidr_ is a shamanistic tradition practiced by the _völvur_, involving trance states, spirit journeys, and divination. It is powerful but socially complex—while respected in women, it is considered _ergi_ (unmanly) when practiced by men, though some male practitioners defy this taboo. _Rúnagaldr_ is the craft of inscribing runes with magical intent, practiced by specialists called _rúnameistari_. This tradition is more widely accepted across genders and is closely tied to the worship of Ódinn, who is said to have sacrificed himself to gain the knowledge of the runes.
 
 The [[affiliation-ordoarcanis|Ordo Arcanis]] has virtually no presence in Nordheim. The Nordmen distrust foreign institutions and have their own magical traditions that predate the Ordo by centuries.
 
 ## Relations
 
-Nordheim's relationship with the rest of Ankaris is defined by raiding, trade, and migration. Nordmen longships have struck as far south as the [[place-vylarianse|Vylarian Sea]], and Nordmen mercenaries serve in armies across the continent. The Nordmen have a complex relationship with their eastern neighbors in [[place-grkrhlmrgn|Grukarholm Region]] — the two peoples share the harsh northern climate but are culturally distinct and often hostile. To the south, the forests of [[place-vrystwald|Vrystwald]] represent a contested frontier where Nordmen settlers and Varokh tribespeople compete for territory.
+Nordheim's relationship with the rest of Ankaris is defined by raiding, trade, and migration. Nordmen longships have struck as far south as the [[place-vylarianse|Vylarian Sea]], and Nordmen mercenaries serve in armies across the continent. The Nordmen have a complex relationship with their eastern neighbors in [[place-grkrhlmrgn|Grukarholm Region]]—the two peoples share the harsh northern climate but are culturally distinct and often hostile. To the south, the forests of [[place-vrystwald|Vrystwald]] represent a contested frontier where Nordmen settlers and Varokh tribespeople compete for territory.
 
 ## Notable Features
 
@@ -160,13 +160,13 @@ Nordheim's relationship with the rest of Ankaris is defined by raiding, trade, a
 
 ## Commerce and Currency
 
-Kingdom of Nordheim uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) as its _de facto_ currency for transactions conducted in money — no native coin exists, and no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate in the Nordlands. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[lore-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[lore-kinhalcrdt|hall credit]] customs that have no relationship with the Vylarian banking system.
+Kingdom of Nordheim uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) as its _de facto_ currency for transactions conducted in money—no native coin exists, and no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate in the Nordlands. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[lore-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[lore-kinhalcrdt|hall credit]] customs that have no relationship with the Vylarian banking system.
 
 ## See Also
 
-- [[place-nordheim|Nordheim]] — The land the kingdom holds
-- [[place-grkrhlmrgn|Grukarhölm]] — Eastern neighbors, the Grukar tribes
-- [[place-vrystwald|Vrystwald]] — Southern frontier
-- [[affiliation-asguardian|Asguardian Pantheon]] — The Nordmen pantheon
-- [[skill-nordmalng|Nordmal]] — Naming conventions
-- [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] — Sister kingdoms
+- [[place-nordheim|Nordheim]]—The land the kingdom holds
+- [[place-grkrhlmrgn|Grukarhölm]]—Eastern neighbors, the Grukar tribes
+- [[place-vrystwald|Vrystwald]]—Southern frontier
+- [[affiliation-asguardian|Asguardian Pantheon]]—The Nordmen pantheon
+- [[skill-nordmalng|Nordmal]]—Naming conventions
+- [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—Sister kingdoms

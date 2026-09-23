@@ -36,6 +36,6 @@ Ha’ Ki’ahkul is less cosmopolitan than [[place-hakukul|Ha’ K’ukul]], mor
 
 ## See Also
 
-- [[affiliation-balamtzaku|Ba’alam Tza’ku]] — The highland region
-- [[place-hakukul|Ha’ K’ukul]] — The trade hub to the south
-- [[affiliation-itzanpnthn|Itzáni]] — The priesthood that controls tribute
+- [[affiliation-balamtzaku|Ba’alam Tza’ku]]—The highland region
+- [[place-hakukul|Ha’ K’ukul]]—The trade hub to the south
+- [[affiliation-itzanpnthn|Itzáni]]—The priesthood that controls tribute

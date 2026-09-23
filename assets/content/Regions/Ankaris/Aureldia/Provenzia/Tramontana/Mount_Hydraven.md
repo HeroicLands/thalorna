@@ -4,7 +4,7 @@ tags:
   - sacred
   - inland
 
-description: "The great peak of Provènzia's northern mountains and the source of its waters — sacred to the Áelendan, who permit passage to shepherds and pilgrims and to no one who comes with instruments."
+description: "The great peak of Provènzia's northern mountains and the source of its waters—sacred to the Áelendan, who permit passage to shepherds and pilgrims and to no one who comes with instruments."
 type: place
 subType: feature
 data:
@@ -34,8 +34,7 @@ The mountain is [[affiliation-aelndntrbs|Áelendan]] country, and more than that
 places the tribes hold sacred, and the one they are least flexible about.
 
 They do not forbid the mountain. Shepherds use the lower pastures by arrangements older than the
-kingdom, and pilgrims who come the customary way are let alone. What is not tolerated is **survey** —
-anyone arriving with instruments, or with an interest in the springs themselves, or with authority
+kingdom, and pilgrims who come the customary way are let alone. What is not tolerated is **survey**—anyone arriving with instruments, or with an interest in the springs themselves, or with authority
 from a crown. Three separate Provenzian attempts to map the watershed have been turned back without a
 blow struck and without any possibility of misunderstanding.
 

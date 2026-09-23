@@ -2,7 +2,7 @@
 tags:
   - village
   - inland
-description: "The Hvarn winter house under the Eastern Reach — one long settlement where the whole people gathers for the closed months and the council sits."
+description: "The Hvarn winter house under the Eastern Reach—one long settlement where the whole people gathers for the closed months and the council sits."
 type: place
 subType: settlement
 data:

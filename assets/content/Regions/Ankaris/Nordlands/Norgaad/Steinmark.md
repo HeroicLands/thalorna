@@ -29,5 +29,5 @@ The settlement sits at the intersection of power and commerce, close enough to t
 
 ## See Also
 
-- [[affiliation-kingdmnrgd|Kingdom of Norgaad]] — Nordmen seafaring kingdom
-- [[affiliation-asguardian|Asguardian Pantheon]] — Gods of the north
+- [[affiliation-kingdmnrgd|Kingdom of Norgaad]]—Nordmen seafaring kingdom
+- [[affiliation-asguardian|Asguardian Pantheon]]—Gods of the north

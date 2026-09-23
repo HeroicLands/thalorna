@@ -569,7 +569,7 @@ Haunted by her past scandal, overly cautious about reputation.
 
 ### Motivation
 
-Émyna's driving force is the search that defines her life — a quest that shapes every decision she makes and every risk she takes.
+Émyna's driving force is the search that defines her life—a quest that shapes every decision she makes and every risk she takes.
 
 ### Strengths
 
@@ -593,12 +593,12 @@ Former suitor who resents her independence.
 
 ## Plot Hooks
 
-1. **The Courtesan's Dilemma** — Émyna faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **The Courtesan's Dilemma**—Émyna faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 
-2. **Old Grudges** — Former suitor who resents her independence. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges**—Former suitor who resents her independence. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** — Something from Émyna's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Émyna's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds** — Political changes in Élavendre threaten to upend the social order that Émyna depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Émyna depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** — A chance encounter offers Émyna the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Émyna the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

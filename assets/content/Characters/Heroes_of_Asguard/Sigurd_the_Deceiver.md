@@ -522,7 +522,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Sigurd stands 5'9" with a medium, unremarkable frame, weighing about 170 pounds. His fair skin is neither notably pale nor tan, and his brown hair is cut in whatever style serves his current disguise — it has been every length and color at some point. His blue eyes are his one truly distinctive feature, sharp and quick, constantly cataloging exits, valuables, and weaknesses, though he has learned to mask their intensity behind a practiced look of dull pleasantness. His features are aggressively ordinary — a face that blends into any crowd, with no scars, no memorable marks, nothing to catch the eye or linger in memory, which is precisely the point. Sigurd dresses to fit whatever role he is playing; his real clothing, when he is being himself, tends toward dark practical garments with many hidden pockets. He carries no visible weapons, though a slim knife is always somewhere on his person.
+Sigurd stands 5'9" with a medium, unremarkable frame, weighing about 170 pounds. His fair skin is neither notably pale nor tan, and his brown hair is cut in whatever style serves his current disguise—it has been every length and color at some point. His blue eyes are his one truly distinctive feature, sharp and quick, constantly cataloging exits, valuables, and weaknesses, though he has learned to mask their intensity behind a practiced look of dull pleasantness. His features are aggressively ordinary—a face that blends into any crowd, with no scars, no memorable marks, nothing to catch the eye or linger in memory, which is precisely the point. Sigurd dresses to fit whatever role he is playing; his real clothing, when he is being himself, tends toward dark practical garments with many hidden pockets. He carries no visible weapons, though a slim knife is always somewhere on his person.
 
 # Dossier {#dossier}
 
@@ -534,7 +534,7 @@ The saga of Sigurd the Deceiver tells how he exploited the arrogance and greed o
 
 ### Personality
 
-Sigurd is charming, quick-witted, and completely amoral. He views the world as a game where the clever eat and the foolish starve, and he intends to feast. He can become anyone at a moment's notice — a weeping beggar, a confident noble, a devout priest — and switch between personas with unsettling ease. He is genuinely funny and uses humor as both a weapon and a shield. Despite his selfishness, he has a soft spot for orphans and street children, quietly funding several shelters with his ill-gotten gains, though he would deny it vigorously if confronted.
+Sigurd is charming, quick-witted, and completely amoral. He views the world as a game where the clever eat and the foolish starve, and he intends to feast. He can become anyone at a moment's notice—a weeping beggar, a confident noble, a devout priest—and switch between personas with unsettling ease. He is genuinely funny and uses humor as both a weapon and a shield. Despite his selfishness, he has a soft spot for orphans and street children, quietly funding several shelters with his ill-gotten gains, though he would deny it vigorously if confronted.
 
 ### Motivation
 
@@ -550,20 +550,20 @@ Sigurd is a master of disguise, forgery, and social engineering. He can talk his
 
 ### Patrons
 
-**The Underworld Guild of Skarnholme** — An organized crime network that uses Sigurd's talents for high-profile heists and cons in exchange for a share of the profits and protection from the law.
+**The Underworld Guild of Skarnholme**—An organized crime network that uses Sigurd's talents for high-profile heists and cons in exchange for a share of the profits and protection from the law.
 
-**Lôki's Whisper** — The god himself takes an intermittent interest in Sigurd, providing subtle guidance and occasional divine luck when the trickster is in particularly entertaining trouble.
+**Lôki's Whisper**—The god himself takes an intermittent interest in Sigurd, providing subtle guidance and occasional divine luck when the trickster is in particularly entertaining trouble.
 
 ### Enemies
 
-**Jarl Vidar's Heirs** — The humiliated jarl's family has hired a relentless bounty hunter to track Sigurd down. They want both their wealth returned and Sigurd's head.
+**Jarl Vidar's Heirs**—The humiliated jarl's family has hired a relentless bounty hunter to track Sigurd down. They want both their wealth returned and Sigurd's head.
 
-**Captain Halvard of the City Watch** — A dogged lawman who has been pursuing Sigurd for years and has come closer to catching him than anyone else.
+**Captain Halvard of the City Watch**—A dogged lawman who has been pursuing Sigurd for years and has come closer to catching him than anyone else.
 
 ## Plot Hooks
 
-1. **The Impossible Heist** — Sigurd has been hired to steal an artifact from a vault considered impenetrable. The job is a setup — but for whom?
+1. **The Impossible Heist**—Sigurd has been hired to steal an artifact from a vault considered impenetrable. The job is a setup—but for whom?
 
-2. **The Honest Job** — Sigurd is forced to work a legitimate job when his cover requires it, and he discovers he's actually good at it. When his employers are threatened, he must decide whether to protect them or save himself.
+2. **The Honest Job**—Sigurd is forced to work a legitimate job when his cover requires it, and he discovers he's actually good at it. When his employers are threatened, he must decide whether to protect them or save himself.
 
-3. **The Orphan's Debt** — A child from one of the shelters Sigurd secretly funds has been kidnapped by a crime lord who knows Sigurd's secret. The price for the child's return is a job that could get Sigurd killed.
+3. **The Orphan's Debt**—A child from one of the shelters Sigurd secretly funds has been kidnapped by a crime lord who knows Sigurd's secret. The price for the child's return is a job that could get Sigurd killed.

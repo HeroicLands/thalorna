@@ -277,15 +277,15 @@ The stone scrapes before you see it. A wall of chitinous armor pushes out of the
 
 # Dossier {#dossier}
 
-Earthchargers are apex predators of caverns and underground passages — heavily armored arthropods driven by ancient hunger and territorial absolutism. They are living battering rams of the deep places, capable of breaking through brush, wooden doors, weakened stonework, and many fortified barricades with patient, unstoppable force, though intact dressed masonry will still hold them out. Adventurers encounter them in deep caverns, stone-wrought labyrinths, and the wider underground passages where their bulk can pass.
+Earthchargers are apex predators of caverns and underground passages—heavily armored arthropods driven by ancient hunger and territorial absolutism. They are living battering rams of the deep places, capable of breaking through brush, wooden doors, weakened stonework, and many fortified barricades with patient, unstoppable force, though intact dressed masonry will still hold them out. Adventurers encounter them in deep caverns, stone-wrought labyrinths, and the wider underground passages where their bulk can pass.
 
 ## Presentation
 
-The Earthcharger is a massive beetle, ten to twelve feet in length and weighing eight hundred to fifteen hundred pounds — comparable in mass to a large draft ox, but compressed into the broader, lower silhouette of an arthropod. Its carapace is composed of multiple overlapping plates of black chitin flecked with iridescent copper and deep blue. The shell is scarred, cracked in places, repaired through heavy use. Its mandibles are enormous — each as long as a man's arm and lined with serrated cutting edges capable of shearing through limbs. It has six thick, columnar legs that support its weight on stone with no apparent strain; each foot is a complex structure of hard points and softer pads. Long antennae extend from its head, constantly twitching and sensing. The creature moves with slow, relentless determination, the scrape of chitin against stone carrying clearly through the surrounding rock and the impact of each step felt as a faint tremor underfoot.
+The Earthcharger is a massive beetle, ten to twelve feet in length and weighing eight hundred to fifteen hundred pounds—comparable in mass to a large draft ox, but compressed into the broader, lower silhouette of an arthropod. Its carapace is composed of multiple overlapping plates of black chitin flecked with iridescent copper and deep blue. The shell is scarred, cracked in places, repaired through heavy use. Its mandibles are enormous—each as long as a man's arm and lined with serrated cutting edges capable of shearing through limbs. It has six thick, columnar legs that support its weight on stone with no apparent strain; each foot is a complex structure of hard points and softer pads. Long antennae extend from its head, constantly twitching and sensing. The creature moves with slow, relentless determination, the scrape of chitin against stone carrying clearly through the surrounding rock and the impact of each step felt as a faint tremor underfoot.
 
 ## Key Behaviors
 
-The Earthcharger is a solitary, hyperterritorial creature that claims a section of cavern or tunnel network as its exclusive domain. It dwells in deep passages where few predators challenge it, emerging periodically to hunt or expand its territory through violent assertion. The creature exhibits intelligent recognition of boundaries and threats; it remembers the locations of previous conflicts and will actively seek to eliminate rivals and threats. Despite its bulk, it is capable of long-duration pursuit when angered. It feeds infrequently — when it does hunt, it consumes large quantities. Between hunts, it remains dormant for extended periods, barely moving. It shows no sign of social behavior or family structure.
+The Earthcharger is a solitary, hyperterritorial creature that claims a section of cavern or tunnel network as its exclusive domain. It dwells in deep passages where few predators challenge it, emerging periodically to hunt or expand its territory through violent assertion. The creature exhibits intelligent recognition of boundaries and threats; it remembers the locations of previous conflicts and will actively seek to eliminate rivals and threats. Despite its bulk, it is capable of long-duration pursuit when angered. It feeds infrequently—when it does hunt, it consumes large quantities. Between hunts, it remains dormant for extended periods, barely moving. It shows no sign of social behavior or family structure.
 
 ## Combat Strategy
 
@@ -309,7 +309,7 @@ The creature uses its massive feet to crush opponents beneath it. After engaging
 
 ### Heavy Chitin
 
-The Earthcharger's natural armor is very tough. Cuts and thrusts against the carapace are largely deflected or absorbed; only well-placed strikes against the joints between plates land cleanly. Blunt force — heavy hammers, falling rock, siege weaponry — is more effective but still significantly resisted by the layered plates.
+The Earthcharger's natural armor is very tough. Cuts and thrusts against the carapace are largely deflected or absorbed; only well-placed strikes against the joints between plates land cleanly. Blunt force—heavy hammers, falling rock, siege weaponry—is more effective but still significantly resisted by the layered plates.
 
 ### Territorial Aggression
 
@@ -321,7 +321,7 @@ The creature's combination of mass and chitin allows it to shoulder through wood
 
 ## Additional Information
 
-Fire-based attacks are notably effective against the Earthcharger, as heat can damage and weaken its chitin, soften the joints between armor plates, and cause pain that affects its behavior. Explosive forces similarly exploit the joints between carapace segments. The Earthcharger is slow over open ground and can be outdistanced at a sustained run, but it is a tireless pursuer over distance and most parties cannot easily climb out of its path; evasion depends on finding terrain too narrow for it to pass through, vertical surfaces it cannot climb, or water deep enough to break its footing. Earthchargers leave distinctive territorial markings — gouged ground, scored walls, pheromone trails — that indicate their presence and boundaries.
+Fire-based attacks are notably effective against the Earthcharger, as heat can damage and weaken its chitin, soften the joints between armor plates, and cause pain that affects its behavior. Explosive forces similarly exploit the joints between carapace segments. The Earthcharger is slow over open ground and can be outdistanced at a sustained run, but it is a tireless pursuer over distance and most parties cannot easily climb out of its path; evasion depends on finding terrain too narrow for it to pass through, vertical surfaces it cannot climb, or water deep enough to break its footing. Earthchargers leave distinctive territorial markings—gouged ground, scored walls, pheromone trails—that indicate their presence and boundaries.
 
 ## Attributes
 

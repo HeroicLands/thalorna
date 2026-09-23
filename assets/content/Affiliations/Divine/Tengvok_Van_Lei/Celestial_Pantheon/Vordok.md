@@ -43,8 +43,8 @@ data:
         title: Copyist
         lore: apprenticernk
         description: >-
-          Under training in a temple — copying forms, learning the seals and the calendrical
-          schedules — and not yet permitted to file anything on another's behalf.
+          Under training in a temple—copying forms, learning the seals and the calendrical
+          schedules—and not yet permitted to file anything on another's behalf.
       - level: 3
         title: Clerk
         lore: clerkrnk
@@ -123,28 +123,28 @@ data:
 packFolder: celestialpantheon
 ---
 
-## Vōrdōk — The Minister of Roads
+## Vōrdōk—The Minister of Roads
 
 - **Bureau:** Dōk Sëi, The Bureau of Passage
 - **Domain:** Transit
 - **Parent:** [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]]
 
-Dōk Sëi administers movement between classified regions — which, in a cosmos where a boundary is a
+Dōk Sëi administers movement between classified regions—which, in a cosmos where a boundary is a
 real administrative object, means it administers the boundaries themselves. Its Dōkzhīr keep the
 waymarks that say where one classification ends and the next begins.
 
-Travellers and merchants petition it for safe passage, and its filings are the cheapest routine
+Travelers and merchants petition it for safe passage, and its filings are the cheapest routine
 business in the empire because so many are made. It is also the bureau most damaged by the
 Yokveng's Gap-Makers: every forged boundary is a waymark that no longer marks anything, and Dōk Sëi
 is the office that has to discover this, usually when somebody fails to arrive.
 
 ### Lesser Spirits
 
-- **Dōkzhīr** — Waymark Spirits, who maintain the boundaries between classified regions.
-- **Lüngvōr** — River Passage Spirits, who govern safe transit on waterways.
+- **Dōkzhīr**—Waymark Spirits, who maintain the boundaries between classified regions.
+- **Lüngvōr**—River Passage Spirits, who govern safe transit on waterways.
 
 ### See Also
 
-- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — the Celestial Bureaucracy this bureau belongs to
-- [[affiliation-tanvurempr|Empire of Tānvür]] — the mortal realm it administers
-- [[skill-tngthkscrpt|Tëng Thōk Script]] — the writing every petition is made in
+- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]]—the Celestial Bureaucracy this bureau belongs to
+- [[affiliation-tanvurempr|Empire of Tānvür]]—the mortal realm it administers
+- [[skill-tngthkscrpt|Tëng Thōk Script]]—the writing every petition is made in

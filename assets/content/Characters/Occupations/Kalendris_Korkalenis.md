@@ -594,12 +594,12 @@ None; well-liked within her community.
 
 ## Plot Hooks
 
-1. **The Clothier's Dilemma** — Kàlendrîs faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
+1. **The Clothier's Dilemma**—Kàlendrîs faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
 
-2. **Old Grudges** — None; well-liked within her community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges**—None; well-liked within her community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** — Something from Kàlendrîs's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Kàlendrîs's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds** — Political changes in Vylaria threaten to upend the social order that Kàlendrîs depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Kàlendrîs depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** — A chance encounter offers Kàlendrîs the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Kàlendrîs the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

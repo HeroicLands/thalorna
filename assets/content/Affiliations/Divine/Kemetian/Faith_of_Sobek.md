@@ -23,8 +23,8 @@ data:
         title: Rite-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually
-          requires — a sentence that reaches past the end of the life it is passed in.
+          Barred from the temple rites, and with them from the funerary rites every Kheperi
+          eventually requires—a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
         lore: layfaithfulrnk
@@ -34,28 +34,29 @@ data:
         title: Wab
         lore: initiaternk
         description: >-
-          "Purified One" — acolytes in the long temple education, observing the strict dietary, behavioural
-          and hygiene codes the rank is named for.
+          "Purified One"—acolytes in the long temple education, observing the strict dietary,
+          behavioral and hygiene codes the rank is named for.
       - level: 3
         title: Hem'Netjer
         lore: priestrnk
         description: >-
-          "Servant of the God" — the ordained priesthood and the working body of the temple.
+          "Servant of the God"—the ordained priesthood and the working body of the temple.
       - level: 4
         title: Wer'Hekau
         lore: highpriestrnk
         description: >-
-          "Great of Sacred Power" — the High Priest or High Priestess, elevated from among the senior
-          Hem'Netjer. A nome god's Wer'Hekau carries real weight inside the nome and very little outside it.
+          "Great of Sacred Power"—the High Priest or High Priestess, elevated from among the senior
+          Hem'Netjer. A nome god's Wer'Hekau carries real weight inside the nome and very little
+          outside it.
     offices:
       Priest of the River-Beast Cult: >-
         Keeps the cult in the eastern marsh, where the crocodile is venerated and the river-beast hunters
         live off it in the same breath.
       Sanctioner of the Cull: >-
-        The rite that permits the killing of a beast sacred to the god. Per'Nuw's cullers answer when
-        crocodiles threaten the villages along the Taméresh, and the guild's own doctrine holds that
-        wantonness in the killing offends the gods as well as the imperial order — so the cull is a
-        religious act before it is a commercial one.
+        The rite that permits the killing of a beast sacred to the god. Per'Nuw's cullers answer
+        when crocodiles threaten the villages along the Taméresh, and the guild's own doctrine holds
+        that wantonness in the killing offends the gods as well as the imperial order—so the cull is
+        a religious act before it is a commercial one.
   commonSkills:
     - sobek
     - srvl

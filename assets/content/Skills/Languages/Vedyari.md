@@ -4,7 +4,7 @@ name:
   full: Vedyari Language
   aliases:
     - Vedyari
-description: "The language of the Vedyara city-states — a family in its own right, whose Classical register stands apart from every spoken vernacular."
+description: "The language of the Vedyara city-states—a family in its own right, whose Classical register stands apart from every spoken vernacular."
 shortcode: vedyarlng
 type: skill
 subType: language
@@ -29,7 +29,7 @@ Vedyari is a tongue of the Vedyari (isolate) family. Fluency measures the sophis
 
 ## Overview
 
-Vedyari is the primary tongue of the [[place-vedyarargn|City-States of Vedyara]]. A language of considerable antiquity, it has evolved across centuries into distinct classical and vernacular forms. Classical Vedyari—used in sacred texts, legal documents, and formal ceremonies—differs markedly from the spoken dialects of common discourse. The language carries weight and complexity, reflecting a civilization concerned with precision, ritual, and philosophical inquiry.
+Vedyari is the primary tongue of the [[place-vedyarargn|City-States of Vedyara]]. It is a language of considerable antiquity, and it has parted across the centuries into a classical and a vernacular form. Classical Vedyari serves the sacred texts, the legal documents and the formal ceremonies, and differs markedly from the spoken dialects of common discourse. It is a weighty and complex tongue, and the civilization that speaks it prizes precision, ritual and philosophical inquiry.
 
 Vedyari speakers are found throughout the city-states and in trading communities across the eastern world. The language has proven remarkably durable, maintaining grammatical coherence even as phonological shifts have created regional variation.
 
@@ -108,13 +108,13 @@ Classical Vedyari follows a **Subject-Object-Verb (SOV)** order in main clauses,
 
 **Demotic Cursive:** A more flowing, connected variant has developed for administrative and mercantile use, reducing the syllabic inventory to roughly 36 core forms with additional ligatures.
 
-**Literacy:** Formal education in Classical Vedyari is the province of the priesthood, professional scribes, and perhaps 20-35% of the nobility. Even in the wealthiest city-states, the general population is overwhelmingly non-literate; merchants and guildsmen possess functional literacy at best — enough to recognize trade marks and numerals — and rely on scribes for contracts and record-keeping. In hinterland regions, literacy is virtually nonexistent outside the local temple. The mercantile caste has driven adoption of simplified script variants, but these are used by hired scribes rather than merchants themselves.
+**Literacy:** Formal education in Classical Vedyari is the province of the priesthood, professional scribes, and perhaps 20-35% of the nobility. Even in the wealthiest city-states, the general population is overwhelmingly non-literate; merchants and guildsmen possess functional literacy at best—enough to recognize trade marks and numerals—and rely on scribes for contracts and record-keeping. In hinterland regions, literacy is virtually nonexistent outside the local temple. The mercantile caste has driven adoption of simplified script variants, but these are used by hired scribes rather than merchants themselves.
 
 ## Historical Development
 
 ### Proto-Vedyari
 
-Evidence from archaic ritual texts and etymological analysis suggests Vedyari's roots lie in an isolate language family, without clear external relations. Some scholars propose remote connections to languages of the far east (_Tānvüri_) and southwest (_Kheperi_), but these remain speculative.
+Vedyari's roots lie in an isolate family with no clear external relations, on the evidence of the archaic ritual texts and the etymologies. Some scholars propose remote connections to the tongues of the far east (_Tānvüri_) and the southwest (_Kheperi_). Nobody has shown one.
 
 ### Classical Period (Age of Kingdoms)
 
@@ -154,11 +154,11 @@ Classical Vedyari remains largely frozen in literature and formal address, but v
 
 ## Sample Phrases
 
-1. **Àgaraṇa dhûlîpati, vandîkaṇa** — _Reverential greeting; "Honored elder, I show respect"_
-2. **Vedyaram ṭîvayu, tharâjîsûm** — _Formal statement of origin; "I dwell in Vedyaram, by birthright"_
-3. **Bhaktiṛ ushṭâmi dûlîthara** — _Expression of devotion; "I hold devotion as my highest path"_
-4. **Vastuṇa karmâṭa vânîsâ?** — _Mercantile inquiry; "May the transaction bring prosperity?"_
-5. **Ritûṭa samârvâṇa ushṭî** — _Ritual formula; "The observance is offered to the sacred order"_
+1. **Àgaraṇa dhûlîpati, vandîkaṇa**—_Reverential greeting; "Honored elder, I show respect"_
+2. **Vedyaram ṭîvayu, tharâjîsûm**—_Formal statement of origin; "I dwell in Vedyaram, by birthright"_
+3. **Bhaktiṛ ushṭâmi dûlîthara**—_Expression of devotion; "I hold devotion as my highest path"_
+4. **Vastuṇa karmâṭa vânîsâ?**—_Mercantile inquiry; "May the transaction bring prosperity?"_
+5. **Ritûṭa samârvâṇa ushṭî**—_Ritual formula; "The observance is offered to the sacred order"_
 
 ## Related Languages
 
@@ -172,7 +172,7 @@ While Vedyari remains an isolate, linguistic diffusion from neighboring regions 
 
 ### Cultural Significance
 
-Vedyari names are cosmologically and philosophically charged. The choice of a personal name reflects family lineage, spiritual aspiration, and social position. Names frequently incorporate elements drawn from mythology, virtue terms, or celestial bodies, binding the individual to the metaphysical order.
+Vedyari names are cosmologically and philosophically charged. A personal name states the family lineage, the spiritual aspiration and the social position of the person who carries it. Names commonly take elements from mythology, from virtue terms or from the celestial bodies, and bind the individual to the metaphysical order.
 
 ### Naming Patterns
 

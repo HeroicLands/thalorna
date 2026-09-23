@@ -36,7 +36,7 @@ Ha’ K’ukul’s population is ethnically and culturally mixed, drawing people
 
 ## See Also
 
-- [[affiliation-balamtzaku|Ba’alam Tza’ku]] — The highland region
-- [[place-hakiahkul|Ha’ Ki’ahkul]] — The volcanic city to the north
-- [[place-tzalamha|Tz’alam Ha’]] — The coastal city downriver
-- [[place-kchchkcntnnt|K’ich’chik]] — The continent
+- [[affiliation-balamtzaku|Ba’alam Tza’ku]]—The highland region
+- [[place-hakiahkul|Ha’ Ki’ahkul]]—The volcanic city to the north
+- [[place-tzalamha|Tz’alam Ha’]]—The coastal city downriver
+- [[place-kchchkcntnnt|K’ich’chik]]—The continent

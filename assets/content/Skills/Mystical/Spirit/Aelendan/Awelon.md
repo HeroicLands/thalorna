@@ -2,7 +2,7 @@
 tags:
   - first-gods
   - spirit-power
-description: "Standing with Awelon, the West Wind — what this allied Kindred is met, asked and bargained with."
+description: "Standing with Awelon, the West Wind—what this allied Kindred is met, asked and bargained with."
 type: skill
 subType: mystical
 shortcode: awelonsprt
@@ -24,4 +24,4 @@ sohl:
 packFolder: spiritskillsaelendan
 ---
 
-See [[lore-awelonspr|Awelon, the West Wind]] — weather-kin of [[lore-thekindred|the Kindred]], met through [[affiliation-theoldway|the Old Way]].
+See [[lore-awelonspr|Awelon, the West Wind]]—weather-kin of [[lore-thekindred|the Kindred]], met through [[affiliation-theoldway|the Old Way]].

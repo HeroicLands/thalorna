@@ -29,6 +29,6 @@ The spiritual life of Tahrodan centers upon the Āsháian pantheon, with major t
 
 ## See Also
 
-- [[affiliation-sultntmrdd|Sultanate of Amradad]] — Regional overview
-- [[skill-dunharlng|Dunhari]] — Naming tradition
-- [[affiliation-ashanpnthn|Āsháian Pantheon]] — Religious tradition
+- [[affiliation-sultntmrdd|Sultanate of Amradad]]—Regional overview
+- [[skill-dunharlng|Dunhari]]—Naming tradition
+- [[affiliation-ashanpnthn|Āsháian Pantheon]]—Religious tradition

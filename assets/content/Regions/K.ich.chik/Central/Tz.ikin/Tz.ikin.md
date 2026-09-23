@@ -1,7 +1,7 @@
 ---
 tags:
   - polity
-description: River-bound jungle realm of tepui-shrouded city-states and priest-navigators — the Land of Birds, source of K'ich'chik's rarest luxuries.
+description: River-bound jungle realm of tepui-shrouded city-states and priest-navigators—the Land of Birds, source of K'ich'chik's rarest luxuries.
 name:
   full: Tz'ikin
   aliases: []
@@ -28,19 +28,19 @@ data:
         title: Captive
         lore: slavernk
         description: >-
-          Taken in war and held for labour or for the altar, with no standing and, commonly,
+          Taken in war and held for labor or for the altar, with no standing and, commonly,
           no long future.
       - level: 2
         title: Commoner
         lore: commonerrnk
         description: >-
-          Working the milpa and owing labour on the temple platforms and causeways, and tribute
+          Working the milpa and owing labor on the temple platforms and causeways, and tribute
           in maize, cloth and cacao.
       - level: 3
         title: Craftsman
         lore: journeymanrnk
         description: >-
-          Of the skilled trades — potters, weavers, feather-workers, stone-cutters — attached
+          Of the skilled trades—potters, weavers, feather-workers, stone-cutters—attached
           to a lord's household or a temple.
       - level: 4
         title: Warrior
@@ -62,7 +62,7 @@ data:
         title: Sahal
         lore: greatlordrnk
         description: >-
-          A subordinate lord holding a lesser centre for the k'uhul ajaw, and the usual rank
+          A subordinate lord holding a lesser center for the k'uhul ajaw, and the usual rank
           of a conquered city's ruler.
       - level: 8
         title: K'uhul Ajaw
@@ -77,7 +77,7 @@ data:
       Ix Ajaw: >-
         Royal lady of the city, of a lineage recorded and married for, and a ruler in her
         own right where the line requires it.
-      Sahal: Subordinate lord holding a lesser centre in the Holy Lord's name.
+      Sahal: Subordinate lord holding a lesser center in the Holy Lord's name.
       Ajaw: Noble lord of the city, holding land, dependents and a voice at court.
       Ah K'in: Priest of the sun and keeper of the count of days, who fixes every auspicious
         hour.
@@ -89,7 +89,7 @@ data:
       Ah Kulel: Deputy and herald of a lord, who carries his word and is answered as if it
         were his.
       Ah Ppolom: >-
-        Master merchant of the long-distance trade in cacao, salt, obsidian and jade — and
+        Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and
         a lord's eyes abroad.
       Ballcourt Keeper: >-
         Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice
@@ -121,7 +121,7 @@ Tz'ikin's political landscape is quite distinct from that of the central heartla
 
 The indigenous populations of Tz'ikin—peoples who have inhabited the region since before the rise of the [[affiliation-itzanpnthn|Itzáni]] faith—have been only partially incorporated into the K'ich'chik world. Some have adopted Itzáni practices and been granted positions of authority within the tributary system; others maintain semi-autonomy, engaging in trade with K'ich'chik merchants while preserving their own spiritual practices and leadership structures. This diversity of governance is a source of both instability and resilience. Tz'ikin cannot be easily conquered by any single northern power, but it also cannot be relied upon as a stable tributary; its allegiances are negotiated annually through trade agreements and the exchange of gifts and prestige goods.
 
-The Ch'um Ix'lan extends into Tz'ikin only along the major river routes, where priesthood-maintained way-stations relay messages between the river settlements and back toward [[affiliation-kankul|K'ankul]] and [[affiliation-balamkul|Balamkul]]. Messages from Balamkul reach Tz'ikin's principal cities in three to four days, routing through K'ankul's coastal network before transitioning to river relay. In the deep interior, beyond the river settlements, the Speaking Road does not reach — communication relies on river canoe and the goodwill of local communities, and the priesthood's informational monopoly weakens accordingly.
+The Ch'um Ix'lan extends into Tz'ikin only along the major river routes, where priesthood-maintained way-stations relay messages between the river settlements and back toward [[affiliation-kankul|K'ankul]] and [[affiliation-balamkul|Balamkul]]. Messages from Balamkul reach Tz'ikin's principal cities in three to four days, routing through K'ankul's coastal network before transitioning to river relay. In the deep interior, beyond the river settlements, the Speaking Road does not reach—communication relies on river canoe and the goodwill of local communities, and the priesthood's informational monopoly weakens accordingly.
 
 The priesthood in Tz'ikin is notably less hierarchical and less centralized than in the north. The shamans and herbalists of the interior wield authority that rivals that of the Itzáni priests, particularly in remote areas far from river settlements. Some of the most powerful spiritual practitioners in Tz'ikin are those who have learned to blend Itzáni theological frameworks with the deep ecological knowledge of the jungle peoples—those who can interpret the movements of river dolphins as omens, or who know the properties of obscure plants that can induce visions and spiritual communion. The K'ul Tq'an in distant Balamkul exerts nominal authority over these practitioners, but in practice, Tz'ikin's spiritual landscape is far more pluralistic than official doctrine would suggest.
 
@@ -131,8 +131,8 @@ Most crucially, Tz'ikin is the source of stability and prestige goods through wh
 
 ## See Also
 
-- [[affiliation-balamkul|Balamkul]] — The paramount northern realm that depends on Tz'ikin's luxury goods
-- [[affiliation-kankul|K'ankul]] — The trading power connected to Tz'ikin through maritime and overland routes
-- [[affiliation-kiikbaate|Ki'ik Ba'ate]] — The isthmus region that forms the buffer between Tz'ikin and the central heartland
-- [[affiliation-itzanpnthn|Itzáni Pantheon]] — The faith framework that Tz'ikin inhabits distinctly, with notable local variations and synthesis with indigenous practices
-- [[place-tzikinrgn|Tz'ikin Region]] — The land Tz'ikin holds
+- [[affiliation-balamkul|Balamkul]]—The paramount northern realm that depends on Tz'ikin's luxury goods
+- [[affiliation-kankul|K'ankul]]—The trading power connected to Tz'ikin through maritime and overland routes
+- [[affiliation-kiikbaate|Ki'ik Ba'ate]]—The isthmus region that forms the buffer between Tz'ikin and the central heartland
+- [[affiliation-itzanpnthn|Itzáni Pantheon]]—The faith framework that Tz'ikin inhabits distinctly, with notable local variations and synthesis with indigenous practices
+- [[place-tzikinrgn|Tz'ikin Region]]—The land Tz'ikin holds

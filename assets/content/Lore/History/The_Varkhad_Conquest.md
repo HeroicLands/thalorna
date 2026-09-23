@@ -2,7 +2,7 @@
 tags:
   - history
   - spine
-description: "Around 1400 BF the Varkhad come out of the further east into the Pelwar grasslands as conquerors, take the country and then merge into it — and the peoples who hold the north today carry both stocks."
+description: "Around 1400 BF the Varkhad come out of the further east into the Pelwar grasslands as conquerors, take the country and then merge into it—and the peoples who hold the north today carry both stocks."
 type: lore
 subType: history
 name:
@@ -51,7 +51,7 @@ event:
 ---
 
 The Pelwar of the eastern grasslands were, by every account that survives, a comparatively peaceful
-people — herders and cultivators, tribal but not warlike, organised for grazing rather than for
+people—herders and cultivators, tribal but not warlike, organized for grazing rather than for
 conquest. Into that country, out of the further east, came the **Varkhad**.
 
 They did not exterminate anybody. Over generations they took the country and then merged into it,

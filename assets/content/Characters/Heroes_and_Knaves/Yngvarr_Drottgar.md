@@ -597,7 +597,7 @@ In his early twenties, Yngvarr distinguished himself during the Frontier Conflic
 
 ### The Current Path
 
-Now thirty-four, Yngvarr has stepped back from direct command, preferring the honest work of escort duties. He is respected in the guild, trusted by major trading houses, and regarded as unfailingly reliable. Yet a subtle weariness has settled into his bones—a sense that while he has excelled at protection, he has never discovered what he is meant to protect towards. The endless cycle of caravan runs, the repetition of routes and dangers, the transient nature of merchant relationships—these have begun to feel hollow, despite the steady income and solid reputation.
+Now thirty-four, Yngvarr has stepped back from direct command, preferring the honest work of escort duties. He is respected in the guild, trusted by major trading houses, and regarded as unfailingly reliable. Yet a subtle weariness has settled into his bones—a sense that while he has excelled at protection, he has never discovered what he is meant to protect toward. The endless cycle of caravan runs, the repetition of routes and dangers, the transient nature of merchant relationships—these have begun to feel hollow, despite the steady income and solid reputation.
 
 ## Psyche
 

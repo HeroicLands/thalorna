@@ -36,7 +36,7 @@ The priesthood of Tz’ikin K’ul is known to be among the most severe and unco
 
 ## See Also
 
-- [[affiliation-kawiltzakl|K’awiil Tza’kul]] — The boundary lands to the north
-- [[place-tzikinbalmrgn|Tz’ikin Ba’alam]] — The forsaken wastes beyond
-- [[place-kawilulkik|K’awi’il’ul Ki’ik]] — The garrison city in the plateau
-- [[affiliation-itzanpnthn|Itzáni]] — The priesthood that maintains this temple-fortress
+- [[affiliation-kawiltzakl|K’awiil Tza’kul]]—The boundary lands to the north
+- [[place-tzikinbalmrgn|Tz’ikin Ba’alam]]—The forsaken wastes beyond
+- [[place-kawilulkik|K’awi’il’ul Ki’ik]]—The garrison city in the plateau
+- [[affiliation-itzanpnthn|Itzáni]]—The priesthood that maintains this temple-fortress

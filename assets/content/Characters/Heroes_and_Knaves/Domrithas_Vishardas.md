@@ -623,7 +623,7 @@ There is also a will-to-power beneath his stated goals—a desire to become some
 
 ### Strengths
 
-- **Alchemical Mastery**: His understanding of chemical transformation and the behavior of materials is unequalled; he can produce results that orthodox alchemists consider impossible or merely theoretical.
+- **Alchemical Mastery**: His understanding of chemical transformation and the behavior of materials is unequaled; he can produce results that orthodox alchemists consider impossible or merely theoretical.
 - **Forbidden Knowledge**: Through decades of research and secret studies, he has accumulated knowledge of substances and processes that exist at the very edge of what is documented or possible.
 - **Intellectual Brilliance**: His reasoning and perception are extraordinary, allowing him to recognize patterns and connections that others miss entirely.
 - **Scientific Determination**: His willingness to pursue research regardless of ethical objections or physical danger has allowed him to achieve breakthroughs that more cautious researchers would never attempt.

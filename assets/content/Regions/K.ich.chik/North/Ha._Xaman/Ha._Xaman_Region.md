@@ -1,7 +1,7 @@
 ---
 tags:
   - region
-description: "The endless grasslands and migrating herds that are the land of Ha' Xaman, at the centre of Northern K'ich'chik."
+description: "The endless grasslands and migrating herds that are the land of Ha' Xaman, at the center of Northern K'ich'chik."
 name:
   full: Ha' Xaman Region
   aliases: []
@@ -23,7 +23,7 @@ packFolder: haxaman
 
 Ha' Xaman Region is the land of [[affiliation-haxaman|Ha' Xaman]], and lies within [[place-nrthrnkchchk|Northern K'ich'chik]] on the [[place-kchchkcntnnt|K'ich'chik Continent]].
 
-Ha' Xaman — "Great Grassland" in K'ich'chik — is an endless sea of grass and sky where the horizon stretches beyond sight and the wind carries scents of a thousand miles.
+Ha' Xaman—"Great Grassland" in K'ich'chik—is an endless sea of grass and sky where the horizon stretches beyond sight and the wind carries scents of a thousand miles.
 
 ## Geography
 
@@ -39,6 +39,6 @@ Ha' Xaman's position at the center of the northern frontier makes it a natural c
 
 ## See Also
 
-- [[affiliation-haxaman|Ha' Xaman]] — The realm that holds this land
-- [[place-nrthrnkchchk|Northern K'ich'chik]] — The enclosing region
-- [[place-haxaman2|Ha' Xaman]] — Seat of Ha' Xaman
+- [[affiliation-haxaman|Ha' Xaman]]—The realm that holds this land
+- [[place-nrthrnkchchk|Northern K'ich'chik]]—The enclosing region
+- [[place-haxaman2|Ha' Xaman]]—Seat of Ha' Xaman

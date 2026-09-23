@@ -1,5 +1,5 @@
 ---
-description: 'Textile city-state of southern Vedyára — "the City of Ten Thousand Looms," whose master-weaver guilds produce silks and cottons of patterns and dyes found nowhere else, traded to the courts of emperors and high priests across the known realms.'
+description: 'Textile city-state of southern Vedyára—"the City of Ten Thousand Looms," whose master-weaver guilds produce silks and cottons of patterns and dyes found nowhere else, traded to the courts of emperors and high priests across the known realms.'
 type: affiliation
 name:
   full: Vyālendra City-State
@@ -29,19 +29,19 @@ data:
         title: Bonded Servant
         lore: bondservantrnk
         description: >-
-          Bound by debt or birth to a household, owing labour and lacking the standing to hold
+          Bound by debt or birth to a household, owing labor and lacking the standing to hold
           land.
       - level: 2
         title: Śūdra
         lore: commonerrnk
         description: >-
-          Of the serving varṇa — cultivators, artisans and labourers who hold their place by
+          Of the serving varṇa—cultivators, artisans and laborers who hold their place by
           work rather than by rite.
       - level: 3
         title: Vaiśya
         lore: gentryrnk
         description: >-
-          Of the productive varṇa — merchants, dyers and cloth-factors, whose houses carry the
+          Of the productive varṇa—merchants, dyers and cloth-factors, whose houses carry the
           city's trade and pay for its walls.
       - level: 4
         title: Kṣatriya
@@ -80,7 +80,7 @@ data:
         Superintendent of the city treasury, answerable for the cloth-tax, the warehouse dues
         and the Council's reserve.
       Dūta: >-
-        Envoy to a foreign court or a neighbouring council, whose person is protected by custom
+        Envoy to a foreign court or a neighboring council, whose person is protected by custom
         on both sides.
       Commander of the Watch: >-
         Captain of the city watch, by long custom a graduate of the Dhanurkota academies and by
@@ -109,24 +109,24 @@ packFolder: vedyara
 
 Vyālendra, "the City of Ten Thousand Looms," has long been the textile capital of southern Vedyara. Silk and cotton cloth woven here bear patterns and dyes unknown elsewhere, the result of centuries of refinement and closely guarded techniques passed from master weavers to their apprentices.
 
-The weavers of Vyālendra operate within an intricate caste structure maintained by the chartered guilds. Master weavers occupy the highest ranks, controlling both production and the trade networks that extend westward to Harad and northward to Heliónis. The textiles of Vyālendra adorned the courts of emperors and the robes of high priests for generations, and the city's weavers guard their status jealously, ensuring no rival city can match their output or artistry.
+The weavers of Vyālendra work within an intricate caste structure the chartered guilds maintain. Master weavers hold the highest ranks and control both production and the trade networks that run west to Harad and north to Heliónis. Vyālendri cloth has dressed the courts of emperors and the robes of high priests for generations. The city's weavers guard their standing jealously, and no rival city matches their output or their artistry.
 
 ## The Loom-Council
 
-Vyālendra keeps no king. It is governed by the **Loom-Council**, on which every chartered weaving guild holds a seat by loom-caste, and which raises one of its masters as **Speaker** for a term and takes him back to his loom at the end of it. The Council licenses the guilds, sets the cloth-tax and the warehouse dues, judges between craft-lines, and keeps the watch — whose commander, by a custom nobody remembers the beginning of, is a graduate of the [[affiliation-dhnrktjnpd|Dhanurkota]] academies and not a Vyālendri.
+Vyālendra keeps no king. The **Loom-Council** governs, and every chartered weaving guild holds a seat on it by loom-caste. The Council raises one of its masters as **Speaker** for a term and takes him back to his loom at the end of it. It licenses the guilds, sets the cloth-tax and the warehouse dues, judges between craft-lines, and keeps the watch. The watch commander is a graduate of the [[affiliation-dhnrktjnpd|Dhanurkota]] academies and not a Vyālendri, by a custom nobody remembers the beginning of.
 
 Above the city's own affairs stand the temples. The senior priest of the Trimūrti temple, the city's **Triyācārya**, sanctions the Council's acts as a priest sanctions a sabhā's inland, and a Council decision the temples will not sanction does not take effect. The city-state holds [[place-vyalendraland|Vyālendra Land]], and [[place-vyalendra3|Vyālendra]] is its seat.
 
-The city's temples — particularly the sanctuary of Mahájaya, the serene matriarch who is the patron of honest measure and therefore of every bolt that leaves a hall — stand adjacent to the great weaving halls, acknowledging the spiritual dimension that weavers believe infuses their work. The city is quieter and less cosmopolitan than Chandrapur, its character shaped entirely by the slow, meditative rhythms of textile craft.
+The city's temples stand next to the great weaving halls, the sanctuary of Mahájaya first among them. She is the serene matriarch, patron of honest measure and so of every bolt that leaves a hall. The weavers hold their work to be a spiritual thing, and the siting says so. The city is quieter and less cosmopolitan than Chandrapur, and the slow rhythms of the textile craft have made its whole character.
 
 ## Commerce and Currency
 
-Vyālendra uses the [[lore-vdyrnbnkng|Vedyaran banking system]] administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign currencies (Vylarian Argo and Aurion, Ta'Kheperan deben pieces) are exchangeable at frontier moneylenders at Collective-controlled rates, but the Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the (presently stub) system reference and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institutional details.
+Vyālendra uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign coin, the Vylarian Argo and Aurion and the Ta'Kheperan deben pieces, is exchangeable at frontier moneylenders at Collective-controlled rates. The Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
 
 ## See Also
 
-- [[place-vedyarargn|Vedyara Region]] — Regional overview
-- [[place-vyalendraland|Vyālendra Land]] — the land the city-state holds
-- [[place-vyalendra3|Vyālendra]] — The city itself
-- [[skill-vedyarlng|Vedyari]] — Naming tradition
-- [[affiliation-varakpnthn|Varṇaka Pantheon]] — Religious tradition
+- [[place-vedyarargn|Vedyara Region]]—Regional overview
+- [[place-vyalendraland|Vyālendra Land]]—the land the city-state holds
+- [[place-vyalendra3|Vyālendra]]—The city itself
+- [[skill-vedyarlng|Vedyari]]—Naming tradition
+- [[affiliation-varakpnthn|Varṇaka Pantheon]]—Religious tradition
