@@ -1,6 +1,7 @@
 ---
 tags:
   - region
+  - endowed
 description: "The land of the Dhanurkota Janapada — fourteen villages along a defensible curve of the upper Sarvada, around the ancient bow-fort where the river leaves the northern hills."
 name:
   full: Dhanurkota Janapada
@@ -21,7 +22,7 @@ packFolder: vedyara
 
 Dhanurkota Janapada is the land of the temple-republic of [[affiliation-dhnrktjnpd|Dhanurkota Janapada]], the upper Sarvada valley of [[place-vedyarargn|Vedyara]].
 
-Its population is approximately eighteen thousand; its territory occupies a long defensible curve of the Sarvada where the river emerges from the northern hill country into the inland plain.
+Its population is approximately thirty thousand; its territory occupies a long defensible curve of the Sarvada where the river emerges from the northern hill country into the inland plain.
 
 ## The Bow-Fort
 

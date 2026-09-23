@@ -119,8 +119,8 @@ data:
 ---
 
 - **Type:** Courtesan establishment and intelligence network
-- **Region:** [[place-vedyarargn|Vedyara Region]] — principal house in the capital, satellite houses in each major Vedyaran city
-- **Founded:** Traditionally dated to the reign of the eleventh Maharaja; historically uncertain
+- **Region:** [[place-vedyarargn|Vedyara Region]] — principal house in [[place-vyalendra3|Vyālendra]], satellite houses in each major Vedyaran city
+- **Founded:** Traditionally dated to the reign of the eleventh and last Mahārāja of Vyālendra; historically uncertain
 
 ## Overview
 
@@ -152,7 +152,7 @@ A standing arrangement exists between the House and the Ādānaśreṇī — the
 ## Relations
 
 - **Ādānaśreṇī** — formal partnership for intelligence sharing and recruitment. Tensions arise when the Guild's interests conflict with a high-paying client's.
-- **The Maharaja's Court and the [[affiliation-mrchntclctvvdyr|Merchant Collective]]** — clients and unwilling tributaries. Both purchase from the House and both have learned not to discuss matters of consequence in its rooms — a discipline that, in practice, breaks down across enough evenings and enough wine.
+- **The [[affiliation-vyalendra2|Loom-Council]] and the [[affiliation-mrchntclctvvdyr|Merchant Collective]]** — clients and unwilling tributaries. Both purchase from the House and both have learned not to discuss matters of consequence in its rooms — a discipline that, in practice, breaks down across enough evenings and enough wine.
 - **The [[affiliation-velvethand|Velvet Hand]]** — counterpart in the west. The two organizations have an uneasy mutual respect and a non-aggression arrangement formalized through intermediaries. Each has standing orders to refuse contracts that target the other directly.
 - **The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]] more broadly** — clients on tier two. The House sells to them; they pay handsomely; the House refuses to be controlled by any one of them.
 
@@ -165,4 +165,4 @@ Working Companions wear no fixed uniform but are recognized by a distinctive sil
 - **The Burned Transcript.** A Companion's debrief has been destroyed before reaching the handler. The conversation it recorded would have been worth a fortune to several clients. The House must determine who burned it and why — and whether the Companion is to be praised or executed.
 - **The Withdrawing Client.** A senior client has stopped patronizing the House. His withdrawal alone is intelligence — but his motive is unknown. Is he closing his exposure because he is about to make a move that would not survive scrutiny? Has he been warned that the House has him compromised?
 - **The Apprentice Who Saw.** A thirteen-year-old in training has overheard something she should not have, by accident, and is now a security problem. The House must decide whether to protect her, promote her early, or quietly disappear her.
-- **The Mistress's Succession.** The Mistress of the Long Evening is dying. The Council of the Veil will choose her replacement, and the choice will determine whether the House's next generation leans toward the Maharaja's court, the Merchant Collective, or the Ādānaśreṇī. Every faction has a candidate; the campaign is already underway.
+- **The Mistress's Succession.** The Mistress of the Long Evening is dying. The Council of the Veil will choose her replacement, and the choice will determine whether the House's next generation leans toward the Loom-Council, the Merchant Collective, or the Ādānaśreṇī. Every faction has a candidate; the campaign is already underway.
