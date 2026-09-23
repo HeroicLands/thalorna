@@ -42,7 +42,7 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 | Land                          | Population  |
 | ----------------------------- | ----------- |
 | [[place-vylariargn\|Vylaría]] | ~24,000,000 |
-| [[place-haradregin\|Harad]]   | ~12,000,000 |
+| Harad                         | ~12,000,000 |
 | [[place-heladrgn\|Hellád]]    | ~11,000,000 |
 
 Vylaría divides between the [[affiliation-vylarinmpr|Vylarian Empire]]'s four core provinces (~21,000,000) and the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]] (~2,500,000); Hellád between [[place-byzariargn|Byzaría]] (~8,000,000) and the city-states of [[place-helionis|Heliónis]] (~3,000,000).

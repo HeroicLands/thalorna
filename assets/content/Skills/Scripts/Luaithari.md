@@ -39,7 +39,7 @@ The Confederation's deep archive is not in Luaithári at all. No outsider has ev
 
 ## Who has it
 
-Nobility, custodians, and the professional scribes, whose tradition is ancient and deep — the Confederation's written archive is large and is maintained by specialists rather than consulted by the public. In the ports of [[place-qasirah|Qasirah]] and [[place-vashuran|Vashurán]] a hired scribe writes a simplified notation for trade, or abandons the syllabary entirely and takes down the transaction in [[skill-valtarlng|Valtári]] using whatever foreign letters he knows.
+Nobility, custodians, and the professional scribes, whose tradition is ancient and deep — the Confederation's written archive is large and is maintained by specialists rather than consulted by the public. In the ports of [[place-qasirah|Qasirah]] and Vashurán a hired scribe writes a simplified notation for trade, or abandons the syllabary entirely and takes down the transaction in [[skill-valtarlng|Valtári]] using whatever foreign letters he knows.
 
 ## In play
 

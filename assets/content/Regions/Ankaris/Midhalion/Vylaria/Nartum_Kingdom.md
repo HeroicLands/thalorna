@@ -20,10 +20,10 @@ packFolder: vylaria
 
 ## Overview
 
-Nartûm Kingdom is the land of the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]], an independent Vylari-speaking realm within [[place-vylariargn|Vylaría Region]], ruled from the holy city of [[place-nartum|Nartûm]].
+Nartûm Kingdom is the land of the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]], an independent Vylari-speaking realm within [[place-vylariargn|Vylaría Region]], ruled from the holy city of Nartûm.
 
 ## See Also
 
 - [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]] — The kingdom that holds this land
 - [[place-vylariargn|Vylaría Region]] — The enclosing region
-- [[place-nartum|Nartûm]] — The holy city, its seat
+- Nartûm — The holy city, its seat

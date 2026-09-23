@@ -648,7 +648,7 @@ Cárenna's driving ambition is the advancement of her house and, by extension, h
 
 - **City Heralds' Guild of Tarvénia**: Her primary affiliation and source of authority. She maintains its political interests while advancing her own.
 - **House Gráveth**: Her family house, whose interests she subtly promotes through her position.
-- **The Aurèldián Pantheon**: A devoted follower of [[lore-murkirdty|Múrkír]] the Voyager, she maintains public religious devotion while privately entertaining doubts about institutional faith.
+- **The Aurèldián Pantheon**: A devoted follower of Múrkír the Voyager, she maintains public religious devotion while privately entertaining doubts about institutional faith.
 
 ## Plot Hooks
 

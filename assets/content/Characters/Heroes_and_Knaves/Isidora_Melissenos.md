@@ -666,7 +666,7 @@ Isidôra's driving passion is simple: she wants to create sanctuary. In a world 
 ### Affiliations
 
 - **The Innkeepers' Association of the Byzarian League**: An association of innkeepers and taverners in which Isidôra is a respected voice for the rights of independent innkeepers against larger merchant organizations.
-- **The [[lore-venusiadty|Vénusia]] Circle**: An informal society of women who worship the prosperity goddess Vénusia, through which Isidôra maintains connections with female merchants, scholars, and influential women throughout the League.
+- **The Vénusia Circle**: An informal society of women who worship the prosperity goddess Vénusia, through which Isidôra maintains connections with female merchants, scholars, and influential women throughout the League.
 
 ## Plot Hooks
 

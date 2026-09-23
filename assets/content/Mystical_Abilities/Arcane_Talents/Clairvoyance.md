@@ -3,6 +3,7 @@ tags: []
 name:
   full: Clairvoyance
   aliases: []
+description: "Perceives a place out of sight, as though standing in it."
 shortcode: clrv
 type: mysticalability
 subType: arcanetalent

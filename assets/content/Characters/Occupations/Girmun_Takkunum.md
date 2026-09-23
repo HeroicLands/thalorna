@@ -558,7 +558,7 @@ Girmûn Takkûnûm is a 52-year-old man who stands 5'7" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the [[place-haradregin|Harad]] region to a guilded family of Haradian heritage, Girmûn Takkûnûm came into the world of the apothecary through a combination of circumstance and aptitude.
+Born in the Harad region to a guilded family of Haradian heritage, Girmûn Takkûnûm came into the world of the apothecary through a combination of circumstance and aptitude.
 
 Girmûn is a well-known apothecary in the city, often sought after for his knowledge of rare medicinal herbs and remedies. He inherited the shop from his father, who was also an apothecary. Girmûn has seen the darker side of city life, treating those who come to him for poisons as well as cures.
 

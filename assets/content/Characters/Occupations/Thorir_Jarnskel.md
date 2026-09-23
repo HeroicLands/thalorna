@@ -560,7 +560,7 @@ Thórir is a compact man, built closer to the squat proportions of the deep moun
 
 # Dossier {#dossier}
 
-Thórir Járnskel was born to a family of skilled metalworkers and merchants in [[place-greyfjord|Greyfjord]], the kind of guilded-class family that occupied the space between common folk and nobility—respected, relatively comfortable, but never quite accepted into the higher tiers of Nordheimn society. His early life seemed ordinary: training in his father's smithcraft, learning the family trade, preparing for a practical merchant's life. But at sixteen, his gift manifested in a way that was catastrophic for a young man in Nordheimn culture.
+Thórir Járnskel was born to a family of skilled metalworkers and merchants in Greyfjord, the kind of guilded-class family that occupied the space between common folk and nobility—respected, relatively comfortable, but never quite accepted into the higher tiers of Nordheimn society. His early life seemed ordinary: training in his father's smithcraft, learning the family trade, preparing for a practical merchant's life. But at sixteen, his gift manifested in a way that was catastrophic for a young man in Nordheimn culture.
 
 Thórir began to perceive spirits.
 

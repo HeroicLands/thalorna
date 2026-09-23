@@ -638,7 +638,7 @@ A more personal motivation underlies this: the wilderness is the only place wher
 
 - **Lord Harren of the Frontier Territories**: A regional noble who maintains vast estates and regularly contracts Drákonis to eliminate predators threatening livestock and hunting preserves; their relationship is one of business but carries unusual mutual respect.
 - **The Kozna Collective of Woodsmen**: A loose association of trappers and hunters who, while maintaining distance from Drákonis, regularly defer difficult contracts to him and pay extraordinary rates for his skill.
-- **Brother Selvak of [[lore-menervadty|Ménérva]]'s Monastery**: A monk keeper who acknowledges that Drákonis's work, while violent, serves a necessary function in maintaining the balance that the knowledge-goddess requires.
+- **Brother Selvak of Ménérva's Monastery**: A monk keeper who acknowledges that Drákonis's work, while violent, serves a necessary function in maintaining the balance that the knowledge-goddess requires.
 
 ### Enemies
 

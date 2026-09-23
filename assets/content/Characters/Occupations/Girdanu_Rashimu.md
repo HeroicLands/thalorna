@@ -556,7 +556,7 @@ Girdanû Rashîmû is a 42-year-old man who stands 6'1" tall and is broad and so
 
 # Dossier {#dossier}
 
-Girdanû Rashîmû is a gladiator of Qadhirun, in [[place-haradregin|Harad]], a Haradian freeman who was sent to the arena as a convict and stayed in it as a free man.
+Girdanû Rashîmû is a gladiator of Qadhirun, in Harad, a Haradian freeman who was sent to the arena as a convict and stayed in it as a free man.
 
 Girdanû began as a labourer in the quarries above the port. At thirty, in the first year of the Confederation, he was accused of theft from the quarry-master's strongbox, a crime he did not commit, and a magistrate of the kind the new guild government was then appointing sentenced him to the arena. Instead his strength carried him through five years of fights, until the arena-master petitioned for his freedom because a champion earns more than a convict. He has fought as a free man since, for the purse and the crowd's regard, and he has not forgotten the name of the man who accused him.
 

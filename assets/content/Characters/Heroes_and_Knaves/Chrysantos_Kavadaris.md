@@ -652,7 +652,7 @@ Chrysántos is driven by the endless accumulation of wealth, influence, and pres
 ### Affiliations
 
 - **Merchant's Guild of the Byzarian League**: His primary trade affiliation, providing legitimacy, protection, and access to guild resources and information networks.
-- **Prosperity Cults of [[lore-venusiadty|Vénusia]]**: His fire tattoo marks him as at least peripherally involved with certain fertility and prosperity mystery cults devoted to Vénusia. His actual level of involvement with these groups remains ambiguous even to those who know him well.
+- **Prosperity Cults of Vénusia**: His fire tattoo marks him as at least peripherally involved with certain fertility and prosperity mystery cults devoted to Vénusia. His actual level of involvement with these groups remains ambiguous even to those who know him well.
 - **The Collector's Circle**: An informal network of wealthy collectors, merchants, and brokers who facilitate transactions among themselves and share information about notable acquisitions and opportunities.
 
 ## Plot Hooks

@@ -3,6 +3,7 @@ tags: []
 name:
   full: Disembodiment
   aliases: []
+description: "Separates the perceiving self from the body, which lies insensible while it is away."
 shortcode: dsbd
 type: mysticalability
 subType: arcanetalent

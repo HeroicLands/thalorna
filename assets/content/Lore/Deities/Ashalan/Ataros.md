@@ -1,6 +1,6 @@
 ---
-tags:
-  - draft
+tags: []
+description: "The Sacred Flame of the Āsháian pantheon, in whose fire the tradition works its purifications."
 type: lore
 subType: deity
 name:
@@ -9,5 +9,3 @@ name:
 shortcode: atarosdty
 packFolder: deitiesashalan
 ---
-
-TBD

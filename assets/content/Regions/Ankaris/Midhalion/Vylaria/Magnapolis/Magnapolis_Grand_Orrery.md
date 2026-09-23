@@ -1,6 +1,5 @@
 ---
-tags:
-  - draft
+tags: []
 description: "Grand Orrery"
 name:
   full: Grand Orrery
@@ -17,5 +16,3 @@ data:
 shortcode: magngndorery
 packFolder: vylaria
 ---
-
-TBD

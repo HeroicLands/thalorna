@@ -110,7 +110,7 @@ Beneath the council runs a tiered court system. The **[[affiliation-vylrnmltry|C
 
 - **The Aediles** — the magistrates of the wards, and the only court most Magnápolitans ever see. They keep the district law: markets and licenses, weights and measures, building and sanitation, nuisance and petty disorder. They levy fines, shutter premises, and condemn buildings; the Watch supplies the muscle behind their rulings.
 - **The Iudicia** — the civil courts, where citizen sues citizen over property, contract, debt, inheritance, and standing. Cases are heard by **Iudices** drawn from the propertied orders, the weightier disputes before panels.
-- **The Criminal Tribunal** — for theft, violence, homicide, and sedition short of treason. The Watch brings the accused; the Tribunal judges; its sentences run from fines and forced labor to the [[place-circusmaximusmagnapls|arena]] and the executioner.
+- **The Criminal Tribunal** — for theft, violence, homicide, and sedition short of treason. The Watch brings the accused; the Tribunal judges; its sentences run from fines and forced labor to the arena and the executioner.
 
 Appeals, and the gravest civic cases, rise to the **Curia Urbis** sitting as a body under the Curator of Law. There the civic system ends; it has no authority over the nobility, the Senate, or the crown.
 

@@ -18,5 +18,3 @@ data:
 terran_analog: ""
 packFolder: harad
 ---
-
-TBD

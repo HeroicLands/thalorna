@@ -1,6 +1,6 @@
 ---
-tags:
-  - draft
+tags: []
+description: "The Golden Giver of the Āsháian pantheon — wealth, abundance, and the pleasures a full table permits."
 type: lore
 subType: deity
 name:
@@ -9,5 +9,3 @@ name:
 shortcode: aravestadty
 packFolder: deitiesashalan
 ---
-
-TBD

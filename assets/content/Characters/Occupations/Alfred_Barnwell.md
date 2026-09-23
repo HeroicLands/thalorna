@@ -562,7 +562,7 @@ In his mid-thirties, Alfred's course took a sudden turn. The Ordo's demands for 
 
 For the past seven years, he has lived as what most know him as: a traveling healer and scholar named Thalos Graymoor, moving through the less-settled regions of Aelwyth—the deep forests, the misty moorlands, the fishing villages that the Ordo's reach only touches lightly. He supplies remedies, crafts bespoke alchemical aids for local craftsfolk and hunters, reads old texts for those who need guidance with the unseen, and conducts his deeper work in candlelit cellars and forest clearings where few ask questions. His knowledge of folklore makes him a trusted advisor on matters of local tradition, and he keeps a careful awareness of political currents that might threaten his precarious independence.
 
-He is faithful to [[lore-menervadty|Ménérva]]—the goddess of knowledge and wisdom—not the communal faith of his birth, but a personal devotion born from his conviction that true understanding does not stop at an institution's walls.
+He is faithful to Ménérva—the goddess of knowledge and wisdom—not the communal faith of his birth, but a personal devotion born from his conviction that true understanding does not stop at an institution's walls.
 
 ## Psyche
 

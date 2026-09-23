@@ -559,7 +559,7 @@ Kashnûra Arshûmû is a 47-year-old woman who stands 5'6" tall and is of modera
 
 # Dossier {#dossier}
 
-Born in the [[place-haradregin|Harad]] region to a freeman family of Haradian heritage, Kashnûra Arshûmû came into the world of the chandler through a combination of circumstance and aptitude.
+Born in the Harad region to a freeman family of Haradian heritage, Kashnûra Arshûmû came into the world of the chandler through a combination of circumstance and aptitude.
 
 Kashnûra has been making candles for over twenty years in her small village. She learned the craft from her mother and now runs a small shop, supplying candles to the local community and nearby towns. Kashnûra takes pride in her work, using only the best tallow and beeswax, and her candles are known for their quality and long burn times.
 

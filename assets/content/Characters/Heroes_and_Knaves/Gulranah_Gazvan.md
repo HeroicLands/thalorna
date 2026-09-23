@@ -606,7 +606,7 @@ Under Karamak's exacting tutelage for twelve seasons, Gulrânah learned the deli
 
 ### Present Standing
 
-Now twenty-nine winters old, Gulrânah operates her kilns with renown throughout Amradad's trading districts. Her charcoal is sought by the realm's finest smiths for its purity and the metalsmiths for its control of heat. The herbalists—particularly the disciples of **[[lore-zurathradty|Zúráthrä]]'s Fertility Rites**—prize her product for ceremonial fires. Yet success has cost her a measure of ease; the weight of reputation and the demands of quality work have drawn her into a solitary existence that outsiders sometimes mistake for arrogance.
+Now twenty-nine winters old, Gulrânah operates her kilns with renown throughout Amradad's trading districts. Her charcoal is sought by the realm's finest smiths for its purity and the metalsmiths for its control of heat. The herbalists—particularly the disciples of **Zúráthrä's Fertility Rites**—prize her product for ceremonial fires. Yet success has cost her a measure of ease; the weight of reputation and the demands of quality work have drawn her into a solitary existence that outsiders sometimes mistake for arrogance.
 
 ## Psyche
 
