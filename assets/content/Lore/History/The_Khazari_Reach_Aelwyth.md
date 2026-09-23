@@ -2,7 +2,7 @@
 tags:
   - history
   - spine
-description: "Around 3100 BF the Khazári cut Vorgald in the eastern Ironfells — the westernmost hold they ever placed and the only one reached across open sea — and make the farmers beneath it who become the Vardain."
+description: "Around 3100 BF the Khazári cut Vorgald in the eastern Ironfells—the westernmost hold they ever placed and the only one reached across open sea—and make the farmers beneath it who become the Vardain."
 type: lore
 subType: history
 name:
@@ -81,4 +81,4 @@ what it eats, making one here meant first making farmers beneath it, and the
 
 What it settles is the ground everything else in the island's elder history stands on. Seven centuries
 later Khazártúrn fell and the two Elder Races stopped dealing with one another everywhere in the
-world — except here, where they were already neighbours, and where instead they tried to repair it.
+world—except here, where they were already neighbors, and where instead they tried to repair it.

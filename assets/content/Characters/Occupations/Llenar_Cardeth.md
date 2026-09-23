@@ -572,7 +572,7 @@ Llénar is exacting, blunt with beginners and slow to praise. He has no time for
 
 ### Motivation
 
-Llénar wants the work done properly — every loft clear, every dog alive — and he wants the trade passed on the way he had it, so that it outlasts him.
+Llénar wants the work done properly—every loft clear, every dog alive—and he wants the trade passed on the way he had it, so that it outlasts him.
 
 ### Strengths
 
@@ -594,10 +594,10 @@ A younger ratter from Béravel who works the Ardwyn farms with compounds bought 
 
 ## Plot Hooks
 
-1. **The Poisoner** — The Béravel ratter's baits have killed a third dog, this time in Silvain itself, and the village wants him gone. He has a paper from the physicians that says the compound is safe.
+1. **The Poisoner**—The Béravel ratter's baits have killed a third dog, this time in Silvain itself, and the village wants him gone. He has a paper from the physicians that says the compound is safe.
 
-2. **Scout** — Scout is nine and slowing, and Llénar has not trained a dog to follow him because he did not want to admit the need. A litter has been offered.
+2. **Scout**—Scout is nine and slowing, and Llénar has not trained a dog to follow him because he did not want to admit the need. A litter has been offered.
 
-3. **Rats Before Winter** — Rats have come into the herb-lofts of Silvain in numbers Llénar has never seen, weeks before the first snow. He is beginning to think the rats did not come on their own.
+3. **Rats Before Winter**—Rats have come into the herb-lofts of Silvain in numbers Llénar has never seen, weeks before the first snow. He is beginning to think the rats did not come on their own.
 
-4. **The Apprentice Who Watches** — A young man has come to Silvain asking to learn the trade from Llénar, and learns it well. He also asks a great many questions about the village, and Silvain is careful about questions.
+4. **The Apprentice Who Watches**—A young man has come to Silvain asking to learn the trade from Llénar, and learns it well. He also asks a great many questions about the village, and Silvain is careful about questions.

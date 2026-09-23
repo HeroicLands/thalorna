@@ -2,7 +2,7 @@
 tags:
   - history
   - spine
-description: "Roughly two hundred years ago the Vylarian Empire's decline began — overextension, corruption, barbarian pressure and the gradual independence of provinces, ending twelve years ago in the loss of Harad."
+description: "Roughly two hundred years ago the Vylarian Empire's decline began—overextension, corruption, barbarian pressure and the gradual independence of provinces, ending twelve years ago in the loss of Harad."
 type: lore
 subType: history
 name:
@@ -22,12 +22,12 @@ event:
     - affiliation-vylarinmpr
     - place-ankrscntnnt
   summary: >-
-    The Vylarian Empire begins losing what it holds — to overextension, internal corruption, barbarian
-    pressure from the north, and the gradual independence of provinces. Provènzia and Tarvénia become
-    successor states in all but name, Heliónis regains practical independence while keeping formal
-    ties, and twelve years ago Harad fought and won a war of independence with Kheperi gold behind it.
-    The Empire has retreated to its core territories and still claims authority over regions that have
-    long since gone their own way.
+    The Vylarian Empire begins losing what it holds—to overextension, internal corruption, barbarian
+    pressure from the north, and the gradual independence of provinces. Provènzia and Tarvénia
+    become successor states in all but name, Heliónis regains practical independence while keeping
+    formal ties, and twelve years ago Harad fought and won a war of independence with Kheperi gold
+    behind it. The Empire has retreated to its core territories and still claims authority over
+    regions that have long since gone their own way.
   standing: attested
   where:
     locus:
@@ -42,12 +42,12 @@ event:
       - place: place-haradregin
         how: >-
           the merchant princes bankrolled a revolution, a naval squadron was destroyed at the Tamzîr
-          Shoals, and independence was recognised within the year
+          Shoals, and independence was recognized within the year
         knowledge: named
       - place: place-helionis
         how: >-
-          practical independence returns while the formal ties stay, and the relationship becomes that
-          of a grown child to an ageing parent
+          practical independence returns while the formal ties stay, and the relationship becomes
+          that of a grown child to an aging parent
         knowledge: named
       - place: place-takheperurgn
         how: >-
@@ -75,7 +75,7 @@ event:
       agrees: denies
     - by: place-helionis
       says: >-
-        A grown child to an ageing parent — respectful, complicated, and occasionally resentful.
+        A grown child to an aging parent—respectful, complicated, and occasionally resentful.
       agrees: partly
   unresolved: []
 ---
@@ -92,12 +92,12 @@ without any representation in the Senate. When the empire answered their growing
 levies, the merchants bankrolled a revolution and recruited the common people with promises of
 liberty.
 
-The imperial response was effective on land — until
+The imperial response was effective on land—until
 [[affiliation-empirtkhpr|Ta'Kheperu]], seeing an opportunity to weaken a northern rival, covertly
 supplied the rebels with gold, weapons and military advisors. Kheperi gold kept the rebellion solvent
 and Kheperi naval expertise turned a ragtag flotilla into a fighting force; the destruction of a
 Vylarian squadron at the Battle of Tamzîr Shoals broke the empire's ability to sustain its eastern
-garrisons, and Harad's independence was recognised within the year.
+garrisons, and Harad's independence was recognized within the year.
 
 Today the empire has retreated to its core territories around the Vylarian peninsula, though it still
 claims nominal authority over regions that have long since gone their own way. The loss of Harad's

@@ -10,11 +10,11 @@ packFolder: castes
 
 **Sons of the Dragon**
 
-Zhëklüng form the apex of [[affiliation-tanvurempr|Tānvür]] society, composed of the Emperor, his immediate family, and the Warlords. Members of this caste are classified as the administrative lineage of the mortal plane — their authority derives not from divine blood but from the celestial bureaucracy's designation of their family as the rightful administrators of the sorted world.
+Zhëklüng form the apex of [[affiliation-tanvurempr|Tānvür]] society, composed of the Emperor, his immediate family, and the Warlords. Members of this caste are classified as the administrative lineage of the mortal plane—their authority derives not from divine blood but from the celestial bureaucracy's designation of their family as the rightful administrators of the sorted world.
 
 ## Administrative Authority
 
-The Emperor, known as the Son of Heaven (Tëngzhëi), is the celestial bureaucracy's designated agent on the mortal plane. The imperial line holds the Mandate of Heaven (Tëngvōr) — a cosmic appointment that links the Emperor's personal Lëi to the Lëi of the empire. His health and spiritual balance directly correlate with the prosperity and stability of the realm, not because he is divine, but because the classification system's mortal administrator is _structurally connected_ to the system he administers.
+The Emperor, known as the Son of Heaven (Tëngzhëi), is the celestial bureaucracy's designated agent on the mortal plane. The imperial line holds the Mandate of Heaven (Tëngvōr)—a cosmic appointment that links the Emperor's personal Lëi to the Lëi of the empire. His health and spiritual balance directly correlate with the prosperity and stability of the realm, not because he is divine, but because the classification system's mortal administrator is _structurally connected_ to the system he administers.
 
 ## Authority and Governance
 
@@ -54,8 +54,8 @@ The number nine holds deep reverence in all ceremonies and rites pertaining to t
 
 ## See Also
 
-- [[lore-castelaws|Caste Laws]] — overview of all caste structures and restrictions
-- [[lore-vushok|Vüshōk]] — the Warrior Nobility who share authority with Zhëklüng
-- [[lore-venduk|Vëndük]] — the Chattel Sorcerers who serve and counsel Zhëklüng
-- [[lore-zeisik|Law and Honor]] — legal framework governing Zhëklüng authority
-- [[affiliation-tanvurempr|Empire of Tānvür]] — overview of imperial governance and structure
+- [[lore-castelaws|Caste Laws]]—overview of all caste structures and restrictions
+- [[lore-vushok|Vüshōk]]—the Warrior Nobility who share authority with Zhëklüng
+- [[lore-venduk|Vëndük]]—the Chattel Sorcerers who serve and counsel Zhëklüng
+- [[lore-zeisik|Law and Honor]]—legal framework governing Zhëklüng authority
+- [[affiliation-tanvurempr|Empire of Tānvür]]—overview of imperial governance and structure

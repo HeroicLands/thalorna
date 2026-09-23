@@ -632,7 +632,7 @@ His mind moves at unusual speeds, making conceptual leaps that others struggle t
 
 ### Motivation
 
-Patnefur is driven by a belief that he has not yet created his masterpiece—the fragrance that will surpass all his previous efforts and achieve something akin to perfection. Each new creation is a step toward this ideal, and each time one is completed, he feels both deep satisfaction and the immediate hunger to push further. There are also rumours of an ancient formulary, a text from the Age of Divine Kings that supposedly contained recipes for fragrances of such power that they could induce visions, cure illnesses, or even grant temporary communion with the divine. Patnefur's ultimate quest is to locate this formulary, decipher its secrets, and perhaps create a fragrance that would be the summit of the art—a scent that contains within it all the wisdom and beauty of the ages.
+Patnefur is driven by a belief that he has not yet created his masterpiece—the fragrance that will surpass all his previous efforts and achieve something akin to perfection. Each new creation is a step toward this ideal, and each time one is completed, he feels both deep satisfaction and the immediate hunger to push further. There are also rumors of an ancient formulary, a text from the Age of Divine Kings that supposedly contained recipes for fragrances of such power that they could induce visions, cure illnesses, or even grant temporary communion with the divine. Patnefur's ultimate quest is to locate this formulary, decipher its secrets, and perhaps create a fragrance that would be the summit of the art—a scent that contains within it all the wisdom and beauty of the ages.
 
 ### Strengths
 
@@ -670,7 +670,7 @@ Patnefur is driven by a belief that he has not yet created his masterpiece—the
 
 ### Enemies
 
-- **Master Hatshepsut (Scarred Perfumer)**: Though he supposedly died from his wounds, whispers persist that Hatshepsut survived and has been plotting his revenge from the shadows. Rumour has him acquiring rare poisons with which to compromise Patnefur's formulations.
+- **Master Hatshepsut (Scarred Perfumer)**: Though he supposedly died from his wounds, whispers persist that Hatshepsut survived and has been plotting his revenge from the shadows. Rumor has him acquiring rare poisons with which to compromise Patnefur's formulations.
 
 - **The Traditionalist Consortium**: A loose alliance of older perfumers and guild conservatives who view Patnefur as a threat to the established order and the sanctity of their craft. They have been known to attempt to restrict his access to rare ingredients and materials.
 

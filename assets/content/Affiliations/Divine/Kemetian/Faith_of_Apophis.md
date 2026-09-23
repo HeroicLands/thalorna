@@ -17,13 +17,14 @@ data:
   governance:
     model: council
     summary: >-
-      There is no organised priesthood, and within the orthodoxy of Ta'Kheperu the idea is unthinkable. What
-      exists instead is three unconnected things: frontier practitioners who treat the god as an aspect of
-      storm, earthquake and drought and work protections against him under implicit sanction; isolated
-      heretics who venerate him, hunted without rest by the Medjay and the temple-inquisitors; and —
-      foremost among the forbidden cults the temples have driven underground — a small hidden sect that
-      means not to defy the order of the dead but to break it. Formal knowledge of the god is not held here
-      at all: it is kept in the higher echelons of Rā's and Thōth's temples.
+      There is no organized priesthood, and within the orthodoxy of Ta'Kheperu the idea is
+      unthinkable. What exists instead is three unconnected things: frontier practitioners who treat
+      the god as an aspect of storm, earthquake and drought and work protections against him under
+      implicit sanction; isolated heretics who venerate him, hunted without rest by the Medjay and
+      the temple-inquisitors; and—foremost among the forbidden cults the temples have driven
+      underground—a small hidden sect that means not to defy the order of the dead but to break it.
+      Formal knowledge of the god is not held here at all: it is kept in the higher echelons of Rā's
+      and Thōth's temples.
     ranks:
       - level: 0
         title: Denounced
@@ -34,7 +35,11 @@ data:
         title: Warded
         lore: layfaithfulrnk
         description: >-
-          The frontier shamans and wise folk — steppe herders of the western uplands, hill-dwellers of the eastern ranges — who understand the god as natural force and keep practices of protection and appeasement. They operate outside the official priesthood but hold a kind of implicit sanction, their work protecting communities and their understanding held to be not inaccurate so much as differently framed.
+          The frontier shamans and wise folk—steppe herders of the western uplands, hill-dwellers of
+          the eastern ranges—who understand the god as natural force and keep practices of
+          protection and appeasement. They operate outside the official priesthood but hold a kind
+          of implicit sanction, their work protecting communities and their understanding held to be
+          not inaccurate so much as differently framed.
       - level: 2
         title: Devotee
         lore: professedrnk
@@ -42,19 +47,19 @@ data:
           One who has turned to actual worship, believing appeasement offers personal power or that destruction is preferable to the constraints of order. A capital heresy, kept entirely secret, and with no structure above it to belong to.
     offices:
       Shrine-Keeper: >-
-        Maintains a hidden shrine to the chaos god — the single act whose discovery is capital.
+        Maintains a hidden shrine to the chaos god—the single act whose discovery is capital.
       Ward-Worker: >-
         A frontier practitioner working protection and appeasement against storm, earthquake and drought.
       Hunted: >-
-        Most of what the temple-inquisitors and the Medjay turn up is harmless desperation rather than the
-        sect they are actually looking for — which does not soften what happens to it.
+        Most of what the temple-inquisitors and the Medjay turn up is harmless desperation rather
+        than the sect they are actually looking for—which does not soften what happens to it.
       The Sect of the Waking: >-
-        The cult the priesthood of Rā fears in its bones: the sect that seeks the cursed road across the
-        water and would wake the False Rā — the sorcerer-king embalmed alive, his death-magic sealed into
-        the tomb with him, who loosed would rise a ṭerebu with his wits and his sorcery entire, and
-        is held to mean famine and worse across the empire. That
-        any such cult exists at all is a secret the temple keeps close, and the reason the kill-on-sight
-        order on the cursed road has never once been relaxed.
+        The cult the priesthood of Rā fears in its bones: the sect that seeks the cursed road across
+        the water and would wake the False Rā—the sorcerer-king embalmed alive, his death-magic
+        sealed into the tomb with him, who loosed would rise a ṭerebu with his wits and his sorcery
+        entire, and is held to mean famine and worse across the empire. That any such cult exists at
+        all is a secret the temple keeps close, and the reason the kill-on-sight order on the cursed
+        road has never once been relaxed.
   commonSkills:
     - apophis
     - folklr

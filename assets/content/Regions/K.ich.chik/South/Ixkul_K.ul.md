@@ -36,5 +36,5 @@ The population outside the priesthood consists primarily of servant families who
 
 ## See Also
 
-- [[affiliation-kuxibalam|K’uxi Balam]] — The plateau realm
-- [[affiliation-itzanpnthn|Itzáni]] — The priesthood that guards the sacred lake
+- [[affiliation-kuxibalam|K’uxi Balam]]—The plateau realm
+- [[affiliation-itzanpnthn|Itzáni]]—The priesthood that guards the sacred lake

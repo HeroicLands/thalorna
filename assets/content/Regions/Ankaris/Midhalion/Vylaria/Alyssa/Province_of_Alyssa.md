@@ -1,5 +1,5 @@
 ---
-description: "Heartland province of the Vylarian Empire — its urban, political, and institutional core, holding the imperial capital, the Senate, and the Ordo Arcanis; it trades in influence, law, and Vylarian Steel and leans on its sister provinces for food."
+description: "Heartland province of the Vylarian Empire—its urban, political, and institutional core, holding the imperial capital, the Senate, and the Ordo Arcanis; it trades in influence, law, and Vylarian Steel and leans on its sister provinces for food."
 type: affiliation
 name:
   full: Province of Alyssa
@@ -34,7 +34,7 @@ data:
         title: Peregrine
         lore: rsdntlnrnk
         description: >-
-          A provincial living under imperial authority without the citizenship — the great majority
+          A provincial living under imperial authority without the citizenship—the great majority
           of the empire's people.
       - level: 4
         title: Citizen
@@ -108,17 +108,17 @@ packFolder: vylaria
 
 ## Overview
 
-Alyssa is the heartland of the [[affiliation-vylarinmpr|Vylarian Empire]] — the province that contains the imperial capital, the Senate, and the oldest institutions of Vylarian civilization. It is the most urbanized, politically sophisticated, and culturally self-assured of the four provinces. When Vylarians speak of "the empire," they mean Alyssa first and everything else second. The Province of Alyssa holds the land of [[place-alyssa|Alyssa]].
+Alyssa is the heartland of the [[affiliation-vylarinmpr|Vylarian Empire]]—the province that contains the imperial capital, the Senate, and the oldest institutions of Vylarian civilization. It is the most urbanized, politically sophisticated, and culturally self-assured of the four provinces. When Vylarians speak of "the empire," they mean Alyssa first and everything else second. The Province of Alyssa holds the land of [[place-alyssa|Alyssa]].
 
 ## Character
 
-The oldest families — those who trace their lineage to the empire's founding — hold court here, and the politics of Alyssa are the politics of the empire. Every major institution is headquartered in the capital: the Senate, the Imperial Court, the high priesthoods of the [[affiliation-arldnpnthn|Aurèldían]] faith, and — most significantly — the [[affiliation-ordoarcanis|Ordo Arcanis]].
+The oldest families—those who trace their lineage to the empire's founding—hold court here, and the politics of Alyssa are the politics of the empire. Every major institution is headquartered in the capital: the Senate, the Imperial Court, the high priesthoods of the [[affiliation-arldnpnthn|Aurèldían]] faith, and—most significantly—the [[affiliation-ordoarcanis|Ordo Arcanis]].
 
-Alyssan society is intensely political. Every conversation carries subtext; every dinner party is a negotiation. The senatorial families compete for influence through patronage networks, strategic marriages, and control of religious offices. The common people of the capital are more politically aware than their counterparts elsewhere in the empire, and public opinion — expressed through street demonstrations, pamphlets, and the occasional riot — is a force that even senators must reckon with.
+Alyssan society is intensely political. Every conversation carries subtext; every dinner party is a negotiation. The senatorial families compete for influence through patronage networks, strategic marriages, and control of religious offices. The common people of the capital are more politically aware than their counterparts elsewhere in the empire, and public opinion—expressed through street demonstrations, pamphlets, and the occasional riot—is a force that even senators must reckon with.
 
 ## For the Worldbuilder
 
-Alyssa is the empire at its most cultivated and most political — paved roads, aqueducts, market towns, and great estates, where almost nothing is more than a day's ride from a temple, a magistrate, and a tax-collector. Adventure here is rarely about wilderness; it is about the press of people and power: senatorial intrigue, Ordo surveillance, religious patronage-fights, debt and inheritance suits, and the patronage networks that decide everything. What is scarce is food (imported from [[affiliation-provnchyln|Hylen]] and [[affiliation-provincvld|Vald]]) and privacy; what is abundant is law, rumor, money, and witnesses. A settlement seeded here can be assumed to have roads, an inn, a shrine, a resident magistrate, and at least one great family whose interests reach back to the capital.
+Alyssa is the empire at its most cultivated and most political—paved roads, aqueducts, market towns, and great estates, where almost nothing is more than a day's ride from a temple, a magistrate, and a tax-collector. Adventure here is rarely about wilderness; it is about the press of people and power: senatorial intrigue, Ordo surveillance, religious patronage-fights, debt and inheritance suits, and the patronage networks that decide everything. What is scarce is food (imported from [[affiliation-provnchyln|Hylen]] and [[affiliation-provincvld|Vald]]) and privacy; what is abundant is law, rumor, money, and witnesses. A settlement seeded here can be assumed to have roads, an inn, a shrine, a resident magistrate, and at least one great family whose interests reach back to the capital.
 
 ## Commerce and Currency
 
@@ -126,7 +126,7 @@ Province of Alyssa uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Arge
 
 ## See Also
 
-- [[affiliation-vylarinmpr|Vylarian Empire]] — Parent polity
-- [[place-alyssa|Alyssa]] — The land the province holds
-- [[affiliation-provnchyln|Province of Hylen]], [[affiliation-provncmktr|Province of Moktur]], [[affiliation-provincvld|Province of Vald]] — Sister provinces
-- [[affiliation-ordoarcanis|Ordo Arcanis]] — Headquartered here
+- [[affiliation-vylarinmpr|Vylarian Empire]]—Parent polity
+- [[place-alyssa|Alyssa]]—The land the province holds
+- [[affiliation-provnchyln|Province of Hylen]], [[affiliation-provncmktr|Province of Moktur]], [[affiliation-provincvld|Province of Vald]]—Sister provinces
+- [[affiliation-ordoarcanis|Ordo Arcanis]]—Headquartered here

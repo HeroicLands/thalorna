@@ -24,5 +24,5 @@ Calvaris is a market town grown up around an ancient hilltop temple precinct of 
 
 ## See Also
 
-- [[affiliation-provinclys|Province of Alyssa]] — Parent province
-- [[affiliation-vylarinmpr|Vylarian Empire]] — Imperial overview
+- [[affiliation-provinclys|Province of Alyssa]]—Parent province
+- [[affiliation-vylarinmpr|Vylarian Empire]]—Imperial overview

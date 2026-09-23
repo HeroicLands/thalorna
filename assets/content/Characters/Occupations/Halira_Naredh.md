@@ -555,7 +555,7 @@ Hâlira Náredh is a 26-year-old woman who stands 5'9" tall and is slender. She 
 
 Hâlira Náredh is a scribe of Valdûn, the walled market town of the eastern march of [[place-elavendre|Élavendre]], an Élavendri freewoman who writes for the drovers and the pack-trains and draws in the margins of everything she writes.
 
-Hâlira learned her letters from a chapterhouse scholar who wintered in the town, and she has kept herself since with a pen: drove contracts for the families bringing cattle down out of the hills, tallies for the stock fairs, escort bonds for the pack-masters crossing the march. She writes a clean, quick hand, and she cannot leave a page plain. A drove contract from her comes back with a border of bramble and a cow in the capital, and the drovers have grown fond of it, though the town's old muster-clerk has not. She practises at night on scraps, copying the one illuminated book she has seen, which a Béravel factor showed her at a fair. Béravel has a whole quarter that makes such books. She has never been there.
+Hâlira learned her letters from a chapterhouse scholar who wintered in the town, and she has kept herself since with a pen: drove contracts for the families bringing cattle down out of the hills, tallies for the stock fairs, escort bonds for the pack-masters crossing the march. She writes a clean, quick hand, and she cannot leave a page plain. A drove contract from her comes back with a border of bramble and a cow in the capital, and the drovers have grown fond of it, though the town's old muster-clerk has not. She practices at night on scraps, copying the one illuminated book she has seen, which a Béravel factor showed her at a fair. Béravel has a whole quarter that makes such books. She has never been there.
 
 ## Psyche
 
@@ -587,10 +587,10 @@ The town's muster-clerk, an old man who keeps the levy's roll and holds that a b
 
 ## Plot Hooks
 
-1. **The Contract** — A dispute over a drove has come to Valdûn's court, and the court is reading a contract Hâlira illuminated. One side says the bramble border crosses out a clause. She drew it, and it does not.
+1. **The Contract**—A dispute over a drove has come to Valdûn's court, and the court is reading a contract Hâlira illuminated. One side says the bramble border crosses out a clause. She drew it, and it does not.
 
-2. **The Factor** — The Béravel factor who showed her the book is at the autumn fair again, and has offered to take her back as an apprentice colourist. The fair ends in three days, and her mother is ill.
+2. **The Factor**—The Béravel factor who showed her the book is at the autumn fair again, and has offered to take her back as an apprentice colorist. The fair ends in three days, and her mother is ill.
 
-3. **The Warning** — Word of a Varokh war-party has come to Valdûn at dusk and must go to every steading by dawn, in as many copies as there are riders. Hâlira is the fastest pen in the town, and the muster-clerk will not have her.
+3. **The Warning**—Word of a Varokh war-party has come to Valdûn at dusk and must go to every steading by dawn, in as many copies as there are riders. Hâlira is the fastest pen in the town, and the muster-clerk will not have her.
 
-4. **The Bond** — An escort bond has been presented in Hâlira's hand for a pack-train she never wrote for, and the escort it hired has vanished with the train.
+4. **The Bond**—An escort bond has been presented in Hâlira's hand for a pack-train she never wrote for, and the escort it hired has vanished with the train.

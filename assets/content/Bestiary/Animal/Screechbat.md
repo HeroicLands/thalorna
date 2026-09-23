@@ -20,7 +20,7 @@ data:
   gender: null
   species: null
   age: null
-  birthday: null
+  birthday: "unknown"
   height: null
   weight: null
   frame: null
@@ -325,7 +325,7 @@ sohl:
 
 ![[scrchbt|Screechbat]]{float: top-left}
 
-The sound comes first — a shriek that splits the darkness like a blade, piercing through ears and bone and mind with a force that seems physical. As your senses recoil from the auditory assault, shapes emerge in the darkness above — dark, swift silhouettes silhouetted against the lesser black of the night sky. The wings are leathery and wide, catching what little light exists and reflecting it from their membranes in sickly highlights. Below the wings dangle creatures that are more skeleton than flesh, lean and spare, with fangs that catch the light like split obsidian. As they circle, the screeching continues — an unbearable chorus that seems designed to break resolve and shatter thought itself.
+The sound comes first—a shriek that splits the darkness like a blade, piercing through ears and bone and mind with a force that seems physical. As your senses recoil from the auditory assault, shapes emerge in the darkness above—dark, swift silhouettes silhouetted against the lesser black of the night sky. The wings are leathery and wide, catching what little light exists and reflecting it from their membranes in sickly highlights. Below the wings dangle creatures that are more skeleton than flesh, lean and spare, with fangs that catch the light like split obsidian. As they circle, the screeching continues—an unbearable chorus that seems designed to break resolve and shatter thought itself.
 
 # Dossier {#dossier}
 
@@ -341,7 +341,7 @@ Screechbats are social creatures that live in colonies and hunt cooperatively in
 
 ## Combat Strategy
 
-The screechbat's primary weapon is sound — the creature uses piercing sonic screeches to disorient, deafen, and terrify targets before moving in for physical attack. A coordinated pack of screechbats creates overwhelming noise that can incapacitate unprepared opponents. Individual screechbats are relatively fragile and avoid physical engagement, preferring to remain aloft and attack from the air. The creatures will attempt to isolate prey from the group and swarm individual targets. If the pack is broken up or significant numbers are lost, the remaining screechbats retreat to darkness.
+The screechbat's primary weapon is sound—the creature uses piercing sonic screeches to disorient, deafen, and terrify targets before moving in for physical attack. A coordinated pack of screechbats creates overwhelming noise that can incapacitate unprepared opponents. Individual screechbats are relatively fragile and avoid physical engagement, preferring to remain aloft and attack from the air. The creatures will attempt to isolate prey from the group and swarm individual targets. If the pack is broken up or significant numbers are lost, the remaining screechbats retreat to darkness.
 
 ## Attack Methods
 

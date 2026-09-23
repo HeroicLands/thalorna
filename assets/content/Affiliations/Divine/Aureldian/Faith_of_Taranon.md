@@ -22,7 +22,7 @@ data:
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out — denied the rites, the temple and the burial the faith promises, which is the one
+          Cast out—denied the rites, the temple and the burial the faith promises, which is the one
           sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
@@ -39,7 +39,8 @@ data:
         title: Sacerdotes Tempestatis
         lore: priestrnk
         description: >-
-          The Priests of Storms — thirty or forty ordained clergy across the cities and coastal settlements, who keep the temples and advise farmers, merchants and sailors.
+          The Priests of Storms—thirty or forty ordained clergy across the cities and coastal
+          settlements, who keep the temples and advise farmers, merchants and sailors.
       - level: 4
         title: Flamen Tempestas
         lore: grandmasterrnk
@@ -49,13 +50,14 @@ data:
       Flamen Tempestas: >-
         High Priest of the Storm: primary voice of the god and interpreter of his will as revealed in natural phenomena, consulted by kings and city councils.
       Sacerdotes Tempestatis: >-
-        The Priests of Storms — thirty or forty ordained clergy across the cities and coastal settlements, who keep the temples and advise farmers, merchants and sailors.
+        The Priests of Storms—thirty or forty ordained clergy across the cities and coastal
+        settlements, who keep the temples and advise farmers, merchants and sailors.
       Vestales Tempestatis: >-
         Young acolytes and apprentices, typically youths who survived a near-fatal storm or show unusual sensitivity to weather.
       Weather-Watcher: >-
         Tracks storm patterns and rainfall and reports omens to the central temple.
       Storm-Reader: >-
-        Sells predictions to maritime merchants — a specialism many Vestales settle into.
+        Sells predictions to maritime merchants—a specialism many Vestales settle into.
   commonSkills: []
   seat: null
   domains: []

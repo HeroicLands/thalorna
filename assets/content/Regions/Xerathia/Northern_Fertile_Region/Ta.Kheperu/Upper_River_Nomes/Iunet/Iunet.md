@@ -24,7 +24,7 @@ Iunet is the capital of [[affiliation-nomeiunet|the Nome of Iunet]] and the seat
 
 ## See Also
 
-- [[affiliation-nomeiunet|The Nome of Iunet]] — Parent nome
-- [[affiliation-uperivrnms|The Upper River Nomes]] — Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[affiliation-iset|Íšét]] — Patron cult
+- [[affiliation-nomeiunet|The Nome of Iunet]]—Parent nome
+- [[affiliation-uperivrnms|The Upper River Nomes]]—Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
+- [[affiliation-iset|Íšét]]—Patron cult

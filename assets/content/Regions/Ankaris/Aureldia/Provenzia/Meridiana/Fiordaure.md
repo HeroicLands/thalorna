@@ -2,7 +2,7 @@
 tags:
   - town
   - coastal
-description: "A southern coastal town living on shipping and the great salt flats to its east — modest, wealthy for its size, and home to minor houses whose fortunes rest on salt rather than on land."
+description: "A southern coastal town living on shipping and the great salt flats to its east—modest, wealthy for its size, and home to minor houses whose fortunes rest on salt rather than on land."
 type: place
 subType: settlement
 data:
@@ -23,7 +23,7 @@ that would be unremarkable but for what lies immediately east of it: the **salt 
 
 ## The Salt
 
-The southern shore here is low, hot and shallowly tidal — the conditions that make salt — and
+The southern shore here is low, hot and shallowly tidal—the conditions that make salt—and
 Fiòrdaure's pans are the largest in Provènzia by a wide margin. This is Vylarian-style salt-making,
 worked by sun and patience on flat ground, and it is an entirely different industry from the
 wind-scoured pans above [[place-portvent|Portvent]] on the cold western coast, which produce a
@@ -36,7 +36,7 @@ has made the town's fortunes without ever making it fashionable.
 ## The Houses
 
 Fiòrdaure's nobility are minor houses whose wealth rests on coastal trade and the pans rather than on
-broad land — the **Kórisvars** among them — and they occupy an awkward rank: rich enough to matter in
+broad land—the **Kórisvars** among them—and they occupy an awkward rank: rich enough to matter in
 the district, not landed enough to matter at [[place-lunacorte|Lunacòrte]], and acutely conscious of
 the difference.
 

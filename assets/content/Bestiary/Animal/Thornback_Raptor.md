@@ -20,7 +20,7 @@ data:
   gender: null
   species: null
   age: null
-  birthday: null
+  birthday: "unknown"
   height: null
   weight: null
   frame: null
@@ -323,7 +323,7 @@ sohl:
 
 ![[thrnbckr|Thornback Raptor]]{float: top-left}
 
-The tap-tap-tap of claw on stone precedes recognition — a rhythmic, eerie clicking that sends primal warning up your spine. The creature steps into view on powerful hind legs, its form undeniably reptilian: sleek, muscular, and covered in mottled green-brown scales that shift with each movement. Jagged bony ridges run the length of its spine, glinting with an ominous light. The yellow eyes are unblinking and intelligent, and as it tilts its head with unsettling fluidity, the mouth opens to emit a sound that is part hiss, part something more — a clicking, chittering vocalization that seems designed to unnerve prey. You notice the claws on each foot curve upward in deadly arcs, clearly specialized for slashing and eviscerating.
+The tap-tap-tap of claw on stone precedes recognition—a rhythmic, eerie clicking that sends primal warning up your spine. The creature steps into view on powerful hind legs, its form undeniably reptilian: sleek, muscular, and covered in mottled green-brown scales that shift with each movement. Jagged bony ridges run the length of its spine, glinting with an ominous light. The yellow eyes are unblinking and intelligent, and as it tilts its head with unsettling fluidity, the mouth opens to emit a sound that is part hiss, part something more—a clicking, chittering vocalization that seems designed to unnerve prey. You notice the claws on each foot curve upward in deadly arcs, clearly specialized for slashing and eviscerating.
 
 # Dossier {#dossier}
 

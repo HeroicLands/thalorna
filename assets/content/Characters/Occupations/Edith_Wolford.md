@@ -558,7 +558,7 @@ Born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan he
 
 Edith discovered her talent for jewelry making while working as an apprentice in her father’s shop. She specializes in crafting intricate pieces that often incorporate unique designs inspired by nature. Edith's work has gained attention for its originality, and she has a growing clientele who appreciate her artistic vision. Despite her success, she remains humble and dedicated to her craft.
 
-Now at 29 years of age, Edith Wolford has established herself as a known figure among the jewellers of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 29 years of age, Edith Wolford has established herself as a known figure among the jewelers of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
 ## Psyche
 
@@ -576,7 +576,7 @@ Creative, skilled in design and metalwork, excellent customer service.
 
 ## Social
 
-Edith is affiliated with Local Jewellers' Guild.
+Edith is affiliated with Local Jewelers' Guild.
 
 As a Aelwythan jeweler, Edith occupies a recognized social niche within Aelwyth society.
 
@@ -592,12 +592,12 @@ None; generally well-liked in the community.
 
 ## Plot Hooks
 
-1. **The Jeweler's Dilemma** — Edith faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
+1. **The Jeweler's Dilemma**—Edith faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 
-2. **Old Grudges** — None; generally well-liked in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges**—None; generally well-liked in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** — Something from Edith's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Edith's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds** — Political changes in Aelwyth threaten to upend the social order that Edith depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Edith depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** — A chance encounter offers Edith the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Edith the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

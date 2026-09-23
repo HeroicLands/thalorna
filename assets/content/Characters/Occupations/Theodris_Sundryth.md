@@ -590,12 +590,12 @@ None, but has been targeted by pickpockets.
 
 ## Plot Hooks
 
-1. **The Beggar's Dilemma** — Theódris faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vrystwald.
+1. **The Beggar's Dilemma**—Theódris faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vrystwald.
 
-2. **Old Grudges** — None, but has been targeted by pickpockets. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges**—None, but has been targeted by pickpockets. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** — Something from Theódris's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Theódris's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds** — Political changes in Vrystwald threaten to upend the social order that Theódris depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Theódris depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** — A chance encounter offers Theódris the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Theódris the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

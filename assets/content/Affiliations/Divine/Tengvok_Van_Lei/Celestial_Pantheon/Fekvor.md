@@ -43,8 +43,8 @@ data:
         title: Copyist
         lore: apprenticernk
         description: >-
-          Under training in a temple — copying forms, learning the seals and the calendrical
-          schedules — and not yet permitted to file anything on another's behalf.
+          Under training in a temple—copying forms, learning the seals and the calendrical
+          schedules—and not yet permitted to file anything on another's behalf.
       - level: 3
         title: Clerk
         lore: clerkrnk
@@ -123,7 +123,7 @@ data:
 packFolder: celestialpantheon
 ---
 
-## Fëkvōr — The Minister of Material Fortune
+## Fëkvōr—The Minister of Material Fortune
 
 - **Bureau:** Fëklüt Sëi, The Bureau of Allocation
 - **Domain:** Prosperity
@@ -131,7 +131,7 @@ packFolder: celestialpantheon
 
 Prosperity is allocated, not granted. Fëklüt Sëi holds the schedules by which harvest quality and
 commercial fortune are distributed, and a merchant house's good years are its allocation rather than
-its luck — a distinction the Tānvüri consider obvious and foreigners find bleak.
+its luck—a distinction the Tānvüri consider obvious and foreigners find bleak.
 
 The bureau is in perpetual conflict with the [[affiliation-nusvor|Bureau of Returns]] over whether
 a given resource should be distributed or reclaimed, and the two file counter-petitions against one
@@ -140,11 +140,11 @@ when Fëklüt Sëi is winning.
 
 ### Lesser Spirits
 
-- **Nōkvōr** — Field Allocation Spirits, who distribute harvest quality to farming communities.
-- **Fëklëi** — Coin Spirits, who influence the flow of trade and commercial fortune.
+- **Nōkvōr**—Field Allocation Spirits, who distribute harvest quality to farming communities.
+- **Fëklëi**—Coin Spirits, who influence the flow of trade and commercial fortune.
 
 ### See Also
 
-- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — the Celestial Bureaucracy this bureau belongs to
-- [[affiliation-tanvurempr|Empire of Tānvür]] — the mortal realm it administers
-- [[skill-tngthkscrpt|Tëng Thōk Script]] — the writing every petition is made in
+- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]]—the Celestial Bureaucracy this bureau belongs to
+- [[affiliation-tanvurempr|Empire of Tānvür]]—the mortal realm it administers
+- [[skill-tngthkscrpt|Tëng Thōk Script]]—the writing every petition is made in

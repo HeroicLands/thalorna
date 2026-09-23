@@ -6,7 +6,7 @@ type: doc
 subType: reference
 shortcode: affiliation
 tags:
-description: Every organized body of Thalorna — religions, schools of magic, spirit traditions, and secular orders.
+description: Every organized body of Thalorna—religions, schools of magic, spirit traditions, and secular orders.
 data:
   banner: organizationbnr
 ---
@@ -22,7 +22,7 @@ character may hold any of them without the others.
 
 ## Religions and Churches
 
-Deity-facing traditions — pantheons, the cults of individual deities, and the
+Deity-facing traditions—pantheons, the cults of individual deities, and the
 orders sworn to them.
 
 ```sql

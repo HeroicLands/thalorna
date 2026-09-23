@@ -14,7 +14,7 @@ data:
     model: council
     summary: >-
       Alone among the Asguardian faiths, Baldr's adherents took the Sinalëan structure rather than
-      the circles — and it is barely a hierarchy at all. There are two standings and no office above
+      the circles—and it is barely a hierarchy at all. There are two standings and no office above
       them: all Calathiri are equal, and the Lómëthar that decides anything affecting the faith is
       an open convocation with no presiding officer, reaching accord by deliberation rather than
       decree.
@@ -29,20 +29,20 @@ data:
         title: Tindësar
         lore: initiaternk
         description: >-
-          "Star-seeker" — newly called, learning dream-reading, healing and the tending of sacred
+          "Star-seeker"—newly called, learning dream-reading, healing and the tending of sacred
           groves under a Calathir, in a relationship closer to apprentice and mentor than to
           subordinate and superior.
       - level: 2
         title: Calathir
         lore: priestrnk
         description: >-
-          "Light-watcher" — entrusted with the rites, the care of the faithful and the stewardship of
+          "Light-watcher"—entrusted with the rites, the care of the faithful and the stewardship of
           sacred places. All Calathiri are equal in standing, and there is nothing above this.
     offices:
       Calathir: >-
         Priest of the faith, holding the rites and the sacred places; equal to every other Calathir.
       Lómëthar: >-
-        "Council of radiance" — the open convocation that decides what affects the faith as a whole.
+        "Council of radiance"—the open convocation that decides what affects the faith as a whole.
         Any Calathir may call one; it has no presiding officer and speaks until it reaches accord.
       Dreamwarden: >-
         Keeper of the dream-rites and of those who sleep in the sacred groves to receive them.
@@ -69,15 +69,15 @@ thalorna:
 packFolder: pantheonsasguardian
 ---
 
-"Baldr" is the Asguardian name for [[lore-goddreams|The God of Dreams]] — a deity far older than any human pantheon, worshipped by the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] since before humanity existed. The Aurèldían peoples know the same deity as [[affiliation-aetheria|Aethería]].
+"Baldr" is the Asguardian name for [[lore-goddreams|The God of Dreams]]—a deity far older than any human pantheon, worshipped by the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] since before humanity existed. The Aurèldían peoples know the same deity as [[affiliation-aetheria|Aethería]].
 
-Among northern humans, the Faith of Baldr draws worshippers primarily through the deity's dream aspect — the power to guide, inspire, and foretell through the landscapes of sleep. This makes the faith unusual in the Asguardian tradition: where most northern faiths are dominated by warriors, jarls, and seafarers, Baldr's human followers tend to be seers, healers, and those who seek wisdom through vision rather than the sword.
+Among northern humans, the Faith of Baldr draws worshippers primarily through the deity's dream aspect—the power to guide, inspire, and foretell through the landscapes of sleep. This makes the faith unusual in the Asguardian tradition: where most northern faiths are dominated by warriors, jarls, and seafarers, Baldr's human followers tend to be seers, healers, and those who seek wisdom through vision rather than the sword.
 
 ## Aspects
 
-As the god of light, Baldr embodies purity and enlightenment, casting away shadows and bringing clarity. This light is not merely physical but symbolic — hope, truth, and the power to overcome darkness. It nurtures life and fosters growth, harmonizing with the natural world.
+As the god of light, Baldr embodies purity and enlightenment, casting away shadows and bringing clarity. This light is not merely physical but symbolic—hope, truth, and the power to overcome darkness. It nurtures life and fosters growth, harmonizing with the natural world.
 
-Baldr is often depicted with an aura of radiant light, serene and filled with boundless compassion. Around the deity, symbols of nature and the elder races — ancient trees, intricate runes, luminous crystals — serve as testaments to a divine connection with the world that predates human memory.
+Baldr is often depicted with an aura of radiant light, serene and filled with boundless compassion. Around the deity, symbols of nature and the elder races—ancient trees, intricate runes, luminous crystals—serve as testaments to a divine connection with the world that predates human memory.
 
 ## Sacred Objects
 
@@ -92,7 +92,7 @@ Baldr is often depicted with an aura of radiant light, serene and filled with bo
 
 ## Clergy
 
-Human adherents of Baldr have adopted the Sinalëan clergy structure — the only Asguardian faith to do so. See [[lore-goddreams|The Sinalëan Tradition]] for the full structure (Tindësar, Calathir, and the Lómëthar convocation).
+Human adherents of Baldr have adopted the Sinalëan clergy structure—the only Asguardian faith to do so. See [[lore-goddreams|The Sinalëan Tradition]] for the full structure (Tindësar, Calathir, and the Lómëthar convocation).
 
 **Key Skills:** Dream interpretation, Archery, Survival, Tracking, Trance, Communication with elder races, Prophecy
 

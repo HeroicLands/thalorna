@@ -36,6 +36,6 @@ Tz’alam Ha’ is the most cosmopolitan city in the south, with merchant famili
 
 ## See Also
 
-- [[affiliation-balamtzaku|Ba’alam Tza’ku]] — The highland region
-- [[place-hakukul|Ha’ K’ukul]] — The upriver trade hub
-- [[place-tzalamwitz|Tz’alam Witz]] — The mountain fortress inland
+- [[affiliation-balamtzaku|Ba’alam Tza’ku]]—The highland region
+- [[place-hakukul|Ha’ K’ukul]]—The upriver trade hub
+- [[place-tzalamwitz|Tz’alam Witz]]—The mountain fortress inland

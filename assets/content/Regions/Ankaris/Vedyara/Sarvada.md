@@ -2,7 +2,7 @@
 tags:
   - river
   - inland
-description: "The river of the scribal janapadas — off the Southern Wall through the bow-country and the copyist towns of the middle valley to the eastern sea."
+description: "The river of the scribal janapadas—off the Southern Wall through the bow-country and the copyist towns of the middle valley to the eastern sea."
 type: place
 subType: feature
 data:
@@ -29,9 +29,9 @@ It has consequences nobody planned. A regional dialect with an unusually conserv
 
 ## The Water
 
-The Sarvada is the gentlest of the four. It rises slowly, spreads rather than cuts, and leaves silt instead of taking fields; the villages sit on the flood-plain itself rather than back from it, which is a thing no one does on the [[place-mahanadi|Mahānadi]] and lives.
+The Sarvada is the gentlest of the four. It rises slowly, spreads where the others cut, and leaves silt instead of taking fields. The villages sit on the flood-plain itself and not back from it, which is a thing no one does on the [[place-mahanadi|Mahānadi]] and lives.
 
-Boats work it for nine hundred miles, and the river trade is small craft and short hops rather than the long haulage of the other three.
+Boats work it for nine hundred miles. Its river trade is small craft and short hops, where the other three carry long haulage.
 
 ## See Also
 

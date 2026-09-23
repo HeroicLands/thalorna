@@ -595,12 +595,12 @@ Reformists who view him as a symbol of the stagnant system.
 
 ## Plot Hooks
 
-1. **The Bureaucrat's Dilemma** — A superior's corruption reaches Alîmû's own desk, and he has to choose between his principles and his office.
+1. **The Bureaucrat's Dilemma**—A superior's corruption reaches Alîmû's own desk, and he has to choose between his principles and his office.
 
-2. **Old Grudges** — Reformists who see him as a symbol of the stagnant system may make him the example when they move against it.
+2. **Old Grudges**—Reformists who see him as a symbol of the stagnant system may make him the example when they move against it.
 
-3. **Echoes of the Past** — A record Alîmû filed decades ago resurfaces and has to be answered for.
+3. **Echoes of the Past**—A record Alîmû filed decades ago resurfaces and has to be answered for.
 
-4. **Shifting Winds** — Political change in Harad threatens the offices Alîmû depends upon, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Harad threatens the offices Alîmû depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity** — An offer of higher office comes to Alîmû from someone whose interest in him he cannot see, and its price is not named up front.
+5. **The Opportunity**—An offer of higher office comes to Alîmû from someone whose interest in him he cannot see, and its price is not named up front.

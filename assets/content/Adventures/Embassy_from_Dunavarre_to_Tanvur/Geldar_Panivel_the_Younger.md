@@ -535,4 +535,4 @@ TBD
 
 **Background.** Well known for his culinary skill.
 
-**Intrigue.** Secretly a [[affiliation-thanatos|Thanatine]] acolyte and spy. In 717 he took part in the kidnapping and murder of the Senator [[being-balothnemirina|Baloth Nemirina]] — a past that can be used against him, and that he may use himself, as a bargaining chip or to raise his standing among the Thanatines. May be planning poisonings or sabotage.
+**Intrigue.** Secretly a [[affiliation-thanatos|Thanatine]] acolyte and spy. In 717 he took part in the kidnapping and murder of the Senator [[being-balothnemirina|Baloth Nemirina]]—a past that can be used against him, and that he may use himself, as a bargaining chip or to raise his standing among the Thanatines. May be planning poisonings or sabotage.

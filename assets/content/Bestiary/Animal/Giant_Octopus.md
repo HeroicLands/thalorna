@@ -20,7 +20,7 @@ data:
   gender: null
   species: null
   age: null
-  birthday: null
+  birthday: "unknown"
   height: null
   weight: null
   frame: null
@@ -265,7 +265,7 @@ The Giant Octopus is an underwater apex predator standing as one of the most int
 
 ## Presentation
 
-The Giant Octopus is a marvel of malleability and power—its body is essentially boneless, allowing it to compress through impossibly small spaces while remaining capable of exerting crushing force. The central body (mantle) is bulbous and muscular, with two large, prominent eyes set to provide excellent forward and lateral vision. The skin is covered in chromatophores that allow rapid color and pattern changes for camouflage and communication. Eight tentacles radiate from the central body, each lined with powerful suction cups and capable of independent movement and sensation. Each tentacle is functionally an arm with its own sensory organs and a measure of its own judgement. The mouth is a hard, sharp beak capable of piercing bone, and it is surrounded by a funnel used for jet propulsion.
+The Giant Octopus is a marvel of malleability and power—its body is essentially boneless, allowing it to compress through impossibly small spaces while remaining capable of exerting crushing force. The central body (mantle) is bulbous and muscular, with two large, prominent eyes set to provide excellent forward and lateral vision. The skin is covered in chromatophores that allow rapid color and pattern changes for camouflage and communication. Eight tentacles radiate from the central body, each lined with powerful suction cups and capable of independent movement and sensation. Each tentacle is functionally an arm with its own sensory organs and a measure of its own judgment. The mouth is a hard, sharp beak capable of piercing bone, and it is surrounded by a funnel used for jet propulsion.
 
 ## Key Behaviors
 

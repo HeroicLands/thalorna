@@ -3,7 +3,7 @@ tags:
   - river
   - forest
   - inland
-description: "The eastern river — out of the ice above the Silver Gorges, through the gold highlands and the temple-controlled forests, to the coast; the pilgrim road runs its whole length."
+description: "The eastern river—out of the ice above the Silver Gorges, through the gold highlands and the temple-controlled forests, to the coast; the pilgrim road runs its whole length."
 type: place
 subType: feature
 data:
@@ -24,11 +24,11 @@ The **Bhārava** rises at [[place-bhrvprbhav|Bhāravaprabhava]] under [[place-es
 
 ## The Highlands
 
-The upper Bhārava is the alluvial gold country. The wash out of the mountain has funded the temples of the highland janapadas for fifteen centuries, and the janapada that sits on the richest of it is wealthy by any standard and philosophically embarrassed about it in a way that outsiders find either admirable or exasperating depending on how much they wanted to buy.
+The upper Bhārava is the alluvial gold country. The wash out of the mountain has funded the temples of the highland janapadas for fifteen centuries. The janapada that sits on the richest of it is wealthy by any standard and philosophically embarrassed about it, which outsiders find admirable or exasperating by how much they wanted to buy.
 
 ## The Forest
 
-Below the highlands the river runs through forest that is held by temple-domains rather than by janapadas — the one arrangement in Vedyara where no assembly sits and no sabhā meets, and where the forest products that pay for everything are gathered by peoples the lowland records describe only in the aggregate.
+Below the highlands the river runs through forest held by temple-domains and by no janapada. It is the one arrangement in Vedyara where no assembly sits and no sabhā meets. The forest products that pay for everything are gathered by peoples the lowland records describe only in the aggregate.
 
 The pilgrim road runs the whole length of the river, sea to ice, and the hostels that make the walk possible are endowed out of exactly those forest products. A great many people whose devotion would not survive the cost of the journey make it anyway, on other people's charity, and that fact is itself part of the observance.
 

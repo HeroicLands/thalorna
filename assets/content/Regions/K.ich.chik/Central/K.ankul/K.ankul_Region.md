@@ -51,6 +51,6 @@ The cenote system itself generates trade: the rare minerals and salts that preci
 
 ## See Also
 
-- [[affiliation-kankul|K'ankul]] — The realm that holds this land
-- [[place-cntrlkchchk|Central K'ich'chik]] — The enclosing region
-- [[place-kankul2|K'ankul]] — Seat of K'ankul
+- [[affiliation-kankul|K'ankul]]—The realm that holds this land
+- [[place-cntrlkchchk|Central K'ich'chik]]—The enclosing region
+- [[place-kankul2|K'ankul]]—Seat of K'ankul

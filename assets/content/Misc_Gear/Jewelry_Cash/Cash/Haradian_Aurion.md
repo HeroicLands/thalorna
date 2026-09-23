@@ -23,6 +23,6 @@ sohl:
 packFolder: cash
 ---
 
-The Confederation's own gold issue, struck under the Bayt al-Khazînah rather than the imperial Aerarium, at the same nominal denomination structure as the coin it was modelled on.
+The Confederation's own gold issue, struck under the Bayt al-Khazînah rather than the imperial Aerarium, at the same nominal denomination structure as the coin it was modeled on.
 
 By imperial assay it is about seven per cent short of the Vylarian gold content. Inside the Confederation the coin passes at its full nominal value and the shortfall is simply not discussed; at a border, where a Vylarian or Kheperi moneylender assays the metal, it converts at the discount. The gap is acknowledged in cross-border dealing and advertised in none of it.

@@ -22,7 +22,8 @@ data:
         title: Rite-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually requires — a sentence that reaches past the end of the life it is passed in.
+          Barred from the temple rites, and with them from the funerary rites every Kheperi
+          eventually requires—a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
         lore: layfaithfulrnk
@@ -32,17 +33,22 @@ data:
         title: Wab
         lore: initiaternk
         description: >-
-          "Purified One" — acolytes in study, many of whom never advance to full priesthood but take secular careers as scribes, administrators or scholars while keeping their connection through continued study and pilgrimage.
+          "Purified One"—acolytes in study, many of whom never advance to full priesthood but take
+          secular careers as scribes, administrators or scholars while keeping their connection
+          through continued study and pilgrimage.
       - level: 3
         title: Hem'Netjer
         lore: priestrnk
         description: >-
-          "Servant of the God" — ordained priests of knowledge, each overseeing a specific domain and holding authority over its archive: the astronomical tables, the medical texts, the architectural plans, and so on.
+          "Servant of the God"—ordained priests of knowledge, each overseeing a specific domain and
+          holding authority over its archive: the astronomical tables, the medical texts, the
+          architectural plans, and so on.
       - level: 4
         title: Wer'Hekau
         lore: highpriestrnk
         description: >-
-          "Great of Sacred Power" — High Priest or High Priestess of Thōth, at the head of the temples that hold the archives.
+          "Great of Sacred Power"—High Priest or High Priestess of Thōth, at the head of the temples
+          that hold the archives.
     offices:
       Keeper of the Astronomical Tables: >-
         The Hem'Netjer holding that archive and training its younger scholars.
@@ -51,16 +57,17 @@ data:
       Keeper of the Architectural Plans: >-
         The Hem'Netjer holding that archive and training its younger scholars.
       Recorder of the Chaos God: >-
-        Thōth's scribes record everything bearing on the understanding of Ápōphis, knowledge being held the strongest defence against chaos.
+        Thōth's scribes record everything bearing on the understanding of Ápōphis, knowledge being
+        held the strongest defense against chaos.
       Keeper of the King-Lists: >-
-        Holds the temple chronologies — the meticulously maintained list of every dynasty and Per-Aá since
-        the Sep Tepy, unbroken. Master copies are kept in Thōth's precinct adjoining the Great Temple of Rā.
-        Western scholars note improbable reigns and suspiciously neat numbers in the earliest dynasties; the
-        Kheperi are serenely unconcerned, the lists having been compiled by the priesthood of the god of
-        sacred knowledge.
+        Holds the temple chronologies—the meticulously maintained list of every dynasty and Per-Aá
+        since the Sep Tepy, unbroken. Master copies are kept in Thōth's precinct adjoining the Great
+        Temple of Rā. Western scholars note improbable reigns and suspiciously neat numbers in the
+        earliest dynasties; the Kheperi are serenely unconcerned, the lists having been compiled by
+        the priesthood of the god of sacred knowledge.
       Master of the Calendar-Service: >-
-        Keeps the realm's time from the observatory at Khemenu, whose astronomers maintain the three-season
-        year of Akhet, Peret and Shemu — the most accurate calendar in the known world.
+        Keeps the realm's time from the observatory at Khemenu, whose astronomers maintain the
+        three-season year of Akhet, Peret and Shemu—the most accurate calendar in the known world.
       Warden of the Library-Temple: >-
         Holds the deepest archive in the empire and controls admission to it. Helionite scholars are among
         the very few foreigners ever admitted.

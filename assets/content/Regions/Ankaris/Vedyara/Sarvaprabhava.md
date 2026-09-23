@@ -3,7 +3,7 @@ tags:
   - sacred
   - pilgrimage
   - inland
-description: "The glacier-spring of the Sarvada, high on the Southern Wall above the upper valley — the source-temple of Vyālendra and the hardest of the four to reach."
+description: "The glacier-spring of the Sarvada, high on the Southern Wall above the upper valley—the source-temple of Vyālendra and the hardest of the four to reach."
 type: place
 subType: site
 data:
@@ -22,7 +22,7 @@ packFolder: vedyara
 
 **Sarvaprabhava** is the source of the [[place-sarvadarivr|Sarvada]], in a hanging valley on the face of [[place-sthrnwall|the Southern Wall]] east of [[place-suryadvara|Sūryadvāra]]. It is the second of the four cosmic sources and the one fewest pilgrims see, because the last two days of the approach are a stair cut in rock and there is no way to carry anybody up it.
 
-The source-temple here is [[affiliation-vyalendra|Vyālendra]]'s, and its priests are shapers and builders rather than scholars. The temple has been rebuilt on the same footing eleven times, each time in the course of a single open season, and its masons regard the interval between rebuildings — never less than a century, never more than two — as a datum about the mountain rather than about their predecessors' work.
+The source-temple here is [[affiliation-vyalendra|Vyālendra]]'s, and its priests are shapers and builders and no kind of scholar. The temple has been rebuilt on the same footing eleven times, each time in the course of a single open season. The interval between rebuildings is never less than a century and never more than two, and its masons read that as a fact about the mountain and not about their predecessors' work.
 
 ## The Measurement
 

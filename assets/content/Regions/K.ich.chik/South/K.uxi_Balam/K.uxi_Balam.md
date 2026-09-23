@@ -1,7 +1,7 @@
 ---
 tags:
   - polity
-description: High altiplano of sacred lakes, pastoral priesthood, and mountain passes — the southern frontier of K'ich'chik civilization.
+description: High altiplano of sacred lakes, pastoral priesthood, and mountain passes—the southern frontier of K'ich'chik civilization.
 name:
   full: K'uxi Balam
   aliases: []
@@ -28,19 +28,19 @@ data:
         title: Captive
         lore: slavernk
         description: >-
-          Taken in war and held for labour or for the altar, with no standing and, commonly,
+          Taken in war and held for labor or for the altar, with no standing and, commonly,
           no long future.
       - level: 2
         title: Commoner
         lore: commonerrnk
         description: >-
-          Working the milpa and owing labour on the temple platforms and causeways, and tribute
+          Working the milpa and owing labor on the temple platforms and causeways, and tribute
           in maize, cloth and cacao.
       - level: 3
         title: Craftsman
         lore: journeymanrnk
         description: >-
-          Of the skilled trades — potters, weavers, feather-workers, stone-cutters — attached
+          Of the skilled trades—potters, weavers, feather-workers, stone-cutters—attached
           to a lord's household or a temple.
       - level: 4
         title: Warrior
@@ -62,7 +62,7 @@ data:
         title: Sahal
         lore: greatlordrnk
         description: >-
-          A subordinate lord holding a lesser centre for the k'uhul ajaw, and the usual rank
+          A subordinate lord holding a lesser center for the k'uhul ajaw, and the usual rank
           of a conquered city's ruler.
       - level: 8
         title: K'uhul Ajaw
@@ -77,7 +77,7 @@ data:
       Ix Ajaw: >-
         Royal lady of the city, of a lineage recorded and married for, and a ruler in her
         own right where the line requires it.
-      Sahal: Subordinate lord holding a lesser centre in the Holy Lord's name.
+      Sahal: Subordinate lord holding a lesser center in the Holy Lord's name.
       Ajaw: Noble lord of the city, holding land, dependents and a voice at court.
       Ah K'in: Priest of the sun and keeper of the count of days, who fixes every auspicious
         hour.
@@ -89,7 +89,7 @@ data:
       Ah Kulel: Deputy and herald of a lord, who carries his word and is answered as if it
         were his.
       Ah Ppolom: >-
-        Master merchant of the long-distance trade in cacao, salt, obsidian and jade — and
+        Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and
         a lord's eyes abroad.
       Ballcourt Keeper: >-
         Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice
@@ -111,7 +111,7 @@ packFolder: kuxibalam
 
 ## Overview
 
-K'uxi Balam holds the land of [[place-kuxibalamrgn|K'uxi Balam Region]]. The Ch'um Ix'lan relay network thins here as well; Ch'umbal way-stations are spaced further apart, runners are harder to recruit for the harsh southern routes, and messages from [[affiliation-balamkul|Balamkul]] that arrive in two days at [[affiliation-kankul|K'ankul]] take five or six to reach K'uxi Balam's outpost cities. Beyond K'uxi Balam, the Speaking Road falls silent entirely — the last tz'ib'al cord to arrive is decoded at [[place-kawilulkik|K'awi'il'ul Ki'ik]], and what lies further south relies on the courage of individual messengers. Those who venture south from K'uxi Balam do so with offerings and prayers heavy on their lips.
+K'uxi Balam holds the land of [[place-kuxibalamrgn|K'uxi Balam Region]]. The Ch'um Ix'lan relay network thins here as well; Ch'umbal way-stations are spaced further apart, runners are harder to recruit for the harsh southern routes, and messages from [[affiliation-balamkul|Balamkul]] that arrive in two days at [[affiliation-kankul|K'ankul]] take five or six to reach K'uxi Balam's outpost cities. Beyond K'uxi Balam, the Speaking Road falls silent entirely—the last tz'ib'al cord to arrive is decoded at [[place-kawilulkik|K'awi'il'ul Ki'ik]], and what lies further south relies on the courage of individual messengers. Those who venture south from K'uxi Balam do so with offerings and prayers heavy on their lips.
 
 ## Maritime Powers
 
@@ -125,9 +125,9 @@ The priesthood maintains strict control over K'uxi Balam's resources. Large port
 
 ## See Also
 
-- [[affiliation-balamtzaku|Ba'alam Tza'ku]] — The wealthier realm to the north
-- [[affiliation-kawiltzakl|K'awiil Tza'kul]] — The boundary lands where civilization falters
-- [[place-ixkulkul|Ixkul K'ul]] — The sacred lake and pilgrimage destination
-- [[place-kawilulkik|K'awi'il'ul Ki'ik]] — The frontier garrison city
-- [[affiliation-itzanpnthn|Itzáni]] — The priesthood that commands these lands
-- [[place-kuxibalamrgn|K'uxi Balam Region]] — The land K'uxi Balam holds
+- [[affiliation-balamtzaku|Ba'alam Tza'ku]]—The wealthier realm to the north
+- [[affiliation-kawiltzakl|K'awiil Tza'kul]]—The boundary lands where civilization falters
+- [[place-ixkulkul|Ixkul K'ul]]—The sacred lake and pilgrimage destination
+- [[place-kawilulkik|K'awi'il'ul Ki'ik]]—The frontier garrison city
+- [[affiliation-itzanpnthn|Itzáni]]—The priesthood that commands these lands
+- [[place-kuxibalamrgn|K'uxi Balam Region]]—The land K'uxi Balam holds

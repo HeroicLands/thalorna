@@ -33,12 +33,12 @@ What begins as a straightforward bandit-hunting job gradually reveals layers of 
 
 ## Key NPCs
 
-- **Thárion al Dracáen** — Deposed former lord of Bélsaren, now a charismatic bandit leader fighting for the Thânevar peasants. Sympathetic but increasingly desperate and violent.
-- **Élgâr Târlas al Pélanvri nâ Bélsaren** — Current lord of Bélsaren. Harsh, self-interested, and oppressive toward the Thânevar. Hires the adventurers.
-- **Khiráta Jârvel al Pélanvri nâ Caêr Céravel** — Târlas's liege lord. Installed Târlas after deposing Thárion's family on fabricated treason charges.
-- **Nâlor Kílan alrí Ilóvrel nâ Ilóvren** — The true antagonist. A calculating noble and secret Black Flame sympathizer who manipulates the bandit conflict to destabilize Bélsaren and pursue the artifact.
-- **Kâldin al Lénavel nâ Léravren** — Lord of Léravren, member of the Zûravel clan of the Black Flame. Kílan's ally and the connection to organized Black Flame power.
-- **Darisen al Olrûn** — An erudite scholar who offers help understanding the Black Flame and tracking the shrine. Secretly a Thanatine with his own designs on the artifact.
+- **Thárion al Dracáen**—Deposed former lord of Bélsaren, now a charismatic bandit leader fighting for the Thânevar peasants. Sympathetic but increasingly desperate and violent.
+- **Élgâr Târlas al Pélanvri nâ Bélsaren**—Current lord of Bélsaren. Harsh, self-interested, and oppressive toward the Thânevar. Hires the adventurers.
+- **Khiráta Jârvel al Pélanvri nâ Caêr Céravel**—Târlas's liege lord. Installed Târlas after deposing Thárion's family on fabricated treason charges.
+- **Nâlor Kílan alrí Ilóvrel nâ Ilóvren**—The true antagonist. A calculating noble and secret Black Flame sympathizer who manipulates the bandit conflict to destabilize Bélsaren and pursue the artifact.
+- **Kâldin al Lénavel nâ Léravren**—Lord of Léravren, member of the Zûravel clan of the Black Flame. Kílan's ally and the connection to organized Black Flame power.
+- **Darisen al Olrûn**—An erudite scholar who offers help understanding the Black Flame and tracking the shrine. Secretly a Thanatine with his own designs on the artifact.
 
 ## The Three Parts
 
@@ -56,19 +56,19 @@ The adventurers venture into the cursed Blood Hills, navigate treacherous terrai
 
 ## Key Themes
 
-- **Deception and Betrayal** — Layers of manipulation from Kílan, Kâldin, and even apparent allies like Darisen
-- **Moral Dilemmas** — The adventurers repeatedly face choices that challenge their values: trust or betray, mercy or justice, power or principle
-- **Political Intrigue** — Noble rivalries, fabricated charges, shifting alliances, and the cynical use of peasant suffering as a political tool
-- **Power and Corruption** — The Black Flame artifact represents the seductive and corrupting nature of power itself
+- **Deception and Betrayal**—Layers of manipulation from Kílan, Kâldin, and even apparent allies like Darisen
+- **Moral Dilemmas**—The adventurers repeatedly face choices that challenge their values: trust or betray, mercy or justice, power or principle
+- **Political Intrigue**—Noble rivalries, fabricated charges, shifting alliances, and the cynical use of peasant suffering as a political tool
+- **Power and Corruption**—The Black Flame artifact represents the seductive and corrupting nature of power itself
 
 ## Future Hooks
 
-- **Black Flame Rage** — The Zûr clan seeks revenge or attempts to reclaim the relic
-- **Power Shifts in the Region** — New political dynamics emerge depending on how the adventurers handled Târlas and Kílan
-- **Mysterious Forces** — The artifact's origins hint at deeper lore tied to the Black Flame or other ancient powers
+- **Black Flame Rage**—The Zûr clan seeks revenge or attempts to reclaim the relic
+- **Power Shifts in the Region**—New political dynamics emerge depending on how the adventurers handled Târlas and Kílan
+- **Mysterious Forces**—The artifact's origins hint at deeper lore tied to the Black Flame or other ancient powers
 
 ## Related Notes
 
-- [[scenario-maulgashng|Maul of Gashang]] — The Black Flame artifact at the heart of the conspiracy
-- [[scenario-caveoutlin|Cave Outline]] — Detailed layout of Thárion's bandit hideout
-- [[scenario-sumryprvnz|Summary of Provènzia]] — Regional context
+- [[scenario-maulgashng|Maul of Gashang]]—The Black Flame artifact at the heart of the conspiracy
+- [[scenario-caveoutlin|Cave Outline]]—Detailed layout of Thárion's bandit hideout
+- [[scenario-sumryprvnz|Summary of Provènzia]]—Regional context

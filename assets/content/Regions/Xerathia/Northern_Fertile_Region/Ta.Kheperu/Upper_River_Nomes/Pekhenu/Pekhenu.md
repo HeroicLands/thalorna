@@ -24,7 +24,7 @@ Pekhenu is the capital of [[affiliation-nomepekhen|the Nome of Pekhenu]] and the
 
 ## See Also
 
-- [[affiliation-nomepekhen|The Nome of Pekhenu]] — Parent nome
-- [[affiliation-uperivrnms|The Upper River Nomes]] — Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[affiliation-thoth|Thōth]] — Patron cult
+- [[affiliation-nomepekhen|The Nome of Pekhenu]]—Parent nome
+- [[affiliation-uperivrnms|The Upper River Nomes]]—Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
+- [[affiliation-thoth|Thōth]]—Patron cult

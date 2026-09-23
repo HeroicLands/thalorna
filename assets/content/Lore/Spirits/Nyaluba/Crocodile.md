@@ -4,7 +4,7 @@ tags:
   - nyaluba
 type: lore
 subType: spirit
-description: "The crocodile-guide of the Kambezi as a being — old, exacting, and reckoned kin even when it kills."
+description: "The crocodile-guide of the Kambezi as a being—old, exacting, and reckoned kin even when it kills."
 name:
   full: Crocodile Spirit
   aliases:
@@ -20,7 +20,7 @@ and the three postures, see [[lore-nyalbsprts|Nyáluba Spirits]].
 
 The crocodile-guide is the oldest of the five in Kambezi reckoning and the least
 interested in people. It is described as patient beyond any human sense of the word, present in
-water whether or not it is seen, and entirely without malice — which is precisely why it is
+water whether or not it is seen, and entirely without malice—which is precisely why it is
 dangerous. It takes what enters its reach because that is its nature, and the tradition does not
 regard this as wrong.
 
@@ -31,7 +31,7 @@ oneself upon a kinsman for being what it is.
 
 The guide is understood to keep exact accounts. What it requires at one reach it does not require
 at the next, and it does not accept a substitution offered in good faith. Spirit-Speakers say it
-is not that the crocodile is unforgiving, but that it does not recognise the category.
+is not that the crocodile is unforgiving, but that it does not recognize the category.
 
-TBD — the naming-lineages of the great crocodiles of the eastern reaches, and how a name passes
+TBD—the naming-lineages of the great crocodiles of the eastern reaches, and how a name passes
 when one dies.

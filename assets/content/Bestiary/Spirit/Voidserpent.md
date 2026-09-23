@@ -20,7 +20,6 @@ data:
   gender: null
   species: null
   age: null
-  birthday: null
   height: null
   weight: null
   frame: null
@@ -265,7 +264,7 @@ sohl:
 
 ![[vdsrpnt|Voidserpent]]{float: top-left}
 
-Where there is nothing, something moves. The Voidserpent is an absence given purpose—a gap in reality that winds through space like a living scar. Its hide, if it can be called that, is the color of nothing, studded with points of light like a backwards night sky. When it moves, space seems to warp around it, as if the world is uncertain whether to allow its passage. The very air becomes heavy and slow in its presence.
+Where there is nothing, something moves. The Voidserpent is an absence given purpose—a gap in reality that winds through space like a living scar. Its hide, if it can be called that, is the color of nothing, studded with points of light like a backward night sky. When it moves, space seems to warp around it, as if the world is uncertain whether to allow its passage. The very air becomes heavy and slow in its presence.
 
 # Dossier {#dossier}
 

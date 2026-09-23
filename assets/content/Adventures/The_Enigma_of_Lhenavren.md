@@ -64,7 +64,7 @@ The party travels to Lhénavren, facing challenges both natural and political:
 
 Upon arrival at Lhénavren, the party discovers:
 
-- Buildings of elegant, impossible architecture partially reclaimed by nature — clearly not built by human hands
+- Buildings of elegant, impossible architecture partially reclaimed by nature—clearly not built by human hands
 - Inscriptions in an ancient script (decipherable with effort or magical aid, possibly requiring Áelendi or Sinalë knowledge)
 - Evidence of deliberate sealing—doorways blocked, entrances barred
 - Lingering magical wards that react to intrusion

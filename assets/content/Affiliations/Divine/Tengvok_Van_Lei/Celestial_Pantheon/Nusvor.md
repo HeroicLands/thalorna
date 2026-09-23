@@ -43,8 +43,8 @@ data:
         title: Copyist
         lore: apprenticernk
         description: >-
-          Under training in a temple — copying forms, learning the seals and the calendrical
-          schedules — and not yet permitted to file anything on another's behalf.
+          Under training in a temple—copying forms, learning the seals and the calendrical
+          schedules—and not yet permitted to file anything on another's behalf.
       - level: 3
         title: Clerk
         lore: clerkrnk
@@ -123,7 +123,7 @@ data:
 packFolder: celestialpantheon
 ---
 
-## Nüsvōr — The Minister of Dissolution
+## Nüsvōr—The Minister of Dissolution
 
 - **Bureau:** Nüs Sëi, The Bureau of Returns
 - **Domain:** Dissolution
@@ -132,7 +132,7 @@ packFolder: celestialpantheon
 Nüs Sëi is the reclamation office. What has finished being one thing is broken down here and
 returned as material for something else, which is why it works so closely with the
 [[affiliation-neizat|Bureau of Persistence]] and quarrels so persistently with the
-[[affiliation-fekvor|Bureau of Allocation]] — one wants resources distributed, the other wants them
+[[affiliation-fekvor|Bureau of Allocation]]—one wants resources distributed, the other wants them
 back.
 
 Mortals rarely petition it directly and are wary when they must. A request to Nüs Sëi is a request
@@ -141,11 +141,11 @@ understands what they have asked for.
 
 ### Lesser Spirits
 
-- **Nüslëi** — Dissolution Spirits, who break down expired classifications.
-- **Zhëkvōr** — Renewal Spirits, who feed recycled materials back into the Bureau of Persistence's processes.
+- **Nüslëi**—Dissolution Spirits, who break down expired classifications.
+- **Zhëkvōr**—Renewal Spirits, who feed recycled materials back into the Bureau of Persistence's processes.
 
 ### See Also
 
-- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — the Celestial Bureaucracy this bureau belongs to
-- [[affiliation-tanvurempr|Empire of Tānvür]] — the mortal realm it administers
-- [[skill-tngthkscrpt|Tëng Thōk Script]] — the writing every petition is made in
+- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]]—the Celestial Bureaucracy this bureau belongs to
+- [[affiliation-tanvurempr|Empire of Tānvür]]—the mortal realm it administers
+- [[skill-tngthkscrpt|Tëng Thōk Script]]—the writing every petition is made in

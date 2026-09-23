@@ -20,7 +20,7 @@ data:
   gender: null
   species: null
   age: null
-  birthday: null
+  birthday: "unknown"
   height: null
   weight: null
   frame: null
@@ -372,7 +372,7 @@ sohl:
 
 ![[shdwclw|Shadowclaw]]{float: top-left}
 
-The color of the terrain seems to ripple, and reality shifts as the creature's form comes into focus. Iridescent scales shimmer with hues that match the surroundings so perfectly that you cannot tell whether you are seeing the creature itself or the forest's reflection. The emerald eyes open like gems in shadow, revealing an intelligence that seems almost predatory in its awareness. The movement is fluid and wrong — too many joints, too much flexibility — as the long feathered tail twitches with serpentine grace. Then you notice the claws: three wickedly sharp talons on each foot, and on the second claw of each hind leg, a hooked talon the length of a dagger points upward in permanent threat.
+The color of the terrain seems to ripple, and reality shifts as the creature's form comes into focus. Iridescent scales shimmer with hues that match the surroundings so perfectly that you cannot tell whether you are seeing the creature itself or the forest's reflection. The emerald eyes open like gems in shadow, revealing an intelligence that seems almost predatory in its awareness. The movement is fluid and wrong—too many joints, too much flexibility—as the long feathered tail twitches with serpentine grace. Then you notice the claws: three wickedly sharp talons on each foot, and on the second claw of each hind leg, a hooked talon the length of a dagger points upward in permanent threat.
 
 # Dossier {#dossier}
 
@@ -380,11 +380,11 @@ The Shadowclaw is a cunning predatory reptile reaching 10-12 feet in length and 
 
 ## Presentation
 
-The Shadowclaw is a bipedal reptilian predator with a body covered in iridescent scales that shift hue to match surrounding environments, making the creature difficult to see even when looking directly at it. The creature stands on powerful hind legs with a long feathered tail that provides balance and communicative function. The front limbs end in three wicked talons each, suitable for climbing and grasping. The most distinctive feature is the secondary hooked claw on each hind foot — a talon that points upward and curves wickedly, clearly adapted for devastating kicking attacks. The head is proportionally large with an elongated snout filled with serrated teeth, and eyes positioned forward-facing in an emerald hue that seems to glow with intelligence. The spine is marked by bony ridges that can be raised for intimidation displays. The overall build is that of a creature made for stealth, speed, and precise killing.
+The Shadowclaw is a bipedal reptilian predator with a body covered in iridescent scales that shift hue to match surrounding environments, making the creature difficult to see even when looking directly at it. The creature stands on powerful hind legs with a long feathered tail that provides balance and communicative function. The front limbs end in three wicked talons each, suitable for climbing and grasping. The most distinctive feature is the secondary hooked claw on each hind foot—a talon that points upward and curves wickedly, clearly adapted for devastating kicking attacks. The head is proportionally large with an elongated snout filled with serrated teeth, and eyes positioned forward-facing in an emerald hue that seems to glow with intelligence. The spine is marked by bony ridges that can be raised for intimidation displays. The overall build is that of a creature made for stealth, speed, and precise killing.
 
 ## Presentation: Behavior and Ecology
 
-Shadowclaws are highly intelligent, cooperative hunters that live and hunt in family packs of 3-8 individuals led by an alpha pair. They communicate through a language of clicks, whistles, and growls that lets them coordinate a hunt even over distances. The creatures adapt quickly to low-light conditions and can see nearly as well in darkness as in daylight, though sudden bright light can temporarily blind them. While the creatures possess olfaction and hearing, their primary sense is vision — they are motion-sensitive and their eyes track movement with predatory focus.
+Shadowclaws are highly intelligent, cooperative hunters that live and hunt in family packs of 3-8 individuals led by an alpha pair. They communicate through a language of clicks, whistles, and growls that lets them coordinate a hunt even over distances. The creatures adapt quickly to low-light conditions and can see nearly as well in darkness as in daylight, though sudden bright light can temporarily blind them. While the creatures possess olfaction and hearing, their primary sense is vision—they are motion-sensitive and their eyes track movement with predatory focus.
 
 ## Key Behaviors
 

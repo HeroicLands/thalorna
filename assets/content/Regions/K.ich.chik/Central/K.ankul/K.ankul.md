@@ -1,7 +1,7 @@
 ---
 tags:
   - polity
-description: Limestone lowlands of cenote-sanctuaries, astronomer-priests, and competing city-states — the intellectual heart of K'ich'chik civilization.
+description: Limestone lowlands of cenote-sanctuaries, astronomer-priests, and competing city-states—the intellectual heart of K'ich'chik civilization.
 name:
   full: K'ankul
   aliases: []
@@ -28,19 +28,19 @@ data:
         title: Captive
         lore: slavernk
         description: >-
-          Taken in war and held for labour or for the altar, with no standing and, commonly,
+          Taken in war and held for labor or for the altar, with no standing and, commonly,
           no long future.
       - level: 2
         title: Commoner
         lore: commonerrnk
         description: >-
-          Working the milpa and owing labour on the temple platforms and causeways, and tribute
+          Working the milpa and owing labor on the temple platforms and causeways, and tribute
           in maize, cloth and cacao.
       - level: 3
         title: Craftsman
         lore: journeymanrnk
         description: >-
-          Of the skilled trades — potters, weavers, feather-workers, stone-cutters — attached
+          Of the skilled trades—potters, weavers, feather-workers, stone-cutters—attached
           to a lord's household or a temple.
       - level: 4
         title: Warrior
@@ -62,7 +62,7 @@ data:
         title: Sahal
         lore: greatlordrnk
         description: >-
-          A subordinate lord holding a lesser centre for the k'uhul ajaw, and the usual rank
+          A subordinate lord holding a lesser center for the k'uhul ajaw, and the usual rank
           of a conquered city's ruler.
       - level: 8
         title: K'uhul Ajaw
@@ -77,7 +77,7 @@ data:
       Ix Ajaw: >-
         Royal lady of the city, of a lineage recorded and married for, and a ruler in her
         own right where the line requires it.
-      Sahal: Subordinate lord holding a lesser centre in the Holy Lord's name.
+      Sahal: Subordinate lord holding a lesser center in the Holy Lord's name.
       Ajaw: Noble lord of the city, holding land, dependents and a voice at court.
       Ah K'in: Priest of the sun and keeper of the count of days, who fixes every auspicious
         hour.
@@ -89,7 +89,7 @@ data:
       Ah Kulel: Deputy and herald of a lord, who carries his word and is answered as if it
         were his.
       Ah Ppolom: >-
-        Master merchant of the long-distance trade in cacao, salt, obsidian and jade — and
+        Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and
         a lord's eyes abroad.
       Ballcourt Keeper: >-
         Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice
@@ -115,7 +115,7 @@ K'ankul holds the land of [[place-kankulrgn|K'ankul Region]]. Where Balamkul is 
 
 K'ankul's political independence from Balamkul is carefully balanced. While the K'ul Tq'an and the [[affiliation-itzanpnthn|Itzáni]] priesthood maintain ultimate religious authority, K'ankul's greatest city-states have cultivated sufficient wealth and cultural prestige that they are treated as partners in the management of the faith rather than as mere tributaries. K'ankul's merchants control crucial sea routes along both coasts, and their mathematical and astronomical expertise is essential to the priestly calendar-keepers.
 
-The Ch'um Ix'lan relay network connects K'ankul's major city-states to [[affiliation-balamkul|Balamkul]] within two days, and the priesthood-controlled coastal sacbe allows messages to circulate between K'ankul's own cities in a day or two. The Ch'umbal way-stations here are well-maintained and generously staffed — K'ankul's scribal tradition means that the priestly decoding of tz'ib'al is exceptionally swift, and K'ankul's astronomers frequently use the Speaking Road to transmit time-sensitive observational data to the central dispatch at Kul'taq'an.
+The Ch'um Ix'lan relay network connects K'ankul's major city-states to [[affiliation-balamkul|Balamkul]] within two days, and the priesthood-controlled coastal sacbe allows messages to circulate between K'ankul's own cities in a day or two. The Ch'umbal way-stations here are well-maintained and generously staffed—K'ankul's scribal tradition means that the priestly decoding of tz'ib'al is exceptionally swift, and K'ankul's astronomers frequently use the Speaking Road to transmit time-sensitive observational data to the central dispatch at Kul'taq'an.
 
 ## City-States and Realms
 
@@ -127,8 +127,8 @@ The cenote-focused spirituality of K'ankul has produced a distinct tradition wit
 
 ## See Also
 
-- [[affiliation-balamkul|Balamkul]] — The highland plateau realm, supreme in religious authority and military might
-- [[affiliation-kiikbaate|Ki'ik Ba'ate]] — The isthmus gateway to the south, connected by K'ankul maritime routes
-- [[affiliation-tzikin|Tz'ikin]] — The eastern frontier accessible via K'ankul's coastal trading networks
-- [[affiliation-itzanpnthn|Itzáni Pantheon]] — The sacred framework that K'ankul scholars continue to refine and systematize
-- [[place-kankulrgn|K'ankul Region]] — The land K'ankul holds
+- [[affiliation-balamkul|Balamkul]]—The highland plateau realm, supreme in religious authority and military might
+- [[affiliation-kiikbaate|Ki'ik Ba'ate]]—The isthmus gateway to the south, connected by K'ankul maritime routes
+- [[affiliation-tzikin|Tz'ikin]]—The eastern frontier accessible via K'ankul's coastal trading networks
+- [[affiliation-itzanpnthn|Itzáni Pantheon]]—The sacred framework that K'ankul scholars continue to refine and systematize
+- [[place-kankulrgn|K'ankul Region]]—The land K'ankul holds

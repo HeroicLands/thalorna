@@ -23,5 +23,5 @@ Olivenna lies in [[affiliation-provnchyln|Hylen]]'s olive country, a town of pre
 
 ## See Also
 
-- [[affiliation-provnchyln|Province of Hylen]] — Parent province
-- [[affiliation-vylarinmpr|Vylarian Empire]] — Imperial overview
+- [[affiliation-provnchyln|Province of Hylen]]—Parent province
+- [[affiliation-vylarinmpr|Vylarian Empire]]—Imperial overview

@@ -46,9 +46,9 @@ data:
         title: Kher-Heb
         lore: masterrnk
         description: >-
-          Lector — the one who carries the book and reads the great formulae aloud at the rites. A Kher-Heb
-          holds the House's restricted forms, and is trusted with workings that are meant to stand for
-          centuries.
+          Lector—the one who carries the book and reads the great formulae aloud at the rites. A
+          Kher-Heb holds the House's restricted forms, and is trusted with workings that are meant
+          to stand for centuries.
       - level: 4
         title: Wer Kher-Heb
         lore: grandmasterrnk
@@ -57,8 +57,8 @@ data:
           a working has failed and stands failed, this is the office that must go and correct it.
     offices:
       Warden of the Treatises: >-
-        Holds the sealed accounts of the chaos god — his nature, his manifestations, his methods of attack —
-        and decides who may read them.
+        Holds the sealed accounts of the chaos god—his nature, his manifestations, his methods of
+        attack—and decides who may read them.
       Reader of Broken Work: >-
         Called to a working that has failed or been tampered with, to determine which of its forms is live,
         which is bluff, and which has been turned.
@@ -98,12 +98,12 @@ seal, threshold-curse and tomb-binding in the empire is an Order working built a
 account of what it is built against. To study Isfet is lawful and closely watched. To work it is
 capital.
 
-**Sefút** — the Unmaking — is the domain of unmaking, decay, curses, the serpent, and entropy. It is one of the
-eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris — by function in
+**Sefút**—the Unmaking—is the domain of unmaking, decay, curses, the serpent, and entropy. It is one of the
+eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris—by function in
 the cosmic order rather than by substance, which is why no portion of it corresponds to any single
 Eídma of the western [[lore-hexhodai|Héx Hodäi]].
 
 ### See Also
 
-- [[lore-khemenuhekau|Khemenu Hekau]] — the philosophy and the other seven domains
-- [[place-khemenu|Khemenu]] — where the Eight are taught
+- [[lore-khemenuhekau|Khemenu Hekau]]—the philosophy and the other seven domains
+- [[place-khemenu|Khemenu]]—where the Eight are taught
