@@ -71,6 +71,9 @@ event:
     - event: lore-grukarapp
       how: enabled
       note: the weapon needed a species to point, and that species had been in the world six centuries
+    - event: lore-oldcompact
+      how: ended
+      note: the accord of the two Elder Races ends on this day and in this act, and is the same moment seen from the other side
   accounts:
     - by: lore-flkkhazar
       says: >-

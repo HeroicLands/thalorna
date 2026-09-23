@@ -59,7 +59,10 @@ event:
       note: only an arcane body with a monopoly could keep what was held, and the holdings moved onto its books
     - event: lore-helionscnq
       how: ended
-      note: the corps raised in that war, and the terms that raised it, end here
+      note: the corps raised in that war ends here
+    - event: lore-thebargain
+      how: ended
+      note: this is the year the term is not renewed, and it is the agreement it defaults on
   accounts:
     - by: place-helionis
       says: >-
@@ -97,11 +100,11 @@ What is not recorded anywhere is the **terms**.
 
 A dragon cannot be threatened with its body. It can be threatened with its dead. In the early years of
 [[lore-helionscnq|the Helionite war]] a mage-warlord killed dragons and, at the transit, took their
-souls; the Republic took his workshop when it took his city, and found the jars. What it offered was
+souls; [[lore-dragondead|the Republic took his workshop]] when it took his city, and found the jars. What it offered was
 the one thing only it could offer — the return of the bound to the pool — and the dragons' price for
 that was the war.
 
-The Republic's terms were not "when the war ends" but a **term of years, renewed**. That is why the
+[[lore-thebargain|The Republic's terms]] were not "when the war ends" but a **term of years, renewed**. That is why the
 Riders were a standing corps for more than two centuries rather than a wartime expedient, and why a
 Republican magistrate renewed a standing appropriation every year for the keeping of a thing his
 docket named only by a number, under a cover-description the chancery invented so that nobody would

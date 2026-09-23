@@ -165,8 +165,11 @@ const HEDGES = [
 /**
  * A source that is not a note: a decision the owner has recorded outside the
  * tree. An event citing one states a date no note carries, and says whose.
+ * `decided-midhalion` is the Mídhalión design's canon; `decided-chronology` is
+ * the owner's own dating of an occurrence the tree describes and leaves
+ * undated.
  */
-const DECIDED_SOURCES = new Set(["decided-midhalion"]);
+const DECIDED_SOURCES = new Set(["decided-midhalion", "decided-chronology"]);
 
 /**
  * Split a note into its frontmatter block and its body.
