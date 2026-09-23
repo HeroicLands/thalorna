@@ -680,7 +680,7 @@ Hálrikos is motivated by a deep, almost religious belief that proper procedure,
 
 - **The Archives of Tarvénia**: He has effectively become the guardian of the city's historical records and legal documents.
 
-- **The Order of [[lore-taranondty|Táranon]]**: Hálrikos is a pious if unemotional follower of Táranon, god of storms and order, attending temple services regularly.
+- **The Order of Táranon**: Hálrikos is a pious if unemotional follower of Táranon, god of storms and order, attending temple services regularly.
 
 ## Plot Hooks
 

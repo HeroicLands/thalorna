@@ -79,5 +79,5 @@ To the **east and west** the forests fade gradually into coastal terrain that ha
 - [[affiliation-empirtkhpr|Ta'Kheperu]] — northern empire, cautious trade partner
 - [[affiliation-okharis|Okháris]] — three-flamed kingdom of the northern crescent
 - [[affiliation-mtrrchybth|Matriarchy of Bethua]] — eastern northern neighbor
-- [[place-ekunda|Ékunda]] — southern savannah outpost
+- Ékunda — southern savannah outpost
 - [[lore-flksinale|Sinalë]] — rumored deep-forest enclaves

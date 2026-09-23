@@ -557,7 +557,7 @@ Pârshar Kûrrîm is a 55-year-old man who stands 5'8" tall and is broad and sol
 
 # Dossier {#dossier}
 
-Born in the [[place-haradregin|Harad]] region to a guilded family of Haradian heritage, Pârshar Kûrrîm came into the world of the locksmith through a combination of circumstance and aptitude.
+Born in the Harad region to a guilded family of Haradian heritage, Pârshar Kûrrîm came into the world of the locksmith through a combination of circumstance and aptitude.
 
 Pârshar has been a locksmith for over three decades, earning a reputation for his high-quality work and innovative designs. He has seen the trade change over the years and adapted by incorporating new techniques and materials. Pârshar is well-respected in the community and often shares his knowledge with young apprentices, believing in the importance of passing down skills. He has a strong sense of ethics and refuses to work with anyone associated with the Thieves Guild.
 

@@ -33,5 +33,5 @@ In the still-Khazryn oases — Mehrnāgord, Ushtra-bēr, the small Vahúrdash se
 - [[affiliation-tribestrzd|Tribes of Ātárzád]] — Hold the four great cities
 - [[affiliation-khzrncnfdrtn|Khazryn Confederation]] — Holds the peripheral oases and claims the whole
 - [[place-khzryndsrtrgn|Khazryn Desert Region]] — The enclosing region
-- [[place-oasishirvn|Oasis of Shirvan]], [[place-ashkarad|Ashkarad]], [[place-zargandur|Zargandûr]], [[place-kethramir|Kethramír]] — The four great cities
+- Oasis of Shirvan, [[place-ashkarad|Ashkarad]], Zargandûr, [[place-kethramir|Kethramír]] — The four great cities
 - [[place-beitshofar|Beit-Shōfár]] — Seat of the Council of the Twelve

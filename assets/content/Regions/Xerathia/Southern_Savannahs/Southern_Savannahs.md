@@ -49,7 +49,7 @@ The **great herds** are the organizing principle of savannah life in the center 
 
 **Language** across the region is a mosaic. There are several broad language families, each containing many mutually unintelligible tongues, and the savannah peoples maintain a rough pidgin — something like a trade-speech — for dealing with strangers from outside their immediate lineage. The rainforest intermediaries who trade with the northern civilizations use this pidgin as their working language in the south.
 
-The few **settled communities** — [[place-ekunda|Ékunda]] among them — function as trade-meeting points, ritual centers, or both. They are small by northern standards (a thousand people is large), typically located at perennial springs or river junctions, and often have populations that swell and shrink dramatically with the migration cycles.
+The few **settled communities** — Ékunda among them — function as trade-meeting points, ritual centers, or both. They are small by northern standards (a thousand people is large), typically located at perennial springs or river junctions, and often have populations that swell and shrink dramatically with the migration cycles.
 
 ## Religion
 
@@ -83,5 +83,5 @@ To the **far south** lie the coasts of an unnamed ocean and whatever exists beyo
 
 - [[place-xerathia|Xerathia Continent]] — parent continent
 - [[place-cntrlrnfrsts|Central Rainforests]] — northern boundary
-- [[place-ekunda|Ékunda]] — savannah settlement
+- Ékunda — savannah settlement
 - [[place-nrthrnfrtlrgn|Northern Fertile Region]] — distant northern civilizations, known only by rumor

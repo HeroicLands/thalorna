@@ -3,6 +3,7 @@ tags: []
 name:
   full: Telepathy
   aliases: []
+description: "Speaks mind to mind with another, at a distance and without sound."
 shortcode: telp
 type: mysticalability
 subType: arcanetalent

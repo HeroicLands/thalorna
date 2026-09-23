@@ -530,7 +530,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Grácena is a tall woman — 6'0" — with a medium build that has been hardened by twenty-one years of gate watch duty into something resembling old leather over iron. Her dark blonde hair is shot through with gray and worn in a single heavy braid coiled at the nape of her neck. Her green eyes are arresting — bright and sharp beneath sun-darkened brows — and they miss nothing that passes through her gate. Her olive skin is deeply tanned, lined at the eyes and mouth, and a missing lower tooth on the right side gives her smile a slightly rakish quality that she has never bothered to correct. She wears the [[place-montana|Montaña]] gate watch uniform: a leather surcoat over quilted padding, leather knee boots, a broadsword on her hip, and a heavy iron ring of gate keys that jangles with every step.
+Grácena is a tall woman — 6'0" — with a medium build that has been hardened by twenty-one years of gate watch duty into something resembling old leather over iron. Her dark blonde hair is shot through with gray and worn in a single heavy braid coiled at the nape of her neck. Her green eyes are arresting — bright and sharp beneath sun-darkened brows — and they miss nothing that passes through her gate. Her olive skin is deeply tanned, lined at the eyes and mouth, and a missing lower tooth on the right side gives her smile a slightly rakish quality that she has never bothered to correct. She wears the Montaña gate watch uniform: a leather surcoat over quilted padding, leather knee boots, a broadsword on her hip, and a heavy iron ring of gate keys that jangles with every step.
 
 # Dossier {#dossier}
 

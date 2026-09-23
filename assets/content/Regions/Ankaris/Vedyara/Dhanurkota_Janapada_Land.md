@@ -42,4 +42,4 @@ Dhanurkota's economy rests on three pillars: agriculture (the standard Vedyari r
 
 - [[affiliation-dhnrktjnpd|Dhanurkota Janapada]] — the temple-republic that holds this land
 - [[place-vedyarargn|Vedyara Region]] — the enclosing region
-- [[place-dhanurkota|Dhanurkota]] — the temple-seat
+- Dhanurkota — the temple-seat

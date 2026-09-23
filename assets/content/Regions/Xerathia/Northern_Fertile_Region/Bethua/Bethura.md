@@ -1,6 +1,5 @@
 ---
 tags:
-  - draft
   - city
 description: "City"
 type: place
@@ -17,15 +16,3 @@ name:
 shortcode: bethura
 packFolder: bethua
 ---
-
-## Overview
-
-_To be written._
-
-## Notable Features
-
-_To be written._
-
-## Notable Figures
-
-_To be written._

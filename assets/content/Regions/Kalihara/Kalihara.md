@@ -165,7 +165,7 @@ The port cities are, in many ways, a world apart from the interior. Over centuri
 
 The distinction between port city and interior is not merely geographic but civilizational. A Kaliharan born in Qasirah who has never been admitted to the interior has more in common, culturally, with a merchant in [[place-helionis|Heliónis]] than with a custodian in one of the ancient highland sanctuaries. This division is understood and accepted by both sides; it is, in the Kaliharan view, simply the cost of maintaining a necessary interface with the outside world without allowing that world to penetrate further than it should.
 
-Other port settlements include [[place-vashuran|Vashurán]], [[place-korinthel|Korinthel]], and [[place-telvari|Telvári]], each smaller and more tightly controlled than Qasirah, serving as secondary trading points for specific goods or regional partners.
+Other port settlements include Vashurán, Korinthel, and Telvári, each smaller and more tightly controlled than Qasirah, serving as secondary trading points for specific goods or regional partners.
 
 ## Governance
 

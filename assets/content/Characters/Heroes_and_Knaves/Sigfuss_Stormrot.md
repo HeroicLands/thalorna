@@ -606,7 +606,7 @@ Five years ago, after the death of his father, Sigfúss briefly returned to Bjor
 
 ### Personality
 
-Sigfúss possesses the easy confidence of a man comfortable in his domain and secure in his competence. He is neither arrogant nor boastful; simply untroubled by doubt. In crisis, he becomes crystalline in focus, his mind operating with preternatural clarity. Outside of emergencies, he is gregarious and quick to laugh, entertaining crew with tales of impossible catches and narrow escapes told with theatrical flair. He views himself as servant of [[lore-freyjadty|Fréyja]], goddess of prosperity, and attributes his survival of multiple storms to her grace.
+Sigfúss possesses the easy confidence of a man comfortable in his domain and secure in his competence. He is neither arrogant nor boastful; simply untroubled by doubt. In crisis, he becomes crystalline in focus, his mind operating with preternatural clarity. Outside of emergencies, he is gregarious and quick to laugh, entertaining crew with tales of impossible catches and narrow escapes told with theatrical flair. He views himself as servant of Fréyja, goddess of prosperity, and attributes his survival of multiple storms to her grace.
 
 His philosophy is fundamentally practical. He sees little point in unnecessary worry or elaborate planning when experience has taught him the sea's true nature—unpredictable, dangerous, beautiful, and ultimately indifferent to human pretense. This makes him seem cavalier to those who don't understand him, though in reality, he has absorbed decades of sea knowledge into instinct that appears intuitive but is grounded in close observation.
 

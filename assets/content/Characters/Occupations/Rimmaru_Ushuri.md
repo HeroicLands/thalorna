@@ -555,7 +555,7 @@ Rimmârû Ushûrî is a 30-year-old woman who stands 5'11" tall and is slender. 
 
 # Dossier {#dossier}
 
-Rimmârû Ushûrî is a perfumer of Míravel, in [[place-haradregin|Harad]], born to a Haradian family of old standing whose money is mostly gone and whose perfume shop on the market square is what remains of it.
+Rimmârû Ushûrî is a perfumer of Míravel, in Harad, born to a Haradian family of old standing whose money is mostly gone and whose perfume shop on the market square is what remains of it.
 
 Rimmârû grew up in the shop's back room among the stills and the oils. She has the finest nose in Míravel and spends her days blending — attar of rose from the inland valleys, resins off the Kheperi ships, ambergris when the corsairs have some — in combinations nobody has tried. The guild families of Míravel come to her for scents made for one wearer. What she does not do is keep the books: her guild dues are late, her suppliers are paid when she remembers, and the shop lives on the reputation of the scents. She teaches anyone with a nose who asks.
 

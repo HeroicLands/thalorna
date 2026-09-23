@@ -608,7 +608,7 @@ sohl:
 
 ![[frztbnlksr|Father Iztéban Alkássar]]{float: top-left}
 
-Standing at 5'11", Father Iztéban has a medium build, weighing around 170 pounds, with a tanned complexion that speaks to his Mèridiane heritage. His hair is dark and wavy, cut short, and his beard is neatly trimmed. His dark brown eyes are calm and observant, reflecting his deep sense of justice and his role as a Jánusian priest. His nose is straight, and his face is marked by a serene, almost paternal expression. Father Iztéban wears the traditional garb of the Jánusian clergy—a long, white robe embroidered with silver, and a red sash symbolizing his status as priest. He carries a ceremonial staff topped with the symbol of [[lore-janusdty|Jánus]], though a short sword hangs at his waist as a reminder of his chivalric duties.
+Standing at 5'11", Father Iztéban has a medium build, weighing around 170 pounds, with a tanned complexion that speaks to his Mèridiane heritage. His hair is dark and wavy, cut short, and his beard is neatly trimmed. His dark brown eyes are calm and observant, reflecting his deep sense of justice and his role as a Jánusian priest. His nose is straight, and his face is marked by a serene, almost paternal expression. Father Iztéban wears the traditional garb of the Jánusian clergy—a long, white robe embroidered with silver, and a red sash symbolizing his status as priest. He carries a ceremonial staff topped with the symbol of Jánus, though a short sword hangs at his waist as a reminder of his chivalric duties.
 
 # Dossier {#dossier}
 

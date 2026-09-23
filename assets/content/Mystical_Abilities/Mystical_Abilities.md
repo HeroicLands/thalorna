@@ -114,7 +114,7 @@ ORDER BY name.full COLLATE NOCASE
 SELECT address.slug AS _ref,
        name.full    AS "Name",
        description  AS "Description"
-FROM notes
+FROM entries
 WHERE type = 'mysticalability'
   AND subType = 'arcanetalent'
 ORDER BY name.full COLLATE NOCASE

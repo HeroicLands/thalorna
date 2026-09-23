@@ -1,6 +1,6 @@
 ---
-tags:
-  - draft
+tags: []
+description: "The Keeper of the Gates in the Aurèldián pantheon — order, thresholds, and the two faces every passage has."
 type: lore
 subType: deity
 name:
@@ -9,5 +9,3 @@ name:
 shortcode: janusdty
 packFolder: deitiesaureldian
 ---
-
-TBD

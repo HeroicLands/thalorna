@@ -21,7 +21,7 @@ packFolder: harad
 
 ## Overview
 
-Varoshan is the city of the city-state of [[affiliation-varoshan|Varoshan]], the easternmost of the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]], in [[place-haradregin|Harad Region]].
+Varoshan is the city of the city-state of [[affiliation-varoshan|Varoshan]], the easternmost of the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]], in Harad Region.
 
 Varoshan is the easternmost of Harad's major cities, sitting at the crossroads where the coastal trade routes meet the overland caravan trails from [[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazryn Desert Region]].
 
@@ -39,4 +39,4 @@ Varoshan feels different from the coastal cities. The architecture shifts from V
 
 - [[affiliation-varoshan|Varoshan]] — The city-state
 - [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — The confederation
-- [[place-haradregin|Harad Region]] — Regional overview
+- Harad Region — Regional overview

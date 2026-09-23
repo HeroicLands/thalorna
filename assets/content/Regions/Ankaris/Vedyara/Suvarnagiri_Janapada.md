@@ -184,7 +184,7 @@ Suvarṇagiri Janapada uses the [[lore-vdyrnbnkng|Vedyaran banking system]] admi
 - [[place-suvarnagirijnpd|Suvarṇagiri Janapada]] — the land the janapada holds
 - [[affiliation-janpdsvdyr|Janapadas of Vedyara]] — parent confederation
 - [[place-vedyarargn|Vedyara]] — parent region
-- [[place-suvarnagiri|Suvarṇagiri]] — the central town settlement note
+- Suvarṇagiri — the central town settlement note
 - [[affiliation-chandrapur|Chandrapur]] — major trading partner
 - [[affiliation-varakpnthn|Varṇaka Pantheon]] — religious tradition
 - [[skill-vedyarlng|Vedyari]] — language

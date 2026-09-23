@@ -1,6 +1,6 @@
 ---
-tags:
-  - draft
+tags: []
+description: "The World's First Light of the Āsháian pantheon — creation, renewal, and the craft by which made things endure."
 type: lore
 subType: deity
 name:
@@ -9,5 +9,3 @@ name:
 shortcode: mitharadty
 packFolder: deitiesashalan
 ---
-
-TBD

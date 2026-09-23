@@ -1,6 +1,6 @@
 ---
-tags:
-  - draft
+tags: []
+description: "Keeper of Sacred Wisdom in the Aurèldián pantheon — learning, and the books in which it is kept."
 type: lore
 subType: deity
 name:
@@ -9,5 +9,3 @@ name:
 shortcode: menervadty
 packFolder: deitiesaureldian
 ---
-
-TBD

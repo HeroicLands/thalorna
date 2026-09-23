@@ -553,7 +553,7 @@ Marzûna Ashûram is a 29-year-old woman who stands 6'3" tall and is of moderate
 
 # Dossier {#dossier}
 
-Born in the [[place-haradregin|Harad]] region to a freeman family of Haradian heritage, Marzûna Ashûram came into the world of the bodyguard through a combination of circumstance and aptitude.
+Born in the Harad region to a freeman family of Haradian heritage, Marzûna Ashûram came into the world of the bodyguard through a combination of circumstance and aptitude.
 
 Marzûna has spent several years as a bodyguard, specializing in protecting merchants and minor nobility during travel and public appearances. Known for her keen instincts and exceptional combat skills, she has earned a reputation for being a reliable protector. Marzûna values loyalty and dedication, often forming close bonds with those she protects. She is trained in both combat and negotiation, ensuring the safety of her clients while maintaining their dignity.
 

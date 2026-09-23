@@ -639,7 +639,7 @@ Càndrathar is driven by survival—his own, and that of his reputation and inde
 
 - **Apothecary Mandávar the Accuser**: The most vocal critic within the Apothecaries' Guild, Mandávar has been attempting for years to prove that Càndrathar engages in poison-craft and murder-for-hire. His investigations have come dangerously close to truth on several occasions, and Càndrathar lives in constant fear of what evidence Mandávar might uncover—or manufacture.
 - **The Crimson Sisters (Assassins' Collective)**: A loose confederacy of hired killers who view Càndrathar's poison-work as encroachment on their exclusive domain. There is unspoken war between them; each has attempted to frame the other for high-profile murders.
-- **Temple of [[lore-rasikaradty|Rásikara]]'s Inquisitors**: The clergy of his own patron deity have grown concerned by rumors of his activities. Several clerics suspect him of desecrating the sacred fire of Rásikara through his abuse of divine knowledge for profane ends.
+- **Temple of Rásikara's Inquisitors**: The clergy of his own patron deity have grown concerned by rumors of his activities. Several clerics suspect him of desecrating the sacred fire of Rásikara through his abuse of divine knowledge for profane ends.
 
 ### Affiliations
 

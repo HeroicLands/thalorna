@@ -3,6 +3,7 @@ tags: []
 name:
   full: Sensitivity
   aliases: []
+description: "Perceives the feeling and intent of those nearby, without their words."
 shortcode: snst
 type: mysticalability
 subType: arcanetalent
