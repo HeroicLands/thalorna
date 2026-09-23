@@ -67,7 +67,8 @@ data:
         the priesthood of the god of sacred knowledge.
       Master of the Calendar-Service: >-
         Keeps the realm's time from the observatory at Khemenu, whose astronomers maintain the
-        three-season year of Akhet, Peret and Shemu—the most accurate calendar in the known world.
+        three-season year of Akhet, Peret and Shemu, reckoned by the flood rather than by a
+        foreign dynasty.
       Warden of the Library-Temple: >-
         Holds the deepest archive in the empire and controls admission to it. Helionite scholars are among
         the very few foreigners ever admitted.
