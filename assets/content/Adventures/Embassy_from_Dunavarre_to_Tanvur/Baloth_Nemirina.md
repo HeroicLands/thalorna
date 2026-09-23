@@ -2,7 +2,6 @@
 tags:
   - character
   - draft
-  - embassy-to-tanvur
 name:
   full: Baloth Nemirina
   title: ""
@@ -15,12 +14,12 @@ type: being
 data:
   templatePriority: null
   archetypes: []
-  occupation: Senator
+  occupation: null
   stations: []
   lore: []
   homes: []
   affiliations:
-    - kingdmdnvr
+    - repblctrvn
   gender: male
   species: null
 ---
@@ -31,7 +30,7 @@ TBD
 
 # Dossier {#dossier}
 
-**Role.** A Senator of the [[affiliation-repblctrvn|Tarvennan Republic]].
+**Role.** He held a seat in the Senate of the [[affiliation-repblctrvn|Tarvennan Republic]] until his death.
 
 **Background.** Kidnapped and murdered in 717.
 

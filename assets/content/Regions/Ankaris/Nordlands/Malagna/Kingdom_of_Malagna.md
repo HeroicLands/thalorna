@@ -123,7 +123,7 @@ packFolder: malagna
 
 ## Overview
 
-The Kingdom of Malagna holds the land of [[place-malagna|Malagna]]. Of all the Nordmen realms, Malagna has the most contact with the western kingdoms and the most trade with the cultures of [[place-midhalnrgn|Mídhalión Region]]. Its sailors are explorers and merchants as much as raiders, and Malagnan longships have reached the furthest shores of the known world.
+The Kingdom of Malagna holds the land of [[place-malagna|Malagna]]. Its crown is held by [[being-kinghakoniii|King Hákon III]], acclaimed at the ting and seated at Skorrborg. Of all the Nordmen realms, Malagna has the most contact with the western kingdoms and the most trade with the cultures of [[place-midhalnrgn|Mídhalión Region]]. Its sailors are explorers and merchants as much as raiders, and Malagnan longships have reached the furthest shores of the known world.
 
 ## Character
 

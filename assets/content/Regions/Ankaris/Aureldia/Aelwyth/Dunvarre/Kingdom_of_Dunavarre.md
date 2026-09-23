@@ -44,8 +44,7 @@ data:
         title: Licensed Practitioner
         lore: clerkrnk
         description: >-
-          Permitted to practice an art the Synod regulates—physic, letters, minor sorcery—under its
-          inspection.
+          Permitted to practice an art the Synod regulates—physic, letters, minor sorcery—under its inspection.
       - level: 5
         title: Adept
         lore: masterrnk
@@ -141,7 +140,7 @@ Dúnavarre enjoys **very cordial** relations with [[place-elavendre|Élavendre]]
 
 Relations with [[affiliation-kngdmldrth|Aldorath]] are competitive—the two realms have long vied for influence over the island's interior, and Aldorath's feudal aristocracy views Dúnavarre's mage-rule with a mix of envy and contempt. The kingdom maintains connections to the [[affiliation-repblctrvn|Republic of Tarvenne]] through coastal trade routes.
 
-Most recently, Dúnavarre has launched an ambitious diplomatic initiative to establish independent relations with the [[affiliation-tanvurempr|Empire of Tānvür]], seeking to bypass the [[affiliation-vylarinmpr|Vylarian Empire]]'s long-standing monopoly as intermediary for east-west diplomacy. This mission—led by Sir Aran al Célavren—represents a bold assertion of Dúnavarren independence on the international stage.
+Most recently, Dúnavarre has launched an ambitious diplomatic initiative to establish independent relations with the [[affiliation-tanvurempr|Empire of Tānvür]], seeking to bypass the [[affiliation-vylarinmpr|Vylarian Empire]]'s long-standing monopoly as intermediary for east-west diplomacy. This mission—led by Sir Aran Célavren—represents a bold assertion of Dúnavarren independence on the international stage.
 
 ## Notable Institutions
 
