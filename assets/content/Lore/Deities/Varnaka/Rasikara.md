@@ -10,7 +10,7 @@ shortcode: rasikaradty
 packFolder: deitiesvarnaka
 ---
 
-_The Flame of Renewal — a lean, burning figure standing within a ring of broken chains._
+_The Flame of Renewal—a lean, burning figure standing within a ring of broken chains._
 
 Rásikara is fire and the change fire compels. He is the burning that strips corruption away and the kindling that starts new growth.
 
@@ -22,6 +22,6 @@ A fire-brand of consecrated wood is carried in every rite of purging. A fragment
 
 Rásikaran households keep an unbroken hearth-flame, carried from parent to child at each marriage. To let it go out is a grave omen. An ember from it lights the pyre at a death in the family.
 
-His shrines stand at a city's edge and at its cremation grounds, and not at its centre. Two are named where his fire has gone specifically to work: the cremation shrine outside Dhanurkota, and the shrine at Mukteśvara, Rājapur's downstream village, which receives the dead of eleven villages.
+His shrines stand at a city's edge and at its cremation grounds, and not at its center. Two are named where his fire has gone specifically to work: the cremation shrine outside Dhanurkota, and the shrine at Mukteśvara, Rājapur's downstream village, which receives the dead of eleven villages.
 
 At Suvarṇagiri a whole stream on the mountain's back slope is his and is never panned. Not every part of the mountain's wealth belongs to Mahájaya's order, and the stream says so.

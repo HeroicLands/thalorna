@@ -1,7 +1,7 @@
 ---
 tags: []
 type: affiliation
-description: The temple-republic of Dhanurkota — fourteen villages of the upper Sarvada valley federated around the ancient bow-fort and its great temple of Mahájaya, governed by a sabhā with an unusually strong warrior-caste presence and famed across Vedyara for its archery academies.
+description: The temple-republic of Dhanurkota—fourteen villages of the upper Sarvada valley federated around the ancient bow-fort and its great temple of Mahájaya, governed by a sabhā with an unusually strong warrior-caste presence and famed across Vedyara for its archery academies.
 name:
   full: Dhanurkota Janapada
   aliases:
@@ -33,19 +33,19 @@ data:
         title: Bonded Servant
         lore: bondservantrnk
         description: >-
-          Bound by debt or birth to a household, owing labour and lacking the standing to hold
+          Bound by debt or birth to a household, owing labor and lacking the standing to hold
           land.
       - level: 2
         title: Śūdra
         lore: commonerrnk
         description: >-
-          Of the serving varṇa — cultivators, artisans and labourers who hold their place by
+          Of the serving varṇa—cultivators, artisans and laborers who hold their place by
           work rather than by rite.
       - level: 3
         title: Vaiśya
         lore: gentryrnk
         description: >-
-          Of the productive varṇa — merchants, herders and landholders, whose tithes in coin and
+          Of the productive varṇa—merchants, herders and landholders, whose tithes in coin and
           goods sustain the temple and its granary.
       - level: 4
         title: Kṣatriya
@@ -85,7 +85,7 @@ data:
         The reckoner, who fixes the ritual calendar, keeps the survey of the fields and computes
         each village's share of the water.
       Dūta: >-
-        The envoy who carries the sabhā's word to a neighbouring janapada, to a patron court and
+        The envoy who carries the sabhā's word to a neighboring janapada, to a patron court and
         to the Mela.
       Senānī: >-
         Captain of the militia, raised from the villages at the sabhā's call and dismissed when
@@ -111,7 +111,7 @@ data:
     varakpnthn: aligned
     vyalendra2: aligned
     chandrapur: aligned
-terran_analog: "Medieval South Indian temple-republic with a martial-caste specialty — Chola-era brahmadeya village federation centered on a fortified temple complex, distinguished by hereditary archery training traditions"
+terran_analog: "Medieval South Indian temple-republic with a martial-caste specialty—Chola-era brahmadeya village federation centered on a fortified temple complex, distinguished by hereditary archery training traditions"
 packFolder: vedyara
 ---
 
@@ -125,10 +125,10 @@ What it has, and what it is known for across the region, is the **Bow**: four an
 
 The four ancient archery academies of Dhanurkota are:
 
-- **The Academy of the High Draw** — the oldest, founded in the dim past, which teaches the great longbow tradition. Its graduates serve in heavy infantry-support roles.
-- **The Academy of the Swift Hand** — the cavalry-archery tradition, mounted bow from horseback. Its graduates are sought by every Vedyari kingdom that fields cavalry.
-- **The Academy of the Patient Eye** — the marksmanship tradition, accuracy at extreme range. Its graduates serve as scouts, hunters, and fortress sharpshooters; many become the personal bowmen of Vedyari nobility.
-- **The Academy of the Hidden String** — the irregular-warfare tradition, ambush and concealment archery. Its graduates serve as scouts and on special operations, and are hard to recruit. The Academy's discipline carries a vow of selectivity, and it refuses any contract it considers dishonorable.
+- **The Academy of the High Draw**—the oldest, founded in the dim past, which teaches the great longbow tradition. Its graduates serve in heavy infantry-support roles.
+- **The Academy of the Swift Hand**—the cavalry-archery tradition, mounted bow from horseback. Its graduates are sought by every Vedyari kingdom that fields cavalry.
+- **The Academy of the Patient Eye**—the marksmanship tradition, accuracy at extreme range. Its graduates serve as scouts, hunters, and fortress sharpshooters; many become the personal bowmen of Vedyari nobility.
+- **The Academy of the Hidden String**—the irregular-warfare tradition, ambush and concealment archery. Its graduates serve as scouts and on special operations, and are hard to recruit. The Academy's discipline carries a vow of selectivity, and it refuses any contract it considers dishonorable.
 
 Each academy keeps its own master, its own hereditary teaching lineages and its own distinctive practices. They cooperate loosely within the janapada and compete fiercely for students, for prestige and for the reserved seats they hold between them on the sabhā. By long convention the four masters sit together at every formal sabhā session, and their joint pronouncements on military matters settle the janapada's foreign policy.
 
@@ -170,9 +170,9 @@ Dhanurkota Janapada uses the [[lore-vdyrnbnkng|Vedyaran banking system]], admini
 
 ## See Also
 
-- [[place-dhanurkotajnpd|Dhanurkota Janapada]] — the land the janapada holds
-- [[affiliation-janpdsvdyr|Janapadas of Vedyara]] — parent confederation
-- [[place-vedyarargn|Vedyara]] — parent region
-- Dhanurkota — the bow-fort town itself (settlement note)
-- [[affiliation-varakpnthn|Varṇaka Pantheon]] — religious tradition
-- [[skill-vedyarlng|Vedyari]] — language
+- [[place-dhanurkotajnpd|Dhanurkota Janapada]]—the land the janapada holds
+- [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—parent confederation
+- [[place-vedyarargn|Vedyara]]—parent region
+- Dhanurkota—the bow-fort town itself (settlement note)
+- [[affiliation-varakpnthn|Varṇaka Pantheon]]—religious tradition
+- [[skill-vedyarlng|Vedyari]]—language

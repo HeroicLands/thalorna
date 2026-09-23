@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "The Radiant Sage of the Varṇaka pantheon — knowledge arriving rather than knowledge stored, and the interior light a scholar or a soldier reads by."
+description: "The Radiant Sage of the Varṇaka pantheon—knowledge arriving rather than knowledge stored, and the interior light a scholar or a soldier reads by."
 type: lore
 subType: deity
 name:
@@ -10,7 +10,7 @@ shortcode: jnanasuradty
 packFolder: deitiesvarnaka
 ---
 
-_The Radiant Sage — an open book blazing with the light of a rising sun._
+_The Radiant Sage—an open book blazing with the light of a rising sun._
 
 Jñānasūra is the god of knowledge arriving. His moment is the one in which a difficult passage yields its sense; the stock of learning a scholar has laid up is not his concern. Vedyari theology holds ignorance to be a darkness the soul carries inward. Courage, mercy and devotion take their proper shape only once it is lit.
 
@@ -24,4 +24,4 @@ A household that keeps him leaves the open book on its reading-stand from dawn t
 
 The Sūrya temple below it and [[place-himashila|Himaśilā]] beside its outflow are kept in practice by the [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]]. They sight the civil year there and call the slab a footstool without saying whose. The older attribution and the temple's silence have never been made to meet, and neither contradicts the other.
 
-Jñānasūra keeps no priesthood of his own. Devotion to him is the household observance. A devotee who wants more takes one of his Ordeals for Favour, undertaken alone and answerable to no school.
+Jñānasūra keeps no priesthood of his own. Devotion to him is the household observance. A devotee who wants more takes one of his Ordeals for Favor, undertaken alone and answerable to no school.

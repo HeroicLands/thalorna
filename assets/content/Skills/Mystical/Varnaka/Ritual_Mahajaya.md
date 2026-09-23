@@ -26,7 +26,7 @@ packFolder: varnaka
 
 ## Ritual: Mahájaya
 
-- **Rite:** One of Mahájaya's Ordeals for Favour. It is a long public trust, kept where the community can watch it fail or hold
+- **Rite:** One of Mahájaya's Ordeals for Favor. It is a long public trust, kept where the community can watch it fail or hold
 - **Cost:** A sleepless watch over the communal granary through a single night, or a full year of public measurement of grain, cloth, wine and oil, with no complaint of short weight upheld against the devotee
 - **Performed by:** Any Upāsaka keeping the household's scale and sheaf; the standing of Vratin, once earned, is held for life
 - **Licensed by:** No one. The rite's honesty answers to whoever is watching. At Suvarṇagiri that is the sabhā and any Suvarṇagiri who cares to attend the monthly Weighing of the mountain's gold

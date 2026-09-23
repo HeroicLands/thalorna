@@ -1,7 +1,7 @@
 ---
 tags:
   - region
-description: "Toxic mineral flats, geothermal vents and storm-wracked scrubland — the land of K'awiil Tza'kul, the threshold of the southern wastes."
+description: "Toxic mineral flats, geothermal vents and storm-wracked scrubland—the land of K'awiil Tza'kul, the threshold of the southern wastes."
 name:
   full: K'awiil Tza'kul Region
   aliases: []
@@ -48,6 +48,6 @@ Most true trade flows through the region in transit rather than originating ther
 
 ## See Also
 
-- [[affiliation-kawiltzakl|K'awiil Tza'kul]] — The realm that holds this land
-- [[place-sthrnkchchk|Southern K'ich'chik]] — The enclosing region
-- [[place-kawiltzakl2|K'awiil Tza'kul]] — Seat of K'awiil Tza'kul
+- [[affiliation-kawiltzakl|K'awiil Tza'kul]]—The realm that holds this land
+- [[place-sthrnkchchk|Southern K'ich'chik]]—The enclosing region
+- [[place-kawiltzakl2|K'awiil Tza'kul]]—Seat of K'awiil Tza'kul

@@ -556,7 +556,7 @@ Yálith Kálmereth is a 33-year-old woman who stands 5'8" tall and is of moderat
 
 # Dossier {#dossier}
 
-Yálith Kálmereth is a travelling bard of [[place-elavendre|Élavendre]], born at Liranel to an Élavendri family of performers, who sings the ballads of the common folk from village to village and comes home to the timber town only between roads.
+Yálith Kálmereth is a traveling bard of [[place-elavendre|Élavendre]], born at Liranel to an Élavendri family of performers, who sings the ballads of the common folk from village to village and comes home to the timber town only between roads.
 
 Yálith was given the name "Kálmereth" for the clarity of her voice, and has kept it. Her own songs are ballads of love and loss, and Liranel gave her a subject: it is the town where people hire guides into the old wood, and where some families wait for someone who does not come back. She has sung in noble halls and been well paid there, and she has never stayed; the formalities of court sit badly on her and she says so.
 
@@ -592,10 +592,10 @@ The court bards of Élavendre, who call her a simple minstrel because she sings 
 
 ## Plot Hooks
 
-1. **A Hall for Good** — A lord of the Glanmor country has offered Yálith a permanent place in his household, on condition that she stops travelling. She has said no twice and he has begun asking why.
+1. **A Hall for Good**—A lord of the Glanmor country has offered Yálith a permanent place in his household, on condition that she stops traveling. She has said no twice and he has begun asking why.
 
-2. **The Stolen Lament** — A court bard has performed one of Yálith's laments as his own before the Crown, and it has made his name. The guild will hear a complaint only if she can prove authorship of a song she never wrote down.
+2. **The Stolen Lament**—A court bard has performed one of Yálith's laments as his own before the Crown, and it has made his name. The guild will hear a complaint only if she can prove authorship of a song she never wrote down.
 
-3. **The One Who Came Back** — A family that paid Yálith to sing a lament for a guide lost in the wood has had him walk into their house, years later, claiming no time has passed. They want a different song now.
+3. **The One Who Came Back**—A family that paid Yálith to sing a lament for a guide lost in the wood has had him walk into their house, years later, claiming no time has passed. They want a different song now.
 
-4. **A Song the Guides Dislike** — Yálith's newest ballad says plainly which of Liranel's guides work for the Crown. It is popular, it is accurate, and the Crown's guides have asked her, courteously, to drop it.
+4. **A Song the Guides Dislike**—Yálith's newest ballad says plainly which of Liranel's guides work for the Crown. It is popular, it is accurate, and the Crown's guides have asked her, courteously, to drop it.

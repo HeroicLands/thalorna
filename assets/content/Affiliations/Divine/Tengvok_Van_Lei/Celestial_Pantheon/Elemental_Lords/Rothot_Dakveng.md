@@ -42,8 +42,8 @@ data:
         title: Copyist
         lore: apprenticernk
         description: >-
-          Under training in a temple — copying forms, learning the seals and the calendrical
-          schedules — and not yet permitted to file anything on another's behalf.
+          Under training in a temple—copying forms, learning the seals and the calendrical
+          schedules—and not yet permitted to file anything on another's behalf.
       - level: 3
         title: Clerk
         lore: clerkrnk
@@ -77,7 +77,7 @@ data:
           transmitted upward to its Tëng Güng and answers for it if the bureau rejects it.
     offices:
       Tëng Güng: >-
-        "Celestial Minister" — the overseer of this domain, whose power is the authority of the
+        "Celestial Minister"—the overseer of this domain, whose power is the authority of the
         office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
       Chief Intendant: >-
         Senior mortal officer of this bureau's temples, who signs what is transmitted upward.
@@ -98,13 +98,13 @@ data:
         Conducts the burning that files a sealed petition. A petition burned at the wrong censer
         reaches the wrong bureau and is lost.
       Receiver of Tribute: >-
-        Takes the sacrifice that pays a petition's carriage — coin, grain, cloth, livestock — and
+        Takes the sacrifice that pays a petition's carriage—coin, grain, cloth, livestock—and
         enters its value to the petitioner's credit.
       Advocate: >-
         Prosecutes appeals before the Supreme Administrative Court, citing precedent against a
         ruling. Most fail; the avenue exists.
       Röthöt Dākvëng: >-
-        Röthöt Dākvëng — The Lord of Wood — the being this bureau or cultus is organised around.
+        Röthöt Dākvëng—The Lord of Wood—the being this bureau or cultus is organized around.
   commonSkills:
     - rothtdkvng
     - tngthkscrpt
@@ -124,7 +124,7 @@ data:
 packFolder: elementallords
 ---
 
-## Röthöt Dākvëng — The Lord of Wood
+## Röthöt Dākvëng—The Lord of Wood
 
 The Elemental Lord of Wood manifests in the celestial records as a figure of organic complexity and patient growth—an official whose authority extends across all states and uses of wood, yet whose administration is marked by a peculiar tolerance for variation and branching. Unlike Dāktūr Vōrthāt (the Lord of Metal), who maintains absolute categorization, Röthöt Dākvëng permits multiple simultaneous interpretations of his domain, accommodating different regional traditions and craft-lineages as long as they remain within defined boundaries. Some Tānthëi scholars suggest this flexibility reflects the nature of wood itself: alive in its growing state, yet capable of rigid structure once worked; subject to rot and decay, yet capable of being renewed through replanting and regrowth.
 
@@ -134,15 +134,15 @@ Like all Elemental Lords, Röthöt Dākvëng answers directly to the Jade Sovere
 
 The Lord of Wood maintains the boundary between five administrative categories, each governed according to canonical protocols and delegated to subordinate clerk-spirits:
 
-**Living Wood (Röthöt Zhëk)** — Trees rooted in the earth, forests, groves, and all growing timber. This category is supervised jointly by Röthöt Dākvëng and the Earth Lord (Vëngdāk Zhütvōr), with the understanding that Röthöt Dākvëng claims authority over the wood's _life force_ and reproductive capacity while Vëngdāk Zhütvōr claims authority over the _soil_ from which the wood grows. In practice, this distinction dissolves at the roots, and disputes over the proper classification of a growing forest are filed with regularity. The clerk-spirit **Zhëkvōrthān** maintains the registry of all significant forests and their spiritual allocations, coordinating with regional Tūrvōr (territorial officials) to ensure that harvesting permits are filed correctly.
+**Living Wood (Röthöt Zhëk)**—Trees rooted in the earth, forests, groves, and all growing timber. This category is supervised jointly by Röthöt Dākvëng and the Earth Lord (Vëngdāk Zhütvōr), with the understanding that Röthöt Dākvëng claims authority over the wood's _life force_ and reproductive capacity while Vëngdāk Zhütvōr claims authority over the _soil_ from which the wood grows. In practice, this distinction dissolves at the roots, and disputes over the proper classification of a growing forest are filed with regularity. The clerk-spirit **Zhëkvōrthān** maintains the registry of all significant forests and their spiritual allocations, coordinating with regional Tūrvōr (territorial officials) to ensure that harvesting permits are filed correctly.
 
-**Harvested Timber (Höt Röthöt)** — Felled wood, lumber in the rough, and timber awaiting processing or sale. This category is supervised by the clerk-spirit **Thimvōrk**, who maintains records of all active logging operations and ensures that harvested timber remains classified as "separated from the life force" rather than deteriorating into unclassified organic matter. A logging operation must file a petition with Röthöt Dākvëng's office before felling significant timber, both to secure administrative blessing for the harvest and to ensure that the wood does not drift into jurisdictional ambiguity (i.e., is it still part of the forest? has it already been classified as separate?).
+**Harvested Timber (Höt Röthöt)**—Felled wood, lumber in the rough, and timber awaiting processing or sale. This category is supervised by the clerk-spirit **Thimvōrk**, who maintains records of all active logging operations and ensures that harvested timber remains classified as "separated from the life force" rather than deteriorating into unclassified organic matter. A logging operation must file a petition with Röthöt Dākvëng's office before felling significant timber, both to secure administrative blessing for the harvest and to ensure that the wood does not drift into jurisdictional ambiguity (i.e., is it still part of the forest? has it already been classified as separate?).
 
-**Worked Wood (Höt Vörkāt)** — Finished timber used in construction, furniture, tools, and decorative objects. This category overlaps sharply with the Bureau of Persistence (Zāt Sëi), whose overseer **Nëizāt** claims that worked wood maintains the "continuity" function of its original classification (a wooden house-frame shelters generations; a wooden chair endures across years). Röthöt Dākvëng disputes this interpretation, arguing that once wood is worked into a human-designed form, it has been _transformed_ and therefore falls under his jurisdiction. The formal compromise, established through repeated precedent rulings, grants Röthöt Dākvëng authority over the wood's _material integrity_ during the working process while conceding to Nëizāt the authority over its _functional continuity_ once the working is complete. This boundary is notoriously unstable, and disputes arise constantly.
+**Worked Wood (Höt Vörkāt)**—Finished timber used in construction, furniture, tools, and decorative objects. This category overlaps sharply with the Bureau of Persistence (Zāt Sëi), whose overseer **Nëizāt** claims that worked wood maintains the "continuity" function of its original classification (a wooden house-frame shelters generations; a wooden chair endures across years). Röthöt Dākvëng disputes this interpretation, arguing that once wood is worked into a human-designed form, it has been _transformed_ and therefore falls under his jurisdiction. The formal compromise, established through repeated precedent rulings, grants Röthöt Dākvëng authority over the wood's _material integrity_ during the working process while conceding to Nëizāt the authority over its _functional continuity_ once the working is complete. This boundary is notoriously unstable, and disputes arise constantly.
 
-**Ritual Wood (Vörkāt Zhik)** — Wood used in ceremonial contexts, temple structures, altar furnishings, and sacred vessels. This category is supervised with special care, since ritual wood serves as a physical bridge between the mortal and celestial administrative orders. Petitions to use wood in novel ritual contexts are reviewed by Röthöt Dākvëng personally, and the Lord of Wood frequently denies permission on the grounds that unprecedented ceremonial applications create unclassifiable boundary conditions. Established ritual uses (temple frameworks, altar platforms, offering vessels) are permitted under license, with annual renewal required.
+**Ritual Wood (Vörkāt Zhik)**—Wood used in ceremonial contexts, temple structures, altar furnishings, and sacred vessels. This category is supervised with special care, since ritual wood serves as a physical bridge between the mortal and celestial administrative orders. Petitions to use wood in novel ritual contexts are reviewed by Röthöt Dākvëng personally, and the Lord of Wood frequently denies permission on the grounds that unprecedented ceremonial applications create unclassifiable boundary conditions. Established ritual uses (temple frameworks, altar platforms, offering vessels) are permitted under license, with annual renewal required.
 
-**Fuel and Waste Wood (Vōr Nürthöt)** — Wood burned as fuel or decomposing into component materials. This category overlaps with both the Bureau of Transformation (Höt Sëi) and the Bureau of Returns (Nüs Sëi), creating a triangular jurisdictional dispute that has never been formally resolved. When wood is burned, is it being _transformed_ (Zhürhöt's claim)? Or is it being _returned_ to its component elements (Nüsvōr's claim)? Or is it being _released_ from classification and drifting back toward the Hürnlëi (Gürnhürn's claim, though this is the most controversial interpretation)? Röthöt Dākvëng himself maintains that fuel-wood is still his responsibility until the moment of ignition, and that the subsequent combustion is a separate administrative matter. Most practitioners acknowledge that this position is philosophically weak, but it allows Röthöt Dākvëng to claim deference while declining to adjudicate the deeper dispute.
+**Fuel and Waste Wood (Vōr Nürthöt)**—Wood burned as fuel or decomposing into component materials. This category overlaps with both the Bureau of Transformation (Höt Sëi) and the Bureau of Returns (Nüs Sëi), creating a triangular jurisdictional dispute that has never been formally resolved. When wood is burned, is it being _transformed_ (Zhürhöt's claim)? Or is it being _returned_ to its component elements (Nüsvōr's claim)? Or is it being _released_ from classification and drifting back toward the Hürnlëi (Gürnhürn's claim, though this is the most controversial interpretation)? Röthöt Dākvëng himself maintains that fuel-wood is still his responsibility until the moment of ignition, and that the subsequent combustion is a separate administrative matter. Most practitioners acknowledge that this position is philosophically weak, but it allows Röthöt Dākvëng to claim deference while declining to adjudicate the deeper dispute.
 
 ### Authority and Jurisdictional Tensions
 
@@ -168,8 +168,8 @@ Mortals petition Röthöt Dākvëng through offerings at temple shrines, through
 
 ### See Also
 
-- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The Celestial Bureaucracy that appointed Röthöt Dākvëng as Elemental Lord
-- [[affiliation-vngdkzhtvr|Vëngdāk Zhütvōr]] — The Elemental Lord of Earth, with whom Röthöt Dākvëng shares jurisdiction over forests
-- [[affiliation-neizat|Nëizāt]] — Overseer of the Bureau of Persistence, whose authority over "continuity" Röthöt Dākvëng resists
-- [[affiliation-zhurhot|Zhürhöt]] — Overseer of the Bureau of Transformation, with whom Röthöt Dākvëng disputes jurisdiction over worked wood and fuel wood
-- [[lore-tanthei|Tānthëi]] — The priesthood who mediate petitions to the Elemental Lords
+- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]]—The Celestial Bureaucracy that appointed Röthöt Dākvëng as Elemental Lord
+- [[affiliation-vngdkzhtvr|Vëngdāk Zhütvōr]]—The Elemental Lord of Earth, with whom Röthöt Dākvëng shares jurisdiction over forests
+- [[affiliation-neizat|Nëizāt]]—Overseer of the Bureau of Persistence, whose authority over "continuity" Röthöt Dākvëng resists
+- [[affiliation-zhurhot|Zhürhöt]]—Overseer of the Bureau of Transformation, with whom Röthöt Dākvëng disputes jurisdiction over worked wood and fuel wood
+- [[lore-tanthei|Tānthëi]]—The priesthood who mediate petitions to the Elemental Lords

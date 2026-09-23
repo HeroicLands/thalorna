@@ -27,5 +27,5 @@ The settlement attracts pilgrims of a particular kind—those seeking communion 
 
 ## See Also
 
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] — Frozen northern kingdom
-- [[affiliation-asguardian|Asguardian Pantheon]] — Gods of the north
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—Frozen northern kingdom
+- [[affiliation-asguardian|Asguardian Pantheon]]—Gods of the north

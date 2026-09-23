@@ -2,7 +2,7 @@
 tags:
   - frontier
   - mountain
-description: "The blood-field of the eastern frontier — a recurrence that replays every campaign season, and the only one in Provènzia still being added to."
+description: "The blood-field of the eastern frontier—a recurrence that replays every campaign season, and the only one in Provènzia still being added to."
 type: place
 subType: site
 data:
@@ -19,7 +19,7 @@ packFolder: provenzia
 ---
 
 High on the Tarvénian frontier, where the passes come down out of the cold mountains, lies the
-**Blood-field of Serravel** — and it is the only one of Provènzia's [[lore-bloodfields|blood-fields]]
+**Blood-field of Serravel**—and it is the only one of Provènzia's [[lore-bloodfields|blood-fields]]
 that is not finished.
 
 ## A Recurrence
@@ -29,7 +29,7 @@ languages, the particular noise of a shield-line giving way. Lights move along t
 ever been found in the morning.
 
 The border families on both sides have lived beside it for so long that they use it. Serravel is
-audible for miles, and a night when the field is loud is taken as a warning — not a supernatural one,
+audible for miles, and a night when the field is loud is taken as a warning—not a supernatural one,
 merely a reliable one, since the weather that carries the sound is the weather that brings raiders.
 
 ## Still Being Made

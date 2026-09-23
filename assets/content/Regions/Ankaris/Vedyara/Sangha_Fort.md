@@ -3,7 +3,7 @@ tags:
   - fortress
   - military
   - inland
-description: "The Mahā-Saṅgha's one standing garrison — a stone work on the col of the conch-door, held for four centuries because of a single invasion, and read by Vindhyālaya as a rival's outpost."
+description: "The Mahā-Saṅgha's one standing garrison—a stone work on the col of the conch-door, held for four centuries because of a single invasion, and read by Vindhyālaya as a rival's outpost."
 type: place
 subType: structure
 data:

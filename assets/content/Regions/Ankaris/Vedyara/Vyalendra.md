@@ -1,5 +1,5 @@
 ---
-description: 'Textile city-state of southern Vedyára — "the City of Ten Thousand Looms," whose master-weaver guilds produce silks and cottons of patterns and dyes found nowhere else, traded to the courts of emperors and high priests across the known realms.'
+description: 'Textile city-state of southern Vedyára—"the City of Ten Thousand Looms," whose master-weaver guilds produce silks and cottons of patterns and dyes found nowhere else, traded to the courts of emperors and high priests across the known realms.'
 type: affiliation
 name:
   full: Vyālendra City-State
@@ -29,19 +29,19 @@ data:
         title: Bonded Servant
         lore: bondservantrnk
         description: >-
-          Bound by debt or birth to a household, owing labour and lacking the standing to hold
+          Bound by debt or birth to a household, owing labor and lacking the standing to hold
           land.
       - level: 2
         title: Śūdra
         lore: commonerrnk
         description: >-
-          Of the serving varṇa — cultivators, artisans and labourers who hold their place by
+          Of the serving varṇa—cultivators, artisans and laborers who hold their place by
           work rather than by rite.
       - level: 3
         title: Vaiśya
         lore: gentryrnk
         description: >-
-          Of the productive varṇa — merchants, dyers and cloth-factors, whose houses carry the
+          Of the productive varṇa—merchants, dyers and cloth-factors, whose houses carry the
           city's trade and pay for its walls.
       - level: 4
         title: Kṣatriya
@@ -80,7 +80,7 @@ data:
         Superintendent of the city treasury, answerable for the cloth-tax, the warehouse dues
         and the Council's reserve.
       Dūta: >-
-        Envoy to a foreign court or a neighbouring council, whose person is protected by custom
+        Envoy to a foreign court or a neighboring council, whose person is protected by custom
         on both sides.
       Commander of the Watch: >-
         Captain of the city watch, by long custom a graduate of the Dhanurkota academies and by
@@ -125,8 +125,8 @@ Vyālendra uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered th
 
 ## See Also
 
-- [[place-vedyarargn|Vedyara Region]] — Regional overview
-- [[place-vyalendraland|Vyālendra Land]] — the land the city-state holds
-- [[place-vyalendra3|Vyālendra]] — The city itself
-- [[skill-vedyarlng|Vedyari]] — Naming tradition
-- [[affiliation-varakpnthn|Varṇaka Pantheon]] — Religious tradition
+- [[place-vedyarargn|Vedyara Region]]—Regional overview
+- [[place-vyalendraland|Vyālendra Land]]—the land the city-state holds
+- [[place-vyalendra3|Vyālendra]]—The city itself
+- [[skill-vedyarlng|Vedyari]]—Naming tradition
+- [[affiliation-varakpnthn|Varṇaka Pantheon]]—Religious tradition

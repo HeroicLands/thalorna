@@ -16,33 +16,33 @@ data:
   governance:
     model: council
     summary: >-
-      Varṇaka organises by school, not by god. None of the ten deities has a priesthood of its own; ordination is into one of the four sampradāya, which then serve whichever gods their doctrine requires. What a devotee holds toward a particular god is therefore the household observance and, if they undertake one, that god's Ordeal for Favour.
+      Varṇaka organizes by school, not by god. None of the ten deities has a priesthood of its own; ordination is into one of the four sampradāya, which then serve whichever gods their doctrine requires. What a devotee holds toward a particular god is therefore the household observance and, if they undertake one, that god's Ordeal for Favor.
     ranks:
       - level: 0
         title: Patita
         lore: excmmnctrnk
         description: >-
-          "Fallen" — put out of Varṇakan observance, and received again by no house and no sampradāya.
+          "Fallen"—put out of Varṇakan observance, and received again by no house and no sampradāya.
       - level: 1
         title: Upāsaka
         lore: layfaithfulrnk
         description: >-
-          The lay devotee, keeping the household observances of whichever gods the household honours.
+          The lay devotee, keeping the household observances of whichever gods the household honors.
       - level: 2
         title: Vratin
         lore: professedrnk
         description: >-
-          "One under vow" — has completed one of the gods' Ordeals for Favour, which is the only standing devotion to a god confers, and is held for life.
+          "One under vow"—has completed one of the gods' Ordeals for Favor, which is the only standing devotion to a god confers, and is held for life.
       - level: 3
         title: Ordained of a Sampradāya
         lore: priestrnk
         description: >-
-          Ordained into one of the four schools — Agnī-panthā, Svapnasāri Samāja, Trimūrti Sampradāya, Vyālendravāda — each of which carries its own ladder. Priesthood in Varṇaka belongs to the school, never to the god.
+          Ordained into one of the four schools—Agnī-panthā, Svapnasāri Samāja, Trimūrti Sampradāya, Vyālendravāda—each of which carries its own ladder. Priesthood in Varṇaka belongs to the school, never to the god.
     offices:
       Householder: >-
         Keeps the household shrine and its observances, which is what devotion to a Varṇakan god ordinarily consists of.
       Vrata-Holder: >-
-        Under, or having completed, a named Ordeal for Favour of a particular god.
+        Under, or having completed, a named Ordeal for Favor of a particular god.
       Ácārya: >-
         The working priest of a sampradāya, whose ordination is to the school and whose service is to whichever gods its doctrine requires.
   commonSkills: []
@@ -59,9 +59,9 @@ data:
 packFolder: pantheonsvarnaka
 ---
 
-The **Varṇaka** is a single unified faith with a plural pantheon. Ten deities and spirit-courts are honoured across the tradition, and none of them is a religion of its own.
+The **Varṇaka** is a single unified faith with a plural pantheon. Ten deities and spirit-courts are honored across the tradition, and none of them is a religion of its own.
 
-The faith is organised into **sects and traditions** (_sampradāyas_, _vādas_, _panthās_, _samājas_), dozens of them in most regions and hundreds in some. Each has its own theological emphasis, its own temple style and its own favoured rites. A sect may venerate one god, a small group of them, or the whole pantheon read in one key. A single deity may be the focus of several sects that read him differently.
+The faith is organized into **sects and traditions** (_sampradāyas_, _vādas_, _panthās_, _samājas_), dozens of them in most regions and hundreds in some. Each has its own theological emphasis, its own temple style and its own favored rites. A sect may venerate one god, a small group of them, or the whole pantheon read in one key. A single deity may be the focus of several sects that read him differently.
 
 A priest is ordained into one sect, and most temples belong to one. The lay faithful move between sects and temples easily, attending whichever shrine suits the occasion.
 
@@ -149,7 +149,7 @@ The notes below describe the **deities**, their symbols, their iconography, thei
 ### **Svapnadēvas** (_The Dreaming Host_)
 
 - **Aspect**: **Dreams**
-- **Role**: Celestial spirits who weave dreams, omens, and visions. They act as intermediaries between mortals and the divine. The Svapnadēvas are divine servants of [[lore-goddreams|The God of Dreams]], though the Varṇaka do not name or directly worship that elder deity — they revere the Host itself.
+- **Role**: Celestial spirits who weave dreams, omens, and visions. They act as intermediaries between mortals and the divine. The Svapnadēvas are divine servants of [[lore-goddreams|The God of Dreams]], though the Varṇaka do not name or directly worship that elder deity—they revere the Host itself.
 - **Symbol**: A crescent moon with a lotus stem.
 - **Pronunciation**: _SWAP-nah-day-vahs_
 - **Local Worship**: Seers and mystics invoke them in rites of prophecy.
@@ -164,30 +164,30 @@ The notes below describe the **deities**, their symbols, their iconography, thei
 
 ## See Also
 
-**Deities — Principal Gods:**
+**Deities—Principal Gods:**
 
-- [[affiliation-vyalendra|Vyālendra]] — Creation and the shaping power
-- [[affiliation-mahajaya|Mahájaya]] — Order, preservation, prosperity
-- [[affiliation-rasikara|Rásikara]] — Fire, transformation, renewal
+- [[affiliation-vyalendra|Vyālendra]]—Creation and the shaping power
+- [[affiliation-mahajaya|Mahájaya]]—Order, preservation, prosperity
+- [[affiliation-rasikara|Rásikara]]—Fire, transformation, renewal
 
-**Deities — Lesser Gods:**
+**Deities—Lesser Gods:**
 
-- [[affiliation-kalavrata|Kālavrata]] — Death and the passage of souls
-- [[affiliation-meghanatha|Meghanātha]] — Storms and the monsoon
-- [[affiliation-jnanasura|Jñānasūra]] — Knowledge and enlightenment
-- [[affiliation-kamavrata|Kāmavrata]] — Fertility, love, desire
-- [[affiliation-vyahrati|Vyāhrati]] — Decay, endings, gentle release
+- [[affiliation-kalavrata|Kālavrata]]—Death and the passage of souls
+- [[affiliation-meghanatha|Meghanātha]]—Storms and the monsoon
+- [[affiliation-jnanasura|Jñānasūra]]—Knowledge and enlightenment
+- [[affiliation-kamavrata|Kāmavrata]]—Fertility, love, desire
+- [[affiliation-vyahrati|Vyāhrati]]—Decay, endings, gentle release
 
-**Deities — Spiritual Courts:**
+**Deities—Spiritual Courts:**
 
-- [[affiliation-svapnadevas|Svapnadēvas]] — The Dreaming Host
-- [[affiliation-pavanajitras|Pavanajitras]] — The Wandering Wind
+- [[affiliation-svapnadevas|Svapnadēvas]]—The Dreaming Host
+- [[affiliation-pavanajitras|Pavanajitras]]—The Wandering Wind
 
 **Sample Sects and Traditions:**
 
-- [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]] — _Tradition of the Three Forms_: orthodox civic religion; balanced veneration of the cosmic triad
-- [[affiliation-vyalendravada|Vyālendravāda]] — _The Doctrine of Vyālendra_: monistic, scholarly; tied to the great academies and building trades
-- [[affiliation-agnipantha|Agnī-panthā]] — _The Path of the Flame_: ascetic, reformist, mendicant; Rásikara-focused purification
-- [[affiliation-svapnasarisamaja|Svapnasāri-samāja]] — _The Assembly of the Dream-Followers_: mystical, contemplative; oneiromancers and visionary counsellors
+- [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]]—_Tradition of the Three Forms_: orthodox civic religion; balanced veneration of the cosmic triad
+- [[affiliation-vyalendravada|Vyālendravāda]]—_The Doctrine of Vyālendra_: monistic, scholarly; tied to the great academies and building trades
+- [[affiliation-agnipantha|Agnī-panthā]]—_The Path of the Flame_: ascetic, reformist, mendicant; Rásikara-focused purification
+- [[affiliation-svapnasarisamaja|Svapnasāri-samāja]]—_The Assembly of the Dream-Followers_: mystical, contemplative; oneiromancers and visionary counselors
 
 **Regions:** [[place-vedyarargn|Vedyara Region]]

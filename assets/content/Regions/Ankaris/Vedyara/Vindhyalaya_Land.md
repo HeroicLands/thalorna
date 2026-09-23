@@ -2,7 +2,7 @@
 tags:
   - region
   - held
-description: "The land of the kingdom of Vindhyālaya — the northern highlands of Vedyara, pine-clad ridges, snow-fed rivers and the pass-roads that carry the caravan trade over the wall to the steppe beyond."
+description: "The land of the kingdom of Vindhyālaya—the northern highlands of Vedyara, pine-clad ridges, snow-fed rivers and the pass-roads that carry the caravan trade over the wall to the steppe beyond."
 name:
   full: Vindhyālaya
   aliases: []
@@ -35,15 +35,15 @@ Highland agriculture is limited by terrain. The great terraced fields of the low
 
 ## Notable Features
 
-- **Sūryāgarha** — the stone capital, a fortress-city built across the throat of [[place-suryadvara|Sūryadvāra]], the greatest northern pass. Every caravan entering or leaving Vedyara by that pass goes beneath its walls, and beyond the throat the road forks north for the Khazryn and northeast for Tānvür.
-- **[[place-pssshrines|The Pass-Shrines]]** — a chain of Varṇaka temples built at the high points of the caravan roads, where travellers stop to leave offerings before attempting the descent. The shrines are maintained by a specialised brahmin sub-caste whose members live year-round at altitudes that would kill an unaccustomed lowlander within a week.
-- **[[place-slvrgorges|The Silver Gorges]]** — steep valleys in the eastern mountains, worked for lapis and silver since before the founding of the kingdom, and carrying [[place-tamradvara|Tāmradvāra]] up to the marches beyond. The mines are held by hereditary smithing clans whose prerogatives predate the Mahārāja's own charter.
+- **Sūryāgarha**—the stone capital, a fortress-city built across the throat of [[place-suryadvara|Sūryadvāra]], the greatest northern pass. Every caravan entering or leaving Vedyara by that pass goes beneath its walls, and beyond the throat the road forks north for the Khazryn and northeast for Tānvür.
+- **[[place-pssshrines|The Pass-Shrines]]**—a chain of Varṇaka temples built at the high points of the caravan roads, where travelers stop to leave offerings before attempting the descent. The shrines are maintained by a specialized brahmin sub-caste whose members live year-round at altitudes that would kill an unaccustomed lowlander within a week.
+- **[[place-slvrgorges|The Silver Gorges]]**—steep valleys in the eastern mountains, worked for lapis and silver since before the founding of the kingdom, and carrying [[place-tamradvara|Tāmradvāra]] up to the marches beyond. The mines are held by hereditary smithing clans whose prerogatives predate the Mahārāja's own charter.
 
 ## See Also
 
-- [[affiliation-vindhyalay|Vindhyālaya]] — The kingdom that holds this land
-- [[place-vedyarargn|Vedyara Region]] — The enclosing region
-- [[place-graznmntns|The Grazian Mountains]] — The wall the pass-roads cross
-- [[place-suryagarha|Sūryāgarha]] — The fortress-capital
-- [[place-sthrnwall|The Southern Wall]] — The escarpment the kingdom's passes cross
-- [[affiliation-osketguides|The Ösket]] — The guides who take every caravan over
+- [[affiliation-vindhyalay|Vindhyālaya]]—The kingdom that holds this land
+- [[place-vedyarargn|Vedyara Region]]—The enclosing region
+- [[place-graznmntns|The Grazian Mountains]]—The wall the pass-roads cross
+- [[place-suryagarha|Sūryāgarha]]—The fortress-capital
+- [[place-sthrnwall|The Southern Wall]]—The escarpment the kingdom's passes cross
+- [[affiliation-osketguides|The Ösket]]—The guides who take every caravan over

@@ -24,7 +24,7 @@ Wawat is the capital of [[affiliation-nomewawat|the Nome of Wawat]] and the seat
 
 ## See Also
 
-- [[affiliation-nomewawat|The Nome of Wawat]] — Parent nome
-- [[affiliation-bordernoms|The Border Nomes]] — Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[affiliation-ptah|Ptā'h]] — Patron cult
+- [[affiliation-nomewawat|The Nome of Wawat]]—Parent nome
+- [[affiliation-bordernoms|The Border Nomes]]—Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
+- [[affiliation-ptah|Ptā'h]]—Patron cult

@@ -1,7 +1,7 @@
 ---
 tags: []
 type: affiliation
-description: The loose cultural-political confederation of Vedyara's village-cluster temple-republics — the small janapadas that, together with the great city-states, make up the bulk of Vedyari political life. No central authority; coordination through the great pilgrimage festivals and the shared Varṇaka tradition.
+description: The loose cultural-political confederation of Vedyara's village-cluster temple-republics—the small janapadas that, together with the great city-states, make up the bulk of Vedyari political life. No central authority; coordination through the great pilgrimage festivals and the shared Varṇaka tradition.
 name:
   full: Janapadas of Vedyara
   aliases:
@@ -19,7 +19,7 @@ data:
     model: confederation
     summary: >-
       The Mahā-Saṅgha convenes and does not govern. It has no legislature, no taxation and no
-      standing institution between gatherings — only the offices the Mela itself needs, and
+      standing institution between gatherings—only the offices the Mela itself needs, and
       consensus among senior priests, enforced by the withdrawal of inter-janapada goodwill.
     ranks:
       - level: 0
@@ -32,19 +32,19 @@ data:
         title: Bonded Servant
         lore: bondservantrnk
         description: >-
-          Bound by debt or birth to a household, owing labour and lacking the standing to hold
+          Bound by debt or birth to a household, owing labor and lacking the standing to hold
           land.
       - level: 2
         title: Śūdra
         lore: commonerrnk
         description: >-
-          Of the serving varṇa — cultivators, artisans and labourers who hold their place by
+          Of the serving varṇa—cultivators, artisans and laborers who hold their place by
           work rather than by rite.
       - level: 3
         title: Vaiśya
         lore: gentryrnk
         description: >-
-          Of the productive varṇa — merchants, herders and landholders, whose tithes in coin and
+          Of the productive varṇa—merchants, herders and landholders, whose tithes in coin and
           goods sustain the temple and its granary.
       - level: 4
         title: Kṣatriya
@@ -95,7 +95,7 @@ data:
   parents: []
   relations:
     varakpnthn: aligned
-terran_analog: "Medieval South Indian sabhā/ur temple-republics — Chola-era brahmadeya village federations governed by temple-anchored assemblies, loosely confederated through pilgrimage networks and shared classical tradition rather than through any centralized political authority"
+terran_analog: "Medieval South Indian sabhā/ur temple-republics—Chola-era brahmadeya village federations governed by temple-anchored assemblies, loosely confederated through pilgrimage networks and shared classical tradition rather than through any centralized political authority"
 packFolder: vedyara
 ---
 
@@ -121,7 +121,7 @@ The Mahā-Saṅgha is what passes for coordination between janapadas. It is not 
 
 It convenes at the great pilgrimage festivals, at the seasonal markets that draw delegations from many janapadas, and above all at the **Mahā-Mela**, the twelve-yearly festival at the holy confluence of the Chandramahī and the Sarvada in central Vedyara. The Mela draws perhaps a million pilgrims and the senior priests and elders of every janapada that can spare a delegation. It runs for forty days. The first thirty are the religious observances; the last ten are inter-janapada business.
 
-Seats at the Mela are counted by **river-circuit**. Every janapada belongs to the circuit of the water it drinks: the Chandramahī, the Sarvada, the Mahānadi, the Bhārava, or the coast for those that drink from none of the four. A circuit speaks at the Mela through the delegations of its own janapadas, so a janapada's neighbours in the roll are the ones upstream and downstream of it and not the ones over the ridge. The kingdoms and the city-states that hold a seat hold it in their own right and belong to no circuit.
+Seats at the Mela are counted by **river-circuit**. Every janapada belongs to the circuit of the water it drinks: the Chandramahī, the Sarvada, the Mahānadi, the Bhārava, or the coast for those that drink from none of the four. A circuit speaks at the Mela through the delegations of its own janapadas, so a janapada's neighbors in the roll are the ones upstream and downstream of it and not the ones over the ridge. The kingdoms and the city-states that hold a seat hold it in their own right and belong to no circuit.
 
 Those ten days settle the next twelve years, in informal consultation between delegations. The business is water-rights between janapadas on one river system, trade conventions, the reaffirmation of the great pilgrimage routes, and boundary disputes that have outgrown bilateral settlement. It is also the public denunciation of a janapada judged to have behaved shamefully, the recognition of newly-formed janapadas, and the formal mourning of those that have collapsed since the previous Mela.
 
@@ -159,9 +159,9 @@ The janapadas use the [[lore-vdyrnbnkng|Vedyaran banking system]], administered 
 
 ## See Also
 
-- [[place-vedyarargn|Vedyara Region]] — parent region
-- [[affiliation-varakpnthn|Varṇaka Pantheon]] — religious tradition that holds the janapadas together
-- [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]], [[affiliation-vindhyalay|Vindhyālaya]] — the great city-states
-- [[affiliation-dhnrktjnpd|Dhanurkota Janapada]], [[affiliation-rajaprjnpd|Rajapur Janapada]], [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]] — three particular janapadas
-- [[skill-vedyarlng|Vedyari]] — the shared language
-- [[place-ankrscntnnt|Ankaris Continent]] — parent continent
+- [[place-vedyarargn|Vedyara Region]]—parent region
+- [[affiliation-varakpnthn|Varṇaka Pantheon]]—religious tradition that holds the janapadas together
+- [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]], [[affiliation-vindhyalay|Vindhyālaya]]—the great city-states
+- [[affiliation-dhnrktjnpd|Dhanurkota Janapada]], [[affiliation-rajaprjnpd|Rajapur Janapada]], [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]]—three particular janapadas
+- [[skill-vedyarlng|Vedyari]]—the shared language
+- [[place-ankrscntnnt|Ankaris Continent]]—parent continent

@@ -3,7 +3,7 @@ tags:
   - pass
   - caravan
   - inland
-description: "The scholars' door — the long crossing of the Eastern Reach to Tānvür's western frontier, where a Tānvüri way-station keeps a register four centuries deep."
+description: "The scholars' door—the long crossing of the Eastern Reach to Tānvür's western frontier, where a Tānvüri way-station keeps a register four centuries deep."
 type: place
 subType: feature
 data:
@@ -29,13 +29,13 @@ It carries the goods a caravan can afford to move slowly and the people nobody e
 
 ## The Way-Station
 
-Beyond the throat, on the Tānvüri side, stands a frontier way-station of the celestial administration. It feeds travellers, houses them for as long as the weather requires, and records each of them in a register that has been kept without a gap for four hundred years. Vedyari visitors are treated with unfailing courtesy and are never, under any circumstances, permitted to see the register.
+Beyond the throat, on the Tānvüri side, stands a frontier way-station of the celestial administration. It feeds travelers, houses them for as long as the weather requires, and records each of them in a register that has been kept without a gap for four hundred years. Vedyari visitors are treated with unfailing courtesy and are never, under any circumstances, permitted to see the register.
 
 The [[affiliation-tanvurempr|Empire]]'s official position is that the Vedyari śreṇis are a tributary trade of no administrative consequence. Its frontier officers keep a register, send escorts, and stand under orders to meet a Vedyari party at the col and not before. That is the practice of a frontier that is watched.
 
 ## The Guides
 
-This is [[affiliation-hvarnguides|Hvarn]] ground. The Hvarn work the eastern crossings as the [[affiliation-osketguides|Ösket]] work the western, are a smaller people, and are on noticeably better terms with the temple-republics than with the kingdom — the [[place-sanghafort|Saṅgha-fort]] two passes east is supplied through Hvarn hands, and everyone on both sides finds it convenient not to discuss what that costs.
+This is [[affiliation-hvarnguides|Hvarn]] ground. The Hvarn work the eastern crossings as the [[affiliation-osketguides|Ösket]] work the western, are a smaller people, and are on noticeably better terms with the temple-republics than with the kingdom—the [[place-sanghafort|Saṅgha-fort]] two passes east is supplied through Hvarn hands, and everyone on both sides finds it convenient not to discuss what that costs.
 
 ## See Also
 

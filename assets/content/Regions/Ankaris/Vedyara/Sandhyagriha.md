@@ -3,7 +3,7 @@ tags:
   - vedyara
   - draft
 description: >-
-  The principal house of the Twilight House in Vyālendra — the building itself,
+  The principal house of the Twilight House in Vyālendra—the building itself,
   where the Companions receive their clients and the handlers keep what is
   overheard. Satellite houses stand in each major Vedyaran city.
 type: place
@@ -31,5 +31,5 @@ his rivals also enter, and one his servants do not follow him into.
 
 ## See Also
 
-- [[affiliation-twilighths|The Twilight House]] — the guild that keeps it
-- [[place-vyalendra3|Vyālendra]] — the city it stands in
+- [[affiliation-twilighths|The Twilight House]]—the guild that keeps it
+- [[place-vyalendra3|Vyālendra]]—the city it stands in

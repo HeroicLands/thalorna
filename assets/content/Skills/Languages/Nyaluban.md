@@ -44,7 +44,7 @@ Nyáluban employs a rich consonantal inventory shaped by areal contact with neig
 
 - Unvoiced: p, t, k
 - Voiced: b, d, g
-- Implosive: b', d', g' — voiced stops drawn inward instead of released outward, giving them a hollow, popping quality
+- Implosive: b', d', g'—voiced stops drawn inward instead of released outward, giving them a hollow, popping quality
 
 **Fricatives:**
 
@@ -78,7 +78,7 @@ Nyáluban distinguishes five cardinal vowels with length distinctions:
 
 Nyáluban is a sophisticated **multi-level tone language** with four to seven contrastive tones depending on analysis:
 
-Pitch is numbered on a five-step scale, 1 the lowest register and 5 the highest — the notation Thaloran scribes use when transcribing drum-speech.
+Pitch is numbered on a five-step scale, 1 the lowest register and 5 the highest—the notation Thaloran scribes use when transcribing drum-speech.
 
 1. **High Tone (5):** A high, level pitch
 2. **Mid-High Tone (4):** Between high and mid
@@ -148,7 +148,7 @@ The language readily incorporates objects and modifiers directly into verbal and
 
 **Recent Written Systems:** In the last 300-400 years, contact with neighboring writing systems has led to sporadic attempts to write Nyáluban. Two systems have emerged:
 
-1. **Syllabic Adaptation:** Some scholars have adapted the scripts of neighboring peoples — chiefly [[skill-demtkscrpt|Demotika]] and the vowelled [[skill-okhsshscrpt|Okh-sesh]] — to represent Nyáluban on syllabic principles. This has met with limited adoption.
+1. **Syllabic Adaptation:** Some scholars have adapted the scripts of neighboring peoples—chiefly [[skill-demtkscrpt|Demotika]] and the voweled [[skill-okhsshscrpt|Okh-sesh]]—to represent Nyáluban on syllabic principles. This has met with limited adoption.
 
 2. **Phonetic Innovations:** Merchants and some educated individuals have experimented with phonetic systems (approaching alphabetic principles) to record contracts, names, and trade information. These remain marginal.
 
@@ -201,11 +201,11 @@ Contemporary Nyáluban shows some dialectal variation, though the oral tradition
 
 ## Sample Phrases
 
-1. **Nyálu mi-bóo** — _Greeting; literally "Nyáluba I-greet" (high tone on mi marks greeting register)_
-2. **Tambá le ína** — _Blessing invocation; "Spirits good abide" (formulaic expression of peaceful greeting)_
-3. **Nkúlu ngá-kî** — _Statement of respect; "Elder [you]-honor" (mid tone marks deference)_
-4. **Kabìshi njíra** — _Trade expression; "merchandise-precious bring-hither" (rising tone marks urgency)_
-5. **Djámbà sángo** — _Oath formula; "Ancestors witness" (falling tone marks solemnity and finality)_
+1. **Nyálu mi-bóo**—_Greeting; literally "Nyáluba I-greet" (high tone on mi marks greeting register)_
+2. **Tambá le ína**—_Blessing invocation; "Spirits good abide" (formulaic expression of peaceful greeting)_
+3. **Nkúlu ngá-kî**—_Statement of respect; "Elder [you]-honor" (mid tone marks deference)_
+4. **Kabìshi njíra**—_Trade expression; "merchandise-precious bring-hither" (rising tone marks urgency)_
+5. **Djámbà sángo**—_Oath formula; "Ancestors witness" (falling tone marks solemnity and finality)_
 
 ## Related Languages
 

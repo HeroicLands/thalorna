@@ -10,7 +10,7 @@ shortcode: vyahratidty
 packFolder: deitiesvarnaka
 ---
 
-_The Keeper of Decay — a serene older woman crowned with wilting blossoms, holding a shallow bowl of gathered petals and dew._
+_The Keeper of Decay—a serene older woman crowned with wilting blossoms, holding a shallow bowl of gathered petals and dew._
 
 Vyāhrati is endings, and the quiet change by which what has reached its term gives itself back to the world. She commands no great presence in the Vedyari imagination, and she is venerated for necessity and not for power.
 

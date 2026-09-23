@@ -559,7 +559,7 @@ Skaldár Balthhelm is a 51-year-old man who stands 5'10" tall and is of moderate
 
 Skaldár Balthhelm is a toymaker of Falkenstein, a hill fort of the Varokh in [[place-vrystwald|Vrystwald]], a Varokh who fought until a Grukar spear ended it and has carved toys for the fort's children in the twenty years since.
 
-Skaldár was a warrior of Falkenstein's war-band until a spear through the thigh in the marsh fighting left him a limp that no war-band would carry. A Varokh man who cannot fight has no place the forest recognises, and Skaldár found one with a knife: he had always carved for his own children, and he began to carve for everyone's. His toys move. A wolf with jointed legs that lopes when it is pulled, a boatman whose arms row, birds on a string that beat their wings; he has spent twenty years learning how a joint should be cut so that a thing of wood looks for a moment alive. The fort's households pay him in meat and furs, and the river-traders carry his animals down to the Nordman markets. Lately the traders bring painted Nordman toys back up the river, and the children have begun to prefer them.
+Skaldár was a warrior of Falkenstein's war-band until a spear through the thigh in the marsh fighting left him a limp that no war-band would carry. A Varokh man who cannot fight has no place the forest recognizes, and Skaldár found one with a knife: he had always carved for his own children, and he began to carve for everyone's. His toys move. A wolf with jointed legs that lopes when it is pulled, a boatman whose arms row, birds on a string that beat their wings; he has spent twenty years learning how a joint should be cut so that a thing of wood looks for a moment alive. The fort's households pay him in meat and furs, and the river-traders carry his animals down to the Nordman markets. Lately the traders bring painted Nordman toys back up the river, and the children have begun to prefer them.
 
 ## Psyche
 
@@ -591,10 +591,10 @@ A young carver of the fort who copies his joints and paints them bright, and who
 
 ## Plot Hooks
 
-1. **The Chieftain's Grandchild** — The chieftain's grandchild wants a wolf from Skaldár for the naming feast, and the chieftain's daughter, who runs the fort's trade, wants it painted like the Nordman ones.
+1. **The Chieftain's Grandchild**—The chieftain's grandchild wants a wolf from Skaldár for the naming feast, and the chieftain's daughter, who runs the fort's trade, wants it painted like the Nordman ones.
 
-2. **The Nordman's Offer** — A Nordman trader has offered Skaldár a workshop and apprentices in a hall-town across the frontier. He would have to leave the forest.
+2. **The Nordman's Offer**—A Nordman trader has offered Skaldár a workshop and apprentices in a hall-town across the frontier. He would have to leave the forest.
 
-3. **The Thrall Child** — A thrall child has been coming to watch him work, and Skaldár has begun to teach it. A thrall who carves is a thrall somebody will sell for more.
+3. **The Thrall Child**—A thrall child has been coming to watch him work, and Skaldár has begun to teach it. A thrall who carves is a thrall somebody will sell for more.
 
-4. **The Young Men** — The fort's young warriors have taken to breaking the old cripple's animals for sport, and one of them is the chieftain's son, whose father Skaldár fought beside.
+4. **The Young Men**—The fort's young warriors have taken to breaking the old cripple's animals for sport, and one of them is the chieftain's son, whose father Skaldár fought beside.

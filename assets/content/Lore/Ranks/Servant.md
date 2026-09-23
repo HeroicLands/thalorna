@@ -7,10 +7,10 @@ name:
   full: Servant
   aliases: []
 shortcode: servantrnk
-description: "Kept for labour about a household or a company, and not counted among its members."
+description: "Kept for labor about a household or a company, and not counted among its members."
 ---
 
-Kept for labour about a household or a company, and not counted among its members.
+Kept for labor about a household or a company, and not counted among its members.
 
 ## Obligations and Rights
 

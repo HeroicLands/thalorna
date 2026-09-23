@@ -22,7 +22,8 @@ data:
         title: Rite-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually requires — a sentence that reaches past the end of the life it is passed in.
+          Barred from the temple rites, and with them from the funerary rites every Kheperi
+          eventually requires—a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
         lore: layfaithfulrnk
@@ -32,17 +33,23 @@ data:
         title: Wab
         lore: initiaternk
         description: >-
-          "Purified One" — acolytes in apprenticeships that may last a decade or more, maintaining the sacred fires and learning the basic rituals; the most promising are trained in the secret mysteries — the god's nightly battle against chaos, and the hidden names of power.
+          "Purified One"—acolytes in apprenticeships that may last a decade or more, maintaining the
+          sacred fires and learning the basic rituals; the most promising are trained in the secret
+          mysteries—the god's nightly battle against chaos, and the hidden names of power.
       - level: 3
         title: Hem'Netjer
         lore: priestrnk
         description: >-
-          "Servant of the God" — ordained priests serving as temple administrators, teachers and ritual leaders, trained extensively in theology, astronomy and natural philosophy, and able to predict the sun's paths through the heavens with precision.
+          "Servant of the God"—ordained priests serving as temple administrators, teachers and
+          ritual leaders, trained extensively in theology, astronomy and natural philosophy, and
+          able to predict the sun's paths through the heavens with precision.
       - level: 4
         title: Wer'Hekau
         lore: highpriestrnk
         description: >-
-          "Great of Sacred Power" — High Priest of Rā, holding extraordinary political and spiritual authority. Chosen by the sitting Per-Aá in consultation with the outgoing holder — a succession the priesthood has occasionally contested, sometimes to open conflict.
+          "Great of Sacred Power"—High Priest of Rā, holding extraordinary political and spiritual
+          authority. Chosen by the sitting Per-Aá in consultation with the outgoing holder—a
+          succession the priesthood has occasionally contested, sometimes to open conflict.
     offices:
       Keeper of the Observatory: >-
         Maintains the temple's solar observatory and tracks the movements of sun, moon and stars, which serves both the cult's theology and practical prediction of the seasons.
@@ -63,9 +70,9 @@ data:
         sealed into the tomb with him. The order is unchanged in six centuries and has never been relaxed:
         any soul seen seeking the cursed road is killed where they stand.
       Bearer of the God's Image: >-
-        On the high festivals the image of Rā is borne in procession down the Sun's Road — the monumental
-        avenue lined with sphinxes and ram-statues — and across the water to the island on its stone
-        causeways.
+        On the high festivals the image of Rā is borne in procession down the Sun's Road—the
+        monumental avenue lined with sphinxes and ram-statues—and across the water to the island on
+        its stone causeways.
       Keeper of the Solstice Rites: >-
         The two climaxes of the year, when the whole capital turns out to watch the god born and the god die
         along his own road: the midsummer Festival of the Coming-Forth, when the dawn breaks straight down

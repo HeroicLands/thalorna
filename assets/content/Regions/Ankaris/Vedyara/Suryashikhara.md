@@ -3,7 +3,7 @@ tags:
   - mountain
   - sacred
   - inland
-description: "The highest peak of the Southern Wall and the one the dawn strikes first — above the Chandramahī's source, the Sūrya temple and the slab the ice has never marked."
+description: "The highest peak of the Southern Wall and the one the dawn strikes first—above the Chandramahī's source, the Sūrya temple and the slab the ice has never marked."
 type: place
 subType: feature
 data:

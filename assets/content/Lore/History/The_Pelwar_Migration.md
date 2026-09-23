@@ -2,7 +2,7 @@
 tags:
   - history
   - spine
-description: "Three centuries of displacement, from approximately 1400 BF to approximately 1100 BF, push whole peoples west across half a continent until the movement runs out of land against the western sea — and a few communities go across the water."
+description: "Three centuries of displacement, from approximately 1400 BF to approximately 1100 BF, push whole peoples west across half a continent until the movement runs out of land against the western sea—and a few communities go across the water."
 type: lore
 subType: history
 name:
@@ -46,7 +46,7 @@ event:
           human on the island today descends from those who made it
         knowledge: named
       - place: place-midhalnrgn
-        how: the peoples who settle this coast diverge into the Vylari and their neighbours over the centuries that follow
+        how: the peoples who settle this coast diverge into the Vylari and their neighbors over the centuries that follow
         knowledge: named
       - place: place-nrdlndsrgn
         how: the kings of the north trace their lines back into the mists of the movement
@@ -83,12 +83,12 @@ grouping of related tribes, and the Migration was not a wandering. It was a disp
 cause: [[lore-varkhadcnq|the Varkhad]] took the homelands, and generations of pressure pushed whole
 peoples ahead of them across half a continent.
 
-It stopped at the sea. That is why the Pelwar-descended peoples — Élavendri, Áelendan, Vylari,
-Nordmal, Varokhi, Tarvéni, Provenzal and the rest — are packed along the western coastline as densely
+It stopped at the sea. That is why the Pelwar-descended peoples—Élavendri, Áelendan, Vylari,
+Nordmal, Varokhi, Tarvéni, Provenzal and the rest—are packed along the western coastline as densely
 as they are, and why a few communities did the only thing left and went across the water.
 
 **[[place-aelwyth|Aelwyth]] lies something like a hundred and twenty sea-miles off the coast.** That is
-not a distance barbarian peoples cross — not in the craft they had, not with families and stock
+not a distance barbarian peoples cross—not in the craft they had, not with families and stock
 aboard, not without pilots or charts. Earlier Pelwar had come to the island as passengers, carried in
 Khazári bottoms by people who knew the water. The ones who came around 1200 BF came in whatever would
 float, and most of them died.

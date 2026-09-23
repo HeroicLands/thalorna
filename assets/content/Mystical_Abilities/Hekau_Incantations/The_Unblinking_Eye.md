@@ -25,5 +25,5 @@ packFolder: hekauincantations
 
 Inscribed at the place rather than carried, and reporting only when the practitioner returns and
 reads it. It does not raise an alarm and cannot act; it remembers, and the House regards that as
-the correct division of labour between a working and a guard. Temples, treasuries and the better
+the correct division of labor between a working and a guard. Temples, treasuries and the better
 tombs carry several, deliberately including one that is easy to find.

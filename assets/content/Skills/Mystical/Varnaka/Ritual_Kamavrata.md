@@ -26,7 +26,7 @@ packFolder: varnaka
 
 ## Ritual: Kāmavrata
 
-- **Rite:** One of Kāmavrata's Ordeals for Favour. It is a long act of devotion to beauty or to another's need, and not a single ceremony
+- **Rite:** One of Kāmavrata's Ordeals for Favor. It is a long act of devotion to beauty or to another's need, and not a single ceremony
 - **Cost:** A year tending a temple garden from first planting to final harvest, or a year lived by one's art, accepting only what listeners freely give
 - **Performed by:** Any Upāsaka keeping the household observance of garland and oil; the standing of Vratin, once earned, is held for life
 - **Licensed by:** No one. Kāmavrata keeps no priesthood of his own, and asks less of his devotees than any other god in the pantheon

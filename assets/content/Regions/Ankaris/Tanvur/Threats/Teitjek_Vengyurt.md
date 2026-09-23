@@ -18,9 +18,9 @@ Tëitjëk did not accept his fate quietly. Filled with bitterness and a burning 
 
 ## Key Allied Nobles
 
-**Zhākvëi Lëngzhāt ("Radiant Phoenix")** — The cunning matriarch of the Zhākvëi clan seeks to restore her family's influence, which had waned due to internal strife. She brings Vëndük skilled in fire and earth elemental forces.
+**Zhākvëi Lëngzhāt ("Radiant Phoenix")**—The cunning matriarch of the Zhākvëi clan seeks to restore her family's influence, which had waned due to internal strife. She brings Vëndük skilled in fire and earth elemental forces.
 
-**Vürtzhāk Vëngdāk ("Wind's Roar")** — The young leader of the Vürtzhāk clan, frustrated with slow political rehabilitation, aligns with Tëitjëk to reclaim his family's honor quickly. His Vëndük are skilled in air and spirit domains.
+**Vürtzhāk Vëngdāk ("Wind's Roar")**—The young leader of the Vürtzhāk clan, frustrated with slow political rehabilitation, aligns with Tëitjëk to reclaim his family's honor quickly. His Vëndük are skilled in air and spirit domains.
 
 ## Internal Tensions
 
@@ -34,7 +34,7 @@ The rebellion has begun to make significant gains in border regions, but interna
 
 ## See Also
 
-- [[lore-bthrhrtzhk|Bāthür Hürtzhük]] — The northern warlord whose ambitions could intersect with the rebellion
-- [[affiliation-yurthatzhk|Yürtthāt Zhāk]] — Another destabilizing internal threat
-- [[lore-veizhatret|Vëi Zhāt Rëit]] — The political intrigue game that permeates even this rebellion
-- [[affiliation-tanvurempr|Empire of Tānvür]] — The empire under threat
+- [[lore-bthrhrtzhk|Bāthür Hürtzhük]]—The northern warlord whose ambitions could intersect with the rebellion
+- [[affiliation-yurthatzhk|Yürtthāt Zhāk]]—Another destabilizing internal threat
+- [[lore-veizhatret|Vëi Zhāt Rëit]]—The political intrigue game that permeates even this rebellion
+- [[affiliation-tanvurempr|Empire of Tānvür]]—The empire under threat

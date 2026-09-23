@@ -17,7 +17,7 @@ name:
     - The Grazians
     - The Grazian Wall
 shortcode: graznmntns
-terran_analog: "The Himalayas, Karakoram, Pamir, and Tian Shan complex — the great mountain wall between the Indian subcontinent and the Central Asian steppe. The southern face is the wall against Vedyara and the northern face the wall against the Khazryn; the eastern arc turns toward Tānvür, and the western end falls away into the Afghan-analog foothills of the Dunhari desert-margin."
+terran_analog: "The Himalayas, Karakoram, Pamir, and Tian Shan complex—the great mountain wall between the Indian subcontinent and the Central Asian steppe. The southern face is the wall against Vedyara and the northern face the wall against the Khazryn; the eastern arc turns toward Tānvür, and the western end falls away into the Afghan-analog foothills of the Dunhari desert-margin."
 packFolder: vedyara
 ---
 
@@ -43,11 +43,11 @@ The Grazian range forms a great curving arc. It begins in the high northern coun
 
 Three principal sub-ranges are recognized by Vedyari and Khazri scholarship:
 
-- **[[place-sthrnwall|The Southern Wall]]** — the long, almost continuous escarpment that forms the northern border of Vedyara. Its peaks are the highest of the entire system. The rivers draining south from them are the great river systems of the Vedyari subcontinent, the Chandramahī, the Sarvada, the Mahānadi, the Bhārava and others. Vedyari pilgrimage tradition makes particular Southern Wall peaks the dwelling-places of [[affiliation-varakpnthn|Varṇaka]] deities, and certain glacier-springs the literal cosmic sources from which their rivers flowed at the beginning of time.
+- **[[place-sthrnwall|The Southern Wall]]**—the long, almost continuous escarpment that forms the northern border of Vedyara. Its peaks are the highest of the entire system. The rivers draining south from them are the great river systems of the Vedyari subcontinent, the Chandramahī, the Sarvada, the Mahānadi, the Bhārava and others. Vedyari pilgrimage tradition makes particular Southern Wall peaks the dwelling-places of [[affiliation-varakpnthn|Varṇaka]] deities, and certain glacier-springs the literal cosmic sources from which their rivers flowed at the beginning of time.
 
-- **[[place-estrnreach|The Eastern Reach]]** — the sub-range that arcs eastward toward Tānvür's western frontier. It is less massive than the Southern Wall and still formidable, and it is the principal overland barrier between the Vedyari and Tānvüri civilizations.
+- **[[place-estrnreach|The Eastern Reach]]**—the sub-range that arcs eastward toward Tānvür's western frontier. It is less massive than the Southern Wall and still formidable, and it is the principal overland barrier between the Vedyari and Tānvüri civilizations.
 
-- **[[place-wstrndscnt|The Western Descent]]** — the last three hundred miles, where the wall comes apart. The ridges drop, the glaciers give out, and the range breaks into a belt of dry brown foothills between the oasis-belt to the north and the Vedyari marches to the south, before running out altogether in the Dunhari desert-margin. It is the one stretch of the Grazians a caravan crosses without a guide, and the only ground on which the subcontinent has ever been entered from outside. The Khazryn tradition holds that the first Khazryn came down here into the great springs of the desert in the deep first age, and the older Khazryn genealogies still trace lineage-origins to particular peaks above the descent.
+- **[[place-wstrndscnt|The Western Descent]]**—the last three hundred miles, where the wall comes apart. The ridges drop, the glaciers give out, and the range breaks into a belt of dry brown foothills between the oasis-belt to the north and the Vedyari marches to the south, before running out altogether in the Dunhari desert-margin. It is the one stretch of the Grazians a caravan crosses without a guide, and the only ground on which the subcontinent has ever been entered from outside. The Khazryn tradition holds that the first Khazryn came down here into the great springs of the desert in the deep first age, and the older Khazryn genealogies still trace lineage-origins to particular peaks above the descent.
 
 ## The Trans-Grazian Peoples
 
@@ -81,16 +81,16 @@ Vedyari and Khazri folk-tradition sometimes confuses the Grazian Mountains with 
 
 ## See Also
 
-- [[place-vedyarargn|Vedyara]] — Southern lowlands, fed by Grazian rivers
-- [[place-khzryndsrtrgn|Khazryn Desert]] — Northern lowlands, fed by Grazian springs
-- [[place-dunharargn|Dunhara]] — Western desert, where the range runs out
-- [[affiliation-khzrncnfdrtn|Khazryn Confederation]] — Indigenous Khazryn peoples whose origin is traced to the Western Descent
-- [[affiliation-tanvurempr|Empire of Tānvür]] — Eastern empire across the Eastern Reach
-- [[affiliation-vindhyalay|Vindhyālaya]] — The kingdom holding the greatest of the passes
-- [[place-suryagarha|Sūryāgarha]] — The fortress-city across its throat
-- [[place-pssshrines|The Pass-Shrines]] — The temples at the summits of the crossing roads
-- [[affiliation-osketguides|The Ösket]] · [[affiliation-hvarnguides|The Hvarn]] — The guide-peoples of the wall
-- [[place-slvrgorges|The Silver Gorges]] — The lapis and silver valleys of the Eastern Reach
-- [[place-sanghafort|The Saṅgha-fort]] — The one standing garrison on the range
-- [[place-drenavrspn|The Drenavar Spine]] — Distant Élavendren range, sometimes confused with the Grazian by folk-tradition (no actual connection)
-- [[place-ankrscntnnt|Ankaris Continent]] — Parent continent
+- [[place-vedyarargn|Vedyara]]—Southern lowlands, fed by Grazian rivers
+- [[place-khzryndsrtrgn|Khazryn Desert]]—Northern lowlands, fed by Grazian springs
+- [[place-dunharargn|Dunhara]]—Western desert, where the range runs out
+- [[affiliation-khzrncnfdrtn|Khazryn Confederation]]—Indigenous Khazryn peoples whose origin is traced to the Western Descent
+- [[affiliation-tanvurempr|Empire of Tānvür]]—Eastern empire across the Eastern Reach
+- [[affiliation-vindhyalay|Vindhyālaya]]—The kingdom holding the greatest of the passes
+- [[place-suryagarha|Sūryāgarha]]—The fortress-city across its throat
+- [[place-pssshrines|The Pass-Shrines]]—The temples at the summits of the crossing roads
+- [[affiliation-osketguides|The Ösket]] · [[affiliation-hvarnguides|The Hvarn]]—The guide-peoples of the wall
+- [[place-slvrgorges|The Silver Gorges]]—The lapis and silver valleys of the Eastern Reach
+- [[place-sanghafort|The Saṅgha-fort]]—The one standing garrison on the range
+- [[place-drenavrspn|The Drenavar Spine]]—Distant Élavendren range, sometimes confused with the Grazian by folk-tradition (no actual connection)
+- [[place-ankrscntnnt|Ankaris Continent]]—Parent continent

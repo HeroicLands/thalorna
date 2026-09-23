@@ -594,12 +594,12 @@ Rowena has managed to avoid making serious enemies, though the nature of his wor
 
 ## Plot Hooks
 
-1. **The Animal Trainer's Dilemma** — Rowena faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
+1. **The Animal Trainer's Dilemma**—Rowena faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 
-2. **Unwelcome Attention** — A powerful figure in Aelwyth has taken an interest in Rowena's work, and their intentions remain unclear. Cooperation could mean security — or compromise.
+2. **Unwelcome Attention**—A powerful figure in Aelwyth has taken an interest in Rowena's work, and their intentions remain unclear. Cooperation could mean security—or compromise.
 
-3. **Echoes of the Past** — Something from Rowena's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Rowena's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds** — Political changes in Aelwyth threaten to upend the social order that Rowena depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Rowena depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** — A chance encounter offers Rowena the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Rowena the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

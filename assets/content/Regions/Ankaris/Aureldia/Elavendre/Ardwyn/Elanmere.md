@@ -3,7 +3,7 @@ tags:
   - town
   - lakeside
   - mountain
-description: "The lake town at the foot of the Ardwyn mountains — the market where the high country comes down to trade, and the last comfortable place before the passes."
+description: "The lake town at the foot of the Ardwyn mountains—the market where the high country comes down to trade, and the last comfortable place before the passes."
 type: place
 subType: settlement
 data:
@@ -32,7 +32,7 @@ wool, herbs, and the small, closely-watched quantity of worked silver and rough 
 release by arrangement.
 
 The autumn fair is the event of the year. For a fortnight the lake shore fills with tribal families who
-will not enter a walled town, Béravel factors who have travelled a week to meet them, and a great deal
+will not enter a walled town, Béravel factors who have traveled a week to meet them, and a great deal
 of careful, ceremonious, extremely slow negotiation.
 
 ## The Lake

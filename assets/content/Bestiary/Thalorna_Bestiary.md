@@ -3,7 +3,7 @@ tags: []
 name:
   full: Thalorna Bestiary
   aliases: []
-description: "A categorized catalogue of the creatures inhabiting the world of Thalorna, from mundane animals to spirits, elementals, and mythic beasts."
+description: "A categorized catalog of the creatures inhabiting the world of Thalorna, from mundane animals to spirits, elementals, and mythic beasts."
 shortcode: thlbestiary
 type: doc
 subType: reference

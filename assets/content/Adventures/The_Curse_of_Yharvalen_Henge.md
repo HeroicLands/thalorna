@@ -81,7 +81,7 @@ The party investigates the blight's source and discovers the Cult of the Black F
 - Weakening the kingdom to seize power from within
 - Drawing power from destruction and death to fuel their corrupted fire-god's influence
 - Preparing for a larger ritual or summoning
-- Some members may have foreign connections — [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] raiders, [[affiliation-vylarinmpr|Vylarian]] agents, or the [[affiliation-ordoarcanis|Ordo Arcanis]] — but the cult's roots are Provenzian
+- Some members may have foreign connections—[[affiliation-kngdmnrdhm|Kingdom of Nordheim]] raiders, [[affiliation-vylarinmpr|Vylarian]] agents, or the [[affiliation-ordoarcanis|Ordo Arcanis]]—but the cult's roots are Provenzian
 
 **Complications:**
 

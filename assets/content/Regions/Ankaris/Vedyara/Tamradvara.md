@@ -3,7 +3,7 @@ tags:
   - pass
   - caravan
   - inland
-description: "The copper-door — the road up the Silver Gorges to the Khazryn's eastern marches, tolled at a gate the crown did not build and cannot close."
+description: "The copper-door—the road up the Silver Gorges to the Khazryn's eastern marches, tolled at a gate the crown did not build and cannot close."
 type: place
 subType: feature
 data:

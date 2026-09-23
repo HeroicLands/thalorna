@@ -4,7 +4,7 @@ name:
   full: Provenzal Language
   aliases:
     - Provenzal
-description: "The melodic speech of Provenzia — shaped by Vylari and Élavendri, and long held the proper tongue of courtly love and the lyric arts."
+description: "The melodic speech of Provenzia—shaped by Vylari and Élavendri, and long held the proper tongue of courtly love and the lyric arts."
 shortcode: provnzlng
 type: skill
 subType: language
@@ -61,24 +61,24 @@ Provenzal is marked by a high proportion of sonorant consonants and open vowel p
 
 Provenzal uses the [[skill-semrnscrpt|Sêmarion]], the same alphabet as Vylari, though local scribal traditions have developed distinctive letterforms. A flowing, decorative script is conventional for poetry and formal documents. The script easily accommodates diacritical marks for nasal vowels and vowel length.
 
-True literacy is confined to the clergy, professional scribes, and perhaps 20-35% of the nobility (courtly culture values refinement, and literate lords are admired, but many still rely on personal secretaries). Provènzia's commercial orientation means that merchant guildsmen often possess functional literacy — enough to recognize trade marks, prices, and simple labels — but even wealthy traders rely on scribes and solicitors for contracts, correspondence, and formal documents. The vast majority of the population cannot read or write. The language's close association with poetry and song means that many non-literate speakers can recite and compose in Provenzal through oral tradition alone.
+True literacy is confined to the clergy, professional scribes, and perhaps 20-35% of the nobility (courtly culture values refinement, and literate lords are admired, but many still rely on personal secretaries). Provènzia's commercial orientation means that merchant guildsmen often possess functional literacy—enough to recognize trade marks, prices, and simple labels—but even wealthy traders rely on scribes and solicitors for contracts, correspondence, and formal documents. The vast majority of the population cannot read or write. The language's close association with poetry and song means that many non-literate speakers can recite and compose in Provenzal through oral tradition alone.
 
 ## Élavendri Influence
 
 Provenzal's distinctive character owes much to centuries of contact with [[skill-elvndrlng|Élavendri]] speakers along the northern border. This influence is visible in three domains:
 
-**Borrowed Vocabulary:** Provenzal has absorbed Élavendri words wholesale in the domains of art, emotion, magic, and nature — areas where the Pelwar southern tongues had limited vocabulary. Key borrowings include:
+**Borrowed Vocabulary:** Provenzal has absorbed Élavendri words wholesale in the domains of art, emotion, magic, and nature—areas where the Pelwar southern tongues had limited vocabulary. Key borrowings include:
 
-- _thèl_ (light, beauty — from Élavendri _thél_) — used in poetry and courtly speech where the native Pelwar _luchèrne_ sounds too prosaic
-- _síl_ (song, enchantment — from Élavendri _-síl_) — the síladòr tradition uses this word rather than the Pelwar _chanvòr_
-- _dàren_ (memory, deep-knowing — from Élavendri _dâren_) — no Pelwar equivalent exists for this concept of embodied memory
-- _ael_ (light, radiance — from Élavendri _-ael_) — appears in personal names and poetic compounds: _aelcòre_ "radiant heart," _aelvòis_ "bright voice"
-- _thal_ (shadow, mystery — from Élavendri _-thal_) — used in literary and magical contexts: _thalnùit_ "shadow-night," _thalrèv_ "mystery-dream"
-- _vé_ (truly, in truth — from Élavendri particle _vé_) — an emphatic particle used in oaths and poetry
+- _thèl_ (light, beauty—from Élavendri _thél_)—used in poetry and courtly speech where the native Pelwar _luchèrne_ sounds too prosaic
+- _síl_ (song, enchantment—from Élavendri _-síl_)—the síladòr tradition uses this word rather than the Pelwar _chanvòr_
+- _dàren_ (memory, deep-knowing—from Élavendri _dâren_)—no Pelwar equivalent exists for this concept of embodied memory
+- _ael_ (light, radiance—from Élavendri _-ael_)—appears in personal names and poetic compounds: _aelcòre_ "radiant heart," _aelvòis_ "bright voice"
+- _thal_ (shadow, mystery—from Élavendri _-thal_)—used in literary and magical contexts: _thalnùit_ "shadow-night," _thalrèv_ "mystery-dream"
+- _vé_ (truly, in truth—from Élavendri particle _vé_)—an emphatic particle used in oaths and poetry
 
-**Phonological Traces:** The Élavendri nasal vowels (ã, ẽ, õ) entered Provenzal through these borrowings and spread to native words by analogy — this is the origin of Provenzal's distinctive nasalization, which sets it apart from Vylari and Tarvéni. The fey fricative _th-_ also entered the language as a prestige marker; words beginning with _th-_ carry an air of poetic or magical authority.
+**Phonological Traces:** The Élavendri nasal vowels (ã, ẽ, õ) entered Provenzal through these borrowings and spread to native words by analogy—this is the origin of Provenzal's distinctive nasalization, which sets it apart from Vylari and Tarvéni. The fey fricative _th-_ also entered the language as a prestige marker; words beginning with _th-_ carry an air of poetic or magical authority.
 
-**Poetic Grammar:** Provenzal poetry freely employs Élavendri word order (VSO) and the Élavendri copula _en_ alongside native Provenzal _ès_. The use of _en_ in verse is considered elevated and archaic — a síladòr who can weave Élavendri phrasing into Provenzal song demonstrates mastery of both traditions.
+**Poetic Grammar:** Provenzal poetry freely employs Élavendri word order (VSO) and the Élavendri copula _en_ alongside native Provenzal _ès_. The use of _en_ in verse is considered elevated and archaic—a síladòr who can weave Élavendri phrasing into Provenzal song demonstrates mastery of both traditions.
 
 ## Historical Development
 
@@ -96,11 +96,11 @@ Unlike Vylari's imperial standardization, Provenzal evolved through artistic and
 
 ## Sample Phrases
 
-- **"L'athòr en le thèl de l'ânvre."** — "Love is the light of the soul." (From a famous síladòr poem; note the Élavendri borrowing _thèl_ "light/beauty" preferred over native _luèrne_, and the poetic copula _en_ from Élavendri rather than native _ès_.)
-- **"Bràve jhòrne, gènthe kòrthe; que la prèdha soie tàlv vèi."** — "Good day, noble companion; may peace be with you." (Formal greeting; _jhòrne_ "day," _prèdha_ "peace," _soie_ subjunctive of _èvren_ "to be," _tàlv_ "with." Pure Provenzal — no Élavendri borrowings in everyday speech.)
-- **"Mè vèi athòre d'ùn aelcòre vèrdhen."** — "I love you with a sincere radiant heart." (Courtly declaration; _aelcòre_ is a hybrid compound — Élavendri _ael-_ "radiance" + Provenzal _còre_ "heart." This kind of compound is characteristic of the síladòr register.)
-- **"Nàrthe-mè de vèi thràves!"** — "Tell me of your travels!" (Invitation to conversation, common in merchant settings; _nàrthe_ imperative of _nàrthen_ "to tell," _thràves_ "travels." Plain commercial Provenzal, no Élavendri influence.)
-- **"Le síl en dàren, le thalrèv en thèl."** — "Song is memory, shadow-dream is light." (High poetic register, heavily Élavendri-influenced; _síl_ "song/enchantment," _dàren_ "deep-knowing," _thalrèv_ "shadow-dream," _thèl_ "light" — all borrowed from Élavendri. The copula _en_ and balanced structure echo Élavendri poetic forms.)
+- **"L'athòr en le thèl de l'ânvre."**—"Love is the light of the soul." (From a famous síladòr poem; note the Élavendri borrowing _thèl_ "light/beauty" preferred over native _luèrne_, and the poetic copula _en_ from Élavendri rather than native _ès_.)
+- **"Bràve jhòrne, gènthe kòrthe; que la prèdha soie tàlv vèi."**—"Good day, noble companion; may peace be with you." (Formal greeting; _jhòrne_ "day," _prèdha_ "peace," _soie_ subjunctive of _èvren_ "to be," _tàlv_ "with." Pure Provenzal—no Élavendri borrowings in everyday speech.)
+- **"Mè vèi athòre d'ùn aelcòre vèrdhen."**—"I love you with a sincere radiant heart." (Courtly declaration; _aelcòre_ is a hybrid compound—Élavendri _ael-_ "radiance" + Provenzal _còre_ "heart." This kind of compound is characteristic of the síladòr register.)
+- **"Nàrthe-mè de vèi thràves!"**—"Tell me of your travels!" (Invitation to conversation, common in merchant settings; _nàrthe_ imperative of _nàrthen_ "to tell," _thràves_ "travels." Plain commercial Provenzal, no Élavendri influence.)
+- **"Le síl en dàren, le thalrèv en thèl."**—"Song is memory, shadow-dream is light." (High poetic register, heavily Élavendri-influenced; _síl_ "song/enchantment," _dàren_ "deep-knowing," _thalrèv_ "shadow-dream," _thèl_ "light"—all borrowed from Élavendri. The copula _en_ and balanced structure echo Élavendri poetic forms.)
 
 ## Related Languages
 
@@ -116,7 +116,7 @@ Provenzal naming practices show greater acceptance of variation and personal cho
 
 The tradition of "love names" is widespread: a person might grant an intimate friend or lover a special private name not used in public. Using a love name in public is a serious breach of intimacy.
 
-Élavendri influence is visible in Provenzal naming — the morphemes _-ael_ (light/radiance), _th-_ (shadow/mystery), and _-aen_ (flowing/becoming) appear frequently in given names, particularly in the northern Nòrdavène tradition where Élavendri contact is strongest. A name like _Lánaèl_ or _Brénael_ marks a family that values the fey-touched poetic tradition; a name like _Thályra_ or _Tháryn_ carries connotations of mystery and depth.
+Élavendri influence is visible in Provenzal naming—the morphemes _-ael_ (light/radiance), _th-_ (shadow/mystery), and _-aen_ (flowing/becoming) appear frequently in given names, particularly in the northern Nòrdavène tradition where Élavendri contact is strongest. A name like _Lánaèl_ or _Brénael_ marks a family that values the fey-touched poetic tradition; a name like _Thályra_ or _Tháryn_ carries connotations of mystery and depth.
 
 ### Nòrdavène Names (Northern Provenzal)
 

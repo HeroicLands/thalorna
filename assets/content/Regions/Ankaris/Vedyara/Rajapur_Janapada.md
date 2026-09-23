@@ -1,7 +1,7 @@
 ---
 tags: []
 type: affiliation
-description: The temple-republic of Rājapur — eleven villages of the central Mahānadi plain federated around the great Vyālendra temple raised on the ruins of an ancient royal capital, governed by a sabhā that famously displaced the failing kingdom whose seat Rājapur once was. The classical example of a janapada that grew by replacing a kingdom rather than emerging beside one.
+description: The temple-republic of Rājapur—eleven villages of the central Mahānadi plain federated around the great Vyālendra temple raised on the ruins of an ancient royal capital, governed by a sabhā that famously displaced the failing kingdom whose seat Rājapur once was. The classical example of a janapada that grew by replacing a kingdom rather than emerging beside one.
 name:
   full: Rājapur Janapada
   aliases:
@@ -21,7 +21,7 @@ data:
       Sabhā of thirty-six members convened by the senior priest of the great Vyālendra temple,
       with representation drawn from each of the eleven constituent villages and from the
       principal artisan, merchant, and scholar guilds of the central town. By long tradition
-      the sabhā includes one Memory-Keeper — a hereditary office whose holder maintains the
+      the sabhā includes one Memory-Keeper—a hereditary office whose holder maintains the
       genealogies of the displaced royal line and recites them at the opening of every formal
       session, as a continuing acknowledgment of what Rājapur was before it became a janapada.
     ranks:
@@ -35,19 +35,19 @@ data:
         title: Bonded Servant
         lore: bondservantrnk
         description: >-
-          Bound by debt or birth to a household, owing labour and lacking the standing to hold
+          Bound by debt or birth to a household, owing labor and lacking the standing to hold
           land.
       - level: 2
         title: Śūdra
         lore: commonerrnk
         description: >-
-          Of the serving varṇa — cultivators, artisans and labourers who hold their place by
+          Of the serving varṇa—cultivators, artisans and laborers who hold their place by
           work rather than by rite.
       - level: 3
         title: Vaiśya
         lore: gentryrnk
         description: >-
-          Of the productive varṇa — merchants, herders and landholders, whose tithes in coin and
+          Of the productive varṇa—merchants, herders and landholders, whose tithes in coin and
           goods sustain the temple and its granary.
       - level: 4
         title: Kṣatriya
@@ -87,7 +87,7 @@ data:
         The reckoner, who fixes the ritual calendar, keeps the survey of the fields and computes
         each village's share of the water.
       Dūta: >-
-        The envoy who carries the sabhā's word to a neighbouring janapada, to a patron court and
+        The envoy who carries the sabhā's word to a neighboring janapada, to a patron court and
         to the Mela.
       Senānī: >-
         Captain of the militia, raised from the villages at the sabhā's call and dismissed when
@@ -109,7 +109,7 @@ data:
   relations:
     varakpnthn: aligned
     chandrapur: aligned
-terran_analog: "Medieval South Indian temple-republic that emerged from the ruins of a failed kingdom — a Chola-era brahmadeya village federation centered on a temple complex built atop or alongside an abandoned royal capital, governed by an assembly that explicitly preserves the memory of the displaced dynasty"
+terran_analog: "Medieval South Indian temple-republic that emerged from the ruins of a failed kingdom—a Chola-era brahmadeya village federation centered on a temple complex built atop or alongside an abandoned royal capital, governed by an assembly that explicitly preserves the memory of the displaced dynasty"
 packFolder: vedyara
 ---
 
@@ -134,9 +134,9 @@ The classical chronicles put this at **−240 AF** in the [[affiliation-vylarinm
 Rājapur's governance carries one office no other janapada has, the **Memory-Keeper**. A single family has held it in continuous succession since the dissolution. The Memory-Keeper's responsibilities are:
 
 - To keep the complete genealogy of the displaced royal line, before the dissolution and notionally after it. The line ended with the last king, who left no surviving descendants. The Memory-Keeper keeps a genealogy of who would have inherited had it continued, and each generation a new "what would have been" name is recorded.
-- To recite the dynastic history at the opening of every formal sabhā session — in full, from the founding ancestor through the dissolution, and concluding with the formal acknowledgment that the kingdom is no more and the janapada governs in its place.
+- To recite the dynastic history at the opening of every formal sabhā session—in full, from the founding ancestor through the dissolution, and concluding with the formal acknowledgment that the kingdom is no more and the janapada governs in its place.
 - To advise the sabhā on questions where the precedents of the old kingdom might bear on present decisions. The Memory-Keeper does not vote and does not have policy authority; the role is consultative and ceremonial.
-- To keep the **Rājavalī Library** — the archive of every chronicle, treaty, and legal text from the kingdom-period, plus the continuous archive of every sabhā session since the dissolution. The library is housed in what was once the royal council-chamber, now an annex of the temple complex.
+- To keep the **Rājavalī Library**—the archive of every chronicle, treaty, and legal text from the kingdom-period, plus the continuous archive of every sabhā session since the dissolution. The library is housed in what was once the royal council-chamber, now an annex of the temple complex.
 
 The Memory-Keepers are now one of the most respected scholarly families in inland Vedyara. Historians from across the region consult their library. Their authority on questions of Vedyari political history is unmatched, and their ceremonial role in the sabhā is taken with great seriousness. The current Memory-Keeper, **Rāmavāhana Smṛti-Bhāra**, is a man in his late fifties, quiet and scholarly, and the author of the most respected modern commentary on the dissolution.
 
@@ -156,7 +156,7 @@ The merchant caste handles river-trade up and down the Mahānadi, the considerab
 
 ## Religion
 
-Beyond the great Vyālendra temple at the center, Rājapur maintains shrines to the other Varṇaka deities throughout the constituent villages — most prominently the **Mahájaya** shrine at the upstream village of Khandāpura (where farmers go to bless the irrigation works at planting season) and the **Rásikara** cremation-ground shrine at the downstream village of Mukteśvara (where the dead of all eleven villages are received). The standard Vedyari religious calendar is observed with full Rājapuri ceremonial elaboration; the Spring Festival of Vyālendra is the great annual event, drawing perhaps fifteen thousand visitors from neighboring janapadas and city-states.
+Beyond the great Vyālendra temple at the center, Rājapur maintains shrines to the other Varṇaka deities throughout the constituent villages—most prominently the **Mahájaya** shrine at the upstream village of Khandāpura (where farmers go to bless the irrigation works at planting season) and the **Rásikara** cremation-ground shrine at the downstream village of Mukteśvara (where the dead of all eleven villages are received). The standard Vedyari religious calendar is observed with full Rājapuri ceremonial elaboration; the Spring Festival of Vyālendra is the great annual event, drawing perhaps fifteen thousand visitors from neighboring janapadas and city-states.
 
 A distinctive Rājapuri religious observance is the **Day of the Dissolution**, held annually on the anniversary of the sabhā's dissolution decree. On this day no business is conducted, no labor performed, and the entire population gathers in the temple precincts to hear the Memory-Keeper recite the full dynastic history and the dissolution decree from beginning to end. The recitation takes most of the day. At its conclusion every adult Rājapuri drinks a cup of Mahānadi water blessed by the senior priest, and renews the janapada's compact by it. Children attend the recitation and do not drink the cup until their fifteenth year, when they are formally enrolled as citizens.
 
@@ -188,10 +188,10 @@ Rājapur Janapada uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administ
 
 ## See Also
 
-- [[place-rajapurjnpd|Rājapur Janapada]] — the land the janapada holds
-- [[affiliation-janpdsvdyr|Janapadas of Vedyara]] — parent confederation
-- [[place-vedyarargn|Vedyara]] — parent region
-- Rājapur — the King's-Town settlement note
-- [[affiliation-chandrapur|Chandrapur]] — patron city-state
-- [[affiliation-varakpnthn|Varṇaka Pantheon]] — religious tradition
-- [[skill-vedyarlng|Vedyari]] — language
+- [[place-rajapurjnpd|Rājapur Janapada]]—the land the janapada holds
+- [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—parent confederation
+- [[place-vedyarargn|Vedyara]]—parent region
+- Rājapur—the King's-Town settlement note
+- [[affiliation-chandrapur|Chandrapur]]—patron city-state
+- [[affiliation-varakpnthn|Varṇaka Pantheon]]—religious tradition
+- [[skill-vedyarlng|Vedyari]]—language

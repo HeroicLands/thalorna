@@ -3,7 +3,7 @@ tags:
   - river
   - trading
   - inland
-description: "The westernmost of the four great rivers — from the ice under Sūryaśikhara through the gem-road valleys to the delta and the city-state that lives off it."
+description: "The westernmost of the four great rivers—from the ice under Sūryaśikhara through the gem-road valleys to the delta and the city-state that lives off it."
 type: place
 subType: feature
 data:

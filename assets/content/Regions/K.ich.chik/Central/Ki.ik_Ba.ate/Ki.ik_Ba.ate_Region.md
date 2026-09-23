@@ -1,7 +1,7 @@
 ---
 tags:
   - region
-description: "The volcanic isthmus and its two coasts — the land of Ki'ik Ba'ate, the corridor binding Central K'ich'chik to the south."
+description: "The volcanic isthmus and its two coasts—the land of Ki'ik Ba'ate, the corridor binding Central K'ich'chik to the south."
 name:
   full: Ki'ik Ba'ate Region
   aliases: []
@@ -47,6 +47,6 @@ The maritime trade is particularly significant. Ki'ik Ba'ate's merchants have es
 
 ## See Also
 
-- [[affiliation-kiikbaate|Ki'ik Ba'ate]] — The realm that holds this land
-- [[place-cntrlkchchk|Central K'ich'chik]] — The enclosing region
-- [[place-kiikbaate2|Ki'ik Ba'ate]] — Seat of Ki'ik Ba'ate
+- [[affiliation-kiikbaate|Ki'ik Ba'ate]]—The realm that holds this land
+- [[place-cntrlkchchk|Central K'ich'chik]]—The enclosing region
+- [[place-kiikbaate2|Ki'ik Ba'ate]]—Seat of Ki'ik Ba'ate

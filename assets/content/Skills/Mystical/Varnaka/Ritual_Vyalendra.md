@@ -26,7 +26,7 @@ packFolder: varnaka
 
 ## Ritual: Vyālendra
 
-- **Rite:** One of Vyālendra's Ordeals for Favour. Each is a trial of the builder's own hands and hunger, and not a devotional formula
+- **Rite:** One of Vyālendra's Ordeals for Favor. Each is a trial of the builder's own hands and hunger, and not a devotional formula
 - **Cost:** A year taking no food the devotee did not help produce and no shelter they did not help build; or the shaping, by hand, of a single stone to proportions dictated by a senior priest, to a precision no flaw can be found in
 - **Performed by:** Any Upāsaka whose household blesses its tools each morning; the standing of Vratin, once earned, is held for life
 - **Licensed by:** No priesthood of Vyālendra's own. The [[affiliation-vyalendravada|Vyālendravāda]], the monistic sect holding him the deity from whom all others emanate, draws its scholar-priesthood from the building trades this Ordeal tests. A candidate who has passed the Perfect Stone is reckoned there halfway to the Antevāsin's bench

@@ -26,7 +26,7 @@ packFolder: varnaka
 
 ## Ritual: Kālavrata
 
-- **Rite:** One of Kālavrata's Ordeals for Favour, undertaken beside the dying or the dead. The god grants nothing for it. A person keeps the Ordeal _for_ the threshold
+- **Rite:** One of Kālavrata's Ordeals for Favor, undertaken beside the dying or the dead. The god grants nothing for it. A person keeps the Ordeal _for_ the threshold
 - **Cost:** A stranger's death-bed vigil kept without sleep, speech or flinching; a night alone walking between three villages' cremation grounds; or a year of total silence broken only for the rites of passage
 - **Performed by:** Any Upāsaka; the standing of Vratin, once earned, is held for life and marks the only devotion this god's austerity confers
 - **Licensed by:** No one. Kālavrata has no priesthood of his own, and answers no petition undertaken in hope of one

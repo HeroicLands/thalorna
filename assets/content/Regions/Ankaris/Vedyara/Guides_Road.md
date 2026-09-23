@@ -3,7 +3,7 @@ tags:
   - pass
   - caravan
   - inland
-description: "The sixth crossing — no fortress, no toll, no shrine and no blessing; the road the Ösket keep between the two western doors and take a lowlander over blindfold."
+description: "The sixth crossing—no fortress, no toll, no shrine and no blessing; the road the Ösket keep between the two western doors and take a lowlander over blindfold."
 type: place
 subType: feature
 data:

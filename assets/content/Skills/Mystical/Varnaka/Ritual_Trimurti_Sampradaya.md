@@ -28,7 +28,7 @@ packFolder: varnaka
 ## Ritual: Trimūrti-sampradāya
 
 - **Rite:** The Triple Blessing. The three Ácāryas or their deputies speak the formulas of shaping, preserving and transforming in sequence. It is the sect's one civic instrument, performed at every groundbreaking and seasonal turn, at a coronation, at the sighting of the year at the Sūrya temple, and over the mountain's gold at a Weighing when a court asks the orthodox hierarchy to set the date in the Gaṇaka-śālā's place
-- **Cost:** Nothing from the petitioner beyond standing to witness. From the Ácāryas, the work of bringing three offices together, [[affiliation-vyalendra|Vyālendra]]'s, [[affiliation-mahajaya|Mahájaya]]'s and [[affiliation-rasikara|Rásikara]]'s, none of whom the sect will let a civic occasion honour alone
+- **Cost:** Nothing from the petitioner beyond standing to witness. From the Ácāryas, the work of bringing three offices together, [[affiliation-vyalendra|Vyālendra]]'s, [[affiliation-mahajaya|Mahájaya]]'s and [[affiliation-rasikara|Rásikara]]'s, none of whom the sect will let a civic occasion honor alone
 - **Performed by:** The three Ácāryas of a temple, one to each form, or a single Triyācārya ("Master of the Three") ordained to serve all three at once. Few priests reach that rank. Most keep to one form and serve under a Triyācārya's direction
 - **Licensed by:** The [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]] alone, the largest and most orthodox of the Varṇakan sects, whose calendar sets the public year. Its Council of the Triyācāryas, the senior Triyācārya of every great Vedyari city, settles any dispute the rite raises
 

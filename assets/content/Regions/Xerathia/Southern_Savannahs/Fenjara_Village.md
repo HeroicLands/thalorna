@@ -2,7 +2,7 @@
 tags:
   - draft
   - village
-description: "Village of the Fénjara, set back in the gallery forest where the savannah gives way to close bush — the tribe's seat, and the home of its spirit-trackers."
+description: "Village of the Fénjara, set back in the gallery forest where the savannah gives way to close bush—the tribe's seat, and the home of its spirit-trackers."
 type: place
 subType: settlement
 data:
@@ -36,4 +36,4 @@ _To be written._
 
 ## Notable Figures
 
-- [[being-gahijwfnjr|Gahiji wa Fénjara]] — the Spirit Tracker.
+- [[being-gahijwfnjr|Gahiji wa Fénjara]]—the Spirit Tracker.

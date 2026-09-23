@@ -559,7 +559,7 @@ Oswald Dunwell is a 33-year-old man who stands 6'0" tall and is of moderate buil
 
 Oswald Dunwell is the lord of a small manor at Kingshollow, in the Aldorath country of [[place-aelwyth|Aelwyth]], an Aelwythan of minor gentry whose family has held the same few hundred acres beside the royal forest for six generations.
 
-Oswald holds land in the fold of country below the old royal seat, bounded on its upper side by the king's wood, which his tenants may not graze, may not cut and may not take a hare from. He inherited at twenty-five and has spent the years since on the land itself: draining the lower meadow, bringing in a rotation he read of in a Vylarian treatise. His tenants eat better than they did under his father. His neighbours among the gentry are less impressed: a lord who walks his own furrows is lowering himself, and a lord who speaks up for his tenants at the forest court is a nuisance to the crown's foresters, whose goodwill the whole valley depends on.
+Oswald holds land in the fold of country below the old royal seat, bounded on its upper side by the king's wood, which his tenants may not graze, may not cut and may not take a hare from. He inherited at twenty-five and has spent the years since on the land itself: draining the lower meadow, bringing in a rotation he read of in a Vylarian treatise. His tenants eat better than they did under his father. His neighbors among the gentry are less impressed: a lord who walks his own furrows is lowering himself, and a lord who speaks up for his tenants at the forest court is a nuisance to the crown's foresters, whose goodwill the whole valley depends on.
 
 He is a known figure among the manor lords of Aelwyth.
 
@@ -567,7 +567,7 @@ He is a known figure among the manor lords of Aelwyth.
 
 ### Personality
 
-Oswald is earnest, practical and easily out-manoeuvred; he assumes other men want what is good for the land and is regularly surprised.
+Oswald is earnest, practical and easily out-maneuvered; he assumes other men want what is good for the land and is regularly surprised.
 
 ### Motivation
 
@@ -593,10 +593,10 @@ The crown's foresters, whom he has crossed at the forest court on a tenant's beh
 
 ## Plot Hooks
 
-1. **A Tenant Taken** — A tenant of Oswald's has been taken by the foresters with a deer on his back, and the forest court will have his hand for it. Oswald can speak for him and lose the foresters' goodwill for good, or say nothing and lose his tenants'.
+1. **A Tenant Taken**—A tenant of Oswald's has been taken by the foresters with a deer on his back, and the forest court will have his hand for it. Oswald can speak for him and lose the foresters' goodwill for good, or say nothing and lose his tenants'.
 
-2. **The Descent** — The court is coming to Kingshollow for the midwinter feast, and the royal household expects the manors to provision it. What it expects from Oswald is most of his seed corn.
+2. **The Descent**—The court is coming to Kingshollow for the midwinter feast, and the royal household expects the manors to provision it. What it expects from Oswald is most of his seed corn.
 
-3. **The Debt** — A neighbouring lord has quietly bought up the loans Oswald took to drain the meadow, and has called them in. The neighbour wants the land, not the money.
+3. **The Debt**—A neighboring lord has quietly bought up the loans Oswald took to drain the meadow, and has called them in. The neighbor wants the land, not the money.
 
-4. **The Rotation Fails** — The Vylarian rotation that Oswald pressed on his tenants for three years has failed in a wet season, and the manor is short. The gentry who mocked him are watching.
+4. **The Rotation Fails**—The Vylarian rotation that Oswald pressed on his tenants for three years has failed in a wet season, and the manor is short. The gentry who mocked him are watching.

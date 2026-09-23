@@ -3,7 +3,7 @@ tags:
   - mountain
   - frontier
   - inland
-description: "The unbroken escarpment along Vedyara's whole northern margin — the highest ground on Thalorna, the source of the four great rivers, and the wall the subcontinent cannot go over."
+description: "The unbroken escarpment along Vedyara's whole northern margin—the highest ground on Thalorna, the source of the four great rivers, and the wall the subcontinent cannot go over."
 type: place
 subType: feature
 data:
@@ -22,7 +22,7 @@ packFolder: vedyara
 
 The **Southern Wall** is the long face of the [[place-graznmntns|Grazian Mountains]] that stands over [[place-vedyarargn|Vedyara]]. It is the reason the subcontinent has one land door and that door is in the west.
 
-For some fifteen hundred miles the escarpment runs without a gap a traveller could use. The peaks along it are the highest on Thalorna — [[place-suryashkhr|Sūryaśikhara]] first among them — and behind the summit line the ice lies in fields that have never gone off in any season anyone has recorded. Four crossings pierce it: [[place-meghadvara|Meghadvāra]] in the west, [[place-gudesroad|the Guides' Road]] between the two western doors, [[place-suryadvara|Sūryadvāra]] under the fortress, and [[place-tamradvara|Tāmradvāra]] up the [[place-slvrgorges|Silver Gorges]] in the east. Everything else is wall.
+For some fifteen hundred miles the escarpment runs without a gap a traveler could use. The peaks along it are the highest on Thalorna—[[place-suryashkhr|Sūryaśikhara]] first among them—and behind the summit line the ice lies in fields that have never gone off in any season anyone has recorded. Four crossings pierce it: [[place-meghadvara|Meghadvāra]] in the west, [[place-gudesroad|the Guides' Road]] between the two western doors, [[place-suryadvara|Sūryadvāra]] under the fortress, and [[place-tamradvara|Tāmradvāra]] up the [[place-slvrgorges|Silver Gorges]] in the east. Everything else is wall.
 
 ## What Comes Off It
 
@@ -32,7 +32,7 @@ The melt is not steady. A warm spring on the Wall puts the rivers up three weeks
 
 ## Sacred Ground
 
-The Wall's peaks are the dwelling-places of the [[affiliation-varakpnthn|Varṇaka]] gods, and the pilgrimage to the lower slopes is a normal part of a devout life and no extraordinary undertaking. Hundreds of thousands walk to the shrine-terraces in the favourable months, and a very small number go higher, to the springs themselves, where the temples stand.
+The Wall's peaks are the dwelling-places of the [[affiliation-varakpnthn|Varṇaka]] gods, and the pilgrimage to the lower slopes is a normal part of a devout life and no extraordinary undertaking. Hundreds of thousands walk to the shrine-terraces in the favorable months, and a very small number go higher, to the springs themselves, where the temples stand.
 
 Above the last of the [[place-pssshrines|Pass-Shrines]] no caste rule reaches. The [[affiliation-osketguides|Ösket]] who live up there are not in the varṇa order. They are not outside it in the way an outcaste is outside it. It does not address them at all, and orthodox Vedyari jurists have left the matter undisturbed for as long as anyone has been writing the question down.
 

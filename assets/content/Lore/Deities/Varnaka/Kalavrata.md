@@ -10,9 +10,9 @@ shortcode: kalavratadty
 packFolder: deitiesvarnaka
 ---
 
-_The Gatekeeper of Death — a shrouded figure, faceless, with a black conch at its lips._
+_The Gatekeeper of Death—a shrouded figure, faceless, with a black conch at its lips._
 
-Kālavrata is the warden of the threshold between the life that has ended and the life to come, and he keeps it with a rigour the rest of the pantheon does not share. He demands no devotion, grants no personal favour, and answers no petition for long life or safe passage. He guides the soul onward impartially, asked or not.
+Kālavrata is the warden of the threshold between the life that has ended and the life to come, and he keeps it with a rigor the rest of the pantheon does not share. He demands no devotion, grants no personal favor, and answers no petition for long life or safe passage. He guides the soul onward impartially, asked or not.
 
 Three Ordeals are undertaken in his name. The Vigil of Final Breath is kept at a stranger's bedside. The Walk Between Fires crosses the cremation grounds of three villages. The Silent Year speaks nothing but the rites of passage. None of them earns the undertaker anything from him; the theology holds that a person keeps them for the threshold.
 

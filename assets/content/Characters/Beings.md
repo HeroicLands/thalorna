@@ -6,7 +6,7 @@ type: doc
 subType: reference
 shortcode: being
 tags:
-description: Every being across the lands of Thalorna and beyond — people, beasts, spirits, and monsters.
+description: Every being across the lands of Thalorna and beyond—people, beasts, spirits, and monsters.
 data:
   banner: characterbnr
 ---

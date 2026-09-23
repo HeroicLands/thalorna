@@ -594,12 +594,12 @@ Few, though some older woodcutters were initially skeptical of her abilities.
 
 ## Plot Hooks
 
-1. **The Woodcutter's Dilemma** — A builder wants timber from a stand Hrefna knows should be left, and she has to choose between the order and the forest.
+1. **The Woodcutter's Dilemma**—A builder wants timber from a stand Hrefna knows should be left, and she has to choose between the order and the forest.
 
-2. **Old Grudges** — One of the older woodcutters who doubted her has not let it go, and finds a way to make it cost her.
+2. **Old Grudges**—One of the older woodcutters who doubted her has not let it go, and finds a way to make it cost her.
 
-3. **Echoes of the Past** — Something from Hrefna's earlier life resurfaces and has to be settled.
+3. **Echoes of the Past**—Something from Hrefna's earlier life resurfaces and has to be settled.
 
-4. **Shifting Winds** — Political change in Nordheim threatens the guild and the trade Hrefna depends upon, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Nordheim threatens the guild and the trade Hrefna depends upon, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — A chance encounter offers Hrefna more than the trade has ever paid her, and the price is not named up front.
+5. **The Opportunity**—A chance encounter offers Hrefna more than the trade has ever paid her, and the price is not named up front.

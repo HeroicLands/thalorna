@@ -592,12 +592,12 @@ Few; most respect her work, but some junior servants resent her strictness.
 
 ## Plot Hooks
 
-1. **The Domestic Servant's Dilemma** — Pália learns something about the nobleman she serves that a loyal servant would keep and an honest one would not.
+1. **The Domestic Servant's Dilemma**—Pália learns something about the nobleman she serves that a loyal servant would keep and an honest one would not.
 
-2. **Old Grudges** — A junior servant Pália dismissed for laziness has found a place in a household that visits the estate.
+2. **Old Grudges**—A junior servant Pália dismissed for laziness has found a place in a household that visits the estate.
 
-3. **Echoes of the Past** — One of the prominent families Pália once served comes to the estate as guests, and one of them remembers her.
+3. **Echoes of the Past**—One of the prominent families Pália once served comes to the estate as guests, and one of them remembers her.
 
-4. **Shifting Winds** — Political change in Élavendre threatens the nobleman Pália serves, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Élavendre threatens the nobleman Pália serves, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — A greater house offers Pália the running of its whole household, and taking it would mean leaving the employer she has given her loyalty to.
+5. **The Opportunity**—A greater house offers Pália the running of its whole household, and taking it would mean leaving the employer she has given her loyalty to.

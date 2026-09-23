@@ -521,13 +521,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Torvald stands 6'0" with a heavy, broad-shouldered frame, weighing about 210 pounds. His fair skin is deeply tanned from a lifetime working outdoors in all seasons, and his brown hair is thick and unruly, kept back with a simple leather cord. His green eyes are warm and steady, crinkling at the corners when he smiles, which is often. His features are broad and open, with a wide face, a blunt nose, full lips, and heavy brows above honest, uncomplicated eyes. Earth is always under his fingernails and worked into the creases of his weathered hands. Torvald wears practical farmer's clothing — a heavy linen tunic, leather breeches, and sturdy boots — with a green-painted wooden shield slung across his back and a worn oak staff in hand. Sprigs of fresh herbs are tucked into his belt, and the scent of turned earth follows him wherever he goes.
+Torvald stands 6'0" with a heavy, broad-shouldered frame, weighing about 210 pounds. His fair skin is deeply tanned from a lifetime working outdoors in all seasons, and his brown hair is thick and unruly, kept back with a simple leather cord. His green eyes are warm and steady, crinkling at the corners when he smiles, which is often. His features are broad and open, with a wide face, a blunt nose, full lips, and heavy brows above honest, uncomplicated eyes. Earth is always under his fingernails and worked into the creases of his weathered hands. Torvald wears practical farmer's clothing—a heavy linen tunic, leather breeches, and sturdy boots—with a green-painted wooden shield slung across his back and a worn oak staff in hand. Sprigs of fresh herbs are tucked into his belt, and the scent of turned earth follows him wherever he goes.
 
 # Dossier {#dossier}
 
 Torvald was born into a family of farmers who lived in harmony with the land. From an early age, he showed an innate connection to nature, able to coax life from even the most barren soil. As he grew, he became known as Greenshield, a protector of the fields and forests, ensuring that the land remained fertile and that his people prospered. Torvald's dedication to Fréyr, the god of fertility, agriculture, peace, and healing, was evident in all he did. He became a leader in his community, teaching others to respect the earth and to live in harmony with it.
 
-The saga of Torvald Greenshield tells of his battle against a terrible drought that threatened to starve his people. For months, no rain fell, and the crops withered. Torvald journeyed deep into the ancient forest to find the Heart of the Wild, a sacred grove where Fréyr himself had once walked. He found the grove guarded by a fearsome beast — a manifestation of the drought's anger. Unarmed, Torvald faced the beast with nothing but his faith in Fréyr, calming its rage with words of peace. In a final act of devotion, Torvald offered his own life in exchange for the return of the rains. Moved by his selflessness, Fréyr granted him the power to heal the land without sacrifice.
+The saga of Torvald Greenshield tells of his battle against a terrible drought that threatened to starve his people. For months, no rain fell, and the crops withered. Torvald journeyed deep into the ancient forest to find the Heart of the Wild, a sacred grove where Fréyr himself had once walked. He found the grove guarded by a fearsome beast—a manifestation of the drought's anger. Unarmed, Torvald faced the beast with nothing but his faith in Fréyr, calming its rage with words of peace. In a final act of devotion, Torvald offered his own life in exchange for the return of the rains. Moved by his selflessness, Fréyr granted him the power to heal the land without sacrifice.
 
 ## Psyche
 
@@ -549,20 +549,20 @@ Torvald's connection to the earth gives him an intuitive understanding of agricu
 
 ### Patrons
 
-**The Grove-Keepers of Fréyr** — A network of priests and druids who tend sacred groves throughout the northern lands. They recognize Torvald's special connection to Fréyr and provide him with knowledge, supplies, and ritual support.
+**The Grove-Keepers of Fréyr**—A network of priests and druids who tend sacred groves throughout the northern lands. They recognize Torvald's special connection to Fréyr and provide him with knowledge, supplies, and ritual support.
 
-**Jarl Astrid of Greenhollow** — A wise ruler who values Torvald's counsel on agricultural matters and has given him authority over the management of her lands' harvests.
+**Jarl Astrid of Greenhollow**—A wise ruler who values Torvald's counsel on agricultural matters and has given him authority over the management of her lands' harvests.
 
 ### Enemies
 
-**The Ash Reavers** — Raiders who practice scorched earth tactics, burning fields and salting the land as they go. Torvald has sworn to stop them.
+**The Ash Reavers**—Raiders who practice scorched earth tactics, burning fields and salting the land as they go. Torvald has sworn to stop them.
 
-**Brynhildr Ashenmaiden** — Though Brynhildr serves Súrtr with nobler intentions than most, her belief in purifying fire is antithetical to Torvald's dedication to growth and nurture. Their philosophical conflict has led to tense confrontations.
+**Brynhildr Ashenmaiden**—Though Brynhildr serves Súrtr with nobler intentions than most, her belief in purifying fire is antithetical to Torvald's dedication to growth and nurture. Their philosophical conflict has led to tense confrontations.
 
 ## Plot Hooks
 
-1. **The Dying Grove** — One of Fréyr's sacred groves is withering for no apparent reason. Torvald must discover the source of the corruption before it spreads to the surrounding farmland.
+1. **The Dying Grove**—One of Fréyr's sacred groves is withering for no apparent reason. Torvald must discover the source of the corruption before it spreads to the surrounding farmland.
 
-2. **The Harvest War** — Two settlements are fighting over a disputed tract of fertile land. Both claim Fréyr's blessing, and both are willing to kill to keep it. Torvald must find a way to resolve the dispute peacefully or choose a side.
+2. **The Harvest War**—Two settlements are fighting over a disputed tract of fertile land. Both claim Fréyr's blessing, and both are willing to kill to keep it. Torvald must find a way to resolve the dispute peacefully or choose a side.
 
-3. **The Seed of Life** — Torvald has learned of a legendary seed said to have been planted by Fréyr himself, capable of restoring life to any dead land. It is hidden in a place of great danger, and many forces seek it for their own purposes.
+3. **The Seed of Life**—Torvald has learned of a legendary seed said to have been planted by Fréyr himself, capable of restoring life to any dead land. It is hidden in a place of great danger, and many forces seek it for their own purposes.

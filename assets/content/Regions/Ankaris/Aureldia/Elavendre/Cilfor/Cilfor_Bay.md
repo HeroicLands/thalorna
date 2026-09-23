@@ -2,7 +2,7 @@
 tags:
   - coastal
   - border
-description: "The great backward-C gulf on Élavendre's northern coast — fifty miles across, thirty at the narrows, and the water every raid on the north shore comes over."
+description: "The great backward-C gulf on Élavendre's northern coast—fifty miles across, thirty at the narrows, and the water every raid on the north shore comes over."
 type: place
 subType: feature
 data:

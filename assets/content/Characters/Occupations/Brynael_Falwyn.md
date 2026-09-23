@@ -593,12 +593,12 @@ None; she is well-liked but competes with more established toymakers.
 
 ## Plot Hooks
 
-1. **The Toymaker's Dilemma** — Brýnael faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **The Toymaker's Dilemma**—Brýnael faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 
-2. **Old Grudges** — None; she is well-liked but competes with more established toymakers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges**—None; she is well-liked but competes with more established toymakers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** — Something from Brýnael's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Brýnael's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds** — Political changes in Élavendre threaten to upend the social order that Brýnael depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Brýnael depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** — A chance encounter offers Brýnael the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Brýnael the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

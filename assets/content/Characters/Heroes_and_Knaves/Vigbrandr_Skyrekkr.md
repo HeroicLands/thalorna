@@ -623,7 +623,7 @@ Vígbrandr's driving force is the preservation of cultural memory and the valida
 
 - **Master Orator**: Vígbrandr possesses a voice of extraordinary range and power, capable of enthralling audiences from intimate chambers to vast feasting halls. His command of vocal techniques allows him to play on emotion with exact control.
 - **Encyclopedic Memory**: He has committed to perfect recollection the vast corpus of northern sagas, genealogies, historical chronicles, and mythological narratives—a living library of accumulated cultural knowledge.
-- **Unquestionable Authority**: His thirty-year reputation and position within the Skalds' Guild grant him unequalled credibility when authenticating tales, resolving disputes about proper traditions, and influencing cultural opinion among the nobility.
+- **Unquestionable Authority**: His thirty-year reputation and position within the Skalds' Guild grant him unequaled credibility when authenticating tales, resolving disputes about proper traditions, and influencing cultural opinion among the nobility.
 - **Seasoned Warrior's Discipline**: Though he has long abandoned combat, his youth spent among fighters has given him understanding of warfare, strategy, and the warrior's code that lends authenticity to his martial narratives.
 
 ### Weaknesses

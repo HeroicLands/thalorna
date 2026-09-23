@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "Dominant Vedyaran commercial federation controlling the city-states' mines, caravans, and inter-janapada trade — wielding economic power that rivals the rulers themselves."
+description: "Dominant Vedyaran commercial federation controlling the city-states' mines, caravans, and inter-janapada trade—wielding economic power that rivals the rulers themselves."
 name:
   full: The Merchant Collective of Vedyara
   aliases:
@@ -31,7 +31,7 @@ data:
       - level: 1
         title: Servant
         lore: servantrnk
-        description: Kept for labour about the hall and the workshops, and not of the craft.
+        description: Kept for labor about the hall and the workshops, and not of the craft.
       - level: 2
         title: Apprentice
         lore: apprenticernk
@@ -53,7 +53,7 @@ data:
         title: Warden
         lore: officerrnk
         description: >-
-          Elected to inspect the craft — its work, its weights, its prices — and to present
+          Elected to inspect the craft—its work, its weights, its prices—and to present
           offenders.
       - level: 6
         title: Assistant
@@ -80,7 +80,7 @@ data:
       Clerk: Keeper of the guild's roll, its indentures, its minutes and its correspondence.
       Beadle: Summoner of the assembly and server of its process; the guild's hands in enforcement.
       Searcher: Examiner of goods offered under the guild's mark, whose refusal ends a sale.
-      Treasurer: Keeper of the guild's box — its dues, its fines and its loans to members.
+      Treasurer: Keeper of the guild's box—its dues, its fines and its loans to members.
       Almoner: Administrator of the guild's relief to sick members, widows and orphans.
       Keeper of the Hall: Warden of the guild's house, its plate, its records and its feasts.
   commonSkills: []
@@ -94,10 +94,10 @@ data:
   relations: {}
 ---
 
-_Vedyaran: Vyāpārī Sangha — "the Merchants' Assembly"_
+_Vedyaran: Vyāpārī Sangha—"the Merchants' Assembly"_
 
 - **Type:** Mercantile federation
-- **Region:** All five seats of the Assembly of the Compact — [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]], [[affiliation-vindhyalay|Vindhyālaya]], [[affiliation-rajaprjnpd|Rājapur]] and [[affiliation-dhnrktjnpd|Dhanurkota]] — with caravan stations as far west as Amradad and as far north as the Khazryn frontier
+- **Region:** All five seats of the Assembly of the Compact—[[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]], [[affiliation-vindhyalay|Vindhyālaya]], [[affiliation-rajaprjnpd|Rājapur]] and [[affiliation-dhnrktjnpd|Dhanurkota]]—with caravan stations as far west as Amradad and as far north as the Khazryn frontier
 - **Founded:** Traditionally dated to the Third Janapada Compact, four centuries ago
 - **Magnum Collegium status:** Not a member; independent. The [[affiliation-magnumclgm|The Magnum Collegium]] has, for two generations, attempted to negotiate trade-recognition agreements with the Collective; the Collective has declined every overture. The Haradian [[affiliation-sodnaqirin|Sôd-Naqîrîn]] has likewise been refused.
 
@@ -109,9 +109,9 @@ A seat that wishes to know the silver price at Suvarṇagiri asks the Collective
 
 The rulers are not weak. The Collective has made itself the connective tissue of Vedyaran life across four centuries, and nothing moves without it. Its founders were three generations of merchant princes working across polities that were then at war with each other. No court or council would unify the subcontinent, and the merchants could.
 
-They wrote the **Compact**, a body of standing trade law, arbitration procedure, and shared infrastructure the merchants would keep in common: the roads, the caravanserai, the watch posts and the currency standards. They wrote an Assembly of the signatories to renew and amend it. Each signatory faced the choice of refusing and watching its territory grow poorer than its neighbours, and each signed. They have signed every renewal since, and the five who hold seats today are the five that share the [[lore-vdyrnbnkng|Vedyaran banking system]].
+They wrote the **Compact**, a body of standing trade law, arbitration procedure, and shared infrastructure the merchants would keep in common: the roads, the caravanserai, the watch posts and the currency standards. They wrote an Assembly of the signatories to renew and amend it. Each signatory faced the choice of refusing and watching its territory grow poorer than its neighbors, and each signed. They have signed every renewal since, and the five who hold seats today are the five that share the [[lore-vdyrnbnkng|Vedyaran banking system]].
 
-The Collective's central paradox is that its members compete with one another fiercely in every market while collectively dominating every market. A Suvarṇagiri silver merchant will undercut a Rājapur silver merchant on every shipment they both bid for, then sit beside him on the Collective's standards committee and vote together against any outside competitor. The discipline holds because the alternative — open competition with non-Collective merchants — would impoverish them both.
+The Collective's central paradox is that its members compete with one another fiercely in every market while collectively dominating every market. A Suvarṇagiri silver merchant will undercut a Rājapur silver merchant on every shipment they both bid for, then sit beside him on the Collective's standards committee and vote together against any outside competitor. The discipline holds because the alternative—open competition with non-Collective merchants—would impoverish them both.
 
 ## Membership and Structure
 
@@ -136,10 +136,10 @@ At the apex sits the **High Speaker of the Collective**, elected by the kulinas 
 
 ## Relations
 
-- **The five janapada rulers** — clients, debtors, occasional opponents. The relationship is one of mutual dependence and mutual resentment.
-- **The [[affiliation-twilighths|The Twilight House]]** — major client of intelligence services; the Collective uses Twilight House product to inform pricing and contract negotiations. The arrangement is acknowledged at the top and denied below.
-- **The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]** — particularly the [[affiliation-theashroad|Ash Road]], whose desert caravan routes complement and compete with Collective operations. The Collective and the Ash Road maintain an awkward truce based on each understanding what the other could do to it.
-- **The [[affiliation-ordoarcanis|Ordo Arcanis]]** — limited engagement. The Ordo has tried to establish a presence in Vedyaran markets and has been quietly frustrated by Collective non-cooperation; the Ordo retaliates by occasionally licensing competing operators outside the Compact.
+- **The five janapada rulers**—clients, debtors, occasional opponents. The relationship is one of mutual dependence and mutual resentment.
+- **The [[affiliation-twilighths|The Twilight House]]**—major client of intelligence services; the Collective uses Twilight House product to inform pricing and contract negotiations. The arrangement is acknowledged at the top and denied below.
+- **The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]**—particularly the [[affiliation-theashroad|Ash Road]], whose desert caravan routes complement and compete with Collective operations. The Collective and the Ash Road maintain an awkward truce based on each understanding what the other could do to it.
+- **The [[affiliation-ordoarcanis|Ordo Arcanis]]**—limited engagement. The Ordo has tried to establish a presence in Vedyaran markets and has been quietly frustrated by Collective non-cooperation; the Ordo retaliates by occasionally licensing competing operators outside the Compact.
 
 ## Identifying Marks
 
@@ -148,6 +148,6 @@ Kulina-rank members wear a gold pin at the collar in the shape of a balance-scal
 ## Plot Hooks
 
 - **The Mine Collapse.** A major Suvarnagiri silver mine has collapsed; hundreds are trapped or dead. The Collective's Standards Committee finds that safety protocols were violated. The kulina responsible is too senior to expel without fracturing the Collective; the survivors and the families of the dead are organizing for redress that the rulers' courts have shown no interest in providing.
-- **The Counterfeit Letters.** Collective letters of credit have been forged at scale, redeemed at multiple member houses, and traced back through a chain that disappears into the [[affiliation-twilighths|The Twilight House]]. The Collective must investigate without making the scandal public — and without confronting the Twilight House directly.
+- **The Counterfeit Letters.** Collective letters of credit have been forged at scale, redeemed at multiple member houses, and traced back through a chain that disappears into the [[affiliation-twilighths|The Twilight House]]. The Collective must investigate without making the scandal public—and without confronting the Twilight House directly.
 - **The Reform Petition.** A younger kulina, supported by a coalition of pratisthas and a sympathetic janapada ruler, formally proposes a labor reform at the Assembly of the Compact. The proposal would cost the older houses substantial profits. The Speaker's procedural rulings will determine whether the petition reaches a vote at all.
 - **The Crown's Default.** One of the five janapada rulers has defaulted on his Collective loans and is offering, in lieu of repayment, a permanent grant of mining rights on contested frontier territory. Accepting transforms the Collective from creditor to landholder and inflames every other ruler in the realm.

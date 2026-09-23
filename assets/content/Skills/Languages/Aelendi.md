@@ -68,9 +68,9 @@ An Élavendri speaker cannot understand Áelendi without study. The phonetic dif
 
 ## Script & Literacy
 
-Áelendi is written in [[skill-thrvrdhscrpt|Thúravardh]], the old rune-row of the highlands — the western, lenited branch of the same Proto-Pelwar graven work that gives the Nordmen their [[skill-thuravarkscript|Thurávark]] and imperial Vylaria its [[skill-thrvrknscrpt|Thâravárkon]]. It survives in better health here than in [[skill-elvndrlng|Élavendri]] below, where the [[skill-semrnscrpt|Sêmarion]] has displaced it for everything but poetry and magic.
+Áelendi is written in [[skill-thrvrdhscrpt|Thúravardh]], the old rune-row of the highlands—the western, lenited branch of the same Proto-Pelwar graven work that gives the Nordmen their [[skill-thuravarkscript|Thurávark]] and imperial Vylaria its [[skill-thrvrknscrpt|Thâravárkon]]. It survives in better health here than in [[skill-elvndrlng|Élavendri]] below, where the [[skill-semrnscrpt|Sêmarion]] has displaced it for everything but poetry and magic.
 
-The Áelendan nonetheless write very little. The Kindred Pact is deliberately unwritten, and the tradition holds that a thing committed to stone stops being renewed in the mouth. What is cut in Thúravardh is therefore exceptional by definition: wards, boundary and grave markers, and the magical texts of great antiquity that draw mages up out of the lowlands to read them in the original. True literacy is confined to those training in the magical arts, a portion of the elders, and the occasional antiquarian from the Ordo Arcanis who has been permitted — rarely, and under watch — to copy an inscription.
+The Áelendan nonetheless write very little. The Kindred Pact is deliberately unwritten, and the tradition holds that a thing committed to stone stops being renewed in the mouth. What is cut in Thúravardh is therefore exceptional by definition: wards, boundary and grave markers, and the magical texts of great antiquity that draw mages up out of the lowlands to read them in the original. True literacy is confined to those training in the magical arts, a portion of the elders, and the occasional antiquarian from the Ordo Arcanis who has been permitted—rarely, and under watch—to copy an inscription.
 
 ## Sample Phrases
 

@@ -1,5 +1,5 @@
 ---
-description: "City-state of scholars, artists, and shipwrights on Harad's southern coast — smaller and less martial than its sisters, but burning with the creative energy that makes it Harad's cultural heart."
+description: "City-state of scholars, artists, and shipwrights on Harad's southern coast—smaller and less martial than its sisters, but burning with the creative energy that makes it Harad's cultural heart."
 type: affiliation
 name:
   full: Ashkabel
@@ -30,7 +30,7 @@ data:
         title: Resident
         lore: commonerrnk
         description: >-
-          Dwelling and labouring in the city under its protection, without its freedom or a
+          Dwelling and laboring in the city under its protection, without its freedom or a
           vote in it.
       - level: 3
         title: Freeman of the City
@@ -47,8 +47,8 @@ data:
         title: House Factor
         lore: officerrnk
         description: >-
-          Managing the affairs of one of the great houses — its warehouses, its ships, its correspondents
-          abroad.
+          Managing the affairs of one of the great houses—its warehouses, its ships, its
+          correspondents abroad.
       - level: 6
         title: House Head
         lore: councillorrnk
@@ -72,7 +72,7 @@ data:
         heads.
       Chancellor: Keeper of the city's charters, treaties and correspondence.
       Treasurer: >-
-        Keeper of the city's revenue — its customs, its tolls, and the loans it raises against
+        Keeper of the city's revenue—its customs, its tolls, and the loans it raises against
         them.
       Harbourmaster: Warden of the port, its pilots, its wharves and the dues levied on every
         hull that enters.
@@ -83,7 +83,7 @@ data:
       Captain of the Watch: Commander of the city's guard and of the militia its guilds are
         bound to raise.
       Warden of the Weights: >-
-        Inspector of measures, coin and quality in the markets — the office that makes the
+        Inspector of measures, coin and quality in the markets—the office that makes the
         city's word good.
       Guild Master: Head of a chartered trade, speaking for it before the Council.
       Arbitrator: >-
@@ -107,15 +107,15 @@ data:
 packFolder: harad
 ---
 
-Ashkabel is the Confederation's cultural heart — a city of scholars, artists, shipwrights, and dreamers on the southern coast. Smaller and less wealthy than [[affiliation-tamavar|Tamavar]], less martial than [[affiliation-kethara|Kethara]], and less cosmopolitan than [[affiliation-varoshan|Varoshan]], Ashkabel compensates with a creative energy that the other cities lack. It is the city where Haradian art, music, theater, and literature flourish, and where the Confederation's finest ships are designed (if not always built). The city-state holds [[place-ashkabel2|Ashkabel]] itself.
+Ashkabel is the Confederation's cultural heart—a city of scholars, artists, shipwrights, and dreamers on the southern coast. Smaller and less wealthy than [[affiliation-tamavar|Tamavar]], less martial than [[affiliation-kethara|Kethara]], and less cosmopolitan than [[affiliation-varoshan|Varoshan]], Ashkabel compensates with a creative energy that the other cities lack. It is the city where Haradian art, music, theater, and literature flourish, and where the Confederation's finest ships are designed (if not always built). The city-state holds [[place-ashkabel2|Ashkabel]] itself.
 
 ## Character
 
-Ashkabel's identity is built on craft and creativity. The city's shipwright tradition is legendary — Ashkabeli ship-designers are considered artists as much as engineers, and a vessel designed in Ashkabel is recognizable by its elegant lines and innovative rigging. The shipwright guilds here operate more like artistic studios than industrial workshops.
+Ashkabel's identity is built on craft and creativity. The city's shipwright tradition is legendary—Ashkabeli ship-designers are considered artists as much as engineers, and a vessel designed in Ashkabel is recognizable by its elegant lines and innovative rigging. The shipwright guilds here operate more like artistic studios than industrial workshops.
 
 The city is also home to a thriving intellectual culture. Its academies are modest compared to [[place-helionis|Heliónis]] or [[place-provenzrgn|Provènzia Region]], but they have a practical, applied character that produces excellent navigators, cartographers, physicians, and natural philosophers. Ashkabel's astronomers are the best in the Confederation, and its navigational charts are prized by captains across the [[place-vylarianse|Vylarian Sea]].
 
-Politically, Ashkabel is the least guild-dominated of the major cities. The [[affiliation-auricompct|Auric Compact]] and other great guilds have agents here, but the city's governing council is more balanced, with significant representation from the craftsmen's guilds, the academies, and the old noble families. This makes Ashkabel a natural haven for people who have fallen afoul of guild politics elsewhere — artists, free-thinkers, and the occasional fugitive.
+Politically, Ashkabel is the least guild-dominated of the major cities. The [[affiliation-auricompct|Auric Compact]] and other great guilds have agents here, but the city's governing council is more balanced, with significant representation from the craftsmen's guilds, the academies, and the old noble families. This makes Ashkabel a natural haven for people who have fallen afoul of guild politics elsewhere—artists, free-thinkers, and the occasional fugitive.
 
 ## Notable Features
 
@@ -123,11 +123,11 @@ Politically, Ashkabel is the least guild-dominated of the major cities. The [[af
 
 ## Commerce and Currency
 
-Ashkabel uses the [[lore-hardncrncy|Haradian currency system]] — the post-secession monetary system administered through the [[affiliation-sodnaqirin|Sôd-Naqîrîn]]'s Bayt al-Khazînah. The Haradian system uses the same denomination structure as the Vylarian (Aurion / Argo / Bit) but is backed by Haradian reserves rather than the Vylarian [[affiliation-aerarimmpr|The Aerarium Imperii]]; the Haradian Aurion is slightly underweight by the Vylarian standard. The Bayt-affiliated moneylender network handles the banking infrastructure; Vylarian script is _not_ honored here, and Haradian script is not honored in Vylarian territory. See [[lore-hardncrncy|Haradian Currency]] for the full system.
+Ashkabel uses the [[lore-hardncrncy|Haradian currency system]]—the post-secession monetary system administered through the [[affiliation-sodnaqirin|Sôd-Naqîrîn]]'s Bayt al-Khazînah. The Haradian system uses the same denomination structure as the Vylarian (Aurion / Argo / Bit) but is backed by Haradian reserves rather than the Vylarian [[affiliation-aerarimmpr|The Aerarium Imperii]]; the Haradian Aurion is slightly underweight by the Vylarian standard. The Bayt-affiliated moneylender network handles the banking infrastructure; Vylarian script is _not_ honored here, and Haradian script is not honored in Vylarian territory. See [[lore-hardncrncy|Haradian Currency]] for the full system.
 
 ## See Also
 
-- [[place-ashkabel2|Ashkabel]] — The city itself
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — Parent polity
-- [[affiliation-tamavar|Tamavar]], [[affiliation-kethara|Kethara]], [[affiliation-varoshan|Varoshan]] — Sister city-states
-- [[place-helionis|Heliónis]] — Cultural counterpart across the sea
+- [[place-ashkabel2|Ashkabel]]—The city itself
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—Parent polity
+- [[affiliation-tamavar|Tamavar]], [[affiliation-kethara|Kethara]], [[affiliation-varoshan|Varoshan]]—Sister city-states
+- [[place-helionis|Heliónis]]—Cultural counterpart across the sea

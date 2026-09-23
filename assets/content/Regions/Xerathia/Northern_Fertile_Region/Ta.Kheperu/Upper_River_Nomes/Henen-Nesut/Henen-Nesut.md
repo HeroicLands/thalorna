@@ -24,7 +24,7 @@ Henen-Nesut is the capital of [[affiliation-nomehnnnst|the Nome of Henen-Nesut]]
 
 ## See Also
 
-- [[affiliation-nomehnnnst|The Nome of Henen-Nesut]] — Parent nome
-- [[affiliation-uperivrnms|The Upper River Nomes]] — Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[affiliation-ra|Rā]] — Patron cult
+- [[affiliation-nomehnnnst|The Nome of Henen-Nesut]]—Parent nome
+- [[affiliation-uperivrnms|The Upper River Nomes]]—Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
+- [[affiliation-ra|Rā]]—Patron cult

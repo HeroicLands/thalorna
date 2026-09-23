@@ -72,9 +72,9 @@ Despite their wealth and economic importance, Shükrën occupy a lower social po
 
 ## See Also
 
-- [[lore-castelaws|Caste Laws]] — rights and restrictions governing Shükrën
-- [[lore-zeisik|Law and Honor]] — commercial law and tax regulations
-- [[lore-zathuk|Zāthük]] — artisans and craftspeople above Shükrën in social hierarchy
-- [[lore-nokvur|Nōkvür]] — peasant farmers whom Shükrën must not exploit
-- [[lore-vushok|Vüshōk]] — administrators who enforce commercial law
-- [[affiliation-tanvurempr|Empire of Tānvür]] — overview of imperial society and structure
+- [[lore-castelaws|Caste Laws]]—rights and restrictions governing Shükrën
+- [[lore-zeisik|Law and Honor]]—commercial law and tax regulations
+- [[lore-zathuk|Zāthük]]—artisans and craftspeople above Shükrën in social hierarchy
+- [[lore-nokvur|Nōkvür]]—peasant farmers whom Shükrën must not exploit
+- [[lore-vushok|Vüshōk]]—administrators who enforce commercial law
+- [[affiliation-tanvurempr|Empire of Tānvür]]—overview of imperial society and structure

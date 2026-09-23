@@ -43,8 +43,8 @@ data:
         title: Copyist
         lore: apprenticernk
         description: >-
-          Under training in a temple — copying forms, learning the seals and the calendrical
-          schedules — and not yet permitted to file anything on another's behalf.
+          Under training in a temple—copying forms, learning the seals and the calendrical
+          schedules—and not yet permitted to file anything on another's behalf.
       - level: 3
         title: Clerk
         lore: clerkrnk
@@ -81,7 +81,7 @@ data:
         Tëng Güng of the Hürn Sëi, whose power is the authority of the office and not of their
         person, and who may be promoted, demoted, reassigned or dismissed.
       Hürnvōr: >-
-        Controlled Dissolution Spirits, who execute authorised unravelling.
+        Controlled Dissolution Spirits, who execute authorized unraveling.
       Yöklëi: >-
         Trickster Spirits, who inhabit the boundary between classified order and the Hürnlëi. Technically under Gürnhürn's authority and notoriously difficult to administer.
       Chief Intendant: >-
@@ -123,29 +123,29 @@ data:
 packFolder: celestialpantheon
 ---
 
-## Gürnhürn — The Minister of Entropy
+## Gürnhürn—The Minister of Entropy
 
 - **Bureau:** Hürn Sëi, The Bureau of Unraveling
 - **Domain:** Entropy
 - **Parent:** [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]]
 
 Somebody must be responsible for things ending, and the Great Sorting appointed Gürnhürn. Hürn Sëi
-conducts _authorised_ unravelling: the collapse of a structure that has outlived its classification,
+conducts _authorized_ unraveling: the collapse of a structure that has outlived its classification,
 the failure of a lineage that should not continue, the flood that clears ground.
 
-The bureau is widely misunderstood by mortals as malevolent and is nothing of the kind — an
-unauthorised dissolution is as much its problem as anyone's, and the [[affiliation-yokveng|Yokveng]]
-represent precisely the unravelling it has failed to keep licensed. Its Yöklëi are a standing
+The bureau is widely misunderstood by mortals as malevolent and is nothing of the kind—an
+unauthorized dissolution is as much its problem as anyone's, and the [[affiliation-yokveng|Yokveng]]
+represent precisely the unraveling it has failed to keep licensed. Its Yöklëi are a standing
 embarrassment: technically subordinate, functionally uncontrollable, and the single largest source
 of jurisdictional gaps in the administration.
 
 ### Lesser Spirits
 
-- **Hürnvōr** — Controlled Dissolution Spirits, who execute authorised unravelling.
-- **Yöklëi** — Trickster Spirits, who inhabit the boundary between classified order and the Hürnlëi. Technically under Gürnhürn's authority and notoriously difficult to administer.
+- **Hürnvōr**—Controlled Dissolution Spirits, who execute authorized unraveling.
+- **Yöklëi**—Trickster Spirits, who inhabit the boundary between classified order and the Hürnlëi. Technically under Gürnhürn's authority and notoriously difficult to administer.
 
 ### See Also
 
-- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — the Celestial Bureaucracy this bureau belongs to
-- [[affiliation-tanvurempr|Empire of Tānvür]] — the mortal realm it administers
-- [[skill-tngthkscrpt|Tëng Thōk Script]] — the writing every petition is made in
+- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]]—the Celestial Bureaucracy this bureau belongs to
+- [[affiliation-tanvurempr|Empire of Tānvür]]—the mortal realm it administers
+- [[skill-tngthkscrpt|Tëng Thōk Script]]—the writing every petition is made in

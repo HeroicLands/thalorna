@@ -1,5 +1,5 @@
 ---
-description: "Vedyara's preeminent center of gemcraft and jewelry, standing marble-bright on the Chandramahī River — artisans whose work commands prices across the known realms."
+description: "Vedyara's preeminent center of gemcraft and jewelry, standing marble-bright on the Chandramahī River—artisans whose work commands prices across the known realms."
 type: affiliation
 name:
   full: Chandrapur
@@ -28,19 +28,19 @@ data:
         title: Bonded Servant
         lore: bondservantrnk
         description: >-
-          Bound by debt or birth to a household, owing labour and lacking the standing to hold
+          Bound by debt or birth to a household, owing labor and lacking the standing to hold
           land.
       - level: 2
         title: Śūdra
         lore: commonerrnk
         description: >-
-          Of the serving varṇa — cultivators, artisans and labourers who hold their place by
+          Of the serving varṇa—cultivators, artisans and laborers who hold their place by
           work rather than by rite.
       - level: 3
         title: Vaiśya
         lore: gentryrnk
         description: >-
-          Of the productive varṇa — merchants, herders and landholders, whose wealth sustains
+          Of the productive varṇa—merchants, herders and landholders, whose wealth sustains
           the court and its temples.
       - level: 4
         title: Kṣatriya
@@ -138,8 +138,8 @@ Chandrapur uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered th
 
 ## See Also
 
-- [[place-vedyarargn|Vedyara Region]] — Regional overview
-- [[place-chandrapurland|Chandrapur Land]] — the land the city-state holds
-- [[place-chandrapur2|Chandrapur]] — The city itself
-- [[skill-vedyarlng|Vedyari]] — Naming tradition
-- [[affiliation-varakpnthn|Varṇaka Pantheon]] — Religious tradition
+- [[place-vedyarargn|Vedyara Region]]—Regional overview
+- [[place-chandrapurland|Chandrapur Land]]—the land the city-state holds
+- [[place-chandrapur2|Chandrapur]]—The city itself
+- [[skill-vedyarlng|Vedyari]]—Naming tradition
+- [[affiliation-varakpnthn|Varṇaka Pantheon]]—Religious tradition

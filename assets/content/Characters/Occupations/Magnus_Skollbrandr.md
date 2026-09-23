@@ -560,7 +560,7 @@ Born in the [[place-nordheim|Nordheim]] region to a guilded family of Nordheimn 
 
 Magnús comes from a family of skilled artisans and has dedicated his life to mastering the art of gem cutting and jewelry making. He is known for his attention to detail and ability to bring out the beauty of each stone he works with. Magnús runs his own shop, where he creates exquisite pieces that attract both commoners and nobles alike. His passion for his craft is evident in every piece he produces.
 
-Now at 35 years of age, Magnús Sköllbrandr has established himself as a known figure among the jewellers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 35 years of age, Magnús Sköllbrandr has established himself as a known figure among the jewelers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 
@@ -578,7 +578,7 @@ Highly skilled in gem cutting, creative, good business sense.
 
 ## Social
 
-Magnús is affiliated with Local Jewellers' Guild.
+Magnús is affiliated with Local Jewelers' Guild.
 
 As a Nordheimn jeweler, Magnús occupies a recognized social niche within Nordheim society.
 
@@ -594,12 +594,12 @@ Few; generally respected by fellow artisans.
 
 ## Plot Hooks
 
-1. **The Jeweler's Dilemma** — Magnús faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
+1. **The Jeweler's Dilemma**—Magnús faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
 
-2. **Old Grudges** — Few; generally respected by fellow artisans. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges**—Few; generally respected by fellow artisans. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** — Something from Magnús's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Magnús's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds** — Political changes in Nordheim threaten to upend the social order that Magnús depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Nordheim threaten to upend the social order that Magnús depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** — A chance encounter offers Magnús the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Magnús the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

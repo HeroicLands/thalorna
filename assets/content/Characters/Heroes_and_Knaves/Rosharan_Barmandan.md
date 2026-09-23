@@ -647,7 +647,7 @@ Rosharan is fundamentally driven by the desire to push the boundaries of what sh
 
 - **Master Shipwright:** With her Shipwright skill and five specialty focuses, she can design and construct vessels of astounding quality and novelty, adapting designs to specific purposes with great flexibility.
 - **Mathematical Precision:** Her reasoning and her mathematics, with four focuses, allow her to perform complex calculations regarding weight distribution, hull stress, and the behavior of a hull in water that other craftspeople must estimate.
-- **Timber Mastery:** Her timber-craft, with five focuses, gives her an unequalled understanding of wood properties, aging, and treatment. She can coax the best qualities from every timber source.
+- **Timber Mastery:** Her timber-craft, with five focuses, gives her an unequaled understanding of wood properties, aging, and treatment. She can coax the best qualities from every timber source.
 - **Practical Engineering:** Her broad array of complementary skills—drawing, metalcraft, woodworking, ceramics, and masonry—allow her to oversee every aspect of ship construction without relying on inferior subcontractors.
 - **Perceptive Eye:** Her sharp perception and awareness make her able to spot flaws in design or construction before they become catastrophic problems, and to understand a client's needs from minimal description.
 - **Strategic Thinker:** Her creativity and discourse allow her to conceive novel solutions to engineering problems and convincingly present radically new ideas to skeptical clients.

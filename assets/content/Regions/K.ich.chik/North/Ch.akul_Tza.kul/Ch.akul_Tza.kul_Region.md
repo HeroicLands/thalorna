@@ -1,7 +1,7 @@
 ---
 tags:
   - region
-description: "Sand seas, mesas and salt flats — the land of Ch'akul Tza'kul, the desert barrier at the southern edge of Northern K'ich'chik."
+description: "Sand seas, mesas and salt flats—the land of Ch'akul Tza'kul, the desert barrier at the southern edge of Northern K'ich'chik."
 name:
   full: Ch'akul Tza'kul Region
   aliases: []
@@ -53,5 +53,5 @@ The crossing of Ch'akul Tza'kul is arduous enough that it effectively limits the
 
 ## See Also
 
-- [[place-nrthrnkchchk|Northern K'ich'chik]] — The enclosing region
-- [[place-chakultzkl2|Ch'akul Tza'kul]] — Seat of Ch'akul Tza'kul
+- [[place-nrthrnkchchk|Northern K'ich'chik]]—The enclosing region
+- [[place-chakultzkl2|Ch'akul Tza'kul]]—Seat of Ch'akul Tza'kul

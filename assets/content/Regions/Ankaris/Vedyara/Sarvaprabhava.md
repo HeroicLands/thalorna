@@ -3,7 +3,7 @@ tags:
   - sacred
   - pilgrimage
   - inland
-description: "The glacier-spring of the Sarvada, high on the Southern Wall above the upper valley — the source-temple of Vyālendra and the hardest of the four to reach."
+description: "The glacier-spring of the Sarvada, high on the Southern Wall above the upper valley—the source-temple of Vyālendra and the hardest of the four to reach."
 type: place
 subType: site
 data:

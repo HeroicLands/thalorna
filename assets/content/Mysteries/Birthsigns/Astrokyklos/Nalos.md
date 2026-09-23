@@ -40,7 +40,7 @@ sohl:
 packFolder: astrokyklos
 ---
 
-Nalos, the River, carries its children toward company and speech. Persuasive and worldly, at home in field and gathering, they are ill-starred for the martial disciplines and the labours of the maker's hand.
+Nalos, the River, carries its children toward company and speech. Persuasive and worldly, at home in field and gathering, they are ill-starred for the martial disciplines and the labors of the maker's hand.
 
 | Element | Skills it claims          | EML |
 | ------- | ------------------------- | --- |

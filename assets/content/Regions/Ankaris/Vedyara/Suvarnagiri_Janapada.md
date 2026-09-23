@@ -1,7 +1,7 @@
 ---
 tags: []
 type: affiliation
-description: The temple-republic of Suvarṇagiri — fifteen villages of the Bhārava highlands federated around the gold-bearing mountain whose alluvial wash has funded their three great Mahájaya temples for fifteen centuries. Wealthy by janapada standards, philosophically restrained about its wealth, and the seat of the most respected metallurgical-and-jewelers' tradition outside Chandrapur.
+description: The temple-republic of Suvarṇagiri—fifteen villages of the Bhārava highlands federated around the gold-bearing mountain whose alluvial wash has funded their three great Mahájaya temples for fifteen centuries. Wealthy by janapada standards, philosophically restrained about its wealth, and the seat of the most respected metallurgical-and-jewelers' tradition outside Chandrapur.
 name:
   full: Suvarṇagiri Janapada
   aliases:
@@ -22,7 +22,7 @@ data:
       senior priests of the three great Mahájaya temples of Upper, Middle, and Lower Suvarṇagiri.
       Each of the fifteen constituent villages sends two representatives; the artisan-and-merchant
       guilds collectively send twelve; the three temples send two each. Decisions on gold-related
-      questions — extraction, taxation, allocation of the temple-share — require a three-quarters
+      questions—extraction, taxation, allocation of the temple-share—require a three-quarters
       majority, a deliberate constitutional brake against the concentration of mineral wealth.
     ranks:
       - level: 0
@@ -35,19 +35,19 @@ data:
         title: Bonded Servant
         lore: bondservantrnk
         description: >-
-          Bound by debt or birth to a household, owing labour and lacking the standing to hold
+          Bound by debt or birth to a household, owing labor and lacking the standing to hold
           land.
       - level: 2
         title: Śūdra
         lore: commonerrnk
         description: >-
-          Of the serving varṇa — cultivators, artisans and labourers who hold their place by
+          Of the serving varṇa—cultivators, artisans and laborers who hold their place by
           work rather than by rite.
       - level: 3
         title: Vaiśya
         lore: gentryrnk
         description: >-
-          Of the productive varṇa — merchants, herders and landholders, whose tithes in coin and
+          Of the productive varṇa—merchants, herders and landholders, whose tithes in coin and
           goods sustain the temple and its granary.
       - level: 4
         title: Kṣatriya
@@ -87,7 +87,7 @@ data:
         The reckoner, who fixes the ritual calendar, keeps the survey of the fields and computes
         each village's share of the water.
       Dūta: >-
-        The envoy who carries the sabhā's word to a neighbouring janapada, to a patron court and
+        The envoy who carries the sabhā's word to a neighboring janapada, to a patron court and
         to the Mela.
       Senānī: >-
         Captain of the militia, raised from the villages at the sabhā's call and dismissed when
@@ -113,7 +113,7 @@ data:
     varakpnthn: aligned
     chandrapur: aligned
     mrchntclctvvdyr: rival
-terran_analog: "Medieval South Indian temple-republic with mineral-resource wealth — Chola-era brahmadeya village federation centered on a gold-bearing mountain, governed by an unusually elaborate constitutional structure designed to prevent the concentration of mineral wealth in any one lineage or temple"
+terran_analog: "Medieval South Indian temple-republic with mineral-resource wealth—Chola-era brahmadeya village federation centered on a gold-bearing mountain, governed by an unusually elaborate constitutional structure designed to prevent the concentration of mineral wealth in any one lineage or temple"
 packFolder: vedyara
 ---
 
@@ -181,10 +181,10 @@ Suvarṇagiri Janapada uses the [[lore-vdyrnbnkng|Vedyaran banking system]], adm
 
 ## See Also
 
-- [[place-suvarnagirijnpd|Suvarṇagiri Janapada]] — the land the janapada holds
-- [[affiliation-janpdsvdyr|Janapadas of Vedyara]] — parent confederation
-- [[place-vedyarargn|Vedyara]] — parent region
-- Suvarṇagiri — the central town settlement note
-- [[affiliation-chandrapur|Chandrapur]] — major trading partner
-- [[affiliation-varakpnthn|Varṇaka Pantheon]] — religious tradition
-- [[skill-vedyarlng|Vedyari]] — language
+- [[place-suvarnagirijnpd|Suvarṇagiri Janapada]]—the land the janapada holds
+- [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—parent confederation
+- [[place-vedyarargn|Vedyara]]—parent region
+- Suvarṇagiri—the central town settlement note
+- [[affiliation-chandrapur|Chandrapur]]—major trading partner
+- [[affiliation-varakpnthn|Varṇaka Pantheon]]—religious tradition
+- [[skill-vedyarlng|Vedyari]]—language

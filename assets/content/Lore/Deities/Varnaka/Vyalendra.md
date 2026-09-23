@@ -10,7 +10,7 @@ shortcode: vyalendradty
 packFolder: deitiesvarnaka
 ---
 
-_The Shaper of Worlds — a four-armed figure of serene focus, holding a compass, a measuring cord, a chisel and a golden lotus._
+_The Shaper of Worlds—a four-armed figure of serene focus, holding a compass, a measuring cord, a chisel and a golden lotus._
 
 Vyālendra is the architect of existence. He gave shape to earth, sky and every living thing, and he shapes every new work of human making.
 
@@ -26,4 +26,4 @@ Artisans bless the tools of their trade each morning. Before a new commission th
 
 The villages downstream keep a pilgrimage to it for those hoping for a child. The god of foundations serves as the god of beginnings of every kind.
 
-On the Mahānadi plain, Rājapur keeps its own great Vyālendra temple at the janapada's centre, raised on the ruins of the kingdom that once stood there. Its Spring Festival is the year's great pilgrimage draw.
+On the Mahānadi plain, Rājapur keeps its own great Vyālendra temple at the janapada's center, raised on the ruins of the kingdom that once stood there. Its Spring Festival is the year's great pilgrimage draw.

@@ -1,6 +1,6 @@
 ---
 tags: []
-description: Highland kingdom of the northern Vedyari passes — austere, martial, and jealous of the caravan routes that carry Vedyara over the wall to the steppe and the east.
+description: Highland kingdom of the northern Vedyari passes—austere, martial, and jealous of the caravan routes that carry Vedyara over the wall to the steppe and the east.
 type: affiliation
 name:
   full: Vindhyālaya
@@ -27,19 +27,19 @@ data:
       - level: 1
         title: Bonded Servant
         lore: bondservantrnk
-        description: Bound by debt or birth to a household, owing labour and lacking the standing
+        description: Bound by debt or birth to a household, owing labor and lacking the standing
           to hold land.
       - level: 2
         title: Śūdra
         lore: commonerrnk
         description: >-
-          Of the serving varṇa — cultivators, artisans and labourers who hold their place by
+          Of the serving varṇa—cultivators, artisans and laborers who hold their place by
           work rather than by rite.
       - level: 3
         title: Vaiśya
         lore: gentryrnk
         description: >-
-          Of the productive varṇa — merchants, herders and landholders, whose wealth sustains
+          Of the productive varṇa—merchants, herders and landholders, whose wealth sustains
           the court and its temples.
       - level: 4
         title: Kṣatriya
@@ -118,9 +118,9 @@ Vindhyālaya ("the abode of the Vindhya") is the principal kingdom of the northe
 
 ## Character
 
-Vindhyan culture is austere by Vedyari standards. The kingdom sits at the edge of settled civilisation, and the highland has made a people quieter, harder and more martial than their southern cousins. The Vindhyan warrior caste is unusually large and unusually respected. In the southern kingdoms the warrior-nobility yields precedence to the priestly caste in nearly every social setting. In Vindhyālaya the two castes share rank, and a clan-chieftain who has held a pass against a winter raid is received at court with the honour due a senior brahmin.
+Vindhyan culture is austere by Vedyari standards. The kingdom sits at the edge of settled civilization, and the highland has made a people quieter, harder and more martial than their southern cousins. The Vindhyan warrior caste is unusually large and unusually respected. In the southern kingdoms the warrior-nobility yields precedence to the priestly caste in nearly every social setting. In Vindhyālaya the two castes share rank, and a clan-chieftain who has held a pass against a winter raid is received at court with the honor due a senior brahmin.
 
-Hospitality is taken seriously. A traveller who arrives at a Vindhyan village before sundown is owed food, a fire, and a safe night under the clan's roof-tree, and this obligation survives even between feuding clans. Turning a traveller away is the kind of act that a family's descendants still remember three generations later.
+Hospitality is taken seriously. A traveler who arrives at a Vindhyan village before sundown is owed food, a fire, and a safe night under the clan's roof-tree, and this obligation survives even between feuding clans. Turning a traveler away is the kind of act that a family's descendants still remember three generations later.
 
 The caste system holds, and it sits differently here. In the highlands the distance between a clan-chieftain and a cultivator is smaller than in the plains, and caste fixes less of a person's daily life than it does in [[affiliation-vyalendra2|Vyālendra]] or [[affiliation-chandrapur|Chandrapur]]. Vindhyan brahmins are respected and are expected to be useful. An ornamental priest is faintly ridiculous.
 
@@ -130,9 +130,9 @@ Vindhyālaya taxes every bale on entry and again on exit. The customs revenue ke
 
 ## Government
 
-The Mahārāja rules from the fortress-capital of **Sūryāgarha**, a stone citadel overlooking the greatest of the northern passes. The crown's direct power reaches the pass-roads, the customs-houses and the lowland capital, and little further. Hereditary clan-chieftains govern the highlands proper, and their loyalty is real and negotiated. Each chieftain keeps a warband sized to his clan's standing and must provide it, on demand, for the defence of the passes or for a royal campaign.
+The Mahārāja rules from the fortress-capital of **Sūryāgarha**, a stone citadel overlooking the greatest of the northern passes. The crown's direct power reaches the pass-roads, the customs-houses and the lowland capital, and little further. Hereditary clan-chieftains govern the highlands proper, and their loyalty is real and negotiated. Each chieftain keeps a warband sized to his clan's standing and must provide it, on demand, for the defense of the passes or for a royal campaign.
 
-The **Martial Council** of senior chieftains advises the crown on war, on frontier defence and on clan disputes. The **Priestly Court**, brahmins drawn from the largest temple-complexes, advises on ritual, on succession and on the law. When the two councils agree, the Mahārāja rules. When they disagree, the reign becomes interesting.
+The **Martial Council** of senior chieftains advises the crown on war, on frontier defense and on clan disputes. The **Priestly Court**, brahmins drawn from the largest temple-complexes, advises on ritual, on succession and on the law. When the two councils agree, the Mahārāja rules. When they disagree, the reign becomes interesting.
 
 Succession is hereditary but contested. The Mahārāja's eldest son is the presumptive heir, but confirmation requires formal acclamation by the Martial Council, which has, on several memorable occasions, chosen a younger brother, a cousin, or (once) the late king's widow over the expected heir.
 
@@ -142,7 +142,7 @@ To the **south**, Vindhyālaya's relationship with the river-valley kingdoms is 
 
 To the **north**, beyond the wall, lie the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]] and the confederations that hold them. Neither the [[affiliation-khzrncnfdrtn|Khazryn Confederation]] nor the [[affiliation-tribestrzd|Ātárzád]] can reach Vindhyālaya in force, and no horde has ever taken a Grazian pass. The relationship is commercial, conducted through the edge-town markets and renegotiated season by season as tolls, escort fees and the quality of the year's horses require. The kingdom keeps no garrison beyond the summits and none stands against it.
 
-To the **northeast**, by the eastern branch of the pass-roads, lie the western marches of [[affiliation-tanvurempr|Tānvür]]. The branch is longer, higher and lightly travelled, but Tānvüri scholarly envoys appear at the Vindhyan court every few decades, and a small Tānvüri community has existed in Sūryāgarha for centuries.
+To the **northeast**, by the eastern branch of the pass-roads, lie the western marches of [[affiliation-tanvurempr|Tānvür]]. The branch is longer, higher and lightly traveled, but Tānvüri scholarly envoys appear at the Vindhyan court every few decades, and a small Tānvüri community has existed in Sūryāgarha for centuries.
 
 The kingdom has no frontier with the [[place-dunharargn|Dunhara]] at all. The desert lies west of where the wall runs out, and the road to it belongs to the northwestern marches, not to the passes.
 
@@ -152,10 +152,10 @@ Vindhyālaya uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered 
 
 ## See Also
 
-- [[place-vindhyalayaland|Vindhyālaya]] — The land the kingdom holds
-- [[place-vedyarargn|Vedyara Region]] — Regional overview
-- [[skill-vedyarlng|Vedyari]] — Language and naming conventions
-- [[affiliation-varakpnthn|Varṇaka Pantheon]] — Religious tradition
-- [[place-graznmntns|The Grazian Mountains]] — The wall the kingdom's passes cross
-- [[affiliation-khzrncnfdrtn|Khazryn Confederation]], [[affiliation-tribestrzd|Ātárzád]] — Trading partners beyond the northern summits
-- [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]] — Southern Vedyari trade partners
+- [[place-vindhyalayaland|Vindhyālaya]]—The land the kingdom holds
+- [[place-vedyarargn|Vedyara Region]]—Regional overview
+- [[skill-vedyarlng|Vedyari]]—Language and naming conventions
+- [[affiliation-varakpnthn|Varṇaka Pantheon]]—Religious tradition
+- [[place-graznmntns|The Grazian Mountains]]—The wall the kingdom's passes cross
+- [[affiliation-khzrncnfdrtn|Khazryn Confederation]], [[affiliation-tribestrzd|Ātárzád]]—Trading partners beyond the northern summits
+- [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]]—Southern Vedyari trade partners

@@ -29,5 +29,5 @@ Only the Moon House strikes it, and its mint mark is trusted well past Chandrapu
 
 ## See Also
 
-- **[[lore-vdyrnbnkng|Vedyaran Banking]]** — the currency's place in the Collective's system
-- **[[affiliation-chandrapur|Chandrapur]]** — the Moon House's seat and the coin's mint
+- **[[lore-vdyrnbnkng|Vedyaran Banking]]**—the currency's place in the Collective's system
+- **[[affiliation-chandrapur|Chandrapur]]**—the Moon House's seat and the coin's mint

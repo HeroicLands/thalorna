@@ -3,7 +3,7 @@ tags:
   - village
   - caravan
   - inland
-description: "The principal Ösket village, above the throat of Sūryadvāra — stacked stone on a south-facing slope, full for two months of the year and shut for ten."
+description: "The principal Ösket village, above the throat of Sūryadvāra—stacked stone on a south-facing slope, full for two months of the year and shut for ten."
 type: place
 subType: settlement
 data:
@@ -27,7 +27,7 @@ The houses are stacked stone, built into the slope with the beast-floor beneath 
 
 ## The Two Months
 
-For two months of the year Öskhelt is a market. Caravan-masters come up to negotiate, fee-reckoners sit in the open, loads are broken down onto yaks, and the smiths who spend the rest of the year shoeing beasts work three deep. A traveller can buy most ordinary things here in that window, at prices that reflect the four days it took to carry them up.
+For two months of the year Öskhelt is a market. Caravan-masters come up to negotiate, fee-reckoners sit in the open, loads are broken down onto yaks, and the smiths who spend the rest of the year shoeing beasts work three deep. A traveler can buy most ordinary things here in that window, at prices that reflect the four days it took to carry them up.
 
 For the other ten months there is no market at all, the smiths are shoeing beasts again, and the store-house is the whole of the village's economy. The common store is held by the hearth-wardens and drawn on by everyone, and the [[place-suryadvara|Sūryadvāra]] lineages' habit of provisioning it out of their own fees is the nearest thing the Ösket have to a public institution.
 

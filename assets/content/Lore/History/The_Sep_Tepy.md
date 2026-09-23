@@ -2,7 +2,7 @@
 tags:
   - history
   - spine
-description: "Around 2110 BF the first Per-Aá unites the river valley under a single crown and Ta'Kheperu is founded on its river — the First Occasion, from which Ta'Kheperu, Okháris and their neighbours have counted every year since."
+description: "Around 2110 BF the first Per-Aá unites the river valley under a single crown and Ta'Kheperu is founded on its river—the First Occasion, from which Ta'Kheperu, Okháris and their neighbors have counted every year since."
 type: lore
 subType: history
 name:
@@ -69,7 +69,7 @@ event:
     - whether the earliest centuries of the king-lists are accurate, the lists themselves being real
 ---
 
-The Kheperi count from the **Sep Tepy** — the First Occasion, when the first Per-Aá united the river
+The Kheperi count from the **Sep Tepy**—the First Occasion, when the first Per-Aá united the river
 valley under a single crown. Years from it are noted **ST**, "Renpet Sep Tepy," and the present year
 is approximately 2,830 ST, which is how the reckoning converts.
 
@@ -80,7 +80,6 @@ established and the beginning of everything that can be dated. The temple chrono
 accurate for the earliest centuries is another matter entirely.
 
 The Kheperi go one step further than a founding. The mound of **Iat-Tepy**, midstream in the great
-river, is held to be the very mound that first lifted from the waters of creation at the Sep Tepy —
-which makes the First Occasion the creation of the world and the founding of Kheperi kingship at once.
+river, is held to be the very mound that first lifted from the waters of creation at the Sep Tepy—which makes the First Occasion the creation of the world and the founding of Kheperi kingship at once.
 Two Elder Races reached Thalorna five millennia before it. Nothing in the Kheperi account addresses
 that, and nothing outside it disputes the claim either.

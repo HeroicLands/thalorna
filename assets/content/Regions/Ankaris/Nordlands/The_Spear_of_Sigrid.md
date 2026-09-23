@@ -3,7 +3,7 @@ tags:
   - artifact
   - regalia
   - nordlands
-description: "One of the three regalia of Gróa's quest — hidden in an ancient shrine and held by a spirit guardian who must be answered in the spirit world rather than fought."
+description: "One of the three regalia of Gróa's quest—hidden in an ancient shrine and held by a spirit guardian who must be answered in the spirit world rather than fought."
 type: miscgear
 name:
   full: The Spear of Sigrid
@@ -32,7 +32,7 @@ the spirit world**. There they face trials that test wisdom, wit and resolve. Th
 reflects the physical realm, but it also reflects the seeker's own deep fears and desires, and the
 trials are drawn from those as much as from anything external.
 
-Solving the trials unlocks the Spear. **Brute strength leads to failure** — not to a harder fight, but
+Solving the trials unlocks the Spear. **Brute strength leads to failure**—not to a harder fight, but
 to failure, and a seeker who tries force does not get a second attempt at the same trial.
 
 This makes the Spear the natural first regalia in play, because it establishes the campaign's thesis
@@ -42,7 +42,7 @@ before the party has invested in the wrong approach: Njörven is not a problem t
 
 An ancestral figure of the Nordlands whose name survives on the spear and very little else. The
 sagas that mention her do not agree on when she lived or what she did with it, and the shrine is not
-hers — it merely holds the weapon.
+hers—it merely holds the weapon.
 
 ## See Also
 

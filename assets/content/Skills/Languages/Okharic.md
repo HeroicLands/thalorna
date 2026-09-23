@@ -112,7 +112,7 @@ Okháric predominantly follows a **Subject-Verb-Object (SVO)** order in declarat
 
 **Hybrid Script ([[skill-okhsshscrpt|Okh-sesh-vowel]]):** A modified version adds explicit vowel markers, making it less ambiguous and more suitable for trade and administration. This system is now standard for mercantile use.
 
-**Literacy:** True literacy is confined to the priesthood, professional scribes, and perhaps 20-35% of the nobility. Guildsmen in major urban centers may possess functional literacy — recognizing trade marks, numerals, and common abbreviations — but rely on scribes for contracts and record-keeping. Rural populations are almost entirely non-literate. The priesthood maintains exclusive knowledge of the oldest liturgical forms, which are recited rather than read, reducing the practical necessity for mass literacy of the sacred texts.
+**Literacy:** True literacy is confined to the priesthood, professional scribes, and perhaps 20-35% of the nobility. Guildsmen in major urban centers may possess functional literacy—recognizing trade marks, numerals, and common abbreviations—but rely on scribes for contracts and record-keeping. Rural populations are almost entirely non-literate. The priesthood maintains exclusive knowledge of the oldest liturgical forms, which are recited rather than read, reducing the practical necessity for mass literacy of the sacred texts.
 
 ## Historical Development
 
@@ -162,11 +162,11 @@ Regional speech shows considerable variation:
 
 ## Sample Phrases
 
-1. **Okháré, né thalé** — _Greeting; literally "Okháric one, greetings"_
-2. **Khátu en ónda** — _Blessing formula; "May the kingdom endure"_
-3. **Sómba ren, lékha órung** — _Affirmation; "In the name of the ancestors, I stand firm"_
-4. **Mákoro en zarûn** — _Trade expression; "May prosperity flow"_
-5. **Tébu khuma shára en óta** — _Sacred oath; "Let the earth witness this truth"_
+1. **Okháré, né thalé**—_Greeting; literally "Okháric one, greetings"_
+2. **Khátu en ónda**—_Blessing formula; "May the kingdom endure"_
+3. **Sómba ren, lékha órung**—_Affirmation; "In the name of the ancestors, I stand firm"_
+4. **Mákoro en zarûn**—_Trade expression; "May prosperity flow"_
+5. **Tébu khuma shára en óta**—_Sacred oath; "Let the earth witness this truth"_
 
 ## Related Languages
 

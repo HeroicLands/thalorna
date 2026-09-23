@@ -3,7 +3,7 @@ tags:
   - river
   - forest
   - inland
-description: "The eastern river — out of the ice above the Silver Gorges, through the gold highlands and the temple-controlled forests, to the coast; the pilgrim road runs its whole length."
+description: "The eastern river—out of the ice above the Silver Gorges, through the gold highlands and the temple-controlled forests, to the coast; the pilgrim road runs its whole length."
 type: place
 subType: feature
 data:

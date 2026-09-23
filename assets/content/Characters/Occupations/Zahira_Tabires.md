@@ -593,12 +593,12 @@ Competitors who criticize her decorative approach.
 
 ## Plot Hooks
 
-1. **The Tentmaker's Dilemma** — Zahîra faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
+1. **The Tentmaker's Dilemma**—Zahîra faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
 
-2. **Old Grudges** — Competitors who criticize her decorative approach. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges**—Competitors who criticize her decorative approach. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** — Something from Zahîra's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Zahîra's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds** — Political changes in Heliónis threaten to upend the social order that Zahîra depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Heliónis threaten to upend the social order that Zahîra depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** — A chance encounter offers Zahîra the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Zahîra the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

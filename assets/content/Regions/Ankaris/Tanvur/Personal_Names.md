@@ -26,9 +26,9 @@ Warriors who distinguish themselves in battle may receive names that evoke image
 
 Examples of warrior names:
 
-- "Lüng Shüt Tëng Jëk") — "Dragon's Rain of Heavenly Arrows"
-- "Bëit Jëk Vüs Rëk") — "Ice Blade of Thunderous Battle"
-- "Vëng Hürt Rëk Thāt") — "Wind Tiger Roars Across Thunder Mountain"
+- "Lüng Shüt Tëng Jëk")—"Dragon's Rain of Heavenly Arrows"
+- "Bëit Jëk Vüs Rëk")—"Ice Blade of Thunderous Battle"
+- "Vëng Hürt Rëk Thāt")—"Wind Tiger Roars Across Thunder Mountain"
 
 ### Scholar Names
 
@@ -36,9 +36,9 @@ Scholars who achieve great wisdom or contribute significantly to the understandi
 
 Examples of scholar names:
 
-- "Röt Zhāt Zhīr Thëng" (Röt Zhāt Zhīr Thëng) — "Rising Vermilion Bird Star"
-- "Tëng Lüng Lëng Vürt" (Tëng Lüng Lëng Vürt) — "Fifth Auspicious Star of the Celestial Dragon"
-- "Hëk Vüt Vōk Tëng" (Hëk Vüt Vōk Tëng) — "Black Tortoise with the Celestial Platform"
+- "Röt Zhāt Zhīr Thëng" (Röt Zhāt Zhīr Thëng)—"Rising Vermilion Bird Star"
+- "Tëng Lüng Lëng Vürt" (Tëng Lüng Lëng Vürt)—"Fifth Auspicious Star of the Celestial Dragon"
+- "Hëk Vüt Vōk Tëng" (Hëk Vüt Vōk Tëng)—"Black Tortoise with the Celestial Platform"
 
 ### Example of Naming in Practice
 
@@ -48,7 +48,7 @@ Similarly, a [[lore-tanthei|Tānthëi]] scholar might be known as "Third Daughte
 
 ### See Also
 
-- [[lore-marriage|Marriage]] — Marriage customs tied to clan and caste
-- [[lore-numerology|Numerology]] — Auspicious numbers that influence naming ceremonies
-- [[lore-castelaws|Caste Laws]] — The caste restrictions that determine who may receive names
-- [[affiliation-tanvurempr|Empire of Tānvür]] — Overview of imperial culture
+- [[lore-marriage|Marriage]]—Marriage customs tied to clan and caste
+- [[lore-numerology|Numerology]]—Auspicious numbers that influence naming ceremonies
+- [[lore-castelaws|Caste Laws]]—The caste restrictions that determine who may receive names
+- [[affiliation-tanvurempr|Empire of Tānvür]]—Overview of imperial culture

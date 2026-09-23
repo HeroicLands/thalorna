@@ -2,7 +2,7 @@
 tags:
   - region
   - endowed
-description: "The land of the Suvarṇagiri Janapada — fifteen villages in a wedge of upland at the Bhārava headwaters, ringing the gold-bearing mountain whose streams are panned for alluvial gold."
+description: "The land of the Suvarṇagiri Janapada—fifteen villages in a wedge of upland at the Bhārava headwaters, ringing the gold-bearing mountain whose streams are panned for alluvial gold."
 name:
   full: Suvarṇagiri Janapada
   aliases: []
@@ -16,7 +16,7 @@ data:
   parents:
     - vedyarargn
   population: 35000
-terran_analog: "Medieval South Indian temple-republic with mineral-resource wealth — Chola-era brahmadeya village federation centered on a gold-bearing mountain, governed by an unusually elaborate constitutional structure designed to prevent the concentration of mineral wealth in any one lineage or temple"
+terran_analog: "Medieval South Indian temple-republic with mineral-resource wealth—Chola-era brahmadeya village federation centered on a gold-bearing mountain, governed by an unusually elaborate constitutional structure designed to prevent the concentration of mineral wealth in any one lineage or temple"
 packFolder: vedyara
 ---
 
@@ -38,6 +38,6 @@ The janapada exports gold, iron and ironwork, fine jewelry, mountain produce, an
 
 ## See Also
 
-- [[affiliation-suvrgrjnpd|Suvarṇagiri Janapada]] — the temple-republic that holds this land
-- [[place-vedyarargn|Vedyara Region]] — the enclosing region
-- Suvarṇagiri — the temple-seat
+- [[affiliation-suvrgrjnpd|Suvarṇagiri Janapada]]—the temple-republic that holds this land
+- [[place-vedyarargn|Vedyara Region]]—the enclosing region
+- Suvarṇagiri—the temple-seat

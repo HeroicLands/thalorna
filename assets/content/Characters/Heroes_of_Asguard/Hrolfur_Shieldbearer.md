@@ -521,7 +521,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Hrólfur stands 6'0" with a broad, solidly built frame, weighing about 210 pounds. His light skin is ruddy and weather-beaten, and his brown hair is kept short and practical. His hazel eyes are gentle and steady, surprisingly soft for a man of his martial reputation. His features are plain and honest, with a wide face, a blunt nose, a square chin, and a mouth that settles naturally into a mild, approachable expression. His arms and the backs of his hands are scarred from deflecting countless blows, and his shoulders are visibly overdeveloped from years of bearing his massive iron-bound shield. He wears a well-maintained mail byrnie over a padded gambeson and carries the great shield — nearly as tall as he is — strapped to his left arm at almost all times. A simple sword hangs at his hip, clearly secondary to the shield that defines him.
+Hrólfur stands 6'0" with a broad, solidly built frame, weighing about 210 pounds. His light skin is ruddy and weather-beaten, and his brown hair is kept short and practical. His hazel eyes are gentle and steady, surprisingly soft for a man of his martial reputation. His features are plain and honest, with a wide face, a blunt nose, a square chin, and a mouth that settles naturally into a mild, approachable expression. His arms and the backs of his hands are scarred from deflecting countless blows, and his shoulders are visibly overdeveloped from years of bearing his massive iron-bound shield. He wears a well-maintained mail byrnie over a padded gambeson and carries the great shield—nearly as tall as he is—strapped to his left arm at almost all times. A simple sword hangs at his hip, clearly secondary to the shield that defines him.
 
 # Dossier {#dossier}
 
@@ -541,7 +541,7 @@ Hrólfur believes that true strength lies not in the ability to destroy but in t
 
 ### Strengths
 
-Hrólfur's defensive combat style is nearly impenetrable; his ability to read an opponent's attacks and position his shield accordingly borders on precognition. His blessed shield is said to be unbreakable, and it serves as a rallying point for allies in battle. His endurance is extraordinary — he can fight defensively for hours without tiring, wearing down opponents who rely on aggression. His reputation as the man who held the gates alone makes him a symbol of hope in besieged communities.
+Hrólfur's defensive combat style is nearly impenetrable; his ability to read an opponent's attacks and position his shield accordingly borders on precognition. His blessed shield is said to be unbreakable, and it serves as a rallying point for allies in battle. His endurance is extraordinary—he can fight defensively for hours without tiring, wearing down opponents who rely on aggression. His reputation as the man who held the gates alone makes him a symbol of hope in besieged communities.
 
 ## Social
 
@@ -549,20 +549,20 @@ Hrólfur's defensive combat style is nearly impenetrable; his ability to read an
 
 ### Patrons
 
-**The Clan of Hrólfur's Father** — His extended family and clan, who view him as their champion and provide him with shelter, supplies, and warriors when needed.
+**The Clan of Hrólfur's Father**—His extended family and clan, who view him as their champion and provide him with shelter, supplies, and warriors when needed.
 
-**Sigvardr One-Hand** — The famous judge recognizes Hrólfur as a kindred spirit and has appointed him as his personal protector during dangerous travels through hostile territories.
+**Sigvardr One-Hand**—The famous judge recognizes Hrólfur as a kindred spirit and has appointed him as his personal protector during dangerous travels through hostile territories.
 
 ### Enemies
 
-**The Blackfang Company** — The remnants of the mercenary band whose leader Hrólfur slew. They have reorganized under new leadership and seek revenge.
+**The Blackfang Company**—The remnants of the mercenary band whose leader Hrólfur slew. They have reorganized under new leadership and seek revenge.
 
-**Jarl Hreidmar the Cruel** — A tyrant who views Hrólfur's protection of the weak as an implicit challenge to his authority and has declared him an outlaw in his territory.
+**Jarl Hreidmar the Cruel**—A tyrant who views Hrólfur's protection of the weak as an implicit challenge to his authority and has declared him an outlaw in his territory.
 
 ## Plot Hooks
 
-1. **The Unbreakable Shield** — Hrólfur's blessed shield has developed a crack for the first time. The priests of Týr believe it is a sign that the god is testing Hrólfur's faith, or that a great evil is approaching that even divine protection cannot fully withstand.
+1. **The Unbreakable Shield**—Hrólfur's blessed shield has developed a crack for the first time. The priests of Týr believe it is a sign that the god is testing Hrólfur's faith, or that a great evil is approaching that even divine protection cannot fully withstand.
 
-2. **The Siege of Hornburg** — A fortress protecting refugees has come under siege by a vastly superior force. Hrólfur must organize the defense and hold the walls long enough for reinforcements to arrive — if they come at all.
+2. **The Siege of Hornburg**—A fortress protecting refugees has come under siege by a vastly superior force. Hrólfur must organize the defense and hold the walls long enough for reinforcements to arrive—if they come at all.
 
-3. **The Defender's Choice** — Two communities are under simultaneous attack, and Hrólfur can only reach one in time. The choice will haunt him regardless of which he makes, and the community he does not choose may never forgive him.
+3. **The Defender's Choice**—Two communities are under simultaneous attack, and Hrólfur can only reach one in time. The choice will haunt him regardless of which he makes, and the community he does not choose may never forgive him.
