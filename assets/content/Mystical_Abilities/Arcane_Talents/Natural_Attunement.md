@@ -3,7 +3,7 @@ tags: []
 name:
   full: Natural Attunement
   aliases: []
-description: "Reads the condition of a place and the living things in it — weather, water, growth, and what has passed through."
+description: "Reads the condition of a place and the living things in it—weather, water, growth, and what has passed through."
 shortcode: natn
 type: mysticalability
 subType: arcanetalent

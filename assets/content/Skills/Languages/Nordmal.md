@@ -63,18 +63,17 @@ Nordmal employs a consonant-heavy inventory with particular emphasis on stops an
 
 ## Script & Literacy
 
-Nordmal traditionally employs a runic script (the ancient [[skill-thuravarkscript|Thurávark]], adapted for Pelwar sounds, and in all likelihood inherited, by way of a Proto-Pelwar row learned from the Khazári when the Pelwar tribes were their subjects — a claim no Norman will hear) for formal and sacred writing. The runic system is considered more noble and traditional than the alphabetic script used for trade and common writing. High-status texts—legal documents, genealogies, religious texts—are written in runes.
+Nordmal traditionally employs a runic script (the ancient [[skill-thuravarkscript|Thurávark]], adapted for Pelwar sounds, and in all likelihood inherited, by way of a Proto-Pelwar row learned from the Khazári when the Pelwar tribes were their subjects—a claim no Norman will hear) for formal and sacred writing. The runic system is considered more noble and traditional than the alphabetic script used for trade and common writing. High-status texts—legal documents, genealogies, religious texts—are written in runes.
 
-### Romanising Nordmal
+### Romanizing Nordmal
 
 Nordmal is written in runes. Every Latin spelling in these pages is therefore a
-romanisation rather than the language's own writing, and the rule governing it is
-that **a romanised name must be typeable**: a reader who meets Thórr in a saga and
+romanization rather than the language's own writing, and the rule governing it is
+that **a romanized name must be typeable**: a reader who meets Thórr in a saga and
 goes looking for him has to find him by typing what they saw.
 
 That rules out any letter a search cannot fold away. An accent is a decoration
-sitting on an ordinary letter, so á, ó and ö reduce to a, o and o by themselves —
-they cost a reader nothing, and Nordmal keeps them to mark vowel length. Thorn,
+sitting on an ordinary letter, so á, ó and ö reduce to a, o and o by themselves—they cost a reader nothing, and Nordmal keeps them to mark vowel length. Thorn,
 eth and ash are not decorations but letters in their own right, and nothing
 reduces them: a search for _thorr_ never reaches a name spelled with a thorn,
 because there is no _t_ and no _h_ inside it to find. They are written out
@@ -90,11 +89,11 @@ instead:
 
 The assembly is the one place the rule bends toward the older hard _t_. Spelled
 _th_ the word comes out _thing_, which is an ordinary English noun and would bury
-it past finding, so the northern word for a lawful gathering is the **ting** — and
-the handful of names that travelled with it, Torvald among them, keep the same
+it past finding, so the northern word for a lawful gathering is the **ting**—and
+the handful of names that traveled with it, Torvald among them, keep the same
 hard opening.
 
-The [[skill-semrnscrpt|Sêmarion]] alphabet has become increasingly common for practical purposes, particularly in trade and maritime contexts. True literacy remains rare — confined to the priesthood, professional scribes, and a small minority of the nobility (perhaps 10-20%). Many jarls and thanes consider reading a scribe's task, not a warrior's, and keep household scribes for correspondence and record-keeping. Even in trading cities, most merchants rely on scribes for contracts and correspondence; a guildsman may recognize common trade marks and numerals but cannot read continuous text. Inland and rural populations are almost entirely non-literate. However, the cultural prestige of poetry and sagas means many non-literate Nordmen can recite extensive oral literature from memory.
+The [[skill-semrnscrpt|Sêmarion]] alphabet has become increasingly common for practical purposes, particularly in trade and maritime contexts. True literacy remains rare—confined to the priesthood, professional scribes, and a small minority of the nobility (perhaps 10-20%). Many jarls and thanes consider reading a scribe's task, not a warrior's, and keep household scribes for correspondence and record-keeping. Even in trading cities, most merchants rely on scribes for contracts and correspondence; a guildsman may recognize common trade marks and numerals but cannot read continuous text. Inland and rural populations are almost entirely non-literate. However, the cultural prestige of poetry and sagas means many non-literate Nordmen can recite extensive oral literature from memory.
 
 ## Historical Development
 

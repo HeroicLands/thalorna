@@ -1,7 +1,7 @@
 ---
 tags:
   - region
-description: "Ancient mountains, piedmont, swamp and coastal wetland — the land of Tz'uma No'tun, in the northeast of Northern K'ich'chik."
+description: "Ancient mountains, piedmont, swamp and coastal wetland—the land of Tz'uma No'tun, in the northeast of Northern K'ich'chik."
 name:
   full: Tz'uma No'tun Region
   aliases: []
@@ -23,7 +23,7 @@ packFolder: tzumanotun
 
 Tz'uma No'tun Region is the land of [[affiliation-tzumanotun|Tz'uma No'tun]], and lies within [[place-nrthrnkchchk|Northern K'ich'chik]] on the [[place-kchchkcntnnt|K'ich'chik Continent]].
 
-Tz'uma No'tun — "Serpent Place" in K'ich'chik — encompasses the ancient mountains descending through forested hills into vast swamplands, river deltas, and coastal wetlands where water and land blur into an ambiguous frontier.
+Tz'uma No'tun—"Serpent Place" in K'ich'chik—encompasses the ancient mountains descending through forested hills into vast swamplands, river deltas, and coastal wetlands where water and land blur into an ambiguous frontier.
 
 ## Geography
 
@@ -37,12 +37,12 @@ The southeastern coastal regions of Tz'uma No'tun feature salt marshes, islands,
 
 Tz'uma No'tun's position at the southeastern frontier of the northern territories gives the Ch'aqun unique access to southern goods and unique items not available elsewhere in the north. Feathered cloaks, tropical fruits, obsidian tools, and dyed textiles flow northward from [[place-kchchkcntnnt|K'ich'chik]] through Ch'aqun hands; the Ch'aqun serve as intermediaries and carefully control access to particularly valuable items.
 
-The Ch'aqun also produce goods valuable in southern markets: poisons and herbal medicines, preserved foods, and certain rare items of spiritual power. The Ch'aqun reputation as masters of poison and herbalism makes their medicinal compounds highly sought-after despite their reputation; wealthy southern merchants and healers will pay premium prices for documented Ch'aqun medicines. The Ch'aqun never trade raw materials — only finished products that reveal nothing of their methods. K'ich'chik physicians who have analyzed Ch'aqun medicines report compounds of extraordinary potency but have been unable to identify the source plants or replicate the preparation.
+The Ch'aqun also produce goods valuable in southern markets: poisons and herbal medicines, preserved foods, and certain rare items of spiritual power. The Ch'aqun reputation as masters of poison and herbalism makes their medicinal compounds highly sought-after despite their reputation; wealthy southern merchants and healers will pay premium prices for documented Ch'aqun medicines. The Ch'aqun never trade raw materials—only finished products that reveal nothing of their methods. K'ich'chik physicians who have analyzed Ch'aqun medicines report compounds of extraordinary potency but have been unable to identify the source plants or replicate the preparation.
 
 Hides, furs, and game products from Tz'uma No'tun reach K'ich'chik markets through indirect chains of intermediaries, never through direct contact.
 
 ## See Also
 
-- [[affiliation-tzumanotun|Tz'uma No'tun]] — The realm that holds this land
-- [[place-nrthrnkchchk|Northern K'ich'chik]] — The enclosing region
-- [[place-tzumanotun2|Tz'uma No'tun]] — Seat of Tz'uma No'tun
+- [[affiliation-tzumanotun|Tz'uma No'tun]]—The realm that holds this land
+- [[place-nrthrnkchchk|Northern K'ich'chik]]—The enclosing region
+- [[place-tzumanotun2|Tz'uma No'tun]]—Seat of Tz'uma No'tun

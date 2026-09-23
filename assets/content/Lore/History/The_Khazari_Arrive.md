@@ -55,7 +55,7 @@ event:
     - how long after the Sinalë they followed, which the oldest mountain traditions put at roughly two thousand years and nobody holds more closely
 ---
 
-The **[[lore-flkkhazar|Khazári]]** came after the [[lore-flksinale|Sinalë]] — the Second People, as some
+The **[[lore-flkkhazar|Khazári]]** came after the [[lore-flksinale|Sinalë]]—the Second People, as some
 traditions call them. Like the Sinalë they arrived from a prior realm whose nature they do not
 disclose; whether it was the same realm, neither people will say.
 

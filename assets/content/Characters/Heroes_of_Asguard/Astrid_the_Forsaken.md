@@ -522,13 +522,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Astrid stands 5'5" with a lithe, predatory frame, weighing about 130 pounds. Her fair skin is smooth and unblemished in a way that seems slightly wrong — too perfect, as though sculpted rather than grown. Her auburn hair is bound in warrior's braids, and her amber eyes are striking and unsettling, with pupils that occasionally catch the light like a cat's. Her features are sharp and beautiful, with high cheekbones, a narrow nose, full lips, and a pointed chin — but subtle signs of her hybrid nature are visible to careful observers. Her canine teeth are slightly too pronounced, her movements too fluid, her reflexes faster than any human's should be. She wears dark leather armor fitted close to her body, allowing maximum freedom of movement, and carries no visible weapons, relying on the inhuman strength that Ymir's transformation has given her.
+Astrid stands 5'5" with a lithe, predatory frame, weighing about 130 pounds. Her fair skin is smooth and unblemished in a way that seems slightly wrong—too perfect, as though sculpted rather than grown. Her auburn hair is bound in warrior's braids, and her amber eyes are striking and unsettling, with pupils that occasionally catch the light like a cat's. Her features are sharp and beautiful, with high cheekbones, a narrow nose, full lips, and a pointed chin—but subtle signs of her hybrid nature are visible to careful observers. Her canine teeth are slightly too pronounced, her movements too fluid, her reflexes faster than any human's should be. She wears dark leather armor fitted close to her body, allowing maximum freedom of movement, and carries no visible weapons, relying on the inhuman strength that Ymir's transformation has given her.
 
 # Dossier {#dossier}
 
 Astrid was one of Ymir's early creations, a being of both human and monstrous traits. She was born in one of Ymir's laboratories, a fusion of different beings, but was quickly abandoned by her creator when he deemed her unworthy of his attention. Left to wander the world, Astrid struggled with her identity, torn between her human emotions and her monstrous nature. Despite the rejection, she never lost faith in Ymir, believing that her existence had a purpose, even if Ymir had not yet seen it. Astrid became known as the Forsaken, a title she wore with pride as she sought to prove her worth to her creator.
 
-The saga of Astrid the Forsaken tells of her journey to reclaim her place in Ymir's creation. She heard rumors of the Heart of the Firstborn, hidden deep within one of Ymir's oldest and most dangerous laboratories. This relic was said to hold the essence of Ymir's first and most beloved creation. The journey was perilous, filled with traps and hostile Dreadspawn, but Astrid's determination drove her forward. In the heart of the laboratory, she faced a guardian created by Ymir himself. In a fierce battle, Astrid defeated the guardian, claiming the Heart of the Firstborn. Rather than offering it to Ymir, she absorbed its essence into herself, transforming into a being of immense power and beauty — a champion of Ymir's path.
+The saga of Astrid the Forsaken tells of her journey to reclaim her place in Ymir's creation. She heard rumors of the Heart of the Firstborn, hidden deep within one of Ymir's oldest and most dangerous laboratories. This relic was said to hold the essence of Ymir's first and most beloved creation. The journey was perilous, filled with traps and hostile Dreadspawn, but Astrid's determination drove her forward. In the heart of the laboratory, she faced a guardian created by Ymir himself. In a fierce battle, Astrid defeated the guardian, claiming the Heart of the Firstborn. Rather than offering it to Ymir, she absorbed its essence into herself, transforming into a being of immense power and beauty—a champion of Ymir's path.
 
 ## Psyche
 
@@ -542,7 +542,7 @@ Astrid seeks to define herself on her own terms rather than be defined by her cr
 
 ### Strengths
 
-Since absorbing the Heart of the Firstborn, Astrid possesses strength and resilience far beyond mortal limits. Her hybrid nature gives her senses that no human could match — she can see in total darkness, track by scent, and sense magical energy. She is a ferocious combatant who blends human martial skill with inhuman speed and power. Her unique nature makes her resistant to many forms of magic that would affect ordinary humans.
+Since absorbing the Heart of the Firstborn, Astrid possesses strength and resilience far beyond mortal limits. Her hybrid nature gives her senses that no human could match—she can see in total darkness, track by scent, and sense magical energy. She is a ferocious combatant who blends human martial skill with inhuman speed and power. Her unique nature makes her resistant to many forms of magic that would affect ordinary humans.
 
 ## Social
 
@@ -550,20 +550,20 @@ Since absorbing the Heart of the Firstborn, Astrid possesses strength and resili
 
 ### Patrons
 
-**Valdrik the Shaper** — The only person who has ever treated Astrid as a fellow being rather than a curiosity or monster. Their relationship is complicated by Valdrik's scientific interest in her unique nature, but his respect is genuine.
+**Valdrik the Shaper**—The only person who has ever treated Astrid as a fellow being rather than a curiosity or monster. Their relationship is complicated by Valdrik's scientific interest in her unique nature, but his respect is genuine.
 
-**The Forsaken Ones** — A loose community of Ymir's abandoned creations who recognize Astrid as a champion since she absorbed the Heart of the Firstborn.
+**The Forsaken Ones**—A loose community of Ymir's abandoned creations who recognize Astrid as a champion since she absorbed the Heart of the Firstborn.
 
 ### Enemies
 
-**The Purity Crusade** — A fanatical movement that views all of Ymir's creations as abominations that must be destroyed. They consider Astrid an especially dangerous target and have mobilized significant resources to hunt her.
+**The Purity Crusade**—A fanatical movement that views all of Ymir's creations as abominations that must be destroyed. They consider Astrid an especially dangerous target and have mobilized significant resources to hunt her.
 
-**Ymir's Warden** — A powerful entity left behind to guard Ymir's laboratories. It views Astrid's theft of the Heart of the Firstborn as an unforgivable transgression and relentlessly pursues her.
+**Ymir's Warden**—A powerful entity left behind to guard Ymir's laboratories. It views Astrid's theft of the Heart of the Firstborn as an unforgivable transgression and relentlessly pursues her.
 
 ## Plot Hooks
 
-1. **The Forsaken Children** — Astrid's visions have led her to a settlement where Ymir's abandoned creations are being enslaved and used as forced labor. She must liberate them while confronting her own feelings about belonging and identity.
+1. **The Forsaken Children**—Astrid's visions have led her to a settlement where Ymir's abandoned creations are being enslaved and used as forced labor. She must liberate them while confronting her own feelings about belonging and identity.
 
-2. **The Heart's Price** — The power of the Heart of the Firstborn is slowly transforming Astrid, making her more powerful but also more monstrous. She must find a way to control the transformation or risk losing her humanity entirely.
+2. **The Heart's Price**—The power of the Heart of the Firstborn is slowly transforming Astrid, making her more powerful but also more monstrous. She must find a way to control the transformation or risk losing her humanity entirely.
 
-3. **The Creator's Return** — Signs suggest that Ymir may be stirring from his indifference, drawn by the power Astrid has claimed. Whether the god's attention is a blessing or a curse remains to be seen.
+3. **The Creator's Return**—Signs suggest that Ymir may be stirring from his indifference, drawn by the power Astrid has claimed. Whether the god's attention is a blessing or a curse remains to be seen.

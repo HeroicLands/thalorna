@@ -1,5 +1,5 @@
 ---
-description: "Inland Helionite city-state of terraced marble colonnades — oligarchic philosopher-republic and seat of a Panepistemium chapterhouse, whose libraries hold some of the oldest texts in western Ankaris and whose citizens consider themselves uniquely qualified to instruct everyone else."
+description: "Inland Helionite city-state of terraced marble colonnades—oligarchic philosopher-republic and seat of a Panepistemium chapterhouse, whose libraries hold some of the oldest texts in western Ankaris and whose citizens consider themselves uniquely qualified to instruct everyone else."
 type: affiliation
 name:
   full: Therádon
@@ -19,7 +19,7 @@ data:
         title: Atimos
         lore: outlawrnk
         description: >-
-          Stripped of civic honour by the courts: barred from the assembly, the agora and the
+          Stripped of civic honor by the courts: barred from the assembly, the agora and the
           temples, though still living among those who barred him.
       - level: 1
         title: Slave
@@ -51,8 +51,8 @@ data:
         title: Magistrate
         lore: magistraternk
         description: >-
-          Elected or allotted to an office of the city — its markets, its walls, its treasury,
-          its courts — and audited at the end of the year.
+          Elected or allotted to an office of the city—its markets, its walls, its treasury,
+          its courts—and audited at the end of the year.
       - level: 7
         title: Strategos
         lore: magistraternk
@@ -63,7 +63,7 @@ data:
         title: Archon
         lore: grandmasterrnk
         description: >-
-          Presiding magistrate of the year, who gives it his name and hands it back — the assembly
+          Presiding magistrate of the year, who gives it his name and hands it back—the assembly
           remains sovereign throughout.
     offices:
       Archon: >-
@@ -77,7 +77,7 @@ data:
       Treasurer: >-
         Keeper of the city's revenue and of the sacred treasuries, audited publicly at the
         end of his term.
-      Agoranomos: Warden of the market — its weights, its coin, its quality and its disputes.
+      Agoranomos: Warden of the market—its weights, its coin, its quality and its disputes.
       Nomophylax: Guardian of the laws, who may halt a decree of the assembly that contradicts
         them.
       Secretary of the Council: Keeper of the council's record and of the decrees the assembly
@@ -92,7 +92,7 @@ data:
         Elected to treat with another city or power, and answerable to the assembly for what
         he agrees.
       Gymnasiarch: >-
-        Patron and warden of the gymnasium, an office of honour funded from the holder's own
+        Patron and warden of the gymnasium, an office of honor funded from the holder's own
         purse.
   commonSkills:
     - helonclng
@@ -129,9 +129,9 @@ Therádon uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Oc
 
 ## See Also
 
-- [[place-helionis|Heliónis]] — Regional overview
-- [[place-theradon2|Therádon]] — The city itself
-- [[skill-helonclng|Helonic]] — Naming tradition
-- [[skill-helonclng|Helonic]] — Naming tradition
-- [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Religious tradition
-- [[affiliation-panepistmm|Panepistemium]] — Scholarly institution
+- [[place-helionis|Heliónis]]—Regional overview
+- [[place-theradon2|Therádon]]—The city itself
+- [[skill-helonclng|Helonic]]—Naming tradition
+- [[skill-helonclng|Helonic]]—Naming tradition
+- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—Religious tradition
+- [[affiliation-panepistmm|Panepistemium]]—Scholarly institution

@@ -15,13 +15,16 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A smaller and more specialised organisation than the great cults of Sēker or Má'át. Its knowledge cannot be taught to everyone: it demands natural aptitude as well as years of disciplined study, which keeps the priesthood deliberately small.
+      A smaller and more specialized organization than the great cults of Sēker or Má'át. Its
+      knowledge cannot be taught to everyone: it demands natural aptitude as well as years of
+      disciplined study, which keeps the priesthood deliberately small.
     ranks:
       - level: 0
         title: Rite-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually requires — a sentence that reaches past the end of the life it is passed in.
+          Barred from the temple rites, and with them from the funerary rites every Kheperi
+          eventually requires—a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
         lore: layfaithfulrnk
@@ -31,17 +34,21 @@ data:
         title: Wab
         lore: initiaternk
         description: >-
-          "Purified One" — acolytes who serve the priests by maintaining the shrines, preparing the incense and offerings, and assisting in the nightlong vigils during festivals.
+          "Purified One"—acolytes who serve the priests by maintaining the shrines, preparing the
+          incense and offerings, and assisting in the nightlong vigils during festivals.
       - level: 3
         title: Hem'Netjer
         lore: priestrnk
         description: >-
-          "Servant of the God" — the ordained priesthood, holding the specialised knowledge of the god — which requires both natural aptitude and years of disciplined study, and so cannot simply be taught to whoever presents themselves.
+          "Servant of the God"—the ordained priesthood, holding the specialized knowledge of the
+          god—which requires both natural aptitude and years of disciplined study, and so cannot
+          simply be taught to whoever presents themselves.
       - level: 4
         title: Wer'Hekau
         lore: highpriestrnk
         description: >-
-          "Great of Sacred Power" — High Priest of Bēs, overseeing a smaller and far more specialised body than the clergy of the great cults.
+          "Great of Sacred Power"—High Priest of Bēs, overseeing a smaller and far more specialized
+          body than the clergy of the great cults.
     offices:
       Keeper of the Vigil: >-
         Assists through the nightlong festival vigils, which is where the acolyte's aptitude for the god's work first shows.

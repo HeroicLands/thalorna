@@ -27,5 +27,5 @@ The community sustains itself through fishing, hunting seal and whale, and trade
 
 ## See Also
 
-- [[affiliation-kingdmnrgd|Kingdom of Norgaad]] — Nordmen seafaring kingdom
-- [[affiliation-asguardian|Asguardian Pantheon]] — Gods of the north
+- [[affiliation-kingdmnrgd|Kingdom of Norgaad]]—Nordmen seafaring kingdom
+- [[affiliation-asguardian|Asguardian Pantheon]]—Gods of the north

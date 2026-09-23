@@ -2,7 +2,7 @@
 tags:
   - nkaruthar
   - spirit-power
-description: "Standing with Mzazi wa Ardhi, zohira of fertility — what this emissary of the Flame is petitioned and interceded with."
+description: "Standing with Mzazi wa Ardhi, zohira of fertility—what this emissary of the Flame is petitioned and interceded with."
 type: skill
 subType: mystical
 shortcode: mzazisprt
@@ -24,4 +24,4 @@ sohl:
 packFolder: spiritskillsokharic
 ---
 
-See [[lore-mzazispr|Mzazi wa Ardhi]] — zohira of fertility, met through [[affiliation-njiayaroho|the Njia ya Roho]].
+See [[lore-mzazispr|Mzazi wa Ardhi]]—zohira of fertility, met through [[affiliation-njiayaroho|the Njia ya Roho]].

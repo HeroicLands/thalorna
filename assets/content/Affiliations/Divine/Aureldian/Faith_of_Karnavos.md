@@ -15,15 +15,15 @@ data:
   governance:
     model: council
     summary: >-
-      Deliberately decentralised and anarchic. There is no High Priest and no hierarchy to rise
-      through; what passes for organisation is the Circle of the Threshold, a loose and constantly
+      Deliberately decentralized and anarchic. There is no High Priest and no hierarchy to rise
+      through; what passes for organization is the Circle of the Threshold, a loose and constantly
       shifting fellowship that anyone may claim to belong to and no one may speak for.
     ranks:
       - level: 0
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out — which in a faith with no authority to expel anyone means only that the
+          Cast out—which in a faith with no authority to expel anyone means only that the
           fellowship has stopped answering, and that is enough.
       - level: 1
         title: Fideles
@@ -34,8 +34,8 @@ data:
         title: Acolytes of the Threshold
         lore: initiaternk
         description: >-
-          Initiates attached to a priest or a hermit, learning what that particular teacher holds —
-          which is not what the next one holds.
+          Initiates attached to a priest or a hermit, learning what that particular teacher
+          holds—which is not what the next one holds.
       - level: 3
         title: Circle of the Threshold
         lore: priestrnk
@@ -45,7 +45,7 @@ data:
     offices:
       Circle of the Threshold: >-
         The loose, constantly shifting fellowship of priests and philosophers that is the whole of
-        the faith's organisation.
+        the faith's organization.
       Hermit of Chaos: >-
         One who has withdrawn entirely, holding no place in the Circle and consulted precisely
         because of it.

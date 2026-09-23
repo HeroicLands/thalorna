@@ -1,7 +1,7 @@
 ---
 tags:
   - region
-description: "Snow-crowned mountains, terraced highlands and jungle river valleys — the land of Ba'alam Tza'ku, in Southern K'ich'chik."
+description: "Snow-crowned mountains, terraced highlands and jungle river valleys—the land of Ba'alam Tza'ku, in Southern K'ich'chik."
 name:
   full: Ba'alam Tza'ku Region
   aliases: []
@@ -47,6 +47,6 @@ Markets in the great cities—particularly [[place-hakukul|Ha' K'ukul]] and [[pl
 
 ## See Also
 
-- [[affiliation-balamtzaku|Ba'alam Tza'ku]] — The realm that holds this land
-- [[place-sthrnkchchk|Southern K'ich'chik]] — The enclosing region
-- [[place-balamtzaku2|Ba'alam Tza'ku]] — Seat of Ba'alam Tza'ku
+- [[affiliation-balamtzaku|Ba'alam Tza'ku]]—The realm that holds this land
+- [[place-sthrnkchchk|Southern K'ich'chik]]—The enclosing region
+- [[place-balamtzaku2|Ba'alam Tza'ku]]—Seat of Ba'alam Tza'ku

@@ -559,7 +559,7 @@ Chýnara Kórisvar is a 33-year-old woman who stands 6'1" tall and is of moderat
 
 Chýnara Kórisvar is a salter of Chastèlclair, the fortress town of the eastern march of [[place-provenzrgn|Provènzia]], a Provenzian freewoman who salts down the meat and fish that feed the garrison through the winter and the levies through the campaign season.
 
-Chýnara learned the trade as a child in the salting-house inside the walls that her parents kept before her, packing fish from Lake Tiravel in brine and beef from the march's herds in coarse salt that comes up by cart through Valcèrise. From the thaw the town fills with soldiers and carters who must be fed on the road, and through the winter, when the passes close, everyone eats what was salted in the autumn. A salter who cuts her salt or hurries her cure kills people in the second month of the snow, and Chýnara has never done either. The garrison's victuallers buy from her by preference and the lake fishermen sell to her first, because a Kórisvar barrel opens in spring the way it was closed.
+Chýnara learned the trade as a child in the salting-house inside the walls that her parents kept before her, packing fish from Lake Tiravel in brine and beef from the march's herds in coarse salt that comes up by cart through Valcèrise. From the thaw the town fills with soldiers and carters who must be fed on the road, and through the winter, when the passes close, everyone eats what was salted in the autumn. A salter who cuts her salt or hurries her cure kills people in the second month of the snow, and Chýnara has never done either. The garrison's victualers buy from her by preference and the lake fishermen sell to her first, because a Kórisvar barrel opens in spring the way it was closed.
 
 She is a known figure among the salters of Provènzia.
 
@@ -585,18 +585,18 @@ Chýnara belongs to no guild and works for herself, as her parents did. The garr
 
 ### Patrons
 
-Chýnara's patrons are the victuallers of the garrison, who buy her barrels for the winter stores and the campaign carts, and the fishermen of Lake Tiravel.
+Chýnara's patrons are the victualers of the garrison, who buy her barrels for the winter stores and the campaign carts, and the fishermen of Lake Tiravel.
 
 ### Enemies
 
-A victualler of the town who buys cheap salt and cheaper fish, sells his barrels to the garrison under her price, and would like her out of the trade before somebody opens one of his in midwinter.
+A victualer of the town who buys cheap salt and cheaper fish, sells his barrels to the garrison under her price, and would like her out of the trade before somebody opens one of his in midwinter.
 
 ## Plot Hooks
 
-1. **The Bad Barrels** — The garrison's winter store has begun to spoil, barrel by barrel, and the barrels are the rival victualler's with Chýnara's mark forged on them. The quartermaster has come to her first.
+1. **The Bad Barrels**—The garrison's winter store has begun to spoil, barrel by barrel, and the barrels are the rival victualer's with Chýnara's mark forged on them. The quartermaster has come to her first.
 
-2. **The Short Store** — The autumn catch failed and the herds were raided, and Chýnara has salted half what the winter needs. The passes close in three weeks. What she has will feed the garrison or the town, not both.
+2. **The Short Store**—The autumn catch failed and the herds were raided, and Chýnara has salted half what the winter needs. The passes close in three weeks. What she has will feed the garrison or the town, not both.
 
-3. **The Assize** — The rival victualler has brought a claim against Chýnara at the Winter Assize for a debt her mother never owed, and the court is snowed in with both of them until spring.
+3. **The Assize**—The rival victualer has brought a claim against Chýnara at the Winter Assize for a debt her mother never owed, and the court is snowed in with both of them until spring.
 
-4. **The Passes Close Early** — The snow has come a month before its time with the salt carts still below Valcèrise. Chýnara has fish in the yard and no salt to cure it.
+4. **The Passes Close Early**—The snow has come a month before its time with the salt carts still below Valcèrise. Chýnara has fish in the yard and no salt to cure it.

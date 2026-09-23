@@ -3,7 +3,7 @@ tags:
   - town
   - port
   - river
-description: "Aldorath's river port on the tidal reach — the kingdom's outlet to the sea, and the place its trade meets the Synod's requirement."
+description: "Aldorath's river port on the tidal reach—the kingdom's outlet to the sea, and the place its trade meets the Synod's requirement."
 type: place
 subType: settlement
 data:
@@ -37,7 +37,7 @@ private.
 
 ## The Water
 
-The name is honest. The river runs grey with the peat of the interior, the tidal flats below the town
+The name is honest. The river runs gray with the peat of the interior, the tidal flats below the town
 are extensive and treacherous, and pilotage into Greywater is a hereditary trade whose families guard
 their knowledge as closely as any guild.
 

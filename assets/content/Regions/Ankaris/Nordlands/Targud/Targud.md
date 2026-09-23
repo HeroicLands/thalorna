@@ -1,7 +1,7 @@
 ---
 tags:
   - region
-description: "The land of the Kingdom of Targud — the easternmost Nordmen kingdom, deep forest and tundra borderland against the Grukar."
+description: "The land of the Kingdom of Targud—the easternmost Nordmen kingdom, deep forest and tundra borderland against the Grukar."
 name:
   full: Targud
   aliases: []
@@ -30,6 +30,6 @@ The kingdom's eastern border is a contested no-man's-land of burned farmsteads, 
 
 ## See Also
 
-- [[affiliation-kingdmtrgd|Kingdom of Targud]] — The kingdom that holds this land
-- [[place-nrdlndsrgn|Nordlands Region]] — The enclosing region
-- Valgard — The seat
+- [[affiliation-kingdmtrgd|Kingdom of Targud]]—The kingdom that holds this land
+- [[place-nrdlndsrgn|Nordlands Region]]—The enclosing region
+- Valgard—The seat

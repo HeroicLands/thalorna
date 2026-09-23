@@ -22,7 +22,7 @@ data:
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out — denied the rites, the temple and the burial the faith promises, which is the one
+          Cast out—denied the rites, the temple and the burial the faith promises, which is the one
           sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
@@ -39,7 +39,8 @@ data:
         title: Custodes Liminis
         lore: priestrnk
         description: >-
-          The Threshold Keepers — twenty or thirty ordained priests across the cities of western Ankaris, who perform funeral rites and keep the temple records of the dead.
+          The Threshold Keepers—twenty or thirty ordained priests across the cities of western
+          Ankaris, who perform funeral rites and keep the temple records of the dead.
       - level: 4
         title: Pontifex Mortis
         lore: grandmasterrnk
@@ -49,7 +50,8 @@ data:
       Pontifex Mortis: >-
         Held by one among the Custodes; the hierarchy is defined by wisdom and philosophical depth rather than administrative rank.
       Custodes Liminis: >-
-        The Threshold Keepers — twenty or thirty ordained priests across the cities of western Ankaris, who perform funeral rites and keep the temple records of the dead.
+        The Threshold Keepers—twenty or thirty ordained priests across the cities of western
+        Ankaris, who perform funeral rites and keep the temple records of the dead.
       Novices of the Silent Watch: >-
         Young men and women, often survivors of a near-death experience, in extensive training in funerary practice and theology.
   commonSkills: []

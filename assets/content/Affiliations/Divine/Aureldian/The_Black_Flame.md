@@ -27,7 +27,7 @@ data:
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out — denied the rites, the temple and the burial the faith promises, which is the one
+          Cast out—denied the rites, the temple and the burial the faith promises, which is the one
           sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
@@ -39,7 +39,8 @@ data:
         title: Aspirant
         lore: initiaternk
         description: >-
-          Also called Acolytes of Ash — the newest members, who have passed the basic ordeals and sworn oaths to Vúlcan's destructive vision.
+          Also called Acolytes of Ash—the newest members, who have passed the basic ordeals and
+          sworn oaths to Vúlcan's destructive vision.
       - level: 3
         title: Scorchmaster
         lore: priestrnk
@@ -49,14 +50,19 @@ data:
         title: Flame-Warden
         lore: grandmasterrnk
         description: >-
-          Also styled Ashlord. Each leads a semi-independent cell or warband and operates alone; the faith recognises no Grand Pontifex and no supreme authority, and alliances between Wardens are temporary.
+          Also styled Ashlord. Each leads a semi-independent cell or warband and operates alone; the
+          faith recognizes no Grand Pontifex and no supreme authority, and alliances between Wardens
+          are temporary.
     offices:
       Flame-Warden: >-
-        Also styled Ashlord. Each leads a semi-independent cell or warband and operates alone; the faith recognises no Grand Pontifex and no supreme authority, and alliances between Wardens are temporary.
+        Also styled Ashlord. Each leads a semi-independent cell or warband and operates alone; the
+        faith recognizes no Grand Pontifex and no supreme authority, and alliances between Wardens
+        are temporary.
       Scorchmaster: >-
         Those who have undergone the highest ordeals and proven themselves as warriors and believers; lieutenants to a Flame-Warden, who train acolytes and lead its operations.
       Aspirant: >-
-        Also called Acolytes of Ash — the newest members, who have passed the basic ordeals and sworn oaths to Vúlcan's destructive vision.
+        Also called Acolytes of Ash—the newest members, who have passed the basic ordeals and sworn
+        oaths to Vúlcan's destructive vision.
       Ashlord: >-
         An alternative style for a Flame-Warden, used where the warband is large enough to hold territory.
   commonSkills: []
@@ -73,16 +79,16 @@ data:
 packFolder: pantheonsaureldian
 ---
 
-- **Deity:** Vúlcan — _The Forge-Lord_
+- **Deity:** Vúlcan—_The Forge-Lord_
 - **Domain:** Fire (destructive aspect)
 - **Symbol:** A mailed fist enclosed in black flames.
 - **Pantheon:** [[affiliation-arldnpnthn|Aurèldián Pantheon]]
 
-The Black Flame represents Vúlcan's destructive aspect: fire as purifier, as weapon, as instrument of domination. It is not simply "evil" but deeply self-centered and intolerant — its adherents believe that only through destruction can true creation follow, and that the weak deserve to be consumed. The strong are meant to rule; mercy is weakness; and the world is forged anew only through conquest and flame.
+The Black Flame represents Vúlcan's destructive aspect: fire as purifier, as weapon, as instrument of domination. It is not simply "evil" but deeply self-centered and intolerant—its adherents believe that only through destruction can true creation follow, and that the weak deserve to be consumed. The strong are meant to rule; mercy is weakness; and the world is forged anew only through conquest and flame.
 
-Despite being suppressed in most kingdoms and condemned by both [[affiliation-sacredforge|The Sacred Forge]] and the [[affiliation-janus|Faith of Janus]], the Black Flame thrives. Its "might makes right" philosophy holds a brutal, honest appeal for those who feel the established order has failed them — sellswords, ambitious minor nobles, dispossessed soldiers, frontier settlers, and anyone who has learned that the world rewards strength and punishes weakness. The faith draws followers not through elaborate theology but through a simple, seductive promise: the strong take what they deserve. In lands where feudal law protects the powerful and grinds the common folk, this message resonates far more widely than Jánite clergy care to admit.
+Despite being suppressed in most kingdoms and condemned by both [[affiliation-sacredforge|The Sacred Forge]] and the [[affiliation-janus|Faith of Janus]], the Black Flame thrives. Its "might makes right" philosophy holds a brutal, honest appeal for those who feel the established order has failed them—sellswords, ambitious minor nobles, dispossessed soldiers, frontier settlers, and anyone who has learned that the world rewards strength and punishes weakness. The faith draws followers not through elaborate theology but through a simple, seductive promise: the strong take what they deserve. In lands where feudal law protects the powerful and grinds the common folk, this message resonates far more widely than Jánite clergy care to admit.
 
-The Black Flame operates through secretive orders and hidden shrines in most of western Ankaris, maintaining footholds through noble patrons who find its doctrines politically useful and frontier regions where the arm of established religion does not reach. The notable exception is the [[affiliation-vylarinmpr|Empire of Vylaria]], whose longstanding policy of religious tolerance has never formally proscribed the Black Flame. In Vylaria — particularly in the commercial cities of the Province of Alyssa and the empire's frontier territories — the faith operates openly, maintaining temples, ordaining clergy, and preaching its doctrine without legal impediment. The Black Flame's philosophy of strength-as-virtue resonates powerfully in a mercantile culture that rewards competition and in border regions where survival depends on practical capability rather than theological niceties. This Vylarian tolerance infuriates the [[affiliation-janus|Jánite]] orders and the [[affiliation-sacredforge|Sacred Forge]] clergy who operate within the empire, but imperial law is clear: faiths are permitted so long as they do not threaten the stability of the state.
+The Black Flame operates through secretive orders and hidden shrines in most of western Ankaris, maintaining footholds through noble patrons who find its doctrines politically useful and frontier regions where the arm of established religion does not reach. The notable exception is the [[affiliation-vylarinmpr|Empire of Vylaria]], whose longstanding policy of religious tolerance has never formally proscribed the Black Flame. In Vylaria—particularly in the commercial cities of the Province of Alyssa and the empire's frontier territories—the faith operates openly, maintaining temples, ordaining clergy, and preaching its doctrine without legal impediment. The Black Flame's philosophy of strength-as-virtue resonates powerfully in a mercantile culture that rewards competition and in border regions where survival depends on practical capability rather than theological niceties. This Vylarian tolerance infuriates the [[affiliation-janus|Jánite]] orders and the [[affiliation-sacredforge|Sacred Forge]] clergy who operate within the empire, but imperial law is clear: faiths are permitted so long as they do not threaten the stability of the state.
 
 ## Worship
 
@@ -112,6 +118,6 @@ The faith's military and organizational strength comes from its appeal to those 
 
 ## Relations
 
-The Black Flame's defining enmity is with the [[affiliation-janus|Faith of Janus]]. These two faiths are locked in an unending struggle that mirrors a cosmic conflict — order against domination, chivalry against might, duty against ambition. Jánite knights hunt Black Flame cells with holy zeal; Black Flame warlords target Jánite temples and champions with particular savagery. Neither faith acknowledges any possibility of coexistence. Where one holds power, the other is driven underground.
+The Black Flame's defining enmity is with the [[affiliation-janus|Faith of Janus]]. These two faiths are locked in an unending struggle that mirrors a cosmic conflict—order against domination, chivalry against might, duty against ambition. Jánite knights hunt Black Flame cells with holy zeal; Black Flame warlords target Jánite temples and champions with particular savagery. Neither faith acknowledges any possibility of coexistence. Where one holds power, the other is driven underground.
 
 The Black Flame also wages a bitter doctrinal war against [[affiliation-sacredforge|The Sacred Forge]], its orthodox sibling. The Sacred Forge regards the Black Flame as a heresy that perverts Vúlcan's gifts, while the Black Flame views the Sacred Forge as timid fools who have domesticated a god of fire into a mere patron of blacksmiths. This fratricidal hatred between the two Vúlcani faiths can be even more vicious than the broader war with Jánus, as only apostates and heretics can truly understand how deeply they have betrayed the truth.

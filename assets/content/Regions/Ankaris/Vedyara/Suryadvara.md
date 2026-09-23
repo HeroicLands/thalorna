@@ -3,7 +3,7 @@ tags:
   - pass
   - caravan
   - inland
-description: "The greatest of the northern passes — the road under Sūryāgarha that forks beyond the throat for the Khazryn and for Tānvür, and the one crossing a caravan can plan a year around."
+description: "The greatest of the northern passes—the road under Sūryāgarha that forks beyond the throat for the Khazryn and for Tānvür, and the one crossing a caravan can plan a year around."
 type: place
 subType: feature
 data:
@@ -31,9 +31,9 @@ Three caravans in four that cross the wall in any year cross here.
 
 ## The Throat
 
-The kingdom of [[affiliation-vindhyalay|Vindhyālaya]] holds the throat, and the fortress sits across it rather than beside it: there is no way onto the road that does not pass beneath the walls. Every bale is weighed on entry and again on exit, and the difference between the two weighings is the kingdom's single largest source of revenue and its single largest source of litigation.
+The kingdom of [[affiliation-vindhyalay|Vindhyālaya]] holds the throat, and the fortress sits across the road and not beside it. There is no way onto it that does not pass beneath the walls. Every bale is weighed on entry and again on exit, and the difference between the two weighings is the kingdom's single largest source of revenue and its single largest source of litigation.
 
-A crossing needs a pass-token from the customs-house. The token is cheap, the inspection is not, and the delay between applying for one and receiving one is the instrument by which the crown decides who crosses early in the season and who crosses late — which, on a road that shuts for ten months, is the difference between a profit and a year's wait.
+A crossing needs a pass-token from the customs-house. The token is cheap, the inspection is not, and the delay between applying for one and receiving one is the instrument by which the crown decides who crosses early in the season and who crosses late—which, on a road that shuts for ten months, is the difference between a profit and a year's wait.
 
 ## Who Actually Takes You Over
 
@@ -41,7 +41,7 @@ The [[affiliation-osketguides|Ösket]] do, as everywhere on the wall, but on thi
 
 ## The Tānvüri Branch
 
-The north-eastern branch has carried a Tānvüri community down into Sūryāgarha for centuries — merchants, a way-station's worth of clerks, and every few decades an imperial envoy who arrives, is received with great courtesy, and goes away again. Neither side has ever seriously tried to rule the other, and both quote that fact rather more often than a fact requires quoting.
+The north-eastern branch has carried a Tānvüri community down into Sūryāgarha for centuries—merchants, a way-station's worth of clerks, and every few decades an imperial envoy who arrives, is received with great courtesy, and goes away again. Neither side has ever seriously tried to rule the other, and both quote that fact rather more often than a fact requires quoting.
 
 ## See Also
 

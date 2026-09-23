@@ -561,7 +561,7 @@ Born in the [[place-nordheim|Nordheim]] region to a guilded family of Nordheimn 
 
 Hróaldr has spent more than two decades in the jewelry trade, honing his skill at both traditional and newer pieces. He has a reputation for valuing gemstones well and negotiating prices hard. He runs a successful shop that draws clients from nobles to common folk, and for all his success he enjoys teaching young apprentices the craft.
 
-Now at 48 years of age, he is a known figure among the jewellers of Nordheim.
+Now at 48 years of age, he is a known figure among the jewelers of Nordheim.
 
 ## Psyche
 
@@ -579,7 +579,7 @@ He is experienced, an excellent negotiator, and skilled in both design and craft
 
 ## Social
 
-Hróaldr belongs to the local Jewellers' Guild.
+Hróaldr belongs to the local Jewelers' Guild.
 
 ## Companions
 
@@ -593,12 +593,12 @@ Few; generally respected within the industry.
 
 ## Plot Hooks
 
-1. **The Jeweler's Dilemma** — A noble brings Hróaldr a stone he recognizes as stolen, and he has to choose between the client and the truth.
+1. **The Jeweler's Dilemma**—A noble brings Hróaldr a stone he recognizes as stolen, and he has to choose between the client and the truth.
 
-2. **Old Grudges** — One of the few in the trade who do not respect him decides to do something about it.
+2. **Old Grudges**—One of the few in the trade who do not respect him decides to do something about it.
 
-3. **Echoes of the Past** — A piece Hróaldr made early in his trade resurfaces in the wrong hands.
+3. **Echoes of the Past**—A piece Hróaldr made early in his trade resurfaces in the wrong hands.
 
-4. **Shifting Winds** — Political change in Nordheim threatens the custom Hróaldr's shop depends upon, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Nordheim threatens the custom Hróaldr's shop depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity** — A noble commission comes to Hróaldr beyond anything his shop has handled, and its price is not named up front.
+5. **The Opportunity**—A noble commission comes to Hróaldr beyond anything his shop has handled, and its price is not named up front.

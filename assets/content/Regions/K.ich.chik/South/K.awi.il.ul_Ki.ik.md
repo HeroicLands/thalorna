@@ -36,7 +36,7 @@ K’awi’il’ul Ki’ik has a martial culture; social status is determined by 
 
 ## See Also
 
-- [[affiliation-kuxibalam|K’uxi Balam]] — The plateau realm
-- [[affiliation-kawiltzakl|K’awiil Tza’kul]] — The boundary lands
-- [[place-tzikinbalmrgn|Tz’ikin Ba’alam]] — The forsaken wastes
-- [[affiliation-itzanpnthn|Itzáni]] — The priesthood that commands this garrison
+- [[affiliation-kuxibalam|K’uxi Balam]]—The plateau realm
+- [[affiliation-kawiltzakl|K’awiil Tza’kul]]—The boundary lands
+- [[place-tzikinbalmrgn|Tz’ikin Ba’alam]]—The forsaken wastes
+- [[affiliation-itzanpnthn|Itzáni]]—The priesthood that commands this garrison

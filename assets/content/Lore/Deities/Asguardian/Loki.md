@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "The Trickster of the Asguardian gods — cunning, deception, and the patron thieves invoke before a theft."
+description: "The Trickster of the Asguardian gods—cunning, deception, and the patron thieves invoke before a theft."
 type: lore
 subType: deity
 name:

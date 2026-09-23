@@ -42,8 +42,8 @@ data:
         title: Copyist
         lore: apprenticernk
         description: >-
-          Under training in a temple — copying forms, learning the seals and the calendrical
-          schedules — and not yet permitted to file anything on another's behalf.
+          Under training in a temple—copying forms, learning the seals and the calendrical
+          schedules—and not yet permitted to file anything on another's behalf.
       - level: 3
         title: Clerk
         lore: clerkrnk
@@ -77,7 +77,7 @@ data:
           transmitted upward to its Tëng Güng and answers for it if the bureau rejects it.
     offices:
       Tëng Güng: >-
-        "Celestial Minister" — the overseer of this domain, whose power is the authority of the
+        "Celestial Minister"—the overseer of this domain, whose power is the authority of the
         office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
       Chief Intendant: >-
         Senior mortal officer of this bureau's temples, who signs what is transmitted upward.
@@ -98,13 +98,13 @@ data:
         Conducts the burning that files a sealed petition. A petition burned at the wrong censer
         reaches the wrong bureau and is lost.
       Receiver of Tribute: >-
-        Takes the sacrifice that pays a petition's carriage — coin, grain, cloth, livestock — and
+        Takes the sacrifice that pays a petition's carriage—coin, grain, cloth, livestock—and
         enters its value to the petitioner's credit.
       Advocate: >-
         Prosecutes appeals before the Supreme Administrative Court, citing precedent against a
         ruling. Most fail; the avenue exists.
       Vëngdāk Zhütvōr: >-
-        Vëngdāk Zhütvōr — The Lord of Earth — the being this bureau or cultus is organised around.
+        Vëngdāk Zhütvōr—The Lord of Earth—the being this bureau or cultus is organized around.
   commonSkills:
     - vngdkzhtvr
     - tngthkscrpt
@@ -124,7 +124,7 @@ data:
 packFolder: elementallords
 ---
 
-## Vëngdāk Zhütvōr — The Lord of Earth
+## Vëngdāk Zhütvōr—The Lord of Earth
 
 The Elemental Lord of Earth manifests in the celestial records as a figure of absolute fixedness and foundational authority—an official whose jurisdiction is broader than any other Elemental Lord's, whose claims to territorial sovereignty override most competing bureaus, and whose administration is marked by a conservative insistence that the earth's domains remain unmoved, unstudied, and unmolested except through proper petition. Vëngdāk Zhütvōr does not delegate authority readily and maintains personal oversight of the most significant earth-related matters. Some Tānthëi scholars suggest that the Lord of Earth, more than any Elemental Lord, embodies the cosmological principle: the earth _is_ the foundation upon which all other classifications rest, and therefore its administrator must be correspondingly rigorous and skeptical of disruptions to established order.
 
@@ -134,13 +134,13 @@ Like all Elemental Lords, Vëngdāk Zhütvōr answers directly to the Jade Sover
 
 The Lord of Earth maintains the boundary between four primary administrative categories, each governed with characteristic strictness:
 
-**Soil and Arable Land (Zhüt Vëng)** — The cultivated and uncultivated earth upon which life depends. This category is supervised by the clerk-spirit **Vënghöt**, who maintains the registry of all significant agricultural regions and their appointed fertility allocations. The Tānvüri understand soil fertility not as a consequence of natural cycles alone but as a _celestial administrative decision_, mediated through the moral ledgers of communities and individuals. A region that maintains proper spiritual balance receives fertile soil; regions in spiritual deficit experience depleted harvests or soil degradation. Petitions to Vëngdāk Zhütvōr for soil fertility must therefore include not merely requests for agricultural blessing but evidence of the petitioner's moral rectitude. Farmers petition through local Tūrvōr (territorial officials), who evaluate both the agricultural need and the spiritual status of the requesting community.
+**Soil and Arable Land (Zhüt Vëng)**—The cultivated and uncultivated earth upon which life depends. This category is supervised by the clerk-spirit **Vënghöt**, who maintains the registry of all significant agricultural regions and their appointed fertility allocations. The Tānvüri understand soil fertility not as a consequence of natural cycles alone but as a _celestial administrative decision_, mediated through the moral ledgers of communities and individuals. A region that maintains proper spiritual balance receives fertile soil; regions in spiritual deficit experience depleted harvests or soil degradation. Petitions to Vëngdāk Zhütvōr for soil fertility must therefore include not merely requests for agricultural blessing but evidence of the petitioner's moral rectitude. Farmers petition through local Tūrvōr (territorial officials), who evaluate both the agricultural need and the spiritual status of the requesting community.
 
-**Stone and Rock (Zhüt Dāk)** — Mountains, stone outcrops, quarried rock, and all solid non-metallic mineral material. This category is supervised by the clerk-spirit **Dākzhüt**, who maintains records of all quarry operations and significant stone formations. Unlike timber harvesting, which can be reforested, stone removal is permanent—it represents an irreversible alteration to the earth's substrate. For this reason, Vëngdāk Zhütvōr grants permission for stone harvesting only under the most stringent conditions and with explicit approval from the Jade Sovereign's office. Quarry operations are permitted but heavily restricted; large-scale mining is considered permissible only during periods of state-sanctioned construction (temples, fortifications, major administrative buildings). Petitions to quarry are evaluated not merely for immediate need but for their alignment with long-term celestial administrative objectives.
+**Stone and Rock (Zhüt Dāk)**—Mountains, stone outcrops, quarried rock, and all solid non-metallic mineral material. This category is supervised by the clerk-spirit **Dākzhüt**, who maintains records of all quarry operations and significant stone formations. Unlike timber harvesting, which can be reforested, stone removal is permanent—it represents an irreversible alteration to the earth's substrate. For this reason, Vëngdāk Zhütvōr grants permission for stone harvesting only under the most stringent conditions and with explicit approval from the Jade Sovereign's office. Quarry operations are permitted but heavily restricted; large-scale mining is considered permissible only during periods of state-sanctioned construction (temples, fortifications, major administrative buildings). Petitions to quarry are evaluated not merely for immediate need but for their alignment with long-term celestial administrative objectives.
 
-**Caves and Underground Spaces (Zhüt Hürn)** — Natural caverns, underground waterways, and voids within the earth. This category is supervised with particular caution, as caves are understood as boundary-spaces where the ordered earth meets the unclassified Hürnlëi. The Tānthëi teach that deep caves approach the border of unmanifested chaos, and that exploration of unknown caves risks exposing the explorer to unclassifiable conditions that may erode their own categories. Vëngdāk Zhütvōr permits exploration of known and documented caves under license, but expeditions into unmapped underground regions require explicit approval from the Lord of Earth personally. The clerk-spirit **Hürnvëng** maintains records of documented caves and their depth classifications; anything beyond recorded boundaries is administratively uncharted territory.
+**Caves and Underground Spaces (Zhüt Hürn)**—Natural caverns, underground waterways, and voids within the earth. This category is supervised with particular caution, as caves are understood as boundary-spaces where the ordered earth meets the unclassified Hürnlëi. The Tānthëi teach that deep caves approach the border of unmanifested chaos, and that exploration of unknown caves risks exposing the explorer to unclassifiable conditions that may erode their own categories. Vëngdāk Zhütvōr permits exploration of known and documented caves under license, but expeditions into unmapped underground regions require explicit approval from the Lord of Earth personally. The clerk-spirit **Hürnvëng** maintains records of documented caves and their depth classifications; anything beyond recorded boundaries is administratively uncharted territory.
 
-**Metals and Ore (Zhüt Vōrthāt)** — Metal-bearing ore and mineral deposits within the earth. This category overlaps directly with the Metal Lord's (Dāktūr Vōrthāt's) jurisdiction, creating one of the most formally documented and yet persistently fraught jurisdictional boundaries in the celestial bureaucracy. The formal understanding is that Vëngdāk Zhütvōr maintains authority over ore _as part of the earth_ while Dāktūr Vōrthāt claims authority over the ore _as metal awaiting extraction_. When does ore cease being "part of the earth" and become "metal waiting to be extracted"? The distinction generates constant litigation and administrative tension. The practical compromise requires that any mining operation must file petitions with _both_ the Earth Lord (requesting permission to disturb the earth) and the Metal Lord (requesting permission to extract and classify the ore), ensuring that both Elemental Lords maintain some degree of jurisdictional satisfaction through involvement in the process.
+**Metals and Ore (Zhüt Vōrthāt)**—Metal-bearing ore and mineral deposits within the earth. This category overlaps directly with the Metal Lord's (Dāktūr Vōrthāt's) jurisdiction, creating one of the most formally documented and yet persistently fraught jurisdictional boundaries in the celestial bureaucracy. The formal understanding is that Vëngdāk Zhütvōr maintains authority over ore _as part of the earth_ while Dāktūr Vōrthāt claims authority over the ore _as metal awaiting extraction_. When does ore cease being "part of the earth" and become "metal waiting to be extracted"? The distinction generates constant litigation and administrative tension. The practical compromise requires that any mining operation must file petitions with _both_ the Earth Lord (requesting permission to disturb the earth) and the Metal Lord (requesting permission to extract and classify the ore), ensuring that both Elemental Lords maintain some degree of jurisdictional satisfaction through involvement in the process.
 
 ### Authority and Jurisdictional Tensions
 
@@ -172,9 +172,9 @@ Mortals petition Vëngdāk Zhütvōr through offerings at earth shrines, through
 
 ### See Also
 
-- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The Celestial Bureaucracy that appointed Vëngdāk Zhütvōr as Elemental Lord
-- [[affiliation-daktrvrtht|Dāktūr Vōrthāt]] — The Elemental Lord of Metal, with whom Vëngdāk Zhütvōr shares jurisdiction over ore deposits
-- [[affiliation-rothtdkvng|Röthöt Dākvëng]] — The Elemental Lord of Wood, who claims authority over living forests
-- [[affiliation-zhutshtlng|Zhütshüt Lüng]] — The Elemental Lord of Water, with whom Vëngdāk Zhütvōr disputes jurisdiction over groundwater
-- [[lore-tanthei|Tānthëi]] — The priesthood who mediate petitions to the Elemental Lords
-- [[affiliation-tngvkvnlei|Tūrvōr]] — Territorial officials who represent the earth-based administration within specific regions
+- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]]—The Celestial Bureaucracy that appointed Vëngdāk Zhütvōr as Elemental Lord
+- [[affiliation-daktrvrtht|Dāktūr Vōrthāt]]—The Elemental Lord of Metal, with whom Vëngdāk Zhütvōr shares jurisdiction over ore deposits
+- [[affiliation-rothtdkvng|Röthöt Dākvëng]]—The Elemental Lord of Wood, who claims authority over living forests
+- [[affiliation-zhutshtlng|Zhütshüt Lüng]]—The Elemental Lord of Water, with whom Vëngdāk Zhütvōr disputes jurisdiction over groundwater
+- [[lore-tanthei|Tānthëi]]—The priesthood who mediate petitions to the Elemental Lords
+- [[affiliation-tngvkvnlei|Tūrvōr]]—Territorial officials who represent the earth-based administration within specific regions

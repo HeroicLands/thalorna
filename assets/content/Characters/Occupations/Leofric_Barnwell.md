@@ -588,16 +588,16 @@ Leofric's patrons are nobles and common folk alike who seek his care.
 
 ### Enemies
 
-Few; he is respected, but some traditionalists have criticised him.
+Few; he is respected, but some traditionalists have criticized him.
 
 ## Plot Hooks
 
-1. **The Physician's Dilemma** — A patient Leofric can only save with a technique the traditionalists condemn forces him to choose between his standing and the cure.
+1. **The Physician's Dilemma**—A patient Leofric can only save with a technique the traditionalists condemn forces him to choose between his standing and the cure.
 
-2. **Old Grudges** — A traditionalist among the guild's physicians turns his criticism of Leofric into a formal complaint.
+2. **Old Grudges**—A traditionalist among the guild's physicians turns his criticism of Leofric into a formal complaint.
 
-3. **Echoes of the Past** — A patient Leofric lost in his early years has a family that has not forgotten him.
+3. **Echoes of the Past**—A patient Leofric lost in his early years has a family that has not forgotten him.
 
-4. **Shifting Winds** — Political change in Aelwyth threatens the standing Leofric's noble family gives him, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Aelwyth threatens the standing Leofric's noble family gives him, and he can adapt, resist, or leave.
 
-5. **The Opportunity** — Leofric is offered the post of physician to a great house, and its price is not named up front.
+5. **The Opportunity**—Leofric is offered the post of physician to a great house, and its price is not named up front.

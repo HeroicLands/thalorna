@@ -22,7 +22,8 @@ data:
         title: Rite-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually requires — a sentence that reaches past the end of the life it is passed in.
+          Barred from the temple rites, and with them from the funerary rites every Kheperi
+          eventually requires—a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
         lore: layfaithfulrnk
@@ -32,17 +33,20 @@ data:
         title: Wab
         lore: initiaternk
         description: >-
-          "Purified One" — acolytes studying the legal codes, learning to read and write the sacred scripts, and serving as scribes and administrators within the temple complex.
+          "Purified One"—acolytes studying the legal codes, learning to read and write the sacred
+          scripts, and serving as scribes and administrators within the temple complex.
       - level: 3
         title: Hem'Netjer
         lore: priestrnk
         description: >-
-          "Servant of the God" — ordained priests serving as judges, keepers of law, and interpreters of the goddess's will.
+          "Servant of the God"—ordained priests serving as judges, keepers of law, and interpreters
+          of the goddess's will.
       - level: 4
         title: Wer'Hekau
         lore: highpriestrnk
         description: >-
-          "Great of Sacred Power" — High Priest or High Priestess of Má'át, at the head of the cult that holds the law.
+          "Great of Sacred Power"—High Priest or High Priestess of Má'át, at the head of the cult
+          that holds the law.
     offices:
       Judge: >-
         A Hem'Netjer seated to hear a case, which in this cult is a priestly function rather than a civil one.
@@ -51,13 +55,13 @@ data:
       Temple Scribe: >-
         A Wab serving as scribe and administrator within the temple complex.
       Weigher of the Heart: >-
-        Keeps the central eschatological doctrine: the postmortem weighing of the heart against the feather
-        of the goddess. It exerts genuine moral influence on daily life — even the powerful fear a negative
-        judgment, and the knowledge that wealth cannot buy a favourable verdict is a real, if imperfect,
-        check on the worst abuses of power.
+        Keeps the central eschatological doctrine: the postmortem weighing of the heart against the
+        feather of the goddess. It exerts genuine moral influence on daily life—even the powerful
+        fear a negative judgment, and the knowledge that wealth cannot buy a favorable verdict is a
+        real, if imperfect, check on the worst abuses of power.
       Legal Arbiter: >-
-        Legal arbitration is one of the recognised Hem'Netjer specialisations, and this cult supplies it.
-        Women plead in the Kenbet as well as men.
+        Legal arbitration is one of the recognized Hem'Netjer specializations, and this cult
+        supplies it. Women plead in the Kenbet as well as men.
   commonSkills:
     - maat
     - law

@@ -32,7 +32,7 @@ data:
       - level: 1
         title: Servant
         lore: servantrnk
-        description: Kept for labour about the hall and the workshops, and not of the craft.
+        description: Kept for labor about the hall and the workshops, and not of the craft.
       - level: 2
         title: Apprentice
         lore: apprenticernk
@@ -54,7 +54,7 @@ data:
         title: Warden
         lore: officerrnk
         description: >-
-          Elected to inspect the craft — its work, its weights, its prices — and to present
+          Elected to inspect the craft—its work, its weights, its prices—and to present
           offenders.
       - level: 6
         title: Assistant
@@ -81,7 +81,7 @@ data:
       Clerk: Keeper of the guild's roll, its indentures, its minutes and its correspondence.
       Beadle: Summoner of the assembly and server of its process; the guild's hands in enforcement.
       Searcher: Examiner of goods offered under the guild's mark, whose refusal ends a sale.
-      Treasurer: Keeper of the guild's box — its dues, its fines and its loans to members.
+      Treasurer: Keeper of the guild's box—its dues, its fines and its loans to members.
       Almoner: Administrator of the guild's relief to sick members, widows and orphans.
       Keeper of the Hall: Warden of the guild's house, its plate, its records and its feasts.
   commonSkills: []
@@ -94,4 +94,4 @@ data:
   relations: {}
 ---
 
-an informal but influential network of the empire's major trading houses, bound by mutual protection pacts, shared intelligence on trade routes and market conditions, and collective negotiation with foreign commercial powers. The Sebeq'Sut has no official charter or premises — its business is conducted at banquets, in private estates, and along the docks of the delta ports — but its members control a significant share of the empire's wealth and can make or break the fortunes of a nomarch who crosses them.
+an informal but influential network of the empire's major trading houses, bound by mutual protection pacts, shared intelligence on trade routes and market conditions, and collective negotiation with foreign commercial powers. The Sebeq'Sut has no official charter or premises—its business is conducted at banquets, in private estates, and along the docks of the delta ports—but its members control a significant share of the empire's wealth and can make or break the fortunes of a nomarch who crosses them.

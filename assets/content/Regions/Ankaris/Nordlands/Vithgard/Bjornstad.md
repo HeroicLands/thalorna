@@ -29,5 +29,5 @@ The royal hall is the administrative and ceremonial heart of Bjornstad, where th
 
 ## See Also
 
-- [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] — Nordmen kingdom of Vithgard
-- [[affiliation-asguardian|Asguardian Pantheon]] — Gods of the north
+- [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—Nordmen kingdom of Vithgard
+- [[affiliation-asguardian|Asguardian Pantheon]]—Gods of the north

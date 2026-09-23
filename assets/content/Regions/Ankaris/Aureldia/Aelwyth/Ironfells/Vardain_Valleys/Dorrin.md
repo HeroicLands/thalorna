@@ -3,7 +3,7 @@ tags:
   - village
   - mountain
   - frontier
-description: "The highest village, watching the eastern approaches and the sea cliffs — the Vardain's eyes, and the first to know when anything comes."
+description: "The highest village, watching the eastern approaches and the sea cliffs—the Vardain's eyes, and the first to know when anything comes."
 type: place
 subType: settlement
 data:
@@ -24,7 +24,7 @@ packFolder: aelwyth
 east toward the sea cliffs. Two hundred and eighty people, and the view.
 
 That view is the village's function. From Dorrin one can see the eastern approaches, the coast below,
-and a long stretch of water — and the Vardain have watched from here for as long as they have been in
+and a long stretch of water—and the Vardain have watched from here for as long as they have been in
 the mountains. A beacon stands above the village, laid ready, and has been lit four times in six
 hundred years.
 

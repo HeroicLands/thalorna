@@ -42,8 +42,8 @@ data:
         title: Copyist
         lore: apprenticernk
         description: >-
-          Under training in a temple — copying forms, learning the seals and the calendrical
-          schedules — and not yet permitted to file anything on another's behalf.
+          Under training in a temple—copying forms, learning the seals and the calendrical
+          schedules—and not yet permitted to file anything on another's behalf.
       - level: 3
         title: Clerk
         lore: clerkrnk
@@ -77,7 +77,7 @@ data:
           transmitted upward to its Tëng Güng and answers for it if the bureau rejects it.
     offices:
       Tëng Güng: >-
-        "Celestial Minister" — the overseer of this domain, whose power is the authority of the
+        "Celestial Minister"—the overseer of this domain, whose power is the authority of the
         office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
       Chief Intendant: >-
         Senior mortal officer of this bureau's temples, who signs what is transmitted upward.
@@ -98,13 +98,13 @@ data:
         Conducts the burning that files a sealed petition. A petition burned at the wrong censer
         reaches the wrong bureau and is lost.
       Receiver of Tribute: >-
-        Takes the sacrifice that pays a petition's carriage — coin, grain, cloth, livestock — and
+        Takes the sacrifice that pays a petition's carriage—coin, grain, cloth, livestock—and
         enters its value to the petitioner's credit.
       Advocate: >-
         Prosecutes appeals before the Supreme Administrative Court, citing precedent against a
         ruling. Most fail; the avenue exists.
       Vōrjīk Jëk: >-
-        Vōrjīk Jëk — The Lord of Fire — the being this bureau or cultus is organised around.
+        Vōrjīk Jëk—The Lord of Fire—the being this bureau or cultus is organized around.
   commonSkills:
     - vorjikjek
     - tngthkscrpt
@@ -124,7 +124,7 @@ data:
 packFolder: elementallords
 ---
 
-## Vōrjīk Jëk — The Lord of Fire
+## Vōrjīk Jëk—The Lord of Fire
 
 The Elemental Lord of Fire appears in the celestial records as a figure of austere brilliance, neither kindly nor cruel but entirely devoted to the administration of combustion and transformation. Vōrjīk Jëk does not manifest in a single form. To those who encounter the Lord through dream-petition or temple vision, he appears as a pillar of ranked flame—each tier a different classification of fire, each burning according to its appointed category and schedule. His voice, when he speaks at all, is the sound of a furnace drawing breath.
 
@@ -134,15 +134,15 @@ Unlike the Bureau Overseers, Vōrjīk Jëk answers not to a specific administrat
 
 The Lord of Fire maintains the boundary between five canonical categories of combustion, each with its own administrative protocol and governing spirits:
 
-**Hearth-Fire (Zāt Vōr)** — The domestic flames that warm homes and cook food. These are the gentlest and most regulated fires, bound to the household through the [[affiliation-zhurhot|Zātkür]] (Hearth Monitor) and subject to strict seasonal allocations. A family that maintains proper offering-protocol experiences steady, controllable hearth-fire. Those in spiritual deficit may find their hearths will not kindle, or will burn with unpredictable capriciousness.
+**Hearth-Fire (Zāt Vōr)**—The domestic flames that warm homes and cook food. These are the gentlest and most regulated fires, bound to the household through the [[affiliation-zhurhot|Zātkür]] (Hearth Monitor) and subject to strict seasonal allocations. A family that maintains proper offering-protocol experiences steady, controllable hearth-fire. Those in spiritual deficit may find their hearths will not kindle, or will burn with unpredictable capriciousness.
 
-**Forge-Fire (Höt Vōrthāk)** — The industrial fire of smithies, forges, and refineries. Vōrjīk Jëk delegates this category to a subordinate clerk-spirit called Thākhöt, who oversees the transformation of raw metals into tools and weapons. Craftspeople petition Vōrjīk Jëk not for the fire itself (they kindle it through ordinary means) but for the _purity_ and _controllability_ that make a forge reliable. A blacksmith's petition to Vōrjīk Jëk is essentially a request that his flames behave according to technique rather than whimsy.
+**Forge-Fire (Höt Vōrthāk)**—The industrial fire of smithies, forges, and refineries. Vōrjīk Jëk delegates this category to a subordinate clerk-spirit called Thākhöt, who oversees the transformation of raw metals into tools and weapons. Craftspeople petition Vōrjīk Jëk not for the fire itself (they kindle it through ordinary means) but for the _purity_ and _controllability_ that make a forge reliable. A blacksmith's petition to Vōrjīk Jëk is essentially a request that his flames behave according to technique rather than whimsy.
 
-**Ritual-Fire (Vōr Zhik)** — The burning of spirit documents, offerings, and ceremonial materials that transmit mortal petitions to the celestial filing system. This category overlaps directly with the Bureau of Transformation (Höt Sëi), and Vōrjīk Jëk maintains an ongoing administrative relationship with that bureau's overseer, Zhürhöt. The two coordinate closely to ensure that ritual burning follows proper protocol and that the celestial post office receives documents in legible spiritual form.
+**Ritual-Fire (Vōr Zhik)**—The burning of spirit documents, offerings, and ceremonial materials that transmit mortal petitions to the celestial filing system. This category overlaps directly with the Bureau of Transformation (Höt Sëi), and Vōrjīk Jëk maintains an ongoing administrative relationship with that bureau's overseer, Zhürhöt. The two coordinate closely to ensure that ritual burning follows proper protocol and that the celestial post office receives documents in legible spiritual form.
 
-**Wildfire (Vōr Hürn)** — Uncontrolled conflagrations, volcanic fire, and lightning-kindled blazes. These are classified not as corruption but as deliberate acts of controlled dissolution—punitive measures issued by higher bureaus when a region has fallen into sufficient spiritual disorder. Vōrjīk Jëk's enforcement arm, the spirit-collective known as **Dākhöt Vōr** (Wildfire Executors), carries out such directives under seal from the Ministry of Final Account or the Supreme Administrative Court.
+**Wildfire (Vōr Hürn)**—Uncontrolled conflagrations, volcanic fire, and lightning-kindled blazes. These are classified not as corruption but as deliberate acts of controlled dissolution—punitive measures issued by higher bureaus when a region has fallen into sufficient spiritual disorder. Vōrjīk Jëk's enforcement arm, the spirit-collective known as **Dākhöt Vōr** (Wildfire Executors), carries out such directives under seal from the Ministry of Final Account or the Supreme Administrative Court.
 
-**Transformation-Fire (Vōr Zhütshel)** — A metaphorical but administratively real category encompassing all change that requires destruction of the old form. Healing of wounds (burning away necrotic tissue), renewal of forests (fire clearing deadwood), and the alchemical transmutation of substances all fall under this jurisdiction. This category requires the closest coordination with the Bureau of Persistence (Zāt Sëi), since what appears to be destruction from one perspective is renewal from another.
+**Transformation-Fire (Vōr Zhütshel)**—A metaphorical but administratively real category encompassing all change that requires destruction of the old form. Healing of wounds (burning away necrotic tissue), renewal of forests (fire clearing deadwood), and the alchemical transmutation of substances all fall under this jurisdiction. This category requires the closest coordination with the Bureau of Persistence (Zāt Sëi), since what appears to be destruction from one perspective is renewal from another.
 
 ### Authority and Jurisdictional Tensions
 
@@ -166,7 +166,7 @@ The faithful petition Vōrjīk Jëk through formal offerings at temple furnaces,
 
 ### See Also
 
-- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The Celestial Bureaucracy that appointed Vōrjīk Jëk to the Elemental Lordship
-- [[affiliation-zhurhot|Zhürhöt]] — Overseer of the Bureau of Transformation, Vōrjīk Jëk's primary administrative rival
-- [[affiliation-gurnhurn|Gürnhürn]] — Overseer of the Bureau of Entropy, who uses fire as a tool of controlled dissolution
-- [[lore-tanthei|Tānthëi]] — The priestly caste who mediate petitions to the Elemental Lords
+- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]]—The Celestial Bureaucracy that appointed Vōrjīk Jëk to the Elemental Lordship
+- [[affiliation-zhurhot|Zhürhöt]]—Overseer of the Bureau of Transformation, Vōrjīk Jëk's primary administrative rival
+- [[affiliation-gurnhurn|Gürnhürn]]—Overseer of the Bureau of Entropy, who uses fire as a tool of controlled dissolution
+- [[lore-tanthei|Tānthëi]]—The priestly caste who mediate petitions to the Elemental Lords

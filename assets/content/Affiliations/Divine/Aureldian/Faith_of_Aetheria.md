@@ -22,7 +22,7 @@ data:
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out — denied the rites, the temple and the burial the faith promises, which is the one
+          Cast out—denied the rites, the temple and the burial the faith promises, which is the one
           sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
@@ -44,10 +44,12 @@ data:
         title: Somniatrix
         lore: grandmasterrnk
         description: >-
-          High Priestess or High Priest — the title is used regardless of gender — typically an elderly visionary whose dreams have guided kingdoms.
+          High Priestess or High Priest—the title is used regardless of gender—typically an elderly
+          visionary whose dreams have guided kingdoms.
     offices:
       Somniatrix: >-
-        High Priestess or High Priest — the title is used regardless of gender — typically an elderly visionary whose dreams have guided kingdoms.
+        High Priestess or High Priest—the title is used regardless of gender—typically an elderly
+        visionary whose dreams have guided kingdoms.
       Oraculi: >-
         Ordained dream-healers and interpreters of vision, trained for years in lucid dreaming and the reading of symbols.
       Noctaries: >-
@@ -78,7 +80,7 @@ packFolder: pantheonsaureldian
 
 Goddess of dreams, celestial visions, and the veil between worlds. Aethería brings divine inspiration and omens to mortals through their dreams. She is patron to seers, oracles, healers of the mind, and all who seek truth in the world beyond waking.
 
-"Aethería" is the Aurèldían name for [[lore-goddreams|The God of Dreams]] — a deity far older than any human pantheon, worshipped by the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] since before humanity existed. The Asguardian peoples know the same deity as [[affiliation-baldr|Baldr]].
+"Aethería" is the Aurèldían name for [[lore-goddreams|The God of Dreams]]—a deity far older than any human pantheon, worshipped by the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] since before humanity existed. The Asguardian peoples know the same deity as [[affiliation-baldr|Baldr]].
 
 ## Worship
 

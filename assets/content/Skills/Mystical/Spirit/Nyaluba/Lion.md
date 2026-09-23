@@ -2,7 +2,7 @@
 tags:
   - nyaluba
   - spirit-power
-description: "Standing with the lion-spirit of the Mvuzi — what an allied guide of the Nyáluba Way is met and asked with."
+description: "Standing with the lion-spirit of the Mvuzi—what an allied guide of the Nyáluba Way is met and asked with."
 type: skill
 subType: mystical
 shortcode: lionmvuzisprt
@@ -25,4 +25,4 @@ sohl:
 packFolder: spiritskillsnyaluba
 ---
 
-See [[affiliation-nyalblion|Lion Totem]] — the guide of the Mvuzi, the cattle-herders of the central grasslands.
+See [[affiliation-nyalblion|Lion Totem]]—the guide of the Mvuzi, the cattle-herders of the central grasslands.

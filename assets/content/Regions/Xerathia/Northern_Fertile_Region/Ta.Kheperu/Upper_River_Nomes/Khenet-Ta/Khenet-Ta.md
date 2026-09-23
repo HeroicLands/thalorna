@@ -24,7 +24,7 @@ Khenet-Ta is the capital of [[affiliation-nomekhenet|the Nome of Khenet-Ta]] and
 
 ## See Also
 
-- [[affiliation-nomekhenet|The Nome of Khenet-Ta]] — Parent nome
-- [[affiliation-uperivrnms|The Upper River Nomes]] — Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[affiliation-maat|Má'át]] — Patron cult
+- [[affiliation-nomekhenet|The Nome of Khenet-Ta]]—Parent nome
+- [[affiliation-uperivrnms|The Upper River Nomes]]—Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
+- [[affiliation-maat|Má'át]]—Patron cult

@@ -3,7 +3,7 @@ tags:
   - pass
   - military
   - inland
-description: "The conch-door — the easternmost and worst of the crossings, under Kālaśikhara, watched from the one standing garrison the temple-republics keep anywhere."
+description: "The conch-door—the easternmost and worst of the crossings, under Kālaśikhara, watched from the one standing garrison the temple-republics keep anywhere."
 type: place
 subType: feature
 data:
@@ -34,7 +34,7 @@ Four centuries ago a Tānvüri-backed adventurer came through this door with a f
 
 ## The Crossing Itself
 
-The upper road is a shelf cut in rock above a gorge that no one has ever measured, in a place where the wind changes without warning. The [[affiliation-hvarnguides|Hvarn]] lineage that keeps it is small, is related by marriage to half the garrison, and has never lost a party — a record it declines to explain and which the fort's commanders have long since stopped asking about.
+The upper road is a shelf cut in rock above a gorge that no one has ever measured, in a place where the wind changes without warning. The [[affiliation-hvarnguides|Hvarn]] lineage that keeps it is small, is related by marriage to half the garrison, and has never lost a party—a record it declines to explain and which the fort's commanders have long since stopped asking about.
 
 ## See Also
 

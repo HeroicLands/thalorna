@@ -17,13 +17,17 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A relatively small priesthood, because the god's worship is conducted less in sanctuaries than in the workshops, construction sites and quarries of Ta'Kheperu. Its major temples are centres of architectural knowledge and training, which keeps the priesthood current with every innovation in the building arts.
+      A relatively small priesthood, because the god's worship is conducted less in sanctuaries than
+      in the workshops, construction sites and quarries of Ta'Kheperu. Its major temples are centers
+      of architectural knowledge and training, which keeps the priesthood current with every
+      innovation in the building arts.
     ranks:
       - level: 0
         title: Rite-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually requires — a sentence that reaches past the end of the life it is passed in.
+          Barred from the temple rites, and with them from the funerary rites every Kheperi
+          eventually requires—a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
         lore: layfaithfulrnk
@@ -33,33 +37,37 @@ data:
         title: Wab
         lore: initiaternk
         description: >-
-          "Purified One" — acolytes trained at the major temples, which serve as centres of architectural knowledge.
+          "Purified One"—acolytes trained at the major temples, which serve as centers of
+          architectural knowledge.
       - level: 3
         title: Hem'Netjer
         lore: priestrnk
         description: >-
-          "Servant of the God" — ordained priests, each typically specialising in a different aspect of the craft tradition.
+          "Servant of the God"—ordained priests, each typically specializing in a different aspect
+          of the craft tradition.
       - level: 4
         title: Wer'Hekau
         lore: highpriestrnk
         description: >-
-          "Great of Sacred Power" — High Priest of Ptā'h, presiding over a priesthood whose real work is distributed through the workshops and quarries rather than gathered in sanctuaries.
+          "Great of Sacred Power"—High Priest of Ptā'h, presiding over a priesthood whose real work
+          is distributed through the workshops and quarries rather than gathered in sanctuaries.
     offices:
       Master of a Craft: >-
-        The Hem'Netjer specialising in one aspect of the craft tradition, which is how this priesthood divides its work.
+        The Hem'Netjer specializing in one aspect of the craft tradition, which is how this
+        priesthood divides its work.
       Keeper of the Building Arts: >-
         Charged with keeping the temple current with innovations and developments in building, the cult's standing resting on that currency.
       Overseer of the Works: >-
-        Directs the monumental construction — pyramids, temple complexes, obelisks, colossi — which is not
-        slave labour but organised seasonal work performed by the farming population during the flood, when
-        agricultural labour is impossible. The projects are public works programmes as much as religious
-        acts.
+        Directs the monumental construction—pyramids, temple complexes, obelisks, colossi—which is
+        not slave labor but organized seasonal work performed by the farming population during the
+        flood, when agricultural labor is impossible. The projects are public works programs as much
+        as religious acts.
       Master of the Line: >-
-        Kheperi geometry was developed in service of architecture and land surveying, the annual flood
-        erasing property boundaries and requiring constant re-measurement. Art and building alike are held
-        to be magical acts: a properly executed tomb painting does not merely depict the afterlife, it is
-        the afterlife, made real through correct form — which is why perfection of the established form is
-        valued over innovation.
+        Kheperi geometry was developed in service of architecture and land surveying, the annual
+        flood erasing property boundaries and requiring constant re-measurement. Art and building
+        alike are held to be magical acts: a properly executed tomb painting does not merely depict
+        the afterlife, it is the afterlife, made real through correct form—which is why perfection
+        of the established form is valued over innovation.
   commonSkills:
     - ptah
     - eng
