@@ -20,7 +20,7 @@ data:
   gender: null
   species: null
   age: null
-  birthday: null
+  birthday: "unknown"
   height: null
   weight: null
   frame: null
