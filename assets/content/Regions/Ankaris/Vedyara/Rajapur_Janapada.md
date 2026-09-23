@@ -1,7 +1,7 @@
 ---
 tags: []
 type: affiliation
-description: The temple-republic of Rājapur—eleven villages of the central Mahānadi plain federated around the great Vyālendra temple raised on the ruins of an ancient royal capital, governed by a sabhā that famously displaced the failing kingdom whose seat Rājapur once was. The classical example of a janapada that grew by replacing a kingdom rather than emerging beside one.
+description: The temple-republic of Rājapur—the villages of the central Mahānadi plain federated around the great Vyālendra temple raised on the ruins of an ancient royal capital, governed by a sabhā that famously displaced the failing kingdom whose seat Rājapur once was. The classical example of a janapada that grew by replacing a kingdom rather than emerging beside one.
 name:
   full: Rājapur Janapada
   aliases:
@@ -19,7 +19,7 @@ data:
     model: council
     summary: >-
       Sabhā of thirty-six members convened by the senior priest of the great Vyālendra temple,
-      with representation drawn from each of the eleven constituent villages and from the
+      with representation drawn from each constituent village and from the
       principal artisan, merchant, and scholar guilds of the central town. By long tradition
       the sabhā includes one Memory-Keeper—a hereditary office whose holder maintains the
       genealogies of the displaced royal line and recites them at the opening of every formal
@@ -113,7 +113,7 @@ terran_analog: "Medieval South Indian temple-republic that emerged from the ruin
 packFolder: vedyara
 ---
 
-The **Rājapur Janapada** is the federation of eleven villages of the central Mahānadi plain, and it took its name and its temple-seat from the ruins of an ancient royal capital. It is one of the larger and wealthier janapadas of the [[affiliation-janpdsvdyr|Mahā-Saṅgha]]. Every Vedyari political-philosophy curriculum recites it as the classical case of a janapada that **replaced** a kingdom where the others grew up beside one. The janapada holds the land of [[place-rajapurjnpd|Rājapur Janapada]].
+The **Rājapur Janapada** is the federation of the villages of the central Mahānadi plain, and it took its name and its temple-seat from the ruins of an ancient royal capital. It is one of the larger and wealthier janapadas of the [[affiliation-janpdsvdyr|Mahā-Saṅgha]]. Every Vedyari political-philosophy curriculum recites it as the classical case of a janapada that **replaced** a kingdom where the others grew up beside one. The janapada holds the land of [[place-rajapurjnpd|Rājapur Janapada]].
 
 The "King's-Town" of the name is a memory. There is no longer a king. There has not been one for nine hundred years.
 
@@ -144,7 +144,7 @@ Visiting scholars ask why a dynasty that cannot return is kept in memory at all.
 
 ## The Vyālendra Temple
 
-The great **Vyālendra temple** at Rājapur is the religious and political heart of the janapada. Vyālendra is the creator-deity of the [[affiliation-varakpnthn|Varṇaka pantheon]], the world's first light, the shaper from whom all forms emerge. The temple's main hall holds the original altar of Vyālendra, a sandstone block of remarkable craftsmanship cut at the founding of the dynastic capital twelve centuries ago, and the great hall in which the sabhā meets. The outer courts hold the four-storied granary-building, still working as the community granary, the Rājavalī Library, the school open to the children of all eleven constituent villages, and the great pilgrim hostel that takes the Vyālendra-pilgrims who come from across central Vedyara at the spring festival.
+The great **Vyālendra temple** at Rājapur is the religious and political heart of the janapada. Vyālendra is the creator-deity of the [[affiliation-varakpnthn|Varṇaka pantheon]], the world's first light, the shaper from whom all forms emerge. The temple's main hall holds the original altar of Vyālendra, a sandstone block of remarkable craftsmanship cut at the founding of the dynastic capital twelve centuries ago, and the great hall in which the sabhā meets. The outer courts hold the four-storied granary-building, still working as the community granary, the Rājavalī Library, the school open to the children of every constituent village, and the great pilgrim hostel that takes the Vyālendra-pilgrims who come from across central Vedyara at the spring festival.
 
 The senior priest of the Vyālendra temple is, by long custom, the convenor of the sabhā. **Karuṇāmaya Padma-Hasta** holds both offices. She is a woman of perhaps sixty, the third woman to hold the position in the janapada's history, and a respected theologian of the Vyālendra tradition. She has presided over the sabhā for fourteen years, and with the Memory-Keeper she is the senior ceremonial figure of the polity.
 
@@ -156,7 +156,7 @@ The merchant caste handles river-trade up and down the Mahānadi, the considerab
 
 ## Religion
 
-Beyond the great Vyālendra temple at the center, Rājapur maintains shrines to the other Varṇaka deities throughout the constituent villages—most prominently the **Mahájaya** shrine at the upstream village of Khandāpura (where farmers go to bless the irrigation works at planting season) and the **Rásikara** cremation-ground shrine at the downstream village of Mukteśvara (where the dead of all eleven villages are received). The standard Vedyari religious calendar is observed with full Rājapuri ceremonial elaboration; the Spring Festival of Vyālendra is the great annual event, drawing perhaps fifteen thousand visitors from neighboring janapadas and city-states.
+Beyond the great Vyālendra temple at the center, Rājapur maintains shrines to the other Varṇaka deities throughout the constituent villages—most prominently the **Mahájaya** shrine at the upstream village of Khandāpura (where farmers go to bless the irrigation works at planting season) and the **Rásikara** cremation-ground shrine at the downstream village of Mukteśvara (where the dead of every constituent village are received). The standard Vedyari religious calendar is observed with full Rājapuri ceremonial elaboration; the Spring Festival of Vyālendra is the great annual event, drawing perhaps fifteen thousand visitors from neighboring janapadas and city-states.
 
 A distinctive Rājapuri religious observance is the **Day of the Dissolution**, held annually on the anniversary of the sabhā's dissolution decree. On this day no business is conducted, no labor performed, and the entire population gathers in the temple precincts to hear the Memory-Keeper recite the full dynastic history and the dissolution decree from beginning to end. The recitation takes most of the day. At its conclusion every adult Rājapuri drinks a cup of Mahānadi water blessed by the senior priest, and renews the janapada's compact by it. Children attend the recitation and do not drink the cup until their fifteenth year, when they are formally enrolled as citizens.
 

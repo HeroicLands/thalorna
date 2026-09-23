@@ -99,7 +99,7 @@ terran_analog: "Medieval South Indian sabhā/ur temple-republics—Chola-era bra
 packFolder: vedyara
 ---
 
-The **Janapadas of Vedyara** are not a single polity. They are the loose confederation of the several thousand small temple-republics that hold most of [[place-vedyarargn|Vedyari]] political life, alongside the great city-states of the coast and the river and the pass-kingdom of [[affiliation-vindhyalay|Vindhyālaya]]. The confederation is the **Mahā-Saṅgha**, the "Great Council". Each janapada is itself a federation of ten to fifteen villages organized around a central temple-complex and the temple-anchored **sabhā** (assembly) that governs them. The name belongs to the whole class and to no one polity in it.
+The **Janapadas of Vedyara** are not a single polity. They are the loose confederation of the several thousand small temple-republics that hold most of [[place-vedyarargn|Vedyari]] political life, alongside the great city-states of the coast and the river and the pass-kingdom of [[affiliation-vindhyalay|Vindhyālaya]]. The confederation is the **Mahā-Saṅgha**, the "Great Council". Each janapada is itself a federation of villages organized around a central temple-complex and the temple-anchored **sabhā** (assembly) that governs them. The name belongs to the whole class and to no one polity in it.
 
 A traveling merchant from [[place-provenzrgn|Provènzia Region]] passing through Vedyara meets a man who calls himself a citizen of the **Suvarnagiri Janapada**, another who calls himself a citizen of the **Dhanurkota Janapada**, and a third who calls himself simply a **Vedyari**. All three are correct. The Mahā-Saṅgha is what lets the third answer mean something while the first two are in dispute over a water-channel.
 
@@ -109,7 +109,7 @@ A janapada is a federated cluster of villages governed through a sabhā that mee
 
 The senior priest of the central temple is usually the convenor of the sabhā. Its members are the householder representatives of each constituent village, the heads of the principal artisan and merchant guilds, and certain hereditary lineage-elders whose families have long been attached to the temple's foundation.
 
-Janapadas vary enormously in size. The smallest hold eight or nine villages and two or three thousand people. The largest govern thirty or forty villages and forty thousand souls, and their central temples have grown into pilgrimage destinations of regional importance. Most fall in the middle, at a dozen villages and ten to fifteen thousand people, governed by a sabhā of thirty to fifty members.
+Janapadas vary enormously in size. The smallest hold two or three thousand people. The largest govern forty thousand souls, and their central temples have grown into pilgrimage destinations of regional importance. Most fall in the middle, at ten to fifteen thousand people, governed by a sabhā of thirty to fifty members.
 
 The janapada owns its land collectively through the temple. A cultivator holds rights of use that pass within his family and cannot be sold to an outsider without the sabhā's consent. The temple keeps the irrigation works, the boundary stones, the granary, the genealogical records and the legal codes. The cultivators pay a tithe in produce and labor; the artisan and merchant castes pay theirs in coin and goods. The sabhā adjudicates disputes, and in particular cases the senior priest mediates.
 

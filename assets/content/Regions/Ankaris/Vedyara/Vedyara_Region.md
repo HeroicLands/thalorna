@@ -75,7 +75,7 @@ The [[affiliation-ordoarcanis|Ordo Arcanis]] has no presence in Vedyara. Vedyara
 
 Vedyara has no unified political authority and no tradition of unification, where Tānvür has both. It has three forms of polity instead, each with its own sabhā, council or court. The difference between them is most of what a Vedyari means when he says where he is from.
 
-The **janapada** is the substrate: eight to forty villages federated around a temple and governed by the temple's sabhā, holding its land through the temple and answering to no king. They are counted in thousands and they hold the great mass of the subcontinent's people; the roll is kept by the [[affiliation-janpdsvdyr|Mahā-Saṅgha]], which convenes them and does not govern them.
+The **janapada** is the substrate: a cluster of villages federated around a temple and governed by the temple's sabhā, holding its land through the temple and answering to no king. They are counted in thousands and they hold the great mass of the subcontinent's people; the roll is kept by the [[affiliation-janpdsvdyr|Mahā-Saṅgha]], which convenes them and does not govern them.
 
 The **rājya** is the kingdom: a hereditary Mahārāja advised by a martial council of clan-chieftains and a priestly court of Varṇaka brahmins, ruling his own clans directly and such janapadas as accept his patronage indirectly. When a Vedyari scholar writes of _a hundred small kingdoms_ he is counting these, and he is counting every size of them together, from a single valley with a fort in it to the pass-country of [[affiliation-vindhyalay|Vindhyālaya]].
 

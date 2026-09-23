@@ -1,7 +1,7 @@
 ---
 tags: []
 type: affiliation
-description: The temple-republic of Suvarṇagiri—fifteen villages of the Bhārava highlands federated around the gold-bearing mountain whose alluvial wash has funded their three great Mahájaya temples for fifteen centuries. Wealthy by janapada standards, philosophically restrained about its wealth, and the seat of the most respected metallurgical-and-jewelers' tradition outside Chandrapur.
+description: The temple-republic of Suvarṇagiri—the villages of the Bhārava highlands federated around the gold-bearing mountain whose alluvial wash has funded their three great Mahájaya temples for fifteen centuries. Wealthy by janapada standards, philosophically restrained about its wealth, and the seat of the most respected metallurgical-and-jewelers' tradition outside Chandrapur.
 name:
   full: Suvarṇagiri Janapada
   aliases:
@@ -20,7 +20,7 @@ data:
     summary: >-
       Sabhā of forty-eight members convened jointly (and rotationally, year by year) by the
       senior priests of the three great Mahájaya temples of Upper, Middle, and Lower Suvarṇagiri.
-      Each of the fifteen constituent villages sends two representatives; the artisan-and-merchant
+      Each constituent village sends two representatives; the artisan-and-merchant
       guilds collectively send twelve; the three temples send two each. Decisions on gold-related
       questions—extraction, taxation, allocation of the temple-share—require a three-quarters
       majority, a deliberate constitutional brake against the concentration of mineral wealth.
@@ -117,13 +117,13 @@ terran_analog: "Medieval South Indian temple-republic with mineral-resource weal
 packFolder: vedyara
 ---
 
-The **Suvarṇagiri Janapada** is the federation of fifteen villages of the Bhārava highlands, governed jointly through three great temples of **Mahájaya** that ring the slopes of the gold-bearing mountain it is named for, _Suvarṇa_ (gold) _giri_ (mountain). Its population is thirty-five thousand. It is one of the wealthier and more elaborately governed janapadas of the [[affiliation-janpdsvdyr|Mahā-Saṅgha]]. Every Vedyari political-economy treatise takes it as the case-study in how a temple-republic holds mineral wealth without failing and without turning itself into a kingdom. The janapada holds the land of [[place-suvarnagirijnpd|Suvarṇagiri Janapada]].
+The **Suvarṇagiri Janapada** is the federation of the villages of the Bhārava highlands, governed jointly through three great temples of **Mahájaya** that ring the slopes of the gold-bearing mountain it is named for, _Suvarṇa_ (gold) _giri_ (mountain). Its population is thirty-five thousand. It is one of the wealthier and more elaborately governed janapadas of the [[affiliation-janpdsvdyr|Mahā-Saṅgha]]. Every Vedyari political-economy treatise takes it as the case-study in how a temple-republic holds mineral wealth without failing and without turning itself into a kingdom. The janapada holds the land of [[place-suvarnagirijnpd|Suvarṇagiri Janapada]].
 
 That it has not failed in fifteen centuries, and has not transformed itself into a kingdom in fifteen centuries, is the central political fact of Suvarṇagiri.
 
 ## The Mountain
 
-The gold sustains more than it enriches. Across the centuries the income has gone to the building and upkeep of the three great temples, to the temple schools and the training of priests, to the irrigation works that let the fifteen villages farm difficult upland ground, and to the famine reserves. The rest goes to the **Bhārava-Devasthāna**, an endowed network of free hostels for traveling priests and ascetics, kept at twenty-three sites along the major Vedyari pilgrimage routes. Very little gold has gone into private hands, and the constitution is what keeps it out.
+The gold sustains more than it enriches. Across the centuries the income has gone to the building and upkeep of the three great temples, to the temple schools and the training of priests, to the irrigation works that let the villages farm difficult upland ground, and to the famine reserves. The rest goes to the **Bhārava-Devasthāna**, an endowed network of free hostels for traveling priests and ascetics, kept at twenty-three sites along the major Vedyari pilgrimage routes. Very little gold has gone into private hands, and the constitution is what keeps it out.
 
 ## The Three Temples
 
@@ -137,7 +137,7 @@ Three senior priests hold the temples. **Suryamāhā Hiraṇya-Pāda** of Upper 
 
 Suvarṇagiri's social structure is the standard Vedyari caste arrangement with one Suvarnagiri specialty, a body of law codified across many generations that governs how the gold is got, divided and spent. The main provisions of what is locally called the **Gold Constitution** are these:
 
-- **Hereditary panning rights** are vested in twenty-eight specific families across the fifteen villages. The number is fixed, and a new panning-family cannot be added without sabhā approval and the unanimous concurrence of the existing families. The panning families are not enriched by the work. They take a fixed wage from the sabhā and turn the gold they win over to the central temple weighing-station.
+- **Hereditary panning rights** are vested in twenty-eight specific families across the villages. The number is fixed, and a new panning-family cannot be added without sabhā approval and the unanimous concurrence of the existing families. The panning families are not enriched by the work. They take a fixed wage from the sabhā and turn the gold they win over to the central temple weighing-station.
 - **Temple share** is one-half of all extracted gold, distributed in equal thirds among the three temples for the maintenance of their physical fabric, the support of their staff, and the funding of the schools and pilgrimage hostels.
 - **Common share** is one-quarter of all extracted gold, deposited in the **common treasury** at Middle Suvarṇagiri and used for famine reserves, irrigation works, and emergency expenditures authorized by the sabhā.
 - **Distribution share** is one-quarter of all extracted gold, paid out yearly to every Suvarnagiri household. The payment is by household and not by head, so a household of two takes what a household of ten takes and the gold does not gather again in the larger families.

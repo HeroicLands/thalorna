@@ -2,7 +2,7 @@
 tags:
   - region
   - endowed
-description: "The land of the Suvarṇagiri Janapada—fifteen villages in a wedge of upland at the Bhārava headwaters, ringing the gold-bearing mountain whose streams are panned for alluvial gold."
+description: "The land of the Suvarṇagiri Janapada—villages in a wedge of upland at the Bhārava headwaters, ringing the gold-bearing mountain whose streams are panned for alluvial gold."
 name:
   full: Suvarṇagiri Janapada
   aliases: []
@@ -29,6 +29,20 @@ Its territory occupies a triangular wedge of upland country at the headwaters of
 Suvarṇagiri the mountain is a moderately sized peak, perhaps three thousand feet above the surrounding country. It is weathered metamorphic rock, and thin veins of native gold run through it.
 
 The veins themselves have never been mined. The gold taken at Suvarṇagiri is **alluvial**. The seasonal rains wash it out of the mountain, it gathers in the streams and small rivers that drain the slopes, and hereditary panning-families pan it out by techniques fifty generations have refined. The streams give perhaps six to eight hundred ounces of gold in a typical year, somewhat more in a wet one and somewhat less in a drought. That is no fortune by the standards of the great Vedyari kingdoms. For a janapada of thirty-five thousand people it is a significant and sustained income.
+
+## Settlements
+
+```sql
+SELECT address.slug AS _ref,
+       name.full       AS "Settlement",
+       data.population AS "Population",
+       description     AS "Overview"
+FROM entries
+WHERE type = 'place'
+  AND subType = 'settlement'
+  AND list_contains(data.parents, 'suvarnagirijnpd')
+ORDER BY name.full COLLATE NOCASE
+```
 
 ## Economy
 

@@ -1,7 +1,7 @@
 ---
 tags: []
 type: affiliation
-description: The temple-republic of Dhanurkota—fourteen villages of the upper Sarvada valley federated around the ancient bow-fort and its great temple of Mahájaya, governed by a sabhā with an unusually strong warrior-caste presence and famed across Vedyara for its archery academies.
+description: The temple-republic of Dhanurkota—the villages of the upper Sarvada valley federated around the ancient bow-fort and its great temple of Mahájaya, governed by a sabhā with an unusually strong warrior-caste presence and famed across Vedyara for its archery academies.
 name:
   full: Dhanurkota Janapada
   aliases:
@@ -18,7 +18,7 @@ data:
     model: council
     summary: >-
       Sabhā of forty-two members convened by the senior priest of the Mahájaya temple, with
-      proportional representation from the fourteen constituent villages and reserved seats
+      proportional representation from the constituent villages and reserved seats
       for the masters of the four great archery academies. The sabhā meets monthly during
       the campaign season and bi-monthly during the rest of the year; major decisions require
       a two-thirds concurrence.
@@ -115,7 +115,7 @@ terran_analog: "Medieval South Indian temple-republic with a martial-caste speci
 packFolder: vedyara
 ---
 
-The **Dhanurkota Janapada** is the federation of fourteen villages of the upper Sarvada river valley, governed jointly through the great hall of the **Mahájaya temple** at Dhanurkota. The town is the "Bow-Fort" the janapada takes its name from.
+The **Dhanurkota Janapada** is the federation of the villages of the upper Sarvada river valley, governed jointly through the great hall of the **Mahájaya temple** at Dhanurkota. The town is the "Bow-Fort" the janapada takes its name from.
 
 It is one of perhaps eighty similar janapadas of the **Sarvada circuit**, which is the reckoning that matters at the Mela. A janapada is counted there with the others that drink the same river, and not with the several thousand of the [[affiliation-janpdsvdyr|Mahā-Saṅgha]] entire. Dhanurkota is neither large nor wealthy by Vedyari standards.
 

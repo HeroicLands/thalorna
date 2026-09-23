@@ -2,7 +2,7 @@
 tags:
   - region
   - endowed
-description: "The land of the Dhanurkota Janapada—fourteen villages along a defensible curve of the upper Sarvada, around the ancient bow-fort where the river leaves the northern hills."
+description: "The land of the Dhanurkota Janapada—villages along a defensible curve of the upper Sarvada, around the ancient bow-fort where the river leaves the northern hills."
 name:
   full: Dhanurkota Janapada
   aliases: []
@@ -29,6 +29,20 @@ Its population is thirty thousand; its territory occupies a long defensible curv
 The town of Dhanurkota is built on a low fortified hill where the Sarvada bends west around an outcrop of red rock. The fort itself is older than the janapada—older, indeed, than the Mahā-Saṅgha, older than the temples, older perhaps than the Vedyari language itself. Its lowest courses are megalithic, of a construction-style that no living mason knows how to reproduce; the upper walls have been rebuilt many times in successive Vedyari styles. The fort encloses the **Mahájaya temple**, the four academy halls, the sabhā chamber, and the granary; the town proper spreads down the slope below the walls and along the riverbank.
 
 The fort's name has always been Dhanurkota. The meaning of the word is contested. Some scholars derive _dhanur_ from the bow that has been the janapada's emblem since before recorded history. Others derive it from a much older root meaning a bend or curve in a river, which is likely the truer account. The bow came to the name after the academies were founded, and nothing will get it out again.
+
+## Settlements
+
+```sql
+SELECT address.slug AS _ref,
+       name.full       AS "Settlement",
+       data.population AS "Population",
+       description     AS "Overview"
+FROM entries
+WHERE type = 'place'
+  AND subType = 'settlement'
+  AND list_contains(data.parents, 'dhanurkotajnpd')
+ORDER BY name.full COLLATE NOCASE
+```
 
 ## Society
 
