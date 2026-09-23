@@ -1,6 +1,6 @@
 ---
-tags:
-  - draft
+tags: []
+description: "The Wild Beast of the Aurèldián pantheon — chaos, and the wilderness no law reaches into."
 type: lore
 subType: deity
 name:
@@ -9,5 +9,3 @@ name:
 shortcode: karnavosdty
 packFolder: deitiesaureldian
 ---
-
-TBD

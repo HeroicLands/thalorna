@@ -530,7 +530,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Társia is tall for a woman — 6'1" — with a heavy, powerful build that commands attention in any formation. Her auburn hair is tied back in a thick braid that reaches the middle of her back, and her honey-brown eyes carry the steady, appraising look of an officer who has learned to assess threats before they arrive. Her medium-toned skin is weathered from years on the [[place-kavrenath|Kávrenath]] frontier, and her nose is crooked from a break she took during a border skirmish, since healed but never straightened. Her hands are large and calloused, and she moves with the deliberate economy of someone trained to carry armor over long distances. She wears a mail habergeon over a gambeson tunic, both bearing the dust and minor repairs of active frontier service, and keeps a broadsword and round shield within arm's reach at all times.
+Társia is tall for a woman — 6'1" — with a heavy, powerful build that commands attention in any formation. Her auburn hair is tied back in a thick braid that reaches the middle of her back, and her honey-brown eyes carry the steady, appraising look of an officer who has learned to assess threats before they arrive. Her medium-toned skin is weathered from years on the Kávrenath frontier, and her nose is crooked from a break she took during a border skirmish, since healed but never straightened. Her hands are large and calloused, and she moves with the deliberate economy of someone trained to carry armor over long distances. She wears a mail habergeon over a gambeson tunic, both bearing the dust and minor repairs of active frontier service, and keeps a broadsword and round shield within arm's reach at all times.
 
 # Dossier {#dossier}
 

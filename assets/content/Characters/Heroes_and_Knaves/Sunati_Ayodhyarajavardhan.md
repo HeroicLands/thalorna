@@ -625,7 +625,7 @@ Now, at twenty-eight, Sunáti has moved beyond simply accepting patronage to con
 
 Sunáti is a paradox: deeply known and profoundly hidden. She possesses genuine warmth and affection for those in her circle, yet maintains absolute control over which aspects of herself she reveals. Her conversation is luminous with intelligence, humor, and insight—she is never merely decorative but always a presence that elevates any gathering. Yet this very excellence creates distance; most of those who encounter her are aware that what they are experiencing is, in some sense, a performance—exquisitely crafted, but performance nonetheless.
 
-She is introspective and melancholic when alone, prone to philosophical reflection on the nature of connection and authenticity. She practices the worship of [[lore-vyalendradty|Vyālendra]], the creation-goddess, and views her work as a form of creation—the creation of beauty, meaning, and transcendent experiences in the lives of those who seek her company. She is neither cynical nor naive about her work; she understands fully both its value and its limitations.
+She is introspective and melancholic when alone, prone to philosophical reflection on the nature of connection and authenticity. She practices the worship of Vyālendra, the creation-goddess, and views her work as a form of creation—the creation of beauty, meaning, and transcendent experiences in the lives of those who seek her company. She is neither cynical nor naive about her work; she understands fully both its value and its limitations.
 
 ### Motivation
 

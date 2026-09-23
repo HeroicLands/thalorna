@@ -66,7 +66,7 @@ Tha [[place-aulpnpstmm|Aula Panepistemium]] is the ceremonial headquarters of th
 
 Rising above all of it is the **[[place-palatimgnm|Palatium Magnum]]** — the largest and grandest single structure in Magnápolis, and therefore in the known western world. It is less a building than a small city of its own: tier upon tier of marble halls, colonnaded courtyards, hanging gardens, private baths, throne rooms, and audience chambers, all rising in terraces up and over the crown of the hill. Gold leaf, porphyry, and rare colored marbles from every conquered land sheathe its surfaces. Its private gardens are watered by dedicated aqueducts; its great bronze gates are taller than three men.
 
-It is here, within the Palatium Magnum, that the [[affiliation-ordoarcanis|Ordo Arcanis]] is permitted — _encouraged_, even — to show off (see the Hand of the Ordo Arcanis, and the [[place-magngndorery|Mechanical Court]], in the [[place-magnapolis|Magnápolis]] note).
+It is here, within the Palatium Magnum, that the [[affiliation-ordoarcanis|Ordo Arcanis]] is permitted — _encouraged_, even — to show off (see the Hand of the Ordo Arcanis, and the Mechanical Court, in the [[place-magnapolis|Magnápolis]] note).
 
 ### See Also
 

@@ -652,7 +652,7 @@ Herjúlf is motivated by a desire to work at his craft with complete mastery, an
 
 - **The Builders' Collective**: An informal association of craftsmen engaged in major construction projects in Nordheim's cities depends on Herjúlf for special timber that must meet exacting standards; they pay well and do not question his methods.
 
-- **High Priestess Sigrún**: The priestess of [[lore-thorrdty|Thórr]] in the nearest settlement views Herjúlf as a genuine worshipper of the storm god through his craft and occasionally calls upon him for advice on matters of practical implementation in temple construction.
+- **High Priestess Sigrún**: The priestess of Thórr in the nearest settlement views Herjúlf as a genuine worshipper of the storm god through his craft and occasionally calls upon him for advice on matters of practical implementation in temple construction.
 
 - **Alderman Bórrin**: The local administrative leader respects Herjúlf's integrity and supports him against occasional attempts to regulate or control the forests from which he harvests.
 

@@ -654,7 +654,7 @@ Guthrún seeks only to live with integrity in a world that grows increasingly di
 
 - **House Nordthorne**: A noble family that has maintained standing contracts with Guthrún for the finest furs and wilderness supplies; they pay well and respect her skill
 - **Harvin's Fur Trading Company**: The primary commercial outlet for Guthrún's work, run by an aging merchant named **Harvin Coldwater** who has worked with her for over a decade and views her as indispensable
-- **Priest Aldwin of the [[lore-freyrdty|Fréyr]]'s Temple**: A spiritual authority who has taken interest in Guthrún's deepening moral philosophy and occasionally contracts her for wilderness-based spiritual retreats and teachings
+- **Priest Aldwin of the Fréyr's Temple**: A spiritual authority who has taken interest in Guthrún's deepening moral philosophy and occasionally contracts her for wilderness-based spiritual retreats and teachings
 
 ### Enemies
 

@@ -1,6 +1,6 @@
 ---
-tags:
-  - draft
+tags: []
+description: "The Eternal Preserver of the Varṇaka pantheon, holding order and the grain a settled order rests on."
 type: lore
 subType: deity
 name:
@@ -9,5 +9,3 @@ name:
 shortcode: mahajayadty
 packFolder: deitiesvarnaka
 ---
-
-TBD

@@ -22,7 +22,7 @@ packFolder: harad
 
 ## Overview
 
-Tamavar is the city of the city-state of [[affiliation-tamavar|Tamavar]], the largest and wealthiest of the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]], on the coast of [[place-haradregin|Harad Region]].
+Tamavar is the city of the city-state of [[affiliation-tamavar|Tamavar]], the largest and wealthiest of the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]], on the coast of Harad Region.
 
 ## Character
 
@@ -41,4 +41,4 @@ Tamavar's harbor is the finest on the [[place-vylarianse|Vylarian Sea]] — a de
 
 - [[affiliation-tamavar|Tamavar]] — The city-state
 - [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — The confederation it leads
-- [[place-haradregin|Harad Region]] — Regional overview
+- Harad Region — Regional overview

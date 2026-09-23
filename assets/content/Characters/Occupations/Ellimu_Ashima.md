@@ -557,7 +557,7 @@ Ellimû Ashîmâ is a 42-year-old man who stands 5'10" tall and is broad and sol
 
 # Dossier {#dossier}
 
-Born in the [[place-haradregin|Harad]] region to a freeman family of Haradian heritage, Ellimû Ashîmâ came into the world of the teamster through a combination of circumstance and aptitude.
+Born in the Harad region to a freeman family of Haradian heritage, Ellimû Ashîmâ came into the world of the teamster through a combination of circumstance and aptitude.
 
 Ellimû has spent his life transporting goods across the countryside, driving wagons filled with everything from grain to lumber. He knows the trade routes well and has a reputation for getting cargo to its destination on time, no matter the conditions. While reliable and hardworking, Ellimû is a bit rough around the edges and can be gruff with strangers.
 

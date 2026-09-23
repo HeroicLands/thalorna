@@ -34,4 +34,4 @@ The capital, **Torváleth**, is the largest town in Tarvénia — a prosperous m
 
 - [[affiliation-kingdmlnrk|Kingdom of Léonrik]] — The kingdom that holds this land
 - [[place-tarvenirgn|Tarvénia Region]] — The enclosing region
-- [[place-montana|Montaña]] — The seat
+- Montaña — The seat

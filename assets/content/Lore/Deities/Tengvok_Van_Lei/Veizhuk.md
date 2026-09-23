@@ -1,6 +1,6 @@
 ---
-tags:
-  - draft
+tags: []
+description: "The Jade Sovereign of the Tëngvōk Vān Lëi, at the head of the celestial bureaucracy and answerable for its whole administration."
 type: lore
 subType: deity
 name:
@@ -9,5 +9,3 @@ name:
 shortcode: veizhukdty
 packFolder: deitiestengvokvanlei
 ---
-
-TBD

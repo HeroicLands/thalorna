@@ -1,6 +1,6 @@
 ---
-tags:
-  - draft
+tags: []
+description: "The pastoral tribes of the Okháris savanna, reckoned apart from the region's temple-cities."
 type: place
 subType: settlement
 data:
@@ -15,5 +15,3 @@ name:
 shortcode: okhrstrbsplchldr
 packFolder: tribes
 ---
-
-TBD

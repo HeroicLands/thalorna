@@ -3,6 +3,7 @@ tags: []
 name:
   full: Extratemporality
   aliases: []
+description: "Perceives an event at a remove in time rather than in distance."
 shortcode: xtratemp
 type: mysticalability
 subType: arcanetalent

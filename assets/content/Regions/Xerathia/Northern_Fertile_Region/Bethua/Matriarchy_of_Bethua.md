@@ -175,7 +175,7 @@ The sacred pillar is the **temple** — but a specific part of it. Bethûans ven
 - **The Order of [[affiliation-arldnpnthn|Aethería]]** (dreams, the unseen) — the **oracular order**, keepers of divination, dream-incubation, and the reading of omens that legitimise elections and ratify great decisions of state. It is here that Kheperi religious influence shows most: Aethérían practice has absorbed Kheperi techniques of divination and judgement, and Bethûan oracles speak of the "weighing" of a candidate's worth in language a [[affiliation-empirtkhpr|Kheperi]] priest would recognise. The faith remains wholly Aurèldían; the method has travelled.
 - **The Order of [[affiliation-arldnpnthn|Vénusia]]** (prosperity, pleasure) — the order of fertility, festival, marriage, and the **blessing of commerce**. Its temples consecrate the contracts and voyages of the [[affiliation-bthntrdhss|Trade-Houses]], and its clergy are the most worldly and the best-endowed of the three.
 
-The governing body of the pillar is the **Sacred College** (Bethûan: _the Hieróssa_) — the assembled high priestesses of the three orders and of the great temples, sitting in council at the capital, [[place-bethura|Bethûra]]. The College is the realm's spiritual authority, its highest religious court, and — decisively — its **electoral body**: it is the College that elects each new Mêtríssa.
+The governing body of the pillar is the **Sacred College** (Bethûan: _the Hieróssa_) — the assembled high priestesses of the three orders and of the great temples, sitting in council at the capital, Bethûra. The College is the realm's spiritual authority, its highest religious court, and — decisively — its **electoral body**: it is the College that elects each new Mêtríssa.
 
 ### Title-ladder of the sacred pillar
 
@@ -195,7 +195,7 @@ The order's expertise — and its institutional vocabulary — is the most visib
 
 The secular pillar is the **clans**. Bethûan society is organised into matriarchal **Houses** — extended kin-networks holding land, title, and political standing, inherited from mother to daughter. The head of a House is a **Dómissa** (pl. _Dómissai_; "House-Mother," from Helonic _domos_, "house"). The Dómissai are the secular aristocracy of Bethûa: they hold the coastal villa-estates and the interior grain-lands, they sit in judgement over their clansfolk, and they fill the offices of civil government.
 
-The governing body of the pillar is the **Council of Houses** (Bethûan: _the Sünédra_) — the assembled Dómissai of the recognised clans, sitting at [[place-bethura|Bethûra]]. The Sünédra is the secular legislature and high court of the realm: it ratifies law, votes the levies and taxes, adjudicates disputes between Houses, and speaks for the temporal interests of the aristocracy against the temple.
+The governing body of the pillar is the **Council of Houses** (Bethûan: _the Sünédra_) — the assembled Dómissai of the recognised clans, sitting at Bethûra. The Sünédra is the secular legislature and high court of the realm: it ratifies law, votes the levies and taxes, adjudicates disputes between Houses, and speaks for the temporal interests of the aristocracy against the temple.
 
 > **Note on the Trade-Houses.** The [[affiliation-bthntrdhss|Trade-Houses]] and their own **Council of Matriarchs** are a _third, de facto_ power — a commercial federation, not an organ of the state. But the spheres interlock at the level of persons: the matriarchs of the great trading clans (the _An'Bet_) are themselves Dómissai who sit in the Sünédra, and many sit in the Sacred College besides. A Bethûan grandee may be at once a Dómissa of the Council of Houses, a Hiérissa of the Sacred College, and the matriarch of a Great Trade-House. The institutions are distinct; the women who staff them are not.
 
@@ -295,4 +295,4 @@ The genius and the fragility of the Bethûan constitution is that **neither pill
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — the faith of the sacred pillar
 - [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — the patron-neighbour whose institutions shaped the liberation-era state
 - [[affiliation-perhati|Pér-Háti]] — the Kheperi temple-treasury on which Bethûa's fisc is modelled
-- [[place-bethura|Bethûra]] — the capital, seat of both councils
+- Bethûra — the capital, seat of both councils

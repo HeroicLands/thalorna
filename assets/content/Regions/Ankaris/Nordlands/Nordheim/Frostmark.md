@@ -17,15 +17,3 @@ name:
 shortcode: frostmark
 packFolder: nordheim
 ---
-
-## Overview
-
-_To be written._
-
-## Notable Features
-
-_To be written._
-
-## Notable Figures
-
-_To be written._

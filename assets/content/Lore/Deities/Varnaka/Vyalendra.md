@@ -1,6 +1,6 @@
 ---
-tags:
-  - draft
+tags: []
+description: "The Shaper of Worlds in the Varṇaka pantheon, from whose golden lotus each cycle of creation opens."
 type: lore
 subType: deity
 name:
@@ -9,5 +9,3 @@ name:
 shortcode: vyalendradty
 packFolder: deitiesvarnaka
 ---
-
-TBD

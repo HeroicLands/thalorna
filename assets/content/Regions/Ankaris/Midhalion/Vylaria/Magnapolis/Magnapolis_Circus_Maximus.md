@@ -1,6 +1,5 @@
 ---
-tags:
-  - draft
+tags: []
 description: "Circus Maximus"
 name:
   full: Circus Maximus
@@ -16,5 +15,3 @@ data:
 shortcode: circusmaximusmagnapls
 packFolder: vylaria
 ---
-
-TBD

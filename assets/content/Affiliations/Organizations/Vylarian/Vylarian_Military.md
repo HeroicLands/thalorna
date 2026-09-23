@@ -103,7 +103,7 @@ data:
 ---
 
 - **Type:** Imperial military institution
-- **Region of operation:** [[affiliation-vylarinmpr|Vylaria]] proper and [[place-helionis|Heliónis]] — the territories under direct imperial governance. The legions do _not_ freely operate in [[place-aureldirgn|Aurèldía]] or [[place-byzariargn|Byzaría]], which have their own armies; nor in [[place-haradregin|Harad]] since the secession; nor anywhere else outside imperial territory except by invitation or hire.
+- **Region of operation:** [[affiliation-vylarinmpr|Vylaria]] proper and [[place-helionis|Heliónis]] — the territories under direct imperial governance. The legions do _not_ freely operate in [[place-aureldirgn|Aurèldía]] or [[place-byzariargn|Byzaría]], which have their own armies; nor in Harad since the secession; nor anywhere else outside imperial territory except by invitation or hire.
 - **Supreme commander:** The reigning **Augustar** (Emperor)
 - **Operational command:** The **Dux Bellorum** at Magnápolis, presiding over the war council of **Comares Augustari**
 

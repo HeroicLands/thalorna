@@ -557,7 +557,7 @@ Pâtûri Lamûshî is a 50-year-old woman who stands 5'9" tall and is solidly bu
 
 # Dossier {#dossier}
 
-Pâtûri Lamûshî is a cook of Azhûn, the port city at the mouth of the Alz in [[place-haradregin|Harad]], a Haradian freewoman of a guild family who is head cook to one of the factors' houses that rule the city.
+Pâtûri Lamûshî is a cook of Azhûn, the port city at the mouth of the Alz in Harad, a Haradian freewoman of a guild family who is head cook to one of the factors' houses that rule the city.
 
 Pâtûri came up through the kitchens of Azhûn from scullery to spit to the head of the table, and she has cooked for Kheperi captains, Vylarian envoys and the whole of the House of Factors at a sitting. For eleven years she has kept the kitchen of a factor's house on the harbour, with a staff of six under her and the household's whole name for hospitality in her hands. A Haradian house does its business over its table, and a factor who feeds a Kheperi captain badly loses the cargo before the sweet is served. Her honeyed pastries are known across the harbour, and so is her temper; she has driven out two kitchen hands this year for a sauce that was nearly right.
 
