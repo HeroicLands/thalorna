@@ -35,7 +35,7 @@
         "build:assets": "package-build assets",
         "build:compiledb": "content-build package compile",
         "build:unpackdb": "content-build package unpack",
-        "lint": "run-s lint:format lint:markdown lint:lang lint:addresses lint:content-links lint:labels",
+        "lint": "run-s lint:format lint:markdown lint:lang lint:addresses lint:content-links lint:history lint:labels",
         "lint:format": "content-build format",
         "lint:markdown": "content-build markdown",
         "lint:markdown:fix": "content-build markdown --fix",
@@ -64,6 +64,7 @@
         "changeset:check": "changeset status --since=origin/main",
         "build:content-index": "content-build content-index",
         "lint:lang": "package-build lang check",
+        "lint:history": "node utils/history-spine.mjs",
         "lint:labels": "package-build labels check",
         "build:module": "package-build manifest"
     },
