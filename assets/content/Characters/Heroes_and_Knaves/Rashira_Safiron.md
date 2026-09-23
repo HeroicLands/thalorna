@@ -654,18 +654,10 @@ She is not naive. She knows Vylaria wants the register to wage its own war, not 
 
 ## Plot Hooks
 
-1. **The Race East**:
+1. **The Race East**: Every road through the [[affiliation-jcklsthmrchs|Marches]] toward the Kheperi frontier is watched, bought, or blocked—[[being-casiaveric|Cassia's]] quiet work—while [[being-zahirmlkht|Zahira]] closes from behind. Rashîra needs guides, passage, and protection she cannot pay for in trust, and must decide which devil on the road to bargain with to keep moving toward [[affiliation-empirtkhpr|Wasetkara]] and Má'át's justice.
 
-   Every road through the [[affiliation-jcklsthmrchs|Marches]] toward the Kheperi frontier is watched, bought, or blocked—[[being-casiaveric|Cassia's]] quiet work—while [[being-zahirmlkht|Zahira]] closes from behind. Rashîra needs guides, passage, and protection she cannot pay for in trust, and must decide which devil on the road to bargain with to keep moving toward [[affiliation-empirtkhpr|Wasetkara]] and Má'át's justice.
+2. **The Hunter Turned**: Cornered at last by [[being-zahirmlkht|Zahira]], Rashîra offers not a fight but the register itself: _read it, and see what you are sent to bury._ It is her one real hope—that the only pursuer with no stake in the crime can be made to carry the truth instead of burning it. The scene is the hinge of the whole affair.
 
-2. **The Hunter Turned**:
+3. **The Weight of the Original**: The purple roll is nearly lost—a river crossing, a fire, a blade through a saddlebag—and every party in the Marches must suddenly reckon with how fragile the only proof in the world really is. Rashîra, who would rather see it destroyed than fall to Vylaria or the Veil, may have to choose whether to burn her life's last leverage to keep it from the wrong hands.
 
-   Cornered at last by [[being-zahirmlkht|Zahira]], Rashîra offers not a fight but the register itself: _read it, and see what you are sent to bury._ It is her one real hope—that the only pursuer with no stake in the crime can be made to carry the truth instead of burning it. The scene is the hinge of the whole affair.
-
-3. **The Weight of the Original**:
-
-   The purple roll is nearly lost—a river crossing, a fire, a blade through a saddlebag—and every party in the Marches must suddenly reckon with how fragile the only proof in the world really is. Rashîra, who would rather see it destroyed than fall to Vylaria or the Veil, may have to choose whether to burn her life's last leverage to keep it from the wrong hands.
-
-4. **No Clean Hands in Wasetkara**:
-
-   Should she reach [[affiliation-empirtkhpr|Ta'Kheperu]], Rashîra finds the court is no sanctuary but another snake-pit: factions that would wield the register, factions that would bury it, and the Kheperi fences of the stolen dead who want her and her proof gone. Having crossed the world to deliver the truth, she must now find the one hand clean enough to give it to.
+4. **No Clean Hands in Wasetkara**: Should she reach [[affiliation-empirtkhpr|Ta'Kheperu]], Rashîra finds the court is no sanctuary but another snake-pit: factions that would wield the register, factions that would bury it, and the Kheperi fences of the stolen dead who want her and her proof gone. Having crossed the world to deliver the truth, she must now find the one hand clean enough to give it to.

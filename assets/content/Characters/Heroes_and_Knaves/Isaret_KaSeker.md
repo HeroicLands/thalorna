@@ -642,18 +642,10 @@ Isaret is cunning, resourceful, and often prefers working in the shadows. She is
 
 ## Plot Hooks
 
-1. **The Secrets of Akh-Menraa**:
+1. **The Secrets of Akh-Menraa**: Isaret discovers that a fragment of the Akh-Menraa’s dangerous research has surfaced in a noble court outside [[affiliation-empirtkhpr|Ta’Kheperu]]. A desperate courier smuggles the information to her, revealing that Neferha’s experiments could disrupt the spiritual balance of an entire region. Isaret must infiltrate the court and retrieve or destroy the evidence before Neferha’s agents can exploit it, risking her safety to maintain the secrecy of her past affiliations.
 
-   Isaret discovers that a fragment of the Akh-Menraa’s dangerous research has surfaced in a noble court outside [[affiliation-empirtkhpr|Ta’Kheperu]]. A desperate courier smuggles the information to her, revealing that Neferha’s experiments could disrupt the spiritual balance of an entire region. Isaret must infiltrate the court and retrieve or destroy the evidence before Neferha’s agents can exploit it, risking her safety to maintain the secrecy of her past affiliations.
+2. **The Spirit’s Debt**: While traveling with her companions, Isaret encounters the lingering spirit of a thief who once helped her escape from Ta’Kheperu. The spirit claims it is bound to the mortal realm due to unfinished business linked to Isaret’s actions. To grant the spirit peace, Isaret must uncover the truth about a heist gone wrong, balancing her loyalty to her past with her present mission.
 
-2. **The Spirit’s Debt**:
+3. **The Whispering Dagger**: An artifact Isaret carries, a dagger gifted to her by her benefactor in Ta’Kheperu, begins to emit strange whispers that only she can hear. These whispers guide her toward secrets and hidden paths but come at the cost of attracting the attention of those who fear or revere the artifact’s power. Isaret must decide whether to embrace the dagger’s guidance or seek to rid herself of its influence.
 
-   While traveling with her companions, Isaret encounters the lingering spirit of a thief who once helped her escape from Ta’Kheperu. The spirit claims it is bound to the mortal realm due to unfinished business linked to Isaret’s actions. To grant the spirit peace, Isaret must uncover the truth about a heist gone wrong, balancing her loyalty to her past with her present mission.
-
-3. **The Whispering Dagger**:
-
-   An artifact Isaret carries, a dagger gifted to her by her benefactor in Ta’Kheperu, begins to emit strange whispers that only she can hear. These whispers guide her toward secrets and hidden paths but come at the cost of attracting the attention of those who fear or revere the artifact’s power. Isaret must decide whether to embrace the dagger’s guidance or seek to rid herself of its influence.
-
-4. **The Fugitive’s Shadow**:
-
-   A former ally who escaped with Isaret during her flight from Ta’Kheperu resurfaces, now operating as a high-profile agent in a rival kingdom. This person’s actions threaten to expose Isaret’s identity to Neferha’s spies, forcing her to confront her former ally in a game of wits and deception, where the cost of failure could mean capture or death.
+4. **The Fugitive’s Shadow**: A former ally who escaped with Isaret during her flight from Ta’Kheperu resurfaces, now operating as a high-profile agent in a rival kingdom. This person’s actions threaten to expose Isaret’s identity to Neferha’s spies, forcing her to confront her former ally in a game of wits and deception, where the cost of failure could mean capture or death.
