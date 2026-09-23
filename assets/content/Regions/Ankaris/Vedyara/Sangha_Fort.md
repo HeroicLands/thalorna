@@ -20,13 +20,13 @@ shortcode: sanghafort
 packFolder: vedyara
 ---
 
-The **Saṅgha-fort** stands on the Vedyari col of [[place-sankhadvra|Śaṅkhadvāra]], under the black face of [[place-kalashkhra|Kālaśikhara]]. It is a squat stone work with a cistern, a granary, a signal-tower and quarters for about sixty men, and it is the only standing garrison the [[affiliation-janpdsvdyr|Mahā-Saṅgha]] maintains anywhere in Vedyara.
+The **Saṅgha-fort** stands on the Vedyari col of [[place-sankhadvra|Śaṅkhadvāra]], under the black face of [[place-kalashkhra|Kālaśikhara]]. It is a squat stone work with a cistern, a granary, a signal-tower and quarters for sixty men, and it is the only standing garrison the [[affiliation-janpdsvdyr|Mahā-Saṅgha]] maintains anywhere in Vedyara.
 
 ## Why It Is There
 
 Four centuries ago an adventurer with Tānvüri backing brought a force through the conch-door into the eastern janapadas. The temple-republics, which have no army and no mechanism for raising one, raised one, and put him back out through the door he had come in by.
 
-They have never raised another. What they have done instead is keep the fort—garrisoned, provisioned and manned in rotation by the janapadas of the eastern circuits—so that the precedent survives in a building rather than in an argument. The [[affiliation-janpdsvdyr|Mahā-Saṅgha]] is jealous of it out of all proportion to its military value, which is nearly nil, because the fort is the standing answer to the question of whether the confederation can act as one, and it answers yes without anyone having to say so at a Mela.
+They have never raised another. They keep the fort instead, garrisoned, provisioned and manned in rotation by the janapadas of the eastern circuits, so that the precedent survives in a building and nobody has to argue it. The [[affiliation-janpdsvdyr|Mahā-Saṅgha]] is jealous of the place out of all proportion to its military value, which is nearly nil. The fort is the standing answer to the question of whether the confederation can act as one, and it answers yes without anyone saying so at a Mela.
 
 ## The Quarrel
 

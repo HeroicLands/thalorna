@@ -23,7 +23,7 @@ sohl:
 packFolder: cash
 ---
 
-The **candra** is silver, struck at [[affiliation-chandrapur|Chandrapur]] under the Moon House's seal, and reckoned at eight [[miscgear-tamra|tāmra]]. It is the coin of ordinary formal commerce—a craftsman's contract, a caravan's toll, a season's rent—where a purse of copper would be too heavy to carry and a suvarṇa too large to make change for.
+The **candra** is silver, struck at [[affiliation-chandrapur|Chandrapur]] under the Moon House's seal, and reckoned at eight [[miscgear-tamra|tāmra]]. It is the coin of ordinary formal commerce: a craftsman's contract, a caravan's toll, a season's rent. A purse of copper would be too heavy to carry for any of them, and a suvarṇa too large to make change for.
 
 Only the Moon House strikes it, and its mint mark is trusted well past Chandrapur's own borders; a candra is weighed rather than refused where the mark is unfamiliar, but it is rarely refused outright.
 

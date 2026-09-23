@@ -40,8 +40,7 @@ data:
         title: Antevāsin
         lore: initiaternk
         description: >-
-          "One who dwells near"—acolytes, often of mature age, drawn from the building trades and
-          the academies.
+          "One who dwells near"—acolytes, often of mature age, drawn from the building trades and the academies.
       - level: 3
         title: Ácārya
         lore: priestrnk
@@ -51,17 +50,14 @@ data:
         title: Parama-Ácārya
         lore: highpriestrnk
         description: >-
-          "Supreme Master"—senior priest of a temple, granted only after a rigorous philosophical
-          examination, and expected to have published.
+          "Supreme Master"—senior priest of a temple, granted only after a rigorous philosophical examination, and expected to have published.
     offices:
       Parama-Ácārya: >-
-        "Supreme Master"—senior priest of a temple, granted only after a rigorous philosophical
-        examination, and expected to have published.
+        "Supreme Master"—senior priest of a temple, granted only after a rigorous philosophical examination, and expected to have published.
       Ácārya: >-
         The working priesthood: scholar-priests trained in architecture, mathematics and theological argument as well as liturgy.
       Antevāsin: >-
-        "One who dwells near"—acolytes, often of mature age, drawn from the building trades and the
-        academies.
+        "One who dwells near"—acolytes, often of mature age, drawn from the building trades and the academies.
       Examiner: >-
         Conducts the philosophical examination on which the Parama-Ácārya rank turns.
       Temple Architect: >-
@@ -97,11 +93,11 @@ packFolder: pantheonsvarnaka
 - **Pronunciation:** _VYAH-len-drah-VAH-dah_
 - **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
 
-The **Vyālendravāda** is a monistic sect—one of the oldest philosophical schools within the Varṇakan tradition—which holds that [[affiliation-vyalendra|Vyālendra]] is the single supreme deity from whom the entire pantheon emanates. The other gods are not denied; they are reinterpreted as specialized expressions of Vyālendra's shaping work. [[affiliation-mahajaya|Mahájaya]] is the shape sustained, [[affiliation-rasikara|Rásikara]] the shape broken for reshaping, [[affiliation-kalavrata|Kālavrata]] the shape released at its term. To the Vyālendravāda, to worship the pantheon honestly is to worship Vyālendra through whichever of his aspects a given occasion demands.
+The **Vyālendravāda** is a monistic sect and one of the oldest philosophical schools in the Varṇakan tradition. It holds [[affiliation-vyalendra|Vyālendra]] the single supreme deity from whom the whole pantheon emanates. The other gods stand, read as particular expressions of his shaping work. [[affiliation-mahajaya|Mahájaya]] is the shape sustained, [[affiliation-rasikara|Rásikara]] the shape broken for reshaping, [[affiliation-kalavrata|Kālavrata]] the shape released at its term. To worship the pantheon honestly, in this doctrine, is to worship Vyālendra through whichever aspect the occasion asks for.
 
-The sect is strongest among the building trades, the great guilds of masons and architects, and the philosophical academies of [[place-vedyarargn|Vedyara Region]]. Its temples are fewer than those of the Trimūrti-sampradāya but tend to be magnificent works of architecture—the sect holds that a well-proportioned temple is itself the fullest theological argument for the doctrine. Its priests are often trained as deeply in geometry and engineering as in theology, and a number of the great public works of the Vedyaran cities stand as monuments to Vyāndran scholarship.
+The sect is strongest among the building trades, the great guilds of masons and architects, and the philosophical academies of [[place-vedyarargn|Vedyara Region]]. Its temples are fewer than the Trimūrti-sampradāya's and are magnificent buildings. A well-proportioned temple, the sect holds, is the fullest argument the doctrine has. Its priests are often trained as deeply in geometry and engineering as in theology, and several of the great public works of the Vedyaran cities are Vyāndran.
 
-The relationship with the orthodox Trimūrti-sampradāya is cordial but not without friction. Orthodox priests regard the Vyālendravāda's interpretation of the lesser gods as reductive; Vyāndran scholars regard the orthodox triad as a pedagogical convenience that should not be mistaken for the deepest truth. In practice, most Vedyarans move freely between temples of both sects without difficulty.
+Relations with the orthodox Trimūrti-sampradāya are cordial and not without friction. Orthodox priests call the Vyālendravāda's reading of the lesser gods reductive; Vyāndran scholars call the orthodox triad a teaching convenience mistaken for the deepest truth. Most Vedyarans move freely between temples of both sects.
 
 ### Clergy
 
@@ -129,7 +125,7 @@ The relationship with the orthodox Trimūrti-sampradāya is cordial but not with
 
 ### Ordeals for Favor
 
-- **The Geometer's Ordeal**—the aspirant must design, from first principles, a small temple that conforms in all its proportions to the canonical diagram, and defend the design publicly against the criticism of a council of Ácāryas.
+- **The Geometer's Ordeal**—the aspirant designs a small temple from first principles, holding every proportion to the canonical diagram, and defends the design in public before a council of Ácāryas.
 - **The Silent Reading**—a year of philosophical study in the temple library, without speech and without the company of any other living soul but the librarian.
 
 ### Orders

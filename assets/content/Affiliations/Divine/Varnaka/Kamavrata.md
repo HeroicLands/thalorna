@@ -21,18 +21,13 @@ data:
   governance:
     model: council
     summary: >-
-      This god has no priesthood of its own. Varṇaka ordains into a sampradāya—a school—not to a
-      god, so what structure exists here is the household observance and the ordeal: devotion to
-      love and its keeping, marked at the doorpost each morning and between newly-weds on the
-      wedding night and each anniversary after, and beyond that the Ordeals for Favor, which are
-      undertaken by individuals and confer standing for life.
+      This god has no priesthood of its own. Varṇaka ordains into a sampradāya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to love and its keeping, marked at the doorpost each morning and between newly-weds on the wedding night and each anniversary after, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
     ranks:
       - level: 0
         title: Patita
         lore: excmmnctrnk
         description: >-
-          "Fallen"—put out of Varṇakan observance altogether, and received again by no house and no
-          sampradāya.
+          "Fallen"—put out of Varṇakan observance altogether, and received again by no house and no sampradāya.
       - level: 1
         title: Upāsaka
         lore: layfaithfulrnk
@@ -42,9 +37,7 @@ data:
         title: Vratin
         lore: professedrnk
         description: >-
-          "One under vow"—has undertaken and completed one of the god's Ordeals for Favor. Since
-          this god has no priesthood, the ordeal is the only standing the devotion confers, and it
-          is held for life.
+          "One under vow"—has undertaken and completed one of the god's Ordeals for Favor. Since this god has no priesthood, the ordeal is the only standing the devotion confers, and it is held for life.
     offices:
       The Garden Year: >-
         A year tending a temple garden from first planting to final harvest; undertaken by devotees seeking the deeper mysteries.
@@ -74,13 +67,15 @@ packFolder: pantheonsvarnaka
 - **Pronunciation:** _KAH-mah-vrah-tah_
 - **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
 
-Kāmavrata is the god of desire and of the creative joy that issues from it. He is the patron of lovers, of the newly married, of those hoping for a child, and of the many arts—poetry, music, dance, sculpture, the preparation of scented oils, the keeping of gardens—by which the beauty of the world is brought out and celebrated. In the theology of the pantheon, his work is the counterpart of [[affiliation-vyalendra|Vyālendra]]'s: where Vyālendra gives the world its form, Kāmavrata gives it its delight.
+Kāmavrata is the god of desire and of the creative joy that issues from it. He is the patron of lovers, of the newly married and of those hoping for a child. He is patron also of poetry, music, dance, sculpture, the preparation of scented oils and the keeping of gardens, the arts by which the beauty of the world is brought out and celebrated.
 
-The Kāmavratan tradition is widely loved throughout [[place-vedyarargn|Vedyara Region]]. His shrines are often sited near gardens and rivers, and his festivals are among the most popular of the year. The clergy are famously welcoming, and many who would not otherwise identify as Varṇakan nevertheless observe at least one of Kāmavrata's festivals.
+The pantheon's theology makes his work the counterpart of [[affiliation-vyalendra|Vyālendra]]'s. Vyālendra gives the world its form and Kāmavrata gives it its delight.
+
+The Kāmavratan tradition is widely loved throughout [[place-vedyarargn|Vedyara Region]]. His shrines stand near gardens and rivers, and his festivals are among the most popular of the year. The clergy are famously welcoming, and many who would not call themselves Varṇakan keep one of his festivals anyway.
 
 ### Aspects
 
-Kāmavrata is depicted as a youthful figure of great beauty, garlanded with flowers, holding a lotus and playing a stringed instrument. His bow is a bow of sugarcane and his arrows are the five arrows of desire—each fletched with a different flower. His color is the rose of dawn and the deep green of the flowering garden.
+Kāmavrata is depicted as a youthful figure of great beauty, garlanded with flowers, holding a lotus and playing a stringed instrument. His bow is a bow of sugarcane, and his arrows are the five arrows of desire, each fletched with a different flower. His color is the rose of dawn and the deep green of the flowering garden.
 
 ### Sacred Objects
 
@@ -90,7 +85,7 @@ Kāmavrata is depicted as a youthful figure of great beauty, garlanded with flow
 
 ### Veneration
 
-Kāmavratan households hang fresh garlands on the doorpost each morning during the spring and summer, replaced with dried flowers in the dry season. Newly-weds anoint one another with a drop of consecrated oil on the wedding night and on each anniversary thereafter. Couples hoping for a child walk a temple garden together at dusk for seven evenings, the woman carrying a single lotus blossom. The household shrine to Kāmavrata is adorned with whatever small beauties the household can afford—a painted tile, a polished river-stone, a scrap of embroidered silk—on the principle that the god is honored by any act of care for the beautiful.
+Kāmavratan households hang fresh garlands on the doorpost each morning through spring and summer, and dried flowers in the dry season. Newly-weds anoint one another with a drop of consecrated oil on the wedding night and on each anniversary after. Couples hoping for a child walk a temple garden together at dusk for seven evenings, the woman carrying a single lotus blossom. The household shrine carries whatever small beauties the house can afford, a painted tile, a polished river-stone, a scrap of embroidered silk. Any care taken for the beautiful honors the god.
 
 ### Ordeals for Favor
 

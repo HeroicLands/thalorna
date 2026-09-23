@@ -29,7 +29,7 @@ Vedyari is a tongue of the Vedyari (isolate) family. Fluency measures the sophis
 
 ## Overview
 
-Vedyari is the primary tongue of the [[place-vedyarargn|City-States of Vedyara]]. A language of considerable antiquity, it has evolved across centuries into distinct classical and vernacular forms. Classical Vedyari—used in sacred texts, legal documents, and formal ceremonies—differs markedly from the spoken dialects of common discourse. The language carries weight and complexity, reflecting a civilization concerned with precision, ritual, and philosophical inquiry.
+Vedyari is the primary tongue of the [[place-vedyarargn|City-States of Vedyara]]. It is a language of considerable antiquity, and it has parted across the centuries into a classical and a vernacular form. Classical Vedyari serves the sacred texts, the legal documents and the formal ceremonies, and differs markedly from the spoken dialects of common discourse. It is a weighty and complex tongue, and the civilization that speaks it prizes precision, ritual and philosophical inquiry.
 
 Vedyari speakers are found throughout the city-states and in trading communities across the eastern world. The language has proven remarkably durable, maintaining grammatical coherence even as phonological shifts have created regional variation.
 
@@ -114,7 +114,7 @@ Classical Vedyari follows a **Subject-Object-Verb (SOV)** order in main clauses,
 
 ### Proto-Vedyari
 
-Evidence from archaic ritual texts and etymological analysis suggests Vedyari's roots lie in an isolate language family, without clear external relations. Some scholars propose remote connections to languages of the far east (_Tānvüri_) and southwest (_Kheperi_), but these remain speculative.
+Vedyari's roots lie in an isolate family with no clear external relations, on the evidence of the archaic ritual texts and the etymologies. Some scholars propose remote connections to the tongues of the far east (_Tānvüri_) and the southwest (_Kheperi_). Nobody has shown one.
 
 ### Classical Period (Age of Kingdoms)
 
@@ -172,7 +172,7 @@ While Vedyari remains an isolate, linguistic diffusion from neighboring regions 
 
 ### Cultural Significance
 
-Vedyari names are cosmologically and philosophically charged. The choice of a personal name reflects family lineage, spiritual aspiration, and social position. Names frequently incorporate elements drawn from mythology, virtue terms, or celestial bodies, binding the individual to the metaphysical order.
+Vedyari names are cosmologically and philosophically charged. A personal name states the family lineage, the spiritual aspiration and the social position of the person who carries it. Names commonly take elements from mythology, from virtue terms or from the celestial bodies, and bind the individual to the metaphysical order.
 
 ### Naming Patterns
 

@@ -23,9 +23,7 @@ data:
   governance:
     model: council
     summary: >-
-      Authority rests with the individual priest on the road rather than with any chapter: the
-      Dahana-Mūla is a rare rank, and most of the sect is itinerant, traveling alone or in pairs
-      with an ember-vessel each.
+      Authority rests with the individual priest on the road rather than with any chapter: the Dahana-Mūla is a rare rank, and most of the sect is itinerant, traveling alone or in pairs with an ember-vessel each.
     ranks:
       - level: 0
         title: Patita
@@ -43,30 +41,24 @@ data:
         title: Bhasma
         lore: initiaternk
         description: >-
-          "Ash"—novices, who serve a five-year probation of travel and work before being entrusted
-          with a vessel of their own.
+          "Ash"—novices, who serve a five-year probation of travel and work before being entrusted with a vessel of their own.
       - level: 3
         title: Jvālita
         lore: priestrnk
         description: >-
-          "Kindled One"—the ordinary priesthood: itinerant, typically traveling alone or in pairs,
-          each carrying their own ember-vessel.
+          "Kindled One"—the ordinary priesthood: itinerant, typically traveling alone or in pairs, each carrying their own ember-vessel.
       - level: 4
         title: Dahana-Mūla
         lore: highpriestrnk
         description: >-
-          "Root of the Burning"—senior priest of a regional chapter; a rare rank, since most of the
-          sect's authority rests with individual priests on the road.
+          "Root of the Burning"—senior priest of a regional chapter; a rare rank, since most of the sect's authority rests with individual priests on the road.
     offices:
       Dahana-Mūla: >-
-        "Root of the Burning"—senior priest of a regional chapter; a rare rank, since most of the
-        sect's authority rests with individual priests on the road.
+        "Root of the Burning"—senior priest of a regional chapter; a rare rank, since most of the sect's authority rests with individual priests on the road.
       Jvālita: >-
-        "Kindled One"—the ordinary priesthood: itinerant, typically traveling alone or in pairs,
-        each carrying their own ember-vessel.
+        "Kindled One"—the ordinary priesthood: itinerant, typically traveling alone or in pairs, each carrying their own ember-vessel.
       Bhasma: >-
-        "Ash"—novices, who serve a five-year probation of travel and work before being entrusted
-        with a vessel of their own.
+        "Ash"—novices, who serve a five-year probation of travel and work before being entrusted with a vessel of their own.
       Ember-Bearer: >-
         A Jvālita entrusted with a vessel of their own, which is what ordination in this sect actually confers.
       Chapter Root: >-
@@ -100,11 +92,15 @@ packFolder: pantheonsvarnaka
 - **Pronunciation:** _AHG-nee PAN-thah_
 - **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
 
-The **Agnī-panthā** is an ascetic, reformist sect centered on [[affiliation-rasikara|Rásikara]]'s purging fire. Where the Trimūrti-sampradāya keeps Rásikara in balance with the other forms, the Agnī-panthā holds that a city, a household, or a soul in decline requires the particular discipline of the flame—and that most of the lesser sins of Vedyaran civic life go unaddressed precisely because the orthodox tradition is too comfortable to confront them. The sect's priests are consequently known as uncomfortable guests and indispensable visitors.
+The **Agnī-panthā** is an ascetic, reformist sect centered on [[affiliation-rasikara|Rásikara]]'s purging fire. The Trimūrti-sampradāya keeps Rásikara in balance with the other forms. The Agnī-panthā holds that a city, a household or a soul in decline wants the discipline of the flame, and that the orthodox tradition is too comfortable to confront the lesser sins of Vedyaran civic life. Its priests are known as uncomfortable guests and as indispensable ones.
 
-Agnī-panthā priests own little. They carry a clay vessel containing a living ember carried forward from the sect's founding fire, and this vessel is the one thing a Flame-priest will not relinquish. They travel continually, attending invitations from communities or from individual householders who have decided that some persistent trouble—a feud, a sickness of spirit, a corruption in the civic body—needs the fire. The characteristic rite is the **Purgation**: a fast, a formal confession before the ember-vessel, and the burning of an object representing what is to be released.
+Agnī-panthā priests own little. Each carries a clay vessel holding a living ember brought forward from the sect's founding fire, and the vessel is the one thing a Flame-priest will not give up.
 
-The sect's history includes a number of celebrated reformist movements and at least three notable schisms with the orthodox hierarchy. Agnī-panthā priests have been, by turn, lauded as saints, banned from city limits, and memorialized in statuary by the same city councils that banned them. The tradition regards this uneven reception as evidence of its necessity. It also venerates [[affiliation-vyahrati|Vyāhrati]] as the gentle sister of the fire: what yields of itself need not be burned, and many of the sect's kindest rites are Vyāhratan in character.
+They travel continually and go where they are invited. A community or a householder calls them when some trouble has settled in: a feud, a sickness of spirit, a corruption in the civic body. The rite they come for is the **Purgation**, a fast, a formal confession before the ember-vessel, and the burning of an object that stands for what is to be released.
+
+The sect has raised several celebrated reforms and has broken with the orthodox hierarchy at least three times. Its priests have been praised as saints, banned from city limits, and put up in statuary by the councils that banned them. The tradition takes the uneven reception for proof that it is needed.
+
+It venerates [[affiliation-vyahrati|Vyāhrati]] as the gentle sister of the fire. What yields of itself need not be burned, and many of the sect's kindest rites are Vyāhratan.
 
 ### Clergy
 
@@ -144,4 +140,4 @@ The sect's history includes a number of celebrated reformist movements and at le
 
 ### Geographic Presence
 
-Agnī-panthā priests are found everywhere the road leads, but the sect's recognized chapters are concentrated in the smaller cities and the frontier towns, where its work is more welcome. In the great Vedyaran capitals, the Flame-priests are permitted entry but rarely a permanent chapter-house; tradition has it that a city large enough to merit a settled Agnī-panthā chapter is a city already past the point where the sect might have done it any good.
+Agnī-panthā priests are found everywhere the road leads. The sect's recognized chapters sit in the smaller cities and the frontier towns, where its work is more welcome. The great Vedyaran capitals admit the Flame-priests and rarely allow them a permanent chapter-house. A city big enough to want a settled chapter, the saying goes, is a city past the point where the sect could have done it any good.

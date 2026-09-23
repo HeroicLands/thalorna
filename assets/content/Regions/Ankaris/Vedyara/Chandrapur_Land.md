@@ -25,9 +25,9 @@ Chandrapur Land is the country the city-state of [[affiliation-chandrapur|Chandr
 
 ## How the land is held
 
-The land is **held**, not endowed, and that is the first thing a traveler up from the janapadas notices. Away from the city the villages answer to a person: to a **Kulina**, the head of one of the Nine Houses, in the valley quarters his house has kept for generations; to the Mahārāja's own people on the crown's fields at the river mouth; and to the temples only where a temple has been endowed with ground outright, which in this land is uncommon. A cultivator here works under a holder as he works under a sabhā fifty miles inland, but he knows the holder's name, and the holder's name is a man's.
+The land is **held**, not endowed, and that is the first thing a traveler up from the janapadas notices. Away from the city the villages answer to a person. In the valley quarters a house has kept for generations, that person is a **Kulina**, the head of one of the Nine Houses. On the crown's fields at the river mouth it is the Mahārāja's own people. It is a temple only where a temple has been endowed with ground outright, and in this land that is uncommon. A cultivator here works under a holder as he works under a sabhā fifty miles inland, but he knows the holder's name, and the holder's name is a man's.
 
-Because the seats descend by house rather than by turn, a Chandrapuri village changes hands at a marriage or a bankruptcy rather than at an election, and the Houses' rise and fall is read off the map of the valley as much as off the court's seating.
+The seats descend by house and not by turn, so a Chandrapuri village changes hands at a marriage or a bankruptcy and never at an election. The Houses' rise and fall is read off the map of the valley as much as off the court's seating.
 
 ## Economy
 

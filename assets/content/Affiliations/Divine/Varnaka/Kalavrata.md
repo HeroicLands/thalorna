@@ -20,18 +20,13 @@ data:
   governance:
     model: council
     summary: >-
-      This god has no priesthood of its own. Varṇaka ordains into a sampradāya—a school—not to a
-      god, so what structure exists here is the household observance and the ordeal: devotion to the
-      passage of the dead, whom the Mārgapālas guide along the paths of the afterlife until they
-      reach the gate of rebirth, and beyond that the Ordeals for Favor, which are undertaken by
-      individuals and confer standing for life.
+      This god has no priesthood of its own. Varṇaka ordains into a sampradāya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to the passage of the dead, whom the Mārgapālas guide along the paths of the afterlife until they reach the gate of rebirth, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
     ranks:
       - level: 0
         title: Patita
         lore: excmmnctrnk
         description: >-
-          "Fallen"—put out of Varṇakan observance altogether, and received again by no house and no
-          sampradāya.
+          "Fallen"—put out of Varṇakan observance altogether, and received again by no house and no sampradāya.
       - level: 1
         title: Upāsaka
         lore: layfaithfulrnk
@@ -41,13 +36,10 @@ data:
         title: Vratin
         lore: professedrnk
         description: >-
-          "One under vow"—has undertaken and completed one of the god's Ordeals for Favor. Since
-          this god has no priesthood, the ordeal is the only standing the devotion confers, and it
-          is held for life.
+          "One under vow"—has undertaken and completed one of the god's Ordeals for Favor. Since this god has no priesthood, the ordeal is the only standing the devotion confers, and it is held for life.
     offices:
       The Vigil of Final Breath: >-
-        The devotee attends a dying stranger from the lighting of the Lamp until the sounding of the
-        Conch—without sleeping, without speaking, without flinching.
+        The devotee attends a dying stranger from the lighting of the Lamp until the sounding of the Conch—without sleeping, without speaking, without flinching.
       The Walk Between Fires: >-
         A night walk, alone, between the cremation grounds of three villages, meditating on what is released at each.
       The Silent Year: >-
@@ -76,13 +68,13 @@ packFolder: pantheonsvarnaka
 - **Pronunciation:** _KAH-lah-vrah-tah_
 - **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
 
-Kālavrata is a solitary god—the warden of the threshold between the life that has ended and the life that is to come. He is revered throughout [[place-vedyarargn|Vedyara Region]] but venerated in a notably austere manner. He demands no devotion, grants no personal favor, and answers no petition for long life or safe passage through danger. What he does is guide the soul from one body to the next, impartially and without favor, and for this the Vedyaran faithful hold him in high regard.
+Kālavrata is a solitary god, the warden of the threshold between the life that has ended and the life that is to come. He is revered throughout [[place-vedyarargn|Vedyara Region]], and the veneration is austere. He demands no devotion, grants no personal favor, and answers no petition for long life or safe passage. He guides the soul from one body to the next, impartially, and the Vedyaran faithful hold him high for it.
 
-Where [[affiliation-rasikara|Rásikara]] is the god of the fire that unmakes the body, Kālavrata is the god of what happens after. The cremation-fires end the body; Kālavrata's conch calls the soul onward.
+[[affiliation-rasikara|Rásikara]] is the god of the fire that unmakes the body. Kālavrata is the god of what happens after. The cremation-fires end the body; his conch calls the soul onward.
 
 ### Aspects
 
-Kālavrata is depicted as a tall, shrouded figure with a dark conch at his lips, standing at a bridge or a threshold. His face is not depicted; iconographic tradition holds that no living soul may look upon it until the hour of its own passage. His color is the indigo-black of deepest night, and his presence is understood as still, cool, and absolute.
+Kālavrata is depicted as a tall, shrouded figure with a dark conch at his lips, standing at a bridge or a threshold. His face is not depicted; the iconographic tradition holds that no living soul may look on it before the hour of its own passage. His color is the indigo-black of deepest night. His presence is still, cool and absolute.
 
 ### Sacred Objects
 
@@ -96,7 +88,7 @@ Kālavrata is depicted as a tall, shrouded figure with a dark conch at his lips,
 
 ### Veneration
 
-Kālavratan households keep no elaborate shrine; the god is honored by the threshold itself. A small dark conch hangs above the doorpost, and a lamp is set in the window on the anniversary of each family member's passing. At the onset of a final illness, the household lamp is lit and tended until the passage is complete; no one of the house speaks loudly or quarrels while the lamp burns. The Coin of Passage is placed in the hand of the deceased before cremation, and no part of the burial rites may be hurried.
+Kālavratan households keep no elaborate shrine, and the threshold itself is the god's honor. A small dark conch hangs above the doorpost. A lamp is set in the window on the anniversary of each family member's passing. At the onset of a final illness the household lamp is lit and tended until the passage is complete, and no one of the house speaks loudly or quarrels while it burns. The Coin of Passage is placed in the hand of the dead before cremation, and no part of the burial rites may be hurried.
 
 ### Ordeals for Favor
 

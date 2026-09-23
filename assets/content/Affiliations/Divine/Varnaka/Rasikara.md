@@ -21,17 +21,13 @@ data:
   governance:
     model: council
     summary: >-
-      This god has no priesthood of its own. Varṇaka ordains into a sampradāya—a school—not to a
-      god, so what structure exists here is the household observance and the ordeal: devotion to
-      purgation by fire, served by the Agni-Pralayas, the spirits of purging flame, and beyond that
-      the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
+      This god has no priesthood of its own. Varṇaka ordains into a sampradāya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to purgation by fire, served by the Agni-Pralayas, the spirits of purging flame, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
     ranks:
       - level: 0
         title: Patita
         lore: excmmnctrnk
         description: >-
-          "Fallen"—put out of Varṇakan observance altogether, and received again by no house and no
-          sampradāya.
+          "Fallen"—put out of Varṇakan observance altogether, and received again by no house and no sampradāya.
       - level: 1
         title: Upāsaka
         lore: layfaithfulrnk
@@ -41,13 +37,10 @@ data:
         title: Vratin
         lore: professedrnk
         description: >-
-          "One under vow"—has undertaken and completed one of the god's Ordeals for Favor. Since
-          this god has no priesthood, the ordeal is the only standing the devotion confers, and it
-          is held for life.
+          "One under vow"—has undertaken and completed one of the god's Ordeals for Favor. Since this god has no priesthood, the ordeal is the only standing the devotion confers, and it is held for life.
     offices:
       The Walk of Coals: >-
-        The devotee walks barefoot across coals drawn from a consecrated fire. An inch of uninjured
-        skin is the god's favor; a burn is the work yet to be done.
+        The devotee walks barefoot across coals drawn from a consecrated fire. An inch of uninjured skin is the god's favor; a burn is the work yet to be done.
       The Vigil in Ashes: >-
         A three-day fast beside the cooling ashes of a cremation, meditating on the transformation the fire has performed.
       The Firebrand's Year: >-
@@ -75,13 +68,15 @@ packFolder: pantheonsvarnaka
 - **Pronunciation:** _RAH-see-kah-rah_
 - **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
 
-Rásikara is the god of fire and of the transformation that fire compels—the burning that strips away corruption and the kindling that ignites new growth. Where [[affiliation-mahajaya|Mahájaya]] preserves and [[affiliation-vyalendra|Vyālendra]] shapes, Rásikara breaks. The Varṇakan faith regards this breaking as sacred. Without the forest-fire there is no green flush of new shoots; without the fever there is no end to sickness; without the cremation there is no release of the soul from what it has been. Rásikara is venerated not for comfort but for courage—the courage to meet what must be destroyed with the fire proper to the task.
+Rásikara is the god of fire and of the change fire compels. He is the burning that strips away corruption and the kindling that starts new growth. [[affiliation-mahajaya|Mahájaya]] preserves and [[affiliation-vyalendra|Vyālendra]] shapes; Rásikara breaks.
+
+The Varṇakan faith holds the breaking sacred. Without the forest-fire there is no green flush of new shoots; without the fever no end to sickness; without the cremation no release of the soul from what it has been. Rásikara is venerated for courage, the courage to meet what must be destroyed with the fire proper to the task.
 
 Rásikara's shrines are often kept at the edge of cities and at the cremation grounds. His devotees include ascetics, warriors, healers of wasting diseases, and the keepers of the cremation-fires.
 
 ### Aspects
 
-Rásikara is depicted as a lean, burning figure—sometimes many-armed, sometimes a single column of flame—standing within a ring of broken chains or fractured stone. The broken circle of his symbol signifies the world's tendency to seize up into rigidity and Rásikara's willingness to break it open. His flame is bright but not cruel; the theology insists that the god does not burn what has not earned burning.
+Rásikara is depicted as a lean, burning figure standing within a ring of broken chains or fractured stone, sometimes many-armed and sometimes a single column of flame. The broken circle of his symbol stands for a world that seizes up into rigidity and for the god's willingness to break it open. His flame is bright and not cruel, and the theology insists he does not burn what has not earned burning.
 
 ### Sacred Objects
 
@@ -91,11 +86,11 @@ Rásikara is depicted as a lean, burning figure—sometimes many-armed, sometime
 
 ### Divine Servants
 
-- **Agni-Pralayas**—the spirits of purging fire. They manifest in natural disasters—wildfire, volcanic eruption, fever-epidemic—and also in the deliberate renewal-fires kindled by the devout. The faithful regard them with a mixture of awe and dread.
+- **Agni-Pralayas**—the spirits of purging fire. They come in wildfire, in volcanic eruption and in fever-epidemic, and in the renewal-fires the devout kindle on purpose. The faithful regard them with awe and with dread.
 
 ### Veneration
 
-Rásikaran households keep an unbroken hearth-flame carried forward from parent to child at each marriage; to let the family fire go out is considered a grave omen. Before undertaking any work that will destroy what came before—razing a condemned house, felling a diseased tree, cutting down a harvest that has blighted—the devout trace an ash-mark on the brow and speak the formula of purging. At the death of a family member, an ember from the hearth is carried to the cremation-ground to light the pyre.
+Rásikaran households keep an unbroken hearth-flame carried forward from parent to child at each marriage, and to let the family fire go out is a grave omen. Before any work that destroys what came before, the razing of a condemned house, the felling of a diseased tree, the cutting of a blighted harvest, the devout trace an ash-mark on the brow and speak the formula of purging. At the death of a family member an ember from the hearth is carried to the cremation-ground to light the pyre.
 
 ### Ordeals for Favor
 

@@ -76,15 +76,15 @@ What the five hold in common is the [[lore-vdyrnbnkng|Vedyaran banking system]]�
 
 **The Assembly holds no land.** It has no domain, no capital and no seat of its own; the two cities it sits in lend it a hall and nothing more. Every acre the Compact reaches is held by the polity that signed for it, under that polity's own model and not under the Assembly's:
 
-| Seat                                    | What it is                           | How its land is held                      |
-| --------------------------------------- | ------------------------------------ | ----------------------------------------- |
-| [[affiliation-chandrapur\|Chandrapur]]  | Gem-working city-state               | Held—the Mahārāja and the Nine Houses     |
-| [[affiliation-vyalendra2\|Vyālendra]]   | Weaving city-state                   | Held—the city and its guild council       |
-| [[affiliation-vindhyalay\|Vindhyālaya]] | Highland pass-kingdom                | Held—the Mahārāja and his clan-chieftains |
-| [[affiliation-rajaprjnpd\|Rājapur]]     | Temple-republic of eleven villages   | Endowed—the temple and its sabhā          |
-| [[affiliation-dhnrktjnpd\|Dhanurkota]]  | Temple-republic of fourteen villages | Endowed—the temple and its sabhā          |
+| Seat                                    | What it is             | How its land is held                      |
+| --------------------------------------- | ---------------------- | ----------------------------------------- |
+| [[affiliation-chandrapur\|Chandrapur]]  | Gem-working city-state | Held—the Mahārāja and the Nine Houses     |
+| [[affiliation-vyalendra2\|Vyālendra]]   | Weaving city-state     | Held—the city and its guild council       |
+| [[affiliation-vindhyalay\|Vindhyālaya]] | Highland pass-kingdom  | Held—the Mahārāja and his clan-chieftains |
+| [[affiliation-rajaprjnpd\|Rājapur]]     | Temple-republic        | Endowed—the temple and its sabhā          |
+| [[affiliation-dhnrktjnpd\|Dhanurkota]]  | Temple-republic        | Endowed—the temple and its sabhā          |
 
-This is not a technicality the Assembly would like to overcome. A body that held ground would be a polity, and a polity is precisely what the five seats will not constitute between them: two of them are kingdoms whose land answers to a man, two are temple-republics whose land answers to a rite, and none of the four would accept the arrangement of any other. The Assembly governs an agreement, not a territory, and that is why the agreement survives quarrels that would break a state.
+This is not a technicality the Assembly would like to overcome. A body that held ground would be a polity, and a polity is what the five seats will not constitute between them. Two are kingdoms whose land answers to a man. Two are temple-republics whose land answers to a rite. None of the four would accept the arrangement of any other. The Assembly governs an agreement and not a territory, and the agreement survives quarrels that would break a state.
 
 ## The Standing Committees
 
@@ -95,7 +95,7 @@ The Assembly sits for a few weeks a year. The **standing committees** sit contin
 - The **Foreign Trade Committee** negotiates with polities outside the Compact and licenses the members who trade beyond the janapadas.
 - The **Disputes Committee** arbitrates the quarrels the parties would rather not carry into a ruler's court, which is most of them.
 
-At the head of all of it stands the **High Speaker**, elected by the kulinas from among themselves for a seven-year term. The office is presiding rather than executive, and its power lies almost entirely in procedure: the Speaker decides what reaches a vote and in what order, and a petition ruled out of order at the spring sitting waits until autumn for another attempt.
+At the head of all of it stands the **High Speaker**, elected by the kulinas from among themselves for a seven-year term. The office presides and does not execute, and its power lies almost entirely in procedure. The Speaker decides what reaches a vote and in what order. A petition ruled out of order at the spring sitting waits until autumn for another attempt.
 
 ## Outside the Compact
 

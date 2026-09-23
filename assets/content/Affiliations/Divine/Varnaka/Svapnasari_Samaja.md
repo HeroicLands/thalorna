@@ -25,9 +25,7 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A monastic priesthood organized around the dream-chambers: acolytes keep watch over sleeping
-      petitioners, the working priesthood reads and records what they bring, and a proven
-      oneiromancer of many years' standing presides.
+      A monastic priesthood organized around the dream-chambers: acolytes keep watch over sleeping petitioners, the working priesthood reads and records what they bring, and a proven oneiromancer of many years' standing presides.
     ranks:
       - level: 0
         title: Patita
@@ -45,30 +43,24 @@ data:
         title: Nidrāpāla
         lore: initiaternk
         description: >-
-          "Keeper of Sleep"—acolytes who attend the dream-chambers and keep watch over sleeping
-          petitioners.
+          "Keeper of Sleep"—acolytes who attend the dream-chambers and keep watch over sleeping petitioners.
       - level: 3
         title: Darśaka
         lore: priestrnk
         description: >-
-          "Seer"—the working priesthood, trained in dream-reading, meditation, and the careful
-          recording of the dreams brought by the faithful.
+          "Seer"—the working priesthood, trained in dream-reading, meditation, and the careful recording of the dreams brought by the faithful.
       - level: 4
         title: Svapna-Ácārya
         lore: highpriestrnk
         description: >-
-          "Master of Dreams"—senior priest of a monastery or temple; almost always a proven
-          oneiromancer of many years' standing.
+          "Master of Dreams"—senior priest of a monastery or temple; almost always a proven oneiromancer of many years' standing.
     offices:
       Svapna-Ácārya: >-
-        "Master of Dreams"—senior priest of a monastery or temple; almost always a proven
-        oneiromancer of many years' standing.
+        "Master of Dreams"—senior priest of a monastery or temple; almost always a proven oneiromancer of many years' standing.
       Darśaka: >-
-        "Seer"—the working priesthood, trained in dream-reading, meditation, and the careful
-        recording of the dreams brought by the faithful.
+        "Seer"—the working priesthood, trained in dream-reading, meditation, and the careful recording of the dreams brought by the faithful.
       Nidrāpāla: >-
-        "Keeper of Sleep"—acolytes who attend the dream-chambers and keep watch over sleeping
-        petitioners.
+        "Keeper of Sleep"—acolytes who attend the dream-chambers and keep watch over sleeping petitioners.
       Keeper of the Dream-Record: >-
         Holds the monastery's accumulated recording of dreams brought by the faithful, against which new ones are read.
       Chamber-Warden: >-
@@ -100,9 +92,9 @@ packFolder: pantheonsvarnaka
 - **Pronunciation:** _SWAP-nah-SAH-ree sa-MAH-jah_
 - **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
 
-The **Svapnasāri-samāja** is a small, respected mystical sect centered on the [[affiliation-svapnadevas|Svapnadēvas]]—the Dreaming Host. Through the Host, the sect holds, the dream-power of [[lore-goddreams|The God of Dreams]] reaches the world, though the greater deity is never named directly in the sect's rites. The sect's members are the oneiromancers, the keepers of the dream-registers, and the counselors to whom Vedyaran rulers, generals, and merchants turn when a question has passed beyond the reach of ordinary deliberation.
+The **Svapnasāri-samāja** is a small, respected mystical sect centered on the [[affiliation-svapnadevas|Svapnadēvas]], the Dreaming Host. Through the Host, the sect holds, the dream-power of [[lore-goddreams|The God of Dreams]] reaches the world, and the greater deity is never named directly in its rites. Its members are the oneiromancers and the keepers of the dream-registers. Vedyaran rulers, generals and merchants turn to them when a question has passed beyond what ordinary counsel can settle.
 
-The Samāja's temples are often set at a remove from the bustle of civic life: a monastery in the uplands, a tower at the edge of the desert, a walled compound in the quietest quarter of a city. Its priests keep their own hours and often their own silence, and their institutional presence is small compared to the Trimūrti-sampradāya. But the weight of their counsel is considerable, and few Vedyaran courts are without at least one Dream-reader whose provenance traces back to a Samāja monastery.
+The Samāja's temples stand at a remove from civic life: a monastery in the uplands, a tower at the edge of the desert, a walled compound in the quietest quarter of a city. Its priests keep their own hours and often their own silence, and it is a small body beside the Trimūrti-sampradāya. Its counsel carries weight all the same, and few Vedyaran courts lack a Dream-reader trained at a Samāja monastery.
 
 The sect's relationship with the orthodox Trimūrti-sampradāya is cautious but cooperative. The orthodox hierarchy does not contest the Samāja's expertise on dreams, and the Samāja does not contest the orthodox hierarchy's authority over public religion. Both traditions recognize that the other has work they could not do themselves.
 

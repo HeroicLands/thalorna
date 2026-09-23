@@ -37,11 +37,11 @@ Its season opens with [[place-suryadvara|Sūryadvāra]]'s and shuts a week earli
 
 The toll on this road is taken by the smithing clans of the Gorges, at their own gate, by their own weights. Their right to do so is not written in [[affiliation-vindhyalay|Vindhyālaya]]'s charter because it is older than the charter, and the clans have declined, courteously and continuously, to have it written into anything.
 
-The arrangement suits everyone who is not a tax-farmer. The crown takes the road-toll at the lower end and the clans take theirs at the upper, the two tallies have never been compared in public, and the [[affiliation-mrchntclctvvdyr|Merchant Collective]]'s factors—who lease ore from the clans on terms the crown says the clans cannot offer—carry papers that satisfy both gates and would satisfy neither court.
+The arrangement suits everyone who is not a tax-farmer. The crown takes the road-toll at the lower end and the clans take theirs at the upper, and the two tallies have never been compared in public. The [[affiliation-mrchntclctvvdyr|Merchant Collective]]'s factors lease ore from the clans on terms the crown says the clans cannot offer, and carry papers that satisfy both gates and would satisfy neither court.
 
 ## What Crosses
 
-Copper and tin north, finished Vindhyan steel north in small quantities and at high prices, lapis and silver south out of the Gorges themselves. It is the most industrial of the six crossings and the least ceremonious: the [[place-pssshrines|Pass-Shrine]] at the summit is a small one, its brahmin is a working priest rather than a scholar, and caravans have been known to take the blessing at a walk.
+Copper and tin north, finished Vindhyan steel north in small quantities and at high prices, lapis and silver south out of the Gorges themselves. It is the most industrial of the six crossings and the least ceremonious. The [[place-pssshrines|Pass-Shrine]] at the summit is a small one, its brahmin is a working priest and no scholar, and caravans have been known to take the blessing at a walk.
 
 ## See Also
 

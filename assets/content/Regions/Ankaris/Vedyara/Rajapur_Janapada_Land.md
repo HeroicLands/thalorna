@@ -2,7 +2,7 @@
 tags:
   - region
   - endowed
-description: "The land of the Rājapur Janapada—eleven villages on a fertile floodplain forty miles along the upper Mahānadi, around the temple raised on the ruins of the old royal capital."
+description: "The land of the Rājapur Janapada—villages on a fertile floodplain forty miles along the upper Mahānadi, around the temple raised on the ruins of the old royal capital."
 name:
   full: Rājapur Janapada
   aliases: []
@@ -22,7 +22,21 @@ packFolder: vedyara
 
 Rājapur Janapada is the land of the temple-republic of [[affiliation-rajaprjnpd|Rājapur Janapada]], on the central Mahānadi plain of [[place-vedyarargn|Vedyara]].
 
-Its population is roughly twenty-five thousand; its territory occupies a fertile floodplain stretching some forty miles along the upper Mahānadi.
+Its population is twenty-five thousand; its territory occupies a fertile floodplain stretching some forty miles along the upper Mahānadi.
+
+## Settlements
+
+```sql
+SELECT address.slug AS _ref,
+       name.full       AS "Settlement",
+       data.population AS "Population",
+       description     AS "Overview"
+FROM entries
+WHERE type = 'place'
+  AND subType = 'settlement'
+  AND list_contains(data.parents, 'rajapurjnpd')
+ORDER BY name.full COLLATE NOCASE
+```
 
 ## Society
 
