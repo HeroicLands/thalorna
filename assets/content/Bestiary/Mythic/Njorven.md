@@ -1,20 +1,20 @@
 ---
 tags:
-  - character
+  - creature
   - draft
+description: "The Sea Wraith of the Nordlands—long ago overthrown by Thórr, slowly waking beneath the northern seas, venerated by a cult that means to see it free, and the thing the Ritual of Binding exists to seal away."
 name:
   full: Njörven
   title: ""
   given: Njörven
   clan: ""
   aliases: []
-packFolder: nordlands
 shortcode: njorven
 type: being
 data:
   templatePriority: null
   archetypes: []
-  occupation: ""
+  occupation: null
   stations: []
   lore: []
   homes: []
