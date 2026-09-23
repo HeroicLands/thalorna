@@ -45,7 +45,7 @@ data:
         title: Kher-Heb
         lore: masterrnk
         description: >-
-          Lector — the one who carries the book and reads the great formulae aloud at the rites. A Kher-Heb
+          Lector – the one who carries the book and reads the great formulae aloud at the rites. A Kher-Heb
           holds the House's restricted forms, and is trusted with workings that are meant to stand for
           centuries.
       - level: 4
@@ -59,7 +59,7 @@ data:
         Holds the litany by which a soul is guided through the night, and is answerable for its exactness at
         every hour.
       Binder of the Chamber: >-
-        Sets the workings in the deepest chambers — the shabti-warriors, ḍumaṭu that wake at a broken
+        Sets the workings in the deepest chambers – the shabti-warriors, ḍumaṭu that wake at a broken
         seal, and the revenant-wardens, ṭerebu set to walk the dark with their wits about them.
       Reader of the Sealed Work: >-
         Alone permitted to open a sealed chamber to correct a failed binding, and required to reseal it the
@@ -96,12 +96,12 @@ powerful workings in the tradition: the spells that protect the dead, guide the 
 tomb. It is also the House whose errors are the least recoverable, since a working set in a sealed
 chamber cannot be inspected without breaking the seal that is the point of it.
 
-**Imnetáu** — the Westward Road — is the domain of the dead, passage, gates, resurrection, and the night. It is one of the
-eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris — by function in
+**Imnetáu** – the Westward Road – is the domain of the dead, passage, gates, resurrection, and the night. It is one of the
+eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris – by function in
 the cosmic order rather than by substance, which is why no portion of it corresponds to any single
 Eídma of the western [[lore-hexhodai|Héx Hodäi]].
 
 ### See Also
 
-- [[lore-khemenuhekau|Khemenu Hekau]] — the philosophy and the other seven domains
-- [[place-khemenu|Khemenu]] — where the Eight are taught
+- [[lore-khemenuhekau|Khemenu Hekau]] – the philosophy and the other seven domains
+- [[place-khemenu|Khemenu]] – where the Eight are taught

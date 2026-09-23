@@ -25,6 +25,6 @@ Per-Heka is a temple-estate town east of [[place-wasetkara|Wasetkara]], one of t
 
 ## See Also
 
-- [[affiliation-capitalnom|The Capital Nome]] — Parent nome
-- [[place-wasetkara|Wasetkara]] — The imperial city it serves
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
+- [[affiliation-capitalnom|The Capital Nome]] – Parent nome
+- [[place-wasetkara|Wasetkara]] – The imperial city it serves
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview

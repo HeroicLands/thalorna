@@ -386,15 +386,15 @@ sohl:
 
 ![[feraldew|Feraldew]]{float: top-left}
 
-A graceful deer stands in the meadow with the others—gentle eyes, soft coat, modest antlers. Then it turns its head and smiles. Fangs gleam where no fangs should be, and its eyes are wrong—cold and calculating where they should be warm. When it moves, the wrongness becomes clear: no natural deer moves with such predatory precision. You've been watching it the whole time and never realized it wasn't a deer at all.
+A graceful deer stands in the meadow with the others – gentle eyes, soft coat, modest antlers. Then it turns its head and smiles. Fangs gleam where no fangs should be, and its eyes are wrong – cold and calculating where they should be warm. When it moves, the wrongness becomes clear: no natural deer moves with such predatory precision. You've been watching it the whole time and never realized it wasn't a deer at all.
 
 # Dossier {#dossier}
 
-Feraldews are corrupted cervids, creatures of deception and hidden violence that infiltrate normal herds and hunt with the patience of ambush predators. These creatures are not natural animals—something has twisted them from within, giving them predatory intelligence wrapped in familiar flesh. Adventurers encounter them in forests and grasslands, often not realizing they're present until already surrounded. They are particularly dangerous because hunters and travelers lower their guard around what appears to be normal wildlife.
+Feraldews are corrupted cervids, creatures of deception and hidden violence that infiltrate normal herds and hunt with the patience of ambush predators. These creatures are not natural animals – something has twisted them from within, giving them predatory intelligence wrapped in familiar flesh. Adventurers encounter them in forests and grasslands, often not realizing they're present until already surrounded. They are particularly dangerous because hunters and travelers lower their guard around what appears to be normal wildlife.
 
 ## Presentation
 
-The Feraldew appears to be a graceful buck roughly the size of a large deer, with a modest rack of branching antlers that seem purely natural. Its coat is dappled brown and cream, soft and seemingly healthy. Its eyes are large and expressive, appearing gentle and innocent at casual glance. However, closer inspection reveals wrong details: the too-sharp geometry of its face, the way its joints bend at unnatural angles, the fact that its teeth are all razor-sharp fangs. Its hooves are thickened, calloused, and can unfold into multi-jointed appendages ending in hooked talons. Its movements are graceful until the moment they become predatory—a sudden shift in demeanor that reveals the creature's true nature. The hide is tougher than any natural deer's, capable of resisting significant damage.
+The Feraldew appears to be a graceful buck roughly the size of a large deer, with a modest rack of branching antlers that seem purely natural. Its coat is dappled brown and cream, soft and seemingly healthy. Its eyes are large and expressive, appearing gentle and innocent at casual glance. However, closer inspection reveals wrong details: the too-sharp geometry of its face, the way its joints bend at unnatural angles, the fact that its teeth are all razor-sharp fangs. Its hooves are thickened, calloused, and can unfold into multi-jointed appendages ending in hooked talons. Its movements are graceful until the moment they become predatory – a sudden shift in demeanor that reveals the creature's true nature. The hide is tougher than any natural deer's, capable of resisting significant damage.
 
 ## Key Behaviors
 
@@ -402,7 +402,7 @@ The Feraldew lurks within herds of normal deer, camouflaging itself through prox
 
 ## Combat Strategy
 
-The Feraldew wins through surprise and positioning. It typically initiates combat only when it has the advantage—the target surrounded by deer, confused about the location of the threat, or already partially committed to attacking what appears to be normal prey. Its opening attack is a charge with antlers lowered, attempting to gore from a distance. If that succeeds, it immediately transitions to close-range bite attacks. If the opponent escapes the initial charge, the Feraldew rears up and uses its hooked talons in slashing combinations. It fights with cold intelligence, not rage, and will disengage if the fight turns against it, melting back into the herd or fleeing into forest. It shows particular cunning in using herd animals as obstacles and escape routes.
+The Feraldew wins through surprise and positioning. It typically initiates combat only when it has the advantage – the target surrounded by deer, confused about the location of the threat, or already partially committed to attacking what appears to be normal prey. Its opening attack is a charge with antlers lowered, attempting to gore from a distance. If that succeeds, it immediately transitions to close-range bite attacks. If the opponent escapes the initial charge, the Feraldew rears up and uses its hooked talons in slashing combinations. It fights with cold intelligence, not rage, and will disengage if the fight turns against it, melting back into the herd or fleeing into forest. It shows particular cunning in using herd animals as obstacles and escape routes.
 
 ## Attack Methods
 
@@ -426,7 +426,7 @@ The Feraldew's appearance allows it to blend into normal herds. Most observers s
 
 ### Unfolding Talons
 
-The creature's hooves are deceptive—they unfold into multi-jointed appendages ending in curved, razor-sharp talons. These talons inflict grave wounds in combat and can be used for climbing or grappling as well as slashing attacks.
+The creature's hooves are deceptive – they unfold into multi-jointed appendages ending in curved, razor-sharp talons. These talons inflict grave wounds in combat and can be used for climbing or grappling as well as slashing attacks.
 
 ### Antler Defense
 
@@ -438,7 +438,7 @@ The creature is never fully alone if normal deer are present. It uses herds as c
 
 ## Additional Information
 
-Feraldews are vulnerable to fire, which damages their hide severely and causes pain that breaks their composure. They are less dangerous when separated from herds, as they lose both camouflage and tactical advantage. Once a Feraldew is identified, it loses much of its effectiveness—the deception is the primary weapon. Experienced hunters note that Feraldew herds behave differently from normal deer—movements are too coordinated, responses too organized—and that multiple "deer" in a herd may turn out to be corrupted infiltrators.
+Feraldews are vulnerable to fire, which damages their hide severely and causes pain that breaks their composure. They are less dangerous when separated from herds, as they lose both camouflage and tactical advantage. Once a Feraldew is identified, it loses much of its effectiveness – the deception is the primary weapon. Experienced hunters note that Feraldew herds behave differently from normal deer – movements are too coordinated, responses too organized – and that multiple "deer" in a herd may turn out to be corrupted infiltrators.
 
 ## Attributes
 

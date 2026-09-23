@@ -633,7 +633,7 @@ Drazhan’s primary goal is to retrieve the **Eye of Velok** and unleash its des
 - **Empathy**: He tends to focus more on the mission and less on emotional nuance.
 - **Eloquence**: His words carry weight when needed, though he’s more a man of action.
 - **Morality**: Drazhan, as a Vúlcanian knight, often revels in battle and follows the principles of his church, but he is willing to bend some moral guidelines if it benefits his goals and survival.
-- **Voice**: Drazhan’s voice reflects his warrior lifestyle—gruff and forceful, lacking the finesse required for melodious singing.
+- **Voice**: Drazhan’s voice reflects his warrior lifestyle – gruff and forceful, lacking the finesse required for melodious singing.
 
 ## Psyche
 

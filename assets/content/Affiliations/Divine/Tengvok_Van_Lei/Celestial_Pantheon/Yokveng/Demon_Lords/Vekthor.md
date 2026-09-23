@@ -21,14 +21,14 @@ data:
     model: oligarchy
     summary: >-
       A flat priesthood, not a career. There are forms, seals, censers and tribute here as surely as
-      in any temple — but the forms are forged, the seals are cut rather than issued, and the censer
-      is unlicensed. A person is lay, or they have been taught, or they can draft — and there is
+      in any temple – but the forms are forged, the seals are cut rather than issued, and the censer
+      is unlicensed. A person is lay, or they have been taught, or they can draft – and there is
       nothing else to be. The Yokveng are not a temple religion and mostly have no temples; a censer
       in a back room is the whole of the establishment.
 
       They dislike being petitioned at all, and a petition they do take up is granted exactly as
       written rather than as intended: where a celestial bureau fails safe and loses a bad filing,
-      these fail dangerous and honour it. What loyalty is owed is enforced without appeal — death
+      these fail dangerous and honor it. What loyalty is owed is enforced without appeal – death
       ordinarily, and undeath where the knowledge is too valuable to lose.
     ranks:
       - level: 0
@@ -55,15 +55,15 @@ data:
         lore: priestrnk
         description: >-
           Holds this one's particular forms and prohibitions, drafts, files, and keeps whatever
-          censer they can keep — rarely a shrine and almost never a temple. Charges at rates
+          censer they can keep – rarely a shrine and almost never a temple. Charges at rates
           reflecting the risk rather than the skill, because the drafting is the service: a loosely
-          drawn petition is honoured to the letter.
+          drawn petition is honored to the letter.
     offices:
       Keeper of the Forms: >-
         Holds the forms of address and appeasements particular to this one, which cannot be
         improvised and are taught to very few.
       Seal-Forger: >-
-        Cuts and applies stamps the bureaus never issued — the most technically demanding work, and
+        Cuts and applies stamps the bureaus never issued – the most technically demanding work, and
         the most prosecuted.
       Clerk of Transmission: >-
         Burns the petition at an unlicensed censer, which files it wherever it goes.
@@ -96,20 +96,20 @@ data:
 packFolder: demonlords
 ---
 
-## Vëkthōr — The Forger of False Records
+## Vëkthōr – The Forger of False Records
 
-Once an Archival Scribe (Thōkgürt) in the Bureau of All Records, Vëkthōr was a dutiful functionary who copied and preserved the classifications established during the Great Sorting. At some point — the Tānthëi disagree on when — Vëkthōr began to _edit_. Not destroy records, not lose them, but subtly alter them: changing a boundary here, reclassifying a substance there, inserting categories that had never existed into the master archive.
+Once an Archival Scribe (Thōkgürt) in the Bureau of All Records, Vëkthōr was a dutiful functionary who copied and preserved the classifications established during the Great Sorting. At some point – the Tānthëi disagree on when – Vëkthōr began to _edit_. Not destroy records, not lose them, but subtly alter them: changing a boundary here, reclassifying a substance there, inserting categories that had never existed into the master archive.
 
-The result was not chaos but something more insidious: _false order_. Things that should not exist were given classifications and therefore became real. Creatures that the Great Sorting had dissolved were given new names and reformed. Boundaries between domains were shifted to create jurisdictional gaps that no bureau oversaw — unmonitored spaces in which anything could happen.
+The result was not chaos but something more insidious: _false order_. Things that should not exist were given classifications and therefore became real. Creatures that the Great Sorting had dissolved were given new names and reformed. Boundaries between domains were shifted to create jurisdictional gaps that no bureau oversaw – unmonitored spaces in which anything could happen.
 
-By the time the Bureau of All Records detected the forgeries, Vëkthōr had fled into the Infernal Realms with copies of records no other being possesses. He is now the most sought-after entity in the demonic hierarchy — not for his power (which is modest by Demon Lord standards) but for his _knowledge_. Vëkthōr knows the true names and original classifications of things the celestial administration has deliberately forgotten. He trades in information the way other demons trade in souls, and his price is always the same: bring him a record from the celestial archive, and he will tell you something that was never meant to be known.
+By the time the Bureau of All Records detected the forgeries, Vëkthōr had fled into the Infernal Realms with copies of records no other being possesses. He is now the most sought-after entity in the demonic hierarchy – not for his power (which is modest by Demon Lord standards) but for his _knowledge_. Vëkthōr knows the true names and original classifications of things the celestial administration has deliberately forgotten. He trades in information the way other demons trade in souls, and his price is always the same: bring him a record from the celestial archive, and he will tell you something that was never meant to be known.
 
 ### Mortal Cultus: The Nüszōk Rëit
 
-Vëkthōr is the celestial patron of the [[affiliation-nuszokreit|Nüszōk Rëit]]'s most patient and most consequential work: the corruption of the imperial classification apparatus from within. The cult's agents inside the lower bureaucracy — clerks, copyists, registration functionaries — understand their mis-filings, duplications, and deliberate errors as service to the Forger. Small Vëkthōr-sigils are cut into the undersides of desks where cult operatives work and hidden in the bindings of defaced registers. A successful archive corruption is said to be "signed" by the Counterfeit Scribe. The cult regards Vëkthōr's continued existence as proof that the Bureaucracy's records are always partly false — that every imperial claim to classificatory authority rests on archives that have been edited, and that the editing is ongoing.
+Vëkthōr is the celestial patron of the [[affiliation-nuszokreit|Nüszōk Rëit]]'s most patient and most consequential work: the corruption of the imperial classification apparatus from within. The cult's agents inside the lower bureaucracy – clerks, copyists, registration functionaries – understand their mis-filings, duplications, and deliberate errors as service to the Forger. Small Vëkthōr-sigils are cut into the undersides of desks where cult operatives work and hidden in the bindings of defaced registers. A successful archive corruption is said to be "signed" by the Counterfeit Scribe. The cult regards Vëkthōr's continued existence as proof that the Bureaucracy's records are always partly false – that every imperial claim to classificatory authority rests on archives that have been edited, and that the editing is ongoing.
 
 ### See Also
 
-- [[affiliation-nuszokreit|Nüszōk Rëit]] — The cult whose bureaucratic sabotage is dedicated to Vëkthōr
-- [[affiliation-yokveng|Yokveng]] — The Demon Realm
-- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The Celestial Bureaucracy whose archives Vëkthōr forges
+- [[affiliation-nuszokreit|Nüszōk Rëit]] – The cult whose bureaucratic sabotage is dedicated to Vëkthōr
+- [[affiliation-yokveng|Yokveng]] – The Demon Realm
+- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] – The Celestial Bureaucracy whose archives Vëkthōr forges

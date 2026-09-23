@@ -3,7 +3,7 @@ tags:
   - town
   - hill
   - inland
-description: "A hill town of Aldorath's uplands — a wool and stone town, poorer and older than the lowland manors, keeping observances the cathedral at Dunmere would rather not examine."
+description: "A hill town of Aldorath's uplands – a wool and stone town, poorer and older than the lowland manors, keeping observances the cathedral at Dunmere would rather not examine."
 type: place
 subType: settlement
 data:
@@ -25,7 +25,7 @@ for being difficult.
 
 ## The Uplands
 
-The hill manors are poorer than those of the plain and are held on older terms — lighter labour service,
+The hill manors are poorer than those of the plain and are held on older terms – lighter labor service,
 heavier rents in kind, and customs that predate the kingdom and have never been rewritten because no
 lord has thought the trouble worth it. Upland tenants are correspondingly harder to command and rather
 freer than their lowland equivalents, a distinction both groups understand perfectly.

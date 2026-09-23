@@ -265,15 +265,15 @@ sohl:
 
 ![[vdsrpnt|Voidserpent]]{float: top-left}
 
-Where there is nothing, something moves. The Voidserpent is an absence given purpose—a gap in reality that winds through space like a living scar. Its hide, if it can be called that, is the color of nothing, studded with points of light like a backwards night sky. When it moves, space seems to warp around it, as if the world is uncertain whether to allow its passage. The very air becomes heavy and slow in its presence.
+Where there is nothing, something moves. The Voidserpent is an absence given purpose – a gap in reality that winds through space like a living scar. Its hide, if it can be called that, is the color of nothing, studded with points of light like a backward night sky. When it moves, space seems to warp around it, as if the world is uncertain whether to allow its passage. The very air becomes heavy and slow in its presence.
 
 # Dossier {#dossier}
 
-Voidserpents are beings from the spaces between worlds, creatures older than gods and far more alien than most mortals can comprehend. They may be fragments of something greater, or they may be whole entities in themselves—no one knows. They are extraordinarily rare, and each encounter is a singular event. A Voidserpent does not hunt in the normal sense; it seems to move through the world according to purposes and compulsions indifferent to human presence. To encounter one is to touch something cosmically vast and unconcerned with anything human.
+Voidserpents are beings from the spaces between worlds, creatures older than gods and far more alien than most mortals can comprehend. They may be fragments of something greater, or they may be whole entities in themselves – no one knows. They are extraordinarily rare, and each encounter is a singular event. A Voidserpent does not hunt in the normal sense; it seems to move through the world according to purposes and compulsions indifferent to human presence. To encounter one is to touch something cosmically vast and unconcerned with anything human.
 
 ## Presentation
 
-A Voidserpent is serpentine in general shape but massive—easily thirty feet or more from head to tail. Its body is composed of something between matter and void, and looking at it directly causes disorientation and conceptual confusion. The creature is colored in deep purples, blacks, and the absence of color entirely, with patterns that seem to shift and rearrange themselves according to principles that human eyes cannot quite follow. Its eyes are perfectly spherical voids of absolute darkness, and where they focus, light seems to waver and diminish. The creature moves with sinuous grace despite its mass, and its passage disturbs reality itself—sound becomes distant, colors seem less vivid, and time feels uncertain.
+A Voidserpent is serpentine in general shape but massive – easily thirty feet or more from head to tail. Its body is composed of something between matter and void, and looking at it directly causes disorientation and conceptual confusion. The creature is colored in deep purples, blacks, and the absence of color entirely, with patterns that seem to shift and rearrange themselves according to principles that human eyes cannot quite follow. Its eyes are perfectly spherical voids of absolute darkness, and where they focus, light seems to waver and diminish. The creature moves with sinuous grace despite its mass, and its passage disturbs reality itself – sound becomes distant, colors seem less vivid, and time feels uncertain.
 
 ## Key Behaviors
 
@@ -305,7 +305,7 @@ The Voidserpent can move between dimensions and through solid matter at will. It
 
 ### Void Aura
 
-Simply being near a Voidserpent is dangerous. Reality becomes unstable, and magic behaves unpredictably. Spells fizzle or misfire, weapons seem to weigh more, and time feels subjective. The effect is proportional to proximity—the closer to the Voidserpent, the worse the distortion.
+Simply being near a Voidserpent is dangerous. Reality becomes unstable, and magic behaves unpredictably. Spells fizzle or misfire, weapons seem to weigh more, and time feels subjective. The effect is proportional to proximity – the closer to the Voidserpent, the worse the distortion.
 
 ### Cosmic Resilience
 

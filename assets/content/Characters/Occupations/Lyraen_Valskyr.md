@@ -594,12 +594,12 @@ Some of the younger servants who see her as too strict.
 
 ## Plot Hooks
 
-1. **The Domestic Servant's Dilemma** — Lýraen faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
+1. **The Domestic Servant's Dilemma** – Lýraen faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
 
-2. **Old Grudges** — Some of the younger servants who see her as too strict. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** – Some of the younger servants who see her as too strict. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** — Something from Lýraen's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** – Something from Lýraen's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds** — Political changes in Provènzia threaten to upend the social order that Lýraen depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** – Political changes in Provènzia threaten to upend the social order that Lýraen depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** — A chance encounter offers Lýraen the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** – A chance encounter offers Lýraen the possibility of advancement beyond anything she has dared hope for – but the price may be higher than it first appears.

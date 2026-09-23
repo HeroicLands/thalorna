@@ -587,12 +587,12 @@ Few; she is respected in her trade, but some rival guild members may see her as 
 
 ## Plot Hooks
 
-1. **The Prostitute's Dilemma** — A client Hilda likes turns out to be the man the Gray Tide wants informed on, and she cannot keep faith with both him and the Tide.
+1. **The Prostitute's Dilemma** – A client Hilda likes turns out to be the man the Gray Tide wants informed on, and she cannot keep faith with both him and the Tide.
 
-2. **Old Grudges** — A rival at the brothel who sees Hilda as a threat has worked out where her information goes.
+2. **Old Grudges** – A rival at the brothel who sees Hilda as a threat has worked out where her information goes.
 
-3. **Echoes of the Past** — Someone from the family Hilda left behind finds her at the brothel.
+3. **Echoes of the Past** – Someone from the family Hilda left behind finds her at the brothel.
 
-4. **Shifting Winds** — Political change in Aelwyth threatens the Gray Tide's hold on the docks, and Hilda can adapt, resist, or leave.
+4. **Shifting Winds** – Political change in Aelwyth threatens the Gray Tide's hold on the docks, and Hilda can adapt, resist, or leave.
 
-5. **The Opportunity** — The Gray Tide offers Hilda a place in the organization that would take her out of the brothel, and its price is not named up front.
+5. **The Opportunity** – The Gray Tide offers Hilda a place in the organization that would take her out of the brothel, and its price is not named up front.

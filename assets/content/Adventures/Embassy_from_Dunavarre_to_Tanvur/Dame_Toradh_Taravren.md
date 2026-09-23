@@ -35,4 +35,4 @@ TBD
 
 **Background.** A decorated warrior of several campaigns, including the genocidal crusade against the [[affiliation-saelvri|Saelvri]].
 
-**Intrigue.** Secretly despises that crusade, holding it contrary to the true principles of the Order and of [[affiliation-janus|Jánus]] — and may act on her own conscience rather than the Order's official stance.
+**Intrigue.** Secretly despises that crusade, holding it contrary to the true principles of the Order and of [[affiliation-janus|Jánus]] – and may act on her own conscience rather than the Order's official stance.

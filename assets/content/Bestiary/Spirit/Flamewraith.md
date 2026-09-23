@@ -613,19 +613,19 @@ sohl:
 
 ![[flmwrth|Flamewraith]]{float: top-left}
 
-Before you materializes a dancer of flame—a form more burning intention than body. The air itself warps and shimmers, bending light into distorted waves; you feel the heat on your skin from several paces away, like standing too close to a furnace. Where it moves, embers trail and scatter, sizzling against stone and wood. The creature's limbs form and dissolve like water running upward, and where they should be a face, there is only a churning vortex of orange and white fire that seems to regard you with terrible intelligence.
+Before you materializes a dancer of flame – a form more burning intention than body. The air itself warps and shimmers, bending light into distorted waves; you feel the heat on your skin from several paces away, like standing too close to a furnace. Where it moves, embers trail and scatter, sizzling against stone and wood. The creature's limbs form and dissolve like water running upward, and where they should be a face, there is only a churning vortex of orange and white fire that seems to regard you with terrible intelligence.
 
 # Dossier {#dossier}
 
-Flamewraiths are the tortured remnants of pyromancers who died consumed by their own infernos—or sometimes spirits summoned into the material world and bound to burning objects by dark rituals. They are volatile by nature, drawn to sources of flame and destruction. A Flamewraith encountered in the wild may have escaped its binding, making it a threat to entire regions; one called forth by a sorcerer will obey until released or its anchor is shattered. They are not mindless—they hunt with cunning and patience, and they learn.
+Flamewraiths are the tortured remnants of pyromancers who died consumed by their own infernos – or sometimes spirits summoned into the material world and bound to burning objects by dark rituals. They are volatile by nature, drawn to sources of flame and destruction. A Flamewraith encountered in the wild may have escaped its binding, making it a threat to entire regions; one called forth by a sorcerer will obey until released or its anchor is shattered. They are not mindless – they hunt with cunning and patience, and they learn.
 
 ## Presentation
 
-The Flamewraith resembles a humanoid figure roughly six feet tall, composed entirely of roiling fire. Its body is not truly solid; it flickers and shifts constantly, with edges that blur and reform. Its surface ranges in color from deep orange and crimson to white-hot intensity at its core. No two moments show the same silhouette. The creature moves with liquid grace, sometimes gliding across surfaces, sometimes climbing vertical walls as though gravity is merely one option among many. It radiates intense heat sufficient to cause burns from ten feet away, and it leaves no tracks—only scorched earth and melted stone.
+The Flamewraith resembles a humanoid figure roughly six feet tall, composed entirely of roiling fire. Its body is not truly solid; it flickers and shifts constantly, with edges that blur and reform. Its surface ranges in color from deep orange and crimson to white-hot intensity at its core. No two moments show the same silhouette. The creature moves with liquid grace, sometimes gliding across surfaces, sometimes climbing vertical walls as though gravity is merely one option among many. It radiates intense heat sufficient to cause burns from ten feet away, and it leaves no tracks – only scorched earth and melted stone.
 
 ## Key Behaviors
 
-Flamewraiths are driven by a hunger for fuel and a compulsive need to consume. Most are found in places of destruction—ruins of burned settlements, volcanic regions, or around fire-touched sites. They do not sleep; they either rage across the landscape or fall into a kind of stupor near their binding object if one anchors them. When undisturbed, a Flamewraith may remain in a single place for weeks, slowly expanding a perimeter of scorched earth. Solitary creatures by nature, they become territorial and violent when encountered by others of their kind. They seem to regard living beings with a mix of hunger and contempt—food, but unworthy food.
+Flamewraiths are driven by a hunger for fuel and a compulsive need to consume. Most are found in places of destruction – ruins of burned settlements, volcanic regions, or around fire-touched sites. They do not sleep; they either rage across the landscape or fall into a kind of stupor near their binding object if one anchors them. When undisturbed, a Flamewraith may remain in a single place for weeks, slowly expanding a perimeter of scorched earth. Solitary creatures by nature, they become territorial and violent when encountered by others of their kind. They seem to regard living beings with a mix of hunger and contempt – food, but unworthy food.
 
 ## Combat Strategy
 
@@ -635,7 +635,7 @@ Flamewraiths fight without fear of pain or death, knowing they can reform from t
 
 ### Incendiary Touch
 
-The creature makes contact with flesh or fabric and the temperature spikes instantly to agony. This is heat of a different order—the inverse of freezing, a burning that penetrates through armor and cloth alike, searing muscle beneath. The victim suffers severe burns and lingering damage from internal heat.
+The creature makes contact with flesh or fabric and the temperature spikes instantly to agony. This is heat of a different order – the inverse of freezing, a burning that penetrates through armor and cloth alike, searing muscle beneath. The victim suffers severe burns and lingering damage from internal heat.
 
 ### Fireball
 
@@ -649,7 +649,7 @@ The Flamewraith can pass through solid matter as though it were mist. It can pha
 
 ### Binding Anchor
 
-The Flamewraith's true existence is tied to a single object—usually a cursed artifact, enchanted weapon, or focus item. While that object remains intact, the Flamewraith cannot be permanently destroyed; after three days, it reforms fully. Only destruction of the binding object kills it permanently.
+The Flamewraith's true existence is tied to a single object – usually a cursed artifact, enchanted weapon, or focus item. While that object remains intact, the Flamewraith cannot be permanently destroyed; after three days, it reforms fully. Only destruction of the binding object kills it permanently.
 
 ### Heat Aura
 
@@ -657,7 +657,7 @@ Simply existing near a Flamewraith is dangerous. The ambient temperature rises m
 
 ## Additional Information
 
-Flamewraiths are badly weakened by cold and water. A sufficiently large body of water can immobilize one, and sustained cold-based magic may reduce its power significantly. They are drawn instinctively to sources of flame—they will abandon a hunt if they sense a large fire nearby. This can be exploited by clever opponents. Their binding objects vary; some are grotesque (a charred bone), others beautiful (a gemstone that never cools). The object must be destroyed through normal means—typically, it requires great force or the right magical technique. A Flamewraith destroyed permanently leaves behind only ash and the binding object itself, which may be worth salvaging depending on its original nature.
+Flamewraiths are badly weakened by cold and water. A sufficiently large body of water can immobilize one, and sustained cold-based magic may reduce its power significantly. They are drawn instinctively to sources of flame – they will abandon a hunt if they sense a large fire nearby. This can be exploited by clever opponents. Their binding objects vary; some are grotesque (a charred bone), others beautiful (a gemstone that never cools). The object must be destroyed through normal means – typically, it requires great force or the right magical technique. A Flamewraith destroyed permanently leaves behind only ash and the binding object itself, which may be worth salvaging depending on its original nature.
 
 ## Attributes
 

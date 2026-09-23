@@ -23,48 +23,48 @@ data:
         title: Nídingr
         lore: excmmnctrnk
         description: >-
-          Declared nithing — cut off from the faith and from the standing that being of it
+          Declared nithing – cut off from the faith and from the standing that being of it
           conferred. No hall will seat them and no godi will speak for them.
       - level: 1
         title: Dómr Thraell
         lore: initiaternk
         description: >-
-          "Judgment Thrall" — Justice Acolyte. The god's thrall: taken into the temple young, given the observances and the labour, and years away from the priesthood.
+          "Judgment Thrall" – Justice Acolyte. The god's thrall: taken into the temple young, given the observances and the labor, and years away from the priesthood.
       - level: 3
         title: Rétt Godi/Gode
         lore: priestrnk
         description: >-
-          "Justice Priest/Priestess" — Justice Priest/Priestess. The working priest or priestess — Godi for a man, Gydja for a woman — who keeps the rites of a hall and the people who gather at it.
+          "Justice Priest/Priestess" – Justice Priest/Priestess. The working priest or priestess – Godi for a man, Gydja for a woman – who keeps the rites of a hall and the people who gather at it.
       - level: 4
         title: Dýrr Hersir
         lore: commanderrnk
         description: >-
-          "Valiant Warlord" — Valor Herald. A warlord of the faith, carrying its authority where it must be carried by force or by presence.
+          "Valiant Warlord" – Valor Herald. A warlord of the faith, carrying its authority where it must be carried by force or by presence.
       - level: 5
         title: Lög Jarl
         lore: greatlordrnk
         description: >-
-          "Law Jarl" — Warden of Law. A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
+          "Law Jarl" – Warden of Law. A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
       - level: 6
         title: Dómskonungr/Konungrkvinde
         lore: sovereignrnk
         description: >-
-          "Law King/Queen" — Lawbringer. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
+          "Law King/Queen" – Lawbringer. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
       - level: 7
         title: Týr Allsherjargodi
         lore: highpriestrnk
         description: >-
-          "Týr High Priest" — Honorable Lord. High priest — a pontifical office, speaking for the faith where it must speak with one voice.
+          "Týr High Priest" – Honorable Lord. High priest – a pontifical office, speaking for the faith where it must speak with one voice.
       - level: 8
         title: Sverd Fadir/Módir
         lore: grandmasterrnk
         description: >-
-          "Father/Mother of the Sword" — Pontiff of the Sword. Father or Mother of the god: the highest pontifical office, held by one person at a time.
+          "Father/Mother of the Sword" – Pontiff of the Sword. Father or Mother of the god: the highest pontifical office, held by one person at a time.
     offices:
       Allsherjargodi: >-
         High priest of the faith, and its voice where it must speak with one.
       Fadir/Módir: >-
-        Father or Mother of the god — the highest office, held by one person.
+        Father or Mother of the god – the highest office, held by one person.
       Godi/Gydja: >-
         The working priest or priestess of a hall, who keeps its rites and its people.
   commonSkills: []
@@ -86,7 +86,7 @@ shortcode: tyr
 packFolder: pantheonsasguardian
 ---
 
-Týr, the god of justice and honorable combat, embodies the ideals of fairness, valor, and sacrifice. As a deity who values truth and righteousness above all, Týr is revered as the ultimate judge, whose decisions are guided by an unwavering commitment to the greater good. His most famous act of sacrifice — losing his hand to the great wolf Fenrir — exemplifies his dedication to justice and the protection of the world, even at great personal cost.
+Týr, the god of justice and honorable combat, embodies the ideals of fairness, valor, and sacrifice. As a deity who values truth and righteousness above all, Týr is revered as the ultimate judge, whose decisions are guided by an unwavering commitment to the greater good. His most famous act of sacrifice – losing his hand to the great wolf Fenrir – exemplifies his dedication to justice and the protection of the world, even at great personal cost.
 
 ## Aspects
 
@@ -113,13 +113,13 @@ Temples dedicated to Týr serve as places of law and order, where disputes are s
 
 ## Clergy
 
-- **Dómr Thraell** ("Judgment Thrall") — Justice Acolyte
-- **Rétt Godi/Gode** ("Justice Priest/Priestess") — Justice Priest/Priestess
-- **Dýrr Hersir** ("Valiant Warlord") — Valor Herald
-- **Lög Jarl** ("Law Jarl") — Warden of Law
-- **Dómskonungr/Konungrkvinde** ("Law King/Queen") — Lawbringer
-- **Týr Allsherjargodi** ("Týr High Priest") — Honorable Lord
-- **Sverd Fadir/Módir** ("Father/Mother of the Sword") — Pontiff of the Sword
+- **Dómr Thraell** ("Judgment Thrall") – Justice Acolyte
+- **Rétt Godi/Gode** ("Justice Priest/Priestess") – Justice Priest/Priestess
+- **Dýrr Hersir** ("Valiant Warlord") – Valor Herald
+- **Lög Jarl** ("Law Jarl") – Warden of Law
+- **Dómskonungr/Konungrkvinde** ("Law King/Queen") – Lawbringer
+- **Týr Allsherjargodi** ("Týr High Priest") – Honorable Lord
+- **Sverd Fadir/Módir** ("Father/Mother of the Sword") – Pontiff of the Sword
 
 **Key Skills:** Legal knowledge and judgment, Combat and strategy, Oathbinding and mediation, Sacrifice and self-discipline
 

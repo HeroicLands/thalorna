@@ -276,19 +276,19 @@ sohl:
 
 ![[glmsprt|Gloomsprite]]{float: top-left}
 
-A spark of sickly light flits past your eye—there, then gone. When you follow it, there are suddenly three, no five, all slightly different colors, all mocking your inability to track them. The air around them feels colder, and you realize with creeping unease that you cannot quite remember why you were walking down this path in the first place.
+A spark of sickly light flits past your eye – there, then gone. When you follow it, there are suddenly three, no five, all slightly different colors, all mocking your inability to track them. The air around them feels colder, and you realize with creeping unease that you cannot quite remember why you were walking down this path in the first place.
 
 # Dossier {#dossier}
 
-Gloomsprites are fey tricksters native to the shadow-touched borderlands between the spirit world and the material plane. They are neither wholly evil nor entirely benign—their sense of morality exists in a space humans cannot quite inhabit. They delight in puzzles, games, and the elaborate downfall of those who break unspoken bargains. A Gloomsprite might lead travelers astray for days simply to prove a point about the dangers of assumption, or they might defend a child lost in the woods with fierce protection. Encounters with Gloomsprites are unpredictable and often disturbing, less because of physical threat than because of the unsettling nature of their attention.
+Gloomsprites are fey tricksters native to the shadow-touched borderlands between the spirit world and the material plane. They are neither wholly evil nor entirely benign – their sense of morality exists in a space humans cannot quite inhabit. They delight in puzzles, games, and the elaborate downfall of those who break unspoken bargains. A Gloomsprite might lead travelers astray for days simply to prove a point about the dangers of assumption, or they might defend a child lost in the woods with fierce protection. Encounters with Gloomsprites are unpredictable and often disturbing, less because of physical threat than because of the unsettling nature of their attention.
 
 ## Presentation
 
-A Gloomsprite is roughly the size of a man's hand, with an insectoid or fairy-like silhouette. Its body is translucent and composed of something between light and shadow, giving it a shimmering quality that makes it hard to focus on directly. Its wings are gossamer-thin and move faster than the eye can follow, producing a sound like wind through broken glass. Its eyes are the only solid-looking feature—violet or deep blue, perfectly round, and without a trace of warmth. The creature emits a faint glow that shifts between sickly green and pale purple, and this light leaves afterimages on the observer's vision if stared at too long.
+A Gloomsprite is roughly the size of a man's hand, with an insectoid or fairy-like silhouette. Its body is translucent and composed of something between light and shadow, giving it a shimmering quality that makes it hard to focus on directly. Its wings are gossamer-thin and move faster than the eye can follow, producing a sound like wind through broken glass. Its eyes are the only solid-looking feature – violet or deep blue, perfectly round, and without a trace of warmth. The creature emits a faint glow that shifts between sickly green and pale purple, and this light leaves afterimages on the observer's vision if stared at too long.
 
 ## Key Behaviors
 
-Gloomsprites are solitary creatures that haunt liminal spaces—forest edges, the boundaries between shadow and light, places where people are most likely to become lost. They are drawn to contradiction and paradox; a human following contradictory directions fascinates them for hours. Despite their malevolent reputation, they are rarely murderers—they prefer tormenting travelers with endless loops, leading them in circles, or creating situations where two choices are equally bad. This seems to amuse them. A Gloomsprite will sometimes take payment to undo its tricks, or to guide a traveler in a particular direction, but the payment requested is often bizarre and disturbing rather than valuable.
+Gloomsprites are solitary creatures that haunt liminal spaces – forest edges, the boundaries between shadow and light, places where people are most likely to become lost. They are drawn to contradiction and paradox; a human following contradictory directions fascinates them for hours. Despite their malevolent reputation, they are rarely murderers – they prefer tormenting travelers with endless loops, leading them in circles, or creating situations where two choices are equally bad. This seems to amuse them. A Gloomsprite will sometimes take payment to undo its tricks, or to guide a traveler in a particular direction, but the payment requested is often bizarre and disturbing rather than valuable.
 
 ## Combat Strategy
 
@@ -312,7 +312,7 @@ The Gloomsprite can move through shadows as though they were open spaces, appear
 
 ### Layered Illusions
 
-The creature creates phantom forms and false images that overlay reality. A victim under the effect of this ability sees multiple versions of the sprite, multiple paths, multiple exits—all false. The actual sprite is somewhere in the confusion, but finding it requires more luck than skill.
+The creature creates phantom forms and false images that overlay reality. A victim under the effect of this ability sees multiple versions of the sprite, multiple paths, multiple exits – all false. The actual sprite is somewhere in the confusion, but finding it requires more luck than skill.
 
 ### Incorporeal Nature
 
@@ -324,7 +324,7 @@ The Gloomsprite seems compelled by something deeper than law to honor explicit b
 
 ## Additional Information
 
-Bright light, especially natural sunlight or magical radiance, forces the Gloomsprite into a more corporeal form where it is vulnerable to normal weapons. Many travelers have found that producing bright light—lanterns, torches, light magic—can turn an encounter from overwhelming chaos to a manageable threat. Some experienced sprite-hunters carry mirrors to reflect and amplify light onto these creatures. A Gloomsprite killed in bright light dies like any creature, but one that reaches shadow first may simply dissipate, scattering into harmless wisps of shadow. Whether a dead Gloomsprite actually remains dead or simply withdraws to the spirit realm is unclear; no scholar has definitively answered this question.
+Bright light, especially natural sunlight or magical radiance, forces the Gloomsprite into a more corporeal form where it is vulnerable to normal weapons. Many travelers have found that producing bright light – lanterns, torches, light magic – can turn an encounter from overwhelming chaos to a manageable threat. Some experienced sprite-hunters carry mirrors to reflect and amplify light onto these creatures. A Gloomsprite killed in bright light dies like any creature, but one that reaches shadow first may simply dissipate, scattering into harmless wisps of shadow. Whether a dead Gloomsprite actually remains dead or simply withdraws to the spirit realm is unclear; no scholar has definitively answered this question.
 
 ## Attributes
 

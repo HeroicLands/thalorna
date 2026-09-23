@@ -2,7 +2,7 @@
 tags:
   - history
   - spine
-description: "In 73 BF the surviving masters draft their own terms and the Senate takes them — the Ordo Arcanis chartered under the Lex Arcana, the Quaesitorium constituted a clause earlier, and six sealed workshops set to rebuilding a burned corpus."
+description: "In 73 BF the surviving masters draft their own terms and the Senate takes them – the Ordo Arcanis chartered under the Lex Arcana, the Quaesitorium constituted a clause earlier, and six sealed workshops set to rebuilding a burned corpus."
 type: lore
 subType: history
 name:
@@ -21,7 +21,7 @@ event:
     - decided-midhalion
     - affiliation-ordoarcanis
   summary: >-
-    The surviving masters — a few score, Helionite and Vylarian together — draft their own terms and
+    The surviving masters – a few score, Helionite and Vylarian together – draft their own terms and
     the Senate takes them, because there is nobody else to ask. The Ordo Arcanis accepts the monopoly
     and its enforcement, registration of every talent, and war service on demand; in exchange it holds
     its own property, elects its own head, tries its own members in its own court, and answers to the
@@ -46,7 +46,7 @@ event:
         knowledge: named
       - place: place-midhalnrgn
         how: >-
-          practising arcane work without the register becomes a crime, and the body that enforces it
+          practicing arcane work without the register becomes a crime, and the body that enforces it
           answers to no magistrate
         knowledge: named
       - place: place-aureldirgn
@@ -92,8 +92,8 @@ A Senate that had just lost control of its own generals discovered it had also l
 could tell it whether [[lore-recensio|Alyssa]] would happen again. The survivors drafted their own
 terms and the Senate took them.
 
-**The bargain is the Ordo's politics for the next seven centuries.** It accepts the duties — the
-monopoly and its enforcement, mandatory registration of every talent, war service on demand — and in
+**The bargain is the Ordo's politics for the next seven centuries.** It accepts the duties – the
+monopoly and its enforcement, mandatory registration of every talent, war service on demand – and in
 exchange holds its own property, elects its own head, tries its own members in its own court, and
 answers to the state as a body and never as men. That is not a creature of empire. It is a
 corporation chartered by a Republic that no longer exists, and every Augustar since has inherited a
@@ -102,12 +102,12 @@ privilege he did not grant and cannot withdraw.
 **Why it went out of the Panepistemium at all.** The philosophers would not take the work: the Lex
 Arcana requires registration, seizure and, in its fifth clause, killing, and the colleges of Ethics
 and Law would not put a federation's seal on it. And a conquered Helionite federation cannot hold an
-imperial police power — the Senate would not license a body seated in a province it had sacked. So the
+imperial police power – the Senate would not license a body seated in a province it had sacked. So the
 arcane college went out and the rest stayed, with relief on both sides that neither has ever admitted
 to.
 
 **Why a college has an inquisition.** It does not. The inquisition has a college. The Quaesitorium is
-constituted a clause earlier, and its commission is not the suppression of unsanctioned magic — that
+constituted a clause earlier, and its commission is not the suppression of unsanctioned magic – that
 is its second clause. Its first is to establish what happened at Alyssa and who did it, and it has
 never been closed. The enforcement remit is the inquiry's corollary: the founding working theory is
 that the release was set by a hand not on the register, so every hand not on the register is
@@ -115,7 +115,7 @@ doctrinally a party to a seven-century-old crime.
 
 **Why the Sodalitates are six and are by element.** The corpus had burned, and what could be recovered
 was what living masters could write back down. A master reliably reconstructs only the work of the
-current he has internalised, so the salvage was run as six sealed workshops, one to each current,
+current he has internalized, so the salvage was run as six sealed workshops, one to each current,
 sealed from one another because the inquiry could not rule out that the release had been set from
 inside. Those six workshops never disbanded, which is why a fellowship is older than any chapter and
 why their reading rooms are still shut to each other.

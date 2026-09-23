@@ -411,7 +411,7 @@ sohl:
 
 ![[frstdrk|Forest Drake]]{float: top-left}
 
-The forest seems to shift as your eyes pass across the canopy, a ripple in the green that makes you stop and stare. For a moment you see nothing—then the pattern resolves into scales. Emerald bright yet dappled with lighter shades that mirror the play of leaves in sunlight, the creature becomes visible only once you know it is there. A sinuous form eight feet long coils around a branch, and when it turns its angular head toward you, two luminous yellow eyes open like twin flames. The air grows warm on your face as the creature's nostrils flare, and you hear the sound of scales sliding across bark—a sound like whispered warnings.
+The forest seems to shift as your eyes pass across the canopy, a ripple in the green that makes you stop and stare. For a moment you see nothing – then the pattern resolves into scales. Emerald bright yet dappled with lighter shades that mirror the play of leaves in sunlight, the creature becomes visible only once you know it is there. A sinuous form eight feet long coils around a branch, and when it turns its angular head toward you, two luminous yellow eyes open like twin flames. The air grows warm on your face as the creature's nostrils flare, and you hear the sound of scales sliding across bark – a sound like whispered warnings.
 
 # Dossier {#dossier}
 
@@ -419,7 +419,7 @@ The Forest Drake is a semi-arboreal reptilian predator that dominates the canopy
 
 ## Presentation
 
-The Forest Drake is a sleek, muscular predator built for arboreal life. Its body is covered in fine, overlapping scales in shades of emerald green, broken by lighter flecks and patterns that create the illusion of foliage and shadow. A row of sharp-tipped spines runs along its spine from neck to the base of its tail, and smaller ridges bracket its eyes, giving it an expression of perpetual alertness. Its forelimbs end in three sharp-curved talons designed for gripping bark and flesh alike. The tail is long and prehensile, muscular enough to support the drake's weight in climbing and ending in a wickedly sharp spine. The head is angular and reptilian with a powerful jaw, and the eyes are large and bright yellow, set to provide excellent forward and lateral vision. The vestigial wings are leathery and colorfully patterned—used for display and for regulating its warmth rather than flight.
+The Forest Drake is a sleek, muscular predator built for arboreal life. Its body is covered in fine, overlapping scales in shades of emerald green, broken by lighter flecks and patterns that create the illusion of foliage and shadow. A row of sharp-tipped spines runs along its spine from neck to the base of its tail, and smaller ridges bracket its eyes, giving it an expression of perpetual alertness. Its forelimbs end in three sharp-curved talons designed for gripping bark and flesh alike. The tail is long and prehensile, muscular enough to support the drake's weight in climbing and ending in a wickedly sharp spine. The head is angular and reptilian with a powerful jaw, and the eyes are large and bright yellow, set to provide excellent forward and lateral vision. The vestigial wings are leathery and colorfully patterned – used for display and for regulating its warmth rather than flight.
 
 ## Key Behaviors
 
@@ -427,7 +427,7 @@ Forest Drakes are solitary and fiercely territorial, with each individual contro
 
 ## Combat Strategy
 
-A forest drake's primary tactic is the ambush from above or from dense cover. It will wait in the canopy, then drop onto prey with sudden violence or strike from concealment as prey passes beneath. If the target is small enough to carry, the drake will flee upward toward the canopy; if not, it will press quick, vicious attacks while keeping escape routes open. A forest drake uses the terrain ruthlessly, climbing higher than any land-bound pursuer can follow and using the broken sight lines of the forest to lose trackers. If cornered, a drake fights with total commitment, but it strongly prefers not to—a wounded drake will flee rather than continue a fight it cannot easily win.
+A forest drake's primary tactic is the ambush from above or from dense cover. It will wait in the canopy, then drop onto prey with sudden violence or strike from concealment as prey passes beneath. If the target is small enough to carry, the drake will flee upward toward the canopy; if not, it will press quick, vicious attacks while keeping escape routes open. A forest drake uses the terrain ruthlessly, climbing higher than any land-bound pursuer can follow and using the broken sight lines of the forest to lose trackers. If cornered, a drake fights with total commitment, but it strongly prefers not to – a wounded drake will flee rather than continue a fight it cannot easily win.
 
 ## Attack Methods
 
@@ -447,7 +447,7 @@ The drake's muscular tail can be brought to bear with significant force, strikin
 
 ### Arboreal Mastery
 
-The Forest Drake moves through the canopy with perfect grace and security—it climbs at full speed without pause or effort, and trees that would be impassable to other creatures are highways for the drake. On the ground, the drake is competent but no more; in its native forest canopy, it has every advantage.
+The Forest Drake moves through the canopy with perfect grace and security – it climbs at full speed without pause or effort, and trees that would be impassable to other creatures are highways for the drake. On the ground, the drake is competent but no more; in its native forest canopy, it has every advantage.
 
 ### Camouflage Scales
 
@@ -455,7 +455,7 @@ The drake's coloration is perfectly adapted to the green and shadow of the fores
 
 ## Additional Information
 
-Forest Drakes are territorial enough that anyone settled in their range will face constant low-level predation—missing livestock, disturbing encounters at the margins of civilization, intimidation through presence and threat display. Some hunters will take contracts to remove troublesome drakes, though the work is dangerous and the payment poor. A drake's scales are valuable for armor and decoration. Some practitioners of the arcane arts have attempted to communicate with drakes due to their obvious intelligence, with mixed results—drakes seem to understand language but rarely care for bargains.
+Forest Drakes are territorial enough that anyone settled in their range will face constant low-level predation – missing livestock, disturbing encounters at the margins of civilization, intimidation through presence and threat display. Some hunters will take contracts to remove troublesome drakes, though the work is dangerous and the payment poor. A drake's scales are valuable for armor and decoration. Some practitioners of the arcane arts have attempted to communicate with drakes due to their obvious intelligence, with mixed results – drakes seem to understand language but rarely care for bargains.
 
 ## Attributes
 

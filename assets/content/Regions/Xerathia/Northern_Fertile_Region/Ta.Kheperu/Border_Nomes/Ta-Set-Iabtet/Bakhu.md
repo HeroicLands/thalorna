@@ -33,7 +33,7 @@ Bakhu is the capital of the empire's [[affiliation-nometstbtt|eastern mining mar
 
 ## See Also
 
-- [[affiliation-nometstbtt|The Nome of Ta-Set-Iabtet]] — Parent nome
-- [[affiliation-bordernoms|The Border Nomes]] — Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[affiliation-kemtnpnthn|Kemetian]] — Pantheon (Ptā'h)
+- [[affiliation-nometstbtt|The Nome of Ta-Set-Iabtet]] – Parent nome
+- [[affiliation-bordernoms|The Border Nomes]] – Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview
+- [[affiliation-kemtnpnthn|Kemetian]] – Pantheon (Ptā'h)

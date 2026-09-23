@@ -593,12 +593,12 @@ None, though some people are wary of him due to his profession.
 
 ## Plot Hooks
 
-1. **The Embalmer's Dilemma** — A body brought to Edgar for burial carries marks the family does not mention, and his respect for the dead sits badly with the silence they expect of him.
+1. **The Embalmer's Dilemma** – A body brought to Edgar for burial carries marks the family does not mention, and his respect for the dead sits badly with the silence they expect of him.
 
-2. **Old Grudges** — Edgar has no enemies, though the people who are wary of his trade are quick to suspect him when a death is questioned.
+2. **Old Grudges** – Edgar has no enemies, though the people who are wary of his trade are quick to suspect him when a death is questioned.
 
-3. **Echoes of the Past** — A family whose dead Edgar's father prepared years ago returns with questions about how it was done.
+3. **Echoes of the Past** – A family whose dead Edgar's father prepared years ago returns with questions about how it was done.
 
-4. **Shifting Winds** — Political change in Aelwyth threatens the Morticians' Guild and the custom Edgar depends upon, and he can adapt, resist, or leave.
+4. **Shifting Winds** – Political change in Aelwyth threatens the Morticians' Guild and the custom Edgar depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity** — A wealthy family offers Edgar the preparation of all its dead, and what that custom will cost him is not named up front.
+5. **The Opportunity** – A wealthy family offers Edgar the preparation of all its dead, and what that custom will cost him is not named up front.

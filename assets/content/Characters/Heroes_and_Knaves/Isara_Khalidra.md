@@ -561,7 +561,7 @@ sohl:
 
 ![[isarakhldr|Isâra Khalîdra]]{float: top-left}
 
-Isâra Khalîdra is beautiful in the way that a finely crafted instrument is beautiful — with purpose and precision behind every line. She is tall and slender, with rich brown hair that falls in carefully maintained waves, hazel eyes that shift between warmth and calculation with mercurial speed, and a complexion that seems untouched by the harshness of shipboard life. She moves with a dancer's grace, carries herself with effortless poise, and possesses a speaking voice of extraordinary beauty — low, musical, and utterly commanding. She dresses in silk and velvet even aboard the Tamzîr, maintaining an island of elegance amid the ship's general squalor. A superb dagger, its handle set with semiprecious stones, is the only concession to her surroundings.
+Isâra Khalîdra is beautiful in the way that a finely crafted instrument is beautiful – with purpose and precision behind every line. She is tall and slender, with rich brown hair that falls in carefully maintained waves, hazel eyes that shift between warmth and calculation with mercurial speed, and a complexion that seems untouched by the harshness of shipboard life. She moves with a dancer's grace, carries herself with effortless poise, and possesses a speaking voice of extraordinary beauty – low, musical, and utterly commanding. She dresses in silk and velvet even aboard the Tamzîr, maintaining an island of elegance amid the ship's general squalor. A superb dagger, its handle set with semiprecious stones, is the only concession to her surroundings.
 
 # Dossier {#dossier}
 
@@ -573,11 +573,11 @@ Isâra was born in the Helionite city of [[place-theradon2|Therádon]], one of t
 
 ### Training
 
-The Academy of the Silver Veil does not produce common escorts. It produces artists, confidantes, counselors, and social weapons. Isâra spent eight years learning music, dance, poetry, rhetoric, etiquette, herblore, law, and the subtle art of reading people. She studied politics and philosophy alongside the arts of pleasure, and she emerged at twenty as a fully licensed companion — a woman of higher social standing than most of the nobility she served.
+The Academy of the Silver Veil does not produce common escorts. It produces artists, confidantes, counselors, and social weapons. Isâra spent eight years learning music, dance, poetry, rhetoric, etiquette, herblore, law, and the subtle art of reading people. She studied politics and philosophy alongside the arts of pleasure, and she emerged at twenty as a fully licensed companion – a woman of higher social standing than most of the nobility she served.
 
 ### Aboard the Tamzîr
 
-Isâra's motives for choosing to travel aboard the Tamzîr remain opaque, and even Captain Eshârum does not know what a woman of her refinement is doing on a ship full of petty criminals. She claims to be traveling between clients, using the Tamzîr's flexible itinerary to visit ports where her services are in demand. This is plausible but incomplete. Something drove Isâra from [[place-helionis|Heliónis]], and she carries a quiet tension beneath her polished exterior that suggests she is running from something — or toward something she has not yet disclosed.
+Isâra's motives for choosing to travel aboard the Tamzîr remain opaque, and even Captain Eshârum does not know what a woman of her refinement is doing on a ship full of petty criminals. She claims to be traveling between clients, using the Tamzîr's flexible itinerary to visit ports where her services are in demand. This is plausible but incomplete. Something drove Isâra from [[place-helionis|Heliónis]], and she carries a quiet tension beneath her polished exterior that suggests she is running from something – or toward something she has not yet disclosed.
 
 ### Position Aboard
 
@@ -587,11 +587,11 @@ Isâra rents a private cabin aboard the Tamzîr and maintains her independence f
 
 ### Personality
 
-Isâra is poised, witty, and socially devastating. She navigates conversation the way Féthar navigates reefs — with instinctive precision and a deceptive appearance of ease. She is genuinely cultured, deeply intelligent, and capable of making anyone feel like the most important person in the room. But beneath the charm is a fierce independence and a will of steel. She does not tolerate being talked down to, she maintains strict boundaries around her profession, and she can deliver a cutting remark with a smile that does not reach her eyes.
+Isâra is poised, witty, and socially devastating. She navigates conversation the way Féthar navigates reefs – with instinctive precision and a deceptive appearance of ease. She is genuinely cultured, deeply intelligent, and capable of making anyone feel like the most important person in the room. But beneath the charm is a fierce independence and a will of steel. She does not tolerate being talked down to, she maintains strict boundaries around her profession, and she can deliver a cutting remark with a smile that does not reach her eyes.
 
 ### Motivation
 
-Isâra values her autonomy above all else. She chose the courtesan's path because it offered independence, intellectual stimulation, and social power — not because she lacked alternatives. Her presence aboard the Tamzîr is connected to a deeper purpose she has not revealed to the crew, and her willingness to endure the ship's discomforts suggests the stakes are significant.
+Isâra values her autonomy above all else. She chose the courtesan's path because it offered independence, intellectual stimulation, and social power – not because she lacked alternatives. Her presence aboard the Tamzîr is connected to a deeper purpose she has not revealed to the crew, and her willingness to endure the ship's discomforts suggests the stakes are significant.
 
 ### Strengths
 
@@ -599,7 +599,7 @@ She is the most socially skilled person aboard the Tamzîr by an enormous margin
 
 ### Weaknesses
 
-Isâra's emotional armor is nearly impenetrable, which isolates her from the crew and prevents genuine connection. Her pride can shade into arrogance, and she sometimes looks down on the crew's roughness in ways that create friction. Her secrets — whatever they are — make her a liability, because the crew cannot prepare for dangers they do not know exist.
+Isâra's emotional armor is nearly impenetrable, which isolates her from the crew and prevents genuine connection. Her pride can shade into arrogance, and she sometimes looks down on the crew's roughness in ways that create friction. Her secrets – whatever they are – make her a liability, because the crew cannot prepare for dangers they do not know exist.
 
 ## Social
 
@@ -613,12 +613,12 @@ Unknown. Isâra's secrets suggest she has enemies, but she has not disclosed the
 
 ### Affiliations
 
-Licensed companion of the **Academy of the Silver Veil** (Heliónis). Passenger aboard the **Tamzîr**. She has formed an unlikely connection with **Captain Eshârum Tarûzî** — a mutual respect that neither will openly acknowledge, rooted in the recognition that they are both more complicated than they appear.
+Licensed companion of the **Academy of the Silver Veil** (Heliónis). Passenger aboard the **Tamzîr**. She has formed an unlikely connection with **Captain Eshârum Tarûzî** – a mutual respect that neither will openly acknowledge, rooted in the recognition that they are both more complicated than they appear.
 
 ## Plot Hooks
 
-1. **The Silver Veil's Reach**: A message arrives for Isâra from the Academy — a summons she cannot easily refuse. The Academy wants something from her, and their request may conflict with the Tamzîr's interests. Isâra must choose between the institution that made her and the ragged family she has unexpectedly found.
+1. **The Silver Veil's Reach**: A message arrives for Isâra from the Academy – a summons she cannot easily refuse. The Academy wants something from her, and their request may conflict with the Tamzîr's interests. Isâra must choose between the institution that made her and the ragged family she has unexpectedly found.
 
-2. **A Client's Dangerous Secret**: One of Isâra's former clients contacts her desperately, claiming to possess information about the Ordo Arcanis that could protect Cibella Tamaro — but only if Isâra agrees to a meeting in a Vylarian port city crawling with imperial agents. The information may be genuine, a trap, or both.
+2. **A Client's Dangerous Secret**: One of Isâra's former clients contacts her desperately, claiming to possess information about the Ordo Arcanis that could protect Cibella Tamaro – but only if Isâra agrees to a meeting in a Vylarian port city crawling with imperial agents. The information may be genuine, a trap, or both.
 
-3. **The Mask Slips**: During a crisis aboard the Tamzîr, Isâra reveals combat skills and tactical knowledge that go far beyond what a courtesan — even a well-trained one — should possess. The crew begins to question who Isâra really is, and whether her presence aboard the ship is truly coincidental.
+3. **The Mask Slips**: During a crisis aboard the Tamzîr, Isâra reveals combat skills and tactical knowledge that go far beyond what a courtesan – even a well-trained one – should possess. The crew begins to question who Isâra really is, and whether her presence aboard the ship is truly coincidental.

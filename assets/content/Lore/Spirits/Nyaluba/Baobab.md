@@ -4,7 +4,7 @@ tags:
   - nyaluba
 type: lore
 subType: spirit
-description: "The baobab-guide of the Bombwe as a being — rooted, immensely patient, and the only one of the five that can be visited."
+description: "The baobab-guide of the Bombwe as a being – rooted, immensely patient, and the only one of the five that can be visited."
 name:
   full: Baobab Spirit
   aliases:
@@ -21,7 +21,7 @@ and the three postures, see [[lore-nyalbsprts|Nyáluba Spirits]].
 The baobab-guide is the one of the five that has a body anyone can walk up to. It does not
 move, does not hunt, and does not manifest: the tree is the guide, and there is no separate
 apparition to meet. This makes its veneration the simplest of the five and its theology the
-strangest, since it raises a question the tradition otherwise avoids — whether a guide with a
+strangest, since it raises a question the tradition otherwise avoids – whether a guide with a
 visible body is the same kind of thing as one without.
 
 Its temperament is patience carried past any human scale. Bombwe griots say it does not answer
@@ -33,5 +33,5 @@ Its withdrawal is unambiguous and final. When a town's baobab dies, the pact wit
 ended: the Bombwe do not replant, and the town disperses. Twice in remembered history this has
 happened, and both dispersals are named in the memory-songs.
 
-TBD — whether the guide is one being present in many trees or many beings of one kind, on which
+TBD – whether the guide is one being present in many trees or many beings of one kind, on which
 the Bombwe griots are said to disagree with each other.

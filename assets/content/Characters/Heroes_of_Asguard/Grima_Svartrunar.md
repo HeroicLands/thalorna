@@ -522,19 +522,19 @@ sohl:
 
 # Appearance {#appearance}
 
-Gríma stands 5'9" with a withered, skeletal frame. His pale skin has the waxy quality of a preserved corpse, and dark runic symbols are etched directly into his flesh, glowing faintly with a sickly greenish light. His black hair is thin and wispy, and his black eyes are sunken deep in their sockets, glittering with malicious intelligence. His features are sharp and cruel — a narrow face like a blade, a hooked nose, a lipless mouth that stretches in a rictus grin, and brows perpetually raised in mockery. Where he walks, plants wither and the air grows cold and stale. Gríma wears layered robes of rotting black silk over ancient armor of corroded mail, and his fingers — abnormally long and spider-like — are perpetually stained with dark pigment from carving his black runes. Despite his horrifying appearance, his runic engravings possess a perverse beauty, their elegant lines belying their corrupting purpose.
+Gríma stands 5'9" with a withered, skeletal frame. His pale skin has the waxy quality of a preserved corpse, and dark runic symbols are etched directly into his flesh, glowing faintly with a sickly greenish light. His black hair is thin and wispy, and his black eyes are sunken deep in their sockets, glittering with malicious intelligence. His features are sharp and cruel – a narrow face like a blade, a hooked nose, a lipless mouth that stretches in a rictus grin, and brows perpetually raised in mockery. Where he walks, plants wither and the air grows cold and stale. Gríma wears layered robes of rotting black silk over ancient armor of corroded mail, and his fingers – abnormally long and spider-like – are perpetually stained with dark pigment from carving his black runes. Despite his horrifying appearance, his runic engravings possess a perverse beauty, their elegant lines belying their corrupting purpose.
 
 # Dossier {#dossier}
 
-Gríma Svartrúnar was a feared and loathsome sorcerer, infamous for his dark rituals and vile practices. His heart was as black as the runes he carved into the flesh of his victims, and his insatiable hunger for power led him to delve into the most forbidden secrets of necromancy. His deeds were so wicked that even the darkest beings shunned him. Eventually, his quest for power drew the attention of Hél, who transformed him into a Nightwight — a [[being-tereb|tereb]], in the learned word — a powerful Helspawn sorcerer with mastery over death.
+Gríma Svartrúnar was a feared and loathsome sorcerer, infamous for his dark rituals and vile practices. His heart was as black as the runes he carved into the flesh of his victims, and his insatiable hunger for power led him to delve into the most forbidden secrets of necromancy. His deeds were so wicked that even the darkest beings shunned him. Eventually, his quest for power drew the attention of Hél, who transformed him into a Nightwight – a [[being-tereb|tereb]], in the learned word – a powerful Helspawn sorcerer with mastery over death.
 
-The most notorious saga of Gríma Svartrúnar involves his desecration of [[place-laurelosse|Laurelossë]], a hidden Sinalë enclave nestled deep in the forested mountains of northern Nordheim. For centuries the Sinalë had maintained Laurelossë as a sanctuary where their ancient magic intertwined with the living forest, concealed from human knowledge by wards older than the Vylarian Empire. Hél tasked Gríma with its destruction. Under cover of night, Gríma pierced the enclave's wards and entered the sanctuary, carving black runes into the earth that corrupted the natural energies binding the place together. The Sinalë, led by Calenlass Vardamir, fought valiantly to defend their haven, but Gríma's dark magic was overwhelming. In a desperate final stand, Calenlass confronted Gríma directly, but the sorcerer drew upon Hél's full power and shattered the Sinalo's star-staff. The once-lush sanctuary became a necropolis, the spirits of the fallen Sinalë trapped in eternal torment. Among the Sinalë, the name Gríma Svartrúnar is still spoken with a grief and fury that has not dimmed in decades — a rare thing, for a people who measure time in centuries.
+The most notorious saga of Gríma Svartrúnar involves his desecration of [[place-laurelosse|Laurelossë]], a hidden Sinalë enclave nestled deep in the forested mountains of northern Nordheim. For centuries the Sinalë had maintained Laurelossë as a sanctuary where their ancient magic intertwined with the living forest, concealed from human knowledge by wards older than the Vylarian Empire. Hél tasked Gríma with its destruction. Under cover of night, Gríma pierced the enclave's wards and entered the sanctuary, carving black runes into the earth that corrupted the natural energies binding the place together. The Sinalë, led by Calenlass Vardamir, fought valiantly to defend their haven, but Gríma's dark magic was overwhelming. In a desperate final stand, Calenlass confronted Gríma directly, but the sorcerer drew upon Hél's full power and shattered the Sinalo's star-staff. The once-lush sanctuary became a necropolis, the spirits of the fallen Sinalë trapped in eternal torment. Among the Sinalë, the name Gríma Svartrúnar is still spoken with a grief and fury that has not dimmed in decades – a rare thing, for a people who measure time in centuries.
 
 ## Psyche
 
 ### Personality
 
-Gríma is vile and sadistic, taking pleasure in corruption and defilement. Where Mörkvidr is coldly rational and Vargskaer is brutally direct, Gríma is cruel for cruelty's sake. He delights in twisting things of beauty into things of horror and considers the fall of [[place-laurelosse|Laurelossë]] his masterwork. He is paranoid and trusts no one, surrounding himself with layers of Helspawn guardians. Despite his evil, he possesses a perverse artistic sensibility — his rune-carvings are genuinely beautiful, which makes their dark purpose all the more disturbing.
+Gríma is vile and sadistic, taking pleasure in corruption and defilement. Where Mörkvidr is coldly rational and Vargskaer is brutally direct, Gríma is cruel for cruelty's sake. He delights in twisting things of beauty into things of horror and considers the fall of [[place-laurelosse|Laurelossë]] his masterwork. He is paranoid and trusts no one, surrounding himself with layers of Helspawn guardians. Despite his evil, he possesses a perverse artistic sensibility – his rune-carvings are genuinely beautiful, which makes their dark purpose all the more disturbing.
 
 ### Motivation
 
@@ -550,22 +550,22 @@ Gríma's runic magic is devastatingly effective at corrupting natural and divine
 
 ### Patrons
 
-**Hél** — The goddess favors Gríma's particular talent for corrupting places of life and beauty, which directly advances her dominion.
+**Hél** – The goddess favors Gríma's particular talent for corrupting places of life and beauty, which directly advances her dominion.
 
-**The Nightwight Council** — Though many of its members find Gríma distasteful, they recognize his power and utility, providing him with information about new targets.
+**The Nightwight Council** – Though many of its members find Gríma distasteful, they recognize his power and utility, providing him with information about new targets.
 
 ### Enemies
 
-**The Sinalë** — The Firstborn consider Gríma among the most hated names in their long memory. Their agents search tirelessly for a way to destroy him and free the spirits of [[place-laurelosse|Laurelossë]].
+**The Sinalë** – The Firstborn consider Gríma among the most hated names in their long memory. Their agents search tirelessly for a way to destroy him and free the spirits of [[place-laurelosse|Laurelossë]].
 
-**Calenlass Vardamir's Spirit** — The bound spirit of the Sinalo guardian resists Gríma's control and works to undermine him from within the corrupted enclave.
+**Calenlass Vardamir's Spirit** – The bound spirit of the Sinalo guardian resists Gríma's control and works to undermine him from within the corrupted enclave.
 
-**Hrafnleif the Wise** — The seer has foreseen that Gríma's corruption will eventually threaten the entire northern land if left unchecked and has made the necromancer's destruction a personal mission.
+**Hrafnleif the Wise** – The seer has foreseen that Gríma's corruption will eventually threaten the entire northern land if left unchecked and has made the necromancer's destruction a personal mission.
 
 ## Plot Hooks
 
-1. **The Cleansing of [[place-laurelosse|Laurelossë]]** — A way has been discovered to potentially break Gríma's hold on the corrupted enclave, but it requires a coalition of Sinalë, priests, and warriors willing to enter the necropolis and confront its master.
+1. **The Cleansing of [[place-laurelosse|Laurelossë]]** – A way has been discovered to potentially break Gríma's hold on the corrupted enclave, but it requires a coalition of Sinalë, priests, and warriors willing to enter the necropolis and confront its master.
 
-2. **The Black Rune Plague** — Gríma's runes have begun appearing in new locations, spreading corruption to farmland and water sources. Someone is helping him, and the trail leads to an unexpected source.
+2. **The Black Rune Plague** – Gríma's runes have begun appearing in new locations, spreading corruption to farmland and water sources. Someone is helping him, and the trail leads to an unexpected source.
 
-3. **Calenlass's Hope** — The spirit of the fallen Sinalo guardian has managed to send a message beyond the corrupted enclave: he has found a weakness in Gríma's defenses, but he needs help from the outside to exploit it before the necromancer discovers what he's done.
+3. **Calenlass's Hope** – The spirit of the fallen Sinalo guardian has managed to send a message beyond the corrupted enclave: he has found a weakness in Gríma's defenses, but he needs help from the outside to exploit it before the necromancer discovers what he's done.

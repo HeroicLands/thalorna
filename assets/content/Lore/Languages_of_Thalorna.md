@@ -40,7 +40,7 @@ This note maps the languages spoken across [[place-worldthlrn|Thalorna]], the po
 | **Dunhari**  | [[place-dunharargn\|Dunhara Region]] tribes, [[place-khzryndsrtrgn\|Khazryn Desert Region]], [[affiliation-sultntmrdd\|Sultanate of Amradad]] | [[skill-dunharlng\|Dunhari Language]]   | The language of the desert peoples. Highly poetic; oral tradition is the primary literary form.                                                             |
 | **Vedyari**  | [[place-vedyarargn\|City-States of Vedyara]]                                                                                                  | [[skill-vedyarlng\|Vedyari Language]]   | An ancient language family with many regional dialects. Sacred texts are composed in Classical Vedyari, distinct from the spoken vernaculars.               |
 | **Tānvüri**  | [[affiliation-tanvurempr\|Tānvür]]                                                                                                            | [[skill-tanvurlng\|Tanvuri Language]]   | A logographic language with complex compound morphology. The imperial dialect is the standard; regional variations are extensive.                           |
-| **Jürthāti** | [[affiliation-jurthatempr\|Jürthāt]]                                                                                                          | [[skill-jurthatlng\|Jürthāti Language]] | The island speech of the Nine Mountains — a daughter of Tānvüri with an elaborate honorific system; written in the same logographic script as the mainland. |
+| **Jürthāti** | [[affiliation-jurthatempr\|Jürthāt]]                                                                                                          | [[skill-jurthatlng\|Jürthāti Language]] | The island speech of the Nine Mountains – a daughter of Tānvüri with an elaborate honorific system; written in the same logographic script as the mainland. |
 
 ## Xerathia
 
@@ -88,11 +88,11 @@ A script is not a language. Most of Thalorna's tongues are written in a script t
 | [[skill-helnkscrpt\|Helónika]]        | Alphabet             | Heliónis, Byzaría, Bethûa                              | Helonic, Byzarian, Bethuan, northern Valtári                                                       |
 | [[skill-hazarscrpt\|Hazâri]]          | Abjad                | Harad                                                  | Haradi, southern Valtári                                                                           |
 | [[skill-dnshkscrpt\|Dûnshâk]]         | Abjad, right-to-left | Dunhara, Khazryn, Amradad                              | Dunhari and the desert dialects                                                                    |
-| [[skill-okhsshscrpt\|Okh-sesh]]       | Abjad                | Okháris                                                | Okháric — sacred form and vowelled mercantile hybrid                                               |
+| [[skill-okhsshscrpt\|Okh-sesh]]       | Abjad                | Okháris                                                | Okháric – sacred form and voweled mercantile hybrid                                                |
 | [[skill-khprsshscrpt\|Kheperi-sesh]]  | Logographic          | Ta'Kheperu                                             | Classical Kheperi, sacred and monumental only                                                      |
 | [[skill-demtkscrpt\|Demotika]]        | Logographic, cursive | Ta'Kheperu                                             | Kheperi, everything administrative and commercial                                                  |
 | [[skill-vdykshrscrpt\|Vedyákshara]]   | Syllabary            | Vedyara                                                | Classical Vedyari and the vernaculars                                                              |
-| [[skill-tngthkscrpt\|Tëng Thōk]]      | Logographic          | Tānvür and Jürthāt                                     | Tānvüri **and** Jürthāti — one script, two languages                                               |
+| [[skill-tngthkscrpt\|Tëng Thōk]]      | Logographic          | Tānvür and Jürthāt                                     | Tānvüri **and** Jürthāti – one script, two languages                                               |
 | [[skill-chlxtsbscrpt\|Ch'alix Ts'ib]] | Logographic          | K'ich'chik                                             | Ki'ichek                                                                                           |
 | [[skill-tzblcrdscrpt\|Tz'ib'al]]      | Knotted cord         | K'ich'chik                                             | Tribute, tallies and day-counts; priest-held                                                       |
 | [[skill-luthrscrpt\|Luaithári]]       | Syllabary            | Kalihara                                               | Kalihári                                                                                           |
@@ -104,34 +104,34 @@ A script is not a language. Most of Thalorna's tongues are written in a script t
 
 The three runic scripts are cognate: Proto-Pelwar _thura-vark_, "graven work," hardened in the north, formalized in the empire, and softened in the highlands. That the Nordmen and the Vylarians call their runes by the same word is the plainest evidence that the two peoples are kin.
 
-The staves themselves are older than any of them. They correspond to a subset of Khazári [[skill-drthrkscrpt|Durthrak]] too closely for coincidence, and the standing account — undocumented, and unlikely ever to be settled — is that the **Proto-Pelwar tribes were Khazári subjects**, taught a reduced work-row in the mountains before they ever migrated west. One Pelwar rune-row came out of the mountains; the migrations broke it into three, so the modern rows are simplifications of a simplification, and the [[skill-semrnscrpt|Sêmarion]] is a further remove again. The shared name is part of the same evidence: a people who invent writing do not call it "the cutting," and all three branches carried that word west because all three carried the same borrowed row.
+The staves themselves are older than any of them. They correspond to a subset of Khazári [[skill-drthrkscrpt|Durthrak]] too closely for coincidence, and the standing account – undocumented, and unlikely ever to be settled – is that the **Proto-Pelwar tribes were Khazári subjects**, taught a reduced work-row in the mountains before they ever migrated west. One Pelwar rune-row came out of the mountains; the migrations broke it into three, so the modern rows are simplifications of a simplification, and the [[skill-semrnscrpt|Sêmarion]] is a further remove again. The shared name is part of the same evidence: a people who invent writing do not call it "the cutting," and all three branches carried that word west because all three carried the same borrowed row.
 
-The Khazári treat the matter as obvious and deny it was any kind of uplift — what was taught was tally, mark, measure and oath, a tool and not a civilization. The Nordmen deny the whole thing flatly, the runes being Ódinn's and not a smith's, and the subjection rather more flatly still. Vylarian antiquarians embrace the parts that embarrass the Nordmen and handle the rest with great care.
+The Khazári treat the matter as obvious and deny it was any kind of uplift – what was taught was tally, mark, measure and oath, a tool and not a civilization. The Nordmen deny the whole thing flatly, the runes being Ódinn's and not a smith's, and the subjection rather more flatly still. Vylarian antiquarians embrace the parts that embarrass the Nordmen and handle the rest with great care.
 
 **Tongues with no script of their own.** [[skill-varokhlng|Varokhi]] has none by choice, and treats borrowed letters as foreign tools. [[skill-valtarlng|Valtári]] has none because it belongs to nobody: a dockside tally is set down in whatever letters the writer happens to know, with no orthography and no agreement between one harbor and the next. [[skill-nyalbnlng|Nyáluban]] is carried by griots and drums, and its written experiments remain marginal. [[skill-grukarlng|Grukar]] is not written at all, and could not be.
 
-## Romanising Thalorna
+## Romanizing Thalorna
 
-Thalorna's tongues are written in their own hands — runic rows, the Sêmarion
+Thalorna's tongues are written in their own hands – runic rows, the Sêmarion
 alphabet, the Kemetian signs, or nothing at all. Every Latin spelling in these
-pages is therefore a romanisation, and one rule governs all of them, in every
-language and not only the northern ones: **a romanised name has to be typeable.**
+pages is therefore a romanization, and one rule governs all of them, in every
+language and not only the northern ones: **a romanized name has to be typeable.**
 
 A name is looked up far more often than it is admired. Someone meets it in a
 saga, a session, or a compendium list, and then goes to find it by typing what
-they saw — so any spelling that cannot be reached from an ordinary keyboard is a
+they saw – so any spelling that cannot be reached from an ordinary keyboard is a
 name that has been hidden rather than decorated.
 
 The line falls in a precise place, and it is not where it looks. An accented
 letter is an ordinary letter wearing a mark: á, ê, ö, ñ and š all reduce to
 a, e, o, n and s on their own, so a search for _harn_ finds Hârn without
 anybody arranging it. Thorn, eth, ash, slashed o and eszett are not accented
-letters at all — they are separate letters, with no plain letter inside them to
+letters at all – they are separate letters, with no plain letter inside them to
 reduce to, so a search for _thorr_ can never reach a name spelled with a thorn.
 Those are written out: `th`, `d`, `ae`, `o`, `ss`.
 
 This once stopped at **names and words**, on the grounds that the phonetic
-notation in the language notes was doing a different job — describing a sound
+notation in the language notes was doing a different job – describing a sound
 precisely for a reader studying the language, not looking up a person. That
 exemption is withdrawn. The notes are now set in books as well as on screen, and
 a phonetic alphabet is exactly the part of the corpus that no ordinary text face
@@ -139,8 +139,8 @@ carries: the sounds were spelled in letters that most fonts have never heard of,
 so a page of them either falls back to some unrelated face or prints as empty
 boxes.
 
-So the language notes describe their sounds the way a traveller's phrasebook
-does — _the "a" of "about"_, _the rasp of Scottish "loch"_ — and tone is
+So the language notes describe their sounds the way a traveler's phrasebook
+does – _the "a" of "about"_, _the rasp of Scottish "loch"_ – and tone is
 numbered 1 to 5 rather than drawn as pitch bars. It is a plainer instrument, and
 it reaches a reader who has never studied phonetics. Nobody searched for a schwa
 either.

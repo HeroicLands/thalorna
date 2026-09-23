@@ -563,7 +563,7 @@ She has been slower to be accepted in the compact than her marks have been in th
 
 ### Personality
 
-Nûlazî is exact, quiet and hard to hurry, cautious to a fault in choosing a tree, and she takes a doubt about her judgement as a challenge to be answered with the next stem.
+Nûlazî is exact, quiet and hard to hurry, cautious to a fault in choosing a tree, and she takes a doubt about her judgment as a challenge to be answered with the next stem.
 
 ### Motivation
 
@@ -589,10 +589,10 @@ The naqîr of the compact, an old timber-dealer who has said in council that a w
 
 ## Plot Hooks
 
-1. **The Keel** — A galley built on a keel Nûlazî refused and another timberwright passed has broken its back in the first heavy sea. The yard wants her to say so before the compact; the naqîr wants her silent.
+1. **The Keel** – A galley built on a keel Nûlazî refused and another timberwright passed has broken its back in the first heavy sea. The yard wants her to say so before the compact; the naqîr wants her silent.
 
-2. **The Hill Stand** — The best oak she has found in years stands on ground the inland tribes up the valley say is theirs, and the compact's charter says nothing about tribes.
+2. **The Hill Stand** – The best oak she has found in years stands on ground the inland tribes up the valley say is theirs, and the compact's charter says nothing about tribes.
 
-3. **The Examination** — The compact has called Nûlazî to re-examination on a complaint about her marks. The complaint is the naqîr's, and the examiners are his.
+3. **The Examination** – The compact has called Nûlazî to re-examination on a complaint about her marks. The complaint is the naqîr's, and the examiners are his.
 
-4. **The Factors' Timber** — The House of Factors has contracted for cheap ship-timber from over the sea, and the shipwrights have been told to use it. Nûlazî would not mark a tree like it.
+4. **The Factors' Timber** – The House of Factors has contracted for cheap ship-timber from over the sea, and the shipwrights have been told to use it. Nûlazî would not mark a tree like it.

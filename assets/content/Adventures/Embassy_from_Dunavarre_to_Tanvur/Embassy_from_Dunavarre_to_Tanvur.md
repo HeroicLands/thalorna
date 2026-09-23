@@ -128,7 +128,7 @@ Name: Geldar Panivel, the Younger
 
 - **Role:** Ensures meals are prepared appropriately.
 - **Background:** Well-known for his culinary skills and ability to maintain morale through food.
-- **Intrigue:** Geldar is secretly a [[affiliation-thanatos|Thanatine]] acolyte and spy. Three years ago, in 717, he was involved in the kidnapping and murder of [[being-balothnemirina|Baloth Nemirina]], a [[affiliation-repblctrvn|Tarvennan]] Senator. This act binds him to a criminal past that could be used against him. Geldar may exploit this information to his advantage—either as a bargaining chip to save himself if he is exposed as a Thanatine or to bolster his standing among the Thanatines in Tarvenne. Given his covert activities, he might be planning poisonings or sabotage within the party.
+- **Intrigue:** Geldar is secretly a [[affiliation-thanatos|Thanatine]] acolyte and spy. Three years ago, in 717, he was involved in the kidnapping and murder of [[being-balothnemirina|Baloth Nemirina]], a [[affiliation-repblctrvn|Tarvennan]] Senator. This act binds him to a criminal past that could be used against him. Geldar may exploit this information to his advantage – either as a bargaining chip to save himself if he is exposed as a Thanatine or to bolster his standing among the Thanatines in Tarvenne. Given his covert activities, he might be planning poisonings or sabotage within the party.
 
 ### Falconer/Huntsman
 
@@ -166,9 +166,9 @@ Similarly for all of the other positions, players could choose to be members of 
 
 ### Vylarian Opposition
 
-The Vylarian Empire currently serves as the sole intermediary for diplomatic relations between western Ankaris and Tānvür. This monopoly over the eastern diplomatic channel is a source of enormous leverage — Vylaria controls the flow of information, trade agreements, and political access between Dúnavarre and the Tānvür court. An independent Dúnavarren embassy would shatter this monopoly and diminish Vylarian influence in both regions.
+The Vylarian Empire currently serves as the sole intermediary for diplomatic relations between western Ankaris and Tānvür. This monopoly over the eastern diplomatic channel is a source of enormous leverage – Vylaria controls the flow of information, trade agreements, and political access between Dúnavarre and the Tānvür court. An independent Dúnavarren embassy would shatter this monopoly and diminish Vylarian influence in both regions.
 
-- **Motivation:** Vylaria will do everything in its power to ensure Dúnavarre’s diplomatic mission fails. The empire cannot afford to lose its intermediary position — both the prestige and the material advantages it provides are too valuable for a declining power to surrender willingly.
+- **Motivation:** Vylaria will do everything in its power to ensure Dúnavarre’s diplomatic mission fails. The empire cannot afford to lose its intermediary position – both the prestige and the material advantages it provides are too valuable for a declining power to surrender willingly.
 - **Methods:** The Vylarian Senate’s intelligence apparatus has embedded agents within the mission itself. Through espionage, misinformation, and manipulation, Vylaria aims to sabotage the embassy from within while maintaining plausible deniability.
 - **Political Cover:** Officially, Vylaria has expressed polite support for Dúnavarre’s diplomatic ambitions. In private, the Senate views the mission as a direct threat to imperial interests and has authorized covert operations to ensure its failure.
 
@@ -177,7 +177,7 @@ The Vylarian Empire currently serves as the sole intermediary for diplomatic rel
 - **Role:** Loris is a Vylarian agent planted within the mission. In exchange for intelligence, he receives monetary rewards and promises of advancement within the Vylarian diplomatic corps.
 - **Mission:** To gather sensitive information about Dúnavarre’s diplomatic strategies, military capabilities, and any weaknesses that can be exploited by Vylaria to maintain its intermediary monopoly.
 - **Manipulation:** Uses his relationship with Elowyr to extract confidential information. Feeds false information to Marric, whom he dismisses as an ineffective spymaster, to sow confusion and achieve Vylarian objectives.
-- **Ultimate Goal:** Undermine Dúnavarre’s mission to Tānvür, steering it towards failure or manipulating outcomes favorable to Vylarian interests.
+- **Ultimate Goal:** Undermine Dúnavarre’s mission to Tānvür, steering it toward failure or manipulating outcomes favorable to Vylarian interests.
 
 ## Adventure 1: The [[miscgear-heartofdhirikri|Heart of Dhiríkri]]
 
@@ -193,7 +193,7 @@ Central Plot: The mission arrives at [[place-beravel|Béravel]], capital of Éla
 
 ### Úqua-Arálwen
 
-The Úqua-Arálwen is a ‘slow’ zone with deep Terrae resonance — the elemental way of earth, stone, and growth — home to ancient trees and dryads. Few humans who have entered have ever returned. The zone is known for its temporal anomalies, where a day spent within could translate to a month passing outside.
+The Úqua-Arálwen is a "slow" zone with deep Terrae resonance – the elemental way of earth, stone, and growth – home to ancient trees and dryads. Few humans who have entered have ever returned. The zone is known for its temporal anomalies, where a day spent within could translate to a month passing outside.
 
 #### Challenge: Temporal Distortion:
 

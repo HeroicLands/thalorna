@@ -274,7 +274,7 @@ sohl:
 
 ![[giantant|Giant Ant]]{float: top-left}
 
-The ground trembles beneath your feet—a rhythmic vibration that grows steadily more pronounced. Then you see it: a chitinous form three feet long at the shoulders, mandibles spread impossibly wide, advancing with mechanical precision. Its segments gleam like burnished bronze, and where its compound eyes face you, you see reflected a multiplicity of movement. The air fills with a pheromonal reek—acrid, caustic, alien. Behind it, you hear the clicking and scratching of more legs on stone, and the sound of mandibles snapping together in unison.
+The ground trembles beneath your feet – a rhythmic vibration that grows steadily more pronounced. Then you see it: a chitinous form three feet long at the shoulders, mandibles spread impossibly wide, advancing with mechanical precision. Its segments gleam like burnished bronze, and where its compound eyes face you, you see reflected a multiplicity of movement. The air fills with a pheromonal reek – acrid, caustic, alien. Behind it, you hear the clicking and scratching of more legs on stone, and the sound of mandibles snapping together in unison.
 
 # Dossier {#dossier}
 
@@ -282,7 +282,7 @@ The Giant Ant is an insect soldier standing three to five feet in body length, w
 
 ## Presentation
 
-A Giant Ant has a segmented body covered in dark brown or bronze chitin that provides armor-like protection. The head bears two large compound eyes that give the creature a broad field of vision, and two wicked mandibles that can open to angles that seem physically improbable. The thorax is thick and powerful, supporting six articulated legs that move with perfect, mechanical synchronization—each foot finding purchase with eerie precision. The legs are equipped with hooks and claws that allow the ant to traverse vertical surfaces as easily as flat ground. The abdomen is bulbous and segmented, with a small stinger or pheromone-releasing organ at the tip. The creature's coloration ranges from dark brown to reddish-bronze, and its chitinous shell produces a faint clicking sound as segments shift and flex.
+A Giant Ant has a segmented body covered in dark brown or bronze chitin that provides armor-like protection. The head bears two large compound eyes that give the creature a broad field of vision, and two wicked mandibles that can open to angles that seem physically improbable. The thorax is thick and powerful, supporting six articulated legs that move with perfect, mechanical synchronization – each foot finding purchase with eerie precision. The legs are equipped with hooks and claws that allow the ant to traverse vertical surfaces as easily as flat ground. The abdomen is bulbous and segmented, with a small stinger or pheromone-releasing organ at the tip. The creature's coloration ranges from dark brown to reddish-bronze, and its chitinous shell produces a faint clicking sound as segments shift and flex.
 
 ## Key Behaviors
 
@@ -290,17 +290,17 @@ Giant Ants exist as specialized individuals within a colony structure. Soldier a
 
 ## Combat Strategy
 
-A single giant ant fights with directness and tenacity—advancing and attempting to grapple prey while snapping with mandibles. Its primary goal is immobilization, as the ant wants to carry prey back to the colony for the larvae. A colony of ants uses numbers and coordination: they swarm from multiple angles, concentrating on individual targets, and attempt to isolate wounded or separated targets from the group. If a soldier is killed, other ants will ignore the body and continue fighting, following the pheromone trails of living threats. A colony only retreats when casualties become catastrophic or when the queen is threatened—ants will fight unto death to defend their nest.
+A single giant ant fights with directness and tenacity – advancing and attempting to grapple prey while snapping with mandibles. Its primary goal is immobilization, as the ant wants to carry prey back to the colony for the larvae. A colony of ants uses numbers and coordination: they swarm from multiple angles, concentrating on individual targets, and attempt to isolate wounded or separated targets from the group. If a soldier is killed, other ants will ignore the body and continue fighting, following the pheromone trails of living threats. A colony only retreats when casualties become catastrophic or when the queen is threatened – ants will fight unto death to defend their nest.
 
 ## Attack Methods
 
 ### Mandible Bite
 
-A powerful crushing and tearing attack—the mandibles close with force sufficient to bite through leather armor, bone, and soft flesh alike. The ant locks mandibles onto a target and pulls, attempting to drag prey closer or tear the wound wider.
+A powerful crushing and tearing attack – the mandibles close with force sufficient to bite through leather armor, bone, and soft flesh alike. The ant locks mandibles onto a target and pulls, attempting to drag prey closer or tear the wound wider.
 
 ### Grapple and Drag
 
-The ant's six strong legs provide stability and leverage—it grapples with both mandibles and body, attempting to wrap around a target and immobilize it long enough for other ants to strike or for the prey to be carried back to the colony.
+The ant's six strong legs provide stability and leverage – it grapples with both mandibles and body, attempting to wrap around a target and immobilize it long enough for other ants to strike or for the prey to be carried back to the colony.
 
 ## Special Abilities
 
@@ -314,7 +314,7 @@ The ant's chitinous shell provides natural protection from weapons that rely on 
 
 ## Additional Information
 
-Giant ants represent both opportunity and hazard. An active ant colony can be domesticated or negotiated with through various magical means, turning them into useful allies for clearing other pests or defending territory. However, a provoked colony is implacable in pursuit and will pursue enemies to the ends of their territory. Ant eggs are edible and considered a delicacy in some cultures—harvesting them is a profitable but extremely dangerous undertaking. The chitin from a giant ant can be worked into armor or decorations.
+Giant ants represent both opportunity and hazard. An active ant colony can be domesticated or negotiated with through various magical means, turning them into useful allies for clearing other pests or defending territory. However, a provoked colony is implacable in pursuit and will pursue enemies to the ends of their territory. Ant eggs are edible and considered a delicacy in some cultures – harvesting them is a profitable but extremely dangerous undertaking. The chitin from a giant ant can be worked into armor or decorations.
 
 ## Attributes
 

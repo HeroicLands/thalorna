@@ -570,7 +570,7 @@ Can be overly ambitious, sometimes prioritizes career over personal relationship
 
 ### Motivation
 
-Grímr's driving force is the search that defines his life — a quest that shapes every decision he makes and every risk he takes.
+Grímr's driving force is the search that defines his life – a quest that shapes every decision he makes and every risk he takes.
 
 ### Strengths
 
@@ -594,12 +594,12 @@ A few rival litigants who envy his success.
 
 ## Plot Hooks
 
-1. **The Litigant's Dilemma** — Grímr faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
+1. **The Litigant's Dilemma** – Grímr faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
 
-2. **Old Grudges** — A few rival litigants who envy his success. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** – A few rival litigants who envy his success. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** — Something from Grímr's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past** – Something from Grímr's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds** — Political changes in Nordheim threaten to upend the social order that Grímr depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** – Political changes in Nordheim threaten to upend the social order that Grímr depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** — A chance encounter offers Grímr the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** – A chance encounter offers Grímr the possibility of advancement beyond anything he has dared hope for – but the price may be higher than it first appears.

@@ -338,7 +338,7 @@ sohl:
 
 ![[rckbckbr|Rockback Bear]]{float: top-left}
 
-The massive form rises from the underbrush, and suddenly the forest itself seems too small. Shaggy dark fur ripples across a muscular frame as the creature stands, towering above you, its breath forming clouds of mist. But it is the patches of rough, stone-like protrusions along its back and shoulders that capture your attention — as if the bear itself is part-stone, part-flesh, something caught between two states of being. The small, dark eyes burn with an intensity that belies their size, and the sound that emerges is somewhere between a growl and the scraping of stone on stone. Its massive paws flex, and you see the claws — dark, curved, and long as daggers — score deep gouges in the rock beneath its feet.
+The massive form rises from the underbrush, and suddenly the forest itself seems too small. Shaggy dark fur ripples across a muscular frame as the creature stands, towering above you, its breath forming clouds of mist. But it is the patches of rough, stone-like protrusions along its back and shoulders that capture your attention – as if the bear itself is part-stone, part-flesh, something caught between two states of being. The small, dark eyes burn with an intensity that belies their size, and the sound that emerges is somewhere between a growl and the scraping of stone on stone. Its massive paws flex, and you see the claws – dark, curved, and long as daggers – score deep gouges in the rock beneath its feet.
 
 # Dossier {#dossier}
 
@@ -346,7 +346,7 @@ The Rockback Bear is an apex predator of high mountains and rocky slopes, standi
 
 ## Presentation
 
-The Rockback Bear presents a form of overwhelming muscular power covered in dark, shaggy fur that appears matted and weathered from years in rough terrain. The distinctive feature is the rocky armor — rough, stone-like protrusions that grow along the back, shoulders, spine, and skull, creating a natural armoring that appears to be part of the creature itself. These growths are not dead stone but living bone covered in keratin, adapted for the bear’s mountain environment. The head is massive and bear-like, with small, deep-set dark eyes that burn with predatory intelligence, a powerful jaw capable of crushing bone, and ears that swivel to track sounds. The paws are enormous, each with five curved claws suitable for climbing, digging, and tearing. The tail is short and barely visible beneath the bear’s rear haunches.
+The Rockback Bear presents a form of overwhelming muscular power covered in dark, shaggy fur that appears matted and weathered from years in rough terrain. The distinctive feature is the rocky armor – rough, stone-like protrusions that grow along the back, shoulders, spine, and skull, creating a natural armoring that appears to be part of the creature itself. These growths are not dead stone but living bone covered in keratin, adapted for the bear’s mountain environment. The head is massive and bear-like, with small, deep-set dark eyes that burn with predatory intelligence, a powerful jaw capable of crushing bone, and ears that swivel to track sounds. The paws are enormous, each with five curved claws suitable for climbing, digging, and tearing. The tail is short and barely visible beneath the bear’s rear haunches.
 
 ## Key Behaviors
 
@@ -398,7 +398,7 @@ The rockback’s body heals fast, recovering from wounds over days or weeks that
 
 ### Additional Information
 
-Rockback bears avoid humanoid settlements and travel routes through learned experience — a bear that has never encountered humans is more likely to ignore them. However, bears that have been hunted develop deep enmity toward humanoids and will actively seek revenge. A rockback defending cubs becomes nearly unstoppable and will pursue intruders for extended distances. The bear’s rocky armor can be harvested after death by expert armorers and used to craft protective gear, making rockbacks valuable but dangerous targets for hunters.
+Rockback bears avoid humanoid settlements and travel routes through learned experience – a bear that has never encountered humans is more likely to ignore them. However, bears that have been hunted develop deep enmity toward humanoids and will actively seek revenge. A rockback defending cubs becomes nearly unstoppable and will pursue intruders for extended distances. The bear’s rocky armor can be harvested after death by expert armorers and used to craft protective gear, making rockbacks valuable but dangerous targets for hunters.
 
 ## Attributes
 

@@ -3,7 +3,7 @@ tags:
   - village
   - woodland
   - sacred
-description: "The threshold enclave on the edge of the Áelendan tribal lands — small, deliberately placed, and the point through which the Sinalë deal with the rest of humanity by way of Áelendan intermediaries."
+description: "The threshold enclave on the edge of the Áelendan tribal lands – small, deliberately placed, and the point through which the Sinalë deal with the rest of humanity by way of Áelendan intermediaries."
 type: place
 subType: settlement
 data:
@@ -22,7 +22,7 @@ packFolder: elavendre
 
 **Ethalossë** sits at the eastern margin of the [[place-alndntrblnds|Áelendan Tribal Lands]], where the
 high wood thins toward the passes. It is the smallest of Élavendre's [[lore-flksinale|Sinalë]] enclaves
-— seventy or so — and the only one whose position looks, to an outsider who knew enough to notice,
+– seventy or so – and the only one whose position looks, to an outsider who knew enough to notice,
 **chosen for access rather than for seclusion**.
 
 That is exactly what it is. Ethalossë is where the Sinalë conduct business with the world.
@@ -33,8 +33,8 @@ The Sinalë do not treat with human powers. They have not for millennia, they de
 and the handful of exceptions are all one exception: they will deal with the
 [[lore-aelendnppl|Áelendan]], and the Áelendan will carry.
 
-So when something must pass between a Sinalë enclave and a human authority — a warning, a refusal, a
-question about a disturbed site, the return of something taken — it goes through Ethalossë, and out
+So when something must pass between a Sinalë enclave and a human authority – a warning, a refusal, a
+question about a disturbed site, the return of something taken – it goes through Ethalossë, and out
 again in the mouth of an Áelendan who has been asked to carry it. Elders come up to the enclave; they
 are received; they go back down and speak to whoever needs speaking to.
 
@@ -50,7 +50,7 @@ The arrangement has two properties that matter enormously and are rarely stated:
   withdrawn without a word being said to anyone at Béravel.
 
 Every Élavendren monarch has understood this. It is the quiet floor beneath the whole of the kingdom's
-careful management of the [[affiliation-ordoarcanis|Ordo]] — and the reason no reign has ever been
+careful management of the [[affiliation-ordoarcanis|Ordo]] – and the reason no reign has ever been
 willing to let the Áelendan be pushed too far.
 
 ## The Threshold

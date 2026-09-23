@@ -3,7 +3,7 @@ tags:
   - region
   - hill
   - inland
-description: "The wool uplands of Aldorath — poorer, older and freer than the vale below, running the flocks whose clip is known across Thalorna."
+description: "The wool uplands of Aldorath – poorer, older and freer than the vale below, running the flocks whose clip is known across Thalorna."
 type: place
 subType: region
 data:
@@ -33,7 +33,7 @@ The vale grows the food; Brynwold earns the coin.
 
 ## Older Terms
 
-The upland manors are held on lighter and older terms than the vale's — less labour service, heavier
+The upland manors are held on lighter and older terms than the vale's – less labor service, heavier
 rents in kind, and customs that predate the kingdom and have never been rewritten. Upland tenants are
 correspondingly harder to command and appreciably freer, which the lowlands consider a standing
 irregularity and the uplands consider the natural order.

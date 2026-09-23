@@ -40,15 +40,15 @@ sohl:
 packFolder: astrokyklos
 ---
 
-Bourax, the Ox, lends steadiness of hand and patience of mind. Its children take naturally to the growing field, the written word, and the maker's bench, though the deeper mysteries and feats of the body come to them only with labour.
+Bourax, the Ox, lends steadiness of hand and patience of mind. Its children take naturally to the growing field, the written word, and the maker's bench, though the deeper mysteries and feats of the body come to them only with labor.
 
 | Element | Skills it claims          | EML |
 | ------- | ------------------------- | --- |
 | Earth   | Nature                    | +10 |
 | Metal   | Craft, Script             | +10 |
-| Fire    | Combat, Combat Techniques | —   |
+| Fire    | Combat, Combat Techniques | –   |
 | Air     | Physical                  | −10 |
 | Spirit  | Lore, Mystical            | −10 |
-| Water   | Language, Social          | —   |
+| Water   | Language, Social          | –   |
 
 The wheel of signs, and what the six elements of the Astrokýklos each claim, are set out under [[sohl-none-doc-brthsgn|Birthsign]].

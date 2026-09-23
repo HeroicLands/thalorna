@@ -5,7 +5,7 @@ tags:
   - vylaria
   - cross-realm
   - economy
-description: "Standard currency of western and central Ankaris — the three-coin Vylarian system (Aurion, Argentus/Argo, Octus/Bit) and the paper script layered above it; accepted as foreign currency in the Northern Fertile Region of Xerathia."
+description: "Standard currency of western and central Ankaris – the three-coin Vylarian system (Aurion, Argentus/Argo, Octus/Bit) and the paper script layered above it; accepted as foreign currency in the Northern Fertile Region of Xerathia."
 type: lore
 subType: economy
 name:
@@ -21,7 +21,7 @@ name:
 shortcode: vylrncrncy
 ---
 
-**Scope:** The Vylarian currency is the standard currency of western and central Ankaris. It is the legal tender of [[affiliation-vylarinmpr|Vylaria]] and [[place-helionis|Heliónis]] (the territories under direct imperial governance); it is the practical standard of commerce in the [[place-aureldirgn|Aurèldían kingdoms]] and [[place-byzariargn|Byzaría]] (the post-imperial commonwealth members); it is accepted (as a foreign currency, alongside the local Ta'Kheperan system) in the **Northern Fertile Region of [[place-xerathia|Xerathia]]** — [[place-bethuargn|Bethûa]], [[place-okharisrgn|Okháris]], and [[place-takheperurgn|Ta'Kheperu]]. Outside these regions it is exchangeable through moneylenders but is not the dominant medium of exchange.
+**Scope:** The Vylarian currency is the standard currency of western and central Ankaris. It is the legal tender of [[affiliation-vylarinmpr|Vylaria]] and [[place-helionis|Heliónis]] (the territories under direct imperial governance); it is the practical standard of commerce in the [[place-aureldirgn|Aurèldían kingdoms]] and [[place-byzariargn|Byzaría]] (the post-imperial commonwealth members); it is accepted (as a foreign currency, alongside the local Ta'Kheperan system) in the **Northern Fertile Region of [[place-xerathia|Xerathia]]** – [[place-bethuargn|Bethûa]], [[place-okharisrgn|Okháris]], and [[place-takheperurgn|Ta'Kheperu]]. Outside these regions it is exchangeable through moneylenders but is not the dominant medium of exchange.
 
 The currency is minted and authorized by the imperial [[affiliation-aerarimmpr|The Aerarium Imperii]]. Provincial mints (in Vylarian and Heliónite cities) strike Argenti and Octi under Aerarium standards; Aurions are minted only at Magnápolis. Post-imperial polities do not mint Vylarian coin themselves; their commercial life draws on the imperial coinage as circulating currency without producing it.
 
@@ -29,7 +29,7 @@ The currency is minted and authorized by the imperial [[affiliation-aerarimmpr|T
 
 | Coin                  | Metal  | Common Use                                                                                                                                                                    | Conversion                  |
 | --------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| **Aurion**            | Gold   | Substantial transactions — land sales, inheritance settlements, large commercial contracts, military commission purchases (denominated in Aurions even when settled in paper) | 160 Argo                    |
+| **Aurion**            | Gold   | Substantial transactions – land sales, inheritance settlements, large commercial contracts, military commission purchases (denominated in Aurions even when settled in paper) | 160 Argo                    |
 | **Argentus** (_Argo_) | Silver | The standard unit of account for ordinary commerce; the everyday large-denomination coin                                                                                      | 1 Argo                      |
 | **Octus** (_Bit_)     | Silver | Physical 1/8 of an Argo; the everyday small-denomination coin                                                                                                                 | 1/8 Argo / 1,280 per Aurion |
 
@@ -37,25 +37,25 @@ The three-tier ratio (Aurion : Argentus : Octus :: 1 : 160 : 1,280) has been fix
 
 ### The Aurion
 
-The Aurion is a small gold coin — physically about the size of a small fingernail, roughly 18mm in diameter. The obverse bears the profile of the reigning Augustar (renewed at each imperial accession; older coin remains legal tender). The reverse bears the imperial Aquila — the eagle of the legions — over the inscription _Sub Aquila stant fines_ ("Beneath the eagle stand the borders"). The edge is milled to prevent clipping.
+The Aurion is a small gold coin – physically about the size of a small fingernail, roughly 18mm in diameter. The obverse bears the profile of the reigning Augustar (renewed at each imperial accession; older coin remains legal tender). The reverse bears the imperial Aquila – the eagle of the legions – over the inscription _Sub Aquila stant fines_ ("Beneath the eagle stand the borders"). The edge is milled to prevent clipping.
 
 The Aurion is _rare in circulation_. Perhaps 200,000 coins exist empire-wide at any one time, the great majority held in noble household vaults, the [[affiliation-aerarimmpr|imperial treasury]]'s strongroom at Magnápolis, and the [[affiliation-clgmrgntrrm|Argentariorum]]'s chapter reserves. Most commoners go their entire lives without holding one. Even most Aerean nobles handle few of them physically; their wealth tends to be denominated _in_ Aurions but held in deeded estates, in moneylender deposits, or in paper script. A merchant who pulls out an Aurion to settle a transaction at a market stall draws immediate attention; the gesture is the financial equivalent of unsheathing a sword.
 
 ### The Argentus (Argo)
 
-The Argentus — colloquially the _Argo_ — is the workhorse of Vylarian commerce. It is a large heavy silver coin, comparable to a Terran silver dollar in size and weight (roughly 38mm in diameter, 27 grams of high-purity silver). The obverse bears the imperial eagle and cypher; the reverse bears the value mark and the issuing mint's location stamp (the Magnápolis mint mark, the provincial mint mark for Vylarian and Heliónite provincial issues). The edge is milled.
+The Argentus – colloquially the _Argo_ – is the workhorse of Vylarian commerce. It is a large heavy silver coin, comparable to a Terran silver dollar in size and weight (roughly 38mm in diameter, 27 grams of high-purity silver). The obverse bears the imperial eagle and cypher; the reverse bears the value mark and the issuing mint's location stamp (the Magnápolis mint mark, the provincial mint mark for Vylarian and Heliónite provincial issues). The edge is milled.
 
-The Argo is the unit of account for everyday large commerce — a day's beer for a tavern of regulars, a craftsman's weekly settlement with his apprentice, the price of a working tool, a chicken at market, lodging at a respectable inn. Its physical size makes it impractical for very small purchases (it would be like paying with a silver dollar at a coffee shop), which is why the Octus exists.
+The Argo is the unit of account for everyday large commerce – a day's beer for a tavern of regulars, a craftsman's weekly settlement with his apprentice, the price of a working tool, a chicken at market, lodging at a respectable inn. Its physical size makes it impractical for very small purchases (it would be like paying with a silver dollar at a coffee shop), which is why the Octus exists.
 
 The colloquial form "Argo" is universal in informal speech; the formal "Argentus" appears only in legal documents, formal contracts, and imperial accounting. A Vylarian saying "twenty Argo" means twenty Argenti; the formal phrasing would be "twenty Argenti" or, in legal writing, "XX Argenti."
 
 ### The Octus (Bit)
 
-The Octus — colloquially the _Bit_ — is physically _one-eighth of an Argo_, cut from the parent coin along the eight-segment pattern struck into the Argo's reverse face. The cut Octus is therefore a wedge-shaped piece of silver, triangular in outline, roughly 1/8 the weight of an Argo and 1/8 its silver content. The cutting is done by moneylenders, by shopkeepers, by anyone with a sharp blade and the need to make change. A worn Argo with all eight Bits cut from it leaves a small central remnant; the remnant is conventionally returned to the moneylender or to the Aerarium for re-minting.
+The Octus – colloquially the _Bit_ – is physically _one-eighth of an Argo_, cut from the parent coin along the eight-segment pattern struck into the Argo's reverse face. The cut Octus is therefore a wedge-shaped piece of silver, triangular in outline, roughly 1/8 the weight of an Argo and 1/8 its silver content. The cutting is done by moneylenders, by shopkeepers, by anyone with a sharp blade and the need to make change. A worn Argo with all eight Bits cut from it leaves a small central remnant; the remnant is conventionally returned to the moneylender or to the Aerarium for re-minting.
 
-Pre-stamped Bits are also struck at the imperial and provincial mints — clean wedge-shaped silver pieces, more uniformly weighted than hand-cut Bits, with a small imperial cypher on one face. Mint-struck Bits are preferred for any transaction where weight matters; hand-cut Bits are accepted but sometimes weighed to verify. The two forms are interchangeable in casual use; in formal contracts only mint-struck Bits are recognized at face value.
+Pre-stamped Bits are also struck at the imperial and provincial mints – clean wedge-shaped silver pieces, more uniformly weighted than hand-cut Bits, with a small imperial cypher on one face. Mint-struck Bits are preferred for any transaction where weight matters; hand-cut Bits are accepted but sometimes weighed to verify. The two forms are interchangeable in casual use; in formal contracts only mint-struck Bits are recognized at face value.
 
-The Bit is the small-denomination coin of everyday life — a loaf of bread, a tankard of beer, a tip to a porter, the price of a hot pie at a market stall. Most common people handle Bits daily, Argos weekly, and Aurions never.
+The Bit is the small-denomination coin of everyday life – a loaf of bread, a tankard of beer, a tip to a porter, the price of a hot pie at a market stall. Most common people handle Bits daily, Argos weekly, and Aurions never.
 
 ## Sample Prices
 
@@ -178,7 +178,7 @@ The SoHL system organizes concoctions in three pricing tiers:
 | Better concoctions and alchemical preparations | 48 Argo  | Witch's Swill, Lotus Ease, Serpent's Bane     |
 | Powerful or rare workings                      | 480 Argo | Kingsbane, Sovereign Poultice, Oracle's Vapor |
 
-Bespoke or sacramental concoctions (those without a market price; produced only for the maker's own use or by direct commission) are priced 0 Argo in the catalog — i.e., not available through ordinary commerce.
+Bespoke or sacramental concoctions (those without a market price; produced only for the maker's own use or by direct commission) are priced 0 Argo in the catalog – i.e., not available through ordinary commerce.
 
 ### Property
 
@@ -203,25 +203,25 @@ Bespoke or sacramental concoctions (those without a market price; produced only 
 | Imperial scribe (mid-career)           | 5–8 Argo + document fees | ~2,000–4,000 Argo (~12–25 Aurion)                              |
 | Centurius (military, career commoner)  | 10–15 Argo + provisions  | ~4,000–5,000 Argo (~25–30 Aurion)                              |
 | Senior magistrate                      | 15–25 Argo + perquisites | ~6,000–10,000 Argo (~40–65 Aurion)                             |
-| Praefar Castorum (bridge-rank officer) | —                        | ~150–300 Aurion                                                |
-| Legar (legion commander)               | —                        | ~500–2,000 Aurion plus standing perquisites                    |
-| Cabinet-grade imperial official        | —                        | 1,000–5,000 Aurion plus extensive perquisites                  |
-| Wealthy merchant                       | —                        | total assets 5,000–50,000 Aurion                               |
-| Senior Aerean noble house              | —                        | total assets 25,000–150,000 Aurion                             |
-| Senior Argentean noble house           | —                        | total assets 500,000–2,000,000 Aurion                          |
-| Aurelian noble house                   | —                        | total assets in the tens of millions, mostly in deeded estates |
+| Praefar Castorum (bridge-rank officer) | –                        | ~150–300 Aurion                                                |
+| Legar (legion commander)               | –                        | ~500–2,000 Aurion plus standing perquisites                    |
+| Cabinet-grade imperial official        | –                        | 1,000–5,000 Aurion plus extensive perquisites                  |
+| Wealthy merchant                       | –                        | total assets 5,000–50,000 Aurion                               |
+| Senior Aerean noble house              | –                        | total assets 25,000–150,000 Aurion                             |
+| Senior Argentean noble house           | –                        | total assets 500,000–2,000,000 Aurion                          |
+| Aurelian noble house                   | –                        | total assets in the tens of millions, mostly in deeded estates |
 
-For calibration against the [[affiliation-vylrnmltry|military commission system]]: a Cadetar commission for an Aurelian family (100–500 Aurion) is the cost of a fine warhorse plus saddle and a year's stipend for a senior scribe — a real but easily absorbed expense. A Subtribunar commission for an Aerean family (10,000–25,000 Aurion) costs roughly a tenth of a senior Aerean house's total assets, or twenty to fifty years of a senior magistrate's salary — a significant family decision. A Legar commission for an Argentean family at 300,000–800,000 Aurion costs roughly a fifth to a half of an Argentean house's total assets — generational expenditure. The prices have teeth.
+For calibration against the [[affiliation-vylrnmltry|military commission system]]: a Cadetar commission for an Aurelian family (100–500 Aurion) is the cost of a fine warhorse plus saddle and a year's stipend for a senior scribe – a real but easily absorbed expense. A Subtribunar commission for an Aerean family (10,000–25,000 Aurion) costs roughly a tenth of a senior Aerean house's total assets, or twenty to fifty years of a senior magistrate's salary – a significant family decision. A Legar commission for an Argentean family at 300,000–800,000 Aurion costs roughly a fifth to a half of an Argentean house's total assets – generational expenditure. The prices have teeth.
 
 ## Paper Script (Brief)
 
 Because physical Aurion coin is rare and physical Argo coin is impractical to transport in large quantities, large-value commerce moves on **paper script** rather than coin. There are three forms of script in circulation:
 
-- **Retail notes** — issued by an individual moneylender against his own reserves; honored locally at the issuing house and at houses with reciprocal arrangements.
-- **Traveler's notes** — issued by a moneylender, drawn on the [[affiliation-aerarimmpr|The Aerarium Imperii]]; honored at any [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylender across the commonwealth.
-- **Master notes** — issued directly by the Aerarium Imperii (in imperial territory) or by an Argentariorum chapter (in non-imperial territory); used for the largest commercial settlements.
+- **Retail notes** – issued by an individual moneylender against his own reserves; honored locally at the issuing house and at houses with reciprocal arrangements.
+- **Traveler's notes** – issued by a moneylender, drawn on the [[affiliation-aerarimmpr|The Aerarium Imperii]]; honored at any [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylender across the commonwealth.
+- **Master notes** – issued directly by the Aerarium Imperii (in imperial territory) or by an Argentariorum chapter (in non-imperial territory); used for the largest commercial settlements.
 
-The script system is the medium through which most large transactions — including all but the most prestigious commission purchases — are actually settled. See [[affiliation-aerarimmpr|The Aerarium Imperii]] for the full mechanics, the issuance and redemption fees, and the political economy of the system.
+The script system is the medium through which most large transactions – including all but the most prestigious commission purchases – are actually settled. See [[affiliation-aerarimmpr|The Aerarium Imperii]] for the full mechanics, the issuance and redemption fees, and the political economy of the system.
 
 ## Where Used
 
@@ -233,13 +233,13 @@ The script system is the medium through which most large transactions — includ
 | **Foreign currency, exchanged through native systems**                           | Harad (parallel system; see [[lore-hardncrncy\|Haradian Currency]]); Northern Fertile Region (Ta'Kheperan-standard; see [[lore-tkhprcrncy\|Takheperu Currency]]); [[place-vedyarargn\|Vedyara]] (Merchant Collective; see [[lore-vdyrnbnkng\|Vedyaran Banking]]); [[place-tanvuregin\|Tánvür]] (bureaucratic-ledger; see [[lore-tanvrcrncy\|Tanvur Currency]]) |
 | **Effectively absent or barter-dominated**                                       | [[affiliation-khzrncnfdrtn\|Khazryn]], [[place-dunharargn\|Dunhara]], Southern Savannahs, [[affiliation-nylbtrblntn\|Nyáluba]], distant continents (K'ich'chik, Iseron, Aurionis, Kalihara). See [[lore-bartercnmy\|Barter Economy]] and [[lore-kinhalcrdt\|Kin and Hall Credit]].                                                                             |
 
-For polity-specific usage details — including the precise local arrangements, exchange rates, and credit-system interactions — see the individual polity notes; each polity's "Commerce and Currency" section describes its specific monetary situation.
+For polity-specific usage details – including the precise local arrangements, exchange rates, and credit-system interactions – see the individual polity notes; each polity's "Commerce and Currency" section describes its specific monetary situation.
 
 ## Practical Notes
 
 ### Coin Condition
 
-Coins are inspected on transaction. Worn coins (whose milled edges have rubbed smooth, whose stamped images have faded) may be discounted by a fraction of a percent at the receiving party's option, though refusal of recognizably-genuine coin is regarded as rude and is generally not done in respectable commerce. **Clipped coin** — where bits of silver or gold have been shaved from the edges — is regarded as functionally counterfeit if the clipping is significant; small clippings are absorbed by the receiving party as a cost of commerce. The Aerarium periodically calls in old or worn coin for re-minting; commercial parties typically forward worn coin to their moneylenders for exchange.
+Coins are inspected on transaction. Worn coins (whose milled edges have rubbed smooth, whose stamped images have faded) may be discounted by a fraction of a percent at the receiving party's option, though refusal of recognizably-genuine coin is regarded as rude and is generally not done in respectable commerce. **Clipped coin** – where bits of silver or gold have been shaved from the edges – is regarded as functionally counterfeit if the clipping is significant; small clippings are absorbed by the receiving party as a cost of commerce. The Aerarium periodically calls in old or worn coin for re-minting; commercial parties typically forward worn coin to their moneylenders for exchange.
 
 Hand-cut Bits are weighed in any transaction of consequence; a small balance is part of any moneylender's working equipment, and serious merchants carry small balances as well. Mint-struck Bits are accepted at face value without weighing.
 
@@ -253,15 +253,15 @@ Vylarian moneylenders at frontier and trading-port locations operate currency-ex
 
 ### Carrying Coin
 
-Large sums of coin are heavy. One thousand Argo (~6.25 Aurion equivalent) weighs roughly 27 kilograms (60 pounds) — a substantial fraction of an adult's carrying capacity. Ten thousand Argo (~62.5 Aurion) is essentially uncarryable for a single person. Larger sums travel as paper script for all practical purposes; physical coin transport at scale requires armed convoy and is reserved for the imperial treasury, the Aerarium's bullion movements between strongrooms, and rare commercial-house transfers for which paper is unavailable. The script system exists precisely because physical coin transport at scale is impractical.
+Large sums of coin are heavy. One thousand Argo (~6.25 Aurion equivalent) weighs roughly 27 kilograms (60 pounds) – a substantial fraction of an adult's carrying capacity. Ten thousand Argo (~62.5 Aurion) is essentially uncarryable for a single person. Larger sums travel as paper script for all practical purposes; physical coin transport at scale requires armed convoy and is reserved for the imperial treasury, the Aerarium's bullion movements between strongrooms, and rare commercial-house transfers for which paper is unavailable. The script system exists precisely because physical coin transport at scale is impractical.
 
 A merchant on the road typically carries a modest mix: a handful of Aurions for emergency liquidity (concealed), perhaps 20–50 Argo for daily expenses (in a belt purse), and a sealed traveler's note for the bulk of his working capital (in a sewn-in pocket or carried by a trusted servant). The Bits accumulate from change-making throughout the day.
 
 ## See Also
 
-- **[[affiliation-aerarimmpr|The Aerarium Imperii]]** — the institution that mints, regulates, and ultimately backs the currency; full description of the paper script system.
-- **[[affiliation-clgmrgntrrm|The Collegium Argentariorum]]** — the moneylenders' guild that operates the retail banking layer.
-- **[[affiliation-magnumclgm|The Magnum Collegium]]** — the cross-realm guild umbrella under which the Argentariorum is chartered.
-- **[[affiliation-vylrnmltry|The Vylarian Military]]** — uses commission price tables denominated in Aurions; primary use case for cost-calibration of substantial sums.
-- **[[affiliation-sodnaqirin|Sôd-Naqîrîn]]** — the Haradian institutional alternative; the Bayt al-Khazînah's parallel banking arrangements and Haradian-struck coin.
-- _Ta'Kheperu Currency_ (not yet written) — the standard currency of the Northern Fertile Region.
+- **[[affiliation-aerarimmpr|The Aerarium Imperii]]** – the institution that mints, regulates, and ultimately backs the currency; full description of the paper script system.
+- **[[affiliation-clgmrgntrrm|The Collegium Argentariorum]]** – the moneylenders' guild that operates the retail banking layer.
+- **[[affiliation-magnumclgm|The Magnum Collegium]]** – the cross-realm guild umbrella under which the Argentariorum is chartered.
+- **[[affiliation-vylrnmltry|The Vylarian Military]]** – uses commission price tables denominated in Aurions; primary use case for cost-calibration of substantial sums.
+- **[[affiliation-sodnaqirin|Sôd-Naqîrîn]]** – the Haradian institutional alternative; the Bayt al-Khazînah's parallel banking arrangements and Haradian-struck coin.
+- _Ta'Kheperu Currency_ (not yet written) – the standard currency of the Northern Fertile Region.

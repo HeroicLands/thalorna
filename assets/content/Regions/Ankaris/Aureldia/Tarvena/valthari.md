@@ -23,4 +23,4 @@ _To be written._ Valthari is the capital and principal settlement of [[affiliati
 
 ## Character
 
-Its harbor is crowded with ships from [[place-provenzrgn|Provènzia Region]], [[affiliation-cnfdrtnhrdnstts|Harad]], [[place-helionis|Heliónis]], and beyond, and its dockside markets trade in goods from across [[place-midhalnrgn|Mídhalión Region]]. The city's wealth is built on its position as the gateway for seaborne trade into Tarvénia — wine, olive oil, grain, wool, and iron flow out; spices, silk, luxury goods, and coin flow in.
+Its harbor is crowded with ships from [[place-provenzrgn|Provènzia Region]], [[affiliation-cnfdrtnhrdnstts|Harad]], [[place-helionis|Heliónis]], and beyond, and its dockside markets trade in goods from across [[place-midhalnrgn|Mídhalión Region]]. The city's wealth is built on its position as the gateway for seaborne trade into Tarvénia – wine, olive oil, grain, wool, and iron flow out; spices, silk, luxury goods, and coin flow in.

@@ -4,7 +4,7 @@ tags:
   - nkaruthar
 type: lore
 subType: spirit
-description: "Zohira of death and prophecy, seated somewhere in the Yánda Maláika — sought by shamans who need an answer nothing else will give, and not always found."
+description: "Zohira of death and prophecy, seated somewhere in the Yánda Maláika – sought by shamans who need an answer nothing else will give, and not always found."
 name:
   full: The Oracle of Bones
   aliases:

@@ -592,7 +592,7 @@ Dagmar stands 5'7\" tall with a light build. He has light skin, brown hair, and 
 
 # Dossier {#dossier}
 
-Dagmar is a skald from the far northern reaches of [[place-norgaad|Norgaad]], where he wandered from clan to clan, composing songs and telling tales of great heroes and legendary battles. He is clanless, having been exiled for an unknown crime—though some whisper that he had an affair with a powerful lord’s wife, others say he was involved in a conspiracy against his clan. [[being-grosdrnrgd|Gróa]] met Dagmar at a village blót, where the skald’s sharp wit and knowledge of ancient lore impressed her. Dagmar’s songs often contain veiled warnings and prophecies, hinting at the deeper wisdom he possesses.
+Dagmar is a skald from the far northern reaches of [[place-norgaad|Norgaad]], where he wandered from clan to clan, composing songs and telling tales of great heroes and legendary battles. He is clanless, having been exiled for an unknown crime – though some whisper that he had an affair with a powerful lord’s wife, others say he was involved in a conspiracy against his clan. [[being-grosdrnrgd|Gróa]] met Dagmar at a village blót, where the skald’s sharp wit and knowledge of ancient lore impressed her. Dagmar’s songs often contain veiled warnings and prophecies, hinting at the deeper wisdom he possesses.
 
 ## Background
 
@@ -637,10 +637,10 @@ Local clans
 
 ## Plot Hooks
 
-1. **The Song of Unwritten Fates**: Dagmar is approached by a mysterious figure who claims to have an ancient saga meant to be sung only once, at a time when fate hangs in the balance. The figure insists Dagmar is the only one worthy of delivering it, but as Dagmar deciphers the verses, he realizes the saga predicts events that could destroy his companions—or save them. The choice of how and when to use it rests with him.
+1. **The Song of Unwritten Fates**: Dagmar is approached by a mysterious figure who claims to have an ancient saga meant to be sung only once, at a time when fate hangs in the balance. The figure insists Dagmar is the only one worthy of delivering it, but as Dagmar deciphers the verses, he realizes the saga predicts events that could destroy his companions – or save them. The choice of how and when to use it rests with him.
 
-2. **The Jarl’s Last Tale**: A dying jarl summons Dagmar to record his life’s story, offering the promise of wealth and renown. However, Dagmar soon discovers dark truths hidden within the jarl’s deeds—secrets that, if revealed, could fracture alliances in Norgaad. Dagmar must decide whether to sing a sanitized version of history or risk exposing the jarl’s sins to the world.
+2. **The Jarl’s Last Tale**: A dying jarl summons Dagmar to record his life’s story, offering the promise of wealth and renown. However, Dagmar soon discovers dark truths hidden within the jarl’s deeds – secrets that, if revealed, could fracture alliances in Norgaad. Dagmar must decide whether to sing a sanitized version of history or risk exposing the jarl’s sins to the world.
 
 3. **The Festival of Forgotten Voices**: Dagmar learns of a remote village where, once every generation, a skald must perform to appease spirits bound to the land. The last skald to attempt the feat vanished without a trace, leaving the village cursed by endless storms. Dagmar’s reputation compels him to accept the challenge, but he must unravel the truth behind the ritual while ensuring his own survival.
 
-4. **The Tale That Never Ends**: Dagmar encounters an old skald who tells him a captivating story, only to vanish before finishing it. The incomplete tale haunts Dagmar, who begins to hear whispers of its continuation in dreams and rumors. As he chases the story’s threads, he realizes the tale may hold a clue to a greater threat—or an opportunity to craft a saga of his own.
+4. **The Tale That Never Ends**: Dagmar encounters an old skald who tells him a captivating story, only to vanish before finishing it. The incomplete tale haunts Dagmar, who begins to hear whispers of its continuation in dreams and rumors. As he chases the story’s threads, he realizes the tale may hold a clue to a greater threat – or an opportunity to craft a saga of his own.

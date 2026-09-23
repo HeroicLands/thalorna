@@ -14,7 +14,7 @@ data:
   governance:
     model: council
     summary: >-
-      No formal hierarchy and no structured organisation: scattered factions, each attached to a
+      No formal hierarchy and no structured organization: scattered factions, each attached to a
       different aspect of Ymir's work, operating independently and united only by admiration of his
       creative genius. What roles exist are informal, fluid, and claimed rather than conferred.
     ranks:
@@ -22,8 +22,8 @@ data:
         title: Discarded
         lore: expelledrnk
         description: >-
-          Put out by a faction — which, since there is no hierarchy to appeal to and no other body
-          that recognises the judgement, means only that this faction is finished with them.
+          Put out by a faction – which, since there is no hierarchy to appeal to and no other body
+          that recognizes the judgment, means only that this faction is finished with them.
       - level: 1
         title: Admirer
         lore: layfaithfulrnk
@@ -75,7 +75,7 @@ Ymir's presence in the material world is a rarity among the gods, and he is larg
 
 Though Ymir possesses worshipers and a clergy dedicated to him, his lack of concern for them results in their disorganization and weakness. His followers gather in loose, scattered factions, united more by their admiration of Ymir's work than by any formal structure or doctrine.
 
-Depictions of Ymir are as varied as his creations. He is often shown as an imposing figure, clad in the garments of a craftsman — tools and instruments of creation always close at hand. His eyes, filled with a blend of frustration and infinite possibility, are said to pierce through the very essence of life.
+Depictions of Ymir are as varied as his creations. He is often shown as an imposing figure, clad in the garments of a craftsman – tools and instruments of creation always close at hand. His eyes, filled with a blend of frustration and infinite possibility, are said to pierce through the very essence of life.
 
 ## Sacred Objects
 

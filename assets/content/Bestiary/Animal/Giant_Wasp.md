@@ -325,7 +325,7 @@ sohl:
 
 ![[gntwsp|Giant Wasp]]{float: top-left}
 
-The buzzing starts as a distant drone that grows steadily louder, filling the air with a sound that makes your teeth ache. Then it appears: a creature the size of a large dog, striped in vivid black and yellow in a pattern that screams warning. The wings beat in a blur of motion that seems physically impossible, generating a hum that vibrates in your chest. The body is sleek and predatory, segmented and armored, and the stinger—wickedly barbed, dripping with clear venom—extends downward like a curved sword. The mandibles click and snap, and the creature's rapid, erratic flight patterns make it nearly impossible to track. You have the sudden, primal conviction that you are a direct threat to something that will not hesitate to respond with absolute violence.
+The buzzing starts as a distant drone that grows steadily louder, filling the air with a sound that makes your teeth ache. Then it appears: a creature the size of a large dog, striped in vivid black and yellow in a pattern that screams warning. The wings beat in a blur of motion that seems physically impossible, generating a hum that vibrates in your chest. The body is sleek and predatory, segmented and armored, and the stinger – wickedly barbed, dripping with clear venom – extends downward like a curved sword. The mandibles click and snap, and the creature's rapid, erratic flight patterns make it nearly impossible to track. You have the sudden, primal conviction that you are a direct threat to something that will not hesitate to respond with absolute violence.
 
 # Dossier {#dossier}
 
@@ -341,7 +341,7 @@ Giant Wasps are solitary hunters and apex predators, but they often operate from
 
 ## Combat Strategy
 
-A Giant Wasp's preferred method is the high-speed diving strike—approaching from above or behind and striking with the full force of aerial momentum. The wasp delivers a sting that injects venom and causes pain while allowing the wasp to retreat before the target can fully react. If the target is incapacitated or captured, the wasp may land and use mandibles for cutting. A lone wasp retreats after a single failed strike, but multiple wasps attack repeatedly, working to separate targets and concentrate their attacks on individuals. A wasp defending its hive shows no instinct to retreat and will make suicidal attacks to protect the colony.
+A Giant Wasp's preferred method is the high-speed diving strike – approaching from above or behind and striking with the full force of aerial momentum. The wasp delivers a sting that injects venom and causes pain while allowing the wasp to retreat before the target can fully react. If the target is incapacitated or captured, the wasp may land and use mandibles for cutting. A lone wasp retreats after a single failed strike, but multiple wasps attack repeatedly, working to separate targets and concentrate their attacks on individuals. A wasp defending its hive shows no instinct to retreat and will make suicidal attacks to protect the colony.
 
 ## Attack Methods
 
@@ -357,15 +357,15 @@ Once prey is immobilized or grappled, the wasp uses sharp mandibles to deliver q
 
 ### Aerial Superiority
 
-In open air, the Giant Wasp has absolute tactical advantage—it can dive at speeds that land-bound creatures cannot match, can climb vertically with ease, and can reverse direction with a precision that allows it to evade almost any ground-based attack. Enclosed or confined spaces reduce this advantage significantly.
+In open air, the Giant Wasp has absolute tactical advantage – it can dive at speeds that land-bound creatures cannot match, can climb vertically with ease, and can reverse direction with a precision that allows it to evade almost any ground-based attack. Enclosed or confined spaces reduce this advantage significantly.
 
 ### Rapid Dive Attack
 
-When the wasp has altitude and space to build speed, its dive becomes devastating—the initial stinger strike delivers maximum force and venom. A diving wasp is nearly impossible to dodge for creatures with limited mobility.
+When the wasp has altitude and space to build speed, its dive becomes devastating – the initial stinger strike delivers maximum force and venom. A diving wasp is nearly impossible to dodge for creatures with limited mobility.
 
 ## Additional Information
 
-A Giant Wasp's venom is valuable to alchemists and poisoners—harvesting it is extraordinarily dangerous. A wasp's stinger is sometimes worked into weaponry. Wasp hives can occasionally be negotiated with or manipulated, but such attempts are risky and unpredictable. Fire is effective against wasp colonies—burning a hive destroys it and causes the wasps to flee.
+A Giant Wasp's venom is valuable to alchemists and poisoners – harvesting it is extraordinarily dangerous. A wasp's stinger is sometimes worked into weaponry. Wasp hives can occasionally be negotiated with or manipulated, but such attempts are risky and unpredictable. Fire is effective against wasp colonies – burning a hive destroys it and causes the wasps to flee.
 
 ## Attributes
 

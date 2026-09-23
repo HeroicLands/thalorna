@@ -561,7 +561,7 @@ Sánrik Jútharen is a 52-year-old man who stands 6'1" tall and is of moderate b
 
 Sánrik Jútharen is a glassworker of Solárden, in [[place-tarvenirgn|Tarvénia]], a Tarvénan freeman who has blown bottles, jars and window-glass in the same furnace-house for more than thirty years.
 
-Sánrik was apprenticed at fourteen to a master who made plain ware for a fortified town that needed it — jars that seal, bottles that survive a cart, panes that keep the wind out of a garrison's windows — and he makes the same ware now, by the same methods, to the same standard. He has no interest in the coloured and figured glass that the younger masters of Solárden have begun to make in the Provenzian style for the merchants' houses. He speaks for the old standard in the guild, where he is respected as a master and regarded as a brake.
+Sánrik was apprenticed at fourteen to a master who made plain ware for a fortified town that needed it – jars that seal, bottles that survive a cart, panes that keep the wind out of a garrison's windows – and he makes the same ware now, by the same methods, to the same standard. He has no interest in the colored and figured glass that the younger masters of Solárden have begun to make in the Provenzian style for the merchants' houses. He speaks for the old standard in the guild, where he is respected as a master and regarded as a brake.
 
 He is a known figure among the glassworkers of Tarvénia.
 
@@ -595,10 +595,10 @@ The younger masters of Solárden who make figured glass for the merchants' house
 
 ## Plot Hooks
 
-1. **A New Standard** — The guild bench is to vote on admitting figured glass to the master's examination, which Sánrik holds would make masters of men who cannot blow a sound jar. He will lose unless he can bring two members to his side, and he has never in his life canvassed anyone.
+1. **A New Standard** – The guild bench is to vote on admitting figured glass to the master's examination, which Sánrik holds would make masters of men who cannot blow a sound jar. He will lose unless he can bring two members to his side, and he has never in his life canvassed anyone.
 
-2. **The Commission He Doubts** — A merchant house has commissioned a great figured window from the Provenzian-trained master and asked Sánrik, as the senior man, to certify the glass. He does not think it will hold a winter.
+2. **The Commission He Doubts** – A merchant house has commissioned a great figured window from the Provenzian-trained master and asked Sánrik, as the senior man, to certify the glass. He does not think it will hold a winter.
 
-3. **The Apprentice Leaves** — Sánrik's best apprentice has asked to finish his years under the rival master, to learn the figured work. Sánrik can release him and lose the last hands trained his way, or refuse and lose him anyway.
+3. **The Apprentice Leaves** – Sánrik's best apprentice has asked to finish his years under the rival master, to learn the figured work. Sánrik can release him and lose the last hands trained his way, or refuse and lose him anyway.
 
-4. **The Ash** — The good beech ash that Sánrik's glass depends on has stopped coming down from the hills, because the man who burned it is dead and his sons have sold the wood. Without it he can make the rival's glass or none.
+4. **The Ash** – The good beech ash that Sánrik's glass depends on has stopped coming down from the hills, because the man who burned it is dead and his sons have sold the wood. Without it he can make the rival's glass or none.

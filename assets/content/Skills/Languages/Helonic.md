@@ -4,7 +4,7 @@ name:
   full: Helonic Language
   aliases:
     - Helonic
-description: "The old prestige tongue of philosophy, theater, and scholarship — still the learned man's second language from the academies to the stage."
+description: "The old prestige tongue of philosophy, theater, and scholarship – still the learned man's second language from the academies to the stage."
 shortcode: helonclng
 type: skill
 subType: language
@@ -27,11 +27,11 @@ flags:
 
 Helonic is a tongue of the Helonic family. Fluency measures the sophistication of expression in Helonic, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-The tongue of [[place-helionis|Heliónis]] and the philosophical heartland of Mídhalión. Helonic is the language of drama, rhetoric, mathematics, and metaphysical inquiry—spoken in academies and theaters, written in the great epics and scientific treatises that define western civilization. Though primary speakers are concentrated in Heliónis, Helonic serves as a prestige language throughout Mídhalión, learned by educated merchants, courtiers, and scholars who wish to participate in the discourse of the age.
+The tongue of [[place-helionis|Heliónis]] and the philosophical heartland of Mídhalión. Helonic is the language of drama, rhetoric, mathematics, and metaphysical inquiry – spoken in academies and theaters, written in the great epics and scientific treatises that define western civilization. Though primary speakers are concentrated in Heliónis, Helonic serves as a prestige language throughout Mídhalión, learned by educated merchants, courtiers, and scholars who wish to participate in the discourse of the age.
 
 ## Overview
 
-Helonic is characterized by its flowing, musical quality—a language that rewards the ear and encourages elaborate periodic constructions. The rhythm and stress patterns make it naturally suited to dramatic recitation and poetic meter. Vowels are clear and often long; consonants, while distinct, rarely cluster in harsh ways. The language appears designed for contemplation and beauty of expression, reflecting the philosophical values of its speakers.
+Helonic is characterized by its flowing, musical quality – a language that rewards the ear and encourages elaborate periodic constructions. The rhythm and stress patterns make it naturally suited to dramatic recitation and poetic meter. Vowels are clear and often long; consonants, while distinct, rarely cluster in harsh ways. The language appears designed for contemplation and beauty of expression, reflecting the philosophical values of its speakers.
 
 ## Phonology
 
@@ -39,17 +39,17 @@ Helonic is characterized by its flowing, musical quality—a language that rewar
 
 Helonic employs a rich vowel system with both short and long phonetic variants:
 
-- **a** — short and open, the "a" of "father" cut short
-- **â** — a long, open "ah"
-- **à** — low and rounded, the "aw" of "law" (deeper than short a)
-- **e** — short, as in "bet"
-- **ê** — a long "eh", as in "fête"
-- **i** — short, as in "bit"
-- **î** — a long "ee", as in "machine"
-- **o** — short, as in "for"
-- **ô** — a long "oh", as in "note"
-- **u** — short, as in "put"
-- **û** — a long "oo", as in "boot"
+- **a** – short and open, the "a" of "father" cut short
+- **â** – a long, open "ah"
+- **à** – low and rounded, the "aw" of "law" (deeper than short a)
+- **e** – short, as in "bet"
+- **ê** – a long "eh", as in "fête"
+- **i** – short, as in "bit"
+- **î** – a long "ee", as in "machine"
+- **o** – short, as in "for"
+- **ô** – a long "oh", as in "note"
+- **u** – short, as in "put"
+- **û** – a long "oo", as in "boot"
 
 The language is naturally rich in diphthongs, particularly -ia, -io, -ea, and -eo combinations, which create fluent transitions between phonemes. The vowel inventory is one reason Helonic achieves its melodic quality.
 
@@ -63,7 +63,7 @@ Helonic maintains a moderate consonant inventory with some distinctive features:
 - **Liquids:** r, l
 - **Semivowels:** y (as in "yes"), w
 
-The fricative system is distinctive: theta (th) and kh are particularly marked, appearing primarily in educated or formal speech. The voiced throaty rasp written **gh** is unique to Helonic among western languages—a guttural sound that is distinctly non-trivial to produce correctly.
+The fricative system is distinctive: theta (th) and kh are particularly marked, appearing primarily in educated or formal speech. The voiced throaty rasp written **gh** is unique to Helonic among western languages – a guttural sound that is distinctly non-trivial to produce correctly.
 
 ### Stress and Accentuation
 
@@ -71,9 +71,9 @@ Helonic uses a pitch-accent system inherited from its Proto-Helonic ancestor. St
 
 Characteristic patterns from the names:
 
-- _Afêríon_ (AF-er-ee-on) — paroxytone, with long vowel on the accented syllable
-- _Kálydrás_ (KAL-ee-dras) — paroxytone, opening accent
-- _Ghânîdês_ (gah-NEE-des) — paroxytone with clear secondary stress
+- _Afêríon_ (AF-er-ee-on) – paroxytone, with long vowel on the accented syllable
+- _Kálydrás_ (KAL-ee-dras) – paroxytone, opening accent
+- _Ghânîdês_ (gah-NEE-des) – paroxytone with clear secondary stress
 
 ## Grammar Notes
 
@@ -83,8 +83,8 @@ Helonic is fundamentally a Subject-Verb-Object language, though word order is re
 
 Example constructions:
 
-- **Sôthira thásirin ésharin** — "Wisdom is god" (nominative-nominative-verb)
-- **Ath sôthiran dhidákhir** — "He teaches the wise-one" (accusative object, personal accusative)
+- **Sôthira thásirin ésharin** – "Wisdom is god" (nominative-nominative-verb)
+- **Ath sôthiran dhidákhir** – "He teaches the wise-one" (accusative object, personal accusative)
 
 ### Notable Grammatical Features
 
@@ -94,16 +94,16 @@ Example constructions:
 - **Participial constructions:** Helonic is famous for its flexible use of participles, allowing compact and elegant subordinate clauses
 - **Double accusative:** Verbs of making and naming can take two accusative objects
 
-The grammar reflects philosophical precision—cases and moods allow for exacting distinctions of meaning, and the language's flexibility supports the construction of elaborate, nested arguments.
+The grammar reflects philosophical precision – cases and moods allow for exacting distinctions of meaning, and the language's flexibility supports the construction of elaborate, nested arguments.
 
 ## Script and Literacy
 
-Helonic is written in the [[skill-helnkscrpt|Helónika]] — the Helonic alphabet, a modernized descendant of an ancient script tradition unique to Heliónis. It consists of 24 letters — 7 vowels and 17 consonants — each with distinct majuscule (capital) and minuscule (lower) forms. The script is written left to right, with words separated by spaces and sentences punctuated by raised dots.
+Helonic is written in the [[skill-helnkscrpt|Helónika]] – the Helonic alphabet, a modernized descendant of an ancient script tradition unique to Heliónis. It consists of 24 letters – 7 vowels and 17 consonants – each with distinct majuscule (capital) and minuscule (lower) forms. The script is written left to right, with words separated by spaces and sentences punctuated by raised dots.
 
 - **Vowels (7):** a, e, ê (long e), i, o, y, ô (long o)
 - **Consonants (17):** b, g, d, z, th, k, l, m, n, x, p, r, s, t, ph, kh, ps
 
-**Literacy and Education:** True Helonic literacy — the ability to read and compose continuous text — is the province of the nobility (perhaps 30-40% of whom can read), the priesthood (who learn enough to recite and interpret liturgical texts), and professional scribes and scholars. The Panepistemium teaches Helonic to serious scholars, but these are a tiny fraction of the population. Among merchants and guildsmen, functional literacy exists — enough to recognize common signs, tally marks, and the shape of one's own name — but even prosperous traders rely on scribes or solicitors for contracts and correspondence. The vast majority of the population (well over 90%) cannot read or write. Public monuments and civic inscriptions are read aloud by heralds and criers, not by passersby.
+**Literacy and Education:** True Helonic literacy – the ability to read and compose continuous text – is the province of the nobility (perhaps 30-40% of whom can read), the priesthood (who learn enough to recite and interpret liturgical texts), and professional scribes and scholars. The Panepistemium teaches Helonic to serious scholars, but these are a tiny fraction of the population. Among merchants and guildsmen, functional literacy exists – enough to recognize common signs, tally marks, and the shape of one's own name – but even prosperous traders rely on scribes or solicitors for contracts and correspondence. The vast majority of the population (well over 90%) cannot read or write. Public monuments and civic inscriptions are read aloud by heralds and criers, not by passersby.
 
 ## Historical Development
 
@@ -113,7 +113,7 @@ Helonic descended from **Proto-Helonic**, spoken by the ancient maritime peoples
 
 2. **Classical Helonic** (1500–500 years ago): The height of the language's refinement, used by Heliónis' greatest dramatists and philosophers. This period established the norms and models still taught in academies. The works of this era remain the standard for excellence in rhetoric and expression.
 
-3. **Modern Helonic** (500 years ago–present): Gradual simplification of case endings and verbal conjugations, increased contact vocabulary from trade languages (particularly Byzarian and Dunhari), and the emergence of regional dialects. Yet the written language remains conservative—educated speakers and writers still aim for Classical standards.
+3. **Modern Helonic** (500 years ago–present): Gradual simplification of case endings and verbal conjugations, increased contact vocabulary from trade languages (particularly Byzarian and Dunhari), and the emergence of regional dialects. Yet the written language remains conservative – educated speakers and writers still aim for Classical standards.
 
 ## Regional Dialects
 
@@ -126,7 +126,7 @@ While Helonic is relatively standardized through written tradition and education
 
 ## Core Vocabulary
 
-The following lexicon defines the root words of Helonic. These roots appear throughout the Helonic language family — [[skill-byzarnlng|Byzarian]] and [[skill-bethunlng|Bethuan]] both derive their core vocabulary from this stock, though pronunciation, inflection, and usage diverge. Sample phrases in all three languages draw from this shared foundation.
+The following lexicon defines the root words of Helonic. These roots appear throughout the Helonic language family – [[skill-byzarnlng|Byzarian]] and [[skill-bethunlng|Bethuan]] both derive their core vocabulary from this stock, though pronunciation, inflection, and usage diverge. Sample phrases in all three languages draw from this shared foundation.
 
 ### Nouns
 
@@ -202,18 +202,18 @@ Byzarian simplifies inflection: _ash/ath_ contract to enclitics; case endings re
 
 ## Sample Phrases
 
-- **Sôthira ésharin arkhîdhin pânthon** — "Wisdom is the beginning of all things" (philosophical maxim)
-- **Ath káliran théradhin ésharin thásiron** — "To behold beauty is divine" (aesthetic principle)
-- **Rhéthashin, dhidákhir!** — "Speak, teach!" (rhetorical exhortation)
-- **Métharin thî pânthon ésharin ánthimor** — "Man is the measure of all things" (philosophical principle)
-- **Ôlashin kôshamir ên lékhisir** — "The entire cosmos in a single word" (poetic compression)
+- **Sôthira ésharin arkhîdhin pânthon** – "Wisdom is the beginning of all things" (philosophical maxim)
+- **Ath káliran théradhin ésharin thásiron** – "To behold beauty is divine" (aesthetic principle)
+- **Rhéthashin, dhidákhir!** – "Speak, teach!" (rhetorical exhortation)
+- **Métharin thî pânthon ésharin ánthimor** – "Man is the measure of all things" (philosophical principle)
+- **Ôlashin kôshamir ên lékhisir** – "The entire cosmos in a single word" (poetic compression)
 
 ## Related Languages
 
 Helonic is the ancient progenitor and prestige member of the **Helonic language family**, which includes:
 
-- **Byzarian** — A crossroads language blending Helonic grammar with eastern vocabulary and phonetic influence, spoken in the Byzarian League
-- **Bethuan** — A distinct evolution spoken in the Matriarchy of Bethua, preserving older Helonic features but with significant innovation in its register system
+- **Byzarian** – A crossroads language blending Helonic grammar with eastern vocabulary and phonetic influence, spoken in the Byzarian League
+- **Bethuan** – A distinct evolution spoken in the Matriarchy of Bethua, preserving older Helonic features but with significant innovation in its register system
 
 Despite centuries of separation and contact with other language families, all three remain mutually intelligible to educated speakers, though not to common folk.
 
@@ -222,7 +222,7 @@ Despite centuries of separation and contact with other language families, all th
 Helonic names reflect the culture's embrace of distinctive, sonorous personal identity. The naming tradition emphasizes:
 
 - **Patronymic honor:** Family names often derive from ancestors or founding figures, with the suffix _-os_ (for clans) preserving this genealogical link
-- **Euphony:** Names are chosen partly for how they sound in speech and dramatic contexts—a child of philosophers or actors receives a name that will resonate in the assembly
+- **Euphony:** Names are chosen partly for how they sound in speech and dramatic contexts – a child of philosophers or actors receives a name that will resonate in the assembly
 - **Mythic resonance:** Names often evoke legendary figures, qualities of the gods, or philosophical concepts
 - **Feminine sophistication:** Female names tend toward longer, more vowel-rich forms (Afìyra, Mânîtha, Jûmîna), which are considered more graceful; masculine names show greater diversity
 

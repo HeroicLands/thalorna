@@ -589,10 +589,10 @@ A tannery of Azhûn, chartered under the compact, whose naqîr has learned where
 
 ## Plot Hooks
 
-1. **The Registration** — A pāqîd of the Sôd has come up the coast with a list of unregistered tanners, and Qirûsh's name is on it. Registration means the compact's fee, methods and prices; refusal means the pits filled in.
+1. **The Registration** – A pāqîd of the Sôd has come up the coast with a list of unregistered tanners, and Qirûsh's name is on it. Registration means the compact's fee, methods and prices; refusal means the pits filled in.
 
-2. **The Hands** — Qirûsh has cut the tendon of his right hand, and the village has no one who can set it. The nearest physician is in Azhûn, and the tannery's naqîr has offered to send for one.
+2. **The Hands** – Qirûsh has cut the tendon of his right hand, and the village has no one who can set it. The nearest physician is in Azhûn, and the tannery's naqîr has offered to send for one.
 
-3. **The Strange Hide** — The fishermen have brought Qirûsh a hide off something they netted that none of them can name. He does not know how to tan it, and has begun to think it should not be tanned.
+3. **The Strange Hide** – The fishermen have brought Qirûsh a hide off something they netted that none of them can name. He does not know how to tan it, and has begun to think it should not be tanned.
 
-4. **The Pits** — The village well has gone foul, and the elders have looked at the tan-pits. Moving them means a year without income and a debt to whoever lends it.
+4. **The Pits** – The village well has gone foul, and the elders have looked at the tan-pits. Moving them means a year without income and a debt to whoever lends it.

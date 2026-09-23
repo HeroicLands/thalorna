@@ -2,7 +2,7 @@
 tags:
   - history
   - spine
-description: "Roughly five hundred years ago a faction within the Vúlcani clergy declared that the god's true nature was destruction — and the Aurèldían faith of the Forge-Lord split into the Sacred Forge and the Black Flame."
+description: "Roughly five hundred years ago a faction within the Vúlcani clergy declared that the god's true nature was destruction – and the Aurèldían faith of the Forge-Lord split into the Sacred Forge and the Black Flame."
 type: lore
 subType: history
 name:
@@ -74,8 +74,8 @@ event:
   unresolved: []
 ---
 
-**Vúlcan** the Forge-Lord holds both aspects of flame at once — the forge that shapes and the inferno
-that consumes — and for most of the [[affiliation-arldnpnthn|Aurèldían Pantheon]]'s history that
+**Vúlcan** the Forge-Lord holds both aspects of flame at once – the forge that shapes and the inferno
+that consumes – and for most of the [[affiliation-arldnpnthn|Aurèldían Pantheon]]'s history that
 duality was carried without difficulty. A god of fire was understood to be a god of both what fire
 makes and what it takes.
 
@@ -84,7 +84,7 @@ claim about which half of the god is real. Schisms over practice can be papered 
 not, because each faith's central claim is that the other worships half a god and calls it whole.
 
 Neither position leaves room for the other to be merely mistaken, and both are arguments about the
-same god rather than about different ones — which is what makes the enmity theological rather than
+same god rather than about different ones – which is what makes the enmity theological rather than
 merely political, and why five centuries have not worn it down.
 
 The full account is [[lore-vulcanischism|The Vúlcani Schism]].

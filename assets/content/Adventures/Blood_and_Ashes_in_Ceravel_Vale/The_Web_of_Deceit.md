@@ -25,7 +25,7 @@ packFolder: bloodandashesinceravelvale
 
 ## Teaser
 
-With the brigands scattered and their leader defeated, the Vale should be at peace—but the shadows of Céravel conceal deeper threats. Evidence points to a cunning noble manipulating the chaos for his own gain, stoking unrest to weaken his rivals and further his ambitions. As the adventurers unravel the threads of deception, they must navigate political intrigue, confront dangerous allies of their new enemy, and uncover a secret alliance that threatens to plunge the region into greater peril. Can they expose the puppet master pulling the Vale's strings, or will they fall victim to his carefully laid plans? The stakes rise, and the lines between friend and foe blur in this tale of betrayal and ambition.
+With the brigands scattered and their leader defeated, the Vale should be at peace – but the shadows of Céravel conceal deeper threats. Evidence points to a cunning noble manipulating the chaos for his own gain, stoking unrest to weaken his rivals and further his ambitions. As the adventurers unravel the threads of deception, they must navigate political intrigue, confront dangerous allies of their new enemy, and uncover a secret alliance that threatens to plunge the region into greater peril. Can they expose the puppet master pulling the Vale's strings, or will they fall victim to his carefully laid plans? The stakes rise, and the lines between friend and foe blur in this tale of betrayal and ambition.
 
 ## Background
 
@@ -47,7 +47,7 @@ In this part, the adventurers track down Kílan's true motives and confront him.
 - **Investigating Kílan's Network:** The adventurers discover that Kílan has been building alliances with the Zûravel clan of the Black Flame, particularly Kâldin, in secret. The adventurers uncover his attempts to support local bandits, and the existence of abandoned shrine to the Black Flame in the Blood Lands east of Bélsaren, indicating his deeper intentions.
 - **Kílan's Political Maneuvering:** Kílan attempts to discredit the adventurers and paint them as brigands or untrustworthy mercenaries in the eyes of his liege, Jârvel Pélanvri. The adventurers must gather evidence to prove Kílan's actions and his intentions to betray Jârvel.
 - **The Confrontation:** Eventually, the adventurers face Kílan in his stronghold, accusing him of conspiring with Kâldin to destabilize Bélsaren in particular and Céravel more broadly. Depending on their actions, they might confront him in a political arena or a physical one. Kâldin has supplied Kílan with a group of loyal Black Flame soldiers, including some of the bandits who survived Part 1.
-- **Reveal of the Artifact:** Before his defeat, Kílan hints at the true nature of his plans—the Black Flame artifact hidden deep within the Blood Lands that could grant him immense power if recovered.
+- **Reveal of the Artifact:** Before his defeat, Kílan hints at the true nature of his plans – the Black Flame artifact hidden deep within the Blood Lands that could grant him immense power if recovered.
 
 ## Adventure Outline
 
@@ -67,12 +67,12 @@ In this part, the adventurers track down Kílan's true motives and confront him.
 
 - **Description:** Armed with evidence, the adventurers pursue leads to the location of the hidden Black Flame shrine, piecing together fragments of lore from texts, symbols, or clues they've uncovered. This part emphasizes exploration and research.
 - **Challenge:** They may need to decipher ancient symbols, investigate cursed relics, or navigate dangerous terrain in search of the Blood Hills. Additionally, Kílan's followers attempt to slow their progress, setting traps or ambushes to hinder their approach to the shrine.
-- **Role-Playing Opportunity:** The adventurers encounter a reluctant informant—a scholar or hermit familiar with the shrine's history. This person may know the general location or key features of the shrine but warns of its deadly defenses and curses on intruders. They may offer further assistance for a price or moral persuasion.
+- **Role-Playing Opportunity:** The adventurers encounter a reluctant informant – a scholar or hermit familiar with the shrine's history. This person may know the general location or key features of the shrine but warns of its deadly defenses and curses on intruders. They may offer further assistance for a price or moral persuasion.
 - **Clue:** The adventurers receive a map fragment or cryptic description pointing toward the Blood Hills, where the shrine and its artifact lie hidden.
 
 ### Confronting Kílan in His Stronghold
 
-- **Description:** The adventurers track Kílan to his stronghold, where he is preparing for his next step—securing his position as a future lord by destabilizing Bélsaren and obtaining the powerful Black Flame artifact. Kílan, however, is not ready to abandon his plans and has fortified his stronghold, preparing to confront the adventurers directly.
+- **Description:** The adventurers track Kílan to his stronghold, where he is preparing for his next step – securing his position as a future lord by destabilizing Bélsaren and obtaining the powerful Black Flame artifact. Kílan, however, is not ready to abandon his plans and has fortified his stronghold, preparing to confront the adventurers directly.
 - **Challenge:** The adventurers must find a way to breach Kílan's defenses, which include both conventional guards and Black Flame zealots who view Kílan as a future ally of their faith. Combat is intense, with Kílan using his lieutenants to hold the adventurers back while attempting to finish a dark ritual or complete preparations to march on Bélsaren.
 - **Twist:** Kílan hints at the power the artifact could give him, claiming he could use it to rally support across the region, seize Bélsaren, and even unite the area under Black Flame rule. He may reveal that Kâldin and the Zûr clan have offered him a high place in their ranks if he succeeds in retrieving it.
 

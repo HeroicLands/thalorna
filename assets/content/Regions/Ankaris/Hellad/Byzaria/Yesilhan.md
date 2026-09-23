@@ -1,5 +1,5 @@
 ---
-description: "Green-land city-state of the Byzarian League at the junction of the eastern and southern caravan roads — an inland caravanserai city with a reputation for gardeners, merchants, and peaceful culture."
+description: "Green-land city-state of the Byzarian League at the junction of the eastern and southern caravan roads – an inland caravanserai city with a reputation for gardeners, merchants, and peaceful culture."
 type: affiliation
 name:
   full: Yeşilhan
@@ -30,7 +30,7 @@ data:
         title: Resident
         lore: commonerrnk
         description: >-
-          Dwelling and labouring in the city under its protection, without its freedom or a
+          Dwelling and laboring in the city under its protection, without its freedom or a
           vote in it.
       - level: 3
         title: Freeman of the City
@@ -47,7 +47,7 @@ data:
         title: House Factor
         lore: officerrnk
         description: >-
-          Managing the affairs of one of the great houses — its warehouses, its ships, its correspondents
+          Managing the affairs of one of the great houses – its warehouses, its ships, its correspondents
           abroad.
       - level: 6
         title: House Head
@@ -72,7 +72,7 @@ data:
         heads.
       Chancellor: Keeper of the city's charters, treaties and correspondence.
       Treasurer: >-
-        Keeper of the city's revenue — its customs, its tolls, and the loans it raises against
+        Keeper of the city's revenue – its customs, its tolls, and the loans it raises against
         them.
       Harbourmaster: Warden of the port, its pilots, its wharves and the dues levied on every
         hull that enters.
@@ -83,7 +83,7 @@ data:
       Captain of the Watch: Commander of the city's guard and of the militia its guilds are
         bound to raise.
       Warden of the Weights: >-
-        Inspector of measures, coin and quality in the markets — the office that makes the
+        Inspector of measures, coin and quality in the markets – the office that makes the
         city's word good.
       Guild Master: Head of a chartered trade, speaking for it before the Council.
       Arbitrator: >-
@@ -119,11 +119,11 @@ The city has a stronger eastern character than the other League members. [[affil
 
 ## Commerce and Currency
 
-Yeşilhan uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Yeşilhan is a post-imperial commonwealth member — it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Yeşilhan uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Yeşilhan is a post-imperial commonwealth member – it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
-- [[affiliation-byzarianlg|Byzarian League]] — The confederation
-- [[place-byzariargn|Byzaría Region]] — Regional overview
-- [[place-yesilhan2|Yeşilhan]] — The city itself
-- [[affiliation-altinkale|Altinkale]], [[affiliation-denizara|Denizara]], [[affiliation-gumushisar|Gümüşhisar]], [[affiliation-karatas|Karataş]] — Sister city-states
+- [[affiliation-byzarianlg|Byzarian League]] – The confederation
+- [[place-byzariargn|Byzaría Region]] – Regional overview
+- [[place-yesilhan2|Yeşilhan]] – The city itself
+- [[affiliation-altinkale|Altinkale]], [[affiliation-denizara|Denizara]], [[affiliation-gumushisar|Gümüşhisar]], [[affiliation-karatas|Karataş]] – Sister city-states

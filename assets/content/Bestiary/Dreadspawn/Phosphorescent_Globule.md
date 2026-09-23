@@ -221,7 +221,7 @@ sohl:
 
 ![[phsphrsc|Phosphorescent Globule]]{float: top-left}
 
-In the deepest darkness, a luminous green glow blooms like a sickly flower. The light pulses and intensifies hypnotically, drawing your eye and making it impossible to look away—beautiful, almost, in its promise of warmth and guidance in the lightless place. Then, as the glow brightens, you realize the light is not coming from ahead but from all around you, and the source is a rolling, gelatinous mass that moves like slow water given form. Its surface writhes and undulates with nauseating grace, and where the acidic slime touches the stone, it hisses and smokes. You can taste the faint burn in the air—caustic, alien, wrong.
+In the deepest darkness, a luminous green glow blooms like a sickly flower. The light pulses and intensifies hypnotically, drawing your eye and making it impossible to look away – beautiful, almost, in its promise of warmth and guidance in the lightless place. Then, as the glow brightens, you realize the light is not coming from ahead but from all around you, and the source is a rolling, gelatinous mass that moves like slow water given form. Its surface writhes and undulates with nauseating grace, and where the acidic slime touches the stone, it hisses and smokes. You can taste the faint burn in the air – caustic, alien, wrong.
 
 # Dossier {#dossier}
 
@@ -229,7 +229,7 @@ The Phosphorescent Globule is a predatory ooze of supreme cunning that hunts thr
 
 ## Presentation
 
-A Phosphorescent Globule typically manifests as a roughly spherical blob measuring 4 to 8 feet in diameter, though it can elongate, flatten, or reconfigure its shape with unsettling ease. Its form is entirely translucent or semi-transparent, composed of a gelatinous substance that is sickly green or pale blue in color and radiates a pulsing bioluminescence from within. Inside the mass, shapes and colors shift constantly—swirling patterns of light, sometimes resembling eyes or mouths or writhing forms, though these are likely just tricks of refracted luminescence. Where the creature moves, the ground steams and hisses as its acidic body slowly consumes stone and organic matter. The temperature drops noticeably near a Phosphorescent Globule, and the air carries a faint scent of burning acid and ozone.
+A Phosphorescent Globule typically manifests as a roughly spherical blob measuring 4 to 8 feet in diameter, though it can elongate, flatten, or reconfigure its shape with unsettling ease. Its form is entirely translucent or semi-transparent, composed of a gelatinous substance that is sickly green or pale blue in color and radiates a pulsing bioluminescence from within. Inside the mass, shapes and colors shift constantly – swirling patterns of light, sometimes resembling eyes or mouths or writhing forms, though these are likely just tricks of refracted luminescence. Where the creature moves, the ground steams and hisses as its acidic body slowly consumes stone and organic matter. The temperature drops noticeably near a Phosphorescent Globule, and the air carries a faint scent of burning acid and ozone.
 
 ## Key Behaviors
 
@@ -237,7 +237,7 @@ A Phosphorescent Globule is a patient, nearly sedentary predator that settles in
 
 ## Combat Strategy
 
-A Phosphorescent Globule opens combat by intensifying its luminescence, attempting to disorient and mesmerize opponents with dazzling light displays. Once prey is disoriented, it moves to engulf and dissolve them in its acidic body. The creature is slow-moving but very difficult to damage—physical attacks pass partially through its gelatinous form without causing lasting harm. If severely damaged, it can voluntarily fragment into multiple smaller globs, each capable of independent action, forcing opponents to deal with multiple threats simultaneously. A Phosphorescent Globule rarely retreats from combat; instead, it simply waits with eerie patience for an opening.
+A Phosphorescent Globule opens combat by intensifying its luminescence, attempting to disorient and mesmerize opponents with dazzling light displays. Once prey is disoriented, it moves to engulf and dissolve them in its acidic body. The creature is slow-moving but very difficult to damage – physical attacks pass partially through its gelatinous form without causing lasting harm. If severely damaged, it can voluntarily fragment into multiple smaller globs, each capable of independent action, forcing opponents to deal with multiple threats simultaneously. A Phosphorescent Globule rarely retreats from combat; instead, it simply waits with eerie patience for an opening.
 
 ## Attack Methods
 
@@ -265,7 +265,7 @@ The Globule's very form is corrosive to most materials, slowly dissolving anythi
 
 ## Additional Information
 
-Fire is the Phosphorescent Globule's primary weakness—flames disrupt its bioluminescence and cause the acidic form to become unstable and painful. Extreme cold also damages it, hardening the gelatinous form and disrupting its movement and cohesion. The creature's luminescent organs, if harvested carefully after death, can be preserved and used as light sources or crafted into magical foci that retain dim bioluminescence for years. The creature's acidic secretions, properly neutralized and preserved, have value in alchemical processes. The greatest risk to removing a Phosphorescent Globule from an area is the certainty that if even a small fragment is left behind, it will regenerate into a full creature given enough time and food.
+Fire is the Phosphorescent Globule's primary weakness – flames disrupt its bioluminescence and cause the acidic form to become unstable and painful. Extreme cold also damages it, hardening the gelatinous form and disrupting its movement and cohesion. The creature's luminescent organs, if harvested carefully after death, can be preserved and used as light sources or crafted into magical foci that retain dim bioluminescence for years. The creature's acidic secretions, properly neutralized and preserved, have value in alchemical processes. The greatest risk to removing a Phosphorescent Globule from an area is the certainty that if even a small fragment is left behind, it will regenerate into a full creature given enough time and food.
 
 ## Attributes
 

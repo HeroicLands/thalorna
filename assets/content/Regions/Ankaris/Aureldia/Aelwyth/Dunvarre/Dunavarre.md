@@ -1,7 +1,7 @@
 ---
 tags:
   - region
-description: "The land of the Kingdom of Dúnavarre — Aelwyth's southeastern coast, whose sheltered harbours and fertile coastal plains face Élavendre across the water."
+description: "The land of the Kingdom of Dúnavarre – Aelwyth's southeastern coast, whose sheltered harbors and fertile coastal plains face Élavendre across the water."
 name:
   full: Dúnavarre
   aliases: []
@@ -31,11 +31,11 @@ Its sheltered harbors, fertile coastal plains, and proximity to the mainland hav
 ## Population and Settlement
 
 The kingdom has only two places that can be called cities: **[[place-ravenmoor|Ravenmoor]]**, the seat,
-at about thirty-five hundred, and **[[place-wraymouth|Wraymouth]]**, the chief harbour, at about twenty-five hundred.
+at about thirty-five hundred, and **[[place-wraymouth|Wraymouth]]**, the chief harbor, at about twenty-five hundred.
 
 ## See Also
 
-- [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] — The kingdom that holds this land
-- [[place-aelwyth|Aelwyth]] — The island
-- [[place-ravenmoor|Ravenmoor]] — The seat
-- [[place-wraymouth|Wraymouth]] — The chief harbour
+- [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] – The kingdom that holds this land
+- [[place-aelwyth|Aelwyth]] – The island
+- [[place-ravenmoor|Ravenmoor]] – The seat
+- [[place-wraymouth|Wraymouth]] – The chief harbor

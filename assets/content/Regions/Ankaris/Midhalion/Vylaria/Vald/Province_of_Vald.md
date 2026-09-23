@@ -1,5 +1,5 @@
 ---
-description: "The maritime province of the Vylarian Empire — its coast lined with shipyards, naval bases, fishing towns, and cosmopolitan trade harbors, its interior given to agrarian estates; Vylaria's face to the sea and its most commercially minded region."
+description: "The maritime province of the Vylarian Empire – its coast lined with shipyards, naval bases, fishing towns, and cosmopolitan trade harbors, its interior given to agrarian estates; Vylaria's face to the sea and its most commercially minded region."
 type: affiliation
 name:
   full: Province of Vald
@@ -35,7 +35,7 @@ data:
         title: Peregrine
         lore: rsdntlnrnk
         description: >-
-          A provincial living under imperial authority without the citizenship — the great majority
+          A provincial living under imperial authority without the citizenship – the great majority
           of the empire's people.
       - level: 4
         title: Citizen
@@ -124,7 +124,7 @@ The loss of Harad hit Vald hardest. Before the war of independence, Valdian port
 
 ## For the Worldbuilder
 
-Vald is the empire's seafront: a long worked coast of harbors, shipyards, curing-sheds, and fishing fleets, backed by an inland belt of farm estates that feed the ports. The split is sharp — the coast lives by the sea (the navy at [[place-castamar|Castamar]], trade at [[place-mercavia|Mercavia]], fish everywhere between), while the interior around [[place-terravia|Terravia]] is quiet estate-country closer in temper to [[affiliation-provnchyln|Hylen]]. Power is divided three ways: the merchant houses of Mercavia, the naval command at Castamar, and the imperial customs that tax it all — and since Harad's secession broke Vylarian sea-supremacy, all three are anxious and at odds. Adventure here is maritime: smuggling and customs-running (a [[place-korsvik|Korsvik]] specialty), shipping intrigue and insurance fraud, naval politics and ship-money, piracy and wrecking along the lonelier coast, foreign agents in the cosmopolitan ports, and the constant friction between merchants who want Haradian trade and admirals who want Haradian blood. What is abundant is fish, ships, salt, and foreign news; what is scarce is grain (drawn from the interior and from [[affiliation-provnchyln|Hylen]]) and any love for the imperial tax-farmer.
+Vald is the empire's seafront: a long worked coast of harbors, shipyards, curing-sheds, and fishing fleets, backed by an inland belt of farm estates that feed the ports. The split is sharp – the coast lives by the sea (the navy at [[place-castamar|Castamar]], trade at [[place-mercavia|Mercavia]], fish everywhere between), while the interior around [[place-terravia|Terravia]] is quiet estate-country closer in temper to [[affiliation-provnchyln|Hylen]]. Power is divided three ways: the merchant houses of Mercavia, the naval command at Castamar, and the imperial customs that tax it all – and since Harad's secession broke Vylarian sea-supremacy, all three are anxious and at odds. Adventure here is maritime: smuggling and customs-running (a [[place-korsvik|Korsvik]] specialty), shipping intrigue and insurance fraud, naval politics and ship-money, piracy and wrecking along the lonelier coast, foreign agents in the cosmopolitan ports, and the constant friction between merchants who want Haradian trade and admirals who want Haradian blood. What is abundant is fish, ships, salt, and foreign news; what is scarce is grain (drawn from the interior and from [[affiliation-provnchyln|Hylen]]) and any love for the imperial tax-farmer.
 
 ## Commerce and Currency
 
@@ -132,8 +132,8 @@ Province of Vald uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argent
 
 ## See Also
 
-- [[affiliation-vylarinmpr|Vylarian Empire]] — Parent polity
-- [[place-vald|Vald]] — The land the province holds
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — Commercial rival and trading partner
-- [[place-vylarianse|Vylarian Sea]] — Maritime domain
-- [[affiliation-provinclys|Province of Alyssa]], [[affiliation-provnchyln|Province of Hylen]], [[affiliation-provncmktr|Province of Moktur]] — Sister provinces
+- [[affiliation-vylarinmpr|Vylarian Empire]] – Parent polity
+- [[place-vald|Vald]] – The land the province holds
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] – Commercial rival and trading partner
+- [[place-vylarianse|Vylarian Sea]] – Maritime domain
+- [[affiliation-provinclys|Province of Alyssa]], [[affiliation-provnchyln|Province of Hylen]], [[affiliation-provncmktr|Province of Moktur]] – Sister provinces

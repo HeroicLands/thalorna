@@ -4,7 +4,7 @@ tags:
   - first-gods
 type: lore
 subType: spirit
-description: "Fox-spirit of the lower wood — a thief, a bargainer, and the one Kindred that will renegotiate."
+description: "Fox-spirit of the lower wood – a thief, a bargainer, and the one Kindred that will renegotiate."
 name:
   full: Rhysgen, the Red Fox of the Lower Wood
   aliases: []
@@ -22,7 +22,7 @@ Rhysgen holds the lower wood where the forest thins into field-edge and midden, 
 the ground where the Áelendan and the wild are most mixed up with one another. He is
 correspondingly the least dignified of the named Kindred and the most frequently dealt with.
 
-He takes. Poultry, cached meat, small worked things left outside — these go, and the tradition does
+He takes. Poultry, cached meat, small worked things left outside – these go, and the tradition does
 not regard this as theft but as a levy that has not been negotiated down. He is appeased rather
 than venerated for exactly that reason: the relationship is a running argument about the size of
 his share.

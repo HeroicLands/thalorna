@@ -24,7 +24,7 @@ Hut-Sobek is the capital of [[affiliation-nomehutsob|the Nome of Hut-Sobek]] and
 
 ## See Also
 
-- [[affiliation-nomehutsob|The Nome of Hut-Sobek]] — Parent nome
-- [[affiliation-deltanomes|The Delta Nomes]] — Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[affiliation-sobek|Sobek]] — Patron cult
+- [[affiliation-nomehutsob|The Nome of Hut-Sobek]] – Parent nome
+- [[affiliation-deltanomes|The Delta Nomes]] – Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview
+- [[affiliation-sobek|Sobek]] – Patron cult

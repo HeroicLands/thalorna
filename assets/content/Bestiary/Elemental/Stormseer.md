@@ -324,7 +324,7 @@ sohl:
 
 ![[strmsr|Stormseer]]{float: top-left}
 
-High above, the air itself becomes uncertain. What you see is a shape wreathed in clouds and lightning—vaguely bird-like, massive, composed of storm and electricity. Around it, the air crackles with potential energy, and the smell of ozone grows strong. Thunder rumbles at its approach, not in sequence but seeming to come from the creature itself. Lightning dances between its limbs and wings, and where its gaze falls, hair stands on end and static electricity tingles across skin.
+High above, the air itself becomes uncertain. What you see is a shape wreathed in clouds and lightning – vaguely bird-like, massive, composed of storm and electricity. Around it, the air crackles with potential energy, and the smell of ozone grows strong. Thunder rumbles at its approach, not in sequence but seeming to come from the creature itself. Lightning dances between its limbs and wings, and where its gaze falls, hair stands on end and static electricity tingles across skin.
 
 # Dossier {#dossier}
 
@@ -332,7 +332,7 @@ Stormseers are elementals of sky and electricity, born from violent storms and d
 
 ## Presentation
 
-A Stormseer is roughly eagle-shaped but massively larger—a wingspan of thirty feet or more—and composed of thunderclouds and electrical energy. Its body is visible only because of the lightning that plays through and around it, outlining a distinctly avian shape. Its eyes are bright points of electrical discharge. Where it flies, thunder follows, and the air becomes charged with static. Rain and wind seem to swirl around it without necessarily touching the creature itself.
+A Stormseer is roughly eagle-shaped but massively larger – a wingspan of thirty feet or more – and composed of thunderclouds and electrical energy. Its body is visible only because of the lightning that plays through and around it, outlining a distinctly avian shape. Its eyes are bright points of electrical discharge. Where it flies, thunder follows, and the air becomes charged with static. Rain and wind seem to swirl around it without necessarily touching the creature itself.
 
 ## Key Behaviors
 

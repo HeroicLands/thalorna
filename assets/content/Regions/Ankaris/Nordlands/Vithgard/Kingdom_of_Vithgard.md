@@ -1,5 +1,5 @@
 ---
-description: "Northernmost Nordmen kingdom of polar nights, drift-ice coasts, and ivory-walled longhouses — whalers and seal-hunters whose shamanic tradition treats the long dark winter as the season when the worlds touch."
+description: "Northernmost Nordmen kingdom of polar nights, drift-ice coasts, and ivory-walled longhouses – whalers and seal-hunters whose shamanic tradition treats the long dark winter as the season when the worlds touch."
 type: affiliation
 name:
   full: Kingdom of Vithgard
@@ -26,7 +26,7 @@ data:
         title: Thrall
         lore: slavernk
         description: >-
-          Owned outright, owing labour rather than rent, bearing no weapon by right and having
+          Owned outright, owing labor rather than rent, bearing no weapon by right and having
           no voice at the assembly.
       - level: 2
         title: Freedman
@@ -87,7 +87,7 @@ data:
       Ármadr: Steward of a royal estate, answerable for its yield and for the king's rights
         within it.
       Féhirdir: Keeper of the king's treasure, his tribute and the silver of his hall.
-      Merkismadr: Bearer of the king's standard in battle, a post of the highest honour and
+      Merkismadr: Bearer of the king's standard in battle, a post of the highest honor and
         shortest life.
       Skald: Court poet, whose verse is the realm's memory and whose praise or scorn makes
         reputations.
@@ -130,10 +130,10 @@ The kingdom's shamanic traditions are the strongest of any Nordmen realm. The lo
 
 ## Commerce and Currency
 
-Kingdom of Vithgard uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) as its _de facto_ currency for transactions conducted in money — no native coin exists, and no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate in the Nordlands. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[lore-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[lore-kinhalcrdt|hall credit]] customs that have no relationship with the Vylarian banking system.
+Kingdom of Vithgard uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) as its _de facto_ currency for transactions conducted in money – no native coin exists, and no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate in the Nordlands. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[lore-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[lore-kinhalcrdt|hall credit]] customs that have no relationship with the Vylarian banking system.
 
 ## See Also
 
-- [[place-vithgard|Vithgard]] — The land the kingdom holds
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]] — Sister kingdoms
-- [[affiliation-asguardian|Asguardian Pantheon]] — Pantheon
+- [[place-vithgard|Vithgard]] – The land the kingdom holds
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]] – Sister kingdoms
+- [[affiliation-asguardian|Asguardian Pantheon]] – Pantheon

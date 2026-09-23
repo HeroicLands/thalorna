@@ -4,7 +4,7 @@ tags:
   - fortified
   - frontier
   - mountain
-description: "The fortress town of Sèrramarca, Provènzia's eastern march — the muster point below the Tarvénian passes, whose walls are new, whose garrison is permanent, and whose year begins when the snow clears."
+description: "The fortress town of Sèrramarca, Provènzia's eastern march – the muster point below the Tarvénian passes, whose walls are new, whose garrison is permanent, and whose year begins when the snow clears."
 type: place
 subType: settlement
 data:
@@ -20,7 +20,7 @@ shortcode: chastelclr
 packFolder: provenzia
 ---
 
-**Chastèlclair** — the bright castle — commands the road below the Tarvénian passes, and is the
+**Chastèlclair** – the bright castle – commands the road below the Tarvénian passes, and is the
 military seat of Sèrramarca, Provènzia's eastern march, **Sèrramarca**.
 
 It is not an old town, which distinguishes it from almost everything else on this frontier. It was
@@ -36,7 +36,7 @@ the place from which any response to a raid is actually launched.
 
 Its year is the campaign year. Through the winter, when the passes close and the mountains are
 impassable, the town is shut in and idle and its population halves. From the thaw it fills: soldiers,
-carters, farriers, victuallers, and the trade that follows them. Provisioning comes up from
+carters, farriers, victualers, and the trade that follows them. Provisioning comes up from
 [[place-tiravellake|Lake Tiravel]] and through [[place-valcerise|Valcèrise]], and Chastèlclair eats
 very well for a frontier post.
 
@@ -44,7 +44,7 @@ very well for a frontier post.
 
 Because nothing can be fought in winter, winter is when the march does its law. The **Winter Assize**
 sits at Chastèlclair from the closing of the passes to the thaw, and hears everything the campaign
-season has had no time for — claims over stolen stock, disputed ransoms, the standing quarrels of
+season has had no time for – claims over stolen stock, disputed ransoms, the standing quarrels of
 border families, and the occasional charge against an officer that could not safely be brought while
 he was needed.
 

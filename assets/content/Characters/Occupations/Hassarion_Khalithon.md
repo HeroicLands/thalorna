@@ -594,12 +594,12 @@ Few; he is generally respected but has made rivals in power struggles.
 
 ## Plot Hooks
 
-1. **The Nobility (Tenant-in-chief)'s Dilemma** — A vassal Hassârìon trusts is found to have wronged the common folk on his land, and just rulership and the loyalty he has earned pull against each other.
+1. **The Nobility (Tenant-in-chief)'s Dilemma** – A vassal Hassârìon trusts is found to have wronged the common folk on his land, and just rulership and the loyalty he has earned pull against each other.
 
-2. **Old Grudges** — A rival from an old power struggle on the Local Nobility Council has found allies enough to reopen it.
+2. **Old Grudges** – A rival from an old power struggle on the Local Nobility Council has found allies enough to reopen it.
 
-3. **Echoes of the Past** — A battle Hassârìon led his men into years ago is raised again by the family of a man who did not come back from it.
+3. **Echoes of the Past** – A battle Hassârìon led his men into years ago is raised again by the family of a man who did not come back from it.
 
-4. **Shifting Winds** — Political change in Heliónis threatens the standing of the tenants-in-chief, and Hassârìon can adapt, resist, or leave.
+4. **Shifting Winds** – Political change in Heliónis threatens the standing of the tenants-in-chief, and Hassârìon can adapt, resist, or leave.
 
-5. **The Opportunity** — Hassârìon is offered command of a campaign beyond his own lands, and his domain would be left to his vassals while he is gone.
+5. **The Opportunity** – Hassârìon is offered command of a campaign beyond his own lands, and his domain would be left to his vassals while he is gone.

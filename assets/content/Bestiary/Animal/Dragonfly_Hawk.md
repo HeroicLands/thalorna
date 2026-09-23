@@ -312,7 +312,7 @@ sohl:
 
 ![[drgnflyh|Dragonfly Hawk]]{float: top-left}
 
-The sound reaches you first: a high-pitched whine like a distant saw cutting metal, growing closer with terrifying rapidity. Then you see it: a creature of nightmare proportions—a dragonfly magnified to lethal size, a body five feet long composed of gleaming segments of iridescent chitin. The wings beat so rapidly they're nearly invisible, producing a high, unceasing hum that sounds almost like pain. The mandibles—massive, shearing structures—snap open and shut in patterns suggesting hunger. The eyes—faceted, capturing light like a thousand tiny mirrors—fix directly on you with predatory intensity as the creature circles, testing, assessing.
+The sound reaches you first: a high-pitched whine like a distant saw cutting metal, growing closer with terrifying rapidity. Then you see it: a creature of nightmare proportions – a dragonfly magnified to lethal size, a body five feet long composed of gleaming segments of iridescent chitin. The wings beat so rapidly they're nearly invisible, producing a high, unceasing hum that sounds almost like pain. The mandibles – massive, shearing structures – snap open and shut in patterns suggesting hunger. The eyes – faceted, capturing light like a thousand tiny mirrors – fix directly on you with predatory intensity as the creature circles, testing, assessing.
 
 # Dossier {#dossier}
 

@@ -328,7 +328,7 @@ sohl:
 
 ![[glssfng|Glassfang]]{float: top-left}
 
-Nothing is there, and then something is—a shimmer of light bending wrong, a shadow that isn’t quite transparent enough. You see it only when it moves, and when it does, your breath catches: the thing is made of glass, or ice, or something harder than either. Curved fangs catch light even though they shouldn’t be visible. It’s the size of a hunting cat, sleek and lethal, and it moves faster than thought toward your throat, its intent plain in eyes like crystal slivers.
+Nothing is there, and then something is – a shimmer of light bending wrong, a shadow that isn’t quite transparent enough. You see it only when it moves, and when it does, your breath catches: the thing is made of glass, or ice, or something harder than either. Curved fangs catch light even though they shouldn’t be visible. It’s the size of a hunting cat, sleek and lethal, and it moves faster than thought toward your throat, its intent plain in eyes like crystal slivers.
 
 # Dossier {#dossier}
 
@@ -336,11 +336,11 @@ Glassfangs are magical predators born where light magic concentrates in the phys
 
 ## Presentation
 
-The Glassfang is a small predator, roughly the size of a large cat or small dog, composed almost entirely of transparent crystalline material. Its body is sleek and built for speed. Its scales are smooth yet razor-edged, capable of cutting on contact. Its most distinctive feature is its mouth—full of curved fangs made of crystal so clear they’re nearly invisible, yet capable of piercing through most materials. Its eyes are the only opaque features: small, dark points within the crystal body that burn with intelligent predatory focus. The creature produces a faint chiming sound as it moves, like wind-chimes or crystal striking crystal. In bright light, it becomes almost completely invisible, visible only as a shimmer or distortion of light. In dim light, it is somewhat more visible.
+The Glassfang is a small predator, roughly the size of a large cat or small dog, composed almost entirely of transparent crystalline material. Its body is sleek and built for speed. Its scales are smooth yet razor-edged, capable of cutting on contact. Its most distinctive feature is its mouth – full of curved fangs made of crystal so clear they’re nearly invisible, yet capable of piercing through most materials. Its eyes are the only opaque features: small, dark points within the crystal body that burn with intelligent predatory focus. The creature produces a faint chiming sound as it moves, like wind-chimes or crystal striking crystal. In bright light, it becomes almost completely invisible, visible only as a shimmer or distortion of light. In dim light, it is somewhat more visible.
 
 ## Key Behaviors
 
-The Glassfang is a solitary, highly active hunter that spends most of its time in motion, stalking prey. It prefers bright environments where its near-invisibility is most effective, but it will hunt in lower light if prey is available. It demonstrates considerable intelligence in understanding prey behavior and setting ambushes. The creature shows no territorial behavior—it simply hunts where prey exists. It feeds frequently, consuming small creatures and the life-force of magical beings. It shows no social behavior and exhibits no interest in other Glassfangs beyond territorial avoidance. When injured, it becomes erratic and aggressive rather than cautious.
+The Glassfang is a solitary, highly active hunter that spends most of its time in motion, stalking prey. It prefers bright environments where its near-invisibility is most effective, but it will hunt in lower light if prey is available. It demonstrates considerable intelligence in understanding prey behavior and setting ambushes. The creature shows no territorial behavior – it simply hunts where prey exists. It feeds frequently, consuming small creatures and the life-force of magical beings. It shows no social behavior and exhibits no interest in other Glassfangs beyond territorial avoidance. When injured, it becomes erratic and aggressive rather than cautious.
 
 ## Combat Strategy
 
@@ -380,7 +380,7 @@ The creature’s physical form allows for sustained high-speed movement. It can 
 
 ## Additional Information
 
-Glassfangs are vulnerable to sonic and vibration-based attacks, which shatter their crystalline structure. Blunt-force weapons are more effective than blades. The creature’s near-invisibility makes it most dangerous in small spaces where escape is difficult—in open ground, prey can potentially flee into areas where their higher endurance provides advantage. Some wizards and mages specifically protect their laboratories with anti-Glassfang wards, suggesting these creatures are drawn to sources of magical radiation.
+Glassfangs are vulnerable to sonic and vibration-based attacks, which shatter their crystalline structure. Blunt-force weapons are more effective than blades. The creature’s near-invisibility makes it most dangerous in small spaces where escape is difficult – in open ground, prey can potentially flee into areas where their higher endurance provides advantage. Some wizards and mages specifically protect their laboratories with anti-Glassfang wards, suggesting these creatures are drawn to sources of magical radiation.
 
 ## Attributes
 

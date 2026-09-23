@@ -3,7 +3,7 @@ tags:
   - city
   - inland
   - fortified
-description: "The seat of the Kingdom of Aldorath and the only true city in it — a walled market and castle town where the whole business of a feudal realm is transacted."
+description: "The seat of the Kingdom of Aldorath and the only true city in it – a walled market and castle town where the whole business of a feudal realm is transacted."
 type: place
 subType: settlement
 data:
@@ -32,7 +32,7 @@ retinues.
 
 Aldorath's aristocracy is landed, hereditary and genuinely powerful, and Dunmere is where that power is
 negotiated. A king who wants anything done must obtain it from men whose estates are their real
-interest, and the bargaining is conducted in hall, at table and in the yards outside — slowly, publicly,
+interest, and the bargaining is conducted in hall, at table and in the yards outside – slowly, publicly,
 and with an attention to precedence that visitors from [[affiliation-kingdmdnvr|Dúnavarre]] find
 exhausting and revealing.
 

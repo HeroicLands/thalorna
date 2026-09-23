@@ -1,5 +1,5 @@
 ---
-description: "The lion-spirit of the Mvuzi — courage, sovereignty and open challenge; senior among the Nyáluba guides because the Long Pact was sworn in its country."
+description: "The lion-spirit of the Mvuzi – courage, sovereignty and open challenge; senior among the Nyáluba guides because the Long Pact was sworn in its country."
 tags:
   - nyaluba
   - religion
@@ -29,7 +29,7 @@ data:
         lore: catechumenrnk
         description: >-
           Living under the observances, the totem law and the clan's pacts without having
-          entered the tradition — most of the people, most of the time.
+          entered the tradition – most of the people, most of the time.
       - level: 2
         title: Initiate
         lore: initiaternk
@@ -40,13 +40,13 @@ data:
         title: Spirit-Speaker
         lore: sprtspkrrnk
         description: >-
-          The mwalimu wa roho — permitted to perceive, address and negotiate with the spirits on
+          The mwalimu wa roho – permitted to perceive, address and negotiate with the spirits on
           the clan's behalf, and answerable for what is asked of them.
       - level: 4
         title: Elder Shaman
         lore: elderrnk
         description: >-
-          Long practised, teaching initiates and sitting on the council, where their word carries
+          Long practiced, teaching initiates and sitting on the council, where their word carries
           the greater weight in what the younger Spirit-Speakers dispute.
     offices:
       Guardian of the Pact-Baobab: >-
@@ -81,20 +81,20 @@ shortcode: nyalblion
 packFolder: nyaluba
 ---
 
-The **Lion Totem** is the guide of the [[affiliation-nylbtrblntn|Mvuzi]], the cattle-herding clan of the central grasslands and the most numerous of the five. The Mvuzi do not admire the lion; they understand themselves to be _of_ it. They do not hunt lions, do not eat lion flesh, and are held to the bearing the guide embodies — courage, sovereignty, and challenge made in the open rather than from cover.
+The **Lion Totem** is the guide of the [[affiliation-nylbtrblntn|Mvuzi]], the cattle-herding clan of the central grasslands and the most numerous of the five. The Mvuzi do not admire the lion; they understand themselves to be _of_ it. They do not hunt lions, do not eat lion flesh, and are held to the bearing the guide embodies – courage, sovereignty, and challenge made in the open rather than from cover.
 
-The lion is **venerated**, in the first of the tradition's three postures: honoured with regular offering, greeted at the turning of the cattle-seasons, and sung of in the clan's memory-songs. It is not a god and is not worshipped. It is a kinsman whose kinship crosses both species and the border between the living and the spirit world.
+The lion is **venerated**, in the first of the tradition's three postures: honored with regular offering, greeted at the turning of the cattle-seasons, and sung of in the clan's memory-songs. It is not a god and is not worshipped. It is a kinsman whose kinship crosses both species and the border between the living and the spirit world.
 
-The guide holds a seniority the other four acknowledge without resenting, because the Long Pact was sworn in Mvuzi country, under a baobab, by Mwána-Mvuzi — and the lion was witness to it. That witness is why the Mvuzi paramount convenes the Great Indaba and speaks last when consensus is sought.
+The guide holds a seniority the other four acknowledge without resenting, because the Long Pact was sworn in Mvuzi country, under a baobab, by Mwána-Mvuzi – and the lion was witness to it. That witness is why the Mvuzi paramount convenes the Great Indaba and speaks last when consensus is sought.
 
 ## Veneration
 
-Mvuzi men take a single lion-tooth at adulthood, and the taking is the ordeal by which they enter the tradition. Offerings are made where the herds cross the guide's ground; a beast lost to lions on that ground is not a loss but a rendering, and is entered in the tally as such. A Mvuzi who hunts a lion has not committed a crime against the clan — he has committed one against his own ancestry, and the griot will not speak his name in a genealogy afterwards.
+Mvuzi men take a single lion-tooth at adulthood, and the taking is the ordeal by which they enter the tradition. Offerings are made where the herds cross the guide's ground; a beast lost to lions on that ground is not a loss but a rendering, and is entered in the tally as such. A Mvuzi who hunts a lion has not committed a crime against the clan – he has committed one against his own ancestry, and the griot will not speak his name in a genealogy afterward.
 
 ## See Also
 
-- [[lore-lionmvuzispr|Lion Spirit]] — the guide as a being, apart from the practices of its cult
-- [[skill-lionmvuzisprt|Lion Spirit Power]] — the standing through which the guide is asked
-- [[affiliation-nyalbpnthn|The Nyáluba Way]] — the tradition this cult belongs to
-- [[lore-nyalbsprts|Nyáluba Spirits]] — the seven kinds of guide and the three postures
-- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] — the Mvuzi and the other four clans
+- [[lore-lionmvuzispr|Lion Spirit]] – the guide as a being, apart from the practices of its cult
+- [[skill-lionmvuzisprt|Lion Spirit Power]] – the standing through which the guide is asked
+- [[affiliation-nyalbpnthn|The Nyáluba Way]] – the tradition this cult belongs to
+- [[lore-nyalbsprts|Nyáluba Spirits]] – the seven kinds of guide and the three postures
+- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] – the Mvuzi and the other four clans

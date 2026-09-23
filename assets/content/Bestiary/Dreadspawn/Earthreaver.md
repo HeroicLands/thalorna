@@ -250,7 +250,7 @@ sohl:
 
 ![[erthrvr|Earthreaver]]{float: top-left}
 
-The ground writhes. Soil ripples like water, and then the thing erupts—segmented, armored, impossibly long. Its body is a chain of chitinous plates that glisten with slime and crushed earth. Too many legs move in synchronized horror, carrying it forward at speeds that shouldn't be possible for something so massive. Its mandibles open, dripping venom that hisses where it touches stone. The stench of turned soil and something acidic fills your nostrils.
+The ground writhes. Soil ripples like water, and then the thing erupts – segmented, armored, impossibly long. Its body is a chain of chitinous plates that glisten with slime and crushed earth. Too many legs move in synchronized horror, carrying it forward at speeds that shouldn't be possible for something so massive. Its mandibles open, dripping venom that hisses where it touches stone. The stench of turned soil and something acidic fills your nostrils.
 
 # Dossier {#dossier}
 
@@ -258,11 +258,11 @@ Earthreavers are apex predators of underground ecosystems, venomous hunters that
 
 ## Presentation
 
-The Earthreaver is a massive worm-like arthropod, roughly thirty feet in length, its body composed of overlapping segments of dark brown and black chitin. Each segment is independently armored and supported by multiple jointed legs—six pairs, allowing coordinated, wave-like movement that provides both horizontal and vertical mobility. The creature's head is dominated by powerful mandibles capable of slicing through stone; these mandibles drip with iridescent venom. Its anterior segments bear sensory tentacles used for detecting prey. The creature's skin is constantly moist with secretions that aid in burrowing; this slime is itself acidic and caustic. Movement is accompanied by the wet sounds of burrow creation and the scrape of chitin sliding through stone.
+The Earthreaver is a massive worm-like arthropod, roughly thirty feet in length, its body composed of overlapping segments of dark brown and black chitin. Each segment is independently armored and supported by multiple jointed legs – six pairs, allowing coordinated, wave-like movement that provides both horizontal and vertical mobility. The creature's head is dominated by powerful mandibles capable of slicing through stone; these mandibles drip with iridescent venom. Its anterior segments bear sensory tentacles used for detecting prey. The creature's skin is constantly moist with secretions that aid in burrowing; this slime is itself acidic and caustic. Movement is accompanied by the wet sounds of burrow creation and the scrape of chitin sliding through stone.
 
 ## Key Behaviors
 
-The Earthreaver is an active, aggressive hunter that creates vast burrow networks beneath its claimed territory. Unlike many burrowing creatures, it hunts actively and frequently, emerging randomly throughout its territory to attack anything moving within its domain. It hunts with cunning—understanding prey behavior, setting ambushes in frequented passages, even herding prey toward specific kill zones. It does not share territory peacefully; if another Earthreaver enters its domain, violence is inevitable. When satisfied with feeding, it becomes less active but still vigilant. It exhibits no social behavior and shows no evidence of mating rituals or family groups.
+The Earthreaver is an active, aggressive hunter that creates vast burrow networks beneath its claimed territory. Unlike many burrowing creatures, it hunts actively and frequently, emerging randomly throughout its territory to attack anything moving within its domain. It hunts with cunning – understanding prey behavior, setting ambushes in frequented passages, even herding prey toward specific kill zones. It does not share territory peacefully; if another Earthreaver enters its domain, violence is inevitable. When satisfied with feeding, it becomes less active but still vigilant. It exhibits no social behavior and shows no evidence of mating rituals or family groups.
 
 ## Combat Strategy
 
@@ -302,7 +302,7 @@ The Earthreaver perceives its environment through vibrations in earth and stone,
 
 ## Additional Information
 
-Fire-based attacks are particularly effective against the Earthreaver, as heat damages its moist exoskeleton and can cause severe pain. Extreme cold similarly cracks and weakens its chitinous armor. Water in burrow passages can flood its tunnels and drive it to surface, though the creature is capable of traveling through water for limited periods. Earthreavers have been observed farming territories—maintaining specific burrow systems and allowing certain prey species to populate them before systematic hunting.
+Fire-based attacks are particularly effective against the Earthreaver, as heat damages its moist exoskeleton and can cause severe pain. Extreme cold similarly cracks and weakens its chitinous armor. Water in burrow passages can flood its tunnels and drive it to surface, though the creature is capable of traveling through water for limited periods. Earthreavers have been observed farming territories – maintaining specific burrow systems and allowing certain prey species to populate them before systematic hunting.
 
 ## Attributes
 

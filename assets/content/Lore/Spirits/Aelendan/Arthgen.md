@@ -4,7 +4,7 @@ tags:
   - first-gods
 type: lore
 subType: spirit
-description: "Bear-spirit of the high corries — warded against in winter and venerated in summer, the same spirit both times."
+description: "Bear-spirit of the high corries – warded against in winter and venerated in summer, the same spirit both times."
 name:
   full: Arthgen, the Bear of the High Corries
   aliases: []
@@ -23,7 +23,7 @@ shamen use him to teach it. Between the first hard frost and the thaw he is ward
 corries are not entered, the protective songs are carried by anyone who must pass below them, and
 a tribe that loses someone up there in winter does not go to look.
 
-From the thaw to the frost he is venerated, and generously — he is credited with the health of the
+From the thaw to the frost he is venerated, and generously – he is credited with the health of the
 high pasture, with the summer honey, and with warning of avalanche, and the summer rite in the
 corries is among the larger occasions of the Áelendan year.
 

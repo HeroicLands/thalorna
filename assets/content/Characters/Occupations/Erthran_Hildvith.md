@@ -592,12 +592,12 @@ Poachers exploit the land and overhunt.
 
 ## Plot Hooks
 
-1. **The Trapper's Dilemma** — A trader offers Erthran a price for more furs than the forest can spare, and the winter is a hard one.
+1. **The Trapper's Dilemma** – A trader offers Erthran a price for more furs than the forest can spare, and the winter is a hard one.
 
-2. **Old Grudges** — The poachers Erthran has driven off his ground have begun stripping his traplines.
+2. **Old Grudges** – The poachers Erthran has driven off his ground have begun stripping his traplines.
 
-3. **Echoes of the Past** — A trapline Erthran's father taught him to run is found set again, by someone who knows it as well as he does.
+3. **Echoes of the Past** – A trapline Erthran's father taught him to run is found set again, by someone who knows it as well as he does.
 
-4. **Shifting Winds** — Political change in Vrystwald puts the forest Erthran traps under a new lord, and he can adapt, resist, or leave.
+4. **Shifting Winds** – Political change in Vrystwald puts the forest Erthran traps under a new lord, and he can adapt, resist, or leave.
 
-5. **The Opportunity** — A lord offers Erthran the wardenship of his forest, and the first duty of it is to trap out the animals Erthran has always spared.
+5. **The Opportunity** – A lord offers Erthran the wardenship of his forest, and the first duty of it is to trap out the animals Erthran has always spared.

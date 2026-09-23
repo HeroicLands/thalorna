@@ -19,7 +19,7 @@ packFolder: provenzia
 ---
 
 On the shore of [[place-tiravellake|Lake Tiravel]], which gives it its name, lies the second of
-Provènzia's named [[lore-bloodfields|blood-fields]] — and the one most people have actually seen,
+Provènzia's named [[lore-bloodfields|blood-fields]] – and the one most people have actually seen,
 since the lake road runs along its edge and nobody has ever thought to move the road.
 
 ## A Recurrence
@@ -27,7 +27,7 @@ since the lake road runs along its edge and nobody has ever thought to move the 
 Tiravlen replays, and it replays **over the water**, which is what makes it locally famous. On the
 anniversary, and on a scatter of other nights that follow no pattern anyone has established, lights
 move out across the lake in ranks, and sound carries off the surface with the particular clarity that
-water gives it — orders, horses, the noise of a line breaking — all of it perfectly audible from
+water gives it – orders, horses, the noise of a line breaking – all of it perfectly audible from
 villages a mile off and never from anywhere close enough to see.
 
 Nobody is harmed. Nothing has ever come ashore.
@@ -38,7 +38,7 @@ The lakeside villages long ago stopped treating this as a crisis and turned it i
 anniversary the boats are drawn up, the shutters go closed at dusk, and households sit the night out
 together with the fire lit; in the morning there is a small offering at the water and the year goes
 on. Priests of [[affiliation-thanatos|Thánatos]] attend where they are invited and have never been
-asked to perform the rite of settlement — the villages are firm that the field is not troublesome and
+asked to perform the rite of settlement – the villages are firm that the field is not troublesome and
 that the observance is theirs.
 
 Visitors who insist on watching from the shore are not prevented. They are simply not accompanied.

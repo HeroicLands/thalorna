@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "The plural of Per-Aá — the line of divine sovereigns of Ta'Kheperu taken together, as the king-lists and the regnal dating reckon them."
+description: "The plural of Per-Aá – the line of divine sovereigns of Ta'Kheperu taken together, as the king-lists and the regnal dating reckon them."
 type: lore
 subType: law
 name:
@@ -12,4 +12,4 @@ shortcode: peraa
 packFolder: takheperu
 ---
 
-The plural of Per-Aá — the line of divine sovereigns of Ta'Kheperu taken together, as the king-lists and the regnal dating reckon them.
+The plural of Per-Aá – the line of divine sovereigns of Ta'Kheperu taken together, as the king-lists and the regnal dating reckon them.

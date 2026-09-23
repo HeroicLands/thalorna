@@ -649,6 +649,6 @@ raiders
 
 2. **Waves of Betrayal**: During a routine patrol, Rúna intercepts raiders bearing symbols of Targud, a tribe her warband thought defeated. Investigation reveals that a nearby clan has secretly allied with the raiders to weaken Norgaad’s defenses. Rúna must expose their treachery and rally her people, risking open conflict between the clans.
 
-3. **The Crimson Banner**: A rival shield-maiden challenges Rúna to lead a raid into contested territory to recover a sacred relic—a crimson banner said to bring victory in battle. The mission forces Rúna to navigate treacherous terrain, hostile enemies, and the tension of competing loyalties within her own warband.
+3. **The Crimson Banner**: A rival shield-maiden challenges Rúna to lead a raid into contested territory to recover a sacred relic – a crimson banner said to bring victory in battle. The mission forces Rúna to navigate treacherous terrain, hostile enemies, and the tension of competing loyalties within her own warband.
 
 4. **The Ghosts of Járnhavn**: After a fierce storm, the spirits of fallen warriors are seen wandering the outskirts of Járnhavn, lamenting their unfulfilled oaths. Rúna learns that these warriors fought under her family’s banner but were betrayed by a forgotten ally. To lay their spirits to rest, she must uncover the truth of their betrayal and bring justice to those responsible, even if it means facing powerful enemies.

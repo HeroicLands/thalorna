@@ -592,12 +592,12 @@ Few; respected in her field but occasionally faces skepticism from more traditio
 
 ## Plot Hooks
 
-1. **The Litigant's Dilemma** — An inheritance case turns on a will Rimtûra knows to be forged, and she has to choose between her client and the truth.
+1. **The Litigant's Dilemma** – An inheritance case turns on a will Rimtûra knows to be forged, and she has to choose between her client and the truth.
 
-2. **Old Grudges** — One of the traditional litigants who doubt her takes a case against her personally.
+2. **Old Grudges** – One of the traditional litigants who doubt her takes a case against her personally.
 
-3. **Echoes of the Past** — A family dispute Rimtûra settled years ago resurfaces with a party she had forgotten.
+3. **Echoes of the Past** – A family dispute Rimtûra settled years ago resurfaces with a party she had forgotten.
 
-4. **Shifting Winds** — Political change in Harad threatens the courts Rimtûra depends upon, and she can adapt, resist, or leave.
+4. **Shifting Winds** – Political change in Harad threatens the courts Rimtûra depends upon, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — A noble house offers Rimtûra its business beyond anything she has hoped for, and the price is not named up front.
+5. **The Opportunity** – A noble house offers Rimtûra its business beyond anything she has hoped for, and the price is not named up front.

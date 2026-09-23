@@ -1,5 +1,5 @@
 ---
-description: "An old capital of a former dynasty, proud and faded; ram-cult and horse-pasture — one of the upper-river nomes of Ta'Kheperu."
+description: "An old capital of a former dynasty, proud and faded; ram-cult and horse-pasture – one of the upper-river nomes of Ta'Kheperu."
 type: affiliation
 name:
   full: The Nome of Henen-Nesut
@@ -25,19 +25,19 @@ data:
         title: Bondsman
         lore: slavernk
         description: >-
-          Bound to an estate or a temple, owing labour on its fields and its works and holding
+          Bound to an estate or a temple, owing labor on its fields and its works and holding
           nothing of his own.
       - level: 2
         title: Farmer
         lore: commonerrnk
         description: >-
           Working the floodplain under a lord or a temple, owing a share of the harvest and
-          labour on the canals.
+          labor on the canals.
       - level: 3
         title: Artisan or Merchant
         lore: journeymanrnk
         description: >-
-          Of the trades — potters, weavers, boatmen, traders — free of the fields and taxed
+          Of the trades – potters, weavers, boatmen, traders – free of the fields and taxed
           on their work.
       - level: 4
         title: Scribe
@@ -49,7 +49,7 @@ data:
         title: Heka'hut
         lore: landedlordrnk
         description: >-
-          Ruler of an estate — its manor, its fields and its village — answerable to the nomarch
+          Ruler of an estate – its manor, its fields and its village – answerable to the nomarch
           above.
       - level: 6
         title: Haty'a
@@ -67,30 +67,30 @@ data:
         title: Per-Aá
         lore: sovereignrnk
         description: >-
-          The divine sovereign, on whose claim all temple and secular authority rests — a fiction
+          The divine sovereign, on whose claim all temple and secular authority rests – a fiction
           nobody believes and nobody may abandon.
     offices:
       Haty'a: Nomarch, governing a nome with armies, taxes and courts of his own.
-      Heka'hut: Ruler of an estate — manor, fields and village — answerable to the nomarch.
+      Heka'hut: Ruler of an estate – manor, fields and village – answerable to the nomarch.
       Nebet'hut: Mistress of an estate, holding the same authority in her own right.
       Nebet: Lady of the court, whose standing comes from position rather than from land.
       Semer: >-
-        Companion of the Per-Aá: a title of royal favour and access rather than territorial
+        Companion of the Per-Aá: a title of royal favor and access rather than territorial
         authority.
       Wer'Hekau: >-
-        Great of Sacred Power — High Priest of a major temple, master of its estates and voice
+        Great of Sacred Power – High Priest of a major temple, master of its estates and voice
         of its god.
       Hem'Netjer: >-
-        Servant of the God — the ordained priesthood that conducts the rites and runs the
+        Servant of the God – the ordained priesthood that conducts the rites and runs the
         temple's lands.
       Wab: >-
-        Purified One — acolyte in the temple schools, years from ordination and already better
+        Purified One – acolyte in the temple schools, years from ordination and already better
         educated than most.
       Overseer of Scribes: Head of a bureau of the administration, commanding the lettered
         men who actually govern.
       Nomarch's Steward: Administrator of the nome's revenue, its granaries and its corvée.
-      Canal-Warden: Keeper of the irrigation works on which the nome's harvest — and its tax
-        — depends.
+      Canal-Warden: Keeper of the irrigation works on which the nome's harvest – and its tax
+        – depends.
   commonSkills:
     - kheperlng
   seat: henennesut
@@ -124,9 +124,9 @@ Henen-Nesut uses the [[lore-tkhprcrncy|Ta'Kheperu currency system]], with the lo
 
 ## See Also
 
-- [[affiliation-uperivrnms|The Upper River Nomes]] — Parent nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[place-henennesut|Henen-Nesut]] — Nome capital
-- [[affiliation-ra|Rā]] — Patron cult
-- [[affiliation-perhati|Pér-Háti]] — Temple-treasuries
-- [[place-henennesutnome|Henen-Nesut Nome]] — The land the nome holds
+- [[affiliation-uperivrnms|The Upper River Nomes]] – Parent nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview
+- [[place-henennesut|Henen-Nesut]] – Nome capital
+- [[affiliation-ra|Rā]] – Patron cult
+- [[affiliation-perhati|Pér-Háti]] – Temple-treasuries
+- [[place-henennesutnome|Henen-Nesut Nome]] – The land the nome holds

@@ -24,7 +24,7 @@ Per-Hût is the capital of [[affiliation-nomeperhut|the Nome of Per-Hût]] and t
 
 ## See Also
 
-- [[affiliation-nomeperhut|The Nome of Per-Hût]] — Parent nome
-- [[affiliation-uperivrnms|The Upper River Nomes]] — Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[affiliation-iset|Íšét]] — Patron cult
+- [[affiliation-nomeperhut|The Nome of Per-Hût]] – Parent nome
+- [[affiliation-uperivrnms|The Upper River Nomes]] – Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview
+- [[affiliation-iset|Íšét]] – Patron cult

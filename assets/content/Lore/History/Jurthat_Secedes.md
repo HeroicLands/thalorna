@@ -24,7 +24,7 @@ event:
   summary: >-
     The island province of Jürthāt breaks away from the Empire of Tānvür in a bloody war of secession,
     led by the imperial governor from whom its emperors claim unbroken descent. No imperial expedition
-    has ever reasserted sovereignty over the archipelago. The empire has never formally recognised the
+    has ever reasserted sovereignty over the archipelago. The empire has never formally recognized the
     loss and calls the kingdom a renegade province in open rebellion; the practical reality is a
     sovereign kingdom that raids the coast.
   standing: attested
@@ -49,7 +49,7 @@ event:
   accounts:
     - by: affiliation-jurthatempr
       says: >-
-        Heaven blessed the act. The gods withdrew their favour from the empire and bestowed it on the
+        Heaven blessed the act. The gods withdrew their favor from the empire and bestowed it on the
         Nine Mountains, and the unbroken line is the proof: where the mainland's has been interrupted
         by conquest and civil war, ours has endured.
       agrees: partly
@@ -65,13 +65,13 @@ province. It broke away in a bloody war of secession and has since developed a f
 culture.
 
 The two sides have not agreed on a single word of it in a thousand years. The empire still refers to
-Jürthāt by a dismissive name, has never formally recognised its sovereignty, and considers it a
+Jürthāt by a dismissive name, has never formally recognized its sovereignty, and considers it a
 renegade province; the practical reality is a sovereign kingdom that raids the imperial coast and has
 never been retaken.
 
 The islanders' reading is religious. They hold that when their ancestors broke away heaven itself
-blessed the act — the gods withdrawing their favour from the empire and bestowing it on the Nine
-Mountains — and they offer the unbroken imperial lineage as proof, where the mainland's line has been
+blessed the act – the gods withdrawing their favor from the empire and bestowing it on the Nine
+Mountains – and they offer the unbroken imperial lineage as proof, where the mainland's line has been
 interrupted by conquest and civil war. To the islanders this is evidence that they are heaven's chosen
 people and the mainland a fallen realm.
 

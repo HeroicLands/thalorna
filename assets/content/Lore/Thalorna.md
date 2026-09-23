@@ -38,19 +38,19 @@ ORDER BY name.full COLLATE NOCASE
 
 ### The Elder Races
 
-Before humanity, before empires, before recorded history, Thalorna was home to two older peoples whose presence stretches back at least seven thousand years before the Founding — and probably far longer.
+Before humanity, before empires, before recorded history, Thalorna was home to two older peoples whose presence stretches back at least seven thousand years before the Founding – and probably far longer.
 
 #### Sinalë
 
-The [[lore-flksinale|Sinalë]]. The Firstborn. The Star-Kindled. A tall, graceful, long-lived people with a deep kinship to the natural world and a form of magic that bears no resemblance to anything the [[affiliation-ordoarcanis|Ordo Arcanis]] can systematize. The Sinalë live in hidden enclaves — deep forests, mist-shrouded valleys, island sanctuaries — scattered across every continent but appearing on no human map. They are profoundly insular, with almost no interest in human affairs. Sustained contact with human civilizations exists in only a handful of places: [[place-elavendre|Élavendre]], where the royal family has maintained a warm relationship with local Sinalëan communities for centuries; the [[affiliation-tanvurempr|Empire of Tānvür]], where a more formal (and possibly coerced) arrangement links the enclaves to the imperial court; and [[place-kchchkcntnnt|K'ich'chik Continent]], where the nature of the connection is poorly understood by western scholars.
+The [[lore-flksinale|Sinalë]]. The Firstborn. The Star-Kindled. A tall, graceful, long-lived people with a deep kinship to the natural world and a form of magic that bears no resemblance to anything the [[affiliation-ordoarcanis|Ordo Arcanis]] can systematize. The Sinalë live in hidden enclaves – deep forests, mist-shrouded valleys, island sanctuaries – scattered across every continent but appearing on no human map. They are profoundly insular, with almost no interest in human affairs. Sustained contact with human civilizations exists in only a handful of places: [[place-elavendre|Élavendre]], where the royal family has maintained a warm relationship with local Sinalëan communities for centuries; the [[affiliation-tanvurempr|Empire of Tānvür]], where a more formal (and possibly coerced) arrangement links the enclaves to the imperial court; and [[place-kchchkcntnnt|K'ich'chik Continent]], where the nature of the connection is poorly understood by western scholars.
 
 #### Khazári
 
-The [[lore-flkkhazar|Khazári]]. The Deep Folk. The Stone-Wrights. A shorter, broader, immensely strong people who inhabit mountain holds carved into living rock with engineering skill no human can match. Like the Sinalë, they are vanishingly rare, deeply insular, and uninterested in human politics. Their craft — metalwork, stonework, engineering — is legendary, though most humans encounter it only in ancient ruins and priceless artifacts from an age before humanity.
+The [[lore-flkkhazar|Khazári]]. The Deep Folk. The Stone-Wrights. A shorter, broader, immensely strong people who inhabit mountain holds carved into living rock with engineering skill no human can match. Like the Sinalë, they are vanishingly rare, deeply insular, and uninterested in human politics. Their craft – metalwork, stonework, engineering – is legendary, though most humans encounter it only in ancient ruins and priceless artifacts from an age before humanity.
 
 #### The Old Compact
 
-In the deepest past, the Sinalë and the Khazári lived and worked together under some form of shared accord — what fragmentary traditions call the Old Compact. This cooperation produced wonders that neither race could have achieved alone. But something shattered the Compact in an age before human memory, and the two elder races separated completely. They do not speak to each other. They do not trade. Neither will discuss the breach with humans. Whatever happened, it has not been forgiven across thousands of years of silence.
+In the deepest past, the Sinalë and the Khazári lived and worked together under some form of shared accord – what fragmentary traditions call the Old Compact. This cooperation produced wonders that neither race could have achieved alone. But something shattered the Compact in an age before human memory, and the two elder races separated completely. They do not speak to each other. They do not trade. Neither will discuss the breach with humans. Whatever happened, it has not been forgiven across thousands of years of silence.
 
 ## Pantheons
 
@@ -65,7 +65,7 @@ ORDER BY name.full COLLATE NOCASE
 
 ## Characters
 
-Thalorna is populated by warriors, scholars, rulers, rogues, priests, bards, and everyone in between — the people whose choices shape the world's ongoing history. Browse the full [[doc-being|catalog of beings]], or discover them in context on the regions, polities, and faiths where they live.
+Thalorna is populated by warriors, scholars, rulers, rogues, priests, bards, and everyone in between – the people whose choices shape the world's ongoing history. Browse the full [[doc-being|catalog of beings]], or discover them in context on the regions, polities, and faiths where they live.
 
 ## Creatures
 

@@ -559,7 +559,7 @@ sohl:
 
 ![[lucernsrnt|Lucerian Serentia]]{float: top-left}
 
-Lucerian Serentia is a handsome young man whose appearance screams wealth and education in an environment that has neither. His brown hair is neatly trimmed, his green eyes are sharp and analytical behind an expression of perpetual, slightly anxious alertness, and his clothing — though travel-worn — is of noticeably finer quality than anything else aboard the Tamzîr. He maintains his grooming with fastidious care, a habit his crewmates find equal parts admirable and irritating. He carries a large leather medical bag of exquisite craftsmanship, containing surgical instruments of the finest quality and an extensive supply of drugs and herbs. He also carries an eating fork, which the crew considers the height of pretension.
+Lucerian Serentia is a handsome young man whose appearance screams wealth and education in an environment that has neither. His brown hair is neatly trimmed, his green eyes are sharp and analytical behind an expression of perpetual, slightly anxious alertness, and his clothing – though travel-worn – is of noticeably finer quality than anything else aboard the Tamzîr. He maintains his grooming with fastidious care, a habit his crewmates find equal parts admirable and irritating. He carries a large leather medical bag of exquisite craftsmanship, containing surgical instruments of the finest quality and an extensive supply of drugs and herbs. He also carries an eating fork, which the crew considers the height of pretension.
 
 # Dossier {#dossier}
 
@@ -567,19 +567,19 @@ Lucerian Serentia is a handsome young man whose appearance screams wealth and ed
 
 ### Origin
 
-Lucerian was born in the Vylarian city of [[place-belekos|Belekos]], the son of a wealthy and successful guild merchant. His family occupied the comfortable upper tiers of Vylarian society — not nobility, but close enough to move in those circles. Lucerian was brilliant from childhood, excelling in every academic pursuit, and his parents had every expectation that he would enter the imperial civil service or perhaps the university. Instead, at sixteen, he chose medicine.
+Lucerian was born in the Vylarian city of [[place-belekos|Belekos]], the son of a wealthy and successful guild merchant. His family occupied the comfortable upper tiers of Vylarian society – not nobility, but close enough to move in those circles. Lucerian was brilliant from childhood, excelling in every academic pursuit, and his parents had every expectation that he would enter the imperial civil service or perhaps the university. Instead, at sixteen, he chose medicine.
 
 ### Training
 
-Lucerian apprenticed to a renowned surgeon-physician in Azerya, the intellectual capital of the southern coast, where medical training is considered the finest in the known world. He proved to be a prodigy — his hands were supernaturally steady, his mind was sharp as a scalpel, and his capacity for absorbing complex medical knowledge was extraordinary. By twenty-two he had completed his training and was poised for a brilliant career in the Vylarian medical establishment.
+Lucerian apprenticed to a renowned surgeon-physician in Azerya, the intellectual capital of the southern coast, where medical training is considered the finest in the known world. He proved to be a prodigy – his hands were supernaturally steady, his mind was sharp as a scalpel, and his capacity for absorbing complex medical knowledge was extraordinary. By twenty-two he had completed his training and was poised for a brilliant career in the Vylarian medical establishment.
 
 ### The Rescue
 
 Everything changed when Lucerian's younger sister, Cibella, was taken by the [[affiliation-ordoarcanis|Ordo Arcanis]].
 
-Cibella had always been different — brilliant, mercurial, and possessed of an extraordinary arcane aura that drew attention from the moment it manifested. The Ordo identified her at thirteen and invited her to study at one of their academies. The family was honored. For two years, Cibella wrote glowing letters home. Then the letters stopped. When Lucerian finally gained access to the academy, what he found destroyed his world. The Ordo had been experimenting on his sister, pushing her abilities beyond safe limits, and the process had left her damaged — erratic, traumatized, and partially broken.
+Cibella had always been different – brilliant, mercurial, and possessed of an extraordinary arcane aura that drew attention from the moment it manifested. The Ordo identified her at thirteen and invited her to study at one of their academies. The family was honored. For two years, Cibella wrote glowing letters home. Then the letters stopped. When Lucerian finally gained access to the academy, what he found destroyed his world. The Ordo had been experimenting on his sister, pushing her abilities beyond safe limits, and the process had left her damaged – erratic, traumatized, and partially broken.
 
-Lucerian sacrificed everything to get her out. He used his family's wealth, called in every favor he had, and ultimately resorted to outright theft and deception to extract Cibella from the Ordo's facility. In doing so, he made himself a fugitive. The Ordo does not forgive theft of their property, and they consider Cibella exactly that — their property.
+Lucerian sacrificed everything to get her out. He used his family's wealth, called in every favor he had, and ultimately resorted to outright theft and deception to extract Cibella from the Ordo's facility. In doing so, he made himself a fugitive. The Ordo does not forgive theft of their property, and they consider Cibella exactly that – their property.
 
 ### Aboard the Tamzîr
 
@@ -589,15 +589,15 @@ Lucerian and Cibella boarded the Tamzîr eighteen months ago in a desperate arra
 
 ### Personality
 
-Lucerian is brilliant, anxious, and deeply out of his depth in the world he now inhabits. He was raised for drawing rooms and lecture halls, not smuggling ships and dockside brawls. He can be prickly, condescending, and socially clumsy — not out of malice but out of a fundamental inability to calibrate his behavior to his surroundings. He is fiercely protective of his sister to the point of obsession, and this protectiveness sometimes makes him rigid, controlling, and blind to Cibella's own agency.
+Lucerian is brilliant, anxious, and deeply out of his depth in the world he now inhabits. He was raised for drawing rooms and lecture halls, not smuggling ships and dockside brawls. He can be prickly, condescending, and socially clumsy – not out of malice but out of a fundamental inability to calibrate his behavior to his surroundings. He is fiercely protective of his sister to the point of obsession, and this protectiveness sometimes makes him rigid, controlling, and blind to Cibella's own agency.
 
 ### Motivation
 
-Cibella. Everything Lucerian does is for his sister. He gave up his career, his family, his wealth, and his future to save her, and he would do it again without hesitation. Beyond her safety, he harbors a growing anger toward the Ordo Arcanis — not the hot anger of a revolutionary, but the cold fury of a man who has seen what institutional power does when it operates without accountability.
+Cibella. Everything Lucerian does is for his sister. He gave up his career, his family, his wealth, and his future to save her, and he would do it again without hesitation. Beyond her safety, he harbors a growing anger toward the Ordo Arcanis – not the hot anger of a revolutionary, but the cold fury of a man who has seen what institutional power does when it operates without accountability.
 
 ### Strengths
 
-Lucerian is one of the finest physicians alive. His surgical skill is extraordinary, his pharmacological knowledge is encyclopedic, and his diagnostic ability borders on the intuitive. He is also genuinely brilliant — able to learn quickly, think clearly under pressure, and solve complex problems.
+Lucerian is one of the finest physicians alive. His surgical skill is extraordinary, his pharmacological knowledge is encyclopedic, and his diagnostic ability borders on the intuitive. He is also genuinely brilliant – able to learn quickly, think clearly under pressure, and solve complex problems.
 
 ### Weaknesses
 
@@ -607,15 +607,15 @@ He is arrogant about his intelligence and dismissive of people he considers less
 
 ### Patrons
 
-Lucerian's family wealth has been largely spent on the escape and subsequent flight. He still has enough gold to pay for passage, but his resources are dwindling. He has no patrons — the Ordo has ensured that anyone who might help him knows the cost.
+Lucerian's family wealth has been largely spent on the escape and subsequent flight. He still has enough gold to pay for passage, but his resources are dwindling. He has no patrons – the Ordo has ensured that anyone who might help him knows the cost.
 
 ### Enemies
 
-The **Ordo Arcanis** wants Cibella back, and they want Lucerian punished for taking her. They operate through Vylarian imperial channels — court agents, bounty hunters, political leverage — making every Vylarian port a potential trap. The deeper danger is that the Ordo's interest in Cibella is not merely proprietary; the experiments they conducted suggest they believe she possesses abilities of extraordinary strategic value.
+The **Ordo Arcanis** wants Cibella back, and they want Lucerian punished for taking her. They operate through Vylarian imperial channels – court agents, bounty hunters, political leverage – making every Vylarian port a potential trap. The deeper danger is that the Ordo's interest in Cibella is not merely proprietary; the experiments they conducted suggest they believe she possesses abilities of extraordinary strategic value.
 
 ### Affiliations
 
-Passenger aboard the **Tamzîr**. Brother and guardian of **[[being-cibelasrnt|Cibella Serentia]]**. He has formed a grudging mutual respect with **Captain Eshârum Tarûzî**, who reminds him — uncomfortably — that principle and pragmatism are not always compatible.
+Passenger aboard the **Tamzîr**. Brother and guardian of **[[being-cibelasrnt|Cibella Serentia]]**. He has formed a grudging mutual respect with **Captain Eshârum Tarûzî**, who reminds him – uncomfortably – that principle and pragmatism are not always compatible.
 
 ## Plot Hooks
 
@@ -623,6 +623,6 @@ Passenger aboard the **Tamzîr**. Brother and guardian of **[[being-cibelasrnt|C
 
 2. **The Ordo Closes In**: An Ordo agent boards the Tamzîr disguised as a passenger. Lucerian recognizes the signs too late, and the agent has already sent a message revealing their location. The crew has hours to decide whether to run, fight, or negotiate with an organization that does neither in good faith.
 
-3. **Bleeding Dry**: Lucerian's funds are running out. Without coin, he cannot pay for passage or buy the drugs that keep Cibella stable. He is approached with an offer to practice medicine in a port city — but taking the position would mean staying in one place long enough for the Ordo to find them.
+3. **Bleeding Dry**: Lucerian's funds are running out. Without coin, he cannot pay for passage or buy the drugs that keep Cibella stable. He is approached with an offer to practice medicine in a port city – but taking the position would mean staying in one place long enough for the Ordo to find them.
 
-4. **Brother's Burden**: Cibella, in a moment of clarity, tells Lucerian that she does not want to be protected anymore — she wants to understand what was done to her and use her abilities on her own terms. Lucerian must confront the possibility that his desperate need to save his sister has become its own kind of cage.
+4. **Brother's Burden**: Cibella, in a moment of clarity, tells Lucerian that she does not want to be protected anymore – she wants to understand what was done to her and use her abilities on her own terms. Lucerian must confront the possibility that his desperate need to save his sister has become its own kind of cage.

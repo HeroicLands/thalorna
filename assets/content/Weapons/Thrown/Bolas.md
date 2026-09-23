@@ -65,4 +65,4 @@ sohl:
 packFolder: weapons
 ---
 
-Two or more weighted balls connected by cord, the bolas is cast to wrap around a target's legs or arms. The spinning weights entangle and trip the prey—hunters use it for game capture with minimal injury; soldiers throw it to disable cavalry and break formations. Simple to craft from leather and stone, it favors herders and irregular troops more than professional soldiers.
+Two or more weighted balls connected by cord, the bolas is cast to wrap around a target's legs or arms. The spinning weights entangle and trip the prey – hunters use it for game capture with minimal injury; soldiers throw it to disable cavalry and break formations. Simple to craft from leather and stone, it favors herders and irregular troops more than professional soldiers.

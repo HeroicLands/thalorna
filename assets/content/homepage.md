@@ -17,7 +17,7 @@ type: homepage
 shortcode: root
 title: The World of Thalorna
 description: >-
-  A world of feuding realms, old faiths, and older powers — its peoples,
+  A world of feuding realms, old faiths, and older powers – its peoples,
   places, creatures, and the lore that binds them.
 data:
   banner: tapestryofdreamsbnr

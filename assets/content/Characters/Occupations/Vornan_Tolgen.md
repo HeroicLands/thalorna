@@ -570,7 +570,7 @@ Vôrnan is patient, curious and abstracted, better at a question than at what sh
 
 ### Motivation
 
-Vôrnan wants to understand, and to be understood — to have the people he talks to think for themselves, in a town that has arranged its whole life so as not to.
+Vôrnan wants to understand, and to be understood – to have the people he talks to think for themselves, in a town that has arranged its whole life so as not to.
 
 ### Strengths
 
@@ -592,10 +592,10 @@ The supply merchants of Valcèrise, whose trade he has described in public as pr
 
 ## Plot Hooks
 
-1. **The Lecture on Profit** — Vôrnan has announced an evening on what the march owes the men it sends over the passes, the night before the levy musters. The merchants have asked the tavern-keeper to bar the door, and the young officers have said they will come anyway.
+1. **The Lecture on Profit** – Vôrnan has announced an evening on what the march owes the men it sends over the passes, the night before the levy musters. The merchants have asked the tavern-keeper to bar the door, and the young officers have said they will come anyway.
 
-2. **The Academic** — A master of rhetoric from Aurèliane has come to hear the tavern philosopher, and has offered him a chair — a room, a stipend and students — on condition he stops talking about the war.
+2. **The Academic** – A master of rhetoric from Aurèliane has come to hear the tavern philosopher, and has offered him a chair – a room, a stipend and students – on condition he stops talking about the war.
 
-3. **The Officer Who Listened** — A junior officer who took Vôrnan's questions seriously has refused an order in the field and is to be tried at the Winter Assize. His defence is what Vôrnan taught him, and the court has sent for the teacher.
+3. **The Officer Who Listened** – A junior officer who took Vôrnan's questions seriously has refused an order in the field and is to be tried at the Winter Assize. His defense is what Vôrnan taught him, and the court has sent for the teacher.
 
-4. **Shut In** — The alarm has sounded and Valcèrise has shut its gates with the flocks and the outlying families inside. Vôrnan is inside with the merchants he has spent ten years accusing.
+4. **Shut In** – The alarm has sounded and Valcèrise has shut its gates with the flocks and the outlying families inside. Vôrnan is inside with the merchants he has spent ten years accusing.

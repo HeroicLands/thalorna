@@ -26,5 +26,5 @@ packFolder: hekauincantations
 The form is the constraint and the point: the thing must already be perfect, because the working
 preserves shape absolutely and changes only what the shape is made of. A flawed original yields a
 flawed result in the new material, permanently. The House uses it for ceremonial regalia, for
-replacing stone that has begun to fail in a monument that may not be altered, and — under licence,
-and grudgingly — for the gilding of tombs.
+replacing stone that has begun to fail in a monument that may not be altered, and – under license,
+and grudgingly – for the gilding of tombs.

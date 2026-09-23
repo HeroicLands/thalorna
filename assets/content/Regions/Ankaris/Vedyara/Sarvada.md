@@ -2,7 +2,7 @@
 tags:
   - river
   - inland
-description: "The river of the scribal janapadas — off the Southern Wall through the bow-country and the copyist towns of the middle valley to the eastern sea."
+description: "The river of the scribal janapadas – off the Southern Wall through the bow-country and the copyist towns of the middle valley to the eastern sea."
 type: place
 subType: feature
 data:

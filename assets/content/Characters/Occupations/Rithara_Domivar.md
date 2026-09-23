@@ -555,7 +555,7 @@ Ríthara Dómivar is a 22-year-old woman who stands 5'8" tall and is of moderate
 
 Ríthara Dómivar is a common seaman of [[place-tarvenirgn|Tarvénia]], a Tarvénan freewoman from the hill town of Torreviga who walked down to the coast at seventeen to find a ship and has been on one ever since.
 
-Ríthara comes of hill people who expected her to marry a hill man, and Torreviga has no sea in sight. She signed on as a deckhand at Valthári, undersized for the work and knowing nothing, and has spent five years learning. The stars came at once. She has a gift for navigation that her first mate noticed and her captain has used since — she works a reckoning as well as men twice her age — and she asks questions until the officers are sick of her. She is not strong, and knows it costs her in the crew's eyes. She means to be a captain, and has said so aloud.
+Ríthara comes of hill people who expected her to marry a hill man, and Torreviga has no sea in sight. She signed on as a deckhand at Valthári, undersized for the work and knowing nothing, and has spent five years learning. The stars came at once. She has a gift for navigation that her first mate noticed and her captain has used since – she works a reckoning as well as men twice her age – and she asks questions until the officers are sick of her. She is not strong, and knows it costs her in the crew's eyes. She means to be a captain, and has said so aloud.
 
 She is a known figure among the seamen of Tarvénia.
 
@@ -585,14 +585,14 @@ Ríthara's patrons are the captains who take her on for her reckoning and the cr
 
 ### Enemies
 
-Seamen who think a slight girl has no business aloft, and one mate who has seen where the captain's favour is going and does not intend to be passed over by a deckhand.
+Seamen who think a slight girl has no business aloft, and one mate who has seen where the captain's favor is going and does not intend to be passed over by a deckhand.
 
 ## Plot Hooks
 
-1. **A Wrong Reckoning** — A course Ríthara plotted has put the ship a day off her landfall on a lee shore, and the mate has made sure everyone knows whose reckoning it was. The log has been altered.
+1. **A Wrong Reckoning** – A course Ríthara plotted has put the ship a day off her landfall on a lee shore, and the mate has made sure everyone knows whose reckoning it was. The log has been altered.
 
-2. **The Price of Teaching** — A captain in another ship has offered to take Ríthara as an officer's apprentice and teach her everything, for a share of her wages for seven years and her signature on a paper she cannot fully read.
+2. **The Price of Teaching** – A captain in another ship has offered to take Ríthara as an officer's apprentice and teach her everything, for a share of her wages for seven years and her signature on a paper she cannot fully read.
 
-3. **Word from Torreviga** — Her father is ill and her mother has sent for her to come home and take up the hill life she left. The ship sails in three days and will not wait.
+3. **Word from Torreviga** – Her father is ill and her mother has sent for her to come home and take up the hill life she left. The ship sails in three days and will not wait.
 
-4. **The Mate** — The mate who resents her has proposed her for a job aloft in weather no sensible officer would send a deckhand into, and the captain is below. Refusing is the end of her on this ship.
+4. **The Mate** – The mate who resents her has proposed her for a job aloft in weather no sensible officer would send a deckhand into, and the captain is below. Refusing is the end of her on this ship.

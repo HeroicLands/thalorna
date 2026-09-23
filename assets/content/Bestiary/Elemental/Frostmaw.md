@@ -366,7 +366,7 @@ sohl:
 
 ![[frostmaw|Frostmaw]]{float: top-left}
 
-The world stops being warm. What emerges from the blizzard is massive, easily thirty feet in length, a thing of solid ice that catches and refracts light in terrible ways. It is roughly bear-shaped but wrong in proportion, built for strength and destruction rather than natural grace. Its breath is visible as it moves—not mist but crystalline air that spreads cold like a plague. Where its weight settles, the earth becomes brittle and cracks. When it opens its mouth, you see not teeth but formations of ice hanging like stalactites, and the air that flows from it is the breath of a world without sun.
+The world stops being warm. What emerges from the blizzard is massive, easily thirty feet in length, a thing of solid ice that catches and refracts light in terrible ways. It is roughly bear-shaped but wrong in proportion, built for strength and destruction rather than natural grace. Its breath is visible as it moves – not mist but crystalline air that spreads cold like a plague. Where its weight settles, the earth becomes brittle and cracks. When it opens its mouth, you see not teeth but formations of ice hanging like stalactites, and the air that flows from it is the breath of a world without sun.
 
 # Dossier {#dossier}
 
@@ -374,15 +374,15 @@ A Frostmaw is an elemental force of pure glacial destruction, more powerful than
 
 ## Presentation
 
-A Frostmaw is massive, roughly thirty feet in length, and vaguely bear-like in shape. Its body is composed entirely of solid, blue-white ice, each surface carved with geometric patterns that seem to shift and realign themselves. Its musculature is visible as layers within the ice, and it moves with surprising grace for something so massive and dense. Its eyes are the only clearly animated feature—bright, cold sapphire that burns with awareness and hunger. Its mouth is a cavern lined with ice formations like teeth or stalactites. Where it moves, the temperature drops precipitously, and the ground beneath it becomes brittle and prone to cracking.
+A Frostmaw is massive, roughly thirty feet in length, and vaguely bear-like in shape. Its body is composed entirely of solid, blue-white ice, each surface carved with geometric patterns that seem to shift and realign themselves. Its musculature is visible as layers within the ice, and it moves with surprising grace for something so massive and dense. Its eyes are the only clearly animated feature – bright, cold sapphire that burns with awareness and hunger. Its mouth is a cavern lined with ice formations like teeth or stalactites. Where it moves, the temperature drops precipitously, and the ground beneath it becomes brittle and prone to cracking.
 
 ## Key Behaviors
 
-Frostmaws are solitary and territorial, claiming vast glacial regions as their hunting grounds. They are driven by hunger for heat and life—they pursue warm-blooded creatures with single-minded determination. They are intelligent enough to plan hunts and understand tactics, but they are also driven by instinct and rage that overcomes thought. A Frostmaw in a region will slowly transform that region into deeper and deeper winter, expanding the area of extreme cold over seasons. They seem to take satisfaction in this transformation beyond simple necessity.
+Frostmaws are solitary and territorial, claiming vast glacial regions as their hunting grounds. They are driven by hunger for heat and life – they pursue warm-blooded creatures with single-minded determination. They are intelligent enough to plan hunts and understand tactics, but they are also driven by instinct and rage that overcomes thought. A Frostmaw in a region will slowly transform that region into deeper and deeper winter, expanding the area of extreme cold over seasons. They seem to take satisfaction in this transformation beyond simple necessity.
 
 ## Combat Strategy
 
-A Frostmaw fights with terrible directness, charging opponents and using its massive strength to overwhelm them. It employs its freezing breath as both weapon and environmental control, transforming battlefields into icy hazards. It is fearless and will pursue prey to exhaustion. Against fire and heat, it becomes more careful but does not flee—it adapts, using cold to counter heat and attempting to overwhelm the source of warmth. A Frostmaw rarely retreats and fights until destroyed or until enemies flee far enough away.
+A Frostmaw fights with terrible directness, charging opponents and using its massive strength to overwhelm them. It employs its freezing breath as both weapon and environmental control, transforming battlefields into icy hazards. It is fearless and will pursue prey to exhaustion. Against fire and heat, it becomes more careful but does not flee – it adapts, using cold to counter heat and attempting to overwhelm the source of warmth. A Frostmaw rarely retreats and fights until destroyed or until enemies flee far enough away.
 
 ## Attack Methods
 

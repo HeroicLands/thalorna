@@ -23,5 +23,5 @@ Pinnhald is a logging town of the forested Mokturan slopes, where timber is fell
 
 ## See Also
 
-- [[affiliation-provncmktr|Province of Moktur]] — Parent province
-- [[affiliation-vylarinmpr|Vylarian Empire]] — Imperial overview
+- [[affiliation-provncmktr|Province of Moktur]] – Parent province
+- [[affiliation-vylarinmpr|Vylarian Empire]] – Imperial overview

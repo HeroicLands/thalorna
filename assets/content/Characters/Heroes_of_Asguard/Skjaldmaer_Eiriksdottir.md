@@ -534,11 +534,11 @@ The saga of Skjaldmaer Eiriksdottir tells of her confrontation with the dread wa
 
 ### Personality
 
-Skjaldmaer is disciplined and composed, a woman who speaks with the quiet authority of someone who has faced death and walked away unchanged. She is intensely private about her inner life, deflecting personal questions with practiced ease. In battle she becomes a different creature entirely — focused, relentless, and utterly without mercy. Off the battlefield, she shows unexpected tenderness toward children and animals, and she has a habit of humming old sagas while cleaning her weapons.
+Skjaldmaer is disciplined and composed, a woman who speaks with the quiet authority of someone who has faced death and walked away unchanged. She is intensely private about her inner life, deflecting personal questions with practiced ease. In battle she becomes a different creature entirely – focused, relentless, and utterly without mercy. Off the battlefield, she shows unexpected tenderness toward children and animals, and she has a habit of humming old sagas while cleaning her weapons.
 
 ### Motivation
 
-Skjaldmaer seeks to prove that wisdom and martial prowess are not opposing paths but complementary ones. She carries the weight of her father Eirik's legacy and strives to surpass it — not through greater feats of arms, but through the deeper understanding of the runes that her father never achieved. She hunts the remnants of Jarnvidr's dark influence, suspecting the warlock was merely a servant of a greater evil.
+Skjaldmaer seeks to prove that wisdom and martial prowess are not opposing paths but complementary ones. She carries the weight of her father Eirik's legacy and strives to surpass it – not through greater feats of arms, but through the deeper understanding of the runes that her father never achieved. She hunts the remnants of Jarnvidr's dark influence, suspecting the warlock was merely a servant of a greater evil.
 
 ### Strengths
 
@@ -550,20 +550,20 @@ Skjaldmaer is a formidable warrior whose runic shield provides both physical and
 
 ### Patrons
 
-**Eirik the Gray** — Her father, now retired from active combat but still influential among the northern clans. He provides counsel and connections, though their relationship is complicated by his disappointment that she chose the path of the runes over pure warriorship.
+**Eirik the Gray** – Her father, now retired from active combat but still influential among the northern clans. He provides counsel and connections, though their relationship is complicated by his disappointment that she chose the path of the runes over pure warriorship.
 
-**The Shrine of Ódinn at Ravenspeak** — The high priestess of this sacred site has taken a personal interest in Skjaldmaer's runic abilities and provides her with access to ancient texts and ritual spaces.
+**The Shrine of Ódinn at Ravenspeak** – The high priestess of this sacred site has taken a personal interest in Skjaldmaer's runic abilities and provides her with access to ancient texts and ritual spaces.
 
 ### Enemies
 
-**Remnants of Jarnvidr's Coven** — The warlock's apprentices and allies have sworn vengeance against Skjaldmaer for their master's defeat. They operate in secret, placing curses and sending assassins.
+**Remnants of Jarnvidr's Coven** – The warlock's apprentices and allies have sworn vengeance against Skjaldmaer for their master's defeat. They operate in secret, placing curses and sending assassins.
 
-**Thane Brosi Ketilsson** — A powerful northern lord who believes women should not bear arms or practice the runes. He has publicly declared Skjaldmaer an abomination and has forbidden her from entering his lands.
+**Thane Brosi Ketilsson** – A powerful northern lord who believes women should not bear arms or practice the runes. He has publicly declared Skjaldmaer an abomination and has forbidden her from entering his lands.
 
 ## Plot Hooks
 
-1. **The Warlock's Return** — Strange signs suggest that Jarnvidr's banishment may not have been permanent. Villagers near the site of his defeat report hearing whispers in the dark and seeing shadows that move against the wind. Skjaldmaer needs allies to investigate before the warlock can rebuild his power.
+1. **The Warlock's Return** – Strange signs suggest that Jarnvidr's banishment may not have been permanent. Villagers near the site of his defeat report hearing whispers in the dark and seeing shadows that move against the wind. Skjaldmaer needs allies to investigate before the warlock can rebuild his power.
 
-2. **The Shield's Secret** — The runes on Skjaldmaer's shield have begun to glow with an unfamiliar light, and new symbols are appearing that she cannot read. An ancient text suggests the shield may be one of several artifacts that, when united, could open a gate to Ódinn's hall.
+2. **The Shield's Secret** – The runes on Skjaldmaer's shield have begun to glow with an unfamiliar light, and new symbols are appearing that she cannot read. An ancient text suggests the shield may be one of several artifacts that, when united, could open a gate to Ódinn's hall.
 
-3. **Blood Feud** — Thane Brosi has kidnapped a young girl who showed talent for the runes, intending to "correct" her. Skjaldmaer must rescue the girl while navigating the political complications of defying a powerful thane.
+3. **Blood Feud** – Thane Brosi has kidnapped a young girl who showed talent for the runes, intending to "correct" her. Skjaldmaer must rescue the girl while navigating the political complications of defying a powerful thane.

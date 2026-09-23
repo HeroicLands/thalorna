@@ -23,43 +23,43 @@ data:
         title: Nídingr
         lore: excmmnctrnk
         description: >-
-          Declared nithing — cut off from the faith and from the standing that being of it
+          Declared nithing – cut off from the faith and from the standing that being of it
           conferred. No hall will seat them and no godi will speak for them.
       - level: 1
         title: Nádr Thraell
         lore: initiaternk
         description: >-
-          "Shadow Thrall" — Shadow Acolyte. The god's thrall: taken into the temple young, given the observances and the labour, and years away from the priesthood.
+          "Shadow Thrall" – Shadow Acolyte. The god's thrall: taken into the temple young, given the observances and the labor, and years away from the priesthood.
       - level: 3
         title: Daudr Godi/Gode
         lore: priestrnk
         description: >-
-          "Priest/Priestess of Death" — Void Priest/Priestess. The working priest or priestess — Godi for a man, Gydja for a woman — who keeps the rites of a hall and the people who gather at it.
+          "Priest/Priestess of Death" – Void Priest/Priestess. The working priest or priestess – Godi for a man, Gydja for a woman – who keeps the rites of a hall and the people who gather at it.
       - level: 4
         title: Skuggi Hersir
         lore: commanderrnk
         description: >-
-          "Shadow Warlord" — Harbinger of Chaos. A warlord of the faith, carrying its authority where it must be carried by force or by presence.
+          "Shadow Warlord" – Harbinger of Chaos. A warlord of the faith, carrying its authority where it must be carried by force or by presence.
       - level: 5
         title: Heljar Jarl
         lore: greatlordrnk
         description: >-
-          "Jarl of the Underworld" — Warden of the Abyss. A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
+          "Jarl of the Underworld" – Warden of the Abyss. A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
       - level: 6
         title: Daudr Konungr/Konungrkvinde
         lore: sovereignrnk
         description: >-
-          "Death King/Queen" — Archshadow. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
+          "Death King/Queen" – Archshadow. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
       - level: 7
         title: Ragnar Allsherjargodi
         lore: highpriestrnk
         description: >-
-          "Ragnar High Priest" — Doombringer. High priest — a pontifical office, speaking for the faith where it must speak with one voice.
+          "Ragnar High Priest" – Doombringer. High priest – a pontifical office, speaking for the faith where it must speak with one voice.
       - level: 8
         title: Heljar Fadir/Módir
         lore: grandmasterrnk
         description: >-
-          "Father/Mother of Hel" — Pontiff of Despair. Father or Mother of the god: the highest pontifical office, held by one person at a time.
+          "Father/Mother of Hel" – Pontiff of Despair. Father or Mother of the god: the highest pontifical office, held by one person at a time.
     offices:
       Order of the Void: >-
         A secretive group dedicated to sowing chaos and expanding the influence of the Eye of the Void.
@@ -74,7 +74,7 @@ data:
       Allsherjargodi: >-
         High priest of the faith, and its voice where it must speak with one.
       Fadir/Módir: >-
-        Father or Mother of the god — the highest office, held by one person.
+        Father or Mother of the god – the highest office, held by one person.
       Godi/Gydja: >-
         The working priest or priestess of a hall, who keeps its rites and its people.
   commonSkills: []
@@ -96,7 +96,7 @@ shortcode: hel
 packFolder: pantheonsasguardian
 ---
 
-Hél, the goddess of the underworld, harbors a profound disdain for life itself. She considers existence a blight upon the cosmos and works tirelessly to bring all creation to chaos and ruin. Her dominion over the underworld is absolute — a place of endless torment and despair, reflecting her contempt for living beings.
+Hél, the goddess of the underworld, harbors a profound disdain for life itself. She considers existence a blight upon the cosmos and works tirelessly to bring all creation to chaos and ruin. Her dominion over the underworld is absolute – a place of endless torment and despair, reflecting her contempt for living beings.
 
 ## The Eye of the Void
 
@@ -106,7 +106,7 @@ Hél draws upon the twisted power and madness of the **Eye of the Void**, a prim
 
 Hél's followers are fanatically devoted to the propagation of death and chaos. Her priests perform ritual human sacrifices, believing these offerings increase chaos and Hél's power and hasten the end of all life. Through these grim ceremonies, they seek her favor and seek to be granted dominion in the ruined world she envisions.
 
-Hél commands an army of the undead — Draugrs (the favored and terrible) and Haugbúi (corpses of the weak and dishonored) — reanimated by her dark magic to serve as her relentless minions.
+Hél commands an army of the undead – Draugrs (the favored and terrible) and Haugbúi (corpses of the weak and dishonored) – reanimated by her dark magic to serve as her relentless minions.
 
 She is often depicted as a ghastly figure, her eyes burning with a baleful light, and a morbid grin permanently etched on her face. Around her neck hangs the Eye of the Void, a source of her unholy strength and the symbol of her eternal hatred for all living things.
 
@@ -123,13 +123,13 @@ She is often depicted as a ghastly figure, her eyes burning with a baleful light
 
 ## Clergy
 
-- **Nádr Thraell** (Circle I: Shadow Thrall) — Shadow Acolyte
-- **Daudr Godi/Gode** (Circle III: Priest/Priestess of Death) — Void Priest/Priestess
-- **Skuggi Hersir** (Circle IV: Shadow Warlord) — Harbinger of Chaos
-- **Heljar Jarl** (Circle V: Jarl of the Underworld) — Warden of the Abyss
-- **Daudr Konungr/Konungrkvinde** (Circle VI: Death King/Queen) — Archshadow
-- **Ragnar Allsherjargodi** (Circle VII: Ragnar High Priest) — Doombringer
-- **Heljar Fadir/Módir** (Father/Mother of Hel) — Pontiff of Despair
+- **Nádr Thraell** (Circle I: Shadow Thrall) – Shadow Acolyte
+- **Daudr Godi/Gode** (Circle III: Priest/Priestess of Death) – Void Priest/Priestess
+- **Skuggi Hersir** (Circle IV: Shadow Warlord) – Harbinger of Chaos
+- **Heljar Jarl** (Circle V: Jarl of the Underworld) – Warden of the Abyss
+- **Daudr Konungr/Konungrkvinde** (Circle VI: Death King/Queen) – Archshadow
+- **Ragnar Allsherjargodi** (Circle VII: Ragnar High Priest) – Doombringer
+- **Heljar Fadir/Módir** (Father/Mother of Hel) – Pontiff of Despair
 
 **Key Skills:** Embalming
 
@@ -148,7 +148,7 @@ She is often depicted as a ghastly figure, her eyes burning with a baleful light
 **High Ceremonies:**
 
 - **The Rite of Eternal Darkness:** A secret ceremony performed by the clergy to beseech power from the Eye of the Void, deepening their connection to Hél.
-- **The Binding of Souls:** A ritual where high-ranking clergy create Helspawn — the [[lore-undead|undead]] — by sacrificing folk victims to serve Hél in the afterlife.
+- **The Binding of Souls:** A ritual where high-ranking clergy create Helspawn – the [[lore-undead|undead]] – by sacrificing folk victims to serve Hél in the afterlife.
 
 **Festivals:**
 

@@ -1,5 +1,5 @@
 ---
-description: "Naval power of the Helionite city-states — citizen-democracy of shipwrights and sailors whose galleys defend the eastern Vylarian Sea, loud and demagogue-ridden in assembly but the indispensable shield of its philosophical sister-cities."
+description: "Naval power of the Helionite city-states – citizen-democracy of shipwrights and sailors whose galleys defend the eastern Vylarian Sea, loud and demagogue-ridden in assembly but the indispensable shield of its philosophical sister-cities."
 type: affiliation
 name:
   full: Pelagora
@@ -19,7 +19,7 @@ data:
         title: Atimos
         lore: outlawrnk
         description: >-
-          Stripped of civic honour by the courts: barred from the assembly, the agora and the
+          Stripped of civic honor by the courts: barred from the assembly, the agora and the
           temples, though still living among those who barred him.
       - level: 1
         title: Slave
@@ -51,8 +51,8 @@ data:
         title: Magistrate
         lore: magistraternk
         description: >-
-          Elected or allotted to an office of the city — its markets, its walls, its treasury,
-          its courts — and audited at the end of the year.
+          Elected or allotted to an office of the city – its markets, its walls, its treasury,
+          its courts – and audited at the end of the year.
       - level: 7
         title: Strategos
         lore: magistraternk
@@ -63,7 +63,7 @@ data:
         title: Archon
         lore: grandmasterrnk
         description: >-
-          Presiding magistrate of the year, who gives it his name and hands it back — the assembly
+          Presiding magistrate of the year, who gives it his name and hands it back – the assembly
           remains sovereign throughout.
     offices:
       Archon: >-
@@ -77,7 +77,7 @@ data:
       Treasurer: >-
         Keeper of the city's revenue and of the sacred treasuries, audited publicly at the
         end of his term.
-      Agoranomos: Warden of the market — its weights, its coin, its quality and its disputes.
+      Agoranomos: Warden of the market – its weights, its coin, its quality and its disputes.
       Nomophylax: Guardian of the laws, who may halt a decree of the assembly that contradicts
         them.
       Secretary of the Council: Keeper of the council's record and of the decrees the assembly
@@ -92,7 +92,7 @@ data:
         Elected to treat with another city or power, and answerable to the assembly for what
         he agrees.
       Gymnasiarch: >-
-        Patron and warden of the gymnasium, an office of honour funded from the holder's own
+        Patron and warden of the gymnasium, an office of honor funded from the holder's own
         purse.
   commonSkills:
     - helonclng
@@ -120,15 +120,15 @@ packFolder: helionis
 
 ## Overview
 
-Pelagora is the naval power of [[place-helionis|Heliónis]] — the city-state that commands the most important harbors and controls the sea lanes of the eastern [[place-vylarianse|Vylarian Sea]]. Its citizen-sailors are formidable fighters, its fleet the largest in the region, and its harbor one of the finest natural anchorages in the central sea. Where [[affiliation-thyrenae|Thyrenae]] leads in philosophy, Pelagora leads in ships, trade, and the projection of military force. The city-state holds [[place-pelagora2|Pelagora]] itself.
+Pelagora is the naval power of [[place-helionis|Heliónis]] – the city-state that commands the most important harbors and controls the sea lanes of the eastern [[place-vylarianse|Vylarian Sea]]. Its citizen-sailors are formidable fighters, its fleet the largest in the region, and its harbor one of the finest natural anchorages in the central sea. Where [[affiliation-thyrenae|Thyrenae]] leads in philosophy, Pelagora leads in ships, trade, and the projection of military force. The city-state holds [[place-pelagora2|Pelagora]] itself.
 
 ## Character
 
-Pelagora is a democracy in the Helionite tradition: its assembly of free citizens votes on matters of war, trade, and law, and every citizen is expected to serve in the fleet or the militia. The result is a city-state that is loud, passionate, and politically volatile — assembly debates can turn into shouting matches, and demagogues rise and fall with the public mood. But the system also produces a fiercely patriotic citizenry who fight for their city because they own a share of it.
+Pelagora is a democracy in the Helionite tradition: its assembly of free citizens votes on matters of war, trade, and law, and every citizen is expected to serve in the fleet or the militia. The result is a city-state that is loud, passionate, and politically volatile – assembly debates can turn into shouting matches, and demagogues rise and fall with the public mood. But the system also produces a fiercely patriotic citizenry who fight for their city because they own a share of it.
 
 Pelagora's shipwrights build the fastest galleys in the Vylarian Sea, and its admirals have defended Helionite waters against [[affiliation-cnfdrtnhrdnstts|Haradian]] incursions, Vylarian ambitions, and the occasional pirate fleet with equal determination.
 
-Pelagora is more commercially minded than scholarly Thyrenae. Its merchants are wealthy and influential, its markets are well-stocked with goods from across the sea, and the city's economic power gives it a practical leverage that balances Thyrenae's intellectual prestige. The two cities are natural rivals — and natural partners, since Thyrenae needs Pelagora's fleet and Pelagora needs Thyrenae's diplomatic connections.
+Pelagora is more commercially minded than scholarly Thyrenae. Its merchants are wealthy and influential, its markets are well-stocked with goods from across the sea, and the city's economic power gives it a practical leverage that balances Thyrenae's intellectual prestige. The two cities are natural rivals – and natural partners, since Thyrenae needs Pelagora's fleet and Pelagora needs Thyrenae's diplomatic connections.
 
 ## Commerce and Currency
 
@@ -136,7 +136,7 @@ Pelagora uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Oct
 
 ## See Also
 
-- [[affiliation-ctysttshlns|City-States of Heliónis]] — The polity
-- [[place-helionis|Heliónis]] — Regional overview
-- [[place-pelagora2|Pelagora]] — The city itself
-- [[affiliation-thyrenae|Thyrenae]], [[affiliation-kalydria|Kalydria]] — Sister city-states
+- [[affiliation-ctysttshlns|City-States of Heliónis]] – The polity
+- [[place-helionis|Heliónis]] – Regional overview
+- [[place-pelagora2|Pelagora]] – The city itself
+- [[affiliation-thyrenae|Thyrenae]], [[affiliation-kalydria|Kalydria]] – Sister city-states

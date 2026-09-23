@@ -3,7 +3,7 @@ tags:
   - river
   - pilgrimage
   - inland
-description: "The great central river — the longest, the most populous, the one whose channel has moved and taken a capital with it, and the one the Mela is held on."
+description: "The great central river – the longest, the most populous, the one whose channel has moved and taken a capital with it, and the one the Mela is held on."
 type: place
 subType: feature
 data:
@@ -32,7 +32,7 @@ Nobody builds on the flood-plain proper. The villages sit on the old levees and 
 
 ## The Confluence
 
-Where the Mahānadi takes its greatest tributary the ground is flat, broad and dry for eleven months, and it is there that the twelve-yearly assembly of the janapadas meets. A quarter of a million people gather on a plain that holds nobody at all in the intervening years, the whole business of the confederation is done in ten days, and the river's behaviour in the season before decides where on the plain it can be done.
+Where the Mahānadi takes its greatest tributary the ground is flat, broad and dry for eleven months, and it is there that the twelve-yearly assembly of the janapadas meets. A quarter of a million people gather on a plain that holds nobody at all in the intervening years, the whole business of the confederation is done in ten days, and the river's behavior in the season before decides where on the plain it can be done.
 
 ## See Also
 

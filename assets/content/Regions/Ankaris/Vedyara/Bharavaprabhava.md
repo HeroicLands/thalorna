@@ -3,7 +3,7 @@ tags:
   - sacred
   - pilgrimage
   - inland
-description: "The easternmost cosmic source, under the shoulder of the Eastern Reach — the spring of the Bhārava, and the one the hostel-network was built for."
+description: "The easternmost cosmic source, under the shoulder of the Eastern Reach – the spring of the Bhārava, and the one the hostel-network was built for."
 type: place
 subType: site
 data:
@@ -22,7 +22,7 @@ packFolder: vedyara
 
 **Bhāravaprabhava** is the source of the [[place-bharavarivr|Bhārava]], under the Vedyari shoulder of [[place-estrnreach|the Eastern Reach]] above the [[place-slvrgorges|Silver Gorges]]. It is the smallest of the four glacier-mouths and the coldest approach, and it is the one that shaped the pilgrim road rather than the other way about.
 
-The Bhārava's pilgrimage is long — the full observance walks the river from the sea to the ice — and the chain of hostels that makes it possible is the reason a poor pilgrim can attempt it at all. The hostels are endowed, staffed and provisioned by the temple-domains of the forest country downstream, and the arrangement is the largest piece of organised charity in Vedyara.
+The Bhārava's pilgrimage is long – the full observance walks the river from the sea to the ice – and the chain of hostels that makes it possible is the reason a poor pilgrim can attempt it at all. The hostels are endowed, staffed and provisioned by the temple-domains of the forest country downstream, and the arrangement is the largest piece of organized charity in Vedyara.
 
 ## The Ice Above
 

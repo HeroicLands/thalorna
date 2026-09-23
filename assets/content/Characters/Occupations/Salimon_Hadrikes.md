@@ -557,7 +557,7 @@ Sâlimón Hâdrîkês is a 45-year-old man who stands 5'7" tall and is of modera
 
 Sâlimón Hâdrîkês is a scholar of Therádon, the philosophers' city of [[place-helionis|Heliónis]], a Helionite of an old house who lectures at the city's Panepistemium chapterhouse on the history of the Vylarian conquest and digs for what the record left out.
 
-Sâlimón comes of a house that has sat in the assembly of Therádon for six generations, and the assembly's oligarchs hold that a Therádon citizen's duty is to know more than anyone else. He took the duty literally. He has spent twenty-five years on the Helionite city-states before and during the conquest, reading in the chapterhouse's library, which holds texts older than the empire, and travelling to the old battlefields and the ruins of the mage-warlords' seats to find what nobody has read. He lectures to full halls, and his students leave knowing what the old texts say and where the record stops. It stops, he has found, at the same place every time: the disbanding of the Dragon Riders, of which the Republic's histories say nothing honest and the chapterhouse's oldest fragments say something. He has no idea how much of what he says in a lecture hall is heard outside it.
+Sâlimón comes of a house that has sat in the assembly of Therádon for six generations, and the assembly's oligarchs hold that a Therádon citizen's duty is to know more than anyone else. He took the duty literally. He has spent twenty-five years on the Helionite city-states before and during the conquest, reading in the chapterhouse's library, which holds texts older than the empire, and traveling to the old battlefields and the ruins of the mage-warlords' seats to find what nobody has read. He lectures to full halls, and his students leave knowing what the old texts say and where the record stops. It stops, he has found, at the same place every time: the disbanding of the Dragon Riders, of which the Republic's histories say nothing honest and the chapterhouse's oldest fragments say something. He has no idea how much of what he says in a lecture hall is heard outside it.
 
 ## Psyche
 
@@ -589,10 +589,10 @@ A lecturer of the chapterhouse who holds that the conquest is settled history an
 
 ## Plot Hooks
 
-1. **The Fragment** — A student has brought Sâlimón a leaf in a hand of the early Republic that names the man who betrayed the Dragon Riders. The student has told no one else, and the senior officer has asked to see the student.
+1. **The Fragment** – A student has brought Sâlimón a leaf in a hand of the early Republic that names the man who betrayed the Dragon Riders. The student has told no one else, and the senior officer has asked to see the student.
 
-2. **The Artifact** — Sâlimón has brought back from a sunken temple an object the fragments describe, and the Ordo's Quaesitorium has written, courteously, to ask for it.
+2. **The Artifact** – Sâlimón has brought back from a sunken temple an object the fragments describe, and the Ordo's Quaesitorium has written, courteously, to ask for it.
 
-3. **The Thesis** — Sâlimón's best student has written a thesis on the disbanding that says plainly what he has only asked, and means to read it before the assembly. The student is the senior officer's nephew.
+3. **The Thesis** – Sâlimón's best student has written a thesis on the disbanding that says plainly what he has only asked, and means to read it before the assembly. The student is the senior officer's nephew.
 
-4. **The Seat** — The assembly has asked Sâlimón to take his house's seat for one session and vote on the chapterhouse's funding, and both factions have sent to explain what the vote is about.
+4. **The Seat** – The assembly has asked Sâlimón to take his house's seat for one session and vote on the chapterhouse's funding, and both factions have sent to explain what the vote is about.

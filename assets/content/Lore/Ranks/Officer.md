@@ -7,10 +7,10 @@ name:
   full: Officer
   aliases: []
 shortcode: officerrnk
-description: "Holding a charge of a body — its stores, its discipline, its accounts, its people."
+description: "Holding a charge of a body – its stores, its discipline, its accounts, its people."
 ---
 
-Holding a charge of a body — its stores, its discipline, its accounts, its people.
+Holding a charge of a body – its stores, its discipline, its accounts, its people.
 
 ## Obligations and Rights
 

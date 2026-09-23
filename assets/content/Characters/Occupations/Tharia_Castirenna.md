@@ -589,12 +589,12 @@ Other servants resent her for trying to gain favor with the masters.
 
 ## Plot Hooks
 
-1. **The Domestic Servant's Dilemma** — Thária learns of a way out of the household, and taking it means leaving behind the servants who would be punished for her flight.
+1. **The Domestic Servant's Dilemma** – Thária learns of a way out of the household, and taking it means leaving behind the servants who would be punished for her flight.
 
-2. **Old Grudges** — A servant who resents Thária's favor with the masters plants a theft on her.
+2. **Old Grudges** – A servant who resents Thária's favor with the masters plants a theft on her.
 
-3. **Echoes of the Past** — Someone from the village Thária was taken from is brought into the household as a slave.
+3. **Echoes of the Past** – Someone from the village Thária was taken from is brought into the household as a slave.
 
-4. **Shifting Winds** — Political change in Tarvénia threatens the household Thária serves, and she can adapt, resist, or leave.
+4. **Shifting Winds** – Political change in Tarvénia threatens the household Thária serves, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — Thária is offered her freedom by a stranger to the household, and its price is not named up front.
+5. **The Opportunity** – Thária is offered her freedom by a stranger to the household, and its price is not named up front.

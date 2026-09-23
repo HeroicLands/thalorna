@@ -566,7 +566,7 @@ sohl:
 
 ![[slvrvlskyr|Sélvara Válskyr]]{float: top-left}
 
-Sélvara Válskyr is a striking woman — tall, dark-skinned, and built with the lean, hard muscle of a career soldier. Her brown hair is kept short and practical, and her hazel eyes hold a steady, assessing gaze that has unnerved far larger opponents. She moves with the quiet precision of someone who has spent years navigating both battlefields and heaving ship decks, and her bearing carries an unmistakable military authority. She dresses practically in a leather vest over simple cloth, with a short sword and battleaxe within easy reach. A fine roundshield, battered but well-maintained, hangs from a strap across her back when trouble is expected.
+Sélvara Válskyr is a striking woman – tall, dark-skinned, and built with the lean, hard muscle of a career soldier. Her brown hair is kept short and practical, and her hazel eyes hold a steady, assessing gaze that has unnerved far larger opponents. She moves with the quiet precision of someone who has spent years navigating both battlefields and heaving ship decks, and her bearing carries an unmistakable military authority. She dresses practically in a leather vest over simple cloth, with a short sword and battleaxe within easy reach. A fine roundshield, battered but well-maintained, hangs from a strap across her back when trouble is expected.
 
 # Dossier {#dossier}
 
@@ -574,25 +574,25 @@ Sélvara Válskyr is a striking woman — tall, dark-skinned, and built with the
 
 ### Origin
 
-Sélvara was born in a coastal village in northern [[place-tarvenirgn|Tarvénia]], the daughter of fishermen. Life was hard but stable until she was fourteen, when Vylarian imperial forces raided her village searching for Tarvénan rebels. Eshârum Tarûzî — then a young rebel scout — was hiding in her father's boathouse. When Sélvara went to warn him, an imperial soldier followed. What happened next forged a bond between them that neither war nor the years since have broken. She killed the soldier with a gutting knife. She was fourteen years old.
+Sélvara was born in a coastal village in northern [[place-tarvenirgn|Tarvénia]], the daughter of fishermen. Life was hard but stable until she was fourteen, when Vylarian imperial forces raided her village searching for Tarvénan rebels. Eshârum Tarûzî – then a young rebel scout – was hiding in her father's boathouse. When Sélvara went to warn him, an imperial soldier followed. What happened next forged a bond between them that neither war nor the years since have broken. She killed the soldier with a gutting knife. She was fourteen years old.
 
 ### The War
 
-Sélvara joined the Haradian rebellion the same night, following Shâ into a conflict that would consume the next four years of her life. She proved to be a natural warrior — disciplined, fearless, and relentlessly competent. Where Shâ led with charisma and tactical cunning, Sélvara was the steady hand that turned his plans into reality. She fought in the brutal Battle of Tamzîr Shoals, where she earned a reputation for cold-blooded efficiency under fire. By the war's end, she was a hardened veteran at eighteen.
+Sélvara joined the Haradian rebellion the same night, following Shâ into a conflict that would consume the next four years of her life. She proved to be a natural warrior – disciplined, fearless, and relentlessly competent. Where Shâ led with charisma and tactical cunning, Sélvara was the steady hand that turned his plans into reality. She fought in the brutal Battle of Tamzîr Shoals, where she earned a reputation for cold-blooded efficiency under fire. By the war's end, she was a hardened veteran at eighteen.
 
 ### After the War
 
-When the merchant guilds seized power and the revolution's ideals collapsed, Sélvara followed Shâ without hesitation. She had no illusions about politics and never had — she fought for people, not causes. When Shâ bought the Tamzîr and offered her the position of first mate, she accepted with a single nod. She has held the position for twelve years, running the ship with quiet authority and serving as the crew's anchor when Shâ's temper or recklessness threatens to capsize them all.
+When the merchant guilds seized power and the revolution's ideals collapsed, Sélvara followed Shâ without hesitation. She had no illusions about politics and never had – she fought for people, not causes. When Shâ bought the Tamzîr and offered her the position of first mate, she accepted with a single nod. She has held the position for twelve years, running the ship with quiet authority and serving as the crew's anchor when Shâ's temper or recklessness threatens to capsize them all.
 
 ### Marriage
 
-Three years ago, Sélvara married [[being-fethardhrl|Féthar Dhárel]], the Tamzîr's pilot, in a dockside ceremony in [[place-provenzrgn|Provènzia]]. The match surprised everyone except Shâ, who had seen it coming for years. Féthar's irreverent humor and warmth complement Sélvara's reserve, and the marriage is a genuinely happy one — a rare point of softness in her otherwise hard-edged life.
+Three years ago, Sélvara married [[being-fethardhrl|Féthar Dhárel]], the Tamzîr's pilot, in a dockside ceremony in [[place-provenzrgn|Provènzia]]. The match surprised everyone except Shâ, who had seen it coming for years. Féthar's irreverent humor and warmth complement Sélvara's reserve, and the marriage is a genuinely happy one – a rare point of softness in her otherwise hard-edged life.
 
 ## Psyche
 
 ### Personality
 
-Sélvara is calm, competent, and economical with words. She does not waste time on speeches, pleasantries, or hand-wringing. She gives orders with quiet authority and expects them to be followed. She is loyal to a fault — once she commits to someone, she will walk through fire for them — but her loyalty must be earned, and she does not suffer fools. Behind the soldier's exterior is a deeply perceptive woman who reads people with unsettling accuracy.
+Sélvara is calm, competent, and economical with words. She does not waste time on speeches, pleasantries, or hand-wringing. She gives orders with quiet authority and expects them to be followed. She is loyal to a fault – once she commits to someone, she will walk through fire for them – but her loyalty must be earned, and she does not suffer fools. Behind the soldier's exterior is a deeply perceptive woman who reads people with unsettling accuracy.
 
 ### Motivation
 
@@ -600,11 +600,11 @@ Sélvara's motivations are simple and fierce: protect the people she loves. The 
 
 ### Strengths
 
-She is one of the finest fighters on the Vylarian Sea — a devastating close-quarters combatant with sword, axe, or bare hands. Her tactical awareness is superb, and she manages the crew with an efficiency that keeps the Tamzîr running. She is virtually unshakeable under pressure.
+She is one of the finest fighters on the Vylarian Sea – a devastating close-quarters combatant with sword, axe, or bare hands. Her tactical awareness is superb, and she manages the crew with an efficiency that keeps the Tamzîr running. She is virtually unshakeable under pressure.
 
 ### Weaknesses
 
-Sélvara's emotional reserve can shade into coldness. She struggles to express vulnerability and sometimes fails to notice when her crew needs compassion rather than competence. Her absolute loyalty to Shâ occasionally blinds her to his flaws, and she can be ruthless when she perceives a threat to her people — a ruthlessness that sometimes crosses lines others would not.
+Sélvara's emotional reserve can shade into coldness. She struggles to express vulnerability and sometimes fails to notice when her crew needs compassion rather than competence. Her absolute loyalty to Shâ occasionally blinds her to his flaws, and she can be ruthless when she perceives a threat to her people – a ruthlessness that sometimes crosses lines others would not.
 
 ## Social
 
@@ -614,7 +614,7 @@ None. Sélvara answers to Shâ and to herself.
 
 ### Enemies
 
-The same enemies as the Tamzîr's crew: Haradian guild enforcers, Vylarian imperial agents, and — increasingly — agents of the [[affiliation-ordoarcanis|Ordo Arcanis]].
+The same enemies as the Tamzîr's crew: Haradian guild enforcers, Vylarian imperial agents, and – increasingly – agents of the [[affiliation-ordoarcanis|Ordo Arcanis]].
 
 ### Affiliations
 
@@ -622,8 +622,8 @@ First Mate of the **Tamzîr**. Wife of **Féthar Dhárel**. Wartime comrade and 
 
 ## Plot Hooks
 
-1. **The Village Returns**: Word reaches Sélvara that her home village in Tarvénia is under threat again — this time from Haradian guild agents who want to establish a trading post on the coast. Her surviving family is among those who would be displaced. Returning to help would mean sailing into contested waters and confronting the same power structures she and Shâ have spent years avoiding.
+1. **The Village Returns**: Word reaches Sélvara that her home village in Tarvénia is under threat again – this time from Haradian guild agents who want to establish a trading post on the coast. Her surviving family is among those who would be displaced. Returning to help would mean sailing into contested waters and confronting the same power structures she and Shâ have spent years avoiding.
 
-2. **The Soldier's Reckoning**: A former imperial officer who participated in the raid on Sélvara's village has been identified living comfortably in a Vylarian port city. Sélvara must decide whether old debts are worth the risk of pursuing — and whether vengeance or justice is what she truly wants.
+2. **The Soldier's Reckoning**: A former imperial officer who participated in the raid on Sélvara's village has been identified living comfortably in a Vylarian port city. Sélvara must decide whether old debts are worth the risk of pursuing – and whether vengeance or justice is what she truly wants.
 
 3. **Divided Loyalty**: When Shâ makes a decision that Sélvara believes will get the crew killed, she faces the impossible choice between her loyalty to her captain and her responsibility to the people under her care. For the first time in their long partnership, the two find themselves on opposite sides of an argument with no easy resolution.

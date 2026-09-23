@@ -594,12 +594,12 @@ None, but some traditionalists frown upon her use of ritual.
 
 ## Plot Hooks
 
-1. **The Embalmer's Dilemma** — A family forbids the rites Ázîna believes protect the spirit of their dead, and she can do the work their way or not at all.
+1. **The Embalmer's Dilemma** – A family forbids the rites Ázîna believes protect the spirit of their dead, and she can do the work their way or not at all.
 
-2. **Old Grudges** — A traditionalist in the Morticians' Guild has brought Ázîna's use of ritual before the guild as a fault.
+2. **Old Grudges** – A traditionalist in the Morticians' Guild has brought Ázîna's use of ritual before the guild as a fault.
 
-3. **Echoes of the Past** — Questions are raised about how Ázîna's brother died, and she is the one who prepared his body.
+3. **Echoes of the Past** – Questions are raised about how Ázîna's brother died, and she is the one who prepared his body.
 
-4. **Shifting Winds** — Political change in Heliónis threatens the guild and the customs Ázîna's trade rests on, and she can adapt, resist, or leave.
+4. **Shifting Winds** – Political change in Heliónis threatens the guild and the customs Ázîna's trade rests on, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — A wealthy family offers Ázîna the care of all its dead, on condition that her rituals and herbs are kept out of it.
+5. **The Opportunity** – A wealthy family offers Ázîna the care of all its dead, on condition that her rituals and herbs are kept out of it.

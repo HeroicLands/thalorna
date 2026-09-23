@@ -593,12 +593,12 @@ A few prisoners see her kindness as a weakness.
 
 ## Plot Hooks
 
-1. **The Jailer's Dilemma** — An inmate Ethelinda has come to trust asks her to look the other way, and the choice is between her fellow-feeling and her post.
+1. **The Jailer's Dilemma** – An inmate Ethelinda has come to trust asks her to look the other way, and the choice is between her fellow-feeling and her post.
 
-2. **Old Grudges** — A prisoner who took her kindness for weakness sets out to prove it in front of the others.
+2. **Old Grudges** – A prisoner who took her kindness for weakness sets out to prove it in front of the others.
 
-3. **Echoes of the Past** — A man Ethelinda arrested in her years as a city guard is brought into her prison and remembers her.
+3. **Echoes of the Past** – A man Ethelinda arrested in her years as a city guard is brought into her prison and remembers her.
 
-4. **Shifting Winds** — A change of officials in Aelwyth puts the prison under men who want it run harder, and Ethelinda can bend to them, resist them, or leave.
+4. **Shifting Winds** – A change of officials in Aelwyth puts the prison under men who want it run harder, and Ethelinda can bend to them, resist them, or leave.
 
-5. **The Opportunity** — Ethelinda is offered charge of the prison, and the price of it is not named up front.
+5. **The Opportunity** – Ethelinda is offered charge of the prison, and the price of it is not named up front.

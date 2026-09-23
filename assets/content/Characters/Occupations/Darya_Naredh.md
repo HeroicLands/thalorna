@@ -594,12 +594,12 @@ Rival bards who see her as a threat to their own fame.
 
 ## Plot Hooks
 
-1. **The Bard's Dilemma** — Dárya faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **The Bard's Dilemma** – Dárya faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 
-2. **Old Grudges** — Rival bards who see her as a threat to their own fame. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** – Rival bards who see her as a threat to their own fame. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** — Something from Dárya's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** – Something from Dárya's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds** — Political changes in Élavendre threaten to upend the social order that Dárya depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** – Political changes in Élavendre threaten to upend the social order that Dárya depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** — A chance encounter offers Dárya the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** – A chance encounter offers Dárya the possibility of advancement beyond anything she has dared hope for – but the price may be higher than it first appears.

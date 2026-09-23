@@ -349,15 +349,15 @@ sohl:
 
 ![[gntbr|Giant Boar]]{float: top-left}
 
-The ground trembles before you even see it—a vibration that travels through your feet and into your bones. Then the forest parts as if torn, and a massive shape explodes into view: a creature covered in coarse dark bristles, its broad shoulders and thick neck corded with muscle. The smell hits you like a physical blow—rank, unwashed, the reek of mud and wild musk. It skids to a halt perhaps thirty paces distant, and you see them clearly now: tusks like curved daggers, thick and yellowed, their tips dark with something you don’t want to identify. The boar’s small, hate-filled eyes fix on you, and it lowers its massive head. Its snort sends spray and foam. Then it begins to paw at the earth with its front hooves, each scrape of hoof striking sparks from stone, and you feel with absolute certainty that it is about to charge straight through you.
+The ground trembles before you even see it – a vibration that travels through your feet and into your bones. Then the forest parts as if torn, and a massive shape explodes into view: a creature covered in coarse dark bristles, its broad shoulders and thick neck corded with muscle. The smell hits you like a physical blow – rank, unwashed, the reek of mud and wild musk. It skids to a halt perhaps thirty paces distant, and you see them clearly now: tusks like curved daggers, thick and yellowed, their tips dark with something you don’t want to identify. The boar’s small, hate-filled eyes fix on you, and it lowers its massive head. Its snort sends spray and foam. Then it begins to paw at the earth with its front hooves, each scrape of hoof striking sparks from stone, and you feel with absolute certainty that it is about to charge straight through you.
 
 # Dossier {#dossier}
 
-The Giant Boar is a hulking apex predator of temperate and northern forests—a creature of raw power, territorial aggression, and barely restrained violence. Standing five feet or more at the shoulder and weighing over a thousand pounds, a single giant boar is a nightmare for unprepared travelers. These are solitary creatures that establish and jealously guard vast territories spanning multiple square miles. Adventurers most commonly encounter them when traveling forest roads, camping in boar territory, or when their caravan is raided by a desperate or territorial individual.
+The Giant Boar is a hulking apex predator of temperate and northern forests – a creature of raw power, territorial aggression, and barely restrained violence. Standing five feet or more at the shoulder and weighing over a thousand pounds, a single giant boar is a nightmare for unprepared travelers. These are solitary creatures that establish and jealously guard vast territories spanning multiple square miles. Adventurers most commonly encounter them when traveling forest roads, camping in boar territory, or when their caravan is raided by a desperate or territorial individual.
 
 ## Presentation
 
-The Giant Boar is a massive quadrupedal creature built entirely for power and dominance. Its hide is thick and covered in coarse, wiry bristles in colors ranging from dark brown to jet black, often matted with mud and debris. The shoulders are massive and slope downward to slightly narrower hindquarters. The head is broad and heavily muscled, with a thick neck and a face that appears almost brutish in its heaviness. The tusks are the boar’s signature weapons—curved up and back, thick as a man’s arm, yellowed with age and stained dark at the tips. The eyes are small and set forward, providing good binocular vision for targeting charges. The body is supported on short, thick legs ending in sharp hooves that can deliver considerable force. The overall appearance is of barely restrained power, as if the boar must strain to contain the violence coiled within it.
+The Giant Boar is a massive quadrupedal creature built entirely for power and dominance. Its hide is thick and covered in coarse, wiry bristles in colors ranging from dark brown to jet black, often matted with mud and debris. The shoulders are massive and slope downward to slightly narrower hindquarters. The head is broad and heavily muscled, with a thick neck and a face that appears almost brutish in its heaviness. The tusks are the boar’s signature weapons – curved up and back, thick as a man’s arm, yellowed with age and stained dark at the tips. The eyes are small and set forward, providing good binocular vision for targeting charges. The body is supported on short, thick legs ending in sharp hooves that can deliver considerable force. The overall appearance is of barely restrained power, as if the boar must strain to contain the violence coiled within it.
 
 ## Key Behaviors
 
@@ -365,13 +365,13 @@ Giant Boars are solitary and fiercely territorial, each individual claiming a va
 
 ## Combat Strategy
 
-A Giant Boar’s preferred tactic is the charge—building speed and momentum before striking with the full weight and power of its body, using the tusks as lance points. If the charge connects, the boar continues forward, attempting to gore and trample the target into the ground. In close combat, the boar uses its tusks for ripping and goring while attempting to knock opponents down by sheer mass and leverage. A wounded boar becomes even more dangerous and aggressive, pressing attacks with feral determination. The boar will continue to fight until killed or until the threat to its territory is removed. Flight often triggers pursuit—a boar may chase a fleeing target for several hundred yards before losing interest if it cannot close the distance.
+A Giant Boar’s preferred tactic is the charge – building speed and momentum before striking with the full weight and power of its body, using the tusks as lance points. If the charge connects, the boar continues forward, attempting to gore and trample the target into the ground. In close combat, the boar uses its tusks for ripping and goring while attempting to knock opponents down by sheer mass and leverage. A wounded boar becomes even more dangerous and aggressive, pressing attacks with feral determination. The boar will continue to fight until killed or until the threat to its territory is removed. Flight often triggers pursuit – a boar may chase a fleeing target for several hundred yards before losing interest if it cannot close the distance.
 
 ## Attack Methods
 
 ### Tusk Gore
 
-The boar’s tusks are used to gore, rip, and disembowel—driven with the full force of a charging run or used in close combat to rend and tear. The tusks can pierce heavy armor if the boar’s charge connects.
+The boar’s tusks are used to gore, rip, and disembowel – driven with the full force of a charging run or used in close combat to rend and tear. The tusks can pierce heavy armor if the boar’s charge connects.
 
 ### Trample and Ram
 
@@ -385,11 +385,11 @@ The boar’s hide is tough and turns a blade’s edge, though it provides less p
 
 ### Charge Momentum
 
-When the boar has space to build speed, its charge becomes devastating—the longer the run-up, the more damage the tusk strike does. A boar charging across open ground is much more dangerous than one engaged in tight quarters.
+When the boar has space to build speed, its charge becomes devastating – the longer the run-up, the more damage the tusk strike does. A boar charging across open ground is much more dangerous than one engaged in tight quarters.
 
 ## Additional Information
 
-A giant boar’s territory can be traversed safely if one understands boar behavior and respects territorial markers. Most boars will abandon a charge if the target can reach thick enough brush or get behind an obstacle. A boar’s tusks are valuable, and its hide makes excellent leather. Some hunters make their reputation on successfully taking a giant boar solo—it is dangerous work.
+A giant boar’s territory can be traversed safely if one understands boar behavior and respects territorial markers. Most boars will abandon a charge if the target can reach thick enough brush or get behind an obstacle. A boar’s tusks are valuable, and its hide makes excellent leather. Some hunters make their reputation on successfully taking a giant boar solo – it is dangerous work.
 
 ## Attributes
 

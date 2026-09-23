@@ -3,7 +3,7 @@ tags:
   - city
   - port
   - coastal
-description: "The seat of the Synod and the mandatory first port of call for every ship crossing between Aelwyth and the mainland — where the Ordo inspects the island's entire commerce, and takes particular interest in anything magical."
+description: "The seat of the Synod and the mandatory first port of call for every ship crossing between Aelwyth and the mainland – where the Ordo inspects the island's entire commerce, and takes particular interest in anything magical."
 type: place
 subType: settlement
 data:
@@ -23,7 +23,7 @@ packFolder: aelwyth
 off into a deep sheltered anchorage. Thirty-five hundred people, the seat of the
 [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], and the seat of the **Synod**.
 
-It is not the kingdom's busiest harbour — [[place-wraymouth|Wraymouth]] handles far more tonnage — but
+It is not the kingdom's busiest harbor – [[place-wraymouth|Wraymouth]] handles far more tonnage – but
 it is the one every ship must enter.
 
 ## The Compulsory Call
@@ -39,7 +39,7 @@ other realms have no capacity to police their own coasts and quietly benefit fro
 
 What is not unremarkable is the second interest. **Anything magical is reported.** Relics, worked
 items, curiosities of uncertain nature, and anything a sailor cannot explain are recorded, examined and
-frequently detained — for study, for valuation, for safekeeping, according to which word the officer
+frequently detained – for study, for valuation, for safekeeping, according to which word the officer
 chooses. Compensation is offered and is usually fair. Refusal is possible in principle.
 
 Nothing about this is concealed. The Synod's stated reason is that unexamined magic entering or leaving
@@ -53,24 +53,24 @@ The compulsory call is not enforced by ships, and the Synod has never in its his
 over it. It does not need to. Its instrument is the thing every ruler on Aelwyth most wants to keep.
 
 **Ordo advisors serve in almost every significant polity**, here and across the world. Their value is
-inestimable and their rulers know it: a court mage's knowledge, judgement and power are advantages no
-neighbour without one can match, and every person of consequence wants one. They are not neutral
+inestimable and their rulers know it: a court mage's knowledge, judgment and power are advantages no
+neighbor without one can match, and every person of consequence wants one. They are not neutral
 scholars for hire. They are members of an order, and on Aelwyth that order answers to the **Synod at
 Ravenmoor**, which is its central chantry for the whole island.
 
 So the first sanction is simply **withdrawal**. Word goes out to the Ordo in the offending realm, and
-its advisors take their leave — courteously, with proper notice, giving reasons that are impeccable and
+its advisors take their leave – courteously, with proper notice, giving reasons that are impeccable and
 transparently pretextual. Then no replacement is available. Not from Dúnavarre, not from the mainland,
 not from anywhere, because the request is refused before it is made.
 
-The ruler is left **shunned by the advisors he covets**, in full view of neighbours who still have
+The ruler is left **shunned by the advisors he covets**, in full view of neighbors who still have
 theirs. For most, that is the end of the matter; the arithmetic is not difficult.
 
 A ruler who attempts to prevent his advisor's departure discovers that detaining a mage is a different
 proposition from detaining a man, and that the Synod's courtesy has been a choice.
 
 **If shunning does not produce compliance**, the misfortunes begin. A harvest fails where it had every
-reason not to. A sickness moves through the stock, or the children, that no local physician recognises.
+reason not to. A sickness moves through the stock, or the children, that no local physician recognizes.
 A well goes bad; a season of weather arrives that the oldest farmers say they have never seen. None of
 it is ever claimed, connected or admitted, and enquiries are met at Ravenmoor with grave and
 genuine-seeming concern.
@@ -89,9 +89,9 @@ costs. And they do not much care: an insular people with no interest in the main
 letting someone else handle the mainland, and every Aelwythan realm is far more exercised by what
 happens on Aelwyth than by what arrives from beyond it.
 
-[[affiliation-repblctrvn|Tarvenne]] dislikes it most and most loudly — a trading republic on the far
+[[affiliation-repblctrvn|Tarvenne]] dislikes it most and most loudly – a trading republic on the far
 side of the island, obliged to send its shipping the long way round to be searched by mages it despises
-— and its Senate has passed resolutions on the matter for sixty years without once refusing to comply.
+– and its Senate has passed resolutions on the matter for sixty years without once refusing to comply.
 
 **[[affiliation-jrldmstrmvld|Stormveld]] is outside the arrangement altogether**, and by the Synod's
 choice rather than in defiance of it. Its trade and its wars run north to the
@@ -99,7 +99,7 @@ choice rather than in defiance of it. Its trade and its wars run north to the
 north-east coast without troubling Ravenmoor.
 
 The Synod does not stop them because it **does not care**. The compulsory call was never really about
-customs; it is about the channel between Aelwyth and the Aurèldían world — what knowledge crosses it,
+customs; it is about the channel between Aelwyth and the Aurèldían world – what knowledge crosses it,
 what relics cross it, and who arrives by it. Northern traffic carries iron, timber, thralls' produce and
 quarrels between jarls, none of which bears on any of that. So the Synod watches the eastern water
 closely, ignores the northern water entirely, and has never troubled to explain the distinction to

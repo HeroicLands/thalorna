@@ -58,13 +58,13 @@ Personal names are granted to Tānthëi of exceptional wisdom, particularly thos
 
 ## Philosophy of Lëi
 
-Tānthëi serve as custodians of intellectual and spiritual Lëi, ensuring that knowledge and traditions remain strong and uncorrupted across generations. Their work sustains the empire's connection to the cosmic classification system — maintaining the records, interpretations, and ritual forms that keep the sorted order intact.
+Tānthëi serve as custodians of intellectual and spiritual Lëi, ensuring that knowledge and traditions remain strong and uncorrupted across generations. Their work sustains the empire's connection to the cosmic classification system – maintaining the records, interpretations, and ritual forms that keep the sorted order intact.
 
 ## See Also
 
-- [[lore-castelaws|Caste Laws]] — rights and restrictions governing Tānthëi
-- [[lore-zeisik|Law and Honor]] — framework of Celestial Law and Tānthëi interpretation
-- [[lore-zheklung|Zhëklüng]] — the supreme authority consulting with Tānthëi
-- [[lore-vushok|Vüshōk]] — Warrior Nobility who receive Tānthëi counsel
-- [[lore-venduk|Vëndük]] — Magical practitioners whom Tānthëi oversee and restrict
-- [[affiliation-tanvurempr|Empire of Tānvür]] — overview of imperial governance and structure
+- [[lore-castelaws|Caste Laws]] – rights and restrictions governing Tānthëi
+- [[lore-zeisik|Law and Honor]] – framework of Celestial Law and Tānthëi interpretation
+- [[lore-zheklung|Zhëklüng]] – the supreme authority consulting with Tānthëi
+- [[lore-vushok|Vüshōk]] – Warrior Nobility who receive Tānthëi counsel
+- [[lore-venduk|Vëndük]] – Magical practitioners whom Tānthëi oversee and restrict
+- [[affiliation-tanvurempr|Empire of Tānvür]] – overview of imperial governance and structure

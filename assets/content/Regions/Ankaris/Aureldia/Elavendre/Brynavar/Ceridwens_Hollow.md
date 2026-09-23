@@ -3,7 +3,7 @@ tags:
   - village
   - hill
   - inland
-description: "A hill village of the Brynavar interior, tucked into a fold of ground that has kept it off three centuries of raiders' roads — and keeps observances the kingdom's priests would rather not examine."
+description: "A hill village of the Brynavar interior, tucked into a fold of ground that has kept it off three centuries of raiders' roads – and keeps observances the kingdom's priests would rather not examine."
 type: place
 subType: settlement
 data:
@@ -30,7 +30,7 @@ track that a stranger will lose twice. Villages on better land have been burned 
 the same period. The Hollow has been reached twice in three hundred years, and both occasions are still
 talked about.
 
-The consequence is a village that is old, continuous and unusually intact — its families, its customs
+The consequence is a village that is old, continuous and unusually intact – its families, its customs
 and its memory all older than the walls of [[place-valdun|Valdûn]].
 
 ## The Observances

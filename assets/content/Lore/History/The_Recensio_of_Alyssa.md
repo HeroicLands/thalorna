@@ -2,7 +2,7 @@
 tags:
   - history
   - spine
-description: "In 75 BF the Praefectura assembles every registered practitioner in the Republic and their working-books in one place to be copied into a single register — and in the fourth month there is an unchannelled release."
+description: "In 75 BF the Praefectura assembles every registered practitioner in the Republic and their working-books in one place to be copied into a single register – and in the fourth month there is an unchanneled release."
 type: lore
 subType: history
 name:
@@ -23,10 +23,10 @@ event:
     The prefect of the year orders every registered practitioner in the Republic to bring their
     working-books to one place in the Alyssan country, to be copied into a single register the Senate
     can hold. It puts the whole of the Republic's arcane knowledge and very nearly the whole of its
-    arcane manpower inside one set of walls for a season. In the fourth month there is an unchannelled
+    arcane manpower inside one set of walls for a season. In the fourth month there is an unchanneled
     release. The books burn, most of the Republic's senior arcanists die, and a tract of good land is
     left bare. Whether it was accident or act has never been established, and the inventory taken
-    afterwards did not balance.
+    afterward did not balance.
   standing: single-source
   where:
     locus:
@@ -39,7 +39,7 @@ event:
         knowledge: named
       - place: place-helionis
         how: >-
-          the corpus that burned was largely Helionite work, and what is taught afterwards is what
+          the corpus that burned was largely Helionite work, and what is taught afterward is what
           living masters could write back down from memory
         knowledge: named
   who:
@@ -66,18 +66,18 @@ event:
       agrees: full
   unresolved:
     - whether the release was an accident or an act, which nobody has ever been able to say
-    - what the inventory taken afterwards came up one short of
+    - what the inventory taken afterward came up one short of
     - what is under the fenced ground, which has never been dug
 ---
 
 The Recensio was an audit. Every registered practitioner in the Republic was ordered to bring their
 working-books to one place in the Alyssan country, a day's ride from what is now Velysâra, to be
-copied into a single register the Senate could hold — and for a season it put the whole of the
+copied into a single register the Senate could hold – and for a season it put the whole of the
 Republic's arcane knowledge, and very nearly the whole of its arcane manpower, inside one set of
 walls.
 
-In the fourth month there was an unchannelled release. The mechanics need no stretching: a wide
-channel opened and not channelled discharges as raw magic, the releaser is at the centre and does not
+In the fourth month there was an unchanneled release. The mechanics need no stretching: a wide
+channel opened and not channeled discharges as raw magic, the releaser is at the center and does not
 survive, and a large release levels buildings, depopulates villages and blights farmland for
 generations.
 
@@ -85,8 +85,8 @@ The books burned. Most of the Republic's senior arcanists died. A tract of good 
 seven centuries later and is fenced at the [[affiliation-ordoarcanis|Ordo]]'s charge.
 
 A deliberate release is the kind of thing that ends sieges, which is precisely why nobody has ever
-been able to say whether this was an accident or an act — and why that question is the Quaesitorium's
+been able to say whether this was an accident or an act – and why that question is the Quaesitorium's
 whole reason for existing.
 
 The audit did one other thing that is not in any account of it. It counted what the Praefectura held,
-and when the count was taken again afterwards it came up short.
+and when the count was taken again afterward it came up short.

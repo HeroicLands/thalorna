@@ -24,7 +24,7 @@ Maru-Aten is the capital of [[affiliation-nomemaruat|the Nome of Maru-Aten]] and
 
 ## See Also
 
-- [[affiliation-nomemaruat|The Nome of Maru-Aten]] — Parent nome
-- [[affiliation-uperivrnms|The Upper River Nomes]] — Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[affiliation-ra|Rā]] — Patron cult
+- [[affiliation-nomemaruat|The Nome of Maru-Aten]] – Parent nome
+- [[affiliation-uperivrnms|The Upper River Nomes]] – Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview
+- [[affiliation-ra|Rā]] – Patron cult

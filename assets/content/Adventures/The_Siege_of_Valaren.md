@@ -23,7 +23,7 @@ The coastal City of Válaren lies under blockade by forces unknown. Adventurers 
 
 ## Overview
 
-Válaren, a crucial trading port on the [[affiliation-kngdmprvnz|Provenzian]] coast, has been cut off from supply routes by a mysterious naval blockade. The city's defenders are few, supplies dwindling, and morale cracking. Local nobles blame foreign powers—some whisper of [[affiliation-vylarinmpr|Vylarian]] imperial intrigue, others suspect [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] raiders seeking plunder. The truth may be far more complex.
+Válaren, a crucial trading port on the [[affiliation-kngdmprvnz|Provenzian]] coast, has been cut off from supply routes by a mysterious naval blockade. The city's defenders are few, supplies dwindling, and morale cracking. Local nobles blame foreign powers – some whisper of [[affiliation-vylarinmpr|Vylarian]] imperial intrigue, others suspect [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] raiders seeking plunder. The truth may be far more complex.
 
 ## Stage One: Initial Investigation
 
@@ -57,7 +57,7 @@ The party must investigate the blockading ships and gather intelligence. They mi
 
 ## Stage Three: Uncovering the Conspiracy
 
-Investigation reveals that a powerful Provenzian noble—seeking to drive down grain prices or consolidate power—hired mercenaries to blockade the city. Alternatively, foreign agents have orchestrated the blockade to weaken [[place-provenzrgn|Provènzia Region]]'s economy.
+Investigation reveals that a powerful Provenzian noble – seeking to drive down grain prices or consolidate power – hired mercenaries to blockade the city. Alternatively, foreign agents have orchestrated the blockade to weaken [[place-provenzrgn|Provènzia Region]]'s economy.
 
 **Key Revelation:**
 
@@ -87,7 +87,7 @@ The party must devise and execute a plan to break the blockade. Options include:
 - The conspiracy is exposed, bringing political consequences for the conspirators
 - The party may face retaliation from powerful interests
 - Evidence of the conspiracy becomes leverage in larger political games
-- The city's gratitude opens doors—or closes them, depending on who was behind the blockade
+- The city's gratitude opens doors – or closes them, depending on who was behind the blockade
 
 ## See Also
 

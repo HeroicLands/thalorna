@@ -330,7 +330,7 @@ sohl:
 
 ![[mssbcktr|Mossback Turtle]]{float: top-left}
 
-At first, you think you are looking at an ancient, moss-covered boulder half-buried in leaf litter. The edges are too regular, too symmetrical, and when your eye focuses, you realize with a start that the entire surface is moving—slowly, deliberately, inexorably forward. The moss and lichen covering the enormous domed shell is so thick it looks like actual earth and growing things, not the protective carapace of a living creature. From beneath that stone-like dome, a weathered, wrinkled neck extends, and at its end, a small, intelligent eye opens and regards you with the patience of something that has existed for centuries and will continue to exist long after you are dust.
+At first, you think you are looking at an ancient, moss-covered boulder half-buried in leaf litter. The edges are too regular, too symmetrical, and when your eye focuses, you realize with a start that the entire surface is moving – slowly, deliberately, inexorably forward. The moss and lichen covering the enormous domed shell is so thick it looks like actual earth and growing things, not the protective carapace of a living creature. From beneath that stone-like dome, a weathered, wrinkled neck extends, and at its end, a small, intelligent eye opens and regards you with the patience of something that has existed for centuries and will continue to exist long after you are dust.
 
 # Dossier {#dossier}
 
@@ -338,15 +338,15 @@ The Mossback Turtle is a colossal, slow-moving reptile measuring 8-10 feet in le
 
 ## Presentation
 
-The Mossback Turtle’s shell is its most prominent feature—a dome of armor so large and so heavily covered in living growth that it provides near-perfect camouflage in forest environments. The shell is ridged and ancient-looking, with visible cracks and chips from centuries of use. Beneath the moss and lichen, the shell surface is rough and heavily textured. The limbs are columnar and powerfully muscled beneath loose, wrinkled skin colored in mottled browns and grays. The tail is relatively short and thick. The head has a small brain case but a powerful jaw lined with a hard, sharp-edged beak rather than teeth. The eyes are small but bright and intelligent, positioned to allow good forward and lateral vision.
+The Mossback Turtle’s shell is its most prominent feature – a dome of armor so large and so heavily covered in living growth that it provides near-perfect camouflage in forest environments. The shell is ridged and ancient-looking, with visible cracks and chips from centuries of use. Beneath the moss and lichen, the shell surface is rough and heavily textured. The limbs are columnar and powerfully muscled beneath loose, wrinkled skin colored in mottled browns and grays. The tail is relatively short and thick. The head has a small brain case but a powerful jaw lined with a hard, sharp-edged beak rather than teeth. The eyes are small but bright and intelligent, positioned to allow good forward and lateral vision.
 
 ## Key Behaviors
 
-Mossback Turtles are herbivorous grazers that spend much of their time slowly moving through forests, consuming vegetation, fungi, and plant matter. They are solitary, meeting other turtles only during mating season. They prefer forest environments near water—streams, ponds, and wetlands—where they can bathe and find aquatic vegetation. They are primarily diurnal, resting at night in burrows or beneath overhanging rocks. They live for many decades, if not centuries, and their shells show the accumulated damage of a long life. They are generally reclusive and non-aggressive, preferring to withdraw when threatened.
+Mossback Turtles are herbivorous grazers that spend much of their time slowly moving through forests, consuming vegetation, fungi, and plant matter. They are solitary, meeting other turtles only during mating season. They prefer forest environments near water – streams, ponds, and wetlands – where they can bathe and find aquatic vegetation. They are primarily diurnal, resting at night in burrows or beneath overhanging rocks. They live for many decades, if not centuries, and their shells show the accumulated damage of a long life. They are generally reclusive and non-aggressive, preferring to withdraw when threatened.
 
 ## Combat Strategy
 
-The Mossback Turtle’s first response to threat is always withdrawal—pulling its head, limbs, and tail fully within its protective shell and waiting for danger to pass. If a threat persists or if the turtle cannot fully withdraw (due to restraint or assault), it will defend itself with its powerful jaws, delivered from within its shell, or attempt to lumber to the nearest water or dense vegetation. Only if actively attacked while unable to withdraw will a turtle employ its body weight as a weapon, using its immense mass to crush or pin an opponent.
+The Mossback Turtle’s first response to threat is always withdrawal – pulling its head, limbs, and tail fully within its protective shell and waiting for danger to pass. If a threat persists or if the turtle cannot fully withdraw (due to restraint or assault), it will defend itself with its powerful jaws, delivered from within its shell, or attempt to lumber to the nearest water or dense vegetation. Only if actively attacked while unable to withdraw will a turtle employ its body weight as a weapon, using its immense mass to crush or pin an opponent.
 
 ## Attack Methods
 

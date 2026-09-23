@@ -220,11 +220,11 @@ sohl:
 
 ![[lmnphg|Luminophage]]{float: top-left}
 
-A soft, pulsing radiance emanates from the shadows overhead—beautiful and hypnotic, yet radiating an almost nauseating wrongness. The light intensifies as a segmented, translucent shape descends from the darkness, its pale body wreathed in sickly luminescence that casts impossible shadows on the walls. The air grows cold, and you notice the smell of burned ozone and decay. Two points of pure brilliance fixate on you from within the glow, and you hear a faint, wet clicking sound as translucent appendages unfurl, lined with quivering needle-points that glisten with venom.
+A soft, pulsing radiance emanates from the shadows overhead – beautiful and hypnotic, yet radiating an almost nauseating wrongness. The light intensifies as a segmented, translucent shape descends from the darkness, its pale body wreathed in sickly luminescence that casts impossible shadows on the walls. The air grows cold, and you notice the smell of burned ozone and decay. Two points of pure brilliance fixate on you from within the glow, and you hear a faint, wet clicking sound as translucent appendages unfurl, lined with quivering needle-points that glisten with venom.
 
 # Dossier {#dossier}
 
-Luminophages are parasitic predators that haunt deep, lightless places—caverns, sunken ruins, and the abyssal depths of underground waters. They have made light itself a weapon, using bioluminescence as both lure and feeding mechanism. When they find a chamber, they settle into the ceiling or walls and wait with preternatural patience for wanderers drawn to their glow; once prey draws close enough, the creature strikes with lethal precision, paralyzing its victim with neurotoxic venom while slowly draining its life force and absorbing any light sources in the area, leaving survivors in absolute darkness.
+Luminophages are parasitic predators that haunt deep, lightless places – caverns, sunken ruins, and the abyssal depths of underground waters. They have made light itself a weapon, using bioluminescence as both lure and feeding mechanism. When they find a chamber, they settle into the ceiling or walls and wait with preternatural patience for wanderers drawn to their glow; once prey draws close enough, the creature strikes with lethal precision, paralyzing its victim with neurotoxic venom while slowly draining its life force and absorbing any light sources in the area, leaving survivors in absolute darkness.
 
 ## Presentation
 
@@ -232,7 +232,7 @@ A Luminophage resembles a grotesque jellyfish merged with a scorpion, elongated 
 
 ## Key Behaviors
 
-Luminophages are solitary hunters that stake out territories in perpetually dark spaces where other creatures occasionally venture. They remain motionless for hours or days, their glow the only sign of their presence, radiating outward as a beacon that seems to draw weaker-willed creatures toward them compulsively. They are drawn to any source of light—torches, lanterns, magical illumination—and will attempt to drain or consume it, leaving behind only oppressive darkness. Luminophages breed slowly; a gravid female may lay a clutch of translucent eggs on high cave walls, which hatch into juvenile forms no larger than a clenched fist. These juveniles cling to dark stone until they have grown large enough to hunt.
+Luminophages are solitary hunters that stake out territories in perpetually dark spaces where other creatures occasionally venture. They remain motionless for hours or days, their glow the only sign of their presence, radiating outward as a beacon that seems to draw weaker-willed creatures toward them compulsively. They are drawn to any source of light – torches, lanterns, magical illumination – and will attempt to drain or consume it, leaving behind only oppressive darkness. Luminophages breed slowly; a gravid female may lay a clutch of translucent eggs on high cave walls, which hatch into juvenile forms no larger than a clenched fist. These juveniles cling to dark stone until they have grown large enough to hunt.
 
 ## Combat Strategy
 
@@ -264,7 +264,7 @@ The creature sees perfectly in absolute darkness and moves as easily in the blac
 
 ## Additional Information
 
-Fire poses the greatest threat to a Luminophage—flames damage its translucent body directly and overwhelm its senses, causing it to withdraw. Its venom can be extracted and preserved in ceramic vessels, and alchemists prize it for medicinal purposes or the creation of poisons. The chitin plates along its back, when harvested carefully, can be fashioned into armor or magical foci that retain faint bioluminescent properties for years. Some isolated communities have learned to trap Luminophages in light-filled chambers, where the creatures become docile and can be contained; a few mad scholars keep them as living lanterns, accepting the constant threat of paralysis as the price of endless illumination.
+Fire poses the greatest threat to a Luminophage – flames damage its translucent body directly and overwhelm its senses, causing it to withdraw. Its venom can be extracted and preserved in ceramic vessels, and alchemists prize it for medicinal purposes or the creation of poisons. The chitin plates along its back, when harvested carefully, can be fashioned into armor or magical foci that retain faint bioluminescent properties for years. Some isolated communities have learned to trap Luminophages in light-filled chambers, where the creatures become docile and can be contained; a few mad scholars keep them as living lanterns, accepting the constant threat of paralysis as the price of endless illumination.
 
 ## Attributes
 

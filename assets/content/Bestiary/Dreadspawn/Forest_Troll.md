@@ -595,7 +595,7 @@ sohl:
 
 ![[frsttrll|Forest Troll]]{float: top-left}
 
-The ancient oak in front of you shifts. Bark cracks like skin, and what you thought was gnarled wood straightens into limbs and a torso. Moss and vines slide away like falling robes, revealing skin as green as rotting wood beneath. The thing is twelve feet tall and built of nothing but raw power—limbs thick as tree trunks, hands like woven roots and bone. Its breath carries the smell of wet earth and decay. Leaves are matted in hair that might be vegetable or might be vermin. It does not make sound as it moves toward you, despite its size. It simply appears closer than it was.
+The ancient oak in front of you shifts. Bark cracks like skin, and what you thought was gnarled wood straightens into limbs and a torso. Moss and vines slide away like falling robes, revealing skin as green as rotting wood beneath. The thing is twelve feet tall and built of nothing but raw power – limbs thick as tree trunks, hands like woven roots and bone. Its breath carries the smell of wet earth and decay. Leaves are matted in hair that might be vegetable or might be vermin. It does not make sound as it moves toward you, despite its size. It simply appears closer than it was.
 
 # Dossier {#dossier}
 
@@ -603,11 +603,11 @@ Forest trolls are apex predators and territorial overlords of deep woodlands and
 
 ## Presentation
 
-The Forest Troll stands twelve to fourteen feet tall, its body composed of dense muscle covered in skin that ranges from sickly green to brackish brown, textured like bark. Vines and roots seem partially integrated into its body rather than merely attached—they twine through its skin, sometimes moving with independent purpose. Its hair is a tangle of branches, leaves, and living growth; insects and small creatures nest within it. Its hands are enormous, more paw-like than humanoid, with fingers that taper to sharp points like thorns. Its feet are broad and splayed, resembling gnarled roots. Its eyes are deep-set and intelligent, colored an unsettling greenish-brown. Teeth fill its mouth in irregular rows, some resembling stone, some bone, some wood. The creature moves with unnatural silence despite its bulk, materializing in clearings rather than appearing to walk toward them. A faint stench of turned earth and advanced rot accompanies it.
+The Forest Troll stands twelve to fourteen feet tall, its body composed of dense muscle covered in skin that ranges from sickly green to brackish brown, textured like bark. Vines and roots seem partially integrated into its body rather than merely attached – they twine through its skin, sometimes moving with independent purpose. Its hair is a tangle of branches, leaves, and living growth; insects and small creatures nest within it. Its hands are enormous, more paw-like than humanoid, with fingers that taper to sharp points like thorns. Its feet are broad and splayed, resembling gnarled roots. Its eyes are deep-set and intelligent, colored an unsettling greenish-brown. Teeth fill its mouth in irregular rows, some resembling stone, some bone, some wood. The creature moves with unnatural silence despite its bulk, materializing in clearings rather than appearing to walk toward them. A faint stench of turned earth and advanced rot accompanies it.
 
 ## Key Behaviors
 
-The Forest Troll claims enormous territories—sometimes entire forests—which it patrols with methodical determination. It knows every tree, every path, every clearing within its domain. The creature is absolutely territorial and will attack anything that enters its lands. It hunts actively, using its knowledge of the forest to corner prey and drive them into disadvantageous terrain. It shows intelligence in reading the habits of its prey, timing its attacks, and even wearing prey down through fear. It does not hunt for sport—only for feeding—but it will defend territory against any perceived threat regardless of hunger. When dormant between hunts, it remains in deep wilderness where it can rest undisturbed. It exhibits no social behavior toward other trolls; territorial conflicts between Forest Trolls are violent and total.
+The Forest Troll claims enormous territories – sometimes entire forests – which it patrols with methodical determination. It knows every tree, every path, every clearing within its domain. The creature is absolutely territorial and will attack anything that enters its lands. It hunts actively, using its knowledge of the forest to corner prey and drive them into disadvantageous terrain. It shows intelligence in reading the habits of its prey, timing its attacks, and even wearing prey down through fear. It does not hunt for sport – only for feeding – but it will defend territory against any perceived threat regardless of hunger. When dormant between hunts, it remains in deep wilderness where it can rest undisturbed. It exhibits no social behavior toward other trolls; territorial conflicts between Forest Trolls are violent and total.
 
 ## Combat Strategy
 
@@ -643,7 +643,7 @@ The troll's body heals with supernatural speed in response to injury. Within its
 
 ### Limb Regrowth
 
-Lost limbs, even vital ones, regenerate over time. A severed arm may regrow within hours; a destroyed torso requires days or weeks. The troll's body has no obvious vital organs—damage is distributed and diffuse.
+Lost limbs, even vital ones, regenerate over time. A severed arm may regrow within hours; a destroyed torso requires days or weeks. The troll's body has no obvious vital organs – damage is distributed and diffuse.
 
 ### Forest Manipulation
 

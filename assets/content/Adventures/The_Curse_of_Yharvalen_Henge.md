@@ -25,7 +25,7 @@ Yhârvalen Henge, a megalithic monument destroyed during the Nordheim raids, has
 
 ### Overview
 
-In the northernmost reaches of [[place-provenzrgn|Provènzia Region]], near the border with [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], stands Yhârvalen Henge—or what remains of it. Once a sacred site of pre-Aurèldían traditions, the megalithic circle was destroyed approximately 200 years ago during the Nordheim raids that swept through northern [[place-provenzrgn|Provènzia Region]]. The land around the henge became known as the Blood-field of Yhârvalen, cursed and dying. For centuries, it lay dormant and avoided. Now, something has awakened the curse, and the lands surrounding the henge are withering. Crops fail, animals die, people sicken, and the very soil seems poisoned. Investigation reveals that a cult—the [[affiliation-blackflame|Cult of the Black Flame]]—has been deliberately awakening and magnifying the curse, drawing power from the destruction and death.
+In the northernmost reaches of [[place-provenzrgn|Provènzia Region]], near the border with [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], stands Yhârvalen Henge – or what remains of it. Once a sacred site of pre-Aurèldían traditions, the megalithic circle was destroyed approximately 200 years ago during the Nordheim raids that swept through northern [[place-provenzrgn|Provènzia Region]]. The land around the henge became known as the Blood-field of Yhârvalen, cursed and dying. For centuries, it lay dormant and avoided. Now, something has awakened the curse, and the lands surrounding the henge are withering. Crops fail, animals die, people sicken, and the very soil seems poisoned. Investigation reveals that a cult – the [[affiliation-blackflame|Cult of the Black Flame]] – has been deliberately awakening and magnifying the curse, drawing power from the destruction and death.
 
 ### Stage One: The Blight Discovered
 
@@ -81,7 +81,7 @@ The party investigates the blight's source and discovers the Cult of the Black F
 - Weakening the kingdom to seize power from within
 - Drawing power from destruction and death to fuel their corrupted fire-god's influence
 - Preparing for a larger ritual or summoning
-- Some members may have foreign connections — [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] raiders, [[affiliation-vylarinmpr|Vylarian]] agents, or the [[affiliation-ordoarcanis|Ordo Arcanis]] — but the cult's roots are Provenzian
+- Some members may have foreign connections – [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] raiders, [[affiliation-vylarinmpr|Vylarian]] agents, or the [[affiliation-ordoarcanis|Ordo Arcanis]] – but the cult's roots are Provenzian
 
 **Complications:**
 

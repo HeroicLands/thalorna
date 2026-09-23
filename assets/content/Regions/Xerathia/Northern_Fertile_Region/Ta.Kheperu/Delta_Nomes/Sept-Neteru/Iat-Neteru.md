@@ -24,7 +24,7 @@ Iat-Neteru is the capital of [[affiliation-nomesptntr|the Nome of Sept-Neteru]] 
 
 ## See Also
 
-- [[affiliation-nomesptntr|The Nome of Sept-Neteru]] — Parent nome
-- [[affiliation-deltanomes|The Delta Nomes]] — Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[affiliation-iset|Íšét]] — Patron cult
+- [[affiliation-nomesptntr|The Nome of Sept-Neteru]] – Parent nome
+- [[affiliation-deltanomes|The Delta Nomes]] – Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview
+- [[affiliation-iset|Íšét]] – Patron cult

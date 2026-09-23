@@ -397,7 +397,7 @@ sohl:
 
 ![[xrthnsvn|Xerathian Savanna Elephant]]{float: top-left}
 
-Presence announces itself before sight — the earth trembles rhythmically with footfalls that carry impossible weight. The creature that emerges is a living mountain of gray flesh, powerful beyond immediate comprehension. The long tusks gleam like ivory swords, and the vast ears shaped vaguely like continents fan the air with hypnotic rhythm. The trunk is a second limb, deft and powerful, and the eyes hold a sadness and awareness that speak of deep intelligence and feeling. You understand you are looking at more than the largest of land animals: at a creature that thinks and feels.
+Presence announces itself before sight – the earth trembles rhythmically with footfalls that carry impossible weight. The creature that emerges is a living mountain of gray flesh, powerful beyond immediate comprehension. The long tusks gleam like ivory swords, and the vast ears shaped vaguely like continents fan the air with hypnotic rhythm. The trunk is a second limb, deft and powerful, and the eyes hold a sadness and awareness that speak of deep intelligence and feeling. You understand you are looking at more than the largest of land animals: at a creature that thinks and feels.
 
 # Dossier {#dossier}
 

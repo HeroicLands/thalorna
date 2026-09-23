@@ -22,7 +22,7 @@ data:
         title: Rite-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually requires — a sentence that reaches past the end of the life it is passed in.
+          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually requires – a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
         lore: layfaithfulrnk
@@ -32,17 +32,17 @@ data:
         title: Wab
         lore: initiaternk
         description: >-
-          "Purified One" — acolytes studying the legal codes, learning to read and write the sacred scripts, and serving as scribes and administrators within the temple complex.
+          "Purified One" – acolytes studying the legal codes, learning to read and write the sacred scripts, and serving as scribes and administrators within the temple complex.
       - level: 3
         title: Hem'Netjer
         lore: priestrnk
         description: >-
-          "Servant of the God" — ordained priests serving as judges, keepers of law, and interpreters of the goddess's will.
+          "Servant of the God" – ordained priests serving as judges, keepers of law, and interpreters of the goddess's will.
       - level: 4
         title: Wer'Hekau
         lore: highpriestrnk
         description: >-
-          "Great of Sacred Power" — High Priest or High Priestess of Má'át, at the head of the cult that holds the law.
+          "Great of Sacred Power" – High Priest or High Priestess of Má'át, at the head of the cult that holds the law.
     offices:
       Judge: >-
         A Hem'Netjer seated to hear a case, which in this cult is a priestly function rather than a civil one.
@@ -52,11 +52,11 @@ data:
         A Wab serving as scribe and administrator within the temple complex.
       Weigher of the Heart: >-
         Keeps the central eschatological doctrine: the postmortem weighing of the heart against the feather
-        of the goddess. It exerts genuine moral influence on daily life — even the powerful fear a negative
-        judgment, and the knowledge that wealth cannot buy a favourable verdict is a real, if imperfect,
+        of the goddess. It exerts genuine moral influence on daily life – even the powerful fear a negative
+        judgment, and the knowledge that wealth cannot buy a favorable verdict is a real, if imperfect,
         check on the worst abuses of power.
       Legal Arbiter: >-
-        Legal arbitration is one of the recognised Hem'Netjer specialisations, and this cult supplies it.
+        Legal arbitration is one of the recognized Hem'Netjer specializations, and this cult supplies it.
         Women plead in the Kenbet as well as men.
   commonSkills:
     - maat
@@ -95,9 +95,9 @@ The Kemetians understand that Má'át's order is not kindness. It is neutral and
 
 ## Worship
 
-The temples of Má'át are vast complexes of white stone and dark granite, their walls inscribed with every law and principle under her dominion. Worshippers who enter these temples do so with profound solemnity. There is no festival of joy in Má'át's worship—there are only ceremonies of affirmation and balance. At the great solar noon, when the sun stands directly overhead, priests and supplicants gather to recite the Forty-Two Negative Confessions, a litany of sins they have not committed. "I have not killed. I have not stolen. I have not borne false witness. I have not coveted what belongs to another." Each negative confession is a reaffirmation of one's commitment to truthfulness and order.
+The temples of Má'át are vast complexes of white stone and dark granite, their walls inscribed with every law and principle under her dominion. Worshippers who enter these temples do so with profound solemnity. There is no festival of joy in Má'át's worship – there are only ceremonies of affirmation and balance. At the great solar noon, when the sun stands directly overhead, priests and supplicants gather to recite the Forty-Two Negative Confessions, a litany of sins they have not committed. "I have not killed. I have not stolen. I have not borne false witness. I have not coveted what belongs to another." Each negative confession is a reaffirmation of one's commitment to truthfulness and order.
 
-When a contract is to be sworn or a solemn oath taken, parties may come before the altar of Má'át to invoke her authority. The ceremony requires the oathtaker to speak their vow aloud, with full voice and clear intent, before at least three witnesses. The Hem'Netjer records the oath in the temple archives, and from that moment forward, the oath-taker is bound by both mortal and divine law. Breaking such an oath is not merely a social shame—it is a cosmic transgression that promises damnation at the weighing.
+When a contract is to be sworn or a solemn oath taken, parties may come before the altar of Má'át to invoke her authority. The ceremony requires the oathtaker to speak their vow aloud, with full voice and clear intent, before at least three witnesses. The Hem'Netjer records the oath in the temple archives, and from that moment forward, the oath-taker is bound by both mortal and divine law. Breaking such an oath is not merely a social shame – it is a cosmic transgression that promises damnation at the weighing.
 
 Each month, the Wab acolytes of Má'át's temples perform the ritual of the Scales. They inscribe the temple's ledger of disputes and resolutions, ensuring that every judgment is recorded in perfect detail. These archives serve as both historical record and spiritual validation: the temple's record proves to Má'át that justice has been upheld during her people's earthly lives.
 
@@ -107,7 +107,7 @@ At the head of Má'át's priesthood stands the Wer'Hekau, the High Priest or Hig
 
 The third tier consists of the Wab acolytes, young men and women who serve the temples in preparation for potential ordination. They study the legal codes, learn to read and write the sacred scripts, and serve as scribes and administrators within the temple complex. A Wab must demonstrate absolute fidelity to the principles of Má'át before advancement is even considered.
 
-The priesthood operates independently of the Per-Aá's direct control, though the Per-Aá is expected to support and protect the temples. Historically, those Per-Aás who have defied the will of Má'át's priesthood have faced severe consequences—either their reign was marked by disaster and civil unrest, or in extreme cases, the priesthood has worked to depose them. The Per-Aá is himself subject to Má'át's judgment like any mortal, and if he is found wanting at the scales, no crown or divine title can save his soul from damnation.
+The priesthood operates independently of the Per-Aá's direct control, though the Per-Aá is expected to support and protect the temples. Historically, those Per-Aás who have defied the will of Má'át's priesthood have faced severe consequences – either their reign was marked by disaster and civil unrest, or in extreme cases, the priesthood has worked to depose them. The Per-Aá is himself subject to Má'át's judgment like any mortal, and if he is found wanting at the scales, no crown or divine title can save his soul from damnation.
 
 The temple complexes of Má'át employ hundreds of minor functionaries: record-keepers, scribes, builders, and servants. The priesthood is thus not merely a spiritual institution but a vast administrative body that manages legal proceedings, maintains records, preserves knowledge, and ensures that the laws are applied with impartial consistency throughout the empire.
 
@@ -115,8 +115,8 @@ The temple complexes of Má'át employ hundreds of minor functionaries: record-k
 
 Má'át stands in harmony with [[affiliation-ra|Faith of Rā]], for the solar god's power of illumination and clarity serves to reveal truth. Where Rā burns away shadow and deception with his golden light, Má'át ensures that truth is universal and inviolable. The two faiths work in close partnership; the Wer'Hekau of Rā and the Wer'Hekau of Má'át often consult on matters of law and divine will.
 
-The relationship between Má'át and [[affiliation-iset|Faith of Íšét]] is one of theological partnership. Íšét's emphasis on balance—the necessary cooperation of masculine and feminine divine principles in creation—aligns perfectly with Má'át's vision of cosmic order. Together, the two goddesses provide the spiritual foundation for Kemetian society: Íšét ensures life and renewal through proper balance, while Má'át ensures that this balance is maintained through law and truth.
+The relationship between Má'át and [[affiliation-iset|Faith of Íšét]] is one of theological partnership. Íšét's emphasis on balance – the necessary cooperation of masculine and feminine divine principles in creation – aligns perfectly with Má'át's vision of cosmic order. Together, the two goddesses provide the spiritual foundation for Kemetian society: Íšét ensures life and renewal through proper balance, while Má'át ensures that this balance is maintained through law and truth.
 
-The Faith of Má'át maintains a complex relationship with the faith of Sēker. Both are concerned with order and proper process—Sēker ensures the spiritual passage of the dead, while Má'át ensures their judgment. When a soul reaches Sēker's realm, it has already been weighed by Má'át. Sēker reveres the authority of Má'át but maintains his distinct role in the underworld.
+The Faith of Má'át maintains a complex relationship with the faith of Sēker. Both are concerned with order and proper process – Sēker ensures the spiritual passage of the dead, while Má'át ensures their judgment. When a soul reaches Sēker's realm, it has already been weighed by Má'át. Sēker reveres the authority of Má'át but maintains his distinct role in the underworld.
 
 Má'át's priesthood stands in direct opposition to any force of chaos or deception. The worship of Ápōphis, the chaos serpent, is actively suppressed by Má'át's followers. Those who spread lies, break oaths, or work to undermine the social order are considered enemies of Má'át herself. Similarly, those who abuse their power to commit injustice find themselves subject to the priesthood's righteous wrath.

@@ -29,7 +29,7 @@ Ki'ichek is a tongue of the Ki'ichek (independent isolate) family. Fluency measu
 
 ## Overview
 
-Ki'ichek is the ancient language of the K'ich'chik city-states, a civilization that predates human settlement of Ankaris by millennia. Spoken across an entire separate continent, Ki'ichek stands alone—no known linguistic relatives exist anywhere on Thalorna. The language is deeply connected to K'ich'chik cosmology, mathematics, and spiritual worldview. To the untrained ear, Ki'ichek sounds exotic and mysterious: a cascade of glottal stops and sharp consonants interspersed with clear vowel sounds, often accompanied by tonal glides that shift meaning.
+Ki'ichek is the ancient language of the K'ich'chik city-states, a civilization that predates human settlement of Ankaris by millennia. Spoken across an entire separate continent, Ki'ichek stands alone – no known linguistic relatives exist anywhere on Thalorna. The language is deeply connected to K'ich'chik cosmology, mathematics, and spiritual worldview. To the untrained ear, Ki'ichek sounds exotic and mysterious: a cascade of glottal stops and sharp consonants interspersed with clear vowel sounds, often accompanied by tonal glides that shift meaning.
 
 Ki'ichek employs a complex hieroglyphic writing system that encodes both phonetic and logographic information. The language reflects the K'ich'chik obsession with order, hierarchy, astronomical cycles, and the sacred balance between the natural and divine worlds.
 
@@ -48,11 +48,11 @@ Ki'ichek phonology is dominated by hard stops and sibilants, creating a percussi
 
 Five clear vowels, each pronounced distinctly:
 
-- **A** (father) — bright, open
-- **E** (met) — mid, unrounded
-- **I** (machine) — high, clear
-- **O** (go) — mid, rounded
-- **U** (flute) — high, rounded
+- **A** (father) – bright, open
+- **E** (met) – mid, unrounded
+- **I** (machine) – high, clear
+- **O** (go) – mid, rounded
+- **U** (flute) – high, rounded
 
 Vowels rarely diphthongize; each vowel sound stands alone. This clarity aids comprehension when chanting sacred texts or astronomical calculations.
 
@@ -76,7 +76,7 @@ Analyzing the name corpus reveals consistent patterns:
 
 Ki'ichek employs a **Subject-Object-Verb (SOV)** word order, fundamentally different from most Ankarian tongues:
 
-- Example: _Ix'ik ha'nal ka-nal'un-ix_ — "The lagoon (subj.) eats (verb) the river (obj.)"
+- Example: _Ix'ik ha'nal ka-nal'un-ix_ – "The lagoon (subj.) eats (verb) the river (obj.)"
 
 This structure reflects K'ich'chik philosophical priorities: establishing who acts and what is acted upon before revealing the action itself.
 
@@ -118,7 +118,7 @@ Adjectives follow nouns; adverbs precede verbs. This allows the listener to grou
 
 ## Script and Literacy
 
-Ki'ichek writing — [[skill-chlxtsbscrpt|Ch'alix Ts'ib]], "the writing of Ch'alix", after the goddess who composed the first codex — combines **logographic and phonetic elements**. Each glyph can represent either a whole word-concept or a syllabic sound, depending on context. The script is written in columns read from top to bottom, left to right.
+Ki'ichek writing – [[skill-chlxtsbscrpt|Ch'alix Ts'ib]], "the writing of Ch'alix", after the goddess who composed the first codex – combines **logographic and phonetic elements**. Each glyph can represent either a whole word-concept or a syllabic sound, depending on context. The script is written in columns read from top to bottom, left to right.
 
 Key script features:
 
@@ -135,7 +135,7 @@ Literacy is restricted among the K'ich'chik; scribes and priests hold tremendous
 
 Ki'ichek emerged in the earliest K'ich'chik settlements, predating the development of their complex calendar and astronomical mathematics. Over millennia, the language absorbed vocabulary related to celestial observation, architectural achievement, and ritual practice, but its core structure remained stable.
 
-The language preserves archaic elements in formal speech and sacred texts—older verb forms and syllable patterns not used in everyday conversation. This linguistic conservatism reflects K'ich'chik reverence for ancestral knowledge.
+The language preserves archaic elements in formal speech and sacred texts – older verb forms and syllable patterns not used in everyday conversation. This linguistic conservatism reflects K'ich'chik reverence for ancestral knowledge.
 
 ## Regional Dialects
 
@@ -149,23 +149,23 @@ Inter-city trade and shared religious rites limit dialect divergence, but a K'ic
 
 ## Sample Phrases
 
-- _Ch'alix ix'balam tz'ik k'inix_ — "Sacred jaguar rises above the sun" (blessing or salutation)
-- _Ka-tz'aqun-in kul'qat-um_ — "We climb to the sacred peak" (call to pilgrimage)
-- _Ha'nal tz'uma ka-tz'aqun-um_ — "The misty river flows" (poetic observation)
-- _Na-nal'un-ix xak'nal xiq'il-ka_ — "I ate the eagle feather" (ritual/mystical statement)
-- _Tz'amal ixkan k'alix_ — "From void comes thought, is being" (cosmological maxim)
+- _Ch'alix ix'balam tz'ik k'inix_ – "Sacred jaguar rises above the sun" (blessing or salutation)
+- _Ka-tz'aqun-in kul'qat-um_ – "We climb to the sacred peak" (call to pilgrimage)
+- _Ha'nal tz'uma ka-tz'aqun-um_ – "The misty river flows" (poetic observation)
+- _Na-nal'un-ix xak'nal xiq'il-ka_ – "I ate the eagle feather" (ritual/mystical statement)
+- _Tz'amal ixkan k'alix_ – "From void comes thought, is being" (cosmological maxim)
 
 ## Related Languages
 
 Ki'ichek exists in **complete isolation** on Thalorna. No other language shares its grammatical structure, phonological inventory, or root vocabulary. Scholars debate whether this reflects genuine historical separation (a separate diaspora) or merely the vast age of both the language and the K'ich'chik civilization.
 
-Minimal borrowing occurs between Ki'ichek and other Thalorna languages. A few terms related to exotic K'ich'chik goods have entered maritime pidgins (e.g., _ch'ixal_ — the bitter bean drink), but Ki'ichek speakers pride themselves on linguistic purity.
+Minimal borrowing occurs between Ki'ichek and other Thalorna languages. A few terms related to exotic K'ich'chik goods have entered maritime pidgins (e.g., _ch'ixal_ – the bitter bean drink), but Ki'ichek speakers pride themselves on linguistic purity.
 
 ## Naming Traditions
 
 ### Structure and Convention
 
-K'ich'chik names are **compound forms without gender distinction**—a person's name is equally valid regardless of sex. Names often function as brief poetic statements, encapsulating qualities, achievements, or circumstances of birth.
+K'ich'chik names are **compound forms without gender distinction** – a person's name is equally valid regardless of sex. Names often function as brief poetic statements, encapsulating qualities, achievements, or circumstances of birth.
 
 ### Components
 
@@ -183,9 +183,9 @@ Names encode philosophy. A child born during floods might be named _Ha' Ixkul_ (
 
 Titles are appended to names, not fused:
 
-- _K'uk'almah_ — "Overlord" (ruler of a city-state)
-- _Ha'nalmah_ — "Landholder" (chief of a district)
-- _Tz'aqalil_ — "One Who Belongs" (full citizen)
+- _K'uk'almah_ – "Overlord" (ruler of a city-state)
+- _Ha'nalmah_ – "Landholder" (chief of a district)
+- _Tz'aqalil_ – "One Who Belongs" (full citizen)
 
 ## Name Lists
 
@@ -201,7 +201,7 @@ Ch'akul Witz Ba'alam Xaman K'uxi Ki'ik Ha' Tz'alam Ix Tz'ikin Noj Witzal Tz'ikin
 
 ## Lexicon and Naming Reference
 
-The sections below are the full reference — the phonetic and naming rules, the
+The sections below are the full reference – the phonetic and naming rules, the
 complete inflectional paradigms summarized under Grammar Notes above, and the
 working vocabulary. They were a separate note until they were folded in here,
 since a language and the skill of speaking it are one subject.

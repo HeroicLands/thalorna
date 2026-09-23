@@ -521,19 +521,19 @@ sohl:
 
 # Appearance {#appearance}
 
-Freydis stands 5'6" with a medium, well-proportioned frame, weighing about 145 pounds. Her light skin is smooth and well-maintained, and her silver hair — prematurely colored, not from age — is her most distinctive feature, kept in a neat coil at the nape of her neck. Her hazel eyes are sharp and assessing, with the practiced warmth of someone who knows exactly what her smile is worth. Her features are attractive and shrewd, with an oval face, an aquiline nose, a pointed chin, and lips that purse thoughtfully when she is calculating. Her hands are adorned with rings of silver and trade-metal, each one a memento of a deal successfully closed. Freydis dresses in practical but expensive clothing — fine wool, good leather, discreet jewelry — projecting wealth without ostentation. She carries a ledger in a leather case and a weighted purse at her belt, and her boots are always immaculate despite constant travel.
+Freydis stands 5'6" with a medium, well-proportioned frame, weighing about 145 pounds. Her light skin is smooth and well-maintained, and her silver hair – prematurely colored, not from age – is her most distinctive feature, kept in a neat coil at the nape of her neck. Her hazel eyes are sharp and assessing, with the practiced warmth of someone who knows exactly what her smile is worth. Her features are attractive and shrewd, with an oval face, an aquiline nose, a pointed chin, and lips that purse thoughtfully when she is calculating. Her hands are adorned with rings of silver and trade-metal, each one a memento of a deal successfully closed. Freydis dresses in practical but expensive clothing – fine wool, good leather, discreet jewelry – projecting wealth without ostentation. She carries a ledger in a leather case and a weighted purse at her belt, and her boots are always immaculate despite constant travel.
 
 # Dossier {#dossier}
 
-Freydis was born into a family of merchants, raised amidst the wealth and luxury of the trade routes. From a young age, she displayed an uncanny ability to turn even the smallest amount of silver into a fortune, earning her the nickname Silverhand. Freydis was not only skilled in commerce but also in diplomacy, using her charm and wit to negotiate deals that brought prosperity to her family and her people. She saw herself as an instrument of Fréyja, the goddess of love, beauty, and wealth, and dedicated her life to spreading the blessings of prosperity wherever she went.
+Freydis was born into a family of merchants, raised amid the wealth and luxury of the trade routes. From a young age, she displayed an uncanny ability to turn even the smallest amount of silver into a fortune, earning her the nickname Silverhand. Freydis was not only skilled in commerce but also in diplomacy, using her charm and wit to negotiate deals that brought prosperity to her family and her people. She saw herself as an instrument of Fréyja, the goddess of love, beauty, and wealth, and dedicated her life to spreading the blessings of prosperity wherever she went.
 
-The saga of Freydis Silverhand tells of her journey to a distant land where a great treasure was guarded by a dragon that had hoarded wealth for centuries. Freydis did not draw a sword; instead, she approached the dragon with an offer — a portion of her silver in exchange for a share of the treasure. Using her silver tongue, she convinced the dragon that by sharing its wealth, it could gain something even more valuable: respect and a lasting legacy. The dragon agreed, and Freydis used the shared treasure to rebuild towns, establish trade routes, and bring prosperity to the people.
+The saga of Freydis Silverhand tells of her journey to a distant land where a great treasure was guarded by a dragon that had hoarded wealth for centuries. Freydis did not draw a sword; instead, she approached the dragon with an offer – a portion of her silver in exchange for a share of the treasure. Using her silver tongue, she convinced the dragon that by sharing its wealth, it could gain something even more valuable: respect and a lasting legacy. The dragon agreed, and Freydis used the shared treasure to rebuild towns, establish trade routes, and bring prosperity to the people.
 
 ## Psyche
 
 ### Personality
 
-Freydis is shrewd and charismatic, with an eye for value that extends beyond mere coin. She sees potential in everything — in people, in places, in ideas — and has a gift for bringing out the best in whatever she touches. She is generous with her wealth but strategic in her generosity, always ensuring that her investments yield returns both material and social. She has a competitive streak and takes genuine delight in outsmarting opponents in negotiation. Despite her wealth, she maintains simple personal habits and is happiest when closing a deal rather than spending its profits.
+Freydis is shrewd and charismatic, with an eye for value that extends beyond mere coin. She sees potential in everything – in people, in places, in ideas – and has a gift for bringing out the best in whatever she touches. She is generous with her wealth but strategic in her generosity, always ensuring that her investments yield returns both material and social. She has a competitive streak and takes genuine delight in outsmarting opponents in negotiation. Despite her wealth, she maintains simple personal habits and is happiest when closing a deal rather than spending its profits.
 
 ### Motivation
 
@@ -541,7 +541,7 @@ Freydis believes that prosperity is the foundation of peace and that trade conne
 
 ### Strengths
 
-Freydis is one of the wealthiest individuals in the northern lands, and her trade network spans dozens of settlements. Her negotiation skills are legendary — she famously convinced a dragon to share its hoard. She has an encyclopedic knowledge of goods, currencies, and trade routes, and can assess the value of any object at a glance. Her wealth gives her influence that rivals many jarls, and her merchant contacts provide intelligence that military scouts cannot match.
+Freydis is one of the wealthiest individuals in the northern lands, and her trade network spans dozens of settlements. Her negotiation skills are legendary – she famously convinced a dragon to share its hoard. She has an encyclopedic knowledge of goods, currencies, and trade routes, and can assess the value of any object at a glance. Her wealth gives her influence that rivals many jarls, and her merchant contacts provide intelligence that military scouts cannot match.
 
 ## Social
 
@@ -549,20 +549,20 @@ Freydis is one of the wealthiest individuals in the northern lands, and her trad
 
 ### Patrons
 
-**The Merchant Guild of the Northern Coast** — The most powerful trade organization in the north, which Freydis effectively controls through a combination of investment, alliance, and strategic favors.
+**The Merchant Guild of the Northern Coast** – The most powerful trade organization in the north, which Freydis effectively controls through a combination of investment, alliance, and strategic favors.
 
-**The Dragon of the Northern Mountains** — The dragon she negotiated with has become an unlikely ally, providing protection for her most valuable caravans in exchange for a share of the profits.
+**The Dragon of the Northern Mountains** – The dragon she negotiated with has become an unlikely ally, providing protection for her most valuable caravans in exchange for a share of the profits.
 
 ### Enemies
 
-**The Pirate Lords of the Eastern Seas** — Maritime raiders who target Freydis's trade ships and view her growing trade network as a threat to their control of the sea lanes.
+**The Pirate Lords of the Eastern Seas** – Maritime raiders who target Freydis's trade ships and view her growing trade network as a threat to their control of the sea lanes.
 
-**Jarl Knut the Miser** — A lord who has built his power on controlling trade through his territory and views Freydis's alternative trade routes as an existential threat to his wealth.
+**Jarl Knut the Miser** – A lord who has built his power on controlling trade through his territory and views Freydis's alternative trade routes as an existential threat to his wealth.
 
 ## Plot Hooks
 
-1. **The Golden Market** — Freydis has finally found evidence of the mythical Golden Market's next appearance. She needs an escort to reach its location, which lies in dangerous territory.
+1. **The Golden Market** – Freydis has finally found evidence of the mythical Golden Market's next appearance. She needs an escort to reach its location, which lies in dangerous territory.
 
-2. **The Dragon's Demand** — Freydis's dragon ally has changed its terms, demanding something she cannot easily provide. Renegotiation is necessary, but the dragon's patience has limits.
+2. **The Dragon's Demand** – Freydis's dragon ally has changed its terms, demanding something she cannot easily provide. Renegotiation is necessary, but the dragon's patience has limits.
 
-3. **The Trade War** — The Pirate Lords have blockaded a critical trade route, and Freydis must find a way to break the blockade — through force, negotiation, or cunning — before her trade network collapses.
+3. **The Trade War** – The Pirate Lords have blockaded a critical trade route, and Freydis must find a way to break the blockade – through force, negotiation, or cunning – before her trade network collapses.

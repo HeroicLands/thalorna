@@ -24,7 +24,7 @@ Senmut is the capital of [[affiliation-nomesenmut|the Nome of Senmut]] and the s
 
 ## See Also
 
-- [[affiliation-nomesenmut|The Nome of Senmut]] — Parent nome
-- [[affiliation-bordernoms|The Border Nomes]] — Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[affiliation-seker|Sēker]] — Patron cult
+- [[affiliation-nomesenmut|The Nome of Senmut]] – Parent nome
+- [[affiliation-bordernoms|The Border Nomes]] – Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview
+- [[affiliation-seker|Sēker]] – Patron cult

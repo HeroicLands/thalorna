@@ -521,13 +521,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Thyra stands 5'8" with a medium, curvaceous frame, weighing about 150 pounds. Her fair skin is luminous and carefully tended, and her golden blonde hair — her most famous feature — cascades past her shoulders in shining waves that catch the light even in dim rooms. Her blue eyes are large, bright, and dangerously perceptive, missing nothing while revealing only what she chooses. Her features are beautiful in a way that stops conversations — high cheekbones, a straight nose, a full mouth, and delicate brows over eyes that can shift from inviting warmth to arctic coldness in an instant. Despite the hardship of her past, she carries herself with regal poise, every movement deliberate and assured. Thyra dresses in rich fabrics — deep reds, golds, and midnight blue — cut to flatter and command attention. Gold rings and a choker of garnets accent her throat, and she wears a subtle perfume of rose and amber that lingers after she has left a room.
+Thyra stands 5'8" with a medium, curvaceous frame, weighing about 150 pounds. Her fair skin is luminous and carefully tended, and her golden blonde hair – her most famous feature – cascades past her shoulders in shining waves that catch the light even in dim rooms. Her blue eyes are large, bright, and dangerously perceptive, missing nothing while revealing only what she chooses. Her features are beautiful in a way that stops conversations – high cheekbones, a straight nose, a full mouth, and delicate brows over eyes that can shift from inviting warmth to arctic coldness in an instant. Despite the hardship of her past, she carries herself with regal poise, every movement deliberate and assured. Thyra dresses in rich fabrics – deep reds, golds, and midnight blue – cut to flatter and command attention. Gold rings and a choker of garnets accent her throat, and she wears a subtle perfume of rose and amber that lingers after she has left a room.
 
 # Dossier {#dossier}
 
 Thyra was born into poverty, her family struggling to make ends meet in a small, barren village. Despite her humble beginnings, Thyra possessed a radiant beauty that turned heads wherever she went. Her fortunes seemed to change when a wealthy merchant promised her a life of comfort and abundance, but his true intentions were far darker. Instead of luxury, Thyra found herself sold to a brothel in the city of Skarnholme. Refusing to be broken, Thyra saw this as a twisted opportunity to reshape her destiny. With determination and Fréyja's blessing, she rose within the establishment, eventually taking control and transforming the Gilded Cage from a brothel into a luxurious salon where the city's most influential figures came for both pleasure and guidance.
 
-The saga of Thyra Goldenhair is one of resilience, transformation, and triumph. She learned the art of persuasion and business from Yrsa the Silver-Tongued, the brothel's madam, and used her beauty and intelligence to captivate the city's elite. Her most famous achievement came when she orchestrated the downfall of Rurik, the very merchant who had sold her. Using her network of clients, she uncovered his illicit dealings and ensured his disgrace. When the destitute merchant came to the brothel seeking solace, Thyra offered him a place — not as a lover, but as a servant, a living testament to her rise from the ashes of her past. Under her guidance, powerful men like Lord Ingvar Blackwood and Viggo Ironfist prospered, while she accumulated wealth and influence that rivaled any noble house.
+The saga of Thyra Goldenhair is one of resilience, transformation, and triumph. She learned the art of persuasion and business from Yrsa the Silver-Tongued, the brothel's madam, and used her beauty and intelligence to captivate the city's elite. Her most famous achievement came when she orchestrated the downfall of Rurik, the very merchant who had sold her. Using her network of clients, she uncovered his illicit dealings and ensured his disgrace. When the destitute merchant came to the brothel seeking solace, Thyra offered him a place – not as a lover, but as a servant, a living testament to her rise from the ashes of her past. Under her guidance, powerful men like Lord Ingvar Blackwood and Viggo Ironfist prospered, while she accumulated wealth and influence that rivaled any noble house.
 
 ## Psyche
 
@@ -549,20 +549,20 @@ Thyra's network of informants and clients spans the highest levels of Skarnholme
 
 ### Patrons
 
-**Lord Ingvar Blackwood** — A powerful noble whose political fortunes Thyra has guided for years. He provides political protection and legitimate business connections.
+**Lord Ingvar Blackwood** – A powerful noble whose political fortunes Thyra has guided for years. He provides political protection and legitimate business connections.
 
-**Viggo Ironfist** — A wealthy merchant who owes much of his success to Thyra's counsel. He funds her operations and provides commercial intelligence.
+**Viggo Ironfist** – A wealthy merchant who owes much of his success to Thyra's counsel. He funds her operations and provides commercial intelligence.
 
 ### Enemies
 
-**Rurik's Surviving Allies** — The slave trader's former associates who fear Thyra's growing power and the exposure of their own crimes.
+**Rurik's Surviving Allies** – The slave trader's former associates who fear Thyra's growing power and the exposure of their own crimes.
 
-**The Morality Council of Skarnholme** — A group of religious conservatives who view Thyra's establishment as a den of sin and her influence as a corruption of the city's values. They seek to shut down the Gilded Cage and exile Thyra.
+**The Morality Council of Skarnholme** – A group of religious conservatives who view Thyra's establishment as a den of sin and her influence as a corruption of the city's values. They seek to shut down the Gilded Cage and exile Thyra.
 
 ## Plot Hooks
 
-1. **The Slave Ring** — Thyra has discovered that Rurik's slave trading network is still operating under new management, and children are among the victims. She needs agents who can infiltrate the ring and destroy it from within.
+1. **The Slave Ring** – Thyra has discovered that Rurik's slave trading network is still operating under new management, and children are among the victims. She needs agents who can infiltrate the ring and destroy it from within.
 
-2. **The Gilded Cage's Secret** — One of Thyra's most trusted allies has been turned by the Morality Council and is feeding them information. Thyra must identify the traitor before her enemies have enough evidence to move against her.
+2. **The Gilded Cage's Secret** – One of Thyra's most trusted allies has been turned by the Morality Council and is feeding them information. Thyra must identify the traitor before her enemies have enough evidence to move against her.
 
-3. **The Noble's Proposal** — Lord Ingvar has proposed marriage, which would give Thyra legitimate noble status but could also make her a target for his political enemies. The decision is complicated by the arrival of a figure from her past who offers a very different kind of future.
+3. **The Noble's Proposal** – Lord Ingvar has proposed marriage, which would give Thyra legitimate noble status but could also make her a target for his political enemies. The decision is complicated by the arrival of a figure from her past who offers a very different kind of future.

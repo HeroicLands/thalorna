@@ -597,12 +597,12 @@ Ambitious young heralds who see him as a barrier to their own advancement.
 
 ## Plot Hooks
 
-1. **The Herald's Dilemma** — Sahînór faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Herald's Dilemma** – Sahînór faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 
-2. **Old Grudges** — Ambitious young heralds who see him as a barrier to their own advancement. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** – Ambitious young heralds who see him as a barrier to their own advancement. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** — Something from Sahînór's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past** – Something from Sahînór's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds** — Political changes in Heliónis threaten to upend the social order that Sahînór depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** – Political changes in Heliónis threaten to upend the social order that Sahînór depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** — A chance encounter offers Sahînór the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** – A chance encounter offers Sahînór the possibility of advancement beyond anything he has dared hope for – but the price may be higher than it first appears.

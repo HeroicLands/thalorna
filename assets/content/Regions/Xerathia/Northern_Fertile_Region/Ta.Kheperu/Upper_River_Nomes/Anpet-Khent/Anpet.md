@@ -24,7 +24,7 @@ Anpet is the capital of [[affiliation-nomeanptkh|the Nome of Anpet-Khent]] and t
 
 ## See Also
 
-- [[affiliation-nomeanptkh|The Nome of Anpet-Khent]] — Parent nome
-- [[affiliation-uperivrnms|The Upper River Nomes]] — Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[affiliation-anubis|Ánubís]] — Patron cult
+- [[affiliation-nomeanptkh|The Nome of Anpet-Khent]] – Parent nome
+- [[affiliation-uperivrnms|The Upper River Nomes]] – Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview
+- [[affiliation-anubis|Ánubís]] – Patron cult

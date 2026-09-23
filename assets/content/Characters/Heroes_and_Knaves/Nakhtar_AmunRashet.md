@@ -620,13 +620,13 @@ Now fifty-eight, Nakhtar has entered the last years of his working life, though 
 
 ### Personality
 
-Nakhtar is a dignified, reserved man given to thoughtful pauses. He speaks rarely but with precision, every word weighted with intention. His long decades of observation have made him philosophical, prone to seeing in the patterns of reed and water the deeper truths of existence—resilience, adaptation, the beauty of form serving function. He has developed a wry, subtle humor that manifests more in knowing looks than in laughter, and his students learn to recognize the gentle mockery in his silences when they suggest approaches he views as inferior.
+Nakhtar is a dignified, reserved man given to thoughtful pauses. He speaks rarely but with precision, every word weighted with intention. His long decades of observation have made him philosophical, prone to seeing in the patterns of reed and water the deeper truths of existence – resilience, adaptation, the beauty of form serving function. He has developed a wry, subtle humor that manifests more in knowing looks than in laughter, and his students learn to recognize the gentle mockery in his silences when they suggest approaches he views as inferior.
 
 Despite his masterful skill, Nakhtar remains humble about his reputation, often deflecting praise by insisting that he is merely a steward of knowledge passed down through generations. The modesty rests on a deep confidence: he knows he is among the greatest craftsmen of his age, and that knowledge has freed him from the need to defend or prove himself. His one passion these days is passing his knowledge to younger craftsmen, and he takes great pains to see that his most promising students develop the philosophical understanding that turns good work into great craftsmanship, and not technical skill alone.
 
 ### Motivation
 
-Nakhtar's primary motivation is the preservation of craft excellence in an age increasingly driven by economy and speed. He is determined that the knowledge accumulated by his family and refined through his own decades of practice should not perish with him. He sees each apprentice he teaches, each young thatcher he mentors, as a vessel carrying forward the legacy of generations. At the same time, he wrestles with the question of legacy itself—will the new methods of his students ultimately prove superior to the traditions he has spent a lifetime perfecting? This question troubles him more than he would admit to most.
+Nakhtar's primary motivation is the preservation of craft excellence in an age increasingly driven by economy and speed. He is determined that the knowledge accumulated by his family and refined through his own decades of practice should not perish with him. He sees each apprentice he teaches, each young thatcher he mentors, as a vessel carrying forward the legacy of generations. At the same time, he wrestles with the question of legacy itself – will the new methods of his students ultimately prove superior to the traditions he has spent a lifetime perfecting? This question troubles him more than he would admit to most.
 
 ### Strengths
 
@@ -644,7 +644,7 @@ Nakhtar's primary motivation is the preservation of craft excellence in an age i
 
 - **Resistance to Innovation**: Nakhtar's respect for tradition sometimes calcifies into an inability to accept that newer techniques might offer real advantages in certain contexts. This has caused some clients to seek younger thatchers for projects where speed or cost is a consideration.
 
-- **Limited Physical Capacity for Heavy Labor**: As he ages, Nakhtar finds himself unable to undertake the most demanding jobs—those involving extremely steep pitches, complex multi-level roofs, or projects that demand extended periods of continuous labor. He must now decline work or hire younger craftsmen to handle the physically taxing components, diminishing his autonomy.
+- **Limited Physical Capacity for Heavy Labor**: As he ages, Nakhtar finds himself unable to undertake the most demanding jobs – those involving extremely steep pitches, complex multi-level roofs, or projects that demand extended periods of continuous labor. He must now decline work or hire younger craftsmen to handle the physically taxing components, diminishing his autonomy.
 
 - **Economic Vulnerability**: His insistence on traditional, time-intensive methods means his rates are substantially higher than competitors. As economic pressure increases among property owners, fewer can afford his services, gradually eroding his opportunities and income.
 
@@ -672,7 +672,7 @@ Nakhtar's primary motivation is the preservation of craft excellence in an age i
 
 ## Plot Hooks
 
-1. **The Temple's Silent Roof**: Nakhtar is commissioned for what should be a routine maintenance project on the great Temple of Íšét, but he discovers subtle damage that suggests the structure has been subjected to forces far beyond normal settling or wear. Investigation reveals that someone has been deliberately weakening the roof from below, and discovering why—and for what purpose—becomes a matter of personal honor and concern for the hundreds of pilgrims who gather beneath that roof.
+1. **The Temple's Silent Roof**: Nakhtar is commissioned for what should be a routine maintenance project on the great Temple of Íšét, but he discovers subtle damage that suggests the structure has been subjected to forces far beyond normal settling or wear. Investigation reveals that someone has been deliberately weakening the roof from below, and discovering why – and for what purpose – becomes a matter of personal honor and concern for the hundreds of pilgrims who gather beneath that roof.
 
 2. **The Apprentice's Betrayal and Redemption**: One of Nakhtar's most talented students, a young man named **Amasi**, secretly takes a lucrative contract with a wealthy merchant known for cutting corners on quality. When one of Amasi's roofs fails catastrophically in a storm, injuring multiple people, Nakhtar can distance himself from the scandal or risk his own reputation by publicly supporting his student through the consequences.
 
@@ -680,4 +680,4 @@ Nakhtar's primary motivation is the preservation of craft excellence in an age i
 
 4. **The Trade War Over Resources**: A conflict between different reed suppliers in the delta threatens the supply of reed that has served Nakhtar for decades. When one supplier allies with younger thatchers to monopolize the finest reed stock, Nakhtar is drawn into the politics he has always avoided, and may have to take a side in a trade dispute to preserve his craft.
 
-5. **The Final Masterwork**: A distant noble, hearing of Nakhtar's age and skill, offers him an extraordinary commission—to design and oversee the construction of the most ambitious thatched structure ever attempted, a hybrid temple-palace that would represent the apex of the art form. The project would occupy the last years of his life and cement his legacy forever—but success is not guaranteed, and failure could tarnish his reputation, while refusal means accepting that his greatest work has already been created.
+5. **The Final Masterwork**: A distant noble, hearing of Nakhtar's age and skill, offers him an extraordinary commission – to design and oversee the construction of the most ambitious thatched structure ever attempted, a hybrid temple-palace that would represent the apex of the art form. The project would occupy the last years of his life and cement his legacy forever – but success is not guaranteed, and failure could tarnish his reputation, while refusal means accepting that his greatest work has already been created.

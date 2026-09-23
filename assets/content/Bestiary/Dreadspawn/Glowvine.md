@@ -257,7 +257,7 @@ sohl:
 
 ![[glowvine|Glowvine]]{float: top-left}
 
-Light blooms in the darkness—soft, beautiful, almost inviting. A pulse of bioluminescence traces along what you thought was a vine hanging from the canopy above. Except there are vines everywhere, dozens of them, and they’re all moving toward you with deliberate slowness. Gem-like nodes of light pulse along their length, each one mesmerizing to watch. The light is hypnotic, entrancing, and you don’t quite notice when the nearest vine is close enough to touch until it does—and then it pulls tight.
+Light blooms in the darkness – soft, beautiful, almost inviting. A pulse of bioluminescence traces along what you thought was a vine hanging from the canopy above. Except there are vines everywhere, dozens of them, and they’re all moving toward you with deliberate slowness. Gem-like nodes of light pulse along their length, each one mesmerizing to watch. The light is hypnotic, entrancing, and you don’t quite notice when the nearest vine is close enough to touch until it does – and then it pulls tight.
 
 # Dossier {#dossier}
 
@@ -265,11 +265,11 @@ Glowvines are predatory plants corrupted by dark magic, creatures that use beaut
 
 ## Presentation
 
-The Glowvine appears as a mass of animated tendrils, each one two to four feet long and covered in small but sharp thorns. The entire structure is vaguely circular, with tendrils extending in all directions from a central mass. The tendrils are dark green fading to black, but bioluminescent beads of light—gem-like and mesmerizing—pulse along their length in hypnotic patterns. These lights range in color from green to blue to a sickly purple. The overall effect is beautiful and deeply wrong simultaneously. Movement is smooth and sinuous when unthreatening but becomes rapid and violent when striking. The plant constantly exudes a faint stench of rot mixed with something sweet and floral.
+The Glowvine appears as a mass of animated tendrils, each one two to four feet long and covered in small but sharp thorns. The entire structure is vaguely circular, with tendrils extending in all directions from a central mass. The tendrils are dark green fading to black, but bioluminescent beads of light – gem-like and mesmerizing – pulse along their length in hypnotic patterns. These lights range in color from green to blue to a sickly purple. The overall effect is beautiful and deeply wrong simultaneously. Movement is smooth and sinuous when unthreatening but becomes rapid and violent when striking. The plant constantly exudes a faint stench of rot mixed with something sweet and floral.
 
 ## Key Behaviors
 
-The Glowvine is rooted or semi-rooted in place, moving through writhing motion rather than locomotion. It dwells in forest canopies, cave ceilings, or dense undergrowth where its bioluminescence provides maximum advantage for ambush hunting. The creature is patient, remaining still for extended periods while its glowing tendrils dangle like lures. When prey—drawn by the hypnotic beauty of the light—draws close, the vines strike with sudden violence. The creature shows no interest in hunting large prey; it specializes in small creatures, insects, and small animals, but it will attempt to ensnare humanoids if they come within reach. It appears to be slowly mobile, capable of moving from one location to another over days and weeks, seeking better hunting positions.
+The Glowvine is rooted or semi-rooted in place, moving through writhing motion rather than locomotion. It dwells in forest canopies, cave ceilings, or dense undergrowth where its bioluminescence provides maximum advantage for ambush hunting. The creature is patient, remaining still for extended periods while its glowing tendrils dangle like lures. When prey – drawn by the hypnotic beauty of the light – draws close, the vines strike with sudden violence. The creature shows no interest in hunting large prey; it specializes in small creatures, insects, and small animals, but it will attempt to ensnare humanoids if they come within reach. It appears to be slowly mobile, capable of moving from one location to another over days and weeks, seeking better hunting positions.
 
 ## Combat Strategy
 
@@ -309,7 +309,7 @@ When growing in dark environments with adequate moisture, the Glowvine slowly re
 
 ## Additional Information
 
-Fire is highly effective against Glowvines, as it destroys the plant structure and halts regeneration. Sustained bright light can drive the creature away or make it dormant. The spores released are not inherently lethal but are disorienting and can mask the creature’s position. Creating wind or air circulation can disperse spores and make them less effective. Glowvines show no interest in moving from a good hunting position—they are static traps rather than mobile predators.
+Fire is highly effective against Glowvines, as it destroys the plant structure and halts regeneration. Sustained bright light can drive the creature away or make it dormant. The spores released are not inherently lethal but are disorienting and can mask the creature’s position. Creating wind or air circulation can disperse spores and make them less effective. Glowvines show no interest in moving from a good hunting position – they are static traps rather than mobile predators.
 
 ## Attributes
 

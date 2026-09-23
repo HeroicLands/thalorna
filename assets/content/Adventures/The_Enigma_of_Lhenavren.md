@@ -19,11 +19,11 @@ data:
 packFolder: adventures
 ---
 
-Ancient ruins in the borderlands hold secrets from before human memory, guarded by the reclusive [[skill-aelendlng|Áelendi]] tribes and their [[lore-flksinale|Sinalë]] allies. The artifacts within could reshape Provenzian power—if the party can uncover them without awakening what guards them.
+Ancient ruins in the borderlands hold secrets from before human memory, guarded by the reclusive [[skill-aelendlng|Áelendi]] tribes and their [[lore-flksinale|Sinalë]] allies. The artifacts within could reshape Provenzian power – if the party can uncover them without awakening what guards them.
 
 ## Overview
 
-Deep in the borderlands between [[place-provenzrgn|Provènzia Region]] and [[place-elavendre|Élavendre]], the crumbling ruins of Lhénavren stand—a sacred site shared between the [[affiliation-aelndntrbs|Áelendan Tribes]] (the reclusive human tribes who are the original people of Élavendre) and the [[lore-flksinale|Sinalë]] who dwell in the hidden forests nearby. Lhénavren predates any Provenzian or even Élavendren settlement by centuries, and its purpose remains a mystery to outsiders. Local legends speak of artifacts of incredible power left behind when the Sinalë withdrew deeper into their enclaves. The party is contracted to explore the ruins, document findings, and retrieve anything of value. But the Áelendan have guarded this place for generations, and the Sinalë did not leave their creations unprotected.
+Deep in the borderlands between [[place-provenzrgn|Provènzia Region]] and [[place-elavendre|Élavendre]], the crumbling ruins of Lhénavren stand – a sacred site shared between the [[affiliation-aelndntrbs|Áelendan Tribes]] (the reclusive human tribes who are the original people of Élavendre) and the [[lore-flksinale|Sinalë]] who dwell in the hidden forests nearby. Lhénavren predates any Provenzian or even Élavendren settlement by centuries, and its purpose remains a mystery to outsiders. Local legends speak of artifacts of incredible power left behind when the Sinalë withdrew deeper into their enclaves. The party is contracted to explore the ruins, document findings, and retrieve anything of value. But the Áelendan have guarded this place for generations, and the Sinalë did not leave their creations unprotected.
 
 ## Stage One: The Commission & Preparation
 
@@ -56,7 +56,7 @@ The party travels to Lhénavren, facing challenges both natural and political:
 - Difficult terrain: mountain passes, dense forest, cursed valleys
 - Encounters with Áelendan scouts who challenge, warn, or outright attack trespassers
 - Environmental hazards: cave-ins, unstable cliffs, magical phenomena
-- Warnings from the land itself—visions, whispers, time distortions
+- Warnings from the land itself – visions, whispers, time distortions
 - The Áelendan may attempt to misdirect, delay, or frighten the party into turning back
 - If the party earns Áelendan trust (a difficult feat), they may receive cryptic guidance instead
 
@@ -64,9 +64,9 @@ The party travels to Lhénavren, facing challenges both natural and political:
 
 Upon arrival at Lhénavren, the party discovers:
 
-- Buildings of elegant, impossible architecture partially reclaimed by nature — clearly not built by human hands
+- Buildings of elegant, impossible architecture partially reclaimed by nature – clearly not built by human hands
 - Inscriptions in an ancient script (decipherable with effort or magical aid, possibly requiring Áelendi or Sinalë knowledge)
-- Evidence of deliberate sealing—doorways blocked, entrances barred
+- Evidence of deliberate sealing – doorways blocked, entrances barred
 - Lingering magical wards that react to intrusion
 - Signs that the Áelendan maintain the outer grounds as a sacred precinct
 
@@ -91,7 +91,7 @@ The party must navigate the ruins, overcome obstacles, and locate the artifact(s
 
 - The Sinalë built Lhénavren in partnership with the Áelendan, not as conquerors
 - They withdrew deliberately, entrusting the site's protection to the Áelendan tribes
-- An ancient threat prompted the withdrawal—a threat that may still be relevant
+- An ancient threat prompted the withdrawal – a threat that may still be relevant
 - The artifact sought carries consequences: power and danger in equal measure
 
 ## Stage Five: Aftermath & Complications

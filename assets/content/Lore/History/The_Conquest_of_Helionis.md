@@ -33,7 +33,7 @@ event:
     western Ankaris has seen, and the Republic answers with the Dragon Riders, near whom a working
     turns back on the one who made it. In the year the last city falls the Senate reaches into the
     Panepistemium, extracts its College of Arcane Philosophy,
-    and places it under a magistracy — the Praefectura Arcana — which holds the Republic's arcanists
+    and places it under a magistracy – the Praefectura Arcana – which holds the Republic's arcanists
     as state property, teaches nothing, publishes nothing and decides nothing.
   standing: attested
   names:
@@ -100,9 +100,9 @@ The Vylarian Republic turned its legions against the Helionite city-states in 33
 last of them twenty-three years later. The city-states fought back with the most devastating weapon at their disposal: their mages. Desperate to resist
 superior conventional forces, they unleashed sorceries that shattered formations, poisoned the land
 and killed on a scale that swords could not. Some of the most powerful became mage-warlords their own
-city-states could not fully control. The [[affiliation-panepistmm|Epistemium]], which had theorised
+city-states could not fully control. The [[affiliation-panepistmm|Epistemium]], which had theorized
 about the ethical limits of arcane power for generations, proved helpless to stop its own members
-weaponising the knowledge it had helped systematise.
+weaponizing the knowledge it had helped systematize.
 
 The Republic's answer was the **Dragon Riders**, near whom spells misfired, wards collapsed and
 arcane energy turned back on its wielder. The mage-generals who had shattered legions with a word

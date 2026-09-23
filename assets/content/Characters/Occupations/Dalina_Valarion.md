@@ -580,7 +580,7 @@ A fine leader of a crew, speaks well and plainly, skilled in the stowing and han
 
 ## Social
 
-Dálina holds her licence from the Pilots' Guild of Valthári, chartered under the Magnum Collegium, which examines every pilot who takes a ship in over the port's bar.
+Dálina holds her license from the Pilots' Guild of Valthári, chartered under the Magnum Collegium, which examines every pilot who takes a ship in over the port's bar.
 
 ## Companions
 
@@ -594,10 +594,10 @@ The ship-owners' council of Valthári, which sets the crews' share and has heard
 
 ## Plot Hooks
 
-1. **The Storm Season** — A merchant house has offered a charter that would clear her house's debts, for a run to Heliónis in the month the pilots of Valthári do not sail.
+1. **The Storm Season** – A merchant house has offered a charter that would clear her house's debts, for a run to Heliónis in the month the pilots of Valthári do not sail.
 
-2. **The Strike** — The seamen of Valthári have refused to sign until the owners raise the share, and the owners' council has asked Dálina, whose crew is loyal, to sail and break it.
+2. **The Strike** – The seamen of Valthári have refused to sign until the owners raise the share, and the owners' council has asked Dálina, whose crew is loyal, to sail and break it.
 
-3. **The Debt** — Her father has borrowed against the ship to hold the lordship, and the lender is a house on the owners' council.
+3. **The Debt** – Her father has borrowed against the ship to hold the lordship, and the lender is a house on the owners' council.
 
-4. **The Cargo** — A charter's manifest says wine, and the casks are the wrong weight. Dálina is at sea, and the port she is bound for hangs smugglers.
+4. **The Cargo** – A charter's manifest says wine, and the casks are the wrong weight. Dálina is at sea, and the port she is bound for hangs smugglers.

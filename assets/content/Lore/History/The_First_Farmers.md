@@ -2,7 +2,7 @@
 tags:
   - history
   - spine
-description: "Within a few centuries of their arrival the Khazári teach the peoples nearest their first holds to farm — water-works, drainage, terracing and the granary — because a hold needs a larder, and human civilization is what the knowledge became."
+description: "Within a few centuries of their arrival the Khazári teach the peoples nearest their first holds to farm – water-works, drainage, terracing and the granary – because a hold needs a larder, and human civilization is what the knowledge became."
 type: lore
 subType: history
 name:
@@ -24,7 +24,7 @@ event:
     - lore-pelwarpepl
     - lore-longnhrtnc
   summary: >-
-    In the upland country around their first holds the Khazári teach the nearest peoples to farm —
+    In the upland country around their first holds the Khazári teach the nearest peoples to farm –
     water-works, drainage, terracing, seed-storage, the granary. They are building a larder, not a
     civilization. The knowledge runs downhill into the river valleys over the centuries that follow,
     and every human agriculture on Thalorna descends from it.
@@ -35,7 +35,7 @@ event:
     reach:
       - place: place-vardainvalleys
         how: >-
-          the one arrangement that never lapsed — the valley people still farm for the hold above
+          the one arrangement that never lapsed – the valley people still farm for the hold above
           them, on the schedule, and cannot say why they were taught to
         knowledge: unlinked
       - place: place-ankrscntnnt
@@ -60,7 +60,7 @@ event:
   accounts:
     - by: lore-flkkhazar
       says: >-
-        What was handed over was tally, mark, measure and oath — the minimum a bound labourer needs.
+        What was handed over was tally, mark, measure and oath – the minimum a bound laborer needs.
         Nothing was given that mattered, and the question of what humanity owes us is closed.
       agrees: partly
       withholds: what the holds' own records say, which no human has read
@@ -80,16 +80,16 @@ event:
 ---
 
 **The Deep Folk could not feed themselves.** A hold grows nothing and cannot be supplied from outside
-— a people dependent on an outside larder can be starved by whoever holds the road, which the
+– a people dependent on an outside larder can be starved by whoever holds the road, which the
 [[lore-flkkhazar|Khazári]] have never been willing to accept. They arrived into a world whose humans
 were hunter-gatherers, and hunter-gatherers cannot provision a hold.
 
 So in the uplands around their first holds they taught the nearest peoples to farm: water-works,
-drainage, terracing, seed-storage, the granary — precisely the crafts the Khazári are best at, and
+drainage, terracing, seed-storage, the granary – precisely the crafts the Khazári are best at, and
 precisely what turns thin mountain ground into a food supply.
 
 Nothing about this was a gift and nothing about it was intended as an uplift. They were building a
-larder. They would have done the same for any creature that could be taught to hold a plough.
+larder. They would have done the same for any creature that could be taught to hold a plow.
 
 What those people subsequently became was everything. The knowledge did not stay in the hills: it ran
 downhill and outward over centuries, into the great river valleys where soil and water made it

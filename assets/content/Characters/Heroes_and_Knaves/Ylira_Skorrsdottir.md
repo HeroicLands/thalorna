@@ -565,7 +565,7 @@ sohl:
 
 ![[ylrskrsdtr|Ylíra Skorrsdottir]]{float: top-left}
 
-Ylíra Skorrsdottir is a lean, wiry young woman with the pale skin and blonde hair of the [[place-nordheim|Nordheim]] coast. Her blue eyes carry an intensity that unnerves strangers — not aggressive, but watchful, like a hawk assessing whether something is prey or threat. Her scant frame belies a ferocious strength; she is built for speed and endurance rather than brute force, with the compact muscle of a lifelong fighter. A scar crosses her right hand where a blade once found its mark. She wears practical clothing layered with mail and plate — a byrnie, half-helm, and vambraces — and carries a warhammer and roundshield with the easy familiarity of extensions of her own body.
+Ylíra Skorrsdottir is a lean, wiry young woman with the pale skin and blonde hair of the [[place-nordheim|Nordheim]] coast. Her blue eyes carry an intensity that unnerves strangers – not aggressive, but watchful, like a hawk assessing whether something is prey or threat. Her scant frame belies a ferocious strength; she is built for speed and endurance rather than brute force, with the compact muscle of a lifelong fighter. A scar crosses her right hand where a blade once found its mark. She wears practical clothing layered with mail and plate – a byrnie, half-helm, and vambraces – and carries a warhammer and roundshield with the easy familiarity of extensions of her own body.
 
 # Dossier {#dossier}
 
@@ -573,7 +573,7 @@ Ylíra Skorrsdottir is a lean, wiry young woman with the pale skin and blonde ha
 
 ### Origin
 
-Ylíra was born on the storm-battered coast of Nordheim, the daughter of a weaponcrafter father and a mother captured in a coastal raid. This mixed heritage — half Nordheimer, half from the conquered peoples of the coast — left her caught between two worlds. She was raised in the harsh Nordheim traditions, worshipping the old gods, learning to fight before she could read, and enduring the casual cruelty of a culture that valued strength above all else.
+Ylíra was born on the storm-battered coast of Nordheim, the daughter of a weaponcrafter father and a mother captured in a coastal raid. This mixed heritage – half Nordheimer, half from the conquered peoples of the coast – left her caught between two worlds. She was raised in the harsh Nordheim traditions, worshipping the old gods, learning to fight before she could read, and enduring the casual cruelty of a culture that valued strength above all else.
 
 ### Shieldmaiden
 
@@ -581,25 +581,25 @@ Ylíra became a shieldmaiden at fifteen, earning the title in the most direct wa
 
 ### The Breaking Point
 
-At twenty, while visiting a Nordheimer fortress town, Ylíra witnessed an act of brutality that shattered her faith in the warrior culture she had been raised in. The details she does not share, but the consequence was immediate — she killed one of the fortress garrison's men in a confrontation and was forced to flee. In the aftermath, she lost her faith in the old gods and stopped using her clan name, cutting ties with her heritage as completely as she could.
+At twenty, while visiting a Nordheimer fortress town, Ylíra witnessed an act of brutality that shattered her faith in the warrior culture she had been raised in. The details she does not share, but the consequence was immediate – she killed one of the fortress garrison's men in a confrontation and was forced to flee. In the aftermath, she lost her faith in the old gods and stopped using her clan name, cutting ties with her heritage as completely as she could.
 
 ### Adrift
 
-Since fleeing Nordheim, Ylíra has been adrift — a warrior without a clan, a believer without a faith, a fighter without a cause. She drifted south along the coast, taking mercenary work where she could find it, until she encountered the Tamzîr and signed on as additional muscle. She has been aboard for three years, and in that time she has found something she did not expect: people worth fighting for, even if she is not yet ready to admit it.
+Since fleeing Nordheim, Ylíra has been adrift – a warrior without a clan, a believer without a faith, a fighter without a cause. She drifted south along the coast, taking mercenary work where she could find it, until she encountered the Tamzîr and signed on as additional muscle. She has been aboard for three years, and in that time she has found something she did not expect: people worth fighting for, even if she is not yet ready to admit it.
 
 ## Psyche
 
 ### Personality
 
-Ylíra is quiet, intense, and deeply private. She speaks sparingly and acts decisively. She has a dry, dark sense of humor that emerges rarely and without warning. She is uncomfortable with emotion — both her own and others' — and tends to withdraw when conversations become personal. In combat, she is transformed: focused, lethal, and possessed of a controlled fury that makes her one of the most dangerous fighters aboard the Tamzîr.
+Ylíra is quiet, intense, and deeply private. She speaks sparingly and acts decisively. She has a dry, dark sense of humor that emerges rarely and without warning. She is uncomfortable with emotion – both her own and others' – and tends to withdraw when conversations become personal. In combat, she is transformed: focused, lethal, and possessed of a controlled fury that makes her one of the most dangerous fighters aboard the Tamzîr.
 
 ### Motivation
 
-Ylíra is searching for something to replace what she lost — a code, a purpose, a reason to fight that does not leave her feeling hollow afterward. The Tamzîr's crew has become, almost against her will, the closest thing she has to a community. She is not ready to call them family, but she would die to protect them, and that contradiction occupies much of her private thought.
+Ylíra is searching for something to replace what she lost – a code, a purpose, a reason to fight that does not leave her feeling hollow afterward. The Tamzîr's crew has become, almost against her will, the closest thing she has to a community. She is not ready to call them family, but she would die to protect them, and that contradiction occupies much of her private thought.
 
 ### Strengths
 
-Ylíra is a superb fighter — arguably the best pure warrior aboard the Tamzîr, with a melee skill that borders on the exceptional. She is also an excellent archer, a skilled metalworker and weaponcrafter, and possesses the wilderness survival skills of someone raised on a harsh frontier. Her awareness and perception are acute, making her an invaluable watchkeeper.
+Ylíra is a superb fighter – arguably the best pure warrior aboard the Tamzîr, with a melee skill that borders on the exceptional. She is also an excellent archer, a skilled metalworker and weaponcrafter, and possesses the wilderness survival skills of someone raised on a harsh frontier. Her awareness and perception are acute, making her an invaluable watchkeeper.
 
 ### Weaknesses
 
@@ -617,14 +617,14 @@ She is wanted in a Nordheimer fortress town for killing a garrison soldier. The 
 
 ### Affiliations
 
-Crewmember of the **Tamzîr**. She has formed a particular bond with **[[being-slvrvlskyr|Sélvara Válskyr]]**, recognizing in the first mate a kindred spirit — another woman warrior who has built a life on her own terms. She respects **Captain Eshârum Tarûzî** but maintains a careful distance.
+Crewmember of the **Tamzîr**. She has formed a particular bond with **[[being-slvrvlskyr|Sélvara Válskyr]]**, recognizing in the first mate a kindred spirit – another woman warrior who has built a life on her own terms. She respects **Captain Eshârum Tarûzî** but maintains a careful distance.
 
 ## Plot Hooks
 
 1. **Blood-Price**: A Nordheimer longship arrives in a port where the Tamzîr is docked, and among its crew is a kinsman of the man Ylíra killed. Nordheim custom demands blood-price or combat. Ylíra must decide whether to face her past, flee again, or let the crew fight a battle that is hers alone.
 
-2. **The Old Gods Call**: Ylíra begins experiencing vivid dreams — visions she cannot explain and does not want. They carry the imagery of the Nordheim pantheon she has rejected, and they seem to be showing her something important. Whether this is genuine divine contact, suppressed trauma, or something connected to Cibella's arcane presence aboard the ship is unclear.
+2. **The Old Gods Call**: Ylíra begins experiencing vivid dreams – visions she cannot explain and does not want. They carry the imagery of the Nordheim pantheon she has rejected, and they seem to be showing her something important. Whether this is genuine divine contact, suppressed trauma, or something connected to Cibella's arcane presence aboard the ship is unclear.
 
-3. **The Weaponcrafter's Daughter**: Ylíra learns that her father has died and left his forge to her — along with debts, obligations, and a half-finished commission for a powerful Nordheimer jarl. Claiming the inheritance would mean returning to the life she fled. Abandoning it would mean losing the last connection to the parent who loved her unconditionally.
+3. **The Weaponcrafter's Daughter**: Ylíra learns that her father has died and left his forge to her – along with debts, obligations, and a half-finished commission for a powerful Nordheimer jarl. Claiming the inheritance would mean returning to the life she fled. Abandoning it would mean losing the last connection to the parent who loved her unconditionally.
 
 4. **Shield-Sister**: During a fierce battle, Ylíra saves Cibella's life and discovers that the young woman's erratic arcane abilities resonate with her own deep aura in unexpected ways. The experience suggests a connection between them that neither understands, and it may explain why the Ordo Arcanis is so desperate to recover their escaped subject.

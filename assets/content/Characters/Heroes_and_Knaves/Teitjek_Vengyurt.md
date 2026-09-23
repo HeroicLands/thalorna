@@ -12,7 +12,7 @@ name:
     - Iron Spear Piercing the Clouds
 shortcode: teitjekvngyrt
 description: >-
-  Vüshōk general of the Empire of Tānvür turned rebel — condemned for a
+  Vüshōk general of the Empire of Tānvür turned rebel – condemned for a
   disobedience that won the battle it defied, and now leading the revolt that
   condemnation made inevitable.
 type: being
@@ -61,5 +61,5 @@ that to stand.
 
 # See Also
 
-- [[lore-ttjkvngyrt|Tëitjëk Vëngyürt]] — the rebellion as the Empire records it
-- [[affiliation-tanvurempr|Empire of Tānvür]] — the authority he broke with
+- [[lore-ttjkvngyrt|Tëitjëk Vëngyürt]] – the rebellion as the Empire records it
+- [[affiliation-tanvurempr|Empire of Tānvür]] – the authority he broke with

@@ -324,7 +324,7 @@ sohl:
 
 ![[thndrtln|Thundertalon]]{float: top-left}
 
-The sky darkens around it. What descends is magnificent and terrifying—an eagle the size of a great horse, wreathed in storm clouds and alive with crackling lightning. Its feathers are not feathers but tongues of lightning, each one glowing blue-white. Its talons are points of pure lightning, and its eyes burn with intelligence and predatory purpose. When it moves, the air itself screams, and thunder follows its passage. The charge in the air makes hair stand on end and forces breath to come in shallow gasps.
+The sky darkens around it. What descends is magnificent and terrifying – an eagle the size of a great horse, wreathed in storm clouds and alive with crackling lightning. Its feathers are not feathers but tongues of lightning, each one glowing blue-white. Its talons are points of pure lightning, and its eyes burn with intelligence and predatory purpose. When it moves, the air itself screams, and thunder follows its passage. The charge in the air makes hair stand on end and forces breath to come in shallow gasps.
 
 # Dossier {#dossier}
 

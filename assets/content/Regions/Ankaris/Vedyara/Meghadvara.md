@@ -3,7 +3,7 @@ tags:
   - pass
   - caravan
   - inland
-description: "The storm-door — the westernmost crossing of the wall, held by no fortress and no toll, blessed from a shrine-tower of the Svapnasāri-samāja, and shut from below by the monsoon."
+description: "The storm-door – the westernmost crossing of the wall, held by no fortress and no toll, blessed from a shrine-tower of the Svapnasāri-samāja, and shut from below by the monsoon."
 type: place
 subType: feature
 data:

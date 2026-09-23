@@ -602,7 +602,7 @@ Gahiji stands 6'2" tall with a heavy build. He has dark skin, dark hair, and dar
 
 # Dossier {#dossier}
 
-Gahiji wa Fénjara is a renowned **tracker and hunter** from the Fénjara tribe of the **[[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]**, whose people live deep within the most remote parts of the Xerathian jungles. The Nyáluba are famous for their unparalleled tracking skills, often said to be able to follow prey across both the physical and spirit realms. Gahiji grew up surrounded by dense jungle and spiritual traditions, learning early on how to read the signs of the land and the messages of the spirits. His family line was blessed with the ability to “track the unseen”—a mystical sense that allowed them to follow spiritual disturbances or beings.
+Gahiji wa Fénjara is a renowned **tracker and hunter** from the Fénjara tribe of the **[[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]**, whose people live deep within the most remote parts of the Xerathian jungles. The Nyáluba are famous for their unparalleled tracking skills, often said to be able to follow prey across both the physical and spirit realms. Gahiji grew up surrounded by dense jungle and spiritual traditions, learning early on how to read the signs of the land and the messages of the spirits. His family line was blessed with the ability to “track the unseen” – a mystical sense that allowed them to follow spiritual disturbances or beings.
 
 Gahiji's reputation spread far and wide when he tracked down and defeated a dangerous **spirit panther** that had been terrorizing his people. The panther was not a simple physical predator, but a spiritual creature capable of phasing between the spirit world and the material plane. Gahiji was able to pursue the creature through the use of his family’s secret rituals, tracking it through dreams and visions as well as through physical trails. This made him one of the most sought-after trackers in Xerathia.
 
@@ -651,7 +651,7 @@ Gahiji is quiet, reserved, and deeply in tune with the world around him. His cal
 
 2. **The Jungle’s Last Stand**:
 
-   A series of unnatural events—trees falling overnight, animals fleeing their habitats—suggest a deeper disturbance in the Xerathian jungles. Gahiji discovers that an ancient spirit, angered by the desecration of its sacred grounds, is punishing the land. As the tribes face dwindling resources and increasing conflict, Gahiji must convince rival tribes to unify in an intricate ritual to appease the spirit. Failure could lead to the spirit unleashing catastrophic floods across the jungle.
+   A series of unnatural events – trees falling overnight, animals fleeing their habitats – suggest a deeper disturbance in the Xerathian jungles. Gahiji discovers that an ancient spirit, angered by the desecration of its sacred grounds, is punishing the land. As the tribes face dwindling resources and increasing conflict, Gahiji must convince rival tribes to unify in an intricate ritual to appease the spirit. Failure could lead to the spirit unleashing catastrophic floods across the jungle.
 
 3. **The Panther’s Return**:
 

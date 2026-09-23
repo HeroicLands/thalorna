@@ -318,11 +318,11 @@ sohl:
 
 ![[fireflit|Fireflit]]{float: top-left}
 
-A spark catches your eye, bright as a meteor. What you see is smaller than your hand—a creature of pure flame shaped vaguely like a dragonfly or fairy, with wings that beat so fast they blur into solid patterns of light. It zips through the air with startling speed, leaving a trail of sparks and heat in its wake. The sound of it is like a crackling fire and a high-pitched keening combined. If it lingers, you can feel the heat on your skin; it seems to generate warmth entirely out of proportion to its size.
+A spark catches your eye, bright as a meteor. What you see is smaller than your hand – a creature of pure flame shaped vaguely like a dragonfly or fairy, with wings that beat so fast they blur into solid patterns of light. It zips through the air with startling speed, leaving a trail of sparks and heat in its wake. The sound of it is like a crackling fire and a high-pitched keening combined. If it lingers, you can feel the heat on your skin; it seems to generate warmth entirely out of proportion to its size.
 
 # Dossier {#dossier}
 
-Fireflits are small fire elementals, quick and clever, often acting as scouts, messengers, or servants for larger entities. They are not mindless—they play tricks, they remember faces, and they show preference for certain individuals. Some Fireflits are bound into service; others are wild and roam as they wish. A single Fireflit is rarely a serious threat but can be extraordinarily annoying. A swarm of them is dangerous. They are attracted to excitement, chaos, and sources of flame, and they seem to take delight in mischief and small acts of destruction.
+Fireflits are small fire elementals, quick and clever, often acting as scouts, messengers, or servants for larger entities. They are not mindless – they play tricks, they remember faces, and they show preference for certain individuals. Some Fireflits are bound into service; others are wild and roam as they wish. A single Fireflit is rarely a serious threat but can be extraordinarily annoying. A swarm of them is dangerous. They are attracted to excitement, chaos, and sources of flame, and they seem to take delight in mischief and small acts of destruction.
 
 ## Presentation
 

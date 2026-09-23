@@ -559,7 +559,7 @@ Pâtûri Lamûshî is a 50-year-old woman who stands 5'9" tall and is solidly bu
 
 Pâtûri Lamûshî is a cook of Azhûn, the port city at the mouth of the Alz in Harad, a Haradian freewoman of a guild family who is head cook to one of the factors' houses that rule the city.
 
-Pâtûri came up through the kitchens of Azhûn from scullery to spit to the head of the table, and she has cooked for Kheperi captains, Vylarian envoys and the whole of the House of Factors at a sitting. For eleven years she has kept the kitchen of a factor's house on the harbour, with a staff of six under her and the household's whole name for hospitality in her hands. A Haradian house does its business over its table, and a factor who feeds a Kheperi captain badly loses the cargo before the sweet is served. Her honeyed pastries are known across the harbour, and so is her temper; she has driven out two kitchen hands this year for a sauce that was nearly right.
+Pâtûri came up through the kitchens of Azhûn from scullery to spit to the head of the table, and she has cooked for Kheperi captains, Vylarian envoys and the whole of the House of Factors at a sitting. For eleven years she has kept the kitchen of a factor's house on the harbor, with a staff of six under her and the household's whole name for hospitality in her hands. A Haradian house does its business over its table, and a factor who feeds a Kheperi captain badly loses the cargo before the sweet is served. Her honeyed pastries are known across the harbor, and so is her temper; she has driven out two kitchen hands this year for a sauce that was nearly right.
 
 ## Psyche
 
@@ -591,10 +591,10 @@ The house's steward, who holds the purse she cooks from and has never forgiven h
 
 ## Plot Hooks
 
-1. **The Captain's Table** — A Kheperi captain is to dine at the house on the night the season's cargo is settled, and the steward has cut the kitchen's silver by half. The captain's cook has told Pâtûri which dish would give offence.
+1. **The Captain's Table** – A Kheperi captain is to dine at the house on the night the season's cargo is settled, and the steward has cut the kitchen's silver by half. The captain's cook has told Pâtûri which dish would give offense.
 
-2. **The Dismissed Hand** — The rival house is serving Pâtûri's honeyed pastries, to the last spice, and its factor has begun inviting her patron's guests.
+2. **The Dismissed Hand** – The rival house is serving Pâtûri's honeyed pastries, to the last spice, and its factor has begun inviting her patron's guests.
 
-3. **The Sickness** — Three guests were ill after a dinner at the house, and the steward has said in the factor's hearing that the kitchen was the cause. Pâtûri knows every dish that left it, and one she did not cook.
+3. **The Sickness** – Three guests were ill after a dinner at the house, and the steward has said in the factor's hearing that the kitchen was the cause. Pâtûri knows every dish that left it, and one she did not cook.
 
-4. **The Empty Cellar** — The house's credit at the Bayt has been stopped, quietly, and the tradesmen have begun asking for coin. The factor has said nothing to his kitchen, and there is a feast in ten days.
+4. **The Empty Cellar** – The house's credit at the Bayt has been stopped, quietly, and the tradesmen have begun asking for coin. The factor has said nothing to his kitchen, and there is a feast in ten days.

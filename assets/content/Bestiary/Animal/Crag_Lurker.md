@@ -268,7 +268,7 @@ sohl:
 
 ![[crglrkr|Crag Lurker]]{float: top-left}
 
-Your eye passes over the rocky crevice without registering anything unusual—until movement betrays the illusion. What you thought was stone shifts, reveals itself to be carapace the color of weathered rock, textured like the living cliff face. The arachnid is enormous: the body as large as a horse, with eight legs extending ten feet or more. The movement is precise and economical, each limb placed with disturbing grace on sheer stone that should be impossible to traverse. Eight black eyes arranged in two rows gleam faintly when light catches them, and the mandibles—each as long as a human hand—click together softly, producing a sound like flint on stone.
+Your eye passes over the rocky crevice without registering anything unusual – until movement betrays the illusion. What you thought was stone shifts, reveals itself to be carapace the color of weathered rock, textured like the living cliff face. The arachnid is enormous: the body as large as a horse, with eight legs extending ten feet or more. The movement is precise and economical, each limb placed with disturbing grace on sheer stone that should be impossible to traverse. Eight black eyes arranged in two rows gleam faintly when light catches them, and the mandibles – each as long as a human hand – click together softly, producing a sound like flint on stone.
 
 # Dossier {#dossier}
 
@@ -276,11 +276,11 @@ The Crag Lurker is an arachnid of impressive size and terrifying adaptation: a c
 
 ## Presentation
 
-A massive arachnid with a body built for strength rather than speed. The cephalothorax is compact and heavily armored with hardened chitin. The abdomen is roughly spherical and somewhat pendulous, producing and storing the silk used for webs. The legs are long, jointed, and highly dexterous, each ending in multiple hooked claws for gripping stone. The entire carapace is gray or dull brown, with a texture that mimics weathered rock grain in color and in the relief of its surface. The coloration provides camouflage so effective that stationary Lurkers are nearly indistinguishable from their rocky surroundings. The head carries eight eyes arranged in two rows: four anterior eyes providing forward vision and four lateral eyes providing side vision. The eyes are initially unremarkable but gleam with reflection in dim light—this glow is sometimes the only way to distinguish a Lurker from surrounding stone. The mandibles are large, wickedly sharp, and slightly curved downward. The entire creature reeks of musk and pheromones that alert some species to its presence but which humans often fail to detect.
+A massive arachnid with a body built for strength rather than speed. The cephalothorax is compact and heavily armored with hardened chitin. The abdomen is roughly spherical and somewhat pendulous, producing and storing the silk used for webs. The legs are long, jointed, and highly dexterous, each ending in multiple hooked claws for gripping stone. The entire carapace is gray or dull brown, with a texture that mimics weathered rock grain in color and in the relief of its surface. The coloration provides camouflage so effective that stationary Lurkers are nearly indistinguishable from their rocky surroundings. The head carries eight eyes arranged in two rows: four anterior eyes providing forward vision and four lateral eyes providing side vision. The eyes are initially unremarkable but gleam with reflection in dim light – this glow is sometimes the only way to distinguish a Lurker from surrounding stone. The mandibles are large, wickedly sharp, and slightly curved downward. The entire creature reeks of musk and pheromones that alert some species to its presence but which humans often fail to detect.
 
 ## Key Behaviors
 
-Crag Lurkers are solitary and territorial, with each individual claiming a hunting range of five to twenty square miles of suitable terrain. They establish lairs in deep crevices or caves where they are protected from elements and where potential prey congregates. A Lurker maintains an extensive web network throughout its territory: anchor lines from cliff faces to natural features, funnel webs at known prey approach routes, and retreat webs near lairs. The Lurker's senses are primarily vibration-based and chemical—it can detect the slightest vibration traveling through stone or web, allowing it to know exactly where prey is located even in complete darkness. They are patient predators, remaining motionless in their lairs for days or weeks, responding to vibrations that indicate prey proximity. Once prey is detected, they attack decisively. They are known to consume prey items whole, storing them in their abdomens for slow digestion. They molt periodically—a vulnerable time when the new carapace is still soft. They rarely leave their territorial rocks, showing strong site fidelity.
+Crag Lurkers are solitary and territorial, with each individual claiming a hunting range of five to twenty square miles of suitable terrain. They establish lairs in deep crevices or caves where they are protected from elements and where potential prey congregates. A Lurker maintains an extensive web network throughout its territory: anchor lines from cliff faces to natural features, funnel webs at known prey approach routes, and retreat webs near lairs. The Lurker's senses are primarily vibration-based and chemical – it can detect the slightest vibration traveling through stone or web, allowing it to know exactly where prey is located even in complete darkness. They are patient predators, remaining motionless in their lairs for days or weeks, responding to vibrations that indicate prey proximity. Once prey is detected, they attack decisively. They are known to consume prey items whole, storing them in their abdomens for slow digestion. They molt periodically – a vulnerable time when the new carapace is still soft. They rarely leave their territorial rocks, showing strong site fidelity.
 
 ## Combat Strategy
 
@@ -294,7 +294,7 @@ The Lurker lunges forward with its mandibles open, attempting to bite and inject
 
 ### Web Entanglement
 
-Using specialized spinnerets, the Lurker produces silk webbing—either as already-constructed webs that prey blunders into, or as fresh webs sprayed directly onto prey. The webbing is tremendously strong and sticky, capable of immobilizing targets through sheer tensile strength. A target caught in web attempting to move often becomes more entangled. Cutting free requires sharp implements or great strength.
+Using specialized spinnerets, the Lurker produces silk webbing – either as already-constructed webs that prey blunders into, or as fresh webs sprayed directly onto prey. The webbing is tremendously strong and sticky, capable of immobilizing targets through sheer tensile strength. A target caught in web attempting to move often becomes more entangled. Cutting free requires sharp implements or great strength.
 
 ### Leg-based Grappling and Pinning
 
@@ -304,7 +304,7 @@ Using multiple legs simultaneously, the Lurker can pin an opponent, controlling 
 
 ### Web-based Sensory Network
 
-The Lurker's entire territory is laced with web lines that act as sensory organs. Vibrations traveling through these lines are felt by the Lurker with exquisite sensitivity—the creature can determine the location, size, and approximate speed of anything moving through its territory. Little of its stalking and hunting is wasted; the Lurker rarely encounters prey by accident.
+The Lurker's entire territory is laced with web lines that act as sensory organs. Vibrations traveling through these lines are felt by the Lurker with exquisite sensitivity – the creature can determine the location, size, and approximate speed of anything moving through its territory. Little of its stalking and hunting is wasted; the Lurker rarely encounters prey by accident.
 
 ### Neurotoxic Venom and Multiple Doses
 

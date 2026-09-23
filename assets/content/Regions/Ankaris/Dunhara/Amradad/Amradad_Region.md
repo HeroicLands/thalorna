@@ -1,7 +1,7 @@
 ---
 tags:
   - region
-description: The settled corner of the Dunhara — walled cities, their oases, and the caravan routes that link them, held by the Sultanate of Amradad.
+description: The settled corner of the Dunhara – walled cities, their oases, and the caravan routes that link them, held by the Sultanate of Amradad.
 name:
   full: Amradad Region
   aliases:
@@ -23,7 +23,7 @@ packFolder: amradad
 ## Overview
 
 The Amradad Region is the settled corner of the
-[[place-dunharargn|Dunhara Region]] — the territory of the
+[[place-dunharargn|Dunhara Region]] – the territory of the
 [[affiliation-sultntmrdd|Sultanate of Amradad]], and the only part of that vast desert
 held by a polity with fixed borders, a standing army and a court.
 
@@ -36,7 +36,7 @@ caravan routes that tie them together.
 The region occupies the northwestern reach of the Dunhara, where the desert
 meets the arid scrublands of the [[affiliation-cnfdrtnhrdnstts|Haradian]] hinterland.
 This is the northern margin of the desert, which takes a thin winter rain that
-the deep south never sees — enough to support dryland pastoralism and a narrow
+the deep south never sees – enough to support dryland pastoralism and a narrow
 belt of seasonal grass. Settlement follows water: the permanent oases, and the
 wadis that carry runoff after the winter rains.
 
@@ -44,8 +44,8 @@ wadis that carry runoff after the winter rains.
 
 The Amradi are of Dunhari descent and remain formally part of the wider
 Dunhari world, but centuries of settlement have carried them away from their
-nomadic cousins in culture and in politics. Their court culture is modelled on
-the older Āsháian urban civilisations, and they keep the
+nomadic cousins in culture and in politics. Their court culture is modeled on
+the older Āsháian urban civilizations, and they keep the
 [[affiliation-ashanpnthn|Āsháian Pantheon]] shared across the desert. The
 [[place-dunhardsrtrgn|tribes of the open desert]] regard them with a mixture of
 admiration for the wealth of the cities and disdain for the softness that
@@ -60,6 +60,6 @@ sheikhs.
 
 ## See Also
 
-- [[place-dunharargn|Dunhara Region]] — the parent region
-- [[affiliation-sultntmrdd|Sultanate of Amradad]] — the realm that holds this region
-- [[place-dunhardsrtrgn|Dunhara Desert Region]] — the open desert beyond the cities
+- [[place-dunharargn|Dunhara Region]] – the parent region
+- [[affiliation-sultntmrdd|Sultanate of Amradad]] – the realm that holds this region
+- [[place-dunhardsrtrgn|Dunhara Desert Region]] – the open desert beyond the cities

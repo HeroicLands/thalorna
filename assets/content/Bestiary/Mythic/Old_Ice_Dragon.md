@@ -476,7 +476,7 @@ sohl:
 
 # Appearance {#appearance}
 
-The cold reaches you before anything else—an absolute, final, suffocating cold that comes before even the notion of suffering, and your thoughts scatter under it. What hovers above the glacier is not a creature of flesh and scales but an incarnation of winter itself, vast beyond measure—perhaps forty feet from snout to tail, with wings spanning fifty feet or more, weighing as much as a merchant galleon. It is old beyond reckoning, its scales the color of the deep ice found only in glaciers untouched since before man's civilization. The dragon simply exists, and existence itself becomes unbearable in its presence. There is no rage in it and no hunger; it is the end of things, patient and inevitable, watching you with eyes that hold the memory of ten thousand frozen winters. The old ice dragon does not need to move.
+The cold reaches you before anything else – an absolute, final, suffocating cold that comes before even the notion of suffering, and your thoughts scatter under it. What hovers above the glacier is not a creature of flesh and scales but an incarnation of winter itself, vast beyond measure – perhaps forty feet from snout to tail, with wings spanning fifty feet or more, weighing as much as a merchant galleon. It is old beyond reckoning, its scales the color of the deep ice found only in glaciers untouched since before man's civilization. The dragon simply exists, and existence itself becomes unbearable in its presence. There is no rage in it and no hunger; it is the end of things, patient and inevitable, watching you with eyes that hold the memory of ten thousand frozen winters. The old ice dragon does not need to move.
 
 # Dossier {#dossier}
 
@@ -490,15 +490,15 @@ The cold surrounding an old ice dragon is absolute. Unprotected flesh dies withi
 
 ## Presentation
 
-An old ice dragon's scales are predominantly midnight blue deepening to pure black along the spine, with the deep color of ancient glacial ice. The edges of the scales are perfectly transparent, and light seems to pass through them as if entering another dimension entirely. The scales are massive—some individual scales are the size of a man—and smooth, without a flaw. Scars exist on the dragon's hide, but they are few; a creature this old has learned to avoid most injury through means beyond mere combat skill.
+An old ice dragon's scales are predominantly midnight blue deepening to pure black along the spine, with the deep color of ancient glacial ice. The edges of the scales are perfectly transparent, and light seems to pass through them as if entering another dimension entirely. The scales are massive – some individual scales are the size of a man – and smooth, without a flaw. Scars exist on the dragon's hide, but they are few; a creature this old has learned to avoid most injury through means beyond mere combat skill.
 
-The dragon's eyes are luminescent pale silver, containing swirling patterns of distant frost and crystalline geometry. Its breath mists perpetually, and ice forms constantly in its immediate vicinity—the ground beneath the dragon becomes an actively growing glacier as standing water freezes and frozen water fractures deeper. The dragon's voice, when it speaks, carries overtones of avalanches, of glaciers groaning under the weight of millennia, and of wind that has never encountered obstruction.
+The dragon's eyes are luminescent pale silver, containing swirling patterns of distant frost and crystalline geometry. Its breath mists perpetually, and ice forms constantly in its immediate vicinity – the ground beneath the dragon becomes an actively growing glacier as standing water freezes and frozen water fractures deeper. The dragon's voice, when it speaks, carries overtones of avalanches, of glaciers groaning under the weight of millennia, and of wind that has never encountered obstruction.
 
-Rime extends from the dragon's scales in delicate crystalline formations—not frost, but perfectly ordered geometric structures that seem to defy natural law. During flight, the dragon trails ribbons of supercooled mist that persist long after the dragon has passed. Where the dragon's claws touch stone, the stone becomes brittle and cracks propagate like spiderwebs.
+Rime extends from the dragon's scales in delicate crystalline formations – not frost, but perfectly ordered geometric structures that seem to defy natural law. During flight, the dragon trails ribbons of supercooled mist that persist long after the dragon has passed. Where the dragon's claws touch stone, the stone becomes brittle and cracks propagate like spiderwebs.
 
 ## Key Behaviors
 
-An old ice dragon's territory is effectively absolute. The dragon maintains awareness of everything within its claimed range through means beyond ordinary sensation—perhaps through the vibration of glacial ice, perhaps through psychic connection to the cold itself. Prey cannot move through the dragon's territory without the dragon knowing of it.
+An old ice dragon's territory is effectively absolute. The dragon maintains awareness of everything within its claimed range through means beyond ordinary sensation – perhaps through the vibration of glacial ice, perhaps through psychic connection to the cold itself. Prey cannot move through the dragon's territory without the dragon knowing of it.
 
 The old dragon's dealings with lesser creatures range from complete indifference to elaborate manipulation. Some old dragons maintain written treaties with human rulers, sending formal correspondence carried by servants who have learned to operate in temperatures that would kill most creatures. Others have simply withdrawn from the world entirely, existing in frozen solitude at the poles or in the highest mountain peaks.
 
@@ -538,7 +538,7 @@ The dragon exhales a spreading cloud of supercooled crystalline mist, reaching s
 
 ### Frost Breath
 
-The old dragon's breath is cold made into a weapon and perfected over centuries. The mist is so supercooled that it appears to glow with its own light. It is flash-freezing in absolute terms—ice crystals form in living tissue in heartbeats. The mist lingers for some moments after the dragon breathes, leaving zones of lethal cold.
+The old dragon's breath is cold made into a weapon and perfected over centuries. The mist is so supercooled that it appears to glow with its own light. It is flash-freezing in absolute terms – ice crystals form in living tissue in heartbeats. The mist lingers for some moments after the dragon breathes, leaving zones of lethal cold.
 
 ### Flight
 
@@ -550,7 +550,7 @@ The old dragon's scales are all but proof against any ordinary harm. Swords shat
 
 ### Cold Aura
 
-The old dragon's aura is lethal at two hundred feet distance. Unprotected creatures freeze steadily for as long as they remain within it. Magical protection against cold begins to fail in proximity to the dragon—the dragon's cold is too absolute for mere magic to fully shield against. The aura warps light and sound, creating mirages and distortions.
+The old dragon's aura is lethal at two hundred feet distance. Unprotected creatures freeze steadily for as long as they remain within it. Magical protection against cold begins to fail in proximity to the dragon – the dragon's cold is too absolute for mere magic to fully shield against. The aura warps light and sound, creating mirages and distortions.
 
 ### Draconic Presence
 

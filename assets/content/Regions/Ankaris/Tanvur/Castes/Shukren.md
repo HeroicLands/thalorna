@@ -60,7 +60,7 @@ Tax evasion is prosecuted with particular severity, as it directly threatens imp
 
 ### Prohibition Against Political Involvement
 
-The empire maintains strict prohibition against merchants wielding political power. This restriction is born from historical experience—merchant oligarchies and guild councils have attempted to rival [[lore-vushok|Vüshōk]] authority in other lands. Tānvür law eliminates such possibility through absolute prohibition.
+The empire maintains strict prohibition against merchants wielding political power. This restriction is born from historical experience – merchant oligarchies and guild councils have attempted to rival [[lore-vushok|Vüshōk]] authority in other lands. Tānvür law eliminates such possibility through absolute prohibition.
 
 Any Shükrën discovered conspiring to influence state policy, attempting to create a merchant council with governmental authority, or negotiating directly with [[lore-zheklung|Zhëklüng]] on matters of state is executed for treason. Their family and business associates may also face punishment.
 
@@ -68,13 +68,13 @@ Any Shükrën discovered conspiring to influence state policy, attempting to cre
 
 [[lore-vushok|Vüshōk]] administrators actively monitor Shükrën activities to ensure compliance with commercial law. Regular audits, surprise inspections, and informant networks keep merchants under constant oversight. Those who prove reliably compliant gain some degree of trust and may see their tax rates lightened.
 
-Despite their wealth and economic importance, Shükrën occupy a lower social position than [[lore-zathuk|Zāthük]]. They are often viewed with suspicion and distrust—necessary to the empire's function but potentially dangerous if unchecked. Successful merchants may purchase luxury goods and employ retainers, but they cannot purchase social status or political authority.
+Despite their wealth and economic importance, Shükrën occupy a lower social position than [[lore-zathuk|Zāthük]]. They are often viewed with suspicion and distrust – necessary to the empire's function but potentially dangerous if unchecked. Successful merchants may purchase luxury goods and employ retainers, but they cannot purchase social status or political authority.
 
 ## See Also
 
-- [[lore-castelaws|Caste Laws]] — rights and restrictions governing Shükrën
-- [[lore-zeisik|Law and Honor]] — commercial law and tax regulations
-- [[lore-zathuk|Zāthük]] — artisans and craftspeople above Shükrën in social hierarchy
-- [[lore-nokvur|Nōkvür]] — peasant farmers whom Shükrën must not exploit
-- [[lore-vushok|Vüshōk]] — administrators who enforce commercial law
-- [[affiliation-tanvurempr|Empire of Tānvür]] — overview of imperial society and structure
+- [[lore-castelaws|Caste Laws]] – rights and restrictions governing Shükrën
+- [[lore-zeisik|Law and Honor]] – commercial law and tax regulations
+- [[lore-zathuk|Zāthük]] – artisans and craftspeople above Shükrën in social hierarchy
+- [[lore-nokvur|Nōkvür]] – peasant farmers whom Shükrën must not exploit
+- [[lore-vushok|Vüshōk]] – administrators who enforce commercial law
+- [[affiliation-tanvurempr|Empire of Tānvür]] – overview of imperial society and structure

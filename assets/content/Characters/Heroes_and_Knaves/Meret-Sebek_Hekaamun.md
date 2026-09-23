@@ -616,7 +616,7 @@ Meret-Sebek stands 5'9\" tall with a medium build. He has dark skin, dark hair, 
 
 ### Origin and Early Life
 
-Meret-Sebek was born into a respected family of scholars and astrologers in the grand city of **[[place-khemenu|Khemenu]]**, a cultural and scholarly centre of the **Empire of [[affiliation-empirtkhpr|Ta’Kheperu]]**. The Empire, with traditions dating back thousands of years, continues to blend mysticism and scholarly pursuits, with astrology playing a critical role in its governance and daily life. The empire’s priests and astrologers are key advisors to the ruling elite, using celestial signs to predict outcomes of war, trade, and political alliances.
+Meret-Sebek was born into a respected family of scholars and astrologers in the grand city of **[[place-khemenu|Khemenu]]**, a cultural and scholarly center of the **Empire of [[affiliation-empirtkhpr|Ta’Kheperu]]**. The Empire, with traditions dating back thousands of years, continues to blend mysticism and scholarly pursuits, with astrology playing a critical role in its governance and daily life. The empire’s priests and astrologers are key advisors to the ruling elite, using celestial signs to predict outcomes of war, trade, and political alliances.
 
 Meret-Sebek, from a young age, showed a rare affinity for reading the stars. His family, who had long served the high courts of Ta’Kheperu, saw that he was trained by the greatest scholars and priests of the empire. By the age of 16, he had already earned a reputation for accurate star readings and predictions, and his name spread through the noble circles of Ta’Kheperu.
 
@@ -624,7 +624,7 @@ Meret-Sebek, from a young age, showed a rare affinity for reading the stars. His
 
 When Meret-Sebek reached his early thirties, he began experiencing disturbing visions during his astrological readings. Unusual alignments of stars and planets foretold the arrival of a significant celestial event, one that could reshape the very balance of power in the known world. After months of intense study, he concluded that this event, which he referred to as “The Convergence of the Nine Moons,” was not a simple astronomical occurrence, but a mystical one with divine consequences.
 
-His readings indicated that this event was tied to the fate of the **Court of the Nine Moons**, the council of the nine most powerful clans in Ta’Kheperu. His predictions warned that if the empire did not take action, the Convergence would bring about disaster, either in the form of internal strife or an invasion from external powers. The stars, however, did not reveal the full extent of the threat—only that it was imminent and inevitable.
+His readings indicated that this event was tied to the fate of the **Court of the Nine Moons**, the council of the nine most powerful clans in Ta’Kheperu. His predictions warned that if the empire did not take action, the Convergence would bring about disaster, either in the form of internal strife or an invasion from external powers. The stars, however, did not reveal the full extent of the threat – only that it was imminent and inevitable.
 
 ### The Per-Aá’s Response
 
@@ -640,13 +640,13 @@ His first stop was the **Obelisk of Ankhura**, an ancient monolithic structure s
 
 ### Mystical Challenges and Allies
 
-Meret-Sebek’s journey is fraught with challenges. Rival astrologers and priests who either do not believe in the prophecy or seek to use the event for their own ends send agents to stop him. His journey into the ruins also reveals ancient powers long forgotten—spirits of the desert, creatures bound to the stars, and followers of ancient cults who view the Convergence as an opportunity to usher in a new age of chaos.
+Meret-Sebek’s journey is fraught with challenges. Rival astrologers and priests who either do not believe in the prophecy or seek to use the event for their own ends send agents to stop him. His journey into the ruins also reveals ancient powers long forgotten – spirits of the desert, creatures bound to the stars, and followers of ancient cults who view the Convergence as an opportunity to usher in a new age of chaos.
 
 Despite these dangers, Meret-Sebek finds unlikely allies along his path. He meets a wandering desert ranger named **“The Silent Jackal”** who, though initially skeptical of the astrologer’s quest, pledges to protect him after witnessing a celestial omen. Meret-Sebek also encounters a scholar, **[[being-neferetimr|Neferet]] Imi-Ra**, and an exiled priest, **[[being-hotepanu|Hotep]] Anu**, who together join him in his quest to unlock the true power of the Convergence.
 
 ### End Goal
 
-Meret-Sebek seeks to reach the **Temple of the Eternal Heavens**, an ancient site hidden deep within the **Sands of Naresh**, where the final clue to stopping or mitigating the effects of the Convergence can be found. However, time is against him, as the stars grow ever closer to alignment, and forces—both seen and unseen—move to either stop him or claim the celestial power for themselves.
+Meret-Sebek seeks to reach the **Temple of the Eternal Heavens**, an ancient site hidden deep within the **Sands of Naresh**, where the final clue to stopping or mitigating the effects of the Convergence can be found. However, time is against him, as the stars grow ever closer to alignment, and forces – both seen and unseen – move to either stop him or claim the celestial power for themselves.
 
 The culmination of his journey will lead to a dramatic confrontation with the forces of fate and with the empire’s ruling elite, who may finally realize the truth of his predictions too late.
 
@@ -705,6 +705,6 @@ Rival astrologers and courtiers
 
 2. **The Celestial Herald**: During a public astrological reading, Meret-Sebek predicts a celestial event that will bring great prosperity to the empire. However, when the event occurs, it is followed by strange and devastating natural phenomena instead. Accused of heresy and manipulation, Meret-Sebek must defend his reputation while investigating who or what twisted his prediction into a calamity.
 
-3. **The Starblade Prophecy**: An ancient noble family approaches Meret-Sebek with a request: decipher an inscription on a relic tied to their lineage. The artifact speaks of a blade forged under the light of a rare constellation, said to grant its wielder power beyond any other. As Meret-Sebek deciphers the riddle, he uncovers a warning that using the blade comes with dire consequences—ones the noble family is eager to ignore.
+3. **The Starblade Prophecy**: An ancient noble family approaches Meret-Sebek with a request: decipher an inscription on a relic tied to their lineage. The artifact speaks of a blade forged under the light of a rare constellation, said to grant its wielder power beyond any other. As Meret-Sebek deciphers the riddle, he uncovers a warning that using the blade comes with dire consequences – ones the noble family is eager to ignore.
 
 4. **The Missing Constellation**: While examining the night sky, Meret-Sebek notices that a once-prominent constellation has vanished without explanation. His investigation leads him to a temple abandoned centuries ago, where he discovers clues pointing to the constellation’s significance in ancient rituals. What begins as a scholarly pursuit turns into a race to prevent the awakening of a forgotten power tied to the stars.

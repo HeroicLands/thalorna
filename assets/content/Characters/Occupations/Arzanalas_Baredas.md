@@ -556,7 +556,7 @@ Arzânalàs Bâredâs is a 54-year-old man who stands 6'2" tall and is broad and
 
 Arzânalàs Bâredâs is a huscarl of Lord Halvar's household at Tyrellan, in the Moktur march of [[place-vylariargn|Vylaría]], a Vylarian freeman of the border who swore to the Halvar house at seventeen and has never served anyone else.
 
-In Moktur, the empire's northern shield, the border-lords keep households of sworn fighting men against the Varokh raids that come over the march every summer. Arzânalàs has been one of Lord Halvar's for thirty-seven years — a spearman, then a captain of the household, then, as his knees went, the man who trains the young ones. What he holds now is the training yard. The young men of the household learn the spear and the shield-line from him, and some of them are better than he ever was and he tells them so.
+In Moktur, the empire's northern shield, the border-lords keep households of sworn fighting men against the Varokh raids that come over the march every summer. Arzânalàs has been one of Lord Halvar's for thirty-seven years – a spearman, then a captain of the household, then, as his knees went, the man who trains the young ones. What he holds now is the training yard. The young men of the household learn the spear and the shield-line from him, and some of them are better than he ever was and he tells them so.
 
 He is a known figure among the huscarls of Vylaria.
 
@@ -590,10 +590,10 @@ The Varokh war-bands across the march, and Lord Halvar's eldest son, who wants y
 
 ## Plot Hooks
 
-1. **The Heir** — Lord Halvar is failing, and his heir has let it be known that the old huscarl will be pensioned off to a farm the day the lord dies. The younger men have said, quietly, that they will go with him.
+1. **The Heir** – Lord Halvar is failing, and his heir has let it be known that the old huscarl will be pensioned off to a farm the day the lord dies. The younger men have said, quietly, that they will go with him.
 
-2. **The Raid** — A Varokh band has come over the march in a bad summer with the household's best men away, and the only captain in Tyrellan is Arzânalàs, with a yard of boys he has trained and no knees.
+2. **The Raid** – A Varokh band has come over the march in a bad summer with the household's best men away, and the only captain in Tyrellan is Arzânalàs, with a yard of boys he has trained and no knees.
 
-3. **The Lord's Loyalty** — Lord Halvar has been dealing with a Varokh chief across the line in ways the capital would call treason and Moktur calls sense. Arzânalàs swore to the house, not to Magnápolis, and someone from the capital has come to ask him what he has seen.
+3. **The Lord's Loyalty** – Lord Halvar has been dealing with a Varokh chief across the line in ways the capital would call treason and Moktur calls sense. Arzânalàs swore to the house, not to Magnápolis, and someone from the capital has come to ask him what he has seen.
 
-4. **The Pupil** — The best spearman Arzânalàs ever trained has come back to Tyrellan as captain of a rival lord's household, and the two houses are about to quarrel over a ford.
+4. **The Pupil** – The best spearman Arzânalàs ever trained has come back to Tyrellan as captain of a rival lord's household, and the two houses are about to quarrel over a ford.

@@ -617,9 +617,9 @@ Shadiq stands 6'0" tall with a light build. He has dark skin, black hair, and da
 
 # Dossier {#dossier}
 
-Shadiq ibn Rahman was born to a merchant-diplomat house of **[[place-karatas2|Karataş]]**, in the mountainous interior of [[place-byzariargn|Byzaría]], whose trade runs up into the Sycâni holds in the high passes above the city, where [[affiliation-blackflame|The Black Flame]] burns openly. His family brokers between the [[affiliation-byzarianlg|Byzarian League]] and the holds, and Shadiq grew up steeped in the Black Flame’s teachings—that strength is virtue, that the strong shape the world, and that fire is the truest expression of Vúlcan’s will. For Shadiq, the faith is not merely spiritual; it is a practical philosophy that governs how he conducts business, forges alliances, and reads the intentions of others.
+Shadiq ibn Rahman was born to a merchant-diplomat house of **[[place-karatas2|Karataş]]**, in the mountainous interior of [[place-byzariargn|Byzaría]], whose trade runs up into the Sycâni holds in the high passes above the city, where [[affiliation-blackflame|The Black Flame]] burns openly. His family brokers between the [[affiliation-byzarianlg|Byzarian League]] and the holds, and Shadiq grew up steeped in the Black Flame’s teachings – that strength is virtue, that the strong shape the world, and that fire is the truest expression of Vúlcan’s will. For Shadiq, the faith is not merely spiritual; it is a practical philosophy that governs how he conducts business, forges alliances, and reads the intentions of others.
 
-Shadiq met Kallistratos during a diplomatic mission in [[place-velysara|Velysâra]], where he immediately recognized a kindred spirit in the young mage. Shadiq was drawn to Kallistratos’s fiery ambition and saw in him the embodiment of Vúlcan’s power—a man capable of wielding fire to shape the future. Eager to expand his own influence and advance the Black Flame’s reach, Shadiq offered his services as a diplomat and political advisor, knowing that Kallistratos’s rise would serve both their ambitions and the faith.
+Shadiq met Kallistratos during a diplomatic mission in [[place-velysara|Velysâra]], where he immediately recognized a kindred spirit in the young mage. Shadiq was drawn to Kallistratos’s fiery ambition and saw in him the embodiment of Vúlcan’s power – a man capable of wielding fire to shape the future. Eager to expand his own influence and advance the Black Flame’s reach, Shadiq offered his services as a diplomat and political advisor, knowing that Kallistratos’s rise would serve both their ambitions and the faith.
 
 ## Background
 
@@ -637,21 +637,21 @@ Shadiq met Kallistratos during a diplomatic mission in [[place-velysara|Velysâr
 - **Creativity**: Shadiq is inventive in diplomacy, finding creative solutions to complex problems, especially in situations that require persuasion or subtle manipulation.
 - **Empathy**: His ability to connect with others emotionally is a key part of his success as a diplomat, understanding their needs, fears, and motivations.
 - **Eloquence**: Shadiq is exceptionally articulate, with a voice that draws people in and convinces them of his cause. His words are smooth, persuasive, and filled with gravitas.
-- **Morality**: Shadiq follows the Black Flame's doctrine without apology—strength is virtue, and the strong have the right to shape the world. He is pragmatic and willing to manipulate situations to his advantage, seeing this not as moral compromise but as the natural order asserting itself.
+- **Morality**: Shadiq follows the Black Flame's doctrine without apology – strength is virtue, and the strong have the right to shape the world. He is pragmatic and willing to manipulate situations to his advantage, seeing this not as moral compromise but as the natural order asserting itself.
 - **Voice**: Shadiq’s voice is steady and clear, though not particularly melodious. He can sing when necessary, but his focus is on action rather than performance.
 - **Silver-Tongued Diplomat**: Shadiq is a master of negotiation, able to broker deals and forge alliances with even the most difficult parties. His charm and charisma make him an excellent diplomat, smoothing over conflicts and gaining favor with powerful figures.
-- **Follower of the Black Flame**: Shadiq’s devotion to Vúlcan and the Black Flame gives him an intuitive understanding of the god’s will. He interprets events through the lens of the faith’s core doctrine—that might makes right, that strength is the only honest measure of worth—and uses this framework to read people, assess power dynamics, and decide whom to trust. His faith also grants him a deep understanding of the rituals and practices of Vúlcan’s worship.
+- **Follower of the Black Flame**: Shadiq’s devotion to Vúlcan and the Black Flame gives him an intuitive understanding of the god’s will. He interprets events through the lens of the faith’s core doctrine – that might makes right, that strength is the only honest measure of worth – and uses this framework to read people, assess power dynamics, and decide whom to trust. His faith also grants him a deep understanding of the rituals and practices of Vúlcan’s worship.
 - **Manipulator of Circumstance**: Shadiq excels at turning situations to his advantage. Whether it’s through diplomacy or subtle manipulation, he knows how to make events unfold in ways that benefit him and Kallistratos.
 
 ## Psyche
 
 ### Personality
 
-Shadiq is charismatic, charming, and always thinking ahead. While he reveres fire, he is not reckless—he sees fire as something to be controlled and harnessed for political gain. He enjoys the game of politics and is always looking for ways to turn situations to his advantage. Though loyal to Kallistratos, Shadiq also sees the mage as a powerful tool in his own quest for influence.
+Shadiq is charismatic, charming, and always thinking ahead. While he reveres fire, he is not reckless – he sees fire as something to be controlled and harnessed for political gain. He enjoys the game of politics and is always looking for ways to turn situations to his advantage. Though loyal to Kallistratos, Shadiq also sees the mage as a powerful tool in his own quest for influence.
 
 ### Motivation
 
-Shadiq is motivated by his desire to expand his influence and advance the Black Flame’s reach. He believes that by helping Kallistratos harness the power of fire, he can secure a place for himself among the most powerful figures in both [[place-vylariargn|Vylaria]] and Byzaría. He sees Kallistratos’s quest as a means to elevate both of them to positions of great power—and to prove, in the process, that the Black Flame’s philosophy is simply the way the world works.
+Shadiq is motivated by his desire to expand his influence and advance the Black Flame’s reach. He believes that by helping Kallistratos harness the power of fire, he can secure a place for himself among the most powerful figures in both [[place-vylariargn|Vylaria]] and Byzaría. He sees Kallistratos’s quest as a means to elevate both of them to positions of great power – and to prove, in the process, that the Black Flame’s philosophy is simply the way the world works.
 
 ### Strengths
 
@@ -670,22 +670,22 @@ rival faction
 
 ## Plot Hooks
 
-1. **The Burning Blade: A Diplomatic Mission Turned Deadly**: Shadiq is tasked with a diplomatic mission to a rival noble house within Vylaria, where tensions are high. Kallistratos needs their support—or at least their neutrality—but the rival house is known for its unpredictable and aggressive tendencies. Things quickly turn hostile when the rival house accuses Kallistratos of secretly supporting insurgents who have been using fire to terrorize their lands. Shadiq’s role becomes critical as he must navigate a volatile situation where a single misstep could mean war.
+1. **The Burning Blade: A Diplomatic Mission Turned Deadly**: Shadiq is tasked with a diplomatic mission to a rival noble house within Vylaria, where tensions are high. Kallistratos needs their support – or at least their neutrality – but the rival house is known for its unpredictable and aggressive tendencies. Things quickly turn hostile when the rival house accuses Kallistratos of secretly supporting insurgents who have been using fire to terrorize their lands. Shadiq’s role becomes critical as he must navigate a volatile situation where a single misstep could mean war.
    - **Diffuse the Situation**: Using his silver tongue, Shadiq must calm the situation and prevent an all-out conflict. He’ll need to navigate the complex politics of Vylaria, using his diplomatic skills to clear Kallistratos’ name.
    - **Uncovering the True Culprit**: Through negotiation and investigation, Shadiq uncovers that the real insurgents are agents of the **Ashen Circle**, trying to turn the rival house against Kallistratos. He must use this information carefully, deciding whether to expose the Ashen Circle or manipulate events to secure the house’s loyalty.
    - **Negotiating a Truce**: Once the truth is revealed, Shadiq must broker a truce between the rival house and Kallistratos, turning what could have been a deadly conflict into a political victory.
 
-2. **The [[place-khzryndsrtrgn|Khazryn Desert]]: Lost Relics of Vúlcan**: Word reaches Shadiq that a powerful relic of Vúlcan—the **Torch of Fury**, said to grant its wielder immense destructive power—has been discovered in the **Khazryn Desert**. The relic is a sacred object tied to both the worship of Vúlcan and the political power of desert tribes. Recovering it could rally the desert lords behind Kallistratos, strengthening his position.
+2. **The [[place-khzryndsrtrgn|Khazryn Desert]]: Lost Relics of Vúlcan**: Word reaches Shadiq that a powerful relic of Vúlcan – the **Torch of Fury**, said to grant its wielder immense destructive power – has been discovered in the **Khazryn Desert**. The relic is a sacred object tied to both the worship of Vúlcan and the political power of desert tribes. Recovering it could rally the desert lords behind Kallistratos, strengthening his position.
 
    However, several factions are also interested in the relic, including rival desert lords and the Guilded Talon. Shadiq could play a pivotal role in securing it.
    - **Negotiating with Tribes**: Shadiq must navigate the complex relationships between the desert tribes, using his diplomacy to secure their loyalty or at least permission to seek the relic.
    - **Outwitting Rivals**: Guilded Talon and rival desert lords are also searching for the relic. Shadiq must stay ahead of them, using both negotiation and subterfuge to gain an advantage.
 
-3. **Flames of Ambition: A Rival Diplomat**: A rival diplomat from Vylaria—**Serapion Drachenos**, a former acquaintance of Shadiq—has risen to prominence within the empire and is now working for a faction that opposes Kallistratos’ efforts. Serapion’s charm and wit rival Shadiq’s own, and the two diplomats often find themselves at odds, trying to outmaneuver one another in political negotiations.
+3. **Flames of Ambition: A Rival Diplomat**: A rival diplomat from Vylaria – **Serapion Drachenos**, a former acquaintance of Shadiq – has risen to prominence within the empire and is now working for a faction that opposes Kallistratos’ efforts. Serapion’s charm and wit rival Shadiq’s own, and the two diplomats often find themselves at odds, trying to outmaneuver one another in political negotiations.
 
    Serapion’s latest mission is to turn key Vylarian nobles against Kallistratos, convincing them that his pursuit of fire magic is dangerous. Shadiq must confront his old rival in a series of political and diplomatic engagements, where every word could shift the balance of power.
    - **Diplomatic Duel**: The core of the conflict is a battle of words between Shadiq and Serapion, each trying to sway influential nobles to their side. Shadiq must use his charm, political knowledge, and connections to outmaneuver Serapion.
-   - **Political Intrigue**: Serapion may resort to underhanded tactics—blackmail, bribery, or even assassination attempts. Shadiq must uncover and counter these plots while ensuring his own position remains strong.
+   - **Political Intrigue**: Serapion may resort to underhanded tactics – blackmail, bribery, or even assassination attempts. Shadiq must uncover and counter these plots while ensuring his own position remains strong.
    - **Turning the Tide**: If Shadiq can outplay Serapion, he may even be able to turn the opposing nobles into allies for Kallistratos, securing a major political victory and weakening the opposition’s power base.
 
 4. **The Guilded Talon’s Subversion**: The **Guilded Talon** has been spreading rumors about Kallistratos across Velysâra and other regions. These rumors are beginning to gain traction in Vylaria, threatening to cut off Kallistratos from the vital support he needs.

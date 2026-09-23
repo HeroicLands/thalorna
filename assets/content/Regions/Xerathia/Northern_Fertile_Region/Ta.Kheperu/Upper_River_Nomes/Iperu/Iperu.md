@@ -24,7 +24,7 @@ Iperu is the capital of [[affiliation-nomeiperu|the Nome of Iperu]] and the seat
 
 ## See Also
 
-- [[affiliation-nomeiperu|The Nome of Iperu]] — Parent nome
-- [[affiliation-uperivrnms|The Upper River Nomes]] — Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[affiliation-ra|Rā]] — Patron cult
+- [[affiliation-nomeiperu|The Nome of Iperu]] – Parent nome
+- [[affiliation-uperivrnms|The Upper River Nomes]] – Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview
+- [[affiliation-ra|Rā]] – Patron cult

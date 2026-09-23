@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "(Council of the Nobles) — a formal assembly of the empire's most powerful aristocratic families, convened in the capital to advise the Per-Aá on matters of internal policy, succession disputes, and inter-nome relations. The Kenbet'Pat has no legislative authority — the Per-Aá's word is law — but in practice no Per-Aá governs effectively without its cooperation. Meetings are elaborate affairs conducted with full ceremonial protocol, and the council's de facto mediators wield enormous informal power."
+description: "(Council of the Nobles) – a formal assembly of the empire's most powerful aristocratic families, convened in the capital to advise the Per-Aá on matters of internal policy, succession disputes, and inter-nome relations. The Kenbet'Pat has no legislative authority – the Per-Aá's word is law – but in practice no Per-Aá governs effectively without its cooperation. Meetings are elaborate affairs conducted with full ceremonial protocol, and the council's de facto mediators wield enormous informal power."
 name:
   full: Kenbet'Pat
   aliases:
@@ -29,7 +29,7 @@ data:
       - level: 1
         title: Servant
         lore: servantrnk
-        description: Kept about the offices for their labour, and not of the service.
+        description: Kept about the offices for their labor, and not of the service.
       - level: 2
         title: Clerk
         lore: clerkrnk
@@ -85,4 +85,4 @@ data:
   relations: {}
 ---
 
-A formal assembly of the empire's most powerful aristocratic families, convened in the capital to advise the Per-Aá on matters of internal policy, succession disputes, and inter-nome relations. The Kenbet'Pat has no legislative authority — the Per-Aá's word is law — but in practice no Per-Aá governs effectively without its cooperation. Meetings are elaborate affairs conducted with full ceremonial protocol, and the council's de facto mediators wield enormous informal power.
+A formal assembly of the empire's most powerful aristocratic families, convened in the capital to advise the Per-Aá on matters of internal policy, succession disputes, and inter-nome relations. The Kenbet'Pat has no legislative authority – the Per-Aá's word is law – but in practice no Per-Aá governs effectively without its cooperation. Meetings are elaborate affairs conducted with full ceremonial protocol, and the council's de facto mediators wield enormous informal power.

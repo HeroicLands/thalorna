@@ -2,7 +2,7 @@
 tags:
   - history
   - spine
-description: "Around 2500 BF the Bureau of Records can first produce an emperor, a dynasty and a year together — the oldest human archive anyone can still read, opened seventy years before Khazártúrn fell."
+description: "Around 2500 BF the Bureau of Records can first produce an emperor, a dynasty and a year together – the oldest human archive anyone can still read, opened seventy years before Khazártúrn fell."
 type: lore
 subType: history
 name:
@@ -55,7 +55,7 @@ event:
 The dynastic record is the empire's own instrument, and it is separate from the reckoning the
 [[lore-celestlrdr|Celestial Order]] teaches. What it marks is not the founding of anything cosmic but
 the earliest point at which the empire's filing cabinets can produce an emperor, a dynasty and a year
-together — and that makes it the oldest human archive anyone can still read.
+together – and that makes it the oldest human archive anyone can still read.
 
 It is worth setting beside what else was standing. [[lore-khazarturn|Khazártúrn]] had been cut for
 twenty-six centuries and had seventy years left. The greatest work of the Elder Races and the oldest

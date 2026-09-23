@@ -574,24 +574,24 @@ Resourceful, skilled at working a team through crowded streets, good with horses
 
 ## Social
 
-Estára holds her father's seat in the Teamsters' Guild of Valdes, chartered under the Magnum Collegium, which licenses the carters and shares out the harbour's work.
+Estára holds her father's seat in the Teamsters' Guild of Valdes, chartered under the Magnum Collegium, which licenses the carters and shares out the harbor's work.
 
 ## Companions
 
 ### Patrons
 
-Estára's patrons are the warehousemen of the Valdes quays, who send for her when a cargo must make the tide, and the ship-victuallers.
+Estára's patrons are the warehousemen of the Valdes quays, who send for her when a cargo must make the tide, and the ship-victualers.
 
 ### Enemies
 
-The older teamsters of the guild, who have lost the harbour's best work to her and say she will kill somebody in a lane one day; and a carter she passed on the quay road, who went into the harbour.
+The older teamsters of the guild, who have lost the harbor's best work to her and say she will kill somebody in a lane one day; and a carter she passed on the quay road, who went into the harbor.
 
 ## Plot Hooks
 
-1. **The Tide** — A warehouseman has a cargo that must be aboard before the evening tide, and the only road from his store to the quay is through the market on market day.
+1. **The Tide** – A warehouseman has a cargo that must be aboard before the evening tide, and the only road from his store to the quay is through the market on market day.
 
-2. **The Overturned Wain** — One of Estára's carts has gone over in a lane with a load of stone, and a child was under it. The child will live, and the guild has called her before it.
+2. **The Overturned Wain** – One of Estára's carts has gone over in a lane with a load of stone, and a child was under it. The child will live, and the guild has called her before it.
 
-3. **The Cut Trace** — Estára's best team bolted on the quay road with a cut trace, and the carter who went into the harbour last year has been seen near her yard.
+3. **The Cut Trace** – Estára's best team bolted on the quay road with a cut trace, and the carter who went into the harbor last year has been seen near her yard.
 
-4. **The Seat** — The older teamsters have proposed at the guild that a seat may not pass to a daughter, and the vote is next month. If it carries, her seat, her licence and the harbour work go together.
+4. **The Seat** – The older teamsters have proposed at the guild that a seat may not pass to a daughter, and the vote is next month. If it carries, her seat, her license and the harbor work go together.

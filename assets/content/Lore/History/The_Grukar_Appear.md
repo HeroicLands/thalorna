@@ -2,7 +2,7 @@
 tags:
   - history
   - spine
-description: "The Grukar are first recorded around 3000 BF in the Khazári archive at Khazártúrn — nothing written there in twenty-one centuries mentions them, and within a generation a great deal does."
+description: "The Grukar are first recorded around 3000 BF in the Khazári archive at Khazártúrn – nothing written there in twenty-one centuries mentions them, and within a generation a great deal does."
 type: lore
 subType: history
 name:
@@ -47,7 +47,7 @@ event:
   accounts:
     - by: lore-flkkhazar
       says: >-
-        A vicious but manageable vermin of the deep country — dangerous at a frontier, incapable of
+        A vicious but manageable vermin of the deep country – dangerous at a frontier, incapable of
         concentration, and permanently limited by the fact that Ahks do not cooperate.
       agrees: full
       withholds: nothing; the assessment is copied out entire and read at intervals
@@ -61,7 +61,7 @@ event:
 
 The [[lore-grukarfolk|Grukar]] have not always been on Thalorna.
 
-They are first recorded in the Khazári archive at [[lore-khazarturn|Khazártúrn]] — the Deep Folk
+They are first recorded in the Khazári archive at [[lore-khazarturn|Khazártúrn]] – the Deep Folk
 having both the habit of writing things down and, at that date, the finest archive in the world.
 Nothing written there in its first twenty-one centuries mentions them. Then, within a generation, a
 great deal does.
@@ -71,5 +71,5 @@ speculate; it describes what arrived, in the manner of a people setting down evi
 question open. What is beyond dispute is the speed with which they spread.
 
 The assessment the Khazári wrote was correct in every particular, and it is still correct. It was in
-the archive, in their own hand, when the city fell — and it did not matter, which is the part they
+the archive, in their own hand, when the city fell – and it did not matter, which is the part they
 have never been able to put down.

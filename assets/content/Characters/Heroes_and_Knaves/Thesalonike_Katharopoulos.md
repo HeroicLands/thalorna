@@ -604,17 +604,17 @@ Thêsaloníke stands 5'10" tall with a medium build. She has golden-toned skin, 
 
 # Dossier {#dossier}
 
-Thêsaloníke was born into the Katharópoulos family in the heavily forested regions of the **[[affiliation-byzarianlg|Byzarian League]]**, in a village built literally within the forest itself. Her father, **Petros Katharópoulos**, was a respected woodcutter of modest renown, skilled but not ambitious. Her mother died when Thêsaloníke was young, leaving her father to raise three children with only the forest for support. Where her brothers sought other livelihoods—one became a stonemason, the other a merchant—Thêsaloníke showed early aptitude for woodcraft.
+Thêsaloníke was born into the Katharópoulos family in the heavily forested regions of the **[[affiliation-byzarianlg|Byzarian League]]**, in a village built literally within the forest itself. Her father, **Petros Katharópoulos**, was a respected woodcutter of modest renown, skilled but not ambitious. Her mother died when Thêsaloníke was young, leaving her father to raise three children with only the forest for support. Where her brothers sought other livelihoods – one became a stonemason, the other a merchant – Thêsaloníke showed early aptitude for woodcraft.
 
 Her father initially resisted teaching her, believing the work unsuitable for a woman. When she was fourteen, he fell from a tree and broke his leg. With no other option and no money for hired help, Thêsaloníke took up his axe and worked the contracts herself. By the time her father healed, she had proven she could do the work as well as any man. Grudgingly, then with pride, her father became her mentor.
 
-Now thirty-four, Thêsaloníke has established herself as a master of her craft. She specializes in the selective harvesting of timber—taking only mature trees and in patterns that sustain the forest rather than strip it. Her reputation for both skill and forestry wisdom has made her sought-after by builders, furniture makers, and increasingly by those concerned with preserving woodland resources. She maintains membership in the **Woodcutters' Guild** but often works independently on specialized contracts.
+Now thirty-four, Thêsaloníke has established herself as a master of her craft. She specializes in the selective harvesting of timber – taking only mature trees and in patterns that sustain the forest rather than strip it. Her reputation for both skill and forestry wisdom has made her sought-after by builders, furniture makers, and increasingly by those concerned with preserving woodland resources. She maintains membership in the **Woodcutters' Guild** but often works independently on specialized contracts.
 
 ## Psyche
 
 ### Personality
 
-Thêsaloníke is a woman of few words but genuine warmth. She expresses herself primarily through her work—perfect joints in furniture, sustainable practices in harvesting, and meticulous craftsmanship in everything she undertakes. She has little patience for idle conversation but will engage in substantive discussion for hours if the topic interests her. With clients and colleagues who show respect for both her work and the forest, she is remarkably generous with her time and knowledge.
+Thêsaloníke is a woman of few words but genuine warmth. She expresses herself primarily through her work – perfect joints in furniture, sustainable practices in harvesting, and meticulous craftsmanship in everything she undertakes. She has little patience for idle conversation but will engage in substantive discussion for hours if the topic interests her. With clients and colleagues who show respect for both her work and the forest, she is remarkably generous with her time and knowledge.
 
 Her stubbornness is legendary among woodcutters, but it is a principled stubbornness rooted in genuine conviction about how forests should be managed. She will not compromise on practices she believes damage long-term sustainability, regardless of how much money she might earn. This has cost her lucrative contracts but has also earned her the deep respect of those who value stewardship over profit.
 
@@ -624,7 +624,7 @@ Thêsaloníke is driven by a profound love for the forests of her homeland and a
 
 ### Strengths
 
-- **Master Timbercraftsman**: Thêsaloníke's understanding of wood—its properties, growth patterns, and potential—is encyclopedic. She can assess a forest and know immediately which trees should be harvested and which preserved.
+- **Master Timbercraftsman**: Thêsaloníke's understanding of wood – its properties, growth patterns, and potential – is encyclopedic. She can assess a forest and know immediately which trees should be harvested and which preserved.
 - **Exceptional Strength and Skill**: Her ability to fell a tree exactly as intended, to judge its fall with precision, and to maximize usable timber from each cut is extraordinary. She has never had an accident in decades of work.
 - **Forest Navigation and Knowledge**: She knows the forests of the **Byzarian League** intimately. She can navigate by landmarks invisible to others and can predict seasonal changes and hazards.
 - **Sustainable Practices Expertise**: Her knowledge of forest management and sustainable harvesting is advanced and continually evolving. Architects and builders specifically seek her timber because of its quality and ethical provenance.
@@ -659,12 +659,12 @@ Thêsaloníke is driven by a profound love for the forests of her homeland and a
 
 ## Plot Hooks
 
-1. **The Ancient Grove**: A developer seeks to purchase rights to harvest timber from the oldest forest in the region—a grove so ancient that **druids** are rumored to guard it. Thêsaloníke is approached both by the developer and by forest advocates. Her investigation reveals the grove may contain answers to environmental catastrophes and that powerful forces—both commercial and magical—are manipulating the situation.
+1. **The Ancient Grove**: A developer seeks to purchase rights to harvest timber from the oldest forest in the region – a grove so ancient that **druids** are rumored to guard it. Thêsaloníke is approached both by the developer and by forest advocates. Her investigation reveals the grove may contain answers to environmental catastrophes and that powerful forces – both commercial and magical – are manipulating the situation.
 
 2. **The Poisoned Forest**: Trees in the northern region begin dying inexplicably. The **Logging Consortium** blames natural causes and seeks to harvest dying trees before they rot. Thêsaloníke's investigation suggests intentional poisoning and discovers evidence pointing toward industrial sabotage or darker forces. Exposing the truth might devastate the region's economy.
 
 3. **The Apprentice Question**: A young woman, **Kira Stonewood**, seeks to apprentice with Thêsaloníke, claiming spiritual calling and genuine skill. Thêsaloníke would be pleased to teach her, but investigation reveals **Kira** may be an infiltrator sent by the **Logging Consortium** to spy on sustainable practices or potentially sabotage Thêsaloníke's work.
 
-4. **The Lost Technique**: An old woodcutter claims to have knowledge of an ancient **joinery technique** from before the current age—methods that make timber bonds stronger than any current practice. He will only teach Thêsaloníke, but his asking price is that she agree to a dangerous expedition into forbidden forest where these techniques were supposedly lost.
+4. **The Lost Technique**: An old woodcutter claims to have knowledge of an ancient **joinery technique** from before the current age – methods that make timber bonds stronger than any current practice. He will only teach Thêsaloníke, but his asking price is that she agree to a dangerous expedition into forbidden forest where these techniques were supposedly lost.
 
-5. **The Sanctuary Controversy**: The **Monastery of Silent Waters** reveals that they cannot continue financially sustaining the forest without increased logging operations. Thêsaloníke must either find alternative funding, negotiate with the monastery's leadership to change their economic model, or compromise her principles. Meanwhile, a mysterious benefactor offers to fund the monastery—but with strings attached that Thêsaloníke must discover before accepting.
+5. **The Sanctuary Controversy**: The **Monastery of Silent Waters** reveals that they cannot continue financially sustaining the forest without increased logging operations. Thêsaloníke must either find alternative funding, negotiate with the monastery's leadership to change their economic model, or compromise her principles. Meanwhile, a mysterious benefactor offers to fund the monastery – but with strings attached that Thêsaloníke must discover before accepting.

@@ -4,7 +4,7 @@ name:
   full: Vedyákshara Script
   aliases:
     - Vedyákshara
-description: "The forty-eight syllables of Vedyara — a temple script for law, lineage and liturgy, with a running hand for the caravan."
+description: "The forty-eight syllables of Vedyara – a temple script for law, lineage and liturgy, with a running hand for the caravan."
 shortcode: vdykshrscrpt
 type: skill
 subType: script
@@ -27,7 +27,7 @@ flags:
 
 The Vedyákshara is a syllabary: roughly forty-eight characters, each standing for a consonant-plus-vowel, with clusters and bare final consonants written by modifying the base glyph rather than by adding a letter. Every sign hangs from a headline, so a line of Vedyari looks like a rope with the words strung beneath it.
 
-It carries [[skill-vedyarlng|Vedyari]] — Classical Vedyari for anything that matters, and the vernaculars only where nobody important is looking. A character needs **both** the script and the [[sohl-none-docskill-lang|Language]].
+It carries [[skill-vedyarlng|Vedyari]] – Classical Vedyari for anything that matters, and the vernaculars only where nobody important is looking. A character needs **both** the script and the [[sohl-none-docskill-lang|Language]].
 
 ## Three layers
 
@@ -41,8 +41,8 @@ The temple, which in a Vedyari janapada is also the record office, the school, t
 
 ## Who has it
 
-Priesthood and professional scribes; 20–35% of the nobility. The merchant caste has driven the spread of the simplified cursive without much learning it themselves — the simplification was for the scribes they hire. Outside the cities, literacy exists in the temple and nowhere else.
+Priesthood and professional scribes; 20–35% of the nobility. The merchant caste has driven the spread of the simplified cursive without much learning it themselves – the simplification was for the scribes they hire. Outside the cities, literacy exists in the temple and nowhere else.
 
 ## In play
 
-The layers are the interesting part. A merchant's clerk who reads the cursive fluently may be stopped cold by a classical land grant, and neither of them can touch the abjad in the foundation deposit. Because Classical Vedyari is a different register from the spoken vernaculars, a character can be perfectly fluent in the street and still fail the reading test — the Script skill gets them the sounds, and the Language skill decides whether the sounds mean anything.
+The layers are the interesting part. A merchant's clerk who reads the cursive fluently may be stopped cold by a classical land grant, and neither of them can touch the abjad in the foundation deposit. Because Classical Vedyari is a different register from the spoken vernaculars, a character can be perfectly fluent in the street and still fail the reading test – the Script skill gets them the sounds, and the Language skill decides whether the sounds mean anything.

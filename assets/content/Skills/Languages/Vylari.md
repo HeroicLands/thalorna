@@ -31,7 +31,7 @@ Vylari is the imperial tongue of the [[affiliation-vylarinmpr|Vylarian Empire]] 
 
 ## Overview
 
-Vylari is marked by formal structure and rhythmic precision—a language shaped by empire and institutions. Its speakers prize clarity and eloquence, and the language reflects this cultural value through its elaborate system of honorifics and register shifts. A trained ear can immediately distinguish a patrician from a merchant, a scholar from a common soldier simply through subtle variations in Vylari speech.
+Vylari is marked by formal structure and rhythmic precision – a language shaped by empire and institutions. Its speakers prize clarity and eloquence, and the language reflects this cultural value through its elaborate system of honorifics and register shifts. A trained ear can immediately distinguish a patrician from a merchant, a scholar from a common soldier simply through subtle variations in Vylari speech.
 
 The language carries the prestige of imperial rule, making it the preferred tongue for law, trade, and higher learning throughout its domain. Yet Vylari is also a living, changing tongue: regional dialects have developed in outlying provinces, and a distinct archaic form persists among the priesthoods of Nartum, preserved in liturgical use.
 
@@ -51,7 +51,7 @@ Vylari employs a relatively clean phonetic inventory, free from the harsher cons
 
 **Word Order:** Vylari follows a strict Subject-Object-Verb (SOV) structure in formal discourse, though poetic and archaic texts show greater flexibility. Case marking through suffix patterns allows some word-order variation in less formal speech. The language employs a three-tiered system of article-like particles (singular definite, singular indefinite, and a collective plural form).
 
-**Nominal Gender:** Vylari maintains three noun classes—masculine, feminine, and neuter—marked through suffixes and reflected in agreeing adjectives and articles. Most masculine nouns end in consonants or -ôs; feminines commonly end in -â, -ê, or -a; neuters in -on or -um (in archaic registers).
+**Nominal Gender:** Vylari maintains three noun classes – masculine, feminine, and neuter – marked through suffixes and reflected in agreeing adjectives and articles. Most masculine nouns end in consonants or -ôs; feminines commonly end in -â, -ê, or -a; neuters in -on or -um (in archaic registers).
 
 **Verbal Aspect:** The language favors perfective/imperfective aspect distinctions over strict tense. A root verb is commonly modified through prefixes (for aspect) and suffixes (for mood and person). The conjugation system is regular for common verbs but preserves numerous archaic strong forms that are preserved in formal and religious registers.
 
@@ -59,17 +59,17 @@ Vylari employs a relatively clean phonetic inventory, free from the harsher cons
 
 ## Script & Literacy
 
-Vylari employs the [[skill-semrnscrpt|Sêmarion]], an alphabetic script derived from the ancient imperial runes and refined over centuries into a flowing, efficient writing system. The script reads left-to-right and distinguishes capital and lowercase forms. True literacy — the ability to read and compose continuous text — is confined to the clergy, professional scribes, and perhaps 20-35% of the nobility (imperial administration values educated lords, though many provincial nobles still leave reading to their clerks). Guildsmen in major cities may possess basic functional literacy (recognizing trade marks, numerals, and simple words), but even prosperous merchants rely on scribes and solicitors for contracts, correspondence, and record-keeping. In rural provinces, literacy is virtually nonexistent outside the local temple.
+Vylari employs the [[skill-semrnscrpt|Sêmarion]], an alphabetic script derived from the ancient imperial runes and refined over centuries into a flowing, efficient writing system. The script reads left-to-right and distinguishes capital and lowercase forms. True literacy – the ability to read and compose continuous text – is confined to the clergy, professional scribes, and perhaps 20-35% of the nobility (imperial administration values educated lords, though many provincial nobles still leave reading to their clerks). Guildsmen in major cities may possess basic functional literacy (recognizing trade marks, numerals, and simple words), but even prosperous merchants rely on scribes and solicitors for contracts, correspondence, and record-keeping. In rural provinces, literacy is virtually nonexistent outside the local temple.
 
 An older runic form, [[skill-thrvrknscrpt|Thâravárkon]], persists in ceremonial and architectural contexts. The ancient imperial inscriptions use a highly formalized variant with ligatures and special marks for religious names.
 
 ## Historical Development
 
-Vylari descended from [[lore-pelwarpepl|Pelwar People]], the ancient nomadic tongue brought westward across Ankaris by the peoples who would become the imperial stock. Over centuries of sedentarization and empire-building, Proto-Pelwar simplified many of its more complex grammatical features while developing elaborate systems of formal registers and honorifics—traits valued by an expanding administrative class.
+Vylari descended from [[lore-pelwarpepl|Pelwar People]], the ancient nomadic tongue brought westward across Ankaris by the peoples who would become the imperial stock. Over centuries of sedentarization and empire-building, Proto-Pelwar simplified many of its more complex grammatical features while developing elaborate systems of formal registers and honorifics – traits valued by an expanding administrative class.
 
 The language absorbed vocabulary from the peoples it conquered, particularly terms of art, philosophy, and governance. Some archaic Vylari religious vocabulary shows influence from pre-imperial [[skill-aelendlng|Áelendi]], suggesting ancient contact between settled Vylari populations and the highland Áelendan.
 
-Vylari stands as the most conservative of the Pelwar languages in terms of basic grammar and phonology, though it has undergone the most dramatic shift in social function—from the practical tongue of nomadic herders to the refined language of imperial bureaucrats and scholars.
+Vylari stands as the most conservative of the Pelwar languages in terms of basic grammar and phonology, though it has undergone the most dramatic shift in social function – from the practical tongue of nomadic herders to the refined language of imperial bureaucrats and scholars.
 
 ## Regional Dialects
 

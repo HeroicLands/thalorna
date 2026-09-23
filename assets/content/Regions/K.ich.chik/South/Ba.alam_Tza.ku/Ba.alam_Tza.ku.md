@@ -28,19 +28,19 @@ data:
         title: Captive
         lore: slavernk
         description: >-
-          Taken in war and held for labour or for the altar, with no standing and, commonly,
+          Taken in war and held for labor or for the altar, with no standing and, commonly,
           no long future.
       - level: 2
         title: Commoner
         lore: commonerrnk
         description: >-
-          Working the milpa and owing labour on the temple platforms and causeways, and tribute
+          Working the milpa and owing labor on the temple platforms and causeways, and tribute
           in maize, cloth and cacao.
       - level: 3
         title: Craftsman
         lore: journeymanrnk
         description: >-
-          Of the skilled trades — potters, weavers, feather-workers, stone-cutters — attached
+          Of the skilled trades – potters, weavers, feather-workers, stone-cutters – attached
           to a lord's household or a temple.
       - level: 4
         title: Warrior
@@ -62,7 +62,7 @@ data:
         title: Sahal
         lore: greatlordrnk
         description: >-
-          A subordinate lord holding a lesser centre for the k'uhul ajaw, and the usual rank
+          A subordinate lord holding a lesser center for the k'uhul ajaw, and the usual rank
           of a conquered city's ruler.
       - level: 8
         title: K'uhul Ajaw
@@ -77,7 +77,7 @@ data:
       Ix Ajaw: >-
         Royal lady of the city, of a lineage recorded and married for, and a ruler in her
         own right where the line requires it.
-      Sahal: Subordinate lord holding a lesser centre in the Holy Lord's name.
+      Sahal: Subordinate lord holding a lesser center in the Holy Lord's name.
       Ajaw: Noble lord of the city, holding land, dependents and a voice at court.
       Ah K'in: Priest of the sun and keeper of the count of days, who fixes every auspicious
         hour.
@@ -89,7 +89,7 @@ data:
       Ah Kulel: Deputy and herald of a lord, who carries his word and is answered as if it
         were his.
       Ah Ppolom: >-
-        Master merchant of the long-distance trade in cacao, salt, obsidian and jade — and
+        Master merchant of the long-distance trade in cacao, salt, obsidian and jade – and
         a lord's eyes abroad.
       Ballcourt Keeper: >-
         Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice
@@ -113,7 +113,7 @@ packFolder: baalamtzaku
 
 Ba'alam Tza'ku holds the land of [[place-balamtzakurgn|Ba'alam Tza'ku Region]]. The region is home to some of the most powerful city-states in all of [[place-kchchkcntnnt|K'ich'chik]], rivals in grandeur and influence even to the great cities of [[affiliation-balamkul|Balamkul]]. The name itself means "Jaguar's House" in the high speech, and the region's peoples have long revered the spotted predator as an emblem of divine power and earthly dominion.
 
-The region stands as the uppermost reach of [[place-kchchkcntnnt|K'ich'chik]]'s southern expansion, fully integrated into the unified priesthood of the [[affiliation-itzanpnthn|Itzáni]] and bound by sacred sacbe roads that connect its greatest cities. The Ch'um Ix'lan relay network reaches Ba'alam Tza'ku in three to four days from [[affiliation-balamkul|Balamkul]], routing through [[affiliation-kiikbaate|Ki'ik Ba'ate]] along the great southern sacbe; the priesthood maintains well-staffed way-stations along the highland road, ensuring that the K'ul Tq'an's decrees and intelligence from the heartland arrive with regularity. Here, the celestial calendar governs all—planting and harvest, pilgrimage and sacrifice. The great pyramid temples cast long shadows across terraced highlands, and blood spilled on their altars waters the cosmic order itself.
+The region stands as the uppermost reach of [[place-kchchkcntnnt|K'ich'chik]]'s southern expansion, fully integrated into the unified priesthood of the [[affiliation-itzanpnthn|Itzáni]] and bound by sacred sacbe roads that connect its greatest cities. The Ch'um Ix'lan relay network reaches Ba'alam Tza'ku in three to four days from [[affiliation-balamkul|Balamkul]], routing through [[affiliation-kiikbaate|Ki'ik Ba'ate]] along the great southern sacbe; the priesthood maintains well-staffed way-stations along the highland road, ensuring that the K'ul Tq'an's decrees and intelligence from the heartland arrive with regularity. Here, the celestial calendar governs all – planting and harvest, pilgrimage and sacrifice. The great pyramid temples cast long shadows across terraced highlands, and blood spilled on their altars waters the cosmic order itself.
 
 ## Maritime Powers
 
@@ -127,10 +127,10 @@ Tribute flows constantly to the temples: the finest goods, the most precious off
 
 ## See Also
 
-- [[affiliation-kuxibalam|K'uxi Balam]] — The transitional realm to the south
-- [[place-hakukul|Ha' K'ukul]] — The great river-junction city
-- [[place-hakiahkul|Ha' Ki'ahkul]] — Volcanic highlands and metalwork center
-- [[place-tzalamha|Tz'alam Ha']] — Coastal port and maritime power
-- [[place-tzalamwitz|Tz'alam Witz]] — Mountain fortress defending the passes
-- [[affiliation-itzanpnthn|Itzáni]] — The unified priesthood binding the realm
-- [[place-balamtzakurgn|Ba'alam Tza'ku Region]] — The land Ba'alam Tza'ku holds
+- [[affiliation-kuxibalam|K'uxi Balam]] – The transitional realm to the south
+- [[place-hakukul|Ha' K'ukul]] – The great river-junction city
+- [[place-hakiahkul|Ha' Ki'ahkul]] – Volcanic highlands and metalwork center
+- [[place-tzalamha|Tz'alam Ha']] – Coastal port and maritime power
+- [[place-tzalamwitz|Tz'alam Witz]] – Mountain fortress defending the passes
+- [[affiliation-itzanpnthn|Itzáni]] – The unified priesthood binding the realm
+- [[place-balamtzakurgn|Ba'alam Tza'ku Region]] – The land Ba'alam Tza'ku holds

@@ -1,5 +1,5 @@
 ---
-description: "The garden-coast nome of the Ta'Kheperu delta — a wet, mild strip of citrus orchards, olive groves, vineyards, and date plantations along the Vylarian shore, dotted with the country villas of the delta merchant-princes and producing the empire's finest luxury crops."
+description: "The garden-coast nome of the Ta'Kheperu delta – a wet, mild strip of citrus orchards, olive groves, vineyards, and date plantations along the Vylarian shore, dotted with the country villas of the delta merchant-princes and producing the empire's finest luxury crops."
 type: affiliation
 name:
   full: The Nome of Sau-Neferu
@@ -28,19 +28,19 @@ data:
         title: Bondsman
         lore: slavernk
         description: >-
-          Bound to an estate or a temple, owing labour on its fields and its works and holding
+          Bound to an estate or a temple, owing labor on its fields and its works and holding
           nothing of his own.
       - level: 2
         title: Farmer
         lore: commonerrnk
         description: >-
           Working the floodplain under a lord or a temple, owing a share of the harvest and
-          labour on the canals.
+          labor on the canals.
       - level: 3
         title: Artisan or Merchant
         lore: journeymanrnk
         description: >-
-          Of the trades — potters, weavers, boatmen, traders — free of the fields and taxed
+          Of the trades – potters, weavers, boatmen, traders – free of the fields and taxed
           on their work.
       - level: 4
         title: Scribe
@@ -52,7 +52,7 @@ data:
         title: Heka'hut
         lore: landedlordrnk
         description: >-
-          Ruler of an estate — its manor, its fields and its village — answerable to the nomarch
+          Ruler of an estate – its manor, its fields and its village – answerable to the nomarch
           above.
       - level: 6
         title: Haty'a
@@ -70,30 +70,30 @@ data:
         title: Per-Aá
         lore: sovereignrnk
         description: >-
-          The divine sovereign, on whose claim all temple and secular authority rests — a fiction
+          The divine sovereign, on whose claim all temple and secular authority rests – a fiction
           nobody believes and nobody may abandon.
     offices:
       Haty'a: Nomarch, governing a nome with armies, taxes and courts of his own.
-      Heka'hut: Ruler of an estate — manor, fields and village — answerable to the nomarch.
+      Heka'hut: Ruler of an estate – manor, fields and village – answerable to the nomarch.
       Nebet'hut: Mistress of an estate, holding the same authority in her own right.
       Nebet: Lady of the court, whose standing comes from position rather than from land.
       Semer: >-
-        Companion of the Per-Aá: a title of royal favour and access rather than territorial
+        Companion of the Per-Aá: a title of royal favor and access rather than territorial
         authority.
       Wer'Hekau: >-
-        Great of Sacred Power — High Priest of a major temple, master of its estates and voice
+        Great of Sacred Power – High Priest of a major temple, master of its estates and voice
         of its god.
       Hem'Netjer: >-
-        Servant of the God — the ordained priesthood that conducts the rites and runs the
+        Servant of the God – the ordained priesthood that conducts the rites and runs the
         temple's lands.
       Wab: >-
-        Purified One — acolyte in the temple schools, years from ordination and already better
+        Purified One – acolyte in the temple schools, years from ordination and already better
         educated than most.
       Overseer of Scribes: Head of a bureau of the administration, commanding the lettered
         men who actually govern.
       Nomarch's Steward: Administrator of the nome's revenue, its granaries and its corvée.
-      Canal-Warden: Keeper of the irrigation works on which the nome's harvest — and its tax
-        — depends.
+      Canal-Warden: Keeper of the irrigation works on which the nome's harvest – and its tax
+        – depends.
   commonSkills:
     - kheperlng
   seat: sau
@@ -119,11 +119,11 @@ The Nome of Sau-Neferu holds the land of [[place-sauneferunome|Sau-Neferu]]. It 
 
 ## Character
 
-The working population is a broad class of orchard-smallholders, tenant-farmers, and the pressmen, coopers, and carters who turn the harvest into oil and wine; above them sits a leisured gentry of merchant-villa owners who treat the nome as a retreat from the noise of the ports. It is a devout, festival-loving, pleasure-easy country — Íšét's birth-shrines and Hápi's harvest-feasts fill its calendar — and it has the lowest opinion of hard work and the highest opinion of a good vintage of any nome in the empire.
+The working population is a broad class of orchard-smallholders, tenant-farmers, and the pressmen, coopers, and carters who turn the harvest into oil and wine; above them sits a leisured gentry of merchant-villa owners who treat the nome as a retreat from the noise of the ports. It is a devout, festival-loving, pleasure-easy country – Íšét's birth-shrines and Hápi's harvest-feasts fill its calendar – and it has the lowest opinion of hard work and the highest opinion of a good vintage of any nome in the empire.
 
 ## For the Worldbuilder
 
-Sau-Neferu is the empire's pleasure-garden — run it as a place of wealth at rest rather than wealth at work, the country-estate counterpart to the ports' counting-houses. The conflicts here are quieter and more personal than in the harbor-nomes: villa-rivalries and marriage-alliances among the merchant gentry, the vintners' jealousies over the best slopes and the most prized labels, smuggling of high-value wine and oil to dodge the customs, poison and inheritance among the leisured rich, and the resentment of the orchard-tenants beneath the comfortable surface. It is also the natural place to set the softer side of delta intrigue: a foreign agent or a fugitive courtier is far likelier to hide in a Sau-Neferu villa than in a Per-Ankhet warehouse. What is abundant here is wine, oil, fruit, and leisure; what is scarce is grain (imported), and any of the delta's harder edge.
+Sau-Neferu is the empire's pleasure-garden – run it as a place of wealth at rest rather than wealth at work, the country-estate counterpart to the ports' counting-houses. The conflicts here are quieter and more personal than in the harbor-nomes: villa-rivalries and marriage-alliances among the merchant gentry, the vintners' jealousies over the best slopes and the most prized labels, smuggling of high-value wine and oil to dodge the customs, poison and inheritance among the leisured rich, and the resentment of the orchard-tenants beneath the comfortable surface. It is also the natural place to set the softer side of delta intrigue: a foreign agent or a fugitive courtier is far likelier to hide in a Sau-Neferu villa than in a Per-Ankhet warehouse. What is abundant here is wine, oil, fruit, and leisure; what is scarce is grain (imported), and any of the delta's harder edge.
 
 ## Commerce and Currency
 
@@ -131,9 +131,9 @@ Sau-Neferu uses the [[lore-tkhprcrncy|Ta'Kheperu currency system]]. Its high-val
 
 ## See Also
 
-- [[affiliation-deltanomes|The Delta Nomes]] — Parent nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[place-sau|Sau]] — Nome capital
-- [[affiliation-nomeprnkht|The Nome of Per-Ankhet]] — Neighboring port-nome whose merchants summer here
-- [[affiliation-kemtnpnthn|Kemetian]] — Pantheon
-- [[place-sauneferunome|Sau-Neferu]] — The land the nome holds
+- [[affiliation-deltanomes|The Delta Nomes]] – Parent nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview
+- [[place-sau|Sau]] – Nome capital
+- [[affiliation-nomeprnkht|The Nome of Per-Ankhet]] – Neighboring port-nome whose merchants summer here
+- [[affiliation-kemtnpnthn|Kemetian]] – Pantheon
+- [[place-sauneferunome|Sau-Neferu]] – The land the nome holds

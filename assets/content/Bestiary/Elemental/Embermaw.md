@@ -395,11 +395,11 @@ sohl:
 
 ![[embermaw|Embermaw]]{float: top-left}
 
-Before you, the ground itself seems to become molten. A creature writhes upward from heat-shimmer and flame—vaguely reptilian, perhaps twelve feet from snout to tail, composed of roiling lava and burning rock held in a rough dragon shape. Its mouth opens to reveal an interior of pure flame and magma-drip. The heat is overwhelming, a physical force that forces you to squint and turn your face away. With each movement, cracks form in the earth beneath it, glowing orange-red from within.
+Before you, the ground itself seems to become molten. A creature writhes upward from heat-shimmer and flame – vaguely reptilian, perhaps twelve feet from snout to tail, composed of roiling lava and burning rock held in a rough dragon shape. Its mouth opens to reveal an interior of pure flame and magma-drip. The heat is overwhelming, a physical force that forces you to squint and turn your face away. With each movement, cracks form in the earth beneath it, glowing orange-red from within.
 
 # Dossier {#dossier}
 
-Embermaws are elementals of pure molten heat and destructive fire, more powerful than their smaller cousins the Emberhounds. They are drawn to volcanic regions and places of extreme geothermal activity, where they feed on the earth's own fire. An Embermaw is driven as much by hunger as by territorial aggression. They are not mindless—they plan hunts and understand tactics—but their primary motivation is destruction and consumption. An Embermaw encountered in the wild is almost certainly a threat that will need to be fought or avoided entirely.
+Embermaws are elementals of pure molten heat and destructive fire, more powerful than their smaller cousins the Emberhounds. They are drawn to volcanic regions and places of extreme geothermal activity, where they feed on the earth's own fire. An Embermaw is driven as much by hunger as by territorial aggression. They are not mindless – they plan hunts and understand tactics – but their primary motivation is destruction and consumption. An Embermaw encountered in the wild is almost certainly a threat that will need to be fought or avoided entirely.
 
 ## Presentation
 
@@ -455,7 +455,7 @@ The Embermaw can regenerate wounds by immersing itself in lava or standing near 
 
 ## Additional Information
 
-Cold is the Embermaw's primary weakness. Large bodies of cold water can harm it significantly, and sustained cold-based magic can reduce its effectiveness. An Embermaw cannot remain in frozen terrain for extended periods—the cold causes it to become sluggish and eventually dormant. Some fortifications are built with cold-resistant materials and anti-fire barriers specifically to counter Embermaw threats. An Embermaw destroyed far from volcanic heat may not reform, depending on its origin. One destroyed near lava or in volcanic regions will likely return after several seasons. Permanent destruction requires either taking it far from all heat sources and destroying it, or collapsing its location into deeper magma where it will be carried away into the earth's depths.
+Cold is the Embermaw's primary weakness. Large bodies of cold water can harm it significantly, and sustained cold-based magic can reduce its effectiveness. An Embermaw cannot remain in frozen terrain for extended periods – the cold causes it to become sluggish and eventually dormant. Some fortifications are built with cold-resistant materials and anti-fire barriers specifically to counter Embermaw threats. An Embermaw destroyed far from volcanic heat may not reform, depending on its origin. One destroyed near lava or in volcanic regions will likely return after several seasons. Permanent destruction requires either taking it far from all heat sources and destroying it, or collapsing its location into deeper magma where it will be carried away into the earth's depths.
 
 ## Attributes
 

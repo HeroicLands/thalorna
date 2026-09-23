@@ -7,7 +7,7 @@ name:
     - Khazari
     - Dwarven
     - Elder Tongue
-description: "The second of the Elder Tongues — short, percussive, and consonant-heavy, kept alive in the holds of the Khazári."
+description: "The second of the Elder Tongues – short, percussive, and consonant-heavy, kept alive in the holds of the Khazári."
 shortcode: khazarlng
 type: skill
 subType: language
@@ -32,7 +32,7 @@ Khazári is a tongue of the Elder family. Fluency measures the sophistication of
 
 ## Overview
 
-Khazári is the language of the **Khazári** (known in human legends as "dwarves"), the second of the Elder Races and one of the oldest peoples on Thalorna. The Khazári are vanishingly rare—fewer than one in ten thousand inhabitants of Thalorna—and their language is nearly as rare, spoken only in isolated mountain strongholds and passed down within closely-guarded family traditions.
+Khazári is the language of the **Khazári** (known in human legends as "dwarves"), the second of the Elder Races and one of the oldest peoples on Thalorna. The Khazári are vanishingly rare – fewer than one in ten thousand inhabitants of Thalorna – and their language is nearly as rare, spoken only in isolated mountain strongholds and passed down within closely-guarded family traditions.
 
 To the human ear, Khazári sounds hard and percussive: short, consonant-heavy words that crack and resound like hammer-blows on stone. There are few long vowels, few flowing transitions. Instead, the language emphasizes sharp stops, rolling liquids, and harsh consonants that seem to echo in cavernous spaces. A Khazári speaker sounds strong and commanding, even when speaking softly.
 
@@ -51,27 +51,27 @@ Khazári consonantal inventory emphasizes hard, resonant sounds:
 - **Affricates**: KR (combination), GR (combination)
 - **Glottal stop** ('): Rare, used for emphatic separation
 
-**Consonant clusters are common** in Khazári, unlike most other Thalorna languages. Words like _Krdol_ or _Thrakn_ contain two consonants in sequence. This contributes to the language's dense, compact quality—more information per syllable.
+**Consonant clusters are common** in Khazári, unlike most other Thalorna languages. Words like _Krdol_ or _Thrakn_ contain two consonants in sequence. This contributes to the language's dense, compact quality – more information per syllable.
 
 ### Vowels
 
 Khazári distinguishes **five basic vowels**, with short forms strongly preferred:
 
-- **A** (short, ah-like) — bright, metallic
-- **E** (short, eh-like) — clear, direct
-- **I** (short, ih-like) — sharp, cutting
-- **O** (short, oh-like) — deep, resonant
-- **U** (short, uh-like) — rounded, muffled
+- **A** (short, ah-like) – bright, metallic
+- **E** (short, eh-like) – clear, direct
+- **I** (short, ih-like) – sharp, cutting
+- **O** (short, oh-like) – deep, resonant
+- **U** (short, uh-like) – rounded, muffled
 
 **Long vowels** are rare and marked, typically indicating emphasis or importance:
 
-- **Â** (long a) — emphasis, power, significance
+- **Â** (long a) – emphasis, power, significance
 
 Diphthongs are **extremely rare** in Khazári. When they do occur, they are compressed and abbreviated (AE, AU, OI), and they carry strong semantic weight.
 
 ### Stress and Prosody
 
-Stress in Khazári is **regular and predictable**: the first syllable of any word receives primary stress. This gives the language a characteristic "punching" rhythm—the beginning of each word is emphasized, then the word trails off.
+Stress in Khazári is **regular and predictable**: the first syllable of any word receives primary stress. This gives the language a characteristic "punching" rhythm – the beginning of each word is emphasized, then the word trails off.
 
 Example: **THRAL**-dir (stress on THRAL) vs. Sinalë **Thain**-dor (more even distribution)
 
@@ -83,9 +83,9 @@ The language employs **minimal pitch variation**. Formal speech is nearly monoto
 
 Khazári employs **Subject-Verb-Object (SVO)** word order, identical to most human languages:
 
-- _Durinor throk hamardin_ — "Durinor forges the hammer" (direct, unambiguous)
+- _Durinor throk hamardin_ – "Durinor forges the hammer" (direct, unambiguous)
 
-This straightforward structure reflects Khazári philosophical practicality: the actor, action, and result are presented in logical sequence. No philosophical mysteries, no poetic ambiguity—just what is.
+This straightforward structure reflects Khazári philosophical practicality: the actor, action, and result are presented in logical sequence. No philosophical mysteries, no poetic ambiguity – just what is.
 
 ### Verbs
 
@@ -93,20 +93,20 @@ Khazári verbs **conjugate extensively for tense and aspect** through a system o
 
 **Tense Markers (suffixes):**
 
-- **Present**: _-ak_ (e.g., _throk-ak_ — "forges" / "is forging")
-- **Past**: _-ag_ (e.g., _throk-ag_ — "forged")
-- **Future**: _-ak-tor_ (e.g., _throk-ak-tor_ — "will forge")
+- **Present**: _-ak_ (e.g., _throk-ak_ – "forges" / "is forging")
+- **Past**: _-ag_ (e.g., _throk-ag_ – "forged")
+- **Future**: _-ak-tor_ (e.g., _throk-ak-tor_ – "will forge")
 
 **Aspect Markers (prefixes):**
 
-- **Perfective** (completed action): _kr-_ (e.g., _kr-throk_ — "has forged")
-- **Habitual** (repeated action): _gl-_ (e.g., _gl-throk_ — "forges habitually" / "is a forger")
+- **Perfective** (completed action): _kr-_ (e.g., _kr-throk_ – "has forged")
+- **Habitual** (repeated action): _gl-_ (e.g., _gl-throk_ – "forges habitually" / "is a forger")
 
 **Person is marked through separate pronouns, not verb suffixes:**
 
-- _Ak throk-ak_ — "I forge"
-- _Dur throk-ak_ — "You (singular) forge"
-- _Ol throk-ak_ — "He/she/it forges"
+- _Ak throk-ak_ – "I forge"
+- _Dur throk-ak_ – "You (singular) forge"
+- _Ol throk-ak_ – "He/she/it forges"
 
 ### Nouns
 
@@ -125,14 +125,14 @@ Example: _Hamar_ (hammer-nom.) > _Hamarim_ (hammer's) > _Hamarum_ (in the hammer
 
 **Gender** is grammatical but not semantic: every noun is classified as masculine, feminine, or neuter, affecting adjective agreement:
 
-- _Grimbold Thraldir_ — "Gray (masc.) forge" (forge is masculine)
-- _Grimda Khazta_ — "Gray (fem.) stone" (stone is feminine)
+- _Grimbold Thraldir_ – "Gray (masc.) forge" (forge is masculine)
+- _Grimda Khazta_ – "Gray (fem.) stone" (stone is feminine)
 
 ### Adjectives
 
 Adjectives **agree with nouns** in gender, number, and case:
 
-- _Grimbold Thraldir-ir_ — "of the Gray Forge" (adjective and noun both in genitive)
+- _Grimbold Thraldir-ir_ – "of the Gray Forge" (adjective and noun both in genitive)
 
 Adjectives typically **precede nouns**, though poetic inversion is allowed.
 
@@ -148,7 +148,7 @@ Compounds are written as single words, and their meaning is understood through l
 
 ## Script and Literacy
 
-Khazári is written in [[skill-drthrkscrpt|Durthrak]], an **angular, geometric script** that resembles runes carved into stone — or rather, the runes of the Pelwar peoples resemble it, being in all likelihood a reduced work-row taught to the Proto-Pelwar tribes when those tribes were Khazári subjects, and simplified twice over since. Letters are angular and blocky, designed to be carved efficiently into rock or metal. The script is written left-to-right, top-to-bottom, but letters do not connect—each is distinct.
+Khazári is written in [[skill-drthrkscrpt|Durthrak]], an **angular, geometric script** that resembles runes carved into stone – or rather, the runes of the Pelwar peoples resemble it, being in all likelihood a reduced work-row taught to the Proto-Pelwar tribes when those tribes were Khazári subjects, and simplified twice over since. Letters are angular and blocky, designed to be carved efficiently into rock or metal. The script is written left-to-right, top-to-bottom, but letters do not connect – each is distinct.
 
 Key features:
 
@@ -157,7 +157,7 @@ Key features:
 - **Diacritical marks**: Notches, dots, and lines indicate pronunciation variants or emphasis
 - **Formality variants**: More elaborate, decorative versions for monuments or sacred texts
 
-Literacy in Khazári is **nearly universal among the Khazári**—writing is fundamental to their culture of craftsmanship, record-keeping, and genealogy. However, human literacy in Khazári is **very rare**. Only dedicated scholars or those with Khazári kinship learn to read or write the language.
+Literacy in Khazári is **nearly universal among the Khazári** – writing is fundamental to their culture of craftsmanship, record-keeping, and genealogy. However, human literacy in Khazári is **very rare**. Only dedicated scholars or those with Khazári kinship learn to read or write the language.
 
 ## Historical Development
 
@@ -183,11 +183,11 @@ Inter-stronghold communication is maintained through formal written records and 
 
 ## Sample Phrases
 
-- _Durinor! Ol hamarthrok-ir throk-ak thrungol_ — "Durinor! He forges with honor in the great forge" (greeting or acknowledgment)
-- _Stonehammer throk-ag, vamirthur throk-ak-tor_ — "The Stonehammer forged, and thunder will forge again" (reference to legendary weapons or ancestral craft)
-- _Ol grinmold Thraldir-um_ — "He stands in the Gray Forge" (statement of location or identity)
-- _Krol throk-ag-ol, krol throk-ak-tor_ — "Stone forged, stone will forge forever" (eternal principle)
-- _Hamarthrok-ir vamirth, Durinor-ir vamirth_ — "Forge's pride, Durinor's pride" (affirmation of honor)
+- _Durinor! Ol hamarthrok-ir throk-ak thrungol_ – "Durinor! He forges with honor in the great forge" (greeting or acknowledgment)
+- _Stonehammer throk-ag, vamirthur throk-ak-tor_ – "The Stonehammer forged, and thunder will forge again" (reference to legendary weapons or ancestral craft)
+- _Ol grinmold Thraldir-um_ – "He stands in the Gray Forge" (statement of location or identity)
+- _Krol throk-ag-ol, krol throk-ak-tor_ – "Stone forged, stone will forge forever" (eternal principle)
+- _Hamarthrok-ir vamirth, Durinor-ir vamirth_ – "Forge's pride, Durinor's pride" (affirmation of honor)
 
 ## Related Languages
 
@@ -214,16 +214,16 @@ Khazári names are **short, powerful compounds** that encapsulate identity. Name
 1. **Personal name** (descriptive or ancestral): Often a quality, achievement, or lineage reference
 2. **Clan name** (patrilineal, literal compound): Encodes craft, geological feature, or martial quality
 
-Khazári believe names are not merely labels but **destiny markers**—a name shapes the bearer's path and duty. Naming is a sacred act, performed by elders with great ceremony.
+Khazári believe names are not merely labels but **destiny markers** – a name shapes the bearer's path and duty. Naming is a sacred act, performed by elders with great ceremony.
 
 ### Personal Names
 
 Personal names are usually one or two syllables, reflecting Khazári phonological compactness:
 
-- _Durin_ — "lasting" / "enduring" (strength, longevity)
-- _Throin_ — "bold" / "fierce" (courage)
-- _Balak_ — "mighty" (power, authority)
-- _Falka_ — "swift" (speed, agility)
+- _Durin_ – "lasting" / "enduring" (strength, longevity)
+- _Throin_ – "bold" / "fierce" (courage)
+- _Balak_ – "mighty" (power, authority)
+- _Falka_ – "swift" (speed, agility)
 
 Names often reference:
 
@@ -237,14 +237,14 @@ Parents name children to mark births, achievements, or circumstances. A child bo
 
 Clan names are **inherited patrilineally** and carry **literal, compound meanings** tied to craft, geology, or quality:
 
-- _Stonehammer_ — literal: "stone" + "hammer" (family of stone-workers and smiths)
-- _Ironkeep_ — literal: "iron" + "keep" (family that maintains iron fortresses)
-- _Deepdelver_ — literal: "deep" + "delver" (family of miners, those who dig deep)
-- _Forgebinder_ — literal: "forge" + "binder" (family of master smiths, those who bind metals)
+- _Stonehammer_ – literal: "stone" + "hammer" (family of stone-workers and smiths)
+- _Ironkeep_ – literal: "iron" + "keep" (family that maintains iron fortresses)
+- _Deepdelver_ – literal: "deep" + "delver" (family of miners, those who dig deep)
+- _Forgebinder_ – literal: "forge" + "binder" (family of master smiths, those who bind metals)
 
 Clan names are not poetic or metaphorical. A Khazári named _Stonehammer_ comes from a lineage of literal stone-workers and blacksmiths. The name encodes ancestry, profession, and responsibility.
 
-When a Khazári achieves extraordinary deeds, they may earn a **new clan name** through legend. This is rare and deeply significant—it marks the establishment of a new lineage. The new name is then passed to descendants.
+When a Khazári achieves extraordinary deeds, they may earn a **new clan name** through legend. This is rare and deeply significant – it marks the establishment of a new lineage. The new name is then passed to descendants.
 
 ### Gender and Naming
 

@@ -2,7 +2,7 @@
 tags:
   - history
   - spine
-description: "The zero of Tānvür's Celestial Calendar — the first perfect alignment after the Great Sorting, the first appointment under the Mandate of Heaven, and a date every bureau of the empire files against and no record outside it carries."
+description: "The zero of Tānvür's Celestial Calendar – the first perfect alignment after the Great Sorting, the first appointment under the Mandate of Heaven, and a date every bureau of the empire files against and no record outside it carries."
 type: lore
 subType: history
 name:
@@ -77,7 +77,7 @@ is exact, and inside the empire it is not offered as tradition or as a way of sp
 every bureau files against, the date a Tānthëi computes a Generation from, and the date a household
 names when it burns the year's spirit money.
 
-The dynastic record is a separate instrument and does not reach anything like so far — see
+The dynastic record is a separate instrument and does not reach anything like so far – see
 [[lore-tanvurdyn|the oldest dynasty the archive can date]]. Both figures are current in Tānvür and they
 are not rivals. One is the epoch of cosmic time, held as revelation and stated as fact. The other is
 the earliest point at which the empire's filing cabinets can produce an emperor, a dynasty and a year

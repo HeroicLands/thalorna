@@ -3,7 +3,7 @@ tags:
   - village
   - caravan
   - inland
-description: "The western Ösket village between the storm-door and the sixth road — herders who take two caravans a year and keep something worth a great deal more."
+description: "The western Ösket village between the storm-door and the sixth road – herders who take two caravans a year and keep something worth a great deal more."
 type: place
 subType: settlement
 data:

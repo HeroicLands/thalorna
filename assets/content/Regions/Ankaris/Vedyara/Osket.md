@@ -2,7 +2,7 @@
 tags: []
 type: affiliation
 subType: polity
-description: The guide-people of the western and central crossings — hereditary lineages who hold the roads over the wall, keep the one road nobody else knows, and answer to no authority below the cols.
+description: The guide-people of the western and central crossings – hereditary lineages who hold the roads over the wall, keep the one road nobody else knows, and answer to no authority below the cols.
 name:
   full: The Ösket
   aliases: []
@@ -102,17 +102,17 @@ data:
 packFolder: vedyara
 ---
 
-The **Ösket** hold the western and central crossings of [[place-graznmntns|the Grazian wall]] — [[place-meghadvara|Meghadvāra]], [[place-suryadvara|Sūryadvāra]], [[place-tamradvara|Tāmradvāra]] and [[place-gudesroad|the Guides' Road]] — and without them nothing crosses. They are not a kingdom, a tribe or a confederation in any sense a lowland clerk would recognise, and the word they use for themselves means, as near as anyone has got, "the people of the way".
+The **Ösket** hold the western and central crossings of [[place-graznmntns|the Grazian wall]] – [[place-meghadvara|Meghadvāra]], [[place-suryadvara|Sūryadvāra]], [[place-tamradvara|Tāmradvāra]] and [[place-gudesroad|the Guides' Road]] – and without them nothing crosses. They are not a kingdom, a tribe or a confederation in any sense a lowland clerk would recognize, and the word they use for themselves means, as near as anyone has got, "the people of the way."
 
 ## What a Lineage Is
 
-An Ösket lineage is a hearth, its herds, its high pasture and one road. The road is the important part: a lineage holds a crossing by descent, takes every party that goes over it, and has no standing whatever on anyone else's. There is no appeal from a lineage to a larger body, because there is no larger body — when a question touches two roads the lineages concerned meet at a col, argue it, and go home, and the Speaker who convenes them is chosen for the meeting and holds nothing afterwards.
+An Ösket lineage is a hearth, its herds, its high pasture and one road. The road is the important part: a lineage holds a crossing by descent, takes every party that goes over it, and has no standing whatever on anyone else's. There is no appeal from a lineage to a larger body, because there is no larger body – when a question touches two roads the lineages concerned meet at a col, argue it, and go home, and the Speaker who convenes them is chosen for the meeting and holds nothing afterward.
 
-Knowledge runs through the women. A guide-mother holds the road — the weather-signs, the years a shelf has moved, which loads a yak-route will carry, the count of the dead and where each of them stopped — and she says whether a caravan goes today. Men walk it. The distinction is not ceremonial and no lowlander has ever successfully bought round it.
+Knowledge runs through the women. A guide-mother holds the road – the weather-signs, the years a shelf has moved, which loads a yak-route will carry, the count of the dead and where each of them stopped – and she says whether a caravan goes today. Men walk it. The distinction is not ceremonial and no lowlander has ever successfully bought round it.
 
 ## Outside the Order
 
-Above the last [[place-pssshrines|Pass-Shrine]] the varṇa order does not reach. The Ösket are not outcaste, which is a position within the system; they are not addressed by it at all, cannot be placed in it, and have never asked to be. Vedyari jurists have written around this for eight centuries with great ingenuity, and the practical position — that a shrine-brahmin will eat in an Ösket house on the col and would not do so in the valley — has never once been tested in a court.
+Above the last [[place-pssshrines|Pass-Shrine]] the varṇa order does not reach. The Ösket are not outcaste, which is a position within the system; they are not addressed by it at all, cannot be placed in it, and have never asked to be. Vedyari jurists have written around this for eight centuries with great ingenuity, and the practical position – that a shrine-brahmin will eat in an Ösket house on the col and would not do so in the valley – has never once been tested in a court.
 
 ## What They Take
 
@@ -122,7 +122,7 @@ Outsiders are told what to do and not why. This is not mystification; it is what
 
 ## The Sixth Road
 
-The Ösket keep a crossing nobody blesses, nobody taxes and nobody else can find. What it is worth, who has paid for it and what happens to a lineage that sells it are matters they settle among themselves, and the two occasions on which a lineage did sell it are remembered by the Ösket in detail and by everyone else as rumour.
+The Ösket keep a crossing nobody blesses, nobody taxes and nobody else can find. What it is worth, who has paid for it and what happens to a lineage that sells it are matters they settle among themselves, and the two occasions on which a lineage did sell it are remembered by the Ösket in detail and by everyone else as rumor.
 
 ## See Also
 

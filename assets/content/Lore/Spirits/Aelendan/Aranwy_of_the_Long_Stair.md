@@ -4,7 +4,7 @@ tags:
   - first-gods
 type: lore
 subType: spirit
-description: "River-mother of the Long Stair — exacting, exact, and the reason nobody climbs past the lowest pool."
+description: "River-mother of the Long Stair – exacting, exact, and the reason nobody climbs past the lowest pool."
 name:
   full: Aranwy of the Long Stair
   aliases: []

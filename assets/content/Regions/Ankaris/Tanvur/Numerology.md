@@ -16,11 +16,11 @@ In the [[affiliation-tanvurempr|Empire of Tānvür]], numerology plays a signifi
 
 #### Eight (8)
 
-The number 8 is highly auspicious as it represents infinity, balance, and harmony. Its continuous loop shape symbolizes the eternal cycle of classification — the ongoing process by which the cosmic administration sorts, maintains, and renews the ordered world. The number 8 is strongly associated with wealth and prosperity, since the eight castes represent the complete classification of Tānvüri society. Marriages, business filings, and important ceremonies are frequently scheduled on dates involving the number 8 to ensure favorable processing.
+The number 8 is highly auspicious as it represents infinity, balance, and harmony. Its continuous loop shape symbolizes the eternal cycle of classification – the ongoing process by which the cosmic administration sorts, maintains, and renews the ordered world. The number 8 is strongly associated with wealth and prosperity, since the eight castes represent the complete classification of Tānvüri society. Marriages, business filings, and important ceremonies are frequently scheduled on dates involving the number 8 to ensure favorable processing.
 
 #### Nine (9)
 
-The number 9 is associated with the celestial administration and is considered a number of completeness and cosmic perfection — the highest single digit, representing the fullest expression of classified order. Nine is revered in ceremonies related to the Emperor and the [[lore-zheklung|Zhëklüng]] caste, as it is connected to the Tëngvōr (Mandate of Heaven) and the cosmic appointment of the imperial line. It is also considered a number of protection, used in rituals to reinforce classification boundaries against the Hürnlëi.
+The number 9 is associated with the celestial administration and is considered a number of completeness and cosmic perfection – the highest single digit, representing the fullest expression of classified order. Nine is revered in ceremonies related to the Emperor and the [[lore-zheklung|Zhëklüng]] caste, as it is connected to the Tëngvōr (Mandate of Heaven) and the cosmic appointment of the imperial line. It is also considered a number of protection, used in rituals to reinforce classification boundaries against the Hürnlëi.
 
 #### Five (5)
 
@@ -38,7 +38,7 @@ The number 1 represents unity, leadership, and the beginning of all things. It i
 
 #### Four (4)
 
-The number 4 is considered inauspicious because it corresponds to no natural classification boundary — it is not an elemental number (5), not a completeness number (9), and not a unity number (1). The Tānvüri understand 4 as an _unsorted_ number, associated with incompleteness and classification failure. It is avoided in important filings, building construction, and naming practices, as its use is believed to weaken the cosmic sorting of whatever it is associated with.
+The number 4 is considered inauspicious because it corresponds to no natural classification boundary – it is not an elemental number (5), not a completeness number (9), and not a unity number (1). The Tānvüri understand 4 as an _unsorted_ number, associated with incompleteness and classification failure. It is avoided in important filings, building construction, and naming practices, as its use is believed to weaken the cosmic sorting of whatever it is associated with.
 
 #### Six (6)
 
@@ -52,7 +52,7 @@ While the number 6 can have positive connotations in some contexts, it is often 
 
 ### See Also
 
-- [[lore-marriage|Marriage]] — Wedding dates and ceremonies influenced by numerology
-- [[lore-clndrstrlgy|Calendar and Astrology]] — The calendar system that numerology interacts with
-- [[lore-phlsphylvr|Philosophy of Lëivōr]] — The cosmic framework that gives numbers their meaning
-- [[affiliation-tanvurempr|Empire of Tānvür]] — Overview of imperial culture
+- [[lore-marriage|Marriage]] – Wedding dates and ceremonies influenced by numerology
+- [[lore-clndrstrlgy|Calendar and Astrology]] – The calendar system that numerology interacts with
+- [[lore-phlsphylvr|Philosophy of Lëivōr]] – The cosmic framework that gives numbers their meaning
+- [[affiliation-tanvurempr|Empire of Tānvür]] – Overview of imperial culture

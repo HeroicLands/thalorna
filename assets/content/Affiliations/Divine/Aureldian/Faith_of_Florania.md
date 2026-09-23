@@ -22,7 +22,7 @@ data:
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out — denied the rites, the temple and the burial the faith promises, which is the one
+          Cast out – denied the rites, the temple and the burial the faith promises, which is the one
           sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
@@ -78,7 +78,7 @@ Goddess of fertility, growth, and healing. Flórania ensures the fertility of pe
 
 ## Worship
 
-The worship of Flórania is joyous, exuberant, and deeply sensual—a celebration of abundance, pleasure, healing, and the creative power of life itself. Her temples are built to capture light, decorated with flowers, fountains, and gardens of extraordinary beauty. Priestesses of Flórania are trained in the cultivation of flowers and healing herbs, in the arts of medicine and midwifery, and in the celebration of love and desire. Where other temples may be austere or solemn, Flórania's sanctuaries are places of beauty and comfort, filled with fragrant blooms, singing birds, and the sound of water.
+The worship of Flórania is joyous, exuberant, and deeply sensual – a celebration of abundance, pleasure, healing, and the creative power of life itself. Her temples are built to capture light, decorated with flowers, fountains, and gardens of extraordinary beauty. Priestesses of Flórania are trained in the cultivation of flowers and healing herbs, in the arts of medicine and midwifery, and in the celebration of love and desire. Where other temples may be austere or solemn, Flórania's sanctuaries are places of beauty and comfort, filled with fragrant blooms, singing birds, and the sound of water.
 
 The great festival honoring Flórania occurs in early spring at the first signs of new growth, and it is celebrated with elaborate pageantry, music, dancing, and feasting. The Festival of the First Bloom lasts seven days in most cities and is marked by processions of priestesses crowned with fresh flowers, by the opening of new gardens, and by communal planting ceremonies where all are invited to place seeds in the earth. Marriages and handfastings frequently occur during this festival, the goddess blessing the unions with fertility and lasting joy. Young couples exchange flower garlands, and the priesthood performs elaborate blessings for couples hoping to conceive. Markets overflow with fresh produce, flowers, and honey-cakes, and the air itself seems to shimmer with possibility.
 
@@ -86,7 +86,7 @@ Another significant celebration, the Blessing of the Harvest, occurs in late sum
 
 Individual worship of Flórania is warm and personal. Pregnant women visit her temples frequently, seeking blessings for easy delivery and healthy children. The sick and injured come seeking healing from priestesses who are herbalists and healers, understanding that Flórania's gifts extend to the restoration of bodies damaged by illness or wound. Those mourning the loss of a child sometimes keep vigil at Flórania's shrines, seeking comfort and renewal. Young people on the eve of their first romantic involvement often leave offerings at her altars, seeking her blessing for love.
 
-Offerings to Flórania are abundant and sensory—fresh flowers, honey, wine, sweet herbs, and the first fruits of harvest. Many homes maintain small shrines to the goddess with blooming plants or fresh flowers, which are replaced regularly as they fade. Gardens and herb-lofts maintained for healing purposes are often dedicated to Flórania, and those who work in healing professions frequently maintain personal devotion to the goddess.
+Offerings to Flórania are abundant and sensory – fresh flowers, honey, wine, sweet herbs, and the first fruits of harvest. Many homes maintain small shrines to the goddess with blooming plants or fresh flowers, which are replaced regularly as they fade. Gardens and herb-lofts maintained for healing purposes are often dedicated to Flórania, and those who work in healing professions frequently maintain personal devotion to the goddess.
 
 ## Organization
 
@@ -102,7 +102,7 @@ A distinctive institution within Flórania's faith is the **House of Healing**, 
 
 Flórania stands in joyful partnership with [[affiliation-lusinia|Lúsinía]], together representing the full cycle of fertility and growth. Where Lúsinía emphasizes patience, cultivation, and the methodical work of creation, Flórania celebrates joy, pleasure, and the abundant flowering of life. The two goddesses are frequently invoked together at planting and harvest times, and their priesthoods often cooperate in festivals and healing work.
 
-The relationship with [[affiliation-morvana|Mórváná]] is one of gentle contrast rather than conflict. Flórania celebrates abundance and renewal; Mórváná reminds mortals that all things must eventually fade. The two faiths acknowledge each other as complementary truths—enjoy the flowers while they bloom, knowing that they will wilt and return to earth. Some temples maintain joint shrines where Flórania's fresh blooms are displayed beside withered flowers sacred to Mórváná, teaching both celebration and acceptance.
+The relationship with [[affiliation-morvana|Mórváná]] is one of gentle contrast rather than conflict. Flórania celebrates abundance and renewal; Mórváná reminds mortals that all things must eventually fade. The two faiths acknowledge each other as complementary truths – enjoy the flowers while they bloom, knowing that they will wilt and return to earth. Some temples maintain joint shrines where Flórania's fresh blooms are displayed beside withered flowers sacred to Mórváná, teaching both celebration and acceptance.
 
 Flórania maintains cordial relations with [[affiliation-menerva|Ménérva]], recognizing that knowledge of plants, medicine, and healing comes through both intuition and study. Many priestesses of Flórania are accomplished herbalists who consult with scholars of Ménérva to understand the deeper nature of the plants they cultivate. Libraries of Ménérva often employ priestesses of Flórania as consultants on medical and botanical texts.
 

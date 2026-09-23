@@ -1,7 +1,7 @@
 ---
 tags:
   - region
-description: "The land of the Kingdom of Malagna — the westernmost of the Nordmen kingdoms, fjord-cut coastline and forested highlands facing the open ocean."
+description: "The land of the Kingdom of Malagna – the westernmost of the Nordmen kingdoms, fjord-cut coastline and forested highlands facing the open ocean."
 name:
   full: Malagna
   aliases: []
@@ -30,6 +30,6 @@ The kingdom is known for its shipbuilding. Malagnan longships are considered the
 
 ## See Also
 
-- [[affiliation-kingdomlgn|Kingdom of Malagna]] — The kingdom that holds this land
-- [[place-nrdlndsrgn|Nordlands Region]] — The enclosing region
-- Skorrborg — The seat
+- [[affiliation-kingdomlgn|Kingdom of Malagna]] – The kingdom that holds this land
+- [[place-nrdlndsrgn|Nordlands Region]] – The enclosing region
+- Skorrborg – The seat

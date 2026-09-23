@@ -258,7 +258,7 @@ sohl:
 
 ![[mmmthcnt|Mammoth Centipede]]{float: top-left}
 
-The vibration through the stone reaches you first—a rhythmic, undulating pulse like a second heartbeat in the earth itself. Then you see it: segment after segment of dark, chitinous plating emerging from the shadows, each plate slightly overlapping the next, rippling with an alien, fluid motion. The creature's antennae wave at the air, blindly seeking, and the sound of hundreds of tiny clawed feet pattering against stone fills the darkness. The mandibles—large, serrated, dripping something that glimmers faintly—open and close with a horrifying clacking sound. The smell is acrid, almost chemical, accompanied by the distinctive musk of something purely predatory and inhuman.
+The vibration through the stone reaches you first – a rhythmic, undulating pulse like a second heartbeat in the earth itself. Then you see it: segment after segment of dark, chitinous plating emerging from the shadows, each plate slightly overlapping the next, rippling with an alien, fluid motion. The creature's antennae wave at the air, blindly seeking, and the sound of hundreds of tiny clawed feet pattering against stone fills the darkness. The mandibles – large, serrated, dripping something that glimmers faintly – open and close with a horrifying clacking sound. The smell is acrid, almost chemical, accompanied by the distinctive musk of something purely predatory and inhuman.
 
 # Dossier {#dossier}
 
@@ -266,7 +266,7 @@ The Mammoth Centipede is a large arthropod measuring 5-8 feet in length and weig
 
 ## Presentation
 
-Each segment of the centipede's body is protected by overlapping plates that provide armor and flexibility. The body tapers slightly from front to rear, allowing it to navigate tight spaces. The antennae are extraordinarily long—sometimes nearly as long as the body itself—and are covered in sensory hairs that detect vibration, temperature, and scent. The mandibles are serrated and curved, designed to pierce and crush chitinous exoskeletons but equally effective against fleshy prey. The legs number in the dozens, each tipped with a small claw for purchase on any surface. Between the segments, glimpses of the softer, pale internal tissue are visible. A distinctive musky odor surrounds the creature.
+Each segment of the centipede's body is protected by overlapping plates that provide armor and flexibility. The body tapers slightly from front to rear, allowing it to navigate tight spaces. The antennae are extraordinarily long – sometimes nearly as long as the body itself – and are covered in sensory hairs that detect vibration, temperature, and scent. The mandibles are serrated and curved, designed to pierce and crush chitinous exoskeletons but equally effective against fleshy prey. The legs number in the dozens, each tipped with a small claw for purchase on any surface. Between the segments, glimpses of the softer, pale internal tissue are visible. A distinctive musky odor surrounds the creature.
 
 ## Key Behaviors
 
@@ -284,7 +284,7 @@ The centipede lunges with mandibles extended, striking at the closest vital area
 
 ### Constricting Coil
 
-For prey smaller than itself — small mammals, reptiles, and the like — the centipede uses its body length to wrap around the victim, compressing with surprising force; constricted prey is crushed steadily and can break free only by main strength. The coil is rarely effective against a humanoid-sized opponent, but it can pin a limb or trap an arm against the body, leaving the victim open to repeated bites.
+For prey smaller than itself – small mammals, reptiles, and the like – the centipede uses its body length to wrap around the victim, compressing with surprising force; constricted prey is crushed steadily and can break free only by main strength. The coil is rarely effective against a humanoid-sized opponent, but it can pin a limb or trap an arm against the body, leaving the victim open to repeated bites.
 
 ## Special Abilities
 

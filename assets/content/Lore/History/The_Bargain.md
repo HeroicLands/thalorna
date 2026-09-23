@@ -2,7 +2,7 @@
 tags:
   - history
   - spine
-description: "In 330 BF, holding the dragons' dead, the Vylarian Republic offers the one thing only it can offer — their return — and the dragons' price is the war; the term runs by the year, renewed, and nothing about it is ever written down."
+description: "In 330 BF, holding the dragons' dead, the Vylarian Republic offers the one thing only it can offer – their return – and the dragons' price is the war; the term runs by the year, renewed, and nothing about it is ever written down."
 type: lore
 subType: history
 name:
@@ -85,7 +85,7 @@ The dragons' price was the war.
 
 The shape of the agreement is the part that matters, and it is visible from the outside without any
 of the terms being known. It was not made for the war's duration. It was a **term of years, renewed**
-— which is why the Dragon Riders were a standing corps for two and a third centuries after the last
+– which is why the Dragon Riders were a standing corps for two and a third centuries after the last
 Helionite city-state fell, instead of disbanding with the legions that raised them, and why a
 Republican magistrate renewed a standing appropriation every year for the keeping of a thing his
 docket named only by a number. The chancery put a description on the line so that nobody would query
@@ -93,8 +93,8 @@ it. The description was not true.
 
 **Nothing of the terms was ever written down.** There is no treaty, no clause, no signature and no
 schedule; what exists is a renewal line with a lie on it, which is the only reason an arrangement of
-this kind survived at all. A party that establishes everything establishable — that something of the
-dragons' dead is held, where it is kept, and who keeps it — still cannot produce what was promised,
+this kind survived at all. A party that establishes everything establishable – that something of the
+dragons' dead is held, where it is kept, and who keeps it – still cannot produce what was promised,
 because it was never anywhere to be produced.
 
 Two and a half centuries later the term was not renewed and the return was refused, and

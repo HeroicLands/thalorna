@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "The Provènzian Grand Games — the great athletic and martial competition of Provènzia, and the occasion around which a season of the region's politics arranges itself."
+description: "The Provènzian Grand Games – the great athletic and martial competition of Provènzia, and the occasion around which a season of the region's politics arranges itself."
 type: lore
 subType: culture
 name:
@@ -12,4 +12,4 @@ shortcode: giochigrandi
 packFolder: settinglore
 ---
 
-The Provènzian Grand Games — the great athletic and martial competition of Provènzia, and the occasion around which a season of the region's politics arranges itself.
+The Provènzian Grand Games – the great athletic and martial competition of Provènzia, and the occasion around which a season of the region's politics arranges itself.

@@ -4,7 +4,7 @@ name:
   full: Vedyari Language
   aliases:
     - Vedyari
-description: "The language of the Vedyara city-states — a family in its own right, whose Classical register stands apart from every spoken vernacular."
+description: "The language of the Vedyara city-states – a family in its own right, whose Classical register stands apart from every spoken vernacular."
 shortcode: vedyarlng
 type: skill
 subType: language
@@ -29,7 +29,7 @@ Vedyari is a tongue of the Vedyari (isolate) family. Fluency measures the sophis
 
 ## Overview
 
-Vedyari is the primary tongue of the [[place-vedyarargn|City-States of Vedyara]]. A language of considerable antiquity, it has evolved across centuries into distinct classical and vernacular forms. Classical Vedyari—used in sacred texts, legal documents, and formal ceremonies—differs markedly from the spoken dialects of common discourse. The language carries weight and complexity, reflecting a civilization concerned with precision, ritual, and philosophical inquiry.
+Vedyari is the primary tongue of the [[place-vedyarargn|City-States of Vedyara]]. A language of considerable antiquity, it has evolved across centuries into distinct classical and vernacular forms. Classical Vedyari – used in sacred texts, legal documents, and formal ceremonies – differs markedly from the spoken dialects of common discourse. The language carries weight and complexity, reflecting a civilization concerned with precision, ritual, and philosophical inquiry.
 
 Vedyari speakers are found throughout the city-states and in trading communities across the eastern world. The language has proven remarkably durable, maintaining grammatical coherence even as phonological shifts have created regional variation.
 
@@ -108,7 +108,7 @@ Classical Vedyari follows a **Subject-Object-Verb (SOV)** order in main clauses,
 
 **Demotic Cursive:** A more flowing, connected variant has developed for administrative and mercantile use, reducing the syllabic inventory to roughly 36 core forms with additional ligatures.
 
-**Literacy:** Formal education in Classical Vedyari is the province of the priesthood, professional scribes, and perhaps 20-35% of the nobility. Even in the wealthiest city-states, the general population is overwhelmingly non-literate; merchants and guildsmen possess functional literacy at best — enough to recognize trade marks and numerals — and rely on scribes for contracts and record-keeping. In hinterland regions, literacy is virtually nonexistent outside the local temple. The mercantile caste has driven adoption of simplified script variants, but these are used by hired scribes rather than merchants themselves.
+**Literacy:** Formal education in Classical Vedyari is the province of the priesthood, professional scribes, and perhaps 20-35% of the nobility. Even in the wealthiest city-states, the general population is overwhelmingly non-literate; merchants and guildsmen possess functional literacy at best – enough to recognize trade marks and numerals – and rely on scribes for contracts and record-keeping. In hinterland regions, literacy is virtually nonexistent outside the local temple. The mercantile caste has driven adoption of simplified script variants, but these are used by hired scribes rather than merchants themselves.
 
 ## Historical Development
 
@@ -154,11 +154,11 @@ Classical Vedyari remains largely frozen in literature and formal address, but v
 
 ## Sample Phrases
 
-1. **Àgaraṇa dhûlîpati, vandîkaṇa** — _Reverential greeting; "Honored elder, I show respect"_
-2. **Vedyaram ṭîvayu, tharâjîsûm** — _Formal statement of origin; "I dwell in Vedyaram, by birthright"_
-3. **Bhaktiṛ ushṭâmi dûlîthara** — _Expression of devotion; "I hold devotion as my highest path"_
-4. **Vastuṇa karmâṭa vânîsâ?** — _Mercantile inquiry; "May the transaction bring prosperity?"_
-5. **Ritûṭa samârvâṇa ushṭî** — _Ritual formula; "The observance is offered to the sacred order"_
+1. **Àgaraṇa dhûlîpati, vandîkaṇa** – _Reverential greeting; "Honored elder, I show respect"_
+2. **Vedyaram ṭîvayu, tharâjîsûm** – _Formal statement of origin; "I dwell in Vedyaram, by birthright"_
+3. **Bhaktiṛ ushṭâmi dûlîthara** – _Expression of devotion; "I hold devotion as my highest path"_
+4. **Vastuṇa karmâṭa vânîsâ?** – _Mercantile inquiry; "May the transaction bring prosperity?"_
+5. **Ritûṭa samârvâṇa ushṭî** – _Ritual formula; "The observance is offered to the sacred order"_
 
 ## Related Languages
 

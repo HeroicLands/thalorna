@@ -23,7 +23,7 @@ packFolder: aelwyth
 ninety, on the tops where nothing but grass will grow.
 
 The flocks and the hardy black cattle summer here and come down in autumn, and while they are up the
-women and older children make the **cheese** — hard, dark, keeping for years, and the single item the
+women and older children make the **cheese** – hard, dark, keeping for years, and the single item the
 Khazári ask for by name and in quantity. What the Deep Folk do with several tons of mountain cheese a
 year is not known and has never been asked.
 

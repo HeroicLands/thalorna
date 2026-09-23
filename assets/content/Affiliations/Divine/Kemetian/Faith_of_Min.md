@@ -15,7 +15,7 @@ data:
     model: theocracy
     summary: >-
       An upper-river cult of harvest-festivals and virility rites, seated at the caravan-head for the
-      eastern desert roads — so the same god is asked for the increase of the fields and for the safe return
+      eastern desert roads – so the same god is asked for the increase of the fields and for the safe return
       of the caravans, and his festivals mark both.
     ranks:
       - level: 0
@@ -23,7 +23,7 @@ data:
         lore: excmmnctrnk
         description: >-
           Barred from the temple rites, and with them from the funerary rites every Kheperi eventually
-          requires — a sentence that reaches past the end of the life it is passed in.
+          requires – a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
         lore: layfaithfulrnk
@@ -33,18 +33,18 @@ data:
         title: Wab
         lore: initiaternk
         description: >-
-          "Purified One" — acolytes in the long temple education, observing the strict dietary, behavioural
+          "Purified One" – acolytes in the long temple education, observing the strict dietary, behavioral
           and hygiene codes the rank is named for.
       - level: 3
         title: Hem'Netjer
         lore: priestrnk
         description: >-
-          "Servant of the God" — the ordained priesthood and the working body of the temple.
+          "Servant of the God" – the ordained priesthood and the working body of the temple.
       - level: 4
         title: Wer'Hekau
         lore: highpriestrnk
         description: >-
-          "Great of Sacred Power" — the High Priest or High Priestess, elevated from among the senior
+          "Great of Sacred Power" – the High Priest or High Priestess, elevated from among the senior
           Hem'Netjer. A nome god's Wer'Hekau carries real weight inside the nome and very little outside it.
     offices:
       Keeper of the Harvest-Festivals: >-
@@ -73,7 +73,7 @@ shortcode: min
 packFolder: pantheonskemetian
 ---
 
-An upper-river cult of harvest-festivals and virility rites, seated at the caravan-head for the eastern desert roads — so the same god is asked for the increase of the fields and for the safe return of the caravans, and his festivals mark both.
+An upper-river cult of harvest-festivals and virility rites, seated at the caravan-head for the eastern desert roads – so the same god is asked for the increase of the fields and for the safe return of the caravans, and his festivals mark both.
 
 See [[affiliation-kemtnpnthn|the Kemetían Pantheon]] for the temple hierarchy every
 Kheperi cult shares.

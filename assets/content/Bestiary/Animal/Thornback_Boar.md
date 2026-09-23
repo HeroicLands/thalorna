@@ -349,7 +349,7 @@ sohl:
 
 ![[thrnbckb|Thornback Boar]]{float: top-left}
 
-The sound comes first: a furious snort that seems to explode from the undergrowth, followed by the savage crashing of something massive pushing through brush. The creature that emerges is pure, concentrated malevolence — a stocky form covered in coarse bristles, with jagged, bony spines protruding from its back like a warrior’s armor made of bone and fury. The tusks curve upward and forward, aged and stained dark, clearly used repeatedly to gore enemies into submission. The eyes are small, deep-set, and burning with an intensity that seems personal, as if this creature has decided you are a direct affront to its existence.
+The sound comes first: a furious snort that seems to explode from the undergrowth, followed by the savage crashing of something massive pushing through brush. The creature that emerges is pure, concentrated malevolence – a stocky form covered in coarse bristles, with jagged, bony spines protruding from its back like a warrior’s armor made of bone and fury. The tusks curve upward and forward, aged and stained dark, clearly used repeatedly to gore enemies into submission. The eyes are small, deep-set, and burning with an intensity that seems personal, as if this creature has decided you are a direct affront to its existence.
 
 # Dossier {#dossier}
 
@@ -357,7 +357,7 @@ The Thornback Boar is a wild, heavily built predator standing 4-5 feet at the sh
 
 ## Presentation
 
-The Thornback Boar is a compact, muscular creature built for charging and goring rather than running or climbing. The body is covered in coarse, bristly hair ranging from dark brown to black, often matted and stained with mud, blood, and vegetation. The most distinctive feature is the row of jagged, bony spines running down the back from neck to tail — each spike 4-8 inches in length, sharp at the point, and plainly a defense against attacking predators. The head is massive and blocky, with small, deep-set eyes that burn with primal intensity, and a snout adapted for rooting in earth. The tusks are curved, thick, and often darkened with age and use, capable of perforating armor and inflicting terrible wounds. The legs are powerful and short, built for driving forward with all the creature’s weight.
+The Thornback Boar is a compact, muscular creature built for charging and goring rather than running or climbing. The body is covered in coarse, bristly hair ranging from dark brown to black, often matted and stained with mud, blood, and vegetation. The most distinctive feature is the row of jagged, bony spines running down the back from neck to tail – each spike 4-8 inches in length, sharp at the point, and plainly a defense against attacking predators. The head is massive and blocky, with small, deep-set eyes that burn with primal intensity, and a snout adapted for rooting in earth. The tusks are curved, thick, and often darkened with age and use, capable of perforating armor and inflicting terrible wounds. The legs are powerful and short, built for driving forward with all the creature’s weight.
 
 ## Key Behaviors
 

@@ -594,12 +594,12 @@ Some traditional musicians who dislike her unconventional style.
 
 ## Plot Hooks
 
-1. **The Musician (Drums)'s Dilemma** — Îmarakîs faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
+1. **The Musician (Drums)'s Dilemma** – Îmarakîs faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
 
-2. **Old Grudges** — Some traditional musicians who dislike her unconventional style. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** – Some traditional musicians who dislike her unconventional style. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** — Something from Îmarakîs's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** – Something from Îmarakîs's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds** — Political changes in Vylaria threaten to upend the social order that Îmarakîs depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** – Political changes in Vylaria threaten to upend the social order that Îmarakîs depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** — A chance encounter offers Îmarakîs the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** – A chance encounter offers Îmarakîs the possibility of advancement beyond anything she has dared hope for – but the price may be higher than it first appears.

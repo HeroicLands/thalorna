@@ -4,7 +4,7 @@ tags:
   - nkaruthar
 type: lore
 subType: spirit
-description: "Zohira of storms — loud, brief, indifferent to petition, and appeased before the season rather than during it."
+description: "Zohira of storms – loud, brief, indifferent to petition, and appeased before the season rather than during it."
 name:
   full: Ngurumo
   aliases:
@@ -24,7 +24,7 @@ season, at the cairns on high ground, and consists of a formal accounting of wha
 to build, plant and travel in the months to come.
 
 The theology is that Ngurumo is not being asked for mercy, which he does not give, but being
-informed — so that what he breaks he breaks knowing. Shamans concede that outsiders find this
+informed – so that what he breaks he breaks knowing. Shamans concede that outsiders find this
 distinction thin, and hold to it anyway.
 
 He is credited with the first rains and with the ends of droughts, and is therefore not resented in

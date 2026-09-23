@@ -475,21 +475,21 @@ sohl:
 
 # Appearance {#appearance}
 
-You round the outcropping of rust-colored stone and freeze. The heat hits you first—a visible shimmer rising from the canyon floor, so intense it makes your eyes water. Then you smell it: sulfur and something older, something primal. Your skin prickles with warning.
+You round the outcropping of rust-colored stone and freeze. The heat hits you first – a visible shimmer rising from the canyon floor, so intense it makes your eyes water. Then you smell it: sulfur and something older, something primal. Your skin prickles with warning.
 
 The young dragon is smaller than the legends promised, but the word _smaller_ holds no comfort as it shifts on the canyon ledge. Sixteen feet of coiled muscle and fury, with a wingspan that could eclipse the sun if it stretched. Its scales catch the light like hammered copper and burnished gold, each one overlapping in a pattern that speaks of restless youth and boundless aggression. A thin column of smoke rises from its nostrils, curling into pale ribbons.
 
 It hasn't seen you yet, but it will.
 
-The creature's movements are sharp, almost twitchy—the energy of adolescence barely contained in a body designed for destruction. It paces the ledge like a caged beast, claws scoring deep grooves in stone that should be impervious. Every motion radiates hunger: hunger for territory, for gold, for glory, for the chance to prove it can burn down anything that challenges its dominance. This is no cunning ancient wyrm waiting in its lair; it is a killer still learning the full depth of its power, with everything to prove and nothing to lose.
+The creature's movements are sharp, almost twitchy – the energy of adolescence barely contained in a body designed for destruction. It paces the ledge like a caged beast, claws scoring deep grooves in stone that should be impervious. Every motion radiates hunger: hunger for territory, for gold, for glory, for the chance to prove it can burn down anything that challenges its dominance. This is no cunning ancient wyrm waiting in its lair; it is a killer still learning the full depth of its power, with everything to prove and nothing to lose.
 
-The dragon's head snaps toward a distant sound—a rockslide perhaps, or a frightened animal. It launches from the ledge with a roar that scorches the air, and the whole canyon seems to shrink around it.
+The dragon's head snaps toward a distant sound – a rockslide perhaps, or a frightened animal. It launches from the ledge with a roar that scorches the air, and the whole canyon seems to shrink around it.
 
 # Dossier {#dossier}
 
 The Young Fire Dragon represents the dragon at its most volatile and aggressive stage of development. Roughly a century old, it has only recently claimed territory and begun building its hoard. Lacking the refined cruelty of an ancient wyrm, the young dragon kills with straightforward ferocity and territorial rage. It has survived the vulnerable years when larger predators hunted it, and now it hungers to establish itself as an apex threat.
 
-Young fire dragons are known for their impetuous nature. They attack without strategy—mostly. They communicate through roars, ground tremors, and the scent of sulfur. They remember who wronged them and actively pursue revenge against intruders. A young dragon that has been wounded or had its hoard disturbed will hunt down those responsible with single-minded fury.
+Young fire dragons are known for their impetuous nature. They attack without strategy – mostly. They communicate through roars, ground tremors, and the scent of sulfur. They remember who wronged them and actively pursue revenge against intruders. A young dragon that has been wounded or had its hoard disturbed will hunt down those responsible with single-minded fury.
 
 These dragons typically inhabit volcanic highlands, volcanic canyons, and mountain regions with extensive cave systems. They are more likely to be sighted than older dragons, partly because they hunt more actively and range further from their lairs. Merchants, adventurers, and settlements in mountain valleys must contend with periodic sightings and attacks.
 
@@ -499,7 +499,7 @@ A young fire dragon is sleek and muscular, built for speed as much as raw power.
 
 The creature stands roughly 16 feet from nose to rump, with a wingspan extending to nearly 24 feet when fully spread. Its body is lean compared to older dragons, with prominent musculature visible beneath the armor of scales. The wings are proportionally large, built for the agility that young dragons use to their advantage. Its tail is thick and weapon-like, scarred from territorial disputes with other large creatures.
 
-Heat shimmers constantly around the young dragon. Its breath steams visibly even in warm weather. Where it walks, the ground darkens from heat stress. Its presence is announced by temperature gradients—the air grows progressively hotter as one approaches.
+Heat shimmers constantly around the young dragon. Its breath steams visibly even in warm weather. Where it walks, the ground darkens from heat stress. Its presence is announced by temperature gradients – the air grows progressively hotter as one approaches.
 
 ## Key Behaviors
 
@@ -519,7 +519,7 @@ The young dragon relies on speed and aggression rather than tactics. Its strateg
 
 When cornered or facing a numerically superior foe, the young dragon will unleash a devastating fire breath and then attempt to create distance by launching into the air. It is not yet wise enough to play for position or feign retreat; when it retreats, it intends to return with greater force.
 
-The dragon will attempt to isolate individual foes and destroy them one at a time rather than spread its attention across a large group. It has minimal respect for human tactics and armor, believing its own hide to be invulnerable—a belief reinforced by its recent victories against lesser predators.
+The dragon will attempt to isolate individual foes and destroy them one at a time rather than spread its attention across a large group. It has minimal respect for human tactics and armor, believing its own hide to be invulnerable – a belief reinforced by its recent victories against lesser predators.
 
 ## Attack Methods
 

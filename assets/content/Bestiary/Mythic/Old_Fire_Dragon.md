@@ -476,13 +476,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Inside the dragon's domain the air is suffocating, thick with heat and the acrid stench of sulfur that burns your nostrils. The ground under your feet is blackened to glass in places, scarred by centuries of fire. The stone itself seems to remember pain. Ash drifts on the wind like snow in some nightmare of winter, and everything—_everything_—is the color of old blood and char.
+Inside the dragon's domain the air is suffocating, thick with heat and the acrid stench of sulfur that burns your nostrils. The ground under your feet is blackened to glass in places, scarred by centuries of fire. The stone itself seems to remember pain. Ash drifts on the wind like snow in some nightmare of winter, and everything – _everything_ – is the color of old blood and char.
 
 And then the mountain _speaks_.
 
-It is more than a roar. The Old Fire Dragon announces itself with a sound like an avalanche, like the earth splitting open. The sound reverberates through your bones, through stone, through the air itself—a voice that has been speaking for a thousand years and expects to be heard.
+It is more than a roar. The Old Fire Dragon announces itself with a sound like an avalanche, like the earth splitting open. The sound reverberates through your bones, through stone, through the air itself – a voice that has been speaking for a thousand years and expects to be heard.
 
-The dragon emerges from the volcanic haze as though stepping through a veil between worlds. Thirty-two feet from snout to rump, with wings that span nearly fifty feet and block out the sun. Its scales burn in colors that have no names—crimsons so deep they're almost black, golds so ancient they seem tarnished, oranges that pulse with inner light. Every scale is scarred and beveled and layered thick as plate armor. Spines crown its spine like a king's dagger-teeth, and its eyes hold the weight of centuries—not the hunger of youth or the calculation of maturity, but something older, that has seen civilizations rise and collapse, that remembers the names of kingdoms now dust, and that knows the taste of your kind's fear across generations.
+The dragon emerges from the volcanic haze as though stepping through a veil between worlds. Thirty-two feet from snout to rump, with wings that span nearly fifty feet and block out the sun. Its scales burn in colors that have no names – crimsons so deep they're almost black, golds so ancient they seem tarnished, oranges that pulse with inner light. Every scale is scarred and beveled and layered thick as plate armor. Spines crown its spine like a king's dagger-teeth, and its eyes hold the weight of centuries – not the hunger of youth or the calculation of maturity, but something older, that has seen civilizations rise and collapse, that remembers the names of kingdoms now dust, and that knows the taste of your kind's fear across generations.
 
 The heat is everywhere. Your skin blisters, and every breath is agony. The dragon has not yet moved toward you.
 
@@ -496,13 +496,13 @@ The Old Fire Dragon is a force of nature given consciousness and will. Over a th
 
 Dragons of this age are sapient in ways that younger dragons are not. They speak, in voices that resonate with infernal power. They compose poetry about conquest. They create elaborate diplomatic arrangements with human kingdoms, extracting tribute in exchange for not burning them. They hold grudges that span centuries and remember the names of warriors who wounded them five hundred years prior, hunting down descendants for the crime of being born into the wrong family.
 
-An old fire dragon's territory is typically a vast region encompassing multiple valleys, mountain ranges, or badlands. The dragon itself is rarely seen but constantly felt—smoke from its lair, ash from its flying, the scent of sulfur on the wind. Its presence shapes entire cultures. Kingdoms invest in tribute systems to maintain fragile peace. Religious orders form around the worship or appeasement of the dragon. Archaeological expeditions plan carefully around confirmed dragon activity, knowing that disturbing ancient sites may trigger catastrophic retaliation.
+An old fire dragon's territory is typically a vast region encompassing multiple valleys, mountain ranges, or badlands. The dragon itself is rarely seen but constantly felt – smoke from its lair, ash from its flying, the scent of sulfur on the wind. Its presence shapes entire cultures. Kingdoms invest in tribute systems to maintain fragile peace. Religious orders form around the worship or appeasement of the dragon. Archaeological expeditions plan carefully around confirmed dragon activity, knowing that disturbing ancient sites may trigger catastrophic retaliation.
 
-The dragon at this age is sometimes called by name. Legends speak of it as a historical figure rather than an animal. It has counseled with mages, negotiated with church leaders, and engaged in philosophical debates with the greatest minds of the age—usually before burning their towers.
+The dragon at this age is sometimes called by name. Legends speak of it as a historical figure rather than an animal. It has counseled with mages, negotiated with church leaders, and engaged in philosophical debates with the greatest minds of the age – usually before burning their towers.
 
 ## Presentation
 
-An old fire dragon is a creature of terrifying majesty. Thirty-two feet in length from snout to rump, with wings spanning nearly fifty feet, the dragon dwarfs every other creature. Its scales are thick and layered like plate armor, with beveling and angles that deflect even siege weapons. The coloration is ancient—crimsons so dark they border on black, golds so tarnished they seem silver in certain light, oranges that pulse with ember-light at joints and seams. Every scale bears scars: deep gouges, burn marks, small fractures that have healed imperfectly. These scars are earned, each one a trophy from some forgotten battle or conquest.
+An old fire dragon is a creature of terrifying majesty. Thirty-two feet in length from snout to rump, with wings spanning nearly fifty feet, the dragon dwarfs every other creature. Its scales are thick and layered like plate armor, with beveling and angles that deflect even siege weapons. The coloration is ancient – crimsons so dark they border on black, golds so tarnished they seem silver in certain light, oranges that pulse with ember-light at joints and seams. Every scale bears scars: deep gouges, burn marks, small fractures that have healed imperfectly. These scars are earned, each one a trophy from some forgotten battle or conquest.
 
 A crown of massive spines runs from the dragon's head to the base of its tail, each spine as long as a man's arm and wickedly sharp. The dragon's eyes are large and intelligent, burning with molten amber surrounded by golden irises. Smoke curls perpetually from its nostrils. Its teeth are long as daggers and stained with the ash of a thousand fires.
 
@@ -518,13 +518,13 @@ Heat radiates from the dragon in shimmering waves. The ambient temperature withi
 
 **Perfect Memory and Vast Intellect:** The dragon remembers every significant event in its thousand-year existence with perfect clarity. It recalls the names of warriors who wounded it, the lineages of kingdoms that paid tribute, the locations of every settlement within a hundred miles. Its intellect rivals the greatest scholars, and it has accumulated knowledge across centuries.
 
-**Negotiation and Hierarchy:** Unlike younger dragons, an old fire dragon engages with other sapient creatures. It establishes hierarchies—who must pay tribute, who may traverse its lands, who receives threats. These arrangements are binding; the dragon's word is as immutable as stone. Those who break agreements are hunted unto the ends of the earth.
+**Negotiation and Hierarchy:** Unlike younger dragons, an old fire dragon engages with other sapient creatures. It establishes hierarchies – who must pay tribute, who may traverse its lands, who receives threats. These arrangements are binding; the dragon's word is as immutable as stone. Those who break agreements are hunted unto the ends of the earth.
 
 **Psychological Warfare:** The dragon uses terror as a weapon. It allows travelers to see its shadow passing overhead. It burns isolated settlements to drive entire regions into fear. It sends messages to cities through the immolation of caravans. By the time it appears for a direct confrontation, many enemies are already broken.
 
 **Immortal Grudges:** The dragon holds grudges across human generations. The great-grandson of a knight who once wounded it will face destruction, not for his own actions, but for the crime of ancestry. These grudges are pursued with mathematical precision, each step calculated across decades.
 
-**Teaching and Delegation:** The very oldest dragons sometimes take students or establish hierarchies among lesser creatures—wyverns, fire elementals, or even intelligent servant species. The Old Fire Dragon may delegate lesser tasks to these subordinates while reserving the most important kills for itself.
+**Teaching and Delegation:** The very oldest dragons sometimes take students or establish hierarchies among lesser creatures – wyverns, fire elementals, or even intelligent servant species. The Old Fire Dragon may delegate lesser tasks to these subordinates while reserving the most important kills for itself.
 
 ## Combat Strategy
 
@@ -554,11 +554,11 @@ The dragon sweeps its massive wings with enough force to topple buildings. This 
 
 ### Tail Sweep
 
-The dragon's tail is a weapon unto itself—thick, powerful, and capable of striking a wide area in a sweeping arc. A full strength tail strike can shatter walls or overturn castle gates. Multiple creatures can be struck and potentially killed by a single tail sweep.
+The dragon's tail is a weapon unto itself – thick, powerful, and capable of striking a wide area in a sweeping arc. A full strength tail strike can shatter walls or overturn castle gates. Multiple creatures can be struck and potentially killed by a single tail sweep.
 
 ### Fire Breath
 
-The dragon exhales a spreading gout of roiling flame, reaching 60 feet, so hot it melts stone and vaporizes water instantly. The fire is hot enough to reduce solid stone to lava. Structures in the path of the breath weapon may partially collapse. The dragon can use this ability repeatedly, and its fires are effectively endless—it will not tire from using this weapon.
+The dragon exhales a spreading gout of roiling flame, reaching 60 feet, so hot it melts stone and vaporizes water instantly. The fire is hot enough to reduce solid stone to lava. Structures in the path of the breath weapon may partially collapse. The dragon can use this ability repeatedly, and its fires are effectively endless – it will not tire from using this weapon.
 
 ## Special Abilities
 
@@ -568,11 +568,11 @@ The old dragon's flame reaches 60 feet in a spreading gout. The fire is hot enou
 
 ### Flight
 
-The dragon is an incomparably powerful flier, capable of sustained flight at extreme altitudes and in severe weather. It can carry enormous loads—the ruins of a tower, a felled giant, or treasures beyond count. The dragon can engage in aerial combat against flying foes while maintaining superior positioning.
+The dragon is an incomparably powerful flier, capable of sustained flight at extreme altitudes and in severe weather. It can carry enormous loads – the ruins of a tower, a felled giant, or treasures beyond count. The dragon can engage in aerial combat against flying foes while maintaining superior positioning.
 
 ### Armored Scales
 
-The dragon's scales are all but proof against ordinary weapons. Siege weapons, arrows, and swords inflict minimal damage. Magical weapons can penetrate, but extensive effort is required. The dragon's age has made it armor itself—a living fortress.
+The dragon's scales are all but proof against ordinary weapons. Siege weapons, arrows, and swords inflict minimal damage. Magical weapons can penetrate, but extensive effort is required. The dragon's age has made it armor itself – a living fortress.
 
 ### Heat Aura
 
@@ -600,7 +600,7 @@ The old dragon speaks. It speaks human languages, draconic speech, and languages
 
 ### Immortal Memory
 
-The dragon remembers every significant event from over a thousand years of existence. It recalls the names of long-dead warriors, the locations of ancient treasures, the bloodlines of kingdoms now reduced to history. This perfect memory makes it a priceless source of historical knowledge—should one survive negotiating with it.
+The dragon remembers every significant event from over a thousand years of existence. It recalls the names of long-dead warriors, the locations of ancient treasures, the bloodlines of kingdoms now reduced to history. This perfect memory makes it a priceless source of historical knowledge – should one survive negotiating with it.
 
 ## Attributes
 

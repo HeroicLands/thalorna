@@ -557,7 +557,7 @@ Rimmârû Ushûrî is a 30-year-old woman who stands 5'11" tall and is slender. 
 
 Rimmârû Ushûrî is a perfumer of Míravel, in Harad, born to a Haradian family of old standing whose money is mostly gone and whose perfume shop on the market square is what remains of it.
 
-Rimmârû grew up in the shop's back room among the stills and the oils. She has the finest nose in Míravel and spends her days blending — attar of rose from the inland valleys, resins off the Kheperi ships, ambergris when the corsairs have some — in combinations nobody has tried. The guild families of Míravel come to her for scents made for one wearer. What she does not do is keep the books: her guild dues are late, her suppliers are paid when she remembers, and the shop lives on the reputation of the scents. She teaches anyone with a nose who asks.
+Rimmârû grew up in the shop's back room among the stills and the oils. She has the finest nose in Míravel and spends her days blending – attar of rose from the inland valleys, resins off the Kheperi ships, ambergris when the corsairs have some – in combinations nobody has tried. The guild families of Míravel come to her for scents made for one wearer. What she does not do is keep the books: her guild dues are late, her suppliers are paid when she remembers, and the shop lives on the reputation of the scents. She teaches anyone with a nose who asks.
 
 She is a known figure among the perfumers of Harad.
 
@@ -577,7 +577,7 @@ Highly creative, skilled in fragrance blending, a patient teacher.
 
 ## Social
 
-Rimmârû holds her licence from the perfumers' guild of Míravel, under the guild-wardens, and is a term behind on her dues.
+Rimmârû holds her license from the perfumers' guild of Míravel, under the guild-wardens, and is a term behind on her dues.
 
 ## Companions
 
@@ -591,10 +591,10 @@ A rival house on the same square, better run and less gifted, which would like h
 
 ## Plot Hooks
 
-1. **The Dues** — The guild has given Rimmârû a term to pay what she owes or surrender her licence. The rival house has offered to pay it for her, in exchange for a partnership that would give them her formulas.
+1. **The Dues** – The guild has given Rimmârû a term to pay what she owes or surrender her license. The rival house has offered to pay it for her, in exchange for a partnership that would give them her formulas.
 
-2. **One Wearer Only** — A guild family has commissioned a signature scent and wants Rimmârû's oath that no one else will ever wear it. A second family has asked for the same scent, having smelled it at a wedding, and will pay more.
+2. **One Wearer Only** – A guild family has commissioned a signature scent and wants Rimmârû's oath that no one else will ever wear it. A second family has asked for the same scent, having smelled it at a wedding, and will pay more.
 
-3. **A Pupil's Bottle** — A scent from Rimmârû's back room is being sold under another name across the square. One of the apprentices she taught for nothing wrote the formula down.
+3. **A Pupil's Bottle** – A scent from Rimmârû's back room is being sold under another name across the square. One of the apprentices she taught for nothing wrote the formula down.
 
-4. **Past the Customs House** — A consignment of ambergris has reached Rimmârû without passing the guild customs house, and the corsair who brought it wants a favour rather than money.
+4. **Past the Customs House** – A consignment of ambergris has reached Rimmârû without passing the guild customs house, and the corsair who brought it wants a favor rather than money.

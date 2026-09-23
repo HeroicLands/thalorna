@@ -3,7 +3,7 @@ tags:
   - town
   - river
   - inland
-description: "Aldorath's chief river crossing and drove-market — where the kingdom's wool and cattle are gathered before going down to the coast."
+description: "Aldorath's chief river crossing and drove-market – where the kingdom's wool and cattle are gathered before going down to the coast."
 type: place
 subType: settlement
 data:
@@ -22,8 +22,8 @@ packFolder: aelwyth
 **Ashford** grew where the drove roads out of Aldorath's manorial country meet the ford, and it is the
 kingdom's principal market for what that country produces.
 
-Wool above all — Aldorath's estates run enormous flocks, and the clip is gathered, graded and sold at
-Ashford before it goes to the coast — and with it cattle, hides, tallow and horn. The autumn drove fair
+Wool above all – Aldorath's estates run enormous flocks, and the clip is gathered, graded and sold at
+Ashford before it goes to the coast – and with it cattle, hides, tallow and horn. The autumn drove fair
 is the largest gathering of people in the realm outside [[place-dunmere|Dunmere]]'s court terms, and the
 one occasion on which a serf may lawfully be a considerable distance from his manor.
 

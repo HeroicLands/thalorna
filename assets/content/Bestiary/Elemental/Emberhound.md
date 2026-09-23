@@ -367,19 +367,19 @@ sohl:
 
 ![[embrhnd|Emberhound]]{float: top-left}
 
-The stone beneath your feet grows uncomfortably warm. A shape emerges from the heat-haze of the horizon—four-legged, wolf-like, but composed of fire and ember rather than flesh. Its eyes are steady yellow flames that fix on you with predatory intelligence. Where its paws strike the ground, the earth blackens and cracks. The heat it radiates grows stronger as it nears, and your skin begins to feel the burn of a forge drawing near.
+The stone beneath your feet grows uncomfortably warm. A shape emerges from the heat-haze of the horizon – four-legged, wolf-like, but composed of fire and ember rather than flesh. Its eyes are steady yellow flames that fix on you with predatory intelligence. Where its paws strike the ground, the earth blackens and cracks. The heat it radiates grows stronger as it nears, and your skin begins to feel the burn of a forge drawing near.
 
 # Dossier {#dossier}
 
-Emberhounds are elementals of pure fire given temporary animal form, most often summoned by ancient sorcerers or bound to places of power. They are not mindless—they think, they hunt, and they understand tactics. An Emberhound is as much predator as elemental, combining the cunning of a beast with the destructive force of living flame. Some are bound as guardians; others roam wild, driven by hunger for fuel. A lone Emberhound is dangerous; a pack is a force of nature.
+Emberhounds are elementals of pure fire given temporary animal form, most often summoned by ancient sorcerers or bound to places of power. They are not mindless – they think, they hunt, and they understand tactics. An Emberhound is as much predator as elemental, combining the cunning of a beast with the destructive force of living flame. Some are bound as guardians; others roam wild, driven by hunger for fuel. A lone Emberhound is dangerous; a pack is a force of nature.
 
 ## Presentation
 
-An Emberhound resembles a large, muscular hound eight to ten feet in length, but composed entirely of living flame and burning coal. Its body is a constantly shifting mass of orange, yellow, and white fire held in the rough shape of a canine. Its eyes are solid yellow flames that burn with steady intelligence. Its fur appears to be made of embers that glow and flare with its movements. Where it passes, the ground blackens and cracks from heat. It leaves no paw prints—only scorch marks and sometimes small fires that spread from the intensity of its passage.
+An Emberhound resembles a large, muscular hound eight to ten feet in length, but composed entirely of living flame and burning coal. Its body is a constantly shifting mass of orange, yellow, and white fire held in the rough shape of a canine. Its eyes are solid yellow flames that burn with steady intelligence. Its fur appears to be made of embers that glow and flare with its movements. Where it passes, the ground blackens and cracks from heat. It leaves no paw prints – only scorch marks and sometimes small fires that spread from the intensity of its passage.
 
 ## Key Behaviors
 
-Emberhounds are territorial and aggressive, claiming hunting grounds and defending them against all intruders. They hunt actively, pursuing prey across open ground and cornering them with cunning. They seem to require fuel to sustain themselves—they are drawn to areas of combustible material and will consume fire where they find it, growing stronger from it. They are intelligent enough to understand human commands if taught during binding or if treated as partners rather than mere beasts. Most wild Emberhounds are driven by hunger and will attack on sight, but an Emberhound that respects a human master will follow their commands with ferocious loyalty.
+Emberhounds are territorial and aggressive, claiming hunting grounds and defending them against all intruders. They hunt actively, pursuing prey across open ground and cornering them with cunning. They seem to require fuel to sustain themselves – they are drawn to areas of combustible material and will consume fire where they find it, growing stronger from it. They are intelligent enough to understand human commands if taught during binding or if treated as partners rather than mere beasts. Most wild Emberhounds are driven by hunger and will attack on sight, but an Emberhound that respects a human master will follow their commands with ferocious loyalty.
 
 ## Combat Strategy
 

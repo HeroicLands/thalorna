@@ -24,6 +24,6 @@ packFolder: hekauincantations
 ---
 
 The scribal foundation, taught to every Wab of the House in their first season and to a good many
-temple scribes who never go further. It fixes the record and not the understanding — a hekau can
+temple scribes who never go further. It fixes the record and not the understanding – a hekau can
 recover a page of a treatise word for word without having any idea what it means, and the House
 considers pointing this out to be a required part of the lesson.

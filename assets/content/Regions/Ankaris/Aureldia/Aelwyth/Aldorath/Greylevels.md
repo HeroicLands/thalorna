@@ -3,7 +3,7 @@ tags:
   - region
   - river
   - coastal
-description: "The tidal lowlands of eastern Aldorath — wet, flat, fertile and treacherous, carrying the kingdom's whole trade out through Greywater."
+description: "The tidal lowlands of eastern Aldorath – wet, flat, fertile and treacherous, carrying the kingdom's whole trade out through Greywater."
 type: place
 subType: region
 data:
@@ -25,9 +25,9 @@ the head of navigation. Twenty-four thousand people live on them, most within si
 
 ## The Outlet
 
-The Levels are Aldorath's connection to everywhere else. Everything the kingdom sells — grain from the
+The Levels are Aldorath's connection to everywhere else. Everything the kingdom sells – grain from the
 [[place-aldorvale|Aldorvale]], wool off [[place-brynwold|Brynwold]], the wine of
-[[place-sunnerslade|Sunnerslade]] — comes down the river and out through Greywater, and everything the
+[[place-sunnerslade|Sunnerslade]] – comes down the river and out through Greywater, and everything the
 kingdom buys comes back the same way.
 
 Which means, since the Synod's requirement, that all of it calls at [[place-ravenmoor|Ravenmoor]] first.

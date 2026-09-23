@@ -18,7 +18,7 @@ data:
       The House of the Name holds what the whole tradition rests on. If power is correct address, then the
       true name is the address, and Per-Ren'sesh is the House that finds, holds and guards them. It is seated at
       Khemenu beside the archive, it is the House the other seven come to when a form will not work, and it
-      is the one whose restricted material is kept most closely — a true name written down is a true name
+      is the one whose restricted material is kept most closely – a true name written down is a true name
       that can be stolen.
     ranks:
       - level: 0
@@ -46,7 +46,7 @@ data:
         title: Kher-Heb
         lore: masterrnk
         description: >-
-          Lector — the one who carries the book and reads the great formulae aloud at the rites. A Kher-Heb
+          Lector – the one who carries the book and reads the great formulae aloud at the rites. A Kher-Heb
           holds the House's restricted forms, and is trusted with workings that are meant to stand for
           centuries.
       - level: 4
@@ -60,7 +60,7 @@ data:
         Establishes the true name of a thing, which is slow, uncertain work and the most valuable service
         the House performs.
       Keeper of the Closed Shelf: >-
-        Holds the recorded true names. The shelf is not catalogued, on the reasoning that a catalogue of
+        Holds the recorded true names. The shelf is not cataloged, on the reasoning that a catalog of
         true names is itself a true name.
       Corrector: >-
         Called by another House when a form fails, to determine whether the fault lies in the name or in the
@@ -94,15 +94,15 @@ packFolder: khemenuhekau
 The House of the Name holds what the whole tradition rests on. If power is correct address, then
 the true name is the address, and Per-Ren'sesh is the House that finds, holds and guards them. It is
 seated at Khemenu beside the archive, it is the House the other seven come to when a form will not
-work, and it is the one whose restricted material is kept most closely — a true name written down
+work, and it is the one whose restricted material is kept most closely – a true name written down
 is a true name that can be stolen.
 
-**Ren'sesh** — the Name Set Down — is the domain of speech, writing, true names, knowledge, memory, and the mind. It is one
-of the eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris — by
+**Ren'sesh** – the Name Set Down – is the domain of speech, writing, true names, knowledge, memory, and the mind. It is one
+of the eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris – by
 function in the cosmic order rather than by substance, which is why no portion of it corresponds
 to any single Eídma of the western [[lore-hexhodai|Héx Hodäi]].
 
 ### See Also
 
-- [[lore-khemenuhekau|Khemenu Hekau]] — the philosophy and the other seven domains
-- [[place-khemenu|Khemenu]] — where the Eight are taught
+- [[lore-khemenuhekau|Khemenu Hekau]] – the philosophy and the other seven domains
+- [[place-khemenu|Khemenu]] – where the Eight are taught

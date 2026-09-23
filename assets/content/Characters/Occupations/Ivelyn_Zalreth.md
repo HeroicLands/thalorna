@@ -591,12 +591,12 @@ Few, though some other woodcrafters see her as competition.
 
 ## Plot Hooks
 
-1. **The Woodcrafter's Dilemma** — A traveler orders a piece from Ívelyn that must be done by a date she cannot meet without finishing it worse than she would, and the price would keep the workshop for a year.
+1. **The Woodcrafter's Dilemma** – A traveler orders a piece from Ívelyn that must be done by a date she cannot meet without finishing it worse than she would, and the price would keep the workshop for a year.
 
-2. **Old Grudges** — A woodcrafter who sees Ívelyn as competition has begun copying her natural motifs and selling the copies as hers.
+2. **Old Grudges** – A woodcrafter who sees Ívelyn as competition has begun copying her natural motifs and selling the copies as hers.
 
-3. **Echoes of the Past** — One of the toys Ívelyn carved as a child turns up in a traveler's pack, and the traveler wants to know who made it.
+3. **Echoes of the Past** – One of the toys Ívelyn carved as a child turns up in a traveler's pack, and the traveler wants to know who made it.
 
-4. **Shifting Winds** — Political change in Élavendre threatens the travelers' trade Ívelyn's workshop depends on, and she can adapt, resist, or leave.
+4. **Shifting Winds** – Political change in Élavendre threatens the travelers' trade Ívelyn's workshop depends on, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — A guild of woodcrafters offers Ívelyn membership and a larger shop, on condition that she stop working alone.
+5. **The Opportunity** – A guild of woodcrafters offers Ívelyn membership and a larger shop, on condition that she stop working alone.

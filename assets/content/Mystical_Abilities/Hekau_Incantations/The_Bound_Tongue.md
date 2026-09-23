@@ -26,5 +26,5 @@ packFolder: hekauincantations
 The named matter cannot be spoken, written, gestured or otherwise conveyed by the subject; the
 attempt simply does not complete. Consent is not required for the working to take, which is why
 its use is itself regulated and why every application is supposed to be recorded. It is standard
-on those seconded to Per-Sefút, on the craftsmen who cut the deepest chambers, and — by long
-custom that nobody will confirm — on the readers of the Measure.
+on those seconded to Per-Sefút, on the craftsmen who cut the deepest chambers, and – by long
+custom that nobody will confirm – on the readers of the Measure.

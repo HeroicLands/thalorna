@@ -594,12 +594,12 @@ None, though some find his methods reckless.
 
 ## Plot Hooks
 
-1. **The Cartographer/Artist's Dilemma** — Pyrânês faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
+1. **The Cartographer/Artist's Dilemma** – Pyrânês faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 
-2. **Old Grudges** — None, though some find his methods reckless. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** – None, though some find his methods reckless. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** — Something from Pyrânês's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past** – Something from Pyrânês's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds** — Political changes in Vylaria threaten to upend the social order that Pyrânês depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** – Political changes in Vylaria threaten to upend the social order that Pyrânês depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** — A chance encounter offers Pyrânês the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** – A chance encounter offers Pyrânês the possibility of advancement beyond anything he has dared hope for – but the price may be higher than it first appears.

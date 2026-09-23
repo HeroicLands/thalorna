@@ -34,7 +34,7 @@ Khensuret is the great temple-city of the dead, capital of [[affiliation-nomekhn
 
 ## See Also
 
-- [[affiliation-nomekhnsrt|The Nome of Khensuret]] — Parent nome
-- [[affiliation-uperivrnms|The Upper River Nomes]] — Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[affiliation-kemtnpnthn|Kemetian]] — Pantheon (Sēker, Ánubís)
+- [[affiliation-nomekhnsrt|The Nome of Khensuret]] – Parent nome
+- [[affiliation-uperivrnms|The Upper River Nomes]] – Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview
+- [[affiliation-kemtnpnthn|Kemetian]] – Pantheon (Sēker, Ánubís)

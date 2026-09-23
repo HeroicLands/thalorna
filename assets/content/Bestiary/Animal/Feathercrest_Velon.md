@@ -330,7 +330,7 @@ sohl:
 
 ![[fthrcrst|Feathercrest Velon]]{float: top-left}
 
-A sound cuts through the air—a layered chirping that makes your teeth ache and sets your nerves jangling. Something bright moves at the edge of vision, moving in stuttering, wrong-footed patterns that your eyes cannot quite track. As it turns toward you, a crown of feathers explodes outward from its head in a fan of colors so vivid they seem to burn—iridescent greens and violets that shimmer with an unnatural quality. The creature freezes, head tilted at an angle no neck should allow, watching you with eyes that hold far too much knowing. Then it shrieks again, and the sound echoes strangely—from everywhere and nowhere at once.
+A sound cuts through the air – a layered chirping that makes your teeth ache and sets your nerves jangling. Something bright moves at the edge of vision, moving in stuttering, wrong-footed patterns that your eyes cannot quite track. As it turns toward you, a crown of feathers explodes outward from its head in a fan of colors so vivid they seem to burn – iridescent greens and violets that shimmer with an unnatural quality. The creature freezes, head tilted at an angle no neck should allow, watching you with eyes that hold far too much knowing. Then it shrieks again, and the sound echoes strangely – from everywhere and nowhere at once.
 
 # Dossier {#dossier}
 
@@ -338,31 +338,31 @@ The Feathercrest Velon is a predatory creature roughly four feet tall, resemblin
 
 ## Presentation
 
-A velon stands upright on powerful hind legs, with a lean, muscular build that speaks to explosive speed and agility. Its forelimbs are shorter but end in vicious talons as long as a human finger. The plumage is dense and fine, creating a sleek profile that emphasizes the bird-like silhouette. The most distinctive feature is the crest—a fan of elongated feathers that normally lie flat against the skull but can flare outward in a display that doubles the creature's apparent width. The eyes are large and forward-facing, colored in deep amber or crimson, with an unsettling quality of intelligence behind them. The beak is hard and wicked, and the entire creature exudes an air of predatory competence.
+A velon stands upright on powerful hind legs, with a lean, muscular build that speaks to explosive speed and agility. Its forelimbs are shorter but end in vicious talons as long as a human finger. The plumage is dense and fine, creating a sleek profile that emphasizes the bird-like silhouette. The most distinctive feature is the crest – a fan of elongated feathers that normally lie flat against the skull but can flare outward in a display that doubles the creature's apparent width. The eyes are large and forward-facing, colored in deep amber or crimson, with an unsettling quality of intelligence behind them. The beak is hard and wicked, and the entire creature exudes an air of predatory competence.
 
 ## Key Behaviors
 
-Velons are social hunters that operate in small groups or larger packs, with clear hierarchical relationships within each group. They are diurnal and most active in the dappled light of forest edges and rocky terrain where their coloration provides camouflage. A hunting pack communicates through a series of high-pitched vocalizations that are often described as beautiful as they are menacing. Velons are territorial and will vigorously defend a hunting ground, often marking boundaries with the plucked feathers and fur of their kills—a warning that drives most sensible travelers away. They hunt smaller animals primarily, but a hungry pack will pursue humanoid prey with cold determination.
+Velons are social hunters that operate in small groups or larger packs, with clear hierarchical relationships within each group. They are diurnal and most active in the dappled light of forest edges and rocky terrain where their coloration provides camouflage. A hunting pack communicates through a series of high-pitched vocalizations that are often described as beautiful as they are menacing. Velons are territorial and will vigorously defend a hunting ground, often marking boundaries with the plucked feathers and fur of their kills – a warning that drives most sensible travelers away. They hunt smaller animals primarily, but a hungry pack will pursue humanoid prey with cold determination.
 
 ## Combat Strategy
 
-A velon pack hunts with coordinated tactics—one or more creatures make spectacular, noisy attacks from the front while others circle to flank or attack from above if terrain permits. They are masters of the feint, charging and withdrawing to cause confusion and exhaustion. A solitary velon is far more cautious and will attack only if cornered or if prey is clearly manageable. In groups, velons press attacks relentlessly, aiming for weak points (eyes, throat, groin, legs) and attempting to separate a target from allies. They will abandon an attack only if suffering grievous casualties or if the primary target makes escape impossible—velons are pragmatic predators that have no interest in dying for a meal.
+A velon pack hunts with coordinated tactics – one or more creatures make spectacular, noisy attacks from the front while others circle to flank or attack from above if terrain permits. They are masters of the feint, charging and withdrawing to cause confusion and exhaustion. A solitary velon is far more cautious and will attack only if cornered or if prey is clearly manageable. In groups, velons press attacks relentlessly, aiming for weak points (eyes, throat, groin, legs) and attempting to separate a target from allies. They will abandon an attack only if suffering grievous casualties or if the primary target makes escape impossible – velons are pragmatic predators that have no interest in dying for a meal.
 
 ## Attack Methods
 
 ### Talon Slash
 
-The velon executes rapid, hooking strikes with the talons on its forelimbs, moving with explosive speed to rake multiple times in a short span. These attacks are aimed at disabling—severing tendons, opening blood vessels, or causing shock through sheer loss of blood. A velon in a feeding frenzy will slash without pause until prey stops moving.
+The velon executes rapid, hooking strikes with the talons on its forelimbs, moving with explosive speed to rake multiple times in a short span. These attacks are aimed at disabling – severing tendons, opening blood vessels, or causing shock through sheer loss of blood. A velon in a feeding frenzy will slash without pause until prey stops moving.
 
 ### Beak Stab
 
-A precise, driving attack targeted at soft tissue—the beak is used to pierce eyes, puncture throats, or drive into any exposed skin. Unlike the talon strikes, the beak attacks are methodical and deliberate, delivered with the full bodyweight of the creature behind them.
+A precise, driving attack targeted at soft tissue – the beak is used to pierce eyes, puncture throats, or drive into any exposed skin. Unlike the talon strikes, the beak attacks are methodical and deliberate, delivered with the full bodyweight of the creature behind them.
 
 ## Special Abilities
 
 ### Hypnotic Chirps
 
-A velon's vocalizations are produced through a specialized throat structure and carry a strange harmonic quality that is deeply disorienting to humanoids and most other creatures. A creature hearing the chirps struggles to keep its wits—it may be unable to tell where the sound comes from, lose track of allies, or fail to notice obvious threats. Creatures that cannot hear are immune to this ability.
+A velon's vocalizations are produced through a specialized throat structure and carry a strange harmonic quality that is deeply disorienting to humanoids and most other creatures. A creature hearing the chirps struggles to keep its wits – it may be unable to tell where the sound comes from, lose track of allies, or fail to notice obvious threats. Creatures that cannot hear are immune to this ability.
 
 ### Dazzling Display
 

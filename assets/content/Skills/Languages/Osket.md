@@ -4,7 +4,7 @@ name:
   full: Ösket Language
   aliases:
     - Ösket
-description: "The tongue of the guide-people of the western and central Grazian crossings — related to nothing spoken in any lowland, and learned by outsiders almost never."
+description: "The tongue of the guide-people of the western and central Grazian crossings – related to nothing spoken in any lowland, and learned by outsiders almost never."
 shortcode: osketlng
 type: skill
 subType: language
@@ -31,7 +31,7 @@ flags:
 
 Ösket is related to nothing in any lowland family. It shares no root stock with [[skill-vedyarlng|Vedyari]], with Khazri, with Tānvüri or with anything else that has been compared with it, and the comparisons have been made: a Vedyari grammarian spent four seasons at [[place-oskhelt|Öskhelt]] two centuries ago and published a careful, competent account whose conclusion was that there was nothing to connect it to.
 
-Almost no outsider speaks it. What lowlanders learn is a road-pidgin of perhaps two hundred words — loads, weather, halt, go, water, rope, dead — and the Ösket teach that pidgin willingly and the language not at all. There is no prohibition. There is simply no occasion on which an Ösket has ever needed a lowlander to understand more.
+Almost no outsider speaks it. What lowlanders learn is a road-pidgin of perhaps two hundred words – loads, weather, halt, go, water, rope, dead – and the Ösket teach that pidgin willingly and the language not at all. There is no prohibition. There is simply no occasion on which an Ösket has ever needed a lowlander to understand more.
 
 ## Phonology
 
@@ -61,16 +61,16 @@ The two front rounded vowels are the feature an outsider hears first and produce
 
 - **Consonant Clusters:** Freely admitted at the start and end of a word alike; _Tsökhar_ opens on an affricate and closes on a liquid, _Öskhelt_ closes on a three-consonant cluster
 - **Syllable Structure:** Heavy, and commonly closed; long vowels are not distinguished
-- **Final Consonants:** Unrestricted — a word may end on any consonant or any cluster of them, which is the plainest structural difference from every lowland tongue
+- **Final Consonants:** Unrestricted – a word may end on any consonant or any cluster of them, which is the plainest structural difference from every lowland tongue
 - **Word Length:** Short. Two syllables is the norm and four is rare, and compounds are formed by juxtaposition without linking material
 
 ## Grammar Notes
 
-Word order is verb-final and rigid. Nouns take a large case system built by suffix, and the cases that matter are the ones a mountain needs: motion up, motion down, motion across, motion along a contour, and rest. There is no verb "to have". Evidentiality is obligatory on every finite verb — a speaker cannot report that the pass is open without marking whether he saw it, was told it, or infers it, and the pidgin's failure to carry this distinction is the single greatest source of misunderstanding between guides and the people they take over.
+Word order is verb-final and rigid. Nouns take a large case system built by suffix, and the cases that matter are the ones a mountain needs: motion up, motion down, motion across, motion along a contour, and rest. There is no verb "to have." Evidentiality is obligatory on every finite verb – a speaker cannot report that the pass is open without marking whether he saw it, was told it, or infers it, and the pidgin's failure to carry this distinction is the single greatest source of misunderstanding between guides and the people they take over.
 
 ## Script & Literacy
 
-There is no script. The Ösket keep records in knotted cord — route, stage, load, day, and the dead — and the cord is read by the keeper of the lineage that tied it and by nobody else. Cord-keeping is taught to one person in a generation, and a cord whose keeper dies untimely is not read again by anyone.
+There is no script. The Ösket keep records in knotted cord – route, stage, load, day, and the dead – and the cord is read by the keeper of the lineage that tied it and by nobody else. Cord-keeping is taught to one person in a generation, and a cord whose keeper dies untimely is not read again by anyone.
 
 A few Ösket of the [[place-suryadvara|Sūryadvāra]] lineages read and write lowland Vedyari, for contracts. None of them writes Ösket in it.
 

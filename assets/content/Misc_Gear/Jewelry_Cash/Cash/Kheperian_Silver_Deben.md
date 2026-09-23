@@ -23,6 +23,6 @@ sohl:
 packFolder: cash
 ---
 
-A silver piece at the full deben weight, sealed by the attesting temple. Silver at this mass is the ordinary instrument of serious commerce — a consignment of cloth, a draught animal, a craftsman's contract for a season.
+A silver piece at the full deben weight, sealed by the attesting temple. Silver at this mass is the ordinary instrument of serious commerce – a consignment of cloth, a draft animal, a craftsman's contract for a season.
 
 Because the seal certifies mass and purity together, the piece passes without re-weighing anywhere the attesting temple is known. Beyond that reach it is weighed like any other metal.

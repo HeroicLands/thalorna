@@ -594,10 +594,10 @@ The younger embalmers of the collegium, who use the Magnápolis preparations and
 
 ## Plot Hooks
 
-1. **The Garrison's Dead** — A fever in the barracks has given Bràzenlâs forty bodies in a week and the quartermaster wants them ready in three days, which the full rite will not allow.
+1. **The Garrison's Dead** – A fever in the barracks has given Bràzenlâs forty bodies in a week and the quartermaster wants them ready in three days, which the full rite will not allow.
 
-2. **A New Rite** — The daughter of an old family wants her father buried with a rite from the capital that Bràzenlâs holds to be worthless and has asked him to perform it because her father trusted no one else.
+2. **A New Rite** – The daughter of an old family wants her father buried with a rite from the capital that Bràzenlâs holds to be worthless and has asked him to perform it because her father trusted no one else.
 
-3. **The Body That Should Not Be Embalmed** — A body has come from the garrison with a clerk's tally and a wound that no fever made, and Bràzenlâs has been told to prepare it quickly. The quartermaster's clerk knows what he has seen.
+3. **The Body That Should Not Be Embalmed** – A body has come from the garrison with a clerk's tally and a wound that no fever made, and Bràzenlâs has been told to prepare it quickly. The quartermaster's clerk knows what he has seen.
 
-4. **No Heir** — Bràzenlâs has no son and has turned away every apprentice as unfit. A young embalmer who uses the new preparations has asked to learn the old rite from him, and may be the only one who ever will.
+4. **No Heir** – Bràzenlâs has no son and has turned away every apprentice as unfit. A young embalmer who uses the new preparations has asked to learn the old rite from him, and may be the only one who ever will.

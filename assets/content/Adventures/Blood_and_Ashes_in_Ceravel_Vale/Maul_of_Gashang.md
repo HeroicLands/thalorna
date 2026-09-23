@@ -42,9 +42,9 @@ As the battle raged on, Hazarak’s forces began to gain the upper hand, pushing
 
 ### **The Maul’s Disappearance**
 
-After Hazarak’s fall, the battle did not end cleanly. Both sides were devastated, and the bloodied fields became the final resting place of countless warriors. The maul, now abandoned, was sought after by both Black Flame cultists and the Forge faithful, but a sudden violent storm—a phenomenon some claimed was caused by the Black Flame itself—forced both sides to retreat, leaving the battlefield strewn with bodies and the sacred relic lost.
+After Hazarak’s fall, the battle did not end cleanly. Both sides were devastated, and the bloodied fields became the final resting place of countless warriors. The maul, now abandoned, was sought after by both Black Flame cultists and the Forge faithful, but a sudden violent storm – a phenomenon some claimed was caused by the Black Flame itself – forced both sides to retreat, leaving the battlefield strewn with bodies and the sacred relic lost.
 
-For years after the battle, the area became known as the **Blood Hills**, and few dared to approach the cursed land. Legends grew about spirits wandering the battlefield, and those brave enough to venture into the hills reported seeing flickers of light—like embers in the dark—where the maul was thought to have been lost.
+For years after the battle, the area became known as the **Blood Hills**, and few dared to approach the cursed land. Legends grew about spirits wandering the battlefield, and those brave enough to venture into the hills reported seeing flickers of light – like embers in the dark – where the maul was thought to have been lost.
 
 ### **The Cave and the Traps**
 
@@ -62,7 +62,7 @@ Over time, the maul was moved from the battlefield to a nearby cave, a secret Bl
 
 ### Properties and Abilities
 
-**Flaming Wrath**: The handle of the **Maul of Gashang** is hollow, and is filled with a concoction called "Fire of Gashang". When swung, small holes in the handle at the base of the blades leak this fluid onto the blades, which can then be set on fire. When a foe is hit, the concoction sprays on the opponent, dealing additional fire damage to enemies with each strike and leave the victim’s wounds burning with an "unholy fire".
+**Flaming Wrath**: The handle of the **Maul of Gashang** is hollow, and is filled with a concoction called "Fire of Gashang." When swung, small holes in the handle at the base of the blades leak this fluid onto the blades, which can then be set on fire. When a foe is hit, the concoction sprays on the opponent, dealing additional fire damage to enemies with each strike and leave the victim’s wounds burning with an "unholy fire."
 
 - **Mechanics**: The fiery concoction, containing naptha and quicklime, is reactive to both heat and water, and is viscous. When hit, the victim suffers an additional d4+0f damage each round for 1-3 rounds, possibly igniting fabric or leather armor or clothing.
 

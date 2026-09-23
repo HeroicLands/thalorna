@@ -20,12 +20,12 @@ packFolder: provenzia
 ---
 
 **Mercadaure** stands where the Zûravlen valley opens toward the plain, and it exists to sell what the
-valley grows. Some fourteen hundred people live there — more in August, very many more during the
-fair — and almost none of them farm.
+valley grows. Some fourteen hundred people live there – more in August, very many more during the
+fair – and almost none of them farm.
 
 It is the seat of **Baron Álegar alrí Zûravel**, who holds Zûravlen of the
 [[affiliation-kngdmprvnz|Crown of Provènzia]] and whose hall stands above the town rather than in it,
-and the administrative centre of the barony: the water-rolls, the manor customs and the grading
+and the administrative center of the barony: the water-rolls, the manor customs and the grading
 records are all kept here.
 
 ## The Grading Table
@@ -35,13 +35,13 @@ for sale outside the barony is brought to the **grading table** under the market
 graders sort it into three marks. Only the first mark may be sold under the Zûravlen name.
 
 The graders are appointed by the baron, hold office for three years, and are forbidden to own orchards
-— a rule introduced after a scandal three generations ago and observed with varying rigour since. A
+– a rule introduced after a scandal three generations ago and observed with varying rigor since. A
 grader's decision can make or ruin a small holding's year, and every orchardist in the valley has a
 theory about which graders can be reached and how.
 
 ## The Drying Yards
 
-South of the town, on the open ground above the river, stand the great **drying yards** — racks of
+South of the town, on the open ground above the river, stand the great **drying yards** – racks of
 cane trays under low walls, where the halved fruit is laid out in the sun and turned twice a day.
 The yards belong to the baron. Every holding in the barony that lacks a yard of its own must dry its
 crop here and pay a share of it, which is the single largest item of baronial income and the single
@@ -61,7 +61,7 @@ For those eight days Mercadaure is one of the wealthiest small towns in Provènz
 
 ## Notable Features
 
-- **The market hall**, open-sided, with the grading table at its centre and the water-rolls in the
+- **The market hall**, open-sided, with the grading table at its center and the water-rolls in the
   chamber above.
 - **The shrine of [[affiliation-venusia|Vénusia]]**, which receives the first-picked basket from every
   orchard in the barony and is the richest building in the town.

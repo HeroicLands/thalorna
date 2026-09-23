@@ -3,7 +3,7 @@ tags:
   - sacred
   - mountain
   - river
-description: "Seven falls in a stepped gorge of the Drenavar Spine, seat of the river-mother Aranwy — where the offering is made at first light in silence, and where nobody climbs by daylight."
+description: "Seven falls in a stepped gorge of the Drenavar Spine, seat of the river-mother Aranwy – where the offering is made at first light in silence, and where nobody climbs by daylight."
 type: place
 subType: feature
 data:
@@ -23,14 +23,14 @@ packFolder: elavendre
 
 Seven falls in succession where a headwater of the [[place-drenavrspn|Drenavar Spine]] drops through a
 stepped gorge, each pool deeper and colder than the last. The [[lore-aelendnppl|Áelendan]] do not treat
-the Stair as seven things. It is one water and one spirit — [[lore-aranwyspr|Aranwy]] — and the
+the Stair as seven things. It is one water and one spirit – [[lore-aranwyspr|Aranwy]] – and the
 offerings are made at the lowest pool, because that is as far as anyone is permitted to go by daylight.
 
 ## The Gorge
 
 The gorge is narrow, wet and loud, cut into the rock over a length of rather less than two miles, and
 in shadow for most of the day. The falls are not of a size to astonish anyone who has seen mountains
-before; what makes the Stair remarkable is its regularity — seven drops, each into a plunge pool, each
+before; what makes the Stair remarkable is its regularity – seven drops, each into a plunge pool, each
 pool deeper and colder than the one below it, stepping up the gorge as evenly as if it had been built.
 
 Aranwy's power runs the length of it and **stops where the water slows**, at the tail of the lowest
@@ -78,9 +78,9 @@ Aranwy has never been asked directly. Asking would require climbing.
 ## Outsiders
 
 The Stair is deep in the [[place-alndntrblnds|Áelendan Tribal Lands]] and the
-[[affiliation-alndnwrdns|Wardens]] watch the approach. Lowlanders have been brought here — the Stair is
-not secret, and the tribes are not ashamed of it — but always accompanied, always to the lowest pool,
-and always with the offering explained beforehand rather than afterwards. Visitors who arrive with a
+[[affiliation-alndnwrdns|Wardens]] watch the approach. Lowlanders have been brought here – the Stair is
+not secret, and the tribes are not ashamed of it – but always accompanied, always to the lowest pool,
+and always with the offering explained beforehand rather than afterward. Visitors who arrive with a
 gift they purchased are gently told to come back another year.
 
 ## See Also

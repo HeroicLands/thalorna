@@ -558,7 +558,7 @@ Girdanû Rashîmû is a 42-year-old man who stands 6'1" tall and is broad and so
 
 Girdanû Rashîmû is a gladiator of Qadhirun, in Harad, a Haradian freeman who was sent to the arena as a convict and stayed in it as a free man.
 
-Girdanû began as a labourer in the quarries above the port. At thirty, in the first year of the Confederation, he was accused of theft from the quarry-master's strongbox, a crime he did not commit, and a magistrate of the kind the new guild government was then appointing sentenced him to the arena. Instead his strength carried him through five years of fights, until the arena-master petitioned for his freedom because a champion earns more than a convict. He has fought as a free man since, for the purse and the crowd's regard, and he has not forgotten the name of the man who accused him.
+Girdanû began as a laborer in the quarries above the port. At thirty, in the first year of the Confederation, he was accused of theft from the quarry-master's strongbox, a crime he did not commit, and a magistrate of the kind the new guild government was then appointing sentenced him to the arena. Instead his strength carried him through five years of fights, until the arena-master petitioned for his freedom because a champion earns more than a convict. He has fought as a free man since, for the purse and the crowd's regard, and he has not forgotten the name of the man who accused him.
 
 He is a known figure among the gladiators of Harad.
 
@@ -592,10 +592,10 @@ Rival fighters who want his place on the bill; the quarry guards who had charge 
 
 ## Plot Hooks
 
-1. **The Man Who Accused Him** — The clerk whose word sent Girdanû to the arena has risen to a post in the customs house, and Girdanû has found out where he lives.
+1. **The Man Who Accused Him** – The clerk whose word sent Girdanû to the arena has risen to a post in the customs house, and Girdanû has found out where he lives.
 
-2. **A Fixed Fight** — A guild house has offered Girdanû more than a year's purses to lose to a young fighter they are building up. He has never lost on purpose, and he is forty-two.
+2. **A Fixed Fight** – A guild house has offered Girdanû more than a year's purses to lose to a young fighter they are building up. He has never lost on purpose, and he is forty-two.
 
-3. **The Quarry Again** — A young quarryman has been accused the way Girdanû was and sentenced to the same sand. Girdanû is the only man in Qadhirun who has stood where the boy stands and walked out.
+3. **The Quarry Again** – A young quarryman has been accused the way Girdanû was and sentenced to the same sand. Girdanû is the only man in Qadhirun who has stood where the boy stands and walked out.
 
-4. **Retirement** — The arena-master has decided that Girdanû's draw is spent and means to end his run with a fight he cannot win. Girdanû has been told nothing, and the bill has been posted.
+4. **Retirement** – The arena-master has decided that Girdanû's draw is spent and means to end his run with a fight he cannot win. Girdanû has been told nothing, and the bill has been posted.

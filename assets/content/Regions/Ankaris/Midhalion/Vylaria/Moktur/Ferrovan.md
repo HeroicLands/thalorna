@@ -24,5 +24,5 @@ Ferrovan is the chief of [[affiliation-provncmktr|Moktur]]'s mining settlements,
 
 ## See Also
 
-- [[affiliation-provncmktr|Province of Moktur]] — Parent province
-- [[affiliation-vylarinmpr|Vylarian Empire]] — Imperial overview
+- [[affiliation-provncmktr|Province of Moktur]] – Parent province
+- [[affiliation-vylarinmpr|Vylarian Empire]] – Imperial overview

@@ -24,7 +24,7 @@ Sebt-Renpet is the capital of [[affiliation-nomesbtrnp|the Nome of Sebt-Renpet]]
 
 ## See Also
 
-- [[affiliation-nomesbtrnp|The Nome of Sebt-Renpet]] — Parent nome
-- [[affiliation-uperivrnms|The Upper River Nomes]] — Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[affiliation-seker|Sēker]] — Patron cult
+- [[affiliation-nomesbtrnp|The Nome of Sebt-Renpet]] – Parent nome
+- [[affiliation-uperivrnms|The Upper River Nomes]] – Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview
+- [[affiliation-seker|Sēker]] – Patron cult

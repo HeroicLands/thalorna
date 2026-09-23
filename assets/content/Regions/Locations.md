@@ -6,12 +6,12 @@ type: doc
 subType: reference
 shortcode: locations
 tags:
-description: Notable places — ruins, landmarks, dungeons, and wonders.
+description: Notable places – ruins, landmarks, dungeons, and wonders.
 data:
   banner: sitebnr
 ---
 
-Notable places — ruins, landmarks, dungeons, and wonders.
+Notable places – ruins, landmarks, dungeons, and wonders.
 
 ```sql
 SELECT address.slug AS _ref,

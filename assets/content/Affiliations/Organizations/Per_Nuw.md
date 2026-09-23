@@ -5,7 +5,7 @@ tags:
   - xerathia
   - guild
   - hunters
-description: "Per-Aá's chartered guild of professional hunters and beast-specialists — licensing the empire's game-takers, dangerous-beast cullers, and the suppliers of the temple and market hunts."
+description: "Per-Aá's chartered guild of professional hunters and beast-specialists – licensing the empire's game-takers, dangerous-beast cullers, and the suppliers of the temple and market hunts."
 name:
   full: Per'Nuw
   aliases:
@@ -35,7 +35,7 @@ data:
       - level: 1
         title: Servant
         lore: servantrnk
-        description: Kept for labour about the hall and the workshops, and not of the craft.
+        description: Kept for labor about the hall and the workshops, and not of the craft.
       - level: 2
         title: Apprentice
         lore: apprenticernk
@@ -57,7 +57,7 @@ data:
         title: Warden
         lore: officerrnk
         description: >-
-          Elected to inspect the craft — its work, its weights, its prices — and to present
+          Elected to inspect the craft – its work, its weights, its prices – and to present
           offenders.
       - level: 6
         title: Assistant
@@ -84,7 +84,7 @@ data:
       Clerk: Keeper of the guild's roll, its indentures, its minutes and its correspondence.
       Beadle: Summoner of the assembly and server of its process; the guild's hands in enforcement.
       Searcher: Examiner of goods offered under the guild's mark, whose refusal ends a sale.
-      Treasurer: Keeper of the guild's box — its dues, its fines and its loans to members.
+      Treasurer: Keeper of the guild's box – its dues, its fines and its loans to members.
       Almoner: Administrator of the guild's relief to sick members, widows and orphans.
       Keeper of the Hall: Warden of the guild's house, its plate, its records and its feasts.
   commonSkills: []
@@ -103,31 +103,31 @@ data:
     permesnu: aligned
 ---
 
-_Kheperi: "The House of Hunters" — the guild of professional hunters of Ta'Kheperu_
+_Kheperi: "The House of Hunters" – the guild of professional hunters of Ta'Kheperu_
 
 - **Type:** Imperial chartered guild
-- **Region:** [[place-takheperurgn|Ta'Kheperu]] — central guildhouse at the capital, with regional chapter halls along the Taméresh and at the desert edge
+- **Region:** [[place-takheperurgn|Ta'Kheperu]] – central guildhouse at the capital, with regional chapter halls along the Taméresh and at the desert edge
 - **Charter:** Granted by the seventh Per-Aá of the present dynasty; renewed regularly thereafter
 - **Magnum Collegium status:** Not a member; independent Ta'Kheperan institution. No standing credential equivalence with the [[affiliation-magnumclgm|The Magnum Collegium]]; foreign hunters operating in Ta'Kheperu require case-by-case license. The Haradian [[affiliation-sodnaqirin|Sôd-Naqîrîn]] has, however, recently approached Per'Nuw with proposals for an equivalence agreement covering desert and frontier work; negotiations are early-stage.
 
 ## Overview
 
-Per'Nuw is the guild that licenses the empire's professional hunters. Most Ta'Kheperan game-taking is amateur — the household's livestock, the village's snares, the noble's pleasure hunt — and the guild has no claim on amateurs. What the guild claims, by imperial charter, is the right to license those who pursue hunting as a paid occupation: the suppliers of game-meat to the city markets, the cullers who answer when crocodiles or hippopotami threaten farming villages, the trappers of valuable fauna for temple and noble menageries, the men and women who venture into the eastern desert for falcons and into the southern marshes for the rarer ibis species, the specialists who supply the imperial mews with raptors and the great houses with hounds.
+Per'Nuw is the guild that licenses the empire's professional hunters. Most Ta'Kheperan game-taking is amateur – the household's livestock, the village's snares, the noble's pleasure hunt – and the guild has no claim on amateurs. What the guild claims, by imperial charter, is the right to license those who pursue hunting as a paid occupation: the suppliers of game-meat to the city markets, the cullers who answer when crocodiles or hippopotami threaten farming villages, the trappers of valuable fauna for temple and noble menageries, the men and women who venture into the eastern desert for falcons and into the southern marshes for the rarer ibis species, the specialists who supply the imperial mews with raptors and the great houses with hounds.
 
 The guild functions much as Per'Mesnu does in its trade: it sets standards, licenses practitioners, examines apprentices, conducts inter-member arbitration, negotiates with the imperial administration on behalf of the profession, and adjudicates disputes between members. It does not, however, hunt collectively. Each licensed hunter works independently or in a small partnership; the guild's role is to certify and to support, not to organize.
 
-The relationship between Per'Nuw and the **Medjay** (the hereditary hunter-warden caste, whose noble families hold ancient charters of their own) is one of careful coexistence. The Medjay are not bound by Per'Nuw's license — their authority predates the guild — but as a matter of long-standing practice the Medjay families pay informal courtesy dues to the guild and the guild treats Medjay-conducted hunts as exempt from its examination requirements. The accommodation prevents an open jurisdictional fight that neither side wishes to have.
+The relationship between Per'Nuw and the **Medjay** (the hereditary hunter-warden caste, whose noble families hold ancient charters of their own) is one of careful coexistence. The Medjay are not bound by Per'Nuw's license – their authority predates the guild – but as a matter of long-standing practice the Medjay families pay informal courtesy dues to the guild and the guild treats Medjay-conducted hunts as exempt from its examination requirements. The accommodation prevents an open jurisdictional fight that neither side wishes to have.
 
-The relationship between Per'Nuw and the **[[affiliation-sekhetneru|Sekhet'Neru]]** — the Khetai family's sacred hunt — is more complex. Sekhet'Neru members are nobles of the Medjay caste and are exempt from guild license, but their charter covers only their own stretch of the Taméresh; outside that territory they are, technically, hunting as Medjay nobles rather than as Sekhet'Neru, and there have been occasional jurisdictional incidents at the border. These are managed through diplomacy rather than litigation.
+The relationship between Per'Nuw and the **[[affiliation-sekhetneru|Sekhet'Neru]]** – the Khetai family's sacred hunt – is more complex. Sekhet'Neru members are nobles of the Medjay caste and are exempt from guild license, but their charter covers only their own stretch of the Taméresh; outside that territory they are, technically, hunting as Medjay nobles rather than as Sekhet'Neru, and there have been occasional jurisdictional incidents at the border. These are managed through diplomacy rather than litigation.
 
 ## Membership and Structure
 
 Per'Nuw recognizes four working ranks:
 
-- **Apprentice** (_sba-nuw_) — admitted between fourteen and eighteen years of age; typically introduced by a sponsoring journeyman or master; trained for three to five years.
-- **Journeyman** (_nuw_) — qualified by examination; permitted to take paid commissions under a master's seal; the working rank of most members.
-- **Master Hunter** (_hem-nuw_) — promoted by senior vote after presenting a documented record of significant work; permitted to seal independently, take apprentices, and sit on chapter councils.
-- **Great Hunter** (_wer-nuw_) — the most senior masters; convened as the **Council of the Long Spear** at the central guildhouse; advise the imperial administration and adjudicate the highest guild disputes.
+- **Apprentice** (_sba-nuw_) – admitted between fourteen and eighteen years of age; typically introduced by a sponsoring journeyman or master; trained for three to five years.
+- **Journeyman** (_nuw_) – qualified by examination; permitted to take paid commissions under a master's seal; the working rank of most members.
+- **Master Hunter** (_hem-nuw_) – promoted by senior vote after presenting a documented record of significant work; permitted to seal independently, take apprentices, and sit on chapter councils.
+- **Great Hunter** (_wer-nuw_) – the most senior masters; convened as the **Council of the Long Spear** at the central guildhouse; advise the imperial administration and adjudicate the highest guild disputes.
 
 The current chair, the **First Hunter of the Per-Aá** (_Imy-Khent Nuw_), is **Wermeryt Khentkawes**, a woman in her fifties whose reputation rests on her single-handed culling of a crocodile that had taken eleven villagers over the course of a season.
 
@@ -143,17 +143,17 @@ A member is licensed in one specialty by default at journeyman elevation; additi
 
 ## Notable Members
 
-- **[[being-akhremrnfr|Akhrem Reenfre]]** — Master Hunter; a member of long standing and unorthodox method. Akhrem maintains formal membership and pays dues but operates with substantial independence — preferring solitary work, idiosyncratic techniques, and a notable reluctance to take apprentices. The guild treats him with the mixture of respect and exasperation it reserves for talents it cannot replace.
-- **Master Soren** — Akhrem's ancient mentor; rumored to hold knowledge of a legendary beast that no other member has been permitted to learn.
-- **Wermeryt Khentkawes** — First Hunter; a unifying figure across the specialty divisions.
+- **[[being-akhremrnfr|Akhrem Reenfre]]** – Master Hunter; a member of long standing and unorthodox method. Akhrem maintains formal membership and pays dues but operates with substantial independence – preferring solitary work, idiosyncratic techniques, and a notable reluctance to take apprentices. The guild treats him with the mixture of respect and exasperation it reserves for talents it cannot replace.
+- **Master Soren** – Akhrem's ancient mentor; rumored to hold knowledge of a legendary beast that no other member has been permitted to learn.
+- **Wermeryt Khentkawes** – First Hunter; a unifying figure across the specialty divisions.
 
 ## Doctrine and Practice
 
 The guild teaches three principles, drilled into apprentices from the first season at the forge of the southern guildhouse:
 
-- **The Hunter's Restraint** — that a professional hunter takes only what his commission requires and leaves the rest of the population to renew. Mass culls are conducted only under emergency charter from a chapter council and are documented in detail.
-- **The Hunter's Honesty** — that the report of a hunt is as binding as the hunt itself. A member who falsifies game counts, returns conditions, or pricing is subject to revocation.
-- **The Hunter's Respect** — that the beast hunted is a creature of the Per-Aá's lands, and that wantonness in its killing offends both the gods and the imperial order. Kills are conducted with the speed and efficiency that the beast's nature permits.
+- **The Hunter's Restraint** – that a professional hunter takes only what his commission requires and leaves the rest of the population to renew. Mass culls are conducted only under emergency charter from a chapter council and are documented in detail.
+- **The Hunter's Honesty** – that the report of a hunt is as binding as the hunt itself. A member who falsifies game counts, returns conditions, or pricing is subject to revocation.
+- **The Hunter's Respect** – that the beast hunted is a creature of the Per-Aá's lands, and that wantonness in its killing offends both the gods and the imperial order. Kills are conducted with the speed and efficiency that the beast's nature permits.
 
 The third principle has religious resonance: the Ta'Kheperan pantheon includes deities (notably [[affiliation-anhur|Anhur]] and [[affiliation-shesmu|Shesmu]]) whose patronage of the hunt is understood to include scrutiny of the hunter's conduct. The guild's senior elevations include rites at both temples, performed in tandem.
 
@@ -167,19 +167,19 @@ The third principle has religious resonance: the Ta'Kheperan pantheon includes d
 
 ## Relations
 
-- **The Per-Aá's Court** — patron; the guild's charter and the Court's standing favor are mutually reinforcing.
-- **The Medjay caste** — formal coexistence; mutual non-interference reinforced by informal payments and courtesies.
-- **The [[affiliation-sekhetneru|Sekhet'Neru]]** — peer Ta'Kheperan hunting institution; jurisdictional accommodation along the Taméresh.
-- **[[affiliation-permesnu|Per'Mesnu]]** — sibling imperial chartered guild; cooperative relations, joint procurement of certain materials (the guild's hunters need blades and traps; the smiths' suppliers need hides).
-- **The Temples of [[affiliation-anhur|Anhur]] and [[affiliation-shesmu|Shesmu]]** — religious foundation; senior elevations conducted in temple rite.
+- **The Per-Aá's Court** – patron; the guild's charter and the Court's standing favor are mutually reinforcing.
+- **The Medjay caste** – formal coexistence; mutual non-interference reinforced by informal payments and courtesies.
+- **The [[affiliation-sekhetneru|Sekhet'Neru]]** – peer Ta'Kheperan hunting institution; jurisdictional accommodation along the Taméresh.
+- **[[affiliation-permesnu|Per'Mesnu]]** – sibling imperial chartered guild; cooperative relations, joint procurement of certain materials (the guild's hunters need blades and traps; the smiths' suppliers need hides).
+- **The Temples of [[affiliation-anhur|Anhur]] and [[affiliation-shesmu|Shesmu]]** – religious foundation; senior elevations conducted in temple rite.
 
 ## Identifying Marks
 
-A guild member carries a stamped bronze token (the _nuw-mudra_) bearing his license number, specialty, and chapter; the token is presented when accepting commissions and when entering any controlled hunting territory. Master Hunters wear a fang-pendant — taken from their qualifying hunt — at the throat. Great Hunters wear an additional armband of beaten bronze marked with the open-jaw of the lion. The First Hunter wears the great gold pectoral of the Long Spear, kept at the central guildhouse between holders.
+A guild member carries a stamped bronze token (the _nuw-mudra_) bearing his license number, specialty, and chapter; the token is presented when accepting commissions and when entering any controlled hunting territory. Master Hunters wear a fang-pendant – taken from their qualifying hunt – at the throat. Great Hunters wear an additional armband of beaten bronze marked with the open-jaw of the lion. The First Hunter wears the great gold pectoral of the Long Spear, kept at the central guildhouse between holders.
 
 ## Plot Hooks
 
 - **The Falsified Cull.** A village along the Taméresh has reported, and been paid for, a crocodile cull that on later inspection appears to have been substantially exaggerated. The Master Hunter who sealed the report has produced documentation; the village headman swears the documentation is false. The chapter council must investigate, with consequences for the master's seal either way.
-- **The Legendary Beast.** Master Soren, near death, has summoned [[being-akhremrnfr|Akhrem Reenfre]] to pass on knowledge of a creature he has never taught — a beast of immense rarity that Soren has hunted, refrained from killing, and concealed for forty years. The knowledge, once passed, will inevitably leak to powerful interests who will commission a hunt the guild cannot openly support or refuse.
+- **The Legendary Beast.** Master Soren, near death, has summoned [[being-akhremrnfr|Akhrem Reenfre]] to pass on knowledge of a creature he has never taught – a beast of immense rarity that Soren has hunted, refrained from killing, and concealed for forty years. The knowledge, once passed, will inevitably leak to powerful interests who will commission a hunt the guild cannot openly support or refuse.
 - **The Medjay Provocation.** A Medjay noble has begun conducting commercial-scale hunts under cover of his hereditary exemption, undercutting guild pricing in the meat markets. The Council of the Long Spear's response will test the accommodation that has held the two institutions in peace for centuries.
 - **The Foreign Specialist.** A Vylarian beast-master, claiming an Ordo Arcanis license to procure rare fauna for arcane study, has begun operating in Ta'Kheperan territory without a Per'Nuw license. The Court has so far declined to intervene. The guild must decide whether to obstruct his work, accommodate him, or formally petition the Per-Aá to refuse Ordo procurement permits.

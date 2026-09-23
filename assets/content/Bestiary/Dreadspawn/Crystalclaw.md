@@ -331,7 +331,7 @@ sohl:
 
 ![[crystlcl|Crystalclaw]]{float: top-left}
 
-Light fractures and scatters as something moves through the shadows—a shape of impossible geometry, faceted and radiant. Every color of the spectrum glints from its surfaces as it turns, and the air shimmers with refracted light that makes your eyes water. You hear it before you fully see it: a crystalline chiming, like bells or wind-chimes, with each movement. Then those eyes—bright, burning sapphire—find you, and you understand it has always been watching.
+Light fractures and scatters as something moves through the shadows – a shape of impossible geometry, faceted and radiant. Every color of the spectrum glints from its surfaces as it turns, and the air shimmers with refracted light that makes your eyes water. You hear it before you fully see it: a crystalline chiming, like bells or wind-chimes, with each movement. Then those eyes – bright, burning sapphire – find you, and you understand it has always been watching.
 
 # Dossier {#dossier}
 
@@ -339,11 +339,11 @@ Crystalclaws are born where raw magic concentrates in the earth, creatures of pu
 
 ## Presentation
 
-The Crystalclaw resembles a large feline predator—roughly six to eight feet in length—but composed entirely of faceted crystal rather than flesh. Its body refracts light into overlapping spectra of color; its actual hue shifts depending on angle and ambient light, ranging from clear crystal to amethyst to aquamarine. Every surface is geometrically angular, with sharp edges and points. Its claws are elongated, razor-sharp crystal edges capable of cutting through stone and steel. Its eyes glow with inner light—sapphire-bright and intelligent. Movement produces a soft, melodic chiming as crystalline surfaces scrape past one another. A faint luminescence surrounds it in darkness.
+The Crystalclaw resembles a large feline predator – roughly six to eight feet in length – but composed entirely of faceted crystal rather than flesh. Its body refracts light into overlapping spectra of color; its actual hue shifts depending on angle and ambient light, ranging from clear crystal to amethyst to aquamarine. Every surface is geometrically angular, with sharp edges and points. Its claws are elongated, razor-sharp crystal edges capable of cutting through stone and steel. Its eyes glow with inner light – sapphire-bright and intelligent. Movement produces a soft, melodic chiming as crystalline surfaces scrape past one another. A faint luminescence surrounds it in darkness.
 
 ## Key Behaviors
 
-The Crystalclaw is a solitary, territorial hunter that claims vast underground cavern systems as its domain. It patrols boundaries methodically and attacks any intrusion. Unlike beasts driven by hunger, the Crystalclaw seems to hunt for the joy of the hunt itself—for the movement, the refraction of light through violence, the song of crystal striking stone. It is intelligent enough to read prey behavior and adapt its tactics. It hunts most actively in daylight when its light-based abilities are most effective, becoming partially dormant in prolonged darkness.
+The Crystalclaw is a solitary, territorial hunter that claims vast underground cavern systems as its domain. It patrols boundaries methodically and attacks any intrusion. Unlike beasts driven by hunger, the Crystalclaw seems to hunt for the joy of the hunt itself – for the movement, the refraction of light through violence, the song of crystal striking stone. It is intelligent enough to read prey behavior and adapt its tactics. It hunts most actively in daylight when its light-based abilities are most effective, becoming partially dormant in prolonged darkness.
 
 ## Combat Strategy
 
@@ -371,11 +371,11 @@ The Crystalclaw can bend light through its faceted body, rendering itself diffic
 
 ### Crystal Durability
 
-The creature’s body is composed of material harder than most stone and harder than steel. It is extremely resistant to cutting and piercing blows. However, this same rigid structure makes it vulnerable to vibration, shock, and loud sound—anything that can cause the crystal lattice to resonate and fracture.
+The creature’s body is composed of material harder than most stone and harder than steel. It is extremely resistant to cutting and piercing blows. However, this same rigid structure makes it vulnerable to vibration, shock, and loud sound – anything that can cause the crystal lattice to resonate and fracture.
 
 ### Luminous Emission
 
-The Crystalclaw produces its own light, allowing it to navigate and hunt in complete darkness. It can also dim this luminescence for concealment or intensify it for dramatic effect—a predator that enjoys the performance of the hunt.
+The Crystalclaw produces its own light, allowing it to navigate and hunt in complete darkness. It can also dim this luminescence for concealment or intensify it for dramatic effect – a predator that enjoys the performance of the hunt.
 
 ## Additional Information
 

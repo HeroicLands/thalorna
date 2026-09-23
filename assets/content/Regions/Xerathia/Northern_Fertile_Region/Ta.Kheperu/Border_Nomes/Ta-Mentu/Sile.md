@@ -24,7 +24,7 @@ Sile is the capital of [[affiliation-nometament|the Nome of Ta-Mentu]] and the s
 
 ## See Also
 
-- [[affiliation-nometament|The Nome of Ta-Mentu]] — Parent nome
-- [[affiliation-bordernoms|The Border Nomes]] — Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[affiliation-ra|Rā]] — Patron cult
+- [[affiliation-nometament|The Nome of Ta-Mentu]] – Parent nome
+- [[affiliation-bordernoms|The Border Nomes]] – Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] – Imperial overview
+- [[affiliation-ra|Rā]] – Patron cult

@@ -1,7 +1,7 @@
 ---
 tags:
   - region
-description: "The land of the Kingdom of Nordheim — the northwestern coast of Ankaris, where jagged mountains plunge into icy fjords, with boreal forest, glacial valleys and high tundra behind."
+description: "The land of the Kingdom of Nordheim – the northwestern coast of Ankaris, where jagged mountains plunge into icy fjords, with boreal forest, glacial valleys and high tundra behind."
 name:
   full: Nordheim
   aliases: []
@@ -32,6 +32,6 @@ Key geographic features include the great fjords that cut deep into the mountain
 
 ## See Also
 
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] — The kingdom that holds this land
-- [[place-nrdlndsrgn|Nordlands Region]] — The enclosing region
-- Thrymstead — The seat
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] – The kingdom that holds this land
+- [[place-nrdlndsrgn|Nordlands Region]] – The enclosing region
+- Thrymstead – The seat

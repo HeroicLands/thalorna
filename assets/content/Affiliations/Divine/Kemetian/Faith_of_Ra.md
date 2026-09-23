@@ -22,7 +22,7 @@ data:
         title: Rite-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually requires — a sentence that reaches past the end of the life it is passed in.
+          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually requires – a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
         lore: layfaithfulrnk
@@ -32,17 +32,17 @@ data:
         title: Wab
         lore: initiaternk
         description: >-
-          "Purified One" — acolytes in apprenticeships that may last a decade or more, maintaining the sacred fires and learning the basic rituals; the most promising are trained in the secret mysteries — the god's nightly battle against chaos, and the hidden names of power.
+          "Purified One" – acolytes in apprenticeships that may last a decade or more, maintaining the sacred fires and learning the basic rituals; the most promising are trained in the secret mysteries – the god's nightly battle against chaos, and the hidden names of power.
       - level: 3
         title: Hem'Netjer
         lore: priestrnk
         description: >-
-          "Servant of the God" — ordained priests serving as temple administrators, teachers and ritual leaders, trained extensively in theology, astronomy and natural philosophy, and able to predict the sun's paths through the heavens with precision.
+          "Servant of the God" – ordained priests serving as temple administrators, teachers and ritual leaders, trained extensively in theology, astronomy and natural philosophy, and able to predict the sun's paths through the heavens with precision.
       - level: 4
         title: Wer'Hekau
         lore: highpriestrnk
         description: >-
-          "Great of Sacred Power" — High Priest of Rā, holding extraordinary political and spiritual authority. Chosen by the sitting Per-Aá in consultation with the outgoing holder — a succession the priesthood has occasionally contested, sometimes to open conflict.
+          "Great of Sacred Power" – High Priest of Rā, holding extraordinary political and spiritual authority. Chosen by the sitting Per-Aá in consultation with the outgoing holder – a succession the priesthood has occasionally contested, sometimes to open conflict.
     offices:
       Keeper of the Observatory: >-
         Maintains the temple's solar observatory and tracks the movements of sun, moon and stars, which serves both the cult's theology and practical prediction of the seasons.
@@ -63,8 +63,8 @@ data:
         sealed into the tomb with him. The order is unchanged in six centuries and has never been relaxed:
         any soul seen seeking the cursed road is killed where they stand.
       Bearer of the God's Image: >-
-        On the high festivals the image of Rā is borne in procession down the Sun's Road — the monumental
-        avenue lined with sphinxes and ram-statues — and across the water to the island on its stone
+        On the high festivals the image of Rā is borne in procession down the Sun's Road – the monumental
+        avenue lined with sphinxes and ram-statues – and across the water to the island on its stone
         causeways.
       Keeper of the Solstice Rites: >-
         The two climaxes of the year, when the whole capital turns out to watch the god born and the god die
@@ -98,11 +98,11 @@ alias: Rā, The Solar Flame
 packFolder: pantheonskemetian
 ---
 
-Rā is the primordial fire from which all creation springs. He is the sun that rises each morning, burning away darkness and shadow, bringing warmth, light, and life to all the world. Yet Rā is more than merely the sun in the sky—he is the principle of illumination itself, the divine force that makes truth visible, that purifies the corrupted, and that drives back the primordial chaos that eternally threatens creation. Each day, Rā undertakes his sacred journey across the heavens. Each night, he descends into the underworld to wage war against Ápōphis, the chaos serpent, ensuring that the morning will come and that creation will continue to exist.
+Rā is the primordial fire from which all creation springs. He is the sun that rises each morning, burning away darkness and shadow, bringing warmth, light, and life to all the world. Yet Rā is more than merely the sun in the sky – he is the principle of illumination itself, the divine force that makes truth visible, that purifies the corrupted, and that drives back the primordial chaos that eternally threatens creation. Each day, Rā undertakes his sacred journey across the heavens. Each night, he descends into the underworld to wage war against Ápōphis, the chaos serpent, ensuring that the morning will come and that creation will continue to exist.
 
 The worship of Rā is the worship of life itself, of the perpetual triumph of order over chaos, of light over darkness. Those who follow Rā are called to live with clarity, purpose, and righteous intensity. His followers believe that just as Rā illuminates the physical world, a righteous person should illuminate the moral and spiritual world around them. To worship Rā is to commit oneself to burning away falsehood, to cleansing oneself and one's society of corruption, and to maintaining the eternal vigilance that prevents chaos from returning.
 
-Rā's temples are oriented toward the east, and their central sanctums feature vast openings that allow the sun to flood the inner chambers during the hours before noon. The temple architects position these sanctums so that the sun's rays fall directly upon the altar precisely at solar noon, creating a moment of perfect illumination. Worshippers gather at these moments to feel the warmth of the god's presence directly upon them. The heat of the sun is understood not as hostile but as purifying—it burns away weakness, indulgence, and spiritual corruption.
+Rā's temples are oriented toward the east, and their central sanctums feature vast openings that allow the sun to flood the inner chambers during the hours before noon. The temple architects position these sanctums so that the sun's rays fall directly upon the altar precisely at solar noon, creating a moment of perfect illumination. Worshippers gather at these moments to feel the warmth of the god's presence directly upon them. The heat of the sun is understood not as hostile but as purifying – it burns away weakness, indulgence, and spiritual corruption.
 
 The priesthood of Rā has been described by foreign observers as the second most powerful institution in Ta'Kheperu, rivaled only by the priesthood of Má'át in authority and influence. The Wer'Hekau of Rā is among the most politically influential figures in the entire empire. More than one Per-Aá has owed his throne to the support of Rā's priesthood. When the solar priesthood withdraws its blessing, kingdoms shake. When it grants its endorsement to a new Per-Aá, even the most ambitious rival commanders rarely resist. The reason is theological: the Per-Aá is understood to be Rā's earthly manifestation, the god's representative in the physical world. A Per-Aá lacking the support of Rā's priesthood is a Per-Aá lacking legitimacy itself.
 
@@ -120,7 +120,7 @@ The priesthood of Rā is hierarchically organized with the Wer'Hekau at its apex
 
 Below the Wer'Hekau stand multiple Hem'Netjer, the ordained priests who serve as temple administrators, teachers, and ritual leaders. The priesthood of Rā requires extensive training in theology, astronomy, and natural philosophy. Young priests study the patterns of the sun's movement through the heavens, learning to predict its paths with precision. This knowledge is both practical (for maintaining the temple's solar observatories) and spiritual (for understanding Rā's divine will as expressed through the heavens).
 
-The Wab acolytes serve apprenticeships that may last a decade or more. They learn to maintain the sacred fires, to perform basic rituals, and to understand the theological foundations of Rā's faith. The most promising Wab are trained in the secret mysteries of the faith—hidden knowledge about the nature of Rā's nightly battle against chaos and the hidden names of power through which the priesthood communes with the god.
+The Wab acolytes serve apprenticeships that may last a decade or more. They learn to maintain the sacred fires, to perform basic rituals, and to understand the theological foundations of Rā's faith. The most promising Wab are trained in the secret mysteries of the faith – hidden knowledge about the nature of Rā's nightly battle against chaos and the hidden names of power through which the priesthood communes with the god.
 
 The priesthood also employs countless minor functionaries: temple servants, builders, astronomers, and record-keepers. The temples of Rā serve not only as places of worship but as centers of astronomical learning. The priests maintain observatories from which they track the movements of the sun, moon, and stars, using this knowledge both to refine their understanding of the cosmos and to make practical predictions about seasonal changes that affect agriculture and trade.
 
@@ -132,4 +132,4 @@ Rā stands in protective alliance with [[affiliation-iset|Faith of Íšét]]. Í
 
 The priesthood of Rā wages an unrelenting battle against the forces of chaos, particularly against the worship of Ápōphis. This is not a mere theological disagreement but an existential struggle. Each night, Rā descends into the underworld to combat the chaos serpent directly. The priesthood of Rā understands itself as Rā's earthly army in this cosmic war. They work actively to suppress chaos cults, to purify those who have been spiritually contaminated by exposure to chaotic forces, and to maintain the vigilance necessary to prevent chaos from returning to the world.
 
-Unlike the Aurèldían pantheon, the Faith of Rā contains no schism, no division into light and dark sects. The solar priesthood is unified in its theology and purpose. The god's nature is singular: he is fire as purification and illumination, never as destruction or domination. Some foreign observers find this unity suspicious, suggesting that the priesthood maintains hidden mysteries or that a latent heresy may emerge. But the Kemetians themselves insist that this unity is itself one of Rā's greatest gifts to Ta'Kheperu—a priesthood undivided, a faith unambiguous, a purpose clear and absolute.
+Unlike the Aurèldían pantheon, the Faith of Rā contains no schism, no division into light and dark sects. The solar priesthood is unified in its theology and purpose. The god's nature is singular: he is fire as purification and illumination, never as destruction or domination. Some foreign observers find this unity suspicious, suggesting that the priesthood maintains hidden mysteries or that a latent heresy may emerge. But the Kemetians themselves insist that this unity is itself one of Rā's greatest gifts to Ta'Kheperu – a priesthood undivided, a faith unambiguous, a purpose clear and absolute.

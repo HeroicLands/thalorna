@@ -23,43 +23,43 @@ data:
         title: Nídingr
         lore: excmmnctrnk
         description: >-
-          Declared nithing — cut off from the faith and from the standing that being of it
+          Declared nithing – cut off from the faith and from the standing that being of it
           conferred. No hall will seat them and no godi will speak for them.
       - level: 1
         title: Thrumu Thraell
         lore: initiaternk
         description: >-
-          "Thunder Thrall" — Storm Acolyte. The god's thrall: taken into the temple young, given the observances and the labour, and years away from the priesthood.
+          "Thunder Thrall" – Storm Acolyte. The god's thrall: taken into the temple young, given the observances and the labor, and years away from the priesthood.
       - level: 3
         title: Reid Godi/Gode
         lore: priestrnk
         description: >-
-          "Storm Priest/Priestess" — Storm Priest/Priestess. The working priest or priestess — Godi for a man, Gydja for a woman — who keeps the rites of a hall and the people who gather at it.
+          "Storm Priest/Priestess" – Storm Priest/Priestess. The working priest or priestess – Godi for a man, Gydja for a woman – who keeps the rites of a hall and the people who gather at it.
       - level: 4
         title: Thrumu Hersir
         lore: commanderrnk
         description: >-
-          "Thunder Warlord" — Thunder Herald. A warlord of the faith, carrying its authority where it must be carried by force or by presence.
+          "Thunder Warlord" – Thunder Herald. A warlord of the faith, carrying its authority where it must be carried by force or by presence.
       - level: 5
         title: Sjór Jarl
         lore: greatlordrnk
         description: >-
-          "Sea Jarl" — Warden of the Sea. A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
+          "Sea Jarl" – Warden of the Sea. A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
       - level: 6
         title: Haf Konungr/Konungrkvinde
         lore: sovereignrnk
         description: >-
-          "Ocean King/Queen" — Stormbringer. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
+          "Ocean King/Queen" – Stormbringer. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
       - level: 7
         title: Thór Allsherjargodi
         lore: highpriestrnk
         description: >-
-          "Thor High Priest" — Thundering Lord. High priest — a pontifical office, speaking for the faith where it must speak with one voice.
+          "Thor High Priest" – Thundering Lord. High priest – a pontifical office, speaking for the faith where it must speak with one voice.
       - level: 8
         title: Thrumu Fadir/Módir
         lore: grandmasterrnk
         description: >-
-          "Father/Mother of Thunder" — Pontiff of the Thunderer. Father or Mother of the god: the highest pontifical office, held by one person at a time.
+          "Father/Mother of Thunder" – Pontiff of the Thunderer. Father or Mother of the god: the highest pontifical office, held by one person at a time.
     offices:
       Order of the Hammer: >-
         Priests dedicated to the mastery of combat and protection, often serving as warriors and guardians.
@@ -72,7 +72,7 @@ data:
       Allsherjargodi: >-
         High priest of the faith, and its voice where it must speak with one.
       Fadir/Módir: >-
-        Father or Mother of the god — the highest office, held by one person.
+        Father or Mother of the god – the highest office, held by one person.
       Godi/Gydja: >-
         The working priest or priestess of a hall, who keeps its rites and its people.
   commonSkills: []
@@ -100,7 +100,7 @@ Thórr, the thunderous god of war, reavers, and the sea, stands as a formidable 
 
 Thórr is most famously depicted wielding his mighty hammer, Mjolnir, a weapon of immense power that can crush mountains and summon thunder and lightning. Mjolnir is not only a symbol of Thórr's might in battle but also a tool of protection, used to bless and sanctify.
 
-Thórr's physical appearance is that of a giant among men, muscular and bearded, with a fierce yet protective demeanor. His followers include warriors, seafarers, and those who live by the strength of their arms. Temples dedicated to Thórr are often located near the coast, filled with symbols of war and the sea — shields, swords, anchors, and depictions of fierce sea storms.
+Thórr's physical appearance is that of a giant among men, muscular and bearded, with a fierce yet protective demeanor. His followers include warriors, seafarers, and those who live by the strength of their arms. Temples dedicated to Thórr are often located near the coast, filled with symbols of war and the sea – shields, swords, anchors, and depictions of fierce sea storms.
 
 In artistic representations, Thórr is often shown driving his chariot pulled by two goats, Tanngrisnir and Tanngnjóstr, across the sky, creating thunder with each strike of Mjolnir.
 
@@ -119,13 +119,13 @@ In artistic representations, Thórr is often shown driving his chariot pulled by
 
 ## Clergy
 
-- **Thrumu Thraell** (Circle I: "Thunder Thrall") — Storm Acolyte
-- **Reid Godi/Gode** (Circle III: "Storm Priest/Priestess") — Storm Priest/Priestess
-- **Thrumu Hersir** (Circle IV: "Thunder Warlord") — Thunder Herald
-- **Sjór Jarl** (Circle V: "Sea Jarl") — Warden of the Sea
-- **Haf Konungr/Konungrkvinde** (Circle VI: "Ocean King/Queen") — Stormbringer
-- **Thór Allsherjargodi** (Circle VII: "Thor High Priest") — Thundering Lord
-- **Thrumu Fadir/Módir** (Circle VIII: "Father/Mother of Thunder") — Pontiff of the Thunderer
+- **Thrumu Thraell** (Circle I: "Thunder Thrall") – Storm Acolyte
+- **Reid Godi/Gode** (Circle III: "Storm Priest/Priestess") – Storm Priest/Priestess
+- **Thrumu Hersir** (Circle IV: "Thunder Warlord") – Thunder Herald
+- **Sjór Jarl** (Circle V: "Sea Jarl") – Warden of the Sea
+- **Haf Konungr/Konungrkvinde** (Circle VI: "Ocean King/Queen") – Stormbringer
+- **Thór Allsherjargodi** (Circle VII: "Thor High Priest") – Thundering Lord
+- **Thrumu Fadir/Módir** (Circle VIII: "Father/Mother of Thunder") – Pontiff of the Thunderer
 
 **Key Skills:** Weather manipulation and storm calling, Combat training and weapon mastery, Seafaring and navigation, Protection and blessing rituals
 

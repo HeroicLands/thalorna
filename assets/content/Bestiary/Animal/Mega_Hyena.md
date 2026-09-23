@@ -309,7 +309,7 @@ sohl:
 
 ![[mghyn|Mega Hyena]]{float: top-left}
 
-The sound of it hits you first—a deep, whooping laugh that seems to vibrate from the very ground, raising hair on the back of your neck. Then the shape emerges from the scrubland, massive and wrong, its sloped back and barrel chest giving it a predatory crouch even while standing still. Its coarse, mottled fur bristles, each hair catching the light in a way that makes the creature seem larger than it already is. Its yellow eyes glow with ancient malevolence, and its jaws—underslung and bristling with oversized teeth—seem capable of consuming whole limbs. When it laughs again, the sound carries the promise of tearing flesh and crushing bone.
+The sound of it hits you first – a deep, whooping laugh that seems to vibrate from the very ground, raising hair on the back of your neck. Then the shape emerges from the scrubland, massive and wrong, its sloped back and barrel chest giving it a predatory crouch even while standing still. Its coarse, mottled fur bristles, each hair catching the light in a way that makes the creature seem larger than it already is. Its yellow eyes glow with ancient malevolence, and its jaws – underslung and bristling with oversized teeth – seem capable of consuming whole limbs. When it laughs again, the sound carries the promise of tearing flesh and crushing bone.
 
 # Dossier {#dossier}
 

@@ -24,5 +24,5 @@ Tibur is a busy market town on one of the great roads into the capital, where th
 
 ## See Also
 
-- [[affiliation-provinclys|Province of Alyssa]] — Parent province
-- [[affiliation-vylarinmpr|Vylarian Empire]] — Imperial overview
+- [[affiliation-provinclys|Province of Alyssa]] – Parent province
+- [[affiliation-vylarinmpr|Vylarian Empire]] – Imperial overview

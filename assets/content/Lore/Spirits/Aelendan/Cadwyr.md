@@ -4,7 +4,7 @@ tags:
   - first-gods
 type: lore
 subType: spirit
-description: "Presiding wolf-spirit of a ridge in the Drenavar Spine — the hunt-rite's usual addressee, and a hard reciprocator."
+description: "Presiding wolf-spirit of a ridge in the Drenavar Spine – the hunt-rite's usual addressee, and a hard reciprocator."
 name:
   full: Cadwyr, the Grey Wolf of the Ridge
   aliases: []
@@ -18,7 +18,7 @@ packFolder: lorespiritsaelendan
 - **Posture:** Venerated
 - **Met through:** [[skill-cadwyrsprt|Cadwyr Spirit Power]]
 
-Cadwyr is the presiding spirit of the wolves of one long ridge — not a wolf, and not all wolves,
+Cadwyr is the presiding spirit of the wolves of one long ridge – not a wolf, and not all wolves,
 but the ancestral presence the packs of that ridge belong to. He is the Kindred most Áelendan hunt-
 rites in that country are addressed to, and the relationship is the plainest in the tradition:
 the tribe takes what the ridge offers and gives back what has been indicated.

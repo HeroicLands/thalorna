@@ -338,7 +338,7 @@ sohl:
 
 ![[margrush|Margrush]]{float: top-left}
 
-The low growl reaches you before you see the creature—a sound that vibrates through bone and stone alike. From beneath the ferns and leaf litter, a broad, flattened head emerges, its eyes set high and keen, watching with predatory patience. The creature’s body is a mass of coiled muscle covered in thick, leathery skin bristling with fur, colored to match the forest floor so perfectly that you almost missed it until it moved. Its claws dig into the earth as it advances, and you realize with creeping dread that this is no ambush—it has known of your presence all along, and now it is simply deciding whether to strike.
+The low growl reaches you before you see the creature – a sound that vibrates through bone and stone alike. From beneath the ferns and leaf litter, a broad, flattened head emerges, its eyes set high and keen, watching with predatory patience. The creature’s body is a mass of coiled muscle covered in thick, leathery skin bristling with fur, colored to match the forest floor so perfectly that you almost missed it until it moved. Its claws dig into the earth as it advances, and you realize with creeping dread that this is no ambush – it has known of your presence all along, and now it is simply deciding whether to strike.
 
 # Dossier {#dossier}
 

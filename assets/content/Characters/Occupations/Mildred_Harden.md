@@ -593,12 +593,12 @@ Few; well-liked in the community.
 
 ## Plot Hooks
 
-1. **The Innkeeper's Dilemma** — Mildred faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
+1. **The Innkeeper's Dilemma** – Mildred faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 
-2. **Old Grudges** — Few; well-liked in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** – Few; well-liked in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** — Something from Mildred's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past** – Something from Mildred's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds** — Political changes in Aelwyth threaten to upend the social order that Mildred depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** – Political changes in Aelwyth threaten to upend the social order that Mildred depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** — A chance encounter offers Mildred the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** – A chance encounter offers Mildred the possibility of advancement beyond anything she has dared hope for – but the price may be higher than it first appears.

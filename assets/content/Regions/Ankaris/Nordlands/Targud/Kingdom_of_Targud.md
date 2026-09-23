@@ -1,5 +1,5 @@
 ---
-description: "Sparsely-peopled northern Nordmen kingdom of deep forests and tundra borderlands — hunters, trappers, and fur-traders whose loyalty to the Asguardian gods is as cold and unbending as the country itself."
+description: "Sparsely-peopled northern Nordmen kingdom of deep forests and tundra borderlands – hunters, trappers, and fur-traders whose loyalty to the Asguardian gods is as cold and unbending as the country itself."
 type: affiliation
 name:
   full: Kingdom of Targud
@@ -26,7 +26,7 @@ data:
         title: Thrall
         lore: slavernk
         description: >-
-          Owned outright, owing labour rather than rent, bearing no weapon by right and having
+          Owned outright, owing labor rather than rent, bearing no weapon by right and having
           no voice at the assembly.
       - level: 2
         title: Freedman
@@ -87,7 +87,7 @@ data:
       Ármadr: Steward of a royal estate, answerable for its yield and for the king's rights
         within it.
       Féhirdir: Keeper of the king's treasure, his tribute and the silver of his hall.
-      Merkismadr: Bearer of the king's standard in battle, a post of the highest honour and
+      Merkismadr: Bearer of the king's standard in battle, a post of the highest honor and
         shortest life.
       Skald: Court poet, whose verse is the realm's memory and whose praise or scorn makes
         reputations.
@@ -126,19 +126,19 @@ The Kingdom of Targud holds the land of [[place-targud|Targud]]. It is the most 
 
 ## Character
 
-Life in Targud is defined by the eastern frontier. The Grukar are not a distant threat — they are a daily reality. Raids come with the seasons, and Targud's people live with one hand on a weapon at all times. This produces a culture that is grimmer and more fatalistic than the other Nordmen kingdoms. Targud's people worship the war-gods of the [[affiliation-asguardian|Asguardian Pantheon]] with particular fervor, and their skalds sing of heroic last stands and glorious defeats as often as victories.
+Life in Targud is defined by the eastern frontier. The Grukar are not a distant threat – they are a daily reality. Raids come with the seasons, and Targud's people live with one hand on a weapon at all times. This produces a culture that is grimmer and more fatalistic than the other Nordmen kingdoms. Targud's people worship the war-gods of the [[affiliation-asguardian|Asguardian Pantheon]] with particular fervor, and their skalds sing of heroic last stands and glorious defeats as often as victories.
 
-Targud maintains a network of frontier forts manned by warriors who serve rotating duty — a system that ensures every able-bodied person in the kingdom has combat experience.
+Targud maintains a network of frontier forts manned by warriors who serve rotating duty – a system that ensures every able-bodied person in the kingdom has combat experience.
 
-Despite the grim reputation, Targud is also the kingdom with the most knowledge of the Grukar — their language, customs, and internal politics. Some Targudan border lords maintain cautious trading relationships with the nearer Grukar clans, exchanging metalwork and salt for furs and amber.
+Despite the grim reputation, Targud is also the kingdom with the most knowledge of the Grukar – their language, customs, and internal politics. Some Targudan border lords maintain cautious trading relationships with the nearer Grukar clans, exchanging metalwork and salt for furs and amber.
 
 ## Commerce and Currency
 
-Kingdom of Targud uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) as its _de facto_ currency for transactions conducted in money — no native coin exists, and no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate in the Nordlands. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[lore-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[lore-kinhalcrdt|hall credit]] customs that have no relationship with the Vylarian banking system.
+Kingdom of Targud uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) as its _de facto_ currency for transactions conducted in money – no native coin exists, and no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate in the Nordlands. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[lore-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[lore-kinhalcrdt|hall credit]] customs that have no relationship with the Vylarian banking system.
 
 ## See Also
 
-- [[place-targud|Targud]] — The land the kingdom holds
-- [[place-grkrhlmrgn|Grukarholm Region]] — Eastern enemy
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] — Sister kingdoms
-- [[affiliation-asguardian|Asguardian Pantheon]] — Pantheon
+- [[place-targud|Targud]] – The land the kingdom holds
+- [[place-grkrhlmrgn|Grukarholm Region]] – Eastern enemy
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] – Sister kingdoms
+- [[affiliation-asguardian|Asguardian Pantheon]] – Pantheon

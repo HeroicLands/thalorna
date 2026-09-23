@@ -3,7 +3,7 @@ tags:
   - sacred
   - pilgrimage
   - inland
-description: "The source of the Mahānadi — the widest of the four glacier-mouths, the easiest to reach, and the one the great pilgrimage actually goes to."
+description: "The source of the Mahānadi – the widest of the four glacier-mouths, the easiest to reach, and the one the great pilgrimage actually goes to."
 type: place
 subType: site
 data:

@@ -3,7 +3,7 @@ tags:
   - city
   - inland
   - river
-description: "The great city of Provènzia's western march and seat of its Earl — an old inland stronghold turned administrative capital, host of the Giochi Grandi every fifth year, and the one place in Ankaris where the Black Flame is held openly by a man nobody can touch."
+description: "The great city of Provènzia's western march and seat of its Earl – an old inland stronghold turned administrative capital, host of the Giochi Grandi every fifth year, and the one place in Ankaris where the Black Flame is held openly by a man nobody can touch."
 type: place
 subType: settlement
 data:
@@ -19,13 +19,13 @@ shortcode: harivrencity
 packFolder: provenzia
 ---
 
-**Hárivren** is the great city of Provènzia's **western march** — inland, on the river that gathers the
+**Hárivren** is the great city of Provènzia's **western march** – inland, on the river that gathers the
 coastal valleys before they run down to the sea, at the point where the roads out of
 [[place-zuravlenrgn|Zûravlen]] and the northern coast meet the highway south.
 
-It is not a port and never has been; the western coast has almost no harbours worth the name. What
-Hárivren has instead is _convergence_. Everything the west produces — wool, salt-fish, timber, hides,
-and the fruit and wine of the Zûravlen valley — is carried inland to Hárivren, sorted, taxed and sold
+It is not a port and never has been; the western coast has almost no harbors worth the name. What
+Hárivren has instead is _convergence_. Everything the west produces – wool, salt-fish, timber, hides,
+and the fruit and wine of the Zûravlen valley – is carried inland to Hárivren, sorted, taxed and sold
 there, and goes south from there to the rich Vylarian coast. Some thirty-four thousand people live on
 the proceeds.
 
@@ -48,7 +48,7 @@ does not conceal it.
 This is the fact about Hárivren that everyone outside Provènzia finds difficult to believe.
 
 The Black Flame is suppressed across most of the Aurèldían world and works through secretive orders and
-hidden shrines. In Provènzia it has an earl — openly, at the head of a march, with the Crown's
+hidden shrines. In Provènzia it has an earl – openly, at the head of a march, with the Crown's
 knowledge. Nothing about Avaârl's devotion is secret; his household observes it; the
 [[affiliation-sacredforge|Sacred Forge]] has protested about it for thirty years and been thanked for
 its concern.
@@ -56,8 +56,8 @@ its concern.
 The usual explanation given at Lunacòrte is that a Flame lord who can be seen is worth more than a
 dozen who cannot, and that the western march is quiet, well governed and pays. Whether that is
 statecraft or an accommodation nobody has the standing to refuse is a question Provenzians ask each
-other and not strangers. It is, in any case, why the cult's activity in Provènzia — at
-[[place-yharvalenhenge|Yhârvalen]] above all — is so much harder to act against here than it would be
+other and not strangers. It is, in any case, why the cult's activity in Provènzia – at
+[[place-yharvalenhenge|Yhârvalen]] above all – is so much harder to act against here than it would be
 anywhere else.
 
 ## The Giochi Grandi
@@ -68,12 +68,12 @@ across Provènzia and well beyond it.
 
 For the months around the Games the city triples. Nobles negotiate alliances, debts and revenge in the
 open; enormous sums are wagered; the [[affiliation-ordoarcanis|Ordo Arcanis]] keeps an official
-presence to watch for magical interference, and finds enough of it to justify returning. Rumours of
+presence to watch for magical interference, and finds enough of it to justify returning. Rumors of
 poison and arranged defeat circulate every cycle and are occasionally true.
 
-The Games are the earldom's chief instrument of prestige, and the ceremonies that frame them — which
+The Games are the earldom's chief instrument of prestige, and the ceremonies that frame them – which
 involve a great deal of fire, and which the Earl's family has been quietly shaping for four
-generations — are the subject of a complaint the Sacred Forge renews every five years, and loses.
+generations – are the subject of a complaint the Sacred Forge renews every five years, and loses.
 
 ## See Also
 

@@ -570,15 +570,15 @@ sohl:
 
 ![[chlbrhydyn|Chéleb Rhýddýn]]{float: top-left}
 
-Chéleb ("KA-leb") is a lithe, wiry man of thirty-two with pale, weather-tanned skin, dark brown hair tied back with a leather thong, and watchful hazel eyes. Often cloaked in green and brown for camouflage, he has the stillness of a man who has spent most of his life in the wilderness. He moves through terrain—any terrain—with a quiet sureness that makes him almost invisible when he chooses to be.
+Chéleb ("KA-leb") is a lithe, wiry man of thirty-two with pale, weather-tanned skin, dark brown hair tied back with a leather thong, and watchful hazel eyes. Often cloaked in green and brown for camouflage, he has the stillness of a man who has spent most of his life in the wilderness. He moves through terrain – any terrain – with a quiet sureness that makes him almost invisible when he chooses to be.
 
 # Dossier {#dossier}
 
-Chéleb is an [[lore-aelendnppl|Áelendan]] hunter from the wildernesses of the [[place-drenavrspn|Drenavar Spine]] in northern [[place-provenzrgn|Provènzia]]. Trained from childhood in the ancient Áelendan ways of tracking, archery, and survival, he has spent most of his life navigating the harsh landscapes of his homeland—forests, mountains, and the deep places where few outsiders venture.
+Chéleb is an [[lore-aelendnppl|Áelendan]] hunter from the wildernesses of the [[place-drenavrspn|Drenavar Spine]] in northern [[place-provenzrgn|Provènzia]]. Trained from childhood in the ancient Áelendan ways of tracking, archery, and survival, he has spent most of his life navigating the harsh landscapes of his homeland – forests, mountains, and the deep places where few outsiders venture.
 
 Chéleb is deeply spiritual, connected to the natural world in a way that his mercenary companions cannot fully understand. His bond with the land and its spirits is not abstract philosophy but a living practice, rooted in the traditions of his tribe and the [[place-eshalshldg|Eshálosha]] lodge to which he belongs. He is a hunter and a protector of the wilderness, and he carries both roles with quiet seriousness.
 
-He did not join the [[affiliation-slntlncmpny|Silent Talon]] for coin or glory. Chéleb seeks knowledge of the wider world—an understanding of the forces and conflicts beyond the mountains that increasingly threaten his people. If he can earn enough to help protect the Áelendan and their sacred lands while he is out here, so much the better. Brànwâal values him for his sharp eyes, his knowledge of the land, and his ability to scout terrain that would slow or trap less experienced men.
+He did not join the [[affiliation-slntlncmpny|Silent Talon]] for coin or glory. Chéleb seeks knowledge of the wider world – an understanding of the forces and conflicts beyond the mountains that increasingly threaten his people. If he can earn enough to help protect the Áelendan and their sacred lands while he is out here, so much the better. Brànwâal values him for his sharp eyes, his knowledge of the land, and his ability to scout terrain that would slow or trap less experienced men.
 
 ## Background
 
@@ -594,11 +594,11 @@ He did not join the [[affiliation-slntlncmpny|Silent Talon]] for coin or glory. 
 
 ### Personality
 
-Chéleb is quiet and introspective, speaking only when necessary. His stoic nature hides a deep reverence for the natural world and the spirits of the land, which sometimes makes him appear detached from the more pragmatic concerns of his companions. He is fiercely loyal to those who earn his trust but remains guarded around outsiders. He is not unfriendly—merely reserved, and more comfortable in the company of trees than of people.
+Chéleb is quiet and introspective, speaking only when necessary. His stoic nature hides a deep reverence for the natural world and the spirits of the land, which sometimes makes him appear detached from the more pragmatic concerns of his companions. He is fiercely loyal to those who earn his trust but remains guarded around outsiders. He is not unfriendly – merely reserved, and more comfortable in the company of trees than of people.
 
 ### Motivation
 
-Chéleb's goal is to gather enough wealth to secure a future for his tribe and the preservation of the Áelendan ways. He sees the Silent Talon as a means to an end—allowing him to fund the protection of sacred sites from exploitation and encroachment. He also seeks to learn more about the wider world, using his time with the band to understand the broader conflicts affecting Provènzia and the threats they may bring to his people.
+Chéleb's goal is to gather enough wealth to secure a future for his tribe and the preservation of the Áelendan ways. He sees the Silent Talon as a means to an end – allowing him to fund the protection of sacred sites from exploitation and encroachment. He also seeks to learn more about the wider world, using his time with the band to understand the broader conflicts affecting Provènzia and the threats they may bring to his people.
 
 ### Strengths
 
@@ -625,8 +625,8 @@ Those who desecrate sacred Áelendan lands.
 
 ## Plot Hooks
 
-1. **The Defiled Grove**: Chéleb receives word that a sacred Áelendan site has been desecrated—whether by loggers, miners, or something worse. He must convince the Silent Talon to detour from their current contract to investigate, balancing his obligations to the band against his duty to his people.
+1. **The Defiled Grove**: Chéleb receives word that a sacred Áelendan site has been desecrated – whether by loggers, miners, or something worse. He must convince the Silent Talon to detour from their current contract to investigate, balancing his obligations to the band against his duty to his people.
 
-2. **The Spirit's Warning**: During a scouting mission, Chéleb receives a vision or omen from the spirits of the land—a warning of danger that his companions cannot see. Whether they trust his interpretation may determine whether the band survives what lies ahead.
+2. **The Spirit's Warning**: During a scouting mission, Chéleb receives a vision or omen from the spirits of the land – a warning of danger that his companions cannot see. Whether they trust his interpretation may determine whether the band survives what lies ahead.
 
 3. **The Outsider's Burden**: A group of Áelendan exiles approaches Chéleb, asking him to use his mercenary connections to help them reclaim tribal lands that have been seized. The request puts Chéleb in an impossible position: helping them means risking the Silent Talon for a cause that is not the band's fight.

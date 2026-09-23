@@ -624,19 +624,19 @@ sohl:
 
 ![[lthgnt|Lithogiant]]{float: top-left}
 
-The ground trembles. What rises before you is the size of a house, then larger—a humanoid figure of solid stone and living earth, perhaps twenty-five to thirty feet in height. Its body is composed of massive interlocked stone blocks and carved rock, with a silhouette of geological strata made animate. Where it moves, the earth shakes, and small stones rattle and bounce from the vibration. Its eyes are burning points deep within a stone head, and when it shifts its weight, entire hillsides seem to shift with it. It regards you with the alien patience of something that measures time in ages of stone.
+The ground trembles. What rises before you is the size of a house, then larger – a humanoid figure of solid stone and living earth, perhaps twenty-five to thirty feet in height. Its body is composed of massive interlocked stone blocks and carved rock, with a silhouette of geological strata made animate. Where it moves, the earth shakes, and small stones rattle and bounce from the vibration. Its eyes are burning points deep within a stone head, and when it shifts its weight, entire hillsides seem to shift with it. It regards you with the alien patience of something that measures time in ages of stone.
 
 # Dossier {#dossier}
 
-A Lithogiant is raw elemental power—an earth elemental of titanic proportions. It is not bound to a specific location but wanders across mountain ranges and high plateaus, following paths that only it understands. Most Lithogiants are solitary and avoid human settlements, but an agitated or territorial one can be an apocalyptic threat to entire regions. A Lithogiant does not hunt; it simply moves according to its own imperatives. Anything in its path is an obstacle to be removed.
+A Lithogiant is raw elemental power – an earth elemental of titanic proportions. It is not bound to a specific location but wanders across mountain ranges and high plateaus, following paths that only it understands. Most Lithogiants are solitary and avoid human settlements, but an agitated or territorial one can be an apocalyptic threat to entire regions. A Lithogiant does not hunt; it simply moves according to its own imperatives. Anything in its path is an obstacle to be removed.
 
 ## Presentation
 
-A Lithogiant stands twenty-five to thirty feet tall and is composed entirely of stone and earth held together by magic. Its body has a roughly humanoid shape—two legs, a torso, two arms, and a head—but the proportions are strange, shifted toward strength and endurance rather than human likeness. Its surface is jagged and rough, with exposed stone faces and geological patterns visible across its body. Its eyes are deep within its head, burning with a dull orange or red glow. Its hands are massive and stone, and its stride can crack the earth.
+A Lithogiant stands twenty-five to thirty feet tall and is composed entirely of stone and earth held together by magic. Its body has a roughly humanoid shape – two legs, a torso, two arms, and a head – but the proportions are strange, shifted toward strength and endurance rather than human likeness. Its surface is jagged and rough, with exposed stone faces and geological patterns visible across its body. Its eyes are deep within its head, burning with a dull orange or red glow. Its hands are massive and stone, and its stride can crack the earth.
 
 ## Key Behaviors
 
-Lithogiants are slow-moving but inexorable. They seem to follow invisible paths across mountain ranges, and they seem drawn to places of geological interest—ancient stones, sites of past earthquakes, places where the earth's power is evident. They are not territorial in the normal sense, but they will not tolerate being blocked or redirected. They seem to have no need for food, sleep, or rest. They simply move, endure, and exist. Most encounters involve a Lithogiant passing through a region—the threat being not active aggression but simple unstoppable motion.
+Lithogiants are slow-moving but inexorable. They seem to follow invisible paths across mountain ranges, and they seem drawn to places of geological interest – ancient stones, sites of past earthquakes, places where the earth's power is evident. They are not territorial in the normal sense, but they will not tolerate being blocked or redirected. They seem to have no need for food, sleep, or rest. They simply move, endure, and exist. Most encounters involve a Lithogiant passing through a region – the threat being not active aggression but simple unstoppable motion.
 
 ## Combat Strategy
 

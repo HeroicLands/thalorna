@@ -4,7 +4,7 @@ name:
   full: Hvarn Language
   aliases:
     - Hvarn
-description: "The tongue of the guide-people of the Eastern Reach — unrelated to any lowland family, unwritten, and the one trans-Grazian language a lowlander occasionally learns."
+description: "The tongue of the guide-people of the Eastern Reach – unrelated to any lowland family, unwritten, and the one trans-Grazian language a lowlander occasionally learns."
 shortcode: hvarnlng
 type: skill
 subType: language
@@ -29,7 +29,7 @@ Hvarn is the tongue of the [[affiliation-hvarnguides|Hvarn]] of [[place-estrnrea
 
 ## Overview
 
-Hvarn is not related to [[skill-osketlng|Ösket]], which surprises everyone who has assumed it must be. The two peoples live three hundred miles apart along the same wall, do much the same work, marry across the gap occasionally, and speak languages with no demonstrable common stock — a fact both peoples state without interest and lowland scholars find difficult to accept.
+Hvarn is not related to [[skill-osketlng|Ösket]], which surprises everyone who has assumed it must be. The two peoples live three hundred miles apart along the same wall, do much the same work, marry across the gap occasionally, and speak languages with no demonstrable common stock – a fact both peoples state without interest and lowland scholars find difficult to accept.
 
 It is the trans-Grazian language outsiders most often learn, which is to say that perhaps forty lowlanders speak it. They are the factors who renegotiate the garrison contract, a handful of eastern janapada clerks, and the occasional soldier of [[place-sanghafort|the Saṅgha-fort]] who has wintered at [[place-nurvhrn|Nürvhrn]] and come back fluent and strange.
 

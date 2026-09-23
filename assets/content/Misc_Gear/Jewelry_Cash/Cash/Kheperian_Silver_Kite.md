@@ -23,6 +23,6 @@ sohl:
 packFolder: cash
 ---
 
-A silver piece at one kite. This is the denomination wages are reckoned in and the one a working household sees most often in a good week — a day's skilled labour, a month's bread, the price of a decent tool.
+A silver piece at one kite. This is the denomination wages are reckoned in and the one a working household sees most often in a good week – a day's skilled labor, a month's bread, the price of a decent tool.
 
 It is small enough to carry in quantity and large enough that a purse of them is worth guarding.

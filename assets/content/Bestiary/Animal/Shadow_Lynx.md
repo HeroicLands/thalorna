@@ -338,7 +338,7 @@ sohl:
 
 ![[shdwlynx|Shadow Lynx]]{float: top-left}
 
-Something stirs in the darkness — barely more than a shadow among shadows, yet conscious and aware. The undergrowth doesn't part so much as accommodate the creature's passage, as if shadow itself is flowing through the ferns and leaf litter. The eyes open like green coals in the dimness, and your vision suddenly focuses on what you somehow knew was there all along: a sleek, dark form that would be nearly invisible in full daylight, let alone this gathering dusk. The ears twitch once, twice, and you realize the creature has locked onto you through sound alone. There is no haste in its movement, only certainty — the confidence of a predator that has already decided the outcome.
+Something stirs in the darkness – barely more than a shadow among shadows, yet conscious and aware. The undergrowth doesn't part so much as accommodate the creature's passage, as if shadow itself is flowing through the ferns and leaf litter. The eyes open like green coals in the dimness, and your vision suddenly focuses on what you somehow knew was there all along: a sleek, dark form that would be nearly invisible in full daylight, let alone this gathering dusk. The ears twitch once, twice, and you realize the creature has locked onto you through sound alone. There is no haste in its movement, only certainty – the confidence of a predator that has already decided the outcome.
 
 # Dossier {#dossier}
 
@@ -350,11 +350,11 @@ The Shadow Lynx is a sleek, muscular feline with a build made for stealth rather
 
 ## Key Behaviors
 
-Shadow Lynxes are nocturnal and most active during dusk and night hours, resting in sheltered locations during daylight. They are solitary and territorial, with each lynx maintaining exclusive hunting grounds marked by scent deposits and claw marks on trees. They communicate primarily through vocalizations — yowls, growls, and chirps — that carry across forest distances. Shadow lynxes hunt primarily small mammals and birds, occasionally taking larger prey if opportunity presents. They are intelligent and capable of learning, remembering dangerous hunters and locations where game is abundant. The creatures are patient predators willing to wait for extended periods for prey to appear.
+Shadow Lynxes are nocturnal and most active during dusk and night hours, resting in sheltered locations during daylight. They are solitary and territorial, with each lynx maintaining exclusive hunting grounds marked by scent deposits and claw marks on trees. They communicate primarily through vocalizations – yowls, growls, and chirps – that carry across forest distances. Shadow lynxes hunt primarily small mammals and birds, occasionally taking larger prey if opportunity presents. They are intelligent and capable of learning, remembering dangerous hunters and locations where game is abundant. The creatures are patient predators willing to wait for extended periods for prey to appear.
 
 ## Combat Strategy
 
-The shadow lynx's strategy is ambush and precision — the creature stalks prey with supernatural silence, positions itself for a killing strike, and launches a sudden explosive attack intended to kill quickly. If the initial strike fails, the lynx retreats into terrain and shadow it knows intimately, repositioning to strike again from a new angle. The creature avoids prolonged physical combat, preferring to kill through surprise and positioning rather than through sustained engagement. If cornered or defending young, the lynx becomes more aggressive but still prefers disengagement when possible.
+The shadow lynx's strategy is ambush and precision – the creature stalks prey with supernatural silence, positions itself for a killing strike, and launches a sudden explosive attack intended to kill quickly. If the initial strike fails, the lynx retreats into terrain and shadow it knows intimately, repositioning to strike again from a new angle. The creature avoids prolonged physical combat, preferring to kill through surprise and positioning rather than through sustained engagement. If cornered or defending young, the lynx becomes more aggressive but still prefers disengagement when possible.
 
 ## Attack Methods
 
@@ -364,7 +364,7 @@ The shadow lynx launches from concealment with explosive speed, using its hind l
 
 ### Precision Bite
 
-Once engaged, the lynx attempts to bite at vital areas — the throat, the spine, or the base of the skull — using its powerful jaw and sharp teeth to inflict lethal injury. The bite is precise and delivered only after the lynx has positioned itself for maximum effect.
+Once engaged, the lynx attempts to bite at vital areas – the throat, the spine, or the base of the skull – using its powerful jaw and sharp teeth to inflict lethal injury. The bite is precise and delivered only after the lynx has positioned itself for maximum effect.
 
 ### Raking Claws
 
@@ -390,7 +390,7 @@ Despite its modest size, the shadow lynx can achieve rapid acceleration over sho
 
 ### Territorial Knowledge
 
-The shadow lynx's familiarity with its own territory provides it with advantage in combat within its established range — the lynx can use terrain tactically while opponents are unfamiliar with the landscape.
+The shadow lynx's familiarity with its own territory provides it with advantage in combat within its established range – the lynx can use terrain tactically while opponents are unfamiliar with the landscape.
 
 ### Additional Information
 

@@ -338,7 +338,7 @@ sohl:
 
 ![[kmdbhmth|Komodo Behemoth]]{float: top-left}
 
-A shadow moves across the rocky ground—enormous, inexorable, patient. The air grows warmer as the massive shape draws close, and the smell reaches you first: stale, meaty, and laced with something rotten. The creature slides into view with terrifying grace for something so vast, its scales catching the light in dull, metallic flashes. The ground trembles with each footfall. Its forked tongue emerges and retracts, tasting your fear on the wind, and its eyes—ancient, knowing, pitiless—lock onto yours as the tail sweeps behind it like a felled tree.
+A shadow moves across the rocky ground – enormous, inexorable, patient. The air grows warmer as the massive shape draws close, and the smell reaches you first: stale, meaty, and laced with something rotten. The creature slides into view with terrifying grace for something so vast, its scales catching the light in dull, metallic flashes. The ground trembles with each footfall. Its forked tongue emerges and retracts, tasting your fear on the wind, and its eyes – ancient, knowing, pitiless – lock onto yours as the tail sweeps behind it like a felled tree.
 
 # Dossier {#dossier}
 
@@ -346,7 +346,7 @@ The Komodo Behemoth is a titanic reptilian predator measuring 15 to 18 feet in l
 
 ## Presentation
 
-Komodo Behemoths display coarse, warty scales across their entire body, with the scales along the back and tail forming rough ridges. Coloration varies from dark gray-green to nearly black, with lighter bands occasionally visible on younger specimens. Their eyes are positioned high on the head, providing excellent forward vision but limited peripheral sight. Their teeth are sharp, serrated, and constantly replaced throughout their lives—a new tooth will grow in if one is broken. The mouth opens vertically, allowing them to swallow prey nearly as large as themselves. A distinctive musky odor surrounds them at all times.
+Komodo Behemoths display coarse, warty scales across their entire body, with the scales along the back and tail forming rough ridges. Coloration varies from dark gray-green to nearly black, with lighter bands occasionally visible on younger specimens. Their eyes are positioned high on the head, providing excellent forward vision but limited peripheral sight. Their teeth are sharp, serrated, and constantly replaced throughout their lives – a new tooth will grow in if one is broken. The mouth opens vertically, allowing them to swallow prey nearly as large as themselves. A distinctive musky odor surrounds them at all times.
 
 ## Key Behaviors
 

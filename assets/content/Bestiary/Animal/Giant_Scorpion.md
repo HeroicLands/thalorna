@@ -256,7 +256,7 @@ sohl:
 
 ![[gntscrpn|Giant Scorpion]]{float: top-left}
 
-Movement at the edge of vision makes you turn—and a chill of primal horror runs down your spine. Out from under a rock outcropping comes a creature easily ten feet long from the tip of its pincers to the end of its tail. The exoskeleton gleams in shades of dark brown and rust, armored like a knight in chitinous plate. The pincers are massive and cruel, each one ending in a curved point sharp enough to pierce armor. But worse is the tail—it curves high above the creature's body, segmented and sinuous, and at its tip a stinger glints with clear, oily venom that drips to the ground and hisses where it falls. The creature's multiple eyes fix on you, and you have the absolute conviction that you are being measured, evaluated, and found edible.
+Movement at the edge of vision makes you turn – and a chill of primal horror runs down your spine. Out from under a rock outcropping comes a creature easily ten feet long from the tip of its pincers to the end of its tail. The exoskeleton gleams in shades of dark brown and rust, armored like a knight in chitinous plate. The pincers are massive and cruel, each one ending in a curved point sharp enough to pierce armor. But worse is the tail – it curves high above the creature's body, segmented and sinuous, and at its tip a stinger glints with clear, oily venom that drips to the ground and hisses where it falls. The creature's multiple eyes fix on you, and you have the absolute conviction that you are being measured, evaluated, and found edible.
 
 # Dossier {#dossier}
 
@@ -264,15 +264,15 @@ The Giant Scorpion is a predatory arachnid combining overwhelming armor, crushin
 
 ## Presentation
 
-The Giant Scorpion is a heavily armored creature with a body profile that is recognizable but scaled to monstrous proportions. The cephalothorax (head-body region) is squat and heavily muscled, covered in overlapping plates of thick chitin in shades of dark brown, rust, or nearly black. The abdomen is segmented and curves upward in a vicious arc, ending in a stinger. The creature is supported on eight jointed legs that position it slightly above the ground, allowing movement across rough terrain. The pincers are massive, each longer than a human arm, capable of independent movement and controlled with frightening precision. The eyes are multiple—arranged around the front of the head to provide excellent sensory coverage. The overall impression is of a creature designed entirely for predation.
+The Giant Scorpion is a heavily armored creature with a body profile that is recognizable but scaled to monstrous proportions. The cephalothorax (head-body region) is squat and heavily muscled, covered in overlapping plates of thick chitin in shades of dark brown, rust, or nearly black. The abdomen is segmented and curves upward in a vicious arc, ending in a stinger. The creature is supported on eight jointed legs that position it slightly above the ground, allowing movement across rough terrain. The pincers are massive, each longer than a human arm, capable of independent movement and controlled with frightening precision. The eyes are multiple – arranged around the front of the head to provide excellent sensory coverage. The overall impression is of a creature designed entirely for predation.
 
 ## Key Behaviors
 
-Giant Scorpions are perfectly adapted ambush predators that remain motionless for hours or days, waiting for prey. They prefer rocky, arid environments where their coloration provides camouflage and where prey is abundant. They are strictly solitary except during breeding, and they aggressively defend territory against rivals and intruders. A scorpion will attack anything within its territory that it perceives as either prey or threat—it does not distinguish. The creature hunts primarily insects, lizards, small mammals, and birds, but a hungry or threatened scorpion will attack humanoids.
+Giant Scorpions are perfectly adapted ambush predators that remain motionless for hours or days, waiting for prey. They prefer rocky, arid environments where their coloration provides camouflage and where prey is abundant. They are strictly solitary except during breeding, and they aggressively defend territory against rivals and intruders. A scorpion will attack anything within its territory that it perceives as either prey or threat – it does not distinguish. The creature hunts primarily insects, lizards, small mammals, and birds, but a hungry or threatened scorpion will attack humanoids.
 
 ## Combat Strategy
 
-A Giant Scorpion's preferred method is complete surprise—a target is completely unaware of the scorpion until it strikes. The initial attack combines pincer grapple with tail strike, attempting to immobilize and inject venom simultaneously. Once prey is held by the pincers, the tail can be brought to bear repeatedly, delivering multiple stings. A scorpion that misses its initial ambush is less effective in direct combat but retains significant advantage through armor and strength. A scorpion will continue attacking until prey is dead or until the scorpion itself is seriously wounded—they show no instinct to retreat.
+A Giant Scorpion's preferred method is complete surprise – a target is completely unaware of the scorpion until it strikes. The initial attack combines pincer grapple with tail strike, attempting to immobilize and inject venom simultaneously. Once prey is held by the pincers, the tail can be brought to bear repeatedly, delivering multiple stings. A scorpion that misses its initial ambush is less effective in direct combat but retains significant advantage through armor and strength. A scorpion will continue attacking until prey is dead or until the scorpion itself is seriously wounded – they show no instinct to retreat.
 
 ## Attack Methods
 
@@ -282,7 +282,7 @@ The massive pincers deliver a crushing force capable of splintering bones and br
 
 ### Tail Sting
 
-Once prey is grappled or helpless, the tail can strike repeatedly—injecting a fast-acting venom designed to paralyze or kill. The venom is potent enough to incapacitate humanoids.
+Once prey is grappled or helpless, the tail can strike repeatedly – injecting a fast-acting venom designed to paralyze or kill. The venom is potent enough to incapacitate humanoids.
 
 ## Special Abilities
 
@@ -292,11 +292,11 @@ The Giant Scorpion's chitin provides superb protection against slashing and pier
 
 ### Ambush Predator
 
-A scorpion that remains motionless gains near-invisibility—particularly in rocky terrain where its coloration matches stone. A target caught unaware by a scorpion strike has little chance to defend itself.
+A scorpion that remains motionless gains near-invisibility – particularly in rocky terrain where its coloration matches stone. A target caught unaware by a scorpion strike has little chance to defend itself.
 
 ## Additional Information
 
-Giant Scorpion venom is extremely valuable to alchemists and poisoners—a single sting's venom can sell for significant coin. Harvesting venom is extraordinarily dangerous. The scorpion's exoskeleton can be worked into armor. A scorpion's territory is recognizable by bleached bones and exoskeletons of previous kills scattered around the ambush site.
+Giant Scorpion venom is extremely valuable to alchemists and poisoners – a single sting's venom can sell for significant coin. Harvesting venom is extraordinarily dangerous. The scorpion's exoskeleton can be worked into armor. A scorpion's territory is recognizable by bleached bones and exoskeletons of previous kills scattered around the ambush site.
 
 ## Attributes
 

@@ -1,5 +1,5 @@
 ---
-description: "Naval stronghold of the Confederation of Haradian States on the strait between mainland and archipelago — fortress-city whose admirals command the confederation's most powerful warships."
+description: "Naval stronghold of the Confederation of Haradian States on the strait between mainland and archipelago – fortress-city whose admirals command the confederation's most powerful warships."
 type: affiliation
 name:
   full: Kethara
@@ -30,7 +30,7 @@ data:
         title: Resident
         lore: commonerrnk
         description: >-
-          Dwelling and labouring in the city under its protection, without its freedom or a
+          Dwelling and laboring in the city under its protection, without its freedom or a
           vote in it.
       - level: 3
         title: Freeman of the City
@@ -47,7 +47,7 @@ data:
         title: House Factor
         lore: officerrnk
         description: >-
-          Managing the affairs of one of the great houses — its warehouses, its ships, its correspondents
+          Managing the affairs of one of the great houses – its warehouses, its ships, its correspondents
           abroad.
       - level: 6
         title: House Head
@@ -72,7 +72,7 @@ data:
         heads.
       Chancellor: Keeper of the city's charters, treaties and correspondence.
       Treasurer: >-
-        Keeper of the city's revenue — its customs, its tolls, and the loans it raises against
+        Keeper of the city's revenue – its customs, its tolls, and the loans it raises against
         them.
       Harbourmaster: Warden of the port, its pilots, its wharves and the dues levied on every
         hull that enters.
@@ -83,7 +83,7 @@ data:
       Captain of the Watch: Commander of the city's guard and of the militia its guilds are
         bound to raise.
       Warden of the Weights: >-
-        Inspector of measures, coin and quality in the markets — the office that makes the
+        Inspector of measures, coin and quality in the markets – the office that makes the
         city's word good.
       Guild Master: Head of a chartered trade, speaking for it before the Council.
       Arbitrator: >-
@@ -108,28 +108,28 @@ data:
 packFolder: harad
 ---
 
-Kethara is the Confederation's naval stronghold — a heavily fortified city on the strait between the mainland and the Haradian archipelago. The city that built the fleet that won the Battle of Tamzîr Shoals, Kethara's identity is military as much as mercantile. Its admirals command the Confederation's most powerful warships, and its marine infantry are the closest thing Harad has to a professional standing army. The city-state holds [[place-kethara2|Kethara]] itself.
+Kethara is the Confederation's naval stronghold – a heavily fortified city on the strait between the mainland and the Haradian archipelago. The city that built the fleet that won the Battle of Tamzîr Shoals, Kethara's identity is military as much as mercantile. Its admirals command the Confederation's most powerful warships, and its marine infantry are the closest thing Harad has to a professional standing army. The city-state holds [[place-kethara2|Kethara]] itself.
 
 ## Character
 
-Where [[affiliation-tamavar|Tamavar]] runs on money, Kethara runs on pride. The city's culture is shaped by its naval tradition — the great families are admirals' families, status is measured in ships commanded and battles won, and the city's festivals center on martial display rather than commercial spectacle. The annual Fleet Review, commemorating the Battle of Tamzîr Shoals, draws visitors from across the Confederation.
+Where [[affiliation-tamavar|Tamavar]] runs on money, Kethara runs on pride. The city's culture is shaped by its naval tradition – the great families are admirals' families, status is measured in ships commanded and battles won, and the city's festivals center on martial display rather than commercial spectacle. The annual Fleet Review, commemorating the Battle of Tamzîr Shoals, draws visitors from across the Confederation.
 
-Kethara's population includes a large community of war veterans — sailors and marines from the independence war who settled here afterward. These veterans are a politically potent and increasingly frustrated group. They fought for Haradian freedom and received promises of land, status, and guild membership that were never honored. The [[affiliation-auricompct|Auric Compact]] and the other great guilds view them as a nuisance; the veterans view the guilds as traitors to the cause they financed but never bled for.
+Kethara's population includes a large community of war veterans – sailors and marines from the independence war who settled here afterward. These veterans are a politically potent and increasingly frustrated group. They fought for Haradian freedom and received promises of land, status, and guild membership that were never honored. The [[affiliation-auricompct|Auric Compact]] and the other great guilds view them as a nuisance; the veterans view the guilds as traitors to the cause they financed but never bled for.
 
-This is the city where the captain of the [[affiliation-thetamzir|The Tamzîr]] has the most connections — and the most enemies.
+This is the city where the captain of the [[affiliation-thetamzir|The Tamzîr]] has the most connections – and the most enemies.
 
 ## Notable Features
 
-- The Veterans' Quarter — home to a large, restless community of independence war veterans
-- The Admiral's Council — Kethara's governing body, drawn heavily from naval families
+- The Veterans' Quarter – home to a large, restless community of independence war veterans
+- The Admiral's Council – Kethara's governing body, drawn heavily from naval families
 
 ## Commerce and Currency
 
-Kethara uses the [[lore-hardncrncy|Haradian currency system]] — the post-secession monetary system administered through the [[affiliation-sodnaqirin|Sôd-Naqîrîn]]'s Bayt al-Khazînah. The Haradian system uses the same denomination structure as the Vylarian (Aurion / Argo / Bit) but is backed by Haradian reserves rather than the Vylarian [[affiliation-aerarimmpr|The Aerarium Imperii]]; the Haradian Aurion is slightly underweight by the Vylarian standard. The Bayt-affiliated moneylender network handles the banking infrastructure; Vylarian script is _not_ honored here, and Haradian script is not honored in Vylarian territory. See [[lore-hardncrncy|Haradian Currency]] for the full system.
+Kethara uses the [[lore-hardncrncy|Haradian currency system]] – the post-secession monetary system administered through the [[affiliation-sodnaqirin|Sôd-Naqîrîn]]'s Bayt al-Khazînah. The Haradian system uses the same denomination structure as the Vylarian (Aurion / Argo / Bit) but is backed by Haradian reserves rather than the Vylarian [[affiliation-aerarimmpr|The Aerarium Imperii]]; the Haradian Aurion is slightly underweight by the Vylarian standard. The Bayt-affiliated moneylender network handles the banking infrastructure; Vylarian script is _not_ honored here, and Haradian script is not honored in Vylarian territory. See [[lore-hardncrncy|Haradian Currency]] for the full system.
 
 ## See Also
 
-- [[place-kethara2|Kethara]] — The city itself
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] — Parent polity
-- [[affiliation-tamavar|Tamavar]], [[affiliation-varoshan|Varoshan]], [[affiliation-ashkabel|Ashkabel]] — Sister city-states
-- [[affiliation-corsairleg|Corsair League]] — The guild with strongest roots here
+- [[place-kethara2|Kethara]] – The city itself
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] – Parent polity
+- [[affiliation-tamavar|Tamavar]], [[affiliation-varoshan|Varoshan]], [[affiliation-ashkabel|Ashkabel]] – Sister city-states
+- [[affiliation-corsairleg|Corsair League]] – The guild with strongest roots here

@@ -20,5 +20,5 @@ He stands outside [[affiliation-kemtnpnthn|the Twelve]] and overlaps in domain w
 [[lore-isetdty|Íšét]], whose fertility is the river's and the womb's; Min's appears to be the drier
 and more masculine kind, belonging to the desert edge rather than the floodplain.
 
-TBD — how the two halves are reconciled, and whether the road-patronage grew out of the fertility
+TBD – how the two halves are reconciled, and whether the road-patronage grew out of the fertility
 cult or was simply attached to it because the caravans happened to start there.

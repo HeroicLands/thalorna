@@ -23,7 +23,7 @@ data:
         lore: excmmnctrnk
         description: >-
           Barred from the temple rites, and with them from the funerary rites every Kheperi eventually
-          requires — a sentence that reaches past the end of the life it is passed in.
+          requires – a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
         lore: layfaithfulrnk
@@ -33,25 +33,25 @@ data:
         title: Wab
         lore: initiaternk
         description: >-
-          "Purified One" — acolytes in the long temple education, observing the strict dietary, behavioural
+          "Purified One" – acolytes in the long temple education, observing the strict dietary, behavioral
           and hygiene codes the rank is named for.
       - level: 3
         title: Hem'Netjer
         lore: priestrnk
         description: >-
-          "Servant of the God" — the ordained priesthood and the working body of the temple.
+          "Servant of the God" – the ordained priesthood and the working body of the temple.
       - level: 4
         title: Wer'Hekau
         lore: highpriestrnk
         description: >-
-          "Great of Sacred Power" — the High Priest or High Priestess, elevated from among the senior
+          "Great of Sacred Power" – the High Priest or High Priestess, elevated from among the senior
           Hem'Netjer. A nome god's Wer'Hekau carries real weight inside the nome and very little outside it.
     offices:
       Keeper of the War-Temple: >-
         Holds the war-temple at Behen, the cult's chief house and the one the southern march measures itself
         by.
       Priest of the Frontier Garrisons: >-
-        Serves the forward forts beyond the first cataract — the empire's hardest postings — where the cult
+        Serves the forward forts beyond the first cataract – the empire's hardest postings – where the cult
         is stronger than anywhere else in the realm.
       Priest of the Chariot-Corps: >-
         Attached to the garrison heartland of Per-Mentu, where the chariot-corps drill-grounds and the

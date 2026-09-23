@@ -338,7 +338,7 @@ sohl:
 
 ![[gntegl|Giant Eagle]]{float: top-left}
 
-The shadow crosses over you first, immense and black—the wing-shadow of something so large you instinctively flinch. Then comes the sound: a cry that echoes off the mountainsides, a voice of conquest and absolute dominion. The eagle itself appears through the thermals, banking hard enough to tear sound from the air—a creature of such enormous power that you struggle to reconcile it with anything you've seen. Twenty feet of wingspan catch the light like gold and bronze, each feather visible from below. As it circles, you see the moment its eye fixes on you: bright and terrible and infinitely knowledgeable. The talons beneath it are each the length of a sword blade. The air itself seems to hold its breath.
+The shadow crosses over you first, immense and black – the wing-shadow of something so large you instinctively flinch. Then comes the sound: a cry that echoes off the mountainsides, a voice of conquest and absolute dominion. The eagle itself appears through the thermals, banking hard enough to tear sound from the air – a creature of such enormous power that you struggle to reconcile it with anything you've seen. Twenty feet of wingspan catch the light like gold and bronze, each feather visible from below. As it circles, you see the moment its eye fixes on you: bright and terrible and infinitely knowledgeable. The talons beneath it are each the length of a sword blade. The air itself seems to hold its breath.
 
 # Dossier {#dossier}
 
@@ -346,15 +346,15 @@ The Giant Eagle is a mount-sized raptor that dominates the high mountain passes 
 
 ## Presentation
 
-The Giant Eagle is a magnificent creature—a predator scaled far beyond any natural bird. Its body is heavily muscled and dense, built to carry weights that would break lesser birds. The plumage is primarily golden-brown and dark brown, with paler coloring on the head and neck that gives the eagle an expression of stern, old authority. The head is large and powerful, with a hooked beak that can open to angles seemingly impossible and tear flesh cleanly. The eyes are bright gold or amber, set to provide excellent forward binocular vision and wide peripheral awareness. The legs are thick and powerful, ending in talons that curve wickedly, each talon as long as a human finger and sharp enough to slice through leather like cloth. The wings are the eagle's defining feature—massive, powerful, and perfectly formed for both precision maneuvering and raw explosive acceleration. Even at rest, the eagle looks ready to spring.
+The Giant Eagle is a magnificent creature – a predator scaled far beyond any natural bird. Its body is heavily muscled and dense, built to carry weights that would break lesser birds. The plumage is primarily golden-brown and dark brown, with paler coloring on the head and neck that gives the eagle an expression of stern, old authority. The head is large and powerful, with a hooked beak that can open to angles seemingly impossible and tear flesh cleanly. The eyes are bright gold or amber, set to provide excellent forward binocular vision and wide peripheral awareness. The legs are thick and powerful, ending in talons that curve wickedly, each talon as long as a human finger and sharp enough to slice through leather like cloth. The wings are the eagle's defining feature – massive, powerful, and perfectly formed for both precision maneuvering and raw explosive acceleration. Even at rest, the eagle looks ready to spring.
 
 ## Key Behaviors
 
-Giant Eagles are apex predators that hunt alone or in established pairs. A mated pair defends a territory together but hunts individually, often coordinating to drive prey toward each other. They are primarily diurnal and most active in mid-morning and late afternoon, hunting from high altitude by watching for movement below. Prey includes large mammals (deer, mountain goats), other large birds, and occasionally humanoid prey if the eagle is sufficiently motivated or if the target is separated from larger groups. A nesting pair with young becomes extraordinarily aggressive and will pursue intruders for miles, making repeated devastating dives. Outside breeding season, eagles are aggressive and territorial but generally uninterested in humanoids—they are more interested in driving competitors out of their space than in deliberately hunting humans.
+Giant Eagles are apex predators that hunt alone or in established pairs. A mated pair defends a territory together but hunts individually, often coordinating to drive prey toward each other. They are primarily diurnal and most active in mid-morning and late afternoon, hunting from high altitude by watching for movement below. Prey includes large mammals (deer, mountain goats), other large birds, and occasionally humanoid prey if the eagle is sufficiently motivated or if the target is separated from larger groups. A nesting pair with young becomes extraordinarily aggressive and will pursue intruders for miles, making repeated devastating dives. Outside breeding season, eagles are aggressive and territorial but generally uninterested in humanoids – they are more interested in driving competitors out of their space than in deliberately hunting humans.
 
 ## Combat Strategy
 
-A Giant Eagle's preferred tactic is the dive—a high-speed attack that builds momentum to devastating effect. A diving eagle attacks with talons extended, attempting to strike and carry off prey if possible, or at minimum to wound and set up additional passes. If the initial attack fails or if prey escapes into cover, the eagle climbs rapidly back to altitude and circles for another approach. In close combat (if the eagle is forced to the ground or if prey is in a confined space), the eagle uses its beak and talons with measured precision. A defensive pair of eagles attacks simultaneously from different vectors, attempting to divide a target's attention and defense. An eagle defending a nest becomes almost suicidal in its determination—it will make repeated passes regardless of wounds or overwhelming odds.
+A Giant Eagle's preferred tactic is the dive – a high-speed attack that builds momentum to devastating effect. A diving eagle attacks with talons extended, attempting to strike and carry off prey if possible, or at minimum to wound and set up additional passes. If the initial attack fails or if prey escapes into cover, the eagle climbs rapidly back to altitude and circles for another approach. In close combat (if the eagle is forced to the ground or if prey is in a confined space), the eagle uses its beak and talons with measured precision. A defensive pair of eagles attacks simultaneously from different vectors, attempting to divide a target's attention and defense. An eagle defending a nest becomes almost suicidal in its determination – it will make repeated passes regardless of wounds or overwhelming odds.
 
 ## Attack Methods
 
@@ -364,25 +364,25 @@ A devastating raking attack, particularly devastating when delivered during a hi
 
 ### Beak Tear
 
-A precise attack aimed at soft targets or weak points in armor—the hooked beak opens wide and tears, capable of opening serious wounds or even severing limbs if the eagle has pinned a target with talons.
+A precise attack aimed at soft targets or weak points in armor – the hooked beak opens wide and tears, capable of opening serious wounds or even severing limbs if the eagle has pinned a target with talons.
 
 ## Special Abilities
 
 ### Aerial Dominance
 
-The Giant Eagle is nearly unstoppable in open air combat—it can dive at speeds that ground-bound creatures cannot match, can recover from a dive into a steep climb, and can maneuver with a precision that leaves terrestrial pursuits impossible. In the air, the eagle has overwhelming advantage. On the ground, it is more vulnerable.
+The Giant Eagle is nearly unstoppable in open air combat – it can dive at speeds that ground-bound creatures cannot match, can recover from a dive into a steep climb, and can maneuver with a precision that leaves terrestrial pursuits impossible. In the air, the eagle has overwhelming advantage. On the ground, it is more vulnerable.
 
 ### Piercing Vision
 
-The eagle's eyesight is supernatural—it can identify movement from impossibly far distances, can track moving targets across open sky, and can reliably spot ambushes or hidden enemies. The eagle is nearly impossible to surprise.
+The eagle's eyesight is supernatural – it can identify movement from impossibly far distances, can track moving targets across open sky, and can reliably spot ambushes or hidden enemies. The eagle is nearly impossible to surprise.
 
 ### Talon Grapple
 
-If the eagle succeeds in gripping prey with its talons, the target is held fast—a grappled creature cannot move without pulling free, and the eagle's strength advantage makes escape difficult. The eagle can carry lighter prey aloft and does so whenever possible.
+If the eagle succeeds in gripping prey with its talons, the target is held fast – a grappled creature cannot move without pulling free, and the eagle's strength advantage makes escape difficult. The eagle can carry lighter prey aloft and does so whenever possible.
 
 ## Additional Information
 
-A Giant Eagle aerie is a treasure trove—eagle eyries often contain accumulated gold, jewelry, and weapons from previous kills. However, reaching an aerie and claiming treasure while avoiding protective parents is a deadly proposition. A few have attempted to negotiate with eagles through magical means, with rare success. An eagle feather is valuable for fletching, armor, or ceremonial purposes—a single primary feather can be worked into fine items.
+A Giant Eagle aerie is a treasure trove – eagle eyries often contain accumulated gold, jewelry, and weapons from previous kills. However, reaching an aerie and claiming treasure while avoiding protective parents is a deadly proposition. A few have attempted to negotiate with eagles through magical means, with rare success. An eagle feather is valuable for fletching, armor, or ceremonial purposes – a single primary feather can be worked into fine items.
 
 ## Attributes
 

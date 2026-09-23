@@ -6,7 +6,7 @@ name:
     - Construct
     - Golem
     - Golems
-description: "Magical constructs animated by the arcane arts — clay, stone or iron given motion and purpose, and no will of their own."
+description: "Magical constructs animated by the arcane arts – clay, stone or iron given motion and purpose, and no will of their own."
 shortcode: golemcrtr
 type: lore
 subType: bestiary

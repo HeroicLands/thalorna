@@ -23,43 +23,43 @@ data:
         title: Nídingr
         lore: excmmnctrnk
         description: >-
-          Declared nithing — cut off from the faith and from the standing that being of it
+          Declared nithing – cut off from the faith and from the standing that being of it
           conferred. No hall will seat them and no godi will speak for them.
       - level: 1
         title: Hrafn Thraell
         lore: initiaternk
         description: >-
-          "Raven Thrall" — Raven Acolyte. The god's thrall: taken into the temple young, given the observances and the labour, and years away from the priesthood.
+          "Raven Thrall" – Raven Acolyte. The god's thrall: taken into the temple young, given the observances and the labor, and years away from the priesthood.
       - level: 3
         title: Rún Godi/Gode
         lore: priestrnk
         description: >-
-          "Rune Priest/Priestess" — Rune Priest/Priestess. The working priest or priestess — Godi for a man, Gydja for a woman — who keeps the rites of a hall and the people who gather at it.
+          "Rune Priest/Priestess" – Rune Priest/Priestess. The working priest or priestess – Godi for a man, Gydja for a woman – who keeps the rites of a hall and the people who gather at it.
       - level: 4
         title: Vitki Hersir
         lore: commanderrnk
         description: >-
-          "Sage Warlord" — Wisdom Herald. A warlord of the faith, carrying its authority where it must be carried by force or by presence.
+          "Sage Warlord" – Wisdom Herald. A warlord of the faith, carrying its authority where it must be carried by force or by presence.
       - level: 5
         title: Rún Jarl
         lore: greatlordrnk
         description: >-
-          "Rune Jarl" — Guardian of the Runes. A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
+          "Rune Jarl" – Guardian of the Runes. A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
       - level: 6
         title: Rún Konungr/Konungrkvinde
         lore: sovereignrnk
         description: >-
-          "Rune King/Queen" — Runebringer. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
+          "Rune King/Queen" – Runebringer. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
       - level: 7
         title: Vitki Allsherjargodi
         lore: highpriestrnk
         description: >-
-          "Sage High Priest" — Elder Seer. High priest — a pontifical office, speaking for the faith where it must speak with one voice.
+          "Sage High Priest" – Elder Seer. High priest – a pontifical office, speaking for the faith where it must speak with one voice.
       - level: 8
         title: Ódinn Fadir/Módir
         lore: grandmasterrnk
         description: >-
-          "Father/Mother of Ódinn" — Pontiff of the Enlightened. Father or Mother of the god: the highest pontifical office, held by one person at a time.
+          "Father/Mother of Ódinn" – Pontiff of the Enlightened. Father or Mother of the god: the highest pontifical office, held by one person at a time.
     offices:
       Order of the Raven: >-
         Priests dedicated to the study of runes and divination, serving as advisors and seers.
@@ -70,7 +70,7 @@ data:
       Allsherjargodi: >-
         High priest of the faith, and its voice where it must speak with one.
       Fadir/Módir: >-
-        Father or Mother of the god — the highest office, held by one person.
+        Father or Mother of the god – the highest office, held by one person.
       Godi/Gydja: >-
         The working priest or priestess of a hall, who keeps its rites and its people.
   commonSkills: []
@@ -98,7 +98,7 @@ packFolder: pantheonsasguardian
 
 Ódinn is often depicted as an imposing figure, with a long, flowing beard and a wide-brimmed hat that casts a shadow over his single, all-seeing eye. He is accompanied by his two ravens, Huginn (thought) and Muninn (memory), who fly across the world each day, gathering knowledge and news to bring back to their master.
 
-His influence extends far beyond mere intellectual pursuits; he is also a god of poetry, war, and honorable death, guiding souls to Valhalla and inspiring warriors with the courage to fight and the wisdom to know when to wield their power. His complex nature makes him a god of paradoxes — both creator and destroyer, wise and warlike, loving and fearsome.
+His influence extends far beyond mere intellectual pursuits; he is also a god of poetry, war, and honorable death, guiding souls to Valhalla and inspiring warriors with the courage to fight and the wisdom to know when to wield their power. His complex nature makes him a god of paradoxes – both creator and destroyer, wise and warlike, loving and fearsome.
 
 In artistic depictions, Ódinn is often shown holding a spear, Gungnir, which never misses its mark, symbolizing his precision and authority. He may also be depicted with the severed head of Mimir, from whom he continues to seek counsel.
 
@@ -117,13 +117,13 @@ In artistic depictions, Ódinn is often shown holding a spear, Gungnir, which ne
 
 ## Clergy
 
-- **Hrafn Thraell** (Circle I: "Raven Thrall") — Raven Acolyte
-- **Rún Godi/Gode** (Circle III: "Rune Priest/Priestess") — Rune Priest/Priestess
-- **Vitki Hersir** (Circle IV: "Sage Warlord") — Wisdom Herald
-- **Rún Jarl** (Circle V: "Rune Jarl") — Guardian of the Runes
-- **Rún Konungr/Konungrkvinde** (Circle VI: "Rune King/Queen") — Runebringer
-- **Vitki Allsherjargodi** (Circle VII: "Sage High Priest") — Elder Seer
-- **Ódinn Fadir/Módir** (Circle VIII: "Father/Mother of Ódinn") — Pontiff of the Enlightened
+- **Hrafn Thraell** (Circle I: "Raven Thrall") – Raven Acolyte
+- **Rún Godi/Gode** (Circle III: "Rune Priest/Priestess") – Rune Priest/Priestess
+- **Vitki Hersir** (Circle IV: "Sage Warlord") – Wisdom Herald
+- **Rún Jarl** (Circle V: "Rune Jarl") – Guardian of the Runes
+- **Rún Konungr/Konungrkvinde** (Circle VI: "Rune King/Queen") – Runebringer
+- **Vitki Allsherjargodi** (Circle VII: "Sage High Priest") – Elder Seer
+- **Ódinn Fadir/Módir** (Circle VIII: "Father/Mother of Ódinn") – Pontiff of the Enlightened
 
 **Key Skills:** Rune casting and divination, Shamanic journeying, Poetic inspiration and storytelling, Battle wisdom and strategic insight, Intrigue and Politics, Arcane arts
 

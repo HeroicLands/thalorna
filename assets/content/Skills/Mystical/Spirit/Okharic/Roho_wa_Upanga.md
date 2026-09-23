@@ -2,7 +2,7 @@
 tags:
   - nkaruthar
   - spirit-power
-description: "Standing with Roho wa Upanga, zohira of the blade — what this emissary of the Flame is petitioned and interceded with."
+description: "Standing with Roho wa Upanga, zohira of the blade – what this emissary of the Flame is petitioned and interceded with."
 type: skill
 subType: mystical
 shortcode: upangasprt
@@ -24,4 +24,4 @@ sohl:
 packFolder: spiritskillsokharic
 ---
 
-See [[lore-upangaspr|Roho wa Upanga]] — zohira of the blade, met through [[affiliation-njiayaroho|the Njia ya Roho]].
+See [[lore-upangaspr|Roho wa Upanga]] – zohira of the blade, met through [[affiliation-njiayaroho|the Njia ya Roho]].

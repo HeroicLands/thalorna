@@ -4,7 +4,7 @@ tags:
   - first-gods
 type: lore
 subType: spirit
-description: "Owl-spirit of Ceridwen's Hollow — keeper of what is spoken at night, and the Kindred shamen consult about the dead."
+description: "Owl-spirit of Ceridwen's Hollow – keeper of what is spoken at night, and the Kindred shamen consult about the dead."
 name:
   full: Nyfain, the White Owl of the Hollow
   aliases: []
@@ -25,7 +25,7 @@ remember.
 
 She is venerated with a small standing offering at the wood's edge and a longer rite at the two
 equinoxes. She asks little. What makes her important out of proportion to her requirements is that
-she is the Kindred a shaman goes to about the recently dead — not to commend them, which is the
+she is the Kindred a shaman goes to about the recently dead – not to commend them, which is the
 river-mother's or the stone-warder's office, but to ask whether they have gone.
 
 Death-Speakers of several tribes travel to the Hollow for this, which the nearest tribe

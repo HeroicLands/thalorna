@@ -43,8 +43,8 @@ data:
         title: Copyist
         lore: apprenticernk
         description: >-
-          Under training in a temple — copying forms, learning the seals and the calendrical
-          schedules — and not yet permitted to file anything on another's behalf.
+          Under training in a temple – copying forms, learning the seals and the calendrical
+          schedules – and not yet permitted to file anything on another's behalf.
       - level: 3
         title: Clerk
         lore: clerkrnk
@@ -123,7 +123,7 @@ data:
 packFolder: celestialpantheon
 ---
 
-## Vëntōk — The Keeper of the Celestial Archive
+## Vëntōk – The Keeper of the Celestial Archive
 
 - **Bureau:** Thōk Sëi, The Archive of All Records
 - **Domain:** Knowledge
@@ -134,18 +134,18 @@ anything; it establishes what is true, which in an administration of precedent i
 powerful than deciding.
 
 Scholars petition the archive for citations, and clerks preparing a difficult filing hire them to
-do so. The bureau's authority rests on the assumption that its records are accurate — an assumption
+do so. The bureau's authority rests on the assumption that its records are accurate – an assumption
 [[affiliation-vekthor|Vëkthōr]] falsified from the inside while employed here as a Thōkgürt, and
 which the archive has been quietly re-verifying ever since without admitting the scale of the
 problem.
 
 ### Lesser Spirits
 
-- **Thōkgürt** — Archival Scribes, who copy and preserve records.
-- **Thōklëi** — Indexing Spirits, who maintain the classification system itself.
+- **Thōkgürt** – Archival Scribes, who copy and preserve records.
+- **Thōklëi** – Indexing Spirits, who maintain the classification system itself.
 
 ### See Also
 
-- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — the Celestial Bureaucracy this bureau belongs to
-- [[affiliation-tanvurempr|Empire of Tānvür]] — the mortal realm it administers
-- [[skill-tngthkscrpt|Tëng Thōk Script]] — the writing every petition is made in
+- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] – the Celestial Bureaucracy this bureau belongs to
+- [[affiliation-tanvurempr|Empire of Tānvür]] – the mortal realm it administers
+- [[skill-tngthkscrpt|Tëng Thōk Script]] – the writing every petition is made in

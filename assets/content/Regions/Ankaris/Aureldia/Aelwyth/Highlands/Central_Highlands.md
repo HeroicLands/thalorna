@@ -3,7 +3,7 @@ tags:
   - region
   - hill
   - inland
-description: "The warm open uplands at the middle of Aelwyth — rising above the coastal fog into the clearest and kindest weather on the island, and the inland half of Tarvenne."
+description: "The warm open uplands at the middle of Aelwyth – rising above the coastal fog into the clearest and kindest weather on the island, and the inland half of Tarvenne."
 type: place
 subType: region
 data:
@@ -25,11 +25,11 @@ The **Central Highlands** occupy the middle of Aelwyth between the western coast
 
 ## Above the Weather
 
-Aelwyth is a cool, wet, windy island, and its **western coast is the worst of it** — grey, fog-bound and
+Aelwyth is a cool, wet, windy island, and its **western coast is the worst of it** – gray, fog-bound and
 chilly for much of the year, with the wind coming off the ocean unbroken.
 
 The Highlands are not. The fog is a low thing that lies on the coast and in the western valleys, and the
-upland rises out of it; a traveller climbing from the coast road in the morning breaks into sunlight
+upland rises out of it; a traveler climbing from the coast road in the morning breaks into sunlight
 within an hour and looks back on a white sea covering everything he has just walked through. The
 Highlands are accordingly **warmer, clearer and markedly more pleasant** than anywhere else in the
 republic, and the difference is the first thing any Tarvennese will tell an outsider about them.
@@ -42,7 +42,7 @@ finest weather the island affords, would put his cloak back on and say something
 ## The Living
 
 Cattle and sheep on the open grazing, oats and barley in the sheltered folds, and a good deal of horse
-breeding — the Highlands supply most of the island's riding stock. It is prosperous in a modest,
+breeding – the Highlands supply most of the island's riding stock. It is prosperous in a modest,
 unspectacular way and is not where the republic's money is made.
 
 It is, however, where a great many senators keep country houses, for reasons of climate that everyone
