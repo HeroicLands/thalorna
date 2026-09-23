@@ -8,7 +8,7 @@ name:
   title: ""
   given: Vīrāṅgaśikharam
   clan: Dukṣana
-  home: suvaragiri
+  home: suvarnagiri
   aliases: []
 packFolder: ankarisvedyara
 shortcode: vrgskhrmdkn
