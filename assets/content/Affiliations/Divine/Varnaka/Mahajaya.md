@@ -67,13 +67,13 @@ packFolder: pantheonsvarnaka
 - **Pronunciation:** _MAH-ha-jah-yah_
 - **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
 
-Mahájaya is the goddess of preservation, harmony, and abundance — the presence by whose steady influence fields ripen, markets flourish, and the seasons turn in their ordered round. Where [[affiliation-vyalendra|Vyālendra]] gives the world its shape, Mahájaya keeps the shape intact. She is invoked at sowing and harvest, at the weighing of grain, at the sealing of contracts, and at every moment of exchange in which the good order of human society is affirmed.
+Mahájaya is the goddess of preservation, harmony and abundance. Fields ripen under her, markets flourish, and the seasons turn in their ordered round. [[affiliation-vyalendra|Vyālendra]] gives the world its shape and Mahájaya keeps the shape intact. She is invoked at sowing and harvest, at the weighing of grain, at the sealing of contracts, and at every exchange that holds the good order of human society together.
 
-Mahájaya is most visible in the countryside of [[place-vedyarargn|Vedyara Region]], where village shrines anchor the agricultural calendar and the communal storehouses. In the great cities, she is the patron of merchants, bankers, and the civic authorities responsible for granaries, water rights, and the regulation of trade.
+Mahájaya is most visible in the countryside of [[place-vedyarargn|Vedyara Region]], where village shrines anchor the agricultural calendar and the communal storehouses. In the great cities she is the patron of merchants, of bankers, and of the civic officers who answer for granaries, water rights and the conduct of trade.
 
 ### Aspects
 
-Mahájaya is depicted as a serene matriarch, crowned with sheaves of wheat and holding a balanced scale. The scale is not the scale of judgement but of measure — the careful weighing that ensures honest exchange, fair portion, and the harmony of giving and receiving. Her colour is the gold of ripe grain, and her seasons are the seasons of cultivation.
+Mahájaya is depicted as a serene matriarch, crowned with sheaves of wheat and holding a balanced scale. The scale is the scale of measure, the careful weighing that keeps an exchange honest, a portion fair, and giving and receiving in balance. Her colour is the gold of ripe grain, and her seasons are the seasons of cultivation.
 
 ### Sacred Objects
 
@@ -92,7 +92,7 @@ In Mahájayan households, a small brass scale sits on the household shrine besid
 ### Ordeals for Favour
 
 - **The Granary Vigil** — a sleepless watch kept over the community granary through a night when the spirits of the fields are said to walk.
-- **The Fair Measure** — an ordeal in which the devotee conducts a year of public measurement — grain, cloth, wine, oil — and receives no complaint of short-weight from any party.
+- **The Fair Measure** — a year of public measurement, of grain, cloth, wine and oil, completed without a complaint of short weight from any party.
 
 ### See Also
 

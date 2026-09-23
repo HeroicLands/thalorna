@@ -65,7 +65,9 @@ packFolder: pantheonsvarnaka
 - **Pronunciation:** _SWAP-nah-day-vahs_
 - **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
 
-The **Svapnadēvas** are not a single deity but a celestial court — a host of spirits who weave dreams, carry omens, and serve as intermediaries between mortal minds and the divine order. The Varṇakan tradition regards them as divine servants of [[lore-goddreams|The God of Dreams]], the ancient elder deity known under many names elsewhere in [[place-ankrscntnnt|Ankaris Continent]] and beyond. The Varṇaka do not name that greater deity directly and do not venerate them in the manner of the organised pantheons of the west; what they revere is the Host itself, through whom the dream-power of the elder god is felt in the world.
+The **Svapnadēvas** are a celestial court, a host of spirits who weave dreams, carry omens, and stand between mortal minds and the divine order. The Varṇakan tradition holds them divine servants of [[lore-goddreams|The God of Dreams]], the elder deity known under many names elsewhere in [[place-ankrscntnnt|Ankaris Continent]] and beyond.
+
+The Varṇaka do not name that greater deity directly, and do not venerate it as the organised pantheons of the west venerate theirs. What they revere is the Host, through whom the dream-power of the elder god is felt in the world.
 
 The Svapnadēvas draw the devotion of seers, mystics, healers of disturbed minds, and all those whose vocation requires them to read beneath the surface of events.
 
@@ -81,7 +83,7 @@ The Svapnadēvas are depicted as a company of slender, silver-robed figures movi
 
 ### Veneration
 
-The Svapnadēvas are honoured at the edges of the day — dusk and dawn — rather than at a fixed hour. Devout households keep a small dream-stone under the pillow of each sleeper and replace it at the new moon with a stone newly consecrated at a temple. On waking, the head of the household speaks a brief formula naming the Host and asking that any dream of import be remembered. Dreams considered meaningful are spoken aloud to another family member before the morning meal, so that the dream is committed to shared memory. Silver mirrors are kept covered except at the moments of divination; to catch one's own waking reflection unprepared in such a mirror is considered a small misfortune.
+The Svapnadēvas are honoured at the edges of the day, at dusk and at dawn, and at no fixed hour. Devout households keep a small dream-stone under the pillow of each sleeper and replace it at the new moon with a stone newly consecrated at a temple. On waking, the head of the household speaks a brief formula naming the Host and asking that any dream of import be remembered. Dreams considered meaningful are spoken aloud to another family member before the morning meal, so that the dream is committed to shared memory. Silver mirrors are kept covered except at the moments of divination; to catch one's own waking reflection unprepared in such a mirror is considered a small misfortune.
 
 ### Ordeals for Favour
 

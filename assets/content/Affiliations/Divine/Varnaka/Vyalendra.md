@@ -68,13 +68,13 @@ packFolder: pantheonsvarnaka
 - **Pronunciation:** _VYAH-len-drah_
 - **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
 
-Vyālendra is the architect of existence — the deity who gave shape to the earth, the skies, and all living things, and who continues to give shape to every new work of human making. Varṇakan theology holds that every founded city, every raised temple, every dedicated bridge and irrigation channel repeats in miniature the original act of cosmic shaping. To build well is to serve Vyālendra; to build poorly is to mar the pattern from which the world itself was made.
+Vyālendra is the architect of existence. He gave shape to the earth, the skies and all living things, and he gives shape to every new work of human making. Varṇakan theology holds that every founded city, every raised temple, every dedicated bridge and irrigation channel repeats the original act of cosmic shaping in miniature. To build well is to serve Vyālendra; to build poorly is to mar the pattern the world itself was made from.
 
 Worship of Vyālendra is strongest in the cities of [[place-vedyarargn|Vedyara Region]], where he is invoked at the founding of settlements, the laying of foundations, and the consecration of public works. Master architects, temple-builders, and the guilds of masons and engineers all maintain household shrines to Vyālendra, and no major work of construction is begun without the rites appropriate to the god.
 
 ### Aspects
 
-Vyālendra is depicted as a figure of serene focus, often four-armed, holding the tools of creation: the compass of proportion, the measuring cord, the chisel, and the lotus of perfected form. The golden lotus represents the moment in which the formless takes form — the unfolding of pattern from possibility.
+Vyālendra is depicted as a figure of serene focus, often four-armed, holding the tools of creation: the compass of proportion, the measuring cord, the chisel, and the lotus of perfected form. The golden lotus is the moment in which the formless takes form, pattern opening out of possibility.
 
 ### Sacred Objects
 
@@ -88,12 +88,12 @@ Vyālendra is depicted as a figure of serene focus, often four-armed, holding th
 
 ### Veneration
 
-In Vyāndran households, a small lotus-medallion hangs above the threshold and the tools of the household's trade are blessed at the beginning of each working day. Artisans and builders offer a pinch of powdered gold or saffron to the household shrine before undertaking a new commission. At the founding of a family home, the head of the household buries a small incised stone beneath the first pillar — an echo of the Rite of the First Stone performed by the priesthood for public works.
+In Vyāndran households a small lotus-medallion hangs above the threshold, and the tools of the household's trade are blessed at the start of each working day. Artisans and builders offer a pinch of powdered gold or saffron at the household shrine before a new commission. At the founding of a family home the head of the household buries a small incised stone beneath the first pillar, as the priesthood lays the first stone of a public work in the Rite of the First Stone.
 
 ### Ordeals for Favour
 
-- **The Year of the Apprentice** — a year-long ordeal in which the devotee takes no food they did not help produce and no shelter they did not help build, learning the humility of construction from the ground up.
-- **The Perfect Stone** — the devotee must shape a single stone to proportions dictated by a senior priest, by hand, to such precision that no flaw can be found.
+- **The Year of the Apprentice** — a year in which the devotee takes no food and no shelter the devotee did not help to make, and learns the trade from the ground up.
+- **The Perfect Stone** — a single stone shaped by hand to proportions a senior priest dictates, worked until no flaw can be found in it.
 
 ### See Also
 

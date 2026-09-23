@@ -69,13 +69,15 @@ packFolder: pantheonsvarnaka
 - **Pronunciation:** _GYAH-nah-soo-rah_
 - **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
 
-Jñānasūra is the god of wisdom and of the work of the mind. The theology holds that knowledge is the sun of the inner life — without it, the soul is in darkness, and no virtue can take its proper form. He is the patron of scholars and of the great schools of [[place-vedyarargn|Vedyara Region]], but also — perhaps more surprisingly to outsiders — of warriors, for whom the clarity of thought before the blow is as important as the strength of the arm.
+Jñānasūra is the god of wisdom and of the work of the mind. The theology holds knowledge to be the sun of the inner life. Without it the soul is in darkness, and no virtue takes its proper form.
 
-Every major Vedyaran school, library, and academy maintains a shrine to Jñānasūra. Those who serve him are among the most learned in the world, trained as deeply in the sciences and the poetic arts as in theology, and they serve as teachers and advisors to royal courts, temple hierarchies, and guild councils.
+He is the patron of scholars and of the great schools of [[place-vedyarargn|Vedyara Region]]. He is also the patron of warriors, for whom clarity of thought before the blow counts as much as strength of arm.
+
+Every major Vedyaran school, library and academy keeps a shrine to Jñānasūra. Those who serve him are among the most learned in the world, trained as deeply in the sciences and the poetic arts as in theology. They teach and advise at royal courts, in temple hierarchies and on guild councils.
 
 ### Aspects
 
-Jñānasūra is depicted as a serene figure seated in the posture of teaching, one hand raised in the gesture of instruction and the other holding the open book of wisdom. Behind him blazes the golden sun of understanding. His colour is the gold of morning light, and his presence is understood as a quiet radiance — not the heat of [[affiliation-rasikara|Rásikara]]'s fire, but the steady light by which a page can be read.
+Jñānasūra is depicted as a serene figure seated in the posture of teaching, one hand raised in the gesture of instruction and the other holding the open book of wisdom. Behind him blazes the golden sun of understanding. His colour is the gold of morning light. His presence is a quiet radiance, the steady light by which a page can be read, and it carries none of the heat of [[affiliation-rasikara|Rásikara]]'s fire.
 
 ### Sacred Objects
 
@@ -89,7 +91,7 @@ Jñānasūra is depicted as a serene figure seated in the posture of teaching, o
 
 ### Veneration
 
-A Jñānasūran household keeps a reading-stand in its main room, and a book is placed open on it from dawn until sunset each day; any household member who pauses beside it is expected to read a line aloud. Students touch the sun-medallion before sitting for an examination; warriors touch it before taking the field. Before undertaking a difficult decision — a lawsuit, a marriage negotiation, a major commercial venture — the devout read three passages chosen at random from a sacred text and meditate briefly on the thread that connects them.
+A Jñānasūran household keeps a reading-stand in its main room, and a book lies open on it from dawn until sunset. Any member of the house who pauses beside it reads a line aloud. Students touch the sun-medallion before sitting an examination; warriors touch it before taking the field. Before a hard decision, a lawsuit, a marriage settlement or a large commercial venture, the devout read three passages chosen at random from a sacred text and meditate on the thread between them.
 
 ### Ordeals for Favour
 

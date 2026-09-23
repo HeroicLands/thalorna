@@ -21,13 +21,13 @@ packFolder: vedyara
 
 The **Eastern Reach** is where the [[place-graznmntns|Grazian Mountains]] leave [[place-vedyarargn|Vedyara]]'s northern margin and swing east toward the western frontier of [[place-tanvuregin|Tānvür]]. It is the overland barrier between the two great eastern civilisations, and the only reason either of them has ever had to think about the other.
 
-The Reach is lower than [[place-sthrnwall|the Southern Wall]] and narrower, which does not make it kinder. What it lacks in altitude it makes up in weather: the storms come up the eastern valleys with very little warning, and the season here is reckoned in days rather than weeks. Two crossings serve it — [[place-jnanadvara|Jñānadvāra]], which envoys and scholars use, and [[place-sankhadvra|Śaṅkhadvāra]] under [[place-kalashkhra|Kālaśikhara]], which almost nobody uses — and both are the [[affiliation-hvarnguides|Hvarn]]'s ground.
+The Reach is lower than [[place-sthrnwall|the Southern Wall]] and narrower, which does not make it kinder. What it lacks in altitude it makes up in weather. The storms come up the eastern valleys with very little warning, and the season here is reckoned in days where the Wall's is reckoned in weeks. Two crossings serve it — [[place-jnanadvara|Jñānadvāra]], which envoys and scholars use, and [[place-sankhadvra|Śaṅkhadvāra]] under [[place-kalashkhra|Kālaśikhara]], which almost nobody uses — and both are the [[affiliation-hvarnguides|Hvarn]]'s ground.
 
 ## The Gorges and the Forest
 
-On the Vedyari flank the Reach breaks into the [[place-slvrgorges|Silver Gorges]], the deep-cut valleys whose lapis and silver have been dug since before the kingdom of [[affiliation-vindhyalay|Vindhyālaya]] was chartered, and whose smithing clans hold their workings by prerogatives older than the charter that supposedly grants them.
+On the Vedyari flank the Reach breaks into the [[place-slvrgorges|Silver Gorges]], deep-cut valleys whose lapis and silver have been dug since before the kingdom of [[affiliation-vindhyalay|Vindhyālaya]] was chartered. Their smithing clans hold the workings by prerogatives older than the charter that supposedly grants them.
 
-Below the Gorges the ground falls into forest that no janapada has ever sent an assembly into. Enclaves of [[lore-flksinale|Sinalë]] are rumoured there, and Khazári halls above the tree line; the rumours are old, consistent and entirely unconfirmed, which is exactly the condition in which such rumours are most useful to the people who repeat them.
+Below the Gorges the ground falls into forest that no janapada has ever sent an assembly into. Enclaves of [[lore-flksinale|Sinalë]] are rumoured there, and Khazári halls above the tree line. The rumours are old, consistent and entirely unconfirmed, which is the condition in which such rumours are most useful to the people who repeat them.
 
 ## The Other Side
 

@@ -95,11 +95,13 @@ packFolder: pantheonsvarnaka
 - **Pronunciation:** _Tri-MOOR-tee sum-pra-DAH-yah_
 - **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
 
-The **Trimūrti-sampradāya** is the largest and most orthodox of the Varṇakan sects, and for most Vedyarans the word "Varṇaka" and the word "Trimūrti" are almost interchangeable. It is the tradition of the great city-temples and the royal courts — the sect whose calendar sets the public year, whose high priests advise the city councils, and whose rites are invoked at every civic occasion of consequence.
+The **Trimūrti-sampradāya** is the largest and most orthodox of the Varṇakan sects. For most Vedyarans the word "Varṇaka" and the word "Trimūrti" are almost interchangeable. It is the tradition of the great city-temples and the royal courts. Its calendar sets the public year, its high priests advise the city councils, and its rites are invoked at every civic occasion of consequence.
 
-The defining doctrine of the sect is the **trimūrti** itself: the teaching that [[affiliation-vyalendra|Vyālendra]]'s shaping, [[affiliation-mahajaya|Mahájaya]]'s preserving, and [[affiliation-rasikara|Rásikara]]'s transforming are three aspects of a single divine work. No aspect is lesser; no aspect is complete without the other two. The sect holds that devotion to any one of the three must include, at least in observance, the others. The lesser gods of the pantheon are honoured where circumstance calls for it — one does not neglect [[affiliation-kalavrata|Kālavrata]] at a death or [[affiliation-meghanatha|Meghanātha]] at the onset of the monsoon — but the backbone of practice is the triad.
+The sect's doctrine is the **trimūrti** itself. [[affiliation-vyalendra|Vyālendra]]'s shaping, [[affiliation-mahajaya|Mahájaya]]'s preserving and [[affiliation-rasikara|Rásikara]]'s transforming are three aspects of one divine work. No aspect is lesser, and none is complete without the other two. Devotion to any one of the three carries the others in observance.
 
-Temples of the Trimūrti-sampradāya are typically large three-chambered complexes, each chamber given over to one of the three forms. The largest temples are architectural marvels whose proportions are themselves theological statements: the central chamber devoted to the form most beloved of the city's founding, flanked by the other two in balanced wings.
+The lesser gods are honoured as occasion calls. Nobody neglects [[affiliation-kalavrata|Kālavrata]] at a death or [[affiliation-meghanatha|Meghanātha]] at the onset of the monsoon. The backbone of practice is the triad.
+
+Temples of the Trimūrti-sampradāya are large three-chambered complexes, each chamber given over to one of the three forms. In the greatest of them the proportions carry the doctrine. The central chamber holds the form most beloved of the city's founding, and the other two stand in balanced wings.
 
 ### Clergy
 

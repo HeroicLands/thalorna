@@ -22,7 +22,7 @@ packFolder: vedyara
 
 Rājapur Janapada is the land of the temple-republic of [[affiliation-rajaprjnpd|Rājapur Janapada]], on the central Mahānadi plain of [[place-vedyarargn|Vedyara]].
 
-Its population is roughly twenty-five thousand; its territory occupies a fertile floodplain stretching some forty miles along the upper Mahānadi.
+Its population is twenty-five thousand; its territory occupies a fertile floodplain stretching some forty miles along the upper Mahānadi.
 
 ## Society
 

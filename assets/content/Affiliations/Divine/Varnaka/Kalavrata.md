@@ -68,13 +68,13 @@ packFolder: pantheonsvarnaka
 - **Pronunciation:** _KAH-lah-vrah-tah_
 - **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
 
-Kālavrata is a solitary god — the warden of the threshold between the life that has ended and the life that is to come. He is revered throughout [[place-vedyarargn|Vedyara Region]] but venerated in a notably austere manner. He demands no devotion, grants no personal favour, and answers no petition for long life or safe passage through danger. What he does is guide the soul from one body to the next, impartially and without favour, and for this the Vedyaran faithful hold him in high regard.
+Kālavrata is a solitary god, the warden of the threshold between the life that has ended and the life that is to come. He is revered throughout [[place-vedyarargn|Vedyara Region]], and the veneration is austere. He demands no devotion, grants no personal favour, and answers no petition for long life or safe passage. He guides the soul from one body to the next, impartially, and the Vedyaran faithful hold him high for it.
 
-Where [[affiliation-rasikara|Rásikara]] is the god of the fire that unmakes the body, Kālavrata is the god of what happens after. The cremation-fires end the body; Kālavrata's conch calls the soul onward.
+[[affiliation-rasikara|Rásikara]] is the god of the fire that unmakes the body. Kālavrata is the god of what happens after. The cremation-fires end the body; his conch calls the soul onward.
 
 ### Aspects
 
-Kālavrata is depicted as a tall, shrouded figure with a dark conch at his lips, standing at a bridge or a threshold. His face is not depicted; iconographic tradition holds that no living soul may look upon it until the hour of its own passage. His colour is the indigo-black of deepest night, and his presence is understood as still, cool, and absolute.
+Kālavrata is depicted as a tall, shrouded figure with a dark conch at his lips, standing at a bridge or a threshold. His face is not depicted; the iconographic tradition holds that no living soul may look on it before the hour of its own passage. His colour is the indigo-black of deepest night. His presence is still, cool and absolute.
 
 ### Sacred Objects
 
@@ -88,7 +88,7 @@ Kālavrata is depicted as a tall, shrouded figure with a dark conch at his lips,
 
 ### Veneration
 
-Kālavratan households keep no elaborate shrine; the god is honoured by the threshold itself. A small dark conch hangs above the doorpost, and a lamp is set in the window on the anniversary of each family member's passing. At the onset of a final illness, the household lamp is lit and tended until the passage is complete; no one of the house speaks loudly or quarrels while the lamp burns. The Coin of Passage is placed in the hand of the deceased before cremation, and no part of the burial rites may be hurried.
+Kālavratan households keep no elaborate shrine, and the threshold itself is the god's honour. A small dark conch hangs above the doorpost. A lamp is set in the window on the anniversary of each family member's passing. At the onset of a final illness the household lamp is lit and tended until the passage is complete, and no one of the house speaks loudly or quarrels while it burns. The Coin of Passage is placed in the hand of the dead before cremation, and no part of the burial rites may be hurried.
 
 ### Ordeals for Favour
 

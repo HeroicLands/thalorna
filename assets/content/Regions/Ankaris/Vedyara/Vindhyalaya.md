@@ -114,25 +114,25 @@ packFolder: vedyara
 
 ## Overview
 
-Vindhyālaya — "the abode of the Vindhya" — is the principal kingdom of the northern highlands of [[place-vedyarargn|Vedyara]], commanding the great passes that carry the subcontinent's trade over the [[place-graznmntns|Grazian]] wall. Beyond the throat of the greatest of them the road forks: north to the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]] and the Celestial Road beyond, northeast by the longer branch to the western frontier of [[place-tanvuregin|Tānvür]]. Its wealth is the wealth of the toll-road and the customs-house; its politics are the politics of the march. The kingdom holds the land of [[place-vindhyalayaland|Vindhyālaya]].
+Vindhyālaya ("the abode of the Vindhya") is the principal kingdom of the northern highlands of [[place-vedyarargn|Vedyara]]. It commands the great passes that carry the subcontinent's trade over the [[place-graznmntns|Grazian]] wall. Beyond the throat of the greatest of them the road forks, north to the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]] and the Celestial Road beyond, northeast by the longer branch to the western frontier of [[place-tanvuregin|Tānvür]]. Its wealth is the wealth of the toll-road and the customs-house; its politics are the politics of the march. The kingdom holds the land of [[place-vindhyalayaland|Vindhyālaya]].
 
 ## Character
 
-Vindhyan culture is austere by Vedyari standards. The kingdom sits at the edge of settled civilisation, and the habits of the highland have shaped a people who are quieter, harder, and more inclined toward martial virtue than their southern cousins. The Vindhyan warrior caste is unusually large and unusually respected; in the southern kingdoms the warrior-nobility yields precedence to the priestly caste in nearly every social setting, but in Vindhyālaya the two castes share rank, and a clan-chieftain who has held a pass against a winter raid is received at court with the honour due a senior brahmin.
+Vindhyan culture is austere by Vedyari standards. The kingdom sits at the edge of settled civilisation, and the highland has made a people quieter, harder and more martial than their southern cousins. The Vindhyan warrior caste is unusually large and unusually respected. In the southern kingdoms the warrior-nobility yields precedence to the priestly caste in nearly every social setting. In Vindhyālaya the two castes share rank, and a clan-chieftain who has held a pass against a winter raid is received at court with the honour due a senior brahmin.
 
 Hospitality is taken seriously. A traveller who arrives at a Vindhyan village before sundown is owed food, a fire, and a safe night under the clan's roof-tree, and this obligation survives even between feuding clans. Turning a traveller away is the kind of act that a family's descendants still remember three generations later.
 
-The caste system holds, but its practical texture is different: in the highlands the distance between a clan-chieftain and a cultivator is smaller than in the plains, and caste membership does less to fix a person's daily life than in, say, [[affiliation-vyalendra2|Vyālendra]] or [[affiliation-chandrapur|Chandrapur]]. Vindhyan brahmins are respected but are expected to be useful — an ornamental priest is considered faintly ridiculous.
+The caste system holds, and it sits differently here. In the highlands the distance between a clan-chieftain and a cultivator is smaller than in the plains, and caste fixes less of a person's daily life than it does in [[affiliation-vyalendra2|Vyālendra]] or [[affiliation-chandrapur|Chandrapur]]. Vindhyan brahmins are respected and are expected to be useful. An ornamental priest is faintly ridiculous.
 
 ## Economy
 
-Vindhyālaya taxes every bale on entry and again on exit, and the resulting customs revenue keeps the royal coffers full without ever needing to squeeze the peasantry — a stability that the southern kingdoms regard with a mixture of envy and suspicion.
+Vindhyālaya taxes every bale on entry and again on exit. The customs revenue keeps the royal coffers full and the peasantry unsqueezed. The southern kingdoms regard that stability with envy and with suspicion.
 
 ## Government
 
-The Mahārāja rules from the fortress-capital of **Sūryāgarha**, a stone citadel overlooking the greatest of the northern passes. In practice the crown's direct power does not extend far beyond the pass-roads, the customs-houses, and the lowland capital itself; the highlands proper are governed by hereditary clan-chieftains whose loyalty is real but negotiated. Each chieftain maintains a warband sized to their clan's standing and must provide it, on demand, for the defence of the passes or for a royal campaign.
+The Mahārāja rules from the fortress-capital of **Sūryāgarha**, a stone citadel overlooking the greatest of the northern passes. The crown's direct power reaches the pass-roads, the customs-houses and the lowland capital, and little further. Hereditary clan-chieftains govern the highlands proper, and their loyalty is real and negotiated. Each chieftain keeps a warband sized to his clan's standing and must provide it, on demand, for the defence of the passes or for a royal campaign.
 
-The **Martial Council** of senior chieftains advises the crown on questions of war, frontier defence, and the adjudication of clan disputes. The **Priestly Court** — brahmins drawn from the largest temple-complexes — advises on ritual, succession, and the administration of law. When the two councils agree, the Mahārāja rules; when they disagree, the reign becomes interesting.
+The **Martial Council** of senior chieftains advises the crown on war, on frontier defence and on clan disputes. The **Priestly Court**, brahmins drawn from the largest temple-complexes, advises on ritual, on succession and on the law. When the two councils agree, the Mahārāja rules. When they disagree, the reign becomes interesting.
 
 Succession is hereditary but contested. The Mahārāja's eldest son is the presumptive heir, but confirmation requires formal acclamation by the Martial Council, which has, on several memorable occasions, chosen a younger brother, a cousin, or (once) the late king's widow over the expected heir.
 
@@ -140,7 +140,7 @@ Succession is hereditary but contested. The Mahārāja's eldest son is the presu
 
 To the **south**, Vindhyālaya's relationship with the river-valley kingdoms is long-standing and mostly cordial. Trade bonds are strong; marriages between Vindhyan princesses and southern courts are a regular feature of Vedyari diplomacy; southern merchants treat the kingdom as an indispensable partner. Border friction flares periodically over grazing rights and customs rates, but outright war is rare.
 
-To the **north**, beyond the wall, lie the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]] and the confederations that hold them. Neither the [[affiliation-khzrncnfdrtn|Khazryn Confederation]] nor the [[affiliation-tribestrzd|Ātárzád]] can reach Vindhyālaya in force — no horde has ever taken a Grazian pass and none is likely to — so the relationship is commercial rather than military, conducted through the edge-town markets and renegotiated season by season as tolls, escort fees and the quality of the year's horses require. The kingdom keeps no garrison beyond the summits and expects none in return.
+To the **north**, beyond the wall, lie the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]] and the confederations that hold them. Neither the [[affiliation-khzrncnfdrtn|Khazryn Confederation]] nor the [[affiliation-tribestrzd|Ātárzád]] can reach Vindhyālaya in force, and no horde has ever taken a Grazian pass. The relationship is commercial, conducted through the edge-town markets and renegotiated season by season as tolls, escort fees and the quality of the year's horses require. The kingdom keeps no garrison beyond the summits and none stands against it.
 
 To the **northeast**, by the eastern branch of the pass-roads, lie the western marches of [[affiliation-tanvurempr|Tānvür]]. The branch is longer, higher and lightly travelled, but Tānvüri scholarly envoys appear at the Vindhyan court every few decades, and a small Tānvüri community has existed in Sūryāgarha for centuries.
 
@@ -148,7 +148,7 @@ The kingdom has no frontier with the [[place-dunharargn|Dunhara]] at all. The de
 
 ## Commerce and Currency
 
-Vindhyālaya uses the [[lore-vdyrnbnkng|Vedyaran banking system]] administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign currencies (Vylarian Argo and Aurion, Ta'Kheperan deben pieces) are exchangeable at frontier moneylenders at Collective-controlled rates, but the Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the (presently stub) system reference and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institutional details.
+Vindhyālaya uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign coin, the Vylarian Argo and Aurion and the Ta'Kheperan deben pieces, is exchangeable at frontier moneylenders at Collective-controlled rates. The Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
 
 ## See Also
 

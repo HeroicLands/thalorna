@@ -66,13 +66,15 @@ packFolder: pantheonsvarnaka
 - **Pronunciation:** _VYAH-hrah-tee_
 - **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
 
-Vyāhrati is the goddess of endings and of the quiet transformation by which what has reached its term gives itself back to the world. She is venerated not for her power — she is not a commanding presence in the Varṇakan imagination — but for her necessity. Without decay, the theology holds, there is no soil; without endings, no beginnings; without the honest release of what must be released, the house and the garden and the soul all turn stale. She is the gentle complement of [[affiliation-rasikara|Rásikara]]'s purging fire: where Rásikara breaks what will not yield, Vyāhrati receives what yields of itself.
+Vyāhrati is the goddess of endings and of the quiet change by which what has reached its term gives itself back to the world. She is no commanding presence in the Varṇakan imagination, and she is venerated for her necessity.
 
-Vyāhrati's veneration is small and quiet. Her shrines are often modest alcoves adjacent to larger temples of other Varṇakan deities, and her formal priesthood is few in number. But her rites are observed in every household, and the seasonal recognition of her work is a woven strand of the Vedyaran year.
+Without decay, the theology holds, there is no soil, and without endings no beginnings. The house, the garden and the soul all turn stale when what must be released is not released. [[affiliation-rasikara|Rásikara]] breaks what will not yield; Vyāhrati receives what yields of itself.
+
+Vyāhrati's veneration is small and quiet. Her shrines are modest alcoves beside the larger temples of other Varṇakan deities, and her formal priesthood is few. Her rites are kept in every household, and her season has its place in the Vedyaran year.
 
 ### Aspects
 
-Vyāhrati is depicted as a serene older woman, crowned with wilting blossoms rather than fresh ones, holding a shallow bowl into which petals and dew are gathered. Her presence is quiet and unhurried. Her colour is the bronze of autumn and the soft violet of deep twilight.
+Vyāhrati is depicted as a serene older woman, crowned with wilting blossoms and not fresh ones, holding a shallow bowl into which petals and dew are gathered. Her presence is quiet and unhurried. Her colour is the bronze of autumn and the soft violet of deep twilight.
 
 ### Sacred Objects
 
@@ -82,12 +84,12 @@ Vyāhrati is depicted as a serene older woman, crowned with wilting blossoms rat
 
 ### Veneration
 
-Almost every Varṇakan household — whatever their primary devotion — keeps a petal bowl on the kitchen windowsill or at the garden door. The wilted flowers of the day's garland, a fallen leaf brought in on a sandal, the dry seed-head of a spent blossom are all gathered there. Once a month, the bowl is emptied ceremonially onto the household's compost-heap with the formula of release. Households undergoing a change of state — a child grown and gone, a partnership dissolved, a business sold — set out an offering of withered flowers at the threshold for a full day, acknowledging the passage.
+Almost every Varṇakan household keeps a petal bowl on the kitchen windowsill or at the garden door, whatever its chief devotion. The wilted flowers of the day's garland go into it, and a fallen leaf brought in on a sandal, and the dry seed-head of a spent blossom. Once a month the bowl is emptied onto the household's compost-heap with the formula of release. A household passing through a change of state, a child grown and gone, a partnership dissolved, a business sold, sets out withered flowers at the threshold for a full day.
 
 ### Ordeals for Favour
 
-- **The Year of Gentle Release** — a year in which the devotee offers to receive, at a temple garden, whatever is brought for composting — kitchen waste, household refuse, the petals of weddings and funerals — and returns each to the ground with the proper rite.
-- **The Walk of the Empty House** — an ordeal in which the devotee enters a house that has been emptied by death or dissolution and spends three days in silent witness before the property is transferred to its new keeping.
+- **The Year of Gentle Release** — a year receiving at a temple garden whatever is brought for composting, kitchen waste, household refuse, the petals of weddings and funerals, and returning each to the ground with the proper rite.
+- **The Walk of the Empty House** — three days of silent witness inside a house emptied by death or dissolution, before the property passes to its new keeping.
 
 ### See Also
 

@@ -109,19 +109,19 @@ packFolder: vedyara
 
 Vyālendra, "the City of Ten Thousand Looms," has long been the textile capital of southern Vedyara. Silk and cotton cloth woven here bear patterns and dyes unknown elsewhere, the result of centuries of refinement and closely guarded techniques passed from master weavers to their apprentices.
 
-The weavers of Vyālendra operate within an intricate caste structure maintained by the chartered guilds. Master weavers occupy the highest ranks, controlling both production and the trade networks that extend westward to Harad and northward to Heliónis. The textiles of Vyālendra adorned the courts of emperors and the robes of high priests for generations, and the city's weavers guard their status jealously, ensuring no rival city can match their output or artistry.
+The weavers of Vyālendra work within an intricate caste structure the chartered guilds maintain. Master weavers hold the highest ranks and control both production and the trade networks that run west to Harad and north to Heliónis. Vyālendri cloth has dressed the courts of emperors and the robes of high priests for generations. The city's weavers guard their standing jealously, and no rival city matches their output or their artistry.
 
 ## The Loom-Council
 
-Vyālendra keeps no king. It is governed by the **Loom-Council**, on which every chartered weaving guild holds a seat by loom-caste, and which raises one of its masters as **Speaker** for a term and takes him back to his loom at the end of it. The Council licenses the guilds, sets the cloth-tax and the warehouse dues, judges between craft-lines, and keeps the watch — whose commander, by a custom nobody remembers the beginning of, is a graduate of the [[affiliation-dhnrktjnpd|Dhanurkota]] academies and not a Vyālendri.
+Vyālendra keeps no king. The **Loom-Council** governs, and every chartered weaving guild holds a seat on it by loom-caste. The Council raises one of its masters as **Speaker** for a term and takes him back to his loom at the end of it. It licenses the guilds, sets the cloth-tax and the warehouse dues, judges between craft-lines, and keeps the watch. The watch commander is a graduate of the [[affiliation-dhnrktjnpd|Dhanurkota]] academies and not a Vyālendri, by a custom nobody remembers the beginning of.
 
 Above the city's own affairs stand the temples. The senior priest of the Trimūrti temple, the city's **Triyācārya**, sanctions the Council's acts as a priest sanctions a sabhā's inland, and a Council decision the temples will not sanction does not take effect. The city-state holds [[place-vyalendraland|Vyālendra Land]], and [[place-vyalendra3|Vyālendra]] is its seat.
 
-The city's temples — particularly the sanctuary of Mahájaya, the serene matriarch who is the patron of honest measure and therefore of every bolt that leaves a hall — stand adjacent to the great weaving halls, acknowledging the spiritual dimension that weavers believe infuses their work. The city is quieter and less cosmopolitan than Chandrapur, its character shaped entirely by the slow, meditative rhythms of textile craft.
+The city's temples stand next to the great weaving halls, the sanctuary of Mahájaya first among them. She is the serene matriarch, patron of honest measure and so of every bolt that leaves a hall. The weavers hold their work to be a spiritual thing, and the siting says so. The city is quieter and less cosmopolitan than Chandrapur, and the slow rhythms of the textile craft have made its whole character.
 
 ## Commerce and Currency
 
-Vyālendra uses the [[lore-vdyrnbnkng|Vedyaran banking system]] administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign currencies (Vylarian Argo and Aurion, Ta'Kheperan deben pieces) are exchangeable at frontier moneylenders at Collective-controlled rates, but the Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the (presently stub) system reference and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institutional details.
+Vyālendra uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign coin, the Vylarian Argo and Aurion and the Ta'Kheperan deben pieces, is exchangeable at frontier moneylenders at Collective-controlled rates. The Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
 
 ## See Also
 
