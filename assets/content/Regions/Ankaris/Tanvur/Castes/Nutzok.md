@@ -64,9 +64,9 @@ The [[lore-castelaws|Caste Laws]] contain no pathway for mass rehabilitation or 
 
 ## See Also
 
-- [[lore-castelaws|Caste Laws]] — rights and restrictions governing Nützōk
-- [[lore-nokvur|Nōkvür]] — peasant farmers, the lowest free caste
-- [[lore-shukren|Shükrën]] — merchants and traders above Nützōk in hierarchy
-- [[lore-venduk|Vëndük]] — magical slaves who occupy a unique elevated position despite enslavement
-- [[lore-zeisik|Law and Honor]] — legal framework governing treatment of slaves
-- [[affiliation-tanvurempr|Empire of Tānvür]] — overview of imperial society and structure
+- [[lore-castelaws|Caste Laws]]—rights and restrictions governing Nützōk
+- [[lore-nokvur|Nōkvür]]—peasant farmers, the lowest free caste
+- [[lore-shukren|Shükrën]]—merchants and traders above Nützōk in hierarchy
+- [[lore-venduk|Vëndük]]—magical slaves who occupy a unique elevated position despite enslavement
+- [[lore-zeisik|Law and Honor]]—legal framework governing treatment of slaves
+- [[affiliation-tanvurempr|Empire of Tānvür]]—overview of imperial society and structure

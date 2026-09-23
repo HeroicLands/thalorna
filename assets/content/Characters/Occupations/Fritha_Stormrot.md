@@ -586,12 +586,12 @@ Few; she is well liked in her community, though some rats remain elusive.
 
 ## Plot Hooks
 
-1. **The Ratter's Dilemma** — A householder who pays Frítha well wants the rats driven out rather than killed, into the street where they will become someone else's.
+1. **The Ratter's Dilemma**—A householder who pays Frítha well wants the rats driven out rather than killed, into the street where they will become someone else's.
 
-2. **Old Grudges** — A rat Frítha could never catch has been seen again, in the one house whose custom she cannot afford to lose.
+2. **Old Grudges**—A rat Frítha could never catch has been seen again, in the one house whose custom she cannot afford to lose.
 
-3. **Echoes of the Past** — A trap of Frítha's father's design is found set in a part of the city he never worked, and she did not set it.
+3. **Echoes of the Past**—A trap of Frítha's father's design is found set in a part of the city he never worked, and she did not set it.
 
-4. **Shifting Winds** — Political change in Nordheim threatens the businesses Frítha's trade depends on, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Nordheim threatens the businesses Frítha's trade depends on, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — A merchant offers Frítha the keeping of his whole warehouse district at a wage, and the poisons he wants used would put Whiskers at risk.
+5. **The Opportunity**—A merchant offers Frítha the keeping of his whole warehouse district at a wage, and the poisons he wants used would put Whiskers at risk.

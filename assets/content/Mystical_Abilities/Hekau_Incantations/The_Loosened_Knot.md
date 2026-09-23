@@ -24,6 +24,6 @@ packFolder: hekauincantations
 ---
 
 Where Unwritten removes the form, this unmakes the working while leaving the inscription intact
-and apparently sound — which is exactly why it is proscribed and why the House teaches it. A seal
+and apparently sound—which is exactly why it is proscribed and why the House teaches it. A seal
 that reads as live and is not is the single most dangerous condition in Kheperi security, and only
 someone who can produce one reliably can be trusted to find one.

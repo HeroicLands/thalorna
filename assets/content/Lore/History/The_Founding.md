@@ -2,7 +2,7 @@
 tags:
   - history
   - spine
-description: "A Vylarian Senator backed by loyal legions and the newly chartered Ordo seizes supreme power and declares himself Emperor — Year 1 of the calendar most of western Ankaris still counts by."
+description: "A Vylarian Senator backed by loyal legions and the newly chartered Ordo seizes supreme power and declares himself Emperor—Year 1 of the calendar most of western Ankaris still counts by."
 type: lore
 subType: history
 name:
@@ -23,10 +23,10 @@ event:
     - place-ankrscntnnt
   summary: >-
     A Vylarian Senator, backed by loyal legions and by the Ordo Arcanis, seizes supreme power and
-    declares himself Emperor. The Senate survives and is reduced from a governing body to an advisory
-    one. It is not a sudden revolution but the culmination of decades of erosion; the Emperor
-    formalises what has already become reality. Western Ankaris reckons its years from this moment,
-    and everything before it is dated Before the Founding.
+    declares himself Emperor. The Senate survives and is reduced from a governing body to an
+    advisory one. It is not a sudden revolution but the culmination of decades of erosion; the
+    Emperor formalizes what has already become reality. Western Ankaris reckons its years from this
+    moment, and everything before it is dated Before the Founding.
   standing: attested
   names:
     - name: Year 1
@@ -59,7 +59,7 @@ event:
       - place: place-aelwyth
         how: >-
           an island that never saw a legion counts its years by a Vylarian Senator's coup, because
-          its neighbours across the water do
+          its neighbors across the water do
         knowledge: named
   who:
     - ref: affiliation-vylarinmpr
@@ -91,19 +91,19 @@ event:
     - the Senator's name, which no record gives
 ---
 
-In what is now reckoned as **Year 1**, a powerful Senator — backed by loyal legions and by the newly
-chartered [[affiliation-ordoarcanis|Ordo Arcanis]] — seized supreme power and declared himself
+In what is now reckoned as **Year 1**, a powerful Senator—backed by loyal legions and by the newly
+chartered [[affiliation-ordoarcanis|Ordo Arcanis]]—seized supreme power and declared himself
 Emperor. The Senate survived but was reduced from a governing body to an advisory one.
 
 The transformation was not a sudden revolution but the culmination of decades of political erosion.
 The late Republic had been wracked by civil wars, factional violence and the dangerous concentration
-of power in the hands of successful generals; the Emperor simply formalised what had already become
+of power in the hands of successful generals; the Emperor simply formalized what had already become
 reality.
 
 The calendar is the part of it that outlived the Empire. Events before this year are reckoned **Before
 the Founding**, events after it **After the Founding**, and the reckoning is the working calendar of
-Mídhalión, Aurèldía, Heliónis, Harad, Provènzia, Tarvénia, Élavendre and Aelwyth — including the
-provinces that have long since gone their own way. Beyond that sphere other civilisations keep their
+Mídhalión, Aurèldía, Heliónis, Harad, Provènzia, Tarvénia, Élavendre and Aelwyth—including the
+provinces that have long since gone their own way. Beyond that sphere other civilizations keep their
 own, and the Common Calendar's reach is itself a visible measure of where the Empire's cultural
 gravity still holds even where its legions no longer do.
 

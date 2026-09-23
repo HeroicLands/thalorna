@@ -3,7 +3,7 @@ tags:
   - fortress
   - military
   - inland
-description: "The Mahā-Saṅgha's one standing garrison — a stone work on the col of the conch-door, held for four centuries because of a single invasion, and read by Vindhyālaya as a rival's outpost."
+description: "The Mahā-Saṅgha's one standing garrison—a stone work on the col of the conch-door, held for four centuries because of a single invasion, and read by Vindhyālaya as a rival's outpost."
 type: place
 subType: structure
 data:
@@ -26,7 +26,7 @@ The **Saṅgha-fort** stands on the Vedyari col of [[place-sankhadvra|Śaṅkhad
 
 Four centuries ago an adventurer with Tānvüri backing brought a force through the conch-door into the eastern janapadas. The temple-republics, which have no army and no mechanism for raising one, raised one, and put him back out through the door he had come in by.
 
-They have never raised another. What they have done instead is keep the fort — garrisoned, provisioned and manned in rotation by the janapadas of the eastern circuits — so that the precedent survives in a building rather than in an argument. The [[affiliation-janpdsvdyr|Mahā-Saṅgha]] is jealous of it out of all proportion to its military value, which is nearly nil, because the fort is the standing answer to the question of whether the confederation can act as one, and it answers yes without anyone having to say so at a Mela.
+They have never raised another. What they have done instead is keep the fort—garrisoned, provisioned and manned in rotation by the janapadas of the eastern circuits—so that the precedent survives in a building rather than in an argument. The [[affiliation-janpdsvdyr|Mahā-Saṅgha]] is jealous of it out of all proportion to its military value, which is nearly nil, because the fort is the standing answer to the question of whether the confederation can act as one, and it answers yes without anyone having to say so at a Mela.
 
 ## The Quarrel
 

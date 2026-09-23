@@ -24,7 +24,7 @@ Khent-Hen is the capital of [[affiliation-nomekhnthn|the Nome of Khent-Hen-Nefer
 
 ## See Also
 
-- [[affiliation-nomekhnthn|The Nome of Khent-Hen-Nefer]] — Parent nome
-- [[affiliation-bordernoms|The Border Nomes]] — Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[affiliation-mentu|Mentu]] — Patron cult
+- [[affiliation-nomekhnthn|The Nome of Khent-Hen-Nefer]]—Parent nome
+- [[affiliation-bordernoms|The Border Nomes]]—Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
+- [[affiliation-mentu|Mentu]]—Patron cult

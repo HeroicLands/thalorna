@@ -49,6 +49,6 @@ The main trade goods flowing through K'uxi Balam are provisions for travelers he
 
 ## See Also
 
-- [[affiliation-kuxibalam|K'uxi Balam]] — The realm that holds this land
-- [[place-sthrnkchchk|Southern K'ich'chik]] — The enclosing region
-- [[place-kuxibalam2|K'uxi Balam]] — Seat of K'uxi Balam
+- [[affiliation-kuxibalam|K'uxi Balam]]—The realm that holds this land
+- [[place-sthrnkchchk|Southern K'ich'chik]]—The enclosing region
+- [[place-kuxibalam2|K'uxi Balam]]—Seat of K'uxi Balam

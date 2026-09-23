@@ -591,12 +591,12 @@ Few; she is respected by those she helps but has made enemies among those who pr
 
 ## Plot Hooks
 
-1. **The Mercenary's Dilemma** — The only contract on offer is from a client whose methods Thésia despises, and her company will not be founded on an empty purse.
+1. **The Mercenary's Dilemma**—The only contract on offer is from a client whose methods Thésia despises, and her company will not be founded on an empty purse.
 
-2. **Old Grudges** — A man whose hold over a village Thésia broke has hired mercenaries of his own.
+2. **Old Grudges**—A man whose hold over a village Thésia broke has hired mercenaries of his own.
 
-3. **Echoes of the Past** — A village Thésia once defended sends for her again, and the threat this time is the company she fought beside.
+3. **Echoes of the Past**—A village Thésia once defended sends for her again, and the threat this time is the company she fought beside.
 
-4. **Shifting Winds** — Political change in Tarvénia threatens the guild contracts Thésia depends upon, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Tarvénia threatens the guild contracts Thésia depends upon, and she can adapt, resist, or leave.
 
-5. **The Opportunity** — Thésia is offered the men and money to found her company, and its price is not named up front.
+5. **The Opportunity**—Thésia is offered the men and money to found her company, and its price is not named up front.

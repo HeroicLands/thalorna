@@ -1,7 +1,7 @@
 ---
 tags:
   - region
-description: "Blasted rock, ash, ice and poisoned water — the forsaken wastes of Tz'ikin Ba'alam at the southern end of Southern K'ich'chik."
+description: "Blasted rock, ash, ice and poisoned water—the forsaken wastes of Tz'ikin Ba'alam at the southern end of Southern K'ich'chik."
 name:
   full: Tz'ikin Ba'alam Region
   aliases: []
@@ -48,5 +48,5 @@ What truly flows through Tz'ikin Ba'alam is not trade, but transformation. The w
 
 ## See Also
 
-- [[place-sthrnkchchk|Southern K'ich'chik]] — The enclosing region
-- [[place-tzikinbalm2|Tz'ikin Ba'alam]] — Seat of Tz'ikin Ba'alam
+- [[place-sthrnkchchk|Southern K'ich'chik]]—The enclosing region
+- [[place-tzikinbalm2|Tz'ikin Ba'alam]]—Seat of Tz'ikin Ba'alam

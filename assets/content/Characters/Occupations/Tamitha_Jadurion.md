@@ -557,15 +557,15 @@ Tamîtha Jâdurîon is a 28-year-old woman who stands 5'11" tall and is slender.
 
 # Dossier {#dossier}
 
-Tamîtha Jâdurîon is a mason of Pelagora, the naval city of [[place-helionis|Heliónis]], a Helionite freewoman who lays brick and stone on the city's harbour works and public buildings and is judged, when she is judged fairly, by her wall.
+Tamîtha Jâdurîon is a mason of Pelagora, the naval city of [[place-helionis|Heliónis]], a Helionite freewoman who lays brick and stone on the city's harbor works and public buildings and is judged, when she is judged fairly, by her wall.
 
-Tamîtha learned the trade on the scaffolds of her father, a respected stoneworker who had no son and did not see why that should stop the trade, and she served the collegium's seven years under him and was examined on a harbour wall that stands. She works on what Pelagora builds most: the moles and quays the fleet needs, the ship-sheds, and the town-houses of the shipowning families. Her bricklaying is exact and her joints are tight, and a master who has watched her build knows it; a master who has not knows only that she is a woman on a scaffold. She takes every contract she is offered because she has had to prove herself on every one.
+Tamîtha learned the trade on the scaffolds of her father, a respected stoneworker who had no son and did not see why that should stop the trade, and she served the collegium's seven years under him and was examined on a harbor wall that stands. She works on what Pelagora builds most: the moles and quays the fleet needs, the ship-sheds, and the town-houses of the shipowning families. Her bricklaying is exact and her joints are tight, and a master who has watched her build knows it; a master who has not knows only that she is a woman on a scaffold. She takes every contract she is offered because she has had to prove herself on every one.
 
 ## Psyche
 
 ### Personality
 
-Tamîtha is proud, tireless and blunt, quick to take offence and slow to notice a compliment. She takes on more than she can carry, because a refused job is a job somebody will say she could not do.
+Tamîtha is proud, tireless and blunt, quick to take offense and slow to notice a compliment. She takes on more than she can carry, because a refused job is a job somebody will say she could not do.
 
 ### Motivation
 
@@ -583,7 +583,7 @@ Tamîtha holds her seal from the Masons' Collegium of Pelagora, which examined h
 
 ### Patrons
 
-Tamîtha's patrons are the clerk of works of the citizen assembly, who lets the harbour contracts, and the shipowning families whose town-houses she has built.
+Tamîtha's patrons are the clerk of works of the citizen assembly, who lets the harbor contracts, and the shipowning families whose town-houses she has built.
 
 ### Enemies
 
@@ -591,10 +591,10 @@ A senior master of the collegium who holds that a woman on a scaffold shames the
 
 ## Plot Hooks
 
-1. **The Mole** — The assembly is letting the contract for the new harbour mole, the largest work in a generation, and the clerk of works has asked Tamîtha to bid in her own name. The senior master has said the collegium will not seal it.
+1. **The Mole**—The assembly is letting the contract for the new harbor mole, the largest work in a generation, and the clerk of works has asked Tamîtha to bid in her own name. The senior master has said the collegium will not seal it.
 
-2. **The Failed Wall** — A quay wall has slumped into the harbour, and the gang-master whose wall it was has told the assembly that Tamîtha's gang laid the failed course. She did not, and the tide has taken the evidence.
+2. **The Failed Wall**—A quay wall has slumped into the harbor, and the gang-master whose wall it was has told the assembly that Tamîtha's gang laid the failed course. She did not, and the tide has taken the evidence.
 
-3. **The Demagogue** — A speaker in the assembly has taken up the woman mason as a cause, and the crowd is shouting her name at the collegium's doors. She did not ask him to.
+3. **The Demagogue**—A speaker in the assembly has taken up the woman mason as a cause, and the crowd is shouting her name at the collegium's doors. She did not ask him to.
 
-4. **The Sixth Contract** — Tamîtha has five works running and has been offered a sixth, a shipowner's house that must be roofed before his daughter's wedding, and she trusts no one to run any of them but herself.
+4. **The Sixth Contract**—Tamîtha has five works running and has been offered a sixth, a shipowner's house that must be roofed before his daughter's wedding, and she trusts no one to run any of them but herself.

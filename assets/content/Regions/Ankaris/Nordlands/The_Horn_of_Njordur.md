@@ -3,7 +3,7 @@ tags:
   - artifact
   - regalia
   - nordlands
-description: "One of the three regalia of Gróa's quest — the horn of an older sea-power, whose name unsettlingly resembles that of the wraith it is needed to bind."
+description: "One of the three regalia of Gróa's quest—the horn of an older sea-power, whose name unsettlingly resembles that of the wraith it is needed to bind."
 type: miscgear
 name:
   full: The Horn of Njördur
@@ -29,9 +29,9 @@ The name is a difficulty, and the sagas do not resolve it.
 
 **Njördur** is not one of the Asguardian Twelve. The name belongs to an older sea-power of the
 Nordlands, largely displaced by the Aesir and surviving chiefly in place-names, in a few coastal
-observances that priests of Thórr tolerate without approving, and in this horn. What Njördur was — a
+observances that priests of Thórr tolerate without approving, and in this horn. What Njördur was—a
 god the Aesir supplanted, a sea-spirit the clans placated, or something the two later traditions have
-confused — depends entirely on which skald is asked.
+confused—depends entirely on which skald is asked.
 
 What every version of the story does note is the resemblance between **Njördur** and **Njörven**. Some
 tellings make them enemies of old, the horn being the instrument by which the elder power bound the

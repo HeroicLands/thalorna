@@ -523,23 +523,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Vargskaer stands 6'4" with a towering, heavily muscled frame, weighing well over 250 pounds even in undeath. His pale skin has a terrible deathly pallor, stretched tight over slabs of muscle that should not function without living blood. His brown hair is matted into thick locks caked with old blood, and his gray eyes are flat and predatory, devoid of warmth or mercy. His features are brutal — a broad face, a heavy jaw, a nose broken in life and never set, thick scarred brows, and a mouth that curls in a permanent sneer. The ragged wound across his throat that killed him as a mortal remains visible and unhealed, a grim reminder of the violence that birthed his undeath. He wears battered plate armor blackened with soot and blood, draped with trophies taken from slain knights. His cursed fellblade — a massive, dark-edged sword — is always in hand or within reach.
+Vargskaer stands 6'4" with a towering, heavily muscled frame, weighing well over 250 pounds even in undeath. His pale skin has a terrible deathly pallor, stretched tight over slabs of muscle that should not function without living blood. His brown hair is matted into thick locks caked with old blood, and his gray eyes are flat and predatory, devoid of warmth or mercy. His features are brutal—a broad face, a heavy jaw, a nose broken in life and never set, thick scarred brows, and a mouth that curls in a permanent sneer. The ragged wound across his throat that killed him as a mortal remains visible and unhealed, a grim reminder of the violence that birthed his undeath. He wears battered plate armor blackened with soot and blood, draped with trophies taken from slain knights. His cursed fellblade—a massive, dark-edged sword—is always in hand or within reach.
 
 # Dossier {#dossier}
 
-Vargskaer was once a brutal and savage warrior, known for his unmatched strength and his love of slaughter. Born into a clan of raiders, he quickly rose to prominence through sheer ferocity, leading his people in bloody campaigns across the land. Vargskaer's insatiable hunger for violence eventually led him to worship Hél, drawn to her promise of eternal chaos. In his final battle as a mortal, Vargskaer was mortally wounded, but instead of succumbing to his injuries, he was reborn as a Nightwight — a [[being-tereb|tereb]], in the learned word — a towering figure of undeath with an unquenchable thirst for blood. Now empowered by Hél's dark magic, Vargskaer set out to create a legion of warriors as deadly and ruthless as he was.
+Vargskaer was once a brutal and savage warrior, known for his unmatched strength and his love of slaughter. Born into a clan of raiders, he quickly rose to prominence through sheer ferocity, leading his people in bloody campaigns across the land. Vargskaer's insatiable hunger for violence eventually led him to worship Hél, drawn to her promise of eternal chaos. In his final battle as a mortal, Vargskaer was mortally wounded, but instead of succumbing to his injuries, he was reborn as a Nightwight—a [[being-tereb|tereb]], in the learned word—a towering figure of undeath with an unquenchable thirst for blood. Now empowered by Hél's dark magic, Vargskaer set out to create a legion of warriors as deadly and ruthless as he was.
 
-The saga of Vargskaer the Fellblade tells of his campaign against a holy order of knights dedicated to Týr. Seeking to destroy those who upheld justice and order, Vargskaer began hunting the knights one by one, turning their bodies into Helspawn warriors who served his will. The climax of his campaign came when he laid siege to the knights' stronghold, wielding a cursed blade that could shatter steel. He led his forces in a relentless assault, slew the leader of the knights, and claimed the fortress as his own — a citadel of death from which he and his Nightwights launched raids on the surrounding lands.
+The saga of Vargskaer the Fellblade tells of his campaign against a holy order of knights dedicated to Týr. Seeking to destroy those who upheld justice and order, Vargskaer began hunting the knights one by one, turning their bodies into Helspawn warriors who served his will. The climax of his campaign came when he laid siege to the knights' stronghold, wielding a cursed blade that could shatter steel. He led his forces in a relentless assault, slew the leader of the knights, and claimed the fortress as his own—a citadel of death from which he and his Nightwights launched raids on the surrounding lands.
 
 ## Psyche
 
 ### Personality
 
-Vargskaer is savage and direct, lacking the intellectual sophistication of Mörkvidr but compensating with raw brutality and an animal cunning that makes him unpredictable. He revels in violence and takes visceral pleasure in the fear he inspires. Unlike Mörkvidr, who schemes from the shadows, Vargskaer leads from the front, his cursed blade singing through the air. He has a twisted sense of honor — he respects worthy opponents and sometimes spares those who fight bravely, adding them to his retinue rather than his army of thralls.
+Vargskaer is savage and direct, lacking the intellectual sophistication of Mörkvidr but compensating with raw brutality and an animal cunning that makes him unpredictable. He revels in violence and takes visceral pleasure in the fear he inspires. Unlike Mörkvidr, who schemes from the shadows, Vargskaer leads from the front, his cursed blade singing through the air. He has a twisted sense of honor—he respects worthy opponents and sometimes spares those who fight bravely, adding them to his retinue rather than his army of thralls.
 
 ### Motivation
 
-Vargskaer seeks to build an army that will conquer the entire northern coast, creating a kingdom of the dead where strength is the only law. He has no interest in transcendence or philosophical questions about death — he simply wants to fight, conquer, and dominate, forever. The endless nature of undeath appeals to him precisely because it means the war never has to end.
+Vargskaer seeks to build an army that will conquer the entire northern coast, creating a kingdom of the dead where strength is the only law. He has no interest in transcendence or philosophical questions about death—he simply wants to fight, conquer, and dominate, forever. The endless nature of undeath appeals to him precisely because it means the war never has to end.
 
 ### Strengths
 
@@ -551,20 +551,20 @@ Vargskaer is a devastating melee combatant whose cursed fellblade can shatter en
 
 ### Patrons
 
-**Hél** — The goddess finds Vargskaer useful as a blunt instrument of destruction and provides him with the dark energy to maintain and expand his Helspawn army.
+**Hél**—The goddess finds Vargskaer useful as a blunt instrument of destruction and provides him with the dark energy to maintain and expand his Helspawn army.
 
-**Mörkvidr the Deathmage** — Though their relationship is tense, Mörkvidr provides Vargskaer with necromantic support and intelligence in exchange for military cooperation against mutual enemies.
+**Mörkvidr the Deathmage**—Though their relationship is tense, Mörkvidr provides Vargskaer with necromantic support and intelligence in exchange for military cooperation against mutual enemies.
 
 ### Enemies
 
-**The Order of the Shining Shield** — A new knightly order risen from the ashes of the one Vargskaer destroyed. They have sworn to reclaim their lost fortress and avenge their fallen brothers.
+**The Order of the Shining Shield**—A new knightly order risen from the ashes of the one Vargskaer destroyed. They have sworn to reclaim their lost fortress and avenge their fallen brothers.
 
-**Thorgil Thunderstrike** — The champion of Thórr views the Helspawn as an affront to the natural order and has clashed with Vargskaer's forces multiple times.
+**Thorgil Thunderstrike**—The champion of Thórr views the Helspawn as an affront to the natural order and has clashed with Vargskaer's forces multiple times.
 
 ## Plot Hooks
 
-1. **The Fortress of Bones** — Vargskaer's captured fortress has become a nexus of dark energy, and the land around it is dying. A coalition of forces must assault the fortress and destroy its dark heart before the corruption spreads further.
+1. **The Fortress of Bones**—Vargskaer's captured fortress has become a nexus of dark energy, and the land around it is dying. A coalition of forces must assault the fortress and destroy its dark heart before the corruption spreads further.
 
-2. **The Living Generals** — Several of Vargskaer's most effective commanders are living warriors who serve him willingly. Turning them against their master could cripple his army from within.
+2. **The Living Generals**—Several of Vargskaer's most effective commanders are living warriors who serve him willingly. Turning them against their master could cripple his army from within.
 
-3. **The Fell Blade's Origin** — Vargskaer's cursed weapon has a history that predates him. Discovering its origin and weakness could provide the key to defeating him in combat.
+3. **The Fell Blade's Origin**—Vargskaer's cursed weapon has a history that predates him. Discovering its origin and weakness could provide the key to defeating him in combat.

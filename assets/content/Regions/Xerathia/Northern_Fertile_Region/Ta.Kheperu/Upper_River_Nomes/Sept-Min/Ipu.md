@@ -24,7 +24,7 @@ Ipu is the capital of [[affiliation-nomeseptmi|the Nome of Sept-Min]] and the se
 
 ## See Also
 
-- [[affiliation-nomeseptmi|The Nome of Sept-Min]] — Parent nome
-- [[affiliation-uperivrnms|The Upper River Nomes]] — Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[affiliation-min|Min]] — Patron cult
+- [[affiliation-nomeseptmi|The Nome of Sept-Min]]—Parent nome
+- [[affiliation-uperivrnms|The Upper River Nomes]]—Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
+- [[affiliation-min|Min]]—Patron cult

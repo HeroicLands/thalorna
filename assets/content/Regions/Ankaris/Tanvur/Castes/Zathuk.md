@@ -55,34 +55,34 @@ The **Yātvōr** are apothecaries and physicians within the Zāthük caste, elev
 
 Yātvōr practice medicine based on the principles of Hëk/Lëng balance, the Five Elements classification, and the understanding that the body is a microcosm of the Great Sorting. They believe that:
 
-- All illness stems from classification failure within the body — elements, organs, or Lëi flows displaced from their proper categories
+- All illness stems from classification failure within the body—elements, organs, or Lëi flows displaced from their proper categories
 - Body, mind, and spirit are interconnected classification systems; treating one without the others leaves the sorting incomplete
-- The Mandate of Health mirrors the Emperor's Mandate of Heaven — both govern the proper maintenance of classified order within their respective domains
+- The Mandate of Health mirrors the Emperor's Mandate of Heaven—both govern the proper maintenance of classified order within their respective domains
 - Prevention through properly sorted living is as important as treatment of classification breaches
 
 ### Organization and Hierarchy
 
 The Yātvōr profession is structured as a formal hierarchy of achievement:
 
-1. **Thëizhëit** (Apprentices) — learning the foundational arts of healing
-2. **Yātgüng** (Practitioners) — licensed to practice medicine and dispense remedies
-3. **Dākyāt** (Renowned Healers) — masters of healing who have proven exceptional skill and wisdom
-4. **Vōryāt** (Grand Healers) — the highest rank, healers whose understanding of the body's classification system is considered near-complete and whose counsel is sought by nobility
+1. **Thëizhëit** (Apprentices)—learning the foundational arts of healing
+2. **Yātgüng** (Practitioners)—licensed to practice medicine and dispense remedies
+3. **Dākyāt** (Renowned Healers)—masters of healing who have proven exceptional skill and wisdom
+4. **Vōryāt** (Grand Healers)—the highest rank, healers whose understanding of the body's classification system is considered near-complete and whose counsel is sought by nobility
 
 ### Two Branches of Healing
 
 The Yātvōr maintain two complementary branches:
 
-- **Yātzāt** (Herbal Masters/Apothecaries) — specialists in plant-based remedies, herbal preparations, and medicinal compounds
-- **Zhëkyāt** (Life Givers/Physicians) — practitioners trained in surgical technique, wound treatment, bone-setting, and direct patient care
+- **Yātzāt** (Herbal Masters/Apothecaries)—specialists in plant-based remedies, herbal preparations, and medicinal compounds
+- **Zhëkyāt** (Life Givers/Physicians)—practitioners trained in surgical technique, wound treatment, bone-setting, and direct patient care
 
 ### Collaboration and Scope
 
-The Yātvōr work closely with [[lore-tanthei|Tānthëi]] when treating ailments believed to have spiritual causes — ancestor spirits withdrawing advocacy, moral ledger debits manifesting as physical symptoms, or Hürnlëi contamination. Physical medicine alone cannot cure classification breaches that originate in the spiritual order. This collaboration ensures comprehensive treatment for complex cases.
+The Yātvōr work closely with [[lore-tanthei|Tānthëi]] when treating ailments believed to have spiritual causes—ancestor spirits withdrawing advocacy, moral ledger debits manifesting as physical symptoms, or Hürnlëi contamination. Physical medicine alone cannot cure classification breaches that originate in the spiritual order. This collaboration ensures comprehensive treatment for complex cases.
 
 ### Public Health Initiatives
 
-Yātvōr hold primary responsibility for initiating and managing public health measures throughout the empire. These include sanitation practices, epidemic containment through quarantine and herbal treatment, and health education for the common people. A province wracked by disease is a province whose internal classification is failing — such work is essential to the empire's stability and its standing within the cosmic order.
+Yātvōr hold primary responsibility for initiating and managing public health measures throughout the empire. These include sanitation practices, epidemic containment through quarantine and herbal treatment, and health education for the common people. A province wracked by disease is a province whose internal classification is failing—such work is essential to the empire's stability and its standing within the cosmic order.
 
 ## Elder Races Among Zāthük
 
@@ -95,10 +95,10 @@ Their exceptional quality of work commands considerable wealth and respect, elev
 
 ## See Also
 
-- [[lore-castelaws|Caste Laws]] — rights and restrictions governing Zāthük
-- [[lore-vushok|Vüshōk]] — Warrior Nobility who command Vüsrën forces
-- [[lore-nokvur|Nōkvür]] — Peasant farmers below Zāthük in social hierarchy
-- [[lore-shukren|Shükrën]] — Merchants and financiers (separate caste)
-- [[lore-tanthei|Tānthëi]] — Celestial scholars who collaborate with Yātvōr on spiritual ailments
-- [[lore-zeisik|Law and Honor]] — legal framework governing craftsmanship and commerce
-- [[affiliation-tanvurempr|Empire of Tānvür]] — overview of imperial society and structure
+- [[lore-castelaws|Caste Laws]]—rights and restrictions governing Zāthük
+- [[lore-vushok|Vüshōk]]—Warrior Nobility who command Vüsrën forces
+- [[lore-nokvur|Nōkvür]]—Peasant farmers below Zāthük in social hierarchy
+- [[lore-shukren|Shükrën]]—Merchants and financiers (separate caste)
+- [[lore-tanthei|Tānthëi]]—Celestial scholars who collaborate with Yātvōr on spiritual ailments
+- [[lore-zeisik|Law and Honor]]—legal framework governing craftsmanship and commerce
+- [[affiliation-tanvurempr|Empire of Tānvür]]—overview of imperial society and structure

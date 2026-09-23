@@ -558,7 +558,7 @@ Mitharâkîs Gêrazêndis is a 50-year-old man who stands 6'0" tall and is of mo
 
 Mitharâkîs Gêrazêndis is a jester of Tyrellan, the provincial city of Moktur on the northern frontier of [[place-vylariargn|Vylaría]], a Vylarian freeman who has made the halls of the frontier's governors and border-lords laugh for thirty years.
 
-Mitharâkîs came up from the taverns of Tyrellan as a boy who could mimic anyone in the room and was paid not to, and he has performed since for three military governors, a dozen border-lords, and Varokh chiefs across the line who did not understand a word and laughed anyway. His humour is story and satire, the governor's temper, the Senate's letters, the legion's pay, the winter, and he has learned how far a frontier lord will let a fool go and how far past it a fool can go if the hall is laughing. He has kept his head when men who spoke plainly lost theirs. He holds that a hall that can laugh at its lord will follow him, and one that cannot will not.
+Mitharâkîs came up from the taverns of Tyrellan as a boy who could mimic anyone in the room and was paid not to, and he has performed since for three military governors, a dozen border-lords, and Varokh chiefs across the line who did not understand a word and laughed anyway. His humor is story and satire, the governor's temper, the Senate's letters, the legion's pay, the winter, and he has learned how far a frontier lord will let a fool go and how far past it a fool can go if the hall is laughing. He has kept his head when men who spoke plainly lost theirs. He holds that a hall that can laugh at its lord will follow him, and one that cannot will not.
 
 ## Psyche
 
@@ -568,7 +568,7 @@ Mitharâkîs is warm in performance and dry out of it, cynical about lords and a
 
 ### Motivation
 
-Mitharâkîs wants the hall laughing when the winter is hard and the news is bad, because he has seen a frontier hall when nobody does. He wants to matter to it still, and the governor has a new favourite who is twenty-four.
+Mitharâkîs wants the hall laughing when the winter is hard and the news is bad, because he has seen a frontier hall when nobody does. He wants to matter to it still, and the governor has a new favorite who is twenty-four.
 
 ### Strengths
 
@@ -586,14 +586,14 @@ Mitharâkîs's patrons are the military governor of Moktur, whose hall he has ke
 
 ### Enemies
 
-The governor's new favourite, a young singer from the capital who has told the governor's steward that the old man's satire is dangerous; and a border-lord who was the subject of it.
+The governor's new favorite, a young singer from the capital who has told the governor's steward that the old man's satire is dangerous; and a border-lord who was the subject of it.
 
 ## Plot Hooks
 
-1. **The Satire** — Mitharâkîs told a story at the governor's table about a lord who sold his own pass to the Varokh, and the hall laughed. The next morning a border-lord who had been at the table did not, and the governor has asked to see the fool.
+1. **The Satire**—Mitharâkîs told a story at the governor's table about a lord who sold his own pass to the Varokh, and the hall laughed. The next morning a border-lord who had been at the table did not, and the governor has asked to see the fool.
 
-2. **The Message** — A border-lord has asked Mitharâkîs, who goes where a lord's messenger cannot, to carry a word to a Varokh chief across the line. The word is not treason, quite.
+2. **The Message**—A border-lord has asked Mitharâkîs, who goes where a lord's messenger cannot, to carry a word to a Varokh chief across the line. The word is not treason, quite.
 
-3. **The Favourite** — The young singer has been given the governor's midwinter feast, and Mitharâkîs the servants' hall, which has asked him for the story about the singer.
+3. **The Favorite**—The young singer has been given the governor's midwinter feast, and Mitharâkîs the servants' hall, which has asked him for the story about the singer.
 
-4. **The Governor's Temper** — The governor has begun to drink in the afternoons and to take the fool's stories as they are meant, and the officers have asked Mitharâkîs to say to him what they cannot.
+4. **The Governor's Temper**—The governor has begun to drink in the afternoons and to take the fool's stories as they are meant, and the officers have asked Mitharâkîs to say to him what they cannot.

@@ -5,7 +5,7 @@ tags:
   - religion
   - storm
   - cult
-description: "Decentralized religious network of the Dunhara tribes — storm-shamans, weather-readers, and chosen vessels of the storm god Báhrámiš, whose authority crosses tribal boundaries and shapes the ritual life of every Dunhari camp."
+description: "Decentralized religious network of the Dunhara tribes—storm-shamans, weather-readers, and chosen vessels of the storm god Báhrámiš, whose authority crosses tribal boundaries and shapes the ritual life of every Dunhari camp."
 name:
   full: The Storm Cults of Báhrámiš
   aliases:
@@ -34,14 +34,14 @@ data:
         title: Denounced
         lore: excmmnctrnk
         description: >-
-          Formally denounced before the lineages — for falsifying a reading, or for claiming
+          Formally denounced before the lineages—for falsifying a reading, or for claiming
           vesselhood the Council has not conferred. No lineage will train them and no camp of
           consequence will seat them.
       - level: 1
         title: Pîravân
         lore: layfaithfulrnk
         description: >-
-          "Followers" — the Dunhari at large, who keep the observances, bring their births,
+          "Followers"—the Dunhari at large, who keep the observances, bring their births,
           marriages and dead to the resident practitioner, and read no weather themselves.
       - level: 2
         title: Shâgerd
@@ -67,7 +67,7 @@ data:
         title: Vessel
         lore: sprtspkrrnk
         description: >-
-          One in whom Báhrámiš is held to speak directly — recognized only by the assembled senior
+          One in whom Báhrámiš is held to speak directly—recognized only by the assembled senior
           elders, binding on all five lineages until withdrawn for cause. A vessel's authority
           crosses tribal lines, overrides a chieftain on religious matters, and can summon warriors
           to a cause the chieftains have not endorsed.
@@ -79,27 +79,27 @@ data:
         Senior elder of one lineage and a member of the Council of Elders, which deliberates on
         what affects all five.
       Bâdkhwân: >-
-        Wind-Reader — divinatory specialist who reads the wind for omens and the subtler signs of
+        Wind-Reader—divinatory specialist who reads the wind for omens and the subtler signs of
         the god's mood. The largest lineage.
       Bârân-âvar: >-
-        Rain-Caller — conducts the great rain-rituals at the season-turns and the emergency rites
+        Rain-Caller—conducts the great rain-rituals at the season-turns and the emergency rites
         in drought. The most ritually elaborate lineage.
       Sang-zad: >-
-        Lightning-Marked — touched directly by the god, usually by vision or prophetic seizure and
+        Lightning-Marked—touched directly by the god, usually by vision or prophetic seizure and
         rarely by literal lightning, in which case the survivor's standing is exceptional. The
         smallest lineage and the most prestigious.
       Tufân-row: >-
-        Storm-Walker — walks into storms to read them from within, and reads the great seasonal
+        Storm-Walker—walks into storms to read them from within, and reads the great seasonal
         weather-systems. Demanding and dangerous.
       Sokhan-bar: >-
-        Voice-Bearer — orator and reciter, carrying the standing repertoire of myth, hymn and
+        Voice-Bearer—orator and reciter, carrying the standing repertoire of myth, hymn and
         ritual formula, and training apprentices in it.
       Camp Practitioner: >-
         The resident wind-reader or rain-caller seated in every Dunhari encampment of consequence,
         who conducts its births, deaths, marriages and war-rituals.
       Keeper of the Marked Stones: >-
         Holds, between gatherings, the marked stones by which the Warrior's Circle chooses its
-        Voice of the Quarter — a small function of real constitutional weight.
+        Voice of the Quarter—a small function of real constitutional weight.
   commonSkills:
     - bahramis
   seat: null
@@ -116,17 +116,17 @@ data:
     dunhartrbs: aligned
 ---
 
-_Dunhari: Bahârâmî-Pîravân — "the Followers of Báhrámiš"_
+_Dunhari: Bahârâmî-Pîravân—"the Followers of Báhrámiš"_
 
 - **Type:** Decentralized religious organization (multiple semi-autonomous lineages)
-- **Patron:** Báhrámiš — Dunhari god of the storm, the wind that crosses tribal borders, the rain that decides the year's grass, and the lightning that marks the gods' approval
-- **Region:** [[affiliation-dunhartrbs|The Dunhara Tribes]] — present in every Dunhari encampment of significance, with the great gathering-shrine at the Stone of Ranâz (shared with the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]])
+- **Patron:** Báhrámiš—Dunhari god of the storm, the wind that crosses tribal borders, the rain that decides the year's grass, and the lightning that marks the gods' approval
+- **Region:** [[affiliation-dunhartrbs|The Dunhara Tribes]]—present in every Dunhari encampment of significance, with the great gathering-shrine at the Stone of Ranâz (shared with the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]])
 
 ## Overview
 
 Among the Dunhara tribes, the storm is the most consequential fact of life. The arrival of a season's rain decides whether the grass will hold, whether the herds will fatten, whether the wells will refill, whether the year will be one of stability or of the slow tribal movements that follow drought. The storm is also the most direct testimony of the gods' attention to the world: the lightning strike that splits a tree near a chieftain's tent is a verdict; the squall that turns aside a raiding party is a judgment; the long thunder that walks across the steppe in the dry months is a god's voice making itself heard.
 
-The Storm Cults are the religious framework through which the Dunhari interpret and respond to this testimony. They are not a single institution. They are a network of related lineages of shamanic practice, each focused on a particular aspect of Báhrámiš's nature — the wind-readers, the rain-callers, the lightning-marked, the storm-walkers — each centered on a particular tradition of training and ritual, each with its own elders and its own apprenticeship lines. What unites them is the shared devotion to Báhrámiš, the shared body of myth, and the shared institutional functions: the cults provide the ritual framework for tribal life, conduct the initiations and the funerals, interpret the weather for tribal council and warband alike, and (most consequentially) recognize the _vessels_ — the men and women in whom Báhrámiš is held to speak directly.
+The Storm Cults are the religious framework through which the Dunhari interpret and respond to this testimony. They are not a single institution. They are a network of related lineages of shamanic practice, each focused on a particular aspect of Báhrámiš's nature—the wind-readers, the rain-callers, the lightning-marked, the storm-walkers—each centered on a particular tradition of training and ritual, each with its own elders and its own apprenticeship lines. What unites them is the shared devotion to Báhrámiš, the shared body of myth, and the shared institutional functions: the cults provide the ritual framework for tribal life, conduct the initiations and the funerals, interpret the weather for tribal council and warband alike, and (most consequentially) recognize the _vessels_—the men and women in whom Báhrámiš is held to speak directly.
 
 The recognition of vessels is the cults' most politically charged function. A recognized vessel of Báhrámiš commands authority that crosses tribal lines, that overrides chieftains' rulings on religious matters, that can summon warriors to causes the chieftains have not endorsed. The cults are jealous of the recognition and reserve it for those whose pattern of weather-craft, personal conduct, and prophetic accuracy has, over years, accumulated to a level the senior shamans cannot ignore. The recognition is, in practice, conferred by the assent of the gathered senior shamans at the Stone of Ranâz; the assent is, by tradition, treated as binding on all the lineages.
 
@@ -134,27 +134,27 @@ The recognition of vessels is the cults' most politically charged function. A re
 
 The Storm Cults recognize five working lineages, each focused on a distinct practice:
 
-- **The Wind-Readers** (_Bâdkhwân_) — divinatory specialists; read the wind for omens, predict weather, interpret the more subtle signs of Báhrámiš's mood. The largest lineage by membership.
-- **The Rain-Callers** (_Bârân-âvar_) — propitiatory specialists; conduct the great rain-rituals at the season-turns and the emergency rituals during drought. The most ritually elaborate lineage.
-- **The Lightning-Marked** (_Sang-zad_) — initiates who have, by the cults' criteria, been touched directly by Báhrámiš's lightning (usually figuratively, by visions or prophetic seizure; rarely literally, in which case the survivor's status is exceptional). The smallest lineage and the most prestigious.
-- **The Storm-Walkers** (_Tufân-row_) — physical practitioners; walk into the storms to interpret them from within; specialty includes the reading of the great seasonal weather-systems. A demanding and dangerous practice.
-- **The Voice-Bearers** (_Sokhan-bar_) — orators and reciters; carry the cults' standing repertoire of myth, hymn, and ritual formula; train the apprentices in textual matters.
+- **The Wind-Readers** (_Bâdkhwân_)—divinatory specialists; read the wind for omens, predict weather, interpret the more subtle signs of Báhrámiš's mood. The largest lineage by membership.
+- **The Rain-Callers** (_Bârân-âvar_)—propitiatory specialists; conduct the great rain-rituals at the season-turns and the emergency rituals during drought. The most ritually elaborate lineage.
+- **The Lightning-Marked** (_Sang-zad_)—initiates who have, by the cults' criteria, been touched directly by Báhrámiš's lightning (usually figuratively, by visions or prophetic seizure; rarely literally, in which case the survivor's status is exceptional). The smallest lineage and the most prestigious.
+- **The Storm-Walkers** (_Tufân-row_)—physical practitioners; walk into the storms to interpret them from within; specialty includes the reading of the great seasonal weather-systems. A demanding and dangerous practice.
+- **The Voice-Bearers** (_Sokhan-bar_)—orators and reciters; carry the cults' standing repertoire of myth, hymn, and ritual formula; train the apprentices in textual matters.
 
-Each lineage has its own internal hierarchy: apprentice (_shâgerd_), recognized practitioner (_pîr_), senior elder (_sar-pîr_). Cross-lineage gatherings occur at the season-turns at the Stone of Ranâz, where the **Council of Elders** (the assembled senior elders of all five lineages) deliberates on matters affecting the cults as a whole — most importantly, the recognition of vessels.
+Each lineage has its own internal hierarchy: apprentice (_shâgerd_), recognized practitioner (_pîr_), senior elder (_sar-pîr_). Cross-lineage gatherings occur at the season-turns at the Stone of Ranâz, where the **Council of Elders** (the assembled senior elders of all five lineages) deliberates on matters affecting the cults as a whole—most importantly, the recognition of vessels.
 
 ## Notable Members
 
-- **[[being-shadzrkmrz|Shâdezar Kamrûz]]** — currently the most prominent recognized vessel; the Storm Cults regard him as a chosen vessel of Báhrámiš and his counsel carries weight beyond his standing in the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]. The cults defer to his interpretation of religious matters on which the Council of Elders has not specifically ruled.
-- **Sar-pîr Razâshar of the Wind-Readers** — current senior elder of the largest lineage; presides at most Council of Elders gatherings.
-- **Sar-pîr Mehrava of the Lightning-Marked** — the smallest lineage's elder; a woman of extraordinary personal authority whose prophetic accuracy is the source of significant inter-cult tension when her readings conflict with the other lineages'.
+- **[[being-shadzrkmrz|Shâdezar Kamrûz]]**—currently the most prominent recognized vessel; the Storm Cults regard him as a chosen vessel of Báhrámiš and his counsel carries weight beyond his standing in the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]. The cults defer to his interpretation of religious matters on which the Council of Elders has not specifically ruled.
+- **Sar-pîr Razâshar of the Wind-Readers**—current senior elder of the largest lineage; presides at most Council of Elders gatherings.
+- **Sar-pîr Mehrava of the Lightning-Marked**—the smallest lineage's elder; a woman of extraordinary personal authority whose prophetic accuracy is the source of significant inter-cult tension when her readings conflict with the other lineages'.
 
 ## Doctrine and Practice
 
 The cults hold three principles in common across the lineages:
 
-- **The Storm Speaks** — that Báhrámiš makes his judgments known through weather, and that the trained shaman's vocation is to read those judgments accurately and convey them to the tribes. Misreading is the most serious shamanic failure; falsifying a reading is among the most serious offenses the cults recognize.
-- **The Vessel Recognized** — that direct vesselhood is rare, real, and consequential; that the recognition of a vessel is conferred only by the assembled senior elders; that recognition is binding on all the lineages until withdrawn for cause.
-- **The Cult Crosses the Line** — that the storm crosses tribal borders, and that the cults likewise do not respect tribal boundaries. A shaman of one lineage is welcome at any tribe's fires; a recognized vessel may move freely across the whole of Dunhari territory under cult protection.
+- **The Storm Speaks**—that Báhrámiš makes his judgments known through weather, and that the trained shaman's vocation is to read those judgments accurately and convey them to the tribes. Misreading is the most serious shamanic failure; falsifying a reading is among the most serious offenses the cults recognize.
+- **The Vessel Recognized**—that direct vesselhood is rare, real, and consequential; that the recognition of a vessel is conferred only by the assembled senior elders; that recognition is binding on all the lineages until withdrawn for cause.
+- **The Cult Crosses the Line**—that the storm crosses tribal borders, and that the cults likewise do not respect tribal boundaries. A shaman of one lineage is welcome at any tribe's fires; a recognized vessel may move freely across the whole of Dunhari territory under cult protection.
 
 The cults do not impose theological orthodoxy. The five lineages disagree, sometimes substantially, on questions of doctrine, ritual procedure, and the interpretation of specific phenomena; the disagreements are accommodated through the Council of Elders' deliberations and through the consensus that emerges (or fails to emerge) at the seasonal gatherings.
 
@@ -163,15 +163,15 @@ The cults do not impose theological orthodoxy. The five lineages disagree, somet
 - **Ritual life of the tribes.** Every Dunhari encampment of consequence hosts a resident cult practitioner (typically a wind-reader or rain-caller); larger camps host practitioners of several lineages. Births, deaths, marriages, war-rituals, and seasonal observances all involve cult participation.
 - **Weather forecasting.** The cults' practical service to the tribes is the reading of weather for tribal council and warband alike. Chieftains routinely consult cult practitioners before committing to movements that depend on weather conditions.
 - **Vessel recognition.** Convened by the Council of Elders at the Stone of Ranâz; the most politically consequential of the cults' acts.
-- **Custody of the marked stones.** The cults keep, between Warrior's Circle meetings, the marked stones used to choose the Voice of the Quarter at the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] gatherings — a small but constitutionally significant function.
+- **Custody of the marked stones.** The cults keep, between Warrior's Circle meetings, the marked stones used to choose the Voice of the Quarter at the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] gatherings—a small but constitutionally significant function.
 - **Suppression of heresy.** The cults are vigilant against rival storm-religions (a perennial concern at the Khazryn border, where the Khazryn Confederation's own storm-worship has, on occasion, attempted to make Dunhari converts) and against individual practitioners who claim vesselhood without Council recognition.
 
 ## Relations
 
-- **The Khans' Council** (the chieftains' political body) — the cults' principal political counterparty. The relationship is one of mutual dependence: the chieftains need the cults' ritual sanction; the cults need the chieftains' material support. Tensions arise when a chieftain's policy and a cult ruling come into direct conflict.
-- **The [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]** — interwoven, structurally and personally. Many Circle members are also cult initiates; the cults provide the ritual framework for the Circle's openings and closings; the cults hold custody of the marked stones. The relationship is mutually reinforcing.
-- **The Khazryn Confederation's storm-religion** — direct rival; the cults regard Khazryn storm-worship as a corrupt variant of the true Bahârâmî tradition and have, on occasion, organized formal denunciations of Khazryn shamans attempting to operate in Dunhari territory.
-- **Foreign faiths** — minimal engagement. The Aurèldían and Vylarian missionary efforts have not penetrated significantly into Dunhari country; where individual Dunhari have adopted foreign faiths, the cults have generally treated the conversions as private failures rather than as institutional threats.
+- **The Khans' Council** (the chieftains' political body)—the cults' principal political counterparty. The relationship is one of mutual dependence: the chieftains need the cults' ritual sanction; the cults need the chieftains' material support. Tensions arise when a chieftain's policy and a cult ruling come into direct conflict.
+- **The [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]**—interwoven, structurally and personally. Many Circle members are also cult initiates; the cults provide the ritual framework for the Circle's openings and closings; the cults hold custody of the marked stones. The relationship is mutually reinforcing.
+- **The Khazryn Confederation's storm-religion**—direct rival; the cults regard Khazryn storm-worship as a corrupt variant of the true Bahârâmî tradition and have, on occasion, organized formal denunciations of Khazryn shamans attempting to operate in Dunhari territory.
+- **Foreign faiths**—minimal engagement. The Aurèldían and Vylarian missionary efforts have not penetrated significantly into Dunhari country; where individual Dunhari have adopted foreign faiths, the cults have generally treated the conversions as private failures rather than as institutional threats.
 
 ## Identifying Marks
 

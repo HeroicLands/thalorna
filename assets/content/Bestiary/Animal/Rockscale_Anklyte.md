@@ -397,7 +397,7 @@ sohl:
 
 ![[rcksclan|Rockscale Anklyte]]{float: top-left}
 
-The ground beneath your feet sends a warning first — a deep, subsonic vibration that you feel more than hear, resonating in your chest and bones. The creature rises slowly from the terrain it was indistinguishable from moments before, its rough, stone-like scales shedding dust and gravel as it shifts its massive weight. The eyes open — a dim, faintly luminescent red that seems to glow from within the skull — and fix upon you with an unsettling awareness. The air itself seems to thicken as the creature's presence expands, and you catch the acrid smell of something sulfurous and mineral, ancient and wrong. A low growl emerges, and the ground trembles in response.
+The ground beneath your feet sends a warning first—a deep, subsonic vibration that you feel more than hear, resonating in your chest and bones. The creature rises slowly from the terrain it was indistinguishable from moments before, its rough, stone-like scales shedding dust and gravel as it shifts its massive weight. The eyes open—a dim, faintly luminescent red that seems to glow from within the skull—and fix upon you with an unsettling awareness. The air itself seems to thicken as the creature's presence expands, and you catch the acrid smell of something sulfurous and mineral, ancient and wrong. A low growl emerges, and the ground trembles in response.
 
 # Dossier {#dossier}
 
@@ -405,7 +405,7 @@ The Rockscale Anklyte is a massive quadrupedal herbivore reaching 10-12 feet in 
 
 ## Presentation
 
-The Rockscale Anklyte presents a squat, powerful form covered entirely in rough, stone-like scales that blend so effectively with rocky terrain that the creature becomes nearly invisible when still. The scales are various shades of gray and brown with occasional lighter striations that mimic natural rock patterning. The head is small relative to body size, with a narrow snout suitable for browsing vegetation and small, forward-facing eyes that glow with a faint red luminescence. The eyes appear almost intelligent despite their beady appearance, suggesting an awareness that belies the creature's herbivorous nature. The body is barrel-shaped and massive, supported by four sturdy legs that allow surprisingly quick movement despite the weight. The tail is the most distinctive feature — thick at the base and tapering to a heavy, clubbed end that appears capable of serious impact. The body is marked by faint ridges and protrusions that run along the spine and flanks, enhancing both the armored appearance and actual protective capability.
+The Rockscale Anklyte presents a squat, powerful form covered entirely in rough, stone-like scales that blend so effectively with rocky terrain that the creature becomes nearly invisible when still. The scales are various shades of gray and brown with occasional lighter striations that mimic natural rock patterning. The head is small relative to body size, with a narrow snout suitable for browsing vegetation and small, forward-facing eyes that glow with a faint red luminescence. The eyes appear almost intelligent despite their beady appearance, suggesting an awareness that belies the creature's herbivorous nature. The body is barrel-shaped and massive, supported by four sturdy legs that allow surprisingly quick movement despite the weight. The tail is the most distinctive feature—thick at the base and tapering to a heavy, clubbed end that appears capable of serious impact. The body is marked by faint ridges and protrusions that run along the spine and flanks, enhancing both the armored appearance and actual protective capability.
 
 ## Key Behaviors
 
@@ -413,7 +413,7 @@ Anklytes are herbivorous but intensely territorial, maintaining exclusive grazin
 
 ## Combat Strategy
 
-The anklyte's combat strategy is direct and effective — the creature charges at threats with surprising speed for its mass, attempting to ram and knock opponents off their feet. Once an opponent is down or vulnerable, the anklyte uses its tail as a primary weapon, swinging the heavy club in wide arcs designed to crush and incapacitate. The creature uses terrain to advantage, charging downhill to increase impact and positioning itself to prevent escape. An enraged anklyte becomes almost uncontrollable, attacking with relentless force until the threat is neutralized or the anklyte itself is critically injured.
+The anklyte's combat strategy is direct and effective—the creature charges at threats with surprising speed for its mass, attempting to ram and knock opponents off their feet. Once an opponent is down or vulnerable, the anklyte uses its tail as a primary weapon, swinging the heavy club in wide arcs designed to crush and incapacitate. The creature uses terrain to advantage, charging downhill to increase impact and positioning itself to prevent escape. An enraged anklyte becomes almost uncontrollable, attacking with relentless force until the threat is neutralized or the anklyte itself is critically injured.
 
 ## Attack Methods
 

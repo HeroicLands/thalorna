@@ -45,7 +45,7 @@ Tarvéni employs a rich inventory of consonants with strong distinctions between
 
 **Stress and Accent:** Stress is marked through increased loudness and vowel lengthening. The stress pattern varies lexically (not fixed by position like Vylari): some words are inherently stressed on the first syllable (RÁN-zi-o), others on the final (fer-RÍK). Dialect variation is most apparent in stress assignment.
 
-**Distinctive Features:** Tarvéni speakers trill their /r/ sounds, and this feature is associated with educated speech and formal contexts. The language permits complex consonant clusters at word boundaries and internal positions, making it sound more consonant-heavy than Vylari or Provenzal. A glottal stop — the catch in the middle of "uh-oh" — marks emphasis or separation between words in formal speech.
+**Distinctive Features:** Tarvéni speakers trill their /r/ sounds, and this feature is associated with educated speech and formal contexts. The language permits complex consonant clusters at word boundaries and internal positions, making it sound more consonant-heavy than Vylari or Provenzal. A glottal stop—the catch in the middle of "uh-oh"—marks emphasis or separation between words in formal speech.
 
 ## Grammar Notes
 
@@ -63,7 +63,7 @@ Tarvéni employs a rich inventory of consonants with strong distinctions between
 
 Tarvéni employs the [[skill-semrnscrpt|Sêmarion]], the same alphabet as Vylari and Provenzal, though regional scribal traditions have developed distinctive features. The southern kingdoms favor rounder letterforms, while the more austere northern regions use angular, geometric styles.
 
-True literacy is confined to the clergy, professional scribes, and a minority of the nobility (perhaps 10-20%) — many Tarvénan lords consider reading a scribe's business, not a warrior's. Guildsmen in the coastal trading centers may possess basic functional literacy — recognizing trade marks, numerals, and simple words — but rely on scribes and solicitors for contracts and legal documents. Inland and rural populations are almost entirely non-literate. The Tarvénan cultural emphasis on poetry and epic tradition means that non-literate speakers preserve extensive oral literature through memorization and performance.
+True literacy is confined to the clergy, professional scribes, and a minority of the nobility (perhaps 10-20%)—many Tarvénan lords consider reading a scribe's business, not a warrior's. Guildsmen in the coastal trading centers may possess basic functional literacy—recognizing trade marks, numerals, and simple words—but rely on scribes and solicitors for contracts and legal documents. Inland and rural populations are almost entirely non-literate. The Tarvénan cultural emphasis on poetry and epic tradition means that non-literate speakers preserve extensive oral literature through memorization and performance.
 
 ## Historical Development
 
@@ -77,17 +77,17 @@ The political fragmentation of Tarvénia into competing kingdoms prevented the l
 
 **Léonrik Tarvéni:** The dialect of the fertile central-southern lowlands, showing the most regular grammar and widest vocabulary. Tends toward clear vowel articulation and careful consonant distinction. Often treated as the closest thing to a "standard" Tarvéni, though no kingdom would admit it.
 
-**Galvári Tarvéni:** The western coastal dialect, shaped by seafaring life and contact with maritime trade. Shows unique phonetic developments — vowel reduction in unstressed syllables, softened consonant clusters — and some vocabulary divergence from inland speech. Speakers of other Tarvénan dialects find this variant noticeably different.
+**Galvári Tarvéni:** The western coastal dialect, shaped by seafaring life and contact with maritime trade. Shows unique phonetic developments—vowel reduction in unstressed syllables, softened consonant clusters—and some vocabulary divergence from inland speech. Speakers of other Tarvénan dialects find this variant noticeably different.
 
 **Valthári Tarvéni:** The speech of the great southern port city, showing greater Provenzal and maritime influence than any other dialect. Lenient consonant articulation and heavy borrowing from trade languages make it the most accessible variant to outsiders, and the most common lingua franca between Tarvénan regions.
 
 ## Sample Phrases
 
-- **"Hónrik vókath dun kórath drengáken."** — "Hónrik speaks with a warrior's heart." (A compliment implying authenticity and strength; _vókath_ "speaks," _dun_ "with," _kórath_ "heart," _drengáken_ genitive of _drengáko_ "warrior.")
-- **"Prá grándhen ek prá thérrath!"** — "For honor and for the land!" (Battle cry or oath; _prá_ "for," _grándhen_ acc. of _grándh_ "honor," _ek_ "and," _thérrath_ acc. of _thérrá_ "land.")
-- **"Kóthren méro, ath prèdhen ést enthráth nós."** — "My brother, peace is between us." (Formal reconciliation or alliance; _kóthren_ "brother," _méro_ possessive, _prèdhen_ "peace," _enthráth_ "between.")
-- **"Dón ést ath vérath?"** — "Where is the truth?" (Philosophical question, also used ironically; _dón_ "where," _vérath_ "truth.")
-- **"Ath kávren thórren dáth ath vílkrath nóstren gárevárren."** — "The river runs like the blood of our ancestors." (Poetic usage connecting land to people; _kávren_ "river," _thórren_ "runs," _vílkrath_ "blood," _gárevárren_ "ancestors.")
+- **"Hónrik vókath dun kórath drengáken."**—"Hónrik speaks with a warrior's heart." (A compliment implying authenticity and strength; _vókath_ "speaks," _dun_ "with," _kórath_ "heart," _drengáken_ genitive of _drengáko_ "warrior.")
+- **"Prá grándhen ek prá thérrath!"**—"For honor and for the land!" (Battle cry or oath; _prá_ "for," _grándhen_ acc. of _grándh_ "honor," _ek_ "and," _thérrath_ acc. of _thérrá_ "land.")
+- **"Kóthren méro, ath prèdhen ést enthráth nós."**—"My brother, peace is between us." (Formal reconciliation or alliance; _kóthren_ "brother," _méro_ possessive, _prèdhen_ "peace," _enthráth_ "between.")
+- **"Dón ést ath vérath?"**—"Where is the truth?" (Philosophical question, also used ironically; _dón_ "where," _vérath_ "truth.")
+- **"Ath kávren thórren dáth ath vílkrath nóstren gárevárren."**—"The river runs like the blood of our ancestors." (Poetic usage connecting land to people; _kávren_ "river," _thórren_ "runs," _vílkrath_ "blood," _gárevárren_ "ancestors.")
 
 ## Related Languages
 

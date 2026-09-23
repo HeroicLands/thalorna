@@ -24,5 +24,5 @@ Saltholm is one of [[affiliation-provincvld|Vald]]'s four principal fishing town
 
 ## See Also
 
-- [[affiliation-provincvld|Province of Vald]] — Parent province
-- [[affiliation-vylarinmpr|Vylarian Empire]] — Imperial overview
+- [[affiliation-provincvld|Province of Vald]]—Parent province
+- [[affiliation-vylarinmpr|Vylarian Empire]]—Imperial overview

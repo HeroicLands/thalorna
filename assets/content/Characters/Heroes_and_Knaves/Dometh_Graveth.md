@@ -641,7 +641,7 @@ A deeper motivation underlies this: Dómeth builds ships because they are perman
 
 - **Economic Fragility**: His refusal to accept lower-quality commissions leaves him vulnerable to periods of drought, and his income is perpetually uncertain in an era of faster, cheaper production.
 - **Inflexible Quality Standards**: His inability to compromise even when circumstances demand it has lost him major commissions and left him unable to adapt to changing market realities.
-- **Interpersonal Isolation**: His distance from human connection and inability to engage in political or social manoeuvring has left him without powerful patrons or allies in the Shipwrights' Guild.
+- **Interpersonal Isolation**: His distance from human connection and inability to engage in political or social maneuvering has left him without powerful patrons or allies in the Shipwrights' Guild.
 - **Age and Declining Capacity**: Physical decline has begun to manifest—his hands occasionally tremble, his stamina has diminished, and he is acutely aware that his working life is entering its final chapter.
 - **Unwillingness to Delegate**: His insistence on personally overseeing all critical work has limited his output and created dangerous bottlenecks in his production.
 

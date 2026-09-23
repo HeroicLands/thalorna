@@ -24,5 +24,5 @@ Stennvold is a high mining-and-smelting town of the Mokturan heights, its furnac
 
 ## See Also
 
-- [[affiliation-provncmktr|Province of Moktur]] — Parent province
-- [[affiliation-vylarinmpr|Vylarian Empire]] — Imperial overview
+- [[affiliation-provncmktr|Province of Moktur]]—Parent province
+- [[affiliation-vylarinmpr|Vylarian Empire]]—Imperial overview

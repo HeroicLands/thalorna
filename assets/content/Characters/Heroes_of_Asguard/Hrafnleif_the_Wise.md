@@ -527,17 +527,17 @@ Hrafnleif stands 6'1" with a heavy, slightly stooped frame, weighing around 215 
 
 Hrafnleif was born under a sky darkened by ravens, a sign that Ódinn himself was watching over his birth. As a child, he displayed an insatiable curiosity, often wandering far from his village to explore ancient ruins and forgotten forests. He claimed to hear the whispers of Huginn and Muninn in the wind, guiding him to hidden knowledge and lost lore. By the time he reached adulthood, Hrafnleif had become a renowned seer and runemaster, his wisdom sought by kings and warriors alike.
 
-The most famous saga of Hrafnleif the Wise tells of the time he was called upon to save his people from an impending war. Two powerful jarls were on the brink of battle, their armies ready to clash, when Hrafnleif, guided by Ódinn's ravens, discovered an ancient rune that foretold the doom of both kingdoms if they went to war. With this knowledge, Hrafnleif ventured into the heart of the enemy camp alone, using his mastery of runes to weave illusions and speak directly to the jarl's fears and ambitions. He revealed the prophecy, convincing both leaders to lay down their arms and unite against a common enemy — a monstrous jotunn that threatened their lands. Hrafnleif's wisdom not only averted war but forged an alliance that saved countless lives, forever earning him the favor of Ódinn.
+The most famous saga of Hrafnleif the Wise tells of the time he was called upon to save his people from an impending war. Two powerful jarls were on the brink of battle, their armies ready to clash, when Hrafnleif, guided by Ódinn's ravens, discovered an ancient rune that foretold the doom of both kingdoms if they went to war. With this knowledge, Hrafnleif ventured into the heart of the enemy camp alone, using his mastery of runes to weave illusions and speak directly to the jarl's fears and ambitions. He revealed the prophecy, convincing both leaders to lay down their arms and unite against a common enemy—a monstrous jotunn that threatened their lands. Hrafnleif's wisdom not only averted war but forged an alliance that saved countless lives, forever earning him the favor of Ódinn.
 
 ## Psyche
 
 ### Personality
 
-Hrafnleif is contemplative and measured, speaking only when his words carry weight. He possesses a dry wit that surfaces unexpectedly, and his long silences can unsettle those who mistake stillness for inattention. He is deeply patient, willing to sit with a problem for days before acting. Though he projects calm authority, he struggles with the burden of foresight — knowing what may come yet being unable to prevent all suffering. He treats knowledge as sacred and hoards secrets not from greed but from the conviction that truth revealed too early can be as destructive as any blade.
+Hrafnleif is contemplative and measured, speaking only when his words carry weight. He possesses a dry wit that surfaces unexpectedly, and his long silences can unsettle those who mistake stillness for inattention. He is deeply patient, willing to sit with a problem for days before acting. Though he projects calm authority, he struggles with the burden of foresight—knowing what may come yet being unable to prevent all suffering. He treats knowledge as sacred and hoards secrets not from greed but from the conviction that truth revealed too early can be as destructive as any blade.
 
 ### Motivation
 
-Hrafnleif seeks to preserve the accumulated wisdom of the northern peoples and to avert catastrophes before they unfold. He fears that the old lore is dying as younger generations turn from the runes, and he quietly searches for an apprentice worthy of inheriting his knowledge. Beneath his scholarly exterior lies a deep longing to understand the will of Ódinn — whether the god truly speaks to him, or whether his visions are merely the projections of an old man's hopes.
+Hrafnleif seeks to preserve the accumulated wisdom of the northern peoples and to avert catastrophes before they unfold. He fears that the old lore is dying as younger generations turn from the runes, and he quietly searches for an apprentice worthy of inheriting his knowledge. Beneath his scholarly exterior lies a deep longing to understand the will of Ódinn—whether the god truly speaks to him, or whether his visions are merely the projections of an old man's hopes.
 
 ### Strengths
 
@@ -549,22 +549,22 @@ Hrafnleif's runic mastery is unmatched in the northern lands; he can read omens 
 
 ### Patrons
 
-**Jarl Ulfric of Stormsfjord** — A cautious ruler who relies on Hrafnleif's counsel before making any major decision. Ulfric provides Hrafnleif with shelter, resources, and access to his court in exchange for guidance on matters of war and diplomacy.
+**Jarl Ulfric of Stormsfjord**—A cautious ruler who relies on Hrafnleif's counsel before making any major decision. Ulfric provides Hrafnleif with shelter, resources, and access to his court in exchange for guidance on matters of war and diplomacy.
 
-**The Raven Circle** — A secretive fellowship of runemasters and seers scattered across the northern realms who share forbidden knowledge through coded messages carved into waymarker stones.
+**The Raven Circle**—A secretive fellowship of runemasters and seers scattered across the northern realms who share forbidden knowledge through coded messages carved into waymarker stones.
 
 ### Enemies
 
-**Grimvald Iron-Eye** — A rival seer who claims Hrafnleif is a fraud and that his prophecies are fabrications designed to manipulate jarls. Grimvald has placed bounties on Hrafnleif's head among mercenary bands.
+**Grimvald Iron-Eye**—A rival seer who claims Hrafnleif is a fraud and that his prophecies are fabrications designed to manipulate jarls. Grimvald has placed bounties on Hrafnleif's head among mercenary bands.
 
-**The Quaesitorium Arcanum** — The Ordo Arcanis enforcement arm has taken an interest in Hrafnleif's runic practices, viewing his unsanctioned magic as a potential threat to their monopoly on arcane knowledge.
+**The Quaesitorium Arcanum**—The Ordo Arcanis enforcement arm has taken an interest in Hrafnleif's runic practices, viewing his unsanctioned magic as a potential threat to their monopoly on arcane knowledge.
 
 ## Plot Hooks
 
-1. **The Shattered Rune** — Hrafnleif has discovered fragments of an ancient rune that, when assembled, could reveal the location of Ódinn's lost eye. Rival factions — including Grimvald Iron-Eye and agents of the Ordo Arcanis — are also hunting the fragments. The party must help Hrafnleif recover the pieces before they fall into the wrong hands.
+1. **The Shattered Rune**—Hrafnleif has discovered fragments of an ancient rune that, when assembled, could reveal the location of Ódinn's lost eye. Rival factions—including Grimvald Iron-Eye and agents of the Ordo Arcanis—are also hunting the fragments. The party must help Hrafnleif recover the pieces before they fall into the wrong hands.
 
-2. **The Silent Ravens** — Huginn and Muninn have gone silent. Hrafnleif can no longer hear their whispers and fears something terrible has happened in the spirit realm. He needs companions to journey to the World Tree's roots and investigate what has disrupted the ravens' flight.
+2. **The Silent Ravens**—Huginn and Muninn have gone silent. Hrafnleif can no longer hear their whispers and fears something terrible has happened in the spirit realm. He needs companions to journey to the World Tree's roots and investigate what has disrupted the ravens' flight.
 
-3. **The Jarl's Dilemma** — Jarl Ulfric's son has been accused of murder, and the evidence is damning. Ulfric begs Hrafnleif to use his sight to uncover the truth, but what Hrafnleif sees in the runes implicates someone far more dangerous than anyone suspected.
+3. **The Jarl's Dilemma**—Jarl Ulfric's son has been accused of murder, and the evidence is damning. Ulfric begs Hrafnleif to use his sight to uncover the truth, but what Hrafnleif sees in the runes implicates someone far more dangerous than anyone suspected.
 
-4. **The Apprentice's Betrayal** — A former student of Hrafnleif has begun using corrupted runes to enslave the minds of villagers. Hrafnleif must confront his own failure as a teacher while stopping the apprentice before the corruption spreads.
+4. **The Apprentice's Betrayal**—A former student of Hrafnleif has begun using corrupted runes to enslave the minds of villagers. Hrafnleif must confront his own failure as a teacher while stopping the apprentice before the corruption spreads.

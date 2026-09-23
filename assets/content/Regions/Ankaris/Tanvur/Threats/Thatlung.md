@@ -34,7 +34,7 @@ The imperial government is in a difficult position. While there is sympathy for 
 
 ### See Also
 
-- [[lore-dreadspawn|Dreadspawn]] — Another supernatural threat facing the empire
-- [[lore-flksinale|Sinalë]] — The elder race bearing the brunt of this threat
-- [[lore-flkkhazar|Khazári]] — The deep folk fighting to contain the creatures
-- [[affiliation-tanvurempr|Empire of Tānvür]] — The empire's response to the crisis
+- [[lore-dreadspawn|Dreadspawn]]—Another supernatural threat facing the empire
+- [[lore-flksinale|Sinalë]]—The elder race bearing the brunt of this threat
+- [[lore-flkkhazar|Khazári]]—The deep folk fighting to contain the creatures
+- [[affiliation-tanvurempr|Empire of Tānvür]]—The empire's response to the crisis

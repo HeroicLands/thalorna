@@ -28,7 +28,7 @@ The town's patron saint is Aelion, a half-legendary Élavendren hero said to hav
 
 ## See Also
 
-- [[affiliation-kngdmlvndr|Kingdom of Élavendre]] — Regional overview
-- [[skill-elvndrlng|Élavendri]] — Naming tradition
-- [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Western religious tradition
-- [[lore-flksinale|Sinalë]] — The Elder Elves
+- [[affiliation-kngdmlvndr|Kingdom of Élavendre]]—Regional overview
+- [[skill-elvndrlng|Élavendri]]—Naming tradition
+- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—Western religious tradition
+- [[lore-flksinale|Sinalë]]—The Elder Elves

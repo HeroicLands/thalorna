@@ -2,7 +2,7 @@
 tags:
   - history
   - spine
-description: "From 5274 BF to 2427 BF the Sinalë and the Khazári hold a shared accord across much of Thalorna, and make together what neither people can make alone — until the day Khazártúrn falls."
+description: "From 5274 BF to 2427 BF the Sinalë and the Khazári hold a shared accord across much of Thalorna, and make together what neither people can make alone—until the day Khazártúrn falls."
 type: lore
 subType: history
 name:
@@ -50,7 +50,7 @@ event:
       - place: place-hallowwood
         how: >-
           the god of dreams is kept here in a rite that was once held in common with the Deep Folk,
-          and the two traditions have diverged so far that neither would recognise the other's
+          and the two traditions have diverged so far that neither would recognize the other's
         knowledge: named
   who:
     - ref: lore-flksinale
@@ -92,13 +92,13 @@ What it produced is the part the world can still touch. The Sinalë had the livi
 intangible; the Khazári had stone and metal and the enduring; and the fragments describe structures
 that blended living wood with shaped stone and artifacts that married Sinalëan enchantment to
 Khazárian craft. Humans meet these as ruins and as priceless curiosities from an age before
-humanity, and cannot reproduce either half of one. They are not usually recognised as the work of two
+humanity, and cannot reproduce either half of one. They are not usually recognized as the work of two
 hands.
 
 It reached further than craft. Both peoples worshipped [[lore-goddreams|the god of dreams]] together, or at least in
-parallel, under the accord's terms — and when the accord shattered, the shared worship shattered with
+parallel, under the accord's terms—and when the accord shattered, the shared worship shattered with
 it. The two traditions have diverged so completely since that whether the Sinalë's
-Lúminarë and the Khazári's Khaldûr would recognise each other's rites is an
+Lúminarë and the Khazári's Khaldûr would recognize each other's rites is an
 open question, and one neither race has any interest in answering.
 
 The end is not gradual. It is [[lore-fallkhazturn|the Fall of Khazártúrn]], and the two events are

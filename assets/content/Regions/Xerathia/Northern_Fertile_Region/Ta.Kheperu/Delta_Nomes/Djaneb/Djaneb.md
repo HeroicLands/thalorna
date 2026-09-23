@@ -24,7 +24,7 @@ Djaneb is the capital of [[affiliation-nomedjaneb|the Nome of Djaneb]] and the s
 
 ## See Also
 
-- [[affiliation-nomedjaneb|The Nome of Djaneb]] — Parent nome
-- [[affiliation-deltanomes|The Delta Nomes]] — Nome-class
-- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — Imperial overview
-- [[affiliation-hapi|Hápi]] — Patron cult
+- [[affiliation-nomedjaneb|The Nome of Djaneb]]—Parent nome
+- [[affiliation-deltanomes|The Delta Nomes]]—Nome-class
+- [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]—Imperial overview
+- [[affiliation-hapi|Hápi]]—Patron cult

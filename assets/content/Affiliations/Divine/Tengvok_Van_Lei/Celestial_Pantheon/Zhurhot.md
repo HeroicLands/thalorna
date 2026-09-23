@@ -43,8 +43,8 @@ data:
         title: Copyist
         lore: apprenticernk
         description: >-
-          Under training in a temple — copying forms, learning the seals and the calendrical
-          schedules — and not yet permitted to file anything on another's behalf.
+          Under training in a temple—copying forms, learning the seals and the calendrical
+          schedules—and not yet permitted to file anything on another's behalf.
       - level: 3
         title: Clerk
         lore: clerkrnk
@@ -81,7 +81,9 @@ data:
         Tëng Güng of the Höt Sëi, whose power is the authority of the office and not of their
         person, and who may be promoted, demoted, reassigned or dismissed.
       Zātkür: >-
-        The Hearth Monitor — a household spirit assigned to every family, who observes daily conduct and files annual reports to the Ministry of Final Account. Families make offerings to Zātkür not out of devotion but to ensure favourable reports.
+        The Hearth Monitor—a household spirit assigned to every family, who observes daily conduct
+        and files annual reports to the Ministry of Final Account. Families make offerings to Zātkür
+        not out of devotion but to ensure favorable reports.
       Dākhöt Vōr: >-
         Wildfire Spirits, the enforcement arm for fire-related punitive action.
       Chief Intendant: >-
@@ -123,7 +125,7 @@ data:
 packFolder: celestialpantheon
 ---
 
-## Zhürhöt — The Minister of Fire
+## Zhürhöt—The Minister of Fire
 
 - **Bureau:** Höt Sëi, The Bureau of Transformation
 - **Domain:** Fire
@@ -144,11 +146,11 @@ observations on which every moral ledger is built.
 
 ### Lesser Spirits
 
-- **Zātkür** — The Hearth Monitor — a household spirit assigned to every family, who observes daily conduct and files annual reports to the Ministry of Final Account. Families make offerings to Zātkür not out of devotion but to ensure favourable reports.
-- **Dākhöt Vōr** — Wildfire Spirits, the enforcement arm for fire-related punitive action.
+- **Zātkür**—The Hearth Monitor—a household spirit assigned to every family, who observes daily conduct and files annual reports to the Ministry of Final Account. Families make offerings to Zātkür not out of devotion but to ensure favorable reports.
+- **Dākhöt Vōr**—Wildfire Spirits, the enforcement arm for fire-related punitive action.
 
 ### See Also
 
-- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — the Celestial Bureaucracy this bureau belongs to
-- [[affiliation-tanvurempr|Empire of Tānvür]] — the mortal realm it administers
-- [[skill-tngthkscrpt|Tëng Thōk Script]] — the writing every petition is made in
+- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]]—the Celestial Bureaucracy this bureau belongs to
+- [[affiliation-tanvurempr|Empire of Tānvür]]—the mortal realm it administers
+- [[skill-tngthkscrpt|Tëng Thōk Script]]—the writing every petition is made in

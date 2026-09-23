@@ -41,18 +41,18 @@ The language reflects its mercantile character: it is pragmatic, efficient, and 
 
 Byzarian's vowel inventory is simplified compared to Helonic, with a tendency toward shorter, more clipped articulation:
 
-- **a** — short and open, brighter than Helonic
-- **â** — a long, open "ah"
-- **e** — short, as in "bet"
-- **ê** — a long "eh", as in "fête"
-- **i** — short, as in "bit"
-- **î** — a long "ee", as in "machine"
-- **o** — short, as in "for"
-- **ô** — a long "oh", as in "note"
-- **u** — short, as in "put"
-- **û** — a long "oo", as in "boot"
+- **a**—short and open, brighter than Helonic
+- **â**—a long, open "ah"
+- **e**—short, as in "bet"
+- **ê**—a long "eh", as in "fête"
+- **i**—short, as in "bit"
+- **î**—a long "ee", as in "machine"
+- **o**—short, as in "for"
+- **ô**—a long "oh", as in "note"
+- **u**—short, as in "put"
+- **û**—a long "oo", as in "boot"
 
-The distinctive feature is the _schwa_ — the flat, unstressed "a" of "about" — borrowed from eastern languages and used in rapid speech to weaken unstressed syllables. This is less common in formal speech but pervasive in bazaar dialect and practical contexts. Diphthongs are less ornamental than in Helonic; -ai, -ei, and -oi tend toward monophthongization in rapid speech (becoming a plain "e", "i" and "u" respectively).
+The distinctive feature is the _schwa_—the flat, unstressed "a" of "about"—borrowed from eastern languages and used in rapid speech to weaken unstressed syllables. This is less common in formal speech but pervasive in bazaar dialect and practical contexts. Diphthongs are less ornamental than in Helonic; -ai, -ei, and -oi tend toward monophthongization in rapid speech (becoming a plain "e", "i" and "u" respectively).
 
 ### Consonant System
 
@@ -62,11 +62,11 @@ Byzarian maintains the Helonic consonant base but with significant eastern modif
 
 **Eastern additions and modifications:**
 
-- **kh** — a throaty rasp, as in Scottish "loch" (stronger, more frequent than in Helonic)
-- **gh** — a voiced throaty rasp, softer than a hard "g" (present but less common)
-- **z** — as in "zeal" (from eastern languages, used for plurals and grammatical marking)
-- **zh** — the "s" of "measure" (eastern loanword marker)
-- **tch** — the "ch" of "church" (from eastern languages, rare but distinctly Byzarian)
+- **kh**—a throaty rasp, as in Scottish "loch" (stronger, more frequent than in Helonic)
+- **gh**—a voiced throaty rasp, softer than a hard "g" (present but less common)
+- **z**—as in "zeal" (from eastern languages, used for plurals and grammatical marking)
+- **zh**—the "s" of "measure" (eastern loanword marker)
+- **tch**—the "ch" of "church" (from eastern languages, rare but distinctly Byzarian)
 
 The most notable feature: **explosive release of stops**. The -k and -t stops are articulated with stronger release, making Byzarian speech sound crisper and more percussive than Helonic. This is the single most recognizable phonetic marker of Byzarian.
 
@@ -78,9 +78,9 @@ Byzarian employs primarily **word-stress accent** rather than pitch accent. The 
 
 Characteristic patterns:
 
-- _Chrysandáhr_ (CHRY-san-DAHR) — stress on the final syllable (eastern influence)
-- _Theodaríza_ (theo-dar-EE-za) — stress on penultimate with secondary stress shifted
-- _Basilkâra_ (ba-SIL-kah-ra) — compressed penultimate stress
+- _Chrysandáhr_ (CHRY-san-DAHR)—stress on the final syllable (eastern influence)
+- _Theodaríza_ (theo-dar-EE-za)—stress on penultimate with secondary stress shifted
+- _Basilkâra_ (ba-SIL-kah-ra)—compressed penultimate stress
 
 ## Grammar Notes
 
@@ -109,20 +109,20 @@ Many Helonic case functions are now expressed through **prepositions** borrowed 
 
 These examples use vocabulary inherited from [[skill-helonclng|Helonic]] (see Core Vocabulary), showing Byzarian simplification.
 
-- **Ath pólithar ésharikê ên Byzarion** — "The city is in Byzaría" (_pólithar_ nom. fem., _ésharin_ + locative particle _-kê_, _ên_ + dat.)
-- **Ash émpharin parádharin khrémashîn** — "The merchant delivers goods" (_émpharin_ nom., _parádharin_ 1st sing., _khrémashîn_ acc.)
-- **Thîs phótamiroi phérantir dhía athîn ghéranîn** — "Rivers are borne through the earth" (_phótamiroi_ nom. pl., _phérantir_ 3rd pl. pass. from _phéranin_, _ghéranîn_ acc. from _ghéranîs_)
+- **Ath pólithar ésharikê ên Byzarion**—"The city is in Byzaría" (_pólithar_ nom. fem., _ésharin_ + locative particle _-kê_, _ên_ + dat.)
+- **Ash émpharin parádharin khrémashîn**—"The merchant delivers goods" (_émpharin_ nom., _parádharin_ 1st sing., _khrémashîn_ acc.)
+- **Thîs phótamiroi phérantir dhía athîn ghéranîn**—"Rivers are borne through the earth" (_phótamiroi_ nom. pl., _phérantir_ 3rd pl. pass. from _phéranin_, _ghéranîn_ acc. from _ghéranîs_)
 
 ## Script and Literacy
 
-Byzarian is written in the [[skill-helnkscrpt|Helónika]] — the Helonic alphabet, adapted with additional letters for eastern sounds:
+Byzarian is written in the [[skill-helnkscrpt|Helónika]]—the Helonic alphabet, adapted with additional letters for eastern sounds:
 
 - **Helonic base:** The core 24-letter Helonic alphabet, with simplified vowel distinctions (6 vowels retained from the original 7)
 - **Byzarian additions for eastern sounds:** Additional letters for zh, kh variants, and diacritics for vowel length
 
 In practical written contexts, Byzarian employs **diacritical marks** above vowels to indicate length and stress, though formal writing sometimes omits them. Commercial documents developed their own abbreviated script for speed—a "cursive Byzarian" that is rapid to write but often incomprehensible to the untrained.
 
-**Literacy:** True Byzarian literacy is rare outside the nobility, the clergy, and the professional scribe class. Perhaps 30-50% of the Byzarian nobility can read, and most noble households retain a scribe or secretary for daily correspondence. Merchant guildsmen often possess functional literacy — enough to recognize common trade marks, numerals, and their own sigil — but rely on hired scribes and solicitors for contracts, ledgers, and legal documents. The presence of scribe-houses in major cities (Temnos, Kephala) has standardized written Byzarian, though most citizens encounter the written word only through public criers and posted proclamations read aloud. Among educated Byzarians who can read, facility in both Byzarian and Helonic is expected; Helonic remains the prestige language for formal documents and published scholarship.
+**Literacy:** True Byzarian literacy is rare outside the nobility, the clergy, and the professional scribe class. Perhaps 30-50% of the Byzarian nobility can read, and most noble households retain a scribe or secretary for daily correspondence. Merchant guildsmen often possess functional literacy—enough to recognize common trade marks, numerals, and their own sigil—but rely on hired scribes and solicitors for contracts, ledgers, and legal documents. The presence of scribe-houses in major cities (Temnos, Kephala) has standardized written Byzarian, though most citizens encounter the written word only through public criers and posted proclamations read aloud. Among educated Byzarians who can read, facility in both Byzarian and Helonic is expected; Helonic remains the prestige language for formal documents and published scholarship.
 
 ## Historical Development
 
@@ -147,19 +147,19 @@ Byzarian shows more dialectal variation than Helonic, reflecting its hybrid natu
 
 All phrases draw from the shared [[skill-helonclng|Helonic]] core vocabulary, with Byzarian simplification and eastern loanwords.
 
-- **Émphôria halîron euthálir esh** — "Eastern goods are profitable" (merchant maxim; _émphôria_ from Hel. _émphôria_, _euthálir_ from Hel. lexicon, verb-final order from eastern influence)
-- **Pára phótamir, pântha rhéshir** — "By the rivers, all flows" (_pára_ + dat. from Hel., _phótamir_ from Hel. _phótamir_, _pântha_ from Hel. _pâsh_, _rhéshir_ from Hel. _rhésharin_)
-- **Khrýsharin máthiron esh** — "Gold is metal" (_khrýsharin_ and _máthiron_ from Hel., _esh_ simplified from Hel. _ésharin_)
-- **Mi danîzh, kérdhanir mâ** — "Don't lend; there's no profit" (eastern negation _mi_ supplements inherited Hel. _mâ_, _danîzh_ from Hel. _danîzharin_, _kérdhanir_ from Hel.)
-- **Shýn émpharin, sáphir kérdhanir** — "With the merchant, profit is clear" (_shýn_ + acc. from Hel., _sáphir_ and _kérdhanir_ from Hel.)
+- **Émphôria halîron euthálir esh**—"Eastern goods are profitable" (merchant maxim; _émphôria_ from Hel. _émphôria_, _euthálir_ from Hel. lexicon, verb-final order from eastern influence)
+- **Pára phótamir, pântha rhéshir**—"By the rivers, all flows" (_pára_ + dat. from Hel., _phótamir_ from Hel. _phótamir_, _pântha_ from Hel. _pâsh_, _rhéshir_ from Hel. _rhésharin_)
+- **Khrýsharin máthiron esh**—"Gold is metal" (_khrýsharin_ and _máthiron_ from Hel., _esh_ simplified from Hel. _ésharin_)
+- **Mi danîzh, kérdhanir mâ**—"Don't lend; there's no profit" (eastern negation _mi_ supplements inherited Hel. _mâ_, _danîzh_ from Hel. _danîzharin_, _kérdhanir_ from Hel.)
+- **Shýn émpharin, sáphir kérdhanir**—"With the merchant, profit is clear" (_shýn_ + acc. from Hel., _sáphir_ and _kérdhanir_ from Hel.)
 
 ## Related Languages
 
 Byzarian is a hybrid member of the **Helonic language family**, intermediate between:
 
-- **Helonic** — Its grammatical ancestor; Byzarian retains the SVO word order, case system (simplified), and core vocabulary
-- **Bethuan** — A distinct Helonic relative that evolved differently, retaining more ancient phonetic features but developing a unique register system
-- **Eastern languages** (Dunhari, Vedyari, Haradi) — Sources of vocabulary, phonetic patterns, and some structural features
+- **Helonic**—Its grammatical ancestor; Byzarian retains the SVO word order, case system (simplified), and core vocabulary
+- **Bethuan**—A distinct Helonic relative that evolved differently, retaining more ancient phonetic features but developing a unique register system
+- **Eastern languages** (Dunhari, Vedyari, Haradi)—Sources of vocabulary, phonetic patterns, and some structural features
 
 Educated speakers of all three Helonic-family languages can communicate with minimal difficulty; monolingual speakers may struggle with Byzarian's rapid speech and compressed phonetics.
 
@@ -175,10 +175,10 @@ The tradition of **patronymic/matronymic suffixes** is used formally: "Theodaras
 
 The suffix system reflects layers of history:
 
-- **-opoulos** (descendant of) — pure Helonic
-- **-zade** (born of) — pure eastern
-- **-ikos, -akis** — Byzarian adaptations
-- **-idês, -ídes** — mixed forms
+- **-opoulos** (descendant of)—pure Helonic
+- **-zade** (born of)—pure eastern
+- **-ikos, -akis**—Byzarian adaptations
+- **-idês, -ídes**—mixed forms
 
 ## Name Lists
 

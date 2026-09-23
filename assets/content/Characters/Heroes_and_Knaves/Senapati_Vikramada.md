@@ -669,7 +669,7 @@ More personally, he seeks to leave a legacy of trained sailors and officers who 
 
 ### Strengths
 
-- **Crew Mastery**: Has an unequalled ability to read a crew, assess individual capabilities, and organize people into cohesive, effective units that function even under extreme stress.
+- **Crew Mastery**: Has an unequaled ability to read a crew, assess individual capabilities, and organize people into cohesive, effective units that function even under extreme stress.
 - **Deck Expertise**: Thorough knowledge of every aspect of sailing, ship maintenance, and the working of a ship. Can diagnose problems and set them right with minimal consultation.
 - **Crisis Management**: In emergency situations, his calm clarity and immediate grasp of priorities make him indispensable. When disaster strikes, people instinctively look to him for direction.
 - **Training and Mentoring**: Can take green sailors and transform them into competent seamen through rigorous but fair training suited to each one's capability.

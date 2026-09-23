@@ -23,12 +23,12 @@ sohl:
 packFolder: cash
 ---
 
-The **suvarṇa** is gold, struck at [[affiliation-chandrapur|Chandrapur]] and reckoned at sixteen [[miscgear-candra|candra]] — a hundred and twenty-eight [[miscgear-tamra|tāmra]]. Its metal is bought at Suvarṇagiri's public Weighing rather than mined by the Moon House itself, so every suvarṇa struck is a coin the [[affiliation-mrchntclctvvdyr|Merchant Collective]] can trace to a specific month's weighed extraction, though the coin carries nothing of that record on its own face.
+The **suvarṇa** is gold, struck at [[affiliation-chandrapur|Chandrapur]] and reckoned at sixteen [[miscgear-candra|candra]]—a hundred and twenty-eight [[miscgear-tamra|tāmra]]. Its metal is bought at Suvarṇagiri's public Weighing rather than mined by the Moon House itself, so every suvarṇa struck is a coin the [[affiliation-mrchntclctvvdyr|Merchant Collective]] can trace to a specific month's weighed extraction, though the coin carries nothing of that record on its own face.
 
 It settles land, dowries and a kingdom's tribute rather than a market stall's trade. A trader who produces one for an ordinary purchase draws the kind of attention a produced weapon would, and most Vedyarans outside a court or a great trading house never hold one at all.
 
 ## See Also
 
-- **[[lore-vdyrnbnkng|Vedyaran Banking]]** — the currency's place in the Collective's system
-- **Suvarṇagiri** — the Weighing, where the gold is bought
-- **[[affiliation-chandrapur|Chandrapur]]** — the coin's mint
+- **[[lore-vdyrnbnkng|Vedyaran Banking]]**—the currency's place in the Collective's system
+- **Suvarṇagiri**—the Weighing, where the gold is bought
+- **[[affiliation-chandrapur|Chandrapur]]**—the coin's mint

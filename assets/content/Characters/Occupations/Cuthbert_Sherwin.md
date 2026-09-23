@@ -553,9 +553,9 @@ Cuthbert Sherwin is a 52-year-old man who stands 5'11" tall and is broad and sol
 
 # Dossier {#dossier}
 
-Cuthbert Sherwin is a woodcutter of Thornbury, the harbour seat of the Republic of Tarvenne in [[place-aelwyth|Aelwyth]], an Aelwythan freeman who has cut timber in the woods behind the town for thirty-five years and planted more trees than he has felled.
+Cuthbert Sherwin is a woodcutter of Thornbury, the harbor seat of the Republic of Tarvenne in [[place-aelwyth|Aelwyth]], an Aelwythan freeman who has cut timber in the woods behind the town for thirty-five years and planted more trees than he has felled.
 
-The harbour at Thornbury is the busiest thing in the republic, and its carrying trade eats timber: hulls, masts, wharf-piling, warehouse frames. Cuthbert has supplied it since he was a boy, working the oak and ash on the slopes above the town, first for his father's crew and then for his own. He replants every stand he clears with saplings from his own nursery, on the reasoning that his father's wood fed him and his own should feed somebody, and he will not use the two-man saws that came in from Vylaria a decade ago, which are faster, more dangerous, and leave a stump that will not coppice. Half the younger cutters in Thornbury learned their axe from him, and most of them have since bought a saw, which he takes personally.
+The harbor at Thornbury is the busiest thing in the republic, and its carrying trade eats timber: hulls, masts, wharf-piling, warehouse frames. Cuthbert has supplied it since he was a boy, working the oak and ash on the slopes above the town, first for his father's crew and then for his own. He replants every stand he clears with saplings from his own nursery, on the reasoning that his father's wood fed him and his own should feed somebody, and he will not use the two-man saws that came in from Vylaria a decade ago, which are faster, more dangerous, and leave a stump that will not coppice. Half the younger cutters in Thornbury learned their axe from him, and most of them have since bought a saw, which he takes personally.
 
 He is a known figure among the woodcutters of Aelwyth, the old man with the saplings.
 
@@ -581,7 +581,7 @@ Cuthbert is a member of the Woodcutters' Guild of Thornbury and has been its war
 
 ### Patrons
 
-Cuthbert's patrons are the shipwrights and wharf-builders of Thornbury harbour, who pay a little over the rate for Sherwin oak because it is seasoned honestly and comes from a wood that will still be there for the next keel.
+Cuthbert's patrons are the shipwrights and wharf-builders of Thornbury harbor, who pay a little over the rate for Sherwin oak because it is seasoned honestly and comes from a wood that will still be there for the next keel.
 
 ### Enemies
 
@@ -589,10 +589,10 @@ The cutting crews that work by contract for the senators' timber-factors, who cl
 
 ## Plot Hooks
 
-1. **The Senator's Wood** — A senator has bought the slope Cuthbert has worked and replanted for twenty years and let it to a contract crew to clear for the harbour. The saplings are his by nobody's law but his own.
+1. **The Senator's Wood**—A senator has bought the slope Cuthbert has worked and replanted for twenty years and let it to a contract crew to clear for the harbor. The saplings are his by nobody's law but his own.
 
-2. **The Boy and the Saw** — One of the young cutters Cuthbert trained has lost a hand to a Vylarian saw on a contract crew, and the crew's master says the boy was careless. Cuthbert says the saw was, and the guild has been asked to rule.
+2. **The Boy and the Saw**—One of the young cutters Cuthbert trained has lost a hand to a Vylarian saw on a contract crew, and the crew's master says the boy was careless. Cuthbert says the saw was, and the guild has been asked to rule.
 
-3. **Planting on Another Man's Ground** — Cuthbert has been setting saplings for years on a cleared slope that belongs to a family in the senate, without asking. The family has noticed.
+3. **Planting on Another Man's Ground**—Cuthbert has been setting saplings for years on a cleared slope that belongs to a family in the senate, without asking. The family has noticed.
 
-4. **The Guild Vote** — The Woodcutters' Guild is to vote on admitting the two-man saw to its standard, which would let the contract crews take guild apprentices. Cuthbert is the senior man against it.
+4. **The Guild Vote**—The Woodcutters' Guild is to vote on admitting the two-man saw to its standard, which would let the contract crews take guild apprentices. Cuthbert is the senior man against it.

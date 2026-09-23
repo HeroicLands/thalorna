@@ -522,23 +522,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Mörkvidr stands 5'10" with a gaunt, wasted frame that belies the terrible power coiled within. In undeath, his pale skin has become translucent, showing the dark veins that web beneath like cracks in old parchment. His black hair hangs lank and lifeless past his shoulders, and his black eyes are fathomless voids that seem to absorb the light around them. His features are sharp and cadaverous — sunken cheeks, a thin hooked nose, bloodless lips drawn tight over teeth, and brows like slashes of charcoal. A chill emanates from his presence that no cloak can ward against, and plants wilt visibly when he passes. Mörkvidr wears robes of black and deep violet, trimmed with silver thread that traces necromantic sigils. The corrupted Heart of Judgment hangs from a chain at his chest, pulsing with a sickly light. His hands, once a scholar's, are now tipped with nails grown long and dark as talons.
+Mörkvidr stands 5'10" with a gaunt, wasted frame that belies the terrible power coiled within. In undeath, his pale skin has become translucent, showing the dark veins that web beneath like cracks in old parchment. His black hair hangs lank and lifeless past his shoulders, and his black eyes are fathomless voids that seem to absorb the light around them. His features are sharp and cadaverous—sunken cheeks, a thin hooked nose, bloodless lips drawn tight over teeth, and brows like slashes of charcoal. A chill emanates from his presence that no cloak can ward against, and plants wilt visibly when he passes. Mörkvidr wears robes of black and deep violet, trimmed with silver thread that traces necromantic sigils. The corrupted Heart of Judgment hangs from a chain at his chest, pulsing with a sickly light. His hands, once a scholar's, are now tipped with nails grown long and dark as talons.
 
 # Dossier {#dossier}
 
-Mörkvidr was once a powerful and malevolent human sorcerer dedicated to Hél, feared across the lands for his mastery of dark magic. Obsessed with the secrets of death, he delved into forbidden rituals, sacrificing countless innocents in his quest for power. His cruelty knew no bounds, and his name became synonymous with terror. Mörkvidr's ultimate goal was to transcend mortality itself. Hél offered him a chance to become one of her favored servants — a Nightwight, a [[being-tereb|tereb]] in the learned word — in return for his immortal soul. Mörkvidr eagerly accepted, embracing his new existence as a Helspawn sorcerer with even greater powers.
+Mörkvidr was once a powerful and malevolent human sorcerer dedicated to Hél, feared across the lands for his mastery of dark magic. Obsessed with the secrets of death, he delved into forbidden rituals, sacrificing countless innocents in his quest for power. His cruelty knew no bounds, and his name became synonymous with terror. Mörkvidr's ultimate goal was to transcend mortality itself. Hél offered him a chance to become one of her favored servants—a Nightwight, a [[being-tereb|tereb]] in the learned word—in return for his immortal soul. Mörkvidr eagerly accepted, embracing his new existence as a Helspawn sorcerer with even greater powers.
 
-The most infamous saga of Mörkvidr the Deathmage recounts his assault on a grand temple of Týr. Hél, desiring to undermine Týr's influence, tasked Mörkvidr with retrieving the Heart of Judgment, a relic said to discern and destroy evil. Mörkvidr created an army of Hélthralls — mindless Helspawn soldiers — and descended upon the temple under cover of night. The priests of Týr fought valiantly but were no match for Mörkvidr's necromantic powers. He confronted the High Priest, bound him in chains of shadow, desecrated the Heart of Judgment, and made the High Priest into the lowest of his Hélthralls, leaving the temple in ruins.
+The most infamous saga of Mörkvidr the Deathmage recounts his assault on a grand temple of Týr. Hél, desiring to undermine Týr's influence, tasked Mörkvidr with retrieving the Heart of Judgment, a relic said to discern and destroy evil. Mörkvidr created an army of Hélthralls—mindless Helspawn soldiers—and descended upon the temple under cover of night. The priests of Týr fought valiantly but were no match for Mörkvidr's necromantic powers. He confronted the High Priest, bound him in chains of shadow, desecrated the Heart of Judgment, and made the High Priest into the lowest of his Hélthralls, leaving the temple in ruins.
 
 ## Psyche
 
 ### Personality
 
-Mörkvidr is cold, calculating, and utterly without remorse. He views living beings as raw materials and dead ones as tools, and this utilitarian cruelty extends to his own followers, whom he considers expendable. He is intellectually brilliant and takes genuine pleasure in the elegance of a well-executed plan, though his definition of elegance includes acts of staggering cruelty. The one vestige of his former humanity is a fascination with beautiful objects — he collects art, jewelry, and fine craftsmanship, perhaps the last echo of the man he once was.
+Mörkvidr is cold, calculating, and utterly without remorse. He views living beings as raw materials and dead ones as tools, and this utilitarian cruelty extends to his own followers, whom he considers expendable. He is intellectually brilliant and takes genuine pleasure in the elegance of a well-executed plan, though his definition of elegance includes acts of staggering cruelty. The one vestige of his former humanity is a fascination with beautiful objects—he collects art, jewelry, and fine craftsmanship, perhaps the last echo of the man he once was.
 
 ### Motivation
 
-Mörkvidr seeks complete dominion over death itself, answering to no one — not even Hél. His service to the goddess is a means to an end; he gathers power and knowledge with the ultimate goal of transcending even undeath and becoming something entirely new. He is driven by a bottomless hunger for power and the conviction that mortality was a prison he has escaped only partially.
+Mörkvidr seeks complete dominion over death itself, answering to no one—not even Hél. His service to the goddess is a means to an end; he gathers power and knowledge with the ultimate goal of transcending even undeath and becoming something entirely new. He is driven by a bottomless hunger for power and the conviction that mortality was a prison he has escaped only partially.
 
 ### Strengths
 
@@ -550,22 +550,22 @@ Mörkvidr's necromantic powers are staggering: he can raise armies of the dead, 
 
 ### Patrons
 
-**Hél herself** — The goddess of the underworld considers Mörkvidr her most effective mortal agent, though she is well aware of his ambitions. She provides him with dark power and commands while keeping a watchful eye on his loyalty.
+**Hél herself**—The goddess of the underworld considers Mörkvidr her most effective mortal agent, though she is well aware of his ambitions. She provides him with dark power and commands while keeping a watchful eye on his loyalty.
 
-**The Nightwight Council** — A cabal of Helspawn lords who serve Hél and recognize Mörkvidr as their most powerful member. They provide him with Helspawn servants and intelligence.
+**The Nightwight Council**—A cabal of Helspawn lords who serve Hél and recognize Mörkvidr as their most powerful member. They provide him with Helspawn servants and intelligence.
 
 ### Enemies
 
-**The Temple of Týr** — The entire faith of Týr has sworn to destroy Mörkvidr for the desecration of their temple. Their finest warriors and most powerful blessings are dedicated to this purpose.
+**The Temple of Týr**—The entire faith of Týr has sworn to destroy Mörkvidr for the desecration of their temple. Their finest warriors and most powerful blessings are dedicated to this purpose.
 
-**The Sinalë of Laurelossë** — The Sinalë whose sanctuary was later devastated by Gríma under Mörkvidr's indirect influence seek to eliminate all of Hél's champions.
+**The Sinalë of Laurelossë**—The Sinalë whose sanctuary was later devastated by Gríma under Mörkvidr's indirect influence seek to eliminate all of Hél's champions.
 
-**Sigvardr One-Hand** — The champion of Týr views Mörkvidr as his ultimate quarry and has sworn a personal oath to bring the necromancer to justice.
+**Sigvardr One-Hand**—The champion of Týr views Mörkvidr as his ultimate quarry and has sworn a personal oath to bring the necromancer to justice.
 
 ## Plot Hooks
 
-1. **The Dark Resurrection** — Mörkvidr is attempting to raise an ancient dragon from death to serve as his ultimate weapon. The ritual requires components scattered across the northern lands, and agents of Týr race to destroy them before Mörkvidr can collect them all.
+1. **The Dark Resurrection**—Mörkvidr is attempting to raise an ancient dragon from death to serve as his ultimate weapon. The ritual requires components scattered across the northern lands, and agents of Týr race to destroy them before Mörkvidr can collect them all.
 
-2. **The Heart of Judgment** — The corrupted relic still contains a spark of its original divine power. A vision suggests that if it can be reclaimed and purified, it could be the key to destroying Mörkvidr permanently.
+2. **The Heart of Judgment**—The corrupted relic still contains a spark of its original divine power. A vision suggests that if it can be reclaimed and purified, it could be the key to destroying Mörkvidr permanently.
 
-3. **Nightwight Civil War** — Mörkvidr's ambition has drawn the suspicion of other Nightwight lords, who fear he plans to usurp Hél's authority. A power struggle among the Helspawn could be exploited — or could make things far worse.
+3. **Nightwight Civil War**—Mörkvidr's ambition has drawn the suspicion of other Nightwight lords, who fear he plans to usurp Hél's authority. A power struggle among the Helspawn could be exploited—or could make things far worse.

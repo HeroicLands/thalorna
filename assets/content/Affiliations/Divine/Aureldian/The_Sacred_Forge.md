@@ -28,7 +28,7 @@ data:
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out — denied the rites, the temple and the burial the faith promises, which is the one
+          Cast out—denied the rites, the temple and the burial the faith promises, which is the one
           sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
@@ -74,16 +74,16 @@ data:
 packFolder: pantheonsaureldian
 ---
 
-- **Deity:** Vúlcan — _The Forge-Lord_
+- **Deity:** Vúlcan—_The Forge-Lord_
 - **Domain:** Fire (creative aspect)
 - **Symbol:** A radiant anvil beneath a sheltering flame.
 - **Pantheon:** [[affiliation-arldnpnthn|Aurèldián Pantheon]]
 
-The Sacred Forge represents Vúlcan's creative aspect: craftsmanship, transformation, illumination, and protection. Its priests are smiths, builders, and knights-errant who defend the faithful. Fire is sacred not as a weapon but as a tool — the forge-fire that shapes raw metal into something useful, the hearth-fire that warms a home, the beacon-fire that guides travelers to safety. The Sacred Forge is the established, mainstream Vúlcani faith in most of western Ankaris and is politically favored in Provènzia.
+The Sacred Forge represents Vúlcan's creative aspect: craftsmanship, transformation, illumination, and protection. Its priests are smiths, builders, and knights-errant who defend the faithful. Fire is sacred not as a weapon but as a tool—the forge-fire that shapes raw metal into something useful, the hearth-fire that warms a home, the beacon-fire that guides travelers to safety. The Sacred Forge is the established, mainstream Vúlcani faith in most of western Ankaris and is politically favored in Provènzia.
 
 ## Worship
 
-The worship of the Sacred Forge centers on reverence for the creative power of fire and the sacred craft of metalworking. The temples of the Sacred Forge are built around actual forges — great stone hearths where the sacred fires burn continuously, day and night, year after year. Some of these forges have burned for centuries, their flames passed from generation to generation of priests, and to let such a flame die out is considered a catastrophe of cosmic significance.
+The worship of the Sacred Forge centers on reverence for the creative power of fire and the sacred craft of metalworking. The temples of the Sacred Forge are built around actual forges—great stone hearths where the sacred fires burn continuously, day and night, year after year. Some of these forges have burned for centuries, their flames passed from generation to generation of priests, and to let such a flame die out is considered a catastrophe of cosmic significance.
 
 The central liturgical practice is the Blessing of the Anvil. When a new forge is established—whether a smithy, an armory, a foundry, or a smithcraft workshop—a priest of the Sacred Forge performs an elaborate consecration. The ceremony involves the lighting of the forge fire, the inscribing of protective prayers around the anvil's base, and the offering of the first object to be forged in the new space. This object is always given to the temple and becomes part of the sacred treasury, a tangible record of the forge's sanctification and proof of Vúlcan's blessing upon the craftspeople who will work there.
 

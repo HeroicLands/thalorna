@@ -3,7 +3,7 @@ tags:
   - pass
   - caravan
   - inland
-description: "The sixth crossing — no fortress, no toll, no shrine and no blessing; the road the Ösket keep between the two western doors and take a lowlander over blindfold."
+description: "The sixth crossing—no fortress, no toll, no shrine and no blessing; the road the Ösket keep between the two western doors and take a lowlander over blindfold."
 type: place
 subType: feature
 data:
@@ -24,7 +24,7 @@ packFolder: vedyara
 
 There are six crossings of the wall. Five are blessed, tolled, recorded and argued over. The sixth is **the Guides' Road**, which lies somewhere between [[place-meghadvara|Meghadvāra]] and [[place-suryadvara|Sūryadvāra]], and about which those four verbs are all false.
 
-No fortress stands on it. No toll is taken. No [[place-pssshrines|Pass-Shrine]] blesses it, and none ever has. It is not on any register at [[place-suryagarha|Sūryāgarha]], no customs-house has ever weighed a bale that went over it, and the [[affiliation-vindhyalay|Vindhyan]] crown's formal position is that the road does not exist — a position the crown has held, without amendment, through three reigns in which its own wardens have known perfectly well that it does.
+No fortress stands on it. No toll is taken. No [[place-pssshrines|Pass-Shrine]] blesses it, and none ever has. It is not on any register at [[place-suryagarha|Sūryāgarha]], no customs-house has ever weighed a bale that went over it, and the [[affiliation-vindhyalay|Vindhyan]] crown's formal position is that the road does not exist—a position the crown has held, without amendment, through three reigns in which its own wardens have known perfectly well that it does.
 
 ## Who Goes Over It
 

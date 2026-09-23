@@ -590,12 +590,12 @@ Few; he is generally respected, though some see him as overly serious.
 
 ## Plot Hooks
 
-1. **The Common Seaman's Dilemma** — A captain offers Tavíro the voyage to distant lands he has dreamed of, and the cargo in her hold is not one an honest seaman would carry.
+1. **The Common Seaman's Dilemma**—A captain offers Tavíro the voyage to distant lands he has dreamed of, and the cargo in her hold is not one an honest seaman would carry.
 
-2. **Old Grudges** — A shipmate who took Tavíro's seriousness for contempt has been telling captains not to hire him.
+2. **Old Grudges**—A shipmate who took Tavíro's seriousness for contempt has been telling captains not to hire him.
 
-3. **Echoes of the Past** — A captain Tavíro sailed under as a boy is back in port, and wants him back on his crew.
+3. **Echoes of the Past**—A captain Tavíro sailed under as a boy is back in port, and wants him back on his crew.
 
-4. **Shifting Winds** — Political change in Tarvénia threatens the port trade Tavíro's berths depend on, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Tarvénia threatens the port trade Tavíro's berths depend on, and he can adapt, resist, or leave.
 
-5. **The Opportunity** — A merchant offers Tavíro a mate's berth on a ship bound for distant lands, and the crew he would command are not men who want him over them.
+5. **The Opportunity**—A merchant offers Tavíro a mate's berth on a ship bound for distant lands, and the crew he would command are not men who want him over them.

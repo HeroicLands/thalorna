@@ -24,5 +24,5 @@ Granaria is the chief grain-market of central [[affiliation-provnchyln|Hylen]], 
 
 ## See Also
 
-- [[affiliation-provnchyln|Province of Hylen]] — Parent province
-- [[affiliation-vylarinmpr|Vylarian Empire]] — Imperial overview
+- [[affiliation-provnchyln|Province of Hylen]]—Parent province
+- [[affiliation-vylarinmpr|Vylarian Empire]]—Imperial overview
