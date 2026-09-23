@@ -25,11 +25,11 @@ The Vedyaran banking system is the monetary and credit infrastructure operated b
 
 ## The Three Coins
 
-| Coin                              | Metal  | Struck by                                                                                                   | Common use                                                 | Conversion |
-| --------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
-| **[[miscgear-suvarna\|Suvarṇa]]** | Gold   | [[affiliation-chandrapur\|Chandrapur]], from [[place-suvarnagiri\|Suvarṇagiri]] gold bought at the Weighing | Land, dowries, tribute, the largest commercial settlements | 16 candra  |
-| **[[miscgear-candra\|Candra]]**   | Silver | The Moon House, at Chandrapur                                                                               | Ordinary formal commerce — contracts, tolls, rents         | 8 tāmra    |
-| **[[miscgear-tamra\|Tāmra]]**     | Copper | Every kingdom and city-state, independently                                                                 | Everyday trade — bread, wages, market change               | 1 tāmra    |
+| Coin                              | Metal  | Struck by                                                                            | Common use                                                 | Conversion |
+| --------------------------------- | ------ | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- | ---------- |
+| **[[miscgear-suvarna\|Suvarṇa]]** | Gold   | [[affiliation-chandrapur\|Chandrapur]], from Suvarṇagiri gold bought at the Weighing | Land, dowries, tribute, the largest commercial settlements | 16 candra  |
+| **[[miscgear-candra\|Candra]]**   | Silver | The Moon House, at Chandrapur                                                        | Ordinary formal commerce — contracts, tolls, rents         | 8 tāmra    |
+| **[[miscgear-tamra\|Tāmra]]**     | Copper | Every kingdom and city-state, independently                                          | Everyday trade — bread, wages, market change               | 1 tāmra    |
 
 A suvarṇa is therefore worth 128 tāmra. The tāmra's mint varies by court and its weight only approximately with it; ordinary trade does not distinguish a Chandrapur tāmra from a Dhanurkota one, and only a large settlement is weighed rather than counted.
 
