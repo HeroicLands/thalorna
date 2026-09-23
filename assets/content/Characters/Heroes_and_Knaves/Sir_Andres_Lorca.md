@@ -654,18 +654,10 @@ Though he has achieved much in his life, Sir Andrés feels that his work is far 
 
 ## Plot Hooks
 
-1. **The Bandit Warlord**:
+1. **The Bandit Warlord**: Rumors spread of a bandit leader uniting various outlaw factions under a single banner in the Western Marches. This growing threat to the realm’s borders forces Sir Andrés to lead a small contingent of knights into the untamed wilds. However, when he discovers that the warlord is a former knight cast out of the order for corruption, Sir Andrés faces a moral dilemma: bring the warlord to justice or offer him redemption to stem the bloodshed.
 
-   Rumors spread of a bandit leader uniting various outlaw factions under a single banner in the Western Marches. This growing threat to the realm’s borders forces Sir Andrés to lead a small contingent of knights into the untamed wilds. However, when he discovers that the warlord is a former knight cast out of the order for corruption, Sir Andrés faces a moral dilemma: bring the warlord to justice or offer him redemption to stem the bloodshed.
+2. **The Relic of Vigilance**: Sir Andrés is tasked with recovering a lost relic of his knightly order, the Silver Falcon Standard, believed to grant protection to the Western Marches. The relic was lost decades ago in a bloody battle and is now rumored to be held by a tribal chieftain who sees it as a symbol of his people’s resistance. Sir Andrés can negotiate with the chieftain, risking political trouble, or seize the relic through force, potentially inciting rebellion.
 
-2. **The Relic of Vigilance**:
+3. **The Betrayer’s Shield**: During a routine patrol, Sir Andrés uncovers evidence linking a respected noble family to recent raids on villages along the frontier. His investigation uncovers a conspiracy that ties the noble to foreign powers. Torn between loyalty to his king and his knightly code of honor, Sir Andrés must work through the court's intrigues to expose the truth and protect the realm without igniting a civil war.
 
-   Sir Andrés is tasked with recovering a lost relic of his knightly order, the Silver Falcon Standard, believed to grant protection to the Western Marches. The relic was lost decades ago in a bloody battle and is now rumored to be held by a tribal chieftain who sees it as a symbol of his people’s resistance. Sir Andrés can negotiate with the chieftain, risking political trouble, or seize the relic through force, potentially inciting rebellion.
-
-3. **The Betrayer’s Shield**:
-
-   During a routine patrol, Sir Andrés uncovers evidence linking a respected noble family to recent raids on villages along the frontier. His investigation uncovers a conspiracy that ties the noble to foreign powers. Torn between loyalty to his king and his knightly code of honor, Sir Andrés must work through the court's intrigues to expose the truth and protect the realm without igniting a civil war.
-
-4. **The March of the Undying**:
-
-   Strange reports of spectral knights terrorizing border villages reach Sir Andrés’s ears. The ghostly figures are said to be the spirits of soldiers who fell in the Western Marches long ago. As Sir Andrés investigates, he discovers an ancient oath tied to his knightly order that was broken generations before. To lay the spirits to rest, Sir Andrés must restore the order’s honor, even if it means revealing uncomfortable truths about his own lineage.
+4. **The March of the Undying**: Strange reports of spectral knights terrorizing border villages reach Sir Andrés’s ears. The ghostly figures are said to be the spirits of soldiers who fell in the Western Marches long ago. As Sir Andrés investigates, he discovers an ancient oath tied to his knightly order that was broken generations before. To lay the spirits to rest, Sir Andrés must restore the order’s honor, even if it means revealing uncomfortable truths about his own lineage.

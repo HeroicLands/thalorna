@@ -687,18 +687,10 @@ Kiroba is cautious of outsiders and does not trust easily, particularly those fr
 
    However, Neferha’s faction is constantly on guard against the Guilded Talon, a powerful society within the Guild of Esoteric Crafts dedicated to maintaining balance. The Guild of Esoteric Crafts relies on the Guilded Talon as enforcers of its laws, and the members of the Guilded Talon are relentless in their pursuit and destruction of anyone attempting to disrupt the laws of the Guild of Esoteric Crafts. If the Guilded Talon becomes aware of Neferha’s plans to enslave the Zohira, they will stop at nothing to thwart her. Neferha and her followers must therefore move carefully, expanding their influence while avoiding the scrutiny of the Guilded Talon and the empire’s other powers.
 
-4. **The Zohira’s Call**:
+4. **The Zohira’s Call**: Kiroba begins to experience vivid dreams of the Zohira, the jungle spirits, showing rivers running dry and animals turning against the villagers. These visions point to a massive, unnatural dam constructed by a faction of outsiders seeking to control the region’s waterways for profit. Kiroba must rally his people and determine how to approach the outsiders—through diplomacy or force—to restore balance and protect the spirits’ domain.
 
-   Kiroba begins to experience vivid dreams of the Zohira, the jungle spirits, showing rivers running dry and animals turning against the villagers. These visions point to a massive, unnatural dam constructed by a faction of outsiders seeking to control the region’s waterways for profit. Kiroba must rally his people and determine how to approach the outsiders—through diplomacy or force—to restore balance and protect the spirits’ domain.
+5. **The Spirit Hunt Reborn**: During a ritual to honor the jungle spirits, Kiroba is visited by the ghost of the great predator he once hunted in his initiation. The spirit warns him of an even greater beast, corrupted by an outside force, that threatens to desecrate the sacred grounds of the Shókuma. Kiroba must undertake a perilous hunt through treacherous jungle terrain to confront this monstrous foe, relying on both his survival skills and his spiritual insight.
 
-5. **The Spirit Hunt Reborn**:
+6. **The Betrayer’s Trail**: A former Shaman of the Shókuma, exiled for breaking sacred laws, has resurfaced deep in the jungle, allying with a hostile tribe to gain power over the Zohira. Kiroba is tasked with confronting this traitor, whose forbidden rituals threaten to sever the tribe’s connection to the spirits entirely. As Kiroba presses deeper, he uncovers the exiled shaman’s motivations, which may force him to question his own role and the tribe’s traditions.
 
-   During a ritual to honor the jungle spirits, Kiroba is visited by the ghost of the great predator he once hunted in his initiation. The spirit warns him of an even greater beast, corrupted by an outside force, that threatens to desecrate the sacred grounds of the Shókuma. Kiroba must undertake a perilous hunt through treacherous jungle terrain to confront this monstrous foe, relying on both his survival skills and his spiritual insight.
-
-6. **The Betrayer’s Trail**:
-
-   A former Shaman of the Shókuma, exiled for breaking sacred laws, has resurfaced deep in the jungle, allying with a hostile tribe to gain power over the Zohira. Kiroba is tasked with confronting this traitor, whose forbidden rituals threaten to sever the tribe’s connection to the spirits entirely. As Kiroba presses deeper, he uncovers the exiled shaman’s motivations, which may force him to question his own role and the tribe’s traditions.
-
-7. **The Oracle of Bones**:
-
-   Haunted by escalating visions of famine and disaster, Kiroba resolves to seek the Oracle of Bones hidden in the sacred Yánda Maláika mountains. The journey is fraught with danger from both supernatural predators, such as the jinmuaji, and rival factions eager to exploit the oracle’s power. Once there, Kiroba must pass a spiritual trial that tests his faith and his ability to make sacrifices for the greater good.
+7. **The Oracle of Bones**: Haunted by escalating visions of famine and disaster, Kiroba resolves to seek the Oracle of Bones hidden in the sacred Yánda Maláika mountains. The journey is fraught with danger from both supernatural predators, such as the jinmuaji, and rival factions eager to exploit the oracle’s power. Once there, Kiroba must pass a spiritual trial that tests his faith and his ability to make sacrifices for the greater good.

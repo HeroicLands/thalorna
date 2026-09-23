@@ -627,18 +627,10 @@ She is not, in her own telling, a traitor or a monster but a woman who was throw
 
 ## Plot Hooks
 
-1. **The Hunt Comes South**:
+1. **The Hunt Comes South**: Rashîra's flight into the **[[affiliation-jcklsthmrchs|South Marches]]** brings the one quarry Yâsûra truly wants onto her own ground: [[being-zahirmlkht|Zahira]], hunting straight into the territory of the woman she unmade. Paid through [[being-casiaveric|Verric's]] agents to cost the Hound the time her own quarry needs, Yâsûra needs no second reason—it is the reckoning she has waited years for, on land she chooses and the Hound does not know. For Zahira it means cutting her way free of an old enemy who wants her dead for reasons that have nothing to do with the contract, before the trail leads out of the Marches and away.
 
-   Rashîra's flight into the **[[affiliation-jcklsthmrchs|South Marches]]** brings the one quarry Yâsûra truly wants onto her own ground: [[being-zahirmlkht|Zahira]], hunting straight into the territory of the woman she unmade. Paid through [[being-casiaveric|Verric's]] agents to cost the Hound the time her own quarry needs, Yâsûra needs no second reason—it is the reckoning she has waited years for, on land she chooses and the Hound does not know. For Zahira it means cutting her way free of an old enemy who wants her dead for reasons that have nothing to do with the contract, before the trail leads out of the Marches and away.
+2. **Two Daughters of the Matriarchy**: The hunt forces Yâsûra and [[being-zahirmlkht|Zahira]] face to face at last—two Bethûan women of arms, one the realm's hound and one its exile, each the road the other did not take. There is room here for vengeance, for an ugly recognition, or even for an uneasy alliance against those who used them both, if Zahira can be made to see what her old success really cost.
 
-2. **Two Daughters of the Matriarchy**:
+3. **A Warlord's Price**: Approached by the other side, Yâsûra proves willing to hear an offer—her hatred is real, but so is her discipline, and a party that can pay in coin, in vengeance better aimed, or in the truth of who truly engineered her downfall might turn the Jackals loose from [[being-casiaveric|Verric's]] leash entirely.
 
-   The hunt forces Yâsûra and [[being-zahirmlkht|Zahira]] face to face at last—two Bethûan women of arms, one the realm's hound and one its exile, each the road the other did not take. There is room here for vengeance, for an ugly recognition, or even for an uneasy alliance against those who used them both, if Zahira can be made to see what her old success really cost.
-
-3. **A Warlord's Price**:
-
-   Approached by the other side, Yâsûra proves willing to hear an offer—her hatred is real, but so is her discipline, and a party that can pay in coin, in vengeance better aimed, or in the truth of who truly engineered her downfall might turn the Jackals loose from [[being-casiaveric|Verric's]] leash entirely.
-
-4. **The Register and the Jackal**:
-
-   Yâsûra grasps that the fugitive crossing her land carries proof that could topple the Matriarch who made her Houseless. Now the warlord paid merely to delay the Hound holds the real prize within reach—and must weigh coin against vengeance against the bitter satisfaction of handing the truth to [[affiliation-empirtkhpr|Ta'Kheperu]], while [[being-casiaveric|Cassia]], the Veil, and [[being-rshrhssfrn|Rashîra]] herself all scramble to keep the most dangerous object in the Marches out of a Jackal's hands.
+4. **The Register and the Jackal**: Yâsûra grasps that the fugitive crossing her land carries proof that could topple the Matriarch who made her Houseless. Now the warlord paid merely to delay the Hound holds the real prize within reach—and must weigh coin against vengeance against the bitter satisfaction of handing the truth to [[affiliation-empirtkhpr|Ta'Kheperu]], while [[being-casiaveric|Cassia]], the Veil, and [[being-rshrhssfrn|Rashîra]] herself all scramble to keep the most dangerous object in the Marches out of a Jackal's hands.

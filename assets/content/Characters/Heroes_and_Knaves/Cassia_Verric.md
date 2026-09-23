@@ -634,14 +634,8 @@ She does not hate Rashîra, or Zahira, or Bethûa. They are, respectively, a pri
 
 ## Plot Hooks
 
-1. **The Courtship**:
+1. **The Courtship**: Cassia makes contact with [[being-rshrhssfrn|Rashîra]] under a merchant's cover, offering safe passage and an attentive ear—anything but the truth that she means the rolls for Vylaria and will never let them reach [[affiliation-empirtkhpr|Wasetkara]]. The party may meet her as a charming, helpful stranger long before they understand what she is, and must decide how much of her aid to take before the price comes due.
 
-   Cassia makes contact with [[being-rshrhssfrn|Rashîra]] under a merchant's cover, offering safe passage and an attentive ear—anything but the truth that she means the rolls for Vylaria and will never let them reach [[affiliation-empirtkhpr|Wasetkara]]. The party may meet her as a charming, helpful stranger long before they understand what she is, and must decide how much of her aid to take before the price comes due.
+2. **The Blocked Road**: Every eastward path Rashîra tries closes ahead of her—a guide bought, a ford watched, a rumor of plague on the road, a caravan that will not take her. Somewhere behind the bad luck is Cassia's quiet hand, herding the fugitive away from the Kheperi frontier and toward a Vylarian crossing she would never choose freely.
 
-2. **The Blocked Road**:
-
-   Every eastward path Rashîra tries closes ahead of her—a guide bought, a ford watched, a rumor of plague on the road, a caravan that will not take her. Somewhere behind the bad luck is Cassia's quiet hand, herding the fugitive away from the Kheperi frontier and toward a Vylarian crossing she would never choose freely.
-
-3. **The Proxy Turns**:
-
-   The [[affiliation-jcklsthmrchs|Jackals]] Cassia hired to delay [[being-zahirmlkht|Zahira]] come within reach of the register itself—and Cassia must scramble to stop her own instrument from handing the rolls to whoever pays best, when the buyer might be Bethûa and the result her single worst outcome.
+3. **The Proxy Turns**: The [[affiliation-jcklsthmrchs|Jackals]] Cassia hired to delay [[being-zahirmlkht|Zahira]] come within reach of the register itself—and Cassia must scramble to stop her own instrument from handing the rolls to whoever pays best, when the buyer might be Bethûa and the result her single worst outcome.

@@ -644,18 +644,10 @@ Eshe is a pragmatic and fearless warrior, with a deep sense of loyalty to her pe
 
 ## Plot Hooks
 
-1. **The Mark of the Blade**:
+1. **The Mark of the Blade**: A stranger arrives in Eshe’s village, bearing scars similar to the glowing runes on Eshe’s Spirit Blade. The stranger claims to be a descendant of the blade’s original forger and warns of a curse tied to its power. To prevent the curse from spreading, Eshe must seek the Blade’s Forge, a mythical site deep within enemy-controlled lands, and uncover the truth of its creation.
 
-   A stranger arrives in Eshe’s village, bearing scars similar to the glowing runes on Eshe’s Spirit Blade. The stranger claims to be a descendant of the blade’s original forger and warns of a curse tied to its power. To prevent the curse from spreading, Eshe must seek the Blade’s Forge, a mythical site deep within enemy-controlled lands, and uncover the truth of its creation.
+2. **The Warlord’s Challenge**: A warlord from a rival tribe challenges Eshe, claiming she is unworthy to wield the Spirit Blade. The warlord possesses a spirit weapon of their own and insists on a duel to prove their superiority. However, the duel is part of a larger plot to destabilize the alliances Eshe has helped form. She must not only win the duel but also uncover and thwart the warlord’s broader scheme.
 
-2. **The Warlord’s Challenge**:
+3. **The Fading Glow**: Eshe notices the Spirit Blade’s ethereal glow beginning to dim, a sign that her connection to the blade—and the spirits—may be weakening. Her tribe’s elder shamans warn that the imbalance in the spirit world is affecting her bond with the blade. To restore its power, Eshe embarks on a journey to the Spirit Nexus, an ancient site said to bridge the realms of spirits and mortals.
 
-   A warlord from a rival tribe challenges Eshe, claiming she is unworthy to wield the Spirit Blade. The warlord possesses a spirit weapon of their own and insists on a duel to prove their superiority. However, the duel is part of a larger plot to destabilize the alliances Eshe has helped form. She must not only win the duel but also uncover and thwart the warlord’s broader scheme.
-
-3. **The Fading Glow**:
-
-   Eshe notices the Spirit Blade’s ethereal glow beginning to dim, a sign that her connection to the blade—and the spirits—may be weakening. Her tribe’s elder shamans warn that the imbalance in the spirit world is affecting her bond with the blade. To restore its power, Eshe embarks on a journey to the Spirit Nexus, an ancient site said to bridge the realms of spirits and mortals.
-
-4. **The Hostile Alliance**:
-
-   The spiritual disturbances plaguing Eshe’s village worsen when a nearby tribe, known for their hostility, accuses her people of angering the Zohira spirits. Eshe must lead a diplomatic mission to ease tensions, but her efforts are hindered by a faction within her own tribe that believes war is the only solution. Balancing diplomacy with her warrior instincts becomes a test of her leadership and resolve.
+4. **The Hostile Alliance**: The spiritual disturbances plaguing Eshe’s village worsen when a nearby tribe, known for their hostility, accuses her people of angering the Zohira spirits. Eshe must lead a diplomatic mission to ease tensions, but her efforts are hindered by a faction within her own tribe that believes war is the only solution. Balancing diplomacy with her warrior instincts becomes a test of her leadership and resolve.
