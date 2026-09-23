@@ -1,7 +1,7 @@
 ---
 tags:
   - polity
-description: Boreal forests, tundra, and caribou migrations — the subarctic homeland of the No'kin, the Bear People.
+description: Boreal forests, tundra, and caribou migrations—the subarctic homeland of the No'kin, the Bear People.
 name:
   full: K'ixim Tzul
   aliases: []
@@ -28,19 +28,19 @@ data:
         title: Captive
         lore: slavernk
         description: >-
-          Taken in war and held for labour or for the altar, with no standing and, commonly,
+          Taken in war and held for labor or for the altar, with no standing and, commonly,
           no long future.
       - level: 2
         title: Commoner
         lore: commonerrnk
         description: >-
-          Working the milpa and owing labour on the temple platforms and causeways, and tribute
+          Working the milpa and owing labor on the temple platforms and causeways, and tribute
           in maize, cloth and cacao.
       - level: 3
         title: Craftsman
         lore: journeymanrnk
         description: >-
-          Of the skilled trades — potters, weavers, feather-workers, stone-cutters — attached
+          Of the skilled trades—potters, weavers, feather-workers, stone-cutters—attached
           to a lord's household or a temple.
       - level: 4
         title: Warrior
@@ -62,7 +62,7 @@ data:
         title: Sahal
         lore: greatlordrnk
         description: >-
-          A subordinate lord holding a lesser centre for the k'uhul ajaw, and the usual rank
+          A subordinate lord holding a lesser center for the k'uhul ajaw, and the usual rank
           of a conquered city's ruler.
       - level: 8
         title: K'uhul Ajaw
@@ -77,7 +77,7 @@ data:
       Ix Ajaw: >-
         Royal lady of the city, of a lineage recorded and married for, and a ruler in her
         own right where the line requires it.
-      Sahal: Subordinate lord holding a lesser centre in the Holy Lord's name.
+      Sahal: Subordinate lord holding a lesser center in the Holy Lord's name.
       Ajaw: Noble lord of the city, holding land, dependents and a voice at court.
       Ah K'in: Priest of the sun and keeper of the count of days, who fixes every auspicious
         hour.
@@ -89,7 +89,7 @@ data:
       Ah Kulel: Deputy and herald of a lord, who carries his word and is answered as if it
         were his.
       Ah Ppolom: >-
-        Master merchant of the long-distance trade in cacao, salt, obsidian and jade — and
+        Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and
         a lord's eyes abroad.
       Ballcourt Keeper: >-
         Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice
@@ -110,9 +110,9 @@ packFolder: kiximtzul
 
 ## Overview
 
-K'ixim Tzul holds the land of [[place-kiximtzulrgn|K'ixim Tzul Region]]. K'ich'chik scouts call the people here the No'kin Tz'aqalil ("Bear People"), from the bear-imagery prominent in the few trade goods and war-trophies that have reached southern hands. What they call themselves is unknown. They are among the most reclusive of the northern peoples; even the border merchants who deal with the Xak'nal and Tz'okum report almost no direct contact with the No'kin, who seem to regard all outsiders — including the other northern nations — with deep suspicion.
+K'ixim Tzul holds the land of [[place-kiximtzulrgn|K'ixim Tzul Region]]. K'ich'chik scouts call the people here the No'kin Tz'aqalil ("Bear People"), from the bear-imagery prominent in the few trade goods and war-trophies that have reached southern hands. What they call themselves is unknown. They are among the most reclusive of the northern peoples; even the border merchants who deal with the Xak'nal and Tz'okum report almost no direct contact with the No'kin, who seem to regard all outsiders—including the other northern nations—with deep suspicion.
 
-From the little K'ich'chik observers have pieced together, the No'kin move with the great herds through merciless winters and forests where snow lies thick for half the year. The quality of the hides that occasionally reach southern markets — processed with extraordinary skill into leather of remarkable suppleness and strength — attests to practical mastery, whatever their other customs may be. K'ich'chik merchants who have attempted to penetrate No'kin territory directly have been turned back at the border, firmly and without negotiation.
+From the little K'ich'chik observers have pieced together, the No'kin move with the great herds through merciless winters and forests where snow lies thick for half the year. The quality of the hides that occasionally reach southern markets—processed with extraordinary skill into leather of remarkable suppleness and strength—attests to practical mastery, whatever their other customs may be. K'ich'chik merchants who have attempted to penetrate No'kin territory directly have been turned back at the border, firmly and without negotiation.
 
 ## The No'kin Tz'aqalil
 
@@ -128,8 +128,8 @@ The isolation of K'ixim Tzul from direct access to the [[place-chakultzklrgn|Ch'
 
 ## See Also
 
-- [[affiliation-balamkiahk|Ba'alam Ki'ahk]] — The Xak'nal domain to the west, separated by high passes and shared hunting territories
-- [[affiliation-haxaman|Ha' Xaman]] — The Coyote People's grasslands to the south and east
-- [[affiliation-xikulchakl|Xik'ul Ch'akal]] — The Otter People's woodlands to the east, connected by river routes
-- [[affiliation-tzumanotun|Tz'uma No'tun]] — The Serpent People's distant southern territories, reached through intermediaries
-- [[place-kiximtzulrgn|K'ixim Tzul Region]] — The land K'ixim Tzul holds
+- [[affiliation-balamkiahk|Ba'alam Ki'ahk]]—The Xak'nal domain to the west, separated by high passes and shared hunting territories
+- [[affiliation-haxaman|Ha' Xaman]]—The Coyote People's grasslands to the south and east
+- [[affiliation-xikulchakl|Xik'ul Ch'akal]]—The Otter People's woodlands to the east, connected by river routes
+- [[affiliation-tzumanotun|Tz'uma No'tun]]—The Serpent People's distant southern territories, reached through intermediaries
+- [[place-kiximtzulrgn|K'ixim Tzul Region]]—The land K'ixim Tzul holds

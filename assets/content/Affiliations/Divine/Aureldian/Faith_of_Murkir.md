@@ -22,7 +22,7 @@ data:
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out — denied the rites, the temple and the burial the faith promises, which is the one
+          Cast out—denied the rites, the temple and the burial the faith promises, which is the one
           sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
@@ -39,21 +39,25 @@ data:
         title: Custodes Viarum
         lore: priestrnk
         description: >-
-          The Keepers of Roads — fifty to a hundred ordained priests stationed at way-shrines and crossings, scattered by design.
+          The Keepers of Roads—fifty to a hundred ordained priests stationed at way-shrines and
+          crossings, scattered by design.
       - level: 4
         title: Archivus Peregrinorum
         lore: grandmasterrnk
         description: >-
-          The nominal apex of a uniquely decentralised and mobile priesthood — an archivist of travellers rather than a commander of them.
+          The nominal apex of a uniquely decentralized and mobile priesthood—an archivist of
+          travelers rather than a commander of them.
     offices:
       Archivus Peregrinorum: >-
-        The nominal apex of a uniquely decentralised and mobile priesthood — an archivist of travellers rather than a commander of them.
+        The nominal apex of a uniquely decentralized and mobile priesthood—an archivist of travelers
+        rather than a commander of them.
       Custodes Viarum: >-
-        The Keepers of Roads — fifty to a hundred ordained priests stationed at way-shrines and crossings, scattered by design.
+        The Keepers of Roads—fifty to a hundred ordained priests stationed at way-shrines and
+        crossings, scattered by design.
       Acolytes of the Road: >-
         Initiates who travel with a Custos before they are given a shrine of their own.
       Way-Shrines: >-
-        The shrines along the roads at which the Custodes are stationed and travellers are blessed.
+        The shrines along the roads at which the Custodes are stationed and travelers are blessed.
   commonSkills: []
   seat: null
   domains: []

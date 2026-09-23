@@ -15,13 +15,17 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Smaller and more specialised than the order-oriented cults, and on tense terms with the priesthood of Má'át. Its work is dangerous and physical as much as liturgical: the acolytes climb the high temple roofs to maintain the lightning-conducting channels and to record new scorch-patterns.
+      Smaller and more specialized than the order-oriented cults, and on tense terms with the
+      priesthood of Má'át. Its work is dangerous and physical as much as liturgical: the acolytes
+      climb the high temple roofs to maintain the lightning-conducting channels and to record new
+      scorch-patterns.
     ranks:
       - level: 0
         title: Rite-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually requires — a sentence that reaches past the end of the life it is passed in.
+          Barred from the temple rites, and with them from the funerary rites every Kheperi
+          eventually requires—a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
         lore: layfaithfulrnk
@@ -31,24 +35,30 @@ data:
         title: Wab
         lore: initiaternk
         description: >-
-          "Purified One" — acolytes performing the dangerous work of temple maintenance: ascending the high roofs to keep the lightning-conducting channels, and recording new scorch-patterns in detailed drawings.
+          "Purified One"—acolytes performing the dangerous work of temple maintenance: ascending the
+          high roofs to keep the lightning-conducting channels, and recording new scorch-patterns in
+          detailed drawings.
       - level: 3
         title: Hem'Netjer
         lore: priestrnk
         description: >-
-          "Servant of the God" — ordained priests, some of whom serve as military strategists, advising commanders on the timing of campaigns from astrological and storm-pattern alignments that suggest the god's favour.
+          "Servant of the God"—ordained priests, some of whom serve as military strategists,
+          advising commanders on the timing of campaigns from astrological and storm-pattern
+          alignments that suggest the god's favor.
       - level: 4
         title: Wer'Hekau
         lore: highpriestrnk
         description: >-
-          "Great of Sacred Power" — High Priest of Sét, at the head of a smaller and more specialised priesthood than those of the great order-oriented gods.
+          "Great of Sacred Power"—High Priest of Sét, at the head of a smaller and more specialized
+          priesthood than those of the great order-oriented gods.
     offices:
       Storm-Strategist: >-
         A Hem'Netjer advising military commanders on the timing of campaigns from storm-pattern and astrological alignment.
       Keeper of the Scorch-Records: >-
         Holds the detailed drawings of strike-patterns the acolytes record from the temple roofs.
       Channel-Warden: >-
-        The Wab charged with the lightning-conducting channels on the high roofs — the cult's most dangerous ordinary duty.
+        The Wab charged with the lightning-conducting channels on the high roofs—the cult's most
+        dangerous ordinary duty.
   commonSkills:
     - set
     - melee
@@ -74,7 +84,7 @@ packFolder: pantheonskemetian
 
 Sét is the god of storms, wind, and the ferocious power of nature in its most violent and transformative aspects. Unlike [[affiliation-apophis|Faith of Ápōphis]], who represents primordial chaos and the cosmic entropy that threatens all existence, Sét embodies the destructive and purifying power of natural phenomena—the thunderhead that shatters ancient trees, the gale that drives ships onto the rocks, the lightning that burns away corruption, the wind that carries necessary change. To worship Sét is to acknowledge that not all divine power flows through gentle channels; some gods speak in thunder and fury, and their voices, though terrifying, carry wisdom for those brave enough to listen.
 
-The wild, un-tamed weather of Ta'Kheperu's wider landscape is Sét's primary domain — the thunderstorms that break over the river valley in late summer, the gales that churn the Vylarian coast into deadly swells, the sudden squalls that can sweep down from the eastern hills and flatten standing grain in an hour. The Kheperi understand Sét not as a god of any one landscape but as the breath and fury of the sky itself, equally at home over the cultivated countryside, the mountains, the sea, and the far steppe. Sét's tempests are reminders that nature operates according to its own logic, not human convenience. A thunderstorm that arrives without warning can devastate a caravan, but the same storm brings the torrential rains that swell the river's tributaries and freshen the upland soils. This paradox of destructive renewal sits at the heart of Sét's theology.
+The wild, un-tamed weather of Ta'Kheperu's wider landscape is Sét's primary domain—the thunderstorms that break over the river valley in late summer, the gales that churn the Vylarian coast into deadly swells, the sudden squalls that can sweep down from the eastern hills and flatten standing grain in an hour. The Kheperi understand Sét not as a god of any one landscape but as the breath and fury of the sky itself, equally at home over the cultivated countryside, the mountains, the sea, and the far steppe. Sét's tempests are reminders that nature operates according to its own logic, not human convenience. A thunderstorm that arrives without warning can devastate a caravan, but the same storm brings the torrential rains that swell the river's tributaries and freshen the upland soils. This paradox of destructive renewal sits at the heart of Sét's theology.
 
 The symbol of Sét—a serpent coiled around a lightning bolt—captures this duality perfectly. The serpent is an ancient emblem of elemental danger, graceful and adaptable but always ready to strike. The lightning represents raw, uncontainable power, the force that splits sky and earth and leaves only scorched change in its wake. Together, they suggest a deity who is neither wholly malevolent nor wholly benevolent, but rather amoral in the sense that a natural force is amoral. Sét does not choose to destroy; destruction is simply what Sét does, and in doing so, sometimes purifies and renews.
 

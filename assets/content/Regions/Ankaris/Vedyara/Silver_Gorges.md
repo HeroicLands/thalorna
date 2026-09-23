@@ -35,7 +35,7 @@ Where the gorge road leaves the workings the clans keep a toll-gate of their own
 
 ## What Comes Out of Them Besides Ore
 
-The Gorges' forges are the best in the highlands and among the strangest in Vedyara. The clans take commissions no temple would put its name to, work to drawings brought by people who do not give their names, and have a reputation — unproven, persistent, and not discouraged by the clans — for having made things that were never meant to be alive and are.
+The Gorges' forges are the best in the highlands and among the strangest in Vedyara. The clans take commissions no temple would put its name to, work to drawings brought by people who do not give their names, and have a reputation—unproven, persistent, and not discouraged by the clans—for having made things that were never meant to be alive and are.
 
 ## See Also
 

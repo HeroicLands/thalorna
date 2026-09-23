@@ -555,9 +555,9 @@ Thálrik Hálren is a 46-year-old man who stands 6'5" tall and is broad and soli
 
 # Dossier {#dossier}
 
-Thálrik Hálren is a woodcutter of Port Aelion, on the coast of [[place-elavendre|Élavendre]], an Élavendri freeman who has worked the wooded slopes above the harbour since he was a boy.
+Thálrik Hálren is a woodcutter of Port Aelion, on the coast of [[place-elavendre|Élavendre]], an Élavendri freeman who has worked the wooded slopes above the harbor since he was a boy.
 
-Thálrik cuts under licence, as every Élavendri woodcutter does. The Crown's forest court at Liranel issues the licences, and above the licensed belt the old forest begins, which the Wardens patrol and nobody cuts. He has spent thirty years learning exactly where that line runs and which trees on his side of it can be taken without harming the stand, and the carpenters and shipwrights of Port Aelion have learned that a Hálren load is sound timber, honestly measured. He works alone by choice.
+Thálrik cuts under license, as every Élavendri woodcutter does. The Crown's forest court at Liranel issues the licenses, and above the licensed belt the old forest begins, which the Wardens patrol and nobody cuts. He has spent thirty years learning exactly where that line runs and which trees on his side of it can be taken without harming the stand, and the carpenters and shipwrights of Port Aelion have learned that a Hálren load is sound timber, honestly measured. He works alone by choice.
 
 He is a known figure among the woodcutters of Élavendre.
 
@@ -577,7 +577,7 @@ Physically strong, experienced in forestry, knowledgeable about which trees to f
 
 ## Social
 
-Thálrik belongs to the Woodcutters' Guild, which holds his licence and settles his disputes. He keeps a hut above Port Aelion rather than a house in it.
+Thálrik belongs to the Woodcutters' Guild, which holds his license and settles his disputes. He keeps a hut above Port Aelion rather than a house in it.
 
 ## Companions
 
@@ -587,14 +587,14 @@ Thálrik's patrons are the carpenters and shipwrights of Port Aelion, who rely o
 
 ### Enemies
 
-Cutting crews that work past the licence line and find Thálrik between them and the trees they wanted.
+Cutting crews that work past the license line and find Thálrik between them and the trees they wanted.
 
 ## Plot Hooks
 
-1. **The Stand He Will Not Fell** — A shipwright with a keel to lay wants a stand of old oak that Thálrik has licence to cut and refuses to. He will pay anyone who can persuade him, or anyone who will fell it in his place.
+1. **The Stand He Will Not Fell**—A shipwright with a keel to lay wants a stand of old oak that Thálrik has license to cut and refuses to. He will pay anyone who can persuade him, or anyone who will fell it in his place.
 
-2. **The Line** — A crew from up the coast has been cutting past the line into Warden country and hauling the timber out through Thálrik's slopes. They want his silence, and they are prepared to pay for it or arrange it.
+2. **The Line**—A crew from up the coast has been cutting past the line into Warden country and hauling the timber out through Thálrik's slopes. They want his silence, and they are prepared to pay for it or arrange it.
 
-3. **A Licence Refused** — The forest court has declined to renew Thálrik's licence for the slope he has worked for thirty years, without saying why. Someone with more influence wants that ground.
+3. **A License Refused**—The forest court has declined to renew Thálrik's license for the slope he has worked for thirty years, without saying why. Someone with more influence wants that ground.
 
-4. **Lost in the Wood** — A child from Port Aelion has gone into the wood and not come out. Thálrik is the only man who knows those slopes well enough to search them in the dark, and the only one the family has not thought to ask.
+4. **Lost in the Wood**—A child from Port Aelion has gone into the wood and not come out. Thálrik is the only man who knows those slopes well enough to search them in the dark, and the only one the family has not thought to ask.

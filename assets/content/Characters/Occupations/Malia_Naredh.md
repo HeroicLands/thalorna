@@ -574,7 +574,7 @@ Mália is driven by the desire to master her craft and secure a stable future. T
 
 ### Strengths
 
-Empathetic towards animals, skilled in herding techniques, quick learner.
+Empathetic toward animals, skilled in herding techniques, quick learner.
 
 ## Social
 
@@ -594,12 +594,12 @@ Few, though some neighboring farmers see her as inexperienced.
 
 ## Plot Hooks
 
-1. **The Herder's Dilemma** — Mália faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **The Herder's Dilemma**—Mália faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 
-2. **Old Grudges** — Few, though some neighboring farmers see her as inexperienced. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges**—Few, though some neighboring farmers see her as inexperienced. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** — Something from Mália's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Mália's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds** — Political changes in Élavendre threaten to upend the social order that Mália depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Mália depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** — A chance encounter offers Mália the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Mália the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

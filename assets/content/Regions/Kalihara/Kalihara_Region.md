@@ -1,7 +1,7 @@
 ---
 tags:
   - region
-description: The inhabited country of the Kalihara continent — jungle lowlands, volcanic highlands and river valleys, held by a single civilization that has faced inward for ten thousand years.
+description: The inhabited country of the Kalihara continent—jungle lowlands, volcanic highlands and river valleys, held by a single civilization that has faced inward for ten thousand years.
 name:
   full: Kalihara Region
   aliases: []
@@ -22,7 +22,7 @@ packFolder: kalihara
 ## Overview
 
 The Kalihara Region is the inhabited country of the
-[[place-klhrcntnnt|Kalihara Continent]] — which is to say very nearly the whole
+[[place-klhrcntnnt|Kalihara Continent]]—which is to say very nearly the whole
 of it. Where every other continent of [[place-worldthlrn|Thalorna]] is a mosaic
 of regions and rival powers, Kalihara carries one continuous civilization, one
 people, one language family and one philosophical tradition, so the continent
@@ -35,7 +35,7 @@ continent is the landmass and the ocean approaches that guard it.
 
 ## Geography
 
-Kalihara is a large tropical island dominated by dense jungle, volcanic mountains, and fertile river valleys. The climate is hot and humid year-round, supporting an extraordinary diversity of plant and animal life — including species found nowhere else on Thalorna, some of which Ankarian naturalists suspect may be remnants of deliberate cultivation in some very distant past — a suspicion they can neither test nor source, since the island explains nothing to them. The interior is extraordinarily lush, with volcanic soil supporting intensive agriculture that feeds the Kaliharan population without the need for trade in staple goods.
+Kalihara is a large tropical island dominated by dense jungle, volcanic mountains, and fertile river valleys. The climate is hot and humid year-round, supporting an extraordinary diversity of plant and animal life—including species found nowhere else on Thalorna, some of which Ankarian naturalists suspect may be remnants of deliberate cultivation in some very distant past—a suspicion they can neither test nor source, since the island explains nothing to them. The interior is extraordinarily lush, with volcanic soil supporting intensive agriculture that feeds the Kaliharan population without the need for trade in staple goods.
 
 The island's topography creates natural defensive zones. The coastal lowlands give way quickly to steep, jungle-clad ridgelines that make overland travel into the interior extremely difficult for anyone unfamiliar with the paths. The volcanic peaks of the central highlands are visible from the sea but effectively unreachable without Kaliharan guidance. The combination of difficult terrain, dense vegetation, and the uncanny navigational hazards of the surrounding waters has made Kalihara effectively impregnable to any force that the Kaliharans have not chosen to admit.
 
@@ -51,11 +51,11 @@ under close supervision. Religious life follows the
 
 ## Politics and Power
 
-The region is held by [[affiliation-kalihara|Kalihara]] — a loose confederation of the
+The region is held by [[affiliation-kalihara|Kalihara]]—a loose confederation of the
 coastal port-cities and the inland traditionalist clans, seated at Qasirah.
 There is no rival power on the continent and never has been.
 
 ## See Also
 
-- [[place-klhrcntnnt|Kalihara Continent]] — the continent this region occupies
-- [[affiliation-kalihara|Kalihara]] — the confederation that holds this region
+- [[place-klhrcntnnt|Kalihara Continent]]—the continent this region occupies
+- [[affiliation-kalihara|Kalihara]]—the confederation that holds this region

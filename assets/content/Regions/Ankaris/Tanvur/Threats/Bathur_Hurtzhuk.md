@@ -16,7 +16,7 @@ renamedFrom:
   - bthrhrtzhk
 description: >-
   Warlord risen out of the Hëkvōr, the Black Wilds north of the Empire of
-  Tānvür — a master strategist whose steppe confederation has become the
+  Tānvür—a master strategist whose steppe confederation has become the
   gravest external threat the imperial frontier has faced in a generation.
 type: being
 packFolder: threats
@@ -75,6 +75,6 @@ Bāthür Hürtzhük's ascent has been fueled by a combination of political insta
 
 # See Also
 
-- [[being-teitjekvngyrt|Tëitjëk Vëngyürt]] — The exiled general whose rebellion could align with Bāthür's ambitions
-- [[lore-extrnlthrts|External Threats]] — Other military threats to the empire
-- [[affiliation-tanvurempr|Empire of Tānvür]] — The power he presses against
+- [[being-teitjekvngyrt|Tëitjëk Vëngyürt]]—The exiled general whose rebellion could align with Bāthür's ambitions
+- [[lore-extrnlthrts|External Threats]]—Other military threats to the empire
+- [[affiliation-tanvurempr|Empire of Tānvür]]—The power he presses against

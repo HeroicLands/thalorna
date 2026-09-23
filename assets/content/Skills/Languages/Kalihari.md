@@ -49,7 +49,7 @@ Outsiders rarely encounter true Interior Kalihári; most know only the bastardiz
 
 Kalihári consonantal inventory is notably small and gentle:
 
-- **Liquids**: L (flapped or trilled), sometimes R (borrowed or varied) — the most frequent consonants
+- **Liquids**: L (flapped or trilled), sometimes R (borrowed or varied)—the most frequent consonants
 - **Nasals**: M, N, NG (velar nasal)
 - **Fricatives**: V (or sometimes W), TH (soft dental)
 - **Glides**: W, Y
@@ -62,11 +62,11 @@ The language **avoids consonant clusters** almost entirely. Consonants are alway
 
 Five distinct vowels, each pronounced with clarity and sometimes elongated for emphasis:
 
-- **A** (open, father-like) — bright, warm
-- **E** (mid, front) — gentle, clear
-- **I** (high, front) — bright, close
-- **O** (mid, back) — rounded, warm
-- **U** (high, back) — rounded, distant
+- **A** (open, father-like)—bright, warm
+- **E** (mid, front)—gentle, clear
+- **I** (high, front)—bright, close
+- **O** (mid, back)—rounded, warm
+- **U** (high, back)—rounded, distant
 
 **Diphthongs** are common and meaningful, especially AE, OA, EI, OU—these are true two-vowel combinations, not glides, and carry semantic weight. A word like "ithavao" contains three diphthongs (i-tha, va-o) distributed across its syllables.
 
@@ -82,7 +82,7 @@ Kalihári is often described as "musical" because pitch and rhythm are fundament
 
 Kalihári employs **Verb-Subject-Object (VSO)** word order, unusual among world languages but reflecting a philosophy where action comes first, then the actor, then the acted-upon:
 
-- _Ithavao Kulanei marivoel_ — "Flows Kulanei the warm stone" (poetic: "Kulanei's warmth flows like stone")
+- _Ithavao Kulanei marivoel_—"Flows Kulanei the warm stone" (poetic: "Kulanei's warmth flows like stone")
 
 This word order allows the verbal action to establish context before introducing participants—a stylistic choice reflected in Kaliharan storytelling traditions.
 
@@ -90,9 +90,9 @@ This word order allows the verbal action to establish context before introducing
 
 Verbs are inflected for **aspect (ongoing, completed, habitual)** rather than tense. Temporal reference comes from context or optional adverbs:
 
-- **Ongoing**: _-an_ suffix (e.g., _rithan_ — "flowing" / "continuing to flow")
-- **Completed**: _-a_ suffix (e.g., _ritha_ — "flowed" / "has flowed")
-- **Habitual**: _-athei_ suffix (e.g., _riathathei_ — "flows regularly" / "is the nature of flowing")
+- **Ongoing**: _-an_ suffix (e.g., _rithan_—"flowing" / "continuing to flow")
+- **Completed**: _-a_ suffix (e.g., _ritha_—"flowed" / "has flowed")
+- **Habitual**: _-athei_ suffix (e.g., _riathathei_—"flows regularly" / "is the nature of flowing")
 
 Example: _Kuethori rithan_ = "The swift current flows" (ongoing action)
 
@@ -130,11 +130,11 @@ Key features:
 - **Diacritical marks**: Dots above or below indicate tone, emphasis, or poetic significance
 - **Decorative elements**: Sacred or formal texts employ ornate flourishes
 
-Literacy in Interior Kalihári follows the same broad pattern as elsewhere on Thalorna — the scribal tradition is ancient and revered, but true literacy is confined to the nobility, the priesthood, and professional scribes. The Confederation's long scribal heritage ensures a deep archive of written knowledge, but this knowledge is maintained by specialists, not the general population. Valtári has no script of its own, so port Kaliharans use a simplified Kalihári notation, or hire a scribe who sets the transaction down in whatever foreign letters he knows.
+Literacy in Interior Kalihári follows the same broad pattern as elsewhere on Thalorna—the scribal tradition is ancient and revered, but true literacy is confined to the nobility, the priesthood, and professional scribes. The Confederation's long scribal heritage ensures a deep archive of written knowledge, but this knowledge is maintained by specialists, not the general population. Valtári has no script of its own, so port Kaliharans use a simplified Kalihári notation, or hire a scribe who sets the transaction down in whatever foreign letters he knows.
 
 ## Historical Development
 
-Kaliharans questioned at the ports trace their civilization to a people they call the **Ithári**, who they say came before them and departed long ago. They do not claim the tongue from them. By their own account those people left no word of any kind behind them and were never heard to speak — what was received was understanding, not language — so Kalihári is held to be the islanders' own, enlarged over eighty centuries by everything they were given to name. No scholar outside the island can test any part of that account, and none has been permitted to try. What the foreign evidence supports is the isolation itself and nothing further.
+Kaliharans questioned at the ports trace their civilization to a people they call the **Ithári**, who they say came before them and departed long ago. They do not claim the tongue from them. By their own account those people left no word of any kind behind them and were never heard to speak—what was received was understanding, not language—so Kalihári is held to be the islanders' own, enlarged over eighty centuries by everything they were given to name. No scholar outside the island can test any part of that account, and none has been permitted to try. What the foreign evidence supports is the isolation itself and nothing further.
 
 The language has **changed remarkably little in core structure** over recorded history—a testament to Kaliharan cultural conservatism and reverence for ancestral knowledge. However, **vocabulary has evolved** with geography and trade:
 
@@ -156,11 +156,11 @@ A trader from Qasirah speaking Kalihári will sound notably different from an In
 
 ## Sample Phrases
 
-- _Kuethori rithan ithavanu-ia_ — "The swift current flows from still water" (poetic observation about origins)
-- _Marivoel koathei naelithuri_ — "Warm stone speaks to tall ferns" (metaphorical communication)
-- _Theiluori koruvei avaelith_ — "Bright canopy shelters the graceful one" (blessing or welcome)
-- _Ithavanu rithan avaelith koamanu_ — "Still water flows to shelter the deep root" (wisdom or philosophical statement)
-- _Naoluvethei korevani_ — "Green wind dances with flowing water" (celebration or joy)
+- _Kuethori rithan ithavanu-ia_—"The swift current flows from still water" (poetic observation about origins)
+- _Marivoel koathei naelithuri_—"Warm stone speaks to tall ferns" (metaphorical communication)
+- _Theiluori koruvei avaelith_—"Bright canopy shelters the graceful one" (blessing or welcome)
+- _Ithavanu rithan avaelith koamanu_—"Still water flows to shelter the deep root" (wisdom or philosophical statement)
+- _Naoluvethei korevani_—"Green wind dances with flowing water" (celebration or joy)
 
 ## Related Languages
 
@@ -183,9 +183,9 @@ Lineage names are **matrilineal in the interior**; port cities may follow either
 
 Personal names are chosen for their resonance and meaning:
 
-- _Kulanei_ — "One who flows" (adaptability, fluidity)
-- _Mahitua_ — "Great stone" (stability, strength)
-- _Avaelith_ — "High shelter" (protection, grace)
+- _Kulanei_—"One who flows" (adaptability, fluidity)
+- _Mahitua_—"Great stone" (stability, strength)
+- _Avaelith_—"High shelter" (protection, grace)
 
 Parents often name children to reflect circumstances of birth:
 
@@ -220,7 +220,7 @@ Avaelith Kuethani Mahilua Reithova Thaelani Inovari Luavethei Koatheni Vaeluani 
 
 ### Lineage Names
 
-Ithavanu — "still water" Koamanei — "deep root" Theiluori — "bright canopy" Marivoel — "warm stone" Naothuri — "green wind" Reiluvao — "old vine" Avothani — "high ridge" Kuethori — "swift current" Thavoeli — "broad leaf" Luanithei — "dawn fire" Vaelukoa — "coral shore" Ithorianu — "rain song" Koathevoi — "dark soil" Theinuvael — "silver mist" Marithoa — "river bend" Naelithuri — "tall fern" Reikovael — "red earth" Avoluthei — "cloud pass" Kuomanei — "sleeping mountain" Thavurithei — "tide pool" Luakovani — "sun path" Ithevanoa — "mossy stone" Koaluthei — "thunder root" Narivothei — "clear spring" Maethukoa — "wild orchid" Theilavori — "wet season" Reithovani — "black sand" Avonithei — "star current" Kuathivoel — "deep forest" Tavunithei — "bird call"
+Ithavanu—"still water" Koamanei—"deep root" Theiluori—"bright canopy" Marivoel—"warm stone" Naothuri—"green wind" Reiluvao—"old vine" Avothani—"high ridge" Kuethori—"swift current" Thavoeli—"broad leaf" Luanithei—"dawn fire" Vaelukoa—"coral shore" Ithorianu—"rain song" Koathevoi—"dark soil" Theinuvael—"silver mist" Marithoa—"river bend" Naelithuri—"tall fern" Reikovael—"red earth" Avoluthei—"cloud pass" Kuomanei—"sleeping mountain" Thavurithei—"tide pool" Luakovani—"sun path" Ithevanoa—"mossy stone" Koaluthei—"thunder root" Narivothei—"clear spring" Maethukoa—"wild orchid" Theilavori—"wet season" Reithovani—"black sand" Avonithei—"star current" Kuathivoel—"deep forest" Tavunithei—"bird call"
 
 ## External References
 

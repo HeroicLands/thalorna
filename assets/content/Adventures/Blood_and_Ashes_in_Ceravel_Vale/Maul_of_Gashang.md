@@ -62,7 +62,7 @@ Over time, the maul was moved from the battlefield to a nearby cave, a secret Bl
 
 ### Properties and Abilities
 
-**Flaming Wrath**: The handle of the **Maul of Gashang** is hollow, and is filled with a concoction called "Fire of Gashang". When swung, small holes in the handle at the base of the blades leak this fluid onto the blades, which can then be set on fire. When a foe is hit, the concoction sprays on the opponent, dealing additional fire damage to enemies with each strike and leave the victim’s wounds burning with an "unholy fire".
+**Flaming Wrath**: The handle of the **Maul of Gashang** is hollow, and is filled with a concoction called "Fire of Gashang." When swung, small holes in the handle at the base of the blades leak this fluid onto the blades, which can then be set on fire. When a foe is hit, the concoction sprays on the opponent, dealing additional fire damage to enemies with each strike and leave the victim’s wounds burning with an "unholy fire."
 
 - **Mechanics**: The fiery concoction, containing naptha and quicklime, is reactive to both heat and water, and is viscous. When hit, the victim suffers an additional d4+0f damage each round for 1-3 rounds, possibly igniting fabric or leather armor or clothing.
 

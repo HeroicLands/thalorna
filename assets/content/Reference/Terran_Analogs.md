@@ -9,7 +9,7 @@ subType: reference
 shortcode: trnnlgsrfrnc
 ---
 
-_Private worldbuilding reference — not published to the website._
+_Private worldbuilding reference—not published to the website._
 
 ## Continents
 
@@ -22,7 +22,7 @@ _Private worldbuilding reference — not published to the website._
 | [[place-arnscntnnt\|Aurionis Continent]] | Australia                                      |
 | [[place-isrncntnnt\|Iseron Continent]]   | Antarctica                                     |
 
-## Ankaris Regions — Mídhalión & West
+## Ankaris Regions—Mídhalión & West
 
 | Region                                                            | Terran Analog                                                             |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------- |
@@ -35,7 +35,7 @@ _Private worldbuilding reference — not published to the website._
 | [[affiliation-cnfdrtnhrdnstts\|Confederation of Haradian States]] | Mesopotamian/Levantine maritime city-states (Phoenicia, Carthage, Venice) |
 | [[place-helionis\|Helionis Region]]                               | Ancient Greece (classical Athens, philosophical schools)                  |
 
-## Ankaris Regions — Northern
+## Ankaris Regions—Northern
 
 | Region                                          | Terran Analog                                             |
 | ----------------------------------------------- | --------------------------------------------------------- |
@@ -43,14 +43,14 @@ _Private worldbuilding reference — not published to the website._
 | [[place-grkrhlmrgn\|Grukarhölm]]                | Siberia / Central Asian steppe                            |
 | [[place-vrystwald\|Vrystwald Region]]           | Germanic/Central European forests (Black Forest, Bohemia) |
 
-## Ankaris Regions — Central & Eastern
+## Ankaris Regions—Central & Eastern
 
 | Region                                         | Terran Analog                                       |
 | ---------------------------------------------- | --------------------------------------------------- |
 | [[place-byzariargn\|Byzaría Region]]           | Byzantine Empire / Eastern Mediterranean crossroads |
 | [[place-khzryndsrtrgn\|Khazryn Desert Region]] | Central Asian steppe / Silk Road deserts            |
 
-## Ankaris Regions — Southern
+## Ankaris Regions—Southern
 
 | Region                               | Terran Analog                              |
 | ------------------------------------ | ------------------------------------------ |
@@ -65,6 +65,6 @@ _Private worldbuilding reference — not published to the website._
 
 ## Xerathia
 
-| Region                                 | Terran Analog                                                                                         |
-| -------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| [[affiliation-empirtkhpr\|Ta'Kheperu]] | Ancient Egypt (New Kingdom through Ptolemaic — a civilization that reinvents itself across millennia) |
+| Region                                 | Terran Analog                                                                                       |
+| -------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [[affiliation-empirtkhpr\|Ta'Kheperu]] | Ancient Egypt (New Kingdom through Ptolemaic—a civilization that reinvents itself across millennia) |

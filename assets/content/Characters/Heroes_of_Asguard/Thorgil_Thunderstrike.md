@@ -527,7 +527,7 @@ Thorgil stands 6'3" with a broad, powerfully built frame, weighing about 230 pou
 
 Thorgil was born during a ferocious thunderstorm, a sign that Thórr had blessed him from birth. As a child, he displayed an unnatural affinity for storms, often climbing the tallest hills to watch lightning dance across the sky. By the time he was a man, Thorgil had become a warrior of unmatched strength and ferocity, his hammer blows echoing like thunder across the battlefield. He was known for his fearlessness in the face of danger and his unwavering dedication to Thórr, whom he believed guided his every action.
 
-The most famous saga of Thorgil Thunderstrike tells of his battle against the Sea Serpent Jörmungandr, a creature so large it could encircle the earth. When the serpent threatened to flood the coastal villages with its thrashing, Thorgil took to the sea in a small boat, armed only with his hammer and the blessings of Thórr. For three days and nights, he battled the serpent amidst a raging storm, each strike of his hammer sending lightning crashing down. On the fourth day, Thorgil finally landed a blow so powerful that it split the serpent's head in two, sending it sinking back into the depths. Exhausted but victorious, Thorgil returned to the shore, where the people hailed him as Thórr's chosen champion.
+The most famous saga of Thorgil Thunderstrike tells of his battle against the Sea Serpent Jörmungandr, a creature so large it could encircle the earth. When the serpent threatened to flood the coastal villages with its thrashing, Thorgil took to the sea in a small boat, armed only with his hammer and the blessings of Thórr. For three days and nights, he battled the serpent amid a raging storm, each strike of his hammer sending lightning crashing down. On the fourth day, Thorgil finally landed a blow so powerful that it split the serpent's head in two, sending it sinking back into the depths. Exhausted but victorious, Thorgil returned to the shore, where the people hailed him as Thórr's chosen champion.
 
 ## Psyche
 
@@ -549,20 +549,20 @@ Thorgil's strength is prodigious, and his skill with a warhammer is unmatched. S
 
 ### Patrons
 
-**The Storm Temple of Hammersfjall** — The priests of Thórr's sacred mountain recognize Thorgil as their god's champion and provide him with blessings, healing, and the finest weapons they can offer.
+**The Storm Temple of Hammersfjall**—The priests of Thórr's sacred mountain recognize Thorgil as their god's champion and provide him with blessings, healing, and the finest weapons they can offer.
 
-**Widow Astridr of Kystvik** — A wealthy fisherwoman whose village Thorgil saved from sea raiders. She supplies him with provisions, a ship, and crew whenever he needs them.
+**Widow Astridr of Kystvik**—A wealthy fisherwoman whose village Thorgil saved from sea raiders. She supplies him with provisions, a ship, and crew whenever he needs them.
 
 ### Enemies
 
-**The Serpent Cult** — Worshippers of the great sea serpent who view Thorgil as a blasphemer for his legendary battle. They seek revenge through poison, sabotage, and ambush rather than open combat.
+**The Serpent Cult**—Worshippers of the great sea serpent who view Thorgil as a blasphemer for his legendary battle. They seek revenge through poison, sabotage, and ambush rather than open combat.
 
-**Jarl Brynjar Stormbreaker** — A prideful lord who once challenged Thorgil to a holmgang and was humiliated. He now works to undermine Thorgil's reputation and deny him shelter in his lands.
+**Jarl Brynjar Stormbreaker**—A prideful lord who once challenged Thorgil to a holmgang and was humiliated. He now works to undermine Thorgil's reputation and deny him shelter in his lands.
 
 ## Plot Hooks
 
-1. **The Serpent's Return** — The sea serpent did not truly die. Fishermen report seeing its shadow beneath the waves, larger than before. Thorgil must prepare for a rematch he may not survive.
+1. **The Serpent's Return**—The sea serpent did not truly die. Fishermen report seeing its shadow beneath the waves, larger than before. Thorgil must prepare for a rematch he may not survive.
 
-2. **Hammersfjall Under Siege** — An army of trolls has laid siege to the sacred mountain. The priests are trapped, and the storm blessing is fading. Thorgil must break the siege before Thórr's power wanes.
+2. **Hammersfjall Under Siege**—An army of trolls has laid siege to the sacred mountain. The priests are trapped, and the storm blessing is fading. Thorgil must break the siege before Thórr's power wanes.
 
-3. **The Storm Child** — A child born during an unprecedented storm displays powers similar to Thorgil's own. Both the Storm Temple and darker forces seek to claim the child, and Thorgil must decide what is truly best for them.
+3. **The Storm Child**—A child born during an unprecedented storm displays powers similar to Thorgil's own. Both the Storm Temple and darker forces seek to claim the child, and Thorgil must decide what is truly best for them.

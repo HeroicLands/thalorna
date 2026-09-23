@@ -22,7 +22,7 @@ data:
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out — denied the rites, the temple and the burial the faith promises, which is the one
+          Cast out—denied the rites, the temple and the burial the faith promises, which is the one
           sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
@@ -39,7 +39,8 @@ data:
         title: Sacerdotes of Twilight
         lore: priestrnk
         description: >-
-          Ordained priests who serve as healers to the terminally ill and counsellors to the bereaved.
+          Ordained priests who serve as healers to the terminally ill and counselors to the
+          bereaved.
       - level: 4
         title: Magistra Mortis
         lore: grandmasterrnk
@@ -49,7 +50,7 @@ data:
       Magistra Mortis: >-
         High Priestess or High Priest, typically an older priestess who has spent a lifetime at the bedsides of the dying.
       Sacerdotes of Twilight: >-
-        Ordained priests who serve as healers to the terminally ill and counsellors to the bereaved.
+        Ordained priests who serve as healers to the terminally ill and counselors to the bereaved.
       Acolytes of Decay: >-
         Initiates learning the rites of the waning and the care of those who are ending.
       Hospices of the Waning Moon: >-

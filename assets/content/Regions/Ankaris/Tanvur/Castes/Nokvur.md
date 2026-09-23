@@ -33,21 +33,21 @@ The Nōkvür work the fields, forests, and waters of the empire, sustaining all 
 
 ## Ancestor Veneration and Spiritual Life
 
-Among the Nōkvür, [[lore-ancstrwrshp|ancestor worship]] is the center of spiritual practice and social cohesion. Ancestor spirits are understood as posted officials within the celestial bureaucracy — they advocate for their living descendants, file petitions on their behalf, and use their accumulated moral ledger credit to influence outcomes. Maintaining proper shrines, conducting seasonal rituals, and provisioning the dead with spirit offerings are fundamental obligations that sustain this spiritual supply chain.
+Among the Nōkvür, [[lore-ancstrwrshp|ancestor worship]] is the center of spiritual practice and social cohesion. Ancestor spirits are understood as posted officials within the celestial bureaucracy—they advocate for their living descendants, file petitions on their behalf, and use their accumulated moral ledger credit to influence outcomes. Maintaining proper shrines, conducting seasonal rituals, and provisioning the dead with spirit offerings are fundamental obligations that sustain this spiritual supply chain.
 
-Regular festivals and private ceremonies keep ancestor spirits provisioned and effective — a family that fails in its obligations weakens its advocates in the celestial administration, with consequences that propagate through every aspect of daily life.
+Regular festivals and private ceremonies keep ancestor spirits provisioned and effective—a family that fails in its obligations weakens its advocates in the celestial administration, with consequences that propagate through every aspect of daily life.
 
 ## The Lëigürt: Spirit Masters
 
-The **Lëigürt** are shamanic practitioners who emerge from within Nōkvür communities, possessing the ability to commune directly with the spirit realm. They serve as the primary interface between living families and their ancestor spirits — translators, mediators, and spiritual clerks who navigate the celestial bureaucracy on behalf of those who cannot file their own petitions.
+The **Lëigürt** are shamanic practitioners who emerge from within Nōkvür communities, possessing the ability to commune directly with the spirit realm. They serve as the primary interface between living families and their ancestor spirits—translators, mediators, and spiritual clerks who navigate the celestial bureaucracy on behalf of those who cannot file their own petitions.
 
 ### Roles and Responsibilities
 
 - **Ancestral Communion**: Contact ancestor spirits to receive commands, relay petitions, and maintain the spiritual supply chain between living and dead
-- **Spiritual Healing**: Address ailments caused by classification breaches in the spiritual order — ancestor spirits withdrawing advocacy, moral ledger debits manifesting as illness, or Hürnlëi contamination
-- **Registration Rites**: Conduct ceremonies that register births, bonding ceremonies, and deaths with the celestial administration — essential filings that the higher castes process through temples but the Nōkvür process through the Lëigürt
+- **Spiritual Healing**: Address ailments caused by classification breaches in the spiritual order—ancestor spirits withdrawing advocacy, moral ledger debits manifesting as illness, or Hürnlëi contamination
+- **Registration Rites**: Conduct ceremonies that register births, bonding ceremonies, and deaths with the celestial administration—essential filings that the higher castes process through temples but the Nōkvür process through the Lëigürt
 - **Ritual Leadership**: Conduct seasonal ceremonies, rites of passage, and community rituals that maintain the household's spiritual infrastructure
-- **Divination**: Read signs and omens to interpret the celestial administration's directives — determining which bureau is ascendant, which petitions are likely to succeed, and what the ancestor spirits require
+- **Divination**: Read signs and omens to interpret the celestial administration's directives—determining which bureau is ascendant, which petitions are likely to succeed, and what the ancestor spirits require
 
 ### Standing in Society
 
@@ -65,10 +65,10 @@ The Nōkvür are understood to serve as nurturers of the earth's Lëi, channelin
 
 ## See Also
 
-- [[lore-castelaws|Caste Laws]] — rights and restrictions governing Nōkvür
-- [[lore-shukren|Shükrën]] — Merchants and traders above Nōkvür in hierarchy
-- [[lore-nutzok|Nützōk]] — Slaves and outcasts below Nōkvür
-- [[lore-venduk|Vëndük]] — Magical practitioners from whom some adoptees come
-- [[lore-zathuk|Zāthük]] — Artisans and craftspeople above Nōkvür
-- [[lore-zeisik|Law and Honor]] — legal framework governing Nōkvür obligations
-- [[affiliation-tanvurempr|Empire of Tānvür]] — overview of imperial society and structure
+- [[lore-castelaws|Caste Laws]]—rights and restrictions governing Nōkvür
+- [[lore-shukren|Shükrën]]—Merchants and traders above Nōkvür in hierarchy
+- [[lore-nutzok|Nützōk]]—Slaves and outcasts below Nōkvür
+- [[lore-venduk|Vëndük]]—Magical practitioners from whom some adoptees come
+- [[lore-zathuk|Zāthük]]—Artisans and craftspeople above Nōkvür
+- [[lore-zeisik|Law and Honor]]—legal framework governing Nōkvür obligations
+- [[affiliation-tanvurempr|Empire of Tānvür]]—overview of imperial society and structure

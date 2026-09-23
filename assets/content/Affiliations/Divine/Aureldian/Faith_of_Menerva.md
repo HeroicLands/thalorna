@@ -22,7 +22,7 @@ data:
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out — denied the rites, the temple and the burial the faith promises, which is the one
+          Cast out—denied the rites, the temple and the burial the faith promises, which is the one
           sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
@@ -44,17 +44,21 @@ data:
         title: Collegium Doctorum
         lore: highpriestrnk
         description: >-
-          Twenty or thirty senior scholars specialising in mathematics, medicine, philosophy, languages, craftsmanship and astronomy.
+          Twenty or thirty senior scholars specializing in mathematics, medicine, philosophy,
+          languages, craftsmanship and astronomy.
       - level: 5
         title: Magistra Sapientiae
         lore: grandmasterrnk
         description: >-
-          Master of Wisdom, chosen by vote of the senior scholars rather than by succession — this priesthood prioritises scholarship over hierarchy.
+          Master of Wisdom, chosen by vote of the senior scholars rather than by succession—this
+          priesthood prioritizes scholarship over hierarchy.
     offices:
       Magistra Sapientiae: >-
-        Master of Wisdom, chosen by vote of the senior scholars rather than by succession — this priesthood prioritises scholarship over hierarchy.
+        Master of Wisdom, chosen by vote of the senior scholars rather than by succession—this
+        priesthood prioritizes scholarship over hierarchy.
       Collegium Doctorum: >-
-        Twenty or thirty senior scholars specialising in mathematics, medicine, philosophy, languages, craftsmanship and astronomy.
+        Twenty or thirty senior scholars specializing in mathematics, medicine, philosophy,
+        languages, craftsmanship and astronomy.
       Magistri Artes: >-
         Ordained teachers throughout the cities, who keep schools, mentor apprentices and research in their fields.
       Scholares Ménérva: >-

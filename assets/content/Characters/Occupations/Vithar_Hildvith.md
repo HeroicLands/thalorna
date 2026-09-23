@@ -597,12 +597,12 @@ Blacksmiths who specialize in decorative weapons.
 
 ## Plot Hooks
 
-1. **The Weaponcrafter (Armorer)'s Dilemma** — Vithár faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Weaponcrafter (Armorer)'s Dilemma**—Vithár faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 
-2. **Old Grudges** — Blacksmiths who specialize in decorative weapons. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges**—Blacksmiths who specialize in decorative weapons. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** — Something from Vithár's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Vithár's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds** — Political changes in Vrystwald threaten to upend the social order that Vithár depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Vithár depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** — A chance encounter offers Vithár the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Vithár the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

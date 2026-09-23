@@ -21,7 +21,8 @@ data:
         title: Rite-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually requires — a sentence that reaches past the end of the life it is passed in.
+          Barred from the temple rites, and with them from the funerary rites every Kheperi
+          eventually requires—a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
         lore: layfaithfulrnk
@@ -31,17 +32,21 @@ data:
         title: Wab
         lore: initiaternk
         description: >-
-          "Purified One" — acolytes, who learn the routes and the shrine-stations before they learn much else.
+          "Purified One"—acolytes, who learn the routes and the shrine-stations before they learn
+          much else.
       - level: 3
         title: Hem'Netjer
         lore: priestrnk
         description: >-
-          "Servant of the God" — ordained priests who travel extensively, keep current knowledge of routes, conditions and dangers, and advise military commanders planning campaigns and merchant guilds planning caravans.
+          "Servant of the God"—ordained priests who travel extensively, keep current knowledge of
+          routes, conditions and dangers, and advise military commanders planning campaigns and
+          merchant guilds planning caravans.
       - level: 4
         title: Wer'Hekau
         lore: highpriestrnk
         description: >-
-          "Great of Sacred Power" — High Priest of Hórús, maintaining networks of priests stationed not only in great temples but in shrine-stations along the major travel routes.
+          "Great of Sacred Power"—High Priest of Hórús, maintaining networks of priests stationed
+          not only in great temples but in shrine-stations along the major travel routes.
     offices:
       Shrine-Station Priest: >-
         Holds one of the stations positioned along a major travel route, rather than a place in a great temple.
@@ -75,7 +80,7 @@ Hórús is the god of travelers, explorers, and all who venture into the unknown
 
 The symbol of Hórús—a falcon in flight with a compass rose—carries multiple layers of meaning. The falcon is one of the most perfect fliers, capable of seeing from tremendous heights, of navigating the winds with absolute precision, of striking decisively when necessary. The compass rose represents humanity's eternal need to orient itself, to know direction and purpose, to find the way home even from great distance. Together, they suggest a deity who can perceive the larger patterns and pathways that ground-bound mortals cannot, who sees the invisible roads across the steppe and through the forest, who knows the true direction even when clouded vision suggests one is lost.
 
-In Ta'Kheperu, perhaps more than any other realm, the domain of travel holds profound cultural significance. The Iteru — the kingdom's great river — is its lifeblood—a great highway of trade and communication flowing north to the delta and the sea. Along the river's banks, cities and temples flourish, and the water itself is the primary route of commerce. Hórús watches over all river travel, from the merchant's modest boat to the Per-Aá's grand ceremonial barge. But beyond the river lie even greater challenges: the wide western steppe that shades into the far frontiers, mountain passes where ancient trails wind through treacherous terrain, distant seas where ships venture in search of trade and discovery. Hórús presides over all these journeys.
+In Ta'Kheperu, perhaps more than any other realm, the domain of travel holds profound cultural significance. The Iteru—the kingdom's great river—is its lifeblood—a great highway of trade and communication flowing north to the delta and the sea. Along the river's banks, cities and temples flourish, and the water itself is the primary route of commerce. Hórús watches over all river travel, from the merchant's modest boat to the Per-Aá's grand ceremonial barge. But beyond the river lie even greater challenges: the wide western steppe that shades into the far frontiers, mountain passes where ancient trails wind through treacherous terrain, distant seas where ships venture in search of trade and discovery. Hórús presides over all these journeys.
 
 The cosmopolitan trading cities of the delta ports—especially the great harbor cities that look out toward the distant lands across the sea—are particularly devoted to Hórús. These are places where merchants and explorers gather, where stories of distant lands are traded as freely as spices and gold, where the spirit of discovery is ever present. It is in these port cities that Hórús's temples stand most prominently, with their high towers and bright plumage of banners, meant to guide travelers safely into harbor just as a literal falcon guides itself through the air.
 

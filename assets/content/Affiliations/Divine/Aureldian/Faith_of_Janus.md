@@ -23,7 +23,7 @@ data:
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out — denied the rites, the temple and the burial the faith promises, which is the one
+          Cast out—denied the rites, the temple and the burial the faith promises, which is the one
           sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
@@ -45,7 +45,8 @@ data:
         title: Praetores Templi
         lore: highpriestrnk
         description: >-
-          Temple Judges — fifteen or twenty seniors of the Collegium Sacerdotalis who oversee the major temples and form the priesthood's administrative body.
+          Temple Judges—fifteen or twenty seniors of the Collegium Sacerdotalis who oversee the
+          major temples and form the priesthood's administrative body.
       - level: 5
         title: Pontifex Iuris
         lore: grandmasterrnk
@@ -55,7 +56,8 @@ data:
       Pontifex Iuris: >-
         High Judge and keeper of cosmic law; final arbiter of doctrine, whose counsel weighs on kings and city councils across western Ankaris.
       Praetores Templi: >-
-        Temple Judges — fifteen or twenty seniors of the Collegium Sacerdotalis who oversee the major temples and form the priesthood's administrative body.
+        Temple Judges—fifteen or twenty seniors of the Collegium Sacerdotalis who oversee the major
+        temples and form the priesthood's administrative body.
       Flamines Iuris: >-
         Ordained priests throughout the cities, who keep local temples, witness oaths and contracts, and perform the ceremonies of blessing and condemnation.
       Acolytes of the Threshold: >-
@@ -85,7 +87,7 @@ packFolder: pantheonsaureldian
 
 God of justice, cosmic law, and honorable struggle. Jánus watches over all contracts, pacts, and conflicts, ensuring that both divine and mortal order and justice are maintained. His is the faith of chivalry, of duty before desire, of the strong defending the weak not because it is easy but because it is right. Where other gods may inspire devotion through love or fear, Jánus demands it through principle.
 
-The Faith of Jánus is the religion of the nobility in much of western Ankaris — not merely because nobles worship him, but because his doctrines underpin the feudal order itself. Oaths of fealty, the codes of knightly conduct, the laws of war, and the sanctity of contracts all fall under his purview. To break a sworn oath is to offend Jánus directly. His temples serve as courts of law, and his priests as judges and mediators whose rulings carry divine weight.
+The Faith of Jánus is the religion of the nobility in much of western Ankaris—not merely because nobles worship him, but because his doctrines underpin the feudal order itself. Oaths of fealty, the codes of knightly conduct, the laws of war, and the sanctity of contracts all fall under his purview. To break a sworn oath is to offend Jánus directly. His temples serve as courts of law, and his priests as judges and mediators whose rulings carry divine weight.
 
 ## Worship
 
@@ -113,7 +115,7 @@ The priesthood maintains vast temple complexes that serve simultaneously as reli
 
 ## Relations
 
-The Faith of Jánus exists in a state of perpetual, irreconcilable war with [[affiliation-blackflame|The Black Flame]]. Where Jánus demands order, honor, and the protection of the weak, the Black Flame preaches domination, the supremacy of the strong, and the burning away of all that cannot resist. This is not a theological disagreement — it is a cosmic struggle, fought in every kingdom, every court, and every battlefield where their followers meet. Jánite knights and Black Flame warlords regard each other as existential threats, and neither faith will rest while the other endures.
+The Faith of Jánus exists in a state of perpetual, irreconcilable war with [[affiliation-blackflame|The Black Flame]]. Where Jánus demands order, honor, and the protection of the weak, the Black Flame preaches domination, the supremacy of the strong, and the burning away of all that cannot resist. This is not a theological disagreement—it is a cosmic struggle, fought in every kingdom, every court, and every battlefield where their followers meet. Jánite knights and Black Flame warlords regard each other as existential threats, and neither faith will rest while the other endures.
 
 Jánus and [[affiliation-sacredforge|The Sacred Forge]] are natural allies. Both value discipline, craftsmanship, and the defense of civilization. Sacred Forge smiths arm Jánite knights; Jánite courts protect Sacred Forge temples. The alliance is deep and longstanding, though the Sacred Forge's own war with the Black Flame is a matter of doctrinal schism rather than the fundamental opposition of values that defines the Jánite struggle. In some regions, particularly [[place-provenzrgn|Provènzia Region]], the two priesthoods work in such close coordination that their temples are physically connected by covered passages, and joint rituals honoring both deities are common.
 

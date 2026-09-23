@@ -6,7 +6,7 @@ name:
     - Sinalë
     - Elven
     - Elder Tongue
-description: "The eldest of the Elder Tongues — vowel-heavy, soft-consonanted, and sung as often as spoken, older than any human settlement on Thalorna."
+description: "The eldest of the Elder Tongues—vowel-heavy, soft-consonanted, and sung as often as spoken, older than any human settlement on Thalorna."
 shortcode: sinalelng
 type: skill
 subType: language
@@ -55,15 +55,15 @@ Sinalë consonantal inventory favors soft, flowing sounds:
 
 Sinalë distinguishes **five basic vowels**, each with long and short forms that carry semantic weight:
 
-- **A** (short, ah) / **Â** (long, ahhhh) — warm, open
-- **E** (short, eh) / **Ê** (long, ehhhh) — gentle, refined
-- **I** (short, ih) / **Î** (long, ihhhh) — bright, sharp
-- **O** (short, oh) / **Ô** (long, ohhhh) — deep, resonant
-- **U** (short, uh) / **Û** (long, uhhhh) — rounded, distant
+- **A** (short, ah) / **Â** (long, ahhhh)—warm, open
+- **E** (short, eh) / **Ê** (long, ehhhh)—gentle, refined
+- **I** (short, ih) / **Î** (long, ihhhh)—bright, sharp
+- **O** (short, oh) / **Ô** (long, ohhhh)—deep, resonant
+- **U** (short, uh) / **Û** (long, uhhhh)—rounded, distant
 
 **Diphthongs** are frequent and intentional: AE, AI, AU, EI, OU, etc. These are true two-vowel combinations, and shortening or lengthening either component changes meaning.
 
-Example: _Aelindë_ (ah-eh-lin-deh) differs from _Âelindë_ (ahhhh-eh-lin-deh) — the first suggests movement or emergence; the second suggests eternal or infinite nature.
+Example: _Aelindë_ (ah-eh-lin-deh) differs from _Âelindë_ (ahhhh-eh-lin-deh)—the first suggests movement or emergence; the second suggests eternal or infinite nature.
 
 ### Stress and Prosody
 
@@ -77,7 +77,7 @@ The language employs **tonal melody**: rising and falling pitches mark questions
 
 Sinalë employs **Verb-Subject-Object (VSO)** word order, common among poetic languages:
 
-- _Aelanthen Lúthion caladvae_ — "Sings Lúthion of valleys" (Lúthion sings the valleys)
+- _Aelanthen Lúthion caladvae_—"Sings Lúthion of valleys" (Lúthion sings the valleys)
 
 This word order places the action first, emphasizing what is done over who does it. The structure reflects Sinalë philosophical priorities: the action and its spiritual significance precede the actor.
 
@@ -85,17 +85,17 @@ This word order places the action first, emphasizing what is done over who does 
 
 Sinalë verbs do **not conjugate for tense**. Instead, they are inflected for **aspect (completed/ongoing/habitual) and mood (indicative/subjunctive/imperative)** through vowel gradation:
 
-- **Ongoing action**: Root vowel remains short (e.g., _aelanthen_ — "is singing")
-- **Completed action**: Root vowel lengthens (e.g., _âelanthen_ — "has sung")
-- **Habitual action**: Root vowel diphthongizes (e.g., _aelanthen_ — "sings habitually" when context is clear)
+- **Ongoing action**: Root vowel remains short (e.g., _aelanthen_—"is singing")
+- **Completed action**: Root vowel lengthens (e.g., _âelanthen_—"has sung")
+- **Habitual action**: Root vowel diphthongizes (e.g., _aelanthen_—"sings habitually" when context is clear)
 
 **Subjunctive mood** (wishes, possibilities) employs a soft fricative prefix:
 
-- _Shaelanthen_ — "might sing" / "would sing"
+- _Shaelanthen_—"might sing" / "would sing"
 
 **Imperative** (commands) employs a glottal stop prefix:
 
-- _'Aelanthen!_ — "Sing!"
+- _'Aelanthen!_—"Sing!"
 
 Temporal reference comes entirely from context or optional time words. A Sinalë poem about ancient events might contain no explicit temporal markers; the listener infers timing from narrative context.
 
@@ -162,11 +162,11 @@ A Sinalë from deep forests will sound archaic and formal to Sinalë from mounta
 
 ## Sample Phrases
 
-- _Míriel aelanthen calathwen_ — "Bright one sings of beautiful stones" (poetic blessing or greeting)
-- _Shaelanthen caladwen lirendir_ — "Might our swords sing starlight" (hope or prayer)
-- _Arathen îalathen thêlindor_ — "Daughters dance starlight falling" (joy or celebration)
-- _Velastáron aelanthen finelë_ — "From ancient times sings the white flame" (reference to timeless things)
-- _Thairon caladeth shaelanthen_ — "In valleys we would dwell singing" (longing or homesickness)
+- _Míriel aelanthen calathwen_—"Bright one sings of beautiful stones" (poetic blessing or greeting)
+- _Shaelanthen caladwen lirendir_—"Might our swords sing starlight" (hope or prayer)
+- _Arathen îalathen thêlindor_—"Daughters dance starlight falling" (joy or celebration)
+- _Velastáron aelanthen finelë_—"From ancient times sings the white flame" (reference to timeless things)
+- _Thairon caladeth shaelanthen_—"In valleys we would dwell singing" (longing or homesickness)
 
 ## Related Languages
 
@@ -195,9 +195,9 @@ Given names often reference:
 
 Examples:
 
-- _Eledhir_ — "star-wisdom" (one who carries starlight in thought)
-- _Arwenil_ — "noble grace" (grace born of noble lineage)
-- _Lúthion_ — "shadow-song" (song emerging from darkness, transformative)
+- _Eledhir_—"star-wisdom" (one who carries starlight in thought)
+- _Arwenil_—"noble grace" (grace born of noble lineage)
+- _Lúthion_—"shadow-song" (song emerging from darkness, transformative)
 
 ### Surnames (Lineage Names)
 
@@ -209,11 +209,11 @@ Sinalë surnames are **poetic compounds** inherited through the **maternal line*
 
 Examples:
 
-- _Êlwethil_ — family of starlight speakers ("star-whisper")
-- _Ithilnén_ — family connected to sacred waters under moonlight ("moon-water")
-- _Celethloth_ — family of grace and movement ("silver-leaf")
-- _Lúthaelon_ — family of hidden or nocturnal grace ("night-bloom")
-- _Calenír_ — family of joyful expression and revelation ("bright-song")
+- _Êlwethil_—family of starlight speakers ("star-whisper")
+- _Ithilnén_—family connected to sacred waters under moonlight ("moon-water")
+- _Celethloth_—family of grace and movement ("silver-leaf")
+- _Lúthaelon_—family of hidden or nocturnal grace ("night-bloom")
+- _Calenír_—family of joyful expression and revelation ("bright-song")
 
 Surnames are inherited, not chosen, though a Sinalë who achieves great deeds may earn a new surname through legend. This is rare and deeply significant—it marks fundamental transformation.
 
@@ -238,7 +238,7 @@ Arwenil, Lúthwen, Elariel, Caleniel, Faelith, Nindariel, Elenwen, Gilraen, Aerw
 
 ### Surnames (Inherited Matrilineally)
 
-Êlwethil — "Star-whisper" (family of starlight speakers) Ithilnén — "Moon-water" (family of moonlit streams) Celethloth — "Silver-leaf" (family of grace and movement) Lúthaelon — "Night-bloom" (family of hidden nocturnal grace) Calenír — "Bright-song" (family of joyful expression) Aerildir — "Wind-rider" (family of swift wanderers) Aranneth — "Dawn-weaver" (family of morning's first light) Lóthrendel — "Shadow-valley" (family of hidden wisdom) Anorwen — "Sun-whisper" (family of radiant warmth) Mírtelion — "Light-feather" (family of grace and lightness) Galadhir — "Oak-shadow" (family of forest dwellers) Ithilnîn — "Crystal-water" (family of pure reflection) Êlraith — "Star-lance" (family of swift celestial power) Galanor — "Golden-bough" (family of forest's ancient heart) Swethal — "Swift-arrow" (family of quick and true aim) Celebren — "Silver-glen" (family of hidden beautiful places) Calenlorë — "Bright-green" (family of flourishing growth) Rhinwen — "Frost-whisper" (family of winter's silence) Araneth — "Eve-fall" (family of twilight mysteries) Îaethor — "Sky-shard" (family of star-stones) Mirûs — "Dusk-dancer" (family of twilight grace) Aerilas — "Wind-echo" (family of wandering voices) Êlnyë — "Star-falling" (family of celestial descent) Ithilmîr — "Moon-jewel" (family of night's brightness) Neldaion — "Fire-glade" (family of warm sanctuary)
+Êlwethil—"Star-whisper" (family of starlight speakers) Ithilnén—"Moon-water" (family of moonlit streams) Celethloth—"Silver-leaf" (family of grace and movement) Lúthaelon—"Night-bloom" (family of hidden nocturnal grace) Calenír—"Bright-song" (family of joyful expression) Aerildir—"Wind-rider" (family of swift wanderers) Aranneth—"Dawn-weaver" (family of morning's first light) Lóthrendel—"Shadow-valley" (family of hidden wisdom) Anorwen—"Sun-whisper" (family of radiant warmth) Mírtelion—"Light-feather" (family of grace and lightness) Galadhir—"Oak-shadow" (family of forest dwellers) Ithilnîn—"Crystal-water" (family of pure reflection) Êlraith—"Star-lance" (family of swift celestial power) Galanor—"Golden-bough" (family of forest's ancient heart) Swethal—"Swift-arrow" (family of quick and true aim) Celebren—"Silver-glen" (family of hidden beautiful places) Calenlorë—"Bright-green" (family of flourishing growth) Rhinwen—"Frost-whisper" (family of winter's silence) Araneth—"Eve-fall" (family of twilight mysteries) Îaethor—"Sky-shard" (family of star-stones) Mirûs—"Dusk-dancer" (family of twilight grace) Aerilas—"Wind-echo" (family of wandering voices) Êlnyë—"Star-falling" (family of celestial descent) Ithilmîr—"Moon-jewel" (family of night's brightness) Neldaion—"Fire-glade" (family of warm sanctuary)
 
 ## External References
 

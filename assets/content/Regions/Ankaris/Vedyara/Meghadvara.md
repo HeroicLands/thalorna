@@ -3,7 +3,7 @@ tags:
   - pass
   - caravan
   - inland
-description: "The storm-door — the westernmost crossing of the wall, held by no fortress and no toll, blessed from a shrine-tower of the Svapnasāri-samāja, and shut from below by the monsoon."
+description: "The storm-door—the westernmost crossing of the wall, held by no fortress and no toll, blessed from a shrine-tower of the Svapnasāri-samāja, and shut from below by the monsoon."
 type: place
 subType: feature
 data:
@@ -29,7 +29,7 @@ Nobody holds its throat. There is no fortress on this road, no customs-house and
 
 ## The Window
 
-It is the shortest window on the wall, and the reason is weather rather than altitude. The monsoon piles against Meghaśikhara from the south and shuts the lower road from below, so that the pass is impassable for weeks after the high ice has gone off and impassable again long before the snow returns. Two caravans a year is a good season here; three is remembered.
+It is the shortest window on the wall, and the reason is weather and not altitude. The monsoon piles against Meghaśikhara from the south and shuts the lower road from below, so that the pass is impassable for weeks after the high ice has gone off and impassable again long before the snow returns. Two caravans a year is a good season here; three is remembered.
 
 What crosses is accordingly the cargo that cannot wait. The great houses send the bulk of their trade east to [[place-suryadvara|Sūryadvāra]] and pay the tolls; what comes over the storm-door is what somebody needed in the Khazryn this year and not next, at prices that reflect it.
 

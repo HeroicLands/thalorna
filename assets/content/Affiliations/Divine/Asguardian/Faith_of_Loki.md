@@ -23,43 +23,51 @@ data:
         title: Nídingr
         lore: excmmnctrnk
         description: >-
-          Declared nithing — cut off from the faith and from the standing that being of it
+          Declared nithing—cut off from the faith and from the standing that being of it
           conferred. No hall will seat them and no godi will speak for them.
       - level: 1
         title: Skuggi Thraell
         lore: initiaternk
         description: >-
-          "Shadow Thrall" — Shade Acolyte. The god's thrall: taken into the temple young, given the observances and the labour, and years away from the priesthood.
+          "Shadow Thrall"—Shade Acolyte. The god's thrall: taken into the temple young, given the
+          observances and the labor, and years away from the priesthood.
       - level: 3
         title: Svik Godi/Gode
         lore: priestrnk
         description: >-
-          "Deception Priest/Priestess" — Priest/Priestess of the Veil. The working priest or priestess — Godi for a man, Gydja for a woman — who keeps the rites of a hall and the people who gather at it.
+          "Deception Priest/Priestess"—Priest/Priestess of the Veil. The working priest or
+          priestess—Godi for a man, Gydja for a woman—who keeps the rites of a hall and the people
+          who gather at it.
       - level: 4
         title: Ormr Hersir
         lore: commanderrnk
         description: >-
-          "Serpent Warlord" — Whispering Serpent. A warlord of the faith, carrying its authority where it must be carried by force or by presence.
+          "Serpent Warlord"—Whispering Serpent. A warlord of the faith, carrying its authority where
+          it must be carried by force or by presence.
       - level: 5
         title: Skuggi Jarl
         lore: greatlordrnk
         description: >-
-          "Shadow Jarl" — Shadowbinder. A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
+          "Shadow Jarl"—Shadowbinder. A senior rank carrying temporal weight as well as spiritual;
+          in many kingdoms a Jarl of a faith sits among the jarls of the land.
       - level: 6
         title: Rád Konungr/Konungrkvinde
         lore: sovereignrnk
         description: >-
-          "Ruse King/Queen" — Veilmaster. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
+          "Ruse King/Queen"—Veilmaster. King or queen within the faith's own hierarchy, and in some
+          kingdoms a power the crown must reckon with.
       - level: 7
         title: Skáld Allsherjargodi
         lore: highpriestrnk
         description: >-
-          "Trickster High Priest" — Serpent of the Shadows. High priest — a pontifical office, speaking for the faith where it must speak with one voice.
+          "Trickster High Priest"—Serpent of the Shadows. High priest—a pontifical office, speaking
+          for the faith where it must speak with one voice.
       - level: 8
         title: Ormr Fadir/Módir
         lore: grandmasterrnk
         description: >-
-          "Father/Mother of Serpents" — Pontiff of the Shifting Veil. Father or Mother of the god: the highest pontifical office, held by one person at a time.
+          "Father/Mother of Serpents"—Pontiff of the Shifting Veil. Father or Mother of the god: the
+          highest pontifical office, held by one person at a time.
     offices:
       Order of the Shifting Veil: >-
         Priests dedicated to mastering the arts of illusion and disguise, often serving as spies and infiltrators.
@@ -70,7 +78,7 @@ data:
       Allsherjargodi: >-
         High priest of the faith, and its voice where it must speak with one.
       Fadir/Módir: >-
-        Father or Mother of the god — the highest office, held by one person.
+        Father or Mother of the god—the highest office, held by one person.
       Godi/Gydja: >-
         The working priest or priestess of a hall, who keeps its rites and its people.
   commonSkills: []
@@ -92,7 +100,7 @@ shortcode: loki
 packFolder: pantheonsasguardian
 ---
 
-Lôki, the god of cunning, deception, and thieves, is the archetypal trickster — an unpredictable force of chaos and disruption. He is revered and feared in equal measure, embodying a dynamic, shape-shifting energy that defies the status quo and undermines conventional power structures. His followers are a diverse group, including assassins, thieves, and the downtrodden — those who lurk in society's shadows and navigate its underworld.
+Lôki, the god of cunning, deception, and thieves, is the archetypal trickster—an unpredictable force of chaos and disruption. He is revered and feared in equal measure, embodying a dynamic, shape-shifting energy that defies the status quo and undermines conventional power structures. His followers are a diverse group, including assassins, thieves, and the downtrodden—those who lurk in society's shadows and navigate its underworld.
 
 ## Aspects
 
@@ -116,13 +124,13 @@ Lôki is depicted as a charismatic and enigmatic figure, his expression always c
 
 ## Clergy
 
-- **Skuggi Thraell** (Circle I: "Shadow Thrall") — Shade Acolyte
-- **Svik Godi/Gode** (Circle III: "Deception Priest/Priestess") — Priest/Priestess of the Veil
-- **Ormr Hersir** (Circle IV: "Serpent Warlord") — Whispering Serpent
-- **Skuggi Jarl** (Circle V: "Shadow Jarl") — Shadowbinder
-- **Rád Konungr/Konungrkvinde** (Circle VI: "Ruse King/Queen") — Veilmaster
-- **Skáld Allsherjargodi** (Circle VII: "Trickster High Priest") — Serpent of the Shadows
-- **Ormr Fadir/Módir** (Circle VIII: "Father/Mother of Serpents") — Pontiff of the Shifting Veil
+- **Skuggi Thraell** (Circle I: "Shadow Thrall")—Shade Acolyte
+- **Svik Godi/Gode** (Circle III: "Deception Priest/Priestess")—Priest/Priestess of the Veil
+- **Ormr Hersir** (Circle IV: "Serpent Warlord")—Whispering Serpent
+- **Skuggi Jarl** (Circle V: "Shadow Jarl")—Shadowbinder
+- **Rád Konungr/Konungrkvinde** (Circle VI: "Ruse King/Queen")—Veilmaster
+- **Skáld Allsherjargodi** (Circle VII: "Trickster High Priest")—Serpent of the Shadows
+- **Ormr Fadir/Módir** (Circle VIII: "Father/Mother of Serpents")—Pontiff of the Shifting Veil
 
 **Key Skills:** Disguise and infiltration, Espionage and subterfuge, Manipulation and persuasion, Alchemy and Herbalism (Poisons), Intrigue, Stealth
 

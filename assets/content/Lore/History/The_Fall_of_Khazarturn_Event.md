@@ -2,7 +2,7 @@
 tags:
   - history
   - spine
-description: "In 2427 BF a Sinalë outlaw takes up the Second Voice, drives tens of thousands of Grukar against Khazártúrn and kills every soul in it — and the two Elder Races have not spoken since."
+description: "In 2427 BF a Sinalë outlaw takes up the Second Voice, drives tens of thousands of Grukar against Khazártúrn and kills every soul in it—and the two Elder Races have not spoken since."
 type: lore
 subType: history
 name:
@@ -45,7 +45,7 @@ event:
           govern it together for six centuries rather than let the breach be the end of it
         knowledge: named
       - place: place-elavendre
-        how: a convoy of six ships sails from these harbours carrying the recovered relic, and never arrives
+        how: a convoy of six ships sails from these harbors carrying the recovered relic, and never arrives
         knowledge: named
       - place: place-grkrhlmrgn
         how: >-
@@ -113,8 +113,8 @@ nuisance. The [[miscgear-secondvoice|Second Voice]] removes it, reaching the hat
 displacing the spawner's claim, so that Grukar of any number of tribes answer one will.
 
 Afterward the Khazári went back in. There were not remotely enough tombs, so they laid the dead in
-their own chambers — the smiths in their shops, the archivists among the records, the households in
-their halls — one by one, by name. Then they cleaned the city to the condition they had kept it in,
+their own chambers—the smiths in their shops, the archivists among the records, the households in
+their halls—one by one, by name. Then they cleaned the city to the condition they had kept it in,
 blocked the skylights with granite dressed to the surrounding rock, shut the fountains off at their
 source, put the birds out, and sealed it. Khazártúrn is not a ruin. It is intact, in good order, and
 full of its people.
@@ -123,7 +123,7 @@ The breach that followed is the one the world half-knows and cannot date. The Si
 existed and had never thought a weapon against cities worth mentioning, since they build none; one of
 theirs used it; and they hunted him down themselves, took a long time about it, and handed over
 nothing. Both positions are defensible and neither survives contact with the other. Only on
-[[place-aelwyth|Aelwyth]], where the two peoples were already neighbours, did anybody try to repair it.
+[[place-aelwyth|Aelwyth]], where the two peoples were already neighbors, did anybody try to repair it.
 
 The relic was never recovered a second time, which is why the Khazári kill Grukar on sight everywhere,
 knowing perfectly well that the Grukar were its first victims and chose none of it.

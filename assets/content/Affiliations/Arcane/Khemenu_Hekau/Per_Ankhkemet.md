@@ -46,9 +46,9 @@ data:
         title: Kher-Heb
         lore: masterrnk
         description: >-
-          Lector — the one who carries the book and reads the great formulae aloud at the rites. A Kher-Heb
-          holds the House's restricted forms, and is trusted with workings that are meant to stand for
-          centuries.
+          Lector—the one who carries the book and reads the great formulae aloud at the rites. A
+          Kher-Heb holds the House's restricted forms, and is trusted with workings that are meant
+          to stand for centuries.
       - level: 4
         title: Wer Kher-Heb
         lore: grandmasterrnk
@@ -60,7 +60,7 @@ data:
         Works the formulae that hold a bank, clear a channel or read the water, and is the House's most
         ordinary and most frequently summoned practitioner.
       Mender: >-
-        Holds the healing forms, which the House shares — carefully, and in reduced versions — with the
+        Holds the healing forms, which the House shares—carefully, and in reduced versions—with the
         temples of Íšét.
   commonSkills:
     - kemet
@@ -95,12 +95,12 @@ least prestigious, its practitioners being found at canal-heads and birth-beds r
 sealed chambers, and its formulae the ones most often taught in simplified form to people who are
 not hekau at all.
 
-**Ankh'kemet** — the Living Black Land — is the domain of water, fertility, growth, healing, and abundance. It is one of the
-eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris — by function in
+**Ankh'kemet**—the Living Black Land—is the domain of water, fertility, growth, healing, and abundance. It is one of the
+eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris—by function in
 the cosmic order rather than by substance, which is why no portion of it corresponds to any single
 Eídma of the western [[lore-hexhodai|Héx Hodäi]].
 
 ### See Also
 
-- [[lore-khemenuhekau|Khemenu Hekau]] — the philosophy and the other seven domains
-- [[place-khemenu|Khemenu]] — where the Eight are taught
+- [[lore-khemenuhekau|Khemenu Hekau]]—the philosophy and the other seven domains
+- [[place-khemenu|Khemenu]]—where the Eight are taught

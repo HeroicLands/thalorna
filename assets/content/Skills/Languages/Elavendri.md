@@ -5,7 +5,7 @@ name:
   aliases:
     - Élavendri
     - Elavendri
-description: "The settled speech of Élavendre, rich in words for magic, wilderness, and the fae — a daughter-tongue of old Áelendi."
+description: "The settled speech of Élavendre, rich in words for magic, wilderness, and the fae—a daughter-tongue of old Áelendi."
 shortcode: elvndrlng
 type: skill
 subType: language
@@ -62,7 +62,7 @@ The language is marked by a preference for alliteration, assonance, and poetic p
 
 ## Script & Literacy
 
-Élavendri traditionally employs [[skill-thrvrdhscrpt|Thúravardh]], the old Áelendan rune-row, but this script has been largely supplemented by the [[skill-semrnscrpt|Sêmarion]] — the same alphabet used in Vylari and neighboring regions. Thúravardh persists in magical texts, poetry, and items of great antiquity.
+Élavendri traditionally employs [[skill-thrvrdhscrpt|Thúravardh]], the old Áelendan rune-row, but this script has been largely supplemented by the [[skill-semrnscrpt|Sêmarion]]—the same alphabet used in Vylari and neighboring regions. Thúravardh persists in magical texts, poetry, and items of great antiquity.
 
 A distinctive scribal tradition employs flowing, connected letterforms that reflect the language's musical nature. Decorative elements (flourishes, miniatures) are common in high-quality texts. True literacy is confined to the priesthood, professional scribes, those training for magical arts (for whom reading is an absolute necessity), and perhaps 20-35% of the nobility. The common folk of Élavendre, like those elsewhere on Thalorna, are almost entirely non-literate and rely on scribes for any written communication.
 
@@ -82,7 +82,7 @@ The most conservative member of the Pelwar family is **[[skill-aelendlng|Áelend
 
 **Magical Register:** A specialized, highly formal variant used in magical rituals and high ceremony, employing archaic vocabulary and conservative phonetics. Knowledge of this register marks one as educated in magical arts.
 
-For the ancestral Pelwar tongue of the [[lore-aelendnppl|Áelendan]] — the most conservative member of the family, spoken in the mountainous interior — see [[skill-aelendlng|Áelendi Language]].
+For the ancestral Pelwar tongue of the [[lore-aelendnppl|Áelendan]]—the most conservative member of the family, spoken in the mountainous interior—see [[skill-aelendlng|Áelendi Language]].
 
 ## Sample Phrases
 
@@ -96,11 +96,11 @@ For the ancestral Pelwar tongue of the [[lore-aelendnppl|Áelendan]] — the mos
 
 Élavendri stands somewhat apart from its Pelwar siblings, having developed in relative isolation and under heavy influence from fey and pre-human populations. Its deep connection to Áelendi marks both as descendents of a northern branch of Proto-Pelwar, distinct from the southern branch that gave rise to Vylari, Tarvéni, and the others.
 
-Élavendri speakers find Provenzal somewhat intelligible, particularly in poetic contexts — Provenzal has absorbed substantial Élavendri vocabulary in the domains of art, emotion, and magic (words like _thèl_, _síl_, _dàren_, _thal-_, _ael-_), and Provenzal síladòr poetry frequently employs Élavendri word order and the copula _en_. An Élavendri speaker hearing a Provenzal love song will catch familiar words amid the foreign grammar. Vylari and Tarvéni speakers find Élavendri quite difficult. The northern languages [[skill-nordmalng|Nordmal]] and [[skill-varokhlng|Varokhi]] share some phonetic features with Élavendri but remain largely mutually unintelligible.
+Élavendri speakers find Provenzal somewhat intelligible, particularly in poetic contexts—Provenzal has absorbed substantial Élavendri vocabulary in the domains of art, emotion, and magic (words like _thèl_, _síl_, _dàren_, _thal-_, _ael-_), and Provenzal síladòr poetry frequently employs Élavendri word order and the copula _en_. An Élavendri speaker hearing a Provenzal love song will catch familiar words amid the foreign grammar. Vylari and Tarvéni speakers find Élavendri quite difficult. The northern languages [[skill-nordmalng|Nordmal]] and [[skill-varokhlng|Varokhi]] share some phonetic features with Élavendri but remain largely mutually unintelligible.
 
 ## Naming Traditions
 
-Élavendri names are often compound forms, combining roots related to nature, magic, and abstract qualities. A name might literally translate as "Bright-Stream" or "Shadow-Watcher" or "Keeper-of-Deep-Words". The meanings are taken seriously—a name is considered to shape character and destiny.
+Élavendri names are often compound forms, combining roots related to nature, magic, and abstract qualities. A name might literally translate as "Bright-Stream" or "Shadow-Watcher" or "Keeper-of-Deep-Words." The meanings are taken seriously—a name is considered to shape character and destiny.
 
 Many Élavendri individuals have both a "sun name" (used in formal and public contexts) and a "shadow name" (used only among intimates and at night). The shadow name is considered the true name, encoding the person's essential nature.
 

@@ -593,12 +593,12 @@ Rival blacksmiths covet his reputation.
 
 ## Plot Hooks
 
-1. **The Weaponcrafter (Armorer)'s Dilemma** — A noble wants a blade faster than Hármund can forge it well, and his name rides on whichever he chooses.
+1. **The Weaponcrafter (Armorer)'s Dilemma**—A noble wants a blade faster than Hármund can forge it well, and his name rides on whichever he chooses.
 
-2. **Old Grudges** — A rival blacksmith is passing off inferior work under Hármund's mark.
+2. **Old Grudges**—A rival blacksmith is passing off inferior work under Hármund's mark.
 
-3. **Echoes of the Past** — A blade Hármund forged thirty years ago is brought back to him, and the man carrying it wants to know who commissioned it.
+3. **Echoes of the Past**—A blade Hármund forged thirty years ago is brought back to him, and the man carrying it wants to know who commissioned it.
 
-4. **Shifting Winds** — Political change in Vrystwald threatens the guild standing Hármund depends upon, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Vrystwald threatens the guild standing Hármund depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity** — Hármund is offered the arming of a lord's whole household, and its price is not named up front.
+5. **The Opportunity**—Hármund is offered the arming of a lord's whole household, and its price is not named up front.

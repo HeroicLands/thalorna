@@ -36,6 +36,6 @@ Tz’alam Witz is austere and martial in character. The population consists prim
 
 ## See Also
 
-- [[affiliation-balamtzaku|Ba’alam Tza’ku]] — The highland region
-- [[place-tzalamha|Tz’alam Ha’]] — The coastal port city
-- [[affiliation-itzanpnthn|Itzáni]] — The priesthood that commands this fortress
+- [[affiliation-balamtzaku|Ba’alam Tza’ku]]—The highland region
+- [[place-tzalamha|Tz’alam Ha’]]—The coastal port city
+- [[affiliation-itzanpnthn|Itzáni]]—The priesthood that commands this fortress

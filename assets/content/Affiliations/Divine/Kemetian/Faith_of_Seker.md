@@ -16,13 +16,17 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Organised under a High Priest who oversees the mortuary temples and the vast mortuary industry, and who is answerable for all the dead receiving appropriate preparation and burial regardless of status. Unlike most priesthoods, its priests work in close contact with the practical realities of death and decay.
+      Organized under a High Priest who oversees the mortuary temples and the vast mortuary
+      industry, and who is answerable for all the dead receiving appropriate preparation and burial
+      regardless of status. Unlike most priesthoods, its priests work in close contact with the
+      practical realities of death and decay.
     ranks:
       - level: 0
         title: Rite-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually requires — a sentence that reaches past the end of the life it is passed in.
+          Barred from the temple rites, and with them from the funerary rites every Kheperi
+          eventually requires—a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
         lore: layfaithfulrnk
@@ -32,34 +36,39 @@ data:
         title: Wab
         lore: initiaternk
         description: >-
-          "Purified One" — acolytes trained for an unusual combination of sacred and practical responsibility: the sacred texts and the prayers that guide souls, alongside an apprenticeship under master embalmers.
+          "Purified One"—acolytes trained for an unusual combination of sacred and practical
+          responsibility: the sacred texts and the prayers that guide souls, alongside an
+          apprenticeship under master embalmers.
       - level: 3
         title: Hem'Netjer
         lore: priestrnk
         description: >-
-          "Servant of the God" — ordained priests overseeing specific mortuary temples and performing the sacred rituals of embalming and funeral rites.
+          "Servant of the God"—ordained priests overseeing specific mortuary temples and performing
+          the sacred rituals of embalming and funeral rites.
       - level: 4
         title: Wer'Hekau
         lore: highpriestrnk
         description: >-
-          "Great of Sacred Power" — High Priest of Sēker, overseeing the mortuary temples and the mortuary industry, responsible for maintaining standards of sacred practice and for all the dead — whatever their status — receiving appropriate preparation and burial.
+          "Great of Sacred Power"—High Priest of Sēker, overseeing the mortuary temples and the
+          mortuary industry, responsible for maintaining standards of sacred practice and for all
+          the dead—whatever their status—receiving appropriate preparation and burial.
     offices:
       Wer'Khat: >-
-        A master embalmer — a Wab who never advanced to full priesthood but gained significant status and wealth through skill and knowledge instead.
+        A master embalmer—a Wab who never advanced to full priesthood but gained significant status
+        and wealth through skill and knowledge instead.
       Warden of a Mortuary Temple: >-
         The Hem'Netjer overseeing one temple and performing its embalming and funeral rites.
       Keeper-Priest of the Mortuary Rites: >-
         Performs the daily offerings and the ceaseless calendar of mortuary rites for the royal dead, as
         part of the standing corps tens of thousands strong that keeps the necropolis running.
       Watch-Priest: >-
-        Endowed by the wealthy to keep standing watch above a tomb — the outermost of the guarded layer,
-        above the barriers, the traps and the curses.
+        Endowed by the wealthy to keep standing watch above a tomb—the outermost of the guarded
+        layer, above the barriers, the traps and the curses.
       Binder of the Warded Chamber: >-
-        Sets the bindings in the deepest chambers: shabti-warriors, ḍumaṭu that wake and strike when the
-        seal is broken, and revenant-wardens, ṭerebu that keep their wits and their post in the dark
-        forever. It is the costliest defence and the most
-        dreaded — and the robbers' surest master-key is a corrupt priest who knows which glyph is live and
-        which is bluff.
+        Sets the bindings in the deepest chambers: shabti-warriors, ḍumaṭu that wake and strike when
+        the seal is broken, and revenant-wardens, ṭerebu that keep their wits and their post in the
+        dark forever. It is the costliest defense and the most dreaded—and the robbers' surest
+        master-key is a corrupt priest who knows which glyph is live and which is bluff.
   commonSkills:
     - seker
     - pysn

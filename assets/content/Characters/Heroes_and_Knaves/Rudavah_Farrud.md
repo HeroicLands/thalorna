@@ -637,7 +637,7 @@ Rudâvah is driven by a singular, almost obsessive goal: to reduce the suffering
 
 ### Strengths
 
-- **Animal Whisperer:** Her animal craft, with five focuses, combined with her deep feeling for animals and her agility make her all but unequalled in calming, treating, and understanding horses. Animals respond to her in ways that seem almost mystical.
+- **Animal Whisperer:** Her animal craft, with five focuses, combined with her deep feeling for animals and her agility make her all but unequaled in calming, treating, and understanding horses. Animals respond to her in ways that seem almost mystical.
 - **Exceptional Horsemanship:** Her riding skill, with five focuses, allows her to manage even wild or ill-used animals, to communicate nuance through subtle physical signals, and to understand a horse's capabilities and limitations with uncanny precision.
 - **Physical Specialist:** Her dexterity and her climbing and jumping allow her to move quickly and precisely in dangerous situations involving animals.
 - **Practical Diagnosis:** Her physician's training and attention to detail allow her to recognize illness and injury in animals before they become critical, potentially saving lives.

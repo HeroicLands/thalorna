@@ -1,7 +1,7 @@
 ---
 tags:
   - region
-description: "The land of the Republic of Tarvenne — Aelwyth's western coast, good for fishing and moderate for farming, living by the carrying trade along its shore."
+description: "The land of the Republic of Tarvenne—Aelwyth's western coast, good for fishing and moderate for farming, living by the carrying trade along its shore."
 name:
   full: Tarvenne
   aliases: []
@@ -29,6 +29,6 @@ carrying trade along the western shore and from what it can charge others for ac
 
 ## See Also
 
-- [[affiliation-repblctrvn|Republic of Tarvenne]] — The republic that holds this land
-- [[place-aelwyth|Aelwyth]] — The island
-- [[place-thornbury|Thornbury]] — The seat
+- [[affiliation-repblctrvn|Republic of Tarvenne]]—The republic that holds this land
+- [[place-aelwyth|Aelwyth]]—The island
+- [[place-thornbury|Thornbury]]—The seat

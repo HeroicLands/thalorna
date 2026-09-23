@@ -556,7 +556,7 @@ Járaen Lýskal is a 39-year-old woman who stands 5'6" tall and is slender. She 
 
 # Dossier {#dossier}
 
-Járaen Lýskal is a toymaker of Lunacòrte, the capital of [[place-provenzrgn|Provènzia]], a Provenzian freewoman who makes wooden toys, dolls and small models in a workshop off the harbour quarter.
+Járaen Lýskal is a toymaker of Lunacòrte, the capital of [[place-provenzrgn|Provènzia]], a Provenzian freewoman who makes wooden toys, dolls and small models in a workshop off the harbor quarter.
 
 Járaen learned the trade from her grandfather, who carved for the children of a hill village and taught her that a toy is finished when a child cannot put it down. She brought the craft to the city at twenty and has kept a workshop for nearly as long, making jointed animals, painted dolls, ships with rigging that runs, and the small models of the court's ceremonies that collectors have begun to buy. No two pieces are the same and she will not make them so. The city is full of toys that are. Turned wood by the gross comes in through Belpòrte from Vylaria and sells at a third of her price, and Járaen, who can carve anything, cannot sell and hates trying, has watched the market she built go to it stall by stall.
 
@@ -590,10 +590,10 @@ The importing houses that bring in Vylarian turned toys through Belpòrte and se
 
 ## Plot Hooks
 
-1. **The Peer's Child** — A Peer's small daughter has refused every toy in the palace but one of Járaen's, and the Peer's steward has come to order a dozen more by the feast. Járaen has never made a dozen of anything.
+1. **The Peer's Child**—A Peer's small daughter has refused every toy in the palace but one of Járaen's, and the Peer's steward has come to order a dozen more by the feast. Járaen has never made a dozen of anything.
 
-2. **The Procession** — A collector has commissioned a complete model of the Crown's coronation procession, with a figure for every officer, and the Crown's chamberlain has let it be known that certain officers are not to be included.
+2. **The Procession**—A collector has commissioned a complete model of the Crown's coronation procession, with a figure for every officer, and the Crown's chamberlain has let it be known that certain officers are not to be included.
 
-3. **The Copy** — Járaen's jointed fox is being sold in the market in twenty copies, badly carved, under her grandfather's mark.
+3. **The Copy**—Járaen's jointed fox is being sold in the market in twenty copies, badly carved, under her grandfather's mark.
 
-4. **The Rent** — The workshop's landlord has doubled the rent for the harbour quarter, and Járaen has a season's stock she cannot sell and an apprentice she cannot pay.
+4. **The Rent**—The workshop's landlord has doubled the rent for the harbor quarter, and Járaen has a season's stock she cannot sell and an apprentice she cannot pay.

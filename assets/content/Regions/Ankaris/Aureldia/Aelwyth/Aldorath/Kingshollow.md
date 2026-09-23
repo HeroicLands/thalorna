@@ -2,7 +2,7 @@
 tags:
   - village
   - inland
-description: "The old royal manor of Aldorath — a village around a hunting seat the kings still use, where they are still crowned and still buried."
+description: "The old royal manor of Aldorath—a village around a hunting seat the kings still use, where they are still crowned and still buried."
 type: place
 subType: settlement
 data:
@@ -35,7 +35,7 @@ villagers dread and profit from in roughly equal measure.
 ## The Hunting
 
 The wood above Kingshollow is royal forest under forest law, and the kings hunt it. That is the
-village's other defining fact — the forest courts, the restrictions on grazing and firewood, the
+village's other defining fact—the forest courts, the restrictions on grazing and firewood, the
 poaching, and the long unresolved grievance of tenants living beside timber they may not cut.
 
 ## See Also
