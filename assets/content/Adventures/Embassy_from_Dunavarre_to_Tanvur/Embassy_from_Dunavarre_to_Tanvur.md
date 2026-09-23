@@ -9,7 +9,25 @@ data:
   parents: []
   locations:
     - aelwyth
-  cast: []
+    - elavendre
+    - tanvuregin
+  cast:
+    - arancelavren
+    - baridanalendavel
+    - elowyrnimavren
+    - thaekliamaelvri
+    - loristaravel
+    - arrenthabavel
+    - toradhtaravren
+    - marricharavrel
+    - kadylemcudavel
+    - laradhluavel
+    - ilaraluavel
+    - nhelynvelthravel
+    - alanoreneavel
+    - geldarpanivel
+    - lheteklarnavel
+    - rickarluavel
   factions: []
   follows: []
   status: draft
@@ -27,7 +45,7 @@ This campaign is composed of a series of adventures. Players will be members of 
 
 ### Ambassador
 
-**Name:** Sir Aran Célavren
+**Name:** [[being-arancelavren|Sir Aran Célavren]]
 
 - **Role:** High-ranking knight and noble.
 - **Background:** An experienced diplomat and trusted advisor from the court of Dúnavarre.
@@ -124,7 +142,7 @@ Name: [[being-alanoreneavel|Alananor Enéavel]]
 
 ### Chief Cook
 
-Name: Geldar Panivel, the Younger
+Name: [[being-geldarpanivel|Geldar Panivel, the Younger]]
 
 - **Role:** Ensures meals are prepared appropriately.
 - **Background:** Well-known for his culinary skills and ability to maintain morale through food.

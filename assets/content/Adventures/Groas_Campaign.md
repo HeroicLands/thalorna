@@ -8,7 +8,11 @@ subType: adventure
 data:
   parents: []
   locations: []
-  cast: []
+  cast:
+    - grosdrnrgd
+    - rnhrngsdtr
+    - njorven
+    - kinghakoniii
   factions: []
   follows: []
   status: draft
@@ -22,13 +26,13 @@ packFolder: adventures
 
 ### Campaign Overview:
 
-Gróa’s vision of the future is one of three interconnected threats: **internal strife** within the [[affiliation-kingdomlgn|Kingdom of Malagna]], **foreign invasions**, and, most urgently, the rise of **Njörven**, the Sea Wraith. As the kingdom spirals into chaos, with rival factions vying for power and external enemies closing in, Njörven’s influence seeps back into the land, stirring violent storms and awakening ancient curses. Gróa and her companions—though initially minor figures—will rise as protectors of the common folk, navigating a path through these tensions and facing the Sea Wraith’s growing power.
+**[[being-grosdrnrgd|Gróa]]**’s vision of the future is one of three interconnected threats: **internal strife** within the [[affiliation-kingdomlgn|Kingdom of Malagna]], **foreign invasions**, and, most urgently, the rise of **[[being-njorven|Njörven]]**, the Sea Wraith. As the kingdom spirals into chaos, with rival factions vying for power and external enemies closing in, Njörven’s influence seeps back into the land, stirring violent storms and awakening ancient curses. Gróa and her companions—though initially minor figures—will rise as protectors of the common folk, navigating a path through these tensions and facing the Sea Wraith’s growing power.
 
 This is a campaign where wisdom, diplomacy, and strength of character are valued over brute magical force. While Gróa’s Seidr powers and her companions' skills will play important roles, the solutions to problems will often involve non-magical strategies. The internal political instability, foreign threats, and the plight of the people will shape much of the campaign.
 
 ### The Three Great Challenges
 
-1.  **Internal Strife:** Malagna is teetering on the edge of civil war. King Hákon III is aging and ineffective, and various factions within the kingdom, including powerful clans like the Hrafnvar and Grímvar, vie for dominance. Gróa and her companions find themselves in a kingdom where the real threat is not only the ancient sea spirit, but also the unraveling of their homeland’s social fabric.
+1.  **Internal Strife:** Malagna is teetering on the edge of civil war. [[being-kinghakoniii|King Hákon III]] is aging and ineffective, and various factions within the kingdom, including powerful clans like the Hrafnvar and Grímvar, vie for dominance. Gróa and her companions find themselves in a kingdom where the real threat is not only the ancient sea spirit, but also the unraveling of their homeland’s social fabric.
 2.  **Foreign Invasions:** In addition to internal turmoil, foreign threats loom on Malagna’s borders. [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and the [[affiliation-kingdmtrgd|Kingdom of Targud]], emboldened by Malagna’s political weakness, launch raids along the coast. Villages are left defenseless, and the kingdom’s military is too fractured to protect the people. Gróa and her companions will need to confront these invaders, rally the common folk, and defend their homeland against these external dangers.
 3.  **Njörven’s Rise:** The ancient Sea Wraith, Njörven, is beginning to stir from his watery prison. His wrath is manifesting in destructive storms, and his influence grows as the seas become more perilous. However, Njörven’s awakening is not only a spiritual threat—it is also a political one, as some coastal clans begin questioning their allegiance to Thórr, the god who once vanquished Njörven. Gróa’s mission to retrieve the three relics and stop Njörven’s rise is the overarching quest, but much of the campaign will be about dealing with the tangible effects of his influence.
 

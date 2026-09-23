@@ -18,7 +18,8 @@ data:
   occupation: King
   stations: []
   lore: []
-  homes: []
+  homes:
+    - nrdlndsrgn
   affiliations:
     - kingdomlgn
   gender: male
