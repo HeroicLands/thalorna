@@ -1,16 +1,58 @@
 ---
-type: lore
-subType: history
+tags:
+  - draft
+  - character
 name:
   full: Tëitjëk Vëngyürt
-  aliases: []
-shortcode: ttjkvngyrt
+  title: General
+  given: Tëitjëk
+  clan: Vëngyürt
+  home: ""
+  aliases:
+    - Iron Spear Piercing the Clouds
+shortcode: teitjekvngyrt
+renamedFrom: ttjkvngyrt
+description: >-
+  Vüshōk general of the Empire of Tānvür turned rebel — condemned for a
+  disobedience that won the battle it defied, and now leading the revolt that
+  condemnation made inevitable.
+type: being
 packFolder: threats
+data:
+  icon: icon-person
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 ---
+
+# Appearance {#appearance}
+
+TBD
+
+# Dossier {#dossier}
 
 **"Iron Spear Piercing the Clouds"**
 
 Tëitjëk Vëngyürt was once a highly respected general within the [[lore-vushok|Vüshōk]] caste. His defiance of a direct imperial order during a critical campaign, though resulting in victory, was viewed as grave insubordination. For this, he was stripped of his rank and exiled.
+
+That the defiance won the campaign made it worse rather than better: a victory won by disobedience indicts the order, and the celestial administration cannot allow that to stand.
 
 ## The Rebellion
 
@@ -32,9 +74,9 @@ Both nobles are aware that if the rebellion fails, they face torture and executi
 
 The rebellion has begun to make significant gains in border regions, but internal cracks are showing. The tension between the noble leaders grows, with Lëngzhāt favoring direct confrontation while Vëngdāk prefers subterfuge.
 
-## See Also
+# See Also
 
-- [[lore-bthrhrtzhk|Bāthür Hürtzhük]] — The northern warlord whose ambitions could intersect with the rebellion
+- [[being-bathurhurtzhuk|Bāthür Hürtzhük]] — The northern warlord whose ambitions could intersect with the rebellion
 - [[affiliation-yurthatzhk|Yürtthāt Zhāk]] — Another destabilizing internal threat
 - [[lore-veizhatret|Vëi Zhāt Rëit]] — The political intrigue game that permeates even this rebellion
-- [[affiliation-tanvurempr|Empire of Tānvür]] — The empire under threat
+- [[affiliation-tanvurempr|Empire of Tānvür]] — The authority he broke with

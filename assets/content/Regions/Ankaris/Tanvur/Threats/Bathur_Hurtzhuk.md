@@ -1,16 +1,60 @@
 ---
-type: lore
-subType: history
+tags:
+  - draft
+  - character
 name:
   full: Bāthür Hürtzhük
-  aliases: []
-shortcode: bthrhrtzhk
+  title: Hëkvōr Warlord
+  given: Bāthür
+  clan: Hürtzhük
+  home: ""
+  aliases:
+    - Master Tiger of the Steppes
+shortcode: bathurhurtzhuk
+renamedFrom:
+  - hathurhtzhk
+  - bthrhrtzhk
+description: >-
+  Warlord risen out of the Hëkvōr, the Black Wilds north of the Empire of
+  Tānvür — a master strategist whose steppe confederation has become the
+  gravest external threat the imperial frontier has faced in a generation.
+type: being
 packFolder: threats
+data:
+  icon: icon-person
+  templatePriority: null
+  archetypes: []
+  occupation: null
+  stations: []
+  lore: []
+  homes: []
+  affiliations: []
+  gender: null
+  species: null
+  age: null
+  birthday: null
+  height: null
+  weight: null
+  frame: null
+  appearance:
+    eye_color: null
+    hair_color: null
+    skin_color: null
+    complexion: null
+    extra_features: []
 ---
+
+# Appearance {#appearance}
+
+TBD
+
+# Dossier {#dossier}
 
 **"Master Tiger of the Steppes"**
 
-The formidable and feared **Bāthür Hürtzhük** has emerged as a powerful warlord from the northern wilderness, known as the **Hëkvōr** (Hëkvōr), or the "Black Wilds." A master strategist and ruthless leader, he has united the disparate and warring barbarian tribes under a single banner. His rise to power has sent shockwaves throughout the [[affiliation-tanvurempr|Empire of Tānvür]], as his forces grow ever stronger and more disciplined.
+The formidable and feared **Bāthür Hürtzhük** has emerged as a powerful warlord from the northern wilderness, known as the **Hëkvōr**, or the "Black Wilds." A master strategist and ruthless leader, he has united the disparate and warring barbarian tribes under a single banner. His rise to power has sent shockwaves throughout the [[affiliation-tanvurempr|Empire of Tānvür]], as his forces grow ever stronger and more disciplined.
+
+He is a strategist before he is a warrior, and the Empire's frontier commanders have learned that the campaigns he loses are the ones he intended to lose.
 
 ## The Rise to Power
 
@@ -29,8 +73,8 @@ Bāthür Hürtzhük's ascent has been fueled by a combination of political insta
 - **Potential for Internal Alliances:** Bāthür Hürtzhük has reached out to disaffected elements within the empire, including exiled [[lore-vushok|Vüshōk]] and rebellious factions, offering them a place in his burgeoning empire.
 - **Inspiration for Rebellion:** His success has inspired unrest throughout the empire. Disaffected nobles, peasants suffering under heavy taxation, and ambitious warlords may be emboldened by his example.
 
-## See Also
+# See Also
 
-- [[lore-ttjkvngyrt|Tëitjëk Vëngyürt]] — The exiled general whose rebellion could align with Bāthür's ambitions
+- [[being-teitjekvngyrt|Tëitjëk Vëngyürt]] — The exiled general whose rebellion could align with Bāthür's ambitions
 - [[lore-extrnlthrts|External Threats]] — Other military threats to the empire
-- [[affiliation-tanvurempr|Empire of Tānvür]] — The empire under threat
+- [[affiliation-tanvurempr|Empire of Tānvür]] — The power he presses against

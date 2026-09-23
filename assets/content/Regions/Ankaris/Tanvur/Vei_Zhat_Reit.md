@@ -79,7 +79,7 @@ In the most extreme cases, a failed player is quietly assassinated, their death 
 ### See Also
 
 - [[affiliation-yurthatzhk|Yürtthāt Zhāk]] — A noble house whose fall illustrates the Jade Fan Dance's consequences
-- [[lore-ttjkvngyrt|Tëitjëk Vëngyürt]] — A rebellion shaped by the same political dynamics
+- [[being-teitjekvngyrt|Tëitjëk Vëngyürt]] — A rebellion shaped by the same political dynamics
 - [[lore-intrnlsbvrsvthrts|Internal Subversive Threats]] — Forces exploiting the cracks the Jade Fan Dance creates
 - [[lore-zheklung|Zhëklüng]] — The caste whose members are the primary players
 - [[lore-ancstrwrshp|Ancestor Worship]] — The spiritual economy that the Jade Fan Dance manipulates

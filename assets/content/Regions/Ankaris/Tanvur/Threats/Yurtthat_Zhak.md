@@ -129,5 +129,5 @@ Should the gamble fail:
 
 - [[lore-intrnlsbvrsvthrts|Internal Subversive Threats]] — The Black Lotus Society and other destabilizing forces
 - [[lore-veizhatret|Vëi Zhāt Rëit]] — The political game that brought the house low
-- [[lore-ttjkvngyrt|Tëitjëk Vëngyürt]] — Another internal threat to the empire
+- [[being-teitjekvngyrt|Tëitjëk Vëngyürt]] — Another internal threat to the empire
 - [[affiliation-tanvurempr|Empire of Tānvür]] — The empire whose court they navigate

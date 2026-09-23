@@ -53,7 +53,7 @@ A series of poor rice harvests in the south has led to fears of famine across th
 ## See Also
 
 - [[affiliation-yurthatzhk|Yürtthāt Zhāk]] — A noble house entangled with the Black Lotus Society
-- [[lore-ttjkvngyrt|Tëitjëk Vëngyürt]] — The exiled general's rebellion
+- [[being-teitjekvngyrt|Tëitjëk Vëngyürt]] — The exiled general's rebellion
 - [[lore-veizhatret|Vëi Zhāt Rëit]] — The political intrigue that enables many of these threats
 - [[lore-castelaws|Caste Laws]] — The rigid social structure under pressure
 - [[affiliation-tanvurempr|Empire of Tānvür]] — The empire these forces seek to undermine
