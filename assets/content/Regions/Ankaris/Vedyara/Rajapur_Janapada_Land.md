@@ -35,4 +35,4 @@ The combination of fertile Mahānadi floodplain agriculture, the sugar specialty
 
 - [[affiliation-rajaprjnpd|Rājapur Janapada]] — the temple-republic that holds this land
 - [[place-vedyarargn|Vedyara Region]] — the enclosing region
-- [[place-rajapur|Rājapur]] — the temple-seat
+- Rājapur — the temple-seat

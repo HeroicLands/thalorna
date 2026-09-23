@@ -1,6 +1,6 @@
 ---
-tags:
-  - draft
+tags: []
+description: "The World-Weaver of the Aurèldián pantheon, from whose spinning the world and everything in it was made."
 type: lore
 subType: deity
 name:
@@ -9,5 +9,3 @@ name:
 shortcode: lusiniadty
 packFolder: deitiesaureldian
 ---
-
-TBD

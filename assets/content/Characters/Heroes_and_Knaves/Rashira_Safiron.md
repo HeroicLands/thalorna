@@ -570,7 +570,7 @@ Rashîra is a woman of middle years, slight and upright, with the ink-stained co
 
 ### Origin and Early Life
 
-Rashîra was born to **House Safîrôn**, a lettered but middling House of [[place-bethura|Bethûra]] whose women had served the realm's offices for generations — not as Dómissai of great estates, but as the literate functionaries on whom any matriarchy of clerks and qanats must ultimately depend. Where wealthier daughters were raised to command land and arms, Rashîra was raised to command the written word. She showed an early and unusual gift for it: for scripts and ciphers, for the dense legal Bethûan of warrants and writs, and for the patient memory that lets a keeper of records hold a whole archive in her head.
+Rashîra was born to **House Safîrôn**, a lettered but middling House of Bethûra whose women had served the realm's offices for generations — not as Dómissai of great estates, but as the literate functionaries on whom any matriarchy of clerks and qanats must ultimately depend. Where wealthier daughters were raised to command land and arms, Rashîra was raised to command the written word. She showed an early and unusual gift for it: for scripts and ciphers, for the dense legal Bethûan of warrants and writs, and for the patient memory that lets a keeper of records hold a whole archive in her head.
 
 ### The Grammatíssa's Office
 

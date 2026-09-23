@@ -16,15 +16,3 @@ name:
 shortcode: oasisteyrn
 packFolder: dunharadesert
 ---
-
-## Overview
-
-_To be written._
-
-## Notable Features
-
-_To be written._
-
-## Notable Figures
-
-_To be written._

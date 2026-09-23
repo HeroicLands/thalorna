@@ -620,7 +620,7 @@ Now thirty-one years old, Snorri represents an unique threat to his masters—st
 
 Snorri is a man of contained fury and dangerous eloquence. He speaks little, having learned that words often precede punishment, but when he does speak, his observations cut through pretense with the clarity of a well-honed blade. He possesses a grim humor, finding dark comedy in the absurdity and cruelty of his situation. Those who know him well recognize that his silence masks an extraordinary mind—one that observes, catalogs, and strategizes constantly. He is not cruel by nature, and his anger is not misdirected at his fellow thralls; rather, it burns with singular focus toward his masters and the system that enslaves him.
 
-He is spiritually devoted to [[lore-tyrdty|Týr]], the god of order and law, though his faith has evolved into something complex and defiant. He believes that true order demands justice, and that the false order imposed by his enslavers is a perversion of divine law. He prays in secret, asking Týr to grant him strength and clarity, and to make him an instrument of the reordering that must come.
+He is spiritually devoted to Týr, the god of order and law, though his faith has evolved into something complex and defiant. He believes that true order demands justice, and that the false order imposed by his enslavers is a perversion of divine law. He prays in secret, asking Týr to grant him strength and clarity, and to make him an instrument of the reordering that must come.
 
 ### Motivation
 

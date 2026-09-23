@@ -614,7 +614,7 @@ Her default state is hypervigilance: she reads people with extraordinary skill, 
 
 ### Motivation
 
-Chandrakīrtisundarī seeks escape from her current circumstances: she wants to accumulate enough wealth and enough leverage to vanish from both the Ādānaśreṇī and the Twilight House, to disappear into a new identity in a distant city where no one knows her history or her profession. She is motivated by fear as much as ambition—the fear that if she remains in Vedyara much longer, the accumulated weight of her obligations will crush her, or worse, that someone she has betrayed will discover her deception and kill her. She also harbors a secret and dangerous desire for redemption or at least for a life where she need not constantly perform and dissemble. The [[lore-vyalendradty|Vyālendra]] she worships—goddess of creation—represents for her the possibility of transformation, of being born anew into authentic selfhood.
+Chandrakīrtisundarī seeks escape from her current circumstances: she wants to accumulate enough wealth and enough leverage to vanish from both the Ādānaśreṇī and the Twilight House, to disappear into a new identity in a distant city where no one knows her history or her profession. She is motivated by fear as much as ambition—the fear that if she remains in Vedyara much longer, the accumulated weight of her obligations will crush her, or worse, that someone she has betrayed will discover her deception and kill her. She also harbors a secret and dangerous desire for redemption or at least for a life where she need not constantly perform and dissemble. The Vyālendra she worships—goddess of creation—represents for her the possibility of transformation, of being born anew into authentic selfhood.
 
 ### Strengths
 

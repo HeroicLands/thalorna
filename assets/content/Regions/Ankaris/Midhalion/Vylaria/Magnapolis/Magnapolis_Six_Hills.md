@@ -1,6 +1,5 @@
 ---
-tags:
-  - draft
+tags: []
 description: "Six Hills"
 name:
   full: Six Hills
@@ -16,29 +15,3 @@ data:
 shortcode: sixhillsvyl
 packFolder: vylaria
 ---
-
-TBD
-
-## Mons Aquila {#monsaquila}
-
-TBD
-
-## Mons Corónus {#monscoronus}
-
-TBD
-
-## Mons Lauríne {#monslaurine}
-
-TBD
-
-## Mons Sápiens {#monssapiens}
-
-TBD
-
-## Mons Vétus {#monsvetus}
-
-TBD
-
-## Mons Rípae {#monsripae}
-
-TBD

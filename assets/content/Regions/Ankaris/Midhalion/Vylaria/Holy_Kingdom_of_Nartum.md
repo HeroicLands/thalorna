@@ -202,7 +202,7 @@ Holy Kingdom of Nartûm uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion /
 ## See Also
 
 - [[place-nartumkngdm|Nartûm Kingdom]] — The land the kingdom holds
-- [[place-nartum|Nartûm]] — The holy city, its seat
+- Nartûm — The holy city, its seat
 - [[affiliation-vylarinmpr|Vylarian Empire]] — Cultural parent, political rival
 - [[affiliation-arldnpnthn|Aurèldían]] — State pantheon
 - [[skill-vylarilng|Vylari]] — Naming conventions

@@ -37,4 +37,4 @@ The janapada exports gold (about half of annual extraction is sold or traded to 
 
 - [[affiliation-suvrgrjnpd|Suvarṇagiri Janapada]] — the temple-republic that holds this land
 - [[place-vedyarargn|Vedyara Region]] — the enclosing region
-- [[place-suvaragiri|Suvarṇagiri]] — the temple-seat
+- Suvarṇagiri — the temple-seat

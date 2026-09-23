@@ -3,6 +3,7 @@ tags: []
 name:
   full: Hex
   aliases: []
+description: "Sets misfortune on a named person, which follows them until it has spent itself."
 shortcode: hex
 type: mysticalability
 subType: arcanetalent

@@ -3,6 +3,7 @@ tags: []
 name:
   full: Telekinesis
   aliases: []
+description: "Moves an object at a distance, within a weight the practitioner could lift by hand."
 shortcode: telek
 type: mysticalability
 subType: arcanetalent

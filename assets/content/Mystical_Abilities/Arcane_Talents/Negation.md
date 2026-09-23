@@ -3,6 +3,7 @@ tags: []
 name:
   full: Negation
   aliases: []
+description: "Suppresses a mystical working in progress, or blunts one directed at the practitioner."
 shortcode: negx
 type: mysticalability
 subType: arcanetalent

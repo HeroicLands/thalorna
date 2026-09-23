@@ -12,7 +12,7 @@ data:
     - vardain
   parents:
     - vardainvalleys
-  population: 1000
+  population: 900
 name:
   full: Kalm
   aliases: []
@@ -21,7 +21,7 @@ packFolder: aelwyth
 ---
 
 **Kalm** holds the broadest and lowest of the valley floors, which makes it the Vardain's grain country:
-oats and barley, and rye where the drainage is poor. Four hundred and ten people.
+oats and barley, and rye where the drainage is poor. Nine hundred people.
 
 It is also the village that changed most in living memory. When the Nordmen took the plain sixty years
 ago and the survivors came up the passes, Kalm had the room and the food, and a good third of its

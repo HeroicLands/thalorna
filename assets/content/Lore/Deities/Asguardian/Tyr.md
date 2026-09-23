@@ -1,6 +1,6 @@
 ---
-tags:
-  - draft
+tags: []
+description: "The Just of the Asguardian gods — law, sworn oaths, and combat fought by the honourable forms."
 type: lore
 subType: deity
 name:
@@ -9,5 +9,3 @@ name:
 shortcode: tyrdty
 packFolder: deitiesasguardian
 ---
-
-TBD

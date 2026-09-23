@@ -28,13 +28,13 @@ The region shares its language family, its pantheon and its alphabet with [[plac
 
 Byzaría rises in three steps from the sea.
 
-The **coast**, along the northern shore of the Vylarian Sea, is warm and dry in the Helladic manner — hot summers, mild wet winters, terraced olive groves and vineyards on the hills behind the harbors. The shoreline is deeply indented, and its islands and straits make natural fortresses: [[affiliation-denizara|Denizara]], the League's great port, sits on a fortress isle in the straits that carry its name, and the lesser harbors of [[place-chrysamar|Chrysamar]], [[place-thalassos|Thálassos]] and [[place-kostaros|Kostaros]] string out along the coast to either side. The coast is the most densely settled part of the region, and its cities look outward to the sea rather than inward to the plateau.
+The **coast**, along the northern shore of the Vylarian Sea, is warm and dry in the Helladic manner — hot summers, mild wet winters, terraced olive groves and vineyards on the hills behind the harbors. The shoreline is deeply indented, and its islands and straits make natural fortresses: [[affiliation-denizara|Denizara]], the League's great port, sits on a fortress isle in the straits that carry its name, and the lesser harbors of [[place-chrysamar|Chrysamar]], [[place-thalassos|Thálassos]] and Kostaros string out along the coast to either side. The coast is the most densely settled part of the region, and its cities look outward to the sea rather than inward to the plateau.
 
 The **plateau** behind the coast is the country most outsiders never see: a broad, treeless upland of grass and scrub, cold in winter and baked in summer, where herds of sheep, goats and horses move between seasonal pastures and the villages grow hardy grain in the valley bottoms. The coastal hills climb to it in a series of escarpments, and [[affiliation-altinkale|Altinkale]], the League's capital, sits at the seam where the lowland road from Denizara reaches the plateau's edge. In the lusher valleys of the plateau's eastern hills lies [[affiliation-yesilhan|Yeşilhan]], the caravan city where the roads east and south divide. On the arid highland inland from Denizara sprawls [[place-nekropolis|Nékropolis]], the city of the dead, where every great house of the League keeps its tombs.
 
 The **mountains** close the region to the east and north. In the mountainous interior, [[affiliation-karatas|Karataş]] quarries its black basalt and mines the iron and copper that make it the League's forge. Further east the ranges rise higher and drier, and the principal pass through them is held by [[affiliation-gumushisar|Gümüşhisar]], the Silver Citadel, whose mines in the surrounding peaks pay for the League's defense. Beyond Gümüşhisar the land falls away into the steppe and stone of the Khazryn. To the north the plateau climbs into rougher uplands that descend, on their far side, into the grain country of [[place-velanthrgn|Velanthia]].
 
-Between the great cities lie the lesser towns: [[place-byzaris|Byzaris]], the artisan city of the guilds; [[place-selimara|Selímara]], a market town on the inland roads; and dozens of villages, caravanserais and shrines that the maps of Altinkale's counting houses record only as tolls collected.
+Between the great cities lie the lesser towns: [[place-byzaris|Byzaris]], the artisan city of the guilds; Selímara, a market town on the inland roads; and dozens of villages, caravanserais and shrines that the maps of Altinkale's counting houses record only as tolls collected.
 
 ## The Marches
 
@@ -97,7 +97,7 @@ To the **south**, across the sea, lies the [[place-midhalnrgn|Mídhalión]] basi
 - [[affiliation-byzarianlg|Byzarian League]] — the confederation that holds the region
 - [[affiliation-altinkale|Altinkale]], [[affiliation-denizara|Denizara]], [[affiliation-yesilhan|Yeşilhan]], [[affiliation-gumushisar|Gümüşhisar]], [[affiliation-karatas|Karataş]] — the five city-states
 - [[place-eastrnmrch|Eastern March]], [[place-southrnmrch|Southern March]], [[place-northrnmrch|Northern March]] — the League's border districts
-- [[place-byzaris|Byzaris]], [[place-chrysamar|Chrysamar]], [[place-thalassos|Thálassos]], [[place-kostaros|Kostaros]], [[place-selimara|Selímara]], [[place-nekropolis|Nékropolis]] — lesser towns
+- [[place-byzaris|Byzaris]], [[place-chrysamar|Chrysamar]], [[place-thalassos|Thálassos]], Kostaros, Selímara, [[place-nekropolis|Nékropolis]] — lesser towns
 - [[skill-byzarnlng|Byzarian Language]] — the trade tongue
 - [[place-heladrgn|Hellád Region]] — parent region
 - [[place-helionis|Heliónis]] — western neighbor

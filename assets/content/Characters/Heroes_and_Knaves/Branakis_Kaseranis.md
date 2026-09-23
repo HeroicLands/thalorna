@@ -664,7 +664,7 @@ Bránakis is driven by a commitment to excellence that borders on obsession, and
 ### Patrons
 
 - **Master Blacksmith Torvin Ironhand**: The region's most famous blacksmith who specifically seeks out Bránakis' charcoal for his most important commissions. Torvin is perhaps the only person Bránakis considers a true peer.
-- **The Abbey of [[lore-vulcandty|Vúlcan]]'s Flame**: A monastic order devoted to the fire god, which purchases substantial quantities of charcoal for both practical and spiritual purposes. They also provide some protection and prestige to Bránakis within the religious community.
+- **The Abbey of Vúlcan's Flame**: A monastic order devoted to the fire god, which purchases substantial quantities of charcoal for both practical and spiritual purposes. They also provide some protection and prestige to Bránakis within the religious community.
 - **Guild Master Aldus Woodbark**: The head of the Woodworkers' Guild, who has maintained Bránakis' membership despite pressure from younger, more pliable members.
 
 ### Enemies

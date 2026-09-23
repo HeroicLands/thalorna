@@ -114,7 +114,7 @@ shortcode: ironcinder
 _Aurèldían: Cinis Ferreus — "Iron Cinder"_
 
 - **Type:** Covert fighting religious order (heretical to the mainstream Aurèldían faith)
-- **Patron:** [[affiliation-blackflame|The Black Flame]] — [[lore-vulcandty|Vúlcan]] as the conflagration of the mailed fist
+- **Patron:** [[affiliation-blackflame|The Black Flame]] — Vúlcan as the conflagration of the mailed fist
 - **Region:** [[place-aureldirgn|Aurèldía]] — no fixed bases; operates as a network of cells with no permanent stations; coordinated from sites that change every season
 
 ## Overview

@@ -3,6 +3,7 @@ tags: []
 name:
   full: Healing
   aliases: []
+description: "Closes a wound and hastens the body's own mending, without medicine or surgery."
 shortcode: heal
 type: mysticalability
 subType: arcanetalent

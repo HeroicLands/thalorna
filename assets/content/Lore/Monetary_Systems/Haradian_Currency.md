@@ -45,13 +45,13 @@ In casual commerce within Haradian territory the underweight Aurion passes at fu
 
 ## Geographic Acceptance
 
-| Region                                                 | Status                                                                                                                                 |
-| ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
-| [[place-haradregin\|Confederation of Haradian States]] | Native standard                                                                                                                        |
-| Vylarian Sea trading ports                             | Accepted at the Heliónite intermediary houses for conversion to Vylarian script; otherwise rare                                        |
-| [[place-helionis\|Heliónis]] proper                    | Specific Argentariorum chapters maintain quiet correspondent arrangements with named Bayt-affiliated houses; not publicly acknowledged |
-| Northern Fertile Region                                | Accepted as foreign currency through changers; conversion to Ta'Kheperan weight-pieces                                                 |
-| Elsewhere                                              | Effectively absent                                                                                                                     |
+| Region                              | Status                                                                                                                                 |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Confederation of Haradian States    | Native standard                                                                                                                        |
+| Vylarian Sea trading ports          | Accepted at the Heliónite intermediary houses for conversion to Vylarian script; otherwise rare                                        |
+| [[place-helionis\|Heliónis]] proper | Specific Argentariorum chapters maintain quiet correspondent arrangements with named Bayt-affiliated houses; not publicly acknowledged |
+| Northern Fertile Region             | Accepted as foreign currency through changers; conversion to Ta'Kheperan weight-pieces                                                 |
+| Elsewhere                           | Effectively absent                                                                                                                     |
 
 ## See Also
 

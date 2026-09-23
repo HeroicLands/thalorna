@@ -3,6 +3,7 @@ tags: []
 name:
   full: Enthral
   aliases: []
+description: "Holds a person's attention and compliance for as long as the talent is sustained."
 shortcode: enth
 type: mysticalability
 subType: arcanetalent
