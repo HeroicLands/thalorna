@@ -29,7 +29,7 @@ and the fruit and wine of the Zûravlen valley—is carried inland to Hárivren,
 there, and goes south from there to the rich Vylarian coast. Some thirty-four thousand people live on
 the proceeds.
 
-The name belongs to the older stratum, like Lhénavren and Yhârvalen, and the city is older than
+The name belongs to the older stratum, like Yhârvalen, and the city is older than
 Provènzia. It was a stronghold on that river crossing long before any crown claimed it, and the walls
 still follow the line the first ones did.
 
