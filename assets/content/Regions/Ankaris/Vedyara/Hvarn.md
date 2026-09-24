@@ -71,7 +71,7 @@ data:
       Turn-keeper: >-
         Keeper of the rotation by which the crossings are shared out, and of the debts it
         leaves between hearths.
-      Storm-reader: Reader of the eastern weather, whose refusal ends a day's travel.
+      Storm-Reader: Reader of the eastern weather, whose refusal ends a day's travel.
       Fort-carrier: >-
         Holder of the contract by which the garrison on the col is fed, and the one Hvarn who
         deals with lowland officers.

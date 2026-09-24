@@ -145,7 +145,7 @@ Regional speech shows considerable variation:
 - Gender distinctions are maintained
 - Pronunciation emphasizes the distinctive /kh/ and final nasals
 
-### Western Okháric (Borderlands & Trade Routes)
+### Western Okháric (Western Temple-Cities & Trade Routes)
 
 - Moderate innovation; some verbal simplification via auxiliaries
 - Gender distinction weakening, particularly in adjectives

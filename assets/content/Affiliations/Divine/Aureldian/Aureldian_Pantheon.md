@@ -5,7 +5,7 @@ tags:
   - religion
 description: "Western tradition honoring twelve deities governing creation, order, and the cycles of life; split by the Vúlcani schism between sacred forge and black flame."
 name:
-  full: Aurèldián Pantheon
+  full: Aurèldían Pantheon
   aliases:
     - The Twelve
 shortcode: arldnpnthn
