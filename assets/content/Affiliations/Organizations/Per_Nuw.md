@@ -23,8 +23,8 @@ data:
   governance:
     model: council
     summary: >-
-      A court of wardens and assistants under an elected head, governing the craft between
-      general assemblies.
+      A chartered guild of Ta'Kheperan professional hunters, elevated from apprentice to Great
+      Hunter, governed by the Council of the Long Spear under its First Hunter.
     ranks:
       - level: 0
         title: Blacklisted

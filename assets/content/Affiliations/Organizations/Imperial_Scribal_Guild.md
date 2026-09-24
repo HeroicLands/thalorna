@@ -18,8 +18,8 @@ data:
   governance:
     model: council
     summary: >-
-      A court of wardens and assistants under an elected head, governing the craft between
-      general assemblies.
+      A chartered guild of imperial scribes, examined from probationer to Guildmaster, governed
+      by the Council of Guildmasters under its High Hand.
     ranks:
       - level: 0
         title: Blacklisted

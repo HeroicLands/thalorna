@@ -25,8 +25,8 @@ data:
   governance:
     model: council
     summary: >-
-      A court of wardens and assistants under an elected head, governing the craft between
-      general assemblies.
+      A chartered guild of Ta'Kheperan smiths, elevated from initiate to Great Smith through
+      temple rite, governed by the Council of Smiths under its First Smith.
     ranks:
       - level: 0
         title: Blacklisted

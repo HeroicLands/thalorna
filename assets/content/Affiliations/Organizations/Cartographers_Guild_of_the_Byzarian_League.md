@@ -19,8 +19,8 @@ data:
   governance:
     model: council
     summary: >-
-      A court of wardens and assistants under an elected head, governing the craft between
-      general assemblies.
+      A chartered guild of cartographers and surveyors, admitted through apprentice, journeyman
+      and master grades, governed by the Council of Masters under its Grand Cartographer.
     ranks:
       - level: 0
         title: Blacklisted
