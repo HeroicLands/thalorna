@@ -633,7 +633,7 @@ Yngvarr seeks meaningful work—a cause or purpose greater than the mere accumul
 
 ### Patrons
 
-- **The Nordheim Mercenaries' Guild** - His official employer and the organization that provides most of his contracts; the guild master, **Asbjorn Sterkhnefi**, values his reliability and occasionally consults him on matters of planning
+- **The Nordheim Mercenaries' Guild** - His official employer and the organization that provides most of his contracts; the guild master, **Arnthor Sterkhnefi**, values his reliability and occasionally consults him on matters of planning
 - **Merchant House Alderthor** - A prominent trading company that specifically requests Yngvarr for major caravans; their agent, **Lady Svenna**, has developed respect for his workmanlike approach
 - **Commander Hastein** - His aging former mentor, now retired from active service, whom Yngvarr visits regularly and whose counsel he seeks on matters of honor and purpose
 
