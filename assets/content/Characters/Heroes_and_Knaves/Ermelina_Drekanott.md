@@ -632,9 +632,9 @@ Ermelína's primary drive is to create a space of true sanctuary in a world of u
 
 ### Patrons
 
-- **Lord Tárvund**: The regional noble whose lands surround her inn depends on her for hospitality during his frequent hunting expeditions; he has granted her a charter ensuring her establishment's protection.
+- **Jarl Knalthorv Hrandendikh**: The regional noble whose lands surround her inn depends on her for hospitality during his frequent hunting expeditions; he has granted her a charter ensuring her establishment's protection.
 - **The Merchant Consortium of Targud**: Several wealthy merchant families use her inn as a neutral meeting ground for negotiations; they value both her discretion and her excellent wine cellars.
-- **Master Brewer Khorvak**: The head of the regional brewers' guild maintains a close relationship with Ermelína, supplying her with the finest ales and meads, and relying on her recommendations to advance his reputation.
+- **Braldvir Thalmumakh**: The head of the regional brewers' guild maintains a close relationship with Ermelína, supplying her with the finest ales and meads, and relying on her recommendations to advance his reputation.
 
 ### Enemies
 
