@@ -12,7 +12,7 @@ subType: region
 data:
   demonym: Dhanurkoti
   lore:
-    - humanflk
+    - vedyariclt
   parents:
     - vedyarargn
   population: 30000
