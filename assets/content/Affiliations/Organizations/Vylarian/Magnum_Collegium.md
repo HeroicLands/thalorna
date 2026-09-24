@@ -18,70 +18,48 @@ data:
   governance:
     model: council
     summary: >-
-      A court of wardens and assistants under an elected head, governing the craft between
-      general assemblies.
+      A mandatory cross-realm federation of thirty-six chartered trade guilds, governed by
+      the Curia Collegiorum under an imperially appointed Princeps Collegii.
     ranks:
       - level: 0
-        title: Blacklisted
+        title: Revoked
         lore: expelledrnk
         description: >-
-          Struck from the roll: no member may employ, teach, supply or trade with them, in any
-          city the guild reaches.
+          Permanent loss of a master's seal by Curia ruling—rare and crushing, and the harshest
+          sanction the Collegium can impose.
       - level: 1
-        title: Servant
-        lore: servantrnk
-        description: Kept for labor about the hall and the workshops, and not of the craft.
-      - level: 2
         title: Apprentice
         lore: apprenticernk
-        description: Bound to a master for a term of years, fed and taught and owning neither
-          tools nor wage.
-      - level: 3
-        title: Journeyman
-        lore: journeymanrnk
         description: >-
-          Out of apprenticeship and working for wages, free to move between masters and not
-          yet to keep a shop.
-      - level: 4
-        title: Master
+          Certified by a member guild under standards the Collegium has standardized across
+          every member territory; not yet a master.
+      - level: 3
+        title: Guildmaster
         lore: masterrnk
         description: >-
-          Admitted on a masterpiece, entitled to keep a shop, take apprentices and vote in the
-          guild.
-      - level: 5
-        title: Warden
-        lore: officerrnk
-        description: >-
-          Elected to inspect the craft—its work, its weights, its prices—and to present
-          offenders.
-      - level: 6
-        title: Assistant
+          A chartered master of one of the Collegium's member guilds, holding standing under
+          its charter but no seat of his own on the Curia.
+      - level: 4
+        title: Master Magister
         lore: councillorrnk
-        description: Of the court that governs the guild between its general assemblies.
-      - level: 7
-        title: Alderman
-        lore: highpriestrnk
-        description: Senior of the court, and the guild's voice before the city that chartered
-          it.
-      - level: 8
-        title: Grand Master
-        lore: grandmasterrnk
-        description: Head of the guild, elected by the court, holding its seal and answering
-          for its charter.
+        description: >-
+          Elected by a trade's own senior masters to hold that trade's seat on the Curia
+          Collegiorum.
     offices:
-      Grand Master: Head of the guild, elected by its court, holding the seal and answering
-        for the charter.
-      Alderman: Senior of the governing court and the guild's voice before the city.
-      Warden: >-
-        Elected inspector of the craft's work, weights and prices, who presents offenders
-        to the court.
-      Assistant: Member of the court that governs the guild between general assemblies.
-      Clerk: Keeper of the guild's roll, its indentures, its minutes and its correspondence.
-      Beadle: Summoner of the assembly and server of its process; the guild's hands in enforcement.
-      Searcher: Examiner of goods offered under the guild's mark, whose refusal ends a sale.
-      Treasurer: Keeper of the guild's box—its dues, its fines and its loans to members.
-      Almoner: Administrator of the guild's relief to sick members, widows and orphans.
-      Keeper of the Hall: Warden of the guild's house, its plate, its records and its feasts.
+      Princeps Collegii: >-
+        First of the College—the chair, appointed by imperial edict for a renewable ten-year
+        term, holding the imperial seal of office and presiding over the Curia.
+      Censor Maximus: >-
+        Senior of the Censores Collegiorum, the twelve appointed officers who conduct
+        inspections, investigate charter violations and prosecute disciplinary cases before
+        the Curia.
+      Quaestor Collegii: >-
+        The treasurer, managing the Collegium's modest common fund built from member-guild
+        dues, ceremonial revenues and the Collegium's own commercial holdings.
+      Provincialis: >-
+        One of the Magistri Provinciarum ("provincial deputies")—twelve in all, one per
+        Vylarian province, one per Aurèldían kingdom and two for Hellád—who administer the
+        Collegium's operations in their regions.
   commonSkills: []
   seat: null
   domains: []
