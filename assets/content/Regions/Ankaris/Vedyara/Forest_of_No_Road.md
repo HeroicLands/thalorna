@@ -40,3 +40,4 @@ Ascetics go in. It is one of the places a renunciant disappears into for years a
 
 - [[place-estrnreach|The Eastern Reach]] · [[place-bharavarivr|The Bhārava]]
 - [[place-bhrvdvsthna|The Bhārava-Devasthāna Hostels]]—the road that stops at the margin
+- [[place-bharavavana|Bhāravavana]]—the endowed forest downriver, which begins where the last estate does
