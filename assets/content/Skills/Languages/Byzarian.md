@@ -310,12 +310,8 @@ The suffix system reflects layers of history:
 
 - Palaiológos
 - Komnênos
-- Laskáris
-- Doukás
-- Bryennios
 - Kantakouzenós
 - Chrysanthópoulos
-- Kontostephános
 - Stratégopoulos
 - Philanthrôpos
 
@@ -328,29 +324,33 @@ The suffix system reflects layers of history:
 - Tigranídes
 - Mehranákis
 - Narsevídis
-- Khalidóglou
 - Rostamákis
 - Tamurídes
 
 #### Blended Byzarian houses
 
 - Mavrokordátês
-- Drosôpatês
-- Archontópoulos
 - Thalássinos
 - Kalokyrês
-- Logothêtis
-- Oikonomópoulos
-- Trapezáris
-- Xenakís
 - Rhomaios
-- Vardanákês
-- Phanariôtês
-- Melikertós
-- Monomáchos
 - Gaválas
 - Rhodákês
 - Zygomálas
 - Lykomédis
 - Argyropoûlos
 - Theotókis
+- Damakláhr
+- Varakazûr
+- Kallixenáhr
+- Eugenazûr
+- Photokâr
+- Eudokáhr
+- Pelagazûr
+- Zurvanzâde
+- Theoklazûr
+- Lysandáhr
+- Kassandazûr
+- Kyriákash
+- Eulalazûr
+- Nikandáhr
+- Athanaskâr

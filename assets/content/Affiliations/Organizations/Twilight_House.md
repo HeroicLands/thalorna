@@ -125,7 +125,7 @@ sohl: {}
 
 ## Overview
 
-The Twilight House occupies a position no equivalent western institution does. To the loom-masters and merchant houses of Vyālendra, and to the courts and councils of every city where a satellite stands, it is the most prestigious courtesan establishment in the realm—a place to which wealth, breeding, and reputation grant access, and from which the same combination withdraws it. To the same men, it is also the most important intelligence service in the realm. The two functions are not separate. They are the same business.
+The Twilight House occupies a position no equivalent western institution does. To the loom-masters and merchant houses of Vyālendra, and to the courts and councils of every city where a satellite stands, it is the most prestigious courtesan establishment in the realm—a place to which wealth, breeding, and reputation grant access, and from which the same combination withdraws it. To those same clients, it is also the most important intelligence service in the realm. The two functions are not separate. They are the same business.
 
 A client of the Twilight House does not simply purchase the company of a trained companion. He purchases an evening in a place where his rivals are also clients, where his servants do not follow him, where what he says is heard only by a young woman whose discretion is widely advertised—and whose handlers will, within the week, have a transcript of his conversation in the hands of whoever has paid for it.
 
