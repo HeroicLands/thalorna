@@ -124,7 +124,7 @@ Valtári is **rarely written**. When it is, speakers employ:
 
 - **[[skill-hazarscrpt|Hazâri]] letters**: Common in southern ports and Haradi-dominated cities
 - **[[skill-helnkscrpt|Helónika]] letters**: Used in northern ports and Helonic trading centers
-- **[[skill-semrnscrpt|Sêmarion]] letters**: Used in Vylarian and Aureldian harbors, and by any factor with an imperial education
+- **[[skill-semrnscrpt|Sêmarion]] letters**: Used in Vylarian and Aurèldían harbors, and by any factor with an imperial education
 - **Improvisational symbols**: Abbreviated marks and hastily invented notation for quick transaction records
 
 There is **no standardized Valtári orthography**. A word like "Hâkim" might be written as _hakim_, _hâkim_, _halim_, or _achim_ depending on the scribe's native language and knowledge. This orthographic chaos reflects Valtári's nature: a language of the moment, not preserved in books.

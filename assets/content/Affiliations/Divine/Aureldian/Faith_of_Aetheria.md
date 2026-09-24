@@ -109,7 +109,7 @@ A distinctive institution within Aethería's faith is the **House of Sleep**, ma
 
 ## Relations
 
-Aethería is universally respected within the Aureldian pantheon, for she represents a realm that transcends the everyday conflicts of waking deities. Nearly all the other faiths acknowledge her wisdom and occasionally consult with her priesthood on matters of great importance. Her role is often that of the quiet advisor, the voice of deeper wisdom speaking from dreams and visions when mortal councils are deadlocked.
+Aethería is universally respected within the Aurèldían pantheon, for she represents a realm that transcends the everyday conflicts of waking deities. Nearly all the other faiths acknowledge her wisdom and occasionally consult with her priesthood on matters of great importance. Her role is often that of the quiet advisor, the voice of deeper wisdom speaking from dreams and visions when mortal councils are deadlocked.
 
 The relationship with [[affiliation-janus|Jánus]] is one of complementary opposition. Jánus demands rigid order and clear contracts; Aethería offers wisdom through the ambiguous, symbolic language of dreams. Yet they serve complementary roles: Jánus brings clarity to waking disputes, while Aethería provides insight into deeper truths that lie beneath conscious debate. Some theologians suggest that Jánus and Aethería together represent the complete wisdom—justice balanced with mercy, order balanced with intuition.
 
