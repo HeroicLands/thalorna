@@ -16,4 +16,6 @@ data:
   archetypes: []
   stations: []
   lore: []
+  homes:
+    - haradregin
 ---

@@ -2,6 +2,7 @@
 tags:
   - character
   - reference
+  - unattributed
 name:
   full: Stávron Pylíkot
   title: Duke
