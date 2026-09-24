@@ -628,7 +628,7 @@ His readings indicated that this event was tied to the fate of the **Court of th
 
 ### The Per-Aá’s Response
 
-Meret-Sebek presented his findings to **Per-Aá Menes XVI**, who ruled the empire from the capital city of **Zahdara**. The Per-Aá was a practical man, but he had learned to trust the warnings of astrologers. Yet, the ambiguity of Meret-Sebek’s predictions frustrated the court. While some powerful lords demanded immediate action, others dismissed it as a misreading of the stars.
+Meret-Sebek presented his findings to **Per-Aá Menes XVI**, who ruled the empire from the capital city of **[[place-wasetkara|Wasetkara]]**. The Per-Aá was a practical man, but he had learned to trust the warnings of astrologers. Yet, the ambiguity of Meret-Sebek’s predictions frustrated the court. While some powerful lords demanded immediate action, others dismissed it as a misreading of the stars.
 
 Faced with skepticism from the court and the increasing pressure of the imperial council, Meret-Sebek decided he could no longer wait for the empire’s leaders to act. His readings indicated that the truth behind the Convergence could only be found by traveling to key sacred sites scattered throughout the empire, where ancient celestial knowledge was hidden.
 
