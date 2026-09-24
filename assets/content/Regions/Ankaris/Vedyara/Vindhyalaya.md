@@ -100,7 +100,7 @@ data:
     - lore-vdyrnbnkng
     - affiliation-mrchntclctvvdyr
   lore:
-    - humanflk
+    - vedyariclt
   parents: []
   relations:
     varakpnthn: aligned
@@ -149,7 +149,7 @@ The kingdom has no frontier with the [[place-dunharargn|Dunhara]] at all. The de
 
 ## Commerce and Currency
 
-Vindhyālaya uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign coin, the Vylarian Argo and Aurion and the Ta'Kheperan deben pieces, is exchangeable at frontier moneylenders at Collective-controlled rates. The Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
+Vindhyālaya uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign coin, weighed Khazryn metal and the Ta'Kheperan deben pieces, is exchangeable at frontier moneylenders at Collective-controlled rates. The Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
 
 ## See Also
 

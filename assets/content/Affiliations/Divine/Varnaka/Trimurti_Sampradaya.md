@@ -84,6 +84,10 @@ data:
     - varakpnthn
   relations:
     varakpnthn: aligned
+    ganakashala: rival
+    passshrinebrahmins: aligned
+    thresholdkeepers: aligned
+    chayavrata: nemesis
 packFolder: pantheonsvarnaka
 sohl: {}
 ---
@@ -138,6 +142,20 @@ Temples of the Trimūrti-sampradāya are large three-chambered complexes, each c
 
 - **Order of the Balanced Temple**—the senior administrative order of the sect, which adjudicates disputes between temples and sets the liturgical calendar.
 - **Council of the Triyācāryas**—the ruling council of the sect, comprising the senior Triyācārya of each great Vedyaran city.
+
+### The Council of the Triyācāryas
+
+The Council is the sect's ruling body and, by an authority nobody granted it and nobody has successfully contested, the licensing authority for public working throughout Vedyara. It does not teach a practice of its own. What it does is decide which practices may be worked in the open, in a god's name, before people who did not ask to be present.
+
+**The rule it enforces is the school rule.** A Varnakan ordains into a sampradāya and never to a god. A working done inside a school is the school's business and the Council's only if the school asks. A working done outside every school is folk magic—the village charm, the herb-woman, the knot against a fever—and the Council tolerates it completely, on the understanding that it claims nothing. A working done outside every school **in a god's name** is neither, and the answer to it is Patita: the working is stopped, the worker is put out of Varnakan observance altogether, and no house and no sampradāya receives them again.
+
+That single rule is why Vedyara looks, to an outsider, as though its priests hold a monopoly on power they have never actually claimed. They hold a monopoly on speaking for a god, which is a smaller thing and a much more defensible one.
+
+**What it licenses.** The [[affiliation-thresholdkeepers|Threshold-keepers]] hold their license from the Council and their warrants from the polities, and the Council has never issued a license for a third use beyond inheritance and unwitnessed killing. The [[affiliation-passshrinebrahmins|Pass-Shrine Brahmins]] are licensed without ever having been examined, and the Council has declined, for as long as anyone can find a record of the question, to send anyone up to examine them.
+
+**What it condemns without pursuing.** The [[affiliation-chayavrata|Chaya-vrata]] is outside the schools and works in no god's name at all, which is precisely what makes the sanction unusable: the vow does not claim, so there is nothing to strike at. The Council states the condemnation and leaves the pursuit to courts that cannot find anyone to try.
+
+**What it has no reach over.** The [[affiliation-ganakashala|Ganaka-shala]] computes and does not work, and the Council has no ground to license a calculation. The two bodies disagree instead about the year, and the disagreement is durable because it cannot be resolved by authority: the Council sights the year at the Sūrya temple, the college computes it, the figures differ by a day often enough to matter, and each court declares which it follows.
 
 ### Geographic Presence
 
