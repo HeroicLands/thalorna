@@ -645,7 +645,7 @@ Lysándros seeks to prove that there is a way to live in the world without compr
 
 ### Patrons
 
-- **Master Castellan Tigranos**: The governor of the northern territories values Lysándros's timber for both fortification work and shipbuilding, and tacitly protects him from guild persecution in exchange for preferential contracts.
+- **Master Castellan Atashíkon**: The governor of the northern territories values Lysándros's timber for both fortification work and shipbuilding, and tacitly protects him from guild persecution in exchange for preferential contracts.
 - **Lady Serena of House Thálassos**: A wealthy widow who has commissioned Lysándros to restore and rebuild her ancestral estate using only timber that meets his exacting standards, earning his respect through her patience and refusal to rush his work.
 
 ### Enemies
