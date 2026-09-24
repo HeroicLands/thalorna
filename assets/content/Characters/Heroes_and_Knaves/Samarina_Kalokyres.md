@@ -673,8 +673,8 @@ Samarína is driven by multiple, sometimes conflicting motivations. Her primary 
 ### Patrons
 
 - **Elder Vasilis Komnenos:** The respected elder of her herding commune and unofficial keeper of pastoral traditions, Vasilis has mentored Samarína throughout her life and provides guidance on both practical and cultural matters, though he sometimes expresses concern about her caution.
-- **The Wool Merchant Dimitri Kalvestris:** A fair-dealing trader who buys Samarína's wool at high prices and speaks for it in distant markets, giving her a reliable income whatever the season's prices.
-- **The Veterinary Herbalist Katerina:** A semi-retired healer who specializes in animal care and has become a friend and occasional mentor, sharing knowledge about herbal remedies and the care of the whole animal.
+- **The Wool Merchant Zenobárzan Kalvestris:** A fair-dealing trader who buys Samarína's wool at high prices and speaks for it in distant markets, giving her a reliable income whatever the season's prices.
+- **The Veterinary Herbalist Zenoníkash:** A semi-retired healer who specializes in animal care and has become a friend and occasional mentor, sharing knowledge about herbal remedies and the care of the whole animal.
 
 ### Enemies
 
