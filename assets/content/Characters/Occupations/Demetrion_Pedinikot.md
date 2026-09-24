@@ -5,14 +5,15 @@ tags:
   - soldiery
   - character
 name:
-  full: Demétrion Komnênos
+  full: Demétrion Pediníkot
   title: ""
   given: Demétrion
-  clan: Komnênos
+  clan: Pediníkot
   home: ""
   aliases: []
 packFolder: helladbyzaria
-shortcode: dmtrnkmnns
+shortcode: dmtrnpdnkt
+renamedFrom: dmtrnkmnns
 type: being
 data:
   icon: icon-person

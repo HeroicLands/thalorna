@@ -4,14 +4,15 @@ tags:
   - soldiery
   - character
 name:
-  full: Thêkla Rhomaios
+  full: Thêkla Steníkot
   title: ""
   given: Thêkla
-  clan: Rhomaios
+  clan: Steníkot
   home: kostaros
   aliases: []
 packFolder: helladbyzaria
-shortcode: theklarhms
+shortcode: theklastnkt
+renamedFrom: theklarhms
 type: being
 data:
   icon: icon-person
@@ -590,7 +591,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[theklarhms|Thêkla Rhomaios]]{float: top-left}
+![[theklastnkt|Thêkla Steníkot]]{float: top-left}
 
 Thêkla stands 5'10" tall with a medium build. She has sun-tanned skin, brown hair, and green eyes. Her features include an oval face, a strong nose, a sharp jawline, well-defined lips, arched brows, hollow cheeks.
 

@@ -4,14 +4,15 @@ tags:
   - common-folk
   - character
 name:
-  full: Thêsaloníke Katharópoulos
+  full: Thêsaloníke Pissákit
   title: ""
   given: Thêsaloníke
-  clan: Katharópoulos
+  clan: Pissákit
   home: yesilhan2
   aliases: []
 packFolder: helladbyzaria
-shortcode: thslnkkthrpls
+shortcode: thslnkpsskt
+renamedFrom: thslnkkthrpls
 type: being
 data:
   icon: icon-person
@@ -598,13 +599,13 @@ sohl:
 
 # Appearance {#appearance}
 
-![[thslnkkthrpls|Thêsaloníke Katharópoulos]]{float: top-left}
+![[thslnkpsskt|Thêsaloníke Pissákit]]{float: top-left}
 
 Thêsaloníke stands 5'10" tall with a medium build. She has golden-toned skin, auburn hair, and green eyes. Her features include a diamond-shaped face, a straight nose, a narrow chin, an expressive mouth, arched brows, prominent cheeks.
 
 # Dossier {#dossier}
 
-Thêsaloníke was born into the Katharópoulos family in the heavily forested regions of the **[[affiliation-byzarianlg|Byzarian League]]**, in a village built literally within the forest itself. Her father, **Alexáhran Katharópoulos**, was a respected woodcutter of modest renown, skilled but not ambitious. Her mother died when Thêsaloníke was young, leaving her father to raise three children with only the forest for support. Where her brothers sought other livelihoods—one became a stonemason, the other a merchant—Thêsaloníke showed early aptitude for woodcraft.
+Thêsaloníke was born into the Pissákit family in the heavily forested regions of the **[[affiliation-byzarianlg|Byzarian League]]**, in a village built literally within the forest itself. Her father, **Alexáhran Pissákit**, was a respected woodcutter of modest renown, skilled but not ambitious. Her mother died when Thêsaloníke was young, leaving her father to raise three children with only the forest for support. Where her brothers sought other livelihoods—one became a stonemason, the other a merchant—Thêsaloníke showed early aptitude for woodcraft.
 
 Her father initially resisted teaching her, believing the work unsuitable for a woman. When she was fourteen, he fell from a tree and broke his leg. With no other option and no money for hired help, Thêsaloníke took up his axe and worked the contracts herself. By the time her father healed, she had proven she could do the work as well as any man. Grudgingly, then with pride, her father became her mentor.
 
