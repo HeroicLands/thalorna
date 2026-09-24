@@ -4,7 +4,7 @@ tags:
   - crime
   - underworld
   - vedyara
-description: "The chartered thieves' guild of Vedyara—a hereditary craft-śreṇī that holds royal charters in forty kingdoms, earns more from underwriting theft than from committing it, and survives dynasties because it is a caste rather than a syndicate."
+description: "The chartered thieves' guild of Vedyara—a hereditary craft-śreṇī that holds a charter from each of the forty polities seated at the great assembly in their own right, earns more from underwriting theft than from committing it, and survives dynasties because it is a caste rather than a syndicate."
 name:
   full: The Ādānaśreṇī
   aliases:
@@ -24,10 +24,10 @@ data:
     summary: >-
       A craft guild in every particular of its form: a chartered corporate body with its own
       court, its own treasury and its own hereditary craft-lines, governed by a Sabhā of elders
-      who elect a Śreṣṭhin for life. The charters are held separately in each kingdom and the
-      Sabhā is regional rather than subcontinental, so there is no single head of Vedyaran
-      crime—there are forty guild-chiefs who acknowledge one another's law and settle between
-      themselves.
+      who elect a Śreṣṭhin for life. The charters are held separately in each of the forty polities
+      that seat themselves in their own right, and the Sabhā is regional rather than subcontinental,
+      so there is no single head of Vedyaran crime—there are forty guild-chiefs who acknowledge one
+      another's law and settle between themselves.
     ranks:
       - level: 0
         title: Chinnasūtra
@@ -70,12 +70,12 @@ data:
         title: Śreṣṭhin
         lore: grandmasterrnk
         description: >-
-          The guild-chief of a kingdom's charter—carrying, deliberately, the same title a great
+          The guild-chief under one polity's charter—carrying, deliberately, the same title a great
           banker carries, and holding it for life or until the Sabhā unmakes them.
     offices:
       Śreṣṭhin: >-
-        Guild-chief under a single kingdom's charter, who negotiates its renewal and whose
-        authority stops at that kingdom's border.
+        Guild-chief under a single polity's charter, who negotiates its renewal and whose
+        authority stops at that polity's border.
       Sthavira: An elder of the Sabhā, the guild's court and its only law.
       Nyāsapāla: >-
         Keeper of the deposit—treasurer of the guild's funds and of the surety pool from which
@@ -141,13 +141,14 @@ means the guild and the caravan it is about to rob have prayed to the same god t
 
 The guild's form is entirely conventional; only its craft is not.
 
-- **The charter.** Each kingdom charters its own guild separately, as it charters weavers or
-  goldsmiths, and each charter is negotiated, paid for and renewed. A charter fixes what the guild may
-  take, from whom, and what share the crown receives. It is the guild's most valuable possession and
+- **The charter.** Each of the forty charters its own guild separately, as it charters weavers or
+  goldsmiths—by a crown where there is a crown and by a council or a sabhā where there is not—and
+  each charter is negotiated, paid for and renewed. A charter fixes what the guild may take, from
+  whom, and what share the granting body receives. It is the guild's most valuable possession and
   every other rule serves to protect it.
 - **The Sabhā.** A guild court of elders that judges disputes between craft-lines, rules on whether a
-  taking was proper, and orders restoration when it was not. Kings recognize its judgments, which
-  saves the royal courts an enormous volume of work.
+  taking was proper, and orders restoration when it was not. The courts of the forty recognize its
+  judgments, which saves them an enormous volume of work.
 - **The craft-lines.** Hereditary specialisms, exactly like the weaver sub-castes: housebreakers,
   road-takers, cutpurses, appraisers, seal-makers, and the line that handles temple property under
   restrictions the others regard as terrifying. Marriage across craft-lines is negotiated the way any
@@ -176,8 +177,9 @@ it, and information—much of it traded with the [[affiliation-twilighths|Twilig
 Factor to the Guild exists for exactly this.
 
 And it hunts. **The guild's most implacable enemy is the unchartered thief**, who steals its trade,
-voids its sureties and endangers its charter. Unchartered thieves are found, and handed to the king's
-magistrates, and this is the service that makes a charter worth granting.
+voids its sureties and endangers its charter. Unchartered thieves are found, and handed to the
+magistrates of whichever polity granted the line its charter, and this is the service that makes a
+charter worth granting.
 
 ## The Taboos
 
