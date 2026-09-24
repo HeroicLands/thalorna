@@ -15,6 +15,8 @@ data:
     - mahanadi
     - vedyarargn
   population: 5400
+  routes:
+    - { to: chandrmukha, bearing: W, mode: ship, days: 5, terrain: [coast] }
 name:
   full: Bharanya
   aliases: []
