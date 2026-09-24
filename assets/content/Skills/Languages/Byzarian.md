@@ -346,7 +346,7 @@ The suffix system reflects layers of history:
 - Photokâr
 - Eudokáhr
 - Pelagazûr
-- Zurvanzâde
+- Euphraskâr
 - Theoklazûr
 - Lysandáhr
 - Kassandazûr
