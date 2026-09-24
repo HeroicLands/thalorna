@@ -625,7 +625,7 @@ Xerôphôn also possesses a subtle capacity for compassion that he carefully con
 
 ### Motivation
 
-Xerôphôn is motivated fundamentally by the belief that order is a prerequisite for all other goods, and that his work—however unpleasant—is essential to maintaining that order. He has internalized the philosophy of the Aurèldián Pantheon's emphasis on organization and structure, viewing himself as a servant of larger cosmic principles of law and consequence. He seeks neither glory nor advancement, only to perform his duties with the maximum competence and integrity of which he is capable. As he approaches the latter part of his life, he is motivated by an awareness that his legacy will be measured not in dramatic achievements but in the consistency of his principles and the respect of those who worked beneath him.
+Xerôphôn is motivated fundamentally by the belief that order is a prerequisite for all other goods, and that his work—however unpleasant—is essential to maintaining that order. He has internalized the philosophy of the Aurèldían Pantheon's emphasis on organization and structure, viewing himself as a servant of larger cosmic principles of law and consequence. He seeks neither glory nor advancement, only to perform his duties with the maximum competence and integrity of which he is capable. As he approaches the latter part of his life, he is motivated by an awareness that his legacy will be measured not in dramatic achievements but in the consistency of his principles and the respect of those who worked beneath him.
 
 ### Strengths
 

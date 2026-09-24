@@ -1,8 +1,8 @@
 ---
-description: "Loose confederation of Nordmen járldoms on Aelwyth's fjord-like northeastern coast—Asguardian-worshipping settlements with strong ties to the Kingdom of Nordheim."
+description: "Loose confederation of Nordmen jarldoms on Aelwyth's fjord-like northeastern coast—Asguardian-worshipping settlements with strong ties to the Kingdom of Nordheim."
 type: affiliation
 name:
-  full: Járldom of Stormveld
+  full: Jarldom of Stormveld
   aliases: []
 shortcode: jrldmstrmvld
 subType: polity
@@ -14,8 +14,8 @@ data:
   governance:
     model: confederation
     summary: >-
-      A loose confederation of járldoms, each ruled by its own járl, owing nominal allegiance
-      to a High Járl elected from among their number.
+      A loose confederation of jarldoms, each ruled by its own jarl, owing nominal allegiance
+      to a High Jarl elected from among their number.
     ranks:
       - level: 0
         title: Níding
@@ -35,7 +35,7 @@ data:
       - level: 3
         title: Bóndi
         lore: yeomanrnk
-        description: A free farmer holding his own land, bearing arms and speaking at his járldom's
+        description: A free farmer holding his own land, bearing arms and speaking at his jarldom's
           moot.
       - level: 4
         title: Hauldr
@@ -49,39 +49,39 @@ data:
         description: Chieftain of a district, leading its men in war and speaking for them in
           peace.
       - level: 6
-        title: Járl
+        title: Jarl
         lore: greatlordrnk
-        description: Ruling a járldom in his own right, owing the High Járl nominal allegiance
+        description: Ruling a jarldom in his own right, owing the High Jarl nominal allegiance
           and no more.
       - level: 7
         title: Elector
         lore: councillorrnk
         description: >-
-          A járl entitled to a voice in choosing the High Járl, which is the confederation's
+          A jarl entitled to a voice in choosing the High Jarl, which is the confederation's
           only real act.
       - level: 8
-        title: High Járl
+        title: High Jarl
         lore: sovereignrnk
-        description: Elected from among the járls and holding no authority they do not lend
+        description: Elected from among the jarls and holding no authority they do not lend
           him.
     offices:
-      High Járl: >-
-        Elected from among the járls to speak for the confederation, and holding only what
+      High Jarl: >-
+        Elected from among the jarls to speak for the confederation, and holding only what
         they lend him.
-      Járl: Ruler of a járldom in his own right, with his own hall, levy and moot.
+      Jarl: Ruler of a jarldom in his own right, with his own hall, levy and moot.
       Hersir: Chieftain of a district, leading its men to the muster.
       Lawspeaker: Keeper of the law in memory, who recites it at the moot and declares what
         it is.
       Godi: >-
         Priest-chieftain of a temple and its district, holding sacred and secular authority
         together.
-      Stallari: Marshal of the High Járl's household men and master of the common muster.
+      Stallari: Marshal of the High Jarl's household men and master of the common muster.
       Skald: Poet of a hall, whose verse is its memory and whose scorn is a weapon.
       Styrimadr: Master of a ship, commanding her crew at sea and answering for her in the
         levy.
       Harbour-reeve: Keeper of a haven, its tolls and its disputes.
       Truce-Warden: Holder of the peace declared for the moot, empowered to kill to keep it.
-      Host-Caller: Bearer of the war-arrow that summons the járldoms to a common muster.
+      Host-Caller: Bearer of the war-arrow that summons the jarldoms to a common muster.
   commonSkills:
     - nordmalng
   seat: stormveil
@@ -108,28 +108,28 @@ sohl: {}
 
 ## Overview
 
-The Járldom of Stormveld holds the land of [[place-stormveld|Stormveld]]. The Stormveld is not a single unified polity but a loose confederation of járldoms, each ruled by a járl who owes nominal allegiance to a High Járl elected from among their number.
+The Jarldom of Stormveld holds the land of [[place-stormveld|Stormveld]]. The Stormveld is not a single unified polity but a loose confederation of jarldoms, each ruled by a jarl who owes nominal allegiance to a High Jarl elected from among their number.
 
 ## Character
 
 The Nordmen of Stormveld worship the [[affiliation-asguardian|Asguardian Pantheon]] gods, speak Nordmal, and maintain strong cultural ties to [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] across the sea.
 
-The High Járl's authority is real but limited—each járl governs his own territory with near-complete autonomy, and the High Járl's primary role is to coordinate defense and settle disputes between the járldoms. Elections for the position are contentious affairs that occasionally descend into armed contests.
+The High Jarl's authority is real but limited—each jarl governs his own territory with near-complete autonomy, and the High Jarl's primary role is to coordinate defense and settle disputes between the jarldoms. Elections for the position are contentious affairs that occasionally descend into armed contests.
 
 ## Relations
 
-Relations with the southern Aelwythan kingdoms alternate between uneasy peace and open raiding, depending on the temperament of whoever holds the High Járl's seat. The [[affiliation-kngdmldrth|Kingdom of Aldorath]] bears the brunt of Stormveld's aggression, with the mountain ranges between the two polities serving as a contested frontier. The [[lore-flkkhazar|Khazári]] holds hidden in those same mountains are a source of wonder and occasional tension—the Nordmen respect the Deep Folk's craft but covet the mountain passes they control.
+Relations with the southern Aelwythan kingdoms alternate between uneasy peace and open raiding, depending on the temperament of whoever holds the High Jarl's seat. The [[affiliation-kngdmldrth|Kingdom of Aldorath]] bears the brunt of Stormveld's aggression, with the mountain ranges between the two polities serving as a contested frontier. The [[lore-flkkhazar|Khazári]] holds hidden in those same mountains are a source of wonder and occasional tension—the Nordmen respect the Deep Folk's craft but covet the mountain passes they control.
 
-The Stormveld maintains strong connections to [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] across the sea, and warriors and traders move freely between the two. Some járls hold lands on both sides of the water.
+The Stormveld maintains strong connections to [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] across the sea, and warriors and traders move freely between the two. Some jarls hold lands on both sides of the water.
 
 ## Commerce and Currency
 
-Járldom of Stormveld uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Járldom of Stormveld is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Jarldom of Stormveld uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|The Magnum Collegium]]. Jarldom of Stormveld is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
 - [[place-aelwyth|Aelwyth]]—The island
-- [[place-stormveld|Stormveld]]—The land the Járldom holds
+- [[place-stormveld|Stormveld]]—The land the Jarldom holds
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—Ancestral homeland
 - [[affiliation-kngdmldrth|Kingdom of Aldorath]]—Southern neighbor and frequent target
 - [[lore-flkkhazar|Khazári]]—Elder race in the northeastern mountains

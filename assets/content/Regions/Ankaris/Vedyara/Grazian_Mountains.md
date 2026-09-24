@@ -14,7 +14,7 @@ data:
 name:
   full: The Grazian Mountains
   aliases:
-    - The Grazians
+    - The Grazian Range
     - The Grazian Wall
 shortcode: graznmntns
 terran_analog: "The Himalayas, Karakoram, Pamir, and Tian Shan complex—the great mountain wall between the Indian subcontinent and the Central Asian steppe. The southern face is the wall against Vedyara and the northern face the wall against the Khazryn; the eastern arc turns toward Tānvür, and the western end falls away into the Afghan-analog foothills of the Dunhari desert-margin."
@@ -31,7 +31,7 @@ The **Grazian Mountains** are the great mountain wall between the [[place-vedyar
 
 They are the highest mountains on Thalorna. Their peaks catch the dawn an hour before the lowlands beneath them. Their glaciers have ground their valleys to the same shape since before the [[lore-flksinale|Sinalë]] arrived on the world, and their snowfields feed half the rivers of Vedyara and a meaningful share of the Khazryn's southwestern oases.
 
-Vedyari geographers call them the **Grazians** in formal scholarship and the **Grazian Wall** in poetry. The foothill janapadas keep a dozen older names in their own dialect, every one of them older than the classical Vedyari tongue and none of them translating cleanly.
+Vedyari geographers call them the **Grazian Range** in formal scholarship and the **Grazian Wall** in poetry. The foothill janapadas keep a dozen older names in their own dialect, every one of them older than the classical Vedyari tongue and none of them translating cleanly.
 
 The range is impassable to organized travel for ten months of the year. Six crossings exist in the whole two thousand miles of it. Five are high passes, [[place-meghadvara|Meghadvāra]], [[place-suryadvara|Sūryadvāra]], [[place-tamradvara|Tāmradvāra]], [[place-jnanadvara|Jñānadvāra]] and [[place-sankhadvra|Shankhadvāra]], each with its shrine at the summit and its blessing said over every caravan that attempts it. The sixth is [[place-gudesroad|the Guides' Road]], which no shrine blesses and no lowlander walks unled.
 
@@ -47,7 +47,7 @@ Three principal sub-ranges are recognized by Vedyari and Khazri scholarship:
 
 - **[[place-estrnreach|The Eastern Reach]]**—the sub-range that arcs eastward toward Tānvür's western frontier. It is less massive than the Southern Wall and still formidable, and it is the principal overland barrier between the Vedyari and Tānvüri civilizations.
 
-- **[[place-wstrndscnt|The Western Descent]]**—the last three hundred miles, where the wall comes apart. The ridges drop, the glaciers give out, and the range breaks into a belt of dry brown foothills between the oasis-belt to the north and the Vedyari marches to the south, before running out altogether in the Dunhari desert-margin. It is the one stretch of the Grazians a caravan crosses without a guide, and the only ground on which the subcontinent has ever been entered from outside. The Khazryn tradition holds that the first Khazryn came down here into the great springs of the desert in the deep first age, and the older Khazryn genealogies still trace lineage-origins to particular peaks above the descent.
+- **[[place-wstrndscnt|The Western Descent]]**—the last three hundred miles, where the wall comes apart. The ridges drop, the glaciers give out, and the range breaks into a belt of dry brown foothills between the oasis-belt to the north and the Vedyari marches to the south, before running out altogether in the Dunhari desert-margin. It is the one stretch of the Grazian range a caravan crosses without a guide, and the only ground on which the subcontinent has ever been entered from outside. The Khazryn tradition holds that the first Khazryn came down here into the great springs of the desert in the deep first age, and the older Khazryn genealogies still trace lineage-origins to particular peaks above the descent.
 
 ## The Trans-Grazian Peoples
 

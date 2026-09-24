@@ -78,7 +78,7 @@ Peshtar warriors occasionally take service as mercenaries in the lowland kingdom
 
 To the **south** lies the [[affiliation-repblctrvn|Republic of Tarvenne]], which has borne the brunt of Peshtar raiding for centuries and whose border is a long line of fortified farmsteads, watch-burgs, and burned-over no-man's-land. Relations are formally hostile, practically managed.
 
-To the **east** lies the [[affiliation-jrldmstrmvld|Járldom of Stormveld]] and other Nordmal-descended polities of Aelwyth. The Peshtar and the Nordmen of Aelwyth share a martial temperament and a highland respect, and relations between them are often more comprehensible and more stable than Peshtar relations with the continental Aurèldían polities.
+To the **east** lies the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] and other Nordmal-descended polities of Aelwyth. The Peshtar and the Nordmen of Aelwyth share a martial temperament and a highland respect, and relations between them are often more comprehensible and more stable than Peshtar relations with the continental Aurèldían polities.
 
 To the **north and west** lies the sea. The Peshtar have no maritime ambition, and the cliff coasts discourage any outside power from attempting a landing in strength.
 
@@ -86,7 +86,7 @@ To the **north and west** lies the sea. The Peshtar have no maritime ambition, a
 
 - [[place-aelwyth|Aelwyth]]—the parent island
 - [[affiliation-repblctrvn|Republic of Tarvenne]]—southern lowland neighbor
-- [[affiliation-jrldmstrmvld|Járldom of Stormveld]]—eastern Nordmal-descended neighbor
+- [[affiliation-jrldmstrmvld|Jarldom of Stormveld]]—eastern Nordmal-descended neighbor
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—partial overlay of the older Peshtar faith
 - [[skill-varokhlng|Varokhi]]—related naming tradition
 - [[place-aureldirgn|Aurèldía Region]]—the broader cultural region

@@ -674,7 +674,7 @@ Tárellia is motivated by a drive to prevent tragedy through accurate knowledge,
 
 - **the Mariners' Guild of Port Aelion**: The chief body governing maritime interests in the region. Tárellia is an official advisor and maintains guild standing that enhances her credibility.
 
-- **the Aurèldián Academy of Celestial Studies**: A scholarly institution focused on the study of astrology and celestial mechanics. Though she operates independently, Tárellia maintains membership and occasionally lectures there on maritime applications of her knowledge.
+- **the Aurèldían Academy of Celestial Studies**: A scholarly institution focused on the study of astrology and celestial mechanics. Though she operates independently, Tárellia maintains membership and occasionally lectures there on maritime applications of her knowledge.
 
 ## Plot Hooks
 

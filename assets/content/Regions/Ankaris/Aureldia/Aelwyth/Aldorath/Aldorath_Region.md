@@ -27,7 +27,7 @@ packFolder: aelwyth
 
 The heartland of [[place-aelwyth|Aelwyth]]: the lowlands and hills around the
 great central lake, bounded by the mountains that separate them from the
-[[affiliation-jrldmstrmvld|Járldom of Stormveld]] to the northeast and running
+[[affiliation-jrldmstrmvld|Jarldom of Stormveld]] to the northeast and running
 south into the forests where the Sinalë enclaves lie.
 
 ## Character

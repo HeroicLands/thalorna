@@ -641,14 +641,14 @@ Cárenna's driving ambition is the advancement of her house and, by extension, h
 ### Enemies
 
 - **Lord Kelvic Aldred, Herald Emeritus**: The previous chief herald, now retired, views Cárenna as an upstart who lacks the necessary gravitas for her position. He has begun subtly undermining her authority, questioning her decisions to the king and his allies among the older nobility.
-- **The Canonist Orthodox**: A traditionalist faction within the priesthood of the [[affiliation-arldnpnthn|Aurèldián Pantheon]] who view Cárenna's pragmatic morality and her role in secular governance as improper and potentially heretical. They have begun questioning her moral standing from their pulpits.
+- **The Canonist Orthodox**: A traditionalist faction within the priesthood of the [[affiliation-arldnpnthn|Aurèldían Pantheon]] who view Cárenna's pragmatic morality and her role in secular governance as improper and potentially heretical. They have begun questioning her moral standing from their pulpits.
 - **Merchant-Lord Thevarin**: A wealthy and politically connected trader whose interests Cárenna opposed in a recent negotiation, resulting in significant financial loss to his enterprises. He has been quietly gathering evidence of her conflicts of interest and inappropriate relationships, intending to expose her when circumstances allow.
 
 ### Affiliations
 
 - **City Heralds' Guild of Tarvénia**: Her primary affiliation and source of authority. She maintains its political interests while advancing her own.
 - **House Gráveth**: Her family house, whose interests she subtly promotes through her position.
-- **The Aurèldián Pantheon**: A devoted follower of Múrkír the Voyager, she maintains public religious devotion while privately entertaining doubts about institutional faith.
+- **The Aurèldían Pantheon**: A devoted follower of Múrkír the Voyager, she maintains public religious devotion while privately entertaining doubts about institutional faith.
 
 ## Plot Hooks
 
