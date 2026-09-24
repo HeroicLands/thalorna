@@ -5,14 +5,15 @@ tags:
   - common-folk
   - character
 name:
-  full: Timothéon Gaválas
+  full: Timothéon Naulákit
   title: ""
   given: Timothéon
-  clan: Gaválas
+  clan: Naulákit
   home: chrysamar
   aliases: []
 packFolder: helladbyzaria
-shortcode: timthngvls
+shortcode: timthnnlkt
+renamedFrom: timthngvls
 type: being
 data:
   icon: icon-person
@@ -589,7 +590,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[timthngvls|Timothéon Gaválas]]{float: top-left}
+![[timthnnlkt|Timothéon Naulákit]]{float: top-left}
 
 Timothéon stands 5'11" tall with a medium build. He has light ruddy skin, gray hair, and olive-green eyes. His features include a long face, a strong nose, a strong jawline, a wide mouth, and strong brows.
 

@@ -3,13 +3,14 @@ tags:
   - character
   - reference
 name:
-  full: Terentiius of Byzantium
+  full: Stávron Pylíkot
   title: Duke
-  given: Terentiius
-  clan: of Byzantium
+  given: Stávron
+  clan: Pylíkot
   aliases: []
 description: "An aging but still-powerful aristocrat who employs Arkádios for sensitive security work, often involving protection from internal conspiracies within the court."
-shortcode: terentiiusofbyzantium
+shortcode: stavronpylikot
+renamedFrom: terentiiusofbyzantium
 type: being
 data:
   templatePriority: null

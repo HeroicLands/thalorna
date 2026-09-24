@@ -1,23 +1,24 @@
 ---
 tags:
   - heroes-and-knaves
-  - tradesfolk
+  - soldiery
   - character
 name:
-  full: Kallínikos Zygomálas
+  full: Thêkla Steníkot
   title: ""
-  given: Kallínikos
-  clan: Zygomálas
-  home: yesilhan2
+  given: Thêkla
+  clan: Steníkot
+  home: kostaros
   aliases: []
 packFolder: helladbyzaria
-shortcode: klnkszygmls
+shortcode: theklastnkt
+renamedFrom: theklarhms
 type: being
 data:
   icon: icon-person
   templatePriority: null
   archetypes: []
-  occupation: Cartographer/Artist
+  occupation: Mercenary
   stations: []
   lore:
     - commonerrnk
@@ -25,115 +26,103 @@ data:
     - byzariargn
   affiliations:
     - byzarianlg
-  gender: male
+  gender: female
   species: null
-  age: 39
-  born: 681/3/27
-  height: 1.75
-  weight: 70.8
+  age: 29
+  born: 691/3/4
+  height: 1.78
+  weight: 77.6
   frame: medium
   appearance:
-    eye_color: warm_brown
-    hair_color: dark_brown
-    skin_color: warm
-    complexion: tanned
-    extra_features:
-      - a scar on the left thigh
+    eye_color: green
+    hair_color: brown
+    skin_color: tanned
+    complexion: null
+    extra_features: []
 sohl:
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 13 } }
     - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 14 } }
-    - { model: affiliation-florania }
-    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 45 } }
-    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 60 } }
-    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-math, system: { masteryLevelBase: 60 } }
-    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 15 } }
-    - { model: skill-helnkscrpt, system: { masteryLevelBase: 75 } }
-    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 28 } }
-    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 42 } }
-    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 45 } }
-    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 15 } }
-    - { model: sohl-sohl-skill-mnrl, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 14 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 60 } }
-    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 42 } }
-    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 10 } }
+    - { model: affiliation-venusia }
+    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-embl, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 10 } }
+    - { model: sohl-sohl-skill-anmcft, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-fish, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 36 } }
     - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 36 } }
     - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 14 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 42 } }
-    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 42 } }
-    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 70 } }
-    - { model: sohl-sohl-skill-hide, system: { masteryLevelBase: 56 } }
-    - { model: sohl-sohl-skill-txtl, system: { masteryLevelBase: 14 } }
-    - { model: sohl-sohl-skill-wood, system: { masteryLevelBase: 24 } }
-    - { model: sohl-sohl-weapongear-stf }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-hide, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-masn, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-wpnc, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-weapongear-brdswd }
+    - { model: sohl-sohl-weapongear-rndsh }
     - { model: sohl-sohl-weapongear-dgr }
-    - { model: sohl-sohl-armorgear-psht }
-    - { model: sohl-sohl-armorgear-wtrsr }
-    - { model: sohl-sohl-armorgear-ltkboot }
-    - { model: sohl-sohl-miscgear-tndrbx }
-    - { model: sohl-sohl-miscgear-torch, system: { quantity: 3 } }
-    - { model: sohl-sohl-miscgear-stdrtns, system: { quantity: 4 } }
-    - name: Waterproof map case (leather-bound)
+    - { model: sohl-sohl-armorgear-mshirt }
+    - { model: sohl-sohl-armorgear-mleg }
+    - { model: sohl-sohl-armorgear-ltshoe }
+    - { model: sohl-sohl-armorgear-ltcloak }
+    - name: Herbal remedies and healing poultices
       type: miscgear
       system:
-        shortcode: waterproofmapcase
-        weight: 0.8
-        value: 100
-        durability: 3
-    - name: Surveying tools (compass, quadrant, measuring chains)
-      type: miscgear
-      system:
-        shortcode: surveyingtools
-        weight: 2
-        value: 100
-        durability: 3
-    - name: Magnifying glass for detailed work
-      type: miscgear
-      system:
-        shortcode: magnifyingglass
+        shortcode: herbalremedies
+        quantity: 3
         weight: 1
         value: 100
         durability: 3
-    - name: Brass compass (precision navigational)
+    - name: Survival gear (rope, hooks, line)
       type: miscgear
       system:
-        shortcode: brasscompass
-        value: 8
-        weight: 1
-        durability: 3
-    - name: Ink bottles and drawing implements
-      type: miscgear
-      system:
-        shortcode: inkbottlesanddrawing
-        weight: 0.5
+        shortcode: survivalgear
+        weight: 0.4
         value: 100
         durability: 3
-    - name: Parchment and paper (sketching stock)
+    - name: Whetstone for blade maintenance
       type: miscgear
       system:
-        shortcode: parchmentandpaper
+        shortcode: whetstoneforblade
+        weight: 1
+        value: 100
+        durability: 3
+    - { model: sohl-sohl-miscgear-torch, system: { quantity: 2 } }
+    - { model: sohl-sohl-miscgear-frtns, system: { quantity: 4 } }
+    - name: Personal effects (old letters, mementos)
+      type: miscgear
+      system:
+        shortcode: personaleffects
         weight: 1
         value: 100
         durability: 3
@@ -602,72 +591,73 @@ sohl:
 
 # Appearance {#appearance}
 
-![[klnkszygmls|Kallínikos Zygomálas]]{float: top-left}
+![[theklastnkt|Thêkla Steníkot]]{float: top-left}
 
-Kallínikos stands 5'9" tall with a medium build. He has warm tanned skin, dark brown hair, and warm brown eyes. His features include an oval face, a strong nose, an angular jawline, an expressive mouth, dark brows, prominent cheeks. A distinguishing mark is a scar on the left thigh.
+Thêkla stands 5'10" tall with a medium build. She has sun-tanned skin, brown hair, and green eyes. Her features include an oval face, a strong nose, a sharp jawline, well-defined lips, arched brows, hollow cheeks.
 
 # Dossier {#dossier}
 
-Born into the Zygomálas family of minor nobility within the Byzarian League, Kallínikos was trained in the traditional scholarly arts—mathematics, heraldry, classical texts. He showed early aptitude for drawing, and his family eventually allowed him to apprentice with the renowned cartographer **Master Kyrillazûr** rather than forcing him into administrative service. Under Kyrillazûr's tutelage, he mastered both the technical precision required of military and merchant cartography and the artistic rendering that transforms maps into objects of beauty.
+Thêkla was born into a merchant family of middling prosperity in the **[[affiliation-byzarianlg|Byzarian League]]**, the third of four daughters. Where her sisters were groomed for advantageous marriages, Thêkla showed an early talent for the martial arts—a transgression her father initially forbade. When she was fourteen, bandits attacked a merchant convoy that included her aunt. Thêkla's mother, a woman of unexpected steel, taught her daughter in secret, and by sixteen, Thêkla had proven her worth beyond argument by helping defend a village against raiders.
 
-By his early thirties, Kallínikos had established himself as the League's finest cartographer, creating detailed maps commissioned by traders and military commanders. But charts of known territories no longer satisfied him. At thirty-five, he began funding his own expeditions into unmapped regions, often at significant personal expense. Each expedition brought him closer to the edges of the known world—and closer to genuine danger. The thigh scar came during an expedition to the Shadowpeak Mountains five years ago, when he was ambushed by something that should not exist according to any of his sources.
+Rather than accept a husband or business partnership, Thêkla formally joined the **Mercenaries' Guild** at eighteen, much to her father's dismay. She spent her twenties undertaking increasingly dangerous contracts: guarding caravans through bandit-infested regions, protecting settlements threatened by brigands, and slowly building a reputation as someone with both exceptional skill and an uncommon moral compass. Unlike many mercenaries, Thêkla refuses contracts that would harm innocents, has never accepted a job involving slavery or trafficking, and actively works against those who exploit the weak.
 
-Now at thirty-nine, Kallínikos is something of a legend—part explorer, part artist, part reckless adventurer. He maintains a workshop in the Byzarian capital but spends at least a third of each year on expedition, mapping uncharted lands and returning with stories as intriguing as his maps.
+Now twenty-nine, she maintains her guild membership but operates with unusual independence, selecting clients based on merit rather than payment. She has become something between a mercenary and a hero-for-hire, drawing both respect and resentment from her peers.
 
 ## Psyche
 
 ### Personality
 
-Kallínikos is a man of genuine charm and infectious enthusiasm. In social settings, he is witty and engaging, his mind making unexpected connections between seemingly disparate subjects. He speaks eloquently about art, geography, history, and philosophy, and his passion for discovery is genuinely compelling. He cultivates relationships carefully, understanding that patronage and partnerships depend on goodwill.
+Thêkla is direct to the point of bluntness, valuing honesty over courtesy. This can make her seem cold to those who prefer social niceties, but those who work with her come to understand that her straightforwardness is not rudeness but rather profound respect for others' intelligence. She says what she means and trusts others to do the same. In combat, she is swift and decisive. In conversation, she listens more than she speaks, genuinely seeking to understand others' perspectives.
 
-However, beneath this polished exterior lies something more driven and potentially reckless. In the field, away from civilized society, he becomes almost feral in his focus—pushing beyond prudent limits, taking risks that seasoned explorers would consider suicidal. There is something almost compulsive about his need to see what lies beyond the next ridge, to chart what others have not. His colleagues sometimes wonder if he is seeking something specific rather than merely exploration for its own sake.
+Her greatest strength may be her empathy—a trait unusual among mercenaries. She remembers the faces of those she has protected, follows up on their fates, and takes personal responsibility for her failures. This empathy is not sentimentality; it is disciplined compassion that drives her toward justice.
 
 ### Motivation
 
-Kallínikos is driven by the deep human desire to know, to map the unmapped, to leave a legacy of discovery and artistic beauty. On the surface, he seeks to expand the League's knowledge and influence, to create maps so beautiful and comprehensive that they become treasured objects in their own right. Beneath this lies something darker—a conviction that something important awaits discovery on the edges of the known world, something that might change everything. He cannot articulate what he seeks, but he knows with absolute certainty that he will recognize it when he finds it.
+Thêkla is motivated by a desire to protect those who cannot protect themselves. She has seen what unchecked violence and exploitation can do to communities and has made it her personal mission to be a counterweight to that darkness. She fights not for gold—though she accepts fair payment—but for the satisfaction of seeing families safe and communities restored. There is also a personal drive: a need to prove that a woman can be as formidable a warrior and leader as any man, and that strength can be wielded with integrity.
 
 ### Strengths
 
-- **Master Cartographer**: His Script, Drawing, and Mathematical skills all exceed 15, making him capable of creating maps of unprecedented accuracy and detail.
-- **Artistic Vision**: With Creativity at 16, he sees maps not merely as functional documents but as works of art, which drives demand for his commissions among wealthy collectors.
-- **Seasoned Explorer**: His high Survival, Awareness, and Stealth scores, combined with practical experience, make him one of the safest people to have on expedition—when he is being cautious, which is not always.
-- **Persuasive Communicator**: His Eloquence and Command scores of 14 allow him to secure funding, gather followers, and talk his way out of dangerous situations.
-- **Well-Rounded Outdoor Skills**: His Climbing, Riding, and Swimming scores are all solid, and his practical knowledge of dozens of environments is extensive.
+- **Master Swordswoman**: Thêkla's skill with a longsword and shield is exceptional. Her technique is flawless, her reflexes sharp, and her instincts honed through countless real combat encounters.
+- **Tactical Brilliance**: She can assess a situation rapidly and deploy limited resources to maximum effect. She has trained bandits with far larger numbers through intelligent positioning and psychological pressure.
+- **Natural Leader**: Her presence inspires confidence. Even untrained militia follow her orders without hesitation because she radiates competence and genuine concern for their welfare.
+- **Exceptional Endurance**: Years of conditioning give her remarkable stamina in prolonged combat or travel. She can maintain fighting effectiveness longer than most.
+- **Empathetic Judgment**: Her ability to read people allows her to negotiate effectively, understand civilian needs, and identify trustworthy allies quickly.
 
 ### Weaknesses
 
-- **Reckless Adventurer**: His drive to explore often overrides prudent judgment. He will venture into clearly dangerous territory against the advice of companions, sometimes with tragic consequences.
-- **Obsessive Tendencies**: Once fixated on a particular expedition or mystery, he becomes nearly impossible to dissuade from pursuing it, sometimes abandoning commissioned work.
-- **Poor Physical Durability**: His Endurance score of only 12 means extended hardship can break him down; he is surprisingly vulnerable despite his toughness of spirit.
-- **Limited Combat Training**: Though he can handle himself adequately, his Melee score of 13 is underwhelming, leaving him dependent on companions in true combat situations.
-- **Divided Loyalties**: His commitment to exploration sometimes conflicts with his commercial obligations, making him an unreliable partner when expeditions take longer than anticipated.
+- **Idealism Liability**: Thêkla's moral commitments sometimes make her vulnerable to clients who manipulate her sense of justice. She has accepted disadvantageous contracts because she believed in the cause.
+- **Difficulty with Cruelty**: She cannot stomach unnecessary brutality, hesitating at moments requiring ruthlessness. This has cost her contracts and, occasionally, has prevented her from achieving objectives.
+- **Pride in Reputation**: Her need to maintain her status as a mercenary of principle makes her inflexible in negotiations and sometimes leads her to accept risks unnecessarily to preserve her honor.
+- **Limited Resources**: Operating independently and refusing wealthy but morally questionable patrons means she often works with limited funds and equipment compared to less scrupulous mercenaries.
+- **Emotional Exhaustion**: The weight of protecting others and witnessing suffering takes a toll. She occasionally struggles with despair when she realizes her efforts cannot save everyone.
 
 ## Social
 
 ### Patrons
 
-- **The Royal Cartographers' Society**: Official patron organization that grants him access to resources, archive materials, and occasionally funding for expeditions of strategic importance.
-- **Lord Commander Hieronymus**: A military leader who has commissioned numerous military maps and occasionally funds expeditions specifically to gather information on potential threats or expansion opportunities.
-- **Lady Investress Calyndra**: A wealthy collector of fine maps and geographical art who has become increasingly invested in funding his expeditions, ostensibly for the beauty of his work.
+- **The Village Council of Marshfeld**: A agrarian community that hires Thêkla annually to protect against bandits and raiders. **Elder Magistrate Tomás** has become a mentor figure, offering wisdom and support.
+- **Lady Khatunéla Lysandáhr**: A noblewoman of conscience who uses her influence to connect Thêkla with communities in need of protection. She asks only that Thêkla help those who cannot afford formal mercenary rates.
+- **The Scholars' Collective of the Archive**: Dangerous knowledge sometimes requires protection. The head archivist, **Master Scholarch Menandáhr**, retains Thêkla for sensitive operations involving recovered texts or persecuted scholars.
 
 ### Enemies
 
-- **The Orthodox Cartographers' Alliance**: Conservative practitioners who view Kallínikos's artistic approach as compromising precision and his expeditions as wasteful spending on unnecessary discovery.
-- **The Faceless Warden**: An entity or individual Kallínikos encountered during his Shadowpeak expedition, something that clearly does not want him—or anyone—mapping the deep mountain regions. They have tried multiple times to kill him.
+- **The Crimson Brotherhood**: A slavering organization operating throughout the **Byzarian League**. Their leader, **Captain Malachai the Chained**, has marked Thêkla for death after she dismantled two of their trafficking operations.
+- **Mercenary Lord Korvas the Merciless**: A rival who views her moral stance as weakness and profit-loss. He has actively worked to undermine her contracts and damage her reputation.
+- **The Corrupt House of Magistrates**: City officials who profit from allowing crime to flourish. They view Thêkla as a threat to their comfortable arrangements.
 
 ### Affiliations
 
-- **The Royal Cartographers' Society**: Official membership providing resources and legitimacy, though his maverick approach creates occasional friction.
-- **The Explorers' Fellowship**: An informal network of adventurers and naturalists dedicated to expanding geographical knowledge.
+- **The Mercenaries' Guild of the Byzarian League**: Thêkla maintains full membership, though she operates with unusual independence.
+- **The Protectors' Circle**: An informal network of conscientious mercenaries who share information about genuinely dangerous criminals and support one another's defensive operations.
 
 ## Plot Hooks
 
-1. **The Disappearing Expedition**: Kallínikos's latest expedition to the western wastes simply vanishes—no contact, no return, no bodies. Three months overdue, sponsors demand answers. When another group sent to investigate reports finds evidence that Kallínikos deliberately eluded them and continued deeper into unmapped territory, the question becomes urgent: did he discover something so important he was willing to fake his expedition's disappearance? Is he alive, dead, or transformed into something else entirely?
+1. **The Impossible Contract**: A young scholar offers Thêkla an extraordinary sum to protect someone for one week—with the catch that she cannot know who they are protecting or why they are in danger. The mystery deepens when she realizes her client may be **prophetically gifted** and the danger comes from the **Byzarian Inquisition** itself, forcing her into direct conflict with official authority.
 
-2. **Maps That Shouldn't Exist**: Kallínikos discovers in an old archive a collection of extraordinarily detailed maps of regions he has never seen, drawn in a style that predates the current age by centuries. The territories depicted no longer exist—or have been lost to time. Among them is a map of his beloved Shadowpeak Mountains, showing a structure or location marked only as "The Forbidden Archive." He must decide whether to attempt to locate the archive, knowing it may be the source of these mysterious maps and possibly the lair of the entity that attacked him.
+2. **The Ghost Brigade**: Thêkla encounters a group of former soldiers—women mostly—who have begun conducting vigilante operations against violent criminals the official justice system refuses to prosecute. Their leader, **Captain Delia**, asks Thêkla to join formally or at minimum to train them. Accepting means becoming an outlaw; refusing means abandoning those who could do tremendous good.
 
-3. **Rival Mapmakers**: A wealthy merchant house begins employing expeditions specifically to beat Kallínikos to unexplored territory, creating rival maps they plan to publish simultaneously. What appears as simple commercial rivalry slowly reveals darker elements—the merchants' expeditions are searching for something specific, and they don't care who dies in the process. Kallínikos must either collaborate with his commercial rivals or race against them toward a discovery he doesn't fully understand.
+3. **The Infiltration**: Lady Khatunéla asks Thêkla to accomplish something previously thought impossible: infiltrate the **Crimson Brotherhood** as a criminal-for-hire, identify their actual leadership structure, and gather evidence for prosecution. The operation would require Thêkla to commit heinous acts as cover—forcing her to question whether her moral code can bend without breaking.
 
-4. **The Princess's Commission**: The heir to the Byzarian throne commissions Kallínikos to create a map of a region explicitly declared forbidden by the ruling council—supposedly to understand what the council is hiding. She claims it is for her education in statecraft, but hints that political factions within the League have compelling reasons to want that territory mapped, reasons that might challenge the current balance of power. Kallínikos must decide whether to serve a princess or maintain his independence.
+4. **The Rival's Challenge**: **Korvas the Merciless** publicly challenges Thêkla to single combat, winner takes both their reputations. He has carefully orchestrated the challenge to occur during a time when she cannot simply refuse without losing the confidence of the mercenary community. Beyond the personal stakes, Thêkla suspects he has some larger purpose in forcing this confrontation.
 
-5. **The Cartographer's Curse**: Kallínikos meets a dying explorer who claims that everyone who has attempted to map beyond certain boundaries is doomed—that something actively prevents the full knowledge of the world's true geography. The explorer bequeaths him a partial map hinting at vast territories that should exist but don't appear on any current charts. Kallínikos must choose whether to pursue this mystery, knowing it may validate a hypothesis about reality itself that most would consider insane.
+5. **The Refugee Crisis**: A sudden catastrophe—plague, war, or magical disaster—displaces an entire region's population. The mercenary guild offers substantial contracts to those willing to handle the chaos. Thêkla discovers that some "safety operations" are actually harvesting refugees for slavery. She must navigate politics within her own guild while protecting the vulnerable and exposing corruption from within the organization she has relied upon.

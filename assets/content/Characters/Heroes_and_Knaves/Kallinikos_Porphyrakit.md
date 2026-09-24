@@ -1,25 +1,24 @@
 ---
 tags:
   - heroes-and-knaves
-  - todo
-  - guilded
-  - clergy
+  - tradesfolk
   - character
 name:
-  full: Leónantos Stratégopoulos
+  full: Kallínikos Porphyrákit
   title: ""
-  given: Leónantos
-  clan: Stratégopoulos
-  home: chrysamar
+  given: Kallínikos
+  clan: Porphyrákit
+  home: yesilhan2
   aliases: []
 packFolder: helladbyzaria
-shortcode: lnntstrtgpls
+shortcode: klnksprphrkt
+renamedFrom: klnkszygmls
 type: being
 data:
   icon: icon-person
   templatePriority: null
   archetypes: []
-  occupation: Priest
+  occupation: Cartographer/Artist
   stations: []
   lore:
     - commonerrnk
@@ -29,117 +28,118 @@ data:
     - byzarianlg
   gender: male
   species: null
-  age: 45
-  born: 675/4/17
-  height: 1.91
-  weight: 87.5
-  frame: heavy
+  age: 39
+  born: 681/3/27
+  height: 1.75
+  weight: 70.8
+  frame: medium
   appearance:
-    eye_color: brown
-    hair_color: black
-    skin_color: light
+    eye_color: warm_brown
+    hair_color: dark_brown
+    skin_color: warm
     complexion: tanned
     extra_features:
-      - a tattoo of a skill and crossbones on the chest
+      - a scar on the left thigh
 sohl:
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 17 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 9 } }
-    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 7 } }
-    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 6 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 13 } }
     - { model: sohl-sohl-attribute-voi, system: { scoreBase: 14 } }
     - { model: affiliation-florania }
-    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 42 } }
-    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 28 } }
-    - { model: sohl-sohl-skill-pfmy, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 13 } }
-    - { model: skill-helnkscrpt, system: { masteryLevelBase: 65 } }
-    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 27 } }
-    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 80 } }
-    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 65 } }
-    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 24 } }
-    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 45 } }
-    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 36 } }
-    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 12 } }
-    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 32 } }
-    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-math, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 15 } }
+    - { model: skill-helnkscrpt, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-mnrl, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 14 } }
     - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 60 } }
-    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 42 } }
     - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 30 } }
     - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-skill-lgdm, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 8 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 12 } }
-    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 60 } }
-    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 33 } }
-    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-skill-cmcs, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 11 } }
-    - { model: sohl-sohl-skill-fltch, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 14 } }
-    - { model: sohl-sohl-mysticalability-summ, system: { masteryLevelBase: 14 } }
-    - { model: sohl-sohl-weapongear-whmr }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-hide, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-txtl, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-wood, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-weapongear-stf }
+    - { model: sohl-sohl-weapongear-dgr }
     - { model: sohl-sohl-armorgear-psht }
     - { model: sohl-sohl-armorgear-wtrsr }
-    - { model: sohl-sohl-armorgear-ltshoe }
-    - name: Sacred robes of fire-resistant linen (ceremonial)
-      type: miscgear
-      system:
-        shortcode: sacredrobesoffire
-        weight: 1.5
-        value: 100
-        durability: 3
-    - name: Leather satchel for ritual items
-      type: miscgear
-      system:
-        shortcode: leathersatchel
-        weight: 1.5
-        value: 100
-        durability: 3
-    - name: Sacred texts of Flórania (fire aspect)
-      type: miscgear
-      system:
-        shortcode: sacredtexts
-        weight: 1.5
-        value: 200
-        durability: 3
-    - name: Incense and ritual offerings (various)
-      type: miscgear
-      system:
-        shortcode: incenseandritual
-        weight: 1.5
-        value: 100
-        durability: 3
-    - name: Ceremonial firestarter (blessed)
-      type: miscgear
-      system:
-        shortcode: ceremonial
-        weight: 1.5
-        value: 100
-        durability: 3
+    - { model: sohl-sohl-armorgear-ltkboot }
     - { model: sohl-sohl-miscgear-tndrbx }
-    - { model: sohl-sohl-miscgear-torch }
-    - name: Fire-blessed ceremonial oil
+    - { model: sohl-sohl-miscgear-torch, system: { quantity: 3 } }
+    - { model: sohl-sohl-miscgear-stdrtns, system: { quantity: 4 } }
+    - name: Waterproof map case (leather-bound)
       type: miscgear
       system:
-        shortcode: fireblessed
-        weight: 1.5
+        shortcode: waterproofmapcase
+        weight: 0.8
+        value: 100
+        durability: 3
+    - name: Surveying tools (compass, quadrant, measuring chains)
+      type: miscgear
+      system:
+        shortcode: surveyingtools
+        weight: 2
+        value: 100
+        durability: 3
+    - name: Magnifying glass for detailed work
+      type: miscgear
+      system:
+        shortcode: magnifyingglass
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Brass compass (precision navigational)
+      type: miscgear
+      system:
+        shortcode: brasscompass
+        value: 8
+        weight: 1
+        durability: 3
+    - name: Ink bottles and drawing implements
+      type: miscgear
+      system:
+        shortcode: inkbottlesanddrawing
+        weight: 0.5
+        value: 100
+        durability: 3
+    - name: Parchment and paper (sketching stock)
+      type: miscgear
+      system:
+        shortcode: parchmentandpaper
+        weight: 1
         value: 100
         durability: 3
     - { model: sohl-sohl-containergear-backpk }
-    - { model: sohl-sohl-containergear-bpchmd }
+    - { model: sohl-sohl-containergear-wtrskin }
   system:
     body:
       structure:
@@ -603,79 +603,72 @@ sohl:
 
 # Appearance {#appearance}
 
-![[lnntstrtgpls|Leónantos Stratégopoulos]]{float: top-left}
+![[klnksprphrkt|Kallínikos Porphyrákit]]{float: top-left}
 
-Leónantos stands 6'3" tall with a heavy build. He has light tanned skin, black hair, and brown eyes. His features include an oblong face, a prominent nose, a pointed chin, a wide mouth, heavy brows. A distinguishing mark is a tattoo of a skill and crossbones on the chest.
+Kallínikos stands 5'9" tall with a medium build. He has warm tanned skin, dark brown hair, and warm brown eyes. His features include an oval face, a strong nose, an angular jawline, an expressive mouth, dark brows, prominent cheeks. A distinguishing mark is a scar on the left thigh.
 
 # Dossier {#dossier}
 
-## Background
+Born into the Porphyrákit family of minor nobility within the Byzarian League, Kallínikos was trained in the traditional scholarly arts—mathematics, heraldry, classical texts. He showed early aptitude for drawing, and his family eventually allowed him to apprentice with the renowned cartographer **Master Kyrillazûr** rather than forcing him into administrative service. Under Kyrillazûr's tutelage, he mastered both the technical precision required of military and merchant cartography and the artistic rendering that transforms maps into objects of beauty.
 
-### Early Years
+By his early thirties, Kallínikos had established himself as the League's finest cartographer, creating detailed maps commissioned by traders and military commanders. But charts of known territories no longer satisfied him. At thirty-five, he began funding his own expeditions into unmapped regions, often at significant personal expense. Each expedition brought him closer to the edges of the known world—and closer to genuine danger. The thigh scar came during an expedition to the Shadowpeak Mountains five years ago, when he was ambushed by something that should not exist according to any of his sources.
 
-Leónantos was born to a merchant family in the bustling ports of the Byzarian League, where the salt wind carried tales of distant lands and the sea held no mercy for the weak. Unlike his father, who sought profit in trade, young Leónantos felt the call of something greater—a hunger for battle and dominion. He sought employment as a soldier-for-hire, signing on with coastal mercenary bands that preyed upon merchant vessels and rival settlements. For two decades, he climbed the ranks through cunning and brutality, becoming captain of the _Scarlet Reaver_, a ship feared across the shipping lanes. The skull and crossbones upon his chest was earned in those years, marked upon his flesh as a pirate's bond to his crew.
-
-### The Calling
-
-Yet the sea's endless thirst for blood could never satisfy the deeper yearning in his soul. In his fortieth year, during a tempest that split the heavens and rained fire upon the waves, Leónantos experienced a revelation. The priests of Flórania emerged from the storm's chaos to rescue his dying crew, speaking of divine purpose and the purifying flame of the fire god's aspect. Rather than face judgment for his crimes, Leónantos underwent a profound transformation, surrendering his corsair's life for the priesthood. His warlord's prowess became the Church's instrument, his command of men redirected toward religious authority rather than lawless conquest. Many questioned the sincerity of his conversion, yet none could deny the ferocity with which he now pursued the god's will.
-
-### Present Standing
-
-As a high-ranking priest of Flórania's fire aspect, Leónantos serves the Byzarian League as both spiritual guide and military chaplain. He conducts elaborate rituals that bless warriors before battle, communes with fire spirits through esoteric knowledge, and commands respect—and often fear—from military leaders who depend upon his divine counsel. His church offices overlook the harbor where his corsair days began, and he walks the same streets as a shepherd rather than a scourge. Yet the fire that once burned for plunder burns now for conquest of a different kind: the dominion of faith over doubt, and the submission of souls to divine purpose.
+Now at thirty-nine, Kallínikos is something of a legend—part explorer, part artist, part reckless adventurer. He maintains a workshop in the Byzarian capital but spends at least a third of each year on expedition, mapping uncharted lands and returning with stories as intriguing as his maps.
 
 ## Psyche
 
 ### Personality
 
-Leónantos is a man of paradox: brutal honesty wed to calculated charm, the fervent believer married to the hardened pragmatist. His decades as a pirate left their mark upon his temperament—he speaks with command, expects obedience, and brooks no contradiction. Yet his conversion was genuine, and this internal struggle between the past and the divine creates a compelling tension. He views weakness with contempt, whether in body or spirit, and shows little patience for those who lack conviction. His laughter is loud and unsettling, his rages terrible to witness. Nevertheless, he possesses an unexpected capacity for mentorship, taking those he deems worthy under his wing and molding them into instruments of the faith. He speaks multiple languages learned in his seafaring days, and his discourse on both theology and tactics can entrance a room.
+Kallínikos is a man of genuine charm and infectious enthusiasm. In social settings, he is witty and engaging, his mind making unexpected connections between seemingly disparate subjects. He speaks eloquently about art, geography, history, and philosophy, and his passion for discovery is genuinely compelling. He cultivates relationships carefully, understanding that patronage and partnerships depend on goodwill.
+
+However, beneath this polished exterior lies something more driven and potentially reckless. In the field, away from civilized society, he becomes almost feral in his focus—pushing beyond prudent limits, taking risks that seasoned explorers would consider suicidal. There is something almost compulsive about his need to see what lies beyond the next ridge, to chart what others have not. His colleagues sometimes wonder if he is seeking something specific rather than merely exploration for its own sake.
 
 ### Motivation
 
-Leónantos seeks redemption through unwavering service to Flórania, believing that only through perfect obedience and absolute commitment can he expiate the blood on his hands. He also remains convinced that strength, not gentleness, will bring true enlightenment to the masses. His authority over the military and his influence with the priesthood grow year by year, and he harbors ambitions to reshape the Byzarian League's religious and martial character according to his vision of divine order. The fire god has claimed his body; now he seeks to claim the region's soul.
+Kallínikos is driven by the deep human desire to know, to map the unmapped, to leave a legacy of discovery and artistic beauty. On the surface, he seeks to expand the League's knowledge and influence, to create maps so beautiful and comprehensive that they become treasured objects in their own right. Beneath this lies something darker—a conviction that something important awaits discovery on the edges of the known world, something that might change everything. He cannot articulate what he seeks, but he knows with absolute certainty that he will recognize it when he finds it.
 
 ### Strengths
 
-- **Ritual Mastery**: Leónantos commands arcane knowledge of ceremonial fire magic and spirit communion, rivaling many monks in understanding the esoteric traditions.
-- **Martial Command**: His skill at directing troops and inspiring warriors remains unmatched; soldiers under his blessing fight with legendary ferocity and discipline.
-- **Physical Dominance**: Even at forty-five, his strength and endurance are exceptional, and he wields his warhammer with devastating precision.
-- **Charismatic Authority**: His voice carries weight; people listen, whether from respect or intimidation, and his oratory can sway crowds and convince the doubtful.
-- **Seamanship**: His decades at sea left him intimately knowledgeable about navigation, sail-craft, and the governance of vessels and crews.
+- **Master Cartographer**: His Script, Drawing, and Mathematical skills all exceed 15, making him capable of creating maps of unprecedented accuracy and detail.
+- **Artistic Vision**: With Creativity at 16, he sees maps not merely as functional documents but as works of art, which drives demand for his commissions among wealthy collectors.
+- **Seasoned Explorer**: His high Survival, Awareness, and Stealth scores, combined with practical experience, make him one of the safest people to have on expedition—when he is being cautious, which is not always.
+- **Persuasive Communicator**: His Eloquence and Command scores of 14 allow him to secure funding, gather followers, and talk his way out of dangerous situations.
+- **Well-Rounded Outdoor Skills**: His Climbing, Riding, and Swimming scores are all solid, and his practical knowledge of dozens of environments is extensive.
 
 ### Weaknesses
 
-- **Emotional Coldness**: His empathy is limited; he views suffering as weakness and struggle as purification, making him a harsh judge of human frailty.
-- **Dogmatic Fervor**: He interprets doctrine with little flexibility, viewing compromise as betrayal of the faith itself.
-- **Aggressive Impulse**: Though he channels his violence through the church, his first instinct in conflict remains overwhelming force rather than negotiation.
-- **Reputation for Cruelty**: His pirate past haunts him despite conversion; many fear his forgiveness is superficial, and some of his victims' families still hunger for vengeance.
-- **Limited Creativity**: Though skilled in established rituals, he struggles to adapt or improvise when tradition provides no answer.
+- **Reckless Adventurer**: His drive to explore often overrides prudent judgment. He will venture into clearly dangerous territory against the advice of companions, sometimes with tragic consequences.
+- **Obsessive Tendencies**: Once fixated on a particular expedition or mystery, he becomes nearly impossible to dissuade from pursuing it, sometimes abandoning commissioned work.
+- **Poor Physical Durability**: His Endurance score of only 12 means extended hardship can break him down; he is surprisingly vulnerable despite his toughness of spirit.
+- **Limited Combat Training**: Though he can handle himself adequately, his Melee score of 13 is underwhelming, leaving him dependent on companions in true combat situations.
+- **Divided Loyalties**: His commitment to exploration sometimes conflicts with his commercial obligations, making him an unreliable partner when expeditions take longer than anticipated.
 
 ## Social
 
 ### Patrons
 
-- **Thálassios of the Byzarian Council**: A military governor who relies on Leónantos's blessings and counsel to maintain his authority and morale among his troops.
-- **High Priestess Eupráxinaz**: The supreme ecclesiastical authority in the region, who has come to trust—though not entirely comfort—Leónantos's brutal effectiveness.
+- **The Royal Cartographers' Society**: Official patron organization that grants him access to resources, archive materials, and occasionally funding for expeditions of strategic importance.
+- **Lord Commander Hieronymus**: A military leader who has commissioned numerous military maps and occasionally funds expeditions specifically to gather information on potential threats or expansion opportunities.
+- **Lady Investress Calyndra**: A wealthy collector of fine maps and geographical art who has become increasingly invested in funding his expeditions, ostensibly for the beauty of his work.
 
 ### Enemies
 
-- **Captain Théodoulos the Bitter**: A rival corsair from Leónantos's pirate days, now commanding his own fleet and seeking to end his former comrade before divine luck can claim vengeance for all Théodoulos has lost.
-- **House of Maríanos**: An aristocratic family whose merchant fleet Leónantos systematically destroyed during his years as the Scarlet Reaver's captain; the surviving heirs have sworn blood oaths to see him burned.
-- **The Apostate Priests of Darkness**: A heretical sect believes Leónantos's conversion was false and that he works to corrupt the church from within; they have marked him for assassination.
+- **The Orthodox Cartographers' Alliance**: Conservative practitioners who view Kallínikos's artistic approach as compromising precision and his expeditions as wasteful spending on unnecessary discovery.
+- **The Faceless Warden**: An entity or individual Kallínikos encountered during his Shadowpeak expedition, something that clearly does not want him—or anyone—mapping the deep mountain regions. They have tried multiple times to kill him.
 
 ### Affiliations
 
-- **Church of Flórania (Fire Aspect)**: High-ranking priest and architect of military-religious cooperation
-- **Byzarian Military Council**: Serves as spiritual advisor to commanders and overseer of pre-battle rituals
-- **The Order of the Sacred Flame**: An elite cadre of warrior-monks trained in both priestly and martial disciplines under his direct mentorship
+- **The Royal Cartographers' Society**: Official membership providing resources and legitimacy, though his maverick approach creates occasional friction.
+- **The Explorers' Fellowship**: An informal network of adventurers and naturalists dedicated to expanding geographical knowledge.
 
 ## Plot Hooks
 
-1. **The Pirate's Debt Calls**: A merchant vessel recently arrived in the Byzarian harbors bearing Théodoulos's colors—and word that the captain has grown tired of hunting. He sends a message to Leónantos: surrender yourself for trial before the pirate assembly, or he will burn the ports themselves in siege. As military leaders call upon Leónantos to lead the defense, he must decide whether his past truly has been absolved by faith, or whether some debts must be settled with steel rather than prayer. The party may find themselves hired to track down Théodoulos before he strikes, or forced to help Leónantos face this specter from his corsair days.
+1. **The Disappearing Expedition**: Kallínikos's latest expedition to the western wastes simply vanishes—no contact, no return, no bodies. Three months overdue, sponsors demand answers. When another group sent to investigate reports finds evidence that Kallínikos deliberately eluded them and continued deeper into unmapped territory, the question becomes urgent: did he discover something so important he was willing to fake his expedition's disappearance? Is he alive, dead, or transformed into something else entirely?
 
-2. **A Crisis of Faith**: High Priestess Eupráxinaz discovers evidence suggesting that Leónantos has been conducting unauthorized dark rituals in the temple's lower chambers—communing with ancient fire spirits of malevolent aspect rather than divine flame. Whether this is truth or elaborate fabrication by enemies within the priesthood, it threatens to destroy both the church's stability and Leónantos's hard-won redemption. The party might be tasked by competing factions to either prove his guilt or uncover the conspiracy against him, delving into the shadowed politics of ecclesiastical power.
+2. **Maps That Shouldn't Exist**: Kallínikos discovers in an old archive a collection of extraordinarily detailed maps of regions he has never seen, drawn in a style that predates the current age by centuries. The territories depicted no longer exist—or have been lost to time. Among them is a map of his beloved Shadowpeak Mountains, showing a structure or location marked only as "The Forbidden Archive." He must decide whether to attempt to locate the archive, knowing it may be the source of these mysterious maps and possibly the lair of the entity that attacked him.
 
-3. **The Resurrection of the Scarlet Reaver**: Leónantos's old crew, scattered and aged, begins to reassemble on the docks. Led by his former first mate Gaspar—a scarred, one-eyed survivor who claims Leónantos abandoned them all those years ago—they demand that he return to the seas and reclaim the piracy that made them rich. They hold the deed to his former ship, recently recovered from the depths, and they offer him a choice: sail with them one final time, or watch them use his secrets to burn the Byzarian League itself. The party becomes caught between honoring the transformation of a complex man and preventing catastrophe.
+3. **Rival Mapmakers**: A wealthy merchant house begins employing expeditions specifically to beat Kallínikos to unexplored territory, creating rival maps they plan to publish simultaneously. What appears as simple commercial rivalry slowly reveals darker elements—the merchants' expeditions are searching for something specific, and they don't care who dies in the process. Kallínikos must either collaborate with his commercial rivals or race against them toward a discovery he doesn't fully understand.
 
-4. **The Heretic Within**: The Apostate Priests send an agent—a skilled assassin trained in shadow magic and priestly lore—who infiltrates the Church with the goal of killing Leónantos during the Festival of Flames, the holiest day in the Byzarian calendar. The party may serve as the priest's bodyguards, hunt the assassin before the festival arrives, or become entangled in the revelation that the heretics have sympathizers within the church hierarchy itself, forcing hard choices about justice and mercy.
+4. **The Princess's Commission**: The heir to the Byzarian throne commissions Kallínikos to create a map of a region explicitly declared forbidden by the ruling council—supposedly to understand what the council is hiding. She claims it is for her education in statecraft, but hints that political factions within the League have compelling reasons to want that territory mapped, reasons that might challenge the current balance of power. Kallínikos must decide whether to serve a princess or maintain his independence.
 
-5. **Legacy of the Warhammer**: Leónantos commissions a legendary smith to forge him a warhammer from ore blessed by living fire spirits—a weapon that will be his final masterwork, to be passed to his chosen successor in the priesthood. The party is hired to gather the rare materials across dangerous lands: silver mined in volcanic caverns, wood from the oldest heartwood of a sacred grove, and stone taken from the core of a meteor that fell to earth. As they journey, they discover that Leónantos's true plan may be far darker than mere legacy—perhaps a weapon intended to reshape the faith itself.
+5. **The Cartographer's Curse**: Kallínikos meets a dying explorer who claims that everyone who has attempted to map beyond certain boundaries is doomed—that something actively prevents the full knowledge of the world's true geography. The explorer bequeaths him a partial map hinting at vast territories that should exist but don't appear on any current charts. Kallínikos must choose whether to pursue this mystery, knowing it may validate a hypothesis about reality itself that most would consider insane.

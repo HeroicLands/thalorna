@@ -4,14 +4,15 @@ tags:
   - tradesfolk
   - character
 name:
-  full: Phótianos Stratégopoulos
+  full: Phótianos Hodíkot
   title: ""
   given: Phótianos
-  clan: Stratégopoulos
+  clan: Hodíkot
   home: gumushisar2
   aliases: []
 packFolder: helladbyzaria
-shortcode: phtnstrtgpls
+shortcode: phtnshdkt
+renamedFrom: phtnstrtgpls
 type: being
 data:
   icon: icon-person
@@ -587,7 +588,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[phtnstrtgpls|Phótianos Stratégopoulos]]{float: top-left}
+![[phtnshdkt|Phótianos Hodíkot]]{float: top-left}
 
 Phótianos stands 5'8" tall with a heavy build. He has light weathered skin, gray hair, and green eyes. His features include a long face, a straight nose, a sharp jawline, and prominent brows. He has a scar on his right hand.
 

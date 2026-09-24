@@ -1,132 +1,73 @@
 ---
 tags:
-  - heroes-and-knaves
+  - todo-warrior
+  - draft
   - soldiery
   - character
 name:
-  full: Thêkla Rhomaios
+  full: Leónidês Pyrgíkot
   title: ""
-  given: Thêkla
-  clan: Rhomaios
-  home: kostaros
+  given: Leónidês
+  clan: Pyrgíkot
+  home: ""
   aliases: []
 packFolder: helladbyzaria
-shortcode: theklarhms
+shortcode: lendspyrgkt
+renamedFrom: lendspllgs
 type: being
 data:
   icon: icon-person
   templatePriority: null
   archetypes: []
-  occupation: Mercenary
+  occupation: Man-at-Arms
   stations: []
   lore:
+    - byzarianclt
     - commonerrnk
   homes:
     - byzariargn
   affiliations:
     - byzarianlg
-  gender: female
+  gender: male
   species: null
-  age: 29
-  born: 691/3/4
-  height: 1.78
-  weight: 77.6
-  frame: medium
+  age: 30
+  born: 690/12/15
+  height: 1.96
+  weight: 112
+  frame: massive
   appearance:
-    eye_color: green
-    hair_color: brown
-    skin_color: tanned
-    complexion: null
-    extra_features: []
+    eye_color: brown
+    hair_color: dark_brown
+    skin_color: fair
+    complexion: smooth
+    extra_features:
+      - tattoo on arm
 sohl:
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 10 } }
-    - { model: affiliation-venusia }
-    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-skill-embl, system: { masteryLevelBase: 12 } }
-    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 52 } }
-    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 24 } }
-    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 42 } }
-    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 24 } }
-    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 52 } }
-    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 70 } }
-    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 10 } }
-    - { model: sohl-sohl-skill-anmcft, system: { masteryLevelBase: 15 } }
-    - { model: sohl-sohl-skill-fish, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 14 } }
-    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 9 } }
+    - { model: affiliation-arldnpnthn }
     - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 33 } }
-    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 22 } }
-    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 36 } }
-    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 36 } }
-    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 52 } }
-    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 48 } }
-    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 60 } }
-    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 11 } }
-    - { model: sohl-sohl-skill-hide, system: { masteryLevelBase: 24 } }
-    - { model: sohl-sohl-skill-masn, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-wpnc, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-weapongear-brdswd }
-    - { model: sohl-sohl-weapongear-rndsh }
-    - { model: sohl-sohl-weapongear-dgr }
-    - { model: sohl-sohl-armorgear-mshirt }
-    - { model: sohl-sohl-armorgear-mleg }
-    - { model: sohl-sohl-armorgear-ltshoe }
-    - { model: sohl-sohl-armorgear-ltcloak }
-    - name: Herbal remedies and healing poultices
-      type: miscgear
-      system:
-        shortcode: herbalremedies
-        quantity: 3
-        weight: 1
-        value: 100
-        durability: 3
-    - name: Survival gear (rope, hooks, line)
-      type: miscgear
-      system:
-        shortcode: survivalgear
-        weight: 0.4
-        value: 100
-        durability: 3
-    - name: Whetstone for blade maintenance
-      type: miscgear
-      system:
-        shortcode: whetstoneforblade
-        weight: 1
-        value: 100
-        durability: 3
-    - { model: sohl-sohl-miscgear-torch, system: { quantity: 2 } }
-    - { model: sohl-sohl-miscgear-frtns, system: { quantity: 4 } }
-    - name: Personal effects (old letters, mementos)
-      type: miscgear
-      system:
-        shortcode: personaleffects
-        weight: 1
-        value: 100
-        durability: 3
-    - { model: sohl-sohl-containergear-backpk }
-    - { model: sohl-sohl-containergear-wtrskin }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 27 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 44 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 43 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 47 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 25 } }
   system:
     body:
       structure:
@@ -590,73 +531,52 @@ sohl:
 
 # Appearance {#appearance}
 
-![[theklarhms|Thêkla Rhomaios]]{float: top-left}
-
-Thêkla stands 5'10" tall with a medium build. She has sun-tanned skin, brown hair, and green eyes. Her features include an oval face, a strong nose, a sharp jawline, well-defined lips, arched brows, hollow cheeks.
+Leónidês is striking in his proportions—6'5" tall with a massive, heavily muscled frame that makes him the largest man in most rooms he enters. His dark brown hair is thick and curling, worn to his collar in the Byzarian style, and his brown eyes are unexpectedly gentle in a face built for war. His fair skin is smooth and largely unmarked despite his martial profession, though a sprawling tattoo of a griffon in dark ink covers his right shoulder and upper arm—the mark of his regiment. His features are broad and heavy-boned, with a wide nose and a strong chin softened by a neatly trimmed black beard. He wears his Byzarian heavy infantry kit with obvious pride: a polished mail hauberk over a padded coat, kurbul greaves, and a broadsword that looks almost proportional in his enormous grip.
 
 # Dossier {#dossier}
 
-Thêkla was born into a merchant family of middling prosperity in the **[[affiliation-byzarianlg|Byzarian League]]**, the third of four daughters. Where her sisters were groomed for advantageous marriages, Thêkla showed an early talent for the martial arts—a transgression her father initially forbade. When she was fourteen, bandits attacked a merchant convoy that included her aunt. Thêkla's mother, a woman of unexpected steel, taught her daughter in secret, and by sixteen, Thêkla had proven her worth beyond argument by helping defend a village against raiders.
+Leónidês was born in a Byzarian trading family that was more interested in commerce than he was in the family business. At seventeen, instead of accepting a position in his father's company, he took his military training into the field and joined a private military company that defended merchant convoys across the Byzarian crossroads. The Black Serpent Company was not prestigious, but they were effective, and for eight years Leónidês worked himself into a senior position through competence and a willingness to do the work others considered beneath them.
 
-Rather than accept a husband or business partnership, Thêkla formally joined the **Mercenaries' Guild** at eighteen, much to her father's dismay. She spent her twenties undertaking increasingly dangerous contracts: guarding caravans through bandit-infested regions, protecting settlements threatened by brigands, and slowly building a reputation as someone with both exceptional skill and an uncommon moral compass. Unlike many mercenaries, Thêkla refuses contracts that would harm innocents, has never accepted a job involving slavery or trafficking, and actively works against those who exploit the weak.
+At twenty-five, the Black Serpent Company disbanded after a disastrous campaign against bandits who had political protection. Leónidês was left without a command structure and with a serpent tattoo that marked him as military personnel. He has since worked as an independent caravan escort, hiring himself out to merchants moving goods across the Byzarian territories and toward the western realms. The work is variable: sometimes it is routine protection from casual bandits, sometimes it is complex logistics involving military-grade combat, sometimes it is simply being an enormous armed presence that discourages most casual violence.
 
-Now twenty-nine, she maintains her guild membership but operates with unusual independence, selecting clients based on merit rather than payment. She has become something between a mercenary and a hero-for-hire, drawing both respect and resentment from her peers.
+Now at thirty years old, Leónidês has established a reputation as reliable but expensive security. He has saved enough money to consider retirement within a decade, though the prospect of settled civilian life deeply unsettles him. He is professionally competent, personally isolated, and quietly haunted by the company dissolution—specifically, by the knowledge that the military leadership was corrupted by political pressure and abandoned soldiers in the field.
 
 ## Psyche
 
 ### Personality
 
-Thêkla is direct to the point of bluntness, valuing honesty over courtesy. This can make her seem cold to those who prefer social niceties, but those who work with her come to understand that her straightforwardness is not rudeness but rather profound respect for others' intelligence. She says what she means and trusts others to do the same. In combat, she is swift and decisive. In conversation, she listens more than she speaks, genuinely seeking to understand others' perspectives.
-
-Her greatest strength may be her empathy—a trait unusual among mercenaries. She remembers the faces of those she has protected, follows up on their fates, and takes personal responsibility for her failures. This empathy is not sentimentality; it is disciplined compassion that drives her toward justice.
+Leónidês is quiet in the manner of a man who learned early that his size makes language unnecessary. He observes before acting, thinks before speaking, and is remarkably patient with people who are trying to communicate. When he does speak, his words carry weight because they are infrequent. He has a dry, understated appreciation for absurdity and occasionally surprises people with observations of unusual insight.
 
 ### Motivation
 
-Thêkla is motivated by a desire to protect those who cannot protect themselves. She has seen what unchecked violence and exploitation can do to communities and has made it her personal mission to be a counterweight to that darkness. She fights not for gold—though she accepts fair payment—but for the satisfaction of seeing families safe and communities restored. There is also a personal drive: a need to prove that a woman can be as formidable a warrior and leader as any man, and that strength can be wielded with integrity.
+Leónidês wants personal autonomy more than anything else. After serving under command structures that were compromised and corrupted, he has no interest in institutional loyalty. His motivation is professional excellence and financial independence—the security of knowing that he will never need to compromise his judgment to survive. His secondary motivation, which he acknowledges rarely, is the desire to save soldiers from the kind of betrayal he experienced during the Black Serpent dissolution.
 
 ### Strengths
 
-- **Master Swordswoman**: Thêkla's skill with a longsword and shield is exceptional. Her technique is flawless, her reflexes sharp, and her instincts honed through countless real combat encounters.
-- **Tactical Brilliance**: She can assess a situation rapidly and deploy limited resources to maximum effect. She has trained bandits with far larger numbers through intelligent positioning and psychological pressure.
-- **Natural Leader**: Her presence inspires confidence. Even untrained militia follow her orders without hesitation because she radiates competence and genuine concern for their welfare.
-- **Exceptional Endurance**: Years of conditioning give her remarkable stamina in prolonged combat or travel. She can maintain fighting effectiveness longer than most.
-- **Empathetic Judgment**: Her ability to read people allows her to negotiate effectively, understand civilian needs, and identify trustworthy allies quickly.
-
-### Weaknesses
-
-- **Idealism Liability**: Thêkla's moral commitments sometimes make her vulnerable to clients who manipulate her sense of justice. She has accepted disadvantageous contracts because she believed in the cause.
-- **Difficulty with Cruelty**: She cannot stomach unnecessary brutality, hesitating at moments requiring ruthlessness. This has cost her contracts and, occasionally, has prevented her from achieving objectives.
-- **Pride in Reputation**: Her need to maintain her status as a mercenary of principle makes her inflexible in negotiations and sometimes leads her to accept risks unnecessarily to preserve her honor.
-- **Limited Resources**: Operating independently and refusing wealthy but morally questionable patrons means she often works with limited funds and equipment compared to less scrupulous mercenaries.
-- **Emotional Exhaustion**: The weight of protecting others and witnessing suffering takes a toll. She occasionally struggles with despair when she realizes her efforts cannot save everyone.
+His combat ability is exceptional, honed through years of actual field experience rather than training ground posturing. He is strategically minded and can assess threat quickly and accurately. He is genuinely difficult to intimidate and maintains composure under extreme pressure.
 
 ## Social
 
+Leónidês operates in the liminal space between military structures and civilian commerce. He is respected by soldiers and merchants both, but belongs fully to neither world. His Byzarian identity is evident but not particularly important to his sense of self.
+
+## Companions
+
 ### Patrons
 
-- **The Village Council of Marshfeld**: A agrarian community that hires Thêkla annually to protect against bandits and raiders. **Elder Magistrate Tomás** has become a mentor figure, offering wisdom and support.
-- **Lady Khatunéla Lysandáhr**: A noblewoman of conscience who uses her influence to connect Thêkla with communities in need of protection. She asks only that Thêkla help those who cannot afford formal mercenary rates.
-- **The Scholars' Collective of the Archive**: Dangerous knowledge sometimes requires protection. The head archivist, **Master Scholarch Menandáhr**, retains Thêkla for sensitive operations involving recovered texts or persecuted scholars.
+**Master Merchant Theodor Kantakouzenios**—A wealthy merchant who has retained Leónidês for significant operations over the past five years. Theodor recognizes Leónidês's value and pays generously, but more importantly, he does not attempt to micromanage or demand unnecessary risks. Their relationship is purely professional, but Theodor has begun suggesting that Leónidês consider permanent employment with his merchant house—a position that would provide wealth and security beyond what freelance work offers.
 
 ### Enemies
 
-- **The Crimson Brotherhood**: A slavering organization operating throughout the **Byzarian League**. Their leader, **Captain Malachai the Chained**, has marked Thêkla for death after she dismantled two of their trafficking operations.
-- **Mercenary Lord Korvas the Merciless**: A rival who views her moral stance as weakness and profit-loss. He has actively worked to undermine her contracts and damage her reputation.
-- **The Corrupt House of Magistrates**: City officials who profit from allowing crime to flourish. They view Thêkla as a threat to their comfortable arrangements.
-
-### Affiliations
-
-- **The Mercenaries' Guild of the Byzarian League**: Thêkla maintains full membership, though she operates with unusual independence.
-- **The Protectors' Circle**: An informal network of conscientious mercenaries who share information about genuinely dangerous criminals and support one another's defensive operations.
+**Nikómarzân Varakazûr**—The military officer who commanded the operational decisions that led to the Black Serpent Company's dissolution. Nikómarzân was acting under political pressure but knew what the orders would cost. He sacrificed soldiers he commanded to satisfy higher authorities. Leónidês has heard rumors that Nikómarzân was promoted for his "effective command" of a difficult situation. The knowledge that political corruption was rewarded rather than punished drives Leónidês's deepest resentment.
 
 ## Plot Hooks
 
-1. **The Impossible Contract**: A young scholar offers Thêkla an extraordinary sum to protect someone for one week—with the catch that she cannot know who they are protecting or why they are in danger. The mystery deepens when she realizes her client may be **prophetically gifted** and the danger comes from the **Byzarian Inquisition** itself, forcing her into direct conflict with official authority.
+1. **The Impossible Cargo**—Master Merchant Kantakouzenios asks Leónidês to escort a caravan carrying sealed containers that nobody is allowed to inspect. The cargo is valuable enough that Kantakouzenios offers double his usual rates. Leónidês agrees, but during the journey, bandits attack with tactical knowledge that suggests they knew exactly where the caravan would be and what route it would take. Leónidês fights them off, but realizes the attack was too coordinated to be coincidence. Investigation reveals that Kantakouzenios has been using his merchant operation to move restricted military supplies to political factions, and the bandits were military forces attempting to intercept the contraband. Leónidês is now caught between his respect for Kantakouzenios and his ethical opposition to military corruption.
 
-2. **The Ghost Brigade**: Thêkla encounters a group of former soldiers—women mostly—who have begun conducting vigilante operations against violent criminals the official justice system refuses to prosecute. Their leader, **Captain Delia**, asks Thêkla to join formally or at minimum to train them. Accepting means becoming an outlaw; refusing means abandoning those who could do tremendous good.
+2. **The Recruitment**—A high-ranking military officer approaches Leónidês privately and offers him a position commanding a military security operation with authority, pay, and resources far beyond what he currently has. The position is legitimate and genuinely well-intentioned. But the officer has military connections, and Leónidês recognizes that accepting the position would entangle him in the same institutional structures that compromised his judgment during the Black Serpent years. He must choose between returning to military command and maintaining his hard-won independence.
 
-3. **The Infiltration**: Lady Khatunéla asks Thêkla to accomplish something previously thought impossible: infiltrate the **Crimson Brotherhood** as a criminal-for-hire, identify their actual leadership structure, and gather evidence for prosecution. The operation would require Thêkla to commit heinous acts as cover—forcing her to question whether her moral code can bend without breaking.
+3. **The Survivor's Recognition**—A caravan escort arrives injured and alone, claiming to be a survivor of an ambush on a competing merchant's convoy. The man is Byzarian military, and Leónidês recognizes him immediately: **Ser Karos**, a lieutenant who served under him in the Black Serpent Company and survived the dissolution. Karos was reported killed in action five years ago. Now he has reappeared, claiming that the official report was false—that the soldiers were not killed in combat but deliberately executed by command to cover up the political corruption that led to the disaster. Karos has evidence but knows his life is in danger. He asks Leónidês to help him go public with the truth, which means pursuing Nikómarzân Varakazûr through military and political channels with Karos as a witness.
 
-4. **The Rival's Challenge**: **Korvas the Merciless** publicly challenges Thêkla to single combat, winner takes both their reputations. He has carefully orchestrated the challenge to occur during a time when she cannot simply refuse without losing the confidence of the mercenary community. Beyond the personal stakes, Thêkla suspects he has some larger purpose in forcing this confrontation.
+4. **The Moral Compromise**—A small merchant convoy carrying medicinal goods asks Leónidês to escort them through bandit territory. The merchants are honest, the cargo is legitimate, and the payment is fair. But during the journey, Leónidês discovers that the convoy is actually a cover operation for transporting refugee families fleeing political persecution. The "medicinal goods" containers are disguised to hide people. Leónidês is now escort for refugees, which is technically illegal in several territories he will traverse. He can abandon them and maintain his neutral professional status, or commit to protecting them despite the legal risk to himself.
 
-5. **The Refugee Crisis**: A sudden catastrophe—plague, war, or magical disaster—displaces an entire region's population. The mercenary guild offers substantial contracts to those willing to handle the chaos. Thêkla discovers that some "safety operations" are actually harvesting refugees for slavery. She must navigate politics within her own guild while protecting the vulnerable and exposing corruption from within the organization she has relied upon.
+5. **The Old Wound Reopens**—Leónidês is contracted to provide security for a diplomatic mission in a territory where Nikómarzân Varakazûr now commands local forces. Leónidês's presence becomes known. Nikómarzân reaches out privately with a message: he knows what Leónidês thinks of him, and he does not care. But he offers Leónidês a chance at something he has wanted since the Black Serpent dissolution—a direct military confrontation with Nikómarzân, no witnesses, no consequences. Nikómarzân seems to be offering him the opportunity to kill him with impunity. Leónidês must consider whether the offer is genuine or a trap designed to eliminate him, and whether the chance at revenge is worth compromising his integrity.

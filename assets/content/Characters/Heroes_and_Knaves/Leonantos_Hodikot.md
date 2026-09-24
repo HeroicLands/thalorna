@@ -1,24 +1,26 @@
 ---
 tags:
   - heroes-and-knaves
+  - todo
   - guilded
-  - tradesfolk
+  - clergy
   - character
 name:
-  full: Lysándros Chrysanthópoulos
+  full: Leónantos Hodíkot
   title: ""
-  given: Lysándros
-  clan: Chrysanthópoulos
-  home: selimara
+  given: Leónantos
+  clan: Hodíkot
+  home: chrysamar
   aliases: []
 packFolder: helladbyzaria
-shortcode: lysndrschrysnthpls
+shortcode: lnntshdkt
+renamedFrom: lnntstrtgpls
 type: being
 data:
   icon: icon-person
   templatePriority: null
   archetypes: []
-  occupation: Timberwright
+  occupation: Priest
   stations: []
   lore:
     - commonerrnk
@@ -28,110 +30,117 @@ data:
     - byzarianlg
   gender: male
   species: null
-  age: 48
-  born: 672/2/6
+  age: 45
+  born: 675/4/17
   height: 1.91
-  weight: 84.8
+  weight: 87.5
   frame: heavy
   appearance:
     eye_color: brown
-    hair_color: dark_brown
-    skin_color: tanned
-    complexion: weathered
-    extra_features: []
+    hair_color: black
+    skin_color: light
+    complexion: tanned
+    extra_features:
+      - a tattoo of a skill and crossbones on the chest
 sohl:
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
     - { model: sohl-sohl-attribute-dex, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 9 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 17 } }
     - { model: sohl-sohl-attribute-rea, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 8 } }
-    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 11 } }
-    - { model: affiliation-janus }
-    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 52 } }
-    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 24 } }
-    - { model: sohl-sohl-skill-mrcn, system: { masteryLevelBase: 12 } }
-    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 7 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 6 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 14 } }
+    - { model: affiliation-florania }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-pfmy, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 13 } }
+    - { model: skill-helnkscrpt, system: { masteryLevelBase: 65 } }
     - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 27 } }
-    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 22 } }
-    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 20 } }
-    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 33 } }
-    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 44 } }
-    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 20 } }
-    - { model: sohl-sohl-skill-fish, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 65 } }
-    - { model: sohl-sohl-skill-timb, system: { masteryLevelBase: 65 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 65 } }
-    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 55 } }
-    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 32 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 30 } }
     - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 10 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 36 } }
-    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-lgdm, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 8 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 12 } }
     - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 24 } }
-    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 24 } }
-    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 12 } }
-    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 52 } }
-    - { model: sohl-sohl-skill-txtl, system: { masteryLevelBase: 12 } }
-    - { model: sohl-sohl-skill-wood, system: { masteryLevelBase: 52 } }
-    - { model: sohl-sohl-weapongear-waxe }
-    - { model: sohl-sohl-armorgear-ltvest }
-    - { model: sohl-sohl-armorgear-wshirt }
-    - { model: sohl-sohl-armorgear-wbrch }
-    - { model: sohl-sohl-armorgear-wcap }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-cmcs, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-fltch, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-mysticalability-summ, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-weapongear-whmr }
+    - { model: sohl-sohl-armorgear-psht }
+    - { model: sohl-sohl-armorgear-wtrsr }
     - { model: sohl-sohl-armorgear-ltshoe }
-    - name: Saw (crosscut, well-maintained)
+    - name: Sacred robes of fire-resistant linen (ceremonial)
       type: miscgear
       system:
-        shortcode: saw
-        weight: 1
+        shortcode: sacredrobesoffire
+        weight: 1.5
         value: 100
         durability: 3
-    - name: Measuring rope and timber gauges
+    - name: Leather satchel for ritual items
       type: miscgear
       system:
-        shortcode: measuringrope
-        weight: 1
+        shortcode: leathersatchel
+        weight: 1.5
         value: 100
         durability: 3
-    - name: Woodcarving knives (set of 5, various sizes)
+    - name: Sacred texts of Flórania (fire aspect)
       type: miscgear
       system:
-        shortcode: woodcarvingknives
-        weight: 1
+        shortcode: sacredtexts
+        weight: 1.5
+        value: 200
+        durability: 3
+    - name: Incense and ritual offerings (various)
+      type: miscgear
+      system:
+        shortcode: incenseandritual
+        weight: 1.5
         value: 100
         durability: 3
-    - name: Whetstones for blade sharpening
+    - name: Ceremonial firestarter (blessed)
       type: miscgear
       system:
-        shortcode: whetstonesforblade
-        weight: 1
-        value: 100
-        durability: 3
-    - name: Chalk for timber marking
-      type: miscgear
-      system:
-        shortcode: chalkfortimber
-        weight: 1
+        shortcode: ceremonial
+        weight: 1.5
         value: 100
         durability: 3
     - { model: sohl-sohl-miscgear-tndrbx }
     - { model: sohl-sohl-miscgear-torch }
-    - { model: sohl-sohl-miscgear-frtns, system: { quantity: 5 } }
+    - name: Fire-blessed ceremonial oil
+      type: miscgear
+      system:
+        shortcode: fireblessed
+        weight: 1.5
+        value: 100
+        durability: 3
     - { model: sohl-sohl-containergear-backpk }
+    - { model: sohl-sohl-containergear-bpchmd }
   system:
     body:
       structure:
@@ -595,78 +604,79 @@ sohl:
 
 # Appearance {#appearance}
 
-![[lysndrschrysnthpls|Lysándros Chrysanthópoulos]]{float: top-left}
+![[lnntshdkt|Leónantos Hodíkot]]{float: top-left}
 
-Lysándros stands 6'3" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a prominent nose, a pointed chin, an expressive mouth, dark brows.
+Leónantos stands 6'3" tall with a heavy build. He has light tanned skin, black hair, and brown eyes. His features include an oblong face, a prominent nose, a pointed chin, a wide mouth, heavy brows. A distinguishing mark is a tattoo of a skill and crossbones on the chest.
 
 # Dossier {#dossier}
 
 ## Background
 
-### The Woodwright's Inheritance
+### Early Years
 
-Lysándros was born into the Chrysanthópoulos family timber operation, one of three sons destined to carry on the craft that had sustained the family for five generations. Unlike his brothers, who sought advancement through the merchants' guilds and political connections, young Lysándros felt most at home among the ancient forests of the Byzarian League's northern reaches. His father recognized in him a purity of purpose—the boy did not work with wood to gain wealth or status, but because the work itself called to something fundamental in his nature. By his twentieth year, Lysándros had already become known as a master of felling technique, able to read a tree's grain and structure to predict how it would fall with uncanny precision.
+Leónantos was born to a merchant family in the bustling ports of the Byzarian League, where the salt wind carried tales of distant lands and the sea held no mercy for the weak. Unlike his father, who sought profit in trade, young Leónantos felt the call of something greater—a hunger for battle and dominion. He sought employment as a soldier-for-hire, signing on with coastal mercenary bands that preyed upon merchant vessels and rival settlements. For two decades, he climbed the ranks through cunning and brutality, becoming captain of the _Scarlet Reaver_, a ship feared across the shipping lanes. The skull and crossbones upon his chest was earned in those years, marked upon his flesh as a pirate's bond to his crew.
 
-### The Catastrophe and Reclamation
+### The Calling
 
-At thirty years of age, Lysándros made a decision that would isolate him forever from his family's business empire. When the other two brothers sought to sell vast tracts of old-growth forest to a consortium of foreign merchants and corrupt guild members—a transaction that would maximize profit but devastate the woodlands for generations—Lysándros refused to participate. He openly broke with family and guild alike, choosing instead to establish a small, independent operation at the edge of the claimed timberlands. For eighteen years, he has worked alone or with hired hands, managing the forests with a shepherd's care. He fells only what is necessary, plants carefully, and refuses to work with merchants who demand the slash-and-burn methods of corporate harvest. This has made him a pariah among many guild members and a legend among those who believe timber can be harvested with conscience.
+Yet the sea's endless thirst for blood could never satisfy the deeper yearning in his soul. In his fortieth year, during a tempest that split the heavens and rained fire upon the waves, Leónantos experienced a revelation. The priests of Flórania emerged from the storm's chaos to rescue his dying crew, speaking of divine purpose and the purifying flame of the fire god's aspect. Rather than face judgment for his crimes, Leónantos underwent a profound transformation, surrendering his corsair's life for the priesthood. His warlord's prowess became the Church's instrument, his command of men redirected toward religious authority rather than lawless conquest. Many questioned the sincerity of his conversion, yet none could deny the ferocity with which he now pursued the god's will.
 
-### Present Solitude
+### Present Standing
 
-Now operating out of a modest workshop deep in the borderlands, Lysándros has become both renowned and mysterious. Carpenters and builders across the realm seek his wood, knowing that timber bearing his mark will outlast ordinary materials by decades. He takes few contracts, sets his own terms, and speaks little of his methods or his past. He has never married, never sought position or power, and never expressed ambition beyond mastering his craft and passing it onward to worthy apprentices. The forest has become his monastery, his workshop his temple, and the sound of his axe against ancient wood the only conversation he truly desires.
+As a high-ranking priest of Flórania's fire aspect, Leónantos serves the Byzarian League as both spiritual guide and military chaplain. He conducts elaborate rituals that bless warriors before battle, communes with fire spirits through esoteric knowledge, and commands respect—and often fear—from military leaders who depend upon his divine counsel. His church offices overlook the harbor where his corsair days began, and he walks the same streets as a shepherd rather than a scourge. Yet the fire that once burned for plunder burns now for conquest of a different kind: the dominion of faith over doubt, and the submission of souls to divine purpose.
 
 ## Psyche
 
 ### Personality
 
-Lysándros is a man of profound silence, but his quiet is not that of shyness—it is the quietude of someone entirely content with his own thoughts. He speaks only when necessary, and then with brutal honesty that others often find uncomfortable. He does not gossip, does not engage in small talk, and shows no interest in the petty affairs of town or guild politics. Yet beneath his gruff exterior lies a subtle humor, dry and sharp, that emerges rarely but unforgettably when least expected. He treats those who respect his work and his methods with consistent fairness, though never with warmth. Younger apprentices sometimes find him stern, but those who persist in studying under him discover that his apparent coldness masks a deep commitment to their development. He judges people by their work ethic and integrity alone; social status means nothing to him.
+Leónantos is a man of paradox: brutal honesty wed to calculated charm, the fervent believer married to the hardened pragmatist. His decades as a pirate left their mark upon his temperament—he speaks with command, expects obedience, and brooks no contradiction. Yet his conversion was genuine, and this internal struggle between the past and the divine creates a compelling tension. He views weakness with contempt, whether in body or spirit, and shows little patience for those who lack conviction. His laughter is loud and unsettling, his rages terrible to witness. Nevertheless, he possesses an unexpected capacity for mentorship, taking those he deems worthy under his wing and molding them into instruments of the faith. He speaks multiple languages learned in his seafaring days, and his discourse on both theology and tactics can entrance a room.
 
 ### Motivation
 
-Lysándros seeks to prove that there is a way to live in the world without compromising principle for profit. He views the forest not as a resource to be exploited but as a living entity worthy of stewardship and respect. His driving ambition—if so measured a term can be applied to his restrained nature—is to establish a genuine legacy: a forest that, after his death, will continue to be managed responsibly by those he has trained. He also harbors a quiet anger at the guild's greed and corruption, and takes satisfaction in every contract he fulfills with timber superior to anything his brothers can produce through their rapacious methods.
+Leónantos seeks redemption through unwavering service to Flórania, believing that only through perfect obedience and absolute commitment can he expiate the blood on his hands. He also remains convinced that strength, not gentleness, will bring true enlightenment to the masses. His authority over the military and his influence with the priesthood grow year by year, and he harbors ambitions to reshape the Byzarian League's religious and martial character according to his vision of divine order. The fire god has claimed his body; now he seeks to claim the region's soul.
 
 ### Strengths
 
-- **Master Timbercraft**: His knowledge of wood—its properties, grain, applications, and secrets—is encyclopedic. No flaw escapes his eye, and timber he selects will endure centuries.
-- **Exceptional Physical Strength**: While not trained in combat, his raw strength is formidable; he can fell or move timber others require teams to handle.
-- **Seamanship and Navigation**: His youth included work in maritime trade; he understands water currents, vessel construction, and the peculiar demands of seafaring craft.
-- **Wilderness Survival**: In forest or mountain, he is entirely self-sufficient, able to subsist on game, plants, and resources others would overlook.
-- **Absolute Reliability**: Lysándros keeps his word with a consistency that borders on compulsion. When he agrees to a contract, it will be executed exactly as specified.
+- **Ritual Mastery**: Leónantos commands arcane knowledge of ceremonial fire magic and spirit communion, rivaling many monks in understanding the esoteric traditions.
+- **Martial Command**: His skill at directing troops and inspiring warriors remains unmatched; soldiers under his blessing fight with legendary ferocity and discipline.
+- **Physical Dominance**: Even at forty-five, his strength and endurance are exceptional, and he wields his warhammer with devastating precision.
+- **Charismatic Authority**: His voice carries weight; people listen, whether from respect or intimidation, and his oratory can sway crowds and convince the doubtful.
+- **Seamanship**: His decades at sea left him intimately knowledgeable about navigation, sail-craft, and the governance of vessels and crews.
 
 ### Weaknesses
 
-- **Social Incompetence**: He struggles profoundly with social conventions, formal gatherings, and diplomatic situations; his blunt nature often causes offense unintentionally.
-- **Inability to Delegate**: He trusts few enough to work alongside him, and even then with difficulty; this limits his capacity to take on larger projects.
-- **Emotional Rigidity**: He struggles to understand or accommodate emotional needs in others; his response to human distress is often pragmatic to the point of callousness.
-- **Inflexibility in Principle**: While his moral stance is admirable, he refuses work on principle even when circumstances might justify compromise, limiting his income and influence.
-- **Limited Combat Ability**: Despite his strength, he has no training in weapons or warfare; a skilled fighter would overwhelm him despite his physical superiority.
+- **Emotional Coldness**: His empathy is limited; he views suffering as weakness and struggle as purification, making him a harsh judge of human frailty.
+- **Dogmatic Fervor**: He interprets doctrine with little flexibility, viewing compromise as betrayal of the faith itself.
+- **Aggressive Impulse**: Though he channels his violence through the church, his first instinct in conflict remains overwhelming force rather than negotiation.
+- **Reputation for Cruelty**: His pirate past haunts him despite conversion; many fear his forgiveness is superficial, and some of his victims' families still hunger for vengeance.
+- **Limited Creativity**: Though skilled in established rituals, he struggles to adapt or improvise when tradition provides no answer.
 
 ## Social
 
 ### Patrons
 
-- **Master Castellan Tigranos**: The governor of the northern territories values Lysándros's timber for both fortification work and shipbuilding, and tacitly protects him from guild persecution in exchange for preferential contracts.
-- **Lady Serena of House Thálassos**: A wealthy widow who has commissioned Lysándros to restore and rebuild her ancestral estate using only timber that meets his exacting standards, earning his respect through her patience and refusal to rush his work.
+- **Thálassios of the Byzarian Council**: A military governor who relies on Leónantos's blessings and counsel to maintain his authority and morale among his troops.
+- **High Priestess Eupráxinaz**: The supreme ecclesiastical authority in the region, who has come to trust—though not entirely comfort—Leónantos's brutal effectiveness.
 
 ### Enemies
 
-- **The Chrysanthópoulos Family Enterprise**: His own blood relatives, now wealthy guild magnates, view him as both a moral rebuke and an economic competitor whose existence challenges their monopoly on timber contracts.
-- **Guild Master Sozomáhr the Ruthless**: The current head of the Timberwrights' Guild marked Lysándros for subtle destruction long ago; his independent success is an open wound to guild authority and profit.
+- **Captain Théodoulos the Bitter**: A rival corsair from Leónantos's pirate days, now commanding his own fleet and seeking to end his former comrade before divine luck can claim vengeance for all Théodoulos has lost.
+- **House of Maríanos**: An aristocratic family whose merchant fleet Leónantos systematically destroyed during his years as the Scarlet Reaver's captain; the surviving heirs have sworn blood oaths to see him burned.
+- **The Apostate Priests of Darkness**: A heretical sect believes Leónantos's conversion was false and that he works to corrupt the church from within; they have marked him for assassination.
 
 ### Affiliations
 
-- **The Timberwrights' Guild** (estranged member): Though technically still registered, he operates independently and refuses all guild obligations and contracts.
-- **The Order of the Green Sentinel**: An informal network of environmentally-minded craftspeople and forest wardens who share his philosophy of sustainable harvesting.
-- **The Independent Craftspeople's League**: A loose alliance of artisans who have separated from guild control to maintain quality and principle.
+- **Church of Flórania (Fire Aspect)**: High-ranking priest and architect of military-religious cooperation
+- **Byzarian Military Council**: Serves as spiritual advisor to commanders and overseer of pre-battle rituals
+- **The Order of the Sacred Flame**: An elite cadre of warrior-monks trained in both priestly and martial disciplines under his direct mentorship
 
 ## Plot Hooks
 
-1. **The Ancient Wood of Akkrath**: A legendary caravan is assembling to journey to the deep forests of Akkrath, where a tree of impossible age and size is said to grow—wood so rare and perfect that a single beam could forge a legendary weapon or construct an artifact of power. Lysándros is the only master timberwright with the skill to harvest it without destroying its inherent magical properties, but accepting such a commission would require him to venture into unexplored wilderness while working with a party of adventurers who may not share his values. The journey itself becomes a test of whether his principles can survive contact with genuine temptation.
+1. **The Pirate's Debt Calls**: A merchant vessel recently arrived in the Byzarian harbors bearing Théodoulos's colors—and word that the captain has grown tired of hunting. He sends a message to Leónantos: surrender yourself for trial before the pirate assembly, or he will burn the ports themselves in siege. As military leaders call upon Leónantos to lead the defense, he must decide whether his past truly has been absolved by faith, or whether some debts must be settled with steel rather than prayer. The party may find themselves hired to track down Théodoulos before he strikes, or forced to help Leónantos face this specter from his corsair days.
 
-2. **The Guild's Conspiracy**: Word reaches Lysándros that Guild Master Sozomáhr is planning to declare him an enemy of the Timberwrights' Guild and place a bounty on his head, framing him for sabotaging a major building project. The party must either gather evidence to clear his name, expose Sozomáhr's corruption, or help Lysándros arrange a dramatic confrontation that will decide the guild's future direction. The resolution could reshape the entire merchant and craftspeople structure of the Byzarian League.
+2. **A Crisis of Faith**: High Priestess Eupráxinaz discovers evidence suggesting that Leónantos has been conducting unauthorized dark rituals in the temple's lower chambers—communing with ancient fire spirits of malevolent aspect rather than divine flame. Whether this is truth or elaborate fabrication by enemies within the priesthood, it threatens to destroy both the church's stability and Leónantos's hard-won redemption. The party might be tasked by competing factions to either prove his guilt or uncover the conspiracy against him, delving into the shadowed politics of ecclesiastical power.
 
-3. **The Silent Partnership**: A mysterious benefactor offers Lysándros a contract: harvest and deliver timber for a secret construction project deep in the borderlands, pay beyond anything he has ever received, and absolute confidentiality required. As the party works with him on the project, they gradually discover that they are constructing a sanctuary for refugees fleeing political persecution—and that Lysándros has become unwittingly part of a larger resistance network. When powerful forces move to destroy the sanctuary, he must choose between his solitary path and active resistance.
+3. **The Resurrection of the Scarlet Reaver**: Leónantos's old crew, scattered and aged, begins to reassemble on the docks. Led by his former first mate Gaspar—a scarred, one-eyed survivor who claims Leónantos abandoned them all those years ago—they demand that he return to the seas and reclaim the piracy that made them rich. They hold the deed to his former ship, recently recovered from the depths, and they offer him a choice: sail with them one final time, or watch them use his secrets to burn the Byzarian League itself. The party becomes caught between honoring the transformation of a complex man and preventing catastrophe.
 
-4. **The Brother's Redemption**: After nearly two decades of estrangement, one of Lysándros's brothers—broken by business failure and family scandal—appears at his workshop seeking reconciliation and asking to apprentice under him. The party becomes tangled in family drama as they work to restore both the brother's competence and their fractured relationship, while guild enemies move to exploit this vulnerability and sever the family bonds entirely.
+4. **The Heretic Within**: The Apostate Priests send an agent—a skilled assassin trained in shadow magic and priestly lore—who infiltrates the Church with the goal of killing Leónantos during the Festival of Flames, the holiest day in the Byzarian calendar. The party may serve as the priest's bodyguards, hunt the assassin before the festival arrives, or become entangled in the revelation that the heretics have sympathizers within the church hierarchy itself, forcing hard choices about justice and mercy.
 
-5. **The Forest's Heart**: Lysándros discovers that the ancient forest he has stewarded is home to a dormant spirit or fey entity whose essence is bound into the oldest trees. The entity is dying because of logging operations at the forest's edge (carried out by his own family), and its death will corrupt the entire woodland. He must rally unlikely allies, including perhaps members of the party, to simultaneously protect the forest from destruction and cure the spirit's affliction—a task requiring both direct action and the kind of diplomacy Lysándros is least equipped to provide.
+5. **Legacy of the Warhammer**: Leónantos commissions a legendary smith to forge him a warhammer from ore blessed by living fire spirits—a weapon that will be his final masterwork, to be passed to his chosen successor in the priesthood. The party is hired to gather the rare materials across dangerous lands: silver mined in volcanic caverns, wood from the oldest heartwood of a sacred grove, and stone taken from the core of a meteor that fell to earth. As they journey, they discover that Leónantos's true plan may be far darker than mere legacy—perhaps a weapon intended to reshape the faith itself.

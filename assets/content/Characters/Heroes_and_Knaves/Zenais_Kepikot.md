@@ -4,14 +4,15 @@ tags:
   - tradesfolk
   - character
 name:
-  full: Zênais Philokálos
+  full: Zênais Kepíkot
   title: ""
   given: Zênais
-  clan: Philokálos
+  clan: Kepíkot
   home: gumushisar2
   aliases: []
 packFolder: helladbyzaria
-shortcode: zensphlkls
+shortcode: zenskpkt
+renamedFrom: zensphlkls
 type: being
 data:
   icon: icon-person
@@ -594,7 +595,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[zensphlkls|Zênais Philokálos]]{float: top-left}
+![[zenskpkt|Zênais Kepíkot]]{float: top-left}
 
 Zênais stands 5'7" tall with a light build. She has fair freckled skin, auburn hair, and green eyes. Her features include a narrow face, a hawkish nose, a sharp jawline, full lips, expressive brows, and sculpted cheeks. She has a tattoo of a bird on her forearm.
 
@@ -604,7 +605,7 @@ Zênais stands 5'7" tall with a light build. She has fair freckled skin, auburn 
 
 ### The Merchant's Daughter and the Silent Language
 
-Zênais was born in the busy ports of the [[affiliation-byzarianlg|Byzarian League]], daughter of a merchant family with vast trading interests spanning three continents. Her father, **Stavrazul Philokálos**, was a prosperous spice merchant whose ships regularly departed for distant lands; her mother, **Chrysanthéze**, was known for her cultivation of exotic plants in the family's famous gardens. From her earliest childhood, Zênais demonstrated an inexplicable affinity for animals, particularly birds—she could calm panicked falcons with a whisper, encourage reluctant songbirds to perform, and read the subtle languages of body and feather that others found inscrutable.
+Zênais was born in the busy ports of the [[affiliation-byzarianlg|Byzarian League]], daughter of a merchant family with vast trading interests spanning three continents. Her father, **Stavrazul Kepíkot**, was a prosperous spice merchant whose ships regularly departed for distant lands; her mother, **Chrysanthéze**, was known for her cultivation of exotic plants in the family's famous gardens. From her earliest childhood, Zênais demonstrated an inexplicable affinity for animals, particularly birds—she could calm panicked falcons with a whisper, encourage reluctant songbirds to perform, and read the subtle languages of body and feather that others found inscrutable.
 
 Rather than follow her family into mercantilism, Zênais apprenticed with **Master Dariokles**, the great animal trainer of the Byzarian League, whose methods were new for his time. Dariokles taught her that training animals was not domination but conversation—a learning of the creature's nature, desires, and fears, and a mutual agreement to work in harmony. This philosophy shaped everything about Zênais's approach to her craft.
 

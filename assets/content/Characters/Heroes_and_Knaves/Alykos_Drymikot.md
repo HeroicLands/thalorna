@@ -5,14 +5,15 @@ tags:
   - tradesfolk
   - character
 name:
-  full: Alýkos Theotókis
+  full: Alýkos Drymíkot
   title: ""
   given: Alýkos
-  clan: Theotókis
+  clan: Drymíkot
   home: chrysamar
   aliases: []
 packFolder: helladbyzaria
-shortcode: alyksthtks
+shortcode: alyksdrymkt
+renamedFrom: alyksthtks
 type: being
 data:
   icon: icon-person
@@ -596,13 +597,13 @@ sohl:
 
 # Appearance {#appearance}
 
-![[alyksthtks|Alýkos Theotókis]]{float: top-left}
+![[alyksdrymkt|Alýkos Drymíkot]]{float: top-left}
 
 Alýkos stands 6'0" tall with a medium build. He has light weathered skin, graying brown hair, and hazel eyes. His features include a diamond-shaped face, an aquiline nose, a strong jawline, an expressive mouth, and graying brows.
 
 # Dossier {#dossier}
 
-Alýkos was born into the timber-working tradition of the [[affiliation-byzarianlg|Byzarian League]], son of a master craftsman whose reputation was built on the quality of ships' frames and architectural beams. From age eight, Alýkos worked alongside his father **Theotókis the Elder**, learning to read the grain of timber as one reads text, understanding which trees would yield which properties of wood, and mastering the traditional techniques passed through generations of his family line.
+Alýkos was born into the timber-working tradition of the [[affiliation-byzarianlg|Byzarian League]], son of a master craftsman whose reputation was built on the quality of ships' frames and architectural beams. From age eight, Alýkos worked alongside his father **Drymíkot the Elder**, learning to read the grain of timber as one reads text, understanding which trees would yield which properties of wood, and mastering the traditional techniques passed through generations of his family line.
 
 At twenty-two, he completed his formal apprenticeship and became a journeyman, traveling throughout the League to work on prestigious projects—the reinforced beams of merchant halls, the masts of noble vessels, the ornamental woodwork of temple interiors. At thirty, he established his own workshop and took the title of Master when his improvements in joinery earned recognition from the Timberwrights' Guild. For the next twenty-three years, he built a reputation as a craftsman of the first skill, his work commissioned by the most demanding clients, his designs influencing standards throughout the trade.
 
