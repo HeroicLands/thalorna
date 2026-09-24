@@ -5,14 +5,15 @@ tags:
   - tradesfolk
   - character
 name:
-  full: Ángelides Kantakouzenós
+  full: Ángelides Thymiákit
   title: ""
   given: Ángelides
-  clan: Kantakouzenós
+  clan: Thymiákit
   home: denizara2
   aliases: []
 packFolder: helladbyzaria
-shortcode: angldskntkzns
+shortcode: angldsthymkt
+renamedFrom: angldskntkzns
 type: being
 data:
   icon: icon-person
@@ -597,7 +598,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[angldskntkzns|Ángelides Kantakouzenós]]{float: top-left}
+![[angldsthymkt|Ángelides Thymiákit]]{float: top-left}
 
 Ángelides stands 6'3" tall with a heavy build. He has tanned weathered skin, black hair, and green eyes. His features include a long face, a hawkish nose, a pronounced chin, well-defined lips, and prominent brows. He has a scar on his neck.
 
@@ -607,7 +608,7 @@ sohl:
 
 ### Early Years and Tragedy
 
-Born to a merchant family in the [[affiliation-byzarianlg|Byzarian League]], Ángelides was raised with every advantage—education, connections, and exposure to the finer pleasures of the great cities of the north. His childhood was spent in the marketplace stalls of his family's perfume house, where he learned to distinguish thousands of scents, to understand the poetry of olfaction, and to recognize how fragrance shapes emotion and memory. At seventeen, he was betrothed to a young woman of equal standing, **Lady Thessal Kantakouzenós**—a marriage that was to unite two powerful merchant families.
+Born to a merchant family in the [[affiliation-byzarianlg|Byzarian League]], Ángelides was raised with every advantage—education, connections, and exposure to the finer pleasures of the great cities of the north. His childhood was spent in the marketplace stalls of his family's perfume house, where he learned to distinguish thousands of scents, to understand the poetry of olfaction, and to recognize how fragrance shapes emotion and memory. At seventeen, he was betrothed to a young woman of equal standing, **Lady Thessal Thymiákit**—a marriage that was to unite two powerful merchant families.
 
 On the night of their wedding, tragedy struck. A rival merchant house, jealous of his family's dominance in the lucrative perfume trade, orchestrated an attack. Ángelides survived only by chance—his would-be assassin's blade struck his neck rather than his heart. His betrothed was not so fortunate. Thessal died in his arms, whispering words of forgiveness rather than recrimination, even as her blood stained the silken wedding garments they both wore.
 

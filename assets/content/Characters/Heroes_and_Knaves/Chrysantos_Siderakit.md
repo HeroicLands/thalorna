@@ -5,14 +5,15 @@ tags:
   - tradesfolk
   - character
 name:
-  full: Chrysántos Kavadáris
+  full: Chrysántos Siderákit
   title: ""
   given: Chrysántos
-  clan: Kavadáris
+  clan: Siderákit
   home: thalassos
   aliases: []
 packFolder: helladbyzaria
-shortcode: chrysntskvdrs
+shortcode: chrysntssdrkt
+renamedFrom: chrysntskvdrs
 type: being
 data:
   icon: icon-person
@@ -597,7 +598,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[chrysntskvdrs|Chrysántos Kavadáris]]{float: top-left}
+![[chrysntssdrkt|Chrysántos Siderákit]]{float: top-left}
 
 Chrysántos stands 5'10" tall with a light build. He has light pale skin, black hair, and dark brown eyes. His features include an oval face, a straight nose, a sharp jawline, dark brows, and sculpted cheeks. He has a tattoo of a fire on his leg.
 

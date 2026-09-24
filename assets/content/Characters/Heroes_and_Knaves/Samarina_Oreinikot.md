@@ -4,14 +4,15 @@ tags:
   - common-folk
   - character
 name:
-  full: Samarína Kalokyrês
+  full: Samarína Oreiníkot
   title: ""
   given: Samarína
-  clan: Kalokyrês
+  clan: Oreiníkot
   home: byzaris
   aliases: []
 packFolder: helladbyzaria
-shortcode: smrnklkyrs
+shortcode: smrnorenkt
+renamedFrom: smrnklkyrs
 type: being
 data:
   icon: icon-person
@@ -626,7 +627,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[smrnklkyrs|Samarína Kalokyrês]]{float: top-left}
+![[smrnorenkt|Samarína Oreiníkot]]{float: top-left}
 
 Samarína stands 5'10" tall with a light build. She has light olive skin, very dark brown hair, and green eyes. Her features include an oval face, a prominent nose, a narrow chin, well-defined lips, very dark brows, and hollow cheeks.
 
@@ -672,7 +673,7 @@ Samarína is driven by multiple, sometimes conflicting motivations. Her primary 
 
 ### Patrons
 
-- **Elder Vasilis Komnenos:** The respected elder of her herding commune and unofficial keeper of pastoral traditions, Vasilis has mentored Samarína throughout her life and provides guidance on both practical and cultural matters, though he sometimes expresses concern about her caution.
+- **Elder Vasilis Pediníkot:** The respected elder of her herding commune and unofficial keeper of pastoral traditions, Vasilis has mentored Samarína throughout her life and provides guidance on both practical and cultural matters, though he sometimes expresses concern about her caution.
 - **The Wool Merchant Zenobárzan Kalvestris:** A fair-dealing trader who buys Samarína's wool at high prices and speaks for it in distant markets, giving her a reliable income whatever the season's prices.
 - **The Veterinary Herbalist Zenoníkash:** A semi-retired healer who specializes in animal care and has become a friend and occasional mentor, sharing knowledge about herbal remedies and the care of the whole animal.
 

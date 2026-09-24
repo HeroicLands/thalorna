@@ -5,14 +5,15 @@ tags:
   - soldiery
   - character
 name:
-  full: Leónidês Palaiológos
+  full: Leónidês Pyrgíkot
   title: ""
   given: Leónidês
-  clan: Palaiológos
+  clan: Pyrgíkot
   home: ""
   aliases: []
 packFolder: helladbyzaria
-shortcode: lendspllgs
+shortcode: lendspyrgkt
+renamedFrom: lendspllgs
 type: being
 data:
   icon: icon-person
