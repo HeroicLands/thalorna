@@ -165,13 +165,39 @@ Educated speakers of all three Helonic-family languages can communicate with min
 
 ## Naming Traditions
 
-Byzarian naming reflects the culture's hybrid heritage and mercantile values:
+Byzarian naming reflects the culture's hybrid heritage and mercantile values. A Byzarian carries a **given name** and a **house name**, and the tongue builds the two by different operations, so a clerk reading a contract aloud never has to ask which is which:
 
-- **Helonic-rooted names:** Preferred in old merchant dynasties and among the cultural elite. Used formally and in official contexts. Names drawn from the Helonic name tradition signal both Byzarian identity and Helonic learning.
-- **Eastern-influenced names:** Increasingly common, especially among families with eastern intermarriage or among those who've integrated into eastern trading networks. Names like _Shahrinaz_, _Mahrizade_, _Arslanikos_ signal cosmopolitan credentials and eastern connections.
-- **Hybrid Byzarian names:** Invented forms that synthesize Helonic and eastern elements, creating uniquely Byzarian identities. Names like _Chrysandáhr_ (gold-rich), _Theodaríza_ (god-gift with eastern feminizing), and _Basilkâra_ (royal-dear, blending _basilei_ and eastern _-kâra_) are marks of distinctly Byzarian identity.
+1. A **given name** is a root with a personal ending. It runs two to five syllables and closes on a vowel or on a continuant—`-l`, `-n`, `-r`, `-s`, `-z`, `-sh`, `-zh`.
+2. A **house name** is a root with one of four **house-suffixes**—`-ákit`, `-íkot`, `-ídek`, `-zát`. Every one of them closes on the explosive stop that is Byzarian's loudest phonetic signature, and **no given name closes on a stop**.
 
-The tradition of **patronymic/matronymic suffixes** is used formally: "Theodarash son-of-Barzanes." Trade names are common—merchants may have a formal legal name and a shorter trade name used in the bazaar. A merchant named _Chrysandáhr Kavadárides_ might be known simply as _Chrysa_ among business associates.
+The final sound therefore separates the two on hearing alone, which matters in a tongue whose bonds are read out before they are sealed.
+
+The operation that makes a name Byzarian rather than borrowed is **an inherited root with a coined ending**. The root may be Helonic, Persian or Turkic; the ending belongs to Byzarian and to no other tongue. _Theodar-_ takes `-ash` and gives **Theodarash**, _Basil-_ takes `-kâr` and gives **Basilkâr**, _Nikó-_ takes `-marzân`, _Maxent-_ takes `-áhr`, _Glykeri-_ takes `-ásh`, _Sofroni-_ takes `-áze`. What a Byzarian will not do is wear an eastern name bare: an eastern root always takes a Helonic or a Byzarian ending—_arslan_ gives **Arslanikos**, _shahr_ gives **Shahrikos** and **Shahrinaz**, _gohar_ gives **Gohárikos** and **Goharéna**—and a name that arrives unadapted marks its bearer as a visitor rather than a citizen.
+
+### Given Names
+
+Three registers are live at once, and a household may draw from all three in one generation:
+
+- **Helonic-rooted names:** Preferred in old merchant dynasties and among the cultural elite. Used formally and in official contexts. Names drawn from the Helonic name tradition signal both Byzarian identity and Helonic learning. They close on `-on`, `-os`, `-ios` or `-ês`.
+- **Eastern-influenced names:** Common among families with eastern intermarriage and among those who have integrated into eastern trading networks; they signal cosmopolitan credentials and eastern connections. An eastern root takes a Helonic or Byzarian ending—`-ikos`, `-ikon`, `-ion`, `-eon`, `-is` for a man, `-ana`, `-éna`, `-éla`, `-ína`, `-ai`, `-éa` for a woman.
+- **Hybrid Byzarian names:** Invented forms that synthesize Helonic and eastern elements, creating uniquely Byzarian identities, and the mark of Byzarian identity proper. A man's hybrid ending is `-áhr`, `-ash`, `-azûr`, `-kâr`, `-áz`, `-marzân`, `-în` or `-azul`; a woman's is `-íza`, `-éze`, `-âra`, `-éhran`, `-ánaz`, `-áze`, `-iásh`, `-ázira`, `-áhre` or `-âde`.
+
+Stress is read off the spelling: the acute or the circumflex carries it, and a name with neither takes the penultimate. _Theodarash_ is the-o-DAR-ash, _Chrysandáhr_ is chry-san-DAHR, _Basilkâra_ is ba-SIL-kah-ra.
+
+### House Names
+
+A house name states what the house is answerable for, and the suffix says on what footing it holds the name:
+
+- **`-ákit`**, hardened from the Helonic `-akis`—**the house of a trade**. _chrys-_ "gold" gives **Chrysákit**, _porphyr-_ the purple dye gives **Porphyrákit**, _nomism-_ "coin" gives **Nomismákit**.
+- **`-íkot`**, hardened from `-ikos`—**the house of a place**. _limên-_ "harbour" gives **Limeníkot**, _gephyr-_ "bridge" gives **Gephyríkot**, _ampel-_ "vineyard" gives **Ampelíkot**.
+- **`-ídek`**, hardened from the mixed `-idês`—**the house of a forebear**. _Theodor-_ gives **Theodorídek**, _Konstant-_ gives **Konstantídek**.
+- **`-zát`**, hardened from the eastern `-zade` "born of"—**the house of an eastern founder**, claimed by a line that reckons itself from an eastern marriage or an eastern ancestor. _gohar_ "gem" gives **Goharzát**, _karvan_ "caravan" gives **Karvanzát**.
+
+A house name descends in the male line and does not change. A merchant whose concern no existing house can account for may be granted a new one by the League's assessors, who fix the suffix by what the house is to be held to; a trade house that later buys a landing does not thereby become a `-íkot` house, and the assessors are known for refusing.
+
+A few houses are instead known by a **founder's own name, worn whole**. These close on a continuant like any personal name, so the ending does not tell them from a given name and only position does—the second name in a pair is the house. The assessors disapprove and the houses that do it are proud of that, which is the whole of the quarrel.
+
+The tradition of **patronymic and matronymic suffixes** is used formally: "Theodarash son-of-Gavrilash." Trade names are common—merchants may have a formal legal name and a shorter trade name used in the bazaar. A merchant named _Chrysandáhr Nomismákit_ might be known simply as _Chrysa_ among business associates.
 
 The suffix system reflects layers of history:
 
@@ -205,20 +231,35 @@ The suffix system reflects layers of history:
 #### Eastern-influenced
 
 - Arslanikos
-- Barzanes
-- Dariokles
-- Iskandarion
-- Kavadaris
 - Khalideon
-- Mehranikos
-- Narsevon
 - Shahrikos
-- Tamurides
-- Zurvanos
-- Tigranos
 - Varakion
-- Rostamion
 - Khasrikon
+- Gohárikos
+- Firuzéon
+- Sabzárion
+- Nishánikos
+- Langárion
+- Anbaríkos
+- Karvánikos
+- Sudázion
+- Meydánikos
+- Tarázikon
+- Abrázion
+- Shabríkos
+- Kuhánikos
+- Badvárion
+- Simázion
+- Zarránikos
+- Atashíkon
+- Sangázion
+- Rahvárion
+- Mehtárion
+- Zumurdíkon
+- Asmánion
+- Sipehríkos
+- Firdásion
+- Parvázikon
 
 #### Distinctly Byzarian (hybrid forms)
 
@@ -232,7 +273,6 @@ The suffix system reflects layers of history:
 - Gregoriash
 - Konstantazûr
 - Alexáhran
-- Paladian
 - Demetráz
 - Gavrilash
 - Maxentáhr
@@ -242,6 +282,42 @@ The suffix system reflects layers of history:
 - Makáriash
 - Kallinikâr
 - Doríanazh
+- Athanazûr
+- Eugenkâr
+- Kyriakáhr
+- Stephanáhr
+- Damaklîn
+- Ioannikáz
+- Philaretáhr
+- Nikándrash
+- Alexikâr
+- Sophronáhr
+- Eustathazûr
+- Kosmarzân
+- Damiánash
+- Prokopazûr
+- Zenobikâr
+- Iskhýrash
+- Meletazûr
+- Pantelkâr
+- Symeonáhr
+- Zakhariáhr
+- Agathkâr
+- Ambrósash
+- Charitonáz
+- Epiphanáhr
+- Euthymkâr
+- Klementáhr
+- Menandráz
+- Neophýtash
+- Onesimáhr
+- Pamphilkâr
+- Philemonáz
+- Serapiónash
+- Tryphonáhr
+- Xenophonáz
+- Zosímash
+- Dositházûr
 
 ### Female Given Names
 
@@ -268,18 +344,33 @@ The suffix system reflects layers of history:
 - Shahrinaz
 - Mahrizade
 - Gulbarana
-- Soreyána
-- Dariána
-- Parvanéh
 - Azadéna
-- Roshánai
 - Khatunéla
-- Tahmíne
-- Zamâneh
 - Afsunéla
 - Nargizán
-- Shirinéa
 - Faridéna
+- Goharéna
+- Firuzána
+- Sabzéla
+- Nishanéla
+- Simínai
+- Abránai
+- Mehrénai
+- Sipehréna
+- Asmanéa
+- Mehtabéna
+- Parvázina
+- Shabnéla
+- Zarrínea
+- Bahárina
+- Firdaséna
+- Gulnazéla
+- Atashéna
+- Khavaréna
+- Lajvardéna
+- Zarinéla
+- Banuéla
+- Zumurdéna
 
 #### Distinctly Byzarian (hybrid forms)
 
@@ -299,58 +390,180 @@ The suffix system reflects layers of history:
 - Agapináz
 - Olympiáze
 - Dorothéhran
-- Thessaloníkash
 - Aristínaze
 - Photianéze
 - Mavrouzâde
+- Sotiríza
+- Eudokíza
+- Kassandréze
+- Euphrasíza
+- Athanazíra
+- Melissáhre
+- Pelagéze
+- Eulaliánaz
+- Ekateríza
+- Irenáze
+- Sophiéhran
+- Marinázira
+- Xeniáhre
+- Theklánaz
+- Paraskevíza
+- Kharikléze
+- Eudoxiáze
+- Theophanéhran
+- Myrrhinéze
+- Elpidáze
+- Euphemíza
+- Anthousáhre
+- Dositháze
+- Photeináz
+- Sosanníza
+- Thaleíza
+- Timotheáze
+- Damianéhran
+- Agathonéze
+- Charitíza
+- Zenaidéze
+- Prokopiáze
+- Serapiáhre
+- Neophytánaz
+- Klementíza
+- Makrináze
 
 ### Clan or Family Names
 
-#### Old Helonic merchant houses
+#### Houses of the trade
 
-- Palaiológos
-- Komnênos
-- Laskáris
-- Doukás
-- Bryennios
-- Kantakouzenós
-- Chrysanthópoulos
-- Kontostephános
-- Stratégopoulos
-- Philanthrôpos
+- Chrysákit
+- Argyrákit
+- Siderákit
+- Khalkákit
+- Porphyrákit
+- Keramákit
+- Amphorákit
+- Elaiákit
+- Oinákit
+- Sitákit
+- Alatákit
+- Melitákit
+- Kerákit
+- Linákit
+- Byssákit
+- Eriákit
+- Skytákit
+- Xylákit
+- Pissákit
+- Thymiákit
+- Pharmakákit
+- Margarákit
+- Lithákit
+- Olkadákit
+- Naulákit
+- Zygákit
+- Talantákit
+- Nomismákit
 
-#### Eastern-origin families
+#### Houses of the place
 
-- Barzanídis
-- Kavadárides
-- Shahrimân
-- Arslanóglou
-- Tigranídes
-- Mehranákis
-- Narsevídis
-- Khalidóglou
-- Rostamákis
-- Tamurídes
+- Limeníkot
+- Pyrgíkot
+- Teikhíkot
+- Gephyríkot
+- Potamíkot
+- Thalassíkot
+- Oreiníkot
+- Pediníkot
+- Nesíkot
+- Aktíkot
+- Kolpíkot
+- Steníkot
+- Kreníkot
+- Drymíkot
+- Lophíkot
+- Petríkot
+- Ammíkot
+- Halíkot
+- Pyrsíkot
+- Agoríkot
+- Emporíkot
+- Neoríkot
+- Kastríkot
+- Pylíkot
+- Hodíkot
+- Khoríkot
+- Ampelíkot
+- Kepíkot
 
-#### Blended Byzarian houses
+#### Houses of the forebear
 
-- Mavrokordátês
-- Drosôpatês
-- Archontópoulos
-- Thalássinos
-- Kalokyrês
-- Logothêtis
-- Oikonomópoulos
-- Trapezáris
-- Xenakís
-- Rhomaios
-- Vardanákês
-- Phanariôtês
-- Melikertós
-- Monomáchos
-- Gaválas
-- Rhodákês
-- Zygomálas
-- Lykomédis
-- Argyropoûlos
-- Theotókis
+- Theodorídek
+- Nikandrídek
+- Basilídek
+- Leontídek
+- Gregorídek
+- Konstantídek
+- Demetrídek
+- Gavrilídek
+- Maxentídek
+- Andronídek
+- Photianídek
+- Makarídek
+- Kallinikídek
+- Polykarídek
+- Stavrídek
+- Alexídek
+- Damaklídek
+- Eustathídek
+- Lysandrídek
+- Eugenídek
+- Arkadídek
+- Kyriakídek
+- Nikephorídek
+- Anastasídek
+- Athanasídek
+- Sophronídek
+- Prokopídek
+- Zenobídek
+
+#### Houses of the eastern founder
+
+- Goharzát
+- Firuzazát
+- Mehrazát
+- Mahzát
+- Shabzát
+- Bâdzát
+- Atashazát
+- Sangazát
+- Abrazát
+- Kuhazát
+- Rahazát
+- Karvanzát
+- Meydanzát
+- Anbarzát
+- Langarzát
+- Tarazát
+- Simazát
+- Zarazát
+- Gulzát
+- Nishanzát
+- Sipehrazát
+- Parvazát
+
+#### Houses known by a founder's name
+
+- Damakláhr
+- Varakazûr
+- Kallixenáhr
+- Eugenazûr
+- Photokâr
+- Eudokáhr
+- Pelagazûr
+- Zurvanzâde
+- Theoklazûr
+- Lysandáhr
+- Kassandazûr
+- Kyriákash
+- Eulalazûr
+- Nikandáhr
+- Athanaskâr
