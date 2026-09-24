@@ -5,10 +5,10 @@ tags:
   - administration
   - character
 name:
-  full: Màdhurava Rudraṭa
+  full: Màdhurava Rudrata
   title: ""
   given: Màdhurava
-  clan: Rudraṭa
+  clan: Rudrata
   home: chandrapur2
   aliases: []
 packFolder: ankarisvedyara
@@ -596,7 +596,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[madhurvrdr|Màdhurava Rudraṭa]]{float: top-left}
+![[madhurvrdr|Màdhurava Rudrata]]{float: top-left}
 
 Màdhurava stands 5'10" tall with a medium build. He has medium brown skin, graying dark brown hair, and honey brown eyes. His features include a diamond-shaped face, a narrow nose, a narrow chin, a wide mouth, medium brows, and soft cheeks. He has a scar on his left foot.
 
@@ -606,7 +606,7 @@ Màdhurava stands 5'10" tall with a medium build. He has medium brown skin, gray
 
 ### The Scholar's Calling
 
-Màdhurava was born into House Rudraṭa, a minor but respected family in the City-States of Vedyara known for their mastery of written records and genealogical study. His father, a scribe of some renown, taught young Màdhurava the sacred discipline of heraldry—as the art of rendering arms and blazonry, and as a language of political authority, ancestral legitimacy, and divine right. Where other youths his age pursued martial glory or mercantile wealth, Màdhurava devoted himself to the study of lineages, precedences, and the elaborate ceremonial forms that governed the complex relationships between the city's competing noble factions. By his twentieth year, he had begun to establish himself as an authority on matters of succession and genealogical claim.
+Màdhurava was born into House Rudrata, a minor but respected family in the City-States of Vedyara known for their mastery of written records and genealogical study. His father, a scribe of some renown, taught young Màdhurava the sacred discipline of heraldry—as the art of rendering arms and blazonry, and as a language of political authority, ancestral legitimacy, and divine right. Where other youths his age pursued martial glory or mercantile wealth, Màdhurava devoted himself to the study of lineages, precedences, and the elaborate ceremonial forms that governed the complex relationships between the city's competing noble factions. By his twentieth year, he had begun to establish himself as an authority on matters of succession and genealogical claim.
 
 ### The Rise to Authority
 
@@ -658,7 +658,7 @@ Màdhurava is driven by a conviction that the careful maintenance of heraldic tr
 
 - **The City Heralds' Guild**: Senior member and de facto keeper of the archive; wields enormous influence over the guild's direction and standards.
 - **The Council of Historical Scholars**: Founding member of an elite academic circle devoted to the preservation and study of the city-states' historical records.
-- **House Rudraṭa**: His family house, for whom he acts as primary genealogical advisor and keeper of family records.
+- **House Rudrata**: His family house, for whom he acts as primary genealogical advisor and keeper of family records.
 
 ## Plot Hooks
 

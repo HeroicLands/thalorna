@@ -4,10 +4,10 @@ tags:
   - underworld
   - character
 name:
-  full: Anûraja Harṣadēvāmbujakar
+  full: Anûraja Harshadēvāmbujakar
   title: ""
   given: Anûraja
-  clan: Harṣadēvāmbujakar
+  clan: Harshadēvāmbujakar
   home: chandrapur2
   aliases: []
 packFolder: ankarisvedyara
@@ -588,7 +588,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[anrjhrdvmbjkr|Anûraja Harṣadēvāmbujakar]]{float: top-left}
+![[anrjhrdvmbjkr|Anûraja Harshadēvāmbujakar]]{float: top-left}
 
 Anûraja stands 6'0" tall with a medium build. He has golden brown skin, dark brown hair, and deep brown eyes. His features include a diamond-shaped face, a straight nose, a soft jawline, full lips, golden brows, and rounded cheeks. He has a tattoo of a tiger on his forearm.
 
