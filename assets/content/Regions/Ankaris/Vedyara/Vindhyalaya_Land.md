@@ -25,6 +25,33 @@ Vindhyālaya is the land of the highland kingdom of [[affiliation-vindhyalay|Vin
 
 The southern Vedyari kingdoms are river valleys, tropical ports and the slow rhythms of agricultural and artisan life. Vindhyālaya is pine-clad ridges, snow-fed rivers, and stone fortresses built into the passes themselves.
 
+## Settlements
+
+```sql
+SELECT s.address.slug AS _ref,
+       s.name.full AS "Name",
+       s.data.market || ' ' || m.name AS "Market",
+       s.data.population AS "People",
+       (SELECT string_agg(
+                   CASE
+                       WHEN p.address.slug IS NULL THEN p.name.full
+                       ELSE '[[' || p.address.slug || '|' || p.name.full || ']]'
+                   END, ' and ' ORDER BY p.name.full)
+        FROM entries p
+        WHERE p.type = 'affiliation'
+          AND list_contains(p.data.domains, s.shortcode)) AS "Held by",
+       -- No field states why a place stands where it does, so "For" projects nothing.
+       NULL AS "For"
+FROM entries s
+LEFT JOIN market m ON m.value = s.data.market
+WHERE s.type = 'place'
+  AND s.subType = 'settlement'
+  AND list_contains(s.data.parents, 'vindhyalayaland')
+ORDER BY s.name.full COLLATE NOCASE
+```
+
+The query names the settlements of the pass-roads. The terrace hamlets below the capital and the mining camps of the gorges are counted with the fortress or the workings they answer to.
+
 ## Economy
 
 The kingdom's wealth rides on the pass-roads. Caravans carrying cotton, silk, spice and worked metal climb north out of the Vedyari plains and over the [[place-graznmntns|Grazian]] summits to the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]]. Others take the longer eastern branch into the western marches of [[place-tanvuregin|Tānvür]]. Return caravans bring salt, horses, lapis, amber and the rarer goods of the eastern steppes.

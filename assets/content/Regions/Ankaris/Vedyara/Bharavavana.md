@@ -54,6 +54,33 @@ The road is also the only continuous line through the forest. Everything else is
 
 The [[affiliation-bhrvdvbhog|Bhārava-Devabhoga]] is the whole of the government here: estates endowed to the temples of the river, each held by an ordained keeper who answers to the temple that holds his endowment and to nobody else. There is no assembly above them. What coordination exists is the mother-temples consulting each other, which they do when the price of lac moves and not otherwise.
 
+## Settlements
+
+```sql :allow-empty
+SELECT s.address.slug AS _ref,
+       s.name.full AS "Name",
+       s.data.market || ' ' || m.name AS "Market",
+       s.data.population AS "People",
+       (SELECT string_agg(
+                   CASE
+                       WHEN p.address.slug IS NULL THEN p.name.full
+                       ELSE '[[' || p.address.slug || '|' || p.name.full || ']]'
+                   END, ' and ' ORDER BY p.name.full)
+        FROM entries p
+        WHERE p.type = 'affiliation'
+          AND list_contains(p.data.domains, s.shortcode)) AS "Held by",
+       -- No field states why a place stands where it does, so "For" projects nothing.
+       NULL AS "For"
+FROM entries s
+LEFT JOIN market m ON m.value = s.data.market
+WHERE s.type = 'place'
+  AND s.subType = 'settlement'
+  AND list_contains(s.data.parents, 'bharavavana')
+ORDER BY s.name.full COLLATE NOCASE
+```
+
+The query names the settlements of the forest country. A gathering group moves with the season and a temple station is counted with the estate that keeps it, so the forest carries nothing that stands in its own name.
+
 ## See Also
 
 - [[place-vedyarargn|Vedyara Region]]—parent region

@@ -106,7 +106,7 @@ Vedyari exports flow across half the known world: silk, spice, gems, incense, me
 
 To the **northwest** lies the [[place-dunharargn|Dunhara]], and it is the only neighbor reached without a mountain crossing: the road runs round the western end of the wall, through foothill and desert-margin. Caravan trade across the desert is ancient and substantial; relations are cautious but workable.
 
-That frontier is a march, and it is governed like one. The [[affiliation-dunhartrbs|Dunhara tribes]] raid in lean seasons and trade in fat ones, and the standing forces of the northwestern kingdoms exist chiefly to make the first option unprofitable. A formal treaty with the [[affiliation-sultntmrdd|Sultanate of Amradad]] is renewed every generation. It governs the movement of pilgrim caravans and the treatment of merchants arrested for trade violations on either side of the frontier. Vedyari cotton, silk, spice and worked metal go out along the march road toward the Dunhari oases and the desert emporia beyond. The road is also the only way an army has ever entered the subcontinent.
+That frontier is a march, and the march kingdom of [[affiliation-bhumipala|Bhūmipāla]] governs it as one. The [[affiliation-dunhartrbs|Dunhara tribes]] raid in lean seasons and trade in fat ones, and the companies Bhūmipāla hires exist chiefly to make the first option unprofitable. The formal treaty with the [[affiliation-sultntmrdd|Sultanate of Amradad]] is Bhūmipāla's, and it is renewed every generation. It governs the movement of pilgrim caravans and the treatment of merchants arrested for trade violations on either side of the frontier. Vedyari cotton, silk, spice and worked metal go out along the march road toward the Dunhari oases and the desert emporia beyond. The road is also the only way an army has ever entered the subcontinent.
 
 To the **north** lies the [[place-khzryndsrtrgn|Khazryn]], beyond the wall and reached only by the high passes, and through it the far-eastern empires. Trade dominates the relationship and politics hardly enters it; the return caravans bring salt, horses, lapis, amber and the rarer goods of the eastern steppes.
 
@@ -117,6 +117,33 @@ To the **southeast**, across the seas, lie lands the Vedyari know through their 
 ## Population and Geography
 
 Janapadas sit wherever village-cluster agriculture will hold, which is most of inland Vedyara. They are densest in the great river valleys, the Chandramahī, the Sarvada, the Mahānadi and the Bhārava, and thinnest in the deep forests and on the arid central plateau of [[place-vandhyabhumi|Vandhyabhūmi]], where [[affiliation-gomarga|Gomārga]] holds the wells rather than the ground. The northern hill-country runs its own variant of the janapada, smaller and more isolated. The southern tropical interior, [[place-bharavavana|Bhāravavana]], runs no janapada at all: its forest is held in the temple-estates of the [[affiliation-bhrvdvbhog|Bhārava-Devabhoga]], and it is the one country of the subcontinent where no assembly sits.
+
+## Settlements
+
+```sql
+SELECT s.address.slug AS _ref,
+       s.name.full AS "Name",
+       s.data.market || ' ' || m.name AS "Market",
+       s.data.population AS "People",
+       (SELECT string_agg(
+                   CASE
+                       WHEN p.address.slug IS NULL THEN p.name.full
+                       ELSE '[[' || p.address.slug || '|' || p.name.full || ']]'
+                   END, ' and ' ORDER BY p.name.full)
+        FROM entries p
+        WHERE p.type = 'affiliation'
+          AND list_contains(p.data.domains, s.shortcode)) AS "Held by",
+       -- No field states why a place stands where it does, so "For" projects nothing.
+       NULL AS "For"
+FROM entries s
+LEFT JOIN market m ON m.value = s.data.market
+WHERE s.type = 'place'
+  AND s.subType = 'settlement'
+  AND list_contains(s.data.parents, 'vedyarargn')
+ORDER BY s.name.full COLLATE NOCASE
+```
+
+The query names the settlements the region holds directly. Everything else stands in one of the lands, and is named on that land's page.
 
 ## See Also
 

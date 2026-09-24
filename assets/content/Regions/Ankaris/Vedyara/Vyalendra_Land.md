@@ -29,6 +29,33 @@ The land is **held**, and it is held by the loom. A village belongs to the house
 
 The arrangement is not an assembly-republic and should not be mistaken for one. A Vyālendri village has no turn in any sabhā and no voice of its own; what it has is a master, and what the master has is a seat. The cultivators of the cotton land hold use-rights and nothing more, exactly as they would in a janapada, and the difference they feel is whose door they go to.
 
+## Settlements
+
+```sql
+SELECT s.address.slug AS _ref,
+       s.name.full AS "Name",
+       s.data.market || ' ' || m.name AS "Market",
+       s.data.population AS "People",
+       (SELECT string_agg(
+                   CASE
+                       WHEN p.address.slug IS NULL THEN p.name.full
+                       ELSE '[[' || p.address.slug || '|' || p.name.full || ']]'
+                   END, ' and ' ORDER BY p.name.full)
+        FROM entries p
+        WHERE p.type = 'affiliation'
+          AND list_contains(p.data.domains, s.shortcode)) AS "Held by",
+       -- No field states why a place stands where it does, so "For" projects nothing.
+       NULL AS "For"
+FROM entries s
+LEFT JOIN market m ON m.value = s.data.market
+WHERE s.type = 'place'
+  AND s.subType = 'settlement'
+  AND list_contains(s.data.parents, 'vyalendraland')
+ORDER BY s.name.full COLLATE NOCASE
+```
+
+The query names the city and the bale-port at the river's mouth. The carding, spinning, dyeing and weaving villages of the valleys are counted with the guild house whose craft-line holds them.
+
 ## Economy
 
 Cotton and indigo are the land's crops, and both exist for the cloth. The valleys grow the long-staple cotton the city's finest work requires; the dye-villages hold the indigo vats and the mordant recipes that make Vyālendri color worth what it is; the loom villages weave the plain goods and send the difficult patterns into the city's great halls. Silk comes in by trade. It is worked here and not grown here.
