@@ -2,7 +2,6 @@
 tags:
   - character
   - reference
-  - unattributed
 name:
   full: Menes XVI
   title: Per-Aá
@@ -17,4 +16,6 @@ data:
   archetypes: []
   stations: []
   lore: []
+  homes:
+    - takheperurgn
 ---

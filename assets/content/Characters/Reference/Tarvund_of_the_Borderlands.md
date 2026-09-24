@@ -2,7 +2,6 @@
 tags:
   - character
   - reference
-  - unattributed
 name:
   full: Tárvund of the Borderlands
   title: Lord
@@ -17,4 +16,6 @@ data:
   archetypes: []
   stations: []
   lore: []
+  homes:
+    - nrdlndsrgn
 ---
