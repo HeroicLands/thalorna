@@ -14,7 +14,7 @@ difference between a profit and a year's wait.
 lease the silver and the lapis over the king's head, and nobody on either side
 wants the question settled.
 
-**Two councils, one succession.** The chieftains and the brahmins can sit
+**Two councils, one succession.** The chieftains and the ushtakas can sit
 together only while the passes are open, and they do not agree about who is to
 be acclaimed next.
 

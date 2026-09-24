@@ -22,7 +22,7 @@ data:
         title: Outcaste
         lore: excmmnctrnk
         description: >-
-          Placed outside the varṇa order by transgression or by birth, excluded from the wells,
+          Placed outside the tharana by transgression or by birth, excluded from the wells,
           the temples and the courts.
       - level: 1
         title: Bonded Servant
@@ -31,28 +31,28 @@ data:
           Bound by debt or birth to a household, owing labor and lacking the standing to hold
           land.
       - level: 2
-        title: Śūdra
+        title: Karmāja
         lore: commonerrnk
         description: >-
-          Of the serving varṇa—cultivators, artisans and laborers who hold their place by
+          Born to the serving tharana—cultivators, artisans and laborers who hold their place by
           work rather than by rite.
       - level: 3
-        title: Vaiśya
+        title: Dhanāja
         lore: gentryrnk
         description: >-
-          Of the productive varṇa—merchants, herders and landholders, whose wealth sustains
+          Born to the productive tharana—merchants, herders and landholders, whose wealth sustains
           the court and its temples.
       - level: 4
-        title: Kṣatriya
+        title: Senāja
         lore: warriorrnk
         description: >-
-          Of the warrior varṇa, bearing arms by right and owing service in the Mahārāja's host
+          Born to the warrior tharana, bearing arms by right and owing service in the Mahārāja's host
           and aboard the galleys of his fleet.
       - level: 5
-        title: Brāhmaṇa
+        title: Ritūja
         lore: priestrnk
         description: >-
-          Of the priestly varṇa, keeper of rite and learning, without whose sanction no royal
+          Born to the priestly tharana, keeper of rite and learning, without whose sanction no royal
           act is complete.
       - level: 6
         title: Kulina
@@ -75,7 +75,7 @@ data:
     offices:
       Mahārāja: >-
         The great king of the Moon House, ruling by descent and confirmed by the rites the
-        Varṇaka brahmins perform.
+        Varṇaka ushtakas perform.
       Rājñī: The chief queen, holding her own revenues, household and voice at court.
       Yuvarāja: >-
         The designated heir, commonly given the customs of the river mouth to govern as his
@@ -129,7 +129,7 @@ Wealth has made Chandrapur cosmopolitan. Traders and craftspeople from across th
 
 ## The Moon House and the Nine
 
-Chandrapur keeps a king, which among the great cities of the coast is the uncommon arrangement. The **Mahārāja of the Moon House** rules by descent, and the temples confirm the rule. The rites the Varṇaka brahmins perform at an accession are what make the man king. A claimant they will not crown has never yet reigned.
+Chandrapur keeps a king, which among the great cities of the coast is the uncommon arrangement. The **Mahārāja of the Moon House** rules by descent, and the temples confirm the rule. The rites the Varṇaka ushtakas perform at an accession are what make the man king. A claimant they will not crown has never yet reigned.
 
 The Mahārāja rules with a court, and the court is the **Nine Houses**. Their heads sit as **Kulina**. Each holds one of the nine seats, the charters of his own trade, and the quarter of the city his house has always kept. The seats descend within the houses; the crown confirms a succession and has twice refused one.
 
