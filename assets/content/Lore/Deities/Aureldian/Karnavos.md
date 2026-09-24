@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "The Wild Beast of the Aurèldián pantheon—chaos, and the wilderness no law reaches into."
+description: "The Wild Beast of the Aurèldían pantheon—chaos, and the wilderness no law reaches into."
 type: lore
 subType: deity
 name:

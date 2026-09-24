@@ -18,4 +18,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-8 bodies in Thalorna name this standing, at levels 6, 7 of their ladders, and each spells it in its own words: **Ajaw**, **Sahal**, **Haty'a**, **Iry'pat**, **Greater Nobility**, **Sāmanta**, **Jarl**, **Járl**.
+8 bodies in Thalorna name this standing, at levels 6, 7 of their ladders, and each spells it in its own words: **Ajaw**, **Sahal**, **Haty'a**, **Iry'pat**, **Greater Nobility**, **Sāmanta**, **Jarl**.

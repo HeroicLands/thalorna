@@ -24,4 +24,4 @@ The city functions with its own governance, distinct from any of the League's ci
 
 - [[affiliation-byzarianlg|Byzarian League]]—The confederation of city-states
 - [[place-byzariargn|Byzaría Region]]—Regional overview
-- [[affiliation-arldnpnthn|Aurèldián Pantheon]]—Religious framework
+- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—Religious framework

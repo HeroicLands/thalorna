@@ -47,7 +47,7 @@ data:
         lore: apprenticernk
         description: >-
           One who dwells near. Apprenticed to a craft-line by birth, and not permitted to take
-          anything unsupervised until the Ācārya presents them to the Sabhā.
+          anything unsupervised until the Ácārya presents them to the Sabhā.
       - level: 3
         title: Ādānika
         lore: journeymanrnk
@@ -55,7 +55,7 @@ data:
           A taker in their own right, entered in the guild register, bound by the taboos and
           entitled to the guild's advocate before a crown's or a council's magistrate.
       - level: 4
-        title: Ācārya
+        title: Ácārya
         lore: masterrnk
         description: >-
           Master of a craft-line, who teaches it, vouches for its members and answers to the
