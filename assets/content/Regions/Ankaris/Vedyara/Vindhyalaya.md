@@ -100,7 +100,7 @@ data:
     - lore-vdyrnbnkng
     - affiliation-mrchntclctvvdyr
   lore:
-    - humanflk
+    - vedyariclt
   parents: []
   relations:
     varakpnthn: aligned
@@ -109,13 +109,16 @@ data:
     chandrapur: aligned
     vyalendra2: aligned
     tanvurempr: unaligned
+    osketguides: unaligned
+    hvarnguides: unaligned
+    janpdsvdyr: unaligned
 packFolder: vedyara
 sohl: {}
 ---
 
 ## Overview
 
-Vindhyālaya ("the abode of the Vindhya") is the principal kingdom of the northern highlands of [[place-vedyarargn|Vedyara]]. It commands the great passes that carry the subcontinent's trade over the [[place-graznmntns|Grazian]] wall. Beyond the throat of the greatest of them the road forks, north to the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]] and the Celestial Road beyond, northeast by the longer branch to the western frontier of [[place-tanvuregin|Tānvür]]. Its wealth is the wealth of the toll-road and the customs-house; its politics are the politics of the march. The kingdom holds the land of [[place-vindhyalayaland|Vindhyālaya]].
+Vindhyālaya ("the abode of the Vindhya") is the principal kingdom of the northern highlands of [[place-vedyarargn|Vedyara]]. It commands the great passes that carry the subcontinent's trade over the [[place-graznmntns|Grazian]] wall. Beyond the throat of the greatest of them the road forks, north to the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]] and the Celestial Road beyond, northeast by the longer branch to the western frontier of [[place-tanvuregin|Tānvür]]. Its wealth is the wealth of the toll-road and the customs-house; its politics are the politics of the march. The kingdom holds the land of [[place-vindhyalayaland|Vindhyālaya]] and is seated at [[place-suryagarha|Sūryāgarha]], the fortress-capital across the throat of [[place-suryadvara|Sūryadvāra]].
 
 ## Character
 
@@ -129,13 +132,21 @@ The caste system holds, and it sits differently here. In the highlands the dista
 
 Vindhyālaya taxes every bale on entry and again on exit. The customs revenue keeps the royal coffers full and the peasantry unsqueezed. The southern kingdoms regard that stability with envy and with suspicion.
 
+What the customs-house at [[place-suryagarha|Sūryāgarha]] actually sells is the season. The pass is open for weeks and shut for months, everything that crosses in a year crosses in the same weeks, and the token a caravan needs is cheap while the date written on it is at the crown's discretion. Early in the season is a profit and late in the season is a year's wait, and the kingdom's revenue is smaller than the value of that decision.
+
+The rock is another matter. Silver and lapis out of [[place-slvrgorges|the Silver Gorges]] go out under leases the hereditary smithing clans make directly with [[affiliation-mrchntclctvvdyr|the Merchant Collective]], on prerogatives the clans hold to be older than the royal charter. The crown's position is that the ore is the crown's and the arrangement a courtesy; the clans' position is that the crown was given the road on the understanding that the rock on either side of it was not part of the gift. Neither position has been tested, because a test would cost whichever side lost more than the quarrel is worth, and so the crown collects on the road and not on the rock and has done for four generations.
+
 ## Government
 
-The Mahārāja rules from the fortress-capital of **Sūryāgarha**, a stone citadel overlooking the greatest of the northern passes. The crown's direct power reaches the pass-roads, the customs-houses and the lowland capital, and little further. Hereditary clan-chieftains govern the highlands proper, and their loyalty is real and negotiated. Each chieftain keeps a warband sized to his clan's standing and must provide it, on demand, for the defense of the passes or for a royal campaign.
+The Mahārāja rules from [[place-suryagarha|Sūryāgarha]], a stone citadel built across the throat of the greatest of the northern passes. The crown's direct power reaches the pass-roads, the customs-houses and the terrace road down to the lowland market towns, and little further. Hereditary clan-chieftains govern the highlands proper, and their loyalty is real and negotiated. Each chieftain keeps a warband sized to his clan's standing and must provide it, on demand, for the defense of the passes or for a royal campaign.
 
 The **Martial Council** of senior chieftains advises the crown on war, on frontier defense and on clan disputes. The **Priestly Court**, brahmins drawn from the largest temple-complexes, advises on ritual, on succession and on the law. When the two councils agree, the Mahārāja rules. When they disagree, the reign becomes interesting.
 
-Succession is hereditary but contested. The Mahārāja's eldest son is the presumptive heir, but confirmation requires formal acclamation by the Martial Council, which has, on several memorable occasions, chosen a younger brother, a cousin, or (once) the late king's widow over the expected heir.
+The councils can sit together only in the open season, because the chieftains of the far valleys cannot reach the capital in winter. A question the Priestly Court would rather settle on its own therefore gets raised in the months when it can be, and a Mahārāja who wants a thing done without the chieftains has a window in which to do it.
+
+Succession is hereditary but contested. The Mahārāja's eldest son is the presumptive heir, but confirmation requires formal acclamation by the Martial Council, which has, on several memorable occasions, chosen a younger brother, a cousin, or (once) the late king's widow over the expected heir. The two councils do not at present agree about who is to be acclaimed next, and each has been arranging its business around the other long enough that everyone at court can name which side a given delay belongs to.
+
+The crown does not govern above the last [[place-pssshrines|Pass-Shrine]]. The cols are the [[affiliation-osketguides|Ösket]]'s and, on the eastern crossings, the [[affiliation-hvarnguides|Hvarn]]'s; the guide-lineages hold their roads by descent, take roughly half the value of everything that crosses, and answer to no Vindhyan warden on a question of weather. The clan-wardens of [[place-suryadvara|Sūryadvāra]] hold the warden-right by inheritance and are answerable to the Mahārāja in theory. In practice a warden who overrules a guide-mother does it exactly once.
 
 ## Relations
 
@@ -143,13 +154,15 @@ To the **south**, Vindhyālaya's relationship with the river-valley kingdoms is 
 
 To the **north**, beyond the wall, lie the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]] and the confederations that hold them. Neither the [[affiliation-khzrncnfdrtn|Khazryn Confederation]] nor the [[affiliation-tribestrzd|Ātárzád]] can reach Vindhyālaya in force, and no horde has ever taken a Grazian pass. The relationship is commercial, conducted through the edge-town markets and renegotiated season by season as tolls, escort fees and the quality of the year's horses require. The kingdom keeps no garrison beyond the summits and none stands against it.
 
-To the **northeast**, by the eastern branch of the pass-roads, lie the western marches of [[affiliation-tanvurempr|Tānvür]]. The branch is longer, higher and lightly traveled, but Tānvüri scholarly envoys appear at the Vindhyan court every few decades, and a small Tānvüri community has existed in Sūryāgarha for centuries.
+To the **northeast**, by the eastern branch of the pass-roads, lie the western marches of [[affiliation-tanvurempr|Tānvür]]. The branch is longer, higher and lightly traveled, but Tānvüri scholarly envoys appear at the Vindhyan court every few decades, and a Tānvüri community has existed in [[place-suryagarha|Sūryāgarha]] for centuries.
+
+To the **east**, along [[place-estrnreach|the Eastern Reach]], the kingdom holds that the whole northern frontier is its own to watch. The [[affiliation-janpdsvdyr|Janapadas of Vedyara]] keep a garrison on the col of the conch-door, [[place-sanghafort|a fort]] raised four centuries ago when an adventurer with Tānvüri backing came through into the eastern janapadas, and Vindhyālaya reads it as ground held by a body with no business holding any. The kingdom raises this at every gathering and has never done more than raise it, which suits both sides: the temple-republics are not going to surrender a precedent, and the crown would be seriously embarrassed to be handed sixty men and a supply line running through country it does not control.
 
 The kingdom has no frontier with the [[place-dunharargn|Dunhara]] at all. The desert lies west of where the wall runs out, and the road to it belongs to the northwestern marches, not to the passes.
 
 ## Commerce and Currency
 
-Vindhyālaya uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign coin, the Vylarian Argo and Aurion and the Ta'Kheperan deben pieces, is exchangeable at frontier moneylenders at Collective-controlled rates. The Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
+Vindhyālaya uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign coin, weighed Khazryn metal and the Ta'Kheperan deben pieces, is exchangeable at frontier moneylenders at Collective-controlled rates. The Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
 
 ## See Also
 

@@ -15,13 +15,16 @@ data:
   icon: null
   demonym: Vedyaran
   lore:
-    - humanflk
+    - vedyariclt
   parents:
     - ankrscntnnt
   borders:
     - { to: dunharargn, bearing: NW }
     - { to: khzryndsrtrgn, bearing: N }
     - { to: tanvuregin, bearing: NE }
+    - { to: suryasamdra, bearing: E }
+    - { to: meghsamdra, bearing: S }
+    - { to: sandhysmdr, bearing: W }
   population: 110000000
 terran_analog: India (subcontinent of independent states)
 packFolder: vedyara
@@ -39,7 +42,7 @@ Vedyara occupies the large subcontinental projection in southeastern Ankaris. It
 
 The coast is tropical and lush. Inland the country runs through jungle, grassland and arid plateau. The far northern margin rises into temperate hill-country and then into the [[place-graznmntns|Grazian Mountains]], the wall between Vedyara and the [[place-khzryndsrtrgn|Khazryn]] to the north and [[place-tanvuregin|Tānvür]] to the northeast.
 
-The subcontinent has three shores, not two. The long eastern and southern coastlines carry the ports, the monsoon and the sailing trade; a shorter western coast runs south from the desert-margin below the wall's western end, arid where the others are lush, and its sea is the one Vedyari sailors know least.
+The subcontinent has three shores, not two, and a sea to each of them. The long eastern coast faces the [[place-suryasamdra|Sūrya-samudra]] and the southern coast the [[place-meghsamdra|Megha-samudra]], and between them they carry the ports, the monsoon and the sailing trade. A shorter western coast runs south from the desert-margin below the wall's western end, arid where the others are lush; its sea is the [[place-sandhysmdr|Sandhyā-samudra]], and it is the one Vedyari sailors know least.
 
 The wall does not continue west. The Grazian range's western end descends into broken foothills and runs out into desert-margin, and the land road to the [[place-dunharargn|Dunhara]] goes round that end and over no pass. Dunhara is Vedyara's only neighbor by open land, and the subcontinent's one door is its northwest.
 
@@ -69,7 +72,11 @@ Religious practice runs through daily life at every level. Temples range from mo
 
 **Ascetic traditions** are respected and supported by the broader society. A renunciant abandons worldly life for spiritual pursuit. Ascetics attach themselves to particular temples, wander between holy sites, or disappear into the forests for years at a time. On return they are received with reverence and kept materially by the devout.
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] has no presence in Vedyara. Vedyara has its own mature magical traditions, built on **meditation, mantra and ritual**, and the priestly caste holds a near-monopoly on the most powerful practices. Folk magic and herbal tradition persist at all levels of society. Direct contact between the Ordo and Vedyari magical scholars has been rare, cautious and mutually suspicious across the centuries.
+Vedyara has its own mature magical traditions, built on **meditation, mantra and ritual**, and the priestly caste holds a near-monopoly on the most powerful practices. Folk magic and herbal tradition persist at all levels of society, tolerated completely as long as they claim nothing.
+
+What holds that structure together is the **school rule**: a Varnakan ordains into a sampradāya and never to a god, and a working outside every school that is nonetheless done in a god's name is Patita. The [[affiliation-trimurtisampradaya|Council of the Triyācāryas]] enforces it and licenses public working across the subcontinent. Four further bodies work under, beside or against that license: the [[affiliation-ganakashala|Ganaka-shala]] at Chandrapur, the reckoners who compute the calendar, the eclipse, the tide and the assay; the [[affiliation-passshrinebrahmins|Pass-Shrine Brahmins]], who work the weather-rite and the road-rite at the summits of the crossing roads; the [[affiliation-thresholdkeepers|Threshold-keepers]], licensed to put one question to the newly dead before the pyre and warranted for inheritance and unwitnessed killing alone; and the [[affiliation-chayavrata|Chaya-vrata]], the lapsed dream-line that works the waking dream and is condemned by the Council of the Dream and pursued by nobody.
+
+The [[affiliation-ordoarcanis|Ordo Arcanis]] keeps one licensed factor at the river mouth below Chandrapur and nothing else in the subcontinent—no chapter house, no school and no right to examine anyone. Contact between the Ordo and Vedyari magical scholars is rare, cautious and mutually suspicious, and neither side expects that to change.
 
 ## Politics and Power
 
@@ -105,7 +112,7 @@ To the **north** lies the [[place-khzryndsrtrgn|Khazryn]], beyond the wall and r
 
 To the **northeast**, beyond the wall's eastern arc, lies [[place-tanvuregin|Tānvür]]. The two civilizations are mutually respectful scholarly partners whose intellectual exchange is centuries old; direct political integration has never been attempted and is unlikely ever to be. Vedyari monks study in Tānvüri academies; Tānvüri scholars travel the Vedyari courts.
 
-To the **southeast**, across the seas, lie lands the Vedyari know through their own maritime tradition: scattered islands, coastal kingdoms, and the more distant southern continents beyond them.
+To the **southeast**, across the seas, lie lands the Vedyari know through their own maritime tradition: [[place-suryaislnds|scattered islands]], coastal kingdoms, and the more distant southern continents beyond them.
 
 ## Population and Geography
 
@@ -114,6 +121,7 @@ Janapadas sit wherever village-cluster agriculture will hold, which is most of i
 ## See Also
 
 - [[affiliation-varakpnthn|Varṇaka Pantheon]]—the cycle-gods
+- [[lore-vedyariclt|Vedyari]]—the culture, the stations and what a person owes
 - [[skill-vedyarlng|Vedyari]]—the language and its classical form
 - [[place-graznmntns|The Grazian Mountains]]—the wall along the north, and its passes
 - [[place-dunharargn|Dunhara Region]]—northwestern neighbor by land
