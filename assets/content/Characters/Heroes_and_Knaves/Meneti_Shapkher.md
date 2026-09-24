@@ -654,7 +654,7 @@ Meneti is driven by an almost religious belief in open books and the moral duty 
 ### Enemies
 
 - **The Crimson Syndicate**: A network of corrupt officials and merchant-lords who lost hundreds of thousands of dinars to her investigations. They have placed a quiet bounty on her, though none have dared act openly.
-- **Menisû the Iron**: A disgraced former Treasury Minister whose embezzlement Meneti exposed seven years ago. He now works in exile, spreading rumors that she fabricated evidence against him.
+- **Menisî the Iron**: A disgraced former Treasury Minister whose embezzlement Meneti exposed seven years ago. He now works in exile, spreading rumors that she fabricated evidence against him.
 - **The Provincial Governors' Council**: Her investigations into irregular tribute payments have made her a target of provincial elites who depend upon those irregularities for their wealth.
 
 ### Affiliations
