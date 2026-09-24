@@ -6,6 +6,22 @@ name:
   aliases: []
 shortcode: clndrstrlgy
 packFolder: tanvur
+data:
+  epoch: 720/1/1
+  months:
+    - { name: Jëityüt, days: 30 }
+    - { name: Mütyüt, days: 30 }
+    - { name: Hötyüt, days: 30 }
+    - { name: Hōkyüt, days: 30 }
+    - { name: Tūryüt, days: 30 }
+    - { name: Jīkyüt, days: 32 }
+    - { name: Shütyüt, days: 33 }
+    - { name: Vëngyüt, days: 30 }
+    - { name: Yütjëit, days: 30 }
+    - { name: Thürkyüt, days: 30 }
+    - { name: Zhürtyüt, days: 30 }
+    - { name: Thürtyüt, days: 30 }
+  weekdays: []
 ---
 
 ## Tānvür Calendar and Astrology
@@ -19,6 +35,8 @@ In the Empire of Tānvür, time is not merely measured—it is **administered**.
 ### Months of the Year
 
 The twelve months of the Tānvüri year follow the cycle of elemental classification—each month is governed by a specific domain and corresponds to a phase of the cosmic sorting cycle. The months are not arbitrary divisions of time. They are **administrative periods**, each with its own filing deadlines, ritual obligations, and bureau jurisdictions.
+
+Ten of the twelve run thirty days. Jīkyüt, the month of the courts' heaviest case loads, runs thirty-two, and Shütyüt, the month of the autumn trading season, runs thirty-three—the busiest months of the bureaucratic year are also its longest.
 
 1. **Jëityüt - "Month of Festivals"**—Early Spring. The year's opening administrative period. All ledgers are settled from the previous year, new petitions are filed, and the cosmic accounts are reopened. The Emperor performs the annual audit of the empire's Lëi. Failure to properly observe Jëityüt's rituals is believed to leave the entire year's filings unprocessed.
 
