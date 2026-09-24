@@ -33,15 +33,26 @@ The veins themselves have never been mined. The gold taken at Suvarṇagiri is *
 ## Settlements
 
 ```sql
-SELECT address.slug AS _ref,
-       name.full       AS "Settlement",
-       data.population AS "Population",
-       description     AS "Overview"
-FROM entries
-WHERE type = 'place'
-  AND subType = 'settlement'
-  AND list_contains(data.parents, 'suvarnagirijnpd')
-ORDER BY name.full COLLATE NOCASE
+SELECT s.address.slug AS _ref,
+       s.name.full AS "Name",
+       s.data.market || ' ' || m.name AS "Market",
+       s.data.population AS "People",
+       (SELECT string_agg(
+                   CASE
+                       WHEN p.address.slug IS NULL THEN p.name.full
+                       ELSE '[[' || p.address.slug || '|' || p.name.full || ']]'
+                   END, ' and ' ORDER BY p.name.full)
+        FROM entries p
+        WHERE p.type = 'affiliation'
+          AND list_contains(p.data.domains, s.shortcode)) AS "Held by",
+       -- No field states why a place stands where it does, so "For" projects nothing.
+       NULL AS "For"
+FROM entries s
+LEFT JOIN market m ON m.value = s.data.market
+WHERE s.type = 'place'
+  AND s.subType = 'settlement'
+  AND list_contains(s.data.parents, 'suvarnagirijnpd')
+ORDER BY s.name.full COLLATE NOCASE
 ```
 
 The query names the constituent villages the sabhā seats and the temple-town itself. Most of the janapada lives outside them, on the terraces, in hamlets and single farmsteads that each village answers for at its turn.
