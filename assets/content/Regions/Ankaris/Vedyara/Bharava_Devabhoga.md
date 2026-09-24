@@ -34,28 +34,28 @@ data:
           Bound by debt or birth to an estate's household, owing labour at the felling and the
           hauling and holding nothing of the season's take.
       - level: 2
-        title: Shūdra
+        title: Karmāja
         lore: commonerrnk
         description: >-
-          Of the serving varna—fellers, raftsmen, porters and the estate's own cultivators on the
+          Born to the serving varna—fellers, raftsmen, porters and the estate's own cultivators on the
           cleared ground around its temple.
       - level: 3
-        title: Vaishya
+        title: Dhanāja
         lore: gentryrnk
         description: >-
-          Of the productive varna—the licensed buyers and carriers who take the estate's resin,
+          Born to the productive varna—the licensed buyers and carriers who take the estate's resin,
           lac and spice down to the coast and answer for its price.
       - level: 4
-        title: Kshatriya
+        title: Senāja
         lore: warriorrnk
         description: >-
-          Of the warrior varna, bearing arms by right and serving in the small bodies the estates
+          Born to the warrior varna, bearing arms by right and serving in the small bodies the estates
           keep against theft of standing timber.
       - level: 5
-        title: Brāhmana
+        title: Ritūja
         lore: priestrnk
         description: >-
-          Of the priestly varna, keeper of rite and learning, without whose sanction no felling
+          Born to the priestly varna, keeper of rite and learning, without whose sanction no felling
           season opens and no boundary is moved.
       - level: 6
         title: Kshetrapāla

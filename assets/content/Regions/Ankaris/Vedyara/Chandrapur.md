@@ -31,28 +31,28 @@ data:
           Bound by debt or birth to a household, owing labor and lacking the standing to hold
           land.
       - level: 2
-        title: Śūdra
+        title: Karmāja
         lore: commonerrnk
         description: >-
-          Of the serving varṇa—cultivators, artisans and laborers who hold their place by
+          Born to the serving varṇa—cultivators, artisans and laborers who hold their place by
           work rather than by rite.
       - level: 3
-        title: Vaiśya
+        title: Dhanāja
         lore: gentryrnk
         description: >-
-          Of the productive varṇa—merchants, herders and landholders, whose wealth sustains
+          Born to the productive varṇa—merchants, herders and landholders, whose wealth sustains
           the court and its temples.
       - level: 4
-        title: Kṣatriya
+        title: Senāja
         lore: warriorrnk
         description: >-
-          Of the warrior varṇa, bearing arms by right and owing service in the Mahārāja's host
+          Born to the warrior varṇa, bearing arms by right and owing service in the Mahārāja's host
           and aboard the galleys of his fleet.
       - level: 5
-        title: Brāhmaṇa
+        title: Ritūja
         lore: priestrnk
         description: >-
-          Of the priestly varṇa, keeper of rite and learning, without whose sanction no royal
+          Born to the priestly varṇa, keeper of rite and learning, without whose sanction no royal
           act is complete.
       - level: 6
         title: Kulina

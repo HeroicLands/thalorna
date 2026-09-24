@@ -32,28 +32,28 @@ data:
           Bound by debt or birth to a household, walking its herds and carrying its token, and
           holding neither stock nor water in his own name.
       - level: 2
-        title: Shūdra
+        title: Karmāja
         lore: commonerrnk
         description: >-
-          Of the serving varna—drovers, tank-diggers, leather-workers and the herd-hands who do
+          Born to the serving varna—drovers, tank-diggers, leather-workers and the herd-hands who do
           the year's walking for another man's cattle.
       - level: 3
-        title: Vaishya
+        title: Dhanāja
         lore: gentryrnk
         description: >-
-          Of the productive varna, and on the plateau the varna that matters: the herd-owning
+          Born to the productive varna, and on the plateau the varna that matters: the herd-owning
           lineages, whose stock and whose wells are the kingdom's whole wealth.
       - level: 4
-        title: Kshatriya
+        title: Senāja
         lore: warriorrnk
         description: >-
-          Of the warrior varna, bearing arms by right and owing mounted service on the droveways
+          Born to the warrior varna, bearing arms by right and owing mounted service on the droveways
           in the moving seasons.
       - level: 5
-        title: Brāhmana
+        title: Ritūja
         lore: priestrnk
         description: >-
-          Of the priestly varna, keeper of rite and learning, and the one who reads the season and
+          Born to the priestly varna, keeper of rite and learning, and the one who reads the season and
           names the day the herds move.
       - level: 6
         title: Sāmanta
