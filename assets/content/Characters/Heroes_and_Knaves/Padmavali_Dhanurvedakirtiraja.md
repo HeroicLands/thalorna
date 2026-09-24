@@ -604,7 +604,7 @@ Padmàvali stands 5'2" tall with a light build. She has warm caramel skin, dark 
 
 **Early Life and Artistic Awakening**
 
-Padmàvali was born into the merchant family Dhanurvedakīrtirāja in Suvarṇagiri, the gold-bearing temple-republic of the Bhārava highlands. Her father, a successful spice merchant, had little time for his bookish, art-obsessed daughter, but her mother recognized her talent early. By age seven, Padmàvali could sketch the architectural features of buildings with stunning precision, and by twelve, she had begun studying the mathematical principles underlying perspective and proportion. Her formal training came under **Master Ananda**, a cartographer whose maps were treasured by merchants, military commanders, and noble houses throughout the city-states. Ananda recognized in her young student a rare combination: the precision and mathematical rigor required for accurate mapmaking, paired with an intuitive artistic sense that transformed functional maps into works of sublime beauty.
+Padmàvali was born into the merchant family Dhanurvedakīrtirāja in Suvarnagiri, the gold-bearing temple-republic of the Bhārava highlands. Her father, a successful spice merchant, had little time for his bookish, art-obsessed daughter, but her mother recognized her talent early. By age seven, Padmàvali could sketch the architectural features of buildings with stunning precision, and by twelve, she had begun studying the mathematical principles underlying perspective and proportion. Her formal training came under **Master Ananda**, a cartographer whose maps were treasured by merchants, military commanders, and noble houses throughout the city-states. Ananda recognized in her young student a rare combination: the precision and mathematical rigor required for accurate mapmaking, paired with an intuitive artistic sense that transformed functional maps into works of sublime beauty.
 
 **Journey to Mastery**
 
@@ -658,7 +658,7 @@ Padmàvali is driven by the pursuit of truth and beauty working in harmony. She 
 
 - **Master Ananda**: Her former teacher, now retired to a house in the countryside, remains her most trusted advisor and occasional patron. He commissions small personal maps and is a source of wisdom about the ethics of cartography.
 
-- **The Twenty-Eight**: The hereditary panning-families of her native Suvarṇagiri continue to patronize her work—they have wanted the panning reaches properly surveyed for a generation—and have offered her a permanent workshop in exchange for priority commissions.
+- **The Twenty-Eight**: The hereditary panning-families of her native Suvarnagiri continue to patronize her work—they have wanted the panning reaches properly surveyed for a generation—and have offered her a permanent workshop in exchange for priority commissions.
 
 ### Enemies
 

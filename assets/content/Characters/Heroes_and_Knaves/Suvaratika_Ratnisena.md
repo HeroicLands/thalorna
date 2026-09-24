@@ -4,10 +4,10 @@ tags:
   - tradesfolk
   - character
 name:
-  full: Suvaratika Ratniseṇa
+  full: Suvaratika Ratnisena
   title: ""
   given: Suvaratika
-  clan: Ratniseṇa
+  clan: Ratnisena
   home: chandrapur2
   aliases: []
 packFolder: ankarisvedyara
@@ -596,7 +596,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[suvrtkrtns|Suvaratika Ratniseṇa]]{float: top-left}
+![[suvrtkrtns|Suvaratika Ratnisena]]{float: top-left}
 
 Suvaratika stands 5'6" tall with a light build. She has warm bronze skin, deep black hair, and black eyes. Her features include a full face, a prominent nose, a narrow chin, expressive brows, rounded cheeks. A distinguishing mark is a scar running down the right leg.
 
@@ -656,7 +656,7 @@ As she approaches forty, she is increasingly aware that her vision could die wit
 ### Enemies
 
 - **The Merchant Collective of Mass Producers**: Large-scale toy manufacturers who view Suvaratika's insistence on handcrafted quality as an obstacle to progress and market efficiency. They have occasionally attempted to undercut her prices and capture her customers.
-- **Dharma Vyāvahārika**, a competitive toymaker: A merchant-craftsperson who produces trendy, fashionable toys in high volume. She views Suvaratika's philosophical approach as pretentious and her resistance to mass production as economically naive. The two have engaged in passive-aggressive competition for the same elite clientele.
+- **Dhârîka Vyāvahārika**, a competitive toymaker: A merchant-craftsperson who produces trendy, fashionable toys in high volume. She views Suvaratika's philosophical approach as pretentious and her resistance to mass production as economically naive. The two have engaged in passive-aggressive competition for the same elite clientele.
 
 ### Affiliations
 

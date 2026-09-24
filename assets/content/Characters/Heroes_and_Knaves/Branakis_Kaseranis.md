@@ -663,13 +663,13 @@ Bránakis is driven by a commitment to excellence that borders on obsession, and
 
 ### Patrons
 
-- **Master Blacksmith Torvin Ironhand**: The region's most famous blacksmith who specifically seeks out Bránakis' charcoal for his most important commissions. Torvin is perhaps the only person Bránakis considers a true peer.
+- **Master Blacksmith Torvin Arkálmanês**: The region's most famous blacksmith who specifically seeks out Bránakis' charcoal for his most important commissions. Torvin is perhaps the only person Bránakis considers a true peer.
 - **The Abbey of Vúlcan's Flame**: A monastic order devoted to the fire god, which purchases substantial quantities of charcoal for both practical and spiritual purposes. They also provide some protection and prestige to Bránakis within the religious community.
-- **Guild Master Aldus Woodbark**: The head of the Woodworkers' Guild, who has maintained Bránakis' membership despite pressure from younger, more pliable members.
+- **Guild Master Aldus Garlindrîs**: The head of the Woodworkers' Guild, who has maintained Bránakis' membership despite pressure from younger, more pliable members.
 
 ### Enemies
 
-- **Merchant Prince Harlow Coalroot**: A wealthy trader who has begun running charcoal works on a great scale with lower standards. He has undercut Bránakis' prices and reputation systematically.
+- **Merchant Prince Bàrdôvan Bàrlìmàtes**: A wealthy trader who has begun running charcoal works on a great scale with lower standards. He has undercut Bránakis' prices and reputation systematically.
 - **The Timber Consortium**: A large trading company that controls vast timber harvesting rights. They view Bránakis' opposition to their practices as problematic and have worked to restrict his access to quality timber sources.
 - **Charcoaler Silas Ashbringer**: A younger rival charcoaler who has adopted new methods and proven profitable. Bránakis views Silas as a symbol of everything wrong with craftwork today, and the animosity between them has become quite personal.
 
@@ -683,7 +683,7 @@ Bránakis is driven by a commitment to excellence that borders on obsession, and
 
 1. **The Dying Forest**: Bránakis discovers that the great forests are being deliberately poisoned through a cunning scheme involving a fungal blight deliberately introduced by the Timber Consortium to destroy old-growth timber, forcing landowners to accept forced sales. As a man devoted to the forest, he can expose the conspiracy—which would require breaking his code of staying out of larger political matters—or remain silent as one of his most beloved natural spaces dies before his eyes.
 
-2. **The Apprentice's Secret**: A talented young apprentice comes to Bránakis seeking to learn the craft, but Bránakis gradually discovers that the apprentice is actually a spy sent by Merchant Prince Harlow Coalroot to steal his methods. Rather than simply expelling the youth, Bránakis becomes convinced that the apprentice is a talented craftsperson being exploited by Harlow. Protecting the youth will create a permanent enemy in a powerful merchant.
+2. **The Apprentice's Secret**: A talented young apprentice comes to Bránakis seeking to learn the craft, but Bránakis gradually discovers that the apprentice is actually a spy sent by Merchant Prince Bàrdôvan Bàrlìmàtes to steal his methods. Rather than simply expelling the youth, Bránakis becomes convinced that the apprentice is a talented craftsperson being exploited by Bàrdôvan. Protecting the youth will create a permanent enemy in a powerful merchant.
 
 3. **The Ancient Formula**: While excavating near an old kiln site, Bránakis discovers evidence of charcoal-making techniques used centuries ago, seemingly abandoned and forgotten. Research reveals these techniques produce charcoal with properties that seem almost magical—superior in ways that shouldn't be possible according to anything known of the craft. He must find the remaining archives or texts describing the method while competing against others who recognize its value.
 

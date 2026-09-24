@@ -640,7 +640,7 @@ Bjalfi is motivated by a desire that no one else should suffer what his family e
 
 ### Enemies
 
-- **The Crimson Raiders**: A particularly organized bandit gang that has proven difficult to eliminate. Their leader, **Blackthorn**, has specifically marked Bjalfi, seeing him as an obstacle to their plans.
+- **The Crimson Raiders**: A particularly organized bandit gang that has proven difficult to eliminate. Their leader, **Skraldarukh**, has specifically marked Bjalfi, seeing him as an obstacle to their plans.
 - **Corrupt Local Officials**: Some magistrates profit from allowing banditry to continue unchecked. Bjalfi's aggressive pursuit of raiders threatens their arrangements.
 - **Ambitious Militia Rivals**: Some older militia members resent Bjalfi's rapid advancement and question whether his youth and idealism suit him for leadership.
 

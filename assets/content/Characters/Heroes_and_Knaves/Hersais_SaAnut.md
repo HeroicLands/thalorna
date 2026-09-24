@@ -682,7 +682,7 @@ At a deeper level, Hersaîs fears chaos and loss of control, and he has organize
 
 ### Enemies
 
-- **Iry'pat Amenhotep**: The Per-Aá's nephew, who views Hersaîs as an obstacle to his own political ambitions and who has begun cultivating alternative sources of military influence.
+- **Iry'pat Ankhur**: The Per-Aá's nephew, who views Hersaîs as an obstacle to his own political ambitions and who has begun cultivating alternative sources of military influence.
 
 - **Semer Khentiri**: A rival courtier who sees Hersaîs's military authority as a threat to his own influence over the Per-Aá and who works to position civilian authority over military matters.
 
@@ -706,7 +706,7 @@ At a deeper level, Hersaîs fears chaos and loss of control, and he has organize
 
 2. **The Worthy Opponent**: A military commander from a neighboring realm arrives under a flag of truce with an unusual proposal: a treaty that would bind the two empires in mutual defense against a common enemy. The proposal is militarily sound and could strengthen the Empire, but it requires Hersaîs to admit that the neighboring realm—which he has always viewed as a potential enemy—is actually necessary for regional security. And this commander has previously defeated Hersaîs in a single combat duel, and though they fought honorably, Hersaîs has never forgotten the experience. He can support a treaty on its military merit alone, or let his pride and his conviction that the neighboring realm is a long-term threat prevent the alliance.
 
-3. **The Unstable Heir**: The Per-Aá's health begins to decline, and the question of succession becomes urgent. Hersaîs discovers that the Per-Aá's son, who would normally inherit, is mentally or emotionally unstable in ways that make him unsuitable for military authority. At the same time, Iry'pat Amenhotep begins positioning himself as an alternative successor, cultivating military support through promises of more aggressive expansionist policies. Hersaîs can support the legitimate heir despite his unfitness, back Iry'pat Amenhotep despite his ambitious nature, or find some other solution—all while aware that his decision will shape the Empire for decades to come.
+3. **The Unstable Heir**: The Per-Aá's health begins to decline, and the question of succession becomes urgent. Hersaîs discovers that the Per-Aá's son, who would normally inherit, is mentally or emotionally unstable in ways that make him unsuitable for military authority. At the same time, Iry'pat Ankhur begins positioning himself as an alternative successor, cultivating military support through promises of more aggressive expansionist policies. Hersaîs can support the legitimate heir despite his unfitness, back Iry'pat Ankhur despite his ambitious nature, or find some other solution—all while aware that his decision will shape the Empire for decades to come.
 
 4. **The Betrayal Within**: Hersaîs's most trusted lieutenant—a man he has trained, promoted, and mentored—is discovered to be working with enemies of the Empire, providing military intelligence in exchange for payment. The betrayal is devastating both personally and militarily. Hersaîs must determine the full extent of the compromise, whether other members of his household staff are also compromised, and how to rebuild the military's security without admitting publicly that his inner circle was infiltrated.
 

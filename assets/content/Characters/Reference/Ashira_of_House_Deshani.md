@@ -8,7 +8,7 @@ name:
   given: Ashira
   clan: of House Deshani
   aliases: []
-description: "A noblewoman of considerable taste and influence who has championed Viśvambhārākhila's products among the nobility."
+description: "A noblewoman of considerable taste and influence who has championed Vishvambhārākhila's products among the nobility."
 shortcode: ashiraofhousedeshani
 type: being
 data:

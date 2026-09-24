@@ -652,7 +652,7 @@ Thorsteinn is primarily motivated by a desire to preserve the quality and integr
 
 ### Enemies
 
-- **Artisan Corvus Brighthammer** - A younger glassworker (who is also trained in ceramics) who established a rival workshop and is actively promoting contemporary aesthetic and technical approaches that directly challenge traditional glassworking. Corvus has begun winning commissions from wealthy patrons seeking the newest work, which troubles Thorsteinn.
+- **Artisan Eldrik Vrathumakh** - A younger glassworker (who is also trained in ceramics) who established a rival workshop and is actively promoting contemporary aesthetic and technical approaches that directly challenge traditional glassworking. Eldrik has begun winning commissions from wealthy patrons seeking the newest work, which troubles Thorsteinn.
 - **The Merchants' Coalition of Modern Commerce** - A faction of younger traders and merchants promoting cheaper, imported glassware and contemporary design trends, actively undercutting Thorsteinn's market.
 
 ### Affiliations
@@ -664,7 +664,7 @@ Thorsteinn is primarily motivated by a desire to preserve the quality and integr
 
 1. **The Impossible Commission**: - A mysterious patron of great wealth approaches Thorsteinn Sólvargr with an extraordinary request: create a piece of glasswork that no one has ever successfully made before—something technically demanding that requires new methods to accomplish, but also something of great beauty that challenges his rigid aesthetic principles. The commission offers enough wealth to secure his family's future, but accepting requires him to embrace creative risk in ways he's avoided for decades.
 
-2. **The Apprentice's Betrayal**: - One of Thorsteinn's most accomplished apprentices, trained for years in his methods, announces that they're leaving to study under **Artisan Corvus**, seeking to learn contemporary techniques that Thorsteinn refuses to teach. The apprentice asks for Thorsteinn's blessing, but he refuses, viewing the defection as a betrayal of everything the apprenticeship represented. The crisis forces Thorsteinn to confront whether his resistance to change is wisdom or merely fear.
+2. **The Apprentice's Betrayal**: - One of Thorsteinn's most accomplished apprentices, trained for years in his methods, announces that they're leaving to study under **Artisan Eldrik**, seeking to learn contemporary techniques that Thorsteinn refuses to teach. The apprentice asks for Thorsteinn's blessing, but he refuses, viewing the defection as a betrayal of everything the apprenticeship represented. The crisis forces Thorsteinn to confront whether his resistance to change is wisdom or merely fear.
 
 3. **The Archaeological Fragment**: - While working with materials delivered to his workshop, Thorsteinn discovers fragments of ancient glasswork—masterpieces from centuries past that suggest technical methods and aesthetic approaches that seem completely foreign to what is known today. He becomes obsessed with understanding how these pieces were created, realizing that perhaps his entire approach to glassworking is based on incomplete knowledge, and that what he thought was established tradition might actually be a degradation of finer ancient practices.
 

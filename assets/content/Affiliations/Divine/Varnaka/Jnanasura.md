@@ -20,13 +20,13 @@ data:
   governance:
     model: council
     summary: >-
-      This god has no priesthood of its own. Varṇaka ordains into a sampradāya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to learning and the moment of intellectual breakthrough, attended by the Vidyā-Karanas, the scribes of divine knowledge, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
+      This god has no priesthood of its own. Varnaka ordains into a sampradāya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to learning and the moment of intellectual breakthrough, attended by the Vidyā-Karanas, the scribes of divine knowledge, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
     ranks:
       - level: 0
         title: Patita
         lore: excmmnctrnk
         description: >-
-          "Fallen"—put out of Varṇakan observance altogether, and received again by no house and no sampradāya.
+          "Fallen"—put out of Varnakan observance altogether, and received again by no house and no sampradāya.
       - level: 1
         title: Upāsaka
         lore: layfaithfulrnk
@@ -68,7 +68,7 @@ sohl: {}
 - **Domain:** Knowledge, learning, enlightenment, the discipline of study, the clarity granted before battle
 - **Symbol:** A radiant sun with an open book
 - **Pronunciation:** _GYAH-nah-soo-rah_
-- **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
+- **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
 Jñānasūra is the god of wisdom and of the work of the mind. The theology holds knowledge to be the sun of the inner life. Without it the soul is in darkness, and no virtue takes its proper form.
 
@@ -102,4 +102,4 @@ A Jñānasūran household keeps a reading-stand in its main room, and a book lie
 
 ### See Also
 
-- [[affiliation-varakpnthn|Varṇaka Pantheon]]
+- [[affiliation-varakpnthn|Varnaka Pantheon]]

@@ -13,15 +13,15 @@ data:
     - suvarnagirijnpd
   population: null
 name:
-  full: Parameshvara's Hermitage
+  full: Aráti's Hermitage
   aliases: []
 shortcode: suvhermitage
 packFolder: vedyara
 ---
 
-**Parameshvara's hermitage** is a cell and a walled yard high on [[place-goldmountain|the Gold Mountain]], above the panning grounds and off the path to the observation posts. **Parameshvara the Wise** lives in it. She is a holy woman of indeterminate age and a considerable reputation, and the reputation travels further than her address does.
+**Aráti's hermitage** is a cell and a walled yard high on [[place-goldmountain|the Gold Mountain]], above the panning grounds and off the path to the observation posts. **Aráti the Wise** lives in it. She is a holy woman of indeterminate age and a considerable reputation, and the reputation travels further than her address does.
 
-Ascetic traditions are respected across Vedyara and the devout keep those who follow them. Parameshvara is kept by the villages below, who leave what they bring at the gate of the yard and do not come in unless they are asked.
+Ascetic traditions are respected across Vedyara and the devout keep those who follow them. Aráti is kept by the villages below, who leave what they bring at the gate of the yard and do not come in unless they are asked.
 
 ## Who Comes
 

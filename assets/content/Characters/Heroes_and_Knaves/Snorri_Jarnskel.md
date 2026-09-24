@@ -602,7 +602,7 @@ Snorri stands 6'3" tall with a heavy build. He has tanned weathered skin, dark b
 
 ### Born into Chains
 
-Snorri was born to unfreedom. His parents were thralls on the estate of **Jarl Erik Bloodstone**, a minor noble of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] whose lands produced little of value except grain and suffering. Snorri's father died when he was eight, worked to death in the harvest season, and his mother disappeared five years later—sold to another jarl to settle debts. From his earliest memory, Snorri knew only the rhythms of agricultural labor, the constant threat of punishment, and the weight of absolute powerlessness.
+Snorri was born to unfreedom. His parents were thralls on the estate of **Jarl Hrandorv Hlirthendikh**, a minor noble of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] whose lands produced little of value except grain and suffering. Snorri's father died when he was eight, worked to death in the harvest season, and his mother disappeared five years later—sold to another jarl to settle debts. From his earliest memory, Snorri knew only the rhythms of agricultural labor, the constant threat of punishment, and the weight of absolute powerlessness.
 
 ### The Stirring of Rebellion
 
@@ -612,7 +612,7 @@ Since that day, Snorri has been marked as a troublemaker, assigned the worst tas
 
 ### Present Bondage
 
-Now thirty-one years old, Snorri represents an unique threat to his masters—strong enough to be valuable, intelligent enough to be dangerous, and rebellious enough to be constantly suspect. Jarl Erik would have sold him years ago, but Snorri's productivity remains too high to easily replace. Instead, he is watched, controlled, and kept perpetually on the edge of severe punishment. Yet something in his spirit remains unbroken.
+Now thirty-one years old, Snorri represents an unique threat to his masters—strong enough to be valuable, intelligent enough to be dangerous, and rebellious enough to be constantly suspect. Jarl Hrandorv would have sold him years ago, but Snorri's productivity remains too high to easily replace. Instead, he is watched, controlled, and kept perpetually on the edge of severe punishment. Yet something in his spirit remains unbroken.
 
 ## Psyche
 
@@ -648,7 +648,7 @@ Snorri has no patrons in the traditional sense. His masters view him as property
 
 ### Enemies
 
-- **Jarl Erik Bloodstone**: His nominal master, a man more interested in profit than cruelty, but nonetheless the embodiment of the system that enslaves him. Jarl Erik views Snorri as a potentially valuable asset that is becoming too dangerous.
+- **Jarl Hrandorv Hlirthendikh**: His nominal master, a man more interested in profit than cruelty, but nonetheless the embodiment of the system that enslaves him. Jarl Hrandorv views Snorri as a potentially valuable asset that is becoming too dangerous.
 - **Haldor, the New Overseer**: The replacement for Hrollaug, and no less cruel. Haldor treats Snorri with particular savagery, viewing him as a threat that must be constantly suppressed.
 - **The System Itself**: Snorri's true enemy is the legal and social structure of thralldom that permits his bondage. He sees every noble, every priest who accepts the status quo, as complicit.
 
@@ -664,6 +664,6 @@ Snorri is forbidden from formal associations, but he maintains unofficial connec
 
 3. **The Raid of the Unfree**: Rumors speak of a band of escaped thralls forming a guerrilla force in the mountain passes, striking at caravans and freeing enslaved peoples by force. They seek Snorri, believing his tactical mind and strength could transform their band from a nuisance into a genuine threat. He is approached with an offer to join—but doing so would sign his death warrant if captured, and would violate the sacred law in ways that might curse him with Týr.
 
-4. **The Jarl's Ambitious Son**: Jarl Erik's younger son, **Ivar the Scholar**, returns from studies in distant cities with revolutionary ideas about agricultural reform and labor management. He views Snorri not as property but as a potential collaborator and teacher. His interest in Snorri is genuine but dangerous—it could lead either to transformation of the estate or to Snorri being executed as a corrupting influence on the heir.
+4. **The Jarl's Ambitious Son**: Jarl Hrandorv's younger son, **Ivar the Scholar**, returns from studies in distant cities with revolutionary ideas about agricultural reform and labor management. He views Snorri not as property but as a potential collaborator and teacher. His interest in Snorri is genuine but dangerous—it could lead either to transformation of the estate or to Snorri being executed as a corrupting influence on the heir.
 
 5. **The Slave's Justice**: When a thrall woman is executed for theft (a piece of bread taken in desperation), Snorri reaches his breaking point. An opportunity presents itself: the evidence against her was falsified by the overseer in an act of personal cruelty. Snorri could expose this, potentially creating a legal precedent for thrall defense, but doing so would require him to become visible in the system—a move that would either destroy that system or destroy him.

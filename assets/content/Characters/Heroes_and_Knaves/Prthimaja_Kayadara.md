@@ -666,7 +666,7 @@ Prthîmâja seeks to create lasting beauty that outlasts human years, objects th
 
 - **Kalmesh the Ambitious**: A younger jeweler of growing skill who views Prthîmâja as an obstacle to his own ambitions. Kalmesh spreads rumors that Prthîmâja's new techniques are merely fashionable affectations, that his reputation exceeds his actual skill. He undercuts prices aggressively and has begun poaching Prthîmâja's apprentices.
 
-- **Maharaja Vikrama's Estate Administrators**: After Vikrama's death, his heirs have demanded Prthîmâja return or provide compensation for an extraordinary piece that was commissioned but never completed. The administrators are pursuing legal action, claiming Prthîmâja stole materials and payment without delivering the promised work. Prthîmâja abandoned the piece because he could not achieve the vision he promised, but the administrators view this as simple theft.
+- **Maharaja Devànûra's Estate Administrators**: After Devànûra's death, his heirs have demanded Prthîmâja return or provide compensation for an extraordinary piece that was commissioned but never completed. The administrators are pursuing legal action, claiming Prthîmâja stole materials and payment without delivering the promised work. Prthîmâja abandoned the piece because he could not achieve the vision he promised, but the administrators view this as simple theft.
 
 - **The Guild Council's Conservative Faction**: Certain guild masters view Prthîmâja's new methods with suspicion, fearing that his experimental techniques violate traditional craft standards and compromise the guild's integrity. They have moved to restrict his teaching and limit access to the finest raw materials.
 

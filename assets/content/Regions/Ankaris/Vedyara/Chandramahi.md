@@ -3,7 +3,7 @@ tags:
   - river
   - trading
   - inland
-description: "The westernmost of the four great rivers—from the ice under Sūryaśikhara through the gem-road valleys to the delta and the city-state that lives off it."
+description: "The westernmost of the four great rivers—from the ice under Sūryashikhara through the gem-road valleys to the delta and the city-state that lives off it."
 type: place
 subType: feature
 data:
@@ -20,7 +20,7 @@ shortcode: chandrmahi
 packFolder: vedyara
 ---
 
-The **Chandramahī** rises at [[place-chandrprbh|Chandraprabhava]], under [[place-suryashkhr|Sūryaśikhara]], and runs some twelve hundred miles south and west to a delta on the southern sea. It is the shortest of the four great rivers and the richest. The country it crosses is the gem country, and the city at its mouth has spent four centuries making sure nothing else is.
+The **Chandramahī** rises at [[place-chandrprbh|Chandraprabhava]], under [[place-suryashkhr|Sūryashikhara]], and runs some twelve hundred miles south and west to a delta on the southern sea. It is the shortest of the four great rivers and the richest. The country it crosses is the gem country, and the city at its mouth has spent four centuries making sure nothing else is.
 
 Boats work the river from the delta up to the last of the terraces below the highland kingdom. Above that it is a mountain water and carries nothing but log-rafts.
 

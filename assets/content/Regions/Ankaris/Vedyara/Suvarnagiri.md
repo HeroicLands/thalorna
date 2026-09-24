@@ -14,7 +14,7 @@ data:
     - suvarnagirijnpd
   population: 2400
 name:
-  full: Suvarṇagiri
+  full: Suvarnagiri
   aliases: []
 shortcode: suvarnagiri
 packFolder: vedyara

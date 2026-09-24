@@ -4,10 +4,10 @@ tags:
   - soldiery
   - character
 name:
-  full: Dharmàpala Vimuktaṇa
+  full: Dharmàpala Vimuktana
   title: ""
   given: Dharmàpala
-  clan: Vimuktaṇa
+  clan: Vimuktana
   home: dhanurkota
   aliases: []
 packFolder: ankarisvedyara
@@ -577,7 +577,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[dhrmplvmkt|Dharmàpala Vimuktaṇa]]{float: top-left}
+![[dhrmplvmkt|Dharmàpala Vimuktana]]{float: top-left}
 
 Dharmàpala stands 6'1" tall with a medium build. He has warm golden brown skin, dark black hair, and dark brown eyes. His features include an oval face, a broad nose, a narrow chin, an expressive mouth, warm golden brows, and high cheeks. He has a tattoo of a flower on his ankle.
 
@@ -627,9 +627,9 @@ Dharmàpala is motivated by the pursuit of mastery—the relentless refinement o
 
 ### Enemies
 
-- **Captain Rajesh of the City Guard**: A corrupt official who views Dharmàpala's independence from his authority as insult and has made his removal a personal crusade, generating false charges and attempting to cut off his legitimate work.
+- **Captain Nàgarîtha of the City Guard**: A corrupt official who views Dharmàpala's independence from his authority as insult and has made his removal a personal crusade, generating false charges and attempting to cut off his legitimate work.
 - **The Crimson Syndicate**: A criminal organization that attempted to hire Dharmàpala for unforgivable purposes; when he refused and reported them to city authorities, they marked him for death and have pursued this vendetta with cold determination.
-- **Keshav the Knife**: A rival bodyguard and occasional guild-mate who views Dharmàpala as having stolen commissions that should have been his, and who harbors deep resentment over a past failure to protect a client where Dharmàpala succeeded.
+- **Kàndhara the Knife**: A rival bodyguard and occasional guild-mate who views Dharmàpala as having stolen commissions that should have been his, and who harbors deep resentment over a past failure to protect a client where Dharmàpala succeeded.
 
 ### Affiliations
 
@@ -643,6 +643,6 @@ Dharmàpala is motivated by the pursuit of mastery—the relentless refinement o
 
 3. **The Flower's Secret**: The flower tattoo on Dharmàpala's ankle is recognized by an unexpected visitor—a woman who bears an identical mark and claims to be connected to a vow he made years ago, a vow he has never openly acknowledged. She arrives with news that someone is hunting everyone bearing the flower mark, systematically eliminating them. She believes Dharmàpala can help her uncover why, and what oath was sworn so many years ago. Accepting her help would mean confronting the past he has spent years suppressing and potentially compromising the emotional distance that allows him to function.
 
-4. **The Corrupted Guard Captain**: Captain Rajesh of the City Guard, who has pursued Dharmàpala with vendetta-like intensity, suddenly approaches him with a shocking revelation—Rajesh himself is compromised, under threat by the Crimson Syndicate, and forced to pursue false charges against Dharmàpala. Rajesh offers a desperate bargain: help him escape the Syndicate's control, and he will clear Dharmàpala's name and cease his persecution. It's clearly a trap, but Rajesh's desperation appears real. Either this is a legitimate opportunity for redemption or an elaborate setup designed to finally deliver him to his enemies.
+4. **The Corrupted Guard Captain**: Captain Nàgarîtha of the City Guard, who has pursued Dharmàpala with vendetta-like intensity, suddenly approaches him with a shocking revelation—Nàgarîtha himself is compromised, under threat by the Crimson Syndicate, and forced to pursue false charges against Dharmàpala. Nàgarîtha offers a desperate bargain: help him escape the Syndicate's control, and he will clear Dharmàpala's name and cease his persecution. It's clearly a trap, but Nàgarîtha's desperation appears real. Either this is a legitimate opportunity for redemption or an elaborate setup designed to finally deliver him to his enemies.
 
 5. **The Master's Test**: An elderly master-at-arms from the mercenary tradition arrives in Vedyara claiming to be seeking Dharmàpala for a final and impossible commission—a student who demonstrates the flowers-mark must travel to a remote temple and compete in a series of trials against other marked warriors. Supposedly, only one will emerge, and that one will be freed from the mark forever, released from the unspoken vow. The master claims this is tradition, a path offered to those bearing the flower once each generation. Dharmàpala's instincts scream trap, but the thought of freedom from the vow—of finally understanding its origins—pulls him toward participation despite every tactical instinct screaming danger.

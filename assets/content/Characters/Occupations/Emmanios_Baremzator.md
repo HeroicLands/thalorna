@@ -595,7 +595,7 @@ He is beginning to attract attention from radical reform movements within the pr
 
 **Patrons:** Mother Celene, an elderly priestess of Flórania in the Temple hierarchy, maintains institutional support for Émmanîôs's circuit, despite her private reservations about his radical sympathies. A shadowy figure known only as "the Gathering" appears to coordinate with Émmanîôs about the moving of grain—whether ally or potential manipulator is unclear even to Émmanîôs.
 
-**Enemies:** The Temple's conservative faction views Émmanîôs as a threat to institutional stability and would remove him if they could do so without generating rural unrest. Bishop Morivan, an ambitious ecclesiastic in the capital, has marked Émmanîôs as a heretic-in-waiting and gathers evidence against him. Greedy regional lords see his charitable work as an obstacle to their own squeezing of the villages. A grain merchant named Solon, who has profited from village scarcity, despises Émmanîôs for disrupting the desperation that makes the poor easy prey.
+**Enemies:** The Temple's conservative faction views Émmanîôs as a threat to institutional stability and would remove him if they could do so without generating rural unrest. Bishop Morivan, an ambitious ecclesiastic in the capital, has marked Émmanîôs as a heretic-in-waiting and gathers evidence against him. Greedy regional lords see his charitable work as an obstacle to their own squeezing of the villages. A grain merchant named Euthârês, who has profited from village scarcity, despises Émmanîôs for disrupting the desperation that makes the poor easy prey.
 
 ## Plot Hooks
 

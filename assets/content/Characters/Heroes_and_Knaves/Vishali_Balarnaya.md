@@ -4,10 +4,10 @@ tags:
   - tradesfolk
   - character
 name:
-  full: Vishali Bâlarṇaya
+  full: Vishali Bâlarnaya
   title: ""
   given: Vishali
-  clan: Bâlarṇaya
+  clan: Bâlarnaya
   home: rajapur
   aliases: []
 packFolder: ankarisvedyara
@@ -584,7 +584,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vishalblry|Vishali Bâlarṇaya]]{float: top-left}
+![[vishalblry|Vishali Bâlarnaya]]{float: top-left}
 
 Vishali stands 5'8" tall with a light build. She has rich brown skin, dark black hair, and warm brown eyes. Her features include a round face, a slightly arched nose, a gentle jawline, generous lips, and rich brows. She has a scar on her right elbow.
 
@@ -638,7 +638,7 @@ Vishali is driven by a contradictory pair of impulses: a desire for freedom so a
 
 ### Patrons
 
-- **Lord Vikram of House Deshani**: A broad-minded noble of one of the Vedyara city-states who has hired Vishali multiple times for court performances. He appreciates her boundary-pushing humor and has developed a real, if platonic, fondness for her. His support provides her with regular employment and credibility.
+- **Lord Jayakâra of House Deshani**: A broad-minded noble of one of the Vedyara city-states who has hired Vishali multiple times for court performances. He appreciates her boundary-pushing humor and has developed a real, if platonic, fondness for her. His support provides her with regular employment and credibility.
 - **Traveling Fair Circuit**: The various festival organizers, merchants' guilds, and market masters throughout the Vedyara territories who regularly book Vishali for performances. These relationships are transactional but reliable.
 
 ### Enemies

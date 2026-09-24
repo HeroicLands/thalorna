@@ -102,7 +102,7 @@ At the apex sits the **High Speaker of the Collective**, elected by the kulinas 
 
 - **The labor question.** Reform-minded younger kulinas have proposed substantial improvements to mining labor conditions; the older houses, whose fortunes were built on the present system, resist. The reform faction has not yet found a champion willing to risk his standing.
 - **The expansion question.** The Foreign Trade Committee is divided between those who wish to push aggressively into Amradad's caravan markets and those who fear retaliation from the [[affiliation-sultntmrdd|Sultanate]] and prefer the present arrangement of careful cooperation.
-- **The compromised members.** Several houses are known or suspected to be in arrangements with the [[affiliation-twilighths|The Twilight House]] or the [[affiliation-adanasreni|Ādānaśreṇī]] beyond what the Collective's standing rules permit. Investigations have begun and stalled multiple times.
+- **The compromised members.** Several houses are known or suspected to be in arrangements with the [[affiliation-twilighths|The Twilight House]] or the [[affiliation-adanasreni|Ādānashrenī]] beyond what the Collective's standing rules permit. Investigations have begun and stalled multiple times.
 
 ## Relations
 

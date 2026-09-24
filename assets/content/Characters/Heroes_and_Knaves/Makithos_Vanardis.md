@@ -644,8 +644,8 @@ Màkîthos is driven by a vision of theater as the highest form of human artisti
 
 ### Enemies
 
-- **Kritikos the Savage**: The city's most influential theater critic, whose scathing reviews of Màkîthos's early works were instrumental in establishing the controversial reputation that has followed him; they share a complex relationship of mutual contempt.
-- **Lysias Vánarthes**: A former collaborator and rival playwright whose prospects Màkîthos effectively destroyed through public criticism and sabotage; Lysias now works to undermine every project Màkîthos attempts.
+- **Díthranôs the Savage**: The city's most influential theater critic, whose scathing reviews of Màkîthos's early works were instrumental in establishing the controversial reputation that has followed him; they share a complex relationship of mutual contempt.
+- **Délgôs Vánarthes**: A former collaborator and rival playwright whose prospects Màkîthos effectively destroyed through public criticism and sabotage; Délgôs now works to undermine every project Màkîthos attempts.
 
 ### Affiliations
 
@@ -661,6 +661,6 @@ Màkîthos is driven by a vision of theater as the highest form of human artisti
 
 3. **The Impossible Performance**: Màkîthos creates a play so technically complex and emotionally demanding that no traditional theatrical company can mount it. He approaches the party (or characters the party recruits) to become his actors, offering generous compensation but demanding absolute commitment. As they rehearse, they discover that the play is more than art—it contains elements of real ritual magic, embedded within the script in ways Màkîthos himself may not fully understand. The performance itself becomes dangerous, with each rehearsal bringing participants closer to a real transformation of the mind and actual magical consequence.
 
-4. **The Critic's Revenge**: Kritikos the critic dies under mysterious circumstances, and evidence suggests Màkîthos may be responsible. As the party investigates, they uncover a complex relationship between artist and critic far deeper than rivalry—perhaps a real friendship twisted by misunderstanding, or a collaboration that went tragically wrong. The resolution requires untangling truth from performance and determining whether Màkîthos is guilty of murder or merely guilty of living a life so theatrical that any event becomes susceptible to dramatic reinterpretation.
+4. **The Critic's Revenge**: Díthranôs the critic dies under mysterious circumstances, and evidence suggests Màkîthos may be responsible. As the party investigates, they uncover a complex relationship between artist and critic far deeper than rivalry—perhaps a real friendship twisted by misunderstanding, or a collaboration that went tragically wrong. The resolution requires untangling truth from performance and determining whether Màkîthos is guilty of murder or merely guilty of living a life so theatrical that any event becomes susceptible to dramatic reinterpretation.
 
 5. **The Actor's Curse**: One of Màkîthos's most devoted performers begins to show signs of a disordered mind, unable to distinguish between the complex characters he performs and his own identity. As the condition worsens, other members of the theatrical company report similar experiences. Màkîthos suspects that his plays have become so searching and emotionally demanding that they are damaging the minds of those who perform them. The party must investigate whether this is real danger or theatrical delusion, and whether the cure lies in a physician's care, in revising the plays, or in something more occult entirely.

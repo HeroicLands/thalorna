@@ -45,7 +45,7 @@ data:
         description: >-
           "Keeper of Sleep"—acolytes who attend the dream-chambers and keep watch over sleeping petitioners.
       - level: 3
-        title: Darśaka
+        title: Darshaka
         lore: priestrnk
         description: >-
           "Seer"—the working priesthood, trained in dream-reading, meditation, and the careful recording of the dreams brought by the faithful.
@@ -57,7 +57,7 @@ data:
     offices:
       Svapna-Ácārya: >-
         "Master of Dreams"—senior priest of a monastery or temple; almost always a proven oneiromancer of many years' standing.
-      Darśaka: >-
+      Darshaka: >-
         "Seer"—the working priesthood, trained in dream-reading, meditation, and the careful recording of the dreams brought by the faithful.
       Nidrāpāla: >-
         "Keeper of Sleep"—acolytes who attend the dream-chambers and keep watch over sleeping petitioners.
@@ -92,7 +92,7 @@ sohl: {}
 - **Deities Venerated:** [[affiliation-svapnadevas|Svapnadēvas]] (the Dreaming Host) as primary; through them, the elder [[lore-goddreams|The God of Dreams]] is revered but not named; [[affiliation-kalavrata|Kālavrata]] honored as a companion presence, since the dead and the dream share the threshold
 - **Emphasis:** Mystical, contemplative, minority sect; oneiromancy, visionary counsel, healing of disturbed minds
 - **Pronunciation:** _SWAP-nah-SAH-ree sa-MAH-jah_
-- **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
+- **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
 The **Svapnasāri-samāja** is a small, respected mystical sect centered on the [[affiliation-svapnadevas|Svapnadēvas]], the Dreaming Host. Through the Host, the sect holds, the dream-power of [[lore-goddreams|The God of Dreams]] reaches the world, and the greater deity is never named directly in its rites. Its members are the oneiromancers and the keepers of the dream-registers. Vedyaran rulers, generals and merchants turn to them when a question has passed beyond what ordinary counsel can settle.
 
@@ -103,7 +103,7 @@ The sect's relationship with the orthodox Trimūrti-sampradāya is cautious but 
 ### Clergy
 
 - **Svapna-Ácārya** ("Master of Dreams")—the senior priest of a Samāja monastery or temple; almost always a proven oneiromancer of many years' standing.
-- **Darśaka** ("Seer")—the working priesthood; trained in dream-reading, meditation, and the careful recording of the dreams brought by the faithful.
+- **Darshaka** ("Seer")—the working priesthood; trained in dream-reading, meditation, and the careful recording of the dreams brought by the faithful.
 - **Nidrāpāla** ("Keeper of Sleep")—acolytes who attend the dream-chambers of the monastery and keep watch over sleeping petitioners.
 
 **Key Skills:** Trance, Astrology, Folklore, Herblore, Physician, Empathy, Singing
@@ -112,7 +112,7 @@ The sect's relationship with the orthodox Trimūrti-sampradāya is cautious but 
 
 **Low Ceremonies:**
 
-- **The Dawn Recitation**—a daily rite in which dreamers who have slept at the monastery recount their dreams to a Darśaka, who records the substance and offers an initial reading.
+- **The Dawn Recitation**—a daily rite in which dreamers who have slept at the monastery recount their dreams to a Darshaka, who records the substance and offers an initial reading.
 - **The Dream-Stone Blessing**—performed for petitioners who wish to take a consecrated dream-stone home with them.
 
 **High Ceremonies:**
@@ -127,16 +127,16 @@ The sect's relationship with the orthodox Trimūrti-sampradāya is cautious but 
 
 ### Ordeals for Favor
 
-- **The Seven-Night Vigil**—seven consecutive nights of dream-vigil, during which the aspirant sleeps lightly in the monastery chamber and reports each morning on the night's dreams. Few aspirants complete it without the intervention of a Darśaka.
+- **The Seven-Night Vigil**—seven consecutive nights of dream-vigil, during which the aspirant sleeps lightly in the monastery chamber and reports each morning on the night's dreams. Few aspirants complete it without the intervention of a Darshaka.
 - **The Mirror Year**—a year spent serving in a monastery's divination chamber, reading the silver mirror for all petitioners who come, without refusing a reading and without accepting fee.
 
 ### Orders
 
-- **Order of the Crescent**—an itinerant order of Darśakas who travel the Vedyaran cities, offering dream-readings and prophetic counsel to those who cannot afford the monastery's fees.
+- **Order of the Crescent**—an itinerant order of Darshakas who travel the Vedyaran cities, offering dream-readings and prophetic counsel to those who cannot afford the monastery's fees.
 - **Council of the Dream**—a senior council of oneiromancers who adjudicate disputed readings, maintain the great dream-registers of the tradition, and advise on matters that pass from dream into consequential civic decision.
 
 ### Geographic Presence
 
-Established Samāja monasteries are found in the northwest of [[place-vedyarargn|Vedyara Region]], where the [[place-graznmntns|Grazian]] wall runs down into the desert-margin of the [[place-dunharargn|Dunhara]]: in the broken uplands there, at a handful of edge-towns along the march road, and one at a Pass-Shrine on the westernmost of the crossings. The rest stand in the quiet quarters of the oldest cities. Every major city has at least one Samāja-trained Darśaka in civic residence, often attached to a royal or noble household.
+Established Samāja monasteries are found in the northwest of [[place-vedyarargn|Vedyara Region]], where the [[place-graznmntns|Grazian]] wall runs down into the desert-margin of the [[place-dunharargn|Dunhara]]: in the broken uplands there, at a handful of edge-towns along the march road, and one at a Pass-Shrine on the westernmost of the crossings. The rest stand in the quiet quarters of the oldest cities. Every major city has at least one Samāja-trained Darshaka in civic residence, often attached to a royal or noble household.
 
 The march suits the sect. It is the one part of the subcontinent where the orthodox hierarchy's public religion sits lightly, the traffic is caravan traffic that comes and goes, and a monastery can keep its own hours without anyone in a capital taking an interest.

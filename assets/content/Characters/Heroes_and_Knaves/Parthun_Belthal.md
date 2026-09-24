@@ -672,7 +672,7 @@ Párthun seeks to consolidate his power and expand his influence to the highest 
 
 ### Enemies
 
-- **Magistrate Helvren Blackstone**: A judge who has clashed with Párthun on numerous occasions over the interpretation of law and regulation. She views him as a dangerous influence on the administrative system and would gladly see him removed from his position.
+- **Magistrate Helvren Zálreth**: A judge who has clashed with Párthun on numerous occasions over the interpretation of law and regulation. She views him as a dangerous influence on the administrative system and would gladly see him removed from his position.
 
 - **The Office of Civic Integrity**: An official body tasked with investigating corruption in government. Párthun has managed to stay ahead of their inquiries so far, but the office has begun to focus attention on his affairs with increasing intensity.
 

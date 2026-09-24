@@ -8,7 +8,7 @@ name:
   given: Vasilis
   clan: ""
   aliases: []
-description: "A rival merchant whose economic interests frequently conflict with Viśvambhārākhila's."
+description: "A rival merchant whose economic interests frequently conflict with Vishvambhārākhila's."
 shortcode: vasilis2
 type: being
 data:

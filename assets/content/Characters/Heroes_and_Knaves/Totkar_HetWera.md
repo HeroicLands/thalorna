@@ -657,13 +657,13 @@ Totkar is driven by an almost religious commitment to justice and truth—not ju
 
 ### Patrons
 
-- **Priestess Seshat**: High priestess of Thōth's temple and a fellow scholar of law and wisdom; she has become both spiritual advisor and patron, commissioning Totkar to defend temple interests and consulting with him on matters of religious jurisprudence.
+- **Priestess Meritâna**: High priestess of Thōth's temple and a fellow scholar of law and wisdom; she has become both spiritual advisor and patron, commissioning Totkar to defend temple interests and consulting with him on matters of religious jurisprudence.
 
 - **The Widow Nebuia**: A client whose case Totkar defended without fee years ago, resulting in restoration of her family's property and dignity; she has become his patron and supporter, regularly bringing him additional cases and commending his work to others.
 
 - **Lord Magistrate Khenti**: The city's principal judicial authority who respects Totkar deeply; though officially neutral, Khenti consistently favors Totkar in scheduling and procedural matters, and regularly consults him on questions of legal interpretation.
 
-- **Master Scribe Amenhotep**: A former rival who has come to respect Totkar's intellect; they maintain a collegial relationship and occasionally collaborate on legal matters of particular complexity.
+- **Master Scribe Seshotep**: A former rival who has come to respect Totkar's intellect; they maintain a collegial relationship and occasionally collaborate on legal matters of particular complexity.
 
 ### Enemies
 

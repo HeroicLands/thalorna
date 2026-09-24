@@ -666,7 +666,7 @@ Thorlákr burns with a singular focus: freedom. That freedom may come through le
 ### Enemies
 
 - **Overseer Kalthor the Merciless** - The brutal taskmaster directly responsible for most of Thorlákr's torments. Kalthor takes personal pleasure in crushing the spirit of the enslaved and has specifically targeted Thorlákr for additional punishment because of his refusal to break.
-- **Lord Magistrate Blackmane** - The corrupt official who orchestrated Thorlákr's enslavement, initially to silence him about the tunnel collapse, and who now maintains vested financial interest in keeping him enslaved and controllable.
+- **Lord Magistrate Gnartharukh** - The corrupt official who orchestrated Thorlákr's enslavement, initially to silence him about the tunnel collapse, and who now maintains vested financial interest in keeping him enslaved and controllable.
 - **The Nordheim Mining Consortium** - The collective enterprise that profits from slave labor and has institutional interest in maintaining Thorlákr's subjugation.
 
 ### Affiliations
@@ -679,7 +679,7 @@ Thorlákr burns with a singular focus: freedom. That freedom may come through le
 
 2. **The Tunnel Collapse Opportunity**: - Thorlákr discovers evidence of structural weakness in one of the primary mine shafts—the very same tunnel system used by the overseers for quick movement and treasure transport. He realizes that a deliberate collapse at exactly the right moment could cut off the guards' retreat route, but it would also risk the lives of enslaved workers still in the upper levels. He can attempt a mass breakout despite the danger, or wait for a less risky opportunity that might never come.
 
-3. **The Visiting Dignitary's Judgment**: - A representative from Nordheim's central government arrives to conduct an "inspection" of the mines. Thorlákr recognizes that this could be his single opportunity to formally present evidence of corruption and illegal enslavement—if he can reach the dignitary and convince them of the truth without being silenced first. The risk is enormous: if **Lord Magistrate Blackmane** learns of his intentions, Thorlákr might "disappear" into the deep mines permanently. His companions can help him stage a desperate appeal to authority or push for a more violent solution.
+3. **The Visiting Dignitary's Judgment**: - A representative from Nordheim's central government arrives to conduct an "inspection" of the mines. Thorlákr recognizes that this could be his single opportunity to formally present evidence of corruption and illegal enslavement—if he can reach the dignitary and convince them of the truth without being silenced first. The risk is enormous: if **Lord Magistrate Gnartharukh** learns of his intentions, Thorlákr might "disappear" into the deep mines permanently. His companions can help him stage a desperate appeal to authority or push for a more violent solution.
 
 4. **The Revolution in the Depths**: - Other enslaved groups in nearby mines begin coordinating, inspired by rumors of Thorlákr's unbreakable spirit and refusals to submit. A charismatic escaped slave named **Ketta Frostborn** contacts him with a plan: coordinate a simultaneous uprising across multiple mines to overwhelm the guards through sheer numbers. Thorlákr must weigh the possibility of liberation for thousands against the near-certainty that the attempt will be crushed and thousands will die in the attempt.
 
