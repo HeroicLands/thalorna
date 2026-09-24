@@ -92,7 +92,7 @@ data:
   economy:
     - lore-bartercnmy
   lore:
-    - humanflk
+    - osketclt
   parents: []
   relations:
     vindhyalay: unaligned
