@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "The Gatekeeper of Death in the Varṇaka pantheon, who receives the soul at the end of an incarnation and sets it on the next."
+description: "The Gatekeeper of Death in the Varnaka pantheon, who receives the soul at the end of an incarnation and sets it on the next."
 type: lore
 subType: deity
 name:
@@ -22,4 +22,4 @@ His black conch sounds at every threshold a Vedyari household keeps, at birth, a
 
 [[affiliation-rasikara|Rásikara]]'s fire unmakes the body. Kālavrata takes what is left when the cremation-fires end, and his conch calls the soul on.
 
-[[place-kalashkhra|Kālaśikhara]] is his mountain, the one great summit of the Eastern Reach the Pass-Shrines have never built on. Its upper faces are bare, and snow will not hold on them. No shrine stands there, and none is thought needed. The older explanation, that the peak is already his and wants no house built on it, is younger than the silence it explains, and nobody has offered a better one.
+[[place-kalashkhra|Kālashikhara]] is his mountain, the one great summit of the Eastern Reach the Pass-Shrines have never built on. Its upper faces are bare, and snow will not hold on them. No shrine stands there, and none is thought needed. The older explanation, that the peak is already his and wants no house built on it, is younger than the silence it explains, and nobody has offered a better one.

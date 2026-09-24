@@ -91,7 +91,7 @@ sohl: {}
 - **Deities Venerated:** [[affiliation-rasikara|Rásikara]] as primary focus; [[affiliation-vyahrati|Vyāhrati]] honored as the gentle complement of the purging fire
 - **Emphasis:** Ascetic, reformist, mendicant; personal and communal purification through the fire proper to each task
 - **Pronunciation:** _AHG-nee PAN-thah_
-- **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
+- **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
 The **Agnī-panthā** is an ascetic, reformist sect centered on [[affiliation-rasikara|Rásikara]]'s purging fire. The Trimūrti-sampradāya keeps Rásikara in balance with the other forms. The Agnī-panthā holds that a city, a household or a soul in decline wants the discipline of the flame, and that the orthodox tradition is too comfortable to confront the lesser sins of Vedyaran civic life. Its priests are known as uncomfortable guests and as indispensable ones.
 

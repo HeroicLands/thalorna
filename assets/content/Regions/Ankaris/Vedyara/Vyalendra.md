@@ -23,7 +23,7 @@ data:
         title: Outcaste
         lore: excmmnctrnk
         description: >-
-          Placed outside the varṇa order by transgression or by birth, excluded from the wells,
+          Placed outside the tharana by transgression or by birth, excluded from the wells,
           the temples and the courts.
       - level: 1
         title: Bonded Servant
@@ -32,27 +32,27 @@ data:
           Bound by debt or birth to a household, owing labor and lacking the standing to hold
           land.
       - level: 2
-        title: Śūdra
+        title: Karmāja
         lore: commonerrnk
         description: >-
-          Of the serving varṇa—cultivators, artisans and laborers who hold their place by
+          Born to the serving tharana—cultivators, artisans and laborers who hold their place by
           work rather than by rite.
       - level: 3
-        title: Vaiśya
+        title: Dhanāja
         lore: gentryrnk
         description: >-
-          Of the productive varṇa—merchants, dyers and cloth-factors, whose houses carry the
+          Born to the productive tharana—merchants, dyers and cloth-factors, whose houses carry the
           city's trade and pay for its walls.
       - level: 4
-        title: Kṣatriya
+        title: Senāja
         lore: warriorrnk
         description: >-
-          Of the warrior varṇa, bearing arms by right and owing service in the city watch.
+          Born to the warrior tharana, bearing arms by right and owing service in the city watch.
       - level: 5
-        title: Brāhmaṇa
+        title: Ritūja
         lore: priestrnk
         description: >-
-          Of the priestly varṇa, keeper of rite and learning, without whose sanction no act of
+          Born to the priestly tharana, keeper of rite and learning, without whose sanction no act of
           the Loom-Council is complete.
       - level: 6
         title: Loom-Master
@@ -76,7 +76,7 @@ data:
       Triyācārya: >-
         Senior priest of the city's Trimūrti temple, who keeps the rites of all three forms and
         whose sanction the Council's acts require.
-      Koṣādhyakṣa: >-
+      Koshādhyaksha: >-
         Superintendent of the city treasury, answerable for the cloth-tax, the warehouse dues
         and the Council's reserve.
       Dūta: >-
@@ -136,4 +136,4 @@ Vyālendra uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered th
 - [[place-vyalendra3|Vyālendra]]—The city itself
 - [[place-nilatira|Nīlatīra]]—the port the cloth leaves by
 - [[skill-vedyarlng|Vedyari]]—Naming tradition
-- [[affiliation-varakpnthn|Varṇaka Pantheon]]—Religious tradition
+- [[affiliation-varakpnthn|Varnaka Pantheon]]—Religious tradition

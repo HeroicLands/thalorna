@@ -219,7 +219,7 @@ position that it does not exist is the least embarrassing one available.
   intermittently, which is the single greatest threat to the Court's standing at home.
 - **[[affiliation-velvethand|The Velvet Hand]].** The mainland counterpart, and a buyer. Ordo secrets
   command extraordinary prices, and the Court is one of very few sellers.
-- **[[affiliation-adanasreni|The Ādānaśreṇī]].** No contact to speak of, and a certain professional
+- **[[affiliation-adanasreni|The Ādānashrenī]].** No contact to speak of, and a certain professional
   curiosity: both are criminal bodies that survive by being institutions rather than gangs, and each
   regards the other's solution to the problem as unworkable.
 

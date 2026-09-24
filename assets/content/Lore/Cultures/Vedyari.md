@@ -13,7 +13,7 @@ The Vedyari are one people across a map that has never been one state. A scholar
 
 ## The Wrist-Line
 
-A Vedyari is named eight days after birth, and the naming leaves a mark: two signs in the old abjad, cut small inside the left wrist. The first names the varna, the second the kula—the lineage within it. An Outcaste's is struck through with a single stroke, and a child born outside the order is marked so at the same age as any other.
+A Vedyari is named eight days after birth, and the naming leaves a mark: two signs in the old abjad, cut small inside the left wrist. The first names the tharana, the order a person is born to; the second the kula, the lineage within it. An Outcaste's is struck through with a single stroke, and a child born outside the order is marked so at the same age as any other.
 
 The mark is the document. A temple gate asks to see the wrist, and so does a sabhā before it seats a speaker, a court before it hears a party, and a bride's household before it agrees to anything. None of them asks for a word about it; they read it themselves.
 
@@ -27,21 +27,21 @@ The order runs from outside it upward, and every station is a station a person c
 | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------ | ----------------------------- | ---------------------------------------------------- |
 | Outcaste                            | not in orthodox country, and is killed for it; freely in the pass-kingdoms, on a deck, and above the last Pass-Shrine | no                                              | none of the three              | no                            | anywhere nobody asks                                 |
 | Bonded Servant                      | as the household's man, carrying its token                                                                            | no                                              | the household's, never his own | no                            | only with the bond-token; without it he is a runaway |
-| Shūdra                              | as a levy, or by an academy's grant                                                                                   | use-rights in a janapada, never in his own name | all three                      | when his village's turn comes | on his sabhā's leave, or his master's                |
-| Vaishya                             | by right, and is answered as a gentleman                                                                              | yes                                             | all three                      | yes                           | freely, on a Collective letter                       |
-| Kshatriya                           | by right, and owes service in the host                                                                                | yes                                             | all three                      | yes, on war                   | freely                                               |
-| Brāhmana                            | for the temple, never for pay                                                                                         | through the temple                              | all three, and holds the court | convenes it                   | on a sanctioned ordeal, or as an ascetic             |
+| Karmāja                             | as a levy, or by an academy's grant                                                                                   | use-rights in a janapada, never in his own name | all three                      | when his village's turn comes | on his sabhā's leave, or his master's                |
+| Dhanāja                             | by right, and is answered as a gentleman                                                                              | yes                                             | all three                      | yes                           | freely, on a Collective letter                       |
+| Senāja                              | by right, and owes service in the host                                                                                | yes                                             | all three                      | yes, on war                   | freely                                               |
+| Ritūja                              | for the temple, never for pay                                                                                         | through the temple                              | all three, and holds the court | convenes it                   | on a sanctioned ordeal, or as an ascetic             |
 | Sāmanta, Kulina, Sabhāsad and above | yes                                                                                                                   | yes                                             | all three                      | yes                           | by leave of court, council or sabhā                  |
 
-A Brāhmana who takes pay for arms is Patita—fallen—and the ordination ends with the payment. That is the sharpest of the station rules and the one a Vedyari will quote first.
+A Ritūja who takes pay for arms is Patita—fallen—and the ordination ends with the payment. That is the sharpest of the station rules and the one a Vedyari will quote first.
 
 ## Leaving a Station, Losing It, Hiding It
 
 A station is not chosen and is rarely changed, and the ways out of one are few enough to name.
 
-**It is lost.** A court or a sabhā puts a Shūdra or a Vaishya out of the order for a judgment it names. A Kshatriya loses his by refusing the host's call or by one of the dishonors the military manuals set out at length. A Brāhmana loses his to Patita, which is not appealable and is read at every temple gate for the rest of his life.
+**It is lost.** A court or a sabhā puts a Karmāja or a Dhanāja out of the order for a judgment it names. A Senāja loses his by refusing the host's call or by one of the dishonors the military manuals set out at length. A Ritūja loses his to Patita, which is not appealable and is read at every temple gate for the rest of his life.
 
-**It is left.** A Brāhmana walks out as an ascetic, and loses the office and not the varna; he is received with reverence wherever he goes and kept by the devout. Nobody else has this door.
+**It is left.** A Ritūja walks out as an ascetic, and loses the office and not the tharana; he is received with reverence wherever he goes and kept by the devout. Nobody else has this door.
 
 **It is bought out.** A Bonded Servant's debt is paid—at the great pilgrim assembly, where the bond-holders come to be paid, or by a letter of credit from the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. A runaway who reaches the sea or the pass-kingdoms is not returned, and both know it.
 
@@ -51,7 +51,7 @@ A station is not chosen and is rarely changed, and the ways out of one are few e
 
 The household, not the person, is what the order is built out of. It holds the land or the use-right, it answers for its members at the sabhā, it pays the temple's share, and it keeps the bond-tokens of those bound to it. A Vedyari introduces himself by kula before trade and by village before either.
 
-Marriage is within the kula, arranged between households and settled by the elders of both. The bride's household shows the wrist-line and the groom's household shows the ledger. A marriage across varna is not impossible and is not survivable in a village; the cities make room for it, and the children carry the lower of the two marks.
+Marriage is within the kula, arranged between households and settled by the elders of both. The bride's household shows the wrist-line and the groom's household shows the ledger. A marriage across tharana is not impossible and is not survivable in a village; the cities make room for it, and the children carry the lower of the two marks.
 
 ## Water, Food and the Touched Thing
 
@@ -91,7 +91,7 @@ A guest is fed before he is questioned. A household that turns a traveler away a
 
 Asked what a person owes, a Vedyari answers in the order the debts fall due: the household first, then the kula, then the village and its sabhā, then the temple, and the king last and only for what he has actually guaranteed. A station's duties are owed whether or not the station is comfortable, and doing them badly is worse than doing them unwillingly.
 
-Revolt against the order is rare to the point of curiosity. Reform inside it is constant, loud, and conducted mostly by Brāhmanas.
+Revolt against the order is rare to the point of curiosity. Reform inside it is constant, loud, and conducted mostly by Ritūjas.
 
 ## See Also
 

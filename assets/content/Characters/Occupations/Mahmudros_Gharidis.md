@@ -4,9 +4,9 @@ tags:
   - tradesfolk
   - character
 name:
-  full: Maḥmûdrós Gharîdís
+  full: Mahmûdrós Gharîdís
   title: ""
-  given: Maḥmûdrós
+  given: Mahmûdrós
   clan: Gharîdís
   home: pelagora2
   aliases: []
@@ -554,13 +554,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Maḥmûdrós Gharîdís is a 54-year-old man who stands 6'0" tall and is broad and solidly built. He has a long face with broad cheekbones, a wide forehead, and a sharp jaw that leads to a firm chin. His wide-set dark brown eyes sit beneath arched brows and give him an open gaze. He has an aquiline nose and expressive lips. He has medium-toned skin with a smooth complexion. His graying brown hair is tied in a low tail. He has crow's feet at the corners of his sharp eyes.
+Mahmûdrós Gharîdís is a 54-year-old man who stands 6'0" tall and is broad and solidly built. He has a long face with broad cheekbones, a wide forehead, and a sharp jaw that leads to a firm chin. His wide-set dark brown eyes sit beneath arched brows and give him an open gaze. He has an aquiline nose and expressive lips. He has medium-toned skin with a smooth complexion. His graying brown hair is tied in a low tail. He has crow's feet at the corners of his sharp eyes.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Maḥmûdrós Gharîdís is a hideworker.
+Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Mahmûdrós Gharîdís is a hideworker.
 
-Maḥmûdrós has been a hideworker for decades and is known for his skill with the tougher hides of larger animals. He mostly makes durable leather goods, such as armor and heavy bags. His experience keeps him in demand, though his blunt manner can be intimidating. He takes pride in his work and knows a great deal about the different methods of tanning.
+Mahmûdrós has been a hideworker for decades and is known for his skill with the tougher hides of larger animals. He mostly makes durable leather goods, such as armor and heavy bags. His experience keeps him in demand, though his blunt manner can be intimidating. He takes pride in his work and knows a great deal about the different methods of tanning.
 
 Now at 54 years of age, he is a known figure among the hideworkers of Heliónis.
 
@@ -572,7 +572,7 @@ He is set in his ways and struggles with new methods or fashions.
 
 ### Motivation
 
-Maḥmûdrós wants to go on making leather that outlasts its buyer, by the methods he trusts.
+Mahmûdrós wants to go on making leather that outlasts its buyer, by the methods he trusts.
 
 ### Strengths
 
@@ -580,13 +580,13 @@ He is highly skilled, strong, and experienced in working tough hides.
 
 ## Social
 
-Maḥmûdrós belongs to no guild and prefers to work on his own.
+Mahmûdrós belongs to no guild and prefers to work on his own.
 
 ## Companions
 
 ### Patrons
 
-Maḥmûdrós's patrons are the local warriors and merchants who need strong leather goods.
+Mahmûdrós's patrons are the local warriors and merchants who need strong leather goods.
 
 ### Enemies
 
@@ -594,12 +594,12 @@ Few; his peers respect him, but some younger craftsmen see him as old-fashioned.
 
 ## Plot Hooks
 
-1. **The Hideworker's Dilemma**—A merchant offers Maḥmûdrós a large order on condition that he use a quicker tanning method he does not trust.
+1. **The Hideworker's Dilemma**—A merchant offers Mahmûdrós a large order on condition that he use a quicker tanning method he does not trust.
 
-2. **Old Grudges**—A younger craftsman who calls Maḥmûdrós old-fashioned begins taking his customers with cheaper, faster work.
+2. **Old Grudges**—A younger craftsman who calls Mahmûdrós old-fashioned begins taking his customers with cheaper, faster work.
 
-3. **Echoes of the Past**—A suit of armor Maḥmûdrós made decades ago comes back to his shop, and the man wearing it is not the one he made it for.
+3. **Echoes of the Past**—A suit of armor Mahmûdrós made decades ago comes back to his shop, and the man wearing it is not the one he made it for.
 
-4. **Shifting Winds**—Political change in Heliónis threatens the trade Maḥmûdrós depends upon, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Heliónis threatens the trade Mahmûdrós depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—Maḥmûdrós is offered the leatherwork for a whole company of warriors, and its price is not named up front.
+5. **The Opportunity**—Mahmûdrós is offered the leatherwork for a whole company of warriors, and its price is not named up front.

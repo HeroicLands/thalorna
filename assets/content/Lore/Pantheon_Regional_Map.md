@@ -88,7 +88,7 @@ The unified faith of the [[place-kchchkcntnnt|K'ich'chik Continent]] continent�
 
 - [[place-kchchkcntnnt|K'ich'chik Continent]]—the unified Ki'ichek faith
 
-## [[affiliation-varakpnthn|Varṇaka Pantheon]]
+## [[affiliation-varakpnthn|Varnaka Pantheon]]
 
 A complex spiritual system centered on cycles of creation, preservation, and destruction.
 

@@ -1,6 +1,6 @@
 ---
 name:
-  full: "Varṇaka"
+  full: "Varnaka"
 shortcode: pantheonsvarnaka
 type: folder
 data:

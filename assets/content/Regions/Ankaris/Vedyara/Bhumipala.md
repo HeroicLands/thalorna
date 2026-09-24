@@ -16,13 +16,13 @@ data:
     model: monarchy
     summary: >-
       Hereditary Mahārāja advised by a martial council of the Sāmantas who hold the road's forts
-      and a priestly court of Varṇaka brahmins.
+      and a priestly court of Varnaka ushtakas.
     ranks:
       - level: 0
         title: Outcaste
         lore: excmmnctrnk
         description: >-
-          Placed outside the varṇa order by transgression or by birth, excluded from the wells,
+          Placed outside the tharana by transgression or by birth, excluded from the wells,
           the temples and the courts.
       - level: 1
         title: Bonded Servant
@@ -30,27 +30,28 @@ data:
         description: Bound by debt or birth to a household, owing labor and lacking the standing
           to hold land.
       - level: 2
-        title: Śūdra
+        title: Karmāja
         lore: commonerrnk
         description: >-
-          Of the serving varṇa—cultivators, artisans and laborers who hold their place by
+          Born to the serving tharana—cultivators, artisans and laborers who hold their place by
           work rather than by rite.
       - level: 3
-        title: Vaiśya
+        title: Dhanāja
         lore: gentryrnk
         description: >-
-          Of the productive varṇa—merchants, herders and landholders, whose wealth sustains
+          Born to the productive tharana—merchants, herders and landholders, whose wealth sustains
           the court and its temples.
       - level: 4
-        title: Kṣatriya
+        title: Senāja
         lore: warriorrnk
-        description: Of the warrior varṇa, bearing arms by right and owing service in the Mahārāja's
+        description:
+          Born to the warrior tharana, bearing arms by right and owing service in the Mahārāja's
           host.
       - level: 5
-        title: Brāhmaṇa
+        title: Ritūja
         lore: priestrnk
         description: >-
-          Of the priestly varṇa, keeper of rite and learning, without whose sanction no royal
+          Born to the priestly tharana, keeper of rite and learning, without whose sanction no royal
           act is complete.
       - level: 6
         title: Sāmanta
@@ -69,7 +70,7 @@ data:
           The great king himself, in whom the martial council and the priestly court alike find
           their sanction.
     offices:
-      Mahārāja: The great king, ruling by descent and confirmed by the rites the Varṇaka brahmins
+      Mahārāja: The great king, ruling by descent and confirmed by the rites the Varnaka ushtakas
         perform.
       Rājñī: The chief queen, holding her own revenues, household and voice at court.
       Yuvarāja: The designated heir, commonly given a province to govern as his apprenticeship.
@@ -80,15 +81,15 @@ data:
         minister's.
       Senāpati: Commander of the host, holding the martial council's confidence as well as
         the king's.
-      Daṇḍanāyaka: Magistrate and keeper of the king's justice within a district.
-      Koṣādhyakṣa: Superintendent of the treasury, answerable for revenue, stores and the
+      Dandanāyaka: Magistrate and keeper of the king's justice within a district.
+      Koshādhyaksha: Superintendent of the treasury, answerable for revenue, stores and the
         mint.
       Sāmanta: >-
         A vassal chieftain holding land in return for service, and the kingdom's chief source
         of both strength and rebellion.
       Dūta: Envoy to a foreign court, whose person is protected by custom on both sides of
         the frontier.
-      Gaṇaka: Court astrologer, fixing the auspicious hour for campaigns, marriages and coronations.
+      Ganaka: Court astrologer, fixing the auspicious hour for campaigns, marriages and coronations.
   commonSkills:
     - vedyarlng
   seat: sandhyapur

@@ -5,10 +5,10 @@ tags:
   - tradesfolk
   - character
 name:
-  full: Càndrathar Āchāryamukhyēśvara
+  full: Càndrathar Āchāryamukhyēshvara
   title: ""
   given: Càndrathar
-  clan: Āchāryamukhyēśvara
+  clan: Āchāryamukhyēshvara
   home: rajapur
   aliases: []
 packFolder: ankarisvedyara
@@ -589,7 +589,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[cndrthrchrymkhysvr|Càndrathar Āchāryamukhyēśvara]]{float: top-left}
+![[cndrthrchrymkhysvr|Càndrathar Āchāryamukhyēshvara]]{float: top-left}
 
 Càndrathar stands 5'7" tall with a medium build. He has tawny brown skin, graying dark brown hair, and brown eyes. His features include a diamond-shaped face, a delicate nose, a gentle jawline, an expressive mouth, tawny brows, and high cheeks.
 
