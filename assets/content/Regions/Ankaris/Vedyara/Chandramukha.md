@@ -26,7 +26,7 @@ shortcode: chandrmukha
 packFolder: vedyara
 ---
 
-**Chandramukha** (16,000, market 5) stands on the seaward edge of the delta, where the last navigable channel of the [[place-chandrmahi|Chandramahī]] crosses the bar into the southern sea. The name means the moon's mouth, and it is the mouth of [[affiliation-chandrapur|Chandrapur]] in every sense that matters: nothing reaches the white city from the sea, and nothing leaves it for the sea, except through here.
+**Chandramukha** (16,000, market 5) stands on the seaward edge of the delta, where the last navigable channel of the [[place-chandrmahi|Chandramahī]] crosses the bar into the [[place-meghsamdra|Megha-samudra]]. The name means the moon's mouth, and it is the mouth of [[affiliation-chandrapur|Chandrapur]] in every sense that matters: nothing reaches the white city from the sea, and nothing leaves it for the sea, except through here.
 
 The town is small for what passes through it. A deep-water hull cannot cross the bar and a river craft cannot cross the open water, so everything is handled twice, and the handling is the town's whole life. The warehouses run three deep behind the quays. Behind them are the yards, the rope-walks, the sail-lofts, the chandlers and the pilots' quarter, and behind those the marsh.
 
@@ -60,3 +60,4 @@ What the town does not have is any way for a man to stay. A deck is a place to b
 - [[place-chandrapur2|Chandrapur]]—the city a day upriver
 - [[place-chandrapurland|Chandrapur Land]]—the land
 - [[place-chandrmahi|The Chandramahī]]—the river
+- [[place-meghsamdra|The Megha-samudra]]—the sea outside the bar

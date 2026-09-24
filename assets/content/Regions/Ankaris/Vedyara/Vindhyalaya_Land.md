@@ -12,7 +12,7 @@ subType: region
 data:
   demonym: Vindhyan
   lore:
-    - humanflk
+    - vedyariclt
   parents:
     - vedyarargn
   population: 8000000
