@@ -29,7 +29,7 @@ data:
   gender: female
   species: null
   age: 34
-  birthday: 690/8/22
+  born: 690/8/22
   height: 1.7
   weight: 65
   frame: light
