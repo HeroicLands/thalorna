@@ -100,7 +100,7 @@ The Council's authority is not formally chartered. The crown of Élavendre does 
 
 ## Membership and Structure
 
-There are nineteen seats on the Council, one per recognized great grove. Eighteen are presently filled; the nineteenth (the Grove of Lhenavren, in the deep Drenavar) has been empty for a generation since its elder vanished into the fae and never returned. By tradition the seat remains open, awaiting either his return or the unambiguous appearance of a successor—neither of which has occurred.
+There are nineteen seats on the Council, one per recognized great grove. Eighteen are presently filled; the nineteenth (the Grove of Sirmennë, in the deep Drenavar) has been empty for a generation since its elder vanished into the fae and never returned. By tradition the seat remains open, awaiting either his return or the unambiguous appearance of a successor—neither of which has occurred.
 
 Elders are chosen by their groves through long apprenticeship rather than election. A candidate is identified in childhood, often by visions or fae encounters, and trained from adolescence in herblore, ritual, the reading of weather and water, and the diplomatic protocols of dealing with fae kin. Promotion to elder happens only on the death or retreat of the prior holder, and is confirmed by the rest of the Council gathered. The process can take decades.
 
@@ -130,7 +130,7 @@ Elders wear circlets of woven living wood—different species per grove—that a
 
 ## Plot Hooks
 
-- **The Empty Seat.** Signs and portents suggest the lost elder of Lhenavren may at last be returning—or that something wearing his shape is. The Council must decide whether to receive what comes, kill it, or refuse to choose.
+- **The Empty Seat.** Signs and portents suggest the lost elder of Sirmennë may at last be returning—or that something wearing his shape is. The Council must decide whether to receive what comes, kill it, or refuse to choose.
 - **The Compromised Grove.** A grove-elder has been quietly accepting Ordo coin in exchange for permission to "study" his grove. The compromise is discovered. The Council must investigate without itself fracturing.
 - **The Pact Broken.** A village destroys a fae-touched copse to expand pasture. The fae have responded—children sicken, crops fail, a herd-bull is found drowned in a dry well. The Council must broker terms before the fae's response escalates beyond what mortal authorities can manage.
 - **The Singer's Petition.** A Bardic Master requests a Council ruling that a particular forbidden working—long suppressed—be reauthorized for a single performance. Grant the petition and risk catastrophe; refuse and risk a public schism with the Colleges.
