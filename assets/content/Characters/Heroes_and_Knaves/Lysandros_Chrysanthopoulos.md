@@ -645,13 +645,13 @@ Lysándros seeks to prove that there is a way to live in the world without compr
 
 ### Patrons
 
-- **Master Castellan Demetrios**: The governor of the northern territories values Lysándros's timber for both fortification work and shipbuilding, and tacitly protects him from guild persecution in exchange for preferential contracts.
+- **Master Castellan Tigranos**: The governor of the northern territories values Lysándros's timber for both fortification work and shipbuilding, and tacitly protects him from guild persecution in exchange for preferential contracts.
 - **Lady Serena of House Thálassos**: A wealthy widow who has commissioned Lysándros to restore and rebuild her ancestral estate using only timber that meets his exacting standards, earning his respect through her patience and refusal to rush his work.
 
 ### Enemies
 
 - **The Chrysanthópoulos Family Enterprise**: His own blood relatives, now wealthy guild magnates, view him as both a moral rebuke and an economic competitor whose existence challenges their monopoly on timber contracts.
-- **Guild Master Stavros the Ruthless**: The current head of the Timberwrights' Guild marked Lysándros for subtle destruction long ago; his independent success is an open wound to guild authority and profit.
+- **Guild Master Sozomáhr the Ruthless**: The current head of the Timberwrights' Guild marked Lysándros for subtle destruction long ago; his independent success is an open wound to guild authority and profit.
 
 ### Affiliations
 
@@ -663,7 +663,7 @@ Lysándros seeks to prove that there is a way to live in the world without compr
 
 1. **The Ancient Wood of Akkrath**: A legendary caravan is assembling to journey to the deep forests of Akkrath, where a tree of impossible age and size is said to grow—wood so rare and perfect that a single beam could forge a legendary weapon or construct an artifact of power. Lysándros is the only master timberwright with the skill to harvest it without destroying its inherent magical properties, but accepting such a commission would require him to venture into unexplored wilderness while working with a party of adventurers who may not share his values. The journey itself becomes a test of whether his principles can survive contact with genuine temptation.
 
-2. **The Guild's Conspiracy**: Word reaches Lysándros that Guild Master Stavros is planning to declare him an enemy of the Timberwrights' Guild and place a bounty on his head, framing him for sabotaging a major building project. The party must either gather evidence to clear his name, expose Stavros's corruption, or help Lysándros arrange a dramatic confrontation that will decide the guild's future direction. The resolution could reshape the entire merchant and craftspeople structure of the Byzarian League.
+2. **The Guild's Conspiracy**: Word reaches Lysándros that Guild Master Sozomáhr is planning to declare him an enemy of the Timberwrights' Guild and place a bounty on his head, framing him for sabotaging a major building project. The party must either gather evidence to clear his name, expose Sozomáhr's corruption, or help Lysándros arrange a dramatic confrontation that will decide the guild's future direction. The resolution could reshape the entire merchant and craftspeople structure of the Byzarian League.
 
 3. **The Silent Partnership**: A mysterious benefactor offers Lysándros a contract: harvest and deliver timber for a secret construction project deep in the borderlands, pay beyond anything he has ever received, and absolute confidentiality required. As the party works with him on the project, they gradually discover that they are constructing a sanctuary for refugees fleeing political persecution—and that Lysándros has become unwittingly part of a larger resistance network. When powerful forces move to destroy the sanctuary, he must choose between his solitary path and active resistance.
 

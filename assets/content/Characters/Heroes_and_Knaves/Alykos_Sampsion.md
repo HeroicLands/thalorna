@@ -652,7 +652,7 @@ Privately, Alýkos is also motivated by a need for mastery and control—not of 
 
 ### Enemies
 
-- **The Traditionalist Faction of the Physicians' Guild**: Conservative healers who view Alýkos's experimental approaches and willingness to question inherited medical doctrine as dangerous and disrespectful. Led by the elderly physician **Markinos**, they regularly oppose his positions within the Guild and spread rumors that his new methods have resulted in patient deaths—a charge with just enough truth to be damaging.
+- **The Traditionalist Faction of the Physicians' Guild**: Conservative healers who view Alýkos's experimental approaches and willingness to question inherited medical doctrine as dangerous and disrespectful. Led by the elderly physician **Gregoriash**, they regularly oppose his positions within the Guild and spread rumors that his new methods have resulted in patient deaths—a charge with just enough truth to be damaging.
 - **Charlatan Healers**: Various fraudulent practitioners throughout the League whom Alýkos has publicly exposed or reported to authorities, resulting in lost income for them. Some have threatened retaliation.
 
 ### Affiliations
@@ -664,7 +664,7 @@ Privately, Alýkos is also motivated by a need for mastery and control—not of 
 
 1. **The Plague**: A mysterious illness begins spreading through the League's port cities, bearing symptoms Alýkos has never encountered before. The disease progresses rapidly and proves resistant to standard treatments. As the affliction spreads, panic grows, and desperate patients flock to Alýkos seeking a cure. He becomes locked in an intellectual race against the disease itself, attempting to understand its nature before it claims thousands. The investigation reveals that the plague may not be natural—someone or something may have deliberately unleashed it.
 
-2. **The Unethical Experiment**: Alýkos discovers evidence that another physician, **Dr. Cassia**, has been conducting unauthorized medical experiments on prison inmates and the desperately poor, seemingly attempting to replicate or understand the mechanisms of a rare disease. When Alýkos threatens to expose her, she counters that her work has advanced medical knowledge more than a century of conventional practice—and that some discoveries require sacrifices. She offers Alýkos the choice to join her research or watch as she uses her considerable influence to destroy his reputation.
+2. **The Unethical Experiment**: Alýkos discovers evidence that another physician, **Sofroniáze**, has been conducting unauthorized medical experiments on prison inmates and the desperately poor, seemingly attempting to replicate or understand the mechanisms of a rare disease. When Alýkos threatens to expose her, she counters that her work has advanced medical knowledge more than a century of conventional practice—and that some discoveries require sacrifices. She offers Alýkos the choice to join her research or watch as she uses her considerable influence to destroy his reputation.
 
 3. **The Impossible Patient**: A patient is brought to Alýkos bearing a condition so bizarre, so contradictory to all medical knowledge, that he cannot begin to understand what he is observing. The patient is simultaneously fevered and hypothermic, displays symptoms of diseases that should not occur together, and seems to exist in a state of bodily contradiction. As Alýkos struggles to understand the case, he begins to suspect that conventional medicine will not provide answers—that something beyond the natural world may be involved.
 
