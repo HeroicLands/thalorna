@@ -658,13 +658,13 @@ Tamiyra's primary motivation is survival combined with the acquisition of securi
 
 ### Patrons
 
-- **Lord Amenhotep Kajem**: A wealthy master of many workshops and collector of fine arts who values Tamiyra as both companion and intellectual equal. He provides her with significant financial support and protection from those who might exploit her former scandal. Their relationship is perhaps her most stable, built on mutual respect rather than mere attraction.
+- **Lord Usetirak Kajem**: A wealthy master of many workshops and collector of fine arts who values Tamiyra as both companion and intellectual equal. He provides her with significant financial support and protection from those who might exploit her former scandal. Their relationship is perhaps her most stable, built on mutual respect rather than mere attraction.
 
-- **Lady Nefertiti Shalûr**: An aging widow and powerful political matriarch who has taken Tamiyra under her wing as a protégée and potential heir to her network of influence. Lady Shalûr sees in Tamiyra the ambitious mind she once possessed.
+- **Lady Temerît Shalûr**: An aging widow and powerful political matriarch who has taken Tamiyra under her wing as a protégée and potential heir to her network of influence. Lady Shalûr sees in Tamiyra the ambitious mind she once possessed.
 
 - **Merchant Prince Vasken Tharcot**: A wealthy foreign trader who visits Ta'Kheperu regularly for business. He pays handsomely for her companionship and, more importantly, for intelligence about imperial politics and trade agreements. He believes she holds the key to expanding his influence.
 
-- **High Scribe Demetrios Callias**: A learned man of letters who employs her to transcribe rare texts and discuss philosophy. He is one of the few patrons with whom she shares a true meeting of minds rather than merely performing companionship.
+- **High Scribe Psenti Ka'menu**: A learned man of letters who employs her to transcribe rare texts and discuss philosophy. He is one of the few patrons with whom she shares a true meeting of minds rather than merely performing companionship.
 
 ### Enemies
 

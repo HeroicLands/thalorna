@@ -615,7 +615,7 @@ Mertep was born in one of [[affiliation-empirtkhpr|Ta'Kheperu]]'s coastal villag
 
 The tattoo on her shoulder—a falcon in flight—marks her devotion to Hórús, god of the voyager and horizon. She received it in a moment of youthful rebellion, a secret act of faith and defiance against a former employer who forbade personal religious expression. That same employer is long dead, but Mertep has never regretted the mark, wearing it as a reminder that even servants possess their own dignity and will.
 
-Currently, she serves the household of **Lord Amenhotep**, a wealthy official of the second rank. She has managed his domestic affairs for the past twelve years with flawless efficiency. Her position is secure, her authority within the staff absolute, and her life ordered by the rhythms of service.
+Currently, she serves the household of **Lord Sâbekhotep**, a wealthy official of the second rank. She has managed his domestic affairs for the past twelve years with flawless efficiency. Her position is secure, her authority within the staff absolute, and her life ordered by the rhythms of service.
 
 ## Psyche
 
@@ -651,7 +651,7 @@ She has no ambition to rise beyond her station, nor does she resent her position
 
 ### Patrons
 
-- **Lord Amenhotep**: Her employer and the man who has granted her stable, respectful employment for over a decade. Their relationship is professional but based on genuine mutual regard.
+- **Lord Sâbekhotep**: Her employer and the man who has granted her stable, respectful employment for over a decade. Their relationship is professional but based on genuine mutual regard.
 - **The Temple of Hórús at Ta'Kheperu**: She donates a portion of her wages to the temple and receives their blessing in return.
 
 ### Enemies
@@ -661,18 +661,18 @@ She has no ambition to rise beyond her station, nor does she resent her position
 
 ### Affiliations
 
-- **The Household of Lord Amenhotep**: Her primary loyalty and the source of her identity.
+- **The Household of Lord Sâbekhotep**: Her primary loyalty and the source of her identity.
 - **The Servants' Mutual Aid Society**: An informal network of household managers and senior servants who share knowledge about household management and mutual protection.
 - **The Temple of Hórús**: A devotional order where she worships and maintains her private religious practice.
 
 ## Plot Hooks
 
-1. **The Missing Seal Ring**: Lord Amenhotep's personal seal ring, used to authorize documents of significant importance, has disappeared from the household. Only a handful of servants know where it is kept, and Mertep knows them all. Her investigation reveals that one of the servants has been replaced by someone who looks remarkably similar—possibly a twin, possibly something far stranger. Mertep must determine if this is a simple substitution, an act of espionage, or something darker. Meanwhile, Lord Amenhotep grows increasingly anxious about the missing ring's implications.
+1. **The Missing Seal Ring**: Lord Sâbekhotep's personal seal ring, used to authorize documents of significant importance, has disappeared from the household. Only a handful of servants know where it is kept, and Mertep knows them all. Her investigation reveals that one of the servants has been replaced by someone who looks remarkably similar—possibly a twin, possibly something far stranger. Mertep must determine if this is a simple substitution, an act of espionage, or something darker. Meanwhile, Lord Sâbekhotep grows increasingly anxious about the missing ring's implications.
 
-2. **The Poisoned Well**: Several members of the household fall mysteriously ill with symptoms suggesting contamination. Mertep's suspicion falls upon the water supply, but her investigation reveals that the well has been deliberately tampered with. Someone inside the household—someone with access to the sealed storage areas—has done this. The question is why, and more urgently, who? Mertep must identify the saboteur before the illness spreads further, knowing that her discovery will expose the household's vulnerability and possibly bring scandal upon Lord Amenhotep.
+2. **The Poisoned Well**: Several members of the household fall mysteriously ill with symptoms suggesting contamination. Mertep's suspicion falls upon the water supply, but her investigation reveals that the well has been deliberately tampered with. Someone inside the household—someone with access to the sealed storage areas—has done this. The question is why, and more urgently, who? Mertep must identify the saboteur before the illness spreads further, knowing that her discovery will expose the household's vulnerability and possibly bring scandal upon Lord Sâbekhotep.
 
-3. **The Visiting Scholar**: A young scholar arrives at the household as a guest of Lord Amenhotep's family, claiming to be researching domestic practices in noble households. Mertep finds her oddly inquisitive, asking detailed questions about the household's layout, the servants' relationships, supply routes, and the lord's daily patterns. When Mertep discovers that this scholar is actually an agent working for a competing noble house, she must decide whether to confront the woman, expose her to the lord, or use this discovery to her advantage in the household's internal politics.
+3. **The Visiting Scholar**: A young scholar arrives at the household as a guest of Lord Sâbekhotep's family, claiming to be researching domestic practices in noble households. Mertep finds her oddly inquisitive, asking detailed questions about the household's layout, the servants' relationships, supply routes, and the lord's daily patterns. When Mertep discovers that this scholar is actually an agent working for a competing noble house, she must decide whether to confront the woman, expose her to the lord, or use this discovery to her advantage in the household's internal politics.
 
-4. **The Lost Child**: A servant girl under Mertep's supervision becomes pregnant and, in desperation, seeks Mertep's help. Custom and law dictate that Mertep should report this to Lord Amenhotep immediately. Yet the girl came to her with tears and trust, asking for shelter during the pregnancy and help finding a safe place for the child. Mertep, for the first time in her adult life, must choose between her absolute adherence to order and a human compassion she thought she had long since mastered. Her decision will set her on a path that challenges everything she believes about duty and propriety.
+4. **The Lost Child**: A servant girl under Mertep's supervision becomes pregnant and, in desperation, seeks Mertep's help. Custom and law dictate that Mertep should report this to Lord Sâbekhotep immediately. Yet the girl came to her with tears and trust, asking for shelter during the pregnancy and help finding a safe place for the child. Mertep, for the first time in her adult life, must choose between her absolute adherence to order and a human compassion she thought she had long since mastered. Her decision will set her on a path that challenges everything she believes about duty and propriety.
 
-5. **The Restoration of the Old Manor**: Lord Amenhotep inherits an ancient estate in the provinces, fallen into disrepair for decades, and assigns Mertep the task of restoring it to habitable condition. Arriving at the site with a team of workers, Mertep discovers evidence that the manor was not abandoned naturally—something drove the previous inhabitants away, and not cleanly. Strange symbols are carved into certain thresholds, rooms contain inexplicable arrangements, and the local peasants refuse to work after sunset. Mertep must restore order to a place where order may have been deliberately destroyed, and in doing so, she may uncover secrets that powerful people wish to remain buried.
+5. **The Restoration of the Old Manor**: Lord Sâbekhotep inherits an ancient estate in the provinces, fallen into disrepair for decades, and assigns Mertep the task of restoring it to habitable condition. Arriving at the site with a team of workers, Mertep discovers evidence that the manor was not abandoned naturally—something drove the previous inhabitants away, and not cleanly. Strange symbols are carved into certain thresholds, rooms contain inexplicable arrangements, and the local peasants refuse to work after sunset. Mertep must restore order to a place where order may have been deliberately destroyed, and in doing so, she may uncover secrets that powerful people wish to remain buried.

@@ -667,7 +667,7 @@ Tirye is driven by an insatiable hunger to create beauty and truthfulness in art
 
 - **The Puritanical Faction**: A growing movement within the priesthood of the more conservative deities views theatrical performance as corrupting and spiritually dangerous; they have begun organizing opposition to Tirye's performances, particularly those they perceive as morally transgressive.
 
-- **Critic Amenhotep**: An influential theater critic whose scathing review of Tirye's early work wounded her deeply; he remains dismissive of her talent despite her subsequent success and continues to write devastating critiques.
+- **Critic Pathamose**: An influential theater critic whose scathing review of Tirye's early work wounded her deeply; he remains dismissive of her talent despite her subsequent success and continues to write devastating critiques.
 
 ### Affiliations
 

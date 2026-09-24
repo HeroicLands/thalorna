@@ -613,7 +613,7 @@ At thirteen, Sênta convinced a weathered caravan master named **Thoren the Keen
 
 ### Current Situation
 
-Now at twenty-eight, Sênta stands as one of the most in-demand caravan guards in the southern routes, known for her ability to spot trouble from miles away and her uncanny luck in avoiding catastrophe. She works regularly for **Merchant Prince Valren Stoneworth**, a shrewd trader whose caravans have never been successfully robbed under her watch. Recent seasons have seen her considering other opportunities—rumor speaks of bandits more organized and vicious than before, and Sênta wonders if the old ways of caravan guarding are becoming obsolete. She maintains her position with the Mercenaries' Guild while exploring opportunities to guide adventurers through treacherous terrain.
+Now at twenty-eight, Sênta stands as one of the most in-demand caravan guards in the southern routes, known for her ability to spot trouble from miles away and her uncanny luck in avoiding catastrophe. She works regularly for **Merchant Prince Valren Per'hetep**, a shrewd trader whose caravans have never been successfully robbed under her watch. Recent seasons have seen her considering other opportunities—rumor speaks of bandits more organized and vicious than before, and Sênta wonders if the old ways of caravan guarding are becoming obsolete. She maintains her position with the Mercenaries' Guild while exploring opportunities to guide adventurers through treacherous terrain.
 
 ## Psyche
 
@@ -655,7 +655,7 @@ Sênta seeks to test herself against increasingly difficult challenges, driven b
 
 ### Patrons
 
-- **Merchant Prince Valren Stoneworth**: A shrewd and successful trader who employs Sênta as his primary scout and caravan guard. He pays extremely well and respects her independence, making him her most consistent patron. Stoneworth trusts Sênta's judgment implicitly and often acts on her tactical recommendations.
+- **Merchant Prince Valren Per'hetep**: A shrewd and successful trader who employs Sênta as his primary scout and caravan guard. He pays extremely well and respects her independence, making him her most consistent patron. Per'hetep trusts Sênta's judgment implicitly and often acts on her tactical recommendations.
 
 - **Caravan Master Thoren the Keen-Eyed**: Her early mentor who first hired her as a porter, Thoren remains a friend and occasional employer. Though he rarely travels the trade routes himself anymore, managing a large operation from his warehouse in the capital, he recommends Sênta to other caravan masters seeking reliable protection.
 
@@ -671,7 +671,7 @@ Sênta seeks to test herself against increasingly difficult challenges, driven b
 
 - **Mercenaries' Guild of Ta'Kheperu**: The primary organization that regulates her work and provides access to jobs. She maintains good standing and is considered one of the guild's most valuable members.
 
-- **Stoneworth Trading Company**: Informal affiliation with Merchant Prince Stoneworth's extensive trade network, giving her access to supplies, safe houses, and information along the major trade routes.
+- **Per'hetep Trading Company**: Informal affiliation with Merchant Prince Per'hetep's extensive trade network, giving her access to supplies, safe houses, and information along the major trade routes.
 
 ## Plot Hooks
 

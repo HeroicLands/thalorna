@@ -652,7 +652,7 @@ Raiya Wasetneb is driven by a vision of the Empire of Ta'Kheperu as a place wher
 
 ### Patrons
 
-- **Lady Keket Amenhotep:** An elder noblewoman of celebrated taste who has been Raiya's mentor in artistic patronage and cultural politics. She provides counsel on the shifting alliances of the factions.
+- **Lady Keket Neb'tawy:** An elder noblewoman of celebrated taste who has been Raiya's mentor in artistic patronage and cultural politics. She provides counsel on the shifting alliances of the factions.
 - **Master Architect Khenti:** A celebrated designer and builder who has benefited tremendously from Raiya's commissions and patronage; he is devoted to her vision of elevating artisan crafts and advises her on building and public works.
 - **The Temple Council of Íšét:** The priesthood of the fertility goddess that shares Raiya's values concerning growth and renewal. They provide her with spiritual counsel and, occasionally, practical support for her endeavors.
 

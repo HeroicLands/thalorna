@@ -613,7 +613,7 @@ Tefnutî stands 5'10" tall with a medium build. He has warm amber skin, gray hai
 
 # Dossier {#dossier}
 
-Tefnutî was born into a family of toymakers in the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], in a tradition stretching back seven generations. His great-grandfather had been commissioned by an imperial prince to create mechanical toys of extraordinary ingenuity, work that established the family's reputation for invention and precision. Tefnutî's own father, Hetmosis, had expanded the family trade significantly, introducing mechanisms of increasing complexity while maintaining a commitment to beauty and craftsmanship.
+Tefnutî was born into a family of toymakers in the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], in a tradition stretching back seven generations. His great-grandfather had been commissioned by an imperial prince to create mechanical toys of extraordinary ingenuity, work that established the family's reputation for invention and precision. Tefnutî's own father, Pakhotu, had expanded the family trade significantly, introducing mechanisms of increasing complexity while maintaining a commitment to beauty and craftsmanship.
 
 From earliest childhood, Tefnutî was trained in the family traditions. Unlike some toymakers who view their work as frivolous entertainment, the Het'Wera family understood that toys were miniature worlds—opportunities to teach mechanics, aesthetics, and imagination. Tefnutî exceeded even his father's capabilities, developing new techniques for creating clockwork mechanisms of breathtaking intricacy. By his thirties, his toys were so much in demand among wealthy families and collectors that his wait list extended years into the future.
 
@@ -663,7 +663,7 @@ Tefnutî's primary motivation is the creation of mechanical perfection—toys th
 
 - **Lady Sekhmet Ashkahar**: An elderly widow of great wealth and refined taste who has become Tefnutî's primary patron over the past decade. She commissions elaborate mechanical sculptures for her private collection and appreciates his perfectionism as an expression of respect for craft itself.
 
-- **Scholar-Collector Thaddeus Chronos**: A historian and antiquarian who employs Tefnutî to create accurate mechanical reproductions of ancient devices based on historical records and archaeological findings. Their collaboration has produced some of Tefnutî's most celebrated works.
+- **Scholar-Collector Khâden Sen'aket**: A historian and antiquarian who employs Tefnutî to create accurate mechanical reproductions of ancient devices based on historical records and archaeological findings. Their collaboration has produced some of Tefnutî's most celebrated works.
 
 - **the Imperial Treasury**: Tefnutî has several standing commissions from the imperial court to create elaborate gifts for diplomatic purposes and state ceremonies. These are highly visible works that enhance his reputation significantly.
 
@@ -673,7 +673,7 @@ Tefnutî's primary motivation is the creation of mechanical perfection—toys th
 
 - **Toymaker Mavrik the Innovator**: A successful younger toymaker who has built wealth by turning out toys in bulk with newer materials that Tefnutî views as inferior. Mavrik has directly challenged Tefnutî's supremacy by advertising his toys as "superior because they are affordable" and has actively poached several of Tefnutî's potential clients. Mavrik sees Tefnutî as an arrogant relic and publicly questions whether his work is worth the extraordinary cost.
 
-- **Imperial Tax Assessor Renek Graystone**: A bureaucrat who has begun examining Tefnutî's finances closely, questioning how commissions that should be financially ruinous result in Tefnutî's continued wealth. Renek suspects hidden income or tax evasion and has become increasingly adversarial in his investigations.
+- **Renek Set'kheru**: A bureaucrat who has begun examining Tefnutî's finances closely, questioning how commissions that should be financially ruinous result in Tefnutî's continued wealth. Renek suspects hidden income or tax evasion and has become increasingly adversarial in his investigations.
 
 ### Affiliations
 
