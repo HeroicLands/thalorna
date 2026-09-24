@@ -11,6 +11,8 @@ data:
     - flkkhazar
   parents:
     - worldthlrn
+  borders:
+    - { to: sandhysmdr, bearing: E }
   population: 29000000
 name:
   full: Xerathia
@@ -68,7 +70,7 @@ The rainforests and savannahs have their own histories, almost entirely oral, an
 
 Xerathia's connection to the wider world runs primarily across the [[place-vylarianse|Vylarian Sea]]. The northern ports of [[place-nrthrnfrtlrgn|the Fertile crescent]] have hosted Ankarian merchants for centuries, and the [[place-midhalnrgn|Mídhalión]] trade zone is genuinely shared between the two continents—Ta'Kheperu, Okháris, and the Matriarchy of Bethua all sit on its southern shore, and the cities of Vylaria, Harad, and Provènzia on its northern. Grain, papyrus, linen, gold, gemstones, spices, and exotic animals flow north; wine, steel, wool, and timber flow south.
 
-Beyond the Vylarian Sea, Xerathia's contact with the rest of Thalorna is thin. The western coast touches the open ocean but has no significant seafaring tradition that has produced regular contact with [[place-kchchkcntnnt|K'ich'chik]] or [[affiliation-kalihara|Kalihara]]. The continent's southern tip is known to be coastline, but beyond that coastline lies speculation rather than geography.
+Beyond the Vylarian Sea, Xerathia's contact with the rest of Thalorna is thin. The western coast touches the open ocean but has no significant seafaring tradition that has produced regular contact with [[place-kchchkcntnnt|K'ich'chik]] or [[affiliation-kalihara|Kalihara]]. The eastern coast faces the [[place-sandhysmdr|Sandhyā-samudra]] and the western shore of [[place-vedyarargn|Vedyara]] a month's sailing beyond it, and no regular traffic crosses that water either; what moves between the two continents goes round by the Kheperi delta. The continent's southern tip is known to be coastline, but beyond that coastline lies speculation rather than geography.
 
 ## See Also
 

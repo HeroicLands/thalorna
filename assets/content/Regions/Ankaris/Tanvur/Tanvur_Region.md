@@ -25,6 +25,7 @@ data:
     - { to: suryadvara, bearing: SW, mode: land, days: 30 }
     - { to: jnanadvara, bearing: SW, mode: land, days: 45 }
     - { to: sankhadvra, bearing: W, mode: land, days: 60 }
+    - { to: nilatira, bearing: SW, mode: ship, days: 45, terrain: [open-sea] }
   population: null
 terran_analog: "China, Korea, and mainland Southeast Asia (Vietnam, Laos, Thailand, Cambodia, Myanmar)—the great eastern imperial sphere of celestial bureaucracy, mountain-fringed river civilizations, and tributary kingdoms."
 packFolder: tanvur
