@@ -99,6 +99,20 @@ data:
   domains:
     - dhanurkotajnpd
     - dhanurkota
+    - venuvana
+    - sharavana
+    - taranaghatta
+    - ashvatira
+    - karpasagrama
+    - ikshukshetra
+    - tilavana
+    - shaligrama
+    - virasthali
+    - gokshetra
+    - madhupada
+    - nilavana
+    - vishanagrama
+    - vanasthali
   population: 30000
   economy:
     - affiliation-mrchntclctvvdyr
@@ -174,6 +188,6 @@ Dhanurkota Janapada uses the [[lore-vdyrnbnkng|Vedyaran banking system]], admini
 - [[place-dhanurkotajnpd|Dhanurkota Janapada]]—the land the janapada holds
 - [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—parent confederation
 - [[place-vedyarargn|Vedyara]]—parent region
-- Dhanurkota—the bow-fort town itself (settlement note)
+- [[place-dhanurkota|Dhanurkota]]—the bow-fort town itself
 - [[affiliation-varakpnthn|Varṇaka Pantheon]]—religious tradition
 - [[skill-vedyarlng|Vedyari]]—language

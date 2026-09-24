@@ -38,6 +38,8 @@ WHERE type = 'place'
 ORDER BY name.full COLLATE NOCASE
 ```
 
+The query names the constituent villages and the temple-town. The greater part of the janapada lives in the hamlets and riverside farmsteads that each village answers for.
+
 ## Society
 
 The cultivator villages along the Mahānadi produce the standard Vedyari rice-cotton-pulse mix, plus the distinctive **Mahānadi sugar** that is one of Rājapur's principal exports.
@@ -50,4 +52,4 @@ The combination of fertile Mahānadi floodplain agriculture, the sugar specialty
 
 - [[affiliation-rajaprjnpd|Rājapur Janapada]]—the temple-republic that holds this land
 - [[place-vedyarargn|Vedyara Region]]—the enclosing region
-- Rājapur—the temple-seat
+- [[place-rajapur|Rājapur]]—the temple-seat
