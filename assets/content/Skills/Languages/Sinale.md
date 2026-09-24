@@ -150,6 +150,22 @@ The Calathindë is the Sinalë's own, made for this language and for no other, a
 
 Literacy in Sinalë is near-universal among the Sinalë themselves—the language and written tradition are central to their culture. However, human literacy in Sinalë is **extremely rare**. Only scholars, elves, and highly educated humans can read or write the language.
 
+### Setting a romanized word back in the Calathindë
+
+Every Sinalë word on these pages is a romanization, written in Latin letters for readers who do not have the hand. Setting one back into the Calathindë is not a matter of taste: the mapping below is fixed, so that two scribes working from the same Latin spelling produce the same page. What may differ between one page and another is the cut of the letterforms—an everyday hand, the elaborated sacred one, a carved inscription—and never which sign is which.
+
+**The consonants are the visible line.** One sign to each cell of the inventory in the table above, arranged in the three families the table sets out, so that the stop, the fricative and the nasal of one family are the same shape at three grades. _l_ and _r_ stand outside the families and have signs of their own. Because wearing only ever moves a stop to the fricative of its own family, a worn word is the same shape one grade along—which is where the romanization is at its clumsiest, writing _t_ and _s_ as two unrelated letters for what the hand shows as one letter lowered. The back nasal has a sign like the rest, but no word opens on it and so it is never the first thing on a line.
+
+**A doubled consonant is one sign and a bar.** The romanization writes a long consonant twice—_mallo_, and the _tt_, _ss_ and _rr_ of the phonology—while the Calathindë writes the sign once and sets a bar beneath it. _Mallo_ and _malo_ therefore differ in the hand by a single stroke, and a damaged page that has lost its bars has lost the difference between a deep pool and the colour of it.
+
+**The vowels ride above.** Seven marks, one each for _a_, _e_, _i_, _o_, _u_, _y_ and _ë_, set over the consonant they follow. A word that begins with a vowel carries its mark on a bare carrier stroke, the one sign in the script that stands for no sound of its own. A doubled vowel in the romanization—_aa_, _ëë_—is a single mark drawn long rather than two marks; a diphthong is two marks over one carrier, in the order they are said.
+
+**What the Latin spelling loses, and what it never needed.** Stress is not marked in the Calathindë, because it never moves: the first syllable of every word, without exception, so a mark over a later one is emphasis and is saying something else. Pitch is marked, and a romanized line drops it entirely—which is why a Sinalë hearing a human read from one will say, courteously, that the words are all there.
+
+**The check that catches most copyists.** A word never holds a back vowel and a front vowel together, so every vowel mark in a word belongs to one set. A word carrying both is an error before it is anything else, and it is the first thing a Sinalë reader sees.
+
+**This is Sinalë's mapping and not Áelendi's.** The Áelendan write in the same hand, borrowed and much adapted, for a language carrying sounds the Calathindë was never cut for. A passage of [[skill-aelendlng|Áelendi]] wants its own convention and does not follow this one.
+
 ## Historical Development
 
 Sinalë is the **eldest language on Thalorna**, older than even Kalihári or Ki'ichek. It has changed remarkably little in structure over millennia, though vocabulary has evolved with Sinalë experience and philosophy.
