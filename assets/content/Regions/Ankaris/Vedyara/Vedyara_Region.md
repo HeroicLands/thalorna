@@ -22,6 +22,9 @@ data:
     - { to: dunharargn, bearing: NW }
     - { to: khzryndsrtrgn, bearing: N }
     - { to: tanvuregin, bearing: NE }
+    - { to: suryasamdra, bearing: E }
+    - { to: meghsamdra, bearing: S }
+    - { to: sandhysmdr, bearing: W }
   population: 110000000
 terran_analog: India (subcontinent of independent states)
 packFolder: vedyara
@@ -39,7 +42,7 @@ Vedyara occupies the large subcontinental projection in southeastern Ankaris. It
 
 The coast is tropical and lush. Inland the country runs through jungle, grassland and arid plateau. The far northern margin rises into temperate hill-country and then into the [[place-graznmntns|Grazian Mountains]], the wall between Vedyara and the [[place-khzryndsrtrgn|Khazryn]] to the north and [[place-tanvuregin|Tānvür]] to the northeast.
 
-The subcontinent has three shores, not two. The long eastern and southern coastlines carry the ports, the monsoon and the sailing trade; a shorter western coast runs south from the desert-margin below the wall's western end, arid where the others are lush, and its sea is the one Vedyari sailors know least.
+The subcontinent has three shores, not two, and a sea to each of them. The long eastern coast faces the [[place-suryasamdra|Sūrya-samudra]] and the southern coast the [[place-meghsamdra|Megha-samudra]], and between them they carry the ports, the monsoon and the sailing trade. A shorter western coast runs south from the desert-margin below the wall's western end, arid where the others are lush; its sea is the [[place-sandhysmdr|Sandhyā-samudra]], and it is the one Vedyari sailors know least.
 
 The wall does not continue west. The Grazian range's western end descends into broken foothills and runs out into desert-margin, and the land road to the [[place-dunharargn|Dunhara]] goes round that end and over no pass. Dunhara is Vedyara's only neighbor by open land, and the subcontinent's one door is its northwest.
 
@@ -109,7 +112,7 @@ To the **north** lies the [[place-khzryndsrtrgn|Khazryn]], beyond the wall and r
 
 To the **northeast**, beyond the wall's eastern arc, lies [[place-tanvuregin|Tānvür]]. The two civilizations are mutually respectful scholarly partners whose intellectual exchange is centuries old; direct political integration has never been attempted and is unlikely ever to be. Vedyari monks study in Tānvüri academies; Tānvüri scholars travel the Vedyari courts.
 
-To the **southeast**, across the seas, lie lands the Vedyari know through their own maritime tradition: scattered islands, coastal kingdoms, and the more distant southern continents beyond them.
+To the **southeast**, across the seas, lie lands the Vedyari know through their own maritime tradition: [[place-suryaislnds|scattered islands]], coastal kingdoms, and the more distant southern continents beyond them.
 
 ## Population and Geography
 
