@@ -118,6 +118,33 @@ To the **southeast**, across the seas, lie lands the Vedyari know through their 
 
 Janapadas sit wherever village-cluster agriculture will hold, which is most of inland Vedyara. They are densest in the great river valleys, the Chandramahī, the Sarvada, the Mahānadi and the Bhārava, and thinnest in the deep forests and on the arid central plateau. The northern hill-country runs its own variant of the janapada, smaller and more isolated. The southern tropical interior runs another, leaning harder on temple-controlled forest products.
 
+## Settlements
+
+```sql
+SELECT s.address.slug AS _ref,
+       s.name.full AS "Name",
+       s.data.market || ' ' || m.name AS "Market",
+       s.data.population AS "People",
+       (SELECT string_agg(
+                   CASE
+                       WHEN p.address.slug IS NULL THEN p.name.full
+                       ELSE '[[' || p.address.slug || '|' || p.name.full || ']]'
+                   END, ' and ' ORDER BY p.name.full)
+        FROM entries p
+        WHERE p.type = 'affiliation'
+          AND list_contains(p.data.domains, s.shortcode)) AS "Held by",
+       -- No field states why a place stands where it does, so "For" projects nothing.
+       NULL AS "For"
+FROM entries s
+LEFT JOIN market m ON m.value = s.data.market
+WHERE s.type = 'place'
+  AND s.subType = 'settlement'
+  AND list_contains(s.data.parents, 'vedyarargn')
+ORDER BY s.name.full COLLATE NOCASE
+```
+
+The query names the settlements the region holds directly. Everything else stands in one of the lands, and is named on that land's page.
+
 ## See Also
 
 - [[affiliation-varakpnthn|Varṇaka Pantheon]]—the cycle-gods

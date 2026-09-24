@@ -29,6 +29,33 @@ The land is **held**, not endowed, and that is the first thing a traveler up fro
 
 The seats descend by house and not by turn, so a Chandrapuri village changes hands at a marriage or a bankruptcy and never at an election. The Houses' rise and fall is read off the map of the valley as much as off the court's seating.
 
+## Settlements
+
+```sql :allow-empty
+SELECT s.address.slug AS _ref,
+       s.name.full AS "Name",
+       s.data.market || ' ' || m.name AS "Market",
+       s.data.population AS "People",
+       (SELECT string_agg(
+                   CASE
+                       WHEN p.address.slug IS NULL THEN p.name.full
+                       ELSE '[[' || p.address.slug || '|' || p.name.full || ']]'
+                   END, ' and ' ORDER BY p.name.full)
+        FROM entries p
+        WHERE p.type = 'affiliation'
+          AND list_contains(p.data.domains, s.shortcode)) AS "Held by",
+       -- No field states why a place stands where it does, so "For" projects nothing.
+       NULL AS "For"
+FROM entries s
+LEFT JOIN market m ON m.value = s.data.market
+WHERE s.type = 'place'
+  AND s.subType = 'settlement'
+  AND list_contains(s.data.parents, 'chandrapurland')
+ORDER BY s.name.full COLLATE NOCASE
+```
+
+The query names the settlements the land holds in its own right. The cutting-villages of the gem-road, the salt-pans and the fishing beaches are quarters of the city's trade and are counted with it.
+
 ## Economy
 
 The gem trade organizes the whole land. Rough stone arrives at the city from mines across Vedyara and beyond; the cutting, polishing and setting are done in the city and in the valley villages that have specialized in one stage of the work for centuries; the finished pieces leave by sea. Around that runs an ordinary and very productive delta economy—two rice crops on the floodplain, cotton on the drier ground behind it, salt from the pans, and the fish and the boat-timber of the shore.
