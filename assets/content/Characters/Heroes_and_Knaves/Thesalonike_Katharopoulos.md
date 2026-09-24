@@ -604,7 +604,7 @@ Thêsaloníke stands 5'10" tall with a medium build. She has golden-toned skin, 
 
 # Dossier {#dossier}
 
-Thêsaloníke was born into the Katharópoulos family in the heavily forested regions of the **[[affiliation-byzarianlg|Byzarian League]]**, in a village built literally within the forest itself. Her father, **Petros Katharópoulos**, was a respected woodcutter of modest renown, skilled but not ambitious. Her mother died when Thêsaloníke was young, leaving her father to raise three children with only the forest for support. Where her brothers sought other livelihoods—one became a stonemason, the other a merchant—Thêsaloníke showed early aptitude for woodcraft.
+Thêsaloníke was born into the Katharópoulos family in the heavily forested regions of the **[[affiliation-byzarianlg|Byzarian League]]**, in a village built literally within the forest itself. Her father, **Alexáhran Katharópoulos**, was a respected woodcutter of modest renown, skilled but not ambitious. Her mother died when Thêsaloníke was young, leaving her father to raise three children with only the forest for support. Where her brothers sought other livelihoods—one became a stonemason, the other a merchant—Thêsaloníke showed early aptitude for woodcraft.
 
 Her father initially resisted teaching her, believing the work unsuitable for a woman. When she was fourteen, he fell from a tree and broke his leg. With no other option and no money for hired help, Thêsaloníke took up his axe and worked the contracts herself. By the time her father healed, she had proven she could do the work as well as any man. Grudgingly, then with pride, her father became her mentor.
 
@@ -642,13 +642,13 @@ Thêsaloníke is driven by a profound love for the forests of her homeland and a
 
 ### Patrons
 
-- **Master Carpenter Stavros Leontidis**: A renowned furniture maker who commissions Thêsaloníke specifically for rare wood projects. He values her craftsmanship and has become a trusted colleague and occasional confidant.
+- **Master Carpenter Eustrátiash Xenakís**: A renowned furniture maker who commissions Thêsaloníke specifically for rare wood projects. He values her craftsmanship and has become a trusted colleague and occasional confidant.
 - **The Architects' Collective of the Byzarian League**: A group of progressive builders committed to sustainable construction. They seek Thêsaloníke's timber for high-profile projects and trust her judgment on material selection.
 - **The Monastery of Silent Waters**: A religious community in the forest that employs Thêsaloníke to manage their woodlands sustainably while generating income. The head priest, **Father Damian**, shares her conservation philosophy.
 
 ### Enemies
 
-- **The Logging Consortium of the Byzarian League**: A commercial enterprise that prioritizes profit over sustainability. Their operation manager, **Master Harvester Mikhail**, views Thêsaloníke as an irritant and has attempted to undercut her contracts.
+- **The Logging Consortium of the Byzarian League**: A commercial enterprise that prioritizes profit over sustainability. Their operation manager, **Master Harvester Rostamion**, views Thêsaloníke as an irritant and has attempted to undercut her contracts.
 - **Corrupt Guild Officials**: Some members of the **Woodcutters' Guild** resent her for raising standards and are occasionally hostile toward her work practices.
 - **Unscrupulous Competing Woodcutters**: Several rivals view her sustainable practices as economically foolish and have spread rumors about her reliability and quality.
 
@@ -663,7 +663,7 @@ Thêsaloníke is driven by a profound love for the forests of her homeland and a
 
 2. **The Poisoned Forest**: Trees in the northern region begin dying inexplicably. The **Logging Consortium** blames natural causes and seeks to harvest dying trees before they rot. Thêsaloníke's investigation suggests intentional poisoning and discovers evidence pointing toward industrial sabotage or darker forces. Exposing the truth might devastate the region's economy.
 
-3. **The Apprentice Question**: A young woman, **Kira Stonewood**, seeks to apprentice with Thêsaloníke, claiming spiritual calling and genuine skill. Thêsaloníke would be pleased to teach her, but investigation reveals **Kira** may be an infiltrator sent by the **Logging Consortium** to spy on sustainable practices or potentially sabotage Thêsaloníke's work.
+3. **The Apprentice Question**: A young woman, **Nargizán Doukás**, seeks to apprentice with Thêsaloníke, claiming spiritual calling and genuine skill. Thêsaloníke would be pleased to teach her, but investigation reveals **Nargizán** may be an infiltrator sent by the **Logging Consortium** to spy on sustainable practices or potentially sabotage Thêsaloníke's work.
 
 4. **The Lost Technique**: An old woodcutter claims to have knowledge of an ancient **joinery technique** from before the current age—methods that make timber bonds stronger than any current practice. He will only teach Thêsaloníke, but his asking price is that she agree to a dangerous expedition into forbidden forest where these techniques were supposedly lost.
 

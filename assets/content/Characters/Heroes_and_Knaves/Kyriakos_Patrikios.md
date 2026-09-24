@@ -653,7 +653,7 @@ Kyriákos is driven by a need to atone that he consciously recognizes can never 
 
 ### Enemies
 
-- **Sergeant Karûsh**: A former lieutenant from the Iron Wolves Company who was present at the massacre that broke Kyriákos. Karûsh has never forgiven Kyriákos for abandoning the company and suspects he's living in the very village they were hired to destroy. If Karûsh discovered Kyriákos's location, he would likely attempt to capture or kill him for his perceived betrayal.
+- **Karûsh**: A former lieutenant from the Iron Wolves Company who was present at the massacre that broke Kyriákos. Karûsh has never forgiven Kyriákos for abandoning the company and suspects he's living in the very village they were hired to destroy. If Karûsh discovered Kyriákos's location, he would likely attempt to capture or kill him for his perceived betrayal.
 - **The Iron Wolves Company**: The mercenary company views Kyriákos as a deserter who could reveal their operations and methods. There is likely a standing bounty on him, though few realize the old village instructor is worth finding.
 - **Lord Varkûn**: The regional noble who hired the Iron Wolves to massacre the village still rules the region. Kyriákos fears that if his identity were known, Varkûn might move against him or the village he's come to protect.
 - **His Own Conscience**: More than any external enemy, Kyriákos battles himself—his guilt, his memories, his conviction that he deserves punishment for what he has done.
@@ -664,7 +664,7 @@ Kyriákos is driven by a need to atone that he consciously recognizes can never 
 
 ## Plot Hooks
 
-1. **The Ghost from His Past**: One of Kyriákos's former comrades from the Iron Wolves Company, a warrior named **Darius**, tracks him down with seemingly friendly intentions—a reunion of old soldiers. Yet Darius carries orders from above to either recruit Kyriákos back into service or eliminate him as a liability. Kyriákos must get through the dangerous reunion without compromising the village and without becoming the killer he's spent five years trying to stop being.
+1. **The Ghost from His Past**: One of Kyriákos's former comrades from the Iron Wolves Company, a warrior named **Barzanes**, tracks him down with seemingly friendly intentions—a reunion of old soldiers. Yet Barzanes carries orders from above to either recruit Kyriákos back into service or eliminate him as a liability. Kyriákos must get through the dangerous reunion without compromising the village and without becoming the killer he's spent five years trying to stop being.
 
 2. **The Mercenary Company's Return**: The Iron Wolves Company, facing a decline in their fortunes, discovers that the massacre they conducted was illegal and the lord who hired them has disowned them to avoid scandal. Several company members recognize Kyriákos and believe he could be forced to testify against the lord, vindicating the company. They attempt to capture him to force his cooperation—or eliminate him if he refuses. The village becomes caught in crossfire between mercenary forces and local authorities investigating the ancient crime.
 
