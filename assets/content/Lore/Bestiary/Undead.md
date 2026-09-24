@@ -32,7 +32,7 @@ Wherever the dead are studied—by scholars, priests, physicians and arcanists, 
 
 The pairing is the lesson in two words: the one that _wears_, the one that is _driven_.
 
-In Ta'Kheperu itself the words keep their temple spelling, _ṭerebu_ and _ḍumaṭu_, with the emphatic consonants the rest of the world dropped; the temple form is the word as Kheperi speak and write it, and it is invariant in number—one _ṭerebu_, many _ṭerebu_. _Tereb_ and _damut_ are what the rest of the world made of it: the world's plural, _terebu_ and _damutu_, is the Kheperi word heard without its emphatics, and the world's singular is a back-formation from that plural. At the table the vernacular plurals "terebs" and "damuts" are as correct as anyone needs them to be. The [[skill-kheperlng|Kheperi language]] note carries both forms.
+In Ta'Kheperu itself the words keep their temple spelling, _terebu_ and _damutu_, with the emphatic consonants the rest of the world dropped; the temple form is the word as Kheperi speak and write it, and it is invariant in number—one _terebu_, many _terebu_. _Tereb_ and _damut_ are what the rest of the world made of it: the world's plural, _terebu_ and _damutu_, is the Kheperi word heard without its emphatics, and the world's singular is a back-formation from that plural. At the table the vernacular plurals "terebs" and "damuts" are as correct as anyone needs them to be. The [[skill-kheperlng|Kheperi language]] note carries both forms.
 
 ### Folk names
 

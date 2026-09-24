@@ -20,13 +20,13 @@ data:
   governance:
     model: council
     summary: >-
-      This god has no priesthood of its own. Varṇaka ordains into a sampradāya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to the monsoon and the thunder that announces it, answered from the roof-bowl and the village drum, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
+      This god has no priesthood of its own. Varnaka ordains into a sampradāya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to the monsoon and the thunder that announces it, answered from the roof-bowl and the village drum, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
     ranks:
       - level: 0
         title: Patita
         lore: excmmnctrnk
         description: >-
-          "Fallen"—put out of Varṇakan observance altogether, and received again by no house and no sampradāya.
+          "Fallen"—put out of Varnakan observance altogether, and received again by no house and no sampradāya.
       - level: 1
         title: Upāsaka
         lore: layfaithfulrnk
@@ -68,7 +68,7 @@ sohl: {}
 - **Domain:** Storms, rain, lightning, the monsoon, protection of the fields and the coasts
 - **Symbol:** A drum encircled by lightning bolts
 - **Pronunciation:** _MEG-ha-nah-tha_
-- **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
+- **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
 Meghanātha is the god of storms and of the rain the monsoon brings. He is revered throughout [[place-vedyarargn|Vedyara Region]], and most of all along the coasts and the river-valleys. His anger can destroy a village in a night and his favor can keep a region prosperous for a generation. He protects those who live at the mercy of the sky: the farmer waiting on the rains, the fisherman on the sea, and the traveler whose road the great storms cut.
 
@@ -96,4 +96,4 @@ Coastal and riverine households hang a lightning amulet above the door and set a
 
 ### See Also
 
-- [[affiliation-varakpnthn|Varṇaka Pantheon]]
+- [[affiliation-varakpnthn|Varnaka Pantheon]]

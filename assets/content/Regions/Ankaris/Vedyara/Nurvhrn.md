@@ -30,9 +30,9 @@ The winter council sits here, in the middle of the long house, and does the whol
 
 ## Outside
 
-Lowlanders come here. Not many and not often, but the eastern janapadas' factors walk up to renegotiate the fort contract every third year, and the [[affiliation-janpdsvdyr|Mahā-Saṅgha]]'s seal is one of two objects in the long house kept in a box. The Hvarn regard this traffic as a nuisance they are paid for, and have kept it up for four centuries without once inviting anyone to stay the winter.
+Lowlanders come here. Not many and not often, but the eastern janapadas' factors walk up to renegotiate the fort contract every third year, and the [[affiliation-janpdsvdyr|Mahā-Sangha]]'s seal is one of two objects in the long house kept in a box. The Hvarn regard this traffic as a nuisance they are paid for, and have kept it up for four centuries without once inviting anyone to stay the winter.
 
 ## See Also
 
-- [[place-estrnreach|The Eastern Reach]] · [[affiliation-hvarnguides|The Hvarn]] · [[place-sanghafort|The Saṅgha-fort]]
-- [[place-jnanadvara|Jñānadvāra]] · [[place-sankhadvra|Śaṅkhadvāra]]
+- [[place-estrnreach|The Eastern Reach]] · [[affiliation-hvarnguides|The Hvarn]] · [[place-sanghafort|The Sangha-fort]]
+- [[place-jnanadvara|Jñānadvāra]] · [[place-sankhadvra|Shankhadvāra]]

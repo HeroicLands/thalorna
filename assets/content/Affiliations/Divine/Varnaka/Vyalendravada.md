@@ -89,12 +89,12 @@ sohl: {}
 ## Vyālendravāda—The Doctrine of Vyālendra
 
 - **Tradition:** Vyālendravāda—_The Doctrine of Vyālendra_
-- **Deities Venerated:** [[affiliation-vyalendra|Vyālendra]] as supreme; all other Varṇakan deities treated as emanations or aspects of the shaping power
+- **Deities Venerated:** [[affiliation-vyalendra|Vyālendra]] as supreme; all other Varnakan deities treated as emanations or aspects of the shaping power
 - **Emphasis:** Monistic; scholarly; tied to the building trades and the great academies
 - **Pronunciation:** _VYAH-len-drah-VAH-dah_
-- **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
+- **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-The **Vyālendravāda** is a monistic sect and one of the oldest philosophical schools in the Varṇakan tradition. It holds [[affiliation-vyalendra|Vyālendra]] the single supreme deity from whom the whole pantheon emanates. The other gods stand, read as particular expressions of his shaping work. [[affiliation-mahajaya|Mahájaya]] is the shape sustained, [[affiliation-rasikara|Rásikara]] the shape broken for reshaping, [[affiliation-kalavrata|Kālavrata]] the shape released at its term. To worship the pantheon honestly, in this doctrine, is to worship Vyālendra through whichever aspect the occasion asks for.
+The **Vyālendravāda** is a monistic sect and one of the oldest philosophical schools in the Varnakan tradition. It holds [[affiliation-vyalendra|Vyālendra]] the single supreme deity from whom the whole pantheon emanates. The other gods stand, read as particular expressions of his shaping work. [[affiliation-mahajaya|Mahájaya]] is the shape sustained, [[affiliation-rasikara|Rásikara]] the shape broken for reshaping, [[affiliation-kalavrata|Kālavrata]] the shape released at its term. To worship the pantheon honestly, in this doctrine, is to worship Vyālendra through whichever aspect the occasion asks for.
 
 The sect is strongest among the building trades, the great guilds of masons and architects, and the philosophical academies of [[place-vedyarargn|Vedyara Region]]. Its temples are fewer than the Trimūrti-sampradāya's and are magnificent buildings. A well-proportioned temple, the sect holds, is the fullest argument the doctrine has. Its priests are often trained as deeply in geometry and engineering as in theology, and several of the great public works of the Vedyaran cities are Vyāndran.
 

@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "The Flame of Renewal in the Varṇaka pantheon, whose fire destroys so that the cycle may begin again."
+description: "The Flame of Renewal in the Varnaka pantheon, whose fire destroys so that the cycle may begin again."
 type: lore
 subType: deity
 name:
@@ -24,4 +24,4 @@ Rásikaran households keep an unbroken hearth-flame, carried from parent to chil
 
 His shrines stand at a city's edge and at its cremation grounds, and not at its center. Two are named where his fire has gone specifically to work: the cremation shrine outside Dhanurkota, and the shrine at [[place-mukteshvara|Mukteshvara]], Rājapur's downstream village, which receives the dead of the janapada.
 
-At Suvarṇagiri a whole stream on the mountain's back slope is his and is never panned. Not every part of the mountain's wealth belongs to Mahájaya's order, and the stream says so.
+At Suvarnagiri a whole stream on the mountain's back slope is his and is never panned. Not every part of the mountain's wealth belongs to Mahájaya's order, and the stream says so.

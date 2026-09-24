@@ -16,7 +16,7 @@ data:
     model: monarchy
     summary: >-
       Hereditary Mahārāja advised by a martial council of the Sāmantas who hold the road's forts
-      and a priestly court of Varṇaka ushtakas.
+      and a priestly court of Varnaka ushtakas.
     ranks:
       - level: 0
         title: Outcaste
@@ -70,7 +70,7 @@ data:
           The great king himself, in whom the martial council and the priestly court alike find
           their sanction.
     offices:
-      Mahārāja: The great king, ruling by descent and confirmed by the rites the Varṇaka ushtakas
+      Mahārāja: The great king, ruling by descent and confirmed by the rites the Varnaka ushtakas
         perform.
       Rājñī: The chief queen, holding her own revenues, household and voice at court.
       Yuvarāja: The designated heir, commonly given a province to govern as his apprenticeship.
@@ -81,15 +81,15 @@ data:
         minister's.
       Senāpati: Commander of the host, holding the martial council's confidence as well as
         the king's.
-      Daṇḍanāyaka: Magistrate and keeper of the king's justice within a district.
-      Koṣādhyakṣa: Superintendent of the treasury, answerable for revenue, stores and the
+      Dandanāyaka: Magistrate and keeper of the king's justice within a district.
+      Koshādhyaksha: Superintendent of the treasury, answerable for revenue, stores and the
         mint.
       Sāmanta: >-
         A vassal chieftain holding land in return for service, and the kingdom's chief source
         of both strength and rebellion.
       Dūta: Envoy to a foreign court, whose person is protected by custom on both sides of
         the frontier.
-      Gaṇaka: Court astrologer, fixing the auspicious hour for campaigns, marriages and coronations.
+      Ganaka: Court astrologer, fixing the auspicious hour for campaigns, marriages and coronations.
   commonSkills:
     - vedyarlng
   seat: sandhyapur

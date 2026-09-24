@@ -100,13 +100,13 @@ At the head of all of it stands the **High Speaker**, elected by the kulinas fro
 
 ## Outside the Compact
 
-[[affiliation-suvrgrjnpd|Suvarṇagiri]] is the one inland polity of consequence that holds no seat, and it is outside by its own constitution rather than by anyone's exclusion. A seat obliges its holder to open the metal crossing its territory to the Collective's factors, and the Gold Constitution vests the weighing in the temple station and the lending in the common treasury, where no outside house may reach either. The two instruments cannot both be honored, so Suvarṇagiri honors its own.
+[[affiliation-suvrgrjnpd|Suvarnagiri]] is the one inland polity of consequence that holds no seat, and it is outside by its own constitution rather than by anyone's exclusion. A seat obliges its holder to open the metal crossing its territory to the Collective's factors, and the Gold Constitution vests the weighing in the temple station and the lending in the common treasury, where no outside house may reach either. The two instruments cannot both be honored, so Suvarnagiri honors its own.
 
-The arrangement suits Suvarṇagiri and irritates everybody else. The Assembly would like a sixth seat and the gold standing behind it. It has no means of compelling one, and the gold reaches the coast regardless, through buyers who pay in coin at the edge of the territory and ask no questions inside it.
+The arrangement suits Suvarnagiri and irritates everybody else. The Assembly would like a sixth seat and the gold standing behind it. It has no means of compelling one, and the gold reaches the coast regardless, through buyers who pay in coin at the edge of the territory and ask no questions inside it.
 
 ## See Also
 
 - [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]—the federation the Assembly governs
 - [[lore-vdyrnbnkng|Vedyaran Banking]]—the system the five seats hold in common
 - [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—the confederation the two temple-republic seats also belong to
-- [[affiliation-suvrgrjnpd|Suvarṇagiri Janapada]]—the polity that holds no seat
+- [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]]—the polity that holds no seat

@@ -45,7 +45,7 @@ The Byzarian cities—[[affiliation-altinkale|Altinkale]], [[affiliation-denizar
 
 The [[affiliation-arldnpnthn|Aurèldían Pantheon]] is the formal religion of the Hellád, and Heliónis is the region where its theological scholarship has been most deeply developed. The great temples of Heliónis host philosophical debates as readily as liturgies; the city's religious scholars have produced the canonical interpretations that the western kingdoms now treat as authoritative.
 
-The Byzarian cities are more religiously heterogeneous. Aurèldían worship remains dominant in civic life, but substantial minority communities practice [[affiliation-ashanpnthn|Āsháian]] and even [[affiliation-varakpnthn|Varṇaka]] faiths, served by small temples and itinerant holy men. Byzarian tolerance of foreign faiths is legendary by Ankarian standards—less a matter of theological conviction than of the practical reality that forbidding a faith would cost the city more in trade than it could possibly recoup in orthodoxy.
+The Byzarian cities are more religiously heterogeneous. Aurèldían worship remains dominant in civic life, but substantial minority communities practice [[affiliation-ashanpnthn|Āsháian]] and even [[affiliation-varakpnthn|Varnaka]] faiths, served by small temples and itinerant holy men. Byzarian tolerance of foreign faiths is legendary by Ankarian standards—less a matter of theological conviction than of the practical reality that forbidding a faith would cost the city more in trade than it could possibly recoup in orthodoxy.
 
 ## Politics and Power
 
