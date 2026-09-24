@@ -69,6 +69,8 @@ Kheperi distinguishes three cardinal vowels, each with short and long variants:
 
 **Diphthongs:** ay, aw, iy occur but are often treated as vowel + glide sequences rather than true diphthongs.
 
+**Vowels in Writing:** The Kheperi scripts record consonants and leave the vowels to the reader, so this inventory describes the language as it is spoken. The romanisation these pages use is a reader's apparatus rather than Kheperi orthography, and it spends a vowel the spoken language does not have wherever that is what keeps a name sayable.
+
 ### Phonotactic Patterns
 
 Analysis of attested names reveals:
@@ -106,11 +108,15 @@ Kheperi follows a **Verb-Subject-Object (VSO)** order in narrative clauses, thou
 
 ## Script & Literacy
 
+Kheperi is written in two hands, and the division between them is one of trade rather than of style. The sacred hand belongs to the temple and the tomb; the demotic hand belongs to the counting-house, the tax roll and the contract. A scribe is trained into one of them, and training in one does not confer the other, so a priest who follows a mortuary text without effort may be unable to read a harbour manifest, and the clerk who wrote the manifest cannot read the wall behind him. A temple record and a tax record are therefore two separate errands, each needing a reader of its own, and whether a Kheperi is literate is the wrong question to ask of him: the question is which hand he was taught.
+
 **Sacred Script ([[skill-khprsshscrpt|Kheperi-sesh]]):** The original writing system employs a mixed inventory of logograms (representing whole words), phonetic signs (representing consonant clusters), and determinatives (clarifying semantic fields). Approximately 700 distinct signs are recognized by trained scribes, though only 200-300 are commonly used. This system is reserved for temple walls, royal monuments, and sacred texts; its complexity ensures that literacy remains the province of a trained priesthood.
 
 **Demotic Script ([[skill-demtkscrpt|Demotika]]):** A rapidly-written cursive adaptation emerged around 800 years ago for administrative and mercantile purposes, reducing the sign inventory to roughly 100 characters and introducing ligatures for common sequences. Demotic writing is significantly faster and is taught to scribes, tax officials, and merchants.
 
 **Modern Simplifications:** In recent centuries, some merchants and scholars have experimented with an even more streamlined "mercantile hand," approaching the status of a true alphabet with 24-30 signs per some reformers.
+
+**Vowels and Foreign Spellings:** Neither hand records vowels. The phonetic signs carry consonants, and a reader supplies the vowels out of the word he already knows. The spellings other tongues give to Kheperi words are transliterations written in the [[skill-semrnscrpt|Sêmarion]], and the vowels a foreigner reads in one of them are a convenience his own scholars supply where the Kheperi scripts write nothing at all. A Kheperi says his name in the three vowels the language has; a foreigner writes it in the letters his own alphabet gives him, and the two need not agree.
 
 **Literacy:** Formal training in sacred Kheperi script is restricted to the priesthood, royal scribes, and members of the esoteric orders. Among the nobility, perhaps 20-35% can read the demotic script, and a smaller number the sacred form. Professional scribes handle all written communication for the rest of the population; even guildsmen and merchants rely entirely on scribes for contracts and records. The gulf between the literate few and the non-literate majority is steep and has become a marker of social prestige and magical authority.
 
@@ -197,19 +203,19 @@ In Kheperian tradition, names are sacred utterances that encapsulate divine prin
 
 **Given Names (Male):**
 
-- Often incorporate theophoric elements (divine names prefixed or suffixed): _Ahmurî_ (devotion-blessed), _Imhûtip_ (he who arrives in stillness)
+- Often incorporate theophoric elements (divine names prefixed or suffixed): _Ahmurê_ (devotion-blessed), _Imhûtep_ (he who arrives in stillness)
 - Many reference royal titles, divine attributes, or favorable circumstances
 - Frequently compound with elements meaning "true," "beloved," "strength," or "protection"
 - Consonant-heavy phonology with frequent emphatics
 - Written as a single word, however many elements they are built from, and never with the collective _-u_, which belongs to the house
-- Examples: _Khâfirah_ (the bold one), _Thûtmîs_ (moon-born)
+- Examples: _Khâfirah_ (the bold one), _Thûtmês_ (moon-born)
 
 **Given Names (Female):**
 
 - Similarly theophoric; often invoke goddesses of motherhood, fertility, and magic
-- Many end in long vowels (_-â, -î_) which grammatically mark feminine gender
+- Many end in long vowels (_-ê, -ā, -ī_) which grammatically mark feminine gender
 - Frequently incorporate feminine diminutive suffixes, creating terms of endearment
-- Examples: _Ankhisna_ (life-bearer), _Sinya_ (fortunate), _Tiya_ (gift)
+- Examples: _Ankhesna_ (life-bearer), _Senya_ (fortunate), _Tiya_ (gift)
 
 **Clan or House Names:**
 
@@ -217,7 +223,7 @@ In Kheperian tradition, names are sacred utterances that encapsulate divine prin
 - Often include hieratic epithets or divine titles
 - May reference the location of the family shrine or primary temple affiliation
 - Carry the collective _-u_: a house is named as the people of its founder, its shrine or its land, so the plural is what a reader hears at the end of every one
-- Examples: _Âmin'Râu_ (house of the sun-lord), _Ta'Sikinu_ (land of the ancestral realm), _Pir'Ankhrau_ (temple of the living)
+- Examples: _Âmen'Rêu_ (house of the sun-lord), _Ta'Sekenu_ (land of the ancestral realm), _Per'Ankhrau_ (temple of the living)
 
 ### Titles and Epithets
 
@@ -229,309 +235,309 @@ Formal address involves extensive titulature; individuals of rank may have five 
 
 ### Male Given Names
 
-- Ahmurî
-- Akhar
-- Akharin
-- Akhrim
+- Ahmurê
+- Akher
+- Akheren
+- Akhrem
 - Amrusi
 - Amûnmat
-- Amunutip
+- Amunotep
 - Amuri
-- Ankhar
-- Ankharhaf
+- Ankeret
+- Ankher
+- Ankherhaf
 - Ankhi
 - Ankhur
-- Ankirit
 - Asâri
-- Bakhûr
-- Bikinkhuns
+- Bekenkhons
+- Bekhûr
 - Bîra
-- Dajika
+- Dajeka
 - Dari
-- Djibari
-- Hanni
-- Hârakit
-- Harsaîs
-- Harusî
+- Djebari
+- Hâraket
+- Harosê
+- Henni
+- Hersaîs
 - Huyat
-- Imhutar
-- Imhûtip
+- Imhotar
+- Imhûtep
 - Imsi
 - Inhâti
 - Ip
-- Jidaf
-- Jirkir
+- Jedaf
+- Jerker
 - Juhatî
 - Kaur
-- Khâdin
+- Kedût
+- Khâden
 - Khâfirah
-- Khamûr
 - Khansi
 - Khay
+- Khemûr
 - Khîty
+- Khôr
 - Khûba
-- Khûr
-- Kidût
 - Manak
 - Mani
 - Marûptas
 - Matari
-- Minisî
-- Minkâri
+- Menisî
+- Menkâri
+- Mento
+- Merankh
 - Minra
-- Minti
-- Mirankh
 - Nakhtar
 - Natari
-- Nibmaht
-- Niburît
-- Nifrita
-- Nifta
-- Nimjin
-- Nishi
-- Pahsir
-- Pakhuti
-- Paridi
+- Nebmeht
+- Neborêt
+- Nefreta
+- Nefta
+- Nemjen
+- Neshi
+- Pahser
+- Pakhoti
+- Paredi
 - Parri
-- Pashar
-- Pathamusi
-- Patnifur
-- Pinrik
-- Pirra
+- Pasher
+- Pathamose
+- Patnefur
+- Penrek
+- Perra
 - Pîshur
-- Psinti
+- Psenti
 - Raiah
 - Ramashî
-- Râmisah
-- Rinur
-- Sâbakhutip
+- Rêmeseh
+- Renur
+- Sâbekhotep
 - Sahura
-- Sapsi
+- Sapse
 - Sarâpis
-- Shanur
-- Sibinra
-- Sifurâ
-- Sinit
-- Sinka
-- Sinnusirit
+- Sebenra
+- Sefurâ
+- Senet
+- Senka
+- Sennuseret
+- Shenur
 - Sînuri
 - Siprah
-- Subakâ
+- Sobakâ
 - Tara
+- Tefnutî
+- Tethi
 - Thâf
-- Thûtmîs
-- Tifnutî
-- Tithi
+- Thûtmês
+- Totkar
 - Tûmka
-- Tutkar
-- Usitirak
+- Usetirak
 - Wahkar
 - Wajakî
-- Wanum
-- Winnifir
+- Wanom
+- Wennefer
 
 ### Female Given Names
 
-- Âhmirat
-- Amûnit
-- Amusi
-- Ankhas
-- Ankhasi
+- Âhmerat
+- Amosi
+- Amûnet
+- Ankenseti
+- Ankhes
+- Ankhesi
+- Ankhesna
 - Ankhîra
-- Ankhisna
 - Ankhri
-- Ankinsiti
-- Anmitra
-- Asnit
-- Bakin
+- Anmetra
+- Asnet
+- Baken
 - Bânut
-- Bikani
-- Bikat
-- Binirî
+- Bekani
+- Bekat
+- Benerî
 - Binta
-- Hamaâ
-- Hanurit
-- Hanuta
 - Hathura
-- Hatmiya
-- Hatsita
+- Hatseta
+- Hemaâ
+- Henuret
+- Henuta
+- Hetmiya
 - Îpi
-- Isarit
+- Isaret
+- Kentara
 - Khama
-- Khamusit
-- Khasiti
+- Khamoset
 - Khatah
-- Kintara
-- Mahana
+- Kheseti
 - Marima
-- Miniti
-- Miritabik
-- Miritah
-- Miritâna
-- Mirtip
+- Mehena
+- Meneti
+- Meretah
+- Meritabek
+- Meritâna
+- Mertep
 - Muita
-- Mutimri
-- Mutinakh
+- Mutemre
+- Mutenakh
 - Mutrâ
-- Nafari
-- Nafurî
-- Nahbit
-- Nibhatar
-- Nibit
-- Nibita
-- Nibka
-- Nibsiti
-- Nifirika
-- Nifiris
-- Nifirkah
-- Nisakha
-- Nismâ
+- Nafare
+- Nafurê
+- Nebet
+- Nebhetar
+- Nebita
+- Nebka
+- Nebseti
+- Neferika
+- Neferis
+- Neferkah
+- Nehbet
+- Nesekha
+- Nesmâ
 - Nitaris
+- Noret
 - Nubhas
-- Nurit
 - Nûta
 - Pakha
-- Pimî
-- Pishat
+- Pemî
+- Peshet
 - Raiya
-- Rinia
-- Rinutî
-- Sakhamit
-- Sâktit
+- Renia
+- Renutê
+- Sâktet
 - Satara
+- Satera
 - Satira
-- Satirah
-- Satîrit
+- Satîri
 - Satiya
 - Satîyat
-- Shabas
-- Shaprana
-- Sharamun
-- Shaspa
-- Sikinari
-- Sînta
-- Sinya
-- Sisha
-- Sishutip
+- Sekenare
+- Sekhemet
+- Sênta
+- Senya
+- Sesha
+- Seshotep
+- Shebas
+- Sheprana
+- Sheramon
+- Shespa
 - Takat
-- Takisit
-- Takiti
+- Takeset
+- Takete
 - Tamiyra
 - Tapina
 - Tâpira
 - Târi
-- Tashari
-- Tchamûsa
+- Tasheri
+- Tchamôsa
+- Temerît
+- Tenfakte
+- Tetera
 - Thaya
-- Timirît
-- Tinfakti
-- Tiryi
-- Titira
+- Tirye
 - Tiya
 - Tjumir
 - Tjuya
-- Tyima
-- Warit
+- Tyema
+- Waret
 
 ### Clan or Tribe Names
 
-- Akhat'Kûtu
-- Akhat'Râu
-- Akh'Anaru
-- Âmin'Râu
-- Amra'Misu
-- Amun'Râshatu
-- Ankhat'Saru
-- Ankh'Khasu
-- Ankh'Râu
-- Ankh'Sikitu
-- An'Kahatu
-- Asirit'Mû
-- Ba'in'Râu
-- Ba'Nipau
+- Akhet'Kûtu
+- Akhet'Rau
+- Akhe'Naru
+- Âmen'Rêu
+- Amra'Mesu
+- Amun'Râshetu
+- Ankhet'Saru
+- Ankhe'Rêu
+- Ankh'Khesu
+- Ankh'Seketu
+- An'Kehetu
+- Aseret'Mû
+- Ba'en'Rêu
+- Ba'Nepau
 - Ba'Patau
-- Bin'Iritu
-- Djid'Karû
-- Djisir'Kuru
-- Djit'Amîu
-- Djit'Pathu
-- Dji'in'Ankhu
-- Hat'Harau
-- Hât'Haru
+- Bene'Retu
+- Djed'Karû
+- Djeser'Kuru
+- Djet'Amêu
+- Djet'Pathu
+- Dje'en'Ankhu
+- Hât'Heru
 - Hat'Kâtau
-- Hat'Nifitu
-- Hat'Rimitu
-- Hat'Tariu
-- Hat'Wirau
+- Hat'Nefetu
 - Ha'Pirau
-- Ib'Iminu
+- Het'Herau
+- Het'Remetu
+- Het'Tariu
+- Het'Werau
+- Ib'Imenu
 - Im'Pataku
 - Ip'Maâru
 - Ip'Tisû
-- Isa'Hatu
-- Isi'Frîu
-- Iu'Pahtiu
+- Isa'Hetu
+- Ise'Fréu
+- Iu'Pehtiu
 - Jâ'Utu
-- Ka'Hururu
-- Ka'it'Khusitu
-- Ka'Sakhanu
-- Ka'Sikiru
-- Ka'Situ
-- Ka'Takîtu
-- Kham'Pathau
-- Khant'Amitu
-- Man'Pahru
-- Ma'Shabtu
-- Ma'Tinuru
-- Min'Firahu
-- Min'Kiru
-- Min'Nifru
-- Min'Pataru
-- Miru'Patau
-- Miy'Khariu
-- Na'Khashu
-- Nib'Akhatu
+- Ka'et'Khosetu
+- Ka'Horuru
+- Ka'Sekeru
+- Ka'Sekhenu
+- Ka'Setu
+- Ka'Takétu
+- Khem'Pathau
+- Khent'Ametu
+- Man'Pehru
+- Ma'Shebtu
+- Ma'Tenoru
+- Men'Firahu
+- Men'Keru
+- Men'Nefru
+- Men'Pataru
+- Meru'Patau
+- Mey'Khariu
+- Neb'Akhetu
+- Nes'Heretu
+- Ne'Kheshu
 - Nisub'Itiu
-- Nis'Haritu
-- Pir'Ankhrau
-- Pir'Habiu
-- Pir'Nuru
-- Pir'Râku
-- Pir'Wâ'atu
-- Ra'Kirahu
-- Ri'in'Frîu
-- Ri'in'Khansu
-- Ri'in'Khâtu
-- Ri'in'Kitu
+- Per'Ankhrau
+- Per'Habeu
+- Per'Noru
+- Per'Râku
+- Per'Wâ'Atu
+- Ra'Kerahu
+- Re'en'Fréu
+- Re'en'Ketu
+- Re'en'Khensu
+- Re'en'Khétu
 - Sa'Anutu
-- Sa'Arithu
+- Sa'Arethu
 - Sa'Muru
 - Sa'Pathau
-- Shab'Sikinu
-- Shamis'Râu
-- Shamu'Inu
+- Sekmet'Âu
+- Sek'Maru
+- Set'Maâru
+- Shamu'Enu
 - Sham'un'Uru
-- Shap'Kharu
-- Shati'u
-- Sikmit'Au
-- Sik'Maru
-- Sit'Maâru
+- Shap'Kheru
+- Shate'u
+- Sheb'Sekenu
+- Shemes'Râu
 - Ta'Djâru
-- Ta'Hatitu
+- Ta'Hetetu
 - Ta'Jasaru
 - Ta'Maaru
-- Ta'Mahatu
-- Tâ'Mihatu
-- Ta'Miritu
-- Ta'Mitu
+- Ta'Mahetu
+- Tâ'Mehetu
+- Ta'Meretu
+- Ta'Metu
 - Ta'Murrau
-- Ta'Nimitu
+- Ta'Nemetu
 - Ta'Pâthau
-- Ta'Sikinu
-- Ta'Sirikitu
+- Ta'Sekenu
+- Ta'Sereketu
 - Ta'Urrau
-- Thut'Musau
-- Tutin'Râu
-- Tut'Kanu
-- Wasit'Nibu
-- Wat'Inrau
+- Thut'Mosau
+- Toten'Râu
+- Tot'Kanu
+- Waset'Nebu
+- Wat'Enrau
