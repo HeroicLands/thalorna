@@ -28,7 +28,7 @@ data:
   gender: female
   species: null
   age: 32
-  birthday: 688/2/15
+  born: 688/2/15
   height: 1.8
   weight: 74.4
   frame: medium
