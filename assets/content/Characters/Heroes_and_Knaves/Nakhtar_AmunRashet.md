@@ -656,7 +656,7 @@ Nakhtar's primary motivation is the preservation of craft excellence in an age i
 
 ### Patrons
 
-- **The Temple of Íšét, High Priestess Seshat**: The great temple dedicated to the deity of fertility and renewal has commissioned Nakhtar for all major thatching work for the past three decades. Seshat views Nakhtar's work as a reflection of divine craftsmanship and insists that none other touch the temple's iconic roof.
+- **The Temple of Íšét, High Priestess Meritâna**: The great temple dedicated to the deity of fertility and renewal has commissioned Nakhtar for all major thatching work for the past three decades. Meritâna views Nakhtar's work as a reflection of divine craftsmanship and insists that none other touch the temple's iconic roof.
 
 - **The Farmers' Cooperative of the Lower Delta**: A consortium of the region's most successful farming families maintains a standing agreement with Nakhtar to maintain and repair the complex system of storage buildings, granaries, and shelters that form the backbone of their operation. They pay him an annual retainer that provides a measure of financial security.
 

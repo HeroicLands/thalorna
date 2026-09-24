@@ -610,13 +610,13 @@ Pat'nefur stands 5'7" tall with a medium build. He has dark skin, black hair, an
 
 **A Child of the Guild Quarter**
 
-Patnefur was born into the Guild Quarter of Wasetkara, where craftsmen of every imaginable discipline plied their trades. His father, Setmaâr, was a master perfumer of considerable reputation, while his mother, Meryt, worked as a dyer of great skill. From his earliest memories, young Patnefur was surrounded by the interplay of scent and color, and his acute sensitivity to aromatic compounds became apparent by his fifth year. Where other children might smell nothing but "flower," Patnefur could distinguish between the scents of a dozen different varieties of lotus, could detect the faint underlying notes of earth and sun in a simple rose petal.
+Patnefur was born into the Guild Quarter of Wasetkara, where craftsmen of every imaginable discipline plied their trades. His father, Setmaâr, was a master perfumer of considerable reputation, while his mother, Hatseta, worked as a dyer of great skill. From his earliest memories, young Patnefur was surrounded by the interplay of scent and color, and his acute sensitivity to aromatic compounds became apparent by his fifth year. Where other children might smell nothing but "flower," Patnefur could distinguish between the scents of a dozen different varieties of lotus, could detect the faint underlying notes of earth and sun in a simple rose petal.
 
 His training began at age seven in his father's workshop. Setmaâr was a demanding teacher, but also a visionary one. Rather than teaching the boy to merely replicate the great fragrances of the past, he encouraged Patnefur to experiment, to combine scents in ways that seemed almost heretical to the conservative guild masters. By his teens, Patnefur had already begun to revolutionize the perfumer's art, creating fragrances that seemed to tell stories—to evoke specific emotions, memories, or visions.
 
 **The Scar and the Theft**
 
-At twenty-two years of age, Patnefur achieved his first true triumph: a fragrance called "The Awakening of Amun," a perfume of such extraordinary beauty and complexity that nobles from across the empire began to seek it. It was this very success that brought him his scar and the bitter lesson that jealousy wears many faces. A fellow perfumer—a man named Hatshepsut, who had been passed over for the same commission that Patnefur won—attacked him in the street with the intent to silence him permanently. Only the intervention of a temple guard and Patnefur's own surprising agility prevented the wound from being fatal.
+At twenty-two years of age, Patnefur achieved his first true triumph: a fragrance called "The Awakening of Amun," a perfume of such extraordinary beauty and complexity that nobles from across the empire began to seek it. It was this very success that brought him his scar and the bitter lesson that jealousy wears many faces. A fellow perfumer—a man named Bekhûr, who had been passed over for the same commission that Patnefur won—attacked him in the street with the intent to silence him permanently. Only the intervention of a temple guard and Patnefur's own surprising agility prevented the wound from being fatal.
 
 **Current Mastery**
 
@@ -654,7 +654,7 @@ Patnefur is driven by a belief that he has not yet created his masterpiece—the
 
 - **Social Isolation**: His total dedication to his craft leaves little room for personal relationships or community engagement, making him seem cold and distant to many.
 
-- **Vulnerability to Jealousy**: As Hatshepsut demonstrated, his successes generate dangerous envy in others. He maintains defensive security around his workshop but remains vulnerable to subtler forms of sabotage.
+- **Vulnerability to Jealousy**: As Bekhûr demonstrated, his successes generate dangerous envy in others. He maintains defensive security around his workshop but remains vulnerable to subtler forms of sabotage.
 
 - **Philosophical Rigidity**: Once he has committed to a particular vision or approach, he is difficult to dissuade, even when evidence suggests he may be wrong.
 
@@ -670,7 +670,7 @@ Patnefur is driven by a belief that he has not yet created his masterpiece—the
 
 ### Enemies
 
-- **Master Hatshepsut (Scarred Perfumer)**: Though he supposedly died from his wounds, whispers persist that Hatshepsut survived and has been plotting his revenge from the shadows. Rumor has him acquiring rare poisons with which to compromise Patnefur's formulations.
+- **Master Bekhûr (Scarred Perfumer)**: Though he supposedly died from his wounds, whispers persist that Bekhûr survived and has been plotting his revenge from the shadows. Rumor has him acquiring rare poisons with which to compromise Patnefur's formulations.
 
 - **The Traditionalist Consortium**: A loose alliance of older perfumers and guild conservatives who view Patnefur as a threat to the established order and the sanctity of their craft. They have been known to attempt to restrict his access to rare ingredients and materials.
 

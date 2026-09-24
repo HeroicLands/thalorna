@@ -145,7 +145,7 @@ A member is licensed in one specialty by default at journeyman elevation; additi
 ## Notable Members
 
 - **[[being-akhremrnfr|Akhrem Reenfre]]**—Master Hunter; a member of long standing and unorthodox method. Akhrem maintains formal membership and pays dues but operates with substantial independence—preferring solitary work, idiosyncratic techniques, and a notable reluctance to take apprentices. The guild treats him with the mixture of respect and exasperation it reserves for talents it cannot replace.
-- **Master Soren**—Akhrem's ancient mentor; rumored to hold knowledge of a legendary beast that no other member has been permitted to learn.
+- **Master Natari**—Akhrem's ancient mentor; rumored to hold knowledge of a legendary beast that no other member has been permitted to learn.
 - **Wermeryt Khentkawes**—First Hunter; a unifying figure across the specialty divisions.
 
 ## Doctrine and Practice
@@ -181,6 +181,6 @@ A guild member carries a stamped bronze token (the _nuw-mudra_) bearing his lice
 ## Plot Hooks
 
 - **The Falsified Cull.** A village along the Taméresh has reported, and been paid for, a crocodile cull that on later inspection appears to have been substantially exaggerated. The Master Hunter who sealed the report has produced documentation; the village headman swears the documentation is false. The chapter council must investigate, with consequences for the master's seal either way.
-- **The Legendary Beast.** Master Soren, near death, has summoned [[being-akhremrnfr|Akhrem Reenfre]] to pass on knowledge of a creature he has never taught—a beast of immense rarity that Soren has hunted, refrained from killing, and concealed for forty years. The knowledge, once passed, will inevitably leak to powerful interests who will commission a hunt the guild cannot openly support or refuse.
+- **The Legendary Beast.** Master Natari, near death, has summoned [[being-akhremrnfr|Akhrem Reenfre]] to pass on knowledge of a creature he has never taught—a beast of immense rarity that Natari has hunted, refrained from killing, and concealed for forty years. The knowledge, once passed, will inevitably leak to powerful interests who will commission a hunt the guild cannot openly support or refuse.
 - **The Medjay Provocation.** A Medjay noble has begun conducting commercial-scale hunts under cover of his hereditary exemption, undercutting guild pricing in the meat markets. The Council of the Long Spear's response will test the accommodation that has held the two institutions in peace for centuries.
 - **The Foreign Specialist.** A Vylarian beast-master, claiming an Ordo Arcanis license to procure rare fauna for arcane study, has begun operating in Ta'Kheperan territory without a Per'Nuw license. The Court has so far declined to intervene. The guild must decide whether to obstruct his work, accommodate him, or formally petition the Per-Aá to refuse Ordo procurement permits.
