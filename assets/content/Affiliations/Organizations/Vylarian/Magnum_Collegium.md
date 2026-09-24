@@ -27,6 +27,12 @@ data:
         description: >-
           Permanent loss of a master's seal by Curia ruling—rare and crushing, and the harshest
           sanction the Collegium can impose.
+      - level: 1
+        title: Apprentice
+        lore: apprenticernk
+        description: >-
+          Certified by a member guild under standards the Collegium has standardized across
+          every member territory; not yet a master.
       - level: 3
         title: Guildmaster
         lore: masterrnk

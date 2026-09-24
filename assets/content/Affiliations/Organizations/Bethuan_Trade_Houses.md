@@ -27,13 +27,6 @@ data:
         description: >-
           Admission or expulsion of a member house is the Council of Matriarchs' own to decide.
       - level: 1
-        title: Junior House
-        lore: dependentrnk
-        description: >-
-          A recently-formed house, regional specialty merchant or independent trader without
-          formal house affiliation, given the practical benefits of mutual recognition without
-          the formal obligations of membership.
-      - level: 2
         title: Lesser House
         lore: swornmemberrnk
         description: >-

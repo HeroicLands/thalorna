@@ -29,7 +29,7 @@ data:
       A scholarly federation of philosophical colleges whose arcane college is now the
       dominant Ordo Arcanis, teaching every non-arcane discipline through its chapterhouses.
     ranks:
-      - level: 2
+      - level: 1
         title: Student
         lore: initiaternk
         description: >-

@@ -31,13 +31,13 @@ data:
         lore: expelledrnk
         description: >-
           Struck from a chapter-temple's service, no longer accounted a priest of the Account.
-      - level: 3
+      - level: 1
         title: Priest
         lore: priestrnk
         description: >-
-          Ordained to a Kheperi temple's rites; every senior officer of the network is drawn
-          from this order.
-      - level: 4
+          Ordained to a Kheperi temple's rites, the order every senior officer is drawn from,
+          but not yet assigned independent charge of a chapter's treasury function.
+      - level: 3
         title: High Priest
         lore: highpriestrnk
         description: >-

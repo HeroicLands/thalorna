@@ -33,6 +33,12 @@ data:
         description: >-
           Struck from a trade's charter and the Sôd's roll; the Sôd's authority over guilds
           is equivalent to the Vylarian Collegium's it replaced.
+      - level: 1
+        title: Apprentice
+        lore: apprenticernk
+        description: >-
+          Bound to a chartered trade and examined as the Sôd's authority requires, not yet a
+          registered master.
       - level: 3
         title: Guildmaster
         lore: masterrnk
