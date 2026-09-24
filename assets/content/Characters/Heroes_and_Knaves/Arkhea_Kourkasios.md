@@ -657,7 +657,7 @@ Arkhêa no longer operates from personal ambition; that luxury departed decades 
 ### Enemies
 
 - **The Brass Knuckles**: A crew of street thugs led by a brutal enforcer named **Korvin** who run extortion rackets against beggars. They have beaten Arkhêa multiple times for "protection" money she could not pay.
-- **City Constabulary Lieutenant Thaddeus**: An official who views beggars as urban blight to be removed. He has had Arkhêa arrested multiple times for vagrancy, each arrest more brutal than the last.
+- **Stephanárzan**: An official who views beggars as urban blight to be removed. He has had Arkhêa arrested multiple times for vagrancy, each arrest more brutal than the last.
 
 ### Affiliations
 
@@ -670,7 +670,7 @@ Arkhêa no longer operates from personal ambition; that luxury departed decades 
 
 2. **The Overheard Secret**: While sitting unnoticed in a merchant house vestibule, Arkhêa overhears a conspiracy involving poisoning of a city official. She knows enough to recognize the plot but is trapped in the terrible position of having evidence that no one would believe a beggar could possess. She must find a way to warn the target without exposing the conspiracy to those who would use it for their own purposes.
 
-3. **The Lost Apprentice**: A young merchant's apprentice, **Callisto**, confides in Arkhêa that he has witnessed his master murdering a rival. The boy is paralyzed by fear—coming forward would mean losing his livelihood and possibly his life. Arkhêa must decide whether to help expose the crime, knowing that her involvement would never actually be believed, or help the boy escape with his conscience intact.
+3. **The Lost Apprentice**: A young merchant's apprentice, **Shahrikos**, confides in Arkhêa that he has witnessed his master murdering a rival. The boy is paralyzed by fear—coming forward would mean losing his livelihood and possibly his life. Arkhêa must decide whether to help expose the crime, knowing that her involvement would never actually be believed, or help the boy escape with his conscience intact.
 
 4. **The Curse in the Beggar's Market**: A strange illness begins spreading through the beggar community—victims fall into delirium and fever. Arkhêa, with her knowledge of herbalism and her network of invisible informants, begins to suspect the illness is no accident but deliberate poisoning. She must investigate without drawing the attention of authorities who would blame the victims rather than seek justice for them.
 
