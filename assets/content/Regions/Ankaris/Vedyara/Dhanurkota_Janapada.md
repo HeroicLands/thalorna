@@ -118,7 +118,7 @@ data:
     - affiliation-mrchntclctvvdyr
     - lore-vdyrnbnkng
   lore:
-    - humanflk
+    - vedyariclt
   parents:
     - janpdsvdyr
   relations:
