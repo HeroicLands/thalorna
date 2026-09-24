@@ -147,6 +147,11 @@ WITH peoples AS (
   FROM notes n
   WHERE n.type = 'affiliation' AND n.subType = 'polity'
 )
+-- `offices` is read as a MAP because the corpus carries more than two hundred
+-- distinct office keys, which is the threshold above which a JSON object is
+-- inferred as a map rather than a struct. Consolidating the office vocabulary
+-- below that count flips the column to a struct and `map_entries` stops binding,
+-- which fails the build rather than emptying the table.
 SELECT p.people AS _section,
        e.key    AS "Office",
        coalesce(
