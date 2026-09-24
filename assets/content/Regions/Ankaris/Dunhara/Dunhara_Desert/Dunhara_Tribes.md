@@ -102,7 +102,7 @@ data:
   relations:
     ashanpnthn: aligned
     sultntmrdd: unaligned
-    vindhyalay: rival
+    bhumipala: rival
     cnfdrtnhrdnstts: unaligned
 packFolder: dunharadesert
 sohl: {}

@@ -18,6 +18,7 @@ data:
   borders:
     - { to: vedyarargn, bearing: E }
     - { to: meghsamdra, bearing: SE }
+    - { to: xerathia, bearing: W }
   population: null
 packFolder: vedyara
 ---
@@ -38,7 +39,7 @@ Two trades keep the coast working. Salt is raked from pans along the whole shore
 
 Vedyari shipping on this sea is coastwise. Hulls work between the roadsteads and round the southern turn into the [[place-meghsamdra|Megha-samudra]], and the passage to the Kheperi delta is made that way when the season allows it. No house of the west coast keeps a factor on any farther shore, and no master here is paid to cross open water.
 
-What the men of this coast know of the deep west, they have from sailors met at the delta and from crews blown out and back. The accounts do not agree with one another, and the Vedyari have never had reason enough to go and settle the matter.
+The far shore is the eastern coast of [[place-xerathia|Xerathia]], a month of open water to the west, and no Vedyari hull works it. What the men of this coast know of that shore they have from Kheperi masters met at the delta and from crews blown out and back. It is enough to know that the cargoes worth carrying come round the other way.
 
 ## See Also
 
