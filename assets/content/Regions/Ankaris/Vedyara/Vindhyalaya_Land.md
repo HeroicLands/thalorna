@@ -29,7 +29,7 @@ The southern Vedyari kingdoms are river valleys, tropical ports and the slow rhy
 
 The kingdom's wealth rides on the pass-roads. Caravans carrying cotton, silk, spice and worked metal climb north out of the Vedyari plains and over the [[place-graznmntns|Grazian]] summits to the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]]. Others take the longer eastern branch into the western marches of [[place-tanvuregin|Tānvür]]. Return caravans bring salt, horses, lapis, amber and the rarer goods of the eastern steppes.
 
-The kingdom itself produces copper, tin and iron in modest but steady quantities, from mountain mines worked by hereditary smithing sub-castes. Vindhyan steel is not as celebrated as Vylarian or even Chandrapuri work. It is serviceable, cheap and reliably supplied, and those are the virtues that matter to the mercenary companies of the western Vedyari kingdoms, who buy arms by the wagonload.
+The kingdom itself produces copper, tin and iron in modest but steady quantities, from mountain mines worked by hereditary smithing sub-castes. Vindhyan steel is not as celebrated as Vylarian or even Chandrapuri work. It is serviceable, cheap and reliably supplied, and those are the virtues that matter to Bhūmipāla's mercenary companies, who buy arms by the wagonload.
 
 Highland agriculture is limited by terrain. The great terraced fields of the lower valleys produce rice and barley; the upper slopes graze sheep, goats, and the small mountain cattle whose dried milk-curds are a staple of the Vindhyan diet and, increasingly, an export curiosity in the southern courts.
 

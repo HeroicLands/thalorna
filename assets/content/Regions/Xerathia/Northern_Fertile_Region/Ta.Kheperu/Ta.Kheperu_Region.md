@@ -20,6 +20,8 @@ data:
     - { to: bethuargn, bearing: W }
     - { to: dunharargn, bearing: NE }
     - { to: vylarianse, bearing: NW }
+  routes:
+    - { to: chandrmukha, bearing: NE, mode: ship, days: 30 }
   population: 19000000
 packFolder: takheperu
 ---

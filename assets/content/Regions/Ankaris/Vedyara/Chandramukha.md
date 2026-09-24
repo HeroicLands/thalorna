@@ -18,6 +18,8 @@ data:
   market: 5
   routes:
     - { to: chandrapur2, bearing: N, mode: boat, days: 1, terrain: [river] }
+    - { to: takheperurgn, bearing: SW, mode: ship, days: 30 }
+    - { to: bharanya, bearing: E, mode: ship, days: 5, terrain: [coast] }
 name:
   full: Chandramukha
   aliases:
