@@ -28,6 +28,33 @@ On a dozen of the islands there is a Vedyari merchant colony, planted for the sp
 
 The [[skill-vedyarlng|Vedyari]] spoken in the colonies is the Eastern Outlier dialect and has drifted furthest of any. Case and agreement have gone, the gender distinctions are going, and a second and a third language are mixed into ordinary speech. A scholar of the northern dialect can follow a colony merchant's letter and cannot follow his household.
 
+## Settlements
+
+```sql :allow-empty
+SELECT s.address.slug AS _ref,
+       s.name.full AS "Name",
+       s.data.market || ' ' || m.name AS "Market",
+       s.data.population AS "People",
+       (SELECT string_agg(
+                   CASE
+                       WHEN p.address.slug IS NULL THEN p.name.full
+                       ELSE '[[' || p.address.slug || '|' || p.name.full || ']]'
+                   END, ' and ' ORDER BY p.name.full)
+        FROM entries p
+        WHERE p.type = 'affiliation'
+          AND list_contains(p.data.domains, s.shortcode)) AS "Held by",
+       -- No field states why a place stands where it does, so "For" projects nothing.
+       NULL AS "For"
+FROM entries s
+LEFT JOIN market m ON m.value = s.data.market
+WHERE s.type = 'place'
+  AND s.subType = 'settlement'
+  AND list_contains(s.data.parents, 'suryaislnds')
+ORDER BY s.name.full COLLATE NOCASE
+```
+
+The query names the settlements of the chain. A merchant colony is a quarter of an island king's port and is counted with that port, so none stands here in its own name.
+
 ## See Also
 
 - [[place-suryasamdra|The Sūrya-samudra]]—the sea the chain lies in
