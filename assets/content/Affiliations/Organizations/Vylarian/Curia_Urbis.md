@@ -16,64 +16,47 @@ data:
   governance:
     model: council
     summary: >-
-      A bureau holding delegated authority from the polity that constituted it, and accountable
-      to it.
+      A council of five Curators appointed and dismissed by the Augustar, sitting as equals with
+      a rotating chair over a tiered civic court, so that no one man holds the courts, the
+      granaries and the Watch together.
     ranks:
       - level: 0
-        title: Dismissed in Disgrace
+        title: Removed
         lore: expelledrnk
         description: >-
-          Put out of the service with the record endorsed, which closes every other office to
-          them for life.
+          The Augustar appoints and dismisses alike; a Curator holds at the throne's pleasure
+          and leaves at the throne's word.
       - level: 1
-        title: Servant
-        lore: servantrnk
-        description: Kept about the offices for their labor, and not of the service.
-      - level: 2
-        title: Clerk
-        lore: clerkrnk
-        description: Copying, filing and reckoning under supervision, and the entry to every
-          career here.
-      - level: 3
-        title: Officer
-        lore: officerrnk
-        description: Holding a charge of the body in their own name and answerable for it.
-      - level: 4
-        title: Senior Officer
-        lore: officerrnk
-        description: Holding a charge of consequence, and supervising officers holding lesser
-          ones.
-      - level: 5
-        title: Deputy
-        lore: officerrnk
-        description: Standing for the head of the office and empowered to act in it.
-      - level: 6
-        title: Head of Office
+        title: Iudex
         lore: magistraternk
-        description: Directing a bureau of the body, its staff and its portion of the revenue.
-      - level: 7
-        title: Councillor
+        description: >-
+          Of the Iudicia, the civil courts, drawn from the propertied orders and hearing citizen
+          against citizen over property, contract, debt, inheritance and standing; the weightier
+          disputes before panels.
+      - level: 3
+        title: Curator
         lore: councillorrnk
         description: >-
-          Of the body that decides the office's policy and answers for it to the power that
-          constituted it.
-      - level: 8
-        title: Minister
-        lore: grandmasterrnk
-        description: >-
-          Head of the body, holding its authority from the polity and accountable to it for
-          every use of it.
+          One of the five, appointed from the senatorial order, holding a standing portfolio and
+          deciding the weightier matters with the others by majority. The chair rotates so that
+          none becomes the head of the city.
     offices:
-      Minister: Head of the body, holding its authority from the polity that constituted it.
-      Councillor: Member of the deciding body, answerable with it for what it decides.
-      Deputy: Standing for the head and empowered to act in the office.
-      Head of Office: Director of a bureau, its staff and its share of the revenue.
-      Chief Clerk: Keeper of the office's records, its procedure and its institutional memory.
-      Auditor: Examiner of the accounts of anyone the body's warrant reaches.
-      Inspector: Sent to see whether what is reported is what is happening.
-      Recorder: Keeper of the register the body's authority is exercised through.
-      Bailiff: Server of the body's process and executor of its distraints.
-      Serjeant: Keeper of order at the body's sittings, and its arm where one is needed.
+      Curator of Law: >-
+        Curator Iudiciorum—the city's chief judicial authority, overseeing the Aediles, the
+        Iudicia and the Criminal Tribunal, and presiding when the council sits as the supreme
+        civic court.
+      Curator of Order: >-
+        Curator Vigilum—commands the City Watch and answers for public order, the watch-houses
+        and the city gaols.
+      Curator of the Grain: >-
+        Curator Annonae—the granaries, the dole, the licensed markets and the unceasing daily
+        supply on which the capital lives.
+      Curator of Works and Waters: >-
+        Curator Operum—the fabric of the city: its streets and bridges, its aqueducts and
+        sewers, its public buildings and baths.
+      Curator of the Rolls: >-
+        Curator Tabularum—the census, the citizen-rolls, the city's records and its
+        correspondence with the throne; by custom the council's coordinating seat.
   commonSkills: []
   seat: null
   domains: []

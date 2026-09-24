@@ -17,64 +17,57 @@ data:
   governance:
     model: council
     summary: >-
-      A bureau holding delegated authority from the polity that constituted it, and accountable
-      to it.
+      An imperial treasury and central bank under a Quaestor appointed for life, with three
+      Praefares over its functions, a Magistar to each station, and sixteen Censores reckoning
+      the strongroom against its books.
     ranks:
       - level: 0
-        title: Dismissed in Disgrace
+        title: Dismissed
         lore: expelledrnk
         description: >-
-          Put out of the service with the record endorsed, which closes every other office to
-          them for life.
+          The Quaestor Imperii serves for life or until imperial dismissal, and every officer
+          beneath him holds at the Quaestor's pleasure or the throne's.
       - level: 1
-        title: Servant
-        lore: servantrnk
-        description: Kept about the offices for their labor, and not of the service.
-      - level: 2
-        title: Clerk
+        title: Censor
         lore: clerkrnk
-        description: Copying, filing and reckoning under supervision, and the entry to every
-          career here.
+        description: >-
+          One of sixteen auditors: sees that the strongroom's books match the held bullion, that
+          clearing claims are honored only against valid notes, and that the Praefares' reports
+          reconcile.
       - level: 3
-        title: Officer
+        title: Magistar Stationum
         lore: officerrnk
-        description: Holding a charge of the body in their own name and answerable for it.
+        description: >-
+          Provincial deputy, one to each Vylarian province and one to Heliónis. Administers the
+          Aerarium's direct operations in his territory and coordinates with the Argentariorum
+          chapters in the non-imperial territories adjacent to his station.
       - level: 4
-        title: Senior Officer
-        lore: officerrnk
-        description: Holding a charge of consequence, and supervising officers holding lesser
-          ones.
+        title: Praefar
+        lore: commanderrnk
+        description: >-
+          Senior deputy over a whole function of the treasury—operations, the script and
+          clearing system, or the strongroom and reserves—appointed by the Quaestor with
+          imperial confirmation.
       - level: 5
-        title: Deputy
-        lore: officerrnk
-        description: Standing for the head of the office and empowered to act in it.
-      - level: 6
-        title: Head of Office
+        title: Quaestor
         lore: magistraternk
-        description: Directing a bureau of the body, its staff and its portion of the revenue.
-      - level: 7
-        title: Councillor
-        lore: councillorrnk
         description: >-
-          Of the body that decides the office's policy and answers for it to the power that
-          constituted it.
-      - level: 8
-        title: Minister
-        lore: grandmasterrnk
-        description: >-
-          Head of the body, holding its authority from the polity and accountable to it for
-          every use of it.
+          The Aerarium's chief officer, appointed by the Augustar on the Dux Bellorum's
+          recommendation and serving for life, holding one of the six standing accesses to the
+          imperial privy presence.
     offices:
-      Minister: Head of the body, holding its authority from the polity that constituted it.
-      Councillor: Member of the deciding body, answerable with it for what it decides.
-      Deputy: Standing for the head and empowered to act in the office.
-      Head of Office: Director of a bureau, its staff and its share of the revenue.
-      Chief Clerk: Keeper of the office's records, its procedure and its institutional memory.
-      Auditor: Examiner of the accounts of anyone the body's warrant reaches.
-      Inspector: Sent to see whether what is reported is what is happening.
-      Recorder: Keeper of the register the body's authority is exercised through.
-      Bailiff: Server of the body's process and executor of its distraints.
-      Serjeant: Keeper of order at the body's sittings, and its arm where one is needed.
+      Censor Maximus: >-
+        Senior of the sixteen Censores Aerarii, and one of the three keys by which the
+        strongroom at Magnápolis is secured.
+      Praefar of Treasury Operations: >-
+        Holds the receipt of revenue and the disbursement of imperial expenditure, which is
+        released only on the joint authorization of the Augustar and the Dux Bellorum.
+      Praefar of the Script: >-
+        Holds the note-issuance and clearing system on which most large-value commerce in
+        member territory depends.
+      Praefar of the Strongroom: >-
+        Holds the reserves and the strongroom at Magnápolis, which has never been breached in
+        three centuries.
   commonSkills: []
   seat: null
   domains: []

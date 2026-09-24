@@ -17,64 +17,52 @@ data:
   governance:
     model: council
     summary: >-
-      A bureau holding delegated authority from the polity that constituted it, and accountable
-      to it.
+      An imperial tax administration in four working bodies—a Council of sixteen seats under the
+      Praetar Fiscalis, provincial Procurares, and a discipline arm of Censores—setting the
+      rates and awarding the contracts the Publicarii collect under.
     ranks:
       - level: 0
-        title: Dismissed in Disgrace
+        title: Recalled
         lore: expelledrnk
         description: >-
-          Put out of the service with the record endorsed, which closes every other office to
-          them for life.
+          Council seats turn over at the Augustar's pleasure within procedural limits, and the
+          Praetar Fiscalis is dismissed at imperial discretion. A seat lost this way is not
+          given back.
       - level: 1
-        title: Servant
-        lore: servantrnk
-        description: Kept about the offices for their labor, and not of the service.
-      - level: 2
-        title: Clerk
-        lore: clerkrnk
-        description: Copying, filing and reckoning under supervision, and the entry to every
-          career here.
+        title: Censor
+        lore: officerrnk
+        description: >-
+          One of twenty officers of the discipline arm, appointed by the Council: investigates
+          Publicarius abuses, audits collection books, prosecutes serious offenses before the
+          Council and recommends permanent disqualifications. Works under the Procurar of his
+          territory.
       - level: 3
-        title: Officer
-        lore: officerrnk
-        description: Holding a charge of the body in their own name and answerable for it.
+        title: Procurar
+        lore: commanderrnk
+        description: >-
+          Provincial officer, one to each of the four Vylarian provinces and four to the
+          principal Heliónite city-states. Administers the Curia's operations in his territory,
+          prepares the annual revenue estimates, manages the contract awards and supervises the
+          Censores under him.
       - level: 4
-        title: Senior Officer
-        lore: officerrnk
-        description: Holding a charge of consequence, and supervising officers holding lesser
-          ones.
-      - level: 5
-        title: Deputy
-        lore: officerrnk
-        description: Standing for the head of the office and empowered to act in it.
-      - level: 6
-        title: Head of Office
-        lore: magistraternk
-        description: Directing a bureau of the body, its staff and its portion of the revenue.
-      - level: 7
         title: Councillor
         lore: councillorrnk
         description: >-
-          Of the body that decides the office's policy and answers for it to the power that
-          constituted it.
-      - level: 8
-        title: Minister
-        lore: grandmasterrnk
+          Of the sixteen seats of the Council of the Fiscal Court, drawn from the senior
+          Argentean and Aurelian estates by imperial appointment for ten-year terms, renewable
+          once. Sets the imperial rates, approves contract terms and hears appeals against a
+          Procurar's decisions.
+      - level: 5
+        title: Praetar
+        lore: magistraternk
         description: >-
-          Head of the body, holding its authority from the polity and accountable to it for
-          every use of it.
+          The Council's chair and the Curia's chief officer, appointed by the Augustar for a
+          ten-year term, renewable, and sitting formally with the Dux Bellorum, the Quaestor
+          Imperii and twice a year the Augustar himself.
     offices:
-      Minister: Head of the body, holding its authority from the polity that constituted it.
-      Councillor: Member of the deciding body, answerable with it for what it decides.
-      Deputy: Standing for the head and empowered to act in the office.
-      Head of Office: Director of a bureau, its staff and its share of the revenue.
-      Chief Clerk: Keeper of the office's records, its procedure and its institutional memory.
-      Auditor: Examiner of the accounts of anyone the body's warrant reaches.
-      Inspector: Sent to see whether what is reported is what is happening.
-      Recorder: Keeper of the register the body's authority is exercised through.
-      Bailiff: Server of the body's process and executor of its distraints.
-      Serjeant: Keeper of order at the body's sittings, and its arm where one is needed.
+      Censor Maximus Fisci: >-
+        Senior of the twenty Censores Fiscales, reporting to the Council and to the Praetar
+        directly, and answerable for the discipline arm's case-rate against the Publicarii.
   commonSkills: []
   seat: null
   domains: []

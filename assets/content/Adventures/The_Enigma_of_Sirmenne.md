@@ -1,8 +1,9 @@
 ---
 name:
-  full: The Enigma of Lhénavren
+  full: The Enigma of Sirmennë
   aliases: []
-shortcode: engmlhnvrn
+shortcode: engmsrmnn
+renamedFrom: engmlhnvrn
 type: scenario
 subType: adventure
 data:
@@ -23,7 +24,7 @@ Ancient ruins in the borderlands hold secrets from before human memory, guarded 
 
 ## Overview
 
-Deep in the borderlands between [[place-provenzrgn|Provènzia Region]] and [[place-elavendre|Élavendre]], the crumbling ruins of Lhénavren stand—a sacred site shared between the [[affiliation-aelndntrbs|Áelendan Tribes]] (the reclusive human tribes who are the original people of Élavendre) and the [[lore-flksinale|Sinalë]] who dwell in the hidden forests nearby. Lhénavren predates any Provenzian or even Élavendren settlement by centuries, and its purpose remains a mystery to outsiders. Local legends speak of artifacts of incredible power left behind when the Sinalë withdrew deeper into their enclaves. The party is contracted to explore the ruins, document findings, and retrieve anything of value. But the Áelendan have guarded this place for generations, and the Sinalë did not leave their creations unprotected.
+Deep in the borderlands between [[place-provenzrgn|Provènzia Region]] and [[place-elavendre|Élavendre]], the crumbling ruins of Sirmennë stand—a sacred site shared between the [[affiliation-aelndntrbs|Áelendan Tribes]] (the reclusive human tribes who are the original people of Élavendre) and the [[lore-flksinale|Sinalë]] who dwell in the hidden forests nearby. Sirmennë predates any Provenzian or even Élavendren settlement by centuries, and its purpose remains a mystery to outsiders. Local legends speak of artifacts of incredible power left behind when the Sinalë withdrew deeper into their enclaves. The party is contracted to explore the ruins, document findings, and retrieve anything of value. But the Áelendan have guarded this place for generations, and the Sinalë did not leave their creations unprotected.
 
 ## Stage One: The Commission & Preparation
 
@@ -36,7 +37,7 @@ The party is hired by:
 
 **Initial Information:**
 
-- Lhénavren lies in remote, difficult terrain (mountains, forests, cursed lands)
+- Sirmennë lies in remote, difficult terrain (mountains, forests, cursed lands)
 - Previous expeditions have vanished or returned traumatized and empty-handed
 - The Áelendan tribes fiercely protect the site and refuse all outsiders
 - The ruins are said to be warded by ancient magic far older than the Ordo's traditions
@@ -51,7 +52,7 @@ The party is hired by:
 
 ## Stage Two: The Journey
 
-The party travels to Lhénavren, facing challenges both natural and political:
+The party travels to Sirmennë, facing challenges both natural and political:
 
 - Difficult terrain: mountain passes, dense forest, cursed valleys
 - Encounters with Áelendan scouts who challenge, warn, or outright attack trespassers
@@ -62,7 +63,7 @@ The party travels to Lhénavren, facing challenges both natural and political:
 
 ## Stage Three: Approaching the Ruins
 
-Upon arrival at Lhénavren, the party discovers:
+Upon arrival at Sirmennë, the party discovers:
 
 - Buildings of elegant, impossible architecture partially reclaimed by nature—clearly not built by human hands
 - Inscriptions in an ancient script (decipherable with effort or magical aid, possibly requiring Áelendi or Sinalë knowledge)
@@ -89,7 +90,7 @@ The party must navigate the ruins, overcome obstacles, and locate the artifact(s
 
 **Significant Discoveries:**
 
-- The Sinalë built Lhénavren in partnership with the Áelendan, not as conquerors
+- The Sinalë built Sirmennë in partnership with the Áelendan, not as conquerors
 - They withdrew deliberately, entrusting the site's protection to the Áelendan tribes
 - An ancient threat prompted the withdrawal—a threat that may still be relevant
 - The artifact sought carries consequences: power and danger in equal measure

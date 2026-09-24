@@ -1,5 +1,5 @@
 ---
-description: "Merchant-prince kingdom on the eastern coast of Aureldia—wealthy, sophisticated, and deeply engaged in continental trade and diplomacy."
+description: "Merchant-prince kingdom on the eastern coast of Aurèldía—wealthy, sophisticated, and deeply engaged in continental trade and diplomacy."
 type: affiliation
 name:
   full: Kingdom of Provènzia
