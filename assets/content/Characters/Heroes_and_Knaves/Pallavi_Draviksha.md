@@ -607,7 +607,7 @@ Pallàvi stands 5'9" tall with a light build. She has tawny brown skin, dark bla
 
 **Early Life and Calling**
 
-Pallàvi was born in the city-state of Dharmapur to a family of modest means. Her father was a merchant of spices, her mother a seamstress of considerable but unrenowned skill. Unlike her siblings, Pallàvi showed no interest in commerce or practical crafts; instead, she became obsessed with the written word and its visual presentation. Her first mentor was Keśava the Illuminator, an aging master scribe who recognized in her something rare: artistic vision combined with the discipline to master the technical foundations of her craft. Under Keśava's tutelage from age fourteen, Pallàvi learned calligraphy and the formation of letters, and with them the philosophy of text as art—the belief that how a word is written is inseparable from what it means.
+Pallàvi was born in the city-state of Dharmapur to a family of modest means. Her father was a merchant of spices, her mother a seamstress of considerable but unrenowned skill. Unlike her siblings, Pallàvi showed no interest in commerce or practical crafts; instead, she became obsessed with the written word and its visual presentation. Her first mentor was Kîrtidhéva the Illuminator, an aging master scribe who recognized in her something rare: artistic vision combined with the discipline to master the technical foundations of her craft. Under Kîrtidhéva's tutelage from age fourteen, Pallàvi learned calligraphy and the formation of letters, and with them the philosophy of text as art—the belief that how a word is written is inseparable from what it means.
 
 **Guild Training and Breakthrough**
 
@@ -661,7 +661,7 @@ Pallàvi's primary drive is the integration of beauty and meaning. She believes 
 
 - **The Merchants' Cooperative**: Wealthy merchants regularly commission elaborate documents from her—contracts rendered beautifully, ledgers transformed into works of art, gifts to business partners that demonstrate their refinement and taste.
 
-- **Master Keśava**: Though now very elderly and no longer accepting commissions, her former teacher remains her most trusted advisor and occasional patron. He occasionally requests that she copy texts of personal spiritual significance.
+- **Master Kîrtidhéva**: Though now very elderly and no longer accepting commissions, her former teacher remains her most trusted advisor and occasional patron. He occasionally requests that she copy texts of personal spiritual significance.
 
 - **The Guild of Scribes**: The guild leadership, despite their sometimes fraught relationship with her, regularly commissions official documents, certificates of apprenticeship, and formal records that require her distinctive touch.
 

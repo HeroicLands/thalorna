@@ -562,7 +562,7 @@ Bélrik occupies a liminal role within Élavendren society: respected as a speci
 
 ### Patrons
 
-**Captain Aelwyn Silverwood**—The commander of Élavendre's border militia. Aelwyn is a professional soldier who respects Bélrik's competence and has explicitly protected him from reassignment despite his social awkwardness. She has encouraged his investigative work into the ambush that nearly killed him, providing resources quietly.
+**Captain Aelwyn Llýdar**—The commander of Élavendre's border militia. Aelwyn is a professional soldier who respects Bélrik's competence and has explicitly protected him from reassignment despite his social awkwardness. She has encouraged his investigative work into the ambush that nearly killed him, providing resources quietly.
 
 ### Enemies
 

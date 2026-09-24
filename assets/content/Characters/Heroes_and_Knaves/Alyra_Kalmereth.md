@@ -617,7 +617,7 @@ sohl:
 
 ### Early Years
 
-Ályra was born to a minor merchant family in the Kingdom of [[affiliation-kngdmlvndr|Élavendre]], where her father traded in exotic woods and her mother preserved rare plants. As the youngest of five children, she was initially destined for marriage or service, yet her obsessive fascination with creating miniature worlds from scraps and wood shavings could not be ignored. By age twelve, she had apprenticed herself informally to the traveling toymaker Valdyn Ashwhisper, trading household labor for knowledge of joinery, painting, and the ancient art of bringing inanimate forms to life.
+Ályra was born to a minor merchant family in the Kingdom of [[affiliation-kngdmlvndr|Élavendre]], where her father traded in exotic woods and her mother preserved rare plants. As the youngest of five children, she was initially destined for marriage or service, yet her obsessive fascination with creating miniature worlds from scraps and wood shavings could not be ignored. By age twelve, she had apprenticed herself informally to the traveling toymaker Valdyn Náredh, trading household labor for knowledge of joinery, painting, and the ancient art of bringing inanimate forms to life.
 
 ### Training and Growth
 
@@ -667,13 +667,13 @@ Three years into her independent work, Ályra has gained a modest reputation for
 
 - **Mistress Lìrien Clearbrook**: The local schoolmistress purchases toys in bulk for the children's lessons. She has become something of a mentor figure, gently pushing Ályra toward higher prices and introducing her to noble families seeking commissioned work.
 
-- **Barthol the Wanderer**: A traveling storyteller who has taken Ályra's figures on tour across three kingdoms. He credits her creations with enhancing his performances and has become her most reliable champion.
+- **Trálkar the Wanderer**: A traveling storyteller who has taken Ályra's figures on tour across three kingdoms. He credits her creations with enhancing his performances and has become her most reliable champion.
 
 - **The Kálmereth Family**: Despite early estrangement, Ályra's mother and elder siblings now purchase her work regularly and have begun commissioning pieces as marriage gifts for their own children and grandchildren.
 
 ### Enemies
 
-- **Master Cornelus Lockwood**: The established toymaker of Élavendre, whose family has dominated the craft for three generations. He views Ályra as an unwelcome upstart and has begun spreading rumors that her dyes are toxic, her craftsmanship mediocre, and her prices represent a predatory undercutting of established artisans. In truth, his own work has grown stale and his prices inflated.
+- **Master Gálric Skýrn**: The established toymaker of Élavendre, whose family has dominated the craft for three generations. He views Ályra as an unwelcome upstart and has begun spreading rumors that her dyes are toxic, her craftsmanship mediocre, and her prices represent a predatory undercutting of established artisans. In truth, his own work has grown stale and his prices inflated.
 
 - **The Merchant Consortium**: Several merchant guild officials view her independent status with suspicion and have begun threatening to impose taxation and licensing requirements specifically targeting solo craftspeople, clearly designed to force her out of business or into their ranks.
 

@@ -662,7 +662,7 @@ Yet in the immediate sense, she is driven by competition and the relentless need
 
 ### Patrons
 
-- **Captain Marcus Ironwind**: A merchant vessel captain who regularly seeks Brânalenîs out for contracts, recognizing her great value despite her difficult personality. He maintains hope that given time, she might accept permanent crew status.
+- **Captain Bárdanôs Arzatorìs**: A merchant vessel captain who regularly seeks Brânalenîs out for contracts, recognizing her great value despite her difficult personality. He maintains hope that given time, she might accept permanent crew status.
 - **Master Harbormaster Deneus**: The official overseer of Alyssa's harbor, who provides Brânalenîs with information about incoming vessels seeking crew and occasionally intervenes with less scrupulous captains.
 - **The Seafarers' Lodge**: An informal fraternity of experienced sailors who gather to trade stories and information. Though Brânalenîs is not a full member due to her gender, several senior members have quietly advocated for her.
 

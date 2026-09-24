@@ -605,9 +605,9 @@ Pritàrika stands 5'6" tall with a medium build. She has rich brown skin, very d
 
 Pritàrika was born into the great house of Padmadîksha, one of the most ancient and respected lineages of the City-States of Vedyara. Her childhood in the sprawling family estates was one of unusual enlightenment for the era—her father, Lord Jayendra, believed that women of noble blood should receive education equal to their male counterparts in law, rhetoric, natural philosophy, and martial studies. Her mother, the learned Lady Amrita, was herself a scholar of considerable renown and passed to Pritàrika a love of knowledge and an unusually compassionate worldview.
 
-The realm's traditional nobility resisted this broad education, but Lord Jayendra was powerful enough to defend his daughter's unusual preparation. When she came of age, these diverse skills made her indispensable in court politics. At twenty-three, she made an advantageous marriage to Lord Vikrama of a neighboring manor, uniting two significant landholdings and merging their political interests. The marriage, though arranged, proved compatible—Vikrama respected her intellect and supported her gradually expanding influence in regional governance.
+The realm's traditional nobility resisted this broad education, but Lord Jayendra was powerful enough to defend his daughter's unusual preparation. When she came of age, these diverse skills made her indispensable in court politics. At twenty-three, she made an advantageous marriage to Lord Devànûra of a neighboring manor, uniting two significant landholdings and merging their political interests. The marriage, though arranged, proved compatible—Devànûra respected her intellect and supported her gradually expanding influence in regional governance.
 
-When Vikrama was killed in a hunting accident at age fifty-five—an incident Pritàrika suspects was not accidental—she inherited full control of both estates. Rather than remarry as tradition dictated, she declared herself steward of her late husband's house while maintaining full governance of her birth family's holdings. This unprecedented move sparked outrage among traditionalists but was ultimately accepted due to the economic prosperity her management brought to both estates.
+When Devànûra was killed in a hunting accident at age fifty-five—an incident Pritàrika suspects was not accidental—she inherited full control of both estates. Rather than remarry as tradition dictated, she declared herself steward of her late husband's house while maintaining full governance of her birth family's holdings. This unprecedented move sparked outrage among traditionalists but was ultimately accepted due to the economic prosperity her management brought to both estates.
 
 For the past fifteen years, she has carried out new agricultural reforms, established fair legal codes that protect commoners alongside noble interests, invested in education for promising youth regardless of birth status, and handled the treacherous politics between the noble houses with care to strengthen her position and that of her people.
 
@@ -625,7 +625,7 @@ She is often lonely in her position. Her authority prevents friendship with thos
 
 Pritàrika's deepest motivation is the creation of a society that functions according to merit and justice rather than mere tradition and bloodline. She views her positions of power not as personal privilege but as stewardship, and she is determined to use her influence to gradually reshape Vedyaran society into something more humane and egalitarian. She knows this transformation will not occur in her lifetime and may be reversed after her death, but she is committed to planting seeds that might grow in future generations.
 
-Privately, she also seeks to honor the memory of her late husband by seeing that his house and legacy endure and prosper, and she wonders obsessively whether his death was truly accident or the consequence of powerful enemies who feared what she and Vikrama might accomplish together.
+Privately, she also seeks to honor the memory of her late husband by seeing that his house and legacy endure and prosper, and she wonders obsessively whether his death was truly accident or the consequence of powerful enemies who feared what she and Devànûra might accomplish together.
 
 ### Strengths
 
@@ -649,7 +649,7 @@ Privately, she also seeks to honor the memory of her late husband by seeing that
 
 - **Profound Isolation**: Her position and her reforming views isolate her from true friendship. This isolation can manifest as moments of paralyzing self-doubt when she lacks external validation for difficult decisions.
 
-- **Potential Vulnerability Regarding Her Husband's Death**: If convinced that Vikrama's death was murder rather than accident, Pritàrika would be capable of extreme action, possibly undermining her own principles in pursuit of justice or revenge.
+- **Potential Vulnerability Regarding Her Husband's Death**: If convinced that Devànûra's death was murder rather than accident, Pritàrika would be capable of extreme action, possibly undermining her own principles in pursuit of justice or revenge.
 
 - **Underestimation of Traditional Forces**: While aware intellectually of the power of tradition and conservative reaction, Pritàrika sometimes underestimates how deeply rooted resistance to change can be. She may be surprised by how effectively traditionalist opponents mobilize against her initiatives.
 
@@ -661,7 +661,7 @@ Privately, she also seeks to honor the memory of her late husband by seeing that
 
 - **The Merchant Guilds of Three Cities**: Prosperous merchant families appreciate Pritàrika's liberal trade policies and protection of commerce. They provide financial support and political backing, viewing her as good for business stability.
 
-- **Parameshvara the Wise**: A famed holy woman of indeterminate age who dwells in a mountaintop hermitage. Pritàrika visits her for counsel on matters of conscience and receives guidance that is cryptic but often proves wise. Few know of this relationship.
+- **Aráti the Wise**: A famed holy woman of indeterminate age who dwells in a mountaintop hermitage. Pritàrika visits her for counsel on matters of conscience and receives guidance that is cryptic but often proves wise. Few know of this relationship.
 
 - **The Common People of Her Estates**: While not formally organized, the population broadly supports Pritàrika's rule due to the visible improvements in their lives. This widespread loyalty is her greatest political asset.
 
@@ -687,7 +687,7 @@ Privately, she also seeks to honor the memory of her late husband by seeing that
 
 ## Plot Hooks
 
-1. **The Murder Most Convenient**: Pritàrika receives evidence—a letter discovered in long-sealed archives—suggesting that her husband Vikrama's death fifteen years ago was deliberately orchestrated. The letter implicates a powerful figure now deceased but names co-conspirators who are still alive and influential. As she investigates, she discovers that revealing the truth would destroy powerful current alliances and cast doubt on decisions she has made since Vikrama's death. Pursuing this old murder may serve justice, or it may be vengeance at the cost of the stability her people depend upon. Meanwhile, someone wants these documents destroyed and may attempt to murder Pritàrika to prevent their publication.
+1. **The Murder Most Convenient**: Pritàrika receives evidence—a letter discovered in long-sealed archives—suggesting that her husband Devànûra's death fifteen years ago was deliberately orchestrated. The letter implicates a powerful figure now deceased but names co-conspirators who are still alive and influential. As she investigates, she discovers that revealing the truth would destroy powerful current alliances and cast doubt on decisions she has made since Devànûra's death. Pursuing this old murder may serve justice, or it may be vengeance at the cost of the stability her people depend upon. Meanwhile, someone wants these documents destroyed and may attempt to murder Pritàrika to prevent their publication.
 
 2. **The Heir Problem**: Pritàrika discovers she is unable to bear children due to complications from a riding accident in her youth—something she had concealed even from herself through denial. Without an heir of her blood, her entire program of reform is vulnerable to reversal after her death. Her options are to adopt an heir, to marry despite her resistance to that institution, to restore power to the Padmadîksha line through a younger family member, or to make reforms in the law that will protect her legacy even without an heir of her body. Each option creates political complications and personal heartache.
 
