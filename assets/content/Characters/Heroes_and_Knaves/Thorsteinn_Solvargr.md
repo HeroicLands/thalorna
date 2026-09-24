@@ -652,7 +652,7 @@ Thorsteinn is primarily motivated by a desire to preserve the quality and integr
 
 ### Enemies
 
-- **Artisan Eldrik Bjartahamarr** - A younger glassworker (who is also trained in ceramics) who established a rival workshop and is actively promoting contemporary aesthetic and technical approaches that directly challenge traditional glassworking. Eldrik has begun winning commissions from wealthy patrons seeking the newest work, which troubles Thorsteinn.
+- **Artisan Eldrik Vrathumakh** - A younger glassworker (who is also trained in ceramics) who established a rival workshop and is actively promoting contemporary aesthetic and technical approaches that directly challenge traditional glassworking. Eldrik has begun winning commissions from wealthy patrons seeking the newest work, which troubles Thorsteinn.
 - **The Merchants' Coalition of Modern Commerce** - A faction of younger traders and merchants promoting cheaper, imported glassware and contemporary design trends, actively undercutting Thorsteinn's market.
 
 ### Affiliations

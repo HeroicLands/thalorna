@@ -587,7 +587,7 @@ Gunnsteinn stands 6'2" tall with a heavy build. He has tanned weathered skin, da
 
 ### The Warrior's Birth
 
-Gunnsteinn was born the third son of **Ragnar Vörnheim**, a minor jarl of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], into a world where strength and sword-skill determined a man's worth. As third son, he held no claim to his father's modest holdings—those belonged to his elder brother—and so was raised from his eleventh year as a warrior-for-hire, sent to train under the famous sword-master **Kael Járnhjalt** in the fortress-barracks of Greystones. The training was brutal, designed to strip away softness and replace it with reflexive violence. By his sixteenth year, Gunnsteinn had drawn blood in earnest, fighting in border skirmishes against Vithgard's eternal rivals. By his twentieth, he had earned a fearsome reputation as a man who did not fall, did not yield, and did not ask questions of those who employed him.
+Gunnsteinn was born the third son of **Ragnar Vörnheim**, a minor jarl of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], into a world where strength and sword-skill determined a man's worth. As third son, he held no claim to his father's modest holdings—those belonged to his elder brother—and so was raised from his eleventh year as a warrior-for-hire, sent to train under the famous sword-master **Kael Marvarukh** in the fortress-barracks of Greystones. The training was brutal, designed to strip away softness and replace it with reflexive violence. By his sixteenth year, Gunnsteinn had drawn blood in earnest, fighting in border skirmishes against Vithgard's eternal rivals. By his twentieth, he had earned a fearsome reputation as a man who did not fall, did not yield, and did not ask questions of those who employed him.
 
 ### The Years of Iron
 
@@ -637,9 +637,9 @@ Gunnsteinn seeks primarily the satisfaction of doing his work well—to earn fai
 
 ### Enemies
 
-- **Kael Járnhjalt's Successors**: His old mentor's heirs view him as competition for the most prestigious mercenary contracts; they have begun a subtle campaign to undermine his reputation
+- **Kael Marvarukh's Successors**: His old mentor's heirs view him as competition for the most prestigious mercenary contracts; they have begun a subtle campaign to undermine his reputation
 - **The Crimson Ravens**: A rival mercenary band that sees him as an obstacle to their own expansion in Vithgard's markets; open conflict between the groups has occurred multiple times
-- **Lord Dalmarr Thyrnibrandr**: An ambitious noble whose assassination attempt Gunnsteinn once thwarted while protecting another client; Thyrnibrandr has since promised a substantial reward to any who bring Gunnsteinn down
+- **Lord Dalmarr Althendikh**: An ambitious noble whose assassination attempt Gunnsteinn once thwarted while protecting another client; Althendikh has since promised a substantial reward to any who bring Gunnsteinn down
 
 ### Affiliations
 
@@ -648,9 +648,9 @@ Gunnsteinn seeks primarily the satisfaction of doing his work well—to earn fai
 
 ## Plot Hooks
 
-1. **The Ghost of Greystones**: A young warrior appears in Vithgard's settlements claiming to be Gunnsteinn's lost brother—the brother he watched die during their training under **Kael Járnhjalt** nearly twenty years past. The appearance is uncanny; the man bears the exact same mark on his left shoulder that Gunnsteinn's brother possessed. Yet investigation reveals the man has no history before three years ago. Gunnsteinn becomes obsessed with discovering whether this is a resurrection, an imposter, or a curse, and finds his famous focus fragmenting as the question consumes him.
+1. **The Ghost of Greystones**: A young warrior appears in Vithgard's settlements claiming to be Gunnsteinn's lost brother—the brother he watched die during their training under **Kael Marvarukh** nearly twenty years past. The appearance is uncanny; the man bears the exact same mark on his left shoulder that Gunnsteinn's brother possessed. Yet investigation reveals the man has no history before three years ago. Gunnsteinn becomes obsessed with discovering whether this is a resurrection, an imposter, or a curse, and finds his famous focus fragmenting as the question consumes him.
 
-2. **The Sacred Blade Contract**: The High Priestess **Ellara** approaches Gunnsteinn with a contract unlike any he has accepted before—to retrieve a holy artifact, the Blade of First Creation, stolen from the Asgardian Temple by mysterious raiders. The priestess confides that only Gunnsteinn possesses both the skill and the spiritual standing to bear the blade without corruption. Yet the trail leads him toward a revelation about his past that will shatter his understanding of his training under Kael Járnhjalt and force him to reconcile the mentor he revered with a terrible historical truth.
+2. **The Sacred Blade Contract**: The High Priestess **Ellara** approaches Gunnsteinn with a contract unlike any he has accepted before—to retrieve a holy artifact, the Blade of First Creation, stolen from the Asgardian Temple by mysterious raiders. The priestess confides that only Gunnsteinn possesses both the skill and the spiritual standing to bear the blade without corruption. Yet the trail leads him toward a revelation about his past that will shatter his understanding of his training under Kael Marvarukh and force him to reconcile the mentor he revered with a terrible historical truth.
 
 3. **The Lord's Rebellion**: **Lord Henrick Thorne**, whom Gunnsteinn served faithfully for two years, approaches him with a covert proposal. Henrick has grown weary of serving the King and wishes to build an independent power base in a distant settlement. He offers Gunnsteinn a position as commander of an army of mercenaries, steady employment for life, and a share in the wealth they will build together—an offer that represents everything Gunnsteinn has been denied by his birth as third son. But accepting means betraying the Kingdom, breaking his implicit oath as a Vithgard citizen, and potentially facing former allies as enemies.
 

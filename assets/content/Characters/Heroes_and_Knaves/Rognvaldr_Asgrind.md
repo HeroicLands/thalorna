@@ -669,7 +669,7 @@ Rögnvaldr is motivated by two seemingly contradictory drives: the desire to be 
 ### Patrons
 
 - **King Brenneth II:** The current monarch of Targud, who values Rögnvaldr's ability to speak uncomfortable truths while maintaining plausible deniability. Brenneth has publicly denied ever taking the jester's advice, but privately relies on his insights.
-- **Lady Alrún Hvítvithr, Court Mistress:** The wife of a powerful noble and one of the few people with whom Rögnvaldr maintains something approaching true friendship; she values his honesty disguised as mockery.
+- **Lady Alrún Dvarnendikh, Court Mistress:** The wife of a powerful noble and one of the few people with whom Rögnvaldr maintains something approaching true friendship; she values his honesty disguised as mockery.
 - **The Innkeeper Styrbjorn:** His oldest friend, who manages the _Silver Wyvern_ tavern where Rögnvaldr performs regularly and keeps a private room where the jester can remove his mask, though he rarely does.
 
 ### Enemies

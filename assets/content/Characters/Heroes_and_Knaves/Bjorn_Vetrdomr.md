@@ -650,7 +650,7 @@ Björn's driving force is the belief that civilization itself rests upon small a
 ### Enemies
 
 - **Keth Vetrdómr** (His Brother): A source of deep pain for Björn, his younger brother inherited the family brewery and has built it into a vast commercial empire. Yet Keth resents Björn's greater fame and community standing, and he has subtly worked to undermine his brother's reputation and business.
-- **Thane Svartkvistr**: A warlord of the northern territories who views the Serpent's Hearth as a den of spies and resistance, and has made veiled threats about bringing Björn and his establishment to heel.
+- **Thane Hrandarukh**: A warlord of the northern territories who views the Serpent's Hearth as a den of spies and resistance, and has made veiled threats about bringing Björn and his establishment to heel.
 - **The Poison Cult of Vúlcan**: A heretical sect has begun to target Björn, viewing his worship of Týr and his work in promoting order as direct opposition to their chaotic spiritual vision. They have begun poisoning patrons who drink from his taproom.
 
 ### Affiliations

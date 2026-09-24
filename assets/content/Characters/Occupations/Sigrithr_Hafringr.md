@@ -568,7 +568,7 @@ Sigríthr occupies a liminal space in Nordheim society: respected by warriors, d
 
 ### Enemies
 
-**Merchant-Lord Karvik Vindrbrandr**—A coastal merchant prince who wanted to hire Sigríthr's services for a private war against a rival merchant. When she refused (the rival was protecting a village from his exploitation), Karvik circulated rumors that she was aging out of genuine combat ability and was taking refuge in the fortress as charity. The rumor is untrue and infuriates her, but he is powerful enough that she cannot safely kill him.
+**Merchant-Lord Karvik Kraldendikh**—A coastal merchant prince who wanted to hire Sigríthr's services for a private war against a rival merchant. When she refused (the rival was protecting a village from his exploitation), Karvik circulated rumors that she was aging out of genuine combat ability and was taking refuge in the fortress as charity. The rumor is untrue and infuriates her, but he is powerful enough that she cannot safely kill him.
 
 ## Plot Hooks
 

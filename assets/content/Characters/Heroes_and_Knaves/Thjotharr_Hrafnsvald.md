@@ -649,12 +649,12 @@ Thjótharr is motivated by a desire for recognition and immortality through his 
 ### Patrons
 
 - **Lady Viscontess Aelrún Thorgrimsdottir**: A powerful noblewoman who has been Thjótharr's most consistent and influential patron for twenty years. She wears his designs to every significant event and has championed his work in the highest circles.
-- **Duke Aleifr Járnbrandr**: A wealthy warrior nobleman who commissions formal garments for official functions. He trusts Thjótharr's judgment completely and has introduced him to numerous high-ranking patrons.
+- **Duke Svalthvir Hnarvendikh**: A wealthy warrior nobleman who commissions formal garments for official functions. He trusts Thjótharr's judgment completely and has introduced him to numerous high-ranking patrons.
 - **The Court of the Kingdom of Norgaad**: Official court functions and ceremonial occasions increasingly feature garments designed by Thjótharr. His influence on royal aesthetics is substantial.
 
 ### Enemies
 
-- **Master Tailor Asmundr Rauthafl**: Thjótharr's primary rival, whose more accessible and commercially successful designs have challenged Thjótharr's market dominance. Their competition is professional but venomous.
+- **Master Tailor Knarvthann Vraldumakh**: Thjótharr's primary rival, whose more accessible and commercially successful designs have challenged Thjótharr's market dominance. Their competition is professional but venomous.
 - **The Tailors' Guild**: While Thjótharr holds prestigious membership, many guild members resent his elitism and his tendency to poach the best apprentices with promises of training superior to the guild provides.
 - **Common Clothiers and Market Merchants**: Those who serve average clients view Thjótharr as an elitist who has damaged the reputation of the entire profession by treating common people with contempt.
 
@@ -669,7 +669,7 @@ Thjótharr is motivated by a desire for recognition and immortality through his 
 
 1. **The Mysterious Benefactor**: A cloaked figure offers Thjótharr an astronomical sum to design a single garment with very specific requirements: it must include fabric the client provides (unusual material with strange properties), must be completed in secret, and must never be worn publicly. The client hints that the garment has supernatural significance. Thjótharr must decide whether artistic pride allows him to create something that will never be seen and whether taking the job involves deeper conspiracies.
 
-2. **The Apprentice's Secret**: A brilliant young apprentice, **Kael Vindrsegl**, shows extraordinary talent and potential as a designer. Thjótharr begins mentoring him intensively, planning to eventually name him successor. Then Thjótharr discovers that **Kael** is secretly selling designs to **Asmundr Rauthafl**. The betrayal forces Thjótharr to confront whether his isolation and elitism created this outcome, and whether his legacy has already begun to fail.
+2. **The Apprentice's Secret**: A brilliant young apprentice, **Kael Skrildendikh**, shows extraordinary talent and potential as a designer. Thjótharr begins mentoring him intensively, planning to eventually name him successor. Then Thjótharr discovers that **Kael** is secretly selling designs to **Knarvthann Vraldumakh**. The betrayal forces Thjótharr to confront whether his isolation and elitism created this outcome, and whether his legacy has already begun to fail.
 
 3. **The Fashion Revolution**: A movement emerges claiming that fashion should serve all people, not just the wealthy, and that tailors like Thjótharr perpetuate inequality. Charismatic advocates for functional, egalitarian clothing begin gaining traction among common people. Thjótharr's designs are mocked as elitist excess. He must decide whether to fight this movement, adapt to it, or find some synthesis that preserves his artistic integrity.
 

@@ -653,7 +653,7 @@ Guthrún seeks only to live with integrity in a world that grows increasingly di
 ### Patrons
 
 - **House Nordthorne**: A noble family that has maintained standing contracts with Guthrún for the finest furs and wilderness supplies; they pay well and respect her skill
-- **Harvin's Fur Trading Company**: The primary commercial outlet for Guthrún's work, run by an aging merchant named **Harvin Kaldvatn** who has worked with her for over a decade and views her as indispensable
+- **Harvin's Fur Trading Company**: The primary commercial outlet for Guthrún's work, run by an aging merchant named **Harvin Hvarnumakh** who has worked with her for over a decade and views her as indispensable
 - **Priest Aldwin of the Fréyr's Temple**: A spiritual authority who has taken interest in Guthrún's deepening moral philosophy and occasionally contracts her for wilderness-based spiritual retreats and teachings
 
 ### Enemies
@@ -672,7 +672,7 @@ Guthrún seeks only to live with integrity in a world that grows increasingly di
 
 2. **The Sacred Sanctuary**: A mysterious priestess of the old faith, representing an ancient order dedicated to preserving wild places, approaches Guthrún with a revelation: she is the reincarnation of the order's founder, a trapper of legend named **Sólvi the Wildborn** (her father's name is no coincidence). The order wishes to recruit her as a guardian of a hidden sanctuary—a place of extraordinary biodiversity and spiritual power that must be protected from exploitation. Accepting means abandoning her current life and dedicating herself entirely to this new purpose.
 
-3. **The Fur Merchant's Fall**: Harvin Kaldvatn, Guthrún's longtime patron, approaches her with a request born of desperation. His business is failing due to competition from Merchant Jorvik, and he has fallen into debt with dangerous people. He asks Guthrún to deliver an enormous, unsustainable harvest within a short timeframe—a request that directly contradicts her emerging conscience. He promises it will be the last time he asks, and that afterward, he will retire and allow Guthrún to pursue whatever path she chooses. To refuse is to abandon a man who has treated her fairly; to accept is to violate her conscience.
+3. **The Fur Merchant's Fall**: Harvin Hvarnumakh, Guthrún's longtime patron, approaches her with a request born of desperation. His business is failing due to competition from Merchant Jorvik, and he has fallen into debt with dangerous people. He asks Guthrún to deliver an enormous, unsustainable harvest within a short timeframe—a request that directly contradicts her emerging conscience. He promises it will be the last time he asks, and that afterward, he will retire and allow Guthrún to pursue whatever path she chooses. To refuse is to abandon a man who has treated her fairly; to accept is to violate her conscience.
 
 4. **The Wounded Creature**: Guthrún discovers an injured creature—neither entirely wolf nor entirely human—caught in a trap of her own making in a remote forest valley. The creature possesses human intelligence and can speak, though its language is ancient and nearly forgotten. It bears marks suggesting it has been hunted for generations by those who view it as abomination. Freeing it and nursing it to health makes Guthrún an accomplice to whatever the creature is, but refusing to help the wounded violates everything her conscience has recently settled on.
 
