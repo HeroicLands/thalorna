@@ -4,10 +4,10 @@ tags:
   - common-folk
   - character
 name:
-  full: Vànika Ratniseṇa
+  full: Vànika Ratnisena
   title: ""
   given: Vànika
-  clan: Ratniseṇa
+  clan: Ratnisena
   home: rajapur
   aliases: []
 packFolder: ankarisvedyara
@@ -588,7 +588,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vanikartns|Vànika Ratniseṇa]]{float: top-left}
+![[vanikartns|Vànika Ratnisena]]{float: top-left}
 
 Vànika stands 5'10" tall with a medium build. She has warm wheat skin, deep black hair, and dark amber eyes. Her features include a heart-shaped face, a broad nose, a small chin, a wide mouth, heavy brows, and full cheeks.
 
@@ -602,7 +602,7 @@ Born in 679 in one of [[place-vedyarargn|Vedyara]]'s prosperous merchant cities,
 
 ### The Master of the Craft
 
-By her early twenties, Vànika had established a reputation as a superb cook—not a novel one, but a master of fundamentals who could produce extraordinary meals from whatever ingredients were available. She worked in a succession of wealthy households before taking up position as head cook at the Ratniseṇa House inn operated by her extended family. For nearly two decades, she has maintained the inn's reputation as one of Vedyara's finest establishments, her cooking drawing recognition and loyal patronage from merchants, nobility, and common travelers alike. Her reputation rests not on fashionable novelty but on absolute reliability, on the capacity to transform simple ingredients into meals of real excellence, on the understanding that food is ultimately about sustenance, comfort, and human connection.
+By her early twenties, Vànika had established a reputation as a superb cook—not a novel one, but a master of fundamentals who could produce extraordinary meals from whatever ingredients were available. She worked in a succession of wealthy households before taking up position as head cook at the Ratnisena House inn operated by her extended family. For nearly two decades, she has maintained the inn's reputation as one of Vedyara's finest establishments, her cooking drawing recognition and loyal patronage from merchants, nobility, and common travelers alike. Her reputation rests not on fashionable novelty but on absolute reliability, on the capacity to transform simple ingredients into meals of real excellence, on the understanding that food is ultimately about sustenance, comfort, and human connection.
 
 ### The Aging Masterwork
 
@@ -656,7 +656,7 @@ Vànika is driven by a fundamental commitment to excellence—the conviction tha
 
 - **Priestess Malini**: High priestess of Rásikara's temple and a fellow devotee of the fire goddess; she has commissioned Vànika to prepare ritual meals and has become something of spiritual companion and advocate.
 
-- **The Ratniseṇa Family**: Her extended family, for whom she continues to work as head cook; they have given her unusual autonomy and have supported her work despite its demands.
+- **The Ratnisena Family**: Her extended family, for whom she continues to work as head cook; they have given her unusual autonomy and have supported her work despite its demands.
 
 - **Master Musicianist Devendra**: A celebrated musician and composer who frequents the inn and has become one of Vànika's few close personal friends; he appreciates her cooking and advocates for her value and importance.
 
@@ -674,7 +674,7 @@ Vànika is driven by a fundamental commitment to excellence—the conviction tha
 
 - **The Fellowship of Rásikara**: A lay devotional group honoring the fire goddess; Vànika participates in ritual observances and has begun to develop deeper theological engagement through this community.
 
-- **The Ratniseṇa House Inn**: Her primary workplace and family enterprise where she maintains full creative authority over all culinary operations.
+- **The Ratnisena House Inn**: Her primary workplace and family enterprise where she maintains full creative authority over all culinary operations.
 
 ## Plot Hooks
 

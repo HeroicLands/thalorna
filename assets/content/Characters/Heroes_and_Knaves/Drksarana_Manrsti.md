@@ -4,10 +4,10 @@ tags:
   - common-folk
   - character
 name:
-  full: Drkṣàrana Manṛṣṭi
+  full: Drkshàrana Manrshti
   title: ""
-  given: Drkṣàrana
-  clan: Manṛṣṭi
+  given: Drkshàrana
+  clan: Manrshti
   home: chandrapur2
   aliases: []
 packFolder: ankarisvedyara
@@ -599,29 +599,29 @@ sohl:
 
 # Appearance {#appearance}
 
-![[drkaranamn|Drkṣàrana Manṛṣṭi]]{float: top-left}
+![[drkaranamn|Drkshàrana Manrshti]]{float: top-left}
 
-Drkṣàrana stands 5'7" tall with a light build. He has warm honey skin, dark brown hair, and deep brown eyes. His features include a round face, a narrow nose, a soft jawline, a wide mouth, dark brows, soft cheeks. A distinguishing mark is a tattoo of a waterfall on the shoulder.
+Drkshàrana stands 5'7" tall with a light build. He has warm honey skin, dark brown hair, and deep brown eyes. His features include a round face, a narrow nose, a soft jawline, a wide mouth, dark brows, soft cheeks. A distinguishing mark is a tattoo of a waterfall on the shoulder.
 
 # Dossier {#dossier}
 
-Born in the merchant quarters of a great city-state in [[place-vedyarargn|Vedyara]], Drkṣàrana was the youngest of seven children to a textile weaver's family. His childhood was marked by modest comfort and the constant hum of looms, his mother's lullabies layered beneath the rhythmic clacking of threads. At fourteen, he was apprenticed to the household of Lord **Vedásthira**, a rising administrator in the city's merchant council, where his natural grace and keen observational abilities quickly earned him a position as personal attendant. It was during these formative years that he received the waterfall tattoo—a spiritual marker from a wandering priest of Rásikara who saw in the young Drkṣàrana the fluidity and adaptability that would define his path.
+Born in the merchant quarters of a great city-state in [[place-vedyarargn|Vedyara]], Drkshàrana was the youngest of seven children to a textile weaver's family. His childhood was marked by modest comfort and the constant hum of looms, his mother's lullabies layered beneath the rhythmic clacking of threads. At fourteen, he was apprenticed to the household of Lord **Vedásthira**, a rising administrator in the city's merchant council, where his natural grace and keen observational abilities quickly earned him a position as personal attendant. It was during these formative years that he received the waterfall tattoo—a spiritual marker from a wandering priest of Rásikara who saw in the young Drkshàrana the fluidity and adaptability that would define his path.
 
-For the past decade, Drkṣàrana has served his current employer with meticulous dedication, managing the intricate social choreography that accompanies life in a noble household. His duties range from ceremonial service at grand feasts to the subtle work of anticipating his master's needs before they are voiced. He has become indispensable to the household's smooth operation, yet he remains largely invisible—the way a truly skilled servant becomes part of the architecture of privilege itself.
+For the past decade, Drkshàrana has served his current employer with meticulous dedication, managing the intricate social choreography that accompanies life in a noble household. His duties range from ceremonial service at grand feasts to the subtle work of anticipating his master's needs before they are voiced. He has become indispensable to the household's smooth operation, yet he remains largely invisible—the way a truly skilled servant becomes part of the architecture of privilege itself.
 
 ## Psyche
 
 ### Personality
 
-Drkṣàrana possesses a quiet observational intelligence that borders on prescience; he notices the small tensions in a room before they surface, reads the unspoken desires in a guest's glance, and moves through the world with an almost meditative calm. Yet beneath this serene exterior lies a sensitive soul prone to overthinking, to internalizing slights that others would dismiss, and to doubting his own worth despite consistent validation from those who rely upon him. He is unfailingly polite—sometimes painfully so—and his courtesy can veer into self-effacement. He speaks with precision when addressed, prefers listening to conversation, and possesses a dry, understated humor that catches people off guard when it emerges.
+Drkshàrana possesses a quiet observational intelligence that borders on prescience; he notices the small tensions in a room before they surface, reads the unspoken desires in a guest's glance, and moves through the world with an almost meditative calm. Yet beneath this serene exterior lies a sensitive soul prone to overthinking, to internalizing slights that others would dismiss, and to doubting his own worth despite consistent validation from those who rely upon him. He is unfailingly polite—sometimes painfully so—and his courtesy can veer into self-effacement. He speaks with precision when addressed, prefers listening to conversation, and possesses a dry, understated humor that catches people off guard when it emerges.
 
 ### Motivation
 
-Drkṣàrana seeks neither power nor wealth, but rather a deeper sense of purpose and belonging. The tattoo he wears is more than decoration; it represents his belief that life, like water, should flow around obstacles rather than resist them. He harbors a quiet ambition to earn genuine respect—not through dominance but through becoming so perfectly attuned to those around him that his service transcends duty and becomes something approaching art. Beneath this lies a half-buried longing to understand the world beyond the servants' passages, to trace the currents that move through power itself.
+Drkshàrana seeks neither power nor wealth, but rather a deeper sense of purpose and belonging. The tattoo he wears is more than decoration; it represents his belief that life, like water, should flow around obstacles rather than resist them. He harbors a quiet ambition to earn genuine respect—not through dominance but through becoming so perfectly attuned to those around him that his service transcends duty and becomes something approaching art. Beneath this lies a half-buried longing to understand the world beyond the servants' passages, to trace the currents that move through power itself.
 
 ### Strengths
 
-- **Exceptional Attentiveness**: Drkṣàrana possesses an almost supernatural awareness of his surroundings and the emotional states of those near him, allowing him to anticipate needs and respond with grace.
+- **Exceptional Attentiveness**: Drkshàrana possesses an almost supernatural awareness of his surroundings and the emotional states of those near him, allowing him to anticipate needs and respond with grace.
 - **Social Grace**: Years of service in elite households have honed his understanding of protocol, etiquette, and the unspoken rules governing polite society.
 - **Resilience Through Flexibility**: Like the waterfall of his tattoo, he adapts to circumstance, bends without breaking, and finds paths forward when direct resistance would fail.
 - **Culinary and Textile Skills**: His domestic expertise ranges from expert cookery to fine needlework, making him invaluable in household management.
@@ -639,26 +639,26 @@ Drkṣàrana seeks neither power nor wealth, but rather a deeper sense of purpos
 
 ### Patrons
 
-- **Lord Vedásthira**: The merchant administrator who first employed Drkṣàrana now advocates for him as the finest house servant in the city-state. Their relationship is one of quiet mutual respect, though Drkṣàrana often fears disappointing his patron.
-- **Lady Cintáya**: Lord Vedásthira's wife has grown to rely on Drkṣàrana's counsel in matters of household aesthetics and entertaining; she treats him with genuine warmth rare in the noble households.
+- **Lord Vedásthira**: The merchant administrator who first employed Drkshàrana now advocates for him as the finest house servant in the city-state. Their relationship is one of quiet mutual respect, though Drkshàrana often fears disappointing his patron.
+- **Lady Cintáya**: Lord Vedásthira's wife has grown to rely on Drkshàrana's counsel in matters of household aesthetics and entertaining; she treats him with genuine warmth rare in the noble households.
 
 ### Enemies
 
-- **Kháran Manṛṣṭi (distant cousin)**: A fellow servant from a rival household who resents Drkṣàrana's reputation and spreads subtle rumors about his competence and loyalty.
-- **The Hierarchy Itself**: Drkṣàrana's greatest adversary is the rigid structure of servitude; several higher-ranking servants view him as a threat to their position and work to undermine his standing.
+- **Kháran Manrshti (distant cousin)**: A fellow servant from a rival household who resents Drkshàrana's reputation and spreads subtle rumors about his competence and loyalty.
+- **The Hierarchy Itself**: Drkshàrana's greatest adversary is the rigid structure of servitude; several higher-ranking servants view him as a threat to their position and work to undermine his standing.
 
 ### Affiliations
 
-- **The Servants' Guild of Vedyara**: Drkṣàrana maintains loose ties with this association, which advocates for fair treatment and standard wages across the city-states.
+- **The Servants' Guild of Vedyara**: Drkshàrana maintains loose ties with this association, which advocates for fair treatment and standard wages across the city-states.
 
 ## Plot Hooks
 
-1. **The Waterfall's Secret**: Drkṣàrana's tattoo was not merely a spiritual marking but a sign of initiation into a hidden tradition within the priesthood of Rásikara. A visiting cleric recognizes it and approaches him with news that his mentor, the priest who marked him, has been imprisoned in a distant shrine under mysterious circumstances. The party might help Drkṣàrana journey to uncover the truth and secure his mentor's release—a dangerous undertaking for a servant far from home.
+1. **The Waterfall's Secret**: Drkshàrana's tattoo was not merely a spiritual marking but a sign of initiation into a hidden tradition within the priesthood of Rásikara. A visiting cleric recognizes it and approaches him with news that his mentor, the priest who marked him, has been imprisoned in a distant shrine under mysterious circumstances. The party might help Drkshàrana journey to uncover the truth and secure his mentor's release—a dangerous undertaking for a servant far from home.
 
-2. **A Noble's Indiscretion**: While attending his lord at a diplomatic gathering, Drkṣàrana witnesses a high-ranking official commit a crime—perhaps murder, theft, or treason. His position allows him access to places and conversations that could expose the truth, but revealing what he knows would destroy his employer's political alliance. He struggles with whether duty to law or loyalty to his patron should prevail.
+2. **A Noble's Indiscretion**: While attending his lord at a diplomatic gathering, Drkshàrana witnesses a high-ranking official commit a crime—perhaps murder, theft, or treason. His position allows him access to places and conversations that could expose the truth, but revealing what he knows would destroy his employer's political alliance. He struggles with whether duty to law or loyalty to his patron should prevail.
 
-3. **The Underground Network**: Drkṣàrana discovers that the servants' network extends far deeper than he realized—some within his trusted circle are part of an organization moving escaped slaves, refugees, and the persecuted through hidden passages beneath the city-states. He must decide whether to join their dangerous cause or maintain his comfortable position of plausible ignorance.
+3. **The Underground Network**: Drkshàrana discovers that the servants' network extends far deeper than he realized—some within his trusted circle are part of an organization moving escaped slaves, refugees, and the persecuted through hidden passages beneath the city-states. He must decide whether to join their dangerous cause or maintain his comfortable position of plausible ignorance.
 
-4. **A Master's Secret Heir**: Drkṣàrana learns that Lord Vedásthira fathered a child with a servant woman years ago, a child he has denied and paid to keep hidden. When that child surfaces—perhaps claiming legitimacy, perhaps in desperate circumstances—Drkṣàrana must choose between his lord's reputation and the unknown heir's rightful claim. The situation becomes further complicated when parties hostile to the family seek to exploit this scandal.
+4. **A Master's Secret Heir**: Drkshàrana learns that Lord Vedásthira fathered a child with a servant woman years ago, a child he has denied and paid to keep hidden. When that child surfaces—perhaps claiming legitimacy, perhaps in desperate circumstances—Drkshàrana must choose between his lord's reputation and the unknown heir's rightful claim. The situation becomes further complicated when parties hostile to the family seek to exploit this scandal.
 
-5. **The Merchant's Missing Daughter**: Drkṣàrana is approached by a desperate mother whose daughter worked as a servant in one of the great houses and has gone missing. He realizes that several servants have vanished over recent months, and his investigation into their fates leads him to uncover a dark conspiracy operating within the very institution of household service—possibly involving forced removal, exploitation, or worse.
+5. **The Merchant's Missing Daughter**: Drkshàrana is approached by a desperate mother whose daughter worked as a servant in one of the great houses and has gone missing. He realizes that several servants have vanished over recent months, and his investigation into their fates leads him to uncover a dark conspiracy operating within the very institution of household service—possibly involving forced removal, exploitation, or worse.
