@@ -1,6 +1,5 @@
 ---
-tags:
-  - draft
+tags: []
 description: "Federation of matriarchal trading clans that dominates Bethûan commerce—clan-based, female-led, operating through Ta'Kheperan currency and correspondent banking relationships with Pér-Háti temple-treasuries."
 name:
   full: The Bethûan Trade-Houses
@@ -21,8 +20,31 @@ data:
     summary: >-
       A federation of matriarchal merchant clans, governed twice a year by the Council of
       Matriarchs under a rotating Speaker chosen by consensus from among the Great Houses.
-    ranks: []
-    offices: {}
+    ranks:
+      - level: 0
+        title: Junior House
+        lore: dependentrnk
+        description: >-
+          A recently-formed house, regional specialty merchant or independent trader without
+          formal house affiliation, given the practical benefits of mutual recognition without
+          the formal obligations of membership.
+      - level: 1
+        title: Lesser House
+        lore: swornmemberrnk
+        description: >-
+          A trading clan of regional standing conducting most of its business locally, relying
+          on the Great Houses to extend credit and handle cross-territory transactions.
+      - level: 2
+        title: Great House
+        lore: councillorrnk
+        description: >-
+          One of perhaps a dozen senior trading clans whose matriarch sits on the Council of
+          Matriarchs, holding formal correspondent accounts at Kheperi temples.
+    offices:
+      Speaker of the Council: >-
+        Chosen by consensus from among the present matriarchs for each session; presides over
+        the session, frames the questions and announces the rulings, but carries prestige rather
+        than standing executive authority.
   commonSkills: []
   seat: null
   domains: []

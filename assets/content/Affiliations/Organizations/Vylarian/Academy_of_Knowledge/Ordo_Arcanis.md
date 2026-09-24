@@ -5,7 +5,6 @@ tags:
   - guild
   - vylaria
   - midhalion
-  - draft
 description: "Arcane monopoly born from conquest, wielding state power to regulate all magic, maintain dragon-backed enforcement, and extend control through academy chapterhouses."
 name:
   full: Ordo Arcanis
@@ -27,7 +26,43 @@ data:
     summary: >-
       A state-backed monopoly on arcane practice, governed by the Concilium Magnum of Praelati
       under an Archmagister and enforced by the Quaesitorium.
-    ranks: []
+    ranks:
+      - level: 0
+        title: Initiati
+        lore: initiaternk
+        description: >-
+          The newly inducted, often children or adolescents identified as having arcane talent;
+          no rights beyond instruction and no unsupervised practice.
+      - level: 1
+        title: Discipuli
+        lore: apprenticernk
+        description: >-
+          Assigned to a Magister as mentor for five to ten years, combining arcane theory,
+          practical instruction and indoctrination; may practice only under direct supervision.
+      - level: 2
+        title: Adepti
+        lore: journeymanrnk
+        description: >-
+          Qualified practitioners who have passed the Ordo's examinations and are licensed to
+          practice independently; a voice in chapter meetings but no vote in governance.
+      - level: 3
+        title: Magistri
+        lore: masterrnk
+        description: >-
+          The governing rank, holding a vote in their chapter's council; every chapter is
+          governed by its council of Magistri.
+      - level: 4
+        title: Praelati
+        lore: councillorrnk
+        description: >-
+          Senior masters elevated by appointment of the existing Concilium, each holding a seat
+          on the Concilium Magnum and typically leading a chapter.
+      - level: 5
+        title: Archmagister
+        lore: grandmasterrnk
+        description: >-
+          The single most powerful position in the arcane world, elected by the Praelati for
+          life, presiding over the Concilium Magnum and speaking for the Ordo to foreign powers.
     offices: {}
   commonSkills: []
   seat: null

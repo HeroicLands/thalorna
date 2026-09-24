@@ -1,6 +1,5 @@
 ---
-tags:
-  - draft
+tags: []
 description: "Dominant Vedyaran commercial federation—the caravans, the standards and the letters of credit that cross every seat of the Compact, mining holdings it works by lease where it cannot hold the rock, and a reach that rivals the councils and courts it lends to."
 name:
   full: The Merchant Collective of Vedyara
@@ -22,8 +21,29 @@ data:
     summary: >-
       A mercantile federation of hereditary houses, sponsored entrants and guild-affiliated
       suppliers, governed by the biannual Assembly of the Compact under an elected High Speaker.
-    ranks: []
-    offices: {}
+    ranks:
+      - level: 0
+        title: Karmakara
+        lore: swornmemberrnk
+        description: >-
+          An artisan supplier admitted by craft-guild affiliation, taking part in the Assembly
+          through the guild's elected representative.
+      - level: 1
+        title: Pratistha
+        lore: initiaternk
+        description: >-
+          A new entrant admitted by sponsorship and probation, voting only on matters concerning
+          their probationary terms.
+      - level: 2
+        title: Kulina
+        lore: councillorrnk
+        description: >-
+          Of the great mercantile houses admitted by inheritance, whose vote carries weight in
+          proportion to the house's contribution to the common fund.
+    offices:
+      High Speaker of the Collective: >-
+        Elected by the kulinas from among themselves for a seven-year term, presiding over the
+        Assembly of the Compact.
   commonSkills: []
   seat: null
   domains: []

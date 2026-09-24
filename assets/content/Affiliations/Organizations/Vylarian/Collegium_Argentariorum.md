@@ -1,6 +1,5 @@
 ---
-tags:
-  - draft
+tags: []
 description: "The moneylenders' guild chartered under the Magnum Collegium—the visible banking institution of the post-imperial commonwealth, whose chapterhouses operate the note-clearing system that the Aerarium Imperii stands quietly behind."
 name:
   full: The Collegium Argentariorum
@@ -20,8 +19,36 @@ data:
     summary: >-
       A chartered federation of moneylender houses, governed by the Council of the Argentarii
       under an elected Argentarius Magnar, operating the commonwealth's note-clearing system.
-    ranks: []
-    offices: {}
+    ranks:
+      - level: 0
+        title: Individual Moneylender
+        lore: swornmemberrnk
+        description: >-
+          A small operator, often a family business of one or two principals, licensed under
+          the guild's broader umbrella but not a chapter-clearing member.
+      - level: 1
+        title: Lesser House
+        lore: burgherrnk
+        description: >-
+          Admitted by sponsorship of an existing member and examination of its reserves, books
+          and partners' character; eligible to participate in chapter clearing and issue
+          retail notes under guild standing.
+      - level: 2
+        title: Great House
+        lore: councillorrnk
+        description: >-
+          One of perhaps twenty-five houses whose senior partners sit on the Council of the
+          Argentarii, holding standing accounts with the Aerarium Imperii.
+    offices:
+      Argentarius Magnar: >-
+        The guild's chief officer, elected by the Council of the Argentarii for a ten-year term,
+        renewable once.
+      Argentarius Praepar: >-
+        A senior moneylender elected by the local member moneylenders for a five-year term to
+        administer a chapterhouse, manage its strongroom and countersign notes drawn against it.
+      Censores Argentariorum: >-
+        Twelve discipline officers reporting to the Council who conduct admission examinations,
+        audit member houses' books and investigate complaints.
   commonSkills: []
   seat: null
   domains: []

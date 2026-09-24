@@ -6,7 +6,6 @@ tags:
   - guild
   - confederation
   - post-imperial
-  - draft
 description: "Haradian Council of the Guild-Wardens—chartered by the Confederation after independence to replace the Vylarian guild umbrella with an institution drawn from Harad's own pre-conquest merchant traditions and built on its own terms, in its own language."
 name:
   full: Sôd-Naqîrîn
@@ -28,7 +27,19 @@ data:
       A Confederation-chartered umbrella of thirty-two Haradian trade guilds and their treasury
       arm, governed by the Sôd-Rabbânîn under an elected Rab-Naqîr.
     ranks: []
-    offices: {}
+    offices:
+      Rab-Naqîr: >-
+        Chief of Chiefs—the head, elected from among the sitting naqîrîn of the great trades by
+        the assembled Sôd-Rabbânîn for a renewable seven-year term.
+      Rab-Pāqîd: >-
+        Chief Overseer—senior of the Pāqîdîn, the discipline arm of eight officers who inspect,
+        investigate charter violations and prosecute disciplinary cases before the Sôd.
+      Gizbar: >-
+        Treasurer—manages the Sôd's common fund and the Confederation's parallel banking system,
+        the Bayt al-Khazînah.
+      Adônîm al-Mudunîn: >-
+        Lords of the City-States—the provincial deputies, one per major Haradian state, who
+        administer the Sôd's operations in their cities and report to the Rab-Naqîr.
   commonSkills: []
   seat: null
   domains: []

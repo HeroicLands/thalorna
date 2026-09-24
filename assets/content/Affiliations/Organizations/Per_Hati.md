@@ -6,7 +6,6 @@ tags:
   - temple
   - treasury
   - religion
-  - draft
 description: "Kheperi temple-treasury institution—the network of priestly account-houses attached to the great temples of Ta'Kheperu that attest the weight-pieces, hold the granaries, maintain the ledgers, and issue the chits that constitute the Northern Fertile Region's banking infrastructure."
 name:
   full: Pér-Háti
@@ -27,7 +26,18 @@ data:
       A network of Kheperi temple-treasuries, governed by the Council of the High Priests
       under the Imy'Râ Hâti, attesting the region's currency and holding its grain and credit.
     ranks: []
-    offices: {}
+    offices:
+      Imy'Râ Hâti: >-
+        The Overseer of the Account—the network's chief officer, appointed by the Council of
+        the High Priests from among their number to serve for life, administering the network's
+        central affairs.
+      Hem-Hâti: >-
+        Servant of the Account—a senior priest assigned to a chapter-temple's treasury function,
+        working under the local high priest's authority with substantial day-to-day autonomy.
+      Imy'Khent Wedyat: >-
+        Scribe of the Weights—senior priests trained in metallurgy and assay who inspect
+        circulating weight-pieces, audit chapter-temples' attestation practices and investigate
+        counterfeiting, answering only to the Council.
   commonSkills: []
   seat: null
   domains: []

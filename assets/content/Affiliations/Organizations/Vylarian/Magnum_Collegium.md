@@ -1,6 +1,5 @@
 ---
-tags:
-  - draft
+tags: []
 description: 'Cross-realm "guild of guilds"—the umbrella body to which every chartered guild in Vylaria, the Aurèldían kingdoms, Hellád, and (until secession) Harad must belong; provides the credentialing, market-access, and standards infrastructure that lets the post-imperial commonwealth''s smaller polities access markets none of them could reach alone.'
 name:
   full: The Magnum Collegium
@@ -22,7 +21,20 @@ data:
       A mandatory cross-realm federation of thirty-six chartered trade guilds, governed by
       the Curia Collegiorum under an imperially appointed Princeps Collegii.
     ranks: []
-    offices: {}
+    offices:
+      Princeps Collegii: >-
+        First of the College—the chair, appointed by imperial edict for a renewable ten-year
+        term, holding the imperial seal of office and presiding over the Curia.
+      Censor Maximus: >-
+        Senior of the Censores Collegiorum, the twelve appointed officers who conduct
+        inspections, investigate charter violations and prosecute disciplinary cases before
+        the Curia.
+      Quaestor Collegii: >-
+        The treasurer, managing the Collegium's modest common fund built from member-guild
+        dues, ceremonial revenues and the Collegium's own commercial holdings.
+      Magistri Provinciarum: >-
+        The twelve provincial deputies—one per Vylarian province, one per Aurèldían kingdom
+        and two for Hellád—who administer the Collegium's operations in their regions.
   commonSkills: []
   seat: null
   domains: []

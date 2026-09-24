@@ -29,66 +29,41 @@ data:
       temple rite, governed by the Council of Smiths under its First Smith.
     ranks:
       - level: 0
-        title: Blacklisted
-        lore: expelledrnk
+        title: Initiate
+        lore: initiaternk
         description: >-
-          Struck from the roll: no member may employ, teach, supply or trade with them, in any
-          city the guild reaches.
+          Sebau—admitted between ten and fourteen after demonstrating suitable physical
+          strength, serving at the bellows and charcoal pit for two to three years before
+          being permitted near the metal itself.
       - level: 1
-        title: Servant
-        lore: servantrnk
-        description: Kept for labor about the hall and the workshops, and not of the craft.
-      - level: 2
         title: Apprentice
         lore: apprenticernk
-        description: Bound to a master for a term of years, fed and taught and owning neither
-          tools nor wage.
-      - level: 3
+        description: >-
+          Sba—three to seven years of training under a single master, in forge management,
+          basic shapes and the disciplines of copper and bronze.
+      - level: 2
         title: Journeyman
         lore: journeymanrnk
         description: >-
-          Out of apprenticeship and working for wages, free to move between masters and not
-          yet to keep a shop.
-      - level: 4
+          Hemty—qualified by examination, permitted to work independently on civilian
+          commissions under a master's seal.
+      - level: 3
         title: Master
         lore: masterrnk
         description: >-
-          Admitted on a masterpiece, entitled to keep a shop, take apprentices and vote in the
-          guild.
-      - level: 5
-        title: Warden
-        lore: officerrnk
-        description: >-
-          Elected to inspect the craft—its work, its weights, its prices—and to present
-          offenders.
-      - level: 6
-        title: Assistant
+          Hem-Mesnu—promoted by senior vote after a presented original work, permitted to seal
+          weapons and armor for imperial commissions, take apprentices and sit on chapter
+          councils.
+      - level: 4
+        title: Great Smith
         lore: councillorrnk
-        description: Of the court that governs the guild between its general assemblies.
-      - level: 7
-        title: Alderman
-        lore: highpriestrnk
-        description: Senior of the court, and the guild's voice before the city that chartered
-          it.
-      - level: 8
-        title: Grand Master
-        lore: grandmasterrnk
-        description: Head of the guild, elected by the court, holding its seal and answering
-          for its charter.
+        description: >-
+          Wer-Mesnu—the most senior masters, convened as the Council of Smiths, advising the
+          Per-Aá's quartermasters and adjudicating guild disputes.
     offices:
-      Grand Master: Head of the guild, elected by its court, holding the seal and answering
-        for the charter.
-      Alderman: Senior of the governing court and the guild's voice before the city.
-      Warden: >-
-        Elected inspector of the craft's work, weights and prices, who presents offenders
-        to the court.
-      Assistant: Member of the court that governs the guild between general assemblies.
-      Clerk: Keeper of the guild's roll, its indentures, its minutes and its correspondence.
-      Beadle: Summoner of the assembly and server of its process; the guild's hands in enforcement.
-      Searcher: Examiner of goods offered under the guild's mark, whose refusal ends a sale.
-      Treasurer: Keeper of the guild's box—its dues, its fines and its loans to members.
-      Almoner: Administrator of the guild's relief to sick members, widows and orphans.
-      Keeper of the Hall: Warden of the guild's house, its plate, its records and its feasts.
+      First Smith of the Per-Aá: >-
+        Imy-Khent Mesnu—chair of the Council of Smiths, presently Khâfra Sebenmery, who
+        coordinates the guild's central affairs and its bargaining with the Per-Aá's court.
   commonSkills: []
   seat: null
   domains: []

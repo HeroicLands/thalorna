@@ -1,6 +1,5 @@
 ---
-tags:
-  - draft
+tags: []
 description: "Royal-chartered trade guilds operating from the three temple-cities of Okháris—small in number, prestigious in standing, mediating between the settled-urban commercial economy and the nomadic-pastoralist hinterland; use Ta'Kheperan currency through correspondent banking arrangements."
 name:
   full: The Crown Trades of Okháris
@@ -22,7 +21,10 @@ data:
       A small federation of royally chartered trade guilds and moneylenders, coordinated by
       the Council of the Three-Flame Charters under a Crown-appointed Steward of the Trades.
     ranks: []
-    offices: {}
+    offices:
+      Steward of the Trades: >-
+        A royal appointment from the chartered moneylender ranks, chairing the Council of the
+        Three-Flame Charters at the Crown's pleasure for a typical term of five to ten years.
   commonSkills: []
   seat: null
   domains: []
