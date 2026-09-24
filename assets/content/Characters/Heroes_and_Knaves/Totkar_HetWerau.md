@@ -5,10 +5,10 @@ tags:
   - administration
   - character
 name:
-  full: Tot'kar Het'Wera
+  full: Totkar Het'Werau
   title: ""
-  given: Tot'kar
-  clan: Het'Wera
+  given: Totkar
+  clan: Het'Werau
   home: meruhotep
   aliases:
     - Totkar HetWera
@@ -591,9 +591,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[totkarhtwr|Tot'kar Het'Wera]]{float: top-left}
+![[totkarhtwr|Totkar Het'Werau]]{float: top-left}
 
-Tot'kar stands 5'10" tall with a heavy build. He has tawny skin, graying black hair, and green-brown eyes. His features include a diamond-shaped face, a prominent nose, a narrow chin, generous lips, high-set brows, and angular cheeks. He has a tattoo of a leaf on his wrist.
+Totkar stands 5'10" tall with a heavy build. He has tawny skin, graying black hair, and green-brown eyes. His features include a diamond-shaped face, a prominent nose, a narrow chin, generous lips, high-set brows, and angular cheeks. He has a tattoo of a leaf on his wrist.
 
 # Dossier {#dossier}
 

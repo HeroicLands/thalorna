@@ -2,25 +2,25 @@
 tags:
   - heroes-and-knaves
   - guilded
-  - tradesfolk
+  - administration
   - character
 name:
-  full: Sekhemet Ka'sekhen
+  full: Meneti Shap'Kheru
   title: ""
-  given: Sekhemet
-  clan: Ka'sekhen
+  given: Meneti
+  clan: Shap'Kheru
   home: khensuret
   aliases:
-    - Sekhemet Kasekhen
+    - Meneti Shapkher
 packFolder: northernfertileregiontakheperu
-shortcode: skhmtkskhn
+shortcode: mentshpkhr
 type: being
 data:
   banner: takheperubnr
   icon: icon-person
   templatePriority: null
   archetypes: []
-  occupation: Pilot
+  occupation: Bureaucrat
   stations: []
   lore:
     - commonerrnk
@@ -30,147 +30,115 @@ data:
     - empirtkhpr
   gender: female
   species: null
-  age: 32
-  born: 688/6/9
-  height: 1.75
-  weight: 65.3
+  age: 42
+  born: 678/2/5
+  height: 1.65
+  weight: 61.2
   frame: light
   appearance:
-    eye_color: dark_amber
-    hair_color: dark_brown
-    skin_color: dark
+    eye_color: brown
+    hair_color: black
+    skin_color: ebony
     complexion: null
-    extra_features:
-      - a scar running down the right leg
+    extra_features: []
 sohl:
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 13 } }
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 13 } }
     - { model: affiliation-hapi }
-    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 32 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 60 } }
     - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 15 } }
-    - { model: sohl-sohl-skill-math, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-skill-mrcn, system: { masteryLevelBase: 60 } }
-    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 15 } }
-    - { model: skill-demtkscrpt, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-shpw, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 48 } }
-    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 45 } }
-    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 55 } }
-    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 33 } }
-    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-skill-fish, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-pilt, system: { masteryLevelBase: 60 } }
-    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 75 } }
-    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-law, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-math, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 32 } }
+    - { model: skill-demtkscrpt, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-anmcft, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 15 } }
     - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 45 } }
     - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 36 } }
     - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 22 } }
-    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 33 } }
-    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 10 } }
     - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 36 } }
     - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 11 } }
-    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 45 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 42 } }
-    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-cmcs, system: { masteryLevelBase: 15 } }
-    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 36 } }
-    - { model: sohl-sohl-skill-musc, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-skill-txtl, system: { masteryLevelBase: 15 } }
-    - { model: sohl-sohl-skill-wood, system: { masteryLevelBase: 12 } }
-    - { model: sohl-sohl-weapongear-shrtswd }
-    - { model: sohl-sohl-weapongear-lbw75 }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-txtl, system: { masteryLevelBase: 14 } }
     - { model: sohl-sohl-armorgear-wshirt }
-    - { model: sohl-sohl-armorgear-wbrch }
-    - { model: sohl-sohl-armorgear-ltcboot }
-    - { model: sohl-sohl-armorgear-wclk }
+    - { model: sohl-sohl-armorgear-wtrsr }
     - { model: sohl-sohl-armorgear-wcap }
-    - { model: sohl-sohl-projectilegear-arwstd, system: { quantity: 20 } }
-    - name: Quiver (leather)
+    - { model: sohl-sohl-armorgear-ltshoe }
+    - { model: sohl-sohl-armorgear-cmntl }
+    - name: Leather document case (professional quality)
       type: miscgear
-      data:
-        icon: icon-quiver
       system:
-        shortcode: quiver
+        shortcode: leatherdocumentcase
         weight: 1
         value: 100
         durability: 3
-    - name: Leather satchel for navigational documents
+    - name: Abacus (personal, well-used)
       type: miscgear
       system:
-        shortcode: leathersatchel
+        shortcode: abacus
         weight: 1
         value: 100
         durability: 3
-    - name: Star charts and nautical maps (rolled)
+    - name: Ledgers (audit copies, key records)
       type: miscgear
       system:
-        shortcode: starcharts
-        weight: 0.8
+        shortcode: ledgers
+        weight: 1
         value: 100
         durability: 3
-    - name: Brass compass
+    - name: Wax seal (official Treasury mark)
       type: miscgear
       system:
-        shortcode: brasscompass
-        weight: 0.3
+        shortcode: waxseal
+        weight: 1
         value: 100
         durability: 3
-    - name: Fishing hooks and lines
+    - name: Writing kit (ink, quills, parchment)
       type: miscgear
       system:
-        shortcode: fishinghooksandlines
-        weight: 0.3
+        shortcode: writingkit
+        weight: 1
         value: 100
         durability: 3
-    - name: Rope (hemp, coiled)
+    - name: Letter opener (metal, functional)
       type: miscgear
       system:
-        shortcode: rope
-        quantity: 2
+        shortcode: letteropener
         weight: 1
         value: 100
         durability: 3
     - { model: sohl-sohl-miscgear-tndrbx }
-    - { model: sohl-sohl-miscgear-pence, system: { quantity: 22 } }
     - { model: sohl-sohl-containergear-backpk }
-    - { model: sohl-sohl-containergear-wtrskin }
-    - name: Cargo manifests
-      type: miscgear
-      system:
-        shortcode: cargomanifests
-        weight: 1
-        value: 100
-        durability: 3
-    - name: Navigation tools
-      type: miscgear
-      system:
-        shortcode: navigationtools
-        weight: 1
-        value: 100
-        durability: 3
-    - name: Maps
-      type: miscgear
-      system:
-        shortcode: maps
-        weight: 1
-        value: 100
-        durability: 3
+    - { model: sohl-sohl-containergear-bpchmd }
   system:
     body:
       structure:
@@ -636,78 +604,73 @@ sohl:
 
 # Appearance {#appearance}
 
-![[skhmtkskhn|Sekhemet Ka'sekhen]]{float: top-left}
+![[mentshpkhr|Meneti Shap'Kheru]]{float: top-left}
 
-Sekhemet stands 5'9" tall with a light build. She has dark brown skin, very dark brown hair, and dark amber eyes. Her features include a diamond-shaped face, a slightly arched nose, a smooth jawline, generous lips, dark brows. A distinguishing mark is a scar running down the right leg.
+Meneti stands 5'5" tall with a light build. She has ebony skin, deep black hair, and brown eyes. Her features include a long face, a slightly arched nose, a narrow chin, full lips, and elegantly curved brows.
 
 # Dossier {#dossier}
 
-Sekhemet Ka'sekhen was born to a family of modest merchants with shipping interests in the [[affiliation-empirtkhpr|Ta'Kheperu]] delta. As the only daughter among three sons, she was initially groomed for an advantageous marriage, but her brilliant mind and natural charisma made her far more valuable as a business asset. Her father allowed her to apprentice in the family trade, an unusual but pragmatic decision that proved inspired when Sekhemet demonstrated an almost supernatural gift for managing complex logistics networks.
+Meneti was born into the merchant-class Shapkher clan, known for their integrity in trade. Her father, a trader in fine linens, instilled in her an obsessive attention to detail and a belief that honesty was the only practice that lasts. At fourteen, she entered the service of a minor official in the Treasury, initially as a scribe's assistant. Her gift for spotting inconsistencies became apparent within months, and she was promoted through the bureaucratic ranks with unusual swiftness.
 
-She earned her pilot's marks at an unusually young age and quickly became known for her reliability, her ability to deliver cargo intact and on schedule despite the treacherous river and coastal routes she navigated. Seven years ago, a catastrophic accident—still shrouded in some mystery—damaged her vessel and nearly killed her, resulting in the scar that marks her body. She recovered her confidence, though not without struggle, and has since earned a reputation as one of the most dependable pilots in the entire Empire, commanding premium rates from merchants who value certainty above price.
+Over two decades, Meneti rose to the position of Senior Accountant and Principal Auditor, becoming the right hand of **Khassetep**, the current Treasury Minister. Her investigations have dismantled at least three major embezzlement rings, exposing corrupt officials whose families had occupied their posts for generations. She is said to hold secrets enough to bring down a third of the court, and she never destroys a ledger until its usefulness has been thoroughly extracted.
 
-She answers to no single master, instead maintaining relationships with dozens of merchants and trading houses who know they can depend on her. This independence has become both her greatest asset and her defining characteristic. Her devotion to [[lore-hapidty|Hâpi]], the god of prosperity and the Iteru's abundance, reflects her philosophy: success comes from understanding flows, redirecting currents wisely, and maintaining balance in all things.
+Today, Meneti works almost exclusively on the gravest audits and the quiet reordering of troubled accounts, trusted with the Empire's most guarded monetary secrets. Few dare cross her, and fewer still can match her in a game of numbers and inference.
 
 ## Psyche
 
 ### Personality
 
-Sekhemet is fundamentally practical and results-oriented, a woman who measures value in cargo delivered safely and promises kept. She speaks with measured authority, her eloquence lending weight to even simple statements, and she possesses the rare gift of making complex logistical explanations comprehensible to non-specialists. Her humor is warm and inclusive, and she has a gift for making those around her feel valued and understood—a quality that has earned her fierce loyalty from crews and merchants alike.
+Meneti is disciplined to the point of rigidity, with little patience for imprecision or dishonesty. She speaks in measured tones, often citing specific dates, figures, and precedents rather than opinions. Yet the austere exterior covers a dry wit and an unexpected love of irony—she finds dark humor in the elaborate justifications corrupt officials provide for their theft. Despite her frosty demeanor at her work, those few who know her well describe a woman capable of surprising warmth and loyalty.
 
-Beneath her competent exterior lies unexpected depths: a philosophical bent that occasionally surprises those who know her only as a shrewd businesswoman. She can speak with genuine passion about the ethics of commerce, the relationship between risk and responsibility, and the way that managing physical cargo teaches one essential truths about managing people and communities. She is less guarded than many powerful women, apparently confident enough in her position that she does not feel the need to maintain distant formality.
-
-Her most defining trait is her absolute integrity. She keeps her word with an almost religious fervor, viewing a broken promise as a kind of moral death. This has made her reputation as inviolable as stone.
+She harbors a quiet contempt for those she deems intellectually lazy, and believes that most problems in the world stem from poor accounting and too little oversight. Her greatest fear is irrelevance—the idea that her painstaking work might be ignored or undone by political whim terrifies her more than any sword.
 
 ### Motivation
 
-Sekhemet seeks to build a trading empire that operates on principles of reliability and fairness, proving that commerce can be conducted without exploitation or dishonesty. She aspires to establish a family legacy that her descendants will inherit—not merely wealth, but a reputation for integrity that will outlast any individual. More immediately, she is driven to expand her independent operation, gradually moving from pilot-for-hire to merchant and shipper in her own right, controlling the full circuit from producer to consumer.
-
-Beneath these practical ambitions lies a deeper need: to prove that a woman can command respect through competence alone, without relying on male patronage or traditional power structures. She seeks to create a model for female merchants and traders that will make it harder for future generations to be limited by assumptions about women's capability.
+Meneti is driven by an almost religious belief in open books and the moral duty of correct accounting. Every ledger she balances is a small victory against chaos. While many bureaucrats serve for power or wealth, she serves because she believes that accurate accounts are the foundation of just governance. She is motivated as well by a desire to prove that integrity and talent, not birthright or connections, should determine advancement—even as she knows how thoroughly the court contradicts this principle.
 
 ### Strengths
 
-- **Logistical Genius**: Can manage impossibly complex supply chains, coordinating multiple vessels, cargo types, and schedules with uncanny precision. Problems that seem intractable to others become straightforward to her.
-- **Charismatic Leadership**: Commands respect and loyalty from crews and merchants alike through genuine interest in their welfare and unshakeable fairness.
-- **Risk Assessment**: Possesses almost intuitive ability to evaluate danger—both physical (weather, pirates, accidents) and commercial (unreliable partners, unsustainable margins).
-- **Communication Excellence**: Can explain complex situations clearly to audiences of any sophistication level, and possesses rare skill in negotiation and conflict resolution.
-- **Unbreakable Integrity**: Her absolute commitment to keeping her word has become her greatest business asset, differentiating her in a field often marked by fraud and corner-cutting.
+- **Master of Financial Forensics**: Meneti can reconstruct complex financial crimes from fragmented records, spotting patterns invisible to ordinary auditors. Her methods are famous among the Empire's counting-houses.
+- **Unassailable Integrity**: In a realm of shifting allegiances, her honesty is absolute. She cannot be bribed, intimidated, or logically talked out of her conclusions.
+- **Institutional Acumen**: Few understand the bureaucratic machinery of the Empire as thoroughly as she does. She knows who owes favors, what concessions are possible, and which officials can be pressured into cooperation.
+- **Written Authority**: Her authored reports carry the weight of imperial law. Judges and ministers treat her conclusions as near-inviolable.
+- **Exceptional Perception**: Her sharp eye extends beyond numbers; she reads people with the same precision she applies to accounts.
 
 ### Weaknesses
 
-- **Technical Piloting Gaps**: While she is a competent navigator and helmsman, she sometimes lacks the instinctive feel for a vessel's movement that natural pilots possess, particularly in emergency situations.
-- **Logistical Tunnel Vision**: Her intense focus on cargo management and route optimization can blind her to larger strategic opportunities or relationship-building that requires her personal attention.
-- **Trust Issues Masked by Openness**: Though she appears open, she actually maintains careful control over information and relationships, making it difficult for her to delegate authority or form truly equal partnerships.
-- **Pride in Reliability**: Her reputation for perfect delivery creates unrealistic expectations and pressure that occasionally leads her to take dangerous risks rather than admit to potential delay.
-- **Physical Vulnerability**: The scar on her leg occasionally causes pain that affects her mood and judgment, and the injury has left her with slight mobility limitations that complicate certain situations.
+- **Isolation by Design**: Her ruthless thoroughness has made her feared and resented. She has few real friends and no family within the court.
+- **Predictability**: Those who know her well can anticipate her methods and conclusions. Her logic is elegant but followable.
+- **Physical Frailty**: Years of sedentary work have left her without combat training or physical resilience. A single strong blow could incapacitate her.
+- **Moral Rigidity**: She struggles with moral complexity and gray areas. Situations requiring compromise or tactical dishonesty leave her paralyzed.
+- **Obsessive Tendency**: Once she begins an investigation, she cannot rest until it is concluded. This has cost her relationships and nearly cost her her health more than once.
 
 ## Social
 
 ### Patrons
 
-- **Merchant-Prince Djebari**: A wealthy trader in fine goods and spices who has worked exclusively with Sekhemet for a decade and considers her his most trusted business partner.
-- **The Weavers' Cooperative**: A collective of textile producers who depend on Sekhemet to transport their goods to distant markets, and who have publicly praised her reliability.
-- **House Khenti's Trading Interests**: A noble family with commercial holdings that value Sekhemet's discretion and reliability for sensitive shipments.
+- **Khassetep, Treasury Minister**: The powerful minister who discovered Meneti's talents and shields her from political enemies. Their partnership is mutually beneficial—she provides him the evidence to consolidate power, he provides her with protection and authority.
+- **The Inspector General's Office**: Various officials in this body turn to her for sensitive audits when they need conclusions they can absolutely trust.
 
 ### Enemies
 
-- **Captain Seneb of the Kestrel**: A rival pilot whose ship was damaged in an incident where Sekhemet claims foul play occurred. Seneb blames Sekhemet directly, creating a blood feud in the merchant community.
-- **The Corruption Ring**: Certain merchants and port officials have attempted repeatedly to involve Sekhemet in smuggling or bribery schemes. Her refusals have made her a target of resentment from those accustomed to moral flexibility.
-- **Market Pressures**: The rise of larger merchant consortiums attempting to undercut independent traders creates institutional opposition to her business model.
+- **The Crimson Syndicate**: A network of corrupt officials and merchant-lords who lost hundreds of thousands of dinars to her investigations. They have placed a quiet bounty on her, though none have dared act openly.
+- **Menisî the Iron**: A disgraced former Treasury Minister whose embezzlement Meneti exposed seven years ago. He now works in exile, spreading rumors that she fabricated evidence against him.
+- **The Provincial Governors' Council**: Her investigations into irregular tribute payments have made her a target of provincial elites who depend upon those irregularities for their wealth.
 
 ### Affiliations
 
-- **Mariners' Guild of Ta'Kheperu**: Full member and contributor to the guild's safety standards and traditions.
-- **The Merchants' Circle**: An informal association of independent traders who meet to share information and coordinate against larger commercial entities attempting to monopolize trade routes.
-- **The Temple of Hâpi**: Devoted worshipper and regular contributor to the temple's charitable work supporting injured or disabled sailors.
+- **The Imperial Treasury**: Her primary institution and the source of her authority.
+- **The Scribes' Guild of [[affiliation-empirtkhpr|Ta'Kheperu]]**: She maintains formal membership, though she rarely participates in guild activities.
+- **The Order of Hâpi**: A religious devotional order dedicated to Hâpi, god of prosperity and the inundation. She maintains private worship and donates portions of her stipend to their works.
 
 ## Plot Hooks
 
-1. **The Impossible Commission**: A desperate merchant approaches Sekhemet with an extraordinary offer: transport cargo of unnamed origin to a location she cannot visit, cannot see, and cannot document, for a price that seems far too generous. The merchant is in genuine distress, and hints at political persecution or family emergency. Sekhemet's principle of helping those in need wars with her principle of understanding all elements of an agreement. If she accepts, she may find herself complicit in smuggling or worse; if she refuses, she abandons someone in crisis.
+1. **The Phantom Accounts**: Meneti discovers a set of ledgers within the Treasury itself showing transactions that do not appear in any official record. These accounts detail payments to unnamed entities totaling millions of dinars over the past five years. Investigation suggests that Khassetep himself may be running a secret operation, though whether he is embezzling or acting under orders from someone higher in the imperial hierarchy is unclear. Meneti is caught between her loyalty to her patron, her obligation to truth, and the very real possibility that exposing this will make her a marked woman.
 
-2. **The Accident Conspiracy**: Someone approaches Sekhemet with evidence suggesting that the accident that scarred her seven years ago was not accidental but sabotaged—likely by a rival or someone with commercial interests in her failure. The evidence is fragmentary and incomplete, and pursuing it might disrupt her carefully maintained professional relationships. Sekhemet must decide whether to reopen a wound she has worked hard to move past, and whether seeking truth is worth the cost in distraction and potential damage to her reputation.
+2. **The Auditor's Inheritance**: When **Rêmeseh the Scribe**, Meneti's former mentor and the only person she truly trusted, dies under suspicious circumstances, he leaves her a sealed package of documents. Inside, she finds evidence that she herself has been the subject of a parallel investigation for years. Someone in the Treasury believes she is falsifying records, and the evidence against her—though circumstantial—is compelling enough to destroy her reputation. Now Meneti must find who orchestrated this frame and why, while preventing her enemies from discovering that her perfect reputation has cracks.
 
-3. **The Inheritance Opportunity**: A distant relative dies and leaves Sekhemet a substantial estate—but with one condition: she must come to reside on the property for one year and claim the inheritance. This would require her to step away from her trading operation at a critical moment of expansion. Moreover, investigation reveals the relative had enemies and debts, and some question whether the inheritance is blessing or curse. Does Sekhemet abandon her ambitions for security and family legacy, or reject the offer?
+3. **The Visitor from the Provinces**: A young noble from the southern provinces arrives in the capital claiming to possess evidence of massive tax fraud at the provincial level, involving not just local officials but merchants and military commanders. However, they will only speak to Meneti directly, and only in absolute secrecy. As Meneti begins her investigation, she realizes the evidence implicates people so highly placed that publicizing it would trigger a provincial uprising or a coup. She can bury the truth to preserve the Empire, or expose it and watch the realm tear itself apart.
 
-4. **The Catastrophe Prevention**: Sekhemet discovers that one of her regular merchant clients is planning to ship cargo that will inadvertently destroy a crucial ecosystem or cause significant harm to the communities she serves. The merchant is technically not breaking any laws, and breaking her commitment to him would violate the principle of integrity she holds most dear. Yet honoring the commitment means enabling harm. Sekhemet must navigate the painful truth that sometimes integrity and ethics are not aligned, and she must choose between them.
+4. **The Mathematician's Paradox**: A brilliant young mathematician from the eastern universities arrives at the Treasury with a proposal: a new method of accounting so elegant and comprehensive that it would make traditional bookkeeping obsolete. Meneti initially dismisses the young scholar, but as she examines the method, she recognizes its power—and its danger. In the wrong hands, it could hide corruption more effectively than any current practice. Meneti can promote the new method and hope for the best, or suppress it and risk being seen as an obstacle to progress. Meanwhile, she suspects the mathematician may be working for the Crimson Syndicate, using the new method as a cover for infiltration.
 
-5. **The Syndicate's Recruitment**: A sophisticated criminal organization recognizes Sekhemet's value and approaches her with a proposal: allow them to occasionally use her vessels for high-profit cargoes, and they will guarantee her protection and priority access to the most lucrative trade routes. The offer is presented as partnership rather than coercion, and the syndicate seems genuinely respectful of her independence. Sekhemet must determine whether this represents an unacceptable compromise of her principles or a pragmatic relationship with commercial realities, knowing that her refusal will make her a target.
+5. **The Borrowed Ledger**: A street urchin brings Meneti a single page from what appears to be a Treasury ledger, claiming it was discarded by a minor official. The page shows discrepancies in grain distributions to the lower city over the past six months—distributions that suggest systematic theft on a scale that would constitute treason. However, when Meneti attempts to verify the ledger's authenticity through official channels, she discovers that no such page exists in any Treasury inventory. Either a ledger has been removed from the archives entirely, or someone is crafting an elaborate deception. Meneti must determine which, knowing that both possibilities are terrifying.

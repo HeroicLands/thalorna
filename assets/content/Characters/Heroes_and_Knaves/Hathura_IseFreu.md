@@ -4,10 +4,10 @@ tags:
   - clergy
   - character
 name:
-  full: Hathura Ise'fré
+  full: Hathura Ise'Fréu
   title: Nebet
   given: Hathura
-  clan: Ise'fré
+  clan: Ise'Fréu
   home: meruhotep
   aliases:
     - Hathura Isefré
@@ -622,7 +622,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[hathurasfr|Hathura Ise'fré]]{float: top-left}
+![[hathurasfr|Hathura Ise'Fréu]]{float: top-left}
 
 Hathura stands 5'7" tall with a light build. She has golden brown skin, black hair, and hazel eyes. Her features include a high-cheekboned face, a slightly arched nose, a tapered chin, generous lips, and golden brows. Beneath her vestments, the feather-of-[[lore-maatdty|Má'át]] scarification crosses her collarbones—the mark of ordination that every Wer'Hekau carries. A fine gold chain bearing a miniature set of golden scales hangs at her throat, usually tucked beneath the neckline of her robes where only she knows it rests.
 
@@ -630,11 +630,11 @@ She dresses in the formal silk robes of her office when conducting judicial cere
 
 # Dossier {#dossier}
 
-Hathura was born into the Ise'fré family in [[place-meruhotep|Meru-Hotep]], the eldest daughter of a minor Heka'hut whose lands produced modest harvests and whose political connections amounted to very little. Her mother, however, was a priestess of Má'át—not a powerful one, but one who understood that the temple's reach exceeded any petty estate's. When Hathura was seven, her mother placed her in the temple school at the great Má'át complex in the capital. Her brothers would inherit the estate; Hathura would inherit something more durable.
+Hathura was born into the Ise'Fréu family in [[place-meruhotep|Meru-Hotep]], the eldest daughter of a minor Heka'hut whose lands produced modest harvests and whose political connections amounted to very little. Her mother, however, was a priestess of Má'át—not a powerful one, but one who understood that the temple's reach exceeded any petty estate's. When Hathura was seven, her mother placed her in the temple school at the great Má'át complex in the capital. Her brothers would inherit the estate; Hathura would inherit something more durable.
 
 She proved exceptional. The temple schools of Má'át are among the most rigorous in the empire: they teach law, procedure, the weighing of evidence, the reading of testimony, the identification of deception, and above all the principle that truth is sacred because it holds the cosmos together. Beyond the judicial disciplines, the schools teach history, heraldry, mathematics, the languages of the empire's major trading partners, and the political geography of the nomes—because a priest who adjudicates disputes between noble houses must understand the houses she judges. Hathura absorbed it all with a ferocity that unsettled her tutors. By fifteen she was assisting in the judicial ceremonies; by twenty she was conducting minor auguries and arbitrations for provincial nobles who came to the temple seeking the goddess's guidance on boundary disputes, inheritance claims, and commercial ventures. She learned that a priestess who could read evidence—or appear to—held power that no sword could match. The nobles who kneeled before her judgment seat told her things they would never tell their own families, and Hathura remembered everything.
 
-The temple brokered her marriage to Heka'hut Pethor Ise'fré when she was twenty-two. Pethor was wealthy, well-connected through the [[affiliation-sebeqsut|Sebeq'Sut]], and entirely without the temperament for politics. The temple needed his merchant wealth to fund expansion of the Má'át complex; Pethor needed the temple's blessing to legitimize his family's recent and somewhat suspect rise to landed status. Hathura was the bridge—priestess enough to carry the temple's authority, sharp enough to manage the Ise'fré commercial network. For eighteen years she ran both, transforming Pethor's household into a nexus where temple influence, merchant capital, and aristocratic ambition converged. When Pethor died of a wasting illness, Hathura inherited his wealth, his network, and the freedom to operate without the fiction of a husband's authority.
+The temple brokered her marriage to Heka'hut Pethor Ise'Fréu when she was twenty-two. Pethor was wealthy, well-connected through the [[affiliation-sebeqsut|Sebeq'Sut]], and entirely without the temperament for politics. The temple needed his merchant wealth to fund expansion of the Má'át complex; Pethor needed the temple's blessing to legitimize his family's recent and somewhat suspect rise to landed status. Hathura was the bridge—priestess enough to carry the temple's authority, sharp enough to manage the Ise'Fréu commercial network. For eighteen years she ran both, transforming Pethor's household into a nexus where temple influence, merchant capital, and aristocratic ambition converged. When Pethor died of a wasting illness, Hathura inherited his wealth, his network, and the freedom to operate without the fiction of a husband's authority.
 
 Now, at forty, she holds the title of Wer'Hekau of Má'át in the capital—the High Priestess who presides over the great judicial ceremonies, conducts the auguries that guide state policy, and administers the oaths that bind the empire's most consequential alliances. Her authority is formally religious, but everyone understands that the woman who weighs truth and falsehood for the Per-Aá wields power that transcends any single institution. She sits at the center of a web that connects the temple, the [[affiliation-kenbetpat|Kenbet'Pat]], the Sebeq'Sut, and the Per-Aá's inner circle—not as an outsider who has gained access to each, but as the point where all of them overlap.
 
@@ -666,7 +666,7 @@ Her skill in discourse and persuasion is extraordinary. She can argue, mollify, 
 
 Her reasoning and analytical capabilities allow her to think several moves ahead, identifying nodes of leverage and potential fractures in rival power structures before they become obvious. She approaches political problems the way she approaches judicial ones: gather evidence, identify the relevant law, construct the argument, and deliver the verdict at the moment of maximum effect.
 
-She controls the resources of both the Má'át temple complex (land, wealth, labor, and spiritual authority) and the Ise'fré commercial network (trade contacts, merchant capital, and intelligence from foreign ports). Few individuals in the empire can mobilize assets from such disparate sources.
+She controls the resources of both the Má'át temple complex (land, wealth, labor, and spiritual authority) and the Ise'Fréu commercial network (trade contacts, merchant capital, and intelligence from foreign ports). Few individuals in the empire can mobilize assets from such disparate sources.
 
 ### Weaknesses
 
@@ -688,7 +688,7 @@ She is not a warrior, and her moderate strength and endurance mean she is entire
 
 - **Per-Aá Menes XVI**: The reigning Per-Aá depends on Hathura's judicial auguries and her ability to read the Kenbet'Pat's shifting loyalties. He views her as a necessary counterbalance to the more aggressive faction leaders within the court and the high priests of rival temples.
 
-- **Merchant Prince Othman**: A wealthy spice trader from the eastern provinces and member of the Sebeq'Sut. He depended on the Ise'fré network long before Pethor's death and now relies on Hathura's combined temple-and-commercial authority for political protection, providing exotic goods and invaluable intelligence from foreign ports in return.
+- **Merchant Prince Othman**: A wealthy spice trader from the eastern provinces and member of the Sebeq'Sut. He depended on the Ise'Fréu network long before Pethor's death and now relies on Hathura's combined temple-and-commercial authority for political protection, providing exotic goods and invaluable intelligence from foreign ports in return.
 
 - **Semer Amnakhotep**: The elderly chancellor of records owes his position partly to Hathura's intervention decades ago. He has become her reliable source for historical precedent and archival secrets—the kind of information that makes her judicial pronouncements uncannily well-supported.
 
@@ -698,7 +698,7 @@ She is not a warrior, and her moderate strength and endurance mean she is entire
 
 - **The Wer'Hekau of [[lore-radty|Rā]]**: The most powerful religious figure in the empire views Má'át's growing political influence with alarm. Hathura's prominence at court threatens the traditional primacy of the solar cult, and he has begun quietly undermining her judicial pronouncements by commissioning competing auguries from his own seers—a direct challenge to Má'át's monopoly on truth-speaking.
 
-- **Nebet Meritamun**: Hathura's own distant cousin and nominal ally, who harbors deep resentment that Hathura inherited the bulk of the Ise'fré wealth while she was forced into a minor provincial marriage. Meritamun knows things about the Ise'fré family that Hathura would prefer to remain buried.
+- **Nebet Meritamun**: Hathura's own distant cousin and nominal ally, who harbors deep resentment that Hathura inherited the bulk of the Ise'Fréu wealth while she was forced into a minor provincial marriage. Meritamun knows things about the Ise'Fréu family that Hathura would prefer to remain buried.
 
 - **The Temple Traditionalists**: Conservative priests within Má'át's own order who view Hathura's political entanglements as a corruption of the goddess's purpose. They believe a Wer'Hekau should serve the divine, not the Kenbet'Pat, and they have the ear of several provincial temple leaders who share their distaste.
 
@@ -712,7 +712,7 @@ She is not a warrior, and her moderate strength and endurance mean she is entire
 
 - **The Per-Aá's Court**: She attends regularly as a judicial and religious advisor and maintains a formal residence within the palace complex. Her auguries carry the weight of the goddess's voice, which is both her greatest asset and her greatest burden.
 
-- **The Sebeq'Sut** (Merchant Alliance): Through the Ise'fré commercial network she inherited from her husband, she maintains business relationships and mutual protection pacts with the empire's major trading houses—a source of wealth and intelligence that operates entirely outside temple channels.
+- **The Sebeq'Sut** (Merchant Alliance): Through the Ise'Fréu commercial network she inherited from her husband, she maintains business relationships and mutual protection pacts with the empire's major trading houses—a source of wealth and intelligence that operates entirely outside temple channels.
 
 ## Plot Hooks
 
@@ -720,7 +720,7 @@ She is not a warrior, and her moderate strength and endurance mean she is entire
 
 2. **The Judgment Contradiction**: During a major judicial augury performed before the Per-Aá and his council, Hathura renders a verdict that directly contradicts the pronouncement of the Wer'Hekau of Rā on the same matter. The contradiction is precise, public, and impossible to dismiss as mere interpretive difference. The rival Wer'Hekau demands that the Per-Aá declare whose pronouncement is authoritative—a demand that forces the question of whether Má'át or Rā holds primacy in matters of cosmic truth. Hathura must navigate this while discovering that someone has subtly altered the sacred texts used in her ritual—not enough to be obviously wrong, but enough to have corrupted her judgment. She must identify the saboteur while maintaining her reputation for infallibility.
 
-3. **The Illegitimate Inheritance**: A woman arrives at Hathura's estate claiming to be the illegitimate daughter of Heka'hut Pethor, Hathura's deceased husband, and therefore bearing a potential claim to a significant portion of the Ise'fré wealth. The woman has documents, testimony from an elderly servant, and an undeniable physical resemblance to the Ise'fré line. Hathura knows that if this claim reaches the Per-Aá's court, the resulting legal entanglement could undermine her entire position. However, investigating the claim reveals layers of complexity—the servant's testimony may have been coerced, the documents may be clever forgeries, or the woman may genuinely be Pethor's child, born of an affair Hathura never knew about. Hathura must decide whether to suppress the claim through manipulation, face it directly through law, or find a third path that preserves both her honor and her interests—all while knowing that a Wer'Hekau of Má'át who suppresses a truthful inheritance claim has committed precisely the kind of corruption she was ordained to prevent.
+3. **The Illegitimate Inheritance**: A woman arrives at Hathura's estate claiming to be the illegitimate daughter of Heka'hut Pethor, Hathura's deceased husband, and therefore bearing a potential claim to a significant portion of the Ise'Fréu wealth. The woman has documents, testimony from an elderly servant, and an undeniable physical resemblance to the Ise'Fréu line. Hathura knows that if this claim reaches the Per-Aá's court, the resulting legal entanglement could undermine her entire position. However, investigating the claim reveals layers of complexity—the servant's testimony may have been coerced, the documents may be clever forgeries, or the woman may genuinely be Pethor's child, born of an affair Hathura never knew about. Hathura must decide whether to suppress the claim through manipulation, face it directly through law, or find a third path that preserves both her honor and her interests—all while knowing that a Wer'Hekau of Má'át who suppresses a truthful inheritance claim has committed precisely the kind of corruption she was ordained to prevent.
 
 4. **The Spy in Her Circle**: Hathura gradually becomes aware that sensitive information from her inner council has been leaking to Semer Khentiri, her primary rival. The leak is precise and deliberate—not random gossip, but carefully selected intelligence that damages her position while appearing to be honest mistakes or natural secrets-telling. She must identify the traitor without revealing her awareness, all while continuing her normal duties. The complication: she suspects it might be someone she genuinely cares for, which means confronting the possibility that her judgment of character—her greatest asset—has been fatally compromised.
 

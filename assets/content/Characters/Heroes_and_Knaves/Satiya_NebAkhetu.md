@@ -4,15 +4,16 @@ tags:
   - common-folk
   - character
 name:
-  full: Mer'tep Ankh'Khes
+  full: Satiya Neb'Akhetu
   title: ""
-  given: Mer'tep
-  clan: Ankh'Khes
-  home: perankhet
+  given: Satiya
+  clan: Neb'Akhetu
+  home: meruhotep
   aliases:
-    - Mertep AnkhKhes
+    - Satiya Nebakhet
+    - Satiya Nebakhet
 packFolder: northernfertileregiontakheperu
-shortcode: mrtpnkhkhs
+shortcode: satiynbkht
 type: being
 data:
   banner: takheperubnr
@@ -29,117 +30,134 @@ data:
     - empirtkhpr
   gender: female
   species: null
-  age: 46
-  born: 674/4/9
+  age: 38
+  born: 682/2/25
   height: 1.83
-  weight: 71.7
+  weight: 73
   frame: medium
   appearance:
-    eye_color: brown
-    hair_color: gray
-    skin_color: dark
-    complexion: weathered
-    extra_features:
-      - a tattoo of a bird in flight on the left shoulder
+    eye_color: hazel
+    hair_color: black
+    skin_color: ebony
+    complexion: null
+    extra_features: []
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }
     - { model: sohl-sohl-attribute-dex, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-aur, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 8 } }
-    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-mor, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-voi, system: { scoreBase: 12 } }
-    - { model: affiliation-horus }
-    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 65 } }
+    - { model: affiliation-iset }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-embl, system: { masteryLevelBase: 39 } }
     - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-math, system: { masteryLevelBase: 11 } }
-    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 12 } }
-    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 27 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 30 } }
     - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 24 } }
-    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 27 } }
-    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 33 } }
-    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 10 } }
-    - { model: sohl-sohl-skill-agri, system: { masteryLevelBase: 70 } }
-    - { model: sohl-sohl-skill-fish, system: { masteryLevelBase: 28 } }
-    - { model: sohl-sohl-skill-herb, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-agri, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-anmcft, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-herb, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 14 } }
     - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 14 } }
     - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 42 } }
     - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 33 } }
-    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 20 } }
-    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 40 } }
-    - { model: sohl-sohl-skill-lgdm, system: { masteryLevelBase: 12 } }
-    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 18 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 10 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 60 } }
     - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 12 } }
     - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 13 } }
     - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 42 } }
-    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 22 } }
-    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 24 } }
-    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 11 } }
-    - { model: sohl-sohl-skill-glas, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-skill-hide, system: { masteryLevelBase: 36 } }
-    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 36 } }
-    - { model: sohl-sohl-skill-txtl, system: { masteryLevelBase: 48 } }
-    - { model: sohl-sohl-armorgear-wdress }
-    - { model: sohl-sohl-armorgear-wcap }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-cmcs, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-masn, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-txtl, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-armorgear-hstunic }
+    - { model: sohl-sohl-armorgear-hsskirt }
     - { model: sohl-sohl-armorgear-ltshoe }
-    - { model: sohl-sohl-armorgear-wmntl }
-    - name: Household keys (iron, extensive set)
+    - { model: sohl-sohl-armorgear-lapn }
+    - { model: sohl-sohl-armorgear-hscap }
+    - name: Ring of iron household keys
       type: miscgear
       system:
-        shortcode: householdkeys
+        shortcode: ringofironhousehold
         weight: 1
         value: 100
         durability: 3
-    - name: Cleaning tools and implements
+    - name: Household ledger and inventory records
       type: miscgear
       system:
-        shortcode: cleaningtools
+        shortcode: householdledger
+        weight: 1.2
+        value: 150
+        durability: 4
+    - name: Herbal medicines and remedies (bundle)
+      type: miscgear
+      system:
+        shortcode: herbalmedicines
         weight: 1
         value: 100
         durability: 3
-    - name: Aprons (linen, multiple)
+    - name: Embalming materials (natron, unguents)
       type: miscgear
       system:
-        shortcode: aprons
-        weight: 1
+        shortcode: embalmingmaterials
+        weight: 2
         value: 100
         durability: 3
-    - name: Cloth bag for supplies
+    - name: Cooking herbs and spices (pouch)
       type: miscgear
       system:
-        shortcode: clothbagforsupplies
-        weight: 1
+        shortcode: cookingherbs
+        weight: 0.8
         value: 100
         durability: 3
-    - name: Inventory ledger (personal household records)
+    - name: Cloth for cleaning and maintenance
       type: miscgear
       system:
-        shortcode: inventoryledger
-        weight: 1
-        value: 100
-        durability: 3
-    - name: Wax seal (household mark)
-      type: miscgear
-      system:
-        shortcode: waxseal
-        weight: 1
+        shortcode: clothforcleaning
+        quantity: 6
+        weight: 1.5
         value: 100
         durability: 3
     - { model: sohl-sohl-miscgear-tndrbx }
-    - { model: sohl-sohl-miscgear-torch }
-    - { model: sohl-sohl-miscgear-stdrtns, system: { quantity: 3 } }
+    - name: Wax candles (household stock sample)
+      type: miscgear
+      system:
+        shortcode: waxcandles
+        quantity: 4
+        weight: 1.5
+        value: 100
+        durability: 3
+    - { model: sohl-sohl-miscgear-pence, system: { quantity: 10 } }
     - { model: sohl-sohl-containergear-bgsmcvs }
+    - { model: sohl-sohl-containergear-bpchlg }
+    - name: Cleaning supplies
+      type: miscgear
+      system:
+        shortcode: cleaningsupplies
+        weight: 1.5
+        value: 100
+        durability: 3
   system:
     body:
       structure:
@@ -601,78 +619,77 @@ sohl:
     defaultCombatGroup: null
 ---
 
-**Home:** [[place-perankhet|Per-Ankhet]]
+**Home:** [[place-meruhotep|Meru-Hotep]]
 
 # Appearance {#appearance}
 
-![[mrtpnkhkhs|Mer'tep Ankh'Khes]]{float: top-left}
+![[satiynbkht|Satiya Neb'Akhetu]]{float: top-left}
 
-Mer'tep stands 6'0" tall with a medium build. She has dark weathered skin, gray hair, and brown eyes. Her features include a high-cheekboned face, a straight narrow nose, a gentle jawline, an expressive mouth, high-set brows. A distinguishing mark is a tattoo of a bird in flight on the left shoulder.
+Satiya stands 6'0" tall with a medium build. She has ebony skin, black hair, and hazel eyes. Her features include an oval face, a noble nose, a gentle jawline, and high-set brows.
 
 # Dossier {#dossier}
 
-Mertep was born in one of [[affiliation-empirtkhpr|Ta'Kheperu]]'s coastal villages, the daughter of a fisher woman and a dockworker. As a young girl, she witnessed the great Iteru inundation and the fertility cycles that governed her people's lives, learning early the rhythms of labor and duty. At sixteen, she was taken into service by a merchant family's household, initially as a laundress. Her natural gifts for organization and her quiet authority over other servants led to rapid advancement. By her early twenties, she had been promoted to head housekeeper, a position she maintained for over two decades through sheer competence and an unshakeable commitment to excellence.
+Satiya Neb'Akhetu was born into the free classes of [[affiliation-empirtkhpr|Ta'Kheperu]], neither enslaved nor nobility, but precisely placed in that careful middle where service becomes the foundation of survival. Her mother was a cook, her father a minor functionary in the temple of Íšét. From childhood, Satiya showed an almost obsessive need for order, and by her late teens, she had already begun managing the household of a moderately wealthy merchant. That position lasted seventeen years until the merchant's death, when Satiya found herself without patronage and with many rivals for the next place.
 
-The tattoo on her shoulder—a falcon in flight—marks her devotion to Hórús, god of the voyager and horizon. She received it in a moment of youthful rebellion, a secret act of faith and defiance against a former employer who forbade personal religious expression. That same employer is long dead, but Mertep has never regretted the mark, wearing it as a reminder that even servants possess their own dignity and will.
+For the past four years, she has served in the household of Master Henti, a wealthy intellectual and collector of antiquities. Henti values her genius for order and the way she has transformed his somewhat chaotic holdings into a model of good management. Yet Henti, like many employers, takes her service for granted, referring to her competence as simply "what Satiya does" rather than acknowledging it as anything out of the ordinary. She manages the physical household, deals with merchants, oversees the preparation of elaborate entertainments, and acts as Henti's informal advisor on matters of domestic stability.
 
-Currently, she serves the household of **Lord Sâbekhotep**, a wealthy official of the second rank. She has managed his domestic affairs for the past twelve years with flawless efficiency. Her position is secure, her authority within the staff absolute, and her life ordered by the rhythms of service.
+Her spiritual devotion to Íšét, goddess of fertility and the domestic sphere, runs deep—though some might argue it borders on obsession. Satiya sees her work not as mere service but as sacred duty, maintaining the fertile, ordered space from which all civilization springs.
 
 ## Psyche
 
 ### Personality
 
-Mertep is a woman of few words and fewer flights of fancy. She speaks directly, without elaboration, and expects the same from others. Her standards are exacting—a crooked cushion offends her sense of proper order as much as a theft would—and she enforces these standards with cool displeasure rather than anger. Those who work under her either learn quickly to meet her expectations or seek employment elsewhere. Yet beneath her stern exterior runs a bedrock of fairness; she never punishes unjustly, and she remembers every servant's capabilities and limitations.
+Satiya is a woman of deep contradictions. On the surface, she is unswervingly correct, composed, and calm in crisis. Under that calm is a roiling ocean of resentment and wounded pride. She speaks softly and rarely volunteers opinion, yet when she does speak, people listen—her words carry the weight of someone who has watched everything while remaining largely invisible. She possesses a dry, biting humor that emerges only among those she trusts, revealing a keen intelligence often overshadowed by her role as a functionary.
 
-She is neither warm nor cruel, but precisely calibrated. To those who serve well, she shows a kind of respect that approaches affection. She will nurse a sick servant back to health, will ensure a bereaved worker has time to grieve, and will defend her staff fiercely against external criticism. To those who shirk or deceive, she is implacable. Her presence commands obedience not through fear but through the absolute certainty that she will do what she says, expect what is due, and accept nothing less than honesty.
+What disturbs those who know her well is her capacity to hold grudges with almost architectural precision. She can remember, in perfect detail, every slight, every moment of ingratitude, every instance when her work was praised while she remained in shadow. These grievances do not make her cruel, but they do make her wary. She gives her loyalty completely to those who earn it, but once lost, that loyalty is not easily recovered.
 
 ### Motivation
 
-Mertep serves because service is the structure that gives her life meaning. She takes profound satisfaction in creating and maintaining perfect order, in running a household where everything operates with the precision of gears in a watermill. She is driven by pride in her work and by a deep, unexamined belief that a well-ordered household is a reflection of cosmic harmony. She serves Hórús not through flashy piety but through the daily practice of her labor—the voyager god guides travelers across unknown seas, and she guides her household through the uncertain waters of daily life.
-
-She has no ambition to rise beyond her station, nor does she resent her position. She has built a domain of power within the household that is real and substantial; she needs nothing more.
+Satîya's deepest drive pulls two ways: she seeks both complete control over her domain and acknowledgment of that mastery by those above her. She works with exacting precision not solely for the satisfaction of order but for the recognition that such order brings. She remains in Master Henti's service despite her resentment because leaving would mean losing the stage for her excellence—without a grand household to manage, what proof would she have of her worth? Yet this same bind increasingly irritates her. She yearns for a position where her contributions would be seen and valued, where her name would be known beyond the servants' quarters.
 
 ### Strengths
 
-- **Absolute Household Authority**: Within her domain, Mertep's word is law. She understands every system, every supply chain, every relationship within the estate. She can reorganize the entire household in hours if necessary.
-- **Organizational Genius**: She maintains detailed mental records of inventory, staff schedules, seasonal needs, and long-term planning. Her memory for logistical detail is nearly perfect.
-- **Staff Leadership**: She commands loyalty and fear in equal measure. Servants work harder for Mertep than they do for any other master because they know she will not ask them to work harder than she works herself.
-- **Practical Wisdom**: Her years of service have taught her the solutions to nearly every household problem. Broken pipes, failing harvests, sick animals, interpersonal conflicts—she has seen them all and knows practical responses.
-- **Imperviousness to Corruption**: Mertep cannot be bribed, seduced, or manipulated through her position. She has wealth enough from her salary and has no desire for more.
+- **Organizational Mastery**: Can manage complex households of any size with near-perfect economy, tracking stores, staff, schedules, and deliveries with minimal effort.
+- **Problem Solver**: Possesses practical wisdom for solving the hundred small crises that arise in domestic life—from preventing conflicts between staff to stretching the household purse without visible compromise.
+- **Ritual Knowledge**: Deeply versed in the practices and observances necessary for proper worship of Íšét, allowing her to structure household activities in spiritually appropriate ways.
+- **Command Authority**: Can direct servants and staff without raising her voice—people obey her not from fear but from respect for her evident competence and fairness.
+- **Adaptability**: Though she values order, Satiya can adjust routines and arrangements when circumstances demand, maintaining her vision of perfection while accommodating necessity.
 
 ### Weaknesses
 
-- **Rigidity in Crisis**: Her reliance on established routine means that unprecedented situations can paralyze her momentarily. She requires time to establish new protocols.
-- **Limited Perspective**: Her entire world is the household and its immediate surroundings. She knows nothing of politics, diplomacy, or the wider world beyond what servants gossip about.
-- **Difficulty with Ambiguity**: Moral complexity and unclear situations frustrate and disturb her. She prefers clear rules and clear consequences.
-- **Lack of Combat Training**: She is strong and quick, but entirely untrained in violence. A trained fighter would defeat her easily despite her physical advantages.
-- **Isolation**: Her position creates a distance between her and actual friendship. Those who work for her cannot also be her equals, and her standards are too high for peers among the serving class.
+- **Bitterness Corrodes**: Her growing resentment of being taken for granted makes her increasingly sharp with staff and prone to petty, unspoken acts of control.
+- **Difficulty Delegating**: She trusts her own standards absolutely and struggles to allow others to manage tasks, leading to exhaustion and bottlenecks.
+- **Inflexibility in Principles**: While adaptive in practice, Satiya possesses fixed beliefs about how things "should" be, making her harsh toward those who deviate.
+- **Emotional Isolation**: Her distance and formality make it difficult for others to approach her with real care; she is respected but rarely loved.
+- **Vulnerability to Manipulation**: Those who offer her sincere recognition or challenge her to prove her worth can lead her into ill-advised situations, as her pride becomes engaged.
 
 ## Social
 
 ### Patrons
 
-- **Lord Sâbekhotep**: Her employer and the man who has granted her stable, respectful employment for over a decade. Their relationship is professional but based on genuine mutual regard.
-- **The Temple of Hórús at Ta'Kheperu**: She donates a portion of her wages to the temple and receives their blessing in return.
+- **Master Henti of House Sekhemka**: Her current employer, a wealthy antiquarian who, despite his obliviousness to her resentment, depends on her and would be lost without her.
+- **The Temple of Íšét**: Satiya performs volunteer ritual work at the main temple and is recognized there as a keeper of proper domestic observances.
+- **The Association of Household Stewards**: A loose society of the trade through which Satiya occasionally takes outside work, reordering the households of other noble families.
 
 ### Enemies
 
-- **Kelleret the Steward**: A rival household manager working for a neighboring noble family. The two households are in competition for prestige, and Kelleret has suggested (subtly, through other servants) that Mertep's standards are excessive. Mertep considers Kelleret sloppy and dangerous.
-- **Disgraced Former Servants**: Several individuals whom Mertep dismissed for theft, dishonesty, or incompetence bear her grudges. They tell stories about her severity, though few believe them.
+- **Young Servant Meritef**: A charming but lazy kitchen worker whose sloppiness Satiya has repeatedly corrected, creating mutual contempt. Meritef spreads rumors that Satiya is cruel and joyless.
+- **The Competing Steward Akhom**: Another highly competent household manager working for a rival noble family, with whom Satiya competed years ago. Akhom beat her for a prestigious position, and Satiya has never forgotten or forgiven.
+- **Her Own Resentment**: In some ways, Master Henti himself has become an enemy—not through malice, but through his casual assumption that her excellence is simply her nature, not something worthy of acknowledgment or reward.
 
 ### Affiliations
 
-- **The Household of Lord Sâbekhotep**: Her primary loyalty and the source of her identity.
-- **The Servants' Mutual Aid Society**: An informal network of household managers and senior servants who share knowledge about household management and mutual protection.
-- **The Temple of Hórús**: A devotional order where she worships and maintains her private religious practice.
+- **Temple of Íšét**: Devoted worshipper and volunteer, though she attends with the same methodical approach she applies to everything.
+- **Household Stewards' Association**: Member in good standing, though she remains somewhat isolated even among her peers in the trade.
 
 ## Plot Hooks
 
-1. **The Missing Seal Ring**: Lord Sâbekhotep's personal seal ring, used to authorize documents of significant importance, has disappeared from the household. Only a handful of servants know where it is kept, and Mertep knows them all. Her investigation reveals that one of the servants has been replaced by someone who looks remarkably similar—possibly a twin, possibly something far stranger. Mertep must determine if this is a simple substitution, an act of espionage, or something darker. Meanwhile, Lord Sâbekhotep grows increasingly anxious about the missing ring's implications.
+1. **The Inheritance Dispute**: Master Henti dies unexpectedly, and his will reveals that he has bequeathed his substantial household—not to his lazy nephew, but to Satiya, with instructions to run it until the nephew matures. However, the nephew and his supporters contest the will, claiming Satiya coerced or manipulated the elderly Henti. Satiya must now fight for her right to the position she has effectively held all along, proving both the legitimacy of Henti's wishes and her own worthiness. The vindication she has always craved now comes tangled with accusation and doubt.
 
-2. **The Poisoned Well**: Several members of the household fall mysteriously ill with symptoms suggesting contamination. Mertep's suspicion falls upon the water supply, but her investigation reveals that the well has been deliberately tampered with. Someone inside the household—someone with access to the sealed storage areas—has done this. The question is why, and more urgently, who? Mertep must identify the saboteur before the illness spreads further, knowing that her discovery will expose the household's vulnerability and possibly bring scandal upon Lord Sâbekhotep.
+2. **The Seduction of the Smuggler**: A charming merchant captain arrives in Ta'Kheperu seeking to establish a shipping venture, and he becomes a frequent guest in Master Henti's household. He pays Satiya extraordinary attention—complimenting her work, remembering details about her preferences, treating her with the respect and recognition she has been denied for decades. Only gradually does Satiya realize he is using her access and knowledge of the household to steal valuable antiquities for sale to foreign collectors. She has to choose between the intoxicating recognition he offers and her fundamental integrity, and then whether exposure will destroy the reputation she has built.
 
-3. **The Visiting Scholar**: A young scholar arrives at the household as a guest of Lord Sâbekhotep's family, claiming to be researching domestic practices in noble households. Mertep finds her oddly inquisitive, asking detailed questions about the household's layout, the servants' relationships, supply routes, and the lord's daily patterns. When Mertep discovers that this scholar is actually an agent working for a competing noble house, she must decide whether to confront the woman, expose her to the lord, or use this discovery to her advantage in the household's internal politics.
+3. **The Ritual Demands**: The Temple of Íšét approaches Satiya with an unusual request: to oversee a month-long ceremonial preparation of a noble household for a sacred fertility festival, essentially removing her from Master Henti's service. The temple promises her recognition and a position of minor authority that would finally see her name known and respected. However, completing this task would mean temporarily abandoning the household she has controlled, allowing a temporary steward to make decisions in her absence. Satiya must weigh her hunger for recognition against her need to maintain control of her domain.
 
-4. **The Lost Child**: A servant girl under Mertep's supervision becomes pregnant and, in desperation, seeks Mertep's help. Custom and law dictate that Mertep should report this to Lord Sâbekhotep immediately. Yet the girl came to her with tears and trust, asking for shelter during the pregnancy and help finding a safe place for the child. Mertep, for the first time in her adult life, must choose between her absolute adherence to order and a human compassion she thought she had long since mastered. Her decision will set her on a path that challenges everything she believes about duty and propriety.
+4. **The Scandal and the Scapegoat**: A theft or moral scandal occurs in Master Henti's household—perhaps a young servant is found with child, or valuable items go missing—and though Satiya is certainly not responsible, her position makes her a convenient target for blame. Henti, rather than defending her, chooses to dismiss her to avoid further embarrassment. Satiya can accept the humiliation or take action to expose the truth, potentially destroying the household she has devoted herself to protecting.
 
-5. **The Restoration of the Old Manor**: Lord Sâbekhotep inherits an ancient estate in the provinces, fallen into disrepair for decades, and assigns Mertep the task of restoring it to habitable condition. Arriving at the site with a team of workers, Mertep discovers evidence that the manor was not abandoned naturally—something drove the previous inhabitants away, and not cleanly. Strange symbols are carved into certain thresholds, rooms contain inexplicable arrangements, and the local peasants refuse to work after sunset. Mertep must restore order to a place where order may have been deliberately destroyed, and in doing so, she may uncover secrets that powerful people wish to remain buried.
+5. **The Offer of Partnership**: A woman of similar age and background approaches Satiya with a proposition: together, they could set up as advisors to noble families on the running and ordering of households, building a business where Satîya's skill would finally be properly credited and paid. However, this would mean leaving Master Henti, risking her current security, and trusting another person—something Satiya finds nearly impossible. The opportunity represents everything she has wanted, but accepting it requires her to believe she deserves more, something decades of invisibility have made her unable to fully accept.

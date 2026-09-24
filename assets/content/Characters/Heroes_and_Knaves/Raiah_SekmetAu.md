@@ -5,10 +5,10 @@ tags:
   - tradesfolk
   - character
 name:
-  full: Raiah Sekmet'â
+  full: Raiah Sekmet'Âu
   title: ""
   given: Raiah
-  clan: Sekmet'â
+  clan: Sekmet'Âu
   home: wasetkara
   aliases:
     - Raiah Sekmetâ
@@ -575,7 +575,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[raiahsekmt|Raiah Sekmet'â]]{float: top-left}
+![[raiahsekmt|Raiah Sekmet'Âu]]{float: top-left}
 
 Raiah stands 6'0" tall with a heavy build. He has ebony skin, graying black hair, and brown eyes. His features include a diamond-shaped face, a slightly arched nose, a narrow chin, well-shaped lips, and arched brows.
 

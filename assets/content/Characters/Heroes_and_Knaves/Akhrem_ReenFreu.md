@@ -4,10 +4,10 @@ tags:
   - tradesfolk
   - character
 name:
-  full: Akhrem Re'en'fré
+  full: Akhrem Re'en'Fréu
   title: ""
   given: Akhrem
-  clan: Re'en'fré
+  clan: Re'en'Fréu
   home: perankhet
   aliases:
     - Akhrem Reenfré
@@ -603,7 +603,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[akhremrnfr|Akhrem Re'en'fré]]{float: top-left}
+![[akhremrnfr|Akhrem Re'en'Fréu]]{float: top-left}
 
 Akhrem stands 6'1" tall with a heavy build. He has dark brown skin, jet black hair, and brown eyes. His features include a long face, a prominent nose, a narrow chin, full lips, dark brows, and sculpted cheeks. He has a scar on the back of his left arm.
 

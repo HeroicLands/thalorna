@@ -5,10 +5,10 @@ tags:
   - tradesfolk
   - character
 name:
-  full: Pat'nefur Set'maâr
+  full: Patnefur Set'Maâru
   title: ""
-  given: Pat'nefur
-  clan: Set'maâr
+  given: Patnefur
+  clan: Set'Maâru
   home: wasetkara
   aliases:
     - Patnefur Setmaâr
@@ -602,9 +602,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[patnfrstmr|Pat'nefur Set'maâr]]{float: top-left}
+![[patnfrstmr|Patnefur Set'Maâru]]{float: top-left}
 
-Pat'nefur stands 5'7" tall with a medium build. He has dark skin, black hair, and brown eyes. His features include an oval face, a long nose, a refined jawline, an expressive mouth, high-set brows, and sculpted cheeks. He has a scar on the left side of his neck.
+Patnefur stands 5'7" tall with a medium build. He has dark skin, black hair, and brown eyes. His features include an oval face, a long nose, a refined jawline, an expressive mouth, high-set brows, and sculpted cheeks. He has a scar on the left side of his neck.
 
 # Dossier {#dossier}
 

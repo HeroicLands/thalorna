@@ -4,10 +4,10 @@ tags:
   - soldiery
   - character
 name:
-  full: Khatah Mey'khari
+  full: Khatah Mey'Khariu
   title: ""
   given: Khatah
-  clan: Mey'khari
+  clan: Mey'Khariu
   home: ankhsetun
   aliases:
     - Khatah Meykhari
@@ -587,7 +587,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[khathmykhr|Khatah Mey'khari]]{float: top-left}
+![[khathmykhr|Khatah Mey'Khariu]]{float: top-left}
 
 Khatah stands 5'10" tall with a light build. She has dark brown skin, black hair, and black eyes. Her features include a narrow face, a long nose, a pointed chin, well-shaped lips, dark brows, and sculpted cheeks. She has a tattoo of a spider on her shoulder.
 

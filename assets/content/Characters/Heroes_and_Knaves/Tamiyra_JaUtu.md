@@ -4,13 +4,13 @@ tags:
   - administration
   - character
 name:
-  full: Ta'miyra Jâut
+  full: Tamiyra Jâ'Utu
   title: ""
-  given: Ta'miyra
-  clan: Jâut
+  given: Tamiyra
+  clan: Jâ'Utu
   home: perankhet
   aliases:
-    - Tamiyra Jâut
+    - Tamiyra Jâ'Utu
     - Tamiyra Jaut
 packFolder: northernfertileregiontakheperu
 shortcode: tamiyrajat
@@ -606,9 +606,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[tamiyrajat|Ta'miyra Jâut]]{float: top-left}
+![[tamiyrajat|Tamiyra Jâ'Utu]]{float: top-left}
 
-Ta'miyra stands 5'3" tall with a light build. She has warm bronze skin, jet black hair, and black eyes. Her features include a diamond-shaped face, a tapered chin, and fine brows. She has a faint scar on the left side of her neck.
+Tamiyra stands 5'3" tall with a light build. She has warm bronze skin, jet black hair, and black eyes. Her features include a diamond-shaped face, a tapered chin, and fine brows. She has a faint scar on the left side of her neck.
 
 # Dossier {#dossier}
 

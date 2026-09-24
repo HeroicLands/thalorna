@@ -4,10 +4,10 @@ tags:
   - administration
   - character
 name:
-  full: Raiya Waset'neb
+  full: Raiya Waset'Nebu
   title: Nebet
   given: Raiya
-  clan: Waset'neb
+  clan: Waset'Nebu
   home: wasetkara
   aliases:
     - Raiya Wasetneb
@@ -600,7 +600,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[raiyawstnb|Raiya Waset'neb]]{float: top-left}
+![[raiyawstnb|Raiya Waset'Nebu]]{float: top-left}
 
 Raiya stands 5'8" tall with a light build. She has dark skin, black hair, and dark brown eyes. Her features include a noble nose, a smooth jawline, dark brows, and prominent cheeks.
 

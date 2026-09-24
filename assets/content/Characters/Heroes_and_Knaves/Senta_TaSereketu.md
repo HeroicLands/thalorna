@@ -4,10 +4,10 @@ tags:
   - soldiery
   - character
 name:
-  full: Sênta Ta'Sereket
+  full: Sênta Ta'Sereketu
   title: ""
   given: Sênta
-  clan: Ta'Sereket
+  clan: Ta'Sereketu
   home: perankhet
   aliases:
     - Sênta TaSereket
@@ -595,7 +595,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[sentatsrkt|Sênta Ta'Sereket]]{float: top-left}
+![[sentatsrkt|Sênta Ta'Sereketu]]{float: top-left}
 
 Sênta stands 5'10" tall with a medium build. She has tawny skin, jet black hair, and honey brown eyes. Her features include a slightly arched nose, a tapered chin, generous lips, and honey brows.
 
@@ -605,7 +605,7 @@ Sênta stands 5'10" tall with a medium build. She has tawny skin, jet black hair
 
 ### Early Life
 
-Born to the Ta'Sereket clan in the fertile valleys of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], Sênta grew up watching her mother's brothers manage trade caravans between distant cities. Where other children played at merchant games, she scrambled up cliffside trails and learned to read the land like her elders read ledgers. Her mother, a priestess of [[lore-isetdty|Íšét]], blessed her daughter's natural agility with sacred oils before each journey, whispering prayers to the goddess of fertility and life's bounty for safe travels. This bond to the divine marked Sênta early, though she would never serve in any temple—her calling lay elsewhere.
+Born to the Ta'Sereketu clan in the fertile valleys of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], Sênta grew up watching her mother's brothers manage trade caravans between distant cities. Where other children played at merchant games, she scrambled up cliffside trails and learned to read the land like her elders read ledgers. Her mother, a priestess of [[lore-isetdty|Íšét]], blessed her daughter's natural agility with sacred oils before each journey, whispering prayers to the goddess of fertility and life's bounty for safe travels. This bond to the divine marked Sênta early, though she would never serve in any temple—her calling lay elsewhere.
 
 ### Training and Path
 

@@ -4,10 +4,10 @@ tags:
   - tradesfolk
   - character
 name:
-  full: Tirye Djet'amê
+  full: Tirye Djet'Amêu
   title: ""
   given: Tirye
-  clan: Djet'amê
+  clan: Djet'Amêu
   home: meruhotep
   aliases:
     - Tirye Djetamê
@@ -587,7 +587,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[tiryedjetm|Tirye Djet'amê]]{float: top-left}
+![[tiryedjetm|Tirye Djet'Amêu]]{float: top-left}
 
 Tirye stands 5'4" tall with a light build. She has dark skin, black hair, and brown eyes. Her features include a narrow face, a slightly arched nose, a smooth jawline, and elegantly curved brows. She has a tattoo of a dragonfly on her neck.
 

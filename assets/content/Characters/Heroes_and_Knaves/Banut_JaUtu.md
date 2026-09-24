@@ -5,10 +5,10 @@ tags:
   - mages
   - character
 name:
-  full: Bânut Jâut
+  full: Bânut Jâ'Utu
   title: ""
   given: Bânut
-  clan: Jâut
+  clan: Jâ'Utu
   home: meruhotep
   aliases: []
 packFolder: northernfertileregiontakheperu
@@ -607,7 +607,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[banutjaut|Bânut Jâut]]{float: top-left}
+![[banutjaut|Bânut Jâ'Utu]]{float: top-left}
 
 Bânut stands 5'3" tall with a light build. She has golden brown skin, dark hair, and hazel eyes. Her features include a high-cheekboned face, a straight narrow nose, a narrow chin, full lips, golden brows, and high cheeks. She has a scar on her left ear.
 

@@ -36,7 +36,7 @@ The March's western edge, toward the coast, is Haradian border country—a line 
 
 The upland is the finest hunting ground in the Hellád, and its lords treat it as such. Wild boar root in the gorges, gazelle and wild sheep graze the high ridges, wolves follow the herds, and leopard are taken in the remotest country. The great hunts of the Southern March are its political season: the League's merchant-princes and foreign envoys are invited, the lord's hospitality is lavish, and more League business is settled around the hunting fires than in half the sessions of the council.
 
-Vaskan hunts with trained beasts—hounds, hawks and coursing cats—and pays well for them. His animals come from the best trainers he can find, including [[being-akhremrnfr|Akhrem Re'en'fré]] of [[affiliation-empirtkhpr|Ta'Kheperu]] across the sea, who has supplied the lord's kennels and mews for decades and whom Vaskan values because he treats the animals with consideration. The lord's huntsmen double as the March's rangers, and the lord's kennels have furnished war-dogs and scouting beasts for the League's border campaigns more than once.
+Vaskan hunts with trained beasts—hounds, hawks and coursing cats—and pays well for them. His animals come from the best trainers he can find, including [[being-akhremrnfr|Akhrem Re'en'Fréu]] of [[affiliation-empirtkhpr|Ta'Kheperu]] across the sea, who has supplied the lord's kennels and mews for decades and whom Vaskan values because he treats the animals with consideration. The lord's huntsmen double as the March's rangers, and the lord's kennels have furnished war-dogs and scouting beasts for the League's border campaigns more than once.
 
 ## Garrison and Governance
 
@@ -60,4 +60,4 @@ The March lives on stock and passage. It sends wool, hides, cheese and horses do
 - [[place-dunharargn|Dunhara Region]]—the country its road leads to
 - [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—the neighbor across its western hills
 - [[place-eastrnmrch|Eastern March]], [[place-northrnmrch|Northern March]]—the League's other marches
-- [[being-akhremrnfr|Akhrem Re'en'fré]]—trainer of the lord's beasts
+- [[being-akhremrnfr|Akhrem Re'en'Fréu]]—trainer of the lord's beasts

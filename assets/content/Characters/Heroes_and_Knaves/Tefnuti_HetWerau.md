@@ -4,10 +4,10 @@ tags:
   - tradesfolk
   - character
 name:
-  full: Tefnutî Het'Wera
+  full: Tefnutî Het'Werau
   title: ""
   given: Tefnutî
-  clan: Het'Wera
+  clan: Het'Werau
   home: ankhsetun
   aliases:
     - Tefnutî HetWera
@@ -607,7 +607,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[tefnuthtwr|Tefnutî Het'Wera]]{float: top-left}
+![[tefnuthtwr|Tefnutî Het'Werau]]{float: top-left}
 
 Tefnutî stands 5'10" tall with a medium build. He has warm amber skin, gray hair, and brown eyes. His features include an oval face, a noble nose, a smooth jawline, an expressive mouth, fine brows, and angular cheeks.
 
@@ -615,7 +615,7 @@ Tefnutî stands 5'10" tall with a medium build. He has warm amber skin, gray hai
 
 Tefnutî was born into a family of toymakers in the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], in a tradition stretching back seven generations. His great-grandfather had been commissioned by an imperial prince to create mechanical toys of extraordinary ingenuity, work that established the family's reputation for invention and precision. Tefnutî's own father, Pakhoti, had expanded the family trade significantly, introducing mechanisms of increasing complexity while maintaining a commitment to beauty and craftsmanship.
 
-From earliest childhood, Tefnutî was trained in the family traditions. Unlike some toymakers who view their work as frivolous entertainment, the Het'Wera family understood that toys were miniature worlds—opportunities to teach mechanics, aesthetics, and imagination. Tefnutî exceeded even his father's capabilities, developing new techniques for creating clockwork mechanisms of breathtaking intricacy. By his thirties, his toys were so much in demand among wealthy families and collectors that his wait list extended years into the future.
+From earliest childhood, Tefnutî was trained in the family traditions. Unlike some toymakers who view their work as frivolous entertainment, the Het'Werau family understood that toys were miniature worlds—opportunities to teach mechanics, aesthetics, and imagination. Tefnutî exceeded even his father's capabilities, developing new techniques for creating clockwork mechanisms of breathtaking intricacy. By his thirties, his toys were so much in demand among wealthy families and collectors that his wait list extended years into the future.
 
 However, beginning in his forties, Tefnutî became increasingly troubled by what he perceived as the cheapening of the craft. Simpler toys turned out in bulk began undercutting the market, and younger toymakers enthusiastically adopted new materials and methods that Tefnutî viewed as compromising quality. Rather than adapt, he doubled down on his traditional techniques and began work on increasingly elaborate creations that became less toys and more works of engineering art. This shift in focus—away from practical toys children could play with and toward elaborate mechanical sculptures meant for display—has simultaneously enhanced his prestige among collectors and left him increasingly isolated from the rest of the toymaking trade.
 
@@ -679,7 +679,7 @@ Tefnutî's primary motivation is the creation of mechanical perfection—toys th
 
 - **the Toymakers' Guild of Ta'Kheperu**: Tefnutî holds membership and retains significant prestige within the guild, though he frequently clashes with guild leadership over standards and methods. He serves on the guild's standards committee, where he advocates for stricter quality requirements.
 
-- **the Het'Wera Craftsman Lineage**: An informal family legacy and tradition spanning seven generations, of which Tefnutî is the current master. He has become increasingly protective of family techniques and secretive about his methods.
+- **the Het'Werau Craftsman Lineage**: An informal family legacy and tradition spanning seven generations, of which Tefnutî is the current master. He has become increasingly protective of family techniques and secretive about his methods.
 
 ## Plot Hooks
 
