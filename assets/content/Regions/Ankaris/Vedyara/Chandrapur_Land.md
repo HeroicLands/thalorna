@@ -31,7 +31,7 @@ The seats descend by house and not by turn, so a Chandrapuri village changes han
 
 ## Settlements
 
-```sql :allow-empty
+```sql
 SELECT s.address.slug AS _ref,
        s.name.full AS "Name",
        s.data.market || ' ' || m.name AS "Market",

@@ -56,6 +56,33 @@ The reign that raised it standardized Classical Vedyari and produced the comment
 
 Janapadas sit where the tanks are largest, in the north and east where the soil deepens toward the Mahānadi's tributaries. They are few, they are small, and their sabhās meet in the dry season when the herds are furthest away.
 
+## Settlements
+
+```sql :allow-empty
+SELECT s.address.slug AS _ref,
+       s.name.full AS "Name",
+       s.data.market || ' ' || m.name AS "Market",
+       s.data.population AS "People",
+       (SELECT string_agg(
+                   CASE
+                       WHEN p.address.slug IS NULL THEN p.name.full
+                       ELSE '[[' || p.address.slug || '|' || p.name.full || ']]'
+                   END, ' and ' ORDER BY p.name.full)
+        FROM entries p
+        WHERE p.type = 'affiliation'
+          AND list_contains(p.data.domains, s.shortcode)) AS "Held by",
+       -- No field states why a place stands where it does, so "For" projects nothing.
+       NULL AS "For"
+FROM entries s
+LEFT JOIN market m ON m.value = s.data.market
+WHERE s.type = 'place'
+  AND s.subType = 'settlement'
+  AND list_contains(s.data.parents, 'vandhyabhumi')
+ORDER BY s.name.full COLLATE NOCASE
+```
+
+The query names the settlements of the plateau. A herd walks between wells for most of the year and a well is property rather than a place, so the people of the country are counted at the tanks and not at any settlement of their own.
+
 ## See Also
 
 - [[place-vedyarargn|Vedyara Region]]—parent region
