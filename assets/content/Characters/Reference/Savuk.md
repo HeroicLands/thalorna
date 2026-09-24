@@ -2,6 +2,7 @@
 tags:
   - character
   - reference
+  - unattributed
 name:
   full: Savûk
   title: Duke
