@@ -27,7 +27,6 @@ data:
     - provncmktr
   gender: male
   species: null
-  age: 39
   born: 681/5/18
   height: 1.8
   weight: 78

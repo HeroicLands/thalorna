@@ -27,7 +27,6 @@ data:
     - kingdomlgn
   gender: male
   species: null
-  age: 42
   born: 678/2/28
   height: 1.91
   weight: 89.4

@@ -29,7 +29,6 @@ data:
     - kostaros2
   gender: male
   species: null
-  age: 48
   born: 676/4/20
   height: 1.88
   weight: 85

@@ -30,7 +30,6 @@ data:
     - kngdmldrth
   gender: female
   species: null
-  age: 35
   born: 689/1/18
   height: 1.68
   weight: 64

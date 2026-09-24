@@ -28,7 +28,6 @@ data:
     - kngdmprvnz
   gender: female
   species: null
-  age: 34
   born: 690/8/22
   height: 1.7
   weight: 65

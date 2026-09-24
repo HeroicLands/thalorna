@@ -28,7 +28,6 @@ data:
     - sultntmrdd
   gender: female
   species: null
-  age: 29
   born: 691/2/23
   height: 1.85
   weight: 78.9

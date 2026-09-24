@@ -30,7 +30,6 @@ data:
     - mtrrchybth
   gender: female
   species: null
-  age: 26
   born: 694/1/4
   height: 1.68
   weight: 59

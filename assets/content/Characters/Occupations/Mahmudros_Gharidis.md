@@ -28,7 +28,6 @@ data:
     - pelagora
   gender: male
   species: null
-  age: 54
   born: 670/3/30
   height: 1.83
   weight: 83

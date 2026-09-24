@@ -28,7 +28,6 @@ data:
     - cnfdrtnhrdnstts
   gender: male
   species: null
-  age: 41
   born: 683/9/14
   height: 1.8
   weight: 76

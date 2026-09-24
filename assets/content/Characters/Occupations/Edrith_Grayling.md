@@ -28,7 +28,6 @@ data:
     - kingdmdnvr
   gender: female
   species: null
-  age: 28
   born: 696/4/5
   height: 1.73
   weight: 64

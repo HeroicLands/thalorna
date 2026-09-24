@@ -27,7 +27,6 @@ data:
     - kalihara
   gender: male
   species: null
-  age: 40
   born: 680/4/9
   height: 1.88
   weight: 85.7

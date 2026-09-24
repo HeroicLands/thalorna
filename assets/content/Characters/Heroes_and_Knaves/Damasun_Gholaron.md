@@ -29,7 +29,6 @@ data:
     - ctysttshlns
   gender: male
   species: null
-  age: 60
   born: 659/4/27
   height: 1.83
   weight: 77.1

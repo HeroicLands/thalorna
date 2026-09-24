@@ -28,7 +28,6 @@ data:
     - korinthea
   gender: male
   species: null
-  age: 30
   born: 694/6/25
   height: 1.91
   weight: 93

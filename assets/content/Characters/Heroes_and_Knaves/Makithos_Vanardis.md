@@ -27,7 +27,6 @@ data:
     - provnchyln
   gender: male
   species: null
-  age: 41
   born: 679/5/25
   height: 1.7
   weight: 62.6

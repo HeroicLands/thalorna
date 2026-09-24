@@ -28,7 +28,6 @@ data:
     - vrystwldtrbs
   gender: male
   species: null
-  age: 45
   born: 676/9/22
   height: 1.85
   weight: 83

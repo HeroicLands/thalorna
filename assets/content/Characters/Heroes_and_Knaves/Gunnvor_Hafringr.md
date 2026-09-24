@@ -28,7 +28,6 @@ data:
     - kingdmnrgd
   gender: female
   species: null
-  age: 29
   born: 691/12/3
   height: 1.8
   weight: 71.7

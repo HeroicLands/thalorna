@@ -29,7 +29,6 @@ data:
     - vylarinmpr
   gender: male
   species: null
-  age: 22
   born: 698/12/18
   height: 1.75
   weight: 60

@@ -29,7 +29,6 @@ data:
     - ordoarcanis
   gender: male
   species: null
-  age: 34
   born: 686/3/28
   height: 1.88
   weight: 86.2

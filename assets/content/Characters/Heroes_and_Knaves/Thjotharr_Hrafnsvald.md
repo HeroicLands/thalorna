@@ -27,7 +27,6 @@ data:
     - kingdmnrgd
   gender: male
   species: null
-  age: 52
   born: 668/4/9
   height: 1.75
   weight: 68

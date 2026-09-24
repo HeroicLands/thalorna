@@ -27,7 +27,6 @@ data:
     - dhnrktjnpd
   gender: male
   species: null
-  age: 33
   born: 687/2/19
   height: 1.85
   weight: 78.9

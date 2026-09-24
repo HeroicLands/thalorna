@@ -28,7 +28,6 @@ data:
     - athenikos
   gender: female
   species: null
-  age: 27
   born: 695/6/5
   height: 1.85
   weight: 79

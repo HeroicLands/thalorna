@@ -28,7 +28,6 @@ data:
     - repblctrvn
   gender: male
   species: null
-  age: 37
   born: 687/3/15
   height: 1.73
   weight: 70

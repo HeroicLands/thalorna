@@ -27,7 +27,6 @@ data:
     - chandrapur
   gender: male
   species: null
-  age: 31
   born: 689/10/30
   height: 1.83
   weight: 74.8

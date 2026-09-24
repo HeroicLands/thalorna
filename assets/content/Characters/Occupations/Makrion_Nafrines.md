@@ -28,7 +28,6 @@ data:
     - thyrenae
   gender: male
   species: null
-  age: 46
   born: 674/1/22
   height: 1.8
   weight: 74

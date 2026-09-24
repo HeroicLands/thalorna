@@ -28,7 +28,6 @@ data:
     - kingdmtrvn
   gender: female
   species: null
-  age: 27
   born: 693/9/21
   height: 1.73
   weight: 65

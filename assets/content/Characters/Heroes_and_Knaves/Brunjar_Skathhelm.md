@@ -28,7 +28,6 @@ data:
     - blckpnwlvs
   gender: male
   species: null
-  age: 22
   born: 697/10/3
   height: 1.75
   weight: 68

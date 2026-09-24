@@ -28,7 +28,6 @@ data:
     - kingdomlgn
   gender: female
   species: null
-  age: 32
   born: 688/4/29
   height: 1.7
   weight: 64.9

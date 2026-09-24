@@ -28,7 +28,6 @@ data:
     - kalydria
   gender: female
   species: null
-  age: 34
   born: 690/3/29
   height: 1.8
   weight: 73

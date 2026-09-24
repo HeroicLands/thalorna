@@ -30,7 +30,6 @@ data:
     - empirtkhpr
   gender: female
   species: null
-  age: 36
   born: 684/9/18
   height: 1.6
   weight: 55.8

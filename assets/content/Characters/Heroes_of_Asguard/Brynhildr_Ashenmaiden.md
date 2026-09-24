@@ -30,7 +30,6 @@ data:
     - kngdmnrdhm
   gender: female
   species: null
-  age: 29
   born: 691/5/8
   height: 1.55
   weight: 52
