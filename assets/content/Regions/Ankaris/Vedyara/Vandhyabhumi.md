@@ -14,7 +14,7 @@ subType: region
 data:
   demonym: Vandhyan
   lore:
-    - humanflk
+    - vedyariclt
   parents:
     - vedyarargn
   population: 1200000

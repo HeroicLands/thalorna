@@ -107,7 +107,7 @@ data:
     - lore-vdyrnbnkng
     - affiliation-mrchntclctvvdyr
   lore:
-    - humanflk
+    - vedyariclt
   parents: []
   relations:
     varakpnthn: aligned

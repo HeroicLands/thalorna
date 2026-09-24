@@ -101,7 +101,7 @@ data:
     - lore-vdyrnbnkng
     - affiliation-mrchntclctvvdyr
   lore:
-    - humanflk
+    - vedyariclt
   parents: []
   relations:
     varakpnthn: aligned
@@ -136,7 +136,7 @@ The arrangement is stable and nobody defends it in writing. A keeper asked to ju
 
 ## What It Pays For
 
-The first charge on every estate is its own temple. The second is the road. The free hostels along the pilgrim route are endowed out of these forests together with the gold of [[affiliation-suvrgrjnpd|Suvarnagiri]] above them, and between the two endowments a pilgrim walks six hundred miles of the Bhārava fed by other people's charity. The Devabhoga's keepers regard that charge as the one part of their work the plains understand.
+The first charge on every estate is its own temple. The second is the road. The [[place-bhrvdvsthna|free hostels]] along the pilgrim route are endowed out of these forests together with the gold of [[affiliation-suvrgrjnpd|Suvarnagiri]] above them, and between the two endowments a pilgrim walks six hundred miles of the Bhārava fed by other people's charity. The Devabhoga's keepers regard that charge as the one part of their work the plains understand.
 
 What is left goes down the river as timber on the flood and out through the coastal houses as resin, lac, dyewood, wax and spice. It arrives with no sabhā's tithe on it, which is why the coastal buyers prefer it and why the [[affiliation-mrchntclctvvdyr|Merchant Collective]] has spent two centuries trying to get a weighing-house onto the lower river and has been refused by every mother-temple it has asked.
 

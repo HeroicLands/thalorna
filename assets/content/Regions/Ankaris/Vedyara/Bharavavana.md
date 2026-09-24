@@ -14,7 +14,7 @@ subType: region
 data:
   demonym: Bhāravan
   lore:
-    - humanflk
+    - vedyariclt
   parents:
     - vedyarargn
   population: 2400000
@@ -30,7 +30,7 @@ It is the southern tropical interior the [[place-vedyarargn|region's]] own recko
 
 The forest begins where the Bhārava leaves [[place-suvarnagirijnpd|Suvarnagiri]]'s panning grounds and slows, and it ends where the last of the canopy gives out among the rice ground of the coastal plain. It is bounded north and east by the shoulder of the [[place-graznmntns|Grazian]] foothills and west by the drier scrub of the Mahānadi's eastern watershed, where the trees thin out over about thirty miles and the janapadas begin again.
 
-Above the highlands the river runs out of the mountain through country of a different kind. That upper forest, the ground below [[place-estrnreach|the Eastern Reach]] that the pilgrim road does not enter and that travellers call the Forest of No Road, is not endowed to anybody. No estate has ever been cut there, no temple has claimed it, and the boundary between the two forests is exactly the boundary of the last estate on the upper river.
+Above the highlands the river runs out of the mountain through country of a different kind. That upper forest, [[place-forestnoroad|the Forest of No Road]] below [[place-estrnreach|the Eastern Reach]], is not endowed to anybody. No estate has ever been cut there, no temple has claimed it, and the boundary between the two forests is exactly the boundary of the last estate on the upper river.
 
 ## What the Forest Yields
 
@@ -46,7 +46,7 @@ They are outside the varna order rather than at the bottom of it, which the esta
 
 ## The Road
 
-The pilgrim road runs the whole length of the river, sea to ice, and the free hostels that make the walk possible are endowed out of exactly these forest products. A pilgrim who has never bought a meal on the road has been fed for six hundred miles by resin, lac and felled hardwood, and the observance holds that he should know it.
+The pilgrim road runs the whole length of the river, sea to ice, and the [[place-bhrvdvsthna|free hostels]] that make the walk possible are endowed out of exactly these forest products. A pilgrim who has never bought a meal on the road has been fed for six hundred miles by resin, lac and felled hardwood, and the observance holds that he should know it.
 
 The road is also the only continuous line through the forest. Everything else is a season's path to a gathering ground, cut for a season and closed after it, and the estates prefer it that way.
 
@@ -60,4 +60,6 @@ The [[affiliation-bhrvdvbhog|Bhārava-Devabhoga]] is the whole of the government
 - [[affiliation-bhrvdvbhog|The Bhārava-Devabhoga]]—the temple-estates that hold the forest
 - [[place-bharavarivr|The Bhārava]]—the river and the pilgrim road along it
 - [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]]—the gold highlands above the forest, and the hostels' endowment
+- [[place-forestnoroad|The Forest of No Road]]—the unendowed forest at the head of the river, above the last estate
+- [[place-bhrvdvsthna|The Bhārava-Devasthāna]]—the free hostels the forest's yield pays for
 - [[place-estrnreach|The Eastern Reach]]—the range above the upper river
