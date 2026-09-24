@@ -72,7 +72,8 @@ data:
     - pysn
     - sing
   seat: null
-  domains: []
+  domains:
+    - svapnastambha
   population: null
   economy: []
   lore:
