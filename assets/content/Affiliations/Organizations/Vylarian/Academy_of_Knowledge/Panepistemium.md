@@ -6,7 +6,6 @@ tags:
   - helionis
   - midhalion
   - philosophy
-  - draft
 description: "Ancient scholarly federation of all human knowledge, co-opted as intellectual cover for the Ordo Arcanis's spread through chapterhouses across western Ankaris."
 name:
   full: Panepistemium
@@ -29,7 +28,25 @@ data:
     summary: >-
       A scholarly federation of philosophical colleges whose arcane college is now the
       dominant Ordo Arcanis, teaching every non-arcane discipline through its chapterhouses.
-    ranks: []
+    ranks:
+      - level: 0
+        title: Student
+        lore: initiaternk
+        description: >-
+          Come from patrician and well-propertied families able to support the long years of
+          study; the District neither admits nor lodges the poor.
+      - level: 1
+        title: Scholar
+        lore: masterrnk
+        description: >-
+          Of a college, studying and teaching one domain of philosophical inquiry alongside
+          scholars who often hold appointments in more than one.
+      - level: 2
+        title: Senior Scholar
+        lore: elderrnk
+        description: >-
+          Head of a college, convened with the other colleges' heads in common assembly to set
+          institutional policy, resolve disputes and maintain the Epistemium's standards.
     offices: {}
   commonSkills: []
   seat: null

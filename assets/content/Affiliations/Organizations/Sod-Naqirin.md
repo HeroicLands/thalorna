@@ -26,7 +26,25 @@ data:
     summary: >-
       A Confederation-chartered umbrella of thirty-two Haradian trade guilds and their treasury
       arm, governed by the Sôd-Rabbânîn under an elected Rab-Naqîr.
-    ranks: []
+    ranks:
+      - level: 0
+        title: Expelled
+        lore: expelledrnk
+        description: >-
+          Struck from a trade's charter and the Sôd's roll; the Sôd's authority over guilds
+          is equivalent to the Vylarian Collegium's it replaced.
+      - level: 1
+        title: Guildmaster
+        lore: burgherrnk
+        description: >-
+          A registered master of one of the Sôd's chartered trades, examined and bound to its
+          standards.
+      - level: 2
+        title: Sôd-Rabbânîn Seat
+        lore: councillorrnk
+        description: >-
+          The senior naqîr of a recognized trade-category, elected by that trade's own masters
+          to one of the thirty-two seats of the standing council.
     offices:
       Rab-Naqîr: >-
         Chief of Chiefs—the head, elected from among the sitting naqîrîn of the great trades by

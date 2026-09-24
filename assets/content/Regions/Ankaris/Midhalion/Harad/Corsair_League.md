@@ -1,6 +1,4 @@
 ---
-tags:
-  - draft
 description: "Haradian maritime guild—war-veteran captains blurring legitimate shipping and piracy, providing de facto navy and naval muscle for the Confederation."
 type: affiliation
 name:
@@ -19,7 +17,14 @@ data:
       A fraternity of war-veteran ship captains turned shipping cartel, providing the
       Confederation's de facto navy under the charter its Grand Council periodically threatens
       to revoke.
-    ranks: []
+    ranks:
+      - level: 0
+        title: Member
+        lore: swornmemberrnk
+        description: >-
+          A ship captain, fleet owner or naval officer operating under the League's umbrella,
+          granted preferential access to harbor facilities, customs exemptions and the right
+          to carry weapons in Haradian ports.
     offices: {}
   commonSkills:
     - helonclng

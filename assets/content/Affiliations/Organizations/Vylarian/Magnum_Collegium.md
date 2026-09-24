@@ -20,7 +20,25 @@ data:
     summary: >-
       A mandatory cross-realm federation of thirty-six chartered trade guilds, governed by
       the Curia Collegiorum under an imperially appointed Princeps Collegii.
-    ranks: []
+    ranks:
+      - level: 0
+        title: Revoked
+        lore: expelledrnk
+        description: >-
+          Permanent loss of a master's seal by Curia ruling—rare and crushing, and the harshest
+          sanction the Collegium can impose.
+      - level: 1
+        title: Guildmaster
+        lore: burgherrnk
+        description: >-
+          A chartered master of one of the Collegium's member guilds, holding standing under
+          its charter but no seat of his own on the Curia.
+      - level: 2
+        title: Master Magister
+        lore: councillorrnk
+        description: >-
+          Elected by a trade's own senior masters to hold that trade's seat on the Curia
+          Collegiorum.
     offices:
       Princeps Collegii: >-
         First of the College—the chair, appointed by imperial edict for a renewable ten-year

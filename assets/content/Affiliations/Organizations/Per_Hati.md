@@ -25,7 +25,24 @@ data:
     summary: >-
       A network of Kheperi temple-treasuries, governed by the Council of the High Priests
       under the Imy'Râ Hâti, attesting the region's currency and holding its grain and credit.
-    ranks: []
+    ranks:
+      - level: 0
+        title: Expelled
+        lore: expelledrnk
+        description: >-
+          Struck from a chapter-temple's service, no longer accounted a priest of the Account.
+      - level: 1
+        title: Priest
+        lore: priestrnk
+        description: >-
+          Ordained to a Kheperi temple's rites; every senior officer of the network is drawn
+          from this order.
+      - level: 2
+        title: High Priest
+        lore: highpriestrnk
+        description: >-
+          Head of one of the eight greatest temples, constituting the Council of the High
+          Priests, the network's governing body.
     offices:
       Imy'Râ Hâti: >-
         The Overseer of the Account—the network's chief officer, appointed by the Council of
