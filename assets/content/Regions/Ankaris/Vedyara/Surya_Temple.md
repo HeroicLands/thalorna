@@ -26,7 +26,7 @@ The building is a single stone cell with a walled forecourt and a sighting terra
 
 ## The Year
 
-The orthodox civil year of Vedyara is declared from this terrace. The high priests sight the turn against the parapet marks and announce it to every court and temple that keeps the [[place-mdhvndrcnt|Mādhavendra count]], and the announcement is what fixes a Mela, a Weighing and a coronation.
+The orthodox civil year of Vedyara is declared from this terrace. The high priests sight the turn against the parapet marks and announce it to every court and temple that keeps the [[lore-mdhvndrcnt|Mādhavendra count]], and the announcement is what fixes a Mela, a Weighing and a coronation.
 
 The [[place-ganakahall|reckoners at Chandrapur]] compute the same turn and get a different day. They have got a different day for as long as anyone has checked. The temple does not argue the point in public and has never had to: the sighting is the one that is announced, and the computation is the one every treasurer keeps beside it.
 
@@ -50,5 +50,5 @@ The temple's senior priest is one of the three who sit as the **Council of Three
 
 - [[place-chandrprbh|Chandraprabhava]]—the spring the temple stands beside
 - [[place-suryashkhr|Sūryaśikhara]]—the peak above it
-- [[place-mdhvndrcnt|The Mādhavendra count]]—the year it declares
+- [[lore-mdhvndrcnt|The Mādhavendra count]]—the year it declares
 - [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]]—the sect that keeps it
