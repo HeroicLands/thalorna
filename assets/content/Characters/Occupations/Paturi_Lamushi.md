@@ -30,7 +30,7 @@ data:
   gender: female
   species: null
   age: 50
-  birthday: 670/4/3
+  born: 670/4/3
   height: 1.75
   weight: 70
   frame: heavy

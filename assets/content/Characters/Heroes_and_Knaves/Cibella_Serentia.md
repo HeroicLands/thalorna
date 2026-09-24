@@ -29,7 +29,7 @@ data:
   gender: female
   species: null
   age: 17
-  birthday: 702/11/27
+  born: 702/11/27
   height: 1.73
   weight: 62.6
   frame: light
