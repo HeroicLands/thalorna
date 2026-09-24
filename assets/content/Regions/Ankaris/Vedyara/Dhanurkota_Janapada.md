@@ -27,7 +27,7 @@ data:
         title: Outcaste
         lore: excmmnctrnk
         description: >-
-          Placed outside the varṇa order by transgression or by birth, excluded from the wells,
+          Placed outside the tharana by transgression or by birth, excluded from the wells,
           the temples and the courts.
       - level: 1
         title: Bonded Servant
@@ -36,28 +36,28 @@ data:
           Bound by debt or birth to a household, owing labor and lacking the standing to hold
           land.
       - level: 2
-        title: Śūdra
+        title: Karmāja
         lore: commonerrnk
         description: >-
-          Of the serving varṇa—cultivators, artisans and laborers who hold their place by
+          Born to the serving tharana—cultivators, artisans and laborers who hold their place by
           work rather than by rite.
       - level: 3
-        title: Vaiśya
+        title: Dhanāja
         lore: gentryrnk
         description: >-
-          Of the productive varṇa—merchants, herders and landholders, whose tithes in coin and
+          Born to the productive tharana—merchants, herders and landholders, whose tithes in coin and
           goods sustain the temple and its granary.
       - level: 4
-        title: Kṣatriya
+        title: Senāja
         lore: warriorrnk
         description: >-
-          Of the warrior varṇa, bearing arms by right and owing service in the militia the sabhā
+          Born to the warrior tharana, bearing arms by right and owing service in the militia the sabhā
           raises from the villages.
       - level: 5
-        title: Brāhmaṇa
+        title: Ritūja
         lore: priestrnk
         description: >-
-          Of the priestly varṇa, keeper of rite and learning, without whose sanction no act of
+          Born to the priestly tharana, keeper of rite and learning, without whose sanction no act of
           the sabhā is complete.
       - level: 6
         title: Sabhāsad
@@ -149,7 +149,7 @@ Each academy keeps its own master, its own hereditary teaching lineages and its 
 
 ## Society
 
-Dhanurkota's social structure is the standard Vedyari caste arrangement, with the warrior caste (kshatriya-equivalent) unusually large and unusually wealthy by janapada standards. About one Dhanurkoti in eight is of the warrior caste, against perhaps one in twenty in an ordinary Vedyari janapada. The money comes from the academy fees aspiring archers bring from across Vedyara, from the standing retainers paid by patron kingdoms whose officer corps draws on Dhanurkota graduates, and from the prestige donations made to the Mahájaya temple by men the academies trained.
+Dhanurkota's social structure is the standard Vedyari caste arrangement, with the warrior caste—the Senāja, who bear arms by right and owe service in the host—unusually large and unusually wealthy by janapada standards. About one Dhanurkoti in eight is of the warrior caste, against perhaps one in twenty in an ordinary Vedyari janapada. The money comes from the academy fees aspiring archers bring from across Vedyara, from the standing retainers paid by patron kingdoms whose officer corps draws on Dhanurkota graduates, and from the prestige donations made to the Mahájaya temple by men the academies trained.
 
 The other castes stand in normal proportions. The merchant caste handles the considerable trade in arms, since Dhanurkoti bows and arrows are exported across Vedyara, and the provisioning, lodging and equipment-keeping the academies need. The priestly caste sits in and around the Mahájaya temple, and the senior priest convenes the sabhā.
 

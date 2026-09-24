@@ -635,7 +635,7 @@ Thêkla is motivated by a desire to protect those who cannot protect themselves.
 ### Patrons
 
 - **The Village Council of Marshfeld**: A agrarian community that hires Thêkla annually to protect against bandits and raiders. **Elder Magistrate Tomás** has become a mentor figure, offering wisdom and support.
-- **Lady Khatunéla Laskáris**: A noblewoman of conscience who uses her influence to connect Thêkla with communities in need of protection. She asks only that Thêkla help those who cannot afford formal mercenary rates.
+- **Lady Khatunéla Lysandáhr**: A noblewoman of conscience who uses her influence to connect Thêkla with communities in need of protection. She asks only that Thêkla help those who cannot afford formal mercenary rates.
 - **The Scholars' Collective of the Archive**: Dangerous knowledge sometimes requires protection. The head archivist, **Master Scholarch Menandáhr**, retains Thêkla for sensitive operations involving recovered texts or persecuted scholars.
 
 ### Enemies
