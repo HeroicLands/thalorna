@@ -15,7 +15,7 @@ data:
   icon: null
   demonym: Vedyaran
   lore:
-    - humanflk
+    - vedyariclt
   parents:
     - ankrscntnnt
   borders:
@@ -69,7 +69,11 @@ Religious practice runs through daily life at every level. Temples range from mo
 
 **Ascetic traditions** are respected and supported by the broader society. A renunciant abandons worldly life for spiritual pursuit. Ascetics attach themselves to particular temples, wander between holy sites, or disappear into the forests for years at a time. On return they are received with reverence and kept materially by the devout.
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] has no presence in Vedyara. Vedyara has its own mature magical traditions, built on **meditation, mantra and ritual**, and the priestly caste holds a near-monopoly on the most powerful practices. Folk magic and herbal tradition persist at all levels of society. Direct contact between the Ordo and Vedyari magical scholars has been rare, cautious and mutually suspicious across the centuries.
+Vedyara has its own mature magical traditions, built on **meditation, mantra and ritual**, and the priestly caste holds a near-monopoly on the most powerful practices. Folk magic and herbal tradition persist at all levels of society, tolerated completely as long as they claim nothing.
+
+What holds that structure together is the **school rule**: a Varnakan ordains into a sampradāya and never to a god, and a working outside every school that is nonetheless done in a god's name is Patita. The [[affiliation-trimurtisampradaya|Council of the Triyācāryas]] enforces it and licenses public working across the subcontinent. Four further bodies work under, beside or against that license: the [[affiliation-ganakashala|Ganaka-shala]] at Chandrapur, the reckoners who compute the calendar, the eclipse, the tide and the assay; the [[affiliation-passshrinebrahmins|Pass-Shrine Brahmins]], who work the weather-rite and the road-rite at the summits of the crossing roads; the [[affiliation-thresholdkeepers|Threshold-keepers]], licensed to put one question to the newly dead before the pyre and warranted for inheritance and unwitnessed killing alone; and the [[affiliation-chayavrata|Chaya-vrata]], the lapsed dream-line that works the waking dream and is condemned by the Council of the Dream and pursued by nobody.
+
+The [[affiliation-ordoarcanis|Ordo Arcanis]] keeps one licensed factor at the river mouth below Chandrapur and nothing else in the subcontinent—no chapter house, no school and no right to examine anyone. Contact between the Ordo and Vedyari magical scholars is rare, cautious and mutually suspicious, and neither side expects that to change.
 
 ## Politics and Power
 
@@ -114,6 +118,7 @@ Janapadas sit wherever village-cluster agriculture will hold, which is most of i
 ## See Also
 
 - [[affiliation-varakpnthn|Varṇaka Pantheon]]—the cycle-gods
+- [[lore-vedyariclt|Vedyari]]—the culture, the stations and what a person owes
 - [[skill-vedyarlng|Vedyari]]—the language and its classical form
 - [[place-graznmntns|The Grazian Mountains]]—the wall along the north, and its passes
 - [[place-dunharargn|Dunhara Region]]—northwestern neighbor by land
