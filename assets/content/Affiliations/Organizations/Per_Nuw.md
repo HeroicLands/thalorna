@@ -27,24 +27,29 @@ data:
       Hunter, governed by the Council of the Long Spear under its First Hunter.
     ranks:
       - level: 0
+        title: Revoked
+        lore: expelledrnk
+        description: >-
+          A member who falsifies game counts, returns or pricing is subject to revocation.
+      - level: 1
         title: Apprentice
         lore: apprenticernk
         description: >-
           Sba-nuw—admitted between fourteen and eighteen, typically introduced by a sponsoring
           journeyman or master, trained for three to five years.
-      - level: 1
+      - level: 2
         title: Journeyman
         lore: journeymanrnk
         description: >-
           Nuw—qualified by examination, permitted to take paid commissions under a master's
           seal; the working rank of most members.
-      - level: 2
+      - level: 3
         title: Master Hunter
         lore: masterrnk
         description: >-
           Hem-nuw—promoted by senior vote after presenting a documented record of significant
           work, permitted to seal independently, take apprentices and sit on chapter councils.
-      - level: 3
+      - level: 4
         title: Great Hunter
         lore: councillorrnk
         description: >-

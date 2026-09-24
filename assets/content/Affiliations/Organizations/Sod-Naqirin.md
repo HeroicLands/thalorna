@@ -33,13 +33,13 @@ data:
         description: >-
           Struck from a trade's charter and the Sôd's roll; the Sôd's authority over guilds
           is equivalent to the Vylarian Collegium's it replaced.
-      - level: 1
+      - level: 3
         title: Guildmaster
-        lore: burgherrnk
+        lore: masterrnk
         description: >-
           A registered master of one of the Sôd's chartered trades, examined and bound to its
           standards.
-      - level: 2
+      - level: 4
         title: Sôd-Rabbânîn Seat
         lore: councillorrnk
         description: >-
@@ -55,9 +55,10 @@ data:
       Gizbar: >-
         Treasurer—manages the Sôd's common fund and the Confederation's parallel banking system,
         the Bayt al-Khazînah.
-      Adônîm al-Mudunîn: >-
-        Lords of the City-States—the provincial deputies, one per major Haradian state, who
-        administer the Sôd's operations in their cities and report to the Rab-Naqîr.
+      Adôn: >-
+        One of the Adônîm al-Mudunîn ("Lords of the City-States")—the provincial deputies, one
+        per major Haradian state, who administer the Sôd's operations in their cities and
+        report to the Rab-Naqîr.
   commonSkills: []
   seat: null
   domains: []

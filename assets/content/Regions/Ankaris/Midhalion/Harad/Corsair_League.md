@@ -18,7 +18,7 @@ data:
       Confederation's de facto navy under the charter its Grand Council periodically threatens
       to revoke.
     ranks:
-      - level: 0
+      - level: 1
         title: Member
         lore: swornmemberrnk
         description: >-

@@ -29,19 +29,19 @@ data:
       A scholarly federation of philosophical colleges whose arcane college is now the
       dominant Ordo Arcanis, teaching every non-arcane discipline through its chapterhouses.
     ranks:
-      - level: 0
+      - level: 2
         title: Student
         lore: initiaternk
         description: >-
           Come from patrician and well-propertied families able to support the long years of
           study; the District neither admits nor lodges the poor.
-      - level: 1
+      - level: 3
         title: Scholar
         lore: masterrnk
         description: >-
           Of a college, studying and teaching one domain of philosophical inquiry alongside
           scholars who often hold appointments in more than one.
-      - level: 2
+      - level: 4
         title: Senior Scholar
         lore: elderrnk
         description: >-

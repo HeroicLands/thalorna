@@ -27,13 +27,13 @@ data:
         description: >-
           A charter revoked by the Crown—rare and consequential—ending a guild's standing
           among the Crown Trades.
-      - level: 1
+      - level: 3
         title: Chartered Craftsman
-        lore: burgherrnk
+        lore: masterrnk
         description: >-
           Of one of the six Crown Trades, working the monopoly its charter grants under
           whatever tradition that trade elects its own masters.
-      - level: 2
+      - level: 4
         title: Council Officer
         lore: councillorrnk
         description: >-

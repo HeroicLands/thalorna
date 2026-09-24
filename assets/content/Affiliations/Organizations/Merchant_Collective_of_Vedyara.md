@@ -23,23 +23,31 @@ data:
       suppliers, governed by the biannual Assembly of the Compact under an elected High Speaker.
     ranks:
       - level: 0
+        title: Expelled
+        lore: expelledrnk
+        description: >-
+          The kulina responsible for the worst offenses can be expelled, though one senior
+          enough risks fracturing the Collective by it.
+      - level: 1
         title: Karmakara
-        lore: swornmemberrnk
+        lore: dependentrnk
         description: >-
           An artisan supplier admitted by craft-guild affiliation, taking part in the Assembly
           through the guild's elected representative.
-      - level: 1
+      - level: 2
         title: Pratistha
         lore: initiaternk
         description: >-
           A new entrant admitted by sponsorship and probation, voting only on matters concerning
           their probationary terms.
-      - level: 2
-        title: Kulina
-        lore: councillorrnk
+      - level: 3
+        title: Kulina House
+        lore: greatlordrnk
         description: >-
           Of the great mercantile houses admitted by inheritance, whose vote carries weight in
-          proportion to the house's contribution to the common fund.
+          proportion to the house's contribution to the common fund. Distinguished as "Kulina
+          House" from Chandrapur's own Kulina, the unrelated seat one of the Nine Houses holds
+          at that janapada's court.
     offices:
       High Speaker of the Collective: >-
         Elected by the kulinas from among themselves for a seven-year term, presiding over the

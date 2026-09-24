@@ -27,13 +27,13 @@ data:
         description: >-
           Permanent loss of a master's seal by Curia ruling—rare and crushing, and the harshest
           sanction the Collegium can impose.
-      - level: 1
+      - level: 3
         title: Guildmaster
-        lore: burgherrnk
+        lore: masterrnk
         description: >-
           A chartered master of one of the Collegium's member guilds, holding standing under
           its charter but no seat of his own on the Curia.
-      - level: 2
+      - level: 4
         title: Master Magister
         lore: councillorrnk
         description: >-
@@ -50,9 +50,10 @@ data:
       Quaestor Collegii: >-
         The treasurer, managing the Collegium's modest common fund built from member-guild
         dues, ceremonial revenues and the Collegium's own commercial holdings.
-      Magistri Provinciarum: >-
-        The twelve provincial deputies—one per Vylarian province, one per Aurèldían kingdom
-        and two for Hellád—who administer the Collegium's operations in their regions.
+      Provincialis: >-
+        One of the Magistri Provinciarum ("provincial deputies")—twelve in all, one per
+        Vylarian province, one per Aurèldían kingdom and two for Hellád—who administer the
+        Collegium's operations in their regions.
   commonSkills: []
   seat: null
   domains: []

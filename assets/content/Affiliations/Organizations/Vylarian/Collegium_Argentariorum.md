@@ -21,21 +21,27 @@ data:
       under an elected Argentarius Magnar, operating the commonwealth's note-clearing system.
     ranks:
       - level: 0
+        title: Expelled
+        lore: expelledrnk
+        description: >-
+          Joint expulsion-and-suspension for fraud or treasonable conduct has, every time it
+          has been imposed, ended the affected house.
+      - level: 1
         title: Individual Moneylender
         lore: swornmemberrnk
         description: >-
           A small operator, often a family business of one or two principals, licensed under
           the guild's broader umbrella but not a chapter-clearing member.
-      - level: 1
+      - level: 2
         title: Lesser House
         lore: burgherrnk
         description: >-
           Admitted by sponsorship of an existing member and examination of its reserves, books
           and partners' character; eligible to participate in chapter clearing and issue
           retail notes under guild standing.
-      - level: 2
+      - level: 3
         title: Great House
-        lore: councillorrnk
+        lore: greatlordrnk
         description: >-
           One of perhaps twenty-five houses whose senior partners sit on the Council of the
           Argentarii, holding standing accounts with the Aerarium Imperii.
@@ -46,7 +52,7 @@ data:
       Argentarius Praepar: >-
         A senior moneylender elected by the local member moneylenders for a five-year term to
         administer a chapterhouse, manage its strongroom and countersign notes drawn against it.
-      Censores Argentariorum: >-
+      Censores: >-
         Twelve discipline officers reporting to the Council who conduct admission examinations,
         audit member houses' books and investigate complaints.
   commonSkills: []

@@ -22,21 +22,26 @@ data:
       Matriarchs under a rotating Speaker chosen by consensus from among the Great Houses.
     ranks:
       - level: 0
+        title: Expelled
+        lore: expelledrnk
+        description: >-
+          Admission or expulsion of a member house is the Council of Matriarchs' own to decide.
+      - level: 1
         title: Junior House
         lore: dependentrnk
         description: >-
           A recently-formed house, regional specialty merchant or independent trader without
           formal house affiliation, given the practical benefits of mutual recognition without
           the formal obligations of membership.
-      - level: 1
+      - level: 2
         title: Lesser House
         lore: swornmemberrnk
         description: >-
           A trading clan of regional standing conducting most of its business locally, relying
           on the Great Houses to extend credit and handle cross-territory transactions.
-      - level: 2
+      - level: 3
         title: Great House
-        lore: councillorrnk
+        lore: greatlordrnk
         description: >-
           One of perhaps a dozen senior trading clans whose matriarch sits on the Council of
           Matriarchs, holding formal correspondent accounts at Kheperi temples.

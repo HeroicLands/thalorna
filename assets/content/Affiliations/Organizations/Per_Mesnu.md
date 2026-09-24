@@ -29,13 +29,18 @@ data:
       temple rite, governed by the Council of Smiths under its First Smith.
     ranks:
       - level: 0
+        title: Revoked Seal
+        lore: expelledrnk
+        description: >-
+          Substantiated failure of sealed work means revocation of the master's seal.
+      - level: 1
         title: Initiate
         lore: initiaternk
         description: >-
           Sebau—admitted between ten and fourteen after demonstrating suitable physical
           strength, serving at the bellows and charcoal pit for two to three years before
           being permitted near the metal itself.
-      - level: 1
+      - level: 2
         title: Apprentice
         lore: apprenticernk
         description: >-
