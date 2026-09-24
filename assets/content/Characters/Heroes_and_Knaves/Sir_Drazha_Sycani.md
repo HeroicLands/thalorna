@@ -653,7 +653,7 @@ Despite his unwavering faith, Drazhan is not without doubt. The deeper he delves
 ### Patrons
 
 - **High Blazewarden Hadrik**: The leader of the Servants of Sycânus, Hadrik is both Drazhan’s mentor and rival. While Hadrik respects Drazhan’s abilities, he is wary of his growing influence within the order. Hadrik secretly hopes that Drazhan’s quest for the Eye of Velok will either elevate him to new heights or end in his destruction, eliminating him as a potential threat.
-- **Zirael of the Bloodfire**: A high-ranking priestess of the Black Flame and a member of the Blazing Oath, Zirael is a sexual partner and one of Drazhan’s closest allies. She provides spiritual guidance and leads the dark rituals that invoke Vúlcan’s favor before battle. Zirael is fiercely loyal to Drazhan, though she has her own ambitions within the church.
+- **Zirael Aimapyrós**: A high-ranking priestess of the Black Flame and a member of the Blazing Oath, Zirael is a sexual partner and one of Drazhan’s closest allies. She provides spiritual guidance and leads the dark rituals that invoke Vúlcan’s favor before battle. Zirael is fiercely loyal to Drazhan, though she has her own ambitions within the church.
 
 ### Enemies
 

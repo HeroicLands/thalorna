@@ -644,7 +644,7 @@ A more personal motivation underlies this: the wilderness is the only place wher
 
 - **Provincial Warden Tevik**: An official tasked with enforcing hunting regulations and game laws, Tevik views Drákonis's disregard for these restrictions as insufferable and has made his arrest a personal mission despite the political complications his capture would create.
 - **The Poacher's Syndicate**: A criminal organization that controls illegal hunting operations and views Drákonis as a threat to their profits; they have attempted to eliminate him multiple times.
-- **Merchant-Lord Cassian**: A wealthy trader whose hunting party was decimated by a great predator; Cassian blames Drákonis for failing to eliminate the beast beforehand and has sworn vendetta against him.
+- **Merchant-Lord Khalideon**: A wealthy trader whose hunting party was decimated by a great predator; Khalideon blames Drákonis for failing to eliminate the beast beforehand and has sworn vendetta against him.
 
 ### Affiliations
 
