@@ -626,7 +626,7 @@ Raiah Sekmetâ drives himself forward by a singular obsession: to create the per
 ### Patrons
 
 - **Lord Commander Khenti:** The military's chief weapons officer who commissions custom arms for elite guard units and prestigious officer candidates. He trusts Raiah implicitly and often vouches for the smith's uncompromising standards to impatient nobles.
-- **The House of Khâ'nefer:** A noble family known for their warrior traditions; Raiah has forged the ancestral blades of this house for thirty years, creating works that are as much heirloom as weapon.
+- **The House of Ka'Takétu:** A noble family known for their warrior traditions; Raiah has forged the ancestral blades of this house for thirty years, creating works that are as much heirloom as weapon.
 - **Master Architect Seneb:** A celebrated builder and engineer who has learned to commission weapons of precise specifications that align with his exacting vision; he respects Raiah as a peer in the pursuit of structural perfection.
 - **Captain Tyema:** A decorated military officer of common birth who has fought her way to prominence; Raiah has equipped her with three successive blades, and she has become one of his most vocal advocates.
 

@@ -664,7 +664,7 @@ Tamiyra's primary motivation is survival combined with the acquisition of securi
 
 - **Merchant Prince Vasken Tharcot**: A wealthy foreign trader who visits Ta'Kheperu regularly for business. He pays handsomely for her companionship and, more importantly, for intelligence about imperial politics and trade agreements. He believes she holds the key to expanding his influence.
 
-- **High Scribe Psenti Ka'menu**: A learned man of letters who employs her to transcribe rare texts and discuss philosophy. He is one of the few patrons with whom she shares a true meeting of minds rather than merely performing companionship.
+- **High Scribe Psenti Khem'Pathau**: A learned man of letters who employs her to transcribe rare texts and discuss philosophy. He is one of the few patrons with whom she shares a true meeting of minds rather than merely performing companionship.
 
 ### Enemies
 

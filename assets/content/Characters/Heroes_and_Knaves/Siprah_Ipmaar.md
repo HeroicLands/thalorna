@@ -639,7 +639,7 @@ Siprah is driven by a desire to be the best locksmith who has ever lived, to sur
 ### Patrons
 
 - **Treasurer Imhotar**: The Imperial official responsible for the Empire's treasury holds Siprah in the highest regard. All imperial vaults and secure chambers have been installed with locks of his design, and Imhotar provides the single largest stream of consistent work.
-- **Lady Beneret Meshenet**: A noble of considerable wealth and paranoid disposition. She commissions new locks and security modifications every few months, trusting no one but Siprah with access to her estate's systems. She pays extraordinarily well and provides social access to her wealthy peers.
+- **Lady Benerî Meshenet**: A noble of considerable wealth and paranoid disposition. She commissions new locks and security modifications every few months, trusting no one but Siprah with access to her estate's systems. She pays extraordinarily well and provides social access to her wealthy peers.
 - **The Temple of Hórús**: The priesthood maintains contracts with Siprah for maintaining the Temple's sacred vaults. He is one of only three individuals alive who knows the complete configuration of the Temple's security system.
 - **Master Merchants' Association**: The guild of high-value traders collectively employ Siprah as their adviser on security, and he regularly designs custom vault systems for member houses.
 
