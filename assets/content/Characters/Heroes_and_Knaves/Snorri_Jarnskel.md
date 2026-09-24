@@ -602,7 +602,7 @@ Snorri stands 6'3" tall with a heavy build. He has tanned weathered skin, dark b
 
 ### Born into Chains
 
-Snorri was born to unfreedom. His parents were thralls on the estate of **Jarl Erik Bloodstone**, a minor noble of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] whose lands produced little of value except grain and suffering. Snorri's father died when he was eight, worked to death in the harvest season, and his mother disappeared five years later—sold to another jarl to settle debts. From his earliest memory, Snorri knew only the rhythms of agricultural labor, the constant threat of punishment, and the weight of absolute powerlessness.
+Snorri was born to unfreedom. His parents were thralls on the estate of **Jarl Erik Blóthsteinn**, a minor noble of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] whose lands produced little of value except grain and suffering. Snorri's father died when he was eight, worked to death in the harvest season, and his mother disappeared five years later—sold to another jarl to settle debts. From his earliest memory, Snorri knew only the rhythms of agricultural labor, the constant threat of punishment, and the weight of absolute powerlessness.
 
 ### The Stirring of Rebellion
 
@@ -648,7 +648,7 @@ Snorri has no patrons in the traditional sense. His masters view him as property
 
 ### Enemies
 
-- **Jarl Erik Bloodstone**: His nominal master, a man more interested in profit than cruelty, but nonetheless the embodiment of the system that enslaves him. Jarl Erik views Snorri as a potentially valuable asset that is becoming too dangerous.
+- **Jarl Erik Blóthsteinn**: His nominal master, a man more interested in profit than cruelty, but nonetheless the embodiment of the system that enslaves him. Jarl Erik views Snorri as a potentially valuable asset that is becoming too dangerous.
 - **Haldor, the New Overseer**: The replacement for Hrollaug, and no less cruel. Haldor treats Snorri with particular savagery, viewing him as a threat that must be constantly suppressed.
 - **The System Itself**: Snorri's true enemy is the legal and social structure of thralldom that permits his bondage. He sees every noble, every priest who accepts the status quo, as complicit.
 

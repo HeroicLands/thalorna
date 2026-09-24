@@ -643,12 +643,12 @@ At forty, Thorsteinn is primarily motivated by the desire to preserve authentic 
 
 - **The Merchant House Valdris** - A wealthy merchant family that has commissioned custom tableware and storage vessels from Thorsteinn for the past fifteen years. The patriarch, **Lord Aldric Valdris**, respects traditional craftsmanship and ensures that **Thorsteinn's** work remains in demand among the upper classes.
 - **The Miller's Cooperatives** - Multiple miller families depend on Thorsteinn's storage and measurement vessels, which are prized for their durability and accuracy of form.
-- **Herbalist Magga Moonwhisper** - A respected healer who commissioned a series of specialized vessels for preserving medicines and herbs, and who has become a genuine friend despite their generational difference.
+- **Herbalist Magga Mánahvísl** - A respected healer who commissioned a series of specialized vessels for preserving medicines and herbs, and who has become a genuine friend despite their generational difference.
 
 ### Enemies
 
 - **The Merchants' Collective of New Fashion** - A coalition of younger merchants and traders who have begun importing cheaper, mass-produced ceramics from distant lands, undercutting Thorsteinn's prices and promoting contemporary aesthetic values that directly contrast with his traditional work.
-- **Artisan Corvus Brighthammer** - A younger potter of considerable talent who studied under Thorsteinn for three years before breaking away to establish a rival workshop. Corvus champions innovative glazing techniques and contemporary form, directly challenging Thorsteinn's market dominance. The ideological conflict between them runs deep.
+- **Artisan Eldrik Bjartahamarr** - A younger potter of considerable talent who studied under Thorsteinn for three years before breaking away to establish a rival workshop. Eldrik champions innovative glazing techniques and contemporary form, directly challenging Thorsteinn's market dominance. The ideological conflict between them runs deep.
 
 ### Affiliations
 
@@ -657,7 +657,7 @@ At forty, Thorsteinn is primarily motivated by the desire to preserve authentic 
 
 ## Plot Hooks
 
-1. **The Apprentice's Dilemma**: - **Thorsteinn's** most talented current apprentice, a young woman named **Lyra Stonecraft**, has been offered a substantial position with **Artisan Corvus**, involving travel to distant centers of ceramic innovation and the opportunity to experiment with cutting-edge techniques. Lyra is torn between loyalty to her mentor and hunger for growth in directions Thorsteinn refuses to explore. She asks him for permission to pursue the opportunity, but his refusal forces her to choose between obedience and ambition. The dynamic ripples through Thorsteinn's workshop and brings the underlying conflict between tradition and innovation into sharp focus.
+1. **The Apprentice's Dilemma**: - **Thorsteinn's** most talented current apprentice, a young woman named **Lyra Stonecraft**, has been offered a substantial position with **Artisan Eldrik**, involving travel to distant centers of ceramic innovation and the opportunity to experiment with cutting-edge techniques. Lyra is torn between loyalty to her mentor and hunger for growth in directions Thorsteinn refuses to explore. She asks him for permission to pursue the opportunity, but his refusal forces her to choose between obedience and ambition. The dynamic ripples through Thorsteinn's workshop and brings the underlying conflict between tradition and innovation into sharp focus.
 
 2. **The Crisis of the Kiln**: - Thorsteinn's primary kiln, a structure he's rebuilt and maintained for twenty years, develops catastrophic structural damage during firing. Reconstruction would be expensive and time-consuming, potentially leaving him unable to work for weeks or months. He's offered a partnership by the wealthy merchant **Lord Aldric Valdris** to use a new, efficient kiln in exchange for exclusive production rights. Accepting would secure his future but would compromise his independence and force him to adapt to machinery he doesn't trust. Refusing risks his livelihood.
 

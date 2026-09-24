@@ -638,7 +638,7 @@ Dek is motivated by a simple but deep desire to provide protection and comfort. 
 
 ### Patrons
 
-- **Jarl Thorstein Greywind**: A regional noble whose family estate Dek has maintained for twenty-three years. Thorstein trusts Dek absolutely and has commissioned numerous repairs and renovations. The relationship is one of real mutual respect.
+- **Jarl Thorstein Grávindr**: A regional noble whose family estate Dek has maintained for twenty-three years. Thorstein trusts Dek absolutely and has commissioned numerous repairs and renovations. The relationship is one of real mutual respect.
 - **The Covenant of Malagna Farmers**: An informal association of agricultural communities who, collectively, finance Dek's annual maintenance work, since their collective prosperity depends on sound storage structures with weather-proof roofing.
 
 ### Enemies

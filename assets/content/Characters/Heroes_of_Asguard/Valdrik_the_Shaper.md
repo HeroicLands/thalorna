@@ -551,7 +551,7 @@ Valdrik's understanding of the Dreadspawn is unparalleled; he can predict their 
 
 **The Wanderers of Ymir**—The scattered followers of the Forsaken Creator who see Valdrik as the most promising practitioner of Ymir's creative arts and supply him with rare materials and forbidden texts.
 
-**Professor Aldric of the Panepistemium**—A Panepistemium scholar who secretly funds Valdrik's research, fascinated by the practical applications of his work with the Dreadspawn despite the ethical concerns.
+**Aldric of the Panepistemium**—A Panepistemium scholar who secretly funds Valdrik's research, fascinated by the practical applications of his work with the Dreadspawn despite the ethical concerns.
 
 ### Enemies
 

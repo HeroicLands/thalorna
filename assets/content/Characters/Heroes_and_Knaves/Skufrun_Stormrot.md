@@ -643,7 +643,7 @@ Skúfrún is driven by a desire to create beauty that endures, to produce work t
 
 ### Patrons
 
-- **Lord Brennan Silvercrest**: A wealthy noble with appreciation for fine art and textiles. He has commissioned multiple tapestries and furnishings from Skúfrún and frequently recommends her work to his peers, providing steady access to high-value commissions.
+- **Lord Brennan Silfrkambr**: A wealthy noble with appreciation for fine art and textiles. He has commissioned multiple tapestries and furnishings from Skúfrún and frequently recommends her work to his peers, providing steady access to high-value commissions.
 - **The Traveling Muse Theater Company**: A prestigious performance group that requires stunning costumes and set dressings. They commission Skúfrún multiple times yearly and have become her most visible patrons, as her work appears before large audiences.
 - **The Merchant Consortium's Flagship Crews**: Successful merchant captains who value appearing prosperous commission elaborate tent pavilions and shipboard furnishings from her workshop. These provide both income and maritime visibility for her work.
 - **Princess Solveig of Malagna**: The royal family has begun commissioning items from Skúfrún, including ceremonial banners and royal furnishings. Though royal patronage is recent, it promises to elevate her status considerably.
@@ -651,7 +651,7 @@ Skúfrún is driven by a desire to create beauty that endures, to produce work t
 ### Enemies
 
 - **Master Craftsman Thorvald the Practical**: An older male tentmaker who represents the "function-first" philosophy Skúfrún's father stood for. Thorvald publicly criticizes her work as beautiful but impractical and has won contracts she sought by undercutting her prices and emphasizing durability over aesthetics.
-- **Magdala the Copyist**: A jealous rival artisan who specializes in producing close imitations of Skúfrún's original designs at lower cost. Magdala's plagiarism has cost Skúfrún several clients, though legal action has proven difficult given the custom nature of textile work.
+- **Almara the Copyist**: A jealous rival artisan who specializes in producing close imitations of Skúfrún's original designs at lower cost. Almara's plagiarism has cost Skúfrún several clients, though legal action has proven difficult given the custom nature of textile work.
 - **Her Own Father**: Vigram Stormrót, though retired and no longer a direct business threat, occasionally makes critical comments about Skúfrún's prioritization of artistry over durability, implying she is abandoning family traditions.
 
 ### Affiliations

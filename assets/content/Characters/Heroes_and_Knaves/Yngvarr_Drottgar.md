@@ -633,13 +633,13 @@ Yngvarr seeks meaningful work—a cause or purpose greater than the mere accumul
 
 ### Patrons
 
-- **The Nordheim Mercenaries' Guild** - His official employer and the organization that provides most of his contracts; the guild master, **Soren Strongfist**, values his reliability and occasionally consults him on matters of planning
+- **The Nordheim Mercenaries' Guild** - His official employer and the organization that provides most of his contracts; the guild master, **Asbjorn Sterkhnefi**, values his reliability and occasionally consults him on matters of planning
 - **Merchant House Alderthor** - A prominent trading company that specifically requests Yngvarr for major caravans; their agent, **Lady Svenna**, has developed respect for his workmanlike approach
 - **Commander Hastein** - His aging former mentor, now retired from active service, whom Yngvarr visits regularly and whose counsel he seeks on matters of honor and purpose
 
 ### Enemies
 
-- **Jarl Leif Ravenshield** - A rival warrior within the guild who views Yngvarr's success as a personal affront and spreads rumors that his reputation is exaggerated; they have not yet come to open conflict
+- **Jarl Leif Hrafnskjöldr** - A rival warrior within the guild who views Yngvarr's success as a personal affront and spreads rumors that his reputation is exaggerated; they have not yet come to open conflict
 - **The Blackthorn Bandits** - An organized band of mountain raiders whose operations Yngvarr has disrupted multiple times, causing significant losses; they have sworn vengeance against the "Northern Ox"
 - **Merchant Lord Haldor the Greedy** - A crooked trader whose smuggling operations Yngvarr once refused to protect; Haldor now uses his considerable wealth to undermine Yngvarr's reputation
 
@@ -654,7 +654,7 @@ Yngvarr seeks meaningful work—a cause or purpose greater than the mere accumul
 
 2. **The Broken Oath** - A man matching the description of a merchant Yngvarr once failed to protect—someone he believed dead in a bandit attack he couldn't prevent—suddenly appears in a distant town. The man is alive, but bitterness fills his voice; he claims Yngvarr abandoned him for insufficient payment, that the guard captain's failure to pursue bandits deeper was due to mercenary calculations rather than military judgment. Yngvarr must investigate whether he failed this man years ago, and whether his current guilt is justified or manipulated.
 
-3. **The Rival's Downfall** - Jarl Leif Ravenshield is found brutally murdered, and circumstantial evidence points directly at Yngvarr: weapons matching his style, witnesses who swear they saw "the Northern Ox" fleeing the scene. The guild investigates, and Yngvarr must find the true killer while defending himself against guild scrutiny and possible execution. The conspiracy runs deeper than mere rivalry.
+3. **The Rival's Downfall** - Jarl Leif Hrafnskjöldr is found brutally murdered, and circumstantial evidence points directly at Yngvarr: weapons matching his style, witnesses who swear they saw "the Northern Ox" fleeing the scene. The guild investigates, and Yngvarr must find the true killer while defending himself against guild scrutiny and possible execution. The conspiracy runs deeper than mere rivalry.
 
 4. **The Child of the Frontier** - A desperate refugee from the Wastes arrives seeking Yngvarr's protection, claiming to be his illegitimate daughter from a relationship during the Frontier Conflicts. She is gifted with weapons but emotionally broken, seeking guidance and safety Yngvarr isn't sure how to provide. Her arrival complicates his solitary life and forces him to confront his past, while powerful enemies pursue her for reasons she doesn't fully understand.
 
