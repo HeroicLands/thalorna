@@ -62,7 +62,7 @@ The language is marked by a preference for alliteration, assonance, and poetic p
 
 ## Script & Literacy
 
-Élavendri traditionally employs [[skill-thrvrdhscrpt|Thúravardh]], the old Áelendan rune-row, but this script has been largely supplemented by the [[skill-semrnscrpt|Sêmarion]]—the same alphabet used in Vylari and neighboring regions. Thúravardh persists in magical texts, poetry, and items of great antiquity.
+Élavendri traditionally employs [[skill-thrvrdhscrpt|Thúravardh]], the old Áelendan rune-row, but this script has been largely supplemented by the [[skill-semrnscrpt|Sêmarion]]—the same alphabet used in Vylari and neighboring regions. Thúravardh persists in magical texts, poetry, and items of great antiquity. The [[skill-clthndscrpt|Calathindë]] of the [[lore-flksinale|Sinalë]] never came down the passes: the highlanders write [[skill-aelendlng|Áelendi]] in it and the lowlands took imperial letters instead, so two peoples who can hold a conversation cannot read a word of each other.
 
 A distinctive scribal tradition employs flowing, connected letterforms that reflect the language's musical nature. Decorative elements (flourishes, miniatures) are common in high-quality texts. True literacy is confined to the priesthood, professional scribes, those training for magical arts (for whom reading is an absolute necessity), and perhaps 20-35% of the nobility. The common folk of Élavendre, like those elsewhere on Thalorna, are almost entirely non-literate and rely on scribes for any written communication.
 
