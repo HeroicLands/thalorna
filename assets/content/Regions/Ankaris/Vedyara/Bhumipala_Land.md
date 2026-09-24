@@ -13,7 +13,7 @@ subType: region
 data:
   demonym: Bhumipali
   lore:
-    - humanflk
+    - vedyariclt
   parents:
     - vedyarargn
   population: 2000000
