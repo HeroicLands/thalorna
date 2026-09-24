@@ -638,7 +638,7 @@ Vishali is driven by a contradictory pair of impulses: a desire for freedom so a
 
 ### Patrons
 
-- **Lord Vikram of House Deshani**: A broad-minded noble of one of the Vedyara city-states who has hired Vishali multiple times for court performances. He appreciates her boundary-pushing humor and has developed a real, if platonic, fondness for her. His support provides her with regular employment and credibility.
+- **Lord Jayakâra of House Deshani**: A broad-minded noble of one of the Vedyara city-states who has hired Vishali multiple times for court performances. He appreciates her boundary-pushing humor and has developed a real, if platonic, fondness for her. His support provides her with regular employment and credibility.
 - **Traveling Fair Circuit**: The various festival organizers, merchants' guilds, and market masters throughout the Vedyara territories who regularly book Vishali for performances. These relationships are transactional but reliable.
 
 ### Enemies

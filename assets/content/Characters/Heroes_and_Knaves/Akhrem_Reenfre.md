@@ -611,7 +611,7 @@ Akhrem stands 6'1" tall with a heavy build. He has dark brown skin, jet black ha
 
 Akhrem was born in the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], where the vast grasslands and savannas demanded respect for the creatures that inhabited them. His family had served as animal handlers for generations, a lineage stretching back to his great-grandfather who trained the sacred beasts for temple ceremonies. As a child, Akhrem displayed an almost preternatural ability to communicate with animals—horses would calm in his presence, wild dogs would lower their hackles, and even venomous serpents seemed to sense his lack of fear combined with his lack of malice.
 
-At fifteen, he apprenticed formally to **Master Soren**, the Empire's foremost animal trainer, learning not through books or doctrine but through intuition and practice. Soren taught him that animals respond to intention and respect, not dominance and cruelty. For twenty-three years, Akhrem worked beside Soren, specializing in the training of exotic beasts for noble hunts, military campaigns, and ceremonial purposes. When Soren grew too aged to continue, Akhrem inherited both his knowledge and his responsibilities.
+At fifteen, he apprenticed formally to **Master Natari**, the Empire's foremost animal trainer, learning not through books or doctrine but through intuition and practice. Natari taught him that animals respond to intention and respect, not dominance and cruelty. For twenty-three years, Akhrem worked beside Natari, specializing in the training of exotic beasts for noble hunts, military campaigns, and ceremonial purposes. When Natari grew too aged to continue, Akhrem inherited both his knowledge and his responsibilities.
 
 Now, at thirty-eight, Akhrem maintains a training compound near the Empire's border cities, where he works with creatures brought to him by nobility, hunters, and occasionally desperate merchants. Yet his dedication to his craft has come at a cost—a deep isolation from human society, born of both necessity and choice.
 
@@ -629,7 +629,7 @@ With animals, he displays a tenderness that surprises those who encounter it. He
 
 Akhrem's driving force is the preservation of balance between humanity and the wild creatures that share their world. He believes that most of the suffering inflicted upon animals stems from human ignorance rather than malice, and that training animals properly prevents both animal suffering and human harm. He envisions a world where noble hunters rely upon trained beasts that understand their role and take pride in their work, where military forces employ creatures as true partners rather than mindless weapons.
 
-Akhrem also carries a private mission to discover and preserve knowledge about animal training that his mentor Soren possessed, fearing that if he passes without an heir, centuries of accumulated wisdom will vanish. He takes on apprentices reluctantly, waiting for someone who demonstrates the necessary gifts—and his standards are exacting.
+Akhrem also carries a private mission to discover and preserve knowledge about animal training that his mentor Natari possessed, fearing that if he passes without an heir, centuries of accumulated wisdom will vanish. He takes on apprentices reluctantly, waiting for someone who demonstrates the necessary gifts—and his standards are exacting.
 
 ### Strengths
 
@@ -667,7 +667,7 @@ Akhrem also carries a private mission to discover and preserve knowledge about a
 
 ## Plot Hooks
 
-1. **The Dying Mentor's Legacy**: Akhrem receives word that Master Soren, ancient and ailing, has requested his presence before death. Soren claims to possess knowledge of a storied beast—a creature of immense rarity and power—that he has never taught Akhrem about, fearing the responsibility too great. Now, believing his end is near, Soren wishes to pass this knowledge forward. The problem: the creature may be more than myth, and powerful forces seek to control it.
+1. **The Dying Mentor's Legacy**: Akhrem receives word that Master Natari, ancient and ailing, has requested his presence before death. Natari claims to possess knowledge of a storied beast—a creature of immense rarity and power—that he has never taught Akhrem about, fearing the responsibility too great. Now, believing his end is near, Natari wishes to pass this knowledge forward. The problem: the creature may be more than myth, and powerful forces seek to control it.
 
 2. **The Cursed Animal**: A desperate merchant brings Akhrem an animal of obvious quality that nonetheless proves impossible to train—it rages against handlers, resists all conventional methods, and seems to suffer from an internal torment. Akhrem's investigation reveals signs suggesting magical corruption or curse. To help the creature, he must work where animal care and occult forces meet, seeking allies among those with arcane knowledge.
 

@@ -684,7 +684,7 @@ Beneath these practical ambitions lies a deeper need: to prove that a woman can 
 
 ### Patrons
 
-- **Merchant-Prince Amenhotep**: A wealthy trader in fine goods and spices who has worked exclusively with Sekhemet for a decade and considers her his most trusted business partner.
+- **Merchant-Prince Djebari**: A wealthy trader in fine goods and spices who has worked exclusively with Sekhemet for a decade and considers her his most trusted business partner.
 - **The Weavers' Cooperative**: A collective of textile producers who depend on Sekhemet to transport their goods to distant markets, and who have publicly praised her reliability.
 - **House Khenti's Trading Interests**: A noble family with commercial holdings that value Sekhemet's discretion and reliability for sensitive shipments.
 

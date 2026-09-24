@@ -603,7 +603,7 @@ Dómrithâs emerged from minor nobility in Nartûm with a gift for understanding
 
 He became obsessed with curing her condition and in the process, began to suspect that the boundary between life and death was not absolute but permeable, that with sufficient knowledge of transformation and chemistry, one might cross it. He began conducting experiments in secret, reading texts the guild considered forbidden and creating substances that produced results contradicting official alchemical doctrine. Despite his efforts, Anelise died—but not before she seemed, in her final moments, to recognize something in Dómrithâs's work that suggested he was approaching some terrible truth.
 
-Since her death fifteen years ago, Dómrithâs has devoted himself with singular purpose to the pursuit of immortality. He has secured patronage from **Baron Gerald of Nartûm**, who is himself elderly and afraid of death, providing him resources and protection from guild scrutiny. His work has produced substances and discoveries that exist at the boundary of poison and cure, corruption and transformation. He is becoming increasingly unstable, increasingly willing to test his creations on unwilling subjects, increasingly convinced that he is approaching a breakthrough that will revolutionize human existence itself.
+Since her death fifteen years ago, Dómrithâs has devoted himself with singular purpose to the pursuit of immortality. He has secured patronage from **Baron Euthélôs of Nartûm**, who is himself elderly and afraid of death, providing him resources and protection from guild scrutiny. His work has produced substances and discoveries that exist at the boundary of poison and cure, corruption and transformation. He is becoming increasingly unstable, increasingly willing to test his creations on unwilling subjects, increasingly convinced that he is approaching a breakthrough that will revolutionize human existence itself.
 
 ## Psyche
 
@@ -635,14 +635,14 @@ There is also a will-to-power beneath his stated goals—a desire to become some
 - **Obsessive Tunnel Vision**: His fixation on immortality has blinded him to the real breakthroughs he is achieving in conventional alchemy, and his inability to work on anything outside his obsession has isolated him from his guild.
 - **Increasing Instability**: Extended exposure to his own experimental substances and the weight of his obsession on his mind have begun manifesting in signs of madness—paranoia, irrational convictions, dangerous mood fluctuations.
 - **Physical Fragility**: Years of work with toxic substances have compromised his health; he is physically weak, prone to illness, and showing signs of long-term exposure to various poisons.
-- **Dangerous Patronage**: His dependence on **Baron Gerald's** support has made him vulnerable to manipulation and has tied him to a man whose own ambitions may prove catastrophic.
+- **Dangerous Patronage**: His dependence on **Baron Euthélôs's** support has made him vulnerable to manipulation and has tied him to a man whose own ambitions may prove catastrophic.
 
 ## Social
 
 ### Patrons
 
-- **Baron Gerald of Nartûm**: An aging nobleman of considerable wealth and power who has become increasingly obsessed with his own mortality and views Dómrithâs's work as his best hope for extended life or outright immortality. Gerald provides resources, protection from guild scrutiny, and unwilling test subjects from his estate's servile population.
-- **Master Physician Corvus**: A healer of real reputation who, while publicly maintaining distance from Dómrithâs's more questionable work, secretly purchases certain of his creations for use in his own practice, generating income and intellectual exchange.
+- **Baron Euthélôs of Nartûm**: An aging nobleman of considerable wealth and power who has become increasingly obsessed with his own mortality and views Dómrithâs's work as his best hope for extended life or outright immortality. Euthélôs provides resources, protection from guild scrutiny, and unwilling test subjects from his estate's servile population.
+- **Master Physician Bryâkos**: A healer of real reputation who, while publicly maintaining distance from Dómrithâs's more questionable work, secretly purchases certain of his creations for use in his own practice, generating income and intellectual exchange.
 
 ### Enemies
 
@@ -665,4 +665,4 @@ There is also a will-to-power beneath his stated goals—a desire to become some
 
 4. **The Exposed Experiments**: **Master Alchemist Theron** finally succeeds in publicly exposing Dómrithâs's experiments, revealing evidence of the unwilling subjects he has used, the deaths resulting from his work, and the moral bankruptcy of his research. The revelation triggers a formal guild investigation and criminal proceedings. Dómrithâs can flee (losing his laboratories and resources), attempt to defend himself (nearly impossible given the evidence), or accelerate his work in hopes of producing a breakthrough significant enough to justify his methods or powerful enough to protect him from consequences.
 
-5. **The Patron's Demand**: **Baron Gerald**, now ancient and terrified, demands that Dómrithâs accelerate the immortality research and provide him with a completed transformation within a specific timeframe—or face the loss of all support and protection. The timeframe is impossibly short, forcing Dómrithâs to make choices about which corners to cut, which safety measures to abandon, and which ethical lines to finally cross. The completion of this forced deadline will almost certainly result in catastrophic failure or in Gerald's transformation into something uncontrollable.
+5. **The Patron's Demand**: **Baron Euthélôs**, now ancient and terrified, demands that Dómrithâs accelerate the immortality research and provide him with a completed transformation within a specific timeframe—or face the loss of all support and protection. The timeframe is impossibly short, forcing Dómrithâs to make choices about which corners to cut, which safety measures to abandon, and which ethical lines to finally cross. The completion of this forced deadline will almost certainly result in catastrophic failure or in Euthélôs's transformation into something uncontrollable.

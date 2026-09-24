@@ -665,7 +665,7 @@ Nárava's primary motivation is the pursuit of an impossible ideal—to create a
 
 - **The Temple of Jñānasūra, High Priestess Vidya**: The grand temple of the knowledge deity has commissioned Nárava for its sacred stained glass installations, which tell the stories of spiritual enlightenment through light and color. **High Priestess Vidya** views his work as a form of religious expression and provides him with a stipend that gives his workshop basic financial stability.
 
-- **Merchant Prince Vikrama of House Chandra**: A wealthy spice trader with refined aesthetic tastes, Vikrama has become Nárava's most consistent patron, commissioning pieces for his personal collection and his estates. Though occasionally frustrated by delays, Vikrama values the prestige of owning Nárava's work enough to tolerate the inconvenience.
+- **Merchant Prince Javâloka of House Chandra**: A wealthy spice trader with refined aesthetic tastes, Javâloka has become Nárava's most consistent patron, commissioning pieces for his personal collection and his estates. Though occasionally frustrated by delays, Javâloka values the prestige of owning Nárava's work enough to tolerate the inconvenience.
 
 - **The Collegiate of Crystal Studies**: An academic institution devoted to the study of light, materials, and geometry, the Collegiate commissions research glass pieces from Nárava and provides him with laboratory access for experimental work, though the compensation is modest.
 

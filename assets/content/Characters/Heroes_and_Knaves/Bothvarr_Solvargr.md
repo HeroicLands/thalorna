@@ -646,7 +646,7 @@ Böthvarr is driven primarily by the code he has constructed for himself: protec
 
 ### Patrons
 
-- **Lord Commander Aldric Stonewall**: The highest-ranking military officer in the region, who has repeatedly relied on Böthvarr's counsel and experience. Aldric respects Böthvarr and has sheltered him from some of the more politically motivated aspects of military service.
+- **Lord Commander Aldric Naltharukh**: The highest-ranking military officer in the region, who has repeatedly relied on Böthvarr's counsel and experience. Aldric respects Böthvarr and has sheltered him from some of the more politically motivated aspects of military service.
 - **The Garrison Community**: The soldiers under his command, though they fear him, are loyal to Böthvarr. They know he will not ask them to take risks he would not take himself.
 - **Master Weaponsmith Gorath**: A craftsman who creates superior weapons and armor. Gorath and Böthvarr have a tacit understanding that supplies weapons to the garrison in exchange for protection and Böthvarr's advocacy.
 
@@ -654,7 +654,7 @@ Böthvarr is driven primarily by the code he has constructed for himself: protec
 
 - **Captain Meredith Vane**: A rival soldier of approximately equal skill who has competed with Böthvarr for recognition and advancement for the past fifteen years. Their conflicts have become personal and vicious, extending beyond the battlefield into political maneuvering.
 - **The Warlord Garak**: A notorious mercenary commander whose forces have clashed with Böthvarr's garrison repeatedly. Garak has vowed to eventually face Böthvarr in single combat to prove his superiority.
-- **Councilor Harvis Blackthorn**: A political figure who views military power as a threat to his authority. He has worked systematically to undermine Böthvarr's position and credibility, seeking to replace him with someone more politically pliable.
+- **Councilor Harvis Snalthendikh**: A political figure who views military power as a threat to his authority. He has worked systematically to undermine Böthvarr's position and credibility, seeking to replace him with someone more politically pliable.
 
 ### Affiliations
 
