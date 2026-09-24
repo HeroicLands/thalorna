@@ -16,6 +16,8 @@ data:
   archetypes: []
   stations: []
   lore: []
+  homes:
+    - byzariargn
   affiliations:
     - panepistmm
 ---
