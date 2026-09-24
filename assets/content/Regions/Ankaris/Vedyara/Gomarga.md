@@ -141,7 +141,7 @@ The **Rājñī** keeps the one fixed establishment, at the winter wells in the n
 
 The productive tharana outranks the warrior tharana here in everything but precedence at a temple door. The herd-owning lineages own the stock, own the wells, pay for the escort and can move their whole wealth out of a bad district in a fortnight, which is a form of leverage no landholder anywhere else in Vedyara possesses. A Mahārāja who loses the confidence of four or five of the great lineages does not face a rebellion; he faces an empty circuit.
 
-Orthodox opinion in the river kingdoms finds the arrangement improper. Plateau brahmins reply that the order is intact and only the wealth has moved, which is the answer the order itself gives, and the argument has been at that point for a very long time.
+Orthodox opinion in the river kingdoms finds the arrangement improper. Plateau ushtakas reply that the order is intact and only the wealth has moved, which is the answer the order itself gives, and the argument has been at that point for a very long time.
 
 ## Beyond the Plateau
 

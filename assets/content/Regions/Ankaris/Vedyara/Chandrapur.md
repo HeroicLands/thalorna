@@ -75,7 +75,7 @@ data:
     offices:
       Mahārāja: >-
         The great king of the Moon House, ruling by descent and confirmed by the rites the
-        Varṇaka brahmins perform.
+        Varṇaka ushtakas perform.
       Rājñī: The chief queen, holding her own revenues, household and voice at court.
       Yuvarāja: >-
         The designated heir, commonly given the customs of the river mouth to govern as his
@@ -129,7 +129,7 @@ Wealth has made Chandrapur cosmopolitan. Traders and craftspeople from across th
 
 ## The Moon House and the Nine
 
-Chandrapur keeps a king, which among the great cities of the coast is the uncommon arrangement. The **Mahārāja of the Moon House** rules by descent, and the temples confirm the rule. The rites the Varṇaka brahmins perform at an accession are what make the man king. A claimant they will not crown has never yet reigned.
+Chandrapur keeps a king, which among the great cities of the coast is the uncommon arrangement. The **Mahārāja of the Moon House** rules by descent, and the temples confirm the rule. The rites the Varṇaka ushtakas perform at an accession are what make the man king. A claimant they will not crown has never yet reigned.
 
 The Mahārāja rules with a court, and the court is the **Nine Houses**. Their heads sit as **Kulina**. Each holds one of the nine seats, the charters of his own trade, and the quarter of the city his house has always kept. The seats descend within the houses; the crown confirms a succession and has twice refused one.
 

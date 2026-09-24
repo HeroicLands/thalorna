@@ -16,7 +16,7 @@ data:
     model: monarchy
     summary: >-
       Hereditary Mahārāja advised by a martial council of the Sāmantas who hold the road's forts
-      and a priestly court of Varṇaka brahmins.
+      and a priestly court of Varṇaka ushtakas.
     ranks:
       - level: 0
         title: Outcaste
@@ -70,7 +70,7 @@ data:
           The great king himself, in whom the martial council and the priestly court alike find
           their sanction.
     offices:
-      Mahārāja: The great king, ruling by descent and confirmed by the rites the Varṇaka brahmins
+      Mahārāja: The great king, ruling by descent and confirmed by the rites the Varṇaka ushtakas
         perform.
       Rājñī: The chief queen, holding her own revenues, household and voice at court.
       Yuvarāja: The designated heir, commonly given a province to govern as his apprenticeship.

@@ -63,7 +63,7 @@ Every few decades an imperial envoy arrives, is received with great courtesy, an
 
 South of the city the road drops through the terraced valleys that feed it—rice and barley on the lower steps, sheep and goats and small mountain cattle above—and goes on down to the lowland market towns where the kingdom's grain, its cheap steel and its dried milk-curds change hands.
 
-It is an easy road and a well-kept one, and it is the reason Sūryāgarha is a city rather than a fort. The crown's writ runs along it and along the pass-road above, and not much beyond either. Out in the side valleys the clan-chieftains govern, and a Sāmanta who has held a crossing against a winter raid comes to the city when it suits him and is received at the citadel with the honor due a senior brahmin.
+It is an easy road and a well-kept one, and it is the reason Sūryāgarha is a city rather than a fort. The crown's writ runs along it and along the pass-road above, and not much beyond either. Out in the side valleys the clan-chieftains govern, and a Sāmanta who has held a crossing against a winter raid comes to the city when it suits him and is received at the citadel with the honor due a senior ushtaka of the temples.
 
 ## See Also
 

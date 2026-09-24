@@ -16,7 +16,7 @@ data:
     model: monarchy
     summary: >-
       Hereditary Mahārāja advised by a martial council of clan-chieftains and a priestly court
-      of Varṇaka brahmins.
+      of Varṇaka ushtakas.
     ranks:
       - level: 0
         title: Outcaste
@@ -70,7 +70,7 @@ data:
           The great king himself, in whom the martial council and the priestly court alike find
           their sanction.
     offices:
-      Mahārāja: The great king, ruling by descent and confirmed by the rites the Varṇaka brahmins
+      Mahārāja: The great king, ruling by descent and confirmed by the rites the Varṇaka ushtakas
         perform.
       Rājñī: The chief queen, holding her own revenues, household and voice at court.
       Yuvarāja: The designated heir, commonly given a province to govern as his apprenticeship.
@@ -124,11 +124,11 @@ Vindhyālaya ("the abode of the Vindhya") is the principal kingdom of the northe
 
 ## Character
 
-Vindhyan culture is austere by Vedyari standards. The kingdom sits at the edge of settled civilization, and the highland has made a people quieter, harder and more martial than their southern cousins. The Vindhyan warrior caste is unusually large and unusually respected. In the southern kingdoms the warrior-nobility yields precedence to the priestly caste in nearly every social setting. In Vindhyālaya the two castes share rank, and a clan-chieftain who has held a pass against a winter raid is received at court with the honor due a senior brahmin.
+Vindhyan culture is austere by Vedyari standards. The kingdom sits at the edge of settled civilization, and the highland has made a people quieter, harder and more martial than their southern cousins. The Vindhyan warrior caste is unusually large and unusually respected. In the southern kingdoms the warrior-nobility yields precedence to the priestly caste in nearly every social setting. In Vindhyālaya the two castes share rank, and a clan-chieftain who has held a pass against a winter raid is received at court with the honor due a senior ushtaka of the temples.
 
 Hospitality is taken seriously. A traveler who arrives at a Vindhyan village before sundown is owed food, a fire, and a safe night under the clan's roof-tree, and this obligation survives even between feuding clans. Turning a traveler away is the kind of act that a family's descendants still remember three generations later.
 
-The caste system holds, and it sits differently here. In the highlands the distance between a clan-chieftain and a cultivator is smaller than in the plains, and caste fixes less of a person's daily life than it does in [[affiliation-vyalendra2|Vyālendra]] or [[affiliation-chandrapur|Chandrapur]]. Vindhyan brahmins are respected and are expected to be useful. An ornamental priest is faintly ridiculous.
+The caste system holds, and it sits differently here. In the highlands the distance between a clan-chieftain and a cultivator is smaller than in the plains, and caste fixes less of a person's daily life than it does in [[affiliation-vyalendra2|Vyālendra]] or [[affiliation-chandrapur|Chandrapur]]. Vindhyan ushtakas are respected and are expected to be useful. An ornamental priest is faintly ridiculous.
 
 ## Economy
 
@@ -142,7 +142,7 @@ The rock is another matter. Silver and lapis out of [[place-slvrgorges|the Silve
 
 The Mahārāja rules from [[place-suryagarha|Sūryāgarha]], a stone citadel built across the throat of the greatest of the northern passes. The crown's direct power reaches the pass-roads, the customs-houses and the terrace road down to the lowland market towns, and little further. Hereditary clan-chieftains govern the highlands proper, and their loyalty is real and negotiated. Each chieftain keeps a warband sized to his clan's standing and must provide it, on demand, for the defense of the passes or for a royal campaign.
 
-The **Martial Council** of senior chieftains advises the crown on war, on frontier defense and on clan disputes. The **Priestly Court**, brahmins drawn from the largest temple-complexes, advises on ritual, on succession and on the law. When the two councils agree, the Mahārāja rules. When they disagree, the reign becomes interesting.
+The **Martial Council** of senior chieftains advises the crown on war, on frontier defense and on clan disputes. The **Priestly Court**, ushtakas drawn from the largest temple-complexes, advises on ritual, on succession and on the law. When the two councils agree, the Mahārāja rules. When they disagree, the reign becomes interesting.
 
 The councils can sit together only in the open season, because the chieftains of the far valleys cannot reach the capital in winter. A question the Priestly Court would rather settle on its own therefore gets raised in the months when it can be, and a Mahārāja who wants a thing done without the chieftains has a window in which to do it.
 
