@@ -17,4 +17,6 @@ data:
   archetypes: []
   stations: []
   lore: []
+  homes:
+    - eastrnmrch
 ---
