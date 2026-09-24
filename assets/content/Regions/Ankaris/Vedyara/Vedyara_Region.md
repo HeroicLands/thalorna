@@ -3,7 +3,7 @@ tags:
   - region
   - endowed
   - held
-description: The southern subcontinent of Ankaris—a patchwork of castes, courts, and mystical traditions beneath the cycle-gods of the Varṇaka Pantheon.
+description: The southern subcontinent of Ankaris—a patchwork of castes, courts, and mystical traditions beneath the cycle-gods of the Varnaka Pantheon.
 name:
   full: Vedyara Region
   aliases:
@@ -34,7 +34,7 @@ The Vedyara Region is the southeastern subcontinent of [[place-ankrscntnnt|Ankar
 
 Aurèldía is a civilization of the high-medieval court and Tānvür of the celestial bureaucracy. Vedyara is a civilization of the **caste-ordered polity**: kingdoms, city-states and temple-republics whose political boundaries shift across centuries and whose deeper social structures have run unbroken for three millennia.
 
-The fragmentation is genuine and chronic, and the cultural unity beneath it is extraordinarily strong. A Vedyari scholar from a southern port travels to a northern mountain kingdom and finds its temples, its caste categories, its mathematical curriculum and its classical drama all intelligible at once. The region shares the [[affiliation-varakpnthn|Varṇaka Pantheon]], the Vedyari language in several dialect forms, and a body of classical literature every educated person studies whichever kingdom he serves.
+The fragmentation is genuine and chronic, and the cultural unity beneath it is extraordinarily strong. A Vedyari scholar from a southern port travels to a northern mountain kingdom and finds its temples, its caste categories, its mathematical curriculum and its classical drama all intelligible at once. The region shares the [[affiliation-varakpnthn|Varnaka Pantheon]], the Vedyari language in several dialect forms, and a body of classical literature every educated person studies whichever kingdom he serves.
 
 ## Geography
 
@@ -54,7 +54,7 @@ Three principal geographic zones organize Vedyari life. The **northern hill coun
 
 Vedyari society is overwhelmingly human and is ordered by an ancient, rigid **caste system** that has outlasted every dynasty and every political boundary ever drawn through the region. The broad structure distinguishes priestly scholars, warrior-nobility, merchants and artisans, cultivators, and laborers, with a further outcaste category beneath the system proper. Within each broad caste run dozens of sub-castes set by hereditary profession, by region and by ritual purity. The whole is baroque, and an outsider gives up mapping it within a few weeks of arrival.
 
-The caste system rests on the doctrine of **rebirth and karma** central to the Varṇaka Pantheon. A birth into a particular caste follows from actions in past lives, and the duties of that caste are the path to a better rebirth and, in the end, to release from the cycle. The overwhelming majority of Vedyari take this seriously, the lower castes included, who hold their station to be prior karma worked through. Revolt against the caste system is rare. Reform from within it is constant.
+The caste system rests on the doctrine of **rebirth and karma** central to the Varnaka Pantheon. A birth into a particular caste follows from actions in past lives, and the duties of that caste are the path to a better rebirth and, in the end, to release from the cycle. The overwhelming majority of Vedyari take this seriously, the lower castes included, who hold their station to be prior karma worked through. Revolt against the caste system is rare. Reform from within it is constant.
 
 The rigidity has not cost the civilization its intellect. Its **mathematicians** worked out advanced number systems, algebraic notation and geometric proofs centuries before the equivalent appeared in the west. Its **astronomers** mapped the night sky with a precision unmatched in Ankaris. Its **physicians** practice sophisticated herbal medicine, surgery and diagnosis. Its philosophers have produced vast bodies of metaphysical, epistemological and ethical literature, much of it circulating in heavily translated summary through the philosophical academies of [[place-helionis|Heliónis]] and the scholar-houses of [[affiliation-tanvurempr|Tānvür]].
 
@@ -66,7 +66,7 @@ Non-human peoples are vanishingly rare. A few [[lore-flksinale|Sinalë]] enclave
 
 ## Religion
 
-The [[affiliation-varakpnthn|Varṇaka Pantheon]] is the dominant religious tradition, a complex layered system built on the cycle of **creation, preservation and destruction**. [[affiliation-varakpnthn|Vyālendra]] (creation) shaped the world. [[affiliation-varakpnthn|Mahájaya]] (order and prosperity) preserves it. [[affiliation-varakpnthn|Rásikara]] (fire, transformation and chaos) destroys and renews it. The three forces turn through all existence, from the agricultural year to the rise and fall of empires to the rebirth of a single soul.
+The [[affiliation-varakpnthn|Varnaka Pantheon]] is the dominant religious tradition, a complex layered system built on the cycle of **creation, preservation and destruction**. [[affiliation-varakpnthn|Vyālendra]] (creation) shaped the world. [[affiliation-varakpnthn|Mahájaya]] (order and prosperity) preserves it. [[affiliation-varakpnthn|Rásikara]] (fire, transformation and chaos) destroys and renews it. The three forces turn through all existence, from the agricultural year to the rise and fall of empires to the rebirth of a single soul.
 
 Religious practice runs through daily life at every level. Temples range from modest village shrines to vast, elaborately carved complexes that are at once places of worship, schools, pilgrimage destinations and, in some cases, major economic powers. A pilgrimage to a sacred river, mountain or temple is a recognized part of an ordinary life.
 
@@ -82,9 +82,9 @@ The [[affiliation-ordoarcanis|Ordo Arcanis]] keeps one licensed factor at the ri
 
 Vedyara has no unified political authority and no tradition of unification, where Tānvür has both. It has three forms of polity instead, each with its own sabhā, council or court. The difference between them is most of what a Vedyari means when he says where he is from.
 
-The **janapada** is the substrate: a cluster of villages federated around a temple and governed by the temple's sabhā, holding its land through the temple and answering to no king. They are counted in thousands and they hold the great mass of the subcontinent's people; the roll is kept by the [[affiliation-janpdsvdyr|Mahā-Saṅgha]], which convenes them and does not govern them.
+The **janapada** is the substrate: a cluster of villages federated around a temple and governed by the temple's sabhā, holding its land through the temple and answering to no king. They are counted in thousands and they hold the great mass of the subcontinent's people; the roll is kept by the [[affiliation-janpdsvdyr|Mahā-Sangha]], which convenes them and does not govern them.
 
-The **rājya** is the kingdom: a hereditary Mahārāja advised by a martial council of clan-chieftains and a priestly court of Varṇaka brahmins, ruling his own clans directly and such janapadas as accept his patronage indirectly. When a Vedyari scholar writes of _a hundred small kingdoms_ he is counting these, and he is counting every size of them together, from a single valley with a fort in it to the pass-country of [[affiliation-vindhyalay|Vindhyālaya]].
+The **rājya** is the kingdom: a hereditary Mahārāja advised by a martial council of clan-chieftains and a priestly court of Varnaka brahmins, ruling his own clans directly and such janapadas as accept his patronage indirectly. When a Vedyari scholar writes of _a hundred small kingdoms_ he is counting these, and he is counting every size of them together, from a single valley with a fort in it to the pass-country of [[affiliation-vindhyalay|Vindhyālaya]].
 
 The **nagara** is the city-state: a coastal or river city ruling its hinterland through a council of merchant houses and temple patrons, whether it keeps a king at the head of that council as [[affiliation-chandrapur|Chandrapur]] does, or has outlived one as [[affiliation-vyalendra2|Vyālendra]] has.
 
@@ -147,7 +147,7 @@ The query names the settlements the region holds directly. Everything else stand
 
 ## See Also
 
-- [[affiliation-varakpnthn|Varṇaka Pantheon]]—the cycle-gods
+- [[affiliation-varakpnthn|Varnaka Pantheon]]—the cycle-gods
 - [[lore-vedyariclt|Vedyari]]—the culture, the stations and what a person owes
 - [[skill-vedyarlng|Vedyari]]—the language and its classical form
 - [[place-graznmntns|The Grazian Mountains]]—the wall along the north, and its passes

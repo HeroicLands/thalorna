@@ -113,7 +113,7 @@ Knowledge runs through the women. A guide-mother holds the road—the weather-si
 
 ## Outside the Order
 
-Above the last [[place-pssshrines|Pass-Shrine]] the varṇa order does not reach. The Ösket are not outcaste, which is a position within the system; they are not addressed by it at all, cannot be placed in it, and have never asked to be. Vedyari jurists have written around this for eight centuries with great ingenuity, and the practical position—that a shrine-brahmin will eat in an Ösket house on the col and would not do so in the valley—has never once been tested in a court.
+Above the last [[place-pssshrines|Pass-Shrine]] the varna order does not reach. The Ösket are not outcaste, which is a position within the system; they are not addressed by it at all, cannot be placed in it, and have never asked to be. Vedyari jurists have written around this for eight centuries with great ingenuity, and the practical position—that a shrine-brahmin will eat in an Ösket house on the col and would not do so in the valley—has never once been tested in a court.
 
 ## What They Take
 

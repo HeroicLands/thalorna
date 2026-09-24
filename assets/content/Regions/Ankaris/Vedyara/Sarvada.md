@@ -25,7 +25,7 @@ The **Sarvada** rises at [[place-sarvaprbhv|Sarvaprabhava]] on the face of [[pla
 
 More palm-leaf is written on the Sarvada than anywhere else in Vedyara. A dozen janapadas along two hundred miles of the middle river keep scriptoria that take commissions from temples, courts and academies the length of the subcontinent, and the scribal sub-castes there have a standing and a rate of literacy that exist nowhere else outside a city.
 
-It has consequences nobody planned. A regional dialect with an unusually conservative grammar; a class of men of the cultivating varṇa who can read and are therefore not quite what their caste says they are; and the best-documented land-tenure record in the world, kept up for nine hundred years by people whose day-work is copying somebody else's books.
+It has consequences nobody planned. A regional dialect with an unusually conservative grammar; a class of men of the cultivating varna who can read and are therefore not quite what their caste says they are; and the best-documented land-tenure record in the world, kept up for nine hundred years by people whose day-work is copying somebody else's books.
 
 ## The Water
 

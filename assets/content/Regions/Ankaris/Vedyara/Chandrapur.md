@@ -14,7 +14,7 @@ data:
   governance:
     model: monarchy
     summary: >-
-      A hereditary Mahārāja of the Moon House, confirmed by the temples of the Varṇaka, seated
+      A hereditary Mahārāja of the Moon House, confirmed by the temples of the Varnaka, seated
       at the head of a court the nine merchant-prince houses fill and the temple patrons
       moderate.
     ranks:
@@ -22,7 +22,7 @@ data:
         title: Outcaste
         lore: excmmnctrnk
         description: >-
-          Placed outside the varṇa order by transgression or by birth, excluded from the wells,
+          Placed outside the varna order by transgression or by birth, excluded from the wells,
           the temples and the courts.
       - level: 1
         title: Bonded Servant
@@ -31,28 +31,28 @@ data:
           Bound by debt or birth to a household, owing labor and lacking the standing to hold
           land.
       - level: 2
-        title: Śūdra
+        title: Shūdra
         lore: commonerrnk
         description: >-
-          Of the serving varṇa—cultivators, artisans and laborers who hold their place by
+          Of the serving varna—cultivators, artisans and laborers who hold their place by
           work rather than by rite.
       - level: 3
-        title: Vaiśya
+        title: Vaishya
         lore: gentryrnk
         description: >-
-          Of the productive varṇa—merchants, herders and landholders, whose wealth sustains
+          Of the productive varna—merchants, herders and landholders, whose wealth sustains
           the court and its temples.
       - level: 4
-        title: Kṣatriya
+        title: Kshatriya
         lore: warriorrnk
         description: >-
-          Of the warrior varṇa, bearing arms by right and owing service in the Mahārāja's host
+          Of the warrior varna, bearing arms by right and owing service in the Mahārāja's host
           and aboard the galleys of his fleet.
       - level: 5
-        title: Brāhmaṇa
+        title: Brāhmana
         lore: priestrnk
         description: >-
-          Of the priestly varṇa, keeper of rite and learning, without whose sanction no royal
+          Of the priestly varna, keeper of rite and learning, without whose sanction no royal
           act is complete.
       - level: 6
         title: Kulina
@@ -75,18 +75,18 @@ data:
     offices:
       Mahārāja: >-
         The great king of the Moon House, ruling by descent and confirmed by the rites the
-        Varṇaka brahmins perform.
+        Varnaka brahmins perform.
       Rājñī: The chief queen, holding her own revenues, household and voice at court.
       Yuvarāja: >-
         The designated heir, commonly given the customs of the river mouth to govern as his
         apprenticeship.
       Purohita: Royal chaplain, who performs the rites on which the king's legitimacy rests.
-      Koṣādhyakṣa: >-
+      Koshādhyaksha: >-
         Superintendent of the treasury, answerable for revenue, the gem-assay and the mint.
       Dūta: >-
         Envoy to a foreign court, whose person is protected by custom on both sides of the
         passes.
-      Gaṇaka: >-
+      Ganaka: >-
         Court astrologer, fixing the auspicious hour for sailings, marriages and coronations.
       Kulina: >-
         Head of one of the Nine Houses, holding one of the nine seats at court, the charters of
@@ -125,11 +125,11 @@ Chandrapur, the "Moon City," is Vedyara's foremost center of gemcraft and jewelr
 
 The guildhalls keep a strict rule. An artisan apprentices for years before he earns the right to a workshop of his own, and Chandrapur's name for excellence has never been spoiled.
 
-Wealth has made Chandrapur cosmopolitan. Traders and craftspeople from across the realms have settled here, and the markets speak a dozen languages. The temples of Varṇaka are the older seat of power. Their priesthoods mediate disputes between merchant families and bless the jewelcrafters' work before it begins. The city's prosperity, its inhabitants hold, flows from divine favor. The city-state holds [[place-chandrapurland|Chandrapur Land]], and [[place-chandrapur2|Chandrapur]] is its seat.
+Wealth has made Chandrapur cosmopolitan. Traders and craftspeople from across the realms have settled here, and the markets speak a dozen languages. The temples of Varnaka are the older seat of power. Their priesthoods mediate disputes between merchant families and bless the jewelcrafters' work before it begins. The city's prosperity, its inhabitants hold, flows from divine favor. The city-state holds [[place-chandrapurland|Chandrapur Land]], and [[place-chandrapur2|Chandrapur]] is its seat.
 
 ## The Moon House and the Nine
 
-Chandrapur keeps a king, which among the great cities of the coast is the uncommon arrangement. The **Mahārāja of the Moon House** rules by descent, and the temples confirm the rule. The rites the Varṇaka brahmins perform at an accession are what make the man king. A claimant they will not crown has never yet reigned.
+Chandrapur keeps a king, which among the great cities of the coast is the uncommon arrangement. The **Mahārāja of the Moon House** rules by descent, and the temples confirm the rule. The rites the Varnaka brahmins perform at an accession are what make the man king. A claimant they will not crown has never yet reigned.
 
 The Mahārāja rules with a court, and the court is the **Nine Houses**. Their heads sit as **Kulina**. Each holds one of the nine seats, the charters of his own trade, and the quarter of the city his house has always kept. The seats descend within the houses; the crown confirms a succession and has twice refused one.
 
@@ -162,4 +162,4 @@ Chandrapur uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered th
 - [[place-moonhouse|The Moon House]]—the palace and the hall of nine seats
 - [[place-greatbazaar|The Great Bazaar]]—the crown's market ground
 - [[skill-vedyarlng|Vedyari]]—Naming tradition
-- [[affiliation-varakpnthn|Varṇaka Pantheon]]—Religious tradition
+- [[affiliation-varakpnthn|Varnaka Pantheon]]—Religious tradition
