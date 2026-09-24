@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - draft
 description: "Dominant Vedyaran commercial federation controlling the city-states' mines, caravans, and inter-janapada trade—wielding economic power that rivals the rulers themselves."
 name:
   full: The Merchant Collective of Vedyara
