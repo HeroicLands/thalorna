@@ -27,7 +27,12 @@ itemBuilders: sohl
 packs:
     - { name: items, label: Items, type: Item }
     - { name: journals, label: Journals, type: JournalEntry }
-    - { name: actors, label: Actors, type: Actor }
+    # Two Actor packs, so one of them has to say which receives a note that
+    # declares no `pack:` — which is every being written so far.
+    - { name: actors, label: Actors, type: Actor, default: true }
+    # The people the prose names and nobody has written up: records rather than
+    # characters, kept out of the pack a referee browses for a statted NPC.
+    - { name: people, label: People, type: Actor, mayBeEmpty: true }
 
 publish:
     # This repository's content is original work with no publishing
@@ -145,6 +150,7 @@ packageBuild:
                   - items
                   - journals
                   - actors
+                  - people
         media:
             - type: setup
               url: systems/sohl/assets/ui/sohl-setup.webp
