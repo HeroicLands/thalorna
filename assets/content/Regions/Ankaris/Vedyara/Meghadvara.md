@@ -23,13 +23,13 @@ shortcode: meghadvara
 packFolder: vedyara
 ---
 
-**Meghadvāra**, the storm-door, is the westernmost of the six crossings of [[place-sthrnwall|the Southern Wall]]. It climbs under [[place-meghashkhr|Meghaśikhara]] out of the north-western marches and comes down thirty days later among the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]].
+**Meghadvāra**, the storm-door, is the westernmost of the six crossings of [[place-sthrnwall|the Southern Wall]]. It climbs under [[place-meghashkhr|Meghashikhara]] out of the north-western marches and comes down thirty days later among the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]].
 
 Nobody holds its throat. There is no fortress on this road, no customs-house and no toll: the [[affiliation-svapnasarisamaja|Svapnasāri-samāja]] keeps a shrine-tower at the summit that says the blessing over a caravan and takes what is offered, and beyond that the door is open to whoever can get a guide.
 
 ## The Window
 
-It is the shortest window on the wall, and the reason is weather and not altitude. The monsoon piles against Meghaśikhara from the south and shuts the lower road from below, so that the pass is impassable for weeks after the high ice has gone off and impassable again long before the snow returns. Two caravans a year is a good season here; three is remembered.
+It is the shortest window on the wall, and the reason is weather and not altitude. The monsoon piles against Meghashikhara from the south and shuts the lower road from below, so that the pass is impassable for weeks after the high ice has gone off and impassable again long before the snow returns. Two caravans a year is a good season here; three is remembered.
 
 What crosses is accordingly the cargo that cannot wait. The great houses send the bulk of their trade east to [[place-suryadvara|Sūryadvāra]] and pay the tolls; what comes over the storm-door is what somebody needed in the Khazryn this year and not next, at prices that reflect it.
 
@@ -41,5 +41,5 @@ A caravan-master who argues with a refusal at Meghadvāra is not overruled. He i
 
 ## See Also
 
-- [[place-sthrnwall|The Southern Wall]] · [[place-meghashkhr|Meghaśikhara]] · [[place-gudesroad|The Guides' Road]]
+- [[place-sthrnwall|The Southern Wall]] · [[place-meghashkhr|Meghashikhara]] · [[place-gudesroad|The Guides' Road]]
 - [[affiliation-osketguides|The Ösket]] · [[affiliation-svapnasarisamaja|Svapnasāri-samāja]] · [[place-pssshrines|The Pass-Shrines]]

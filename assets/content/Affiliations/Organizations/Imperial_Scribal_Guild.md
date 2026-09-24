@@ -18,70 +18,44 @@ data:
   governance:
     model: council
     summary: >-
-      A court of wardens and assistants under an elected head, governing the craft between
-      general assemblies.
+      A chartered guild of imperial scribes, examined from probationer to Guildmaster, governed
+      by the Council of Guildmasters under its High Hand.
     ranks:
       - level: 0
-        title: Blacklisted
+        title: Revoked License
         lore: expelledrnk
         description: >-
-          Struck from the roll: no member may employ, teach, supply or trade with them, in any
-          city the guild reaches.
+          A scribe's license is revoked for proven misconduct, ending the right to seal.
       - level: 1
-        title: Servant
-        lore: servantrnk
-        description: Kept for labor about the hall and the workshops, and not of the craft.
-      - level: 2
-        title: Apprentice
-        lore: apprenticernk
-        description: Bound to a master for a term of years, fed and taught and owning neither
-          tools nor wage.
-      - level: 3
-        title: Journeyman
-        lore: journeymanrnk
+        title: Probationer
+        lore: initiaternk
         description: >-
-          Out of apprenticeship and working for wages, free to move between masters and not
-          yet to keep a shop.
-      - level: 4
-        title: Master
+          Scriba probandus—a student in training at a chapterhouse, not authorized to seal
+          independently.
+      - level: 2
+        title: Scribe
+        lore: clerkrnk
+        description: >-
+          Scriba—qualified after the seven-year course, permitted to seal routine documents
+          under the supervision of a master.
+      - level: 3
+        title: Master Scribe
         lore: masterrnk
         description: >-
-          Admitted on a masterpiece, entitled to keep a shop, take apprentices and vote in the
-          guild.
-      - level: 5
-        title: Warden
+          Magister scribarum—examined, permitted to seal all civilian documents independently
+          and to supervise junior scribes.
+      - level: 4
+        title: Guildmaster
         lore: officerrnk
         description: >-
-          Elected to inspect the craft—its work, its weights, its prices—and to present
-          offenders.
-      - level: 6
-        title: Assistant
-        lore: councillorrnk
-        description: Of the court that governs the guild between its general assemblies.
-      - level: 7
-        title: Alderman
-        lore: highpriestrnk
-        description: Senior of the court, and the guild's voice before the city that chartered
-          it.
-      - level: 8
-        title: Grand Master
+          Magister collegii—promoted by senior vote, permitted to seal imperial edicts and to
+          hold positions on the Council of the Guild.
+      - level: 5
+        title: High Hand
         lore: grandmasterrnk
-        description: Head of the guild, elected by the court, holding its seal and answering
-          for its charter.
-    offices:
-      Grand Master: Head of the guild, elected by its court, holding the seal and answering
-        for the charter.
-      Alderman: Senior of the governing court and the guild's voice before the city.
-      Warden: >-
-        Elected inspector of the craft's work, weights and prices, who presents offenders
-        to the court.
-      Assistant: Member of the court that governs the guild between general assemblies.
-      Clerk: Keeper of the guild's roll, its indentures, its minutes and its correspondence.
-      Beadle: Summoner of the assembly and server of its process; the guild's hands in enforcement.
-      Searcher: Examiner of goods offered under the guild's mark, whose refusal ends a sale.
-      Treasurer: Keeper of the guild's box—its dues, its fines and its loans to members.
-      Almoner: Administrator of the guild's relief to sick members, widows and orphans.
-      Keeper of the Hall: Warden of the guild's house, its plate, its records and its feasts.
+        description: >-
+          Manus prima—the Guild's chair, one position, held for life or until resignation.
+    offices: {}
   commonSkills: []
   seat: null
   domains: []

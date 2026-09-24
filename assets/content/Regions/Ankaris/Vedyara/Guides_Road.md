@@ -36,9 +36,9 @@ That is the whole commerce of the road: not goods but passage, for people and pa
 
 A lowlander who learned the road would be worth killing, and an Ösket who sold it would be worth more. Both have happened. The Ösket deal with the second case themselves and have never explained how, and the lineages that work the western passes will not discuss the first at all.
 
-The [[place-shunydvara|Śūnyadvāra]] stands on the col, and every Ösket crossing walks through the opening in it. None of them will say why. The Pass-Shrines' refusal to bless this road is older than any of the four reasons currently given for it, and the reasons change.
+The [[place-shunydvara|Shūnyadvāra]] stands on the col, and every Ösket crossing walks through the opening in it. None of them will say why. The Pass-Shrines' refusal to bless this road is older than any of the four reasons currently given for it, and the reasons change.
 
 ## See Also
 
-- [[place-meghadvara|Meghadvāra]] · [[place-suryadvara|Sūryadvāra]] · [[place-shunydvara|Śūnyadvāra]]
+- [[place-meghadvara|Meghadvāra]] · [[place-suryadvara|Sūryadvāra]] · [[place-shunydvara|Shūnyadvāra]]
 - [[affiliation-osketguides|The Ösket]] · [[place-sthrnwall|The Southern Wall]]
