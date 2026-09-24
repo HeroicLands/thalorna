@@ -653,7 +653,7 @@ Böthvarr is driven primarily by the code he has constructed for himself: protec
 ### Enemies
 
 - **Captain Meredith Vane**: A rival soldier of approximately equal skill who has competed with Böthvarr for recognition and advancement for the past fifteen years. Their conflicts have become personal and vicious, extending beyond the battlefield into political maneuvering.
-- **The Warlord Garak**: A notorious mercenary commander whose forces have clashed with Böthvarr's garrison repeatedly. Garak has vowed to eventually face Böthvarr in single combat to prove his superiority.
+- **The Warlord Bruthgar**: A notorious mercenary commander whose forces have clashed with Böthvarr's garrison repeatedly. Bruthgar has vowed to eventually face Böthvarr in single combat to prove his superiority.
 - **Councilor Harvis Snalthendikh**: A political figure who views military power as a threat to his authority. He has worked systematically to undermine Böthvarr's position and credibility, seeking to replace him with someone more politically pliable.
 
 ### Affiliations

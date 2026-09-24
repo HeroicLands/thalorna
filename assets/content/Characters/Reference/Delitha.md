@@ -3,14 +3,15 @@ tags:
   - character
   - reference
 name:
-  full: Caelwen
+  full: Délitha
   title: Mother
-  given: Caelwen
+  given: Délitha
   clan: ""
   home: liranel
   aliases: []
 description: "The temple's senior priestess at Liranel, who respects Vélaria's work but warns the ministry cannot indefinitely go unsupported."
-shortcode: caelwen
+shortcode: delitha
+renamedFrom: caelwen
 type: being
 data:
   templatePriority: null
