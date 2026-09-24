@@ -27,7 +27,6 @@ data:
     - vyalendra2
   gender: male
   species: null
-  age: 37
   born: 683/4/10
   height: 1.93
   weight: 89.4

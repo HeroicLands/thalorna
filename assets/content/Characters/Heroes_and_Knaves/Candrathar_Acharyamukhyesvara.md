@@ -28,7 +28,6 @@ data:
     - rajaprjnpd
   gender: male
   species: null
-  age: 52
   born: 668/3/17
   height: 1.7
   weight: 64

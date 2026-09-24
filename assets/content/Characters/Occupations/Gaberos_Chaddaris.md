@@ -29,7 +29,6 @@ data:
     - athenikos
   gender: male
   species: null
-  age: 39
   born: 681/3/13
   height: 1.74
   weight: 63

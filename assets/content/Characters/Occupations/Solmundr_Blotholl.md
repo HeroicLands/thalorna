@@ -28,7 +28,6 @@ data:
     - kngdmnrdhm
   gender: male
   species: null
-  age: 32
   born: 688/9/7
   height: 1.85
   weight: 81

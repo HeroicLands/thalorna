@@ -28,7 +28,6 @@ data:
     - cnfdrtnhrdnstts
   gender: female
   species: null
-  age: 29
   born: 691/5/10
   height: 1.85
   weight: 80

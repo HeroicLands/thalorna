@@ -30,7 +30,6 @@ data:
     - byzarianlg
   gender: male
   species: null
-  age: 43
   born: 677/7/17
   height: 1.93
   weight: 106.6

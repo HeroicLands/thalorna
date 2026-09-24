@@ -27,7 +27,6 @@ data:
     - kingdmtrgd
   gender: male
   species: null
-  age: 50
   born: 670/10/18
   height: 1.83
   weight: 74.8

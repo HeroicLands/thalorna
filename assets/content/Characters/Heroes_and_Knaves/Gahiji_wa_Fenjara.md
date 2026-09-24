@@ -29,7 +29,6 @@ data:
     - nylbtrblntn
   gender: male
   species: null
-  age: 28
   born: 692/2/2
   height: 1.88
   weight: 90.7

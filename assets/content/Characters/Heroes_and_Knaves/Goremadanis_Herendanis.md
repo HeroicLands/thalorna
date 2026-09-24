@@ -27,7 +27,6 @@ data:
     - provncmktr
   gender: female
   species: null
-  age: 22
   born: 698/2/7
   height: 1.73
   weight: 66.2

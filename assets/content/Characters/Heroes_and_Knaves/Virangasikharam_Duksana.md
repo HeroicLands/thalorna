@@ -27,7 +27,6 @@ data:
     - suvrgrjnpd
   gender: male
   species: null
-  age: 33
   born: 687/2/4
   height: 1.83
   weight: 73.9

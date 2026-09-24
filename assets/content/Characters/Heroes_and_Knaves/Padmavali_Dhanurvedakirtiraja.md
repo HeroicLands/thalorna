@@ -27,7 +27,6 @@ data:
     - suvrgrjnpd
   gender: female
   species: null
-  age: 31
   born: 689/6/19
   height: 1.57
   weight: 54

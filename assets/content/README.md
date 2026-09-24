@@ -97,6 +97,17 @@ on it (`FROM #draft`).
 `draft: false` included, since it reads as "publish this note", which is what
 happens either way.
 
+## Birth dates and ages
+
+A being's `data.born` supplies its birth date. With a known birth date, omit
+`data.age`: the published age counts completed years at the world's
+`data.present`, declared in `Lore/Thalorna.md`. The value `720` means the first
+day of year 720, so a birthday later in that year has not occurred.
+
+For example, `born: 687/4/16` gives an age of 32 at that present. Keep an authored
+`data.age` when the birth date is absent or `unknown`. An authored age overrides
+the calculation; use that override only when the setting calls for it.
+
 ## Writing a cross-package link
 
 Link to another note by its canonical address — `<type>-<shortcode>` — in a

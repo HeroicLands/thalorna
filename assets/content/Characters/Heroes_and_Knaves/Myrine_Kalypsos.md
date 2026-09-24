@@ -30,7 +30,6 @@ data:
     - blackflame
   gender: female
   species: null
-  age: 24
   born: 696/12/6
   height: 1.7
   weight: 68

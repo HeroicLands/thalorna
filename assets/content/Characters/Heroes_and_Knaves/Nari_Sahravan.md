@@ -29,7 +29,6 @@ data:
     - khzrncnfdrtn
   gender: female
   species: null
-  age: 33
   born: 687/7/15
   height: 1.65
   weight: 59

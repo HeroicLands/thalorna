@@ -29,7 +29,6 @@ data:
     - jrldmstrmvld
   gender: male
   species: null
-  age: 43
   born: 677/10/2
   height: 1.86
   weight: 116

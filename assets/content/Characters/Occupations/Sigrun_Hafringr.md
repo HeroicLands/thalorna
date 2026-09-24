@@ -29,7 +29,6 @@ data:
     - jrldmstrmvld
   gender: female
   species: null
-  age: 31
   born: 689/1/27
   height: 1.8
   weight: 80

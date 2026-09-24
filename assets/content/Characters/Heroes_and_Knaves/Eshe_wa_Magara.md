@@ -29,7 +29,6 @@ data:
     - okharis
   gender: female
   species: null
-  age: 37
   born: 683/6/10
   height: 1.75
   weight: 86.2

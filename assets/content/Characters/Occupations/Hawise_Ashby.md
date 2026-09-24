@@ -28,7 +28,6 @@ data:
     - repblctrvn
   gender: female
   species: null
-  age: 48
   born: 676/1/28
   height: 1.78
   weight: 78

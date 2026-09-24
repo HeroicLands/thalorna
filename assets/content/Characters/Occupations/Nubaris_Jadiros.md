@@ -29,7 +29,6 @@ data:
     - theradon
   gender: female
   species: null
-  age: 40
   born: 684/10/2
   height: 1.7
   weight: 64

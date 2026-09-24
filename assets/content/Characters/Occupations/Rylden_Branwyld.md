@@ -28,7 +28,6 @@ data:
     - kngdmprvnz
   gender: male
   species: null
-  age: 56
   born: 664/12/18
   height: 1.88
   weight: 86

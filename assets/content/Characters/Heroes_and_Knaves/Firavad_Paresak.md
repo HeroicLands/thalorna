@@ -27,7 +27,6 @@ data:
     - dunhartrbs
   gender: male
   species: null
-  age: 62
   born: 658/7/11
   height: 1.68
   weight: 62.1

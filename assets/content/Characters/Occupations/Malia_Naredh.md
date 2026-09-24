@@ -28,7 +28,6 @@ data:
     - kngdmlvndr
   gender: female
   species: null
-  age: 32
   born: 692/5/10
   height: 1.78
   weight: 70

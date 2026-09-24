@@ -27,7 +27,6 @@ data:
     - provinclys
   gender: female
   species: null
-  age: 27
   born: 693/4/2
   height: 1.78
   weight: 70.3
