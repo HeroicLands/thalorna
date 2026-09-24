@@ -2,7 +2,6 @@
 tags:
   - character
   - reference
-  - unattributed
 name:
   full: Morvanna of Jánus's Temple
   title: Priestess
@@ -17,4 +16,6 @@ data:
   archetypes: []
   stations: []
   lore: []
+  homes:
+    - nartumkngdm
 ---
