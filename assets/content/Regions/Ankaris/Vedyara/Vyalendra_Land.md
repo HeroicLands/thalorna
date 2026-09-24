@@ -12,7 +12,7 @@ subType: region
 data:
   demonym: Vyālendri
   lore:
-    - humanflk
+    - vedyariclt
   parents:
     - vedyarargn
   population: 6000000

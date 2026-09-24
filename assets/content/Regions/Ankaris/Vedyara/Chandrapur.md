@@ -105,7 +105,7 @@ data:
     - affiliation-mrchntclctvvdyr
     - lore-vdyrnbnkng
   lore:
-    - humanflk
+    - vedyariclt
   parents: []
   relations:
     varakpnthn: aligned
@@ -131,11 +131,19 @@ The Mahārāja rules with a court, and the court is the **Nine Houses**. Their h
 
 A Kulina is not a Sāmanta and holds no land of the king's grant. His standing is his house's charter. A house that loses its trade loses its seat within a generation, and that is the difference between this court and a kingdom's.
 
-The **Nau-senāpati** commands the fleet, answers for the river mouth and the coast, and lets the galleys out by the sailing season. It is an office of consequence in a city that carries other cities' cargo as well as its own.
+## The Fleet
+
+The war-galleys at the river mouth are the only standing fighting fleet in Vedyara. Every other power on the coast hires hulls in the season it needs them and lays them off after. Chandrapur keeps its own, builds them in its own yards, and mans them off its own shore.
+
+The **Nau-senāpati** commands them. He answers for the river mouth and the coast, and he lets the galleys out by the sailing season. It is an office of consequence in a city that carries other cities' cargo as well as its own.
+
+A galley is oared and carries no cargo. The coasting ships that carry the trade belong to the merchant houses and are hired hull by hull, and the flat-bottomed river-boats work above the delta and never cross the bar. [[affiliation-vyalendra2|Vyālendra]] has the cargo and keeps no fleet, so it hires its escort here. The rate is settled fresh every sailing season and is settled late, which suits the one party and not the other.
+
+A galley's crew works outside caste, as every crew on this coast does. Nobody aboard asks to see a wrist. The men who owe the Mahārāja service in his host owe it aboard as well, and the deck is the one place in the city where they serve beside men the temples will not admit.
 
 ## Commerce and Currency
 
-Chandrapur uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign coin, the Vylarian Argo and Aurion and the Ta'Kheperan deben pieces, is exchangeable at frontier moneylenders at Collective-controlled rates. The Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
+Chandrapur uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign coin, weighed Khazryn metal and the Ta'Kheperan deben pieces, is exchangeable at frontier moneylenders at Collective-controlled rates. The Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
 
 ## See Also
 

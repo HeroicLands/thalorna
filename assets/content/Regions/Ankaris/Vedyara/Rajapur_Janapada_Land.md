@@ -12,7 +12,7 @@ subType: region
 data:
   demonym: Rājapuri
   lore:
-    - humanflk
+    - vedyariclt
   parents:
     - vedyarargn
   population: 25000
