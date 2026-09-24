@@ -4,10 +4,10 @@ tags:
   - administration
   - character
 name:
-  full: Her'sa'îs Sa'Anut
+  full: Hersaîs Sa'Anutu
   title: Haty'a
-  given: Her'sa'îs
-  clan: Sa'Anut
+  given: Hersaîs
+  clan: Sa'Anutu
   home: ankhsetun
   aliases:
     - Hersaîs SaAnut
@@ -616,13 +616,13 @@ sohl:
 
 # Appearance {#appearance}
 
-![[hersaisant|Her'sa'îs Sa'Anut]]{float: top-left}
+![[hersaisant|Hersaîs Sa'Anutu]]{float: top-left}
 
-Her'sa'îs stands 6'2" tall with a heavy build. He has olive weathered skin, black hair, and dark amber eyes. His features include a high-cheekboned face, a straight narrow nose, a pointed chin, well-shaped lips, elegantly curved brows, and angular cheeks.
+Hersaîs stands 6'2" tall with a heavy build. He has olive weathered skin, black hair, and dark amber eyes. His features include a high-cheekboned face, a straight narrow nose, a pointed chin, well-shaped lips, elegantly curved brows, and angular cheeks.
 
 # Dossier {#dossier}
 
-Hersaîs was born into the Sa'Anut family as the eldest son of a tenant-in-chief of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], a position that carried with it both significant lands and significant responsibilities. From his earliest childhood, he was groomed for military leadership, trained in swordplay by masters of the craft and educated in the art of command necessary to lead warriors in actual combat. His father died when Hersaîs was eighteen, and he inherited both the family's lands and their obligation to provide soldiers for the Empire's armies.
+Hersaîs was born into the Sa'Anutu family as the eldest son of a tenant-in-chief of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], a position that carried with it both significant lands and significant responsibilities. From his earliest childhood, he was groomed for military leadership, trained in swordplay by masters of the craft and educated in the art of command necessary to lead warriors in actual combat. His father died when Hersaîs was eighteen, and he inherited both the family's lands and their obligation to provide soldiers for the Empire's armies.
 
 The young Hersaîs threw himself into military service, earning a reputation for tactical brilliance and unfailing devotion to the Per-Aá. He fought in three major campaigns against the Empire's neighbors, rising to the rank of general by his mid-thirties. His reputation became such that Per-Aás sought his counsel on military matters, and he became one of the most influential voices in the Per-Aá's court regarding questions of defense and national security.
 
@@ -640,7 +640,7 @@ Hersaîs is incapable of understanding why people would put personal feeling bef
 
 ### Motivation
 
-Hersaîs is motivated by a conviction, developed through a lifetime of military service, that order is the greatest good and that the price of maintaining order—including the individual sacrifices that order sometimes demands—is always justified. He seeks to preserve and strengthen the Empire through the maintenance of military readiness and through the establishment of alliances that will prevent future wars. His secondary motivation is dynastic: he wishes to establish the Sa'Anut family as one of the Empire's permanent ruling houses, capable of exercising authority for generations to come.
+Hersaîs is motivated by a conviction, developed through a lifetime of military service, that order is the greatest good and that the price of maintaining order—including the individual sacrifices that order sometimes demands—is always justified. He seeks to preserve and strengthen the Empire through the maintenance of military readiness and through the establishment of alliances that will prevent future wars. His secondary motivation is dynastic: he wishes to establish the Sa'Anutu family as one of the Empire's permanent ruling houses, capable of exercising authority for generations to come.
 
 At a deeper level, Hersaîs fears chaos and loss of control, and he has organized his entire life as a defense against these fears. He desperately wants to believe that his system of discipline, hierarchy, and rigid adherence to regulation can prevent the arbitrary suffering that befell others he has known. This fear drives him to create increasingly elaborate structures of control, and he is incapable of recognizing that his attempts to prevent chaos sometimes create the conditions for it.
 
@@ -698,7 +698,7 @@ At a deeper level, Hersaîs fears chaos and loss of control, and he has organize
 
 - **The Temple of Íšét**: He is a major supporter and participant in religious ceremonies and maintains a formal relationship with the priesthood.
 
-- **The Sa'Anut Family**: As the family's patriarch, he seeks to elevate the Sa'Anut to permanent prominence in the imperial hierarchy.
+- **The Sa'Anutu Family**: As the family's patriarch, he seeks to elevate the Sa'Anutu to permanent prominence in the imperial hierarchy.
 
 ## Plot Hooks
 

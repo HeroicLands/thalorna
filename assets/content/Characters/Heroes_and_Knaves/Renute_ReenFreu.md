@@ -4,10 +4,10 @@ tags:
   - tradesfolk
   - character
 name:
-  full: Renutê Re'en'fré
+  full: Renutê Re'en'Fréu
   title: ""
   given: Renutê
-  clan: Re'en'fré
+  clan: Re'en'Fréu
   home: wasetkara
   aliases:
     - Renutê Reenfré
@@ -615,7 +615,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[renuternfr|Renutê Re'en'fré]]{float: top-left}
+![[renuternfr|Renutê Re'en'Fréu]]{float: top-left}
 
 Renutê stands 5'7" tall with a light build. She has dark skin, black hair, and dark brown eyes. Her features include a high-cheekboned face, a straight narrow nose, a gentle jawline, generous lips, dark brows, and angular cheeks.
 

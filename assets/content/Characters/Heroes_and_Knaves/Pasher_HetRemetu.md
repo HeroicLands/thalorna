@@ -4,10 +4,10 @@ tags:
   - tradesfolk
   - character
 name:
-  full: Pasher Het'remet
+  full: Pasher Het'Remetu
   title: ""
   given: Pasher
-  clan: Het'remet
+  clan: Het'Remetu
   home: wasetkara
   aliases:
     - Pasher Hetremet
@@ -586,7 +586,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[pashrhtrmt|Pasher Het'remet]]{float: top-left}
+![[pashrhtrmt|Pasher Het'Remetu]]{float: top-left}
 
 Pasher stands 6'1" tall with a medium build. He has ebony weathered skin, very dark brown hair, and brown eyes. His features include an oval face, a long nose, a narrow chin, an expressive mouth, very dark brows, and sculpted cheeks. He has a scar across his left eye.
 

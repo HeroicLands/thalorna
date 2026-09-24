@@ -5,10 +5,10 @@ tags:
   - tradesfolk
   - character
 name:
-  full: Sip'rah Ip'maâr
+  full: Siprah Ip'Maâru
   title: ""
-  given: Sip'rah
-  clan: Ip'maâr
+  given: Siprah
+  clan: Ip'Maâru
   home: wasetkara
   aliases:
     - Siprah Ipmaâr
@@ -594,9 +594,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[siprahipmr|Sip'rah Ip'maâr]]{float: top-left}
+![[siprahipmr|Siprah Ip'Maâru]]{float: top-left}
 
-Sip'rah stands 5'8" tall with a medium build. He has dark skin, deep black hair, and brown eyes. His features include a straight narrow nose, a narrow chin, and elegantly curved brows. He has a tattoo of a knight's helmet on his shoulder.
+Siprah stands 5'8" tall with a medium build. He has dark skin, deep black hair, and brown eyes. His features include a straight narrow nose, a narrow chin, and elegantly curved brows. He has a tattoo of a knight's helmet on his shoulder.
 
 # Dossier {#dossier}
 

@@ -5,10 +5,10 @@ tags:
   - tradesfolk
   - character
 name:
-  full: Shenur Ba'pata
+  full: Shenur Ba'Patau
   title: ""
   given: Shenur
-  clan: Ba'pata
+  clan: Ba'Patau
   home: ankhsetun
   aliases:
     - Shenur Bapata
@@ -598,15 +598,15 @@ sohl:
 
 # Appearance {#appearance}
 
-![[shenurbapt|Shenur Ba'pata]]{float: top-left}
+![[shenurbapt|Shenur Ba'Patau]]{float: top-left}
 
 Shenur stands 6'3" tall with a heavy build. He has warm brown skin, very dark brown hair, and dark amber eyes. His features include a high-cheekboned face, a straight narrow nose, a tapered chin, generous lips, warm brows, and prominent cheeks. He has a tattoo of a serpent on his back.
 
 # Dossier {#dossier}
 
-Shenur was born to the Ba'pata clan during the flooding season, third son of a metalworker's family. His father, **Nebmeht Ba'pata**, recognized early that young Shenur possessed the strength and focus required for the finest crafts. Rather than compete for inheritance, Shenur was apprenticed at age twelve to **Master Taharqo**, keeper of the Imperial forge in [[affiliation-empirtkhpr|Ta'Kheperu]]'s merchant quarter. For twenty-three years, he honed his art under Taharqo's exacting eye, learning to shape metal and to understand its voice—when to strike, when to let fire breathe, when to cool with deliberate patience.
+Shenur was born to the Ba'Patau clan during the flooding season, third son of a metalworker's family. His father, **Nebmeht Ba'Patau**, recognized early that young Shenur possessed the strength and focus required for the finest crafts. Rather than compete for inheritance, Shenur was apprenticed at age twelve to **Master Taharqo**, keeper of the Imperial forge in [[affiliation-empirtkhpr|Ta'Kheperu]]'s merchant quarter. For twenty-three years, he honed his art under Taharqo's exacting eye, learning to shape metal and to understand its voice—when to strike, when to let fire breathe, when to cool with deliberate patience.
 
-Upon his master's retirement, Shenur inherited the forge and established himself as the foremost supplier of functional weaponry to the Empire's military apparatus. His reputation spread quickly: soldiers entrusted their lives to Ba'pata blades and armor, knowing every piece had been tested and refined beyond simple adequacy. He married late at thirty-five, gaining two stepchildren from his union with **Menara**, a merchant's widow, though she passed seven years ago. Without heirs of his own blood, Shenur has begun mentoring promising apprentices, though he guards his knowledge jealously.
+Upon his master's retirement, Shenur inherited the forge and established himself as the foremost supplier of functional weaponry to the Empire's military apparatus. His reputation spread quickly: soldiers entrusted their lives to Ba'Patau blades and armor, knowing every piece had been tested and refined beyond simple adequacy. He married late at thirty-five, gaining two stepchildren from his union with **Menara**, a merchant's widow, though she passed seven years ago. Without heirs of his own blood, Shenur has begun mentoring promising apprentices, though he guards his knowledge jealously.
 
 Today, Shenur maintains his forge with obsessive dedication. Every dawn, before the city stirs, he stokes the fires that have burned continuously for nearly three decades. His workshop has become an institution—mercenary captains route themselves through Ta'Kheperu specifically to commission pieces from his anvil.
 
@@ -642,9 +642,9 @@ Shenur seeks to leave a legacy of excellence that will outlast his mortal years.
 
 ### Patrons
 
-- **Akheren**: Commander of the Ta'Kheperu Imperial Guard, who has purchased from Shenur for seventeen years. Trusts no other source for his cohort's weapons and considers Ba'pata blades worth their weight in gold.
+- **Akheren**: Commander of the Ta'Kheperu Imperial Guard, who has purchased from Shenur for seventeen years. Trusts no other source for his cohort's weapons and considers Ba'Patau blades worth their weight in gold.
 - **Captain Khenti**: A mercenary captain of considerable renown who leads a company of two hundred soldiers. She sends at least a dozen soldiers annually to commission from Shenur.
-- **Lord Merchant Sekhenti**: A wealthy trader who deals in imperial contracts. While he cares little for the functional beauty of weapons, he appreciates the investment value of Ba'pata craftsmanship.
+- **Lord Merchant Sekhenti**: A wealthy trader who deals in imperial contracts. While he cares little for the functional beauty of weapons, he appreciates the investment value of Ba'Patau craftsmanship.
 - **The Bridge District Militia**: The informal neighborhood watch that maintains peace in Ta'Kheperu's merchant quarters. They scrape together funds to purchase Shenur's work whenever possible.
 
 ### Enemies

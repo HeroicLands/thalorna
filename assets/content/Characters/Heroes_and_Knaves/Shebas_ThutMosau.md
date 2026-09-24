@@ -5,10 +5,10 @@ tags:
   - tradesfolk
   - character
 name:
-  full: Shebas Thutmosa
+  full: Shebas Thut'Mosau
   title: ""
   given: Shebas
-  clan: Thutmosa
+  clan: Thut'Mosau
   home: ankhsetun
   aliases: []
 packFolder: northernfertileregiontakheperu
@@ -602,7 +602,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[shebsthtms|Shebas Thutmosa]]{float: top-left}
+![[shebsthtms|Shebas Thut'Mosau]]{float: top-left}
 
 Shebas stands 5'7" tall with a light build. She has deep bronze skin, jet black hair, and black eyes. Her features include an aquiline nose, a gentle jawline, and elegantly curved brows. She has a scar on her left arm.
 
@@ -612,7 +612,7 @@ Shebas stands 5'7" tall with a light build. She has deep bronze skin, jet black 
 
 ### Early Life and Loss
 
-Shebas was born in the capital city of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]] into the moderately wealthy Thutmosa family, merchants of spices and exotic goods. Her childhood was comfortable, filled with the abundance that merchant wealth provided. However, at age eight, a terrible plague swept through the lower quarters of the city where her family maintained warehouses and trading posts. Shebas's younger brother, only four years old, contracted the plague despite their family's wealth and protection. She watched her parents employ physician after physician, spend vast sums on treatments and remedies, but none could save the boy. The child died screaming in pain, and young Shebas was left with the conviction that there must be a better way, that someone could have saved her brother if only they had possessed proper knowledge.
+Shebas was born in the capital city of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]] into the moderately wealthy Thut'Mosau family, merchants of spices and exotic goods. Her childhood was comfortable, filled with the abundance that merchant wealth provided. However, at age eight, a terrible plague swept through the lower quarters of the city where her family maintained warehouses and trading posts. Shebas's younger brother, only four years old, contracted the plague despite their family's wealth and protection. She watched her parents employ physician after physician, spend vast sums on treatments and remedies, but none could save the boy. The child died screaming in pain, and young Shebas was left with the conviction that there must be a better way, that someone could have saved her brother if only they had possessed proper knowledge.
 
 After her brother's death, Shebas became obsessed with learning every remedy, every healing art, every herb that might have helped him. Her parents, grieving and indulgent, allowed her to apprentice with an elderly apothecary named **[[being-mesharawse|Meshara the Wise]]**, a woman of great skill who had served the city's poor for decades.
 
