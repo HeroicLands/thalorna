@@ -24,7 +24,7 @@ The **Pass-Shrines** are the temples at the high points of the crossing roads: o
 
 They are not large. A shrine is a walled court, a hall, a store of fuel and grain, a cistern and quarters for eight to twenty people, built low into the rock on the lee side of the col. What makes them remarkable is that they are occupied in winter.
 
-## The Altitude Brahmins
+## The Altitude Ushtakas
 
 A [[affiliation-varakpnthn|Varnaka]] ushtaka sub-caste keeps the shrines. They are born to the work and live year-round at heights that would kill an unaccustomed lowlander inside a week. They marry within the sub-caste, their children are raised on the cols, and a shrine-ushtaka who comes down to the plains at forty is an old man there and is treated as one.
 

@@ -91,7 +91,7 @@ data:
   relations:
     varakpnthn: aligned
     trimurtisampradaya: rival
-    passshrinebrahmins: unaligned
+    passshrineushtakas: unaligned
     thresholdkeepers: aligned
     chayavrata: unaligned
 packFolder: pantheonsvarnaka

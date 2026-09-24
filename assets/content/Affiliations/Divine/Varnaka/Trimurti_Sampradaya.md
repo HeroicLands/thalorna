@@ -86,7 +86,7 @@ data:
   relations:
     varakpnthn: aligned
     ganakashala: rival
-    passshrinebrahmins: aligned
+    passshrineushtakas: aligned
     thresholdkeepers: aligned
     chayavrata: nemesis
 packFolder: pantheonsvarnaka
@@ -152,7 +152,7 @@ The Council is the sect's ruling body and, by an authority nobody granted it and
 
 That single rule is why Vedyara looks, to an outsider, as though its priests hold a monopoly on power they have never actually claimed. They hold a monopoly on speaking for a god, which is a smaller thing and a much more defensible one.
 
-**What it licenses.** The [[affiliation-thresholdkeepers|Threshold-keepers]] hold their license from the Council and their warrants from the polities, and the Council has never issued a license for a third use beyond inheritance and unwitnessed killing. The [[affiliation-passshrinebrahmins|Pass-Shrine Brahmins]] are licensed without ever having been examined, and the Council has declined, for as long as anyone can find a record of the question, to send anyone up to examine them.
+**What it licenses.** The [[affiliation-thresholdkeepers|Threshold-keepers]] hold their license from the Council and their warrants from the polities, and the Council has never issued a license for a third use beyond inheritance and unwitnessed killing. The [[affiliation-passshrineushtakas|Pass-Shrine Ushtakas]] are licensed without ever having been examined, and the Council has declined, for as long as anyone can find a record of the question, to send anyone up to examine them.
 
 **What it condemns without pursuing.** The [[affiliation-chayavrata|Chaya-vrata]] is outside the schools and works in no god's name at all, which is precisely what makes the sanction unusable: the vow does not claim, so there is nothing to strike at. The Council states the condemnation and leaves the pursuit to courts that cannot find anyone to try.
 
