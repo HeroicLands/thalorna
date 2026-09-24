@@ -20,13 +20,13 @@ data:
   governance:
     model: council
     summary: >-
-      This god has no priesthood of its own. Varṇaka ordains into a sampradāya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to the shaping of the world, inspired by the Shilpa-Kalas, the crafting spirits who move mortals to art, architecture and innovation, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
+      This god has no priesthood of its own. Varnaka ordains into a sampradāya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to the shaping of the world, inspired by the Shilpa-Kalas, the crafting spirits who move mortals to art, architecture and innovation, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
     ranks:
       - level: 0
         title: Patita
         lore: excmmnctrnk
         description: >-
-          "Fallen"—put out of Varṇakan observance altogether, and received again by no house and no sampradāya.
+          "Fallen"—put out of Varnakan observance altogether, and received again by no house and no sampradāya.
       - level: 1
         title: Upāsaka
         lore: layfaithfulrnk
@@ -67,9 +67,9 @@ sohl: {}
 - **Domain:** Creation, cosmic order, architecture, the founding of cities
 - **Symbol:** A lotus with golden petals
 - **Pronunciation:** _VYAH-len-drah_
-- **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
+- **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-Vyālendra is the architect of existence. He gave shape to the earth, the skies and all living things, and he gives shape to every new work of human making. Varṇakan theology holds that every founded city, every raised temple, every dedicated bridge and irrigation channel repeats the original act of cosmic shaping in miniature. To build well is to serve Vyālendra; to build poorly is to mar the pattern the world itself was made from.
+Vyālendra is the architect of existence. He gave shape to the earth, the skies and all living things, and he gives shape to every new work of human making. Varnakan theology holds that every founded city, every raised temple, every dedicated bridge and irrigation channel repeats the original act of cosmic shaping in miniature. To build well is to serve Vyālendra; to build poorly is to mar the pattern the world itself was made from.
 
 Worship of Vyālendra is strongest in the cities of [[place-vedyarargn|Vedyara Region]], where he is invoked at the founding of settlements, the laying of foundations, and the consecration of public works. Master architects, temple-builders, and the guilds of masons and engineers all maintain household shrines to Vyālendra, and no major work of construction is begun without the rites appropriate to the god.
 
@@ -98,6 +98,6 @@ In Vyāndran households a small lotus-medallion hangs above the threshold, and t
 
 ### See Also
 
-- [[affiliation-varakpnthn|Varṇaka Pantheon]]
+- [[affiliation-varakpnthn|Varnaka Pantheon]]
 - [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]]—the orthodox tri-form tradition, which venerates Vyālendra as the shaper alongside Mahájaya and Rásikara
 - [[affiliation-vyalendravada|Vyālendravāda]]—the monistic sect that holds Vyālendra as the supreme deity from whom all others emanate

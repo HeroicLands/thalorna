@@ -21,13 +21,13 @@ data:
   governance:
     model: council
     summary: >-
-      This god has no priesthood of its own. Varṇaka ordains into a sampradāya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to purgation by fire, served by the Agni-Pralayas, the spirits of purging flame, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
+      This god has no priesthood of its own. Varnaka ordains into a sampradāya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to purgation by fire, served by the Agni-Pralayas, the spirits of purging flame, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
     ranks:
       - level: 0
         title: Patita
         lore: excmmnctrnk
         description: >-
-          "Fallen"—put out of Varṇakan observance altogether, and received again by no house and no sampradāya.
+          "Fallen"—put out of Varnakan observance altogether, and received again by no house and no sampradāya.
       - level: 1
         title: Upāsaka
         lore: layfaithfulrnk
@@ -67,11 +67,11 @@ sohl: {}
 - **Domain:** Fire, transformation, purging destruction, the rebirth that follows ruin
 - **Symbol:** A flame rising from a broken circle
 - **Pronunciation:** _RAH-see-kah-rah_
-- **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
+- **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
 Rásikara is the god of fire and of the change fire compels. He is the burning that strips away corruption and the kindling that starts new growth. [[affiliation-mahajaya|Mahájaya]] preserves and [[affiliation-vyalendra|Vyālendra]] shapes; Rásikara breaks.
 
-The Varṇakan faith holds the breaking sacred. Without the forest-fire there is no green flush of new shoots; without the fever no end to sickness; without the cremation no release of the soul from what it has been. Rásikara is venerated for courage, the courage to meet what must be destroyed with the fire proper to the task.
+The Varnakan faith holds the breaking sacred. Without the forest-fire there is no green flush of new shoots; without the fever no end to sickness; without the cremation no release of the soul from what it has been. Rásikara is venerated for courage, the courage to meet what must be destroyed with the fire proper to the task.
 
 Rásikara's shrines are often kept at the edge of cities and at the cremation grounds. His devotees include ascetics, warriors, healers of wasting diseases, and the keepers of the cremation-fires.
 
@@ -101,6 +101,6 @@ Rásikaran households keep an unbroken hearth-flame carried forward from parent 
 
 ### See Also
 
-- [[affiliation-varakpnthn|Varṇaka Pantheon]]
+- [[affiliation-varakpnthn|Varnaka Pantheon]]
 - [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]]—the orthodox tri-form tradition, which venerates Rásikara as destroyer-renewer alongside Vyālendra and Mahájaya
 - [[affiliation-agnipantha|Agnī-panthā]]—the ascetic Rásikara-focused reformist path

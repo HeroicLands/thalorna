@@ -21,13 +21,13 @@ data:
   governance:
     model: council
     summary: >-
-      This god has no priesthood of its own. Varṇaka ordains into a sampradāya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to love and its keeping, marked at the doorpost each morning and between newly-weds on the wedding night and each anniversary after, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
+      This god has no priesthood of its own. Varnaka ordains into a sampradāya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to love and its keeping, marked at the doorpost each morning and between newly-weds on the wedding night and each anniversary after, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
     ranks:
       - level: 0
         title: Patita
         lore: excmmnctrnk
         description: >-
-          "Fallen"—put out of Varṇakan observance altogether, and received again by no house and no sampradāya.
+          "Fallen"—put out of Varnakan observance altogether, and received again by no house and no sampradāya.
       - level: 1
         title: Upāsaka
         lore: layfaithfulrnk
@@ -66,13 +66,13 @@ sohl: {}
 - **Domain:** Fertility, desire, the joy of union, the creation of life, the arts of love
 - **Symbol:** A blooming lotus entwined with flowering vines
 - **Pronunciation:** _KAH-mah-vrah-tah_
-- **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
+- **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
 Kāmavrata is the god of desire and of the creative joy that issues from it. He is the patron of lovers, of the newly married and of those hoping for a child. He is patron also of poetry, music, dance, sculpture, the preparation of scented oils and the keeping of gardens, the arts by which the beauty of the world is brought out and celebrated.
 
 The pantheon's theology makes his work the counterpart of [[affiliation-vyalendra|Vyālendra]]'s. Vyālendra gives the world its form and Kāmavrata gives it its delight.
 
-The Kāmavratan tradition is widely loved throughout [[place-vedyarargn|Vedyara Region]]. His shrines stand near gardens and rivers, and his festivals are among the most popular of the year. The clergy are famously welcoming, and many who would not call themselves Varṇakan keep one of his festivals anyway.
+The Kāmavratan tradition is widely loved throughout [[place-vedyarargn|Vedyara Region]]. His shrines stand near gardens and rivers, and his festivals are among the most popular of the year. The clergy are famously welcoming, and many who would not call themselves Varnakan keep one of his festivals anyway.
 
 ### Aspects
 
@@ -95,4 +95,4 @@ Kāmavratan households hang fresh garlands on the doorpost each morning through 
 
 ### See Also
 
-- [[affiliation-varakpnthn|Varṇaka Pantheon]]
+- [[affiliation-varakpnthn|Varnaka Pantheon]]

@@ -99,9 +99,9 @@ sohl: {}
 - **Deities Venerated:** [[affiliation-vyalendra|Vyālendra]], [[affiliation-mahajaya|Mahájaya]], [[affiliation-rasikara|Rásikara]]—as three faces of a single cosmic truth; lesser gods observed as occasion requires
 - **Emphasis:** Orthodox, balanced veneration of the cosmic triad; civic religion; the foundational tradition of most Vedyaran city-states
 - **Pronunciation:** _Tri-MOOR-tee sum-pra-DAH-yah_
-- **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
+- **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-The **Trimūrti-sampradāya** is the largest and most orthodox of the Varṇakan sects. For most Vedyarans the word "Varṇaka" and the word "Trimūrti" are almost interchangeable. It is the tradition of the great city-temples and the royal courts. Its calendar sets the public year, its high priests advise the city councils, and its rites are invoked at every civic occasion of consequence.
+The **Trimūrti-sampradāya** is the largest and most orthodox of the Varnakan sects. For most Vedyarans the word "Varnaka" and the word "Trimūrti" are almost interchangeable. It is the tradition of the great city-temples and the royal courts. Its calendar sets the public year, its high priests advise the city councils, and its rites are invoked at every civic occasion of consequence.
 
 The sect's doctrine is the **trimūrti** itself. [[affiliation-vyalendra|Vyālendra]]'s shaping, [[affiliation-mahajaya|Mahájaya]]'s preserving and [[affiliation-rasikara|Rásikara]]'s transforming are three aspects of one divine work. No aspect is lesser, and none is complete without the other two. Devotion to any one of the three carries the others in observance.
 

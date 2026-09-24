@@ -20,13 +20,13 @@ data:
   governance:
     model: council
     summary: >-
-      This god has no priesthood of its own. Varṇaka ordains into a sampradāya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to the passage of the dead, whom the Mārgapālas guide along the paths of the afterlife until they reach the gate of rebirth, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
+      This god has no priesthood of its own. Varnaka ordains into a sampradāya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to the passage of the dead, whom the Mārgapālas guide along the paths of the afterlife until they reach the gate of rebirth, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
     ranks:
       - level: 0
         title: Patita
         lore: excmmnctrnk
         description: >-
-          "Fallen"—put out of Varṇakan observance altogether, and received again by no house and no sampradāya.
+          "Fallen"—put out of Varnakan observance altogether, and received again by no house and no sampradāya.
       - level: 1
         title: Upāsaka
         lore: layfaithfulrnk
@@ -67,7 +67,7 @@ sohl: {}
 - **Domain:** Death, the passage of souls, the cycle of reincarnation, the impartial judgment between lives
 - **Symbol:** A black conch shell
 - **Pronunciation:** _KAH-lah-vrah-tah_
-- **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
+- **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
 Kālavrata is a solitary god, the warden of the threshold between the life that has ended and the life that is to come. He is revered throughout [[place-vedyarargn|Vedyara Region]], and the veneration is austere. He demands no devotion, grants no personal favor, and answers no petition for long life or safe passage. He guides the soul from one body to the next, impartially, and the Vedyaran faithful hold him high for it.
 
@@ -99,4 +99,4 @@ Kālavratan households keep no elaborate shrine, and the threshold itself is the
 
 ### See Also
 
-- [[affiliation-varakpnthn|Varṇaka Pantheon]]
+- [[affiliation-varakpnthn|Varnaka Pantheon]]
