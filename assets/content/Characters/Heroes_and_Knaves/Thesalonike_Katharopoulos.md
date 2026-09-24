@@ -642,7 +642,7 @@ Thêsaloníke is driven by a profound love for the forests of her homeland and a
 
 ### Patrons
 
-- **Master Carpenter Eustrátiash Xenakís**: A renowned furniture maker who commissions Thêsaloníke specifically for rare wood projects. He values her craftsmanship and has become a trusted colleague and occasional confidant.
+- **Master Carpenter Eustrátiash Athanaskâr**: A renowned furniture maker who commissions Thêsaloníke specifically for rare wood projects. He values her craftsmanship and has become a trusted colleague and occasional confidant.
 - **The Architects' Collective of the Byzarian League**: A group of progressive builders committed to sustainable construction. They seek Thêsaloníke's timber for high-profile projects and trust her judgment on material selection.
 - **The Monastery of Silent Waters**: A religious community in the forest that employs Thêsaloníke to manage their woodlands sustainably while generating income. The head priest, **Father Damian**, shares her conservation philosophy.
 
@@ -663,7 +663,7 @@ Thêsaloníke is driven by a profound love for the forests of her homeland and a
 
 2. **The Poisoned Forest**: Trees in the northern region begin dying inexplicably. The **Logging Consortium** blames natural causes and seeks to harvest dying trees before they rot. Thêsaloníke's investigation suggests intentional poisoning and discovers evidence pointing toward industrial sabotage or darker forces. Exposing the truth might devastate the region's economy.
 
-3. **The Apprentice Question**: A young woman, **Nargizán Doukás**, seeks to apprentice with Thêsaloníke, claiming spiritual calling and genuine skill. Thêsaloníke would be pleased to teach her, but investigation reveals **Nargizán** may be an infiltrator sent by the **Logging Consortium** to spy on sustainable practices or potentially sabotage Thêsaloníke's work.
+3. **The Apprentice Question**: A young woman, **Nargizán Eudokáhr**, seeks to apprentice with Thêsaloníke, claiming spiritual calling and genuine skill. Thêsaloníke would be pleased to teach her, but investigation reveals **Nargizán** may be an infiltrator sent by the **Logging Consortium** to spy on sustainable practices or potentially sabotage Thêsaloníke's work.
 
 4. **The Lost Technique**: An old woodcutter claims to have knowledge of an ancient **joinery technique** from before the current age—methods that make timber bonds stronger than any current practice. He will only teach Thêsaloníke, but his asking price is that she agree to a dangerous expedition into forbidden forest where these techniques were supposedly lost.
 

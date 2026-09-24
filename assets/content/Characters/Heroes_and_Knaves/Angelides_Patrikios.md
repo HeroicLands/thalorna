@@ -661,7 +661,7 @@ Under the calm exterior runs a current of deep frustration—frustration with th
 
 ### Patrons
 
-- **Sage Glykeriásh Oikonomópoulos**: An elderly herbalist and natural philosopher who recognized the value in Ángelides' approach when the Guild condemned him. She has remained his steadiest advocate and closest confidante, providing both material support and the intellectual partnership that sustains his morale.
+- **Sage Glykeriásh Eulalazûr**: An elderly herbalist and natural philosopher who recognized the value in Ángelides' approach when the Guild condemned him. She has remained his steadiest advocate and closest confidante, providing both material support and the intellectual partnership that sustains his morale.
 
 - **The Village Elder Thom**: A weathered rural leader who employs Ángelides regularly to treat the injuries and illnesses of his village community. Thom fiercely defends Ángelides against official condemnation, having witnessed his effectiveness repeatedly.
 

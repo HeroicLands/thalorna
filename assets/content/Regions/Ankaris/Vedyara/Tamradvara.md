@@ -41,7 +41,7 @@ The arrangement suits everyone who is not a tax-farmer. The crown takes the road
 
 ## What Crosses
 
-Copper and tin north, finished Vindhyan steel north in small quantities and at high prices, lapis and silver south out of the Gorges themselves. It is the most industrial of the six crossings and the least ceremonious. The [[place-pssshrines|Pass-Shrine]] at the summit is a small one, its brahmin is a working priest and no scholar, and caravans have been known to take the blessing at a walk.
+Copper and tin north, finished Vindhyan steel north in small quantities and at high prices, lapis and silver south out of the Gorges themselves. It is the most industrial of the six crossings and the least ceremonious. The [[place-pssshrines|Pass-Shrine]] at the summit is a small one, its ushtaka is a working priest and no scholar, and caravans have been known to take the blessing at a walk.
 
 ## See Also
 
