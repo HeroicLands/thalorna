@@ -562,7 +562,7 @@ Thórir is respected by guards and soldiers, invisible to most nobility, and reg
 
 ### Patrons
 
-**Commander Aelys Gáranth**—The captain of Stormveil castle guard for the past fifteen years. Aelys is a soldier by trade who recognizes Thórir's value and has explicitly protected him from reassignment. She has also quietly agreed to write a strong recommendation for Thórir's retirement, which will secure him the fullest pension. Their relationship is built on practical respect.
+**Commander Aelys Thânandi**—The captain of Stormveil castle guard for the past fifteen years. Aelys is a soldier by trade who recognizes Thórir's value and has explicitly protected him from reassignment. She has also quietly agreed to write a strong recommendation for Thórir's retirement, which will secure him the fullest pension. Their relationship is built on practical respect.
 
 ### Enemies
 

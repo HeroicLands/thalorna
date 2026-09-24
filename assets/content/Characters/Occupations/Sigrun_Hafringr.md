@@ -562,11 +562,11 @@ Sigrún is beloved by the laboring folk of the market square and deeply trusted 
 
 ### Patrons
 
-**Market Master Elyric Réncaris**—The administrator responsible for the market square. Elyric is a fair-minded merchant himself who respects Sigrún's commitment to community protection. He has supported her and seen that her authority is recognized and backed by his office.
+**Market Master Elyric Kírindi**—The administrator responsible for the market square. Elyric is a fair-minded merchant himself who respects Sigrún's commitment to community protection. He has supported her and seen that her authority is recognized and backed by his office.
 
 ### Enemies
 
-**Merchant Magnate Verath Elárven**—A wealthy merchant who has been systematically buying up small shops in the market district and consolidating them under his control. Sigrún recognizes this process as similar to what destroyed her family and has actively opposed him. Verath views her as an obstacle and is working to have her reassigned or dismissed from the market square.
+**Merchant Magnate Verath Rônondi**—A wealthy merchant who has been systematically buying up small shops in the market district and consolidating them under his control. Sigrún recognizes this process as similar to what destroyed her family and has actively opposed him. Verath views her as an obstacle and is working to have her reassigned or dismissed from the market square.
 
 ## Plot Hooks
 
