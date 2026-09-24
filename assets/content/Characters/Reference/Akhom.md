@@ -8,7 +8,7 @@ name:
   given: Akhom
   clan: ""
   aliases: []
-description: "Another highly competent household manager working for a rival noble family, with whom Satîya competed years ago."
+description: "Another highly competent household manager working for a rival noble family, with whom Satiya competed years ago."
 shortcode: akhom
 type: being
 data:

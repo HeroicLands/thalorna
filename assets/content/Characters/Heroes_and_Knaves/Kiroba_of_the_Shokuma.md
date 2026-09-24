@@ -673,7 +673,7 @@ Kiroba is cautious of outsiders and does not trust easily, particularly those fr
 ### Affiliations
 
 - **[[being-eshewamagr|Eshe wa Magara]]**: When her village began suffering from the same spiritual imbalance plaguing the Shókuma lands, she decided to join Kiroba, believing their fates are tied in restoring balance.
-- **[[being-isaretkskr|Isaret Ka'Seker]]**: After uncovering secret experiments to disrupt the spiritual balance, Isaret fled Ta’Kheperu and sought out Kiroba, hoping that together they could restore the balance.
+- **[[being-isaretkskr|Isaret Ka'Sekeru]]**: After uncovering secret experiments to disrupt the spiritual balance, Isaret fled Ta’Kheperu and sought out Kiroba, hoping that together they could restore the balance.
 
 ## Plot Hooks
 

@@ -202,7 +202,7 @@ Kheperi nobility uses a titling system distinct from the western Ankarian conven
 - **Nebet**—a general title of respect for a woman of noble rank, used for courtiers, high-ranking priestesses, and noblewomen whose authority derives from court position rather than direct landholding. Roughly equivalent to "Lady."
 - **Semer**—"companion" or "friend of the Per-Aá," an honorific title for trusted courtiers and advisors. It indicates royal favor and access rather than territorial authority.
 
-In address, the title precedes the personal name: Haty'a Her'sa'îs, Nebet'hut Taminra, Semer Nakhtar. The Kheperi consider the western practice of placing the title after the family name to be charmingly backward.
+In address, the title precedes the personal name: Haty'a Hersaîs, Nebet'hut Taminra, Semer Nakhtar. The Kheperi consider the western practice of placing the title after the family name to be charmingly backward.
 
 Women in Ta'Kheperu enjoy significantly more legal rights than their counterparts in most of western [[place-ankrscntnnt|Ankaris Continent]]. Kheperi women can own property, initiate divorce, serve as priestesses (including in high offices), practice medicine and magic, and conduct business independently. The theological basis for this relative equality is the [[affiliation-kemtnpnthn|Íšét]] tradition, which holds that creation requires the balanced partnership of masculine and feminine divine principles. Several of the most capable rulers in Kheperi history have been queens who governed as Per-Aá in their own right.
 

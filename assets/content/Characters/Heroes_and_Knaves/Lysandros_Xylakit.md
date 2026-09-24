@@ -1,23 +1,25 @@
 ---
 tags:
   - heroes-and-knaves
-  - soldiery
+  - guilded
+  - tradesfolk
   - character
 name:
-  full: Arkádios Philomédis
+  full: Lysándros Xylákit
   title: ""
-  given: Arkádios
-  clan: Philomédis
-  home: chrysamar
+  given: Lysándros
+  clan: Xylákit
+  home: selimara
   aliases: []
 packFolder: helladbyzaria
-shortcode: arkdsphlmds
+shortcode: lysndrsxylkt
+renamedFrom: lysndrschrysnthpls
 type: being
 data:
   icon: icon-person
   templatePriority: null
   archetypes: []
-  occupation: Mercenary
+  occupation: Timberwright
   stations: []
   lore:
     - commonerrnk
@@ -27,94 +29,109 @@ data:
     - byzarianlg
   gender: male
   species: null
-  age: 45
-  born: 675/4/2
-  height: 1.93
-  weight: 88.9
+  age: 48
+  born: 672/2/6
+  height: 1.91
+  weight: 84.8
   frame: heavy
   appearance:
-    eye_color: dark_brown
-    hair_color: black
+    eye_color: brown
+    hair_color: dark_brown
     skin_color: tanned
     complexion: weathered
-    extra_features:
-      - a tattoo of a serpent on the back
+    extra_features: []
 sohl:
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 17 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-wil, system: { scoreBase: 13 } }
     - { model: sohl-sohl-attribute-rea, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 8 } }
     - { model: sohl-sohl-attribute-mor, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 11 } }
     - { model: affiliation-janus }
+    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 26 } }
     - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 52 } }
-    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 12 } }
-    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 48 } }
-    - { model: sohl-sohl-skill-pfmy, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 52 } }
-    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-mrcn, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 27 } }
     - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 22 } }
-    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 22 } }
-    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 33 } }
-    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 55 } }
-    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 10 } }
-    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-skill-trak, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 42 } }
-    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 44 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-fish, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-timb, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 22 } }
     - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 11 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 33 } }
-    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 10 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 24 } }
     - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 65 } }
-    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 55 } }
-    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 48 } }
-    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 11 } }
-    - { model: sohl-sohl-skill-hide, system: { masteryLevelBase: 12 } }
-    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-skill-mill, system: { masteryLevelBase: 15 } }
-    - { model: sohl-sohl-skill-musc, system: { masteryLevelBase: 24 } }
-    - { model: sohl-sohl-skill-wpnc, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-weapongear-baxe }
-    - { model: sohl-sohl-weapongear-knsh }
-    - { model: sohl-sohl-armorgear-plbreast }
-    - { model: sohl-sohl-armorgear-plgrvs }
-    - { model: sohl-sohl-armorgear-plkncp }
-    - { model: sohl-sohl-armorgear-plspld }
-    - { model: sohl-sohl-armorgear-plvamb }
-    - { model: sohl-sohl-armorgear-pl34hlm }
-    - name: Healing poultices (field dressings)
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-txtl, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-wood, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-weapongear-waxe }
+    - { model: sohl-sohl-armorgear-ltvest }
+    - { model: sohl-sohl-armorgear-wshirt }
+    - { model: sohl-sohl-armorgear-wbrch }
+    - { model: sohl-sohl-armorgear-wcap }
+    - { model: sohl-sohl-armorgear-ltshoe }
+    - name: Saw (crosscut, well-maintained)
       type: miscgear
       system:
-        shortcode: healingpoultices
-        quantity: 6
-        value: 4
+        shortcode: saw
         weight: 1
+        value: 100
         durability: 3
-    - { model: sohl-sohl-miscgear-hvybdrl }
-    - { model: sohl-sohl-miscgear-hvyblkt }
-    - { model: sohl-sohl-miscgear-stdrtns, system: { quantity: 3 } }
-    - { model: sohl-sohl-containergear-wtrskin }
+    - name: Measuring rope and timber gauges
+      type: miscgear
+      system:
+        shortcode: measuringrope
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Woodcarving knives (set of 5, various sizes)
+      type: miscgear
+      system:
+        shortcode: woodcarvingknives
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Whetstones for blade sharpening
+      type: miscgear
+      system:
+        shortcode: whetstonesforblade
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Chalk for timber marking
+      type: miscgear
+      system:
+        shortcode: chalkfortimber
+        weight: 1
+        value: 100
+        durability: 3
     - { model: sohl-sohl-miscgear-tndrbx }
-    - name: Personal seal and insignia
-      type: miscgear
-      system:
-        shortcode: personalseal
-        value: 2
-        weight: 1
-        durability: 3
+    - { model: sohl-sohl-miscgear-torch }
+    - { model: sohl-sohl-miscgear-frtns, system: { quantity: 5 } }
     - { model: sohl-sohl-containergear-backpk }
   system:
     body:
@@ -579,81 +596,78 @@ sohl:
 
 # Appearance {#appearance}
 
-![[arkdsphlmds|Arkádios Philomédis]]{float: top-left}
+![[lysndrsxylkt|Lysándros Xylákit]]{float: top-left}
 
-Arkádios stands 6'4" tall with a heavy build. He has tanned weathered skin, black hair, and dark brown eyes. His features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a serpent on the back.
+Lysándros stands 6'3" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a prominent nose, a pointed chin, an expressive mouth, dark brows.
 
 # Dossier {#dossier}
 
 ## Background
 
-### Blood and Training
+### The Woodwright's Inheritance
 
-Born to a modest trading family in the [[affiliation-byzarianlg|Byzarian League]], Arkádios showed early aptitude for violence—an unfortunate gift in a peaceful child. At fourteen, his parents, despairing of his tendency to solve every problem through physical domination, contracted him to the Silver Vipers as an apprentice. The company refined his raw ferocity into disciplined lethality, and Arkádios discovered that mercenary life suited his nature perfectly. No moral ambiguity here—kill those you're hired to kill, protect those you're paid to protect, and ask no unnecessary questions.
+Lysándros was born into the Xylákit family timber operation, one of three sons destined to carry on the craft that had sustained the family for five generations. Unlike his brothers, who sought advancement through the merchants' guilds and political connections, young Lysándros felt most at home among the ancient forests of the Byzarian League's northern reaches. His father recognized in him a purity of purpose—the boy did not work with wood to gain wealth or status, but because the work itself called to something fundamental in his nature. By his twentieth year, Lysándros had already become known as a master of felling technique, able to read a tree's grain and structure to predict how it would fall with uncanny precision.
 
-### The Rise of the Silver Vipers
+### The Catastrophe and Reclamation
 
-For twenty years, Arkádios rose through the Vipers' ranks, distinguishing himself through an almost supernatural combination of courage and strategic brilliance. He commanded the Viper Guard, an elite unit of fifty warriors who never suffered a contracted defeat. Battles were won not through superior numbers but through Arkádios's capacity to identify a foe's psychological weaknesses and exploit them ruthlessly. He became known as "the Serpent's Head"—the decisive instrument of the Vipers' will.
+At thirty years of age, Lysándros made a decision that would isolate him forever from his family's business empire. When the other two brothers sought to sell vast tracts of old-growth forest to a consortium of foreign merchants and corrupt guild members—a transaction that would maximize profit but devastate the woodlands for generations—Lysándros refused to participate. He openly broke with family and guild alike, choosing instead to establish a small, independent operation at the edge of the claimed timberlands. For eighteen years, he has worked alone or with hired hands, managing the forests with a shepherd's care. He fells only what is necessary, plants carefully, and refuses to work with merchants who demand the slash-and-burn methods of corporate harvest. This has made him a pariah among many guild members and a legend among those who believe timber can be harvested with conscience.
 
-### The Dissolution and After
+### Present Solitude
 
-When the Silver Vipers disbanded fifteen years ago amid rumors of internal schisms and a catastrophically failed contract, Arkádios found himself adrift. Rather than attach himself to another company as a subordinate officer, he established independent operations, taking contracts directly from nobles, merchant houses, and foreign powers. His small but perfectly trained force—never exceeding twenty warriors—commands premium wages. More importantly, working independently allows him to be selective about his contracts, a luxury his growing conscience increasingly demands.
+Now operating out of a modest workshop deep in the borderlands, Lysándros has become both renowned and mysterious. Carpenters and builders across the realm seek his wood, knowing that timber bearing his mark will outlast ordinary materials by decades. He takes few contracts, sets his own terms, and speaks little of his methods or his past. He has never married, never sought position or power, and never expressed ambition beyond mastering his craft and passing it onward to worthy apprentices. The forest has become his monastery, his workshop his temple, and the sound of his axe against ancient wood the only conversation he truly desires.
 
 ## Psyche
 
 ### Personality
 
-Arkádios maintains an exterior of professional detachment bordering on coldness, viewing emotional engagement as a liability in his line of work. He speaks in measured tones, choosing words with military precision. Subordinates respect him without quite liking him—he is neither cruel nor generous, simply efficient.
-
-Beneath this controlled exterior, however, Arkádios wrestles with the accumulated weight of his choices. Each contract leaves a small scar on his conscience, and the older he grows, the more these scars itch. He drinks more than is healthy, and his nights are often sleepless. Those few who have earned his trust see glimpses of a man fundamentally troubled by what he has become—a man wondering if a lifetime of warfare can ever be balanced by acts of mercy.
+Lysándros is a man of profound silence, but his quiet is not that of shyness—it is the quietude of someone entirely content with his own thoughts. He speaks only when necessary, and then with brutal honesty that others often find uncomfortable. He does not gossip, does not engage in small talk, and shows no interest in the petty affairs of town or guild politics. Yet beneath his gruff exterior lies a subtle humor, dry and sharp, that emerges rarely but unforgettably when least expected. He treats those who respect his work and his methods with consistent fairness, though never with warmth. Younger apprentices sometimes find him stern, but those who persist in studying under him discover that his apparent coldness masks a deep commitment to their development. He judges people by their work ethic and integrity alone; social status means nothing to him.
 
 ### Motivation
 
-Arkádios no longer fights merely for gold, though he insists this to himself and others. Rather, he seeks validation that his skills, his terrible capabilities, serve some larger purpose beyond accumulating wealth. He chooses contracts that feel defensible—protecting the innocent from bandits, crushing criminal organizations, defending borders from invasion. He refuses work that targets civilians or involves slavery. These self-imposed restrictions frustrate his more ambitious peers but represent Arkádios's private attempt to build a moral framework within an immoral profession. Deep down, he fears that redemption is impossible, but this fear drives him forward, searching for contracts that might prove him wrong.
+Lysándros seeks to prove that there is a way to live in the world without compromising principle for profit. He views the forest not as a resource to be exploited but as a living entity worthy of stewardship and respect. His driving ambition—if so measured a term can be applied to his restrained nature—is to establish a genuine legacy: a forest that, after his death, will continue to be managed responsibly by those he has trained. He also harbors a quiet anger at the guild's greed and corruption, and takes satisfaction in every contract he fulfills with timber superior to anything his brothers can produce through their rapacious methods.
 
 ### Strengths
 
-- **Master of Blades and Strategy**: Arkádios's combat skills are legendary throughout the League. His understanding of battlefield tactics, feint and counter, formation and breakpoint, gives him advantages independent of physical strength.
-- **Exceptional Physical Prowess**: Strength, endurance, and agility combine with the tactical discipline to make him nearly unstoppable in direct confrontation. Few living swordsmen could match him.
-- **Unflappable Command Presence**: Soldiers fight harder and with greater courage under Arkádios's command. His reputation for never losing a contract creates confidence that borders on the supernatural.
-- **Intricate Knowledge of Warfare**: His deep expertise in military strategy, fortification assessment, and tactical deception makes him invaluable in siege situations and complex military engagements.
-- **Network of Mercenary Contacts**: Decades in the profession have given him connections throughout the League and beyond—intelligence sources, safe houses, and allies in unexpected places.
+- **Master Timbercraft**: His knowledge of wood—its properties, grain, applications, and secrets—is encyclopedic. No flaw escapes his eye, and timber he selects will endure centuries.
+- **Exceptional Physical Strength**: While not trained in combat, his raw strength is formidable; he can fell or move timber others require teams to handle.
+- **Seamanship and Navigation**: His youth included work in maritime trade; he understands water currents, vessel construction, and the peculiar demands of seafaring craft.
+- **Wilderness Survival**: In forest or mountain, he is entirely self-sufficient, able to subsist on game, plants, and resources others would overlook.
+- **Absolute Reliability**: Lysándros keeps his word with a consistency that borders on compulsion. When he agrees to a contract, it will be executed exactly as specified.
 
 ### Weaknesses
 
-- **Moral Burden**: The accumulating weight of questionable decisions haunts him. He second-guesses choices, hesitates at crucial moments, and suffers from terrible nightmares.
-- **Limited Diplomatic Skills**: His tendency toward bluntness and his difficulty with emotional intelligence make him a poor negotiator outside of strictly military matters. Business deals often require intermediaries.
-- **Growing Cynicism**: His increasing doubt about the nature of his work sometimes manifests as paralysis. He becomes unable to commit to new contracts, wondering if he is simply becoming a tool of others' ambitions.
-- **Physical Decline**: At forty-five, Arkádios's reflexes, though still exceptional, no longer possess the superhuman quickness of his youth. Younger fighters are beginning to match him.
-- **Isolation**: His profession and temperament have left him without close relationships. This loneliness, in moments of weakness, nearly overwhelms him.
+- **Social Incompetence**: He struggles profoundly with social conventions, formal gatherings, and diplomatic situations; his blunt nature often causes offense unintentionally.
+- **Inability to Delegate**: He trusts few enough to work alongside him, and even then with difficulty; this limits his capacity to take on larger projects.
+- **Emotional Rigidity**: He struggles to understand or accommodate emotional needs in others; his response to human distress is often pragmatic to the point of callousness.
+- **Inflexibility in Principle**: While his moral stance is admirable, he refuses work on principle even when circumstances might justify compromise, limiting his income and influence.
+- **Limited Combat Ability**: Despite his strength, he has no training in weapons or warfare; a skilled fighter would overwhelm him despite his physical superiority.
 
 ## Social
 
 ### Patrons
 
-- **Lord Commander Vasilis of the [[place-eastrnmrch|Eastern March]]**: A powerful nobleman who contracts Arkádios whenever border security becomes critical. They maintain a relationship of mutual respect spanning two decades.
-- **Merchant Consortium of the Golden Coast**: Several trading families maintain Arkádios under retainer for protection against piracy and rival merchant houses. The payments are generous but steady.
-- **Duke Stávron Pylíkot**: An aging but still-powerful aristocrat who employs Arkádios for sensitive security work, often involving protection from internal conspiracies within the court.
+- **Master Castellan Atashíkon**: The governor of the northern territories values Lysándros's timber for both fortification work and shipbuilding, and tacitly protects him from guild persecution in exchange for preferential contracts.
+- **Lady Serena of House Thálassos**: A wealthy widow who has commissioned Lysándros to restore and rebuild her ancestral estate using only timber that meets his exacting standards, earning his respect through her patience and refusal to rush his work.
 
 ### Enemies
 
-- **Kael the Dirge, Captain of the Crimson Wolves**: A rival mercenary company leader whose contract was chosen over his own by a major client. Kael harbors deep resentment and seeks opportunities to undermine Arkádios's reputation.
-- **The Shadow Syndicate**: A criminal organization whose operations Arkádios destroyed on behalf of a client five years ago. Several high-ranking members survive and hunger for vengeance.
+- **The Xylákit Family Enterprise**: His own blood relatives, now wealthy guild magnates, view him as both a moral rebuke and an economic competitor whose existence challenges their monopoly on timber contracts.
+- **Guild Master Sozomáhr the Ruthless**: The current head of the Timberwrights' Guild marked Lysándros for subtle destruction long ago; his independent success is an open wound to guild authority and profit.
 
 ### Affiliations
 
-- **The Byzarian League**: Citizen in good standing, though his mercenary status makes him somewhat of an outsider in traditional society.
-- **The Independent Mercenary Council**: A loose association of mercenary captains who maintain professional standards and negotiate pay rates. Arkádios holds significant influence.
-- **The Order of Jánus (Order Aspect)**: A practicing worshipper who attends temples regularly, finding the god's emphasis on structure and discipline spiritually resonant with his own worldview.
+- **The Timberwrights' Guild** (estranged member): Though technically still registered, he operates independently and refuses all guild obligations and contracts.
+- **The Order of the Green Sentinel**: An informal network of environmentally-minded craftspeople and forest wardens who share his philosophy of sustainable harvesting.
+- **The Independent Craftspeople's League**: A loose alliance of artisans who have separated from guild control to maintain quality and principle.
 
 ## Plot Hooks
 
-1. **The Contract Nobody Should Take**: A mysterious client offers Arkádios an astronomical sum—enough to retire in absolute luxury—for a contract so vague and suspicious that every instinct screams danger. The target's identity remains deliberately obscured. As Arkádios investigates, he discovers the true nature of the contract: assassination of a political figure that would trigger a regional war. He must decide whether to accept and execute the contract that would finally provide financial security, or reject it and maintain the moral line he has desperately tried to hold.
+1. **The Ancient Wood of Akkrath**: A legendary caravan is assembling to journey to the deep forests of Akkrath, where a tree of impossible age and size is said to grow—wood so rare and perfect that a single beam could forge a legendary weapon or construct an artifact of power. Lysándros is the only master timberwright with the skill to harvest it without destroying its inherent magical properties, but accepting such a commission would require him to venture into unexplored wilderness while working with a party of adventurers who may not share his values. The journey itself becomes a test of whether his principles can survive contact with genuine temptation.
 
-2. **The Deserter's Daughter**: A young woman approaches Arkádios claiming to be the daughter of **Langárion Kyriákash**, a soldier he fought alongside in the Silver Vipers who deserted the company under mysterious circumstances decades ago. She carries a letter purportedly from her father, begging Arkádios to investigate something hidden in the Vipers' old fortress. Investigation leads to the discovery of a conspiracy that goes to the highest levels of the League—one that both he and Vex were manipulated into participating.
+2. **The Guild's Conspiracy**: Word reaches Lysándros that Guild Master Sozomáhr is planning to declare him an enemy of the Timberwrights' Guild and place a bounty on his head, framing him for sabotaging a major building project. The party must either gather evidence to clear his name, expose Sozomáhr's corruption, or help Lysándros arrange a dramatic confrontation that will decide the guild's future direction. The resolution could reshape the entire merchant and craftspeople structure of the Byzarian League.
 
-3. **The Redemption Contract**: A noble priest of Jánus approaches Arkádios with a contract: protect a refugee camp of displaced civilians from raiders and warlords—with no payment, only spiritual counsel about the possibility of redemption. The contract becomes personal when Arkádios discovers that the camp shelters women and children from a faction he himself once fought for, and his presence there creates dangerous division among the refugees who fear him.
+3. **The Silent Partnership**: A mysterious benefactor offers Lysándros a contract: harvest and deliver timber for a secret construction project deep in the borderlands, pay beyond anything he has ever received, and absolute confidentiality required. As the party works with him on the project, they gradually discover that they are constructing a sanctuary for refugees fleeing political persecution—and that Lysándros has become unwittingly part of a larger resistance network. When powerful forces move to destroy the sanctuary, he must choose between his solitary path and active resistance.
 
-4. **The Immortal Warrior**: During a contract in a remote region, Arkádios encounters a warrior of impossible age—a man who claims to have fought for over two centuries and to recognize Arkádios as his reincarnated rival. The mysterious fighter challenges Arkádios to a series of tests, hinting that survival requires understanding a truth about himself and his past that has been deliberately hidden. The physical and psychological tests force Arkádios to confront the possibility that his memories may be false.
+4. **The Brother's Redemption**: After nearly two decades of estrangement, one of Lysándros's brothers—broken by business failure and family scandal—appears at his workshop seeking reconciliation and asking to apprentice under him. The party becomes tangled in family drama as they work to restore both the brother's competence and their fractured relationship, while guild enemies move to exploit this vulnerability and sever the family bonds entirely.
 
-5. **The Final Battle of the Silver Vipers**: Evidence surfaces suggesting that the Silver Vipers were destroyed not from internal schism as believed, but through deliberate sabotage by someone within the organization. Arkádios, driven by loyalty to his former brothers, begins investigating the truth. This quest draws him into conflict with powerful entities who benefit from the Vipers' destruction and who will do anything to keep the truth buried—including hiring rivals to eliminate him.
+5. **The Forest's Heart**: Lysándros discovers that the ancient forest he has stewarded is home to a dormant spirit or fey entity whose essence is bound into the oldest trees. The entity is dying because of logging operations at the forest's edge (carried out by his own family), and its death will corrupt the entire woodland. He must rally unlikely allies, including perhaps members of the party, to simultaneously protect the forest from destruction and cure the spirit's affliction—a task requiring both direct action and the kind of diplomacy Lysándros is least equipped to provide.

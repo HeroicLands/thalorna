@@ -1,121 +1,145 @@
 ---
 tags:
   - heroes-and-knaves
-  - soldiery
+  - common-folk
   - character
 name:
-  full: Arkádios Philomédis
+  full: Mertep Ankh'Khesu
   title: ""
-  given: Arkádios
-  clan: Philomédis
-  home: chrysamar
-  aliases: []
-packFolder: helladbyzaria
-shortcode: arkdsphlmds
+  given: Mertep
+  clan: Ankh'Khesu
+  home: perankhet
+  aliases:
+    - Mertep AnkhKhes
+packFolder: northernfertileregiontakheperu
+shortcode: mrtpnkhkhs
 type: being
 data:
+  banner: takheperubnr
   icon: icon-person
   templatePriority: null
   archetypes: []
-  occupation: Mercenary
+  occupation: Domestic Servant
   stations: []
   lore:
     - commonerrnk
   homes:
-    - byzariargn
+    - takheperurgn
   affiliations:
-    - byzarianlg
-  gender: male
+    - empirtkhpr
+  gender: female
   species: null
-  age: 45
-  born: 675/4/2
-  height: 1.93
-  weight: 88.9
-  frame: heavy
+  age: 46
+  born: 674/4/9
+  height: 1.83
+  weight: 71.7
+  frame: medium
   appearance:
-    eye_color: dark_brown
-    hair_color: black
-    skin_color: tanned
+    eye_color: brown
+    hair_color: gray
+    skin_color: dark
     complexion: weathered
     extra_features:
-      - a tattoo of a serpent on the back
+      - a tattoo of a bird in flight on the left shoulder
 sohl:
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 17 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 15 } }
     - { model: sohl-sohl-attribute-rea, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-cre, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 11 } }
     - { model: sohl-sohl-attribute-mor, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 10 } }
-    - { model: affiliation-janus }
-    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 52 } }
-    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 12 } }
-    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 48 } }
-    - { model: sohl-sohl-skill-pfmy, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 52 } }
-    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 22 } }
-    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 22 } }
-    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 33 } }
-    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 55 } }
-    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 12 } }
+    - { model: affiliation-horus }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-math, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 27 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 27 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 33 } }
     - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 10 } }
-    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-skill-trak, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-agri, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-fish, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-herb, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 14 } }
     - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 42 } }
-    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 33 } }
     - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 20 } }
-    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 11 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 33 } }
-    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-skill-lgdm, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 18 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 12 } }
     - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 65 } }
-    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 55 } }
-    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 24 } }
     - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 11 } }
-    - { model: sohl-sohl-skill-hide, system: { masteryLevelBase: 12 } }
-    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-skill-mill, system: { masteryLevelBase: 15 } }
-    - { model: sohl-sohl-skill-musc, system: { masteryLevelBase: 24 } }
-    - { model: sohl-sohl-skill-wpnc, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-weapongear-baxe }
-    - { model: sohl-sohl-weapongear-knsh }
-    - { model: sohl-sohl-armorgear-plbreast }
-    - { model: sohl-sohl-armorgear-plgrvs }
-    - { model: sohl-sohl-armorgear-plkncp }
-    - { model: sohl-sohl-armorgear-plspld }
-    - { model: sohl-sohl-armorgear-plvamb }
-    - { model: sohl-sohl-armorgear-pl34hlm }
-    - name: Healing poultices (field dressings)
+    - { model: sohl-sohl-skill-glas, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-hide, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-txtl, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-armorgear-wdress }
+    - { model: sohl-sohl-armorgear-wcap }
+    - { model: sohl-sohl-armorgear-ltshoe }
+    - { model: sohl-sohl-armorgear-wmntl }
+    - name: Household keys (iron, extensive set)
       type: miscgear
       system:
-        shortcode: healingpoultices
-        quantity: 6
-        value: 4
+        shortcode: householdkeys
         weight: 1
+        value: 100
         durability: 3
-    - { model: sohl-sohl-miscgear-hvybdrl }
-    - { model: sohl-sohl-miscgear-hvyblkt }
-    - { model: sohl-sohl-miscgear-stdrtns, system: { quantity: 3 } }
-    - { model: sohl-sohl-containergear-wtrskin }
+    - name: Cleaning tools and implements
+      type: miscgear
+      system:
+        shortcode: cleaningtools
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Aprons (linen, multiple)
+      type: miscgear
+      system:
+        shortcode: aprons
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Cloth bag for supplies
+      type: miscgear
+      system:
+        shortcode: clothbagforsupplies
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Inventory ledger (personal household records)
+      type: miscgear
+      system:
+        shortcode: inventoryledger
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Wax seal (household mark)
+      type: miscgear
+      system:
+        shortcode: waxseal
+        weight: 1
+        value: 100
+        durability: 3
     - { model: sohl-sohl-miscgear-tndrbx }
-    - name: Personal seal and insignia
-      type: miscgear
-      system:
-        shortcode: personalseal
-        value: 2
-        weight: 1
-        durability: 3
-    - { model: sohl-sohl-containergear-backpk }
+    - { model: sohl-sohl-miscgear-torch }
+    - { model: sohl-sohl-miscgear-stdrtns, system: { quantity: 3 } }
+    - { model: sohl-sohl-containergear-bgsmcvs }
   system:
     body:
       structure:
@@ -577,83 +601,78 @@ sohl:
     defaultCombatGroup: null
 ---
 
+**Home:** [[place-perankhet|Per-Ankhet]]
+
 # Appearance {#appearance}
 
-![[arkdsphlmds|Arkádios Philomédis]]{float: top-left}
+![[mrtpnkhkhs|Mertep Ankh'Khesu]]{float: top-left}
 
-Arkádios stands 6'4" tall with a heavy build. He has tanned weathered skin, black hair, and dark brown eyes. His features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a serpent on the back.
+Mertep stands 6'0" tall with a medium build. She has dark weathered skin, gray hair, and brown eyes. Her features include a high-cheekboned face, a straight narrow nose, a gentle jawline, an expressive mouth, high-set brows. A distinguishing mark is a tattoo of a bird in flight on the left shoulder.
 
 # Dossier {#dossier}
 
-## Background
+Mertep was born in one of [[affiliation-empirtkhpr|Ta'Kheperu]]'s coastal villages, the daughter of a fisher woman and a dockworker. As a young girl, she witnessed the great Iteru inundation and the fertility cycles that governed her people's lives, learning early the rhythms of labor and duty. At sixteen, she was taken into service by a merchant family's household, initially as a laundress. Her natural gifts for organization and her quiet authority over other servants led to rapid advancement. By her early twenties, she had been promoted to head housekeeper, a position she maintained for over two decades through sheer competence and an unshakeable commitment to excellence.
 
-### Blood and Training
+The tattoo on her shoulder—a falcon in flight—marks her devotion to Hórús, god of the voyager and horizon. She received it in a moment of youthful rebellion, a secret act of faith and defiance against a former employer who forbade personal religious expression. That same employer is long dead, but Mertep has never regretted the mark, wearing it as a reminder that even servants possess their own dignity and will.
 
-Born to a modest trading family in the [[affiliation-byzarianlg|Byzarian League]], Arkádios showed early aptitude for violence—an unfortunate gift in a peaceful child. At fourteen, his parents, despairing of his tendency to solve every problem through physical domination, contracted him to the Silver Vipers as an apprentice. The company refined his raw ferocity into disciplined lethality, and Arkádios discovered that mercenary life suited his nature perfectly. No moral ambiguity here—kill those you're hired to kill, protect those you're paid to protect, and ask no unnecessary questions.
-
-### The Rise of the Silver Vipers
-
-For twenty years, Arkádios rose through the Vipers' ranks, distinguishing himself through an almost supernatural combination of courage and strategic brilliance. He commanded the Viper Guard, an elite unit of fifty warriors who never suffered a contracted defeat. Battles were won not through superior numbers but through Arkádios's capacity to identify a foe's psychological weaknesses and exploit them ruthlessly. He became known as "the Serpent's Head"—the decisive instrument of the Vipers' will.
-
-### The Dissolution and After
-
-When the Silver Vipers disbanded fifteen years ago amid rumors of internal schisms and a catastrophically failed contract, Arkádios found himself adrift. Rather than attach himself to another company as a subordinate officer, he established independent operations, taking contracts directly from nobles, merchant houses, and foreign powers. His small but perfectly trained force—never exceeding twenty warriors—commands premium wages. More importantly, working independently allows him to be selective about his contracts, a luxury his growing conscience increasingly demands.
+Currently, she serves the household of **Lord Sâbekhotep**, a wealthy official of the second rank. She has managed his domestic affairs for the past twelve years with flawless efficiency. Her position is secure, her authority within the staff absolute, and her life ordered by the rhythms of service.
 
 ## Psyche
 
 ### Personality
 
-Arkádios maintains an exterior of professional detachment bordering on coldness, viewing emotional engagement as a liability in his line of work. He speaks in measured tones, choosing words with military precision. Subordinates respect him without quite liking him—he is neither cruel nor generous, simply efficient.
+Mertep is a woman of few words and fewer flights of fancy. She speaks directly, without elaboration, and expects the same from others. Her standards are exacting—a crooked cushion offends her sense of proper order as much as a theft would—and she enforces these standards with cool displeasure rather than anger. Those who work under her either learn quickly to meet her expectations or seek employment elsewhere. Yet beneath her stern exterior runs a bedrock of fairness; she never punishes unjustly, and she remembers every servant's capabilities and limitations.
 
-Beneath this controlled exterior, however, Arkádios wrestles with the accumulated weight of his choices. Each contract leaves a small scar on his conscience, and the older he grows, the more these scars itch. He drinks more than is healthy, and his nights are often sleepless. Those few who have earned his trust see glimpses of a man fundamentally troubled by what he has become—a man wondering if a lifetime of warfare can ever be balanced by acts of mercy.
+She is neither warm nor cruel, but precisely calibrated. To those who serve well, she shows a kind of respect that approaches affection. She will nurse a sick servant back to health, will ensure a bereaved worker has time to grieve, and will defend her staff fiercely against external criticism. To those who shirk or deceive, she is implacable. Her presence commands obedience not through fear but through the absolute certainty that she will do what she says, expect what is due, and accept nothing less than honesty.
 
 ### Motivation
 
-Arkádios no longer fights merely for gold, though he insists this to himself and others. Rather, he seeks validation that his skills, his terrible capabilities, serve some larger purpose beyond accumulating wealth. He chooses contracts that feel defensible—protecting the innocent from bandits, crushing criminal organizations, defending borders from invasion. He refuses work that targets civilians or involves slavery. These self-imposed restrictions frustrate his more ambitious peers but represent Arkádios's private attempt to build a moral framework within an immoral profession. Deep down, he fears that redemption is impossible, but this fear drives him forward, searching for contracts that might prove him wrong.
+Mertep serves because service is the structure that gives her life meaning. She takes profound satisfaction in creating and maintaining perfect order, in running a household where everything operates with the precision of gears in a watermill. She is driven by pride in her work and by a deep, unexamined belief that a well-ordered household is a reflection of cosmic harmony. She serves Hórús not through flashy piety but through the daily practice of her labor—the voyager god guides travelers across unknown seas, and she guides her household through the uncertain waters of daily life.
+
+She has no ambition to rise beyond her station, nor does she resent her position. She has built a domain of power within the household that is real and substantial; she needs nothing more.
 
 ### Strengths
 
-- **Master of Blades and Strategy**: Arkádios's combat skills are legendary throughout the League. His understanding of battlefield tactics, feint and counter, formation and breakpoint, gives him advantages independent of physical strength.
-- **Exceptional Physical Prowess**: Strength, endurance, and agility combine with the tactical discipline to make him nearly unstoppable in direct confrontation. Few living swordsmen could match him.
-- **Unflappable Command Presence**: Soldiers fight harder and with greater courage under Arkádios's command. His reputation for never losing a contract creates confidence that borders on the supernatural.
-- **Intricate Knowledge of Warfare**: His deep expertise in military strategy, fortification assessment, and tactical deception makes him invaluable in siege situations and complex military engagements.
-- **Network of Mercenary Contacts**: Decades in the profession have given him connections throughout the League and beyond—intelligence sources, safe houses, and allies in unexpected places.
+- **Absolute Household Authority**: Within her domain, Mertep's word is law. She understands every system, every supply chain, every relationship within the estate. She can reorganize the entire household in hours if necessary.
+- **Organizational Genius**: She maintains detailed mental records of inventory, staff schedules, seasonal needs, and long-term planning. Her memory for logistical detail is nearly perfect.
+- **Staff Leadership**: She commands loyalty and fear in equal measure. Servants work harder for Mertep than they do for any other master because they know she will not ask them to work harder than she works herself.
+- **Practical Wisdom**: Her years of service have taught her the solutions to nearly every household problem. Broken pipes, failing harvests, sick animals, interpersonal conflicts—she has seen them all and knows practical responses.
+- **Imperviousness to Corruption**: Mertep cannot be bribed, seduced, or manipulated through her position. She has wealth enough from her salary and has no desire for more.
 
 ### Weaknesses
 
-- **Moral Burden**: The accumulating weight of questionable decisions haunts him. He second-guesses choices, hesitates at crucial moments, and suffers from terrible nightmares.
-- **Limited Diplomatic Skills**: His tendency toward bluntness and his difficulty with emotional intelligence make him a poor negotiator outside of strictly military matters. Business deals often require intermediaries.
-- **Growing Cynicism**: His increasing doubt about the nature of his work sometimes manifests as paralysis. He becomes unable to commit to new contracts, wondering if he is simply becoming a tool of others' ambitions.
-- **Physical Decline**: At forty-five, Arkádios's reflexes, though still exceptional, no longer possess the superhuman quickness of his youth. Younger fighters are beginning to match him.
-- **Isolation**: His profession and temperament have left him without close relationships. This loneliness, in moments of weakness, nearly overwhelms him.
+- **Rigidity in Crisis**: Her reliance on established routine means that unprecedented situations can paralyze her momentarily. She requires time to establish new protocols.
+- **Limited Perspective**: Her entire world is the household and its immediate surroundings. She knows nothing of politics, diplomacy, or the wider world beyond what servants gossip about.
+- **Difficulty with Ambiguity**: Moral complexity and unclear situations frustrate and disturb her. She prefers clear rules and clear consequences.
+- **Lack of Combat Training**: She is strong and quick, but entirely untrained in violence. A trained fighter would defeat her easily despite her physical advantages.
+- **Isolation**: Her position creates a distance between her and actual friendship. Those who work for her cannot also be her equals, and her standards are too high for peers among the serving class.
 
 ## Social
 
 ### Patrons
 
-- **Lord Commander Vasilis of the [[place-eastrnmrch|Eastern March]]**: A powerful nobleman who contracts Arkádios whenever border security becomes critical. They maintain a relationship of mutual respect spanning two decades.
-- **Merchant Consortium of the Golden Coast**: Several trading families maintain Arkádios under retainer for protection against piracy and rival merchant houses. The payments are generous but steady.
-- **Duke Stávron Pylíkot**: An aging but still-powerful aristocrat who employs Arkádios for sensitive security work, often involving protection from internal conspiracies within the court.
+- **Lord Sâbekhotep**: Her employer and the man who has granted her stable, respectful employment for over a decade. Their relationship is professional but based on genuine mutual regard.
+- **The Temple of Hórús at Ta'Kheperu**: She donates a portion of her wages to the temple and receives their blessing in return.
 
 ### Enemies
 
-- **Kael the Dirge, Captain of the Crimson Wolves**: A rival mercenary company leader whose contract was chosen over his own by a major client. Kael harbors deep resentment and seeks opportunities to undermine Arkádios's reputation.
-- **The Shadow Syndicate**: A criminal organization whose operations Arkádios destroyed on behalf of a client five years ago. Several high-ranking members survive and hunger for vengeance.
+- **Kelleret the Steward**: A rival household manager working for a neighboring noble family. The two households are in competition for prestige, and Kelleret has suggested (subtly, through other servants) that Mertep's standards are excessive. Mertep considers Kelleret sloppy and dangerous.
+- **Disgraced Former Servants**: Several individuals whom Mertep dismissed for theft, dishonesty, or incompetence bear her grudges. They tell stories about her severity, though few believe them.
 
 ### Affiliations
 
-- **The Byzarian League**: Citizen in good standing, though his mercenary status makes him somewhat of an outsider in traditional society.
-- **The Independent Mercenary Council**: A loose association of mercenary captains who maintain professional standards and negotiate pay rates. Arkádios holds significant influence.
-- **The Order of Jánus (Order Aspect)**: A practicing worshipper who attends temples regularly, finding the god's emphasis on structure and discipline spiritually resonant with his own worldview.
+- **The Household of Lord Sâbekhotep**: Her primary loyalty and the source of her identity.
+- **The Servants' Mutual Aid Society**: An informal network of household managers and senior servants who share knowledge about household management and mutual protection.
+- **The Temple of Hórús**: A devotional order where she worships and maintains her private religious practice.
 
 ## Plot Hooks
 
-1. **The Contract Nobody Should Take**: A mysterious client offers Arkádios an astronomical sum—enough to retire in absolute luxury—for a contract so vague and suspicious that every instinct screams danger. The target's identity remains deliberately obscured. As Arkádios investigates, he discovers the true nature of the contract: assassination of a political figure that would trigger a regional war. He must decide whether to accept and execute the contract that would finally provide financial security, or reject it and maintain the moral line he has desperately tried to hold.
+1. **The Missing Seal Ring**: Lord Sâbekhotep's personal seal ring, used to authorize documents of significant importance, has disappeared from the household. Only a handful of servants know where it is kept, and Mertep knows them all. Her investigation reveals that one of the servants has been replaced by someone who looks remarkably similar—possibly a twin, possibly something far stranger. Mertep must determine if this is a simple substitution, an act of espionage, or something darker. Meanwhile, Lord Sâbekhotep grows increasingly anxious about the missing ring's implications.
 
-2. **The Deserter's Daughter**: A young woman approaches Arkádios claiming to be the daughter of **Langárion Kyriákash**, a soldier he fought alongside in the Silver Vipers who deserted the company under mysterious circumstances decades ago. She carries a letter purportedly from her father, begging Arkádios to investigate something hidden in the Vipers' old fortress. Investigation leads to the discovery of a conspiracy that goes to the highest levels of the League—one that both he and Vex were manipulated into participating.
+2. **The Poisoned Well**: Several members of the household fall mysteriously ill with symptoms suggesting contamination. Mertep's suspicion falls upon the water supply, but her investigation reveals that the well has been deliberately tampered with. Someone inside the household—someone with access to the sealed storage areas—has done this. The question is why, and more urgently, who? Mertep must identify the saboteur before the illness spreads further, knowing that her discovery will expose the household's vulnerability and possibly bring scandal upon Lord Sâbekhotep.
 
-3. **The Redemption Contract**: A noble priest of Jánus approaches Arkádios with a contract: protect a refugee camp of displaced civilians from raiders and warlords—with no payment, only spiritual counsel about the possibility of redemption. The contract becomes personal when Arkádios discovers that the camp shelters women and children from a faction he himself once fought for, and his presence there creates dangerous division among the refugees who fear him.
+3. **The Visiting Scholar**: A young scholar arrives at the household as a guest of Lord Sâbekhotep's family, claiming to be researching domestic practices in noble households. Mertep finds her oddly inquisitive, asking detailed questions about the household's layout, the servants' relationships, supply routes, and the lord's daily patterns. When Mertep discovers that this scholar is actually an agent working for a competing noble house, she must decide whether to confront the woman, expose her to the lord, or use this discovery to her advantage in the household's internal politics.
 
-4. **The Immortal Warrior**: During a contract in a remote region, Arkádios encounters a warrior of impossible age—a man who claims to have fought for over two centuries and to recognize Arkádios as his reincarnated rival. The mysterious fighter challenges Arkádios to a series of tests, hinting that survival requires understanding a truth about himself and his past that has been deliberately hidden. The physical and psychological tests force Arkádios to confront the possibility that his memories may be false.
+4. **The Lost Child**: A servant girl under Mertep's supervision becomes pregnant and, in desperation, seeks Mertep's help. Custom and law dictate that Mertep should report this to Lord Sâbekhotep immediately. Yet the girl came to her with tears and trust, asking for shelter during the pregnancy and help finding a safe place for the child. Mertep, for the first time in her adult life, must choose between her absolute adherence to order and a human compassion she thought she had long since mastered. Her decision will set her on a path that challenges everything she believes about duty and propriety.
 
-5. **The Final Battle of the Silver Vipers**: Evidence surfaces suggesting that the Silver Vipers were destroyed not from internal schism as believed, but through deliberate sabotage by someone within the organization. Arkádios, driven by loyalty to his former brothers, begins investigating the truth. This quest draws him into conflict with powerful entities who benefit from the Vipers' destruction and who will do anything to keep the truth buried—including hiring rivals to eliminate him.
+5. **The Restoration of the Old Manor**: Lord Sâbekhotep inherits an ancient estate in the provinces, fallen into disrepair for decades, and assigns Mertep the task of restoring it to habitable condition. Arriving at the site with a team of workers, Mertep discovers evidence that the manor was not abandoned naturally—something drove the previous inhabitants away, and not cleanly. Strange symbols are carved into certain thresholds, rooms contain inexplicable arrangements, and the local peasants refuse to work after sunset. Mertep must restore order to a place where order may have been deliberately destroyed, and in doing so, she may uncover secrets that powerful people wish to remain buried.

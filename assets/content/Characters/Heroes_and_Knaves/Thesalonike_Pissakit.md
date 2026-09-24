@@ -1,23 +1,24 @@
 ---
 tags:
   - heroes-and-knaves
-  - soldiery
+  - common-folk
   - character
 name:
-  full: Arkádios Philomédis
+  full: Thêsaloníke Pissákit
   title: ""
-  given: Arkádios
-  clan: Philomédis
-  home: chrysamar
+  given: Thêsaloníke
+  clan: Pissákit
+  home: yesilhan2
   aliases: []
 packFolder: helladbyzaria
-shortcode: arkdsphlmds
+shortcode: thslnkpsskt
+renamedFrom: thslnkkthrpls
 type: being
 data:
   icon: icon-person
   templatePriority: null
   archetypes: []
-  occupation: Mercenary
+  occupation: Woodcutter
   stations: []
   lore:
     - commonerrnk
@@ -25,97 +26,116 @@ data:
     - byzariargn
   affiliations:
     - byzarianlg
-  gender: male
+  gender: female
   species: null
-  age: 45
-  born: 675/4/2
-  height: 1.93
-  weight: 88.9
-  frame: heavy
+  age: 34
+  born: 686/4/24
+  height: 1.78
+  weight: 73.5
+  frame: medium
   appearance:
-    eye_color: dark_brown
-    hair_color: black
-    skin_color: tanned
-    complexion: weathered
-    extra_features:
-      - a tattoo of a serpent on the back
+    eye_color: green
+    hair_color: auburn
+    skin_color: golden
+    complexion: null
+    extra_features: []
 sohl:
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 17 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 9 } }
-    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 10 } }
-    - { model: affiliation-janus }
-    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 52 } }
-    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 12 } }
-    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 48 } }
-    - { model: sohl-sohl-skill-pfmy, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 52 } }
-    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 12 } }
+    - { model: affiliation-lusinia }
+    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-eng, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 33 } }
     - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 22 } }
-    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 22 } }
-    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 33 } }
-    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 55 } }
-    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 10 } }
-    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-skill-trak, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-agri, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-anmcft, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-fish, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-timb, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-trak, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-acro, system: { masteryLevelBase: 13 } }
     - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 42 } }
-    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 24 } }
     - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 11 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 36 } }
     - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 65 } }
-    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 55 } }
-    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 48 } }
-    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 11 } }
-    - { model: sohl-sohl-skill-hide, system: { masteryLevelBase: 12 } }
-    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-skill-mill, system: { masteryLevelBase: 15 } }
-    - { model: sohl-sohl-skill-musc, system: { masteryLevelBase: 24 } }
-    - { model: sohl-sohl-skill-wpnc, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-weapongear-baxe }
-    - { model: sohl-sohl-weapongear-knsh }
-    - { model: sohl-sohl-armorgear-plbreast }
-    - { model: sohl-sohl-armorgear-plgrvs }
-    - { model: sohl-sohl-armorgear-plkncp }
-    - { model: sohl-sohl-armorgear-plspld }
-    - { model: sohl-sohl-armorgear-plvamb }
-    - { model: sohl-sohl-armorgear-pl34hlm }
-    - name: Healing poultices (field dressings)
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-fltch, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-jewl, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-wood, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-weapongear-hcht }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-armorgear-wcoat }
+    - { model: sohl-sohl-armorgear-wbrch }
+    - { model: sohl-sohl-armorgear-ltcboot }
+    - { model: sohl-sohl-armorgear-wcap }
+    - name: Leather satchel for woodworking tools
       type: miscgear
       system:
-        shortcode: healingpoultices
-        quantity: 6
-        value: 4
+        shortcode: leathersatchel
         weight: 1
+        value: 100
         durability: 3
-    - { model: sohl-sohl-miscgear-hvybdrl }
-    - { model: sohl-sohl-miscgear-hvyblkt }
-    - { model: sohl-sohl-miscgear-stdrtns, system: { quantity: 3 } }
-    - { model: sohl-sohl-containergear-wtrskin }
-    - { model: sohl-sohl-miscgear-tndrbx }
-    - name: Personal seal and insignia
+    - name: Hand saw for cutting wood
       type: miscgear
       system:
-        shortcode: personalseal
-        value: 2
+        shortcode: handsawforcutting
         weight: 1
+        value: 100
         durability: 3
+    - name: Rope (coiled)
+      type: miscgear
+      system:
+        shortcode: rope
+        quantity: 2
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Wooden mallet and wedges
+      type: miscgear
+      system:
+        shortcode: woodenmallet
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Sharpening stone and honing tools
+      type: miscgear
+      system:
+        shortcode: sharpeningstone
+        weight: 1
+        value: 100
+        durability: 3
+    - { model: sohl-sohl-miscgear-torch, system: { quantity: 2 } }
+    - { model: sohl-sohl-miscgear-frtns, system: { quantity: 3 } }
     - { model: sohl-sohl-containergear-backpk }
+    - { model: sohl-sohl-containergear-wtrskin }
   system:
     body:
       structure:
@@ -579,81 +599,73 @@ sohl:
 
 # Appearance {#appearance}
 
-![[arkdsphlmds|Arkádios Philomédis]]{float: top-left}
+![[thslnkpsskt|Thêsaloníke Pissákit]]{float: top-left}
 
-Arkádios stands 6'4" tall with a heavy build. He has tanned weathered skin, black hair, and dark brown eyes. His features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a serpent on the back.
+Thêsaloníke stands 5'10" tall with a medium build. She has golden-toned skin, auburn hair, and green eyes. Her features include a diamond-shaped face, a straight nose, a narrow chin, an expressive mouth, arched brows, prominent cheeks.
 
 # Dossier {#dossier}
 
-## Background
+Thêsaloníke was born into the Pissákit family in the heavily forested regions of the **[[affiliation-byzarianlg|Byzarian League]]**, in a village built literally within the forest itself. Her father, **Alexáhran Pissákit**, was a respected woodcutter of modest renown, skilled but not ambitious. Her mother died when Thêsaloníke was young, leaving her father to raise three children with only the forest for support. Where her brothers sought other livelihoods—one became a stonemason, the other a merchant—Thêsaloníke showed early aptitude for woodcraft.
 
-### Blood and Training
+Her father initially resisted teaching her, believing the work unsuitable for a woman. When she was fourteen, he fell from a tree and broke his leg. With no other option and no money for hired help, Thêsaloníke took up his axe and worked the contracts herself. By the time her father healed, she had proven she could do the work as well as any man. Grudgingly, then with pride, her father became her mentor.
 
-Born to a modest trading family in the [[affiliation-byzarianlg|Byzarian League]], Arkádios showed early aptitude for violence—an unfortunate gift in a peaceful child. At fourteen, his parents, despairing of his tendency to solve every problem through physical domination, contracted him to the Silver Vipers as an apprentice. The company refined his raw ferocity into disciplined lethality, and Arkádios discovered that mercenary life suited his nature perfectly. No moral ambiguity here—kill those you're hired to kill, protect those you're paid to protect, and ask no unnecessary questions.
-
-### The Rise of the Silver Vipers
-
-For twenty years, Arkádios rose through the Vipers' ranks, distinguishing himself through an almost supernatural combination of courage and strategic brilliance. He commanded the Viper Guard, an elite unit of fifty warriors who never suffered a contracted defeat. Battles were won not through superior numbers but through Arkádios's capacity to identify a foe's psychological weaknesses and exploit them ruthlessly. He became known as "the Serpent's Head"—the decisive instrument of the Vipers' will.
-
-### The Dissolution and After
-
-When the Silver Vipers disbanded fifteen years ago amid rumors of internal schisms and a catastrophically failed contract, Arkádios found himself adrift. Rather than attach himself to another company as a subordinate officer, he established independent operations, taking contracts directly from nobles, merchant houses, and foreign powers. His small but perfectly trained force—never exceeding twenty warriors—commands premium wages. More importantly, working independently allows him to be selective about his contracts, a luxury his growing conscience increasingly demands.
+Now thirty-four, Thêsaloníke has established herself as a master of her craft. She specializes in the selective harvesting of timber—taking only mature trees and in patterns that sustain the forest rather than strip it. Her reputation for both skill and forestry wisdom has made her sought-after by builders, furniture makers, and increasingly by those concerned with preserving woodland resources. She maintains membership in the **Woodcutters' Guild** but often works independently on specialized contracts.
 
 ## Psyche
 
 ### Personality
 
-Arkádios maintains an exterior of professional detachment bordering on coldness, viewing emotional engagement as a liability in his line of work. He speaks in measured tones, choosing words with military precision. Subordinates respect him without quite liking him—he is neither cruel nor generous, simply efficient.
+Thêsaloníke is a woman of few words but genuine warmth. She expresses herself primarily through her work—perfect joints in furniture, sustainable practices in harvesting, and meticulous craftsmanship in everything she undertakes. She has little patience for idle conversation but will engage in substantive discussion for hours if the topic interests her. With clients and colleagues who show respect for both her work and the forest, she is remarkably generous with her time and knowledge.
 
-Beneath this controlled exterior, however, Arkádios wrestles with the accumulated weight of his choices. Each contract leaves a small scar on his conscience, and the older he grows, the more these scars itch. He drinks more than is healthy, and his nights are often sleepless. Those few who have earned his trust see glimpses of a man fundamentally troubled by what he has become—a man wondering if a lifetime of warfare can ever be balanced by acts of mercy.
+Her stubbornness is legendary among woodcutters, but it is a principled stubbornness rooted in genuine conviction about how forests should be managed. She will not compromise on practices she believes damage long-term sustainability, regardless of how much money she might earn. This has cost her lucrative contracts but has also earned her the deep respect of those who value stewardship over profit.
 
 ### Motivation
 
-Arkádios no longer fights merely for gold, though he insists this to himself and others. Rather, he seeks validation that his skills, his terrible capabilities, serve some larger purpose beyond accumulating wealth. He chooses contracts that feel defensible—protecting the innocent from bandits, crushing criminal organizations, defending borders from invasion. He refuses work that targets civilians or involves slavery. These self-imposed restrictions frustrate his more ambitious peers but represent Arkádios's private attempt to build a moral framework within an immoral profession. Deep down, he fears that redemption is impossible, but this fear drives him forward, searching for contracts that might prove him wrong.
+Thêsaloníke is driven by a profound love for the forests of her homeland and a determination to prove that harvesting timber and preserving forests are not inherently opposed goals. She wants to demonstrate that a woman can master a trade traditionally dominated by men, and that doing so with integrity and wisdom is more valuable than any amount of unethical profit. She also carries a personal mission: to ensure that the practices of careless woodcutters do not destroy the forests her descendants will inherit.
 
 ### Strengths
 
-- **Master of Blades and Strategy**: Arkádios's combat skills are legendary throughout the League. His understanding of battlefield tactics, feint and counter, formation and breakpoint, gives him advantages independent of physical strength.
-- **Exceptional Physical Prowess**: Strength, endurance, and agility combine with the tactical discipline to make him nearly unstoppable in direct confrontation. Few living swordsmen could match him.
-- **Unflappable Command Presence**: Soldiers fight harder and with greater courage under Arkádios's command. His reputation for never losing a contract creates confidence that borders on the supernatural.
-- **Intricate Knowledge of Warfare**: His deep expertise in military strategy, fortification assessment, and tactical deception makes him invaluable in siege situations and complex military engagements.
-- **Network of Mercenary Contacts**: Decades in the profession have given him connections throughout the League and beyond—intelligence sources, safe houses, and allies in unexpected places.
+- **Master Timbercraftsman**: Thêsaloníke's understanding of wood—its properties, growth patterns, and potential—is encyclopedic. She can assess a forest and know immediately which trees should be harvested and which preserved.
+- **Exceptional Strength and Skill**: Her ability to fell a tree exactly as intended, to judge its fall with precision, and to maximize usable timber from each cut is extraordinary. She has never had an accident in decades of work.
+- **Forest Navigation and Knowledge**: She knows the forests of the **Byzarian League** intimately. She can navigate by landmarks invisible to others and can predict seasonal changes and hazards.
+- **Sustainable Practices Expertise**: Her knowledge of forest management and sustainable harvesting is advanced and continually evolving. Architects and builders specifically seek her timber because of its quality and ethical provenance.
+- **Resilience and Endurance**: Decades of hard physical labor have made her remarkably durable. She can work in harsh conditions and recover quickly from exertion.
 
 ### Weaknesses
 
-- **Moral Burden**: The accumulating weight of questionable decisions haunts him. He second-guesses choices, hesitates at crucial moments, and suffers from terrible nightmares.
-- **Limited Diplomatic Skills**: His tendency toward bluntness and his difficulty with emotional intelligence make him a poor negotiator outside of strictly military matters. Business deals often require intermediaries.
-- **Growing Cynicism**: His increasing doubt about the nature of his work sometimes manifests as paralysis. He becomes unable to commit to new contracts, wondering if he is simply becoming a tool of others' ambitions.
-- **Physical Decline**: At forty-five, Arkádios's reflexes, though still exceptional, no longer possess the superhuman quickness of his youth. Younger fighters are beginning to match him.
-- **Isolation**: His profession and temperament have left him without close relationships. This loneliness, in moments of weakness, nearly overwhelms him.
+- **Stubbornness**: Thêsaloníke's principles are admirable but can make her inflexible. She will refuse lucrative contracts on moral grounds, costing herself and potentially her family financially.
+- **Limited Negotiation Skills**: She struggles with business negotiations, often accepting less favorable terms rather than haggle. Her bluntness can offend potential clients in cities where subtlety is valued.
+- **Overexertion Tendency**: In her dedication to completing work properly, Thêsaloníke sometimes pushes herself beyond wise limits, risking injury or illness.
+- **Difficulty with Urban Environments**: She is uncomfortable in cities and formal settings, feeling out of place and slightly contemptuous of those she views as soft or disconnected from honest work.
+- **Risk of Burnout**: The constant weight of sustaining both her livelihood and her principles can be exhausting. She occasionally struggles with despair about the larger forces destroying forests regardless of her efforts.
 
 ## Social
 
 ### Patrons
 
-- **Lord Commander Vasilis of the [[place-eastrnmrch|Eastern March]]**: A powerful nobleman who contracts Arkádios whenever border security becomes critical. They maintain a relationship of mutual respect spanning two decades.
-- **Merchant Consortium of the Golden Coast**: Several trading families maintain Arkádios under retainer for protection against piracy and rival merchant houses. The payments are generous but steady.
-- **Duke Stávron Pylíkot**: An aging but still-powerful aristocrat who employs Arkádios for sensitive security work, often involving protection from internal conspiracies within the court.
+- **Master Carpenter Eustrátiash Athanaskâr**: A renowned furniture maker who commissions Thêsaloníke specifically for rare wood projects. He values her craftsmanship and has become a trusted colleague and occasional confidant.
+- **The Architects' Collective of the Byzarian League**: A group of progressive builders committed to sustainable construction. They seek Thêsaloníke's timber for high-profile projects and trust her judgment on material selection.
+- **The Monastery of Silent Waters**: A religious community in the forest that employs Thêsaloníke to manage their woodlands sustainably while generating income. The head priest, **Father Damian**, shares her conservation philosophy.
 
 ### Enemies
 
-- **Kael the Dirge, Captain of the Crimson Wolves**: A rival mercenary company leader whose contract was chosen over his own by a major client. Kael harbors deep resentment and seeks opportunities to undermine Arkádios's reputation.
-- **The Shadow Syndicate**: A criminal organization whose operations Arkádios destroyed on behalf of a client five years ago. Several high-ranking members survive and hunger for vengeance.
+- **The Logging Consortium of the Byzarian League**: A commercial enterprise that prioritizes profit over sustainability. Their operation manager, **Master Harvester Zarránikos**, views Thêsaloníke as an irritant and has attempted to undercut her contracts.
+- **Corrupt Guild Officials**: Some members of the **Woodcutters' Guild** resent her for raising standards and are occasionally hostile toward her work practices.
+- **Unscrupulous Competing Woodcutters**: Several rivals view her sustainable practices as economically foolish and have spread rumors about her reliability and quality.
 
 ### Affiliations
 
-- **The Byzarian League**: Citizen in good standing, though his mercenary status makes him somewhat of an outsider in traditional society.
-- **The Independent Mercenary Council**: A loose association of mercenary captains who maintain professional standards and negotiate pay rates. Arkádios holds significant influence.
-- **The Order of Jánus (Order Aspect)**: A practicing worshipper who attends temples regularly, finding the god's emphasis on structure and discipline spiritually resonant with his own worldview.
+- **The Woodcutters' Guild of the Byzarian League**: Thêsaloníke maintains membership and serves informally as an advocate for sustainable practices.
+- **The Forest Stewards' Council**: An informal association of woodworkers, builders, and conservationists dedicated to balancing timber harvesting with forest preservation.
 
 ## Plot Hooks
 
-1. **The Contract Nobody Should Take**: A mysterious client offers Arkádios an astronomical sum—enough to retire in absolute luxury—for a contract so vague and suspicious that every instinct screams danger. The target's identity remains deliberately obscured. As Arkádios investigates, he discovers the true nature of the contract: assassination of a political figure that would trigger a regional war. He must decide whether to accept and execute the contract that would finally provide financial security, or reject it and maintain the moral line he has desperately tried to hold.
+1. **The Ancient Grove**: A developer seeks to purchase rights to harvest timber from the oldest forest in the region—a grove so ancient that **druids** are rumored to guard it. Thêsaloníke is approached both by the developer and by forest advocates. Her investigation reveals the grove may contain answers to environmental catastrophes and that powerful forces—both commercial and magical—are manipulating the situation.
 
-2. **The Deserter's Daughter**: A young woman approaches Arkádios claiming to be the daughter of **Langárion Kyriákash**, a soldier he fought alongside in the Silver Vipers who deserted the company under mysterious circumstances decades ago. She carries a letter purportedly from her father, begging Arkádios to investigate something hidden in the Vipers' old fortress. Investigation leads to the discovery of a conspiracy that goes to the highest levels of the League—one that both he and Vex were manipulated into participating.
+2. **The Poisoned Forest**: Trees in the northern region begin dying inexplicably. The **Logging Consortium** blames natural causes and seeks to harvest dying trees before they rot. Thêsaloníke's investigation suggests intentional poisoning and discovers evidence pointing toward industrial sabotage or darker forces. Exposing the truth might devastate the region's economy.
 
-3. **The Redemption Contract**: A noble priest of Jánus approaches Arkádios with a contract: protect a refugee camp of displaced civilians from raiders and warlords—with no payment, only spiritual counsel about the possibility of redemption. The contract becomes personal when Arkádios discovers that the camp shelters women and children from a faction he himself once fought for, and his presence there creates dangerous division among the refugees who fear him.
+3. **The Apprentice Question**: A young woman, **Nargizán Eudokáhr**, seeks to apprentice with Thêsaloníke, claiming spiritual calling and genuine skill. Thêsaloníke would be pleased to teach her, but investigation reveals **Nargizán** may be an infiltrator sent by the **Logging Consortium** to spy on sustainable practices or potentially sabotage Thêsaloníke's work.
 
-4. **The Immortal Warrior**: During a contract in a remote region, Arkádios encounters a warrior of impossible age—a man who claims to have fought for over two centuries and to recognize Arkádios as his reincarnated rival. The mysterious fighter challenges Arkádios to a series of tests, hinting that survival requires understanding a truth about himself and his past that has been deliberately hidden. The physical and psychological tests force Arkádios to confront the possibility that his memories may be false.
+4. **The Lost Technique**: An old woodcutter claims to have knowledge of an ancient **joinery technique** from before the current age—methods that make timber bonds stronger than any current practice. He will only teach Thêsaloníke, but his asking price is that she agree to a dangerous expedition into forbidden forest where these techniques were supposedly lost.
 
-5. **The Final Battle of the Silver Vipers**: Evidence surfaces suggesting that the Silver Vipers were destroyed not from internal schism as believed, but through deliberate sabotage by someone within the organization. Arkádios, driven by loyalty to his former brothers, begins investigating the truth. This quest draws him into conflict with powerful entities who benefit from the Vipers' destruction and who will do anything to keep the truth buried—including hiring rivals to eliminate him.
+5. **The Sanctuary Controversy**: The **Monastery of Silent Waters** reveals that they cannot continue financially sustaining the forest without increased logging operations. Thêsaloníke must either find alternative funding, negotiate with the monastery's leadership to change their economic model, or compromise her principles. Meanwhile, a mysterious benefactor offers to fund the monastery—but with strings attached that Thêsaloníke must discover before accepting.

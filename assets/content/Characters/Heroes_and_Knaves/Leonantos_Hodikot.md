@@ -1,23 +1,26 @@
 ---
 tags:
   - heroes-and-knaves
-  - soldiery
+  - todo
+  - guilded
+  - clergy
   - character
 name:
-  full: Arkádios Philomédis
+  full: Leónantos Hodíkot
   title: ""
-  given: Arkádios
-  clan: Philomédis
+  given: Leónantos
+  clan: Hodíkot
   home: chrysamar
   aliases: []
 packFolder: helladbyzaria
-shortcode: arkdsphlmds
+shortcode: lnntshdkt
+renamedFrom: lnntstrtgpls
 type: being
 data:
   icon: icon-person
   templatePriority: null
   archetypes: []
-  occupation: Mercenary
+  occupation: Priest
   stations: []
   lore:
     - commonerrnk
@@ -28,94 +31,116 @@ data:
   gender: male
   species: null
   age: 45
-  born: 675/4/2
-  height: 1.93
-  weight: 88.9
+  born: 675/4/17
+  height: 1.91
+  weight: 87.5
   frame: heavy
   appearance:
-    eye_color: dark_brown
+    eye_color: brown
     hair_color: black
-    skin_color: tanned
-    complexion: weathered
+    skin_color: light
+    complexion: tanned
     extra_features:
-      - a tattoo of a serpent on the back
+      - a tattoo of a skill and crossbones on the chest
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 17 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 17 } }
     - { model: sohl-sohl-attribute-rea, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 9 } }
-    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 10 } }
-    - { model: affiliation-janus }
-    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 52 } }
-    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 12 } }
-    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 7 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 6 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 14 } }
+    - { model: affiliation-florania }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 28 } }
     - { model: sohl-sohl-skill-pfmy, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 52 } }
-    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 22 } }
-    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 22 } }
-    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 33 } }
-    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 55 } }
-    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 10 } }
-    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-skill-trak, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 42 } }
-    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 13 } }
+    - { model: skill-helnkscrpt, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 27 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 32 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 30 } }
     - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 11 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 33 } }
-    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-lgdm, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 8 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 12 } }
     - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 65 } }
-    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 55 } }
-    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-cmcs, system: { masteryLevelBase: 39 } }
     - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 11 } }
-    - { model: sohl-sohl-skill-hide, system: { masteryLevelBase: 12 } }
-    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-skill-mill, system: { masteryLevelBase: 15 } }
-    - { model: sohl-sohl-skill-musc, system: { masteryLevelBase: 24 } }
-    - { model: sohl-sohl-skill-wpnc, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-weapongear-baxe }
-    - { model: sohl-sohl-weapongear-knsh }
-    - { model: sohl-sohl-armorgear-plbreast }
-    - { model: sohl-sohl-armorgear-plgrvs }
-    - { model: sohl-sohl-armorgear-plkncp }
-    - { model: sohl-sohl-armorgear-plspld }
-    - { model: sohl-sohl-armorgear-plvamb }
-    - { model: sohl-sohl-armorgear-pl34hlm }
-    - name: Healing poultices (field dressings)
+    - { model: sohl-sohl-skill-fltch, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-mysticalability-summ, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-weapongear-whmr }
+    - { model: sohl-sohl-armorgear-psht }
+    - { model: sohl-sohl-armorgear-wtrsr }
+    - { model: sohl-sohl-armorgear-ltshoe }
+    - name: Sacred robes of fire-resistant linen (ceremonial)
       type: miscgear
       system:
-        shortcode: healingpoultices
-        quantity: 6
-        value: 4
-        weight: 1
+        shortcode: sacredrobesoffire
+        weight: 1.5
+        value: 100
         durability: 3
-    - { model: sohl-sohl-miscgear-hvybdrl }
-    - { model: sohl-sohl-miscgear-hvyblkt }
-    - { model: sohl-sohl-miscgear-stdrtns, system: { quantity: 3 } }
-    - { model: sohl-sohl-containergear-wtrskin }
-    - { model: sohl-sohl-miscgear-tndrbx }
-    - name: Personal seal and insignia
+    - name: Leather satchel for ritual items
       type: miscgear
       system:
-        shortcode: personalseal
-        value: 2
-        weight: 1
+        shortcode: leathersatchel
+        weight: 1.5
+        value: 100
+        durability: 3
+    - name: Sacred texts of Flórania (fire aspect)
+      type: miscgear
+      system:
+        shortcode: sacredtexts
+        weight: 1.5
+        value: 200
+        durability: 3
+    - name: Incense and ritual offerings (various)
+      type: miscgear
+      system:
+        shortcode: incenseandritual
+        weight: 1.5
+        value: 100
+        durability: 3
+    - name: Ceremonial firestarter (blessed)
+      type: miscgear
+      system:
+        shortcode: ceremonial
+        weight: 1.5
+        value: 100
+        durability: 3
+    - { model: sohl-sohl-miscgear-tndrbx }
+    - { model: sohl-sohl-miscgear-torch }
+    - name: Fire-blessed ceremonial oil
+      type: miscgear
+      system:
+        shortcode: fireblessed
+        weight: 1.5
+        value: 100
         durability: 3
     - { model: sohl-sohl-containergear-backpk }
+    - { model: sohl-sohl-containergear-bpchmd }
   system:
     body:
       structure:
@@ -579,81 +604,79 @@ sohl:
 
 # Appearance {#appearance}
 
-![[arkdsphlmds|Arkádios Philomédis]]{float: top-left}
+![[lnntshdkt|Leónantos Hodíkot]]{float: top-left}
 
-Arkádios stands 6'4" tall with a heavy build. He has tanned weathered skin, black hair, and dark brown eyes. His features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a serpent on the back.
+Leónantos stands 6'3" tall with a heavy build. He has light tanned skin, black hair, and brown eyes. His features include an oblong face, a prominent nose, a pointed chin, a wide mouth, heavy brows. A distinguishing mark is a tattoo of a skill and crossbones on the chest.
 
 # Dossier {#dossier}
 
 ## Background
 
-### Blood and Training
+### Early Years
 
-Born to a modest trading family in the [[affiliation-byzarianlg|Byzarian League]], Arkádios showed early aptitude for violence—an unfortunate gift in a peaceful child. At fourteen, his parents, despairing of his tendency to solve every problem through physical domination, contracted him to the Silver Vipers as an apprentice. The company refined his raw ferocity into disciplined lethality, and Arkádios discovered that mercenary life suited his nature perfectly. No moral ambiguity here—kill those you're hired to kill, protect those you're paid to protect, and ask no unnecessary questions.
+Leónantos was born to a merchant family in the bustling ports of the Byzarian League, where the salt wind carried tales of distant lands and the sea held no mercy for the weak. Unlike his father, who sought profit in trade, young Leónantos felt the call of something greater—a hunger for battle and dominion. He sought employment as a soldier-for-hire, signing on with coastal mercenary bands that preyed upon merchant vessels and rival settlements. For two decades, he climbed the ranks through cunning and brutality, becoming captain of the _Scarlet Reaver_, a ship feared across the shipping lanes. The skull and crossbones upon his chest was earned in those years, marked upon his flesh as a pirate's bond to his crew.
 
-### The Rise of the Silver Vipers
+### The Calling
 
-For twenty years, Arkádios rose through the Vipers' ranks, distinguishing himself through an almost supernatural combination of courage and strategic brilliance. He commanded the Viper Guard, an elite unit of fifty warriors who never suffered a contracted defeat. Battles were won not through superior numbers but through Arkádios's capacity to identify a foe's psychological weaknesses and exploit them ruthlessly. He became known as "the Serpent's Head"—the decisive instrument of the Vipers' will.
+Yet the sea's endless thirst for blood could never satisfy the deeper yearning in his soul. In his fortieth year, during a tempest that split the heavens and rained fire upon the waves, Leónantos experienced a revelation. The priests of Flórania emerged from the storm's chaos to rescue his dying crew, speaking of divine purpose and the purifying flame of the fire god's aspect. Rather than face judgment for his crimes, Leónantos underwent a profound transformation, surrendering his corsair's life for the priesthood. His warlord's prowess became the Church's instrument, his command of men redirected toward religious authority rather than lawless conquest. Many questioned the sincerity of his conversion, yet none could deny the ferocity with which he now pursued the god's will.
 
-### The Dissolution and After
+### Present Standing
 
-When the Silver Vipers disbanded fifteen years ago amid rumors of internal schisms and a catastrophically failed contract, Arkádios found himself adrift. Rather than attach himself to another company as a subordinate officer, he established independent operations, taking contracts directly from nobles, merchant houses, and foreign powers. His small but perfectly trained force—never exceeding twenty warriors—commands premium wages. More importantly, working independently allows him to be selective about his contracts, a luxury his growing conscience increasingly demands.
+As a high-ranking priest of Flórania's fire aspect, Leónantos serves the Byzarian League as both spiritual guide and military chaplain. He conducts elaborate rituals that bless warriors before battle, communes with fire spirits through esoteric knowledge, and commands respect—and often fear—from military leaders who depend upon his divine counsel. His church offices overlook the harbor where his corsair days began, and he walks the same streets as a shepherd rather than a scourge. Yet the fire that once burned for plunder burns now for conquest of a different kind: the dominion of faith over doubt, and the submission of souls to divine purpose.
 
 ## Psyche
 
 ### Personality
 
-Arkádios maintains an exterior of professional detachment bordering on coldness, viewing emotional engagement as a liability in his line of work. He speaks in measured tones, choosing words with military precision. Subordinates respect him without quite liking him—he is neither cruel nor generous, simply efficient.
-
-Beneath this controlled exterior, however, Arkádios wrestles with the accumulated weight of his choices. Each contract leaves a small scar on his conscience, and the older he grows, the more these scars itch. He drinks more than is healthy, and his nights are often sleepless. Those few who have earned his trust see glimpses of a man fundamentally troubled by what he has become—a man wondering if a lifetime of warfare can ever be balanced by acts of mercy.
+Leónantos is a man of paradox: brutal honesty wed to calculated charm, the fervent believer married to the hardened pragmatist. His decades as a pirate left their mark upon his temperament—he speaks with command, expects obedience, and brooks no contradiction. Yet his conversion was genuine, and this internal struggle between the past and the divine creates a compelling tension. He views weakness with contempt, whether in body or spirit, and shows little patience for those who lack conviction. His laughter is loud and unsettling, his rages terrible to witness. Nevertheless, he possesses an unexpected capacity for mentorship, taking those he deems worthy under his wing and molding them into instruments of the faith. He speaks multiple languages learned in his seafaring days, and his discourse on both theology and tactics can entrance a room.
 
 ### Motivation
 
-Arkádios no longer fights merely for gold, though he insists this to himself and others. Rather, he seeks validation that his skills, his terrible capabilities, serve some larger purpose beyond accumulating wealth. He chooses contracts that feel defensible—protecting the innocent from bandits, crushing criminal organizations, defending borders from invasion. He refuses work that targets civilians or involves slavery. These self-imposed restrictions frustrate his more ambitious peers but represent Arkádios's private attempt to build a moral framework within an immoral profession. Deep down, he fears that redemption is impossible, but this fear drives him forward, searching for contracts that might prove him wrong.
+Leónantos seeks redemption through unwavering service to Flórania, believing that only through perfect obedience and absolute commitment can he expiate the blood on his hands. He also remains convinced that strength, not gentleness, will bring true enlightenment to the masses. His authority over the military and his influence with the priesthood grow year by year, and he harbors ambitions to reshape the Byzarian League's religious and martial character according to his vision of divine order. The fire god has claimed his body; now he seeks to claim the region's soul.
 
 ### Strengths
 
-- **Master of Blades and Strategy**: Arkádios's combat skills are legendary throughout the League. His understanding of battlefield tactics, feint and counter, formation and breakpoint, gives him advantages independent of physical strength.
-- **Exceptional Physical Prowess**: Strength, endurance, and agility combine with the tactical discipline to make him nearly unstoppable in direct confrontation. Few living swordsmen could match him.
-- **Unflappable Command Presence**: Soldiers fight harder and with greater courage under Arkádios's command. His reputation for never losing a contract creates confidence that borders on the supernatural.
-- **Intricate Knowledge of Warfare**: His deep expertise in military strategy, fortification assessment, and tactical deception makes him invaluable in siege situations and complex military engagements.
-- **Network of Mercenary Contacts**: Decades in the profession have given him connections throughout the League and beyond—intelligence sources, safe houses, and allies in unexpected places.
+- **Ritual Mastery**: Leónantos commands arcane knowledge of ceremonial fire magic and spirit communion, rivaling many monks in understanding the esoteric traditions.
+- **Martial Command**: His skill at directing troops and inspiring warriors remains unmatched; soldiers under his blessing fight with legendary ferocity and discipline.
+- **Physical Dominance**: Even at forty-five, his strength and endurance are exceptional, and he wields his warhammer with devastating precision.
+- **Charismatic Authority**: His voice carries weight; people listen, whether from respect or intimidation, and his oratory can sway crowds and convince the doubtful.
+- **Seamanship**: His decades at sea left him intimately knowledgeable about navigation, sail-craft, and the governance of vessels and crews.
 
 ### Weaknesses
 
-- **Moral Burden**: The accumulating weight of questionable decisions haunts him. He second-guesses choices, hesitates at crucial moments, and suffers from terrible nightmares.
-- **Limited Diplomatic Skills**: His tendency toward bluntness and his difficulty with emotional intelligence make him a poor negotiator outside of strictly military matters. Business deals often require intermediaries.
-- **Growing Cynicism**: His increasing doubt about the nature of his work sometimes manifests as paralysis. He becomes unable to commit to new contracts, wondering if he is simply becoming a tool of others' ambitions.
-- **Physical Decline**: At forty-five, Arkádios's reflexes, though still exceptional, no longer possess the superhuman quickness of his youth. Younger fighters are beginning to match him.
-- **Isolation**: His profession and temperament have left him without close relationships. This loneliness, in moments of weakness, nearly overwhelms him.
+- **Emotional Coldness**: His empathy is limited; he views suffering as weakness and struggle as purification, making him a harsh judge of human frailty.
+- **Dogmatic Fervor**: He interprets doctrine with little flexibility, viewing compromise as betrayal of the faith itself.
+- **Aggressive Impulse**: Though he channels his violence through the church, his first instinct in conflict remains overwhelming force rather than negotiation.
+- **Reputation for Cruelty**: His pirate past haunts him despite conversion; many fear his forgiveness is superficial, and some of his victims' families still hunger for vengeance.
+- **Limited Creativity**: Though skilled in established rituals, he struggles to adapt or improvise when tradition provides no answer.
 
 ## Social
 
 ### Patrons
 
-- **Lord Commander Vasilis of the [[place-eastrnmrch|Eastern March]]**: A powerful nobleman who contracts Arkádios whenever border security becomes critical. They maintain a relationship of mutual respect spanning two decades.
-- **Merchant Consortium of the Golden Coast**: Several trading families maintain Arkádios under retainer for protection against piracy and rival merchant houses. The payments are generous but steady.
-- **Duke Stávron Pylíkot**: An aging but still-powerful aristocrat who employs Arkádios for sensitive security work, often involving protection from internal conspiracies within the court.
+- **Thálassios of the Byzarian Council**: A military governor who relies on Leónantos's blessings and counsel to maintain his authority and morale among his troops.
+- **High Priestess Eupráxinaz**: The supreme ecclesiastical authority in the region, who has come to trust—though not entirely comfort—Leónantos's brutal effectiveness.
 
 ### Enemies
 
-- **Kael the Dirge, Captain of the Crimson Wolves**: A rival mercenary company leader whose contract was chosen over his own by a major client. Kael harbors deep resentment and seeks opportunities to undermine Arkádios's reputation.
-- **The Shadow Syndicate**: A criminal organization whose operations Arkádios destroyed on behalf of a client five years ago. Several high-ranking members survive and hunger for vengeance.
+- **Captain Théodoulos the Bitter**: A rival corsair from Leónantos's pirate days, now commanding his own fleet and seeking to end his former comrade before divine luck can claim vengeance for all Théodoulos has lost.
+- **House of Maríanos**: An aristocratic family whose merchant fleet Leónantos systematically destroyed during his years as the Scarlet Reaver's captain; the surviving heirs have sworn blood oaths to see him burned.
+- **The Apostate Priests of Darkness**: A heretical sect believes Leónantos's conversion was false and that he works to corrupt the church from within; they have marked him for assassination.
 
 ### Affiliations
 
-- **The Byzarian League**: Citizen in good standing, though his mercenary status makes him somewhat of an outsider in traditional society.
-- **The Independent Mercenary Council**: A loose association of mercenary captains who maintain professional standards and negotiate pay rates. Arkádios holds significant influence.
-- **The Order of Jánus (Order Aspect)**: A practicing worshipper who attends temples regularly, finding the god's emphasis on structure and discipline spiritually resonant with his own worldview.
+- **Church of Flórania (Fire Aspect)**: High-ranking priest and architect of military-religious cooperation
+- **Byzarian Military Council**: Serves as spiritual advisor to commanders and overseer of pre-battle rituals
+- **The Order of the Sacred Flame**: An elite cadre of warrior-monks trained in both priestly and martial disciplines under his direct mentorship
 
 ## Plot Hooks
 
-1. **The Contract Nobody Should Take**: A mysterious client offers Arkádios an astronomical sum—enough to retire in absolute luxury—for a contract so vague and suspicious that every instinct screams danger. The target's identity remains deliberately obscured. As Arkádios investigates, he discovers the true nature of the contract: assassination of a political figure that would trigger a regional war. He must decide whether to accept and execute the contract that would finally provide financial security, or reject it and maintain the moral line he has desperately tried to hold.
+1. **The Pirate's Debt Calls**: A merchant vessel recently arrived in the Byzarian harbors bearing Théodoulos's colors—and word that the captain has grown tired of hunting. He sends a message to Leónantos: surrender yourself for trial before the pirate assembly, or he will burn the ports themselves in siege. As military leaders call upon Leónantos to lead the defense, he must decide whether his past truly has been absolved by faith, or whether some debts must be settled with steel rather than prayer. The party may find themselves hired to track down Théodoulos before he strikes, or forced to help Leónantos face this specter from his corsair days.
 
-2. **The Deserter's Daughter**: A young woman approaches Arkádios claiming to be the daughter of **Langárion Kyriákash**, a soldier he fought alongside in the Silver Vipers who deserted the company under mysterious circumstances decades ago. She carries a letter purportedly from her father, begging Arkádios to investigate something hidden in the Vipers' old fortress. Investigation leads to the discovery of a conspiracy that goes to the highest levels of the League—one that both he and Vex were manipulated into participating.
+2. **A Crisis of Faith**: High Priestess Eupráxinaz discovers evidence suggesting that Leónantos has been conducting unauthorized dark rituals in the temple's lower chambers—communing with ancient fire spirits of malevolent aspect rather than divine flame. Whether this is truth or elaborate fabrication by enemies within the priesthood, it threatens to destroy both the church's stability and Leónantos's hard-won redemption. The party might be tasked by competing factions to either prove his guilt or uncover the conspiracy against him, delving into the shadowed politics of ecclesiastical power.
 
-3. **The Redemption Contract**: A noble priest of Jánus approaches Arkádios with a contract: protect a refugee camp of displaced civilians from raiders and warlords—with no payment, only spiritual counsel about the possibility of redemption. The contract becomes personal when Arkádios discovers that the camp shelters women and children from a faction he himself once fought for, and his presence there creates dangerous division among the refugees who fear him.
+3. **The Resurrection of the Scarlet Reaver**: Leónantos's old crew, scattered and aged, begins to reassemble on the docks. Led by his former first mate Gaspar—a scarred, one-eyed survivor who claims Leónantos abandoned them all those years ago—they demand that he return to the seas and reclaim the piracy that made them rich. They hold the deed to his former ship, recently recovered from the depths, and they offer him a choice: sail with them one final time, or watch them use his secrets to burn the Byzarian League itself. The party becomes caught between honoring the transformation of a complex man and preventing catastrophe.
 
-4. **The Immortal Warrior**: During a contract in a remote region, Arkádios encounters a warrior of impossible age—a man who claims to have fought for over two centuries and to recognize Arkádios as his reincarnated rival. The mysterious fighter challenges Arkádios to a series of tests, hinting that survival requires understanding a truth about himself and his past that has been deliberately hidden. The physical and psychological tests force Arkádios to confront the possibility that his memories may be false.
+4. **The Heretic Within**: The Apostate Priests send an agent—a skilled assassin trained in shadow magic and priestly lore—who infiltrates the Church with the goal of killing Leónantos during the Festival of Flames, the holiest day in the Byzarian calendar. The party may serve as the priest's bodyguards, hunt the assassin before the festival arrives, or become entangled in the revelation that the heretics have sympathizers within the church hierarchy itself, forcing hard choices about justice and mercy.
 
-5. **The Final Battle of the Silver Vipers**: Evidence surfaces suggesting that the Silver Vipers were destroyed not from internal schism as believed, but through deliberate sabotage by someone within the organization. Arkádios, driven by loyalty to his former brothers, begins investigating the truth. This quest draws him into conflict with powerful entities who benefit from the Vipers' destruction and who will do anything to keep the truth buried—including hiring rivals to eliminate him.
+5. **Legacy of the Warhammer**: Leónantos commissions a legendary smith to forge him a warhammer from ore blessed by living fire spirits—a weapon that will be his final masterwork, to be passed to his chosen successor in the priesthood. The party is hired to gather the rare materials across dangerous lands: silver mined in volcanic caverns, wood from the oldest heartwood of a sacred grove, and stone taken from the core of a meteor that fell to earth. As they journey, they discover that Leónantos's true plan may be far darker than mere legacy—perhaps a weapon intended to reshape the faith itself.

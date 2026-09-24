@@ -5,9 +5,9 @@ tags:
   - tradesfolk
   - character
 name:
-  full: Par'ri Re'en'Khensu
+  full: Parri Re'en'Khensu
   title: ""
-  given: Par'ri
+  given: Parri
   clan: Re'en'Khensu
   home: wasetkara
   aliases:
@@ -600,9 +600,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[parirnkhns|Par'ri Re'en'Khensu]]{float: top-left}
+![[parirnkhns|Parri Re'en'Khensu]]{float: top-left}
 
-Par'ri stands 5'8" tall with a heavy build. He has golden brown skin, white hair, and warm brown eyes. His features include a long face, an aquiline nose, a smooth jawline, generous lips, and golden brows. He has a tattoo of a crescent moon on his neck.
+Parri stands 5'8" tall with a heavy build. He has golden brown skin, white hair, and warm brown eyes. His features include a long face, an aquiline nose, a smooth jawline, generous lips, and golden brows. He has a tattoo of a crescent moon on his neck.
 
 # Dossier {#dossier}
 
