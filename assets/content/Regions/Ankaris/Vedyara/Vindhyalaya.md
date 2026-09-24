@@ -159,7 +159,7 @@ To the **northeast**, by the eastern branch of the pass-roads, lie the western m
 
 To the **east**, along [[place-estrnreach|the Eastern Reach]], the kingdom holds that the whole northern frontier is its own to watch. The [[affiliation-janpdsvdyr|Janapadas of Vedyara]] keep a garrison on the col of the conch-door, [[place-sanghafort|a fort]] raised four centuries ago when an adventurer with Tānvüri backing came through into the eastern janapadas, and Vindhyālaya reads it as ground held by a body with no business holding any. The kingdom raises this at every gathering and has never done more than raise it, which suits both sides: the temple-republics are not going to surrender a precedent, and the crown would be seriously embarrassed to be handed sixty men and a supply line running through country it does not control.
 
-The kingdom has no frontier with the [[place-dunharargn|Dunhara]] at all. The desert lies west of where the wall runs out, and the road to it belongs to Bhūmipāla, not to the passes.
+The kingdom has no frontier with the [[place-dunharargn|Dunhara]] at all. The desert lies west of where the wall runs out, and the road to it belongs to [[affiliation-bhumipala|Bhūmipāla]], not to the passes.
 
 ## Commerce and Currency
 
