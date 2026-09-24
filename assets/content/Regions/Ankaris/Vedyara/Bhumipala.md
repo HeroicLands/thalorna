@@ -162,6 +162,8 @@ To the **west and northwest** lie the tribes and the Sultanate, and the whole of
 
 To the **north and east**, across the broken end of the wall, lies [[affiliation-vindhyalay|Vindhyālaya]]. The two kingdoms hold the north between them without sharing a border, and neither wants what the other has. Vindhyan steel comes down to the march companies and march horses go up to the pass-roads.
 
+To the **west**, across the [[place-sandhysmdr|Sandhyā-samudra]], is the eastern coast of [[place-xerathia|Xerathia]]. The kingdom has no dealings with it. Its own coast trades north and east by the road and south by the coasting passage, and the far shore is a fact of the sea and not a market.
+
 To the **south and southeast** lie the river janapadas and the coastal cities. Bhūmipāla holds a seat at the [[affiliation-janpdsvdyr|great pilgrimage assembly]] in its own right and sends a small delegation, which the river country receives politely and does not consult. Its dealings with [[affiliation-chandrapur|Chandrapur]] are the dealings of a road with a market at the end of it.
 
 ## Commerce and Currency

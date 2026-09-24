@@ -32,7 +32,7 @@ The **foothills** are the north, under the end of the wall. They are brown, brok
 
 The **desert-margin** is the west, where the foothills run out into the sand of the [[place-dunharargn|Dunhara]]. Nobody holds it and everybody crosses it. The line between the last Vedyari well and the first Dunhari one is a two-day ride and is not marked on the ground.
 
-The **coast** is the south, a strip of arid shore two hundred miles long behind sand spits and salt flats. Herding country runs to within a few miles of the beach and the cultivation is what the wells will carry. There is no deep natural harbor on any of it.
+The **coast** is the south, a strip of arid shore two hundred miles long behind sand spits and salt flats. Herding country runs to within a few miles of the beach and the cultivation is what the wells will carry. There is no deep natural harbor on any of it. Due west across the water is the eastern coast of [[place-xerathia|Xerathia]], which nothing sailing out of this land has ever made.
 
 ## The Road
 

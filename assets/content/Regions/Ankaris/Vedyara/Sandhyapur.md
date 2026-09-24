@@ -35,7 +35,7 @@ There is no harbor. Ships lie in an open roadstead behind the spit with their ca
 
 The shipping is coastwise. Hulls work between the roadsteads of this shore and round the southern turn into the [[place-meghsamdra|Megha-samudra]], and the passage to the Kheperi delta is made that way when the season allows it. No house here keeps a factor on any farther shore, and no master is paid to cross open water.
 
-What lies out to the west is argued about on the beach and has never been settled. The accounts brought back by crews blown out and by sailors met at the delta do not agree with one another, and nobody in Sandhyāpur has yet had reason enough to go and look.
+Due west across the open water is the eastern coast of [[place-xerathia|Xerathia]]. Every master on this beach knows it is there and none of them goes to it. The crossing is a month of blue water with nothing to put into, and the cargoes that would pay for it already come round by the delta in Kheperi hulls.
 
 ## Salt and the Road
 
