@@ -664,7 +664,7 @@ Kyriákos is driven by a need to atone that he consciously recognizes can never 
 
 ## Plot Hooks
 
-1. **The Ghost from His Past**: One of Kyriákos's former comrades from the Iron Wolves Company, a warrior named **Barzanes**, tracks him down with seemingly friendly intentions—a reunion of old soldiers. Yet Barzanes carries orders from above to either recruit Kyriákos back into service or eliminate him as a liability. Kyriákos must get through the dangerous reunion without compromising the village and without becoming the killer he's spent five years trying to stop being.
+1. **The Ghost from His Past**: One of Kyriákos's former comrades from the Iron Wolves Company, a warrior named **Anbaríkos**, tracks him down with seemingly friendly intentions—a reunion of old soldiers. Yet Anbaríkos carries orders from above to either recruit Kyriákos back into service or eliminate him as a liability. Kyriákos must get through the dangerous reunion without compromising the village and without becoming the killer he's spent five years trying to stop being.
 
 2. **The Mercenary Company's Return**: The Iron Wolves Company, facing a decline in their fortunes, discovers that the massacre they conducted was illegal and the lord who hired them has disowned them to avoid scandal. Several company members recognize Kyriákos and believe he could be forced to testify against the lord, vindicating the company. They attempt to capture him to force his cooperation—or eliminate him if he refuses. The village becomes caught in crossfire between mercenary forces and local authorities investigating the ancient crime.
 
