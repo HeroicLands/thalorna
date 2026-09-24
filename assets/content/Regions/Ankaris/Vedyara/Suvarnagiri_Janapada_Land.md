@@ -12,7 +12,7 @@ subType: region
 data:
   demonym: Suvarnagiri
   lore:
-    - humanflk
+    - vedyariclt
   parents:
     - vedyarargn
   population: 35000
