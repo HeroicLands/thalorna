@@ -109,7 +109,7 @@ data:
   population: null
   economy: []
   lore:
-    - humanflk
+    - vedyariclt
   parents: []
   relations:
     mrchntclctvvdyr: unaligned
