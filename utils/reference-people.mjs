@@ -38,8 +38,10 @@
  * 4. **`template-priority-is-present`** — `data.templatePriority` is written.
  *    It is tri-state with no default, so absent is an authoring error rather
  *    than a silent "not a template".
- * 5. **`filed-with-the-reference-people`** — `packFolder` names the reference
- *    people's folder, so the records sit together.
+ * 5. **`carries-no-placement`** — neither `pack:` nor `packFolder:`. Both place
+ *    a document in a compendium, and this note compiles none: the content index
+ *    carries what it wrote beside a null `foundry`, where it reads as a filing
+ *    that never happened.
  * 6. **`references-resolve`** — every `data.homes`, `data.affiliations` and
  *    `name.home` value names a note that exists. A record's only claims about
  *    the world are these, and a reader has no body to correct them against.
@@ -78,8 +80,12 @@ const CONFIG_FILE = "package-build.config.yaml";
 const PERSON_TYPE = "being";
 const REFERENCE_TAG = "reference";
 
-/** The folder note the records file themselves under. */
-const REFERENCE_FOLDER = "referencepeople";
+/**
+ * What places a document in a compendium. A reference person compiles no
+ * document, so it writes neither: `pack:` chooses the compendium and
+ * `packFolder:` the folder within it, and there is nothing to choose for.
+ */
+const PLACEMENT_KEYS = ["pack", "packFolder"];
 
 /** A note that says it is unfinished is not a record; lint refuses one. */
 const DRAFT_TAG = "draft";
@@ -359,15 +365,14 @@ function checkReferencePerson(note, context) {
         );
     }
 
-    const folder = fm.packFolder == null ? "" : String(fm.packFolder);
-    const folderShortcode = folder.startsWith("folder-") ? folder.slice("folder-".length) : folder;
-    if (folderShortcode !== REFERENCE_FOLDER) {
+    for (const key of PLACEMENT_KEYS) {
+        if (fm[key] === undefined) continue;
         out.push(
             finding(
                 note,
-                lineOf(note.raw, "packFolder"),
-                "filed-with-the-reference-people",
-                `\`packFolder\` reads ${JSON.stringify(folder)}, and a reference person files itself under \`${REFERENCE_FOLDER}\` so the records sit together`,
+                lineOf(note.raw, key),
+                "carries-no-placement",
+                `\`${key}:\` places a document in a compendium and this note compiles none; the content index publishes what it reads here beside a null \`foundry\`, so it states a filing that never happened`,
             ),
         );
     }
@@ -476,7 +481,7 @@ function selfTestPerson(changes = {}) {
         tags: ["character", "reference"],
         full: "Ilvana Sorrel",
         description: "A tide-book keeper of the Harbour Guild.",
-        packFolder: REFERENCE_FOLDER,
+        placement: null,
         templatePriority: "null",
         homes: ["harbourtown"],
         affiliations: ["harbourguild"],
@@ -489,11 +494,8 @@ function selfTestPerson(changes = {}) {
     lines.push("name:", `  full: ${written.full}`, "  home: harbourtown");
     if (written.description !== null)
         lines.push(`description: ${JSON.stringify(written.description)}`);
-    lines.push(
-        `packFolder: ${written.packFolder}`,
-        "shortcode: ilvanasorrel",
-        `type: ${PERSON_TYPE}`,
-    );
+    if (written.placement !== null) lines.push(written.placement);
+    lines.push("shortcode: ilvanasorrel", `type: ${PERSON_TYPE}`);
     lines.push("data:");
     if (written.templatePriority !== null)
         lines.push(`  templatePriority: ${written.templatePriority}`);
@@ -548,9 +550,14 @@ function selfTestNotes(systems) {
             raw: selfTestPerson({ templatePriority: null }),
         },
         {
-            name: "another folder",
-            breaks: "filed-with-the-reference-people",
-            raw: selfTestPerson({ packFolder: "heroesandknaves" }),
+            name: "a pack",
+            breaks: "carries-no-placement",
+            raw: selfTestPerson({ placement: "pack: actors" }),
+        },
+        {
+            name: "a pack folder",
+            breaks: "carries-no-placement",
+            raw: selfTestPerson({ placement: "packFolder: heroesandknaves" }),
         },
         {
             name: "a home no note answers to",
