@@ -649,7 +649,7 @@ Thêsaloníke is driven by a profound love for the forests of her homeland and a
 
 ### Enemies
 
-- **The Logging Consortium of the Byzarian League**: A commercial enterprise that prioritizes profit over sustainability. Their operation manager, **Master Harvester Rostamion**, views Thêsaloníke as an irritant and has attempted to undercut her contracts.
+- **The Logging Consortium of the Byzarian League**: A commercial enterprise that prioritizes profit over sustainability. Their operation manager, **Master Harvester Zarránikos**, views Thêsaloníke as an irritant and has attempted to undercut her contracts.
 - **Corrupt Guild Officials**: Some members of the **Woodcutters' Guild** resent her for raising standards and are occasionally hostile toward her work practices.
 - **Unscrupulous Competing Woodcutters**: Several rivals view her sustainable practices as economically foolish and have spread rumors about her reliability and quality.
 
