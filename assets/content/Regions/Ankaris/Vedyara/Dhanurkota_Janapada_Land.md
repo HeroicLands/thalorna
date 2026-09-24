@@ -44,6 +44,8 @@ WHERE type = 'place'
 ORDER BY name.full COLLATE NOCASE
 ```
 
+The query names the constituent villages and the bow-fort town. The rest of the janapada lives in the hamlets and farmsteads attached to them, which the sabhā counts with the village whose turn they share.
+
 ## Society
 
 The cultivator villages along the Sarvada produce rice, sugarcane, sesame, and the cotton that feeds the local weaver-caste workshops.
@@ -58,4 +60,4 @@ The academies bring in the least direct revenue of the three and the most of eve
 
 - [[affiliation-dhnrktjnpd|Dhanurkota Janapada]]—the temple-republic that holds this land
 - [[place-vedyarargn|Vedyara Region]]—the enclosing region
-- Dhanurkota—the temple-seat
+- [[place-dhanurkota|Dhanurkota]]—the temple-seat

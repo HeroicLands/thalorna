@@ -98,6 +98,17 @@ data:
   domains:
     - rajapurjnpd
     - rajapur
+    - khandapura
+    - mukteshvara
+    - gudagrama
+    - lipigrama
+    - setugrama
+    - uttaratira
+    - vrihisthali
+    - mashakshetra
+    - puranagrama
+    - nadipada
+    - pushpavana
   population: 25000
   economy:
     - affiliation-mrchntclctvvdyr
@@ -157,7 +168,7 @@ The merchant caste handles river-trade up and down the Mahānadi, the considerab
 
 ## Religion
 
-Beyond the great Vyālendra temple at the center, Rājapur maintains shrines to the other Varṇaka deities throughout the constituent villages—most prominently the **Mahájaya** shrine at the upstream village of Khandāpura (where farmers go to bless the irrigation works at planting season) and the **Rásikara** cremation-ground shrine at the downstream village of Mukteśvara (where the dead of every constituent village are received). The standard Vedyari religious calendar is observed with full Rājapuri ceremonial elaboration; the Spring Festival of Vyālendra is the great annual event, drawing perhaps fifteen thousand visitors from neighboring janapadas and city-states.
+Beyond the great Vyālendra temple at the center, Rājapur maintains shrines to the other Varṇaka deities throughout the constituent villages—most prominently the **Mahájaya** shrine at the upstream village of [[place-khandapura|Khandāpura]] (where farmers go to bless the irrigation works at planting season) and the **Rásikara** cremation-ground shrine at the downstream village of [[place-mukteshvara|Mukteshvara]] (where the dead of every constituent village are received). The standard Vedyari religious calendar is observed with full Rājapuri ceremonial elaboration; the Spring Festival of Vyālendra is the great annual event, drawing perhaps fifteen thousand visitors from neighboring janapadas and city-states.
 
 A distinctive Rājapuri religious observance is the **Day of the Dissolution**, held annually on the anniversary of the sabhā's dissolution decree. On this day no business is conducted, no labor performed, and the entire population gathers in the temple precincts to hear the Memory-Keeper recite the full dynastic history and the dissolution decree from beginning to end. The recitation takes most of the day. At its conclusion every adult Rājapuri drinks a cup of Mahānadi water blessed by the senior priest, and renews the janapada's compact by it. Children attend the recitation and do not drink the cup until their fifteenth year, when they are formally enrolled as citizens.
 
@@ -192,7 +203,7 @@ Rājapur Janapada uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administ
 - [[place-rajapurjnpd|Rājapur Janapada]]—the land the janapada holds
 - [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—parent confederation
 - [[place-vedyarargn|Vedyara]]—parent region
-- Rājapur—the King's-Town settlement note
+- [[place-rajapur|Rājapur]]—the temple-seat, on the ground of the royal capital
 - [[affiliation-chandrapur|Chandrapur]]—patron city-state
 - [[affiliation-varakpnthn|Varṇaka Pantheon]]—religious tradition
 - [[skill-vedyarlng|Vedyari]]—language

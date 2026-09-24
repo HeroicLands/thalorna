@@ -101,6 +101,21 @@ data:
   domains:
     - suvarnagirijnpd
     - suvarnagiri
+    - hiranyadhara
+    - tamravana
+    - vandhyadhara
+    - kanakasetu
+    - nilakshetra
+    - madhuvana
+    - shilamukha
+    - dhanyagrama
+    - vrishatira
+    - sarasapada
+    - jalaghatta
+    - ratnakupa
+    - girimarga
+    - haritagrama
+    - vanapada
   population: 35000
   economy:
     - affiliation-mrchntclctvvdyr
@@ -185,7 +200,7 @@ Suvarṇagiri Janapada uses the [[lore-vdyrnbnkng|Vedyaran banking system]], adm
 - [[place-suvarnagirijnpd|Suvarṇagiri Janapada]]—the land the janapada holds
 - [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—parent confederation
 - [[place-vedyarargn|Vedyara]]—parent region
-- Suvarṇagiri—the central town settlement note
+- [[place-suvarnagiri|Suvarnagiri]]—the temple-seat, in its three parts
 - [[affiliation-chandrapur|Chandrapur]]—major trading partner
 - [[affiliation-varakpnthn|Varṇaka Pantheon]]—religious tradition
 - [[skill-vedyarlng|Vedyari]]—language

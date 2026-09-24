@@ -44,6 +44,8 @@ WHERE type = 'place'
 ORDER BY name.full COLLATE NOCASE
 ```
 
+The query names the constituent villages the sabhā seats and the temple-town itself. Most of the janapada lives outside them, on the terraces, in hamlets and single farmsteads that each village answers for at its turn.
+
 ## Economy
 
 Beyond the gold the land grows the standard Vedyari upland mix: millet, mountain rice, pulses, and certain temperate fruits that will not grow on the lowland plain. Its metallurgy is unusually good, and the local iron-smelting work, fed by what the gold has taught, is some of the best in inland Vedyara. A thriving jeweler's quarter at Lower Suvarṇagiri works the local gold with gemstones imported from [[affiliation-chandrapur|Chandrapur]], and its reputation across the continent is second only to Chandrapur's own.
@@ -54,4 +56,4 @@ The janapada exports gold, iron and ironwork, fine jewelry, mountain produce, an
 
 - [[affiliation-suvrgrjnpd|Suvarṇagiri Janapada]]—the temple-republic that holds this land
 - [[place-vedyarargn|Vedyara Region]]—the enclosing region
-- Suvarṇagiri—the temple-seat
+- [[place-suvarnagiri|Suvarnagiri]]—the temple-seat
