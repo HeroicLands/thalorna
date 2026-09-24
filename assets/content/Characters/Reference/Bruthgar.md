@@ -3,13 +3,14 @@ tags:
   - character
   - reference
 name:
-  full: Garak
+  full: Bruthgar
   title: Warlord
-  given: Garak
+  given: Bruthgar
   clan: ""
   aliases: []
 description: "A notorious mercenary commander whose forces have clashed with Böthvarr's garrison repeatedly."
-shortcode: garak
+shortcode: bruthgar
+renamedFrom: garak
 type: being
 data:
   templatePriority: null

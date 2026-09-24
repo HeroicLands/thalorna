@@ -604,7 +604,7 @@ Vélaria is well known and well loved in the lower quarters of Liranel, where sh
 
 Outside the lower quarters, she is largely invisible. The guild physicians know of her—she has occasionally been consulted on cases they found puzzling, always informally and never with credit—and the temple of Flórania considers her a dedicated but somewhat stubborn junior priestess who insists on a posting the institution would prefer to phase out. She has no connections among the nobility, no presence at court, and no patron with the means to champion her cause.
 
-Within the [[affiliation-florania|Faith of Flórania]], she reports to the temple at Liranel, which supplies her with a small allowance and occasional materiel. The temple's senior priestess, Mother Caelwen, respects Vélaria's work but has warned her that the temple cannot indefinitely support a ministry that generates no revenue and serves a population with no political voice.
+Within the [[affiliation-florania|Faith of Flórania]], she reports to the temple at Liranel, which supplies her with a small allowance and occasional materiel. The temple's senior priestess, Mother Délitha, respects Vélaria's work but has warned her that the temple cannot indefinitely support a ministry that generates no revenue and serves a population with no political voice.
 
 ## Companions
 
