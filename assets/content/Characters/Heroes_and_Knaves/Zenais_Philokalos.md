@@ -654,7 +654,7 @@ Zênais is driven by a sense that her understanding of animals might represent s
 
 ### Patrons
 
-- **House Archontópoulos** - A prominent noble family of the Byzarian League who employ her regularly to train and maintain their falconry birds; **Lady Dorothéhran Archontópoulos** has become something of a mentor figure
+- **House Kallixenáhr** - A prominent noble family of the Byzarian League who employ her regularly to train and maintain their falconry birds; **Lady Dorothéhran Kallixenáhr** has become something of a mentor figure
 - **Master Dariokles** - Her former teacher, now elderly and semi-retired, who continues to advise her and vouches for her methods and integrity
 - **The Byzarian Merchants' Consortium** - A powerful trading organization that occasionally contracts her services for managing animals used in commercial expeditions
 
