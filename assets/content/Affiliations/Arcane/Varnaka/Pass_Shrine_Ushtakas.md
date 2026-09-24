@@ -1,14 +1,15 @@
 ---
-description: "The brahmin sub-caste who keep the shrines at the summits of the crossing roads, and work the weather-rite and the road-rite at an altitude no lowland academy has ever tested them at."
+description: "The ushtaka sub-caste who keep the shrines at the summits of the crossing roads, and work the weather-rite and the road-rite at an altitude no lowland academy has ever tested them at."
 tags:
   - varnaka
   - arcane
   - mountain
 name:
-  full: The Pass-Shrine Brahmins
+  full: The Pass-Shrine Ushtakas
   aliases:
-    - The Altitude Brahmins
-shortcode: passshrinebrahmins
+    - The Altitude Ushtakas
+shortcode: passshrineushtakas
+renamedFrom: passshrinebrahmins
 type: affiliation
 subType: arcanetradition
 data:
@@ -16,7 +17,7 @@ data:
   icon: null
   templatePriority: null
   demonym: null
-  epithet: The Altitude Brahmins
+  epithet: The Altitude Ushtakas
   symbol: A fire kept under a stone lid, with the smoke drawn sideways by wind
   governance:
     model: council
@@ -90,13 +91,13 @@ packFolder: pantheonsvarnaka
 sohl: {}
 ---
 
-## The Pass-Shrine Brahmins
+## The Pass-Shrine Ushtakas
 
 - **Practice:** Weather-rite and road-rite, worked at altitude
 - **Seat:** [[place-pssshrines|The Pass-Shrines]]
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-The **Pass-Shrine Brahmins** are the sub-caste who keep the temples at the high points of the crossing roads. They are born to the work, they marry inside the sub-caste, their children are raised on the cols, and one of them who comes down to the plains at forty is an old man there.
+The **Pass-Shrine Ushtakas** are the sub-caste who keep the temples at the high points of the crossing roads. They are born to the work, they marry inside the sub-caste, their children are raised on the cols, and one of them who comes down to the plains at forty is an old man there.
 
 They are the only body in Vedyara that works a Varnaka rite where a lowland priest cannot breathe, and that fact settles almost everything else about them.
 
