@@ -73,7 +73,7 @@ The trans-Grazian trade is what the range means economically to the lowland civi
 
 The trans-Grazian guides take roughly half the value as their fee. The caravan organizers take the other half, and are usually Vedyari merchant houses based in [[affiliation-chandrapur|Chandrapur]] or one of the foothill janapadas. The cargo owners get the privilege of having moved goods across the highest mountains on the world.
 
-On the Vedyari side the trade is governed as well as taxed. The kingdom of [[affiliation-vindhyalay|Vindhyālaya]] holds the greatest of the passes at its throat from the fortress-city of [[place-suryagarha|Sūryāgarha]], where every bale is weighed on entry and again on exit. The **[[place-pssshrines|Pass-Shrines]]** are a chain of Varnaka temples kept year-round at the summits by a brahmin sub-caste who live at altitudes that would kill an unaccustomed lowlander in a week. They bless the caravans and keep the only written record of who crossed and when. Between them, a merchant knows the price of a crossing before he sets out.
+On the Vedyari side the trade is governed as well as taxed. The kingdom of [[affiliation-vindhyalay|Vindhyālaya]] holds the greatest of the passes at its throat from the fortress-city of [[place-suryagarha|Sūryāgarha]], where every bale is weighed on entry and again on exit. The **[[place-pssshrines|Pass-Shrines]]** are a chain of Varnaka temples kept year-round at the summits by an ushtaka sub-caste who live at altitudes that would kill an unaccustomed lowlander in a week. They bless the caravans and keep the only written record of who crossed and when. Between them, a merchant knows the price of a crossing before he sets out.
 
 ## Note on the Drenavar Confusion
 

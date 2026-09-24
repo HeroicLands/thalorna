@@ -681,12 +681,12 @@ rival faction
    - **Negotiating with Tribes**: Shadiq must navigate the complex relationships between the desert tribes, using his diplomacy to secure their loyalty or at least permission to seek the relic.
    - **Outwitting Rivals**: Guilded Talon and rival desert lords are also searching for the relic. Shadiq must stay ahead of them, using both negotiation and subterfuge to gain an advantage.
 
-3. **Flames of Ambition: A Rival Diplomat**: A rival diplomat from Vylaria—**Serapion Drachenos**, a former acquaintance of Shadiq—has risen to prominence within the empire and is now working for a faction that opposes Kallistratos’ efforts. Serapion’s charm and wit rival Shadiq’s own, and the two diplomats often find themselves at odds, trying to outmaneuver one another in political negotiations.
+3. **Flames of Ambition: A Rival Diplomat**: A rival diplomat from Vylaria—**Theophylákar Drachenos**, a former acquaintance of Shadiq—has risen to prominence within the empire and is now working for a faction that opposes Kallistratos’ efforts. Theophylákar’s charm and wit rival Shadiq’s own, and the two diplomats often find themselves at odds, trying to outmaneuver one another in political negotiations.
 
-   Serapion’s latest mission is to turn key Vylarian nobles against Kallistratos, convincing them that his pursuit of fire magic is dangerous. Shadiq must confront his old rival in a series of political and diplomatic engagements, where every word could shift the balance of power.
-   - **Diplomatic Duel**: The core of the conflict is a battle of words between Shadiq and Serapion, each trying to sway influential nobles to their side. Shadiq must use his charm, political knowledge, and connections to outmaneuver Serapion.
-   - **Political Intrigue**: Serapion may resort to underhanded tactics—blackmail, bribery, or even assassination attempts. Shadiq must uncover and counter these plots while ensuring his own position remains strong.
-   - **Turning the Tide**: If Shadiq can outplay Serapion, he may even be able to turn the opposing nobles into allies for Kallistratos, securing a major political victory and weakening the opposition’s power base.
+   Theophylákar’s latest mission is to turn key Vylarian nobles against Kallistratos, convincing them that his pursuit of fire magic is dangerous. Shadiq must confront his old rival in a series of political and diplomatic engagements, where every word could shift the balance of power.
+   - **Diplomatic Duel**: The core of the conflict is a battle of words between Shadiq and Theophylákar, each trying to sway influential nobles to their side. Shadiq must use his charm, political knowledge, and connections to outmaneuver Theophylákar.
+   - **Political Intrigue**: Theophylákar may resort to underhanded tactics—blackmail, bribery, or even assassination attempts. Shadiq must uncover and counter these plots while ensuring his own position remains strong.
+   - **Turning the Tide**: If Shadiq can outplay Theophylákar, he may even be able to turn the opposing nobles into allies for Kallistratos, securing a major political victory and weakening the opposition’s power base.
 
 4. **The Guilded Talon’s Subversion**: The **Guilded Talon** has been spreading rumors about Kallistratos across Velysâra and other regions. These rumors are beginning to gain traction in Vylaria, threatening to cut off Kallistratos from the vital support he needs.
 

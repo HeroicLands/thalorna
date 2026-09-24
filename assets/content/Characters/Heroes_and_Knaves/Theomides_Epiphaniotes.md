@@ -644,8 +644,8 @@ Theomídes is motivated by a desire to preserve the balance of the wild places h
 ### Patrons
 
 - **The Merchant House of Pelios**: A family of fur traders who have purchased Theomídes' pelts for two decades. **Kyros Pelios**, the patriarch, trusts his judgment implicitly and often seeks his advice on which furs will command premium prices.
-- **Farmer Alexandros Thrasonis**: A desperate man whose lands were plagued by a massive bear until Theomídes tracked and relocated it. Alexandros now sends urgent requests whenever predators menace his herds.
-- **Master Leatherworker Dmitri Korikotis**: Uses only the finest hides, prepared by Theomídes himself. He values the trapper's expertise and treats him as a partner rather than a supplier.
+- **Farmer Narsevon Pelagazûr**: A desperate man whose lands were plagued by a massive bear until Theomídes tracked and relocated it. Narsevon now sends urgent requests whenever predators menace his herds.
+- **Master Leatherworker Mehranikos Theoklazûr**: Uses only the finest hides, prepared by Theomídes himself. He values the trapper's expertise and treats him as a partner rather than a supplier.
 
 ### Enemies
 
@@ -666,6 +666,6 @@ Theomídes operates entirely independently and mistrusts formal organizations, b
 
 3. **The Beast in the Deep Forest**: A farmer's entire flock vanishes without blood or struggle. Theomídes' investigation reveals traces of something that should not exist—a predator unlike any in the natural order, leaving spoor that confounds his understanding. Tracking it leads into the deepest, most ancient parts of the forest, where **old magic** may still linger and forgotten dangers lurk.
 
-4. **The Apprentice**: A young, idealistic ranger named **Sera Whitewood** seeks Theomídes out, claiming to have been sent by the spirit of **Master Iskandor** himself. Whether this is genuine mysticism or elaborate deception, she demonstrates uncommon skill and patience. Training her could be Theomídes' greatest contribution to the wild—or a distraction from something far darker stirring in the forest that requires his full attention.
+4. **The Apprentice**: A young, idealistic ranger named **Faridéna Kassandazûr** seeks Theomídes out, claiming to have been sent by the spirit of **Master Iskandor** himself. Whether this is genuine mysticism or elaborate deception, she demonstrates uncommon skill and patience. Training her could be Theomídes' greatest contribution to the wild—or a distraction from something far darker stirring in the forest that requires his full attention.
 
 5. **The Poacher's Betrayal**: **Grevin the Scarred** approaches with an unlikely proposition: join forces against a mutual enemy—a mysterious lord buying up forests to convert them to farmland. Theomídes must decide whether a temporary alliance is possible, and whether his methods can work alongside such morally questionable partners. The conspiracy runs deeper than mere logging, reaching into the highest levels of **Byzarian League** politics.

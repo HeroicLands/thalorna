@@ -34,7 +34,7 @@ They have never raised another. They keep the fort instead, garrisoned, provisio
 
 ## The Garrison
 
-Sixty men, a commander who serves three years, a shrine-brahmin seconded from the [[place-pssshrines|Pass-Shrine]] above, and a supply line that runs on [[affiliation-hvarnguides|Hvarn]] pack-trains through country the janapadas have no authority in whatever. Everyone involved understands the arrangement; nobody involved has written it down.
+Sixty men, a commander who serves three years, a shrine-ushtaka seconded from the [[place-pssshrines|Pass-Shrine]] above, and a supply line that runs on [[affiliation-hvarnguides|Hvarn]] pack-trains through country the janapadas have no authority in whatever. Everyone involved understands the arrangement; nobody involved has written it down.
 
 ## See Also
 

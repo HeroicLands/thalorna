@@ -655,7 +655,7 @@ Timothéon is driven by a deep commitment to excellence and the preservation of 
 
 - **Master Cook Ilenna**: Proprietor of a well-known provision house where Timothéon coordinates supplies for merchant caravans; they maintain a mutually beneficial relationship built on decades of reliable partnership.
 
-- **Guildmaster Corvus**: The current head of the Teamsters' Guild values Timothéon as an unofficial advisor on standards and practices, consulting with him on disputes and policy matters.
+- **Guild Master Maxentáhr**: The current head of the Teamsters' Guild values Timothéon as an unofficial advisor on standards and practices, consulting with him on disputes and policy matters.
 
 - **Lady Merchant Theresia**: A younger merchant whose family was personally helped by Timothéon in her youth; she has grown into one of the League's major traders and remains fiercely loyal to the old teamster.
 

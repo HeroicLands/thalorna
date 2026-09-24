@@ -23,7 +23,7 @@ data:
         title: Outcaste
         lore: excmmnctrnk
         description: >-
-          Placed outside the varna order by transgression or by birth, excluded from the wells,
+          Placed outside the tharana by transgression or by birth, excluded from the wells,
           the temples and the courts.
       - level: 1
         title: Bonded Servant
@@ -32,27 +32,27 @@ data:
           Bound by debt or birth to a household, owing labor and lacking the standing to hold
           land.
       - level: 2
-        title: Shūdra
+        title: Karmāja
         lore: commonerrnk
         description: >-
-          Of the serving varna—cultivators, artisans and laborers who hold their place by
+          Born to the serving tharana—cultivators, artisans and laborers who hold their place by
           work rather than by rite.
       - level: 3
-        title: Vaishya
+        title: Dhanāja
         lore: gentryrnk
         description: >-
-          Of the productive varna—merchants, dyers and cloth-factors, whose houses carry the
+          Born to the productive tharana—merchants, dyers and cloth-factors, whose houses carry the
           city's trade and pay for its walls.
       - level: 4
-        title: Kshatriya
+        title: Senāja
         lore: warriorrnk
         description: >-
-          Of the warrior varna, bearing arms by right and owing service in the city watch.
+          Born to the warrior tharana, bearing arms by right and owing service in the city watch.
       - level: 5
-        title: Brāhmana
+        title: Ritūja
         lore: priestrnk
         description: >-
-          Of the priestly varna, keeper of rite and learning, without whose sanction no act of
+          Born to the priestly tharana, keeper of rite and learning, without whose sanction no act of
           the Loom-Council is complete.
       - level: 6
         title: Loom-Master

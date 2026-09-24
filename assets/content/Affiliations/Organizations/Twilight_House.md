@@ -5,7 +5,7 @@ tags:
   - intelligence
   - courtesan
   - underworld
-description: "Prestigious Vedyaran courtesan establishment doubling as the city-states' premier intelligence network—gathering secrets from wealthy clients and feeding them to nobility, merchant lords, and the Ādānaśreṇī alike."
+description: "Prestigious Vedyaran courtesan establishment doubling as the subcontinent's premier intelligence network—gathering secrets from wealthy clients and selling them on to loom-masters, merchant houses, courts and the Guild of Taking alike."
 name:
   full: The Twilight House
   aliases:
@@ -109,7 +109,7 @@ data:
   population: null
   economy: []
   lore:
-    - humanflk
+    - vedyariclt
   parents: []
   relations:
     mrchntclctvvdyr: unaligned
@@ -121,11 +121,11 @@ sohl: {}
 
 - **Type:** Courtesan establishment and intelligence network
 - **Region:** [[place-vedyarargn|Vedyara Region]]—principal house in [[place-vyalendra3|Vyālendra]], satellite houses in each major Vedyaran city
-- **Founded:** Traditionally dated to the reign of the eleventh and last Mahārāja of Vyālendra; historically uncertain
+- **Founded:** Traditionally dated to the reign of the eleventh and last Mahārāja of Vyālendra; historically uncertain. The court is gone and the House is not, which is the fact everything else about it rests on
 
 ## Overview
 
-The Twilight House occupies a position no equivalent western institution does. To the merchant lords and nobility of the Vedyaran city-states, it is the most prestigious courtesan establishment in the realm—a place to which wealth, breeding, and reputation grant access, and from which the same combination withdraws it. To the same merchant lords and nobility, it is also the most important intelligence service in the realm. The two functions are not separate. They are the same business.
+The Twilight House occupies a position no equivalent western institution does. To the loom-masters and merchant houses of Vyālendra, and to the courts and councils of every city where a satellite stands, it is the most prestigious courtesan establishment in the realm—a place to which wealth, breeding, and reputation grant access, and from which the same combination withdraws it. To those same clients, it is also the most important intelligence service in the realm. The two functions are not separate. They are the same business.
 
 A client of the Twilight House does not simply purchase the company of a trained companion. He purchases an evening in a place where his rivals are also clients, where his servants do not follow him, where what he says is heard only by a young woman whose discretion is widely advertised—and whose handlers will, within the week, have a transcript of his conversation in the hands of whoever has paid for it.
 
@@ -146,7 +146,7 @@ The curriculum is famously rigorous. A graduate of the Twilight House can recite
 
 ## Intelligence Operations
 
-The House's intelligence product is sold on three tiers. **Tier one** is the routine social weather—who attended which gathering, who was seen quarreling, who has retained which advisor. Available to any paying subscriber, including most major noble houses and a few foreign embassies. **Tier two** is specific intelligence on a named target, gathered to commission, sold to the commissioning party. Pricing varies by target and difficulty; some targets are refused. **Tier three** is direct action—the use of a Companion's access to plant a document, switch a vial, deliver a message that cannot be traced. Tier three is rare, expensive, and politically dangerous; the Mistress will deny it exists.
+The House's intelligence product is sold on three tiers. **Tier one** is the routine social weather—who attended which gathering, who was seen quarreling, who has retained which advisor. Available to any paying subscriber, including most of the great houses and a few foreign embassies. **Tier two** is specific intelligence on a named target, gathered to commission, sold to the commissioning party. Pricing varies by target and difficulty; some targets are refused. **Tier three** is direct action—the use of a Companion's access to plant a document, switch a vial, deliver a message that cannot be traced. Tier three is rare, expensive, and politically dangerous; the Mistress will deny it exists.
 
 A standing arrangement exists between the House and the Ādānaśreṇī—the Guild recruits selected Companions into a dual role, using House access to coordinate operations the Guild could not otherwise reach. The arrangement is mutually profitable and mutually feared by both sides, since either could destroy the other.
 

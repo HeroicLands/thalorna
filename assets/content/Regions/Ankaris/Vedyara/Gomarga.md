@@ -23,7 +23,7 @@ data:
         title: Outcaste
         lore: excmmnctrnk
         description: >-
-          Placed outside the varna order by transgression or by birth, and on the plateau denied
+          Placed outside the tharana by transgression or by birth, and on the plateau denied
           the wells before anything else is denied him.
       - level: 1
         title: Bonded Servant
@@ -32,28 +32,28 @@ data:
           Bound by debt or birth to a household, walking its herds and carrying its token, and
           holding neither stock nor water in his own name.
       - level: 2
-        title: Shūdra
+        title: Karmāja
         lore: commonerrnk
         description: >-
-          Of the serving varna—drovers, tank-diggers, leather-workers and the herd-hands who do
+          Born to the serving tharana—drovers, tank-diggers, leather-workers and the herd-hands who do
           the year's walking for another man's cattle.
       - level: 3
-        title: Vaishya
+        title: Dhanāja
         lore: gentryrnk
         description: >-
-          Of the productive varna, and on the plateau the varna that matters: the herd-owning
+          Born to the productive tharana, and on the plateau the tharana that matters: the herd-owning
           lineages, whose stock and whose wells are the kingdom's whole wealth.
       - level: 4
-        title: Kshatriya
+        title: Senāja
         lore: warriorrnk
         description: >-
-          Of the warrior varna, bearing arms by right and owing mounted service on the droveways
+          Born to the warrior tharana, bearing arms by right and owing mounted service on the droveways
           in the moving seasons.
       - level: 5
-        title: Brāhmana
+        title: Ritūja
         lore: priestrnk
         description: >-
-          Of the priestly varna, keeper of rite and learning, and the one who reads the season and
+          Born to the priestly tharana, keeper of rite and learning, and the one who reads the season and
           names the day the herds move.
       - level: 6
         title: Sāmanta
@@ -139,9 +139,9 @@ The **Rājñī** keeps the one fixed establishment, at the winter wells in the n
 
 ## The Herd Lineages
 
-The productive varna outranks the warrior varna here in everything but precedence at a temple door. The herd-owning lineages own the stock, own the wells, pay for the escort and can move their whole wealth out of a bad district in a fortnight, which is a form of leverage no landholder anywhere else in Vedyara possesses. A Mahārāja who loses the confidence of four or five of the great lineages does not face a rebellion; he faces an empty circuit.
+The productive tharana outranks the warrior tharana here in everything but precedence at a temple door. The herd-owning lineages own the stock, own the wells, pay for the escort and can move their whole wealth out of a bad district in a fortnight, which is a form of leverage no landholder anywhere else in Vedyara possesses. A Mahārāja who loses the confidence of four or five of the great lineages does not face a rebellion; he faces an empty circuit.
 
-Orthodox opinion in the river kingdoms finds the arrangement improper. Plateau brahmins reply that the order is intact and only the wealth has moved, which is the answer the order itself gives, and the argument has been at that point for a very long time.
+Orthodox opinion in the river kingdoms finds the arrangement improper. Plateau ushtakas reply that the order is intact and only the wealth has moved, which is the answer the order itself gives, and the argument has been at that point for a very long time.
 
 ## Beyond the Plateau
 

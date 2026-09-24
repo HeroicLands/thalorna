@@ -604,9 +604,9 @@ Zênais stands 5'7" tall with a light build. She has fair freckled skin, auburn 
 
 ### The Merchant's Daughter and the Silent Language
 
-Zênais was born in the busy ports of the [[affiliation-byzarianlg|Byzarian League]], daughter of a merchant family with vast trading interests spanning three continents. Her father, **Dimitrios Philokálos**, was a prosperous spice merchant whose ships regularly departed for distant lands; her mother, **Thalia**, was known for her cultivation of exotic plants in the family's famous gardens. From her earliest childhood, Zênais demonstrated an inexplicable affinity for animals, particularly birds—she could calm panicked falcons with a whisper, encourage reluctant songbirds to perform, and read the subtle languages of body and feather that others found inscrutable.
+Zênais was born in the busy ports of the [[affiliation-byzarianlg|Byzarian League]], daughter of a merchant family with vast trading interests spanning three continents. Her father, **Stavrazul Philokálos**, was a prosperous spice merchant whose ships regularly departed for distant lands; her mother, **Chrysanthéze**, was known for her cultivation of exotic plants in the family's famous gardens. From her earliest childhood, Zênais demonstrated an inexplicable affinity for animals, particularly birds—she could calm panicked falcons with a whisper, encourage reluctant songbirds to perform, and read the subtle languages of body and feather that others found inscrutable.
 
-Rather than follow her family into mercantilism, Zênais apprenticed with **Master Orestes**, the great animal trainer of the Byzarian League, whose methods were new for his time. Orestes taught her that training animals was not domination but conversation—a learning of the creature's nature, desires, and fears, and a mutual agreement to work in harmony. This philosophy shaped everything about Zênais's approach to her craft.
+Rather than follow her family into mercantilism, Zênais apprenticed with **Master Dariokles**, the great animal trainer of the Byzarian League, whose methods were new for his time. Dariokles taught her that training animals was not domination but conversation—a learning of the creature's nature, desires, and fears, and a mutual agreement to work in harmony. This philosophy shaped everything about Zênais's approach to her craft.
 
 ### The Rise of the Trainer
 
@@ -654,13 +654,13 @@ Zênais is driven by a sense that her understanding of animals might represent s
 
 ### Patrons
 
-- **House Alexandros** - A prominent noble family of the Byzarian League who employ her regularly to train and maintain their falconry birds; **Lady Daphne Alexandros** has become something of a mentor figure
-- **Master Orestes** - Her former teacher, now elderly and semi-retired, who continues to advise her and vouches for her methods and integrity
+- **House Kallixenáhr** - A prominent noble family of the Byzarian League who employ her regularly to train and maintain their falconry birds; **Lady Dorothéhran Kallixenáhr** has become something of a mentor figure
+- **Master Dariokles** - Her former teacher, now elderly and semi-retired, who continues to advise her and vouches for her methods and integrity
 - **The Byzarian Merchants' Consortium** - A powerful trading organization that occasionally contracts her services for managing animals used in commercial expeditions
 
 ### Enemies
 
-- **Kastor the Cruel** - A brutal animal trader who views Zênais's ethical standards as threats to his profit margins; he has spread rumors that her methods are ineffective and that she is unreliable for serious work
+- **Arslanikos the Cruel** - A brutal animal trader who views Zênais's ethical standards as threats to his profit margins; he has spread rumors that her methods are ineffective and that she is unreliable for serious work
 - **The Feathered Syndicate** - A mysterious criminal organization involved in smuggling rare and exotic birds for black market operations; they view Zênais's knowledge as either an asset to control or a liability to eliminate
 - **Theron the Beast Master** - A rival trainer whose brutal methods stand in direct opposition to Zênais's philosophy; he views her success as evidence that his approach is inferior and has challenged her reputation publicly
 

@@ -86,7 +86,7 @@ data:
   economy:
     - lore-bartercnmy
   lore:
-    - humanflk
+    - hvarnclt
   parents: []
   relations:
     janpdsvdyr: aligned

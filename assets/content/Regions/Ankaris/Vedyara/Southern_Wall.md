@@ -34,7 +34,7 @@ The melt is not steady. A warm spring on the Wall puts the rivers up three weeks
 
 The Wall's peaks are the dwelling-places of the [[affiliation-varakpnthn|Varnaka]] gods, and the pilgrimage to the lower slopes is a normal part of a devout life and no extraordinary undertaking. Hundreds of thousands walk to the shrine-terraces in the favorable months, and a very small number go higher, to the springs themselves, where the temples stand.
 
-Above the last of the [[place-pssshrines|Pass-Shrines]] no caste rule reaches. The [[affiliation-osketguides|Ösket]] who live up there are not in the varna order. They are not outside it in the way an outcaste is outside it. It does not address them at all, and orthodox Vedyari jurists have left the matter undisturbed for as long as anyone has been writing the question down.
+Above the last of the [[place-pssshrines|Pass-Shrines]] no caste rule reaches. The [[affiliation-osketguides|Ösket]] who live up there are not in the tharana. They are not outside it in the way an outcaste is outside it. It does not address them at all, and orthodox Vedyari jurists have left the matter undisturbed for as long as anyone has been writing the question down.
 
 ## See Also
 

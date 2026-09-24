@@ -3,7 +3,7 @@ tags:
   - temple
   - sacred
   - inland
-description: "The chain of Varnaka temples at the summits of the crossing roads, kept year-round by a brahmin sub-caste who live where a lowlander would die, and holding the only written record of who crossed the wall and when."
+description: "The chain of Varnaka temples at the summits of the crossing roads, kept year-round by a priestly sub-caste of ushtakas who live where a lowlander would die, and holding the only written record of who crossed the wall and when."
 type: place
 subType: site
 data:
@@ -26,7 +26,7 @@ They are not large. A shrine is a walled court, a hall, a store of fuel and grai
 
 ## The Altitude Brahmins
 
-A [[affiliation-varakpnthn|Varnaka]] brahmin sub-caste keeps the shrines. They are born to the work and live year-round at heights that would kill an unaccustomed lowlander inside a week. They marry within the sub-caste, their children are raised on the cols, and a shrine-brahmin who comes down to the plains at forty is an old man there and is treated as one.
+A [[affiliation-varakpnthn|Varnaka]] ushtaka sub-caste keeps the shrines. They are born to the work and live year-round at heights that would kill an unaccustomed lowlander inside a week. They marry within the sub-caste, their children are raised on the cols, and a shrine-ushtaka who comes down to the plains at forty is an old man there and is treated as one.
 
 Their orthodoxy is exact and their ritual is not. A great deal of what is done at a Pass-Shrine has no warrant in any text a lowland academy would accept: the fire-watch through the closed months, the count of the dead kept by name on the cistern wall, the refusal to bless certain days that no almanac marks. The lowland hierarchy has never pressed the point. These are the only priests willing to do the job.
 
