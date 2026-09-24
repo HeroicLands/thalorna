@@ -116,7 +116,7 @@ To the **southeast**, across the seas, lie lands the Vedyari know through their 
 
 ## Population and Geography
 
-Janapadas sit wherever village-cluster agriculture will hold, which is most of inland Vedyara. They are densest in the great river valleys, the Chandramahī, the Sarvada, the Mahānadi and the Bhārava, and thinnest in the deep forests and on the arid central plateau. The northern hill-country runs its own variant of the janapada, smaller and more isolated. The southern tropical interior runs another, leaning harder on temple-controlled forest products.
+Janapadas sit wherever village-cluster agriculture will hold, which is most of inland Vedyara. They are densest in the great river valleys, the Chandramahī, the Sarvada, the Mahānadi and the Bhārava, and thinnest in the deep forests and on the arid central plateau of [[place-vandhyabhumi|Vandhyabhūmi]], where [[affiliation-gomarga|Gomārga]] holds the wells rather than the ground. The northern hill-country runs its own variant of the janapada, smaller and more isolated. The southern tropical interior, [[place-bharavavana|Bhāravavana]], runs no janapada at all: its forest is held in the temple-estates of the [[affiliation-bhrvdvbhog|Bhārava-Devabhoga]], and it is the one country of the subcontinent where no assembly sits.
 
 ## See Also
 
