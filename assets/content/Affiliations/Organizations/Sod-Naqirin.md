@@ -24,70 +24,47 @@ data:
   governance:
     model: council
     summary: >-
-      A court of wardens and assistants under an elected head, governing the craft between
-      general assemblies.
+      A Confederation-chartered umbrella of thirty-two Haradian trade guilds and their treasury
+      arm, governed by the Sôd-Rabbânîn under an elected Rab-Naqîr.
     ranks:
       - level: 0
-        title: Blacklisted
+        title: Expelled
         lore: expelledrnk
         description: >-
-          Struck from the roll: no member may employ, teach, supply or trade with them, in any
-          city the guild reaches.
+          Struck from a trade's charter and the Sôd's roll; the Sôd's authority over guilds
+          is equivalent to the Vylarian Collegium's it replaced.
       - level: 1
-        title: Servant
-        lore: servantrnk
-        description: Kept for labor about the hall and the workshops, and not of the craft.
-      - level: 2
         title: Apprentice
         lore: apprenticernk
-        description: Bound to a master for a term of years, fed and taught and owning neither
-          tools nor wage.
-      - level: 3
-        title: Journeyman
-        lore: journeymanrnk
         description: >-
-          Out of apprenticeship and working for wages, free to move between masters and not
-          yet to keep a shop.
-      - level: 4
-        title: Master
+          Bound to a chartered trade and examined as the Sôd's authority requires, not yet a
+          registered master.
+      - level: 3
+        title: Guildmaster
         lore: masterrnk
         description: >-
-          Admitted on a masterpiece, entitled to keep a shop, take apprentices and vote in the
-          guild.
-      - level: 5
-        title: Warden
-        lore: officerrnk
-        description: >-
-          Elected to inspect the craft—its work, its weights, its prices—and to present
-          offenders.
-      - level: 6
-        title: Assistant
+          A registered master of one of the Sôd's chartered trades, examined and bound to its
+          standards.
+      - level: 4
+        title: Sôd-Rabbânîn Seat
         lore: councillorrnk
-        description: Of the court that governs the guild between its general assemblies.
-      - level: 7
-        title: Alderman
-        lore: highpriestrnk
-        description: Senior of the court, and the guild's voice before the city that chartered
-          it.
-      - level: 8
-        title: Grand Master
-        lore: grandmasterrnk
-        description: Head of the guild, elected by the court, holding its seal and answering
-          for its charter.
+        description: >-
+          The senior naqîr of a recognized trade-category, elected by that trade's own masters
+          to one of the thirty-two seats of the standing council.
     offices:
-      Grand Master: Head of the guild, elected by its court, holding the seal and answering
-        for the charter.
-      Alderman: Senior of the governing court and the guild's voice before the city.
-      Warden: >-
-        Elected inspector of the craft's work, weights and prices, who presents offenders
-        to the court.
-      Assistant: Member of the court that governs the guild between general assemblies.
-      Clerk: Keeper of the guild's roll, its indentures, its minutes and its correspondence.
-      Beadle: Summoner of the assembly and server of its process; the guild's hands in enforcement.
-      Searcher: Examiner of goods offered under the guild's mark, whose refusal ends a sale.
-      Treasurer: Keeper of the guild's box—its dues, its fines and its loans to members.
-      Almoner: Administrator of the guild's relief to sick members, widows and orphans.
-      Keeper of the Hall: Warden of the guild's house, its plate, its records and its feasts.
+      Rab-Naqîr: >-
+        Chief of Chiefs—the head, elected from among the sitting naqîrîn of the great trades by
+        the assembled Sôd-Rabbânîn for a renewable seven-year term.
+      Rab-Pāqîd: >-
+        Chief Overseer—senior of the Pāqîdîn, the discipline arm of eight officers who inspect,
+        investigate charter violations and prosecute disciplinary cases before the Sôd.
+      Gizbar: >-
+        Treasurer—manages the Sôd's common fund and the Confederation's parallel banking system,
+        the Bayt al-Khazînah.
+      Adôn: >-
+        One of the Adônîm al-Mudunîn ("Lords of the City-States")—the provincial deputies, one
+        per major Haradian state, who administer the Sôd's operations in their cities and
+        report to the Rab-Naqîr.
   commonSkills: []
   seat: null
   domains: []

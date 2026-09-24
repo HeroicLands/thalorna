@@ -19,70 +19,39 @@ data:
   governance:
     model: council
     summary: >-
-      A court of wardens and assistants under an elected head, governing the craft between
-      general assemblies.
+      A mercantile federation of hereditary houses, sponsored entrants and guild-affiliated
+      suppliers, governed by the biannual Assembly of the Compact under an elected High Speaker.
     ranks:
       - level: 0
-        title: Blacklisted
+        title: Expelled
         lore: expelledrnk
         description: >-
-          Struck from the roll: no member may employ, teach, supply or trade with them, in any
-          city the guild reaches.
+          The kulina responsible for the worst offenses can be expelled, though one senior
+          enough risks fracturing the Collective by it.
       - level: 1
-        title: Servant
-        lore: servantrnk
-        description: Kept for labor about the hall and the workshops, and not of the craft.
+        title: Karmakara
+        lore: dependentrnk
+        description: >-
+          An artisan supplier admitted by craft-guild affiliation, taking part in the Assembly
+          through the guild's elected representative.
       - level: 2
-        title: Apprentice
-        lore: apprenticernk
-        description: Bound to a master for a term of years, fed and taught and owning neither
-          tools nor wage.
+        title: Pratistha
+        lore: initiaternk
+        description: >-
+          A new entrant admitted by sponsorship and probation, voting only on matters concerning
+          their probationary terms.
       - level: 3
-        title: Journeyman
-        lore: journeymanrnk
+        title: Kulina House
+        lore: greatlordrnk
         description: >-
-          Out of apprenticeship and working for wages, free to move between masters and not
-          yet to keep a shop.
-      - level: 4
-        title: Master
-        lore: masterrnk
-        description: >-
-          Admitted on a masterpiece, entitled to keep a shop, take apprentices and vote in the
-          guild.
-      - level: 5
-        title: Warden
-        lore: officerrnk
-        description: >-
-          Elected to inspect the craft—its work, its weights, its prices—and to present
-          offenders.
-      - level: 6
-        title: Assistant
-        lore: councillorrnk
-        description: Of the court that governs the guild between its general assemblies.
-      - level: 7
-        title: Alderman
-        lore: highpriestrnk
-        description: Senior of the court, and the guild's voice before the city that chartered
-          it.
-      - level: 8
-        title: Grand Master
-        lore: grandmasterrnk
-        description: Head of the guild, elected by the court, holding its seal and answering
-          for its charter.
+          Of the great mercantile houses admitted by inheritance, whose vote carries weight in
+          proportion to the house's contribution to the common fund. Distinguished as "Kulina
+          House" from Chandrapur's own Kulina, the unrelated seat one of the Nine Houses holds
+          at that janapada's court.
     offices:
-      Grand Master: Head of the guild, elected by its court, holding the seal and answering
-        for the charter.
-      Alderman: Senior of the governing court and the guild's voice before the city.
-      Warden: >-
-        Elected inspector of the craft's work, weights and prices, who presents offenders
-        to the court.
-      Assistant: Member of the court that governs the guild between general assemblies.
-      Clerk: Keeper of the guild's roll, its indentures, its minutes and its correspondence.
-      Beadle: Summoner of the assembly and server of its process; the guild's hands in enforcement.
-      Searcher: Examiner of goods offered under the guild's mark, whose refusal ends a sale.
-      Treasurer: Keeper of the guild's box—its dues, its fines and its loans to members.
-      Almoner: Administrator of the guild's relief to sick members, widows and orphans.
-      Keeper of the Hall: Warden of the guild's house, its plate, its records and its feasts.
+      High Speaker of the Collective: >-
+        Elected by the kulinas from among themselves for a seven-year term, presiding over the
+        Assembly of the Compact.
   commonSkills: []
   seat: null
   domains: []
