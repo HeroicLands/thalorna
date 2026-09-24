@@ -28,7 +28,7 @@ data:
   gender: male
   species: null
   age: 36
-  birthday: 684/10/15
+  born: 684/10/15
   height: 1.75
   weight: 65.8
   frame: medium
