@@ -13,6 +13,8 @@ data:
   parents:
     - vyalendraland
   population: 12000
+  routes:
+    - { to: tanvuregin, bearing: NE, mode: ship, days: 45, terrain: [open-sea] }
 name:
   full: Nīlatīra
   aliases: []
