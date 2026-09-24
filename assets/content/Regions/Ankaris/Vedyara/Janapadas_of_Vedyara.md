@@ -1,11 +1,11 @@
 ---
 tags: []
 type: affiliation
-description: The loose cultural-political confederation of Vedyara's village-cluster temple-republics—the small janapadas that, together with the great city-states, make up the bulk of Vedyari political life. No central authority; coordination through the great pilgrimage festivals and the shared Varṇaka tradition.
+description: The loose cultural-political confederation of Vedyara's village-cluster temple-republics—the small janapadas that, together with the great city-states, make up the bulk of Vedyari political life. No central authority; coordination through the great pilgrimage festivals and the shared Varnaka tradition.
 name:
   full: Janapadas of Vedyara
   aliases:
-    - Mahā-Saṅgha of Vedyara
+    - Mahā-Sangha of Vedyara
     - The Temple-Republics of Vedyara
     - The Vedyari Janapadas
 shortcode: janpdsvdyr
@@ -18,7 +18,7 @@ data:
   governance:
     model: confederation
     summary: >-
-      The Mahā-Saṅgha convenes and does not govern. It has no legislature, no taxation and no
+      The Mahā-Sangha convenes and does not govern. It has no legislature, no taxation and no
       standing institution between gatherings—only the offices the Mela itself needs, and
       consensus among senior priests, enforced by the withdrawal of inter-janapada goodwill.
     ranks:
@@ -102,9 +102,9 @@ packFolder: vedyara
 sohl: {}
 ---
 
-The **Janapadas of Vedyara** are not a single polity. They are the loose confederation of the several thousand small temple-republics that hold most of [[place-vedyarargn|Vedyari]] political life, alongside the great city-states of the coast and the river and the pass-kingdom of [[affiliation-vindhyalay|Vindhyālaya]]. The confederation is the **Mahā-Saṅgha**, the "Great Council". Each janapada is itself a federation of villages organized around a central temple-complex and the temple-anchored **sabhā** (assembly) that governs them. The name belongs to the whole class and to no one polity in it.
+The **Janapadas of Vedyara** are not a single polity. They are the loose confederation of the several thousand small temple-republics that hold most of [[place-vedyarargn|Vedyari]] political life, alongside the great city-states of the coast and the river and the pass-kingdom of [[affiliation-vindhyalay|Vindhyālaya]]. The confederation is the **Mahā-Sangha**, the "Great Council". Each janapada is itself a federation of villages organized around a central temple-complex and the temple-anchored **sabhā** (assembly) that governs them. The name belongs to the whole class and to no one polity in it.
 
-A traveling merchant from [[place-provenzrgn|Provènzia Region]] passing through Vedyara meets a man who calls himself a citizen of the **Suvarnagiri Janapada**, another who calls himself a citizen of the **Dhanurkota Janapada**, and a third who calls himself simply a **Vedyari**. All three are correct. The Mahā-Saṅgha is what lets the third answer mean something while the first two are in dispute over a water-channel.
+A traveling merchant from [[place-provenzrgn|Provènzia Region]] passing through Vedyara meets a man who calls himself a citizen of the **Suvarnagiri Janapada**, another who calls himself a citizen of the **Dhanurkota Janapada**, and a third who calls himself simply a **Vedyari**. All three are correct. The Mahā-Sangha is what lets the third answer mean something while the first two are in dispute over a water-channel.
 
 ## What a Janapada Is
 
@@ -118,9 +118,9 @@ The janapada owns its land collectively through the temple. A cultivator holds r
 
 The arrangement is durable. Temples burn, droughts empty villages, and kingdoms absorb smaller polities and release them again. The janapada _form_ has run unbroken for nearly three thousand years, and a Vedyari village-cluster today is governed much as one was at the founding of the [[affiliation-vylarinmpr|Vylarian Empire]].
 
-## The Mahā-Saṅgha
+## The Mahā-Sangha
 
-The Mahā-Saṅgha is what passes for coordination between janapadas. It is not a government. It does not legislate, does not tax, and keeps no standing institution between gatherings. What it does is _convene_.
+The Mahā-Sangha is what passes for coordination between janapadas. It is not a government. It does not legislate, does not tax, and keeps no standing institution between gatherings. What it does is _convene_.
 
 It convenes at the great pilgrimage festivals, at the seasonal markets that draw delegations from many janapadas, and above all at the **Mahā-Mela**, the twelve-yearly festival held where the Mahānadi takes its greatest tributary, in central Vedyara. The Mela draws a quarter of a million pilgrims and the senior priests and elders of every janapada that can spare a delegation. It runs for forty days. The first thirty are the religious observances; the last ten are inter-janapada business.
 
@@ -128,7 +128,7 @@ Seats at the Mela are counted by **river-circuit**. Every janapada belongs to th
 
 Those ten days settle the next twelve years, in informal consultation between delegations. The business is water-rights between janapadas on one river system, trade conventions, the reaffirmation of the great pilgrimage routes, and boundary disputes that have outgrown bilateral settlement. It is also the public denunciation of a janapada judged to have behaved shamefully, the recognition of newly-formed janapadas, and the formal mourning of those that have collapsed since the previous Mela.
 
-There is no Mahā-Mela executive and there are no Mahā-Mela officers. There is a tradition of consensus among the senior priests, conducted in the open. A janapada that ignores the consensus meets its peers' disapproval and the slow withdrawal of cooperation. The sanction has teeth: most janapadas live on inter-janapada trade and water-sharing arrangements that can be quietly degraded once the Saṅgha turns against them.
+There is no Mahā-Mela executive and there are no Mahā-Mela officers. There is a tradition of consensus among the senior priests, conducted in the open. A janapada that ignores the consensus meets its peers' disapproval and the slow withdrawal of cooperation. The sanction has teeth: most janapadas live on inter-janapada trade and water-sharing arrangements that can be quietly degraded once the Sangha turns against them.
 
 ## Relationship to the Great City-States
 
@@ -144,7 +144,7 @@ The Janapadas of Vedyara keep no central military. Each janapada raises its own 
 
 The answer to a serious threat is the patron-client relationship with a nearby city-state, or inland with a regional kingdom. The janapada sends grain, labor and sometimes auxiliary troops. The city-state sends the protection of its standing forces.
 
-The Mahā-Saṅgha has raised something like a confederation army three times in recorded Vedyari history. The most recent was four hundred years ago, against a Tānvür-backed adventurer who had subjugated a series of northern janapadas and was threatening more. The senior priests of the affected region called on every janapada within reach to send its militia, and the army halted him. It dissolved as soon as the threat ended, and no permanent institution came out of it. Emergency, success and dissolution is the closest the Mahā-Saṅgha has come to behaving as a state, and the priests are jealous of the precedent. It is invoked rarely.
+The Mahā-Sangha has raised something like a confederation army three times in recorded Vedyari history. The most recent was four hundred years ago, against a Tānvür-backed adventurer who had subjugated a series of northern janapadas and was threatening more. The senior priests of the affected region called on every janapada within reach to send its militia, and the army halted him. It dissolved as soon as the threat ended, and no permanent institution came out of it. Emergency, success and dissolution is the closest the Mahā-Sangha has come to behaving as a state, and the priests are jealous of the precedent. It is invoked rarely.
 
 ## Population and Geography
 
@@ -154,7 +154,7 @@ The janapadas hold the overwhelming mass of Vedyára's people, on the order of *
 
 **Mahāprasāda of the Sarvada**, senior priest of the great temple at the Mela ground. About seventy. Presided over the most recent Mahā-Mela four years ago, and is reckoned the most respected priestly authority in inland Vedyara. The next Mahā-Mela is his last as convening priest, and the succession is already under negotiation.
 
-**The Council of Three**, the informal consultative body of the senior priests of the three largest pilgrim-temples in central Vedyara: the Mahā-Mela temple, the Sūrya temple at the source of the Chandramahī, and the great Mahájaya temple at Bharanya. A joint pronouncement of the Council on a Mahā-Saṅgha matter carries near-universal weight. It works as an executive committee, and the priests deny that it is one.
+**The Council of Three**, the informal consultative body of the senior priests of the three largest pilgrim-temples in central Vedyara: the Mahā-Mela temple, the Sūrya temple at the source of the Chandramahī, and the great Mahájaya temple at Bharanya. A joint pronouncement of the Council on a Mahā-Sangha matter carries near-universal weight. It works as an executive committee, and the priests deny that it is one.
 
 ## Commerce and Currency
 
@@ -163,7 +163,7 @@ The janapadas use the [[lore-vdyrnbnkng|Vedyaran banking system]], administered 
 ## See Also
 
 - [[place-vedyarargn|Vedyara Region]]—parent region
-- [[affiliation-varakpnthn|Varṇaka Pantheon]]—religious tradition that holds the janapadas together
+- [[affiliation-varakpnthn|Varnaka Pantheon]]—religious tradition that holds the janapadas together
 - [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]], [[affiliation-vindhyalay|Vindhyālaya]]—the great city-states
 - [[affiliation-dhnrktjnpd|Dhanurkota Janapada]], [[affiliation-rajaprjnpd|Rajapur Janapada]], [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]]—three particular janapadas
 - [[skill-vedyarlng|Vedyari]]—the shared language

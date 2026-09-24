@@ -4,10 +4,10 @@ tags:
   - common-folk
   - character
 name:
-  full: Minàka Parikṣhana
+  full: Minàka Parikshana
   title: ""
   given: Minàka
-  clan: Parikṣhana
+  clan: Parikshana
   home: vyalendra3
   aliases: []
 packFolder: ankarisvedyara
@@ -594,13 +594,13 @@ sohl:
 
 # Appearance {#appearance}
 
-![[minakprkhn|Minàka Parikṣhana]]{float: top-left}
+![[minakprkhn|Minàka Parikshana]]{float: top-left}
 
 Minàka stands 5'9" tall with a heavy build. She has warm honey skin, graying dark brown hair, and hazel eyes. Her features include an oval face, a narrow nose, a tapered chin, generous lips, graying dark brows. A distinguishing mark is a tattoo of a horse on the thigh.
 
 # Dossier {#dossier}
 
-Minàka was born into the merchant family Parikṣhana, whose wealth derived from the spice trade flowing through the City-States of Vedyara. Her father anticipated she would marry into another merchant family and bear sons to continue the business. Instead, at the age of sixteen, Minàka expressed an all-consuming passion for the art of cookery. Her family, initially scandalized, eventually recognized that her gift was too profound to be denied. She was apprenticed to **Maharaj Mahâdhéva**, the legendary chef of the Council of Merchants, a position of honor if not of traditional wealth.
+Minàka was born into the merchant family Parikshana, whose wealth derived from the spice trade flowing through the City-States of Vedyara. Her father anticipated she would marry into another merchant family and bear sons to continue the business. Instead, at the age of sixteen, Minàka expressed an all-consuming passion for the art of cookery. Her family, initially scandalized, eventually recognized that her gift was too profound to be denied. She was apprenticed to **Maharaj Vikram**, the legendary chef of the Council of Merchants, a position of honor if not of traditional wealth.
 
 Under Maharaj Mahâdhéva's tutelage, Minàka learned not merely to cook but to understand the philosophical foundations of cuisine—the harmony of flavors, the balance of elements, the transformation of raw ingredient into transcendent experience. She spent two decades in his kitchen, gradually ascending from scullery worker to head chef. When Maharaj Mahâdhéva retired thirty years ago, three wealthy families competed to employ Minàka. She chose the merchant house of **Devakara**, whose patriarch respected her artistry and granted her unusual autonomy.
 

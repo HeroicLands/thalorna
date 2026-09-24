@@ -654,7 +654,7 @@ Sunáti is driven by a complex mixture of desires: the pursuit of genuine securi
 
 ### Enemies
 
-- **Śarvī Kalāñjanasundarī**: A rival courtesan of equal talent who views Sunáti as having stolen patrons and prestige that should rightfully be hers. Their competition is professional but genuinely bitter, and Śarvī has attempted various forms of sabotage and social exclusion.
+- **Sharvī Kalāñjanasundarī**: A rival courtesan of equal talent who views Sunáti as having stolen patrons and prestige that should rightfully be hers. Their competition is professional but genuinely bitter, and Sharvī has attempted various forms of sabotage and social exclusion.
 - **The Traditionalist Faction**: A coalition of religious conservatives in Vedyara who view courtesans as corrupting influences and have begun advocating for restrictions on their freedoms. Sunáti has become their symbolic target.
 
 ### Affiliations

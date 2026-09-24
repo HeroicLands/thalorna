@@ -21,13 +21,13 @@ data:
   governance:
     model: council
     summary: >-
-      This god has no priesthood of its own. Varṇaka ordains into a sampradāya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to honest increase—the sown field and the fair measure—guarded by the Nivara-Kshetras, the spirits of the fields, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
+      This god has no priesthood of its own. Varnaka ordains into a sampradāya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to honest increase—the sown field and the fair measure—guarded by the Nivara-Kshetras, the spirits of the fields, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
     ranks:
       - level: 0
         title: Patita
         lore: excmmnctrnk
         description: >-
-          "Fallen"—put out of Varṇakan observance altogether, and received again by no house and no sampradāya.
+          "Fallen"—put out of Varnakan observance altogether, and received again by no house and no sampradāya.
       - level: 1
         title: Upāsaka
         lore: layfaithfulrnk
@@ -66,7 +66,7 @@ sohl: {}
 - **Domain:** Order, prosperity, harvest, trade, the cycles of growth and abundance
 - **Symbol:** A balanced scale encircled by wheat
 - **Pronunciation:** _MAH-ha-jah-yah_
-- **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
+- **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
 Mahájaya is the goddess of preservation, harmony and abundance. Fields ripen under her, markets flourish, and the seasons turn in their ordered round. [[affiliation-vyalendra|Vyālendra]] gives the world its shape and Mahájaya keeps the shape intact. She is invoked at sowing and harvest, at the weighing of grain, at the sealing of contracts, and at every exchange that holds the good order of human society together.
 
@@ -97,5 +97,5 @@ In Mahájayan households, a small brass scale sits on the household shrine besid
 
 ### See Also
 
-- [[affiliation-varakpnthn|Varṇaka Pantheon]]
+- [[affiliation-varakpnthn|Varnaka Pantheon]]
 - [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]]—the orthodox tri-form tradition, which venerates Mahájaya as preserver alongside Vyālendra and Rásikara

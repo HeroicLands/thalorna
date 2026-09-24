@@ -97,7 +97,7 @@ packFolder: vedyara
 sohl: {}
 ---
 
-The **Hvarn** hold [[place-jnanadvara|Jñānadvāra]] and [[place-sankhadvra|Śaṅkhadvāra]], the two crossings of [[place-estrnreach|the Eastern Reach]]. There are nine thousand of them, they are the poorer of the two guide-peoples by a wide margin, and they are the only people on the wall who deal with lowland institutions as a matter of routine.
+The **Hvarn** hold [[place-jnanadvara|Jñānadvāra]] and [[place-sankhadvra|Shankhadvāra]], the two crossings of [[place-estrnreach|the Eastern Reach]]. There are nine thousand of them, they are the poorer of the two guide-peoples by a wide margin, and they are the only people on the wall who deal with lowland institutions as a matter of routine.
 
 ## The Rotation
 
@@ -107,7 +107,7 @@ The system exists because the eastern trade cannot support the western arrangeme
 
 ## The Fort
 
-[[place-sanghafort|The Saṅgha-fort]] on the conch-door col is fed by Hvarn pack-trains. The contract is old, is renewed every third year with the eastern janapadas, and is the single largest piece of Hvarn income. The Fort-carrier who negotiates it is the one member of the people who speaks fluent lowland Vedyari, and the one the garrison's officers know by name.
+[[place-sanghafort|The Sangha-fort]] on the conch-door col is fed by Hvarn pack-trains. The contract is old, is renewed every third year with the eastern janapadas, and is the single largest piece of Hvarn income. The Fort-carrier who negotiates it is the one member of the people who speaks fluent lowland Vedyari, and the one the garrison's officers know by name.
 
 It also makes the Hvarn the confederation's eyes on a frontier the confederation has no other way of watching, a fact [[affiliation-vindhyalay|Vindhyālaya]] resents and the Hvarn decline to discuss.
 
@@ -117,5 +117,5 @@ The Hvarn go down for their dead. A body in the eastern gorges is recovered wher
 
 ## See Also
 
-- [[place-estrnreach|The Eastern Reach]] · [[place-nurvhrn|Nürvhrn]] · [[place-sanghafort|The Saṅgha-fort]]
+- [[place-estrnreach|The Eastern Reach]] · [[place-nurvhrn|Nürvhrn]] · [[place-sanghafort|The Sangha-fort]]
 - [[affiliation-osketguides|The Ösket]] · [[affiliation-janpdsvdyr|Janapadas of Vedyara]] · [[skill-hvarnlng|The Hvarn Tongue]]

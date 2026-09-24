@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "Lord of Thunder in the Varṇaka pantheon, who drives the storms off the peaks and beats them out on a drum."
+description: "Lord of Thunder in the Varnaka pantheon, who drives the storms off the peaks and beats them out on a drum."
 type: lore
 subType: deity
 name:
@@ -20,6 +20,6 @@ A temple drum is beaten at the monsoon's opening and at the climax of every majo
 
 Sailors and farmers wear a lightning amulet, a stylized silver bolt, as a sign of his protection. A rain bowl goes out on the roof at the first sign of the monsoon, and the first rain to fall into it is kept as blessed water for the year. An object struck by lightning near a household is carried to the village shrine and dedicated there, and to put it afterward to profane use is poor form.
 
-[[place-meghashkhr|Meghaśikhara]] is his mountain. The wet air comes up from the south, meets the peak and stops; what falls out of the cloud falls on the Vedyari side, and the country beyond the ridge gets nothing.
+[[place-meghashkhr|Meghashikhara]] is his mountain. The wet air comes up from the south, meets the peak and stops; what falls out of the cloud falls on the Vedyari side, and the country beyond the ridge gets nothing.
 
 Meghadvāra beneath it has the shortest window of the six passes, and he is held to be the reason for it. The Ösket read the cloud on his summit at first light, which is to say they read his mood for the day.

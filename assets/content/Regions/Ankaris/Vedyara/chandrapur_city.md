@@ -52,7 +52,7 @@ The **[[place-moonhouse|Moon House]]** is the palace above the river stair, the 
 
 The **[[place-ganakahall|Ganaka-shala]]** is the reckoners' college, whose tables set the tides, the eclipses and the hour the year is declared in, and whose graduates keep the accounts of every court in Vedyara.
 
-Above all of them stand the temples of the [[affiliation-varakpnthn|Varṇaka]], which are older than the crown, confirm it, and have twice refused to.
+Above all of them stand the temples of the [[affiliation-varakpnthn|Varnaka]], which are older than the crown, confirm it, and have twice refused to.
 
 ## The River Stair
 

@@ -4,10 +4,10 @@ tags:
   - common-folk
   - character
 name:
-  full: Vishnusha Vidyāsāgaramaṇḍala
+  full: Vishnusha Vidyāsāgaramandala
   title: ""
   given: Vishnusha
-  clan: Vidyāsāgaramaṇḍala
+  clan: Vidyāsāgaramandala
   home: dhanurkota
   aliases: []
 packFolder: ankarisvedyara
@@ -593,7 +593,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vshnshvdysgrml|Vishnusha Vidyāsāgaramaṇḍala]]{float: top-left}
+![[vshnshvdysgrml|Vishnusha Vidyāsāgaramandala]]{float: top-left}
 
 Vishnusha stands 6'3" tall with a heavy build. He has warm honey skin, black hair, and brown eyes. His features include a full face, a slightly arched nose, a soft jawline, generous lips, and expressive brows.
 

@@ -4,10 +4,10 @@ tags:
   - tradesfolk
   - character
 name:
-  full: Vishali Bâlarṇaya
+  full: Vishali Bâlarnaya
   title: ""
   given: Vishali
-  clan: Bâlarṇaya
+  clan: Bâlarnaya
   home: rajapur
   aliases: []
 packFolder: ankarisvedyara
@@ -584,7 +584,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vishalblry|Vishali Bâlarṇaya]]{float: top-left}
+![[vishalblry|Vishali Bâlarnaya]]{float: top-left}
 
 Vishali stands 5'8" tall with a light build. She has rich brown skin, dark black hair, and warm brown eyes. Her features include a round face, a slightly arched nose, a gentle jawline, generous lips, and rich brows. She has a scar on her right elbow.
 

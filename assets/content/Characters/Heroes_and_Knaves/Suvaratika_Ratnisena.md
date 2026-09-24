@@ -4,10 +4,10 @@ tags:
   - tradesfolk
   - character
 name:
-  full: Suvaratika Ratniseṇa
+  full: Suvaratika Ratnisena
   title: ""
   given: Suvaratika
-  clan: Ratniseṇa
+  clan: Ratnisena
   home: chandrapur2
   aliases: []
 packFolder: ankarisvedyara
@@ -596,7 +596,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[suvrtkrtns|Suvaratika Ratniseṇa]]{float: top-left}
+![[suvrtkrtns|Suvaratika Ratnisena]]{float: top-left}
 
 Suvaratika stands 5'6" tall with a light build. She has warm bronze skin, deep black hair, and black eyes. Her features include a full face, a prominent nose, a narrow chin, expressive brows, rounded cheeks. A distinguishing mark is a scar running down the right leg.
 

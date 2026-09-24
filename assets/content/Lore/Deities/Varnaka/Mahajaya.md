@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "The Eternal Preserver of the Varṇaka pantheon, holding order and the grain a settled order rests on."
+description: "The Eternal Preserver of the Varnaka pantheon, holding order and the grain a settled order rests on."
 type: lore
 subType: deity
 name:
@@ -20,6 +20,6 @@ Her scale weighs measure and not judgment. It stands for the honest weighing tha
 
 A brass weighing scale sits on the household shrine beside a fresh sheaf of wheat cut at the start of each harvest. A bowl of mixed grains stands beside it, the household's small sermon on the wholeness that comes of many parts kept in right relation. Merchants touch the scale at the close of a market day and name the day's dealings, asking that nothing was gained by short measure. Farmers scatter a handful of millet at a field's edge to her Nivara-Kshetras at each new moon.
 
-Her great inland temples are built to hold someone to account. At Dhanurkota her temple is the janapada's federating hall. At Suvarṇagiri three temples of equal size ring the gold-bearing mountain, so that no one priesthood can claim its wealth, and the monthly Weighing of the mountain's gold is conducted in her name and in public, before anyone who cares to watch.
+Her great inland temples are built to hold someone to account. At Dhanurkota her temple is the janapada's federating hall. At Suvarnagiri three temples of equal size ring the gold-bearing mountain, so that no one priesthood can claim its wealth, and the monthly Weighing of the mountain's gold is conducted in her name and in public, before anyone who cares to watch.
 
 She is invoked wherever grain is sown and wherever a contract is sealed. A court that needs reminding that order is a discipline and not a birthright invokes her too.

@@ -4,10 +4,10 @@ tags:
   - soldiery
   - character
 name:
-  full: Dharmàpala Vimuktaṇa
+  full: Dharmàpala Vimuktana
   title: ""
   given: Dharmàpala
-  clan: Vimuktaṇa
+  clan: Vimuktana
   home: dhanurkota
   aliases: []
 packFolder: ankarisvedyara
@@ -577,7 +577,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[dhrmplvmkt|Dharmàpala Vimuktaṇa]]{float: top-left}
+![[dhrmplvmkt|Dharmàpala Vimuktana]]{float: top-left}
 
 Dharmàpala stands 6'1" tall with a medium build. He has warm golden brown skin, dark black hair, and dark brown eyes. His features include an oval face, a broad nose, a narrow chin, an expressive mouth, warm golden brows, and high cheeks. He has a tattoo of a flower on his ankle.
 
