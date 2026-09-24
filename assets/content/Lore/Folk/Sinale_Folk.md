@@ -62,7 +62,7 @@ The enclaves are protected not by walls or armies but by the Sinalë's relations
 
 The number and location of these enclaves is unknown. Human scholars have confirmed the existence of perhaps a dozen, scattered across the forests of [[place-elavendre|Élavendre]], the mountains of [[place-aelwyth|Aelwyth Region]], the deep woods of [[place-vrystwald|Vrystwald Region]], and remote corners of other continents. There are certainly more. The Sinalë do not volunteer information about their settlements, and the enclaves that humans know about are probably the ones the Sinalë consider least important.
 
-Not all enclaves endure. [[place-laurelosse|Laurelossë]], a hidden sanctuary in the deep interior of [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], was destroyed by the [[being-tereb|tereb]] necromancer [[being-grmsvrtrnr|Gríma Svartrúnar]] in the service of [[affiliation-hel|Hél]]. Its corruption—and the imprisonment of its inhabitants' spirits—is an open wound among the Sinalë, and a grim demonstration that even the Firstborn's ancient protections are not absolute.
+Not all enclaves endure. [[place-haulonna|Haulonna]], a hidden sanctuary in the deep interior of [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], was destroyed by the [[being-tereb|tereb]] necromancer [[being-grmsvrtrnr|Gríma Svartrúnar]] in the service of [[affiliation-hel|Hél]]. Its corruption—and the imprisonment of its inhabitants' spirits—is an open wound among the Sinalë, and a grim demonstration that even the Firstborn's ancient protections are not absolute.
 
 ## Relations with Humanity
 
@@ -96,4 +96,4 @@ The Sinalë also maintain some form of connection with the peoples of [[place-kc
 - [[place-kchchkcntnnt|K'ich'chik]]—Some form of connection with K'ich'chik society
 - [[place-vrystwald|Vrystwald Region]]—Known to contain Sinalëan enclaves
 - [[place-aelwyth|Aelwyth Region]]—Known to contain Sinalëan enclaves
-- [[place-laurelosse|Laurelossë]]—Destroyed Sinalëan enclave in [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
+- [[place-haulonna|Haulonna]]—Destroyed Sinalëan enclave in [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]

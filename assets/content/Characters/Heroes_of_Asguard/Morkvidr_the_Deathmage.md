@@ -558,7 +558,7 @@ Mörkvidr's necromantic powers are staggering: he can raise armies of the dead, 
 
 **The Temple of Týr**—The entire faith of Týr has sworn to destroy Mörkvidr for the desecration of their temple. Their finest warriors and most powerful blessings are dedicated to this purpose.
 
-**The Sinalë of Laurelossë**—The Sinalë whose sanctuary was later devastated by Gríma under Mörkvidr's indirect influence seek to eliminate all of Hél's champions.
+**The Sinalë of Haulonna**—The Sinalë whose sanctuary was later devastated by Gríma under Mörkvidr's indirect influence seek to eliminate all of Hél's champions.
 
 **Sigvardr One-Hand**—The champion of Týr views Mörkvidr as his ultimate quarry and has sworn a personal oath to bring the necromancer to justice.
 

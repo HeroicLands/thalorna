@@ -19,67 +19,50 @@ data:
     model: stratocracy
     summary: >-
       A standing navy under the Naukrátissa, answering through the Stratégissa to the Mêtríssa,
-      and licensing privateers under the crown's Purple Warrant.
+      whose fighting complement is women's and the gelded's while the labor of the hull is done
+      by men who are not of it, and which licenses privateers under the crown's Purple Warrant.
     ranks:
       - level: 0
         title: Struck from the Rolls
         lore: expelledrnk
         description: >-
-          Put out of the fleet in disgrace; no Bethûan hull will ship her and no house will
-          own the service.
+          A warrant recalled and its captain disowned when she becomes an embarrassment; no
+          Bethûan hull will ship her afterward and no House will own the service.
       - level: 1
-        title: Ship's Servant
-        lore: servantrnk
-        description: Kept aboard for the cooking, the carrying and the pumps, and not counted
-          among the crew.
-      - level: 2
-        title: Oarswoman
-        lore: dependentrnk
-        description: At the sweeps of a war-galley, rated and paid, and holding no voice in
-          how she is fought.
-      - level: 3
-        title: Rated Hand
-        lore: dependentrnk
-        description: Of the working crew—sail, rigging, ordnance, boarding—and trusted at
-          a station.
-      - level: 4
-        title: Petty Officer
+        title: Marine
         lore: warriorrnk
-        description:
-          "Holding a station's people: the bosun, the master of ordnance, the sailing-master's
-          mate."
-      - level: 5
-        title: Naukléra
+        description: >-
+          Of the boarding-fighters who decide a galley action, drawn from the Spear-Sisterhood
+          and the eunuch Spádai, fighting with blade, with javelin and with the unarmed Charíssa
+          in a press where a longer weapon is useless.
+      - level: 3
+        title: Petty Officer
         lore: officerrnk
         description: >-
-          Ship-mistress: captain of a war-galley or a squadron's hull, and in the privateer
-          service commonly her owner.
-      - level: 6
-        title: Squadron Commander
+          Holding a station's people: the bosun, the master of ordnance, the sailing-master's
+          mate.
+      - level: 4
+        title: Naukléra
         lore: commanderrnk
         description: >-
-          Holding several hulls under her own pennant, answerable for what they take and what
-          they start.
-      - level: 7
+          Ship-mistress: commands a war-galley or a squadron, and in the private and privateer
+          service is commonly the owner of her own vessel.
+      - level: 5
         title: Naukrátissa
         lore: magistraternk
         description: >-
-          Sea-mistress: admiral of the fleet and the realm's chief naval commander—one of
-          its most prestigious commands.
-      - level: 8
+          Sea-mistress: admiral of the fleet and the realm's chief naval commander, and a
+          frequent stepping-stone to the highest circles of both councils.
+      - level: 6
         title: Stratégissa
         lore: magistraternk
         description: >-
           Supreme command of the whole host, army and fleet alike, held as the Mêtríssa's lent
           authority.
     offices:
-      Stratégissa: Supreme commander of the host by land and sea, holding the Mêtríssa's lent
-        authority.
-      Naukrátissa: Admiral of the fleet and the realm's chief naval commander.
-      Naukléra: >-
-        Ship-mistress commanding a war-galley, and in the private and privateer service commonly
-        her owner.
-      Squadron Commander: Holder of several hulls under one pennant.
+      Warrant-Captain: >-
+        A Naukléra of the Purple, sailing under a commission of private war: she arms her
+        vessel, takes enemy shipping as lawful prize and keeps the bulk of what she takes.
       Keeper of the Purple Warrant: >-
         Issuer and recorder of the letters under which a privateer sails, and the realm's
         deniability when one is disowned.
@@ -87,8 +70,8 @@ data:
       Master of Ordnance: Keeper of a ship's engines, shot and fire.
       Bosun: Master of the working of the ship and of her people at their stations.
       Harbour-Mistress: Warden of a naval haven, its stores, its slipways and its dues.
-      Prize-Court Assessor: Judge of what a privateer took and whether the taking was lawful
-        under the warrant.
+      Prize-Court Assessor: >-
+        Judge of what a privateer took and whether the taking was lawful under the warrant.
   commonSkills:
     - bethunlng
   seat: null
