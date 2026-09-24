@@ -86,6 +86,8 @@ data:
   domains:
     - vedyarargn
     - sanghafort
+    - naughatta
+    - bharavamukha
   population: 90000000
   economy:
     - affiliation-mrchntclctvvdyr
