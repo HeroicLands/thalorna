@@ -656,13 +656,13 @@ Tárellia is motivated by a drive to prevent tragedy through accurate knowledge,
 
 ### Patrons
 
-- **Merchant Prince Nathaniel Seaworth**: A wealthy trader whose fortune was significantly increased by consistently following Tárellia's advice regarding trade routes and departure timing. He pays handsomely for her exclusive consultation and considers her his secret advantage against competitors.
+- **Merchant Prince Náldor Cárdeth**: A wealthy trader whose fortune was significantly increased by consistently following Tárellia's advice regarding trade routes and departure timing. He pays handsomely for her exclusive consultation and considers her his secret advantage against competitors.
 
-- **Captain-Commander Theron Glassbrand**: The supreme naval commander of Élavendre's maritime forces, who employs Tárellia for predictions regarding weather, enemy movements, and auspicious timing for naval operations. His trust in her has made her recommendations carry official weight.
+- **Captain-Commander Ténral Sálthar**: The supreme naval commander of Élavendre's maritime forces, who employs Tárellia for predictions regarding weather, enemy movements, and auspicious timing for naval operations. His trust in her has made her recommendations carry official weight.
 
 - **the Mariners' Guild Council**: The official governing body of the guild that has engaged Tárellia as the primary consultant for matters of celestial navigation and maritime astrology. They pay her retainer and frequently consult her on matters affecting guild interests.
 
-- **Scholar-Collector Adrienne Moonwhisper**: An elderly woman of learning who maintains a private library of rare astrological texts and who employs Tárellia to help authenticate, organize, and study new acquisitions. Their relationship is more that of fellow scholars than of patron and adviser.
+- **Scholar-Collector Lóriena Myrkelis**: An elderly woman of learning who maintains a private library of rare astrological texts and who employs Tárellia to help authenticate, organize, and study new acquisitions. Their relationship is more that of fellow scholars than of patron and adviser.
 
 ### Enemies
 

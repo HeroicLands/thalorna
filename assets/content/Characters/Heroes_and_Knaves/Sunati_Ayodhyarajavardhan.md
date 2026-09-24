@@ -649,7 +649,7 @@ Sunáti is driven by a complex mixture of desires: the pursuit of genuine securi
 
 ### Patrons
 
-- **Merchant-Prince Vikrama Vyāvahārika**: A powerful trader in textiles and spices who has maintained a consistent patronage of Sunáti for the past four years. Though he is married, his relationship with Sunáti is explicitly financial and social rather than romantic. He values her counsel on matters of business and politics.
+- **Merchant-Prince Chandipâla Vyāvahārika**: A powerful trader in textiles and spices who has maintained a consistent patronage of Sunáti for the past four years. Though he is married, his relationship with Sunáti is explicitly financial and social rather than romantic. He values her counsel on matters of business and politics.
 - **The Council of Merchant Princes**: Collectively, Sunáti has served as an informal consultant and companion to multiple members of Vedyara's ruling merchant council, making her privy to significant political and commercial secrets.
 
 ### Enemies

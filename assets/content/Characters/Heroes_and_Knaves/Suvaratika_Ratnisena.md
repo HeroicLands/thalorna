@@ -656,7 +656,7 @@ As she approaches forty, she is increasingly aware that her vision could die wit
 ### Enemies
 
 - **The Merchant Collective of Mass Producers**: Large-scale toy manufacturers who view Suvaratika's insistence on handcrafted quality as an obstacle to progress and market efficiency. They have occasionally attempted to undercut her prices and capture her customers.
-- **Dharma Vyāvahārika**, a competitive toymaker: A merchant-craftsperson who produces trendy, fashionable toys in high volume. She views Suvaratika's philosophical approach as pretentious and her resistance to mass production as economically naive. The two have engaged in passive-aggressive competition for the same elite clientele.
+- **Dhârîka Vyāvahārika**, a competitive toymaker: A merchant-craftsperson who produces trendy, fashionable toys in high volume. She views Suvaratika's philosophical approach as pretentious and her resistance to mass production as economically naive. The two have engaged in passive-aggressive competition for the same elite clientele.
 
 ### Affiliations
 

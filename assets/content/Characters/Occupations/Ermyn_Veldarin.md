@@ -561,7 +561,7 @@ His awareness of danger is preternatural. His ability to move silently and remai
 
 ### Patrons
 
-**Town Magistrate Aelwen Forestsong**—The administrator of the forest-edge town. Aelwen was instrumental in the settling of refugees and personally advocated for Êrmyn's acceptance. She has become his primary patron and has made it clear that she trusts him absolutely. She has also quietly supported his continued education.
+**Town Magistrate Aelwen Mórlineth**—The administrator of the forest-edge town. Aelwen was instrumental in the settling of refugees and personally advocated for Êrmyn's acceptance. She has become his primary patron and has made it clear that she trusts him absolutely. She has also quietly supported his continued education.
 
 ### Enemies
 
