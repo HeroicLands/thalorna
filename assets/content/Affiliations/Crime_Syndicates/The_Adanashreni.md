@@ -34,8 +34,8 @@ data:
         lore: expelledrnk
         description: >-
           The cut thread. Struck from the lineage and from the guild's protection, which in
-          practice means the guild will surrender them to the king's justice to keep its charter
-          clean.
+          practice means the guild will surrender them to the justice of whatever crown or council
+          chartered the line, to keep its charter clean.
       - level: 1
         title: Āshrita
         lore: dependentrnk
@@ -53,7 +53,7 @@ data:
         lore: journeymanrnk
         description: >-
           A taker in their own right, entered in the guild register, bound by the taboos and
-          entitled to the guild's advocate before a king's magistrate.
+          entitled to the guild's advocate before a crown's or a council's magistrate.
       - level: 4
         title: Ācārya
         lore: masterrnk
@@ -185,7 +185,7 @@ charter worth granting.
 
 The guild's prohibitions read like piety and are almost entirely pragmatic. Each protects the charter.
 
-- **No killing during a taking.** A theft is the guild's court's business; a killing is the king's.
+- **No killing during a taking.** A theft is the guild's court's business; a killing is the chartering power's.
   A taker who kills forfeits their share, their standing, and often their lineage's.
 - **Nothing from a sanctum.** The doctrine of ādāna requires that the gods consent, and the guild is
   unwilling to test the proposition.
@@ -195,7 +195,7 @@ The guild's prohibitions read like piety and are almost entirely pragmatic. Each
   has already done with them.
 
 The first of these is the one outsiders get wrong. The guild does not forbid killing; it forbids
-killing **during a taking**, because that is what converts its business into the king's. A commission
+killing **during a taking**, because that is what converts its business into the chartering power's. A commission
 carried out cleanly, by a hand that cannot be traced back to a charter, breaks no written rule—and
 the persistent, credible, furiously denied accusation against the Ādānashrenī is that certain Shreshthins
 accept exactly such commissions and route them through people who are not quite members. This is the
@@ -214,10 +214,10 @@ Vedyara is a subcontinent, and the Ādānashrenī is dominant without being sole
 - **Local gangs.** As everywhere in Thalorna, every town has its own petty operators, who subcontract
   to the guild and are the first casualties of any dispute.
 - **The Chinnasūtra.** A schism, perhaps two generations old, of craft-lines that rejected the taboos—chiefly the prohibition on killing—and were cut off. They are the only rivals the guild treats as
-  an existential matter, because a Chinnasūtra killing during a taking is read by kings as a guild
+  an existential matter, because a Chinnasūtra killing during a taking is read by crowns and councils as a guild
   killing, and charters have been suspended over it. The guild will pay outsiders very well to deal
   with them, precisely because it cannot be seen to.
-- **The hill and forest raiders**, outside any charter, any kingdom, and any conversation.
+- **The hill and forest raiders**, outside any charter, any polity, and any conversation.
 
 ## Adventure Hooks
 

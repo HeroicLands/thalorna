@@ -18,4 +18,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-6 bodies in Thalorna name this standing, at level 5 of their ladders, and each spells it in its own words: **Ordained**, **Scribe or Priest**, **Brāhmana**, **Priest**, **Priestess**, **Mōbad**.
+6 bodies in Thalorna name this standing, at level 5 of their ladders, and each spells it in its own words: **Ordained**, **Scribe or Priest**, **Ritūja**, **Priest**, **Priestess**, **Mōbad**.

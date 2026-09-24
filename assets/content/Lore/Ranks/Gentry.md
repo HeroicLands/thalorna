@@ -18,4 +18,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-2 bodies in Thalorna name this standing, at level 3 of their ladders, and each spells it in its own words: **Gentry**, **Vaishya**.
+2 bodies in Thalorna name this standing, at level 3 of their ladders, and each spells it in its own words: **Gentry**, **Dhanāja**.

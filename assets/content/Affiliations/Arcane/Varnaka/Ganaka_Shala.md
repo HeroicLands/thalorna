@@ -119,7 +119,7 @@ A single day is enough to move a Weighing, a coronation or a festival, and neith
 
 ### Who Is Admitted
 
-The college examines in open hall and publishes the question with the answer. It takes a candidate on what he computes and not on his wrist-line, and it has held to that for long enough that the practice is no longer argued about—only worked around. A Shūdra who passes the boards is a Ganaka, and a court that will not seat him hires him through a Vaishya intermediary and pays both.
+The college examines in open hall and publishes the question with the answer. It takes a candidate on what he computes and not on his wrist-line, and it has held to that for long enough that the practice is no longer argued about—only worked around. A Karmāja who passes the boards is a Ganaka, and a court that will not seat a man of the serving order hires him through a Dhanāja merchant instead and pays both.
 
 ### What It Will Not Do
 

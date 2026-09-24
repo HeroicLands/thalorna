@@ -42,7 +42,7 @@ The yield is reckoned by estate and not by village, and it is the only wealth in
 
 The people who do the gathering are not the people who hold the forest. They live in the interior in small mobile groups, they take the estates' licences and turn their season's gathering in at the margin, and the lowland records name them collectively and individually not at all.
 
-They are outside the varna order rather than at the bottom of it, which the estates find convenient and the orthodox temples of the plains find scandalous when it is put to them. In practice a gatherer at a forest margin is received, paid and not asked to show a wrist, and a gatherer who walks out to a plains town is an Outcaste the moment somebody does ask.
+They are outside the tharana rather than at the bottom of it, which the estates find convenient and the orthodox temples of the plains find scandalous when it is put to them. In practice a gatherer at a forest margin is received, paid and not asked to show a wrist, and a gatherer who walks out to a plains town is an Outcaste the moment somebody does ask.
 
 ## The Road
 
