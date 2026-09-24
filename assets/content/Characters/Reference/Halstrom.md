@@ -8,7 +8,7 @@ name:
   given: Halstrom
   clan: ""
   aliases: []
-description: "A new crime boss, Merchant Captain Halstrom, begins moving into the bazaar and encroaching on Jovan Blackjacket's territory."
+description: "A new crime boss, Merchant Captain Halstrom, begins moving into the bazaar and encroaching on Khasrikon Phanariôtês's territory."
 shortcode: halstrom
 type: being
 data:

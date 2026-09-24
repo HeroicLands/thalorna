@@ -654,7 +654,7 @@ Leónantos seeks redemption through unwavering service to Flórania, believing t
 ### Patrons
 
 - **Thálassios of the Byzarian Council**: A military governor who relies on Leónantos's blessings and counsel to maintain his authority and morale among his troops.
-- **High Priestess Kallista**: The supreme ecclesiastical authority in the region, who has come to trust—though not entirely comfort—Leónantos's brutal effectiveness.
+- **High Priestess Eupráxinaz**: The supreme ecclesiastical authority in the region, who has come to trust—though not entirely comfort—Leónantos's brutal effectiveness.
 
 ### Enemies
 
@@ -672,7 +672,7 @@ Leónantos seeks redemption through unwavering service to Flórania, believing t
 
 1. **The Pirate's Debt Calls**: A merchant vessel recently arrived in the Byzarian harbors bearing Théodoulos's colors—and word that the captain has grown tired of hunting. He sends a message to Leónantos: surrender yourself for trial before the pirate assembly, or he will burn the ports themselves in siege. As military leaders call upon Leónantos to lead the defense, he must decide whether his past truly has been absolved by faith, or whether some debts must be settled with steel rather than prayer. The party may find themselves hired to track down Théodoulos before he strikes, or forced to help Leónantos face this specter from his corsair days.
 
-2. **A Crisis of Faith**: High Priestess Kallista discovers evidence suggesting that Leónantos has been conducting unauthorized dark rituals in the temple's lower chambers—communing with ancient fire spirits of malevolent aspect rather than divine flame. Whether this is truth or elaborate fabrication by enemies within the priesthood, it threatens to destroy both the church's stability and Leónantos's hard-won redemption. The party might be tasked by competing factions to either prove his guilt or uncover the conspiracy against him, delving into the shadowed politics of ecclesiastical power.
+2. **A Crisis of Faith**: High Priestess Eupráxinaz discovers evidence suggesting that Leónantos has been conducting unauthorized dark rituals in the temple's lower chambers—communing with ancient fire spirits of malevolent aspect rather than divine flame. Whether this is truth or elaborate fabrication by enemies within the priesthood, it threatens to destroy both the church's stability and Leónantos's hard-won redemption. The party might be tasked by competing factions to either prove his guilt or uncover the conspiracy against him, delving into the shadowed politics of ecclesiastical power.
 
 3. **The Resurrection of the Scarlet Reaver**: Leónantos's old crew, scattered and aged, begins to reassemble on the docks. Led by his former first mate Gaspar—a scarred, one-eyed survivor who claims Leónantos abandoned them all those years ago—they demand that he return to the seas and reclaim the piracy that made them rich. They hold the deed to his former ship, recently recovered from the depths, and they offer him a choice: sail with them one final time, or watch them use his secrets to burn the Byzarian League itself. The party becomes caught between honoring the transformation of a complex man and preventing catastrophe.
 

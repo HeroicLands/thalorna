@@ -605,7 +605,7 @@ Kalída stands 5'7" tall with a light build. She has light tanned skin, black ha
 
 # Dossier {#dossier}
 
-Born to the Kourkásios family, prosperous wine merchants of the Byzarian League, Kalída was expected to marry advantageously and manage household affairs. Instead, at age sixteen, she became obsessed with the ancient pottery techniques of the Old Kingdom, studying under the aging master potter **Artemios the Glazemaster** against her family's wishes. Her early works were technically flawless but cold, perfect imitations of classical forms. The true breakthrough came when a kiln fire damaged a batch of her work, causing the glazes to run and blend in unexpected ways—what she initially saw as catastrophic failure became the seed of her revolutionary technique.
+Born to the Kourkásios family, prosperous wine merchants of the Byzarian League, Kalída was expected to marry advantageously and manage household affairs. Instead, at age sixteen, she became obsessed with the ancient pottery techniques of the Old Kingdom, studying under the aging master potter **Timolkâr the Glazemaster** against her family's wishes. Her early works were technically flawless but cold, perfect imitations of classical forms. The true breakthrough came when a kiln fire damaged a batch of her work, causing the glazes to run and blend in unexpected ways—what she initially saw as catastrophic failure became the seed of her revolutionary technique.
 
 Within five years, her work had become renowned throughout the League and beyond. She established her own atelier, deliberately choosing a studio in the artisan quarter rather than accepting wealthy patronage that would have confined her. At twenty-nine, she has amassed a small fortune from commissions, though she pours most of her earnings back into experimentation and materials. Her greatest achievement is the development of a novel glaze formula that achieves unprecedented depth of color and a liquid-like quality that appears to move across the vessel's surface.
 
@@ -643,12 +643,12 @@ Kalída is driven by a vision of pushing the boundaries of what pottery can be�
 
 - **Lord Archon Theodorus**: A wealthy collector and patron of the arts who has commissioned several major pieces and provides her with occasional capital for experiments.
 - **The Byzarian Merchant Consortium**: Her family's organization, which, despite initial disapproval, now takes pride in her success and occasionally sponsors commissions for diplomatic gifts.
-- **Master Artemios**: Though retired, her elderly teacher remains her confidant and advisor, and she still seeks his input on technically difficult glazing problems.
+- **Master Timolkâr**: Though retired, her elderly teacher remains her confidant and advisor, and she still seeks his input on technically difficult glazing problems.
 
 ### Enemies
 
 - **The Conservative Artisans' Guild Faction**: Traditional potters view her revolutionary techniques as a threat to established standards and have worked to exclude her from certain prestigious exhibitions.
-- **Rival Artist Makedonis**: A jealous sculptor who was once romantically involved with Kalída and now actively spreads rumors about her methods being "mere trickery" rather than true art.
+- **Rival Artist Andrónash**: A jealous sculptor who was once romantically involved with Kalída and now actively spreads rumors about her methods being "mere trickery" rather than true art.
 
 ### Affiliations
 
@@ -661,8 +661,8 @@ Kalída is driven by a vision of pushing the boundaries of what pottery can be�
 
 2. **Commission from the Shadow Court**: A mysterious patron offers an enormous commission—enough to fund her ambitions for years—to create a series of vessels with very specific, unusual properties. The patron is deliberately vague about the purpose, but the designs Kalída is asked to create suggest uses both mystical and potentially harmful. She must decide whether to accept the work and risk becoming entangled with forces she doesn't understand.
 
-3. **The Rekindling**: **Makedonis**, her former lover, reappears with a proposal: collaborate on a joint project that would be revolutionary, combining sculpture and pottery into something entirely new. The work would be career-defining for both of them, but their romantic history is fraught with betrayal and heartbreak. She must decide whether artistic ambition can overcome personal wounds, or whether this is simply a trap designed to expose her vulnerabilities.
+3. **The Rekindling**: **Andrónash**, her former lover, reappears with a proposal: collaborate on a joint project that would be revolutionary, combining sculpture and pottery into something entirely new. The work would be career-defining for both of them, but their romantic history is fraught with betrayal and heartbreak. She must decide whether artistic ambition can overcome personal wounds, or whether this is simply a trap designed to expose her vulnerabilities.
 
 4. **Clay from Beyond**: A trader arrives with an extraordinary clay discovered in far southern lands, claimed to possess unique properties. Sample pieces fired from it display iridescence and colors impossible with ordinary glazing. However, the clay is both rare and expensive, and the trader's questions about her work and methods feel probing. Kalída must obtain sufficient quantities to pursue a revolutionary line of work while uncovering whether there is something more to the trader's interest than art appreciation.
 
-5. **The Inheritance**: Kalída's elderly mentor **Artemios** dies, leaving her his private collection of classical pottery pieces and a personal journal revealing that many of his greatest works and techniques were actually developed in collaboration with a woman he could never publicly acknowledge due to social restrictions. The journal hints at techniques beyond even his magnificent achievements. Kalída must decide whether to use this knowledge to push her art forward while managing the ethical complications of claiming work that was not entirely her own.
+5. **The Inheritance**: Kalída's elderly mentor **Timolkâr** dies, leaving her his private collection of classical pottery pieces and a personal journal revealing that many of his greatest works and techniques were actually developed in collaboration with a woman he could never publicly acknowledge due to social restrictions. The journal hints at techniques beyond even his magnificent achievements. Kalída must decide whether to use this knowledge to push her art forward while managing the ethical complications of claiming work that was not entirely her own.
