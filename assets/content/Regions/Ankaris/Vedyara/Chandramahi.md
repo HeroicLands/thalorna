@@ -37,4 +37,5 @@ The river is one of the four pilgrim-circuits by which the janapadas are seated 
 ## See Also
 
 - [[place-chandrprbh|Chandraprabhava]] · [[place-sthrnwall|The Southern Wall]] · [[place-vedyarargn|Vedyara Region]]
+- [[place-chandrapur2|Chandrapur]] · [[place-chandrmukha|Chandramukha]]
 - [[place-sarvadarivr|The Sarvada]] · [[place-mahanadi|The Mahānadi]] · [[place-bharavarivr|The Bhārava]]

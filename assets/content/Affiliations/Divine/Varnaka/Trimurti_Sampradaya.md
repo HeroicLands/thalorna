@@ -77,6 +77,7 @@ data:
   domains:
     - chandrprbh
     - himashila
+    - suryatempl
   population: null
   economy: []
   lore: []

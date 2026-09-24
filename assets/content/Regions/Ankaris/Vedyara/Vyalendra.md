@@ -91,6 +91,7 @@ data:
   domains:
     - vyalendraland
     - vyalendra3
+    - nilatira
   population: 6000000
   economy:
     - affiliation-mrchntclctvvdyr
@@ -120,6 +121,10 @@ Above the city's own affairs stand the temples. The senior priest of the Trimūr
 
 The city's temples stand next to the great weaving halls, the sanctuary of Mahájaya first among them. She is the serene matriarch, patron of honest measure and so of every bolt that leaves a hall. The weavers hold their work to be a spiritual thing, and the siting says so. The city is quieter and less cosmopolitan than Chandrapur, and the slow rhythms of the textile craft have made its whole character.
 
+## The Port and the Fleet
+
+Vyālendra keeps no deep-water hulls. The cloth goes down the river road to [[place-nilatira|Nīlatīra]] at the river's mouth, is sealed, counted and taxed in the Koshādhyaksha's shed there, and goes to sea in [[affiliation-chandrapur|Chandrapur]]'s galleys under a hire the two cities argue out before every sailing season. Vyālendra has the cargo and Chandrapur has the ships. Neither has ever got terms out of the other that held for more than one year.
+
 ## Commerce and Currency
 
 Vyālendra uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. Foreign coin, weighed Khazryn metal and the Ta'Kheperan deben pieces, is exchangeable at frontier moneylenders at Collective-controlled rates. The Vedyaran system is the dominant medium of internal commerce. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
@@ -129,5 +134,6 @@ Vyālendra uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered th
 - [[place-vedyarargn|Vedyara Region]]—Regional overview
 - [[place-vyalendraland|Vyālendra Land]]—the land the city-state holds
 - [[place-vyalendra3|Vyālendra]]—The city itself
+- [[place-nilatira|Nīlatīra]]—the port the cloth leaves by
 - [[skill-vedyarlng|Vedyari]]—Naming tradition
 - [[affiliation-varakpnthn|Varṇaka Pantheon]]—Religious tradition

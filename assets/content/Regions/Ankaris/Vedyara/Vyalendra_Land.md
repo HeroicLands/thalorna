@@ -33,11 +33,12 @@ The arrangement is not an assembly-republic and should not be mistaken for one. 
 
 Cotton and indigo are the land's crops, and both exist for the cloth. The valleys grow the long-staple cotton the city's finest work requires; the dye-villages hold the indigo vats and the mordant recipes that make Vyālendri color worth what it is; the loom villages weave the plain goods and send the difficult patterns into the city's great halls. Silk comes in by trade. It is worked here and not grown here.
 
-What leaves is cloth, and it leaves by water. The river road down to the coast is the land's one artery, and the season in which the bales move is negotiated every year with [[affiliation-chandrapur|Chandrapur]], whose galleys carry them beyond the coast.
+What leaves is cloth, and it leaves by water. The river road down to the coast is the land's one artery, and it ends at [[place-nilatira|Nīlatīra]], the bale-port at the river's mouth three days below the last of the valleys. Everything the land makes passes through the yards there. The season in which the bales move is argued out every year with [[affiliation-chandrapur|Chandrapur]], whose galleys carry them beyond the coast.
 
 ## See Also
 
 - [[affiliation-vyalendra2|Vyālendra]]—the city-state that holds this land
 - [[place-vyalendra3|Vyālendra]]—the city itself
+- [[place-nilatira|Nīlatīra]]—the port at the river's mouth
 - [[place-vedyarargn|Vedyara Region]]—the enclosing region
 - [[affiliation-dhnrktjnpd|Dhanurkota Janapada]]—where the commander of the city watch is always found

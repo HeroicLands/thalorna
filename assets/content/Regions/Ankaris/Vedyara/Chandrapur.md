@@ -100,6 +100,10 @@ data:
   domains:
     - chandrapurland
     - chandrapur2
+    - chandrmukha
+    - greatbazaar
+    - moonhouse
+    - ganakahall
   population: 6000000
   economy:
     - affiliation-mrchntclctvvdyr
@@ -131,13 +135,17 @@ The Mahārāja rules with a court, and the court is the **Nine Houses**. Their h
 
 A Kulina is not a Sāmanta and holds no land of the king's grant. His standing is his house's charter. A house that loses its trade loses its seat within a generation, and that is the difference between this court and a kingdom's.
 
+The court sits in the [[place-moonhouse|Moon House]] above the river stair, on nine seats of one height. The crown's own revenue comes from the tenth district, where the [[place-greatbazaar|Great Bazaar]], the assay, the customs and the mint are the crown's and no house's.
+
 ## The Fleet
 
-The war-galleys at the river mouth are the only standing fighting fleet in Vedyara. Every other power on the coast hires hulls in the season it needs them and lays them off after. Chandrapur keeps its own, builds them in its own yards, and mans them off its own shore.
+The war-galleys at the river mouth are the only standing fighting fleet in Vedyara. Every other power on the coast hires hulls in the season it needs them and lays them off after. Chandrapur keeps its own, builds them in its own yards at [[place-chandrmukha|Chandramukha]], and mans them off its own shore.
 
 The **Nau-senāpati** commands them. He answers for the river mouth and the coast, and he lets the galleys out by the sailing season. It is an office of consequence in a city that carries other cities' cargo as well as its own.
 
 A galley is oared and carries no cargo. The coasting ships that carry the trade belong to the merchant houses and are hired hull by hull, and the flat-bottomed river-boats work above the delta and never cross the bar. [[affiliation-vyalendra2|Vyālendra]] has the cargo and keeps no fleet, so it hires its escort here. The rate is settled fresh every sailing season and is settled late, which suits the one party and not the other.
+
+The fleet works a season and not a year. When the rains come the roadstead outside the bar is untenable, the galleys come up into the yards, and the crews are paid off; when the rain stops they go back out. A Nau-senāpati therefore spends two months fighting and ten months building, victualling and arguing about money, and the office is filled with that in mind.
 
 A galley's crew works outside caste, as every crew on this coast does. Nobody aboard asks to see a wrist. The men who owe the Mahārāja service in his host owe it aboard as well, and the deck is the one place in the city where they serve beside men the temples will not admit.
 
@@ -150,5 +158,8 @@ Chandrapur uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered th
 - [[place-vedyarargn|Vedyara Region]]—Regional overview
 - [[place-chandrapurland|Chandrapur Land]]—the land the city-state holds
 - [[place-chandrapur2|Chandrapur]]—The city itself
+- [[place-chandrmukha|Chandramukha]]—the port at the river's mouth and the fleet's base
+- [[place-moonhouse|The Moon House]]—the palace and the hall of nine seats
+- [[place-greatbazaar|The Great Bazaar]]—the crown's market ground
 - [[skill-vedyarlng|Vedyari]]—Naming tradition
 - [[affiliation-varakpnthn|Varṇaka Pantheon]]—Religious tradition
