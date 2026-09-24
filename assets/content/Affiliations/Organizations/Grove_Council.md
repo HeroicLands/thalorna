@@ -17,64 +17,31 @@ data:
   governance:
     model: council
     summary: >-
-      A bureau holding delegated authority from the polity that constituted it, and accountable
-      to it.
+      A conclave of the elders of nineteen great groves, gathering on the four hinge-days of the
+      year and in emergency, holding no charter and ruling by a custom older than the kingdom.
     ranks:
-      - level: 0
-        title: Dismissed in Disgrace
-        lore: expelledrnk
-        description: >-
-          Put out of the service with the record endorsed, which closes every other office to
-          them for life.
       - level: 1
-        title: Servant
-        lore: servantrnk
-        description: Kept about the offices for their labor, and not of the service.
+        title: Initiate
+        lore: initiaternk
+        description: >-
+          Identified in childhood, often by visions or fae encounters, and trained from
+          adolescence in herblore, ritual, the reading of weather and water, and the protocols
+          of dealing with fae kin. Tattooed on the inside of the wrist with the leaf-mark of the
+          home grove.
       - level: 2
-        title: Clerk
-        lore: clerkrnk
-        description: Copying, filing and reckoning under supervision, and the entry to every
-          career here.
+        title: Grovekeeper
+        lore: priestrnk
+        description: >-
+          Working clergy of the tradition, wearing the unworked band: some attached to a lesser
+          grove, some walking a circuit of the groves that keep no permanent staff.
       - level: 3
-        title: Officer
-        lore: officerrnk
-        description: Holding a charge of the body in their own name and answerable for it.
-      - level: 4
-        title: Senior Officer
-        lore: officerrnk
-        description: Holding a charge of consequence, and supervising officers holding lesser
-          ones.
-      - level: 5
-        title: Deputy
-        lore: officerrnk
-        description: Standing for the head of the office and empowered to act in it.
-      - level: 6
-        title: Head of Office
-        lore: magistraternk
-        description: Directing a bureau of the body, its staff and its portion of the revenue.
-      - level: 7
-        title: Councillor
-        lore: councillorrnk
+        title: Grove-Elder
+        lore: elderrnk
         description: >-
-          Of the body that decides the office's policy and answers for it to the power that
-          constituted it.
-      - level: 8
-        title: Minister
-        lore: grandmasterrnk
-        description: >-
-          Head of the body, holding its authority from the polity and accountable to it for
-          every use of it.
-    offices:
-      Minister: Head of the body, holding its authority from the polity that constituted it.
-      Councillor: Member of the deciding body, answerable with it for what it decides.
-      Deputy: Standing for the head and empowered to act in the office.
-      Head of Office: Director of a bureau, its staff and its share of the revenue.
-      Chief Clerk: Keeper of the office's records, its procedure and its institutional memory.
-      Auditor: Examiner of the accounts of anyone the body's warrant reaches.
-      Inspector: Sent to see whether what is reported is what is happening.
-      Recorder: Keeper of the register the body's authority is exercised through.
-      Bailiff: Server of the body's process and executor of its distraints.
-      Serjeant: Keeper of order at the body's sittings, and its arm where one is needed.
+          Holder of one of the nineteen seats, one to each recognized great grove. Chosen by the
+          grove through long apprenticeship and confirmed by the Council gathered, with the
+          grovekeepers below and the Áelendan Wardens patrolling on his writ.
+    offices: {}
   commonSkills: []
   seat: null
   domains: []
