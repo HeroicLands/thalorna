@@ -1,6 +1,6 @@
 ---
 name:
-  full: "Aureldian"
+  full: "Aurèldían"
 shortcode: aureldian
 type: folder
 data:

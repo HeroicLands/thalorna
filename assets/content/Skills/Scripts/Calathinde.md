@@ -25,7 +25,7 @@ flags:
     script_family: Calligraphic
 ---
 
-The Calathindë—the starlight-hand—is the writing of the [[skill-sinalelng|Sinalë]]: organic, curved, continuously connected letterforms that run left to right and top to bottom and give a page the look of vine-growth or moving water. Ligatures are constant rather than occasional; diacritics carry vowel length, stress variation and poetic emphasis, and in a language whose grammar encodes mood and philosophical stance through vowel gradation, those marks are not ornament—they are most of the meaning.
+The Calathindë—the starlight-hand—is the writing of the [[skill-sinalelng|Sinalë]]: organic, curved, continuously connected letterforms that run left to right and top to bottom and give a page the look of vine-growth or moving water. Ligatures are constant rather than occasional; diacritics carry vowel length, pitch and poetic emphasis, and in a language whose grammar encodes mood and philosophical stance through vowel gradation, those marks are not ornament—they are most of the meaning.
 
 It carries Sinalë, and it carries [[skill-aelendlng|Áelendi]], which the [[lore-aelendnppl|Áelendan]] write in a borrowed and much-adapted hand—the one script the Sinalë have let out of their own keeping. A character needs **both** the script and the language, and the second is by far the harder acquisition.
 
@@ -39,4 +39,4 @@ Literacy is near-universal among the Sinalë themselves, who are fewer than one 
 
 ## In play
 
-Everything about this script is slow. Reading it is slow because the ligatures obscure where one letter ends; writing it is slow because a hand that betrays haste will be read as either insolent or false. Old inscriptions in ruined Sinalë places—Laurelossë, Lhénavren—are frequently in a hand two or three thousand years out of date, and the party's scholar will need Áelendi or Sinalë of considerable depth even to establish what kind of document is in front of them. And a passable forgery is essentially impossible: any Sinalë who sees it will know at a glance, the way one knows a badly made chair.
+Everything about this script is slow. Reading it is slow because the ligatures obscure where one letter ends; writing it is slow because a hand that betrays haste will be read as either insolent or false. Old inscriptions in ruined Sinalë places—Haulonna, Sirmennë—are frequently in a hand two or three thousand years out of date, and the party's scholar will need Áelendi or Sinalë of considerable depth even to establish what kind of document is in front of them. And a passable forgery is essentially impossible: any Sinalë who sees it will know at a glance, the way one knows a badly made chair.
