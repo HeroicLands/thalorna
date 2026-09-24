@@ -62,7 +62,7 @@ The language is marked by a preference for alliteration, assonance, and poetic p
 
 ## Script & Literacy
 
-Élavendri traditionally employs [[skill-thrvrdhscrpt|Thúravardh]], the old Áelendan rune-row, but this script has been largely supplemented by the [[skill-semrnscrpt|Sêmarion]]—the same alphabet used in Vylari and neighboring regions. Thúravardh persists in magical texts, poetry, and items of great antiquity.
+Élavendri traditionally employs [[skill-thrvrdhscrpt|Thúravardh]], the old Áelendan rune-row, but this script has been largely supplemented by the [[skill-semrnscrpt|Sêmarion]]—the same alphabet used in Vylari and neighboring regions. Thúravardh persists in magical texts, poetry, and items of great antiquity. The [[skill-clthndscrpt|Calathindë]] of the [[lore-flksinale|Sinalë]] never came down the passes: the highlanders write [[skill-aelendlng|Áelendi]] in it and the lowlands took imperial letters instead, so two peoples who can hold a conversation cannot read a word of each other.
 
 A distinctive scribal tradition employs flowing, connected letterforms that reflect the language's musical nature. Decorative elements (flourishes, miniatures) are common in high-quality texts. True literacy is confined to the priesthood, professional scribes, those training for magical arts (for whom reading is an absolute necessity), and perhaps 20-35% of the nobility. The common folk of Élavendre, like those elsewhere on Thalorna, are almost entirely non-literate and rely on scribes for any written communication.
 
@@ -104,7 +104,7 @@ For the ancestral Pelwar tongue of the [[lore-aelendnppl|Áelendan]]—the most 
 
 Many Élavendri individuals have both a "sun name" (used in formal and public contexts) and a "shadow name" (used only among intimates and at night). The shadow name is considered the true name, encoding the person's essential nature.
 
-Among the Áelendan, names are inherited and rarely change. A child receives the name of an honored ancestor, and with that name comes expectations of carrying forward that ancestor's legacy.
+The [[lore-aelendnppl|Áelendan]] of the interior name from a stock of their own, built on roots the lowlands no longer say and closed with endings the lowlands have lost; see [[skill-aelendlng|Áelendi Language]] for it. The two sets are not interchangeable, and an Élavendri hearing an Áelendi clan name knows the mountains are being spoken of before the speaker says so.
 
 Élavendri names are typically melodic and employ frequent use of the fey fricative (th) and liquid consonants (l, r). Many names incorporate the morpheme _-ael_ (light), _-thal_ (shadow), or _-síl_ (song).
 
