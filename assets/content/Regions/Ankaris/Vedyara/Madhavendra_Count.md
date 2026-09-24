@@ -90,7 +90,7 @@ The months run in pairs, and a pair is a season. Six of them frame the year, and
 
 Seven days run on through the months without a break, so a weekday belongs to no date and the two are looked up together. The first is the sun's, which the year is sighted from, and the second the moon's, which the almanac tracks. The other five are the five lesser gods of the [[affiliation-varakpnthn|Varnaka pantheon]], one apiece. The three great gods hold no day, because the orthodox take the triad for the whole turning and not a part of it, and the two spirit-courts are hosts rather than gods and are given none.
 
-1. **Sūryavāra**—the sun's day, on which the year is announced from the Sūrya temple.
+1. **Sūryavāra**—the sun's day, on which the year is announced from the [[place-suryatempl|Sūrya temple]].
 2. **Chandravāra**—the moon's day, on which the almanac for the coming fortnight is read out.
 3. **Kālavāra**—[[affiliation-kalavrata|Kālavrata]]'s, on which the dead are burned and their lamps lit.
 4. **Meghavāra**—[[affiliation-meghanatha|Meghanātha]]'s, on which the tanks and channels are worked on.
@@ -108,7 +108,7 @@ The work is easier here than a foreigner expects it to be. [[place-vaelith|Vaeli
 
 ## Who Keeps It
 
-The **[[affiliation-trimurtisampradaya|Trimūrti-sampradāya]]**, the largest and most orthodox of the Varṇakan sects, sets the public year. Its high priests sight it at the **Sūrya temple**, the pilgrim shrine at [[place-chandrprbh|Chandraprabhava]] where the Chandramahī comes out of the ice. The sighting is announced from there to every court and temple that keeps the Mādhavendra count.
+The **[[affiliation-trimurtisampradaya|Trimūrti-sampradāya]]**, the largest and most orthodox of the Varṇakan sects, sets the public year. Its high priests sight it at the **[[place-suryatempl|Sūrya temple]]**, the pilgrim shrine at [[place-chandrprbh|Chandraprabhava]] where the Chandramahī comes out of the ice. The sighting is announced from there to every court and temple that keeps the Mādhavendra count.
 
 The reckoners of the Gaṇaka-śālā compute the same year instead of sighting it, and the two methods do not always agree. A single day between the sighted year and the computed one is enough to move the date of a Mela, a Weighing or a coronation. Neither method is dropped for the other. A court states which one it follows.
 
