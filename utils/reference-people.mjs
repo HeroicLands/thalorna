@@ -21,7 +21,7 @@
  * while publishing no page and compiling no character.
  *
  * That shape is a convention, and a convention held by hand over several
- * hundred notes is held until the first one slips. Seven rules state it, and
+ * hundred notes is held until the first one slips. Eight rules state it, and
  * this file is where every one of them is checked:
  *
  * 1. **`body-is-empty`** — nothing after the closing fence but whitespace. A
@@ -49,6 +49,12 @@
  *    content tree. A record exists because a sentence names the person; when
  *    that sentence is rewritten the record is orphaned, and nothing else in the
  *    build would notice.
+ * 8. **`origin-is-stated`** — a non-empty `data.homes`, or the `unattributed`
+ *    tag, and never both. Where a person is from decides their culture, and a
+ *    culture is what a `name.title` is judged against, so a record that says
+ *    neither cannot have its title read at all. The pair is exclusive because
+ *    an absent `homes` on its own cannot be told from one nobody has reached
+ *    yet: the tag is what turns the gap into a state somebody decided.
  *
  * **The guard checks itself first.** There is no error in an empty set here —
  * the records are written a batch at a time, and a tree with none of them yet
@@ -89,6 +95,17 @@ const PLACEMENT_KEYS = ["pack", "packFolder"];
 
 /** A note that says it is unfinished is not a record; lint refuses one. */
 const DRAFT_TAG = "draft";
+
+/**
+ * What a record writes instead of a home when the corpus never says where the
+ * person is from.
+ *
+ * A home is a `WikiLink`, so there is no value that means "nobody wrote this":
+ * anything put there resolves to a note or fails rule 6, and a sentinel would
+ * publish a place that does not exist. The tag carries it instead, where it
+ * states the absence rather than dressing it as a fact.
+ */
+const UNATTRIBUTED_TAG = "unattributed";
 
 /**
  * Split a note into its frontmatter block and its body.
@@ -404,6 +421,29 @@ function checkReferencePerson(note, context) {
         );
     }
 
+    const homes = Array.isArray(fm.data?.homes) ? fm.data.homes : [];
+    const unattributed = tags.includes(UNATTRIBUTED_TAG);
+    if (homes.length === 0 && !unattributed) {
+        out.push(
+            finding(
+                note,
+                lineOf(note.raw, "data"),
+                "origin-is-stated",
+                `where a person is from is what decides their culture, and a culture is what a \`name.title\` is judged against: write \`data.homes\`, or tag this record \`${UNATTRIBUTED_TAG}\` to state that the corpus never says`,
+            ),
+        );
+    }
+    if (homes.length > 0 && unattributed) {
+        out.push(
+            finding(
+                note,
+                lineOf(note.raw, "tags"),
+                "origin-is-stated",
+                `\`${UNATTRIBUTED_TAG}\` states that the corpus never says where this person is from, and \`data.homes\` says where: drop whichever is untrue`,
+            ),
+        );
+    }
+
     const full = typeof fm.name?.full === "string" ? fm.name.full.trim() : "";
     if (full !== "" && !corpus.prose.includes(full)) {
         out.push(
@@ -491,7 +531,8 @@ function selfTestPerson(changes = {}) {
     };
     const lines = ["---", "tags:"];
     for (const tag of written.tags) lines.push(`  - ${tag}`);
-    lines.push("name:", `  full: ${written.full}`, "  home: harbourtown");
+    lines.push("name:", `  full: ${written.full}`);
+    if (written.homes !== null) lines.push("  home: harbourtown");
     if (written.description !== null)
         lines.push(`description: ${JSON.stringify(written.description)}`);
     if (written.placement !== null) lines.push(written.placement);
@@ -499,8 +540,10 @@ function selfTestPerson(changes = {}) {
     lines.push("data:");
     if (written.templatePriority !== null)
         lines.push(`  templatePriority: ${written.templatePriority}`);
-    lines.push("  homes:");
-    for (const home of written.homes) lines.push(`    - ${home}`);
+    if (written.homes !== null) {
+        lines.push("  homes:");
+        for (const home of written.homes) lines.push(`    - ${home}`);
+    }
     lines.push("  affiliations:");
     for (const affiliation of written.affiliations) lines.push(`    - ${affiliation}`);
     if (written.systemBlock !== null) lines.push(...written.systemBlock);
@@ -568,6 +611,24 @@ function selfTestNotes(systems) {
             name: "a name the prose does not write",
             breaks: "name-is-in-the-prose",
             raw: selfTestPerson({ full: "Nobody Atall" }),
+        },
+        {
+            name: "neither a home nor the tag",
+            breaks: "origin-is-stated",
+            raw: selfTestPerson({ homes: null }),
+        },
+        {
+            name: "a home and the tag both",
+            breaks: "origin-is-stated",
+            raw: selfTestPerson({ tags: ["character", REFERENCE_TAG, UNATTRIBUTED_TAG] }),
+        },
+        {
+            name: "the tag and no home",
+            breaks: null,
+            raw: selfTestPerson({
+                homes: null,
+                tags: ["character", REFERENCE_TAG, UNATTRIBUTED_TAG],
+            }),
         },
     ];
 }
