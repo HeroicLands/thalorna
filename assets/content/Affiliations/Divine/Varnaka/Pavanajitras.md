@@ -22,13 +22,13 @@ data:
   governance:
     model: council
     summary: >-
-      This god has no priesthood of its own. Varṇaka ordains into a sampradāya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to the road itself, honored by gesture at every crossroads and waterway rather than at any fixed household shrine, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
+      This god has no priesthood of its own. Varnaka ordains into a sampradāya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to the road itself, honored by gesture at every crossroads and waterway rather than at any fixed household shrine, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
     ranks:
       - level: 0
         title: Patita
         lore: excmmnctrnk
         description: >-
-          "Fallen"—put out of Varṇakan observance altogether, and received again by no house and no sampradāya.
+          "Fallen"—put out of Varnakan observance altogether, and received again by no house and no sampradāya.
       - level: 1
         title: Upāsaka
         lore: layfaithfulrnk
@@ -67,11 +67,11 @@ sohl: {}
 - **Domain:** Travel, trade routes, favorable winds, the safety of the road and the sea-lane
 - **Symbol:** A wind-filled sail
 - **Pronunciation:** _PAH-vah-nah-jee-trahs_
-- **Pantheon:** [[affiliation-varakpnthn|Varṇaka Pantheon]]
+- **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
 The **Pavanajitras** are the Wandering Wind, a company of minor wind-spirits. They guide travelers, carry merchant-ships before favorable gales, and whisper the road's omens to those who have learned to listen.
 
-They are not gods in the full sense. They stand between the celestial deities of the Varṇaka and the local spirits of the land, and the Varṇaka revere them as that. Their cult is wherever travelers meet: the crossroads shrine, the caravanserai altar, and the small chapels at harbor-mouths and at the passes of the high roads.
+They are not gods in the full sense. They stand between the celestial deities of the Varnaka and the local spirits of the land, and the Varnaka revere them as that. Their cult is wherever travelers meet: the crossroads shrine, the caravanserai altar, and the small chapels at harbor-mouths and at the passes of the high roads.
 
 The devotion is simple, widely observed, and enormously popular. Few Vedyarans undertake a long journey without leaving a coin or a pinch of millet at a Pavanajitran shrine; fewer still arrive safely without offering one at the other end.
 
@@ -96,4 +96,4 @@ The Pavanajitras are honored everywhere by gesture, and at no fixed household sh
 
 ### See Also
 
-- [[affiliation-varakpnthn|Varṇaka Pantheon]]
+- [[affiliation-varakpnthn|Varnaka Pantheon]]

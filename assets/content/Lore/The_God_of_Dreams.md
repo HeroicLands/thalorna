@@ -35,7 +35,7 @@ The Sinalë and Khazári do not acknowledge the human faiths as legitimate expre
 | Kemetían                                        | Bēs                                        | Female                  | Dreams, sleep, protective visions                                                                |
 | [[affiliation-tngvkvnlei\|Tëngvōk Vān Lëi]]     | Mëi Sëi                                    | —                       | Dreams, visions, omens                                                                           |
 | [[affiliation-ashanpnthn\|Āsháian]]             | Zárványä                                   | Female                  | Dreams, celestial visions, omens                                                                 |
-| [[affiliation-varakpnthn\|Varṇaka]]             | _(unnamed)_                                | —                       | Worshipped indirectly through the Svapnadēvas (the Dreaming Host), divine servants of this deity |
+| [[affiliation-varakpnthn\|Varnaka]]             | _(unnamed)_                                | —                       | Worshipped indirectly through the Svapnadēvas (the Dreaming Host), divine servants of this deity |
 
 The Sinalë and Khazári both regard the deity as beyond mortal categories of gender—the human tendency to assign male or female identity is seen as a limitation of younger minds. The Sinalë name, **Lúminarë**, evokes radiance and the living dream; the Khazári name, **Khaldûr**, speaks of the light that endures in deep places and the wisdom found in patient craft. These are not translations of each other—they reflect genuinely different relationships with the same divine presence.
 
@@ -70,4 +70,4 @@ The notable exception is the [[affiliation-ordoarcanis|Ordo Arcanis]]. Practitio
 
 Regardless of origin, the human faiths are genuine expressions of a real divine connection—the deity does answer human prayers and send dreams to human worshippers. The relationship is simply younger, shallower, and filtered through cultural assumptions that the elder races find alternately amusing and baffling.
 
-For details on the human traditions, see [[affiliation-baldr|Faith of Baldr]] (Asguardian), [[affiliation-aetheria|Faith of Aethería]] (Aurèldían), [[affiliation-itzanpnthn|Nal'ik Tz'uqal]] (Itzáni), Bēs (Kemetían), Mëi Sëi (Tānvüri), Zárványä (Āsháian), and the Svapnadēvas (Varṇaka—who revere the deity's servants rather than the deity itself).
+For details on the human traditions, see [[affiliation-baldr|Faith of Baldr]] (Asguardian), [[affiliation-aetheria|Faith of Aethería]] (Aurèldían), [[affiliation-itzanpnthn|Nal'ik Tz'uqal]] (Itzáni), Bēs (Kemetían), Mëi Sëi (Tānvüri), Zárványä (Āsháian), and the Svapnadēvas (Varnaka—who revere the deity's servants rather than the deity itself).

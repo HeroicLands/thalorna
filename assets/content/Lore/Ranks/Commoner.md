@@ -18,4 +18,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-11 bodies in Thalorna name this standing, at levels 2, 3, 4 of their ladders, and each spells it in its own words: **Commoner**, **Resident**, **Farmer**, **Freeman**, **Śūdra**, **Householder**, **Subject**, **Nōkvür**, **Villager**, **Notable**, **Islander**.
+11 bodies in Thalorna name this standing, at levels 2, 3, 4 of their ladders, and each spells it in its own words: **Commoner**, **Resident**, **Farmer**, **Freeman**, **Shūdra**, **Householder**, **Subject**, **Nōkvür**, **Villager**, **Notable**, **Islander**.

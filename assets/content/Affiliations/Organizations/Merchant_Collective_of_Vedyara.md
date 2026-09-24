@@ -106,13 +106,13 @@ _Vedyaran: Vyāpārī Sangha—"the Merchants' Assembly"_
 
 The Merchant Collective is what the five seats of the Compact have instead of a unified state. The seats keep separate councils, separate watches and separate courts. Their great houses intermarry until they nearly amount to a single class, and they have never amounted to a single throne. The Collective is the one institution that crosses every border, taxes every road and operates every mine of consequence in Vedyara.
 
-A seat that wishes to know the silver price at Suvarṇagiri asks the Collective. A seat that wishes to ship grain to Rājapur hires a Collective caravan. A seat that wishes to fortify a frontier negotiates with the Collective for the steel, and for the loan.
+A seat that wishes to know the silver price at Suvarnagiri asks the Collective. A seat that wishes to ship grain to Rājapur hires a Collective caravan. A seat that wishes to fortify a frontier negotiates with the Collective for the steel, and for the loan.
 
 The rulers are not weak. The Collective has made itself the connective tissue of Vedyaran life across four centuries, and nothing moves without it. Its founders were three generations of merchant princes working across polities that were then at war with each other. No court or council would unify the subcontinent, and the merchants could.
 
 They wrote the **Compact**, a body of standing trade law, arbitration procedure, and shared infrastructure the merchants would keep in common: the roads, the caravanserai, the watch posts and the currency standards. They wrote an Assembly of the signatories to renew and amend it. Each signatory faced the choice of refusing and watching its territory grow poorer than its neighbors, and each signed. They have signed every renewal since, and the five who hold seats today are the five that share the [[lore-vdyrnbnkng|Vedyaran banking system]].
 
-The Collective's central paradox is that its members compete with one another fiercely in every market while collectively dominating every market. A Suvarṇagiri silver merchant will undercut a Rājapur silver merchant on every shipment they both bid for, then sit beside him on the Collective's standards committee and vote together against any outside competitor. The discipline holds because the alternative—open competition with non-Collective merchants—would impoverish them both.
+The Collective's central paradox is that its members compete with one another fiercely in every market while collectively dominating every market. A Suvarnagiri silver merchant will undercut a Rājapur silver merchant on every shipment they both bid for, then sit beside him on the Collective's standards committee and vote together against any outside competitor. The discipline holds because the alternative—open competition with non-Collective merchants—would impoverish them both.
 
 ## Membership and Structure
 
@@ -133,7 +133,7 @@ At the apex sits the **High Speaker of the Collective**, elected by the kulinas 
 
 - **The labor question.** Reform-minded younger kulinas have proposed substantial improvements to mining labor conditions; the older houses, whose fortunes were built on the present system, resist. The reform faction has not yet found a champion willing to risk his standing.
 - **The expansion question.** The Foreign Trade Committee is divided between those who wish to push aggressively into Amradad's caravan markets and those who fear retaliation from the [[affiliation-sultntmrdd|Sultanate]] and prefer the present arrangement of careful cooperation.
-- **The compromised members.** Several houses are known or suspected to be in arrangements with the [[affiliation-twilighths|The Twilight House]] or the [[affiliation-adanasreni|Ādānaśreṇī]] beyond what the Collective's standing rules permit. Investigations have begun and stalled multiple times.
+- **The compromised members.** Several houses are known or suspected to be in arrangements with the [[affiliation-twilighths|The Twilight House]] or the [[affiliation-adanasreni|Ādānashrenī]] beyond what the Collective's standing rules permit. Investigations have begun and stalled multiple times.
 
 ## Relations
 

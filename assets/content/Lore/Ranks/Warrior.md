@@ -18,4 +18,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-6 bodies in Thalorna name this standing, at levels 3, 4 of their ladders, and each spells it in its own words: **Warrior**, **Veteran**, **Kṣatriya**, **Blooded**, **Petty Officer**, **Proven Hunter**.
+6 bodies in Thalorna name this standing, at levels 3, 4 of their ladders, and each spells it in its own words: **Warrior**, **Veteran**, **Kshatriya**, **Blooded**, **Petty Officer**, **Proven Hunter**.

@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "The Wandering Wind of the Varṇaka pantheon—travelers, and the sail that carries them."
+description: "The Wandering Wind of the Varnaka pantheon—travelers, and the sail that carries them."
 type: lore
 subType: deity
 name:

@@ -4,9 +4,9 @@ tags:
   - crime
   - underworld
   - vedyara
-description: "The chartered thieves' guild of Vedyara—a hereditary craft-śreṇī that holds royal charters in forty kingdoms, earns more from underwriting theft than from committing it, and survives dynasties because it is a caste rather than a syndicate."
+description: "The chartered thieves' guild of Vedyara—a hereditary craft-shrenī that holds royal charters in forty kingdoms, earns more from underwriting theft than from committing it, and survives dynasties because it is a caste rather than a syndicate."
 name:
-  full: The Ādānaśreṇī
+  full: The Ādānashrenī
   aliases:
     - The Ādāna
     - The Receivers
@@ -24,7 +24,7 @@ data:
     summary: >-
       A craft guild in every particular of its form: a chartered corporate body with its own
       court, its own treasury and its own hereditary craft-lines, governed by a Sabhā of elders
-      who elect a Śreṣṭhin for life. The charters are held separately in each kingdom and the
+      who elect a Shreshthin for life. The charters are held separately in each kingdom and the
       Sabhā is regional rather than subcontinental, so there is no single head of Vedyaran
       crime—there are forty guild-chiefs who acknowledge one another's law and settle between
       themselves.
@@ -37,7 +37,7 @@ data:
           practice means the guild will surrender them to the king's justice to keep its charter
           clean.
       - level: 1
-        title: Āśrita
+        title: Āshrita
         lore: dependentrnk
         description: >-
           Sheltered by the guild without being of it—watchers, doorkeepers, the households of
@@ -67,13 +67,13 @@ data:
           An elder seated on the Sabhā, who judges disputes between craft-lines, rules on
           improper takings and orders restoration.
       - level: 6
-        title: Śreṣṭhin
+        title: Shreshthin
         lore: grandmasterrnk
         description: >-
           The guild-chief of a kingdom's charter—carrying, deliberately, the same title a great
           banker carries, and holding it for life or until the Sabhā unmakes them.
     offices:
-      Śreṣṭhin: >-
+      Shreshthin: >-
         Guild-chief under a single kingdom's charter, who negotiates its renewal and whose
         authority stops at that kingdom's border.
       Sthavira: An elder of the Sabhā, the guild's court and its only law.
@@ -105,11 +105,11 @@ sohl: {}
 
 **Pronunciation:** _AA-daa-na-SHRAY-nee_
 
-The **Ādānaśreṇī** is the guild of thieves of [[place-vedyarargn|Vedyara Region]], and the largest
+The **Ādānashrenī** is the guild of thieves of [[place-vedyarargn|Vedyara Region]], and the largest
 criminal body in Thalorna—but it is not a syndicate, and the distinction is the whole of its
 character. The [[affiliation-crmsyndctsthlrn|syndicates]] of the Vylarian basin are enterprises: they
 hold territory, they answer to a boss, and they can be broken by taking the territory or killing the
-boss. The Ādānaśreṇī is a **craft guild** and a **hereditary caste**, chartered by law in some forty
+boss. The Ādānashrenī is a **craft guild** and a **hereditary caste**, chartered by law in some forty
 polities—the forty that hold a seat at the great pilgrimage assembly in their own right, kingdoms
 and city-states together, which is the count a Vedyari means by _the kingdoms_—with a court of its
 own and a treasury of its own and craft-lines that pass from parent to child. No king has ever destroyed it, because there is nothing to destroy that is not also the social
@@ -156,7 +156,7 @@ The guild's form is entirely conventional; only its craft is not.
   registered thief is a thief the guild can produce, disown, or defend, and the register is what makes
   the charter enforceable.
 
-There is no head of the Ādānaśreṇī. There are forty Śreṣṭhins, who acknowledge one another's law,
+There is no head of the Ādānashrenī. There are forty Shreshthins, who acknowledge one another's law,
 settle their disputes at a triennial assembly, and cooperate readily because their charters do not
 compete.
 
@@ -195,14 +195,14 @@ The guild's prohibitions read like piety and are almost entirely pragmatic. Each
 The first of these is the one outsiders get wrong. The guild does not forbid killing; it forbids
 killing **during a taking**, because that is what converts its business into the king's. A commission
 carried out cleanly, by a hand that cannot be traced back to a charter, breaks no written rule—and
-the persistent, credible, furiously denied accusation against the Ādānaśreṇī is that certain Śreṣṭhins
+the persistent, credible, furiously denied accusation against the Ādānashrenī is that certain Shreshthins
 accept exactly such commissions and route them through people who are not quite members. This is the
 argument the guild has been having with itself for two generations, and it is what the schism below
 was about.
 
 ## The Rest of Vedyaran Crime
 
-Vedyara is a subcontinent, and the Ādānaśreṇī is dominant without being sole.
+Vedyara is a subcontinent, and the Ādānashrenī is dominant without being sole.
 
 - **The port syndicates.** The coastal city-states support outward-facing organizations that deal in
   what the charters do not cover—trafficking, contraband, and business with the
@@ -232,7 +232,7 @@ Vedyara is a subcontinent, and the Ādānaśreṇī is dominant without being so
   needs it back before the temple makes the matter public.
 - **The wrong client.** The Twilight House has sold intelligence to a client whose interests the guild
   opposes. The standing arrangement between them is about to become a standing quarrel.
-- **A succession.** A Śreṣṭhin has died without the Sabhā agreeing on a successor, and two craft-lines
+- **A succession.** A Shreshthin has died without the Sabhā agreeing on a successor, and two craft-lines
   are arming.
 
 ## See Also
@@ -240,4 +240,4 @@ Vedyara is a subcontinent, and the Ādānaśreṇī is dominant without being so
 - [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]—the syndicate model this guild is not
 - [[affiliation-twilighths|The Twilight House]] · [[affiliation-mrchntclctvvdyr|Merchant Collective of Vedyara]]
 - [[place-vedyarargn|Vedyara Region]] · [[affiliation-janpdsvdyr|Janapadas of Vedyara]]
-- [[affiliation-varakpnthn|Varṇaka Pantheon]] · [[lore-vdyrnbnkng|Vedyaran Banking]]
+- [[affiliation-varakpnthn|Varnaka Pantheon]] · [[lore-vdyrnbnkng|Vedyaran Banking]]

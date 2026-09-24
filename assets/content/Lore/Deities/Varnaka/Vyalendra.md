@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "The Shaper of Worlds in the Varṇaka pantheon, from whose golden lotus each cycle of creation opens."
+description: "The Shaper of Worlds in the Varnaka pantheon, from whose golden lotus each cycle of creation opens."
 type: lore
 subType: deity
 name:

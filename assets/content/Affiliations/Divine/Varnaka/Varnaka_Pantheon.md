@@ -1,7 +1,7 @@
 ---
 description: "Vedyaran tradition organized into sects, emphasizing the eternal cycle of creation, preservation, and destruction across multiple incarnations and spiritual devotions."
 name:
-  full: Varṇaka Pantheon
+  full: Varnaka Pantheon
   aliases:
     - Varnaka
 shortcode: varakpnthn
@@ -16,13 +16,13 @@ data:
   governance:
     model: council
     summary: >-
-      Varṇaka organizes by school, not by god. None of the ten deities has a priesthood of its own; ordination is into one of the four sampradāya, which then serve whichever gods their doctrine requires. What a devotee holds toward a particular god is therefore the household observance and, if they undertake one, that god's Ordeal for Favor.
+      Varnaka organizes by school, not by god. None of the ten deities has a priesthood of its own; ordination is into one of the four sampradāya, which then serve whichever gods their doctrine requires. What a devotee holds toward a particular god is therefore the household observance and, if they undertake one, that god's Ordeal for Favor.
     ranks:
       - level: 0
         title: Patita
         lore: excmmnctrnk
         description: >-
-          "Fallen"—put out of Varṇakan observance, and received again by no house and no sampradāya.
+          "Fallen"—put out of Varnakan observance, and received again by no house and no sampradāya.
       - level: 1
         title: Upāsaka
         lore: layfaithfulrnk
@@ -37,10 +37,10 @@ data:
         title: Ordained of a Sampradāya
         lore: priestrnk
         description: >-
-          Ordained into one of the four schools—Agnī-panthā, Svapnasāri Samāja, Trimūrti Sampradāya, Vyālendravāda—each of which carries its own ladder. Priesthood in Varṇaka belongs to the school, never to the god.
+          Ordained into one of the four schools—Agnī-panthā, Svapnasāri Samāja, Trimūrti Sampradāya, Vyālendravāda—each of which carries its own ladder. Priesthood in Varnaka belongs to the school, never to the god.
     offices:
       Householder: >-
-        Keeps the household shrine and its observances, which is what devotion to a Varṇakan god ordinarily consists of.
+        Keeps the household shrine and its observances, which is what devotion to a Varnakan god ordinarily consists of.
       Vrata-Holder: >-
         Under, or having completed, a named Ordeal for Favor of a particular god.
       Ácārya: >-
@@ -60,13 +60,13 @@ packFolder: pantheonsvarnaka
 sohl: {}
 ---
 
-The **Varṇaka** is a single unified faith with a plural pantheon. Ten deities and spirit-courts are honored across the tradition, and none of them is a religion of its own.
+The **Varnaka** is a single unified faith with a plural pantheon. Ten deities and spirit-courts are honored across the tradition, and none of them is a religion of its own.
 
 The faith is organized into **sects and traditions** (_sampradāyas_, _vādas_, _panthās_, _samājas_), dozens of them in most regions and hundreds in some. Each has its own theological emphasis, its own temple style and its own favored rites. A sect may venerate one god, a small group of them, or the whole pantheon read in one key. A single deity may be the focus of several sects that read him differently.
 
 A priest is ordained into one sect, and most temples belong to one. The lay faithful move between sects and temples easily, attending whichever shrine suits the occasion.
 
-The notes below describe the **deities**, their symbols, their iconography, their sacred objects and how their worshippers keep them, alongside a **sample** of the sects that carry the faith's institutional life. A handful of sects stand here. The whole of Varṇakan tradition would fill a library.
+The notes below describe the **deities**, their symbols, their iconography, their sacred objects and how their worshippers keep them, alongside a **sample** of the sects that carry the faith's institutional life. A handful of sects stand here. The whole of Varnakan tradition would fill a library.
 
 ## Principal Gods
 
@@ -150,7 +150,7 @@ The notes below describe the **deities**, their symbols, their iconography, thei
 ### **Svapnadēvas** (_The Dreaming Host_)
 
 - **Aspect**: **Dreams**
-- **Role**: Celestial spirits who weave dreams, omens, and visions. They act as intermediaries between mortals and the divine. The Svapnadēvas are divine servants of [[lore-goddreams|The God of Dreams]], though the Varṇaka do not name or directly worship that elder deity—they revere the Host itself.
+- **Role**: Celestial spirits who weave dreams, omens, and visions. They act as intermediaries between mortals and the divine. The Svapnadēvas are divine servants of [[lore-goddreams|The God of Dreams]], though the Varnaka do not name or directly worship that elder deity—they revere the Host itself.
 - **Symbol**: A crescent moon with a lotus stem.
 - **Pronunciation**: _SWAP-nah-day-vahs_
 - **Local Worship**: Seers and mystics invoke them in rites of prophecy.
