@@ -33,7 +33,7 @@ It is the one Ösket custom lowlanders find entirely legible, and the one they m
 
 ## Outside the Order
 
-Above the last [[place-pssshrines|Pass-Shrine]] the [[lore-vedyariclt|Vedyari]] order of stations does not reach. The Ösket are not outcaste, which is a position within that order; they are not addressed by it at all, cannot be placed in it, and have never asked to be. A shrine-brahmin will eat in an Ösket house on the col and would not do so in the valley. Vedyari jurists have written around the position for eight centuries, and no court has once been asked to settle it.
+Above the last [[place-pssshrines|Pass-Shrine]] the [[lore-vedyariclt|Vedyari]] order of stations does not reach. The Ösket are not outcaste, which is a position within that order; they are not addressed by it at all, cannot be placed in it, and have never asked to be. A shrine-ushtaka, priest of the summit temple, will eat in an Ösket house on the col and would not do so in the valley. Vedyari jurists have written around the position for eight centuries, and no court has once been asked to settle it.
 
 The Ösket carry no wrist-line and read nobody else's. A traveler's station is not asked for on the wall, and a wrapped wrist means nothing there at all.
 

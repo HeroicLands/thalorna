@@ -105,7 +105,7 @@ Tarvénan women frequently retain their birth names after marriage, and in some 
 
 ## Male Given Names
 
-Alváren, Ránzio, Férrik, Tárel, Gonzárik, Álbrath, Dílaren, Rodrén, Garváneth, Bérnaro, Rámilo, Thárrez, Júlrek, Dómrik, Tavíro, Gérdan, Álverrik, Félmar, Estáril, Ívarno, Hónrik, Dílor, Mórezan, Ríkaris, Élsaro, Floréth, Gálver, Nátaren, Ródthal, Tórsaro, Bánrik, Gónthar, Lúkasen, Vánrik, Thélio, Járven, Mársel, Dómeth, Alvárik, Ténar, Hálrikos, Pédroth, Valáren, Kólrith, Sánrik, Jólren, Rúnaric, Lórien, Fárnio, Gésrik
+Alváren, Ránzio, Férrik, Tárel, Gonzárik, Álbrath, Dílaren, Rodrén, Garváneth, Bérnaro, Rámilo, Thárrez, Júlrek, Dómrik, Tavíro, Gérdan, Álverrik, Félmar, Estáril, Ívarno, Hónrik, Dílor, Mórezan, Ríkaris, Élsaro, Floréth, Gálver, Nátaren, Ródthal, Tórsaro, Bánrik, Gónthar, Lúkasen, Vánrik, Thélio, Járven, Mársel, Dómeth, Alvárik, Ténar, Hálrikos, Pédroth, Valáren, Kólrith, Sánrik, Jólren, Rúnaric, Lórsaro, Fárnio, Gésrik
 
 ## Female Given Names
 

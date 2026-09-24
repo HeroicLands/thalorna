@@ -25,7 +25,7 @@ data:
         title: Outcaste
         lore: excmmnctrnk
         description: >-
-          Placed outside the varna order by transgression or by birth, and barred from the
+          Placed outside the tharana by transgression or by birth, and barred from the
           estate's temple, its stores and its licences.
       - level: 1
         title: Bonded Servant
@@ -34,28 +34,28 @@ data:
           Bound by debt or birth to an estate's household, owing labour at the felling and the
           hauling and holding nothing of the season's take.
       - level: 2
-        title: Shūdra
+        title: Karmāja
         lore: commonerrnk
         description: >-
-          Of the serving varna—fellers, raftsmen, porters and the estate's own cultivators on the
+          Born to the serving tharana—fellers, raftsmen, porters and the estate's own cultivators on the
           cleared ground around its temple.
       - level: 3
-        title: Vaishya
+        title: Dhanāja
         lore: gentryrnk
         description: >-
-          Of the productive varna—the licensed buyers and carriers who take the estate's resin,
+          Born to the productive tharana—the licensed buyers and carriers who take the estate's resin,
           lac and spice down to the coast and answer for its price.
       - level: 4
-        title: Kshatriya
+        title: Senāja
         lore: warriorrnk
         description: >-
-          Of the warrior varna, bearing arms by right and serving in the small bodies the estates
+          Born to the warrior tharana, bearing arms by right and serving in the small bodies the estates
           keep against theft of standing timber.
       - level: 5
-        title: Brāhmana
+        title: Ritūja
         lore: priestrnk
         description: >-
-          Of the priestly varna, keeper of rite and learning, without whose sanction no felling
+          Born to the priestly tharana, keeper of rite and learning, without whose sanction no felling
           season opens and no boundary is moved.
       - level: 6
         title: Kshetrapāla
@@ -142,7 +142,7 @@ What is left goes down the river as timber on the flood and out through the coas
 
 ## The Standing Quarrel
 
-The orthodox temples of the plains hold that a country without a sabhā is a country without law, and that an arrangement which leaves a whole people unmarked, uncounted and outside the varna order is not a lapse but a policy. They are right about the policy.
+The orthodox temples of the plains hold that a country without a sabhā is a country without law, and that an arrangement which leaves a whole people unmarked, uncounted and outside the tharana is not a lapse but a policy. They are right about the policy.
 
 The Devabhoga's reply is that the forest was given to the gods before the [[affiliation-janpdsvdyr|Mahā-Sangha]] kept a roll at all, that an endowment cannot be revoked by a body the endowment predates, and that the plains are welcome to send a sabhā into the forest and see how far it gets. Nobody has sent one.
 

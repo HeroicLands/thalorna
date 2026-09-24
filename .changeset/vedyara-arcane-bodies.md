@@ -10,7 +10,7 @@
 - The reckoners' college at Chandrapur computes the year, the eclipse, the tide
   and the gold-assay, and its date and the temple's differ often enough to move
   a coronation.
-- The brahmins who keep the shrines on the passes work the weather-rite and the
+- The ushtakas who keep the shrines on the passes work the weather-rite and the
   road-rite, and may refuse a caravan its blessing without explaining and
   without appeal.
 - The Threshold-keepers put one question to the newly dead before the pyre,

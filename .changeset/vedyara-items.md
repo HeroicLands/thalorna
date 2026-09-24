@@ -19,6 +19,6 @@
   a Chandrapur moon-cut gem, a loom-sealed Vyālendri indigo bolt, a
   Triyācārya's stole, and the ash-mark stamp cut before a razing or a felling
   all have pages.
-- A Pass-Shrine brahmin's altitude draught, a poisoner's vial, and the
+- A Pass-Shrine ushtaka's altitude draught, a poisoner's vial, and the
   Vedyaran elephant that makes the region's rhinoceros only the
   second-largest thing in it round out the set.
