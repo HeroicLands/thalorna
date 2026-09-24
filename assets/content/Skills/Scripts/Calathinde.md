@@ -25,7 +25,7 @@ flags:
     script_family: Calligraphic
 ---
 
-The Calathindë—the starlight-hand—is the writing of the [[skill-sinalelng|Sinalë]]: organic, curved, continuously connected letterforms that run left to right and top to bottom and give a page the look of vine-growth or moving water. Ligatures are constant rather than occasional; diacritics carry vowel length, stress variation and poetic emphasis, and in a language whose grammar encodes mood and philosophical stance through vowel gradation, those marks are not ornament—they are most of the meaning.
+The Calathindë—the starlight-hand—is the writing of the [[skill-sinalelng|Sinalë]]: organic, curved, continuously connected letterforms that run left to right and top to bottom and give a page the look of vine-growth or moving water. Ligatures are constant rather than occasional; diacritics carry vowel length, pitch and poetic emphasis, and in a language whose grammar encodes mood and philosophical stance through vowel gradation, those marks are not ornament—they are most of the meaning.
 
 It carries Sinalë, and it carries [[skill-aelendlng|Áelendi]], which the [[lore-aelendnppl|Áelendan]] write in a borrowed and much-adapted hand—the one script the Sinalë have let out of their own keeping. A character needs **both** the script and the language, and the second is by far the harder acquisition.
 
