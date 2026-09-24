@@ -1,7 +1,7 @@
 ---
 tags:
   - region
-description: "The land of the Járldom of Stormveld—the fjord-cut north-east of Aelwyth, a fifth of the island, held by the Vardain as Vardanreach before the Nordmen took it."
+description: "The land of the Jarldom of Stormveld—the fjord-cut north-east of Aelwyth, a fifth of the island, held by the Vardain as Vardanreach before the Nordmen took it."
 name:
   full: Stormveld
   aliases: []
@@ -21,7 +21,7 @@ packFolder: aelwyth
 
 ## Overview
 
-Stormveld is the land of [[affiliation-jrldmstrmvld|The Járldom of Stormveld]], the north-east of [[place-aelwyth|Aelwyth]]—the [[place-stormplain|Stormplain]] between the [[place-nordfells|Nordfells]] and the [[place-sunderfells|Sunderfells]].
+Stormveld is the land of [[affiliation-jrldmstrmvld|The Jarldom of Stormveld]], the north-east of [[place-aelwyth|Aelwyth]]—the [[place-stormplain|Stormplain]] between the [[place-nordfells|Nordfells]] and the [[place-sunderfells|Sunderfells]].
 
 The northeastern coast of [[place-aelwyth|Aelwyth]], with its fjord-like inlets and rocky headlands, has been settled by Nordmen—seafarers from [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] who arrived in successive waves of raiding and colonization over the past few centuries.
 
@@ -44,7 +44,7 @@ Timber, thrall-worked produce and hides go north; iron, ships, men and quarrels 
 
 ## See Also
 
-- [[affiliation-jrldmstrmvld|Járldom of Stormveld]]—The Járldom that holds this land
+- [[affiliation-jrldmstrmvld|Jarldom of Stormveld]]—The Jarldom that holds this land
 - [[place-aelwyth|Aelwyth]]—The island
 - [[place-stormveil|Stormveil]]—The seat
 - [[place-stormplain|The Stormplain]], [[place-nordfells|The Nordfells]], [[place-sunderfells|The Sunderfells]]—Its three countries

@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "The Wayfarer of the Aurèldián pantheon—voyages, roads, and the crossings merchants and messengers make."
+description: "The Wayfarer of the Aurèldían pantheon—voyages, roads, and the crossings merchants and messengers make."
 type: lore
 subType: deity
 name:

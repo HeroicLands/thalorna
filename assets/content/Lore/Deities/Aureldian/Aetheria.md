@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "The Veiled Dreamer of the Aurèldián pantheon, holding dreams and the arch a dreamer passes under."
+description: "The Veiled Dreamer of the Aurèldían pantheon, holding dreams and the arch a dreamer passes under."
 type: lore
 subType: deity
 name:

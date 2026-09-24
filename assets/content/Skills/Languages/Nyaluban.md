@@ -178,7 +178,7 @@ Contemporary Nyáluban shows some dialectal variation, though the oral tradition
 
 ## Regional Dialects
 
-### Northern Nyáluban (Borderlands)
+### Northern Nyáluban (Northern Savannah Belt)
 
 - Moderate divergence from the prestige standard
 - More extensive borrowing from Okháric and trade pidgins
