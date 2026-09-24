@@ -9,30 +9,27 @@ environment variable is required.
 
 ## What is built from it
 
-| Surface                            | Built by                      | Output                                |
-| ---------------------------------- | ----------------------------- | ------------------------------------- |
-| `items` and `journals` compendiums | `npm run build:compiledb`     | `build/stage/packs/<name>/` (LevelDB) |
-| The cross-package link manifest    | `npm run build:link-manifest` | `build/manifests/thalorna.json`       |
+| Surface                                 | Built by                  | Output                                |
+| --------------------------------------- | ------------------------- | ------------------------------------- |
+| Items, Actors, and Journals compendiums | `npm run build:compiledb` | `build/stage/packs/<name>/` (LevelDB) |
 
-Both are build artifacts under `build/`, which is gitignored. Nothing compiled
-is committed.
+Build artifacts under `build/` are gitignored. Nothing compiled is committed.
 
 Notes are routed by **frontmatter, not by location**: a note becomes an item
 because its `type` is an item type, and a journal because its `type` is `doc`.
 The directory tree is for humans, and moving a note between directories changes
 nothing about what it compiles into.
 
-The layout is the SoHL system repository's — flat top-level category directories
-holding the notes, with the folder manifests at this root. `Weapons/`, `Skills/`,
-`Mystical_Abilities/`, `Bestiary/`, `Characters/`, and `Collections/` are the
-same categories under the same names there; the rest (`Regions/`,
-`Organizations/`, `Adventures/`, `Languages/`, `Lore/`, `Pantheons/`,
-`Companies/`, `Reference/`, `Spirits/`, `Worlds/`) are Thalorna's own setting
-material, which that repository has no counterpart for.
+The layout mirrors the SoHL system repository: flat top-level category directories
+holding the notes. `Weapons/`, `Skills/`, `Mystical_Abilities/`, `Bestiary/`,
+`Characters/`, and `Collections/` are the same categories under the same names
+there; the rest (`Regions/`, `Organizations/`, `Adventures/`, `Languages/`,
+`Lore/`, `Pantheons/`, `Companies/`, `Reference/`, `Spirits/`, `Worlds/`) are
+Thalorna's own setting material, which that repository has no counterpart for.
 
-The three `*-folders.yaml` files at this root are the compendium folder
-hierarchies — not content. A note files itself into one with `sohl.folder: <id>`
-(a top-level `folder:` is also read). An unknown id fails the build.
+Compendium folders are notes too. `Folders/` holds them, each typed `folder` with
+a `shortcode`. A note files itself into a folder with `packFolder: <shortcode>`.
+An unknown folder shortcode fails the build.
 
 ## Adding a note
 
@@ -109,14 +106,12 @@ wikilink, with a label where the shortcode is not readable prose:
 See [[being-grkrahk|Grukar-ahk]] and [[lore-pelwarpepl|the Pelwar People]].
 ```
 
-This works the same whether the target is in this package or another one. A link
-into the `sohl` package resolves through **its** published link manifest, and a
-link from `sohl` into this package resolves through the one this repository
-emits (`npm run build:link-manifest`, then copy `build/manifests/thalorna.json`
-into that repository's `assets/manifests/`). See
-`@heroiclands/package-build/engine/kb-manifest` for the format, and note the
-consequence: once every package's manifest is present, an address that resolves
-in none of them stops being tolerated and fails the build.
+This works the same whether the target is in this package or another one. Links
+into other packages resolve through their published metadata. `npm run
+build:deps` caches that metadata from the dependency manifests named in
+`package-build.config.yaml`; `npm run lint` and `content-build links` validate
+that addresses resolve. An address that matches no published note stops being
+tolerated and fails the build.
 
-Inside the packs, a wikilink whose target is not in this tree is left as literal
+Inside the packs, a wikilink whose target is not published is left as literal
 text rather than becoming a broken link.

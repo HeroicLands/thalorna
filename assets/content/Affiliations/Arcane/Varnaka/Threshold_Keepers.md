@@ -86,7 +86,7 @@ data:
     varakpnthn: aligned
     trimurtisampradaya: aligned
     ganakashala: aligned
-    passshrinebrahmins: aligned
+    passshrineushtakas: aligned
     chayavrata: nemesis
 packFolder: pantheonsvarnaka
 sohl: {}
