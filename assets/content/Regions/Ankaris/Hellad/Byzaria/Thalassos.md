@@ -29,4 +29,4 @@ The harbor itself is equipped with adequate ship-repair facilities and supply wa
 - [[affiliation-byzarianlg|Byzarian League]]—The confederation of city-states
 - [[place-byzariargn|Byzaría Region]]—Regional overview
 - [[affiliation-denizara|Denizara]]—The League's premier port
-- [[affiliation-arldnpnthn|Aurèldián Pantheon]]—Religious framework
+- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—Religious framework

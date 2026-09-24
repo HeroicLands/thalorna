@@ -78,7 +78,7 @@ sohl: {}
 - **Deity:** Vúlcan—_The Forge-Lord_
 - **Domain:** Fire (creative aspect)
 - **Symbol:** A radiant anvil beneath a sheltering flame.
-- **Pantheon:** [[affiliation-arldnpnthn|Aurèldián Pantheon]]
+- **Pantheon:** [[affiliation-arldnpnthn|Aurèldían Pantheon]]
 
 The Sacred Forge represents Vúlcan's creative aspect: craftsmanship, transformation, illumination, and protection. Its priests are smiths, builders, and knights-errant who defend the faithful. Fire is sacred not as a weapon but as a tool—the forge-fire that shapes raw metal into something useful, the hearth-fire that warms a home, the beacon-fire that guides travelers to safety. The Sacred Forge is the established, mainstream Vúlcani faith in most of western Ankaris and is politically favored in Provènzia.
 
