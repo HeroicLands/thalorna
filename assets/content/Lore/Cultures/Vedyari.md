@@ -13,7 +13,7 @@ The Vedyari are one people across a map that has never been one state. A scholar
 
 ## The Wrist-Line
 
-A Vedyari is named eight days after birth, and the naming leaves a mark: two signs in the old abjad, cut small inside the left wrist. The first names the varna, the second the kula—the lineage within it. An Outcaste's is struck through with a single stroke, and a child born outside the order is marked so at the same age as any other.
+A Vedyari is named eight days after birth, and the naming leaves a mark: two signs in the old abjad, cut small inside the left wrist. The first names the tharana, the order a person is born to; the second the kula, the lineage within it. An Outcaste's is struck through with a single stroke, and a child born outside the order is marked so at the same age as any other.
 
 The mark is the document. A temple gate asks to see the wrist, and so does a sabhā before it seats a speaker, a court before it hears a party, and a bride's household before it agrees to anything. None of them asks for a word about it; they read it themselves.
 
@@ -41,7 +41,7 @@ A station is not chosen and is rarely changed, and the ways out of one are few e
 
 **It is lost.** A court or a sabhā puts a Karmāja or a Dhanāja out of the order for a judgment it names. A Senāja loses his by refusing the host's call or by one of the dishonors the military manuals set out at length. A Ritūja loses his to Patita, which is not appealable and is read at every temple gate for the rest of his life.
 
-**It is left.** A Ritūja walks out as an ascetic, and loses the office and not the varna; he is received with reverence wherever he goes and kept by the devout. Nobody else has this door.
+**It is left.** A Ritūja walks out as an ascetic, and loses the office and not the tharana; he is received with reverence wherever he goes and kept by the devout. Nobody else has this door.
 
 **It is bought out.** A Bonded Servant's debt is paid—at the great pilgrim assembly, where the bond-holders come to be paid, or by a letter of credit from the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. A runaway who reaches the sea or the pass-kingdoms is not returned, and both know it.
 
@@ -51,7 +51,7 @@ A station is not chosen and is rarely changed, and the ways out of one are few e
 
 The household, not the person, is what the order is built out of. It holds the land or the use-right, it answers for its members at the sabhā, it pays the temple's share, and it keeps the bond-tokens of those bound to it. A Vedyari introduces himself by kula before trade and by village before either.
 
-Marriage is within the kula, arranged between households and settled by the elders of both. The bride's household shows the wrist-line and the groom's household shows the ledger. A marriage across varna is not impossible and is not survivable in a village; the cities make room for it, and the children carry the lower of the two marks.
+Marriage is within the kula, arranged between households and settled by the elders of both. The bride's household shows the wrist-line and the groom's household shows the ledger. A marriage across tharana is not impossible and is not survivable in a village; the cities make room for it, and the children carry the lower of the two marks.
 
 ## Water, Food and the Touched Thing
 

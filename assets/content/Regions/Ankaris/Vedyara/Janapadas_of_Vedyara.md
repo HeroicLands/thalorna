@@ -26,7 +26,7 @@ data:
         title: Outcaste
         lore: excmmnctrnk
         description: >-
-          Placed outside the varṇa order by transgression or by birth, excluded from the wells,
+          Placed outside the tharana by transgression or by birth, excluded from the wells,
           the temples and the courts.
       - level: 1
         title: Bonded Servant
@@ -38,25 +38,25 @@ data:
         title: Karmāja
         lore: commonerrnk
         description: >-
-          Born to the serving varṇa—cultivators, artisans and laborers who hold their place by
+          Born to the serving tharana—cultivators, artisans and laborers who hold their place by
           work rather than by rite.
       - level: 3
         title: Dhanāja
         lore: gentryrnk
         description: >-
-          Born to the productive varṇa—merchants, herders and landholders, whose tithes in coin and
+          Born to the productive tharana—merchants, herders and landholders, whose tithes in coin and
           goods sustain the temple and its granary.
       - level: 4
         title: Senāja
         lore: warriorrnk
         description: >-
-          Born to the warrior varṇa, bearing arms by right and owing service in the militia the sabhā
+          Born to the warrior tharana, bearing arms by right and owing service in the militia the sabhā
           raises from the villages.
       - level: 5
         title: Ritūja
         lore: priestrnk
         description: >-
-          Born to the priestly varṇa, keeper of rite and learning, without whose sanction no act of
+          Born to the priestly tharana, keeper of rite and learning, without whose sanction no act of
           the sabhā is complete.
       - level: 6
         title: Sabhāsad
