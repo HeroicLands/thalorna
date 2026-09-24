@@ -104,7 +104,7 @@ For the ancestral Pelwar tongue of the [[lore-aelendnppl|Áelendan]]—the most 
 
 Many Élavendri individuals have both a "sun name" (used in formal and public contexts) and a "shadow name" (used only among intimates and at night). The shadow name is considered the true name, encoding the person's essential nature.
 
-Among the Áelendan, names are inherited and rarely change. A child receives the name of an honored ancestor, and with that name comes expectations of carrying forward that ancestor's legacy.
+The [[lore-aelendnppl|Áelendan]] of the interior name from a stock of their own, built on roots the lowlands no longer say and closed with endings the lowlands have lost; see [[skill-aelendlng|Áelendi Language]] for it. The two sets are not interchangeable, and an Élavendri hearing an Áelendi clan name knows the mountains are being spoken of before the speaker says so.
 
 Élavendri names are typically melodic and employ frequent use of the fey fricative (th) and liquid consonants (l, r). Many names incorporate the morpheme _-ael_ (light), _-thal_ (shadow), or _-síl_ (song).
 
