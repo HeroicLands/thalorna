@@ -635,8 +635,8 @@ Thêkla is motivated by a desire to protect those who cannot protect themselves.
 ### Patrons
 
 - **The Village Council of Marshfeld**: A agrarian community that hires Thêkla annually to protect against bandits and raiders. **Elder Magistrate Tomás** has become a mentor figure, offering wisdom and support.
-- **Lady Katerina Vasiliadis**: A noblewoman of conscience who uses her influence to connect Thêkla with communities in need of protection. She asks only that Thêkla help those who cannot afford formal mercenary rates.
-- **The Scholars' Collective of the Archive**: Dangerous knowledge sometimes requires protection. The head archivist, **Master Scholarch Dimitri**, retains Thêkla for sensitive operations involving recovered texts or persecuted scholars.
+- **Lady Khatunéla Laskáris**: A noblewoman of conscience who uses her influence to connect Thêkla with communities in need of protection. She asks only that Thêkla help those who cannot afford formal mercenary rates.
+- **The Scholars' Collective of the Archive**: Dangerous knowledge sometimes requires protection. The head archivist, **Master Scholarch Menandáhr**, retains Thêkla for sensitive operations involving recovered texts or persecuted scholars.
 
 ### Enemies
 
@@ -655,7 +655,7 @@ Thêkla is motivated by a desire to protect those who cannot protect themselves.
 
 2. **The Ghost Brigade**: Thêkla encounters a group of former soldiers—women mostly—who have begun conducting vigilante operations against violent criminals the official justice system refuses to prosecute. Their leader, **Captain Delia**, asks Thêkla to join formally or at minimum to train them. Accepting means becoming an outlaw; refusing means abandoning those who could do tremendous good.
 
-3. **The Infiltration**: Lady Katerina asks Thêkla to accomplish something previously thought impossible: infiltrate the **Crimson Brotherhood** as a criminal-for-hire, identify their actual leadership structure, and gather evidence for prosecution. The operation would require Thêkla to commit heinous acts as cover—forcing her to question whether her moral code can bend without breaking.
+3. **The Infiltration**: Lady Khatunéla asks Thêkla to accomplish something previously thought impossible: infiltrate the **Crimson Brotherhood** as a criminal-for-hire, identify their actual leadership structure, and gather evidence for prosecution. The operation would require Thêkla to commit heinous acts as cover—forcing her to question whether her moral code can bend without breaking.
 
 4. **The Rival's Challenge**: **Korvas the Merciless** publicly challenges Thêkla to single combat, winner takes both their reputations. He has carefully orchestrated the challenge to occur during a time when she cannot simply refuse without losing the confidence of the mercenary community. Beyond the personal stakes, Thêkla suspects he has some larger purpose in forcing this confrontation.
 
