@@ -6,6 +6,16 @@ data:
   lore: []
   parents: []
   population: 370000000
+  world:
+    equatorialCircumferenceKm: 40000
+    surfaceGravityG: 1.0
+    axialTiltDegrees: 23.5
+  year:
+    days: 365
+    hoursPerDay: 24
+    minutesPerHour: 60
+    secondsPerMinute: 60
+  present: 720
 packFolder: setting
 name:
   full: The World of Thalorna
@@ -23,6 +33,16 @@ cascade:
 Thalorna is a diverse and ancient world, home to a rich tapestry of cultures, peoples, and lands. Patterned loosely after an alternate Earth, its continents and civilizations echo Terran geography and history while remaining wholly their own. From lush subtropical regions to vast deserts and icy wastes, each continent holds unique histories and societies shaped by millennia of human and otherworldly influence.
 
 For pantheon-to-region mapping, see [[lore-pnthnrgnlmp|Pantheon Regional Map]].
+
+## The World and its Year
+
+Thalorna is round, 40,000 kilometers at the equator, with a surface gravity of 1.0 g and an axial tilt of 23.5 degrees. The tilt is what gives the world seasons. Without it the sun would sit over the equator all year, and there would be no equinox or solstice to mark the year at all.
+
+The solar year is 365 days, with no leap year and no drift, and it never has had either. A day is twenty-four hours, an hour sixty minutes, a minute sixty seconds, with no fractions anywhere in the count. Four days each year are fixed and never move: the vernal equinox, the summer solstice, the autumnal equinox, the winter solstice. Because the year never varies, the same four dates carry the same four events in every year that has been or ever will be counted.
+
+Every people on Thalorna divides these 365 days differently. The [[lore-commoncal|Common Calendar]], the [[lore-khzrnclndr|Khazryn calendar]], the [[lore-khprclndr|Kheperi calendar]] and the Empire of Tānvür's [[lore-clndrstrlgy|Calendar and Astrology]] each cut the same year into their own months, and none of them is wrong for doing it differently. The year is the world's; what a people does with it is theirs.
+
+The present, and the date this corpus states as canon, is the year **720**. Everything at or before it belongs to the setting; everything after belongs to the table it is played at.
 
 ## Continents
 
