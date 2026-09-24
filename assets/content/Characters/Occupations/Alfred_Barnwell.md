@@ -590,13 +590,13 @@ His status as a freeman and an outsider to formal Aelwythan power structures act
 
 ### Enemies and Threats
 
-**Magister Corvus**, an austere enforcer for the Quaesitorium's western investigations, has taken particular interest in "irregular practices" in the Aelwyth borderlands. He does not yet know Alfred by name, but he is asking the right questions. The tension between them is building steadily.
+**Magister Sákhoran**, an austere enforcer for the Quaesitorium's western investigations, has taken particular interest in "irregular practices" in the Aelwyth borderlands. He does not yet know Alfred by name, but he is asking the right questions. The tension between them is building steadily.
 
 **The Jealous Circle**, a coterie of independent practitioners in the larger towns who resent Alfred's discretion and growing reputation. They would not hesitate to betray him to the Ordo if they believed it would eliminate a rival—or at minimum, to undercut his standing with shared clients.
 
 ## Plot Hooks
 
-1. **The Quaesitorium's Attention**—Magister Corvus has begun interviewing the inhabitants of villages where "Thalos Graymoor" is known to operate. A villager has already described Alfred in passing detail, and Corvus is correlating the description with old Epistemium records. Alfred learns of this threat through his network of contacts, and can disappear, establish an alibi, or take a more dangerous path—offering the Magister something he cannot refuse.
+1. **The Quaesitorium's Attention**—Magister Sákhoran has begun interviewing the inhabitants of villages where "Thalos Graymoor" is known to operate. A villager has already described Alfred in passing detail, and Sákhoran is correlating the description with old Epistemium records. Alfred learns of this threat through his network of contacts, and can disappear, establish an alibi, or take a more dangerous path—offering the Magister something he cannot refuse.
 
 2. **The Forbidden Text**—A desperate craftmaster comes to Alfred with a crisis: his daughter was poisoned by a rare substance, and the only effective cure lies in an alchemical procedure described in one of the restricted texts Alfred took from the Epistemium when he left. Making the cure would require harvesting ingredients that are monitored by Ordo guilds. Alfred must weigh the daughter's life against the risk of exposure.
 

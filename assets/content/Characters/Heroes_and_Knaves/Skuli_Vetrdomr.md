@@ -643,7 +643,7 @@ Skúli is driven by an almost obsessive need to preserve what his family built a
 
 ### Patrons
 
-- **Magistrate-Commander Haldor Ironforge**: The military quartermaster of the Nordheim garrison places annual orders for campaign tents. He values Skúli's work so highly that he has never sought alternatives, though Haldor privately worries about the aging craftsman's future reliability.
+- **Magistrate-Commander Haldor Knarvumakh**: The military quartermaster of the Nordheim garrison places annual orders for campaign tents. He values Skúli's work so highly that he has never sought alternatives, though Haldor privately worries about the aging craftsman's future reliability.
 - **Merchant-Prince Erikson Wayfarer**: A wealthy trading expedition leader who has used Skúli's tents for three decades. Erikson credits the craftsman's work with saving his life during a catastrophic storm in the Northern Peaks.
 
 ### Enemies

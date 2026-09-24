@@ -654,7 +654,7 @@ Meneti is driven by an almost religious belief in open books and the moral duty 
 ### Enemies
 
 - **The Crimson Syndicate**: A network of corrupt officials and merchant-lords who lost hundreds of thousands of dinars to her investigations. They have placed a quiet bounty on her, though none have dared act openly.
-- **Irentep the Iron**: A disgraced former Treasury Minister whose embezzlement Meneti exposed seven years ago. He now works in exile, spreading rumors that she fabricated evidence against him.
+- **Menisî the Iron**: A disgraced former Treasury Minister whose embezzlement Meneti exposed seven years ago. He now works in exile, spreading rumors that she fabricated evidence against him.
 - **The Provincial Governors' Council**: Her investigations into irregular tribute payments have made her a target of provincial elites who depend upon those irregularities for their wealth.
 
 ### Affiliations
@@ -667,7 +667,7 @@ Meneti is driven by an almost religious belief in open books and the moral duty 
 
 1. **The Phantom Accounts**: Meneti discovers a set of ledgers within the Treasury itself showing transactions that do not appear in any official record. These accounts detail payments to unnamed entities totaling millions of dinars over the past five years. Investigation suggests that Khassetep himself may be running a secret operation, though whether he is embezzling or acting under orders from someone higher in the imperial hierarchy is unclear. Meneti is caught between her loyalty to her patron, her obligation to truth, and the very real possibility that exposing this will make her a marked woman.
 
-2. **The Auditor's Inheritance**: When **Demetrius the Scribe**, Meneti's former mentor and the only person she truly trusted, dies under suspicious circumstances, he leaves her a sealed package of documents. Inside, she finds evidence that she herself has been the subject of a parallel investigation for years. Someone in the Treasury believes she is falsifying records, and the evidence against her—though circumstantial—is compelling enough to destroy her reputation. Now Meneti must find who orchestrated this frame and why, while preventing her enemies from discovering that her perfect reputation has cracks.
+2. **The Auditor's Inheritance**: When **Rêmeseh the Scribe**, Meneti's former mentor and the only person she truly trusted, dies under suspicious circumstances, he leaves her a sealed package of documents. Inside, she finds evidence that she herself has been the subject of a parallel investigation for years. Someone in the Treasury believes she is falsifying records, and the evidence against her—though circumstantial—is compelling enough to destroy her reputation. Now Meneti must find who orchestrated this frame and why, while preventing her enemies from discovering that her perfect reputation has cracks.
 
 3. **The Visitor from the Provinces**: A young noble from the southern provinces arrives in the capital claiming to possess evidence of massive tax fraud at the provincial level, involving not just local officials but merchants and military commanders. However, they will only speak to Meneti directly, and only in absolute secrecy. As Meneti begins her investigation, she realizes the evidence implicates people so highly placed that publicizing it would trigger a provincial uprising or a coup. She can bury the truth to preserve the Empire, or expose it and watch the realm tear itself apart.
 

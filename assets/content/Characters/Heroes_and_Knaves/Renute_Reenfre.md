@@ -669,7 +669,7 @@ Renutê is motivated by her vision of her inn as a sanctuary—a place where peo
 ### Patrons
 
 - **Captain Ahmet Sekar:** A decorated naval officer who frequently stays at the Reenfré and uses her common room for important meetings. He values her discretion and her ability to keep conversations private.
-- **Master Merchant Khadija:** The head of a major trading concern who has relied on Renutê's recommendations for finding trustworthy business associates and reliable travel partners. Their relationship has made both of them substantial profits.
+- **Master Merchant Hetmiya:** The head of a major trading concern who has relied on Renutê's recommendations for finding trustworthy business associates and reliable travel partners. Their relationship has made both of them substantial profits.
 - **The Scholars' Circle:** A group of learned individuals who hold regular meetings at the Reenfré and have come to depend on Renutê's ability to provide excellent meals on their schedule and maintain privacy for their discussions.
 - **Various Adventuring Companies:** Numerous groups of adventurers have made the Reenfré their base of operations between expeditions, and they maintain loyalty to Renutê across the years.
 

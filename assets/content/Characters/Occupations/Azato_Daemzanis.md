@@ -592,7 +592,7 @@ He maintains cordial but distant relations with the senatorial families whose pa
 
 **Brother Aurelius**—A Ménérvan priest of the Temple of Wisdom in Tyrellan, Aurelius is confessor to several Epistemium scholars and has become one of the few people Azatô engages with something approaching candor. Their conversations occur monthly and ostensibly concern theological matters, but both understand that Aurelius is a necessary anchor, keeping Azatô's detachment from slipping into something worse. Brother Aurelius harbors no illusions about his colleague's capacity for warmth; he simply views the work as maintaining a brilliant mind in sufficient equilibrium to continue contributing to human knowledge.
 
-**Lena Moretti**—A merchant's widow of lower equestrian standing, Lena manages her late husband's trading concerns and has contracted with Azatô for the past five years to source and authenticate rare mineral specimens across coastal trade networks. She knows him only as Oswin Crey and believes him to be a scholar-merchant of independent means. Their dealings have remained stable precisely because no personal connection threatens it.
+**Azène Armendánis**—A merchant's widow of lower equestrian standing, Azène manages her late husband's trading concerns and has contracted with Azatô for the past five years to source and authenticate rare mineral specimens across coastal trade networks. She knows him only as Oswin Crey and believes him to be a scholar-merchant of independent means. Their dealings have remained stable precisely because no personal connection threatens it.
 
 ### Enemies and Threats
 
@@ -604,7 +604,7 @@ He maintains cordial but distant relations with the senatorial families whose pa
 
 ## Plot Hooks
 
-**The Codex Problem**—A merchant ship carrying a rare alchemical codex from the coastal holdings was intercepted and its cargo scattered. Lena Moretti has contracted "Oswin Crey" to retrieve pages from a private collector in a neighboring realm without official sanction. The cost offered is extraordinary, but the retrieval would almost certainly trigger Quaesitorium scrutiny if discovered.
+**The Codex Problem**—A merchant ship carrying a rare alchemical codex from the coastal holdings was intercepted and its cargo scattered. Azène Armendánis has contracted "Oswin Crey" to retrieve pages from a private collector in a neighboring realm without official sanction. The cost offered is extraordinary, but the retrieval would almost certainly trigger Quaesitorium scrutiny if discovered.
 
 **Quintus Redivivus**—An apprentice has discovered references in old Epistemium records to a secret project Azatô conducted with the late Magister Quintus Aerius before their public rupture. The apprentice, lacking context, asks innocent questions about the work. Azatô can suppress the inquiry or allow a dormant chapter of his past to reopen.
 
