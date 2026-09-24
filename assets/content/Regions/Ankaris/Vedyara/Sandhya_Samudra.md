@@ -38,7 +38,7 @@ Two trades keep the coast working. Salt is raked from pans along the whole shore
 
 Vedyari shipping on this sea is coastwise. Hulls work between the roadsteads and round the southern turn into the [[place-meghsamdra|Megha-samudra]], and the passage to the Kheperi delta is made that way when the season allows it. No house of the west coast keeps a factor on any farther shore, and no master here is paid to cross open water.
 
-What the men of this coast know of the deep west, they have from sailors met at the delta and from crews blown out and back. The accounts do not agree with one another, and the Vedyari have never had reason enough to go and settle the matter.
+What lies across the deep water is settled, from sailors met at the delta and from crews blown out and back: the far shore is the east coast of [[place-xerathia|Xerathia]], a real landfall and not an unknown one. West-north-west lie [[affiliation-empirtkhpr|Ta'Kheperu]] and the [[place-dunharargn|Dunhara]], both already known to Vedyara by their own roads. It is not the becalmed water the Kalihara trade fears — that Doldrum Sea lies on Xerathia's farther side, and the Sandhyā-samudra is a different water entirely.
 
 ## See Also
 
