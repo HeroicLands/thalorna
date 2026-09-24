@@ -75,7 +75,7 @@ data:
     svapnasarisamaja: nemesis
     trimurtisampradaya: nemesis
     ganakashala: unaligned
-    passshrinebrahmins: unaligned
+    passshrineushtakas: unaligned
     thresholdkeepers: nemesis
 packFolder: pantheonsvarnaka
 sohl: {}
