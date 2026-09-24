@@ -591,7 +591,7 @@ Kallíxenos stands 5'7" tall with a medium build. He has light weathered skin, g
 
 # Dossier {#dossier}
 
-Born the son of a successful merchant, Kallíxenos showed early aptitude for rhetoric and logic. His family secured him apprenticeship with **Advocate Lysander**, the most feared litigant in the Byzarian League's commercial courts. Lysander was a harsh master but brilliant, training Kallíxenos in the arts of argumentation, negotiation, and the complex web of commercial law that governed the League.
+Born the son of a successful merchant, Kallíxenos showed early aptitude for rhetoric and logic. His family secured him apprenticeship with **Advocate Chrysandáhr**, the most feared litigant in the Byzarian League's commercial courts. Chrysandáhr was a harsh master but brilliant, training Kallíxenos in the arts of argumentation, negotiation, and the complex web of commercial law that governed the League.
 
 By his early twenties, Kallíxenos had established himself as a feared advocate, known for his ability to find previously unnoticed clauses in contracts and his uncanny ability to sway juries through precise logic presented with devastating eloquence. Over the next two decades, he built an empire of influence, representing major merchant houses, shipping concerns, and craftsmen's guilds. He accumulated wealth, power, and knowledge of the League's secrets—information that could destroy lesser figures.
 
@@ -635,7 +635,7 @@ Kallíxenos is driven by the desire to regain his prominent position within the 
 
 ### Enemies
 
-- **Advocate Demetrius**: Younger, more charismatic rival who has been slowly taking Kallíxenos's clients and position. Demetrius orchestrated the scandal that forced Kallíxenos's reduction.
+- **Advocate Demetráz**: Younger, more charismatic rival who has been slowly taking Kallíxenos's clients and position. Demetráz orchestrated the scandal that forced Kallíxenos's reduction.
 - **House Malassian**: A merchant dynasty Kallíxenos once defeated decisively in court, causing them significant financial harm. They have long memories and resources for vengeance.
 
 ### Affiliations
@@ -649,8 +649,8 @@ Kallíxenos is driven by the desire to regain his prominent position within the 
 
 2. **The Impossible Defense**: A client approaches Kallíxenos with a seemingly unwinnable case—they are accused of a crime that carries automatic forfeiture of all property and exile. The evidence against them appears overwhelming, but Kallíxenos realizes the accusation is politically motivated, meant to eliminate a rival of someone powerful. He can take the case knowing that success might make powerful enemies and that the fee will never justify the risk, or turn it away.
 
-3. **The Successor's Rebellion**: A young advocate he mentored approaches him with evidence that his own mentor, Advocate Lysander, was corrupt and used illegal methods even more egregiously than Kallíxenos himself. The question becomes whether Kallíxenos will help cover up this truth (protecting his own reputation as Lysander's student) or expose it (potentially undermining the entire foundation of his standing and training).
+3. **The Successor's Rebellion**: A young advocate he mentored approaches him with evidence that his own mentor, Advocate Chrysandáhr, was corrupt and used illegal methods even more egregiously than Kallíxenos himself. The question becomes whether Kallíxenos will help cover up this truth (protecting his own reputation as Chrysandáhr's student) or expose it (potentially undermining the entire foundation of his standing and training).
 
-4. **Demetrius's Fall**: Evidence emerges that Advocate Demetrius, his rival, orchestrated the scandal against Kallíxenos and is currently engaged in even more serious corruptions. Kallíxenos has the means to destroy him through legal action—but doing so would require him to expose evidence that would also implicate him in the original scandal. The choice is between revenge and self-preservation.
+4. **Demetráz's Fall**: Evidence emerges that Advocate Demetráz, his rival, orchestrated the scandal against Kallíxenos and is currently engaged in even more serious corruptions. Kallíxenos has the means to destroy him through legal action—but doing so would require him to expose evidence that would also implicate him in the original scandal. The choice is between revenge and self-preservation.
 
 5. **The Shadow Counsel**: An anonymous patron offers Kallíxenos extraordinary payment to act as legal advisor to a merchant operation that appears legitimate on the surface but whose true operations clearly venture into criminal activity. The work is intellectually stimulating, the pay is life-changing, and the patron knows enough about his past indiscretions to compel obedience. Kallíxenos can accept and risk becoming entangled with outright crime, or refuse and face exposure of his secrets.
