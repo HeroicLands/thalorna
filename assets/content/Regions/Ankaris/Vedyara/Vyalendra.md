@@ -76,7 +76,7 @@ data:
       Triyācārya: >-
         Senior priest of the city's Trimūrti temple, who keeps the rites of all three forms and
         whose sanction the Council's acts require.
-      Koṣādhyakṣa: >-
+      Koshādhyaksha: >-
         Superintendent of the city treasury, answerable for the cloth-tax, the warehouse dues
         and the Council's reserve.
       Dūta: >-
@@ -136,4 +136,4 @@ Vyālendra uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered th
 - [[place-vyalendra3|Vyālendra]]—The city itself
 - [[place-nilatira|Nīlatīra]]—the port the cloth leaves by
 - [[skill-vedyarlng|Vedyari]]—Naming tradition
-- [[affiliation-varakpnthn|Varṇaka Pantheon]]—Religious tradition
+- [[affiliation-varakpnthn|Varnaka Pantheon]]—Religious tradition

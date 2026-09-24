@@ -21,7 +21,7 @@ shortcode: bharyastan2
 packFolder: vedyara
 ---
 
-**Bharyastān** (3,000, market 3) is the capital of [[affiliation-bharyastan|the kingdom of Bharyastān]] and the only town in it. It stands on a shelf of level ground where the tracks out of the eight valleys come together, two days above the plain and a day and a half from the gold mountain of [[affiliation-suvrgrjnpd|Suvarṇagiri]].
+**Bharyastān** (3,000, market 3) is the capital of [[affiliation-bharyastan|the kingdom of Bharyastān]] and the only town in it. It stands on a shelf of level ground where the tracks out of the eight valleys come together, two days above the plain and a day and a half from the gold mountain of [[affiliation-suvrgrjnpd|Suvarnagiri]].
 
 The town is the palace, the horse-ground below it, a temple of Mahájaya, and four streets of people who supply the first three. The palace is old, is built of the local gray stone, and is fortified in a way that would have been serious three centuries ago.
 
@@ -34,5 +34,5 @@ Market week follows the spring muster. Walnut timber, hill barley, hides, a litt
 ## See Also
 
 - [[affiliation-bharyastan|The Kingdom of Bharyastān]]—the kingdom whose capital this is
-- [[affiliation-suvrgrjnpd|Suvarṇagiri Janapada]]—the treaty partner down the valley
+- [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]]—the treaty partner down the valley
 - [[place-vedyarargn|Vedyara Region]]—the enclosing region

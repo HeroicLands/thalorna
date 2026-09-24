@@ -26,7 +26,7 @@ Its population is thirty thousand; its territory occupies a long defensible curv
 
 ## The Bow-Fort
 
-The town of Dhanurkota is built on a low fortified hill where the Sarvada bends west around an outcrop of red rock. The fort itself is older than the janapada—older, indeed, than the Mahā-Saṅgha, older than the temples, older perhaps than the Vedyari language itself. Its lowest courses are megalithic, of a construction-style that no living mason knows how to reproduce; the upper walls have been rebuilt many times in successive Vedyari styles. The fort encloses the **Mahájaya temple**, the four academy halls, the sabhā chamber, and the granary; the town proper spreads down the slope below the walls and along the riverbank.
+The town of Dhanurkota is built on a low fortified hill where the Sarvada bends west around an outcrop of red rock. The fort itself is older than the janapada—older, indeed, than the Mahā-Sangha, older than the temples, older perhaps than the Vedyari language itself. Its lowest courses are megalithic, of a construction-style that no living mason knows how to reproduce; the upper walls have been rebuilt many times in successive Vedyari styles. The fort encloses the **Mahájaya temple**, the four academy halls, the sabhā chamber, and the granary; the town proper spreads down the slope below the walls and along the riverbank.
 
 The fort's name has always been Dhanurkota. The meaning of the word is contested. Some scholars derive _dhanur_ from the bow that has been the janapada's emblem since before recorded history. Others derive it from a much older root meaning a bend or curve in a river, which is likely the truer account. The bow came to the name after the academies were founded, and nothing will get it out again.
 

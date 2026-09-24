@@ -21,7 +21,7 @@ packFolder: vedyara
 
 The **Eastern Reach** is where the [[place-graznmntns|Grazian Mountains]] leave [[place-vedyarargn|Vedyara]]'s northern margin and swing east toward the western frontier of [[place-tanvuregin|Tānvür]]. It is the overland barrier between the two great eastern civilizations, and the only reason either of them has ever had to think about the other.
 
-The Reach is lower than [[place-sthrnwall|the Southern Wall]] and narrower, which does not make it kinder. What it lacks in altitude it makes up in weather. The storms come up the eastern valleys with very little warning, and the season here is reckoned in days where the Wall's is reckoned in weeks. Two crossings serve it—[[place-jnanadvara|Jñānadvāra]], which envoys and scholars use, and [[place-sankhadvra|Śaṅkhadvāra]] under [[place-kalashkhra|Kālaśikhara]], which almost nobody uses—and both are the [[affiliation-hvarnguides|Hvarn]]'s ground.
+The Reach is lower than [[place-sthrnwall|the Southern Wall]] and narrower, which does not make it kinder. What it lacks in altitude it makes up in weather. The storms come up the eastern valleys with very little warning, and the season here is reckoned in days where the Wall's is reckoned in weeks. Two crossings serve it—[[place-jnanadvara|Jñānadvāra]], which envoys and scholars use, and [[place-sankhadvra|Shankhadvāra]] under [[place-kalashkhra|Kālashikhara]], which almost nobody uses—and both are the [[affiliation-hvarnguides|Hvarn]]'s ground.
 
 ## The Gorges and the Forest
 
@@ -36,4 +36,4 @@ Tānvür maintains a way-station beyond the throat of Jñānadvāra and takes an
 ## See Also
 
 - [[place-graznmntns|The Grazian Mountains]] · [[place-sthrnwall|The Southern Wall]] · [[place-wstrndscnt|The Western Descent]]
-- [[place-jnanadvara|Jñānadvāra]] · [[place-sankhadvra|Śaṅkhadvāra]] · [[place-slvrgorges|The Silver Gorges]]
+- [[place-jnanadvara|Jñānadvāra]] · [[place-sankhadvra|Shankhadvāra]] · [[place-slvrgorges|The Silver Gorges]]

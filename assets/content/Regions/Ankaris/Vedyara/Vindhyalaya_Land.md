@@ -63,7 +63,7 @@ Highland agriculture is limited by terrain. The great terraced fields of the low
 ## Notable Features
 
 - **[[place-suryagarha|Sūryāgarha]]**—the stone capital, a fortress-city of forty thousand built across the throat of [[place-suryadvara|Sūryadvāra]], the greatest northern pass. Every caravan entering or leaving Vedyara by that pass goes beneath its walls, and beyond the throat the road forks north for the Khazryn and northeast for Tānvür. Below the city the terrace road drops through the rice and barley steps to the lowland market towns, and it is the only way anything reaches the capital from inside the kingdom.
-- **[[place-pssshrines|The Pass-Shrines]]**—a chain of Varṇaka temples built at the high points of the caravan roads, where travelers stop to leave offerings before attempting the descent. The shrines are maintained by a specialized ushtaka sub-caste whose members live year-round at altitudes that would kill an unaccustomed lowlander within a week.
+- **[[place-pssshrines|The Pass-Shrines]]**—a chain of Varnaka temples built at the high points of the caravan roads, where travelers stop to leave offerings before attempting the descent. The shrines are maintained by a specialized ushtaka sub-caste whose members live year-round at altitudes that would kill an unaccustomed lowlander within a week.
 - **[[place-slvrgorges|The Silver Gorges]]**—steep valleys in the eastern mountains, worked for lapis and silver since before the founding of the kingdom, and carrying [[place-tamradvara|Tāmradvāra]] up to the marches beyond. The mines are held by hereditary smithing clans whose prerogatives predate the Mahārāja's own charter.
 
 ## See Also
