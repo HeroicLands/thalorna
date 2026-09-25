@@ -55,10 +55,7 @@ data:
       Witness of the Elevation: >-
         Conducts the guild's senior elevation in tandem with the temple of Shesmu; neither rite counts
         without the other.
-  commonSkills:
-    - anhur
-    - srvl
-    - melee
+  commonSkills: []
   seat: null
   domains: []
   population: null

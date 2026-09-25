@@ -1,5 +1,5 @@
 ---
-description: "Dreams."
+description: "The Assembly of the Dream-Followers"
 tags:
   - varnaka
   - faith

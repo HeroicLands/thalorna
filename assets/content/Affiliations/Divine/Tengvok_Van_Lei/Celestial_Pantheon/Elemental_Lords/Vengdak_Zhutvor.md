@@ -105,11 +105,7 @@ data:
         ruling. Most fail; the avenue exists.
       Vëngdāk Zhütvōr: >-
         Vëngdāk Zhütvōr—The Lord of Earth—the being this bureau or cultus is organized around.
-  commonSkills:
-    - vngdkzhtvr
-    - tngthkscrpt
-    - draw
-    - law
+  commonSkills: []
   seat: null
   domains: []
   population: null

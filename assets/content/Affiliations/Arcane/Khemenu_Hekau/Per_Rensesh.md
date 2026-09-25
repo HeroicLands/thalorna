@@ -65,10 +65,7 @@ data:
       Corrector: >-
         Called by another House when a form fails, to determine whether the fault lies in the name or in the
         execution.
-  commonSkills:
-    - ren
-    - khprsshscrpt
-    - dscr
+  commonSkills: []
   seat: null
   domains: []
   population: null

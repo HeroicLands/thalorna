@@ -105,11 +105,7 @@ data:
         ruling. Most fail; the avenue exists.
       Dāktūr Vōrthāt: >-
         Dāktūr Vōrthāt—The Lord of Metal—the being this bureau or cultus is organized around.
-  commonSkills:
-    - daktrvrtht
-    - tngthkscrpt
-    - draw
-    - law
+  commonSkills: []
   seat: null
   domains: []
   population: null

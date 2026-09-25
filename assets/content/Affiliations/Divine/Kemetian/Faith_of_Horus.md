@@ -52,11 +52,7 @@ data:
         Holds one of the stations positioned along a major travel route, rather than a place in a great temple.
       Route-Counsellor: >-
         The Hem'Netjer advising a military commander planning a campaign or a merchant guild planning a caravan.
-  commonSkills:
-    - horus
-    - srvl
-    - mrcn
-    - dscr
+  commonSkills: []
   seat: null
   domains: []
   population: null

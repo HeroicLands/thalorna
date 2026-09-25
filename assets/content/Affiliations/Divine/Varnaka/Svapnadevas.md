@@ -4,6 +4,7 @@ tags:
   - deity
   - dreams
   - spirits
+description: "The celestial court, a host of spirits who weave dreams, carry omens, and stand between mortal minds and the divine order."
 name:
   full: Svapnadēvas
   aliases:

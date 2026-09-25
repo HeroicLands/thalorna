@@ -1,5 +1,5 @@
 ---
-description: "Purification."
+description: "The ascetic, reformist sect centered on Rásikara's purging fire that brings purification."
 tags:
   - varnaka
   - faith

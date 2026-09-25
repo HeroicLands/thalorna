@@ -64,10 +64,7 @@ data:
       Raiser: >-
         Sets the workings that animate a made body—the standing servant, and the shabti Per-Imnetáu
         binds.
-  commonSkills:
-    - khat
-    - khprsshscrpt
-    - masn
+  commonSkills: []
   seat: null
   domains: []
   population: null

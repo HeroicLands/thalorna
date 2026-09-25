@@ -105,11 +105,7 @@ data:
         ruling. Most fail; the avenue exists.
       Vëizhük: >-
         Vëizhük Dāknëi—The Jade Sovereign—the being this bureau or cultus is organized around.
-  commonSkills:
-    - veizhuk
-    - tngthkscrpt
-    - draw
-    - law
+  commonSkills: []
   seat: null
   domains: []
   population: null

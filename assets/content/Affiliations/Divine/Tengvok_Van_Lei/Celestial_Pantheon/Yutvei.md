@@ -106,11 +106,7 @@ data:
         ruling. Most fail; the avenue exists.
       Yütvëi: >-
         Yütvëi—The Keeper of the Jade Seal—the being this bureau or cultus is organized around.
-  commonSkills:
-    - yutvei
-    - tngthkscrpt
-    - draw
-    - law
+  commonSkills: []
   seat: null
   domains: []
   population: null

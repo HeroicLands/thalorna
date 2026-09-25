@@ -1,5 +1,5 @@
 ---
-description: "Creation."
+description: "Religion of the architect of existence"
 tags:
   - varnaka
   - deity

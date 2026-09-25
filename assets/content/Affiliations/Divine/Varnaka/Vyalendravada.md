@@ -1,5 +1,5 @@
 ---
-description: "Universal."
+description: "Monistic and scholarly religion tied to the building trades and the great academies."
 tags:
   - varnaka
   - faith

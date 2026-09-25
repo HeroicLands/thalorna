@@ -1,5 +1,5 @@
 ---
-description: "Order."
+description: "Religion of the goddess of preservation, order, harmony and abundance."
 tags:
   - varnaka
   - deity

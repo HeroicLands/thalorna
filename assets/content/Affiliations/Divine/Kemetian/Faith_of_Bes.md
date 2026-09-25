@@ -54,10 +54,7 @@ data:
         Assists through the nightlong festival vigils, which is where the acolyte's aptitude for the god's work first shows.
       Shrine-Keeper: >-
         Maintains the shrines and prepares the incense and offerings.
-  commonSkills:
-    - bes
-    - folklr
-    - dscr
+  commonSkills: []
   seat: null
   domains: []
   population: null

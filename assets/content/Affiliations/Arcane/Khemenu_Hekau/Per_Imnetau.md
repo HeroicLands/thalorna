@@ -64,10 +64,7 @@ data:
       Reader of the Sealed Work: >-
         Alone permitted to open a sealed chamber to correct a failed binding, and required to reseal it the
         same night.
-  commonSkills:
-    - duat
-    - khprsshscrpt
-    - pysn
+  commonSkills: []
   seat: null
   domains: []
   population: null

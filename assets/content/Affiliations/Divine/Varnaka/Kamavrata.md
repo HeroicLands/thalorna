@@ -1,5 +1,5 @@
 ---
-description: "Fertility."
+description: "Religion of the god of desire and fertility and of the creative joy that issues from it."
 tags:
   - varnaka
   - deity

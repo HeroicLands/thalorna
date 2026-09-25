@@ -69,11 +69,7 @@ data:
         the seal is broken, and revenant-wardens, ṭerebu that keep their wits and their post in the
         dark forever. It is the costliest defense and the most dreaded—and the robbers' surest
         master-key is a corrupt priest who knows which glyph is live and which is bluff.
-  commonSkills:
-    - seker
-    - pysn
-    - herb
-    - khprsshscrpt
+  commonSkills: []
   seat: khensuret
   domains: []
   population: null

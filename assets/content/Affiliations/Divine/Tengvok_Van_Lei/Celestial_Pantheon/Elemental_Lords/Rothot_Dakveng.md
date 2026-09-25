@@ -105,11 +105,7 @@ data:
         ruling. Most fail; the avenue exists.
       Röthöt Dākvëng: >-
         Röthöt Dākvëng—The Lord of Wood—the being this bureau or cultus is organized around.
-  commonSkills:
-    - rothtdkvng
-    - tngthkscrpt
-    - draw
-    - law
+  commonSkills: []
   seat: null
   domains: []
   population: null

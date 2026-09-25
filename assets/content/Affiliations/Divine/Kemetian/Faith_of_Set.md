@@ -59,11 +59,7 @@ data:
       Channel-Warden: >-
         The Wab charged with the lightning-conducting channels on the high roofs—the cult's most
         dangerous ordinary duty.
-  commonSkills:
-    - set
-    - melee
-    - draw
-    - srvl
+  commonSkills: []
   seat: null
   domains: []
   population: null
