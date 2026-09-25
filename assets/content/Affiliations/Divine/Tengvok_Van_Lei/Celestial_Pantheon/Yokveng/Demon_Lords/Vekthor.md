@@ -81,7 +81,7 @@ data:
   domains: []
   population: null
   economy:
-    - tanvrcrncy
+    - lore-tanvrcrncy
   lore:
     - vekthordty
   parents:
