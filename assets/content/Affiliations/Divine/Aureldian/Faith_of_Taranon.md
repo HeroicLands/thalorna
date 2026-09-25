@@ -58,7 +58,6 @@ data:
         Tracks storm patterns and rainfall and reports omens to the central temple.
       Storm-Reader: >-
         Sells predictions to maritime merchants—a specialism many Vestales settle into.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -76,7 +75,9 @@ name:
     - Táranon
 shortcode: taranon
 packFolder: pantheonsaureldian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 God of storms, thunder, and lightning. Táranon commands the skies, both nurturing the land with rain and unleashing destructive tempests.

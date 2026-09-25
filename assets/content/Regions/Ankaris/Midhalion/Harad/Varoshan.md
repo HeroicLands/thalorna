@@ -89,9 +89,6 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose
         rulings the Council enforces.
-  commonSkills:
-    - haradilng
-    - dunharlng
   seat: varoshan2
   domains:
     - varoshan2
@@ -107,7 +104,11 @@ data:
     ashanpnthn: aligned
     arldnpnthn: aligned
 packFolder: harad
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - haradilng
+      - dunharlng
 ---
 
 ## Overview

@@ -90,8 +90,6 @@ data:
       Dūta: Envoy to a foreign court, whose person is protected by custom on both sides of
         the frontier.
       Ganaka: Court astrologer, fixing the auspicious hour for campaigns, marriages and coronations.
-  commonSkills:
-    - vedyarlng
   seat: bharyastan2
   domains:
     - bharyastan2
@@ -108,7 +106,10 @@ data:
     mrchntclctvvdyr: unaligned
     chandrapur: unaligned
 packFolder: vedyara
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - vedyarlng
 ---
 
 ## Overview

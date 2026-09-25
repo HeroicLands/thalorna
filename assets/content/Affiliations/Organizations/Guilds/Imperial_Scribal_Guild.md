@@ -56,7 +56,6 @@ data:
         description: >-
           Manus prima—the Guild's chair, one position, held for life or until resignation.
     offices: {}
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -65,7 +64,9 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 - **Type:** Imperial chartered guild

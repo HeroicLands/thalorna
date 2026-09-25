@@ -60,7 +60,6 @@ data:
         Younger initiates, many of them apprentices to master smiths, learning the practical craft alongside theology.
       Lay Order: >-
         The guild masters in good standing who belong to the faith without ordination, through whom it reaches the smiths' guilds of every city.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -72,7 +71,9 @@ data:
   relations:
     arldnpnthn: aligned
 packFolder: pantheonsaureldian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 - **Deity:** Vúlcan—_The Forge-Lord_

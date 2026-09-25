@@ -56,7 +56,6 @@ data:
         Acolytes and servants of the night, who keep the temples through the dark hours, tend the sacred lamps and prepare the sleeping chambers.
       House of Sleep: >-
         The temple-house in which petitioners sleep to receive their dreams.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -76,7 +75,9 @@ name:
     - Aetheria
 shortcode: aetheria
 packFolder: pantheonsaureldian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 Goddess of dreams, celestial visions, and the veil between worlds. Aethería brings divine inspiration and omens to mortals through their dreams. She is patron to seers, oracles, healers of the mind, and all who seek truth in the world beyond waking.

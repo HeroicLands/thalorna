@@ -65,7 +65,6 @@ data:
         oaths to Vúlcan's destructive vision.
       Ashlord: >-
         An alternative style for a Flame-Warden, used where the warband is large enough to hold territory.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -77,7 +76,9 @@ data:
   relations:
     arldnpnthn: aligned
 packFolder: pantheonsaureldian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 - **Deity:** Vúlcan—_The Forge-Lord_

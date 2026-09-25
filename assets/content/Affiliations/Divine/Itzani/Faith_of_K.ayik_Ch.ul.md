@@ -111,8 +111,6 @@ data:
       Master of the Scars: >-
         Conducts the ritual burning by which initiates mark their forearms, and refuses those
         he judges to be seeking the scar rather than the service.
-  commonSkills:
-    - kayikchul
   seat: null
   domains: []
   population: null
@@ -123,7 +121,10 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - kayikchul
 ---
 
 **Domain:** Fire, Transformation, Purification, Sacrifice

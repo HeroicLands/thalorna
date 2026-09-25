@@ -89,8 +89,6 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose
         rulings the Council enforces.
-  commonSkills:
-    - byzarnlng
   seat: denizara2
   domains:
     - denizara2
@@ -106,7 +104,10 @@ data:
   relations:
     arldnpnthn: aligned
 packFolder: byzaria
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - byzarnlng
 ---
 
 Denizara—the Sea-Between—is the [[affiliation-byzarianlg|Byzarian League]]'s principal seaport on the [[place-vylarianse|Vylarian Sea]] coast. The city-state holds [[place-denizara2|Denizara]] itself.

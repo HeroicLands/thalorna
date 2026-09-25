@@ -52,7 +52,6 @@ data:
         Runs the festival calendar the nome's year turns on.
       Blesser of the Caravans: >-
         Sends out and receives the caravans on the eastern desert roads, the nome being their head.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -69,7 +68,9 @@ name:
     - Min, The Fertility-God
 shortcode: min
 packFolder: pantheonskemetian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 An upper-river cult of harvest-festivals and virility rites, seated at the caravan-head for the eastern desert roads—so the same god is asked for the increase of the fields and for the safe return of the caravans, and his festivals mark both.

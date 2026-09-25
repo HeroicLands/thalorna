@@ -51,7 +51,6 @@ data:
         because of it.
       Acolyte of the Threshold: >-
         An initiate attached to a single teacher rather than to the faith at large.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -68,7 +67,9 @@ name:
     - The Wild Beast
 shortcode: karnavos
 packFolder: pantheonsaureldian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 God of wildness, unpredictability, and primal energy. Karnavos represents the untamed force of nature and the chaotic change necessary for growth.

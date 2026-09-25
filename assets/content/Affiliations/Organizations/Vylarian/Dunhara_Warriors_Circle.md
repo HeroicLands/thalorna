@@ -43,7 +43,6 @@ data:
         Calls the meeting to order, frames the questions and announces the rulings. Chosen by
         lot from among those present and rotating each meeting, from marked stones the Storm
         Cults keep in trust between sittings.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -51,7 +50,9 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 _Dunhari: Tîgh'Bahârân—"Circle of the Mighty"_

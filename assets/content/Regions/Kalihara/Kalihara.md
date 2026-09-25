@@ -88,9 +88,6 @@ data:
       Envoy: >-
         Sent abroad on the Council's business, briefed in what to say and, more carefully,
         in what not to.
-  commonSkills:
-    - kalihrlng
-    - valtarlng
   seat: qasirah
   domains:
     - kaliharargn
@@ -103,7 +100,11 @@ data:
   relations:
     tharivaan: aligned
 packFolder: kalihara
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - kalihrlng
+      - valtarlng
 ---
 
 **Notable Polities:** Kalihara Confederation

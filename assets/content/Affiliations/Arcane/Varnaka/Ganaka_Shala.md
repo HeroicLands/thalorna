@@ -74,13 +74,6 @@ data:
         college's constants, and signs the assay.
       Tide-reader: >-
         Publishes the harbour tables the coastal polities' pilots work from, revised each season.
-  commonSkills:
-    - math
-    - vdykshrscrpt
-    - vedyarlng
-    - law
-    - dscr
-    - mrcn
   seat: chandrapur2
   domains: []
   population: null
@@ -95,7 +88,15 @@ data:
     thresholdkeepers: aligned
     chayavrata: unaligned
 packFolder: pantheonsvarnaka
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - sohl-sohl-skill-math
+      - vdykshrscrpt
+      - vedyarlng
+      - sohl-sohl-skill-law
+      - sohl-sohl-skill-dscr
+      - sohl-sohl-skill-mrcn
 ---
 
 ## Ganaka-shala—The Reckoners' College

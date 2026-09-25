@@ -78,9 +78,6 @@ data:
       Keeper of the Tally: >-
         Recorder of the offerings owed and made under each standing pact, without which the
         reckoning cannot be kept.
-  commonSkills:
-    - griot
-    - nyalbdrm
   seat: null
   domains: []
   population: null
@@ -91,7 +88,11 @@ data:
   parents: []
   relations: {}
 packFolder: nyaluba
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - griot
+      - nyalbdrm
 ---
 
 ## The Nyáluba Way

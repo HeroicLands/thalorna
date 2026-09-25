@@ -81,7 +81,6 @@ data:
       Surgeon: Keeper of the company's wounded, and commonly the only lettered member besides
         the purser.
       Standard-Bearer: Carrier of the company's banner, by which it is known and hired.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -94,7 +93,9 @@ name:
   aliases: []
 shortcode: blckpnwlvs
 packFolder: politiescompanies
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ![The Blackpine Wolves](https://cdn.heroiclands.org/images/blackpine_wolves.webp)

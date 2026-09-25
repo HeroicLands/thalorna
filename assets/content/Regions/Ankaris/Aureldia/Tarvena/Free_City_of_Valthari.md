@@ -92,8 +92,6 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose
         rulings the Council enforces.
-  commonSkills:
-    - tarvenlng
   seat: valthari
   domains:
     - valthari
@@ -111,7 +109,10 @@ data:
     kingdmtrvn: aligned
     vylarinmpr: unaligned
 packFolder: tarvenia
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - tarvenlng
 ---
 
 - **Overlord:** [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] (nominal—pays tribute for self-governance charter)

@@ -65,12 +65,6 @@ data:
         Holds the monastery's accumulated recording of dreams brought by the faithful, against which new ones are read.
       Chamber-Warden: >-
         The Nidrāpāla on watch over a sleeping petitioner, answerable for what happens while they sleep.
-  commonSkills:
-    - svapnasarisamaja
-    - folklr
-    - herb
-    - pysn
-    - sing
   seat: null
   domains:
     - svapnastambha
@@ -83,7 +77,14 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - svapnasarisamaja
+      - sohl-sohl-skill-folklr
+      - sohl-sohl-skill-herb
+      - sohl-sohl-skill-pysn
+      - sohl-sohl-skill-sing
 ---
 
 ## Svapnasāri-samāja—The Assembly of the Dream-Followers

@@ -44,11 +44,6 @@ data:
         A voyage in the first days of the monsoon, aboard a fishing boat the devotee helped to build.
       The Silent Year of Thunder: >-
         A year speaking only the chants of the temple, and only while the drum is sounding.
-  commonSkills:
-    - meghanatha
-    - srvl
-    - sing
-    - wood
   seat: null
   domains: []
   population: null
@@ -60,7 +55,13 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - meghanatha
+      - sohl-sohl-skill-srvl
+      - sohl-sohl-skill-sing
+      - sohl-sohl-skill-wood
 ---
 
 ## Meghanātha—Lord of Thunder

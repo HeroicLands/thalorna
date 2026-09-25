@@ -44,11 +44,6 @@ data:
         A year of study in a temple library, speaking to no one and consuming only what the library provides.
       The Contest of Open Questions: >-
         A public ordeal: the devotee answers any question put by any member of the community, from dawn to sunset.
-  commonSkills:
-    - jnanasura
-    - math
-    - folklr
-    - dscr
   seat: null
   domains: []
   population: null
@@ -60,7 +55,13 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - jnanasura
+      - sohl-sohl-skill-math
+      - sohl-sohl-skill-folklr
+      - sohl-sohl-skill-dscr
 ---
 
 ## Jñānasūra—The Radiant Sage

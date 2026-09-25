@@ -57,13 +57,6 @@ data:
       Preparer: >-
         Works the misdirection in advance of someone else's business and is gone before it
         happens; the rank of the trade most lines will admit to.
-  commonSkills:
-    - svapnasarisamaja
-    - dscr
-    - folklr
-    - herb
-    - pysn
-    - srvl
   seat: null
   domains: []
   population: null
@@ -78,7 +71,15 @@ data:
     passshrineushtakas: unaligned
     thresholdkeepers: nemesis
 packFolder: pantheonsvarnaka
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - svapnasarisamaja
+      - sohl-sohl-skill-dscr
+      - sohl-sohl-skill-folklr
+      - sohl-sohl-skill-herb
+      - sohl-sohl-skill-pysn
+      - sohl-sohl-skill-srvl
 ---
 
 ## The Chaya-vrata—The Shadow-Vow

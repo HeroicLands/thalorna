@@ -87,8 +87,6 @@ data:
       Keeper of the Feud: >-
         Recorder of blood owed and blood paid between kindreds, without whom a settlement
         cannot be reckoned.
-  commonSkills:
-    - dunharlng
   seat: dunashir
   domains:
     - dunhardsrtrgn
@@ -105,7 +103,10 @@ data:
     bhumipala: rival
     cnfdrtnhrdnstts: unaligned
 packFolder: dunharadesert
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - dunharlng
 ---
 
 The Dunhara Tribes are a collection of nomadic and semi-nomadic peoples who inhabit the vast deserts and scrublands of south-central [[place-ankrscntnnt|Ankaris Continent]]. They are not a unified polity—each tribe governs itself through its own chiefs and elder councils—but they share a common language, a common faith, and a common understanding of the desert's law: hospitality to guests, ferocity to enemies, and respect for the water that sustains all life.

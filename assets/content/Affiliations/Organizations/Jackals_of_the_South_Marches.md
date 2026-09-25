@@ -90,7 +90,6 @@ data:
       Surgeon: Keeper of the company's wounded, and commonly the only lettered member besides
         the purser.
       Standard-Bearer: Carrier of the company's banner, by which it is known and hired.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -99,7 +98,9 @@ data:
   parents: []
   relations: {}
 packFolder: companies
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## Overview

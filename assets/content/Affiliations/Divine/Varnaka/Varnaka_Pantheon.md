@@ -45,7 +45,6 @@ data:
         Under, or having completed, a named Ordeal for Favor of a particular god.
       Ácārya: >-
         The working priest of a sampradāya, whose ordination is to the school and whose service is to whichever gods its doctrine requires.
-  commonSkills: []
   seat: null
   domains:
     - pssshrines
@@ -57,7 +56,9 @@ data:
   parents: []
   relations: {}
 packFolder: pantheonsvarnaka
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 The **Varnaka** is a single unified faith with a plural pantheon. Ten deities and spirit-courts are honored across the tradition, and none of them is a religion of its own.

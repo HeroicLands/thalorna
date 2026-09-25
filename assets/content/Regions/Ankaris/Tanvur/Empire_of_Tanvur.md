@@ -102,8 +102,6 @@ data:
       Censor of Purity: >-
         Inspector of the ritual purity of provincial officials, and the most feared visitor
         in any prefecture.
-  commonSkills:
-    - tanvurlng
   seat: null
   domains:
     - tanvuregin
@@ -116,7 +114,10 @@ data:
     tngvkvnlei: aligned
     kingdmdnvr: unaligned
 packFolder: tanvur
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - tanvurlng
 ---
 
 The Empire of Tānvür is the oldest continuously-governed polity on Thalorna—a vast, caste-ordered, celestially-organized civilization that has occupied the eastern mainland of [[place-ankrscntnnt|Ankaris Continent]] for more than three millennia and that has seen every other major power on the continent rise, flourish, and decline from the cold vantage of an institution that measures its own history in dynasties rather than generations. Where [[affiliation-vylarinmpr|Vylaria]] rose and fell inside seven hundred years, Tānvür has had seven hundred years for one serious succession crisis. The Empire holds the land of [[place-tanvuregin|Tānvür Region]].

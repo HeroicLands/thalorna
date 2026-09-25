@@ -82,8 +82,6 @@ data:
       Harbour-reeve: Keeper of a haven, its tolls and its disputes.
       Truce-Warden: Holder of the peace declared for the moot, empowered to kill to keep it.
       Host-Caller: Bearer of the war-arrow that summons the jarldoms to a common muster.
-  commonSkills:
-    - nordmalng
   seat: stormveil
   domains:
     - stormveld
@@ -103,7 +101,10 @@ data:
     repblctrvn: unaligned
 terran_analog: "Northeastern Scotland—the fjord-cut Highland coast (Caithness, Sutherland, Orkney-and-Shetland-analog islands), heavily Norse-settled and culturally tied to its kindred kingdom across the cold sea. The northeastern tip of the eastern arm of the inverted-V Aelwythan island."
 packFolder: aelwyth
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - nordmalng
 ---
 
 ## Overview

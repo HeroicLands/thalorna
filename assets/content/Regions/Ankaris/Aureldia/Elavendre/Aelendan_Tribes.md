@@ -87,8 +87,6 @@ data:
       Keeper of the Feud: >-
         Recorder of blood owed and blood paid between kindreds, without whom a settlement
         cannot be reckoned.
-  commonSkills:
-    - aelendlng
   seat: eshalshldg
   domains:
     - alndntrblnds
@@ -106,7 +104,10 @@ data:
     alndnwrdns: aligned
     ordoarcanis: nemesis
 packFolder: elavendre
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - aelendlng
 ---
 
 There is no central government of the Tribal Lands. Each tribal community governs itself through a **Council of Elders**, and coordination between tribes is handled through seasonal councils and through runners who carry word between territories. The Crown of Élavendre recognizes this arrangement and treats the Áelendan as sovereign in their own land—the kingdom's courts will act against Élavendri who encroach, but they will not accept cases brought against the tribes themselves.

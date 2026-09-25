@@ -81,7 +81,6 @@ data:
         Father or Mother of the god—the highest office, held by one person.
       Godi/Gydja: >-
         The working priest or priestess of a hall, who keeps its rites and its people.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -98,7 +97,9 @@ name:
     - The Verdant Path
 shortcode: freyr
 packFolder: pantheonsasguardian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 Fréyr, the compassionate god of fertility, agriculture, peace, and healing, holds a special place in the hearts of farmers and rural folk. As the deity who ensures bountiful harvests and thriving livestock, Fréyr's blessings are vital to those who work the land.

@@ -76,7 +76,6 @@ data:
       Caravan Priest: >-
         A Hērbad who travels with the caravans and ministers to tribal communities beyond any
         temple's reach.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -95,7 +94,9 @@ name:
 shortcode: bahramis
 alias: Báhrámiš, The Thunder Rider
 packFolder: ashaian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 Báhrámiš is the god of storms, battle, and protection—the deity invoked by warriors as they armor themselves for combat, by merchants as their caravans prepare to cross treacherous terrain, by farmers as they watch dark clouds build on the horizon, knowing that the rain they carry means life or death for the year's harvest. He is depicted as a warrior of incomparable prowess, bearded and powerful, crowned with a circlet of thunderbolts, bearing a spear that splits the sky and a shield inscribed with symbols of lightning. Yet he is not the cruel, mindless god of violence that characterizes war deities in some faiths—Báhrámiš embodies the principle of protection through strength, of order maintained against chaos through the righteous exercise of martial power. He is the defender of the weak, the protector of caravans against raiders, the shield that guards travelers in the hostile deserts and steppes. His storms are not mere weather but divine action—rain that saves crops from drought, wind that drives away pestilence, lightning that strikes the wicked from the sky.

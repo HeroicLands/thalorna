@@ -97,8 +97,6 @@ data:
         its dues.
       Court Physician: Keeper of the Sultan's health, and by that a confidant of unusual reach.
       Court Astrologer: Reader of the heavens for the timing of campaigns, marriages and journeys.
-  commonSkills:
-    - dunharlng
   seat: shamsun
   domains:
     - amradadrgn
@@ -118,7 +116,10 @@ data:
     vindhyalay: unaligned
 terran_analog: "Turkey, Syria, Georgia, Armenia, and Azerbaijan—Anatolian-Caucasian sultanate fusing Turkic political-military traditions with Persianate court culture and Persian-language theology, a settled imperial counterpoint to the tribal Dunhari interior."
 packFolder: amradad
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - dunharlng
 ---
 
 ## Overview

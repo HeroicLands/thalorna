@@ -89,8 +89,6 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose
         rulings the Council enforces.
-  commonSkills:
-    - byzarnlng
   seat: yesilhan2
   domains:
     - yesilhan2
@@ -107,7 +105,10 @@ data:
     arldnpnthn: aligned
     ashanpnthn: aligned
 packFolder: byzaria
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - byzarnlng
 ---
 
 The city-state of Yeşilhan holds [[place-yesilhan2|Yeşilhan]] itself.

@@ -63,7 +63,6 @@ data:
       Censor Maximus Fisci: >-
         Senior of the twenty Censores Fiscales, reporting to the Council and to the Praetar
         directly, and answerable for the discipline arm's case-rate against the Publicarii.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -74,7 +73,9 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 _Vylarian: Curia Fiscalis—"the Fiscal Court"_

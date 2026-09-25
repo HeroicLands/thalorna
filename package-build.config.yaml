@@ -9,10 +9,10 @@ relationships:
     systems:
         - id: sohl
           type: system
-          manifest: https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/download/v0.8.6/system.json
+          manifest: https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/download/v0.8.7/system.json
           compatibility:
-              minimum: "0.8.2"
-              verified: "0.8.6"
+              minimum: "0.8.7"
+              verified: "0.8.7"
           # Its Item packs are this repository's item catalogue: a Thalorna
           # being nests items addressed by shortcode, and almost all of those
           # belong to sohl. `content-build deps fetch` caches them, keyed by

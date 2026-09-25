@@ -97,8 +97,6 @@ data:
       Ambassador: Envoy to a foreign power, instructed by the senate and reporting to it on
         return.
       Clerk of the Senate: Keeper of the senate's record, its decrees and its correspondence.
-  commonSkills:
-    - elvndrlng
   seat: thornbury
   domains:
     - tarvenne
@@ -116,7 +114,10 @@ data:
     kingdmdnvr: unaligned
     kngdmldrth: unaligned
 packFolder: aelwyth
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - elvndrlng
 ---
 
 ## Overview

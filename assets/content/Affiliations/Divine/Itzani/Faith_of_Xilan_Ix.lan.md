@@ -111,8 +111,6 @@ data:
       Reckoner of Distances: >-
         Holds the measured lengths and stages between cities, worked with the astronomers, on
         which every itinerary and toll is based.
-  commonSkills:
-    - xilanixlan
   seat: null
   domains: []
   population: null
@@ -123,7 +121,10 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - xilanixlan
 ---
 
 **Domain:** Travel, Trade, Journeys, Messengers, Commerce, Communication

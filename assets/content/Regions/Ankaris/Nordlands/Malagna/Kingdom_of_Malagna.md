@@ -98,8 +98,6 @@ data:
         levy.
       Harbour-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on
         its wharves.
-  commonSkills:
-    - nordmalng
   seat: skorrborg
   domains:
     - malagna
@@ -119,7 +117,10 @@ data:
     kngdmvthgrd: unaligned
     kngdmlvndr: unaligned
 packFolder: malagna
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - nordmalng
 ---
 
 ## Overview

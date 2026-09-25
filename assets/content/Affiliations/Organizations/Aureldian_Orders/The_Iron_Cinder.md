@@ -93,7 +93,6 @@ data:
       Treasurer: Keeper of the order's revenue, its endowments and its debts.
       Standard-Bearer: Carrier of the order's banner, a charge given to a professed brother
         of proven service.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -109,7 +108,9 @@ name:
     - The Cinderhand
     - The Black Fist
 shortcode: ironcinder
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 _Aurèldían: Cinis Ferreus—"Iron Cinder"_

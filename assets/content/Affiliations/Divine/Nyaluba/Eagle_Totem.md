@@ -59,8 +59,6 @@ data:
         Maker of the feathered masks the guide is met in, an office of craft and of danger.
       Initiator: >-
         Conductor of the ordeal, undertaken on the escarpment at height.
-  commonSkills:
-    - eaglengonzisprt
   seat: null
   domains: []
   population: null
@@ -79,7 +77,10 @@ name:
     - Ngonzi Totem
 shortcode: nyalbeagl
 packFolder: nyaluba
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - eaglengonzisprt
 ---
 
 The **Eagle Totem** is the guide of the [[affiliation-nylbtrblntn|Ngonzi]], the highlanders of the southeastern escarpment—vision, distance, and the carrying of word between one world and another. The Ngonzi are goldsmiths and herders, the only Nyáluba clan that regularly works stone, and the only one that claims direct ancestral connection to the lost civilization whose dry-stone walls and oval enclosures stand across their country.

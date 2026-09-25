@@ -110,7 +110,6 @@ data:
       Advocate of the Strike: >-
         Prosecutes a family's appeal that a lightning strike breached the protocols for
         proportional punishment—a recognized social practice, and usually unsuccessful.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -123,7 +122,9 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## Rëkgüng—The Minister of Storms

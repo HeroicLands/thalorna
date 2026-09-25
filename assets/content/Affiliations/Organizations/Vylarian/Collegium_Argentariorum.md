@@ -55,7 +55,6 @@ data:
       Censores: >-
         Twelve discipline officers reporting to the Council who conduct admission examinations,
         audit member houses' books and investigate complaints.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -65,7 +64,9 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 _Vylarian: Collegium Argentariorum—"the Bankers' College" or "the Moneylenders' Guild"_

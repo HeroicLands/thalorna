@@ -80,7 +80,6 @@ data:
         Father or Mother of the god—the highest office, held by one person.
       Godi/Gydja: >-
         The working priest or priestess of a hall, who keeps its rites and its people.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -97,7 +96,9 @@ name:
     - The Flameborn Path
 shortcode: surtr
 packFolder: pantheonsasguardian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 Súrtr, the fire giant and god of savage battle, embodies the raw, destructive force of fire and the unrelenting fury of war. He is a fearsome figure, towering over his enemies, his body wreathed in flames that consume all they touch. Súrtr's presence is a harbinger of destruction, symbolizing the inevitable end of worlds, as foretold in the prophecies of Ragnarok.

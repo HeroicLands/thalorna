@@ -93,8 +93,6 @@ data:
         on the Sultan's courtesy.
       Keeper of the Feud: Recorder of blood owed and blood paid between houses and against
         the Ātárzád.
-  commonSkills:
-    - khazrilng
   seat: oasishirvn
   domains:
     - khzryndsrtrgn
@@ -112,7 +110,10 @@ data:
     sultntmrdd: aligned
 terran_analog: "Canaanites of the post-Conquest period—indigenous urban-pastoral oasis civilization, polytheistic Āsháian observance with particular devotion to the oasis-mother and order-keeper, ancient hereditary princely houses (some still-ruling on margins, some in continuous exile), large subject diaspora within the conquered cities, eternal blood-feud with the newcomer fire-cult that took the choicest land"
 packFolder: khazryndesert
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - khazrilng
 ---
 
 The **Khazryn Confederation** is what survives of the indigenous civilization of the [[place-khzryndsrtrgn|Khazryn Desert]]—the people for whom the desert itself is named, the oasis-builders whose hereditary princes ruled the great walled cities for the better part of three thousand years, and the dispossessed nation that has been locked since the **Catastrophe** (four generations ago) in unresolved blood-feud with the [[affiliation-tribestrzd|Tribes of Ātárzád]] who took its choicest lands. The Confederation holds what it still holds of the [[place-swoasisbelt|Southwestern Oasis-Belt]]—the peripheral oases—and claims the whole.

@@ -62,7 +62,6 @@ data:
       Mender: >-
         Holds the healing forms, which the House shares—carefully, and in reduced versions—with the
         temples of Íšét.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -82,7 +81,9 @@ name:
     - The House of River
 shortcode: ankhkemet
 packFolder: khemenuhekau
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## Per-Ankh'kemet (House of the Black Land)

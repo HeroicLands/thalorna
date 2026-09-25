@@ -106,7 +106,6 @@ data:
       Advocate: >-
         Prosecutes appeals before the Supreme Administrative Court, citing precedent against a
         ruling. Most fail; the avenue exists.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -118,7 +117,9 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## Mëivōr—The Minister of Dreams

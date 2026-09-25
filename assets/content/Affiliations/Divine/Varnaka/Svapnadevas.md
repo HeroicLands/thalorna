@@ -44,9 +44,6 @@ data:
         Seven consecutive nights of dream-vigil, sleeping lightly in a temple chamber and reporting each morning on the night's dreams. Few complete it without the intervention of a senior seer.
       The Mirror Year: >-
         A year serving in a temple's divination chamber, reading the silver mirror for every petitioner who comes, refusing no reading and accepting no fee.
-  commonSkills:
-    - folklr
-    - sing
   seat: null
   domains: []
   population: null
@@ -57,7 +54,11 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - sohl-sohl-skill-folklr
+      - sohl-sohl-skill-sing
 ---
 
 ## Svapnadēvas—The Dreaming Host

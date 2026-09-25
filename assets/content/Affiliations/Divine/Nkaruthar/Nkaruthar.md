@@ -106,8 +106,6 @@ data:
       Keeper of the Three Flames: >-
         The Overlord's own religious title, borne by the temporal ruler rather than any priesthood,
         and the office in which the unity of the three aspects is embodied.
-  commonSkills:
-    - nkaruthar
   seat: null
   domains: []
   population: null
@@ -120,7 +118,10 @@ data:
   relations:
     njiayaroho: aligned
 packFolder: pantheonsnkaruthar
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - nkaruthar
 ---
 
 ## Nkaru'thar: The Eternal Flame

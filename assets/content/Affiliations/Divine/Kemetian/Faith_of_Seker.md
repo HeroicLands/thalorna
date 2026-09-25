@@ -69,7 +69,6 @@ data:
         the seal is broken, and revenant-wardens, ṭerebu that keep their wits and their post in the
         dark forever. It is the costliest defense and the most dreaded—and the robbers' surest
         master-key is a corrupt priest who knows which glyph is live and which is bluff.
-  commonSkills: []
   seat: khensuret
   domains: []
   population: null
@@ -88,7 +87,9 @@ name:
 shortcode: seker
 alias: Sēker, Lord of Silent Passage
 packFolder: pantheonskemetian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 Sēker is the god who guides souls through the underworld, the keeper of tombs, and the guardian of the boundary between the living world and the realm of the dead. He is neither cruel nor kind, but rather impartial and inevitable. As the sun sets each day, disappearing into the western horizon, so too does every mortal eventually pass westward into Sēker's realm. There is no escaping him, no bargaining with him, no cheating his dominion. Yet Sēker is not a god of terror but of order. He ensures that the passage of the dead is orderly, that souls are properly guided, and that the tombs of the righteous remain inviolate.

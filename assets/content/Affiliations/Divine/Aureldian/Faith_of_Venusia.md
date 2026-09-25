@@ -59,7 +59,6 @@ data:
       Temple Companion: >-
         A practitioner of courtesanship consecrated to the goddess and understood as a sacred
         priestess in her own right—a formally recognized office of this faith.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -77,7 +76,9 @@ name:
     - Vénusia
 shortcode: venusia
 packFolder: pantheonsaureldian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 Goddess of wealth, abundance, and seduction. Vénusia blesses people with prosperity and physical love.

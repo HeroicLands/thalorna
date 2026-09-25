@@ -14,7 +14,6 @@ data:
       A polity of Malagna, under the crown of Lögnheim.
     ranks: []
     offices: {}
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -28,7 +27,9 @@ name:
   aliases: []
 shortcode: hrafnvar
 packFolder: malagna
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 A polity of Malagna, under the crown of Lögnheim.

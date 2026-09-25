@@ -89,8 +89,6 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose
         rulings the Council enforces.
-  commonSkills:
-    - byzarnlng
   seat: altinkale2
   domains:
     - altinkale2
@@ -106,7 +104,10 @@ data:
   relations:
     arldnpnthn: aligned
 packFolder: byzaria
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - byzarnlng
 ---
 
 Altinkale—the Golden Fortress—is the wealthiest and most politically influential of the five city-states that make up the [[affiliation-byzarianlg|Byzarian League]]. It serves as the League's de facto capital, hosting the council sessions where the merchant-princes of all five cities debate trade policy, tariffs, and collective defense. The city-state holds [[place-altinkale2|Altinkale]] itself.

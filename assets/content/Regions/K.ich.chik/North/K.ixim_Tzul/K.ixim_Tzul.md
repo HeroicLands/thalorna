@@ -94,7 +94,6 @@ data:
       Ballcourt Keeper: >-
         Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice
         at once.
-  commonSkills: []
   seat: kiximtzul2
   domains:
     - kiximtzulrgn
@@ -106,7 +105,9 @@ data:
   relations: {}
 terran_analog: Alberta, Saskatchewan, and Manitoba in Canada
 packFolder: kiximtzul
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## Overview

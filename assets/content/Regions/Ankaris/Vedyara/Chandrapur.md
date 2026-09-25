@@ -94,8 +94,6 @@ data:
       Nau-senāpati: >-
         Commander of the fleet, who answers for the river mouth and the coast and lets the
         galleys out by the sailing season.
-  commonSkills:
-    - vedyarlng
   seat: chandrapur2
   domains:
     - chandrapurland
@@ -118,7 +116,10 @@ data:
     dhnrktjnpd: aligned
     rajaprjnpd: aligned
 packFolder: vedyara
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - vedyarlng
 ---
 
 Chandrapur, the "Moon City," is Vedyara's foremost center of gemcraft and jewelry. Its fame rests on its jewelers, whose work commands prices across all the known realms. Royal courts from Provènzia to Tānvür commission pieces from Chandrapur's master craftspeople, and its merchant families have gathered wealth over generations.

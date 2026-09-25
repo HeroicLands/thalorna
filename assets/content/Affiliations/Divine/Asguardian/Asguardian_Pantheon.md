@@ -84,7 +84,6 @@ data:
       Hersir: Warlord of a faith, carrying its authority by force or by presence.
       Godi / Gydja: The working priest or priestess of a hall.
       Thraell: The god's thrall, in the first circle and years from the priesthood.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -103,7 +102,9 @@ data:
     tyr: aligned
     ymir: aligned
 packFolder: pantheonsasguardian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 The Asguardian pantheon is the dominant religious tradition of the northern and coastal peoples of [[place-ankrscntnnt|Ankaris Continent]], worshipped in various forms across [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[place-vrystwald|Vrystwald]], [[place-aelwyth|Aelwyth]], and other northern territories. The pantheon comprises ten deities, each governing fundamental aspects of existence.

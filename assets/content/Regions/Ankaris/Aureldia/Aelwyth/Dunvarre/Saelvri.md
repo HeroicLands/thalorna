@@ -14,7 +14,6 @@ data:
       A people of Aelwyth against whom the Kingdom of Dúnavarre prosecuted a crusade of extermination.
     ranks: []
     offices: {}
-  commonSkills: []
   seat: aelwyth
   domains: []
   population: null
@@ -28,7 +27,9 @@ name:
   aliases: []
 shortcode: saelvri
 packFolder: aelwyth
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 A people of Aelwyth against whom the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] prosecuted a crusade of extermination.

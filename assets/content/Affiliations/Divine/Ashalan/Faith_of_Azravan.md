@@ -76,7 +76,6 @@ data:
       Caravan Priest: >-
         A Hērbad who travels with the caravans and ministers to tribal communities beyond any
         temple's reach.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -94,7 +93,9 @@ name:
 shortcode: azravan
 alias: Ázráván, Lord of the Final Horizon
 packFolder: ashaian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 Ázráván is the god of death, passage, judgment, and the escort of souls across the Chinvat Bridge. He is neither cruel nor merciful—he is impartial, inevitable, and absolute. In the Āsháian faith, death is not punishment or failure, nor is it to be feared by the virtuous. Rather, death is the supreme transition, the moment when a soul's accumulated deeds in life are weighed against the cosmic principle of Āsha and it crosses into eternity. Ázráván does not judge; the soul judges itself through the width or narrowness of the bridge on which it must travel. The righteous find the bridge wide beneath their feet, steady and certain. The wicked find it narrowing to a razor's edge, and they fall into darkness.

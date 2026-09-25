@@ -94,7 +94,6 @@ data:
       Ballcourt Keeper: >-
         Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice
         at once.
-  commonSkills: []
   seat: xikulchakl2
   domains:
     - xikulchaklrgn
@@ -106,7 +105,9 @@ data:
   relations: {}
 terran_analog: Ontario, Quebec in Canada—Eastern Great Lakes and boreal forest
 packFolder: xikulchakal
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## Overview

@@ -60,7 +60,6 @@ data:
       Keeper of the Sealed Forms: >-
         Holds the House's plague and drought formulae, which are kept under the same restriction as
         Per-Sefút's treatises though they are not themselves Chaos.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -79,7 +78,9 @@ name:
     - The House of Desert
 shortcode: deshrut
 packFolder: khemenuhekau
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## Per-Deshr'ut (House of the Red Land)

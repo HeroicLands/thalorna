@@ -55,7 +55,6 @@ data:
         Initiates learning the rites of the waning and the care of those who are ending.
       Hospices of the Waning Moon: >-
         The houses the faith keeps for the dying, and its most visible work.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -73,7 +72,9 @@ name:
     - Mórváná
 shortcode: morvana
 packFolder: pantheonsaureldian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 Goddess of decay, endings, and transformation. Mórváná oversees the natural cycle of death and renewal, reminding mortals of life's impermanence.

@@ -66,7 +66,6 @@ data:
         The administrative college of the Praetores Templi, standing below the Pontifex.
       Ordo Equestris Iuris: >-
         The faith's knightly order.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -83,7 +82,9 @@ name:
     - The Keeper of the Gates
 shortcode: janus
 packFolder: pantheonsaureldian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 God of justice, cosmic law, and honorable struggle. Jánus watches over all contracts, pacts, and conflicts, ensuring that both divine and mortal order and justice are maintained. His is the faith of chivalry, of duty before desire, of the strong defending the weak not because it is easy but because it is right. Where other gods may inspire devotion through love or fear, Jánus demands it through principle.

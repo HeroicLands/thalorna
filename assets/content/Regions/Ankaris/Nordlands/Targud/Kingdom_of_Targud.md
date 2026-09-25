@@ -98,8 +98,6 @@ data:
         levy.
       Harbour-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on
         its wharves.
-  commonSkills:
-    - nordmalng
   seat: valgard
   domains:
     - targud
@@ -118,7 +116,10 @@ data:
     kingdmnrgd: unaligned
     kngdmvthgrd: unaligned
 packFolder: targud
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - nordmalng
 ---
 
 ## Overview

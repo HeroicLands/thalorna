@@ -58,7 +58,6 @@ data:
         Initiates who travel with a Custos before they are given a shrine of their own.
       Way-Shrines: >-
         The shrines along the roads at which the Custodes are stationed and travelers are blessed.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -76,7 +75,9 @@ name:
     - Múrkír
 shortcode: murkir
 packFolder: pantheonsaureldian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 God of journeys, exploration, and wanderlust. Múrkír protects travelers and inspires mortals to seek the unknown.

@@ -80,7 +80,6 @@ data:
       Surgeon: Keeper of the company's wounded, and commonly the only lettered member besides
         the purser.
       Standard-Bearer: Carrier of the company's banner, by which it is known and hired.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -93,7 +92,9 @@ name:
   full: The Tamzîr
   aliases: []
 shortcode: thetamzir
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 The **Tamzîr** is a weathered trading vessel that works the [[affiliation-vylarinmpr|Vylarian]] Sea, named after the Battle of Tamzîr Shoals—the decisive naval engagement of the Haradian War of Independence. Her crew is a band of misfits, war veterans, and fugitives held together by necessity, loyalty, and a shared talent for finding trouble.

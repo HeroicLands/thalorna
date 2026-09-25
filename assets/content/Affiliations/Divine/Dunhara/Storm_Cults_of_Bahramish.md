@@ -100,8 +100,6 @@ data:
       Keeper of the Marked Stones: >-
         Holds, between gatherings, the marked stones by which the Warrior's Circle chooses its
         Voice of the Quarter—a small function of real constitutional weight.
-  commonSkills:
-    - bahramis
   seat: null
   domains: []
   population: null
@@ -114,7 +112,10 @@ data:
     ashanpnthn: aligned
     wrrscrcldnhrtrbs: aligned
     dunhartrbs: aligned
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - bahramis
 ---
 
 _Dunhari: Bahârâmî-Pîravân—"the Followers of Báhrámiš"_

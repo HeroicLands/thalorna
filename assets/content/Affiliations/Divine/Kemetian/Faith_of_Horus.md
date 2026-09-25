@@ -52,7 +52,6 @@ data:
         Holds one of the stations positioned along a major travel route, rather than a place in a great temple.
       Route-Counsellor: >-
         The Hem'Netjer advising a military commander planning a campaign or a merchant guild planning a caravan.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -70,7 +69,9 @@ name:
     - Hórús, The Guiding Falcon
 shortcode: horus
 packFolder: pantheonskemetian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 Hórús is the god of travelers, explorers, and all who venture into the unknown seeking discovery. The deity manifests as a great falcon, wings spread wide, soaring above the lands of Thalorna with sight keen enough to perceive distant horizons and obstacles hidden from ground-level awareness. Hórús watches over merchants who guide caravans across vast distances, warriors who march into foreign territories, pilgrims who journey to distant temples, and adventurers drawn by curiosity or necessity into uncharted lands. The god is not a protector who shields travelers from all hardship but rather a guide who ensures safe passage when possible and the wisdom to navigate disaster when it comes.

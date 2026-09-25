@@ -115,7 +115,6 @@ data:
       Steward of the Temple Estates: >-
         Administers the lands, granaries, workshops, tribute and fees on which the whole
         priestly caste subsists.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -124,7 +123,9 @@ data:
   parents: []
   relations: {}
 packFolder: pantheonitzani
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## The Itzáni Faith

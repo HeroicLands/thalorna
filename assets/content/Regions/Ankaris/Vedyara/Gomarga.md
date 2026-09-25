@@ -97,8 +97,6 @@ data:
       Dūta: >-
         Envoy to a river court or a janapada sabhā, and in practice the kingdom's cattle-broker
         as well.
-  commonSkills:
-    - vedyarlng
   seat: null
   domains:
     - vandhyabhumi
@@ -116,7 +114,10 @@ data:
     bhrvdvbhog: unaligned
 terran_analog: "Transhumant pastoral kingship of the semi-arid Indian interior—a crown whose revenue is watering dues and droveway tolls rather than land tax, and whose court is itinerant for most of the year"
 packFolder: vedyara
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - vedyarlng
 ---
 
 **Gomārga** is the kingdom of [[place-vandhyabhumi|Vandhyabhūmi]], the arid central plateau of [[place-vedyarargn|Vedyara]]. Its name is the thing it holds: _go_ (cattle) _mārga_ (road), the droveways that cross the plateau between wells, and the crown's claim runs along them and stops at their edges.

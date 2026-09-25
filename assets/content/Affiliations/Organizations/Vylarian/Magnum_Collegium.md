@@ -60,7 +60,6 @@ data:
         One of the Magistri Provinciarum ("provincial deputies")—twelve in all, one per
         Vylarian province, one per Aurèldían kingdom and two for Hellád—who administer the
         Collegium's operations in their regions.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -72,7 +71,9 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 _Vylarian: Magnum Collegium Collegiorum—"The Great Guild of the Guilds"_

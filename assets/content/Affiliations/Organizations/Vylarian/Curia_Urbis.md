@@ -57,7 +57,6 @@ data:
       Curator of the Rolls: >-
         Curator Tabularum—the census, the citizen-rolls, the city's records and its
         correspondence with the throne; by custom the council's coordinating seat.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -67,7 +66,9 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## The Courts of Magnápolis

@@ -80,8 +80,6 @@ data:
       Marriage-Broker: Negotiator of the alliances by which a house rises or is absorbed.
       Champion: The house's arm in matters settled by arms, whether duel, feud or war.
       Agent at Court: The house's standing representative where the intrigue is conducted.
-  commonSkills:
-    - tanvurlng
   seat: null
   domains: []
   population: null
@@ -98,7 +96,10 @@ name:
   aliases: []
 shortcode: yurthatzhk
 packFolder: threats
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - tanvurlng
 ---
 
 **The House of the Clouded Mountain**

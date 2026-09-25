@@ -48,7 +48,6 @@ data:
           Head of a college, convened with the other colleges' heads in common assembly to set
           institutional policy, resolve disputes and maintain the Epistemium's standards.
     offices: {}
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -58,7 +57,9 @@ data:
   parents: []
   relations: {}
 packFolder: academyofknowledge
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## Panepistemium—The Academy of Knowledge

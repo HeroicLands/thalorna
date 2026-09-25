@@ -91,8 +91,6 @@ data:
       Ambassador: >-
         Envoy to a foreign court, invariably a mage, and invariably assumed to be more than
         an envoy.
-  commonSkills:
-    - elvndrlng
   seat: ravenmoor
   domains:
     - dunavarre
@@ -114,7 +112,10 @@ data:
     vylarinmpr: unaligned
     saelvri: nemesis
 packFolder: aelwyth
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - elvndrlng
 ---
 
 ## Overview

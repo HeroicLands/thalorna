@@ -61,7 +61,6 @@ data:
       Purifier: >-
         Conducts the cleansing of those spiritually stained—warriors who have killed, and any
         practitioner who has been seconded to Per-Sefút.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -80,7 +79,9 @@ name:
     - The House of Sun
 shortcode: atenre
 packFolder: khemenuhekau
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## Per-Aten'ré (House of the Disk)

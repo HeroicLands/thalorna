@@ -89,8 +89,6 @@ data:
       Proconsul: Governor of a senatorial province, appointed by lot from among the consulars.
       Pontifex Maximus: Chief priest of the state cult, an office the emperor holds in his
         own person.
-  commonSkills:
-    - vylarilng
   seat: magnapolis
   domains:
     - vylariargn
@@ -116,7 +114,10 @@ data:
     hlykngdmnrtm: rival
 terran_analog: "Italy, Croatia, Bosnia, Serbia, Hungary, and Austria—the Roman empire reaching from its Italian heartland up through the Adriatic east into the Carpathian basin, with provincial reach further east into the Vylarian Sea littoral. The Alps form the empire's western mountain frontier (Cervaron Spine in-world); claimed by the Vylarian chancery, contested by the Áelendan tribes who hold the range as sacred and effectively control its passes."
 packFolder: vylaria
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - vylarilng
 ---
 
 ## Overview

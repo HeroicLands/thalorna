@@ -94,7 +94,6 @@ data:
       Ballcourt Keeper: >-
         Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice
         at once.
-  commonSkills: []
   seat: balamkiahk2
   domains:
     - balamkiahkrgn
@@ -106,7 +105,9 @@ data:
   relations: {}
 terran_analog: Western U.S. to Rockies and up to British Columbia and southern Alaska
 packFolder: baalamkiahk
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## Overview

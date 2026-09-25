@@ -85,7 +85,6 @@ data:
         Father or Mother of the god—the highest office, held by one person.
       Godi/Gydja: >-
         The working priest or priestess of a hall, who keeps its rites and its people.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -102,7 +101,9 @@ name:
     - The Eternal Night
 shortcode: hel
 packFolder: pantheonsasguardian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 Hél, the goddess of the underworld, harbors a profound disdain for life itself. She considers existence a blight upon the cosmos and works tirelessly to bring all creation to chaos and ruin. Her dominion over the underworld is absolute—a place of endless torment and despair, reflecting her contempt for living beings.

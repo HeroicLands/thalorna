@@ -43,9 +43,6 @@ data:
         A year receiving at a temple garden whatever is brought for composting—kitchen waste, household refuse, the petals of weddings and funerals—and returning each to the ground with the proper rite.
       The Walk of the Empty House: >-
         Three days of silent witness inside a house emptied by death or dissolution, before the property passes to its new keeping.
-  commonSkills:
-    - vyahrati
-    - agri
   seat: null
   domains: []
   population: null
@@ -57,7 +54,11 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - vyahrati
+      - sohl-sohl-skill-agri
 ---
 
 ## Vyāhrati—The Keeper of Decay

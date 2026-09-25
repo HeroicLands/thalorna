@@ -97,8 +97,6 @@ data:
         levy.
       Harbour-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on
         its wharves.
-  commonSkills:
-    - nordmalng
   seat: thrymstead
   domains:
     - nordheim
@@ -119,7 +117,10 @@ data:
     grukarholm: nemesis
     vrystwldtrbs: rival
 packFolder: nordheim
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - nordmalng
 ---
 
 **Sister Kingdoms:** [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]

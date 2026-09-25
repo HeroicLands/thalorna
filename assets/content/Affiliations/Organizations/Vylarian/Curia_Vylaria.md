@@ -37,7 +37,6 @@ data:
           name carries weight in the chamber before he rises and whose custom the chamber's
           ancient forms are.
     offices: {}
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -45,7 +44,9 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## The Curia Vylaria

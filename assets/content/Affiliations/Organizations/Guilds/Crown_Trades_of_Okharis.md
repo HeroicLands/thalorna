@@ -49,7 +49,6 @@ data:
       Steward of the Trades: >-
         A royal appointment from the chartered moneylender ranks, chairing the Council of the
         Three-Flame Charters at the Crown's pleasure for a typical term of five to ten years.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -60,7 +59,9 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 - **Type:** Royal-chartered trade guilds; small federation of urban commercial institutions

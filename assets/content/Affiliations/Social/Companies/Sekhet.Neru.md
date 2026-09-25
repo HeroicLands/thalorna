@@ -77,11 +77,6 @@ data:
         the company.
       Scout of the Marshes: Reader of the herds and the channels, sent ahead of the hunt and
         often alone.
-  commonSkills:
-    - khetamun
-    - srvl
-    - melee
-    - kheperlng
   seat: null
   domains:
     - takheperurgn
@@ -101,7 +96,13 @@ name:
     - The Sacred Hunt of the Khetai
     - The Mighty Ones of the Field
 shortcode: sekhetneru
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - khetamun
+      - sohl-sohl-skill-srvl
+      - sohl-sohl-skill-melee
+      - kheperlng
 ---
 
 ## Sekhet'Neru—The Sacred Hunt of the Khetai

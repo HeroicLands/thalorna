@@ -88,8 +88,6 @@ data:
       Warden of the Drifting: >-
         Watches those whose philosophy is moving from acceptance toward acceleration, and is
         the reason the order can still be trusted with the argument at all.
-  commonSkills:
-    - tzuqilixbal
   seat: null
   domains: []
   population: null
@@ -110,7 +108,10 @@ name:
     - Owl Keepers
 shortcode: pikob
 packFolder: pantheonitzani
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - tzuqilixbal
 ---
 
 The **Pik'ob**—the owl keepers—represent the contemplative branch of [[affiliation-tzuqilixbal|Tz'uqil Ix'bal]]'s service. Where the Ix'bal'ob serve the jaguar who kills swiftly, the Pik'ob serve Pik'ik, the owl on the death god's brow, who watches as the jungle slowly reclaims what death has taken. They maintain the **Ch'ulba K'anal** ("Sacred Groves"), sanctuaries where the natural cycle of decay is allowed to proceed with minimal interference. In regions where the owl-aspect holds particular reverence, sky burial is practiced—bodies exposed on platforms where birds and insects reduce them to bare bone, accelerating the return to the earth.

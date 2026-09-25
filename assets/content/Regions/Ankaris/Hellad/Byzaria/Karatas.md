@@ -89,8 +89,6 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose
         rulings the Council enforces.
-  commonSkills:
-    - byzarnlng
   seat: karatas2
   domains:
     - karatas2
@@ -106,7 +104,10 @@ data:
   relations:
     arldnpnthn: aligned
 packFolder: byzaria
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - byzarnlng
 ---
 
 Karataş—Blackstone—is the [[affiliation-byzarianlg|Byzarian League]]'s mining and manufacturing heart. The city-state holds [[place-karatas2|Karataş]] itself.
