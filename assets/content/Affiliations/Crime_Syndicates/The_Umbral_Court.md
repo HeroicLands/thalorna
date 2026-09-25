@@ -103,9 +103,9 @@ data:
   lore: []
   parents: []
   relations:
-    kingdmdnvr: hostile
-    ordoarcanis: hostile
-    justbladeordr: mixed
+    kingdmdnvr: nemesis
+    ordoarcanis: nemesis
+    justbladeordr: rival
     velvethand: aligned
 packFolder: crimesyndicates
 sohl: {}
