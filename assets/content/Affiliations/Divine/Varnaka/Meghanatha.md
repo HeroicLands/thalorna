@@ -1,5 +1,5 @@
 ---
-description: "Storms."
+description: "Religion of the god of storms and of the rain the monsoon brings."
 tags:
   - varnaka
   - deity

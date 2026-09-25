@@ -107,11 +107,7 @@ data:
       Advocate: >-
         Prosecutes appeals before the Supreme Administrative Court, citing precedent against a
         ruling. Most fail; the avenue exists.
-  commonSkills:
-    - zhurhot
-    - tngthkscrpt
-    - draw
-    - law
+  commonSkills: []
   seat: null
   domains: []
   population: null

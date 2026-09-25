@@ -57,10 +57,7 @@ data:
         when crocodiles threaten the villages along the Taméresh, and the guild's own doctrine holds
         that wantonness in the killing offends the gods as well as the imperial order—so the cull is
         a religious act before it is a commercial one.
-  commonSkills:
-    - sobek
-    - srvl
-    - melee
+  commonSkills: []
   seat: null
   domains: []
   population: null

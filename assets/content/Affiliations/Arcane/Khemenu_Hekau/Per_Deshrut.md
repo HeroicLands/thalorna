@@ -60,10 +60,7 @@ data:
       Keeper of the Sealed Forms: >-
         Holds the House's plague and drought formulae, which are kept under the same restriction as
         Per-Sefút's treatises though they are not themselves Chaos.
-  commonSkills:
-    - deshret
-    - khprsshscrpt
-    - srvl
+  commonSkills: []
   seat: null
   domains: []
   population: null

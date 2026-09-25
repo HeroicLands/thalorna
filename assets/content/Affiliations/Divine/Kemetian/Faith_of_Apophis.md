@@ -60,10 +60,7 @@ data:
         entire, and is held to mean famine and worse across the empire. That any such cult exists at
         all is a secret the temple keeps close, and the reason the kill-on-sight order on the cursed
         road has never once been relaxed.
-  commonSkills:
-    - apophis
-    - folklr
-    - srvl
+  commonSkills: []
   seat: null
   domains: []
   population: null

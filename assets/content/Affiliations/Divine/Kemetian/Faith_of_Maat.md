@@ -62,11 +62,7 @@ data:
       Legal Arbiter: >-
         Legal arbitration is one of the recognized Hem'Netjer specializations, and this cult
         supplies it. Women plead in the Kenbet as well as men.
-  commonSkills:
-    - maat
-    - law
-    - khprsshscrpt
-    - dscr
+  commonSkills: []
   seat: null
   domains: []
   population: null

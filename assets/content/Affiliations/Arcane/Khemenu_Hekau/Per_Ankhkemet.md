@@ -62,10 +62,7 @@ data:
       Mender: >-
         Holds the healing forms, which the House shares—carefully, and in reduced versions—with the
         temples of Íšét.
-  commonSkills:
-    - kemet
-    - khprsshscrpt
-    - herb
+  commonSkills: []
   seat: null
   domains: []
   population: null

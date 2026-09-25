@@ -61,10 +61,7 @@ data:
       Purifier: >-
         Conducts the cleansing of those spiritually stained—warriors who have killed, and any
         practitioner who has been seconded to Per-Sefút.
-  commonSkills:
-    - aten
-    - khprsshscrpt
-    - math
+  commonSkills: []
   seat: null
   domains: []
   population: null

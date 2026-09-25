@@ -63,11 +63,7 @@ data:
         the city.
       Keeper of the Festival Calendar: >-
         The Hem'Netjer who sets and keeps the cycle of feasts on which the cult's standing rests.
-  commonSkills:
-    - hapi
-    - agri
-    - mrcn
-    - sing
+  commonSkills: []
   seat: null
   domains: []
   population: null

@@ -13,9 +13,8 @@ name:
     - Cult of the Forsaken
 shortcode: nuszokreit
 type: affiliation
-subType: faithtradition
+subType: criminal
 data:
-  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: null

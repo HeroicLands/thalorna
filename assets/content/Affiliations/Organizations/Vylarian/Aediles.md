@@ -65,10 +65,7 @@ data:
       Clerk of the Roll: >-
         Holds the licenses and the record of every ruling made in the ward—including, for anyone
         who can read a register, the pattern of which premises are inspected and which are not.
-  commonSkills:
-    - law
-    - dscr
-    - mrcn
+  commonSkills: []
   seat: magnapolis
   domains: []
   population: null

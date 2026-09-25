@@ -64,11 +64,7 @@ data:
         Kheperi women own property, initiate divorce, plead in the Kenbet, practice medicine and
         magic, conduct business independently, and serve as priestesses including in high offices;
         several of the ablest rulers in Kheperi history governed as Per-Aá in their own right.
-  commonSkills:
-    - iset
-    - pysn
-    - herb
-    - agri
+  commonSkills: []
   seat: null
   domains: []
   population: null

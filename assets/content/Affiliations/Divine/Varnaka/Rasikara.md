@@ -1,5 +1,5 @@
 ---
-description: "Fire."
+description: "Religion of the god of fire and of the change fire compels."
 tags:
   - varnaka
   - deity

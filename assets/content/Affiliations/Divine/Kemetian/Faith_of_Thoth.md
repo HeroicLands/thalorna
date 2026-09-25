@@ -72,11 +72,7 @@ data:
       Warden of the Library-Temple: >-
         Holds the deepest archive in the empire and controls admission to it. Helionite scholars are among
         the very few foreigners ever admitted.
-  commonSkills:
-    - thoth
-    - khprsshscrpt
-    - math
-    - pysn
+  commonSkills: []
   seat: khemenu
   domains: []
   population: null
