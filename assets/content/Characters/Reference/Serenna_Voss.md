@@ -12,6 +12,7 @@ description: "The crown's chief advisor on trade and mercantile matters has beco
 shortcode: serennavoss
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

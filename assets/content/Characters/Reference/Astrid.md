@@ -12,6 +12,7 @@ description: "The Helionite noblewoman whose household Ràkhîmêa serves as a h
 shortcode: astrid
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

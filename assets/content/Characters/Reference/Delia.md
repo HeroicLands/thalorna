@@ -12,6 +12,7 @@ description: "Leader of the Ghost Brigade, a band of former soldiers, women most
 shortcode: delia
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

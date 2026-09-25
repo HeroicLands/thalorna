@@ -12,6 +12,7 @@ description: "The Blazewarden Malekir of the Sons has personally sworn to burn t
 shortcode: malekir
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

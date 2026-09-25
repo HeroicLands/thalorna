@@ -12,6 +12,7 @@ description: "A wealthy merchant whose logging and mining operations in the bord
 shortcode: cassiusthorne
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

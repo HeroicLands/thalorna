@@ -26,7 +26,7 @@ data:
   affiliations:
     - dhnrktjnpd
   gender: male
-  species: null
+  species: humanflk
   born: 684/4/15
   height: 1.91
   weight: 90.3

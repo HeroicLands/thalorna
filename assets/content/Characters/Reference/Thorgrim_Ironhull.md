@@ -12,6 +12,7 @@ description: "A grizzled merchant captain whose aging vessel has become famous a
 shortcode: thorgrimironhull
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

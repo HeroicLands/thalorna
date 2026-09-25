@@ -12,6 +12,7 @@ description: "Alderman Grevik of the Guildhall - A strict moralist who views jes
 shortcode: grevikoftheguildhall
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

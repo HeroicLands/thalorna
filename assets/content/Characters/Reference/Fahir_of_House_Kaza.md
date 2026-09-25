@@ -12,6 +12,7 @@ description: "A wealthy merchant lord who has commissioned exclusive fragrances 
 shortcode: fahirofhousekaza
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

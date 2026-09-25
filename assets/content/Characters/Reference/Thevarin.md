@@ -12,6 +12,7 @@ description: "A wealthy and politically connected trader whose interests Cárenn
 shortcode: thevarin
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

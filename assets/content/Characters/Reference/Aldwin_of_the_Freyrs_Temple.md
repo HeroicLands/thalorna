@@ -12,6 +12,7 @@ description: "A spiritual authority who has taken interest in Guthrún's deepeni
 shortcode: aldwinofthefreyrstemple
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

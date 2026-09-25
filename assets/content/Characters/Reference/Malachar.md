@@ -13,6 +13,7 @@ description: "The sect's leader, Prophet Malachar, views Sharmînah as an abomin
 shortcode: malachar
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

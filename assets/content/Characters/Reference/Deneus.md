@@ -12,6 +12,7 @@ description: "The official overseer of Alyssa's harbor, who provides Brânalenî
 shortcode: deneus
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

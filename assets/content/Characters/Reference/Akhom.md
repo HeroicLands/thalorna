@@ -12,6 +12,7 @@ description: "Another highly competent household manager working for a rival nob
 shortcode: akhom
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

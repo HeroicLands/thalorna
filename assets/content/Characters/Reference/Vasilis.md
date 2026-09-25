@@ -12,6 +12,7 @@ description: "A major trader whose commercial interests Kallíxenos has protecte
 shortcode: vasilis
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

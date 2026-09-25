@@ -12,6 +12,7 @@ description: "An aging noblewoman of considerable power who has become Ángelide
 shortcode: verenthiastonehold
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

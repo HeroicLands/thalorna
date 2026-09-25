@@ -14,7 +14,7 @@ data:
   demonym: null
   lore:
     - humanflk
-    - grukarflk
+    - grukarfolk
     - flksinale
     - flkkhazar
   parents:

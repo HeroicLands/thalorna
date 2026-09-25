@@ -12,6 +12,7 @@ description: "A ruthless trader who controls shipping interests throughout Vedya
 shortcode: divocheus
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

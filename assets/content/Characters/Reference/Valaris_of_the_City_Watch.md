@@ -12,6 +12,7 @@ description: "The highest official in Moktur's law enforcement structure who val
 shortcode: valarisofthecitywatch
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

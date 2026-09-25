@@ -12,6 +12,7 @@ description: "Hathura's own distant cousin and nominal ally, who harbors deep re
 shortcode: meritamun
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

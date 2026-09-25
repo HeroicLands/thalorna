@@ -13,6 +13,7 @@ description: "The elderly senior master of the Panepistemium in Byzaris who ment
 shortcode: aleksandrofthezepharissodalitas
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

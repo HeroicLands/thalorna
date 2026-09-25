@@ -12,6 +12,7 @@ description: "A canny trader who has secured exclusive access to Vrystwald furs 
 shortcode: oleanderofthebyzarianleague
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

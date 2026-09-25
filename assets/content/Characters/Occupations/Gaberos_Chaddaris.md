@@ -28,7 +28,7 @@ data:
   affiliations:
     - athenikos
   gender: male
-  species: null
+  species: humanflk
   born: 681/3/13
   height: 1.74
   weight: 63

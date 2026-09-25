@@ -12,6 +12,7 @@ description: "An ambiguous figure who may be legitimate or criminal (Harkhîs is
 shortcode: devarion
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

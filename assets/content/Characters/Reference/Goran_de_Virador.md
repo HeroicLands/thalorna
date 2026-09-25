@@ -13,6 +13,7 @@ description: "One of Iztéban’s most recent assignments involves investigating
 shortcode: gorandevirador
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

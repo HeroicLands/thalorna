@@ -12,6 +12,7 @@ description: "A pure-blood Dunhari tribal leader who views the fortress's advanc
 shortcode: saqqaribnmalik
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

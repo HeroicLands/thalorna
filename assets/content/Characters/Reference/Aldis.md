@@ -12,6 +12,7 @@ description: "Captain of the city guard in Élavendre's capital, who has commiss
 shortcode: aldis
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

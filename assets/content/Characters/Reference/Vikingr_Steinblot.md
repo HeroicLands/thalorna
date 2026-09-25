@@ -13,6 +13,7 @@ description: "A father of the Steinblót stonemasons who met his daughter's turn
 shortcode: vikingrsteinblot
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

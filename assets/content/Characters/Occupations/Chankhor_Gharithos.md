@@ -27,7 +27,7 @@ data:
   affiliations:
     - theradon
   gender: male
-  species: null
+  species: humanflk
   born: 682/2/9
   height: 1.91
   weight: 86

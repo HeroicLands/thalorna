@@ -12,6 +12,7 @@ description: "A political appointee from the capital who arrived two years ago w
 shortcode: gaerionvaldis
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

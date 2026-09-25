@@ -30,7 +30,7 @@ data:
   affiliations:
     - mtrrchybth
   gender: female
-  species: null
+  species: humanflk
   born: 679/3/19
   height: 1.72
   weight: 66

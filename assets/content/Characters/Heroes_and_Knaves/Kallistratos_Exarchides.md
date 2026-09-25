@@ -28,7 +28,7 @@ data:
     - provinclys
     - ordoarcanis
   gender: male
-  species: null
+  species: humanflk
   born: 686/3/28
   height: 1.88
   weight: 86.2

@@ -29,7 +29,7 @@ data:
     - provinclys
     - blackflame
   gender: female
-  species: null
+  species: humanflk
   born: 696/12/6
   height: 1.7
   weight: 68

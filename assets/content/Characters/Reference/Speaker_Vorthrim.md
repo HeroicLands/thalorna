@@ -12,6 +12,7 @@ description: "The most influential of the conservative elders, Vorthrim views At
 shortcode: speakervorthrim
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

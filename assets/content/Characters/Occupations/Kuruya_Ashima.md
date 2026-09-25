@@ -27,7 +27,7 @@ data:
   affiliations:
     - cnfdrtnhrdnstts
   gender: female
-  species: null
+  species: humanflk
   born: 687/4/16
   height: 1.73
   weight: 71

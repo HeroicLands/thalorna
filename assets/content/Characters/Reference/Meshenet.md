@@ -12,6 +12,7 @@ description: "A woman of a major merchant family whose marriage to a tenant-in-c
 shortcode: meshenet
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

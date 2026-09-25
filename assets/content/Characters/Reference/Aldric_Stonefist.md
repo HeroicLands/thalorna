@@ -13,6 +13,7 @@ description: "Bjalfi's commanding officer and mentor."
 shortcode: aldricstonefist
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -13,6 +13,7 @@ shortcode: thessalthymiakit
 renamedFrom: thessalkantakouzenos
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

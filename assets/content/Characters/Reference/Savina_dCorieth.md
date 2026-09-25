@@ -12,6 +12,7 @@ description: "A wealthy merchant of considerable influence who employs Ailêmâ 
 shortcode: savinadcorieth
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -28,7 +28,7 @@ data:
     - slntlncmpny
     - kngdmprvnz
   gender: male
-  species: null
+  species: humanflk
   born: 688/8/20
   height: 1.8
   weight: 70

@@ -13,6 +13,7 @@ description: "At fourteen, he was apprenticed to the household of Lord Vedásthi
 shortcode: vedasthira
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

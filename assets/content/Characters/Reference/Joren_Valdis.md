@@ -12,6 +12,7 @@ description: "The militia commander who employs Khatah and has developed real re
 shortcode: jorenvaldis
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

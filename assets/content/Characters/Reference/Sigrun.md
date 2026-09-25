@@ -12,6 +12,7 @@ description: "The priestess of Thórr in the nearest settlement views Herjúlf a
 shortcode: sigrun
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

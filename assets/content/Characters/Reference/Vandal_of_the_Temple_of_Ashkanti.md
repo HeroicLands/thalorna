@@ -12,6 +12,7 @@ description: "A high-ranking priest offended by one of Vishali's performances in
 shortcode: vandalofthetempleofashkanti
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

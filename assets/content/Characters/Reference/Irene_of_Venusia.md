@@ -13,6 +13,7 @@ description: "A priestess of the goddess of prosperity who has commissioned cere
 shortcode: ireneofvenusia
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

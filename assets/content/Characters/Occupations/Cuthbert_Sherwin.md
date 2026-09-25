@@ -27,7 +27,7 @@ data:
   affiliations:
     - repblctrvn
   gender: male
-  species: null
+  species: humanflk
   born: 668/2/29
   height: 1.8
   weight: 82

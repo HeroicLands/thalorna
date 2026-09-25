@@ -13,6 +13,7 @@ description: "Father Anselm, an older priest of the Aurèldían faith whose aust
 shortcode: anselm
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

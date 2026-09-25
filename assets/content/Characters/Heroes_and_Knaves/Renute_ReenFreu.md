@@ -29,7 +29,7 @@ data:
   affiliations:
     - empirtkhpr
   gender: female
-  species: null
+  species: humanflk
   born: 688/2/8
   height: 1.7
   weight: 86.6

@@ -23,7 +23,7 @@ data:
   affiliations:
     - kingdomlgn
   gender: male
-  species: null
+  species: humanflk
 ---
 
 # Appearance {#appearance}

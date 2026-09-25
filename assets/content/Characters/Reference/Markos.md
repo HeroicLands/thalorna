@@ -12,6 +12,7 @@ description: "The capital district guard station receives a new senior officer, 
 shortcode: markos
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

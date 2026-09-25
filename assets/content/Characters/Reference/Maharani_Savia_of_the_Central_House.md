@@ -12,6 +12,7 @@ description: "The most powerful noble in the city-states, who has relied on Màd
 shortcode: maharanisaviaofthecentralhouse
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

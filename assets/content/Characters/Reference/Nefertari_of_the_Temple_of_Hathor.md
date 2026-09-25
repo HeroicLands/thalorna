@@ -12,6 +12,7 @@ description: "A spiritual leader who commissioned from Patnefur a special fragra
 shortcode: nefertariofthetempleofhathor
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "The political administrator appointed to manage the prison bureauc
 shortcode: kasander
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

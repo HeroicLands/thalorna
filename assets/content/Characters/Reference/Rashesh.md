@@ -12,6 +12,7 @@ description: "Delânash discovers that a younger officer, Captain Rashesh, is se
 shortcode: rashesh
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

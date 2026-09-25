@@ -12,6 +12,7 @@ description: "A powerful nobleman who contracts Arkádios whenever border securi
 shortcode: vasilisoftheeasternmarch
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "A wealthy collector of fine art and patron of performers who has r
 shortcode: aahmes
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

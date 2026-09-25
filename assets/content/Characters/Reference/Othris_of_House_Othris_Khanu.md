@@ -12,6 +12,7 @@ description: "Matriarch of Bethûa's principal maritime House and Zahira's patro
 shortcode: othrisofhouseothriskhanu
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

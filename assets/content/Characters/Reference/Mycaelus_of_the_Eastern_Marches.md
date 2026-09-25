@@ -13,6 +13,7 @@ description: "A powerful regional lord who has engaged Cárenna's services repea
 shortcode: mycaelusoftheeasternmarches
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

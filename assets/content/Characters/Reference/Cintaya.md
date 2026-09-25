@@ -12,6 +12,7 @@ description: "Lord Vedásthira's wife has grown to rely on Drkshàrana's counsel
 shortcode: cintaya
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

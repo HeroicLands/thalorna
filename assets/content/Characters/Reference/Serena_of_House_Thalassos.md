@@ -12,6 +12,7 @@ description: "A wealthy widow who has commissioned Lysándros to restore and reb
 shortcode: serenaofhousethalassos
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

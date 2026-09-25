@@ -12,6 +12,7 @@ description: "The official responsible for investigating underground apothecary 
 shortcode: thraceofthecitywatch
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

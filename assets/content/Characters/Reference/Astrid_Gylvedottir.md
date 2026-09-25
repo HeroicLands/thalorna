@@ -12,6 +12,7 @@ description: "A wealthy trading magnate who contracts sailors for her extensive 
 shortcode: astridgylvedottir
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

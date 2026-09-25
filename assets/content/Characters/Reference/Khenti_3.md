@@ -12,6 +12,7 @@ description: "The city's principal judicial authority who respects Totkar deeply
 shortcode: khenti3
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

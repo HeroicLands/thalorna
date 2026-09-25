@@ -12,6 +12,7 @@ description: "A fellow priest of Ātáröš who broke with orthodox teachings to
 shortcode: salimofthenortherntemple
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

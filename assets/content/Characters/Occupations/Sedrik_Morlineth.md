@@ -27,7 +27,7 @@ data:
   affiliations:
     - kngdmlvndr
   gender: male
-  species: null
+  species: humanflk
   born: 671/1/14
   height: 1.91
   weight: 87

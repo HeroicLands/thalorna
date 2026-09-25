@@ -12,6 +12,7 @@ description: "Merchant Lord Haldor the Greedy - A crooked trader whose smuggling
 shortcode: haldorthegreedy
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

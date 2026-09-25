@@ -12,6 +12,7 @@ description: "Xénokôs witnesses a minor noble, Lord Castellan, commit a clear 
 shortcode: castellan
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

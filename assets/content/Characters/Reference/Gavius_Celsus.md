@@ -12,6 +12,7 @@ description: "A Quaesitorium field investigator with a reputation for dogged per
 shortcode: gaviuscelsus
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

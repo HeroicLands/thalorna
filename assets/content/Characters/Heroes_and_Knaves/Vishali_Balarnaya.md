@@ -26,7 +26,7 @@ data:
   affiliations:
     - rajaprjnpd
   gender: female
-  species: null
+  species: humanflk
   born: 693/10/4
   height: 1.73
   weight: 68.9

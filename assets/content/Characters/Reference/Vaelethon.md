@@ -13,6 +13,7 @@ description: "A veteran of the Sodalitas Pyréthos and former Quaesitorium opera
 shortcode: vaelethon
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "A fellow Magister whose theories Azatô publicly demolished, and w
 shortcode: quintusaerius
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

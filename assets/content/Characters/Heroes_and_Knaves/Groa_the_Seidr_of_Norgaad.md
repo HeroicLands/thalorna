@@ -28,7 +28,7 @@ data:
   affiliations:
     - kingdmnrgd
   gender: female
-  species: null
+  species: humanflk
   born: 690/6/7
   height: 1.73
   weight: 63.5

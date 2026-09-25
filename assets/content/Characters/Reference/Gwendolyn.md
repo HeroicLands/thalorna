@@ -12,6 +12,7 @@ description: "Hallbjörn serves as head huntsman for Lord Gwendolyn of Ashenwood
 shortcode: gwendolyn
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

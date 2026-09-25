@@ -12,6 +12,7 @@ description: "A wealthy and politically connected merchant whose family has been
 shortcode: valdis
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

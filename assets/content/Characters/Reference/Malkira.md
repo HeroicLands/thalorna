@@ -13,6 +13,7 @@ description: "A wandering oracle or wise woman Seer Malkira encounters Muri and,
 shortcode: malkira
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

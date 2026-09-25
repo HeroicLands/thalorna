@@ -3,7 +3,7 @@ tags: []
 name:
   full: Grukar Folk
   aliases:
-    - grukarflk
+    - grukarfolk
 description: Grukar Folk
 shortcode: grukarfolk
 type: lore

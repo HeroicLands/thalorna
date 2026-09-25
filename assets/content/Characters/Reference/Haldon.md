@@ -12,6 +12,7 @@ description: "The scholar, Magister Haldón, is willing to pay extraordinary sum
 shortcode: haldon
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

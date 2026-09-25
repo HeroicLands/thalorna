@@ -13,6 +13,7 @@ description: "A young noblewoman with Áelendan ancestry who has begun seeking B
 shortcode: eadrunofcardeth
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

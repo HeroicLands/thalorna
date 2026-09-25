@@ -27,7 +27,7 @@ data:
   affiliations:
     - sultntmrdd
   gender: female
-  species: null
+  species: humanflk
   born: 690/3/22
   height: 1.75
   weight: 67.1

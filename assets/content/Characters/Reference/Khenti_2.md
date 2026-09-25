@@ -12,6 +12,7 @@ description: "A mercenary captain of considerable renown who leads a company of 
 shortcode: khenti2
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "Once an ally of House Exarchides, Vaidros turned against them in t
 shortcode: vaidros
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

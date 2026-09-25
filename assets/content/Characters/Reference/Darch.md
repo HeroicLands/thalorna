@@ -12,6 +12,7 @@ description: "The official responsible for road permits and checkpoint enforceme
 shortcode: darch
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

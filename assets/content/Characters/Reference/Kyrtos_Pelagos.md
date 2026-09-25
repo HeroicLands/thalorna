@@ -12,6 +12,7 @@ description: "The senior naval commander overseeing Habìdon's current detachmen
 shortcode: kyrtospelagos
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

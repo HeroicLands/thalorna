@@ -12,6 +12,7 @@ description: "A wealthy merchant widow who provides supplies to the garrison and
 shortcode: elestrapanos
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

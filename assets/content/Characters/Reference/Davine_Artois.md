@@ -13,6 +13,7 @@ description: "The senior merchant representative on the city council."
 shortcode: davineartois
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "A wealthy merchant who profits considerably from the wine and luxu
 shortcode: aldriccovens
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

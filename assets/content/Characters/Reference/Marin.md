@@ -12,6 +12,7 @@ description: "The village's governing elder who treasures Xadrôs' work and regu
 shortcode: marin
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

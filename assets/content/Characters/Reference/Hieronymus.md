@@ -12,6 +12,7 @@ description: "A military leader who has commissioned numerous military maps and 
 shortcode: hieronymus
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

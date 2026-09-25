@@ -12,6 +12,7 @@ description: "A major caravan enterprise headed by Merchant Princess Sâlûm pro
 shortcode: salum
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

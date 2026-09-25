@@ -27,7 +27,7 @@ data:
   affiliations:
     - pelagora
   gender: male
-  species: null
+  species: humanflk
   born: 668/4/9
   height: 1.75
   weight: 68

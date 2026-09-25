@@ -23,7 +23,7 @@ data:
   homes: []
   affiliations: []
   gender: male
-  species: null
+  species: humanflk
 ---
 
 A king of Provènzia.

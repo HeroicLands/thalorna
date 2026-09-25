@@ -13,6 +13,7 @@ description: "A priestess of the same order as his mother, who occasionally cons
 shortcode: teresiaofflorania
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

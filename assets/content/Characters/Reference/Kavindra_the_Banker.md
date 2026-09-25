@@ -12,6 +12,7 @@ description: "An elderly financier who values Dharmàpala's discretion and tacti
 shortcode: kavindrathebanker
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

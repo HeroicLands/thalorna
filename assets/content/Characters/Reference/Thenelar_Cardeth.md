@@ -12,6 +12,7 @@ description: "Ráegon's cousin, recently returned from service abroad, asking po
 shortcode: thenelarcardeth
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

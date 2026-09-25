@@ -12,6 +12,7 @@ description: "The grand temple of the knowledge deity has commissioned Nárava f
 shortcode: vidya
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

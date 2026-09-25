@@ -13,6 +13,7 @@ shortcode: bruthgar
 renamedFrom: garak
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

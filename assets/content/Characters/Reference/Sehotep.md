@@ -12,6 +12,7 @@ description: "A calculating noble of middling talent and significant wealth who 
 shortcode: sehotep
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

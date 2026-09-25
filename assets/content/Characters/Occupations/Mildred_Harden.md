@@ -28,7 +28,7 @@ data:
   affiliations:
     - kngdmldrth
   gender: female
-  species: null
+  species: humanflk
   born: 679/5/20
   height: 1.78
   weight: 72

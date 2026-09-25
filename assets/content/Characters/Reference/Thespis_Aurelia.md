@@ -12,6 +12,7 @@ description: "An immensely wealthy widow and patron of the arts who has champion
 shortcode: thespisaurelia
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

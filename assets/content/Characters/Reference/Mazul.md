@@ -12,6 +12,7 @@ description: "A religious authority who sees Fakhrad's unconventional relationsh
 shortcode: mazul
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "The oldest and most respected shaman in the tribe; he has mentored
 shortcode: shamankhenti
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

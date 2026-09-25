@@ -30,7 +30,7 @@ data:
     - blckpnwlvs
     - vrystwldtrbs
   gender: male
-  species: null
+  species: humanflk
   born: 690/12/7
   height: 1.82
   weight: 76.5

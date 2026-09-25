@@ -29,7 +29,7 @@ data:
     - ordoarcanis
     - kngdmlvndr
   gender: female
-  species: null
+  species: humanflk
   born: 693/11/25
   height: 1.68
   weight: 59

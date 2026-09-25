@@ -12,6 +12,7 @@ description: "A wealthy entrepreneur who once offered Konstántinos an enormous 
 shortcode: varkus
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

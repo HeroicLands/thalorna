@@ -13,6 +13,7 @@ description: "A wealthy trader from a distant city-state who has recognized the 
 shortcode: tavaros
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

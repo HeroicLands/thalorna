@@ -14,7 +14,7 @@ data:
   icon: null
   demonym: Grukari
   lore:
-    - grukarflk
+    - grukarfolk
   parents:
     - ankrscntnnt
   population: 50000

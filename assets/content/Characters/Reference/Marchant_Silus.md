@@ -12,6 +12,7 @@ description: "A wealthy merchant prince who collects unique fragrances as invest
 shortcode: marchantsilus
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

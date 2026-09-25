@@ -12,6 +12,7 @@ description: "Merchant House Alderthor - A prominent trading company that specif
 shortcode: svenna
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

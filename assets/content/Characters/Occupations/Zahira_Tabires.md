@@ -27,7 +27,7 @@ data:
   affiliations:
     - thyrenae
   gender: female
-  species: null
+  species: humanflk
   born: 688/4/29
   height: 1.7
   weight: 65

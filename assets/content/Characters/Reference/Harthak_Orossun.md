@@ -12,6 +12,7 @@ description: "Athalwa's cousin was denied the chieftainship she claimed."
 shortcode: harthakorossun
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

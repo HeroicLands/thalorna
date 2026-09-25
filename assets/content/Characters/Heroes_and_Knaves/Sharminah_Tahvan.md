@@ -27,7 +27,7 @@ data:
   affiliations:
     - tribestrzd
   gender: female
-  species: null
+  species: humanflk
   born: 688/3/25
   height: 1.8
   weight: 76.2

@@ -12,6 +12,7 @@ description: 'Captain Loris "Ironhand" Devereux, a corsair captain with an old w
 shortcode: lorisironhanddevereux
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

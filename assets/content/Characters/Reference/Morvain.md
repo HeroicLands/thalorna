@@ -12,6 +12,7 @@ description: "The oldest and most respected pure mystic shaman in the tribe who,
 shortcode: morvain
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "A fellow nomarch who harbors deep resentment that Hersaîs's milit
 shortcode: thutmosis
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "A wealthy collector of fine maps and geographical art who has beco
 shortcode: investresscalyndra
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

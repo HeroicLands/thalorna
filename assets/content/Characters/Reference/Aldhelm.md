@@ -12,6 +12,7 @@ description: "Bishop Aldhelm, a high-ranking member of the formal priesthood who
 shortcode: aldhelm
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "A southern military commander who has been leading expeditions int
 shortcode: varlankeldros
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

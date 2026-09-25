@@ -12,6 +12,7 @@ description: "A sympathetic former monk from her monastery who occasionally slip
 shortcode: aldrin
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

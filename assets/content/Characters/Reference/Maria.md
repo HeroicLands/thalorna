@@ -12,6 +12,7 @@ description: "The leader of the village that has become Kyriákos's home."
 shortcode: maria
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

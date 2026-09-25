@@ -12,6 +12,7 @@ description: "An elderly widow of great wealth and refined taste who has become 
 shortcode: sekhmetashkahar
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

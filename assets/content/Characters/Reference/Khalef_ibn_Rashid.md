@@ -12,6 +12,7 @@ description: "The garrison's senior officer."
 shortcode: khalefibnrashid
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

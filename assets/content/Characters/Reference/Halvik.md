@@ -12,6 +12,7 @@ description: "A promising young warrior raised in Greyfjord fortress and treated
 shortcode: halvik
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "Ídrisè is hired to protect Lord Kael Vesperos, a nobleman she ha
 shortcode: kaelvesperos
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -13,6 +13,7 @@ description: "A rival officer commanding the neighboring garrison sector."
 shortcode: marseljutharen
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

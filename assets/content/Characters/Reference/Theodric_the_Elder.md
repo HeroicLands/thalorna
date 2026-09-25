@@ -12,6 +12,7 @@ description: "A wealthy trader who has commissioned five major pieces and pays h
 shortcode: theodrictheelder
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

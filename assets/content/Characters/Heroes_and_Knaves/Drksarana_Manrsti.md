@@ -26,7 +26,7 @@ data:
   affiliations:
     - chandrapur
   gender: male
-  species: null
+  species: humanflk
   born: 691/9/18
   height: 1.7
   weight: 64.4

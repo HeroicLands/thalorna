@@ -13,6 +13,7 @@ description: "The spiritual leader who marked Érython with the serpent tattoo m
 shortcode: lirindaoftheverdantsanctum
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

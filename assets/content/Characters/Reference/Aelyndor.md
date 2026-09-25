@@ -12,6 +12,7 @@ description: "The current tribal leader who relies on Ránthor for counsel on ma
 shortcode: aelyndor
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

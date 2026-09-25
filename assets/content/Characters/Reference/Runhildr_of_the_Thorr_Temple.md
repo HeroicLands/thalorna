@@ -12,6 +12,7 @@ description: "The religious institution dedicated to the storm deity commissions
 shortcode: runhildrofthethorrtemple
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

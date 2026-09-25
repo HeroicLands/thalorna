@@ -13,6 +13,7 @@ description: "The previous chief herald, now retired, views Cárenna as an upsta
 shortcode: kelvicaldred
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "Athalwa was the second child of Chieftain Vorthgar Vithrúnd, born
 shortcode: vorthgarvithrund
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

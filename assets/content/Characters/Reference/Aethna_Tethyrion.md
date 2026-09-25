@@ -12,6 +12,7 @@ description: "An aging widow of minor noble standing who became enchanted with P
 shortcode: aethnatethyrion
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

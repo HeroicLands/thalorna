@@ -12,6 +12,7 @@ description: "A younger, ambitious captain who represents everything Vishvàra d
 shortcode: merediththereckless
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

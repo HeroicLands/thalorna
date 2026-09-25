@@ -12,6 +12,7 @@ description: "A collector of mechanical curiosities who maintains a private muse
 shortcode: kassorthelearned
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

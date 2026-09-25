@@ -13,6 +13,7 @@ description: "Father Rúnarr, a traveling priest of Týr, once stayed at the est
 shortcode: runarr
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

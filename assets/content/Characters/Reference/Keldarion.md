@@ -13,6 +13,7 @@ description: "The aging nobleman who employs Érython values him not merely as a
 shortcode: keldarion
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "A fellow Magister in the Sodalitas Physéra whose theoretical fram
 shortcode: corinnasextus
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

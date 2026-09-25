@@ -27,7 +27,7 @@ data:
     - thetamzir
     - vylarinmpr
   gender: female
-  species: null
+  species: humanflk
   born: 702/11/27
   height: 1.73
   weight: 62.6

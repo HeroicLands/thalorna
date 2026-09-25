@@ -12,6 +12,7 @@ description: "A nobleman whose cruelty toward servants and dependents violated e
 shortcode: petyrthecruel
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

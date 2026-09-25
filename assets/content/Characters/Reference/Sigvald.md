@@ -12,6 +12,7 @@ description: "Frithgár has served as a loyal huscarl for Lord Sigvald for many 
 shortcode: sigvald
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

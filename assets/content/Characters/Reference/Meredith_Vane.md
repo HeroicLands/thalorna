@@ -12,6 +12,7 @@ description: "A rival soldier of approximately equal skill who has competed with
 shortcode: meredithvane
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "A successful merchant captain who publicly blamed Tárellia for th
 shortcode: dariosstormrider
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -14,6 +14,7 @@ shortcode: delitha
 renamedFrom: caelwen
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -26,7 +26,7 @@ data:
   affiliations:
     - suvrgrjnpd
   gender: male
-  species: null
+  species: humanflk
   born: 687/2/4
   height: 1.83
   weight: 73.9

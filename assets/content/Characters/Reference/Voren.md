@@ -12,6 +12,7 @@ description: "A celebrated naval commander who has commissioned multiple vessels
 shortcode: voren
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

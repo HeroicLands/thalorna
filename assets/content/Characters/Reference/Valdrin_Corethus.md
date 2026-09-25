@@ -12,6 +12,7 @@ description: "The master armorer of Kethramír who took Afzandah as an apprentic
 shortcode: valdrincorethus
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

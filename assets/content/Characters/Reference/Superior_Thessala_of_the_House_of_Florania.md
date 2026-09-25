@@ -12,6 +12,7 @@ description: "The abbess of a local convent dedicated to fertility, growth, and 
 shortcode: superiorthessalaofthehouseofflorania
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

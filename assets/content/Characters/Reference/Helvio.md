@@ -13,6 +13,7 @@ description: "Grácena discovers that one of her trusted subordinates, Guard Cap
 shortcode: helvio
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

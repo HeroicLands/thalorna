@@ -12,6 +12,7 @@ description: "The chief of Kiroba’s tribe, Mandari, sees great potential in Ki
 shortcode: mandari
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

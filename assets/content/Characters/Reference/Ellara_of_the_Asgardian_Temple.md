@@ -13,6 +13,7 @@ description: "Spiritual authority who has occasionally hired him for sacred prot
 shortcode: ellaraoftheasgardiantemple
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

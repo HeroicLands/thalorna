@@ -12,6 +12,7 @@ description: "Isidôra was born the youngest of five daughters to Merchant-Princ
 shortcode: kossianmelissenos
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

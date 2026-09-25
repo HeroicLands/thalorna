@@ -12,6 +12,7 @@ description: "Merchant-Prince Akrûm Kalirrûn has personally requested Muri for
 shortcode: akrumkalirrun
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

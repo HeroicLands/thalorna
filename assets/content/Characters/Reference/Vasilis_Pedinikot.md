@@ -13,6 +13,7 @@ shortcode: vasilispedinikot
 renamedFrom: vasiliskomnenos
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

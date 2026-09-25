@@ -12,6 +12,7 @@ description: "A justice official known for harsh sentencing who appreciates Xer√
 shortcode: theodorthestrict
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

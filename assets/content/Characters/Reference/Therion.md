@@ -13,6 +13,7 @@ description: "Dûmàrês's primary political support on the Council of Korinthea
 shortcode: therion
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

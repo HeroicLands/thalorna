@@ -12,6 +12,7 @@ description: "A rival merchant-broker operating in the Byzarian League's central
 shortcode: tharenis
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

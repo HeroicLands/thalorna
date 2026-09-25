@@ -12,6 +12,7 @@ description: "A widow who fell in love with Björg's voice years ago and has qui
 shortcode: keirastonehearst
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

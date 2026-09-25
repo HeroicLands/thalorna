@@ -21,7 +21,7 @@ data:
   affiliations:
     - repblctrvn
   gender: male
-  species: null
+  species: humanflk
 ---
 
 # Appearance {#appearance}

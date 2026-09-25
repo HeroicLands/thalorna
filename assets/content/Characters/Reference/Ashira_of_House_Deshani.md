@@ -12,6 +12,7 @@ description: "A noblewoman of considerable taste and influence who has champione
 shortcode: ashiraofhousedeshani
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

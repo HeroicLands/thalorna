@@ -12,6 +12,7 @@ description: "The current monarch of Targud, who values Rögnvaldr's ability to 
 shortcode: brennethii
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

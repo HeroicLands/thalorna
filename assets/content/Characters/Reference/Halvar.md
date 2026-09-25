@@ -12,6 +12,7 @@ description: "Arzânalàs has dedicated his life to serving as a huscarl for Lor
 shortcode: halvar
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

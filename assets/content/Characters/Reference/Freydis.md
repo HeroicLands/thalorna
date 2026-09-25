@@ -12,6 +12,7 @@ description: "The Helionite noblewoman Tàbîsa serves as a huscarl, leading sco
 shortcode: freydis
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

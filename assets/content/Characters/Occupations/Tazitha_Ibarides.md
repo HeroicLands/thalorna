@@ -27,7 +27,7 @@ data:
   affiliations:
     - pelagora
   gender: female
-  species: null
+  species: humanflk
   born: 691/2/23
   height: 1.85
   weight: 79

@@ -13,6 +13,7 @@ description: "Head of one of Fiòrdaure's older noble families and a staunch tra
 shortcode: vasquencorteluni
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

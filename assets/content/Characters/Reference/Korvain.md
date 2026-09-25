@@ -12,6 +12,7 @@ description: "The current city magistrate relies heavily on Hálrikos's counsel 
 shortcode: korvain
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

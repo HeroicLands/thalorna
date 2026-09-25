@@ -12,6 +12,7 @@ description: "The regional noble who hired the Iron Wolves to massacre the villa
 shortcode: varkun
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

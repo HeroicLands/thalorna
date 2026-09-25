@@ -12,6 +12,7 @@ description: "The patriarch, Merchant Lord Devakara, values her contribution to 
 shortcode: devakara
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

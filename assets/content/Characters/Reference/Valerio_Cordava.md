@@ -12,6 +12,7 @@ description: "Archbishop Valerio Córdava."
 shortcode: valeriocordava
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

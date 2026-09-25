@@ -28,7 +28,7 @@ data:
   affiliations:
     - cnfdrtnhrdnstts
   gender: male
-  species: null
+  species: humanflk
   born: 684/4/14
   height: 1.73
   weight: 68

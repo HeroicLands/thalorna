@@ -27,7 +27,7 @@ data:
   affiliations:
     - kalydria
   gender: female
-  species: null
+  species: humanflk
   born: 690/3/29
   height: 1.8
   weight: 73

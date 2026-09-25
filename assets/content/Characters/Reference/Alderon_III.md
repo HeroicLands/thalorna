@@ -12,6 +12,7 @@ description: "A king two reigns past, who was so taken by a Festival of Fréyja 
 shortcode: alderoniii
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -13,6 +13,7 @@ description: "A wealthy widow and patron of the arts who has become Philína's m
 shortcode: theodorakallisthenes
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

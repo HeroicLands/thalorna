@@ -13,6 +13,7 @@ description: "A monk keeper who acknowledges that Drákonis's work, while violen
 shortcode: selvakofmenervasmonastery
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

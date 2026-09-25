@@ -12,6 +12,7 @@ description: "A band of brigands led by the cruel Captain Rogûn who have attemp
 shortcode: rogun
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

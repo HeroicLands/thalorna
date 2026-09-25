@@ -12,6 +12,7 @@ description: "The elderly priest who recognized spiritual dimension in her work 
 shortcode: ilmanturofthemitharatemple
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "A weathered rural leader who employs Ángelides regularly to treat
 shortcode: thom
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "For much of every year Meshara went out as head scout to the carav
 shortcode: thorenthekeeneyed
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

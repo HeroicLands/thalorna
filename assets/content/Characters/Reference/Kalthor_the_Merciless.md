@@ -12,6 +12,7 @@ description: "Overseer Kalthor the Merciless - The brutal taskmaster directly re
 shortcode: kalthorthemerciless
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

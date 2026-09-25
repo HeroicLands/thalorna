@@ -28,7 +28,7 @@ data:
   homes: []
   affiliations: []
   gender: null
-  species: null
+  species: humanflk
   age: null
   born: "unknown"
   height: null

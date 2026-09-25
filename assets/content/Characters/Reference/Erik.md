@@ -12,6 +12,7 @@ description: "Hawise serves Lord Erik as a veteran huscarl, training younger war
 shortcode: erik
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

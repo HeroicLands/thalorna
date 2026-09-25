@@ -12,6 +12,7 @@ description: "The former Wer'Hekau of Má'át in the capital, now too frail to c
 shortcode: emeritasarukhet
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "The local administrative leader respects Herjúlf's integrity and 
 shortcode: borrin
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "A nobleman whose secret ambitions Rögnvaldr publicly mocked throu
 shortcode: castorthorne
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

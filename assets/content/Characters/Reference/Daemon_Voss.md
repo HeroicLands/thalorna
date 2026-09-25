@@ -12,6 +12,7 @@ description: "A powerful noble with whom Chrysántos maintains a complex relatio
 shortcode: daemonvoss
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

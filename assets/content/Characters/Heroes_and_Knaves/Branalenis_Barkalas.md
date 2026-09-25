@@ -26,7 +26,7 @@ data:
   affiliations:
     - provinclys
   gender: female
-  species: null
+  species: humanflk
   born: 693/4/2
   height: 1.78
   weight: 70.3

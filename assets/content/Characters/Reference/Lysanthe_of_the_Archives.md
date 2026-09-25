@@ -12,6 +12,7 @@ description: "A scholar and collector of traditional wisdom, Lady Lysanthe of th
 shortcode: lysantheofthearchives
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

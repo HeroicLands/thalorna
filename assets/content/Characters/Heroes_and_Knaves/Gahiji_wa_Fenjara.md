@@ -28,7 +28,7 @@ data:
   affiliations:
     - nylbtrblntn
   gender: male
-  species: null
+  species: humanflk
   born: 692/2/2
   height: 1.88
   weight: 90.7

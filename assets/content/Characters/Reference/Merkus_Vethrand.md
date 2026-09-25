@@ -13,6 +13,7 @@ description: "Despite the complications between them, Merkus remains technically
 shortcode: merkusvethrand
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

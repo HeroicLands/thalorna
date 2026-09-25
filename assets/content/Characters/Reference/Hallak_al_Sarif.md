@@ -12,6 +12,7 @@ description: "A wealthy merchant whose operation Namrûsh has documented engaged
 shortcode: hallakalsarif
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "A rival merchant whose economic interests frequently conflict with
 shortcode: vasilis2
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

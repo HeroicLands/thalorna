@@ -12,6 +12,7 @@ description: "A noble administrator of considerable influence, Djehuty commissio
 shortcode: djehutymenkheperre
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

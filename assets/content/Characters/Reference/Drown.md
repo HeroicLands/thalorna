@@ -12,6 +12,7 @@ description: "A rivaling sailor of questionable ethics who views Brânalenîs as
 shortcode: drown
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

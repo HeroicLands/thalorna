@@ -12,6 +12,7 @@ description: "A regional noble who maintains vast estates and regularly contract
 shortcode: harrenofthefrontierterritories
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

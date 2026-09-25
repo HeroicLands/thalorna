@@ -22,7 +22,7 @@ data:
   affiliations:
     - kingdmdnvr
   gender: male
-  species: null
+  species: humanflk
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

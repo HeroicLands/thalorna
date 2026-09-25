@@ -12,6 +12,7 @@ description: "The leader of the Blackpine Wolves, whose orders Hródar follows b
 shortcode: dagulf
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

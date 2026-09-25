@@ -12,6 +12,7 @@ description: "A wealthy trader who deals in imperial contracts."
 shortcode: sekhenti
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []
