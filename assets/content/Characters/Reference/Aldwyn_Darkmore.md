@@ -12,6 +12,7 @@ description: "None in any formal sense."
 shortcode: aldwyndarkmore
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

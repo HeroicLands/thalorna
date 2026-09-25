@@ -12,6 +12,7 @@ description: "A minor noblewoman of impeccable taste who has become Hildr's clos
 shortcode: sigrunwhitmore
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

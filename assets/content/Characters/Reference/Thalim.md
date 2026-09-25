@@ -12,6 +12,7 @@ description: "A ruthless administrator dispatched by the Merchant Collective to 
 shortcode: thalim
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

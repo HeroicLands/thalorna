@@ -12,6 +12,7 @@ description: "The leader of the Servants of Sycânus, Hadrik is both Drazhan’s
 shortcode: hadrik
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -13,6 +13,7 @@ description: "An elderly priestess of Flórania who maintains institutional supp
 shortcode: celene
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

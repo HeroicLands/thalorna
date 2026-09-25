@@ -22,7 +22,7 @@ data:
   affiliations:
     - kingdmdnvr
   gender: male
-  species: null
+  species: humanflk
 ---
 
 # Appearance {#appearance}

@@ -12,6 +12,7 @@ description: "High priestess of Rásikara's temple and a fellow devotee of the f
 shortcode: malini
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

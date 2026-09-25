@@ -13,6 +13,7 @@ description: "A rival craftsman who specializes in ornate, jeweled weapons inten
 shortcode: khamosetheembellisher
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

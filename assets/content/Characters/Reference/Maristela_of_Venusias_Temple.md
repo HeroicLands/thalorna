@@ -12,6 +12,7 @@ description: "The keeper of the ocean-goddess's temple considers Dómeth's work 
 shortcode: maristelaofvenusiastemple
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

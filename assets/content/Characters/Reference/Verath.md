@@ -14,6 +14,7 @@ description: "A Byzarian nobleman of mysterious motivations and connections who 
 shortcode: verath
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

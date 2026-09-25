@@ -12,6 +12,7 @@ description: "A conservative religious figure who views Hélénaia's changes to 
 shortcode: theron
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

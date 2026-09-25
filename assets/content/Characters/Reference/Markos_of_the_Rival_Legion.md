@@ -12,6 +12,7 @@ description: "A competitor from a neighboring military unit whose unit was chose
 shortcode: markosoftherivallegion
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

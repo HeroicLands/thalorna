@@ -12,6 +12,7 @@ description: "The garrison's senior irregular-war officer."
 shortcode: rhulismervian
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

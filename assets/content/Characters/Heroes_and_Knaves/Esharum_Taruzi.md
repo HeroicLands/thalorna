@@ -28,7 +28,7 @@ data:
     - thetamzir
     - cnfdrtnhrdnstts
   gender: male
-  species: null
+  species: humanflk
   born: 680/7/8
   height: 1.88
   weight: 81.6

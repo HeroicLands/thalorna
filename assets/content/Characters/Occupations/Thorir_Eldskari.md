@@ -28,7 +28,7 @@ data:
   affiliations:
     - jrldmstrmvld
   gender: male
-  species: null
+  species: humanflk
   born: 677/10/2
   height: 1.86
   weight: 116

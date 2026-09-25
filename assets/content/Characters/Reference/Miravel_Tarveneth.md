@@ -12,6 +12,7 @@ description: "A senior member of the Council of Peers and leader of the reformis
 shortcode: miraveltarveneth
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

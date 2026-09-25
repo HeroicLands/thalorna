@@ -12,6 +12,7 @@ description: "A seaman of great repute who commanded the trading vessel The Merc
 shortcode: sorven
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

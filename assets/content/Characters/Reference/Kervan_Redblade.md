@@ -12,6 +12,7 @@ description: "Sevion once refused to sell a dangerous combat-enhancing elixir to
 shortcode: kervanredblade
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

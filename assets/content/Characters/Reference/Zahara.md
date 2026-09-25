@@ -12,6 +12,7 @@ description: "Though now quite elderly and spending most of her time in deep med
 shortcode: zahara
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

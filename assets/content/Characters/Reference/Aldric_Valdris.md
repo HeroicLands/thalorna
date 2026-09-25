@@ -12,6 +12,7 @@ description: "The patriarch, Lord Aldric Valdris, respects traditional craftsman
 shortcode: aldricvaldris
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -13,6 +13,7 @@ description: "Korvas the Merciless publicly challenges Thêkla to single combat,
 shortcode: korvasthemerciless
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

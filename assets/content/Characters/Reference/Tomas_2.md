@@ -12,6 +12,7 @@ description: "Elder Magistrate Tomás has become a mentor figure, offering wisdo
 shortcode: tomas2
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

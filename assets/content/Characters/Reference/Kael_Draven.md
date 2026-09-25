@@ -13,6 +13,7 @@ description: "A younger noble who arrived at Stormveil five years ago as the reg
 shortcode: kaeldraven
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

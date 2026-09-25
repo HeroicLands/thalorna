@@ -13,6 +13,7 @@ description: "Dûmàrês's primary adversary, an older priest of the Temple's We
 shortcode: malachi
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

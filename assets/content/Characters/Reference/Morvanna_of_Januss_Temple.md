@@ -12,6 +12,7 @@ description: "The keeper of the order-god's temple views Dómrithâs's work as c
 shortcode: morvannaofjanusstemple
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

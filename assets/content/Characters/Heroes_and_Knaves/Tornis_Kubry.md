@@ -29,7 +29,7 @@ data:
     - slntlncmpny
     - kingdmtrvn
   gender: male
-  species: null
+  species: humanflk
   born: 686/3/16
   height: 1.78
   weight: 70

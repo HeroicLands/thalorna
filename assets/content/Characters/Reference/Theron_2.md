@@ -12,6 +12,7 @@ description: "The proprietor of the Copper Kettle, who has put considerable mone
 shortcode: theron2
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

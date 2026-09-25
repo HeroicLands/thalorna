@@ -12,6 +12,7 @@ description: "A nobleman's representative who attempted to purchase her inn by a
 shortcode: markossagent
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

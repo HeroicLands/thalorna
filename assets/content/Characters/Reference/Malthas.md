@@ -12,6 +12,7 @@ description: "A zealous religious official who suspects Ángelides' use of anima
 shortcode: malthas
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

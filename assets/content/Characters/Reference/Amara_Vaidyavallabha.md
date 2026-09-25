@@ -12,6 +12,7 @@ description: "A wealthy merchant's wife and dedicated patron of Vedyara's crafts
 shortcode: amaravaidyavallabha
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

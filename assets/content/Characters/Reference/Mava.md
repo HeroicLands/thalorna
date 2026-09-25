@@ -12,6 +12,7 @@ description: "Konstántinos notices that patrons who eat his food seem to recove
 shortcode: mava
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

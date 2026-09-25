@@ -27,7 +27,7 @@ data:
   affiliations:
     - vrystwldtrbs
   gender: male
-  species: null
+  species: humanflk
   born: 678/9/22
   height: 1.88
   weight: 85

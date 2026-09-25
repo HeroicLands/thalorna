@@ -12,6 +12,7 @@ description: "An official who attempted to impose onerous new regulations on inn
 shortcode: tomas
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

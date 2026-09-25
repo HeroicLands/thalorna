@@ -12,6 +12,7 @@ description: "A scholar of theoretical thaumaturgy in the Panepistemium's chapte
 shortcode: ptolemausofthehydalissodalitas
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

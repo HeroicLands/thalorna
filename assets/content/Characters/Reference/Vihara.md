@@ -13,6 +13,7 @@ description: "An explorer and scholar named Captain Vihara, whose reputation is 
 shortcode: vihara
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

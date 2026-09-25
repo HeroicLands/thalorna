@@ -14,7 +14,7 @@ data:
   demonym: Aurèldían
   lore:
     - humanflk
-    - grukarflk
+    - grukarfolk
     - flksinale
     - flkkhazar
   parents:

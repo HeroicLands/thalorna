@@ -13,6 +13,7 @@ description: "A senior political figure who guards Gávrilos jealously, seeing t
 shortcode: paulides
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

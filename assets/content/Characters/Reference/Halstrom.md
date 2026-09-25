@@ -12,6 +12,7 @@ description: "A new crime boss, Merchant Captain Halstrom, begins moving into th
 shortcode: halstrom
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

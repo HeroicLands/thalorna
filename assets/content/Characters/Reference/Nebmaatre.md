@@ -12,6 +12,7 @@ description: "The nomarch of Khemenu's nome, the secular half of the corrupt par
 shortcode: nebmaatre
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

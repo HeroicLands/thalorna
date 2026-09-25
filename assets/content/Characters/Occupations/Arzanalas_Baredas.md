@@ -27,7 +27,7 @@ data:
   affiliations:
     - vylarinmpr
   gender: male
-  species: null
+  species: humanflk
   born: 670/2/15
   height: 1.88
   weight: 85

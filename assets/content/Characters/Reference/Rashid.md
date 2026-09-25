@@ -12,6 +12,7 @@ description: "A wealthy merchant who consulted Qâmira regarding a major investm
 shortcode: rashid
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

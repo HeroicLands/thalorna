@@ -12,6 +12,7 @@ description: "An aggressive Quaesitor Magister Sokrates has filed an official in
 shortcode: sokrates
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

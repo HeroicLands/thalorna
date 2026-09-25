@@ -12,6 +12,7 @@ description: "An aging merchant captain and Mehrâd's closest friend, who contin
 shortcode: samirthevenerable
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

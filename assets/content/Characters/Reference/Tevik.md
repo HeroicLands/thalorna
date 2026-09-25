@@ -12,6 +12,7 @@ description: "An official tasked with enforcing hunting regulations and game law
 shortcode: tevik
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

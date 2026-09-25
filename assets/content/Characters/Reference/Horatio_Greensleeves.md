@@ -13,6 +13,7 @@ description: "The town's chief law enforcement, who relies heavily on Björn's n
 shortcode: horatiogreensleeves
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

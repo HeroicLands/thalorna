@@ -12,6 +12,7 @@ description: "The Varokhi lord Wulfhár serves and protects as a huscarl, alongs
 shortcode: hrothgar
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

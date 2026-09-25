@@ -13,6 +13,7 @@ description: "A wealthy foreign trader who visits Ta'Kheperu regularly for busin
 shortcode: vaskentharcot
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

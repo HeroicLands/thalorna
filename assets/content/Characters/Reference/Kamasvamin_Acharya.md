@@ -12,6 +12,7 @@ description: "A scholar and philosopher, Lord Kamasvāmin Acharya, begins visiti
 shortcode: kamasvaminacharya
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "A perfumer of the ancient age, Saint Mîrvûn the Ascendant, is sa
 shortcode: mirvuntheascendant
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "A wealthy spice trader from the eastern provinces and member of th
 shortcode: othman
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

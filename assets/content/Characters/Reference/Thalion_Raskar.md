@@ -12,6 +12,7 @@ description: "A Jánusian knight of the Order of the Righteous Path, sworn to pr
 shortcode: thalionraskar
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

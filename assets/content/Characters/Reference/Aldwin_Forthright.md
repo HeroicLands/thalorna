@@ -13,6 +13,7 @@ description: "Lord Aldwin Forthright, a wealthy merchant lord with diverse tradi
 shortcode: aldwinforthright
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -26,7 +26,7 @@ data:
   affiliations:
     - byzarianlg
   gender: male
-  species: null
+  species: humanflk
   born: 675/4/2
   height: 1.93
   weight: 88.9

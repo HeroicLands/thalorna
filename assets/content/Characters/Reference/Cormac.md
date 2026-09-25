@@ -12,6 +12,7 @@ description: "The new priest of a Nordheim monastery dedicated to Thórr, a zeal
 shortcode: cormac
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

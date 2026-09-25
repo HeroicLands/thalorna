@@ -8,7 +8,7 @@ data:
   demonym: Ankarian
   lore:
     - humanflk
-    - grukarflk
+    - grukarfolk
     - flksinale
     - flkkhazar
   parents:

@@ -12,6 +12,7 @@ description: "Kiroba’s mentor and spiritual guide, Ishuara remains in the Shó
 shortcode: shamanishuara
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

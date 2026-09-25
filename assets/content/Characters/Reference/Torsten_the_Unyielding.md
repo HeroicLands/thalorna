@@ -12,6 +12,7 @@ description: "A provincial ruler who views Vígbrandr as the keeper of his famil
 shortcode: torstentheunyielding
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

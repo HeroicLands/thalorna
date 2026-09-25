@@ -13,6 +13,7 @@ description: "A foreign ambassador comes to the temple seeking a truce, bringing
 shortcode: amarketh
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

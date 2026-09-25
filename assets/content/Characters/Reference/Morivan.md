@@ -12,6 +12,7 @@ description: "An ambitious ecclesiastic in the capital who has marked Émmanîô
 shortcode: morivan
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

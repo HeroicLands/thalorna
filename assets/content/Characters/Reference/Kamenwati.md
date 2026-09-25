@@ -13,6 +13,7 @@ description: "A junior priest at the Má'át temple in Ankh-Setûn—Hotep's hom
 shortcode: kamenwati
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

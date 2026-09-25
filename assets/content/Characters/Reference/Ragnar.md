@@ -12,6 +12,7 @@ description: "Edwin is a promising young huscarl serving Lord Ragnar, hoping to 
 shortcode: ragnar
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

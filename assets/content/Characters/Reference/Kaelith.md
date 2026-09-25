@@ -12,6 +12,7 @@ description: "A worldly trader and collector of fine things who has become both 
 shortcode: kaelith
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

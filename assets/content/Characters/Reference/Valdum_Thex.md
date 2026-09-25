@@ -12,6 +12,7 @@ description: "The ruthless owner of several of the largest mining operations in 
 shortcode: valdumthex
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

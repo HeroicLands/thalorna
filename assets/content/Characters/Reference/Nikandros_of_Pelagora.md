@@ -13,6 +13,7 @@ description: "A seagoing merchant and explorer who brings rare herbs and unusual
 shortcode: nikandrosofpelagora
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

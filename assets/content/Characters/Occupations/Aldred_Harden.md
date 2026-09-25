@@ -27,7 +27,7 @@ data:
   affiliations:
     - kngdmldrth
   gender: male
-  species: null
+  species: humanflk
   born: 682/10/10
   height: 1.8
   weight: 69

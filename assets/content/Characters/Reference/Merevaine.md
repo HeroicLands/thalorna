@@ -12,6 +12,7 @@ description: "The young Countess whose domain lies three days' ride from Ályra'
 shortcode: merevaine
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

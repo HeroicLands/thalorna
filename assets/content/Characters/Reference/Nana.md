@@ -12,6 +12,7 @@ description: "In a small village called Menet-Karu, Pasher once performed for th
 shortcode: nana
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

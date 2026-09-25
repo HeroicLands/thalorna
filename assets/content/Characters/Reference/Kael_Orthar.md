@@ -13,6 +13,7 @@ description: "Magistrate Kael Orthar, a rising figure in Ashkabel's oligarchic h
 shortcode: kaelorthar
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

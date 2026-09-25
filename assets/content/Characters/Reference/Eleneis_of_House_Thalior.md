@@ -12,6 +12,7 @@ description: "A noblewoman with close ties to the imperial court, Lady Eleneis o
 shortcode: eleneisofhousethalior
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

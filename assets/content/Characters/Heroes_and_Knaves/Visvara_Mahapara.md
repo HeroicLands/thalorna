@@ -26,7 +26,7 @@ data:
   affiliations:
     - vyalendra2
   gender: male
-  species: null
+  species: humanflk
   born: 683/4/10
   height: 1.93
   weight: 89.4

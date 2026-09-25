@@ -12,6 +12,7 @@ description: "The reigning Per-Aá depends on Hathura's judicial auguries and he
 shortcode: menesxvi
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

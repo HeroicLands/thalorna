@@ -12,6 +12,7 @@ description: "A wealthy collector and patron of the arts who has commissioned se
 shortcode: theodorus
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

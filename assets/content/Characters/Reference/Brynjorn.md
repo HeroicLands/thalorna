@@ -12,6 +12,7 @@ description: "A minor nobleman who discovered Unnr's candles and has begun commi
 shortcode: brynjorn
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

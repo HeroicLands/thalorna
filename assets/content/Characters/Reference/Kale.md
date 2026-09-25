@@ -12,6 +12,7 @@ description: "The regional forest warden has clashed with Herjúlf multiple time
 shortcode: kale
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

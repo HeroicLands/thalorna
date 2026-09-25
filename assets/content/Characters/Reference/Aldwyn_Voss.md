@@ -12,6 +12,7 @@ description: "A powerful noble and patron of the arts who regularly commissions 
 shortcode: aldwynvoss
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

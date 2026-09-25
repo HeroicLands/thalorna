@@ -97,6 +97,18 @@ on it (`FROM #draft`).
 `draft: false` included, since it reads as "publish this note", which is what
 happens either way.
 
+## Species and peoples
+
+A being tagged `character` names Human Folk with `data.species: humanflk`.
+`data.species` is an Address to an existing `lore` note. For other beings, leave
+it null when unstated. The Human Folk and Grukar Folk notes use `humanflk` and
+`grukarfolk`.
+
+Peoples such as the Pelwar (`pelwarpepl`) and Áelendan (`aelendnppl`) belong in
+`data.lore`, alongside the being's other cultural and social lore. A human of
+one of these peoples still names `humanflk` as its species. Include each lore
+address once.
+
 ## Birth dates and ages
 
 A being's `data.born` supplies its birth date. With a known birth date, omit

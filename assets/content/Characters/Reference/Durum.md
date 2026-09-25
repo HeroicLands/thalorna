@@ -12,6 +12,7 @@ description: "A veteran of thirty years in the Byzarian mines who took Agápeia 
 shortcode: durum
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

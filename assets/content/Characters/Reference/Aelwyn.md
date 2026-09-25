@@ -13,6 +13,7 @@ description: "The temple's senior priestess at Silvain, who serves as Sárena's 
 shortcode: aelwyn
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

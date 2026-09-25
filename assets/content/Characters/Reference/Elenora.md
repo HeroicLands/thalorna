@@ -12,6 +12,7 @@ description: "Áleifr is the chief huntsman for Lady Elenora of Wildwood Manor; 
 shortcode: elenora
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

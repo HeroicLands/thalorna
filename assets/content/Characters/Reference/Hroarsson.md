@@ -13,6 +13,7 @@ description: "A noble of the neighboring realm who believes all wilderness shoul
 shortcode: hroarsson
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -13,6 +13,7 @@ description: "The First Shaman of the Vrystwalds, whose remains lie within the d
 shortcode: shaman
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

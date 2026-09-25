@@ -26,7 +26,7 @@ data:
   affiliations:
     - kingdomlgn
   gender: male
-  species: null
+  species: humanflk
   born: 673/5/5
   height: 1.85
   weight: 80.7

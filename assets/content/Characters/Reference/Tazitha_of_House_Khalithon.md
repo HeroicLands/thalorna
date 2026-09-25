@@ -12,6 +12,7 @@ description: "Zahira's first patron, the clan-matriarch who raised her out of th
 shortcode: tazithaofhousekhalithon
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

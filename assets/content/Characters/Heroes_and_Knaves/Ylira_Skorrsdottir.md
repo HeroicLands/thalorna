@@ -27,7 +27,7 @@ data:
     - thetamzir
     - kngdmnrdhm
   gender: female
-  species: null
+  species: humanflk
   born: 694/2/17
   height: 1.7
   weight: 54

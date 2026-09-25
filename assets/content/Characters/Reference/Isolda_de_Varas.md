@@ -12,6 +12,7 @@ description: "A shrewd noblewoman who plays a dangerous political game, Lady Iso
 shortcode: isoldadevaras
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

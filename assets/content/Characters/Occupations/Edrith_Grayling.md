@@ -27,7 +27,7 @@ data:
   affiliations:
     - kingdmdnvr
   gender: female
-  species: null
+  species: humanflk
   born: 696/4/5
   height: 1.73
   weight: 64

@@ -12,6 +12,7 @@ description: "The commander of the Sultanate's maritime exploration division has
 shortcode: yasminmirza
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

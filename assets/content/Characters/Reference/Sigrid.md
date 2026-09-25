@@ -12,6 +12,7 @@ description: "High priestess of Fréyr's temple who has commissioned multiple ca
 shortcode: sigrid
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

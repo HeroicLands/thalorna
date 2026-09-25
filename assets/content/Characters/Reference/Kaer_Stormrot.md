@@ -13,6 +13,7 @@ description: "Jarl Kaer Stormrót, Hallveig's uncle and effective head of the St
 shortcode: kaerstormrot
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

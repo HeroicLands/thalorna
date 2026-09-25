@@ -12,6 +12,7 @@ description: "Leader of the Crimson Brotherhood, a slaving organisation working 
 shortcode: malachaithechained
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

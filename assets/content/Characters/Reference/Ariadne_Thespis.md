@@ -13,6 +13,7 @@ description: "The Ordo Arcanis official who arranged Tàlîra's removal from act
 shortcode: ariadnethespis
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

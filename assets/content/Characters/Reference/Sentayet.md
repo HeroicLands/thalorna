@@ -12,6 +12,7 @@ description: "A priestess of Hâpi in the temple district who has become Tirye's
 shortcode: sentayet
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

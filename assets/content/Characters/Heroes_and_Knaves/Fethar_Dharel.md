@@ -28,7 +28,7 @@ data:
     - thetamzir
     - kngdmprvnz
   gender: male
-  species: null
+  species: humanflk
   born: 685/5/20
   height: 1.83
   weight: 77.1

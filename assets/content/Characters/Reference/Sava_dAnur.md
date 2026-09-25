@@ -12,6 +12,7 @@ description: "A desert knight of some renown who appreciates Afzandah's work and
 shortcode: savadanur
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

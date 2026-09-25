@@ -12,6 +12,7 @@ description: "A minor nobility whose appreciation for Gârlen's aesthetic sense 
 shortcode: merennaofhouseelavere
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

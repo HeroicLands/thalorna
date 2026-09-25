@@ -12,6 +12,7 @@ description: "A wealthy merchant and equestrian enthusiast who has contracted fo
 shortcode: zahraalmansur
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

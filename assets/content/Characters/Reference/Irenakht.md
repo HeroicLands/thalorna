@@ -12,6 +12,7 @@ description: "A senior priest at Khemenu who was directly involved in fabricatin
 shortcode: irenakht
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

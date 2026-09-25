@@ -12,6 +12,7 @@ description: "The Tarvénan lord of Thornhill Manor for whom Zórila serves as t
 shortcode: varek
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

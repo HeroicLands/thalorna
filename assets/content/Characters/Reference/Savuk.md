@@ -13,6 +13,7 @@ description: "Fragments of his formula have surfaced in a crumbling monastery hi
 shortcode: savuk
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

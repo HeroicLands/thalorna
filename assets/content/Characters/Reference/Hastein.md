@@ -12,6 +12,7 @@ description: "Commander Hastein - His aging former mentor, now retired from acti
 shortcode: hastein
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

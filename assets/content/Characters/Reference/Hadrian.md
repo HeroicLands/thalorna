@@ -13,6 +13,7 @@ description: "A younger guard under Thórir's command, Ser Hadrian, is diagnosed
 shortcode: hadrian
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -13,6 +13,7 @@ description: "The traveler, a mysterious warrior named Ser Kael, claims the hors
 shortcode: kael
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "The military's chief weapons officer who commissions custom arms f
 shortcode: khenti
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "The tribe's leader who respects Razanash's spiritual authority and
 shortcode: amara2
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

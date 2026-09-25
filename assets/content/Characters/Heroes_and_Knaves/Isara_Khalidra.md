@@ -27,7 +27,7 @@ data:
     - thetamzir
     - theradon
   gender: female
-  species: null
+  species: humanflk
   born: 693/10/26
   height: 1.73
   weight: 62.6

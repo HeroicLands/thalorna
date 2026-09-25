@@ -12,6 +12,7 @@ description: "A successful merchant captain who employs Sénapati regularly and 
 shortcode: taramandal
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

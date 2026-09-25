@@ -12,6 +12,7 @@ description: "A younger officer commanding one of the merchant navy vessels that
 shortcode: mariusvalerian
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

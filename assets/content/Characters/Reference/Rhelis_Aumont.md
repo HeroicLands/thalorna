@@ -12,6 +12,7 @@ description: "The sergeant commanding the capital district patrols."
 shortcode: rhelisaumont
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

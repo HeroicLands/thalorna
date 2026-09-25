@@ -12,6 +12,7 @@ description: "A widow and trader in luxury goods who regularly contracts Dharmà
 shortcode: asheraofvedyaraseasternquarter
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

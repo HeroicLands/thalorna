@@ -12,6 +12,7 @@ description: "Duke Ragnarr of Vithgard - The primary patron who employs Yngvarr'
 shortcode: ragnarrofvithgard
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

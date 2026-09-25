@@ -12,6 +12,7 @@ description: "A ruthless operative who views Arévyn's safety protocols as expen
 shortcode: kardosofthedeepmineconsortium
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

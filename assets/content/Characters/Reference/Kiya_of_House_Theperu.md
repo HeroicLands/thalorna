@@ -12,6 +12,7 @@ description: "A wealthy patron who employs Bânut to create custom remedies."
 shortcode: kiyaofhousetheperu
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

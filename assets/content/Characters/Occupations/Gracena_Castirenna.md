@@ -28,7 +28,7 @@ data:
   affiliations:
     - kingdmtrvn
   gender: female
-  species: null
+  species: humanflk
   born: 680/7/21
   height: 1.82
   weight: 80

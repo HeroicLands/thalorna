@@ -13,6 +13,7 @@ description: "The current governor of Byzaris, who values Philándros's knowledg
 shortcode: anthusmeridian
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "Glýenna's late husband, killed in a raid she secretly arranged."
 shortcode: raegoncardeth
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

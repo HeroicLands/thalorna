@@ -12,6 +12,7 @@ description: "An ambitious trader who views Hálrikos's strict interpretation of
 shortcode: sylaine
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

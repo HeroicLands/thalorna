@@ -12,6 +12,7 @@ description: "A wealthy landowner who employs Tamûra exclusively for all struct
 shortcode: kestinharoway
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

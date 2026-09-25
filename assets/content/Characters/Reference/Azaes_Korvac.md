@@ -12,6 +12,7 @@ description: "The military officer involved in her scandal, now openly resentful
 shortcode: azaeskorvac
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

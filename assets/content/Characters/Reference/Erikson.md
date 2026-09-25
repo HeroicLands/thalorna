@@ -12,6 +12,7 @@ description: "The Thegn of Vallsey, who has engaged one thatcher for all his hol
 shortcode: erikson
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

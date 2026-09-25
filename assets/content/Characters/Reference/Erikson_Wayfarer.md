@@ -12,6 +12,7 @@ description: "A wealthy trading expedition leader who has used Skúli's tents fo
 shortcode: eriksonwayfarer
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

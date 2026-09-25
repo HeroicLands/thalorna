@@ -12,6 +12,7 @@ description: "The master of the scribes' guild has long viewed Shadal as a troub
 shortcode: parvesh
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

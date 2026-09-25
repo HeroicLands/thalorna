@@ -28,7 +28,7 @@ data:
   affiliations:
     - kostaros2
   gender: male
-  species: null
+  species: humanflk
   born: 676/4/20
   height: 1.88
   weight: 85

@@ -12,6 +12,7 @@ description: "The nobleman, Duke Therin of House Valorian, desperate to break th
 shortcode: therinofhousevalorian
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

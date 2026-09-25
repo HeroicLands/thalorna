@@ -12,6 +12,7 @@ description: "A wealthy merchant who has been engaged in systematic fraud within
 shortcode: kallistopulentus
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

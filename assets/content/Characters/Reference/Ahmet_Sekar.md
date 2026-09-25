@@ -12,6 +12,7 @@ description: "A decorated naval officer who frequently stays at the Reenfré and
 shortcode: ahmetsekar
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

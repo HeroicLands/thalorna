@@ -27,7 +27,7 @@ data:
   affiliations:
     - okharis
   gender: male
-  species: null
+  species: humanflk
   born: 692/2/2
   height: 1.8
   weight: 77.1

@@ -12,6 +12,7 @@ description: "The regional noble whose lands surround her inn depends on her for
 shortcode: knalthorvhrandendikh
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -26,7 +26,7 @@ data:
   affiliations:
     - provincvld
   gender: female
-  species: null
+  species: humanflk
   born: 686/4/8
   height: 1.83
   weight: 79.8

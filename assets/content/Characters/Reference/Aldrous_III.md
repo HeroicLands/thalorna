@@ -12,6 +12,7 @@ description: "The aging monarch values Cárenna's counsel and has come to rely o
 shortcode: aldrousiii
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

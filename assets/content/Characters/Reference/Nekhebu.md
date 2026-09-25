@@ -12,6 +12,7 @@ description: "A corrupt noble who once commissioned a sword from Raiah, then ref
 shortcode: nekhebu
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

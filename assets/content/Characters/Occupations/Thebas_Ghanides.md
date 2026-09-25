@@ -27,7 +27,7 @@ data:
   affiliations:
     - korinthea
   gender: male
-  species: null
+  species: humanflk
   born: 669/2/22
   height: 1.8
   weight: 73

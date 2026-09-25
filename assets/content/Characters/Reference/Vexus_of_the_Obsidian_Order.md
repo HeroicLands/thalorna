@@ -12,6 +12,7 @@ description: "An ambitious noble with ties to dark magic and military ambition w
 shortcode: vexusoftheobsidianorder
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

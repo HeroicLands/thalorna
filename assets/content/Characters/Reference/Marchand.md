@@ -13,6 +13,7 @@ description: "Lord Marchand, a wealthy merchant who approached Pálina for intim
 shortcode: marchand
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

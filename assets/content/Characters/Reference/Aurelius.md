@@ -13,6 +13,7 @@ description: "A Ménérvan priest of the Temple of Wisdom in Tyrellan, Aurelius 
 shortcode: aurelius
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

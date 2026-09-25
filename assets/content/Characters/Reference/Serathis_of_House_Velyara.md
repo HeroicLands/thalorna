@@ -12,6 +12,7 @@ description: "A noble widow whose husband died under mysterious circumstances."
 shortcode: serathisofhousevelyara
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

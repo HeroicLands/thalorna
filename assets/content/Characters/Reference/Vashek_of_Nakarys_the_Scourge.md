@@ -12,6 +12,7 @@ description: "Once a fellow knight of the Blazing Oath, Sir Vashek turned traito
 shortcode: vashekofnakarysthescourge
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

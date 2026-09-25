@@ -12,6 +12,7 @@ description: "A noblewoman whose reputation Vishali devastated through a perform
 shortcode: malvinatheaustere
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "A rival pilot whose ship was damaged in an incident where Sekhemet
 shortcode: senebofthekestrel
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

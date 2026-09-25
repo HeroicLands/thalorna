@@ -26,7 +26,7 @@ data:
   affiliations:
     - kalihara
   gender: male
-  species: null
+  species: humanflk
   born: 680/4/9
   height: 1.88
   weight: 85.7

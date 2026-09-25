@@ -26,7 +26,7 @@ data:
   affiliations:
     - dunhartrbs
   gender: male
-  species: null
+  species: humanflk
   born: 658/7/11
   height: 1.68
   weight: 62.1

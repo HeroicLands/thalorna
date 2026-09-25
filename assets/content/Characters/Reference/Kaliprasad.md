@@ -12,6 +12,7 @@ description: "One of Vedyara's most prominent merchants and a devoted admirer of
 shortcode: kaliprasad
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -26,7 +26,7 @@ data:
   affiliations:
     - provncmktr
   gender: female
-  species: null
+  species: humanflk
   born: 698/2/7
   height: 1.73
   weight: 66.2

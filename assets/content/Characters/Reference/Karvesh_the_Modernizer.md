@@ -12,6 +12,7 @@ description: 'A younger herald of considerable talent who advocates for streamli
 shortcode: karveshthemodernizer
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

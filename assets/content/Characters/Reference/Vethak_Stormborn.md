@@ -12,6 +12,7 @@ description: "The Pâresak tribe's war leader, who has taken the shaman's counse
 shortcode: vethakstormborn
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

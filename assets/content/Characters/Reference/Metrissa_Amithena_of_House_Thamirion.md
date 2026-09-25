@@ -13,6 +13,7 @@ description: "The whole of Cassia's operation is a quiet duel against the unseen
 shortcode: metrissaamithenaofhousethamirion
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

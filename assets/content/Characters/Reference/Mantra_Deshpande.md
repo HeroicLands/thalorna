@@ -12,6 +12,7 @@ description: "The leader of the traditionalist faction within the nobility."
 shortcode: mantradeshpande
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

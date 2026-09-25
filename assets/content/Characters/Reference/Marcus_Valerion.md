@@ -13,6 +13,7 @@ description: "The most influential of the three senior senators who govern Tyrel
 shortcode: marcusvalerion
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

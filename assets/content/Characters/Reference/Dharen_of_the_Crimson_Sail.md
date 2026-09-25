@@ -12,6 +12,7 @@ description: "A merchant captain whom Sénapati once refused to serve because of
 shortcode: dharenofthecrimsonsail
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

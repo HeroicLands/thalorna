@@ -12,6 +12,7 @@ description: "The merchant captain who trained him in youth and remains his clos
 shortcode: merillos
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

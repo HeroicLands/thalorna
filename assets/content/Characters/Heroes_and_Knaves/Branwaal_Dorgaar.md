@@ -27,7 +27,7 @@ data:
     - slntlncmpny
     - kngdmprvnz
   gender: male
-  species: null
+  species: humanflk
   born: 686/3/16
   height: 1.85
   weight: 82

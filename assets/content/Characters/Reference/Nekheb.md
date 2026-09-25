@@ -12,6 +12,7 @@ description: "A wealthy trader in fine furnishings who has built his reputation 
 shortcode: nekheb
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

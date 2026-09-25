@@ -12,6 +12,7 @@ description: "The spiritual leader of the temple recognizes Hélénaia as one of
 shortcode: amara
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

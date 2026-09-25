@@ -12,6 +12,7 @@ description: "A younger merchant whose family was personally helped by Timothéo
 shortcode: theresia
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

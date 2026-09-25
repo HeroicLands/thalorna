@@ -28,7 +28,7 @@ data:
     - thetamzir
     - ctysttshlns
   gender: male
-  species: null
+  species: humanflk
   born: 659/4/27
   height: 1.83
   weight: 77.1

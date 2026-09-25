@@ -12,6 +12,7 @@ description: "The ambitious Town Administrator who views Bazûdar's traditional 
 shortcode: caldus
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -13,6 +13,7 @@ description: "Ârnela's late father, a cautious minor noble who kept his head do
 shortcode: palthenkorisvar
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

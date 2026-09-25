@@ -13,6 +13,7 @@ description: "Officially, no rival; practically, Lysandor is in the service of t
 shortcode: lysandortheundefeated
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "One of the most prominent trading masters in the Sultanate has emp
 shortcode: vashir
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

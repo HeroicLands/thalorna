@@ -12,6 +12,7 @@ description: "A secular courtier who resents the temple's hold on the Per-Aá's 
 shortcode: semerkhentiri
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

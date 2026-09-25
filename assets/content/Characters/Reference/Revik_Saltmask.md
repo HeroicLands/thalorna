@@ -13,6 +13,7 @@ description: "A kindly captain named Revik Saltmask found her stealing bread fro
 shortcode: reviksaltmask
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

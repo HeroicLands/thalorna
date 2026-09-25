@@ -12,6 +12,7 @@ description: "A rival corsair from Leónantos's pirate days, now commanding his 
 shortcode: theodoulosthebitter
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

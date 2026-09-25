@@ -12,6 +12,7 @@ description: "A powerful nobleman and principal patron of the City Theater Compa
 shortcode: architectmerenset
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

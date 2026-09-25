@@ -13,6 +13,7 @@ description: "The current head of the Maritime Shipwrights' Guild, Petrolas acts
 shortcode: petrolas
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

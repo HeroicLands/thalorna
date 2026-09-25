@@ -12,6 +12,7 @@ description: "A wealthy spice trader who values her work above all others and ha
 shortcode: davoud
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -13,6 +13,7 @@ description: "Merchant-Mother Silene Vasquez, one of the more enlightened member
 shortcode: silenevasquez
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

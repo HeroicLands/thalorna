@@ -12,6 +12,7 @@ description: "A gruff military officer who has relied on Phótianos for word of 
 shortcode: nikolausoftheharborguard
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

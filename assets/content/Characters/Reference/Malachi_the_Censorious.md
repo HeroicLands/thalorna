@@ -12,6 +12,7 @@ description: "A zealous religious official who views Bânut's independent practi
 shortcode: malachithecensorious
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

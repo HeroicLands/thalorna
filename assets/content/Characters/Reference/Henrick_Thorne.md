@@ -12,6 +12,7 @@ description: "A merchant prince of considerable wealth who has employed Gunnstei
 shortcode: henrickthorne
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

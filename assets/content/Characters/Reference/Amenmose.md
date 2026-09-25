@@ -12,6 +12,7 @@ description: "A mid-ranking cleric of Ptah (god of craftsmanship and architectur
 shortcode: amenmose
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

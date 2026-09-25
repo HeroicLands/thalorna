@@ -26,7 +26,7 @@ data:
   affiliations:
     - provnchyln
   gender: male
-  species: null
+  species: humanflk
   born: 679/5/25
   height: 1.7
   weight: 62.6

@@ -12,6 +12,7 @@ description: "A noble who has made the surprising commitment to sustainable fore
 shortcode: halrekforestborn
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

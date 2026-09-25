@@ -13,6 +13,7 @@ description: "The Village Elder who sees potential in Bjalfi and has been mentor
 shortcode: karastonekeeper
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

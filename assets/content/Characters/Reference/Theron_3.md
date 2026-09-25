@@ -13,6 +13,7 @@ description: "Commander of Greywater's harbor guard, who has grown suspicious th
 shortcode: theron3
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -27,7 +27,7 @@ data:
   affiliations:
     - repblctrvn
   gender: female
-  species: null
+  species: humanflk
   born: 695/4/19
   height: 1.7
   weight: 61

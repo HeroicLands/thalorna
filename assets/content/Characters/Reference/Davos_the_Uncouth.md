@@ -12,6 +12,7 @@ description: "A wealthy merchant with significant smuggling interests throughout
 shortcode: davostheuncouth
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

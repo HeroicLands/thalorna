@@ -12,6 +12,7 @@ description: "The royal family has begun commissioning items from Skúfrún, inc
 shortcode: solveigofmalagna
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

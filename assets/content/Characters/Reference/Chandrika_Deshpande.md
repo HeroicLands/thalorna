@@ -12,6 +12,7 @@ description: "A noblewoman of impeccable taste who has patronized Prthîmâja's 
 shortcode: chandrikadeshpande
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

@@ -12,6 +12,7 @@ description: "Ser Karos, a lieutenant who served under him in the Black Serpent 
 shortcode: karos
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

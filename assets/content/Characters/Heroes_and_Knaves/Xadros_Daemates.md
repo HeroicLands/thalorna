@@ -26,7 +26,7 @@ data:
   affiliations:
     - hlykngdmnrtm
   gender: male
-  species: null
+  species: humanflk
   born: 682/9/20
   height: 1.85
   weight: 78

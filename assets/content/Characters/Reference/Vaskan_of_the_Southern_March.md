@@ -12,6 +12,7 @@ description: "A noble who has contracted Akhrem for decades, providing both anim
 shortcode: vaskanofthesouthernmarch
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

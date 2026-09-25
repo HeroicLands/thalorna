@@ -12,6 +12,7 @@ description: "In his youth, Tamûra apprenticed under the legendary craftsman Ma
 shortcode: thavinwoodhearth
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

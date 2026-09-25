@@ -12,6 +12,7 @@ description: "A rival warrior who rules lands adjacent to Shâdezar's territory.
 shortcode: kethrenthesorcerer
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

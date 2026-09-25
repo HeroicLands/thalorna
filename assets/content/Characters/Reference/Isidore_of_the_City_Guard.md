@@ -13,6 +13,7 @@ description: "The supreme military commander of Chrysamar personally consults wi
 shortcode: isidoreofthecityguard
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

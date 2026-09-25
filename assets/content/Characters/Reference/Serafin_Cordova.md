@@ -13,6 +13,7 @@ description: "Captain Serafin Cordova, a merchant captain who credits Pálina’
 shortcode: serafincordova
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

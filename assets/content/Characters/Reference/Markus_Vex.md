@@ -13,6 +13,7 @@ description: "A younger, reform-minded herald who has begun to introduce informa
 shortcode: markusvex
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

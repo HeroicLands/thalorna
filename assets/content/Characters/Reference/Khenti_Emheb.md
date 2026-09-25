@@ -12,6 +12,7 @@ description: "A wealthy merchant lord with an obsession with rare fragrances."
 shortcode: khentiemheb
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

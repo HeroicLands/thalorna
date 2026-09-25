@@ -13,6 +13,7 @@ description: "Father Sérismond, high priestess of the Temple of Vénusia, who v
 shortcode: serismond
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

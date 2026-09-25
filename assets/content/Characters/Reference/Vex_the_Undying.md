@@ -13,6 +13,7 @@ description: "An elderly teacher of the Vedyaran shadow-brotherhoods who holds t
 shortcode: vextheundying
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []

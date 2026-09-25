@@ -12,6 +12,7 @@ description: "A decorated military officer of the Kingdom of Élavendre who acts
 shortcode: nerida
 type: being
 data:
+  species: humanflk
   templatePriority: null
   archetypes: []
   stations: []
