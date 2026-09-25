@@ -105,11 +105,7 @@ data:
         ruling. Most fail; the avenue exists.
       Vōrjīk Jëk: >-
         Vōrjīk Jëk—The Lord of Fire—the being this bureau or cultus is organized around.
-  commonSkills:
-    - vorjikjek
-    - tngthkscrpt
-    - draw
-    - law
+  commonSkills: []
   seat: null
   domains: []
   population: null

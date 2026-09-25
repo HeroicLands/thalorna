@@ -79,10 +79,7 @@ data:
         the eastern road, and the midwinter Festival of the Going-Down, when the sun sets straight down the
         corridor of the royal dead into the necropolis. The sightlines are kept clear by a law older than
         memory, and nothing may stand in that line.
-  commonSkills:
-    - ra
-    - math
-    - khprsshscrpt
+  commonSkills: []
   seat: iattepy
   domains: []
   population: null

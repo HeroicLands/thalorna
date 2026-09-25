@@ -65,10 +65,7 @@ data:
       Second of the Watch: >-
         A practitioner seconded from another House for a term, who returns to it afterward and is thereafter
         watched for life.
-  commonSkills:
-    - isfet
-    - khprsshscrpt
-    - folklr
+  commonSkills: []
   seat: null
   domains: []
   population: null

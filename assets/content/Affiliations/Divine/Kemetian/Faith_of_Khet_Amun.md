@@ -59,10 +59,7 @@ data:
       Warden of the Sacred Stones: >-
         Keeps the boundary shrines and sacred stones that mark the god's reach. Unauthorized hunting
         or fishing within them is punishable by death.
-  commonSkills:
-    - khetamun
-    - srvl
-    - melee
+  commonSkills: []
   seat: null
   domains: []
   population: null

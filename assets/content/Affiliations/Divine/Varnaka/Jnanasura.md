@@ -1,5 +1,5 @@
 ---
-description: "Knowledge."
+description: "Religion of the god of wisdom and of the work of the mind."
 tags:
   - varnaka
   - deity

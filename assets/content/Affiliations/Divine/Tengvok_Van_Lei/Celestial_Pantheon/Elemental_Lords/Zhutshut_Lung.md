@@ -105,11 +105,7 @@ data:
         ruling. Most fail; the avenue exists.
       Zhütshüt Lüng: >-
         Zhütshüt Lüng—The Lord of Water—the being this bureau or cultus is organized around.
-  commonSkills:
-    - zhutshtlng
-    - tngthkscrpt
-    - draw
-    - law
+  commonSkills: []
   seat: null
   domains: []
   population: null

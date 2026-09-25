@@ -68,11 +68,7 @@ data:
         alike are held to be magical acts: a properly executed tomb painting does not merely depict
         the afterlife, it is the afterlife, made real through correct form—which is why perfection
         of the established form is valued over innovation.
-  commonSkills:
-    - ptah
-    - eng
-    - masn
-    - draw
+  commonSkills: []
   seat: null
   domains: []
   population: null

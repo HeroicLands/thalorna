@@ -102,8 +102,7 @@ data:
         behind him.
       House Physician: Keeper of the Companions' health, and of a great deal that is never
         written down.
-  commonSkills:
-    - vedyarlng
+  commonSkills: []
   seat: sandhyagrha
   domains: []
   population: null

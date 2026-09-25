@@ -69,11 +69,7 @@ data:
         Endowed to lay bread and beer and say the rites at a tomb's offering-chapel. The endowment
         is the tomb's true defense: where a cult dwindles or a line is forgotten, decay creeps
         in—and those are exactly the reaches where the tomb-robbers work.
-  commonSkills:
-    - anubis
-    - pysn
-    - herb
-    - khprsshscrpt
+  commonSkills: []
   seat: khensuret
   domains: []
   population: null

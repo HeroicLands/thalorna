@@ -52,10 +52,7 @@ data:
         Runs the festival calendar the nome's year turns on.
       Blesser of the Caravans: >-
         Sends out and receives the caravans on the eastern desert roads, the nome being their head.
-  commonSkills:
-    - min
-    - srvl
-    - mrcn
+  commonSkills: []
   seat: null
   domains: []
   population: null

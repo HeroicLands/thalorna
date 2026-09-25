@@ -110,11 +110,7 @@ data:
       Advocate of the Strike: >-
         Prosecutes a family's appeal that a lightning strike breached the protocols for
         proportional punishment—a recognized social practice, and usually unsuccessful.
-  commonSkills:
-    - rekgung
-    - tngthkscrpt
-    - draw
-    - law
+  commonSkills: []
   seat: null
   domains: []
   population: null

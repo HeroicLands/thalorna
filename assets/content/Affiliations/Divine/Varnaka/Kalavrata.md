@@ -1,5 +1,5 @@
 ---
-description: "Death."
+description: "Religion of the warden of the threshold between the life that has ended and the life that is to come."
 tags:
   - varnaka
   - deity

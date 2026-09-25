@@ -53,10 +53,7 @@ data:
         it every tax roll, contract and temple record in Ta'Kheperu.
       Priest of the Fowling-Grounds: >-
         Keeps the rites of the marsh, where fowling and reed-craft are the whole of the local livelihood.
-  commonSkills:
-    - wadjit
-    - srvl
-    - folklr
+  commonSkills: []
   seat: null
   domains: []
   population: null

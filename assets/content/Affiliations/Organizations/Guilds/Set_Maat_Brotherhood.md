@@ -76,10 +76,7 @@ data:
         duty, not a matter of taste.
       Warden of the Shrines: >-
         Keeps the village's own shrines, which it maintains apart from the great temples it works for.
-  commonSkills:
-    - masn
-    - draw
-    - kheperlng
+  commonSkills: []
   seat: setmaat
   domains: []
   population: null

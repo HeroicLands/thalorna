@@ -1,5 +1,5 @@
 ---
-description: "Travelers."
+description: "The Wandering Wind, a company of minor wind-spirits who guide travelers, carry merchant-ships before favorable gales, and whisper the road's omens to those who have learned to listen."
 tags:
   - varnaka
   - deity

@@ -57,10 +57,7 @@ data:
       Priest of the Chariot-Corps: >-
         Attached to the garrison heartland of Per-Mentu, where the chariot-corps drill-grounds and the
         officer schools are.
-  commonSkills:
-    - mentu
-    - melee
-    - srvl
+  commonSkills: []
   seat: behen
   domains: []
   population: null

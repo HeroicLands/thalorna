@@ -1,5 +1,5 @@
 ---
-description: "Universal."
+description: "Othodox, foundational religion of most Vedyaran city-states, balanced veneration of the cosmic triad."
 tags:
   - varnaka
   - faith

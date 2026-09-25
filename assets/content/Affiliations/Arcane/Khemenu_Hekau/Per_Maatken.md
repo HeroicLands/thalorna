@@ -61,10 +61,7 @@ data:
       Warden of Seals: >-
         Sets and certifies the seals on tombs, treasuries and archives, and is answerable if one is found to
         have been bluff.
-  commonSkills:
-    - mekhat
-    - khprsshscrpt
-    - law
+  commonSkills: []
   seat: null
   domains: []
   population: null

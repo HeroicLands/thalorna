@@ -76,11 +76,7 @@ data:
       Watcher: >-
         Keeps the cultus ahead of the Celestial Marshals and the archive's inspectors, and carries
         out the sentence when loyalty fails.
-  commonSkills:
-    - vekthor
-    - tngthkscrpt
-    - draw
-    - law
+  commonSkills: []
   seat: null
   domains: []
   population: null

@@ -11,7 +11,7 @@ name:
     - The Shadow-Vow
 shortcode: chayavrata
 type: affiliation
-subType: arcanetradition
+subType: criminal
 data:
   banner: faithbnr
   icon: null

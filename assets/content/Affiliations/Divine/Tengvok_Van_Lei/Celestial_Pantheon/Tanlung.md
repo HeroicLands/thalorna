@@ -109,11 +109,7 @@ data:
         ruling. Most fail; the avenue exists.
       Tānlüng: >-
         Tānlüng—The First Classifier—the being this bureau or cultus is organized around.
-  commonSkills:
-    - tanlung
-    - tngthkscrpt
-    - draw
-    - law
+  commonSkills: []
   seat: null
   domains: []
   population: null
