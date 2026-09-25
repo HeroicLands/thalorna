@@ -75,7 +75,7 @@ SELECT lr.name.full || ' — ' || lr.description AS _section,
        min(min(r.level)) OVER (PARTITION BY lr.shortcode) AS _rung,
        lr.name.full                            AS _function
 FROM peoples p, unnest(p.data.governance.ranks) AS t(r)
-JOIN notes lr ON lr.shortcode = r.lore AND lr.file.folder = 'Lore/Ranks'
+JOIN notes lr ON concat(lr.package, '-none-', lr.type, '-', lr.shortcode) = r.lore AND lr.file.folder = 'Lore/Ranks'
 WHERE p.people IS NOT NULL
 GROUP BY lr.shortcode, lr.name.full, lr.description, p.people
 ORDER BY _rung, _function, p.people
@@ -105,7 +105,7 @@ SELECT lr.name.full || ' — ' || lr.description AS _section,
        min(min(r.level)) OVER (PARTITION BY lr.shortcode) AS _rung,
        lr.name.full                            AS _function
 FROM traditions t, unnest(t.data.governance.ranks) AS u(r)
-JOIN notes lr ON lr.shortcode = r.lore AND lr.file.folder = 'Lore/Ranks'
+JOIN notes lr ON concat(lr.package, '-none-', lr.type, '-', lr.shortcode) = r.lore AND lr.file.folder = 'Lore/Ranks'
 WHERE t.tradition IS NOT NULL AND t.tradition <> ''
 GROUP BY lr.shortcode, lr.name.full, lr.description, t.tradition
 ORDER BY _rung, _function, t.tradition
