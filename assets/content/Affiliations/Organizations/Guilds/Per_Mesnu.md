@@ -69,7 +69,6 @@ data:
       First Smith of the Per-Aá: >-
         Imy-Khent Mesnu—chair of the Council of Smiths, presently Khâfra Sebenmery, who
         coordinates the guild's central affairs and its bargaining with the Per-Aá's court.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -78,7 +77,9 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 _Kheperi: "The House of the Mesnu"—the guild of metalworkers, after the ancient smith-harpooners who forged the weapons of Horus_

@@ -78,7 +78,6 @@ data:
       Watcher: >-
         Keeps the cultus ahead of the Celestial Marshals and the archive's inspectors, and carries
         out the sentence when loyalty fails.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -91,7 +90,9 @@ data:
     tngvkvnlei: aligned
     yokveng: aligned
 packFolder: yokveng
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## The Lesser Demons—Yōkvëng

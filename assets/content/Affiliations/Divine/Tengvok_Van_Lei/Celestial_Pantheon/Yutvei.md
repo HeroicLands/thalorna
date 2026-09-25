@@ -106,7 +106,6 @@ data:
         ruling. Most fail; the avenue exists.
       Yütvëi: >-
         Yütvëi—The Keeper of the Jade Seal—the being this bureau or cultus is organized around.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -119,7 +118,9 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## Yütvëi—The Keeper of the Jade Seal

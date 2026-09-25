@@ -91,8 +91,6 @@ data:
       Dūta: >-
         The envoy the mother-temples send jointly to a patron court, to the Mela and to the
         coastal houses that buy the timber.
-  commonSkills:
-    - vedyarlng
   seat: null
   domains:
     - bharavavana
@@ -111,7 +109,10 @@ data:
     gomarga: unaligned
 terran_analog: "Temple-estate tenure of the medieval Indian forest belt—devadana holdings under ordained managers, worked by forest-dwelling communities under licence and yielding resin, lac, hardwood and spice instead of land revenue"
 packFolder: vedyara
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - vedyarlng
 ---
 
 The **Bhārava-Devabhoga** is the government of [[place-bharavavana|Bhāravavana]], the forest country of the lower [[place-bharavarivr|Bhārava]]. _Devabhoga_ is the god's portion: land given to a temple in perpetuity, out of which the temple is fed. Here the land given was forest, the gift was made many times over across fifteen centuries, and what accumulated is the only country in [[place-vedyarargn|Vedyara]] where no assembly sits and no sabhā meets.

@@ -53,7 +53,6 @@ data:
         it every tax roll, contract and temple record in Ta'Kheperu.
       Priest of the Fowling-Grounds: >-
         Keeps the rites of the marsh, where fowling and reed-craft are the whole of the local livelihood.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -70,7 +69,9 @@ name:
     - Wadjit, The Cobra-Goddess
 shortcode: wadjit
 packFolder: pantheonskemetian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 A delta cult of the papyrus marshes, whose nome lives by fowling, reed-craft and the empire's paper-cutting. The goddess's reach is quiet but very long: in a civilization that runs on records, the reed-beds her priests bless are the material the scribal empire is written on.

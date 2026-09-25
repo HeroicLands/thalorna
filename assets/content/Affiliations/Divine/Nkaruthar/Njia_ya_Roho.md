@@ -81,13 +81,6 @@ data:
         when a blade has chosen.
       Bone-Reader: >-
         Attends the dead and reads what the Oracle of Bones is understood to have written in them.
-  commonSkills:
-    - mamamitosprt
-    - ngurumosprt
-    - kivulisprt
-    - orclbonessprt
-    - mzazisprt
-    - upangasprt
   seat: null
   domains: []
   population: null
@@ -98,7 +91,15 @@ data:
   relations:
     nkaruthar: aligned
 packFolder: pantheonsnkaruthar
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - mamamitosprt
+      - ngurumosprt
+      - kivulisprt
+      - orclbonessprt
+      - mzazisprt
+      - upangasprt
 ---
 
 The **Njia ya Roho**—the Spirit Path—is the shamanic tradition of the Okháric tribes: the

@@ -35,7 +35,6 @@ data:
           the throne. The council's de facto mediators come from among them, and wield enormous
           informal power.
     offices: {}
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -43,7 +42,9 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 A formal assembly of the empire's most powerful aristocratic families, convened in the capital to advise the Per-Aá on matters of internal policy, succession disputes, and inter-nome relations. The Kenbet'Pat has no legislative authority—the Per-Aá's word is law—but in practice no Per-Aá governs effectively without its cooperation. Meetings are elaborate affairs conducted with full ceremonial protocol, and the council's de facto mediators wield enormous informal power.

@@ -81,7 +81,6 @@ data:
         Father or Mother of the god—the highest office, held by one person.
       Godi/Gydja: >-
         The working priest or priestess of a hall, who keeps its rites and its people.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -98,7 +97,9 @@ name:
     - The Serpent's Path
 shortcode: loki
 packFolder: pantheonsasguardian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 Lôki, the god of cunning, deception, and thieves, is the archetypal trickster—an unpredictable force of chaos and disruption. He is revered and feared in equal measure, embodying a dynamic, shape-shifting energy that defies the status quo and undermines conventional power structures. His followers are a diverse group, including assassins, thieves, and the downtrodden—those who lurk in society's shadows and navigate its underworld.

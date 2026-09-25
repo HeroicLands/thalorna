@@ -37,7 +37,6 @@ data:
       Disputes Committee: >-
         Arbiter of the quarrels between members that the parties would rather not carry into
         a ruler's court.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -54,7 +53,9 @@ data:
     rajaprjnpd: aligned
     dhnrktjnpd: aligned
     suvrgrjnpd: unaligned
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 _Vedyaran: Sangha-Sabhā—"the Assembly of the Compact"_

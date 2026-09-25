@@ -62,17 +62,6 @@ data:
         A working priest ordained to one of the three, who nonetheless keeps the rites of the other two.
       Keeper of the Three Rites: >-
         Charged with the temple's observance of all three forms in their proper proportion, which is what the Sampradāya exists to maintain.
-  commonSkills:
-    - trimurtisampradaya
-    - eng
-    - agri
-    - mrcn
-    - srvl
-    - math
-    - folklr
-    - law
-    - dscr
-    - sing
   seat: null
   domains:
     - chandrprbh
@@ -90,7 +79,19 @@ data:
     thresholdkeepers: aligned
     chayavrata: nemesis
 packFolder: pantheonsvarnaka
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - trimurtisampradaya
+      - sohl-sohl-skill-eng
+      - sohl-sohl-skill-agri
+      - sohl-sohl-skill-mrcn
+      - sohl-sohl-skill-srvl
+      - sohl-sohl-skill-math
+      - sohl-sohl-skill-folklr
+      - sohl-sohl-skill-law
+      - sohl-sohl-skill-dscr
+      - sohl-sohl-skill-sing
 ---
 
 ## Trimūrti-sampradāya—The Tradition of the Three Forms

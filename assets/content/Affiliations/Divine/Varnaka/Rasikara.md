@@ -45,9 +45,6 @@ data:
         A three-day fast beside the cooling ashes of a cremation, meditating on the transformation the fire has performed.
       The Firebrand's Year: >-
         A year of itinerant service carrying a lit torch from settlement to settlement, kindling purgation-fires wherever asked.
-  commonSkills:
-    - rasikara
-    - srvl
   seat: null
   domains: []
   population: null
@@ -59,7 +56,11 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - rasikara
+      - sohl-sohl-skill-srvl
 ---
 
 ## Rásikara—The Flame of Renewal

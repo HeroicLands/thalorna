@@ -85,8 +85,6 @@ data:
       Commander of the Watch: >-
         Captain of the city watch, by long custom a graduate of the Dhanurkota academies and by
         as long a custom not a Vyālendri.
-  commonSkills:
-    - vedyarlng
   seat: vyalendra3
   domains:
     - vyalendraland
@@ -106,7 +104,10 @@ data:
     dhnrktjnpd: aligned
     rajaprjnpd: aligned
 packFolder: vedyara
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - vedyarlng
 ---
 
 Vyālendra, "the City of Ten Thousand Looms," has long been the textile capital of southern Vedyara. Silk and cotton cloth woven here bear patterns and dyes unknown elsewhere, the result of centuries of refinement and closely guarded techniques passed from master weavers to their apprentices.

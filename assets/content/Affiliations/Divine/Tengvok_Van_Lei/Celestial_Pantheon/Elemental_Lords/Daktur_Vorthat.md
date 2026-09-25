@@ -105,7 +105,6 @@ data:
         ruling. Most fail; the avenue exists.
       Dāktūr Vōrthāt: >-
         Dāktūr Vōrthāt—The Lord of Metal—the being this bureau or cultus is organized around.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -118,7 +117,9 @@ data:
   relations:
     tngvkvnlei: aligned
 packFolder: elementallords
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## Dāktūr Vōrthāt—The Lord of Metal

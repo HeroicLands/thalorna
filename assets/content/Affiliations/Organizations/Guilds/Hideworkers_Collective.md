@@ -15,7 +15,6 @@ data:
       length from the cities it supplies.
     ranks: []
     offices: {}
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -28,7 +27,9 @@ name:
   aliases: []
 shortcode: hideworkerscltv
 packFolder:
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 A collective of hideworkers—the tanners, curriers and leatherdressers of a trade kept at arm's length from the cities it supplies.

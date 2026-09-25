@@ -60,7 +60,6 @@ data:
         Imy-Khent Nuw—chair of the Council of the Long Spear, presently Wermeryt Khentkawes,
         unifying the guild's specialty divisions and speaking for it to the imperial
         administration.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -74,7 +73,9 @@ data:
     sobek: aligned
     sekhetneru: aligned
     permesnu: aligned
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 _Kheperi: "The House of Hunters"—the guild of professional hunters of Ta'Kheperu_

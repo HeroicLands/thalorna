@@ -64,7 +64,6 @@ data:
       Raiser: >-
         Sets the workings that animate a made body—the standing servant, and the shabti Per-Imnetáu
         binds.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -84,7 +83,9 @@ name:
     - The House of Form
 shortcode: khatnu
 packFolder: khemenuhekau
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## Per-Khat'nu (House of the Body)

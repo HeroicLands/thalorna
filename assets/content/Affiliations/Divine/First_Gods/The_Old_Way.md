@@ -83,16 +83,6 @@ data:
       Warder: >-
         Charged with the protective songs and objects carried against the hostile Kindred, and
         with knowing whose territory must not be entered.
-  commonSkills:
-    - aranwysprt
-    - awelonsprt
-    - ataansprt
-    - cadwyrsprt
-    - nyfainsprt
-    - rhysgensprt
-    - gwalchensprt
-    - arthgensprt
-    - tanwensprt
   seat: null
   domains: []
   population: null
@@ -114,7 +104,18 @@ data:
   relations:
     firstgods: aligned
 packFolder: pantheonsfirstgods
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - aranwysprt
+      - awelonsprt
+      - ataansprt
+      - cadwyrsprt
+      - nyfainsprt
+      - rhysgensprt
+      - gwalchensprt
+      - arthgensprt
+      - tanwensprt
 ---
 
 - **Pantheon:** [[affiliation-firstgods|The First Gods]]

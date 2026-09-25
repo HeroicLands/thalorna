@@ -57,7 +57,6 @@ data:
         when crocodiles threaten the villages along the Taméresh, and the guild's own doctrine holds
         that wantonness in the killing offends the gods as well as the imperial order—so the cull is
         a religious act before it is a commercial one.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -74,7 +73,9 @@ name:
     - Sobek, The Crocodile-God
 shortcode: sobek
 packFolder: pantheonskemetian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 The great crocodile cult, seated in the eastern marsh at Hut-Sobek among the river-beast hunters, and patron besides of a dry garrison nome of desert wells and quarry-roads and of the narrow gorge-stretch where the valley pinches to almost nothing. Its central difficulty is that the beast sacred to the god is also the beast that takes farmers and children along the river, and must sometimes be killed.

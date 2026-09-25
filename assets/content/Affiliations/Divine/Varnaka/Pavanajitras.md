@@ -44,10 +44,6 @@ data:
         A year of continuous travel, visiting every shrine of the Wandering Wind within a named region and keeping a record of the offerings left.
       The Silent Caravan: >-
         A full season accompanying a merchant caravan, speaking only the ceremonial words of the rites and serving the company as directed.
-  commonSkills:
-    - pavanajitras
-    - srvl
-    - mrcn
   seat: null
   domains: []
   population: null
@@ -59,7 +55,12 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - pavanajitras
+      - sohl-sohl-skill-srvl
+      - sohl-sohl-skill-mrcn
 ---
 
 ## Pavanajitras—The Wandering Wind

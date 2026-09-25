@@ -65,7 +65,6 @@ data:
       Corrector: >-
         Called by another House when a form fails, to determine whether the fault lies in the name or in the
         execution.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -84,7 +83,9 @@ name:
     - The House of Name
 shortcode: rensesh
 packFolder: khemenuhekau
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## Per-Ren'sesh (House of the Name)

@@ -87,8 +87,6 @@ data:
       Keeper of the Feud: >-
         Recorder of blood owed and blood paid between kindreds, without whom a settlement
         cannot be reckoned.
-  commonSkills:
-    - varokhlng
   seat: waldburg
   domains:
     - vrystwald
@@ -107,7 +105,10 @@ data:
     grukarholm: nemesis
     vylarinmpr: rival
 packFolder: vrystwald
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - varokhlng
 ---
 
 ## Overview

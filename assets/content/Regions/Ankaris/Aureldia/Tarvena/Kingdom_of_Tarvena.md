@@ -150,8 +150,6 @@ data:
       Manorial Officer: >-
         Any office serving a single manor rather than the realm, held of the manor's lord
         and answerable to him rather than to the crown.
-  commonSkills:
-    - tarvenlng
   seat: kavrenath
   domains:
     - tarvenirgn
@@ -173,7 +171,10 @@ data:
     vylarinmpr: nemesis
 terran_analog: "Central Spain (including Andorra) and southeastern France up to the southern Alps—the senior of the four Tarvénan feudal kingdoms, holding the central plateau and the principal mountain passes."
 packFolder: tarvenia
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - tarvenlng
 ---
 
 ## Overview

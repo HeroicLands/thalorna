@@ -43,10 +43,6 @@ data:
         A sleepless watch over the community granary through a night when the spirits of the fields are said to walk.
       The Fair Measure: >-
         A year of public measurement—grain, cloth, wine, oil—completed without one complaint of short weight from any party.
-  commonSkills:
-    - mahajaya
-    - agri
-    - mrcn
   seat: null
   domains: []
   population: null
@@ -58,7 +54,12 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - mahajaya
+      - sohl-sohl-skill-agri
+      - sohl-sohl-skill-mrcn
 ---
 
 ## Mahájaya—The Eternal Preserver

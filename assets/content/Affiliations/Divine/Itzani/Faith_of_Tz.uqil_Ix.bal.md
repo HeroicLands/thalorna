@@ -111,8 +111,6 @@ data:
       Master of the Platforms: >-
         Oversees sky burial where it is practiced: the exposure of bodies, the reading of the
         birds, and the gathering of the bared bone.
-  commonSkills:
-    - tzuqilixbal
   seat: null
   domains: []
   population: null
@@ -123,7 +121,10 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - tzuqilixbal
 ---
 
 **Domain:** Death, Decay, and the Underworld

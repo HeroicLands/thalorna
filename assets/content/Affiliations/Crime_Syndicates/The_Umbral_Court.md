@@ -95,7 +95,6 @@ data:
       Herald: >-
         Keeper of the old registers and grantor of titles, whose office maintains the genealogies
         on which the whole claim rests.
-  commonSkills: []
   seat: ravenmoor
   domains: []
   population: null
@@ -108,7 +107,9 @@ data:
     justbladeordr: rival
     velvethand: aligned
 packFolder: crimesyndicates
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 The **Umbral Court** is the criminal power of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], and

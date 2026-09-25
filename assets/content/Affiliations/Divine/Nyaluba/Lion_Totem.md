@@ -59,8 +59,6 @@ data:
         Conductor of the ordeal at which a Mvuzi takes the lion-tooth and enters the tradition.
       Keeper of the Tally: >-
         Recorder of the offerings owed and made where the herds cross the guide's ground.
-  commonSkills:
-    - lionmvuzisprt
   seat: null
   domains: []
   population: null
@@ -79,7 +77,10 @@ name:
     - Mvuzi Totem
 shortcode: nyalblion
 packFolder: nyaluba
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - lionmvuzisprt
 ---
 
 The **Lion Totem** is the guide of the [[affiliation-nylbtrblntn|Mvuzi]], the cattle-herding clan of the central grasslands and the most numerous of the five. The Mvuzi do not admire the lion; they understand themselves to be _of_ it. They do not hunt lions, do not eat lion flesh, and are held to the bearing the guide embodies—courage, sovereignty, and challenge made in the open rather than from cover.

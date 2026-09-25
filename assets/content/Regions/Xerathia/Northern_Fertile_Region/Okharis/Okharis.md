@@ -85,8 +85,6 @@ data:
       Oracle: Speaker of the god's answer, consulted before any royal undertaking of consequence.
       Warden of the Frontier: Holder of a border district, charged with the tribes beyond
         it.
-  commonSkills:
-    - okharclng
   seat: zarhanor
   domains:
     - okharisrgn
@@ -103,7 +101,10 @@ data:
     empirtkhpr: unaligned
 terran_analog: "Niger + Mali + Chad (the Sahel—pastoral savanna with temple-city trading centers)"
 packFolder: okharis
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - okharclng
 ---
 
 ## Overview

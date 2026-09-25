@@ -60,8 +60,6 @@ data:
         Recorder of the offerings owed by each household of the town to its tree.
       Initiator: >-
         Conductor of the ordeal, conducted in the tree's shade over the course of a full day.
-  commonSkills:
-    - baobabbombwesprt
   seat: null
   domains: []
   population: null
@@ -80,7 +78,10 @@ name:
     - Bombwe Totem
 shortcode: nyalbbaob
 packFolder: nyaluba
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - baobabbombwesprt
 ---
 
 The **Baobab Totem** is the guide of the [[affiliation-nylbtrblntn|Bombwe]], the settled cultivators of the perennial-water districts—long-rootedness, the gathering-place, and the keeping of stories. The Bombwe are the smallest of the five clans and the ritually senior one, because it is Bombwe griots who carry the official memory of the Long Pact and the genealogies of all five clans. They speak last in any council, and what they say is generally remembered.

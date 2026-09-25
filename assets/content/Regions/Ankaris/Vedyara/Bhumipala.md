@@ -90,8 +90,6 @@ data:
       Dūta: Envoy to a foreign court, whose person is protected by custom on both sides of
         the frontier.
       Ganaka: Court astrologer, fixing the auspicious hour for campaigns, marriages and coronations.
-  commonSkills:
-    - vedyarlng
   seat: sandhyapur
   domains:
     - bhumipalaland
@@ -114,7 +112,10 @@ data:
     chandrapur: unaligned
     mrchntclctvvdyr: aligned
 packFolder: vedyara
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - vedyarlng
 ---
 
 ## Overview

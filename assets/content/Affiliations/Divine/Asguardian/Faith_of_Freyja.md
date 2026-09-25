@@ -83,7 +83,6 @@ data:
         Father or Mother of the god—the highest office, held by one person.
       Godi/Gydja: >-
         The working priest or priestess of a hall, who keeps its rites and its people.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -100,7 +99,9 @@ name:
     - The Golden Path
 shortcode: freyja
 packFolder: pantheonsasguardian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 Fréyja, the goddess of love, beauty, and prosperity, stands as an alluring and multifaceted figure in the pantheon. She inspires passion and enchantment, capturing the hearts of all who seek her favor. As the goddess of prosperity, she is a powerful patroness for merchants, usurers, and all who pursue wealth.

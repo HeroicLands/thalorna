@@ -97,7 +97,6 @@ data:
       Watcher: >-
         Keeps the cell ahead of the Tz'umaq'ob who hunt it—routes, informers, and the point
         at which a village must be abandoned.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -117,7 +116,9 @@ name:
     - Serpent Awakeners
 shortcode: tzumaqkalanil
 packFolder: pantheonitzani
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 The **Tz'umaq K'alanil** ("Serpent Awakeners") are heterodox factions found in the deepest jungle regions, far from the great city-states. They teach that the Fifth Age has become irredeemably corrupt and that hastening [[affiliation-puqilchaqun|P'uqil Ch'aqun]]'s awakening would be a mercy—that destruction would wipe clean a stained world and allow the Sixth Age to begin pure. These sects are hunted and suppressed by orthodox authorities, their temples destroyed, their priests executed. But the theology is seductive to the desperate and the oppressed, and the movement resurfaces repeatedly in different places, under different names.

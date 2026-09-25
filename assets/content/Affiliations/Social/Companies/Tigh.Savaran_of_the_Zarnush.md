@@ -81,7 +81,6 @@ data:
       Surgeon: Keeper of the company's wounded, and commonly the only lettered member besides
         the purser.
       Standard-Bearer: Carrier of the company's banner, by which it is known and hired.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -96,7 +95,9 @@ name:
     - Sworn Blades of the Zarnûsh
     - Riders of the Burning Wind
 shortcode: tghsvrnzrnsh
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 **The Tîgh'Savâran of the Zarnûsh:** _The Riders of the Burning Wind_

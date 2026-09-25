@@ -95,8 +95,6 @@ data:
       Archivist: Keeper of the genealogies, on which every House's claim to standing rests.
       Harbour-Mistress: Warden of a port, collecting its dues and licensing the privateers
         that sail from it.
-  commonSkills:
-    - bethunlng
   seat: bethura
   domains:
     - bethuargn
@@ -115,7 +113,10 @@ data:
     ctysttshlns: unaligned
 terran_analog: "Morocco + Algeria + Tunisia + Libya (Maghreb / Carthage—Mediterranean coast shading into Saharan interior)"
 packFolder: bethua
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - bethunlng
 ---
 
 ## Overview

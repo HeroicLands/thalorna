@@ -76,7 +76,6 @@ data:
         and worse.
       Bursar: Keeper of the tradition's endowment, its houses and its stipends.
       Envoy: The tradition's representative to a court or a rival school.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -95,7 +94,9 @@ name:
 thalorna:
   school: earth
 packFolder: affiliationshexhodai
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 **Physéra** is the Eídma of stone, growth, endurance, the body, and all that is solid and rooted. It occupies the right vertex of the [[lore-hexhodai|Sigillum]], directly opposite [[affiliation-pneumenos|Pneuménos]]. Where Spirit reaches beyond the material, Earth insists on the primacy of what can be touched, tasted, grown, and built. Eídma Physéra is the largest of the six Sodalitates by membership—a fact its practitioners regard as entirely appropriate, since most of the world is, after all, made of earth.

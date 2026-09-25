@@ -72,7 +72,6 @@ data:
       Warden of the Library-Temple: >-
         Holds the deepest archive in the empire and controls admission to it. Helionite scholars are among
         the very few foreigners ever admitted.
-  commonSkills: []
   seat: khemenu
   domains: []
   population: null
@@ -93,7 +92,9 @@ name:
     - The Scribe of the Eternal Library
 shortcode: thoth
 packFolder: pantheonskemetian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 Thōth stands as the custodian of all knowledge, the divine scribe who records not merely the deeds of mortals but the very workings of the cosmos itself. In the vaults of the Eternal Library—a celestial archive that exists simultaneously within and beyond the world—Thōth inscribes every moment of creation with his ibis quill, ensuring that nothing of importance is ever truly lost to time. He is depicted as a figure of profound wisdom, often shown with the head of an ibis or crowned with the lunar crescent, for he governs not only the moon's cycles but the rhythmic patterns by which mortals organize knowledge and time.

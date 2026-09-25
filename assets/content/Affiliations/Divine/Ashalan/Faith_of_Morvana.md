@@ -76,7 +76,6 @@ data:
       Caravan Priest: >-
         A Hērbad who travels with the caravans and ministers to tribal communities beyond any
         temple's reach.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -94,7 +93,9 @@ name:
 shortcode: morvahna
 alias: Mórváhñä, The Silent Keeper
 packFolder: ashaian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 Mórváhñä is the goddess of decay, endings, transformation, and renewal. She oversees the cycles of death and rebirth that turn the world, the slow dissolution of the ancient into the substrate from which the new will grow. She is the sister of [[affiliation-azravan|Ázráván]], but where Ázráván governs the soul's passage and the moment of transition, Mórváhñä governs the body's return and the dissolution of physical form back into its constituent elements. She is not feared as death is feared, nor is she honored with the ceremonial formality with which [[affiliation-ataros|Ātáröš]] is reverenced. Rather, Mórváhñä is acknowledged with quiet understanding: she is the necessary, inevitable, and ultimately compassionate principle through which the world maintains balance.

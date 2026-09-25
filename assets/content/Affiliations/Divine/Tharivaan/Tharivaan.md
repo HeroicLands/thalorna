@@ -82,7 +82,6 @@ data:
         installations. No foreigner has ever been permitted to visit any of them.
       Teacher of the kaan'sili: >-
         The kaan'vaar's standing charge: the formation of the next generation, which is how an oral custodial tradition survives at all.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -92,7 +91,9 @@ data:
     - tharivaan
   relations: {}
 packFolder: pantheonstharivaan
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## Thári'vaan: The Living Whole

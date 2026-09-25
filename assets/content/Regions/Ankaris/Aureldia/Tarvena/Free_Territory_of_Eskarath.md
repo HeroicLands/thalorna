@@ -89,8 +89,6 @@ data:
       Keeper of the Feud: >-
         Recorder of blood owed and blood paid between kindreds, without whom a settlement
         cannot be reckoned.
-  commonSkills:
-    - tarvenlng
   seat: null
   domains:
     - eskarath
@@ -108,7 +106,10 @@ data:
     kingdmtrvn: unaligned
     kngdmlvndr: unaligned
 packFolder: tarvenia
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - tarvenlng
 ---
 
 - **Overlord:** [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] (barely acknowledged)

@@ -111,8 +111,6 @@ data:
       Keeper of the Sleepers: >-
         Attends those who dream badly or will not wake, and the bereaved sent here by the
         death-walkers.
-  commonSkills:
-    - naliktzuqal
   seat: null
   domains: []
   population: null
@@ -123,7 +121,10 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - naliktzuqal
 ---
 
 **Domain:** Dreams, Visions, Prophecy, and the Moon

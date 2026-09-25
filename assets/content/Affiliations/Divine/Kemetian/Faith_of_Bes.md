@@ -54,7 +54,6 @@ data:
         Assists through the nightlong festival vigils, which is where the acolyte's aptitude for the god's work first shows.
       Shrine-Keeper: >-
         Maintains the shrines and prepares the incense and offerings.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -71,7 +70,9 @@ name:
     - Bēs, Guardian of Night Visions
 shortcode: bes
 packFolder: pantheonskemetian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 Bēs is the Kemetían name for [[lore-goddreams|The God of Dreams]], a deity far older than any single civilization. Known to the [[lore-flksinale|Sinalë]] since time immemorial and worshipped by countless peoples across the lands of Thalorna, this ancient god manifests uniquely in the Kemetían faith as a protective guardian of sleep and the visions it brings. While the Asguardian peoples call this deity Baldr and the Aurèldían peoples know them as Aethería, the Kheperi understand the god through Bēs—not as a distant celestial force, but as an intimate companion who walks through the night with each sleeping mortal.

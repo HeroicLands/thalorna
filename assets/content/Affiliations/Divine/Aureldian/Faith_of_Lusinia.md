@@ -54,7 +54,6 @@ data:
         Young initiates training in spiritual practice alongside gardening, herbalism and midwifery.
       Collegium of Growing Things: >-
         The body in which the faith's practical knowledge of cultivation is held and taught.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -72,7 +71,9 @@ name:
     - Lúsinía
 shortcode: lusinia
 packFolder: pantheonsaureldian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 Goddess of life, earth, and creation. Lúsinía spins the fabric of existence and nurtures all living beings, from the smallest seed to the mightiest beast.

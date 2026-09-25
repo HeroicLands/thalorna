@@ -94,7 +94,6 @@ data:
       Ballcourt Keeper: >-
         Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice
         at once.
-  commonSkills: []
   seat: kuxibalam2
   domains:
     - kuxibalamrgn
@@ -107,7 +106,9 @@ data:
     itzanpnthn: aligned
 terran_analog: Bolivia, Southern Central Brazil
 packFolder: kuxibalam
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## Overview

@@ -76,7 +76,6 @@ data:
       Caravan Priest: >-
         A Hērbad who travels with the caravans and ministers to tribal communities beyond any
         temple's reach.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -94,7 +93,9 @@ name:
 shortcode: sirvadar
 alias: Šírvádár, The Wandering Guide
 packFolder: ashaian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 In a culture defined by vast distances and the eternal movement of goods, peoples, and ideas across desert and steppe, no deity holds greater immediate relevance than Šírvádár, the Wandering Guide. While other gods offer promises of prosperity or spiritual purification, Sirvadar offers something more fundamental: he promises that you will reach your destination alive, that the water will not fail, that the paths will remain clear, that the darkness of the night will yield to dawn. He is the god of the merchant caravan preparing to cross the Khazryn Desert, of the nomadic tribe breaking camp to follow the herds, of the pilgrim walking the sacred routes to the great temple cities, of the exile fleeing persecution, of the adventurer seeking fortune or knowledge in distant lands. Sirvadar does not create wealth (that is Araveshta's domain) nor does he create the oases and water sources (that is Zúráthrä's gift); rather, he is the god of the journey itself, the guardian of safe passage, the one who marks the way through the wilderness and stands watch while travelers sleep.

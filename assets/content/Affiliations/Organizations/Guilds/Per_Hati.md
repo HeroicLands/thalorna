@@ -55,7 +55,6 @@ data:
         Scribe of the Weights—senior priests trained in metallurgy and assay who inspect
         circulating weight-pieces, audit chapter-temples' attestation practices and investigate
         counterfeiting, answering only to the Council.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -66,7 +65,9 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 _Kheperi: Pér-Háti—"the House of the Account"_

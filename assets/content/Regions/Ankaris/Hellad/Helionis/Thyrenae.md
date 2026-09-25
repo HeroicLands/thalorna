@@ -94,8 +94,6 @@ data:
       Gymnasiarch: >-
         Patron and warden of the gymnasium, an office of honor funded from the holder's own
         purse.
-  commonSkills:
-    - helonclng
   seat: thyrenae2
   domains:
     - thyrenae2
@@ -114,7 +112,10 @@ data:
     arldnpnthn: aligned
     panepistmm: aligned
 packFolder: helionis
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - helonclng
 ---
 
 - **Patron Deity:** [[affiliation-arldnpnthn|Ménérva]] (knowledge and wisdom)

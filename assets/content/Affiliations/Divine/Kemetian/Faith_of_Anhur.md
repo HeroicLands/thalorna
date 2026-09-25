@@ -55,7 +55,6 @@ data:
       Witness of the Elevation: >-
         Conducts the guild's senior elevation in tandem with the temple of Shesmu; neither rite counts
         without the other.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -74,7 +73,9 @@ name:
     - Anhur, Patron of the Hunt
 shortcode: anhur
 packFolder: pantheonskemetian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 One of the two hunt-patrons of Ta'Kheperu, whose concern is understood to extend past the taking of the beast to the conduct of the taker. Per'Nuw, the Per-Aá's chartered guild of hunters, holds this cult and Shesmu's as its religious foundation, and conducts its senior elevations as rites at both temples performed in tandem.

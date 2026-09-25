@@ -43,10 +43,6 @@ data:
         A year tending a temple garden from first planting to final harvest; undertaken by devotees seeking the deeper mysteries.
       The Silent Flute: >-
         A year lived by playing one's instrument for whoever asks, accepting only the food and shelter the listeners freely give.
-  commonSkills:
-    - kamavrata
-    - sing
-    - agri
   seat: null
   domains: []
   population: null
@@ -58,7 +54,12 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - kamavrata
+      - sohl-sohl-skill-sing
+      - sohl-sohl-skill-agri
 ---
 
 ## Kāmavrata—The Celestial Lover

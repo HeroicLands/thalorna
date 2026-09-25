@@ -89,7 +89,6 @@ data:
         all three are.
       Master of Lookouts: Runner of the network of eyes on which every operation depends.
       Courier: Carrier of what may not be written, between people who may not meet.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -98,7 +97,9 @@ data:
   parents: []
   relations: {}
 packFolder: organizations
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 - **Type:** Subversive magical sect

@@ -54,7 +54,6 @@ data:
         Ankaris, who perform funeral rites and keep the temple records of the dead.
       Novices of the Silent Watch: >-
         Young men and women, often survivors of a near-death experience, in extensive training in funerary practice and theology.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -72,7 +71,9 @@ name:
     - Thánatos
 shortcode: thanatos
 packFolder: pantheonsaureldian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 God of death, the underworld, and corruption. Thánatos is a fearsome figure, embodying both implacability and terror.

@@ -94,7 +94,6 @@ data:
       Ballcourt Keeper: >-
         Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice
         at once.
-  commonSkills: []
   seat: kawiltzakl2
   domains:
     - kawiltzaklrgn
@@ -107,7 +106,9 @@ data:
     itzanpnthn: aligned
 terran_analog: ""
 packFolder: kawiiltzakul
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## Overview

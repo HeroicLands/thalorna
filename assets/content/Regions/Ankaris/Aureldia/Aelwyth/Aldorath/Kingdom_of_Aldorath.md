@@ -150,8 +150,6 @@ data:
       Manorial Officer: >-
         Any office serving a single manor rather than the realm, held of the manor's lord
         and answerable to him rather than to the crown.
-  commonSkills:
-    - elvndrlng
   seat: dunmere
   domains:
     - aldorathrgn
@@ -169,7 +167,10 @@ data:
     repblctrvn: unaligned
     jrldmstrmvld: nemesis
 packFolder: aelwyth
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - elvndrlng
 ---
 
 ## Overview

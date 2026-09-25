@@ -102,7 +102,6 @@ data:
         behind him.
       House Physician: Keeper of the Companions' health, and of a great deal that is never
         written down.
-  commonSkills: []
   seat: sandhyagrha
   domains: []
   population: null
@@ -115,7 +114,9 @@ data:
     velvethand: unaligned
     crmsyndctsthlrn: unaligned
     vindhyalay: unaligned
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 - **Type:** Courtesan establishment and intelligence network

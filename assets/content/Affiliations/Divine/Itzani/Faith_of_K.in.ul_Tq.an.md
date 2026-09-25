@@ -111,8 +111,6 @@ data:
       Master of Ascent: >-
         Marshals the procession up the pyramid and the order of precedence upon its terraces,
         by which the whole city reads its own hierarchy.
-  commonSkills:
-    - kinultqan
   seat: null
   domains: []
   population: null
@@ -123,7 +121,10 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - kinultqan
 ---
 
 **Domain:** Order, Cosmic Law, Solar Cycle

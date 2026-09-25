@@ -77,8 +77,6 @@ data:
         deals with lowland officers.
       Bone-bringer: >-
         Recoverer of the dead from the gorges, and keeper of where each was found.
-  commonSkills:
-    - hvarnlng
   seat: nurvhrn
   domains:
     - nurvhrn
@@ -94,7 +92,10 @@ data:
     vindhyalay: unaligned
     tanvurempr: unaligned
 packFolder: vedyara
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - hvarnlng
 ---
 
 The **Hvarn** hold [[place-jnanadvara|Jñānadvāra]] and [[place-sankhadvra|Shankhadvāra]], the two crossings of [[place-estrnreach|the Eastern Reach]]. There are nine thousand of them, they are the poorer of the two guide-peoples by a wide margin, and they are the only people on the wall who deal with lowland institutions as a matter of routine.

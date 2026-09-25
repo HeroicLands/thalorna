@@ -105,7 +105,6 @@ data:
         ruling. Most fail; the avenue exists.
       Röthöt Dākvëng: >-
         Röthöt Dākvëng—The Lord of Wood—the being this bureau or cultus is organized around.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -118,7 +117,9 @@ data:
   relations:
     tngvkvnlei: aligned
 packFolder: elementallords
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## Röthöt Dākvëng—The Lord of Wood

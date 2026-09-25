@@ -96,8 +96,6 @@ data:
         educated than most.
       Overseer of Scribes: Head of a bureau of the administration, commanding the lettered
         men who actually govern.
-  commonSkills:
-    - kheperlng
   seat: wasetkara
   domains:
     - takheperurgn
@@ -116,7 +114,10 @@ data:
     okharis: unaligned
 terran_analog: "Egypt + Sudan (Nile valley civilization)"
 packFolder: takheperu
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - kheperlng
 ---
 
 {{< cartouche slug="takheperu" height="10rem" align="right" >}}

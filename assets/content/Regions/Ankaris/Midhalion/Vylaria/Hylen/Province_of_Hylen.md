@@ -85,8 +85,6 @@ data:
       Flamen: >-
         Priest of the provincial cult, presiding over the rites that bind the province to
         the capital.
-  commonSkills:
-    - vylarilng
   seat: aravantia
   domains:
     - hylen
@@ -104,7 +102,10 @@ data:
   relations:
     arldnpnthn: aligned
 packFolder: vylaria
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - vylarilng
 ---
 
 ## Overview

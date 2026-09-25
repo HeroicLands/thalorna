@@ -65,7 +65,6 @@ data:
       Clerk of the Roll: >-
         Holds the licenses and the record of every ruling made in the ward—including, for anyone
         who can read a register, the pattern of which premises are inspected and which are not.
-  commonSkills: []
   seat: magnapolis
   domains: []
   population: null
@@ -76,7 +75,9 @@ data:
   relations:
     curiaurbis: aligned
     vylrnmltry: aligned
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 The Aediles are the civic magistrates of [[place-magnapolis|Magnápolis]], and the only court most of

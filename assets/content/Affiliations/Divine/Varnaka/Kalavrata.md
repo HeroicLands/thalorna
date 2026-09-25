@@ -44,10 +44,6 @@ data:
         A night walk, alone, between the cremation grounds of three villages, meditating on what is released at each.
       The Silent Year: >-
         A year in total silence, broken only to speak the rites of passage for the dying.
-  commonSkills:
-    - kalavrata
-    - pysn
-    - folklr
   seat: null
   domains: []
   population: null
@@ -59,7 +55,12 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - kalavrata
+      - sohl-sohl-skill-pysn
+      - sohl-sohl-skill-folklr
 ---
 
 ## Kālavrata—The Gatekeeper of Death

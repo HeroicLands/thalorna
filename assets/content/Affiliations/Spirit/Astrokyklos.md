@@ -85,7 +85,6 @@ data:
       Initiator: Conductor of the ordeal by which an aspirant becomes an initiate.
       Keeper of the Tally: Recorder of the offerings owed and made, without which the reckoning
         cannot be kept.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -95,7 +94,9 @@ data:
   relations: {}
 shortcode: astrokyklos
 packFolder: astrokyklos
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 Arnos - Ram Bourax - Bull Diplos - Twins Chelyx - Crab Thyron - Lion Korith - Maiden Stathmos - Claws Kentros - Scorpion Belos - Archer Tragyx - Goat Nalos - Water-pourer Opsar - Fishes

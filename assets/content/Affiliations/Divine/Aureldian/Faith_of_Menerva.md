@@ -65,7 +65,6 @@ data:
         Students of the goddess, studying before they may teach.
       Bibliothecae Magnae: >-
         The great libraries the priesthood maintains and to which its scholars are attached.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -83,7 +82,9 @@ name:
     - Ménérva
 shortcode: menerva
 packFolder: pantheonsaureldian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 Goddess of learning, language, and invention. Ménérva illuminates the minds of scholars, craftsmen, and leaders, guiding them to wisdom.

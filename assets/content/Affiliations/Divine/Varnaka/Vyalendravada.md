@@ -62,16 +62,6 @@ data:
         Conducts the philosophical examination on which the Parama-Ácārya rank turns.
       Temple Architect: >-
         The Ácārya charged with a building work, this tradition's priesthood and its building trade being the same people.
-  commonSkills:
-    - vyalendravada
-    - eng
-    - masn
-    - math
-    - draw
-    - wood
-    - law
-    - dscr
-    - folklr
   seat: null
   domains: []
   population: null
@@ -83,7 +73,18 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - vyalendravada
+      - sohl-sohl-skill-eng
+      - sohl-sohl-skill-masn
+      - sohl-sohl-skill-math
+      - sohl-sohl-skill-draw
+      - sohl-sohl-skill-wood
+      - sohl-sohl-skill-law
+      - sohl-sohl-skill-dscr
+      - sohl-sohl-skill-folklr
 ---
 
 ## Vyālendravāda—The Doctrine of Vyālendra

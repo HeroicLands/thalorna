@@ -65,7 +65,6 @@ data:
         One of the Adônîm al-Mudunîn ("Lords of the City-States")—the provincial deputies, one
         per major Haradian state, who administer the Sôd's operations in their cities and
         report to the Rab-Naqîr.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -77,7 +76,9 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 _Haradi: Sôd-Naqîrîn—"The Council of the Guild-Wardens"_

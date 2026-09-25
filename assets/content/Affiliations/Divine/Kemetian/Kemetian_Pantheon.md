@@ -114,7 +114,6 @@ data:
         labor of a ring of tenant-villages and rendering them to the temple's granaries and
         workshops. Multiplied across a nome, this is what makes the great temples economic powers
         rivaling the nomarchs.
-  commonSkills: []
   seat: iattepy
   domains: []
   population: null
@@ -124,7 +123,9 @@ data:
   parents: []
   relations: {}
 packFolder: pantheonskemetian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 **Pronunciation**: _Keh-MEH-tee-ahn_

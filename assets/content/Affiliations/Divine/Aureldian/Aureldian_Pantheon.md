@@ -73,7 +73,6 @@ data:
       Flamen: The style used where a faith's apex is a single sacrificial priest of the god.
       Magistra: >-
         The style used where a faith's apex is a mistress of an art—wisdom, life, death, flowers.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -82,7 +81,9 @@ data:
   parents: []
   relations: {}
 packFolder: pantheonsaureldian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 **Pronunciation:** _Aw-REL-dee-ahn_

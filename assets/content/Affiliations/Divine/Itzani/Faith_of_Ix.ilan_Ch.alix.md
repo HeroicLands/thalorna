@@ -111,8 +111,6 @@ data:
       Keeper of the First Codex: >-
         Holds the doctrine that all human calendars are imperfect copies of the goddess's
         original, and the record of every correction made toward it.
-  commonSkills:
-    - ixilanchalix
   seat: null
   domains: []
   population: null
@@ -123,7 +121,10 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - ixilanchalix
 ---
 
 **Domain:** Knowledge, Wisdom, Writing, The Calendar, Astronomy

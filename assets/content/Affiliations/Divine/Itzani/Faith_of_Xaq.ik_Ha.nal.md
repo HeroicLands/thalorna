@@ -111,8 +111,6 @@ data:
       Keeper of the Healing Archives: >-
         Maintains the accumulated record of treatments and outcomes that makes this branch the
         most advanced practitioners of medicine on the continent.
-  commonSkills:
-    - xaqikhanal
   seat: null
   domains: []
   population: null
@@ -123,7 +121,10 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - xaqikhanal
 ---
 
 **Domain:** Fertility, Water, Healing, Renewal, Birth, Life

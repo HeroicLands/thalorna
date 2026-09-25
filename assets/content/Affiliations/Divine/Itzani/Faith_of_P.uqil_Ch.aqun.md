@@ -111,8 +111,6 @@ data:
       Warden of the Sealed Chambers: >-
         Guards the serpent-skin codices in their triple-sealed vaults, and is one of the few
         permitted to read the calculation of the end.
-  commonSkills:
-    - puqilchaqun
   seat: null
   domains: []
   population: null
@@ -123,7 +121,10 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - puqilchaqun
 ---
 
 **Domain:** Storms, Chaos, Rain, Destruction, and Cosmic Dissolution

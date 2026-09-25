@@ -94,8 +94,6 @@ data:
       Gymnasiarch: >-
         Patron and warden of the gymnasium, an office of honor funded from the holder's own
         purse.
-  commonSkills:
-    - helonclng
   seat: theradon2
   domains:
     - theradon2
@@ -113,7 +111,10 @@ data:
   relations:
     arldnpnthn: aligned
 packFolder: helionis
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - helonclng
 ---
 
 ## Overview

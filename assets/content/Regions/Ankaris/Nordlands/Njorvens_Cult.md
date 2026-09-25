@@ -14,7 +14,6 @@ data:
       The cult that venerates Njörven.
     ranks: []
     offices: {}
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -27,7 +26,9 @@ name:
   aliases: []
 shortcode: njorvencult
 packFolder: nordlands
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 The cult that venerates [[being-njorven|Njörven]].

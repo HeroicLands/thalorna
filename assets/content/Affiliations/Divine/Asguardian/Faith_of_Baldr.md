@@ -46,7 +46,6 @@ data:
         Any Calathir may call one; it has no presiding officer and speaks until it reaches accord.
       Dreamwarden: >-
         Keeper of the dream-rites and of those who sleep in the sacred groves to receive them.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -67,7 +66,9 @@ thalorna:
   domain: Elder Races, Dreams, and Light
   symbol: Sunstone and silver leaf
 packFolder: pantheonsasguardian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 "Baldr" is the Asguardian name for [[lore-goddreams|The God of Dreams]]—a deity far older than any human pantheon, worshipped by the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] since before humanity existed. The Aurèldían peoples know the same deity as [[affiliation-aetheria|Aethería]].

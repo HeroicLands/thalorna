@@ -94,8 +94,6 @@ data:
       Gymnasiarch: >-
         Patron and warden of the gymnasium, an office of honor funded from the holder's own
         purse.
-  commonSkills:
-    - helonclng
   seat: kalydria2
   domains:
     - kalydria2
@@ -113,7 +111,10 @@ data:
   relations:
     arldnpnthn: aligned
 packFolder: helionis
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - helonclng
 ---
 
 - **Patron Deity:** [[affiliation-arldnpnthn|Aethería]] (dreams and visions)

@@ -68,7 +68,6 @@ data:
       Steward: Warden of the hall, its provision and the ordering of its gatherings.
       Almoner: Administrator of the fellowship's relief to members in need.
       Master of Ceremonies: Keeper of the forms the fellowship's gatherings follow.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -76,7 +75,9 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 _Old Norse: Skaldahringr—"the Ring of the Skalds"_

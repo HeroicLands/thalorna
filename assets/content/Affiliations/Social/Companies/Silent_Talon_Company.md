@@ -78,7 +78,6 @@ data:
       Surgeon: Keeper of the company's wounded, and commonly the only lettered member besides
         the purser.
       Standard-Bearer: Carrier of the company's banner, by which it is known and hired.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -90,7 +89,9 @@ shortcode: slntlncmpny
 name:
   full: The Silent Talon Company
   aliases: []
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 _Precision, Discretion, and Expertise for Every Mission_

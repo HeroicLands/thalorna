@@ -92,7 +92,6 @@ data:
       Treasurer: Keeper of the order's revenue, its endowments and its debts.
       Standard-Bearer: Carrier of the order's banner, a charge given to a professed brother
         of proven service.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -101,7 +100,9 @@ data:
   parents: []
   relations: {}
 packFolder: organizations
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## The Áelendan Wardens

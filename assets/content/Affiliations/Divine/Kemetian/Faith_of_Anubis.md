@@ -69,7 +69,6 @@ data:
         Endowed to lay bread and beer and say the rites at a tomb's offering-chapel. The endowment
         is the tomb's true defense: where a cult dwindles or a line is forgotten, decay creeps
         in—and those are exactly the reaches where the tomb-robbers work.
-  commonSkills: []
   seat: khensuret
   domains: []
   population: null
@@ -87,7 +86,9 @@ name:
     - Ánubís, The Keeper of Transitions
 shortcode: anubis
 packFolder: pantheonskemetian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 Ánubís is the god of decay, mummification, transformation, and the compassionate guidance of the dead through the most fundamental of all transitions—the passage from life to death and beyond. To most mortal minds, decay and putrefaction evoke revulsion and fear; they are processes to be denied, avoided, and overcome. But in Kheperi theology, the insight runs deeper: decay is not meaningless annihilation but rather a necessary and sacred transformation. The body that has served its owner faithfully during life must be transformed before the spirit can progress into eternity. Ánubís presides over this transformation, ensuring it occurs with reverence, precision, and compassionate respect for the dead.

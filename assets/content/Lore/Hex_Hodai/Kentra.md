@@ -76,7 +76,6 @@ data:
         and worse.
       Bursar: Keeper of the tradition's endowment, its houses and its stipends.
       Envoy: The tradition's representative to a court or a rival school.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -94,7 +93,9 @@ school: center
 opposition: none
 adjacent: all
 packFolder: affiliationshexhodai
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 **Kentra** is not a seventh Eídma of the [[lore-hexhodai|Héx Hodäi]] but the _mastery_ of all six. Kentra mages stand at the center of the [[lore-hexhodai|Sigillum]], able to attune to and work magic across all six Eídmata with equal facility. They are the rarest practitioners in the [[affiliation-ordoarcanis|Ordo]], and among the most powerful. Within Ordo cosmology, they represent the pinnacle of arcane achievement: the mage who has mastered every form magic can take.

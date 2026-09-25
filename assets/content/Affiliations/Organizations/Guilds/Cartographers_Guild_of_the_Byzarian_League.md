@@ -45,7 +45,6 @@ data:
         Chair of the Council of Masters, presently Olára Mareniês, governing examination
         standards, commission disputes and the guild's relations with the League's civilian and
         military authorities.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -54,7 +53,9 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 - **Type:** Chartered professional guild

@@ -94,9 +94,6 @@ data:
       Consul Abroad: The city's agent in a foreign port, holding its seal for trade disputes
         there.
       Clerk of the Council: Keeper of the Council's record, its charters and its correspondence.
-  commonSkills:
-    - nordmalng
-    - valtarlng
   seat: calypsacity
   domains:
     - aureldirgn
@@ -115,7 +112,11 @@ data:
     ordoarcanis: unaligned
 terran_analog: "A small fictional island off the northern French coast—roughly 15 miles in diameter, sited about 20 miles offshore from the Élavendri mainland, with no real-world geographic counterpart. The cultural mix is a blend of Norse-Germanic seafarer traditions and northern French Aurèldían commerce."
 packFolder: calypsa
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - nordmalng
+      - valtarlng
 ---
 
 ## Overview

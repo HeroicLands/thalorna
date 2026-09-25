@@ -88,8 +88,6 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose
         rulings the Council enforces.
-  commonSkills:
-    - haradilng
   seat: azhun2
   domains:
     - azhun2
@@ -104,7 +102,10 @@ data:
   relations:
     arldnpnthn: aligned
 packFolder: harad
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - haradilng
 ---
 
 - **Type:** Port City

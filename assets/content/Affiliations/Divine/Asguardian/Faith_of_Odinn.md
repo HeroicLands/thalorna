@@ -80,7 +80,6 @@ data:
         Father or Mother of the god—the highest office, held by one person.
       Godi/Gydja: >-
         The working priest or priestess of a hall, who keeps its rites and its people.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -97,7 +96,9 @@ name:
     - The Enlightened Path
 shortcode: odinn
 packFolder: pantheonsasguardian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 Ódinn is revered as the god of knowledge, wisdom, and the relentless pursuit of understanding. His insatiable quest for knowledge is legendary, marked by his sacrifice of an eye at the well of Mimir in exchange for a drink of its wisdom-bestowing waters. Ódinn's wisdom is not just scholarly but also deeply connected to the mystical and the arcane, encompassing the runes, the secrets of the cosmos, and the mysteries of life and death.

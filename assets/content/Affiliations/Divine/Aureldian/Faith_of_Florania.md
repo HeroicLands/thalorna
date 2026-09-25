@@ -54,7 +54,6 @@ data:
         Initiates training in both spiritual practice and the practical work of the garden.
       House of Healing: >-
         The infirmary the priesthood keeps, and the face the faith shows the sick.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -72,7 +71,9 @@ name:
     - Flórania
 shortcode: florania
 packFolder: pantheonsaureldian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 Goddess of fertility, growth, and healing. Flórania ensures the fertility of people, animals, and the land. She is invoked during planting seasons, childbirth, rites of renewal, and healing.

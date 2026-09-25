@@ -157,8 +157,6 @@ data:
         office.
       Inquisitor: Examiner of doctrine within the realm, answerable to the priesthood rather
         than the crown.
-  commonSkills:
-    - vylarilng
   seat: nartum
   domains:
     - nartumkngdm
@@ -177,7 +175,10 @@ data:
     vylarinmpr: rival
     ordoarcanis: nemesis
 packFolder: vylaria
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - vylarilng
 ---
 
 ## Overview

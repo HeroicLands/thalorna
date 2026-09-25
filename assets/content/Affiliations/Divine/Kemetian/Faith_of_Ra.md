@@ -79,7 +79,6 @@ data:
         the eastern road, and the midwinter Festival of the Going-Down, when the sun sets straight down the
         corridor of the royal dead into the necropolis. The sightlines are kept clear by a law older than
         memory, and nothing may stand in that line.
-  commonSkills: []
   seat: iattepy
   domains: []
   population: null
@@ -100,7 +99,9 @@ name:
 shortcode: ra
 alias: Rā, The Solar Flame
 packFolder: pantheonskemetian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 Rā is the primordial fire from which all creation springs. He is the sun that rises each morning, burning away darkness and shadow, bringing warmth, light, and life to all the world. Yet Rā is more than merely the sun in the sky—he is the principle of illumination itself, the divine force that makes truth visible, that purifies the corrupted, and that drives back the primordial chaos that eternally threatens creation. Each day, Rā undertakes his sacred journey across the heavens. Each night, he descends into the underworld to wage war against Ápōphis, the chaos serpent, ensuring that the morning will come and that creation will continue to exist.

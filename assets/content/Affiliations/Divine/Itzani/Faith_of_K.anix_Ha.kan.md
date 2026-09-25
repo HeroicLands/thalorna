@@ -111,8 +111,6 @@ data:
       Speaker of the Sheaves: >-
         Receives the K'inmah at the harvest festival, where the king processes as a supplicant
         and not as a sovereign.
-  commonSkills:
-    - kanixhakan
   seat: null
   domains: []
   population: null
@@ -123,7 +121,10 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - kanixhakan
 ---
 
 **Domain:** Prosperity, Agriculture, Abundance, Sustenance

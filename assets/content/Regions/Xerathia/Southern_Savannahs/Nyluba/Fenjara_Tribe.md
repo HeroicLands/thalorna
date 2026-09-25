@@ -78,9 +78,6 @@ data:
         be reckoned.
       Envoy: Sent to treat with the other tribes and with settled powers, and protected by
         custom while he carries the word.
-  commonSkills:
-    - nyalbnlng
-    - trak
   seat: fenjaravlg
   domains:
     - fenjaravlg
@@ -94,7 +91,11 @@ data:
     nylbtrblntn: aligned
     nyalbleop: aligned
 packFolder: politiesnyaluba
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - nyalbnlng
+      - sohl-sohl-skill-trak
 ---
 
 ## The Fénjara

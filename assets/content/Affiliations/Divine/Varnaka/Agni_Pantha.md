@@ -63,14 +63,6 @@ data:
         A Jvālita entrusted with a vessel of their own, which is what ordination in this sect actually confers.
       Chapter Root: >-
         The Dahana-Mūla of a region, on the rare occasions a chapter is settled enough to have one.
-  commonSkills:
-    - agnipantha
-    - srvl
-    - herb
-    - pysn
-    - melee
-    - folklr
-    - dscr
   seat: null
   domains: []
   population: null
@@ -82,7 +74,16 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - agnipantha
+      - sohl-sohl-skill-srvl
+      - sohl-sohl-skill-herb
+      - sohl-sohl-skill-pysn
+      - sohl-sohl-skill-melee
+      - sohl-sohl-skill-folklr
+      - sohl-sohl-skill-dscr
 ---
 
 ## Agnī-panthā—The Path of the Flame

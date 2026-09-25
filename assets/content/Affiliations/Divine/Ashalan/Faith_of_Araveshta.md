@@ -75,7 +75,6 @@ data:
       Caravan Priest: >-
         A Hērbad who travels with the caravans and ministers to tribal communities beyond any
         temple's reach.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -93,7 +92,9 @@ name:
 shortcode: aravesta
 alias: Árávēštä, The Golden Giver
 packFolder: ashaian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 No deity in the Āsháian pantheon provokes more theological controversy than Árávēštä, and no priesthood more openly displays the signs of wealth and earthly pleasure. Where the priests of other gods move through the world in simple robes and maintained simplicity, the Hērbads of Araveshta wear fine silks dyed in vibrant purples and reds, their fingers heavy with rings of silver and gold, their compounds fragrant with incense and perfumed oils. They defend this ostentatious display with passionate certainty: if Āsha is truth and order, then surely the abundance that flows from righteous living is itself a form of truth. To deny pleasure, to reject prosperity, to shun beauty—these, they argue, are the creeping lies of asceticism, the subtle whispers of Druj encouraging one to believe that suffering is somehow nobler than joy. Araveshta comes to those who have ordered their affairs correctly, who conduct their commerce with honesty, who maintain their households with wisdom and generosity. He is the reward for right action, the divine confirmation that one's path is true.

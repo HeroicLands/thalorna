@@ -66,13 +66,6 @@ data:
         everyone in it.
       Reader of the Cistern Wall: >-
         Keeps the count of the dead by name, and recites it at the turn of the closed season.
-  commonSkills:
-    - trimurtisampradaya
-    - meghanatha
-    - pavanajitras
-    - srvl
-    - folklr
-    - masn
   seat: pssshrines
   domains:
     - pssshrines
@@ -88,7 +81,15 @@ data:
     thresholdkeepers: aligned
     chayavrata: unaligned
 packFolder: pantheonsvarnaka
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - trimurtisampradaya
+      - meghanatha
+      - pavanajitras
+      - sohl-sohl-skill-srvl
+      - sohl-sohl-skill-folklr
+      - sohl-sohl-skill-masn
 ---
 
 ## The Pass-Shrine Ushtakas

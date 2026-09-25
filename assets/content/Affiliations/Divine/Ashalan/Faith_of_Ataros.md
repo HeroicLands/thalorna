@@ -75,7 +75,6 @@ data:
       Caravan Priest: >-
         A Hērbad who travels with the caravans and ministers to tribal communities beyond any
         temple's reach.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -94,7 +93,9 @@ name:
 shortcode: ataros
 alias: Ātáröš, The Sacred Flame
 packFolder: ashaian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 _Not to be confused with [[affiliation-kayikchul|K'ayik Ch'ul]], the Sacred Flame of the [[affiliation-itzanpnthn|Itzáni pantheon]] on K'ich'chik. The two gods share an epithet and a domain and are otherwise unrelated._

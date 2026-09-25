@@ -52,7 +52,6 @@ data:
       High Speaker of the Collective: >-
         Elected by the kulinas from among themselves for a seven-year term, presiding over the
         Assembly of the Compact.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -61,7 +60,9 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 _Vedyaran: Vyāpārī Sangha—"the Merchants' Assembly"_

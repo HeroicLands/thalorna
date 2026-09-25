@@ -109,7 +109,6 @@ data:
         ruling. Most fail; the avenue exists.
       Tānlüng: >-
         Tānlüng—The First Classifier—the being this bureau or cultus is organized around.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -122,7 +121,9 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## Tānlüng—The First Classifier

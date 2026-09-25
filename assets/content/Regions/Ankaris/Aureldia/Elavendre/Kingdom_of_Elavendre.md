@@ -150,8 +150,6 @@ data:
       Manorial Officer: >-
         Any office serving a single manor rather than the realm, held of the manor's lord
         and answerable to him rather than to the crown.
-  commonSkills:
-    - elvndrlng
   seat: beravel
   domains:
     - elavendre
@@ -172,7 +170,10 @@ data:
     vylarinmpr: unaligned
 terran_analog: "Northern France and Switzerland—the Pelwar kingdom proper, whose courtly tradition, bardic colleges, and Sinalë diplomatic relations make it the cultural touchstone of the western Aurèldían world."
 packFolder: elavendre
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - elvndrlng
 ---
 
 ## Overview

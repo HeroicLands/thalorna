@@ -42,7 +42,6 @@ data:
           grove through long apprenticeship and confirmed by the Council gathered, with the
           grovekeepers below and the Áelendan Wardens patrolling on his writ.
     offices: {}
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -50,7 +49,9 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 - **Type:** Druidic conclave

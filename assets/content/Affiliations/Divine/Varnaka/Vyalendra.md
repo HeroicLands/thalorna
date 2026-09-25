@@ -42,11 +42,6 @@ data:
         A year taking no food the devotee did not help produce and no shelter they did not help build, learning the humility of construction from the ground up.
       The Perfect Stone: >-
         A single stone shaped by hand to proportions dictated by a senior priest, to such precision that no flaw can be found.
-  commonSkills:
-    - vyalendra
-    - masn
-    - eng
-    - wood
   seat: null
   domains:
     - sarvaprbhv
@@ -59,7 +54,13 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - vyalendra
+      - sohl-sohl-skill-masn
+      - sohl-sohl-skill-eng
+      - sohl-sohl-skill-wood
 ---
 
 ## Vyālendra—The Shaper of Worlds

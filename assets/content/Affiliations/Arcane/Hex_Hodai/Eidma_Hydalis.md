@@ -76,7 +76,6 @@ data:
         and worse.
       Bursar: Keeper of the tradition's endowment, its houses and its stipends.
       Envoy: The tradition's representative to a court or a rival school.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -95,7 +94,9 @@ name:
 thalorna:
   school: water
 packFolder: affiliationshexhodai
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 Eídma **Hydälis** is the school of cold, flow, healing, and transformation through adaptation. It sits at the lower-left vertex of the [[lore-hexhodai|Sigillum]], directly opposite [[affiliation-pyrethos|Eídma Pyréthos]]. Where Fire transforms by destroying, Water transforms by _becoming_—by adapting, yielding, absorbing, and reshaping. Hydälis practitioners are the Ordo's healers, its diviners, and its most patient diplomats.

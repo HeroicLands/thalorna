@@ -61,7 +61,6 @@ data:
       Warden of Seals: >-
         Sets and certifies the seals on tombs, treasuries and archives, and is answerable if one is found to
         have been bluff.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -80,7 +79,9 @@ name:
     - The House of Order
 shortcode: maatken
 packFolder: khemenuhekau
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## Per-Maat'ken (House of the Balance)

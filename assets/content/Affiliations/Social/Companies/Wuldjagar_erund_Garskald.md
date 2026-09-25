@@ -67,7 +67,6 @@ data:
         and clan.
       Dog-Keeper: Warden of the hounds, without which the great game is not brought to bay.
       Scout: Sent ahead into ground the company does not know, and gone for days at a time.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -82,7 +81,9 @@ name:
     - Hunters of the Deep Forest
     - Wild Hunt of the Speakers of the Spear
 shortcode: wldjgrrndgrskld
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 **Wuldjagâr erund Gárskald:** _Varokh Deep Forest Hunting Party_ _Varokhi: "The Wild Hunt of the Speakers of the Spear"_

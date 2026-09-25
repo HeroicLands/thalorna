@@ -150,8 +150,6 @@ data:
       Manorial Officer: >-
         Any office serving a single manor rather than the realm, held of the manor's lord
         and answerable to him rather than to the crown.
-  commonSkills:
-    - provnzlng
   seat: lunacorte
   domains:
     - provenzrgn
@@ -169,7 +167,10 @@ data:
     vylarinmpr: unaligned
 terran_analog: "Southwestern France, Atlantic Spain, and all of Portugal—the kingdom of vineyards, river-mouth ports, and the great Provenzan illuminated-manuscript and glassworking traditions that flow along the Atlantic seaboard from north to south."
 packFolder: provenzia
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - provnzlng
 ---
 
 ## Overview

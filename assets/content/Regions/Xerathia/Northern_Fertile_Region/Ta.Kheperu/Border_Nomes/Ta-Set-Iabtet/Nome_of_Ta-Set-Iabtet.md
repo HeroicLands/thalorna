@@ -93,8 +93,6 @@ data:
         men who actually govern.
       Nomarch's Steward: Administrator of the nome's revenue, its granaries and its corvée.
       Canal-Warden: Keeper of the irrigation works on which the nome's harvest—and its tax—depends.
-  commonSkills:
-    - kheperlng
   seat: bakhu
   domains:
     - tasetiabtetnome
@@ -110,7 +108,10 @@ data:
     kemtnpnthn: aligned
     ptah: aligned
 packFolder: tasetiabtet
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - kheperlng
 ---
 
 ## Overview

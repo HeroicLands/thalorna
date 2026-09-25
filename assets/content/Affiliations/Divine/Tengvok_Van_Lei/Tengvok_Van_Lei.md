@@ -124,7 +124,6 @@ data:
         Values tribute paid in kind against the temple's standing schedule, and rules on whether
         what has been offered supports the petition being asked for. A small sacrifice may be made
         at a home shrine and needs no assessor; a petition of any weight requires one.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -135,7 +134,9 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: pantheonstengvokvanlei
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 _The Celestial Court of Ten Thousand Spirits_

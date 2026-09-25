@@ -68,7 +68,6 @@ data:
       Praefar of the Strongroom: >-
         Holds the reserves and the strongroom at Magnápolis, which has never been breached in
         three centuries.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -80,7 +79,9 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 _Vylarian: Aerarium Imperii—"the Imperial Treasury"_

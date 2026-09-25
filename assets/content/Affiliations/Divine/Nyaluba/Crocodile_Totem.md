@@ -60,8 +60,6 @@ data:
         Recorder of the exact offerings each reach requires, where an error is not forgiven.
       Initiator: >-
         Conductor of the ordeal, which is conducted in the water.
-  commonSkills:
-    - crocodilekambezisprt
   seat: null
   domains: []
   population: null
@@ -80,7 +78,10 @@ name:
     - Kambezi Totem
 shortcode: nyalbcroc
 packFolder: nyaluba
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - crocodilekambezisprt
 ---
 
 The **Crocodile Totem** is the guide of the [[affiliation-nylbtrblntn|Kambezi]], the river-people of the eastern wetlands. Of the five guides it is the one most often **appeased** rather than venerated—approached with exact observance and formal gift, its protocols followed without error, because the river-spirits of Kambezi country are numerous and unforgiving and the crocodile is first among them.

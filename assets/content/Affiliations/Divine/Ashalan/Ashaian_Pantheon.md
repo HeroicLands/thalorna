@@ -80,7 +80,6 @@ data:
       Caravan Priest: >-
         A Hērbad who travels with the caravans and ministers to tribal communities beyond any
         temple's reach.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -89,7 +88,9 @@ data:
   parents: []
   relations: {}
 packFolder: ashaian
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 **Pronunciation**: _Ah-SHY-uhn_

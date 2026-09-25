@@ -67,13 +67,6 @@ data:
       Keeper of the Register: >-
         Holds the record of every consultation made under a warrant, open to the court that
         issued it and to nobody else.
-  commonSkills:
-    - kalavrata
-    - trimurtisampradaya
-    - law
-    - pysn
-    - folklr
-    - dscr
   seat: null
   domains: []
   population: null
@@ -89,7 +82,15 @@ data:
     passshrineushtakas: aligned
     chayavrata: nemesis
 packFolder: pantheonsvarnaka
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - kalavrata
+      - trimurtisampradaya
+      - sohl-sohl-skill-law
+      - sohl-sohl-skill-pysn
+      - sohl-sohl-skill-folklr
+      - sohl-sohl-skill-dscr
 ---
 
 ## The Threshold-keepers

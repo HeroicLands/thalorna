@@ -94,7 +94,6 @@ data:
       Ballcourt Keeper: >-
         Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice
         at once.
-  commonSkills: []
   seat: tzumanotun2
   domains:
     - tzumanotunrgn
@@ -106,7 +105,9 @@ data:
   relations: {}
 terran_analog: Appalachian Region and eastward through the Southeast, south into Florida and Louisiana
 packFolder: tzumanotun
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 ## Overview

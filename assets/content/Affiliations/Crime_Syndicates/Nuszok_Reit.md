@@ -62,10 +62,6 @@ data:
         Works the margins—the last taverns of disgraced merchant quarters, the southern work camps,
         the districts where the classification-failed congregate—and sees each recruitment through
         to its irreversible act.
-  commonSkills:
-    - melee
-    - dscr
-    - srvl
   seat: null
   domains: []
   population: null
@@ -76,7 +72,12 @@ data:
     yokveng: aligned
     tngvkvnlei: nemesis
 packFolder: organizations
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - sohl-sohl-skill-melee
+      - sohl-sohl-skill-dscr
+      - sohl-sohl-skill-srvl
 ---
 
 - **Type:** Nihilistic apocalyptic cult

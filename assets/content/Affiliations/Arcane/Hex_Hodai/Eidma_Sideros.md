@@ -76,7 +76,6 @@ data:
         and worse.
       Bursar: Keeper of the tradition's endowment, its houses and its stipends.
       Envoy: The tradition's representative to a court or a rival school.
-  commonSkills: []
   seat: null
   domains: []
   population: null
@@ -95,7 +94,9 @@ name:
 thalorna:
   school: metal
 packFolder: affiliationshexhodai
-sohl: {}
+sohl:
+  system:
+    commonSkills: []
 ---
 
 Eídma **Sidéros** is the Eídma of craft, precision, binding, and the material world made orderly. It occupies the lower-right vertex of the [[lore-hexhodai|Sigillum]], directly opposite [[affiliation-zepharis|Eídma Zephäris]]. Where Air dissolves and obscures, Metal defines and clarifies. Where Air deals in the intangible, Metal deals in the unyielding. Sidéros is the school of the artificer, the ward-maker, the enchanter, and the lawgiver—the mage who believes that the world has a structure and that magic's highest purpose is to discover, reinforce, and perfect it.

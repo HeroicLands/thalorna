@@ -90,8 +90,6 @@ data:
       Dūta: >-
         The envoy who carries the guild's business to courts, to the temples and to the Twilight
         House.
-  commonSkills:
-    - vedyarlng
   seat: null
   domains: []
   population: null
@@ -100,7 +98,10 @@ data:
   parents: []
   relations: {}
 packFolder: crimesyndicates
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - vedyarlng
 ---
 
 **Pronunciation:** _AA-daa-na-SHRAY-nee_

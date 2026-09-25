@@ -72,8 +72,6 @@ data:
       Harbour-Mistress: Warden of a naval haven, its stores, its slipways and its dues.
       Prize-Court Assessor: >-
         Judge of what a privateer took and whether the taking was lawful under the warrant.
-  commonSkills:
-    - bethunlng
   seat: null
   domains: []
   population: null
@@ -93,7 +91,10 @@ name:
     - Navy of Bethûa
 shortcode: bethuanflt
 packFolder: bethua
-sohl: {}
+sohl:
+  system:
+    commonSkills:
+      - bethunlng
 ---
 
 The navy is the proudest arm of [[affiliation-mtrrchybth|Bethûa]] and the instrument of its outsized place in [[place-midhalnrgn|Mídhalión Region]]. A modest realm of three million souls has no business commanding the respect at sea that Bethûa does—and yet a Bethûan war-galley is a known and unwelcome sight from the [[place-helionis|Heliónite]] ports to the [[affiliation-cnfdrtnhrdnstts|Haradian]] archipelago, and the realm's captains are reckoned among the most aggressive sailors on the [[place-vylarianse|Vylarian Sea]]. The fleet is the reason a small southeastern power can contest the trade of empires, and it is the sharpest edge of the bargain Bethûa struck with [[affiliation-empirtkhpr|Ta'Kheperu]]: where the Kheperi navy guards the southern shore but rarely sails north for strategic purposes, the Bethûan fleet carries Kheperi interest into the northern sea-lanes that Wasetkara's own ships will not enter.
