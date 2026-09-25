@@ -11,7 +11,7 @@ name:
 shortcode: passshrineushtakas
 renamedFrom: passshrinebrahmins
 type: affiliation
-subType: divinetradition
+subType: faithtradition
 data:
   banner: faithbnr
   icon: null
