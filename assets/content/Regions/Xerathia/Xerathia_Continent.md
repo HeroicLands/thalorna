@@ -44,7 +44,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'place'
   AND subType = 'region'
-  AND list_contains(data.parents, 'xerathia')
+  AND list_contains(data.parents, 'thalorna-none-place-xerathia')
 ORDER BY name.full COLLATE NOCASE
 ```
 

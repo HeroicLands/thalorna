@@ -74,8 +74,8 @@ WHERE p.type = 'affiliation'
     SELECT 1
     FROM notes l
     WHERE l.type = 'place'
-      AND list_contains(p.data.domains, l.shortcode)
-      AND (l.shortcode = 'aelwyth' OR list_contains(l.data.parents, 'aelwyth'))
+      AND list_contains(p.data.domains, concat(l.package, '-none-', l.type, '-', l.shortcode))
+      AND (l.shortcode = 'aelwyth' OR list_contains(l.data.parents, 'thalorna-none-place-aelwyth'))
   )
 ORDER BY p.name.full COLLATE NOCASE
 ```
