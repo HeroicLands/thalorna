@@ -114,7 +114,6 @@ data:
     kingdmnrgd: unaligned
     kingdmtrgd: unaligned
     kngdmvthgrd: unaligned
-    grukarholm: nemesis
     vrystwldtrbs: rival
 packFolder: nordheim
 sohl:
