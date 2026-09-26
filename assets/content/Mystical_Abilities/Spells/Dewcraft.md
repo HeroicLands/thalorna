@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Dewcraft
-  aliases:
-    - Condensation
-description: "Gathers moisture from air into pools; manifests fresh water."
 shortcode: dewcraft
+name: {full: Dewcraft, aliases: [Condensation]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
-  packFolder: spells
+description: "Gathers moisture from air into pools; manifests fresh water."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Condensation

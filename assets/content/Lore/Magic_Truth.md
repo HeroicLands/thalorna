@@ -1,19 +1,10 @@
 ---
-tags:
-  - lore
-  - arcane
-  - gm-only
-  - secret
-  - metaphysics
-type: lore
-name:
-  full: The Truth of Magic
-  aliases:
-    - Magic (GM)
-subType: arcana
 shortcode: magictruth
-data:
-  packFolder: settinglore
+name: {full: The Truth of Magic, aliases: [Magic (GM)]}
+type: lore
+subType: arcana
+tags: [lore, arcane, gm-only, secret, metaphysics]
+data: {packFolder: settinglore}
 ---
 
 Magic, in its actual nature, is undifferentiated potential. It has no form, no structure, no inherent qualities, no categories. It is not "fire" or "water" or "spirit" or "metal"; it is the formless capacity from which any of these—and any number of others—can be produced.

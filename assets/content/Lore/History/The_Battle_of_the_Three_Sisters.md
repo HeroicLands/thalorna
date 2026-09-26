@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "In 984 BF the Sinalë king of the joint Aelwythan kingdom is killed at the Three Sisters by something not merely an army—and the Sinalë abandon the crown, the kingdom and every claim outside the Hallowwood."
+shortcode: threesistrs
+name: {full: The Battle of the Three Sisters, aliases: [The End of the Elder Kingdom]}
 type: lore
 subType: history
-name:
-  full: The Battle of the Three Sisters
-  aliases:
-    - The End of the Elder Kingdom
-shortcode: threesistrs
-data:
-  packFolder: settinglore
+description: "In 984 BF the Sinalë king of the joint Aelwythan kingdom is killed at the Three Sisters by something not merely an army—and the Sinalë abandon the crown, the kingdom and every claim outside the Hallowwood."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: battle

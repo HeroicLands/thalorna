@@ -1,18 +1,11 @@
 ---
-tags:
-  - strong-elixir
-name:
-  full: "Serpent's Bane"
-  aliases:
-    - Potion, Antivenin, Strong
-description: "Brilliant amber-gold antivenin; cures snake and poison damage."
 shortcode: ptnantvs
+name: {full: "Serpent's Bane", aliases: ["Potion, Antivenin, Strong"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: strong
+description: "Brilliant amber-gold antivenin; cures snake and poison damage."
+tags: [strong-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: strong}
 sohl:
   system:
     weightBase: 0.25

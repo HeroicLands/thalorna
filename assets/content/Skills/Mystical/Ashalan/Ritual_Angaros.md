@@ -1,18 +1,10 @@
 ---
-tags:
-  - ashalan
-  - faith-skill
-  - draft
+shortcode: angaros
+name: {full: "Ritual: Ángáróš", aliases: [The Shadowed Serpent]}
 type: skill
 subType: mystical
-shortcode: angaros
-name:
-  full: "Ritual: Ángáróš"
-  aliases:
-    - The Shadowed Serpent
-data:
-  templatePriority: null
-  packFolder: ashalan
+tags: [ashalan, faith-skill, draft]
+data: {templatePriority: null, packFolder: ashalan}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

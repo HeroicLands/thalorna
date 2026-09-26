@@ -1,9 +1,10 @@
 ---
-tags:
-  - draft
-description: "The cult that venerates Njörven."
+shortcode: njorvencult
+name: {full: Njörven's Cult, aliases: []}
 type: affiliation
 subType: spirittradition
+description: "The cult that venerates Njörven."
+tags: [draft]
 data:
   templatePriority: null
   demonym: null
@@ -23,13 +24,7 @@ data:
   parents: []
   relations: {}
   packFolder: nordlands
-name:
-  full: Njörven's Cult
-  aliases: []
-shortcode: njorvencult
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 The cult that venerates [[being-njorven|Njörven]].

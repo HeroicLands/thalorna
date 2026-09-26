@@ -1,18 +1,11 @@
 ---
-tags:
-  - aelendan
-  - fae
+shortcode: aralwen
+name: {full: Arálwen, aliases: [The Arálwain, Thin Places]}
 type: lore
 subType: arcana
 description: "The thin places of Élavendre, where the material world and the spirit world lie close enough to cross—and the arálwen-waters, rivers that run partly in each."
-name:
-  full: Arálwen
-  aliases:
-    - The Arálwain
-    - Thin Places
-shortcode: aralwen
-data:
-  packFolder: settinglore
+tags: [aelendan, fae]
+data: {packFolder: settinglore}
 ---
 
 An **arálwen** is a place where the material world and the spirit world lie thin against one another—close enough that things pass between them. They are the reason [[place-elavendre|Élavendre]] has

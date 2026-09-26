@@ -1,20 +1,11 @@
 ---
-tags:
-  - nkaruthar
-  - spirit-power
-  - draft
-description: "Standing with Roho wa Upanga, zohira of the blade—what this emissary of the Flame is petitioned and interceded with."
+shortcode: upangasprt
+name: {full: "Roho wa Upanga Spirit Power", aliases: [The Spirit of the Blade]}
 type: skill
 subType: mystical
-shortcode: upangasprt
-name:
-  full: "Roho wa Upanga Spirit Power"
-  aliases:
-    - The Spirit of the Blade
-data:
-  icon: icon-psychicwaves
-  templatePriority: null
-  packFolder: spiritskillsokharic
+description: "Standing with Roho wa Upanga, zohira of the blade—what this emissary of the Flame is petitioned and interceded with."
+tags: [nkaruthar, spirit-power, draft]
+data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsokharic}
 sohl:
   system:
     skillBaseFormula: "@aur, @wil"

@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Lightstrike
-  aliases:
-    - Beam
-description: "Beam of brilliant light; sears flesh and ignites combustibles."
 shortcode: lghtstrk
+name: {full: Lightstrike, aliases: [Beam]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Beam of brilliant light; sears flesh and ignites combustibles."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Beam

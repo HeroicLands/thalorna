@@ -1,12 +1,9 @@
 ---
-tags: []
-description: "The Despiser of Life among the Asguardian gods, holding the dead and the underworld they pass into."
+shortcode: heldty
+name: {full: Hél, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Hél
-  aliases: []
-shortcode: heldty
-data:
-  packFolder: deitiesasguardian
+description: "The Despiser of Life among the Asguardian gods, holding the dead and the underworld they pass into."
+tags: []
+data: {packFolder: deitiesasguardian}
 ---

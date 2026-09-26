@@ -1,14 +1,11 @@
 ---
-tags: []
-description: "The Gatekeeper of Death in the Varnaka pantheon, who receives the soul at the end of an incarnation and sets it on the next."
+shortcode: kalavratadty
+name: {full: Kālavrata, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Kālavrata
-  aliases: []
-shortcode: kalavratadty
-data:
-  packFolder: deitiesvarnaka
+description: "The Gatekeeper of Death in the Varnaka pantheon, who receives the soul at the end of an incarnation and sets it on the next."
+tags: []
+data: {packFolder: deitiesvarnaka}
 ---
 
 _The Gatekeeper of Death—a shrouded figure, faceless, with a black conch at its lips._

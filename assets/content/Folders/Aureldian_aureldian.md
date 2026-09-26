@@ -1,8 +1,6 @@
 ---
-name:
-  full: "Aurèldían"
 shortcode: aureldian
+name: {full: "Aurèldían"}
 type: folder
-data:
-  parent: mysticalskills
+data: {parent: mysticalskills}
 ---

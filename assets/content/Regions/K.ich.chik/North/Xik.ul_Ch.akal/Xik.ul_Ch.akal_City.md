@@ -1,20 +1,11 @@
 ---
-tags:
-  - city
-  - draft
-description: "City"
+shortcode: xikulchakl2
+name: {full: Xik'ul Ch'akal, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - xikulchaklrgn
-  population: 2000
-name:
-  full: Xik'ul Ch'akal
-  aliases: []
-shortcode: xikulchakl2
+description: "City"
+tags: [city, draft]
+data: {demonym: null, lore: [], parents: [xikulchaklrgn], population: 2000}
 ---
 
 ## Overview

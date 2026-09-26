@@ -1,22 +1,11 @@
 ---
-tags:
-  - garrison
-  - town
-description: "Garrison Town"
+shortcode: vuthrakor
+name: {full: Vuthrákor, aliases: [The Wild Flame]}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - okharisrgn
-  population: 12000
-  packFolder: citystates
-name:
-  full: Vuthrákor
-  aliases:
-    - The Wild Flame
-shortcode: vuthrakor
+description: "Garrison Town"
+tags: [garrison, town]
+data: {demonym: null, lore: [], parents: [okharisrgn], population: 12000, packFolder: citystates}
 ---
 
 **meaning:** _The Wild Flame_

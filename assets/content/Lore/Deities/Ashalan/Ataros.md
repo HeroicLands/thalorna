@@ -1,12 +1,9 @@
 ---
-tags: []
-description: "The Sacred Flame of the Āsháian pantheon, in whose fire the tradition works its purifications."
+shortcode: atarosdty
+name: {full: Ātáröš, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Ātáröš
-  aliases: []
-shortcode: atarosdty
-data:
-  packFolder: deitiesashalan
+description: "The Sacred Flame of the Āsháian pantheon, in whose fire the tradition works its purifications."
+tags: []
+data: {packFolder: deitiesashalan}
 ---

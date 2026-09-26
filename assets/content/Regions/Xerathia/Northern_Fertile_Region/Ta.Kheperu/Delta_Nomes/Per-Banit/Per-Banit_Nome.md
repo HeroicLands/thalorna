@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: "Flax fields and the linen-weaving towns whose cloth clothes the empire—the land of the Nome of Per-Banit, one of the delta nomes of Ta'Kheperu."
-name:
-  full: Per-Banit Nome
-  aliases: []
 shortcode: perbanitnome
+name: {full: Per-Banit Nome, aliases: []}
 type: place
 subType: region
+description: "Flax fields and the linen-weaving towns whose cloth clothes the empire—the land of the Nome of Per-Banit, one of the delta nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 450000
   packFolder: deltanomes
 ---

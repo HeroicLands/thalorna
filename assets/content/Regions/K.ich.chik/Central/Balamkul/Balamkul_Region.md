@@ -1,19 +1,14 @@
 ---
-tags:
-  - region
-description: "The highland plateau of volcanic peaks, terraced valleys and pyramid-temples that is the land of Balamkul, at the heart of Central K'ich'chik."
-name:
-  full: Balamkul Region
-  aliases: []
 shortcode: balamkulrgn
+name: {full: Balamkul Region, aliases: []}
 type: place
 subType: region
+description: "The highland plateau of volcanic peaks, terraced valleys and pyramid-temples that is the land of Balamkul, at the heart of Central K'ich'chik."
+tags: [region]
 data:
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - cntrlkchchk
+  lore: [humanflk]
+  parents: [cntrlkchchk]
   population: null
   packFolder: balamkul
 

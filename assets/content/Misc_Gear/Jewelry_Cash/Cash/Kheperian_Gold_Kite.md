@@ -1,26 +1,14 @@
 ---
-tags:
-  - jewelry_cash
-name:
-  full: Kheperian Gold Kite
-  aliases: ["Gold Kite", "Gold Qedét"]
-description: "Temple-attested gold weight-piece of one kite, a tenth of a deben."
 shortcode: gkite
+name: {full: Kheperian Gold Kite, aliases: ["Gold Kite", "Gold Qedét"]}
 type: miscgear
-data:
-  icon: icon-coinsbdg
-  templatePriority: 0
-  packFolder: cash
+description: "Temple-attested gold weight-piece of one kite, a tenth of a deben."
+tags: [jewelry_cash]
+data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
 sohl:
-  craft:
-    skill: mtlc
-    secondary: []
+  craft: {skill: mtlc, secondary: []}
   kbcat: cash
-  system:
-    weightBase: 0.02
-    valueBase: 96
-    qualityBase: 0
-    durabilityBase: 3
+  system: {weightBase: 0.02, valueBase: 96, qualityBase: 0, durabilityBase: 3}
 ---
 
 A gold piece at one kite—a tenth of a deben—sealed and marked as the larger pieces are. The formal registers call the unit a qedét; ordinary speech calls it a kite, and the two mean the same mass.

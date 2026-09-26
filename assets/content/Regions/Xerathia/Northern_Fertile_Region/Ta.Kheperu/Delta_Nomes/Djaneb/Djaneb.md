@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Djaneb."
+shortcode: djaneb
+name: {full: Djaneb, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Djaneb."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - djanebnome
+  parents: [djanebnome]
   population: 56000
   packFolder: deltanomes
-name:
-  full: Djaneb
-  aliases: []
-shortcode: djaneb
 ---
 
 ## Overview

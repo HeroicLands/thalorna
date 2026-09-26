@@ -1,21 +1,15 @@
 ---
-tags:
-  - region
-description: Crossroads region of southern Ankaris—a transitional zone of city-states, trade routes, and mixed faiths between Aurèldía and the eastern realms.
-name:
-  full: Hellád Region
-  aliases:
-    - Hellád
 shortcode: heladrgn
+name: {full: Hellád Region, aliases: [Hellád]}
 type: place
 subType: region
+description: Crossroads region of southern Ankaris—a transitional zone of city-states, trade routes, and mixed faiths between Aurèldía and the eastern realms.
+tags: [region]
 data:
   icon: null
   demonym: Helladic
-  lore:
-    - humanflk
-  parents:
-    - midhalnrgn
+  lore: [humanflk]
+  parents: [midhalnrgn]
   population: 11000000
   packFolder: hellad
 

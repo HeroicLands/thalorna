@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: The Returned Breath
-  aliases: []
-description: "Returns the recently dead to life, if the Name and the Form are both entire."
 shortcode: rtrndbrth
+name: {full: The Returned Breath, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: imnetau
-  templatePriority: null
-  packFolder: hekauincantations
+description: "Returns the recently dead to life, if the Name and the Form are both entire."
+tags: [khemenu-hekau, incantation]
+data: {icon: imnetau, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: imnetau
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---
 
 The tradition's most famous working and the one it is least willing to perform. Both halves must

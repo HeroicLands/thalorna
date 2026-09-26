@@ -1,19 +1,11 @@
 ---
-tags: []
-name:
-  full: Tëng Thōk Script
-  aliases:
-    - Tëng Thōk
-    - Dōk Thōk
-    - Celestial Record
-description: "The Celestial Record—the shared logographic writing of Tānvür and Jürthāt, read alike by people who cannot speak to one another."
 shortcode: tngthkscrpt
+name: {full: Tëng Thōk Script, aliases: [Tëng Thōk, Dōk Thōk, Celestial Record]}
 type: skill
 subType: script
-data:
-  icon: icon-speaking
-  templatePriority: null
-  packFolder: script
+description: "The Celestial Record—the shared logographic writing of Tānvür and Jürthāt, read alike by people who cannot speak to one another."
+tags: []
+data: {icon: icon-speaking, templatePriority: null, packFolder: script}
 sohl:
   system:
     skillBaseFormula: "@rea, @per"
@@ -22,9 +14,7 @@ sohl:
     combatCategory: none
     parentSkillCode: script
     initSkillMult: 0
-  flags:
-    "thalorna":
-      script_family: Logographic
+  flags: {"thalorna": {script_family: Logographic}}
 ---
 
 Tëng Thōk, the **Celestial Record**, is the writing of the east: one character to one morpheme, characters built out of semantic radicals and combined into compounds exactly as the spoken languages build compound words. Three to four thousand characters are needed for educated reading; a scholar may hold six thousand or more; a full formal education in it runs ten to fifteen years.

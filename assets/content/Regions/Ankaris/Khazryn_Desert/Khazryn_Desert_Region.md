@@ -1,31 +1,24 @@
 ---
-tags:
-  - region
-description: Vast central-Ankaris steppe-desert—a barrier of dunes, oases, and nomadic confederations along the Silk-Road corridor between east and west.
-name:
-  full: Khazryn Desert Region
-  aliases:
-    - Khazryn Desert
-    - Khazryn
 shortcode: khzryndsrtrgn
+name: {full: Khazryn Desert Region, aliases: [Khazryn Desert, Khazryn]}
 type: place
 subType: region
+description: Vast central-Ankaris steppe-desert—a barrier of dunes, oases, and nomadic confederations along the Silk-Road corridor between east and west.
+tags: [region]
 data:
   icon: null
   demonym: Khazryn
-  lore:
-    - humanflk
-  parents:
-    - ankrscntnnt
+  lore: [humanflk]
+  parents: [ankrscntnnt]
   borders:
-    - { to: dunharargn, bearing: SW }
-    - { to: vedyarargn, bearing: S }
-    - { to: tanvuregin, bearing: E }
+    - {to: dunharargn, bearing: SW}
+    - {to: vedyarargn, bearing: S}
+    - {to: tanvuregin, bearing: E}
   routes:
-    - { to: meghadvara, bearing: S, mode: land, days: 30 }
-    - { to: gudesroad, bearing: S, mode: land, days: 45 }
-    - { to: suryadvara, bearing: S, mode: land, days: 30 }
-    - { to: tamradvara, bearing: S, mode: land, days: 30 }
+    - {to: meghadvara, bearing: S, mode: land, days: 30}
+    - {to: gudesroad, bearing: S, mode: land, days: 45}
+    - {to: suryadvara, bearing: S, mode: land, days: 30}
+    - {to: tamradvara, bearing: S, mode: land, days: 30}
   population: 5000000
   packFolder: khazryndesert
 

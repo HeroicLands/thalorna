@@ -1,22 +1,11 @@
 ---
-tags:
-  - village
-  - mountain
-  - sacred
-description: "The village on the one stream of the gold mountain that has never yielded gold, below the Rásikara shrine at its spring."
+shortcode: vandhyadhara
+name: {full: Vandhyadhārā, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - suvarnagirijnpd
-  population: 640
-  packFolder: vedyara
-name:
-  full: Vandhyadhārā
-  aliases: []
-shortcode: vandhyadhara
+description: "The village on the one stream of the gold mountain that has never yielded gold, below the Rásikara shrine at its spring."
+tags: [village, mountain, sacred]
+data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: 640, packFolder: vedyara}
 ---
 
 Vandhyadhārā (640) sits at the head of the one stream on the mountain that has never yielded gold. Panning there is forbidden, and has been forbidden longer than the prohibition's reason has been remembered.

@@ -1,19 +1,11 @@
 ---
-tags:
-  - nyaluba
-description: "The keeping of a people's record where there is no writing—genealogies, standing pacts, and the memory-songs that carry them."
+shortcode: griot
+name: {full: Griot, aliases: [Griot Tradition, Keeper of Memory]}
 type: skill
 subType: lore
-shortcode: griot
-name:
-  full: Griot
-  aliases:
-    - Griot Tradition
-    - Keeper of Memory
-data:
-  icon: icon-unicorn
-  templatePriority: null
-  packFolder: lore
+description: "The keeping of a people's record where there is no writing—genealogies, standing pacts, and the memory-songs that carry them."
+tags: [nyaluba]
+data: {icon: icon-unicorn, templatePriority: null, packFolder: lore}
 sohl:
   system:
     skillBaseFormula: "@rea, @wil"

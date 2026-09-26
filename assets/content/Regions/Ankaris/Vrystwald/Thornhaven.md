@@ -1,18 +1,9 @@
 ---
-tags:
-  - settlement
-description: "Settlement"
+shortcode: thornhaven
+name: {full: Thornhaven, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vrystwald
-  population: 300
-  packFolder: vrystwald
-name:
-  full: Thornhaven
-  aliases: []
-shortcode: thornhaven
+description: "Settlement"
+tags: [settlement]
+data: {demonym: null, lore: [], parents: [vrystwald], population: 300, packFolder: vrystwald}
 ---

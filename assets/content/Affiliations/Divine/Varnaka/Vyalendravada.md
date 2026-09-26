@@ -1,18 +1,10 @@
 ---
-description: "Monistic and scholarly religion tied to the building trades and the great academies."
-tags:
-  - varnaka
-  - faith
-  - sect
-  - monistic
-name:
-  full: Vyālendravāda
-  aliases:
-    - The Doctrine of Vyālendra
-    - Vyāndran School
 shortcode: vyalendravada
+name: {full: Vyālendravāda, aliases: [The Doctrine of Vyālendra, Vyāndran School]}
 type: affiliation
 subType: faithtradition
+description: "Monistic and scholarly religion tied to the building trades and the great academies."
+tags: [varnaka, faith, sect, monistic]
 data:
   banner: faithbnr
   templatePriority: null
@@ -28,14 +20,12 @@ data:
         title: Patita
         lore: excmmnctrnk
         description: >-
-          "Fallen"—put out of the tradition, denied its rites and its teaching, and not received
-          again by any of its houses.
+          "Fallen"—put out of the tradition, denied its rites and its teaching, and not received again by any of its houses.
       - level: 1
         title: Upāsaka
         lore: layfaithfulrnk
         description: >-
-          The lay follower, who keeps the observances and brings petitions without holding any
-          office in the tradition.
+          The lay follower, who keeps the observances and brings petitions without holding any office in the tradition.
       - level: 2
         title: Antevāsin
         lore: initiaternk
@@ -66,12 +56,9 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - vyalendradty
-  parents:
-    - varakpnthn
-  relations:
-    varakpnthn: aligned
+  lore: [vyalendradty]
+  parents: [varakpnthn]
+  relations: {varakpnthn: aligned}
   packFolder: pantheonsvarnaka
 sohl:
   system:

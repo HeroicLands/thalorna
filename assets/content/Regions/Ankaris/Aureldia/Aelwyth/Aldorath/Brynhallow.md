@@ -1,22 +1,11 @@
 ---
-tags:
-  - town
-  - hill
-  - inland
-description: "A hill town of Aldorath's uplands—a wool and stone town, poorer and older than the lowland manors, keeping observances the cathedral at Dunmere would rather not examine."
+shortcode: brynhallow
+name: {full: Brynhallow, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - brynwold
-  population: 1800
-  packFolder: aelwyth
-name:
-  full: Brynhallow
-  aliases: []
-shortcode: brynhallow
+description: "A hill town of Aldorath's uplands—a wool and stone town, poorer and older than the lowland manors, keeping observances the cathedral at Dunmere would rather not examine."
+tags: [town, hill, inland]
+data: {demonym: null, lore: [], parents: [brynwold], population: 1800, packFolder: aelwyth}
 ---
 
 **Brynhallow** sits high in Aldorath's upland country, where the manorial arable gives out and the land

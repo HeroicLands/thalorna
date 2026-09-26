@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Disarray
-  aliases:
-    - Confusion
-description: "Scatters enemy formations; combatants stumble and collide confusedly."
 shortcode: disarray
+name: {full: Disarray, aliases: [Confusion]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
-  packFolder: spells
+description: "Scatters enemy formations; combatants stumble and collide confusedly."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Confusion

@@ -1,12 +1,10 @@
 ---
-tags: []
-description: "Collection of ancient city-states in the Northern Fertile Region of Xerathia—centers of civilization and learning in a tropical realm of rivers and rainforests."
-type: affiliation
-name:
-  full: Okháris
-  aliases: []
 shortcode: okharis
+name: {full: Okháris, aliases: []}
+type: affiliation
 subType: polity
+description: "Collection of ancient city-states in the Northern Fertile Region of Xerathia—centers of civilization and learning in a tropical realm of rivers and rainforests."
+tags: []
 data:
   templatePriority: null
   demonym: Okháric
@@ -15,8 +13,7 @@ data:
   governance:
     model: monarchy
     summary: >-
-      Hereditary kingship over three great temple-cities (Zarhánis, Kaljékor, Vuthráka) and
-      surrounding rural tribes.
+      Hereditary kingship over three great temple-cities (Zarhánis, Kaljékor, Vuthráka) and surrounding rural tribes.
     ranks:
       - level: 0
         title: Temple-Cast
@@ -26,30 +23,25 @@ data:
         title: Temple Bondsman
         lore: slavernk
         description: >-
-          Bound to a temple's estates, owing labor for its granaries and holding nothing of
-          his own.
+          Bound to a temple's estates, owing labor for its granaries and holding nothing of his own.
       - level: 2
         title: Villager
         lore: commonerrnk
         description: >-
-          Of the rural tribes owing tribute and labor to a temple-city, and governed through
-          their own elders.
+          Of the rural tribes owing tribute and labor to a temple-city, and governed through their own elders.
       - level: 3
         title: Townsman
         lore: burgherrnk
         description: >-
-          Enrolled in one of the three temple-cities, entitled to its protection, its markets
-          and its courts.
+          Enrolled in one of the three temple-cities, entitled to its protection, its markets and its courts.
       - level: 4
         title: Temple Servant
         lore: servantrnk
-        description: In the temple's employ—scribe, artisan, singer, guard—and fed from
-          its stores.
+        description: In the temple's employ—scribe, artisan, singer, guard—and fed from its stores.
       - level: 5
         title: Priest
         lore: priestrnk
-        description: Ordained to the rites of a temple, holding authority over its dependents
-          and its lands.
+        description: Ordained to the rites of a temple, holding authority over its dependents and its lands.
       - level: 6
         title: High Priest
         lore: highpriestrnk
@@ -58,52 +50,34 @@ data:
         title: Royal Kin
         lore: heirrnk
         description: >-
-          Of the king's house by blood or marriage, from whom governors and high priests are
-          commonly drawn.
+          Of the king's house by blood or marriage, from whom governors and high priests are commonly drawn.
       - level: 8
         title: King
         lore: sovereignrnk
         description: >-
-          Hereditary sovereign over the three temple-cities, holding them by descent and by
-          the gods' sanction alike.
+          Hereditary sovereign over the three temple-cities, holding them by descent and by the gods' sanction alike.
     offices:
       King: Hereditary sovereign of the three temple-cities and the tribes that owe them tribute.
-      Queen: The king's principal wife, holding her own estates and a place in the temple
-        rites.
+      Queen: The king's principal wife, holding her own estates and a place in the temple rites.
       High Priest: >-
-        Head of one of the three great temple-cities, ruling its lands, its granaries and
-        its people.
+        Head of one of the three great temple-cities, ruling its lands, its granaries and its people.
       Temple Steward: Administrator of a temple's estates, herds and workshops.
       Granary-Keeper: >-
-        Warden of the stores on which the cities live between harvests, and the realm's true
-        measure of power.
+        Warden of the stores on which the cities live between harvests, and the realm's true measure of power.
       Chief Scribe: Keeper of the temple registers—tribute owed, labor due, land held.
-      Captain of the Host: Commander of the king's armed men, drawn from the cities and the
-        tribes together.
-      Tribute-Warden: Collector of the rural tribes' dues, traveling with an escort and a
-        scribe.
+      Captain of the Host: Commander of the king's armed men, drawn from the cities and the tribes together.
+      Tribute-Warden: Collector of the rural tribes' dues, traveling with an escort and a scribe.
       Oracle: Speaker of the god's answer, consulted before any royal undertaking of consequence.
-      Warden of the Frontier: Holder of a border district, charged with the tribes beyond
-        it.
+      Warden of the Frontier: Holder of a border district, charged with the tribes beyond it.
   seat: zarhanor
-  domains:
-    - okharisrgn
+  domains: [okharisrgn]
   population: 4000000
-  economy:
-    - lore-tkhprcrncy
-    - affiliation-crwntrdskhrs
-    - affiliation-perhati
-  lore:
-    - humanflk
+  economy: [lore-tkhprcrncy, affiliation-crwntrdskhrs, affiliation-perhati]
+  lore: [humanflk]
   parents: []
-  relations:
-    nkaruthar: aligned
-    empirtkhpr: unaligned
+  relations: {nkaruthar: aligned, empirtkhpr: unaligned}
   packFolder: okharis
-sohl:
-  system:
-    commonSkills:
-      - okharclng
+sohl: {system: {commonSkills: [okharclng]}}
 
 # terran_analog: "Niger + Mali + Chad (the Sahel—pastoral savanna with temple-city trading centers)"
 ---

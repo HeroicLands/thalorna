@@ -1,18 +1,10 @@
 ---
-tags:
-  - reference
-  - currency
-  - tanvur
-  - economy
-  - stub
-description: "Stub note for the Tánvür currency system—bureaucratic ledger-based commerce administered through the imperial classification apparatus; not yet documented in detail."
+shortcode: tanvrcrncy
+name: {full: Tánvür Currency, aliases: [Tánvür Monetary System]}
 type: lore
 subType: economy
-name:
-  full: Tánvür Currency
-  aliases:
-    - Tánvür Monetary System
-shortcode: tanvrcrncy
+description: "Stub note for the Tánvür currency system—bureaucratic ledger-based commerce administered through the imperial classification apparatus; not yet documented in detail."
+tags: [reference, currency, tanvur, economy, stub]
 ---
 
 _Stub—to be designed and expanded._

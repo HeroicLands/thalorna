@@ -1,11 +1,9 @@
 ---
-tags: []
 shortcode: klhrdvntrs
-name:
-  full: Kalihara Adventures
-  aliases: []
+name: {full: Kalihara Adventures, aliases: []}
 type: scenario
 subType: adventure
+tags: []
 data:
   parents: []
   locations: []
@@ -13,9 +11,7 @@ data:
   factions: []
   follows: []
   status: draft
-  party:
-    size: null
-    archetypes: []
+  party: {size: null, archetypes: []}
   packFolder: adventureskalihara
 ---
 

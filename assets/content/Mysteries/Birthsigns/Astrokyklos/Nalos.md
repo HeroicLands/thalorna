@@ -1,16 +1,11 @@
 ---
-tags: []
-name:
-  full: Nalos
-  aliases: []
-description: "The River: welcome in any company and persuasive in every tongue, no one's idea of a fighter."
 shortcode: nalos
+name: {full: Nalos, aliases: []}
 type: mystery
 subType: birthsign
-data:
-  icon: icon-astrology
-  templatePriority: 0
-  packFolder: astrokyklos
+description: "The River: welcome in any company and persuasive in every tongue, no one's idea of a fighter."
+tags: []
+data: {icon: icon-astrology, templatePriority: 0, packFolder: astrokyklos}
 sohl:
   kbcat: birthsign
   system:

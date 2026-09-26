@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Might
-  aliases:
-    - Physique
-description: "Temporary physical enhancement increasing strength and combat prowess greatly."
 shortcode: might
+name: {full: Might, aliases: [Physique]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
-  packFolder: spells
+description: "Temporary physical enhancement increasing strength and combat prowess greatly."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Physique

@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "Roughly five hundred years ago a faction within the Vúlcani clergy declared that the god's true nature was destruction—and the Aurèldían faith of the Forge-Lord split into the Sacred Forge and the Black Flame."
+shortcode: vulcanschsm
+name: {full: The Vúlcani Schism, aliases: [The Splitting of the Forge-Lord]}
 type: lore
 subType: history
-name:
-  full: The Vúlcani Schism
-  aliases:
-    - The Splitting of the Forge-Lord
-shortcode: vulcanschsm
-data:
-  packFolder: settinglore
+description: "Roughly five hundred years ago a faction within the Vúlcani clergy declared that the god's true nature was destruction—and the Aurèldían faith of the Forge-Lord split into the Sacred Forge and the Black Flame."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: schism

@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: Drought's Hand
-  aliases: []
-description: "Withholds water from a stated ground until the working is lifted."
 shortcode: drghtshnd
+name: {full: Drought's Hand, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: deshrut
-  templatePriority: null
-  packFolder: hekauincantations
+description: "Withholds water from a stated ground until the working is lifted."
+tags: [khemenu-hekau, incantation]
+data: {icon: deshrut, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: deshrut
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---
 
 Kept under the same restriction as the House's plague forms though it is not a working of Chaos,

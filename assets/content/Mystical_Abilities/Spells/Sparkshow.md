@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Sparkshow
-  aliases:
-    - Fireworks
-description: "Creates brilliant light display; dazzles vision with color."
 shortcode: sprkshw
+name: {full: Sparkshow, aliases: [Fireworks]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
-  packFolder: spells
+description: "Creates brilliant light display; dazzles vision with color."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Fireworks

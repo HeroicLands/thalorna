@@ -1,18 +1,11 @@
 ---
-tags:
-  - strong-elixir
-name:
-  full: "Physician's Comfort"
-  aliases:
-    - Potion, Curative, Strong
-description: "Deep emerald green curative; heals ailments and injuries."
 shortcode: ptncurs
+name: {full: "Physician's Comfort", aliases: ["Potion, Curative, Strong"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: strong
+description: "Deep emerald green curative; heals ailments and injuries."
+tags: [strong-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: strong}
 sohl:
   system:
     weightBase: 0.25

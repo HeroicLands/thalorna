@@ -1,12 +1,9 @@
 ---
+shortcode: personlnms
+name: {full: Personal Names, aliases: []}
 type: lore
 subType: culture
-name:
-  full: Personal Names
-  aliases: []
-shortcode: personlnms
-data:
-  packFolder: tanvur
+data: {packFolder: tanvur}
 ---
 
 ## Personal Names in the Empire of Tānvür

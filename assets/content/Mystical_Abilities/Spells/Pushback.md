@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Pushback
-  aliases:
-    - Repel
-description: "Force blast knocks enemies away; may stun or disorient."
 shortcode: pushback
+name: {full: Pushback, aliases: [Repel]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
-  packFolder: spells
+description: "Force blast knocks enemies away; may stun or disorient."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Repel

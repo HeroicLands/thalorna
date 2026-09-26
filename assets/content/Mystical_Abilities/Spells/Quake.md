@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Quake
-  aliases:
-    - Tremor
-description: "Ground shakes violently; disrupts footing and causes damage."
 shortcode: quake
+name: {full: Quake, aliases: [Tremor]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
-  packFolder: spells
+description: "Ground shakes violently; disrupts footing and causes damage."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Tremor

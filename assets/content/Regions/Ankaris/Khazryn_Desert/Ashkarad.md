@@ -1,19 +1,14 @@
 ---
-tags:
-  - town
-  - craft
-description: "Craft Town"
-type: place
-name:
-  full: Ashkarad
-  aliases: []
 shortcode: ashkarad
+name: {full: Ashkarad, aliases: []}
+type: place
 subType: settlement
+description: "Craft Town"
+tags: [town, craft]
 data:
   demonym: null
   lore: []
-  parents:
-    - swoasisbelt
+  parents: [swoasisbelt]
   population: 8000
   packFolder: khazryndesert
 ---

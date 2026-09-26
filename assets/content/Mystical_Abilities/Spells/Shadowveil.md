@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Shadowveil
-  aliases:
-    - Cloak
-description: "Wraps in darkness; grants concealment within shadowed areas."
 shortcode: shdwvl
+name: {full: Shadowveil, aliases: [Cloak]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
-  packFolder: spells
+description: "Wraps in darkness; grants concealment within shadowed areas."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Cloak

@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Mystery
-  aliases:
-    - Enigma
-description: "Conceals object or location from magical detection permanently."
 shortcode: mystery
+name: {full: Mystery, aliases: [Enigma]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
-  packFolder: spells
+description: "Conceals object or location from magical detection permanently."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Enigma

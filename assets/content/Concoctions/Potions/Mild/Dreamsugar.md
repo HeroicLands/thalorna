@@ -1,18 +1,11 @@
 ---
-tags:
-  - mild-elixir
-name:
-  full: Dreamsugar
-  aliases:
-    - Potion, Hallucinogenic, Mild
-description: "Hazy opalescent liquid; induces dreaming and altered consciousness."
 shortcode: ptnhalm
+name: {full: Dreamsugar, aliases: ["Potion, Hallucinogenic, Mild"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: mild
+description: "Hazy opalescent liquid; induces dreaming and altered consciousness."
+tags: [mild-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25

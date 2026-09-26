@@ -1,20 +1,14 @@
 ---
-tags:
-  - region
-  - endowed
-description: "The land of the Dhanurkota Janapada—villages along a defensible curve of the upper Sarvada, around the ancient bow-fort where the river leaves the northern hills."
-name:
-  full: Dhanurkota Janapada
-  aliases: []
 shortcode: dhanurkotajnpd
+name: {full: Dhanurkota Janapada, aliases: []}
 type: place
 subType: region
+description: "The land of the Dhanurkota Janapada—villages along a defensible curve of the upper Sarvada, around the ancient bow-fort where the river leaves the northern hills."
+tags: [region, endowed]
 data:
   demonym: Dhanurkoti
-  lore:
-    - vedyariclt
-  parents:
-    - vedyarargn
+  lore: [vedyariclt]
+  parents: [vedyarargn]
   population: 30000
   packFolder: vedyara
 

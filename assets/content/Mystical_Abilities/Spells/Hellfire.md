@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Hellfire
-  aliases:
-    - Doom Flame
-description: "White-hot supernatural flame consuming stone and metal; spreads inexorably."
 shortcode: hellfire
+name: {full: Hellfire, aliases: [Doom Flame]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
-  packFolder: spells
+description: "White-hot supernatural flame consuming stone and metal; spreads inexorably."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Doom Flame

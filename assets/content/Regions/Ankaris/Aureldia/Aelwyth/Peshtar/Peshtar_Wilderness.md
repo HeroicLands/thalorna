@@ -1,21 +1,15 @@
 ---
-tags:
-  - region
-description: Ungoverned highland forests of the Peshtar tribes—animist, druidic, and fiercely independent within the Misty Isle of Aelwyth.
-name:
-  full: Peshtar Wilderness
-  aliases:
-    - Peshtar Highlands
 shortcode: pshtrwldrns
+name: {full: Peshtar Wilderness, aliases: [Peshtar Highlands]}
 type: place
 subType: region
+description: Ungoverned highland forests of the Peshtar tribes—animist, druidic, and fiercely independent within the Misty Isle of Aelwyth.
+tags: [region]
 data:
   icon: null
   demonym: Peshtar
-  lore:
-    - humanflk
-  parents:
-    - aelwyth
+  lore: [humanflk]
+  parents: [aelwyth]
   population: 63000
   packFolder: aelwyth
 

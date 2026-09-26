@@ -1,22 +1,11 @@
 ---
-tags:
-  - town
-  - river
-  - inland
-description: "Aldorath's chief river crossing and drove-market—where the kingdom's wool and cattle are gathered before going down to the coast."
+shortcode: ashford
+name: {full: Ashford, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - aldorvale
-  population: 3200
-  packFolder: aelwyth
-name:
-  full: Ashford
-  aliases: []
-shortcode: ashford
+description: "Aldorath's chief river crossing and drove-market—where the kingdom's wool and cattle are gathered before going down to the coast."
+tags: [town, river, inland]
+data: {demonym: null, lore: [], parents: [aldorvale], population: 3200, packFolder: aelwyth}
 ---
 
 **Ashford** grew where the drove roads out of Aldorath's manorial country meet the ford, and it is the

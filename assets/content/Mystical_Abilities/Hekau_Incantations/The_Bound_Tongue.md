@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: The Bound Tongue
-  aliases: []
-description: "Prevents the subject from uttering a named secret, by any means, until released."
 shortcode: bndtng
+name: {full: The Bound Tongue, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: maatken
-  templatePriority: null
-  packFolder: hekauincantations
+description: "Prevents the subject from uttering a named secret, by any means, until released."
+tags: [khemenu-hekau, incantation]
+data: {icon: maatken, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: maatken
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---
 
 The named matter cannot be spoken, written, gestured or otherwise conveyed by the subject; the

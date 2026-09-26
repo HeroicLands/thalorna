@@ -1,14 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: horusdty
+name: {full: Hórús, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Hórús
-  aliases: []
-shortcode: horusdty
-data:
-  packFolder: deitieskemetian
+tags: [draft]
+data: {packFolder: deitieskemetian}
 ---
 
 ![[icon-horus|Hórús]]{float: top-left, size: medium}

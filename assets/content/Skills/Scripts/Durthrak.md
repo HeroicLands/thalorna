@@ -1,17 +1,11 @@
 ---
-tags: []
-name:
-  full: Durthrak Script
-  aliases:
-    - Durthrak
-description: "The stone-cut of the Khazári—angular, unjoined characters made for chisel and graver, and a people who write down nearly everything."
 shortcode: drthrkscrpt
+name: {full: Durthrak Script, aliases: [Durthrak]}
 type: skill
 subType: script
-data:
-  icon: icon-speaking
-  templatePriority: null
-  packFolder: script
+description: "The stone-cut of the Khazári—angular, unjoined characters made for chisel and graver, and a people who write down nearly everything."
+tags: []
+data: {icon: icon-speaking, templatePriority: null, packFolder: script}
 sohl:
   system:
     skillBaseFormula: "@rea, @per"
@@ -20,9 +14,7 @@ sohl:
     combatCategory: none
     parentSkillCode: script
     initSkillMult: 0
-  flags:
-    "thalorna":
-      script_family: Angular
+  flags: {"thalorna": {script_family: Angular}}
 ---
 
 Durthrak—"stone-cut"—is the writing of the [[skill-khazarlng|Khazári]]: forty-one characters of straight lines, right angles and sharp vertices, which **never join**, each standing separate and square in its own space. It reads left to right and top to bottom. Diacritics are notches, drilled dots and short scored lines, because those are what a graver makes cleanly on metal and what survives on rock. Monumental and sacred work uses an elaborated variant with deeper relief and inlaid metal, but the underlying characters are identical—the Khazári do not have a separate ceremonial alphabet, and would consider one an admission that the ordinary letters were inadequate.

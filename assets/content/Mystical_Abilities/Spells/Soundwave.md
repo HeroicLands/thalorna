@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Soundwave
-  aliases:
-    - Aural Blast
-description: "Projects sound as force; creates shockwave from noise."
 shortcode: sndwv
+name: {full: Soundwave, aliases: [Aural Blast]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
-  packFolder: spells
+description: "Projects sound as force; creates shockwave from noise."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Aural Blast

@@ -1,26 +1,18 @@
 ---
-tags:
-  - pass
-  - caravan
-  - inland
-description: "The storm-door—the westernmost crossing of the wall, held by no fortress and no toll, blessed from a shrine-tower of the Svapnasāri-samāja, and shut from below by the monsoon."
+shortcode: meghadvara
+name: {full: Meghadvāra, aliases: [The Storm-Door]}
 type: place
 subType: feature
+description: "The storm-door—the westernmost crossing of the wall, held by no fortress and no toll, blessed from a shrine-tower of the Svapnasāri-samāja, and shut from below by the monsoon."
+tags: [pass, caravan, inland]
 data:
   demonym: null
   lore: []
-  parents:
-    - graznmntns
-    - sthrnwall
+  parents: [graznmntns, sthrnwall]
   population: null
   routes:
-    - { to: khzryndsrtrgn, bearing: N, mode: land, days: 30, terrain: [mountains, ice, desert] }
+    - {to: khzryndsrtrgn, bearing: N, mode: land, days: 30, terrain: [mountains, ice, desert]}
   packFolder: vedyara
-name:
-  full: Meghadvāra
-  aliases:
-    - The Storm-Door
-shortcode: meghadvara
 ---
 
 **Meghadvāra**, the storm-door, is the westernmost of the six crossings of [[place-sthrnwall|the Southern Wall]]. It climbs under [[place-meghashkhr|Meghashikhara]] out of the north-western marches and comes down thirty days later among the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]].

@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Fright
-  aliases:
-    - Panic
-description: "Target becomes paralyzed with terror; freezes unable to move."
 shortcode: fright
+name: {full: Fright, aliases: [Panic]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
-  packFolder: spells
+description: "Target becomes paralyzed with terror; freezes unable to move."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Panic

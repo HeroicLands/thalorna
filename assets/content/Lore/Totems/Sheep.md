@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The sheep as a totemic ideal, and the human character it describes."
+shortcode: sheepttm
+name: {full: Sheep, aliases: [Sheep Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Sheep
-  aliases:
-    - Sheep Totem
-shortcode: sheepttm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The sheep as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-sheeptotem|Sheep]]{float: top-left, size: medium}

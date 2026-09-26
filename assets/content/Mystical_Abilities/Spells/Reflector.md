@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Reflector
-  aliases:
-    - Mirror
-description: "Shield deflects magical effects back toward their originating caster."
 shortcode: rflctr
+name: {full: Reflector, aliases: [Mirror]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Shield deflects magical effects back toward their originating caster."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Mirror

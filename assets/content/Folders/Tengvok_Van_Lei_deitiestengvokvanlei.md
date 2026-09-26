@@ -1,8 +1,6 @@
 ---
-name:
-  full: "Tengvok_Van_Lei"
 shortcode: deitiestengvokvanlei
+name: {full: "Tengvok_Van_Lei"}
 type: folder
-data:
-  parent: deities
+data: {parent: deities}
 ---

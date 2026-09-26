@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Per-Banit."
+shortcode: perbanit
+name: {full: Per-Banit, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Per-Banit."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - perbanitnome
+  parents: [perbanitnome]
   population: 34000
   packFolder: deltanomes
-name:
-  full: Per-Banit
-  aliases: []
-shortcode: perbanit
 ---
 
 ## Overview

@@ -1,22 +1,14 @@
 ---
-tags:
-  - region
-  - endowed
-description: "The southern tropical interior of Vedyara—six hundred miles of forest along the lower Bhārava, held in temple-estates where no assembly sits, and the source of the resin, lac, hardwood and spice the pilgrim road is endowed out of."
-name:
-  full: Bhāravavana
-  aliases:
-    - The Bhārava Forest
-    - The Forest Country
 shortcode: bharavavana
+name: {full: Bhāravavana, aliases: [The Bhārava Forest, The Forest Country]}
 type: place
 subType: region
+description: "The southern tropical interior of Vedyara—six hundred miles of forest along the lower Bhārava, held in temple-estates where no assembly sits, and the source of the resin, lac, hardwood and spice the pilgrim road is endowed out of."
+tags: [region, endowed]
 data:
   demonym: Bhāravan
-  lore:
-    - vedyariclt
-  parents:
-    - vedyarargn
+  lore: [vedyariclt]
+  parents: [vedyarargn]
   population: 2400000
   packFolder: vedyara
 

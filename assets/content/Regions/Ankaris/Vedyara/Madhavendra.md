@@ -1,22 +1,11 @@
 ---
-tags:
-  - ruin
-  - inland
-description: "The capital of the philosopher-kings, roofless and unquarried on open pasture in the middle of the plateau—the place a civilization counts its years from and almost nobody has seen."
+shortcode: madhavendra
+name: {full: Mādhavendra, aliases: [The Capital of the Philosopher-Kings]}
 type: place
 subType: site
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vandhyabhumi
-  population: null
-  packFolder: vedyara
-name:
-  full: Mādhavendra
-  aliases:
-    - The Capital of the Philosopher-Kings
-shortcode: madhavendra
+description: "The capital of the philosopher-kings, roofless and unquarried on open pasture in the middle of the plateau—the place a civilization counts its years from and almost nobody has seen."
+tags: [ruin, inland]
+data: {demonym: null, lore: [], parents: [vandhyabhumi], population: null, packFolder: vedyara}
 ---
 
 **Mādhavendra** stands on open pasture in the centre of [[place-vandhyabhumi|Vandhyabhūmi]], twelve centuries after the reign that raised it and the better part of nine since anyone lived in it. It is roofless. It has never been quarried. Its walls stand to the height of a man over most of their circuit, its street grid is legible from the ridge above it, and the dry air that makes the plateau poor ground for a plough has made it very good ground for a ruin.

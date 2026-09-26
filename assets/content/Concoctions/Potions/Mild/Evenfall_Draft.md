@@ -1,18 +1,11 @@
 ---
-tags:
-  - mild-elixir
-name:
-  full: Evenfall Draft
-  aliases:
-    - Potion, Soporific, Mild
-description: "Milky white pale gray liquid; promotes sleep and restfulness."
 shortcode: ptnsopm
+name: {full: Evenfall Draft, aliases: ["Potion, Soporific, Mild"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: mild
+description: "Milky white pale gray liquid; promotes sleep and restfulness."
+tags: [mild-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25

@@ -1,18 +1,10 @@
 ---
-tags:
-  - ashalan
-  - faith-skill
-  - draft
+shortcode: morvahna
+name: {full: "Ritual: Mórváhñä", aliases: [The Silent Keeper]}
 type: skill
 subType: mystical
-shortcode: morvahna
-name:
-  full: "Ritual: Mórváhñä"
-  aliases:
-    - The Silent Keeper
-data:
-  templatePriority: null
-  packFolder: ashalan
+tags: [ashalan, faith-skill, draft]
+data: {templatePriority: null, packFolder: ashalan}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

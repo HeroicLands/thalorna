@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Expose
-  aliases:
-    - Reveal
-description: "Reveals hidden things; penetrates concealment and shows true nature."
 shortcode: expose
+name: {full: Expose, aliases: [Reveal]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Reveals hidden things; penetrates concealment and shows true nature."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Reveal

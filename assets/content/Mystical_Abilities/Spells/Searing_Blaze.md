@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Searing Blaze
-  aliases:
-    - Burn
-description: "Conjures intense flames; caster's touch ignites and burns."
 shortcode: srgblz
+name: {full: Searing Blaze, aliases: [Burn]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
-  packFolder: spells
+description: "Conjures intense flames; caster's touch ignites and burns."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Burn

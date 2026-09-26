@@ -1,21 +1,11 @@
 ---
-tags:
-  - imperial
-  - river
-description: "The palace above the river stair at Chandrapur—the seat of the Mahārāja, the one building in the city nobody may rebuild, and the hall the Nine Houses sit in."
+shortcode: moonhouse
+name: {full: The Moon House, aliases: []}
 type: place
 subType: structure
-data:
-  demonym: null
-  lore: []
-  parents:
-    - chandrapur2
-  population: null
-  packFolder: vedyara
-name:
-  full: The Moon House
-  aliases: []
-shortcode: moonhouse
+description: "The palace above the river stair at Chandrapur—the seat of the Mahārāja, the one building in the city nobody may rebuild, and the hall the Nine Houses sit in."
+tags: [imperial, river]
+data: {demonym: null, lore: [], parents: [chandrapur2], population: null, packFolder: vedyara}
 ---
 
 The **Moon House** stands at the head of the river stair in [[place-chandrapur2|Chandrapur]], and it is both the dynasty and the building. A Chandrapuri who says the Moon House has decided means the Mahārāja; one who says he is going up to the Moon House means the four courts, the nine seats and the long white hall above the water.

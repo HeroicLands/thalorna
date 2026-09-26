@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Iseron"
 shortcode: iseron
+name: {full: "Iseron"}
 type: folder
-data:
-  parent: regions
-  color: "#3CB371"
+data: {parent: regions, color: "#3CB371"}
 ---

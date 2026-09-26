@@ -1,13 +1,9 @@
 ---
-tags:
-  - animal
-  - creature
-name:
-  full: Crag Lurker
-  aliases: []
-description: "A horse-sized ambush spider that scales sheer cliffs in ghostly silence before striking prey in rocky, vertical terrain."
 shortcode: crglrkr
+name: {full: Crag Lurker, aliases: []}
 type: being
+description: "A horse-sized ambush spider that scales sheer cliffs in ghostly silence before striking prey in rocky, vertical terrain."
+tags: [animal, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -43,21 +39,21 @@ sohl:
     rea: 1d4+4
     cre: 1d4+3
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 8 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 7 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 6 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 65 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 55 } }
-    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 27 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 36 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 52 } }
-    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 38 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 8}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 7}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 6}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 65}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 55}}
+    - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 27}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 36}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 52}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 38}}
     - name: Envenoming Bite
       type: skill
       system:
@@ -65,36 +61,20 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 56
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: bite
           name: Envenoming Bite
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 2
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 8
-            modifier: 3
-            aspect: piercing
+          attack: {disabled: false, spread: 2, modifier: 0}
+          impactBase: {numDice: 1, die: 8, modifier: 3, aspect: piercing}
           lengthBase: 1
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
-            poison: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true, poison: true}
     - name: Leg Grapple
       type: skill
       system:
@@ -102,76 +82,50 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 61
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: grab
           name: Leg Grapple
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 4
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 15
-            aspect: blunt
+          attack: {disabled: false, spread: 4, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 15, aspect: blunt}
           lengthBase: 1
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
   system:
     body:
       structure:
         zones:
-          - name: Cephalothorax
-            shortcode: cephzone
-            probWeight: 3
-          - name: Abdomen
-            shortcode: abdomenzone
-            probWeight: 3
-          - name: Legs
-            shortcode: legszone
-            probWeight: 4
+          - {name: Cephalothorax, shortcode: cephzone, probWeight: 3}
+          - {name: Abdomen, shortcode: abdomenzone, probWeight: 3}
+          - {name: Legs, shortcode: legszone, probWeight: 4}
         parts:
           - name: Cephalothorax
             shortcode: cephpart
             bodyZoneCode: cephzone
-            roles:
-              - vital
-              - manipulator
+            roles: [vital, manipulator]
             canHoldItem: false
             probWeight: 10
           - name: Abdomen
             shortcode: abdomenpart
             bodyZoneCode: abdomenzone
-            roles:
-              - core
+            roles: [core]
             canHoldItem: false
             probWeight: 10
           - name: Left Legs
             shortcode: llegspart
             bodyZoneCode: legszone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 5
           - name: Right Legs
             shortcode: rlegspart
             bodyZoneCode: legszone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 5
         locations:
@@ -182,11 +136,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 7
-            protectionBase:
-              blunt: 6
-              edged: 5
-              piercing: 4
-              fire: 6
+            protectionBase: {blunt: 6, edged: 5, piercing: 4, fire: 6}
           - name: Fangs
             shortcode: fangloc
             bodyPartCode: cephpart
@@ -194,11 +144,7 @@ sohl:
             amputability: high
             shockValue: 2
             probWeight: 3
-            protectionBase:
-              blunt: 6
-              edged: 5
-              piercing: 4
-              fire: 6
+            protectionBase: {blunt: 6, edged: 5, piercing: 4, fire: 6}
           - name: Abdomen
             shortcode: abdloc
             bodyPartCode: abdomenpart
@@ -206,11 +152,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 10
-            protectionBase:
-              blunt: 6
-              edged: 5
-              piercing: 4
-              fire: 6
+            protectionBase: {blunt: 6, edged: 5, piercing: 4, fire: 6}
           - name: Left Legs
             shortcode: llegsloc
             bodyPartCode: llegspart
@@ -218,11 +160,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 6
-              edged: 5
-              piercing: 4
-              fire: 6
+            protectionBase: {blunt: 6, edged: 5, piercing: 4, fire: 6}
           - name: Right Legs
             shortcode: rlegsloc
             bodyPartCode: rlegspart
@@ -230,14 +168,8 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 6
-              edged: 5
-              piercing: 4
-              fire: 6
-      weight:
-        base: 250
-        calc: "250"
+            protectionBase: {blunt: 6, edged: 5, piercing: 4, fire: 6}
+      weight: {base: 250, calc: "250"}
       reachBase: 0
       bodyScaleBase: 1.22
       personalFatigue: "enc + 5"
@@ -249,18 +181,9 @@ sohl:
         encumbrance: "floor(wt/4)"
         strMod: "-5 * floor((str - 10) / 2)"
         factors:
-          - scope: topography
-            key: steep
-            mode: add
-            textValue: "0"
-          - scope: surface_cover
-            key: alpine
-            mode: add
-            textValue: "0"
-          - scope: surface_cover
-            key: barren
-            mode: add
-            textValue: "0"
+          - {scope: topography, key: steep, mode: add, textValue: "0"}
+          - {scope: surface_cover, key: alpine, mode: add, textValue: "0"}
+          - {scope: surface_cover, key: barren, mode: add, textValue: "0"}
         disabled: false
 ---
 

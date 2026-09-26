@@ -1,18 +1,10 @@
 ---
-tags:
-  - khemenu-hekau
-  - draft
+shortcode: imnetau
+name: {full: "Hekau: Imnetáu", aliases: [Per-Imnetáu]}
 type: skill
 subType: mystical
-shortcode: imnetau
-name:
-  full: "Hekau: Imnetáu"
-  aliases:
-    - Per-Imnetáu
-data:
-  icon: imnetau
-  templatePriority: null
-  packFolder: khemenuhekau
+tags: [khemenu-hekau, draft]
+data: {icon: imnetau, templatePriority: null, packFolder: khemenuhekau}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"

@@ -1,17 +1,11 @@
 ---
-tags:
-  - draft
-  - nkaruthar
+shortcode: upangaspr
+name: {full: Roho wa Upanga, aliases: [The Spirit of the Blade]}
 type: lore
 subType: spirit
 description: "Zohira of the blade—seated in the Magara Spirit Blades, which choose their wielders and cut both physical and spiritual foes."
-name:
-  full: Roho wa Upanga
-  aliases:
-    - The Spirit of the Blade
-shortcode: upangaspr
-data:
-  packFolder: lorespiritsokharic
+tags: [draft, nkaruthar]
+data: {packFolder: lorespiritsokharic}
 ---
 
 - **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]

@@ -1,18 +1,10 @@
 ---
-tags:
-  - kemetian
-  - faith-skill
-  - draft
+shortcode: sobek
+name: {full: "Ritual: Sobek", aliases: ["Sobek, The Crocodile-God"]}
 type: skill
 subType: mystical
-shortcode: sobek
-name:
-  full: "Ritual: Sobek"
-  aliases:
-    - Sobek, The Crocodile-God
-data:
-  templatePriority: null
-  packFolder: kemetian
+tags: [kemetian, faith-skill, draft]
+data: {templatePriority: null, packFolder: kemetian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

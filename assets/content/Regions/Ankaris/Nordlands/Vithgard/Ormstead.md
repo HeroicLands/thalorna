@@ -1,18 +1,9 @@
 ---
-tags:
-  - town
-description: "Town"
+shortcode: ormstead
+name: {full: Ormstead, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vithgard
-  population: 500
-  packFolder: vithgard
-name:
-  full: Ormstead
-  aliases: []
-shortcode: ormstead
+description: "Town"
+tags: [town]
+data: {demonym: null, lore: [], parents: [vithgard], population: 500, packFolder: vithgard}
 ---

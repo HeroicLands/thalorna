@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: "The garden coast of the delta—a wet, mild strip of citrus, olive, vine, fig and date along the Vylarian shore, the land of the Nome of Sau-Neferu."
-name:
-  full: Sau-Neferu
-  aliases: []
 shortcode: sauneferunome
+name: {full: Sau-Neferu, aliases: []}
 type: place
 subType: region
+description: "The garden coast of the delta—a wet, mild strip of citrus, olive, vine, fig and date along the Vylarian shore, the land of the Nome of Sau-Neferu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: Kheperi
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 900000
   packFolder: sauneferu
 ---

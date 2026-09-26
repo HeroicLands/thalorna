@@ -1,15 +1,12 @@
 ---
-tags: []
-description: "Warrior-shamans of Thórr who fight as the storm fights—combat-mages of thunder and weather who ride to where the storm calls them, and answer with hammer when it does."
+shortcode: ordrstrmspkrs
 name:
   full: The Order of the Storm-Speakers
-  aliases:
-    - Stormmaelendir
-    - The Speakers of the Thunder
-    - Hammerwakes
-shortcode: ordrstrmspkrs
+  aliases: [Stormmaelendir, The Speakers of the Thunder, Hammerwakes]
 type: affiliation
 subType: order
+description: "Warrior-shamans of Thórr who fight as the storm fights—combat-mages of thunder and weather who ride to where the storm calls them, and answer with hammer when it does."
+tags: []
 data:
   templatePriority: null
   demonym: null
@@ -18,93 +15,75 @@ data:
   governance:
     model: council
     summary: >-
-      A chapter of professed brethren under an elected Grand Master, all of them bound by
-      the rule he enforces.
+      A chapter of professed brethren under an elected Grand Master, all of them bound by the rule he enforces.
     ranks:
       - level: 0
         title: Expelled
         lore: expelledrnk
         description: >-
-          Put out of the order, the habit taken back and the vows declared void; no house of
-          it will receive them again.
+          Put out of the order, the habit taken back and the vows declared void; no house of it will receive them again.
       - level: 1
         title: Servant
         lore: servantrnk
         description: >-
-          Attached to a house for its labor—its stables, its kitchens, its fields—and not
-          of the order.
+          Attached to a house for its labor—its stables, its kitchens, its fields—and not of the order.
       - level: 2
         title: Postulant
         lore: catechumenrnk
-        description: Petitioning for admission and living under the rule on trial, bound by
-          nothing yet.
+        description: Petitioning for admission and living under the rule on trial, bound by nothing yet.
       - level: 3
         title: Novice
         lore: catechumenrnk
         description: >-
-          Received for a term of formation, under the rule and under a master of novices, and
-          free to leave until profession.
+          Received for a term of formation, under the rule and under a master of novices, and free to leave until profession.
       - level: 4
         title: Professed
         lore: professedrnk
         description: >-
-          Vowed to the order for life, holding no property of their own and owing obedience
-          to its officers.
+          Vowed to the order for life, holding no property of their own and owing obedience to its officers.
       - level: 5
         title: Officer
         lore: officerrnk
-        description: Holding a charge of a house—its arms, its stores, its almsgiving, its
-          chapel.
+        description: Holding a charge of a house—its arms, its stores, its almsgiving, its chapel.
       - level: 6
         title: Commander
         lore: commanderrnk
         description: >-
-          Holding a house of the order, its brethren and its lands, and answerable for both
-          to the chapter.
+          Holding a house of the order, its brethren and its lands, and answerable for both to the chapter.
       - level: 7
         title: Preceptor
         lore: highpriestrnk
         description: >-
-          Holding a province of the order—several houses—and sitting in the chapter that
-          elects its head.
+          Holding a province of the order—several houses—and sitting in the chapter that elects its head.
       - level: 8
         title: Grand Master
         lore: grandmasterrnk
         description: >-
-          Head of the order, elected by the chapter, bound by the rule he enforces and removable
-          under it.
+          Head of the order, elected by the chapter, bound by the rule he enforces and removable under it.
     offices:
       Grand Master: Head of the order, elected by the chapter and himself bound by the rule.
       Preceptor: Holder of a province of the order, and an elector in the chapter.
       Commander: Holder of a single house, its brethren and its lands.
       Marshal: Master of the order's arms, horses and discipline in the field.
       Seneschal: >-
-        Second to the Grand Master, holding the order's administration and standing for him
-        in his absence.
+        Second to the Grand Master, holding the order's administration and standing for him in his absence.
       Draper: >-
-        Keeper of the habit and equipment, whose issue marks a brother's standing as plainly
-        as any rank.
+        Keeper of the habit and equipment, whose issue marks a brother's standing as plainly as any rank.
       Almoner: >-
-        Administrator of the order's charity, which is commonly the reason it was chartered
-        at all.
+        Administrator of the order's charity, which is commonly the reason it was chartered at all.
       Chaplain: >-
-        Keeper of the order's rites and of its brethren's souls, and not under the Marshal's
-        discipline.
+        Keeper of the order's rites and of its brethren's souls, and not under the Marshal's discipline.
       Master of Novices: Charged with formation, and with judging who may profess.
       Treasurer: Keeper of the order's revenue, its endowments and its debts.
-      Standard-Bearer: Carrier of the order's banner, a charge given to a professed brother
-        of proven service.
+      Standard-Bearer: Carrier of the order's banner, a charge given to a professed brother of proven service.
   seat: null
   domains: []
   population: null
   economy: []
   lore: []
   parents: []
-  relations:
-    asguardian: aligned
-sohl:
-  system:
-    commonSkills: []
+  relations: {asguardian: aligned}
+sohl: {system: {commonSkills: []}}
 ---
 
 _Old Norse: Stormmaelendir—"Storm-Speakers"_

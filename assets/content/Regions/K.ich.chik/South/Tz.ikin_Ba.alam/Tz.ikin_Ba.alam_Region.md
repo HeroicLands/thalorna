@@ -1,20 +1,11 @@
 ---
-tags:
-  - region
-description: "Blasted rock, ash, ice and poisoned water—the forsaken wastes of Tz'ikin Ba'alam at the southern end of Southern K'ich'chik."
-name:
-  full: Tz'ikin Ba'alam Region
-  aliases: []
 shortcode: tzikinbalmrgn
+name: {full: Tz'ikin Ba'alam Region, aliases: []}
 type: place
 subType: region
-data:
-  demonym: null
-  lore:
-  parents:
-    - sthrnkchchk
-  population: null
-  packFolder: tzikinbaalam
+description: "Blasted rock, ash, ice and poisoned water—the forsaken wastes of Tz'ikin Ba'alam at the southern end of Southern K'ich'chik."
+tags: [region]
+data: {demonym: null, lore, parents: [sthrnkchchk], population: null, packFolder: tzikinbaalam}
 
 # terran_analog: Southern South America
 ---

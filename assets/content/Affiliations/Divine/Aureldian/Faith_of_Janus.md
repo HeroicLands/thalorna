@@ -1,11 +1,10 @@
 ---
-description: "Order."
-tags:
-  - aureldian
-  - religion
-  - janus
+shortcode: janus
+name: {full: Faith of Janus, aliases: [The Keeper of the Gates]}
 type: affiliation
 subType: faithtradition
+description: "Order."
+tags: [aureldian, religion, janus]
 data:
   banner: faithbnr
   icon: janus
@@ -16,21 +15,18 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A temple priesthood of 4 working tiers: acolytes in training, ordained clergy, and the
-      Pontifex Iuris above them. The lay faithful keep the feasts without office.
+      A temple priesthood of 4 working tiers: acolytes in training, ordained clergy, and the Pontifex Iuris above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out—denied the rites, the temple and the burial the faith promises, which is the one
-          sentence it can pass that outlives the body.
+          Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
         lore: layfaithfulrnk
         description: >-
-          The lay faithful, who keep the feasts and the observances of the god without holding office
-          in the temple.
+          The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
         title: Acolytes of the Threshold
         lore: initiaternk
@@ -45,8 +41,7 @@ data:
         title: Praetores Templi
         lore: highpriestrnk
         description: >-
-          Temple Judges—fifteen or twenty seniors of the Collegium Sacerdotalis who oversee the
-          major temples and form the priesthood's administrative body.
+          Temple Judges—fifteen or twenty seniors of the Collegium Sacerdotalis who oversee the major temples and form the priesthood's administrative body.
       - level: 5
         title: Pontifex Iuris
         lore: grandmasterrnk
@@ -56,8 +51,7 @@ data:
       Pontifex Iuris: >-
         High Judge and keeper of cosmic law; final arbiter of doctrine, whose counsel weighs on kings and city councils across western Ankaris.
       Praetores Templi: >-
-        Temple Judges—fifteen or twenty seniors of the Collegium Sacerdotalis who oversee the major
-        temples and form the priesthood's administrative body.
+        Temple Judges—fifteen or twenty seniors of the Collegium Sacerdotalis who oversee the major temples and form the priesthood's administrative body.
       Flamines Iuris: >-
         Ordained priests throughout the cities, who keep local temples, witness oaths and contracts, and perform the ceremonies of blessing and condemnation.
       Acolytes of the Threshold: >-
@@ -70,21 +64,11 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - janusdty
-  parents:
-    - arldnpnthn
-  relations:
-    arldnpnthn: aligned
+  lore: [janusdty]
+  parents: [arldnpnthn]
+  relations: {arldnpnthn: aligned}
   packFolder: pantheonsaureldian
-name:
-  full: Faith of Janus
-  aliases:
-    - The Keeper of the Gates
-shortcode: janus
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 God of justice, cosmic law, and honorable struggle. Jánus watches over all contracts, pacts, and conflicts, ensuring that both divine and mortal order and justice are maintained. His is the faith of chivalry, of duty before desire, of the strong defending the weak not because it is easy but because it is right. Where other gods may inspire devotion through love or fear, Jánus demands it through principle.

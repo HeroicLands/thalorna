@@ -1,23 +1,11 @@
 ---
-tags:
-  - town
-  - fortified
-  - hill
-  - frontier
-description: "The walled town that anchors Élavendre's eastern march—muster point of the hill levy, market of the drove roads, and the place the raiding has to get past."
+shortcode: valdun
+name: {full: Valdûn, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - brynavar
-  population: 5200
-  packFolder: elavendre
-name:
-  full: Valdûn
-  aliases: []
-shortcode: valdun
+description: "The walled town that anchors Élavendre's eastern march—muster point of the hill levy, market of the drove roads, and the place the raiding has to get past."
+tags: [town, fortified, hill, frontier]
+data: {demonym: null, lore: [], parents: [brynavar], population: 5200, packFolder: elavendre}
 ---
 
 **Valdûn** stands in the eastern hills of [[place-brynavar|Brynavar]], on the ridge road where the

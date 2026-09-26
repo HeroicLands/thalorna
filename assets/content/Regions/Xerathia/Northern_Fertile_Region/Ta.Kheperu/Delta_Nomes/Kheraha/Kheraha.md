@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Kheraha."
+shortcode: kheraha
+name: {full: Kheraha, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Kheraha."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - kherahanome
+  parents: [kherahanome]
   population: 26000
   packFolder: deltanomes
-name:
-  full: Kheraha
-  aliases: []
-shortcode: kheraha
 ---
 
 ## Overview

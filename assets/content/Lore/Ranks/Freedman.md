@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: freedmanrnk
+name: {full: Freedman, aliases: []}
 type: lore
 subType: law
-name:
-  full: Freedman
-  aliases: []
-shortcode: freedmanrnk
 description: "Manumitted, and still bound in obligation to a former master."
+tags: [draft]
 ---
 
 Manumitted, and still bound in obligation to a former master.

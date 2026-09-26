@@ -1,20 +1,11 @@
 ---
-tags:
-  - city
-  - draft
-description: "City"
+shortcode: kankul2
+name: {full: K'ankul, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - kankulrgn
-  population: 120000
-name:
-  full: K'ankul
-  aliases: []
-shortcode: kankul2
+description: "City"
+tags: [city, draft]
+data: {demonym: null, lore: [], parents: [kankulrgn], population: 120000}
 ---
 
 ## Overview

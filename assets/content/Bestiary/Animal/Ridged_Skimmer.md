@@ -1,13 +1,9 @@
 ---
-tags:
-  - animal
-  - creature
-name:
-  full: Ridged Skimmer
-  aliases: []
-description: "A semi-aquatic ambush predator up to eight feet long plus tail, lurking submerged in rivers and shallows to strike unsuspecting prey."
 shortcode: rdgdskmm
+name: {full: Ridged Skimmer, aliases: []}
 type: being
+description: "A semi-aquatic ambush predator up to eight feet long plus tail, lurking submerged in rivers and shallows to strike unsuspecting prey."
+tags: [animal, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -43,21 +39,21 @@ sohl:
     rea: 1d4+5
     cre: 1d4+4
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 8 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 7 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 70 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 70 } }
-    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 33 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 44 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 56 } }
-    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 38 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 8}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 7}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 70}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 70}}
+    - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 33}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 44}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 56}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 38}}
     - name: Neck Lash and Snap
       type: skill
       system:
@@ -65,35 +61,20 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 65
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: bite
           name: Neck Lash and Snap
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 1
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 3
-            aspect: piercing
+          attack: {disabled: false, spread: 1, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 3, aspect: piercing}
           lengthBase: 0
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
     - name: Tail Whip
       type: skill
       system:
@@ -101,83 +82,56 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 55
         combatCategory: melee
-        impairedByRoles:
-          - locomotor
+        impairedByRoles: [locomotor]
         strikeMode:
           type: melee
           shortcode: tail
           name: Tail Whip
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 2
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 0
-            aspect: blunt
+          attack: {disabled: false, spread: 2, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 0, aspect: blunt}
           lengthBase: 1
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
   system:
     body:
       structure:
         zones:
-          - name: Head
-            shortcode: headzone
-            probWeight: 2
-          - name: Body
-            shortcode: torsozone
-            probWeight: 3
-          - name: Tail
-            shortcode: tailzone
-            probWeight: 1
+          - {name: Head, shortcode: headzone, probWeight: 2}
+          - {name: Body, shortcode: torsozone, probWeight: 3}
+          - {name: Tail, shortcode: tailzone, probWeight: 1}
         parts:
           - name: Head
             shortcode: headpart
             bodyZoneCode: headzone
-            roles:
-              - vital
-              - manipulator
+            roles: [vital, manipulator]
             canHoldItem: false
             probWeight: 10
           - name: Body
             shortcode: torsopart
             bodyZoneCode: torsozone
-            roles:
-              - core
+            roles: [core]
             canHoldItem: false
             probWeight: 10
           - name: Left Fin
             shortcode: lfinpart
             bodyZoneCode: torsozone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 2
           - name: Right Fin
             shortcode: rfinpart
             bodyZoneCode: torsozone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 2
           - name: Tail
             shortcode: tailpart
             bodyZoneCode: tailzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 10
         locations:
@@ -188,11 +142,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 6
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Gills
             shortcode: gillloc
             bodyPartCode: headpart
@@ -200,11 +150,7 @@ sohl:
             amputability: low
             shockValue: 5
             probWeight: 4
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Body
             shortcode: bodyloc
             bodyPartCode: torsopart
@@ -212,11 +158,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 6
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Underbelly
             shortcode: underbellyloc
             bodyPartCode: torsopart
@@ -224,11 +166,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 4
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Left Fin
             shortcode: lfinloc
             bodyPartCode: lfinpart
@@ -236,11 +174,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Right Fin
             shortcode: rfinloc
             bodyPartCode: rfinpart
@@ -248,11 +182,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Tail
             shortcode: tailloc
             bodyPartCode: tailpart
@@ -260,14 +190,8 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
-      weight:
-        base: 50
-        calc: "50"
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
+      weight: {base: 50, calc: "50"}
       reachBase: 0
       bodyScaleBase: 1.22
       personalFatigue: "enc + 5"

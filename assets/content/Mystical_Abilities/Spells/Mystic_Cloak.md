@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Mystic Cloak
-  aliases:
-    - Veil
-description: "Shimmering aura rendering caster invisible to magical perception."
 shortcode: mystclk
+name: {full: Mystic Cloak, aliases: [Veil]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
-  packFolder: spells
+description: "Shimmering aura rendering caster invisible to magical perception."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Veil

@@ -1,18 +1,11 @@
 ---
-tags:
-  - draft
-  - first-gods
+shortcode: tanwenspr
+name: {full: "Tanwen, the Hearth of Eshálosha", aliases: [The Hearth, Tanwen]}
 type: lore
 subType: spirit
 description: "Hearth-kin of the great hall at Eshálosha—the oldest tended fire in Áelendan country, keeper of guest-right, and the one Kindred that came into being because people kept returning."
-name:
-  full: Tanwen, the Hearth of Eshálosha
-  aliases:
-    - The Hearth
-    - Tanwen
-shortcode: tanwenspr
-data:
-  packFolder: lorespiritsaelendan
+tags: [draft, first-gods]
+data: {packFolder: lorespiritsaelendan}
 ---
 
 - **Kind:** Hearth-kin, of [[lore-thekindred|the Kindred]]

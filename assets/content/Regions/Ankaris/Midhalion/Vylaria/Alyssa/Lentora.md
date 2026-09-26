@@ -1,20 +1,11 @@
 ---
-tags:
-  - city
-description: "City"
+shortcode: lentora
+name: {full: Lentora, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - alyssa
-  population: 32000
-  packFolder: vylaria
-name:
-  full: Lentora
-  aliases: []
-shortcode: lentora
+description: "City"
+tags: [city]
+data: {demonym: null, lore: [], parents: [alyssa], population: 32000, packFolder: vylaria}
 ---
 
 ## Overview

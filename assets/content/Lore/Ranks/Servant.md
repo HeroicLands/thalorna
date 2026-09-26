@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: servantrnk
+name: {full: Servant, aliases: []}
 type: lore
 subType: law
-name:
-  full: Servant
-  aliases: []
-shortcode: servantrnk
 description: "Kept for labor about a household or a company, and not counted among its members."
+tags: [draft]
 ---
 
 Kept for labor about a household or a company, and not counted among its members.

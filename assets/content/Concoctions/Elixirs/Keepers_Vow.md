@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: "Keeper's Vow"
-  aliases:
-    - Object Aegis Elixir
-description: "Pearl-like liquid; fortifies objects against arcane intrusion."
 shortcode: elxoba
+name: {full: "Keeper's Vow", aliases: [Object Aegis Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Pearl-like liquid; fortifies objects against arcane intrusion."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

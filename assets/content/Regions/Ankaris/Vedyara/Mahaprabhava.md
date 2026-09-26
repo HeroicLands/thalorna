@@ -1,23 +1,16 @@
 ---
-tags:
-  - sacred
-  - pilgrimage
-  - inland
-description: "The source of the Mahānadi—the widest of the four glacier-mouths, the easiest to reach, and the one the great pilgrimage actually goes to."
+shortcode: mahaprbhva
+name: {full: Mahāprabhava, aliases: []}
 type: place
 subType: site
+description: "The source of the Mahānadi—the widest of the four glacier-mouths, the easiest to reach, and the one the great pilgrimage actually goes to."
+tags: [sacred, pilgrimage, inland]
 data:
   demonym: null
   lore: []
-  parents:
-    - graznmntns
-    - sthrnwall
+  parents: [graznmntns, sthrnwall]
   population: null
   packFolder: vedyara
-name:
-  full: Mahāprabhava
-  aliases: []
-shortcode: mahaprbhva
 ---
 
 **Mahāprabhava** is where the [[place-mahanadi|Mahānadi]] leaves the ice, in a broad cirque at the head of the central valleys where [[place-sthrnwall|the Southern Wall]] stands back a little from the plain. The road to it is a road and not a track. A fit person walks up from the last town in six days, and this is accordingly the source-pilgrimage the ordinary devout make.

@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Plateskin
-  aliases:
-    - Armour
-description: "Caster's skin hardens like armor; deflects blows and blades."
 shortcode: pltskn
+name: {full: Plateskin, aliases: [Armour]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
-  packFolder: spells
+description: "Caster's skin hardens like armor; deflects blows and blades."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Armour

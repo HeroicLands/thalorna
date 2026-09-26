@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: The Pain-Breaker
-  aliases:
-    - Traumashield Elixir
-description: "Luminescent draft; hardens resilience against shock and suffering."
 shortcode: elxtrm
+name: {full: The Pain-Breaker, aliases: [Traumashield Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Luminescent draft; hardens resilience against shock and suffering."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

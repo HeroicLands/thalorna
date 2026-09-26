@@ -1,23 +1,12 @@
 ---
-tags:
-  - kemetian
-  - faith-skill
-  - draft
-type: skill
-subType: mystical
 shortcode: ptah
 name:
   full: "Ritual: Ptā'h"
-  aliases:
-    - Ptā'h
-    - Ptah
-    - Phtah
-    - The Shaper of the Eternal World
-    - The Divine Craftsman
-data:
-  icon: ptah
-  templatePriority: null
-  packFolder: kemetian
+  aliases: [Ptā'h, Ptah, Phtah, The Shaper of the Eternal World, The Divine Craftsman]
+type: skill
+subType: mystical
+tags: [kemetian, faith-skill, draft]
+data: {icon: ptah, templatePriority: null, packFolder: kemetian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

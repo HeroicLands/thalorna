@@ -1,21 +1,11 @@
 ---
-tags:
-  - town
-  - market
-description: "Market Town"
+shortcode: tibur
+name: {full: Tibur, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - alyssa
-  population: 12000
-  packFolder: vylaria
-name:
-  full: Tibur
-  aliases: []
-shortcode: tibur
+description: "Market Town"
+tags: [town, market]
+data: {demonym: null, lore: [], parents: [alyssa], population: 12000, packFolder: vylaria}
 ---
 
 ## Overview

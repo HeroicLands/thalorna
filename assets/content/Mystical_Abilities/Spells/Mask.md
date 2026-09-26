@@ -1,24 +1,17 @@
 ---
-tags: []
-name:
-  full: Mask
-  aliases: []
-description: "Illusion hiding caster's identity and appearance; deeply deceptive."
 shortcode: mask
+name: {full: Mask, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Illusion hiding caster's identity and appearance; deeply deceptive."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Mask

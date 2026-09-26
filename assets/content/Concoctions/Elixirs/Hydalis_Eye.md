@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: "Hydälis's Eye"
-  aliases:
-    - Verity Elixir
-description: "Transparent clarifying elixir; pierces illusions within sixty feet."
 shortcode: elxver
+name: {full: "Hydälis's Eye", aliases: [Verity Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Transparent clarifying elixir; pierces illusions within sixty feet."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

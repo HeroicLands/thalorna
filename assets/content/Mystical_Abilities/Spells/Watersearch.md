@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Watersearch
-  aliases:
-    - Dowsing
-description: "Finds water nearby; locates source of liquid."
 shortcode: wtrsrch
+name: {full: Watersearch, aliases: [Dowsing]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
-  packFolder: spells
+description: "Finds water nearby; locates source of liquid."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Dowsing

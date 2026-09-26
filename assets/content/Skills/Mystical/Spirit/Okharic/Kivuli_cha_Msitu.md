@@ -1,20 +1,11 @@
 ---
-tags:
-  - nkaruthar
-  - spirit-power
-  - draft
-description: "Standing with Kivuli cha Msitu, zohira of the hunt—what this emissary of the Flame is petitioned and interceded with."
+shortcode: kivulisprt
+name: {full: "Kivuli cha Msitu Spirit Power", aliases: [The Shadow of the Forest]}
 type: skill
 subType: mystical
-shortcode: kivulisprt
-name:
-  full: "Kivuli cha Msitu Spirit Power"
-  aliases:
-    - The Shadow of the Forest
-data:
-  icon: icon-psychicwaves
-  templatePriority: null
-  packFolder: spiritskillsokharic
+description: "Standing with Kivuli cha Msitu, zohira of the hunt—what this emissary of the Flame is petitioned and interceded with."
+tags: [nkaruthar, spirit-power, draft]
+data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsokharic}
 sohl:
   system:
     skillBaseFormula: "@aur, @wil"

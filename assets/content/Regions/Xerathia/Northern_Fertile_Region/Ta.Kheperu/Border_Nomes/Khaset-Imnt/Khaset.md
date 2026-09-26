@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Khaset-Imnt."
+shortcode: khaset
+name: {full: Khaset, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Khaset-Imnt."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - khasetimntnome
+  parents: [khasetimntnome]
   population: 12000
   packFolder: bordernomes
-name:
-  full: Khaset
-  aliases: []
-shortcode: khaset
 ---
 
 ## Overview

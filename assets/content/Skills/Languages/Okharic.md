@@ -1,17 +1,11 @@
 ---
-tags: []
-name:
-  full: Okháric Language
-  aliases:
-    - Okháric
-description: "The tongue of the three Okhári city-states, with an archaic sacred register reserved for scripture and temple rites."
 shortcode: okharclng
+name: {full: Okháric Language, aliases: [Okháric]}
 type: skill
 subType: language
-data:
-  icon: icon-speaking
-  templatePriority: null
-  packFolder: language
+description: "The tongue of the three Okhári city-states, with an archaic sacred register reserved for scripture and temple rites."
+tags: []
+data: {icon: icon-speaking, templatePriority: null, packFolder: language}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -20,9 +14,7 @@ sohl:
     combatCategory: none
     parentSkillCode: lang
     initSkillMult: 0
-  flags:
-    "thalorna":
-      lang_family: Okháric (isolate)
+  flags: {"thalorna": {lang_family: Okháric (isolate)}}
 ---
 
 Okháric is a tongue of the Okháric (isolate) family. Fluency measures the sophistication of expression in Okháric, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.

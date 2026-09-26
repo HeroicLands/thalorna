@@ -1,20 +1,10 @@
 ---
-tags:
-  - aureldian
-  - faith-skill
-  - draft
+shortcode: venusia
+name: {full: "Ritual: Venusia", aliases: [Vénusia, The Bountiful One]}
 type: skill
 subType: mystical
-shortcode: venusia
-name:
-  full: "Ritual: Venusia"
-  aliases:
-    - Vénusia
-    - The Bountiful One
-data:
-  icon: venusia
-  templatePriority: null
-  packFolder: aureldian
+tags: [aureldian, faith-skill, draft]
+data: {icon: venusia, templatePriority: null, packFolder: aureldian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

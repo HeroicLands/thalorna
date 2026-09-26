@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Noxious Fume
-  aliases:
-    - Mephitis
-description: "Clouds of toxic gas causing illness and disorientation."
 shortcode: nxfum
+name: {full: Noxious Fume, aliases: [Mephitis]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
-  packFolder: spells
+description: "Clouds of toxic gas causing illness and disorientation."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Mephitis

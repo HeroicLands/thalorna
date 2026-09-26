@@ -1,18 +1,11 @@
 ---
-tags: []
-name:
-  full: Tānvüri Language
-  aliases:
-    - Tānvüri
-    - Tanvuri
-description: "The imperial speech of Tānvür—logographic in script and intricate in morphology, with vernaculars that drift the farther one travels from the capital."
 shortcode: tanvurlng
+name: {full: Tānvüri Language, aliases: [Tānvüri, Tanvuri]}
 type: skill
 subType: language
-data:
-  icon: icon-speaking
-  templatePriority: null
-  packFolder: language
+description: "The imperial speech of Tānvür—logographic in script and intricate in morphology, with vernaculars that drift the farther one travels from the capital."
+tags: []
+data: {icon: icon-speaking, templatePriority: null, packFolder: language}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

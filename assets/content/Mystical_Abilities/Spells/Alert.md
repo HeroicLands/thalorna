@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Alert
-  aliases:
-    - Alarm
-description: "Traces invisible boundary; warns caster of crossers with sensation."
 shortcode: alert
+name: {full: Alert, aliases: [Alarm]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Traces invisible boundary; warns caster of crossers with sensation."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Alarm

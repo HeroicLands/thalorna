@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "From 335 BF to 312 BF the Vylarian Republic takes the Helionite city-states one by one, and in the aftermath the Senate carves the College of Arcane Philosophy out of the Panepistemium and places it under a magistracy that holds the Republic's arcanists as state property."
+shortcode: helionscnq
+name: {full: The Conquest of Heliónis, aliases: [The Constituting of the Praefectura Arcana]}
 type: lore
 subType: history
-name:
-  full: The Conquest of Heliónis
-  aliases:
-    - The Constituting of the Praefectura Arcana
-shortcode: helionscnq
-data:
-  packFolder: settinglore
+description: "From 335 BF to 312 BF the Vylarian Republic takes the Helionite city-states one by one, and in the aftermath the Senate carves the College of Arcane Philosophy out of the Panepistemium and places it under a magistracy that holds the Republic's arcanists as state property."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: conquest

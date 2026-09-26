@@ -1,19 +1,10 @@
 ---
-tags:
-  - asguardian
-  - faith-skill
-  - draft
+shortcode: freyr
+name: {full: "Ritual: Fréyr", aliases: [The Verdant Path]}
 type: skill
 subType: mystical
-shortcode: freyr
-name:
-  full: "Ritual: Fréyr"
-  aliases:
-    - The Verdant Path
-data:
-  icon: freyr
-  templatePriority: null
-  packFolder: asguardian
+tags: [asguardian, faith-skill, draft]
+data: {icon: freyr, templatePriority: null, packFolder: asguardian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Thrall
-  aliases:
-    - Animus
-description: "Dominates target's will; forces absolute obedience."
 shortcode: thrall
+name: {full: Thrall, aliases: [Animus]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
-  packFolder: spells
+description: "Dominates target's will; forces absolute obedience."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Animus

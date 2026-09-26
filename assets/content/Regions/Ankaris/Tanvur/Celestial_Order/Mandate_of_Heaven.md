@@ -1,12 +1,9 @@
 ---
+shortcode: mandatehvn
+name: {full: Mandate of Heaven, aliases: []}
 type: lore
 subType: theology
-name:
-  full: Mandate of Heaven
-  aliases: []
-shortcode: mandatehvn
-data:
-  packFolder: celestialorder
+data: {packFolder: celestialorder}
 ---
 
 ## The Mandate of Heaven (Tëngvōr)

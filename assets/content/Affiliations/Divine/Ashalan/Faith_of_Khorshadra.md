@@ -1,11 +1,12 @@
 ---
-description: "Knowledge, Wisdom, Truth."
-tags:
-  - religion
-  - knowledge-deity
-  - light-deity
+shortcode: korsadra
+name:
+  full: Faith of Khóršádrä
+  aliases: [Bearer of Eternal Light, Wisdom Goddess, "Khóršádrä, Bearer of Eternal Light"]
 type: affiliation
 subType: faithtradition
+description: "Knowledge, Wisdom, Truth."
+tags: [religion, knowledge-deity, light-deity]
 data:
   banner: faithbnr
   templatePriority: null
@@ -15,88 +16,55 @@ data:
   governance:
     model: theocracy
     summary: >-
-      One priesthood serves all twelve gods, because every sacred site is a fire-temple: whichever
-      deity a temple is focused on, it keeps an altar to Ātáröš and priests trained in the kindling
-      and tending of the flame. The ladder is Āthravān, Hērbad, Mōbad, and it is the same in every
-      land—unity enforced not by hierarchy but by the flame itself, which answers to correct
-      technique and not to theological innovation.
+      One priesthood serves all twelve gods, because every sacred site is a fire-temple: whichever deity a temple is focused on, it keeps an altar to Ātáröš and priests trained in the kindling and tending of the flame. The ladder is Āthravān, Hērbad, Mōbad, and it is the same in every land—unity enforced not by hierarchy but by the flame itself, which answers to correct technique and not to theological innovation.
     ranks:
       - level: 0
         title: Flame-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from the fire: no temple will admit them to an altar, and no Hērbad will kindle for
-          them. In a faith where every prayer begins with a flame, this ends religious life
-          entirely.
+          Barred from the fire: no temple will admit them to an altar, and no Hērbad will kindle for them. In a faith where every prayer begins with a flame, this ends religious life entirely.
       - level: 1
         title: Lay Faithful
         lore: layfaithfulrnk
         description: >-
-          Of the faith by observance—keeping the household fire-ritual at sunrise and sunset, which
-          is the foundational act of Āsháian practice and needs no priest.
+          Of the faith by observance—keeping the household fire-ritual at sunrise and sunset, which is the foundational act of Āsháian practice and needs no priest.
       - level: 2
         title: Āthravān
         lore: initiaternk
         description: >-
-          "Fire-Keeper"—initiates whose duty is the flame itself: feeding it with practiced
-          precision, keeping it from wind and rain, collecting and preserving the ashes. Ordination
-          requires maintaining a portion of the temple fire for a full year without its failing.
+          "Fire-Keeper"—initiates whose duty is the flame itself: feeding it with practiced precision, keeping it from wind and rain, collecting and preserving the ashes. Ordination requires maintaining a portion of the temple fire for a full year without its failing.
       - level: 3
         title: Hērbad
         lore: priestrnk
         description: >-
-          "Teacher-Priest"—the working priesthood: daily rituals, instruction, pastoral duty, and
-          the reading of flame-behavior as omen. Trained in theology, astronomy, medicine and the
-          interpretation of signs; they serve in temples, travel with caravans and minister to the
-          tribes.
+          "Teacher-Priest"—the working priesthood: daily rituals, instruction, pastoral duty, and the reading of flame-behavior as omen. Trained in theology, astronomy, medicine and the interpretation of signs; they serve in temples, travel with caravans and minister to the tribes.
       - level: 4
         title: Mōbad
         lore: highpriestrnk
         description: >-
-          "Master of Fire"—senior priest of a major fire-temple or a regional authority,
-          personally responsible for its eternal flame and keeper of its fire-lineage records.
-          Adjudicates theological disputes; the Mōbad of the Great Fire-Temple of Amradad holds
-          influence rivaling the Sultan's vizier.
+          "Master of Fire"—senior priest of a major fire-temple or a regional authority, personally responsible for its eternal flame and keeper of its fire-lineage records. Adjudicates theological disputes; the Mōbad of the Great Fire-Temple of Amradad holds influence rivaling the Sultan's vizier.
     offices:
       Mōbad: >-
-        Master of Fire—senior priest of a major fire-temple, personally answerable for the eternal
-        flame and keeper of the temple's fire-lineage records.
+        Master of Fire—senior priest of a major fire-temple, personally answerable for the eternal flame and keeper of the temple's fire-lineage records.
       Hērbad: >-
-        Teacher-Priest—specializes in fire-ritual and teaches both the sacred procedures and the
-        practical knowledge a healthy flame requires.
+        Teacher-Priest—specializes in fire-ritual and teaches both the sacred procedures and the practical knowledge a healthy flame requires.
       Āthravān: >-
-        Fire-Keeper—initiate charged with feeding, sheltering and preserving the flame and its
-        ashes.
+        Fire-Keeper—initiate charged with feeding, sheltering and preserving the flame and its ashes.
       Flame-Reader: >-
-        A Hērbad skilled in reading a fire: color for the quality of an offering, flicker for the
-        god's mood, and the ash-patterns on the altar stones as messages.
+        A Hērbad skilled in reading a fire: color for the quality of an offering, flicker for the god's mood, and the ash-patterns on the altar stones as messages.
       Keeper of the Fire-Lineage: >-
-        Holds the record of a flame's descent—which fire it was kindled from, and when—on which
-        a temple's standing rests.
+        Holds the record of a flame's descent—which fire it was kindled from, and when—on which a temple's standing rests.
       Caravan Priest: >-
-        A Hērbad who travels with the caravans and ministers to tribal communities beyond any
-        temple's reach.
+        A Hērbad who travels with the caravans and ministers to tribal communities beyond any temple's reach.
   seat: null
   domains: []
   population: null
   economy: []
-  lore:
-    - khorsadradty
-  parents:
-    - ashanpnthn
-  relations:
-    ashanpnthn: aligned
+  lore: [khorsadradty]
+  parents: [ashanpnthn]
+  relations: {ashanpnthn: aligned}
   packFolder: ashaian
-name:
-  full: Faith of Khóršádrä
-  aliases:
-    - Bearer of Eternal Light
-    - Wisdom Goddess
-    - Khóršádrä, Bearer of Eternal Light
-shortcode: korsadra
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 Khóršádrä is the goddess of knowledge, eternal light, and the clarity that reveals truth hidden beneath layers of deception. She is depicted as a radiant female figure crowned with a sunburst, holding aloft a lamp or torch that illuminates even the deepest shadows. Her eyes are said to perceive all things without illusion—she sees through darkness and falsehood as easily as daylight pierces fog. In Āsháian theology, she embodies the principle that knowledge is the foundation of all virtue, that a person who understands truth cannot help but align with Āsha, while one who operates in ignorance cannot help but stumble into Druj. She is revered by scholars, astronomers, physicians, and all those who pursue understanding as a form of spiritual practice. Where [[affiliation-ataros|Ātáröš]] is the fire that transforms and purifies through heat, Khóršádrä is the light that shows things as they truly are—the two are complementary aspects of divine revelation.

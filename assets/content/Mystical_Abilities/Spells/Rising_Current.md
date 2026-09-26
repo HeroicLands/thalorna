@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Rising Current
-  aliases:
-    - Tide
-description: "Commands water flow; raises level or creates powerful currents."
 shortcode: rsngcrnt
+name: {full: Rising Current, aliases: [Tide]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
-  packFolder: spells
+description: "Commands water flow; raises level or creates powerful currents."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Tide

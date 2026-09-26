@@ -1,18 +1,11 @@
 ---
-tags:
-  - strong-elixir
-name:
-  full: Marble Kiss
-  aliases:
-    - Potion, Paralytic, Strong
-description: "Clouded murky pale greenish draft; causes paralysis and petrification."
 shortcode: ptnpars
+name: {full: Marble Kiss, aliases: ["Potion, Paralytic, Strong"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: strong
+description: "Clouded murky pale greenish draft; causes paralysis and petrification."
+tags: [strong-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: strong}
 sohl:
   system:
     weightBase: 0.25

@@ -1,14 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: ptahdty
+name: {full: Ptā'h, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Ptā'h
-  aliases: []
-shortcode: ptahdty
-data:
-  packFolder: deitieskemetian
+tags: [draft]
+data: {packFolder: deitieskemetian}
 ---
 
 ![[icon-ptah|Ptā'h]]{float: top-left, size: medium}

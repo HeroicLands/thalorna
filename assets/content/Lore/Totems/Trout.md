@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The trout as a totemic ideal, and the human character it describes."
+shortcode: troutttm
+name: {full: Trout, aliases: [Trout Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Trout
-  aliases:
-    - Trout Totem
-shortcode: troutttm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The trout as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-trouttotem|Trout]]{float: top-left, size: medium}

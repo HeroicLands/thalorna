@@ -1,19 +1,10 @@
 ---
-tags:
-  - asguardian
-  - faith-skill
-  - draft
+shortcode: freyja
+name: {full: "Ritual: Fréyja", aliases: [The Golden Path]}
 type: skill
 subType: mystical
-shortcode: freyja
-name:
-  full: "Ritual: Fréyja"
-  aliases:
-    - The Golden Path
-data:
-  icon: freyja
-  templatePriority: null
-  packFolder: asguardian
+tags: [asguardian, faith-skill, draft]
+data: {icon: freyja, templatePriority: null, packFolder: asguardian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

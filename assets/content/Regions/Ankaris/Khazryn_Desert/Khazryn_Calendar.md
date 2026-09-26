@@ -1,31 +1,26 @@
 ---
-tags:
-  - reference
-  - calendar
-description: "The ancient Khazryn calendar: twelve thirty-day months and a five-day festival that closes the year at the spring equinox, kept by the Mōbadate against the Ātárzád's own ritual reckoning."
+shortcode: khzrnclndr
+name: {full: The Khazryn Calendar, aliases: [Khazryn Calendar]}
 type: lore
 subType: calendar
-name:
-  full: The Khazryn Calendar
-  aliases:
-    - Khazryn Calendar
-shortcode: khzrnclndr
+description: "The ancient Khazryn calendar: twelve thirty-day months and a five-day festival that closes the year at the spring equinox, kept by the Mōbadate against the Ātárzád's own ritual reckoning."
+tags: [reference, calendar]
 data:
   epoch: 720/1/1
   months:
-    - { name: First, days: 30 }
-    - { name: Second, days: 30 }
-    - { name: Third, days: 30 }
-    - { name: Fourth, days: 30 }
-    - { name: Fifth, days: 30 }
-    - { name: Sixth, days: 30 }
-    - { name: Seventh, days: 30 }
-    - { name: Eighth, days: 30 }
-    - { name: Ninth, days: 30 }
-    - { name: Tenth, days: 30 }
-    - { name: Eleventh, days: 30 }
-    - { name: Twelfth, days: 30 }
-    - { name: The Intercalary Festival, days: 5 }
+    - {name: First, days: 30}
+    - {name: Second, days: 30}
+    - {name: Third, days: 30}
+    - {name: Fourth, days: 30}
+    - {name: Fifth, days: 30}
+    - {name: Sixth, days: 30}
+    - {name: Seventh, days: 30}
+    - {name: Eighth, days: 30}
+    - {name: Ninth, days: 30}
+    - {name: Tenth, days: 30}
+    - {name: Eleventh, days: 30}
+    - {name: Twelfth, days: 30}
+    - {name: The Intercalary Festival, days: 5}
   weekdays: []
   packFolder: khazryndesert
 ---

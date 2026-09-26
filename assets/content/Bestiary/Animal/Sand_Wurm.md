@@ -1,13 +1,9 @@
 ---
-tags:
-  - animal
-  - creature
-name:
-  full: Sand Wurm
-  aliases: []
-description: "A subterranean apex predator up to a hundred feet long, using tremor sense to ambush prey from beneath the sand, virtually unstoppable underground."
 shortcode: sandwurm
+name: {full: Sand Wurm, aliases: []}
 type: being
+description: "A subterranean apex predator up to a hundred feet long, using tremor sense to ambush prey from beneath the sand, virtually unstoppable underground."
+tags: [animal, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -43,21 +39,21 @@ sohl:
     rea: 1d4+3
     cre: 1d4+2
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 37 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 31 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 9 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 6 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 5 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 75 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 55 } }
-    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 33 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 40 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 52 } }
-    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 85 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 37}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 31}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 9}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 6}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 5}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 75}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 55}}
+    - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 33}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 40}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 52}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 85}}
     - name: Erupting Bite
       type: skill
       system:
@@ -65,35 +61,20 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 54
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: bite
           name: Erupting Bite
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 8
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 14
-            aspect: piercing
+          attack: {disabled: false, spread: 8, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 14, aspect: piercing}
           lengthBase: 2
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
     - name: Constricting Body
       type: skill
       system:
@@ -101,72 +82,44 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 59
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: grab
           name: Constricting Body
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 16
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 37
-            aspect: blunt
+          attack: {disabled: false, spread: 16, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 37, aspect: blunt}
           lengthBase: 2
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
-            constrict: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true, constrict: true}
   system:
     body:
       structure:
         zones:
-          - name: Head
-            shortcode: headzone
-            probWeight: 6
-          - name: Forebody
-            shortcode: torsozone
-            probWeight: 22
-          - name: Hindbody
-            shortcode: hindbodyzone
-            probWeight: 12
+          - {name: Head, shortcode: headzone, probWeight: 6}
+          - {name: Forebody, shortcode: torsozone, probWeight: 22}
+          - {name: Hindbody, shortcode: hindbodyzone, probWeight: 12}
         parts:
           - name: Head
             shortcode: headpart
             bodyZoneCode: headzone
-            roles:
-              - vital
-              - manipulator
+            roles: [vital, manipulator]
             canHoldItem: false
             probWeight: 10
           - name: Forebody
             shortcode: forebodypart
             bodyZoneCode: torsozone
-            roles:
-              - core
-              - locomotor
+            roles: [core, locomotor]
             canHoldItem: false
             probWeight: 10
           - name: Hindbody
             shortcode: hindbodypart
             bodyZoneCode: hindbodyzone
-            roles:
-              - core
-              - locomotor
+            roles: [core, locomotor]
             canHoldItem: false
             probWeight: 6
           - name: Tail
@@ -183,11 +136,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 4
-            protectionBase:
-              blunt: 14
-              edged: 13
-              piercing: 12
-              fire: 14
+            protectionBase: {blunt: 14, edged: 13, piercing: 12, fire: 14}
           - name: Neck
             shortcode: neckloc
             bodyPartCode: headpart
@@ -195,11 +144,7 @@ sohl:
             amputability: low
             shockValue: 5
             probWeight: 6
-            protectionBase:
-              blunt: 14
-              edged: 13
-              piercing: 12
-              fire: 14
+            protectionBase: {blunt: 14, edged: 13, piercing: 12, fire: 14}
           - name: Thorax
             shortcode: thoraxloc
             bodyPartCode: forebodypart
@@ -207,11 +152,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 10
-            protectionBase:
-              blunt: 14
-              edged: 13
-              piercing: 12
-              fire: 14
+            protectionBase: {blunt: 14, edged: 13, piercing: 12, fire: 14}
           - name: Abdomen
             shortcode: abdloc
             bodyPartCode: hindbodypart
@@ -219,11 +160,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 10
-            protectionBase:
-              blunt: 14
-              edged: 13
-              piercing: 12
-              fire: 14
+            protectionBase: {blunt: 14, edged: 13, piercing: 12, fire: 14}
           - name: Tail
             shortcode: tailloc
             bodyPartCode: tailpart
@@ -231,14 +168,8 @@ sohl:
             amputability: high
             shockValue: 1
             probWeight: 10
-            protectionBase:
-              blunt: 14
-              edged: 13
-              piercing: 12
-              fire: 14
-      weight:
-        base: 2000
-        calc: "2000"
+            protectionBase: {blunt: 14, edged: 13, piercing: 12, fire: 14}
+      weight: {base: 2000, calc: "2000"}
       reachBase: 0
       bodyScaleBase: 2.2
       personalFatigue: "enc + 5"
@@ -249,11 +180,7 @@ sohl:
         leaguesPerWatch: 4
         encumbrance: "floor(wt/4)"
         strMod: "-5 * floor((str - 10) / 2)"
-        factors:
-          - scope: surface_cover
-            key: dunes
-            mode: add
-            textValue: "0"
+        factors: [{scope: surface_cover, key: dunes, mode: add, textValue: "0"}]
         disabled: false
 ---
 

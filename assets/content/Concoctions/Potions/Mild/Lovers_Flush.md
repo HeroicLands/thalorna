@@ -1,18 +1,11 @@
 ---
-tags:
-  - mild-elixir
-name:
-  full: "Lover's Flush"
-  aliases:
-    - Potion, Aphrodisiac, Mild
-description: "Reddish tincture with gold flecks; grants amorous attraction."
 shortcode: ptnaphrm
+name: {full: "Lover's Flush", aliases: ["Potion, Aphrodisiac, Mild"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: mild
+description: "Reddish tincture with gold flecks; grants amorous attraction."
+tags: [mild-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25

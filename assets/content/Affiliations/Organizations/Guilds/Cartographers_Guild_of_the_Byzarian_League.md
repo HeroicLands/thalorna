@@ -1,6 +1,5 @@
 ---
-tags: []
-description: "Master-trained chartered guild of cartographers and surveyors holding monopoly on military and commercial mapmaking across the Byzarian League—and quietly compromised from within."
+shortcode: crtgrphrsgldbyzrnlg
 name:
   full: The Cartographers' Guild of the Byzarian League
   aliases:
@@ -8,9 +7,10 @@ name:
     - The Guild of Maps
     - The Cartographers' Guild
     - Byzarian Cartographers' Guild
-shortcode: crtgrphrsgldbyzrnlg
 type: affiliation
 subType: guild
+description: "Master-trained chartered guild of cartographers and surveyors holding monopoly on military and commercial mapmaking across the Byzarian League—and quietly compromised from within."
+tags: []
 data:
   templatePriority: null
   demonym: null
@@ -19,43 +19,34 @@ data:
   governance:
     model: council
     summary: >-
-      A chartered guild of cartographers and surveyors, admitted through apprentice, journeyman
-      and master grades, governed by the Council of Masters under its Grand Cartographer.
+      A chartered guild of cartographers and surveyors, admitted through apprentice, journeyman and master grades, governed by the Council of Masters under its Grand Cartographer.
     ranks:
       - level: 1
         title: Apprentice
         lore: apprenticernk
         description: >-
-          Admitted by examination, typically between twelve and sixteen years of age, trained
-          in geometry, drafting, surveying, and the foundational pigments and inks.
+          Admitted by examination, typically between twelve and sixteen years of age, trained in geometry, drafting, surveying, and the foundational pigments and inks.
       - level: 2
         title: Journeyman
         lore: journeymanrnk
         description: >-
-          Qualified by an examined survey of an assigned territory, granted the right to take
-          paid commissions under a master's seal.
+          Qualified by an examined survey of an assigned territory, granted the right to take paid commissions under a master's seal.
       - level: 3
         title: Master
         lore: masterrnk
         description: >-
-          Qualified by a vote of sitting masters after a presented original work, granted the
-          right to seal commissions, take apprentices and sit on guild councils.
+          Qualified by a vote of sitting masters after a presented original work, granted the right to seal commissions, take apprentices and sit on guild councils.
     offices:
       Grand Cartographer: >-
-        Chair of the Council of Masters, presently Olára Mareniês, governing examination
-        standards, commission disputes and the guild's relations with the League's civilian and
-        military authorities.
+        Chair of the Council of Masters, presently Olára Mareniês, governing examination standards, commission disputes and the guild's relations with the League's civilian and military authorities.
   seat: null
   domains: []
   population: null
-  economy:
-    - affiliation-magnumclgm
+  economy: [affiliation-magnumclgm]
   lore: []
   parents: []
   relations: {}
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 - **Type:** Chartered professional guild

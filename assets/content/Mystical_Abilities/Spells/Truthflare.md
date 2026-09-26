@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Truthflare
-  aliases:
-    - Candour
-description: "Reveals deception instantly; exposes lies and falsehoods."
 shortcode: trthflr
+name: {full: Truthflare, aliases: [Candour]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
-  packFolder: spells
+description: "Reveals deception instantly; exposes lies and falsehoods."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Candour

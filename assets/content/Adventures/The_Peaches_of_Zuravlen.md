@@ -1,22 +1,16 @@
 ---
-name:
-  full: The Peaches of Zûravlen
-  aliases: []
 shortcode: pechszrvln
+name: {full: The Peaches of Zûravlen, aliases: []}
 type: scenario
 subType: adventure
 data:
   parents: []
-  locations:
-    - zuravlenrgn
-    - provenzrgn
+  locations: [zuravlenrgn, provenzrgn]
   cast: []
   factions: []
   follows: []
   status: draft
-  party:
-    size: null
-    archetypes: []
+  party: {size: null, archetypes: []}
   packFolder: adventures
 ---
 

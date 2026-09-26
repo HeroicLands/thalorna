@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: "The first country of the delta—the great harbor at the river's westernmost mouth and the marsh-channels and villa-coast around it, the land of the Nome of Per-Ankhet."
-name:
-  full: Per-Ankhet Nome
-  aliases: []
 shortcode: perankhetnome
+name: {full: Per-Ankhet Nome, aliases: []}
 type: place
 subType: region
+description: "The first country of the delta—the great harbor at the river's westernmost mouth and the marsh-channels and villa-coast around it, the land of the Nome of Per-Ankhet."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: Kheperi
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 1100000
   packFolder: perankhet
 ---

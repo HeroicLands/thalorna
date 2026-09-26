@@ -1,15 +1,10 @@
 ---
-tags: []
-name:
-  full: Knuckledusters
-  aliases: []
-description: "Iron rings weighted-knuckle; tavern brawl and street ambush stealth."
 shortcode: kncldstr
+name: {full: Knuckledusters, aliases: []}
 type: weapongear
-data:
-  icon: icon-knuckledusters
-  templatePriority: null
-  packFolder: weapons
+description: "Iron rings weighted-knuckle; tavern brawl and street ambush stealth."
+tags: []
+data: {icon: icon-knuckledusters, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: club
   weaponType: Club
@@ -24,14 +19,8 @@ sohl:
         name: Crush
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 4
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 6
-          modifier: 0
-          aspect: blunt
+        attack: {spread: 4, modifier: 0}
+        impactBase: {numDice: 1, die: 6, modifier: 0, aspect: blunt}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -60,9 +49,7 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 1
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
+        defense: {blockMod: 0, counterstrikeMod: 0}
 ---
 
 Iron rings and bands that slip over the knuckles, turning a fist into a weighted striking tool for use in tight quarters where a blade would be worthless. Some have a ridge or spike welded to the striking face for added bite. A fighter’s choice for tavern brawl or street ambush, easy to carry and easy to hide.

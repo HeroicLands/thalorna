@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "The Khazári reach Thalorna around 5300 BF as seven clans, two thousand years after the Sinalë, and find a world whose humans are hunter-gatherers and cannot provision a hold."
+shortcode: khazararrv
+name: {full: The Coming of the Khazári, aliases: [The Arrival of the Seven Clans]}
 type: lore
 subType: history
-name:
-  full: The Coming of the Khazári
-  aliases:
-    - The Arrival of the Seven Clans
-shortcode: khazararrv
-data:
-  packFolder: settinglore
+description: "The Khazári reach Thalorna around 5300 BF as seven clans, two thousand years after the Sinalë, and find a world whose humans are hunter-gatherers and cannot provision a hold."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: arrival

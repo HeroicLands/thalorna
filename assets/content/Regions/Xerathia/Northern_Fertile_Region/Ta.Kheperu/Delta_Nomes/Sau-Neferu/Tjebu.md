@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Wine Town"
+shortcode: tjebu
+name: {full: Tjebu, aliases: []}
 type: place
 subType: settlement
+description: "Wine Town"
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - sauneferunome
+  parents: [sauneferunome]
   population: 12000
   packFolder: sauneferu
-name:
-  full: Tjebu
-  aliases: []
-shortcode: tjebu
 ---
 
 ## Overview

@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: "Zephäris's Mantle"
-  aliases:
-    - Iceshield Elixir
-description: "Pale frosted blue elixir; grants protection against cold elements."
 shortcode: elxice
+name: {full: "Zephäris's Mantle", aliases: [Iceshield Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Pale frosted blue elixir; grants protection against cold elements."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

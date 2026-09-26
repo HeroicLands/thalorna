@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Pierce
-  aliases:
-    - Lance
-description: "Projectile of force; penetrates armor and causes bleeding wounds."
 shortcode: pierce
+name: {full: Pierce, aliases: [Lance]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
-  packFolder: spells
+description: "Projectile of force; penetrates armor and causes bleeding wounds."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Lance

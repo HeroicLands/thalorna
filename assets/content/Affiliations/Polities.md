@@ -1,15 +1,11 @@
 ---
-name:
-  full: Polities
-  aliases: []
+shortcode: polities
+name: {full: Polities, aliases: []}
 type: doc
 subType: reference
-shortcode: polities
-tags:
-  - draft
 description: States, kingdoms, empires, and other political bodies.
-data:
-  banner: null
+tags: [draft]
+data: {banner: null}
 ---
 
 States, kingdoms, empires, and other political bodies.

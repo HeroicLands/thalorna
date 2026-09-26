@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Arcane Shield
-  aliases:
-    - Aegis
-description: "Translucent disc of force deflects blows and scatters hostile magic."
 shortcode: arcshld
+name: {full: Arcane Shield, aliases: [Aegis]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Translucent disc of force deflects blows and scatters hostile magic."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Aegis

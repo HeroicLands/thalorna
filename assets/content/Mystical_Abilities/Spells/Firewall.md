@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Firewall
-  aliases:
-    - Wall
-description: "Erupts continuous wall of flame; blocks passage and sears crossing."
 shortcode: firewall
+name: {full: Firewall, aliases: [Wall]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
-  packFolder: spells
+description: "Erupts continuous wall of flame; blocks passage and sears crossing."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Wall

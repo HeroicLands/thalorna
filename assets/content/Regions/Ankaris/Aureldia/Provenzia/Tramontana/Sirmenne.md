@@ -1,23 +1,12 @@
 ---
-tags:
-  - sacred
-  - woodland
-  - border
-
-description: "A crumbling ruin in the northern borderlands, older than any settlement around it and sacred to the Áelendan and the Sinalë alike—whose purpose nobody now knows and whose contents are the subject of persistent, dangerous rumor."
+shortcode: sirmenne
+name: {full: Sirmennë, aliases: []}
 type: place
 subType: site
-data:
-  demonym: null
-  lore: []
-  parents:
-    - tramontana
-  population: null
-  packFolder: provenzia
-name:
-  full: Sirmennë
-  aliases: []
-shortcode: sirmenne
+
+description: "A crumbling ruin in the northern borderlands, older than any settlement around it and sacred to the Áelendan and the Sinalë alike—whose purpose nobody now knows and whose contents are the subject of persistent, dangerous rumor."
+tags: [sacred, woodland, border]
+data: {demonym: null, lore: [], parents: [tramontana], population: null, packFolder: provenzia}
 ---
 
 Deep in the borderlands between the [[place-provenzrgn|Provènzia Region]] and

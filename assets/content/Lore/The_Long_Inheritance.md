@@ -1,18 +1,11 @@
 ---
-tags:
-  - lore
-  - elder-races
-  - history
-description: "How humanity was uplifted by the Khazári and the Sinalë without either of them ever intending it—and the small number of relationships through which it continues."
+shortcode: longnhrtnc
+name: {full: The Long Inheritance, aliases: [The Inheritance]}
 type: lore
 subType: history
-name:
-  full: The Long Inheritance
-  aliases:
-    - The Inheritance
-shortcode: longnhrtnc
-data:
-  packFolder: settinglore
+description: "How humanity was uplifted by the Khazári and the Sinalë without either of them ever intending it—and the small number of relationships through which it continues."
+tags: [lore, elder-races, history]
+data: {packFolder: settinglore}
 ---
 
 Both Elder Races came to Thalorna and found humanity already here, living in scattered hunter-gatherer bands, and both decided—separately, and for reasons neither has ever fully explained to a human—to leave humanity to its own becoming. That policy is real. It was sincerely held, it has been maintained ever since, and both peoples believe to this day that they kept it.

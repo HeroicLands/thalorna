@@ -1,18 +1,10 @@
 ---
-tags:
-  - reference
-  - currency
-  - economy
-  - barter
-description: "Direct goods-for-goods exchange—the predominant economic system in tribal, pastoral, and frontier polities of Thalorna where formal currency systems do not function or do not reach."
+shortcode: bartercnmy
+name: {full: The Barter Economy, aliases: [Barter, Barter System]}
 type: lore
 subType: economy
-name:
-  full: The Barter Economy
-  aliases:
-    - Barter
-    - Barter System
-shortcode: bartercnmy
+description: "Direct goods-for-goods exchange—the predominant economic system in tribal, pastoral, and frontier polities of Thalorna where formal currency systems do not function or do not reach."
+tags: [reference, currency, economy, barter]
 ---
 
 ## Overview

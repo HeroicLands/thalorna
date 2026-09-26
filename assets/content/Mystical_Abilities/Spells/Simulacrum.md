@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Simulacrum
-  aliases:
-    - False Soul
-description: "Creates temporary duplicate; copy mimics appearance and mannerism."
 shortcode: smlcrm
+name: {full: Simulacrum, aliases: [False Soul]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Creates temporary duplicate; copy mimics appearance and mannerism."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: False Soul

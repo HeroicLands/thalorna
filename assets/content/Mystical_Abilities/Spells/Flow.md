@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Flow
-  aliases:
-    - Transfer
-description: "Caster merges with nearby liquid; moves through as substance."
 shortcode: flow
+name: {full: Flow, aliases: [Transfer]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
-  packFolder: spells
+description: "Caster merges with nearby liquid; moves through as substance."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Transfer

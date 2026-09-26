@@ -1,24 +1,17 @@
 ---
-tags: []
-name:
-  full: Embermark
-  aliases: []
-description: "Scorches persistent glowing rune; marks target or ignites later."
 shortcode: embrmrk
+name: {full: Embermark, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
-  packFolder: spells
+description: "Scorches persistent glowing rune; marks target or ignites later."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Brand

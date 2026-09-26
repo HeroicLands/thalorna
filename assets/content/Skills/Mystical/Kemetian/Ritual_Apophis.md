@@ -1,23 +1,12 @@
 ---
-tags:
-  - kemetian
-  - faith-skill
-  - draft
-type: skill
-subType: mystical
 shortcode: apophis
 name:
   full: "Ritual: Ápōphis"
-  aliases:
-    - Ápōphis
-    - Apophis
-    - Apep
-    - The Devouring Shadow
-    - The Chaos Serpent
-data:
-  icon: apophis
-  templatePriority: null
-  packFolder: kemetian
+  aliases: [Ápōphis, Apophis, Apep, The Devouring Shadow, The Chaos Serpent]
+type: skill
+subType: mystical
+tags: [kemetian, faith-skill, draft]
+data: {icon: apophis, templatePriority: null, packFolder: kemetian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

@@ -1,18 +1,11 @@
 ---
-tags:
-  - great-elixir
-name:
-  full: "Asp's Atonement"
-  aliases:
-    - Potion, Antivenin, Great
-description: "Nearly transparent golden distillation; heals poison and venom damage."
 shortcode: ptnantvg
+name: {full: "Asp's Atonement", aliases: ["Potion, Antivenin, Great"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: great
+description: "Nearly transparent golden distillation; heals poison and venom damage."
+tags: [great-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: great}
 sohl:
   system:
     weightBase: 0.25

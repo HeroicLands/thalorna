@@ -1,13 +1,9 @@
 ---
-tags:
-  - animal
-  - creature
-name:
-  full: Rockback Bear
-  aliases: []
-description: "A solitary mountain apex bear standing ten feet tall and topped with rocky protrusions, intensely territorial and quick to hunt large prey."
 shortcode: rckbckbr
+name: {full: Rockback Bear, aliases: []}
 type: being
+description: "A solitary mountain apex bear standing ten feet tall and topped with rocky protrusions, intensely territorial and quick to hunt large prey."
+tags: [animal, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -43,21 +39,21 @@ sohl:
     rea: 1d4+4
     cre: 1d4+3
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 18 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 17 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 9 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 7 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 6 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 70 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 60 } }
-    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 33 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 44 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 44 } }
-    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 45 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 18}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 17}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 9}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 7}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 6}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 70}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 33}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 44}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 44}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 45}}
     - name: Massive Claw Swipe
       type: skill
       system:
@@ -65,35 +61,20 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 60
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: claw
           name: Massive Claw Swipe
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 4
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 8
-            modifier: 3
-            aspect: edged
+          attack: {disabled: false, spread: 4, modifier: 0}
+          impactBase: {numDice: 1, die: 8, modifier: 3, aspect: edged}
           lengthBase: 2
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
     - name: Crushing Bite
       type: skill
       system:
@@ -101,66 +82,39 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 60
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: bite
           name: Crushing Bite
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 2
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 4
-            aspect: piercing
+          attack: {disabled: false, spread: 2, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 4, aspect: piercing}
           lengthBase: 1
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
   system:
     body:
       structure:
         zones:
-          - name: Head
-            shortcode: headzone
-            probWeight: 2
-          - name: Forelegs
-            shortcode: forelegszone
-            probWeight: 2
-          - name: Torso
-            shortcode: torsozone
-            probWeight: 4
-          - name: Hindquarters
-            shortcode: hindqtrzone
-            probWeight: 2
+          - {name: Head, shortcode: headzone, probWeight: 2}
+          - {name: Forelegs, shortcode: forelegszone, probWeight: 2}
+          - {name: Torso, shortcode: torsozone, probWeight: 4}
+          - {name: Hindquarters, shortcode: hindqtrzone, probWeight: 2}
         parts:
           - name: Head
             shortcode: headpart
             bodyZoneCode: headzone
-            roles:
-              - vital
-              - manipulator
+            roles: [vital, manipulator]
             canHoldItem: false
             probWeight: 10
           - name: Left Foreleg
             shortcode: lforelegpart
             bodyZoneCode: forelegszone
-            roles: &a1
-              - locomotor
-              - manipulator
+            roles: &a1 [locomotor, manipulator]
             canHoldItem: false
             probWeight: 1
           - name: Right Foreleg
@@ -172,22 +126,19 @@ sohl:
           - name: Torso
             shortcode: torsopart
             bodyZoneCode: torsozone
-            roles:
-              - core
+            roles: [core]
             canHoldItem: false
             probWeight: 10
           - name: Left Hind Leg
             shortcode: lhindlegpart
             bodyZoneCode: hindqtrzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 9
           - name: Right Hind Leg
             shortcode: rhindlegpart
             bodyZoneCode: hindqtrzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 9
           - name: Tail
@@ -204,11 +155,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 6
-            protectionBase:
-              blunt: 6
-              edged: 5
-              piercing: 4
-              fire: 6
+            protectionBase: {blunt: 6, edged: 5, piercing: 4, fire: 6}
           - name: Neck
             shortcode: neckloc
             bodyPartCode: headpart
@@ -216,11 +163,7 @@ sohl:
             amputability: low
             shockValue: 5
             probWeight: 4
-            protectionBase:
-              blunt: 6
-              edged: 5
-              piercing: 4
-              fire: 6
+            protectionBase: {blunt: 6, edged: 5, piercing: 4, fire: 6}
           - name: Left Foreleg
             shortcode: lforelegloc
             bodyPartCode: lforelegpart
@@ -228,11 +171,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 6
-              edged: 5
-              piercing: 4
-              fire: 6
+            protectionBase: {blunt: 6, edged: 5, piercing: 4, fire: 6}
           - name: Right Foreleg
             shortcode: rforelegloc
             bodyPartCode: rforelegpart
@@ -240,11 +179,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 6
-              edged: 5
-              piercing: 4
-              fire: 6
+            protectionBase: {blunt: 6, edged: 5, piercing: 4, fire: 6}
           - name: Thorax
             shortcode: thoraxloc
             bodyPartCode: torsopart
@@ -252,11 +187,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 5
-            protectionBase:
-              blunt: 6
-              edged: 5
-              piercing: 4
-              fire: 6
+            protectionBase: {blunt: 6, edged: 5, piercing: 4, fire: 6}
           - name: Abdomen
             shortcode: abdloc
             bodyPartCode: torsopart
@@ -264,11 +195,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 3
-            protectionBase:
-              blunt: 6
-              edged: 5
-              piercing: 4
-              fire: 6
+            protectionBase: {blunt: 6, edged: 5, piercing: 4, fire: 6}
           - name: Pelvis
             shortcode: plvsloc
             bodyPartCode: torsopart
@@ -276,11 +203,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 2
-            protectionBase:
-              blunt: 6
-              edged: 5
-              piercing: 4
-              fire: 6
+            protectionBase: {blunt: 6, edged: 5, piercing: 4, fire: 6}
           - name: Left Hind Leg
             shortcode: lhindlegloc
             bodyPartCode: lhindlegpart
@@ -288,11 +211,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 6
-              edged: 5
-              piercing: 4
-              fire: 6
+            protectionBase: {blunt: 6, edged: 5, piercing: 4, fire: 6}
           - name: Right Hind Leg
             shortcode: rhindlegloc
             bodyPartCode: rhindlegpart
@@ -300,11 +219,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 6
-              edged: 5
-              piercing: 4
-              fire: 6
+            protectionBase: {blunt: 6, edged: 5, piercing: 4, fire: 6}
           - name: Tail
             shortcode: tailloc
             bodyPartCode: tailpart
@@ -312,14 +227,8 @@ sohl:
             amputability: high
             shockValue: 1
             probWeight: 10
-            protectionBase:
-              blunt: 6
-              edged: 5
-              piercing: 4
-              fire: 6
-      weight:
-        base: 300
-        calc: "300"
+            protectionBase: {blunt: 6, edged: 5, piercing: 4, fire: 6}
+      weight: {base: 300, calc: "300"}
       reachBase: 0
       bodyScaleBase: 1.38
       personalFatigue: "enc + 5"

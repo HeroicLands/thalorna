@@ -1,21 +1,16 @@
 ---
-tags:
-  - draft
-  - character
+shortcode: teitjekvngyrt
 name:
   full: Tëitjëk Vëngyürt
   title: General
   given: Tëitjëk
   clan: Vëngyürt
   home: ""
-  aliases:
-    - Iron Spear Piercing the Clouds
-shortcode: teitjekvngyrt
-description: >-
-  Vüshōk general of the Empire of Tānvür turned rebel—condemned for a
-  disobedience that won the battle it defied, and now leading the revolt that
-  condemnation made inevitable.
+  aliases: [Iron Spear Piercing the Clouds]
 type: being
+description: >-
+  Vüshōk general of the Empire of Tānvür turned rebel—condemned for a disobedience that won the battle it defied, and now leading the revolt that condemnation made inevitable.
+tags: [draft, character]
 data:
   icon: icon-person
   templatePriority: null

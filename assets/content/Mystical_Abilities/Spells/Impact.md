@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Impact
-  aliases:
-    - Meteor
-description: "Blazing sphere descending from sky; massive heat and explosion."
 shortcode: impact
+name: {full: Impact, aliases: [Meteor]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
-  packFolder: spells
+description: "Blazing sphere descending from sky; massive heat and explosion."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Meteor

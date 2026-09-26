@@ -1,14 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: wadjitdty
+name: {full: Wadjit, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Wadjit
-  aliases: []
-shortcode: wadjitdty
-data:
-  packFolder: deitieskemetian
+tags: [draft]
+data: {packFolder: deitieskemetian}
 ---
 
 _The Cobra-Goddess._

@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Sentinel
-  aliases:
-    - Guardian
-description: "Creates guardian watchpoint; alerts caster to intrusion nearby."
 shortcode: sentinel
+name: {full: Sentinel, aliases: [Guardian]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
-  packFolder: spells
+description: "Creates guardian watchpoint; alerts caster to intrusion nearby."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Guardian

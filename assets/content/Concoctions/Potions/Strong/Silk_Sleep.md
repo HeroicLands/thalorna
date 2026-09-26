@@ -1,18 +1,11 @@
 ---
-tags:
-  - strong-elixir
-name:
-  full: Silk Sleep
-  aliases:
-    - Potion, Soporific, Strong
-description: "Deep gray blue-tinged liquid; induces deep sleep and rest."
 shortcode: ptnsops
+name: {full: Silk Sleep, aliases: ["Potion, Soporific, Strong"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: strong
+description: "Deep gray blue-tinged liquid; induces deep sleep and rest."
+tags: [strong-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: strong}
 sohl:
   system:
     weightBase: 0.25

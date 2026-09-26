@@ -1,23 +1,11 @@
 ---
-tags:
-  - sacred
-  - temple
-  - mountain
-  - inland
-description: "The Mahájaya temple at the foot of the mountain where the Bhārava proper begins, with the jewelers' quarter at its gate and the youngest of the three priests in its house."
+shortcode: lowersuvtmpl
+name: {full: The Temple of Lower Suvarnagiri, aliases: []}
 type: place
 subType: structure
-data:
-  demonym: null
-  lore: []
-  parents:
-    - suvarnagirijnpd
-  population: null
-  packFolder: vedyara
-name:
-  full: The Temple of Lower Suvarnagiri
-  aliases: []
-shortcode: lowersuvtmpl
+description: "The Mahájaya temple at the foot of the mountain where the Bhārava proper begins, with the jewelers' quarter at its gate and the youngest of the three priests in its house."
+tags: [sacred, temple, mountain, inland]
+data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: null, packFolder: vedyara}
 ---
 
 The **temple of Lower Suvarnagiri** stands at the foot of [[place-goldmountain|the Gold Mountain]], where [[place-bharavarivr|the Bhārava]] proper begins. It is the temple outsiders meet, because the road up the valley reaches it first and because the jewelers' quarter is at its gate.

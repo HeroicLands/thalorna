@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: The Sealed Threshold
-  aliases: []
-description: "Inscribes a ward on a doorway or lid that resists opening by any but the named holder."
 shortcode: sldthrshld
+name: {full: The Sealed Threshold, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: maatken
-  templatePriority: null
-  packFolder: hekauincantations
+description: "Inscribes a ward on a doorway or lid that resists opening by any but the named holder."
+tags: [khemenu-hekau, incantation]
+data: {icon: maatken, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: maatken
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---
 
 The commonest protective working in the empire, cut into the jamb or the seal itself and standing

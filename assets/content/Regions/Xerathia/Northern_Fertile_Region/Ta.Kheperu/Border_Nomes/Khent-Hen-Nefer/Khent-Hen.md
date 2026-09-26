@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Khent-Hen-Nefer."
+shortcode: khenthen
+name: {full: Khent-Hen, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Khent-Hen-Nefer."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - khenthennefernome
+  parents: [khenthennefernome]
   population: 15000
   packFolder: bordernomes
-name:
-  full: Khent-Hen
-  aliases: []
-shortcode: khenthen
 ---
 
 ## Overview

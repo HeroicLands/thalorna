@@ -1,19 +1,10 @@
 ---
-tags:
-  - organization
-  - vedyara
-  - intelligence
-  - courtesan
-  - underworld
-description: "Prestigious Vedyaran courtesan establishment doubling as the subcontinent's premier intelligence network—gathering secrets from wealthy clients and selling them on to loom-masters, merchant houses, courts and the Guild of Taking alike."
-name:
-  full: The Twilight House
-  aliases:
-    - The House of the Long Evening
-    - Sandhyāgriha
 shortcode: twilighths
+name: {full: The Twilight House, aliases: [The House of the Long Evening, Sandhyāgriha]}
 type: affiliation
 subType: guild
+description: "Prestigious Vedyaran courtesan establishment doubling as the subcontinent's premier intelligence network—gathering secrets from wealthy clients and selling them on to loom-masters, merchant houses, courts and the Guild of Taking alike."
+tags: [organization, vedyara, intelligence, courtesan, underworld]
 data:
   templatePriority: null
   demonym: null
@@ -22,101 +13,79 @@ data:
   governance:
     model: oligarchy
     summary: >-
-      A hierarchical guild of women under the Mistress of the Long Evening, an elder courtesan
-      retired from clients, with handlers forming a parallel structure beside the Companions.
+      A hierarchical guild of women under the Mistress of the Long Evening, an elder courtesan retired from clients, with handlers forming a parallel structure beside the Companions.
     ranks:
       - level: 0
         title: Cast Out
         lore: expelledrnk
         description: >-
-          Put out of the House, her training disowned and her name given to every satellite
-          house and to the Guild—no door in Vedyara opens to her again.
+          Put out of the House, her training disowned and her name given to every satellite house and to the Guild—no door in Vedyara opens to her again.
       - level: 1
         title: Servant of the House
         lore: servantrnk
         description: >-
-          Kept for the running of the establishment—its kitchens, its linens, its doors—and taught
-          nothing of the curriculum.
+          Kept for the running of the establishment—its kitchens, its linens, its doors—and taught nothing of the curriculum.
       - level: 2
         title: Novice
         lore: catechumenrnk
         description: >-
-          Under instruction in the curriculum: the poetry in three court dialects, the four
-          instruments, the reckoning and the reading of a room.
+          Under instruction in the curriculum: the poetry in three court dialects, the four instruments, the reckoning and the reading of a room.
       - level: 3
         title: Companion
         lore: swornmemberrnk
         description: >-
-          Graduated and receiving clients, and debriefed after every engagement by the handler
-          assigned to her.
+          Graduated and receiving clients, and debriefed after every engagement by the handler assigned to her.
       - level: 4
         title: Senior Companion
         lore: earnerrnk
         description: >-
-          Trusted with the clients whose evenings are worth the most and whose talk is worth
-          more, and consulted on whom to recruit.
+          Trusted with the clients whose evenings are worth the most and whose talk is worth more, and consulted on whom to recruit.
       - level: 5
         title: Handler
         lore: officerrnk
         description: >-
-          Commonly a former Companion, who debriefs, transcribes, and decides what a night's
-          talk is worth and to whom.
+          Commonly a former Companion, who debriefs, transcribes, and decides what a night's talk is worth and to whom.
       - level: 6
         title: Mistress of a Satellite House
         lore: commanderrnk
         description: >-
-          Holding one of the houses in the other Vedyaran cities, answerable for its Companions
-          and its product.
+          Holding one of the houses in the other Vedyaran cities, answerable for its Companions and its product.
       - level: 7
         title: Elder of the House
         lore: elderrnk
         description: >-
-          Retired from clients and of the small body that sets the curriculum, the tiers and
-          the terms.
+          Retired from clients and of the small body that sets the curriculum, the tiers and the terms.
       - level: 8
         title: Mistress of the Long Evening
         lore: grandmasterrnk
         description: >-
-          The Sandhyā-mātā: an elder courtesan withdrawn from clients who governs the House,
-          its instruction and everything it sells.
+          The Sandhyā-mātā: an elder courtesan withdrawn from clients who governs the House, its instruction and everything it sells.
     offices:
-      Mistress of the Long Evening: The Sandhyā-mātā, who governs the House, its curriculum
-        and the sale of what it hears.
+      Mistress of the Long Evening: The Sandhyā-mātā, who governs the House, its curriculum and the sale of what it hears.
       Elder of the House: >-
-        Retired from clients, setting the curriculum, the intelligence tiers and the terms
-        of sale.
-      Mistress of a Satellite House: Holder of one of the houses in the other major Vedyaran
-        cities.
+        Retired from clients, setting the curriculum, the intelligence tiers and the terms of sale.
+      Mistress of a Satellite House: Holder of one of the houses in the other major Vedyaran cities.
       Handler: >-
-        Debriefer of a Companion after each engagement, and the first judge of what a night's
-        talk is worth.
+        Debriefer of a Companion after each engagement, and the first judge of what a night's talk is worth.
       Mistress of Instruction: >-
-        Keeper of the curriculum—the poetry, the instruments, the reckoning, the reading
-        of a room.
-      Keeper of the Ledger: Custodian of the product and its three tiers, and of who has bought
-        which of them.
+        Keeper of the curriculum—the poetry, the instruments, the reckoning, the reading of a room.
+      Keeper of the Ledger: Custodian of the product and its three tiers, and of who has bought which of them.
       Factor to the Guild: >-
-        The House's channel to the Ādānashrenī, through whom recruitment and shared operations
-        pass.
-      Doorkeeper: Warden of the threshold, who knows every client's face and admits no servant
-        behind him.
-      House Physician: Keeper of the Companions' health, and of a great deal that is never
-        written down.
+        The House's channel to the Ādānashrenī, through whom recruitment and shared operations pass.
+      Doorkeeper: Warden of the threshold, who knows every client's face and admits no servant behind him.
+      House Physician: Keeper of the Companions' health, and of a great deal that is never written down.
   seat: sandhyagrha
   domains: []
   population: null
   economy: []
-  lore:
-    - vedyariclt
+  lore: [vedyariclt]
   parents: []
   relations:
     mrchntclctvvdyr: unaligned
     velvethand: unaligned
     crmsyndctsthlrn: unaligned
     vindhyalay: unaligned
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 - **Type:** Courtesan establishment and intelligence network

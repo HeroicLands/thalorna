@@ -1,20 +1,11 @@
 ---
-tags:
-  - city
-  - draft
-description: "City"
+shortcode: tzikinbalm2
+name: {full: Tz'ikin Ba'alam, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - tzikinbalmrgn
-  population: null
-name:
-  full: Tz'ikin Ba'alam
-  aliases: []
-shortcode: tzikinbalm2
+description: "City"
+tags: [city, draft]
+data: {demonym: null, lore: [], parents: [tzikinbalmrgn], population: null}
 ---
 
 ## Overview

@@ -1,23 +1,10 @@
 ---
-tags:
-  - deity
-  - elder-races
-  - sinalë
-  - khazári
-  - dreams
-  - light
-name:
-  full: The God of Dreams
-  aliases:
-    - Lúminarë
-    - Khaldûr
-    - Baldr
-    - Aethería
 shortcode: goddreams
+name: {full: The God of Dreams, aliases: [Lúminarë, Khaldûr, Baldr, Aethería]}
 type: lore
 subType: deity
-data:
-  packFolder: pantheons
+tags: [deity, elder-races, sinalë, khazári, dreams, light]
+data: {packFolder: pantheons}
 ---
 
 This deity—of dreams, light, and the stewardship of the natural world—is the oldest continuously worshipped god in Thalorna. The [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] each venerated this god for millennia before the first human civilizations arose. Every human faith that touches this deity's domains is, knowingly or not, derivative of the elder races' original worship.

@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: "Caravan-head for the eastern desert roads; harvest-festivals and virility cults—the land of the Nome of Sept-Min, one of the upper-river nomes of Ta'Kheperu."
-name:
-  full: Sept-Min
-  aliases: []
 shortcode: septminnome
+name: {full: Sept-Min, aliases: []}
 type: place
 subType: region
+description: "Caravan-head for the eastern desert roads; harvest-festivals and virility cults—the land of the Nome of Sept-Min, one of the upper-river nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 460000
   packFolder: upperrivernomes
 ---

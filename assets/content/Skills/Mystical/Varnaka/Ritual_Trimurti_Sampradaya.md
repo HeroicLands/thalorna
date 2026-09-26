@@ -1,9 +1,4 @@
 ---
-tags:
-  - varnaka
-  - faith-skill
-type: skill
-subType: mystical
 shortcode: trimurtisampradaya
 name:
   full: "Ritual: Trimūrti-sampradāya"
@@ -12,9 +7,10 @@ name:
     - Trimurti Sampradaya
     - Tradition of the Three Forms
     - Trimūrti Tradition
-data:
-  templatePriority: null
-  packFolder: varnaka
+type: skill
+subType: mystical
+tags: [varnaka, faith-skill]
+data: {templatePriority: null, packFolder: varnaka}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

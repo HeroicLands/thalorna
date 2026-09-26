@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: The Quickened Thread
-  aliases:
-    - Equipose Elixir
-description: "Mirror-bright elixir; grants heightened sensory awareness and reactions."
 shortcode: elxeqp
+name: {full: The Quickened Thread, aliases: [Equipose Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Mirror-bright elixir; grants heightened sensory awareness and reactions."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

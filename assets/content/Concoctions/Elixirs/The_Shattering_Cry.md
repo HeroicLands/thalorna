@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: The Shattering Cry
-  aliases:
-    - Shout Elixir
-description: "Golden vibrant elixir; amplifies speech to devastating sonic power."
 shortcode: elxsht
+name: {full: The Shattering Cry, aliases: [Shout Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Golden vibrant elixir; amplifies speech to devastating sonic power."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

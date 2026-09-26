@@ -1,18 +1,10 @@
 ---
-tags:
-  - ashalan
-  - faith-skill
-  - draft
+shortcode: aravesta
+name: {full: "Ritual: Árávēštä", aliases: [The Golden Giver]}
 type: skill
 subType: mystical
-shortcode: aravesta
-name:
-  full: "Ritual: Árávēštä"
-  aliases:
-    - The Golden Giver
-data:
-  templatePriority: null
-  packFolder: ashalan
+tags: [ashalan, faith-skill, draft]
+data: {templatePriority: null, packFolder: ashalan}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

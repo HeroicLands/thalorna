@@ -1,15 +1,11 @@
 ---
-name:
-  full: Lore
-  aliases: []
+shortcode: lore
+name: {full: Lore, aliases: []}
 type: doc
 subType: reference
-shortcode: lore
-tags:
-  - draft
 description: Myths, legends, and background lore.
-data:
-  banner: null
+tags: [draft]
+data: {banner: null}
 ---
 
 Myths, legends, and background lore.

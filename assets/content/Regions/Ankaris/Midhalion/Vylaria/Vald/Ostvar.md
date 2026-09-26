@@ -1,21 +1,11 @@
 ---
-tags:
-  - town
-  - fishing
-description: "Fishing Town"
+shortcode: ostvar
+name: {full: Ostvar, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vald
-  population: 8000
-  packFolder: vylaria
-name:
-  full: Ostvar
-  aliases: []
-shortcode: ostvar
+description: "Fishing Town"
+tags: [town, fishing]
+data: {demonym: null, lore: [], parents: [vald], population: 8000, packFolder: vylaria}
 ---
 
 ## Overview

@@ -1,12 +1,10 @@
 ---
-tags: []
+shortcode: osketguides
+name: {full: The Ösket, aliases: []}
 type: affiliation
 subType: polity
 description: The guide-people of the western and central crossings—hereditary lineages who hold the roads over the wall, keep the one road nobody else knows, and answer to no authority below the cols.
-name:
-  full: The Ösket
-  aliases: []
-shortcode: osketguides
+tags: []
 data:
   templatePriority: null
   demonym: Ösket
@@ -15,82 +13,61 @@ data:
   governance:
     model: confederation
     summary: >-
-      Hereditary road-holding lineages, each sovereign on its own crossing, meeting at the
-      cols when a question touches more than one of them.
+      Hereditary road-holding lineages, each sovereign on its own crossing, meeting at the cols when a question touches more than one of them.
     ranks:
       - level: 0
         title: Roadless
         lore: outlawrnk
         description: >-
-          Put out of every lineage for selling a road or losing a party through carelessness,
-          and taken over the wall by nobody.
+          Put out of every lineage for selling a road or losing a party through carelessness, and taken over the wall by nobody.
       - level: 1
         title: Fosterling
         lore: dependentrnk
-        description: Taken into a hearth without being of its blood, fed and taught and holding
-          no share.
+        description: Taken into a hearth without being of its blood, fed and taught and holding no share.
       - level: 2
         title: Hearth-kin
         lore: kinsmanrnk
         description: >-
-          Of a hearth's blood, entitled to its shelter, its herds and its share of a season's
-          fee.
+          Of a hearth's blood, entitled to its shelter, its herds and its share of a season's fee.
       - level: 3
         title: Herdholder
         lore: commonerrnk
-        description: Holding beasts and a stake in a high pasture, and answering for both at
-          the hearth.
+        description: Holding beasts and a stake in a high pasture, and answering for both at the hearth.
       - level: 4
         title: Carrier
         lore: journeymanrnk
         description: >-
-          Walking the roads under another's word, carrying loads and learning the ground a
-          season at a time.
+          Walking the roads under another's word, carrying loads and learning the ground a season at a time.
       - level: 5
         title: Road-holder
         lore: masterrnk
-        description: Holding a crossing in his own right and entitled to take a caravan over
-          it.
+        description: Holding a crossing in his own right and entitled to take a caravan over it.
       - level: 6
         title: Guide-mother
         lore: elderrnk
         description: >-
-          Senior woman of a lineage, holding its knowledge of the road and saying whether the
-          road is open.
+          Senior woman of a lineage, holding its knowledge of the road and saying whether the road is open.
       - level: 7
         title: Speaker of the Cols
         lore: prsdngffcrrnk
-        description: Speaking for the lineages when they meet, binding none of them and heard
-          by all.
+        description: Speaking for the lineages when they meet, binding none of them and heard by all.
     offices:
       Speaker of the Cols: >-
-        Convener of the meeting at the cols, holder of its peace, and empowered to settle
-        nothing.
+        Convener of the meeting at the cols, holder of its peace, and empowered to settle nothing.
       Guide-mother: >-
-        Senior woman of a lineage, in whom its knowledge of a road is held and by whom a
-        crossing is permitted or refused.
-      Road-holder: Holder of a crossing by descent, answerable for every party that goes over
-        it.
+        Senior woman of a lineage, in whom its knowledge of a road is held and by whom a crossing is permitted or refused.
+      Road-holder: Holder of a crossing by descent, answerable for every party that goes over it.
       Cord-keeper: >-
-        Keeper of the lineage's knotted route-record, which is read by nobody outside the
-        blood.
-      Snow-watcher: Reader of the summit at first light, whose word moves a caravan or halts
-        it.
-      Hearth-warden: Holder of the winter stores and of the obligation to shelter whoever
-        reaches the door.
+        Keeper of the lineage's knotted route-record, which is read by nobody outside the blood.
+      Snow-watcher: Reader of the summit at first light, whose word moves a caravan or halts it.
+      Hearth-warden: Holder of the winter stores and of the obligation to shelter whoever reaches the door.
       Fee-reckoner: >-
-        Setter of a season's price against a caravan's worth, and keeper of what is owed
-        between lineages.
+        Setter of a season's price against a caravan's worth, and keeper of what is owed between lineages.
   seat: oskhelt
-  domains:
-    - oskhelt
-    - tsokhar
-    - shunydvara
+  domains: [oskhelt, tsokhar, shunydvara]
   population: 21000
-  economy:
-    - lore-bartercnmy
-  lore:
-    - osketclt
+  economy: [lore-bartercnmy]
+  lore: [osketclt]
   parents: []
   relations:
     vindhyalay: unaligned
@@ -98,10 +75,7 @@ data:
     svapnasarisamaja: aligned
     mrchntclctvvdyr: unaligned
   packFolder: vedyara
-sohl:
-  system:
-    commonSkills:
-      - osketlng
+sohl: {system: {commonSkills: [osketlng]}}
 ---
 
 The **Ösket** hold the western and central crossings of [[place-graznmntns|the Grazian wall]]—[[place-meghadvara|Meghadvāra]], [[place-suryadvara|Sūryadvāra]], [[place-tamradvara|Tāmradvāra]] and [[place-gudesroad|the Guides' Road]]—and without them nothing crosses. They are not a kingdom, a tribe or a confederation in any sense a lowland clerk would recognize, and the word they use for themselves means, as near as anyone has got, "the people of the way."

@@ -1,13 +1,9 @@
 ---
-tags:
-  - dreadspawn
-  - creature
-name:
-  full: Thunderhorn
-  aliases: []
-description: "A massive, storm-infused beast of territorial fury that roams lightning-swept highlands, feeding on the electrical energy of thunderstorms."
 shortcode: thndrhrn
+name: {full: Thunderhorn, aliases: []}
 type: being
+description: "A massive, storm-infused beast of territorial fury that roams lightning-swept highlands, feeding on the electrical energy of thunderstorms."
+tags: [dreadspawn, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -42,21 +38,21 @@ sohl:
     rea: 1d4+5
     cre: 1d4+5
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 17 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 17 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 8 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 9 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 9 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 8 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 8 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 55 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 55 } }
-    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 36 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 44 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 36 } }
-    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 43 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 17}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 17}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 8}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 9}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 9}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 8}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 8}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 55}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 55}}
+    - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 36}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 44}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 36}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 43}}
     - name: Electrified Charge
       type: skill
       system:
@@ -64,35 +60,20 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 48
         combatCategory: melee
-        impairedByRoles:
-          - core
+        impairedByRoles: [core]
         strikeMode:
           type: melee
           shortcode: ram
           name: Electrified Charge
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 8
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 3
-            aspect: fire
+          attack: {disabled: false, spread: 8, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 3, aspect: fire}
           lengthBase: 2
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
     - name: Thunderous Stomp
       type: skill
       system:
@@ -100,35 +81,20 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 48
         combatCategory: melee
-        impairedByRoles:
-          - locomotor
+        impairedByRoles: [locomotor]
         strikeMode:
           type: melee
           shortcode: kick
           name: Thunderous Stomp
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 8
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 1
-            aspect: blunt
+          attack: {disabled: false, spread: 8, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 1, aspect: blunt}
           lengthBase: 3
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
     - name: Electrical Discharge
       type: skill
       system:
@@ -136,23 +102,15 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 58
         combatCategory: missile
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: missile
           shortcode: bolt
           name: Electrical Discharge
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 0
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 6
-            aspect: fire
+          attack: {disabled: false, spread: 0, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 6, aspect: fire}
           projectileType: none
           maxVolleyMult: 1
           baseRangeBase: 180
@@ -162,32 +120,21 @@ sohl:
     body:
       structure:
         zones:
-          - name: Head
-            shortcode: headzone
-            probWeight: 4
-          - name: Forelegs
-            shortcode: forelegszone
-            probWeight: 2
-          - name: Torso
-            shortcode: torsozone
-            probWeight: 8
-          - name: Hindquarters
-            shortcode: hindqtrzone
-            probWeight: 6
+          - {name: Head, shortcode: headzone, probWeight: 4}
+          - {name: Forelegs, shortcode: forelegszone, probWeight: 2}
+          - {name: Torso, shortcode: torsozone, probWeight: 8}
+          - {name: Hindquarters, shortcode: hindqtrzone, probWeight: 6}
         parts:
           - name: Head
             shortcode: headpart
             bodyZoneCode: headzone
-            roles:
-              - vital
-              - manipulator
+            roles: [vital, manipulator]
             canHoldItem: false
             probWeight: 10
           - name: Left Foreleg
             shortcode: lforelegpart
             bodyZoneCode: forelegszone
-            roles: &a1
-              - locomotor
+            roles: &a1 [locomotor]
             canHoldItem: false
             probWeight: 1
           - name: Right Foreleg
@@ -199,22 +146,19 @@ sohl:
           - name: Torso
             shortcode: torsopart
             bodyZoneCode: torsozone
-            roles:
-              - core
+            roles: [core]
             canHoldItem: false
             probWeight: 10
           - name: Left Hind Leg
             shortcode: lhindlegpart
             bodyZoneCode: hindqtrzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 9
           - name: Right Hind Leg
             shortcode: rhindlegpart
             bodyZoneCode: hindqtrzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 9
           - name: Tail
@@ -231,11 +175,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 4
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
           - name: Neck
             shortcode: neckloc
             bodyPartCode: headpart
@@ -243,11 +183,7 @@ sohl:
             amputability: low
             shockValue: 5
             probWeight: 6
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
           - name: Left Foreleg
             shortcode: lforelegloc
             bodyPartCode: lforelegpart
@@ -255,11 +191,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
           - name: Right Foreleg
             shortcode: rforelegloc
             bodyPartCode: rforelegpart
@@ -267,11 +199,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
           - name: Flank
             shortcode: flkloc
             bodyPartCode: torsopart
@@ -279,11 +207,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 6
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
           - name: Abdomen
             shortcode: abdloc
             bodyPartCode: torsopart
@@ -291,11 +215,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 4
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
           - name: Left Quarter
             shortcode: lqtrloc
             bodyPartCode: lhindlegpart
@@ -303,11 +223,7 @@ sohl:
             amputability: none
             shockValue: 3
             probWeight: 5
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
           - name: Left Hind Leg
             shortcode: lhindlegloc
             bodyPartCode: lhindlegpart
@@ -315,11 +231,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 4
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
           - name: Right Quarter
             shortcode: rqtrloc
             bodyPartCode: rhindlegpart
@@ -327,11 +239,7 @@ sohl:
             amputability: none
             shockValue: 3
             probWeight: 5
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
           - name: Right Hind Leg
             shortcode: rhindlegloc
             bodyPartCode: rhindlegpart
@@ -339,11 +247,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 4
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
           - name: Tail
             shortcode: tailloc
             bodyPartCode: tailpart
@@ -351,14 +255,8 @@ sohl:
             amputability: high
             shockValue: 1
             probWeight: 10
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
-      weight:
-        base: 2000
-        calc: "2000"
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
+      weight: {base: 2000, calc: "2000"}
       reachBase: 0
       bodyScaleBase: 1.33
       personalFatigue: "enc + 5"

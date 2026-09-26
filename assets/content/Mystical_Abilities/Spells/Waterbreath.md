@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Waterbreath
-  aliases:
-    - Gills
-description: "Grants water-breathing; enables underwater respiration. effect"
 shortcode: wtrbrth
+name: {full: Waterbreath, aliases: [Gills]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
-  packFolder: spells
+description: "Grants water-breathing; enables underwater respiration. effect"
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Gills

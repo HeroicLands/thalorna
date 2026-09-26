@@ -1,18 +1,11 @@
 ---
-tags:
-  - strong-elixir
-name:
-  full: Lotus Ease
-  aliases:
-    - Potion, Narcotic, Strong
-description: "Deep amber golden liquid; brings profound peace and calm."
 shortcode: ptnnars
+name: {full: Lotus Ease, aliases: ["Potion, Narcotic, Strong"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: strong
+description: "Deep amber golden liquid; brings profound peace and calm."
+tags: [strong-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: strong}
 sohl:
   system:
     weightBase: 0.25

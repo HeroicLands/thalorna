@@ -1,10 +1,10 @@
 ---
-description: "Prosperity."
-tags:
-  - aureldian
-  - religion
+shortcode: venusia
+name: {full: Faith of Venusia, aliases: [The Bountiful One, Vénusia]}
 type: affiliation
 subType: faithtradition
+description: "Prosperity."
+tags: [aureldian, religion]
 data:
   banner: faithbnr
   icon: venusia
@@ -15,21 +15,18 @@ data:
   governance:
     model: oligarchy
     summary: >-
-      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the
-      High Priestess of a Temple above them. The lay faithful keep the feasts without office.
+      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the High Priestess of a Temple above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out—denied the rites, the temple and the burial the faith promises, which is the one
-          sentence it can pass that outlives the body.
+          Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
         lore: layfaithfulrnk
         description: >-
-          The lay faithful, who keep the feasts and the observances of the god without holding office
-          in the temple.
+          The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
         title: Acolytes
         lore: initiaternk
@@ -39,46 +36,30 @@ data:
         title: Priestesses of the Temple
         lore: priestrnk
         description: >-
-          Ordained clergy who manage daily worship, keep the sacred spaces and counsel those seeking
-          the goddess's favor.
+          Ordained clergy who manage daily worship, keep the sacred spaces and counsel those seeking the goddess's favor.
       - level: 4
         title: High Priestess of a Temple
         lore: grandmasterrnk
         description: >-
-          Each major city's temple is governed by its own High Priestess—or High Priest, though
-          priestesses are far more common. There is no centralized hierarchy above them.
+          Each major city's temple is governed by its own High Priestess—or High Priest, though priestesses are far more common. There is no centralized hierarchy above them.
     offices:
       High Priestess of a Temple: >-
-        Each major city's temple is governed by its own High Priestess—or High Priest, though
-        priestesses are far more common. There is no centralized hierarchy above them.
+        Each major city's temple is governed by its own High Priestess—or High Priest, though priestesses are far more common. There is no centralized hierarchy above them.
       Priestesses of the Temple: >-
-        Ordained clergy who manage daily worship, keep the sacred spaces and counsel those seeking
-        the goddess's favor.
+        Ordained clergy who manage daily worship, keep the sacred spaces and counsel those seeking the goddess's favor.
       Acolytes: >-
         Younger devotees in training, not yet ordained, who study the theology of prosperity and often serve as scribes and administrators.
       Temple Companion: >-
-        A practitioner of courtesanship consecrated to the goddess and understood as a sacred
-        priestess in her own right—a formally recognized office of this faith.
+        A practitioner of courtesanship consecrated to the goddess and understood as a sacred priestess in her own right—a formally recognized office of this faith.
   seat: null
   domains: []
   population: null
   economy: []
-  lore:
-    - venusiadty
-  parents:
-    - arldnpnthn
-  relations:
-    arldnpnthn: aligned
+  lore: [venusiadty]
+  parents: [arldnpnthn]
+  relations: {arldnpnthn: aligned}
   packFolder: pantheonsaureldian
-name:
-  full: Faith of Venusia
-  aliases:
-    - The Bountiful One
-    - Vénusia
-shortcode: venusia
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 Goddess of wealth, abundance, and seduction. Vénusia blesses people with prosperity and physical love.

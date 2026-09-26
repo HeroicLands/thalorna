@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "Around 45 BF the standing lease of the dragons is not renewed, the return of what the Republic holds is refused, the killing follows, the Dragon Riders are disbanded and the Eyrie of Mons Aquila is sealed."
+shortcode: ridersdisb
+name: {full: The Lease Refused, aliases: [The Disbanding of the Dragon Riders]}
 type: lore
 subType: history
-name:
-  full: The Lease Refused
-  aliases:
-    - The Disbanding of the Dragon Riders
-shortcode: ridersdisb
-data:
-  packFolder: settinglore
+description: "Around 45 BF the standing lease of the dragons is not renewed, the return of what the Republic holds is refused, the killing follows, the Dragon Riders are disbanded and the Eyrie of Mons Aquila is sealed."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: dissolution

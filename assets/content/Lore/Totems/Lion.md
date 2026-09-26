@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The lion as a totemic ideal, and the human character it describes."
+shortcode: lionttm
+name: {full: Lion, aliases: [Lion Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Lion
-  aliases:
-    - Lion Totem
-shortcode: lionttm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The lion as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-liontotem|Lion]]{float: top-left, size: medium}

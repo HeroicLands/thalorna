@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Shadowscreen
-  aliases:
-    - Curtain
-description: "Creates shadow veil; conceals appearance within darkness."
 shortcode: shdwscrn
+name: {full: Shadowscreen, aliases: [Curtain]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Creates shadow veil; conceals appearance within darkness."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Curtain

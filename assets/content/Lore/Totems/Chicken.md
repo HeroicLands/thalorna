@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The chicken as a totemic ideal, and the human character it describes."
+shortcode: chickenttm
+name: {full: Chicken, aliases: [Chicken Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Chicken
-  aliases:
-    - Chicken Totem
-shortcode: chickenttm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The chicken as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-chickentotem|Chicken]]{float: top-left, size: medium}

@@ -1,20 +1,11 @@
 ---
-tags:
-  - nkaruthar
-  - spirit-power
-  - draft
-description: "Standing with The Oracle of Bones, zohira of death and prophecy—what this emissary of the Flame is petitioned and interceded with."
+shortcode: orclbonessprt
+name: {full: "The Oracle of Bones Spirit Power", aliases: [The Reader in the Yánda Maláika]}
 type: skill
 subType: mystical
-shortcode: orclbonessprt
-name:
-  full: "The Oracle of Bones Spirit Power"
-  aliases:
-    - The Reader in the Yánda Maláika
-data:
-  icon: icon-psychicwaves
-  templatePriority: null
-  packFolder: spiritskillsokharic
+description: "Standing with The Oracle of Bones, zohira of death and prophecy—what this emissary of the Flame is petitioned and interceded with."
+tags: [nkaruthar, spirit-power, draft]
+data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsokharic}
 sohl:
   system:
     skillBaseFormula: "@aur, @wil"

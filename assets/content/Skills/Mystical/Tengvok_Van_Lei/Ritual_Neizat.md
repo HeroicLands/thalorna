@@ -1,19 +1,10 @@
 ---
-tags:
-  - tengvok
-  - faith-skill
-  - draft
+shortcode: neizat
+name: {full: "Ritual: Nëizāt", aliases: [Nëizāt, The Minister of Continuity]}
 type: skill
 subType: mystical
-shortcode: neizat
-name:
-  full: "Ritual: Nëizāt"
-  aliases:
-    - Nëizāt
-    - The Minister of Continuity
-data:
-  templatePriority: null
-  packFolder: tengvokvanlei
+tags: [tengvok, faith-skill, draft]
+data: {templatePriority: null, packFolder: tengvokvanlei}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

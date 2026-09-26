@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Southern Savannahs"
 shortcode: southernsavannahs
+name: {full: "Southern Savannahs"}
 type: folder
-data:
-  parent: xerathia
-  color: "#4CAF50"
+data: {parent: xerathia, color: "#4CAF50"}
 ---

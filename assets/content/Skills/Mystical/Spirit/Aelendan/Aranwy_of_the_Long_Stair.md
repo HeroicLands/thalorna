@@ -1,20 +1,11 @@
 ---
-tags:
-  - first-gods
-  - spirit-power
-  - draft
-description: "Standing with Aranwy of the Long Stair—what this allied Kindred is met, asked and bargained with."
+shortcode: aranwysprt
+name: {full: "Aranwy of the Long Stair Spirit Power", aliases: [Aranwy of the Long Stair]}
 type: skill
 subType: mystical
-shortcode: aranwysprt
-name:
-  full: "Aranwy of the Long Stair Spirit Power"
-  aliases:
-    - Aranwy of the Long Stair
-data:
-  icon: icon-psychicwaves
-  templatePriority: null
-  packFolder: spiritskillsaelendan
+description: "Standing with Aranwy of the Long Stair—what this allied Kindred is met, asked and bargained with."
+tags: [first-gods, spirit-power, draft]
+data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsaelendan}
 sohl:
   system:
     skillBaseFormula: "@aur, @wil"

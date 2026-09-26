@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Tëngvōk Vān Lëi"
 shortcode: pantheonstengvokvanlei
+name: {full: "Tëngvōk Vān Lëi"}
 type: folder
-data:
-  parent: pantheons
-  color: "#BA55D3"
+data: {parent: pantheons, color: "#BA55D3"}
 ---

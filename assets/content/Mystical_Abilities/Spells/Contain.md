@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Contain
-  aliases:
-    - Vessel
-description: "Binds creature or force inside barrier; prevents escape or exit."
 shortcode: contain
+name: {full: Contain, aliases: [Vessel]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Binds creature or force inside barrier; prevents escape or exit."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Vessel

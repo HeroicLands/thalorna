@@ -1,6 +1,5 @@
 ---
-tags: []
-description: "Overview of the guild system as it functions across the realms of Thalorna—varying by region in form, prestige, and authority, but ubiquitous as the institution by which trades are organized, standards are kept, and apprentices are trained."
+shortcode: guldsthlrn
 name:
   full: The Guilds of Thalorna
   aliases:
@@ -8,9 +7,10 @@ name:
     - Trade Guilds of Thalorna
     - The Guild System of Thalorna
     - The Trade Guilds
-shortcode: guldsthlrn
 type: lore
 subType: economy
+description: "Overview of the guild system as it functions across the realms of Thalorna—varying by region in form, prestige, and authority, but ubiquitous as the institution by which trades are organized, standards are kept, and apprentices are trained."
+tags: []
 ---
 
 - **Type:** Overview note describing the guild system as a continent-spanning phenomenon

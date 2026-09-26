@@ -1,24 +1,17 @@
 ---
-tags: []
-name:
-  full: Flameguard
-  aliases: []
-description: "Surrounds self in protective flame; harms those who strike caster."
 shortcode: flmgrd
+name: {full: Flameguard, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
-  packFolder: spells
+description: "Surrounds self in protective flame; harms those who strike caster."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Envelope

@@ -1,18 +1,11 @@
 ---
-tags:
-  - great-elixir
-name:
-  full: Rose of the Empyrean
-  aliases:
-    - Potion, Aromatic, Great
-description: "Translucent luminous perfume; grants beauty and supernatural charisma."
 shortcode: ptnaromg
+name: {full: Rose of the Empyrean, aliases: ["Potion, Aromatic, Great"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: great
+description: "Translucent luminous perfume; grants beauty and supernatural charisma."
+tags: [great-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: great}
 sohl:
   system:
     weightBase: 0.25

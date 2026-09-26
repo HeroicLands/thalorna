@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The donkey as a totemic ideal, and the human character it describes."
+shortcode: donkeyttm
+name: {full: Donkey, aliases: [Donkey Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Donkey
-  aliases:
-    - Donkey Totem
-shortcode: donkeyttm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The donkey as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-donkeytotem|Donkey]]{float: top-left, size: medium}

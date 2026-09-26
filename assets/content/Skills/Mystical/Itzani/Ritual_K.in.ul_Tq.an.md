@@ -1,20 +1,10 @@
 ---
-tags:
-  - itzani
-  - faith-skill
-  - draft
+shortcode: kinultqan
+name: {full: "Ritual: K'in'ul Tq'an", aliases: [K'in'ul Tq'an, The Sun at the World's Edge]}
 type: skill
 subType: mystical
-shortcode: kinultqan
-name:
-  full: "Ritual: K'in'ul Tq'an"
-  aliases:
-    - K'in'ul Tq'an
-    - The Sun at the World's Edge
-data:
-  icon: null
-  templatePriority: null
-  packFolder: itzani
+tags: [itzani, faith-skill, draft]
+data: {icon: null, templatePriority: null, packFolder: itzani}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

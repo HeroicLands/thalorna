@@ -1,19 +1,10 @@
 ---
-tags:
-  - kemetian
-  - faith-skill
-  - draft
+shortcode: seker
+name: {full: "Ritual: Sēker", aliases: [Lord of Silent Passage]}
 type: skill
 subType: mystical
-shortcode: seker
-name:
-  full: "Ritual: Sēker"
-  aliases:
-    - Lord of Silent Passage
-data:
-  icon: seker
-  templatePriority: null
-  packFolder: kemetian
+tags: [kemetian, faith-skill, draft]
+data: {icon: seker, templatePriority: null, packFolder: kemetian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

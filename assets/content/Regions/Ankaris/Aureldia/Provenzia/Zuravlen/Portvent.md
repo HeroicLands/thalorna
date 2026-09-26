@@ -1,22 +1,11 @@
 ---
-tags:
-  - town
-  - port
-  - coastal
-description: "Zûravlen's harbor at the foot of the cliff—fish, salt pans and the fast boats now carrying fresh peaches to markets no rider could reach, at the quiet expense of the baron's drying yards."
+shortcode: portvent
+name: {full: Portvent, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - zuravlenrgn
-  population: 900
-  packFolder: provenzia
-name:
-  full: Portvent
-  aliases: []
-shortcode: portvent
+description: "Zûravlen's harbor at the foot of the cliff—fish, salt pans and the fast boats now carrying fresh peaches to markets no rider could reach, at the quiet expense of the baron's drying yards."
+tags: [town, port, coastal]
+data: {demonym: null, lore: [], parents: [zuravlenrgn], population: 900, packFolder: provenzia}
 ---
 
 **Portvent** lies at the foot of the cliffs on [[place-zuravlenrgn|Zûravlen]]'s western shore, reached

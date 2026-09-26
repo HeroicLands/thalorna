@@ -1,24 +1,17 @@
 ---
-tags: []
-name:
-  full: Seeker
-  aliases: []
-description: "Seeks hidden objects; reveals location of sought-after item."
 shortcode: seeker
+name: {full: Seeker, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
-  packFolder: spells
+description: "Seeks hidden objects; reveals location of sought-after item."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Seeker

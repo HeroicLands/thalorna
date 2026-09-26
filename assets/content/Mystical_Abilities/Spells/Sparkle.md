@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Sparkle
-  aliases:
-    - Motes
-description: "Creates glittering effect; produces shimmering light display."
 shortcode: sparkle
+name: {full: Sparkle, aliases: [Motes]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Creates glittering effect; produces shimmering light display."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Motes

@@ -1,19 +1,9 @@
 ---
-tags:
-  - town
-  - fortified
-description: "Fortified Town"
+shortcode: thrymstead
+name: {full: Thrymstead, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - nordheim
-  population: 1500
-  packFolder: nordheim
-name:
-  full: Thrymstead
-  aliases: []
-shortcode: thrymstead
+description: "Fortified Town"
+tags: [town, fortified]
+data: {demonym: null, lore: [], parents: [nordheim], population: 1500, packFolder: nordheim}
 ---

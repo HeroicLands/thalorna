@@ -1,20 +1,10 @@
 ---
-tags:
-  - itzani
-  - faith-skill
-  - draft
+shortcode: xilanixlan
+name: {full: "Ritual: Xilan Ix'lan", aliases: [Xilan Ix'lan, The Walker of Paths]}
 type: skill
 subType: mystical
-shortcode: xilanixlan
-name:
-  full: "Ritual: Xilan Ix'lan"
-  aliases:
-    - Xilan Ix'lan
-    - The Walker of Paths
-data:
-  icon: null
-  templatePriority: null
-  packFolder: itzani
+tags: [itzani, faith-skill, draft]
+data: {icon: null, templatePriority: null, packFolder: itzani}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

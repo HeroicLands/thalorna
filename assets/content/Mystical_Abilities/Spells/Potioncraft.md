@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Potioncraft
-  aliases:
-    - Alchema
-description: "Brews magical potions with beneficial effects over time."
 shortcode: ptncrft
+name: {full: Potioncraft, aliases: [Alchema]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
-  packFolder: spells
+description: "Brews magical potions with beneficial effects over time."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Alchema

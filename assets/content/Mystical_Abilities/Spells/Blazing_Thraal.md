@@ -1,24 +1,17 @@
 ---
-tags: []
-name:
-  full: Blazing Thraal
-  aliases: []
-description: "Enslaves target in burning fury; caster commands their actions violently."
 shortcode: blzgthrl
+name: {full: Blazing Thraal, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
-  packFolder: spells
+description: "Enslaves target in burning fury; caster commands their actions violently."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Fire Fiend

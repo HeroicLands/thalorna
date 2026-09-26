@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Lightspire
-  aliases:
-    - Beacon
-description: "Pillars of concentrated light descending; scorches and ignites targets."
 shortcode: lghtspr
+name: {full: Lightspire, aliases: [Beacon]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Pillars of concentrated light descending; scorches and ignites targets."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Beacon

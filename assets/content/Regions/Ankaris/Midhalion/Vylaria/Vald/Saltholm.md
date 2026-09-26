@@ -1,21 +1,11 @@
 ---
-tags:
-  - town
-  - fishing
-description: "Fishing Town"
+shortcode: saltholm
+name: {full: Saltholm, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vald
-  population: 6000
-  packFolder: vylaria
-name:
-  full: Saltholm
-  aliases: []
-shortcode: saltholm
+description: "Fishing Town"
+tags: [town, fishing]
+data: {demonym: null, lore: [], parents: [vald], population: 6000, packFolder: vylaria}
 ---
 
 ## Overview

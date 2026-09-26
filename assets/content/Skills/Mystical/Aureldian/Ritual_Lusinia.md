@@ -1,20 +1,10 @@
 ---
-tags:
-  - aureldian
-  - faith-skill
-  - draft
+shortcode: lusinia
+name: {full: "Ritual: Lusinia", aliases: [Lúsinía, The World-Weaver]}
 type: skill
 subType: mystical
-shortcode: lusinia
-name:
-  full: "Ritual: Lusinia"
-  aliases:
-    - Lúsinía
-    - The World-Weaver
-data:
-  icon: lusinia
-  templatePriority: null
-  packFolder: aureldian
+tags: [aureldian, faith-skill, draft]
+data: {icon: lusinia, templatePriority: null, packFolder: aureldian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

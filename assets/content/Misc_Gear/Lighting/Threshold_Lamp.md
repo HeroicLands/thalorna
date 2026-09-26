@@ -1,25 +1,14 @@
 ---
-tags: []
-name:
-  full: Threshold Lamp
-  aliases: []
-description: "A small oil lamp lit and kept burning through the night a family member is dying, signifying the household's readiness to release the soul."
 shortcode: threshlamp
+name: {full: Threshold Lamp, aliases: []}
 type: miscgear
-data:
-  icon: icon-coinsbdg
-  templatePriority: null
-  packFolder: lighting
+description: "A small oil lamp lit and kept burning through the night a family member is dying, signifying the household's readiness to release the soul."
+tags: []
+data: {icon: icon-coinsbdg, templatePriority: null, packFolder: lighting}
 sohl:
   kbcat: lighting
-  craft:
-    skill: mtlc
-    secondary: []
-  system:
-    weightBase: 0.5
-    valueBase: 6
-    qualityBase: 0
-    durabilityBase: 7
+  craft: {skill: mtlc, secondary: []}
+  system: {weightBase: 0.5, valueBase: 6, qualityBase: 0, durabilityBase: 7}
 ---
 
 A shallow clay or brass bowl-lamp, kept filled and burning through every night a household sits with someone dying, and put out only at the sounding of the black conch. Lighting it is the household's own act rather than a priest's—[[affiliation-kalavrata|Kālavrata]] keeps no priesthood to perform it for them—and letting it gutter before the death is taken as a bad omen the family will hear about for years.

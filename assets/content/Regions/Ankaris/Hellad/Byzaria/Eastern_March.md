@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: The Byzarian League's eastern frontier district—the mountain passes beyond Gümüşhisar and the steppe margin below them, held by the Lord Commander and the League's joint army against the Khazryn.
-name:
-  full: Eastern March
-  aliases: []
 shortcode: eastrnmrch
+name: {full: Eastern March, aliases: []}
 type: place
 subType: region
+description: The Byzarian League's eastern frontier district—the mountain passes beyond Gümüşhisar and the steppe margin below them, held by the Lord Commander and the League's joint army against the Khazryn.
+tags: [region]
 data:
   icon: null
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - byzariargn
+  lore: [humanflk]
+  parents: [byzariargn]
   population: null
   packFolder: byzaria
 

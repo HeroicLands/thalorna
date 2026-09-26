@@ -1,18 +1,11 @@
 ---
-tags:
-  - mild-elixir
-name:
-  full: Ember Draft
-  aliases:
-    - Potion, Stimulant, Mild
-description: "Bright energetic liquid; invigorates body and stimulates mental."
 shortcode: ptnstmm
+name: {full: Ember Draft, aliases: ["Potion, Stimulant, Mild"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: mild
+description: "Bright energetic liquid; invigorates body and stimulates mental."
+tags: [mild-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25

@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "In 73 BF the surviving masters draft their own terms and the Senate takes them—the Ordo Arcanis chartered under the Lex Arcana, the Quaesitorium constituted a clause earlier, and six sealed workshops set to rebuilding a burned corpus."
+shortcode: lexarcana
+name: {full: The Lex Arcana, aliases: [The Chartering of the Ordo Arcanis]}
 type: lore
 subType: history
-name:
-  full: The Lex Arcana
-  aliases:
-    - The Chartering of the Ordo Arcanis
-shortcode: lexarcana
-data:
-  packFolder: settinglore
+description: "In 73 BF the surviving masters draft their own terms and the Senate takes them—the Ordo Arcanis chartered under the Lex Arcana, the Quaesitorium constituted a clause earlier, and six sealed workshops set to rebuilding a burned corpus."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: charter

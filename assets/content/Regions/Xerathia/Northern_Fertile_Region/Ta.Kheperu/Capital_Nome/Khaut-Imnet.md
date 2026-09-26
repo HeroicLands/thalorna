@@ -1,23 +1,17 @@
 ---
-tags:
-  - necropolis
+shortcode: khautimnet
+name: {full: Khaut-Imnet, aliases: [The Tombs of the West, The Western Fields]}
 type: place
 subType: settlement
+description: "The vast general necropolis of Wasetkara—the graded burial-fields flanking the royal necropolis of Ta-Djeser, where everyone below the throne is buried, from the gold-rich mastabas of the nobility to the common sand-graves of the poor, and the endless war between trap-built tombs and the robbers who plunder them."
+tags: [necropolis]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - wasetkaranome
+  parents: [wasetkaranome]
   population: 800
   packFolder: capitalnome
-description: "The vast general necropolis of Wasetkara—the graded burial-fields flanking the royal necropolis of Ta-Djeser, where everyone below the throne is buried, from the gold-rich mastabas of the nobility to the common sand-graves of the poor, and the endless war between trap-built tombs and the robbers who plunder them."
-name:
-  full: Khaut-Imnet
-  aliases:
-    - The Tombs of the West
-    - The Western Fields
-shortcode: khautimnet
 ---
 
 ## Khaut-Imnet—the Tombs of the West

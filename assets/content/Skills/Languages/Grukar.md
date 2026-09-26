@@ -1,17 +1,11 @@
 ---
-tags: []
-name:
-  full: Grukar Language
-  aliases:
-    - Grukar
-description: "The guttural, sparse speech of the Grukar tribes—stingy with abstractions but lavish with words for weather, prey, and warfare."
 shortcode: grukarlng
+name: {full: Grukar Language, aliases: [Grukar]}
 type: skill
 subType: language
-data:
-  icon: icon-speaking
-  templatePriority: null
-  packFolder: language
+description: "The guttural, sparse speech of the Grukar tribes—stingy with abstractions but lavish with words for weather, prey, and warfare."
+tags: []
+data: {icon: icon-speaking, templatePriority: null, packFolder: language}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -20,9 +14,7 @@ sohl:
     combatCategory: none
     parentSkillCode: lang
     initSkillMult: 0
-  flags:
-    "thalorna":
-      lang_family: Grukar
+  flags: {"thalorna": {lang_family: Grukar}}
 ---
 
 Grukar is a tongue of the Grukar family. Fluency measures the sophistication of expression in Grukar, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.

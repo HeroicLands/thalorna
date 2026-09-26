@@ -1,21 +1,14 @@
 ---
-tags:
-  - region
-  - coastal
-description: "The scattered island chain southeast of Vedyara—coastal kingdoms of their own, and the Vedyari merchant colonies whose speech has gone its own way."
-name:
-  full: The Sūrya-samudra Islands
-  aliases:
-    - The Eastern Islands
 shortcode: suryaislnds
+name: {full: The Sūrya-samudra Islands, aliases: [The Eastern Islands]}
 type: place
 subType: region
+description: "The scattered island chain southeast of Vedyara—coastal kingdoms of their own, and the Vedyari merchant colonies whose speech has gone its own way."
+tags: [region, coastal]
 data:
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - suryasamdra
+  lore: [humanflk]
+  parents: [suryasamdra]
   population: 240000
   packFolder: vedyara
 ---

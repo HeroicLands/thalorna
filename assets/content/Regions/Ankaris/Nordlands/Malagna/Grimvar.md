@@ -1,9 +1,10 @@
 ---
-tags:
-  - draft
-description: "A polity of Malagna, under the crown of Lögnheim."
+shortcode: grimvar
+name: {full: Grímvar, aliases: []}
 type: affiliation
 subType: polity
+description: "A polity of Malagna, under the crown of Lögnheim."
+tags: [draft]
 data:
   templatePriority: null
   demonym: null
@@ -20,17 +21,10 @@ data:
   population: null
   economy: []
   lore: []
-  parents:
-    - kingdomlgn
+  parents: [kingdomlgn]
   relations: {}
   packFolder: malagna
-name:
-  full: Grímvar
-  aliases: []
-shortcode: grimvar
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 A polity of Malagna, under the crown of Lögnheim.

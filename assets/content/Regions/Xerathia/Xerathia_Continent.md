@@ -1,25 +1,17 @@
 ---
-tags:
-  - continent
+shortcode: xerathia
+name: {full: Xerathia, aliases: []}
 type: place
 subType: region
+description: The southern continent—fertile crescent along the Vylarian Sea, trackless equatorial rainforests in the interior, and endless savannahs in the deep south.
+tags: [continent]
 data:
   demonym: Xerathian
-  lore:
-    - humanflk
-    - flksinale
-    - flkkhazar
-  parents:
-    - worldthlrn
-  borders:
-    - { to: sandhysmdr, bearing: E }
+  lore: [humanflk, flksinale, flkkhazar]
+  parents: [worldthlrn]
+  borders: [{to: sandhysmdr, bearing: E}]
   population: 29000000
   packFolder: xerathia
-name:
-  full: Xerathia
-  aliases: []
-shortcode: xerathia
-description: The southern continent—fertile crescent along the Vylarian Sea, trackless equatorial rainforests in the interior, and endless savannahs in the deep south.
 
 # terran_analog: Africa
 ---

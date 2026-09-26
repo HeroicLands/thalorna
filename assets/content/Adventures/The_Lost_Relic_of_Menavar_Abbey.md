@@ -1,21 +1,16 @@
 ---
-name:
-  full: The Lost Relic of Menavar Abbey
-  aliases: []
 shortcode: lstrlcmnvrby
+name: {full: The Lost Relic of Menavar Abbey, aliases: []}
 type: scenario
 subType: adventure
 data:
   parents: []
-  locations:
-    - provenzrgn
+  locations: [provenzrgn]
   cast: []
   factions: []
   follows: []
   status: draft
-  party:
-    size: null
-    archetypes: []
+  party: {size: null, archetypes: []}
   packFolder: adventures
 ---
 

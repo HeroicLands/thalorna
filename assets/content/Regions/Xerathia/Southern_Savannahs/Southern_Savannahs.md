@@ -1,21 +1,14 @@
 ---
-tags:
-  - region
-description: The vast subtropical grasslands of southern Xerathia—open herd-country, scattered hunter-pastoralist peoples, and ruined stonework whose builders no one remembers. Known to the north only through the rainforest peoples who trade with its inhabitants.
-name:
-  full: Southern Savannahs
-  aliases:
-    - Southern Savannah
-    - The Deep South
 shortcode: sthrnsvnhs
+name: {full: Southern Savannahs, aliases: [Southern Savannah, The Deep South]}
 type: place
 subType: region
+description: The vast subtropical grasslands of southern Xerathia—open herd-country, scattered hunter-pastoralist peoples, and ruined stonework whose builders no one remembers. Known to the north only through the rainforest peoples who trade with its inhabitants.
+tags: [region]
 data:
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - xerathia
+  lore: [humanflk]
+  parents: [xerathia]
   population: 2000000
   packFolder: southernsavannahs
 

@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Parched Soul
-  aliases:
-    - Thirst
-description: "Victims suffer overwhelming thirst; dehydration sets in rapidly."
 shortcode: pchsoul
+name: {full: Parched Soul, aliases: [Thirst]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
-  packFolder: spells
+description: "Victims suffer overwhelming thirst; dehydration sets in rapidly."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Thirst

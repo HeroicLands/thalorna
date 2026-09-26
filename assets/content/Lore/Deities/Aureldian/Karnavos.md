@@ -1,12 +1,9 @@
 ---
-tags: []
-description: "The Wild Beast of the Aurèldían pantheon—chaos, and the wilderness no law reaches into."
+shortcode: karnavosdty
+name: {full: Karnavos, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Karnavos
-  aliases: []
-shortcode: karnavosdty
-data:
-  packFolder: deitiesaureldian
+description: "The Wild Beast of the Aurèldían pantheon—chaos, and the wilderness no law reaches into."
+tags: []
+data: {packFolder: deitiesaureldian}
 ---

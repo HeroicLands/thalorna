@@ -1,18 +1,11 @@
 ---
-tags:
-  - mild-elixir
-name:
-  full: Poppytear
-  aliases:
-    - Potion, Narcotic, Mild
-description: "Pale cream draft; induces drowsiness and peaceful sleep."
 shortcode: ptnnarm
+name: {full: Poppytear, aliases: ["Potion, Narcotic, Mild"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: mild
+description: "Pale cream draft; induces drowsiness and peaceful sleep."
+tags: [mild-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25

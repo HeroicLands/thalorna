@@ -1,19 +1,9 @@
 ---
-tags:
-  - castle
-  - town
-description: "Castle Town"
+shortcode: castamere
+name: {full: Castamere, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - tarvenirgn
-  population: 3000
-  packFolder: tarvenia
-name:
-  full: Castamere
-  aliases: []
-shortcode: castamere
+description: "Castle Town"
+tags: [castle, town]
+data: {demonym: null, lore: [], parents: [tarvenirgn], population: 3000, packFolder: tarvenia}
 ---

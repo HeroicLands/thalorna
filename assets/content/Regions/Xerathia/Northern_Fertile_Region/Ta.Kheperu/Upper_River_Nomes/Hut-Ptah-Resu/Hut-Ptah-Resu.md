@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: "Smith-towns and craft-temples; bronze, gold, and the ceremonial arms of the nobility—the land of the Nome of Hut-Ptah-Resu, one of the upper-river nomes of Ta'Kheperu."
-name:
-  full: Hut-Ptah-Resu
-  aliases: []
 shortcode: hutptahresunome
+name: {full: Hut-Ptah-Resu, aliases: []}
 type: place
 subType: region
+description: "Smith-towns and craft-temples; bronze, gold, and the ceremonial arms of the nobility—the land of the Nome of Hut-Ptah-Resu, one of the upper-river nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 480000
   packFolder: upperrivernomes
 ---

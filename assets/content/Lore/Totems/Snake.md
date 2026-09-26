@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The snake as a totemic ideal, and the human character it describes."
+shortcode: snakettm
+name: {full: Snake, aliases: [Snake Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Snake
-  aliases:
-    - Snake Totem
-shortcode: snakettm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The snake as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-snaketotem|Snake]]{float: top-left, size: medium}

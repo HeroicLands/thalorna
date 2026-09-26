@@ -1,17 +1,11 @@
 ---
-tags:
-  - draft
-  - nkaruthar
+shortcode: orclbonesspr
+name: {full: The Oracle of Bones, aliases: [The Reader in the Yánda Maláika]}
 type: lore
 subType: spirit
 description: "Zohira of death and prophecy, seated somewhere in the Yánda Maláika—sought by shamans who need an answer nothing else will give, and not always found."
-name:
-  full: The Oracle of Bones
-  aliases:
-    - The Reader in the Yánda Maláika
-shortcode: orclbonesspr
-data:
-  packFolder: lorespiritsokharic
+tags: [draft, nkaruthar]
+data: {packFolder: lorespiritsokharic}
 ---
 
 - **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]

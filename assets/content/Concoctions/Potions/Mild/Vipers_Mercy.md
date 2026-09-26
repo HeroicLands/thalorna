@@ -1,18 +1,11 @@
 ---
-tags:
-  - mild-elixir
-name:
-  full: "Viper's Mercy"
-  aliases:
-    - Potion, Antivenin, Mild
-description: "Murky greenish-brown draft; counteracts poison and venom damage."
 shortcode: ptnantvm
+name: {full: "Viper's Mercy", aliases: ["Potion, Antivenin, Mild"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: mild
+description: "Murky greenish-brown draft; counteracts poison and venom damage."
+tags: [mild-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25

@@ -1,20 +1,11 @@
 ---
-tags:
-  - settlement
-description: "Ritual Site / Ancient Settlement"
+shortcode: bloth
+name: {full: Blód, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - nordheim
-  population: 300
-  packFolder: nordheim
-name:
-  full: Blód
-  aliases: []
-shortcode: bloth
+description: "Ritual Site / Ancient Settlement"
+tags: [settlement]
+data: {demonym: null, lore: [], parents: [nordheim], population: 300, packFolder: nordheim}
 ---
 
 ## Overview

@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Formcraft
-  aliases:
-    - Figure
-description: "Reshapes matter itself; molds materials into desired shapes permanently."
 shortcode: frmcrft
+name: {full: Formcraft, aliases: [Figure]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Reshapes matter itself; molds materials into desired shapes permanently."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Figure

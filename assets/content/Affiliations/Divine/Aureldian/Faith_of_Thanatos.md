@@ -1,10 +1,10 @@
 ---
-description: "Death."
-tags:
-  - aureldian
-  - religion
+shortcode: thanatos
+name: {full: Faith of Thánatos, aliases: [The Silent Judge, Thánatos]}
 type: affiliation
 subType: faithtradition
+description: "Death."
+tags: [aureldian, religion]
 data:
   banner: faithbnr
   icon: thanatos
@@ -15,21 +15,18 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the
-      Pontifex Mortis above them. The lay faithful keep the feasts without office.
+      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Pontifex Mortis above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out—denied the rites, the temple and the burial the faith promises, which is the one
-          sentence it can pass that outlives the body.
+          Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
         lore: layfaithfulrnk
         description: >-
-          The lay faithful, who keep the feasts and the observances of the god without holding office
-          in the temple.
+          The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
         title: Novices of the Silent Watch
         lore: initiaternk
@@ -39,8 +36,7 @@ data:
         title: Custodes Liminis
         lore: priestrnk
         description: >-
-          The Threshold Keepers—twenty or thirty ordained priests across the cities of western
-          Ankaris, who perform funeral rites and keep the temple records of the dead.
+          The Threshold Keepers—twenty or thirty ordained priests across the cities of western Ankaris, who perform funeral rites and keep the temple records of the dead.
       - level: 4
         title: Pontifex Mortis
         lore: grandmasterrnk
@@ -50,30 +46,18 @@ data:
       Pontifex Mortis: >-
         Held by one among the Custodes; the hierarchy is defined by wisdom and philosophical depth rather than administrative rank.
       Custodes Liminis: >-
-        The Threshold Keepers—twenty or thirty ordained priests across the cities of western
-        Ankaris, who perform funeral rites and keep the temple records of the dead.
+        The Threshold Keepers—twenty or thirty ordained priests across the cities of western Ankaris, who perform funeral rites and keep the temple records of the dead.
       Novices of the Silent Watch: >-
         Young men and women, often survivors of a near-death experience, in extensive training in funerary practice and theology.
   seat: null
   domains: []
   population: null
   economy: []
-  lore:
-    - thanatosdty
-  parents:
-    - arldnpnthn
-  relations:
-    arldnpnthn: aligned
+  lore: [thanatosdty]
+  parents: [arldnpnthn]
+  relations: {arldnpnthn: aligned}
   packFolder: pantheonsaureldian
-name:
-  full: Faith of Thánatos
-  aliases:
-    - The Silent Judge
-    - Thánatos
-shortcode: thanatos
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 God of death, the underworld, and corruption. Thánatos is a fearsome figure, embodying both implacability and terror.

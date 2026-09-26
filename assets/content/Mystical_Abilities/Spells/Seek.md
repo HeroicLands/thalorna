@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Seek
-  aliases:
-    - Detect
-description: "Detects magical auras; senses active sorcery and presences."
 shortcode: seek
+name: {full: Seek, aliases: [Detect]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Detects magical auras; senses active sorcery and presences."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Detect

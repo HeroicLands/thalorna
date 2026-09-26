@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Crush
-  aliases:
-    - Fist
-description: "Focuses immense pressure; compresses target or ruins structures utterly."
 shortcode: crush
+name: {full: Crush, aliases: [Fist]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
-  packFolder: spells
+description: "Focuses immense pressure; compresses target or ruins structures utterly."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Fist

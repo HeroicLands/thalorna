@@ -1,19 +1,10 @@
 ---
-tags:
-  - kemetian
-  - faith-skill
-  - draft
+shortcode: set
+name: {full: "Ritual: Sét", aliases: ["Sét, Bringer of Tempests"]}
 type: skill
 subType: mystical
-shortcode: set
-name:
-  full: "Ritual: Sét"
-  aliases:
-    - Sét, Bringer of Tempests
-data:
-  icon: set
-  templatePriority: null
-  packFolder: kemetian
+tags: [kemetian, faith-skill, draft]
+data: {icon: set, templatePriority: null, packFolder: kemetian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

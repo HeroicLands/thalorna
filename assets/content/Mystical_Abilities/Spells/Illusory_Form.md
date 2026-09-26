@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Illusory Form
-  aliases:
-    - Image
-description: "Three-dimensional image of person or creature; dispels upon contact."
 shortcode: illfrm
+name: {full: Illusory Form, aliases: [Image]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Three-dimensional image of person or creature; dispels upon contact."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Image

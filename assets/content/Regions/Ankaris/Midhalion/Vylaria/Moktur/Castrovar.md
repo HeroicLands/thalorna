@@ -1,21 +1,11 @@
 ---
-tags:
-  - fortress
-  - frontier
-description: "Frontier Fortress"
+shortcode: castrovar
+name: {full: Castrovar, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - moktur
-  population: 6000
-  packFolder: vylaria
-name:
-  full: Castrovar
-  aliases: []
-shortcode: castrovar
+description: "Frontier Fortress"
+tags: [fortress, frontier]
+data: {demonym: null, lore: [], parents: [moktur], population: 6000, packFolder: vylaria}
 ---
 
 ## Overview

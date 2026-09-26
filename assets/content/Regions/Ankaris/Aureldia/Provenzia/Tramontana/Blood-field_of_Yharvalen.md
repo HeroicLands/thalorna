@@ -1,21 +1,11 @@
 ---
-tags:
-  - border
-  - inland
-description: "The worst blood-field in Provènzia—a withering that kills the land around it, made when the Nordheim raids threw down Yhârvalen Henge, and now being deliberately roused by the Black Flame."
+shortcode: bldfldyharvalen
+name: {full: Blood-field of Yhârvalen, aliases: []}
 type: place
 subType: site
-data:
-  demonym: null
-  lore: []
-  parents:
-    - tramontana
-  population: null
-  packFolder: provenzia
-name:
-  full: Blood-field of Yhârvalen
-  aliases: []
-shortcode: bldfldyharvalen
+description: "The worst blood-field in Provènzia—a withering that kills the land around it, made when the Nordheim raids threw down Yhârvalen Henge, and now being deliberately roused by the Black Flame."
+tags: [border, inland]
+data: {demonym: null, lore: [], parents: [tramontana], population: null, packFolder: provenzia}
 ---
 
 A battlefield of Provènzia remembered as a blood-field—ground where an engagement was fought at such

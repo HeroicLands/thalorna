@@ -1,13 +1,9 @@
 ---
-tags:
-  - construct
-  - creature
-name:
-  full: Aegiron Sentinel
-  aliases: []
-description: "An eight-foot construct of interlocking iron plates, forged by arcane engineering to guard sacred sites, treasures, and treasured individuals."
 shortcode: agrnsntn
+name: {full: Aegiron Sentinel, aliases: []}
 type: being
+description: "An eight-foot construct of interlocking iron plates, forged by arcane engineering to guard sacred sites, treasures, and treasured individuals."
+tags: [construct, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -31,23 +27,15 @@ data:
     extra_features: []
 sohl:
   kbcat: construct
-  attrRollFormula:
-    str: 1d6+31
-    agl: 1d4+3
-    per: 1d6+15
+  attrRollFormula: {str: 1d6+31, agl: 1d4+3, per: 1d6+15}
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 34 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 6 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 19 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 34}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 6}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 19}}
   system:
     body:
-      structure:
-        zones: []
-        parts: []
-        locations: []
-      weight:
-        base: 2500
-        calc: "2500"
+      structure: {zones: [], parts: [], locations: []}
+      weight: {base: 2500, calc: "2500"}
       reachBase: 0
       bodyScaleBase: 2.08
       personalFatigue: "enc + 5"

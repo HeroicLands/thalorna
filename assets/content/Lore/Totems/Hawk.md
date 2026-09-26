@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The hawk as a totemic ideal, and the human character it describes."
+shortcode: hawkttm
+name: {full: Hawk, aliases: [Hawk Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Hawk
-  aliases:
-    - Hawk Totem
-shortcode: hawkttm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The hawk as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-hawktotem|Hawk]]{float: top-left, size: medium}

@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "In 330 BF the Vylarian Republic takes Therádon and its mage-warlord's workshop, and carries away what is in it: the dead of dragons, bound and kept in jars, and the only thing in the world a dragon can be threatened with."
+shortcode: dragondead
+name: {full: The Dragon Dead at Therádon, aliases: [The Taking of the Workshop]}
 type: lore
 subType: history
-name:
-  full: The Dragon Dead at Therádon
-  aliases:
-    - The Taking of the Workshop
-shortcode: dragondead
-data:
-  packFolder: settinglore
+description: "In 330 BF the Vylarian Republic takes Therádon and its mage-warlord's workshop, and carries away what is in it: the dead of dragons, bound and kept in jars, and the only thing in the world a dragon can be threatened with."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: discovery

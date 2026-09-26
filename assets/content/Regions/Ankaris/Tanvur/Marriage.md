@@ -1,12 +1,9 @@
 ---
+shortcode: marriage
+name: {full: Marriage, aliases: []}
 type: lore
 subType: culture
-name:
-  full: Marriage
-  aliases: []
-shortcode: marriage
-data:
-  packFolder: tanvur
+data: {packFolder: tanvur}
 ---
 
 ## Marriage Customs of the Empire of Tānvür

@@ -1,19 +1,9 @@
 ---
-tags:
-  - town
-  - frontier
-description: "Frontier Town"
+shortcode: kavrenath
+name: {full: Kávrenath, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - asturath
-  population: 10000
-  packFolder: tarvenia
-name:
-  full: Kávrenath
-  aliases: []
-shortcode: kavrenath
+description: "Frontier Town"
+tags: [town, frontier]
+data: {demonym: null, lore: [], parents: [asturath], population: 10000, packFolder: tarvenia}
 ---

@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Behdet-Resu."
+shortcode: behdet
+name: {full: Behdet, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Behdet-Resu."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - behdetresunome
+  parents: [behdetresunome]
   population: 11000
   packFolder: bordernomes
-name:
-  full: Behdet
-  aliases: []
-shortcode: behdet
 ---
 
 ## Overview

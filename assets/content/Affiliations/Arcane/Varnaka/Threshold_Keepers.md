@@ -1,16 +1,10 @@
 ---
-description: "The licensed practice of putting one question to the newly dead before the pyre—held to be a rite at the threshold and not necromancy, and warranted for inheritance and for murder and nothing else."
-tags:
-  - varnaka
-  - arcane
-  - death
-name:
-  full: The Threshold-keepers
-  aliases:
-    - The Keepers of the Threshold
 shortcode: thresholdkeepers
+name: {full: The Threshold-keepers, aliases: [The Keepers of the Threshold]}
 type: affiliation
 subType: arcanetradition
+description: "The licensed practice of putting one question to the newly dead before the pyre—held to be a rite at the threshold and not necromancy, and warranted for inheritance and for murder and nothing else."
+tags: [varnaka, arcane, death]
 data:
   banner: faithbnr
   icon: null
@@ -27,54 +21,42 @@ data:
         title: License Withdrawn
         lore: excmmnctrnk
         description: >-
-          The license lifted for asking a question the warrant did not cover. The Council
-          publishes the withdrawal, and an unlicensed working that claims the god's name is
-          Patita, which ends the ordination as well.
+          The license lifted for asking a question the warrant did not cover. The Council publishes the withdrawal, and an unlicensed working that claims the god's name is Patita, which ends the ordination as well.
       - level: 1
         title: Lamp-tender
         lore: layfaithfulrnk
         description: >-
-          Attends the household's threshold lamp from the onset of the last illness, and asks
-          nothing. Most who hold this rank hold no other and want none.
+          Attends the household's threshold lamp from the onset of the last illness, and asks nothing. Most who hold this rank hold no other and want none.
       - level: 2
         title: Witness
         lore: initiaternk
         description: >-
-          Hears the answer and writes it down. Two Witnesses are required, and a consultation
-          with one is worth nothing in any court.
+          Hears the answer and writes it down. Two Witnesses are required, and a consultation with one is worth nothing in any court.
       - level: 3
         title: Threshold-keeper
         lore: priestrnk
         description: >-
-          Puts the question. Ordained, licensed, and permitted one question at one threshold
-          under one warrant.
+          Puts the question. Ordained, licensed, and permitted one question at one threshold under one warrant.
       - level: 4
         title: Warrant-holder
         lore: highpriestrnk
         description: >-
-          Holds a polity's standing warrant, settles which deaths are asked at and which are
-          not, and answers to that polity's court for every consultation done under it.
+          Holds a polity's standing warrant, settles which deaths are asked at and which are not, and answers to that polity's court for every consultation done under it.
     offices:
       Warrant-holder: >-
-        Holds a polity's standing warrant and decides which deaths are asked at; answerable to
-        that polity's court for every consultation done under it.
+        Holds a polity's standing warrant and decides which deaths are asked at; answerable to that polity's court for every consultation done under it.
       Framer of the Question: >-
-        Puts the court's dispute into the one sentence a dying breath can answer, and is not the
-        keeper who asks it.
+        Puts the court's dispute into the one sentence a dying breath can answer, and is not the keeper who asks it.
       Witness of Record: >-
-        One of the two who hear the answer and set it down; a consultation heard by one witness
-        is not evidence anywhere.
+        One of the two who hear the answer and set it down; a consultation heard by one witness is not evidence anywhere.
       Keeper of the Register: >-
-        Holds the record of every consultation made under a warrant, open to the court that
-        issued it and to nobody else.
+        Holds the record of every consultation made under a warrant, open to the court that issued it and to nobody else.
   seat: null
   domains: []
   population: null
   economy: []
-  lore:
-    - soulspirts
-  parents:
-    - varakpnthn
+  lore: [soulspirts]
+  parents: [varakpnthn]
   relations:
     varakpnthn: aligned
     trimurtisampradaya: aligned

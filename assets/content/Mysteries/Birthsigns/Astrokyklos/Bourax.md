@@ -1,16 +1,11 @@
 ---
-tags: []
-name:
-  full: Bourax
-  aliases: []
-description: "The Ox: patient hands for field and workbench, slow of body, deaf to mysteries."
 shortcode: bourax
+name: {full: Bourax, aliases: []}
 type: mystery
 subType: birthsign
-data:
-  icon: icon-astrology
-  templatePriority: 0
-  packFolder: astrokyklos
+description: "The Ox: patient hands for field and workbench, slow of body, deaf to mysteries."
+tags: []
+data: {icon: icon-astrology, templatePriority: 0, packFolder: astrokyklos}
 sohl:
   kbcat: birthsign
   system:

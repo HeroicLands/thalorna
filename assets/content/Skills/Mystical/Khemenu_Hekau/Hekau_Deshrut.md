@@ -1,18 +1,10 @@
 ---
-tags:
-  - khemenu-hekau
-  - draft
+shortcode: deshrut
+name: {full: "Hekau: Deshr'ut", aliases: [Per-Deshr'ut]}
 type: skill
 subType: mystical
-shortcode: deshrut
-name:
-  full: "Hekau: Deshr'ut"
-  aliases:
-    - Per-Deshr'ut
-data:
-  icon: deshrut
-  templatePriority: null
-  packFolder: khemenuhekau
+tags: [khemenu-hekau, draft]
+data: {icon: deshrut, templatePriority: null, packFolder: khemenuhekau}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"

@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Extinguish
-  aliases:
-    - Quenching
-description: "Smothers flames; quenches fire and heat without producing ash."
 shortcode: extngsh
+name: {full: Extinguish, aliases: [Quenching]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
-  packFolder: spells
+description: "Smothers flames; quenches fire and heat without producing ash."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Quenching

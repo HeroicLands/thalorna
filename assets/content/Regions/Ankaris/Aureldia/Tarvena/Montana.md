@@ -1,18 +1,9 @@
 ---
-tags:
-  - city
-description: "Walled City"
+shortcode: montana
+name: {full: Montaña, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - leonrik
-  population: 30000
-  packFolder: tarvenia
-name:
-  full: Montaña
-  aliases: []
-shortcode: montana
+description: "Walled City"
+tags: [city]
+data: {demonym: null, lore: [], parents: [leonrik], population: 30000, packFolder: tarvenia}
 ---

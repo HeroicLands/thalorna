@@ -1,22 +1,11 @@
 ---
-tags:
-  - river
-  - inland
-description: "The river of the scribal janapadas—off the Southern Wall through the bow-country and the copyist towns of the middle valley to the eastern sea."
+shortcode: sarvadarivr
+name: {full: The Sarvada, aliases: [Sarvada]}
 type: place
 subType: feature
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vedyarargn
-  population: null
-  packFolder: vedyara
-name:
-  full: The Sarvada
-  aliases:
-    - Sarvada
-shortcode: sarvadarivr
+description: "The river of the scribal janapadas—off the Southern Wall through the bow-country and the copyist towns of the middle valley to the eastern sea."
+tags: [river, inland]
+data: {demonym: null, lore: [], parents: [vedyarargn], population: null, packFolder: vedyara}
 ---
 
 The **Sarvada** rises at [[place-sarvaprbhv|Sarvaprabhava]] on the face of [[place-sthrnwall|the Southern Wall]] and runs south-east to the eastern coast. Its upper valley is defensible hill country and holds the bow-fort janapada that trains half the archers in Vedyara; its middle valley is flat, wet, densely settled and, by a long accident of temple endowment, the copying country of the subcontinent.

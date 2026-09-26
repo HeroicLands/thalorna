@@ -1,19 +1,10 @@
 ---
-tags:
-  - tengvok
-  - faith-skill
-  - draft
+shortcode: meivor
+name: {full: "Ritual: Mëivōr", aliases: [Mëivōr, The Minister of Dreams]}
 type: skill
 subType: mystical
-shortcode: meivor
-name:
-  full: "Ritual: Mëivōr"
-  aliases:
-    - Mëivōr
-    - The Minister of Dreams
-data:
-  templatePriority: null
-  packFolder: tengvokvanlei
+tags: [tengvok, faith-skill, draft]
+data: {templatePriority: null, packFolder: tengvokvanlei}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

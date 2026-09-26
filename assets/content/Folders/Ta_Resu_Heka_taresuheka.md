@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Ta-Resu-Heka"
 shortcode: taresuheka
+name: {full: "Ta-Resu-Heka"}
 type: folder
-data:
-  parent: bordernomes
-  color: "#A5D6A7"
+data: {parent: bordernomes, color: "#A5D6A7"}
 ---

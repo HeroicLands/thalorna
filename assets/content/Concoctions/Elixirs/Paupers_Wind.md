@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: "Pauper's Wind"
-  aliases:
-    - Airtap Elixir
-description: "Pale nearly-invisible breath elixir; halves breath need and exertion."
 shortcode: elxair
+name: {full: "Pauper's Wind", aliases: [Airtap Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Pale nearly-invisible breath elixir; halves breath need and exertion."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

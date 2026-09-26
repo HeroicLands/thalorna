@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: The Long Sight
-  aliases: []
-description: "Grants sight of a distant place, provided the sun is standing on it."
 shortcode: lngsght
+name: {full: The Long Sight, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: atenre
-  templatePriority: null
-  packFolder: hekauincantations
+description: "Grants sight of a distant place, provided the sun is standing on it."
+tags: [khemenu-hekau, incantation]
+data: {icon: atenre, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: atenre
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---
 
 Distance is not the constraint; light is. The practitioner sees what the sun sees, so the working

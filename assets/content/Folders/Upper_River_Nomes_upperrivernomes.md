@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Upper River Nomes"
 shortcode: upperrivernomes
+name: {full: "Upper River Nomes"}
 type: folder
-data:
-  parent: takheperu
-  color: "#81C784"
+data: {parent: takheperu, color: "#81C784"}
 ---

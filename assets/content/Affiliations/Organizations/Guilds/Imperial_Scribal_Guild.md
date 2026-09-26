@@ -1,15 +1,12 @@
 ---
-tags: []
-description: "Chartered guild administering all official writing in the Vylarian Empire—from imperial edicts to provincial tax rolls—and the bureaucratic backbone on which the empire actually runs."
+shortcode: imprlscrblgld
 name:
   full: The Imperial Scribal Guild
-  aliases:
-    - The Guild of Imperial Letters
-    - Collegium Scribarum Imperii
-    - The Vylarian Scribal Guild
-shortcode: imprlscrblgld
+  aliases: [The Guild of Imperial Letters, Collegium Scribarum Imperii, The Vylarian Scribal Guild]
 type: affiliation
 subType: guild
+description: "Chartered guild administering all official writing in the Vylarian Empire—from imperial edicts to provincial tax rolls—and the bureaucratic backbone on which the empire actually runs."
+tags: []
 data:
   templatePriority: null
   demonym: null
@@ -18,8 +15,7 @@ data:
   governance:
     model: council
     summary: >-
-      A chartered guild of imperial scribes, examined from probationer to Guildmaster, governed
-      by the Council of Guildmasters under its High Hand.
+      A chartered guild of imperial scribes, examined from probationer to Guildmaster, governed by the Council of Guildmasters under its High Hand.
     ranks:
       - level: 0
         title: Revoked License
@@ -30,26 +26,22 @@ data:
         title: Probationer
         lore: initiaternk
         description: >-
-          Scriba probandus—a student in training at a chapterhouse, not authorized to seal
-          independently.
+          Scriba probandus—a student in training at a chapterhouse, not authorized to seal independently.
       - level: 2
         title: Scribe
         lore: clerkrnk
         description: >-
-          Scriba—qualified after the seven-year course, permitted to seal routine documents
-          under the supervision of a master.
+          Scriba—qualified after the seven-year course, permitted to seal routine documents under the supervision of a master.
       - level: 3
         title: Master Scribe
         lore: masterrnk
         description: >-
-          Magister scribarum—examined, permitted to seal all civilian documents independently
-          and to supervise junior scribes.
+          Magister scribarum—examined, permitted to seal all civilian documents independently and to supervise junior scribes.
       - level: 4
         title: Guildmaster
         lore: officerrnk
         description: >-
-          Magister collegii—promoted by senior vote, permitted to seal imperial edicts and to
-          hold positions on the Council of the Guild.
+          Magister collegii—promoted by senior vote, permitted to seal imperial edicts and to hold positions on the Council of the Guild.
       - level: 5
         title: High Hand
         lore: grandmasterrnk
@@ -59,14 +51,11 @@ data:
   seat: null
   domains: []
   population: null
-  economy:
-    - affiliation-magnumclgm
+  economy: [affiliation-magnumclgm]
   lore: []
   parents: []
   relations: {}
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 - **Type:** Imperial chartered guild

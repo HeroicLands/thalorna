@@ -1,20 +1,11 @@
 ---
-tags:
-  - city-state
-  - city
-description: "City-State"
+shortcode: ashkabel2
+name: {full: Ashkabel, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - haradregin
-  population: 150000
-name:
-  full: Ashkabel
-  aliases: []
-shortcode: ashkabel2
+description: "City-State"
+tags: [city-state, city]
+data: {demonym: null, lore: [], parents: [haradregin], population: 150000}
 ---
 
 ## Overview

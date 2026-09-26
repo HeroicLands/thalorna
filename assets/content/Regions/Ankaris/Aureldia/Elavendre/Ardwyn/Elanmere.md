@@ -1,22 +1,11 @@
 ---
-tags:
-  - town
-  - lakeside
-  - mountain
-description: "The lake town at the foot of the Ardwyn mountains—the market where the high country comes down to trade, and the last comfortable place before the passes."
+shortcode: elanmere
+name: {full: Elanmere, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - ardwyn
-  population: 2100
-  packFolder: elavendre
-name:
-  full: Elanmere
-  aliases: []
-shortcode: elanmere
+description: "The lake town at the foot of the Ardwyn mountains—the market where the high country comes down to trade, and the last comfortable place before the passes."
+tags: [town, lakeside, mountain]
+data: {demonym: null, lore: [], parents: [ardwyn], population: 2100, packFolder: elavendre}
 ---
 
 **Elanmere** stands on the shore of the lake that gives it its name, in a glacial valley at the western

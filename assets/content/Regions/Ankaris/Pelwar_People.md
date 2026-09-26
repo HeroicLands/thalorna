@@ -1,13 +1,10 @@
 ---
-description: "Ancestral nomadic peoples whose migrations across Ankaris gave rise to modern kingdoms and whose language family still echoes in cultures from north to south."
+shortcode: pelwarpepl
+name: {full: Pelwar People, aliases: []}
 type: lore
 subType: folk
-name:
-  full: Pelwar People
-  aliases: []
-shortcode: pelwarpepl
-data:
-  packFolder: ankaris
+description: "Ancestral nomadic peoples whose migrations across Ankaris gave rise to modern kingdoms and whose language family still echoes in cultures from north to south."
+data: {packFolder: ankaris}
 ---
 
 - **Type:** Ancestral people / language family

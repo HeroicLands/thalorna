@@ -1,23 +1,16 @@
 ---
-tags:
-  - temple
-  - sacred
-  - inland
-description: "The chain of Varnaka temples at the summits of the crossing roads, kept year-round by a priestly sub-caste of ushtakas who live where a lowlander would die, and holding the only written record of who crossed the wall and when."
+shortcode: pssshrines
+name: {full: The Pass-Shrines, aliases: []}
 type: place
 subType: site
+description: "The chain of Varnaka temples at the summits of the crossing roads, kept year-round by a priestly sub-caste of ushtakas who live where a lowlander would die, and holding the only written record of who crossed the wall and when."
+tags: [temple, sacred, inland]
 data:
   demonym: null
   lore: []
-  parents:
-    - graznmntns
-    - sthrnwall
+  parents: [graznmntns, sthrnwall]
   population: null
   packFolder: vedyara
-name:
-  full: The Pass-Shrines
-  aliases: []
-shortcode: pssshrines
 ---
 
 The **Pass-Shrines** are the temples at the high points of the crossing roads: one at [[place-meghadvara|Meghadvāra]], one at [[place-suryadvara|Sūryadvāra]], one at [[place-tamradvara|Tāmradvāra]], one at [[place-jnanadvara|Jñānadvāra]], one at [[place-sankhadvra|Shankhadvāra]]. There is none on [[place-gudesroad|the Guides' Road]], and there never has been.

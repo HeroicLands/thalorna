@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Thermoception
-  aliases:
-    - Eyes
-description: "Senses heat variations; perceives temperature and thermal patterns."
 shortcode: thrmcptn
+name: {full: Thermoception, aliases: [Eyes]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
-  packFolder: spells
+description: "Senses heat variations; perceives temperature and thermal patterns."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Eyes

@@ -1,12 +1,9 @@
 ---
+shortcode: fvlmntlrds
+name: {full: Five Elemental Lords, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Five Elemental Lords
-  aliases: []
-shortcode: fvlmntlrds
-data:
-  packFolder: celestialorder
+data: {packFolder: celestialorder}
 ---
 
 ## The Five Elemental Lords

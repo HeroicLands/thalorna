@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Blindspot
-  aliases:
-    - Caecity
-description: "Caster becomes invisible when still; seen only if moving."
 shortcode: blndspt
+name: {full: Blindspot, aliases: [Caecity]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Caster becomes invisible when still; seen only if moving."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Caecity

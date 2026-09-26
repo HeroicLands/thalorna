@@ -1,19 +1,9 @@
 ---
-tags:
-  - town
-  - trading
-description: "Trading Town"
-type: place
-name:
-  full: Selímara
-  aliases: []
 shortcode: selimara
+name: {full: Selímara, aliases: []}
+type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - byzariargn
-  population: 5000
-  packFolder: byzaria
+description: "Trading Town"
+tags: [town, trading]
+data: {demonym: null, lore: [], parents: [byzariargn], population: 5000, packFolder: byzaria}
 ---

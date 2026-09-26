@@ -1,8 +1,6 @@
 ---
-name:
-  full: "Assemblies"
 shortcode: assemblies
+name: {full: "Assemblies"}
 type: folder
-data:
-  color: "#800080"
+data: {color: "#800080"}
 ---

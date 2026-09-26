@@ -1,8 +1,6 @@
 ---
-name:
-  full: "Elixirs"
 shortcode: elixirs
+name: {full: "Elixirs"}
 type: folder
-data:
-  parent: concoctions
+data: {parent: concoctions}
 ---

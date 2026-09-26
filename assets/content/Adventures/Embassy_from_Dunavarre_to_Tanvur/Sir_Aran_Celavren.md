@@ -1,16 +1,8 @@
 ---
-tags:
-  - character
-  - draft
-  - embassy-to-tanvur
-name:
-  full: Sir Aran Célavren
-  title: ""
-  given: Aran
-  clan: Célavren
-  aliases: []
 shortcode: arancelavren
+name: {full: Sir Aran Célavren, title: "", given: Aran, clan: Célavren, aliases: []}
 type: being
+tags: [character, draft, embassy-to-tanvur]
 data:
   templatePriority: null
   archetypes: []
@@ -18,8 +10,7 @@ data:
   stations: []
   lore: []
   homes: []
-  affiliations:
-    - kingdmdnvr
+  affiliations: [kingdmdnvr]
   gender: male
   species: humanflk
   packFolder: adventures

@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: Shabti's Waking
-  aliases: []
-description: "Binds a made servant to wake at a stated condition and act until the condition ends."
 shortcode: shbtswkng
+name: {full: Shabti's Waking, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: imnetau
-  templatePriority: null
-  packFolder: hekauincantations
+description: "Binds a made servant to wake at a stated condition and act until the condition ends."
+tags: [khemenu-hekau, incantation]
+data: {icon: imnetau, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: imnetau
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---
 
 The deepest layer of tomb defense, worked jointly with Per-Khat'nu, which makes the body and Per-

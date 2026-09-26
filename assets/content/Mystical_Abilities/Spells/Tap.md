@@ -1,24 +1,17 @@
 ---
-tags: []
-name:
-  full: Tap
-  aliases: []
-description: "Draws upon power source; taps magical reservoir for energy."
 shortcode: tap
+name: {full: Tap, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Draws upon power source; taps magical reservoir for energy."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Tap

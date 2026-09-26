@@ -1,9 +1,4 @@
 ---
-tags:
-  - varnaka
-  - faith-skill
-type: skill
-subType: mystical
 shortcode: svapnasarisamaja
 name:
   full: "Ritual: Svapnasāri-samāja"
@@ -14,9 +9,10 @@ name:
     - Dream Assembly
     - The Assembly of the Dream-Followers
     - The Dream Assembly
-data:
-  templatePriority: null
-  packFolder: varnaka
+type: skill
+subType: mystical
+tags: [varnaka, faith-skill]
+data: {templatePriority: null, packFolder: varnaka}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

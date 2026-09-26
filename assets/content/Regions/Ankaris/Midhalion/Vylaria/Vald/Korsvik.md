@@ -1,21 +1,11 @@
 ---
-tags:
-  - town
-  - fishing
-description: "Fishing Town"
+shortcode: korsvik
+name: {full: Korsvik, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vald
-  population: 7000
-  packFolder: vylaria
-name:
-  full: Korsvik
-  aliases: []
-shortcode: korsvik
+description: "Fishing Town"
+tags: [town, fishing]
+data: {demonym: null, lore: [], parents: [vald], population: 7000, packFolder: vylaria}
 ---
 
 ## Overview

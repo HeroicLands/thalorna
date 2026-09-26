@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Revealing Touch
-  aliases:
-    - Unveiling
-description: "Ripple of light disrupts illusions and glamours completely."
 shortcode: rvltch
+name: {full: Revealing Touch, aliases: [Unveiling]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Ripple of light disrupts illusions and glamours completely."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Unveiling

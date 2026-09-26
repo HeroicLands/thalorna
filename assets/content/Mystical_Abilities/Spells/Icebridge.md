@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Icebridge
-  aliases:
-    - Floe
-description: "Freezes paths across water; forms traversable bridge for travel."
 shortcode: icbrdg
+name: {full: Icebridge, aliases: [Floe]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
-  packFolder: spells
+description: "Freezes paths across water; forms traversable bridge for travel."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Floe

@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Infuse
-  aliases:
-    - Charge
-description: "Channels arcane energy into object; releases via predetermined trigger."
 shortcode: infuse
+name: {full: Infuse, aliases: [Charge]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Channels arcane energy into object; releases via predetermined trigger."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Charge

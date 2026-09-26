@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "In 330 BF, holding the dragons' dead, the Vylarian Republic offers the one thing only it can offer—their return—and the dragons' price is the war; the term runs by the year, renewed, and nothing about it is ever written down."
+shortcode: thebargain
+name: {full: The Bargain, aliases: [The Standing Lease]}
 type: lore
 subType: history
-name:
-  full: The Bargain
-  aliases:
-    - The Standing Lease
-shortcode: thebargain
-data:
-  packFolder: settinglore
+description: "In 330 BF, holding the dragons' dead, the Vylarian Republic offers the one thing only it can offer—their return—and the dragons' price is the war; the term runs by the year, renewed, and nothing about it is ever written down."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: treaty

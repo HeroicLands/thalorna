@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: The Byzarian League's northern frontier district—the upland rim of the plateau toward Velanthia, down which the grain road runs and across which the League and the Velanthian Hosts keep a quiet, commercial border.
-name:
-  full: Northern March
-  aliases: []
 shortcode: northrnmrch
+name: {full: Northern March, aliases: []}
 type: place
 subType: region
+description: The Byzarian League's northern frontier district—the upland rim of the plateau toward Velanthia, down which the grain road runs and across which the League and the Velanthian Hosts keep a quiet, commercial border.
+tags: [region]
 data:
   icon: null
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - byzariargn
+  lore: [humanflk]
+  parents: [byzariargn]
   population: null
   packFolder: byzaria
 

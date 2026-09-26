@@ -1,19 +1,10 @@
 ---
-tags:
-  - tengvok
-  - faith-skill
-  - draft
+shortcode: zhurhot
+name: {full: "Ritual: Zhürhöt", aliases: [Zhürhöt, The Minister of Fire]}
 type: skill
 subType: mystical
-shortcode: zhurhot
-name:
-  full: "Ritual: Zhürhöt"
-  aliases:
-    - Zhürhöt
-    - The Minister of Fire
-data:
-  templatePriority: null
-  packFolder: tengvokvanlei
+tags: [tengvok, faith-skill, draft]
+data: {templatePriority: null, packFolder: tengvokvanlei}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

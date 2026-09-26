@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Streakfire
-  aliases:
-    - Shooting Star
-description: "Creates line of flame; projects burning ray through air."
 shortcode: strkfr
+name: {full: Streakfire, aliases: [Shooting Star]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
-  packFolder: spells
+description: "Creates line of flame; projects burning ray through air."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Shooting Star

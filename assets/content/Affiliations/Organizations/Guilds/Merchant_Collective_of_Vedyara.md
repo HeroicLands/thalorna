@@ -1,16 +1,12 @@
 ---
-tags: []
-description: "Dominant Vedyaran commercial federation—the caravans, the standards and the letters of credit that cross every seat of the Compact, mining holdings it works by lease where it cannot hold the rock, and a reach that rivals the councils and courts it lends to."
+shortcode: mrchntclctvvdyr
 name:
   full: The Merchant Collective of Vedyara
-  aliases:
-    - Vyāpārī Sangha
-    - The Collective
-    - The Long Caravan
-    - Merchant Collective
-shortcode: mrchntclctvvdyr
+  aliases: [Vyāpārī Sangha, The Collective, The Long Caravan, Merchant Collective]
 type: affiliation
 subType: guild
+description: "Dominant Vedyaran commercial federation—the caravans, the standards and the letters of credit that cross every seat of the Compact, mining holdings it works by lease where it cannot hold the rock, and a reach that rivals the councils and courts it lends to."
+tags: []
 data:
   templatePriority: null
   demonym: null
@@ -19,50 +15,39 @@ data:
   governance:
     model: council
     summary: >-
-      A mercantile federation of hereditary houses, sponsored entrants and guild-affiliated
-      suppliers, governed by the biannual Assembly of the Compact under an elected High Speaker.
+      A mercantile federation of hereditary houses, sponsored entrants and guild-affiliated suppliers, governed by the biannual Assembly of the Compact under an elected High Speaker.
     ranks:
       - level: 0
         title: Expelled
         lore: expelledrnk
         description: >-
-          The kulina responsible for the worst offenses can be expelled, though one senior
-          enough risks fracturing the Collective by it.
+          The kulina responsible for the worst offenses can be expelled, though one senior enough risks fracturing the Collective by it.
       - level: 1
         title: Karmakara
         lore: dependentrnk
         description: >-
-          An artisan supplier admitted by craft-guild affiliation, taking part in the Assembly
-          through the guild's elected representative.
+          An artisan supplier admitted by craft-guild affiliation, taking part in the Assembly through the guild's elected representative.
       - level: 2
         title: Pratistha
         lore: initiaternk
         description: >-
-          A new entrant admitted by sponsorship and probation, voting only on matters concerning
-          their probationary terms.
+          A new entrant admitted by sponsorship and probation, voting only on matters concerning their probationary terms.
       - level: 3
         title: Kulina House
         lore: greatlordrnk
         description: >-
-          Of the great mercantile houses admitted by inheritance, whose vote carries weight in
-          proportion to the house's contribution to the common fund. Distinguished as "Kulina
-          House" from Chandrapur's own Kulina, the unrelated seat one of the Nine Houses holds
-          at that janapada's court.
+          Of the great mercantile houses admitted by inheritance, whose vote carries weight in proportion to the house's contribution to the common fund. Distinguished as "Kulina House" from Chandrapur's own Kulina, the unrelated seat one of the Nine Houses holds at that janapada's court.
     offices:
       High Speaker of the Collective: >-
-        Elected by the kulinas from among themselves for a seven-year term, presiding over the
-        Assembly of the Compact.
+        Elected by the kulinas from among themselves for a seven-year term, presiding over the Assembly of the Compact.
   seat: null
   domains: []
   population: null
-  economy:
-    - affiliation-magnumclgm
+  economy: [affiliation-magnumclgm]
   lore: []
   parents: []
   relations: {}
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 _Vedyaran: Vyāpārī Sangha—"the Merchants' Assembly"_

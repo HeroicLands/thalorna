@@ -1,13 +1,10 @@
 ---
-tags: []
-type: affiliation
-description: The kingdom of the cattle-roads—the crown of the arid central plateau, holding the wells and the droveways that cross it and making no claim on the ground between them.
-name:
-  full: Gomārga
-  aliases:
-    - The Kingdom of the Cattle-Road
 shortcode: gomarga
+name: {full: Gomārga, aliases: [The Kingdom of the Cattle-Road]}
+type: affiliation
 subType: polity
+description: The kingdom of the cattle-roads—the crown of the arid central plateau, holding the wells and the droveways that cross it and making no claim on the ground between them.
+tags: []
 data:
   templatePriority: null
   demonym: Gomārgi
@@ -16,96 +13,74 @@ data:
   governance:
     model: monarchy
     summary: >-
-      Hereditary Mahārāja whose court travels the well-circuit through the year, advised by the
-      keepers of the droveways and by the lineages that cut and hold the plateau's wells.
+      Hereditary Mahārāja whose court travels the well-circuit through the year, advised by the keepers of the droveways and by the lineages that cut and hold the plateau's wells.
     ranks:
       - level: 0
         title: Outcaste
         lore: excmmnctrnk
         description: >-
-          Placed outside the tharana by transgression or by birth, and on the plateau denied
-          the wells before anything else is denied him.
+          Placed outside the tharana by transgression or by birth, and on the plateau denied the wells before anything else is denied him.
       - level: 1
         title: Bonded Servant
         lore: bondservantrnk
         description: >-
-          Bound by debt or birth to a household, walking its herds and carrying its token, and
-          holding neither stock nor water in his own name.
+          Bound by debt or birth to a household, walking its herds and carrying its token, and holding neither stock nor water in his own name.
       - level: 2
         title: Karmāja
         lore: commonerrnk
         description: >-
-          Born to the serving tharana—drovers, tank-diggers, leather-workers and the herd-hands who do
-          the year's walking for another man's cattle.
+          Born to the serving tharana—drovers, tank-diggers, leather-workers and the herd-hands who do the year's walking for another man's cattle.
       - level: 3
         title: Dhanāja
         lore: gentryrnk
         description: >-
-          Born to the productive tharana, and on the plateau the tharana that matters: the herd-owning
-          lineages, whose stock and whose wells are the kingdom's whole wealth.
+          Born to the productive tharana, and on the plateau the tharana that matters: the herd-owning lineages, whose stock and whose wells are the kingdom's whole wealth.
       - level: 4
         title: Senāja
         lore: warriorrnk
         description: >-
-          Born to the warrior tharana, bearing arms by right and owing mounted service on the droveways
-          in the moving seasons.
+          Born to the warrior tharana, bearing arms by right and owing mounted service on the droveways in the moving seasons.
       - level: 5
         title: Ritūja
         lore: priestrnk
         description: >-
-          Born to the priestly tharana, keeper of rite and learning, and the one who reads the season and
-          names the day the herds move.
+          Born to the priestly tharana, keeper of rite and learning, and the one who reads the season and names the day the herds move.
       - level: 6
         title: Sāmanta
         lore: greatlordrnk
         description: >-
-          Holder of a droveway of the crown, answerable for its wells, its grazing rights and the
-          peace kept along it.
+          Holder of a droveway of the crown, answerable for its wells, its grazing rights and the peace kept along it.
       - level: 7
         title: Royal Kin
         lore: heirrnk
-        description: Of the Mahārāja's house by blood or marriage, eligible for the crown and its
-          regencies.
+        description: Of the Mahārāja's house by blood or marriage, eligible for the crown and its regencies.
       - level: 8
         title: Mahārāja
         lore: sovereignrnk
         description: >-
-          The king of the cattle-road, in whom the droveways and the wells are held together and
-          whose court has no fixed roof.
+          The king of the cattle-road, in whom the droveways and the wells are held together and whose court has no fixed roof.
     offices:
       Mahārāja: >-
-        The crown, which travels the well-circuit through the year and holds court wherever the
-        herds and the season have brought it.
+        The crown, which travels the well-circuit through the year and holds court wherever the herds and the season have brought it.
       Rājñī: >-
-        The chief queen, who keeps the standing camp at the winter wells with the treasury, the
-        records and the hostages while the crown moves.
+        The chief queen, who keeps the standing camp at the winter wells with the treasury, the records and the hostages while the crown moves.
       Yuvarāja: >-
-        The designated heir, given one droveway to hold as his apprenticeship and judged on how
-        quiet he keeps it.
+        The designated heir, given one droveway to hold as his apprenticeship and judged on how quiet he keeps it.
       Mārgapāla: >-
-        Keeper of a droveway—its width, its watering rights, the tolls taken along it and the
-        settlement of every quarrel that starts on it.
+        Keeper of a droveway—its width, its watering rights, the tolls taken along it and the settlement of every quarrel that starts on it.
       Kūpapāla: >-
-        Keeper of a single well, named by the lineage that cut it and confirmed by the crown,
-        who sets what a passing herd pays to drink.
+        Keeper of a single well, named by the lineage that cut it and confirmed by the crown, who sets what a passing herd pays to drink.
       Purohita: >-
-        Royal chaplain, who performs the rites the crown's legitimacy rests on and names the day
-        the herds move.
+        Royal chaplain, who performs the rites the crown's legitimacy rests on and names the day the herds move.
       Senāpati: >-
-        Commander of the mounted escort, which exists to make raiding a herd more expensive than
-        buying one.
+        Commander of the mounted escort, which exists to make raiding a herd more expensive than buying one.
       Dūta: >-
-        Envoy to a river court or a janapada sabhā, and in practice the kingdom's cattle-broker
-        as well.
+        Envoy to a river court or a janapada sabhā, and in practice the kingdom's cattle-broker as well.
   seat: null
-  domains:
-    - vandhyabhumi
+  domains: [vandhyabhumi]
   population: 1200000
-  economy:
-    - lore-vdyrnbnkng
-    - affiliation-mrchntclctvvdyr
-  lore:
-    - vedyariclt
+  economy: [lore-vdyrnbnkng, affiliation-mrchntclctvvdyr]
+  lore: [vedyariclt]
   parents: []
   relations:
     varakpnthn: aligned
@@ -113,10 +88,7 @@ data:
     mrchntclctvvdyr: rival
     bhrvdvbhog: unaligned
   packFolder: vedyara
-sohl:
-  system:
-    commonSkills:
-      - vedyarlng
+sohl: {system: {commonSkills: [vedyarlng]}}
 
 # terran_analog: "Transhumant pastoral kingship of the semi-arid Indian interior—a crown whose revenue is watering dues and droveway tolls rather than land tax, and whose court is itinerant for most of the year"
 ---

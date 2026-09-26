@@ -1,16 +1,12 @@
 ---
-tags: []
-description: The shamanic faith of the Áelendan—the oldest continuously practiced tradition on Ankaris, oriented around the First Gods and their Kindred.
+shortcode: theoldway
 name:
   full: The Old Way
-  aliases:
-    - The Way of the First
-    - The Shaman Way
-    - The Old Ways
-    - Way of the First
-shortcode: theoldway
+  aliases: [The Way of the First, The Shaman Way, The Old Ways, Way of the First]
 type: affiliation
 subType: spirittradition
+description: The shamanic faith of the Áelendan—the oldest continuously practiced tradition on Ankaris, oriented around the First Gods and their Kindred.
+tags: []
 data:
   templatePriority: null
   demonym: null
@@ -19,70 +15,55 @@ data:
   governance:
     model: council
     summary: >-
-      No institution and no ordination: a shaman is recognized by their own tribe and answerable
-      to it, advising the elders and the council rather than commanding them. There is no
-      authority over the Old Way as a whole, and no tribe's shamen bind another's.
+      No institution and no ordination: a shaman is recognized by their own tribe and answerable to it, advising the elders and the council rather than commanding them. There is no authority over the Old Way as a whole, and no tribe's shamen bind another's.
     ranks:
       - level: 0
         title: Exiled
         lore: outlawrnk
         description: >-
-          Put out for turning shamanic power to personal ends—cursing, private gain, coercion—which
-          is the gravest religious offense the Áelendan recognize.
+          Put out for turning shamanic power to personal ends—cursing, private gain, coercion—which is the gravest religious offense the Áelendan recognize.
       - level: 1
         title: Untaught
         lore: catechumenrnk
         description: >-
-          Of the tribe and living under its compacts, keeping the seasonal observances without
-          perceiving the Kindred—most of the people, all their lives.
+          Of the tribe and living under its compacts, keeping the seasonal observances without perceiving the Kindred—most of the people, all their lives.
       - level: 2
         title: Marked
         lore: catechumenrnk
         description: >-
-          A child showing the perception—unusual rapport with animals, sensitivity to places,
-          the capacity to dream true dreams—and not yet taken as apprentice.
+          A child showing the perception—unusual rapport with animals, sensitivity to places, the capacity to dream true dreams—and not yet taken as apprentice.
       - level: 3
         title: Apprentice
         lore: initiaternk
         description: >-
-          Taken by an elder shaman and learning over many years: the songs, the lineages of the
-          tribe's Kindred, the protocols of offering, and the uses of fire, smoke, plant and water.
+          Taken by an elder shaman and learning over many years: the songs, the lineages of the tribe's Kindred, the protocols of offering, and the uses of fire, smoke, plant and water.
       - level: 4
         title: Shaman
         lore: sprtspkrrnk
         description: >-
-          Recognized by the tribe rather than ordained by any body; perceives the Kindred, speaks
-          with them, and negotiates on the tribe's behalf with the spirits whose land it shares.
+          Recognized by the tribe rather than ordained by any body; perceives the Kindred, speaks with them, and negotiates on the tribe's behalf with the spirits whose land it shares.
       - level: 5
         title: Elder Shaman
         lore: elderrnk
         description: >-
-          Takes apprentices and holds the tribe's long memory of its compacts, deeply respected
-          and not a ruler—leadership sits with the elders and the council.
+          Takes apprentices and holds the tribe's long memory of its compacts, deeply respected and not a ruler—leadership sits with the elders and the council.
     offices:
       Elder Shaman: >-
-        Holder of the tribe's long memory of its compacts, and the one who judges who may be
-        taken as apprentice.
+        Holder of the tribe's long memory of its compacts, and the one who judges who may be taken as apprentice.
       Shaman: >-
-        The tribe's negotiator with its Kindred, expected to act for the tribe as a whole and
-        exiled if the power is turned to private ends.
+        The tribe's negotiator with its Kindred, expected to act for the tribe as a whole and exiled if the power is turned to private ends.
       Beast-Speaker: >-
         Shaman whose rapport is strongest with the animal-kin; addresses the hunt-rites.
       Water-Speaker: >-
-        Shaman whose rapport is strongest with the river-mothers and lake-spirits; consulted on
-        crossing, drowning and cleansing.
+        Shaman whose rapport is strongest with the river-mothers and lake-spirits; consulted on crossing, drowning and cleansing.
       Death-Speaker: >-
-        Shaman whose rapport is with the spirits of the dead; commends the departed to the
-        river-mother who will carry them or the stone-warder who will keep their bones.
+        Shaman whose rapport is with the spirits of the dead; commends the departed to the river-mother who will carry them or the stone-warder who will keep their bones.
       Song-Keeper: >-
-        Holder of the songs by which the Kindred are addressed, thanked and warded, in a
-        tradition that writes nothing down.
+        Holder of the songs by which the Kindred are addressed, thanked and warded, in a tradition that writes nothing down.
       Fire-Tender: >-
-        Keeper of the fire and smoke the rites are conducted through, and of what may be burned
-        for which Kindred.
+        Keeper of the fire and smoke the rites are conducted through, and of what may be burned for which Kindred.
       Warder: >-
-        Charged with the protective songs and objects carried against the hostile Kindred, and
-        with knowing whose territory must not be entered.
+        Charged with the protective songs and objects carried against the hostile Kindred, and with knowing whose territory must not be entered.
   seat: null
   domains: []
   population: null
@@ -99,10 +80,8 @@ data:
     - gwalchenspr
     - arthgenspr
     - tanwenspr
-  parents:
-    - firstgods
-  relations:
-    firstgods: aligned
+  parents: [firstgods]
+  relations: {firstgods: aligned}
   packFolder: pantheonsfirstgods
 sohl:
   system:

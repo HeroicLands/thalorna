@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: Rot of the Seventh Day
-  aliases: []
-description: "Accelerates the decay of organic material, on a stated delay."
 shortcode: rtsvnthdy
+name: {full: Rot of the Seventh Day, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: sefut
-  templatePriority: null
-  packFolder: hekauincantations
+description: "Accelerates the decay of organic material, on a stated delay."
+tags: [khemenu-hekau, incantation]
+data: {icon: sefut, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: sefut
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---
 
 Named for its usual setting: the working sits inert and begins on the seventh day, by which time

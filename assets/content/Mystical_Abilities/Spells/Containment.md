@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Containment
-  aliases:
-    - Globe
-description: "Reinforced cage of force imprisons; resists magic attempting break."
 shortcode: cntnmnt
+name: {full: Containment, aliases: [Globe]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Reinforced cage of force imprisons; resists magic attempting break."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Globe

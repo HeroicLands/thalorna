@@ -1,20 +1,11 @@
 ---
-tags:
-  - city
-  - draft
-description: "City"
+shortcode: hanalxilan2
+name: {full: Ha'nal Xi'lan, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - hanalxilanrgn
-  population: 1200
-name:
-  full: Ha'nal Xi'lan
-  aliases: []
-shortcode: hanalxilan2
+description: "City"
+tags: [city, draft]
+data: {demonym: null, lore: [], parents: [hanalxilanrgn], population: 1200}
 ---
 
 ## Overview

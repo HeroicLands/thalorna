@@ -1,18 +1,11 @@
 ---
-tags:
-  - great-elixir
-name:
-  full: Kingsbane
-  aliases:
-    - Potion, Poison, Great
-description: "Blackened tar-like liquid; deadly poison causing swift incapacitation."
 shortcode: ptnpoig
+name: {full: Kingsbane, aliases: ["Potion, Poison, Great"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: great
+description: "Blackened tar-like liquid; deadly poison causing swift incapacitation."
+tags: [great-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: great}
 sohl:
   system:
     weightBase: 0.25

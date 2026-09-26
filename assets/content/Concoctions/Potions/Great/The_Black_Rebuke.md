@@ -1,18 +1,11 @@
 ---
-tags:
-  - great-elixir
-name:
-  full: The Black Rebuke
-  aliases:
-    - Potion, Emetic, Great
-description: "Nearly black tar-like liquid; causes violent vomiting and illness."
 shortcode: ptnemg
+name: {full: The Black Rebuke, aliases: ["Potion, Emetic, Great"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: great
+description: "Nearly black tar-like liquid; causes violent vomiting and illness."
+tags: [great-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: great}
 sohl:
   system:
     weightBase: 0.25

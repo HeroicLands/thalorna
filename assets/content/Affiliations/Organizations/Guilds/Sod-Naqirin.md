@@ -1,21 +1,10 @@
 ---
-tags:
-  - organization
-  - harad
-  - midhalion
-  - guild
-  - confederation
-  - post-imperial
-description: "Haradian Council of the Guild-Wardens—chartered by the Confederation after independence to replace the Vylarian guild umbrella with an institution drawn from Harad's own pre-conquest merchant traditions and built on its own terms, in its own language."
-name:
-  full: Sôd-Naqîrîn
-  aliases:
-    - The Sôd
-    - The Council of the Guild-Wardens
-    - Bêt-Naqîrîn
 shortcode: sodnaqirin
+name: {full: Sôd-Naqîrîn, aliases: [The Sôd, The Council of the Guild-Wardens, Bêt-Naqîrîn]}
 type: affiliation
 subType: guild
+description: "Haradian Council of the Guild-Wardens—chartered by the Confederation after independence to replace the Vylarian guild umbrella with an institution drawn from Harad's own pre-conquest merchant traditions and built on its own terms, in its own language."
+tags: [organization, harad, midhalion, guild, confederation, post-imperial]
 data:
   templatePriority: null
   demonym: null
@@ -24,47 +13,37 @@ data:
   governance:
     model: council
     summary: >-
-      A Confederation-chartered umbrella of thirty-two Haradian trade guilds and their treasury
-      arm, governed by the Sôd-Rabbânîn under an elected Rab-Naqîr.
+      A Confederation-chartered umbrella of thirty-two Haradian trade guilds and their treasury arm, governed by the Sôd-Rabbânîn under an elected Rab-Naqîr.
     ranks:
       - level: 0
         title: Expelled
         lore: expelledrnk
         description: >-
-          Struck from a trade's charter and the Sôd's roll; the Sôd's authority over guilds
-          is equivalent to the Vylarian Collegium's it replaced.
+          Struck from a trade's charter and the Sôd's roll; the Sôd's authority over guilds is equivalent to the Vylarian Collegium's it replaced.
       - level: 1
         title: Apprentice
         lore: apprenticernk
         description: >-
-          Bound to a chartered trade and examined as the Sôd's authority requires, not yet a
-          registered master.
+          Bound to a chartered trade and examined as the Sôd's authority requires, not yet a registered master.
       - level: 3
         title: Guildmaster
         lore: masterrnk
         description: >-
-          A registered master of one of the Sôd's chartered trades, examined and bound to its
-          standards.
+          A registered master of one of the Sôd's chartered trades, examined and bound to its standards.
       - level: 4
         title: Sôd-Rabbânîn Seat
         lore: councillorrnk
         description: >-
-          The senior naqîr of a recognized trade-category, elected by that trade's own masters
-          to one of the thirty-two seats of the standing council.
+          The senior naqîr of a recognized trade-category, elected by that trade's own masters to one of the thirty-two seats of the standing council.
     offices:
       Rab-Naqîr: >-
-        Chief of Chiefs—the head, elected from among the sitting naqîrîn of the great trades by
-        the assembled Sôd-Rabbânîn for a renewable seven-year term.
+        Chief of Chiefs—the head, elected from among the sitting naqîrîn of the great trades by the assembled Sôd-Rabbânîn for a renewable seven-year term.
       Rab-Pāqîd: >-
-        Chief Overseer—senior of the Pāqîdîn, the discipline arm of eight officers who inspect,
-        investigate charter violations and prosecute disciplinary cases before the Sôd.
+        Chief Overseer—senior of the Pāqîdîn, the discipline arm of eight officers who inspect, investigate charter violations and prosecute disciplinary cases before the Sôd.
       Gizbar: >-
-        Treasurer—manages the Sôd's common fund and the Confederation's parallel banking system,
-        the Bayt al-Khazînah.
+        Treasurer—manages the Sôd's common fund and the Confederation's parallel banking system, the Bayt al-Khazînah.
       Adôn: >-
-        One of the Adônîm al-Mudunîn ("Lords of the City-States")—the provincial deputies, one
-        per major Haradian state, who administer the Sôd's operations in their cities and
-        report to the Rab-Naqîr.
+        One of the Adônîm al-Mudunîn ("Lords of the City-States")—the provincial deputies, one per major Haradian state, who administer the Sôd's operations in their cities and report to the Rab-Naqîr.
   seat: null
   domains: []
   population: null
@@ -76,9 +55,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 _Haradi: Sôd-Naqîrîn—"The Council of the Guild-Wardens"_

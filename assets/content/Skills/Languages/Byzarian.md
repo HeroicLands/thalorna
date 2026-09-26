@@ -1,17 +1,11 @@
 ---
-tags: []
-name:
-  full: Byzarian Language
-  aliases:
-    - Byzarian
-description: "A crossroads speech wedding Helonic grammar to eastern vocabulary, widely understood by traders on either side."
 shortcode: byzarnlng
+name: {full: Byzarian Language, aliases: [Byzarian]}
 type: skill
 subType: language
-data:
-  icon: icon-speaking
-  templatePriority: null
-  packFolder: language
+description: "A crossroads speech wedding Helonic grammar to eastern vocabulary, widely understood by traders on either side."
+tags: []
+data: {icon: icon-speaking, templatePriority: null, packFolder: language}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -20,9 +14,7 @@ sohl:
     combatCategory: none
     parentSkillCode: lang
     initSkillMult: 0
-  flags:
-    "thalorna":
-      lang_family: Helonic
+  flags: {"thalorna": {lang_family: Helonic}}
 ---
 
 Byzarian is a tongue of the Helonic family. Fluency measures the sophistication of expression in Byzarian, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.

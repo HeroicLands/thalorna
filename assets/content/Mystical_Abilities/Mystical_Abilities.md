@@ -1,15 +1,11 @@
 ---
-name:
-  full: Mystical Abilities
-  aliases: []
+shortcode: mysticalability
+name: {full: Mystical Abilities, aliases: []}
 type: doc
 subType: reference
-shortcode: mysticalability
-tags:
-  - draft
 description: Magical and supernatural powers.
-data:
-  banner: packagebuild-none-image-mysticalabilitybnr
+tags: [draft]
+data: {banner: packagebuild-none-image-mysticalabilitybnr}
 ---
 
 ## Arcane Incantation

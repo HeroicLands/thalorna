@@ -1,21 +1,11 @@
 ---
-tags:
-  - region
-  - coastal
-description: "The warm Vylarian shore and its hinterland—half of Provènzia's people and most of its money, holding the capital, the great ports, the old imperial city and the law."
+shortcode: meridiana
+name: {full: Meridiàna, aliases: []}
 type: place
 subType: region
-data:
-  demonym: null
-  lore: []
-  parents:
-    - provenzrgn
-  population: 2500000
-  packFolder: provenzia
-name:
-  full: Meridiàna
-  aliases: []
-shortcode: meridiana
+description: "The warm Vylarian shore and its hinterland—half of Provènzia's people and most of its money, holding the capital, the great ports, the old imperial city and the law."
+tags: [region, coastal]
+data: {demonym: null, lore: [], parents: [provenzrgn], population: 2500000, packFolder: provenzia}
 ---
 
 **Meridiàna**—_the noon country_; the south, and by long implication the warm and prosperous part.

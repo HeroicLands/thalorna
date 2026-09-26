@@ -1,15 +1,12 @@
 ---
-tags: []
-description: 'Cross-realm "guild of guilds"—the umbrella body to which every chartered guild in Vylaria, the Aurèldían kingdoms, Hellád, and (until secession) Harad must belong; provides the credentialing, market-access, and standards infrastructure that lets the post-imperial commonwealth''s smaller polities access markets none of them could reach alone.'
+shortcode: magnumclgm
 name:
   full: The Magnum Collegium
-  aliases:
-    - Magnum Collegium Collegiorum
-    - Great College of Guilds
-    - Magnus Ordo Collegiorum
-shortcode: magnumclgm
+  aliases: [Magnum Collegium Collegiorum, Great College of Guilds, Magnus Ordo Collegiorum]
 type: affiliation
 subType: guild
+description: 'Cross-realm "guild of guilds"—the umbrella body to which every chartered guild in Vylaria, the Aurèldían kingdoms, Hellád, and (until secession) Harad must belong; provides the credentialing, market-access, and standards infrastructure that lets the post-imperial commonwealth''s smaller polities access markets none of them could reach alone.'
+tags: []
 data:
   templatePriority: null
   demonym: null
@@ -18,48 +15,37 @@ data:
   governance:
     model: council
     summary: >-
-      A mandatory cross-realm federation of thirty-six chartered trade guilds, governed by
-      the Curia Collegiorum under an imperially appointed Princeps Collegii.
+      A mandatory cross-realm federation of thirty-six chartered trade guilds, governed by the Curia Collegiorum under an imperially appointed Princeps Collegii.
     ranks:
       - level: 0
         title: Revoked
         lore: expelledrnk
         description: >-
-          Permanent loss of a master's seal by Curia ruling—rare and crushing, and the harshest
-          sanction the Collegium can impose.
+          Permanent loss of a master's seal by Curia ruling—rare and crushing, and the harshest sanction the Collegium can impose.
       - level: 1
         title: Apprentice
         lore: apprenticernk
         description: >-
-          Certified by a member guild under standards the Collegium has standardized across
-          every member territory; not yet a master.
+          Certified by a member guild under standards the Collegium has standardized across every member territory; not yet a master.
       - level: 3
         title: Guildmaster
         lore: masterrnk
         description: >-
-          A chartered master of one of the Collegium's member guilds, holding standing under
-          its charter but no seat of his own on the Curia.
+          A chartered master of one of the Collegium's member guilds, holding standing under its charter but no seat of his own on the Curia.
       - level: 4
         title: Master Magister
         lore: councillorrnk
         description: >-
-          Elected by a trade's own senior masters to hold that trade's seat on the Curia
-          Collegiorum.
+          Elected by a trade's own senior masters to hold that trade's seat on the Curia Collegiorum.
     offices:
       Princeps Collegii: >-
-        First of the College—the chair, appointed by imperial edict for a renewable ten-year
-        term, holding the imperial seal of office and presiding over the Curia.
+        First of the College—the chair, appointed by imperial edict for a renewable ten-year term, holding the imperial seal of office and presiding over the Curia.
       Censor Maximus: >-
-        Senior of the Censores Collegiorum, the twelve appointed officers who conduct
-        inspections, investigate charter violations and prosecute disciplinary cases before
-        the Curia.
+        Senior of the Censores Collegiorum, the twelve appointed officers who conduct inspections, investigate charter violations and prosecute disciplinary cases before the Curia.
       Quaestor Collegii: >-
-        The treasurer, managing the Collegium's modest common fund built from member-guild
-        dues, ceremonial revenues and the Collegium's own commercial holdings.
+        The treasurer, managing the Collegium's modest common fund built from member-guild dues, ceremonial revenues and the Collegium's own commercial holdings.
       Provincialis: >-
-        One of the Magistri Provinciarum ("provincial deputies")—twelve in all, one per
-        Vylarian province, one per Aurèldían kingdom and two for Hellád—who administer the
-        Collegium's operations in their regions.
+        One of the Magistri Provinciarum ("provincial deputies")—twelve in all, one per Vylarian province, one per Aurèldían kingdom and two for Hellád—who administer the Collegium's operations in their regions.
   seat: null
   domains: []
   population: null
@@ -71,9 +57,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 _Vylarian: Magnum Collegium Collegiorum—"The Great Guild of the Guilds"_

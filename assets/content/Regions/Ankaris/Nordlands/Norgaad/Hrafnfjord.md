@@ -1,20 +1,11 @@
 ---
-tags:
-  - village
-description: "Remote Fjord Village"
+shortcode: hrafnfjord
+name: {full: Hrafnfjord, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - norgaad
-  population: 300
-  packFolder: norgaad
-name:
-  full: Hrafnfjord
-  aliases: []
-shortcode: hrafnfjord
+description: "Remote Fjord Village"
+tags: [village]
+data: {demonym: null, lore: [], parents: [norgaad], population: 300, packFolder: norgaad}
 ---
 
 ## Overview

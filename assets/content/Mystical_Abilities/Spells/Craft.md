@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Craft
-  aliases:
-    - Forge
-description: "Shapes and binds materials together; crafts items from raw substance."
 shortcode: craft
+name: {full: Craft, aliases: [Forge]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
-  packFolder: spells
+description: "Shapes and binds materials together; crafts items from raw substance."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Forge

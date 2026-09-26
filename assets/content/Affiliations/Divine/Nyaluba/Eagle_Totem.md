@@ -1,11 +1,10 @@
 ---
-description: "The eagle-spirit of the Ngonzi—vision, distance, and the messenger between worlds; entangled with the stone-builder dead who inhabit the Old Kraals."
-tags:
-  - nyaluba
-  - religion
-  - totemic
+shortcode: nyalbeagl
+name: {full: "Eagle Totem", aliases: [Eagle of the Ngonzi, Ngonzi Totem]}
 type: affiliation
 subType: spirittradition
+description: "The eagle-spirit of the Ngonzi—vision, distance, and the messenger between worlds; entangled with the stone-builder dead who inhabit the Old Kraals."
+tags: [nyaluba, religion, totemic]
 data:
   icon: null
   templatePriority: null
@@ -15,39 +14,33 @@ data:
   governance:
     model: council
     summary: >-
-      No hierarch and no single voice: a council of Spirit-Speakers and Elder Shamans in which
-      the elders' word carries the greater weight, seeking consensus rather than imposing it.
+      No hierarch and no single voice: a council of Spirit-Speakers and Elder Shamans in which the elders' word carries the greater weight, seeking consensus rather than imposing it.
     ranks:
       - level: 0
         title: Spirit-shunned
         lore: excmmnctrnk
         description: >-
-          Turned from by the spirits and by those who keep them: no rite will include them, no
-          pact will cover them, and no griot will speak their name in a genealogy.
+          Turned from by the spirits and by those who keep them: no rite will include them, no pact will cover them, and no griot will speak their name in a genealogy.
       - level: 1
         title: Uninitiated
         lore: catechumenrnk
         description: >-
-          Living under the observances, the totem law and the clan's pacts without having
-          entered the tradition—most of the people, most of the time.
+          Living under the observances, the totem law and the clan's pacts without having entered the tradition—most of the people, most of the time.
       - level: 2
         title: Initiate
         lore: initiaternk
         description: >-
-          Taken through the ordeal and received; learning the pacts, the protocols and the three
-          postures, and permitted at the rites without yet speaking in them.
+          Taken through the ordeal and received; learning the pacts, the protocols and the three postures, and permitted at the rites without yet speaking in them.
       - level: 3
         title: Spirit-Speaker
         lore: sprtspkrrnk
         description: >-
-          The mwalimu wa roho—permitted to perceive, address and negotiate with the spirits on
-          the clan's behalf, and answerable for what is asked of them.
+          The mwalimu wa roho—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
       - level: 4
         title: Elder Shaman
         lore: elderrnk
         description: >-
-          Long practiced, teaching initiates and sitting on the council, where their word carries
-          the greater weight in what the younger Spirit-Speakers dispute.
+          Long practiced, teaching initiates and sitting on the council, where their word carries the greater weight in what the younger Spirit-Speakers dispute.
     offices:
       Guardian of an Old Kraal: >-
         Warden of one ruin of the stone-builders and of who may enter it; held by a different Spirit-Speaker for each, and by no outsider ever.
@@ -63,24 +56,11 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - eaglengonzispr
-    - nyalbsprts
-  parents:
-    - nyalbpnthn
-  relations:
-    nyalbpnthn: aligned
+  lore: [eaglengonzispr, nyalbsprts]
+  parents: [nyalbpnthn]
+  relations: {nyalbpnthn: aligned}
   packFolder: nyaluba
-name:
-  full: "Eagle Totem"
-  aliases:
-    - Eagle of the Ngonzi
-    - Ngonzi Totem
-shortcode: nyalbeagl
-sohl:
-  system:
-    commonSkills:
-      - eaglengonzisprt
+sohl: {system: {commonSkills: [eaglengonzisprt]}}
 ---
 
 The **Eagle Totem** is the guide of the [[affiliation-nylbtrblntn|Ngonzi]], the highlanders of the southeastern escarpment—vision, distance, and the carrying of word between one world and another. The Ngonzi are goldsmiths and herders, the only Nyáluba clan that regularly works stone, and the only one that claims direct ancestral connection to the lost civilization whose dry-stone walls and oval enclosures stand across their country.

@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Mend
-  aliases:
-    - Restoration
-description: "Restores objects to original condition; heals cracks, breaks, tears."
 shortcode: mend
+name: {full: Mend, aliases: [Restoration]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
-  packFolder: spells
+description: "Restores objects to original condition; heals cracks, breaks, tears."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Restoration

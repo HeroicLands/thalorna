@@ -1,11 +1,10 @@
 ---
-description: "The crocodile-spirit of the Kambezi—watchfulness, judgment and the river's hunger; appeased rather than venerated, and served by the most elaborate shamanic practice of the five clans."
-tags:
-  - nyaluba
-  - religion
-  - totemic
+shortcode: nyalbcroc
+name: {full: "Crocodile Totem", aliases: [Crocodile of the Kambezi, Kambezi Totem]}
 type: affiliation
 subType: spirittradition
+description: "The crocodile-spirit of the Kambezi—watchfulness, judgment and the river's hunger; appeased rather than venerated, and served by the most elaborate shamanic practice of the five clans."
+tags: [nyaluba, religion, totemic]
 data:
   icon: null
   templatePriority: null
@@ -15,45 +14,38 @@ data:
   governance:
     model: council
     summary: >-
-      No hierarch and no single voice: a council of Spirit-Speakers and Elder Shamans in which
-      the elders' word carries the greater weight, seeking consensus rather than imposing it.
+      No hierarch and no single voice: a council of Spirit-Speakers and Elder Shamans in which the elders' word carries the greater weight, seeking consensus rather than imposing it.
     ranks:
       - level: 0
         title: Spirit-shunned
         lore: excmmnctrnk
         description: >-
-          Turned from by the spirits and by those who keep them: no rite will include them, no
-          pact will cover them, and no griot will speak their name in a genealogy.
+          Turned from by the spirits and by those who keep them: no rite will include them, no pact will cover them, and no griot will speak their name in a genealogy.
       - level: 1
         title: Uninitiated
         lore: catechumenrnk
         description: >-
-          Living under the observances, the totem law and the clan's pacts without having
-          entered the tradition—most of the people, most of the time.
+          Living under the observances, the totem law and the clan's pacts without having entered the tradition—most of the people, most of the time.
       - level: 2
         title: Initiate
         lore: initiaternk
         description: >-
-          Taken through the ordeal and received; learning the pacts, the protocols and the three
-          postures, and permitted at the rites without yet speaking in them.
+          Taken through the ordeal and received; learning the pacts, the protocols and the three postures, and permitted at the rites without yet speaking in them.
       - level: 3
         title: Spirit-Speaker
         lore: sprtspkrrnk
         description: >-
-          The mwalimu wa roho—permitted to perceive, address and negotiate with the spirits on
-          the clan's behalf, and answerable for what is asked of them.
+          The mwalimu wa roho—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
       - level: 4
         title: Elder Shaman
         lore: elderrnk
         description: >-
-          Long practiced, teaching initiates and sitting on the council, where their word carries
-          the greater weight in what the younger Spirit-Speakers dispute.
+          Long practiced, teaching initiates and sitting on the council, where their word carries the greater weight in what the younger Spirit-Speakers dispute.
     offices:
       Guardian of a Crossing: >-
         Warden of one dangerous reach or ford and of who may enter it; a different Spirit-Speaker holds each, and none holds two.
       Mwalimu wa Roho: >-
-        Spirit-Speaker of the crocodile—the most sought of any clan's, called across the savannahs
-        for judgment, healing and the negotiation of difficult spirits.
+        Spirit-Speaker of the crocodile—the most sought of any clan's, called across the savannahs for judgment, healing and the negotiation of difficult spirits.
       Griot of the Kambezi: >-
         Keeper of the river genealogies, which name the crocodiles as well as the people.
       Keeper of the Tally: >-
@@ -64,24 +56,11 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - crocodilekambezispr
-    - nyalbsprts
-  parents:
-    - nyalbpnthn
-  relations:
-    nyalbpnthn: aligned
+  lore: [crocodilekambezispr, nyalbsprts]
+  parents: [nyalbpnthn]
+  relations: {nyalbpnthn: aligned}
   packFolder: nyaluba
-name:
-  full: "Crocodile Totem"
-  aliases:
-    - Crocodile of the Kambezi
-    - Kambezi Totem
-shortcode: nyalbcroc
-sohl:
-  system:
-    commonSkills:
-      - crocodilekambezisprt
+sohl: {system: {commonSkills: [crocodilekambezisprt]}}
 ---
 
 The **Crocodile Totem** is the guide of the [[affiliation-nylbtrblntn|Kambezi]], the river-people of the eastern wetlands. Of the five guides it is the one most often **appeased** rather than venerated—approached with exact observance and formal gift, its protocols followed without error, because the river-spirits of Kambezi country are numerous and unforgiving and the crocodile is first among them.

@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: Whispertread
-  aliases:
-    - Footpad Elixir
-description: "Dark nearly-black draft; muffles drinker's presence from detection."
 shortcode: elxftp
+name: {full: Whispertread, aliases: [Footpad Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Dark nearly-black draft; muffles drinker's presence from detection."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

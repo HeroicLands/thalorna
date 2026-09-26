@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: The Torpid Cloud
-  aliases:
-    - Weakness Elixir
-description: "Sickly pale fluid; weakens drinker, reducing physical and mental."
 shortcode: elxwkn
+name: {full: The Torpid Cloud, aliases: [Weakness Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Sickly pale fluid; weakens drinker, reducing physical and mental."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

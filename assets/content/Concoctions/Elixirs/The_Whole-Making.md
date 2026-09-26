@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: The Whole-Making
-  aliases:
-    - Mending Elixir
-description: "Shimmering silvery liquid; repairs damage to broken objects."
 shortcode: elxmnd
+name: {full: The Whole-Making, aliases: [Mending Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Shimmering silvery liquid; repairs damage to broken objects."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

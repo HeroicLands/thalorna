@@ -1,16 +1,10 @@
 ---
-description: "Religion of the god of storms and of the rain the monsoon brings."
-tags:
-  - varnaka
-  - deity
-  - storms
-name:
-  full: Meghanātha
-  aliases:
-    - Lord of Thunder
 shortcode: meghanatha
+name: {full: Meghanātha, aliases: [Lord of Thunder]}
 type: affiliation
 subType: faithtradition
+description: "Religion of the god of storms and of the rain the monsoon brings."
+tags: [varnaka, deity, storms]
 data:
   banner: faithbnr
   templatePriority: null
@@ -48,20 +42,13 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - meghanathadty
-  parents:
-    - varakpnthn
-  relations:
-    varakpnthn: aligned
+  lore: [meghanathadty]
+  parents: [varakpnthn]
+  relations: {varakpnthn: aligned}
   packFolder: pantheonsvarnaka
 sohl:
   system:
-    commonSkills:
-      - meghanatha
-      - sohl-sohl-skill-srvl
-      - sohl-sohl-skill-sing
-      - sohl-sohl-skill-wood
+    commonSkills: [meghanatha, sohl-sohl-skill-srvl, sohl-sohl-skill-sing, sohl-sohl-skill-wood]
 ---
 
 ## Meghanātha—Lord of Thunder

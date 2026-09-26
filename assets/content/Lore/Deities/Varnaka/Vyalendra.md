@@ -1,14 +1,11 @@
 ---
-tags: []
-description: "The Shaper of Worlds in the Varnaka pantheon, from whose golden lotus each cycle of creation opens."
+shortcode: vyalendradty
+name: {full: Vyālendra, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Vyālendra
-  aliases: []
-shortcode: vyalendradty
-data:
-  packFolder: deitiesvarnaka
+description: "The Shaper of Worlds in the Varnaka pantheon, from whose golden lotus each cycle of creation opens."
+tags: []
+data: {packFolder: deitiesvarnaka}
 ---
 
 _The Shaper of Worlds—a four-armed figure of serene focus, holding a compass, a measuring cord, a chisel and a golden lotus._

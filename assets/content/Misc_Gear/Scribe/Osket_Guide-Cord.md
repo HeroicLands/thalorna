@@ -1,25 +1,14 @@
 ---
-tags: []
-name:
-  full: Ösket Guide-Cord
-  aliases: []
-description: "A knotted length of hide recording a route across the wall; unreadable to a lowlander and never sold to one."
 shortcode: guidecord
+name: {full: Ösket Guide-Cord, aliases: []}
 type: miscgear
-data:
-  icon: icon-coinsbdg
-  templatePriority: null
-  packFolder: scribe
+description: "A knotted length of hide recording a route across the wall; unreadable to a lowlander and never sold to one."
+tags: []
+data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl:
   kbcat: scribe
-  craft:
-    skill: txtl
-    secondary: []
-  system:
-    weightBase: 0.1
-    valueBase: 5
-    qualityBase: 0
-    durabilityBase: 6
+  craft: {skill: txtl, secondary: []}
+  system: {weightBase: 0.1, valueBase: 5, qualityBase: 0, durabilityBase: 6}
 ---
 
 A guide-cord is knotted hide rather than written record: the spacing, the doubling and the twist of each knot mark a crossing, a water source, a camp or a place the ice moves, in an order only its own knotter reads with certainty. Every [[affiliation-osketguides|Ösket]] guide-mother keeps at least one for every road she has walked, and the cord itself is worth almost nothing—what has value is the knowledge behind it, which is exactly why one is worth killing for and one who sells the reading of it is worth more.

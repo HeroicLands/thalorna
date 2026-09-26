@@ -1,13 +1,9 @@
 ---
-tags:
-  - elemental
-  - creature
-name:
-  full: Thundertalon
-  aliases: []
-description: "A conscious storm elemental of tremendous power haunting high peaks and open skies, attacking earth- and sea-dwellers it deems mere primitives."
 shortcode: thndrtln
+name: {full: Thundertalon, aliases: []}
 type: being
+description: "A conscious storm elemental of tremendous power haunting high peaks and open skies, attacking earth- and sea-dwellers it deems mere primitives."
+tags: [elemental, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -42,21 +38,21 @@ sohl:
     rea: 1d4+6
     cre: 1d4+10
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 17 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 17 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 9 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 75 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 75 } }
-    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 42 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 44 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 68 } }
-    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 38 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 17}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 17}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 9}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 13}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 75}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 75}}
+    - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 42}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 44}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 68}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 38}}
     - name: Lightning-Charged Talons
       type: skill
       system:
@@ -64,35 +60,20 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 59
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: talon
           name: Lightning-Charged Talons
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 4
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 8
-            modifier: 2
-            aspect: fire
+          attack: {disabled: false, spread: 4, modifier: 0}
+          impactBase: {numDice: 1, die: 8, modifier: 2, aspect: fire}
           lengthBase: 2
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
     - name: Lightning Bolt
       type: skill
       system:
@@ -100,23 +81,15 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 59
         combatCategory: missile
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: missile
           shortcode: bolt
           name: Lightning Bolt
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 0
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 5
-            aspect: fire
+          attack: {disabled: false, spread: 0, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 5, aspect: fire}
           projectileType: none
           maxVolleyMult: 1
           baseRangeBase: 120
@@ -126,65 +99,46 @@ sohl:
     body:
       structure:
         zones:
-          - name: Head
-            shortcode: headzone
-            probWeight: 3
-          - name: Left Wing
-            shortcode: lwingzone
-            probWeight: 3
-          - name: Body
-            shortcode: torsozone
-            probWeight: 6
-          - name: Right Wing
-            shortcode: rwingzone
-            probWeight: 3
-          - name: Hindquarters
-            shortcode: hindqtrzone
-            probWeight: 3
+          - {name: Head, shortcode: headzone, probWeight: 3}
+          - {name: Left Wing, shortcode: lwingzone, probWeight: 3}
+          - {name: Body, shortcode: torsozone, probWeight: 6}
+          - {name: Right Wing, shortcode: rwingzone, probWeight: 3}
+          - {name: Hindquarters, shortcode: hindqtrzone, probWeight: 3}
         parts:
           - name: Head
             shortcode: headpart
             bodyZoneCode: headzone
-            roles:
-              - vital
-              - manipulator
+            roles: [vital, manipulator]
             canHoldItem: false
             probWeight: 10
           - name: Left Wing
             shortcode: lwingpart
             bodyZoneCode: lwingzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 10
           - name: Body
             shortcode: torsopart
             bodyZoneCode: torsozone
-            roles:
-              - core
+            roles: [core]
             canHoldItem: false
             probWeight: 10
           - name: Right Wing
             shortcode: rwingpart
             bodyZoneCode: rwingzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 10
           - name: Left Leg
             shortcode: llegpart
             bodyZoneCode: hindqtrzone
-            roles:
-              - locomotor
-              - manipulator
+            roles: [locomotor, manipulator]
             canHoldItem: false
             probWeight: 5
           - name: Right Leg
             shortcode: rlegpart
             bodyZoneCode: hindqtrzone
-            roles:
-              - locomotor
-              - manipulator
+            roles: [locomotor, manipulator]
             canHoldItem: false
             probWeight: 5
           - name: Tail
@@ -201,11 +155,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 4
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Neck
             shortcode: neckloc
             bodyPartCode: headpart
@@ -213,11 +163,7 @@ sohl:
             amputability: low
             shockValue: 5
             probWeight: 6
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Wing
             shortcode: lwingloc
             bodyPartCode: lwingpart
@@ -225,11 +171,7 @@ sohl:
             amputability: medium
             shockValue: 1
             probWeight: 10
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Thorax
             shortcode: thoraxloc
             bodyPartCode: torsopart
@@ -237,11 +179,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 6
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Abdomen
             shortcode: abdloc
             bodyPartCode: torsopart
@@ -249,11 +187,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 4
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Wing
             shortcode: rwingloc
             bodyPartCode: rwingpart
@@ -261,11 +195,7 @@ sohl:
             amputability: medium
             shockValue: 1
             probWeight: 10
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Leg
             shortcode: llegloc
             bodyPartCode: llegpart
@@ -273,11 +203,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Leg
             shortcode: rlegloc
             bodyPartCode: rlegpart
@@ -285,11 +211,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Tail
             shortcode: tailloc
             bodyPartCode: tailpart
@@ -297,14 +219,8 @@ sohl:
             amputability: high
             shockValue: 1
             probWeight: 10
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
-      weight:
-        base: 0
-        calc: "0"
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
+      weight: {base: 0, calc: "0"}
       reachBase: 0
       bodyScaleBase: 1.22
       personalFatigue: "enc + 5"

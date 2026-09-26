@@ -1,17 +1,11 @@
 ---
-tags: []
-name:
-  full: Vedyákshara Script
-  aliases:
-    - Vedyákshara
-description: "The forty-eight syllables of Vedyara—a temple script for law, lineage and liturgy, with a running hand for the caravan."
 shortcode: vdykshrscrpt
+name: {full: Vedyákshara Script, aliases: [Vedyákshara]}
 type: skill
 subType: script
-data:
-  icon: icon-speaking
-  templatePriority: null
-  packFolder: script
+description: "The forty-eight syllables of Vedyara—a temple script for law, lineage and liturgy, with a running hand for the caravan."
+tags: []
+data: {icon: icon-speaking, templatePriority: null, packFolder: script}
 sohl:
   system:
     skillBaseFormula: "@rea, @per"
@@ -20,9 +14,7 @@ sohl:
     combatCategory: none
     parentSkillCode: script
     initSkillMult: 0
-  flags:
-    "thalorna":
-      script_family: Syllabary
+  flags: {"thalorna": {script_family: Syllabary}}
 ---
 
 The Vedyákshara is a syllabary: roughly forty-eight characters, each standing for a consonant-plus-vowel, with clusters and bare final consonants written by modifying the base glyph rather than by adding a letter. Every sign hangs from a headline, so a line of Vedyari looks like a rope with the words strung beneath it.

@@ -1,12 +1,9 @@
 ---
+shortcode: elderraces
+name: {full: Elder Races, aliases: []}
 type: lore
 subType: folk
-name:
-  full: Elder Races
-  aliases: []
-shortcode: elderraces
-data:
-  packFolder: tanvur
+data: {packFolder: tanvur}
 ---
 
 ## Elder Races in Tānvür

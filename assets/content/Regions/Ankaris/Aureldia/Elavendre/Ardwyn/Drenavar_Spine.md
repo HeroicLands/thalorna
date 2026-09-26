@@ -1,23 +1,11 @@
 ---
-tags:
-  - mountain
-  - sacred
-description: "The central sacred mountain range of Élavendre—heart of Áelendan territory, holding the greatest concentration of sacred sites in Ankaris, and sovereign to the tribes by ancient law the crown has never tried to revise."
+shortcode: drenavrspn
+name: {full: The Drenavar Spine, aliases: [The Drenavar, Drenavar Mountains]}
 type: place
 subType: region
-data:
-  demonym: null
-  lore: []
-  parents:
-    - alndntrblnds
-  population: null
-  packFolder: elavendre
-name:
-  full: The Drenavar Spine
-  aliases:
-    - The Drenavar
-    - Drenavar Mountains
-shortcode: drenavrspn
+description: "The central sacred mountain range of Élavendre—heart of Áelendan territory, holding the greatest concentration of sacred sites in Ankaris, and sovereign to the tribes by ancient law the crown has never tried to revise."
+tags: [mountain, sacred]
+data: {demonym: null, lore: [], parents: [alndntrblnds], population: null, packFolder: elavendre}
 
 # terran_analog: "The Swiss Alps and adjacent French Alpine massifs—the great Pelwar-sacred high country of the Élavendren interior, distinct from the contested Cervaron Spine that forms the Vylarian frontier further east."
 ---

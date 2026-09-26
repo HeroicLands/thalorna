@@ -1,14 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: maatdty
+name: {full: Má'át, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Má'át
-  aliases: []
-shortcode: maatdty
-data:
-  packFolder: deitieskemetian
+tags: [draft]
+data: {packFolder: deitieskemetian}
 ---
 
 ![[icon-maat|Má'át]]{float: top-left, size: medium}

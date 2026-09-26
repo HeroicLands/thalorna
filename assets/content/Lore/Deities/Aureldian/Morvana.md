@@ -1,12 +1,9 @@
 ---
-tags: []
-description: "Mistress of the Waning Moon in the Aurèldían pantheon, holding decay and the waning of everything that grows."
+shortcode: morvanadty
+name: {full: Mórváná, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Mórváná
-  aliases: []
-shortcode: morvanadty
-data:
-  packFolder: deitiesaureldian
+description: "Mistress of the Waning Moon in the Aurèldían pantheon, holding decay and the waning of everything that grows."
+tags: []
+data: {packFolder: deitiesaureldian}
 ---

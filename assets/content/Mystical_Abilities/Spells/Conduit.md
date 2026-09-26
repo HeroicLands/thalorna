@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Conduit
-  aliases:
-    - Tube
-description: "Establishes flowing channel; directs water, air, or energy through."
 shortcode: conduit
+name: {full: Conduit, aliases: [Tube]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Establishes flowing channel; directs water, air, or energy through."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Tube

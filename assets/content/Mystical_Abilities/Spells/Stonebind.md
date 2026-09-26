@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Stonebind
-  aliases:
-    - Petrification
-description: "Binds target to stone; imprisons within rocky tomb."
 shortcode: stnbnd
+name: {full: Stonebind, aliases: [Petrification]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
-  packFolder: spells
+description: "Binds target to stone; imprisons within rocky tomb."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Petrification

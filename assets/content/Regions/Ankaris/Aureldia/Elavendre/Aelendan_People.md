@@ -1,14 +1,10 @@
 ---
-description: "Mountain dwellers who preserve the ancestral Pelwar ways and hold sacred pact with the land itself through unwritten tradition, ritual, and kinship with fae beings."
+shortcode: aelendnppl
+name: {full: Áelendan People, aliases: [People of the Pact]}
 type: lore
 subType: folk
-name:
-  full: Áelendan People
-  aliases:
-    - People of the Pact
-shortcode: aelendnppl
-data:
-  packFolder: elavendre
+description: "Mountain dwellers who preserve the ancestral Pelwar ways and hold sacred pact with the land itself through unwritten tradition, ritual, and kinship with fae beings."
+data: {packFolder: elavendre}
 ---
 
 - **Parent realm:** [[place-elavendre|Élavendre]]

@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Tjaru."
+shortcode: tjaru
+name: {full: Tjaru, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Tjaru."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - tjarunome
+  parents: [tjarunome]
   population: 41000
   packFolder: deltanomes
-name:
-  full: Tjaru
-  aliases: []
-shortcode: tjaru
 ---
 
 ## Overview

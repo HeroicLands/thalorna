@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Foulness
-  aliases:
-    - Stench
-description: "Conjures stinking cloud; sickens and chokes those breathing vapors."
 shortcode: foulness
+name: {full: Foulness, aliases: [Stench]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Conjures stinking cloud; sickens and chokes those breathing vapors."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Stench

@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: "Sun-temples and wide irrigated wheatland—the land of the Nome of Iperu, one of the upper-river nomes of Ta'Kheperu."
-name:
-  full: Iperu Nome
-  aliases: []
 shortcode: iperunome
+name: {full: Iperu Nome, aliases: []}
 type: place
 subType: region
+description: "Sun-temples and wide irrigated wheatland—the land of the Nome of Iperu, one of the upper-river nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 440000
   packFolder: upperrivernomes
 ---

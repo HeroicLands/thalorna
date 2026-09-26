@@ -1,16 +1,10 @@
 ---
-tags:
-  - draft
-  - nyaluba
+shortcode: mwangadty
+name: {full: Mwánga-Kúbwa, aliases: [The Great Brightness]}
 type: lore
 subType: deity
-name:
-  full: Mwánga-Kúbwa
-  aliases:
-    - The Great Brightness
-shortcode: mwangadty
-data:
-  packFolder: deitiesnyaluba
+tags: [draft, nyaluba]
+data: {packFolder: deitiesnyaluba}
 ---
 
 The diffuse creative presence the Nyáluba name, in the idiom of the griots, as **the Great

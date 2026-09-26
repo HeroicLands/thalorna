@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Moisturepull
-  aliases:
-    - Sweat
-description: "Draws moisture from surroundings; desiccates enemies, extinguishes flames."
 shortcode: mstrpll
+name: {full: Moisturepull, aliases: [Sweat]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
-  packFolder: spells
+description: "Draws moisture from surroundings; desiccates enemies, extinguishes flames."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Sweat

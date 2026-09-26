@@ -1,22 +1,14 @@
 ---
-tags:
-  - region
-  - held
-description: "The arid central plateau of Vedyara—high dry grazing between the river valleys, where the wells are property and the ground is not, and the ruined capital the civilization dates its years from stands on open pasture."
-name:
-  full: Vandhyabhūmi
-  aliases:
-    - The Barren Country
-    - The Central Plateau
 shortcode: vandhyabhumi
+name: {full: Vandhyabhūmi, aliases: [The Barren Country, The Central Plateau]}
 type: place
 subType: region
+description: "The arid central plateau of Vedyara—high dry grazing between the river valleys, where the wells are property and the ground is not, and the ruined capital the civilization dates its years from stands on open pasture."
+tags: [region, held]
 data:
   demonym: Vandhyan
-  lore:
-    - vedyariclt
-  parents:
-    - vedyarargn
+  lore: [vedyariclt]
+  parents: [vedyarargn]
   population: 1200000
   packFolder: vedyara
 

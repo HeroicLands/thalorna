@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "Around 2500 BF the Bureau of Records can first produce an emperor, a dynasty and a year together—the oldest human archive anyone can still read, opened seventy years before Khazártúrn fell."
+shortcode: tanvurdyn
+name: {full: The Opening of the Tānvüri Record, aliases: [The Oldest Documented Dynasty]}
 type: lore
 subType: history
-name:
-  full: The Opening of the Tānvüri Record
-  aliases:
-    - The Oldest Documented Dynasty
-shortcode: tanvurdyn
-data:
-  packFolder: settinglore
+description: "Around 2500 BF the Bureau of Records can first produce an emperor, a dynasty and a year together—the oldest human archive anyone can still read, opened seventy years before Khazártúrn fell."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: founding

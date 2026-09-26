@@ -1,11 +1,9 @@
 ---
-description: "Variety of characters from several cultures and occupations."
-name:
-  full: Heroes and Knaves
-  aliases: []
+shortcode: heroesknvs
+name: {full: Heroes and Knaves, aliases: []}
 type: doc
 subType: reference
-shortcode: heroesknvs
+description: "Variety of characters from several cultures and occupations."
 ---
 
 ```sql

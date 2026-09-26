@@ -1,14 +1,10 @@
 ---
-tags: []
-description: "The standing agreement through which five Vedyaran polities hold the Merchant Collective's banking system in common, and the twice-yearly assembly of their delegates that renews and amends it."
-name:
-  full: Assembly of the Compact
-  aliases:
-    - Sangha-Sabhā
-    - The Compact
 shortcode: assmblycmpct
+name: {full: Assembly of the Compact, aliases: [Sangha-Sabhā, The Compact]}
 type: affiliation
 subType: governmental
+description: "The standing agreement through which five Vedyaran polities hold the Merchant Collective's banking system in common, and the twice-yearly assembly of their delegates that renews and amends it."
+tags: []
 data:
   templatePriority: null
   demonym: null
@@ -17,32 +13,23 @@ data:
   governance:
     model: council
     summary: >-
-      Five seats, one for each signatory polity, meeting twice a year under an elected High
-      Speaker, with standing committees carrying the administration between sittings.
+      Five seats, one for each signatory polity, meeting twice a year under an elected High Speaker, with standing committees carrying the administration between sittings.
     ranks: []
     offices:
       High Speaker: >-
-        Presiding officer of the Assembly and head of the Collective, elected by the kulinas
-        from among themselves for a seven-year term, who puts its questions and rules on its
-        procedure.
+        Presiding officer of the Assembly and head of the Collective, elected by the kulinas from among themselves for a seven-year term, who puts its questions and rules on its procedure.
       Roads Committee: >-
-        Maintainer of the caravan infrastructure the Compact holds in common, and arbiter of
-        the road-tax disputes between its seats.
+        Maintainer of the caravan infrastructure the Compact holds in common, and arbiter of the road-tax disputes between its seats.
       Standards Committee: >-
-        Setter of the weights, measures, currency and quality grades a Collective grade-mark
-        warrants.
+        Setter of the weights, measures, currency and quality grades a Collective grade-mark warrants.
       Foreign Trade Committee: >-
-        Negotiator with polities outside the Compact, and licensor of the members who trade
-        beyond the janapadas.
+        Negotiator with polities outside the Compact, and licensor of the members who trade beyond the janapadas.
       Disputes Committee: >-
-        Arbiter of the quarrels between members that the parties would rather not carry into
-        a ruler's court.
+        Arbiter of the quarrels between members that the parties would rather not carry into a ruler's court.
   seat: null
   domains: []
   population: null
-  economy:
-    - affiliation-mrchntclctvvdyr
-    - lore-vdyrnbnkng
+  economy: [affiliation-mrchntclctvvdyr, lore-vdyrnbnkng]
   lore: []
   parents: []
   relations:
@@ -53,9 +40,7 @@ data:
     rajaprjnpd: aligned
     dhnrktjnpd: aligned
     suvrgrjnpd: unaligned
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 _Vedyaran: Sangha-Sabhā—"the Assembly of the Compact"_

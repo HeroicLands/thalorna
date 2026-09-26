@@ -1,24 +1,12 @@
 ---
-tags:
-  - reference
-  - currency
-  - vylaria
-  - cross-realm
-  - economy
-description: "Standard currency of western and central Ankaris—the three-coin Vylarian system (Aurion, Argentus/Argo, Octus/Bit) and the paper script layered above it; accepted as foreign currency in the Northern Fertile Region of Xerathia."
-type: lore
-subType: economy
+shortcode: vylrncrncy
 name:
   full: Vylarian Currency
-  aliases:
-    - Vylarian Coinage
-    - Aurion
-    - Argentus
-    - Argo
-    - Octus
-    - Bit
-    - The Argo
-shortcode: vylrncrncy
+  aliases: [Vylarian Coinage, Aurion, Argentus, Argo, Octus, Bit, The Argo]
+type: lore
+subType: economy
+description: "Standard currency of western and central Ankaris—the three-coin Vylarian system (Aurion, Argentus/Argo, Octus/Bit) and the paper script layered above it; accepted as foreign currency in the Northern Fertile Region of Xerathia."
+tags: [reference, currency, vylaria, cross-realm, economy]
 ---
 
 **Scope:** The Vylarian currency is the standard currency of western and central Ankaris. It is the legal tender of [[affiliation-vylarinmpr|Vylaria]] and [[place-helionis|Heliónis]] (the territories under direct imperial governance); it is the practical standard of commerce in the [[place-aureldirgn|Aurèldían kingdoms]] and [[place-byzariargn|Byzaría]] (the post-imperial commonwealth members); it is accepted (as a foreign currency, alongside the local Ta'Kheperan system) in the **Northern Fertile Region of [[place-xerathia|Xerathia]]**—[[place-bethuargn|Bethûa]], [[place-okharisrgn|Okháris]], and [[place-takheperurgn|Ta'Kheperu]]. Outside these regions it is exchangeable through moneylenders but is not the dominant medium of exchange.

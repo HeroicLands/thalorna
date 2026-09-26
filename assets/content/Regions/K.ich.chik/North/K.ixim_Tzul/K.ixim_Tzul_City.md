@@ -1,20 +1,11 @@
 ---
-tags:
-  - city
-  - draft
-description: "City"
+shortcode: kiximtzul2
+name: {full: K'ixim Tzul, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - kiximtzulrgn
-  population: 1000
-name:
-  full: K'ixim Tzul
-  aliases: []
-shortcode: kiximtzul2
+description: "City"
+tags: [city, draft]
+data: {demonym: null, lore: [], parents: [kiximtzulrgn], population: 1000}
 ---
 
 ## Overview

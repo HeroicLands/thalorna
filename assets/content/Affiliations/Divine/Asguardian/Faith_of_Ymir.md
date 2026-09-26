@@ -1,9 +1,10 @@
 ---
-description: "Creation and Dreadspawn."
-tags:
-  - asguardian
+shortcode: ymir
+name: {full: Faith of Ymir, aliases: [The Divine Architect's Path]}
 type: affiliation
 subType: faithtradition
+description: "Creation and Dreadspawn."
+tags: [asguardian]
 data:
   banner: faithbnr
   icon: ymir
@@ -14,32 +15,26 @@ data:
   governance:
     model: council
     summary: >-
-      No formal hierarchy and no structured organization: scattered factions, each attached to a
-      different aspect of Ymir's work, operating independently and united only by admiration of his
-      creative genius. What roles exist are informal, fluid, and claimed rather than conferred.
+      No formal hierarchy and no structured organization: scattered factions, each attached to a different aspect of Ymir's work, operating independently and united only by admiration of his creative genius. What roles exist are informal, fluid, and claimed rather than conferred.
     ranks:
       - level: 0
         title: Discarded
         lore: expelledrnk
         description: >-
-          Put out by a faction—which, since there is no hierarchy to appeal to and no other body
-          that recognizes the judgment, means only that this faction is finished with them.
+          Put out by a faction—which, since there is no hierarchy to appeal to and no other body that recognizes the judgment, means only that this faction is finished with them.
       - level: 1
         title: Admirer
         lore: layfaithfulrnk
         description: >-
-          Holds Ymir's work in awe without attaching to any faction. There is no rite of entry,
-          because there is nothing to enter.
+          Holds Ymir's work in awe without attaching to any faction. There is no rite of entry, because there is nothing to enter.
       - level: 2
         title: Adherent
         lore: professedrnk
         description: >-
-          Attached to one of the scattered factions and doing its work. Standing within a faction is
-          a matter of what a person has made or understood, and is claimed rather than conferred.
+          Attached to one of the scattered factions and doing its work. Standing within a faction is a matter of what a person has made or understood, and is claimed rather than conferred.
     offices:
       Soul Weaver: >-
-        Attempts to understand and guide the process of soul recycling, believing it aids Ymir in
-        refining his creations.
+        Attempts to understand and guide the process of soul recycling, believing it aids Ymir in refining his creations.
       Dreadspawn Keeper: >-
         Studies, protects or controls the Dreadspawn, sometimes forming a perilous bond with them.
       Echo of the Creator: >-
@@ -48,21 +43,11 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - ymirdty
-  parents:
-    - asguardian
-  relations:
-    asguardian: aligned
+  lore: [ymirdty]
+  parents: [asguardian]
+  relations: {asguardian: aligned}
   packFolder: pantheonsasguardian
-name:
-  full: Faith of Ymir
-  aliases:
-    - The Divine Architect's Path
-shortcode: ymir
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 Ymir, the god of creation, is a master craftsman and the divine architect of life. Ymir focuses his boundless creative energy on crafting new, unique forms of life, which he refers to as his "children." This god of innovation and experimentation resides in the physical world, where he has established vast laboratories and sprawling factories dedicated to his ceaseless work.

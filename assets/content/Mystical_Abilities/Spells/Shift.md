@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Shift
-  aliases:
-    - Warp
-description: "Moves object position instantaneously; teleports within sight."
 shortcode: shift
+name: {full: Shift, aliases: [Warp]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
-  packFolder: spells
+description: "Moves object position instantaneously; teleports within sight."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Warp

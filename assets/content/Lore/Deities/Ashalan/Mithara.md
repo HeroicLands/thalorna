@@ -1,12 +1,9 @@
 ---
-tags: []
-description: "The World's First Light of the Āsháian pantheon—creation, renewal, and the craft by which made things endure."
+shortcode: mitharadty
+name: {full: Míthárä, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Míthárä
-  aliases: []
-shortcode: mitharadty
-data:
-  packFolder: deitiesashalan
+description: "The World's First Light of the Āsháian pantheon—creation, renewal, and the craft by which made things endure."
+tags: []
+data: {packFolder: deitiesashalan}
 ---

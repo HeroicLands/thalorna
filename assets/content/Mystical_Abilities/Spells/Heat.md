@@ -1,24 +1,17 @@
 ---
-tags: []
-name:
-  full: Heat
-  aliases: []
-description: "Controllable heating; forges metal, melts ice, ignites materials gradually."
 shortcode: heat
+name: {full: Heat, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
-  packFolder: spells
+description: "Controllable heating; forges metal, melts ice, ignites materials gradually."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Heat

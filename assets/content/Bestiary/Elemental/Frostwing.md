@@ -1,13 +1,9 @@
 ---
-tags:
-  - elemental
-  - creature
-name:
-  full: Frostwing
-  aliases: []
-description: "An intelligent aerial hunter of deep winter, migrating toward the coldest lands and using coordinated flight tactics to bring death from above."
 shortcode: frstwng
+name: {full: Frostwing, aliases: []}
 type: being
+description: "An intelligent aerial hunter of deep winter, migrating toward the coldest lands and using coordinated flight tactics to bring death from above."
+tags: [elemental, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -42,21 +38,21 @@ sohl:
     rea: 1d4+6
     cre: 1d4+8
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 17 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 9 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 9 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 60 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 70 } }
-    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 40 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 60 } }
-    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 35 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 17}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 9}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 9}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 11}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 70}}
+    - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 30}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 40}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 35}}
     - name: Icy Talons
       type: skill
       system:
@@ -64,35 +60,20 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 59
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: talon
           name: Icy Talons
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 2
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 8
-            modifier: 1
-            aspect: edged
+          attack: {disabled: false, spread: 2, modifier: 0}
+          impactBase: {numDice: 1, die: 8, modifier: 1, aspect: edged}
           lengthBase: 1
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
     - name: Freezing Breath
       type: skill
       system:
@@ -100,23 +81,15 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 62
         combatCategory: missile
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: missile
           shortcode: breath
           name: Freezing Breath
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 0
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 4
-            modifier: 4
-            aspect: fire
+          attack: {disabled: false, spread: 0, modifier: 0}
+          impactBase: {numDice: 1, die: 4, modifier: 4, aspect: fire}
           projectileType: none
           maxVolleyMult: 1
           baseRangeBase: 25
@@ -126,65 +99,46 @@ sohl:
     body:
       structure:
         zones:
-          - name: Head
-            shortcode: headzone
-            probWeight: 2
-          - name: Left Wing
-            shortcode: lwingzone
-            probWeight: 2
-          - name: Body
-            shortcode: torsozone
-            probWeight: 4
-          - name: Right Wing
-            shortcode: rwingzone
-            probWeight: 2
-          - name: Hindquarters
-            shortcode: hindqtrzone
-            probWeight: 2
+          - {name: Head, shortcode: headzone, probWeight: 2}
+          - {name: Left Wing, shortcode: lwingzone, probWeight: 2}
+          - {name: Body, shortcode: torsozone, probWeight: 4}
+          - {name: Right Wing, shortcode: rwingzone, probWeight: 2}
+          - {name: Hindquarters, shortcode: hindqtrzone, probWeight: 2}
         parts:
           - name: Head
             shortcode: headpart
             bodyZoneCode: headzone
-            roles:
-              - vital
-              - manipulator
+            roles: [vital, manipulator]
             canHoldItem: false
             probWeight: 10
           - name: Left Wing
             shortcode: lwingpart
             bodyZoneCode: lwingzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 10
           - name: Body
             shortcode: torsopart
             bodyZoneCode: torsozone
-            roles:
-              - core
+            roles: [core]
             canHoldItem: false
             probWeight: 10
           - name: Right Wing
             shortcode: rwingpart
             bodyZoneCode: rwingzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 10
           - name: Left Leg
             shortcode: llegpart
             bodyZoneCode: hindqtrzone
-            roles:
-              - locomotor
-              - manipulator
+            roles: [locomotor, manipulator]
             canHoldItem: false
             probWeight: 5
           - name: Right Leg
             shortcode: rlegpart
             bodyZoneCode: hindqtrzone
-            roles:
-              - locomotor
-              - manipulator
+            roles: [locomotor, manipulator]
             canHoldItem: false
             probWeight: 5
           - name: Tail
@@ -201,11 +155,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 4
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Neck
             shortcode: neckloc
             bodyPartCode: headpart
@@ -213,11 +163,7 @@ sohl:
             amputability: low
             shockValue: 5
             probWeight: 6
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Left Wing
             shortcode: lwingloc
             bodyPartCode: lwingpart
@@ -225,11 +171,7 @@ sohl:
             amputability: medium
             shockValue: 1
             probWeight: 10
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Thorax
             shortcode: thoraxloc
             bodyPartCode: torsopart
@@ -237,11 +179,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 6
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Abdomen
             shortcode: abdloc
             bodyPartCode: torsopart
@@ -249,11 +187,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 4
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Right Wing
             shortcode: rwingloc
             bodyPartCode: rwingpart
@@ -261,11 +195,7 @@ sohl:
             amputability: medium
             shockValue: 1
             probWeight: 10
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Left Leg
             shortcode: llegloc
             bodyPartCode: llegpart
@@ -273,11 +203,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Right Leg
             shortcode: rlegloc
             bodyPartCode: rlegpart
@@ -285,11 +211,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Tail
             shortcode: tailloc
             bodyPartCode: tailpart
@@ -297,14 +219,8 @@ sohl:
             amputability: high
             shockValue: 1
             probWeight: 10
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
-      weight:
-        base: 350
-        calc: "350"
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
+      weight: {base: 350, calc: "350"}
       reachBase: 0
       bodyScaleBase: 1.17
       personalFatigue: "enc + 5"

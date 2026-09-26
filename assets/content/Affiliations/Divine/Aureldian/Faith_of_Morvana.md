@@ -1,10 +1,10 @@
 ---
-description: "Decay."
-tags:
-  - aureldian
-  - religion
+shortcode: morvana
+name: {full: Faith of Morvana, aliases: [Mistress of the Waning Moon, Mórváná]}
 type: affiliation
 subType: faithtradition
+description: "Decay."
+tags: [aureldian, religion]
 data:
   banner: faithbnr
   icon: morvana
@@ -15,21 +15,18 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the
-      Magistra Mortis above them. The lay faithful keep the feasts without office.
+      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Magistra Mortis above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out—denied the rites, the temple and the burial the faith promises, which is the one
-          sentence it can pass that outlives the body.
+          Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
         lore: layfaithfulrnk
         description: >-
-          The lay faithful, who keep the feasts and the observances of the god without holding office
-          in the temple.
+          The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
         title: Acolytes of Decay
         lore: initiaternk
@@ -39,8 +36,7 @@ data:
         title: Sacerdotes of Twilight
         lore: priestrnk
         description: >-
-          Ordained priests who serve as healers to the terminally ill and counselors to the
-          bereaved.
+          Ordained priests who serve as healers to the terminally ill and counselors to the bereaved.
       - level: 4
         title: Magistra Mortis
         lore: grandmasterrnk
@@ -59,22 +55,11 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - morvanadty
-  parents:
-    - arldnpnthn
-  relations:
-    arldnpnthn: aligned
+  lore: [morvanadty]
+  parents: [arldnpnthn]
+  relations: {arldnpnthn: aligned}
   packFolder: pantheonsaureldian
-name:
-  full: Faith of Morvana
-  aliases:
-    - Mistress of the Waning Moon
-    - Mórváná
-shortcode: morvana
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 Goddess of decay, endings, and transformation. Mórváná oversees the natural cycle of death and renewal, reminding mortals of life's impermanence.

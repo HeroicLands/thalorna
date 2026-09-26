@@ -1,26 +1,16 @@
 ---
-tags:
-  - character
-  - draft
-name:
-  full: King Hákon III
-  title: King
-  given: Hákon
-  clan: ""
-  home: skorrborg
-  aliases: []
 shortcode: kinghakoniii
+name: {full: King Hákon III, title: King, given: Hákon, clan: "", home: skorrborg, aliases: []}
 type: being
+tags: [character, draft]
 data:
   templatePriority: null
   archetypes: []
   occupation: King
   stations: []
   lore: []
-  homes:
-    - nrdlndsrgn
-  affiliations:
-    - kingdomlgn
+  homes: [nrdlndsrgn]
+  affiliations: [kingdomlgn]
   gender: male
   species: humanflk
   packFolder: malagna

@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "In 1919 BF six ships sail from Élavendre carrying the Second Voice to Aelwyth, to be held there in trust by the Sinalë and the Khazári together, and go off the water leaving nothing whatever behind."
+shortcode: thecrossing
+name: {full: The Crossing, aliases: [The Convoy of Six]}
 type: lore
 subType: history
-name:
-  full: The Crossing
-  aliases:
-    - The Convoy of Six
-shortcode: thecrossing
-data:
-  packFolder: settinglore
+description: "In 1919 BF six ships sail from Élavendre carrying the Second Voice to Aelwyth, to be held there in trust by the Sinalë and the Khazári together, and go off the water leaving nothing whatever behind."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: loss

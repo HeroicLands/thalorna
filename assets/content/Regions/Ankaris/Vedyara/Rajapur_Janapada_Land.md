@@ -1,20 +1,14 @@
 ---
-tags:
-  - region
-  - endowed
-description: "The land of the Rājapur Janapada—villages on a fertile floodplain forty miles along the upper Mahānadi, around the temple raised on the ruins of the old royal capital."
-name:
-  full: Rājapur Janapada
-  aliases: []
 shortcode: rajapurjnpd
+name: {full: Rājapur Janapada, aliases: []}
 type: place
 subType: region
+description: "The land of the Rājapur Janapada—villages on a fertile floodplain forty miles along the upper Mahānadi, around the temple raised on the ruins of the old royal capital."
+tags: [region, endowed]
 data:
   demonym: Rājapuri
-  lore:
-    - vedyariclt
-  parents:
-    - vedyarargn
+  lore: [vedyariclt]
+  parents: [vedyarargn]
   population: 25000
   packFolder: vedyara
 

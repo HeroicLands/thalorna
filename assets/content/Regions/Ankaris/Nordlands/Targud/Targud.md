@@ -1,19 +1,14 @@
 ---
-tags:
-  - region
-description: "The land of the Kingdom of Targud—the easternmost Nordmen kingdom, deep forest and tundra borderland against the Grukar."
-name:
-  full: Targud
-  aliases: []
 shortcode: targud
+name: {full: Targud, aliases: []}
 type: place
 subType: region
+description: "The land of the Kingdom of Targud—the easternmost Nordmen kingdom, deep forest and tundra borderland against the Grukar."
+tags: [region]
 data:
   demonym: Targudian
-  lore:
-    - humanflk
-  parents:
-    - nrdlndsrgn
+  lore: [humanflk]
+  parents: [nrdlndsrgn]
   population: 300000
   packFolder: targud
 ---

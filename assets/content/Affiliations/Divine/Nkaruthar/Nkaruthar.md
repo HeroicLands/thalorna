@@ -1,16 +1,10 @@
 ---
-description: "Creation, destruction, and renewal."
-tags:
-  - pantheon
-name:
-  full: "Nkaru'thar"
-  aliases:
-    - The Eternal Flame
-    - The Three Flames
-    - The Triune Fire
 shortcode: nkaruthar
+name: {full: "Nkaru'thar", aliases: [The Eternal Flame, The Three Flames, The Triune Fire]}
 type: affiliation
 subType: faithtradition
+description: "Creation, destruction, and renewal."
+tags: [pantheon]
 data:
   banner: faithbnr
   templatePriority: null
@@ -20,108 +14,76 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Three city-state priesthoods, each with its own hierarchy and its own titles, all deferring
-      to the High Pyremant of Zarhánis in matters of doctrine and to nobody in anything else. The
-      ranks below give the Zarhánis titles, which are the tradition's spine; the Kaljékor and
-      Vuthráka equivalents at each step are named in the descriptions.
+      Three city-state priesthoods, each with its own hierarchy and its own titles, all deferring to the High Pyremant of Zarhánis in matters of doctrine and to nobody in anything else. The ranks below give the Zarhánis titles, which are the tradition's spine; the Kaljékor and Vuthráka equivalents at each step are named in the descriptions.
     ranks:
       - level: 0
         title: Jivu
         lore: excmmnctrnk
         description: >-
-          "Ash"—put out of the Flame: no temple in Okháris will receive them, no ashmark is set
-          on them at a passage, and no fire they kindle is reckoned descended from the First Ember.
+          "Ash"—put out of the Flame: no temple in Okháris will receive them, no ashmark is set on them at a passage, and no fire they kindle is reckoned descended from the First Ember.
       - level: 1
         title: Mwamini
         lore: layfaithfulrnk
         description: >-
-          "Believer"—the lay worshipper, keeping the festivals, carrying a pyrestone and lighting
-          the three-wick lamp, without office in any temple. Of the spirits as well, by being
-          Okháric, which is not a matter of profession at all.
+          "Believer"—the lay worshipper, keeping the festivals, carrying a pyrestone and lighting the three-wick lamp, without office in any temple. Of the spirits as well, by being Okháric, which is not a matter of profession at all.
       - level: 2
         title: Mwanafunzi
         lore: initiaternk
         description: >-
-          "Student of the Flame"—the initiate rank, and the one title the three cities share.
-          Received into a temple and under instruction, whichever aspect they serve.
+          "Student of the Flame"—the initiate rank, and the one title the three cities share. Received into a temple and under instruction, whichever aspect they serve.
       - level: 3
         title: Mtaalamu wa Moto
         lore: priestrnk
         description: >-
-          "Scholar of the Fire"—the ordained priest of Zarhánis. Kaljékor ordains the Mhudumu wa
-          Dhahabu ("Servant of Gold"); Vuthráka the Askari wa Moto ("Soldier of Fire"), a
-          warrior-priest.
+          "Scholar of the Fire"—the ordained priest of Zarhánis. Kaljékor ordains the Mhudumu wa Dhahabu ("Servant of Gold"); Vuthráka the Askari wa Moto ("Soldier of Fire"), a warrior-priest.
       - level: 4
         title: Mlinzi wa Roho
         lore: priestrnk
         description: >-
-          "Guardian of Spirits"—the senior priest of Zarhánis, charged with the passage of the
-          soul after death. Kaljékor has the Mlinzi wa Utajiri ("Guardian of Wealth"), Vuthráka the
-          Mlinzi wa Vita ("Guardian of Battle"); the Mlinzi wa form is common to all three.
+          "Guardian of Spirits"—the senior priest of Zarhánis, charged with the passage of the soul after death. Kaljékor has the Mlinzi wa Utajiri ("Guardian of Wealth"), Vuthráka the Mlinzi wa Vita ("Guardian of Battle"); the Mlinzi wa form is common to all three.
       - level: 5
         title: Nabii wa Mwanga
         lore: highpriestrnk
         description: >-
-          "Prophet of Light"—temple master at Zarhánis, holding its dreams, visions and communion
-          with the ancestors. Kaljékor's is the Mtawala wa Soko ("Master of the Market"), Vuthráka's
-          the Jemadari wa Moto ("Commander of Fire").
+          "Prophet of Light"—temple master at Zarhánis, holding its dreams, visions and communion with the ancestors. Kaljékor's is the Mtawala wa Soko ("Master of the Market"), Vuthráka's the Jemadari wa Moto ("Commander of Fire").
       - level: 6
         title: Mlinzi wa Mwali
         lore: highpriestrnk
         description: >-
-          Warden of the Flame—head of Vuthráka, a warrior-priest who commands the armies of
-          Okháris in war. Kaljékor is instead headed collectively by the Baraza ya Moto ("Council
-          of Fire"), its ruling priest-nobles.
+          Warden of the Flame—head of Vuthráka, a warrior-priest who commands the armies of Okháris in war. Kaljékor is instead headed collectively by the Baraza ya Moto ("Council of Fire"), its ruling priest-nobles.
       - level: 7
         title: Pyremant Mkuu
         lore: grandmasterrnk
         description: >-
-          The High Pyremant of Zarhánis—supreme spiritual leader of all Okháris and advisor to
-          the Overlord, alone permitted to enter the chamber of the First Ember. One holder; the
-          other two aspects defer to him on doctrine and on nothing else.
+          The High Pyremant of Zarhánis—supreme spiritual leader of all Okháris and advisor to the Overlord, alone permitted to enter the chamber of the First Ember. One holder; the other two aspects defer to him on doctrine and on nothing else.
     offices:
       Pyremant Mkuu: >-
-        Supreme spiritual leader of Okháris, advisor to the Overlord, and the only person who may
-        enter the chamber of the First Ember.
+        Supreme spiritual leader of Okháris, advisor to the Overlord, and the only person who may enter the chamber of the First Ember.
       Mlinzi wa Mwali: >-
         Warden of the Flame at Vuthráka, commanding the armies of Okháris in time of war.
       Baraza ya Moto: >-
-        The Council of Fire—the priest-nobles who rule Kaljékor collectively, where the other two
-        aspects are headed by one person.
+        The Council of Fire—the priest-nobles who rule Kaljékor collectively, where the other two aspects are headed by one person.
       Nabii wa Mwanga: >-
-        Prophet of Light, temple master at Zarhánis: dreams, visions, and communion with the
-        ancestors.
+        Prophet of Light, temple master at Zarhánis: dreams, visions, and communion with the ancestors.
       Mtawala wa Soko: >-
-        Master of the Market at Kaljékor, whose temple doubles as the marketplace, and keeper of
-        the Scales on which trade oaths are sworn.
+        Master of the Market at Kaljékor, whose temple doubles as the marketplace, and keeper of the Scales on which trade oaths are sworn.
       Jemadari wa Moto: >-
-        Commander of Fire at Vuthráka, who holds the Warden's Brand and conducts the Trial of
-        Flames.
+        Commander of Fire at Vuthráka, who holds the Warden's Brand and conducts the Trial of Flames.
       Mlinzi wa Roho: >-
-        Guardian of Spirits—the senior Zarhánis office charged with the passage of the soul after
-        death, and the temple's point of friction with the Bone-Readers.
+        Guardian of Spirits—the senior Zarhánis office charged with the passage of the soul after death, and the temple's point of friction with the Bone-Readers.
       Keeper of the Ashmark: >-
-        Holder of the hearth-ash and sacred oils, and of the rite by which they are set on the
-        forehead at passage, mourning and consecration.
+        Holder of the hearth-ash and sacred oils, and of the rite by which they are set on the forehead at passage, mourning and consecration.
       Keeper of the Three Flames: >-
-        The Overlord's own religious title, borne by the temporal ruler rather than any priesthood,
-        and the office in which the unity of the three aspects is embodied.
+        The Overlord's own religious title, borne by the temporal ruler rather than any priesthood, and the office in which the unity of the three aspects is embodied.
   seat: null
   domains: []
   population: null
   economy: []
-  lore:
-    - nkaruthardty
-    - zohira
-  parents:
-    - nkaruthar
-  relations:
-    njiayaroho: aligned
+  lore: [nkaruthardty, zohira]
+  parents: [nkaruthar]
+  relations: {njiayaroho: aligned}
   packFolder: pantheonsnkaruthar
-sohl:
-  system:
-    commonSkills:
-      - nkaruthar
+sohl: {system: {commonSkills: [nkaruthar]}}
 ---
 
 ## Nkaru'thar: The Eternal Flame

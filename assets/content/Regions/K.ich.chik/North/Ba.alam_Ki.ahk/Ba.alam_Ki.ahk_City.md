@@ -1,20 +1,11 @@
 ---
-tags:
-  - city
-  - draft
-description: "City"
+shortcode: balamkiahk2
+name: {full: Ba'alam Ki'ahk, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - balamkiahkrgn
-  population: 3000
-name:
-  full: Ba'alam Ki'ahk
-  aliases: []
-shortcode: balamkiahk2
+description: "City"
+tags: [city, draft]
+data: {demonym: null, lore: [], parents: [balamkiahkrgn], population: 3000}
 ---
 
 ## Overview

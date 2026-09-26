@@ -1,18 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "Around 2110 BF the first Per-Aá unites the river valley under a single crown and Ta'Kheperu is founded on its river—the First Occasion, from which Ta'Kheperu, Okháris and their neighbors have counted every year since."
+shortcode: septepy
+name: {full: The Sep Tepy, aliases: [The First Occasion, The Founding of Ta'Kheperu]}
 type: lore
 subType: history
-name:
-  full: The Sep Tepy
-  aliases:
-    - The First Occasion
-    - The Founding of Ta'Kheperu
-shortcode: septepy
-data:
-  packFolder: settinglore
+description: "Around 2110 BF the first Per-Aá unites the river valley under a single crown and Ta'Kheperu is founded on its river—the First Occasion, from which Ta'Kheperu, Okháris and their neighbors have counted every year since."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: founding

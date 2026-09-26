@@ -1,21 +1,11 @@
 ---
-tags:
-  - port
-  - city
-  - draft
-description: "Harbor City"
+shortcode: calypsacity
+name: {full: Calypsa, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - aureldirgn
-  population: 28000
-name:
-  full: Calypsa
-  aliases: []
-shortcode: calypsacity
+description: "Harbor City"
+tags: [port, city, draft]
+data: {demonym: null, lore: [], parents: [aureldirgn], population: 28000}
 ---
 
 ## Overview

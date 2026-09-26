@@ -1,15 +1,10 @@
 ---
-tags: []
-name:
-  full: Kiliji
-  aliases: []
-description: "Curved widening-tip single-edged saber; cavalry raider's efficiency."
 shortcode: kiliji
+name: {full: Kiliji, aliases: []}
 type: weapongear
-data:
-  icon: icon-sword
-  templatePriority: null
-  packFolder: weapons
+description: "Curved widening-tip single-edged saber; cavalry raider's efficiency."
+tags: []
+data: {icon: icon-sword, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: sword
   weaponType: Sword
@@ -24,14 +19,8 @@ sohl:
         name: Cut
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 6
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 10
-          modifier: 4
-          aspect: edged
+        attack: {spread: 6, modifier: 0}
+        impactBase: {numDice: 1, die: 10, modifier: 4, aspect: edged}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -60,22 +49,14 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 5
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
+        defense: {blockMod: 0, counterstrikeMod: 0}
       impale:
         type: melee
         name: Impale
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 4
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 8
-          modifier: 1
-          aspect: piercing
+        attack: {spread: 4, modifier: 0}
+        impactBase: {numDice: 1, die: 8, modifier: 1, aspect: piercing}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -104,22 +85,14 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 5
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
+        defense: {blockMod: 0, counterstrikeMod: 0}
       pommel:
         type: melee
         name: Pommel
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 4
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 6
-          modifier: 0
-          aspect: blunt
+        attack: {spread: 4, modifier: 0}
+        impactBase: {numDice: 1, die: 6, modifier: 0, aspect: blunt}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -148,9 +121,7 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 5
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
+        defense: {blockMod: 0, counterstrikeMod: 0}
 ---
 
 A curved single-edged blade that broadens sharply toward the tip, the kiliji gathers cutting force through its geometry. The widened heel of the edge concentrates a cavalry saber's momentum into a devastating slash against light armor or flesh. Light cavalry and mounted raiders favor this steel for its efficiency in the wheeling charge.

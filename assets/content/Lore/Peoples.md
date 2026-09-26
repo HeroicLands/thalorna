@@ -1,15 +1,11 @@
 ---
-name:
-  full: Peoples
-  aliases: []
+shortcode: peoples
+name: {full: Peoples, aliases: []}
 type: doc
 subType: reference
-shortcode: peoples
-tags:
-  - draft
 description: Distinct peoples, races, and lineages.
-data:
-  banner: peoplebnr
+tags: [draft]
+data: {banner: peoplebnr}
 ---
 
 Distinct peoples, races, and lineages.

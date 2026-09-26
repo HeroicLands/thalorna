@@ -1,18 +1,10 @@
 ---
-tags:
-  - region
-  - Ankaris
-  - East
-  - Empire
-  - Caste-System
-  - Celestial-Religion
-description: The eastern empire of Tānvür—a celestial-bureaucratic, caste-ordered civilization under the Son of Heaven and the Mandate of the Jade Sovereign.
-name:
-  full: Empire of Tānvür
-  aliases: []
 shortcode: tanvurempr
+name: {full: Empire of Tānvür, aliases: []}
 type: affiliation
 subType: polity
+description: The eastern empire of Tānvür—a celestial-bureaucratic, caste-ordered civilization under the Son of Heaven and the Mandate of the Jade Sovereign.
+tags: [region, Ankaris, East, Empire, Caste-System, Celestial-Religion]
 data:
   icon: null
   templatePriority: null
@@ -22,101 +14,76 @@ data:
   governance:
     model: autocracy
     summary: >-
-      Emperor and Warlords of the Zhëklüng over a rigid eight-caste order, administered by
-      a celestial bureaucracy that tracks the purity of officials and the movements of comets
-      in the same ministries.
+      Emperor and Warlords of the Zhëklüng over a rigid eight-caste order, administered by a celestial bureaucracy that tracks the purity of officials and the movements of comets in the same ministries.
     ranks:
       - level: 0
         title: Nützōk
         lore: expelledrnk
         description: >-
-          Slaves and outcasts: the caste that is not a caste, whose members may hold no name
-          the law recognizes.
+          Slaves and outcasts: the caste that is not a caste, whose members may hold no name the law recognizes.
       - level: 1
         title: Shükrën
         lore: slavernk
         description: >-
-          Merchants and usurers—wealthy, indispensable, and ranked beneath the peasantry for
-          the offense of profiting without producing.
+          Merchants and usurers—wealthy, indispensable, and ranked beneath the peasantry for the offense of profiting without producing.
       - level: 2
         title: Nōkvür
         lore: commonerrnk
         description: >-
-          Peasant farmers and laborers, the base on which the celestial order rests and the
-          caste it constrains most.
+          Peasant farmers and laborers, the base on which the celestial order rests and the caste it constrains most.
       - level: 3
         title: Zāthük
         lore: journeymanrnk
         description: >-
-          Artisans, craftsmen and common warriors—skilled hands, and the highest a commoner
-          may ordinarily rise.
+          Artisans, craftsmen and common warriors—skilled hands, and the highest a commoner may ordinarily rise.
       - level: 4
         title: Tānthëi
         lore: officerrnk
         description: >-
-          Celestial Scholars: interpreters of omens and keepers of the sacred texts by which
-          the empire reckons everything.
+          Celestial Scholars: interpreters of omens and keepers of the sacred texts by which the empire reckons everything.
       - level: 5
         title: Vüshōk
         lore: officerrnk
         description: >-
-          Warrior nobility—the military commanders and administrators through whom the provinces
-          are held.
+          Warrior nobility—the military commanders and administrators through whom the provinces are held.
       - level: 6
         title: Vëndük
         lore: underbossrnk
         description: >-
-          Chattel sorcerers: magical slaves bound to the Zhëklüng, ranked high in precedence
-          and owning nothing, not even themselves.
+          Chattel sorcerers: magical slaves bound to the Zhëklüng, ranked high in precedence and owning nothing, not even themselves.
       - level: 7
         title: Zhëklüng
         lore: heirrnk
         description: >-
-          Sons of the Dragon—the imperial family and the Warlords, in whom the celestial mandate
-          is held to run.
+          Sons of the Dragon—the imperial family and the Warlords, in whom the celestial mandate is held to run.
       - level: 8
         title: Emperor
         lore: sovereignrnk
         description: >-
-          The Dragon himself, in whom the celestial administration and the caste order alike
-          find their justification.
+          The Dragon himself, in whom the celestial administration and the caste order alike find their justification.
     offices:
       Emperor: The Dragon, apex of the celestial administration and warrant of the caste order.
-      Warlord: Of the Zhëklüng, holding a province with its armies and answering to the Emperor
-        alone.
+      Warlord: Of the Zhëklüng, holding a province with its armies and answering to the Emperor alone.
       Celestial Minister: >-
-        Head of a ministry of the imperial administration, which tracks comets and officials
-        with equal rigor.
-      Omen-Reader: Tānthëi charged with interpreting the heavens for the timing of imperial
-        acts.
-      Keeper of the Sacred Texts: Tānthëi warden of the canon against which every proposal
-        is measured.
+        Head of a ministry of the imperial administration, which tracks comets and officials with equal rigor.
+      Omen-Reader: Tānthëi charged with interpreting the heavens for the timing of imperial acts.
+      Keeper of the Sacred Texts: Tānthëi warden of the canon against which every proposal is measured.
       Caste-Registrar: >-
-        Officer of the rolls on which every subject's caste, and therefore every subject's
-        law, is recorded.
-      Warden of the Bound: Keeper of the Vëndük—their bindings, their assignment and their
-        disposal.
+        Officer of the rolls on which every subject's caste, and therefore every subject's law, is recorded.
+      Warden of the Bound: Keeper of the Vëndük—their bindings, their assignment and their disposal.
       Commandant: Vüshōk officer commanding a garrison or a field army.
       Provincial Administrator: Vüshōk officer holding a district's revenue, courts and corvée.
       Censor of Purity: >-
-        Inspector of the ritual purity of provincial officials, and the most feared visitor
-        in any prefecture.
+        Inspector of the ritual purity of provincial officials, and the most feared visitor in any prefecture.
   seat: null
-  domains:
-    - tanvuregin
+  domains: [tanvuregin]
   population: 120000000
   economy: []
-  lore:
-    - humanflk
+  lore: [humanflk]
   parents: []
-  relations:
-    tngvkvnlei: aligned
-    kingdmdnvr: unaligned
+  relations: {tngvkvnlei: aligned, kingdmdnvr: unaligned}
   packFolder: tanvur
-sohl:
-  system:
-    commonSkills:
-      - tanvurlng
+sohl: {system: {commonSkills: [tanvurlng]}}
 
 # terran_analog: Imperial China (celestial bureaucracy, caste, mandate of heaven)
 ---

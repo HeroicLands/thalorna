@@ -1,17 +1,10 @@
 ---
-tags:
-  - hex-hodai
-  - draft
+shortcode: sideros
+name: {full: Incantus Sidéros, aliases: []}
 type: skill
 subType: mystical
-shortcode: sideros
-name:
-  full: Incantus Sidéros
-  aliases: []
-data:
-  icon: sideros
-  templatePriority: null
-  packFolder: hexhodai
+tags: [hex-hodai, draft]
+data: {icon: sideros, templatePriority: null, packFolder: hexhodai}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"

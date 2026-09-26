@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The lynx as a totemic ideal, and the human character it describes."
+shortcode: lynxttm
+name: {full: Lynx, aliases: [Lynx Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Lynx
-  aliases:
-    - Lynx Totem
-shortcode: lynxttm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The lynx as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-lynxtotem|Lynx]]{float: top-left, size: medium}

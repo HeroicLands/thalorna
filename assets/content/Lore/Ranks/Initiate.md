@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: initiaternk
+name: {full: Initiate, aliases: []}
 type: lore
 subType: law
-name:
-  full: Initiate
-  aliases: []
-shortcode: initiaternk
 description: "Received into a tradition and bound by its oaths, holding its first mysteries."
+tags: [draft]
 ---
 
 Received into a tradition and bound by its oaths, holding its first mysteries.

@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Surge
-  aliases:
-    - Wave
-description: "Creates wave of force; manifests swelling energy outward."
 shortcode: surge
+name: {full: Surge, aliases: [Wave]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
-  packFolder: spells
+description: "Creates wave of force; manifests swelling energy outward."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Wave

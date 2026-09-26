@@ -1,18 +1,11 @@
 ---
-tags:
-  - great-elixir
-name:
-  full: Sovereign Poultice
-  aliases:
-    - Potion, Curative, Great
-description: "Nearly black-green iridescent preparation; heals wounds and ailments."
 shortcode: ptncurg
+name: {full: Sovereign Poultice, aliases: ["Potion, Curative, Great"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: great
+description: "Nearly black-green iridescent preparation; heals wounds and ailments."
+tags: [great-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: great}
 sohl:
   system:
     weightBase: 0.25

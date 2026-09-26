@@ -1,15 +1,11 @@
 ---
-name:
-  full: Continents
-  aliases: []
+shortcode: continents
+name: {full: Continents, aliases: []}
 type: doc
 subType: reference
-shortcode: continents
-tags:
-  - draft
 description: Major landmasses of the world.
-data:
-  banner: continentbnr
+tags: [draft]
+data: {banner: continentbnr}
 ---
 
 Major landmasses of the world.

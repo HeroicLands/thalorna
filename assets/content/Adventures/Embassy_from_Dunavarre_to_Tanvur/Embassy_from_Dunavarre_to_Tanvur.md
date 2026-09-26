@@ -1,16 +1,11 @@
 ---
-name:
-  full: Embassy from Dunavarre to Tānvür
-  aliases: []
 shortcode: embsydnvrtnvr
+name: {full: Embassy from Dunavarre to Tānvür, aliases: []}
 type: scenario
 subType: adventure
 data:
   parents: []
-  locations:
-    - aelwyth
-    - elavendre
-    - tanvuregin
+  locations: [aelwyth, elavendre, tanvuregin]
   cast:
     - arancelavren
     - baridanalendavel
@@ -31,9 +26,7 @@ data:
   factions: []
   follows: []
   status: draft
-  party:
-    size: null
-    archetypes: []
+  party: {size: null, archetypes: []}
   packFolder: adventures
 ---
 

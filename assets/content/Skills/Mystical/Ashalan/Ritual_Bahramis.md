@@ -1,19 +1,10 @@
 ---
-tags:
-  - ashalan
-  - faith-skill
-  - draft
+shortcode: bahramis
+name: {full: "Ritual: Báhrámiš", aliases: [The Thunder Rider, Storm God]}
 type: skill
 subType: mystical
-shortcode: bahramis
-name:
-  full: "Ritual: Báhrámiš"
-  aliases:
-    - The Thunder Rider
-    - Storm God
-data:
-  templatePriority: null
-  packFolder: ashalan
+tags: [ashalan, faith-skill, draft]
+data: {templatePriority: null, packFolder: ashalan}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

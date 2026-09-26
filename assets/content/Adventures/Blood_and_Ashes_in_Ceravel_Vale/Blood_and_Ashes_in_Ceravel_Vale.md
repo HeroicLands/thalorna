@@ -1,24 +1,18 @@
 ---
-tags:
-  - blood-and-ashes-in-ceravel-vale
+shortcode: bldshscrvlvl
+name: {full: Blood and Ashes in Céravel Vale, aliases: []}
 type: scenario
 subType: campaign
+tags: [blood-and-ashes-in-ceravel-vale]
 data:
   parents: []
-  locations:
-    - provenzrgn
+  locations: [provenzrgn]
   cast: []
   factions: []
   follows: []
   status: draft
-  party:
-    size: null
-    archetypes: []
+  party: {size: null, archetypes: []}
   packFolder: bloodandashesinceravelvale
-shortcode: bldshscrvlvl
-name:
-  full: Blood and Ashes in Céravel Vale
-  aliases: []
 ---
 
 ## Teaser

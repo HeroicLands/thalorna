@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Tranquility
-  aliases:
-    - Calm
-description: "Calms emotions and mind; grants peace and serenity."
 shortcode: trnqlty
+name: {full: Tranquility, aliases: [Calm]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
-  packFolder: spells
+description: "Calms emotions and mind; grants peace and serenity."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Calm

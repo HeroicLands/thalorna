@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Mindflare
-  aliases:
-    - Thought
-description: "Burst of psychic pain disorienting multiple targets simultaneously."
 shortcode: mndflr
+name: {full: Mindflare, aliases: [Thought]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
-  packFolder: spells
+description: "Burst of psychic pain disorienting multiple targets simultaneously."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Thought

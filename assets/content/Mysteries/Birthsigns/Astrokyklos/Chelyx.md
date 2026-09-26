@@ -1,16 +1,11 @@
 ---
-tags: []
-name:
-  full: Chelyx
-  aliases: []
-description: "The Tortoise: methodical at bench and drill-yard, sparing of speech, blind to the numinous."
 shortcode: chelyx
+name: {full: Chelyx, aliases: []}
 type: mystery
 subType: birthsign
-data:
-  icon: icon-astrology
-  templatePriority: 0
-  packFolder: astrokyklos
+description: "The Tortoise: methodical at bench and drill-yard, sparing of speech, blind to the numinous."
+tags: []
+data: {icon: icon-astrology, templatePriority: 0, packFolder: astrokyklos}
 sohl:
   kbcat: birthsign
   system:

@@ -1,24 +1,17 @@
 ---
-tags: []
-name:
-  full: Hastening
-  aliases: []
-description: "Quickens movement; caster moves with supernatural speed and grace."
 shortcode: hstnng
+name: {full: Hastening, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
-  packFolder: spells
+description: "Quickens movement; caster moves with supernatural speed and grace."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Hastening

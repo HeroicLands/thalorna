@@ -1,14 +1,10 @@
 ---
-tags: []
-description: "Vylarian imperial taxation administration—sets imperial tax rates, awards Publicarius collection contracts, audits the tax-farmers, and adjudicates taxpayer disputes; operates only in the empire's direct-governance territories (Vylaria and Heliónis)."
-name:
-  full: The Curia Fiscalis
-  aliases:
-    - The Fiscal Court
-    - The Imperial Tax Curia
 shortcode: curiafscls
+name: {full: The Curia Fiscalis, aliases: [The Fiscal Court, The Imperial Tax Curia]}
 type: affiliation
 subType: governmental
+description: "Vylarian imperial taxation administration—sets imperial tax rates, awards Publicarius collection contracts, audits the tax-farmers, and adjudicates taxpayer disputes; operates only in the empire's direct-governance territories (Vylaria and Heliónis)."
+tags: []
 data:
   templatePriority: null
   demonym: null
@@ -17,65 +13,44 @@ data:
   governance:
     model: council
     summary: >-
-      An imperial tax administration in four working bodies—a Council of sixteen seats under the
-      Praetar Fiscalis, provincial Procurares, and a discipline arm of Censores—setting the
-      rates and awarding the contracts the Publicarii collect under.
+      An imperial tax administration in four working bodies—a Council of sixteen seats under the Praetar Fiscalis, provincial Procurares, and a discipline arm of Censores—setting the rates and awarding the contracts the Publicarii collect under.
     ranks:
       - level: 0
         title: Recalled
         lore: expelledrnk
         description: >-
-          Council seats turn over at the Augustar's pleasure within procedural limits, and the
-          Praetar Fiscalis is dismissed at imperial discretion. A seat lost this way is not
-          given back.
+          Council seats turn over at the Augustar's pleasure within procedural limits, and the Praetar Fiscalis is dismissed at imperial discretion. A seat lost this way is not given back.
       - level: 1
         title: Censor
         lore: officerrnk
         description: >-
-          One of twenty officers of the discipline arm, appointed by the Council: investigates
-          Publicarius abuses, audits collection books, prosecutes serious offenses before the
-          Council and recommends permanent disqualifications. Works under the Procurar of his
-          territory.
+          One of twenty officers of the discipline arm, appointed by the Council: investigates Publicarius abuses, audits collection books, prosecutes serious offenses before the Council and recommends permanent disqualifications. Works under the Procurar of his territory.
       - level: 3
         title: Procurar
         lore: commanderrnk
         description: >-
-          Provincial officer, one to each of the four Vylarian provinces and four to the
-          principal Heliónite city-states. Administers the Curia's operations in his territory,
-          prepares the annual revenue estimates, manages the contract awards and supervises the
-          Censores under him.
+          Provincial officer, one to each of the four Vylarian provinces and four to the principal Heliónite city-states. Administers the Curia's operations in his territory, prepares the annual revenue estimates, manages the contract awards and supervises the Censores under him.
       - level: 4
         title: Councillor
         lore: councillorrnk
         description: >-
-          Of the sixteen seats of the Council of the Fiscal Court, drawn from the senior
-          Argentean and Aurelian estates by imperial appointment for ten-year terms, renewable
-          once. Sets the imperial rates, approves contract terms and hears appeals against a
-          Procurar's decisions.
+          Of the sixteen seats of the Council of the Fiscal Court, drawn from the senior Argentean and Aurelian estates by imperial appointment for ten-year terms, renewable once. Sets the imperial rates, approves contract terms and hears appeals against a Procurar's decisions.
       - level: 5
         title: Praetar
         lore: magistraternk
         description: >-
-          The Council's chair and the Curia's chief officer, appointed by the Augustar for a
-          ten-year term, renewable, and sitting formally with the Dux Bellorum, the Quaestor
-          Imperii and twice a year the Augustar himself.
+          The Council's chair and the Curia's chief officer, appointed by the Augustar for a ten-year term, renewable, and sitting formally with the Dux Bellorum, the Quaestor Imperii and twice a year the Augustar himself.
     offices:
       Censor Maximus Fisci: >-
-        Senior of the twenty Censores Fiscales, reporting to the Council and to the Praetar
-        directly, and answerable for the discipline arm's case-rate against the Publicarii.
+        Senior of the twenty Censores Fiscales, reporting to the Council and to the Praetar directly, and answerable for the discipline arm's case-rate against the Publicarii.
   seat: null
   domains: []
   population: null
-  economy:
-    - affiliation-aerarimmpr
-    - affiliation-clgmrgntrrm
-    - affiliation-magnumclgm
+  economy: [affiliation-aerarimmpr, affiliation-clgmrgntrrm, affiliation-magnumclgm]
   lore: []
   parents: []
   relations: {}
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 _Vylarian: Curia Fiscalis—"the Fiscal Court"_

@@ -1,18 +1,11 @@
 ---
-tags:
-  - great-elixir
-name:
-  full: "Siren's Tincture"
-  aliases:
-    - Potion, Aphrodisiac, Great
-description: "Nearly black purple-tinged liquid; seduces with overwhelming attraction."
 shortcode: ptnaphrg
+name: {full: "Siren's Tincture", aliases: ["Potion, Aphrodisiac, Great"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: great
+description: "Nearly black purple-tinged liquid; seduces with overwhelming attraction."
+tags: [great-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: great}
 sohl:
   system:
     weightBase: 0.25

@@ -1,12 +1,9 @@
 ---
+shortcode: clstlpnthn
+name: {full: Celestial Pantheon, aliases: []}
 type: lore
 subType: theology
-name:
-  full: Celestial Pantheon
-  aliases: []
-shortcode: clstlpnthn
-data:
-  packFolder: celestialorder
+data: {packFolder: celestialorder}
 ---
 
 ## The Celestial Pantheon of Tānvür

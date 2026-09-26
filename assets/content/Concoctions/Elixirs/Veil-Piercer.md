@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: Veil-Piercer
-  aliases:
-    - Ghostsight Elixir
-description: "Pearlescent opalescent draft; grants perception of unseen incorporeal."
 shortcode: elxgst
+name: {full: Veil-Piercer, aliases: [Ghostsight Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Pearlescent opalescent draft; grants perception of unseen incorporeal."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

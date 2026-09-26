@@ -1,20 +1,12 @@
 ---
-tags:
-  - organization
-  - takheperu
-  - xerathia
-  - guild
-  - hunters
-description: "Per-Aá's chartered guild of professional hunters and beast-specialists—licensing the empire's game-takers, dangerous-beast cullers, and the suppliers of the temple and market hunts."
+shortcode: pernuw
 name:
   full: Per'Nuw
-  aliases:
-    - The House of Hunters
-    - The Ta'Kheperu Hunters' Guild
-    - Ta'Kheperu Hunters' Guild
-shortcode: pernuw
+  aliases: [The House of Hunters, The Ta'Kheperu Hunters' Guild, Ta'Kheperu Hunters' Guild]
 type: affiliation
 subType: guild
+description: "Per-Aá's chartered guild of professional hunters and beast-specialists—licensing the empire's game-takers, dangerous-beast cullers, and the suppliers of the temple and market hunts."
+tags: [organization, takheperu, xerathia, guild, hunters]
 data:
   templatePriority: null
   demonym: null
@@ -23,8 +15,7 @@ data:
   governance:
     model: council
     summary: >-
-      A chartered guild of Ta'Kheperan professional hunters, elevated from apprentice to Great
-      Hunter, governed by the Council of the Long Spear under its First Hunter.
+      A chartered guild of Ta'Kheperan professional hunters, elevated from apprentice to Great Hunter, governed by the Council of the Long Spear under its First Hunter.
     ranks:
       - level: 0
         title: Revoked
@@ -35,36 +26,29 @@ data:
         title: Apprentice
         lore: apprenticernk
         description: >-
-          Sba-nuw—admitted between fourteen and eighteen, typically introduced by a sponsoring
-          journeyman or master, trained for three to five years.
+          Sba-nuw—admitted between fourteen and eighteen, typically introduced by a sponsoring journeyman or master, trained for three to five years.
       - level: 2
         title: Journeyman
         lore: journeymanrnk
         description: >-
-          Nuw—qualified by examination, permitted to take paid commissions under a master's
-          seal; the working rank of most members.
+          Nuw—qualified by examination, permitted to take paid commissions under a master's seal; the working rank of most members.
       - level: 3
         title: Master Hunter
         lore: masterrnk
         description: >-
-          Hem-nuw—promoted by senior vote after presenting a documented record of significant
-          work, permitted to seal independently, take apprentices and sit on chapter councils.
+          Hem-nuw—promoted by senior vote after presenting a documented record of significant work, permitted to seal independently, take apprentices and sit on chapter councils.
       - level: 4
         title: Great Hunter
         lore: councillorrnk
         description: >-
-          Wer-nuw—the most senior masters, convened as the Council of the Long Spear, advising
-          the imperial administration and adjudicating the highest guild disputes.
+          Wer-nuw—the most senior masters, convened as the Council of the Long Spear, advising the imperial administration and adjudicating the highest guild disputes.
     offices:
       First Hunter of the Per-Aá: >-
-        Imy-Khent Nuw—chair of the Council of the Long Spear, presently Wermeryt Khentkawes,
-        unifying the guild's specialty divisions and speaking for it to the imperial
-        administration.
+        Imy-Khent Nuw—chair of the Council of the Long Spear, presently Wermeryt Khentkawes, unifying the guild's specialty divisions and speaking for it to the imperial administration.
   seat: null
   domains: []
   population: null
-  economy:
-    - affiliation-magnumclgm
+  economy: [affiliation-magnumclgm]
   lore: []
   parents: []
   relations:
@@ -73,9 +57,7 @@ data:
     sobek: aligned
     sekhetneru: aligned
     permesnu: aligned
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 _Kheperi: "The House of Hunters"—the guild of professional hunters of Ta'Kheperu_

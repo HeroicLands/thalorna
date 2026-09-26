@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "Three centuries of displacement, from approximately 1400 BF to approximately 1100 BF, push whole peoples west across half a continent until the movement runs out of land against the western sea—and a few communities go across the water."
+shortcode: pelwarmigr
+name: {full: The Pelwar Migration, aliases: [The Migration]}
 type: lore
 subType: history
-name:
-  full: The Pelwar Migration
-  aliases:
-    - The Migration
-shortcode: pelwarmigr
-data:
-  packFolder: settinglore
+description: "Three centuries of displacement, from approximately 1400 BF to approximately 1100 BF, push whole peoples west across half a continent until the movement runs out of land against the western sea—and a few communities go across the water."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: migration

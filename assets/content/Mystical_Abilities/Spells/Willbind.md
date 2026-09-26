@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Willbind
-  aliases:
-    - Resolve
-description: "Binds target's will; suppresses resistance and forces obedience."
 shortcode: willbind
+name: {full: Willbind, aliases: [Resolve]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Binds target's will; suppresses resistance and forces obedience."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Resolve

@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: The Wakeful Road
-  aliases:
-    - Verve Elixir
-description: "Pale gold restless elixir; burns away fatigue and exhaustion."
 shortcode: elxvrv
+name: {full: The Wakeful Road, aliases: [Verve Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Pale gold restless elixir; burns away fatigue and exhaustion."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

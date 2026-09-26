@@ -1,23 +1,11 @@
 ---
-tags:
-  - river
-  - forest
-  - inland
-description: "The eastern river—out of the ice above the Silver Gorges, through the gold highlands and the temple-controlled forests, to the coast; the pilgrim road runs its whole length."
+shortcode: bharavarivr
+name: {full: The Bhārava, aliases: [Bhārava]}
 type: place
 subType: feature
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vedyarargn
-  population: null
-  packFolder: vedyara
-name:
-  full: The Bhārava
-  aliases:
-    - Bhārava
-shortcode: bharavarivr
+description: "The eastern river—out of the ice above the Silver Gorges, through the gold highlands and the temple-controlled forests, to the coast; the pilgrim road runs its whole length."
+tags: [river, forest, inland]
+data: {demonym: null, lore: [], parents: [vedyarargn], population: null, packFolder: vedyara}
 ---
 
 The **Bhārava** rises at [[place-bhrvprbhav|Bhāravaprabhava]] under [[place-estrnreach|the Eastern Reach]], falls fast through the gold-bearing highlands, and then slows for six hundred miles through forest country to the eastern coast. It is the least navigable of the four and the most walked.

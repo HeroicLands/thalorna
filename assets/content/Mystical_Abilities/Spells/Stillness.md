@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Stillness
-  aliases:
-    - Rest
-description: "Freezes motion; halts all movement within affected area."
 shortcode: stllnss
+name: {full: Stillness, aliases: [Rest]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
-  packFolder: spells
+description: "Freezes motion; halts all movement within affected area."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Rest

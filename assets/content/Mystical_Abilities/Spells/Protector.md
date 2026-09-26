@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Protector
-  aliases:
-    - Ward
-description: "Invisible guardian spirit defending caster from harm and damage."
 shortcode: prtctr
+name: {full: Protector, aliases: [Ward]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Invisible guardian spirit defending caster from harm and damage."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Ward

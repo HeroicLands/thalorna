@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Cloak
-  aliases:
-    - Shroud
-description: "Renders wearer indistinct; observers overlook them despite presence."
 shortcode: cloak
+name: {full: Cloak, aliases: [Shroud]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
-  packFolder: spells
+description: "Renders wearer indistinct; observers overlook them despite presence."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Shroud

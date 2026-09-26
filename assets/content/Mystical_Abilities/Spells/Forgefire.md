@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Forgefire
-  aliases:
-    - Anvil
-description: "Kindles intense heat; burns with hammering force like forge blast."
 shortcode: frgfr
+name: {full: Forgefire, aliases: [Anvil]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
-  packFolder: spells
+description: "Kindles intense heat; burns with hammering force like forge blast."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Anvil

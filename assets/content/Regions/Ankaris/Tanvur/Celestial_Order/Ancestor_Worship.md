@@ -1,12 +1,9 @@
 ---
+shortcode: ancstrwrshp
+name: {full: Ancestor Worship, aliases: []}
 type: lore
 subType: spirit
-name:
-  full: Ancestor Worship
-  aliases: []
-shortcode: ancstrwrshp
-data:
-  packFolder: celestialorder
+data: {packFolder: celestialorder}
 ---
 
 ## Ancestor Worship in Tānvür

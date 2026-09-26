@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Morph
-  aliases:
-    - Shape
-description: "Temporarily alters caster's physical form into different shape."
 shortcode: morph
+name: {full: Morph, aliases: [Shape]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
-  packFolder: spells
+description: "Temporarily alters caster's physical form into different shape."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Shape

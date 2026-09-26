@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Byzaría"
 shortcode: helladbyzaria
+name: {full: "Byzaría"}
 type: folder
-data:
-  parent: ankarishellad
-  color: "#DC143C"
+data: {parent: ankarishellad, color: "#DC143C"}
 ---

@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Sentience
-  aliases:
-    - Personality
-description: "Grants awareness to construct; creature gains rudimentary agency."
 shortcode: sntnc
+name: {full: Sentience, aliases: [Personality]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Grants awareness to construct; creature gains rudimentary agency."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Personality

@@ -1,18 +1,11 @@
 ---
-tags:
-  - mild-elixir
-name:
-  full: Orchard Breath
-  aliases:
-    - Potion, Aromatic, Mild
-description: "Pale golden honey-like liquid; sweetens disposition and charm."
 shortcode: ptnaromm
+name: {full: Orchard Breath, aliases: ["Potion, Aromatic, Mild"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: mild
+description: "Pale golden honey-like liquid; sweetens disposition and charm."
+tags: [mild-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25

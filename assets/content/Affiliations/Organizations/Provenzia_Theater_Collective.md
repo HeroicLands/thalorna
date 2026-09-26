@@ -1,14 +1,12 @@
 ---
-tags: []
-description: "Informal but influential federation of Provenzian theater companies, performers, and patrons—shaping the kingdom's public life through staged spectacle, satire, and the careful cultivation of taste."
+shortcode: prvnzthtrclctv
 name:
   full: The Provènzia Theater Collective
-  aliases:
-    - The Theater Collective
-    - The Players' Federation
-shortcode: prvnzthtrclctv
+  aliases: [The Theater Collective, The Players' Federation]
 type: affiliation
 subType: fellowship
+description: "Informal but influential federation of Provenzian theater companies, performers, and patrons—shaping the kingdom's public life through staged spectacle, satire, and the careful cultivation of taste."
+tags: []
 data:
   templatePriority: null
   demonym: null
@@ -17,24 +15,20 @@ data:
   governance:
     model: democracy
     summary: >-
-      A voluntary association whose members decide its affairs and elect its officers for
-      a term.
+      A voluntary association whose members decide its affairs and elect its officers for a term.
     ranks:
       - level: 0
         title: Expelled
         lore: expelledrnk
-        description: Put out by vote of the members, with the fellowship's hospitality and its
-          company closed.
+        description: Put out by vote of the members, with the fellowship's hospitality and its company closed.
       - level: 1
         title: Guest
         lore: dependentrnk
-        description: Present by a member's invitation, welcome for the evening and party to
-          nothing.
+        description: Present by a member's invitation, welcome for the evening and party to nothing.
       - level: 2
         title: Member
         lore: swornmemberrnk
-        description: Admitted, paying the subscription and enjoying the fellowship's company
-          and its hall.
+        description: Admitted, paying the subscription and enjoying the fellowship's company and its hall.
       - level: 3
         title: Full Member
         lore: swornmemberrnk
@@ -46,17 +40,14 @@ data:
       - level: 5
         title: Officer
         lore: officerrnk
-        description: Elected to a charge of the fellowship—its purse, its records, its hall,
-          its charity.
+        description: Elected to a charge of the fellowship—its purse, its records, its hall, its charity.
       - level: 6
         title: Chair
         lore: councillorrnk
-        description: Presiding over the fellowship's meetings for a term, and holding nothing
-          else by it.
+        description: Presiding over the fellowship's meetings for a term, and holding nothing else by it.
     offices:
       Chair: >-
-        Presiding officer of the fellowship's meetings, elected for a term and holding nothing
-        else by it.
+        Presiding officer of the fellowship's meetings, elected for a term and holding nothing else by it.
       Secretary: Keeper of the roll, the minutes and the correspondence.
       Treasurer: Keeper of the subscriptions and of what the fellowship spends them on.
       Steward: Warden of the hall, its provision and the ordering of its gatherings.
@@ -65,14 +56,11 @@ data:
   seat: null
   domains: []
   population: null
-  economy:
-    - affiliation-magnumclgm
+  economy: [affiliation-magnumclgm]
   lore: []
   parents: []
   relations: {}
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 - **Type:** Cultural federation

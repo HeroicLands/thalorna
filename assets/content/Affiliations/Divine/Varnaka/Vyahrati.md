@@ -1,17 +1,10 @@
 ---
-description: "Religion of decay, endings, the release of what has reached its term, and the fertile compost from which new growth arises."
-tags:
-  - varnaka
-  - deity
-  - decay
-  - transition
-name:
-  full: Vyāhrati
-  aliases:
-    - The Keeper of Decay
 shortcode: vyahrati
+name: {full: Vyāhrati, aliases: [The Keeper of Decay]}
 type: affiliation
 subType: faithtradition
+description: "Religion of decay, endings, the release of what has reached its term, and the fertile compost from which new growth arises."
+tags: [varnaka, deity, decay, transition]
 data:
   banner: faithbnr
   templatePriority: null
@@ -47,18 +40,11 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - vyahratidty
-  parents:
-    - varakpnthn
-  relations:
-    varakpnthn: aligned
+  lore: [vyahratidty]
+  parents: [varakpnthn]
+  relations: {varakpnthn: aligned}
   packFolder: pantheonsvarnaka
-sohl:
-  system:
-    commonSkills:
-      - vyahrati
-      - sohl-sohl-skill-agri
+sohl: {system: {commonSkills: [vyahrati, sohl-sohl-skill-agri]}}
 ---
 
 ## Vyāhrati—The Keeper of Decay

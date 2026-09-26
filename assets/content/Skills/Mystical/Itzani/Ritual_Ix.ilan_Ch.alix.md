@@ -1,20 +1,10 @@
 ---
-tags:
-  - itzani
-  - faith-skill
-  - draft
+shortcode: ixilanchalix
+name: {full: "Ritual: Ix'ilan Ch'alix", aliases: [Ix'ilan Ch'alix, The Sacred Star]}
 type: skill
 subType: mystical
-shortcode: ixilanchalix
-name:
-  full: "Ritual: Ix'ilan Ch'alix"
-  aliases:
-    - Ix'ilan Ch'alix
-    - The Sacred Star
-data:
-  icon: null
-  templatePriority: null
-  packFolder: itzani
+tags: [itzani, faith-skill, draft]
+data: {icon: null, templatePriority: null, packFolder: itzani}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

@@ -1,14 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: besdty
+name: {full: Bēs, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Bēs
-  aliases: []
-shortcode: besdty
-data:
-  packFolder: deitieskemetian
+tags: [draft]
+data: {packFolder: deitieskemetian}
 ---
 
 ![[icon-bes|Bēs]]{float: top-left, size: medium}

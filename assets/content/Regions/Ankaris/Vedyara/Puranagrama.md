@@ -1,20 +1,9 @@
 ---
-tags:
-  - village
-  - river
-  - inland
-description: "Village a mile below the town, built of brick robbed from the ruins of the old kingdom."
+shortcode: puranagrama
+name: {full: Purānagrāma, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - rajapurjnpd
-  population: 410
-  packFolder: vedyara
-name:
-  full: Purānagrāma
-  aliases: []
-shortcode: puranagrama
+description: "Village a mile below the town, built of brick robbed from the ruins of the old kingdom."
+tags: [village, river, inland]
+data: {demonym: null, lore: [], parents: [rajapurjnpd], population: 410, packFolder: vedyara}
 ---

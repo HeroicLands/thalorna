@@ -1,26 +1,14 @@
 ---
-tags:
-  - jewelry_cash
-name:
-  full: Vylarian Octus
-  aliases: ["Octus", "Bit"]
-description: "Physical eighth of an Argentus; the everyday small-denomination imperial coin."
 shortcode: bit
+name: {full: Vylarian Octus, aliases: ["Octus", "Bit"]}
 type: miscgear
-data:
-  icon: icon-coinsbdg
-  templatePriority: 0
-  packFolder: cash
+description: "Physical eighth of an Argentus; the everyday small-denomination imperial coin."
+tags: [jewelry_cash]
+data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
 sohl:
-  craft:
-    skill: mtlc
-    secondary: []
+  craft: {skill: mtlc, secondary: []}
   kbcat: cash
-  system:
-    weightBase: 0.0004
-    valueBase: 0.125
-    qualityBase: 0
-    durabilityBase: 3
+  system: {weightBase: 0.0004, valueBase: 0.125, qualityBase: 0, durabilityBase: 3}
 ---
 
 An eighth of an Argentus, either cut from the parent coin along the eight-segment pattern struck into its reverse or produced ready-struck at the imperial and provincial mints. A cut Octus is a wedge, triangular in outline; a struck one is cleaner and more uniformly weighted.

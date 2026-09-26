@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Smith’s Flame
-  aliases:
-    - Foundry
-description: "The caster conjures a zone of intense, precisely controlled heat cente"
 shortcode: smthflam
+name: {full: Smith’s Flame, aliases: [Foundry]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
-  packFolder: spells
+description: "The caster conjures a zone of intense, precisely controlled heat cente"
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Foundry

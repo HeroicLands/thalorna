@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Maru-Aten."
+shortcode: maruaten
+name: {full: Maru-Aten, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Maru-Aten."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - maruatennome
+  parents: [maruatennome]
   population: 22000
   packFolder: upperrivernomes
-name:
-  full: Maru-Aten
-  aliases: []
-shortcode: maruaten
 ---
 
 ## Overview

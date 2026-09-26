@@ -1,22 +1,11 @@
 ---
-tags:
-  - village
-  - mountain
-  - mining
-description: "The panning village on the richest of the gold mountain's streams, where nine of the twenty-eight hereditary families work."
+shortcode: hiranyadhara
+name: {full: Hiranyadhārā, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - suvarnagirijnpd
-  population: 980
-  packFolder: vedyara
-name:
-  full: Hiranyadhārā
-  aliases: []
-shortcode: hiranyadhara
+description: "The panning village on the richest of the gold mountain's streams, where nine of the twenty-eight hereditary families work."
+tags: [village, mountain, mining]
+data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: 980, packFolder: vedyara}
 ---
 
 Hiranyadhārā (980) lies two miles above Middle Suvarnagiri on the richest of the mountain's streams, and is where most of the gold is won. Nine of the twenty-eight hereditary panning families live here, which is more than any other village holds.

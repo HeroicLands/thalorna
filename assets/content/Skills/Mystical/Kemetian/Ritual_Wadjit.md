@@ -1,18 +1,10 @@
 ---
-tags:
-  - kemetian
-  - faith-skill
-  - draft
+shortcode: wadjit
+name: {full: "Ritual: Wadjit", aliases: ["Wadjit, The Cobra-Goddess"]}
 type: skill
 subType: mystical
-shortcode: wadjit
-name:
-  full: "Ritual: Wadjit"
-  aliases:
-    - Wadjit, The Cobra-Goddess
-data:
-  templatePriority: null
-  packFolder: kemetian
+tags: [kemetian, faith-skill, draft]
+data: {templatePriority: null, packFolder: kemetian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

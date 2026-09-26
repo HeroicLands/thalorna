@@ -1,7 +1,5 @@
 ---
-tags:
-  - character
-  - reference
+shortcode: rothgarhrondinsson
 name:
   full: Rothgar Hrondinsson
   title: Jarl
@@ -9,15 +7,14 @@ name:
   clan: Hrondinsson
   home: greyfjord
   aliases: []
-description: "The Greyfjord fortress commander."
-shortcode: rothgarhrondinsson
 type: being
+description: "The Greyfjord fortress commander."
+tags: [character, reference]
 data:
   species: humanflk
   templatePriority: null
   archetypes: []
   stations: []
   lore: []
-  homes:
-    - greyfjord
+  homes: [greyfjord]
 ---

@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The catfish as a totemic ideal, and the human character it describes."
+shortcode: catfishttm
+name: {full: Catfish, aliases: [Catfish Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Catfish
-  aliases:
-    - Catfish Totem
-shortcode: catfishttm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The catfish as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-catfishtotem|Catfish]]{float: top-left, size: medium}

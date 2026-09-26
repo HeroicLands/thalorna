@@ -1,13 +1,9 @@
 ---
-tags:
-  - dreadspawn
-  - creature
-name:
-  full: Acidtoad
-  aliases: []
-description: "A corruption-twisted amphibian of swamps and toxic pools that ambushes prey with sluggish movements and lethally venomous, acidic flesh."
 shortcode: acidtoad
+name: {full: Acidtoad, aliases: []}
 type: being
+description: "A corruption-twisted amphibian of swamps and toxic pools that ambushes prey with sluggish movements and lethally venomous, acidic flesh."
+tags: [dreadspawn, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -42,21 +38,21 @@ sohl:
     rea: 1d6+4
     cre: 1d6+5
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 18 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 8 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 8 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 9 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 70 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 50 } }
-    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 33 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 40 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 48 } }
-    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 38 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 18}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 8}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 8}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 9}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 70}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 50}}
+    - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 33}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 40}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 48}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 38}}
     - name: Venomous Bite
       type: skill
       system:
@@ -64,36 +60,20 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 56
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: bite
           name: Venomous Bite
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 1
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 1
-            aspect: piercing
+          attack: {disabled: false, spread: 1, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 1, aspect: piercing}
           lengthBase: 0
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
-            poison: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true, poison: true}
     - name: Corrosive Spit
       type: skill
       system:
@@ -101,23 +81,15 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 56
         combatCategory: missile
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: missile
           shortcode: spray
           name: Corrosive Spit
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 0
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 1
-            aspect: fire
+          attack: {disabled: false, spread: 0, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 1, aspect: fire}
           projectileType: none
           maxVolleyMult: 1
           baseRangeBase: 15
@@ -127,29 +99,20 @@ sohl:
     body:
       structure:
         zones:
-          - name: Forequarters
-            shortcode: fqtrzone
-            probWeight: 2
-          - name: Torso
-            shortcode: torsozone
-            probWeight: 2
-          - name: Hindquarters
-            shortcode: hindqtrzone
-            probWeight: 2
+          - {name: Forequarters, shortcode: fqtrzone, probWeight: 2}
+          - {name: Torso, shortcode: torsozone, probWeight: 2}
+          - {name: Hindquarters, shortcode: hindqtrzone, probWeight: 2}
         parts:
           - name: Head
             shortcode: headpart
             bodyZoneCode: fqtrzone
-            roles:
-              - vital
-              - manipulator
+            roles: [vital, manipulator]
             canHoldItem: false
             probWeight: 10
           - name: Left Foreleg
             shortcode: lforelegpart
             bodyZoneCode: fqtrzone
-            roles: &a1
-              - locomotor
+            roles: &a1 [locomotor]
             canHoldItem: false
             probWeight: 5
           - name: Right Foreleg
@@ -161,22 +124,19 @@ sohl:
           - name: Torso
             shortcode: torsopart
             bodyZoneCode: torsozone
-            roles:
-              - core
+            roles: [core]
             canHoldItem: false
             probWeight: 10
           - name: Left Hind Leg
             shortcode: lhindlegpart
             bodyZoneCode: hindqtrzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 5
           - name: Right Hind Leg
             shortcode: rhindlegpart
             bodyZoneCode: hindqtrzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 5
           - name: Tail
@@ -193,11 +153,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 3
-            protectionBase:
-              blunt: 4
-              edged: 3
-              piercing: 2
-              fire: 4
+            protectionBase: {blunt: 4, edged: 3, piercing: 2, fire: 4}
           - name: Neck
             shortcode: neckloc
             bodyPartCode: headpart
@@ -205,11 +161,7 @@ sohl:
             amputability: low
             shockValue: 5
             probWeight: 2
-            protectionBase:
-              blunt: 4
-              edged: 3
-              piercing: 2
-              fire: 4
+            protectionBase: {blunt: 4, edged: 3, piercing: 2, fire: 4}
           - name: Left Foreleg
             shortcode: lforelegloc
             bodyPartCode: lforelegpart
@@ -217,11 +169,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 4
-              edged: 3
-              piercing: 2
-              fire: 4
+            protectionBase: {blunt: 4, edged: 3, piercing: 2, fire: 4}
           - name: Right Foreleg
             shortcode: rforelegloc
             bodyPartCode: rforelegpart
@@ -229,11 +177,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 4
-              edged: 3
-              piercing: 2
-              fire: 4
+            protectionBase: {blunt: 4, edged: 3, piercing: 2, fire: 4}
           - name: Thorax
             shortcode: thoraxloc
             bodyPartCode: torsopart
@@ -241,11 +185,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 5
-            protectionBase:
-              blunt: 4
-              edged: 3
-              piercing: 2
-              fire: 4
+            protectionBase: {blunt: 4, edged: 3, piercing: 2, fire: 4}
           - name: Abdomen
             shortcode: abdloc
             bodyPartCode: torsopart
@@ -253,11 +193,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 3
-            protectionBase:
-              blunt: 4
-              edged: 3
-              piercing: 2
-              fire: 4
+            protectionBase: {blunt: 4, edged: 3, piercing: 2, fire: 4}
           - name: Pelvis
             shortcode: plvsloc
             bodyPartCode: torsopart
@@ -265,11 +201,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 2
-            protectionBase:
-              blunt: 4
-              edged: 3
-              piercing: 2
-              fire: 4
+            protectionBase: {blunt: 4, edged: 3, piercing: 2, fire: 4}
           - name: Left Hind Leg
             shortcode: lhindlegloc
             bodyPartCode: lhindlegpart
@@ -277,11 +209,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 4
-              edged: 3
-              piercing: 2
-              fire: 4
+            protectionBase: {blunt: 4, edged: 3, piercing: 2, fire: 4}
           - name: Right Hind Leg
             shortcode: rhindlegloc
             bodyPartCode: rhindlegpart
@@ -289,11 +217,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 4
-              edged: 3
-              piercing: 2
-              fire: 4
+            protectionBase: {blunt: 4, edged: 3, piercing: 2, fire: 4}
           - name: Tail
             shortcode: tailloc
             bodyPartCode: tailpart
@@ -301,14 +225,8 @@ sohl:
             amputability: high
             shockValue: 1
             probWeight: 10
-            protectionBase:
-              blunt: 4
-              edged: 3
-              piercing: 2
-              fire: 4
-      weight:
-        base: 80
-        calc: "80"
+            protectionBase: {blunt: 4, edged: 3, piercing: 2, fire: 4}
+      weight: {base: 80, calc: "80"}
       reachBase: 0
       bodyScaleBase: 1.06
       personalFatigue: "enc + 5"

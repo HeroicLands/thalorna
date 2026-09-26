@@ -1,20 +1,11 @@
 ---
-tags:
-  - nkaruthar
-  - spirit-power
-  - draft
-description: "Standing with Mama wa Mito, zohira of rivers—what this emissary of the Flame is petitioned and interceded with."
+shortcode: mamamitosprt
+name: {full: "Mama wa Mito Spirit Power", aliases: [The Mother of Rivers]}
 type: skill
 subType: mystical
-shortcode: mamamitosprt
-name:
-  full: "Mama wa Mito Spirit Power"
-  aliases:
-    - The Mother of Rivers
-data:
-  icon: icon-psychicwaves
-  templatePriority: null
-  packFolder: spiritskillsokharic
+description: "Standing with Mama wa Mito, zohira of rivers—what this emissary of the Flame is petitioned and interceded with."
+tags: [nkaruthar, spirit-power, draft]
+data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsokharic}
 sohl:
   system:
     skillBaseFormula: "@aur, @wil"

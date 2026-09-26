@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Neferusi."
+shortcode: neferusi
+name: {full: Neferusi, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Neferusi."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - neferusinome
+  parents: [neferusinome]
   population: 38000
   packFolder: upperrivernomes
-name:
-  full: Neferusi
-  aliases: []
-shortcode: neferusi
 ---
 
 ## Overview

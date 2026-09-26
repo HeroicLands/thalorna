@@ -1,22 +1,15 @@
 ---
-tags:
-  - region
-description: The frozen fjord-lands of northern Ankaris—homeland of the Nordmen, seafarers and raiders of the Asguardian faith.
-name:
-  full: Nordlands Region
-  aliases:
-    - Nordlands
-    - Nordheim
 shortcode: nrdlndsrgn
+name: {full: Nordlands Region, aliases: [Nordlands, Nordheim]}
 type: place
 subType: region
+description: The frozen fjord-lands of northern Ankaris—homeland of the Nordmen, seafarers and raiders of the Asguardian faith.
+tags: [region]
 data:
   icon: null
   demonym: Nordmen
-  lore:
-    - humanflk
-  parents:
-    - ankrscntnnt
+  lore: [humanflk]
+  parents: [ankrscntnnt]
   population: 2000000
   packFolder: nordlands
 

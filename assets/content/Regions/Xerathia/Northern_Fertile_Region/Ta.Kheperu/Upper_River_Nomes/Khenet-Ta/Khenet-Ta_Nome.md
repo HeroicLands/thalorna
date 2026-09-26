@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: "Old assize-courts; a nome famous for its lawyer-priests and land-survey scribes—the land of the Nome of Khenet-Ta, one of the upper-river nomes of Ta'Kheperu."
-name:
-  full: Khenet-Ta Nome
-  aliases: []
 shortcode: khenettanome
+name: {full: Khenet-Ta Nome, aliases: []}
 type: place
 subType: region
+description: "Old assize-courts; a nome famous for its lawyer-priests and land-survey scribes—the land of the Nome of Khenet-Ta, one of the upper-river nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 420000
   packFolder: upperrivernomes
 ---

@@ -1,24 +1,17 @@
 ---
-tags: []
-name:
-  full: Flame
-  aliases: []
-description: "Conjures bright persistent flame; ignites targets or illuminates darkness."
 shortcode: flame
+name: {full: Flame, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
-  packFolder: spells
+description: "Conjures bright persistent flame; ignites targets or illuminates darkness."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Flame

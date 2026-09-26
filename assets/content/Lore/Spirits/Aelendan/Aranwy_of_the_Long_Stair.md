@@ -1,16 +1,11 @@
 ---
-tags:
-  - draft
-  - first-gods
+shortcode: aranwyspr
+name: {full: Aranwy of the Long Stair, aliases: []}
 type: lore
 subType: spirit
 description: "River-mother of the Long Stair—exacting, exact, and the reason nobody climbs past the lowest pool."
-name:
-  full: Aranwy of the Long Stair
-  aliases: []
-shortcode: aranwyspr
-data:
-  packFolder: lorespiritsaelendan
+tags: [draft, first-gods]
+data: {packFolder: lorespiritsaelendan}
 ---
 
 - **Kind:** Water-kin, of [[lore-thekindred|the Kindred]]

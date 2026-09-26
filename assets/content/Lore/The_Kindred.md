@@ -1,10 +1,5 @@
 ---
-tags:
-  - first-gods
-  - religion
-type: lore
-subType: spirit
-description: "The animal and place spirits who serve the Two Powers—venerated, appeased, or warded against by the Áelendan tribes, and the substance of daily religious practice."
+shortcode: thekindred
 name:
   full: The Kindred
   aliases:
@@ -12,9 +7,11 @@ name:
     - The Kindred of the First
     - The Servants of the First
     - Kindred of the First
-shortcode: thekindred
-data:
-  packFolder: settinglore
+type: lore
+subType: spirit
+description: "The animal and place spirits who serve the Two Powers—venerated, appeased, or warded against by the Áelendan tribes, and the substance of daily religious practice."
+tags: [first-gods, religion]
+data: {packFolder: settinglore}
 ---
 
 - **Parent pantheon:** [[affiliation-firstgods|The First Gods]]

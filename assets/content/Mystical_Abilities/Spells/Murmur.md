@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Murmur
-  aliases:
-    - Whisper
-description: "Whispered suggestion influencing target's thoughts and decisions."
 shortcode: murmur
+name: {full: Murmur, aliases: [Whisper]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Whispered suggestion influencing target's thoughts and decisions."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Whisper

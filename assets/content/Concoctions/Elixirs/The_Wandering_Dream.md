@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: The Wandering Dream
-  aliases:
-    - Dreamwalk Elixir
-description: "Opalescent shifting liquid; projects consciousness to distant locations."
 shortcode: elxdrm
+name: {full: The Wandering Dream, aliases: [Dreamwalk Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Opalescent shifting liquid; projects consciousness to distant locations."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

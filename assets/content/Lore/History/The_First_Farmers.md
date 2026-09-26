@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "Within a few centuries of their arrival the Khazári teach the peoples nearest their first holds to farm—water-works, drainage, terracing and the granary—because a hold needs a larder, and human civilization is what the knowledge became."
+shortcode: firstfarmr
+name: {full: The Making of the First Farmers, aliases: [The Larder]}
 type: lore
 subType: history
-name:
-  full: The Making of the First Farmers
-  aliases:
-    - The Larder
-shortcode: firstfarmr
-data:
-  packFolder: settinglore
+description: "Within a few centuries of their arrival the Khazári teach the peoples nearest their first holds to farm—water-works, drainage, terracing and the granary—because a hold needs a larder, and human civilization is what the knowledge became."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: making

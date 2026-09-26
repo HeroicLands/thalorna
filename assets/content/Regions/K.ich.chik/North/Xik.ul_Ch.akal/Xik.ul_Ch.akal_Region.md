@@ -1,19 +1,14 @@
 ---
-tags:
-  - region
-description: "Lakes, rivers, portage-routes and maple forest—the land of Xik'ul Ch'akal, in Northern K'ich'chik."
-name:
-  full: Xik'ul Ch'akal Region
-  aliases: []
 shortcode: xikulchaklrgn
+name: {full: Xik'ul Ch'akal Region, aliases: []}
 type: place
 subType: region
+description: "Lakes, rivers, portage-routes and maple forest—the land of Xik'ul Ch'akal, in Northern K'ich'chik."
+tags: [region]
 data:
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - nrthrnkchchk
+  lore: [humanflk]
+  parents: [nrthrnkchchk]
   population: null
   packFolder: xikulchakal
 

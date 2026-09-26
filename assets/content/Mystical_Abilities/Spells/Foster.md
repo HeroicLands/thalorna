@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Foster
-  aliases:
-    - Nurture
-description: "Accelerates growth; crops ripen fast and creatures mature rapidly."
 shortcode: foster
+name: {full: Foster, aliases: [Nurture]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
-  packFolder: spells
+description: "Accelerates growth; crops ripen fast and creatures mature rapidly."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Nurture

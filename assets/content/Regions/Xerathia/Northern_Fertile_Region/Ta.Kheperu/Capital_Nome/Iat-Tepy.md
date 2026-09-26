@@ -1,25 +1,17 @@
 ---
-tags:
-  - precinct
-  - city
-  - sacred
+shortcode: iattepy
+name: {full: Iat-Tepy, aliases: [The Sacred Island, The First Mound]}
 type: place
 subType: settlement
+description: "The sacred midstream island at the heart of Wasetkara—held to be the primeval mound where creation began, walled in white limestone, and bearing the two poles of imperial power: the Great Temple of Rā and the palace of the Per-Aá, with the great flood-gauge called the Measure."
+tags: [precinct, city, sacred]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - wasetkaranome
+  parents: [wasetkaranome]
   population: 4000
   packFolder: capitalnome
-description: "The sacred midstream island at the heart of Wasetkara—held to be the primeval mound where creation began, walled in white limestone, and bearing the two poles of imperial power: the Great Temple of Rā and the palace of the Per-Aá, with the great flood-gauge called the Measure."
-name:
-  full: Iat-Tepy
-  aliases:
-    - The Sacred Island
-    - The First Mound
-shortcode: iattepy
 ---
 
 ## Iat-Tepy—the Sacred Island

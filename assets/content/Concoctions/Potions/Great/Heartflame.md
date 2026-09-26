@@ -1,18 +1,11 @@
 ---
-tags:
-  - great-elixir
-name:
-  full: Heartflame
-  aliases:
-    - Potion, Stimulant, Great
-description: "Blazing red-gold liquid; grants enhanced strength and physical power."
 shortcode: ptnstmg
+name: {full: Heartflame, aliases: ["Potion, Stimulant, Great"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: great
+description: "Blazing red-gold liquid; grants enhanced strength and physical power."
+tags: [great-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: great}
 sohl:
   system:
     weightBase: 0.25

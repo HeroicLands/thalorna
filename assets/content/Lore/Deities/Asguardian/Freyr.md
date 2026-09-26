@@ -1,12 +1,9 @@
 ---
-tags: []
-description: "The Healer of the Asguardian gods—fertility, the harvest, peace, and the mending of the body."
+shortcode: freyrdty
+name: {full: Fréyr, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Fréyr
-  aliases: []
-shortcode: freyrdty
-data:
-  packFolder: deitiesasguardian
+description: "The Healer of the Asguardian gods—fertility, the harvest, peace, and the mending of the body."
+tags: []
+data: {packFolder: deitiesasguardian}
 ---

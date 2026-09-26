@@ -1,24 +1,17 @@
 ---
-tags: []
-name:
-  full: Monitor
-  aliases: []
-description: "Creates magical eye observing distant location; relays visual information."
 shortcode: monitor
+name: {full: Monitor, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Creates magical eye observing distant location; relays visual information."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Monitor

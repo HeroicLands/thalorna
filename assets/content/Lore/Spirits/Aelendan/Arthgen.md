@@ -1,16 +1,11 @@
 ---
-tags:
-  - draft
-  - first-gods
+shortcode: arthgenspr
+name: {full: "Arthgen, the Bear of the High Corries", aliases: []}
 type: lore
 subType: spirit
 description: "Bear-spirit of the high corries—warded against in winter and venerated in summer, the same spirit both times."
-name:
-  full: Arthgen, the Bear of the High Corries
-  aliases: []
-shortcode: arthgenspr
-data:
-  packFolder: lorespiritsaelendan
+tags: [draft, first-gods]
+data: {packFolder: lorespiritsaelendan}
 ---
 
 - **Kind:** Animal-kin, of [[lore-thekindred|the Kindred]]

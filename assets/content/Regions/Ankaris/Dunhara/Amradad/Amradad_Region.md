@@ -1,21 +1,15 @@
 ---
-tags:
-  - region
-description: The settled corner of the Dunhara—walled cities, their oases, and the caravan routes that link them, held by the Sultanate of Amradad.
-name:
-  full: Amradad Region
-  aliases:
-    - Amradad
 shortcode: amradadrgn
+name: {full: Amradad Region, aliases: [Amradad]}
 type: place
 subType: region
+description: The settled corner of the Dunhara—walled cities, their oases, and the caravan routes that link them, held by the Sultanate of Amradad.
+tags: [region]
 data:
   icon: null
   demonym: Amradi
-  lore:
-    - humanflk
-  parents:
-    - dunharargn
+  lore: [humanflk]
+  parents: [dunharargn]
   population: 2000000
   packFolder: amradad
 ---

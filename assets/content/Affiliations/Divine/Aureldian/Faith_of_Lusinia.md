@@ -1,10 +1,10 @@
 ---
-description: "Creation."
-tags:
-  - aureldian
-  - religion
+shortcode: lusinia
+name: {full: Faith of Lusinia, aliases: [The World-Weaver, Lúsinía]}
 type: affiliation
 subType: faithtradition
+description: "Creation."
+tags: [aureldian, religion]
 data:
   banner: faithbnr
   icon: lusinia
@@ -15,21 +15,18 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the
-      Magistra Vitae above them. The lay faithful keep the feasts without office.
+      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Magistra Vitae above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out—denied the rites, the temple and the burial the faith promises, which is the one
-          sentence it can pass that outlives the body.
+          Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
         lore: layfaithfulrnk
         description: >-
-          The lay faithful, who keep the feasts and the observances of the god without holding office
-          in the temple.
+          The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
         title: Acolytes of the Spring
         lore: initiaternk
@@ -58,22 +55,11 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - lusiniadty
-  parents:
-    - arldnpnthn
-  relations:
-    arldnpnthn: aligned
+  lore: [lusiniadty]
+  parents: [arldnpnthn]
+  relations: {arldnpnthn: aligned}
   packFolder: pantheonsaureldian
-name:
-  full: Faith of Lusinia
-  aliases:
-    - The World-Weaver
-    - Lúsinía
-shortcode: lusinia
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 Goddess of life, earth, and creation. Lúsinía spins the fabric of existence and nurtures all living beings, from the smallest seed to the mightiest beast.

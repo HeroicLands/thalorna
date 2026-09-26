@@ -1,11 +1,9 @@
 ---
-description: "Confederation of warrior tribes inhabiting the Vrystwald forests—hardy people bound by clan honor, hunting tradition, and resistance to foreign rule."
-type: affiliation
-name:
-  full: Vrystwald Tribes
-  aliases: []
 shortcode: vrystwldtrbs
+name: {full: Vrystwald Tribes, aliases: []}
+type: affiliation
 subType: polity
+description: "Confederation of warrior tribes inhabiting the Vrystwald forests—hardy people bound by clan honor, hunting tradition, and resistance to foreign rule."
 data:
   templatePriority: null
   demonym: Varokh
@@ -19,20 +17,17 @@ data:
         title: Kinless
         lore: outlawrnk
         description: >-
-          Cast out by their own kin and claimed by none; owed no hospitality, no water and no
-          vengeance.
+          Cast out by their own kin and claimed by none; owed no hospitality, no water and no vengeance.
       - level: 1
         title: Bondservant
         lore: bondservantrnk
         description: >-
-          Held in service or debt to a household, and answerable through its head rather than
-          in their own name.
+          Held in service or debt to a household, and answerable through its head rather than in their own name.
       - level: 2
         title: Dependent
         lore: dependentrnk
         description: >-
-          Sheltered by a household without being of its blood—a client, a widow's family,
-          a taken-in stranger.
+          Sheltered by a household without being of its blood—a client, a widow's family, a taken-in stranger.
       - level: 3
         title: Kinsman
         lore: kinsmanrnk
@@ -41,19 +36,16 @@ data:
         title: Householder
         lore: commonerrnk
         description: >-
-          Head of a tent or hall, holding its herds and its people and speaking for them at
-          the moot.
+          Head of a tent or hall, holding its herds and its people and speaking for them at the moot.
       - level: 5
         title: Elder
         lore: elderrnk
-        description: Senior of a lineage, whose memory of custom and precedent settles what
-          the young dispute.
+        description: Senior of a lineage, whose memory of custom and precedent settles what the young dispute.
       - level: 6
         title: Chieftain
         lore: councillorrnk
         description: >-
-          Leading a clan or tribe by descent and by consent together, and losing it when either
-          fails.
+          Leading a clan or tribe by descent and by consent together, and losing it when either fails.
       - level: 7
         title: Delegate
         lore: councillorrnk
@@ -62,52 +54,31 @@ data:
         title: Speaker of the Council
         lore: prsdngffcrrnk
         description: >-
-          Presiding over the common council, holding the peace of its meeting and no authority
-          beyond it.
+          Presiding over the common council, holding the peace of its meeting and no authority beyond it.
     offices:
-      Speaker of the Council: Presiding officer of the common council, keeper of its peace
-        and of the order of speaking.
+      Speaker of the Council: Presiding officer of the common council, keeper of its peace and of the order of speaking.
       Chieftain: Head of a clan or tribe, holding by descent and consent together.
-      Elder: Senior of a lineage, whose recollection of custom settles disputes the young
-        cannot.
+      Elder: Senior of a lineage, whose recollection of custom settles disputes the young cannot.
       Lawkeeper: >-
-        Keeper of the customs the tribes hold in common, and arbiter where two tribes' customs
-        differ.
+        Keeper of the customs the tribes hold in common, and arbiter where two tribes' customs differ.
       Host-Caller: Summoner of the common muster when a threat concerns every tribe.
-      Truce-Warden: Holder of the peace at the council and at the seasonal markets, empowered
-        to enforce it.
+      Truce-Warden: Holder of the peace at the council and at the seasonal markets, empowered to enforce it.
       Water-Warden: >-
-        Keeper of the wells, springs or pastures the tribes share, and of the order in which
-        they are used.
+        Keeper of the wells, springs or pastures the tribes share, and of the order in which they are used.
       Guide: >-
-        Holder of the routes—their water, their seasons and their dangers—and hired at
-        a price accordingly.
-      Envoy: Sent to treat with a settled power, and protected by custom while he carries
-        the word.
+        Holder of the routes—their water, their seasons and their dangers—and hired at a price accordingly.
+      Envoy: Sent to treat with a settled power, and protected by custom while he carries the word.
       Keeper of the Feud: >-
-        Recorder of blood owed and blood paid between kindreds, without whom a settlement
-        cannot be reckoned.
+        Recorder of blood owed and blood paid between kindreds, without whom a settlement cannot be reckoned.
   seat: waldburg
-  domains:
-    - vrystwald
+  domains: [vrystwald]
   population: 500000
-  economy:
-    - affiliation-clgmrgntrrm
-    - lore-bartercnmy
-    - lore-kinhalcrdt
-    - lore-vylrncrncy
-  lore:
-    - humanflk
+  economy: [affiliation-clgmrgntrrm, lore-bartercnmy, lore-kinhalcrdt, lore-vylrncrncy]
+  lore: [humanflk]
   parents: []
-  relations:
-    asguardian: aligned
-    kngdmnrdhm: rival
-    vylarinmpr: rival
+  relations: {asguardian: aligned, kngdmnrdhm: rival, vylarinmpr: rival}
   packFolder: vrystwald
-sohl:
-  system:
-    commonSkills:
-      - varokhlng
+sohl: {system: {commonSkills: [varokhlng]}}
 ---
 
 ## Overview

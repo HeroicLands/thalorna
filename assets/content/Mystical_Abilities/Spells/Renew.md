@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Renew
-  aliases:
-    - Balm
-description: "Rapid healing of major wounds; restores vitality and function."
 shortcode: renew
+name: {full: Renew, aliases: [Balm]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
-  packFolder: spells
+description: "Rapid healing of major wounds; restores vitality and function."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Balm

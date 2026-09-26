@@ -1,7 +1,5 @@
 ---
-tags:
-  - character
-  - reference
+shortcode: kamenwati
 name:
   full: Kamenwati
   title: Hem'Netjer
@@ -9,15 +7,14 @@ name:
   clan: ""
   home: ankhsetun
   aliases: []
-description: "A junior priest at the Má'át temple in Ankh-Setûn—Hotep's home city and the temple where he began his career."
-shortcode: kamenwati
 type: being
+description: "A junior priest at the Má'át temple in Ankh-Setûn—Hotep's home city and the temple where he began his career."
+tags: [character, reference]
 data:
   species: humanflk
   templatePriority: null
   archetypes: []
   stations: []
   lore: []
-  homes:
-    - ankhsetun
+  homes: [ankhsetun]
 ---

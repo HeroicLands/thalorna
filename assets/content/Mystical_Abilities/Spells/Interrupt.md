@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Interrupt
-  aliases:
-    - Counter
-description: "Dissonant lance disrupting rival's spell mid-casting; scatters gathered power."
 shortcode: intrrpt
+name: {full: Interrupt, aliases: [Counter]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Dissonant lance disrupting rival's spell mid-casting; scatters gathered power."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Counter

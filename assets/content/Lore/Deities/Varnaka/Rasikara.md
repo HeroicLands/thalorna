@@ -1,14 +1,11 @@
 ---
-tags: []
-description: "The Flame of Renewal in the Varnaka pantheon, whose fire destroys so that the cycle may begin again."
+shortcode: rasikaradty
+name: {full: Rásikara, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Rásikara
-  aliases: []
-shortcode: rasikaradty
-data:
-  packFolder: deitiesvarnaka
+description: "The Flame of Renewal in the Varnaka pantheon, whose fire destroys so that the cycle may begin again."
+tags: []
+data: {packFolder: deitiesvarnaka}
 ---
 
 _The Flame of Renewal—a lean, burning figure standing within a ring of broken chains._

@@ -1,21 +1,11 @@
 ---
-tags:
-  - fortress
-  - city
-description: "Fortress City"
+shortcode: tzalamwitz
+name: {full: Tz’alam Witz, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - balamtzakurgn
-  population: 15000
-  packFolder: south
-name:
-  full: Tz’alam Witz
-  aliases: []
-shortcode: tzalamwitz
+description: "Fortress City"
+tags: [fortress, city]
+data: {demonym: null, lore: [], parents: [balamtzakurgn], population: 15000, packFolder: south}
 ---
 
 ## Overview

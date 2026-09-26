@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Illusion
-  aliases:
-    - Glamour
-description: "Luminous aura enhancing appearance; subjects glow with inner radiance."
 shortcode: illusion
+name: {full: Illusion, aliases: [Glamour]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Luminous aura enhancing appearance; subjects glow with inner radiance."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Glamour

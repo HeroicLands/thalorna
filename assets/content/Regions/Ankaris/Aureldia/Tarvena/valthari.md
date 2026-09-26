@@ -1,20 +1,11 @@
 ---
-tags:
-  - city
-  - free
-description: "Free City"
+shortcode: valthari
+name: {full: Valthari, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - tarvenirgn
-  population: 45000
-name:
-  full: Valthari
-  aliases: []
-shortcode: valthari
+description: "Free City"
+tags: [city, free]
+data: {demonym: null, lore: [], parents: [tarvenirgn], population: 45000}
 ---
 
 ## Overview

@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Touch
-  aliases:
-    - Caress
-description: "Caster's hands conduct magic; enables touch-based spellcasting."
 shortcode: touch
+name: {full: Touch, aliases: [Caress]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
-  packFolder: spells
+description: "Caster's hands conduct magic; enables touch-based spellcasting."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Caress

@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Duskcraft
-  aliases:
-    - Shadow
-description: "Summons darkness; obscures vision within spreading circle of shadow."
 shortcode: dskcrft
+name: {full: Duskcraft, aliases: [Shadow]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
-  packFolder: spells
+description: "Summons darkness; obscures vision within spreading circle of shadow."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Shadow

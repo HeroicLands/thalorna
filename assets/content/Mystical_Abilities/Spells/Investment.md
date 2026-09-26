@@ -1,24 +1,17 @@
 ---
-tags: []
-name:
-  full: Investment
-  aliases: []
-description: "Ritual binding substantial arcane energy into vessel; months-long persistence."
 shortcode: invstmnt
+name: {full: Investment, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Ritual binding substantial arcane energy into vessel; months-long persistence."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Investment

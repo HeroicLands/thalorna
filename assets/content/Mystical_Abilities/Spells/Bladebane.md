@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Bladebane
-  aliases:
-    - Swordbreaker
-description: "Curse upon weapon; blades dull and shatter under strain."
 shortcode: bldbn
+name: {full: Bladebane, aliases: [Swordbreaker]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
-  packFolder: spells
+description: "Curse upon weapon; blades dull and shatter under strain."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Swordbreaker

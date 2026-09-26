@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: Physéran Balm
-  aliases:
-    - Healing Elixir
-description: "Vibrant golden life elixir; banishes wounds, bleeding, exhaustion."
 shortcode: elxheal
+name: {full: Physéran Balm, aliases: [Healing Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Vibrant golden life elixir; banishes wounds, bleeding, exhaustion."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

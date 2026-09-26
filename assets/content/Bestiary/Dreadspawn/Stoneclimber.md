@@ -1,13 +1,9 @@
 ---
-tags:
-  - dreadspawn
-  - creature
-name:
-  full: Stoneclimber
-  aliases: []
-description: "A patient, cunning apex predator of rocky highlands, perfectly adapted to ambush prey across steep three-dimensional terrain."
 shortcode: stnclmbr
+name: {full: Stoneclimber, aliases: []}
 type: being
+description: "A patient, cunning apex predator of rocky highlands, perfectly adapted to ambush prey across steep three-dimensional terrain."
+tags: [dreadspawn, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -42,21 +38,21 @@ sohl:
     rea: 1d4+9
     cre: 1d4+9
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 18 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 18 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 18 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 85 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 80 } }
-    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 56 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 68 } }
-    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 45 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 18}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 18}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 18}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 12}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 85}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 80}}
+    - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 39}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 56}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 68}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 45}}
     - name: Rending Claw
       type: skill
       system:
@@ -64,35 +60,20 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 72
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: claw
           name: Rending Claw
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 4
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 8
-            modifier: 3
-            aspect: edged
+          attack: {disabled: false, spread: 4, modifier: 0}
+          impactBase: {numDice: 1, die: 8, modifier: 3, aspect: edged}
           lengthBase: 2
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
     - name: Snapping Bite
       type: skill
       system:
@@ -100,63 +81,38 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 72
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: bite
           name: Snapping Bite
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 2
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 4
-            aspect: piercing
+          attack: {disabled: false, spread: 2, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 4, aspect: piercing}
           lengthBase: 1
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
   system:
     body:
       structure:
         zones:
-          - name: Forequarters
-            shortcode: fqtrzone
-            probWeight: 3
-          - name: Torso
-            shortcode: torsozone
-            probWeight: 3
-          - name: Hindquarters
-            shortcode: hindqtrzone
-            probWeight: 3
+          - {name: Forequarters, shortcode: fqtrzone, probWeight: 3}
+          - {name: Torso, shortcode: torsozone, probWeight: 3}
+          - {name: Hindquarters, shortcode: hindqtrzone, probWeight: 3}
         parts:
           - name: Head
             shortcode: headpart
             bodyZoneCode: fqtrzone
-            roles:
-              - vital
-              - manipulator
+            roles: [vital, manipulator]
             canHoldItem: false
             probWeight: 10
           - name: Left Foreleg
             shortcode: lforelegpart
             bodyZoneCode: fqtrzone
-            roles: &a1
-              - locomotor
-              - manipulator
+            roles: &a1 [locomotor, manipulator]
             canHoldItem: false
             probWeight: 5
           - name: Right Foreleg
@@ -168,29 +124,25 @@ sohl:
           - name: Torso
             shortcode: torsopart
             bodyZoneCode: torsozone
-            roles:
-              - core
+            roles: [core]
             canHoldItem: false
             probWeight: 10
           - name: Left Hind Leg
             shortcode: lhindlegpart
             bodyZoneCode: hindqtrzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 5
           - name: Right Hind Leg
             shortcode: rhindlegpart
             bodyZoneCode: hindqtrzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 5
           - name: Tail
             shortcode: tailpart
             bodyZoneCode: hindqtrzone
-            roles:
-              - manipulator
+            roles: [manipulator]
             canHoldItem: false
             probWeight: 10
         locations:
@@ -201,11 +153,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 3
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
           - name: Neck
             shortcode: neckloc
             bodyPartCode: headpart
@@ -213,11 +161,7 @@ sohl:
             amputability: low
             shockValue: 5
             probWeight: 2
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
           - name: Left Foreleg
             shortcode: lforelegloc
             bodyPartCode: lforelegpart
@@ -225,11 +169,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
           - name: Right Foreleg
             shortcode: rforelegloc
             bodyPartCode: rforelegpart
@@ -237,11 +177,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
           - name: Thorax
             shortcode: thoraxloc
             bodyPartCode: torsopart
@@ -249,11 +185,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 5
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
           - name: Abdomen
             shortcode: abdloc
             bodyPartCode: torsopart
@@ -261,11 +193,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 3
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
           - name: Pelvis
             shortcode: plvsloc
             bodyPartCode: torsopart
@@ -273,11 +201,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 2
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
           - name: Left Hind Leg
             shortcode: lhindlegloc
             bodyPartCode: lhindlegpart
@@ -285,11 +209,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
           - name: Right Hind Leg
             shortcode: rhindlegloc
             bodyPartCode: rhindlegpart
@@ -297,11 +217,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
           - name: Tail
             shortcode: tailloc
             bodyPartCode: tailpart
@@ -309,14 +225,8 @@ sohl:
             amputability: high
             shockValue: 1
             probWeight: 10
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
-      weight:
-        base: 200
-        calc: "200"
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
+      weight: {base: 200, calc: "200"}
       reachBase: 0
       bodyScaleBase: 1.38
       personalFatigue: "enc + 5"
@@ -328,18 +238,9 @@ sohl:
         encumbrance: "floor(wt/4)"
         strMod: "-5 * floor((str - 10) / 2)"
         factors:
-          - scope: topography
-            key: steep
-            mode: add
-            textValue: "0"
-          - scope: surface_cover
-            key: alpine
-            mode: add
-            textValue: "0"
-          - scope: surface_cover
-            key: barren
-            mode: add
-            textValue: "0"
+          - {scope: topography, key: steep, mode: add, textValue: "0"}
+          - {scope: surface_cover, key: alpine, mode: add, textValue: "0"}
+          - {scope: surface_cover, key: barren, mode: add, textValue: "0"}
         disabled: false
 ---
 

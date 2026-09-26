@@ -1,22 +1,11 @@
 ---
-tags:
-  - region
-  - valley
-  - inland
-description: "The fertile heart of Aldorath and the breadbasket of Aelwyth—the grain country that feeds the island and makes the kingdom the largest power on it."
+shortcode: aldorvale
+name: {full: The Aldorvale, aliases: []}
 type: place
 subType: region
-data:
-  demonym: null
-  lore: []
-  parents:
-    - aldorathrgn
-  population: 95000
-  packFolder: aelwyth
-name:
-  full: The Aldorvale
-  aliases: []
-shortcode: aldorvale
+description: "The fertile heart of Aldorath and the breadbasket of Aelwyth—the grain country that feeds the island and makes the kingdom the largest power on it."
+tags: [region, valley, inland]
+data: {demonym: null, lore: [], parents: [aldorathrgn], population: 95000, packFolder: aelwyth}
 ---
 
 The **Aldorvale** is the broad, lush, well-watered heart of [[affiliation-kngdmldrth|Aldorath]], and the

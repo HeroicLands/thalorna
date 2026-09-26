@@ -1,13 +1,9 @@
 ---
-tags:
-  - dreadspawn
-  - creature
-name:
-  full: Shadowspinner
-  aliases: []
-description: "An infernally intelligent apex arachnid that engineers light-drinking webs to trap prey and shatter the spirits of onlookers."
 shortcode: shdwspnn
+name: {full: Shadowspinner, aliases: []}
 type: being
+description: "An infernally intelligent apex arachnid that engineers light-drinking webs to trap prey and shatter the spirits of onlookers."
+tags: [dreadspawn, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -42,21 +38,21 @@ sohl:
     rea: 1d6+10
     cre: 1d6+10
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 18 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 20 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 80 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 80 } }
-    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 42 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 60 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 64 } }
-    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 43 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 18}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 20}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 14}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 80}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 80}}
+    - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 42}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 64}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 43}}
     - name: Venomous Bite
       type: skill
       system:
@@ -64,36 +60,20 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 64
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: bite
           name: Venomous Bite
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 2
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 8
-            modifier: 3
-            aspect: piercing
+          attack: {disabled: false, spread: 2, modifier: 0}
+          impactBase: {numDice: 1, die: 8, modifier: 3, aspect: piercing}
           lengthBase: 1
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
-            poison: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true, poison: true}
     - name: Raking Limbs
       type: skill
       system:
@@ -101,76 +81,50 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 64
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: claw
           name: Raking Limbs
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 4
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 8
-            modifier: 2
-            aspect: edged
+          attack: {disabled: false, spread: 4, modifier: 0}
+          impactBase: {numDice: 1, die: 8, modifier: 2, aspect: edged}
           lengthBase: 2
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
   system:
     body:
       structure:
         zones:
-          - name: Cephalothorax
-            shortcode: cephzone
-            probWeight: 3
-          - name: Abdomen
-            shortcode: abdomenzone
-            probWeight: 3
-          - name: Legs
-            shortcode: legszone
-            probWeight: 4
+          - {name: Cephalothorax, shortcode: cephzone, probWeight: 3}
+          - {name: Abdomen, shortcode: abdomenzone, probWeight: 3}
+          - {name: Legs, shortcode: legszone, probWeight: 4}
         parts:
           - name: Cephalothorax
             shortcode: cephpart
             bodyZoneCode: cephzone
-            roles:
-              - vital
-              - manipulator
+            roles: [vital, manipulator]
             canHoldItem: false
             probWeight: 10
           - name: Abdomen
             shortcode: abdomenpart
             bodyZoneCode: abdomenzone
-            roles:
-              - core
+            roles: [core]
             canHoldItem: false
             probWeight: 10
           - name: Left Legs
             shortcode: llegspart
             bodyZoneCode: legszone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 5
           - name: Right Legs
             shortcode: rlegspart
             bodyZoneCode: legszone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 5
         locations:
@@ -181,11 +135,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 7
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
           - name: Fangs
             shortcode: fangloc
             bodyPartCode: cephpart
@@ -193,11 +143,7 @@ sohl:
             amputability: high
             shockValue: 2
             probWeight: 3
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
           - name: Abdomen
             shortcode: abdloc
             bodyPartCode: abdomenpart
@@ -205,11 +151,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 10
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
           - name: Left Legs
             shortcode: llegsloc
             bodyPartCode: llegspart
@@ -217,11 +159,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
           - name: Right Legs
             shortcode: rlegsloc
             bodyPartCode: rlegspart
@@ -229,14 +167,8 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 7
-              edged: 6
-              piercing: 5
-              fire: 7
-      weight:
-        base: 1
-        calc: "1"
+            protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
+      weight: {base: 1, calc: "1"}
       reachBase: 0
       bodyScaleBase: 1.28
       personalFatigue: "enc + 5"

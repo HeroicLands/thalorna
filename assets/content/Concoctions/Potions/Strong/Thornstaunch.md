@@ -1,18 +1,11 @@
 ---
-tags:
-  - strong-elixir
-name:
-  full: Thornstaunch
-  aliases:
-    - Potion, Coagulant, Strong
-description: "Deep maroon almost-black coagulant; stops bleeding effectively."
 shortcode: ptncoags
+name: {full: Thornstaunch, aliases: ["Potion, Coagulant, Strong"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: strong
+description: "Deep maroon almost-black coagulant; stops bleeding effectively."
+tags: [strong-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: strong}
 sohl:
   system:
     weightBase: 0.25

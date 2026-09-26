@@ -1,20 +1,9 @@
 ---
-tags:
-  - village
-  - river
-  - inland
-description: "Cotton village of the lower curve, whose weaver-caste workshops clothe most of the janapada."
+shortcode: karpasagrama
+name: {full: Kārpāsagrāma, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - dhanurkotajnpd
-  population: 930
-  packFolder: vedyara
-name:
-  full: Kārpāsagrāma
-  aliases: []
-shortcode: karpasagrama
+description: "Cotton village of the lower curve, whose weaver-caste workshops clothe most of the janapada."
+tags: [village, river, inland]
+data: {demonym: null, lore: [], parents: [dhanurkotajnpd], population: 930, packFolder: vedyara}
 ---

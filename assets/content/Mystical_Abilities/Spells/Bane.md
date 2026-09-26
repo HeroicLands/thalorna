@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Bane
-  aliases:
-    - Malediction
-description: "Curse; target suffers weakness; failures cascade into fresh misfortune."
 shortcode: bane
+name: {full: Bane, aliases: [Malediction]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Curse; target suffers weakness; failures cascade into fresh misfortune."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Malediction

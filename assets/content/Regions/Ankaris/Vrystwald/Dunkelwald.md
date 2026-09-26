@@ -1,19 +1,9 @@
 ---
-tags:
-  - settlement
-  - forest
-description: "Deep Forest Settlement"
+shortcode: dunkelwald
+name: {full: Dunkelwald, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vrystwald
-  population: 400
-  packFolder: vrystwald
-name:
-  full: Dunkelwald
-  aliases: []
-shortcode: dunkelwald
+description: "Deep Forest Settlement"
+tags: [settlement, forest]
+data: {demonym: null, lore: [], parents: [vrystwald], population: 400, packFolder: vrystwald}
 ---

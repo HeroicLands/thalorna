@@ -1,19 +1,11 @@
 ---
-tags: []
-description: "A crystalline artifact holding the essence of the elemental spirits called the Dhiríkri—it quickens natural growth around it and manipulates time within its arálwen, and lies at the center of Úqua-Arálwen behind the Maze of Echoes."
-type: miscgear
-name:
-  full: Heart of Dhiríkri
-  aliases: []
 shortcode: heartofdhirikri
-data:
-  templatePriority: null
-  packFolder: elavendre
-sohl:
-  system:
-    weightBase: 1
-    valueBase: 0
-    durabilityBase: 10
+name: {full: Heart of Dhiríkri, aliases: []}
+type: miscgear
+description: "A crystalline artifact holding the essence of the elemental spirits called the Dhiríkri—it quickens natural growth around it and manipulates time within its arálwen, and lies at the center of Úqua-Arálwen behind the Maze of Echoes."
+tags: []
+data: {templatePriority: null, packFolder: elavendre}
+sohl: {system: {weightBase: 1, valueBase: 0, durabilityBase: 10}}
 ---
 
 A crystalline artifact believed to hold the essence of the powerful elemental spirits known as the

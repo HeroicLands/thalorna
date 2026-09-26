@@ -1,16 +1,10 @@
 ---
-description: "Travel, trade and communication—the god of the sacbeob, whose road shrines are the nerves of the continent and whose priesthood is mobile by design."
-tags:
-  - itzani
-  - religion
+shortcode: xilanixlan
+name: {full: "Faith of Xilan Ix'lan", aliases: [The Walker of Paths, "Xilan Ix'lan"]}
 type: affiliation
 subType: faithtradition
-name:
-  full: "Faith of Xilan Ix'lan"
-  aliases:
-    - The Walker of Paths
-    - "Xilan Ix'lan"
-shortcode: xilanixlan
+description: "Travel, trade and communication—the god of the sacbeob, whose road shrines are the nerves of the continent and whose priesthood is mobile by design."
+tags: [itzani, religion]
 data:
   banner: faithbnr
   icon: null
@@ -21,110 +15,79 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A single priestly caste serving all ten gods, ranked by degree of initiation and by the
-      blood-debt a person carries rather than by which god they serve; the lay faithful are
-      bound by the calendar that same caste keeps.
+      A single priestly caste serving all ten gods, ranked by degree of initiation and by the blood-debt a person carries rather than by which god they serve; the lay faithful are bound by the calendar that same caste keeps.
     ranks:
       - level: 0
         title: Blood-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a
-          soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one sentence
-          that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: catechumenrnk
         description: >-
-          Consecrated at birth with water on the lips and counted among the faithful, but not
-          yet of an age to give blood or keep the fasts.
+          Consecrated at birth with water on the lips and counted among the faithful, but not yet of an age to give blood or keep the fasts.
       - level: 2
         title: Blood-Giver
         lore: layfaithfulrnk
         description: >-
-          The lay faithful, who pierce tongue or earlobe on the days the calendar appoints and
-          keep its prohibitions without holding office in the temple.
+          The lay faithful, who pierce tongue or earlobe on the days the calendar appoints and keep its prohibitions without holding office in the temple.
       - level: 3
         title: Debt-Bearer
         lore: layfaithfulrnk
         description: >-
-          Bound by a debt pledged beyond what the calendar requires—a captive dedicated in
-          advance, a pilgrimage undertaken, a season of autosacrifice vowed.
+          Bound by a debt pledged beyond what the calendar requires—a captive dedicated in advance, a pilgrimage undertaken, a season of autosacrifice vowed.
       - level: 4
         title: Tq'an'ik
         lore: initiaternk
         description: >-
-          "Edge-Walker"—an initiate serving in the temples while learning the calendar, the
-          sacred texts and the autosacrificial disciplines the priesthood demands of every
-          member.
+          "Edge-Walker"—an initiate serving in the temples while learning the calendar, the sacred texts and the autosacrificial disciplines the priesthood demands of every member.
       - level: 5
         title: Ch'ul'bal
         lore: priestrnk
         description: >-
-          "Sacred Servant"—an ordained priest, trained from childhood in mathematics,
-          astronomy, writing and the reading of celestial signs, who keeps the daily rites and
-          the codices.
+          "Sacred Servant"—an ordained priest, trained from childhood in mathematics, astronomy, writing and the reading of celestial signs, who keeps the daily rites and the codices.
       - level: 6
         title: K'ul
         lore: highpriestrnk
         description: >-
-          "Keeper"—head of one specialist branch within a temple complex, answerable to its
-          K'ul Tq'an and contending with the other branches for resources, precedence and
-          favor.
+          "Keeper"—head of one specialist branch within a temple complex, answerable to its K'ul Tq'an and contending with the other branches for resources, precedence and favor.
       - level: 7
         title: K'ul Tq'an
         lore: highpriestrnk
         description: >-
-          "Sacred Boundary"—high priest of a temple complex, who alone performs the great
-          sacrificial rites at the turning of the cosmic cycles and holds the calculations that
-          predict when an age will end.
+          "Sacred Boundary"—high priest of a temple complex, who alone performs the great sacrificial rites at the turning of the cosmic cycles and holds the calculations that predict when an age will end.
       - level: 8
         title: Presiding K'ul Tq'an
         lore: grandmasterrnk
         description: >-
-          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes
-          the calendar for the whole city, presides at the New Fire Ceremony, and rules whether
-          the gods approve a K'inmah's succession.
+          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the New Fire Ceremony, and rules whether the gods approve a K'inmah's succession.
     offices:
       K'ul Ix'lan: >-
-        Keeper of the paths—head of the branch in a city-state, and the priest who answers
-        for a causeway that has been allowed to fail.
+        Keeper of the paths—head of the branch in a city-state, and the priest who answers for a causeway that has been allowed to fail.
       Warden of the Sacbeob: >-
-        Holds a named stretch of causeway, its surface, its drainage and the shrines along it,
-        and reports its condition each season.
+        Holds a named stretch of causeway, its surface, its drainage and the shrines along it, and reports its condition each season.
       Road Shrine Keeper: >-
-        Resident priest of a single shrine: records travelers, gives refreshment, watches the
-        road, and is a living node of the message network.
+        Resident priest of a single shrine: records travelers, gives refreshment, watches the road, and is a living node of the message network.
       Master of the Blessing: >-
-        Performs the Ix'lan Tzoqol over assembling caravans, anointing travelers and issuing
-        charms cut with the god's glyph.
+        Performs the Ix'lan Tzoqol over assembling caravans, anointing travelers and issuing charms cut with the god's glyph.
       Master of Runners: >-
-        Trains and posts the relay runners, and holds the schedule by which a message crosses
-        the continent.
+        Trains and posts the relay runners, and holds the schedule by which a message crosses the continent.
       Keeper of the Traveller Rolls: >-
-        Consolidates the shrine registers into the branch's record of who moved, when, and
-        carrying what.
+        Consolidates the shrine registers into the branch's record of who moved, when, and carrying what.
       Master of the Fair: >-
-        Convenes the trading festivals, fixes their peace, and adjudicates the disputes that
-        arise under it.
+        Convenes the trading festivals, fixes their peace, and adjudicates the disputes that arise under it.
       Reckoner of Distances: >-
-        Holds the measured lengths and stages between cities, worked with the astronomers, on
-        which every itinerary and toll is based.
+        Holds the measured lengths and stages between cities, worked with the astronomers, on which every itinerary and toll is based.
   seat: null
   domains: []
   population: null
   economy: []
-  lore:
-    - xilanixlandty
-  parents:
-    - itzanpnthn
-  relations:
-    itzanpnthn: aligned
+  lore: [xilanixlandty]
+  parents: [itzanpnthn]
+  relations: {itzanpnthn: aligned}
   packFolder: pantheonitzani
-sohl:
-  system:
-    commonSkills:
-      - xilanixlan
+sohl: {system: {commonSkills: [xilanixlan]}}
 ---
 
 **Domain:** Travel, Trade, Journeys, Messengers, Commerce, Communication

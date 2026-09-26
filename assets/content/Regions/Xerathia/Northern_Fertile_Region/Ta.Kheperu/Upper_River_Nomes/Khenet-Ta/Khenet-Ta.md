@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Khenet-Ta."
+shortcode: khenetta
+name: {full: Khenet-Ta, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Khenet-Ta."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - khenettanome
+  parents: [khenettanome]
   population: 32000
   packFolder: upperrivernomes
-name:
-  full: Khenet-Ta
-  aliases: []
-shortcode: khenetta
 ---
 
 ## Overview

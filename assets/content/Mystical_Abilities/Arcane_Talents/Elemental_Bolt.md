@@ -1,24 +1,17 @@
 ---
-tags: []
-name:
-  full: Elemental Bolt
-  aliases: []
-description: "Throws a bolt of raw elemental force at a target in sight."
 shortcode: eblt
+name: {full: Elemental Bolt, aliases: []}
 type: mysticalability
 subType: arcanetalent
-data:
-  icon: icon-psionics
-  templatePriority: null
-  packFolder: arcanetalents
+description: "Throws a bolt of raw elemental force at a target in sight."
+tags: []
+data: {icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
 sohl:
   system:
     assocSkillCode: ""
     masteryLevelBase: 0
     levelBase: 0
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: ""

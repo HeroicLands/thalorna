@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Khazryn Desert"
 shortcode: ankariskhazryndesert
+name: {full: "Khazryn Desert"}
 type: folder
-data:
-  parent: heroesandknavesankaris
-  color: "#DAA520"
+data: {parent: heroesandknavesankaris, color: "#DAA520"}
 ---

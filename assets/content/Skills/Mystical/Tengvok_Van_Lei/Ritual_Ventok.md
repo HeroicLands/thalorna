@@ -1,19 +1,10 @@
 ---
-tags:
-  - tengvok
-  - faith-skill
-  - draft
+shortcode: ventok
+name: {full: "Ritual: Vëntōk", aliases: [Vëntōk, The Keeper of the Celestial Archive]}
 type: skill
 subType: mystical
-shortcode: ventok
-name:
-  full: "Ritual: Vëntōk"
-  aliases:
-    - Vëntōk
-    - The Keeper of the Celestial Archive
-data:
-  templatePriority: null
-  packFolder: tengvokvanlei
+tags: [tengvok, faith-skill, draft]
+data: {templatePriority: null, packFolder: tengvokvanlei}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: "Date-palm plantations and the sweet delta wines—the land of the Nome of Imet-Pe, one of the delta nomes of Ta'Kheperu."
-name:
-  full: Imet-Pe
-  aliases: []
 shortcode: imetpenome
+name: {full: Imet-Pe, aliases: []}
 type: place
 subType: region
+description: "Date-palm plantations and the sweet delta wines—the land of the Nome of Imet-Pe, one of the delta nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 600000
   packFolder: deltanomes
 ---

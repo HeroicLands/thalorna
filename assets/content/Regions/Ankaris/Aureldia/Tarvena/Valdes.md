@@ -1,19 +1,9 @@
 ---
-tags:
-  - port
-  - town
-description: "Port Town"
+shortcode: valdes
+name: {full: Valdés, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - tarvenirgn
-  population: 6000
-  packFolder: tarvenia
-name:
-  full: Valdés
-  aliases: []
-shortcode: valdes
+description: "Port Town"
+tags: [port, town]
+data: {demonym: null, lore: [], parents: [tarvenirgn], population: 6000, packFolder: tarvenia}
 ---

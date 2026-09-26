@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "Khazártúrn is raised in 5123 BF—seven towers cut from the cliff of a mountain valley, one to each clan, the joint city of all seven and the only thing the Khazári are known to have made as a single people."
+shortcode: khazturnrsd
+name: {full: The Raising of Khazártúrn, aliases: [The Cutting of the Seven Towers]}
 type: lore
 subType: history
-name:
-  full: The Raising of Khazártúrn
-  aliases:
-    - The Cutting of the Seven Towers
-shortcode: khazturnrsd
-data:
-  packFolder: settinglore
+description: "Khazártúrn is raised in 5123 BF—seven towers cut from the cliff of a mountain valley, one to each clan, the joint city of all seven and the only thing the Khazári are known to have made as a single people."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: raising

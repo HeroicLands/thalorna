@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Sense
-  aliases:
-    - Feel
-description: "Grants empathic perception; detects nearby emotions and thoughts."
 shortcode: sense
+name: {full: Sense, aliases: [Feel]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
-  packFolder: spells
+description: "Grants empathic perception; detects nearby emotions and thoughts."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Feel

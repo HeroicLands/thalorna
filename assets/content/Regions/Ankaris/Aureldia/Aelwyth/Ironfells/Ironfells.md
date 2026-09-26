@@ -1,22 +1,11 @@
 ---
-tags:
-  - mountain
-  - inland
-  - coastal
-description: "The great eastern range of Aelwyth—running west to east across Stormveld's southern border, then south down the coast to break into the foothills above Dúnavarre, and holding the island's Khazári."
+shortcode: ironfells
+name: {full: The Ironfells, aliases: []}
 type: place
 subType: feature
-data:
-  demonym: null
-  lore: []
-  parents:
-    - aelwyth
-  population: null
-  packFolder: aelwyth
-name:
-  full: The Ironfells
-  aliases: []
-shortcode: ironfells
+description: "The great eastern range of Aelwyth—running west to east across Stormveld's southern border, then south down the coast to break into the foothills above Dúnavarre, and holding the island's Khazári."
+tags: [mountain, inland, coastal]
+data: {demonym: null, lore: [], parents: [aelwyth], population: null, packFolder: aelwyth}
 ---
 
 The **Ironfells** are the spine of eastern Aelwyth. They rise along the southern border of

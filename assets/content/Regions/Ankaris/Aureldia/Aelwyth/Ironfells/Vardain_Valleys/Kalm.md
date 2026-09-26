@@ -1,23 +1,16 @@
 ---
-tags:
-  - village
-  - mountain
-  - valley
-description: "The grain village of the lower valleys—the flattest, warmest ground the Vardain have, and the one that swelled most when the refugees came up."
+shortcode: kalm
+name: {full: Kalm, aliases: []}
 type: place
 subType: settlement
+description: "The grain village of the lower valleys—the flattest, warmest ground the Vardain have, and the one that swelled most when the refugees came up."
+tags: [village, mountain, valley]
 data:
   demonym: null
-  lore:
-    - vardain
-  parents:
-    - vardainvalleys
+  lore: [vardain]
+  parents: [vardainvalleys]
   population: 900
   packFolder: aelwyth
-name:
-  full: Kalm
-  aliases: []
-shortcode: kalm
 ---
 
 **Kalm** holds the broadest and lowest of the valley floors, which makes it the Vardain's grain country:

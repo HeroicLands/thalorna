@@ -1,12 +1,9 @@
 ---
+shortcode: extrnlthrts
+name: {full: External Threats, aliases: []}
 type: lore
 subType: history
-name:
-  full: External Threats
-  aliases: []
-shortcode: extrnlthrts
-data:
-  packFolder: threats
+data: {packFolder: threats}
 ---
 
 ## External Threats to the Empire of Tānvür

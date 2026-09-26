@@ -1,20 +1,11 @@
 ---
-tags:
-  - city
-  - draft
-description: "City"
+shortcode: kawiltzakl2
+name: {full: K'awiil Tza'kul, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - kawiltzaklrgn
-  population: 4000
-name:
-  full: K'awiil Tza'kul
-  aliases: []
-shortcode: kawiltzakl2
+description: "City"
+tags: [city, draft]
+data: {demonym: null, lore: [], parents: [kawiltzaklrgn], population: 4000}
 ---
 
 ## Overview

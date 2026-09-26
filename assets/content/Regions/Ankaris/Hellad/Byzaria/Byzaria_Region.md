@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: The eastern Hellád—a warm coast, a steppe plateau and the mountain passes between them, held by the five merchant cities of the Byzarian League and guarded by its three marches.
-name:
-  full: Byzaría Region
-  aliases: []
 shortcode: byzariargn
+name: {full: Byzaría Region, aliases: []}
 type: place
 subType: region
+description: The eastern Hellád—a warm coast, a steppe plateau and the mountain passes between them, held by the five merchant cities of the Byzarian League and guarded by its three marches.
+tags: [region]
 data:
   icon: null
   demonym: Byzarian
-  lore:
-    - humanflk
-  parents:
-    - heladrgn
+  lore: [humanflk]
+  parents: [heladrgn]
   population: 8000000
   packFolder: byzaria
 

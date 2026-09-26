@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Relief
-  aliases:
-    - Succour
-description: "Alleviates pain and suffering; targets feel restored temporarily."
 shortcode: relief
+name: {full: Relief, aliases: [Succour]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
-  packFolder: spells
+description: "Alleviates pain and suffering; targets feel restored temporarily."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Succour

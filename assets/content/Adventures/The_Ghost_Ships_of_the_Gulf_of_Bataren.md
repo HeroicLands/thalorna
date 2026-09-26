@@ -1,21 +1,16 @@
 ---
-name:
-  full: The Ghost Ships of the Gulf of Batáren
-  aliases: []
 shortcode: ghstshpsglfbtrn
+name: {full: The Ghost Ships of the Gulf of Batáren, aliases: []}
 type: scenario
 subType: adventure
 data:
   parents: []
-  locations:
-    - provenzrgn
+  locations: [provenzrgn]
   cast: []
   factions: []
   follows: []
   status: draft
-  party:
-    size: null
-    archetypes: []
+  party: {size: null, archetypes: []}
   packFolder: adventures
 ---
 

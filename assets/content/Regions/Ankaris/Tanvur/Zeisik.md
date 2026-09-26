@@ -1,12 +1,9 @@
 ---
+shortcode: zeisik
+name: {full: Zëisīk, aliases: []}
 type: lore
 subType: culture
-name:
-  full: Zëisīk
-  aliases: []
-shortcode: zeisik
-data:
-  packFolder: tanvur
+data: {packFolder: tanvur}
 ---
 
 ## Zëisīk: The Ritual of Self-Death

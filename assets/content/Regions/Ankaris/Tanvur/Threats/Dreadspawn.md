@@ -1,13 +1,9 @@
 ---
+shortcode: dreadspawn
+name: {full: Dreadspawn, aliases: []}
 type: lore
 subType: bestiary
-name:
-  full: Dreadspawn
-  aliases: []
-shortcode: dreadspawn
-data:
-  banner: creaturebnr
-  packFolder: threats
+data: {banner: creaturebnr, packFolder: threats}
 ---
 
 ## The Dreadspawn

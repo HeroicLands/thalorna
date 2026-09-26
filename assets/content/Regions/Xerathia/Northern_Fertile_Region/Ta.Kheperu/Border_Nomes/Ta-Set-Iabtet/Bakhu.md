@@ -1,23 +1,17 @@
 ---
-tags:
-  - town
-  - fortified
-  - mining
-description: "Fortified Mining Town"
+shortcode: bakhu
+name: {full: Bakhu, aliases: []}
 type: place
 subType: settlement
+description: "Fortified Mining Town"
+tags: [town, fortified, mining]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - tasetiabtetnome
+  parents: [tasetiabtetnome]
   population: 22000
   packFolder: tasetiabtet
-name:
-  full: Bakhu
-  aliases: []
-shortcode: bakhu
 ---
 
 ## Overview

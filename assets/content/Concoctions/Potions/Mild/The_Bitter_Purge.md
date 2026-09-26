@@ -1,18 +1,11 @@
 ---
-tags:
-  - mild-elixir
-name:
-  full: The Bitter Purge
-  aliases:
-    - Potion, Emetic, Mild
-description: "Clear greenish tinted draft; causes violent purging of body."
 shortcode: ptnemm
+name: {full: The Bitter Purge, aliases: ["Potion, Emetic, Mild"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: mild
+description: "Clear greenish tinted draft; causes violent purging of body."
+tags: [mild-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25

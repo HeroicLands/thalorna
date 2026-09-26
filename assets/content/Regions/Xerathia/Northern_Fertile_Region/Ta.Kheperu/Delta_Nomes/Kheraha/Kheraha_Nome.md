@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: "The delta apex, where the river first divides; old shrines and customs-stations—the land of the Nome of Kheraha, one of the delta nomes of Ta'Kheperu."
-name:
-  full: Kheraha Nome
-  aliases: []
 shortcode: kherahanome
+name: {full: Kheraha Nome, aliases: []}
 type: place
 subType: region
+description: "The delta apex, where the river first divides; old shrines and customs-stations—the land of the Nome of Kheraha, one of the delta nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 350000
   packFolder: deltanomes
 ---

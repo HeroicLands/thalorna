@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Rest
-  aliases:
-    - Slumber
-description: "Grants deep, restorative sleep; targets wake refreshed."
 shortcode: rest
+name: {full: Rest, aliases: [Slumber]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
-  packFolder: spells
+description: "Grants deep, restorative sleep; targets wake refreshed."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Slumber

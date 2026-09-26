@@ -1,19 +1,14 @@
 ---
-tags:
-  - region
-description: "The endless grasslands and migrating herds that are the land of Ha' Xaman, at the center of Northern K'ich'chik."
-name:
-  full: Ha' Xaman Region
-  aliases: []
 shortcode: haxamanrgn
+name: {full: Ha' Xaman Region, aliases: []}
 type: place
 subType: region
+description: "The endless grasslands and migrating herds that are the land of Ha' Xaman, at the center of Northern K'ich'chik."
+tags: [region]
 data:
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - nrthrnkchchk
+  lore: [humanflk]
+  parents: [nrthrnkchchk]
   population: null
   packFolder: haxaman
 

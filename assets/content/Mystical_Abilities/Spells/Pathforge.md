@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Pathforge
-  aliases:
-    - Tunnel
-description: "Creates temporary passage through solid barriers like walls."
 shortcode: pthfrg
+name: {full: Pathforge, aliases: [Tunnel]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
-  packFolder: spells
+description: "Creates temporary passage through solid barriers like walls."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Tunnel

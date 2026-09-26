@@ -1,16 +1,11 @@
 ---
-tags:
-  - draft
-  - first-gods
+shortcode: gwalchenspr
+name: {full: "Gwalchen, the Hawk of the Spine", aliases: []}
 type: lore
 subType: spirit
 description: "Hawk-spirit of the high Drenavar air—distant, exact about its crags, and the Kindred consulted about weather and distance."
-name:
-  full: Gwalchen, the Hawk of the Spine
-  aliases: []
-shortcode: gwalchenspr
-data:
-  packFolder: lorespiritsaelendan
+tags: [draft, first-gods]
+data: {packFolder: lorespiritsaelendan}
 ---
 
 - **Kind:** Animal-kin, of [[lore-thekindred|the Kindred]]

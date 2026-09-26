@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "A disturbance goes through the Ithári, they give the caretakers a further set of instructions in haste, and then they leave—all of them, abruptly, at 7,300 BF, for a destination no record names."
+shortcode: itharidprt
+name: {full: The Departure of the Ithári, aliases: [The Great Silence]}
 type: lore
 subType: history
-name:
-  full: The Departure of the Ithári
-  aliases:
-    - The Great Silence
-shortcode: itharidprt
-data:
-  packFolder: settinglore
+description: "A disturbance goes through the Ithári, they give the caretakers a further set of instructions in haste, and then they leave—all of them, abruptly, at 7,300 BF, for a destination no record names."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: departure

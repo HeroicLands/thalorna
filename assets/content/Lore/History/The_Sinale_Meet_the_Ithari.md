@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "Sinalë wayfarers come upon the Ithári by chance, are received with courtesy and politely declined—the only contact between the Ithári and an Elder Race in any record."
+shortcode: itharicntc
+name: {full: The Sinalë Meet the Ithári, aliases: [The Only Meeting]}
 type: lore
 subType: history
-name:
-  full: The Sinalë Meet the Ithári
-  aliases:
-    - The Only Meeting
-shortcode: itharicntc
-data:
-  packFolder: settinglore
+description: "Sinalë wayfarers come upon the Ithári by chance, are received with courtesy and politely declined—the only contact between the Ithári and an Elder Race in any record."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: contact

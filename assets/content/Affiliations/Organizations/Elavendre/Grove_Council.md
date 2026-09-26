@@ -1,14 +1,10 @@
 ---
-tags: []
-description: "Druidic conclave of grove-elders governing wild magic, fae-touched land, and the rural custom that predates the Ordo Arcanis across the forests of Élavendre."
-name:
-  full: The Grove Council
-  aliases:
-    - The Council of Groves
-    - The Elder Groves
 shortcode: groveconcl
+name: {full: The Grove Council, aliases: [The Council of Groves, The Elder Groves]}
 type: affiliation
 subType: governmental
+description: "Druidic conclave of grove-elders governing wild magic, fae-touched land, and the rural custom that predates the Ordo Arcanis across the forests of Élavendre."
+tags: []
 data:
   templatePriority: null
   demonym: null
@@ -17,30 +13,23 @@ data:
   governance:
     model: council
     summary: >-
-      A conclave of the elders of nineteen great groves, gathering on the four hinge-days of the
-      year and in emergency, holding no charter and ruling by a custom older than the kingdom.
+      A conclave of the elders of nineteen great groves, gathering on the four hinge-days of the year and in emergency, holding no charter and ruling by a custom older than the kingdom.
     ranks:
       - level: 1
         title: Initiate
         lore: initiaternk
         description: >-
-          Identified in childhood, often by visions or fae encounters, and trained from
-          adolescence in herblore, ritual, the reading of weather and water, and the protocols
-          of dealing with fae kin. Tattooed on the inside of the wrist with the leaf-mark of the
-          home grove.
+          Identified in childhood, often by visions or fae encounters, and trained from adolescence in herblore, ritual, the reading of weather and water, and the protocols of dealing with fae kin. Tattooed on the inside of the wrist with the leaf-mark of the home grove.
       - level: 2
         title: Grovekeeper
         lore: priestrnk
         description: >-
-          Working clergy of the tradition, wearing the unworked band: some attached to a lesser
-          grove, some walking a circuit of the groves that keep no permanent staff.
+          Working clergy of the tradition, wearing the unworked band: some attached to a lesser grove, some walking a circuit of the groves that keep no permanent staff.
       - level: 3
         title: Grove-Elder
         lore: elderrnk
         description: >-
-          Holder of one of the nineteen seats, one to each recognized great grove. Chosen by the
-          grove through long apprenticeship and confirmed by the Council gathered, with the
-          grovekeepers below and the Áelendan Wardens patrolling on his writ.
+          Holder of one of the nineteen seats, one to each recognized great grove. Chosen by the grove through long apprenticeship and confirmed by the Council gathered, with the grovekeepers below and the Áelendan Wardens patrolling on his writ.
     offices: {}
   seat: null
   domains: []
@@ -49,9 +38,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 - **Type:** Druidic conclave

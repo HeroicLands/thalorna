@@ -1,24 +1,16 @@
 ---
-tags:
-  - region
-  - valley
-  - coastal
-description: "Provènzia's western seaboard on the cold ocean—a long cliff coast, poorer and harder than the sunlit south, named for the barony at its heart whose sheltered valley grows the finest peaches and some of the best wine in Ankaris."
+shortcode: zuravlenrgn
+name: {full: Zûravlen Region, aliases: [Zûravlen, The Peach Country]}
 type: place
 subType: region
+description: "Provènzia's western seaboard on the cold ocean—a long cliff coast, poorer and harder than the sunlit south, named for the barony at its heart whose sheltered valley grows the finest peaches and some of the best wine in Ankaris."
+tags: [region, valley, coastal]
 data:
   demonym: Zûravlen
   lore: []
-  parents:
-    - provenzrgn
+  parents: [provenzrgn]
   population: 750000
   packFolder: provenzia
-name:
-  full: Zûravlen Region
-  aliases:
-    - Zûravlen
-    - The Peach Country
-shortcode: zuravlenrgn
 ---
 
 **Zûravlen** is a barony of the [[affiliation-kngdmprvnz|Kingdom of Provènzia]], in the

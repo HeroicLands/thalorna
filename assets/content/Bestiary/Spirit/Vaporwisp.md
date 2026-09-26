@@ -1,13 +1,9 @@
 ---
-tags:
-  - spirit
-  - creature
-name:
-  full: Vaporwisp
-  aliases: []
-description: "A boundary-dwelling spirit at home in neither realm, drawn to fog, mist, and thresholds where day and night or forest and clearing meet."
 shortcode: vprwsp
+name: {full: Vaporwisp, aliases: []}
 type: being
+description: "A boundary-dwelling spirit at home in neither realm, drawn to fog, mist, and thresholds where day and night or forest and clearing meet."
+tags: [spirit, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -42,21 +38,21 @@ sohl:
     rea: 1d6+6
     cre: 1d4+9
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 18 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 65 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 75 } }
-    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 42 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 44 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 64 } }
-    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 23 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 8}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 18}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 12}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 65}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 75}}
+    - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 42}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 44}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 64}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 23}}
     - name: Cold Touch
       type: skill
       system:
@@ -64,60 +60,37 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 76
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: punch
           name: Cold Touch
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 1
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: -2
-            aspect: blunt
+          attack: {disabled: false, spread: 1, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: -2, aspect: blunt}
           lengthBase: 0
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
   system:
     body:
       structure:
         zones:
-          - name: Core
-            shortcode: corezone
-            probWeight: 1
-          - name: Shroud
-            shortcode: shroudzone
-            probWeight: 2
+          - {name: Core, shortcode: corezone, probWeight: 1}
+          - {name: Shroud, shortcode: shroudzone, probWeight: 2}
         parts:
           - name: Core
             shortcode: corepart
             bodyZoneCode: corezone
-            roles:
-              - vital
-              - core
+            roles: [vital, core]
             canHoldItem: false
             probWeight: 10
           - name: Shroud
             shortcode: shroudpart
             bodyZoneCode: shroudzone
-            roles:
-              - locomotor
-              - manipulator
+            roles: [locomotor, manipulator]
             canHoldItem: false
             probWeight: 10
         locations:
@@ -128,11 +101,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 10
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Shroud
             shortcode: shroudloc
             bodyPartCode: shroudpart
@@ -140,14 +109,8 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 10
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
-      weight:
-        base: 0
-        calc: "0"
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
+      weight: {base: 0, calc: "0"}
       reachBase: 0
       bodyScaleBase: 0.81
       personalFatigue: "enc + 5"

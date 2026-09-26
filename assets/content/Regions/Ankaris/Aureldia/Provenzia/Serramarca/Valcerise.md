@@ -1,22 +1,11 @@
 ---
-tags:
-  - town
-  - hill
-  - frontier
-description: "The cherry town of the eastern uplands above Lake Tiravel—the last market before the Tarvénian passes, whose year is set by the blossom and the campaign season together."
+shortcode: valcerise
+name: {full: Valcèrise, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - serramarca
-  population: 1800
-  packFolder: provenzia
-name:
-  full: Valcèrise
-  aliases: []
-shortcode: valcerise
+description: "The cherry town of the eastern uplands above Lake Tiravel—the last market before the Tarvénian passes, whose year is set by the blossom and the campaign season together."
+tags: [town, hill, frontier]
+data: {demonym: null, lore: [], parents: [serramarca], population: 1800, packFolder: provenzia}
 ---
 
 **Valcèrise**—the cherry vale—is a hill town of [[place-serramarca|Sèrramarca]], standing above the

@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Kalihara"
 shortcode: heroesandknaveskalihara
+name: {full: "Kalihara"}
 type: folder
-data:
-  parent: heroesandknaves
-  color: "#FF69B4"
+data: {parent: heroesandknaves, color: "#FF69B4"}
 ---

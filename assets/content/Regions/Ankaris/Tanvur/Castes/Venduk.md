@@ -1,12 +1,9 @@
 ---
+shortcode: venduk
+name: {full: Vëndük, aliases: []}
 type: lore
 subType: culture
-name:
-  full: Vëndük
-  aliases: []
-shortcode: venduk
-data:
-  packFolder: castes
+data: {packFolder: castes}
 ---
 
 **Chattel Sorcerers**

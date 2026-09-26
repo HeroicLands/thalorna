@@ -1,19 +1,10 @@
 ---
-tags:
-  - ashalan
-  - faith-skill
-  - draft
+shortcode: korsadra
+name: {full: "Ritual: Khóršádrä", aliases: [Bearer of Eternal Light, Wisdom Goddess]}
 type: skill
 subType: mystical
-shortcode: korsadra
-name:
-  full: "Ritual: Khóršádrä"
-  aliases:
-    - Bearer of Eternal Light
-    - Wisdom Goddess
-data:
-  templatePriority: null
-  packFolder: ashalan
+tags: [ashalan, faith-skill, draft]
+data: {templatePriority: null, packFolder: ashalan}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

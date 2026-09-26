@@ -1,11 +1,10 @@
 ---
-description: "The leopard-spirit of the Sengala—stealth, patience and solitude; guide of the northern trade-tribe, and the one most often carried beyond Nyáluba country."
-tags:
-  - nyaluba
-  - religion
-  - totemic
+shortcode: nyalbleop
+name: {full: "Leopard Totem", aliases: [Leopard of the Sengala, Sengala Totem]}
 type: affiliation
 subType: spirittradition
+description: "The leopard-spirit of the Sengala—stealth, patience and solitude; guide of the northern trade-tribe, and the one most often carried beyond Nyáluba country."
+tags: [nyaluba, religion, totemic]
 data:
   icon: null
   templatePriority: null
@@ -15,39 +14,33 @@ data:
   governance:
     model: council
     summary: >-
-      No hierarch and no single voice: a council of Spirit-Speakers and Elder Shamans in which
-      the elders' word carries the greater weight, seeking consensus rather than imposing it.
+      No hierarch and no single voice: a council of Spirit-Speakers and Elder Shamans in which the elders' word carries the greater weight, seeking consensus rather than imposing it.
     ranks:
       - level: 0
         title: Spirit-shunned
         lore: excmmnctrnk
         description: >-
-          Turned from by the spirits and by those who keep them: no rite will include them, no
-          pact will cover them, and no griot will speak their name in a genealogy.
+          Turned from by the spirits and by those who keep them: no rite will include them, no pact will cover them, and no griot will speak their name in a genealogy.
       - level: 1
         title: Uninitiated
         lore: catechumenrnk
         description: >-
-          Living under the observances, the totem law and the clan's pacts without having
-          entered the tradition—most of the people, most of the time.
+          Living under the observances, the totem law and the clan's pacts without having entered the tradition—most of the people, most of the time.
       - level: 2
         title: Initiate
         lore: initiaternk
         description: >-
-          Taken through the ordeal and received; learning the pacts, the protocols and the three
-          postures, and permitted at the rites without yet speaking in them.
+          Taken through the ordeal and received; learning the pacts, the protocols and the three postures, and permitted at the rites without yet speaking in them.
       - level: 3
         title: Spirit-Speaker
         lore: sprtspkrrnk
         description: >-
-          The mwalimu wa roho—permitted to perceive, address and negotiate with the spirits on
-          the clan's behalf, and answerable for what is asked of them.
+          The mwalimu wa roho—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
       - level: 4
         title: Elder Shaman
         lore: elderrnk
         description: >-
-          Long practiced, teaching initiates and sitting on the council, where their word carries
-          the greater weight in what the younger Spirit-Speakers dispute.
+          Long practiced, teaching initiates and sitting on the council, where their word carries the greater weight in what the younger Spirit-Speakers dispute.
     offices:
       Guardian of a Forest Path: >-
         Warden of one route into the rainforest margin and of the observances a party must keep upon it.
@@ -63,24 +56,11 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - leopardsengalaspr
-    - nyalbsprts
-  parents:
-    - nyalbpnthn
-  relations:
-    nyalbpnthn: aligned
+  lore: [leopardsengalaspr, nyalbsprts]
+  parents: [nyalbpnthn]
+  relations: {nyalbpnthn: aligned}
   packFolder: nyaluba
-name:
-  full: "Leopard Totem"
-  aliases:
-    - Leopard of the Sengala
-    - Sengala Totem
-shortcode: nyalbleop
-sohl:
-  system:
-    commonSkills:
-      - leopardsengalasprt
+sohl: {system: {commonSkills: [leopardsengalasprt]}}
 ---
 
 The **Leopard Totem** is the guide of the [[affiliation-nylbtrblntn|Sengala]], the northern trade-tribe—stealth, patience, and solitude. The Sengala are the outward-facing clan: intermediaries with the rainforest peoples to the north and, through them, with civilizations the other four clans know only as rumor. They are the most polyglot of the Nyáluba and the most stratified, with a class of professional traders whose standing approaches a hereditary specialist caste, an arrangement the other clans regard with a mixture of admiration and unease.

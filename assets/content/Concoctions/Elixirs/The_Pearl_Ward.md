@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: The Pearl Ward
-  aliases:
-    - Soulbuffer Elixir
-description: "Pearlescent shimmering draft; absorbs aural shock protecting soul."
 shortcode: elxsbf
+name: {full: The Pearl Ward, aliases: [Soulbuffer Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Pearlescent shimmering draft; absorbs aural shock protecting soul."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

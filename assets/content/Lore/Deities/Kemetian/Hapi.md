@@ -1,14 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: hapidty
+name: {full: Hâpi, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Hâpi
-  aliases: []
-shortcode: hapidty
-data:
-  packFolder: deitieskemetian
+tags: [draft]
+data: {packFolder: deitieskemetian}
 ---
 
 ![[icon-hapi|Hâpi]]{float: top-left, size: medium}

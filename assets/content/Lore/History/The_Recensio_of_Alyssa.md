@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "In 75 BF the Praefectura assembles every registered practitioner in the Republic and their working-books in one place to be copied into a single register—and in the fourth month there is an unchanneled release."
+shortcode: recensio
+name: {full: The Recensio of Alyssa, aliases: [The Audit]}
 type: lore
 subType: history
-name:
-  full: The Recensio of Alyssa
-  aliases:
-    - The Audit
-shortcode: recensio
-data:
-  packFolder: settinglore
+description: "In 75 BF the Praefectura assembles every registered practitioner in the Republic and their working-books in one place to be copied into a single register—and in the fourth month there is an unchanneled release."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: catastrophe

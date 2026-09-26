@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The leopard as a totemic ideal, and the human character it describes."
+shortcode: leopardttm
+name: {full: Leopard, aliases: [Leopard Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Leopard
-  aliases:
-    - Leopard Totem
-shortcode: leopardttm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The leopard as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-leopardtotem|Leopard]]{float: top-left, size: medium}

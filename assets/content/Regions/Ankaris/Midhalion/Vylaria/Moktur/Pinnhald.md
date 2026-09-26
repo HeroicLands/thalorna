@@ -1,20 +1,11 @@
 ---
-tags:
-  - town
-description: "Timber Town"
+shortcode: pinnhald
+name: {full: Pinnhald, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - moktur
-  population: 3000
-  packFolder: vylaria
-name:
-  full: Pinnhald
-  aliases: []
-shortcode: pinnhald
+description: "Timber Town"
+tags: [town]
+data: {demonym: null, lore: [], parents: [moktur], population: 3000, packFolder: vylaria}
 ---
 
 ## Overview

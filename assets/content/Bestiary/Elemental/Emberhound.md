@@ -1,13 +1,9 @@
 ---
-tags:
-  - elemental
-  - creature
-name:
-  full: Emberhound
-  aliases: []
-description: "A cunning fire elemental in animal form, combining a predator's tactics with living flame, hunting for fuel or bound to guard places of power."
 shortcode: embrhnd
+name: {full: Emberhound, aliases: []}
 type: being
+description: "A cunning fire elemental in animal form, combining a predator's tactics with living flame, hunting for fuel or bound to guard places of power."
+tags: [elemental, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -42,21 +38,21 @@ sohl:
     rea: 1d4+6
     cre: 1d4+5
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 9 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 9 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 8 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 70 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 65 } }
-    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 36 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 48 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 48 } }
-    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 35 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 9}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 9}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 8}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 70}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 65}}
+    - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 36}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 48}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 48}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 35}}
     - name: Fiery Bite
       type: skill
       system:
@@ -64,35 +60,20 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 62
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: bite
           name: Fiery Bite
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 1
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 2
-            aspect: fire
+          attack: {disabled: false, spread: 1, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 2, aspect: fire}
           lengthBase: 0
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
     - name: Flaming Breath
       type: skill
       system:
@@ -100,23 +81,15 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 65
         combatCategory: missile
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: missile
           shortcode: breath
           name: Flaming Breath
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 0
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 4
-            modifier: 3
-            aspect: fire
+          attack: {disabled: false, spread: 0, modifier: 0}
+          impactBase: {numDice: 1, die: 4, modifier: 3, aspect: fire}
           projectileType: none
           maxVolleyMult: 1
           baseRangeBase: 15
@@ -129,65 +102,39 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 52
         combatCategory: melee
-        impairedByRoles:
-          - locomotor
+        impairedByRoles: [locomotor]
         strikeMode:
           type: melee
           shortcode: tail
           name: Tail Whip
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 2
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: -1
-            aspect: blunt
+          attack: {disabled: false, spread: 2, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: -1, aspect: blunt}
           lengthBase: 1
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
   system:
     body:
       structure:
         zones:
-          - name: Head
-            shortcode: headzone
-            probWeight: 1
-          - name: Forelegs
-            shortcode: forelegszone
-            probWeight: 1
-          - name: Torso
-            shortcode: torsozone
-            probWeight: 3
-          - name: Hindquarters
-            shortcode: hindqtrzone
-            probWeight: 1
+          - {name: Head, shortcode: headzone, probWeight: 1}
+          - {name: Forelegs, shortcode: forelegszone, probWeight: 1}
+          - {name: Torso, shortcode: torsozone, probWeight: 3}
+          - {name: Hindquarters, shortcode: hindqtrzone, probWeight: 1}
         parts:
           - name: Head
             shortcode: headpart
             bodyZoneCode: headzone
-            roles:
-              - vital
-              - manipulator
+            roles: [vital, manipulator]
             canHoldItem: false
             probWeight: 10
           - name: Left Foreleg
             shortcode: lforelegpart
             bodyZoneCode: forelegszone
-            roles: &a1
-              - locomotor
+            roles: &a1 [locomotor]
             canHoldItem: false
             probWeight: 1
           - name: Right Foreleg
@@ -199,29 +146,25 @@ sohl:
           - name: Torso
             shortcode: torsopart
             bodyZoneCode: torsozone
-            roles:
-              - core
+            roles: [core]
             canHoldItem: false
             probWeight: 10
           - name: Left Hind Leg
             shortcode: lhindlegpart
             bodyZoneCode: hindqtrzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 9
           - name: Right Hind Leg
             shortcode: rhindlegpart
             bodyZoneCode: hindqtrzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 9
           - name: Tail
             shortcode: tailpart
             bodyZoneCode: hindqtrzone
-            roles:
-              - manipulator
+            roles: [manipulator]
             canHoldItem: false
             probWeight: 2
         locations:
@@ -232,11 +175,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 6
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Neck
             shortcode: neckloc
             bodyPartCode: headpart
@@ -244,11 +183,7 @@ sohl:
             amputability: low
             shockValue: 5
             probWeight: 4
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Left Foreleg
             shortcode: lforelegloc
             bodyPartCode: lforelegpart
@@ -256,11 +191,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Right Foreleg
             shortcode: rforelegloc
             bodyPartCode: rforelegpart
@@ -268,11 +199,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Thorax
             shortcode: thoraxloc
             bodyPartCode: torsopart
@@ -280,11 +207,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 5
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Abdomen
             shortcode: abdloc
             bodyPartCode: torsopart
@@ -292,11 +215,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 3
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Pelvis
             shortcode: plvsloc
             bodyPartCode: torsopart
@@ -304,11 +223,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 2
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Left Hind Leg
             shortcode: lhindlegloc
             bodyPartCode: lhindlegpart
@@ -316,11 +231,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Right Hind Leg
             shortcode: rhindlegloc
             bodyPartCode: rhindlegpart
@@ -328,11 +239,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Tail
             shortcode: tailloc
             bodyPartCode: tailpart
@@ -340,14 +247,8 @@ sohl:
             amputability: high
             shockValue: 1
             probWeight: 10
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
-      weight:
-        base: 300
-        calc: "300"
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
+      weight: {base: 300, calc: "300"}
       reachBase: 0
       bodyScaleBase: 1.11
       personalFatigue: "enc + 5"

@@ -1,17 +1,11 @@
 ---
-tags:
-  - draft
-  - nkaruthar
+shortcode: mzazispr
+name: {full: Mzazi wa Ardhi, aliases: [The Begetter of the Earth]}
 type: lore
 subType: spirit
 description: "Zohira of fertility—of the field, the herd and the birthing-house alike, and the most constantly attended of the zohira."
-name:
-  full: Mzazi wa Ardhi
-  aliases:
-    - The Begetter of the Earth
-shortcode: mzazispr
-data:
-  packFolder: lorespiritsokharic
+tags: [draft, nkaruthar]
+data: {packFolder: lorespiritsokharic}
 ---
 
 - **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]

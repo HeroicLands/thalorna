@@ -1,15 +1,11 @@
 ---
-name:
-  full: Worlds
-  aliases: []
+shortcode: worlds
+name: {full: Worlds, aliases: []}
 type: doc
 subType: reference
-shortcode: worlds
-tags:
-  - draft
 description: The worlds of the Heroic Lands multiverse.
-data:
-  banner: null
+tags: [draft]
+data: {banner: null}
 ---
 
 The worlds of the Heroic Lands multiverse.

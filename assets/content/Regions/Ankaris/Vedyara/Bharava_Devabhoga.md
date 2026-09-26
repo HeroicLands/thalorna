@@ -1,14 +1,10 @@
 ---
-tags: []
-type: affiliation
-description: The temple-estates of the lower Bhārava—the one Vedyari arrangement with no assembly in it, holding six hundred miles of forest for the gods and paying for the pilgrim road out of resin, lac and hardwood.
-name:
-  full: Bhārava-Devabhoga
-  aliases:
-    - The Devabhoga
-    - The Forest Estates
 shortcode: bhrvdvbhog
+name: {full: Bhārava-Devabhoga, aliases: [The Devabhoga, The Forest Estates]}
+type: affiliation
 subType: polity
+description: The temple-estates of the lower Bhārava—the one Vedyari arrangement with no assembly in it, holding six hundred miles of forest for the gods and paying for the pilgrim road out of resin, lac and hardwood.
+tags: []
 data:
   templatePriority: null
   demonym: Bhāravan
@@ -17,89 +13,68 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Forest estates endowed to the temples of the lower Bhārava, each held by an ordained keeper
-      answerable to the temple that holds his endowment. No assembly stands above them and the
-      mother-temples coordinate by consultation or not at all.
+      Forest estates endowed to the temples of the lower Bhārava, each held by an ordained keeper answerable to the temple that holds his endowment. No assembly stands above them and the mother-temples coordinate by consultation or not at all.
     ranks:
       - level: 0
         title: Outcaste
         lore: excmmnctrnk
         description: >-
-          Placed outside the tharana by transgression or by birth, and barred from the
-          estate's temple, its stores and its licences.
+          Placed outside the tharana by transgression or by birth, and barred from the estate's temple, its stores and its licences.
       - level: 1
         title: Bonded Servant
         lore: bondservantrnk
         description: >-
-          Bound by debt or birth to an estate's household, owing labour at the felling and the
-          hauling and holding nothing of the season's take.
+          Bound by debt or birth to an estate's household, owing labour at the felling and the hauling and holding nothing of the season's take.
       - level: 2
         title: Karmāja
         lore: commonerrnk
         description: >-
-          Born to the serving tharana—fellers, raftsmen, porters and the estate's own cultivators on the
-          cleared ground around its temple.
+          Born to the serving tharana—fellers, raftsmen, porters and the estate's own cultivators on the cleared ground around its temple.
       - level: 3
         title: Dhanāja
         lore: gentryrnk
         description: >-
-          Born to the productive tharana—the licensed buyers and carriers who take the estate's resin,
-          lac and spice down to the coast and answer for its price.
+          Born to the productive tharana—the licensed buyers and carriers who take the estate's resin, lac and spice down to the coast and answer for its price.
       - level: 4
         title: Senāja
         lore: warriorrnk
         description: >-
-          Born to the warrior tharana, bearing arms by right and serving in the small bodies the estates
-          keep against theft of standing timber.
+          Born to the warrior tharana, bearing arms by right and serving in the small bodies the estates keep against theft of standing timber.
       - level: 5
         title: Ritūja
         lore: priestrnk
         description: >-
-          Born to the priestly tharana, keeper of rite and learning, without whose sanction no felling
-          season opens and no boundary is moved.
+          Born to the priestly tharana, keeper of rite and learning, without whose sanction no felling season opens and no boundary is moved.
       - level: 6
         title: Kshetrapāla
         lore: landedlordrnk
         description: >-
-          The ordained holder of one estate—its forest, its licences, its season and its tribute
-          to the temple that endowed it.
+          The ordained holder of one estate—its forest, its licences, its season and its tribute to the temple that endowed it.
       - level: 7
         title: Devapati
         lore: highpriestrnk
         description: >-
-          Senior priest of a mother-temple, who confirms the keepers of the estates endowed to it
-          and answers for what those estates yield.
+          Senior priest of a mother-temple, who confirms the keepers of the estates endowed to it and answers for what those estates yield.
     offices:
       Devapati: >-
-        Senior priest of a mother-temple on the river, holding the endowment itself and confirming
-        the keeper of every estate cut out of it.
+        Senior priest of a mother-temple on the river, holding the endowment itself and confirming the keeper of every estate cut out of it.
       Kshetrapāla: >-
-        The keeper of one estate, who opens and closes its season, issues its gathering licences
-        and renders its tribute.
+        The keeper of one estate, who opens and closes its season, issues its gathering licences and renders its tribute.
       Vanapāla: >-
-        The warden who walks an estate's bounds, marks the trees that may be felled and turns back
-        anyone gathering without a licence.
+        The warden who walks an estate's bounds, marks the trees that may be felled and turns back anyone gathering without a licence.
       Koshapāla: >-
-        Keeper of an estate's stores and its takings, and the man a buyer deals with when the
-        keeper is at the temple.
+        Keeper of an estate's stores and its takings, and the man a buyer deals with when the keeper is at the temple.
       Smritibhāra: >-
-        The Memory-Keeper, who holds the bounds of the estates and the terms of each endowment and
-        recites them when two keepers disagree, there being no sabhā to ask.
+        The Memory-Keeper, who holds the bounds of the estates and the terms of each endowment and recites them when two keepers disagree, there being no sabhā to ask.
       Ganaka: >-
-        The reckoner, who fixes the felling season, the tapping rounds and the day the rafts go
-        down on the flood.
+        The reckoner, who fixes the felling season, the tapping rounds and the day the rafts go down on the flood.
       Dūta: >-
-        The envoy the mother-temples send jointly to a patron court, to the Mela and to the
-        coastal houses that buy the timber.
+        The envoy the mother-temples send jointly to a patron court, to the Mela and to the coastal houses that buy the timber.
   seat: null
-  domains:
-    - bharavavana
+  domains: [bharavavana]
   population: 2400000
-  economy:
-    - lore-vdyrnbnkng
-    - affiliation-mrchntclctvvdyr
-  lore:
-    - vedyariclt
+  economy: [lore-vdyrnbnkng, affiliation-mrchntclctvvdyr]
+  lore: [vedyariclt]
   parents: []
   relations:
     varakpnthn: aligned
@@ -108,10 +83,7 @@ data:
     mrchntclctvvdyr: rival
     gomarga: unaligned
   packFolder: vedyara
-sohl:
-  system:
-    commonSkills:
-      - vedyarlng
+sohl: {system: {commonSkills: [vedyarlng]}}
 
 # terran_analog: "Temple-estate tenure of the medieval Indian forest belt—devadana holdings under ordained managers, worked by forest-dwelling communities under licence and yielding resin, lac, hardwood and spice instead of land revenue"
 ---

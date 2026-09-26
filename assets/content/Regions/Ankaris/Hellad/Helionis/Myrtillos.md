@@ -1,20 +1,14 @@
 ---
-tags:
-  - town
-  - coastal
-description: "Coastal Town"
+shortcode: myrtillos
+name: {full: Myrtillos, aliases: []}
 type: place
 subType: settlement
+description: "Coastal Town"
+tags: [town, coastal]
 data:
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - kostarosdst
+  lore: [humanflk]
+  parents: [kostarosdst]
   population: 4000
   packFolder: helionis
-name:
-  full: Myrtillos
-  aliases: []
-shortcode: myrtillos
 ---

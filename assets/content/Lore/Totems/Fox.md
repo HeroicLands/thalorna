@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The fox as a totemic ideal, and the human character it describes."
+shortcode: foxttm
+name: {full: Fox, aliases: [Fox Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Fox
-  aliases:
-    - Fox Totem
-shortcode: foxttm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The fox as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-foxtotem|Fox]]{float: top-left, size: medium}

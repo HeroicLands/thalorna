@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: Speech with the Departed
-  aliases: []
-description: "Permits conversation with one named dead, provided the name and the body are both intact."
 shortcode: spchwthdprt
+name: {full: Speech with the Departed, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: imnetau
-  templatePriority: null
-  packFolder: hekauincantations
+description: "Permits conversation with one named dead, provided the name and the body are both intact."
+tags: [khemenu-hekau, incantation]
+data: {icon: imnetau, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: imnetau
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---
 
 The requirement is the doctrine in miniature: a person is their Name and their Form, so a soul

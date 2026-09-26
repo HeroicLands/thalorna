@@ -1,22 +1,11 @@
 ---
-tags:
-  - ruin
-  - river
-  - inland
-description: "The river-capital the Mahānadi took when it changed its channel—masonry the fishermen of the reach still foul their nets on, six hundred years under water."
+shortcode: drownedcptl
+name: {full: The Drowned Capital, aliases: []}
 type: place
 subType: site
-data:
-  demonym: null
-  lore: []
-  parents:
-    - rajapurjnpd
-  population: null
-  packFolder: vedyara
-name:
-  full: The Drowned Capital
-  aliases: []
-shortcode: drownedcptl
+description: "The river-capital the Mahānadi took when it changed its channel—masonry the fishermen of the reach still foul their nets on, six hundred years under water."
+tags: [ruin, river, inland]
+data: {demonym: null, lore: [], parents: [rajapurjnpd], population: null, packFolder: vedyara}
 ---
 
 The **Drowned Capital** lies under the [[place-mahanadi|Mahānadi]] in the reach below [[place-rajapur|Rājapur]]. It was a royal seat of the Kingdom of Mahānadi, and the river took it when the channel moved.

@@ -1,24 +1,17 @@
 ---
-tags: []
-name:
-  full: Visnomy
-  aliases: []
-description: "Reads a person's character and history from the face and bearing."
 shortcode: vsnm
+name: {full: Visnomy, aliases: []}
 type: mysticalability
 subType: arcanetalent
-data:
-  icon: icon-psionics
-  templatePriority: null
-  packFolder: arcanetalents
+description: "Reads a person's character and history from the face and bearing."
+tags: []
+data: {icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
 sohl:
   system:
     assocSkillCode: ""
     masteryLevelBase: 0
     levelBase: 0
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: ""

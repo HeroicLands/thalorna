@@ -1,20 +1,9 @@
 ---
-tags:
-  - village
-  - mountain
-  - inland
-description: "Lapidary village below Lower Suvarnagiri, whose cutters rough out the stones the jewelers' quarter sets."
+shortcode: ratnakupa
+name: {full: Ratnakūpa, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - suvarnagirijnpd
-  population: 520
-  packFolder: vedyara
-name:
-  full: Ratnakūpa
-  aliases: []
-shortcode: ratnakupa
+description: "Lapidary village below Lower Suvarnagiri, whose cutters rough out the stones the jewelers' quarter sets."
+tags: [village, mountain, inland]
+data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: 520, packFolder: vedyara}
 ---

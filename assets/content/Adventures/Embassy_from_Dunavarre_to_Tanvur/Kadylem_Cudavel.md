@@ -1,16 +1,8 @@
 ---
-tags:
-  - character
-  - draft
-  - embassy-to-tanvur
-name:
-  full: Kadylem Cúdavel
-  title: ""
-  given: Kadylem
-  clan: Cúdavel
-  aliases: []
 shortcode: kadylemcudavel
+name: {full: Kadylem Cúdavel, title: "", given: Kadylem, clan: Cúdavel, aliases: []}
 type: being
+tags: [character, draft, embassy-to-tanvur]
 data:
   templatePriority: null
   archetypes: []
@@ -18,8 +10,7 @@ data:
   stations: []
   lore: []
   homes: []
-  affiliations:
-    - kingdmdnvr
+  affiliations: [kingdmdnvr]
   gender: male
   species: humanflk
   packFolder: adventures

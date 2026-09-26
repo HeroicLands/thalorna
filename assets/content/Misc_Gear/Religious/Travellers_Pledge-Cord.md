@@ -1,26 +1,14 @@
 ---
-tags: []
-name:
-  full: "Traveller's Pledge-Cord"
-  aliases:
-    - Pavanajitras Cord
-description: "A cord knotted at every shrine and threshold on a journey; the Pavanajitras' own devotion, worn by every pilgrim who takes the road."
 shortcode: pledgecord
+name: {full: "Traveller's Pledge-Cord", aliases: [Pavanajitras Cord]}
 type: miscgear
-data:
-  icon: icon-coinsbdg
-  templatePriority: null
-  packFolder: religious
+description: "A cord knotted at every shrine and threshold on a journey; the Pavanajitras' own devotion, worn by every pilgrim who takes the road."
+tags: []
+data: {icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
 sohl:
   kbcat: religious
-  craft:
-    skill: txtl
-    secondary: []
-  system:
-    weightBase: 0.05
-    valueBase: 2
-    qualityBase: 0
-    durabilityBase: 5
+  craft: {skill: txtl, secondary: []}
+  system: {weightBase: 0.05, valueBase: 2, qualityBase: 0, durabilityBase: 5}
 ---
 
 A plain cord, unremarkable until it is read: a knot for every shrine passed, every pass crossed and every promise made on the strength of the road holding fair. It is [[affiliation-pavanajitras|Pavanajitras]]'s own observance rather than a temple's manufacture, tied by the traveller and not sold blessed, and a Pass-Shrine ushtaka will glance at one before granting the summit blessing without ever touching it.

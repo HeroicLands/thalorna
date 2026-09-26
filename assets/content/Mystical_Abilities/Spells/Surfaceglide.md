@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Surfaceglide
-  aliases:
-    - Waterwalk
-description: "Grants frictionless movement; enables sliding across any surface."
 shortcode: srfcgld
+name: {full: Surfaceglide, aliases: [Waterwalk]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
-  packFolder: spells
+description: "Grants frictionless movement; enables sliding across any surface."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Waterwalk

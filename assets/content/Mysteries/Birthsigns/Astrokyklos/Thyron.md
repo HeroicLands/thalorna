@@ -1,16 +1,11 @@
 ---
-tags: []
-name:
-  full: Thyron
-  aliases: []
-description: "The Gate: born to the blade and hard to unnerve, blunt company in hall or market."
 shortcode: thyron
+name: {full: Thyron, aliases: []}
 type: mystery
 subType: birthsign
-data:
-  icon: icon-astrology
-  templatePriority: 0
-  packFolder: astrokyklos
+description: "The Gate: born to the blade and hard to unnerve, blunt company in hall or market."
+tags: []
+data: {icon: icon-astrology, templatePriority: 0, packFolder: astrokyklos}
 sohl:
   kbcat: birthsign
   system:

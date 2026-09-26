@@ -1,19 +1,9 @@
 ---
-tags:
-  - village
-  - woodland
-description: "Woodland Village"
+shortcode: eichengrnd
+name: {full: Eichengrund, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vrystwald
-  population: 250
-  packFolder: vrystwald
-name:
-  full: Eichengrund
-  aliases: []
-shortcode: eichengrnd
+description: "Woodland Village"
+tags: [village, woodland]
+data: {demonym: null, lore: [], parents: [vrystwald], population: 250, packFolder: vrystwald}
 ---

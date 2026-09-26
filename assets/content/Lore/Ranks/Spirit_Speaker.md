@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: sprtspkrrnk
+name: {full: Spirit-Speaker, aliases: []}
 type: lore
 subType: law
-name:
-  full: Spirit-Speaker
-  aliases: []
-shortcode: sprtspkrrnk
 description: "Permitted to address the spirit directly on another's behalf."
+tags: [draft]
 ---
 
 Permitted to address the spirit directly on another's behalf.

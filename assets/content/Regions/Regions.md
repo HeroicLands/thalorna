@@ -1,15 +1,11 @@
 ---
-name:
-  full: Regions
-  aliases: []
+shortcode: regions
+name: {full: Regions, aliases: []}
 type: doc
 subType: reference
-shortcode: regions
-tags:
-  - draft
 description: Geographic and cultural regions.
-data:
-  banner: regionbnr
+tags: [draft]
+data: {banner: regionbnr}
 ---
 
 Geographic and cultural regions.

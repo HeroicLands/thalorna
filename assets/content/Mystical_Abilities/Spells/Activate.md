@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Activate
-  aliases:
-    - Trigger
-description: "Sets conditional trigger on prepared spell; fires when condition met."
 shortcode: activate
+name: {full: Activate, aliases: [Trigger]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Sets conditional trigger on prepared spell; fires when condition met."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Trigger

@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The badger as a totemic ideal, and the human character it describes."
+shortcode: badgerttm
+name: {full: Badger, aliases: [Badger Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Badger
-  aliases:
-    - Badger Totem
-shortcode: badgerttm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The badger as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-badgertotem|Badger]]{float: top-left, size: medium}

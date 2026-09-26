@@ -1,18 +1,9 @@
 ---
-tags:
-  - city
-description: "City"
+shortcode: golshahr
+name: {full: Golshahr, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - amradadrgn
-  population: 22000
-  packFolder: amradad
-name:
-  full: Golshahr
-  aliases: []
-shortcode: golshahr
+description: "City"
+tags: [city]
+data: {demonym: null, lore: [], parents: [amradadrgn], population: 22000, packFolder: amradad}
 ---

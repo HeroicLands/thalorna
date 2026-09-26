@@ -1,12 +1,9 @@
 ---
+shortcode: infrnlrlms
+name: {full: Infernal Realms, aliases: []}
 type: lore
 subType: cosmology
-name:
-  full: Infernal Realms
-  aliases: []
-shortcode: infrnlrlms
-data:
-  packFolder: celestialorder
+data: {packFolder: celestialorder}
 ---
 
 ## The Infernal Realms

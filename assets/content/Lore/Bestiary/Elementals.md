@@ -1,16 +1,11 @@
 ---
-tags:
-  - draft
-name:
-  full: Elementals
-  aliases:
-    - Elemental
-description: "Physical manifestations of astral spirits, each embodying a single elemental aspect."
 shortcode: elemcrtr
+name: {full: Elementals, aliases: [Elemental]}
 type: lore
 subType: bestiary
-data:
-  banner: creaturebnr
+description: "Physical manifestations of astral spirits, each embodying a single elemental aspect."
+tags: [draft]
+data: {banner: creaturebnr}
 ---
 
 Physical manifestations of spirits from the astral realm that embody a single elemental aspect.

@@ -1,20 +1,11 @@
 ---
-tags:
-  - town
-description: "Town"
+shortcode: terravia
+name: {full: Terravia, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vald
-  population: 4000
-  packFolder: vylaria
-name:
-  full: Terravia
-  aliases: []
-shortcode: terravia
+description: "Town"
+tags: [town]
+data: {demonym: null, lore: [], parents: [vald], population: 4000, packFolder: vylaria}
 ---
 
 ## Overview

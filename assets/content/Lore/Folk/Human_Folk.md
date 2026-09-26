@@ -1,16 +1,11 @@
 ---
-tags:
-  - lore
-  - lineage
-description: "The Human Folk"
+shortcode: humanflk
+name: {full: Human Folk, aliases: []}
 type: lore
 subType: folk
-name:
-  full: Human Folk
-  aliases: []
-shortcode: humanflk
-data:
-  packFolder: settinglore
+description: "The Human Folk"
+tags: [lore, lineage]
+data: {packFolder: settinglore}
 ---
 
 Humans live in farming villages, trading towns and great cities, and among

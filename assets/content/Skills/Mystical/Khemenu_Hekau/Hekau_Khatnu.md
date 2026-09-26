@@ -1,18 +1,10 @@
 ---
-tags:
-  - khemenu-hekau
-  - draft
+shortcode: khatnu
+name: {full: "Hekau: Khat'nu", aliases: [Per-Khat'nu]}
 type: skill
 subType: mystical
-shortcode: khatnu
-name:
-  full: "Hekau: Khat'nu"
-  aliases:
-    - Per-Khat'nu
-data:
-  icon: khatnu
-  templatePriority: null
-  packFolder: khemenuhekau
+tags: [khemenu-hekau, draft]
+data: {icon: khatnu, templatePriority: null, packFolder: khemenuhekau}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"

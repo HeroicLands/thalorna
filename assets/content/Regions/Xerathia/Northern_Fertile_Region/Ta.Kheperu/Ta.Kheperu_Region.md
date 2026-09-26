@@ -1,27 +1,20 @@
 ---
-tags:
-  - region
-description: The great river valley and delta of Xerathia's northern shore—a band of flood-fed abundance running hundreds of leagues inland, and the seat of the Empire of Ta'Kheperu.
-name:
-  full: Ta'Kheperu Region
-  aliases: []
 shortcode: takheperurgn
+name: {full: Ta'Kheperu Region, aliases: []}
 type: place
 subType: region
+description: The great river valley and delta of Xerathia's northern shore—a band of flood-fed abundance running hundreds of leagues inland, and the seat of the Empire of Ta'Kheperu.
+tags: [region]
 data:
   icon: null
   demonym: Kheperi
-  lore:
-    - humanflk
-  parents:
-    - nrthrnfrtlrgn
-    - xerathia
+  lore: [humanflk]
+  parents: [nrthrnfrtlrgn, xerathia]
   borders:
-    - { to: bethuargn, bearing: W }
-    - { to: dunharargn, bearing: NE }
-    - { to: vylarianse, bearing: NW }
-  routes:
-    - { to: chandrmukha, bearing: NE, mode: ship, days: 30 }
+    - {to: bethuargn, bearing: W}
+    - {to: dunharargn, bearing: NE}
+    - {to: vylarianse, bearing: NW}
+  routes: [{to: chandrmukha, bearing: NE, mode: ship, days: 30}]
   population: 19000000
   packFolder: takheperu
 ---

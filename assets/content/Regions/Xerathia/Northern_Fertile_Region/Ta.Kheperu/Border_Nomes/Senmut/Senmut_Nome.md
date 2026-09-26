@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: "A river-island fortress-nome at the second cataract; gateway and toll-gate—the land of the Nome of Senmut, one of the border nomes of Ta'Kheperu."
-name:
-  full: Senmut Nome
-  aliases: []
 shortcode: senmutnome
+name: {full: Senmut Nome, aliases: []}
 type: place
 subType: region
+description: "A river-island fortress-nome at the second cataract; gateway and toll-gate—the land of the Nome of Senmut, one of the border nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 200000
   packFolder: bordernomes
 ---

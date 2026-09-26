@@ -1,22 +1,11 @@
 ---
-tags:
-  - hall
-  - military
-  - inland
-description: "The oldest of the four academy halls in the bow-fort, which teaches the great longbow and sends its graduates to the heavy infantry of every Vedyari kingdom."
+shortcode: highdraw
+name: {full: The Academy of the High Draw, aliases: []}
 type: place
 subType: structure
-data:
-  demonym: null
-  lore: []
-  parents:
-    - dhanurkotajnpd
-  population: null
-  packFolder: vedyara
-name:
-  full: The Academy of the High Draw
-  aliases: []
-shortcode: highdraw
+description: "The oldest of the four academy halls in the bow-fort, which teaches the great longbow and sends its graduates to the heavy infantry of every Vedyari kingdom."
+tags: [hall, military, inland]
+data: {demonym: null, lore: [], parents: [dhanurkotajnpd], population: null, packFolder: vedyara}
 ---
 
 The **Academy of the High Draw** is the oldest of the four halls inside [[place-bowfort|the Bow-Fort]] and teaches the great longbow. Its foundation is placed in the dim past by its own account and is not dated by anybody else's. Its graduates serve in infantry-support roles, standing behind a line and shooting over it, which is the oldest use a Vedyari army has for an archer.

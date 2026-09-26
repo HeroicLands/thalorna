@@ -1,13 +1,9 @@
 ---
-tags:
-  - animal
-  - creature
-name:
-  full: Giant Octopus
-  aliases: []
-description: "A solitary, fiercely territorial deep-water cephalopod whose crushing tentacles can splinter a small boat's hull, among the most intelligent creatures known."
 shortcode: gntoctps
+name: {full: Giant Octopus, aliases: []}
 type: being
+description: "A solitary, fiercely territorial deep-water cephalopod whose crushing tentacles can splinter a small boat's hull, among the most intelligent creatures known."
+tags: [animal, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -43,21 +39,21 @@ sohl:
     rea: 1d6+10
     cre: 1d6+9
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 19 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 70 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 65 } }
-    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 33 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 56 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 56 } }
-    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 43 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 19}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 13}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 70}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 65}}
+    - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 33}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 56}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 56}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 43}}
     - name: Tentacle Grapple
       type: skill
       system:
@@ -65,35 +61,20 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 63
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: tentacle
           name: Tentacle Grapple
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 4
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 4
-            aspect: blunt
+          attack: {disabled: false, spread: 4, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 4, aspect: blunt}
           lengthBase: 3
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
     - name: Beak Bite
       type: skill
       system:
@@ -101,78 +82,50 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 60
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: beak
           name: Beak Bite
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 2
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 5
-            aspect: piercing
+          attack: {disabled: false, spread: 2, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 5, aspect: piercing}
           lengthBase: 1
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
   system:
     body:
       structure:
         zones:
-          - name: Mantle
-            shortcode: mantlezone
-            probWeight: 4
-          - name: Head
-            shortcode: headzone
-            probWeight: 2
-          - name: Arms
-            shortcode: armszone
-            probWeight: 4
+          - {name: Mantle, shortcode: mantlezone, probWeight: 4}
+          - {name: Head, shortcode: headzone, probWeight: 2}
+          - {name: Arms, shortcode: armszone, probWeight: 4}
         parts:
           - name: Mantle
             shortcode: mantlepart
             bodyZoneCode: mantlezone
-            roles:
-              - core
+            roles: [core]
             canHoldItem: false
             probWeight: 10
           - name: Head
             shortcode: headpart
             bodyZoneCode: headzone
-            roles:
-              - vital
-              - manipulator
+            roles: [vital, manipulator]
             canHoldItem: false
             probWeight: 10
           - name: Left Arms
             shortcode: larmspart
             bodyZoneCode: armszone
-            roles:
-              - locomotor
-              - manipulator
+            roles: [locomotor, manipulator]
             canHoldItem: false
             probWeight: 5
           - name: Right Arms
             shortcode: rarmspart
             bodyZoneCode: armszone
-            roles:
-              - locomotor
-              - manipulator
+            roles: [locomotor, manipulator]
             canHoldItem: false
             probWeight: 5
         locations:
@@ -183,11 +136,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 10
-            protectionBase:
-              blunt: 3
-              edged: 2
-              piercing: 1
-              fire: 3
+            protectionBase: {blunt: 3, edged: 2, piercing: 1, fire: 3}
           - name: Head
             shortcode: headloc
             bodyPartCode: headpart
@@ -195,11 +144,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 7
-            protectionBase:
-              blunt: 3
-              edged: 2
-              piercing: 1
-              fire: 3
+            protectionBase: {blunt: 3, edged: 2, piercing: 1, fire: 3}
           - name: Beak
             shortcode: beakloc
             bodyPartCode: headpart
@@ -207,11 +152,7 @@ sohl:
             amputability: high
             shockValue: 2
             probWeight: 3
-            protectionBase:
-              blunt: 3
-              edged: 2
-              piercing: 1
-              fire: 3
+            protectionBase: {blunt: 3, edged: 2, piercing: 1, fire: 3}
           - name: Left Arms
             shortcode: larmsloc
             bodyPartCode: larmspart
@@ -219,11 +160,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 3
-              edged: 2
-              piercing: 1
-              fire: 3
+            protectionBase: {blunt: 3, edged: 2, piercing: 1, fire: 3}
           - name: Right Arms
             shortcode: rarmsloc
             bodyPartCode: rarmspart
@@ -231,14 +168,8 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 3
-              edged: 2
-              piercing: 1
-              fire: 3
-      weight:
-        base: 300
-        calc: "300"
+            protectionBase: {blunt: 3, edged: 2, piercing: 1, fire: 3}
+      weight: {base: 300, calc: "300"}
       reachBase: 0
       bodyScaleBase: 1.43
       personalFatigue: "enc + 5"

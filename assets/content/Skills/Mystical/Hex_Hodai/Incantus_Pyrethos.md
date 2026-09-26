@@ -1,17 +1,10 @@
 ---
-tags:
-  - hex-hodai
-  - draft
+shortcode: pyrethos
+name: {full: Incantus Pyréthos, aliases: []}
 type: skill
 subType: mystical
-shortcode: pyrethos
-name:
-  full: Incantus Pyréthos
-  aliases: []
-data:
-  icon: pyrethos
-  templatePriority: null
-  packFolder: hexhodai
+tags: [hex-hodai, draft]
+data: {icon: pyrethos, templatePriority: null, packFolder: hexhodai}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"

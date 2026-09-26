@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: The Loosened Knot
-  aliases: []
-description: "Undoes a binding, ward or seal without destroying the surface that carries it."
 shortcode: lsndknt
+name: {full: The Loosened Knot, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: sefut
-  templatePriority: null
-  packFolder: hekauincantations
+description: "Undoes a binding, ward or seal without destroying the surface that carries it."
+tags: [khemenu-hekau, incantation]
+data: {icon: sefut, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: sefut
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---
 
 Where Unwritten removes the form, this unmakes the working while leaving the inscription intact

@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "The Grukar are first recorded around 3000 BF in the Khazári archive at Khazártúrn—nothing written there in twenty-one centuries mentions them, and within a generation a great deal does."
+shortcode: grukarapp
+name: {full: The Appearing of the Grukar, aliases: [The Appearing]}
 type: lore
 subType: history
-name:
-  full: The Appearing of the Grukar
-  aliases:
-    - The Appearing
-shortcode: grukarapp
-data:
-  packFolder: settinglore
+description: "The Grukar are first recorded around 3000 BF in the Khazári archive at Khazártúrn—nothing written there in twenty-one centuries mentions them, and within a generation a great deal does."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: arrival

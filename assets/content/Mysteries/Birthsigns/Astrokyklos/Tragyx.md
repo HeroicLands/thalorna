@@ -1,16 +1,11 @@
 ---
-tags: []
-name:
-  full: Tragyx
-  aliases: []
-description: "The Stag: born to speak and to seek, equally useless at the anvil and in a fight."
 shortcode: tragyx
+name: {full: Tragyx, aliases: []}
 type: mystery
 subType: birthsign
-data:
-  icon: icon-astrology
-  templatePriority: 0
-  packFolder: astrokyklos
+description: "The Stag: born to speak and to seek, equally useless at the anvil and in a fight."
+tags: []
+data: {icon: icon-astrology, templatePriority: 0, packFolder: astrokyklos}
 sohl:
   kbcat: birthsign
   system:

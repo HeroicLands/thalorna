@@ -1,23 +1,16 @@
 ---
-tags:
-  - region
-description: The great inland sea at the heart of Mídhalión—highway of empire, maritime artery of the Aurèldían and Āsháian faiths.
-name:
-  full: Vylarian Sea
-  aliases: []
 shortcode: vylarianse
+name: {full: Vylarian Sea, aliases: []}
 type: place
 subType: region
+description: The great inland sea at the heart of Mídhalión—highway of empire, maritime artery of the Aurèldían and Āsháian faiths.
+tags: [region]
 data:
   icon: null
   demonym: null
   lore: []
-  parents:
-    - ankrscntnnt
-    - xerathia
-  borders:
-    - { to: takheperurgn, bearing: SE }
-    - { to: dunharargn, bearing: E }
+  parents: [ankrscntnnt, xerathia]
+  borders: [{to: takheperurgn, bearing: SE}, {to: dunharargn, bearing: E}]
   population: null
   packFolder: midhalion
 

@@ -1,21 +1,11 @@
 ---
-tags:
-  - town
-  - coastal
-description: "Coastal Town"
+shortcode: portaelion
+name: {full: Port Aelion, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - glanmor
-  population: 9000
-  packFolder: elavendre
-name:
-  full: Port Aelion
-  aliases: []
-shortcode: portaelion
+description: "Coastal Town"
+tags: [town, coastal]
+data: {demonym: null, lore: [], parents: [glanmor], population: 9000, packFolder: elavendre}
 ---
 
 ## Overview

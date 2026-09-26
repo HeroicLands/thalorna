@@ -1,12 +1,9 @@
 ---
-tags: []
-description: "Lord of Fire in the Tëngvōk Vān Lëi—one of the five Elemental Lords, holding fire as an office of the celestial bureaucracy."
+shortcode: vorjikjekdty
+name: {full: Vōrjīk Jëk, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Vōrjīk Jëk
-  aliases: []
-shortcode: vorjikjekdty
-data:
-  packFolder: deitiestengvokvanlei
+description: "Lord of Fire in the Tëngvōk Vān Lëi—one of the five Elemental Lords, holding fire as an office of the celestial bureaucracy."
+tags: []
+data: {packFolder: deitiestengvokvanlei}
 ---

@@ -1,21 +1,11 @@
 ---
-tags:
-  - town
-  - market
-description: "Market Town"
+shortcode: calvaris
+name: {full: Calvaris, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - alyssa
-  population: 9000
-  packFolder: vylaria
-name:
-  full: Calvaris
-  aliases: []
-shortcode: calvaris
+description: "Market Town"
+tags: [town, market]
+data: {demonym: null, lore: [], parents: [alyssa], population: 9000, packFolder: vylaria}
 ---
 
 ## Overview

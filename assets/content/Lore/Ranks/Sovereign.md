@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: sovereignrnk
+name: {full: Sovereign, aliases: []}
 type: lore
 subType: law
-name:
-  full: Sovereign
-  aliases: []
-shortcode: sovereignrnk
 description: "The apex from which every other standing in the body derives."
+tags: [draft]
 ---
 
 The apex from which every other standing in the body derives.

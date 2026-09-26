@@ -1,18 +1,10 @@
 ---
-tags:
-  - kemetian
-  - faith-skill
-  - draft
+shortcode: khetamun
+name: {full: "Ritual: Khet'Amun", aliases: ["Khet'Amun, The River-God"]}
 type: skill
 subType: mystical
-shortcode: khetamun
-name:
-  full: "Ritual: Khet'Amun"
-  aliases:
-    - Khet'Amun, The River-God
-data:
-  templatePriority: null
-  packFolder: kemetian
+tags: [kemetian, faith-skill, draft]
+data: {templatePriority: null, packFolder: kemetian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

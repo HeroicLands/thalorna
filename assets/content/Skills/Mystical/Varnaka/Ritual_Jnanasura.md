@@ -1,19 +1,10 @@
 ---
-tags:
-  - varnaka
-  - faith-skill
+shortcode: jnanasura
+name: {full: "Ritual: Jñānasūra", aliases: [Jñānasūra, Jnanasura, The Radiant Sage]}
 type: skill
 subType: mystical
-shortcode: jnanasura
-name:
-  full: "Ritual: Jñānasūra"
-  aliases:
-    - Jñānasūra
-    - Jnanasura
-    - The Radiant Sage
-data:
-  templatePriority: null
-  packFolder: varnaka
+tags: [varnaka, faith-skill]
+data: {templatePriority: null, packFolder: varnaka}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

@@ -1,18 +1,11 @@
 ---
-tags:
-  - great-elixir
-name:
-  full: "Oracle's Vapor"
-  aliases:
-    - Potion, Hallucinogenic, Great
-description: "Writhing near-black liquid; grants prophetic visions and future sight."
 shortcode: ptnhalg
+name: {full: "Oracle's Vapor", aliases: ["Potion, Hallucinogenic, Great"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: great
+description: "Writhing near-black liquid; grants prophetic visions and future sight."
+tags: [great-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: great}
 sohl:
   system:
     weightBase: 0.25

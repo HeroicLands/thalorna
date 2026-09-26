@@ -1,15 +1,10 @@
 ---
-tags: []
-name:
-  full: Bolas
-  aliases: []
-description: "Weighted cord-balls entangle and trip; herder's disabled-cavalry tool."
 shortcode: bola
+name: {full: Bolas, aliases: []}
 type: weapongear
-data:
-  icon: icon-bolas
-  templatePriority: null
-  packFolder: weapons
+description: "Weighted cord-balls entangle and trip; herder's disabled-cavalry tool."
+tags: []
+data: {icon: icon-bolas, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: thrown
   weaponType: Thrown
@@ -24,14 +19,8 @@ sohl:
         name: Thrown
         assocSkillCode: thro
         minParts: 1
-        attack:
-          spread: 8
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 6
-          modifier: 1
-          aspect: blunt
+        attack: {spread: 8, modifier: 0}
+        impactBase: {numDice: 1, die: 6, modifier: 1, aspect: blunt}
         traits:
           meleeMod: 0
           blockSLMod: 0

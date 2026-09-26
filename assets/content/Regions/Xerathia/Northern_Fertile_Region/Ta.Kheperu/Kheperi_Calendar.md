@@ -1,36 +1,31 @@
 ---
-tags:
-  - reference
-  - calendar
-description: "The Kheperi calendar: three four-month seasons tracking the river's flood, planting and harvest, with five days added at the year's end to keep the count whole."
+shortcode: khprclndr
+name: {full: The Kheperi Calendar, aliases: [Kheperi Calendar]}
 type: lore
 subType: calendar
-name:
-  full: The Kheperi Calendar
-  aliases:
-    - Kheperi Calendar
-shortcode: khprclndr
+description: "The Kheperi calendar: three four-month seasons tracking the river's flood, planting and harvest, with five days added at the year's end to keep the count whole."
+tags: [reference, calendar]
 data:
   epoch: 720/1/1
   months:
-    - { name: Akhet I, days: 30 }
-    - { name: Akhet II, days: 30 }
-    - { name: Akhet III, days: 30 }
-    - { name: Akhet IV, days: 30 }
-    - { name: Peret I, days: 30 }
-    - { name: Peret II, days: 30 }
-    - { name: Peret III, days: 30 }
-    - { name: Peret IV, days: 30 }
-    - { name: Shemu I, days: 30 }
-    - { name: Shemu II, days: 30 }
-    - { name: Shemu III, days: 30 }
-    - { name: Shemu IV, days: 30 }
-    - { name: The Five Intercalary Days, days: 5 }
+    - {name: Akhet I, days: 30}
+    - {name: Akhet II, days: 30}
+    - {name: Akhet III, days: 30}
+    - {name: Akhet IV, days: 30}
+    - {name: Peret I, days: 30}
+    - {name: Peret II, days: 30}
+    - {name: Peret III, days: 30}
+    - {name: Peret IV, days: 30}
+    - {name: Shemu I, days: 30}
+    - {name: Shemu II, days: 30}
+    - {name: Shemu III, days: 30}
+    - {name: Shemu IV, days: 30}
+    - {name: The Five Intercalary Days, days: 5}
   weekdays: []
   seasons:
-    - { name: Akhet, monthStart: 1, monthEnd: 4 }
-    - { name: Peret, monthStart: 5, monthEnd: 8 }
-    - { name: Shemu, monthStart: 9, monthEnd: 12 }
+    - {name: Akhet, monthStart: 1, monthEnd: 4}
+    - {name: Peret, monthStart: 5, monthEnd: 8}
+    - {name: Shemu, monthStart: 9, monthEnd: 12}
   packFolder: takheperu
 ---
 

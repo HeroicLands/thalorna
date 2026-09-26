@@ -1,17 +1,11 @@
 ---
-tags: []
-name:
-  full: Helonic Language
-  aliases:
-    - Helonic
-description: "The old prestige tongue of philosophy, theater, and scholarship—still the learned man's second language from the academies to the stage."
 shortcode: helonclng
+name: {full: Helonic Language, aliases: [Helonic]}
 type: skill
 subType: language
-data:
-  icon: icon-speaking
-  templatePriority: null
-  packFolder: language
+description: "The old prestige tongue of philosophy, theater, and scholarship—still the learned man's second language from the academies to the stage."
+tags: []
+data: {icon: icon-speaking, templatePriority: null, packFolder: language}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -20,9 +14,7 @@ sohl:
     combatCategory: none
     parentSkillCode: lang
     initSkillMult: 0
-  flags:
-    "thalorna":
-      lang_family: Helonic
+  flags: {"thalorna": {lang_family: Helonic}}
 ---
 
 Helonic is a tongue of the Helonic family. Fluency measures the sophistication of expression in Helonic, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.

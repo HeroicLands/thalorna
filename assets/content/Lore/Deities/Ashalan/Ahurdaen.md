@@ -1,12 +1,9 @@
 ---
-tags: []
-description: "The Keeper of Harmony in the Āsháian pantheon, holding order against the falsehood that erodes it."
+shortcode: ahurdaendty
+name: {full: Āhúrdáén, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Āhúrdáén
-  aliases: []
-shortcode: ahurdaendty
-data:
-  packFolder: deitiesashalan
+description: "The Keeper of Harmony in the Āsháian pantheon, holding order against the falsehood that erodes it."
+tags: []
+data: {packFolder: deitiesashalan}
 ---

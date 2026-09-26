@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Halt
-  aliases:
-    - Stay
-description: "Freezes target's motion; roots them in place unable to move."
 shortcode: halt
+name: {full: Halt, aliases: [Stay]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
-  packFolder: spells
+description: "Freezes target's motion; roots them in place unable to move."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Stay

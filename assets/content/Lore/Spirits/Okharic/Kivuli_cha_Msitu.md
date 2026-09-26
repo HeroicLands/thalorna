@@ -1,17 +1,11 @@
 ---
-tags:
-  - draft
-  - nkaruthar
+shortcode: kivulispr
+name: {full: Kivuli cha Msitu, aliases: [The Shadow of the Forest]}
 type: lore
 subType: spirit
 description: "Zohira of the hunt and of the guardian predators—the spirit a candidate meets in the Spirit Hunt, and the one that decides whether they return."
-name:
-  full: Kivuli cha Msitu
-  aliases:
-    - The Shadow of the Forest
-shortcode: kivulispr
-data:
-  packFolder: lorespiritsokharic
+tags: [draft, nkaruthar]
+data: {packFolder: lorespiritsokharic}
 ---
 
 - **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]

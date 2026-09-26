@@ -1,17 +1,10 @@
 ---
-tags:
-  - hex-hodai
-  - draft
+shortcode: pneumenos
+name: {full: Incantus Pneuménos, aliases: []}
 type: skill
 subType: mystical
-shortcode: pneumenos
-name:
-  full: Incantus Pneuménos
-  aliases: []
-data:
-  icon: pneumenos
-  templatePriority: null
-  packFolder: hexhodai
+tags: [hex-hodai, draft]
+data: {icon: pneumenos, templatePriority: null, packFolder: hexhodai}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"

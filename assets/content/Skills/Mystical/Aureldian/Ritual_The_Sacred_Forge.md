@@ -1,20 +1,10 @@
 ---
-tags:
-  - aureldian
-  - faith-skill
-  - draft
+shortcode: sacredforge
+name: {full: "Ritual: The Sacred Forge", aliases: [The Sacred Forge, Vúlcani Orthodox]}
 type: skill
 subType: mystical
-shortcode: sacredforge
-name:
-  full: "Ritual: The Sacred Forge"
-  aliases:
-    - The Sacred Forge
-    - Vúlcani Orthodox
-data:
-  icon: sacredforge
-  templatePriority: null
-  packFolder: aureldian
+tags: [aureldian, faith-skill, draft]
+data: {icon: sacredforge, templatePriority: null, packFolder: aureldian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

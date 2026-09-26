@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: "Eastern delta port; salt-fish, curing-houses, and the trade road to Bethua—the land of the Nome of Djaneb, one of the delta nomes of Ta'Kheperu."
-name:
-  full: Djaneb Nome
-  aliases: []
 shortcode: djanebnome
+name: {full: Djaneb Nome, aliases: []}
 type: place
 subType: region
+description: "Eastern delta port; salt-fish, curing-houses, and the trade road to Bethua—the land of the Nome of Djaneb, one of the delta nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 750000
   packFolder: deltanomes
 ---

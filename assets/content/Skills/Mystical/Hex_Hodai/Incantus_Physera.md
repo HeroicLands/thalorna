@@ -1,17 +1,10 @@
 ---
-tags:
-  - hex-hodai
-  - draft
+shortcode: physera
+name: {full: Incantus Physéra, aliases: []}
 type: skill
 subType: mystical
-shortcode: physera
-name:
-  full: Incantus Physéra
-  aliases: []
-data:
-  icon: physera
-  templatePriority: null
-  packFolder: hexhodai
+tags: [hex-hodai, draft]
+data: {icon: physera, templatePriority: null, packFolder: hexhodai}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"

@@ -1,15 +1,10 @@
 ---
-tags: []
-type: affiliation
-description: The temple-republic of Rājapur—the villages of the central Mahānadi plain federated around the great Vyālendra temple raised on the ruins of an ancient royal capital, governed by a sabhā that famously displaced the failing kingdom whose seat Rājapur once was. The classical example of a janapada that grew by replacing a kingdom rather than emerging beside one.
-name:
-  full: Rājapur Janapada
-  aliases:
-    - Rajapur
-    - Rājapur
-    - The Janapada of the King's-Town
 shortcode: rajaprjnpd
+name: {full: Rājapur Janapada, aliases: [Rajapur, Rājapur, The Janapada of the King's-Town]}
+type: affiliation
 subType: polity
+description: The temple-republic of Rājapur—the villages of the central Mahānadi plain federated around the great Vyālendra temple raised on the ruins of an ancient royal capital, governed by a sabhā that famously displaced the failing kingdom whose seat Rājapur once was. The classical example of a janapada that grew by replacing a kingdom rather than emerging beside one.
+tags: []
 data:
   templatePriority: null
   demonym: Rājapuri
@@ -18,80 +13,61 @@ data:
   governance:
     model: council
     summary: >-
-      Sabhā of thirty-six members convened by the senior priest of the great Vyālendra temple,
-      with representation drawn from each constituent village and from the
-      principal artisan, merchant, and scholar guilds of the central town. By long tradition
-      the sabhā includes one Memory-Keeper—a hereditary office whose holder maintains the
-      genealogies of the displaced royal line and recites them at the opening of every formal
-      session, as a continuing acknowledgment of what Rājapur was before it became a janapada.
+      Sabhā of thirty-six members convened by the senior priest of the great Vyālendra temple, with representation drawn from each constituent village and from the principal artisan, merchant, and scholar guilds of the central town. By long tradition the sabhā includes one Memory-Keeper—a hereditary office whose holder maintains the genealogies of the displaced royal line and recites them at the opening of every formal session, as a continuing acknowledgment of what Rājapur was before it became a janapada.
     ranks:
       - level: 0
         title: Outcaste
         lore: excmmnctrnk
         description: >-
-          Placed outside the tharana by transgression or by birth, excluded from the wells,
-          the temples and the courts.
+          Placed outside the tharana by transgression or by birth, excluded from the wells, the temples and the courts.
       - level: 1
         title: Bonded Servant
         lore: bondservantrnk
         description: >-
-          Bound by debt or birth to a household, owing labor and lacking the standing to hold
-          land.
+          Bound by debt or birth to a household, owing labor and lacking the standing to hold land.
       - level: 2
         title: Karmāja
         lore: commonerrnk
         description: >-
-          Born to the serving tharana—cultivators, artisans and laborers who hold their place by
-          work rather than by rite.
+          Born to the serving tharana—cultivators, artisans and laborers who hold their place by work rather than by rite.
       - level: 3
         title: Dhanāja
         lore: gentryrnk
         description: >-
-          Born to the productive tharana—merchants, herders and landholders, whose tithes in coin and
-          goods sustain the temple and its granary.
+          Born to the productive tharana—merchants, herders and landholders, whose tithes in coin and goods sustain the temple and its granary.
       - level: 4
         title: Senāja
         lore: warriorrnk
         description: >-
-          Born to the warrior tharana, bearing arms by right and owing service in the militia the sabhā
-          raises from the villages.
+          Born to the warrior tharana, bearing arms by right and owing service in the militia the sabhā raises from the villages.
       - level: 5
         title: Ritūja
         lore: priestrnk
         description: >-
-          Born to the priestly tharana, keeper of rite and learning, without whose sanction no act of
-          the sabhā is complete.
+          Born to the priestly tharana, keeper of rite and learning, without whose sanction no act of the sabhā is complete.
       - level: 6
         title: Sabhāsad
         lore: councillorrnk
         description: >-
-          A seated member of the sabhā, sent by a constituent village at its turn or by a guild
-          holding a reserved seat, and answerable to those who sent him.
+          A seated member of the sabhā, sent by a constituent village at its turn or by a guild holding a reserved seat, and answerable to those who sent him.
       - level: 7
         title: Sabhāpati
         lore: prsdngffcrrnk
         description: >-
-          The convening priest, who puts the sabhā's questions and declares what it has agreed.
-          He presides and does not rule, and only the ordained may hold the office.
+          The convening priest, who puts the sabhā's questions and declares what it has agreed. He presides and does not rule, and only the ordained may hold the office.
     offices:
       Sabhāpati: >-
-        The senior priest of the central temple, who convenes the sabhā, puts its questions and
-        declares what it has agreed.
+        The senior priest of the central temple, who convenes the sabhā, puts its questions and declares what it has agreed.
       Smrtibhāra: >-
-        The Memory-Keeper, who holds the janapada's genealogies, boundary records and
-        precedents, and recites them when the sabhā asks.
+        The Memory-Keeper, who holds the janapada's genealogies, boundary records and precedents, and recites them when the sabhā asks.
       Koshādhyaksha: >-
-        Superintendent of the temple treasury, answerable for the granary reserve, the
-        endowments and the tithe rolls.
+        Superintendent of the temple treasury, answerable for the granary reserve, the endowments and the tithe rolls.
       Ganaka: >-
-        The reckoner, who fixes the ritual calendar, keeps the survey of the fields and computes
-        each village's share of the water.
+        The reckoner, who fixes the ritual calendar, keeps the survey of the fields and computes each village's share of the water.
       Dūta: >-
-        The envoy who carries the sabhā's word to a neighboring janapada, to a patron court and
-        to the Mela.
+        The envoy who carries the sabhā's word to a neighboring janapada, to a patron court and to the Mela.
       Senānī: >-
-        Captain of the militia, raised from the villages at the sabhā's call and dismissed when
-        the need ends.
+        Captain of the militia, raised from the villages at the sabhā's call and dismissed when the need ends.
   seat: rajapur
   domains:
     - rajapurjnpd
@@ -108,21 +84,12 @@ data:
     - nadipada
     - pushpavana
   population: 25000
-  economy:
-    - affiliation-mrchntclctvvdyr
-    - lore-vdyrnbnkng
-  lore:
-    - vedyariclt
-  parents:
-    - janpdsvdyr
-  relations:
-    varakpnthn: aligned
-    chandrapur: aligned
+  economy: [affiliation-mrchntclctvvdyr, lore-vdyrnbnkng]
+  lore: [vedyariclt]
+  parents: [janpdsvdyr]
+  relations: {varakpnthn: aligned, chandrapur: aligned}
   packFolder: vedyara
-sohl:
-  system:
-    commonSkills:
-      - vedyarlng
+sohl: {system: {commonSkills: [vedyarlng]}}
 
 # terran_analog: "Medieval South Indian temple-republic that emerged from the ruins of a failed kingdom—a Chola-era brahmadeya village federation centered on a temple complex built atop or alongside an abandoned royal capital, governed by an assembly that explicitly preserves the memory of the displaced dynasty"
 ---

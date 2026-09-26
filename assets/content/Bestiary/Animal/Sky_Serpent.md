@@ -1,13 +1,9 @@
 ---
-tags:
-  - animal
-  - creature
-name:
-  full: Sky Serpent
-  aliases: []
-description: "A serpentine aerial predator up to thirty feet long that glides from mountain heights and canopies to ambush and constrict prey."
 shortcode: skysrpnt
+name: {full: Sky Serpent, aliases: []}
 type: being
+description: "A serpentine aerial predator up to thirty feet long that glides from mountain heights and canopies to ambush and constrict prey."
+tags: [animal, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -43,21 +39,21 @@ sohl:
     rea: 1d4+4
     cre: 1d4+3
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 21 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 17 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 7 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 6 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 75 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 75 } }
-    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 33 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 40 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 64 } }
-    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 48 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 21}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 17}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 7}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 6}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 75}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 75}}
+    - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 33}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 40}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 64}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 48}}
     - name: Venomous Bite
       type: skill
       system:
@@ -65,36 +61,20 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 68
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: bite
           name: Venomous Bite
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 4
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 8
-            modifier: 6
-            aspect: piercing
+          attack: {disabled: false, spread: 4, modifier: 0}
+          impactBase: {numDice: 1, die: 8, modifier: 6, aspect: piercing}
           lengthBase: 1
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
-            poison: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true, poison: true}
     - name: Constricting Coils
       type: skill
       system:
@@ -102,72 +82,44 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 73
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: grab
           name: Constricting Coils
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 8
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 21
-            aspect: blunt
+          attack: {disabled: false, spread: 8, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 21, aspect: blunt}
           lengthBase: 1
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
-            constrict: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true, constrict: true}
   system:
     body:
       structure:
         zones:
-          - name: Head
-            shortcode: headzone
-            probWeight: 3
-          - name: Forebody
-            shortcode: torsozone
-            probWeight: 11
-          - name: Hindbody
-            shortcode: hindbodyzone
-            probWeight: 6
+          - {name: Head, shortcode: headzone, probWeight: 3}
+          - {name: Forebody, shortcode: torsozone, probWeight: 11}
+          - {name: Hindbody, shortcode: hindbodyzone, probWeight: 6}
         parts:
           - name: Head
             shortcode: headpart
             bodyZoneCode: headzone
-            roles:
-              - vital
-              - manipulator
+            roles: [vital, manipulator]
             canHoldItem: false
             probWeight: 10
           - name: Forebody
             shortcode: forebodypart
             bodyZoneCode: torsozone
-            roles:
-              - core
-              - locomotor
+            roles: [core, locomotor]
             canHoldItem: false
             probWeight: 10
           - name: Hindbody
             shortcode: hindbodypart
             bodyZoneCode: hindbodyzone
-            roles:
-              - core
-              - locomotor
+            roles: [core, locomotor]
             canHoldItem: false
             probWeight: 6
           - name: Tail
@@ -184,11 +136,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 4
-            protectionBase:
-              blunt: 4
-              edged: 3
-              piercing: 1
-              fire: 3
+            protectionBase: {blunt: 4, edged: 3, piercing: 1, fire: 3}
           - name: Neck
             shortcode: neckloc
             bodyPartCode: headpart
@@ -196,11 +144,7 @@ sohl:
             amputability: low
             shockValue: 5
             probWeight: 6
-            protectionBase:
-              blunt: 4
-              edged: 3
-              piercing: 1
-              fire: 3
+            protectionBase: {blunt: 4, edged: 3, piercing: 1, fire: 3}
           - name: Thorax
             shortcode: thoraxloc
             bodyPartCode: forebodypart
@@ -208,11 +152,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 10
-            protectionBase:
-              blunt: 4
-              edged: 3
-              piercing: 1
-              fire: 3
+            protectionBase: {blunt: 4, edged: 3, piercing: 1, fire: 3}
           - name: Abdomen
             shortcode: abdloc
             bodyPartCode: hindbodypart
@@ -220,11 +160,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 10
-            protectionBase:
-              blunt: 4
-              edged: 3
-              piercing: 1
-              fire: 3
+            protectionBase: {blunt: 4, edged: 3, piercing: 1, fire: 3}
           - name: Tail
             shortcode: tailloc
             bodyPartCode: tailpart
@@ -232,14 +168,8 @@ sohl:
             amputability: high
             shockValue: 1
             probWeight: 10
-            protectionBase:
-              blunt: 4
-              edged: 3
-              piercing: 1
-              fire: 3
-      weight:
-        base: 150
-        calc: "150"
+            protectionBase: {blunt: 4, edged: 3, piercing: 1, fire: 3}
+      weight: {base: 150, calc: "150"}
       reachBase: 0
       bodyScaleBase: 1.52
       personalFatigue: "enc + 5"
@@ -251,14 +181,8 @@ sohl:
         encumbrance: "floor(wt/4)"
         strMod: "-5 * floor((str - 10) / 2)"
         factors:
-          - scope: surface_cover
-            key: wetlands
-            mode: add
-            textValue: "-2"
-          - scope: hydrology
-            key: shallow
-            mode: add
-            textValue: "0"
+          - {scope: surface_cover, key: wetlands, mode: add, textValue: "-2"}
+          - {scope: hydrology, key: shallow, mode: add, textValue: "0"}
         disabled: false
 ---
 

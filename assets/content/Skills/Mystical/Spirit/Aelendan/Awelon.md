@@ -1,20 +1,11 @@
 ---
-tags:
-  - first-gods
-  - spirit-power
-  - draft
-description: "Standing with Awelon, the West Wind—what this allied Kindred is met, asked and bargained with."
+shortcode: awelonsprt
+name: {full: "Awelon Spirit Power", aliases: ["Awelon, the West Wind"]}
 type: skill
 subType: mystical
-shortcode: awelonsprt
-name:
-  full: "Awelon Spirit Power"
-  aliases:
-    - Awelon, the West Wind
-data:
-  icon: icon-psychicwaves
-  templatePriority: null
-  packFolder: spiritskillsaelendan
+description: "Standing with Awelon, the West Wind—what this allied Kindred is met, asked and bargained with."
+tags: [first-gods, spirit-power, draft]
+data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsaelendan}
 sohl:
   system:
     skillBaseFormula: "@aur, @wil"

@@ -1,19 +1,9 @@
 ---
-tags:
-  - town
-  - merchant
-description: "Merchant Town"
+shortcode: miravel
+name: {full: Míravel, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - haradregin
-  population: 12000
-  packFolder: harad
-name:
-  full: Míravel
-  aliases: []
-shortcode: miravel
+description: "Merchant Town"
+tags: [town, merchant]
+data: {demonym: null, lore: [], parents: [haradregin], population: 12000, packFolder: harad}
 ---

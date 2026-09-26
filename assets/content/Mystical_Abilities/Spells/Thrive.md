@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Thrive
-  aliases:
-    - Growth
-description: "Grants vigor and vitality; strengthens body and spirit."
 shortcode: thrive
+name: {full: Thrive, aliases: [Growth]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
-  packFolder: spells
+description: "Grants vigor and vitality; strengthens body and spirit."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Growth

@@ -1,22 +1,10 @@
 ---
-tags:
-  - kemetian
-  - faith-skill
-  - draft
+shortcode: thoth
+name: {full: "Ritual: Thōth", aliases: [Thōth, Djhuty, Thaut, The Scribe of the Eternal Library]}
 type: skill
 subType: mystical
-shortcode: thoth
-name:
-  full: "Ritual: Thōth"
-  aliases:
-    - Thōth
-    - Djhuty
-    - Thaut
-    - The Scribe of the Eternal Library
-data:
-  icon: thoth
-  templatePriority: null
-  packFolder: kemetian
+tags: [kemetian, faith-skill, draft]
+data: {icon: thoth, templatePriority: null, packFolder: kemetian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

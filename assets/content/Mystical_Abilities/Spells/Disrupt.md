@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Disrupt
-  aliases:
-    - Subvert
-description: "Interrupts spell-casting; shatters focus and ruins ongoing magic."
 shortcode: disrupt
+name: {full: Disrupt, aliases: [Subvert]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Interrupts spell-casting; shatters focus and ruins ongoing magic."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Subvert

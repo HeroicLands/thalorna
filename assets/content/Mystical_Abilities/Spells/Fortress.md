@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Fortress
-  aliases:
-    - Earthwork
-description: "Caster becomes immobile; hardens body against incoming strike and damage."
 shortcode: fortress
+name: {full: Fortress, aliases: [Earthwork]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
-  packFolder: spells
+description: "Caster becomes immobile; hardens body against incoming strike and damage."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Earthwork

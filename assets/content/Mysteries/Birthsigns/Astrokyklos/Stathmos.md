@@ -1,16 +1,11 @@
 ---
-tags: []
-name:
-  full: Stathmos
-  aliases: []
-description: "The Balance: sure-footed, tireless and quick, helpless the moment the road runs out."
 shortcode: stathmos
+name: {full: Stathmos, aliases: []}
 type: mystery
 subType: birthsign
-data:
-  icon: icon-astrology
-  templatePriority: 0
-  packFolder: astrokyklos
+description: "The Balance: sure-footed, tireless and quick, helpless the moment the road runs out."
+tags: []
+data: {icon: icon-astrology, templatePriority: 0, packFolder: astrokyklos}
 sohl:
   kbcat: birthsign
   system:

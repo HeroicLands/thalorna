@@ -1,20 +1,11 @@
 ---
-tags:
-  - first-gods
-  - spirit-power
-  - draft
-description: "Standing with The At'aan Wyrd—what this allied Kindred is met, asked and bargained with."
+shortcode: ataansprt
+name: {full: "The At'aan Wyrd Spirit Power", aliases: [The At'aan Wyrd]}
 type: skill
 subType: mystical
-shortcode: ataansprt
-name:
-  full: "The At'aan Wyrd Spirit Power"
-  aliases:
-    - The At'aan Wyrd
-data:
-  icon: icon-psychicwaves
-  templatePriority: null
-  packFolder: spiritskillsaelendan
+description: "Standing with The At'aan Wyrd—what this allied Kindred is met, asked and bargained with."
+tags: [first-gods, spirit-power, draft]
+data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsaelendan}
 sohl:
   system:
     skillBaseFormula: "@aur, @wil"

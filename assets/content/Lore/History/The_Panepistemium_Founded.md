@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "Around 400 BF the leading philosophical schools of the Helionite city-states agree to a common federation—the Panepistemium, a place for every domain of knowledge, of which the arcane is one college among many."
+shortcode: panepistfnd
+name: {full: The Founding of the Panepistemium, aliases: [The Federation of the Schools]}
 type: lore
 subType: history
-name:
-  full: The Founding of the Panepistemium
-  aliases:
-    - The Federation of the Schools
-shortcode: panepistfnd
-data:
-  packFolder: settinglore
+description: "Around 400 BF the leading philosophical schools of the Helionite city-states agree to a common federation—the Panepistemium, a place for every domain of knowledge, of which the arcane is one college among many."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: founding

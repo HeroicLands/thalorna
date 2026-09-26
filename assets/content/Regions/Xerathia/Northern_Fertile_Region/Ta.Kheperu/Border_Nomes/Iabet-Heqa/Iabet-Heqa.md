@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Iabet-Heqa."
+shortcode: iabetheqa
+name: {full: Iabet-Heqa, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Iabet-Heqa."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - iabetheqanome
+  parents: [iabetheqanome]
   population: 12000
   packFolder: bordernomes
-name:
-  full: Iabet-Heqa
-  aliases: []
-shortcode: iabetheqa
 ---
 
 ## Overview

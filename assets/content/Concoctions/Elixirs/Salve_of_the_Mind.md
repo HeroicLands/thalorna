@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: Salve of the Mind
-  aliases:
-    - Mindslave Elixir
-description: "Dark syrupy draft; clears judgment-clouds, reshapes imbiber's will."
 shortcode: elxmsl
+name: {full: Salve of the Mind, aliases: [Mindslave Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Dark syrupy draft; clears judgment-clouds, reshapes imbiber's will."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

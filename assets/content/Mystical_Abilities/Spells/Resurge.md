@@ -1,24 +1,17 @@
 ---
-tags: []
-name:
-  full: Resurge
-  aliases: []
-description: "Pours fresh energy into failing magical construct; restores framework."
 shortcode: resurge
+name: {full: Resurge, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Pours fresh energy into failing magical construct; restores framework."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Resurge

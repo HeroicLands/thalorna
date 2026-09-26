@@ -1,19 +1,14 @@
 ---
-tags:
-  - region
-description: "The heartland of the Vylarian Empire—the land of the Province of Alyssa, a near-continuous quilt of towns, villas and senatorial estates around the imperial capital, knit by the oldest Vylarian roads."
-name:
-  full: Alyssa
-  aliases: []
 shortcode: alyssa
+name: {full: Alyssa, aliases: []}
 type: place
 subType: region
+description: "The heartland of the Vylarian Empire—the land of the Province of Alyssa, a near-continuous quilt of towns, villas and senatorial estates around the imperial capital, knit by the oldest Vylarian roads."
+tags: [region]
 data:
   demonym: Vylarian
-  lore:
-    - humanflk
-  parents:
-    - vylariargn
+  lore: [humanflk]
+  parents: [vylariargn]
   population: 7000000
   packFolder: vylaria
 ---

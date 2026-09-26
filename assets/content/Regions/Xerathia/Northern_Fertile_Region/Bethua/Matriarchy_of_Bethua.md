@@ -1,6 +1,5 @@
 ---
-description: "Matriarchal realm of Xerathia where women hold all positions of power and authority—a society shaped by female leadership and the traditions of the elder races."
-type: affiliation
+shortcode: mtrrchybth
 name:
   full: Matriarchy of Bethûa
   aliases:
@@ -11,8 +10,9 @@ name:
     - The Two Pillars of Bethûa
     - The Mêtríssa
     - The Sacred College and the Council of Houses
-shortcode: mtrrchybth
+type: affiliation
 subType: polity
+description: "Matriarchal realm of Xerathia where women hold all positions of power and authority—a society shaped by female leadership and the traditions of the elder races."
 data:
   templatePriority: null
   demonym: Bethûan
@@ -21,51 +21,43 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Elected Mêtríssa (Queen and High Priestess) ruling through the Two Pillars—the Sacred
-      College of priestesses and the Council of Houses of the clan-matriarchs.
+      Elected Mêtríssa (Queen and High Priestess) ruling through the Two Pillars—the Sacred College of priestesses and the Council of Houses of the clan-matriarchs.
     ranks:
       - level: 0
         title: Cast from the Hearth
         lore: expelledrnk
         description: >-
-          Struck from her House's roll and denied its protection, its name and its share—a
-          civil death.
+          Struck from her House's roll and denied its protection, its name and its share—a civil death.
       - level: 1
         title: Bondservant
         lore: bondservantrnk
         description: >-
-          Bound in service to a House, owing labor and holding neither property nor a voice
-          in its councils.
+          Bound in service to a House, owing labor and holding neither property nor a voice in its councils.
       - level: 2
         title: Lay Household
         lore: dependentrnk
         description: >-
-          Of a House's dependents, sheltered by it and owing it service, but not counted among
-          its daughters.
+          Of a House's dependents, sheltered by it and owing it service, but not counted among its daughters.
       - level: 3
         title: Daughter of a House
         lore: swornmemberrnk
         description: >-
-          Counted in a House's blood and entitled to its name, its protection, and a share of
-          its trade.
+          Counted in a House's blood and entitled to its name, its protection, and a share of its trade.
       - level: 4
         title: Initiate of the College
         lore: initiaternk
         description: >-
-          Received into the Sacred College's instruction, serving in the temples while learning
-          its rites.
+          Received into the Sacred College's instruction, serving in the temples while learning its rites.
       - level: 5
         title: Priestess
         lore: priestrnk
         description: >-
-          Ordained to the rites, holding authority in matters sacred and a voice in the College's
-          deliberations.
+          Ordained to the rites, holding authority in matters sacred and a voice in the College's deliberations.
       - level: 6
         title: Matriarch of a House
         lore: councillorrnk
         description: >-
-          Head of a clan-house, holding its property, its ships and its votes in the Council
-          of Houses.
+          Head of a clan-house, holding its property, its ships and its votes in the Council of Houses.
       - level: 7
         title: Sister of the Sacred College
         lore: elderrnk
@@ -74,37 +66,24 @@ data:
         title: Mêtríssa
         lore: sovereignrnk
         description: >-
-          Queen and High Priestess, elected by the Sacred College and ruling through the Two
-          Pillars, never above them.
+          Queen and High Priestess, elected by the Sacred College and ruling through the Two Pillars, never above them.
     offices:
       Mêtríssa: >-
-        Queen and High Priestess, elected for life by the Sacred College and answerable to
-        the Two Pillars.
+        Queen and High Priestess, elected for life by the Sacred College and answerable to the Two Pillars.
       High Priestess: Head of a temple and its rites, and an elector of the Mêtríssa.
       Matriarch: Head of a clan-house, commanding its property, its ships and its marriages.
-      Speaker of the Council of Houses: Presiding officer of the Houses in session, holding
-        no vote beyond her own.
-      Keeper of the Sacred College: Warden of the College's rolls, its instruction and its
-        elections.
-      Navarch: Commander of the Bethûan fleet, and by that the realm's principal instrument
-        abroad.
-      Treasuress: Keeper of the realm's revenue and of the correspondent accounts the trade-houses
-        maintain.
-      Ambassadress: Envoy to a foreign court, appointed by the Mêtríssa and instructed by
-        the Council.
+      Speaker of the Council of Houses: Presiding officer of the Houses in session, holding no vote beyond her own.
+      Keeper of the Sacred College: Warden of the College's rolls, its instruction and its elections.
+      Navarch: Commander of the Bethûan fleet, and by that the realm's principal instrument abroad.
+      Treasuress: Keeper of the realm's revenue and of the correspondent accounts the trade-houses maintain.
+      Ambassadress: Envoy to a foreign court, appointed by the Mêtríssa and instructed by the Council.
       Archivist: Keeper of the genealogies, on which every House's claim to standing rests.
-      Harbour-Mistress: Warden of a port, collecting its dues and licensing the privateers
-        that sail from it.
+      Harbour-Mistress: Warden of a port, collecting its dues and licensing the privateers that sail from it.
   seat: bethura
-  domains:
-    - bethuargn
+  domains: [bethuargn]
   population: 3000000
-  economy:
-    - lore-tkhprcrncy
-    - affiliation-bthntrdhss
-    - affiliation-perhati
-  lore:
-    - humanflk
+  economy: [lore-tkhprcrncy, affiliation-bthntrdhss, affiliation-perhati]
+  lore: [humanflk]
   parents: []
   relations:
     arldnpnthn: aligned
@@ -112,10 +91,7 @@ data:
     vylarinmpr: nemesis
     ctysttshlns: unaligned
   packFolder: bethua
-sohl:
-  system:
-    commonSkills:
-      - bethunlng
+sohl: {system: {commonSkills: [bethunlng]}}
 
 # terran_analog: "Morocco + Algeria + Tunisia + Libya (Maghreb / Carthage—Mediterranean coast shading into Saharan interior)"
 ---

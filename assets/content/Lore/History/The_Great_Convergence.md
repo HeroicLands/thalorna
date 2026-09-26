@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "The zero of Tānvür's Celestial Calendar—the first perfect alignment after the Great Sorting, the first appointment under the Mandate of Heaven, and a date every bureau of the empire files against and no record outside it carries."
+shortcode: greatcnvrg
+name: {full: The Great Convergence, aliases: [Dāk Vān Hōk]}
 type: lore
 subType: history
-name:
-  full: The Great Convergence
-  aliases:
-    - Dāk Vān Hōk
-shortcode: greatcnvrg
-data:
-  packFolder: settinglore
+description: "The zero of Tānvür's Celestial Calendar—the first perfect alignment after the Great Sorting, the first appointment under the Mandate of Heaven, and a date every bureau of the empire files against and no record outside it carries."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: founding

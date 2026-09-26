@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Message
-  aliases:
-    - Missive
-description: "Whispered words travel to distant recipient; bypasses physical barriers."
 shortcode: message
+name: {full: Message, aliases: [Missive]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
-  packFolder: spells
+description: "Whispered words travel to distant recipient; bypasses physical barriers."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Missive

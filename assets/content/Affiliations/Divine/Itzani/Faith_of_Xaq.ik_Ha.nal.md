@@ -1,16 +1,10 @@
 ---
-description: "Fertility, water and healing—the newest of the Ten, guardian of the cenotes, whose almost entirely female priesthood are the finest physicians in Ki'ichek civilization."
-tags:
-  - itzani
-  - religion
+shortcode: xaqikhanal
+name: {full: "Faith of Xaq'ik Ha'nal", aliases: [The Blossom of Living Waters, "Xaq'ik Ha'nal"]}
 type: affiliation
 subType: faithtradition
-name:
-  full: "Faith of Xaq'ik Ha'nal"
-  aliases:
-    - The Blossom of Living Waters
-    - "Xaq'ik Ha'nal"
-shortcode: xaqikhanal
+description: "Fertility, water and healing—the newest of the Ten, guardian of the cenotes, whose almost entirely female priesthood are the finest physicians in Ki'ichek civilization."
+tags: [itzani, religion]
 data:
   banner: faithbnr
   icon: null
@@ -21,110 +15,79 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A single priestly caste serving all ten gods, ranked by degree of initiation and by the
-      blood-debt a person carries rather than by which god they serve; the lay faithful are
-      bound by the calendar that same caste keeps.
+      A single priestly caste serving all ten gods, ranked by degree of initiation and by the blood-debt a person carries rather than by which god they serve; the lay faithful are bound by the calendar that same caste keeps.
     ranks:
       - level: 0
         title: Blood-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a
-          soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one sentence
-          that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: catechumenrnk
         description: >-
-          Consecrated at birth with water on the lips and counted among the faithful, but not
-          yet of an age to give blood or keep the fasts.
+          Consecrated at birth with water on the lips and counted among the faithful, but not yet of an age to give blood or keep the fasts.
       - level: 2
         title: Blood-Giver
         lore: layfaithfulrnk
         description: >-
-          The lay faithful, who pierce tongue or earlobe on the days the calendar appoints and
-          keep its prohibitions without holding office in the temple.
+          The lay faithful, who pierce tongue or earlobe on the days the calendar appoints and keep its prohibitions without holding office in the temple.
       - level: 3
         title: Debt-Bearer
         lore: layfaithfulrnk
         description: >-
-          Bound by a debt pledged beyond what the calendar requires—a captive dedicated in
-          advance, a pilgrimage undertaken, a season of autosacrifice vowed.
+          Bound by a debt pledged beyond what the calendar requires—a captive dedicated in advance, a pilgrimage undertaken, a season of autosacrifice vowed.
       - level: 4
         title: Tq'an'ik
         lore: initiaternk
         description: >-
-          "Edge-Walker"—an initiate serving in the temples while learning the calendar, the
-          sacred texts and the autosacrificial disciplines the priesthood demands of every
-          member.
+          "Edge-Walker"—an initiate serving in the temples while learning the calendar, the sacred texts and the autosacrificial disciplines the priesthood demands of every member.
       - level: 5
         title: Ch'ul'bal
         lore: priestrnk
         description: >-
-          "Sacred Servant"—an ordained priest, trained from childhood in mathematics,
-          astronomy, writing and the reading of celestial signs, who keeps the daily rites and
-          the codices.
+          "Sacred Servant"—an ordained priest, trained from childhood in mathematics, astronomy, writing and the reading of celestial signs, who keeps the daily rites and the codices.
       - level: 6
         title: K'ul
         lore: highpriestrnk
         description: >-
-          "Keeper"—head of one specialist branch within a temple complex, answerable to its
-          K'ul Tq'an and contending with the other branches for resources, precedence and
-          favor.
+          "Keeper"—head of one specialist branch within a temple complex, answerable to its K'ul Tq'an and contending with the other branches for resources, precedence and favor.
       - level: 7
         title: K'ul Tq'an
         lore: highpriestrnk
         description: >-
-          "Sacred Boundary"—high priest of a temple complex, who alone performs the great
-          sacrificial rites at the turning of the cosmic cycles and holds the calculations that
-          predict when an age will end.
+          "Sacred Boundary"—high priest of a temple complex, who alone performs the great sacrificial rites at the turning of the cosmic cycles and holds the calculations that predict when an age will end.
       - level: 8
         title: Presiding K'ul Tq'an
         lore: grandmasterrnk
         description: >-
-          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes
-          the calendar for the whole city, presides at the New Fire Ceremony, and rules whether
-          the gods approve a K'inmah's succession.
+          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the New Fire Ceremony, and rules whether the gods approve a K'inmah's succession.
     offices:
       K'ul Ha'nal: >-
-        Keeper of Waters—head of the branch and chief healer of the city-state, consulted by
-        the K'inmah on matters of sickness and water alike.
+        Keeper of Waters—head of the branch and chief healer of the city-state, consulted by the K'inmah on matters of sickness and water alike.
       Ch'ul'bal Tz'ab: >-
-        Birth priestess—attends the significant births of the city, and is understood at the
-        bedside to be the goddess's own hands.
+        Birth priestess—attends the significant births of the city, and is understood at the bedside to be the goddess's own hands.
       Ch'ul'bal Pul'ik: >-
-        Healing priestess—treats the sick, and keeps the gardens of medicinal plants grown
-        near the water sources.
+        Healing priestess—treats the sick, and keeps the gardens of medicinal plants grown near the water sources.
       Warden of the Cenotes: >-
-        Guards the sinkholes against contamination, which is the branch's gravest sacrilege,
-        and rules who may draw and who may bathe.
+        Guards the sinkholes against contamination, which is the branch's gravest sacrilege, and rules who may draw and who may bathe.
       Master of the Moon Water: >-
-        Conducts Tz'uqal Ha'il at the first full moon of the rains, when every water source in
-        the city is blessed.
+        Conducts Tz'uqal Ha'il at the first full moon of the rains, when every water source in the city is blessed.
       Speaker of the First Water: >-
-        Sets the water on a newborn's lips before any food, consecrating the child to the
-        goddess.
+        Sets the water on a newborn's lips before any food, consecrating the child to the goddess.
       Keeper of the Physic Gardens: >-
-        Holds the medicinal plantings, their propagation and their preparation, and issues
-        remedies to the healing priestesses.
+        Holds the medicinal plantings, their propagation and their preparation, and issues remedies to the healing priestesses.
       Keeper of the Healing Archives: >-
-        Maintains the accumulated record of treatments and outcomes that makes this branch the
-        most advanced practitioners of medicine on the continent.
+        Maintains the accumulated record of treatments and outcomes that makes this branch the most advanced practitioners of medicine on the continent.
   seat: null
   domains: []
   population: null
   economy: []
-  lore:
-    - xaqikhanaldty
-  parents:
-    - itzanpnthn
-  relations:
-    itzanpnthn: aligned
+  lore: [xaqikhanaldty]
+  parents: [itzanpnthn]
+  relations: {itzanpnthn: aligned}
   packFolder: pantheonitzani
-sohl:
-  system:
-    commonSkills:
-      - xaqikhanal
+sohl: {system: {commonSkills: [xaqikhanal]}}
 ---
 
 **Domain:** Fertility, Water, Healing, Renewal, Birth, Life

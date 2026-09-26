@@ -1,17 +1,9 @@
 ---
+shortcode: haulonna
+name: {full: Haulonna, aliases: []}
 type: place
 subType: site
-data:
-  demonym: null
-  lore: []
-  parents:
-    - nordheim
-  population: null
-  packFolder: nordheim
-name:
-  full: Haulonna
-  aliases: []
-shortcode: haulonna
+data: {demonym: null, lore: [], parents: [nordheim], population: null, packFolder: nordheim}
 ---
 
 - **Type:** Sinalëan enclave (destroyed)

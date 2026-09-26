@@ -1,15 +1,10 @@
 ---
-tags: []
-name:
-  full: Elephant-Hook
-  aliases: []
-description: "Short iron goad and hook carried by a mahout; a footman's makeshift weapon in the same hand."
 shortcode: elphnthk
+name: {full: Elephant-Hook, aliases: []}
 type: weapongear
-data:
-  icon: icon-polearm
-  templatePriority: null
-  packFolder: weapons
+description: "Short iron goad and hook carried by a mahout; a footman's makeshift weapon in the same hand."
+tags: []
+data: {icon: icon-polearm, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: polearm
   weaponType: Polearm
@@ -24,14 +19,8 @@ sohl:
         name: Hook
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 8
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 6
-          modifier: 2
-          aspect: piercing
+        attack: {spread: 8, modifier: 0}
+        impactBase: {numDice: 1, die: 6, modifier: 2, aspect: piercing}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -60,22 +49,14 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 3
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
+        defense: {blockMod: 0, counterstrikeMod: 0}
       shaft:
         type: melee
         name: Shaft
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 8
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 4
-          modifier: 0
-          aspect: blunt
+        attack: {spread: 8, modifier: 0}
+        impactBase: {numDice: 1, die: 4, modifier: 0, aspect: blunt}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -104,9 +85,7 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 3
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
+        defense: {blockMod: 0, counterstrikeMod: 0}
 ---
 
 A short iron spike backed by a blunt hook, set on a haft no longer than a man's arm and bound with rawhide for a grip that will not slip when wet. It is the mahout's everyday tool—the spike for direction, the hook for purchase behind an elephant's ear when a word will not do—and every kingdom that fields elephants keeps a supply of them coming out of the same smithies that arm the hosts.

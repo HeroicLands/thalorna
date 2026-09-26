@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: rsdntlnrnk
+name: {full: Resident Alien, aliases: []}
 type: lore
 subType: law
-name:
-  full: Resident Alien
-  aliases: []
-shortcode: rsdntlnrnk
 description: "Living under a body's protection and paying its dues, without its citizenship."
+tags: [draft]
 ---
 
 Living under a body's protection and paying its dues, without its citizenship.

@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Horrorscape
-  aliases:
-    - Nightmare
-description: "Unearthly chorus of phantom voices and whispers; profoundly disorienting."
 shortcode: hrrrscp
+name: {full: Horrorscape, aliases: [Nightmare]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Unearthly chorus of phantom voices and whispers; profoundly disorienting."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Nightmare

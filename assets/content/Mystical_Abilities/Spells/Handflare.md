@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Handflare
-  aliases:
-    - Palm
-description: "Manifests bright spark in palm; ignites or signals with flame."
 shortcode: hndflr
+name: {full: Handflare, aliases: [Palm]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Manifests bright spark in palm; ignites or signals with flame."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Palm

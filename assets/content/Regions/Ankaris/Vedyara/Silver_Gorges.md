@@ -1,24 +1,16 @@
 ---
-tags:
-  - mountain
-  - mining
-  - inland
-description: "The deep-cut valleys of the Eastern Reach, worked for lapis and silver since before Vindhyālaya was chartered, and held by smithing clans whose prerogatives predate the charter."
+shortcode: slvrgorges
+name: {full: The Silver Gorges, aliases: [The Gorges]}
 type: place
 subType: feature
+description: "The deep-cut valleys of the Eastern Reach, worked for lapis and silver since before Vindhyālaya was chartered, and held by smithing clans whose prerogatives predate the charter."
+tags: [mountain, mining, inland]
 data:
   demonym: null
   lore: []
-  parents:
-    - graznmntns
-    - estrnreach
+  parents: [graznmntns, estrnreach]
   population: null
   packFolder: vedyara
-name:
-  full: The Silver Gorges
-  aliases:
-    - The Gorges
-shortcode: slvrgorges
 ---
 
 The **Silver Gorges** are a system of steep, narrow valleys cut into the Vedyari flank of [[place-estrnreach|the Eastern Reach]]. They carry lapis, silver and a little tin, they have been worked continuously for longer than the kingdom of [[affiliation-vindhyalay|Vindhyālaya]] has existed, and the road up them is also [[place-tamradvara|Tāmradvāra]], which makes them a mining district and a customs problem at the same time.

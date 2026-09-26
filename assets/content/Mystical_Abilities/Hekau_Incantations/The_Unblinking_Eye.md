@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: The Unblinking Eye
-  aliases: []
-description: "Sets a watch on a place that reports faithfully to the practitioner what passed there."
 shortcode: unblnkngey
+name: {full: The Unblinking Eye, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: atenre
-  templatePriority: null
-  packFolder: hekauincantations
+description: "Sets a watch on a place that reports faithfully to the practitioner what passed there."
+tags: [khemenu-hekau, incantation]
+data: {icon: atenre, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: atenre
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---
 
 Inscribed at the place rather than carried, and reporting only when the practitioner returns and

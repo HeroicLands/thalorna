@@ -1,22 +1,11 @@
 ---
-tags:
-  - sacred
-  - border
-  - inland
-description: "The broken megalithic circle of northern Provènzia, thrown down in the Nordheim raids two centuries ago—and the source of the curse on the Blood-field, now being deliberately magnified by the Cult of the Black Flame."
+shortcode: yharvalenhenge
+name: {full: Yhârvalen Henge, aliases: []}
 type: place
 subType: site
-data:
-  demonym: null
-  lore: []
-  parents:
-    - tramontana
-  population: null
-  packFolder: provenzia
-name:
-  full: Yhârvalen Henge
-  aliases: []
-shortcode: yharvalenhenge
+description: "The broken megalithic circle of northern Provènzia, thrown down in the Nordheim raids two centuries ago—and the source of the curse on the Blood-field, now being deliberately magnified by the Cult of the Black Flame."
+tags: [sacred, border, inland]
+data: {demonym: null, lore: [], parents: [tramontana], population: null, packFolder: provenzia}
 ---
 
 In the far north of the [[place-provenzrgn|Provènzia Region]]—in **[[place-tramontana|Tramontàna]]**, on the

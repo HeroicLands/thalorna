@@ -1,10 +1,12 @@
 ---
-description: "The fallen celestial owl that once guarded Xibalba's threshold, concluded the underworld was a trap rather than a passage, and now opens the boundary it was set to keep shut."
-tags:
-  - itzani
-  - religion
+shortcode: pikultzumaq
+name:
+  full: "Pik'ul Tz'umaq"
+  aliases: [The Owl of the Serpent, The Fallen Pik'ik, The Owl at the Threshold]
 type: affiliation
 subType: spirittradition
+description: "The fallen celestial owl that once guarded Xibalba's threshold, concluded the underworld was a trap rather than a passage, and now opens the boundary it was set to keep shut."
+tags: [itzani, religion]
 data:
   icon: null
   templatePriority: null
@@ -14,103 +16,74 @@ data:
   governance:
     model: autocracy
     summary: >-
-      No council, no election and no succession: a single fallen celestial confers standing
-      directly, and withdraws it the same way.
+      No council, no election and no succession: a single fallen celestial confers standing directly, and withdraws it the same way.
     ranks:
       - level: 0
         title: Refused
         lore: expelledrnk
         description: >-
-          Turned away at the threshold—the owl will not intercept them, and they go down into
-          Xibalba's trials like anyone else, without even the orthodox recitation to guide them.
+          Turned away at the threshold—the owl will not intercept them, and they go down into Xibalba's trials like anyone else, without even the orthodox recitation to guide them.
       - level: 1
         title: Petitioner
         lore: catechumenrnk
         description: >-
-          Has asked for a dead kinsman back and not yet been answered; most are never answered,
-          and are not told so.
+          Has asked for a dead kinsman back and not yet been answered; most are never answered, and are not told so.
       - level: 2
         title: Debt-Bound
         lore: layfaithfulrnk
         description: >-
-          Given a returned loved one and bound by the giving—shelter, silence and food owed
-          for as long as the returned lasts, which is never long.
+          Given a returned loved one and bound by the giving—shelter, silence and food owed for as long as the returned lasts, which is never long.
       - level: 3
         title: Threshold-Watcher
         lore: initiaternk
         description: >-
-          Taught to recognize the boundary and to feel a passage beginning; the first standing
-          the owl confers rather than merely accepts.
+          Taught to recognize the boundary and to feel a passage beginning; the first standing the owl confers rather than merely accepts.
       - level: 4
         title: Door-Opener
         lore: priestrnk
         description: >-
-          Able to work the reversal and draw a soul back out of the labyrinth, and answerable
-          to nobody for what comes back.
+          Able to work the reversal and draw a soul back out of the labyrinth, and answerable to nobody for what comes back.
       - level: 5
         title: Owl-Spoken
         lore: sprtspkrrnk
         description: >-
-          Speaks with the owl's voice and is understood to be doing so; the nearest thing the
-          veneration has to an authority, and it is on loan.
+          Speaks with the owl's voice and is understood to be doing so; the nearest thing the veneration has to an authority, and it is on loan.
       - level: 6
         title: Threshold-Held
         lore: highpriestrnk
         description: >-
-          One whose own soul the owl holds at the boundary rather than releasing—intercepted,
-          returned intact, and no longer counted among the living.
+          One whose own soul the owl holds at the boundary rather than releasing—intercepted, returned intact, and no longer counted among the living.
       - level: 7
         title: Talon of the Threshold
         lore: grandmasterrnk
         description: >-
-          The highest standing any mortal reaches, and still a servant: the owl itself stands
-          above every rank and is not of them.
+          The highest standing any mortal reaches, and still a servant: the owl itself stands above every rank and is not of them.
     offices:
       Keeper of the Door: >-
-        Holds a place where the boundary has been opened before and can be opened again—a
-        cave mouth, a drowned cenote, a grave-field.
+        Holds a place where the boundary has been opened before and can be opened again—a cave mouth, a drowned cenote, a grave-field.
       Speaker for the Owl: >-
         Carries what the owl has said, which is rarely much and never written down.
       Reclaimer: >-
         Performs the reversal that draws a soul back out of Xibalba before its trials are done.
       Warder of the Returned: >-
-        Attends the reclaimed through their degradation and decides when they can no longer be
-        shown to the family.
+        Attends the reclaimed through their degradation and decides when they can no longer be shown to the family.
       Namer of the Lost: >-
-        Keeps the roll of the tz'uqilob—souls the owl holds were failed by the orthodox rites—which
-        is the veneration's central evidence and its chief recruiting document.
+        Keeps the roll of the tz'uqilob—souls the owl holds were failed by the orthodox rites—which is the veneration's central evidence and its chief recruiting document.
       Reckoner of Failed Passages: >-
-        Maintains the count of souls the owl claims Xibalba consumed, against which the whole
-        heretical argument is made.
+        Maintains the count of souls the owl claims Xibalba consumed, against which the whole heretical argument is made.
       Guide of the Newly Dead: >-
-        Meets a death at the moment of it, since interception is only possible before the soul
-        enters the labyrinth.
+        Meets a death at the moment of it, since interception is only possible before the soul enters the labyrinth.
       Shepherd of the Degrading: >-
-        Takes charge of the returned once nothing recognisable is left, and puts them where they
-        will do the movement's work.
+        Takes charge of the returned once nothing recognisable is left, and puts them where they will do the movement's work.
   seat: null
   domains: []
   population: null
   economy: []
-  lore:
-    - pikultzumaqdty
+  lore: [pikultzumaqdty]
   parents: []
-  relations:
-    itzanpnthn: nemesis
-    tzuqilixbal: nemesis
-    tzumaqkalanil: aligned
-    pikob: rival
+  relations: {itzanpnthn: nemesis, tzuqilixbal: nemesis, tzumaqkalanil: aligned, pikob: rival}
   packFolder: pantheonitzani
-name:
-  full: "Pik'ul Tz'umaq"
-  aliases:
-    - The Owl of the Serpent
-    - The Fallen Pik'ik
-    - The Owl at the Threshold
-shortcode: pikultzumaq
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 The [[affiliation-tzumaqkalanil|Serpent Awakener]] movement draws its power from a being that the orthodox priesthood regards as the most dangerous heresy to emerge in living memory: **Pik'ul Tz'umaq**, a fallen celestial agent of [[affiliation-tzuqilixbal|Tz'uqil Ix'bal]].

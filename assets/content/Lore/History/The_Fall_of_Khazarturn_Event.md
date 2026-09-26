@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "In 2427 BF a Sinalë outlaw takes up the Second Voice, drives tens of thousands of Grukar against Khazártúrn and kills every soul in it—and the two Elder Races have not spoken since."
+shortcode: fallkhazturn
+name: {full: The Fall of Khazártúrn, aliases: [The Sundering of the Elder Races]}
 type: lore
 subType: history
-name:
-  full: The Fall of Khazártúrn
-  aliases:
-    - The Sundering of the Elder Races
-shortcode: fallkhazturn
-data:
-  packFolder: settinglore
+description: "In 2427 BF a Sinalë outlaw takes up the Second Voice, drives tens of thousands of Grukar against Khazártúrn and kills every soul in it—and the two Elder Races have not spoken since."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: fall

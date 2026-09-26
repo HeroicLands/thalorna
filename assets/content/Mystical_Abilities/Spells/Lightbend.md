@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Lightbend
-  aliases:
-    - Prism
-description: "Prismatic light fracturing; causes profound disorientation and vertigo."
 shortcode: lghtbnd
+name: {full: Lightbend, aliases: [Prism]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Prismatic light fracturing; causes profound disorientation and vertigo."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Prism

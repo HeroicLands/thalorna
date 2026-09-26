@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: The Set Stone
-  aliases: []
-description: "Joins worked stone so that the join is as sound as the stone."
 shortcode: ststn
+name: {full: The Set Stone, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: khatnu
-  templatePriority: null
-  packFolder: hekauincantations
+description: "Joins worked stone so that the join is as sound as the stone."
+tags: [khemenu-hekau, incantation]
+data: {icon: khatnu, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: khatnu
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---
 
 The working every quarry, temple site and tomb in the empire runs on, and the reason Kheperi

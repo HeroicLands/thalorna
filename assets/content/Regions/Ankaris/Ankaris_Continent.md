@@ -1,25 +1,16 @@
 ---
-tags:
-  - continent
-  - ankaris
+shortcode: ankrscntnnt
+name: {full: Ankaris Continent, aliases: []}
 type: place
 subType: region
+description: The largest continent of Thalorna—home to Vylaria, Harad, the Nordlands, the K'ich'chik-facing west, and the far-eastern empires of Tānvür and Jurthat.
+tags: [continent, ankaris]
 data:
   demonym: Ankarian
-  lore:
-    - humanflk
-    - grukarfolk
-    - flksinale
-    - flkkhazar
-  parents:
-    - worldthlrn
+  lore: [humanflk, grukarfolk, flksinale, flkkhazar]
+  parents: [worldthlrn]
   population: 300000000
   packFolder: ankaris
-name:
-  full: Ankaris Continent
-  aliases: []
-shortcode: ankrscntnnt
-description: The largest continent of Thalorna—home to Vylaria, Harad, the Nordlands, the K'ich'chik-facing west, and the far-eastern empires of Tānvür and Jurthat.
 
 # terran_analog: Eurasia (and North Africa's Mediterranean shore, via Mídhalión)
 ---

@@ -1,19 +1,14 @@
 ---
-tags:
-  - region
-description: "Toxic mineral flats, geothermal vents and storm-wracked scrubland—the land of K'awiil Tza'kul, the threshold of the southern wastes."
-name:
-  full: K'awiil Tza'kul Region
-  aliases: []
 shortcode: kawiltzaklrgn
+name: {full: K'awiil Tza'kul Region, aliases: []}
 type: place
 subType: region
+description: "Toxic mineral flats, geothermal vents and storm-wracked scrubland—the land of K'awiil Tza'kul, the threshold of the southern wastes."
+tags: [region]
 data:
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - sthrnkchchk
+  lore: [humanflk]
+  parents: [sthrnkchchk]
   population: null
   packFolder: kawiiltzakul
 ---

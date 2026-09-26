@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "From 5274 BF to 2427 BF the Sinalë and the Khazári hold a shared accord across much of Thalorna, and make together what neither people can make alone—until the day Khazártúrn falls."
+shortcode: oldcompact
+name: {full: The Old Compact, aliases: [The Compact]}
 type: lore
 subType: history
-name:
-  full: The Old Compact
-  aliases:
-    - The Compact
-shortcode: oldcompact
-data:
-  packFolder: settinglore
+description: "From 5274 BF to 2427 BF the Sinalë and the Khazári hold a shared accord across much of Thalorna, and make together what neither people can make alone—until the day Khazártúrn falls."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: treaty

@@ -1,19 +1,10 @@
 ---
-tags:
-  - lore
-  - arcane
-  - hex-hodai
-  - ordo-arcanis
+shortcode: hexhodai
+name: {full: Héx Hodäi, aliases: [The Six Ways, The Sigillum]}
 type: lore
 subType: arcana
-shortcode: hexhodai
-name:
-  full: Héx Hodäi
-  aliases:
-    - The Six Ways
-    - The Sigillum
-data:
-  packFolder: affiliationshexhodai
+tags: [lore, arcane, hex-hodai, ordo-arcanis]
+data: {packFolder: affiliationshexhodai}
 ---
 
 ## The Héx Hodäi (The Six Ways)

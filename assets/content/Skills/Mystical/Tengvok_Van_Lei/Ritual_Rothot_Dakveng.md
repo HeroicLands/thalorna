@@ -1,19 +1,10 @@
 ---
-tags:
-  - celestial-pantheon
-  - faith-skill
-  - draft
+shortcode: rothtdkvng
+name: {full: "Ritual: Röthöt Dākvëng", aliases: [Röthöt Dākvëng, Rothot Dakveng]}
 type: skill
 subType: mystical
-shortcode: rothtdkvng
-name:
-  full: "Ritual: Röthöt Dākvëng"
-  aliases:
-    - Röthöt Dākvëng
-    - Rothot Dakveng
-data:
-  templatePriority: null
-  packFolder: tengvokvanlei
+tags: [celestial-pantheon, faith-skill, draft]
+data: {templatePriority: null, packFolder: tengvokvanlei}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

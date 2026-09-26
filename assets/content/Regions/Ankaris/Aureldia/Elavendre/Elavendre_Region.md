@@ -1,20 +1,15 @@
 ---
-description: "Woodland kingdom where Sinalë and humans coexist in a culture of music, prophecy, and ancient magic—the only human realm in Ankaris where the Elder Races walk openly as equals."
+shortcode: elavendre
+name: {full: Élavendre, aliases: [Élavendre Region]}
 type: place
 subType: region
+description: "Woodland kingdom where Sinalë and humans coexist in a culture of music, prophecy, and ancient magic—the only human realm in Ankaris where the Elder Races walk openly as equals."
 data:
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - aureldirgn
+  lore: [humanflk]
+  parents: [aureldirgn]
   population: 2000000
   packFolder: elavendre
-name:
-  full: Élavendre
-  aliases:
-    - Élavendre Region
-shortcode: elavendre
 
 # terran_analog: "Northern France and Switzerland—the temperate-and-Alpine northern Aurèldían heartland of forest, river-valley farming, mountain monasteries, and the great Pelwar cultural sphere."
 ---

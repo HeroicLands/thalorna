@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: Cloak of the Unseen Soul
-  aliases:
-    - Soulcloak Elixir
-description: "Luminous silver elixir; shields spirit from True Sight and divinations."
 shortcode: elxscl
+name: {full: Cloak of the Unseen Soul, aliases: [Soulcloak Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Luminous silver elixir; shields spirit from True Sight and divinations."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

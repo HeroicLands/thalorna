@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: The Silent Scribe
-  aliases:
-    - Egosight Elixir
-description: "Crystalline purple draft; grants ability to read and understand."
 shortcode: elxego
+name: {full: The Silent Scribe, aliases: [Egosight Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Crystalline purple draft; grants ability to read and understand."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

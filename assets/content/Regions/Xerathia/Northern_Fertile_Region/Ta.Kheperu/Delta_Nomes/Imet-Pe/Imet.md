@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Imet-Pe."
+shortcode: imet
+name: {full: Imet, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Imet-Pe."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - imetpenome
+  parents: [imetpenome]
   population: 45000
   packFolder: deltanomes
-name:
-  full: Imet
-  aliases: []
-shortcode: imet
 ---
 
 ## Overview

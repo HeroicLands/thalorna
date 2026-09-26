@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: The Second Utterance
-  aliases:
-    - Formfix Elixir
-description: "Clear transparent elixir; grants second chance against magical failures."
 shortcode: elxfrm
+name: {full: The Second Utterance, aliases: [Formfix Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Clear transparent elixir; grants second chance against magical failures."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

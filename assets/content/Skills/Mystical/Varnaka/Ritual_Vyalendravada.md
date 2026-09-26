@@ -1,20 +1,12 @@
 ---
-tags:
-  - varnaka
-  - faith-skill
-type: skill
-subType: mystical
 shortcode: vyalendravada
 name:
   full: "Ritual: Vyālendravāda"
-  aliases:
-    - Vyālendravāda
-    - Vyalendravada
-    - The Doctrine of Vyālendra
-    - Vyāndran School
-data:
-  templatePriority: null
-  packFolder: varnaka
+  aliases: [Vyālendravāda, Vyalendravada, The Doctrine of Vyālendra, Vyāndran School]
+type: skill
+subType: mystical
+tags: [varnaka, faith-skill]
+data: {templatePriority: null, packFolder: varnaka}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

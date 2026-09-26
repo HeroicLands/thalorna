@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "Roughly two hundred years ago the Vylarian Empire's decline began—overextension, corruption, barbarian pressure and the gradual independence of provinces, ending twelve years ago in the loss of Harad."
+shortcode: empirdclne
+name: {full: The Decline of the Vylarian Empire, aliases: [The Losing of the Provinces]}
 type: lore
 subType: history
-name:
-  full: The Decline of the Vylarian Empire
-  aliases:
-    - The Losing of the Provinces
-shortcode: empirdclne
-data:
-  packFolder: settinglore
+description: "Roughly two hundred years ago the Vylarian Empire's decline began—overextension, corruption, barbarian pressure and the gradual independence of provinces, ending twelve years ago in the loss of Harad."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: secession

@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Sage
-  aliases:
-    - Wisdom
-description: "Simplifies complexity; core dynamics become apparent through meditation."
 shortcode: sage
+name: {full: Sage, aliases: [Wisdom]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
-  packFolder: spells
+description: "Simplifies complexity; core dynamics become apparent through meditation."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Wisdom

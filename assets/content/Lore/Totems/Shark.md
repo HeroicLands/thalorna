@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The shark as a totemic ideal, and the human character it describes."
+shortcode: sharkttm
+name: {full: Shark, aliases: [Shark Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Shark
-  aliases:
-    - Shark Totem
-shortcode: sharkttm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The shark as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-sharktotem|Shark]]{float: top-left, size: medium}

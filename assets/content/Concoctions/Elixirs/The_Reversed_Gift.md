@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: The Reversed Gift
-  aliases:
-    - Poison Elixir
-description: "Viscous dark liquid; inverted mechanics reward failures over successes."
 shortcode: elxpsn
+name: {full: The Reversed Gift, aliases: [Poison Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Viscous dark liquid; inverted mechanics reward failures over successes."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

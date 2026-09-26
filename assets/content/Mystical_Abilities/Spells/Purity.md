@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Purity
-  aliases:
-    - Probity
-description: "Purifies water and food; removes toxins and contamination."
 shortcode: purity
+name: {full: Purity, aliases: [Probity]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
-  packFolder: spells
+description: "Purifies water and food; removes toxins and contamination."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Probity

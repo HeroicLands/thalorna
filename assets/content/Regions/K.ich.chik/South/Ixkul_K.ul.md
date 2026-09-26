@@ -1,21 +1,11 @@
 ---
-tags:
-  - city
-  - temple
-description: "Temple City"
+shortcode: ixkulkul
+name: {full: Ixkul K’ul, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - kuxibalamrgn
-  population: 14000
-  packFolder: south
-name:
-  full: Ixkul K’ul
-  aliases: []
-shortcode: ixkulkul
+description: "Temple City"
+tags: [city, temple]
+data: {demonym: null, lore: [], parents: [kuxibalamrgn], population: 14000, packFolder: south}
 ---
 
 ## Overview

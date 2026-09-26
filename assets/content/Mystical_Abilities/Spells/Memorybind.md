@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Memorybind
-  aliases:
-    - Recollection
-description: "Imprints memory into object; anyone touching it relives experience."
 shortcode: mmrybnd
+name: {full: Memorybind, aliases: [Recollection]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
-  packFolder: spells
+description: "Imprints memory into object; anyone touching it relives experience."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Recollection

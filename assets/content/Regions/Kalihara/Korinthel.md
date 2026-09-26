@@ -1,19 +1,9 @@
 ---
-tags:
-  - port
-  - trading
-description: "Trading Port"
+shortcode: korinthel
+name: {full: Korinthel, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - kaliharargn
-  population: 9000
-  packFolder: kalihara
-name:
-  full: Korinthel
-  aliases: []
-shortcode: korinthel
+description: "Trading Port"
+tags: [port, trading]
+data: {demonym: null, lore: [], parents: [kaliharargn], population: 9000, packFolder: kalihara}
 ---

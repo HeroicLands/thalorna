@@ -1,19 +1,10 @@
 ---
-tags:
-  - tengvok
-  - faith-skill
-  - draft
+shortcode: vordok
+name: {full: "Ritual: Vōrdōk", aliases: [Vōrdōk, The Minister of Roads]}
 type: skill
 subType: mystical
-shortcode: vordok
-name:
-  full: "Ritual: Vōrdōk"
-  aliases:
-    - Vōrdōk
-    - The Minister of Roads
-data:
-  templatePriority: null
-  packFolder: tengvokvanlei
+tags: [tengvok, faith-skill, draft]
+data: {templatePriority: null, packFolder: tengvokvanlei}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

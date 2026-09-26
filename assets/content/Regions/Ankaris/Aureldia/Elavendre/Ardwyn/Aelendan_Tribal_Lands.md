@@ -1,22 +1,15 @@
 ---
-tags:
-  - region
-description: Mountainous interior of Élavendre, sovereign to the Áelendan tribal confederation—Pelwar forest-dwellers who keep the Old Way.
-name:
-  full: Áelendan Tribal Lands
-  aliases:
-    - Tribal Lands
-    - The Interior
 shortcode: alndntrblnds
+name: {full: Áelendan Tribal Lands, aliases: [Tribal Lands, The Interior]}
 type: place
 subType: region
+description: Mountainous interior of Élavendre, sovereign to the Áelendan tribal confederation—Pelwar forest-dwellers who keep the Old Way.
+tags: [region]
 data:
   icon: null
   demonym: Áelendan
-  lore:
-    - humanflk
-  parents:
-    - ardwyn
+  lore: [humanflk]
+  parents: [ardwyn]
   population: null
   packFolder: elavendre
 

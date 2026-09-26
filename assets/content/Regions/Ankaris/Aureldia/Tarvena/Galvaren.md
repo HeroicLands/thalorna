@@ -1,19 +1,14 @@
 ---
-tags:
-  - region
-description: "The land of the Kingdom of Galváren—the green, mist-shrouded western coast of Tarvénia, a country of rain, fog, deep forests and rocky shores facing the open ocean."
-name:
-  full: Galváren
-  aliases: []
 shortcode: galvaren
+name: {full: Galváren, aliases: []}
 type: place
 subType: region
+description: "The land of the Kingdom of Galváren—the green, mist-shrouded western coast of Tarvénia, a country of rain, fog, deep forests and rocky shores facing the open ocean."
+tags: [region]
 data:
   demonym: Galváren
-  lore:
-    - humanflk
-  parents:
-    - tarvenirgn
+  lore: [humanflk]
+  parents: [tarvenirgn]
   population: 1000000
   packFolder: tarvenia
 ---

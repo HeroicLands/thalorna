@@ -1,13 +1,9 @@
 ---
-tags:
-  - dreadspawn
-  - creature
-name:
-  full: Phosphorescent Globule
-  aliases: []
-description: "A cunning predatory ooze of lightless caves that lures prey with deceptive bioluminescence before striking."
 shortcode: phsphrsc
+name: {full: Phosphorescent Globule, aliases: []}
 type: being
+description: "A cunning predatory ooze of lightless caves that lures prey with deceptive bioluminescence before striking."
+tags: [dreadspawn, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -42,21 +38,21 @@ sohl:
     rea: 1d6+6
     cre: 1d6+10
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 18 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 18 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 80 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 70 } }
-    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 51 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 52 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 56 } }
-    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 35 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 18}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 18}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 14}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 80}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 70}}
+    - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 51}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 52}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 56}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 35}}
     - name: Acidic Engulfment
       type: skill
       system:
@@ -64,78 +60,50 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 69
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: grab
           name: Acidic Engulfment
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 2
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 10
-            aspect: blunt
+          attack: {disabled: false, spread: 2, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 10, aspect: blunt}
           lengthBase: 0
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
   system:
     body:
       structure:
         zones:
-          - name: Core
-            shortcode: corezone
-            probWeight: 1
-          - name: Mass
-            shortcode: masszone
-            probWeight: 2
-          - name: Tendrils
-            shortcode: tendrilzone
-            probWeight: 1
+          - {name: Core, shortcode: corezone, probWeight: 1}
+          - {name: Mass, shortcode: masszone, probWeight: 2}
+          - {name: Tendrils, shortcode: tendrilzone, probWeight: 1}
         parts:
           - name: Core
             shortcode: corepart
             bodyZoneCode: corezone
-            roles:
-              - vital
+            roles: [vital]
             canHoldItem: false
             probWeight: 10
           - name: Mass
             shortcode: masspart
             bodyZoneCode: masszone
-            roles:
-              - core
-              - locomotor
+            roles: [core, locomotor]
             canHoldItem: false
             probWeight: 10
           - name: Left Tendrils
             shortcode: ltendrilpart
             bodyZoneCode: tendrilzone
-            roles:
-              - locomotor
-              - manipulator
+            roles: [locomotor, manipulator]
             canHoldItem: false
             probWeight: 5
           - name: Right Tendrils
             shortcode: rtendrilpart
             bodyZoneCode: tendrilzone
-            roles:
-              - locomotor
-              - manipulator
+            roles: [locomotor, manipulator]
             canHoldItem: false
             probWeight: 5
         locations:
@@ -146,11 +114,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 10
-            protectionBase:
-              blunt: 3
-              edged: 2
-              piercing: 1
-              fire: 3
+            protectionBase: {blunt: 3, edged: 2, piercing: 1, fire: 3}
           - name: Mass
             shortcode: massloc
             bodyPartCode: masspart
@@ -158,11 +122,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 6
-            protectionBase:
-              blunt: 3
-              edged: 2
-              piercing: 1
-              fire: 3
+            protectionBase: {blunt: 3, edged: 2, piercing: 1, fire: 3}
           - name: Underside
             shortcode: underbellyloc
             bodyPartCode: masspart
@@ -170,11 +130,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 4
-            protectionBase:
-              blunt: 3
-              edged: 2
-              piercing: 1
-              fire: 3
+            protectionBase: {blunt: 3, edged: 2, piercing: 1, fire: 3}
           - name: Left Tendrils
             shortcode: ltendrilloc
             bodyPartCode: ltendrilpart
@@ -182,11 +138,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 3
-              edged: 2
-              piercing: 1
-              fire: 3
+            protectionBase: {blunt: 3, edged: 2, piercing: 1, fire: 3}
           - name: Right Tendrils
             shortcode: rtendrilloc
             bodyPartCode: rtendrilpart
@@ -194,14 +146,8 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 3
-              edged: 2
-              piercing: 1
-              fire: 3
-      weight:
-        base: 10
-        calc: "10"
+            protectionBase: {blunt: 3, edged: 2, piercing: 1, fire: 3}
+      weight: {base: 10, calc: "10"}
       reachBase: 0
       bodyScaleBase: 0.94
       personalFatigue: "enc + 5"

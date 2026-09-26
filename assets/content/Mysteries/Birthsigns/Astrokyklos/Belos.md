@@ -1,16 +1,11 @@
 ---
-tags: []
-name:
-  full: Belos
-  aliases: []
-description: "The Lamp: a seer's mind and a scholar's patience, hopeless with tools and edged steel."
 shortcode: belos
+name: {full: Belos, aliases: []}
 type: mystery
 subType: birthsign
-data:
-  icon: icon-astrology
-  templatePriority: 0
-  packFolder: astrokyklos
+description: "The Lamp: a seer's mind and a scholar's patience, hopeless with tools and edged steel."
+tags: []
+data: {icon: icon-astrology, templatePriority: 0, packFolder: astrokyklos}
 sohl:
   kbcat: birthsign
   system:

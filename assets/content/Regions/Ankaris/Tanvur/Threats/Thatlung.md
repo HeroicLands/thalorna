@@ -1,12 +1,9 @@
 ---
+shortcode: thatlung
+name: {full: Thātlüng, aliases: []}
 type: lore
 subType: history
-name:
-  full: Thātlüng
-  aliases: []
-shortcode: thatlung
-data:
-  packFolder: threats
+data: {packFolder: threats}
 ---
 
 ## The Thātlüng ("Mountain Dragon")

@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Equilibrium
-  aliases:
-    - Harmony
-description: "Balances forces; negates momentum and prevents caster's displacement."
 shortcode: eqlbrm
+name: {full: Equilibrium, aliases: [Harmony]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
-  packFolder: spells
+description: "Balances forces; negates momentum and prevents caster's displacement."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Harmony

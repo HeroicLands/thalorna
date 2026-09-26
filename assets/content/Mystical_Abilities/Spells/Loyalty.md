@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Loyalty
-  aliases:
-    - Obedience
-description: "Enchantment compelling obedience; target serves caster with unwavering devotion."
 shortcode: loyalty
+name: {full: Loyalty, aliases: [Obedience]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
-  packFolder: spells
+description: "Enchantment compelling obedience; target serves caster with unwavering devotion."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Obedience

@@ -1,15 +1,10 @@
 ---
-tags: []
-name:
-  full: Gada
-  aliases: []
-description: "Heavy spherical or flanged mace-head; champion's crushing blow."
 shortcode: gada
+name: {full: Gada, aliases: []}
 type: weapongear
-data:
-  icon: icon-club
-  templatePriority: null
-  packFolder: weapons
+description: "Heavy spherical or flanged mace-head; champion's crushing blow."
+tags: []
+data: {icon: icon-club, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: club
   weaponType: Club
@@ -24,14 +19,8 @@ sohl:
         name: Crush
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 8
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 6
-          modifier: 6
-          aspect: blunt
+        attack: {spread: 8, modifier: 0}
+        impactBase: {numDice: 1, die: 6, modifier: 6, aspect: blunt}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -60,22 +49,14 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 5
-        defense:
-          blockMod: -5
-          counterstrikeMod: -5
+        defense: {blockMod: -5, counterstrikeMod: -5}
       shaft:
         type: melee
         name: Shaft
         assocSkillCode: melee
         minParts: 1
-        attack:
-          spread: 8
-          modifier: 0
-        impactBase:
-          numDice: 1
-          die: 6
-          modifier: 1
-          aspect: blunt
+        attack: {spread: 8, modifier: 0}
+        impactBase: {numDice: 1, die: 6, modifier: 1, aspect: blunt}
         traits:
           meleeMod: 0
           blockSLMod: 0
@@ -104,9 +85,7 @@ sohl:
           halfImpact: false
           lowAim: false
         lengthBase: 5
-        defense:
-          blockMod: 0
-          counterstrikeMod: 0
+        defense: {blockMod: 0, counterstrikeMod: 0}
 ---
 
 A heavy-headed mace with a long haft, its bulbous spherical or slightly ovoid head rendered in iron or hardened bronze and often crowned with flanges or blunt spikes. The gada's weight and shape concentrate crushing force in a single devastating blow, making it valued by warriors who favor brute impact over technique. It is swung with both hands and favors strength above all, best wielded by champions and strong-armed veterans.

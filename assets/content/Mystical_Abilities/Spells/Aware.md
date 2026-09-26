@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Aware
-  aliases:
-    - Sensation
-description: "Sharpens senses; target perceives details invisible to normal sight."
 shortcode: aware
+name: {full: Aware, aliases: [Sensation]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
-  packFolder: spells
+description: "Sharpens senses; target perceives details invisible to normal sight."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Sensation

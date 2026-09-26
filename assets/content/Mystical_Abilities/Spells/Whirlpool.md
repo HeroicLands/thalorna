@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Whirlpool
-  aliases:
-    - Vortex
-description: "Creates spinning vortex; swirls water into dangerous current."
 shortcode: whrlpl
+name: {full: Whirlpool, aliases: [Vortex]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Creates spinning vortex; swirls water into dangerous current."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Vortex

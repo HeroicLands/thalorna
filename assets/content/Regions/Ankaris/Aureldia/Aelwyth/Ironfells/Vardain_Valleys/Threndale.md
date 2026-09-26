@@ -1,23 +1,16 @@
 ---
-tags:
-  - village
-  - mountain
-  - sacred
-description: "The burial valley of the Vardain, where the dead of the whole district are brought—and where the graves of the last free generation of Vardanreach are still being added to."
+shortcode: threndale
+name: {full: Threndale, aliases: []}
 type: place
 subType: settlement
+description: "The burial valley of the Vardain, where the dead of the whole district are brought—and where the graves of the last free generation of Vardanreach are still being added to."
+tags: [village, mountain, sacred]
 data:
   demonym: null
-  lore:
-    - vardain
-  parents:
-    - vardainvalleys
+  lore: [vardain]
+  parents: [vardainvalleys]
   population: 460
   packFolder: aelwyth
-name:
-  full: Threndale
-  aliases: []
-shortcode: threndale
 ---
 
 **Threndale** is a side valley given over to the dead, and the village of three hundred and fifty that

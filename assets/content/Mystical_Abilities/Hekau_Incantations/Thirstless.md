@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: Thirstless
-  aliases: []
-description: "Sustains a person without water for as long as the working holds."
 shortcode: thrstlss
+name: {full: Thirstless, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: deshrut
-  templatePriority: null
-  packFolder: hekauincantations
+description: "Sustains a person without water for as long as the working holds."
+tags: [khemenu-hekau, incantation]
+data: {icon: deshrut, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: deshrut
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---
 
 The single most-used working outside the valley, cut on the traveler's own gear rather than

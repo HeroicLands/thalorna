@@ -1,14 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: radty
+name: {full: Rā, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Rā
-  aliases: []
-shortcode: radty
-data:
-  packFolder: deitieskemetian
+tags: [draft]
+data: {packFolder: deitieskemetian}
 ---
 
 ![[icon-ra|Rā]]{float: top-left, size: medium}

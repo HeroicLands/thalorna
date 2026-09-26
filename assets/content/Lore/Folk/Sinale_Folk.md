@@ -1,20 +1,13 @@
 ---
-tags:
-  - lore
-  - lineage
-description: "The Firstborn elder race: tall, immortal folk of forest and starlight, vanishingly rare and withdrawn from human affairs."
-type: lore
-subType: folk
+shortcode: flksinale
 name:
   full: Sinalë Folk
-  aliases:
-    - The Firstborn
-    - The Star-Kindled
-    - The Twilight People
-    - The Elder Folk
-shortcode: flksinale
-data:
-  packFolder: settinglore
+  aliases: [The Firstborn, The Star-Kindled, The Twilight People, The Elder Folk]
+type: lore
+subType: folk
+description: "The Firstborn elder race: tall, immortal folk of forest and starlight, vanishingly rare and withdrawn from human affairs."
+tags: [lore, lineage]
+data: {packFolder: settinglore}
 ---
 
 - **Common Names:** The Elder Folk, the Firstborn, the Star-Kindled, the Twilight People

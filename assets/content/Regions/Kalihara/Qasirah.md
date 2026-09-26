@@ -1,21 +1,11 @@
 ---
-tags:
-  - port
-  - settlement
-description: "Port Settlement"
+shortcode: qasirah
+name: {full: Qasirah, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - kaliharargn
-  population: 18000
-  packFolder: kalihara
-name:
-  full: Qasirah
-  aliases: []
-shortcode: qasirah
+description: "Port Settlement"
+tags: [port, settlement]
+data: {demonym: null, lore: [], parents: [kaliharargn], population: 18000, packFolder: kalihara}
 ---
 
 ## Overview

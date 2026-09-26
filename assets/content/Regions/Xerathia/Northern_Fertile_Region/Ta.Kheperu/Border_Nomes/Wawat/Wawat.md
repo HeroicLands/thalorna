@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Wawat."
+shortcode: wawat
+name: {full: Wawat, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Wawat."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - wawatnome
+  parents: [wawatnome]
   population: 14000
   packFolder: bordernomes
-name:
-  full: Wawat
-  aliases: []
-shortcode: wawat
 ---
 
 ## Overview

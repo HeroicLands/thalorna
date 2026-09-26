@@ -1,18 +1,10 @@
 ---
-tags:
-  - ashalan
-  - faith-skill
-  - draft
+shortcode: mithara
+name: {full: "Ritual: Míthárä", aliases: [The World's First Light]}
 type: skill
 subType: mystical
-shortcode: mithara
-name:
-  full: "Ritual: Míthárä"
-  aliases:
-    - The World's First Light
-data:
-  templatePriority: null
-  packFolder: ashalan
+tags: [ashalan, faith-skill, draft]
+data: {templatePriority: null, packFolder: ashalan}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

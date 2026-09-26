@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The falcon as a totemic ideal, and the human character it describes."
+shortcode: falconttm
+name: {full: Falcon, aliases: [Falcon Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Falcon
-  aliases:
-    - Falcon Totem
-shortcode: falconttm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The falcon as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-falcontotem|Falcon]]{float: top-left, size: medium}

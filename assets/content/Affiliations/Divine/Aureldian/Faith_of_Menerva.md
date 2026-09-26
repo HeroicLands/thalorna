@@ -1,10 +1,10 @@
 ---
-description: "Knowledge."
-tags:
-  - aureldian
-  - religion
+shortcode: menerva
+name: {full: Faith of Menerva, aliases: [Keeper of Sacred Wisdom, Ménérva]}
 type: affiliation
 subType: faithtradition
+description: "Knowledge."
+tags: [aureldian, religion]
 data:
   banner: faithbnr
   icon: menerva
@@ -15,21 +15,18 @@ data:
   governance:
     model: meritocracy
     summary: >-
-      A temple priesthood of 4 working tiers: acolytes in training, ordained clergy, and the
-      Magistra Sapientiae above them. The lay faithful keep the feasts without office.
+      A temple priesthood of 4 working tiers: acolytes in training, ordained clergy, and the Magistra Sapientiae above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out—denied the rites, the temple and the burial the faith promises, which is the one
-          sentence it can pass that outlives the body.
+          Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
         lore: layfaithfulrnk
         description: >-
-          The lay faithful, who keep the feasts and the observances of the god without holding office
-          in the temple.
+          The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
         title: Scholares Ménérva
         lore: initiaternk
@@ -44,21 +41,17 @@ data:
         title: Collegium Doctorum
         lore: highpriestrnk
         description: >-
-          Twenty or thirty senior scholars specializing in mathematics, medicine, philosophy,
-          languages, craftsmanship and astronomy.
+          Twenty or thirty senior scholars specializing in mathematics, medicine, philosophy, languages, craftsmanship and astronomy.
       - level: 5
         title: Magistra Sapientiae
         lore: grandmasterrnk
         description: >-
-          Master of Wisdom, chosen by vote of the senior scholars rather than by succession—this
-          priesthood prioritizes scholarship over hierarchy.
+          Master of Wisdom, chosen by vote of the senior scholars rather than by succession—this priesthood prioritizes scholarship over hierarchy.
     offices:
       Magistra Sapientiae: >-
-        Master of Wisdom, chosen by vote of the senior scholars rather than by succession—this
-        priesthood prioritizes scholarship over hierarchy.
+        Master of Wisdom, chosen by vote of the senior scholars rather than by succession—this priesthood prioritizes scholarship over hierarchy.
       Collegium Doctorum: >-
-        Twenty or thirty senior scholars specializing in mathematics, medicine, philosophy,
-        languages, craftsmanship and astronomy.
+        Twenty or thirty senior scholars specializing in mathematics, medicine, philosophy, languages, craftsmanship and astronomy.
       Magistri Artes: >-
         Ordained teachers throughout the cities, who keep schools, mentor apprentices and research in their fields.
       Scholares Ménérva: >-
@@ -69,22 +62,11 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - menervadty
-  parents:
-    - arldnpnthn
-  relations:
-    arldnpnthn: aligned
+  lore: [menervadty]
+  parents: [arldnpnthn]
+  relations: {arldnpnthn: aligned}
   packFolder: pantheonsaureldian
-name:
-  full: Faith of Menerva
-  aliases:
-    - Keeper of Sacred Wisdom
-    - Ménérva
-shortcode: menerva
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 Goddess of learning, language, and invention. Ménérva illuminates the minds of scholars, craftsmen, and leaders, guiding them to wisdom.

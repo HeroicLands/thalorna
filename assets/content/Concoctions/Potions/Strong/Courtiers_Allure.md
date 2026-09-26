@@ -1,18 +1,11 @@
 ---
-tags:
-  - strong-elixir
-name:
-  full: "Courtier's Allure"
-  aliases:
-    - Potion, Aromatic, Strong
-description: "Jewel-toned amber aromatic; enhances social appeal and persuasion."
 shortcode: ptnaroms
+name: {full: "Courtier's Allure", aliases: ["Potion, Aromatic, Strong"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: strong
+description: "Jewel-toned amber aromatic; enhances social appeal and persuasion."
+tags: [strong-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: strong}
 sohl:
   system:
     weightBase: 0.25

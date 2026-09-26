@@ -1,19 +1,9 @@
 ---
-tags:
-  - port
-  - town
-description: "Harbor Town"
+shortcode: jarnvik
+name: {full: Járnvík, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vithgard
-  population: 400
-  packFolder: vithgard
-name:
-  full: Járnvík
-  aliases: []
-shortcode: jarnvik
+description: "Harbor Town"
+tags: [port, town]
+data: {demonym: null, lore: [], parents: [vithgard], population: 400, packFolder: vithgard}
 ---

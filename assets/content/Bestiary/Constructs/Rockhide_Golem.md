@@ -1,13 +1,9 @@
 ---
-tags:
-  - construct
-  - creature
-name:
-  full: Rockhide Golem
-  aliases: []
-description: "A towering ten-foot guardian of fused stone, engineered for brute force to defend treasures within ancient ruins and fortifications."
 shortcode: rckhdglm
+name: {full: Rockhide Golem, aliases: []}
 type: being
+description: "A towering ten-foot guardian of fused stone, engineered for brute force to defend treasures within ancient ruins and fortifications."
+tags: [construct, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -31,23 +27,15 @@ data:
     extra_features: []
 sohl:
   kbcat: construct
-  attrRollFormula:
-    str: 1d6+33
-    agl: 1d4+3
-    per: 1d6+13
+  attrRollFormula: {str: 1d6+33, agl: 1d4+3, per: 1d6+13}
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 36 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 6 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 17 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 36}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 6}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 17}}
   system:
     body:
-      structure:
-        zones: []
-        parts: []
-        locations: []
-      weight:
-        base: 3500
-        calc: "3500"
+      structure: {zones: [], parts: [], locations: []}
+      weight: {base: 3500, calc: "3500"}
       reachBase: 0
       bodyScaleBase: 2.16
       personalFatigue: "enc + 5"

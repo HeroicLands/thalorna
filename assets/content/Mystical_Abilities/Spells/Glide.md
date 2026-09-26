@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Glide
-  aliases:
-    - Icewalk
-description: "Caster descends slowly; falls without impact or harm sustained."
 shortcode: glide
+name: {full: Glide, aliases: [Icewalk]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
-  packFolder: spells
+description: "Caster descends slowly; falls without impact or harm sustained."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Icewalk

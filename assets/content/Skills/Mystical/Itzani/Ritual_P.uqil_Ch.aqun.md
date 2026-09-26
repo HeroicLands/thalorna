@@ -1,20 +1,10 @@
 ---
-tags:
-  - itzani
-  - faith-skill
-  - draft
+shortcode: puqilchaqun
+name: {full: "Ritual: P'uqil Ch'aqun", aliases: [P'uqil Ch'aqun, The Feathered Storm-Serpent]}
 type: skill
 subType: mystical
-shortcode: puqilchaqun
-name:
-  full: "Ritual: P'uqil Ch'aqun"
-  aliases:
-    - P'uqil Ch'aqun
-    - The Feathered Storm-Serpent
-data:
-  icon: null
-  templatePriority: null
-  packFolder: itzani
+tags: [itzani, faith-skill, draft]
+data: {icon: null, templatePriority: null, packFolder: itzani}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

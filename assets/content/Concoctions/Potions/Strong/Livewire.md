@@ -1,18 +1,11 @@
 ---
-tags:
-  - strong-elixir
-name:
-  full: Livewire
-  aliases:
-    - Potion, Stimulant, Strong
-description: "Vibrant red-orange liquid; stimulates and energizes immediately."
 shortcode: ptnstms
+name: {full: Livewire, aliases: ["Potion, Stimulant, Strong"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: strong
+description: "Vibrant red-orange liquid; stimulates and energizes immediately."
+tags: [strong-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: strong}
 sohl:
   system:
     weightBase: 0.25

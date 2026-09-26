@@ -1,23 +1,16 @@
 ---
-tags:
-  - mountain
-  - sacred
-  - inland
-description: "The highest peak of the Southern Wall and the one the dawn strikes first—above the Chandramahī's source, the Sūrya temple and the slab the ice has never marked."
+shortcode: suryashkhr
+name: {full: Sūryashikhara, aliases: []}
 type: place
 subType: feature
+description: "The highest peak of the Southern Wall and the one the dawn strikes first—above the Chandramahī's source, the Sūrya temple and the slab the ice has never marked."
+tags: [mountain, sacred, inland]
 data:
   demonym: null
   lore: []
-  parents:
-    - graznmntns
-    - sthrnwall
+  parents: [graznmntns, sthrnwall]
   population: null
   packFolder: vedyara
-name:
-  full: Sūryashikhara
-  aliases: []
-shortcode: suryashkhr
 ---
 
 **Sūryashikhara** ("the sun's summit") is the highest point of [[place-sthrnwall|the Southern Wall]] and, by the reckoning of everyone who has stood under it, of the world. From the terraces below it the summit lights the better part of an hour before the valley does. The temples that can see it set the whole of the Vedyari ritual day from that moment.

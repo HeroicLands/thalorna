@@ -1,21 +1,11 @@
 ---
-tags:
-  - village
-  - hill
-description: "The great orchard manor of Zûravlen's upper terraces—the richest holding in the barony, the most exposed to a single cold night, and the model of a demesne run for fruit."
+shortcode: vergeval
+name: {full: Vergéval, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - zuravlenrgn
-  population: 310
-  packFolder: provenzia
-name:
-  full: Vergéval
-  aliases: []
-shortcode: vergeval
+description: "The great orchard manor of Zûravlen's upper terraces—the richest holding in the barony, the most exposed to a single cold night, and the model of a demesne run for fruit."
+tags: [village, hill]
+data: {demonym: null, lore: [], parents: [zuravlenrgn], population: 310, packFolder: provenzia}
 ---
 
 **Vergéval** holds the best of the upper terraces, and is the wealthiest manor in

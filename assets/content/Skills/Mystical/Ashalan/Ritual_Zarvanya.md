@@ -1,18 +1,10 @@
 ---
-tags:
-  - ashalan
-  - faith-skill
-  - draft
+shortcode: zarvanya
+name: {full: "Ritual: Zárványä", aliases: [The Weaver of Visions]}
 type: skill
 subType: mystical
-shortcode: zarvanya
-name:
-  full: "Ritual: Zárványä"
-  aliases:
-    - The Weaver of Visions
-data:
-  templatePriority: null
-  packFolder: ashalan
+tags: [ashalan, faith-skill, draft]
+data: {templatePriority: null, packFolder: ashalan}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

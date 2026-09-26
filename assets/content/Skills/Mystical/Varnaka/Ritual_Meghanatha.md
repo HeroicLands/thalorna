@@ -1,19 +1,10 @@
 ---
-tags:
-  - varnaka
-  - faith-skill
+shortcode: meghanatha
+name: {full: "Ritual: Meghanātha", aliases: [Meghanātha, Meghanatha, Lord of Thunder]}
 type: skill
 subType: mystical
-shortcode: meghanatha
-name:
-  full: "Ritual: Meghanātha"
-  aliases:
-    - Meghanātha
-    - Meghanatha
-    - Lord of Thunder
-data:
-  templatePriority: null
-  packFolder: varnaka
+tags: [varnaka, faith-skill]
+data: {templatePriority: null, packFolder: varnaka}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

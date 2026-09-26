@@ -1,12 +1,9 @@
 ---
-tags: []
-description: "The Thunderer of the Asguardian gods—war, the sea, and the reavers who cross it."
+shortcode: thorrdty
+name: {full: Thórr, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Thórr
-  aliases: []
-shortcode: thorrdty
-data:
-  packFolder: deitiesasguardian
+description: "The Thunderer of the Asguardian gods—war, the sea, and the reavers who cross it."
+tags: []
+data: {packFolder: deitiesasguardian}
 ---

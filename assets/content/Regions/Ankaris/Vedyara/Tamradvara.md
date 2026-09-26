@@ -1,32 +1,22 @@
 ---
-tags:
-  - pass
-  - caravan
-  - inland
-description: "The copper-door—the road up the Silver Gorges to the Khazryn's eastern marches, tolled at a gate the crown did not build and cannot close."
+shortcode: tamradvara
+name: {full: Tāmradvāra, aliases: [The Copper-Door]}
 type: place
 subType: feature
+description: "The copper-door—the road up the Silver Gorges to the Khazryn's eastern marches, tolled at a gate the crown did not build and cannot close."
+tags: [pass, caravan, inland]
 data:
   demonym: null
   lore: []
-  parents:
-    - graznmntns
-    - estrnreach
+  parents: [graznmntns, estrnreach]
   population: null
   routes:
-    - {
-        to: khzryndsrtrgn,
-        bearing: N,
-        mode: land,
-        days: 30,
-        terrain: [hills, mountains, ice, steppe],
-      }
+    - to: khzryndsrtrgn
+      bearing: N
+      mode: land
+      days: 30
+      terrain: [hills, mountains, ice, steppe]
   packFolder: vedyara
-name:
-  full: Tāmradvāra
-  aliases:
-    - The Copper-Door
-shortcode: tamradvara
 ---
 
 **Tāmradvāra**, the copper-door, goes up through the [[place-slvrgorges|Silver Gorges]] and over the shoulder of [[place-estrnreach|the Eastern Reach]] into the marches where the [[place-khzryndsrtrgn|Khazryn]] runs out against [[place-tanvuregin|Tānvür]]. It is a working road for its first four days and a pass thereafter, and the transition is not marked by anything except the last of the ore-carts turning back.

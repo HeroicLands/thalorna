@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Invocation
-  aliases:
-    - Call
-description: "Summoned wind-spirit scouting terrain and engaging in aerial combat."
 shortcode: invctn
+name: {full: Invocation, aliases: [Call]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Summoned wind-spirit scouting terrain and engaging in aerial combat."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Call

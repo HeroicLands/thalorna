@@ -1,16 +1,11 @@
 ---
-tags: []
-name:
-  full: Arnos
-  aliases: []
-description: "The Ram: green-fingered and at home in wild country, and never light on their feet."
 shortcode: arnos
+name: {full: Arnos, aliases: []}
 type: mystery
 subType: birthsign
-data:
-  icon: icon-astrology
-  templatePriority: 0
-  packFolder: astrokyklos
+description: "The Ram: green-fingered and at home in wild country, and never light on their feet."
+tags: []
+data: {icon: icon-astrology, templatePriority: 0, packFolder: astrokyklos}
 sohl:
   kbcat: birthsign
   system:

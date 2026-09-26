@@ -1,19 +1,14 @@
 ---
-tags:
-  - region
-description: "The breadbasket of the Vylarian Empire—the land of the Province of Hylen, fertile lowlands and terraced hill-country of vast estates producing the grain, wine and oil that feed the empire."
-name:
-  full: Hylen
-  aliases: []
 shortcode: hylen
+name: {full: Hylen, aliases: []}
 type: place
 subType: region
+description: "The breadbasket of the Vylarian Empire—the land of the Province of Hylen, fertile lowlands and terraced hill-country of vast estates producing the grain, wine and oil that feed the empire."
+tags: [region]
 data:
   demonym: Vylarian
-  lore:
-    - humanflk
-  parents:
-    - vylariargn
+  lore: [humanflk]
+  parents: [vylariargn]
   population: 7000000
   packFolder: vylaria
 ---

@@ -1,11 +1,6 @@
 ---
-name:
-  full: "Tānvür"
 shortcode: tanvur
+name: {full: "Tānvür"}
 type: folder
-data:
-  parent:
-    default: polities
-    journals: ankaris
-  color: "#4CAF50"
+data: {parent: {default: polities, journals: ankaris}, color: "#4CAF50"}
 ---

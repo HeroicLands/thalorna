@@ -1,18 +1,11 @@
 ---
-tags:
-  - draft
-  - nyaluba
+shortcode: lionmvuzispr
+name: {full: Lion Spirit, aliases: [The Lion Guide, Lion of the Mvuzi]}
 type: lore
 subType: spirit
 description: "The lion-guide of the Mvuzi as a being—the witness of the Long Pact, who is met in the open and never from cover."
-name:
-  full: Lion Spirit
-  aliases:
-    - The Lion Guide
-    - Lion of the Mvuzi
-shortcode: lionmvuzispr
-data:
-  packFolder: lorespiritsnyaluba
+tags: [draft, nyaluba]
+data: {packFolder: lorespiritsnyaluba}
 ---
 
 The totemic being venerated by the [[affiliation-nylbtrblntn|Mvuzi]]. For the cult, its

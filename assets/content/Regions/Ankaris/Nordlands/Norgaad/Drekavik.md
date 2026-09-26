@@ -1,19 +1,9 @@
 ---
-tags:
-  - village
-  - coastal
-description: "Coastal Village"
+shortcode: drekavik
+name: {full: Drekavík, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - norgaad
-  population: 200
-  packFolder: norgaad
-name:
-  full: Drekavík
-  aliases: []
-shortcode: drekavik
+description: "Coastal Village"
+tags: [village, coastal]
+data: {demonym: null, lore: [], parents: [norgaad], population: 200, packFolder: norgaad}
 ---

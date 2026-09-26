@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Nourish
-  aliases:
-    - Enrichment
-description: "Magical sustenance replacing food; prevents hunger and maintains strength."
 shortcode: nourish
+name: {full: Nourish, aliases: [Enrichment]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
-  packFolder: spells
+description: "Magical sustenance replacing food; prevents hunger and maintains strength."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Enrichment

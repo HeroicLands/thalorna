@@ -1,13 +1,9 @@
 ---
-tags:
-  - dreadspawn
-  - creature
-name:
-  full: Blinkfox
-  aliases: []
-description: "A fae-touched predator that hunts enchanted forests by slipping through dimensions, striking from partially outside normal space."
 shortcode: blinkfox
+name: {full: Blinkfox, aliases: []}
 type: being
+description: "A fae-touched predator that hunts enchanted forests by slipping through dimensions, striking from partially outside normal space."
+tags: [dreadspawn, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -42,21 +38,21 @@ sohl:
     rea: 1d4+8
     cre: 1d4+10
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 9 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 17 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 9 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 50 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 65 } }
-    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 33 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 40 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 56 } }
-    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 23 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 8}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 9}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 17}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 9}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 13}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 50}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 65}}
+    - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 33}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 40}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 56}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 23}}
     - name: Blinking Bite
       type: skill
       system:
@@ -64,35 +60,20 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 74
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: bite
           name: Blinking Bite
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 1
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: -1
-            aspect: piercing
+          attack: {disabled: false, spread: 1, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: -1, aspect: piercing}
           lengthBase: 0
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
     - name: Flickering Claws
       type: skill
       system:
@@ -100,63 +81,38 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 74
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: claw
           name: Flickering Claws
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 2
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 8
-            modifier: -2
-            aspect: edged
+          attack: {disabled: false, spread: 2, modifier: 0}
+          impactBase: {numDice: 1, die: 8, modifier: -2, aspect: edged}
           lengthBase: 1
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
   system:
     body:
       structure:
         zones:
-          - name: Forequarters
-            shortcode: fqtrzone
-            probWeight: 1
-          - name: Torso
-            shortcode: torsozone
-            probWeight: 1
-          - name: Hindquarters
-            shortcode: hindqtrzone
-            probWeight: 1
+          - {name: Forequarters, shortcode: fqtrzone, probWeight: 1}
+          - {name: Torso, shortcode: torsozone, probWeight: 1}
+          - {name: Hindquarters, shortcode: hindqtrzone, probWeight: 1}
         parts:
           - name: Head
             shortcode: headpart
             bodyZoneCode: fqtrzone
-            roles:
-              - vital
-              - manipulator
+            roles: [vital, manipulator]
             canHoldItem: false
             probWeight: 10
           - name: Left Foreleg
             shortcode: lforelegpart
             bodyZoneCode: fqtrzone
-            roles: &a1
-              - locomotor
-              - manipulator
+            roles: &a1 [locomotor, manipulator]
             canHoldItem: false
             probWeight: 5
           - name: Right Foreleg
@@ -168,22 +124,19 @@ sohl:
           - name: Torso
             shortcode: torsopart
             bodyZoneCode: torsozone
-            roles:
-              - core
+            roles: [core]
             canHoldItem: false
             probWeight: 10
           - name: Left Hind Leg
             shortcode: lhindlegpart
             bodyZoneCode: hindqtrzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 5
           - name: Right Hind Leg
             shortcode: rhindlegpart
             bodyZoneCode: hindqtrzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 5
           - name: Tail
@@ -200,11 +153,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 3
-            protectionBase:
-              blunt: 2
-              edged: 1
-              piercing: 0
-              fire: 2
+            protectionBase: {blunt: 2, edged: 1, piercing: 0, fire: 2}
           - name: Neck
             shortcode: neckloc
             bodyPartCode: headpart
@@ -212,11 +161,7 @@ sohl:
             amputability: low
             shockValue: 5
             probWeight: 2
-            protectionBase:
-              blunt: 2
-              edged: 1
-              piercing: 0
-              fire: 2
+            protectionBase: {blunt: 2, edged: 1, piercing: 0, fire: 2}
           - name: Left Foreleg
             shortcode: lforelegloc
             bodyPartCode: lforelegpart
@@ -224,11 +169,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 2
-              edged: 1
-              piercing: 0
-              fire: 2
+            protectionBase: {blunt: 2, edged: 1, piercing: 0, fire: 2}
           - name: Right Foreleg
             shortcode: rforelegloc
             bodyPartCode: rforelegpart
@@ -236,11 +177,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 2
-              edged: 1
-              piercing: 0
-              fire: 2
+            protectionBase: {blunt: 2, edged: 1, piercing: 0, fire: 2}
           - name: Thorax
             shortcode: thoraxloc
             bodyPartCode: torsopart
@@ -248,11 +185,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 5
-            protectionBase:
-              blunt: 2
-              edged: 1
-              piercing: 0
-              fire: 2
+            protectionBase: {blunt: 2, edged: 1, piercing: 0, fire: 2}
           - name: Abdomen
             shortcode: abdloc
             bodyPartCode: torsopart
@@ -260,11 +193,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 3
-            protectionBase:
-              blunt: 2
-              edged: 1
-              piercing: 0
-              fire: 2
+            protectionBase: {blunt: 2, edged: 1, piercing: 0, fire: 2}
           - name: Pelvis
             shortcode: plvsloc
             bodyPartCode: torsopart
@@ -272,11 +201,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 2
-            protectionBase:
-              blunt: 2
-              edged: 1
-              piercing: 0
-              fire: 2
+            protectionBase: {blunt: 2, edged: 1, piercing: 0, fire: 2}
           - name: Left Hind Leg
             shortcode: lhindlegloc
             bodyPartCode: lhindlegpart
@@ -284,11 +209,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 2
-              edged: 1
-              piercing: 0
-              fire: 2
+            protectionBase: {blunt: 2, edged: 1, piercing: 0, fire: 2}
           - name: Right Hind Leg
             shortcode: rhindlegloc
             bodyPartCode: rhindlegpart
@@ -296,11 +217,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 2
-              edged: 1
-              piercing: 0
-              fire: 2
+            protectionBase: {blunt: 2, edged: 1, piercing: 0, fire: 2}
           - name: Tail
             shortcode: tailloc
             bodyPartCode: tailpart
@@ -308,14 +225,8 @@ sohl:
             amputability: high
             shockValue: 1
             probWeight: 10
-            protectionBase:
-              blunt: 2
-              edged: 1
-              piercing: 0
-              fire: 2
-      weight:
-        base: 15
-        calc: "15"
+            protectionBase: {blunt: 2, edged: 1, piercing: 0, fire: 2}
+      weight: {base: 15, calc: "15"}
       reachBase: 0
       bodyScaleBase: 0.81
       personalFatigue: "enc + 5"

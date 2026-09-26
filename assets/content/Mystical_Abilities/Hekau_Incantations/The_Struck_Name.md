@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: The Struck Name
-  aliases: []
-description: "Erases a name from every record and from living memory, ending the named as thoroughly as death does not."
 shortcode: strcknm
+name: {full: The Struck Name, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: sefut
-  templatePriority: null
-  packFolder: hekauincantations
+description: "Erases a name from every record and from living memory, ending the named as thoroughly as death does not."
+tags: [khemenu-hekau, incantation]
+data: {icon: sefut, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: sefut
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---
 
 The gravest working in the tradition and the one its whole philosophy makes possible: if a thing

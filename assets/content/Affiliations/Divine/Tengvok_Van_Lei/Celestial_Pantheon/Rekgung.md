@@ -1,16 +1,10 @@
 ---
-description: "Storms."
-tags:
-  - celestial-official
-  - celestial-order
-  - bureau-of-storms
-  - minister-of-weather
-name:
-  full: Rëkgüng
-  aliases: []
 shortcode: rekgung
+name: {full: Rëkgüng, aliases: []}
 type: affiliation
 subType: faithtradition
+description: "Storms."
+tags: [celestial-official, celestial-order, bureau-of-storms, minister-of-weather]
 data:
   banner: faithbnr
   templatePriority: null
@@ -20,70 +14,53 @@ data:
   governance:
     model: meritocracy
     summary: >-
-      Not a church but an administration. Temples of the Rëkshüt Sëi are celestial post offices and
-      their clergy are clerks; standing follows competence with forms, seals, precedent and the
-      correct bureau. A weather petition is written, sealed, accompanied by tribute in coin and in
-      kind, and burned at the censer, which is the act that files it. A petition filed to the wrong
-      bureau is simply lost.
+      Not a church but an administration. Temples of the Rëkshüt Sëi are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau. A weather petition is written, sealed, accompanied by tribute in coin and in kind, and burned at the censer, which is the act that files it. A petition filed to the wrong bureau is simply lost.
     ranks:
       - level: 0
         title: Struck from the Rolls
         lore: excmmnctrnk
         description: >-
-          The ledger closed against them: no petition they file is accepted, no temple will stamp
-          for them, and no ancestor can advocate for a descendant who cannot be addressed. This is
-          not damnation. It is administrative non-existence, which the Tānvüri consider worse.
+          The ledger closed against them: no petition they file is accepted, no temple will stamp for them, and no ancestor can advocate for a descendant who cannot be addressed. This is not damnation. It is administrative non-existence, which the Tānvüri consider worse.
       - level: 1
         title: Petitioner
         lore: layfaithfulrnk
         description: >-
-          Every Tānvüri: keeps a moral ledger, is observed by the household's Zātkür, and files
-          through a temple for rain, healing, a ruling, or a relative's passage through the
-          Ministry of Final Account.
+          Every Tānvüri: keeps a moral ledger, is observed by the household's Zātkür, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
       - level: 2
         title: Copyist
         lore: apprenticernk
         description: >-
-          Under training in a temple—copying forms, learning the seals and the calendrical
-          schedules—and not yet permitted to file anything on another's behalf.
+          Under training in a temple—copying forms, learning the seals and the calendrical schedules—and not yet permitted to file anything on another's behalf.
       - level: 3
         title: Clerk
         lore: clerkrnk
         description: >-
-          The ordinary temple officer, and the tradition's plain description of its own clergy:
-          not a pastor but a clerk who knows the correct forms, the correct seals and the correct
-          bureau. Charges fees, because preparing a petition correctly is expertise.
+          The ordinary temple officer, and the tradition's plain description of its own clergy: not a pastor but a clerk who knows the correct forms, the correct seals and the correct bureau. Charges fees, because preparing a petition correctly is expertise.
       - level: 4
         title: Seal-Holder
         lore: officerrnk
         description: >-
-          Holds a temple's seals and stamps. Nothing is transmitted without them, which makes this
-          the office at which a petition is in practice granted or refused.
+          Holds a temple's seals and stamps. Nothing is transmitted without them, which makes this the office at which a petition is in practice granted or refused.
       - level: 5
         title: Registrar
         lore: magistraternk
         description: >-
-          Keeps the region's ledgers and rules on whether a petition is correctly addressed,
-          adequately supported by precedent, and free of conflict with standing allocations.
+          Keeps the region's ledgers and rules on whether a petition is correctly addressed, adequately supported by precedent, and free of conflict with standing allocations.
       - level: 6
         title: Intendant
         lore: highpriestrnk
         description: >-
-          Heads one bureau's temple in a province, answering for its filings, its revenues and its
-          record-keeping, and hiring the scholars who research precedent for difficult petitions.
+          Heads one bureau's temple in a province, answering for its filings, its revenues and its record-keeping, and hiring the scholars who research precedent for difficult petitions.
       - level: 7
         title: Chief Intendant
         lore: grandmasterrnk
         description: >-
-          Senior mortal officer of a bureau's whole temple establishment, who signs what is
-          transmitted upward to its Tëng Güng and answers for it if the bureau rejects it.
+          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Tëng Güng and answers for it if the bureau rejects it.
     offices:
       Rëkgüng, Minister of Storms: >-
-        Tëng Güng of the Rëkshüt Sëi, who administers the celestial schedules of rainfall rather
-        than judging the merits of those who want it.
+        Tëng Güng of the Rëkshüt Sëi, who administers the celestial schedules of rainfall rather than judging the merits of those who want it.
       Lëknëi: >-
-        Lightning Clerk—processes strike orders received from higher authority, each one
-        documented and therefore appealable.
+        Lightning Clerk—processes strike orders received from higher authority, each one documented and therefore appealable.
       Lüngzhük: >-
         River Administrator—executes water-based punishments and allocations at the local level.
       Intendant of the Bureau: >-
@@ -93,38 +70,24 @@ data:
       Seal-Holder: >-
         Holds the stamps a weather petition requires; an unsealed petition is not a petition.
       Clerk of Transmission: >-
-        Burns the completed petition, which is the act that files it. A farming village's temple
-        has a single censer and can address the Rëkshüt Sëi and little else; the great port temples
-        keep a censer for each bureau they are licensed to address. A household may burn a small
-        sacrifice at its own shrine against a bad season, but a village's emergency water petition
-        goes to the temple.
+        Burns the completed petition, which is the act that files it. A farming village's temple has a single censer and can address the Rëkshüt Sëi and little else; the great port temples keep a censer for each bureau they are licensed to address. A household may burn a small sacrifice at its own shrine against a bad season, but a village's emergency water petition goes to the temple.
       Illuminator: >-
-        Paints the weather-scenes a substantial petition carries—the parched field, the swollen
-        river, the storm turned aside—which the bureau is held to read as evidence.
+        Paints the weather-scenes a substantial petition carries—the parched field, the swollen river, the storm turned aside—which the bureau is held to read as evidence.
       Precedent-Scholar: >-
-        Researches prior droughts, prior allocations and prior rulings, and is hired at
-        considerable expense when a petition is contested.
+        Researches prior droughts, prior allocations and prior rulings, and is hired at considerable expense when a petition is contested.
       Receiver of Tribute: >-
-        Takes the sacrifice a weather petition carries—grain, livestock, coin, cloth—and enters
-        it to the village's credit before the petition goes to the censer.
+        Takes the sacrifice a weather petition carries—grain, livestock, coin, cloth—and enters it to the village's credit before the petition goes to the censer.
       Advocate of the Strike: >-
-        Prosecutes a family's appeal that a lightning strike breached the protocols for
-        proportional punishment—a recognized social practice, and usually unsuccessful.
+        Prosecutes a family's appeal that a lightning strike breached the protocols for proportional punishment—a recognized social practice, and usually unsuccessful.
   seat: null
   domains: []
   population: null
-  economy:
-    - lore-tanvrcrncy
-  lore:
-    - rekgungdty
-  parents:
-    - tngvkvnlei
-  relations:
-    tanvurempr: aligned
+  economy: [lore-tanvrcrncy]
+  lore: [rekgungdty]
+  parents: [tngvkvnlei]
+  relations: {tanvurempr: aligned}
   packFolder: celestialpantheon
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 ## Rëkgüng—The Minister of Storms

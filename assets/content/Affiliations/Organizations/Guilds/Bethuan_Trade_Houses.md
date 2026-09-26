@@ -1,15 +1,12 @@
 ---
-tags: []
-description: "Federation of matriarchal trading clans that dominates Bethûan commerce—clan-based, female-led, operating through Ta'Kheperan currency and correspondent banking relationships with Pér-Háti temple-treasuries."
+shortcode: bthntrdhss
 name:
   full: The Bethûan Trade-Houses
-  aliases:
-    - The Houses
-    - The Matriarchal Trade-Houses
-    - Bethûan Matriarchal Trade-Houses
-shortcode: bthntrdhss
+  aliases: [The Houses, The Matriarchal Trade-Houses, Bethûan Matriarchal Trade-Houses]
 type: affiliation
 subType: guild
+description: "Federation of matriarchal trading clans that dominates Bethûan commerce—clan-based, female-led, operating through Ta'Kheperan currency and correspondent banking relationships with Pér-Háti temple-treasuries."
+tags: []
 data:
   templatePriority: null
   demonym: null
@@ -18,8 +15,7 @@ data:
   governance:
     model: council
     summary: >-
-      A federation of matriarchal merchant clans, governed twice a year by the Council of
-      Matriarchs under a rotating Speaker chosen by consensus from among the Great Houses.
+      A federation of matriarchal merchant clans, governed twice a year by the Council of Matriarchs under a rotating Speaker chosen by consensus from among the Great Houses.
     ranks:
       - level: 0
         title: Expelled
@@ -30,19 +26,15 @@ data:
         title: Lesser House
         lore: swornmemberrnk
         description: >-
-          A trading clan of regional standing conducting most of its business locally, relying
-          on the Great Houses to extend credit and handle cross-territory transactions.
+          A trading clan of regional standing conducting most of its business locally, relying on the Great Houses to extend credit and handle cross-territory transactions.
       - level: 3
         title: Great House
         lore: greatlordrnk
         description: >-
-          One of perhaps a dozen senior trading clans whose matriarch sits on the Council of
-          Matriarchs, holding formal correspondent accounts at Kheperi temples.
+          One of perhaps a dozen senior trading clans whose matriarch sits on the Council of Matriarchs, holding formal correspondent accounts at Kheperi temples.
     offices:
       Speaker of the Council: >-
-        Chosen by consensus from among the present matriarchs for each session; presides over
-        the session, frames the questions and announces the rulings, but carries prestige rather
-        than standing executive authority.
+        Chosen by consensus from among the present matriarchs for each session; presides over the session, frames the questions and announces the rulings, but carries prestige rather than standing executive authority.
   seat: null
   domains: []
   population: null
@@ -55,9 +47,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 - **Type:** Federation of matriarchal trading clans; commercial institution

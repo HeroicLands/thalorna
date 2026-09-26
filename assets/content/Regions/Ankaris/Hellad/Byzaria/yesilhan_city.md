@@ -1,20 +1,11 @@
 ---
-tags:
-  - city
-  - caravan
-description: "Caravan City"
+shortcode: yesilhan2
+name: {full: Yeşilhan, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - byzariargn
-  population: 40000
-name:
-  full: Yeşilhan
-  aliases: []
-shortcode: yesilhan2
+description: "Caravan City"
+tags: [city, caravan]
+data: {demonym: null, lore: [], parents: [byzariargn], population: 40000}
 ---
 
 ## Overview

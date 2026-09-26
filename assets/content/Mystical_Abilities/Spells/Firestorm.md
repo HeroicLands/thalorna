@@ -1,24 +1,17 @@
 ---
-tags: []
-name:
-  full: Firestorm
-  aliases: []
-description: "Conjures whirling inferno; swirls consuming flames across wide area."
 shortcode: frstrm
+name: {full: Firestorm, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
-  packFolder: spells
+description: "Conjures whirling inferno; swirls consuming flames across wide area."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Conflagration

@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Xerathia"
 shortcode: heroesandknavesxerathia
+name: {full: "Xerathia"}
 type: folder
-data:
-  parent: heroesandknaves
-  color: "#00CED1"
+data: {parent: heroesandknaves, color: "#00CED1"}
 ---

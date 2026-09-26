@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Tangle
-  aliases:
-    - Vine
-description: "Entangles target with bonds; creates magical webbing."
 shortcode: tangle
+name: {full: Tangle, aliases: [Vine]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
-  packFolder: spells
+description: "Entangles target with bonds; creates magical webbing."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Vine

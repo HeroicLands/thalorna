@@ -1,14 +1,12 @@
 ---
-tags: []
-type: affiliation
-description: The indigenous oasis-civilization of the Khazryn Desert, displaced from its choicest lands four generations ago by the Ātárzád conquest. Reduced today to peripheral oases, dispossessed princely houses in exile, and a large subject merchant-and-craftsman population within the conquered cities—but unyielding in its claim that the Khazryn is named for the Khazryn and is the Khazryn's by right.
+shortcode: khzrncnfdrtn
 name:
   full: Khazryn Confederation
-  aliases:
-    - The League of Princely Houses
-    - Princes of the Khazryn
-shortcode: khzrncnfdrtn
+  aliases: [The League of Princely Houses, Princes of the Khazryn]
+type: affiliation
 subType: polity
+description: The indigenous oasis-civilization of the Khazryn Desert, displaced from its choicest lands four generations ago by the Ātárzád conquest. Reduced today to peripheral oases, dispossessed princely houses in exile, and a large subject merchant-and-craftsman population within the conquered cities—but unyielding in its claim that the Khazryn is named for the Khazryn and is the Khazryn's by right.
+tags: []
 data:
   templatePriority: null
   demonym: Khazryn
@@ -17,102 +15,73 @@ data:
   governance:
     model: confederation
     summary: >-
-      A Council of the Princes of seven houses—three still ruling their oases, four ruling
-      in exile at Amradad—which coordinates a common diplomatic position and does not govern.
+      A Council of the Princes of seven houses—three still ruling their oases, four ruling in exile at Amradad—which coordinates a common diplomatic position and does not govern.
     ranks:
       - level: 0
         title: Blood-Debtor
         lore: outlawrnk
         description: >-
-          Under an unsettled feud and outside the confederation's protection until it is paid
-          or avenged.
+          Under an unsettled feud and outside the confederation's protection until it is paid or avenged.
       - level: 1
         title: Bondservant
         lore: bondservantrnk
         description: >-
-          Bound in service or debt to a house, and answerable through it rather than in his
-          own name.
+          Bound in service or debt to a house, and answerable through it rather than in his own name.
       - level: 2
         title: Subject
         lore: commonerrnk
         description: >-
-          Of the peoples the houses ruled and rule, owing dues and labor and holding no place
-          in the Council.
+          Of the peoples the houses ruled and rule, owing dues and labor and holding no place in the Council.
       - level: 3
         title: Kinsman of a House
         lore: kinsmanrnk
         description: >-
-          Of a princely house's blood or sworn following, entitled to its protection and its
-          quarrels.
+          Of a princely house's blood or sworn following, entitled to its protection and its quarrels.
       - level: 4
         title: Retainer
         lore: dependentrnk
         description: >-
-          Holding a charge in a house's service—its caravans, its guards, its correspondence,
-          its exile courts.
+          Holding a charge in a house's service—its caravans, its guards, its correspondence, its exile courts.
       - level: 5
         title: Mōbad
         lore: priestrnk
-        description: Ordained to the fire and the law, keeping the rites the Catastrophe did
-          not extinguish.
+        description: Ordained to the fire and the law, keeping the rites the Catastrophe did not extinguish.
       - level: 6
         title: Elder of a House
         lore: elderrnk
-        description: Senior of a princely house, whose counsel binds its head in practice if
-          not in form.
+        description: Senior of a princely house, whose counsel binds its head in practice if not in form.
       - level: 7
         title: Prince of a House
         lore: councillorrnk
         description: >-
-          Head of one of the seven houses—three still ruling, four ruling in exile, and all
-          seven seated at the Council.
+          Head of one of the seven houses—three still ruling, four ruling in exile, and all seven seated at the Council.
       - level: 8
         title: First of the Seven
         lore: prsdngffcrrnk
         description: >-
-          The senior house's prince, who speaks first at the Council by long custom and commands
-          nothing by it.
+          The senior house's prince, who speaks first at the Council by long custom and commands nothing by it.
     offices:
-      Prince of a House: Head of one of the seven princely houses, ruling an oasis or maintaining
-        a court in exile.
-      First of the Seven: The senior prince, entitled by custom to speak first at the Council
-        of the Princes.
+      Prince of a House: Head of one of the seven princely houses, ruling an oasis or maintaining a court in exile.
+      First of the Seven: The senior prince, entitled by custom to speak first at the Council of the Princes.
       Elder of a House: Senior kinsman whose counsel a prince disregards at his cost.
       Mōbad: >-
-        Ordained keeper of the fire, the law and the commentaries—the confederation's continuity
-        through its catastrophe.
+        Ordained keeper of the fire, the law and the commentaries—the confederation's continuity through its catastrophe.
       Steward of the Exile Court: >-
-        Administrator of a dispossessed house's affairs in Amradad—its revenues, its clients,
-        its claims.
-      Caravan-Master: Holder of a house's trade upon the routes, and the practical source
-        of its money.
+        Administrator of a dispossessed house's affairs in Amradad—its revenues, its clients, its claims.
+      Caravan-Master: Holder of a house's trade upon the routes, and the practical source of its money.
       Warden of the Oasis: Keeper of a still-held settlement's water, walls and gates.
-      Keeper of the Tablets: Archivist of the baked-clay record on which every house's claim
-        to its ruins rests.
-      Envoy to the Sultanate: A house's representative at Amradad, where the Council meets
-        on the Sultan's courtesy.
-      Keeper of the Feud: Recorder of blood owed and blood paid between houses and against
-        the Ātárzád.
+      Keeper of the Tablets: Archivist of the baked-clay record on which every house's claim to its ruins rests.
+      Envoy to the Sultanate: A house's representative at Amradad, where the Council meets on the Sultan's courtesy.
+      Keeper of the Feud: Recorder of blood owed and blood paid between houses and against the Ātárzád.
   seat: oasishirvn
-  domains:
-    - khzryndsrtrgn
+  domains: [khzryndsrtrgn]
   population: 2000000
-  economy:
-    - lore-bartercnmy
-    - lore-kinhalcrdt
-    - lore-vdyrnbnkng
-  lore:
-    - humanflk
+  economy: [lore-bartercnmy, lore-kinhalcrdt, lore-vdyrnbnkng]
+  lore: [humanflk]
   parents: []
-  relations:
-    ashanpnthn: aligned
-    tribestrzd: nemesis
-    sultntmrdd: aligned
+  relations: {ashanpnthn: aligned, tribestrzd: nemesis, sultntmrdd: aligned}
   packFolder: khazryndesert
-sohl:
-  system:
-    commonSkills:
-      - khazrilng
+sohl: {system: {commonSkills: [khazrilng]}}
 
 # terran_analog: "Canaanites of the post-Conquest period—indigenous urban-pastoral oasis civilization, polytheistic Āsháian observance with particular devotion to the oasis-mother and order-keeper, ancient hereditary princely houses (some still-ruling on margins, some in continuous exile), large subject diaspora within the conquered cities, eternal blood-feud with the newcomer fire-cult that took the choicest land"
 ---

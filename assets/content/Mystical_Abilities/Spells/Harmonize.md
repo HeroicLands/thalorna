@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Harmonize
-  aliases:
-    - Attune
-description: "Unites allied group; enhances coordination and shared magical resonance."
 shortcode: hrmnz
+name: {full: Harmonize, aliases: [Attune]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Unites allied group; enhances coordination and shared magical resonance."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Attune

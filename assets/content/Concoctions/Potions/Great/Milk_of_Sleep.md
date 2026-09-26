@@ -1,18 +1,11 @@
 ---
-tags:
-  - great-elixir
-name:
-  full: Milk of Sleep
-  aliases:
-    - Potion, Narcotic, Great
-description: "Black opaque draft; induces deep unconsciousness and complete rest."
 shortcode: ptnnarg
+name: {full: Milk of Sleep, aliases: ["Potion, Narcotic, Great"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: great
+description: "Black opaque draft; induces deep unconsciousness and complete rest."
+tags: [great-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: great}
 sohl:
   system:
     weightBase: 0.25

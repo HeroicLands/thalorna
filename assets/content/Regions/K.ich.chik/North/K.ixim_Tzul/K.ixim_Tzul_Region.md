@@ -1,19 +1,14 @@
 ---
-tags:
-  - region
-description: "Boreal forest, subarctic plateau and caribou tundra—the land of K'ixim Tzul, in Northern K'ich'chik."
-name:
-  full: K'ixim Tzul Region
-  aliases: []
 shortcode: kiximtzulrgn
+name: {full: K'ixim Tzul Region, aliases: []}
 type: place
 subType: region
+description: "Boreal forest, subarctic plateau and caribou tundra—the land of K'ixim Tzul, in Northern K'ich'chik."
+tags: [region]
 data:
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - nrthrnkchchk
+  lore: [humanflk]
+  parents: [nrthrnkchchk]
   population: null
   packFolder: kiximtzul
 

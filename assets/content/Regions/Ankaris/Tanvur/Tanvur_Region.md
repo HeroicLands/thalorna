@@ -1,31 +1,24 @@
 ---
-tags:
-  - region
-description: The Tānvüri heartland—the mountain-guarded river basins and plains of Ankaris's far east, cradle of the Empire of Tānvür.
-name:
-  full: Tānvür Region
-  aliases:
-    - Tanvur
-    - Tānvür
 shortcode: tanvuregin
+name: {full: Tānvür Region, aliases: [Tanvur, Tānvür]}
 type: place
 subType: region
+description: The Tānvüri heartland—the mountain-guarded river basins and plains of Ankaris's far east, cradle of the Empire of Tānvür.
+tags: [region]
 data:
   icon: null
   demonym: Tānvüri
-  lore:
-    - humanflk
-  parents:
-    - ankrscntnnt
+  lore: [humanflk]
+  parents: [ankrscntnnt]
   borders:
-    - { to: khzryndsrtrgn, bearing: W }
-    - { to: vedyarargn, bearing: SW }
-    - { to: graznmntns, bearing: W }
+    - {to: khzryndsrtrgn, bearing: W}
+    - {to: vedyarargn, bearing: SW}
+    - {to: graznmntns, bearing: W}
   routes:
-    - { to: suryadvara, bearing: SW, mode: land, days: 30 }
-    - { to: jnanadvara, bearing: SW, mode: land, days: 45 }
-    - { to: sankhadvra, bearing: W, mode: land, days: 60 }
-    - { to: nilatira, bearing: SW, mode: ship, days: 45, terrain: [open-sea] }
+    - {to: suryadvara, bearing: SW, mode: land, days: 30}
+    - {to: jnanadvara, bearing: SW, mode: land, days: 45}
+    - {to: sankhadvra, bearing: W, mode: land, days: 60}
+    - {to: nilatira, bearing: SW, mode: ship, days: 45, terrain: [open-sea]}
   population: null
   packFolder: tanvur
 

@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Ravenous
-  aliases:
-    - Hunger
-description: "Hunger compulsion; targets eat anything to satisfy overwhelming urge."
 shortcode: ravenous
+name: {full: Ravenous, aliases: [Hunger]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
-  packFolder: spells
+description: "Hunger compulsion; targets eat anything to satisfy overwhelming urge."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Hunger

@@ -1,19 +1,10 @@
 ---
-description: "The ascetic, reformist sect centered on Rásikara's purging fire that brings purification."
-tags:
-  - varnaka
-  - faith
-  - sect
-  - ascetic
-  - reformist
-name:
-  full: Agnī-panthā
-  aliases:
-    - The Path of the Flame
-    - Flame Path
 shortcode: agnipantha
+name: {full: Agnī-panthā, aliases: [The Path of the Flame, Flame Path]}
 type: affiliation
 subType: faithtradition
+description: "The ascetic, reformist sect centered on Rásikara's purging fire that brings purification."
+tags: [varnaka, faith, sect, ascetic, reformist]
 data:
   banner: faithbnr
   templatePriority: null
@@ -29,14 +20,12 @@ data:
         title: Patita
         lore: excmmnctrnk
         description: >-
-          "Fallen"—put out of the tradition, denied its rites and its teaching, and not received
-          again by any of its houses.
+          "Fallen"—put out of the tradition, denied its rites and its teaching, and not received again by any of its houses.
       - level: 1
         title: Upāsaka
         lore: layfaithfulrnk
         description: >-
-          The lay follower, who keeps the observances and brings petitions without holding any
-          office in the tradition.
+          The lay follower, who keeps the observances and brings petitions without holding any office in the tradition.
       - level: 2
         title: Bhasma
         lore: initiaternk
@@ -67,12 +56,9 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - rasikaradty
-  parents:
-    - varakpnthn
-  relations:
-    varakpnthn: aligned
+  lore: [rasikaradty]
+  parents: [varakpnthn]
+  relations: {varakpnthn: aligned}
   packFolder: pantheonsvarnaka
 sohl:
   system:

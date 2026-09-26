@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The boar as a totemic ideal, and the human character it describes."
+shortcode: boarttm
+name: {full: Boar, aliases: [Boar Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Boar
-  aliases:
-    - Boar Totem
-shortcode: boarttm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The boar as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-boartotem|Boar]]{float: top-left, size: medium}

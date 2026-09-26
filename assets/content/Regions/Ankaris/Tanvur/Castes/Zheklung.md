@@ -1,12 +1,9 @@
 ---
+shortcode: zheklung
+name: {full: Zhëklüng, aliases: []}
 type: lore
 subType: culture
-name:
-  full: Zhëklüng
-  aliases: []
-shortcode: zheklung
-data:
-  packFolder: castes
+data: {packFolder: castes}
 ---
 
 **Sons of the Dragon**

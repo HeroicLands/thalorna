@@ -1,23 +1,16 @@
 ---
-tags:
-  - strange
-  - inland
-description: "The standing wall on the col of the unblessed road, pierced by one smooth oval that has never been seen closed, with nothing built around it and nothing on the far side but more col."
+shortcode: shunydvara
+name: {full: Shūnyadvāra, aliases: [The Empty Door]}
 type: place
 subType: site
+description: "The standing wall on the col of the unblessed road, pierced by one smooth oval that has never been seen closed, with nothing built around it and nothing on the far side but more col."
+tags: [strange, inland]
 data:
   demonym: null
   lore: []
-  parents:
-    - graznmntns
-    - sthrnwall
+  parents: [graznmntns, sthrnwall]
   population: null
   packFolder: vedyara
-name:
-  full: Shūnyadvāra
-  aliases:
-    - The Empty Door
-shortcode: shunydvara
 ---
 
 **Shūnyadvāra** stands on the col of [[place-gudesroad|the Guides' Road]]: a free-standing wall about two men high and four across, ribbed in long true curves, pierced by a single smooth oval whose edge runs into the wall with no jamb, no lintel and no threshold. Nothing is built around it. There is nothing on the far side of it but more col.

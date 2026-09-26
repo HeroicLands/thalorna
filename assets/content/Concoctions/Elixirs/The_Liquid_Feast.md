@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: The Liquid Feast
-  aliases:
-    - Sustenance Elixir
-description: "Thick brown draft; sustains days of active labor and travel."
 shortcode: elxsus
+name: {full: The Liquid Feast, aliases: [Sustenance Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Thick brown draft; sustains days of active labor and travel."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

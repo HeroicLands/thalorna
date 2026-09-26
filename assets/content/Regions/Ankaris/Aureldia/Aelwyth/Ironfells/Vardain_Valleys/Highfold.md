@@ -1,22 +1,16 @@
 ---
-tags:
-  - village
-  - mountain
-description: "The summer pasture village above the tree line, and the source of the cheese that goes up to the Gate."
+shortcode: highfold
+name: {full: Highfold, aliases: []}
 type: place
 subType: settlement
+description: "The summer pasture village above the tree line, and the source of the cheese that goes up to the Gate."
+tags: [village, mountain]
 data:
   demonym: null
-  lore:
-    - vardain
-  parents:
-    - vardainvalleys
+  lore: [vardain]
+  parents: [vardainvalleys]
   population: 540
   packFolder: aelwyth
-name:
-  full: Highfold
-  aliases: []
-shortcode: highfold
 ---
 
 **Highfold** is the highest grazing, a scatter of stone steadings around a village of three hundred and

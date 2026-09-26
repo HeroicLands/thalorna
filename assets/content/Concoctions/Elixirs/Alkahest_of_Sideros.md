@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: Alkahest of Sidéros
-  aliases:
-    - Acid Elixir
-description: "Crystalline amber acid elixir; corrodes flesh, metal, armor per round."
 shortcode: elxacid
+name: {full: Alkahest of Sidéros, aliases: [Acid Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Crystalline amber acid elixir; corrodes flesh, metal, armor per round."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

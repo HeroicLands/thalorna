@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Shattermind
-  aliases:
-    - Rupture
-description: "Shatters resolve; breaks will and courage of target."
 shortcode: shttrmnd
+name: {full: Shattermind, aliases: [Rupture]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
-  packFolder: spells
+description: "Shatters resolve; breaks will and courage of target."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Rupture

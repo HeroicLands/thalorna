@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Iunet."
+shortcode: iunet
+name: {full: Iunet, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Iunet."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - iunetnome
+  parents: [iunetnome]
   population: 42000
   packFolder: upperrivernomes
-name:
-  full: Iunet
-  aliases: []
-shortcode: iunet
 ---
 
 ## Overview

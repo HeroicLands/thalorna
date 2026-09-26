@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Per-Wadjit."
+shortcode: perwadjit
+name: {full: Per-Wadjit, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Per-Wadjit."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - perwadjitnome
+  parents: [perwadjitnome]
   population: 49000
   packFolder: deltanomes
-name:
-  full: Per-Wadjit
-  aliases: []
-shortcode: perwadjit
 ---
 
 ## Overview

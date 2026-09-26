@@ -1,21 +1,11 @@
 ---
-tags:
-  - city-state
-  - city
-  - draft
-description: "City-State"
+shortcode: kalydria2
+name: {full: Kalydria, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - helionis
-  population: 45000
-name:
-  full: Kalydria
-  aliases: []
-shortcode: kalydria2
+description: "City-State"
+tags: [city-state, city, draft]
+data: {demonym: null, lore: [], parents: [helionis], population: 45000}
 ---
 
 ## Overview

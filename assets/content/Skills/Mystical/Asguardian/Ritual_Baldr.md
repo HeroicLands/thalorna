@@ -1,19 +1,10 @@
 ---
-tags:
-  - asguardian
-  - faith-skill
-  - draft
+shortcode: baldr
+name: {full: "Ritual: Baldr", aliases: [The Luminous Path]}
 type: skill
 subType: mystical
-shortcode: baldr
-name:
-  full: "Ritual: Baldr"
-  aliases:
-    - The Luminous Path
-data:
-  icon: baldr
-  templatePriority: null
-  packFolder: asguardian
+tags: [asguardian, faith-skill, draft]
+data: {icon: baldr, templatePriority: null, packFolder: asguardian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

@@ -1,12 +1,9 @@
 ---
+shortcode: phlsphylvr
+name: {full: Philosophy of Lëivōr, aliases: []}
 type: lore
 subType: cosmology
-name:
-  full: Philosophy of Lëivōr
-  aliases: []
-shortcode: phlsphylvr
-data:
-  packFolder: tanvur
+data: {packFolder: tanvur}
 ---
 
 ## The Philosophy of Lëivōr in Tānvür

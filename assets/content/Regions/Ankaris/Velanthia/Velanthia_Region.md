@@ -1,21 +1,15 @@
 ---
-tags:
-  - region
-description: The vast forest-steppe and grain-belt that bridges the Nordlands forests in the west and the Khazryn steppes in the east—a transitional zone of river-prince kingdoms, semi-settled frontier Hosts, and the constant pull and shove of two utterly different ways of life pressing on each other across a thousand miles of frontier.
-name:
-  full: Velanthia Region
-  aliases:
-    - Velanthia
 shortcode: velanthrgn
+name: {full: Velanthia Region, aliases: [Velanthia]}
 type: place
 subType: region
+description: The vast forest-steppe and grain-belt that bridges the Nordlands forests in the west and the Khazryn steppes in the east—a transitional zone of river-prince kingdoms, semi-settled frontier Hosts, and the constant pull and shove of two utterly different ways of life pressing on each other across a thousand miles of frontier.
+tags: [region]
 data:
   icon: null
   demonym: Velanthian
-  lore:
-    - humanflk
-  parents:
-    - ankrscntnnt
+  lore: [humanflk]
+  parents: [ankrscntnnt]
   population: null
   packFolder: velanthia
 

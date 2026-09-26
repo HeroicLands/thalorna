@@ -1,21 +1,11 @@
 ---
-tags:
-  - river
-  - inland
-description: "The great river of Élavendre—rising in the northwestern uplands and running southwest across the heartland to the sea, navigable past the capital that is named for it."
+shortcode: beravriver
+name: {full: The Bérav, aliases: []}
 type: place
 subType: feature
-data:
-  demonym: null
-  lore: []
-  parents:
-    - tirwen
-  population: null
-  packFolder: elavendre
-name:
-  full: The Bérav
-  aliases: []
-shortcode: beravriver
+description: "The great river of Élavendre—rising in the northwestern uplands and running southwest across the heartland to the sea, navigable past the capital that is named for it."
+tags: [river, inland]
+data: {demonym: null, lore: [], parents: [tirwen], population: null, packFolder: elavendre}
 ---
 
 The **Bérav** is Élavendre's principal river and the axis of [[place-tirwen|Tirwen]]. It rises in the

@@ -1,18 +1,11 @@
 ---
-tags:
-  - strong-elixir
-name:
-  full: Cinder Kiss
-  aliases:
-    - Potion, Aphrodisiac, Strong
-description: "Deep crimson concentrated preparation; ignites passion and desire."
 shortcode: ptnaphrs
+name: {full: Cinder Kiss, aliases: ["Potion, Aphrodisiac, Strong"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: strong
+description: "Deep crimson concentrated preparation; ignites passion and desire."
+tags: [strong-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: strong}
 sohl:
   system:
     weightBase: 0.25

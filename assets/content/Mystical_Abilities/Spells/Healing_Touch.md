@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Healing Touch
-  aliases:
-    - Balsam
-description: "Caster's touch mends wounds; restores flesh and eases pain."
 shortcode: healtch
+name: {full: Healing Touch, aliases: [Balsam]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
-  packFolder: spells
+description: "Caster's touch mends wounds; restores flesh and eases pain."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Balsam

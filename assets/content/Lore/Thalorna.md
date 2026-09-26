@@ -1,4 +1,6 @@
 ---
+shortcode: worldthlrn
+name: {full: The World of Thalorna, aliases: [Thalorna]}
 type: place
 subType: world
 data:
@@ -6,22 +8,10 @@ data:
   lore: []
   parents: []
   population: 370000000
-  world:
-    equatorialCircumferenceKm: 40000
-    surfaceGravityG: 1.0
-    axialTiltDegrees: 23.5
-  year:
-    days: 365
-    hoursPerDay: 24
-    minutesPerHour: 60
-    secondsPerMinute: 60
+  world: {equatorialCircumferenceKm: 40000, surfaceGravityG: 1.0, axialTiltDegrees: 23.5}
+  year: {days: 365, hoursPerDay: 24, minutesPerHour: 60, secondsPerMinute: 60}
   present: 720
   packFolder: setting
-name:
-  full: The World of Thalorna
-  aliases:
-    - Thalorna
-shortcode: worldthlrn
 
 # cascade:
 #   - target:

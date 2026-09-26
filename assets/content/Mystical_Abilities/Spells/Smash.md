@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Smash
-  aliases:
-    - Shatter
-description: "Shatters brittle object; reduces stone and glass to dust."
 shortcode: smash
+name: {full: Smash, aliases: [Shatter]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
-  packFolder: spells
+description: "Shatters brittle object; reduces stone and glass to dust."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Shatter

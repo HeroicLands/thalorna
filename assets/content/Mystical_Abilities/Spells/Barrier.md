@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Barrier
-  aliases:
-    - Protection
-description: "Erupts wall of dense metal from ground; shields and blocks."
 shortcode: barrier
+name: {full: Barrier, aliases: [Protection]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
-  packFolder: spells
+description: "Erupts wall of dense metal from ground; shields and blocks."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Protection

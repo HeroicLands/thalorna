@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Decay Touch
-  aliases:
-    - Wasting
-description: "Rots organic matter; accelerates corruption and decay on contact."
 shortcode: dcytch
+name: {full: Decay Touch, aliases: [Wasting]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
-  packFolder: spells
+description: "Rots organic matter; accelerates corruption and decay on contact."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Wasting

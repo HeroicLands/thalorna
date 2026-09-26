@@ -1,21 +1,11 @@
 ---
-tags:
-  - port
-  - town
-  - draft
-description: "Harbor Town"
+shortcode: marendal
+name: {full: Maréndal, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - galvaren
-  population: 20000
-name:
-  full: Maréndal
-  aliases: []
-shortcode: marendal
+description: "Harbor Town"
+tags: [port, town, draft]
+data: {demonym: null, lore: [], parents: [galvaren], population: 20000}
 ---
 
 ## Overview

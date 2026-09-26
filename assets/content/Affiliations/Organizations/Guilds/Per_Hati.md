@@ -1,20 +1,10 @@
 ---
-tags:
-  - organization
-  - takheperu
-  - xerathia
-  - temple
-  - treasury
-  - religion
-description: "Kheperi temple-treasury institution—the network of priestly account-houses attached to the great temples of Ta'Kheperu that attest the weight-pieces, hold the granaries, maintain the ledgers, and issue the chits that constitute the Northern Fertile Region's banking infrastructure."
-name:
-  full: Pér-Háti
-  aliases:
-    - The Temple Treasury
-    - The House of the Account
 shortcode: perhati
+name: {full: Pér-Háti, aliases: [The Temple Treasury, The House of the Account]}
 type: affiliation
 subType: guild
+description: "Kheperi temple-treasury institution—the network of priestly account-houses attached to the great temples of Ta'Kheperu that attest the weight-pieces, hold the granaries, maintain the ledgers, and issue the chits that constitute the Northern Fertile Region's banking infrastructure."
+tags: [organization, takheperu, xerathia, temple, treasury, religion]
 data:
   templatePriority: null
   demonym: null
@@ -23,8 +13,7 @@ data:
   governance:
     model: council
     summary: >-
-      A network of Kheperi temple-treasuries, governed by the Council of the High Priests
-      under the Imy'Râ Hâti, attesting the region's currency and holding its grain and credit.
+      A network of Kheperi temple-treasuries, governed by the Council of the High Priests under the Imy'Râ Hâti, attesting the region's currency and holding its grain and credit.
     ranks:
       - level: 0
         title: Expelled
@@ -35,39 +24,27 @@ data:
         title: Priest
         lore: priestrnk
         description: >-
-          Ordained to a Kheperi temple's rites, the order every senior officer is drawn from,
-          but not yet assigned independent charge of a chapter's treasury function.
+          Ordained to a Kheperi temple's rites, the order every senior officer is drawn from, but not yet assigned independent charge of a chapter's treasury function.
       - level: 3
         title: High Priest
         lore: highpriestrnk
         description: >-
-          Head of one of the eight greatest temples, constituting the Council of the High
-          Priests, the network's governing body.
+          Head of one of the eight greatest temples, constituting the Council of the High Priests, the network's governing body.
     offices:
       Imy'Râ Hâti: >-
-        The Overseer of the Account—the network's chief officer, appointed by the Council of
-        the High Priests from among their number to serve for life, administering the network's
-        central affairs.
+        The Overseer of the Account—the network's chief officer, appointed by the Council of the High Priests from among their number to serve for life, administering the network's central affairs.
       Hem-Hâti: >-
-        Servant of the Account—a senior priest assigned to a chapter-temple's treasury function,
-        working under the local high priest's authority with substantial day-to-day autonomy.
+        Servant of the Account—a senior priest assigned to a chapter-temple's treasury function, working under the local high priest's authority with substantial day-to-day autonomy.
       Imy'Khent Wedyat: >-
-        Scribe of the Weights—senior priests trained in metallurgy and assay who inspect
-        circulating weight-pieces, audit chapter-temples' attestation practices and investigate
-        counterfeiting, answering only to the Council.
+        Scribe of the Weights—senior priests trained in metallurgy and assay who inspect circulating weight-pieces, audit chapter-temples' attestation practices and investigate counterfeiting, answering only to the Council.
   seat: null
   domains: []
   population: null
-  economy:
-    - affiliation-aerarimmpr
-    - affiliation-bthntrdhss
-    - affiliation-crwntrdskhrs
+  economy: [affiliation-aerarimmpr, affiliation-bthntrdhss, affiliation-crwntrdskhrs]
   lore: []
   parents: []
   relations: {}
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 _Kheperi: Pér-Háti—"the House of the Account"_

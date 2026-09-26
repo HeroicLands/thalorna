@@ -1,10 +1,10 @@
 ---
-description: "Storms."
-tags:
-  - aureldian
-  - religion
+shortcode: taranon
+name: {full: Faith of Taranon, aliases: [The Thunderer, Táranon]}
 type: affiliation
 subType: faithtradition
+description: "Storms."
+tags: [aureldian, religion]
 data:
   banner: faithbnr
   icon: taranon
@@ -15,21 +15,18 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the
-      Flamen Tempestas above them. The lay faithful keep the feasts without office.
+      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Flamen Tempestas above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out—denied the rites, the temple and the burial the faith promises, which is the one
-          sentence it can pass that outlives the body.
+          Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
         lore: layfaithfulrnk
         description: >-
-          The lay faithful, who keep the feasts and the observances of the god without holding office
-          in the temple.
+          The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
         title: Vestales Tempestatis
         lore: initiaternk
@@ -39,8 +36,7 @@ data:
         title: Sacerdotes Tempestatis
         lore: priestrnk
         description: >-
-          The Priests of Storms—thirty or forty ordained clergy across the cities and coastal
-          settlements, who keep the temples and advise farmers, merchants and sailors.
+          The Priests of Storms—thirty or forty ordained clergy across the cities and coastal settlements, who keep the temples and advise farmers, merchants and sailors.
       - level: 4
         title: Flamen Tempestas
         lore: grandmasterrnk
@@ -50,8 +46,7 @@ data:
       Flamen Tempestas: >-
         High Priest of the Storm: primary voice of the god and interpreter of his will as revealed in natural phenomena, consulted by kings and city councils.
       Sacerdotes Tempestatis: >-
-        The Priests of Storms—thirty or forty ordained clergy across the cities and coastal
-        settlements, who keep the temples and advise farmers, merchants and sailors.
+        The Priests of Storms—thirty or forty ordained clergy across the cities and coastal settlements, who keep the temples and advise farmers, merchants and sailors.
       Vestales Tempestatis: >-
         Young acolytes and apprentices, typically youths who survived a near-fatal storm or show unusual sensitivity to weather.
       Weather-Watcher: >-
@@ -62,22 +57,11 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - taranondty
-  parents:
-    - arldnpnthn
-  relations:
-    arldnpnthn: aligned
+  lore: [taranondty]
+  parents: [arldnpnthn]
+  relations: {arldnpnthn: aligned}
   packFolder: pantheonsaureldian
-name:
-  full: Faith of Taranon
-  aliases:
-    - The Thunderer
-    - Táranon
-shortcode: taranon
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 God of storms, thunder, and lightning. Táranon commands the skies, both nurturing the land with rain and unleashing destructive tempests.

@@ -1,17 +1,10 @@
 ---
-tags:
-  - pantheon
-  - celestial-order
-  - religion
-description: "Tānvüri celestial bureaucracy where gods are appointed officials, magic is classified, and cosmic order requires unceasing administrative work."
-name:
-  full: Tëngvōk Vān Lëi
-  aliases:
-    - Celestial Order
-    - Celestial Court
 shortcode: tngvkvnlei
+name: {full: Tëngvōk Vān Lëi, aliases: [Celestial Order, Celestial Court]}
 type: affiliation
 subType: faithtradition
+description: "Tānvüri celestial bureaucracy where gods are appointed officials, magic is classified, and cosmic order requires unceasing administrative work."
+tags: [pantheon, celestial-order, religion]
 data:
   banner: faithbnr
   templatePriority: null
@@ -21,80 +14,59 @@ data:
   governance:
     model: meritocracy
     summary: >-
-      Not a church but an administration. Temples are celestial post offices and their clergy are
-      clerks; standing follows competence with forms, seals, precedent and the correct bureau,
-      within the bounds the Tānthëi caste sets on who may be trained at all. Petitions are written,
-      sealed, accompanied by tribute in coin and in kind, and burned at the censer, which is the
-      act that files them. A petition filed to the wrong bureau is simply lost.
+      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tānthëi caste sets on who may be trained at all. Petitions are written, sealed, accompanied by tribute in coin and in kind, and burned at the censer, which is the act that files them. A petition filed to the wrong bureau is simply lost.
     ranks:
       - level: 0
         title: Struck from the Rolls
         lore: excmmnctrnk
         description: >-
-          The ledger closed against them: no petition they file is accepted, no temple will stamp
-          for them, and no ancestor can advocate for a descendant who cannot be addressed. This is
-          not damnation. It is administrative non-existence, which the Tānvüri consider worse.
+          The ledger closed against them: no petition they file is accepted, no temple will stamp for them, and no ancestor can advocate for a descendant who cannot be addressed. This is not damnation. It is administrative non-existence, which the Tānvüri consider worse.
       - level: 1
         title: Petitioner
         lore: layfaithfulrnk
         description: >-
-          Every Tānvüri: keeps a moral ledger, is observed by the household's Zātkür, and files
-          through a temple for rain, healing, a ruling, or a relative's passage through the
-          Ministry of Final Account.
+          Every Tānvüri: keeps a moral ledger, is observed by the household's Zātkür, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
       - level: 2
         title: Copyist
         lore: apprenticernk
         description: >-
-          Under training in a temple—learning the hand, copying forms, learning the seals and the
-          calendrical schedules—and not yet permitted to file anything on another's behalf.
+          Under training in a temple—learning the hand, copying forms, learning the seals and the calendrical schedules—and not yet permitted to file anything on another's behalf.
       - level: 3
         title: Clerk
         lore: clerkrnk
         description: >-
-          The ordinary temple officer, and the tradition's plain description of its own clergy:
-          not a pastor but a clerk who knows the correct forms, the correct seals and the correct
-          bureau. Charges fees, because preparing a petition correctly is expertise.
+          The ordinary temple officer, and the tradition's plain description of its own clergy: not a pastor but a clerk who knows the correct forms, the correct seals and the correct bureau. Charges fees, because preparing a petition correctly is expertise.
       - level: 4
         title: Seal-Holder
         lore: officerrnk
         description: >-
-          Holds a temple's seals and stamps. Nothing is transmitted without them, which makes this
-          the office at which a petition is in practice granted or refused.
+          Holds a temple's seals and stamps. Nothing is transmitted without them, which makes this the office at which a petition is in practice granted or refused.
       - level: 5
         title: Registrar
         lore: magistraternk
         description: >-
-          Keeps the region's ledgers and rules on whether a petition is correctly addressed,
-          adequately supported by precedent, and free of conflict with standing allocations.
+          Keeps the region's ledgers and rules on whether a petition is correctly addressed, adequately supported by precedent, and free of conflict with standing allocations.
       - level: 6
         title: Intendant
         lore: highpriestrnk
         description: >-
-          Heads one bureau's temple in a province, answering for its filings, its revenues and its
-          record-keeping, and hiring the scholars who research precedent for difficult petitions.
+          Heads one bureau's temple in a province, answering for its filings, its revenues and its record-keeping, and hiring the scholars who research precedent for difficult petitions.
       - level: 7
         title: Chief Intendant
         lore: grandmasterrnk
         description: >-
-          Senior mortal officer of a bureau's whole temple establishment, who signs what is
-          transmitted upward to its Tëng Güng and answers for it if the bureau rejects it.
+          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Tëng Güng and answers for it if the bureau rejects it.
     offices:
       Tānlüng, the Celestial Dragon: >-
-        The First Classifier at the apex, who drew the Vōr Thōk and performed the Great Sorting,
-        and who delegates rather than rules.
+        The First Classifier at the apex, who drew the Vōr Thōk and performed the Great Sorting, and who delegates rather than rules.
       Vëizhük Dāknëi, the Jade Sovereign: >-
-        Administers the whole on Tānlüng's delegation, and the authority the eleven bureau
-        overseers lobby for jurisdiction.
+        Administers the whole on Tānlüng's delegation, and the authority the eleven bureau overseers lobby for jurisdiction.
       Tëng Güng: >-
-        "Celestial Minister"—Overseer of one of the eleven Spirit Bureaus, whose power is the
-        authority of the office and not of their person; overseers are promoted, demoted,
-        reassigned and dismissed.
+        "Celestial Minister"—Overseer of one of the eleven Spirit Bureaus, whose power is the authority of the office and not of their person; overseers are promoted, demoted, reassigned and dismissed.
       Vënsōk Zhük: >-
-        Chief Auditor of the Ministry of Final Account, who reviews a moral ledger line by line at
-        death.
+        Chief Auditor of the Ministry of Final Account, who reviews a moral ledger line by line at death.
       Zātkür: >-
-        Hearth Monitor—the household spirit that observes daily conduct and files the annual
-        report on which a family's ledger stands.
+        Hearth Monitor—the household spirit that observes daily conduct and files the annual report on which a family's ledger stands.
       Chief Intendant: >-
         Senior mortal officer of a bureau's temples, who signs what is transmitted upward.
       Registrar: >-
@@ -102,41 +74,26 @@ data:
       Seal-Holder: >-
         Holder of the stamps without which nothing is transmitted at all.
       Clerk of Transmission: >-
-        Conducts the burning by which a sealed petition is actually filed, fire being the medium of
-        transmission between the mortal and celestial planes. A household keeps a small censer for
-        minor filings—a domestic sacrifice, a report to its own Zātkür—but anything of
-        consequence must be taken to a shrine or a temple. A village temple has one censer; a great
-        temple keeps many, one for each bureau it is licensed to address, and a petition burned at
-        the wrong censer reaches the wrong bureau and is lost.
+        Conducts the burning by which a sealed petition is actually filed, fire being the medium of transmission between the mortal and celestial planes. A household keeps a small censer for minor filings—a domestic sacrifice, a report to its own Zātkür—but anything of consequence must be taken to a shrine or a temple. A village temple has one censer; a great temple keeps many, one for each bureau it is licensed to address, and a petition burned at the wrong censer reaches the wrong bureau and is lost.
       Advocate: >-
-        Prosecutes appeals before the Supreme Administrative Court, citing precedent against a
-        ruling or a punishment order. Most such appeals fail; the avenue exists.
+        Prosecutes appeals before the Supreme Administrative Court, citing precedent against a ruling or a punishment order. Most such appeals fail; the avenue exists.
       Receiver of Tribute: >-
-        Takes the sacrifices that accompany a petition—coin, grain, cloth, livestock, worked
-        goods—and enters their value to the petitioner's celestial credit.
+        Takes the sacrifices that accompany a petition—coin, grain, cloth, livestock, worked goods—and enters their value to the petitioner's celestial credit.
       Master of Forms: >-
-        Holds the correct opening formulae, addressing conventions and order of citation, and does
-        not teach them outside the temple.
+        Holds the correct opening formulae, addressing conventions and order of citation, and does not teach them outside the temple.
       Illuminator: >-
-        Paints the landscape scenes, creatures and divine symbolism a weighty petition carries; at
-        the highest level the petition is an artwork that happens to carry text.
+        Paints the landscape scenes, creatures and divine symbolism a weighty petition carries; at the highest level the petition is an artwork that happens to carry text.
       Assessor of Sacrifice: >-
-        Values tribute paid in kind against the temple's standing schedule, and rules on whether
-        what has been offered supports the petition being asked for. A small sacrifice may be made
-        at a home shrine and needs no assessor; a petition of any weight requires one.
+        Values tribute paid in kind against the temple's standing schedule, and rules on whether what has been offered supports the petition being asked for. A small sacrifice may be made at a home shrine and needs no assessor; a petition of any weight requires one.
   seat: null
   domains: []
   population: null
-  economy:
-    - lore-tanvrcrncy
+  economy: [lore-tanvrcrncy]
   lore: []
   parents: []
-  relations:
-    tanvurempr: aligned
+  relations: {tanvurempr: aligned}
   packFolder: pantheonstengvokvanlei
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 _The Celestial Court of Ten Thousand Spirits_

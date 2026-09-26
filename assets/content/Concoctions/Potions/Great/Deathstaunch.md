@@ -1,18 +1,11 @@
 ---
-tags:
-  - great-elixir
-name:
-  full: Deathstaunch
-  aliases:
-    - Potion, Coagulant, Great
-description: "Nearly black crystalline preparation; stops bleeding and rapid death."
 shortcode: ptncoagg
+name: {full: Deathstaunch, aliases: ["Potion, Coagulant, Great"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: great
+description: "Nearly black crystalline preparation; stops bleeding and rapid death."
+tags: [great-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: great}
 sohl:
   system:
     weightBase: 0.25

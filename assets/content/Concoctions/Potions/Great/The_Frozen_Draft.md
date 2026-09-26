@@ -1,18 +1,11 @@
 ---
-tags:
-  - great-elixir
-name:
-  full: The Frozen Draft
-  aliases:
-    - Potion, Paralytic, Great
-description: "Sickly pale green viscous substance; freezes body and movement."
 shortcode: ptnparg
+name: {full: The Frozen Draft, aliases: ["Potion, Paralytic, Great"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: great
+description: "Sickly pale green viscous substance; freezes body and movement."
+tags: [great-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: great}
 sohl:
   system:
     weightBase: 0.25

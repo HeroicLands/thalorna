@@ -1,24 +1,17 @@
 ---
-tags:
-  - village
-  - caravan
-  - inland
-description: "The western Ösket village between the storm-door and the sixth road—herders who take two caravans a year and keep something worth a great deal more."
+shortcode: tsokhar
+name: {full: Tsökhar, aliases: []}
 type: place
 subType: settlement
+description: "The western Ösket village between the storm-door and the sixth road—herders who take two caravans a year and keep something worth a great deal more."
+tags: [village, caravan, inland]
 data:
   demonym: null
   lore: []
-  parents:
-    - graznmntns
-    - sthrnwall
+  parents: [graznmntns, sthrnwall]
   population: 380
   market: 2
   packFolder: vedyara
-name:
-  full: Tsökhar
-  aliases: []
-shortcode: tsokhar
 ---
 
 **Tsökhar** sits in a high valley between [[place-meghadvara|Meghadvāra]] and [[place-gudesroad|the Guides' Road]], on the only ground in the western wall that will carry a herd through a winter. Three hundred and eighty people live there. It has a weekly market in the open season, a smith, and nothing else a lowlander would call a trade.

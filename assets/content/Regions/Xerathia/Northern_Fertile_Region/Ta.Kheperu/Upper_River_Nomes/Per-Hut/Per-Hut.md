@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Per-Hût."
+shortcode: perhut
+name: {full: Per-Hût, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Per-Hût."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - perhutnome
+  parents: [perhutnome]
   population: 18000
   packFolder: upperrivernomes
-name:
-  full: Per-Hût
-  aliases: []
-shortcode: perhut
 ---
 
 ## Overview

@@ -1,22 +1,17 @@
 ---
-tags:
-  - town
-  - fishing
-description: "Fishing & Victualing Town"
+shortcode: mehitper
+name: {full: Mehit-Per, aliases: []}
 type: place
 subType: settlement
+description: "Fishing & Victualing Town"
+tags: [town, fishing]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - perankhetnome
+  parents: [perankhetnome]
   population: 14000
   packFolder: perankhet
-name:
-  full: Mehit-Per
-  aliases: []
-shortcode: mehitper
 ---
 
 ## Overview

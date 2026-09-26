@@ -1,24 +1,17 @@
 ---
-tags: []
-name:
-  full: Inferno
-  aliases: []
-description: "Wreathed in roaring magical flame; burning and radiating intense heat."
 shortcode: inferno
+name: {full: Inferno, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
-  packFolder: spells
+description: "Wreathed in roaring magical flame; burning and radiating intense heat."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Cloak

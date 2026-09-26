@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Audible
-  aliases:
-    - Voice
-description: "Carries whispered words on spiraling wind; heard at great distance."
 shortcode: audible
+name: {full: Audible, aliases: [Voice]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Carries whispered words on spiraling wind; heard at great distance."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Voice

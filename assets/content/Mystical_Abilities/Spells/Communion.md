@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Communion
-  aliases:
-    - Converse
-description: "Unites minds; caster and target share thoughts and sensations."
 shortcode: cmmnn
+name: {full: Communion, aliases: [Converse]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Unites minds; caster and target share thoughts and sensations."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Converse

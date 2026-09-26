@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "The Ithári reach Thalorna before 10,000 BF, settle Kalihara and take in the human bands they find there, and raise works of one substance at scattered sites across the rest of the world."
+shortcode: ithariarrv
+name: {full: The Coming of the Ithári, aliases: [The Arrival of Those Who Came Before]}
 type: lore
 subType: history
-name:
-  full: The Coming of the Ithári
-  aliases:
-    - The Arrival of Those Who Came Before
-shortcode: ithariarrv
-data:
-  packFolder: settinglore
+description: "The Ithári reach Thalorna before 10,000 BF, settle Kalihara and take in the human bands they find there, and raise works of one substance at scattered sites across the rest of the world."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: arrival

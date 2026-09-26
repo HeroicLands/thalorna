@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Shiftform
-  aliases:
-    - Distort
-description: "Grants temporary form change; transforms into beast or being."
 shortcode: shftfrm
+name: {full: Shiftform, aliases: [Distort]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Grants temporary form change; transforms into beast or being."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Distort

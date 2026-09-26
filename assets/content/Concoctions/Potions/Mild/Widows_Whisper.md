@@ -1,18 +1,11 @@
 ---
-tags:
-  - mild-elixir
-name:
-  full: "Widow's Whisper"
-  aliases:
-    - Potion, Poison, Mild
-description: "Pale yellow amber liquid; induces despair and hopelessness."
 shortcode: ptnpoim
+name: {full: "Widow's Whisper", aliases: ["Potion, Poison, Mild"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: mild
+description: "Pale yellow amber liquid; induces despair and hopelessness."
+tags: [mild-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25

@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Unlock
-  aliases:
-    - Key
-description: "Opens sealed passages; unlocks magical locks and barriers."
 shortcode: unlock
+name: {full: Unlock, aliases: [Key]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
-  packFolder: spells
+description: "Opens sealed passages; unlocks magical locks and barriers."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Key

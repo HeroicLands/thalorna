@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Scribe
-  aliases:
-    - Quill
-description: "Writes text magically; creates inscriptions without visible implement."
 shortcode: scribe
+name: {full: Scribe, aliases: [Quill]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
-  packFolder: spells
+description: "Writes text magically; creates inscriptions without visible implement."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Quill

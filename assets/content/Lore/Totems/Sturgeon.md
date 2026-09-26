@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The sturgeon as a totemic ideal, and the human character it describes."
+shortcode: sturgeonttm
+name: {full: Sturgeon, aliases: [Sturgeon Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Sturgeon
-  aliases:
-    - Sturgeon Totem
-shortcode: sturgeonttm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The sturgeon as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-sturgeontotem|Sturgeon]]{float: top-left, size: medium}

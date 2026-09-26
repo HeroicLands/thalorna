@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Wall of Flame
-  aliases:
-    - Doom Curtain
-description: "Creates barrier of fire; blocks passage and burns."
 shortcode: wllfflm
+name: {full: Wall of Flame, aliases: [Doom Curtain]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
-  packFolder: spells
+description: "Creates barrier of fire; blocks passage and burns."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Doom Curtain

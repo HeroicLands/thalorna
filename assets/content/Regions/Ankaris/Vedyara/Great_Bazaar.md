@@ -1,22 +1,11 @@
 ---
-tags:
-  - market
-  - trading
-  - craft
-description: "The crown's market ground at Chandrapur—where the rough stone is assayed and sold, where every foreign trade in the city is done in the open, and where nobody's charter reaches."
+shortcode: greatbazaar
+name: {full: The Great Bazaar, aliases: []}
 type: place
 subType: structure
-data:
-  demonym: null
-  lore: []
-  parents:
-    - chandrapur2
-  population: null
-  packFolder: vedyara
-name:
-  full: The Great Bazaar
-  aliases: []
-shortcode: greatbazaar
+description: "The crown's market ground at Chandrapur—where the rough stone is assayed and sold, where every foreign trade in the city is done in the open, and where nobody's charter reaches."
+tags: [market, trading, craft]
+data: {demonym: null, lore: [], parents: [chandrapur2], population: null, packFolder: vedyara}
 ---
 
 The **Great Bazaar** occupies the whole of the tenth district of [[place-chandrapur2|Chandrapur]], between the river stair and the customs house. It is a roofed ground rather than a building: a forest of stone piers carrying a tile roof over about nine acres, open on every side, with the assay hall, the weighing floor and the crown's counting rooms built solid at the northern end.

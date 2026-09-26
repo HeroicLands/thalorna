@@ -1,19 +1,12 @@
 ---
-tags:
-  - organization
-  - underworld
-  - byzaria
-  - cartography
-  - intelligence
-description: "Underground cartography network of guild-trained mapmakers selling specialized maps for purposes the Cartographers' Guild charter forbids—espionage, smuggling, theft, and the documentation of forbidden territories."
+shortcode: blackledgr
 name:
   full: The Black Ledger
-  aliases:
-    - The Underground Cartography Network
-    - The Hidden Hand of Maps
-shortcode: blackledgr
+  aliases: [The Underground Cartography Network, The Hidden Hand of Maps]
 type: affiliation
 subType: criminal
+description: "Underground cartography network of guild-trained mapmakers selling specialized maps for purposes the Cartographers' Guild charter forbids—espionage, smuggling, theft, and the documentation of forbidden territories."
+tags: [organization, underworld, byzaria, cartography, intelligence]
 data:
   templatePriority: null
   demonym: null
@@ -22,8 +15,7 @@ data:
   governance:
     model: autocracy
     summary: >-
-      A boss whose word is the organization's only law, held for exactly as long as it is
-      feared.
+      A boss whose word is the organization's only law, held for exactly as long as it is feared.
     ranks:
       - level: 0
         title: Marked
@@ -33,63 +25,52 @@ data:
         title: Hanger-on
         lore: dependentrnk
         description: >-
-          Around the organization and useful to it—a doorman, a runner, a girl in a house—and told
-          nothing.
+          Around the organization and useful to it—a doorman, a runner, a girl in a house—and told nothing.
       - level: 2
         title: Associate
         lore: swornmemberrnk
         description: >-
-          Working for the organization without being of it: paid for jobs, and disposable between
-          them.
+          Working for the organization without being of it: paid for jobs, and disposable between them.
       - level: 3
         title: Made Member
         lore: swornmemberrnk
         description: >-
-          Sworn in and under the organization's protection, owing it obedience and a cut of
-          everything.
+          Sworn in and under the organization's protection, owing it obedience and a cut of everything.
       - level: 4
         title: Earner
         lore: earnerrnk
         description: >-
-          Running a business of the organization's—a racket, a route, a house—and paying
-          up from it.
+          Running a business of the organization's—a racket, a route, a house—and paying up from it.
       - level: 5
         title: Enforcer
         lore: enforcerrnk
         description: >-
-          Charged with what the organization collects by fear, and with what it does when fear
-          fails.
+          Charged with what the organization collects by fear, and with what it does when fear fails.
       - level: 6
         title: Crew Boss
         lore: commanderrnk
-        description: Holding a crew and a territory, answerable for both and for what they bring
-          in.
+        description: Holding a crew and a territory, answerable for both and for what they bring in.
       - level: 7
         title: Underboss
         lore: underbossrnk
         description: >-
-          Second in the organization, running it day to day and standing between the boss and
-          everyone else.
+          Second in the organization, running it day to day and standing between the boss and everyone else.
       - level: 8
         title: Boss
         lore: grandmasterrnk
         description: >-
-          Head of the organization, whose word is its only law and whose position lasts exactly
-          as long as it is feared.
+          Head of the organization, whose word is its only law and whose position lasts exactly as long as it is feared.
     offices:
       Boss: Head of the organization, whose word is its law for as long as it is feared.
       Underboss: >-
-        Second, running the organization day to day and standing between the boss and everyone
-        else.
-      Counsellor: Adviser to the boss, holding no crew and no territory and more influence
-        than either.
+        Second, running the organization day to day and standing between the boss and everyone else.
+      Counsellor: Adviser to the boss, holding no crew and no territory and more influence than either.
       Crew Boss: Holder of a crew and a territory, answerable for what both produce.
       Enforcer: Collector by fear, and executor of what follows when fear fails.
       Fence: Buyer and mover of what the organization takes, and its most closely held connection.
       Fixer: Buyer of officials, judges and watchmen, and keeper of what each of them costs.
       Treasurer: >-
-        Keeper of the organization's money—its cuts, its bribes, its reserve, and where
-        all three are.
+        Keeper of the organization's money—its cuts, its bribes, its reserve, and where all three are.
       Master of Lookouts: Runner of the network of eyes on which every operation depends.
       Courier: Carrier of what may not be written, between people who may not meet.
   seat: null
@@ -99,9 +80,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 - **Type:** Underground professional network

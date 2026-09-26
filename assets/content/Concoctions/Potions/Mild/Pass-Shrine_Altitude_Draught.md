@@ -1,18 +1,11 @@
 ---
-tags:
-  - mild-elixir
-name:
-  full: "Pass-Shrine Altitude Draught"
-  aliases:
-    - Draught, Altitude, Mild
-description: "A bitter herbal draught the Pass-Shrine ushtakas brew for lowlanders their own bodies cannot yet forgive the cols for."
 shortcode: altitudedraught
+name: {full: "Pass-Shrine Altitude Draught", aliases: ["Draught, Altitude, Mild"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: mild
+description: "A bitter herbal draught the Pass-Shrine ushtakas brew for lowlanders their own bodies cannot yet forgive the cols for."
+tags: [mild-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25

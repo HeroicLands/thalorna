@@ -1,26 +1,14 @@
 ---
-tags:
-  - jewelry_cash
-name:
-  full: Vylarian Aurion
-  aliases: ["Aurion"]
-description: "Imperial gold coin of the Aerarium Imperii; the largest Vylarian denomination."
 shortcode: aurion
+name: {full: Vylarian Aurion, aliases: ["Aurion"]}
 type: miscgear
-data:
-  icon: icon-coinsbdg
-  templatePriority: 0
-  packFolder: cash
+description: "Imperial gold coin of the Aerarium Imperii; the largest Vylarian denomination."
+tags: [jewelry_cash]
+data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
 sohl:
-  craft:
-    skill: mtlc
-    secondary: []
+  craft: {skill: mtlc, secondary: []}
   kbcat: cash
-  system:
-    weightBase: 0.03
-    valueBase: 160
-    qualityBase: 0
-    durabilityBase: 3
+  system: {weightBase: 0.03, valueBase: 160, qualityBase: 0, durabilityBase: 3}
 ---
 
 A small milled gold coin struck only at Magnápolis. The obverse carries the profile of the reigning Augustar, renewed at each accession, with older issues remaining legal tender; the reverse carries the imperial Aquila over the inscription _Sub Aquila stant fines_. The milled edge is there to make clipping visible.

@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: Perfection of the Form
-  aliases: []
-description: "Brings a work of craft to exactness, so that it carries a working reliably."
 shortcode: prfctnfrm
+name: {full: Perfection of the Form, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: khatnu
-  templatePriority: null
-  packFolder: hekauincantations
+description: "Brings a work of craft to exactness, so that it carries a working reliably."
+tags: [khemenu-hekau, incantation]
+data: {icon: khatnu, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: khatnu
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---
 
 Not decoration and not improvement: the form is brought to the established standard, which in

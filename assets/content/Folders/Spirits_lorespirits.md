@@ -1,8 +1,6 @@
 ---
-name:
-  full: "Spirits"
 shortcode: lorespirits
+name: {full: "Spirits"}
 type: folder
-data:
-  parent: settinglore
+data: {parent: settinglore}
 ---

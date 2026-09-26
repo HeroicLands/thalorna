@@ -1,22 +1,11 @@
 ---
-tags:
-  - village
-  - woodland
-  - sacred
-description: "A woodland settlement within the Silver Forests—one of the few permanent Élavendri holdings inside Áelendan country, existing on sufferance and on an agreement nobody will produce in writing."
+shortcode: silvain
+name: {full: Silvain, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - silvrfrsts
-  population: 600
-  packFolder: elavendre
-name:
-  full: Silvain
-  aliases: []
-shortcode: silvain
+description: "A woodland settlement within the Silver Forests—one of the few permanent Élavendri holdings inside Áelendan country, existing on sufferance and on an agreement nobody will produce in writing."
+tags: [village, woodland, sacred]
+data: {demonym: null, lore: [], parents: [silvrfrsts], population: 600, packFolder: elavendre}
 ---
 
 **Silvain** lies inside the **[[place-silvrfrsts|Silver Forests]]** of [[place-ardwyn|Ardwyn]], which

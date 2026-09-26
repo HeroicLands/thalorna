@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: bondservantrnk
+name: {full: Bondservant, aliases: []}
 type: lore
 subType: law
-name:
-  full: Bondservant
-  aliases: []
-shortcode: bondservantrnk
 description: "Bound to a person or a house by debt, birth or sentence, and unable to depart."
+tags: [draft]
 ---
 
 Bound to a person or a house by debt, birth or sentence, and unable to depart.

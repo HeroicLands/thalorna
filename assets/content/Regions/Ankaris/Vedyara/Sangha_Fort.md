@@ -1,23 +1,16 @@
 ---
-tags:
-  - fortress
-  - military
-  - inland
-description: "The Mahā-Sangha's one standing garrison—a stone work on the col of the conch-door, held for four centuries because of a single invasion, and read by Vindhyālaya as a rival's outpost."
+shortcode: sanghafort
+name: {full: The Sangha-fort, aliases: []}
 type: place
 subType: structure
+description: "The Mahā-Sangha's one standing garrison—a stone work on the col of the conch-door, held for four centuries because of a single invasion, and read by Vindhyālaya as a rival's outpost."
+tags: [fortress, military, inland]
 data:
   demonym: null
   lore: []
-  parents:
-    - graznmntns
-    - estrnreach
+  parents: [graznmntns, estrnreach]
   population: null
   packFolder: vedyara
-name:
-  full: The Sangha-fort
-  aliases: []
-shortcode: sanghafort
 ---
 
 The **Sangha-fort** stands on the Vedyari col of [[place-sankhadvra|Shankhadvāra]], under the black face of [[place-kalashkhra|Kālashikhara]]. It is a squat stone work with a cistern, a granary, a signal-tower and quarters for sixty men, and it is the only standing garrison the [[affiliation-janpdsvdyr|Mahā-Sangha]] maintains anywhere in Vedyara.

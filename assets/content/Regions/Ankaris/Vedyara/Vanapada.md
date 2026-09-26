@@ -1,20 +1,9 @@
 ---
-tags:
-  - village
-  - mountain
-  - woodland
-description: "Charcoal village at the forest edge, and the jewelers' supplier in the long quarrel over the cutting-rotation."
+shortcode: vanapada
+name: {full: Vanapāda, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - suvarnagirijnpd
-  population: 440
-  packFolder: vedyara
-name:
-  full: Vanapāda
-  aliases: []
-shortcode: vanapada
+description: "Charcoal village at the forest edge, and the jewelers' supplier in the long quarrel over the cutting-rotation."
+tags: [village, mountain, woodland]
+data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: 440, packFolder: vedyara}
 ---

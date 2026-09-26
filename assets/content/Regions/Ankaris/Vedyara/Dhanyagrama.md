@@ -1,20 +1,9 @@
 ---
-tags:
-  - village
-  - mountain
-  - inland
-description: "Millet village on the dry western terraces, and the largest single contributor to the janapada's famine store."
+shortcode: dhanyagrama
+name: {full: Dhānyagrāma, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - suvarnagirijnpd
-  population: 930
-  packFolder: vedyara
-name:
-  full: Dhānyagrāma
-  aliases: []
-shortcode: dhanyagrama
+description: "Millet village on the dry western terraces, and the largest single contributor to the janapada's famine store."
+tags: [village, mountain, inland]
+data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: 930, packFolder: vedyara}
 ---

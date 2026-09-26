@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Hut-Ptah-Resu."
+shortcode: hutptah
+name: {full: Hut-Ptah, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Hut-Ptah-Resu."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - hutptahresunome
+  parents: [hutptahresunome]
   population: 36000
   packFolder: upperrivernomes
-name:
-  full: Hut-Ptah
-  aliases: []
-shortcode: hutptah
 ---
 
 ## Overview

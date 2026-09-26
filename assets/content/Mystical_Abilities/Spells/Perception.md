@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Perception
-  aliases:
-    - View
-description: "Enhances caster's senses dramatically; sees clearly despite obstacles."
 shortcode: prcptn
+name: {full: Perception, aliases: [View]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Enhances caster's senses dramatically; sees clearly despite obstacles."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: View

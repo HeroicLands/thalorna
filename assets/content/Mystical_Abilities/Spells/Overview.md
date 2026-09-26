@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Overview
-  aliases:
-    - Perspective
-description: "Grants caster bird's-eye perspective; sees terrain from great height."
 shortcode: overview
+name: {full: Overview, aliases: [Perspective]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
-  packFolder: spells
+description: "Grants caster bird's-eye perspective; sees terrain from great height."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Perspective

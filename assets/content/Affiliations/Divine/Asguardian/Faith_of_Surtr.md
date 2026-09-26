@@ -1,9 +1,10 @@
 ---
-description: "Fire and Savage Battle."
-tags:
-  - asguardian
+shortcode: surtr
+name: {full: Faith of Súrtr, aliases: [The Flameborn Path]}
 type: affiliation
 subType: faithtradition
+description: "Fire and Savage Battle."
+tags: [asguardian]
 data:
   banner: faithbnr
   icon: surtr
@@ -14,59 +15,48 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A ladder of circles, rising from the young Thraell through the working Godi or Gydja to the
-      senior ranks of Jarl and Konungr and the pontifical offices of the Allsherjargodi and the
-      Fadir or Módir of the god. The titles are this faith's own; the pattern is the pantheon's.
-      Circle II is unlisted in the sources.
+      A ladder of circles, rising from the young Thraell through the working Godi or Gydja to the senior ranks of Jarl and Konungr and the pontifical offices of the Allsherjargodi and the Fadir or Módir of the god. The titles are this faith's own; the pattern is the pantheon's. Circle II is unlisted in the sources.
     ranks:
       - level: 0
         title: Nídingr
         lore: excmmnctrnk
         description: >-
-          Declared nithing—cut off from the faith and from the standing that being of it
-          conferred. No hall will seat them and no godi will speak for them.
+          Declared nithing—cut off from the faith and from the standing that being of it conferred. No hall will seat them and no godi will speak for them.
       - level: 1
         title: Eldr Thraell
         lore: initiaternk
         description: >-
-          "Fire Thrall"—Flame Acolyte. The god's thrall: taken into the temple young, given the
-          observances and the labor, and years away from the priesthood.
+          "Fire Thrall"—Flame Acolyte. The god's thrall: taken into the temple young, given the observances and the labor, and years away from the priesthood.
       - level: 3
         title: Eldr Godi/Gode
         lore: priestrnk
         description: >-
-          "Fire Priest/Priestess"—Flame Priest/Priestess. The working priest or priestess—Godi for a
-          man, Gydja for a woman—who keeps the rites of a hall and the people who gather at it.
+          "Fire Priest/Priestess"—Flame Priest/Priestess. The working priest or priestess—Godi for a man, Gydja for a woman—who keeps the rites of a hall and the people who gather at it.
       - level: 4
         title: Elding Hersir
         lore: commanderrnk
         description: >-
-          "Lightning Warlord"—Inferno Herald. A warlord of the faith, carrying its authority where
-          it must be carried by force or by presence.
+          "Lightning Warlord"—Inferno Herald. A warlord of the faith, carrying its authority where it must be carried by force or by presence.
       - level: 5
         title: Bál Jarl
         lore: greatlordrnk
         description: >-
-          "Pyre Jarl"—Warden of Flames. A senior rank carrying temporal weight as well as spiritual;
-          in many kingdoms a Jarl of a faith sits among the jarls of the land.
+          "Pyre Jarl"—Warden of Flames. A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
       - level: 6
         title: Eldjötunn Konungr/Konungrkvinde
         lore: sovereignrnk
         description: >-
-          "Fire Giant King/Queen"—Flamebringer. King or queen within the faith's own hierarchy, and
-          in some kingdoms a power the crown must reckon with.
+          "Fire Giant King/Queen"—Flamebringer. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
       - level: 7
         title: Aska Allsherjargodi
         lore: highpriestrnk
         description: >-
-          "Ash High Priest"—Ashen Lord. High priest—a pontifical office, speaking for the faith
-          where it must speak with one voice.
+          "Ash High Priest"—Ashen Lord. High priest—a pontifical office, speaking for the faith where it must speak with one voice.
       - level: 8
         title: Eldr Fadir/Módir
         lore: grandmasterrnk
         description: >-
-          "Father/Mother of Fire"—Pontiff of the Eternal Flame. Father or Mother of the god: the
-          highest pontifical office, held by one person at a time.
+          "Father/Mother of Fire"—Pontiff of the Eternal Flame. Father or Mother of the god: the highest pontifical office, held by one person at a time.
     offices:
       Order of the Inferno: >-
         Priests dedicated to mastering the power of fire, often serving as blacksmiths and forge masters.
@@ -84,21 +74,11 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - surtrdty
-  parents:
-    - asguardian
-  relations:
-    asguardian: aligned
+  lore: [surtrdty]
+  parents: [asguardian]
+  relations: {asguardian: aligned}
   packFolder: pantheonsasguardian
-name:
-  full: Faith of Súrtr
-  aliases:
-    - The Flameborn Path
-shortcode: surtr
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 Súrtr, the fire giant and god of savage battle, embodies the raw, destructive force of fire and the unrelenting fury of war. He is a fearsome figure, towering over his enemies, his body wreathed in flames that consume all they touch. Súrtr's presence is a harbinger of destruction, symbolizing the inevitable end of worlds, as foretold in the prophecies of Ragnarok.

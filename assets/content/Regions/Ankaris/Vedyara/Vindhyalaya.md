@@ -1,12 +1,10 @@
 ---
-tags: []
-description: Highland kingdom of the northern Vedyari passes—austere, martial, and jealous of the caravan routes that carry Vedyara over the wall to the steppe and the east.
-type: affiliation
-name:
-  full: Vindhyālaya
-  aliases: []
 shortcode: vindhyalay
+name: {full: Vindhyālaya, aliases: []}
+type: affiliation
 subType: polity
+description: Highland kingdom of the northern Vedyari passes—austere, martial, and jealous of the caravan routes that carry Vedyara over the wall to the steppe and the east.
+tags: []
 data:
   templatePriority: null
   demonym: Vindhyan
@@ -15,91 +13,68 @@ data:
   governance:
     model: monarchy
     summary: >-
-      Hereditary Mahārāja advised by a martial council of clan-chieftains and a priestly court
-      of Varnaka ushtakas.
+      Hereditary Mahārāja advised by a martial council of clan-chieftains and a priestly court of Varnaka ushtakas.
     ranks:
       - level: 0
         title: Outcaste
         lore: excmmnctrnk
         description: >-
-          Placed outside the tharana by transgression or by birth, excluded from the wells,
-          the temples and the courts.
+          Placed outside the tharana by transgression or by birth, excluded from the wells, the temples and the courts.
       - level: 1
         title: Bonded Servant
         lore: bondservantrnk
-        description: Bound by debt or birth to a household, owing labor and lacking the standing
-          to hold land.
+        description: Bound by debt or birth to a household, owing labor and lacking the standing to hold land.
       - level: 2
         title: Karmāja
         lore: commonerrnk
         description: >-
-          Born to the serving tharana—cultivators, artisans and laborers who hold their place by
-          work rather than by rite.
+          Born to the serving tharana—cultivators, artisans and laborers who hold their place by work rather than by rite.
       - level: 3
         title: Dhanāja
         lore: gentryrnk
         description: >-
-          Born to the productive tharana—merchants, herders and landholders, whose wealth sustains
-          the court and its temples.
+          Born to the productive tharana—merchants, herders and landholders, whose wealth sustains the court and its temples.
       - level: 4
         title: Senāja
         lore: warriorrnk
-        description:
-          Born to the warrior tharana, bearing arms by right and owing service in the Mahārāja's
-          host.
+        description: Born to the warrior tharana, bearing arms by right and owing service in the Mahārāja's host.
       - level: 5
         title: Ritūja
         lore: priestrnk
         description: >-
-          Born to the priestly tharana, keeper of rite and learning, without whose sanction no royal
-          act is complete.
+          Born to the priestly tharana, keeper of rite and learning, without whose sanction no royal act is complete.
       - level: 6
         title: Sāmanta
         lore: greatlordrnk
-        description: A clan-chieftain holding land of the Mahārāja and sitting on the martial
-          council.
+        description: A clan-chieftain holding land of the Mahārāja and sitting on the martial council.
       - level: 7
         title: Royal Kin
         lore: heirrnk
-        description: Of the Mahārāja's house by blood or marriage, eligible for the throne and
-          its regencies.
+        description: Of the Mahārāja's house by blood or marriage, eligible for the throne and its regencies.
       - level: 8
         title: Mahārāja
         lore: sovereignrnk
         description: >-
-          The great king himself, in whom the martial council and the priestly court alike find
-          their sanction.
+          The great king himself, in whom the martial council and the priestly court alike find their sanction.
     offices:
-      Mahārāja: The great king, ruling by descent and confirmed by the rites the Varnaka ushtakas
-        perform.
+      Mahārāja: The great king, ruling by descent and confirmed by the rites the Varnaka ushtakas perform.
       Rājñī: The chief queen, holding her own revenues, household and voice at court.
       Yuvarāja: The designated heir, commonly given a province to govern as his apprenticeship.
-      Mantrin: Minister of the crown, one of the small council through which the kingdom is
-        actually run.
+      Mantrin: Minister of the crown, one of the small council through which the kingdom is actually run.
       Purohita: Royal chaplain, who performs the rites on which the king's legitimacy rests.
-      Rājaguru: The king's own teacher and spiritual authority, whose counsel outweighs any
-        minister's.
-      Senāpati: Commander of the host, holding the martial council's confidence as well as
-        the king's.
+      Rājaguru: The king's own teacher and spiritual authority, whose counsel outweighs any minister's.
+      Senāpati: Commander of the host, holding the martial council's confidence as well as the king's.
       Dandanāyaka: Magistrate and keeper of the king's justice within a district.
-      Koshādhyaksha: Superintendent of the treasury, answerable for revenue, stores and the
-        mint.
+      Koshādhyaksha: Superintendent of the treasury, answerable for revenue, stores and the mint.
       Sāmanta: >-
-        A vassal chieftain holding land in return for service, and the kingdom's chief source
-        of both strength and rebellion.
-      Dūta: Envoy to a foreign court, whose person is protected by custom on both sides of
-        the passes.
+        A vassal chieftain holding land in return for service, and the kingdom's chief source of both strength and rebellion.
+      Dūta: Envoy to a foreign court, whose person is protected by custom on both sides of the passes.
       Ganaka: Court astrologer, fixing the auspicious hour for campaigns, marriages and coronations.
   seat: suryagarha
-  domains:
-    - vindhyalayaland
-    - suryagarha
+  domains: [vindhyalayaland, suryagarha]
   population: 8000000
-  economy:
-    - lore-vdyrnbnkng
-    - affiliation-mrchntclctvvdyr
-  lore:
-    - vedyariclt
+  economy: [lore-vdyrnbnkng, affiliation-mrchntclctvvdyr]
+  lore: [vedyariclt]
   parents: []
   relations:
     varakpnthn: aligned
@@ -113,10 +88,7 @@ data:
     janpdsvdyr: unaligned
     bhumipala: aligned
   packFolder: vedyara
-sohl:
-  system:
-    commonSkills:
-      - vedyarlng
+sohl: {system: {commonSkills: [vedyarlng]}}
 ---
 
 ## Overview

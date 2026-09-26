@@ -1,18 +1,11 @@
 ---
-tags:
-  - mild-elixir
-name:
-  full: Bloodstill
-  aliases:
-    - Potion, Coagulant, Mild
-description: "Thick rusty-brown paste; coagulates blood preventing wound death."
 shortcode: ptncoagm
+name: {full: Bloodstill, aliases: ["Potion, Coagulant, Mild"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: mild
+description: "Thick rusty-brown paste; coagulates blood preventing wound death."
+tags: [mild-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25

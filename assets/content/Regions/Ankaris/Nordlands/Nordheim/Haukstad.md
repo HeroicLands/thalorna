@@ -1,19 +1,9 @@
 ---
-tags:
-  - post
-  - trading
-description: "Trading Post"
+shortcode: haukstad
+name: {full: Haukstad, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - nordheim
-  population: 150
-  packFolder: nordheim
-name:
-  full: Haukstad
-  aliases: []
-shortcode: haukstad
+description: "Trading Post"
+tags: [post, trading]
+data: {demonym: null, lore: [], parents: [nordheim], population: 150, packFolder: nordheim}
 ---

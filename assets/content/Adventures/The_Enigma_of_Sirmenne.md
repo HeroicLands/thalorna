@@ -1,21 +1,16 @@
 ---
-name:
-  full: The Enigma of Sirmennë
-  aliases: []
 shortcode: engmsrmnn
+name: {full: The Enigma of Sirmennë, aliases: []}
 type: scenario
 subType: adventure
 data:
   parents: []
-  locations:
-    - provenzrgn
+  locations: [provenzrgn]
   cast: []
   factions: []
   follows: []
   status: draft
-  party:
-    size: null
-    archetypes: []
+  party: {size: null, archetypes: []}
   packFolder: adventures
 ---
 

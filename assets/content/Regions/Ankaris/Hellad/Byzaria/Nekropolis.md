@@ -1,17 +1,9 @@
 ---
+shortcode: nekropolis
+name: {full: Nékropolis, aliases: []}
 type: place
 subType: region
-data:
-  demonym: null
-  lore: []
-  parents:
-    - byzariargn
-  population: null
-  packFolder: byzaria
-name:
-  full: Nékropolis
-  aliases: []
-shortcode: nekropolis
+data: {demonym: null, lore: [], parents: [byzariargn], population: null, packFolder: byzaria}
 ---
 
 Nékropolis is no ordinary city of the living—it is a sprawling necropolis complex and city of the dead, one of the most extensive burial grounds in all of western Ankaris. Located in the arid highlands inland from [[affiliation-denizara|Denizara]], the site has been continuously used as a sacred burial ground for over two thousand years, accumulating wealth, monuments, and spiritual significance that draws pilgrims and mourning families from across the [[affiliation-byzarianlg|Byzarian League]] and beyond.

@@ -1,21 +1,11 @@
 ---
-tags:
-  - town
-  - mining
-description: "Mining Town"
+shortcode: stennvold
+name: {full: Stennvold, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - moktur
-  population: 4000
-  packFolder: vylaria
-name:
-  full: Stennvold
-  aliases: []
-shortcode: stennvold
+description: "Mining Town"
+tags: [town, mining]
+data: {demonym: null, lore: [], parents: [moktur], population: 4000, packFolder: vylaria}
 ---
 
 ## Overview

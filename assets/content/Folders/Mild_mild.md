@@ -1,8 +1,6 @@
 ---
-name:
-  full: "Mild"
 shortcode: mild
+name: {full: "Mild"}
 type: folder
-data:
-  parent: potions
+data: {parent: potions}
 ---

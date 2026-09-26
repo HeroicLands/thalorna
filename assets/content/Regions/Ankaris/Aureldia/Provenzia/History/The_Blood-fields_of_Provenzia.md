@@ -1,16 +1,11 @@
 ---
-tags: []
-description: "Provènzia's blood-fields—ground where so many died at once that the boundary with the spirit world was torn rather than worn thin, leaving a resonance of the battle that does not fade; and the war-torn history that gave the kingdom more of them than anywhere else."
+shortcode: bloodfields
+name: {full: The Blood-fields of Provènzia, aliases: [Blood-fields, Blood-field]}
 type: lore
 subType: history
-name:
-  full: The Blood-fields of Provènzia
-  aliases:
-    - Blood-fields
-    - Blood-field
-shortcode: bloodfields
-data:
-  packFolder: provenzia
+description: "Provènzia's blood-fields—ground where so many died at once that the boundary with the spirit world was torn rather than worn thin, leaving a resonance of the battle that does not fade; and the war-torn history that gave the kingdom more of them than anywhere else."
+tags: []
+data: {packFolder: provenzia}
 ---
 
 Provènzia's history is one of dispute and warfare going back as far as anyone can remember, and the

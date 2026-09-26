@@ -1,20 +1,14 @@
 ---
-tags:
-  - region
-  - held
-description: "The land of the city-state of Chandrapur—the lower Chandramahī and its delta, the gem-road up the valley behind it, and the roadstead at the river mouth where the galleys lie."
-name:
-  full: Chandrapur Land
-  aliases: []
 shortcode: chandrapurland
+name: {full: Chandrapur Land, aliases: []}
 type: place
 subType: region
+description: "The land of the city-state of Chandrapur—the lower Chandramahī and its delta, the gem-road up the valley behind it, and the roadstead at the river mouth where the galleys lie."
+tags: [region, held]
 data:
   demonym: Chandrapuri
-  lore:
-    - vedyariclt
-  parents:
-    - vedyarargn
+  lore: [vedyariclt]
+  parents: [vedyarargn]
   population: 6000000
   packFolder: vedyara
 ---

@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: "The eastern hills of Ta'Kheperu—a rugged hill-and-desert march of gold, copper and turquoise mines and stone quarries, the land of the Nome of Ta-Set-Iabtet."
-name:
-  full: Ta-Set-Iabtet
-  aliases: []
 shortcode: tasetiabtetnome
+name: {full: Ta-Set-Iabtet, aliases: []}
 type: place
 subType: region
+description: "The eastern hills of Ta'Kheperu—a rugged hill-and-desert march of gold, copper and turquoise mines and stone quarries, the land of the Nome of Ta-Set-Iabtet."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: Kheperi
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 350000
   packFolder: tasetiabtet
 ---

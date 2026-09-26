@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: "The mortuary country of the upper river—the temple-city of Khensuret on the east bank and the great necropolis facing it across the water, the land of the Nome of Khensuret."
-name:
-  full: Khensuret Nome
-  aliases: []
 shortcode: khensuretnome
+name: {full: Khensuret Nome, aliases: []}
 type: place
 subType: region
+description: "The mortuary country of the upper river—the temple-city of Khensuret on the east bank and the great necropolis facing it across the water, the land of the Nome of Khensuret."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: Kheperi
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 700000
   packFolder: khensuret
 ---

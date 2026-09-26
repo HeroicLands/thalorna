@@ -1,12 +1,9 @@
 ---
-tags: []
-description: "The Veiled Dreamer of the Aurèldían pantheon, holding dreams and the arch a dreamer passes under."
+shortcode: theriadty
+name: {full: Aethería, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Aethería
-  aliases: []
-shortcode: theriadty
-data:
-  packFolder: deitiesaureldian
+description: "The Veiled Dreamer of the Aurèldían pantheon, holding dreams and the arch a dreamer passes under."
+tags: []
+data: {packFolder: deitiesaureldian}
 ---

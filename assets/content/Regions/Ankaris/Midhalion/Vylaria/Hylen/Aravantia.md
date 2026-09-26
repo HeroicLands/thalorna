@@ -1,21 +1,11 @@
 ---
-tags:
-  - capital
-  - provincial
-description: "Provincial Capital"
+shortcode: aravantia
+name: {full: Aravantia, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - hylen
-  population: 28000
-  packFolder: vylaria
-name:
-  full: Aravantia
-  aliases: []
-shortcode: aravantia
+description: "Provincial Capital"
+tags: [capital, provincial]
+data: {demonym: null, lore: [], parents: [hylen], population: 28000, packFolder: vylaria}
 ---
 
 ## Overview

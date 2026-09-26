@@ -1,11 +1,16 @@
 ---
-description: "Fertility & Healing."
-tags:
-  - kemetian
-  - religion
-  - iset
+shortcode: iset
+name:
+  full: Faith of Íšét
+  aliases:
+    - Mother of New Beginnings
+    - Íšét
+    - Iset
+    - Íšét, Mother of New Beginnings and Restorer of Health
 type: affiliation
 subType: faithtradition
+description: "Fertility & Healing."
+tags: [kemetian, religion, iset]
 data:
   banner: takheperubnr
   icon: iset
@@ -22,8 +27,7 @@ data:
         title: Rite-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from the temple rites, and with them from the funerary rites every Kheperi
-          eventually requires—a sentence that reaches past the end of the life it is passed in.
+          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually requires—a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
         lore: layfaithfulrnk
@@ -33,60 +37,35 @@ data:
         title: Wab
         lore: initiaternk
         description: >-
-          "Purified One"—acolytes, young women in apprenticeships of five to ten years learning the
-          names and properties of hundreds of healing herbs, the body's systems, and the practical
-          arts of assisting birth and caring for the sick.
+          "Purified One"—acolytes, young women in apprenticeships of five to ten years learning the names and properties of hundreds of healing herbs, the body's systems, and the practical arts of assisting birth and caring for the sick.
       - level: 3
         title: Hem'Netjer
         lore: priestrnk
         description: >-
-          "Servant of the God"—the ordained priestesses, in whom the practical healing arts and the
-          ritual mysteries that connect them to the goddess are a single training.
+          "Servant of the God"—the ordained priestesses, in whom the practical healing arts and the ritual mysteries that connect them to the goddess are a single training.
       - level: 4
         title: Wer'Hekau
         lore: highpriestrnk
         description: >-
-          "Great of Sacred Power"—High Priestess of Íšét, the apex of a priesthood in which the top
-          authority is held by women.
+          "Great of Sacred Power"—High Priestess of Íšét, the apex of a priesthood in which the top authority is held by women.
     offices:
       Sesh: >-
-        An accomplished healer—a Wab who never advanced to full priesthood but serves the temples
-        and communities in that capacity for life.
+        An accomplished healer—a Wab who never advanced to full priesthood but serves the temples and communities in that capacity for life.
       Hem'Netjer Djem: >-
-        A male priest, serving in smaller numbers and typically not in top authority; usually
-        specializing in botanical knowledge, the sacred gardens, or the study of heredity and
-        bloodlines.
+        A male priest, serving in smaller numbers and typically not in top authority; usually specializing in botanical knowledge, the sacred gardens, or the study of heredity and bloodlines.
       Keeper of the Sacred Gardens: >-
         Cultivates the gardens on which the healing practice depends.
       Doctrine of the Balanced Partnership: >-
-        This cult supplies the theological basis for Kheperi women's unusual legal standing—that
-        creation requires the balanced partnership of masculine and feminine divine principles.
-        Kheperi women own property, initiate divorce, plead in the Kenbet, practice medicine and
-        magic, conduct business independently, and serve as priestesses including in high offices;
-        several of the ablest rulers in Kheperi history governed as Per-Aá in their own right.
+        This cult supplies the theological basis for Kheperi women's unusual legal standing—that creation requires the balanced partnership of masculine and feminine divine principles. Kheperi women own property, initiate divorce, plead in the Kenbet, practice medicine and magic, conduct business independently, and serve as priestesses including in high offices; several of the ablest rulers in Kheperi history governed as Per-Aá in their own right.
   seat: null
   domains: []
   population: null
-  economy:
-    - affiliation-perhati
-  lore:
-    - isetdty
-  parents:
-    - kemtnpnthn
-  relations:
-    kemtnpnthn: aligned
+  economy: [affiliation-perhati]
+  lore: [isetdty]
+  parents: [kemtnpnthn]
+  relations: {kemtnpnthn: aligned}
   packFolder: pantheonskemetian
-name:
-  full: Faith of Íšét
-  aliases:
-    - Mother of New Beginnings
-    - Íšét
-    - Iset
-    - Íšét, Mother of New Beginnings and Restorer of Health
-shortcode: iset
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 Íšét is the great mother goddess of Ta'Kheperu, the principle of fertility, renewal, and healing that sustains all life. She is the great river that floods each year, laying rich black silt across the valley and coaxing the dry-season fields back into lush abundance. She is the womb from which all creation springs, the nurturing force that sustains children from birth to maturity. But Íšét is also the healer, the restorer of health, the one who mends what is broken and returns the wounded to wholeness. Her theology teaches that all life depends on balance between masculine and feminine principles, that creation itself requires the cooperation of male and female divine forces.

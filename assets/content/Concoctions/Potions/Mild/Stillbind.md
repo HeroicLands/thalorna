@@ -1,18 +1,11 @@
 ---
-tags:
-  - mild-elixir
-name:
-  full: Stillbind
-  aliases:
-    - Potion, Paralytic, Mild
-description: "Clear greenish liquid; paralyzes and immobilizes drinker temporarily."
 shortcode: ptnparm
+name: {full: Stillbind, aliases: ["Potion, Paralytic, Mild"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: mild
+description: "Clear greenish liquid; paralyzes and immobilizes drinker temporarily."
+tags: [mild-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25

@@ -1,22 +1,11 @@
 ---
-tags:
-  - village
-  - river
-  - sacred
-description: "The downstream village of Rājapur, whose Rásikara cremation-ground receives the dead of every constituent village."
+shortcode: mukteshvara
+name: {full: Mukteshvara, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - rajapurjnpd
-  population: 780
-  packFolder: vedyara
-name:
-  full: Mukteshvara
-  aliases: []
-shortcode: mukteshvara
+description: "The downstream village of Rājapur, whose Rásikara cremation-ground receives the dead of every constituent village."
+tags: [village, river, sacred]
+data: {demonym: null, lore: [], parents: [rajapurjnpd], population: 780, packFolder: vedyara}
 ---
 
 Mukteshvara (780) is the downstream village of the janapada, and the dead of every village in it come here. The Rásikara cremation-ground runs along a half-mile of bank below the houses. Its ghats are stone and are kept by the village at the janapada's charge.

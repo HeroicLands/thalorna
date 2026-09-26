@@ -1,19 +1,10 @@
 ---
-tags:
-  - organization
-  - crime
-  - underworld
-  - vedyara
-description: "The chartered thieves' guild of Vedyara—a hereditary craft-shrenī that holds a charter from each of the forty polities seated at the great assembly in their own right, earns more from underwriting theft than from committing it, and survives dynasties because it is a caste rather than a syndicate."
-name:
-  full: The Ādānashrenī
-  aliases:
-    - The Ādāna
-    - The Receivers
-    - The Guild of Taking
 shortcode: adanasreni
+name: {full: The Ādānashrenī, aliases: [The Ādāna, The Receivers, The Guild of Taking]}
 type: affiliation
 subType: criminal
+description: "The chartered thieves' guild of Vedyara—a hereditary craft-shrenī that holds a charter from each of the forty polities seated at the great assembly in their own right, earns more from underwriting theft than from committing it, and survives dynasties because it is a caste rather than a syndicate."
+tags: [organization, crime, underworld, vedyara]
 data:
   templatePriority: null
   demonym: null
@@ -22,74 +13,56 @@ data:
   governance:
     model: oligarchy
     summary: >-
-      A craft guild in every particular of its form: a chartered corporate body with its own
-      court, its own treasury and its own hereditary craft-lines, governed by a Sabhā of elders
-      who elect a Shreshthin for life. The charters are held separately in each of the forty polities
-      that seat themselves in their own right, and the Sabhā is regional rather than subcontinental,
-      so there is no single head of Vedyaran crime—there are forty guild-chiefs who acknowledge one
-      another's law and settle between themselves.
+      A craft guild in every particular of its form: a chartered corporate body with its own court, its own treasury and its own hereditary craft-lines, governed by a Sabhā of elders who elect a Shreshthin for life. The charters are held separately in each of the forty polities that seat themselves in their own right, and the Sabhā is regional rather than subcontinental, so there is no single head of Vedyaran crime—there are forty guild-chiefs who acknowledge one another's law and settle between themselves.
     ranks:
       - level: 0
         title: Chinnasūtra
         lore: expelledrnk
         description: >-
-          The cut thread. Struck from the lineage and from the guild's protection, which in
-          practice means the guild will surrender them to the justice of whatever crown or council
-          chartered the line, to keep its charter clean.
+          The cut thread. Struck from the lineage and from the guild's protection, which in practice means the guild will surrender them to the justice of whatever crown or council chartered the line, to keep its charter clean.
       - level: 1
         title: Āshrita
         lore: dependentrnk
         description: >-
-          Sheltered by the guild without being of it—watchers, doorkeepers, the households of
-          craftsmen, the fence's wife who keeps his book. Fed and defended, told nothing.
+          Sheltered by the guild without being of it—watchers, doorkeepers, the households of craftsmen, the fence's wife who keeps his book. Fed and defended, told nothing.
       - level: 2
         title: Antevāsin
         lore: apprenticernk
         description: >-
-          One who dwells near. Apprenticed to a craft-line by birth, and not permitted to take
-          anything unsupervised until the Ácārya presents them to the Sabhā.
+          One who dwells near. Apprenticed to a craft-line by birth, and not permitted to take anything unsupervised until the Ácārya presents them to the Sabhā.
       - level: 3
         title: Ādānika
         lore: journeymanrnk
         description: >-
-          A taker in their own right, entered in the guild register, bound by the taboos and
-          entitled to the guild's advocate before a crown's or a council's magistrate.
+          A taker in their own right, entered in the guild register, bound by the taboos and entitled to the guild's advocate before a crown's or a council's magistrate.
       - level: 4
         title: Ácārya
         lore: masterrnk
         description: >-
-          Master of a craft-line, who teaches it, vouches for its members and answers to the
-          Sabhā for every taking they perform.
+          Master of a craft-line, who teaches it, vouches for its members and answers to the Sabhā for every taking they perform.
       - level: 5
         title: Sthavira
         lore: elderrnk
         description: >-
-          An elder seated on the Sabhā, who judges disputes between craft-lines, rules on
-          improper takings and orders restoration.
+          An elder seated on the Sabhā, who judges disputes between craft-lines, rules on improper takings and orders restoration.
       - level: 6
         title: Shreshthin
         lore: grandmasterrnk
         description: >-
-          The guild-chief under one polity's charter—carrying, deliberately, the same title a great
-          banker carries, and holding it for life or until the Sabhā unmakes them.
+          The guild-chief under one polity's charter—carrying, deliberately, the same title a great banker carries, and holding it for life or until the Sabhā unmakes them.
     offices:
       Shreshthin: >-
-        Guild-chief under a single polity's charter, who negotiates its renewal and whose
-        authority stops at that polity's border.
+        Guild-chief under a single polity's charter, who negotiates its renewal and whose authority stops at that polity's border.
       Sthavira: An elder of the Sabhā, the guild's court and its only law.
       Nyāsapāla: >-
-        Keeper of the deposit—treasurer of the guild's funds and of the surety pool from which
-        underwritten losses are paid.
+        Keeper of the deposit—treasurer of the guild's funds and of the surety pool from which underwritten losses are paid.
       Arghakāra: >-
-        The price-maker, who values everything that comes into guild hands and whose appraisal
-        settles the shares.
+        The price-maker, who values everything that comes into guild hands and whose appraisal settles the shares.
       Mudrākāra: >-
-        The seal-maker, whose craft-line forges seals, charters and letters of credit, and which
-        is the most closely watched line in the guild.
+        The seal-maker, whose craft-line forges seals, charters and letters of credit, and which is the most closely watched line in the guild.
       Mārgapāla: The road-keeper, who licenses takings on a stretch of road and collects the guild's share.
       Dūta: >-
-        The envoy who carries the guild's business to courts, to the temples and to the Twilight
-        House.
+        The envoy who carries the guild's business to courts, to the temples and to the Twilight House.
   seat: null
   domains: []
   population: null
@@ -98,10 +71,7 @@ data:
   parents: []
   relations: {}
   packFolder: crimesyndicates
-sohl:
-  system:
-    commonSkills:
-      - vedyarlng
+sohl: {system: {commonSkills: [vedyarlng]}}
 ---
 
 **Pronunciation:** _AA-daa-na-SHRAY-nee_

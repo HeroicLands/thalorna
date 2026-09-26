@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Ironbind
-  aliases:
-    - Steel
-description: "Transmutes base material into high-quality, workable steel instantly."
 shortcode: ironbind
+name: {full: Ironbind, aliases: [Steel]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
-  packFolder: spells
+description: "Transmutes base material into high-quality, workable steel instantly."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Steel

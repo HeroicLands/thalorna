@@ -1,16 +1,10 @@
 ---
-description: "The reckoners' college at Chandrapur—the calendar, the eclipse, the tide and the Weighing, computed in a notation nobody reads without the syllabary."
-tags:
-  - varnaka
-  - arcane
-  - scholarly
-name:
-  full: Ganaka-shala
-  aliases:
-    - The Reckoners' College
 shortcode: ganakashala
+name: {full: Ganaka-shala, aliases: [The Reckoners' College]}
 type: affiliation
 subType: arcanetradition
+description: "The reckoners' college at Chandrapur—the calendar, the eclipse, the tide and the Weighing, computed in a notation nobody reads without the syllabary."
+tags: [varnaka, arcane, scholarly]
 data:
   banner: faithbnr
   icon: null
@@ -27,51 +21,41 @@ data:
         title: Struck from the Roll
         lore: excmmnctrnk
         description: >-
-          Removed for falsifying a computation or selling one. The roll records the striking and
-          the reason, and no court that keeps the college's tables will seat the person again.
+          Removed for falsifying a computation or selling one. The roll records the striking and the reason, and no court that keeps the college's tables will seat the person again.
       - level: 1
         title: Hearer
         lore: catechumenrnk
         description: >-
-          Sits in the hall, keeps no slate and is asked nothing. Anyone may be a Hearer, and the
-          college takes no fee for it.
+          Sits in the hall, keeps no slate and is asked nothing. Anyone may be a Hearer, and the college takes no fee for it.
       - level: 2
         title: Slate-holder
         lore: apprenticernk
         description: >-
-          Admitted to the tables and to the notation, and answerable for the arithmetic of a
-          working but not for its method.
+          Admitted to the tables and to the notation, and answerable for the arithmetic of a working but not for its method.
       - level: 3
         title: Ganaka
         lore: journeymanrnk
         description: >-
-          Qualified to be hired. A court's Ganaka fixes the auspicious hour, and the college
-          stands behind his figures as long as he states which method he used.
+          Qualified to be hired. A court's Ganaka fixes the auspicious hour, and the college stands behind his figures as long as he states which method he used.
       - level: 4
         title: Reckoner of the Hall
         lore: masterrnk
         description: >-
-          Sets the questions and sits the boards, and holds one of the instruments. A Reckoner
-          may contradict a Ganaka's published figure, which is the only way a figure is withdrawn.
+          Sets the questions and sits the boards, and holds one of the instruments. A Reckoner may contradict a Ganaka's published figure, which is the only way a figure is withdrawn.
       - level: 5
         title: Keeper of the Tables
         lore: grandmasterrnk
         description: >-
-          Answerable for the tables themselves—the ephemeris, the tide-tables and the assay
-          constants—and for every figure the college has put its name to.
+          Answerable for the tables themselves—the ephemeris, the tide-tables and the assay constants—and for every figure the college has put its name to.
     offices:
       Keeper of the Tables: >-
-        Holds the ephemeris, the tide-tables and the assay constants, and answers for every
-        figure published under the college's name.
+        Holds the ephemeris, the tide-tables and the assay constants, and answers for every figure published under the college's name.
       Reckoner of the Hall: >-
-        Sets the examination questions and sits the boards; the one office that may withdraw a
-        published figure.
+        Sets the examination questions and sits the boards; the one office that may withdraw a published figure.
       Court Ganaka: >-
-        A Ganaka in a court's pay, fixing the auspicious hour for a coronation, a marriage, a
-        campaign or a sailing.
+        A Ganaka in a court's pay, fixing the auspicious hour for a coronation, a marriage, a campaign or a sailing.
       Reckoner of the Weighing: >-
-        Attends the gold-weighing at Suvarnagiri, checks the beam and the weights against the
-        college's constants, and signs the assay.
+        Attends the gold-weighing at Suvarnagiri, checks the beam and the weights against the college's constants, and signs the assay.
       Tide-reader: >-
         Publishes the harbour tables the coastal polities' pilots work from, revised each season.
   seat: chandrapur2
@@ -79,8 +63,7 @@ data:
   population: null
   economy: []
   lore: []
-  parents:
-    - varakpnthn
+  parents: [varakpnthn]
   relations:
     varakpnthn: aligned
     trimurtisampradaya: rival

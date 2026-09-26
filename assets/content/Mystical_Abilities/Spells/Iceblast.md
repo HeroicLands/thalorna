@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Iceblast
-  aliases:
-    - Snowball
-description: "Compressed ice sphere detonates into razor-sharp, laceration-causing shards."
 shortcode: iceblast
+name: {full: Iceblast, aliases: [Snowball]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
-  packFolder: spells
+description: "Compressed ice sphere detonates into razor-sharp, laceration-causing shards."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Snowball

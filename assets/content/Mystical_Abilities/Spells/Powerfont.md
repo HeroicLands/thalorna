@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Powerfont
-  aliases:
-    - Well
-description: "Channel of raw power; caster draws energy for spellcasting."
 shortcode: pwrfnt
+name: {full: Powerfont, aliases: [Well]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Channel of raw power; caster draws energy for spellcasting."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Well

@@ -1,24 +1,17 @@
 ---
-tags: []
-name:
-  full: Pool
-  aliases: []
-description: "Creates body of water; water persists or evaporates gradually."
 shortcode: pool
+name: {full: Pool, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Creates body of water; water persists or evaporates gradually."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Pool

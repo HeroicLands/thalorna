@@ -1,16 +1,11 @@
 ---
-tags:
-  - draft
-  - first-gods
+shortcode: rhysgenspr
+name: {full: "Rhysgen, the Red Fox of the Lower Wood", aliases: []}
 type: lore
 subType: spirit
 description: "Fox-spirit of the lower wood—a thief, a bargainer, and the one Kindred that will renegotiate."
-name:
-  full: Rhysgen, the Red Fox of the Lower Wood
-  aliases: []
-shortcode: rhysgenspr
-data:
-  packFolder: lorespiritsaelendan
+tags: [draft, first-gods]
+data: {packFolder: lorespiritsaelendan}
 ---
 
 - **Kind:** Animal-kin, of [[lore-thekindred|the Kindred]]

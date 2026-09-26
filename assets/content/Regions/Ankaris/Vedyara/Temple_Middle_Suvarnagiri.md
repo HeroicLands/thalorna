@@ -1,23 +1,11 @@
 ---
-tags:
-  - sacred
-  - temple
-  - mountain
-  - inland
-description: "The Mahájaya temple of the central valley, beside the weighing-station and the common treasury, and the one part of the janapada's machinery that never moves."
+shortcode: middlesuvtmpl
+name: {full: The Temple of Middle Suvarnagiri, aliases: []}
 type: place
 subType: structure
-data:
-  demonym: null
-  lore: []
-  parents:
-    - suvarnagirijnpd
-  population: null
-  packFolder: vedyara
-name:
-  full: The Temple of Middle Suvarnagiri
-  aliases: []
-shortcode: middlesuvtmpl
+description: "The Mahájaya temple of the central valley, beside the weighing-station and the common treasury, and the one part of the janapada's machinery that never moves."
+tags: [sacred, temple, mountain, inland]
+data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: null, packFolder: vedyara}
 ---
 
 The **temple of Middle Suvarnagiri** stands in the central valley below the principal panning grounds, and the [[place-weighingstn|weighing-station]] and the common treasury stand beside it. The sabhā meets here one year in three like anywhere else, but the gold comes here every month of every year.

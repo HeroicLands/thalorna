@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: "Flame's Indifference"
-  aliases:
-    - Fireshield Elixir
-description: "Scarlet flame-touched elixir; protects against heat and fire damage."
 shortcode: elxfir
+name: {full: "Flame's Indifference", aliases: [Fireshield Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Scarlet flame-touched elixir; protects against heat and fire damage."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

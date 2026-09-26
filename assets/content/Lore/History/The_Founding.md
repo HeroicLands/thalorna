@@ -1,18 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "A Vylarian Senator backed by loyal legions and the newly chartered Ordo seizes supreme power and declares himself Emperor—Year 1 of the calendar most of western Ankaris still counts by."
+shortcode: thefounding
+name: {full: The Founding, aliases: [Year One, The Making of the Vylarian Empire]}
 type: lore
 subType: history
-name:
-  full: The Founding
-  aliases:
-    - Year One
-    - The Making of the Vylarian Empire
-shortcode: thefounding
-data:
-  packFolder: settinglore
+description: "A Vylarian Senator backed by loyal legions and the newly chartered Ordo seizes supreme power and declares himself Emperor—Year 1 of the calendar most of western Ankaris still counts by."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: accession

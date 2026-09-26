@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Mistveil
-  aliases:
-    - Vapour
-description: "Fog obscuring large area; hides enemies and muffles sound."
 shortcode: mistveil
+name: {full: Mistveil, aliases: [Vapour]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Fog obscuring large area; hides enemies and muffles sound."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Vapour

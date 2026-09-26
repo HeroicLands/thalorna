@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Sharpen
-  aliases:
-    - Focus
-description: "Sharpens blade; grants keener edge and cutting power."
 shortcode: sharpen
+name: {full: Sharpen, aliases: [Focus]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Sharpens blade; grants keener edge and cutting power."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Focus

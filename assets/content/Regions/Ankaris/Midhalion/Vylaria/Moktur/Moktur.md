@@ -1,19 +1,14 @@
 ---
-tags:
-  - region
-description: "The mountainous northern shield of the Vylarian Empire—the land of the Province of Moktur, a hard frontier of mines, timber and fortified valleys on the Vrystwald march."
-name:
-  full: Moktur
-  aliases: []
 shortcode: moktur
+name: {full: Moktur, aliases: []}
 type: place
 subType: region
+description: "The mountainous northern shield of the Vylarian Empire—the land of the Province of Moktur, a hard frontier of mines, timber and fortified valleys on the Vrystwald march."
+tags: [region]
 data:
   demonym: Vylarian
-  lore:
-    - humanflk
-  parents:
-    - vylariargn
+  lore: [humanflk]
+  parents: [vylariargn]
   population: 2000000
   packFolder: vylaria
 ---

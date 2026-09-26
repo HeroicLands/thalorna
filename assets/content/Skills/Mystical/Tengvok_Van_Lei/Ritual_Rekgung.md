@@ -1,19 +1,10 @@
 ---
-tags:
-  - celestial-pantheon
-  - faith-skill
-  - draft
+shortcode: rekgung
+name: {full: "Ritual: Rëkgüng", aliases: [Rëkgüng, Rekgung]}
 type: skill
 subType: mystical
-shortcode: rekgung
-name:
-  full: "Ritual: Rëkgüng"
-  aliases:
-    - Rëkgüng
-    - Rekgung
-data:
-  templatePriority: null
-  packFolder: tengvokvanlei
+tags: [celestial-pantheon, faith-skill, draft]
+data: {templatePriority: null, packFolder: tengvokvanlei}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

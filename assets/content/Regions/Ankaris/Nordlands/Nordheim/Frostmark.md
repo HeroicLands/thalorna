@@ -1,19 +1,9 @@
 ---
-tags:
-  - settlement
-  - border
-description: "Border Settlement"
+shortcode: frostmark
+name: {full: Frostmark, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - nordheim
-  population: 250
-  packFolder: nordheim
-name:
-  full: Frostmark
-  aliases: []
-shortcode: frostmark
+description: "Border Settlement"
+tags: [settlement, border]
+data: {demonym: null, lore: [], parents: [nordheim], population: 250, packFolder: nordheim}
 ---

@@ -1,18 +1,10 @@
 ---
-tags:
-  - khemenu-hekau
-  - draft
+shortcode: rensesh
+name: {full: "Hekau: Ren'sesh", aliases: [Per-Ren'sesh]}
 type: skill
 subType: mystical
-shortcode: rensesh
-name:
-  full: "Hekau: Ren'sesh"
-  aliases:
-    - Per-Ren'sesh
-data:
-  icon: rensesh
-  templatePriority: null
-  packFolder: khemenuhekau
+tags: [khemenu-hekau, draft]
+data: {icon: rensesh, templatePriority: null, packFolder: khemenuhekau}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"

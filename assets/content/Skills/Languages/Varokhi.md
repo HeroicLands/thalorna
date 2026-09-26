@@ -1,17 +1,11 @@
 ---
-tags: []
-name:
-  full: Varokhi Language
-  aliases:
-    - Varokhi
-description: "The unwritten tongue of the Vrystwald tribes, long drifted from its Pelwar roots and carried wholly on breath and memory."
 shortcode: varokhlng
+name: {full: Varokhi Language, aliases: [Varokhi]}
 type: skill
 subType: language
-data:
-  icon: icon-speaking
-  templatePriority: null
-  packFolder: language
+description: "The unwritten tongue of the Vrystwald tribes, long drifted from its Pelwar roots and carried wholly on breath and memory."
+tags: []
+data: {icon: icon-speaking, templatePriority: null, packFolder: language}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -20,9 +14,7 @@ sohl:
     combatCategory: none
     parentSkillCode: lang
     initSkillMult: 0
-  flags:
-    "thalorna":
-      lang_family: Pelwar
+  flags: {"thalorna": {lang_family: Pelwar}}
 ---
 
 Varokhi is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Varokhi, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.

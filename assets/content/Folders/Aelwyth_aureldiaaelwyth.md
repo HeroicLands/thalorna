@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Aelwyth"
 shortcode: aureldiaaelwyth
+name: {full: "Aelwyth"}
 type: folder
-data:
-  parent: ankarisaureldia
-  color: "#66CDAA"
+data: {parent: ankarisaureldia, color: "#66CDAA"}
 ---

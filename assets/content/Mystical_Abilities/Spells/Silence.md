@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Silence
-  aliases:
-    - Muffle
-description: "Suppresses sound; muffles speech and blocks all noise."
 shortcode: silence
+name: {full: Silence, aliases: [Muffle]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Suppresses sound; muffles speech and blocks all noise."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Muffle

@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: "A small, devout nome of healing-shrines and herb-gardens—the land of the Nome of Per-Hût, one of the upper-river nomes of Ta'Kheperu."
-name:
-  full: Per-Hût Nome
-  aliases: []
 shortcode: perhutnome
+name: {full: Per-Hût Nome, aliases: []}
 type: place
 subType: region
+description: "A small, devout nome of healing-shrines and herb-gardens—the land of the Nome of Per-Hût, one of the upper-river nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 240000
   packFolder: upperrivernomes
 ---

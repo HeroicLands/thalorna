@@ -1,22 +1,11 @@
 ---
-tags:
-  - city
-  - port
-  - coastal
-description: "The seat of the Republic of Tarvenne—where the Senate sits beneath its portico and the republic's offices are bought."
+shortcode: thornbury
+name: {full: Thornbury, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - tarvenne
-  population: 14000
-  packFolder: aelwyth
-name:
-  full: Thornbury
-  aliases: []
-shortcode: thornbury
+description: "The seat of the Republic of Tarvenne—where the Senate sits beneath its portico and the republic's offices are bought."
+tags: [city, port, coastal]
+data: {demonym: null, lore: [], parents: [tarvenne], population: 14000, packFolder: aelwyth}
 ---
 
 **Thornbury** is the seat of the [[affiliation-repblctrvn|Republic of Tarvenne]], on Aelwyth's western

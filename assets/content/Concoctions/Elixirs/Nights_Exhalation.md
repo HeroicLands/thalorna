@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: "Night's Exhalation"
-  aliases:
-    - Shadowbreath Elixir
-description: "Black viscous darkness elixir; breathes obscuring shadow around bearer."
 shortcode: elxshd
+name: {full: "Night's Exhalation", aliases: [Shadowbreath Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Black viscous darkness elixir; breathes obscuring shadow around bearer."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

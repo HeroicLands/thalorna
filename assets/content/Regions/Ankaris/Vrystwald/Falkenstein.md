@@ -1,19 +1,9 @@
 ---
-tags:
-  - fortress
-  - hill
-description: "Hill Fort"
+shortcode: falkensten
+name: {full: Falkenstein, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vrystwald
-  population: 300
-  packFolder: vrystwald
-name:
-  full: Falkenstein
-  aliases: []
-shortcode: falkensten
+description: "Hill Fort"
+tags: [fortress, hill]
+data: {demonym: null, lore: [], parents: [vrystwald], population: 300, packFolder: vrystwald}
 ---

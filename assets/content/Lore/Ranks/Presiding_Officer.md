@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: prsdngffcrrnk
+name: {full: Presiding Officer, aliases: []}
 type: lore
 subType: law
-name:
-  full: Presiding Officer
-  aliases: []
-shortcode: prsdngffcrrnk
 description: "Presiding over a body that is itself sovereign, and holding nothing apart from it."
+tags: [draft]
 ---
 
 Presiding over a body that is itself sovereign, and holding nothing apart from it.

@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The jaguar as a totemic ideal, and the human character it describes."
+shortcode: jaguarttm
+name: {full: Jaguar, aliases: [Jaguar Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Jaguar
-  aliases:
-    - Jaguar Totem
-shortcode: jaguarttm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The jaguar as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-jaguartotem|Jaguar]]{float: top-left, size: medium}

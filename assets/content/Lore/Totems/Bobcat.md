@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The bobcat as a totemic ideal, and the human character it describes."
+shortcode: bobcatttm
+name: {full: Bobcat, aliases: [Bobcat Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Bobcat
-  aliases:
-    - Bobcat Totem
-shortcode: bobcatttm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The bobcat as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-bobcattotem|Bobcat]]{float: top-left, size: medium}

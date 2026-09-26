@@ -1,19 +1,9 @@
 ---
-tags:
-  - village
-  - coastal
-description: "Coastal Village"
+shortcode: brunvik
+name: {full: Brúnvík, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - malagna
-  population: 200
-  packFolder: malagna
-name:
-  full: Brúnvík
-  aliases: []
-shortcode: brunvik
+description: "Coastal Village"
+tags: [village, coastal]
+data: {demonym: null, lore: [], parents: [malagna], population: 200, packFolder: malagna}
 ---

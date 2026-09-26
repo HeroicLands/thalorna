@@ -1,14 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: shesmudty
+name: {full: Shesmu, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Shesmu
-  aliases: []
-shortcode: shesmudty
-data:
-  packFolder: deitieskemetian
+tags: [draft]
+data: {packFolder: deitieskemetian}
 ---
 
 _Patron of the Hunt._

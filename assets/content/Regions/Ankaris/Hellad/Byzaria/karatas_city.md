@@ -1,20 +1,11 @@
 ---
-tags:
-  - city
-  - mining
-description: "Mining City"
+shortcode: karatas2
+name: {full: Karataş, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - byzariargn
-  population: 45000
-name:
-  full: Karataş
-  aliases: []
-shortcode: karatas2
+description: "Mining City"
+tags: [city, mining]
+data: {demonym: null, lore: [], parents: [byzariargn], population: 45000}
 ---
 
 ## Overview

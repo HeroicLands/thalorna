@@ -1,20 +1,11 @@
 ---
-tags:
-  - city
-  - draft
-description: "City"
+shortcode: kuxibalam2
+name: {full: K'uxi Balam, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - kuxibalamrgn
-  population: 30000
-name:
-  full: K'uxi Balam
-  aliases: []
-shortcode: kuxibalam2
+description: "City"
+tags: [city, draft]
+data: {demonym: null, lore: [], parents: [kuxibalamrgn], population: 30000}
 ---
 
 ## Overview

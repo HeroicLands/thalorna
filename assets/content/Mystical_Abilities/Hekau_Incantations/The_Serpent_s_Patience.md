@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: The Serpent's Patience
-  aliases: []
-description: "Sets an unmaking that lies dormant, sometimes for generations, until a stated condition is met."
 shortcode: srpntsptnc
+name: {full: The Serpent's Patience, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: sefut
-  templatePriority: null
-  packFolder: hekauincantations
+description: "Sets an unmaking that lies dormant, sometimes for generations, until a stated condition is met."
+tags: [khemenu-hekau, incantation]
+data: {icon: sefut, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: sefut
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---
 
 The House's characteristic form and its worst problem. The working does nothing at all until the

@@ -1,23 +1,17 @@
 ---
-tags:
-  - village
-  - inland
-description: "The Hvarn winter house under the Eastern Reach—one long settlement where the whole people gathers for the closed months and the council sits."
+shortcode: nurvhrn
+name: {full: Nürvhrn, aliases: []}
 type: place
 subType: settlement
+description: "The Hvarn winter house under the Eastern Reach—one long settlement where the whole people gathers for the closed months and the council sits."
+tags: [village, inland]
 data:
   demonym: null
   lore: []
-  parents:
-    - graznmntns
-    - estrnreach
+  parents: [graznmntns, estrnreach]
   population: 290
   market: 2
   packFolder: vedyara
-name:
-  full: Nürvhrn
-  aliases: []
-shortcode: nurvhrn
 ---
 
 **Nürvhrn** lies in a sheltered head-valley below the cols of [[place-estrnreach|the Eastern Reach]], and it is where the [[affiliation-hvarnguides|Hvarn]] spend the winter. Two hundred and ninety people live there year-round. Through the closed months there are three times that many, because the hearths come down off the high pastures and the whole people is in one valley until the thaw.

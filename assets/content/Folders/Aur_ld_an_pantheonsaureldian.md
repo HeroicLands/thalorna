@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Aurèldían"
 shortcode: pantheonsaureldian
+name: {full: "Aurèldían"}
 type: folder
-data:
-  parent: pantheons
-  color: "#BA55D3"
+data: {parent: pantheons, color: "#BA55D3"}
 ---

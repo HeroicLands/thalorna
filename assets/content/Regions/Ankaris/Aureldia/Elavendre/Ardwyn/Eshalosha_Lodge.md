@@ -1,21 +1,11 @@
 ---
-tags:
-  - settlement
-description: "Áelendan settlement and ceremonial center"
+shortcode: eshalshldg
+name: {full: Eshálosha Lodge, aliases: [Eshálosha]}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - alndntrblnds
-  population: 1500
-  packFolder: elavendre
-name:
-  full: Eshálosha Lodge
-  aliases:
-    - Eshálosha
-shortcode: eshalshldg
+description: "Áelendan settlement and ceremonial center"
+tags: [settlement]
+data: {demonym: null, lore: [], parents: [alndntrblnds], population: 1500, packFolder: elavendre}
 ---
 
 **Controlled by:** [[lore-aelendnppl|Áelendan]]

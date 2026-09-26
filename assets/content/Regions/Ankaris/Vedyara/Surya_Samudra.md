@@ -1,23 +1,15 @@
 ---
-tags:
-  - region
-  - coastal
-description: "The eastern ocean off Vedyara—the sea the sun rises from, worked by Tānvüri junks and Jürthāti hulls, and closed to shipping for four months of the year."
-name:
-  full: Sūrya-samudra
-  aliases:
-    - The Eastern Sea
 shortcode: suryasamdra
+name: {full: Sūrya-samudra, aliases: [The Eastern Sea]}
 type: place
 subType: region
+description: "The eastern ocean off Vedyara—the sea the sun rises from, worked by Tānvüri junks and Jürthāti hulls, and closed to shipping for four months of the year."
+tags: [region, coastal]
 data:
   demonym: null
   lore: []
-  parents:
-    - ankrscntnnt
-  borders:
-    - { to: vedyarargn, bearing: W }
-    - { to: meghsamdra, bearing: SW }
+  parents: [ankrscntnnt]
+  borders: [{to: vedyarargn, bearing: W}, {to: meghsamdra, bearing: SW}]
   population: null
   packFolder: vedyara
 ---

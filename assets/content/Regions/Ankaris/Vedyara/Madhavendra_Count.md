@@ -1,52 +1,41 @@
 ---
-tags:
-  - reference
-  - calendar
-  - vedyara
-description: "Vedyara's own reckoning: twelve solar months paired into six seasons and a week of seven gods' days, counted from the standardization of Classical Vedyari under the philosopher-kings of Mādhavendra, with the moon kept beside it in a temple almanac."
+shortcode: mdhvndrcnt
+name: {full: The Mādhavendra Count, aliases: [Mādhavendra Count, M-reckoning]}
 type: lore
 subType: calendar
-name:
-  full: The Mādhavendra Count
-  aliases:
-    - Mādhavendra Count
-    - M-reckoning
-shortcode: mdhvndrcnt
+description: "Vedyara's own reckoning: twelve solar months paired into six seasons and a week of seven gods' days, counted from the standardization of Classical Vedyari under the philosopher-kings of Mādhavendra, with the moon kept beside it in a temple almanac."
+tags: [reference, calendar, vedyara]
 data:
   epoch: 720/1/1
   months:
-    - { name: Prabhavakāla, days: 30 }
-    - { name: Pushpakāla, days: 31 }
-    - { name: Jvalakāla, days: 30 }
-    - { name: Meghamukhakāla, days: 31 }
-    - { name: Purnakāla, days: 30 }
-    - { name: Lipikāla, days: 31 }
-    - { name: Naukāla, days: 30 }
-    - { name: Dhanyakāla, days: 31 }
-    - { name: Himakāla, days: 30 }
-    - { name: Koshthakāla, days: 30 }
-    - { name: Karpasakāla, days: 30 }
-    - { name: Sandhyakāla, days: 31 }
+    - {name: Prabhavakāla, days: 30}
+    - {name: Pushpakāla, days: 31}
+    - {name: Jvalakāla, days: 30}
+    - {name: Meghamukhakāla, days: 31}
+    - {name: Purnakāla, days: 30}
+    - {name: Lipikāla, days: 31}
+    - {name: Naukāla, days: 30}
+    - {name: Dhanyakāla, days: 31}
+    - {name: Himakāla, days: 30}
+    - {name: Koshthakāla, days: 30}
+    - {name: Karpasakāla, days: 30}
+    - {name: Sandhyakāla, days: 31}
   weekdays:
-    - { name: Sūryavāra }
-    - { name: Chandravāra }
-    - { name: Kālavāra }
-    - { name: Meghavāra }
-    - { name: Jñānavāra }
-    - { name: Kāmavāra }
-    - { name: Vyāhrativāra }
+    - {name: Sūryavāra}
+    - {name: Chandravāra}
+    - {name: Kālavāra}
+    - {name: Meghavāra}
+    - {name: Jñānavāra}
+    - {name: Kāmavāra}
+    - {name: Vyāhrativāra}
   seasons:
-    - { name: Haritaritu, monthStart: 1, monthEnd: 2 }
-    - { name: Diptaritu, monthStart: 3, monthEnd: 4 }
-    - { name: Varsharitu, monthStart: 5, monthEnd: 6 }
-    - { name: Hiranyaritu, monthStart: 7, monthEnd: 8 }
-    - { name: Shitaritu, monthStart: 9, monthEnd: 10 }
-    - { name: Tamraritu, monthStart: 11, monthEnd: 12 }
-  eras:
-    - shortcode: madhavendra
-      name: The Mādhavendra Count
-      abbreviation: M
-      start: -480
+    - {name: Haritaritu, monthStart: 1, monthEnd: 2}
+    - {name: Diptaritu, monthStart: 3, monthEnd: 4}
+    - {name: Varsharitu, monthStart: 5, monthEnd: 6}
+    - {name: Hiranyaritu, monthStart: 7, monthEnd: 8}
+    - {name: Shitaritu, monthStart: 9, monthEnd: 10}
+    - {name: Tamraritu, monthStart: 11, monthEnd: 12}
+  eras: [{shortcode: madhavendra, name: The Mādhavendra Count, abbreviation: M, start: -480}]
   packFolder: vedyara
 ---
 

@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Wither
-  aliases:
-    - Decay
-description: "Drains life force; target withers and decays rapidly."
 shortcode: wither
+name: {full: Wither, aliases: [Decay]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
-  packFolder: spells
+description: "Drains life force; target withers and decays rapidly."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Decay

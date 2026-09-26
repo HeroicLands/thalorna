@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: Heart-of-the-Oak
-  aliases:
-    - Might Elixir
-description: "Dense amber strength elixir; surges Strength by four points temporarily."
 shortcode: elxmgt
+name: {full: Heart-of-the-Oak, aliases: [Might Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Dense amber strength elixir; surges Strength by four points temporarily."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

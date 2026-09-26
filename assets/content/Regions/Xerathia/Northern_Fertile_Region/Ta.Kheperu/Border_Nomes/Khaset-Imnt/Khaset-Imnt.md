@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: "The far western desert march; oasis-forts and the watch over the trade-tracks—the land of the Nome of Khaset-Imnt, one of the border nomes of Ta'Kheperu."
-name:
-  full: Khaset-Imnt
-  aliases: []
 shortcode: khasetimntnome
+name: {full: Khaset-Imnt, aliases: []}
 type: place
 subType: region
+description: "The far western desert march; oasis-forts and the watch over the trade-tracks—the land of the Nome of Khaset-Imnt, one of the border nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 220000
   packFolder: bordernomes
 ---

@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Whisperwill
-  aliases:
-    - Suggestion
-description: "Whispers suggestion directly; implants idea in target's mind."
 shortcode: whsprwll
+name: {full: Whisperwill, aliases: [Suggestion]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
-  packFolder: spells
+description: "Whispers suggestion directly; implants idea in target's mind."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Suggestion

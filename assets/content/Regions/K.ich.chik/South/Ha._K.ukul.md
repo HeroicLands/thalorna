@@ -1,21 +1,11 @@
 ---
-tags:
-  - town
-  - market
-description: "Market Town"
+shortcode: hakukul
+name: {full: Ha’ K’ukul, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - balamtzakurgn
-  population: 18000
-  packFolder: south
-name:
-  full: Ha’ K’ukul
-  aliases: []
-shortcode: hakukul
+description: "Market Town"
+tags: [town, market]
+data: {demonym: null, lore: [], parents: [balamtzakurgn], population: 18000, packFolder: south}
 ---
 
 ## Overview

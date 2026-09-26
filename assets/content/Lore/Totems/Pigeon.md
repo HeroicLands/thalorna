@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The pigeon as a totemic ideal, and the human character it describes."
+shortcode: pigeonttm
+name: {full: Pigeon, aliases: [Pigeon Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Pigeon
-  aliases:
-    - Pigeon Totem
-shortcode: pigeonttm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The pigeon as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-pigeontotem|Pigeon]]{float: top-left, size: medium}

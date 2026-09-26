@@ -1,8 +1,6 @@
 ---
-name:
-  full: "First_Gods"
 shortcode: deitiesfirstgods
+name: {full: "First_Gods"}
 type: folder
-data:
-  parent: deities
+data: {parent: deities}
 ---

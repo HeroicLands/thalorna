@@ -1,21 +1,8 @@
 ---
-tags:
-  - character
-  - reference
-  - unattributed
-name:
-  full: Eadrun of Cardeth
-  title: Lady
-  given: Eadrun
-  clan: of Cardeth
-  aliases: []
-description: "A young noblewoman with Áelendan ancestry who has begun seeking Bélrik out for discrete remedies."
 shortcode: eadrunofcardeth
+name: {full: Eadrun of Cardeth, title: Lady, given: Eadrun, clan: of Cardeth, aliases: []}
 type: being
-data:
-  species: humanflk
-  templatePriority: null
-  archetypes: []
-  stations: []
-  lore: []
+description: "A young noblewoman with Áelendan ancestry who has begun seeking Bélrik out for discrete remedies."
+tags: [character, reference, unattributed]
+data: {species: humanflk, templatePriority: null, archetypes: [], stations: [], lore: []}
 ---

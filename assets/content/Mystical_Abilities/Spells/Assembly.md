@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Assembly
-  aliases:
-    - Convoke
-description: "Calls forth greater fire elemental; commands inferno to consume."
 shortcode: arcasmbl
+name: {full: Assembly, aliases: [Convoke]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
-  packFolder: spells
+description: "Calls forth greater fire elemental; commands inferno to consume."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Convoke

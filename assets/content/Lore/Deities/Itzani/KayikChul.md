@@ -1,12 +1,9 @@
 ---
-tags: []
-description: "The Sacred Flame of the Itzáni pantheon, who alone turns the blood-offering into divine substance, and whose fires are never allowed to die."
+shortcode: kayikchuldty
+name: {full: K'ayik Ch'ul, aliases: []}
 type: lore
 subType: deity
-name:
-  full: K'ayik Ch'ul
-  aliases: []
-shortcode: kayikchuldty
-data:
-  packFolder: deitiesitzani
+description: "The Sacred Flame of the Itzáni pantheon, who alone turns the blood-offering into divine substance, and whose fires are never allowed to die."
+tags: []
+data: {packFolder: deitiesitzani}
 ---

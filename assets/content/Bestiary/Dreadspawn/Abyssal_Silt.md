@@ -1,13 +1,9 @@
 ---
-tags:
-  - dreadspawn
-  - creature
-name:
-  full: Abyssal Silt
-  aliases: []
-description: "A predatory ooze from toxic marshes and deep caverns that lurks camouflaged in stagnant darkness, hungering with unnatural cunning."
 shortcode: abysslsl
+name: {full: Abyssal Silt, aliases: []}
 type: being
+description: "A predatory ooze from toxic marshes and deep caverns that lurks camouflaged in stagnant darkness, hungering with unnatural cunning."
+tags: [dreadspawn, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -42,21 +38,21 @@ sohl:
     rea: 1d4+9
     cre: 1d4+9
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 20 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 18 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 80 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 85 } }
-    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 45 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 60 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 60 } }
-    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 43 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 20}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 18}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 12}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 80}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 85}}
+    - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 45}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 43}}
     - name: Corrosive Envelopment
       type: skill
       system:
@@ -64,35 +60,20 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 77
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: grab
           name: Corrosive Envelopment
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 4
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 14
-            aspect: blunt
+          attack: {disabled: false, spread: 4, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 14, aspect: blunt}
           lengthBase: 1
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
     - name: Lashing Tendrils
       type: skill
       system:
@@ -100,78 +81,50 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 72
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: tentacle
           name: Lashing Tendrils
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 4
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 1
-            aspect: blunt
+          attack: {disabled: false, spread: 4, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 1, aspect: blunt}
           lengthBase: 3
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
   system:
     body:
       structure:
         zones:
-          - name: Core
-            shortcode: corezone
-            probWeight: 2
-          - name: Mass
-            shortcode: masszone
-            probWeight: 4
-          - name: Tendrils
-            shortcode: tendrilzone
-            probWeight: 2
+          - {name: Core, shortcode: corezone, probWeight: 2}
+          - {name: Mass, shortcode: masszone, probWeight: 4}
+          - {name: Tendrils, shortcode: tendrilzone, probWeight: 2}
         parts:
           - name: Core
             shortcode: corepart
             bodyZoneCode: corezone
-            roles:
-              - vital
+            roles: [vital]
             canHoldItem: false
             probWeight: 10
           - name: Mass
             shortcode: masspart
             bodyZoneCode: masszone
-            roles:
-              - core
-              - locomotor
+            roles: [core, locomotor]
             canHoldItem: false
             probWeight: 10
           - name: Left Tendrils
             shortcode: ltendrilpart
             bodyZoneCode: tendrilzone
-            roles:
-              - locomotor
-              - manipulator
+            roles: [locomotor, manipulator]
             canHoldItem: false
             probWeight: 5
           - name: Right Tendrils
             shortcode: rtendrilpart
             bodyZoneCode: tendrilzone
-            roles:
-              - locomotor
-              - manipulator
+            roles: [locomotor, manipulator]
             canHoldItem: false
             probWeight: 5
         locations:
@@ -182,11 +135,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 10
-            protectionBase:
-              blunt: 3
-              edged: 2
-              piercing: 1
-              fire: 3
+            protectionBase: {blunt: 3, edged: 2, piercing: 1, fire: 3}
           - name: Mass
             shortcode: massloc
             bodyPartCode: masspart
@@ -194,11 +143,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 6
-            protectionBase:
-              blunt: 3
-              edged: 2
-              piercing: 1
-              fire: 3
+            protectionBase: {blunt: 3, edged: 2, piercing: 1, fire: 3}
           - name: Underside
             shortcode: underbellyloc
             bodyPartCode: masspart
@@ -206,11 +151,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 4
-            protectionBase:
-              blunt: 3
-              edged: 2
-              piercing: 1
-              fire: 3
+            protectionBase: {blunt: 3, edged: 2, piercing: 1, fire: 3}
           - name: Left Tendrils
             shortcode: ltendrilloc
             bodyPartCode: ltendrilpart
@@ -218,11 +159,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 3
-              edged: 2
-              piercing: 1
-              fire: 3
+            protectionBase: {blunt: 3, edged: 2, piercing: 1, fire: 3}
           - name: Right Tendrils
             shortcode: rtendrilloc
             bodyPartCode: rtendrilpart
@@ -230,14 +167,8 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 3
-              edged: 2
-              piercing: 1
-              fire: 3
-      weight:
-        base: 200
-        calc: "200"
+            protectionBase: {blunt: 3, edged: 2, piercing: 1, fire: 3}
+      weight: {base: 200, calc: "200"}
       reachBase: 0
       bodyScaleBase: 1.17
       personalFatigue: "enc + 5"

@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The wolf as a totemic ideal, and the human character it describes."
+shortcode: wolfttm
+name: {full: Wolf, aliases: [Wolf Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Wolf
-  aliases:
-    - Wolf Totem
-shortcode: wolfttm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The wolf as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-wolftotem|Wolf]]{float: top-left, size: medium}

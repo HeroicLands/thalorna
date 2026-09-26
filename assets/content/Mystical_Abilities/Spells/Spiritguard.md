@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Spiritguard
-  aliases:
-    - Host
-description: "Summons protective spirit; grants spectral defender and aid."
 shortcode: sprtgrd
+name: {full: Spiritguard, aliases: [Host]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
-  packFolder: spells
+description: "Summons protective spirit; grants spectral defender and aid."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Host

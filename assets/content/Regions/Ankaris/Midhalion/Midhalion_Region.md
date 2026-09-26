@@ -1,24 +1,15 @@
 ---
-tags:
-  - region
-description: The Mídhalión basin—a cross-continental constellation of polities ringing the Vylarian Sea, successor-lands of the old Vylarian Empire.
-name:
-  full: Mídhalión Region
-  aliases:
-    - Mídhalión
 shortcode: midhalnrgn
+name: {full: Mídhalión Region, aliases: [Mídhalión]}
 type: place
 subType: region
+description: The Mídhalión basin—a cross-continental constellation of polities ringing the Vylarian Sea, successor-lands of the old Vylarian Empire.
+tags: [region]
 data:
   icon: null
   demonym: null
-  lore:
-    - humanflk
-    - grukarfolk
-    - flksinale
-    - flkkhazar
-  parents:
-    - ankrscntnnt
+  lore: [humanflk, grukarfolk, flksinale, flkkhazar]
+  parents: [ankrscntnnt]
   population: 47000000
   packFolder: midhalion
 

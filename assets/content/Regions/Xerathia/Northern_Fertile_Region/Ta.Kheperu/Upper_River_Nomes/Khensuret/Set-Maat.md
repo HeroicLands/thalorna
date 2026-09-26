@@ -1,22 +1,17 @@
 ---
-tags:
-  - village
-description: "Tomb-Workers' Village (walled)"
+shortcode: setmaat
+name: {full: Set-Maat, aliases: [Set-Ma'at]}
 type: place
 subType: settlement
+description: "Tomb-Workers' Village (walled)"
+tags: [village]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - khensuretnome
+  parents: [khensuretnome]
   population: 6000
   packFolder: khensuret
-name:
-  full: Set-Maat
-  aliases:
-    - Set-Ma'at
-shortcode: setmaat
 ---
 
 ## Overview

@@ -1,21 +1,11 @@
 ---
-tags:
-  - capital
-  - provincial
-description: "Provincial Capital (Economic Hub)"
+shortcode: mercavia
+name: {full: Mercavia, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vald
-  population: 50000
-  packFolder: vylaria
-name:
-  full: Mercavia
-  aliases: []
-shortcode: mercavia
+description: "Provincial Capital (Economic Hub)"
+tags: [capital, provincial]
+data: {demonym: null, lore: [], parents: [vald], population: 50000, packFolder: vylaria}
 ---
 
 ## Overview

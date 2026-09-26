@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: journeymanrnk
+name: {full: Journeyman, aliases: []}
 type: lore
 subType: law
-name:
-  full: Journeyman
-  aliases: []
-shortcode: journeymanrnk
 description: "Out of apprenticeship and working for wages, not yet free to keep a shop."
+tags: [draft]
 ---
 
 Out of apprenticeship and working for wages, not yet free to keep a shop.

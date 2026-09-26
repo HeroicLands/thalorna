@@ -1,11 +1,6 @@
 ---
-name:
-  full: "Ba'alam Tza'ku"
 shortcode: baalamtzaku
+name: {full: "Ba'alam Tza'ku"}
 type: folder
-data:
-  parent:
-    default: polities
-    journals: south
-  color: "#66BB6A"
+data: {parent: {default: polities, journals: south}, color: "#66BB6A"}
 ---

@@ -1,20 +1,11 @@
 ---
-tags:
-  - city
-  - draft
-description: "City"
+shortcode: haxaman2
+name: {full: Ha' Xaman, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - haxamanrgn
-  population: 1500
-name:
-  full: Ha' Xaman
-  aliases: []
-shortcode: haxaman2
+description: "City"
+tags: [city, draft]
+data: {demonym: null, lore: [], parents: [haxamanrgn], population: 1500}
 ---
 
 ## Overview

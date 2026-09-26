@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Northern Fertile Region"
 shortcode: xerathianorthernfertileregion
+name: {full: "Northern Fertile Region"}
 type: folder
-data:
-  parent: heroesandknavesxerathia
-  color: "#6B8E23"
+data: {parent: heroesandknavesxerathia, color: "#6B8E23"}
 ---

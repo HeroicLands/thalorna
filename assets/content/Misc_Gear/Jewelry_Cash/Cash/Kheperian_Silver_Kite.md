@@ -1,26 +1,14 @@
 ---
-tags:
-  - jewelry_cash
-name:
-  full: Kheperian Silver Kite
-  aliases: ["Silver Kite", "Silver Qedét"]
-description: "Temple-attested silver weight-piece of one kite; the wage and market denomination."
 shortcode: skite
+name: {full: Kheperian Silver Kite, aliases: ["Silver Kite", "Silver Qedét"]}
 type: miscgear
-data:
-  icon: icon-coinsbdg
-  templatePriority: 0
-  packFolder: cash
+description: "Temple-attested silver weight-piece of one kite; the wage and market denomination."
+tags: [jewelry_cash]
+data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
 sohl:
-  craft:
-    skill: mtlc
-    secondary: []
+  craft: {skill: mtlc, secondary: []}
   kbcat: cash
-  system:
-    weightBase: 0.02
-    valueBase: 8
-    qualityBase: 0
-    durabilityBase: 3
+  system: {weightBase: 0.02, valueBase: 8, qualityBase: 0, durabilityBase: 3}
 ---
 
 A silver piece at one kite. This is the denomination wages are reckoned in and the one a working household sees most often in a good week—a day's skilled labor, a month's bread, the price of a decent tool.

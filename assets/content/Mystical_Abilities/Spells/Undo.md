@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Undo
-  aliases:
-    - Reverse
-description: "Reverses recent action; undoes last spell or change."
 shortcode: undo
+name: {full: Undo, aliases: [Reverse]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Reverses recent action; undoes last spell or change."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Reverse

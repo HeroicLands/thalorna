@@ -1,12 +1,9 @@
 ---
+shortcode: medicine
+name: {full: Medicine, aliases: []}
 type: lore
 subType: culture
-name:
-  full: Medicine
-  aliases: []
-shortcode: medicine
-data:
-  packFolder: tanvur
+data: {packFolder: tanvur}
 ---
 
 ## The Role of Apothecaries and Physicians in the Empire of Tānvür

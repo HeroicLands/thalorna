@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: The Dispelling Draft
-  aliases:
-    - Physic Elixir
-description: "Colorless liquid; suppresses other active elixirs in imbiber body."
 shortcode: elxphy
+name: {full: The Dispelling Draft, aliases: [Physic Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Colorless liquid; suppresses other active elixirs in imbiber body."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

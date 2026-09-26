@@ -1,24 +1,17 @@
 ---
-tags: []
-name:
-  full: Gauntlet
-  aliases: []
-description: "Caster's fists harden; strikes with supernatural force and damage."
 shortcode: gauntlet
+name: {full: Gauntlet, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
-  packFolder: spells
+description: "Caster's fists harden; strikes with supernatural force and damage."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Gauntlet

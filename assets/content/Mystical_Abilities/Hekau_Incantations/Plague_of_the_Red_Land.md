@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: Plague of the Red Land
-  aliases: []
-description: "Sets a wasting sickness on a stated population."
 shortcode: plgrdlnd
+name: {full: Plague of the Red Land, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: deshrut
-  templatePriority: null
-  packFolder: hekauincantations
+description: "Sets a wasting sickness on a stated population."
+tags: [khemenu-hekau, incantation]
+data: {icon: deshrut, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: deshrut
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---
 
 The House teaches it for the same reason Per-Sefút teaches unmaking: the physicians who break an

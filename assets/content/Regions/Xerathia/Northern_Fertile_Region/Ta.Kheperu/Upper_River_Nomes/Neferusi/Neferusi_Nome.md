@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: "Stone-quarries and master masons; the temple-workshops that carve the monuments—the land of the Nome of Neferusi, one of the upper-river nomes of Ta'Kheperu."
-name:
-  full: Neferusi Nome
-  aliases: []
 shortcode: neferusinome
+name: {full: Neferusi Nome, aliases: []}
 type: place
 subType: region
+description: "Stone-quarries and master masons; the temple-workshops that carve the monuments—the land of the Nome of Neferusi, one of the upper-river nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 500000
   packFolder: upperrivernomes
 ---

@@ -1,18 +1,10 @@
 ---
-description: "Region of independent city-states bound by Greek-like culture, shared games, and eternal rivalry—philosophers, sailors, and heroes in a land where honor is paid in blood and glory."
+shortcode: helionis
+name: {full: Heliónis, aliases: []}
 type: place
 subType: region
-data:
-  demonym: null
-  lore: []
-  parents:
-    - heladrgn
-  population: 3000000
-  packFolder: helionis
-name:
-  full: Heliónis
-  aliases: []
-shortcode: helionis
+description: "Region of independent city-states bound by Greek-like culture, shared games, and eternal rivalry—philosophers, sailors, and heroes in a land where honor is paid in blood and glory."
+data: {demonym: null, lore: [], parents: [heladrgn], population: 3000000, packFolder: helionis}
 ---
 
 ## Overview

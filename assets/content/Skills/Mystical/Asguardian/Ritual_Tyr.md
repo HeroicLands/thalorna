@@ -1,19 +1,10 @@
 ---
-tags:
-  - asguardian
-  - faith-skill
-  - draft
+shortcode: tyr
+name: {full: "Ritual: Týr", aliases: [The Just Path]}
 type: skill
 subType: mystical
-shortcode: tyr
-name:
-  full: "Ritual: Týr"
-  aliases:
-    - The Just Path
-data:
-  icon: tyr
-  templatePriority: null
-  packFolder: asguardian
+tags: [asguardian, faith-skill, draft]
+data: {icon: tyr, templatePriority: null, packFolder: asguardian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

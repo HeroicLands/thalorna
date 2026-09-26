@@ -1,16 +1,11 @@
 ---
-tags: []
-name:
-  full: Opsar
-  aliases: []
-description: "The Fish: easy with living things and with people, frail of body, no stomach for war."
 shortcode: opsar
+name: {full: Opsar, aliases: []}
 type: mystery
 subType: birthsign
-data:
-  icon: icon-astrology
-  templatePriority: 0
-  packFolder: astrokyklos
+description: "The Fish: easy with living things and with people, frail of body, no stomach for war."
+tags: []
+data: {icon: icon-astrology, templatePriority: 0, packFolder: astrokyklos}
 sohl:
   kbcat: birthsign
   system:

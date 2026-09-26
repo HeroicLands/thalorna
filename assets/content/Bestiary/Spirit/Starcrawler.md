@@ -1,13 +1,9 @@
 ---
-tags:
-  - spirit
-  - creature
-name:
-  full: Starcrawler
-  aliases: []
-description: "A rare celestial being of stellar essence given flesh, appearing where earth and sky grow thin, harmless yet utterly alien in its priorities."
 shortcode: strcrwlr
+name: {full: Starcrawler, aliases: []}
 type: being
+description: "A rare celestial being of stellar essence given flesh, appearing where earth and sky grow thin, harmless yet utterly alien in its priorities."
+tags: [spirit, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -42,21 +38,21 @@ sohl:
     rea: 1d4+5
     cre: 1d4+6
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 9 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 17 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 19 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 9 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 9 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 8 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 9 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 45 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 70 } }
-    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 36 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 56 } }
-    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 23 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 8}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 9}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 17}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 19}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 9}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 9}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 8}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 9}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 45}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 70}}
+    - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 30}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 36}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 56}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 23}}
     - name: Sharp Mandibles
       type: skill
       system:
@@ -64,35 +60,20 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 70
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: mandible
           name: Sharp Mandibles
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 1
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: -1
-            aspect: edged
+          attack: {disabled: false, spread: 1, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: -1, aspect: edged}
           lengthBase: 0
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
     - name: Paralyzing Venom
       type: skill
       system:
@@ -100,84 +81,56 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 70
         combatCategory: melee
-        impairedByRoles:
-          - locomotor
+        impairedByRoles: [locomotor]
         strikeMode:
           type: melee
           shortcode: sting
           name: Paralyzing Venom
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 1
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: -1
-            aspect: piercing
+          attack: {disabled: false, spread: 1, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: -1, aspect: piercing}
           lengthBase: 1
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
-            poison: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true, poison: true}
   system:
     body:
       structure:
         zones:
-          - name: Head
-            shortcode: headzone
-            probWeight: 1
-          - name: Thorax
-            shortcode: thoraxzone
-            probWeight: 1
-          - name: Abdomen
-            shortcode: abdomenzone
-            probWeight: 1
+          - {name: Head, shortcode: headzone, probWeight: 1}
+          - {name: Thorax, shortcode: thoraxzone, probWeight: 1}
+          - {name: Abdomen, shortcode: abdomenzone, probWeight: 1}
         parts:
           - name: Head
             shortcode: headpart
             bodyZoneCode: headzone
-            roles:
-              - vital
-              - manipulator
+            roles: [vital, manipulator]
             canHoldItem: false
             probWeight: 10
           - name: Thorax
             shortcode: thoraxpart
             bodyZoneCode: thoraxzone
-            roles:
-              - core
+            roles: [core]
             canHoldItem: false
             probWeight: 10
           - name: Left Legs
             shortcode: llegspart
             bodyZoneCode: thoraxzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 3
           - name: Right Legs
             shortcode: rlegspart
             bodyZoneCode: thoraxzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 3
           - name: Abdomen
             shortcode: abdomenpart
             bodyZoneCode: abdomenzone
-            roles:
-              - core
+            roles: [core]
             canHoldItem: false
             probWeight: 10
         locations:
@@ -188,11 +141,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 7
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Mandibles
             shortcode: mandibloc
             bodyPartCode: headpart
@@ -200,11 +149,7 @@ sohl:
             amputability: high
             shockValue: 2
             probWeight: 3
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Thorax
             shortcode: thoraxloc
             bodyPartCode: thoraxpart
@@ -212,11 +157,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 10
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Left Legs
             shortcode: llegsloc
             bodyPartCode: llegspart
@@ -224,11 +165,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Right Legs
             shortcode: rlegsloc
             bodyPartCode: rlegspart
@@ -236,11 +173,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Abdomen
             shortcode: abdloc
             bodyPartCode: abdomenpart
@@ -248,11 +181,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 8
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Sting
             shortcode: stingloc
             bodyPartCode: abdomenpart
@@ -260,14 +189,8 @@ sohl:
             amputability: high
             shockValue: 2
             probWeight: 2
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
-      weight:
-        base: 0
-        calc: "0"
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
+      weight: {base: 0, calc: "0"}
       reachBase: 0
       bodyScaleBase: 0.81
       personalFatigue: "enc + 5"

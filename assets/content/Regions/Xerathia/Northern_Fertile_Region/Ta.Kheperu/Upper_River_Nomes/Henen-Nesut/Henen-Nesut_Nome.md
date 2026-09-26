@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: "An old capital of a former dynasty, proud and faded; ram-cult and horse-pasture—the land of the Nome of Henen-Nesut, one of the upper-river nomes of Ta'Kheperu."
-name:
-  full: Henen-Nesut Nome
-  aliases: []
 shortcode: henennesutnome
+name: {full: Henen-Nesut Nome, aliases: []}
 type: place
 subType: region
+description: "An old capital of a former dynasty, proud and faded; ram-cult and horse-pasture—the land of the Nome of Henen-Nesut, one of the upper-river nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 340000
   packFolder: upperrivernomes
 ---

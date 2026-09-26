@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Blight
-  aliases:
-    - Pox
-description: "Withers crops and poisons soil; kills vegetation in spreading circle."
 shortcode: blight
+name: {full: Blight, aliases: [Pox]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
-  packFolder: spells
+description: "Withers crops and poisons soil; kills vegetation in spreading circle."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Pox

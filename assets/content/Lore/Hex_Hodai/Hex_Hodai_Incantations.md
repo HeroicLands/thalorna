@@ -1,17 +1,10 @@
 ---
-tags:
-  - lore
-  - arcane
-  - hex-hodai
-  - draft
+shortcode: hxhdncnttns
+name: {full: Héx Hodäi Incantations, aliases: []}
 type: lore
 subType: arcana
-shortcode: hxhdncnttns
-name:
-  full: Héx Hodäi Incantations
-  aliases: []
-data:
-  packFolder: affiliationshexhodai
+tags: [lore, arcane, hex-hodai, draft]
+data: {packFolder: affiliationshexhodai}
 ---
 
 ## Pyréthos (Fire)

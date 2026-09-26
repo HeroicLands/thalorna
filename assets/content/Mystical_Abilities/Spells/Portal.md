@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Portal
-  aliases:
-    - Gate
-description: "Opens gateway between two distant locations; enables instant travel."
 shortcode: portal
+name: {full: Portal, aliases: [Gate]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Opens gateway between two distant locations; enables instant travel."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Gate

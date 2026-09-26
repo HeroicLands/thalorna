@@ -1,23 +1,11 @@
 ---
-tags:
-  - site
-  - district
-  - magnapolis
-  - vylaria
-description: "The theater quarter of Magnápolis—semicircular theaters and odeons staging tragedy, comedy, recitation and music, home of the masked Vylarian stage and its celebrated machinery."
+shortcode: magntheatredstr
+name: {full: Theatre District, aliases: []}
 type: place
 subType: site
-data:
-  demonym: null
-  lore: []
-  parents:
-    - magnapolis
-  population: null
-  packFolder: vylaria
-name:
-  full: Theatre District
-  aliases: []
-shortcode: magntheatredstr
+description: "The theater quarter of Magnápolis—semicircular theaters and odeons staging tragedy, comedy, recitation and music, home of the masked Vylarian stage and its celebrated machinery."
+tags: [site, district, magnapolis, vylaria]
+data: {demonym: null, lore: [], parents: [magnapolis], population: null, packFolder: vylaria}
 ---
 
 The **Theatre District** is the quieter of Magnápolis's two quarters of pleasure—the Circus quarter

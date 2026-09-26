@@ -1,8 +1,6 @@
 ---
-name:
-  full: "Characteristics"
 shortcode: characteristics
+name: {full: "Characteristics"}
 type: folder
-data:
-  color: "#2C3E50"
+data: {color: "#2C3E50"}
 ---

@@ -1,18 +1,10 @@
 ---
-tags:
-  - kemetian
-  - faith-skill
-  - draft
+shortcode: shesmu
+name: {full: "Ritual: Shesmu", aliases: ["Shesmu, Patron of the Hunt"]}
 type: skill
 subType: mystical
-shortcode: shesmu
-name:
-  full: "Ritual: Shesmu"
-  aliases:
-    - Shesmu, Patron of the Hunt
-data:
-  templatePriority: null
-  packFolder: kemetian
+tags: [kemetian, faith-skill, draft]
+data: {templatePriority: null, packFolder: kemetian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

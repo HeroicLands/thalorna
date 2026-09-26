@@ -1,18 +1,11 @@
 ---
-tags:
-  - mild-elixir
-name:
-  full: "Mender's Paste"
-  aliases:
-    - Potion, Curative, Mild
-description: "Pale green poultice; heals wounds and promotes recovery."
 shortcode: ptncurm
+name: {full: "Mender's Paste", aliases: ["Potion, Curative, Mild"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: mild
+description: "Pale green poultice; heals wounds and promotes recovery."
+tags: [mild-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25

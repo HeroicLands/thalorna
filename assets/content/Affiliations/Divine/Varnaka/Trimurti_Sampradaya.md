@@ -1,18 +1,10 @@
 ---
-description: "Othodox, foundational religion of most Vedyaran city-states, balanced veneration of the cosmic triad."
-tags:
-  - varnaka
-  - faith
-  - sect
-  - orthodox
-name:
-  full: Trimūrti-sampradāya
-  aliases:
-    - Tradition of the Three Forms
-    - Trimūrti Tradition
 shortcode: trimurtisampradaya
+name: {full: Trimūrti-sampradāya, aliases: [Tradition of the Three Forms, Trimūrti Tradition]}
 type: affiliation
 subType: faithtradition
+description: "Othodox, foundational religion of most Vedyaran city-states, balanced veneration of the cosmic triad."
+tags: [varnaka, faith, sect, orthodox]
 data:
   banner: faithbnr
   templatePriority: null
@@ -28,14 +20,12 @@ data:
         title: Patita
         lore: excmmnctrnk
         description: >-
-          "Fallen"—put out of the tradition, denied its rites and its teaching, and not received
-          again by any of its houses.
+          "Fallen"—put out of the tradition, denied its rites and its teaching, and not received again by any of its houses.
       - level: 1
         title: Upāsaka
         lore: layfaithfulrnk
         description: >-
-          The lay follower, who keeps the observances and brings petitions without holding any
-          office in the tradition.
+          The lay follower, who keeps the observances and brings petitions without holding any office in the tradition.
       - level: 2
         title: Sevaka
         lore: initiaternk
@@ -63,15 +53,11 @@ data:
       Keeper of the Three Rites: >-
         Charged with the temple's observance of all three forms in their proper proportion, which is what the Sampradāya exists to maintain.
   seat: null
-  domains:
-    - chandrprbh
-    - himashila
-    - suryatempl
+  domains: [chandrprbh, himashila, suryatempl]
   population: null
   economy: []
   lore: []
-  parents:
-    - varakpnthn
+  parents: [varakpnthn]
   relations:
     varakpnthn: aligned
     ganakashala: rival

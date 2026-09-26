@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "The Sinalë reach Thalorna at approximately 7500 BF from a prior realm they do not disclose—the first of the Elder Races, and the beginning of the world's recorded history."
+shortcode: sinalearrv
+name: {full: The Coming of the Sinalë, aliases: [The Arrival of the Firstborn]}
 type: lore
 subType: history
-name:
-  full: The Coming of the Sinalë
-  aliases:
-    - The Arrival of the Firstborn
-shortcode: sinalearrv
-data:
-  packFolder: settinglore
+description: "The Sinalë reach Thalorna at approximately 7500 BF from a prior realm they do not disclose—the first of the Elder Races, and the beginning of the world's recorded history."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: arrival

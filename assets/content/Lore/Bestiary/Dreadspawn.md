@@ -1,14 +1,11 @@
 ---
-tags: []
-name:
-  full: Dreadspawn
-  aliases: []
-description: "Creatures made, not born—the work of any god of invention or creation, or of a mortal who dares it; none of them can breed, and some are favored templates recreated over and over."
 shortcode: dreadspawncrtr
+name: {full: Dreadspawn, aliases: []}
 type: lore
 subType: bestiary
-data:
-  banner: creaturebnr
+description: "Creatures made, not born—the work of any god of invention or creation, or of a mortal who dares it; none of them can breed, and some are favored templates recreated over and over."
+tags: []
+data: {banner: creaturebnr}
 ---
 
 Dreadspawn are creatures that were made, not born. They are not the creation of any single god; they are a manifestation of the powers of invention and creation themselves. Every pantheon has one or more gods of invention or creation, and each of them, in all likelihood, dabbles in the making of such things. Mortal agents make them too: a made man stitched together from the dead is a dreadspawn as surely as anything a god has shaped.

@@ -1,22 +1,15 @@
 ---
-tags: []
-name:
-  full: Quilted Monsoon Coat
-  aliases: []
-description: "Waxed quilted cotton coat worn on coastal patrol duty; light protection that turns rain as well as a blade."
 shortcode: mnsncoat
+name: {full: Quilted Monsoon Coat, aliases: []}
 type: armorgear
-data:
-  icon: icon-cloak
-  templatePriority: null
-  packFolder: armorarmor
+description: "Waxed quilted cotton coat worn on coastal patrol duty; light protection that turns rain as well as a blade."
+tags: []
+data: {icon: icon-cloak, templatePriority: null, packFolder: armorarmor}
 sohl:
   kbcat: quilted
   armorType: Coat
   detailMaterial: Waxed Monsoon-Cotton
-  craft:
-    skill: txtl
-    secondary: []
+  craft: {skill: txtl, secondary: []}
   system:
     weightBase: 7
     valueBase: 85
@@ -38,11 +31,7 @@ sohl:
         - lthghloc
         - rthghloc
       rigid: []
-    protectionBase:
-      blunt: 3
-      edged: 6
-      piercing: 4
-      fire: 3
+    protectionBase: {blunt: 3, edged: 6, piercing: 4, fire: 3}
     encumbrance: 3
     perceptionPenaltyBase: 0
 ---

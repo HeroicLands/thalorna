@@ -1,16 +1,8 @@
 ---
-tags:
-  - character
-  - draft
-  - embassy-to-tanvur
-name:
-  full: Nhelyn Vélthravel
-  title: ""
-  given: Nhelyn
-  clan: Vélthravel
-  aliases: []
 shortcode: nhelynvelthravel
+name: {full: Nhelyn Vélthravel, title: "", given: Nhelyn, clan: Vélthravel, aliases: []}
 type: being
+tags: [character, draft, embassy-to-tanvur]
 data:
   templatePriority: null
   archetypes: []
@@ -18,8 +10,7 @@ data:
   stations: []
   lore: []
   homes: []
-  affiliations:
-    - kingdmdnvr
+  affiliations: [kingdmdnvr]
   gender: male
   species: humanflk
   packFolder: adventures

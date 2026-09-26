@@ -1,22 +1,14 @@
 ---
-tags:
-  - town
-  - coastal
-  - port
-  - market
-description: "The seasonal port at the mouth of the Sarvada—a beach, a bar and a warehouse street that is a town for eight months and a fishing village for four."
-name:
-  full: Naughatta
-  aliases: []
 shortcode: naughatta
+name: {full: Naughatta, aliases: []}
 type: place
 subType: settlement
+description: "The seasonal port at the mouth of the Sarvada—a beach, a bar and a warehouse street that is a town for eight months and a fishing village for four."
+tags: [town, coastal, port, market]
 data:
   demonym: null
   lore: []
-  parents:
-    - vedyarargn
-    - sarvadarivr
+  parents: [vedyarargn, sarvadarivr]
   population: 1600
   market: 3
   packFolder: vedyara

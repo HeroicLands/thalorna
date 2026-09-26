@@ -1,16 +1,10 @@
 ---
-description: "Creation, building and renewal—the goddess who has raised the world five times, teaches that failure is how one learns to build better, and ranks her priests by craft rather than birth."
-tags:
-  - itzani
-  - religion
+shortcode: piqalkulqat
+name: {full: "Faith of P'iqal Kul'qat", aliases: [Builder of the Sacred Peak, "P'iqal Kul'qat"]}
 type: affiliation
 subType: faithtradition
-name:
-  full: "Faith of P'iqal Kul'qat"
-  aliases:
-    - Builder of the Sacred Peak
-    - "P'iqal Kul'qat"
-shortcode: piqalkulqat
+description: "Creation, building and renewal—the goddess who has raised the world five times, teaches that failure is how one learns to build better, and ranks her priests by craft rather than birth."
+tags: [itzani, religion]
 data:
   banner: faithbnr
   icon: null
@@ -21,109 +15,79 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A single priestly caste serving all ten gods, ranked by degree of initiation and by the
-      blood-debt a person carries rather than by which god they serve; the lay faithful are
-      bound by the calendar that same caste keeps.
+      A single priestly caste serving all ten gods, ranked by degree of initiation and by the blood-debt a person carries rather than by which god they serve; the lay faithful are bound by the calendar that same caste keeps.
     ranks:
       - level: 0
         title: Blood-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a
-          soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one sentence
-          that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: catechumenrnk
         description: >-
-          Consecrated at birth with water on the lips and counted among the faithful, but not
-          yet of an age to give blood or keep the fasts.
+          Consecrated at birth with water on the lips and counted among the faithful, but not yet of an age to give blood or keep the fasts.
       - level: 2
         title: Blood-Giver
         lore: layfaithfulrnk
         description: >-
-          The lay faithful, who pierce tongue or earlobe on the days the calendar appoints and
-          keep its prohibitions without holding office in the temple.
+          The lay faithful, who pierce tongue or earlobe on the days the calendar appoints and keep its prohibitions without holding office in the temple.
       - level: 3
         title: Debt-Bearer
         lore: layfaithfulrnk
         description: >-
-          Bound by a debt pledged beyond what the calendar requires—a captive dedicated in
-          advance, a pilgrimage undertaken, a season of autosacrifice vowed.
+          Bound by a debt pledged beyond what the calendar requires—a captive dedicated in advance, a pilgrimage undertaken, a season of autosacrifice vowed.
       - level: 4
         title: Tq'an'ik
         lore: initiaternk
         description: >-
-          "Edge-Walker"—an initiate serving in the temples while learning the calendar, the
-          sacred texts and the autosacrificial disciplines the priesthood demands of every
-          member.
+          "Edge-Walker"—an initiate serving in the temples while learning the calendar, the sacred texts and the autosacrificial disciplines the priesthood demands of every member.
       - level: 5
         title: Ch'ul'bal
         lore: priestrnk
         description: >-
-          "Sacred Servant"—an ordained priest, trained from childhood in mathematics,
-          astronomy, writing and the reading of celestial signs, who keeps the daily rites and
-          the codices.
+          "Sacred Servant"—an ordained priest, trained from childhood in mathematics, astronomy, writing and the reading of celestial signs, who keeps the daily rites and the codices.
       - level: 6
         title: K'ul
         lore: highpriestrnk
         description: >-
-          "Keeper"—head of one specialist branch within a temple complex, answerable to its
-          K'ul Tq'an and contending with the other branches for resources, precedence and
-          favor.
+          "Keeper"—head of one specialist branch within a temple complex, answerable to its K'ul Tq'an and contending with the other branches for resources, precedence and favor.
       - level: 7
         title: K'ul Tq'an
         lore: highpriestrnk
         description: >-
-          "Sacred Boundary"—high priest of a temple complex, who alone performs the great
-          sacrificial rites at the turning of the cosmic cycles and holds the calculations that
-          predict when an age will end.
+          "Sacred Boundary"—high priest of a temple complex, who alone performs the great sacrificial rites at the turning of the cosmic cycles and holds the calculations that predict when an age will end.
       - level: 8
         title: Presiding K'ul Tq'an
         lore: grandmasterrnk
         description: >-
-          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes
-          the calendar for the whole city, presides at the New Fire Ceremony, and rules whether
-          the gods approve a K'inmah's succession.
+          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the New Fire Ceremony, and rules whether the gods approve a K'inmah's succession.
     offices:
       K'ul Pu'itz: >-
-        Master of Sacred Work—head of the branch, and almost always a master mason of long
-        experience rather than a theologian.
+        Master of Sacred Work—head of the branch, and almost always a master mason of long experience rather than a theologian.
       Master of the Foundation: >-
-        Conducts Kul'qat Tik'il, the foundation-laying, and rules whether ground is fit to
-        carry what is proposed for it.
+        Conducts Kul'qat Tik'il, the foundation-laying, and rules whether ground is fit to carry what is proposed for it.
       Master of the Dedication: >-
-        Conducts Kul'qat Tzi'bal at a work's completion, and is the only priest empowered to
-        declare a building finished.
+        Conducts Kul'qat Tzi'bal at a work's completion, and is the only priest empowered to declare a building finished.
       Master of the Cord: >-
-        Sets out the lines and levels, working from the astronomers' alignments, and answers
-        for a structure that is out of true.
+        Sets out the lines and levels, working from the astronomers' alignments, and answers for a structure that is out of true.
       Keeper of the Quarries: >-
-        Holds the stone, the obsidian and the lime, and allocates them among the city's
-        competing works.
+        Holds the stone, the obsidian and the lime, and allocates them among the city's competing works.
       Master of Mortar: >-
         Oversees the mixing and the placing of jade into it, and trains the hands that do both.
       Warden of the Ruins: >-
-        Keeps the record of what has fallen and why, which the branch reads as the goddess's
-        own working notes rather than as failure.
+        Keeps the record of what has fallen and why, which the branch reads as the goddess's own working notes rather than as failure.
       Keeper of the Craft Rolls: >-
-        Holds the register of masons, plasterers, carvers and carpenters admitted to sacred
-        work, and strikes from it.
+        Holds the register of masons, plasterers, carvers and carpenters admitted to sacred work, and strikes from it.
   seat: null
   domains: []
   population: null
   economy: []
-  lore:
-    - piqalkulqatdty
-  parents:
-    - itzanpnthn
-  relations:
-    itzanpnthn: aligned
+  lore: [piqalkulqatdty]
+  parents: [itzanpnthn]
+  relations: {itzanpnthn: aligned}
   packFolder: pantheonitzani
-sohl:
-  system:
-    commonSkills:
-      - piqalkulqat
+sohl: {system: {commonSkills: [piqalkulqat]}}
 ---
 
 **Domain:** Creation, Building, Renewal, Craftsmanship, Architecture

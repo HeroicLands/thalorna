@@ -1,21 +1,13 @@
 ---
-tags:
-  - lore
-  - lineage
-description: "The Deep Folk: ancient stone-wrights of mountain and forge, vanishingly rare and withdrawn into hidden holds beneath the world's high places."
-type: lore
-subType: folk
+shortcode: flkkhazar
 name:
   full: Khazár Folk
-  aliases:
-    - Khazar
-    - The Deep Folk
-    - The Stone-Wrights
-    - The Under-Kin
-    - The Forge-Born
-shortcode: flkkhazar
-data:
-  packFolder: settinglore
+  aliases: [Khazar, The Deep Folk, The Stone-Wrights, The Under-Kin, The Forge-Born]
+type: lore
+subType: folk
+description: "The Deep Folk: ancient stone-wrights of mountain and forge, vanishingly rare and withdrawn into hidden holds beneath the world's high places."
+tags: [lore, lineage]
+data: {packFolder: settinglore}
 ---
 
 - **Common Names:** The Deep Folk, the Stone-Wrights, the Under-Kin, the Forge-Born

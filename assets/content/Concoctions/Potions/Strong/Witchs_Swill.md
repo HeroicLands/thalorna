@@ -1,18 +1,11 @@
 ---
-tags:
-  - strong-elixir
-name:
-  full: "Witch's Swill"
-  aliases:
-    - Potion, Emetic, Strong
-description: "Murky yellow-brown concentrate; causes sickness and repulsion."
 shortcode: ptnems
+name: {full: "Witch's Swill", aliases: ["Potion, Emetic, Strong"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: strong
+description: "Murky yellow-brown concentrate; causes sickness and repulsion."
+tags: [strong-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: strong}
 sohl:
   system:
     weightBase: 0.25

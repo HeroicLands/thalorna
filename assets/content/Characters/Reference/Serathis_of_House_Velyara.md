@@ -1,22 +1,19 @@
 ---
-tags:
-  - character
-  - reference
+shortcode: serathisofhousevelyara
 name:
   full: Seráthis of House Vélyara
   title: Lady
   given: Seráthis
   clan: of House Vélyara
   aliases: []
-description: "A noble widow whose husband died under mysterious circumstances."
-shortcode: serathisofhousevelyara
 type: being
+description: "A noble widow whose husband died under mysterious circumstances."
+tags: [character, reference]
 data:
   species: humanflk
   templatePriority: null
   archetypes: []
   stations: []
   lore: []
-  homes:
-    - vedyarargn
+  homes: [vedyarargn]
 ---

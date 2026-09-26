@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Brilliance
-  aliases:
-    - Flash
-description: "Caster radiates blinding white light; sears vision of those nearby."
 shortcode: brllnc
+name: {full: Brilliance, aliases: [Flash]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Caster radiates blinding white light; sears vision of those nearby."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Flash

@@ -1,24 +1,17 @@
 ---
-tags: []
-name:
-  full: Fount
-  aliases: []
-description: "Opens spring; manifests fresh water flowing from barren ground."
 shortcode: fount
+name: {full: Fount, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Opens spring; manifests fresh water flowing from barren ground."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 3
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Fount

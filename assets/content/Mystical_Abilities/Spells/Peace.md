@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Peace
-  aliases:
-    - Solace
-description: "Aura of calm; pacifies violent impulses and stops combat."
 shortcode: peace
+name: {full: Peace, aliases: [Solace]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
-  packFolder: spells
+description: "Aura of calm; pacifies violent impulses and stops combat."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Solace

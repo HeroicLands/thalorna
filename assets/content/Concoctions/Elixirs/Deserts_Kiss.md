@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: "Desert's Kiss"
-  aliases:
-    - Exsiccation Elixir
-description: "Chalky white dryness elixir; transforms water to mist in radius."
 shortcode: elxexs
+name: {full: "Desert's Kiss", aliases: [Exsiccation Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Chalky white dryness elixir; transforms water to mist in radius."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

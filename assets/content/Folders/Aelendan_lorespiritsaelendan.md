@@ -1,8 +1,6 @@
 ---
-name:
-  full: "Aelendan"
 shortcode: lorespiritsaelendan
+name: {full: "Aelendan"}
 type: folder
-data:
-  parent: lorespirits
+data: {parent: lorespirits}
 ---

@@ -1,20 +1,10 @@
 ---
-tags:
-  - organization
-  - crime
-  - underworld
-  - dunavarre
-  - aelwyth
-description: "The shadow court of Dúnavarre—the household of a crown the Ordo Arcanis set aside, kept alive by the dispossessed nobility as a criminal enterprise, a court of petition for subjects the Synod will not hear, and the one power on the island that has learned how not to be seen."
-name:
-  full: The Umbral Court
-  aliases:
-    - The Shadow Court
-    - The Set-Aside Crown
-    - The Second Face
 shortcode: umbralcourt
+name: {full: The Umbral Court, aliases: [The Shadow Court, The Set-Aside Crown, The Second Face]}
 type: affiliation
 subType: criminal
+description: "The shadow court of Dúnavarre—the household of a crown the Ordo Arcanis set aside, kept alive by the dispossessed nobility as a criminal enterprise, a court of petition for subjects the Synod will not hear, and the one power on the island that has learned how not to be seen."
+tags: [organization, crime, underworld, dunavarre, aelwyth]
 data:
   templatePriority: null
   demonym: null
@@ -23,93 +13,67 @@ data:
   governance:
     model: monarchy
     summary: >-
-      A royal household in every particular except a throne—a masked sovereign whose identity is
-      the organization's central secret, a Lord Chamberlain who actually runs it, and officers
-      holding the offices of a court that has not lawfully existed for generations. Members are
-      presented, not recruited; titles are granted, not earned; and the Court's judgments are
-      rendered in the forms the old crown used, which is precisely the point.
+      A royal household in every particular except a throne—a masked sovereign whose identity is the organization's central secret, a Lord Chamberlain who actually runs it, and officers holding the offices of a court that has not lawfully existed for generations. Members are presented, not recruited; titles are granted, not earned; and the Court's judgments are rendered in the forms the old crown used, which is precisely the point.
     ranks:
       - level: 0
         title: Attainted
         lore: outlawrnk
         description: >-
-          Struck from the rolls, with the attainder read aloud in the old form—no household on
-          the island will retain them, and the Court will not lift a hand when the Synod takes
-          them.
+          Struck from the rolls, with the attainder read aloud in the old form—no household on the island will retain them, and the Court will not lift a hand when the Synod takes them.
       - level: 1
         title: Petitioner
         lore: dependentrnk
         description: >-
-          Not a member at all: someone who has brought a matter before the Court and been heard.
-          Most of Dúnavarre's dealings with the Court never go beyond this, and a petition
-          granted is a debt owed.
+          Not a member at all: someone who has brought a matter before the Court and been heard. Most of Dúnavarre's dealings with the Court never go beyond this, and a petition granted is a debt owed.
       - level: 2
         title: Retainer
         lore: swornmemberrnk
         description: >-
-          Sworn into a courtier's household—the runners, doormen, dealers, watchers and
-          bought clerks who do the work and are told only their part of it.
+          Sworn into a courtier's household—the runners, doormen, dealers, watchers and bought clerks who do the work and are told only their part of it.
       - level: 3
         title: Courtier
         lore: gentryrnk
         description: >-
-          Presented before the Veiled Crown and holding a place at Court, entitled to speak in
-          its sessions and to be defended by it.
+          Presented before the Veiled Crown and holding a place at Court, entitled to speak in its sessions and to be defended by it.
       - level: 4
         title: Officer of the Household
         lore: officerrnk
         description: >-
-          Holder of one of the great offices—Chamberlain, Revels, Privy Purse, Rolls, Marshal,
-          Hunt, Herald—each with a portfolio and a household of its own.
+          Holder of one of the great offices—Chamberlain, Revels, Privy Purse, Rolls, Marshal, Hunt, Herald—each with a portfolio and a household of its own.
       - level: 5
         title: Peer of the Shadow
         lore: councillorrnk
         description: >-
-          Granted a title the Synod does not recognize and the old registers would have, and
-          seated in the council that advises the Crown and would choose the next one.
+          Granted a title the Synod does not recognize and the old registers would have, and seated in the council that advises the Crown and would choose the next one.
       - level: 6
         title: The Veiled Crown
         lore: sovereignrnk
         description: >-
-          The masked sovereign, addressed only in the third person, whose face perhaps six people
-          have seen and whose claim is the Court's greatest asset and its greatest vulnerability.
+          The masked sovereign, addressed only in the third person, whose face perhaps six people have seen and whose claim is the Court's greatest asset and its greatest vulnerability.
     offices:
       The Veiled Crown: The masked sovereign, in whose name every judgment is rendered.
       Lord Chamberlain: >-
-        Master of the household and, in practice, the executive of the whole organization—the
-        Crown reigns and the Chamberlain governs.
+        Master of the household and, in practice, the executive of the whole organization—the Crown reigns and the Chamberlain governs.
       Master of the Revels: >-
-        Keeper of the gaming houses, the salons and the private tables, which are the Court's
-        purse and its principal method of acquiring people.
+        Keeper of the gaming houses, the salons and the private tables, which are the Court's purse and its principal method of acquiring people.
       Keeper of the Privy Purse: >-
-        Treasurer, who moves the Court's money through chartered moneylenders and the paper-script
-        system without any of it appearing to be the Court's.
+        Treasurer, who moves the Court's money through chartered moneylenders and the paper-script system without any of it appearing to be the Court's.
       Master of the Rolls: >-
-        Keeper of the debt-book and the register of favors granted and owed. The most feared
-        office, because the rolls are the Court's real power and the Master knows every name in
-        them.
+        Keeper of the debt-book and the register of favors granted and owed. The most feared office, because the rolls are the Court's real power and the Master knows every name in them.
       Lord Marshal: Enforcement, and the discipline of the Court's own.
       Master of the Hunt: >-
-        Counter-surveillance—the office charged with knowing when the Synod is looking, and with
-        seeing that it finds nothing.
+        Counter-surveillance—the office charged with knowing when the Synod is looking, and with seeing that it finds nothing.
       Herald: >-
-        Keeper of the old registers and grantor of titles, whose office maintains the genealogies
-        on which the whole claim rests.
+        Keeper of the old registers and grantor of titles, whose office maintains the genealogies on which the whole claim rests.
   seat: ravenmoor
   domains: []
   population: null
   economy: []
   lore: []
   parents: []
-  relations:
-    kingdmdnvr: nemesis
-    ordoarcanis: nemesis
-    justbladeordr: rival
-    velvethand: aligned
+  relations: {kingdmdnvr: nemesis, ordoarcanis: nemesis, justbladeordr: rival, velvethand: aligned}
   packFolder: crimesyndicates
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 The **Umbral Court** is the criminal power of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], and

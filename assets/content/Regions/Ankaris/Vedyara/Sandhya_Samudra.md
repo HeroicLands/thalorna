@@ -1,24 +1,18 @@
 ---
-tags:
-  - region
-  - coastal
-description: "The western ocean off Vedyara—the sea of evening, an arid shore with no natural harbor on it, and the water Vedyari sailors know least."
-name:
-  full: Sandhyā-samudra
-  aliases:
-    - The Western Sea
 shortcode: sandhysmdr
+name: {full: Sandhyā-samudra, aliases: [The Western Sea]}
 type: place
 subType: region
+description: "The western ocean off Vedyara—the sea of evening, an arid shore with no natural harbor on it, and the water Vedyari sailors know least."
+tags: [region, coastal]
 data:
   demonym: null
   lore: []
-  parents:
-    - ankrscntnnt
+  parents: [ankrscntnnt]
   borders:
-    - { to: vedyarargn, bearing: E }
-    - { to: meghsamdra, bearing: SE }
-    - { to: xerathia, bearing: W }
+    - {to: vedyarargn, bearing: E}
+    - {to: meghsamdra, bearing: SE}
+    - {to: xerathia, bearing: W}
   population: null
   packFolder: vedyara
 ---

@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: Compulsion of the Named
-  aliases: []
-description: "Commands a person or thing by its true name, which it cannot refuse."
 shortcode: cmplsnnmd
+name: {full: Compulsion of the Named, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: rensesh
-  templatePriority: null
-  packFolder: hekauincantations
+description: "Commands a person or thing by its true name, which it cannot refuse."
+tags: [khemenu-hekau, incantation]
+data: {icon: rensesh, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: rensesh
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---
 
 The apex of the tradition and the reason true names are guarded as they are. The named cannot

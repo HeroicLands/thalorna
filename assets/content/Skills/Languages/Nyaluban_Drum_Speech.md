@@ -1,19 +1,11 @@
 ---
-tags:
-  - nyaluba
-description: "The drum register of Nyáluban—tonal melody struck rather than spoken, carrying names, summons and genealogies twenty kilometers."
+shortcode: nyalbdrm
+name: {full: Nyáluban Drum-Speech, aliases: [Drum-Speech, Drum-Speaking]}
 type: skill
 subType: language
-shortcode: nyalbdrm
-name:
-  full: Nyáluban Drum-Speech
-  aliases:
-    - Drum-Speech
-    - Drum-Speaking
-data:
-  icon: icon-speaking
-  templatePriority: null
-  packFolder: language
+description: "The drum register of Nyáluban—tonal melody struck rather than spoken, carrying names, summons and genealogies twenty kilometers."
+tags: [nyaluba]
+data: {icon: icon-speaking, templatePriority: null, packFolder: language}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

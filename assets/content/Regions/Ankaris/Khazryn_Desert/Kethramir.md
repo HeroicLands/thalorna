@@ -1,19 +1,14 @@
 ---
-tags:
-  - waypoint
-  - caravan
-description: "Caravan Waypoint"
-type: place
-name:
-  full: Kethramír
-  aliases: []
 shortcode: kethramir
+name: {full: Kethramír, aliases: []}
+type: place
 subType: settlement
+description: "Caravan Waypoint"
+tags: [waypoint, caravan]
 data:
   demonym: null
   lore: []
-  parents:
-    - swoasisbelt
+  parents: [swoasisbelt]
   population: 1200
   packFolder: khazryndesert
 ---

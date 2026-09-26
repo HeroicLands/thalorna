@@ -1,15 +1,12 @@
 ---
-tags: []
-type: affiliation
-description: The loose cultural-political confederation of Vedyara's village-cluster temple-republics—the small janapadas that, together with the great city-states, make up the bulk of Vedyari political life. No central authority; coordination through the great pilgrimage festivals and the shared Varnaka tradition.
+shortcode: janpdsvdyr
 name:
   full: Janapadas of Vedyara
-  aliases:
-    - Mahā-Sangha of Vedyara
-    - The Temple-Republics of Vedyara
-    - The Vedyari Janapadas
-shortcode: janpdsvdyr
+  aliases: [Mahā-Sangha of Vedyara, The Temple-Republics of Vedyara, The Vedyari Janapadas]
+type: affiliation
 subType: polity
+description: The loose cultural-political confederation of Vedyara's village-cluster temple-republics—the small janapadas that, together with the great city-states, make up the bulk of Vedyari political life. No central authority; coordination through the great pilgrimage festivals and the shared Varnaka tradition.
+tags: []
 data:
   templatePriority: null
   demonym: Vedyari
@@ -18,88 +15,64 @@ data:
   governance:
     model: confederation
     summary: >-
-      The Mahā-Sangha convenes and does not govern. It has no legislature, no taxation and no
-      standing institution between gatherings—only the offices the Mela itself needs, and
-      consensus among senior priests, enforced by the withdrawal of inter-janapada goodwill.
+      The Mahā-Sangha convenes and does not govern. It has no legislature, no taxation and no standing institution between gatherings—only the offices the Mela itself needs, and consensus among senior priests, enforced by the withdrawal of inter-janapada goodwill.
     ranks:
       - level: 0
         title: Outcaste
         lore: excmmnctrnk
         description: >-
-          Placed outside the tharana by transgression or by birth, excluded from the wells,
-          the temples and the courts.
+          Placed outside the tharana by transgression or by birth, excluded from the wells, the temples and the courts.
       - level: 1
         title: Bonded Servant
         lore: bondservantrnk
         description: >-
-          Bound by debt or birth to a household, owing labor and lacking the standing to hold
-          land.
+          Bound by debt or birth to a household, owing labor and lacking the standing to hold land.
       - level: 2
         title: Karmāja
         lore: commonerrnk
         description: >-
-          Born to the serving tharana—cultivators, artisans and laborers who hold their place by
-          work rather than by rite.
+          Born to the serving tharana—cultivators, artisans and laborers who hold their place by work rather than by rite.
       - level: 3
         title: Dhanāja
         lore: gentryrnk
         description: >-
-          Born to the productive tharana—merchants, herders and landholders, whose tithes in coin and
-          goods sustain the temple and its granary.
+          Born to the productive tharana—merchants, herders and landholders, whose tithes in coin and goods sustain the temple and its granary.
       - level: 4
         title: Senāja
         lore: warriorrnk
         description: >-
-          Born to the warrior tharana, bearing arms by right and owing service in the militia the sabhā
-          raises from the villages.
+          Born to the warrior tharana, bearing arms by right and owing service in the militia the sabhā raises from the villages.
       - level: 5
         title: Ritūja
         lore: priestrnk
         description: >-
-          Born to the priestly tharana, keeper of rite and learning, without whose sanction no act of
-          the sabhā is complete.
+          Born to the priestly tharana, keeper of rite and learning, without whose sanction no act of the sabhā is complete.
       - level: 6
         title: Sabhāsad
         lore: councillorrnk
         description: >-
-          A seated member of the sabhā, sent by a constituent village at its turn or by a guild
-          holding a reserved seat, and answerable to those who sent him.
+          A seated member of the sabhā, sent by a constituent village at its turn or by a guild holding a reserved seat, and answerable to those who sent him.
       - level: 7
         title: Sabhāpati
         lore: prsdngffcrrnk
         description: >-
-          The convening priest, who puts the sabhā's questions and declares what it has agreed.
-          He presides and does not rule, and only the ordained may hold the office.
+          The convening priest, who puts the sabhā's questions and declares what it has agreed. He presides and does not rule, and only the ordained may hold the office.
     offices:
       Sabhāpati of the Mela: >-
-        The senior priest of the temple at the Mela ground, who convenes the twelve-yearly
-        gathering and puts the business of its last ten days.
+        The senior priest of the temple at the Mela ground, who convenes the twelve-yearly gathering and puts the business of its last ten days.
       The Council of Three: >-
-        The senior priests of the three great pilgrim-temples of central Vedyara, whose joint
-        pronouncements carry across every janapada and who insist they are not an executive.
+        The senior priests of the three great pilgrim-temples of central Vedyara, whose joint pronouncements carry across every janapada and who insist they are not an executive.
       Circuit-Speaker: >-
-        The voice of one river-circuit's janapadas at the Mela, chosen by the circuit for the
-        gathering and holding nothing between gatherings.
+        The voice of one river-circuit's janapadas at the Mela, chosen by the circuit for the gathering and holding nothing between gatherings.
   seat: null
-  domains:
-    - vedyarargn
-    - sanghafort
-    - naughatta
-    - bharavamukha
+  domains: [vedyarargn, sanghafort, naughatta, bharavamukha]
   population: 90000000
-  economy:
-    - affiliation-mrchntclctvvdyr
-    - lore-vdyrnbnkng
-  lore:
-    - vedyariclt
+  economy: [affiliation-mrchntclctvvdyr, lore-vdyrnbnkng]
+  lore: [vedyariclt]
   parents: []
-  relations:
-    varakpnthn: aligned
+  relations: {varakpnthn: aligned}
   packFolder: vedyara
-sohl:
-  system:
-    commonSkills:
-      - vedyarlng
+sohl: {system: {commonSkills: [vedyarlng]}}
 
 # terran_analog: "Medieval South Indian sabhā/ur temple-republics—Chola-era brahmadeya village federations governed by temple-anchored assemblies, loosely confederated through pilgrimage networks and shared classical tradition rather than through any centralized political authority"
 ---

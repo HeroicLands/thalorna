@@ -1,19 +1,9 @@
 ---
-tags:
-  - city
-  - trading
-description: "Trade City"
+shortcode: aelissium
+name: {full: Aelissium, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vylariargn
-  population: 40000
-  packFolder: vylaria
-name:
-  full: Aelissium
-  aliases: []
-shortcode: aelissium
+description: "Trade City"
+tags: [city, trading]
+data: {demonym: null, lore: [], parents: [vylariargn], population: 40000, packFolder: vylaria}
 ---

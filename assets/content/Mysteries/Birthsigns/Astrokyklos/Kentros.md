@@ -1,16 +1,11 @@
 ---
-tags: []
-name:
-  full: Kentros
-  aliases: []
-description: "The Goad: restless of body and drawn to hidden things, with no use for field or forge."
 shortcode: kentros
+name: {full: Kentros, aliases: []}
 type: mystery
 subType: birthsign
-data:
-  icon: icon-astrology
-  templatePriority: 0
-  packFolder: astrokyklos
+description: "The Goad: restless of body and drawn to hidden things, with no use for field or forge."
+tags: []
+data: {icon: icon-astrology, templatePriority: 0, packFolder: astrokyklos}
 sohl:
   kbcat: birthsign
   system:

@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: "Owl's Benediction"
-  aliases:
-    - Darkvision Elixir
-description: "Midnight-blue elixir; grants darkness vision to distance of Aural Shock."
 shortcode: elxdrk
+name: {full: "Owl's Benediction", aliases: [Darkvision Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Midnight-blue elixir; grants darkness vision to distance of Aural Shock."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

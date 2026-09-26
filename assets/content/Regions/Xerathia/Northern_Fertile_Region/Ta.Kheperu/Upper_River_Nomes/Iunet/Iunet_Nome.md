@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: "Healing-temples and birth-shrines; the great cult of the mother-goddess—the land of the Nome of Iunet, one of the upper-river nomes of Ta'Kheperu."
-name:
-  full: Iunet Nome
-  aliases: []
 shortcode: iunetnome
+name: {full: Iunet Nome, aliases: []}
 type: place
 subType: region
+description: "Healing-temples and birth-shrines; the great cult of the mother-goddess—the land of the Nome of Iunet, one of the upper-river nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 560000
   packFolder: upperrivernomes
 ---

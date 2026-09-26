@@ -1,18 +1,11 @@
 ---
-tags:
-  - great-elixir
-name:
-  full: The Long Night
-  aliases:
-    - Potion, Soporific, Great
-description: "Nearly black liquid; induces prolonged darkness of consciousness."
 shortcode: ptnsopg
+name: {full: The Long Night, aliases: ["Potion, Soporific, Great"]}
 type: concoctiongear
 subType: exotic
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: great
+description: "Nearly black liquid; induces prolonged darkness of consciousness."
+tags: [great-elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: great}
 sohl:
   system:
     weightBase: 0.25

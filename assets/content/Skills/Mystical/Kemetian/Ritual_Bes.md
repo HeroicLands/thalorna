@@ -1,19 +1,10 @@
 ---
-tags:
-  - kemetian
-  - faith-skill
-  - draft
+shortcode: bes
+name: {full: "Ritual: Bēs", aliases: ["Bēs, Guardian of Night Visions"]}
 type: skill
 subType: mystical
-shortcode: bes
-name:
-  full: "Ritual: Bēs"
-  aliases:
-    - Bēs, Guardian of Night Visions
-data:
-  icon: bes
-  templatePriority: null
-  packFolder: kemetian
+tags: [kemetian, faith-skill, draft]
+data: {icon: bes, templatePriority: null, packFolder: kemetian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

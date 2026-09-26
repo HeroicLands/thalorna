@@ -1,19 +1,10 @@
 ---
-tags:
-  - celestial-pantheon
-  - faith-skill
-  - draft
+shortcode: vngdkzhtvr
+name: {full: "Ritual: Vëngdāk Zhütvōr", aliases: [Vëngdāk Zhütvōr, Vengdak Zhutvor]}
 type: skill
 subType: mystical
-shortcode: vngdkzhtvr
-name:
-  full: "Ritual: Vëngdāk Zhütvōr"
-  aliases:
-    - Vëngdāk Zhütvōr
-    - Vengdak Zhutvor
-data:
-  templatePriority: null
-  packFolder: tengvokvanlei
+tags: [celestial-pantheon, faith-skill, draft]
+data: {templatePriority: null, packFolder: tengvokvanlei}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

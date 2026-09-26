@@ -1,14 +1,10 @@
 ---
-description: "Reverence for the interconnected whole; ecological balance."
-tags:
-  - pantheon
-name:
-  full: "Thári'vaan"
-  aliases:
-    - The Living Whole
 shortcode: tharivaan
+name: {full: "Thári'vaan", aliases: [The Living Whole]}
 type: affiliation
 subType: faithtradition
+description: "Reverence for the interconnected whole; ecological balance."
+tags: [pantheon]
 data:
   banner: faithbnr
   templatePriority: null
@@ -18,12 +14,7 @@ data:
   governance:
     model: council
     summary: >-
-      The Ithári'kaan—"Keepers of What Was Left"—are the custodial priesthood at the spiritual and
-      institutional heart of Kaliharan society, organized into four ranks "each defined less by
-      hierarchy than by the kind of responsibility held." Their charge is to preserve the
-      precursors' knowledge, maintain the ancient structures, and keep the balance from being
-      disrupted; over eighty centuries the engineering has become liturgy, and they perform it with
-      meticulous precision whether or not the original purpose survives.
+      The Ithári'kaan—"Keepers of What Was Left"—are the custodial priesthood at the spiritual and institutional heart of Kaliharan society, organized into four ranks "each defined less by hierarchy than by the kind of responsibility held." Their charge is to preserve the precursors' knowledge, maintain the ancient structures, and keep the balance from being disrupted; over eighty centuries the engineering has become liturgy, and they perform it with meticulous precision whether or not the original purpose survives.
     ranks:
       - level: 0
         title: Unkept
@@ -39,47 +30,29 @@ data:
         title: kaan'sili
         lore: initiaternk
         description: >-
-          "One who watches"—the entry rank, taken by young Kaliharans selected between the ages of
-          eight and twelve. Fifteen to twenty years of apprenticeship at an interior sanctuary,
-          absorbing ecology, agriculture, liturgical procedure, ithári'sul maintenance and the
-          patterns of their assigned region. They assist and commit to memory; they do not perform
-          the great liturgies.
+          "One who watches"—the entry rank, taken by young Kaliharans selected between the ages of eight and twelve. Fifteen to twenty years of apprenticeship at an interior sanctuary, absorbing ecology, agriculture, liturgical procedure, ithári'sul maintenance and the patterns of their assigned region. They assist and commit to memory; they do not perform the great liturgies.
       - level: 3
         title: kaan'vaar
         lore: priestrnk
         description: >-
-          "One who holds"—the working rank, and the one most Kaliharans meet in daily life. Performs
-          the maintenance liturgies at a specific sanctuary or stretch of structures and teaches the
-          next generation of kaan'sili. Taken for life: retirement is not recognized, though an aged
-          kaan'vaar may have their duties reduced as strength fails.
+          "One who holds"—the working rank, and the one most Kaliharans meet in daily life. Performs the maintenance liturgies at a specific sanctuary or stretch of structures and teaches the next generation of kaan'sili. Taken for life: retirement is not recognized, though an aged kaan'vaar may have their duties reduced as strength fails.
       - level: 4
         title: kaan'thári
         lore: highpriestrnk
         description: >-
-          "One who keeps what came before"—the senior rank, reached after forty or fifty years. The
-          memory of the tradition, to whom others turn when a practice has drifted, a procedure has
-          been half-forgotten, or a structure fails in a way no living kaan'vaar has seen. Perhaps
-          two hundred exist at any time, and their counsel is sought well beyond the strictly
-          custodial.
+          "One who keeps what came before"—the senior rank, reached after forty or fifty years. The memory of the tradition, to whom others turn when a practice has drifted, a procedure has been half-forgotten, or a structure fails in a way no living kaan'vaar has seen. Perhaps two hundred exist at any time, and their counsel is sought well beyond the strictly custodial.
       - level: 5
         title: sílhari'kaan
         lore: grandmasterrnk
         description: >-
-          "Clear-seer of the keepers"—the rarest rank, perhaps a dozen at any time. Coordinates
-          custodial practice across the whole island, convenes the councils that decide when an
-          ancient procedure must be adjusted against structural failure, and carries in strict
-          confidence how deep the crisis of the failing structures has become.
+          "Clear-seer of the keepers"—the rarest rank, perhaps a dozen at any time. Coordinates custodial practice across the whole island, convenes the councils that decide when an ancient procedure must be adjusted against structural failure, and carries in strict confidence how deep the crisis of the failing structures has become.
     offices:
       Convener of the Councils: >-
         A sílhari'kaan calling the council that decides whether an inherited procedure may be adjusted in the face of a failing structure.
       Bearer of the Crisis: >-
         Holds, in strict confidence, the true extent of the structural failure. The knowledge does not descend below the sílhari'kaan.
       Warden of a Sanctuary: >-
-        Holds one of the two dozen interior sanctuaries—at once seminary, archive, workshop and
-        working site. Veshvaan in the central highlands is oldest and holds the most extensive
-        archives; Thal'ari on the western slopes forms custodians for coastal and oceanic
-        structures; Mirthaan in the eastern river valleys trains custodians of the agricultural
-        installations. No foreigner has ever been permitted to visit any of them.
+        Holds one of the two dozen interior sanctuaries—at once seminary, archive, workshop and working site. Veshvaan in the central highlands is oldest and holds the most extensive archives; Thal'ari on the western slopes forms custodians for coastal and oceanic structures; Mirthaan in the eastern river valleys trains custodians of the agricultural installations. No foreigner has ever been permitted to visit any of them.
       Teacher of the kaan'sili: >-
         The kaan'vaar's standing charge: the formation of the next generation, which is how an oral custodial tradition survives at all.
   seat: null
@@ -87,13 +60,10 @@ data:
   population: null
   economy: []
   lore: []
-  parents:
-    - tharivaan
+  parents: [tharivaan]
   relations: {}
   packFolder: pantheonstharivaan
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 ## Thári'vaan: The Living Whole

@@ -1,19 +1,9 @@
 ---
-tags:
-  - town
-  - hill
-description: "Hill Town"
+shortcode: torreviga
+name: {full: Torreviga, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - tarvenirgn
-  population: 2500
-  packFolder: tarvenia
-name:
-  full: Torreviga
-  aliases: []
-shortcode: torreviga
+description: "Hill Town"
+tags: [town, hill]
+data: {demonym: null, lore: [], parents: [tarvenirgn], population: 2500, packFolder: tarvenia}
 ---

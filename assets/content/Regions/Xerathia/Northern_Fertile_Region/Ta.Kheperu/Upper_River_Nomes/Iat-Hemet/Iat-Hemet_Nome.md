@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: "The smallest upper nome; a narrow gorge-stretch where the valley pinches to almost nothing—the land of the Nome of Iat-Hemet, one of the upper-river nomes of Ta'Kheperu."
-name:
-  full: Iat-Hemet Nome
-  aliases: []
 shortcode: iathemetnome
+name: {full: Iat-Hemet Nome, aliases: []}
 type: place
 subType: region
+description: "The smallest upper nome; a narrow gorge-stretch where the valley pinches to almost nothing—the land of the Nome of Iat-Hemet, one of the upper-river nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 80000
   packFolder: upperrivernomes
 ---

@@ -1,19 +1,9 @@
 ---
-tags:
-  - port
-  - town
-description: "Port Town"
-type: place
-name:
-  full: Kostaros
-  aliases: []
 shortcode: kostaros
+name: {full: Kostaros, aliases: []}
+type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - byzariargn
-  population: 6000
-  packFolder: byzaria
+description: "Port Town"
+tags: [port, town]
+data: {demonym: null, lore: [], parents: [byzariargn], population: 6000, packFolder: byzaria}
 ---

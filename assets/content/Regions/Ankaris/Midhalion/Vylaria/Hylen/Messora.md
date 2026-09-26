@@ -1,20 +1,11 @@
 ---
-tags:
-  - town
-description: "Town"
+shortcode: messora
+name: {full: Messora, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - hylen
-  population: 4000
-  packFolder: vylaria
-name:
-  full: Messora
-  aliases: []
-shortcode: messora
+description: "Town"
+tags: [town]
+data: {demonym: null, lore: [], parents: [hylen], population: 4000, packFolder: vylaria}
 ---
 
 ## Overview

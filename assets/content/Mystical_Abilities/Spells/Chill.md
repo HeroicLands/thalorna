@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Chill
-  aliases:
-    - Cooling
-description: "Radiates unnatural cold; freezes moisture and dulls warmth nearby."
 shortcode: chill
+name: {full: Chill, aliases: [Cooling]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
-  packFolder: spells
+description: "Radiates unnatural cold; freezes moisture and dulls warmth nearby."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Cooling

@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Gatepath
-  aliases:
-    - Passage
-description: "Opens doorway between distant locations; establishes passage through barriers."
 shortcode: gatepath
+name: {full: Gatepath, aliases: [Passage]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Opens doorway between distant locations; establishes passage through barriers."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Passage

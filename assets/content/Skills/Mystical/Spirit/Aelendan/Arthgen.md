@@ -1,20 +1,11 @@
 ---
-tags:
-  - first-gods
-  - spirit-power
-  - draft
-description: "Standing with Arthgen, the Bear of the High Corries—what this allied Kindred is met, asked and bargained with."
+shortcode: arthgensprt
+name: {full: "Arthgen Spirit Power", aliases: ["Arthgen, the Bear of the High Corries"]}
 type: skill
 subType: mystical
-shortcode: arthgensprt
-name:
-  full: "Arthgen Spirit Power"
-  aliases:
-    - Arthgen, the Bear of the High Corries
-data:
-  icon: icon-psychicwaves
-  templatePriority: null
-  packFolder: spiritskillsaelendan
+description: "Standing with Arthgen, the Bear of the High Corries—what this allied Kindred is met, asked and bargained with."
+tags: [first-gods, spirit-power, draft]
+data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsaelendan}
 sohl:
   system:
     skillBaseFormula: "@aur, @wil"

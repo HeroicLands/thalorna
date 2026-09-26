@@ -1,21 +1,11 @@
 ---
-tags:
-  - city
-  - provincial
-description: "Provincial City"
+shortcode: velysara
+name: {full: Velysâra, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - alyssa
-  population: 20000
-  packFolder: vylaria
-name:
-  full: Velysâra
-  aliases: []
-shortcode: velysara
+description: "Provincial City"
+tags: [city, provincial]
+data: {demonym: null, lore: [], parents: [alyssa], population: 20000, packFolder: vylaria}
 ---
 
 ## Overview

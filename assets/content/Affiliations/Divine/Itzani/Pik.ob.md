@@ -1,10 +1,10 @@
 ---
-description: "The owl keepers—the contemplative order within Tz'uqil Ix'bal's service, who tend groves where decay is left undisturbed, practice sky burial, and teach that impermanence is freedom rather than tragedy."
-tags:
-  - itzani
-  - religion
+shortcode: pikob
+name: {full: "Pik'ob", aliases: [The Owl Keepers, Owl Keepers]}
 type: affiliation
 subType: order
+description: "The owl keepers—the contemplative order within Tz'uqil Ix'bal's service, who tend groves where decay is left undisturbed, practice sky burial, and teach that impermanence is freedom rather than tragedy."
+tags: [itzani, religion]
 data:
   icon: null
   templatePriority: null
@@ -14,87 +14,71 @@ data:
   governance:
     model: council
     summary: >-
-      An order of elders rather than a chain of command: standing follows years of practice and
-      the judgment of those already keeping a grove, and no keeper can be ordered out of one.
+      An order of elders rather than a chain of command: standing follows years of practice and the judgment of those already keeping a grove, and no keeper can be ordered out of one.
     ranks:
       - level: 0
         title: Turned Away
         lore: expelledrnk
         description: >-
-          Put out of the groves—almost always for having crossed from accepting that all
-          things end into wishing to hasten the ending.
+          Put out of the groves—almost always for having crossed from accepting that all things end into wishing to hasten the ending.
       - level: 1
         title: Grieving
         lore: catechumenrnk
         description: >-
-          Brought to a grove by a loss and permitted to sit in it, under no obligation and
-          asked for nothing; most never return a second time.
+          Brought to a grove by a loss and permitted to sit in it, under no obligation and asked for nothing; most never return a second time.
       - level: 2
         title: Sitter
         lore: initiaternk
         description: >-
-          Received for the long practice—years of sitting where things are rotting and being
-          asked what they find objectionable about it.
+          Received for the long practice—years of sitting where things are rotting and being asked what they find objectionable about it.
       - level: 3
         title: Pik'ob
         lore: professedrnk
         description: >-
-          A professed owl keeper, of the order for life, holding nothing of their own and
-          maintaining nothing beyond what the grove requires.
+          A professed owl keeper, of the order for life, holding nothing of their own and maintaining nothing beyond what the grove requires.
       - level: 4
         title: Grove-Keeper
         lore: priestrnk
         description: >-
-          Holds one Ch'ulba K'anal: its boundary, its dead, and the discipline of leaving it
-          alone.
+          Holds one Ch'ulba K'anal: its boundary, its dead, and the discipline of leaving it alone.
       - level: 5
         title: Platform-Master
         lore: priestrnk
         description: >-
-          Conducts sky burial where the region practices it—the exposure, the reading of the
-          birds, and the gathering of the bared bone.
+          Conducts sky burial where the region practices it—the exposure, the reading of the birds, and the gathering of the bared bone.
       - level: 6
         title: Teacher of Dissolution
         lore: elderrnk
         description: >-
-          Trusted to instruct, which in this order means to sit with someone for years and
-          correct almost nothing.
+          Trusted to instruct, which in this order means to sit with someone for years and correct almost nothing.
       - level: 7
         title: K'ul Pik'ob
         lore: highpriestrnk
         description: >-
-          Keeper of the owls—head of the contemplative branch in a city, who answers to the
-          death-temple's K'ul Tq'an for what its philosophers say in public.
+          Keeper of the owls—head of the contemplative branch in a city, who answers to the death-temple's K'ul Tq'an for what its philosophers say in public.
     offices:
       K'ul Pik'ob: >-
-        Head of the branch in a city, and the keeper who must answer to the wider priesthood
-        for the order's more disturbing conclusions.
+        Head of the branch in a city, and the keeper who must answer to the wider priesthood for the order's more disturbing conclusions.
       Keeper of the Sacred Groves: >-
-        Maintains a Ch'ulba K'anal, where the natural cycle of decay proceeds with minimal
-        interference, and records what the forest takes.
+        Maintains a Ch'ulba K'anal, where the natural cycle of decay proceeds with minimal interference, and records what the forest takes.
       Master of the Platforms: >-
-        Oversees sky burial: the exposure of bodies, the reading of the birds, and the return
-        of bone to the family.
+        Oversees sky burial: the exposure of bodies, the reading of the birds, and the return of bone to the family.
       Teacher of Dissolution: >-
         Instructs the Sitters, chiefly by sitting with them, and judges when one may profess.
       Warden of the Abandoned Temple: >-
-        Holds a structure the order has deliberately ceased to maintain, and prevents anyone
-        from repairing it.
+        Holds a structure the order has deliberately ceased to maintain, and prevents anyone from repairing it.
       Reader of the Birds: >-
-        Attends an exposure and reports what came, in what order and how long it took—the
-        order's nearest thing to a record of the god's answer.
+        Attends an exposure and reports what came, in what order and how long it took—the order's nearest thing to a record of the god's answer.
       Keeper of the Bone: >-
         Gathers and returns the bared bone, and holds the ossuary where no family claims it.
       Warden of the Drifting: >-
-        Watches those whose philosophy is moving from acceptance toward acceleration, and is
-        the reason the order can still be trusted with the argument at all.
+        Watches those whose philosophy is moving from acceptance toward acceleration, and is the reason the order can still be trusted with the argument at all.
   seat: null
   domains: []
   population: null
   economy: []
   lore: []
-  parents:
-    - tzuqilixbal
+  parents: [tzuqilixbal]
   relations:
     itzanpnthn: aligned
     tzuqilixbal: aligned
@@ -102,16 +86,7 @@ data:
     pikultzumaq: nemesis
     piqalkulqat: rival
   packFolder: pantheonitzani
-name:
-  full: "Pik'ob"
-  aliases:
-    - The Owl Keepers
-    - Owl Keepers
-shortcode: pikob
-sohl:
-  system:
-    commonSkills:
-      - tzuqilixbal
+sohl: {system: {commonSkills: [tzuqilixbal]}}
 ---
 
 The **Pik'ob**—the owl keepers—represent the contemplative branch of [[affiliation-tzuqilixbal|Tz'uqil Ix'bal]]'s service. Where the Ix'bal'ob serve the jaguar who kills swiftly, the Pik'ob serve Pik'ik, the owl on the death god's brow, who watches as the jungle slowly reclaims what death has taken. They maintain the **Ch'ulba K'anal** ("Sacred Groves"), sanctuaries where the natural cycle of decay is allowed to proceed with minimal interference. In regions where the owl-aspect holds particular reverence, sky burial is practiced—bodies exposed on platforms where birds and insects reduce them to bare bone, accelerating the return to the earth.

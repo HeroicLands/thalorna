@@ -1,23 +1,11 @@
 ---
-tags:
-  - region
-  - mountain
-  - valley
-description: "The high valleys beneath Vorgald—a town, eight villages and some eight and a half thousand people, held by the Khazári and belonging to no Aelwythan realm."
+shortcode: vardainvalleys
+name: {full: The Vardain Valleys, aliases: []}
 type: place
 subType: region
-data:
-  demonym: null
-  lore:
-    - vardain
-  parents:
-    - ironfells
-  population: 8500
-  packFolder: aelwyth
-name:
-  full: The Vardain Valleys
-  aliases: []
-shortcode: vardainvalleys
+description: "The high valleys beneath Vorgald—a town, eight villages and some eight and a half thousand people, held by the Khazári and belonging to no Aelwythan realm."
+tags: [region, mountain, valley]
+data: {demonym: null, lore: [vardain], parents: [ironfells], population: 8500, packFolder: aelwyth}
 ---
 
 Beneath [[place-vorgald|Vorgald]], in the eastern heights of the [[place-ironfells|Ironfells]], a

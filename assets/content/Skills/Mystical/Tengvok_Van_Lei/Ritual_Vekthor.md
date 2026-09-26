@@ -1,21 +1,12 @@
 ---
-tags:
-  - celestial-pantheon
-  - faith-skill
-  - draft
-type: skill
-subType: mystical
 shortcode: vekthor
 name:
   full: "Ritual: Vëkthōr"
-  aliases:
-    - Vëkthōr
-    - Vekthor
-    - The Forger of False Records
-    - The Counterfeit Scribe
-data:
-  templatePriority: null
-  packFolder: tengvokvanlei
+  aliases: [Vëkthōr, Vekthor, The Forger of False Records, The Counterfeit Scribe]
+type: skill
+subType: mystical
+tags: [celestial-pantheon, faith-skill, draft]
+data: {templatePriority: null, packFolder: tengvokvanlei}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

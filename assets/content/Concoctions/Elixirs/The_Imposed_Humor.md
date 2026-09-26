@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: The Imposed Humor
-  aliases:
-    - Passion Elixir
-description: "Deep red-violet liquid; implants chosen mental disorder compulsively."
 shortcode: elxpas
+name: {full: The Imposed Humor, aliases: [Passion Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Deep red-violet liquid; implants chosen mental disorder compulsively."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

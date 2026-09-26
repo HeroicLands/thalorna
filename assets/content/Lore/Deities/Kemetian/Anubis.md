@@ -1,14 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: anubisdty
+name: {full: Ánubís, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Ánubís
-  aliases: []
-shortcode: anubisdty
-data:
-  packFolder: deitieskemetian
+tags: [draft]
+data: {packFolder: deitieskemetian}
 ---
 
 ![[icon-anubis|Ánubís]]{float: top-left, size: medium}

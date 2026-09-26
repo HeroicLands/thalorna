@@ -1,22 +1,13 @@
 ---
-tags: []
-name:
-  full: Dream-Stone
-  aliases: []
-description: "A smooth stone consecrated in the Dream-Stone Blessing, taken home by a petitioner of the Dream Assembly to carry the chamber's stillness with him."
 shortcode: dreamstone
+name: {full: Dream-Stone, aliases: []}
 type: miscgear
-data:
-  icon: icon-coinsbdg
-  templatePriority: null
-  packFolder: religious
+description: "A smooth stone consecrated in the Dream-Stone Blessing, taken home by a petitioner of the Dream Assembly to carry the chamber's stillness with him."
+tags: []
+data: {icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
 sohl:
   kbcat: religious
-  system:
-    weightBase: 0.3
-    valueBase: 40
-    qualityBase: 0
-    durabilityBase: 8
+  system: {weightBase: 0.3, valueBase: 40, qualityBase: 0, durabilityBase: 8}
 ---
 
 A river-smoothed stone, palm-sized and unmarked, blessed over a dream-chamber vigil in the [[affiliation-svapnasarisamaja|Svapnasāri-samāja]]'s Dream-Stone Blessing before it is given to a petitioner to carry home. It is not itself an oracle—the Samāja does not sell divination in a pocket—and a Darshaka will say plainly that the stone works no more than the stillness a person brings to holding it.

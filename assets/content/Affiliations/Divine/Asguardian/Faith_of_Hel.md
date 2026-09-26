@@ -1,9 +1,10 @@
 ---
-description: "Dead and Underworld."
-tags:
-  - asguardian
+shortcode: hel
+name: {full: Faith of Hél, aliases: [The Eternal Night]}
 type: affiliation
 subType: faithtradition
+description: "Dead and Underworld."
+tags: [asguardian]
 data:
   banner: faithbnr
   icon: hel
@@ -14,60 +15,48 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A ladder of circles, rising from the young Thraell through the working Godi or Gydja to the
-      senior ranks of Jarl and Konungr and the pontifical offices of the Allsherjargodi and the
-      Fadir or Módir of the god. The titles are this faith's own; the pattern is the pantheon's.
-      Circle II is unlisted in the sources.
+      A ladder of circles, rising from the young Thraell through the working Godi or Gydja to the senior ranks of Jarl and Konungr and the pontifical offices of the Allsherjargodi and the Fadir or Módir of the god. The titles are this faith's own; the pattern is the pantheon's. Circle II is unlisted in the sources.
     ranks:
       - level: 0
         title: Nídingr
         lore: excmmnctrnk
         description: >-
-          Declared nithing—cut off from the faith and from the standing that being of it
-          conferred. No hall will seat them and no godi will speak for them.
+          Declared nithing—cut off from the faith and from the standing that being of it conferred. No hall will seat them and no godi will speak for them.
       - level: 1
         title: Nádr Thraell
         lore: initiaternk
         description: >-
-          "Shadow Thrall"—Shadow Acolyte. The god's thrall: taken into the temple young, given the
-          observances and the labor, and years away from the priesthood.
+          "Shadow Thrall"—Shadow Acolyte. The god's thrall: taken into the temple young, given the observances and the labor, and years away from the priesthood.
       - level: 3
         title: Daudr Godi/Gode
         lore: priestrnk
         description: >-
-          "Priest/Priestess of Death"—Void Priest/Priestess. The working priest or priestess—Godi
-          for a man, Gydja for a woman—who keeps the rites of a hall and the people who gather at
-          it.
+          "Priest/Priestess of Death"—Void Priest/Priestess. The working priest or priestess—Godi for a man, Gydja for a woman—who keeps the rites of a hall and the people who gather at it.
       - level: 4
         title: Skuggi Hersir
         lore: commanderrnk
         description: >-
-          "Shadow Warlord"—Harbinger of Chaos. A warlord of the faith, carrying its authority where
-          it must be carried by force or by presence.
+          "Shadow Warlord"—Harbinger of Chaos. A warlord of the faith, carrying its authority where it must be carried by force or by presence.
       - level: 5
         title: Heljar Jarl
         lore: greatlordrnk
         description: >-
-          "Jarl of the Underworld"—Warden of the Abyss. A senior rank carrying temporal weight as
-          well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
+          "Jarl of the Underworld"—Warden of the Abyss. A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
       - level: 6
         title: Daudr Konungr/Konungrkvinde
         lore: sovereignrnk
         description: >-
-          "Death King/Queen"—Archshadow. King or queen within the faith's own hierarchy, and in some
-          kingdoms a power the crown must reckon with.
+          "Death King/Queen"—Archshadow. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
       - level: 7
         title: Ragnar Allsherjargodi
         lore: highpriestrnk
         description: >-
-          "Ragnar High Priest"—Doombringer. High priest—a pontifical office, speaking for the faith
-          where it must speak with one voice.
+          "Ragnar High Priest"—Doombringer. High priest—a pontifical office, speaking for the faith where it must speak with one voice.
       - level: 8
         title: Heljar Fadir/Módir
         lore: grandmasterrnk
         description: >-
-          "Father/Mother of Hel"—Pontiff of Despair. Father or Mother of the god: the highest
-          pontifical office, held by one person at a time.
+          "Father/Mother of Hel"—Pontiff of Despair. Father or Mother of the god: the highest pontifical office, held by one person at a time.
     offices:
       Order of the Void: >-
         A secretive group dedicated to sowing chaos and expanding the influence of the Eye of the Void.
@@ -89,21 +78,11 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - heldty
-  parents:
-    - asguardian
-  relations:
-    asguardian: aligned
+  lore: [heldty]
+  parents: [asguardian]
+  relations: {asguardian: aligned}
   packFolder: pantheonsasguardian
-name:
-  full: Faith of Hél
-  aliases:
-    - The Eternal Night
-shortcode: hel
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 Hél, the goddess of the underworld, harbors a profound disdain for life itself. She considers existence a blight upon the cosmos and works tirelessly to bring all creation to chaos and ruin. Her dominion over the underworld is absolute—a place of endless torment and despair, reflecting her contempt for living beings.

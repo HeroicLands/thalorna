@@ -1,20 +1,11 @@
 ---
-tags:
-  - first-gods
-  - spirit-power
-  - draft
-description: "Standing with Cadwyr, the Grey Wolf of the Ridge—what this allied Kindred is met, asked and bargained with."
+shortcode: cadwyrsprt
+name: {full: "Cadwyr Spirit Power", aliases: ["Cadwyr, the Grey Wolf of the Ridge"]}
 type: skill
 subType: mystical
-shortcode: cadwyrsprt
-name:
-  full: "Cadwyr Spirit Power"
-  aliases:
-    - Cadwyr, the Grey Wolf of the Ridge
-data:
-  icon: icon-psychicwaves
-  templatePriority: null
-  packFolder: spiritskillsaelendan
+description: "Standing with Cadwyr, the Grey Wolf of the Ridge—what this allied Kindred is met, asked and bargained with."
+tags: [first-gods, spirit-power, draft]
+data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsaelendan}
 sohl:
   system:
     skillBaseFormula: "@aur, @wil"

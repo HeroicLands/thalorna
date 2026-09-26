@@ -1,20 +1,11 @@
 ---
-tags:
-  - first-gods
-  - spirit-power
-  - draft
-description: "Standing with Gwalchen, the Hawk of the Spine—what this allied Kindred is met, asked and bargained with."
+shortcode: gwalchensprt
+name: {full: "Gwalchen Spirit Power", aliases: ["Gwalchen, the Hawk of the Spine"]}
 type: skill
 subType: mystical
-shortcode: gwalchensprt
-name:
-  full: "Gwalchen Spirit Power"
-  aliases:
-    - Gwalchen, the Hawk of the Spine
-data:
-  icon: icon-psychicwaves
-  templatePriority: null
-  packFolder: spiritskillsaelendan
+description: "Standing with Gwalchen, the Hawk of the Spine—what this allied Kindred is met, asked and bargained with."
+tags: [first-gods, spirit-power, draft]
+data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsaelendan}
 sohl:
   system:
     skillBaseFormula: "@aur, @wil"

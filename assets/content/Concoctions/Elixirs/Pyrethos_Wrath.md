@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: "Pyréthos's Wrath"
-  aliases:
-    - Eruption Elixir
-description: "Crimson heated liquid; explodes in acrid fumes causing severe damage."
 shortcode: elxerp
+name: {full: "Pyréthos's Wrath", aliases: [Eruption Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Crimson heated liquid; explodes in acrid fumes causing severe damage."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

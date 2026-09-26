@@ -1,21 +1,11 @@
 ---
-tags:
-  - nyaluba
-  - spirit-power
-  - draft
-description: "Standing with the eagle-spirit of the Ngonzi—what an allied guide of the Nyáluba Way is met and asked with."
+shortcode: eaglengonzisprt
+name: {full: "Eagle Spirit Power", aliases: [Eagle Spirit, Ngonzi Eagle]}
 type: skill
 subType: mystical
-shortcode: eaglengonzisprt
-name:
-  full: "Eagle Spirit Power"
-  aliases:
-    - Eagle Spirit
-    - Ngonzi Eagle
-data:
-  icon: icon-psychicwaves
-  templatePriority: null
-  packFolder: spiritskillsnyaluba
+description: "Standing with the eagle-spirit of the Ngonzi—what an allied guide of the Nyáluba Way is met and asked with."
+tags: [nyaluba, spirit-power, draft]
+data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsnyaluba}
 sohl:
   system:
     skillBaseFormula: "@aur, @wil"

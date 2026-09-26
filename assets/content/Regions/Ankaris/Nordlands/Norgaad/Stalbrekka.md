@@ -1,19 +1,9 @@
 ---
-tags:
-  - settlement
-  - mountain
-description: "Mountain Settlement"
+shortcode: stalbrekka
+name: {full: Stálbrekka, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - norgaad
-  population: 250
-  packFolder: norgaad
-name:
-  full: Stálbrekka
-  aliases: []
-shortcode: stalbrekka
+description: "Mountain Settlement"
+tags: [settlement, mountain]
+data: {demonym: null, lore: [], parents: [norgaad], population: 250, packFolder: norgaad}
 ---

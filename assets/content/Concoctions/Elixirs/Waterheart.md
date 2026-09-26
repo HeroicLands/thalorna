@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: Waterheart
-  aliases:
-    - Aqua Elixir
-description: "Pristine clear elixir; enhances water-breathing and aquatic movement."
 shortcode: elxaqu
+name: {full: Waterheart, aliases: [Aqua Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Pristine clear elixir; enhances water-breathing and aquatic movement."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

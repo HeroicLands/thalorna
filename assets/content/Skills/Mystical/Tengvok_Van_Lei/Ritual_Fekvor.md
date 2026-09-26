@@ -1,19 +1,10 @@
 ---
-tags:
-  - tengvok
-  - faith-skill
-  - draft
+shortcode: fekvor
+name: {full: "Ritual: Fëkvōr", aliases: [Fëkvōr, The Minister of Material Fortune]}
 type: skill
 subType: mystical
-shortcode: fekvor
-name:
-  full: "Ritual: Fëkvōr"
-  aliases:
-    - Fëkvōr
-    - The Minister of Material Fortune
-data:
-  templatePriority: null
-  packFolder: tengvokvanlei
+tags: [tengvok, faith-skill, draft]
+data: {templatePriority: null, packFolder: tengvokvanlei}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

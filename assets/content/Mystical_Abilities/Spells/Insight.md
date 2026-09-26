@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Insight
-  aliases:
-    - Diagnosis
-description: "Diagnostic magic revealing all physical traumas; enhances healing greatly."
 shortcode: insight
+name: {full: Insight, aliases: [Diagnosis]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-tree
-  templatePriority: null
-  packFolder: spells
+description: "Diagnostic magic revealing all physical traumas; enhances healing greatly."
+tags: []
+data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Diagnosis

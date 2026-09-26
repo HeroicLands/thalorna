@@ -1,20 +1,11 @@
 ---
-tags:
-  - fortress
-  - city
-description: "Fortress City"
+shortcode: gumushisar2
+name: {full: Gümüşhisar, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - byzariargn
-  population: 35000
-name:
-  full: Gümüşhisar
-  aliases: []
-shortcode: gumushisar2
+description: "Fortress City"
+tags: [fortress, city]
+data: {demonym: null, lore: [], parents: [byzariargn], population: 35000}
 ---
 
 ## Overview

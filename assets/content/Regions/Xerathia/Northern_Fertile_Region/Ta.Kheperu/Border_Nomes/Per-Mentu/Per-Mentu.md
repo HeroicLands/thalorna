@@ -1,21 +1,17 @@
 ---
-tags:
-  - town
-description: "Nome capital of Per-Mentu."
+shortcode: permentu
+name: {full: Per-Mentu, aliases: []}
 type: place
 subType: settlement
+description: "Nome capital of Per-Mentu."
+tags: [town]
 data:
   banner: takheperubnr
   demonym: null
   lore: []
-  parents:
-    - permentunome
+  parents: [permentunome]
   population: 13000
   packFolder: bordernomes
-name:
-  full: Per-Mentu
-  aliases: []
-shortcode: permentu
 ---
 
 ## Overview

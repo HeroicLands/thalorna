@@ -1,12 +1,9 @@
 ---
+shortcode: vushok
+name: {full: Vüshōk, aliases: []}
 type: lore
 subType: culture
-name:
-  full: Vüshōk
-  aliases: []
-shortcode: vushok
-data:
-  packFolder: castes
+data: {packFolder: castes}
 ---
 
 **Warrior Nobility**

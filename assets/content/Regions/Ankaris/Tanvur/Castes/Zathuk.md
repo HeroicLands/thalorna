@@ -1,12 +1,9 @@
 ---
+shortcode: zathuk
+name: {full: Zāthük, aliases: []}
 type: lore
 subType: culture
-name:
-  full: Zāthük
-  aliases: []
-shortcode: zathuk
-data:
-  packFolder: castes
+data: {packFolder: castes}
 ---
 
 **Artisans, Craftsmen, and Common Warriors**

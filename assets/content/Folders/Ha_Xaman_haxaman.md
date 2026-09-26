@@ -1,11 +1,6 @@
 ---
-name:
-  full: "Ha' Xaman"
 shortcode: haxaman
+name: {full: "Ha' Xaman"}
 type: folder
-data:
-  parent:
-    default: polities
-    journals: kichchik
-  color: "#4CAF50"
+data: {parent: {default: polities, journals: kichchik}, color: "#4CAF50"}
 ---

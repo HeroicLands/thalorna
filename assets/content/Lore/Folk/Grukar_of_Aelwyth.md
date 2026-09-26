@@ -1,15 +1,11 @@
 ---
-tags: []
-description: "The Grukar of Aelwyth—established on the island for nearly seven hundred years, endemic in the empty interior, fought without pause by the tribal peoples and endlessly contained on every civilized frontier, and hated by the Khazári for reasons the Deep Folk have never given."
+shortcode: grukaraelwyth
+name: {full: The Grukar of Aelwyth, aliases: [The Aelwyth Grukar]}
 type: lore
 subType: folk
-name:
-  full: The Grukar of Aelwyth
-  aliases:
-    - The Aelwyth Grukar
-shortcode: grukaraelwyth
-data:
-  packFolder: aelwyth
+description: "The Grukar of Aelwyth—established on the island for nearly seven hundred years, endemic in the empty interior, fought without pause by the tribal peoples and endlessly contained on every civilized frontier, and hated by the Khazári for reasons the Deep Folk have never given."
+tags: []
+data: {packFolder: aelwyth}
 ---
 
 There are **[[lore-grukarfolk|Grukar]] on Aelwyth**, and there have been for the better part of **seven

@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Inspire
-  aliases:
-    - Imbue
-description: "Temporary enhancement of target's attributes and mental capabilities."
 shortcode: inspire
+name: {full: Inspire, aliases: [Imbue]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Temporary enhancement of target's attributes and mental capabilities."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Imbue

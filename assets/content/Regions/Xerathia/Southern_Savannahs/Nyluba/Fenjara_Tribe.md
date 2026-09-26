@@ -1,15 +1,10 @@
 ---
-tags: []
-type: affiliation
-description: A small deep-bush tribe of the Nyáluba, leopard-totem and reckoned with the Sengala; hunters and trackers whose lineages are said to follow a trail across the spirit world as readily as across the ground.
-name:
-  full: Fénjara
-  aliases:
-    - The Fénjara
-    - Fénjara Tribe
-    - The Trackers
 shortcode: fenjara
+name: {full: Fénjara, aliases: [The Fénjara, Fénjara Tribe, The Trackers]}
+type: affiliation
 subType: polity
+description: A small deep-bush tribe of the Nyáluba, leopard-totem and reckoned with the Sengala; hunters and trackers whose lineages are said to follow a trail across the spirit world as readily as across the ground.
+tags: []
 data:
   templatePriority: null
   demonym: Fénjaran
@@ -18,28 +13,23 @@ data:
   governance:
     model: council
     summary: >-
-      A chieftain by descent and consent together, with the elders of the lineages settling what
-      custom does not already answer. The tribe sends a delegate to the Great Indaba and binds
-      itself to nothing there without the elders first agreeing it.
+      A chieftain by descent and consent together, with the elders of the lineages settling what custom does not already answer. The tribe sends a delegate to the Great Indaba and binds itself to nothing there without the elders first agreeing it.
     ranks:
       - level: 0
         title: Kinless
         lore: outlawrnk
         description: >-
-          Cast out by their own kin and claimed by none; owed no hospitality, no water and no
-          vengeance.
+          Cast out by their own kin and claimed by none; owed no hospitality, no water and no vengeance.
       - level: 1
         title: Bondservant
         lore: bondservantrnk
         description: >-
-          Held in service or debt to a household, and answerable through its head rather than
-          in their own name.
+          Held in service or debt to a household, and answerable through its head rather than in their own name.
       - level: 2
         title: Dependent
         lore: dependentrnk
         description: >-
-          Sheltered by a household without being of its blood—a client, a widow's family,
-          a taken-in stranger.
+          Sheltered by a household without being of its blood—a client, a widow's family, a taken-in stranger.
       - level: 3
         title: Kinsman
         lore: kinsmanrnk
@@ -48,54 +38,37 @@ data:
         title: Householder
         lore: commonerrnk
         description: >-
-          Head of a tent or hall, holding its herds and its people and speaking for them at
-          the moot.
+          Head of a tent or hall, holding its herds and its people and speaking for them at the moot.
       - level: 5
         title: Elder
         lore: elderrnk
-        description: Senior of a lineage, whose memory of custom and precedent settles what
-          the young dispute.
+        description: Senior of a lineage, whose memory of custom and precedent settles what the young dispute.
       - level: 6
         title: Chieftain
         lore: councillorrnk
         description: >-
-          Leading a clan or tribe by descent and by consent together, and losing it when either
-          fails.
+          Leading a clan or tribe by descent and by consent together, and losing it when either fails.
     offices:
-      Chieftain: Head of the tribe, holding by descent and consent together and losing it when
-        either fails.
+      Chieftain: Head of the tribe, holding by descent and consent together and losing it when either fails.
       Elder: Senior of a lineage, whose recollection of custom settles what the young dispute.
       Delegate: >-
         Sent to the Great Indaba of the confederation, empowered to argue and not to bind.
       Master of the Hunt: >-
-        Holder of the tribe's grounds—their game, their seasons and their standing pacts—and the one
-        who apportions a take.
+        Holder of the tribe's grounds—their game, their seasons and their standing pacts—and the one who apportions a take.
       Trail-Reader: >-
-        Charged with the reading of sign, and with teaching it; the office the tribe is known
-        for beyond its own country.
+        Charged with the reading of sign, and with teaching it; the office the tribe is known for beyond its own country.
       Keeper of the Feud: >-
-        Recorder of blood owed and blood paid between kindreds, without whom a settlement cannot
-        be reckoned.
-      Envoy: Sent to treat with the other tribes and with settled powers, and protected by
-        custom while he carries the word.
+        Recorder of blood owed and blood paid between kindreds, without whom a settlement cannot be reckoned.
+      Envoy: Sent to treat with the other tribes and with settled powers, and protected by custom while he carries the word.
   seat: fenjaravlg
-  domains:
-    - fenjaravlg
+  domains: [fenjaravlg]
   population: null
   economy: []
-  lore:
-    - humanflk
-  parents:
-    - nylbtrblntn
-  relations:
-    nylbtrblntn: aligned
-    nyalbleop: aligned
+  lore: [humanflk]
+  parents: [nylbtrblntn]
+  relations: {nylbtrblntn: aligned, nyalbleop: aligned}
   packFolder: politiesnyaluba
-sohl:
-  system:
-    commonSkills:
-      - nyalbnlng
-      - sohl-sohl-skill-trak
+sohl: {system: {commonSkills: [nyalbnlng, sohl-sohl-skill-trak]}}
 ---
 
 ## The Fénjara

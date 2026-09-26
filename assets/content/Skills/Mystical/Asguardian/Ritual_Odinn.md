@@ -1,19 +1,10 @@
 ---
-tags:
-  - asguardian
-  - faith-skill
-  - draft
+shortcode: odinn
+name: {full: "Ritual: Ódinn", aliases: [The Enlightened Path]}
 type: skill
 subType: mystical
-shortcode: odinn
-name:
-  full: "Ritual: Ódinn"
-  aliases:
-    - The Enlightened Path
-data:
-  icon: odinn
-  templatePriority: null
-  packFolder: asguardian
+tags: [asguardian, faith-skill, draft]
+data: {icon: odinn, templatePriority: null, packFolder: asguardian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

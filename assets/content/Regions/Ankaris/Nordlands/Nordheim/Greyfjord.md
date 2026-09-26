@@ -1,19 +1,9 @@
 ---
-tags:
-  - village
-  - fishing
-description: "Fishing Village"
+shortcode: greyfjord
+name: {full: Greyfjord, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - nordheim
-  population: 200
-  packFolder: nordheim
-name:
-  full: Greyfjord
-  aliases: []
-shortcode: greyfjord
+description: "Fishing Village"
+tags: [village, fishing]
+data: {demonym: null, lore: [], parents: [nordheim], population: 200, packFolder: nordheim}
 ---

@@ -1,24 +1,16 @@
 ---
-name:
-  full: Gróa's Campaign
-  aliases: []
 shortcode: groascmpgn
+name: {full: Gróa's Campaign, aliases: []}
 type: scenario
 subType: adventure
 data:
   parents: []
   locations: []
-  cast:
-    - grosdrnrgd
-    - rnhrngsdtr
-    - njorven
-    - kinghakoniii
+  cast: [grosdrnrgd, rnhrngsdtr, njorven, kinghakoniii]
   factions: []
   follows: []
   status: draft
-  party:
-    size: null
-    archetypes: []
+  party: {size: null, archetypes: []}
   packFolder: adventures
 ---
 

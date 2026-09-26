@@ -1,22 +1,11 @@
 ---
-tags:
-  - town
-  - market
-  - trading
-description: "The market town and baronial seat of Zûravlen, where every peach in the barony is graded, packed and sold, and where the autumn fair settles the year's accounts."
+shortcode: mercadaure
+name: {full: Mercadaure, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - zuravlenrgn
-  population: 1400
-  packFolder: provenzia
-name:
-  full: Mercadaure
-  aliases: []
-shortcode: mercadaure
+description: "The market town and baronial seat of Zûravlen, where every peach in the barony is graded, packed and sold, and where the autumn fair settles the year's accounts."
+tags: [town, market, trading]
+data: {demonym: null, lore: [], parents: [zuravlenrgn], population: 1400, packFolder: provenzia}
 ---
 
 **Mercadaure** stands where the Zûravlen valley opens toward the plain, and it exists to sell what the

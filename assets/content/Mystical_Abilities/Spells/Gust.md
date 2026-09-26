@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Gust
-  aliases:
-    - Wind
-description: "Conjures powerful wind; buffets targets and scatters loose objects."
 shortcode: gust
+name: {full: Gust, aliases: [Wind]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Conjures powerful wind; buffets targets and scatters loose objects."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 6
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Wind

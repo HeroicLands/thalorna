@@ -1,17 +1,11 @@
 ---
-tags: []
-name:
-  full: Thâravárkon Script
-  aliases:
-    - Thâravárkon
-description: "The graven letters of imperial Vylaria—the ceremonial runic script of temple, tomb and triumphal arch."
 shortcode: thrvrknscrpt
+name: {full: Thâravárkon Script, aliases: [Thâravárkon]}
 type: skill
 subType: script
-data:
-  icon: icon-speaking
-  templatePriority: null
-  packFolder: script
+description: "The graven letters of imperial Vylaria—the ceremonial runic script of temple, tomb and triumphal arch."
+tags: []
+data: {icon: icon-speaking, templatePriority: null, packFolder: script}
 sohl:
   system:
     skillBaseFormula: "@rea, @per"
@@ -20,9 +14,7 @@ sohl:
     combatCategory: none
     parentSkillCode: script
     initSkillMult: 0
-  flags:
-    "thalorna":
-      script_family: Runic
+  flags: {"thalorna": {script_family: Runic}}
 ---
 
 The Thâravárkon is the old carved script of the Vylari—angular, incised, and older than the Empire that inherited it. The name is Proto-Pelwar: _thura-vark_, "graven work," the same compound that the Nordmen still carry as [[skill-thuravarkscript|Thurávark]]. That two peoples separated by three thousand miles and as many years call their runes by cognate names is the strongest single piece of evidence that [[skill-vylarilng|Vylari]] and [[skill-nordmalng|Nordmal]] descend from one nomadic tongue, and Vylarian antiquarians who would rather not be cousins to the north have spent a great deal of ink trying to explain it away.

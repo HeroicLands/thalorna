@@ -1,19 +1,10 @@
 ---
-tags:
-  - kemetian
-  - faith-skill
-  - draft
+shortcode: horus
+name: {full: "Ritual: Hórús", aliases: ["Hórús, The Guiding Falcon"]}
 type: skill
 subType: mystical
-shortcode: horus
-name:
-  full: "Ritual: Hórús"
-  aliases:
-    - Hórús, The Guiding Falcon
-data:
-  icon: horus
-  templatePriority: null
-  packFolder: kemetian
+tags: [kemetian, faith-skill, draft]
+data: {icon: horus, templatePriority: null, packFolder: kemetian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

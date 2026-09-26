@@ -1,13 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: gentryrnk
+name: {full: Gentry, aliases: []}
 type: lore
 subType: law
-name:
-  full: Gentry
-  aliases: []
-shortcode: gentryrnk
 description: "Entitled to bear arms and be answered as a gentleman, holding no title of nobility."
+tags: [draft]
 ---
 
 Entitled to bear arms and be answered as a gentleman, holding no title of nobility.

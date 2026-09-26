@@ -1,17 +1,10 @@
 ---
-description: "Religion of the god of fire and of the change fire compels."
-tags:
-  - varnaka
-  - deity
-  - fire
-  - transformation
-name:
-  full: Rásikara
-  aliases:
-    - The Flame of Renewal
 shortcode: rasikara
+name: {full: Rásikara, aliases: [The Flame of Renewal]}
 type: affiliation
 subType: faithtradition
+description: "Religion of the god of fire and of the change fire compels."
+tags: [varnaka, deity, fire, transformation]
 data:
   banner: faithbnr
   templatePriority: null
@@ -49,18 +42,11 @@ data:
   domains: []
   population: null
   economy: []
-  lore:
-    - rasikaradty
-  parents:
-    - varakpnthn
-  relations:
-    varakpnthn: aligned
+  lore: [rasikaradty]
+  parents: [varakpnthn]
+  relations: {varakpnthn: aligned}
   packFolder: pantheonsvarnaka
-sohl:
-  system:
-    commonSkills:
-      - rasikara
-      - sohl-sohl-skill-srvl
+sohl: {system: {commonSkills: [rasikara, sohl-sohl-skill-srvl]}}
 ---
 
 ## Rásikara—The Flame of Renewal

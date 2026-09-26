@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Haven
-  aliases:
-    - Pocket
-description: "Caster creates safe space; location becomes sanctuary from magic."
 shortcode: haven
+name: {full: Haven, aliases: [Pocket]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Caster creates safe space; location becomes sanctuary from magic."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Pocket

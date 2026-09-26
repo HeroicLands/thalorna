@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: "Eastern desert wells and quarry-roads; a dry, sun-burned garrison nome—the land of the Nome of Iabet-Heqa, one of the border nomes of Ta'Kheperu."
-name:
-  full: Iabet-Heqa Nome
-  aliases: []
 shortcode: iabetheqanome
+name: {full: Iabet-Heqa Nome, aliases: []}
 type: place
 subType: region
+description: "Eastern desert wells and quarry-roads; a dry, sun-burned garrison nome—the land of the Nome of Iabet-Heqa, one of the border nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 210000
   packFolder: bordernomes
 ---

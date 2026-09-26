@@ -1,19 +1,10 @@
 ---
-tags:
-  - celestial-pantheon
-  - faith-skill
-  - draft
+shortcode: zhutshtlng
+name: {full: "Ritual: Zhütshüt Lüng", aliases: [Zhütshüt Lüng, Zhutshut Lung]}
 type: skill
 subType: mystical
-shortcode: zhutshtlng
-name:
-  full: "Ritual: Zhütshüt Lüng"
-  aliases:
-    - Zhütshüt Lüng
-    - Zhutshut Lung
-data:
-  templatePriority: null
-  packFolder: tengvokvanlei
+tags: [celestial-pantheon, faith-skill, draft]
+data: {templatePriority: null, packFolder: tengvokvanlei}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

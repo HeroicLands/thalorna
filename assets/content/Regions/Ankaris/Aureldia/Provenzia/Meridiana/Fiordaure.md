@@ -1,21 +1,11 @@
 ---
-tags:
-  - town
-  - coastal
-description: "A southern coastal town living on shipping and the great salt flats to its east—modest, wealthy for its size, and home to minor houses whose fortunes rest on salt rather than on land."
+shortcode: fiordaure
+name: {full: Fiòrdaure, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - meridiana
-  population: 6000
-  packFolder: provenzia
-name:
-  full: Fiòrdaure
-  aliases: []
-shortcode: fiordaure
+description: "A southern coastal town living on shipping and the great salt flats to its east—modest, wealthy for its size, and home to minor houses whose fortunes rest on salt rather than on land."
+tags: [town, coastal]
+data: {demonym: null, lore: [], parents: [meridiana], population: 6000, packFolder: provenzia}
 ---
 
 **Fiòrdaure** lies on the warm southern coast between the great ports, a town of some six thousand

@@ -1,18 +1,10 @@
 ---
-tags:
-  - khemenu-hekau
-  - draft
+shortcode: ankhkemet
+name: {full: "Hekau: Ankh'kemet", aliases: [Per-Ankh'kemet]}
 type: skill
 subType: mystical
-shortcode: ankhkemet
-name:
-  full: "Hekau: Ankh'kemet"
-  aliases:
-    - Per-Ankh'kemet
-data:
-  icon: ankhkemet
-  templatePriority: null
-  packFolder: khemenuhekau
+tags: [khemenu-hekau, draft]
+data: {icon: ankhkemet, templatePriority: null, packFolder: khemenuhekau}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"

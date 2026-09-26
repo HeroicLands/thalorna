@@ -1,15 +1,10 @@
 ---
-description: "Fire (destructive aspect)."
-tags:
-  - aureldian
-  - religion
-  - black-flame
-name:
-  full: The Black Flame
-  aliases: []
 shortcode: blackflame
+name: {full: The Black Flame, aliases: []}
 type: affiliation
 subType: faithtradition
+description: "Fire (destructive aspect)."
+tags: [aureldian, religion, black-flame]
 data:
   banner: faithbnr
   icon: blackflame
@@ -20,27 +15,23 @@ data:
   governance:
     model: oligarchy
     summary: >-
-      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the
-      Flame-Warden above them. The lay faithful keep the feasts without office.
+      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Flame-Warden above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
         title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cast out—denied the rites, the temple and the burial the faith promises, which is the one
-          sentence it can pass that outlives the body.
+          Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
         title: Fideles
         lore: layfaithfulrnk
         description: >-
-          The lay faithful, who keep the feasts and the observances of the god without holding office
-          in the temple.
+          The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
         title: Aspirant
         lore: initiaternk
         description: >-
-          Also called Acolytes of Ash—the newest members, who have passed the basic ordeals and
-          sworn oaths to Vúlcan's destructive vision.
+          Also called Acolytes of Ash—the newest members, who have passed the basic ordeals and sworn oaths to Vúlcan's destructive vision.
       - level: 3
         title: Scorchmaster
         lore: priestrnk
@@ -50,35 +41,25 @@ data:
         title: Flame-Warden
         lore: grandmasterrnk
         description: >-
-          Also styled Ashlord. Each leads a semi-independent cell or warband and operates alone; the
-          faith recognizes no Grand Pontifex and no supreme authority, and alliances between Wardens
-          are temporary.
+          Also styled Ashlord. Each leads a semi-independent cell or warband and operates alone; the faith recognizes no Grand Pontifex and no supreme authority, and alliances between Wardens are temporary.
     offices:
       Flame-Warden: >-
-        Also styled Ashlord. Each leads a semi-independent cell or warband and operates alone; the
-        faith recognizes no Grand Pontifex and no supreme authority, and alliances between Wardens
-        are temporary.
+        Also styled Ashlord. Each leads a semi-independent cell or warband and operates alone; the faith recognizes no Grand Pontifex and no supreme authority, and alliances between Wardens are temporary.
       Scorchmaster: >-
         Those who have undergone the highest ordeals and proven themselves as warriors and believers; lieutenants to a Flame-Warden, who train acolytes and lead its operations.
       Aspirant: >-
-        Also called Acolytes of Ash—the newest members, who have passed the basic ordeals and sworn
-        oaths to Vúlcan's destructive vision.
+        Also called Acolytes of Ash—the newest members, who have passed the basic ordeals and sworn oaths to Vúlcan's destructive vision.
       Ashlord: >-
         An alternative style for a Flame-Warden, used where the warband is large enough to hold territory.
   seat: null
   domains: []
   population: null
   economy: []
-  lore:
-    - vulcandty
-  parents:
-    - arldnpnthn
-  relations:
-    arldnpnthn: aligned
+  lore: [vulcandty]
+  parents: [arldnpnthn]
+  relations: {arldnpnthn: aligned}
   packFolder: pantheonsaureldian
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 - **Deity:** Vúlcan—_The Forge-Lord_

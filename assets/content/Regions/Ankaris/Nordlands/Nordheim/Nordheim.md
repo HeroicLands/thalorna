@@ -1,19 +1,14 @@
 ---
-tags:
-  - region
-description: "The land of the Kingdom of Nordheim—the northwestern coast of Ankaris, where jagged mountains plunge into icy fjords, with boreal forest, glacial valleys and high tundra behind."
-name:
-  full: Nordheim
-  aliases: []
 shortcode: nordheim
+name: {full: Nordheim, aliases: []}
 type: place
 subType: region
+description: "The land of the Kingdom of Nordheim—the northwestern coast of Ankaris, where jagged mountains plunge into icy fjords, with boreal forest, glacial valleys and high tundra behind."
+tags: [region]
 data:
   demonym: Nordem
-  lore:
-    - humanflk
-  parents:
-    - nrdlndsrgn
+  lore: [humanflk]
+  parents: [nrdlndsrgn]
   population: 650000
   packFolder: nordheim
 ---

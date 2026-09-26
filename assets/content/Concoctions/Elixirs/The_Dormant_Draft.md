@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: The Dormant Draft
-  aliases:
-    - Quiescence Elixir
-description: "Pale gray liquid; induces absolute stillness and living suspension."
 shortcode: elxqsc
+name: {full: The Dormant Draft, aliases: [Quiescence Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Pale gray liquid; induces absolute stillness and living suspension."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

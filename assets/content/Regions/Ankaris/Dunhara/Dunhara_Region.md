@@ -1,28 +1,22 @@
 ---
-tags:
-  - region
-description: Vast southern desert of tribal confederations, oral tradition, and the fire-and-light faith of the Āsháian Pantheon.
-name:
-  full: Dunhara Region
-  aliases:
-    - Dunhara
 shortcode: dunharargn
+name: {full: Dunhara Region, aliases: [Dunhara]}
 type: place
 subType: region
+description: Vast southern desert of tribal confederations, oral tradition, and the fire-and-light faith of the Āsháian Pantheon.
+tags: [region]
 data:
   icon: null
   demonym: Dunharan
-  lore:
-    - humanflk
-  parents:
-    - ankrscntnnt
+  lore: [humanflk]
+  parents: [ankrscntnnt]
   borders:
-    - { to: khzryndsrtrgn, bearing: NE }
-    - { to: vedyarargn, bearing: SE }
-    - { to: takheperurgn, bearing: SW }
-    - { to: khstmhttrgn, bearing: SW }
-    - { to: graznmntns, bearing: E }
-    - { to: vylarianse, bearing: W }
+    - {to: khzryndsrtrgn, bearing: NE}
+    - {to: vedyarargn, bearing: SE}
+    - {to: takheperurgn, bearing: SW}
+    - {to: khstmhttrgn, bearing: SW}
+    - {to: graznmntns, bearing: E}
+    - {to: vylarianse, bearing: W}
   population: 3000000
   packFolder: dunhara
 

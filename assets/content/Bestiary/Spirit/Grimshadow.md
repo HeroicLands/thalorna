@@ -1,13 +1,9 @@
 ---
-tags:
-  - spirit
-  - creature
-name:
-  full: Grimshadow
-  aliases: []
-description: "An ancient malevolent spirit born of concentrated terror, anchored to sites of tragedy where it feeds on fear and despair rather than flesh."
 shortcode: grmshdw
+name: {full: Grimshadow, aliases: []}
 type: being
+description: "An ancient malevolent spirit born of concentrated terror, anchored to sites of tragedy where it feeds on fear and despair rather than flesh."
+tags: [spirit, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -42,21 +38,21 @@ sohl:
     rea: 1d4+8
     cre: 1d4+12
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 17 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 60 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 70 } }
-    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 44 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 60 } }
-    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 28 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 17}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 15}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 70}}
+    - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 39}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 44}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 28}}
     - name: Shadow Strike
       type: skill
       system:
@@ -64,60 +60,37 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 74
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: punch
           name: Shadow Strike
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 1
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 0
-            aspect: blunt
+          attack: {disabled: false, spread: 1, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 0, aspect: blunt}
           lengthBase: 0
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
   system:
     body:
       structure:
         zones:
-          - name: Core
-            shortcode: corezone
-            probWeight: 1
-          - name: Shroud
-            shortcode: shroudzone
-            probWeight: 2
+          - {name: Core, shortcode: corezone, probWeight: 1}
+          - {name: Shroud, shortcode: shroudzone, probWeight: 2}
         parts:
           - name: Core
             shortcode: corepart
             bodyZoneCode: corezone
-            roles:
-              - vital
-              - core
+            roles: [vital, core]
             canHoldItem: false
             probWeight: 10
           - name: Shroud
             shortcode: shroudpart
             bodyZoneCode: shroudzone
-            roles:
-              - locomotor
-              - manipulator
+            roles: [locomotor, manipulator]
             canHoldItem: false
             probWeight: 10
         locations:
@@ -128,11 +101,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 10
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
           - name: Shroud
             shortcode: shroudloc
             bodyPartCode: shroudpart
@@ -140,14 +109,8 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 10
-            protectionBase:
-              blunt: 0
-              edged: 0
-              piercing: 0
-              fire: 0
-      weight:
-        base: 0
-        calc: "0"
+            protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
+      weight: {base: 0, calc: "0"}
       reachBase: 0
       bodyScaleBase: 1
       personalFatigue: "enc + 5"
@@ -159,34 +122,13 @@ sohl:
         encumbrance: "floor(wt/4)"
         strMod: "-5 * floor((str - 10) / 2)"
         factors:
-          - scope: surface_cover
-            key: wetlands
-            mode: override
-            textValue: "0"
-          - scope: surface_cover
-            key: dunes
-            mode: override
-            textValue: "0"
-          - scope: surface_cover
-            key: mixed_forest
-            mode: override
-            textValue: "0"
-          - scope: surface_cover
-            key: barren
-            mode: override
-            textValue: "0"
-          - scope: surface_cover
-            key: ruins
-            mode: override
-            textValue: "0"
-          - scope: hydrology
-            key: shallow
-            mode: override
-            textValue: "0"
-          - scope: hydrology
-            key: deep
-            mode: override
-            textValue: "0"
+          - {scope: surface_cover, key: wetlands, mode: override, textValue: "0"}
+          - {scope: surface_cover, key: dunes, mode: override, textValue: "0"}
+          - {scope: surface_cover, key: mixed_forest, mode: override, textValue: "0"}
+          - {scope: surface_cover, key: barren, mode: override, textValue: "0"}
+          - {scope: surface_cover, key: ruins, mode: override, textValue: "0"}
+          - {scope: hydrology, key: shallow, mode: override, textValue: "0"}
+          - {scope: hydrology, key: deep, mode: override, textValue: "0"}
         disabled: false
 ---
 

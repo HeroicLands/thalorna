@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Vision
-  aliases:
-    - Sight
-description: "Grants distant sight; sees location far away remotely."
 shortcode: vision
+name: {full: Vision, aliases: [Sight]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-anvilbdg
-  templatePriority: null
-  packFolder: spells
+description: "Grants distant sight; sees location far away remotely."
+tags: []
+data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Sight

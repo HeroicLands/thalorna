@@ -1,18 +1,9 @@
 ---
-tags:
-  - town
-description: "Town"
+shortcode: zaristan
+name: {full: Zaristan, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - amradadrgn
-  population: 5000
-  packFolder: amradad
-name:
-  full: Zaristan
-  aliases: []
-shortcode: zaristan
+description: "Town"
+tags: [town]
+data: {demonym: null, lore: [], parents: [amradadrgn], population: 5000, packFolder: amradad}
 ---

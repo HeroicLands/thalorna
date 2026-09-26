@@ -1,18 +1,10 @@
 ---
-tags:
-  - khemenu-hekau
-  - draft
+shortcode: sefut
+name: {full: "Hekau: Sefút", aliases: [Per-Sefút]}
 type: skill
 subType: mystical
-shortcode: sefut
-name:
-  full: "Hekau: Sefút"
-  aliases:
-    - Per-Sefút
-data:
-  icon: sefut
-  templatePriority: null
-  packFolder: khemenuhekau
+tags: [khemenu-hekau, draft]
+data: {icon: sefut, templatePriority: null, packFolder: khemenuhekau}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"

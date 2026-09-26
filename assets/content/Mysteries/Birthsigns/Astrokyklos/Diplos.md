@@ -1,16 +1,11 @@
 ---
-tags: []
-name:
-  full: Diplos
-  aliases: []
-description: "The Twins: clever, quick fingers for pen and craft, with no patience for old mysteries."
 shortcode: diplos
+name: {full: Diplos, aliases: []}
 type: mystery
 subType: birthsign
-data:
-  icon: icon-astrology
-  templatePriority: 0
-  packFolder: astrokyklos
+description: "The Twins: clever, quick fingers for pen and craft, with no patience for old mysteries."
+tags: []
+data: {icon: icon-astrology, templatePriority: 0, packFolder: astrokyklos}
 sohl:
   kbcat: birthsign
   system:

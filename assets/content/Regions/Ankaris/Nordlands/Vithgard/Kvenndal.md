@@ -1,19 +1,9 @@
 ---
-tags:
-  - settlement
-  - valley
-description: "Valley Settlement"
+shortcode: kvenndal
+name: {full: Kvenndal, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - vithgard
-  population: 250
-  packFolder: vithgard
-name:
-  full: Kvenndal
-  aliases: []
-shortcode: kvenndal
+description: "Valley Settlement"
+tags: [settlement, valley]
+data: {demonym: null, lore: [], parents: [vithgard], population: 250, packFolder: vithgard}
 ---

@@ -1,11 +1,9 @@
 ---
-description: "Variety of Asguardian Heroes."
-name:
-  full: Heroes of Asguard
-  aliases: []
+shortcode: heroessgrd
+name: {full: Heroes of Asguard, aliases: []}
 type: doc
 subType: reference
-shortcode: heroessgrd
+description: "Variety of Asguardian Heroes."
 ---
 
 ```sql

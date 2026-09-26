@@ -1,23 +1,11 @@
 ---
-tags:
-  - mountain
-  - frontier
-  - inland
-description: "The unbroken escarpment along Vedyara's whole northern margin—the highest ground on Thalorna, the source of the four great rivers, and the wall the subcontinent cannot go over."
+shortcode: sthrnwall
+name: {full: The Southern Wall, aliases: [The Wall]}
 type: place
 subType: feature
-data:
-  demonym: null
-  lore: []
-  parents:
-    - graznmntns
-  population: null
-  packFolder: vedyara
-name:
-  full: The Southern Wall
-  aliases:
-    - The Wall
-shortcode: sthrnwall
+description: "The unbroken escarpment along Vedyara's whole northern margin—the highest ground on Thalorna, the source of the four great rivers, and the wall the subcontinent cannot go over."
+tags: [mountain, frontier, inland]
+data: {demonym: null, lore: [], parents: [graznmntns], population: null, packFolder: vedyara}
 ---
 
 The **Southern Wall** is the long face of the [[place-graznmntns|Grazian Mountains]] that stands over [[place-vedyarargn|Vedyara]]. It is the reason the subcontinent has one land door and that door is in the west.

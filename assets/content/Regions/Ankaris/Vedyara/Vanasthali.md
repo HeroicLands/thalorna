@@ -1,20 +1,9 @@
 ---
-tags:
-  - village
-  - woodland
-  - inland
-description: "Small woodland village at the head of the valley, which cuts the timber of the academy halls and the fort."
+shortcode: vanasthali
+name: {full: Vanasthalī, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - dhanurkotajnpd
-  population: 330
-  packFolder: vedyara
-name:
-  full: Vanasthalī
-  aliases: []
-shortcode: vanasthali
+description: "Small woodland village at the head of the valley, which cuts the timber of the academy halls and the fort."
+tags: [village, woodland, inland]
+data: {demonym: null, lore: [], parents: [dhanurkotajnpd], population: 330, packFolder: vedyara}
 ---

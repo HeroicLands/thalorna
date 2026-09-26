@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The turkey as a totemic ideal, and the human character it describes."
+shortcode: turkeyttm
+name: {full: Turkey, aliases: [Turkey Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Turkey
-  aliases:
-    - Turkey Totem
-shortcode: turkeyttm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The turkey as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-turkeytotem|Turkey]]{float: top-left, size: medium}

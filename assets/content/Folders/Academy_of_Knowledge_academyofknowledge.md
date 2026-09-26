@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Academy of Knowledge"
 shortcode: academyofknowledge
+name: {full: "Academy of Knowledge"}
 type: folder
-data:
-  parent: organizations
-  color: "#808080"
+data: {parent: organizations, color: "#808080"}
 ---

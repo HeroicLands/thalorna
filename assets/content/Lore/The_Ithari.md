@@ -1,19 +1,11 @@
 ---
-tags:
-  - lore
-  - history
-  - kalihara
-description: "The people who came before—who arrived on Thalorna before 10,000 BF, raised Kaliharan civilization out of nothing, left works of a single substance standing across the world, met the Sinalë once and found them quaint, and departed at 7,300 BF for a destination no record names. Known to Kalihara alone; everywhere else there are only sites."
+shortcode: theithari
+name: {full: The Ithári, aliases: [Those Who Came Before, The Precursors]}
 type: lore
 subType: history
-name:
-  full: The Ithári
-  aliases:
-    - Those Who Came Before
-    - The Precursors
-shortcode: theithari
-data:
-  packFolder: settinglore
+description: "The people who came before—who arrived on Thalorna before 10,000 BF, raised Kaliharan civilization out of nothing, left works of a single substance standing across the world, met the Sinalë once and found them quaint, and departed at 7,300 BF for a destination no record names. Known to Kalihara alone; everywhere else there are only sites."
+tags: [lore, history, kalihara]
+data: {packFolder: settinglore}
 ---
 
 The **Ithári** are the oldest thing in the world's record that can be called a people, and the record

@@ -1,21 +1,11 @@
 ---
-tags:
-  - fortress
-  - city
-description: "Fortress City"
+shortcode: tzikinkul
+name: {full: Tz’ikin K’ul, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - kawiltzaklrgn
-  population: 900
-  packFolder: south
-name:
-  full: Tz’ikin K’ul
-  aliases: []
-shortcode: tzikinkul
+description: "Fortress City"
+tags: [fortress, city]
+data: {demonym: null, lore: [], parents: [kawiltzaklrgn], population: 900, packFolder: south}
 ---
 
 ## Overview

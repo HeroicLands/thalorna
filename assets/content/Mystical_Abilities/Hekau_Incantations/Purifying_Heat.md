@@ -1,26 +1,17 @@
 ---
-tags:
-  - khemenu-hekau
-  - incantation
-name:
-  full: Purifying Heat
-  aliases: []
-description: "Burns spiritual corruption out of a person, painfully and without touching the body."
 shortcode: prfynght
+name: {full: Purifying Heat, aliases: []}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: atenre
-  templatePriority: null
-  packFolder: hekauincantations
+description: "Burns spiritual corruption out of a person, painfully and without touching the body."
+tags: [khemenu-hekau, incantation]
+data: {icon: atenre, templatePriority: null, packFolder: hekauincantations}
 sohl:
   system:
     assocSkillCode: atenre
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 ---
 
 The formal cleansing worked on those who have killed, on practitioners returning from a term at

@@ -1,19 +1,12 @@
 ---
-tags:
-  - varnaka
-  - faith-skill
-type: skill
-subType: mystical
 shortcode: pavanajitras
 name:
   full: "Ritual: Pavanajitras"
-  aliases:
-    - Pavanajitras
-    - The Wandering Wind
-    - The Wind Spirits of the Road
-data:
-  templatePriority: null
-  packFolder: varnaka
+  aliases: [Pavanajitras, The Wandering Wind, The Wind Spirits of the Road]
+type: skill
+subType: mystical
+tags: [varnaka, faith-skill]
+data: {templatePriority: null, packFolder: varnaka}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Āsháian"
 shortcode: ashaian
+name: {full: "Āsháian"}
 type: folder
-data:
-  parent: pantheons
-  color: "#BA55D3"
+data: {parent: pantheons, color: "#BA55D3"}
 ---

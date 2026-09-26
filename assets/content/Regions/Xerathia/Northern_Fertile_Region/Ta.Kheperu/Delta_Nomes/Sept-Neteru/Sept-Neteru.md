@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: "The shrine-islands; a quiet pilgrimage nome of marsh-temples and few people—the land of the Nome of Sept-Neteru, one of the delta nomes of Ta'Kheperu."
-name:
-  full: Sept-Neteru
-  aliases: []
 shortcode: septneterunome
+name: {full: Sept-Neteru, aliases: []}
 type: place
 subType: region
+description: "The shrine-islands; a quiet pilgrimage nome of marsh-temples and few people—the land of the Nome of Sept-Neteru, one of the delta nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 150000
   packFolder: deltanomes
 ---

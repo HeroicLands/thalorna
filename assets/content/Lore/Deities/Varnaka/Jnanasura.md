@@ -1,14 +1,11 @@
 ---
-tags: []
-description: "The Radiant Sage of the Varnaka pantheon—knowledge arriving rather than knowledge stored, and the interior light a scholar or a soldier reads by."
+shortcode: jnanasuradty
+name: {full: Jñānasūra, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Jñānasūra
-  aliases: []
-shortcode: jnanasuradty
-data:
-  packFolder: deitiesvarnaka
+description: "The Radiant Sage of the Varnaka pantheon—knowledge arriving rather than knowledge stored, and the interior light a scholar or a soldier reads by."
+tags: []
+data: {packFolder: deitiesvarnaka}
 ---
 
 _The Radiant Sage—an open book blazing with the light of a rising sun._

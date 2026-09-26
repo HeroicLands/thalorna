@@ -1,12 +1,9 @@
 ---
+shortcode: intrnlsbvrsvthrts
+name: {full: Internal Subversive Threats, aliases: []}
 type: lore
 subType: history
-name:
-  full: Internal Subversive Threats
-  aliases: []
-shortcode: intrnlsbvrsvthrts
-data:
-  packFolder: threats
+data: {packFolder: threats}
 ---
 
 The [[affiliation-tanvurempr|Empire of Tānvür]] faces numerous threats from within—secret societies, rogue magic-users, caste unrest, and natural disaster conspire to undermine the imperial order.

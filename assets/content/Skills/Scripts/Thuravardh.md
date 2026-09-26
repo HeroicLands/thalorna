@@ -1,17 +1,11 @@
 ---
-tags: []
-name:
-  full: Thúravardh Script
-  aliases:
-    - Thúravardh
-description: "The old Áelendan runes—the softened western branch of the graven work, kept alive in magical texts, poetry, and things too old to rewrite."
 shortcode: thrvrdhscrpt
+name: {full: Thúravardh Script, aliases: [Thúravardh]}
 type: skill
 subType: script
-data:
-  icon: icon-speaking
-  templatePriority: null
-  packFolder: script
+description: "The old Áelendan runes—the softened western branch of the graven work, kept alive in magical texts, poetry, and things too old to rewrite."
+tags: []
+data: {icon: icon-speaking, templatePriority: null, packFolder: script}
 sohl:
   system:
     skillBaseFormula: "@rea, @per"
@@ -20,9 +14,7 @@ sohl:
     combatCategory: none
     parentSkillCode: script
     initSkillMult: 0
-  flags:
-    "thalorna":
-      script_family: Runic
+  flags: {"thalorna": {script_family: Runic}}
 ---
 
 Thúravardh is the third branch of the graven work. Proto-Pelwar _thura-vark_ gives Nordmal [[skill-thuravarkscript|Thurávark]] and imperial [[skill-thrvrknscrpt|Thâravárkon]]; in the mouths of the [[lore-aelendnppl|Áelendan]] highlanders, who lenite where their cousins harden, it came out **Thúravardh**, and the letterforms softened with the name. All three descend, at a distance no one can measure, from Khazári [[skill-drthrkscrpt|Durthrak]]—by way of a single Proto-Pelwar row taught to the mountain tribes when those tribes were Khazári subjects, if the usual account is right. The Áelendan find this unremarkable and say so: the Kindred Pact tradition holds that everything worth having was received from something older, and a people embarrassed by that has misunderstood its own position. The Nordmen refuse it outright. The staves are still cut rather than written, but curves are permitted, the terminals are hooked, and the whole row looks like something between a rune and a vine.

@@ -1,18 +1,11 @@
 ---
-tags:
-  - nyaluba
-  - religion
+shortcode: nyalbsprts
+name: {full: Nyáluba Spirits, aliases: [The Guides, The Totems and Spirits]}
 type: lore
 subType: spirit
 description: "The spirit guides of the Nyáluba—totem, land, water, hunt, weather, ancestor and hearth—and the three postures by which each is met: venerated, appeased, or warded against."
-name:
-  full: Nyáluba Spirits
-  aliases:
-    - The Guides
-    - The Totems and Spirits
-shortcode: nyalbsprts
-data:
-  packFolder: settinglore
+tags: [nyaluba, religion]
+data: {packFolder: settinglore}
 ---
 
 The spirits are the active substance of the [[affiliation-nyalbpnthn|Nyáluba Way]]. Beneath the

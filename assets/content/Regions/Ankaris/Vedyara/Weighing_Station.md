@@ -1,23 +1,11 @@
 ---
-tags:
-  - sacred
-  - mining
-  - mountain
-  - inland
-description: "The open shed at Middle Suvarnagiri where the month's gold is weighed in public at each new moon, and the whole Gold Constitution rests on it."
+shortcode: weighingstn
+name: {full: The Weighing-Station, aliases: []}
 type: place
 subType: structure
-data:
-  demonym: null
-  lore: []
-  parents:
-    - suvarnagirijnpd
-  population: null
-  packFolder: vedyara
-name:
-  full: The Weighing-Station
-  aliases: []
-shortcode: weighingstn
+description: "The open shed at Middle Suvarnagiri where the month's gold is weighed in public at each new moon, and the whole Gold Constitution rests on it."
+tags: [sacred, mining, mountain, inland]
+data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: null, packFolder: vedyara}
 ---
 
 The **weighing-station** stands at Middle Suvarnagiri beside the common treasury, and it is the one thing in the janapada that does not rotate. Every ounce the twenty-eight panning families win comes here. At each new moon the previous moon's gold is weighed in the open, before whichever sabhā representatives have come down for it, and the weights are read out and entered.

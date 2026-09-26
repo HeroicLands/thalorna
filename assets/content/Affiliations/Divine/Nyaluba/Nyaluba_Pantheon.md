@@ -1,18 +1,12 @@
 ---
-tags:
-  - nyaluba
-  - religion
-  - totemic
-description: "The shamanic tradition of the Nyáluba Tribal Nation—one unvenerated source, many venerated spirit guides, five clan totems, and a council of shamans in place of any priesthood."
+shortcode: nyalbpnthn
 name:
   full: Nyáluba Pantheon
-  aliases:
-    - The Nyáluba Way
-    - The Totems of the Nyáluba
-    - Nyáluba Faith
-shortcode: nyalbpnthn
+  aliases: [The Nyáluba Way, The Totems of the Nyáluba, Nyáluba Faith]
 type: affiliation
 subType: spirittradition
+description: "The shamanic tradition of the Nyáluba Tribal Nation—one unvenerated source, many venerated spirit guides, five clan totems, and a council of shamans in place of any priesthood."
+tags: [nyaluba, religion, totemic]
 data:
   templatePriority: null
   demonym: null
@@ -21,78 +15,59 @@ data:
   governance:
     model: council
     summary: >-
-      No hierarch and no single voice: a council of Spirit-Speakers and Elder Shamans in which
-      the elders' word carries the greater weight, seeking consensus rather than imposing it.
+      No hierarch and no single voice: a council of Spirit-Speakers and Elder Shamans in which the elders' word carries the greater weight, seeking consensus rather than imposing it.
     ranks:
       - level: 0
         title: Spirit-shunned
         lore: excmmnctrnk
         description: >-
-          Turned from by the spirits and by those who keep them: no rite will include them, no
-          pact will cover them, and no griot will speak their name in a genealogy.
+          Turned from by the spirits and by those who keep them: no rite will include them, no pact will cover them, and no griot will speak their name in a genealogy.
       - level: 1
         title: Uninitiated
         lore: catechumenrnk
         description: >-
-          Living under the observances, the totem law and the clan's pacts without having
-          entered the tradition—most of the people, most of the time.
+          Living under the observances, the totem law and the clan's pacts without having entered the tradition—most of the people, most of the time.
       - level: 2
         title: Initiate
         lore: initiaternk
         description: >-
-          Taken through the ordeal and received; learning the pacts, the protocols and the three
-          postures, and permitted at the rites without yet speaking in them.
+          Taken through the ordeal and received; learning the pacts, the protocols and the three postures, and permitted at the rites without yet speaking in them.
       - level: 3
         title: Spirit-Speaker
         lore: sprtspkrrnk
         description: >-
-          The mwalimu wa roho—permitted to perceive, address and negotiate with the spirits on
-          the clan's behalf, and answerable for what is asked of them.
+          The mwalimu wa roho—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
       - level: 4
         title: Elder Shaman
         lore: elderrnk
         description: >-
-          Long practiced, teaching initiates and sitting on the council, where their word carries
-          the greater weight in what the younger Spirit-Speakers dispute.
+          Long practiced, teaching initiates and sitting on the council, where their word carries the greater weight in what the younger Spirit-Speakers dispute.
     offices:
       Griot: >-
-        Keeper of the genealogies, the standing pacts and the memory-songs—a people who do not
-        write keep their whole record in this office.
+        Keeper of the genealogies, the standing pacts and the memory-songs—a people who do not write keep their whole record in this office.
       Drum-Speaker: >-
-        Carries word across the drum-network, and keeps the ceremonial drumming without which
-        the rites do not begin.
+        Carries word across the drum-network, and keeps the ceremonial drumming without which the rites do not begin.
       Mwalimu wa Roho: >-
-        "Teacher of the spirit"—the Spirit-Speaker who addresses the spirits for the clan and
-        reports what they answer.
+        "Teacher of the spirit"—the Spirit-Speaker who addresses the spirits for the clan and reports what they answer.
       Elder Shaman: >-
-        Of the council whose judgment settles what the younger Spirit-Speakers dispute; the
-        tradition's nearest thing to authority, and it is collective.
+        Of the council whose judgment settles what the younger Spirit-Speakers dispute; the tradition's nearest thing to authority, and it is collective.
       Guardian of a Sacred Site: >-
-        Warden of one grove, crossing, cairn or Old Kraal, and of who may approach it. A
-        different shaman holds each site; nobody holds two.
+        Warden of one grove, crossing, cairn or Old Kraal, and of who may approach it. A different shaman holds each site; nobody holds two.
       Initiator: >-
-        Conductor of the ordeal by which an aspirant becomes an initiate, and judge of who is
-        ready to attempt it.
+        Conductor of the ordeal by which an aspirant becomes an initiate, and judge of who is ready to attempt it.
       Mask-Maker: >-
         Maker and keeper of the masks the spirits are met in, an office of craft and of danger.
       Keeper of the Tally: >-
-        Recorder of the offerings owed and made under each standing pact, without which the
-        reckoning cannot be kept.
+        Recorder of the offerings owed and made under each standing pact, without which the reckoning cannot be kept.
   seat: null
   domains: []
   population: null
   economy: []
-  lore:
-    - nyalbsprts
-    - mwangadty
+  lore: [nyalbsprts, mwangadty]
   parents: []
   relations: {}
   packFolder: nyaluba
-sohl:
-  system:
-    commonSkills:
-      - griot
-      - nyalbdrm
+sohl: {system: {commonSkills: [griot, nyalbdrm]}}
 ---
 
 ## The Nyáluba Way

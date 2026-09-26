@@ -1,22 +1,11 @@
 ---
-tags:
-  - sacred
-  - hill
-  - woodland
-description: "An abandoned shrine hidden in the Thúravel Hills—a place of powerful pre-Aurèldían worship of the Old Gods, undisturbed for centuries and guarded still by fae spirits."
+shortcode: shrinethuravelhills
+name: {full: Shrine of Thúravel Hills, aliases: []}
 type: place
 subType: site
-data:
-  demonym: null
-  lore: []
-  parents:
-    - thuravelhills
-  population: null
-  packFolder: provenzia
-name:
-  full: Shrine of Thúravel Hills
-  aliases: []
-shortcode: shrinethuravelhills
+description: "An abandoned shrine hidden in the Thúravel Hills—a place of powerful pre-Aurèldían worship of the Old Gods, undisturbed for centuries and guarded still by fae spirits."
+tags: [sacred, hill, woodland]
+data: {demonym: null, lore: [], parents: [thuravelhills], population: null, packFolder: provenzia}
 ---
 
 Somewhere in the [[place-thuravelhills|Thúravel Hills]] of southern

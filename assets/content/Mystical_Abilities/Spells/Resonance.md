@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Resonance
-  aliases:
-    - Sound
-description: "Sound magic amplifying and redirecting acoustic waves dangerously."
 shortcode: rsnnc
+name: {full: Resonance, aliases: [Sound]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-wind
-  templatePriority: null
-  packFolder: spells
+description: "Sound magic amplifying and redirecting acoustic waves dangerously."
+tags: []
+data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Sound

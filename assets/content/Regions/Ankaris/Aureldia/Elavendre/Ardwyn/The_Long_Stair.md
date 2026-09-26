@@ -1,24 +1,16 @@
 ---
-tags:
-  - sacred
-  - mountain
-  - river
-description: "Seven falls in a stepped gorge of the Drenavar Spine, seat of the river-mother Aranwy—where the offering is made at first light in silence, and where nobody climbs by daylight."
+shortcode: longstair
+name: {full: The Long Stair, aliases: [Aranwy's Stair]}
 type: place
 subType: feature
+description: "Seven falls in a stepped gorge of the Drenavar Spine, seat of the river-mother Aranwy—where the offering is made at first light in silence, and where nobody climbs by daylight."
+tags: [sacred, mountain, river]
 data:
   demonym: null
-  lore:
-    - aranwyspr
-  parents:
-    - drenavrspn
+  lore: [aranwyspr]
+  parents: [drenavrspn]
   population: null
   packFolder: elavendre
-name:
-  full: The Long Stair
-  aliases:
-    - Aranwy's Stair
-shortcode: longstair
 ---
 
 Seven falls in succession where a headwater of the [[place-drenavrspn|Drenavar Spine]] drops through a

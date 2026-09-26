@@ -1,20 +1,11 @@
 ---
-tags:
-  - first-gods
-  - spirit-power
-  - draft
-description: "Standing with Rhysgen, the Red Fox of the Lower Wood—what this allied Kindred is met, asked and bargained with."
+shortcode: rhysgensprt
+name: {full: "Rhysgen Spirit Power", aliases: ["Rhysgen, the Red Fox of the Lower Wood"]}
 type: skill
 subType: mystical
-shortcode: rhysgensprt
-name:
-  full: "Rhysgen Spirit Power"
-  aliases:
-    - Rhysgen, the Red Fox of the Lower Wood
-data:
-  icon: icon-psychicwaves
-  templatePriority: null
-  packFolder: spiritskillsaelendan
+description: "Standing with Rhysgen, the Red Fox of the Lower Wood—what this allied Kindred is met, asked and bargained with."
+tags: [first-gods, spirit-power, draft]
+data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsaelendan}
 sohl:
   system:
     skillBaseFormula: "@aur, @wil"

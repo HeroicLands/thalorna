@@ -1,19 +1,10 @@
 ---
-tags:
-  - asguardian
-  - faith-skill
-  - draft
+shortcode: surtr
+name: {full: "Ritual: Súrtr", aliases: [The Flameborn Path]}
 type: skill
 subType: mystical
-shortcode: surtr
-name:
-  full: "Ritual: Súrtr"
-  aliases:
-    - The Flameborn Path
-data:
-  icon: surtr
-  templatePriority: null
-  packFolder: asguardian
+tags: [asguardian, faith-skill, draft]
+data: {icon: surtr, templatePriority: null, packFolder: asguardian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

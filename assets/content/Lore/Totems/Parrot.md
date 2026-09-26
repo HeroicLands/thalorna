@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The parrot as a totemic ideal, and the human character it describes."
+shortcode: parrotttm
+name: {full: Parrot, aliases: [Parrot Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Parrot
-  aliases:
-    - Parrot Totem
-shortcode: parrotttm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The parrot as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-parrottotem|Parrot]]{float: top-left, size: medium}

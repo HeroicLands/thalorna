@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The duck as a totemic ideal, and the human character it describes."
+shortcode: duckttm
+name: {full: Duck, aliases: [Duck Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Duck
-  aliases:
-    - Duck Totem
-shortcode: duckttm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The duck as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-ducktotem|Duck]]{float: top-left, size: medium}

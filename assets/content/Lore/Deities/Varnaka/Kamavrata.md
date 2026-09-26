@@ -1,14 +1,11 @@
 ---
-tags: []
-description: "The Celestial Lover of the Varnaka pantheon—fertility, desire, and the bearing that follows them."
+shortcode: kamavratadty
+name: {full: Kāmavrata, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Kāmavrata
-  aliases: []
-shortcode: kamavratadty
-data:
-  packFolder: deitiesvarnaka
+description: "The Celestial Lover of the Varnaka pantheon—fertility, desire, and the bearing that follows them."
+tags: []
+data: {packFolder: deitiesvarnaka}
 ---
 
 _The Celestial Lover—a youth garlanded with flowers, a sugarcane bow strung with five flower-arrows._

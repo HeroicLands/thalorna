@@ -1,22 +1,16 @@
 ---
-tags:
-  - village
-  - mountain
-description: "The oldest of the Vardain villages and the nearest to the Gate—where the tallies are kept and the Khazári schedule is reckoned."
+shortcode: barakth
+name: {full: Barakth, aliases: []}
 type: place
 subType: settlement
+description: "The oldest of the Vardain villages and the nearest to the Gate—where the tallies are kept and the Khazári schedule is reckoned."
+tags: [village, mountain]
 data:
   demonym: null
-  lore:
-    - vardain
-  parents:
-    - vardainvalleys
+  lore: [vardain]
+  parents: [vardainvalleys]
   population: 780
   packFolder: aelwyth
-name:
-  full: Barakth
-  aliases: []
-shortcode: barakth
 ---
 
 **Barakth** lies highest of the inhabited valleys but one, closest to the road up to

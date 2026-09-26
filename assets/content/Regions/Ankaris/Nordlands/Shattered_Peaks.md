@@ -1,19 +1,15 @@
 ---
-tags:
-  - region
-description: A small, jagged knot of frost-split mountains in the interior of Norgaad—five leagues of spires, scree, and ice, where mithral is rumored and expeditions go missing.
-name:
-  full: Shattered Peaks
-  aliases: []
 shortcode: shtrdpks
+name: {full: Shattered Peaks, aliases: []}
 type: place
 subType: region
+description: A small, jagged knot of frost-split mountains in the interior of Norgaad—five leagues of spires, scree, and ice, where mithral is rumored and expeditions go missing.
+tags: [region]
 data:
   icon: null
   demonym: null
   lore: []
-  parents:
-    - nrdlndsrgn
+  parents: [nrdlndsrgn]
   population: null
   packFolder: nordlands
 

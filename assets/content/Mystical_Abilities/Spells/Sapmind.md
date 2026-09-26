@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Sapmind
-  aliases:
-    - Enervation
-description: "Draws liquid essence; drains vitality through insidious wood-touch."
 shortcode: sapmind
+name: {full: Sapmind, aliases: [Enervation]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
-  packFolder: spells
+description: "Draws liquid essence; drains vitality through insidious wood-touch."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Enervation

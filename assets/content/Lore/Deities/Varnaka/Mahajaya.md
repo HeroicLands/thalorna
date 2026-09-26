@@ -1,14 +1,11 @@
 ---
-tags: []
-description: "The Eternal Preserver of the Varnaka pantheon, holding order and the grain a settled order rests on."
+shortcode: mahajayadty
+name: {full: Mahájaya, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Mahájaya
-  aliases: []
-shortcode: mahajayadty
-data:
-  packFolder: deitiesvarnaka
+description: "The Eternal Preserver of the Varnaka pantheon, holding order and the grain a settled order rests on."
+tags: []
+data: {packFolder: deitiesvarnaka}
 ---
 
 _The Eternal Preserver—a serene matriarch crowned with wheat, holding a balanced scale._

@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Nullify
-  aliases:
-    - Dispel
-description: "Cancels existing spell; dispels active magical effects instantly."
 shortcode: nullify
+name: {full: Nullify, aliases: [Dispel]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-circle
-  templatePriority: null
-  packFolder: spells
+description: "Cancels existing spell; dispels active magical effects instantly."
+tags: []
+data: {icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0
     levelBase: 2
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Dispel

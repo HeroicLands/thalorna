@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Bond
-  aliases:
-    - Link
-description: "Establishes permanent mystical link between caster and willing partner."
 shortcode: bond
+name: {full: Bond, aliases: [Link]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-divination
-  templatePriority: null
-  packFolder: spells
+description: "Establishes permanent mystical link between caster and willing partner."
+tags: []
+data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0
     levelBase: 4
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Link

@@ -1,20 +1,11 @@
 ---
-tags:
-  - city
-  - draft
-description: "City"
+shortcode: balamkul2
+name: {full: Balamkul, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - balamkulrgn
-  population: 150000
-name:
-  full: Balamkul
-  aliases: []
-shortcode: balamkul2
+description: "City"
+tags: [city, draft]
+data: {demonym: null, lore: [], parents: [balamkulrgn], population: 150000}
 ---
 
 ## Overview

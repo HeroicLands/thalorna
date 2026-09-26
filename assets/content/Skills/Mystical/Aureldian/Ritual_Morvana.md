@@ -1,20 +1,10 @@
 ---
-tags:
-  - aureldian
-  - faith-skill
-  - draft
+shortcode: morvana
+name: {full: "Ritual: Morvana", aliases: [Mórváná, Mistress of the Waning Moon]}
 type: skill
 subType: mystical
-shortcode: morvana
-name:
-  full: "Ritual: Morvana"
-  aliases:
-    - Mórváná
-    - Mistress of the Waning Moon
-data:
-  icon: morvana
-  templatePriority: null
-  packFolder: aureldian
+tags: [aureldian, faith-skill, draft]
+data: {icon: morvana, templatePriority: null, packFolder: aureldian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

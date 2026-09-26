@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: "Forward southern forts beyond the first cataract; the empire's hardest postings—the land of the Nome of Khent-Hen-Nefer, one of the border nomes of Ta'Kheperu."
-name:
-  full: Khent-Hen-Nefer
-  aliases: []
 shortcode: khenthennefernome
+name: {full: Khent-Hen-Nefer, aliases: []}
 type: place
 subType: region
+description: "Forward southern forts beyond the first cataract; the empire's hardest postings—the land of the Nome of Khent-Hen-Nefer, one of the border nomes of Ta'Kheperu."
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 280000
   packFolder: bordernomes
 ---

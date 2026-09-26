@@ -1,12 +1,9 @@
 ---
-tags: []
-description: "The Nurturer of the Aurèldían pantheon—fertility, bloom, and the bearing of children and crops alike."
+shortcode: floraniadty
+name: {full: Flórania, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Flórania
-  aliases: []
-shortcode: floraniadty
-data:
-  packFolder: deitiesaureldian
+description: "The Nurturer of the Aurèldían pantheon—fertility, bloom, and the bearing of children and crops alike."
+tags: []
+data: {packFolder: deitiesaureldian}
 ---

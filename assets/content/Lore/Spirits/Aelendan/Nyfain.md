@@ -1,16 +1,11 @@
 ---
-tags:
-  - draft
-  - first-gods
+shortcode: nyfainspr
+name: {full: "Nyfain, the White Owl of the Hollow", aliases: []}
 type: lore
 subType: spirit
 description: "Owl-spirit of Ceridwen's Hollow—keeper of what is spoken at night, and the Kindred shamen consult about the dead."
-name:
-  full: Nyfain, the White Owl of the Hollow
-  aliases: []
-shortcode: nyfainspr
-data:
-  packFolder: lorespiritsaelendan
+tags: [draft, first-gods]
+data: {packFolder: lorespiritsaelendan}
 ---
 
 - **Kind:** Animal-kin, of [[lore-thekindred|the Kindred]]

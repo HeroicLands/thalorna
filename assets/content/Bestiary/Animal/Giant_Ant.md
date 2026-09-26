@@ -1,13 +1,9 @@
 ---
-tags:
-  - animal
-  - creature
-name:
-  full: Giant Ant
-  aliases: []
-description: "A hyper-evolved insect soldier up to five feet long, defending its vast colony with terrible, coordinated ferocity when disturbed."
 shortcode: giantant
+name: {full: Giant Ant, aliases: []}
 type: being
+description: "A hyper-evolved insect soldier up to five feet long, defending its vast colony with terrible, coordinated ferocity when disturbed."
+tags: [animal, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -43,21 +39,21 @@ sohl:
     rea: 1d4+4
     cre: 1d4+2
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 13 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 9 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 11 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 7 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 5 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 60 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 60 } }
-    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 30 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 36 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 48 } }
-    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 38 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 9}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 7}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 5}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 30}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 36}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 48}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 38}}
     - name: Mandible Bite
       type: skill
       system:
@@ -65,35 +61,20 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 58
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: mandible
           name: Mandible Bite
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 1
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 2
-            aspect: edged
+          attack: {disabled: false, spread: 1, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 2, aspect: edged}
           lengthBase: 0
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
     - name: Grapple and Drag
       type: skill
       system:
@@ -101,83 +82,56 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 63
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: grab
           name: Grapple and Drag
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 2
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 13
-            aspect: blunt
+          attack: {disabled: false, spread: 2, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 13, aspect: blunt}
           lengthBase: 0
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
   system:
     body:
       structure:
         zones:
-          - name: Head
-            shortcode: headzone
-            probWeight: 1
-          - name: Thorax
-            shortcode: thoraxzone
-            probWeight: 1
-          - name: Abdomen
-            shortcode: abdomenzone
-            probWeight: 1
+          - {name: Head, shortcode: headzone, probWeight: 1}
+          - {name: Thorax, shortcode: thoraxzone, probWeight: 1}
+          - {name: Abdomen, shortcode: abdomenzone, probWeight: 1}
         parts:
           - name: Head
             shortcode: headpart
             bodyZoneCode: headzone
-            roles:
-              - vital
-              - manipulator
+            roles: [vital, manipulator]
             canHoldItem: false
             probWeight: 10
           - name: Thorax
             shortcode: thoraxpart
             bodyZoneCode: thoraxzone
-            roles:
-              - core
+            roles: [core]
             canHoldItem: false
             probWeight: 10
           - name: Left Legs
             shortcode: llegspart
             bodyZoneCode: thoraxzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 3
           - name: Right Legs
             shortcode: rlegspart
             bodyZoneCode: thoraxzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 3
           - name: Abdomen
             shortcode: abdomenpart
             bodyZoneCode: abdomenzone
-            roles:
-              - core
+            roles: [core]
             canHoldItem: false
             probWeight: 10
         locations:
@@ -188,11 +142,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 7
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Mandibles
             shortcode: mandibloc
             bodyPartCode: headpart
@@ -200,11 +150,7 @@ sohl:
             amputability: high
             shockValue: 2
             probWeight: 3
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Thorax
             shortcode: thoraxloc
             bodyPartCode: thoraxpart
@@ -212,11 +158,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 10
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Left Legs
             shortcode: llegsloc
             bodyPartCode: llegspart
@@ -224,11 +166,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Right Legs
             shortcode: rlegsloc
             bodyPartCode: rlegspart
@@ -236,11 +174,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
           - name: Abdomen
             shortcode: abdloc
             bodyPartCode: abdomenpart
@@ -248,14 +182,8 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 10
-            protectionBase:
-              blunt: 5
-              edged: 4
-              piercing: 3
-              fire: 5
-      weight:
-        base: 5
-        calc: "5"
+            protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
+      weight: {base: 5, calc: "5"}
       reachBase: 0
       bodyScaleBase: 1.11
       personalFatigue: "enc + 5"

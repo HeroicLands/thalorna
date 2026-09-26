@@ -1,20 +1,9 @@
 ---
-tags:
-  - village
-  - mountain
-  - inland
-description: "Village at the foot of the great tank, whose sluices water six villages below it."
+shortcode: sarasapada
+name: {full: Sarasapāda, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - suvarnagirijnpd
-  population: 840
-  packFolder: vedyara
-name:
-  full: Sarasapāda
-  aliases: []
-shortcode: sarasapada
+description: "Village at the foot of the great tank, whose sluices water six villages below it."
+tags: [village, mountain, inland]
+data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: 840, packFolder: vedyara}
 ---

@@ -1,17 +1,11 @@
 ---
-tags: []
-name:
-  full: Ösket Language
-  aliases:
-    - Ösket
-description: "The tongue of the guide-people of the western and central Grazian crossings—related to nothing spoken in any lowland, and learned by outsiders almost never."
 shortcode: osketlng
+name: {full: Ösket Language, aliases: [Ösket]}
 type: skill
 subType: language
-data:
-  icon: icon-speaking
-  templatePriority: null
-  packFolder: language
+description: "The tongue of the guide-people of the western and central Grazian crossings—related to nothing spoken in any lowland, and learned by outsiders almost never."
+tags: []
+data: {icon: icon-speaking, templatePriority: null, packFolder: language}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -20,9 +14,7 @@ sohl:
     combatCategory: none
     parentSkillCode: lang
     initSkillMult: 0
-  flags:
-    "thalorna":
-      lang_family: Trans-Grazian
+  flags: {"thalorna": {lang_family: Trans-Grazian}}
 ---
 
 Ösket is the tongue of the [[affiliation-osketguides|Ösket]], who hold the western and central crossings of [[place-graznmntns|the Grazian Mountains]]. Fluency measures the range of what a speaker can say in it, from a caravan-master's twenty words of road-command to the fluent speech of someone raised at a hearth. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.

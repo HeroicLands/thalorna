@@ -1,14 +1,10 @@
 ---
-tags: []
-description: "Vylarian imperial treasury and central bank—holds the empire's bullion reserves, issues the master and traveler's notes that underwrite continental commerce, and extracts a 2% issuance fee from every note generated even in territories the empire no longer governs."
-name:
-  full: The Aerarium Imperii
-  aliases:
-    - The Imperial Treasury
-    - The Aerarium
 shortcode: aerarimmpr
+name: {full: The Aerarium Imperii, aliases: [The Imperial Treasury, The Aerarium]}
 type: affiliation
 subType: governmental
+description: "Vylarian imperial treasury and central bank—holds the empire's bullion reserves, issues the master and traveler's notes that underwrite continental commerce, and extracts a 2% issuance fee from every note generated even in territories the empire no longer governs."
+tags: []
 data:
   templatePriority: null
   demonym: null
@@ -17,57 +13,42 @@ data:
   governance:
     model: council
     summary: >-
-      An imperial treasury and central bank under a Quaestor appointed for life, with three
-      Praefares over its functions, a Magistar to each station, and sixteen Censores reckoning
-      the strongroom against its books.
+      An imperial treasury and central bank under a Quaestor appointed for life, with three Praefares over its functions, a Magistar to each station, and sixteen Censores reckoning the strongroom against its books.
     ranks:
       - level: 0
         title: Dismissed
         lore: expelledrnk
         description: >-
-          The Quaestor Imperii serves for life or until imperial dismissal, and every officer
-          beneath him holds at the Quaestor's pleasure or the throne's.
+          The Quaestor Imperii serves for life or until imperial dismissal, and every officer beneath him holds at the Quaestor's pleasure or the throne's.
       - level: 1
         title: Censor
         lore: clerkrnk
         description: >-
-          One of sixteen auditors: sees that the strongroom's books match the held bullion, that
-          clearing claims are honored only against valid notes, and that the Praefares' reports
-          reconcile.
+          One of sixteen auditors: sees that the strongroom's books match the held bullion, that clearing claims are honored only against valid notes, and that the Praefares' reports reconcile.
       - level: 3
         title: Magistar Stationum
         lore: officerrnk
         description: >-
-          Provincial deputy, one to each Vylarian province and one to Heliónis. Administers the
-          Aerarium's direct operations in his territory and coordinates with the Argentariorum
-          chapters in the non-imperial territories adjacent to his station.
+          Provincial deputy, one to each Vylarian province and one to Heliónis. Administers the Aerarium's direct operations in his territory and coordinates with the Argentariorum chapters in the non-imperial territories adjacent to his station.
       - level: 4
         title: Praefar
         lore: commanderrnk
         description: >-
-          Senior deputy over a whole function of the treasury—operations, the script and
-          clearing system, or the strongroom and reserves—appointed by the Quaestor with
-          imperial confirmation.
+          Senior deputy over a whole function of the treasury—operations, the script and clearing system, or the strongroom and reserves—appointed by the Quaestor with imperial confirmation.
       - level: 5
         title: Quaestor
         lore: magistraternk
         description: >-
-          The Aerarium's chief officer, appointed by the Augustar on the Dux Bellorum's
-          recommendation and serving for life, holding one of the six standing accesses to the
-          imperial privy presence.
+          The Aerarium's chief officer, appointed by the Augustar on the Dux Bellorum's recommendation and serving for life, holding one of the six standing accesses to the imperial privy presence.
     offices:
       Censor Maximus: >-
-        Senior of the sixteen Censores Aerarii, and one of the three keys by which the
-        strongroom at Magnápolis is secured.
+        Senior of the sixteen Censores Aerarii, and one of the three keys by which the strongroom at Magnápolis is secured.
       Praefar of Treasury Operations: >-
-        Holds the receipt of revenue and the disbursement of imperial expenditure, which is
-        released only on the joint authorization of the Augustar and the Dux Bellorum.
+        Holds the receipt of revenue and the disbursement of imperial expenditure, which is released only on the joint authorization of the Augustar and the Dux Bellorum.
       Praefar of the Script: >-
-        Holds the note-issuance and clearing system on which most large-value commerce in
-        member territory depends.
+        Holds the note-issuance and clearing system on which most large-value commerce in member territory depends.
       Praefar of the Strongroom: >-
-        Holds the reserves and the strongroom at Magnápolis, which has never been breached in
-        three centuries.
+        Holds the reserves and the strongroom at Magnápolis, which has never been breached in three centuries.
   seat: null
   domains: []
   population: null
@@ -79,9 +60,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 _Vylarian: Aerarium Imperii—"the Imperial Treasury"_

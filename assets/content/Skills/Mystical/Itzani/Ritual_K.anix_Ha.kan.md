@@ -1,20 +1,10 @@
 ---
-tags:
-  - itzani
-  - faith-skill
-  - draft
+shortcode: kanixhakan
+name: {full: "Ritual: K'anix Ha'kan", aliases: [K'anix Ha'kan, The Golden Giver]}
 type: skill
 subType: mystical
-shortcode: kanixhakan
-name:
-  full: "Ritual: K'anix Ha'kan"
-  aliases:
-    - K'anix Ha'kan
-    - The Golden Giver
-data:
-  icon: null
-  templatePriority: null
-  packFolder: itzani
+tags: [itzani, faith-skill, draft]
+data: {icon: null, templatePriority: null, packFolder: itzani}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

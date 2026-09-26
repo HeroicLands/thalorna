@@ -1,21 +1,11 @@
 ---
-tags:
-  - garrison
-  - town
-description: "Garrison Town"
+shortcode: kawilulkik
+name: {full: K’awi’il’ul Ki’ik, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - kuxibalamrgn
-  population: 6000
-  packFolder: south
-name:
-  full: K’awi’il’ul Ki’ik
-  aliases: []
-shortcode: kawilulkik
+description: "Garrison Town"
+tags: [garrison, town]
+data: {demonym: null, lore: [], parents: [kuxibalamrgn], population: 6000, packFolder: south}
 ---
 
 ## Overview

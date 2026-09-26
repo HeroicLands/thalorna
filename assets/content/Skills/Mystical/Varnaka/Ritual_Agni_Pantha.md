@@ -1,20 +1,12 @@
 ---
-tags:
-  - varnaka
-  - faith-skill
-type: skill
-subType: mystical
 shortcode: agnipantha
 name:
   full: "Ritual: Agnī-panthā"
-  aliases:
-    - Agnī-panthā
-    - Agni Pantha
-    - The Path of the Flame
-    - Flame Path
-data:
-  templatePriority: null
-  packFolder: varnaka
+  aliases: [Agnī-panthā, Agni Pantha, The Path of the Flame, Flame Path]
+type: skill
+subType: mystical
+tags: [varnaka, faith-skill]
+data: {templatePriority: null, packFolder: varnaka}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

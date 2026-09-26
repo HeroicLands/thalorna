@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Parch
-  aliases:
-    - Desiccation
-description: "Desiccates target, causing severe thirst and weakening."
 shortcode: parch
+name: {full: Parch, aliases: [Desiccation]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-firebdg
-  templatePriority: null
-  packFolder: spells
+description: "Desiccates target, causing severe thirst and weakening."
+tags: []
+data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0
     levelBase: 1
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Desiccation

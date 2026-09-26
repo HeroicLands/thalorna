@@ -1,12 +1,9 @@
 ---
-tags: []
-description: "Lord of Earth in the Tëngvōk Vān Lëi—one of the five Elemental Lords, holding earth as an office of the celestial bureaucracy."
+shortcode: vngdkzhtvrdty
+name: {full: Vëngdāk Zhütvōr, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Vëngdāk Zhütvōr
-  aliases: []
-shortcode: vngdkzhtvrdty
-data:
-  packFolder: deitiestengvokvanlei
+description: "Lord of Earth in the Tëngvōk Vān Lëi—one of the five Elemental Lords, holding earth as an office of the celestial bureaucracy."
+tags: []
+data: {packFolder: deitiestengvokvanlei}
 ---

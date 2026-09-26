@@ -1,18 +1,10 @@
 ---
-tags:
-  - kemetian
-  - faith-skill
-  - draft
+shortcode: min
+name: {full: "Ritual: Min", aliases: ["Min, The Fertility-God"]}
 type: skill
 subType: mystical
-shortcode: min
-name:
-  full: "Ritual: Min"
-  aliases:
-    - Min, The Fertility-God
-data:
-  templatePriority: null
-  packFolder: kemetian
+tags: [kemetian, faith-skill, draft]
+data: {templatePriority: null, packFolder: kemetian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

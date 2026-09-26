@@ -1,14 +1,10 @@
 ---
-tags:
-  - draft
+shortcode: anhurdty
+name: {full: Anhur, aliases: []}
 type: lore
 subType: deity
-name:
-  full: Anhur
-  aliases: []
-shortcode: anhurdty
-data:
-  packFolder: deitieskemetian
+tags: [draft]
+data: {packFolder: deitieskemetian}
 ---
 
 _Patron of the Hunt._

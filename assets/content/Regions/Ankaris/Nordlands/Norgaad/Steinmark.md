@@ -1,22 +1,11 @@
 ---
-tags:
-  - town
-  - inland
-  - trading
-description: "Inland Trade Town"
+shortcode: steinmark
+name: {full: Steinmark, aliases: []}
 type: place
 subType: settlement
-data:
-  demonym: null
-  lore: []
-  parents:
-    - norgaad
-  population: 600
-  packFolder: norgaad
-name:
-  full: Steinmark
-  aliases: []
-shortcode: steinmark
+description: "Inland Trade Town"
+tags: [town, inland, trading]
+data: {demonym: null, lore: [], parents: [norgaad], population: 600, packFolder: norgaad}
 ---
 
 ## Overview

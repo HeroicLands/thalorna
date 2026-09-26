@@ -1,25 +1,17 @@
 ---
-tags: []
-name:
-  full: Shadowbind
-  aliases:
-    - Gloomweb
-description: "Binds shadow of target; restricts movement to caster's proximity."
 shortcode: shdwbnd
+name: {full: Shadowbind, aliases: [Gloomweb]}
 type: mysticalability
 subType: arcaneincantation
-data:
-  icon: icon-water
-  templatePriority: null
-  packFolder: spells
+description: "Binds shadow of target; restricts movement to caster's proximity."
+tags: []
+data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0
     levelBase: 5
-    charges:
-      value: null
-      max: null
+    charges: {value: null, max: null}
 
 # hmk:
 #   name: Gloomweb

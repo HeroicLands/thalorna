@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The deer as a totemic ideal, and the human character it describes."
+shortcode: deerttm
+name: {full: Deer, aliases: [Deer Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Deer
-  aliases:
-    - Deer Totem
-shortcode: deerttm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The deer as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-deertotem|Deer]]{float: top-left, size: medium}

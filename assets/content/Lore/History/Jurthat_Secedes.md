@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "Over a thousand years ago the island province of Jürthāt broke away from the Empire of Tānvür in a bloody war of secession, and no imperial expedition has ever reasserted sovereignty over the archipelago."
+shortcode: jurthatscs
+name: {full: The Secession of Jürthāt, aliases: [The Breaking Away]}
 type: lore
 subType: history
-name:
-  full: The Secession of Jürthāt
-  aliases:
-    - The Breaking Away
-shortcode: jurthatscs
-data:
-  packFolder: settinglore
+description: "Over a thousand years ago the island province of Jürthāt broke away from the Empire of Tānvür in a bloody war of secession, and no imperial expedition has ever reasserted sovereignty over the archipelago."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: secession

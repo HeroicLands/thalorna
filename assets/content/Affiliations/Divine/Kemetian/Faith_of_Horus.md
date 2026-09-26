@@ -1,10 +1,10 @@
 ---
-description: "Voyages."
-tags:
-  - kemetian
-  - religion
+shortcode: horus
+name: {full: Faith of Hórús, aliases: ["Hórús, The Guiding Falcon"]}
 type: affiliation
 subType: faithtradition
+description: "Voyages."
+tags: [kemetian, religion]
 data:
   banner: takheperubnr
   icon: horus
@@ -21,8 +21,7 @@ data:
         title: Rite-Denied
         lore: excmmnctrnk
         description: >-
-          Barred from the temple rites, and with them from the funerary rites every Kheperi
-          eventually requires—a sentence that reaches past the end of the life it is passed in.
+          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually requires—a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
         lore: layfaithfulrnk
@@ -32,21 +31,17 @@ data:
         title: Wab
         lore: initiaternk
         description: >-
-          "Purified One"—acolytes, who learn the routes and the shrine-stations before they learn
-          much else.
+          "Purified One"—acolytes, who learn the routes and the shrine-stations before they learn much else.
       - level: 3
         title: Hem'Netjer
         lore: priestrnk
         description: >-
-          "Servant of the God"—ordained priests who travel extensively, keep current knowledge of
-          routes, conditions and dangers, and advise military commanders planning campaigns and
-          merchant guilds planning caravans.
+          "Servant of the God"—ordained priests who travel extensively, keep current knowledge of routes, conditions and dangers, and advise military commanders planning campaigns and merchant guilds planning caravans.
       - level: 4
         title: Wer'Hekau
         lore: highpriestrnk
         description: >-
-          "Great of Sacred Power"—High Priest of Hórús, maintaining networks of priests stationed
-          not only in great temples but in shrine-stations along the major travel routes.
+          "Great of Sacred Power"—High Priest of Hórús, maintaining networks of priests stationed not only in great temples but in shrine-stations along the major travel routes.
     offices:
       Shrine-Station Priest: >-
         Holds one of the stations positioned along a major travel route, rather than a place in a great temple.
@@ -55,23 +50,12 @@ data:
   seat: null
   domains: []
   population: null
-  economy:
-    - affiliation-perhati
-  lore:
-    - horusdty
-  parents:
-    - kemtnpnthn
-  relations:
-    kemtnpnthn: aligned
+  economy: [affiliation-perhati]
+  lore: [horusdty]
+  parents: [kemtnpnthn]
+  relations: {kemtnpnthn: aligned}
   packFolder: pantheonskemetian
-name:
-  full: Faith of Hórús
-  aliases:
-    - Hórús, The Guiding Falcon
-shortcode: horus
-sohl:
-  system:
-    commonSkills: []
+sohl: {system: {commonSkills: []}}
 ---
 
 Hórús is the god of travelers, explorers, and all who venture into the unknown seeking discovery. The deity manifests as a great falcon, wings spread wide, soaring above the lands of Thalorna with sight keen enough to perceive distant horizons and obstacles hidden from ground-level awareness. Hórús watches over merchants who guide caravans across vast distances, warriors who march into foreign territories, pilgrims who journey to distant temples, and adventurers drawn by curiosity or necessity into uncharted lands. The god is not a protector who shields travelers from all hardship but rather a guide who ensures safe passage when possible and the wisdom to navigate disaster when it comes.

@@ -1,20 +1,15 @@
 ---
-tags:
-  - region
-description: '"The Great Land"—an ancient royal nome and old burial-ground of the first dynasties—the land of the Nome of Ta-Wer, one of the upper-river nomes of Ta''Kheperu.'
-name:
-  full: Ta-Wer
-  aliases: []
 shortcode: tawernome
+name: {full: Ta-Wer, aliases: []}
 type: place
 subType: region
+description: '"The Great Land"—an ancient royal nome and old burial-ground of the first dynasties—the land of the Nome of Ta-Wer, one of the upper-river nomes of Ta''Kheperu.'
+tags: [region]
 data:
   banner: takheperubnr
   demonym: null
-  lore:
-    - humanflk
-  parents:
-    - takheperurgn
+  lore: [humanflk]
+  parents: [takheperurgn]
   population: 520000
   packFolder: upperrivernomes
 ---

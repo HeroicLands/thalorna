@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "Around 1400 BF the Varkhad come out of the further east into the Pelwar grasslands as conquerors, take the country and then merge into it—and the peoples who hold the north today carry both stocks."
+shortcode: varkhadcnq
+name: {full: The Varkhad Conquest, aliases: [The Taking of the Pelwar Grasslands]}
 type: lore
 subType: history
-name:
-  full: The Varkhad Conquest
-  aliases:
-    - The Taking of the Pelwar Grasslands
-shortcode: varkhadcnq
-data:
-  packFolder: settinglore
+description: "Around 1400 BF the Varkhad come out of the further east into the Pelwar grasslands as conquerors, take the country and then merge into it—and the peoples who hold the north today carry both stocks."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: conquest

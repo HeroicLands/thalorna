@@ -1,18 +1,11 @@
 ---
-tags:
-  - elixir
-name:
-  full: "Scholar's Lantern"
-  aliases:
-    - Erudition Elixir
-description: "Golden elixir; sharpens mind with preternatural clarity in reasoning."
 shortcode: elxerd
+name: {full: "Scholar's Lantern", aliases: [Erudition Elixir]}
 type: concoctiongear
 subType: elixir
-data:
-  icon: icon-potion
-  templatePriority: null
-  packFolder: elixirs
+description: "Golden elixir; sharpens mind with preternatural clarity in reasoning."
+tags: [elixir]
+data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

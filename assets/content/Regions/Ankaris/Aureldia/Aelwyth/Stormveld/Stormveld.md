@@ -1,19 +1,14 @@
 ---
-tags:
-  - region
-description: "The land of the Jarldom of Stormveld—the fjord-cut north-east of Aelwyth, a fifth of the island, held by the Vardain as Vardanreach before the Nordmen took it."
-name:
-  full: Stormveld
-  aliases: []
 shortcode: stormveld
+name: {full: Stormveld, aliases: []}
 type: place
 subType: region
+description: "The land of the Jarldom of Stormveld—the fjord-cut north-east of Aelwyth, a fifth of the island, held by the Vardain as Vardanreach before the Nordmen took it."
+tags: [region]
 data:
   demonym: Stormvelder
-  lore:
-    - humanflk
-  parents:
-    - aelwyth
+  lore: [humanflk]
+  parents: [aelwyth]
   population: 150000
   packFolder: aelwyth
 

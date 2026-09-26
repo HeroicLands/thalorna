@@ -1,9 +1,6 @@
 ---
-name:
-  full: "Iseron"
 shortcode: heroesandknavesiseron
+name: {full: "Iseron"}
 type: folder
-data:
-  parent: heroesandknaves
-  color: "#FF8C00"
+data: {parent: heroesandknaves, color: "#FF8C00"}
 ---

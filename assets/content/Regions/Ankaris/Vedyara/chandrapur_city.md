@@ -1,29 +1,18 @@
 ---
-tags:
-  - city
-  - capital
-  - river
-  - market
-  - craft
-  - temple
-description: "The white city at the head of the Chandramahī delta—the capital of the city-state, the gem market the whole region cuts for, and the nine quarters the Nine Houses keep."
+shortcode: chandrapur2
+name: {full: Chandrapur, aliases: [The Moon City]}
 type: place
 subType: settlement
+description: "The white city at the head of the Chandramahī delta—the capital of the city-state, the gem market the whole region cuts for, and the nine quarters the Nine Houses keep."
+tags: [city, capital, river, market, craft, temple]
 data:
   demonym: Chandrapuri
   lore: []
-  parents:
-    - chandrapurland
+  parents: [chandrapurland]
   population: 90000
   market: 6
-  routes:
-    - { to: chandrmukha, bearing: S, mode: boat, days: 1, terrain: [river] }
+  routes: [{to: chandrmukha, bearing: S, mode: boat, days: 1, terrain: [river]}]
   packFolder: vedyara
-name:
-  full: Chandrapur
-  aliases:
-    - The Moon City
-shortcode: chandrapur2
 ---
 
 **Chandrapur** (90,000, market 6) is the capital and principal settlement of [[affiliation-chandrapur|Chandrapur]], and it stands at the head of the [[place-chandrmahi|Chandramahī]] delta where the river divides and the tide stops. It is built of a pale limestone that weathers whiter rather than grayer, which is where the Moon City comes from, and the temples and the guildhalls are kept washed so that the name stays true.

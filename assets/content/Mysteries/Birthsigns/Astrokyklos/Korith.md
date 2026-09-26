@@ -1,16 +1,11 @@
 ---
-tags: []
-name:
-  full: Korith
-  aliases: []
-description: "The Helm: hard-bodied and steady under a blow, lost in wild country and worse in conversation."
 shortcode: korith
+name: {full: Korith, aliases: []}
 type: mystery
 subType: birthsign
-data:
-  icon: icon-astrology
-  templatePriority: 0
-  packFolder: astrokyklos
+description: "The Helm: hard-bodied and steady under a blow, lost in wild country and worse in conversation."
+tags: []
+data: {icon: icon-astrology, templatePriority: 0, packFolder: astrokyklos}
 sohl:
   kbcat: birthsign
   system:

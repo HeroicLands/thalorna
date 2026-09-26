@@ -1,13 +1,9 @@
 ---
-tags:
-  - dreadspawn
-  - creature
-name:
-  full: Earthcharger
-  aliases: []
-description: "A heavily armored cavern arthropod and living battering ram that breaks through doors and weakened stonework with unstoppable force."
 shortcode: erthchrg
+name: {full: Earthcharger, aliases: []}
 type: being
+description: "A heavily armored cavern arthropod and living battering ram that breaks through doors and weakened stonework with unstoppable force."
+tags: [dreadspawn, creature]
 data:
   icon: icon-person
   templatePriority: null
@@ -42,21 +38,21 @@ sohl:
     rea: 1d6+5
     cre: 1d4+3
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 19 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 18 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 18 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 8 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 6 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 75 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 70 } }
-    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 42 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 52 } }
-    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 44 } }
-    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 48 } }
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 19}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 18}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 18}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 8}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 6}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 75}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 70}}
+    - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 42}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 52}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 44}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 48}}
     - name: Crushing Mandibles
       type: skill
       system:
@@ -64,35 +60,20 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 52
         combatCategory: melee
-        impairedByRoles:
-          - manipulator
+        impairedByRoles: [manipulator]
         strikeMode:
           type: melee
           shortcode: mandible
           name: Crushing Mandibles
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 3
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 5
-            aspect: edged
+          attack: {disabled: false, spread: 3, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 5, aspect: edged}
           lengthBase: 2
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
     - name: Carapace Charge
       type: skill
       system:
@@ -100,83 +81,56 @@ sohl:
         subType: combattechnique
         masteryLevelBase: 42
         combatCategory: melee
-        impairedByRoles:
-          - core
+        impairedByRoles: [core]
         strikeMode:
           type: melee
           shortcode: ram
           name: Carapace Charge
           minParts: 1
           assocSkillCode: null
-          attack:
-            disabled: false
-            spread: 6
-            modifier: 0
-          impactBase:
-            numDice: 1
-            die: 6
-            modifier: 4
-            aspect: blunt
+          attack: {disabled: false, spread: 6, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 4, aspect: blunt}
           lengthBase: 2
           defense:
-            block:
-              disabled: true
-              modifier: 0
-              successLevelMod: 0
-            counterstrike:
-              disabled: false
-              modifier: 0
-              successLevelMod: 0
-          traits:
-            noBlock: true
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
   system:
     body:
       structure:
         zones:
-          - name: Head
-            shortcode: headzone
-            probWeight: 5
-          - name: Thorax
-            shortcode: thoraxzone
-            probWeight: 6
-          - name: Abdomen
-            shortcode: abdomenzone
-            probWeight: 5
+          - {name: Head, shortcode: headzone, probWeight: 5}
+          - {name: Thorax, shortcode: thoraxzone, probWeight: 6}
+          - {name: Abdomen, shortcode: abdomenzone, probWeight: 5}
         parts:
           - name: Head
             shortcode: headpart
             bodyZoneCode: headzone
-            roles:
-              - vital
-              - manipulator
+            roles: [vital, manipulator]
             canHoldItem: false
             probWeight: 10
           - name: Thorax
             shortcode: thoraxpart
             bodyZoneCode: thoraxzone
-            roles:
-              - core
+            roles: [core]
             canHoldItem: false
             probWeight: 10
           - name: Left Legs
             shortcode: llegspart
             bodyZoneCode: thoraxzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 3
           - name: Right Legs
             shortcode: rlegspart
             bodyZoneCode: thoraxzone
-            roles:
-              - locomotor
+            roles: [locomotor]
             canHoldItem: false
             probWeight: 3
           - name: Abdomen
             shortcode: abdomenpart
             bodyZoneCode: abdomenzone
-            roles:
-              - core
+            roles: [core]
             canHoldItem: false
             probWeight: 10
         locations:
@@ -187,11 +141,7 @@ sohl:
             amputability: none
             shockValue: 5
             probWeight: 7
-            protectionBase:
-              blunt: 9
-              edged: 8
-              piercing: 7
-              fire: 9
+            protectionBase: {blunt: 9, edged: 8, piercing: 7, fire: 9}
           - name: Mandibles
             shortcode: mandibloc
             bodyPartCode: headpart
@@ -199,11 +149,7 @@ sohl:
             amputability: high
             shockValue: 2
             probWeight: 3
-            protectionBase:
-              blunt: 9
-              edged: 8
-              piercing: 7
-              fire: 9
+            protectionBase: {blunt: 9, edged: 8, piercing: 7, fire: 9}
           - name: Thorax
             shortcode: thoraxloc
             bodyPartCode: thoraxpart
@@ -211,11 +157,7 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 10
-            protectionBase:
-              blunt: 9
-              edged: 8
-              piercing: 7
-              fire: 9
+            protectionBase: {blunt: 9, edged: 8, piercing: 7, fire: 9}
           - name: Left Legs
             shortcode: llegsloc
             bodyPartCode: llegspart
@@ -223,11 +165,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 9
-              edged: 8
-              piercing: 7
-              fire: 9
+            protectionBase: {blunt: 9, edged: 8, piercing: 7, fire: 9}
           - name: Right Legs
             shortcode: rlegsloc
             bodyPartCode: rlegspart
@@ -235,11 +173,7 @@ sohl:
             amputability: medium
             shockValue: 2
             probWeight: 10
-            protectionBase:
-              blunt: 9
-              edged: 8
-              piercing: 7
-              fire: 9
+            protectionBase: {blunt: 9, edged: 8, piercing: 7, fire: 9}
           - name: Abdomen
             shortcode: abdloc
             bodyPartCode: abdomenpart
@@ -247,14 +181,8 @@ sohl:
             amputability: none
             shockValue: 4
             probWeight: 10
-            protectionBase:
-              blunt: 9
-              edged: 8
-              piercing: 7
-              fire: 9
-      weight:
-        base: 1500
-        calc: "1500"
+            protectionBase: {blunt: 9, edged: 8, piercing: 7, fire: 9}
+      weight: {base: 1500, calc: "1500"}
       reachBase: 0
       bodyScaleBase: 1.43
       personalFatigue: "enc + 5"

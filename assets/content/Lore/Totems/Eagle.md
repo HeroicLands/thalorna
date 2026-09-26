@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The eagle as a totemic ideal, and the human character it describes."
+shortcode: eaglettm
+name: {full: Eagle, aliases: [Eagle Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Eagle
-  aliases:
-    - Eagle Totem
-shortcode: eaglettm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The eagle as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-eagletotem|Eagle]]{float: top-left, size: medium}

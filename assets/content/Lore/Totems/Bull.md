@@ -1,18 +1,11 @@
 ---
-tags:
-  - totem
-  - archetype
-description: "The bull as a totemic ideal, and the human character it describes."
+shortcode: bullttm
+name: {full: Bull, aliases: [Bull Totem]}
 type: lore
 subType: bestiary
-name:
-  full: Bull
-  aliases:
-    - Bull Totem
-shortcode: bullttm
-data:
-  banner: creaturebnr
-  packFolder: loretotems
+description: "The bull as a totemic ideal, and the human character it describes."
+tags: [totem, archetype]
+data: {banner: creaturebnr, packFolder: loretotems}
 ---
 
 ![[icon-bulltotem|Bull]]{float: top-left, size: medium}

@@ -1,17 +1,11 @@
 ---
-tags:
-  - history
-  - spine
-description: "The Ithári raise the human bands of Kalihara into a civilization that arrives complete—language, agriculture, medicine, governance and Thári'vaan—and do it nowhere else on Thalorna."
+shortcode: kaliharupl
+name: {full: The Raising of Kalihara, aliases: [The Uplift of Kalihara]}
 type: lore
 subType: history
-name:
-  full: The Raising of Kalihara
-  aliases:
-    - The Uplift of Kalihara
-shortcode: kaliharupl
-data:
-  packFolder: settinglore
+description: "The Ithári raise the human bands of Kalihara into a civilization that arrives complete—language, agriculture, medicine, governance and Thári'vaan—and do it nowhere else on Thalorna."
+tags: [history, spine]
+data: {packFolder: settinglore}
 
 # event:
 #   kind: founding
