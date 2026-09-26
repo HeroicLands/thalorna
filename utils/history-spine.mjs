@@ -15,19 +15,13 @@
  * The guard over the spine of world history.
  *
  * A spine event is a note under `assets/content/Lore/History/` carrying an
- * `event:` block: a dated, typed statement of something that happened, which
- * more than one region's history has to account for. The block sits at the top
- * level rather than under `data:` because the toolchain's `lore` vocabulary
- * declares no `data:` keys and the container is closed; the top level is the
- * pass-through region, so the whole schema validates there today and moves to
- * `data:` as one scripted edit per note when a note type declares it.
+ * `data.event:` map: a dated, typed statement of something that happened,
+ * which more than one region's history has to account for. Any lore note may
+ * carry event metadata; this guard checks the world events in History/.
  *
- * Nothing in the toolchain reads an `event:` block, which is exactly why this
- * file exists. A pass-through key is unchecked by definition: an address inside
- * one resolves against nothing, a year inside one agrees with nothing, and a
- * vocabulary value inside one is whatever was typed. Every rule the spine is
- * held to is therefore stated here, and every one of them is derived from the
- * content tree at runtime rather than from a list kept beside it.
+ * The shared vocabulary checks the map's outer shape. This guard checks the
+ * chronology inside it: addresses, dates, relationships, and vocabulary
+ * values. Its rules derive from the content tree at runtime.
  *
  * Seven checks, each answering one question a reader would otherwise have to
  * answer by hand:
@@ -303,8 +297,8 @@ function readSpine() {
             events.push({ file, raw, parseError: String(err.message ?? err) });
             continue;
         }
-        if (!fm?.event) continue;
-        events.push({ file, raw, fm, event: fm.event });
+        if (fm?.type !== "lore" || !fm.data?.event) continue;
+        events.push({ file, raw, fm, event: fm.data.event });
     }
     return events;
 }
@@ -468,7 +462,9 @@ function checkWhen(ev, out) {
     const when = ev.event.when;
     const line = lineOf(ev.raw, "when");
     if (!when || typeof when !== "object") {
-        out.push(finding(ev.file, lineOf(ev.raw, "event"), "error", "`event.when` is missing"));
+        out.push(
+            finding(ev.file, lineOf(ev.raw, "event"), "error", "`data.event.when` is missing"),
+        );
         return;
     }
     if (!Number.isInteger(when.year)) {
@@ -477,7 +473,7 @@ function checkWhen(ev, out) {
                 ev.file,
                 line,
                 "error",
-                `\`event.when.year\` must be a signed Common Calendar integer, but reads ${JSON.stringify(when.year)}`,
+                `\`data.event.when.year\` must be a signed Common Calendar integer, but reads ${JSON.stringify(when.year)}`,
             ),
         );
     } else if (when.year === 0) {
@@ -486,7 +482,7 @@ function checkWhen(ev, out) {
                 ev.file,
                 line,
                 "error",
-                "`event.when.year` is 0, and the Common Calendar has no year zero: -1 is 1 BF and 1 is 1 AF",
+                "`data.event.when.year` is 0, and the Common Calendar has no year zero: -1 is 1 BF and 1 is 1 AF",
             ),
         );
     }
@@ -496,7 +492,7 @@ function checkWhen(ev, out) {
                 ev.file,
                 line,
                 "error",
-                `\`event.when.precision\` must be one of ${[...PRECISIONS].join(", ")}, but reads ${JSON.stringify(when.precision)}`,
+                `\`data.event.when.precision\` must be one of ${[...PRECISIONS].join(", ")}, but reads ${JSON.stringify(when.precision)}`,
             ),
         );
     }
@@ -508,7 +504,7 @@ function checkWhen(ev, out) {
                     ev.file,
                     line,
                     "error",
-                    "a `span` precision needs `event.when.span` with integer `from` and `to`",
+                    "a `span` precision needs `data.event.when.span` with integer `from` and `to`",
                 ),
             );
         } else {
@@ -518,7 +514,7 @@ function checkWhen(ev, out) {
                         ev.file,
                         line,
                         "error",
-                        `\`event.when.span\` runs backwards: from ${span.from} to ${span.to}`,
+                        `\`data.event.when.span\` runs backwards: from ${span.from} to ${span.to}`,
                     ),
                 );
             }
@@ -528,7 +524,7 @@ function checkWhen(ev, out) {
                         ev.file,
                         line,
                         "error",
-                        `\`event.when.year\` ${when.year} sits outside the span ${span.from} to ${span.to} it is filed under`,
+                        `\`data.event.when.year\` ${when.year} sits outside the span ${span.from} to ${span.to} it is filed under`,
                     ),
                 );
             }
@@ -539,7 +535,7 @@ function checkWhen(ev, out) {
                 ev.file,
                 line,
                 "error",
-                "`event.when.span` is written, but the precision is not `span`",
+                "`data.event.when.span` is written, but the precision is not `span`",
             ),
         );
     }
@@ -563,7 +559,7 @@ function checkSources(ev, index, out) {
                 ev.file,
                 lineOf(ev.raw, "event"),
                 "error",
-                "`event.sources` must name where this event's date comes from, so a date nothing states cannot be written",
+                "`data.event.sources` must name where this event's date comes from, so a date nothing states cannot be written",
             ),
         );
         return;
@@ -576,7 +572,8 @@ function checkSources(ev, index, out) {
             continue;
         }
         const { row, problem } = resolve(source, index);
-        if (problem) out.push(finding(ev.file, line, "error", `\`event.sources\`: ${problem}`));
+        if (problem)
+            out.push(finding(ev.file, line, "error", `\`data.event.sources\`: ${problem}`));
         if (row) noteRows.push(row);
     }
     if (decided) return;
@@ -597,7 +594,7 @@ function checkSources(ev, index, out) {
                 ev.file,
                 lineOf(ev.raw, "derived"),
                 "error",
-                `no note in \`event.sources\` states "${derived}", which is the figure \`event.when.year\` is computed from`,
+                `no note in \`data.event.sources\` states "${derived}", which is the figure \`data.event.when.year\` is computed from`,
             ),
         );
         return;
@@ -610,8 +607,8 @@ function checkSources(ev, index, out) {
             ev.file,
             line,
             "error",
-            `no note in \`event.sources\` states ${Math.abs(block.when.year)} ${block.when.year < 0 ? "BF" : "AF"}; ` +
-                "a year the record states as a count carries `event.when.derived` naming that count, and a year that is a decision names it in `event.sources`",
+            `no note in \`data.event.sources\` states ${Math.abs(block.when.year)} ${block.when.year < 0 ? "BF" : "AF"}; ` +
+                "a year the record states as a count carries `data.event.when.derived` naming that count, and a year that is a decision names it in `data.event.sources`",
         ),
     );
 }
@@ -634,14 +631,15 @@ function checkWhere(ev, events, index, out) {
                 ev.file,
                 line ?? lineOf(ev.raw, "event"),
                 "error",
-                "`event.where.locus` must name at least one place — where the thing physically happened",
+                "`data.event.where.locus` must name at least one place — where the thing physically happened",
             ),
         );
         return;
     }
     for (const address of where.locus) {
         const { problem } = resolve(address, index, ["place"]);
-        if (problem) out.push(finding(ev.file, line, "error", `\`event.where.locus\`: ${problem}`));
+        if (problem)
+            out.push(finding(ev.file, line, "error", `\`data.event.where.locus\`: ${problem}`));
     }
     const reach = Array.isArray(where.reach) ? where.reach : [];
     const continents = new Set();
@@ -660,7 +658,7 @@ function checkWhere(ev, events, index, out) {
         }
         const { problem } = resolve(entry.place, index, ["place"]);
         if (problem) {
-            out.push(finding(ev.file, line, "error", `\`event.where.reach\`: ${problem}`));
+            out.push(finding(ev.file, line, "error", `\`data.event.where.reach\`: ${problem}`));
             continue;
         }
         if (typeof entry.how !== "string" || entry.how.trim() === "") {
@@ -738,7 +736,7 @@ function checkRecord(ev, index, out) {
                 ev.file,
                 at("kind"),
                 "error",
-                `\`event.kind\` must be one of the closed list, but reads ${JSON.stringify(block.kind)}`,
+                `\`data.event.kind\` must be one of the closed list, but reads ${JSON.stringify(block.kind)}`,
             ),
         );
     }
@@ -748,7 +746,7 @@ function checkRecord(ev, index, out) {
                 ev.file,
                 at("depth"),
                 "error",
-                `\`event.depth\` must be one of ${[...DEPTHS].join(", ")}, but reads ${JSON.stringify(block.depth)}`,
+                `\`data.event.depth\` must be one of ${[...DEPTHS].join(", ")}, but reads ${JSON.stringify(block.depth)}`,
             ),
         );
     } else if (block.depth !== "world") {
@@ -767,13 +765,13 @@ function checkRecord(ev, index, out) {
                 ev.file,
                 at("standing"),
                 "error",
-                `\`event.standing\` must be one of ${[...STANDINGS].join(", ")}, but reads ${JSON.stringify(block.standing)}`,
+                `\`data.event.standing\` must be one of ${[...STANDINGS].join(", ")}, but reads ${JSON.stringify(block.standing)}`,
             ),
         );
     }
     const summary = typeof block.summary === "string" ? block.summary : "";
     if (summary.trim() === "") {
-        out.push(finding(ev.file, at("summary"), "error", "`event.summary` is missing"));
+        out.push(finding(ev.file, at("summary"), "error", "`data.event.summary` is missing"));
     }
     const lowered = summary.toLowerCase();
     for (const hedge of HEDGES) {
@@ -783,7 +781,7 @@ function checkRecord(ev, index, out) {
                 ev.file,
                 at("summary"),
                 "error",
-                `\`event.summary\` hedges with "${hedge}"; the summary is the objective row, and what the evidence supports belongs in \`standing\`, what a people says in \`accounts\`, and what is open in \`unresolved\``,
+                `\`data.event.summary\` hedges with "${hedge}"; the summary is the objective row, and what the evidence supports belongs in \`standing\`, what a people says in \`accounts\`, and what is open in \`unresolved\``,
             ),
         );
     }
@@ -793,14 +791,15 @@ function checkRecord(ev, index, out) {
             continue;
         }
         const { problem } = resolve(entry.ref, index);
-        if (problem) out.push(finding(ev.file, at("who"), "error", `\`event.who\`: ${problem}`));
+        if (problem)
+            out.push(finding(ev.file, at("who"), "error", `\`data.event.who\`: ${problem}`));
         if (!ROLES.has(entry.role)) {
             out.push(
                 finding(
                     ev.file,
                     at("who"),
                     "error",
-                    `\`event.who\` role must be one of ${[...ROLES].join(", ")}, but reads ${JSON.stringify(entry.role)}`,
+                    `\`data.event.who\` role must be one of ${[...ROLES].join(", ")}, but reads ${JSON.stringify(entry.role)}`,
                 ),
             );
         }
@@ -812,7 +811,7 @@ function checkRecord(ev, index, out) {
         if (!entry?.by) continue;
         const { problem } = resolve(entry.by, index);
         if (problem)
-            out.push(finding(ev.file, at("names"), "error", `\`event.names\`: ${problem}`));
+            out.push(finding(ev.file, at("names"), "error", `\`data.event.names\`: ${problem}`));
     }
     for (const entry of block.accounts ?? []) {
         if (!entry?.by) {
@@ -828,7 +827,9 @@ function checkRecord(ev, index, out) {
         }
         const { problem } = resolve(entry.by, index);
         if (problem) {
-            out.push(finding(ev.file, at("accounts"), "error", `\`event.accounts\`: ${problem}`));
+            out.push(
+                finding(ev.file, at("accounts"), "error", `\`data.event.accounts\`: ${problem}`),
+            );
         }
         if (!AGREES.has(entry.agrees)) {
             out.push(
@@ -836,7 +837,7 @@ function checkRecord(ev, index, out) {
                     ev.file,
                     at("accounts"),
                     "error",
-                    `\`event.accounts\` agrees must be one of ${[...AGREES].join(", ")}, but reads ${JSON.stringify(entry.agrees)}`,
+                    `\`data.event.accounts\` agrees must be one of ${[...AGREES].join(", ")}, but reads ${JSON.stringify(entry.agrees)}`,
                 ),
             );
         }
@@ -847,7 +848,7 @@ function checkRecord(ev, index, out) {
                 ev.file,
                 at("unresolved"),
                 "error",
-                "`event.unresolved` must be a list, empty where the record settles everything",
+                "`data.event.unresolved` must be a list, empty where the record settles everything",
             ),
         );
     }
@@ -879,7 +880,7 @@ function checkFollows(events, out) {
                         ev.file,
                         line,
                         "error",
-                        `\`event.follows\`: "${edge.event}" names no spine event`,
+                        `\`data.event.follows\`: "${edge.event}" names no spine event`,
                     ),
                 );
                 continue;
@@ -891,7 +892,7 @@ function checkFollows(events, out) {
                         ev.file,
                         line,
                         "error",
-                        `\`event.follows\` how must be one of ${[...EDGES].join(", ")}, but reads ${JSON.stringify(edge.how)}`,
+                        `\`data.event.follows\` how must be one of ${[...EDGES].join(", ")}, but reads ${JSON.stringify(edge.how)}`,
                     ),
                 );
             }
@@ -903,7 +904,7 @@ function checkFollows(events, out) {
                         ev.file,
                         line,
                         "error",
-                        `\`event.follows\` points forward: "${shortcode}" is dated ${there} and this event ${here}, and an edge runs backward only`,
+                        `\`data.event.follows\` points forward: "${shortcode}" is dated ${there} and this event ${here}, and an edge runs backward only`,
                     ),
                 );
             }
@@ -920,7 +921,7 @@ function checkFollows(events, out) {
                     ev.file,
                     lineOf(ev.raw, "follows"),
                     "error",
-                    `\`event.follows\` closes a cycle: ${[...trail, code].join(" -> ")}`,
+                    `\`data.event.follows\` closes a cycle: ${[...trail, code].join(" -> ")}`,
                 ),
             );
             return;
@@ -965,12 +966,7 @@ function main() {
         const code = ev.fm?.shortcode;
         if (!code) {
             out.push(
-                finding(
-                    ev.file,
-                    null,
-                    "error",
-                    "the note carries an `event:` block and no `shortcode`",
-                ),
+                finding(ev.file, null, "error", "the note carries `data.event` and no `shortcode`"),
             );
             continue;
         }

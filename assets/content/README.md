@@ -31,6 +31,19 @@ Compendium folders are notes too. `Folders/` holds them, each typed `folder` wit
 a `shortcode`. A note files itself into a folder with `packFolder: <shortcode>`.
 An unknown folder shortcode fails the build.
 
+## Event metadata
+
+Any `lore` note may carry a `data.event` map. It records the event's kind,
+date, sources, places affected, participants, and relationships to other
+events. The note's prose remains the readable account; the map makes the
+chronology and its evidence checkable. See
+[The Founding](Lore/History/The_Founding.md) for a complete example.
+
+World events in `Lore/History/` form the shared history spine. Run
+`npm run lint:history` to check their dates, sources, reach, and event links.
+That check requires `data.event.depth: world` for a spine event. Regional and
+local event metadata can live on other lore notes.
+
 ## Adding a note
 
 Create a Markdown file anywhere below this directory with YAML frontmatter:
