@@ -5,42 +5,31 @@ type: lore
 subType: history
 description: "Around 650 BF patrician families overthrow the last Vylarian king and establish the Republic, which grows from a regional city-state into the dominant power of the Vylarian Sea."
 tags: [history, spine]
-data: {packFolder: settinglore}
-
-# event:
-#   kind: founding
-#   depth: world
-#   when:
-#     year: -650
-#     precision: decade
-#   sources:
-#     - affiliation-vylarinmpr
-#     - place-ankrscntnnt
-#   summary: >-
-#     Patrician families overthrow the last Vylarian king and establish a Republic governed by a Senate
-#     of landed aristocrats. It grows steadily from a regional city-state into the dominant power of the
-#     Vylarian Sea, and within two and a half centuries controls significant territory across Mídhalión.
-#   standing: attested
-#   where:
-#     locus:
-#       - place-vylariargn
-#     reach:
-#       - place: place-midhalnrgn
-#         how: >-
-#           a city on one bay becomes the power every other city on this sea has to reckon with, and the
-#           legal tradition it builds is adopted or adapted by courts across the continent
-#         knowledge: named
-#   who:
-#     - ref: affiliation-vylarinmpr
-#       role: founder
-#   accounts:
-#     - by: affiliation-vylarinmpr
-#       says: >-
-#         The Republic was established by patrician families who overthrew the last Vylarian king, and
-#         the Senate has governed since.
-#       agrees: full
-#   unresolved:
-#     - the Vylarian monarchy the patricians overthrew, of which nothing is recorded but that it ended
+data:
+  packFolder: settinglore
+  event:
+    kind: founding
+    depth: world
+    when: {year: -650, precision: decade}
+    sources: [affiliation-vylarinmpr, place-ankrscntnnt]
+    summary: >-
+      Patrician families overthrow the last Vylarian king and establish a Republic governed by a Senate of landed aristocrats. It grows steadily from a regional city-state into the dominant power of the Vylarian Sea, and within two and a half centuries controls significant territory across Mídhalión.
+    standing: attested
+    where:
+      locus: [place-vylariargn]
+      reach:
+        - place: place-midhalnrgn
+          how: >-
+            a city on one bay becomes the power every other city on this sea has to reckon with, and the legal tradition it builds is adopted or adapted by courts across the continent
+          knowledge: named
+    who: [{ref: affiliation-vylarinmpr, role: founder}]
+    accounts:
+      - by: affiliation-vylarinmpr
+        says: >-
+          The Republic was established by patrician families who overthrew the last Vylarian king, and the Senate has governed since.
+        agrees: full
+    unresolved:
+      - the Vylarian monarchy the patricians overthrew, of which nothing is recorded but that it ended
 ---
 
 The **[[affiliation-vylarinmpr|Vylarian Republic]]** was established by patrician families who

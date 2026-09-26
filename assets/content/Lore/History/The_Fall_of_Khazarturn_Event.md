@@ -5,97 +5,81 @@ type: lore
 subType: history
 description: "In 2427 BF a Sinalë outlaw takes up the Second Voice, drives tens of thousands of Grukar against Khazártúrn and kills every soul in it—and the two Elder Races have not spoken since."
 tags: [history, spine]
-data: {packFolder: settinglore}
-
-# event:
-#   kind: fall
-#   depth: world
-#   when:
-#     year: -2427
-#     precision: year
-#   sources:
-#     - lore-khazarturn
-#     - miscgear-secondvoice
-#     - lore-flkkhazar
-#     - lore-flksinale
-#     - lore-grukarfolk
-#   summary: >-
-#     A Sinalë outlaw takes up the Second Voice, a relic that speaks over Ahks and commands the hatched
-#     directly, and drives tens of thousands of Grukar against Khazártúrn. All thirty thousand
-#     inhabitants are killed. The Khazári lay their dead in their own chambers, clean the city, and seal
-#     it for all generations. The Old Compact ends here, the Sinalë hunt the outlaw down themselves and
-#     render no accounting, and the two Elder Races have had nothing to do with one another since.
-#   standing: attested
-#   where:
-#     locus:
-#       - place-worldthlrn
-#     reach:
-#       - place: place-ironfells
-#         how: >-
-#           the hold in these mountains had stood seven centuries when the account reached it, and has
-#           killed Grukar on sight ever since without waiting to be asked
-#         knowledge: named
-#       - place: place-aelwyth
-#         how: >-
-#           the two Elder Races here, alone among their kind, unite the island under a single crown and
-#           govern it together for six centuries rather than let the breach be the end of it
-#         knowledge: named
-#       - place: place-elavendre
-#         how: a convoy of six ships sails from these harbors carrying the recovered relic, and never arrives
-#         knowledge: named
-#       - place: place-grkrhlmrgn
-#         how: >-
-#           tribes are killed on sight by a people that has never negotiated with anybody, for a reason
-#           no Grukar has ever been told
-#         knowledge: unlinked
-#       - place: place-xerathia
-#         how: >-
-#           the holds in these ranges keep the same account in the same working archive and hold to the
-#           same doctrine, and nobody living beside them knows there is a doctrine
-#         knowledge: unlinked
-#   who:
-#     - ref: lore-flkkhazar
-#       role: victim
-#     - ref: lore-flksinale
-#       role: actor
-#     - ref: lore-grukarfolk
-#       role: instrument
-#   follows:
-#     - event: lore-khazturnrsd
-#       how: ended
-#       note: the city stood close to twenty-seven centuries before it fell
-#     - event: lore-grukarapp
-#       how: enabled
-#       note: the weapon needed a species to point, and that species had been in the world six centuries
-#     - event: lore-oldcompact
-#       how: ended
-#       note: the accord of the two Elder Races ends on this day and in this act, and is the same moment seen from the other side
-#   accounts:
-#     - by: lore-flkkhazar
-#       says: >-
-#         The Sinalë knew the thing existed and never said so. One of theirs held it. They settled it in
-#         private, handed over nothing, and explained nothing.
-#       agrees: partly
-#       withholds: whether anyone has entered the city since it was sealed, and what is in it
-#     - by: lore-flksinale
-#       says: >-
-#         One outlaw, whom we destroyed ourselves, and it took a long time. We owed no reckoning.
-#       agrees: partly
-#       withholds: that the outlaw was one of their own, his name, his fate, and where the Second Voice came from
-#     - by: place-worldthlrn
-#       says: Something shattered the Old Compact in an age before human memory.
-#       agrees: silent
-#     - by: lore-grukarfolk
-#       says: >-
-#         Nothing. The tribes so emptied did not recover, and an Ahk that loses its spawn does not stop
-#         existing afterward.
-#       agrees: silent
-#   unresolved:
-#     - who made the Second Voice, and why neither Elder Race ever said it existed
-#     - the outlaw's name, his fate, and his motive
-#     - whether any Khazár has entered the city since it was closed, and what remains inside it
-#     - where the valley stands
-#     - where the Second Voice is now, having never been recovered a second time
+data:
+  packFolder: settinglore
+  event:
+    kind: fall
+    depth: world
+    when: {year: -2427, precision: year}
+    sources:
+      - lore-khazarturn
+      - miscgear-secondvoice
+      - lore-flkkhazar
+      - lore-flksinale
+      - lore-grukarfolk
+    summary: >-
+      A Sinalë outlaw takes up the Second Voice, a relic that speaks over Ahks and commands the hatched directly, and drives tens of thousands of Grukar against Khazártúrn. All thirty thousand inhabitants are killed. The Khazári lay their dead in their own chambers, clean the city, and seal it for all generations. The Old Compact ends here, the Sinalë hunt the outlaw down themselves and render no accounting, and the two Elder Races have had nothing to do with one another since.
+    standing: attested
+    where:
+      locus: [place-worldthlrn]
+      reach:
+        - place: place-ironfells
+          how: >-
+            the hold in these mountains had stood seven centuries when the account reached it, and has killed Grukar on sight ever since without waiting to be asked
+          knowledge: named
+        - place: place-aelwyth
+          how: >-
+            the two Elder Races here, alone among their kind, unite the island under a single crown and govern it together for six centuries rather than let the breach be the end of it
+          knowledge: named
+        - place: place-elavendre
+          how: a convoy of six ships sails from these harbors carrying the recovered relic, and never arrives
+          knowledge: named
+        - place: place-grkrhlmrgn
+          how: >-
+            tribes are killed on sight by a people that has never negotiated with anybody, for a reason no Grukar has ever been told
+          knowledge: unlinked
+        - place: place-xerathia
+          how: >-
+            the holds in these ranges keep the same account in the same working archive and hold to the same doctrine, and nobody living beside them knows there is a doctrine
+          knowledge: unlinked
+    who:
+      - {ref: lore-flkkhazar, role: victim}
+      - {ref: lore-flksinale, role: actor}
+      - {ref: lore-grukarfolk, role: instrument}
+    follows:
+      - event: lore-khazturnrsd
+        how: ended
+        note: the city stood close to twenty-seven centuries before it fell
+      - event: lore-grukarapp
+        how: enabled
+        note: the weapon needed a species to point, and that species had been in the world six centuries
+      - event: lore-oldcompact
+        how: ended
+        note: the accord of the two Elder Races ends on this day and in this act, and is the same moment seen from the other side
+    accounts:
+      - by: lore-flkkhazar
+        says: >-
+          The Sinalë knew the thing existed and never said so. One of theirs held it. They settled it in private, handed over nothing, and explained nothing.
+        agrees: partly
+        withholds: whether anyone has entered the city since it was sealed, and what is in it
+      - by: lore-flksinale
+        says: >-
+          One outlaw, whom we destroyed ourselves, and it took a long time. We owed no reckoning.
+        agrees: partly
+        withholds: that the outlaw was one of their own, his name, his fate, and where the Second Voice came from
+      - by: place-worldthlrn
+        says: Something shattered the Old Compact in an age before human memory.
+        agrees: silent
+      - by: lore-grukarfolk
+        says: >-
+          Nothing. The tribes so emptied did not recover, and an Ahk that loses its spawn does not stop existing afterward.
+        agrees: silent
+    unresolved:
+      - who made the Second Voice, and why neither Elder Race ever said it existed
+      - the outlaw's name, his fate, and his motive
+      - whether any Khazár has entered the city since it was closed, and what remains inside it
+      - where the valley stands
+      - where the Second Voice is now, having never been recovered a second time
 ---
 
 **[[lore-khazarturn|Khazártúrn]]** was the greatest city the [[lore-flkkhazar|Khazári]] ever built, and
