@@ -13,8 +13,9 @@ shortcode: oxttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: oxtotem
 ---
+
+![[icon-oxtotem|Ox]]{float: top-left, size: medium}
 
 Strong and dependable, oxen are resilient animals used in agriculture for their ability to carry heavy loads and work tirelessly in fields.
 

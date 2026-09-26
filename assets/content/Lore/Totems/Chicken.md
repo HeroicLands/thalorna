@@ -13,8 +13,9 @@ shortcode: chickenttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: chickentotem
 ---
+
+![[icon-chickentotem|Chicken]]{float: top-left, size: medium}
 
 Timid and skittish, chickens are easily startled and rely on their quick reflexes and flocking behavior for safety.
 

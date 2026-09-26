@@ -2,6 +2,7 @@
 tags:
   - tengvok
   - faith-skill
+  - draft
 type: skill
 subType: mystical
 shortcode: fekvor

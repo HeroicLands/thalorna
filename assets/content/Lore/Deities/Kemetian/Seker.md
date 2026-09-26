@@ -8,9 +8,9 @@ name:
   aliases: []
 shortcode: sekerdty
 packFolder: deitieskemetian
-data:
-  icon: seker
 ---
+
+![[icon-seker|Sēker]]{float: top-left, size: medium}
 
 _Lord of Silent Passage—a black hawk with gold-tipped wings._
 

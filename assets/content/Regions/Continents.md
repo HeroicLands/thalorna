@@ -6,6 +6,7 @@ type: doc
 subType: reference
 shortcode: continents
 tags:
+  - draft
 description: Major landmasses of the world.
 data:
   banner: continentbnr

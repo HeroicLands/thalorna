@@ -13,8 +13,9 @@ shortcode: seabassttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: seabasstotem
 ---
+
+![[icon-seabasstotem|Sea Bass]]{float: top-left, size: medium}
 
 Opportunistic and stealthy, sea bass lie in wait to ambush unsuspecting prey, capitalizing on their surroundings to strike with precision.
 

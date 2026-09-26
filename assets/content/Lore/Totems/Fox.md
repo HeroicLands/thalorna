@@ -13,8 +13,9 @@ shortcode: foxttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: foxtotem
 ---
+
+![[icon-foxtotem|Fox]]{float: top-left, size: medium}
 
 Deceitful and cunning, foxes are highly intelligent and resourceful, using their wits to outsmart both prey and predators alike.
 

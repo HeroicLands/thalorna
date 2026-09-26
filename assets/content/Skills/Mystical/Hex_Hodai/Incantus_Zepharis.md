@@ -1,6 +1,7 @@
 ---
 tags:
   - hex-hodai
+  - draft
 type: skill
 subType: mystical
 shortcode: zepharis

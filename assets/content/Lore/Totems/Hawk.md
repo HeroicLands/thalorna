@@ -13,8 +13,9 @@ shortcode: hawkttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: hawktotem
 ---
+
+![[icon-hawktotem|Hawk]]{float: top-left, size: medium}
 
 Observant and swift, hawks use their sharp vision to spot prey from great distances and strike with incredible speed and accuracy.
 

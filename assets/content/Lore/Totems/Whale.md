@@ -13,8 +13,9 @@ shortcode: whalettm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: whaletotem
 ---
+
+![[icon-whaletotem|Whale]]{float: top-left, size: medium}
 
 Majestic and communicative, whales are highly social marine mammals that travel in pods, using complex vocalizations to coordinate and express themselves.
 

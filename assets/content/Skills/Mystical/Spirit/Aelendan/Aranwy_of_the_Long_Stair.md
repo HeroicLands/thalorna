@@ -2,6 +2,7 @@
 tags:
   - first-gods
   - spirit-power
+  - draft
 description: "Standing with Aranwy of the Long Stair—what this allied Kindred is met, asked and bargained with."
 type: skill
 subType: mystical

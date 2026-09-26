@@ -13,8 +13,9 @@ shortcode: stagttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: stagtotem
 ---
+
+![[icon-stagtotem|Stag]]{float: top-left, size: medium}
 
 Proud and vigilant, stags are territorial animals that display their strength and dominance during the rutting season to attract mates and fend off rivals.
 

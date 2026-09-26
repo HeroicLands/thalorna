@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - draft
 description: "The cult that venerates Njörven."
 type: affiliation
 subType: spirittradition

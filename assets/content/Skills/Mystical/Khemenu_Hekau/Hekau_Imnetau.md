@@ -1,6 +1,7 @@
 ---
 tags:
   - khemenu-hekau
+  - draft
 type: skill
 subType: mystical
 shortcode: imnetau

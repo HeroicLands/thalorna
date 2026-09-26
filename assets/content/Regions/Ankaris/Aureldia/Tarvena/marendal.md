@@ -2,6 +2,7 @@
 tags:
   - port
   - town
+  - draft
 description: "Harbor Town"
 type: place
 subType: settlement

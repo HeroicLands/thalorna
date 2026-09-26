@@ -13,8 +13,9 @@ shortcode: sheepttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: sheeptotem
 ---
+
+![[icon-sheeptotem|Sheep]]{float: top-left, size: medium}
 
 Docile and flock-minded, sheep are highly social animals that find safety in numbers, often following a leader and sticking closely to their herd.
 

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - draft
 name:
   full: Elementals
   aliases:

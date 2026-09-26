@@ -13,8 +13,9 @@ shortcode: badgerttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: badgertotem
 ---
+
+![[icon-badgertotem|Badger]]{float: top-left, size: medium}
 
 Tenacious and solitary, badgers are fiercely independent animals that will defend their territory with determination and persistence.
 

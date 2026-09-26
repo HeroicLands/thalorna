@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - draft
 description: "A people of Aelwyth against whom the Kingdom of Dúnavarre prosecuted a crusade of extermination."
 type: affiliation
 subType: polity

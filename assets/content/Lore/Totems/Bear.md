@@ -13,8 +13,9 @@ shortcode: bearttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: beartotem
 ---
+
+![[icon-beartotem|Bear]]{float: top-left, size: medium}
 
 Quiet and shy, bears prefer to avoid confrontation, retreating into the wilderness where they live a largely solitary and reclusive life.
 

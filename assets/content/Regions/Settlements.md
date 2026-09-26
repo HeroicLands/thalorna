@@ -6,6 +6,7 @@ type: doc
 subType: reference
 shortcode: setlements
 tags:
+  - draft
 description: Cities, towns, villages, and other inhabited places.
 data:
   banner: settlementbnr

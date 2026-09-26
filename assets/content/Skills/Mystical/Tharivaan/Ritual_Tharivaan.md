@@ -2,6 +2,7 @@
 tags:
   - tharivaan
   - faith-skill
+  - draft
 type: skill
 subType: mystical
 shortcode: tharivaan

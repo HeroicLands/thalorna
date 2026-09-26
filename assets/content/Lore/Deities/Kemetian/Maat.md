@@ -8,9 +8,9 @@ name:
   aliases: []
 shortcode: maatdty
 packFolder: deitieskemetian
-data:
-  icon: maat
 ---
+
+![[icon-maat|Má'át]]{float: top-left, size: medium}
 
 _Keeper of Truth and Harmony—a feather atop a golden scale._
 

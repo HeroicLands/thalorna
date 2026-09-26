@@ -1,6 +1,7 @@
 ---
 tags:
   - region
+  - draft
 description: "The centralern reach of the K'ich'chik continent and its city-states."
 name:
   full: Central K'ich'chik

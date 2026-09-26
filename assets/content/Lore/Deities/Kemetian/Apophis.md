@@ -8,9 +8,9 @@ name:
   aliases: []
 shortcode: apophisdty
 packFolder: deitieskemetian
-data:
-  icon: apophis
 ---
+
+![[icon-apophis|Ápōphis]]{float: top-left, size: medium}
 
 _The Devouring Shadow—a coiled serpent encircling a shattered star._
 

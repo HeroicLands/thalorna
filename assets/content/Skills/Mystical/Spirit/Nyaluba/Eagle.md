@@ -2,6 +2,7 @@
 tags:
   - nyaluba
   - spirit-power
+  - draft
 description: "Standing with the eagle-spirit of the Ngonzi—what an allied guide of the Nyáluba Way is met and asked with."
 type: skill
 subType: mystical

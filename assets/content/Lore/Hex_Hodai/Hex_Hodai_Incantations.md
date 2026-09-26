@@ -3,6 +3,7 @@ tags:
   - lore
   - arcane
   - hex-hodai
+  - draft
 type: lore
 subType: arcana
 shortcode: hxhdncnttns

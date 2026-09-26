@@ -13,8 +13,9 @@ shortcode: sharkttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: sharktotem
 ---
+
+![[icon-sharktotem|Shark]]{float: top-left, size: medium}
 
 Relentless and instinctive, sharks are apex predators that patrol the oceans with unyielding focus, driven by their powerful senses to hunt and survive.
 

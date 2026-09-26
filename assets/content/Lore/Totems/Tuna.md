@@ -13,8 +13,9 @@ shortcode: tunattm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: tunatotem
 ---
+
+![[icon-tunatotem|Tuna]]{float: top-left, size: medium}
 
 Driven and enduring, tuna are powerful swimmers that migrate vast distances across oceans, relentlessly pursuing schools of prey in their path.
 

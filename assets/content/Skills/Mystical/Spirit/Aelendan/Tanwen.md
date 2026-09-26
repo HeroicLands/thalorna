@@ -2,6 +2,7 @@
 tags:
   - first-gods
   - spirit-power
+  - draft
 description: "Standing with Tanwen, hearth-kin of Eshálosha—what guest-right, the peace of the hall and the binding of an oath sworn at fire are asked through."
 type: skill
 subType: mystical

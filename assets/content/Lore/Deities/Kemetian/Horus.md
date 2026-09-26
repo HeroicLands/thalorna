@@ -8,9 +8,9 @@ name:
   aliases: []
 shortcode: horusdty
 packFolder: deitieskemetian
-data:
-  icon: horus
 ---
+
+![[icon-horus|Hórús]]{float: top-left, size: medium}
 
 _The Guiding Falcon—a falcon in flight with a compass rose._
 
