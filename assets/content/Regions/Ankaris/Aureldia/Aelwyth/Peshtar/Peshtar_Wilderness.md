@@ -40,7 +40,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'affiliation'
   AND subType = 'polity'
-  AND list_contains(data.domains, 'thalorna-none-place-pshtrwldrns')
+  AND list_contains(data.domains, 'thalorna-note-place-pshtrwldrns')
 ORDER BY name.full COLLATE NOCASE
 ```
 
