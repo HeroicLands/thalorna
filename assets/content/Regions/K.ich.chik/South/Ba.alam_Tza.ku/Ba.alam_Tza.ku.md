@@ -104,11 +104,12 @@ data:
   parents: []
   relations:
     itzanpnthn: aligned
-terran_analog: Equador, Peru, western Brazil
-packFolder: baalamtzaku
+  packFolder: baalamtzaku
 sohl:
   system:
     commonSkills: []
+
+# terran_analog: Equador, Peru, western Brazil
 ---
 
 ## Overview

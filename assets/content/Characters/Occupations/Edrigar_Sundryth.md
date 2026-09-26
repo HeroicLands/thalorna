@@ -10,7 +10,6 @@ name:
   clan: Sundrýth
   home: falkensten
   aliases: []
-packFolder: ankarisvrystwald
 shortcode: edrgrsndryth
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: light
     complexion: rough
     extra_features: []
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

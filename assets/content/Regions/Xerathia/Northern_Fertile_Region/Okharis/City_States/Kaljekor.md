@@ -11,12 +11,12 @@ data:
   parents:
     - okharisrgn
   population: 35000
+  packFolder: citystates
 name:
   full: Kaljékor
   aliases:
     - The Golden Flame
 shortcode: kaljekor
-packFolder: citystates
 ---
 
 **meaning:** _The Golden Flame_

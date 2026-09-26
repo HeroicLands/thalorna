@@ -7,7 +7,8 @@ name:
   full: Pavanajitras
   aliases: []
 shortcode: pvnjtrsdty
-packFolder: deitiesvarnaka
+data:
+  packFolder: deitiesvarnaka
 ---
 
 _The Wandering Wind—a loose company of gauze-robed figures running barefoot, scarves streaming._

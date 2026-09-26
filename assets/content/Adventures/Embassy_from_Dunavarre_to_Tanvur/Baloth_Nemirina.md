@@ -8,7 +8,6 @@ name:
   given: Baloth
   clan: Nemirina
   aliases: []
-packFolder: adventures
 shortcode: balothnemirina
 type: being
 data:
@@ -22,6 +21,7 @@ data:
     - repblctrvn
   gender: male
   species: humanflk
+  packFolder: adventures
 ---
 
 # Appearance {#appearance}

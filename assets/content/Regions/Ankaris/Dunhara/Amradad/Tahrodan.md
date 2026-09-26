@@ -12,11 +12,11 @@ data:
   parents:
     - amradadrgn
   population: 30000
+  packFolder: amradad
 name:
   full: Tahrodan
   aliases: []
 shortcode: tahrodan
-packFolder: amradad
 ---
 
 ## Overview

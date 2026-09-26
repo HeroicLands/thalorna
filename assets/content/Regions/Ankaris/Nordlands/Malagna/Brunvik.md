@@ -11,9 +11,9 @@ data:
   parents:
     - malagna
   population: 200
+  packFolder: malagna
 name:
   full: Brúnvík
   aliases: []
 shortcode: brunvik
-packFolder: malagna
 ---

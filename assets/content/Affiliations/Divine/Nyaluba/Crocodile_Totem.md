@@ -71,13 +71,13 @@ data:
     - nyalbpnthn
   relations:
     nyalbpnthn: aligned
+  packFolder: nyaluba
 name:
   full: "Crocodile Totem"
   aliases:
     - Crocodile of the Kambezi
     - Kambezi Totem
 shortcode: nyalbcroc
-packFolder: nyaluba
 sohl:
   system:
     commonSkills:

@@ -13,11 +13,11 @@ data:
   parents:
     - wyndmarch
   population: 2400
+  packFolder: aelwyth
 name:
   full: Caerwynd
   aliases: []
 shortcode: caerwynd
-packFolder: aelwyth
 ---
 
 **Caerwynd** stands where Aldorath's settled country runs out and the interior forest begins, and it is a

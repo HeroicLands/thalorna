@@ -11,7 +11,6 @@ name:
   clan: Jâ'Utu
   home: meruhotep
   aliases: []
-packFolder: northernfertileregiontakheperu
 shortcode: banutjaut
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: null
     extra_features:
       - a scar on the left ear
+  packFolder: northernfertileregiontakheperu
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }

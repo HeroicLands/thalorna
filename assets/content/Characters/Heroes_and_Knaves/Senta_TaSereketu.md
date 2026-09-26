@@ -12,7 +12,6 @@ name:
   aliases:
     - Sênta TaSereket
     - Senta TaSereket
-packFolder: northernfertileregiontakheperu
 shortcode: sentatsrkt
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: tawny
     complexion: null
     extra_features: []
+  packFolder: northernfertileregiontakheperu
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

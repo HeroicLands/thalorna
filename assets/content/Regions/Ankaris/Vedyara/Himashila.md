@@ -13,11 +13,11 @@ data:
     - graznmntns
     - sthrnwall
   population: null
+  packFolder: vedyara
 name:
   full: Himashilā
   aliases: []
 shortcode: himashila
-packFolder: vedyara
 ---
 
 **Himashilā** lies at the head of [[place-chandrprbh|Chandraprabhava]], on the shelf where the [[place-chandrmahi|Chandramahī]] comes out of the ice under [[place-suryashkhr|Sūryashikhara]]. It is one piece, about the size of a cart, without a seam or a crack anywhere on it. Its upper face swells and hollows in long true runs, more like the whorl of a conch opened out than like anything built, and there is no ornament on it, no straight edge and no square corner.

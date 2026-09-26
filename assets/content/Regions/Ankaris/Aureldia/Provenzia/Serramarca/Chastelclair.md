@@ -13,11 +13,11 @@ data:
   parents:
     - serramarca
   population: 4500
+  packFolder: provenzia
 name:
   full: Chastèlclair
   aliases: []
 shortcode: chastelclr
-packFolder: provenzia
 ---
 
 **Chastèlclair**—the bright castle—commands the road below the Tarvénian passes, and is the

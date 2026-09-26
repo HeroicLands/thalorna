@@ -83,11 +83,11 @@ data:
   lore: []
   parents: []
   relations: {}
+  packFolder: harad
 name:
   full: Auric Compact
   aliases: []
 shortcode: auricompct
-packFolder: harad
 sohl:
   system:
     commonSkills: []

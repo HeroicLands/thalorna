@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-circle
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: kentra
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Charge
-packFolder: spells
+
+# hmk:
+#   name: Charge
 ---
 
 The caster channels a measured quantity of arcane energy into a prepared object—a weapon, a gemstone, a length of rope—binding it within the object's physical structure like heat absorbed by iron. The object takes on a faint inner glow visible only to those with magical sight, and thrums with contained potential when held. This stored energy can later be released by a triggering word, gesture, or condition, powering a spell or producing a predetermined magical effect.

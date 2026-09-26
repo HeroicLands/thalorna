@@ -10,7 +10,8 @@ name:
   aliases:
     - The Mother of Rivers
 shortcode: mamamitospr
-packFolder: lorespiritsokharic
+data:
+  packFolder: lorespiritsokharic
 ---
 
 - **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]

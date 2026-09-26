@@ -7,5 +7,6 @@ name:
   full: Míthárä
   aliases: []
 shortcode: mitharadty
-packFolder: deitiesashalan
+data:
+  packFolder: deitiesashalan
 ---

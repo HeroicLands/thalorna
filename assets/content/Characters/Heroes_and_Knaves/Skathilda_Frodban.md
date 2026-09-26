@@ -13,7 +13,6 @@ name:
   aliases:
     - the Weasel
     - Skathilda Frodban
-packFolder: ankarisvrystwald
 shortcode: skthldfrdbn
 type: being
 data:
@@ -45,6 +44,7 @@ data:
       - a thin scar from ear to jawline on the right side
       - sharp pointed features
       - moves with coiled restless energy
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }

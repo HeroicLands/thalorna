@@ -10,6 +10,7 @@ subType: arcaneincantation
 data:
   icon: icon-firebdg
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: pyrethos
@@ -18,9 +19,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Conflagration
-packFolder: spells
+
+# hmk:
+#   name: Conflagration
 ---
 
 The caster raises both hands toward the sky and brings them sweeping down, and fire falls like rain. Streams of flame pour from empty air, splashing across surfaces, pooling in low areas, and spreading with terrifying speed. Within seconds, the targeted area becomes an inferno—a churning hell of heat, smoke, and roaring flame that consumes everything flammable and blisters everything that is not.

@@ -12,9 +12,9 @@ data:
   parents:
     - kostarosdst
   population: 4000
+  packFolder: helionis
 name:
   full: Myrtillos
   aliases: []
 shortcode: myrtillos
-packFolder: helionis
 ---

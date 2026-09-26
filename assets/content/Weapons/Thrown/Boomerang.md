@@ -9,6 +9,7 @@ type: weapongear
 data:
   icon: icon-boomerang
   templatePriority: null
+  packFolder: weapons
 sohl:
   kbcat: thrown
   weaponType: Club
@@ -106,7 +107,6 @@ sohl:
         maxVolleyMult: 3
         baseRangeBase: 240
         drawBase: 0
-packFolder: weapons
 ---
 
 A curved wooden throwing-stick that travels in a flat arc and strikes targets at a distance, the boomerang is a hunting tool pressed occasionally into war service. Heavy war-boomerangs do not return; they are thrown to break legs or ribs of fleeing game or skirmishers. Light returning variants are ceremonial; practical warriors keep them as backup implements.

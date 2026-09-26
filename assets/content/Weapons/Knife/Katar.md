@@ -9,6 +9,7 @@ type: weapongear
 data:
   icon: icon-broaddagger
   templatePriority: null
+  packFolder: weapons
 sohl:
   kbcat: knife
   weaponType: Knife
@@ -106,7 +107,6 @@ sohl:
         defense:
           blockMod: 0
           counterstrikeMod: 0
-packFolder: weapons
 ---
 
 A straight blade fixed to a wide H-shaped grip that runs the length of the forearm, swung and thrust with the whole hand in a knuckle-punch motion. The blade tapers from a broad base to a point, forcing impact through mail and plate when driven with shoulder and hip. A weapon of close brawlers and bare-knuckle fighters, favored in the packed press of a tavern or ambush.

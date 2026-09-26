@@ -10,7 +10,6 @@ name:
   clan: Kálmereth
   home: silvain
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: dernklmrth
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: light
     complexion: pale
     extra_features: []
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

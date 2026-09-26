@@ -16,18 +16,19 @@ data:
     minutesPerHour: 60
     secondsPerMinute: 60
   present: 720
-packFolder: setting
+  packFolder: setting
 name:
   full: The World of Thalorna
   aliases:
     - Thalorna
 shortcode: worldthlrn
-cascade:
-  - target:
-      kind: section
-    build:
-      render: never
-      list: never
+
+# cascade:
+#   - target:
+#       kind: section
+#     build:
+#       render: never
+#       list: never
 ---
 
 Thalorna is a diverse and ancient world, home to a rich tapestry of cultures, peoples, and lands. Patterned loosely after an alternate Earth, its continents and civilizations echo Terran geography and history while remaining wholly their own. From lush subtropical regions to vast deserts and icy wastes, each continent holds unique histories and societies shaped by millennia of human and otherworldly influence.

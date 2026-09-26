@@ -11,11 +11,11 @@ data:
   parents:
     - senmutnome
   population: 11000
+  packFolder: bordernomes
 name:
   full: Senmut
   aliases: []
 shortcode: senmut
-packFolder: bordernomes
 ---
 
 ## Overview

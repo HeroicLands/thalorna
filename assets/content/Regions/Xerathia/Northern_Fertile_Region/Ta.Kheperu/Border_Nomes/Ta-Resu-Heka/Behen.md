@@ -12,11 +12,11 @@ data:
   parents:
     - taresuhekanome
   population: 24000
+  packFolder: taresuheka
 name:
   full: Behen
   aliases: []
 shortcode: behen
-packFolder: taresuheka
 ---
 
 ## Overview

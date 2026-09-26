@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-wind
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: zepharis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Curtain
-packFolder: spells
+
+# hmk:
+#   name: Curtain
 ---
 
 The caster draws both hands apart as though parting a curtain, and between them a shimmering wall of agitated air springs into being, its surface rippling with heat-haze distortions that warp every image passing through it. Targets viewed through the screen appear displaced—shifted several feet from their true position—turning aimed shots into guesswork and melee charges into flailing lunges at empty air. Projectiles that strike the screen are deflected by unpredictable micro-gusts, their trajectories bent just enough to miss vital targets.

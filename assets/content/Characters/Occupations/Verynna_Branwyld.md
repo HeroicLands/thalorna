@@ -10,7 +10,6 @@ name:
   clan: Brânwyld
   home: aureliane
   aliases: []
-packFolder: aureldiaprovenzia
 shortcode: vrynbrnwyld
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: fair
     extra_features:
       - a scar on the left thigh
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

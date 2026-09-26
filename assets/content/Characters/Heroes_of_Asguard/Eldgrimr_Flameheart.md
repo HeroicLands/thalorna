@@ -12,7 +12,6 @@ name:
   aliases:
     - Flameheart
   home: null
-packFolder: ankarisnordlands
 shortcode: eldgrmrflmhrt
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: tanned
     complexion: battle_scarred
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

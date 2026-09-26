@@ -12,9 +12,9 @@ data:
   parents:
     - dhanurkotajnpd
   population: 930
+  packFolder: vedyara
 name:
   full: Kārpāsagrāma
   aliases: []
 shortcode: karpasagrama
-packFolder: vedyara
 ---

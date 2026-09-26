@@ -12,11 +12,11 @@ data:
   parents:
     - vithgard
   population: 1000
+  packFolder: vithgard
 name:
   full: Bjornstad
   aliases: []
 shortcode: bjornstad
-packFolder: vithgard
 ---
 
 ## Overview

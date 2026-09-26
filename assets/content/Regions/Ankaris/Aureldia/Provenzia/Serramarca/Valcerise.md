@@ -12,11 +12,11 @@ data:
   parents:
     - serramarca
   population: 1800
+  packFolder: provenzia
 name:
   full: Valcèrise
   aliases: []
 shortcode: valcerise
-packFolder: provenzia
 ---
 
 **Valcèrise**—the cherry vale—is a hill town of [[place-serramarca|Sèrramarca]], standing above the

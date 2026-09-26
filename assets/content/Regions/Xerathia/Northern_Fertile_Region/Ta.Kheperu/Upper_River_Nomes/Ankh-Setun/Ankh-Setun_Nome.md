@@ -16,7 +16,7 @@ data:
   parents:
     - takheperurgn
   population: 800000
-packFolder: ankhsetun
+  packFolder: ankhsetun
 ---
 
 ## Overview

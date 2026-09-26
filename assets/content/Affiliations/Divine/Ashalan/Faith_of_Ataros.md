@@ -85,14 +85,14 @@ data:
     - ashanpnthn
   relations:
     ashanpnthn: aligned
+  packFolder: ashaian
 name:
   full: Faith of Ātáröš
   aliases:
     - The Sacred Flame
     - Fire God
+    - Ātáröš, The Sacred Flame
 shortcode: ataros
-alias: Ātáröš, The Sacred Flame
-packFolder: ashaian
 sohl:
   system:
     commonSkills: []

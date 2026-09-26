@@ -12,12 +12,12 @@ data:
   parents:
     - graznmntns
   population: null
+  packFolder: vedyara
 name:
   full: The Western Descent
   aliases:
     - Dranavár
 shortcode: wstrndscnt
-packFolder: vedyara
 ---
 
 The **Western Descent** is where the [[place-graznmntns|Grazian Mountains]] stop being a wall. The ridges drop, the glaciers give out, and the range breaks into a belt of brown foothills between the oasis-belt to the north and [[place-vedyarargn|Vedyara]]'s north-western marches to the south before running out altogether in the desert-margin of [[place-dunharargn|Dunhara]].

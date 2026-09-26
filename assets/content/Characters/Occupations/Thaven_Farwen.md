@@ -11,7 +11,6 @@ name:
   home: chastelclr
   aliases:
     - Bosun Kellan Stormwatch
-packFolder: aureldiaprovenzia
 shortcode: thavenfrwn
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: fair
     extra_features:
       - a tattoo of a crescent moon on the neck and a Seaman's Guild tatoo on his right arm.
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

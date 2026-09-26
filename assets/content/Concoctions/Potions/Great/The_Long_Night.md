@@ -9,11 +9,10 @@ description: "Nearly black liquid; induces prolonged darkness of consciousness."
 shortcode: ptnsopg
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Soporific, Great"
 data:
   icon: icon-potion
   templatePriority: null
+  packFolder: great
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +21,9 @@ sohl:
     durabilityBase: 5
     potency: "great"
     strength: 0
-packFolder: great
+
+# hmk:
+#   name: "Potion, Soporific, Great"
 ---
 
 This is nearly black liquid that seems to absorb light—viscous and heavy, clinging to the vial like something sentient and reluctant to be disturbed. The smell is overwhelming and almost hypnotic: an intoxicating blend of sleep-herbs so potent that merely uncorking the bottle can induce drowsiness in nearby watchers. Some herbalists have reported falling asleep while preparing this draft despite their best efforts to remain vigilant. A single drop on the tongue begins inducing sleep before it can be spat out, and swallowing even a small amount feels almost like drowning in warmth.

@@ -12,7 +12,6 @@ name:
   home: solarden
   aliases:
     - Shénasenè Seraphine Dreamweaver
-packFolder: aureldiatarvenia
 shortcode: palnsnrcth
 type: being
 data:
@@ -41,6 +40,7 @@ data:
     complexion: rugged
     extra_features:
       - a scar running down the right leg
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

@@ -11,11 +11,11 @@ data:
   parents:
     - chandrapur2
   population: null
+  packFolder: vedyara
 name:
   full: The Moon House
   aliases: []
 shortcode: moonhouse
-packFolder: vedyara
 ---
 
 The **Moon House** stands at the head of the river stair in [[place-chandrapur2|Chandrapur]], and it is both the dynasty and the building. A Chandrapuri who says the Moon House has decided means the Mahārāja; one who says he is going up to the Moon House means the four courts, the nine seats and the long white hall above the water.

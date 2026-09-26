@@ -8,9 +8,9 @@ name:
   aliases:
     - Vrekhal
 shortcode: secondvoice
-packFolder: settinglore
 data:
   templatePriority: null
+  packFolder: settinglore
 sohl:
   system:
     weightBase: 2

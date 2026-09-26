@@ -10,9 +10,9 @@ name:
   aliases:
     - Leopard Totem
 shortcode: leopardttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-leopardtotem|Leopard]]{float: top-left, size: medium}

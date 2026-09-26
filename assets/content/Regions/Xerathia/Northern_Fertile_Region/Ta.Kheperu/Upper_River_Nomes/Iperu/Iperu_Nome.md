@@ -16,7 +16,7 @@ data:
   parents:
     - takheperurgn
   population: 440000
-packFolder: upperrivernomes
+  packFolder: upperrivernomes
 ---
 
 ## Overview

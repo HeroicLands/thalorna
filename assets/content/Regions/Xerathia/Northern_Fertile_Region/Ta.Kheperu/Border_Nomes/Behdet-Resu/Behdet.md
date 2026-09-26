@@ -11,11 +11,11 @@ data:
   parents:
     - behdetresunome
   population: 11000
+  packFolder: bordernomes
 name:
   full: Behdet
   aliases: []
 shortcode: behdet
-packFolder: bordernomes
 ---
 
 ## Overview

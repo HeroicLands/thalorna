@@ -11,7 +11,6 @@ name:
   clan: Wolford
   home: ashford
   aliases: []
-packFolder: aureldiaaelwyth
 shortcode: edmndwlfrd
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: clear
     extra_features:
       - a scar above the left eyebrow
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

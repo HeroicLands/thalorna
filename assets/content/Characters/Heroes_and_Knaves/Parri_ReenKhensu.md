@@ -12,7 +12,6 @@ name:
   home: wasetkara
   aliases:
     - Parri ReenKhensu
-packFolder: northernfertileregiontakheperu
 shortcode: parirnkhns
 type: being
 data:
@@ -41,6 +40,7 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a crescent moon on the neck
+  packFolder: northernfertileregiontakheperu
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

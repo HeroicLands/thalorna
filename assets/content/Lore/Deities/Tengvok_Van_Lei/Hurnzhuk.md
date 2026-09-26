@@ -7,5 +7,6 @@ name:
   full: Hürnzhük
   aliases: []
 shortcode: hurnzhukdty
-packFolder: deitiestengvokvanlei
+data:
+  packFolder: deitiestengvokvanlei
 ---

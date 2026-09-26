@@ -91,12 +91,12 @@ data:
     - asguardian
   relations:
     asguardian: aligned
+  packFolder: pantheonsasguardian
 name:
   full: Faith of Fréyr
   aliases:
     - The Verdant Path
 shortcode: freyr
-packFolder: pantheonsasguardian
 sohl:
   system:
     commonSkills: []

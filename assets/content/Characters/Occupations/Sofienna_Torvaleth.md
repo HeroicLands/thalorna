@@ -12,7 +12,6 @@ name:
   home: valdes
   aliases:
     - Reslâva Vespera Sunstone
-packFolder: aureldiatarvenia
 shortcode: sofntrvlth
 type: being
 data:
@@ -41,6 +40,7 @@ data:
     complexion: ruddy
     extra_features:
       - a scar on the right elbow
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

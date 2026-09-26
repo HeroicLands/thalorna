@@ -11,9 +11,9 @@ data:
   parents:
     - haradregin
   population: 12000
+  packFolder: harad
 name:
   full: Míravel
   aliases: []
 shortcode: miravel
-packFolder: harad
 ---

@@ -7,7 +7,8 @@ name:
   full: Hâpi
   aliases: []
 shortcode: hapidty
-packFolder: deitieskemetian
+data:
+  packFolder: deitieskemetian
 ---
 
 ![[icon-hapi|Hâpi]]{float: top-left, size: medium}

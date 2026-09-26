@@ -10,7 +10,6 @@ name:
   clan: Vânardis
   home: valdosta
   aliases: []
-packFolder: midhalionvylaria
 shortcode: mkthsvnrds
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: tanned
     extra_features:
       - a scar on the right side of the face
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

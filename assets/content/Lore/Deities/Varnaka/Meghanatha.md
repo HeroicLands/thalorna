@@ -7,7 +7,8 @@ name:
   full: Meghanātha
   aliases: []
 shortcode: meghanathadty
-packFolder: deitiesvarnaka
+data:
+  packFolder: deitiesvarnaka
 ---
 
 _Lord of Thunder—a dark, wild-haired figure with a great drum under one arm and a lightning-spear raised in the other._

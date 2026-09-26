@@ -10,11 +10,11 @@ data:
   parents:
     - nordheim
   population: 300
+  packFolder: nordheim
 name:
   full: Blód
   aliases: []
 shortcode: bloth
-packFolder: nordheim
 ---
 
 ## Overview

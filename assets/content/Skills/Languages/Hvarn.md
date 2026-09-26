@@ -11,6 +11,7 @@ subType: language
 data:
   icon: icon-speaking
   templatePriority: null
+  packFolder: language
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -19,10 +20,9 @@ sohl:
     combatCategory: none
     parentSkillCode: lang
     initSkillMult: 0
-packFolder: language
-flags:
-  "thalorna":
-    lang_family: Trans-Grazian
+  flags:
+    "thalorna":
+      lang_family: Trans-Grazian
 ---
 
 Hvarn is the tongue of the [[affiliation-hvarnguides|Hvarn]] of [[place-estrnreach|the Eastern Reach]]. Fluency measures how much of it a speaker commands, from the fort-contract vocabulary a lowland factor picks up to the full speech of the winter house. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.

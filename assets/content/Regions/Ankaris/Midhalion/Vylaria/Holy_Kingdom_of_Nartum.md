@@ -174,7 +174,7 @@ data:
     arldnpnthn: aligned
     vylarinmpr: rival
     ordoarcanis: nemesis
-packFolder: vylaria
+  packFolder: vylaria
 sohl:
   system:
     commonSkills:

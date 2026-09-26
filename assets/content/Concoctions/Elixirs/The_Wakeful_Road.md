@@ -9,11 +9,10 @@ description: "Pale gold restless elixir; burns away fatigue and exhaustion."
 shortcode: elxvrv
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Verve
 data:
   icon: icon-potion
   templatePriority: null
+  packFolder: elixirs
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +21,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Verve
 ---
 
 A Verve Elixir is vivid and restless, a pale gold that never settles, dancing and sparkling as though awake with its own will. Drawn from the Principle of Action (Pyréthos), this elixir burns away the need for sleep itself. The imbiber can remain awake and functional for AS consecutive days without fatigue or impairment; weariness that would normally accumulate is recovered in the standard time spans, but the drinker can push through the night indefinitely. The effect is instantaneous upon drinking and requires no continued action.

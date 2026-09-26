@@ -14,7 +14,6 @@ name:
     - the Fellblade
     - Vargskaer the Fellblade
   home: null
-packFolder: ankarisnordlands
 shortcode: vrgskrflbld
 type: being
 data:
@@ -42,6 +41,7 @@ data:
     skin_color: pale
     complexion: battle_scarred
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 19 } }

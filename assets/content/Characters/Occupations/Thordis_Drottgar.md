@@ -10,7 +10,6 @@ name:
   clan: Dróttgar
   home: skarholme
   aliases: []
-packFolder: ankarisnordlands
 shortcode: thrdsdrtgr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: weathered
     extra_features:
       - a scar on the left arm
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

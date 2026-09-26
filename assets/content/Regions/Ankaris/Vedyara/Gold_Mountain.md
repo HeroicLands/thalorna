@@ -13,12 +13,12 @@ data:
   parents:
     - suvarnagirijnpd
   population: null
+  packFolder: vedyara
 name:
   full: The Gold Mountain
   aliases:
     - Suvarnagiri
 shortcode: goldmountain
-packFolder: vedyara
 ---
 
 The **Gold Mountain**—_suvarna_ (gold), _giri_ (mountain)—stands at the head of [[place-bharavarivr|the Bhārava]], and the janapada, the temple-seat and the whole constitutional apparatus below it are named for it. The gold is alluvial. It comes out of the wash of the mountain's streams and not out of a shaft, and it has come out of them at much the same rate for fifteen centuries.

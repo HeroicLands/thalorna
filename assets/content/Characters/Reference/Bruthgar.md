@@ -10,7 +10,6 @@ name:
   aliases: []
 description: "A notorious mercenary commander whose forces have clashed with Böthvarr's garrison repeatedly."
 shortcode: bruthgar
-renamedFrom: garak
 type: being
 data:
   species: humanflk

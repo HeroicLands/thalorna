@@ -70,13 +70,13 @@ data:
     - nyalbpnthn
   relations:
     nyalbpnthn: aligned
+  packFolder: nyaluba
 name:
   full: "Lion Totem"
   aliases:
     - Lion of the Mvuzi
     - Mvuzi Totem
 shortcode: nyalblion
-packFolder: nyaluba
 sohl:
   system:
     commonSkills:

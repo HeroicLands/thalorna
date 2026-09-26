@@ -10,7 +10,6 @@ name:
   clan: Dhanurvedakīrtirāja
   home: suvarnagiri
   aliases: []
-packFolder: ankarisvedyara
 shortcode: pdmvldhnrvdkrtrj
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: warm
     complexion: null
     extra_features: []
+  packFolder: ankarisvedyara
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }

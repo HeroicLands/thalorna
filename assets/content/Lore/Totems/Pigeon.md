@@ -10,9 +10,9 @@ name:
   aliases:
     - Pigeon Totem
 shortcode: pigeonttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-pigeontotem|Pigeon]]{float: top-left, size: medium}

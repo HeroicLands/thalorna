@@ -12,7 +12,6 @@ name:
   home: alyssar
   aliases:
     - The Fire-Sworn Strategist
-packFolder: midhalionvylaria
 shortcode: phltsklfts
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: olive
     complexion: weathered
     extra_features: []
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

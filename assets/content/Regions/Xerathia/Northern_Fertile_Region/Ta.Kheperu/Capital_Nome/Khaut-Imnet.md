@@ -10,6 +10,7 @@ data:
   parents:
     - wasetkaranome
   population: 800
+  packFolder: capitalnome
 description: "The vast general necropolis of Wasetkara—the graded burial-fields flanking the royal necropolis of Ta-Djeser, where everyone below the throne is buried, from the gold-rich mastabas of the nobility to the common sand-graves of the poor, and the endless war between trap-built tombs and the robbers who plunder them."
 name:
   full: Khaut-Imnet
@@ -17,7 +18,6 @@ name:
     - The Tombs of the West
     - The Western Fields
 shortcode: khautimnet
-packFolder: capitalnome
 ---
 
 ## Khaut-Imnet—the Tombs of the West

@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-firebdg
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: pyrethos
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Thirst
-packFolder: spells
+
+# hmk:
+#   name: Thirst
 ---
 
 The caster projects a wave of desiccating heat that settles over the targeted area like an invisible blanket. The air becomes oppressively dry, pulling moisture from every surface it touches. Throats parch, skin tightens and cracks, and a relentless thirst builds that no amount of drinking seems to satisfy—for the spell draws moisture from the body faster than it can be replaced.

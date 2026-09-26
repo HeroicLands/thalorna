@@ -12,9 +12,9 @@ data:
   parents:
     - suvarnagirijnpd
   population: 610
+  packFolder: vedyara
 name:
   full: Jalaghatta
   aliases: []
 shortcode: jalaghatta
-packFolder: vedyara
 ---

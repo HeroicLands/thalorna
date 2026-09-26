@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-water
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: hydalis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Wave
-packFolder: spells
+
+# hmk:
+#   name: Wave
 ---
 
 The caster gathers a body of water into a single, powerful wave and sends it crashing forward with devastating force. The wave rises from whatever water is available—a lake, a river, a flooded street, even a large trough—and surges in the direction the caster commands, sweeping away anything in its path before collapsing into a rushing flood.

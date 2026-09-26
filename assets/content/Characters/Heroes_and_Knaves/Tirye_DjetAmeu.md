@@ -11,7 +11,6 @@ name:
   home: meruhotep
   aliases:
     - Tirye Djetamê
-packFolder: northernfertileregiontakheperu
 shortcode: tiryedjetm
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a dragonfly on the neck
+  packFolder: northernfertileregiontakheperu
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

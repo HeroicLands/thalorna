@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: maatken
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: maatken
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 Unlike the Sealed Threshold this one does not merely resist; the sealed thing does not open, and

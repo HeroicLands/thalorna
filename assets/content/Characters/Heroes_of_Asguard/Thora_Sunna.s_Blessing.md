@@ -12,7 +12,6 @@ name:
   aliases:
     - Sunna's Blessing
   home: null
-packFolder: ankarisnordlands
 shortcode: thrsnsblsng
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: fair
     complexion: freckled
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

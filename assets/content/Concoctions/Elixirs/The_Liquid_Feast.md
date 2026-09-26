@@ -9,11 +9,10 @@ description: "Thick brown draft; sustains days of active labor and travel."
 shortcode: elxsus
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Sustenance
 data:
   icon: icon-potion
   templatePriority: null
+  packFolder: elixirs
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +21,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Sustenance
 ---
 
 A Sustenance Elixir is thick and brown, carrying the scent of grain and earth, with a taste both nourishing and faintly metallic. Drawn from the Principle of Earth (Physéra), this elixir provides AS days of full nutrition for an active imbiber—one who fights, climbs, labors, or travels. For those who remain sedentary, each day's expense is halved, doubling the effective duration. A single draft eliminates the need for foraging, cooking, or the constant logistics of feeding a war camp or expedition.

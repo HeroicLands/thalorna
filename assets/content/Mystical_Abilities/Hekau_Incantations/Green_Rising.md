@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: ankhkemet
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: ankhkemet
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 Brings a crop forward by weeks, at the cost of the soil, which is exhausted afterward in

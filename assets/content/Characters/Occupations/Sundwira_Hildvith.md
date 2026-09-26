@@ -10,7 +10,6 @@ name:
   clan: Hildvith
   home: eichengrnd
   aliases: []
-packFolder: ankarisvrystwald
 shortcode: sndwrhldvth
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: ruddy
     extra_features:
       - a burn mark on the left hand
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

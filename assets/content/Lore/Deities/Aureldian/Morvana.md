@@ -7,5 +7,6 @@ name:
   full: Mórváná
   aliases: []
 shortcode: morvanadty
-packFolder: deitiesaureldian
+data:
+  packFolder: deitiesaureldian
 ---

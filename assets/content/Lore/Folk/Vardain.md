@@ -9,7 +9,8 @@ name:
     - Vardain
     - The Holdfolk
 shortcode: vardain
-packFolder: aelwyth
+data:
+  packFolder: aelwyth
 ---
 
 The **Vardain** are an Aelwythan people of the north-east, and their history divides sharply into what

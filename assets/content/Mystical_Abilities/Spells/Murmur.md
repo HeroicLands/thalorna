@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-wind
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: zepharis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Whisper
-packFolder: spells
+
+# hmk:
+#   name: Whisper
 ---
 
 The caster cups a hand beside their mouth and speaks in a low tone; the words are lifted by an invisible thread of wind so fine that it passes through crowds, around corners, and over walls without disturbing so much as a candle flame. The message arrives at the intended recipient's ear as a soft, intimate whisper indistinguishable from a companion leaning close—private, clear, and utterly inaudible to anyone standing even a pace away.

@@ -7,5 +7,6 @@ name:
   full: Xilan Ix'lan
   aliases: []
 shortcode: xilanixlandty
-packFolder: deitiesitzani
+data:
+  packFolder: deitiesitzani
 ---

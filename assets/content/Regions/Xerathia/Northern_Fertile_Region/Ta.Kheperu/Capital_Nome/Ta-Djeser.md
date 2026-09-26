@@ -12,11 +12,11 @@ data:
   parents:
     - wasetkaranome
   population: 40000
+  packFolder: capitalnome
 name:
   full: Ta-Djeser
   aliases: []
 shortcode: tadjeser
-packFolder: capitalnome
 ---
 
 ## Overview

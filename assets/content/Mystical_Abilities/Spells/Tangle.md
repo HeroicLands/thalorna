@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-tree
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: physera
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Vine
-packFolder: spells
+
+# hmk:
+#   name: Vine
 ---
 
 The caster targets a plant rooted in the ground no more than one foot tall and forces explosive growth, enlarging it to fill a volume of one thousand cubic feet with dense, interlocking vegetation. The caster may shape the growth into any configuration—a common tactical form is a wall five feet thick, five feet tall, and forty feet long—provided its height does not exceed ten times its natural maximum. Growth begins at spellfire and reaches full volume after an additional period equal to the casting time, giving alert creatures a chance to step clear of the expanding thicket. Once at full volume the dense tangle prevents all movement through it, and if cast upon thorny plants the growth inflicts multiple separate puncture wounds on any creature caught within or attempting to force entry.

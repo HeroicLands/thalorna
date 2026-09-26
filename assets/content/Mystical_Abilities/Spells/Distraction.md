@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-divination
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: pneumenos
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Diversion
-packFolder: spells
+
+# hmk:
+#   name: Diversion
 ---
 
 The caster flicks a thread of mental energy at the target's consciousness, and an intrusive thought blooms unbidden in their mind—a sudden phantom sound, a flash of an irrelevant memory, a momentary certainty that something is behind them. The distraction lasts only a heartbeat, but it is enough to break concentration, spoil aim, or create a gap in attention that a prepared ally can exploit.

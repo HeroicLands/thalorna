@@ -10,9 +10,9 @@ name:
   aliases:
     - Fox Totem
 shortcode: foxttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-foxtotem|Fox]]{float: top-left, size: medium}

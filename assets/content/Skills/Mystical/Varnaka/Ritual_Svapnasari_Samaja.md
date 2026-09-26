@@ -16,6 +16,7 @@ name:
     - The Dream Assembly
 data:
   templatePriority: null
+  packFolder: varnaka
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -24,7 +25,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: varnaka
 ---
 
 ## Ritual: Svapnasāri-samāja

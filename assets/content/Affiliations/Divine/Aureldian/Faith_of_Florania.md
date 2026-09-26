@@ -64,13 +64,13 @@ data:
     - arldnpnthn
   relations:
     arldnpnthn: aligned
+  packFolder: pantheonsaureldian
 name:
   full: Faith of Flórania
   aliases:
     - The Nurturer
     - Flórania
 shortcode: florania
-packFolder: pantheonsaureldian
 sohl:
   system:
     commonSkills: []

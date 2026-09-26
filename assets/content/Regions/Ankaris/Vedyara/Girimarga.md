@@ -12,9 +12,9 @@ data:
   parents:
     - suvarnagirijnpd
   population: 760
+  packFolder: vedyara
 name:
   full: Girimārga
   aliases: []
 shortcode: girimarga
-packFolder: vedyara
 ---

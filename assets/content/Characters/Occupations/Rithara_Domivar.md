@@ -10,7 +10,6 @@ name:
   clan: Dómivar
   home: torreviga
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: rithardmvr
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: medium
     complexion: weathered
     extra_features: []
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

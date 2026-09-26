@@ -15,5 +15,5 @@ data:
   parents:
     - byzariargn
   population: 5000
-packFolder: byzaria
+  packFolder: byzaria
 ---

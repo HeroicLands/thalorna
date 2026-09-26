@@ -10,7 +10,6 @@ name:
   clan: Ghôlâron
   aliases:
     - Parma
-packFolder: helladhelionis
 shortcode: damsnghlrn
 type: being
 data:
@@ -41,6 +40,7 @@ data:
     extra_features:
       - close-cropped gray-streaked hair
       - an air of quiet authority that belies his humble dress
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

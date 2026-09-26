@@ -13,11 +13,11 @@ data:
     - graznmntns
     - sthrnwall
   population: null
+  packFolder: vedyara
 name:
   full: Mahāprabhava
   aliases: []
 shortcode: mahaprbhva
-packFolder: vedyara
 ---
 
 **Mahāprabhava** is where the [[place-mahanadi|Mahānadi]] leaves the ice, in a broad cirque at the head of the central valleys where [[place-sthrnwall|the Southern Wall]] stands back a little from the plain. The road to it is a road and not a track. A fit person walks up from the last town in six days, and this is accordingly the source-pilgrimage the ordinary devout make.

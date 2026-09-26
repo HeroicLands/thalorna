@@ -11,11 +11,11 @@ data:
   parents:
     - khenettanome
   population: 32000
+  packFolder: upperrivernomes
 name:
   full: Khenet-Ta
   aliases: []
 shortcode: khenetta
-packFolder: upperrivernomes
 ---
 
 ## Overview

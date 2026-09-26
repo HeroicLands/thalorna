@@ -66,6 +66,7 @@ data:
     - arldnpnthn
   relations:
     arldnpnthn: aligned
+  packFolder: pantheonsaureldian
 name:
   full: Faith of Aethería
   aliases:
@@ -74,7 +75,6 @@ name:
     - Aethería
     - Aetheria
 shortcode: aetheria
-packFolder: pantheonsaureldian
 sohl:
   system:
     commonSkills: []

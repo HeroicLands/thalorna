@@ -12,7 +12,6 @@ name:
   home: silvain
   aliases:
     - Reslâva Mira Lightwhisper
-packFolder: aureldiaelavendre
 shortcode: sarenprdln
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: pale
     complexion: pale
     extra_features: []
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

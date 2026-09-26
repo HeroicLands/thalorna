@@ -12,11 +12,11 @@ data:
   parents:
     - aelwyth
   population: 58000
+  packFolder: aelwyth
 name:
   full: The Central Highlands
   aliases: []
 shortcode: cntrlhghlnds
-packFolder: aelwyth
 ---
 
 The **Central Highlands** occupy the middle of Aelwyth between the western coast and the farmland of

@@ -7,5 +7,6 @@ name:
   full: Táranon
   aliases: []
 shortcode: taranondty
-packFolder: deitiesaureldian
+data:
+  packFolder: deitiesaureldian
 ---

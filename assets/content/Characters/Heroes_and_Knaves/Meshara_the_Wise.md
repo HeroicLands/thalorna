@@ -11,7 +11,6 @@ name:
   home: ankhsetun
   aliases:
     - Meshara
-packFolder: northernfertileregiontakheperu
 shortcode: mesharawse
 type: being
 data:
@@ -27,6 +26,7 @@ data:
     - empirtkhpr
   gender: female
   species: humanflk
+  packFolder: northernfertileregiontakheperu
 ---
 
 **Meshara the Wise** was an apothecary of [[place-ankhsetun|Ankh-Setûn]] who served the city's poor for decades and died at an extraordinary age. She was also, for as long as her legs would carry her, a caravan head scout—a hard woman who ranged as far as the [[place-nrdlndsrgn|Nordlands]] and taught wild-country craft to the porters and guards who showed a gift for it. Two of the most capable people in the [[affiliation-empirtkhpr|Empire of Ta'Kheperu]] call her their teacher—[[being-shebsthtms|Shebas Thut'Mosau]], who inherited her shop, and [[being-sentatsrkt|Sênta Ta'Sereketu]], who learned the road from her—and each of them knew a different half of her. She is dead. What she left behind is not.

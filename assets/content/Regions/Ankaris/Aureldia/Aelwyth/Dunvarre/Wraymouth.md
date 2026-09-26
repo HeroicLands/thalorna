@@ -12,11 +12,11 @@ data:
   parents:
     - dunavarre
   population: 2500
+  packFolder: aelwyth
 name:
   full: Wraymouth
   aliases: []
 shortcode: wraymouth
-packFolder: aelwyth
 ---
 
 **Wraymouth** stands where the Wray comes down to the sea on Aelwyth's south-eastern coast, and is the

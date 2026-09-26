@@ -10,9 +10,9 @@ name:
   aliases:
     - Rabbit Totem
 shortcode: rabbitttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-rabbittotem|Rabbit]]{float: top-left, size: medium}

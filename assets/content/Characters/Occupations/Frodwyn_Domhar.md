@@ -10,7 +10,6 @@ name:
   clan: Dómhár
   home: dunkelwald
   aliases: []
-packFolder: ankarisvrystwald
 shortcode: frdwyndmhr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: freckled
     extra_features:
       - a scar running across the stomach
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

@@ -13,11 +13,11 @@ data:
     - graznmntns
     - sthrnwall
   population: null
+  packFolder: vedyara
 name:
   full: Chandraprabhava
   aliases: []
 shortcode: chandrprbh
-packFolder: vedyara
 ---
 
 **Chandraprabhava** is where the [[place-chandrmahi|Chandramahī]] comes out of the ice under [[place-suryashkhr|Sūryashikhara]]. The [[affiliation-varakpnthn|Varnaka]] tradition does not treat this as the place the river happens to begin; it treats it as the place the river began, once, at the beginning, and has been beginning ever since.

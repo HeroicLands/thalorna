@@ -15,6 +15,7 @@ data:
   parents:
     - midhalnrgn
   population: 12000000
-terran_analog: ""
-packFolder: harad
+  packFolder: harad
+
+# terran_analog: ""
 ---

@@ -13,11 +13,11 @@ data:
   parents:
     - sauneferunome
   population: 45000
+  packFolder: sauneferu
 name:
   full: Sau
   aliases: []
 shortcode: sau
-packFolder: sauneferu
 ---
 
 ## Overview

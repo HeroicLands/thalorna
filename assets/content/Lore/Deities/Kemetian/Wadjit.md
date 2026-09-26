@@ -7,7 +7,8 @@ name:
   full: Wadjit
   aliases: []
 shortcode: wadjitdty
-packFolder: deitieskemetian
+data:
+  packFolder: deitieskemetian
 ---
 
 _The Cobra-Goddess._

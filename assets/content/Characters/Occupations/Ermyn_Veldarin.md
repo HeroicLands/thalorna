@@ -11,7 +11,6 @@ name:
   clan: Véldarin
   home: ""
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: ermynvldrn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: medium
     complexion: rugged
     extra_features: []
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 13 } }

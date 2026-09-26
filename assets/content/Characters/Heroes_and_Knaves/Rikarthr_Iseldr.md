@@ -12,7 +12,6 @@ name:
   clan: Íseldr
   home: thorrborg
   aliases: []
-packFolder: ankarisnordlands
 shortcode: rkrthrsldr
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: pale
     extra_features:
       - a tattoo of a dolphin on the left wrist
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }

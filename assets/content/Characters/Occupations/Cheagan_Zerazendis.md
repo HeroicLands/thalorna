@@ -10,7 +10,6 @@ name:
   clan: Zêrâzêndis
   home: aelissium
   aliases: []
-packFolder: midhalionvylaria
 shortcode: chgnzrznds
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: olive_toned
     extra_features:
       - a scar across the bridge of the nose
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

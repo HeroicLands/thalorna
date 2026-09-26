@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-circle
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: kentra
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Survey
-packFolder: spells
+
+# hmk:
+#   name: Survey
 ---
 
 The caster closes their eyes and releases a pulse of awareness that radiates outward in all directions like a stone dropped into still water. This invisible wave passes through walls, earth, and living tissue alike, returning impressions of magical disturbances, hidden chambers, concealed creatures, and structural weaknesses within its radius. The information arrives not as sight but as a kind of spatial intuition—the caster simply knows what lies around them.

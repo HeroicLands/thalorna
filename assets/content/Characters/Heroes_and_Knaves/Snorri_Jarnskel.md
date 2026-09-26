@@ -10,7 +10,6 @@ name:
   clan: Járnskel
   home: thrymstead
   aliases: []
-packFolder: ankarisnordlands
 shortcode: snorjrnskl
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: weathered
     extra_features:
       - a scar on the right cheek
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

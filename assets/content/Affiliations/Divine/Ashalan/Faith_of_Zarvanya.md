@@ -86,13 +86,13 @@ data:
     - ashanpnthn
   relations:
     ashanpnthn: aligned
+  packFolder: ashaian
 name:
   full: Faith of Zárványä
   aliases:
     - The Weaver of Visions
+    - Zárványä, The Weaver of Visions
 shortcode: zarvanya
-alias: Zárványä, The Weaver of Visions
-packFolder: ashaian
 sohl:
   system:
     commonSkills: []

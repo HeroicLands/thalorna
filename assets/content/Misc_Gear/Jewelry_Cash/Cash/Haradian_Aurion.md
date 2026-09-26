@@ -10,6 +10,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: 0
+  packFolder: cash
 sohl:
   craft:
     skill: mtlc
@@ -20,7 +21,6 @@ sohl:
     valueBase: 149
     qualityBase: 0
     durabilityBase: 3
-packFolder: cash
 ---
 
 The Confederation's own gold issue, struck under the Bayt al-Khazînah rather than the imperial Aerarium, at the same nominal denomination structure as the coin it was modeled on.

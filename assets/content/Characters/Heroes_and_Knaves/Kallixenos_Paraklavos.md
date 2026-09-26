@@ -11,7 +11,6 @@ name:
   clan: Paraklávos
   home: kostaros
   aliases: []
-packFolder: helladbyzaria
 shortcode: klxnsprklvs
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: light
     complexion: weathered
     extra_features: []
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

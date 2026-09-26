@@ -7,5 +7,6 @@ name:
   full: Dāktūr Vōrthāt
   aliases: []
 shortcode: dktrvrthtdty
-packFolder: deitiestengvokvanlei
+data:
+  packFolder: deitiestengvokvanlei
 ---

@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: sefut
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: sefut
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 The simplest working in the House and the one that makes it necessary. A ward is an inscription;

@@ -15,7 +15,7 @@ data:
   parents:
     - byzariargn
   population: 30000
-packFolder: byzaria
+  packFolder: byzaria
 ---
 
 Byzaris is the foremost artisan quarter and craft hub of the [[affiliation-byzarianlg|Byzarian League]], though its exact location has shifted historically as it has expanded from a small workshop district into a substantial city-state in its own right. The name derives from the ancient Byzarian word _byzar_, meaning "the place of making" or "the workshop"—a fitting etymology for a settlement that has become legendary throughout the eastern Mídhalión for the quality and innovation of its craftspeople.

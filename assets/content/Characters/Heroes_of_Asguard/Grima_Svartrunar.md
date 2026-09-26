@@ -13,7 +13,6 @@ name:
   aliases:
     - Svartrúnar
   home: null
-packFolder: ankarisnordlands
 shortcode: grmsvrtrnr
 type: being
 data:
@@ -41,6 +40,7 @@ data:
     skin_color: pale
     complexion: sallow
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

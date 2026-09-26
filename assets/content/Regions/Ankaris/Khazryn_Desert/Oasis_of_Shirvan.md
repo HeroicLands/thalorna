@@ -15,5 +15,5 @@ data:
   parents:
     - swoasisbelt
   population: 900
-packFolder: khazryndesert
+  packFolder: khazryndesert
 ---

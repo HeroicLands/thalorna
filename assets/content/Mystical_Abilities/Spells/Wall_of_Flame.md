@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-firebdg
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: pyrethos
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Doom Curtain
-packFolder: spells
+
+# hmk:
+#   name: Doom Curtain
 ---
 
 The caster raises both hands and a wall of flame erupts from the ground—but these are not ordinary flames. The fire burns black at its heart, edged in deep crimson, and it radiates not just heat but an oppressive psychic weight that fills observers with a visceral, primal dread. The temperature at the wall's surface exceeds what natural fire can produce, hot enough to soften stone and turn sand to glass.

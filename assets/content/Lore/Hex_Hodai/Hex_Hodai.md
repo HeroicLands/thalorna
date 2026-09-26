@@ -12,7 +12,8 @@ name:
   aliases:
     - The Six Ways
     - The Sigillum
-packFolder: affiliationshexhodai
+data:
+  packFolder: affiliationshexhodai
 ---
 
 ## The Héx Hodäi (The Six Ways)

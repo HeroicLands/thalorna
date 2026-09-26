@@ -86,13 +86,13 @@ data:
     - ashanpnthn
   relations:
     ashanpnthn: aligned
+  packFolder: ashaian
 name:
   full: Faith of Mórváhñä
   aliases:
     - The Silent Keeper
+    - Mórváhñä, The Silent Keeper
 shortcode: morvahna
-alias: Mórváhñä, The Silent Keeper
-packFolder: ashaian
 sohl:
   system:
     commonSkills: []

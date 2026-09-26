@@ -10,7 +10,6 @@ name:
   clan: Râkhmônis
   home: kalydria2
   aliases: []
-packFolder: helladhelionis
 shortcode: sfrsrkhmns
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: olive_toned
     extra_features:
       - a tattoo of a lion's mane on the chest
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

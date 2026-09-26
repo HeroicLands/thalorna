@@ -10,7 +10,6 @@ name:
   clan: Hàbîlês
   home: theradon2
   aliases: []
-packFolder: helladhelionis
 shortcode: thereshbls
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: clear
     extra_features:
       - a tattoo of a butterfly on the neck
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

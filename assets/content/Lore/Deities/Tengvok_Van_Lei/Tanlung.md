@@ -7,5 +7,6 @@ name:
   full: Tānlüng
   aliases: []
 shortcode: tanlungdty
-packFolder: deitiestengvokvanlei
+data:
+  packFolder: deitiestengvokvanlei
 ---

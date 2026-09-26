@@ -12,12 +12,12 @@ data:
   parents:
     - vedyarargn
   population: null
+  packFolder: vedyara
 name:
   full: The Chandramahī
   aliases:
     - Chandramahī
 shortcode: chandrmahi
-packFolder: vedyara
 ---
 
 The **Chandramahī** rises at [[place-chandrprbh|Chandraprabhava]], under [[place-suryashkhr|Sūryashikhara]], and runs some twelve hundred miles south and west to a delta on the southern sea. It is the shortest of the four great rivers and the richest. The country it crosses is the gem country, and the city at its mouth has spent four centuries making sure nothing else is.

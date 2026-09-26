@@ -10,7 +10,6 @@ name:
   clan: Parikshana
   home: vyalendra3
   aliases: []
-packFolder: ankarisvedyara
 shortcode: minakprkhn
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a horse on the thigh
+  packFolder: ankarisvedyara
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

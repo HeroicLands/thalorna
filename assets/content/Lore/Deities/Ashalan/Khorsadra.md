@@ -7,5 +7,6 @@ name:
   full: Khóršádrä
   aliases: []
 shortcode: khorsadradty
-packFolder: deitiesashalan
+data:
+  packFolder: deitiesashalan
 ---

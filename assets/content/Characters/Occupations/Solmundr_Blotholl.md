@@ -10,7 +10,6 @@ name:
   clan: Blóthöll
   home: skarholme
   aliases: []
-packFolder: ankarisnordlands
 shortcode: slmndrblthl
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a serpent on the back
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

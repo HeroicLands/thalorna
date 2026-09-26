@@ -10,9 +10,9 @@ data:
   parents:
     - dunhardsrtrgn
   population: 600
+  packFolder: dunharadesert
 name:
   full: Oasis of Teyran
   aliases: []
 shortcode: oasisteyrn
-packFolder: dunharadesert
 ---

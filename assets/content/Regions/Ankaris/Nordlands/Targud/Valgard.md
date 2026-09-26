@@ -10,9 +10,9 @@ data:
   parents:
     - targud
   population: 900
+  packFolder: targud
 name:
   full: Valgard
   aliases: []
 shortcode: valgard
-packFolder: targud
 ---

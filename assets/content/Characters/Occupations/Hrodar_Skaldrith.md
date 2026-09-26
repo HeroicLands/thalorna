@@ -10,7 +10,6 @@ name:
   clan: Skáldrith
   home: waldburg
   aliases: []
-packFolder: ankarisvrystwald
 shortcode: hrdrskldrth
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: ruddy
     extra_features:
       - a tattoo of a serpent on the back
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

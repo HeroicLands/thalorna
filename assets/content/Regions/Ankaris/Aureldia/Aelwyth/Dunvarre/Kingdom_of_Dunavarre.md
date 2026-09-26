@@ -111,7 +111,7 @@ data:
     tanvurempr: unaligned
     vylarinmpr: unaligned
     saelvri: nemesis
-packFolder: aelwyth
+  packFolder: aelwyth
 sohl:
   system:
     commonSkills:

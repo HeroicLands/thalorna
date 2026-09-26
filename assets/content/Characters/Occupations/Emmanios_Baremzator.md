@@ -12,7 +12,6 @@ name:
   home: valdosta
   aliases:
     - Reslâva Aiden Greenfield
-packFolder: midhalionvylaria
 shortcode: emnsbrmztr
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: light
     complexion: tanned
     extra_features: []
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

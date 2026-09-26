@@ -9,11 +9,10 @@ description: "Pearl-like liquid; fortifies objects against arcane intrusion."
 shortcode: elxoba
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Object Aegis
 data:
   icon: icon-potion
   templatePriority: null
+  packFolder: elixirs
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +21,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Object Aegis
 ---
 
 Keeper's Vow appears as a shimmering, pearl-like suspension that casts a faint luminescence, as though defensive power itself has been trapped in liquid form. When poured upon an object weighing no more than AS × 5 pounds, the elixir bonds with the item and fortifies it against arcane meddling. Any attempt by an attune or invoker to establish a psychometric connection to the object incurs a d10 roll against AS; success decreases the would-be connector's test result by one level of success and reduces the elixir's AS by 1.

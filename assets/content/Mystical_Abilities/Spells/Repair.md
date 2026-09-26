@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-anvilbdg
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: sideros
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Mend
-packFolder: spells
+
+# hmk:
+#   name: Mend
 ---
 
 The caster handles a damaged metal object and channels a trickle of restorative energy into it. Cracks seal, dents smooth, and tarnish dissolves as the metal remembers its original form and gradually returns to it. A chipped blade regains its edge. A buckled hinge straightens. A corroded lock mechanism cleans itself of rust and moves freely once more. The repair follows the object's own grain and structure, restoring it to its manufactured state rather than imposing a new form.

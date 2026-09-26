@@ -10,7 +10,6 @@ name:
   clan: Bâlarnaya
   home: rajapur
   aliases: []
-packFolder: ankarisvedyara
 shortcode: vishalblry
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: null
     extra_features:
       - a scar on the right elbow
+  packFolder: ankarisvedyara
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

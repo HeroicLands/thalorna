@@ -10,9 +10,9 @@ name:
   aliases:
     - Bull Totem
 shortcode: bullttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-bulltotem|Bull]]{float: top-left, size: medium}

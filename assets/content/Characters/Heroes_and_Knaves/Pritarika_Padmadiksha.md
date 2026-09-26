@@ -10,7 +10,6 @@ name:
   clan: Padmadîksha
   home: suvarnagiri
   aliases: []
-packFolder: ankarisvedyara
 shortcode: prtrkpdmdksh
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: rich_brown
     complexion: null
     extra_features: []
+  packFolder: ankarisvedyara
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

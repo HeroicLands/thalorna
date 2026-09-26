@@ -112,7 +112,7 @@ data:
     hvarnguides: unaligned
     janpdsvdyr: unaligned
     bhumipala: aligned
-packFolder: vedyara
+  packFolder: vedyara
 sohl:
   system:
     commonSkills:

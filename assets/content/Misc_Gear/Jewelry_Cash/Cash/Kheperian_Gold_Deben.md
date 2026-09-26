@@ -10,6 +10,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: 0
+  packFolder: cash
 sohl:
   craft:
     skill: mtlc
@@ -20,7 +21,6 @@ sohl:
     valueBase: 960
     qualityBase: 0
     durabilityBase: 3
-packFolder: cash
 ---
 
 A wedge-stamped piece of gold at the full deben weight, bearing the seal of the temple that attested it, the metal and mass, and the regnal cypher of the Per-Aá in whose reign it was struck. It is not a coin and the Kheperi do not call it one: it is attested metal of known weight, and its worth is the worth of the gold in it.

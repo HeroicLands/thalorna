@@ -9,11 +9,10 @@ description: "Luminous silver elixir; shields spirit from True Sight and divinat
 shortcode: elxscl
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Soulcloak
 data:
   icon: icon-potion
   templatePriority: null
+  packFolder: elixirs
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +21,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Soulcloak
 ---
 
 A Soulcloak Elixir shimmers with a defensive luminescence, tinged with protective silver, and tastes of old shields and sanctuary. Drawn from the Principle of Defense (Neutral), this elixir wraps the imbiber's essence in obscurity, rendering them invisible to True Sight and other divinations that pierce the veil between worlds. When an attacker attempts to use True Sight to perceive the imbiber, a d10 roll is made against a TN equal to the elixir's AS; success causes the True Sight to automatically fail and reduces the elixir's AS by 1.

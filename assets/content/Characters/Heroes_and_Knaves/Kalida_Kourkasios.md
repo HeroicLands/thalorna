@@ -10,7 +10,6 @@ name:
   clan: Kourkásios
   home: chrysamar
   aliases: []
-packFolder: helladbyzaria
 shortcode: kalidkrkss
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: light
     complexion: tanned
     extra_features: []
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

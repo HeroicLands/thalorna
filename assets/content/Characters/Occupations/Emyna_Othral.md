@@ -10,7 +10,6 @@ name:
   clan: Óthral
   home: valdun
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: emynaothrl
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: pale
     extra_features:
       - a scar on the left side of the neck
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }

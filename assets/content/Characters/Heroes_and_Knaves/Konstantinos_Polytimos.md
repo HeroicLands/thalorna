@@ -10,7 +10,6 @@ name:
   clan: Polytimós
   home: denizara2
   aliases: []
-packFolder: helladbyzaria
 shortcode: knstntnsplytms
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: tawny
     complexion: tanned
     extra_features: []
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

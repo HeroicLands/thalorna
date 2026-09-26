@@ -13,7 +13,6 @@ name:
     - One-Hand
     - Sigvardr One-Hand
   home: null
-packFolder: ankarisnordlands
 shortcode: sgvrdrnhnd
 type: being
 data:
@@ -41,6 +40,7 @@ data:
     skin_color: fair
     complexion: rugged
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

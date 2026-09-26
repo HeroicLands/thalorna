@@ -9,11 +9,10 @@ description: "Vibrant golden life elixir; banishes wounds, bleeding, exhaustion.
 shortcode: elxheal
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Healing
 data:
   icon: icon-potion
   templatePriority: null
+  packFolder: elixirs
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +21,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Healing
 ---
 
 A vibrant golden liquid that tastes of honey, sunlight, and life itself, bound to the Principle of Life (Physéran). This most precious of elixirs imparts three instantaneous effects upon imbibing. First, it banishes all windedness and weariness fatigue; it halts all bleeding, no matter how grave; and it removes Stunning, Incapacitation, and Unconsciousness Shock States from the drinker, returning them to consciousness and mobility. Second, each instance of physical trauma suffered at that moment receives an immediate Healing Roll, Course Roll, or Advance Roll as appropriate. These rolls overlap with healing from other sources such as blessed balms; a single injury cannot benefit from multiple Healing Rolls simultaneously, though the elixir may grant additional rolls to different injuries.

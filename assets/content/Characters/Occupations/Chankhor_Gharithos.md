@@ -10,7 +10,6 @@ name:
   clan: Ghârîthôs
   home: theradon2
   aliases: []
-packFolder: helladhelionis
 shortcode: chnkhrghrths
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: fair
     complexion: bronzed
     extra_features: []
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

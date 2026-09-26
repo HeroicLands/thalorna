@@ -16,7 +16,7 @@ data:
   parents:
     - takheperurgn
   population: 260000
-packFolder: bordernomes
+  packFolder: bordernomes
 ---
 
 ## Overview

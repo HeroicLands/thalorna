@@ -10,7 +10,6 @@ name:
   clan: Hálren
   home: liranel
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: khornhalrn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: freckled
     extra_features:
       - a tattoo of a rose vine on the leg
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

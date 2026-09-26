@@ -10,7 +10,6 @@ name:
   clan: Kâselmakîs
   home: tyrellan
   aliases: []
-packFolder: midhalionvylaria
 shortcode: kysrkslmks
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a dragonfly on the neck
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

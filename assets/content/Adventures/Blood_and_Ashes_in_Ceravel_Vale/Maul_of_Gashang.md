@@ -15,11 +15,11 @@ data:
   party:
     size: null
     archetypes: []
+  packFolder: bloodandashesinceravelvale
 name:
   full: Maul of Gashang
   aliases: []
 shortcode: maulgashng
-packFolder: bloodandashesinceravelvale
 ---
 
 ### Background and Creation

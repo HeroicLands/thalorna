@@ -11,7 +11,6 @@ name:
   clan: Kûrrîm
   home: kethara2
   aliases: []
-packFolder: midhalionharad
 shortcode: parsharkrm
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: rough
     extra_features:
       - a scar running across the stomach
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

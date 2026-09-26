@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: imnetau
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: imnetau
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 The requirement is the doctrine in miniature: a person is their Name and their Form, so a soul

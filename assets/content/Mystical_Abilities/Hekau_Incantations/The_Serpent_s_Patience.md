@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: sefut
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: sefut
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 The House's characteristic form and its worst problem. The working does nothing at all until the

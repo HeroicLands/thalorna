@@ -11,11 +11,11 @@ data:
   parents:
     - kuxibalamrgn
   population: 14000
+  packFolder: south
 name:
   full: Ixkul K’ul
   aliases: []
 shortcode: ixkulkul
-packFolder: south
 ---
 
 ## Overview

@@ -7,5 +7,6 @@ name:
   full: Fréyr
   aliases: []
 shortcode: freyrdty
-packFolder: deitiesasguardian
+data:
+  packFolder: deitiesasguardian
 ---

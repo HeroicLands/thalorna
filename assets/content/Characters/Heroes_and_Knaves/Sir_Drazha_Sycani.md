@@ -13,7 +13,6 @@ name:
   aliases:
     - Knight of the Black Flame
     - Sir Drazha Sycani
-packFolder: helladbyzaria
 shortcode: srdrzhsycnknghtblckflm
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: dark_brown
     complexion: null
     extra_features: []
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

@@ -11,9 +11,9 @@ data:
   parents:
     - vrystwald
   population: 450
+  packFolder: vrystwald
 name:
   full: Grimholt
   aliases: []
 shortcode: grimholt
-packFolder: vrystwald
 ---

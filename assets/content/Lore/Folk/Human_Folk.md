@@ -9,7 +9,8 @@ name:
   full: Human Folk
   aliases: []
 shortcode: humanflk
-packFolder: settinglore
+data:
+  packFolder: settinglore
 ---
 
 Humans live in farming villages, trading towns and great cities, and among

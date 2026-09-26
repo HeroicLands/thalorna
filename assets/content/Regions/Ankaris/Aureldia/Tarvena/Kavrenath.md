@@ -11,9 +11,9 @@ data:
   parents:
     - asturath
   population: 10000
+  packFolder: tarvenia
 name:
   full: Kávrenath
   aliases: []
 shortcode: kavrenath
-packFolder: tarvenia
 ---

@@ -101,7 +101,7 @@ data:
     - vylarinmpr
   relations:
     arldnpnthn: aligned
-packFolder: vylaria
+  packFolder: vylaria
 sohl:
   system:
     commonSkills:

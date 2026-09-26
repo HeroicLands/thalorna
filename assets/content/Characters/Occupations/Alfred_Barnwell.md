@@ -11,7 +11,6 @@ name:
   home: kingsholow
   aliases:
     - Thalos Graymoor
-packFolder: aureldiaaelwyth
 shortcode: alfrdbrnwl
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: light
     complexion: pale
     extra_features: []
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

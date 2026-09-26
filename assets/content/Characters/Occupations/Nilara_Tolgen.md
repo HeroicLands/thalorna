@@ -10,7 +10,6 @@ name:
   clan: Tólgen
   home: lunacorte
   aliases: []
-packFolder: aureldiaprovenzia
 shortcode: nilaratlgn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a spider on the shoulder
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

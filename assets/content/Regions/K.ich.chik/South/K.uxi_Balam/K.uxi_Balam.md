@@ -104,11 +104,12 @@ data:
   parents: []
   relations:
     itzanpnthn: aligned
-terran_analog: Bolivia, Southern Central Brazil
-packFolder: kuxibalam
+  packFolder: kuxibalam
 sohl:
   system:
     commonSkills: []
+
+# terran_analog: Bolivia, Southern Central Brazil
 ---
 
 ## Overview

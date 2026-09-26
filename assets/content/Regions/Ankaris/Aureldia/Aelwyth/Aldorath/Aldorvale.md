@@ -12,11 +12,11 @@ data:
   parents:
     - aldorathrgn
   population: 95000
+  packFolder: aelwyth
 name:
   full: The Aldorvale
   aliases: []
 shortcode: aldorvale
-packFolder: aelwyth
 ---
 
 The **Aldorvale** is the broad, lush, well-watered heart of [[affiliation-kngdmldrth|Aldorath]], and the

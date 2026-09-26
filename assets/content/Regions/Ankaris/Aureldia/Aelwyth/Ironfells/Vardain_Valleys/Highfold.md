@@ -12,11 +12,11 @@ data:
   parents:
     - vardainvalleys
   population: 540
+  packFolder: aelwyth
 name:
   full: Highfold
   aliases: []
 shortcode: highfold
-packFolder: aelwyth
 ---
 
 **Highfold** is the highest grazing, a scatter of stone steadings around a village of three hundred and

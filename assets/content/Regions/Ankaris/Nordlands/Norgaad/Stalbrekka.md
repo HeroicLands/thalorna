@@ -11,9 +11,9 @@ data:
   parents:
     - norgaad
   population: 250
+  packFolder: norgaad
 name:
   full: Stálbrekka
   aliases: []
 shortcode: stalbrekka
-packFolder: norgaad
 ---

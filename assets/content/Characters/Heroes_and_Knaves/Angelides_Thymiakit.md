@@ -11,9 +11,7 @@ name:
   clan: Thymiákit
   home: denizara2
   aliases: []
-packFolder: helladbyzaria
 shortcode: angldsthymkt
-renamedFrom: angldskntkzns
 type: being
 data:
   icon: icon-person
@@ -40,6 +38,7 @@ data:
     complexion: weathered
     extra_features:
       - a scar on the neck
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

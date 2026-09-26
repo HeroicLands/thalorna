@@ -13,7 +13,6 @@ name:
   aliases:
     - the Forsaken
   home: null
-packFolder: ankarisvrystwald
 shortcode: astrdfrskn
 type: being
 data:
@@ -41,6 +40,7 @@ data:
     skin_color: fair
     complexion: smooth
     extra_features: []
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 17 } }

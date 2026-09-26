@@ -7,7 +7,8 @@ name:
   full: Ánubís
   aliases: []
 shortcode: anubisdty
-packFolder: deitieskemetian
+data:
+  packFolder: deitieskemetian
 ---
 
 ![[icon-anubis|Ánubís]]{float: top-left, size: medium}

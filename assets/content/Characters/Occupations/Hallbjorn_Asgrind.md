@@ -10,7 +10,6 @@ name:
   clan: Ásgrind
   home: thrymstead
   aliases: []
-packFolder: ankarisnordlands
 shortcode: hlbjrnsgrnd
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: rough
     extra_features:
       - a scar on the back of the left arm
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

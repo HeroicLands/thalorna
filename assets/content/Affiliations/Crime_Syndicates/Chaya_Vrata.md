@@ -70,7 +70,7 @@ data:
     ganakashala: unaligned
     passshrineushtakas: unaligned
     thresholdkeepers: nemesis
-packFolder: pantheonsvarnaka
+  packFolder: pantheonsvarnaka
 sohl:
   system:
     commonSkills:

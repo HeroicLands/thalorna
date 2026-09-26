@@ -9,7 +9,8 @@ name:
   full: Gwalchen, the Hawk of the Spine
   aliases: []
 shortcode: gwalchenspr
-packFolder: lorespiritsaelendan
+data:
+  packFolder: lorespiritsaelendan
 ---
 
 - **Kind:** Animal-kin, of [[lore-thekindred|the Kindred]]

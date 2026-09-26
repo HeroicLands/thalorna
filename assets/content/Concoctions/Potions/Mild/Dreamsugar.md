@@ -9,11 +9,10 @@ description: "Hazy opalescent liquid; induces dreaming and altered consciousness
 shortcode: ptnhalm
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Hallucinogenic, Mild"
 data:
   icon: icon-potion
   templatePriority: null
+  packFolder: mild
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +21,9 @@ sohl:
     durabilityBase: 5
     potency: "mild"
     strength: 0
-packFolder: mild
+
+# hmk:
+#   name: "Potion, Hallucinogenic, Mild"
 ---
 
 A hazy, opalescent liquid that catches the light in unsettling ways—sometimes amber, sometimes violet, shifting as the vial is tilted. The herbalist prepares it by steeping certain night-blooming flowers, dried mandrake root, and the crystallized tears of creatures said to inhabit the fever dreams between waking and sleep. When swallowed, the taste turns bitter-sweet, almost medicinal, before fading into a numbness that creeps across the tongue.

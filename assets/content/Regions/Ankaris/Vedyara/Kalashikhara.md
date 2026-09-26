@@ -13,11 +13,11 @@ data:
     - graznmntns
     - estrnreach
   population: null
+  packFolder: vedyara
 name:
   full: Kālashikhara
   aliases: []
 shortcode: kalashkhra
-packFolder: vedyara
 ---
 
 **Kālashikhara**—"the black summit"—is the last great peak of [[place-estrnreach|the Eastern Reach]] before the range turns down toward [[place-tanvuregin|Tānvür]]. Its rock is dark and steep enough that snow does not hold on the upper faces, so that at the season when every other summit on the wall is white this one is not, and it can be picked out from three days' travel away in any direction.

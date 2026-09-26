@@ -115,7 +115,7 @@ data:
     kingdomlgn: unaligned
     kingdmnrgd: unaligned
     kingdmtrgd: unaligned
-packFolder: vithgard
+  packFolder: vithgard
 sohl:
   system:
     commonSkills:

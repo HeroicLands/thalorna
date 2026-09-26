@@ -10,7 +10,6 @@ name:
   clan: Ghânîdês
   home: korinthea2
   aliases: []
-packFolder: helladhelionis
 shortcode: thebsghnds
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: olive
     complexion: weathered
     extra_features: []
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

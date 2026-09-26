@@ -10,9 +10,9 @@ name:
   aliases:
     - Lynx Totem
 shortcode: lynxttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-lynxtotem|Lynx]]{float: top-left, size: medium}

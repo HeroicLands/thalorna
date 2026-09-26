@@ -10,9 +10,9 @@ name:
   aliases:
     - Horse Totem
 shortcode: horsettm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-horsetotem|Horse]]{float: top-left, size: medium}

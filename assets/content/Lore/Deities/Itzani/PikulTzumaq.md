@@ -7,5 +7,6 @@ name:
   full: Pik'ul Tz'umaq
   aliases: []
 shortcode: pikultzumaqdty
-packFolder: deitiesitzani
+data:
+  packFolder: deitiesitzani
 ---

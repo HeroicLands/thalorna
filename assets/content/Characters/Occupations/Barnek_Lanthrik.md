@@ -11,7 +11,6 @@ name:
   clan: Lánthrik
   home: fiordaure
   aliases: []
-packFolder: aureldiaprovenzia
 shortcode: brnklnthrk
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: warm
     complexion: olive_toned
     extra_features: []
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

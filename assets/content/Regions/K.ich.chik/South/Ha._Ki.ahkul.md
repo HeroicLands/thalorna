@@ -11,11 +11,11 @@ data:
   parents:
     - balamtzakurgn
   population: 12000
+  packFolder: south
 name:
   full: Ha’ Ki’ahkul
   aliases: []
 shortcode: hakiahkul
-packFolder: south
 ---
 
 ## Overview

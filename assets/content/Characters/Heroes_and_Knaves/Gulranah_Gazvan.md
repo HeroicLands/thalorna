@@ -11,7 +11,6 @@ name:
   clan: Gazvân
   home: shamsun
   aliases: []
-packFolder: sultanateofamradad
 shortcode: gulrnhgzvn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: null
     extra_features:
       - a scar on the right wrist
+  packFolder: sultanateofamradad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

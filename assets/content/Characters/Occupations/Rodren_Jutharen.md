@@ -10,7 +10,6 @@ name:
   clan: Jútharen
   home: null # was: Eskárath
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: rodrnjthrn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: olive_toned
     extra_features:
       - a tattoo of a tiger on the forearm
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

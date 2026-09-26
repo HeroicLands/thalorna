@@ -12,7 +12,6 @@ name:
   home: khensuret
   aliases:
     - Satara ReenKhensu
-packFolder: northernfertileregiontakheperu
 shortcode: satrrnkhns
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: rich_brown
     complexion: null
     extra_features: []
+  packFolder: northernfertileregiontakheperu
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

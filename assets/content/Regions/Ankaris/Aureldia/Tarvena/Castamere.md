@@ -11,9 +11,9 @@ data:
   parents:
     - tarvenirgn
   population: 3000
+  packFolder: tarvenia
 name:
   full: Castamere
   aliases: []
 shortcode: castamere
-packFolder: tarvenia
 ---

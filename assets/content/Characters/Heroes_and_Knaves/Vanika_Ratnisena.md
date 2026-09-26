@@ -10,7 +10,6 @@ name:
   clan: Ratnisena
   home: rajapur
   aliases: []
-packFolder: ankarisvedyara
 shortcode: vanikartns
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: warm
     complexion: null
     extra_features: []
+  packFolder: ankarisvedyara
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

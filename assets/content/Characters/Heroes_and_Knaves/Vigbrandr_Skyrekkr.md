@@ -11,7 +11,6 @@ name:
   clan: Skýrekkr
   home: valgard
   aliases: []
-packFolder: ankarisnordlands
 shortcode: vgbrndrskyrkr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: fair
     extra_features:
       - a scar on the right hand
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

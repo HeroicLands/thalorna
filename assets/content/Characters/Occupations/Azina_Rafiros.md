@@ -10,7 +10,6 @@ name:
   clan: Râfîrôs
   home: theradon2
   aliases: []
-packFolder: helladhelionis
 shortcode: azinarafrs
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: ruddy
     extra_features:
       - a tattoo of a heart on the chest
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

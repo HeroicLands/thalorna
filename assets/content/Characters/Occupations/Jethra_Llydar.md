@@ -11,7 +11,6 @@ name:
   clan: Llýdar
   home: cerdwnshlw
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: jethralydr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: medium
     complexion: smooth
     extra_features: []
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

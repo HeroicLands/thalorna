@@ -15,7 +15,7 @@ data:
   parents:
     - swoasisbelt
   population: 8000
-packFolder: khazryndesert
+  packFolder: khazryndesert
 ---
 
 Ashkarad emerges from the Khazryn Desert as a jewel of cultivation and craft, sustained by deep aquifers that the city's inhabitants have tapped and managed for generations beyond memory. The town is renowned not for trade or military prowess, but for the generations of artisans who have established workshops and passed their skills to their children and grandchildren—metalworkers, leatherworkers, potters, and weavers whose names have become synonymous with quality across the desert and beyond. The workshops of Ashkarad are as much temples to their crafts as the shrines of the Āsháian pantheon that crown the city's central plaza.

@@ -71,13 +71,13 @@ data:
     kemtnpnthn: aligned
     set: aligned
     ankhkemet: aligned
+  packFolder: khemenuhekau
 name:
   full: Per-Deshr'ut
   aliases:
     - House of the Red Land
     - The House of Desert
 shortcode: deshrut
-packFolder: khemenuhekau
 sohl:
   system:
     commonSkills: []

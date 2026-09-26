@@ -10,7 +10,6 @@ name:
   clan: Gárskald
   home: thornhaven
   aliases: []
-packFolder: ankarisvrystwald
 shortcode: vndrcgrskld
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: medium
     complexion: rough
     extra_features: []
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

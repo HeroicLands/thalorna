@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: imnetau
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: imnetau
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 Not invisibility—the practitioner is plainly there—but an arrangement by which the dead and

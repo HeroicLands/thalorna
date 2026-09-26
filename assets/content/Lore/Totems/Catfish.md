@@ -10,9 +10,9 @@ name:
   aliases:
     - Catfish Totem
 shortcode: catfishttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-catfishtotem|Catfish]]{float: top-left, size: medium}

@@ -11,11 +11,11 @@ data:
   parents:
     - zuravlenrgn
   population: null
+  packFolder: provenzia
 name:
   full: Blood-field of Kývarel
   aliases: []
 shortcode: bldfldkyvarel
-packFolder: provenzia
 ---
 
 In the western valleys, in the barony of Kývarel—held with [[place-zuravlenrgn|Zûravlen]] by Álegar

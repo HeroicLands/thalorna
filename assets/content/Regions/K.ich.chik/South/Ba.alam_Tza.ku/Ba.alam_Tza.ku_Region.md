@@ -15,8 +15,9 @@ data:
   parents:
     - sthrnkchchk
   population: null
-terran_analog: Equador, Peru, western Brazil
-packFolder: baalamtzaku
+  packFolder: baalamtzaku
+
+# terran_analog: Equador, Peru, western Brazil
 ---
 
 ## Overview

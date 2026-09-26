@@ -17,11 +17,11 @@ data:
   population: 5400
   routes:
     - { to: chandrmukha, bearing: W, mode: ship, days: 5, terrain: [coast] }
+  packFolder: vedyara
 name:
   full: Bharanya
   aliases: []
 shortcode: bharanya
-packFolder: vedyara
 ---
 
 Bharanya (5,400) stands on the lower [[place-mahanadi|Mahānadi]], and it is there for the temple. The great Mahájaya temple of Bharanya is one of the three largest pilgrim-temples in central Vedyara, and its senior priest is one of the three of the Council of Three.

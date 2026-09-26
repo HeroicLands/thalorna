@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-anvilbdg
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: sideros
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Mephitis
-packFolder: spells
+
+# hmk:
+#   name: Mephitis
 ---
 
 The caster gestures toward a metallic surface—a coin, a weapon, a piece of ore—and draws forth the poisonous vapors that metals naturally produce when heated or chemically agitated, concentrating and amplifying them into a visible cloud of acrid, yellowish-green gas. The fumes sting the eyes, burn the throat, and induce violent coughing, nausea, and disorientation in anyone who breathes them. Prolonged exposure causes dizziness, headaches, and eventually unconsciousness.

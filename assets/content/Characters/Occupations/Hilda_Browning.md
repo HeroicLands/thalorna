@@ -10,7 +10,6 @@ name:
   clan: Browning
   home: ashford
   aliases: []
-packFolder: aureldiaaelwyth
 shortcode: hildbrwnng
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: ruddy
     extra_features:
       - a scar running down the back
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

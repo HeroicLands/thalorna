@@ -86,14 +86,14 @@ data:
     - ashanpnthn
   relations:
     ashanpnthn: aligned
+  packFolder: ashaian
 name:
   full: Faith of Báhrámiš
   aliases:
     - The Thunder Rider
     - Storm God
+    - Báhrámiš, The Thunder Rider
 shortcode: bahramis
-alias: Báhrámiš, The Thunder Rider
-packFolder: ashaian
 sohl:
   system:
     commonSkills: []

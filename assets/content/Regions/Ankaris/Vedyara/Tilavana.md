@@ -11,9 +11,9 @@ data:
   parents:
     - dhanurkotajnpd
   population: 540
+  packFolder: vedyara
 name:
   full: Tilavana
   aliases: []
 shortcode: tilavana
-packFolder: vedyara
 ---

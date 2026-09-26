@@ -12,11 +12,11 @@ data:
   parents:
     - alyssa
   population: 7000
+  packFolder: vylaria
 name:
   full: Ostenna
   aliases: []
 shortcode: ostenna
-packFolder: vylaria
 ---
 
 ## Overview

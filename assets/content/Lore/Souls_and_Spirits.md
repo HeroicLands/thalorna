@@ -13,8 +13,9 @@ name:
     - Souls (GM)
     - The Spirit Realm
 subType: cosmology
-packFolder: settinglore
 shortcode: soulspirts
+data:
+  packFolder: settinglore
 ---
 
 In the cosmology of Thalorna, the **soul** is the locus of identity and the connection between a being and the non-physical layer of reality. **Aura**, in game terms, is the measure of the soul's strength—its depth, coherence, and capacity to engage with the formless arcane potential.

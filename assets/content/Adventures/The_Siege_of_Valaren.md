@@ -16,7 +16,7 @@ data:
   party:
     size: null
     archetypes: []
-packFolder: adventures
+  packFolder: adventures
 ---
 
 The coastal City of Válaren lies under blockade by forces unknown. Adventurers must break the siege and uncover who benefits from the city's starvation.

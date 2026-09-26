@@ -10,7 +10,6 @@ name:
   clan: Bûrnashî
   home: kethara2
   aliases: []
-packFolder: midhalionharad
 shortcode: tshrnbrnsh
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: weathered
     extra_features:
       - a scar running down the back
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

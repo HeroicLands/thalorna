@@ -13,6 +13,7 @@ name:
 data:
   icon: icon-speaking
   templatePriority: null
+  packFolder: language
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -21,7 +22,6 @@ sohl:
     combatCategory: none
     parentSkillCode: nyalbnlng
     initSkillMult: 0
-packFolder: language
 ---
 
 The long-distance register of [[skill-nyalbnlng|Nyáluban]], in which the tonal melody of the

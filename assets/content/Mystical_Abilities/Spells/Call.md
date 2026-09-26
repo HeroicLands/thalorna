@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-tree
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: physera
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Beckon
-packFolder: spells
+
+# hmk:
+#   name: Beckon
 ---
 
 The caster reaches across the boundary between the material world and the primal elemental plane, summoning a Minor Ivrihn—a spirit of living earth—and binding it into a host mass of at least five cubic feet of earthen ground or rock within range. With successful spellfire, the elemental tests its Spirit against the Casting Roll in an opposed check where ties do not break in the caster's favor, making the contest genuinely perilous. If the Ivrihn prevails, it remains bound to its host mass as an uncontrolled free elemental that may flee or turn hostile; if the caster prevails, they command the spirit for the spell's duration before it returns to its primal plane.

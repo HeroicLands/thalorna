@@ -111,7 +111,7 @@ data:
   relations:
     arldnpnthn: aligned
     panepistmm: aligned
-packFolder: helionis
+  packFolder: helionis
 sohl:
   system:
     commonSkills:

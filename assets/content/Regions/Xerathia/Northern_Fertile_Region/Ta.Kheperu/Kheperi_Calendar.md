@@ -10,7 +10,6 @@ name:
   aliases:
     - Kheperi Calendar
 shortcode: khprclndr
-packFolder: takheperu
 data:
   epoch: 720/1/1
   months:
@@ -32,6 +31,7 @@ data:
     - { name: Akhet, monthStart: 1, monthEnd: 4 }
     - { name: Peret, monthStart: 5, monthEnd: 8 }
     - { name: Shemu, monthStart: 9, monthEnd: 12 }
+  packFolder: takheperu
 ---
 
 The **Kheperi calendar** divides the year into three seasons of four thirty-day months each, following the river rather than the sun's angle: **Akhet** (Inundation), **Peret** (Emergence and Growing), and **Shemu** (Harvest). Five days outside any month close the year once the twelve are spent, so the count stays whole every year without a leap.

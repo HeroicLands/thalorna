@@ -7,5 +7,6 @@ name:
   full: Týr
   aliases: []
 shortcode: tyrdty
-packFolder: deitiesasguardian
+data:
+  packFolder: deitiesasguardian
 ---

@@ -9,7 +9,8 @@ name:
   full: Rhysgen, the Red Fox of the Lower Wood
   aliases: []
 shortcode: rhysgenspr
-packFolder: lorespiritsaelendan
+data:
+  packFolder: lorespiritsaelendan
 ---
 
 - **Kind:** Animal-kin, of [[lore-thekindred|the Kindred]]

@@ -12,7 +12,6 @@ name:
   clan: Garwald
   aliases:
     - the Liar
-packFolder: ankarisvrystwald
 shortcode: vndrcgrwld
 type: being
 data:
@@ -43,6 +42,7 @@ data:
     extra_features:
       - a disarming smile that does not reach his eyes
       - tattoo of a serpent on his forearm
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

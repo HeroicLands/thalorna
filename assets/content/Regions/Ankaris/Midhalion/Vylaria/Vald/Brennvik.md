@@ -11,11 +11,11 @@ data:
   parents:
     - vald
   population: 9000
+  packFolder: vylaria
 name:
   full: Brennvik
   aliases: []
 shortcode: brennvik
-packFolder: vylaria
 ---
 
 ## Overview

@@ -10,11 +10,11 @@ data:
   parents:
     - moktur
   population: 5000
+  packFolder: vylaria
 name:
   full: Korrast
   aliases: []
 shortcode: korrast
-packFolder: vylaria
 ---
 
 ## Overview

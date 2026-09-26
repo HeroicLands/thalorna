@@ -76,13 +76,13 @@ data:
     kemtnpnthn: aligned
     thoth: aligned
     khatnu: aligned
+  packFolder: khemenuhekau
 name:
   full: Per-Ren'sesh
   aliases:
     - House of the Name
     - The House of Name
 shortcode: rensesh
-packFolder: khemenuhekau
 sohl:
   system:
     commonSkills: []

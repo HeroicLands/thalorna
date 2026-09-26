@@ -10,7 +10,6 @@ name:
   clan: Khalîthôn
   home: athenikos2
   aliases: []
-packFolder: helladhelionis
 shortcode: rkhmkhlthn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a bear on the left arm
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

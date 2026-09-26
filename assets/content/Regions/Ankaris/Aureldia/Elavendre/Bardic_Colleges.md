@@ -83,13 +83,13 @@ data:
   lore: []
   parents: []
   relations: {}
+  packFolder: elavendre
 name:
   full: The Bardic Colleges
   aliases:
     - The Bardic Circle
     - Bardic Circle
 shortcode: bardicolgs
-packFolder: elavendre
 sohl:
   system:
     commonSkills: []

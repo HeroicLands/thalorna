@@ -13,11 +13,11 @@ data:
   parents:
     - silvrfrsts
   population: 120
+  packFolder: elavendre
 name:
   full: Aelirossë
   aliases: []
 shortcode: aelirosse
-packFolder: elavendre
 ---
 
 **Aelirossë** lies deep in the **[[place-silvrfrsts|Silver Forests]]**, within the

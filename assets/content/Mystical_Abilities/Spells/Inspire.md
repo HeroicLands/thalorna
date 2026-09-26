@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-circle
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: kentra
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Imbue
-packFolder: spells
+
+# hmk:
+#   name: Imbue
 ---
 
 The caster lays hands upon a willing subject and speaks words of empowerment, channeling raw arcane energy into their being. The recipient feels a surge of vitality and capability as the magic temporarily enhances their natural attributes—sharper senses, quicker reflexes, greater endurance, or keener thought. The effect is unmistakable to the recipient, who may feel as though a fog has lifted or a weight has been removed.

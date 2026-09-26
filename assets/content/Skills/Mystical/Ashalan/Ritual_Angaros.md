@@ -12,6 +12,7 @@ name:
     - The Shadowed Serpent
 data:
   templatePriority: null
+  packFolder: ashalan
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -20,7 +21,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: ashalan
 ---
 
 See [[affiliation-angaros|Faith of Ángáróš]]

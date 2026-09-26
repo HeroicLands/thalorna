@@ -15,8 +15,9 @@ data:
   parents:
     - cntrlkchchk
   population: null
-terran_analog: Venezuela, Guyana, Suriname, French Guiana, northern Brazil
-packFolder: tzikin
+  packFolder: tzikin
+
+# terran_analog: Venezuela, Guyana, Suriname, French Guiana, northern Brazil
 ---
 
 ## Overview

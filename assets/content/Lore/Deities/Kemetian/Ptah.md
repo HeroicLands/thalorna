@@ -7,7 +7,8 @@ name:
   full: Ptā'h
   aliases: []
 shortcode: ptahdty
-packFolder: deitieskemetian
+data:
+  packFolder: deitieskemetian
 ---
 
 ![[icon-ptah|Ptā'h]]{float: top-left, size: medium}

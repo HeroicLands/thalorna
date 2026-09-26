@@ -63,12 +63,12 @@ data:
     - kemtnpnthn
   relations:
     kemtnpnthn: aligned
+  packFolder: pantheonskemetian
 name:
   full: Faith of Wadjit
   aliases:
     - Wadjit, The Cobra-Goddess
 shortcode: wadjit
-packFolder: pantheonskemetian
 sohl:
   system:
     commonSkills: []

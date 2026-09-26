@@ -11,11 +11,11 @@ data:
   parents:
     - meridiana
   population: 6000
+  packFolder: provenzia
 name:
   full: Fiòrdaure
   aliases: []
 shortcode: fiordaure
-packFolder: provenzia
 ---
 
 **Fiòrdaure** lies on the warm southern coast between the great ports, a town of some six thousand

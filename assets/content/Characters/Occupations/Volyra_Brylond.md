@@ -10,7 +10,6 @@ name:
   clan: Brýlond
   home: belporte
   aliases: []
-packFolder: aureldiaprovenzia
 shortcode: vlyrbrylnd
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: bronzed
     extra_features:
       - a scar running down the right leg
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

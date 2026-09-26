@@ -10,7 +10,6 @@ name:
   clan: Arshûmû
   home: qadhirun
   aliases: []
-packFolder: midhalionharad
 shortcode: kashnrrshm
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: olive
     complexion: weathered
     extra_features: []
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

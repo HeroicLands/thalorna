@@ -9,13 +9,14 @@ data:
   parents:
     - aureldirgn
   population: 2000000
+  packFolder: elavendre
 name:
   full: Élavendre
   aliases:
     - Élavendre Region
 shortcode: elavendre
-terran_analog: "Northern France and Switzerland—the temperate-and-Alpine northern Aurèldían heartland of forest, river-valley farming, mountain monasteries, and the great Pelwar cultural sphere."
-packFolder: elavendre
+
+# terran_analog: "Northern France and Switzerland—the temperate-and-Alpine northern Aurèldían heartland of forest, river-valley farming, mountain monasteries, and the great Pelwar cultural sphere."
 ---
 
 On the western shores of [[place-ankrscntnnt|Ankaris Continent]], Élavendre stands as a beacon of culture and magic. Rich in history and tradition, Élavendre is a land where ancient forests meet rolling plains, and towering mountains overlook tranquil lakes. It is a place steeped in the arcane, where magic flows freely through the air and the people are deeply attuned to the land's mystical energies.

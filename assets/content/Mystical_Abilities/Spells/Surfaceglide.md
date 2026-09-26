@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-water
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: hydalis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Waterwalk
-packFolder: spells
+
+# hmk:
+#   name: Waterwalk
 ---
 
 The caster enchants a target's feet to treat the surface of water as solid ground. The target walks, runs, and stands upon water as naturally as on a stone floor, their feet dimpling the surface slightly with each step but never breaking through. The enchantment adjusts continuously to the water's movement—waves pass beneath like gentle hills, and currents push against the legs like a steady wind rather than threatening to submerge.

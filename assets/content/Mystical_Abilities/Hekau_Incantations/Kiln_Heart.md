@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: deshrut
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: deshrut
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 Worked on smelters, glassmakers, and anyone who must go into a fire, and on the vessels themselves

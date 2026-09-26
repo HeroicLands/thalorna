@@ -7,7 +7,8 @@ name:
   full: Min
   aliases: []
 shortcode: mindty
-packFolder: deitieskemetian
+data:
+  packFolder: deitieskemetian
 ---
 
 _The Fertility-God._

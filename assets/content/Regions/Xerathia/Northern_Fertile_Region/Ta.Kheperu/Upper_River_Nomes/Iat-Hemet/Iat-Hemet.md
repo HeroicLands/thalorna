@@ -11,11 +11,11 @@ data:
   parents:
     - iathemetnome
   population: 6000
+  packFolder: upperrivernomes
 name:
   full: Iat-Hemet
   aliases: []
 shortcode: iathemet
-packFolder: upperrivernomes
 ---
 
 ## Overview

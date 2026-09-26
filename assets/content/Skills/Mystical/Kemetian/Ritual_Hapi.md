@@ -17,6 +17,7 @@ name:
 data:
   icon: hapi
   templatePriority: null
+  packFolder: kemetian
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -25,7 +26,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: kemetian
 ---
 
 See [[affiliation-hapi|Faith of Hâpi]]

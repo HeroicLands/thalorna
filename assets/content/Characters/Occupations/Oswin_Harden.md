@@ -11,7 +11,6 @@ name:
   clan: Harden
   home: caerwynd
   aliases: []
-packFolder: aureldiaaelwyth
 shortcode: oswinhardn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: fair
     complexion: freckled
     extra_features: []
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

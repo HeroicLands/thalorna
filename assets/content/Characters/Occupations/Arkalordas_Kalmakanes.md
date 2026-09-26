@@ -10,7 +10,6 @@ name:
   clan: Kâlmâkanês
   home: aelissium
   aliases: []
-packFolder: midhalionvylaria
 shortcode: arklrdsklmkns
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: olive_toned
     extra_features:
       - a scar on the right calf and a Seaman's Guild tatoo on his right arm
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

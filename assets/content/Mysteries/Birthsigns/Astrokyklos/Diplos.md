@@ -10,6 +10,7 @@ subType: birthsign
 data:
   icon: icon-astrology
   templatePriority: 0
+  packFolder: astrokyklos
 sohl:
   kbcat: birthsign
   system:
@@ -37,7 +38,6 @@ sohl:
       "subType:social": -5
       water: -5
       hydalis: -5
-packFolder: astrokyklos
 ---
 
 Diplos, the Twins, is a sign of quick wit and quicker fingers. Scribes, artisans, and duelists born beneath it prosper, but the arcane and the antiquarian find its natives distracted and ill-suited to long contemplation.

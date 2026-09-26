@@ -7,7 +7,8 @@ name:
   full: Rā
   aliases: []
 shortcode: radty
-packFolder: deitieskemetian
+data:
+  packFolder: deitieskemetian
 ---
 
 ![[icon-ra|Rā]]{float: top-left, size: medium}

@@ -9,6 +9,7 @@ type: armorgear
 data:
   icon: icon-cloak
   templatePriority: null
+  packFolder: armorarmor
 sohl:
   kbcat: quilted
   armorType: Coat
@@ -44,7 +45,6 @@ sohl:
       fire: 3
     encumbrance: 3
     perceptionPenaltyBase: 0
-packFolder: armorarmor
 ---
 
 Layers of monsoon cotton, stitched in close rows and rubbed through with wax until the outer layer sheds rain the way oiled cloth does, make up this coat. It is cut looser than a war-quilted coat and quilted thinner, and it will not stop a battlefield thrust the way a heavier coat might—what it is built for is a watchman's whole shift standing rain, spray and the ordinary knife-work of a harbor district, not a pitched engagement.

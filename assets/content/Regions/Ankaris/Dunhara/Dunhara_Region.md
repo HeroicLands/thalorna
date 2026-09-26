@@ -24,8 +24,9 @@ data:
     - { to: graznmntns, bearing: E }
     - { to: vylarianse, bearing: W }
   population: 3000000
-terran_analog: "Jordan, Sinai, the Arabian Peninsula, Iraq, Iran, Turkmenistan, Afghanistan, and Pakistan—the Persian-and-Arabian world. The Sultanate of Amradad occupies the Anatolian-Caucasian northwestern corner; the rest of the region is Bedouin tribal desert through Persianate plateau and Pashtun-Baloch frontier."
-packFolder: dunhara
+  packFolder: dunhara
+
+# terran_analog: "Jordan, Sinai, the Arabian Peninsula, Iraq, Iran, Turkmenistan, Afghanistan, and Pakistan—the Persian-and-Arabian world. The Sultanate of Amradad occupies the Anatolian-Caucasian northwestern corner; the rest of the region is Bedouin tribal desert through Persianate plateau and Pashtun-Baloch frontier."
 ---
 
 The Dunhara Region is the vast southern desert of [[place-ankrscntnnt|Ankaris Continent]]—a harsh, ancient landscape of sand seas, rocky mesas, dry riverbeds, and hidden oases that stretches across the continent's southern interior from the [[affiliation-cnfdrtnhrdnstts|Haradian]] frontier in the west to the foothills below the [[place-graznmntns|Grazian]] wall's western end, where the desert-margin gives way to the marches of [[place-vedyarargn|Vedyara]]. Within it live the Dunhari, a confederation of tribal peoples whose caravans dominate the southern overland trade, whose oral literature is among the most sophisticated in Thalorna, and whose honor code is strict enough to govern relations among people who otherwise have every reason to kill each other for water.

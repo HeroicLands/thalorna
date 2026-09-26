@@ -9,7 +9,6 @@ name:
   given: Geldar
   clan: Panivel
   aliases: []
-packFolder: adventures
 shortcode: geldarpanivel
 type: being
 data:
@@ -23,6 +22,7 @@ data:
     - kingdmdnvr
   gender: male
   species: humanflk
+  packFolder: adventures
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

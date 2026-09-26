@@ -10,7 +10,6 @@ name:
   clan: Korkâlenîs
   home: velysara
   aliases: []
-packFolder: midhalionvylaria
 shortcode: klndrskrklns
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: medium
     complexion: bronzed
     extra_features: []
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }

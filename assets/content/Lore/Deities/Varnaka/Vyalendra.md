@@ -7,7 +7,8 @@ name:
   full: Vyālendra
   aliases: []
 shortcode: vyalendradty
-packFolder: deitiesvarnaka
+data:
+  packFolder: deitiesvarnaka
 ---
 
 _The Shaper of Worlds—a four-armed figure of serene focus, holding a compass, a measuring cord, a chisel and a golden lotus._

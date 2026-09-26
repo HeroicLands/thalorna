@@ -7,5 +7,6 @@ name:
   full: Vúlcan
   aliases: []
 shortcode: vulcandty
-packFolder: deitiesaureldian
+data:
+  packFolder: deitiesaureldian
 ---

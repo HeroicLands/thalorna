@@ -11,11 +11,11 @@ data:
   parents:
     - iunetnome
   population: 42000
+  packFolder: upperrivernomes
 name:
   full: Iunet
   aliases: []
 shortcode: iunet
-packFolder: upperrivernomes
 ---
 
 ## Overview

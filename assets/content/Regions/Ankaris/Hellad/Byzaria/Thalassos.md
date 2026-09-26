@@ -15,7 +15,7 @@ data:
   parents:
     - byzariargn
   population: 4000
-packFolder: byzaria
+  packFolder: byzaria
 ---
 
 Thálassos—the name drawn directly from the Byzarian word for "sea"—is a modest but strategically important harbor town serving the [[affiliation-byzarianlg|Byzarian League]] as a waypoint for coastal merchant traffic and a refuge for ships caught by seasonal storms. It lacks the grandeur and infrastructure of [[affiliation-denizara|Denizara]] or the specialized craft reputation of [[place-byzaris|Byzaris]], but its protected natural harbor has made it indispensable for maritime commerce moving along the coast toward [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]], [[place-provenzrgn|Provènzia Region]], and the western settlements beyond.

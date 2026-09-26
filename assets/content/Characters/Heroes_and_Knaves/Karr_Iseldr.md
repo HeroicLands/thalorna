@@ -10,7 +10,6 @@ name:
   clan: Íseldr
   home: bjornstad
   aliases: []
-packFolder: ankarisnordlands
 shortcode: karriseldr
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: fair
     extra_features:
       - a scar above the left eyebrow
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

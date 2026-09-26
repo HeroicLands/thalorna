@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-anvilbdg
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: sideros
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Foundry
-packFolder: spells
+
+# hmk:
+#   name: Foundry
 ---
 
 The caster conjures a zone of intense, precisely controlled heat centered on a work surface—a flat rock, an existing anvil, or even bare ground. Within this zone, the temperature reaches forge-ready intensity, sufficient to soften iron, melt copper, and work steel to a workable state. The heat is sharply bounded: the air a handspan outside the zone is merely warm, while inside, metal glows cherry-red and can be shaped with proper tools.

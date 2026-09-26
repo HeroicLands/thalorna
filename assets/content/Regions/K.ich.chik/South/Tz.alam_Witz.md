@@ -11,11 +11,11 @@ data:
   parents:
     - balamtzakurgn
   population: 15000
+  packFolder: south
 name:
   full: Tz’alam Witz
   aliases: []
 shortcode: tzalamwitz
-packFolder: south
 ---
 
 ## Overview

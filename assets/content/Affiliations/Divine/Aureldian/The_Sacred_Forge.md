@@ -70,7 +70,7 @@ data:
     - arldnpnthn
   relations:
     arldnpnthn: aligned
-packFolder: pantheonsaureldian
+  packFolder: pantheonsaureldian
 sohl:
   system:
     commonSkills: []

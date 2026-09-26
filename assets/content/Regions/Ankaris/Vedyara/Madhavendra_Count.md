@@ -12,7 +12,6 @@ name:
     - Mādhavendra Count
     - M-reckoning
 shortcode: mdhvndrcnt
-packFolder: vedyara
 data:
   epoch: 720/1/1
   months:
@@ -48,6 +47,7 @@ data:
       name: The Mādhavendra Count
       abbreviation: M
       start: -480
+  packFolder: vedyara
 ---
 
 The **Mādhavendra count** is Vedyara's own year-count, kept alongside—and never converted from—the BF/AF reckoning the western kingdoms date from the founding of the [[affiliation-vylarinmpr|Vylarian]] state. A Vedyaran date is written **M** followed by the year number; the present year is **M 1200**. It is a solar calendar: twelve months of fixed length paired into six seasons, a week of seven days running through them, and the moon kept separately, in a temple almanac, for everything the rites require it for.

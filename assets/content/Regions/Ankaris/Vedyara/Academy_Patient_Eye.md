@@ -12,11 +12,11 @@ data:
   parents:
     - dhanurkotajnpd
   population: null
+  packFolder: vedyara
 name:
   full: The Academy of the Patient Eye
   aliases: []
 shortcode: patienteye
-packFolder: vedyara
 ---
 
 The **Academy of the Patient Eye** teaches accuracy at extreme range. Its graduates serve as scouts, as hunters and as fortress sharpshooters, and a good many end as the personal bowmen of Vedyari nobility, which is the most comfortable place an archer of common birth can reach.

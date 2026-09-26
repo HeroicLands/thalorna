@@ -13,11 +13,11 @@ data:
   parents:
     - brynavar
   population: 5200
+  packFolder: elavendre
 name:
   full: Valdûn
   aliases: []
 shortcode: valdun
-packFolder: elavendre
 ---
 
 **Valdûn** stands in the eastern hills of [[place-brynavar|Brynavar]], on the ridge road where the

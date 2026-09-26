@@ -10,9 +10,9 @@ data:
   parents:
     - bethuargn
   population: 35000
+  packFolder: bethua
 name:
   full: Bethûra
   aliases: []
 shortcode: bethura
-packFolder: bethua
 ---

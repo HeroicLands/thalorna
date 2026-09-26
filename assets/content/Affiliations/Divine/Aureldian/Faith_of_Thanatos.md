@@ -64,13 +64,13 @@ data:
     - arldnpnthn
   relations:
     arldnpnthn: aligned
+  packFolder: pantheonsaureldian
 name:
   full: Faith of Thánatos
   aliases:
     - The Silent Judge
     - Thánatos
 shortcode: thanatos
-packFolder: pantheonsaureldian
 sohl:
   system:
     commonSkills: []

@@ -9,7 +9,6 @@ name:
   given: Kasûra
   clan: Damzarû
   aliases: []
-packFolder: midhalionharad
 shortcode: kasuradmzr
 type: being
 data:
@@ -41,6 +40,7 @@ data:
       - perpetually stained hands
       - an open and expressive face
       - almost always smiling
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

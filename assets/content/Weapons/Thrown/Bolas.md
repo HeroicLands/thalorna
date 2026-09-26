@@ -9,6 +9,7 @@ type: weapongear
 data:
   icon: icon-bolas
   templatePriority: null
+  packFolder: weapons
 sohl:
   kbcat: thrown
   weaponType: Thrown
@@ -62,7 +63,6 @@ sohl:
         maxVolleyMult: 2
         baseRangeBase: 30
         drawBase: 0
-packFolder: weapons
 ---
 
 Two or more weighted balls connected by cord, the bolas is cast to wrap around a target's legs or arms. The spinning weights entangle and trip the prey—hunters use it for game capture with minimal injury; soldiers throw it to disable cavalry and break formations. Simple to craft from leather and stone, it favors herders and irregular troops more than professional soldiers.

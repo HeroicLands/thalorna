@@ -14,11 +14,11 @@ data:
   party:
     size: null
     archetypes: []
+  packFolder: bloodandashesinceravelvale
 shortcode: bldshscrvlvl
 name:
   full: Blood and Ashes in Céravel Vale
   aliases: []
-packFolder: bloodandashesinceravelvale
 ---
 
 ## Teaser

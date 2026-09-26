@@ -10,9 +10,9 @@ name:
   aliases:
     - Whale Totem
 shortcode: whalettm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-whaletotem|Whale]]{float: top-left, size: medium}

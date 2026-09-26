@@ -76,13 +76,13 @@ data:
     kemtnpnthn: aligned
     maatken: aligned
     apophis: nemesis
+  packFolder: khemenuhekau
 name:
   full: Per-Sefút
   aliases:
     - House of the Unmaking
     - The House of Chaos
 shortcode: sefut
-packFolder: khemenuhekau
 sohl:
   system:
     commonSkills: []

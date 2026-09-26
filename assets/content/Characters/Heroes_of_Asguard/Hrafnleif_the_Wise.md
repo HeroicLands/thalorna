@@ -12,7 +12,6 @@ name:
   aliases:
     - the Wise
   home: null
-packFolder: ankarisnordlands
 shortcode: hrafnlefws
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: light
     complexion: freckled
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }

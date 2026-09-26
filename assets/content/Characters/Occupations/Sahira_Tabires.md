@@ -10,7 +10,6 @@ name:
   clan: Tâbîrês
   home: pelagora2
   aliases: []
-packFolder: helladhelionis
 shortcode: sahiratbrs
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: tanned
     complexion: olive_toned
     extra_features: []
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

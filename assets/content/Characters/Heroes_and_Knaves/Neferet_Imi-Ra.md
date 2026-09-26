@@ -13,7 +13,6 @@ name:
   home: wasetkara
   aliases:
     - The Scholar of Forgotten Texts
-packFolder: northernfertileregiontakheperu
 shortcode: neferetimr
 type: being
 data:
@@ -41,6 +40,7 @@ data:
     skin_color: dark_brown
     complexion: null
     extra_features: []
+  packFolder: northernfertileregiontakheperu
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

@@ -15,8 +15,9 @@ data:
   parents:
     - nrthrnkchchk
   population: null
-terran_analog: Central US and Plains States East of Rockies
-packFolder: haxaman
+  packFolder: haxaman
+
+# terran_analog: Central US and Plains States East of Rockies
 ---
 
 ## Overview

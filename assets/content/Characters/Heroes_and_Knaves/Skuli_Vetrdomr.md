@@ -11,7 +11,6 @@ name:
   clan: Vetrdómr
   home: greyfjord
   aliases: []
-packFolder: ankarisnordlands
 shortcode: skulvtrdmr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: ruddy
     extra_features:
       - a tattoo of a falcon on the right arm
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

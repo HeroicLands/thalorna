@@ -9,7 +9,6 @@ name:
   given: Nhelyn
   clan: Vélthravel
   aliases: []
-packFolder: adventures
 shortcode: nhelynvelthravel
 type: being
 data:
@@ -23,6 +22,7 @@ data:
     - kingdmdnvr
   gender: male
   species: humanflk
+  packFolder: adventures
 ---
 
 # Appearance {#appearance}

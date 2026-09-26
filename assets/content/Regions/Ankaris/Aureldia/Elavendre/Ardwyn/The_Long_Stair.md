@@ -13,12 +13,12 @@ data:
   parents:
     - drenavrspn
   population: null
+  packFolder: elavendre
 name:
   full: The Long Stair
   aliases:
     - Aranwy's Stair
 shortcode: longstair
-packFolder: elavendre
 ---
 
 Seven falls in succession where a headwater of the [[place-drenavrspn|Drenavar Spine]] drops through a

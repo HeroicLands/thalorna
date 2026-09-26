@@ -11,12 +11,12 @@ data:
   parents:
     - khensuretnome
   population: 6000
+  packFolder: khensuret
 name:
   full: Set-Maat
   aliases:
     - Set-Ma'at
 shortcode: setmaat
-packFolder: khensuret
 ---
 
 ## Overview

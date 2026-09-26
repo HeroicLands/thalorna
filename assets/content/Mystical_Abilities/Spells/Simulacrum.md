@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-circle
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: kentra
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: False Soul
-packFolder: spells
+
+# hmk:
+#   name: False Soul
 ---
 
 The caster sculpts a shell of solidified arcane energy into the precise likeness of a person, creature, or object they have carefully studied. The replica is remarkable in its fidelity—it moves with the subject's characteristic gait, mimics their gestures, and even produces a convincing approximation of their voice. To casual observation, the simulacrum is indistinguishable from the original, though it carries no genuine warmth, casts a slightly wrong shadow in magical sight, and cannot respond intelligently to unexpected situations.

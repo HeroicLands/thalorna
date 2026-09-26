@@ -10,11 +10,11 @@ data:
   parents:
     - nordheim
   population: 500
+  packFolder: nordheim
 name:
   full: Ravensholm
   aliases: []
 shortcode: ravensholm
-packFolder: nordheim
 ---
 
 ## Overview

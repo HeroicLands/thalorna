@@ -104,11 +104,12 @@ data:
   parents: []
   relations:
     itzanpnthn: aligned
-terran_analog: Nicaragua through Colombia
-packFolder: kiikbaate
+  packFolder: kiikbaate
 sohl:
   system:
     commonSkills: []
+
+# terran_analog: Nicaragua through Colombia
 ---
 
 ## Overview

@@ -11,7 +11,6 @@ name:
   clan: Safîthês
   home: thyrenae2
   aliases: []
-packFolder: helladhelionis
 shortcode: jubensfths
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: bronzed
     extra_features:
       - a tattoo of a skull on the upper arm
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

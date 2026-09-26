@@ -10,9 +10,9 @@ data:
   parents:
     - sthrnsvnhs
   population: 400
+  packFolder: southernsavannahs
 name:
   full: Ékunda
   aliases: []
 shortcode: ekunda
-packFolder: southernsavannahs
 ---

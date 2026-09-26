@@ -15,6 +15,7 @@ name:
 data:
   icon: icon-psychicwaves
   templatePriority: null
+  packFolder: spiritskillsnyaluba
 sohl:
   system:
     skillBaseFormula: "@aur, @wil"
@@ -23,7 +24,6 @@ sohl:
     combatCategory: none
     parentSkillCode: spirit
     initSkillMult: 0
-packFolder: spiritskillsnyaluba
 ---
 
 See [[affiliation-nyalblion|Lion Totem]]—the guide of the Mvuzi, the cattle-herders of the central grasslands.

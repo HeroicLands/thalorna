@@ -7,7 +7,8 @@ name:
   full: Thōth
   aliases: []
 shortcode: thothdty
-packFolder: deitieskemetian
+data:
+  packFolder: deitieskemetian
 ---
 
 ![[icon-thoth|Thōth]]{float: top-left, size: medium}

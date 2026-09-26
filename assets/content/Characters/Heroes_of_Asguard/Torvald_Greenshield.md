@@ -12,7 +12,6 @@ name:
   aliases:
     - Greenshield
   home: null
-packFolder: ankarisnordlands
 shortcode: trvldgrnshld
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: fair
     complexion: ruddy
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

@@ -7,5 +7,6 @@ name:
   full: Karnavos
   aliases: []
 shortcode: karnavosdty
-packFolder: deitiesaureldian
+data:
+  packFolder: deitiesaureldian
 ---

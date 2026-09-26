@@ -10,7 +10,6 @@ name:
   clan: Párdalen
   home: valdun
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: rnthrprdln
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a crown on the chest
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

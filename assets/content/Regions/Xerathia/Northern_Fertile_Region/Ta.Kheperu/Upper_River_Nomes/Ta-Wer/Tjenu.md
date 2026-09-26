@@ -11,11 +11,11 @@ data:
   parents:
     - tawernome
   population: 39000
+  packFolder: upperrivernomes
 name:
   full: Tjenu
   aliases: []
 shortcode: tjenu
-packFolder: upperrivernomes
 ---
 
 ## Overview

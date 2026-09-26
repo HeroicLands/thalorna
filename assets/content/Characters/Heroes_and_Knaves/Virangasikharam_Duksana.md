@@ -10,7 +10,6 @@ name:
   clan: Dukshana
   home: suvarnagiri
   aliases: []
-packFolder: ankarisvedyara
 shortcode: vrgskhrmdkn
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: dark_brown
     complexion: null
     extra_features: []
+  packFolder: ankarisvedyara
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

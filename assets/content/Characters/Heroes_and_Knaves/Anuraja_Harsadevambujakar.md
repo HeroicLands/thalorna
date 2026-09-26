@@ -10,7 +10,6 @@ name:
   clan: Harshadēvāmbujakar
   home: chandrapur2
   aliases: []
-packFolder: ankarisvedyara
 shortcode: anrjhrdvmbjkr
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a tiger on the forearm
+  packFolder: ankarisvedyara
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

@@ -5,7 +5,8 @@ name:
   full: Zāthük
   aliases: []
 shortcode: zathuk
-packFolder: castes
+data:
+  packFolder: castes
 ---
 
 **Artisans, Craftsmen, and Common Warriors**

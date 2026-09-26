@@ -92,8 +92,8 @@ data:
   lore: []
   parents: []
   relations: {}
+  packFolder: astrokyklos
 shortcode: astrokyklos
-packFolder: astrokyklos
 sohl:
   system:
     commonSkills: []

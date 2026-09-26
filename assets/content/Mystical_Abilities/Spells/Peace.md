@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-divination
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: pneumenos
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Solace
-packFolder: spells
+
+# hmk:
+#   name: Solace
 ---
 
 The caster speaks a word of tranquility and a wave of profound calm washes over the target, smoothing away the sharp edges of distress like water over stone. Fear recedes, anger loses its burning intensity, and the gnawing anxiety of uncertain circumstances fades to a manageable hum. The target feels as though a heavy burden has been temporarily lifted, allowing them to breathe, think, and act without the paralyzing weight of their emotions.

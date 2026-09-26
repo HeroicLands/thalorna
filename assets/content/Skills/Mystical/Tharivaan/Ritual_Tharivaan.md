@@ -13,6 +13,7 @@ name:
     - The Living Whole
 data:
   templatePriority: null
+  packFolder: tharivaan
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +22,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: tharivaan
 ---
 
 See [[affiliation-tharivaan|Thári'vaan]]

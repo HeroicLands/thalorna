@@ -12,9 +12,9 @@ data:
   parents:
     - suvarnagirijnpd
   population: 560
+  packFolder: vedyara
 name:
   full: Madhuvana
   aliases: []
 shortcode: madhuvana
-packFolder: vedyara
 ---

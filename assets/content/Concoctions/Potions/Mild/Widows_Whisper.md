@@ -9,11 +9,10 @@ description: "Pale yellow amber liquid; induces despair and hopelessness."
 shortcode: ptnpoim
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Poison, Mild"
 data:
   icon: icon-potion
   templatePriority: null
+  packFolder: mild
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +21,9 @@ sohl:
     durabilityBase: 5
     potency: "mild"
     strength: 0
-packFolder: mild
+
+# hmk:
+#   name: "Potion, Poison, Mild"
 ---
 
 A pale yellow or amber liquid, almost indistinguishable from common herb infusions or weak wine to the untrained eye. The smell is subtle—perhaps slightly unpleasant, but nothing that would immediately arouse suspicion. The herbalist who prepares this treacherous draft works with extreme caution, wearing gloves and breathing shallow. A taste triggers immediate nausea and bitter flavors that linger long after spitting. Some herbalists will refuse to prepare this potion altogether, viewing it as crossing an irredeemable line from healer to murderer.

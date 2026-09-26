@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-water
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: hydalis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Shadow
-packFolder: spells
+
+# hmk:
+#   name: Shadow
 ---
 
 The caster gathers ambient shadows and deepens them, thickening darkness within a defined area until it resists even bright light. Torches gutter to sullen glows, sunlight filtering through windows dims to a twilight murkiness, and colors drain away to shades of gray. The effect is not true darkness but a heavy, clinging dimness that makes details hard to discern and distances deceptive.

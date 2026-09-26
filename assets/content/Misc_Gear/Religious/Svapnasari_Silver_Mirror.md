@@ -9,6 +9,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: null
+  packFolder: religious
 sohl:
   kbcat: religious
   craft:
@@ -19,7 +20,6 @@ sohl:
     valueBase: 180
     qualityBase: 0
     durabilityBase: 9
-packFolder: religious
 ---
 
 A disc of polished silver, kept in a monastery's divination chamber and read rather than looked into: a Darshaka serving the Mirror Year sits before it for a full year, taking every petitioner who comes and refusing neither a reading nor a fee waived for the poor. The mirror itself is plain, without inlay or inscription—the [[affiliation-svapnasarisamaja|Svapnasāri-samāja]] holds that a reader's training is the instrument and the silver only the surface it works against.

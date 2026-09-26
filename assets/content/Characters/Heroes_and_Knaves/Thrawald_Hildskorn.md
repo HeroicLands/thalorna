@@ -11,7 +11,6 @@ name:
   given: Thráwald
   clan: Hildskorn
   aliases: []
-packFolder: ankarisvrystwald
 shortcode: thrwldhldskrn
 type: being
 data:
@@ -43,6 +42,7 @@ data:
       - missing two fingers on left hand
       - thick neck
       - nose broken multiple times
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

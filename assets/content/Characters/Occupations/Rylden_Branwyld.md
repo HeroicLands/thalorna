@@ -10,7 +10,6 @@ name:
   clan: Brânwyld
   home: chastelclr
   aliases: []
-packFolder: aureldiaprovenzia
 shortcode: ryldnbrnwyld
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: wrinkled
     extra_features:
       - a scar on the left eye
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

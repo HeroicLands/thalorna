@@ -15,8 +15,9 @@ data:
   parents:
     - cntrlkchchk
   population: null
-terran_analog: Central Mexico
-packFolder: balamkul
+  packFolder: balamkul
+
+# terran_analog: Central Mexico
 ---
 
 ## Overview

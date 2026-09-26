@@ -12,7 +12,6 @@ name:
   aliases:
     - Oakheart
   home: ""
-packFolder: ankarisvrystwald
 shortcode: asbjrnkhrt
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: pale
     complexion: weathered
     extra_features: []
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 19 } }

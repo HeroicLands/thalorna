@@ -103,7 +103,7 @@ data:
     - byzarianlg
   relations:
     arldnpnthn: aligned
-packFolder: byzaria
+  packFolder: byzaria
 sohl:
   system:
     commonSkills:

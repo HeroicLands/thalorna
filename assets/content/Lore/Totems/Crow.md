@@ -10,9 +10,9 @@ name:
   aliases:
     - Crow Totem
 shortcode: crowttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-crowtotem|Crow]]{float: top-left, size: medium}

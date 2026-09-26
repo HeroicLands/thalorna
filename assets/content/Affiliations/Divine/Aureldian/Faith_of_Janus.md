@@ -76,12 +76,12 @@ data:
     - arldnpnthn
   relations:
     arldnpnthn: aligned
+  packFolder: pantheonsaureldian
 name:
   full: Faith of Janus
   aliases:
     - The Keeper of the Gates
 shortcode: janus
-packFolder: pantheonsaureldian
 sohl:
   system:
     commonSkills: []

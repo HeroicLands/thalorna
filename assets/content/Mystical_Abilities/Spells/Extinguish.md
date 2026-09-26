@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-water
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: hydalis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Quenching
-packFolder: spells
+
+# hmk:
+#   name: Quenching
 ---
 
 The caster quenches fire by drawing its heat away through a rapid condensation of ambient moisture. A visible mist rushes toward the flame as water vapor in the air surrenders its warmth, smothering the fire under a sudden blanket of damp cold. Small fires gutter and die instantly; larger blazes are beaten back and weakened, their fuel left steaming and reluctant to reignite.

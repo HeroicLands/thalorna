@@ -27,8 +27,9 @@ data:
     - { to: suryadvara, bearing: S, mode: land, days: 30 }
     - { to: tamradvara, bearing: S, mode: land, days: 30 }
   population: 5000000
-terran_analog: "Central Asia in the broadest sense—Siberia, Mongolia, Kazakhstan, Uzbekistan, Tajikistan, Kyrgyzstan, and the Gobi. The southwestern Persianate oasis-belt (Uzbek/Tajik analog) is held by the Khazryn and Ātárzád; the vast northern, central, and eastern steppes, taiga, and Gobi-analog dryland are home to Turkic and Mongolic horse-nomad confederations and Siberian forest peoples."
-packFolder: khazryndesert
+  packFolder: khazryndesert
+
+# terran_analog: "Central Asia in the broadest sense—Siberia, Mongolia, Kazakhstan, Uzbekistan, Tajikistan, Kyrgyzstan, and the Gobi. The southwestern Persianate oasis-belt (Uzbek/Tajik analog) is held by the Khazryn and Ātárzád; the vast northern, central, and eastern steppes, taiga, and Gobi-analog dryland are home to Turkic and Mongolic horse-nomad confederations and Siberian forest peoples."
 ---
 
 The Khazryn Desert is the great central wasteland of [[place-ankrscntnnt|Ankaris Continent]]—an immense expanse of dune, salt flat, gravel plain, and rocky plateau that forms the continent's largest single geographic obstacle. For a thousand miles and more the desert stretches between the [[place-heladrgn|Helladic]] east and the mountain passes of the far east, separating the Aurèldían world from [[place-vedyarargn|Vedyara]] and [[place-tanvuregin|Tānvür]] with a barrier that can be crossed only by those who know its rhythms. Caravans take months; armies, almost without exception, die.

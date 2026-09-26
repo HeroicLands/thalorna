@@ -10,9 +10,9 @@ name:
   aliases:
     - Deer Totem
 shortcode: deerttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-deertotem|Deer]]{float: top-left, size: medium}

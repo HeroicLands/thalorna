@@ -9,7 +9,6 @@ name:
   given: Isâra
   clan: Khalîdra
   aliases: []
-packFolder: helladhelionis
 shortcode: isarakhldr
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     extra_features:
       - carries herself with effortless poise
       - possesses a voice of extraordinary beauty
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }

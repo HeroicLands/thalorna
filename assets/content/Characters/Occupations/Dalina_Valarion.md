@@ -10,7 +10,6 @@ name:
   clan: Valárion
   home: castamere
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: dalinavlrn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: tanned
     extra_features:
       - a scar running down the right leg
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

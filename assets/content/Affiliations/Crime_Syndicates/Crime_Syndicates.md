@@ -91,11 +91,11 @@ data:
   lore: []
   parents: []
   relations: {}
+  packFolder: crimesyndicates
 name:
   full: Crime Syndicates of Thalorna
   aliases: []
 shortcode: crmsyndctsthlrn
-packFolder: crimesyndicates
 sohl:
   system:
     commonSkills: []

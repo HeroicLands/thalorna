@@ -7,5 +7,6 @@ name:
   full: Yütvëi
   aliases: []
 shortcode: yutveidty
-packFolder: deitiestengvokvanlei
+data:
+  packFolder: deitiestengvokvanlei
 ---

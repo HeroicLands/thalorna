@@ -73,15 +73,15 @@ data:
     - kemtnpnthn
   relations:
     kemtnpnthn: aligned
+  packFolder: pantheonskemetian
 name:
   full: Faith of Má'át
   aliases:
     - Keeper of Truth and Harmony
     - Má'át
     - Maat
+    - Má'át, Keeper of Truth and Harmony
 shortcode: maat
-alias: Má'át, Keeper of Truth and Harmony
-packFolder: pantheonskemetian
 sohl:
   system:
     commonSkills: []

@@ -11,6 +11,7 @@ subType: script
 data:
   icon: icon-speaking
   templatePriority: null
+  packFolder: script
 sohl:
   system:
     skillBaseFormula: "@rea, @per"
@@ -19,10 +20,9 @@ sohl:
     combatCategory: none
     parentSkillCode: script
     initSkillMult: 0
-packFolder: script
-flags:
-  "thalorna":
-    script_family: Syllabary
+  flags:
+    "thalorna":
+      script_family: Syllabary
 ---
 
 The Luaithári—"the flowing marks"—is the syllabary of the [[affiliation-kalihara|Kalihara Confederation]]: one curved, interconnected glyph for each consonant-and-vowel pair, or for a vowel standing alone, written left to right and top to bottom in lines that visibly run like water. Glyphs ligature freely into compound forms, and **dots above and below the line carry tone**, emphasis, and what Kaliharan scribes call poetic weight—a distinction with no equivalent in the scripts of Ankaris, and one that a foreign reader habitually ignores and thereby misreads.

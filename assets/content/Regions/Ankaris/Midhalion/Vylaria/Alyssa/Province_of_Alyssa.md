@@ -101,7 +101,7 @@ data:
   relations:
     arldnpnthn: aligned
     ordoarcanis: aligned
-packFolder: vylaria
+  packFolder: vylaria
 sohl:
   system:
     commonSkills:

@@ -11,9 +11,9 @@ data:
   parents:
     - malagna
   population: 1200
+  packFolder: malagna
 name:
   full: Skorrborg
   aliases: []
 shortcode: skorrborg
-packFolder: malagna
 ---

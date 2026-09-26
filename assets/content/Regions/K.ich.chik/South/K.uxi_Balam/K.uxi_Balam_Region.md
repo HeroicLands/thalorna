@@ -15,8 +15,9 @@ data:
   parents:
     - sthrnkchchk
   population: null
-terran_analog: Bolivia, Southern Central Brazil
-packFolder: kuxibalam
+  packFolder: kuxibalam
+
+# terran_analog: Bolivia, Southern Central Brazil
 ---
 
 ## Overview

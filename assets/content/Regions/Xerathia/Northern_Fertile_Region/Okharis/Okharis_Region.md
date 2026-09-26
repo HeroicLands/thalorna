@@ -17,7 +17,7 @@ data:
     - nrthrnfrtlrgn
     - xerathia
   population: 4000000
-packFolder: okharis
+  packFolder: okharis
 ---
 
 ## Overview

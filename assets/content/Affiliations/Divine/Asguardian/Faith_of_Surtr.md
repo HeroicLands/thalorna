@@ -90,12 +90,12 @@ data:
     - asguardian
   relations:
     asguardian: aligned
+  packFolder: pantheonsasguardian
 name:
   full: Faith of Súrtr
   aliases:
     - The Flameborn Path
 shortcode: surtr
-packFolder: pantheonsasguardian
 sohl:
   system:
     commonSkills: []

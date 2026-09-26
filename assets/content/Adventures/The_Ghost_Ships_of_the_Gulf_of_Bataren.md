@@ -16,7 +16,7 @@ data:
   party:
     size: null
     archetypes: []
-packFolder: adventures
+  packFolder: adventures
 ---
 
 Ghost ships appear in the Gulf of Batáren, crewed by the [[lore-undead|undead]] and carrying no cargo but dread. The party must investigate their origin, uncover what they seek, and determine whether they are a natural phenomenon or a deliberate curse.

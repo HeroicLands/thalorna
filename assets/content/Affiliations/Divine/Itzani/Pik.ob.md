@@ -101,13 +101,13 @@ data:
     tzumaqkalanil: nemesis
     pikultzumaq: nemesis
     piqalkulqat: rival
+  packFolder: pantheonitzani
 name:
   full: "Pik'ob"
   aliases:
     - The Owl Keepers
     - Owl Keepers
 shortcode: pikob
-packFolder: pantheonitzani
 sohl:
   system:
     commonSkills:

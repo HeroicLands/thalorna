@@ -5,7 +5,8 @@ name:
   full: Vëndük
   aliases: []
 shortcode: venduk
-packFolder: castes
+data:
+  packFolder: castes
 ---
 
 **Chattel Sorcerers**

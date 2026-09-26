@@ -7,5 +7,6 @@ name:
   full: P'iqal Kul'qat
   aliases: []
 shortcode: piqalkulqatdty
-packFolder: deitiesitzani
+data:
+  packFolder: deitiesitzani
 ---

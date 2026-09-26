@@ -67,12 +67,12 @@ data:
     - kemtnpnthn
   relations:
     kemtnpnthn: aligned
+  packFolder: pantheonskemetian
 name:
   full: Faith of Mentu
   aliases:
     - Mentu, The War-God
 shortcode: mentu
-packFolder: pantheonskemetian
 sohl:
   system:
     commonSkills: []

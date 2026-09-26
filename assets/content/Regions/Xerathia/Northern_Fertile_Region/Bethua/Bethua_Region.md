@@ -19,7 +19,7 @@ data:
   borders:
     - { to: takheperurgn, bearing: E }
   population: 3000000
-packFolder: bethua
+  packFolder: bethua
 ---
 
 ## Overview

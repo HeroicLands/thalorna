@@ -7,5 +7,6 @@ name:
   full: Mórváhñä
   aliases: []
 shortcode: morvahnadty
-packFolder: deitiesashalan
+data:
+  packFolder: deitiesashalan
 ---

@@ -9,6 +9,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: null
+  packFolder: dye
 sohl:
   kbcat: dye
   craft:
@@ -19,7 +20,6 @@ sohl:
     valueBase: 90
     qualityBase: 0
     durabilityBase: 6
-packFolder: dye
 ---
 
 Woven in one of the hundred villages of [[place-vyalendraland|Vyālendra Land]] and dyed in the indigo compounds that stain the air of the valleys, the bolt carries the Loom-Council's own seal pressed into the selvage at the finishing hall—a guarantee of the mordant recipe and the dye-house that made the color, since a Vyālendri dye-village's reputation is worth more than any single bolt. A sealed bolt is unrolled and checked against the seal before a buyer pays for it as genuine.

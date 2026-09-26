@@ -11,7 +11,8 @@ name:
     - The Guides
     - The Totems and Spirits
 shortcode: nyalbsprts
-packFolder: settinglore
+data:
+  packFolder: settinglore
 ---
 
 The spirits are the active substance of the [[affiliation-nyalbpnthn|Nyáluba Way]]. Beneath the

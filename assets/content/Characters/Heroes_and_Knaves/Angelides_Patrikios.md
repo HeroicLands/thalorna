@@ -12,7 +12,6 @@ name:
   clan: Patrikîos
   home: chrysamar
   aliases: []
-packFolder: helladbyzaria
 shortcode: angldsptrks
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: light
     complexion: weathered
     extra_features: []
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

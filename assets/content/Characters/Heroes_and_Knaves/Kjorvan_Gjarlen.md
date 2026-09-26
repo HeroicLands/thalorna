@@ -11,7 +11,6 @@ name:
   clan: Gjârlen
   home: fiordaure
   aliases: []
-packFolder: aureldiaprovenzia
 shortcode: kjrvngjrln
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: tanned
     complexion: null
     extra_features: []
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

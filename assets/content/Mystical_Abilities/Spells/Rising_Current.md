@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-water
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: hydalis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Tide
-packFolder: spells
+
+# hmk:
+#   name: Tide
 ---
 
 The caster seizes control of a body of water and bends its flow to their will, raising its level, redirecting its course, or creating powerful currents where none existed before. A still pond can be made to surge against one bank; a river can be coaxed to swell and overflow its channel; tidal forces can be amplified to flood a low-lying area.

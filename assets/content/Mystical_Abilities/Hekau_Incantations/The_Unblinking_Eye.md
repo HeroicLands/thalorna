@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: atenre
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: atenre
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 Inscribed at the place rather than carried, and reporting only when the practitioner returns and

@@ -11,6 +11,7 @@ subType: script
 data:
   icon: icon-speaking
   templatePriority: null
+  packFolder: script
 sohl:
   system:
     skillBaseFormula: "@rea, @per"
@@ -19,10 +20,9 @@ sohl:
     combatCategory: none
     parentSkillCode: script
     initSkillMult: 0
-packFolder: script
-flags:
-  "thalorna":
-    script_family: Logographic
+  flags:
+    "thalorna":
+      script_family: Logographic
 ---
 
 Ch'alix Ts'ib—"the writing of Ch'alix," after **Ix'ilan Ch'alix**, who composed the first codex and whose sign is a star within an open book—is the glyph-writing of the [[place-kchchkcntnnt|K'ich'chik]] city-states. Each glyph may stand for a whole concept or for a syllable, and which it is doing is settled by the small **phonetic complements** set beside it and by dots, bars and flourishes that modify the reading. It is written in **paired columns, top to bottom, left to right**, in blocks that are as much composition as text.

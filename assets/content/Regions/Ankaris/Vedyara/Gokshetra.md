@@ -12,9 +12,9 @@ data:
   parents:
     - dhanurkotajnpd
   population: 470
+  packFolder: vedyara
 name:
   full: Gokshetra
   aliases: []
 shortcode: gokshetra
-packFolder: vedyara
 ---

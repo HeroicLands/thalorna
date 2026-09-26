@@ -10,9 +10,9 @@ name:
   aliases:
     - Duck Totem
 shortcode: duckttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-ducktotem|Duck]]{float: top-left, size: medium}

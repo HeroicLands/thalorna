@@ -11,7 +11,6 @@ name:
   clan: Takkûnûm
   home: azhun2
   aliases: []
-packFolder: midhalionharad
 shortcode: girmuntknm
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: warm_golden
     complexion: olive_toned
     extra_features: []
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

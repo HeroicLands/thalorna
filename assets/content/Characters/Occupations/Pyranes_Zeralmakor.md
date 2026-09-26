@@ -10,7 +10,6 @@ name:
   clan: Zêralmâkor
   home: valdosta
   aliases: []
-packFolder: midhalionvylaria
 shortcode: pyrnszrlmkr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: weathered
     extra_features:
       - a scar on the left thigh
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

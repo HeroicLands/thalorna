@@ -11,6 +11,7 @@ subType: script
 data:
   icon: icon-speaking
   templatePriority: null
+  packFolder: script
 sohl:
   system:
     skillBaseFormula: "@rea, @per"
@@ -19,10 +20,9 @@ sohl:
     combatCategory: none
     parentSkillCode: script
     initSkillMult: 0
-packFolder: script
-flags:
-  "thalorna":
-    script_family: Abjad
+  flags:
+    "thalorna":
+      script_family: Abjad
 ---
 
 The Dûnshâk is the desert's writing: a consonantal abjad set down **right to left**, in the ancient Ankarian direction that the coastal scripts abandoned and the interior never did. Vowels are marked only where precision matters—in verse, in liturgy, and in the recitation texts from which a student learns—and are otherwise left for the reader to supply.

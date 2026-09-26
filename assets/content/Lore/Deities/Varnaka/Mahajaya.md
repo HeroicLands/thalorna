@@ -7,7 +7,8 @@ name:
   full: Mahájaya
   aliases: []
 shortcode: mahajayadty
-packFolder: deitiesvarnaka
+data:
+  packFolder: deitiesvarnaka
 ---
 
 _The Eternal Preserver—a serene matriarch crowned with wheat, holding a balanced scale._

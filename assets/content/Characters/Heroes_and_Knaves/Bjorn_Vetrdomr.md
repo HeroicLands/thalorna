@@ -10,7 +10,6 @@ name:
   clan: Vetrdómr
   home: ravensholm
   aliases: []
-packFolder: ankarisnordlands
 shortcode: bjrnvtrdmr
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a snake on the chest
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

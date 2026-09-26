@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-tree
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: physera
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Succour
-packFolder: spells
+
+# hmk:
+#   name: Succour
 ---
 
 The caster touches a creature suffering from a single injury and floods the wound with concentrated Physéra energy that induces rapid healing, immediately removing all windedness and weariness fatigue that existed before the casting. The target may not be actively bleeding, suffering extended shock, or in a coma, and can only benefit from one casting of Relief at a time. While the recovery is not instantaneous, it requires no Healing Rolls and carries no risk of infection or impairment—the magic itself guides the tissue through a controlled regenerative sequence. At spellfire the target accrues significant weakness fatigue for every Injury Level of the designated wound, representing the enormous metabolic cost of accelerated healing.

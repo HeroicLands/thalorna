@@ -12,11 +12,11 @@ data:
   parents:
     - thuravelhills
   population: null
+  packFolder: provenzia
 name:
   full: Shrine of Thúravel Hills
   aliases: []
 shortcode: shrinethuravelhills
-packFolder: provenzia
 ---
 
 Somewhere in the [[place-thuravelhills|Thúravel Hills]] of southern

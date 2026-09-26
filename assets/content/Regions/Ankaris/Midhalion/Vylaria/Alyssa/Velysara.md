@@ -11,11 +11,11 @@ data:
   parents:
     - alyssa
   population: 20000
+  packFolder: vylaria
 name:
   full: Velysâra
   aliases: []
 shortcode: velysara
-packFolder: vylaria
 ---
 
 ## Overview

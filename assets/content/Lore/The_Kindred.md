@@ -13,7 +13,8 @@ name:
     - The Servants of the First
     - Kindred of the First
 shortcode: thekindred
-packFolder: settinglore
+data:
+  packFolder: settinglore
 ---
 
 - **Parent pantheon:** [[affiliation-firstgods|The First Gods]]

@@ -10,7 +10,6 @@ name:
   clan: Osgood
   home: brynhallow
   aliases: []
-packFolder: aureldiaaelwyth
 shortcode: wystanosgd
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: light
     complexion: clear
     extra_features: []
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

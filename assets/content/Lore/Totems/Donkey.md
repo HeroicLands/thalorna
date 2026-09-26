@@ -10,9 +10,9 @@ name:
   aliases:
     - Donkey Totem
 shortcode: donkeyttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-donkeytotem|Donkey]]{float: top-left, size: medium}

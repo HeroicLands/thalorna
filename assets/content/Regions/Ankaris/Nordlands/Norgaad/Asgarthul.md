@@ -11,11 +11,11 @@ data:
   parents:
     - norgaad
   population: 400
+  packFolder: norgaad
 name:
   full: Asgarthul
   aliases: []
 shortcode: asgarthul
-packFolder: norgaad
 ---
 
 ## Overview

@@ -10,7 +10,6 @@ name:
   clan: Llýdar
   home: liranel
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: arevynlydr
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: tanned
     complexion: weathered
     extra_features: []
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

@@ -11,9 +11,9 @@ data:
   parents:
     - okharisrgn
   population: 25000
+  packFolder: citystates
 name:
   full: Ithrákor
   aliases: []
 shortcode: ithrakor
-packFolder: citystates
 ---

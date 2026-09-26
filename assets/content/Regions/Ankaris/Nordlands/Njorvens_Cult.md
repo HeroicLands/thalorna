@@ -22,11 +22,11 @@ data:
   lore: []
   parents: []
   relations: {}
+  packFolder: nordlands
 name:
   full: Njörven's Cult
   aliases: []
 shortcode: njorvencult
-packFolder: nordlands
 sohl:
   system:
     commonSkills: []

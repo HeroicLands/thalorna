@@ -10,7 +10,6 @@ name:
   clan: Jútharen
   home: solarden
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: sanrkjthrn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: weathered
     extra_features:
       - a scar on the chin
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

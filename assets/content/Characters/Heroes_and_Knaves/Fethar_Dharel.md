@@ -10,7 +10,6 @@ name:
   clan: Dhárel
   aliases:
     - Féth
-packFolder: aureldiaprovenzia
 shortcode: fethardhrl
 type: being
 data:
@@ -41,6 +40,7 @@ data:
     extra_features:
       - an infectious grin
       - often wears outrageously patterned clothing
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

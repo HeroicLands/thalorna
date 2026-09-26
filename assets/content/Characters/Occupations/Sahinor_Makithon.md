@@ -11,7 +11,6 @@ name:
   home: thyrenae2
   aliases:
     - Sir Alaric Emberhill
-packFolder: helladhelionis
 shortcode: sahnrmkthn
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: bronzed
     extra_features:
       - a scar on the left foot
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

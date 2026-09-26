@@ -11,12 +11,12 @@ data:
   parents:
     - okharisrgn
   population: 12000
+  packFolder: citystates
 name:
   full: Vuthrákor
   aliases:
     - The Wild Flame
 shortcode: vuthrakor
-packFolder: citystates
 ---
 
 **meaning:** _The Wild Flame_

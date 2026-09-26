@@ -7,5 +7,6 @@ name:
   full: Ymir
   aliases: []
 shortcode: ymirdty
-packFolder: deitiesasguardian
+data:
+  packFolder: deitiesasguardian
 ---

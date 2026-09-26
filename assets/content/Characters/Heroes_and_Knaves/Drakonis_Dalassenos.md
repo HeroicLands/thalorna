@@ -10,7 +10,6 @@ name:
   clan: Dalássênos
   home: yesilhan2
   aliases: []
-packFolder: helladbyzaria
 shortcode: drknsdlsns
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: tanned
     complexion: ruddy
     extra_features: []
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

@@ -10,9 +10,9 @@ name:
   aliases:
     - Otter Totem
 shortcode: otterttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-ottertotem|Otter]]{float: top-left, size: medium}

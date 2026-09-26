@@ -12,11 +12,11 @@ data:
   parents:
     - rajapurjnpd
   population: 940
+  packFolder: vedyara
 name:
   full: Khandāpura
   aliases: []
 shortcode: khandapura
-packFolder: vedyara
 ---
 
 Khandāpura (940) is the upstream village of the janapada and stands at the head of the irrigation works. Its Mahájaya shrine is the one every cultivator in Rājapur comes to at planting, when the channels are blessed and the year's water is divided between the villages below.

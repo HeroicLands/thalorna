@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: imnetau
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: imnetau
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 A working of passage rather than of travel: it does not carry the practitioner anywhere, it makes

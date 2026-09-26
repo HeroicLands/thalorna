@@ -11,7 +11,8 @@ name:
     - The Eagle Guide
     - Eagle of the Ngonzi
 shortcode: eaglengonzispr
-packFolder: lorespiritsnyaluba
+data:
+  packFolder: lorespiritsnyaluba
 ---
 
 The totemic being venerated by the [[affiliation-nylbtrblntn|Ngonzi]]. For the cult, its

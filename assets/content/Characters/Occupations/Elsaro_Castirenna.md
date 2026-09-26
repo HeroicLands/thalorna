@@ -10,7 +10,6 @@ name:
   clan: Castírenna
   home: torreviga
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: elsarcstrn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a tiger on the forearm
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

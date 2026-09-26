@@ -12,7 +12,6 @@ name:
   aliases:
     - Renutê Reenfré
     - Renute Reenfre
-packFolder: northernfertileregiontakheperu
 shortcode: renuternfr
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: dark
     complexion: null
     extra_features: []
+  packFolder: northernfertileregiontakheperu
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

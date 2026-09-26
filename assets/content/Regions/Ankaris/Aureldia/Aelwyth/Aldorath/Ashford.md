@@ -12,11 +12,11 @@ data:
   parents:
     - aldorvale
   population: 3200
+  packFolder: aelwyth
 name:
   full: Ashford
   aliases: []
 shortcode: ashford
-packFolder: aelwyth
 ---
 
 **Ashford** grew where the drove roads out of Aldorath's manorial country meet the ford, and it is the

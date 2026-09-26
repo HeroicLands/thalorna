@@ -10,7 +10,6 @@ name:
   clan: Vindrkvé
   home: bloth
   aliases: []
-packFolder: ankarisnordlands
 shortcode: thrlkrvndrkv
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: ruddy
     extra_features:
       - a tattoo of a tiger on the forearm
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

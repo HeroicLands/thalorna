@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: khatnu
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: khatnu
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 Distinct from a shabti, which is bound and wakes alone: a standing servant does only what it is

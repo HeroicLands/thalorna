@@ -12,11 +12,11 @@ data:
   parents:
     - vedyarargn
   population: 4200
+  packFolder: vedyara
 name:
   full: Dharmapur
   aliases: []
 shortcode: dharmapur
-packFolder: vedyara
 ---
 
 Dharmapur (4,200) stands on the middle [[place-sarvadarivr|Sarvada]], ninety miles below the bow-country, and is the largest of the copying towns of that reach. About one adult in five here can read. No other place in Vedyara outside a city comes near it.

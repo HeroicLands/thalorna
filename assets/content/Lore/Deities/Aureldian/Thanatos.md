@@ -7,5 +7,6 @@ name:
   full: Thánatos
   aliases: []
 shortcode: thanatosdty
-packFolder: deitiesaureldian
+data:
+  packFolder: deitiesaureldian
 ---

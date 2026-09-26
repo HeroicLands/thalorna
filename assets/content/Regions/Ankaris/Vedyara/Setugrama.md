@@ -12,9 +12,9 @@ data:
   parents:
     - rajapurjnpd
   population: 610
+  packFolder: vedyara
 name:
   full: Setugrāma
   aliases: []
 shortcode: setugrama
-packFolder: vedyara
 ---

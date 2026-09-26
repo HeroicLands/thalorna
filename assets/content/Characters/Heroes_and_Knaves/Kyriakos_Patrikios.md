@@ -10,7 +10,6 @@ name:
   clan: Patrikîos
   home: kostaros
   aliases: []
-packFolder: helladbyzaria
 shortcode: kyrksptrks
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: weathered
     extra_features:
       - a scar running down the back
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

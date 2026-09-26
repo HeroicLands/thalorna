@@ -12,11 +12,11 @@ data:
   parents:
     - rajapurjnpd
   population: null
+  packFolder: vedyara
 name:
   full: The Palace Cellars
   aliases: []
 shortcode: palacecellar
-packFolder: vedyara
 ---
 
 The **Palace Cellars** are what is left of the royal palace of the Kingdom of Mahānadi, at the north end of [[place-rajapur|Rājapur]]. The sabhā that dissolved the kingdom demolished the building and gave its stones to the enlargement of the great Vyālendra temple. Nothing was left standing above the foundation courses.

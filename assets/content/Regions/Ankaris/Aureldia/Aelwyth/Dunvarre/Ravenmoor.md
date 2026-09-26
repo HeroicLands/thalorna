@@ -12,11 +12,11 @@ data:
   parents:
     - dunavarre
   population: 3500
+  packFolder: aelwyth
 name:
   full: Ravenmoor
   aliases: []
 shortcode: ravenmoor
-packFolder: aelwyth
 ---
 
 **Ravenmoor** stands on Aelwyth's south-eastern coast where the open moor that gives it its name breaks

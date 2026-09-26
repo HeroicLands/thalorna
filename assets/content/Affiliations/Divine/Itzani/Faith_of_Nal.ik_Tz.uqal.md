@@ -11,7 +11,6 @@ name:
     - The Dreamer in Moonlight
     - "Nal'ik Tz'uqal"
 shortcode: naliktzuqal
-packFolder: pantheonitzani
 data:
   banner: faithbnr
   icon: null
@@ -121,6 +120,7 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
+  packFolder: pantheonitzani
 sohl:
   system:
     commonSkills:

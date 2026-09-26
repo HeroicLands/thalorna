@@ -10,6 +10,7 @@ subType: birthsign
 data:
   icon: icon-astrology
   templatePriority: 0
+  packFolder: astrokyklos
 sohl:
   kbcat: birthsign
   system:
@@ -37,7 +38,6 @@ sohl:
       "subType:social": -5
       water: -5
       hydalis: -5
-packFolder: astrokyklos
 ---
 
 Stathmos, the Balance, is the sign of the tested body. Its natives are robust and enduring, apt for the martial and the mystical middle path, but the wilds, the workshop, and the scriptorium yield to them grudgingly.

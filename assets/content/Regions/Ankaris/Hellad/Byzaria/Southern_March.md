@@ -16,8 +16,9 @@ data:
   parents:
     - byzariargn
   population: null
-terran_analog: "The dry south-eastern Anatolian plateau and its descent toward the Syrian steppe—Cilicia and the upper Euphrates marches."
-packFolder: byzaria
+  packFolder: byzaria
+
+# terran_analog: "The dry south-eastern Anatolian plateau and its descent toward the Syrian steppe—Cilicia and the upper Euphrates marches."
 ---
 
 The Southern March is the frontier district of the [[affiliation-byzarianlg|Byzarian League]] on the south-eastern flank of [[place-byzariargn|Byzaría]], where the plateau dries out, the coast bends away toward the eastern shore of the [[place-vylarianse|Vylarian Sea]], and the caravan road leaves [[affiliation-yesilhan|Yeşilhan]] for the [[place-dunharargn|Dunhara]]. It is pastoral upland—sheep, goats and horses on thin grass, hunting in the scrub and the gorges—and it is held for the League by a landed lord rather than a soldier, because the trouble it faces is the kind a landed lord handles: tolls, grazing rights, poachers, feuds and the occasional raid.

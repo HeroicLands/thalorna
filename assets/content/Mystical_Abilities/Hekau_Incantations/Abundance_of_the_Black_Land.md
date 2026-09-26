@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: ankhkemet
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: ankhkemet
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 Worked once a year at most, by consent of the nome's Haty'a and its temples, and after a formal

@@ -13,11 +13,11 @@ data:
   parents:
     - ankhsetunnome
   population: 25000
+  packFolder: ankhsetun
 name:
   full: Meru-Hotep
   aliases: []
 shortcode: meruhotep
-packFolder: ankhsetun
 ---
 
 ## Overview

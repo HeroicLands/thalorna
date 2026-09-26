@@ -10,7 +10,8 @@ name:
     - Provenzian Grand Games
     - The Grand Games
 shortcode: giochigrandi
-packFolder: settinglore
+data:
+  packFolder: settinglore
 ---
 
 The Provènzian Grand Games—the great athletic and martial competition of Provènzia, and the occasion around which a season of the region's politics arranges itself.

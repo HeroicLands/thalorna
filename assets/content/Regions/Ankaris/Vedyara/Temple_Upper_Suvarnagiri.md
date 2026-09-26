@@ -13,11 +13,11 @@ data:
   parents:
     - suvarnagirijnpd
   population: null
+  packFolder: vedyara
 name:
   full: The Temple of Upper Suvarnagiri
   aliases: []
 shortcode: uppersuvtmpl
-packFolder: vedyara
 ---
 
 The **temple of Upper Suvarnagiri** stands at the junction of the two highest streams off [[place-goldmountain|the Gold Mountain]]. It is one of the three great temples of [[affiliation-mahajaya|Mahájaya]] that hold the janapada between them, built within a century of the other two, of the same size, and housing an altar of comparable craftsmanship.

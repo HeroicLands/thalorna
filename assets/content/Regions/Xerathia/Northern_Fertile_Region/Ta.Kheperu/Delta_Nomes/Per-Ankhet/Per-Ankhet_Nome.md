@@ -16,7 +16,7 @@ data:
   parents:
     - takheperurgn
   population: 1100000
-packFolder: perankhet
+  packFolder: perankhet
 ---
 
 ## Overview

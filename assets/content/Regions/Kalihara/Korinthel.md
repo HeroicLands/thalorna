@@ -11,9 +11,9 @@ data:
   parents:
     - kaliharargn
   population: 9000
+  packFolder: kalihara
 name:
   full: Korinthel
   aliases: []
 shortcode: korinthel
-packFolder: kalihara
 ---

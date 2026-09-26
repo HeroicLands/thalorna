@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-water
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: hydalis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Snowball
-packFolder: spells
+
+# hmk:
+#   name: Snowball
 ---
 
 The caster compresses moisture into a dense sphere of ice and hurls it at devastating speed toward a target. The projectile forms in the caster's hand in a heartbeat—water freezing in visible spirals around a crystallizing core—and launches with a crack of displaced air. On impact, the sphere detonates into a spray of razor-sharp ice shards that shred flesh and embed in wood and leather.

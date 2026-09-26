@@ -104,7 +104,7 @@ data:
   relations:
     kemtnpnthn: aligned
     seker: aligned
-packFolder: bordernomes
+  packFolder: bordernomes
 sohl:
   system:
     commonSkills:

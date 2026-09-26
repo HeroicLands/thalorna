@@ -12,7 +12,6 @@ name:
   aliases:
     - Goldenhair
   home: null
-packFolder: ankarisnordlands
 shortcode: thyrgldnhr
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: light
     complexion: fair
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }

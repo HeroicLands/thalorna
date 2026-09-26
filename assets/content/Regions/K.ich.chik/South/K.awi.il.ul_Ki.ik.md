@@ -11,11 +11,11 @@ data:
   parents:
     - kuxibalamrgn
   population: 6000
+  packFolder: south
 name:
   full: K’awi’il’ul Ki’ik
   aliases: []
 shortcode: kawilulkik
-packFolder: south
 ---
 
 ## Overview

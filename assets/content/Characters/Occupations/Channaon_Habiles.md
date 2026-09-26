@@ -10,7 +10,6 @@ name:
   clan: Hàbîlês
   home: thyrenae2
   aliases: []
-packFolder: helladhelionis
 shortcode: chananhbls
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: olive_tanned
     complexion: smooth
     extra_features: []
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

@@ -11,11 +11,11 @@ data:
   parents:
     - tirwen
   population: null
+  packFolder: elavendre
 name:
   full: The Bérav
   aliases: []
 shortcode: beravriver
-packFolder: elavendre
 ---
 
 The **Bérav** is Élavendre's principal river and the axis of [[place-tirwen|Tirwen]]. It rises in the

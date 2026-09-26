@@ -10,7 +10,6 @@ name:
   clan: Râkhrîdês
   home: kalydria2
   aliases: []
-packFolder: helladhelionis
 shortcode: azitrkhrds
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: medium
     complexion: tanned
     extra_features: []
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

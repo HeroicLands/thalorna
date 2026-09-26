@@ -11,7 +11,6 @@ name:
   clan: Lýskal
   home: ""
   aliases: []
-packFolder: aureldiaprovenzia
 shortcode: brygrlyskl
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: dark_brown
     complexion: ruddy
     extra_features: []
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 12 } }

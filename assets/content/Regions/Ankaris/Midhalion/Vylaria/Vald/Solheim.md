@@ -12,11 +12,11 @@ data:
   parents:
     - vald
   population: 3000
+  packFolder: vylaria
 name:
   full: Solheim
   aliases: []
 shortcode: solheim
-packFolder: vylaria
 ---
 
 ## Overview

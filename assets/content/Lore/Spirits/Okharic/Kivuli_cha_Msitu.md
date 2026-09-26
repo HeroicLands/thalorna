@@ -10,7 +10,8 @@ name:
   aliases:
     - The Shadow of the Forest
 shortcode: kivulispr
-packFolder: lorespiritsokharic
+data:
+  packFolder: lorespiritsokharic
 ---
 
 - **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]

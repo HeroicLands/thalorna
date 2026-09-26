@@ -92,12 +92,12 @@ data:
     - asguardian
   relations:
     asguardian: aligned
+  packFolder: pantheonsasguardian
 name:
   full: Faith of Thórr
   aliases:
     - The Stormborn Path
 shortcode: thorr
-packFolder: pantheonsasguardian
 sohl:
   system:
     commonSkills: []

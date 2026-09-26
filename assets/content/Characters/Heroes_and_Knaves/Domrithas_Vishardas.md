@@ -11,7 +11,6 @@ name:
   clan: Vîshârdâs
   home: nartum
   aliases: []
-packFolder: midhalionvylaria
 shortcode: dmrthsvshrds
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: pale
     complexion: fair
     extra_features: []
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

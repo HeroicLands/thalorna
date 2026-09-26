@@ -9,6 +9,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: null
+  packFolder: religious
 sohl:
   kbcat: religious
   craft:
@@ -19,7 +20,6 @@ sohl:
     valueBase: 4
     qualityBase: 0
     durabilityBase: 6
-packFolder: religious
 ---
 
 A small bronze die, dipped in cold hearth-ash and pressed to the brow before any work that destroys what came before—the razing of a condemned house, the felling of a diseased tree, the cutting of a blighted harvest—while the formula of purging is spoken over it. [[affiliation-rasikara|Rásikara]]'s worshippers hold the breaking sacred and the mark a courtesy paid to what is about to be undone, not a permission asked of it.

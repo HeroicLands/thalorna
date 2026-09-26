@@ -34,7 +34,7 @@ data:
   party:
     size: null
     archetypes: []
-packFolder: adventures
+  packFolder: adventures
 ---
 
 This campaign is composed of a series of adventures. Players will be members of the mission, either taking over current characters, replacing them with their own, or as staff for the main mission members.

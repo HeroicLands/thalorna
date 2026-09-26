@@ -11,11 +11,11 @@ data:
   parents:
     - kherahanome
   population: 26000
+  packFolder: deltanomes
 name:
   full: Kheraha
   aliases: []
 shortcode: kheraha
-packFolder: deltanomes
 ---
 
 ## Overview

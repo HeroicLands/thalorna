@@ -17,11 +17,11 @@ data:
   routes:
     - { to: sandhyapur, bearing: S, mode: land, days: 5, terrain: [road, desert] }
     - { to: marukupa, bearing: W, mode: land, days: 3, terrain: [road, hills, desert] }
+  packFolder: vedyara
 name:
   full: Ashvapada
   aliases: []
 shortcode: ashvapada
-packFolder: vedyara
 ---
 
 **Ashvapada** (3,200, market 4) stands where [[place-marchroad|the march road]] comes down off the foothills and turns west, and it is the horse fair of [[affiliation-bhumipala|Bhūmipāla]]. The name means the horse-ground. For ten months of the year it is a town of stock-pens, smiths and rope-walks with a wall round a third of it. For the two months of the fair it holds four times its own people and a great many more animals.

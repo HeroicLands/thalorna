@@ -26,8 +26,9 @@ data:
     - { to: meghsamdra, bearing: S }
     - { to: sandhysmdr, bearing: W }
   population: 110000000
-terran_analog: Indian subcontinent
-packFolder: vedyara
+  packFolder: vedyara
+
+# terran_analog: Indian subcontinent
 ---
 
 Start with the [[doc-vedyaraadventurersguide|Vedyara Adventurer's Guide]] for an introduction to the people and places of the subcontinent.

@@ -13,6 +13,7 @@ name:
     - Wisdom Goddess
 data:
   templatePriority: null
+  packFolder: ashalan
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +22,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: ashalan
 ---
 
 See [[affiliation-korsadra|Faith of Khóršádrä]]

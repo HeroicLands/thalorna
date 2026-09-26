@@ -15,8 +15,9 @@ data:
   parents:
     - cntrlkchchk
   population: null
-terran_analog: Yucatan Mexico and southern mexico through Honduras
-packFolder: kankul
+  packFolder: kankul
+
+# terran_analog: Yucatan Mexico and southern mexico through Honduras
 ---
 
 ## Overview

@@ -12,11 +12,11 @@ data:
   parents:
     - provenzrgn
   population: 750000
+  packFolder: provenzia
 name:
   full: Tramontàna
   aliases: []
 shortcode: tramontana
-packFolder: provenzia
 ---
 
 **Tramontàna**—_beyond the mountains_, and also the name of the cold wind that comes over them.

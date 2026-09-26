@@ -7,7 +7,8 @@ type: doc
 subType: concept
 tags: []
 description: A player and GM introduction to Vedyara's lands, peoples, institutions, faiths, and ways into adventure.
-packFolder: adventurersguides
+data:
+  packFolder: adventurersguides
 ---
 
 Vedyara is a subcontinent whose people share a language, a body of learning, and a religious calendar, but have never shared a throne. Its great rivers support thousands of temple-centered village communities. Kings guard the northern passes and the dry western march; merchant houses shape the port cities; priests convene assemblies that can settle a water dispute without ruling a kingdom. The [[place-vedyarargn|region]] is vast enough that a traveler can leave a snow-fed fortress, cross crowded rice country, and reach a monsoon harbor without leaving the Vedyari world.

@@ -54,12 +54,12 @@ data:
     - asguardian
   relations:
     asguardian: aligned
+  packFolder: pantheonsasguardian
 name:
   full: Faith of Ymir
   aliases:
     - The Divine Architect's Path
 shortcode: ymir
-packFolder: pantheonsasguardian
 sohl:
   system:
     commonSkills: []

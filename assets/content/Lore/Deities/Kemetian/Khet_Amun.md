@@ -7,7 +7,8 @@ name:
   full: Khet'Amun
   aliases: []
 shortcode: khetamundty
-packFolder: deitieskemetian
+data:
+  packFolder: deitieskemetian
 ---
 
 _The River-God._

@@ -10,7 +10,6 @@ name:
   clan: Niktariôtês
   home: thalassos
   aliases: []
-packFolder: helladbyzaria
 shortcode: phlthnktrts
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a tree on the back
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

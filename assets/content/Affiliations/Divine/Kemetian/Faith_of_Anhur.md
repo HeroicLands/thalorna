@@ -67,12 +67,12 @@ data:
     kemtnpnthn: aligned
     pernuw: aligned
     shesmu: aligned
+  packFolder: pantheonskemetian
 name:
   full: Faith of Anhur
   aliases:
     - Anhur, Patron of the Hunt
 shortcode: anhur
-packFolder: pantheonskemetian
 sohl:
   system:
     commonSkills: []

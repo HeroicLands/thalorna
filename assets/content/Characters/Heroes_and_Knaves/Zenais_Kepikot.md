@@ -10,9 +10,7 @@ name:
   clan: Kepíkot
   home: gumushisar2
   aliases: []
-packFolder: helladbyzaria
 shortcode: zenskpkt
-renamedFrom: zensphlkls
 type: being
 data:
   icon: icon-person
@@ -39,6 +37,7 @@ data:
     complexion: freckled
     extra_features:
       - a tattoo of a bird on the forearm
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

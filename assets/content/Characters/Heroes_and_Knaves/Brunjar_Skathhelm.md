@@ -11,7 +11,6 @@ name:
   given: Brunjár
   clan: Skathhelm
   aliases: []
-packFolder: ankarisvrystwald
 shortcode: brunjarskathhel
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     extra_features:
       - boyish face that makes him look younger than his years
       - fidgets constantly
+  packFolder: ankarisvrystwald
 sohl:
   kbcat: npc
   items:

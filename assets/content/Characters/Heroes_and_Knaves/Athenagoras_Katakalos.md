@@ -10,7 +10,6 @@ name:
   clan: Katakálos
   home: denizara2
   aliases: []
-packFolder: helladbyzaria
 shortcode: athngrsktkls
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a rose vine on the leg
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

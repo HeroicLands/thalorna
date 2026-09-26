@@ -9,11 +9,10 @@ description: "Crimson heated liquid; explodes in acrid fumes causing severe dama
 shortcode: elxerp
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Eruption
 data:
   icon: icon-potion
   templatePriority: null
+  packFolder: elixirs
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +21,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Eruption
 ---
 
 A volatile, simmering crimson liquid that radiates heat even through thick glass, held in a reinforced vial wrapped in leather to prevent accidental detonation. Bound to the Principle of Mineral (Sidéros), this elixir transforms into chaos the moment its container is smashed—whether hurled against armor, cracked upon stone, or dashed to the ground in desperation. Upon impact, a noisome cloud erupts in a ten-foot diameter, billowing acrid fumes that burn all within the blast radius with Area d4 damage plus the elixir's Aural Shock multiplied by four. The explosion is so bizarre and terrifying that even those uninjured by the blast may suffer Morale Rolls, the sight alone shaking the resolve of opponents nearby.

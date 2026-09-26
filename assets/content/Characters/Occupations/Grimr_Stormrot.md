@@ -10,7 +10,6 @@ name:
   clan: Stormrót
   home: greyfjord
   aliases: []
-packFolder: ankarisnordlands
 shortcode: grmrstrmrt
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: pale
     complexion: freckled
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

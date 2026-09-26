@@ -13,7 +13,6 @@ name:
   aliases:
     - The Bounty Hunter
     - The Hound of the Veil
-packFolder: northernfertileregionbethua
 shortcode: zahirmlkht
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: dark
     complexion: tanned
     extra_features: []
+  packFolder: northernfertileregionbethua
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

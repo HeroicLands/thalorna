@@ -12,9 +12,9 @@ data:
   parents:
     - rajapurjnpd
   population: 270
+  packFolder: vedyara
 name:
   full: Pushpavana
   aliases: []
 shortcode: pushpavana
-packFolder: vedyara
 ---

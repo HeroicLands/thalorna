@@ -12,11 +12,11 @@ data:
   parents:
     - greylevels
   population: 2900
+  packFolder: aelwyth
 name:
   full: Greywater
   aliases: []
 shortcode: greywater
-packFolder: aelwyth
 ---
 
 **Greywater** stands on the tidal reach of the river that drains eastern Aldorath, at the point where

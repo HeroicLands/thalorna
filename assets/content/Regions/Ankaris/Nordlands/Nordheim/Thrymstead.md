@@ -11,9 +11,9 @@ data:
   parents:
     - nordheim
   population: 1500
+  packFolder: nordheim
 name:
   full: Thrymstead
   aliases: []
 shortcode: thrymstead
-packFolder: nordheim
 ---

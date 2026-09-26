@@ -13,6 +13,7 @@ subType: script
 data:
   icon: icon-speaking
   templatePriority: null
+  packFolder: script
 sohl:
   system:
     skillBaseFormula: "@rea, @per"
@@ -21,10 +22,9 @@ sohl:
     combatCategory: none
     parentSkillCode: script
     initSkillMult: 0
-packFolder: script
-flags:
-  "thalorna":
-    script_family: Logographic
+  flags:
+    "thalorna":
+      script_family: Logographic
 ---
 
 Tëng Thōk, the **Celestial Record**, is the writing of the east: one character to one morpheme, characters built out of semantic radicals and combined into compounds exactly as the spoken languages build compound words. Three to four thousand characters are needed for educated reading; a scholar may hold six thousand or more; a full formal education in it runs ten to fifteen years.

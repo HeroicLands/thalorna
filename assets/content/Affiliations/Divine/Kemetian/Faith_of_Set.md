@@ -69,12 +69,12 @@ data:
     - kemtnpnthn
   relations:
     kemtnpnthn: aligned
+  packFolder: pantheonskemetian
 name:
   full: Faith of Sét
   aliases:
     - Sét, Bringer of Tempests
 shortcode: set
-packFolder: pantheonskemetian
 sohl:
   system:
     commonSkills: []

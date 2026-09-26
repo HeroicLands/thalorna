@@ -13,11 +13,11 @@ data:
   parents:
     - suvarnagirijnpd
   population: 2400
+  packFolder: vedyara
 name:
   full: Suvarnagiri
   aliases: []
 shortcode: suvarnagiri
-packFolder: vedyara
 ---
 
 Suvarnagiri (2,400) is the capital of the [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]] and stands in three parts on the lower slopes of the gold mountain. Upper Suvarnagiri is at the junction of the two highest streams, Middle Suvarnagiri in the central valley below the panning grounds, and Lower Suvarnagiri at the foot of the mountain where the Bhārava proper begins. Four miles of steep road join the highest part to the lowest. A Suvarnagiri who says the name means all three.

@@ -19,8 +19,9 @@ data:
   parents:
     - xerathia
   population: null
-terran_analog: Equatorial African interior (Congo basin)
-packFolder: centralrainforests
+  packFolder: centralrainforests
+
+# terran_analog: Equatorial African interior (Congo basin)
 ---
 
 The Central Rainforests are the vast equatorial heart of [[place-xerathia|Xerathia]]—a band of dense, trackless jungle that stretches across the continent between the fertile northern crescent and the open savannahs of the deep south. For the civilizations of the north and for the nomads of the south, the forests are the continent's great barrier: a green immensity where no empire has ever projected lasting authority and where outsiders who venture in without local guides seldom come back. On Ankarian maps the interior appears as unbroken green, with a few rivers drawn in by guesswork and the occasional labeled clearing where a settled tribe has consented to be found.

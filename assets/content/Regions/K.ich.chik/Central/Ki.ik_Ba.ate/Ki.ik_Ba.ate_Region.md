@@ -15,8 +15,9 @@ data:
   parents:
     - cntrlkchchk
   population: null
-terran_analog: Nicaragua through Colombia
-packFolder: kiikbaate
+  packFolder: kiikbaate
+
+# terran_analog: Nicaragua through Colombia
 ---
 
 ## Overview

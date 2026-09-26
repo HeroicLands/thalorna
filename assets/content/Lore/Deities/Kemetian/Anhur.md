@@ -7,7 +7,8 @@ name:
   full: Anhur
   aliases: []
 shortcode: anhurdty
-packFolder: deitieskemetian
+data:
+  packFolder: deitieskemetian
 ---
 
 _Patron of the Hunt._

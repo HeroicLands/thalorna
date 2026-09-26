@@ -13,11 +13,11 @@ data:
   parents:
     - vardainvalleys
   population: 400
+  packFolder: aelwyth
 name:
   full: Dorrin
   aliases: []
 shortcode: dorrin
-packFolder: aelwyth
 ---
 
 **Dorrin** is the highest inhabited place in the valleys, on the shoulder where the ground falls away

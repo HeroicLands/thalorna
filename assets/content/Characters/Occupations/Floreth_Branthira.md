@@ -10,7 +10,6 @@ name:
   clan: Bránthira
   home: valdes
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: flrthbrnthr
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: olive
     complexion: weathered
     extra_features: []
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 17 } }

@@ -14,13 +14,14 @@ data:
   parents:
     - worldthlrn
   population: 300000000
+  packFolder: ankaris
 name:
   full: Ankaris Continent
   aliases: []
 shortcode: ankrscntnnt
 description: The largest continent of Thalorna—home to Vylaria, Harad, the Nordlands, the K'ich'chik-facing west, and the far-eastern empires of Tānvür and Jurthat.
-terran_analog: Eurasia (and North Africa's Mediterranean shore, via Mídhalión)
-packFolder: ankaris
+
+# terran_analog: Eurasia (and North Africa's Mediterranean shore, via Mídhalión)
 ---
 
 Ankaris is the largest continent on [[place-worldthlrn|Thalorna]] and the setting of nearly all recorded human history. It stretches from the fjord-cut coasts and pine forests of the frozen north, through the temperate heartlands of Aurèldía and the Hellád, across the great central deserts, and on to the jungles, mountains, and island empires of the far east. Ten major regions—each a world unto itself—are woven together by the [[place-vylarianse|Vylarian Sea]] in the south, the overland trade arteries of the center, and the ancient legacy of the [[affiliation-vylarinmpr|Vylarian Empire]] whose declining reach once touched all of them.
@@ -42,7 +43,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'place'
   AND subType = 'region'
-  AND list_contains(data.parents, 'thalorna-none-place-ankrscntnnt')
+  AND list_contains(data.parents, 'thalorna-note-place-ankrscntnnt')
 ORDER BY name.full COLLATE NOCASE
 ```
 

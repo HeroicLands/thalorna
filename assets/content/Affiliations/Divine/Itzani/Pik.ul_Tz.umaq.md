@@ -100,6 +100,7 @@ data:
     tzuqilixbal: nemesis
     tzumaqkalanil: aligned
     pikob: rival
+  packFolder: pantheonitzani
 name:
   full: "Pik'ul Tz'umaq"
   aliases:
@@ -107,7 +108,6 @@ name:
     - The Fallen Pik'ik
     - The Owl at the Threshold
 shortcode: pikultzumaq
-packFolder: pantheonitzani
 sohl:
   system:
     commonSkills: []

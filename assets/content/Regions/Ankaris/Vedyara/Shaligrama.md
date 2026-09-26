@@ -12,9 +12,9 @@ data:
   parents:
     - dhanurkotajnpd
   population: 910
+  packFolder: vedyara
 name:
   full: Shāligrāma
   aliases: []
 shortcode: shaligrama
-packFolder: vedyara
 ---

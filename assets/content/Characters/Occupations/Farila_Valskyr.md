@@ -11,7 +11,6 @@ name:
   home: belporte
   aliases:
     - Lady Seraphina Wellspring
-packFolder: aureldiaprovenzia
 shortcode: farlvlskyr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: fair
     complexion: tanned
     extra_features: []
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

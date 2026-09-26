@@ -10,7 +10,6 @@ name:
   clan: Stormrót
   home: frostmark
   aliases: []
-packFolder: ankarisnordlands
 shortcode: erkrstrmrt
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: fair
     extra_features:
       - a scar on the chin
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

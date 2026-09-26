@@ -10,7 +10,6 @@ name:
   clan: Vörnheim
   home: haldrvik
   aliases: []
-packFolder: ankarisnordlands
 shortcode: gnstnvrnhm
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: weathered
     extra_features:
       - a scar on the right forearm
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

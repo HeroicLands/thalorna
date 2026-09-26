@@ -12,7 +12,6 @@ name:
   home: khensuret
   aliases:
     - Sekhemet Kasekhen
-packFolder: northernfertileregiontakheperu
 shortcode: skhmtkskhn
 type: being
 data:
@@ -41,6 +40,7 @@ data:
     complexion: null
     extra_features:
       - a scar running down the right leg
+  packFolder: northernfertileregiontakheperu
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

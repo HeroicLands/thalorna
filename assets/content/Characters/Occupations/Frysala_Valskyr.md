@@ -10,7 +10,6 @@ name:
   clan: Válskyr
   home: fiordaure
   aliases: []
-packFolder: aureldiaprovenzia
 shortcode: fryslvlskyr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: clear
     extra_features:
       - a tattoo of an eagle on the back
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

@@ -9,7 +9,6 @@ name:
   given: Laradh
   clan: Lúavel
   aliases: []
-packFolder: adventures
 shortcode: laradhluavel
 type: being
 data:
@@ -23,6 +22,7 @@ data:
     - kingdmdnvr
   gender: male
   species: humanflk
+  packFolder: adventures
 ---
 
 # Appearance {#appearance}

@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-tree
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: physera
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Warp
-packFolder: spells
+
+# hmk:
+#   name: Warp
 ---
 
 The caster channels destructive Physéra energy into a wooden object, inflicting warpage points proportional to their Spell Index that twist, bend, and distort the target's structure. When accumulated warpage equals or exceeds an object's warpage resistance, the object is destroyed outright—a spear snaps, a door splinters, a drawbridge buckles. Even partial warpage degrades function: reaching half an object's resistance makes it unusable, and exceeding a quarter of its resistance imposes penalties to any test involving the object's function. The effect scales with target size—arrow shafts and clubs require minimal warpage to break, while carts and drawbridges demand substantially more.

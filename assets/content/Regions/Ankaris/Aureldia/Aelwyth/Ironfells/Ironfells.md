@@ -12,11 +12,11 @@ data:
   parents:
     - aelwyth
   population: null
+  packFolder: aelwyth
 name:
   full: The Ironfells
   aliases: []
 shortcode: ironfells
-packFolder: aelwyth
 ---
 
 The **Ironfells** are the spine of eastern Aelwyth. They rise along the southern border of

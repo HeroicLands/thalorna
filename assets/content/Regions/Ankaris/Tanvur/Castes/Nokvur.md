@@ -5,7 +5,8 @@ name:
   full: Nōkvür
   aliases: []
 shortcode: nokvur
-packFolder: castes
+data:
+  packFolder: castes
 ---
 
 **Peasant Farmers**

@@ -10,9 +10,9 @@ name:
   aliases:
     - Ox Totem
 shortcode: oxttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-oxtotem|Ox]]{float: top-left, size: medium}

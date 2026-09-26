@@ -83,19 +83,20 @@ data:
   lore: []
   parents: []
   relations: {}
+  packFolder: affiliationshexhodai
 shortcode: kentra
 name:
   full: Kentra
   aliases:
     - The Centre
     - The Centred
-school: center
-opposition: none
-adjacent: all
-packFolder: affiliationshexhodai
 sohl:
   system:
     commonSkills: []
+
+# school: center
+# adjacent: all
+# opposition: none
 ---
 
 **Kentra** is not a seventh Eídma of the [[lore-hexhodai|Héx Hodäi]] but the _mastery_ of all six. Kentra mages stand at the center of the [[lore-hexhodai|Sigillum]], able to attune to and work magic across all six Eídmata with equal facility. They are the rarest practitioners in the [[affiliation-ordoarcanis|Ordo]], and among the most powerful. Within Ordo cosmology, they represent the pinnacle of arcane achievement: the mage who has mastered every form magic can take.

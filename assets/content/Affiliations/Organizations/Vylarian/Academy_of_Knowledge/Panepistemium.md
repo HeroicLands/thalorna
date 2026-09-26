@@ -13,8 +13,6 @@ name:
     - The Academy
     - Academy of Knowledge
     - Epistemium
-region: Western Ankaris (headquartered in Helionis)
-founded: ~400 BF (Helionite city-states)
 shortcode: panepistmm
 type: affiliation
 subType: guild
@@ -56,10 +54,13 @@ data:
   lore: []
   parents: []
   relations: {}
-packFolder: academyofknowledge
+  packFolder: academyofknowledge
 sohl:
   system:
     commonSkills: []
+
+# region: Western Ankaris (headquartered in Helionis)
+# founded: ~400 BF (Helionite city-states)
 ---
 
 ## Panepistemium—The Academy of Knowledge

@@ -11,7 +11,6 @@ name:
   clan: Hârlânis
   home: ""
   aliases: []
-packFolder: midhalionvylaria
 shortcode: brakshrlns
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: fair
     extra_features:
       - tattoo on arm
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 13 } }

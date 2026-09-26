@@ -12,11 +12,11 @@ data:
   parents:
     - elavendre
   population: 420000
+  packFolder: elavendre
 name:
   full: Glanmor
   aliases: []
 shortcode: glanmor
-packFolder: elavendre
 ---
 
 **Glanmor**—_the shore of the sea_—is Élavendre's western coast: some four hundred and twenty

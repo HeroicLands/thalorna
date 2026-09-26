@@ -79,6 +79,7 @@ data:
     - kemtnpnthn
   relations:
     kemtnpnthn: aligned
+  packFolder: pantheonskemetian
 name:
   full: Faith of Ptā'h
   aliases:
@@ -88,7 +89,6 @@ name:
     - The Shaper of the Eternal World
     - The Divine Craftsman
 shortcode: ptah
-packFolder: pantheonskemetian
 sohl:
   system:
     commonSkills: []

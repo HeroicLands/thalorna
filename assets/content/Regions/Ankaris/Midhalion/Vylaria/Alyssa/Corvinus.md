@@ -11,9 +11,9 @@ data:
   parents:
     - alyssa
   population: 9000
+  packFolder: vylaria
 name:
   full: Corvinus
   aliases: []
 shortcode: corvinus
-packFolder: vylaria
 ---

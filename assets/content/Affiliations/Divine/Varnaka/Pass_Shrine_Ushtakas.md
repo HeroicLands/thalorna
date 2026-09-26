@@ -9,7 +9,6 @@ name:
   aliases:
     - The Altitude Ushtakas
 shortcode: passshrineushtakas
-renamedFrom: passshrinebrahmins
 type: affiliation
 subType: faithtradition
 data:
@@ -80,7 +79,7 @@ data:
     ganakashala: unaligned
     thresholdkeepers: aligned
     chayavrata: unaligned
-packFolder: pantheonsvarnaka
+  packFolder: pantheonsvarnaka
 sohl:
   system:
     commonSkills:

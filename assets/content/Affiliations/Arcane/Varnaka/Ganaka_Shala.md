@@ -87,7 +87,7 @@ data:
     passshrineushtakas: unaligned
     thresholdkeepers: aligned
     chayavrata: unaligned
-packFolder: pantheonsvarnaka
+  packFolder: pantheonsvarnaka
 sohl:
   system:
     commonSkills:

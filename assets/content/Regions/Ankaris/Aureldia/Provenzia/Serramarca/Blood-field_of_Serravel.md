@@ -11,11 +11,11 @@ data:
   parents:
     - serramarca
   population: null
+  packFolder: provenzia
 name:
   full: Blood-field of Serravel
   aliases: []
 shortcode: bldfldserravel
-packFolder: provenzia
 ---
 
 High on the Tarvénian frontier, where the passes come down out of the cold mountains, lies the

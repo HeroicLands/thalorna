@@ -11,11 +11,11 @@ data:
   parents:
     - hutsobeknome
   population: 38000
+  packFolder: deltanomes
 name:
   full: Hut-Sobek
   aliases: []
 shortcode: hutsobek
-packFolder: deltanomes
 ---
 
 ## Overview

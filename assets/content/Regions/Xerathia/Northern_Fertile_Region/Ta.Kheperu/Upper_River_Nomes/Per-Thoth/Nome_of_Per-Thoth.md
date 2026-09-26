@@ -107,7 +107,7 @@ data:
   relations:
     kemtnpnthn: aligned
     thoth: aligned
-packFolder: perthoth
+  packFolder: perthoth
 sohl:
   system:
     commonSkills:

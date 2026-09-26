@@ -63,12 +63,12 @@ data:
     - kemtnpnthn
   relations:
     kemtnpnthn: aligned
+  packFolder: pantheonskemetian
 name:
   full: Faith of Hórús
   aliases:
     - Hórús, The Guiding Falcon
 shortcode: horus
-packFolder: pantheonskemetian
 sohl:
   system:
     commonSkills: []

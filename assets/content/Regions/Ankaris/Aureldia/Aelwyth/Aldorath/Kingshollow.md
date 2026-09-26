@@ -11,11 +11,11 @@ data:
   parents:
     - wyndmarch
   population: 1400
+  packFolder: aelwyth
 name:
   full: Kingshollow
   aliases: []
 shortcode: kingsholow
-packFolder: aelwyth
 ---
 
 **Kingshollow** is a village of perhaps fourteen hundred in a sheltered fold of Aldorath's eastern

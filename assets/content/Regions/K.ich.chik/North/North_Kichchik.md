@@ -15,8 +15,8 @@ data:
   parents:
     - kchchkcntnnt
   population: 2000000
+  packFolder: kichchik
 shortcode: nrthrnkchchk
-packFolder: kichchik
 ---
 
 ## Overview

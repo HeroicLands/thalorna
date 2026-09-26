@@ -12,11 +12,11 @@ data:
   parents:
     - perthothnome
   population: 85000
+  packFolder: perthoth
 name:
   full: Khemenu
   aliases: []
 shortcode: khemenu
-packFolder: perthoth
 ---
 
 ## Overview

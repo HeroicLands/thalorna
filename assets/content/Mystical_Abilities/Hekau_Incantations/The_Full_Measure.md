@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: ankhkemet
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: ankhkemet
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 Used at the nilometer, at fords, and in the delta channels that move between one season and the

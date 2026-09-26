@@ -85,14 +85,14 @@ data:
     - ashanpnthn
   relations:
     ashanpnthn: aligned
+  packFolder: ashaian
 name:
   full: Faith of Āhúrdáén
   aliases:
     - The Keeper of Harmony
     - Ahura Mazda
+    - Āhúrdáén, The Keeper of Harmony
 shortcode: ahurdaen
-alias: Āhúrdáén, The Keeper of Harmony
-packFolder: ashaian
 sohl:
   system:
     commonSkills: []

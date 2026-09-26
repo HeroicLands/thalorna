@@ -10,6 +10,7 @@ subType: arcaneincantation
 data:
   icon: icon-firebdg
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: pyrethos
@@ -18,9 +19,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Fire Fiend
-packFolder: spells
+
+# hmk:
+#   name: Fire Fiend
 ---
 
 The caster hurls a mass of concentrated flame at the ground, and the fire coalesces into a living form—a creature of pure flame that stands roughly human-sized, its body a constantly shifting mass of white-hot fire wrapped in a shell of dancing orange. The thraal moves with terrifying speed and strikes with arms of compressed flame that deliver devastating burns on contact. Where it walks, it leaves smoldering footprints, and the air around it shimmers with heat distortion.

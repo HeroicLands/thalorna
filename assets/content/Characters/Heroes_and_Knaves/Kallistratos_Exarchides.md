@@ -11,7 +11,6 @@ name:
   clan: Exarchides
   home: velysara
   aliases: []
-packFolder: midhalionvylaria
 shortcode: klstrtsxrchds
 type: being
 data:
@@ -43,6 +42,7 @@ data:
         Faint burn scarring across both palms and the backs of the hands from years of Pyréthos
         practice
       - A thin scar along the left jawline from a Quaesitorium field operation
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

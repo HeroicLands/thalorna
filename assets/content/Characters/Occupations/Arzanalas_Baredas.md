@@ -10,7 +10,6 @@ name:
   clan: Bâredâs
   home: tyrellan
   aliases: []
-packFolder: midhalionvylaria
 shortcode: arznlsbrds
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: olive_toned
     extra_features:
       - a tattoo of a heart on the chest
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

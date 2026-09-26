@@ -13,11 +13,11 @@ data:
   parents:
     - vardainvalleys
   population: 500
+  packFolder: aelwyth
 name:
   full: Coldbeck
   aliases: []
 shortcode: coldbeck
-packFolder: aelwyth
 ---
 
 **Coldbeck** stands on the fastest water in the valleys and uses all of it. Three hundred and thirty

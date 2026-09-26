@@ -12,11 +12,11 @@ data:
   parents:
     - stormveld
   population: 22000
+  packFolder: aelwyth
 name:
   full: The Nordfells
   aliases: []
 shortcode: nordfells
-packFolder: aelwyth
 ---
 
 The **Nordfells** run along the whole northern edge of [[affiliation-jrldmstrmvld|Stormveld]], from the

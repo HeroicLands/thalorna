@@ -12,11 +12,11 @@ data:
   parents:
     - perankhetnome
   population: 14000
+  packFolder: perankhet
 name:
   full: Mehit-Per
   aliases: []
 shortcode: mehitper
-packFolder: perankhet
 ---
 
 ## Overview

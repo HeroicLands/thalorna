@@ -10,7 +10,6 @@ name:
   clan: Hrafnsvald
   home: jarnhavn
   aliases: []
-packFolder: ankarisnordlands
 shortcode: thjthrhrfnsvld
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: ruddy
     extra_features:
       - a scar on the abdomen
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

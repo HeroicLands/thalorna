@@ -107,7 +107,7 @@ data:
   relations:
     kemtnpnthn: aligned
     ptah: aligned
-packFolder: tasetiabtet
+  packFolder: tasetiabtet
 sohl:
   system:
     commonSkills:

@@ -7,5 +7,6 @@ name:
   full: Múrkír
   aliases: []
 shortcode: murkirdty
-packFolder: deitiesaureldian
+data:
+  packFolder: deitiesaureldian
 ---

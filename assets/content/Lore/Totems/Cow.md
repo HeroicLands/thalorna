@@ -10,9 +10,9 @@ name:
   aliases:
     - Cow Totem
 shortcode: cowttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-cowtotem|Cow]]{float: top-left, size: medium}

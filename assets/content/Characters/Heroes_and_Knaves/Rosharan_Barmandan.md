@@ -11,7 +11,6 @@ name:
   clan: Barmandan
   home: tahrodan
   aliases: []
-packFolder: sultanateofamradad
 shortcode: rshrnbrmndn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a bear on the left arm
+  packFolder: sultanateofamradad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

@@ -12,11 +12,11 @@ data:
   parents:
     - ankhsetunnome
   population: 80000
+  packFolder: ankhsetun
 name:
   full: Ankh-Setûn
   aliases: []
 shortcode: ankhsetun
-packFolder: ankhsetun
 ---
 
 ## Overview

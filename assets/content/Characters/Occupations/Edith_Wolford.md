@@ -11,7 +11,6 @@ name:
   clan: Wolford
   home: ashford
   aliases: []
-packFolder: aureldiaaelwyth
 shortcode: edithwlfrd
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: fair
     complexion: fair
     extra_features: []
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

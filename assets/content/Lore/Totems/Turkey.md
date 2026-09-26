@@ -10,9 +10,9 @@ name:
   aliases:
     - Turkey Totem
 shortcode: turkeyttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-turkeytotem|Turkey]]{float: top-left, size: medium}

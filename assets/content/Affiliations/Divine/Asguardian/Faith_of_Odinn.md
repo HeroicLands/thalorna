@@ -90,12 +90,12 @@ data:
     - asguardian
   relations:
     asguardian: aligned
+  packFolder: pantheonsasguardian
 name:
   full: Faith of Ódinn
   aliases:
     - The Enlightened Path
 shortcode: odinn
-packFolder: pantheonsasguardian
 sohl:
   system:
     commonSkills: []

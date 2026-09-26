@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: deshrut
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: deshrut
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 The single most-used working outside the valley, cut on the traveler's own gear rather than

@@ -78,7 +78,7 @@ data:
     passshrineushtakas: aligned
     thresholdkeepers: aligned
     chayavrata: nemesis
-packFolder: pantheonsvarnaka
+  packFolder: pantheonsvarnaka
 sohl:
   system:
     commonSkills:

@@ -12,11 +12,11 @@ data:
   parents:
     - aldorvale
   population: 20000
+  packFolder: aelwyth
 name:
   full: Dunmere
   aliases: []
 shortcode: dunmere
-packFolder: aelwyth
 ---
 
 **Dunmere** is the seat of the [[affiliation-kngdmldrth|Kingdom of Aldorath]] and, at some twenty

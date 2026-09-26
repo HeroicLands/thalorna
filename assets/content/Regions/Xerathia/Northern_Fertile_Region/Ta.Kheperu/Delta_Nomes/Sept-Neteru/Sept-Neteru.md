@@ -16,7 +16,7 @@ data:
   parents:
     - takheperurgn
   population: 150000
-packFolder: deltanomes
+  packFolder: deltanomes
 ---
 
 ## Overview

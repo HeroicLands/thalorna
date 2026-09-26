@@ -9,6 +9,7 @@ type: weapongear
 data:
   icon: icon-sword
   templatePriority: null
+  packFolder: weapons
 sohl:
   kbcat: sword
   weaponType: Sword
@@ -150,7 +151,6 @@ sohl:
         defense:
           blockMod: 0
           counterstrikeMod: 0
-packFolder: weapons
 ---
 
 A curved single-edged blade that broadens sharply toward the tip, the kiliji gathers cutting force through its geometry. The widened heel of the edge concentrates a cavalry saber's momentum into a devastating slash against light armor or flesh. Light cavalry and mounted raiders favor this steel for its efficiency in the wheeling charge.

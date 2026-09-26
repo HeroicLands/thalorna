@@ -18,8 +18,9 @@ data:
   parents:
     - vedyarargn
   population: 1200000
-terran_analog: "Semi-arid interior plateau of peninsular India—basalt tableland in the rain-shadow of the coastal ranges, held by transhumant cattle-herding lineages whose wealth is stock and water rights rather than cultivated land"
-packFolder: vedyara
+  packFolder: vedyara
+
+# terran_analog: "Semi-arid interior plateau of peninsular India—basalt tableland in the rain-shadow of the coastal ranges, held by transhumant cattle-herding lineages whose wealth is stock and water rights rather than cultivated land"
 ---
 
 **Vandhyabhūmi** is the high dry interior of [[place-vedyarargn|Vedyara]], the block of tableland the four great rivers run past and do not water. It stands a thousand feet or so above the plains that surround it, it is bounded on the east by the Mahānadi's western tributaries and on the west by the escarpment that falls to the arid western coast, and it is the one large country of the subcontinent that no river valley organizes.
@@ -70,14 +71,14 @@ SELECT s.address.slug AS _ref,
                    END, ' and ' ORDER BY p.name.full)
         FROM entries p
         WHERE p.type = 'affiliation'
-          AND list_contains(p.data.domains, concat(s.package, '-none-', s.type, '-', s.shortcode))) AS "Held by",
+          AND list_contains(p.data.domains, concat(s.package, '-note-', s.type, '-', s.shortcode))) AS "Held by",
        -- No field states why a place stands where it does, so "For" projects nothing.
        NULL AS "For"
 FROM entries s
 LEFT JOIN market m ON m.value = s.data.market
 WHERE s.type = 'place'
   AND s.subType = 'settlement'
-  AND list_contains(s.data.parents, 'thalorna-none-place-vandhyabhumi')
+  AND list_contains(s.data.parents, 'thalorna-note-place-vandhyabhumi')
 ORDER BY s.name.full COLLATE NOCASE
 ```
 

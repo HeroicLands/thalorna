@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-wind
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: zepharis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Stench
-packFolder: spells
+
+# hmk:
+#   name: Stench
 ---
 
 The caster flicks a wrist and a compact ball of compressed air shoots forward, bursting on impact into a roiling cloud of nauseating stench so intense that eyes water, gorges rise, and even hardened soldiers reel backward clutching their faces. The odor is not illusory—the spell agitates latent particles of decay, sulfur, and rancid organic matter already present in the environment, concentrating them a hundredfold into the released gust. In a butcher's quarter or a marshland, the effect is magnified to a nearly incapacitating degree.

@@ -12,11 +12,11 @@ data:
   parents:
     - elavendre
   population: 900000
+  packFolder: elavendre
 name:
   full: Tirwen
   aliases: []
 shortcode: tirwen
-packFolder: elavendre
 ---
 
 **Tirwen**—_the fair land_—is the heartland of [[place-elavendre|Élavendre]]: the broad, green,

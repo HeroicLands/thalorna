@@ -12,7 +12,6 @@ name:
   home: tyrellan
   aliases:
     - Ebaséthè Rowan Thistlewood
-packFolder: midhalionvylaria
 shortcode: azendsdmtr
 type: being
 data:
@@ -41,6 +40,7 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a dragon wrapping around the arm
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

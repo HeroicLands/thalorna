@@ -13,11 +13,11 @@ data:
   parents:
     - ironfells
   population: 8500
+  packFolder: aelwyth
 name:
   full: The Vardain Valleys
   aliases: []
 shortcode: vardainvalleys
-packFolder: aelwyth
 ---
 
 Beneath [[place-vorgald|Vorgald]], in the eastern heights of the [[place-ironfells|Ironfells]], a

@@ -12,11 +12,11 @@ data:
   parents:
     - aldorathrgn
   population: 26000
+  packFolder: aelwyth
 name:
   full: Brynwold
   aliases: []
 shortcode: brynwold
-packFolder: aelwyth
 ---
 
 **Brynwold** is Aldorath's upland country, rising west and north of the [[place-aldorvale|Aldorvale]]

@@ -11,9 +11,9 @@ data:
   parents:
     - nordheim
   population: 200
+  packFolder: nordheim
 name:
   full: Greyfjord
   aliases: []
 shortcode: greyfjord
-packFolder: nordheim
 ---

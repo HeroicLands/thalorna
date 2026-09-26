@@ -5,7 +5,8 @@ name:
   full: Elder Races
   aliases: []
 shortcode: elderraces
-packFolder: tanvur
+data:
+  packFolder: tanvur
 ---
 
 ## Elder Races in Tānvür

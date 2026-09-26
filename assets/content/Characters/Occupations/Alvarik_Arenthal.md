@@ -10,7 +10,6 @@ name:
   clan: Árenthal
   home: valdes
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: alvrkrnthl
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: bronzed
     extra_features:
       - a tattoo of a compass on the chest
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

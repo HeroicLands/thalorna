@@ -11,7 +11,6 @@ name:
   home: fiordaure
   aliases:
     - Lady Seraphina Emberhart
-packFolder: aureldiaprovenzia
 shortcode: arnelkrsvr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: medium
     complexion: smooth
     extra_features: []
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

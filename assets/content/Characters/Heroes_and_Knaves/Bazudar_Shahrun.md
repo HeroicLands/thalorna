@@ -10,7 +10,6 @@ name:
   clan: Shahrûn
   home: oasishirvn
   aliases: []
-packFolder: ankariskhazryndesert
 shortcode: bazdrshhrn
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a woman on the shoulder
+  packFolder: ankariskhazryndesert
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

@@ -83,11 +83,11 @@ data:
   lore: []
   parents: []
   relations: {}
+  packFolder: harad
 name:
   full: Merchantry of the Veil
   aliases: []
 shortcode: mrchntryvl
-packFolder: harad
 sohl:
   system:
     commonSkills: []

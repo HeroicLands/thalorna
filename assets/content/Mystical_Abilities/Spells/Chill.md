@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-water
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: hydalis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Cooling
-packFolder: spells
+
+# hmk:
+#   name: Cooling
 ---
 
 The caster draws warmth from the surrounding air, leaving a pocket of biting cold in its wake. Moisture condenses and frost crystals bloom across nearby surfaces as temperature plummets sharply within a small area. The effect is immediate and visceral—breath mists, exposed skin prickles, and unprotected liquids begin to thicken and slow.

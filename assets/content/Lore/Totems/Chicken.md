@@ -10,9 +10,9 @@ name:
   aliases:
     - Chicken Totem
 shortcode: chickenttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-chickentotem|Chicken]]{float: top-left, size: medium}

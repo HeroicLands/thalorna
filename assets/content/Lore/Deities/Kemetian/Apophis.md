@@ -7,7 +7,8 @@ name:
   full: Ápōphis
   aliases: []
 shortcode: apophisdty
-packFolder: deitieskemetian
+data:
+  packFolder: deitieskemetian
 ---
 
 ![[icon-apophis|Ápōphis]]{float: top-left, size: medium}

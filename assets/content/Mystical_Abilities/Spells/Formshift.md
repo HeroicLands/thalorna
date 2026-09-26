@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-anvilbdg
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: sideros
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Aspect
-packFolder: spells
+
+# hmk:
+#   name: Aspect
 ---
 
 The caster passes their hand over the surface of an object or creature and reshapes its visual appearance as though painting over reality with an invisible brush. A battered iron sword takes on the gleaming appearance of polished steel inlaid with gold. A common traveler appears to wear fine mail beneath a noble's surcoat. The changes are entirely illusory—the battered sword remains battered, the traveler remains poorly dressed—but the deception is convincing to casual observation.

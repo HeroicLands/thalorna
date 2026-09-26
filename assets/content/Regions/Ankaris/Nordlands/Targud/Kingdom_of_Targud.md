@@ -115,7 +115,7 @@ data:
     kingdomlgn: unaligned
     kingdmnrgd: unaligned
     kngdmvthgrd: unaligned
-packFolder: targud
+  packFolder: targud
 sohl:
   system:
     commonSkills:

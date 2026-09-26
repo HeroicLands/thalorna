@@ -74,13 +74,13 @@ data:
     iset: aligned
     hapi: aligned
     deshrut: aligned
+  packFolder: khemenuhekau
 name:
   full: Per-Ankh'kemet
   aliases:
     - House of the Black Land
     - The House of River
 shortcode: ankhkemet
-packFolder: khemenuhekau
 sohl:
   system:
     commonSkills: []

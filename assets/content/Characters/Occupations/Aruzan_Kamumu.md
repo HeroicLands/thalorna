@@ -10,7 +10,6 @@ name:
   clan: Kamûmû
   home: qadhirun
   aliases: []
-packFolder: midhalionharad
 shortcode: aruzankamm
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: medium
     extra_features:
       - a scar on the right forearm
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

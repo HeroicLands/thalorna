@@ -9,11 +9,10 @@ description: "Nearly black purple-tinged liquid; seduces with overwhelming attra
 shortcode: ptnaphrg
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Aphrodisiac, Great"
 data:
   icon: icon-potion
   templatePriority: null
+  packFolder: great
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +21,9 @@ sohl:
     durabilityBase: 5
     potency: "great"
     strength: 0
-packFolder: great
+
+# hmk:
+#   name: "Potion, Aphrodisiac, Great"
 ---
 
 Like distilled midnight mixed with fire, this preparation is nearly black, tinged with deep purple at the edges of the vial when held before candlelight. The merest hint of the stopper releases a fragrance so overwhelming that it seems to fill an entire room—flowers that only bloom at midnight, musk and civet, the faint burned-honey warmth of amber that costs more than common soldiers earn in a year. Even breathing the air near the vial affects the body; the drinker's fingers tremble slightly as they raise the cup to their lips, their senses already primed before the liquid ever touches their tongue. The few who taste it report that the sensation borders on rapture, every nerve alive with urgent hunger.

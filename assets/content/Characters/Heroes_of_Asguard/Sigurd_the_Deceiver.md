@@ -13,7 +13,6 @@ name:
   aliases:
     - the Deceiver
   home: null
-packFolder: ankarisnordlands
 shortcode: sigurdecvr
 type: being
 data:
@@ -41,6 +40,7 @@ data:
     skin_color: light
     complexion: battle_scarred
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

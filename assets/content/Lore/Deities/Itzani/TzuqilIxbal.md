@@ -7,5 +7,6 @@ name:
   full: Tz'uqil Ix'bal
   aliases: []
 shortcode: tzuqilixbaldty
-packFolder: deitiesitzani
+data:
+  packFolder: deitiesitzani
 ---

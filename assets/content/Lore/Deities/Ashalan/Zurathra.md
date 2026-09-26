@@ -7,5 +7,6 @@ name:
   full: Zúráthrä
   aliases: []
 shortcode: zurathradty
-packFolder: deitiesashalan
+data:
+  packFolder: deitiesashalan
 ---

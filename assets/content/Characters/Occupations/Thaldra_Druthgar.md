@@ -11,7 +11,6 @@ name:
   home: thornhaven
   aliases:
     - "Thalia Hart"
-packFolder: ankarisvrystwald
 shortcode: thldrdrthgr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: light
     complexion: rugged
     extra_features: []
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

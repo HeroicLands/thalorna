@@ -10,11 +10,11 @@ data:
   parents:
     - meridiana
   population: null
+  packFolder: provenzia
 name:
   full: Blood-field of Calvènza
   aliases: []
 shortcode: bldfldcalvenza
-packFolder: provenzia
 ---
 
 Above the warm sandy coast of the south, in the richest and most comfortable country in Provènzia,

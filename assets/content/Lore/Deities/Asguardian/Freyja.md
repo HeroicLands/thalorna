@@ -7,5 +7,6 @@ name:
   full: Fréyja
   aliases: []
 shortcode: freyjadty
-packFolder: deitiesasguardian
+data:
+  packFolder: deitiesasguardian
 ---

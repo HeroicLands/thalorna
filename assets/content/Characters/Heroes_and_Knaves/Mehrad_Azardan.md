@@ -11,7 +11,6 @@ name:
   clan: Âzardan
   home: golshahr
   aliases: []
-packFolder: sultanateofamradad
 shortcode: mehradzrdn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: null
     extra_features:
       - a scar on the lower abdomen
+  packFolder: sultanateofamradad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

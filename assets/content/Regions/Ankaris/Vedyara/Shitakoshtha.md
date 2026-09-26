@@ -12,12 +12,12 @@ data:
   parents:
     - rajapurjnpd
   population: null
+  packFolder: vedyara
 name:
   full: Shitakoshtha
   aliases:
     - The Cold Chamber
 shortcode: shitakoshtha
-packFolder: vedyara
 ---
 
 **Shitakoshtha** (the cold chamber) is the oldest vault of [[place-rajavalilib|the Rājavalī Library]], and its north side is not masonry. It is the flank of a body of one piece that stood on the hill before the library did, before the temple did and before the dynastic capital did: cold to the hand, ribbed in long true curves, and without a seam anywhere for a chisel to start in.

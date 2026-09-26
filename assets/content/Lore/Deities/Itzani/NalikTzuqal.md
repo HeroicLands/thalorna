@@ -7,5 +7,6 @@ name:
   full: Nal'ik Tz'uqal
   aliases: []
 shortcode: naliktzuqaldty
-packFolder: deitiesitzani
+data:
+  packFolder: deitiesitzani
 ---

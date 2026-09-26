@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-circle
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: kentra
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Bubble
-packFolder: spells
+
+# hmk:
+#   name: Bubble
 ---
 
 The caster speaks a word of absolute containment and a sphere of crystalline arcane force snaps into existence around the target, enclosing them in a perfect bubble of shimmering energy. The sphere is extraordinarily resilient, absorbing physical impacts, deflecting projectiles, and scattering hostile magic across its curved surface. It moves with the enclosed subject, maintaining its protective integrity regardless of terrain or circumstance.

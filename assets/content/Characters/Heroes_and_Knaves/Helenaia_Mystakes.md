@@ -11,7 +11,6 @@ name:
   clan: Mystákês
   home: karatas2
   aliases: []
-packFolder: helladbyzaria
 shortcode: helnmystks
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: null
     extra_features:
       - a scar running down the right leg
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

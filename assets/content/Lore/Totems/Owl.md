@@ -10,9 +10,9 @@ name:
   aliases:
     - Owl Totem
 shortcode: owlttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-owltotem|Owl]]{float: top-left, size: medium}

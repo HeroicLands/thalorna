@@ -10,11 +10,11 @@ data:
   parents:
     - hylen
   population: 4000
+  packFolder: vylaria
 name:
   full: Messora
   aliases: []
 shortcode: messora
-packFolder: vylaria
 ---
 
 ## Overview

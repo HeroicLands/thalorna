@@ -10,9 +10,7 @@ name:
   clan: Pissákit
   home: yesilhan2
   aliases: []
-packFolder: helladbyzaria
 shortcode: thslnkpsskt
-renamedFrom: thslnkkthrpls
 type: being
 data:
   icon: icon-person
@@ -38,6 +36,7 @@ data:
     skin_color: golden
     complexion: null
     extra_features: []
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

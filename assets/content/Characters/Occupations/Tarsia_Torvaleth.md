@@ -11,7 +11,6 @@ name:
   clan: Torvaleth
   home: ""
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: tarstrvlth
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: weathered
     extra_features:
       - crooked nose
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 11 } }

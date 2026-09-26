@@ -12,11 +12,11 @@ data:
   parents:
     - tramontana
   population: 25000
+  packFolder: provenzia
 name:
   full: Batáren City
   aliases: []
 shortcode: batarencity
-packFolder: provenzia
 ---
 
 **Batáren** stands on the [[place-batarengulf|Gulf of Batáren]] in the northwest, and is Provènzia's

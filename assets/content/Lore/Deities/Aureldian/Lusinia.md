@@ -7,5 +7,6 @@ name:
   full: Lúsinía
   aliases: []
 shortcode: lusiniadty
-packFolder: deitiesaureldian
+data:
+  packFolder: deitiesaureldian
 ---

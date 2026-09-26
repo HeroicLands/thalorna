@@ -90,7 +90,7 @@ data:
   parents:
     - tharivaan
   relations: {}
-packFolder: pantheonstharivaan
+  packFolder: pantheonstharivaan
 sohl:
   system:
     commonSkills: []

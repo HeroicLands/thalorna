@@ -7,7 +7,8 @@ name:
     - The Jade Fan Dance
     - Jade Fan Dance
 shortcode: veizhatret
-packFolder: tanvur
+data:
+  packFolder: tanvur
 ---
 
 ## Vëi Zhāt Rëit ("The Jade Fan Dance")

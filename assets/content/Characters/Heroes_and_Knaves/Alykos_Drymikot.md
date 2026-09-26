@@ -11,9 +11,7 @@ name:
   clan: Drymíkot
   home: chrysamar
   aliases: []
-packFolder: helladbyzaria
 shortcode: alyksdrymkt
-renamedFrom: alyksthtks
 type: being
 data:
   icon: icon-person
@@ -39,6 +37,7 @@ data:
     skin_color: light
     complexion: weathered
     extra_features: []
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

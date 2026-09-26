@@ -10,9 +10,9 @@ name:
   aliases:
     - Sheep Totem
 shortcode: sheepttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-sheeptotem|Sheep]]{float: top-left, size: medium}

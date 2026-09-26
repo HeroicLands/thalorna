@@ -10,6 +10,7 @@ subType: birthsign
 data:
   icon: icon-astrology
   templatePriority: 0
+  packFolder: astrokyklos
 sohl:
   kbcat: birthsign
   system:
@@ -37,7 +38,6 @@ sohl:
       "subType:social": 0
       water: 0
       hydalis: 0
-packFolder: astrokyklos
 ---
 
 Kentros, the Goad, drives its children inward toward hidden things. Strong of frame and drawn to the mysteries and old learning, they have scant patience for the field, the forge, or the written page.

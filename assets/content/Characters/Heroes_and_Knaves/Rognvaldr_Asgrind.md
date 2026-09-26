@@ -10,7 +10,6 @@ name:
   clan: Ásgrind
   home: valgard
   aliases: []
-packFolder: ankarisnordlands
 shortcode: rgnvldrsgrnd
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: light
     complexion: weathered
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

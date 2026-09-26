@@ -10,12 +10,12 @@ data:
   parents:
     - alndntrblnds
   population: 1500
+  packFolder: elavendre
 name:
   full: Eshálosha Lodge
   aliases:
     - Eshálosha
 shortcode: eshalshldg
-packFolder: elavendre
 ---
 
 **Controlled by:** [[lore-aelendnppl|Áelendan]]

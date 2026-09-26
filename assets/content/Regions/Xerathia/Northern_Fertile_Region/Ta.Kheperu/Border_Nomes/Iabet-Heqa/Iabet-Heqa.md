@@ -11,11 +11,11 @@ data:
   parents:
     - iabetheqanome
   population: 12000
+  packFolder: bordernomes
 name:
   full: Iabet-Heqa
   aliases: []
 shortcode: iabetheqa
-packFolder: bordernomes
 ---
 
 ## Overview

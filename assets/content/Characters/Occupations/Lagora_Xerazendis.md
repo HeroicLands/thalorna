@@ -10,7 +10,6 @@ name:
   clan: Xêrâzêndis
   home: corvinus
   aliases: []
-packFolder: midhalionvylaria
 shortcode: lagrxrznds
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: sallow
     extra_features:
       - a scar on the right elbow
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

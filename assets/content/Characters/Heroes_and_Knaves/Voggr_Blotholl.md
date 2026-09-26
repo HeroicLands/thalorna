@@ -10,7 +10,6 @@ name:
   clan: Blóthöll
   home: bloth
   aliases: []
-packFolder: ankarisnordlands
 shortcode: vogrblothl
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: weathered
     extra_features:
       - a scar running down the back
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

@@ -10,7 +10,6 @@ name:
   clan: Sundrýth
   home: grimholt
   aliases: []
-packFolder: ankarisvrystwald
 shortcode: thdrsndryth
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: ruddy
     extra_features:
       - a tattoo of a crescent moon on the neck
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }

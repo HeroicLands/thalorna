@@ -12,11 +12,11 @@ data:
   parents:
     - dhanurkotajnpd
   population: 600
+  packFolder: vedyara
 name:
   full: Ashvatīra
   aliases: []
 shortcode: ashvatira
-packFolder: vedyara
 ---
 
 Ashvatīra (600) keeps the horses of the Academy of the Swift Hand, on four miles of water-meadow above the town. Two hundred and forty animals stand here in an ordinary year, and the village's whole work is grazing, breaking and keeping them.

@@ -9,6 +9,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: null
+  packFolder: religious
 sohl:
   kbcat: religious
   craft:
@@ -19,7 +20,6 @@ sohl:
     valueBase: 65
     qualityBase: 0
     durabilityBase: 7
-packFolder: religious
 ---
 
 Three cords, woven in the colors of [[affiliation-vyalendra|Vyālendra]], [[affiliation-mahajaya|Mahájaya]] and [[affiliation-rasikara|Rásikara]], plaited together at the shoulders and worn only by a Triyācārya—"Master of the Three," the [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]]'s rank difficult enough to attain that most priests specialize in a single form and serve under one instead. An ordinary priest's regalia carries a single cord.

@@ -11,12 +11,12 @@ data:
   parents:
     - okharisrgn
   population: null
+  packFolder: okharis
 name:
   full: Yánda Maláika
   aliases:
     - The Mountains of the Angels
 shortcode: yandamalaika
-packFolder: okharis
 ---
 
 The high range beyond the settled Okháric country, said by the tribes to be where the gods dwell.

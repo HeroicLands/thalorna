@@ -15,8 +15,9 @@ data:
   parents:
     - nrthrnkchchk
   population: null
-terran_analog: Southern California through Nevada, Arizona, and New Mexico deserts
-packFolder: chakultzakul
+  packFolder: chakultzakul
+
+# terran_analog: Southern California through Nevada, Arizona, and New Mexico deserts
 ---
 
 ## Overview

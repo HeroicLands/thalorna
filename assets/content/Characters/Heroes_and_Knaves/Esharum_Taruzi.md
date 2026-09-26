@@ -10,7 +10,6 @@ name:
   clan: Tarûzî
   aliases:
     - Shâ
-packFolder: midhalionharad
 shortcode: esharumtrz
 type: being
 data:
@@ -41,6 +40,7 @@ data:
     extra_features:
       - a long scar across his left jaw
       - lean and hard-bitten
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

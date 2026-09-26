@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: khatnu
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: khatnu
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 The form is the constraint and the point: the thing must already be perfect, because the working

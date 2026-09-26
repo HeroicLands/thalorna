@@ -91,12 +91,12 @@ data:
     - asguardian
   relations:
     asguardian: aligned
+  packFolder: pantheonsasguardian
 name:
   full: Faith of Lôki
   aliases:
     - The Serpent's Path
 shortcode: loki
-packFolder: pantheonsasguardian
 sohl:
   system:
     commonSkills: []

@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-tree
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: physera
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Balsam
-packFolder: spells
+
+# hmk:
+#   name: Balsam
 ---
 
 The caster lays hands upon a subject and floods their body with deep, sustained Physéra energy that bolsters the flesh's innate capacity for recovery while simultaneously decelerating the cellular decay associated with biological aging. Over the course of the following year, the subject's Healing Base increases meaningfully, and there is a significant chance that the next Aging Roll is skipped entirely as the spell's rejuvenating influence temporarily arrests the body's decline. Young characters are affected by the aging benefits only a limited number of times across their lifetime; mature and elderly subjects receive proportionally fewer total applications before the effect saturates.

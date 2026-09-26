@@ -12,11 +12,11 @@ data:
   parents:
     - suvarnagirijnpd
   population: 910
+  packFolder: vedyara
 name:
   full: Tāmravana
   aliases: []
 shortcode: tamravana
-packFolder: vedyara
 ---
 
 Tāmravana (910) is the smelting village, a mile below the panning ground on the same stream. It takes its name from the copper that was worked here before the iron was, and the copper is long finished.

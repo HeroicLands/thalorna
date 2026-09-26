@@ -12,7 +12,6 @@ name:
   aliases:
     - Tamiyra Jâ'Utu
     - Tamiyra Jaut
-packFolder: northernfertileregiontakheperu
 shortcode: tamiyrajat
 type: being
 data:
@@ -41,6 +40,7 @@ data:
     complexion: null
     extra_features:
       - a faint scar on the left side of the neck
+  packFolder: northernfertileregiontakheperu
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }

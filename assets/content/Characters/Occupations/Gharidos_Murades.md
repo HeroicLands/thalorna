@@ -10,7 +10,6 @@ name:
   clan: Mûrâdês
   home: korinthea2
   aliases: []
-packFolder: helladhelionis
 shortcode: ghardsmrds
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: medium
     complexion: bronzed
     extra_features: []
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 17 } }

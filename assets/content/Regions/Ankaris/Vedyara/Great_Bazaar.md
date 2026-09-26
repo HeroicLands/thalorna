@@ -12,11 +12,11 @@ data:
   parents:
     - chandrapur2
   population: null
+  packFolder: vedyara
 name:
   full: The Great Bazaar
   aliases: []
 shortcode: greatbazaar
-packFolder: vedyara
 ---
 
 The **Great Bazaar** occupies the whole of the tenth district of [[place-chandrapur2|Chandrapur]], between the river stair and the customs house. It is a roofed ground rather than a building: a forest of stone piers carrying a tile roof over about nine acres, open on every side, with the assay hall, the weighing floor and the crown's counting rooms built solid at the northern end.

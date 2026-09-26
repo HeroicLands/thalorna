@@ -11,11 +11,11 @@ data:
   parents:
     - khasetimntnome
   population: 12000
+  packFolder: bordernomes
 name:
   full: Khaset
   aliases: []
 shortcode: khaset
-packFolder: bordernomes
 ---
 
 ## Overview

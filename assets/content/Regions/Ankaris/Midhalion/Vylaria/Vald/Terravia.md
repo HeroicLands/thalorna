@@ -10,11 +10,11 @@ data:
   parents:
     - vald
   population: 4000
+  packFolder: vylaria
 name:
   full: Terravia
   aliases: []
 shortcode: terravia
-packFolder: vylaria
 ---
 
 ## Overview

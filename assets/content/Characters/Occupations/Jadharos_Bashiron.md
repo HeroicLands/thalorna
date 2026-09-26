@@ -10,7 +10,6 @@ name:
   clan: Bâshirôn
   home: myrtillos
   aliases: []
-packFolder: helladhelionis
 shortcode: jdhrsbshrn
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: olive
     complexion: olive_toned
     extra_features: []
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

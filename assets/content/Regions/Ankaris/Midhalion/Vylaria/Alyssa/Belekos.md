@@ -11,11 +11,11 @@ data:
   parents:
     - alyssa
   population: 25000
+  packFolder: vylaria
 name:
   full: Belekos
   aliases: []
 shortcode: belekos
-packFolder: vylaria
 ---
 
 ## Overview

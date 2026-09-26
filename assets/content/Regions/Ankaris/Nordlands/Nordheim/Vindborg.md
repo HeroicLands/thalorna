@@ -11,9 +11,9 @@ data:
   parents:
     - nordheim
   population: 200
+  packFolder: nordheim
 name:
   full: Vindborg
   aliases: []
 shortcode: vindborg
-packFolder: nordheim
 ---

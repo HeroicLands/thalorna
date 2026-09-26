@@ -12,7 +12,6 @@ name:
   aliases:
     - the Shaper
   home: null
-packFolder: ankarisvrystwald
 shortcode: valdrkshpr
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: light
     complexion: freckled
     extra_features: []
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }

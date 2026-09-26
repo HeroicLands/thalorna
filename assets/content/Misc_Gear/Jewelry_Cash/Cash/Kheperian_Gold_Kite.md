@@ -10,6 +10,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: 0
+  packFolder: cash
 sohl:
   craft:
     skill: mtlc
@@ -20,7 +21,6 @@ sohl:
     valueBase: 96
     qualityBase: 0
     durabilityBase: 3
-packFolder: cash
 ---
 
 A gold piece at one kite—a tenth of a deben—sealed and marked as the larger pieces are. The formal registers call the unit a qedét; ordinary speech calls it a kite, and the two mean the same mass.

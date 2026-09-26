@@ -11,11 +11,11 @@ data:
   parents:
     - vald
   population: 50000
+  packFolder: vylaria
 name:
   full: Mercavia
   aliases: []
 shortcode: mercavia
-packFolder: vylaria
 ---
 
 ## Overview

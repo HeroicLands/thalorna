@@ -10,7 +10,6 @@ name:
   clan: Sūryatejamahānanda
   home: vyalendra3
   aliases: []
-packFolder: ankarisvedyara
 shortcode: nrvsrytjmhnnd
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a compass on the chest
+  packFolder: ankarisvedyara
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

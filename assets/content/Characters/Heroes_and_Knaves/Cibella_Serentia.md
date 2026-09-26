@@ -9,7 +9,6 @@ name:
   given: Cibella
   clan: Serentia
   aliases: []
-packFolder: midhalionvylaria
 shortcode: cibelasrnt
 type: being
 data:
@@ -41,6 +40,7 @@ data:
       - startlingly beautiful
       - unnervingly still gaze
       - moves with an uncanny grace
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

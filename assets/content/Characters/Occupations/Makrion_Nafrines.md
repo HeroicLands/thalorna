@@ -10,7 +10,6 @@ name:
   clan: Nâfrinês
   home: thyrenae2
   aliases: []
-packFolder: helladhelionis
 shortcode: makrinfrns
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: smooth
     extra_features:
       - a scar on the right hand
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

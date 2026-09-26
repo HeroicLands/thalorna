@@ -103,7 +103,7 @@ data:
     - firstgods
   relations:
     firstgods: aligned
-packFolder: pantheonsfirstgods
+  packFolder: pantheonsfirstgods
 sohl:
   system:
     commonSkills:

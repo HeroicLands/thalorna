@@ -11,7 +11,6 @@ name:
   clan: Hafringr
   home: drekavik
   aliases: []
-packFolder: ankarisnordlands
 shortcode: gnvrhfrngr
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: pale
     complexion: fair
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

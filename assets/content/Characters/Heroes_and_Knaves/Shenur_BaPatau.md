@@ -12,7 +12,6 @@ name:
   home: ankhsetun
   aliases:
     - Shenur Bapata
-packFolder: northernfertileregiontakheperu
 shortcode: shenurbapt
 type: being
 data:
@@ -41,6 +40,7 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a serpent on the back
+  packFolder: northernfertileregiontakheperu
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

@@ -83,6 +83,7 @@ data:
     mtrrchybth: aligned
     vylarinmpr: nemesis
     empirtkhpr: aligned
+  packFolder: bethua
 name:
   full: The Bethûan Fleet
   aliases:
@@ -90,7 +91,6 @@ name:
     - The Veiled Sails
     - Navy of Bethûa
 shortcode: bethuanflt
-packFolder: bethua
 sohl:
   system:
     commonSkills:

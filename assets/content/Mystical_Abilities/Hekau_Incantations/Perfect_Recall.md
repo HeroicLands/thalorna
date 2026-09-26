@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: rensesh
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: rensesh
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 The scribal foundation, taught to every Wab of the House in their first season and to a good many

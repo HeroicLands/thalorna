@@ -13,11 +13,11 @@ data:
   parents:
     - meridiana
   population: 45000
+  packFolder: provenzia
 name:
   full: Válaren City
   aliases: []
 shortcode: valarencity
-packFolder: provenzia
 ---
 
 **Válaren** stands on the warm southern shore, on the [[place-vylarianse|Vylarian Sea]], and is the

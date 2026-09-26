@@ -11,11 +11,11 @@ data:
   parents:
     - imetpenome
   population: 45000
+  packFolder: deltanomes
 name:
   full: Imet
   aliases: []
 shortcode: imet
-packFolder: deltanomes
 ---
 
 ## Overview

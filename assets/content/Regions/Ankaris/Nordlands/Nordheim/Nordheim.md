@@ -15,7 +15,7 @@ data:
   parents:
     - nrdlndsrgn
   population: 650000
-packFolder: nordheim
+  packFolder: nordheim
 ---
 
 ## Overview

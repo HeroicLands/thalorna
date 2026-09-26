@@ -97,7 +97,7 @@ data:
     hvarnguides: aligned
     svapnasarisamaja: aligned
     mrchntclctvvdyr: unaligned
-packFolder: vedyara
+  packFolder: vedyara
 sohl:
   system:
     commonSkills:

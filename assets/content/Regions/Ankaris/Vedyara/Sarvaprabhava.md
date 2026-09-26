@@ -13,11 +13,11 @@ data:
     - graznmntns
     - sthrnwall
   population: null
+  packFolder: vedyara
 name:
   full: Sarvaprabhava
   aliases: []
 shortcode: sarvaprbhv
-packFolder: vedyara
 ---
 
 **Sarvaprabhava** is the source of the [[place-sarvadarivr|Sarvada]], in a hanging valley on the face of [[place-sthrnwall|the Southern Wall]] east of [[place-suryadvara|Sūryadvāra]]. It is the second of the four cosmic sources and the one fewest pilgrims see, because the last two days of the approach are a stair cut in rock and there is no way to carry anybody up it.

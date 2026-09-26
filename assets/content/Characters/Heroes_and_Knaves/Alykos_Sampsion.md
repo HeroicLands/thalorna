@@ -11,7 +11,6 @@ name:
   clan: Sampsiôn
   home: selimara
   aliases: []
-packFolder: helladbyzaria
 shortcode: alykosmpsn
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: light
     complexion: tanned
     extra_features: []
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

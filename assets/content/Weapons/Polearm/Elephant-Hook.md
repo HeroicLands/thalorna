@@ -9,6 +9,7 @@ type: weapongear
 data:
   icon: icon-polearm
   templatePriority: null
+  packFolder: weapons
 sohl:
   kbcat: polearm
   weaponType: Polearm
@@ -106,7 +107,6 @@ sohl:
         defense:
           blockMod: 0
           counterstrikeMod: 0
-packFolder: weapons
 ---
 
 A short iron spike backed by a blunt hook, set on a haft no longer than a man's arm and bound with rawhide for a grip that will not slip when wet. It is the mahout's everyday tool—the spike for direction, the hook for purchase behind an elephant's ear when a word will not do—and every kingdom that fields elephants keeps a supply of them coming out of the same smithies that arm the hosts.

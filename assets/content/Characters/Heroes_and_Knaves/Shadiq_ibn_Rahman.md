@@ -12,7 +12,6 @@ name:
   home: karatas2
   aliases:
     - The Diplomatic Blade Dancer
-packFolder: helladbyzaria
 shortcode: shdqbnrhmndplmtcblddncr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: dark
     complexion: null
     extra_features: []
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

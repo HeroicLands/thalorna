@@ -10,6 +10,7 @@ subType: arcaneincantation
 data:
   icon: icon-circle
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: kentra
@@ -18,9 +19,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Tap
-packFolder: spells
+
+# hmk:
+#   name: Tap
 ---
 
 The caster establishes a delicate connection with an existing magical construct—an enchanted weapon, an active ward, a ritual circle still humming with residual power—and siphons a thin stream of energy from it. Unlike the more aggressive Drain, Tap draws only what the source can spare, leaving the original magic functional but slightly diminished. The borrowed energy flows into the caster's reserves, available for immediate use or storage.

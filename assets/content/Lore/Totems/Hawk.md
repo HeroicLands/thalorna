@@ -10,9 +10,9 @@ name:
   aliases:
     - Hawk Totem
 shortcode: hawkttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-hawktotem|Hawk]]{float: top-left, size: medium}

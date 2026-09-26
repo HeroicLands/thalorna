@@ -11,6 +11,7 @@ subType: language
 data:
   icon: icon-speaking
   templatePriority: null
+  packFolder: language
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -19,8 +20,7 @@ sohl:
     combatCategory: none
     parentSkillCode: lang
     initSkillMult: 0
-packFolder: language
-flags:
-  "thalorna":
-    lang_family: null
+  flags:
+    "thalorna":
+      lang_family: null
 ---

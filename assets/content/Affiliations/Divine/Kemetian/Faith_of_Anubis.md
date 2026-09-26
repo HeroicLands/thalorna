@@ -80,12 +80,12 @@ data:
     - kemtnpnthn
   relations:
     kemtnpnthn: aligned
+  packFolder: pantheonskemetian
 name:
   full: Faith of Ánubís
   aliases:
     - Ánubís, The Keeper of Transitions
 shortcode: anubis
-packFolder: pantheonskemetian
 sohl:
   system:
     commonSkills: []

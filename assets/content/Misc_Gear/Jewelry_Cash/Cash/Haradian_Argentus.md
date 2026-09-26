@@ -10,6 +10,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: 0
+  packFolder: cash
 sohl:
   craft:
     skill: mtlc
@@ -20,7 +21,6 @@ sohl:
     valueBase: 1
     qualityBase: 0
     durabilityBase: 3
-packFolder: cash
 ---
 
 Struck by the Bayt al-Khazînah to the full imperial standard weight and alloy. Unlike the Confederation's gold, this coin carries no discount anywhere silver is taken as silver, and it circulates as readily in imperial territory as at home.

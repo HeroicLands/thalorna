@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: khatnu
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: khatnu
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 The working every quarry, temple site and tomb in the empire runs on, and the reason Kheperi

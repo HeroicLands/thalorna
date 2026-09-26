@@ -9,7 +9,6 @@ name:
   given: Loris
   clan: Taravel
   aliases: []
-packFolder: adventures
 shortcode: loristaravel
 type: being
 data:
@@ -23,6 +22,7 @@ data:
     - kingdmdnvr
   gender: male
   species: humanflk
+  packFolder: adventures
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

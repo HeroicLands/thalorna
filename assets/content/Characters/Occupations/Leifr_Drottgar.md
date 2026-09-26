@@ -10,7 +10,6 @@ name:
   clan: Dróttgar
   home: frostmark
   aliases: []
-packFolder: ankarisnordlands
 shortcode: leifrdrtgr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: ruddy
     extra_features:
       - a scar on the right cheek
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

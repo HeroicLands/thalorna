@@ -83,6 +83,7 @@ data:
     - kemtnpnthn
   relations:
     kemtnpnthn: aligned
+  packFolder: pantheonskemetian
 name:
   full: Faith of Thōth
   aliases:
@@ -91,7 +92,6 @@ name:
     - Thaut
     - The Scribe of the Eternal Library
 shortcode: thoth
-packFolder: pantheonskemetian
 sohl:
   system:
     commonSkills: []

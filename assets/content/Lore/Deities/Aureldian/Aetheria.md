@@ -7,5 +7,6 @@ name:
   full: Aethería
   aliases: []
 shortcode: theriadty
-packFolder: deitiesaureldian
+data:
+  packFolder: deitiesaureldian
 ---

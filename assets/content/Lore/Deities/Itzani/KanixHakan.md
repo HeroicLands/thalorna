@@ -7,5 +7,6 @@ name:
   full: K'anix Ha'kan
   aliases: []
 shortcode: kanixhakandty
-packFolder: deitiesitzani
+data:
+  packFolder: deitiesitzani
 ---

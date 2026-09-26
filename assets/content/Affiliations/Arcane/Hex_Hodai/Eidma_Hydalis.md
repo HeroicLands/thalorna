@@ -86,17 +86,18 @@ data:
     pyrethos: nemesis
     sideros: aligned
     physera: aligned
+  packFolder: affiliationshexhodai
 shortcode: hydalis
 name:
   full: Hydälis
   aliases:
     - Eídma Hydälis
-thalorna:
-  school: water
-packFolder: affiliationshexhodai
 sohl:
   system:
     commonSkills: []
+
+# thalorna:
+#   school: water
 ---
 
 Eídma **Hydälis** is the school of cold, flow, healing, and transformation through adaptation. It sits at the lower-left vertex of the [[lore-hexhodai|Sigillum]], directly opposite [[affiliation-pyrethos|Eídma Pyréthos]]. Where Fire transforms by destroying, Water transforms by _becoming_—by adapting, yielding, absorbing, and reshaping. Hydälis practitioners are the Ordo's healers, its diviners, and its most patient diplomats.

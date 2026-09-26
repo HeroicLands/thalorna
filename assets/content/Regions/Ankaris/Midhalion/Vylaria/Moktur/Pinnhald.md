@@ -10,11 +10,11 @@ data:
   parents:
     - moktur
   population: 3000
+  packFolder: vylaria
 name:
   full: Pinnhald
   aliases: []
 shortcode: pinnhald
-packFolder: vylaria
 ---
 
 ## Overview

@@ -12,7 +12,6 @@ name:
   home: meruhotep
   aliases:
     - Totkar HetWera
-packFolder: northernfertileregiontakheperu
 shortcode: totkarhtwr
 type: being
 data:
@@ -41,6 +40,7 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a leaf on the wrist
+  packFolder: northernfertileregiontakheperu
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

@@ -11,7 +11,6 @@ name:
   clan: Ôrchârenîs
   home: aelissium
   aliases: []
-packFolder: midhalionvylaria
 shortcode: hrphsrchrns
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: medium
     complexion: tanned
     extra_features: []
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

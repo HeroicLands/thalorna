@@ -11,7 +11,6 @@ name:
   clan: Tamârân
   home: shamsun
   aliases: []
-packFolder: sultanateofamradad
 shortcode: fakhrdtmrn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: ruddy
     extra_features:
       - a scar on the right hand
+  packFolder: sultanateofamradad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

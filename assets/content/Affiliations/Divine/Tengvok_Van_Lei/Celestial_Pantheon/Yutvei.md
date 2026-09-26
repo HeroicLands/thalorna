@@ -117,7 +117,7 @@ data:
     - tngvkvnlei
   relations:
     tanvurempr: aligned
-packFolder: celestialpantheon
+  packFolder: celestialpantheon
 sohl:
   system:
     commonSkills: []

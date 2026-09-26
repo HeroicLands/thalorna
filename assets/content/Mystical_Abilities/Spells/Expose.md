@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-circle
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: kentra
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Reveal
-packFolder: spells
+
+# hmk:
+#   name: Reveal
 ---
 
 The caster's eyes take on a faint silvery sheen as they speak a word of unveiling, and the world shifts subtly in their perception. Illusions grow translucent, revealing the mundane reality beneath. Invisible creatures appear as faint outlines wreathed in the telltale shimmer of whatever magic conceals them. Hidden magical traps reveal themselves as pulsing knots of constrained energy, their trigger mechanisms laid bare.

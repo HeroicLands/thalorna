@@ -7,7 +7,8 @@ name:
   full: Íšét
   aliases: []
 shortcode: isetdty
-packFolder: deitieskemetian
+data:
+  packFolder: deitieskemetian
 ---
 
 ![[icon-iset|Íšét]]{float: top-left, size: medium}

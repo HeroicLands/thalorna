@@ -10,6 +10,7 @@ subType: birthsign
 data:
   icon: icon-astrology
   templatePriority: 0
+  packFolder: astrokyklos
 sohl:
   kbcat: birthsign
   system:
@@ -37,7 +38,6 @@ sohl:
       "subType:social": 5
       water: 5
       hydalis: 5
-packFolder: astrokyklos
 ---
 
 Belos, the Lamp, is the seer's sign. Its natives incline to the arcane and the antiquarian, keepers of lore and quiet counsel, while the maker's crafts and the disciplines of steel remain foreign to them.

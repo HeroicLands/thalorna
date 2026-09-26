@@ -12,6 +12,7 @@ name:
 data:
   icon: rensesh
   templatePriority: null
+  packFolder: khemenuhekau
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"
@@ -20,7 +21,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: khemenuhekau
 ---
 
 See [[affiliation-rensesh|Per-Ren'sesh]]

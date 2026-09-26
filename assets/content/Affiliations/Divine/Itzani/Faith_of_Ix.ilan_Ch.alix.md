@@ -11,7 +11,6 @@ name:
     - The Sacred Star
     - "Ix'ilan Ch'alix"
 shortcode: ixilanchalix
-packFolder: pantheonitzani
 data:
   banner: faithbnr
   icon: null
@@ -121,6 +120,7 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
+  packFolder: pantheonitzani
 sohl:
   system:
     commonSkills:

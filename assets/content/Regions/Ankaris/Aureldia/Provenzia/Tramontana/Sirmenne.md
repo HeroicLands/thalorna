@@ -13,12 +13,11 @@ data:
   parents:
     - tramontana
   population: null
+  packFolder: provenzia
 name:
   full: Sirmennë
   aliases: []
 shortcode: sirmenne
-renamedFrom: lhenavren
-packFolder: provenzia
 ---
 
 Deep in the borderlands between the [[place-provenzrgn|Provènzia Region]] and

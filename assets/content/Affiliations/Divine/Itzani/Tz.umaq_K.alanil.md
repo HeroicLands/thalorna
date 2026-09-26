@@ -109,13 +109,13 @@ data:
     tzuqilixbal: nemesis
     pikultzumaq: aligned
     pikob: rival
+  packFolder: pantheonitzani
 name:
   full: "Tz'umaq K'alanil"
   aliases:
     - The Serpent Awakeners
     - Serpent Awakeners
 shortcode: tzumaqkalanil
-packFolder: pantheonitzani
 sohl:
   system:
     commonSkills: []

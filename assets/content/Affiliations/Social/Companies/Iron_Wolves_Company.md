@@ -89,7 +89,6 @@ data:
   lore: []
   parents: []
   relations: {}
-subtype: social
 name:
   full: The Iron Wolves Company
   aliases:
@@ -99,6 +98,8 @@ shortcode: irnwlvscmpny
 sohl:
   system:
     commonSkills: []
+
+# subtype: social
 ---
 
 _Byzarian: Lupi Ferri_

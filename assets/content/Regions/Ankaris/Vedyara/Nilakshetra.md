@@ -12,9 +12,9 @@ data:
   parents:
     - suvarnagirijnpd
   population: 870
+  packFolder: vedyara
 name:
   full: Nīlakshetra
   aliases: []
 shortcode: nilakshetra
-packFolder: vedyara
 ---

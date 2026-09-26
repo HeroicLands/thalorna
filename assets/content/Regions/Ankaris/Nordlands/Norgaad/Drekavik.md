@@ -11,9 +11,9 @@ data:
   parents:
     - norgaad
   population: 200
+  packFolder: norgaad
 name:
   full: Drekavík
   aliases: []
 shortcode: drekavik
-packFolder: norgaad
 ---

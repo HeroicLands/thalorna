@@ -12,12 +12,12 @@ data:
   parents:
     - sarvaprbhv
   population: null
+  packFolder: vedyara
 name:
   full: The Vyālendra Source-Temple
   aliases:
     - The Sarvaprabhava Source-Temple
 shortcode: vyalsrctmp
-packFolder: vedyara
 ---
 
 The **Vyālendra source-temple** stands on the shelf at [[place-sarvaprbhv|Sarvaprabhava]], where the [[place-sarvadarivr|Sarvada]] comes out of the ice under the face of [[place-sthrnwall|the Southern Wall]]. It is the temple of [[affiliation-vyalendra|Vyālendra]] the Shaper, and its priests are masons, carpenters and surveyors who have taken orders. There is no scholar on the establishment and no library in the building.

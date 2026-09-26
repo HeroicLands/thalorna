@@ -9,6 +9,7 @@ type: weapongear
 data:
   icon: icon-bow
   templatePriority: null
+  packFolder: weapons
 sohl:
   kbcat: bow
   weaponType: Bow
@@ -106,7 +107,6 @@ sohl:
           noStrMod: false
           halfImpact: false
           lowAim: false
-packFolder: weapons
 ---
 
 Barely a yard unstrung and recurved hard enough to fight the string back into its case, the Swift Hand bow is built to be drawn from a moving horse with one hand while the other holds the reins. The academy that teaches it—the mounted-archery tradition, "sought by every Vedyari kingdom that fields cavalry"—takes a recruit only after he can already ride, and the bow itself is the smallest and most expensive thing the four academies of Dhanurkota sell.

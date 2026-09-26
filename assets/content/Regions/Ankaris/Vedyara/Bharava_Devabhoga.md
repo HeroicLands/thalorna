@@ -107,12 +107,13 @@ data:
     janpdsvdyr: unaligned
     mrchntclctvvdyr: rival
     gomarga: unaligned
-terran_analog: "Temple-estate tenure of the medieval Indian forest belt—devadana holdings under ordained managers, worked by forest-dwelling communities under licence and yielding resin, lac, hardwood and spice instead of land revenue"
-packFolder: vedyara
+  packFolder: vedyara
 sohl:
   system:
     commonSkills:
       - vedyarlng
+
+# terran_analog: "Temple-estate tenure of the medieval Indian forest belt—devadana holdings under ordained managers, worked by forest-dwelling communities under licence and yielding resin, lac, hardwood and spice instead of land revenue"
 ---
 
 The **Bhārava-Devabhoga** is the government of [[place-bharavavana|Bhāravavana]], the forest country of the lower [[place-bharavarivr|Bhārava]]. _Devabhoga_ is the god's portion: land given to a temple in perpetuity, out of which the temple is fed. Here the land given was forest, the gift was made many times over across fifteen centuries, and what accumulated is the only country in [[place-vedyarargn|Vedyara]] where no assembly sits and no sabhā meets.

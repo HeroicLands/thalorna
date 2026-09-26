@@ -10,7 +10,6 @@ name:
   clan: Damrûnî
   home: qadhirun
   aliases: []
-packFolder: midhalionharad
 shortcode: lamshrdmrn
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: medium
     complexion: weathered
     extra_features: []
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

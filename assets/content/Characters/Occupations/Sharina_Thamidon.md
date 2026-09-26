@@ -10,7 +10,6 @@ name:
   clan: Thâmîdon
   home: athenikos2
   aliases: []
-packFolder: helladhelionis
 shortcode: sharnthmdn
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: warm
     complexion: olive_toned
     extra_features: []
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

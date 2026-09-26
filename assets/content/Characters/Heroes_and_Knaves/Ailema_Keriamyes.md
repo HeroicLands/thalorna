@@ -11,7 +11,6 @@ name:
   clan: Kêrîamyês
   home: corvinus
   aliases: []
-packFolder: midhalionvylaria
 shortcode: ailemkrmys
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: light
     complexion: null
     extra_features: []
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

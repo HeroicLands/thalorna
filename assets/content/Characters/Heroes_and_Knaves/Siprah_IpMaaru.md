@@ -13,7 +13,6 @@ name:
   aliases:
     - Siprah Ipmaâr
     - Siprah Ipmaar
-packFolder: northernfertileregiontakheperu
 shortcode: siprahipmr
 type: being
 data:
@@ -42,6 +41,7 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a knight's helmet on the shoulder
+  packFolder: northernfertileregiontakheperu
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

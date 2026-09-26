@@ -10,7 +10,6 @@ name:
   clan: Brýlond
   home: fiordaure
   aliases: []
-packFolder: aureldiaprovenzia
 shortcode: oskrbrylnd
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: tanned
     extra_features:
       - a scar above the left eyebrow
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

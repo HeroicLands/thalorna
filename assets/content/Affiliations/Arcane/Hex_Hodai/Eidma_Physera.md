@@ -86,17 +86,18 @@ data:
     pneumenos: nemesis
     zepharis: aligned
     hydalis: aligned
+  packFolder: affiliationshexhodai
 shortcode: physera
 name:
   full: Physéra
   aliases:
     - Eídma Physéra
-thalorna:
-  school: earth
-packFolder: affiliationshexhodai
 sohl:
   system:
     commonSkills: []
+
+# thalorna:
+#   school: earth
 ---
 
 **Physéra** is the Eídma of stone, growth, endurance, the body, and all that is solid and rooted. It occupies the right vertex of the [[lore-hexhodai|Sigillum]], directly opposite [[affiliation-pneumenos|Pneuménos]]. Where Spirit reaches beyond the material, Earth insists on the primacy of what can be touched, tasted, grown, and built. Eídma Physéra is the largest of the six Sodalitates by membership—a fact its practitioners regard as entirely appropriate, since most of the world is, after all, made of earth.

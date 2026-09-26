@@ -11,11 +11,11 @@ data:
   parents:
     - tiravellake
   population: null
+  packFolder: provenzia
 name:
   full: Blood-field of Tiravlen
   aliases: []
 shortcode: bldfldtiravlen
-packFolder: provenzia
 ---
 
 On the shore of [[place-tiravellake|Lake Tiravel]], which gives it its name, lies the second of

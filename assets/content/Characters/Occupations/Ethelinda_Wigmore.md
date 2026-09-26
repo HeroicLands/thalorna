@@ -10,7 +10,6 @@ name:
   clan: Wigmore
   home: kingsholow
   aliases: []
-packFolder: aureldiaaelwyth
 shortcode: ethlndwgmr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: fair
     extra_features:
       - a tattoo of a snake wrapping around the leg
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

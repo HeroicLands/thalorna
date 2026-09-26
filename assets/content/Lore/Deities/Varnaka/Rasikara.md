@@ -7,7 +7,8 @@ name:
   full: Rásikara
   aliases: []
 shortcode: rasikaradty
-packFolder: deitiesvarnaka
+data:
+  packFolder: deitiesvarnaka
 ---
 
 _The Flame of Renewal—a lean, burning figure standing within a ring of broken chains._

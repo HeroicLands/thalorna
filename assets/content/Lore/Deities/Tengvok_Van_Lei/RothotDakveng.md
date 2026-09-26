@@ -7,5 +7,6 @@ name:
   full: Röthöt Dākvëng
   aliases: []
 shortcode: rthtdkvngdty
-packFolder: deitiestengvokvanlei
+data:
+  packFolder: deitiestengvokvanlei
 ---

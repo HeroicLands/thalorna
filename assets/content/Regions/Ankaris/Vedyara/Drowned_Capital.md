@@ -12,11 +12,11 @@ data:
   parents:
     - rajapurjnpd
   population: null
+  packFolder: vedyara
 name:
   full: The Drowned Capital
   aliases: []
 shortcode: drownedcptl
-packFolder: vedyara
 ---
 
 The **Drowned Capital** lies under the [[place-mahanadi|Mahānadi]] in the reach below [[place-rajapur|Rājapur]]. It was a royal seat of the Kingdom of Mahānadi, and the river took it when the channel moved.

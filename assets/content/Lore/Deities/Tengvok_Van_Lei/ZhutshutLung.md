@@ -7,5 +7,6 @@ name:
   full: Zhütshüt Lüng
   aliases: []
 shortcode: zhtshtlngdty
-packFolder: deitiestengvokvanlei
+data:
+  packFolder: deitiestengvokvanlei
 ---

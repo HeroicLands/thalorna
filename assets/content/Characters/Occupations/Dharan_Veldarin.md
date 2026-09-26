@@ -12,7 +12,6 @@ name:
   home: elanmere
   aliases:
     - Viriâhn Roderick Flamebearer
-packFolder: aureldiaelavendre
 shortcode: dharnvldrn
 type: being
 data:
@@ -43,6 +42,7 @@ data:
       - >-
         a brand of the Black Flame scarred into the skin above the heart, always concealed beneath
         clothing
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

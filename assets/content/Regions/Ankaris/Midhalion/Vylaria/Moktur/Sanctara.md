@@ -11,9 +11,9 @@ data:
   parents:
     - moktur
   population: 2000
+  packFolder: vylaria
 name:
   full: Sanctara
   aliases: []
 shortcode: sanctara
-packFolder: vylaria
 ---

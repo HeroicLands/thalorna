@@ -16,7 +16,7 @@ data:
   party:
     size: null
     archetypes: []
-packFolder: adventures
+  packFolder: adventures
 ---
 
 ## The Lost Relic of Ménavar Abbey

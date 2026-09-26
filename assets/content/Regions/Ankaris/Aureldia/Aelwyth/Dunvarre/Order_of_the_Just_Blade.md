@@ -22,11 +22,11 @@ data:
   parents:
     - arldnpnthn
   relations: {}
+  packFolder: aelwyth
 name:
   full: Order of the Just Blade
   aliases: []
 shortcode: justbladeordr
-packFolder: aelwyth
 sohl:
   system:
     commonSkills: []

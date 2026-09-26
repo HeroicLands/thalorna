@@ -11,7 +11,6 @@ name:
   clan: Thut'Mosau
   home: ankhsetun
   aliases: []
-packFolder: northernfertileregiontakheperu
 shortcode: shebsthtms
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: null
     extra_features:
       - a scar on the left arm
+  packFolder: northernfertileregiontakheperu
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

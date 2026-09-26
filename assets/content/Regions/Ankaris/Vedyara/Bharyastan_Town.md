@@ -14,11 +14,11 @@ data:
     - vedyarargn
   population: 3000
   market: 3
+  packFolder: vedyara
 name:
   full: Bharyastān
   aliases: []
 shortcode: bharyastan2
-packFolder: vedyara
 ---
 
 **Bharyastān** (3,000, market 3) is the capital of [[affiliation-bharyastan|the kingdom of Bharyastān]] and the only town in it. It stands on a shelf of level ground where the tracks out of the eight valleys come together, two days above the plain and a day and a half from the gold mountain of [[affiliation-suvrgrjnpd|Suvarnagiri]].

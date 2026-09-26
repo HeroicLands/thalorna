@@ -11,7 +11,6 @@ name:
   home: frostmark
   aliases:
     - Lysandra Aetherwind
-packFolder: ankarisnordlands
 shortcode: hlvgstrmrt
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: light
     complexion: clear
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

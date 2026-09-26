@@ -8,7 +8,8 @@ name:
   full: Ragnarok
   aliases: []
 shortcode: ragnarok
-packFolder: nordlands
+data:
+  packFolder: nordlands
 ---
 
 The Nordlands' account of the end—the doom the Asguardian gods are held to be moving toward, and against which the whole tradition is arranged.

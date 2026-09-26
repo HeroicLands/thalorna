@@ -17,12 +17,12 @@ data:
     - { to: suryagarha, bearing: S, mode: land, days: 20, terrain: [ice, mountains, road] }
     - { to: khzryndsrtrgn, bearing: N, mode: land, days: 30, terrain: [mountains, ice, desert] }
     - { to: tanvuregin, bearing: NE, mode: land, days: 30, terrain: [mountains, ice, steppe] }
+  packFolder: vedyara
 name:
   full: Sūryadvāra
   aliases:
     - The Sun-Door
 shortcode: suryadvara
-packFolder: vedyara
 ---
 
 **Sūryadvāra** is the greatest of the northern passes and the only one whose season is long enough to be called a season. It leaves the terraces beneath the walls of [[place-suryagarha|Sūryāgarha]], climbs the western flank of [[place-suryashkhr|Sūryashikhara]], and twenty days above the fortress reaches the fork where the road divides: north for the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]] and the Celestial Road beyond, north-east by the longer branch for the western frontier of [[place-tanvuregin|Tānvür]]. From the fork it is thirty days to either end.

@@ -11,11 +11,11 @@ data:
   parents:
     - hutptahresunome
   population: 36000
+  packFolder: upperrivernomes
 name:
   full: Hut-Ptah
   aliases: []
 shortcode: hutptah
-packFolder: upperrivernomes
 ---
 
 ## Overview

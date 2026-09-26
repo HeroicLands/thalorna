@@ -9,7 +9,8 @@ name:
     - Élavendren
     - Élavendri
 shortcode: elavendrnppl
-packFolder: elavendre
+data:
+  packFolder: elavendre
 ---
 
 The **Élavendren** are the settled, courtly people of [[place-elavendre|Élavendre]]—the kingdom's

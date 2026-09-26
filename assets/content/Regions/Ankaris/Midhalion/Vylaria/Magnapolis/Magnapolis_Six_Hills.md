@@ -12,6 +12,6 @@ data:
   parents:
     - magnapolis
   population: null
+  packFolder: vylaria
 shortcode: sixhillsvyl
-packFolder: vylaria
 ---

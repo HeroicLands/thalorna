@@ -11,7 +11,6 @@ name:
   clan: Eldskari
   home: stormveil
   aliases: []
-packFolder: aureldiaaelwyth
 shortcode: thorrldskr
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: tanned
     extra_features:
       - scar across forehead
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 13 } }

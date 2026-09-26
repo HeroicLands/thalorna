@@ -8,7 +8,8 @@ name:
   aliases:
     - The Schism
 shortcode: vulcanischism
-packFolder: aureldia
+data:
+  packFolder: aureldia
 ---
 
 **Vúlcan** the Forge-Lord holds both aspects of flame at once—the forge that shapes and the inferno

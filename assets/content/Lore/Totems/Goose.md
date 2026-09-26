@@ -10,9 +10,9 @@ name:
   aliases:
     - Goose Totem
 shortcode: goosettm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-goosetotem|Goose]]{float: top-left, size: medium}

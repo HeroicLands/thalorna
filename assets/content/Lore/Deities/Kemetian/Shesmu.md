@@ -7,7 +7,8 @@ name:
   full: Shesmu
   aliases: []
 shortcode: shesmudty
-packFolder: deitieskemetian
+data:
+  packFolder: deitieskemetian
 ---
 
 _Patron of the Hunt._

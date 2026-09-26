@@ -116,7 +116,7 @@ data:
     kingdmtrgd: unaligned
     kngdmvthgrd: unaligned
     kngdmlvndr: unaligned
-packFolder: malagna
+  packFolder: malagna
 sohl:
   system:
     commonSkills:

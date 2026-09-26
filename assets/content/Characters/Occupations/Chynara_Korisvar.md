@@ -10,7 +10,6 @@ name:
   clan: Kórisvar
   home: chastelclr
   aliases: []
-packFolder: aureldiaprovenzia
 shortcode: chynrkrsvr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: clear
     extra_features:
       - a scar on the lower abdomen
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

@@ -11,9 +11,9 @@ data:
   parents:
     - nartumkngdm
   population: 60000
+  packFolder: vylaria
 name:
   full: Nartûm
   aliases: []
 shortcode: nartum
-packFolder: vylaria
 ---

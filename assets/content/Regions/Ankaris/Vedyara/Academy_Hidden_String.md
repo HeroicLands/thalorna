@@ -12,11 +12,11 @@ data:
   parents:
     - dhanurkotajnpd
   population: null
+  packFolder: vedyara
 name:
   full: The Academy of the Hidden String
   aliases: []
 shortcode: hiddenstring
-packFolder: vedyara
 ---
 
 The **Academy of the Hidden String** teaches ambush and concealment archery. Its graduates serve as scouts and on the operations a kingdom does not name in its dispatches, and it is the hardest of the four halls to get into and the hardest to recruit out of.

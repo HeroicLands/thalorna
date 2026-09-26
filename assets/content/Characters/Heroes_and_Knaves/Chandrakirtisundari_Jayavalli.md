@@ -10,7 +10,6 @@ name:
   clan: Jayavalli
   home: vyalendra3
   aliases: []
-packFolder: ankarisvedyara
 shortcode: chndrkrtsndrjyvl
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: dark
     complexion: null
     extra_features: []
+  packFolder: ankarisvedyara
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

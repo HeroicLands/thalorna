@@ -11,11 +11,11 @@ data:
   parents:
     - vald
   population: 7000
+  packFolder: vylaria
 name:
   full: Korsvik
   aliases: []
 shortcode: korsvik
-packFolder: vylaria
 ---
 
 ## Overview

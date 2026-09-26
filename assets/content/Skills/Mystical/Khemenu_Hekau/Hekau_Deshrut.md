@@ -12,6 +12,7 @@ name:
 data:
   icon: deshrut
   templatePriority: null
+  packFolder: khemenuhekau
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"
@@ -20,7 +21,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: khemenuhekau
 ---
 
 See [[affiliation-deshrut|Per-Deshr'ut]]

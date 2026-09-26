@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-divination
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: pneumenos
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Thought
-packFolder: spells
+
+# hmk:
+#   name: Thought
 ---
 
 The caster projects a concentrated burst of mental energy directly into the target's consciousness—not a message but a raw pulse of psychic force that disrupts whatever thoughts were currently in progress. The target experiences a blinding flash of white noise behind their eyes, a moment of total cognitive disruption during which they cannot think, speak, or act purposefully. The sensation is intensely unpleasant, like a thunderclap inside the skull.

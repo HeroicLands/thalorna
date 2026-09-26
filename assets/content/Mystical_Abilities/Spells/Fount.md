@@ -10,6 +10,7 @@ subType: arcaneincantation
 data:
   icon: icon-circle
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: kentra
@@ -18,9 +19,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Fount
-packFolder: spells
+
+# hmk:
+#   name: Fount
 ---
 
 The caster anchors a wellspring of ambient arcane energy to a fixed point, drawing scattered magical currents together into a concentrated, slowly rotating nexus visible as a soft luminous glow to those with magical sight. Practitioners who meditate within the fount's radius find their depleted reserves replenishing at an accelerated rate, the concentrated energy flowing into them like warmth from a hearth.

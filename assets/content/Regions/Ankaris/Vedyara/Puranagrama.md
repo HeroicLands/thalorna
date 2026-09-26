@@ -12,9 +12,9 @@ data:
   parents:
     - rajapurjnpd
   population: 410
+  packFolder: vedyara
 name:
   full: Purānagrāma
   aliases: []
 shortcode: puranagrama
-packFolder: vedyara
 ---

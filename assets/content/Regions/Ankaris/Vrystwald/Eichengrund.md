@@ -11,9 +11,9 @@ data:
   parents:
     - vrystwald
   population: 250
+  packFolder: vrystwald
 name:
   full: Eichengrund
   aliases: []
 shortcode: eichengrnd
-packFolder: vrystwald
 ---

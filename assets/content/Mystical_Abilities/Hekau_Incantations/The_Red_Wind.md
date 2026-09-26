@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: deshrut
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: deshrut
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 Defensive far more often than offensive: turning a storm off a caravan, a quarry-camp or a water-

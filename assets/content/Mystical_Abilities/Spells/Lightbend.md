@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-wind
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: zepharis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Prism
-packFolder: spells
+
+# hmk:
+#   name: Prism
 ---
 
 The caster holds up a hand and rotates it slowly; the air before them fractures into a prismatic array, splitting ambient light into a dazzling fan of spectral colors that sweeps across the target area like a lighthouse beam. Those caught in the kaleidoscopic wash find their depth perception shattered—distances seem to compress and stretch, stationary objects appear to wobble, and the ground underfoot seems to tilt at impossible angles. The effect is not painful but profoundly disorienting, reducing coordinated action to a lurching, overcorrecting stumble.

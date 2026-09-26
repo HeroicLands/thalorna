@@ -85,13 +85,13 @@ data:
     - ashanpnthn
   relations:
     ashanpnthn: aligned
+  packFolder: ashaian
 name:
   full: Faith of Zúráthrä
   aliases:
     - Mother of the Oasis
+    - Zúráthrä, Mother of the Oasis
 shortcode: zurathra
-alias: Zúráthrä, Mother of the Oasis
-packFolder: ashaian
 sohl:
   system:
     commonSkills: []

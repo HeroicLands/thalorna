@@ -11,7 +11,6 @@ name:
   clan: Sköllbrandr
   home: haukstad
   aliases: []
-packFolder: ankarisnordlands
 shortcode: mgnsklbrndr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: light
     complexion: weathered
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-tree
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: physera
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Decay
-packFolder: spells
+
+# hmk:
+#   name: Decay
 ---
 
 The caster chooses one of two modes at the moment of spellfire, each channeling the entropic aspect of Physéra to accelerate natural deterioration. When directed at a living creature, the spell doubles all Healing Periods for physical trauma for one round, functioning as a virulent disease in its own right with its own Healing Rate and a five-day period. Targets resist by testing Spirit at a success level higher than the caster's; those who fail find their wounds stubbornly refusing to close, infections blooming with alarming speed, and even minor scratches festering as though left untreated for days.

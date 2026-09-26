@@ -12,7 +12,6 @@ name:
   home: greyfjord
   aliases:
     - Darius Thornveil
-packFolder: ankarisnordlands
 shortcode: thrrjrnskl
 type: being
 data:
@@ -41,6 +40,7 @@ data:
     complexion: ruddy
     extra_features:
       - a tattoo of a dolphin on the left wrist
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }

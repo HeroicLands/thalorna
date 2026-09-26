@@ -19,8 +19,9 @@ data:
     - { to: takheperurgn, bearing: SE }
     - { to: dunharargn, bearing: E }
   population: null
-terran_analog: The Mediterranean Sea
-packFolder: midhalion
+  packFolder: midhalion
+
+# terran_analog: The Mediterranean Sea
 ---
 
 The Vylarian Sea is the great inland sea at the heart of [[place-midhalnrgn|Mídhalión]]—the body of water around which the central civilizations of Thalorna have arranged themselves for three thousand years. Enclosed by [[place-ankrscntnnt|Ankaris]] to the north and [[place-xerathia|Xerathia]] to the south, and open to the ocean only through a narrow western strait, the sea is simultaneously a highway, a frontier, a marketplace, and a battleground. Every empire that has sought to dominate the central continents has sought first to dominate it, and every successor-state of the [[affiliation-vylarinmpr|Vylarian Empire]] defines itself in part by its relationship to these waters.

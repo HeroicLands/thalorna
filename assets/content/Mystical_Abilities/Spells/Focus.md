@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-wind
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: zepharis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Lens
-packFolder: spells
+
+# hmk:
+#   name: Lens
 ---
 
 The caster pinches thumb and forefinger together, and the air between them compresses into an invisible lens of shaped wind that bends passing light to a needle-fine point. Held over a page, the lens magnifies script too small for the naked eye; aimed at distant terrain, it brings faraway details into crisp relief as though viewed from paces away. When directed at strong sunlight, the focal point concentrates enough heat to char parchment, ignite dry tinder, or blister exposed skin—a trick that has more than once served as a last-resort weapon.

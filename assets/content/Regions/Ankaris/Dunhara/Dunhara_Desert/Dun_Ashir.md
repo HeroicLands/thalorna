@@ -11,9 +11,9 @@ data:
   parents:
     - dunhardsrtrgn
   population: 1200
+  packFolder: dunharadesert
 name:
   full: Dûn Ashir
   aliases: []
 shortcode: dunashir
-packFolder: dunharadesert
 ---

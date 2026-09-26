@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-wind
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: zepharis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Figure
-packFolder: spells
+
+# hmk:
+#   name: Figure
 ---
 
 The caster inscribes a sigil in the air with trailing fingers of luminescence, and the sigil collapses inward, drawing surrounding currents of wind and ambient light into a vaguely humanoid shape that solidifies into a translucent, radiant entity. The construct moves with fluid grace, its limbs trailing ribbons of condensed air and its eyes burning with pale foxfire. It obeys the caster's spoken or mental commands, capable of carrying objects, delivering messages, scouting terrain, or engaging foes with buffeting wind-strikes that hit with surprising force.

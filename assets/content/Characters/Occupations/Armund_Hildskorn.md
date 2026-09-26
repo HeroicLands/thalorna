@@ -10,7 +10,6 @@ name:
   clan: Hildskorn
   home: falkensten
   aliases: []
-packFolder: ankarisvrystwald
 shortcode: armndhldskrn
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: fair
     complexion: freckled
     extra_features: []
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

@@ -14,11 +14,11 @@ data:
     - sthrnwall
   population: 380
   market: 2
+  packFolder: vedyara
 name:
   full: Tsökhar
   aliases: []
 shortcode: tsokhar
-packFolder: vedyara
 ---
 
 **Tsökhar** sits in a high valley between [[place-meghadvara|Meghadvāra]] and [[place-gudesroad|the Guides' Road]], on the only ground in the western wall that will carry a herd through a winter. Three hundred and eighty people live there. It has a weekly market in the open season, a smith, and nothing else a lowlander would call a trade.

@@ -12,7 +12,6 @@ name:
   home: ankhsetun
   aliases:
     - The Exiled Priest
-packFolder: northernfertileregiontakheperu
 shortcode: hotepanu
 type: being
 data:
@@ -44,6 +43,7 @@ data:
         Feather-of-Má'át tattoos on both forearms, ritually scored through with the temple's
         mark of expulsion
       - Deep horizontal scar across the left palm from the exile branding
+  packFolder: northernfertileregiontakheperu
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

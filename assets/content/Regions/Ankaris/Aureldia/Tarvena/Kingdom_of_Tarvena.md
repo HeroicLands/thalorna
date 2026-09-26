@@ -169,12 +169,13 @@ data:
     frctyvlthr: unaligned
     frtrtryskrth: unaligned
     vylarinmpr: nemesis
-terran_analog: "Central Spain (including Andorra) and southeastern France up to the southern Alps—the senior of the four Tarvénan feudal kingdoms, holding the central plateau and the principal mountain passes."
-packFolder: tarvenia
+  packFolder: tarvenia
 sohl:
   system:
     commonSkills:
       - tarvenlng
+
+# terran_analog: "Central Spain (including Andorra) and southeastern France up to the southern Alps—the senior of the four Tarvénan feudal kingdoms, holding the central plateau and the principal mountain passes."
 ---
 
 ## Overview

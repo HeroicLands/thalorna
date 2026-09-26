@@ -10,7 +10,6 @@ name:
   clan: Bélthal
   home: cerdwnshlw
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: thornblthl
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: flawless
     extra_features:
       - a tattoo of a snake on the chest
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

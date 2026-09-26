@@ -5,7 +5,8 @@ name:
   full: Celestial Order
   aliases: []
 shortcode: celestlrdr
-packFolder: celestialorder
+data:
+  packFolder: celestialorder
 ---
 
 ## The Celestial Order of Tānvür

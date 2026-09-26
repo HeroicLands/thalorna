@@ -10,7 +10,6 @@ name:
   given: Brànwâal
   clan: Dôrgaar
   aliases: []
-packFolder: aureldiaprovenzia
 shortcode: branwldrgr
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: fair
     complexion: weathered
     extra_features: []
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

@@ -11,11 +11,11 @@ data:
   parents:
     - sauneferunome
   population: 12000
+  packFolder: sauneferu
 name:
   full: Tjebu
   aliases: []
 shortcode: tjebu
-packFolder: sauneferu
 ---
 
 ## Overview

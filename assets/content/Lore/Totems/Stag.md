@@ -10,9 +10,9 @@ name:
   aliases:
     - Stag Totem
 shortcode: stagttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-stagtotem|Stag]]{float: top-left, size: medium}

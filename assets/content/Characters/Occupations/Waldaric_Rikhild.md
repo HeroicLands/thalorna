@@ -10,7 +10,6 @@ name:
   clan: Ríkhild
   home: grimholt
   aliases: []
-packFolder: ankarisvrystwald
 shortcode: wldrcrkhld
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: ruddy
     extra_features:
       - a tattoo of a fire on the leg
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

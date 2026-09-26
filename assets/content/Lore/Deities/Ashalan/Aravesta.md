@@ -7,5 +7,6 @@ name:
   full: Árávēštä
   aliases: []
 shortcode: aravestadty
-packFolder: deitiesashalan
+data:
+  packFolder: deitiesashalan
 ---

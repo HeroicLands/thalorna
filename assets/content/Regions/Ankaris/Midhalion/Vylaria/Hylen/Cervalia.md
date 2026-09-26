@@ -11,11 +11,11 @@ data:
   parents:
     - hylen
   population: 2500
+  packFolder: vylaria
 name:
   full: Cervalia
   aliases: []
 shortcode: cervalia
-packFolder: vylaria
 ---
 
 ## Overview

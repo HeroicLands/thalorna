@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-divination
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: pneumenos
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Wisdom
-packFolder: spells
+
+# hmk:
+#   name: Wisdom
 ---
 
 The caster enters a brief but intense meditative state, and the tangled complexity of their current situation suddenly simplifies. Irrelevant details fall away, core dynamics become apparent, and the likely consequences of various courses of action arrange themselves with unusual clarity. It is not prophecy or omniscience—the caster does not learn new facts—but rather a profound sharpening of judgment that allows them to see what they already know from the most productive perspective.

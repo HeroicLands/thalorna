@@ -11,7 +11,6 @@ name:
   clan: Balthhelm
   home: falkensten
   aliases: []
-packFolder: ankarisvrystwald
 shortcode: skldrblthlm
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: fair
     complexion: ruddy
     extra_features: []
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

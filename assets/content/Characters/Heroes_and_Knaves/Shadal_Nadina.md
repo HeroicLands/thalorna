@@ -11,7 +11,6 @@ name:
   clan: Nadina
   home: vashuran
   aliases: []
-packFolder: heroesandknaveskalihara
 shortcode: shadalnadn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: null
     extra_features:
       - a scar on the chin
+  packFolder: heroesandknaveskalihara
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

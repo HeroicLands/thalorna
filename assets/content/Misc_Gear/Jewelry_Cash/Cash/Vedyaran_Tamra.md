@@ -10,6 +10,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: 0
+  packFolder: cash
 sohl:
   craft:
     skill: mtlc
@@ -20,7 +21,6 @@ sohl:
     valueBase: 1
     qualityBase: 0
     durabilityBase: 3
-packFolder: cash
 ---
 
 The **tāmra** is copper, and every Vedyaran kingdom and city-state strikes it for itself. No single mint holds a monopoly on it, and a purse of tāmra from three different courts spends the same in any of them. It is the coin of bread, of a day-laborer's wage, of a market stall's small change, and most Vedyarans who are not merchants or priests handle nothing else.

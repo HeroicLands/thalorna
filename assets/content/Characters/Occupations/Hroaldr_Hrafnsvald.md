@@ -11,7 +11,6 @@ name:
   clan: Hrafnsvald
   home: thrymstead
   aliases: []
-packFolder: ankarisnordlands
 shortcode: hrldrhrfnsvld
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: fair
     complexion: weathered
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

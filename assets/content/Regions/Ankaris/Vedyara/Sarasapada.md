@@ -12,9 +12,9 @@ data:
   parents:
     - suvarnagirijnpd
   population: 840
+  packFolder: vedyara
 name:
   full: Sarasapāda
   aliases: []
 shortcode: sarasapada
-packFolder: vedyara
 ---

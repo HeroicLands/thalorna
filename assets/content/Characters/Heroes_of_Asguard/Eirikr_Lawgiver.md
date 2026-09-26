@@ -12,7 +12,6 @@ name:
   aliases:
     - Lawgiver
   home: null
-packFolder: ankarisnordlands
 shortcode: eirkrlwgvr
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: light
     complexion: smooth
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }

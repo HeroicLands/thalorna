@@ -112,12 +112,13 @@ data:
     janpdsvdyr: unaligned
     mrchntclctvvdyr: rival
     bhrvdvbhog: unaligned
-terran_analog: "Transhumant pastoral kingship of the semi-arid Indian interior—a crown whose revenue is watering dues and droveway tolls rather than land tax, and whose court is itinerant for most of the year"
-packFolder: vedyara
+  packFolder: vedyara
 sohl:
   system:
     commonSkills:
       - vedyarlng
+
+# terran_analog: "Transhumant pastoral kingship of the semi-arid Indian interior—a crown whose revenue is watering dues and droveway tolls rather than land tax, and whose court is itinerant for most of the year"
 ---
 
 **Gomārga** is the kingdom of [[place-vandhyabhumi|Vandhyabhūmi]], the arid central plateau of [[place-vedyarargn|Vedyara]]. Its name is the thing it holds: _go_ (cattle) _mārga_ (road), the droveways that cross the plateau between wells, and the crown's claim runs along them and stops at their edges.

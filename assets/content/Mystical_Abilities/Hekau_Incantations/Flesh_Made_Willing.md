@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: khatnu
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: khatnu
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 Sets bone that healed crooked, restores a burned hand to usefulness, corrects what a birth did

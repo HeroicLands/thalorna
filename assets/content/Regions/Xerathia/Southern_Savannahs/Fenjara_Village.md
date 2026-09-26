@@ -11,12 +11,12 @@ data:
   parents:
     - sthrnsvnhs
   population: 250
+  packFolder: southernsavannahs
 name:
   full: Fénjara Village
   aliases:
     - Fénjara
 shortcode: fenjaravlg
-packFolder: southernsavannahs
 ---
 
 ## Overview

@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-circle
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: kentra
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Detect
-packFolder: spells
+
+# hmk:
+#   name: Detect
 ---
 
 The caster attunes their senses to the subtle currents of arcane energy that permeate the world, and the invisible becomes faintly visible. Active enchantments glow with soft haloes of color—each school and tradition carrying its own distinctive hue and texture. Dormant magical traps pulse with contained potential, their trigger boundaries limned in faint tracery. Even the residual traces of recently cast spells linger as ghostly afterimages.

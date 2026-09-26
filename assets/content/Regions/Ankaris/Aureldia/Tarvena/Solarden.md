@@ -11,9 +11,9 @@ data:
   parents:
     - tarvenirgn
   population: 4000
+  packFolder: tarvenia
 name:
   full: Solárden
   aliases: []
 shortcode: solarden
-packFolder: tarvenia
 ---

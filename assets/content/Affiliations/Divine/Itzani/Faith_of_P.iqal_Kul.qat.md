@@ -11,7 +11,6 @@ name:
     - Builder of the Sacred Peak
     - "P'iqal Kul'qat"
 shortcode: piqalkulqat
-packFolder: pantheonitzani
 data:
   banner: faithbnr
   icon: null
@@ -120,6 +119,7 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
+  packFolder: pantheonitzani
 sohl:
   system:
     commonSkills:

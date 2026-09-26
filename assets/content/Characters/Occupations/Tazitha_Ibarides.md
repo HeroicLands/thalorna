@@ -10,7 +10,6 @@ name:
   clan: Ibârîdês
   home: pelagora2
   aliases: []
-packFolder: helladhelionis
 shortcode: tazithbrds
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: olive_toned
     extra_features:
       - a scar on the right wrist
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

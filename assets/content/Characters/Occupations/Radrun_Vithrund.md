@@ -10,7 +10,6 @@ name:
   clan: Vithrúnd
   home: grimholt
   aliases: []
-packFolder: ankarisvrystwald
 shortcode: rdrnvthrnd
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: light
     complexion: weathered
     extra_features: []
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

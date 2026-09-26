@@ -10,6 +10,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: 0
+  packFolder: cash
 sohl:
   craft:
     skill: mtlc
@@ -20,7 +21,6 @@ sohl:
     valueBase: 1
     qualityBase: 0
     durabilityBase: 3
-packFolder: cash
 ---
 
 A bronze piece struck to the deben weight and sealed by the temple. Unlike the gold and silver pieces it is **not** worth the metal in it: the bronze alone comes to well under the face the seal attests, and the difference is the temple's charge for making small money exist at all.

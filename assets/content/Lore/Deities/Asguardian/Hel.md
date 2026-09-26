@@ -7,5 +7,6 @@ name:
   full: Hél
   aliases: []
 shortcode: heldty
-packFolder: deitiesasguardian
+data:
+  packFolder: deitiesasguardian
 ---

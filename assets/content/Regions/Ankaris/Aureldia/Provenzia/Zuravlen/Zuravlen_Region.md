@@ -12,13 +12,13 @@ data:
   parents:
     - provenzrgn
   population: 750000
+  packFolder: provenzia
 name:
   full: Zûravlen Region
   aliases:
     - Zûravlen
     - The Peach Country
 shortcode: zuravlenrgn
-packFolder: provenzia
 ---
 
 **Zûravlen** is a barony of the [[affiliation-kngdmprvnz|Kingdom of Provènzia]], in the

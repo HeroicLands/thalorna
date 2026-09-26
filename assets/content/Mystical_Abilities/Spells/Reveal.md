@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-anvilbdg
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: sideros
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Revelation
-packFolder: spells
+
+# hmk:
+#   name: Revelation
 ---
 
 The caster extends their awareness through the earth and stone beneath their feet, and the hidden world below reveals itself to their magical perception. Buried metal objects glow in the caster's mind's eye—buried weapons, hidden vaults, mineral veins, old coins lost in garden soil, or the iron fittings of a concealed trap mechanism. The perception extends both downward and laterally, providing a three-dimensional map of metallic objects within the spell's radius.

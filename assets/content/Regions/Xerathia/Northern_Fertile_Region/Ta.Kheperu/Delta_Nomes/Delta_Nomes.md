@@ -107,7 +107,7 @@ data:
     - empirtkhpr
   relations:
     kemtnpnthn: aligned
-packFolder: deltanomes
+  packFolder: deltanomes
 sohl:
   system:
     commonSkills:

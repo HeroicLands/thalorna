@@ -7,5 +7,6 @@ name:
   full: Jánus
   aliases: []
 shortcode: janusdty
-packFolder: deitiesaureldian
+data:
+  packFolder: deitiesaureldian
 ---

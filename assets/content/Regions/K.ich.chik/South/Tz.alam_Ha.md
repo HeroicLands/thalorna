@@ -11,11 +11,11 @@ data:
   parents:
     - balamtzakurgn
   population: 45000
+  packFolder: south
 name:
   full: Tz’alam Ha’
   aliases: []
 shortcode: tzalamha
-packFolder: south
 ---
 
 ## Overview

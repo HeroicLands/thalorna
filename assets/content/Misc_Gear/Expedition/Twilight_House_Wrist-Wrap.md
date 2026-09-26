@@ -9,6 +9,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: null
+  packFolder: expedition
 sohl:
   kbcat: expedition
   craft:
@@ -19,7 +20,6 @@ sohl:
     valueBase: 8
     qualityBase: 0
     durabilityBase: 4
-packFolder: expedition
 ---
 
 A strip of fine cloth, wound and pinned over the wrist-line in a fashion the [[affiliation-twilighths|Twilight House]] teaches its Companions as ordinary dress rather than as concealment. That is the whole art of it: worn everywhere in a city the way this one is worn, a wrapped wrist reads as nothing in particular, which is exactly why it reads as less than it would on the same wrist in a village.

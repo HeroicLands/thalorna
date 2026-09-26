@@ -13,11 +13,11 @@ data:
   parents:
     - suvarnagirijnpd
   population: null
+  packFolder: vedyara
 name:
   full: The Weighing-Station
   aliases: []
 shortcode: weighingstn
-packFolder: vedyara
 ---
 
 The **weighing-station** stands at Middle Suvarnagiri beside the common treasury, and it is the one thing in the janapada that does not rotate. Every ounce the twenty-eight panning families win comes here. At each new moon the previous moon's gold is weighed in the open, before whichever sabhā representatives have come down for it, and the weights are read out and entered.

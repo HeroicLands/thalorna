@@ -15,7 +15,7 @@ data:
   parents:
     - nrdlndsrgn
   population: 300000
-packFolder: targud
+  packFolder: targud
 ---
 
 ## Overview

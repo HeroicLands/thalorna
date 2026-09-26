@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: ankhkemet
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: ankhkemet
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 The great healing form, and one of the few workings in the tradition with a cost carried by the

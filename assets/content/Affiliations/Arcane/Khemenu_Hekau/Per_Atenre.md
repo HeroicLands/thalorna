@@ -72,13 +72,13 @@ data:
     kemtnpnthn: aligned
     ra: aligned
     imnetau: aligned
+  packFolder: khemenuhekau
 name:
   full: Per-Aten'ré
   aliases:
     - House of the Disk
     - The House of Sun
 shortcode: atenre
-packFolder: khemenuhekau
 sohl:
   system:
     commonSkills: []

@@ -10,7 +10,6 @@ name:
   clan: Rashîmû
   home: qadhirun
   aliases: []
-packFolder: midhalionharad
 shortcode: girdanrshm
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: sun_kissed
     extra_features:
       - a tattoo of a horse on the thigh
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 17 } }

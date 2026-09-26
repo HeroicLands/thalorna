@@ -10,6 +10,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: 0
+  packFolder: cash
 sohl:
   craft:
     skill: mtlc
@@ -20,7 +21,6 @@ sohl:
     valueBase: 8
     qualityBase: 0
     durabilityBase: 3
-packFolder: cash
 ---
 
 The **candra** is silver, struck at [[affiliation-chandrapur|Chandrapur]] under the Moon House's seal, and reckoned at eight [[miscgear-tamra|tāmra]]. It is the coin of ordinary formal commerce: a craftsman's contract, a caravan's toll, a season's rent. A purse of copper would be too heavy to carry for any of them, and a suvarna too large to make change for.

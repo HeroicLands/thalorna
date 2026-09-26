@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-tree
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: physera
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Shape
-packFolder: spells
+
+# hmk:
+#   name: Shape
 ---
 
 The caster reaches out and touches a single plant, channeling Physéra energy to reshape its living structure into a particular configuration—bending a young oak into an archway, coiling vines into a rope-like braid, or with multiple castings shaping several bushes into a tight, impenetrable hedgerow. The transformation respects the plant's living biology; it doesn't cut or kill the vegetation but rather redirects its growth pattern to conform to the caster's vision. The shaped plant retains its new form permanently, continuing to grow in its altered configuration as though it had always been that way.

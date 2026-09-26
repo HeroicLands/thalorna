@@ -15,11 +15,11 @@ data:
   party:
     size: null
     archetypes: []
+  packFolder: bloodandashesinceravelvale
 name:
   full: Summary of Provènzia
   aliases: []
 shortcode: sumryprvnz
-packFolder: bloodandashesinceravelvale
 ---
 
 ### Summary of Provènzia

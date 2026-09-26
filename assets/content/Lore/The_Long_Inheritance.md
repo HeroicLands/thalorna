@@ -11,7 +11,8 @@ name:
   aliases:
     - The Inheritance
 shortcode: longnhrtnc
-packFolder: settinglore
+data:
+  packFolder: settinglore
 ---
 
 Both Elder Races came to Thalorna and found humanity already here, living in scattered hunter-gatherer bands, and both decided—separately, and for reasons neither has ever fully explained to a human—to leave humanity to its own becoming. That policy is real. It was sincerely held, it has been maintained ever since, and both peoples believe to this day that they kept it.

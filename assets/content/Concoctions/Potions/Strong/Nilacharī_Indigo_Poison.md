@@ -9,11 +9,10 @@ description: "A deep-blue poison distilled from spent indigo vats; one of the su
 shortcode: nilacharipoison
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Poison, Indigo, Strong"
 data:
   icon: icon-potion
   templatePriority: null
+  packFolder: strong
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +21,9 @@ sohl:
     durabilityBase: 5
     potency: "strong"
     strength: 0
-packFolder: strong
+
+# hmk:
+#   name: "Poison, Indigo, Strong"
 ---
 
 Distilled down from the spent mordant and fermentation residue of the [[place-vyalendraland|Nilacharī]] valleys' indigo vats, this poison keeps the dye's own deep blue-black color, which is both its signature and its weakness—a taster who knows to look for the stain under a fingernail or at the rim of a cup has half the warning he needs. What makes it valuable to the trade that seeks it out is the other half: worked correctly, its onset mimics an ordinary wasting fever closely enough that a physician who is not looking for poison rarely finds one.

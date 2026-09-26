@@ -9,6 +9,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: null
+  packFolder: scribe
 sohl:
   kbcat: scribe
   system:
@@ -16,7 +17,6 @@ sohl:
     valueBase: 0
     qualityBase: 0
     durabilityBase: 2
-packFolder: scribe
 ---
 
 A single folded sheet, sealed with a member house's own mark and countersigned against the [[affiliation-mrchntclctvvdyr|Merchant Collective]]'s own standard form, redeemable in coin at any other member house without a wagon of suvarna ever changing hands on the road between them. It carries no fixed price of its own—what it is worth is the sum written on its face, and that sum is the whole point of carrying paper instead of metal across a caravan route the pass-token already tells everyone is dangerous.

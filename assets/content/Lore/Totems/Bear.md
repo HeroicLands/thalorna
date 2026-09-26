@@ -10,9 +10,9 @@ name:
   aliases:
     - Bear Totem
 shortcode: bearttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-beartotem|Bear]]{float: top-left, size: medium}

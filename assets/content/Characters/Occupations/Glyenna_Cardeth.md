@@ -12,7 +12,6 @@ name:
   home: portaelion
   aliases:
     - Aperâni Valeria Firebrand
-packFolder: aureldiaelavendre
 shortcode: glyencrdth
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: light
     complexion: smooth
     extra_features: []
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

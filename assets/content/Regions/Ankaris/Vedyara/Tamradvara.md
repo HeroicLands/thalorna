@@ -21,12 +21,12 @@ data:
         days: 30,
         terrain: [hills, mountains, ice, steppe],
       }
+  packFolder: vedyara
 name:
   full: Tāmradvāra
   aliases:
     - The Copper-Door
 shortcode: tamradvara
-packFolder: vedyara
 ---
 
 **Tāmradvāra**, the copper-door, goes up through the [[place-slvrgorges|Silver Gorges]] and over the shoulder of [[place-estrnreach|the Eastern Reach]] into the marches where the [[place-khzryndsrtrgn|Khazryn]] runs out against [[place-tanvuregin|Tānvür]]. It is a working road for its first four days and a pass thereafter, and the transition is not marked by anything except the last of the ore-carts turning back.

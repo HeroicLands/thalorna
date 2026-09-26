@@ -12,11 +12,11 @@ data:
   parents:
     - wasetkaranome
   population: 30000
+  packFolder: capitalnome
 name:
   full: Per-Heka
   aliases: []
 shortcode: perheka
-packFolder: capitalnome
 ---
 
 ## Overview

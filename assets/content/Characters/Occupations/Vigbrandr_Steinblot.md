@@ -10,7 +10,6 @@ name:
   clan: Steinblót
   home: ulfheim
   aliases: []
-packFolder: ankarisnordlands
 shortcode: vgbrndrstnblt
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: pale
     extra_features:
       - a scar on the left side of the neck
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

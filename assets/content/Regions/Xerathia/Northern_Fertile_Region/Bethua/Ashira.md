@@ -10,9 +10,9 @@ data:
   parents:
     - bethuargn
   population: 7000
+  packFolder: bethua
 name:
   full: Ashíra
   aliases: []
 shortcode: ashira
-packFolder: bethua
 ---

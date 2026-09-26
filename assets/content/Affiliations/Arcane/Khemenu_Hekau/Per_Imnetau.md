@@ -76,13 +76,13 @@ data:
     seker: aligned
     anubis: aligned
     atenre: aligned
+  packFolder: khemenuhekau
 name:
   full: Per-Imnetáu
   aliases:
     - House of the Westward Road
     - The House of the Underworld
 shortcode: imnetau
-packFolder: khemenuhekau
 sohl:
   system:
     commonSkills: []

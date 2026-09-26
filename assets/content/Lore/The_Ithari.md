@@ -12,7 +12,8 @@ name:
     - Those Who Came Before
     - The Precursors
 shortcode: theithari
-packFolder: settinglore
+data:
+  packFolder: settinglore
 ---
 
 The **Ithári** are the oldest thing in the world's record that can be called a people, and the record

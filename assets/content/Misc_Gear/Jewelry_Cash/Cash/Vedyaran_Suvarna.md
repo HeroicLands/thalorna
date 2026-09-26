@@ -10,6 +10,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: 0
+  packFolder: cash
 sohl:
   craft:
     skill: mtlc
@@ -20,7 +21,6 @@ sohl:
     valueBase: 128
     qualityBase: 0
     durabilityBase: 3
-packFolder: cash
 ---
 
 The **suvarna** is gold, struck at [[affiliation-chandrapur|Chandrapur]] and reckoned at sixteen [[miscgear-candra|candra]], a hundred and twenty-eight [[miscgear-tamra|tāmra]]. The Moon House mines none of its metal and buys it at Suvarnagiri's public Weighing. The [[affiliation-mrchntclctvvdyr|Merchant Collective]] can therefore trace every suvarna struck to a particular month's weighed extraction. The coin's own face carries nothing of that record.

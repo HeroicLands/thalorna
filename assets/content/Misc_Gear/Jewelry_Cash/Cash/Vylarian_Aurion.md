@@ -10,6 +10,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: 0
+  packFolder: cash
 sohl:
   craft:
     skill: mtlc
@@ -20,7 +21,6 @@ sohl:
     valueBase: 160
     qualityBase: 0
     durabilityBase: 3
-packFolder: cash
 ---
 
 A small milled gold coin struck only at Magnápolis. The obverse carries the profile of the reigning Augustar, renewed at each accession, with older issues remaining legal tender; the reverse carries the imperial Aquila over the inscription _Sub Aquila stant fines_. The milled edge is there to make clipping visible.

@@ -12,11 +12,11 @@ data:
   parents:
     - meridiana
   population: 70000
+  packFolder: provenzia
 name:
   full: Lunacòrte
   aliases: []
 shortcode: lunacorte
-packFolder: provenzia
 ---
 
 **Lunacòrte** is the capital of the [[affiliation-kngdmprvnz|Kingdom of Provènzia]] and, with some

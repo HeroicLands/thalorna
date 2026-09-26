@@ -10,9 +10,9 @@ name:
   aliases:
     - Snake Totem
 shortcode: snakettm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-snaketotem|Snake]]{float: top-left, size: medium}

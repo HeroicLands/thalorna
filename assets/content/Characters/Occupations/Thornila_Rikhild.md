@@ -11,7 +11,6 @@ name:
   clan: Ríkhild
   home: dunkelwald
   aliases: []
-packFolder: ankarisvrystwald
 shortcode: thrnlrkhld
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: fair
     complexion: rough
     extra_features: []
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

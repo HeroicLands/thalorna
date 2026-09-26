@@ -90,7 +90,7 @@ data:
   parents: []
   relations:
     theoldway: aligned
-packFolder: pantheonsfirstgods
+  packFolder: pantheonsfirstgods
 sohl:
   system:
     commonSkills: []

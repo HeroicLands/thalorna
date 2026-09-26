@@ -12,7 +12,6 @@ name:
   home: tyrellan
   aliases:
     - Oswin Crey
-packFolder: midhalionvylaria
 shortcode: azatodmzns
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: medium
     complexion: weathered
     extra_features: []
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 7 } }

@@ -12,11 +12,11 @@ data:
   parents:
     - aelwyth
   population: 4000
+  packFolder: aelwyth
 name:
   full: The Hallowwood
   aliases: []
 shortcode: hallowwood
-packFolder: aelwyth
 ---
 
 The **Hallowwood** covers the south of Aelwyth, between the farmland of

@@ -15,7 +15,7 @@ data:
   parents:
     - nrdlndsrgn
   population: 400000
-packFolder: norgaad
+  packFolder: norgaad
 ---
 
 ## Overview

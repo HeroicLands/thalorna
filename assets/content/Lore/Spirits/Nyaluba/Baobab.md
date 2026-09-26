@@ -11,7 +11,8 @@ name:
     - The Baobab Guide
     - Baobab of the Bombwe
 shortcode: baobabbombwespr
-packFolder: lorespiritsnyaluba
+data:
+  packFolder: lorespiritsnyaluba
 ---
 
 The totemic being venerated by the [[affiliation-nylbtrblntn|Bombwe]]. For the cult, its

@@ -10,7 +10,6 @@ name:
   clan: Maríthran
   home: valdes
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: glvrmrthrn
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: olive_tanned
     complexion: weathered
     extra_features: []
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

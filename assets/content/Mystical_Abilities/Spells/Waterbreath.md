@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-water
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: hydalis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Gills
-packFolder: spells
+
+# hmk:
+#   name: Gills
 ---
 
 The caster transforms the target's ability to draw sustenance from the air, allowing them to extract breathable air directly from water as it passes over their skin. A faint shimmer appears across the target's face and throat as the enchantment takes hold, and they can submerge fully without discomfort, breathing as naturally underwater as they do on land.

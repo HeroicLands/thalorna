@@ -11,7 +11,6 @@ name:
   clan: Bránthira
   home: torreviga
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: hlrksbrnthr
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: pale
     complexion: sallow
     extra_features: []
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }

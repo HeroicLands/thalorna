@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-circle
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: kentra
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Focus
-packFolder: spells
+
+# hmk:
+#   name: Focus
 ---
 
 The caster turns their focus inward, honing the flow of arcane energy through their being like a smith putting an edge on a blade. The scattered, imprecise currents of magical power that normally characterize spellcasting tighten into clean, efficient channels, and the caster's control over their art sharpens dramatically. Spells cast under this enhanced focus are more precise, more potent, and less wasteful of the caster's reserves.

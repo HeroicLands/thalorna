@@ -10,7 +10,6 @@ name:
   clan: Melissenós
   home: thalassos
   aliases: []
-packFolder: helladbyzaria
 shortcode: isidrmlsns
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: olive
     complexion: null
     extra_features: []
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

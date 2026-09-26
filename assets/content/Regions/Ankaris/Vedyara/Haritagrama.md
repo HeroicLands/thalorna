@@ -12,9 +12,9 @@ data:
   parents:
     - suvarnagirijnpd
   population: 350
+  packFolder: vedyara
 name:
   full: Haritagrāma
   aliases: []
 shortcode: haritagrama
-packFolder: vedyara
 ---

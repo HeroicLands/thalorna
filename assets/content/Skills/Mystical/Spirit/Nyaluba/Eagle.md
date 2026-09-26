@@ -15,6 +15,7 @@ name:
 data:
   icon: icon-psychicwaves
   templatePriority: null
+  packFolder: spiritskillsnyaluba
 sohl:
   system:
     skillBaseFormula: "@aur, @wil"
@@ -23,7 +24,6 @@ sohl:
     combatCategory: none
     parentSkillCode: spirit
     initSkillMult: 0
-packFolder: spiritskillsnyaluba
 ---
 
 See [[affiliation-nyalbeagl|Eagle Totem]]—the guide of the Ngonzi, the highlanders who live among the Old Kraals.

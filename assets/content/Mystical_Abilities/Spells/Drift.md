@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-water
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: hydalis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Flotation
-packFolder: spells
+
+# hmk:
+#   name: Flotation
 ---
 
 The target becomes buoyant beyond all natural expectation, rising gently in water until they float effortlessly at the surface regardless of what they carry or wear. Armored warriors bob like corks; heavy packs ride the surface as if weightless. The enchantment suffuses the target with a subtle lightness that water itself seems to recognize, cradling them against submersion.

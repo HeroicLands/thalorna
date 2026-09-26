@@ -11,7 +11,6 @@ name:
   clan: Vetrdómr
   home: ""
   aliases: []
-packFolder: ankarisnordlands
 shortcode: hrmndvtrdmr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: olive
     complexion: smooth
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 9 } }

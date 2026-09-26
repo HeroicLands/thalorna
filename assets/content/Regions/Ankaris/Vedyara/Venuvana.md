@@ -12,11 +12,11 @@ data:
   parents:
     - dhanurkotajnpd
   population: 890
+  packFolder: vedyara
 name:
   full: Venuvana
   aliases: []
 shortcode: venuvana
-packFolder: vedyara
 ---
 
 Venuvana (890) grows the bamboo the Dhanurkoti bows are made from. Its groves run four miles along the north bank of the Sarvada and are cut on a seven-year rotation, which the village has kept without a break for as long as the academies have taught.

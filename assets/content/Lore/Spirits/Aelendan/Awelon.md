@@ -9,7 +9,8 @@ name:
   full: Awelon, the West Wind
   aliases: []
 shortcode: awelonspr
-packFolder: lorespiritsaelendan
+data:
+  packFolder: lorespiritsaelendan
 ---
 
 - **Kind:** Weather-kin, of [[lore-thekindred|the Kindred]]

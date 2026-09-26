@@ -11,11 +11,11 @@ data:
   parents:
     - perwadjitnome
   population: 49000
+  packFolder: deltanomes
 name:
   full: Per-Wadjit
   aliases: []
 shortcode: perwadjit
-packFolder: deltanomes
 ---
 
 ## Overview

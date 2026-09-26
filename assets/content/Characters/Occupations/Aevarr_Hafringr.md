@@ -10,7 +10,6 @@ name:
   clan: Hafringr
   home: bloth
   aliases: []
-packFolder: ankarisnordlands
 shortcode: aevrhfrngr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: ruddy
     extra_features:
       - a tattoo of a heart on the chest
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

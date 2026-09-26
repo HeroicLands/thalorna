@@ -10,9 +10,9 @@ name:
   aliases:
     - Lion Totem
 shortcode: lionttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-liontotem|Lion]]{float: top-left, size: medium}

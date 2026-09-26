@@ -13,11 +13,11 @@ data:
   parents:
     - suvarnagirijnpd
   population: null
+  packFolder: vedyara
 name:
   full: The Temple of Middle Suvarnagiri
   aliases: []
 shortcode: middlesuvtmpl
-packFolder: vedyara
 ---
 
 The **temple of Middle Suvarnagiri** stands in the central valley below the principal panning grounds, and the [[place-weighingstn|weighing-station]] and the common treasury stand beside it. The sabhā meets here one year in three like anywhere else, but the gold comes here every month of every year.

@@ -9,6 +9,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: null
+  packFolder: religious
 sohl:
   kbcat: religious
   system:
@@ -16,7 +17,6 @@ sohl:
     valueBase: 40
     qualityBase: 0
     durabilityBase: 8
-packFolder: religious
 ---
 
 A river-smoothed stone, palm-sized and unmarked, blessed over a dream-chamber vigil in the [[affiliation-svapnasarisamaja|Svapnasāri-samāja]]'s Dream-Stone Blessing before it is given to a petitioner to carry home. It is not itself an oracle—the Samāja does not sell divination in a pocket—and a Darshaka will say plainly that the stone works no more than the stillness a person brings to holding it.

@@ -11,11 +11,11 @@ data:
   parents:
     - vald
   population: 6000
+  packFolder: vylaria
 name:
   full: Saltholm
   aliases: []
 shortcode: saltholm
-packFolder: vylaria
 ---
 
 ## Overview

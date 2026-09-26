@@ -13,7 +13,6 @@ name:
   aliases:
     - Whispers
     - The Dancing Shadow
-packFolder: northernfertileregiontakheperu
 shortcode: isaretkskr
 type: being
 data:
@@ -41,6 +40,7 @@ data:
     skin_color: tawny
     complexion: null
     extra_features: []
+  packFolder: northernfertileregiontakheperu
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

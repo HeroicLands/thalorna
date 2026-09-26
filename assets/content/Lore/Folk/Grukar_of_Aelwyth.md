@@ -8,7 +8,8 @@ name:
   aliases:
     - The Aelwyth Grukar
 shortcode: grukaraelwyth
-packFolder: aelwyth
+data:
+  packFolder: aelwyth
 ---
 
 There are **[[lore-grukarfolk|Grukar]] on Aelwyth**, and there have been for the better part of **seven

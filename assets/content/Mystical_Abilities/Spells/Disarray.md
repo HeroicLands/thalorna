@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-divination
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: pneumenos
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Confusion
-packFolder: spells
+
+# hmk:
+#   name: Confusion
 ---
 
 The caster projects a wave of psychic static into the target's mind, scrambling the orderly processes of thought into a churning chaos of half-formed ideas, disconnected memories, and contradictory impulses. The target's ability to think sequentially collapses—they begin an action, forget why, start another, lose track of that as well, and stand paralyzed in a fog of bewilderment. Language becomes unreliable, with the wrong words emerging or sentences trailing off into confusion.

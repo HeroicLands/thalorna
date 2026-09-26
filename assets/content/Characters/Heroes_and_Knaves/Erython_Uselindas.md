@@ -10,7 +10,6 @@ name:
   clan: Ûselîndâs
   home: nartum
   aliases: []
-packFolder: midhalionvylaria
 shortcode: erythnslnds
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: fair
     extra_features:
       - a tattoo of a serpent on the back
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

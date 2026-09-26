@@ -10,6 +10,7 @@ subType: birthsign
 data:
   icon: icon-astrology
   templatePriority: 0
+  packFolder: astrokyklos
 sohl:
   kbcat: birthsign
   system:
@@ -37,7 +38,6 @@ sohl:
       "subType:social": 5
       water: 5
       hydalis: 5
-packFolder: astrokyklos
 ---
 
 Those born under Arnos, the Ram, are said to carry the vigor of green things breaking through frost. Herbalists, hunters, and wardens of the wild claim its favor, while the sign turns its face from those who would master flesh and blade.

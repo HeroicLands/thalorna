@@ -10,9 +10,9 @@ name:
   aliases:
     - Eagle Totem
 shortcode: eaglettm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-eagletotem|Eagle]]{float: top-left, size: medium}

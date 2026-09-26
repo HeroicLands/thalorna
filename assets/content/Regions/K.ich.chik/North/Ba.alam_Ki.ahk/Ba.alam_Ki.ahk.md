@@ -103,11 +103,12 @@ data:
     - humanflk
   parents: []
   relations: {}
-terran_analog: Western U.S. to Rockies and up to British Columbia and southern Alaska
-packFolder: baalamkiahk
+  packFolder: baalamkiahk
 sohl:
   system:
     commonSkills: []
+
+# terran_analog: Western U.S. to Rockies and up to British Columbia and southern Alaska
 ---
 
 ## Overview

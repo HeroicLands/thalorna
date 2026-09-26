@@ -12,11 +12,11 @@ data:
   parents:
     - glanmor
   population: 3400
+  packFolder: elavendre
 name:
   full: Liranel
   aliases: []
 shortcode: liranel
-packFolder: elavendre
 ---
 
 **Liranel** stands a few miles inland of the [[place-glanmor|Glanmor]] cliffs, in the belt of worked

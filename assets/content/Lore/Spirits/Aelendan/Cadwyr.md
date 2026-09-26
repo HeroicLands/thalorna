@@ -9,7 +9,8 @@ name:
   full: Cadwyr, the Grey Wolf of the Ridge
   aliases: []
 shortcode: cadwyrspr
-packFolder: lorespiritsaelendan
+data:
+  packFolder: lorespiritsaelendan
 ---
 
 - **Kind:** Animal-kin, of [[lore-thekindred|the Kindred]]

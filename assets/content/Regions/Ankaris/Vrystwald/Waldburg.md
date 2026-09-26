@@ -11,9 +11,9 @@ data:
   parents:
     - vrystwald
   population: 800
+  packFolder: vrystwald
 name:
   full: Waldburg
   aliases: []
 shortcode: waldburg
-packFolder: vrystwald
 ---

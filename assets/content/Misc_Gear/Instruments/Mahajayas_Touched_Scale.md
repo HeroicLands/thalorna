@@ -10,6 +10,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: null
+  packFolder: instruments
 sohl:
   kbcat: instruments
   craft:
@@ -20,7 +21,6 @@ sohl:
     valueBase: 0
     qualityBase: 0
     durabilityBase: 12
-packFolder: instruments
 ---
 
 A great bronze beam scale, set under [[affiliation-mahajaya|Mahájaya]]'s own blessing at [[affiliation-suvrgrjnpd|Suvarnagiri]]'s central temple, where the previous moon's panned gold is weighed in front of the sabhā at every new moon and the figure entered against the Gold Constitution's shares. A Reckoner of the [[affiliation-ganakashala|Ganaka-shala]] checks the beam and the weights against the college's own assay constants before the weighing opens, and the whole mechanism the constitution rests on depends on this one scale reading the same true weight every month it is asked to.

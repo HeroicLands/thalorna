@@ -7,7 +7,8 @@ name:
   full: Má'át
   aliases: []
 shortcode: maatdty
-packFolder: deitieskemetian
+data:
+  packFolder: deitieskemetian
 ---
 
 ![[icon-maat|Má'át]]{float: top-left, size: medium}

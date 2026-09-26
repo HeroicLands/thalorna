@@ -11,7 +11,6 @@ name:
   given: Chéleb
   clan: Rhýddýn
   aliases: []
-packFolder: aureldiaprovenzia
 shortcode: chlbrhydyn
 type: being
 data:
@@ -41,6 +40,7 @@ data:
     extra_features:
       - Hair tied back with leather thong
       - Often cloaked in green and brown for camouflage
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

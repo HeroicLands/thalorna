@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-wind
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: zepharis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Beam
-packFolder: spells
+
+# hmk:
+#   name: Beam
 ---
 
 The caster extends two fingers and a needle-thin beam of concentrated light lances from the fingertips, searing through the air with an audible hiss. The beam is hot enough to char wood, blister exposed skin, and leave a glowing score-line on stone, though it lacks the raw destructive force of fire magic—its danger lies in precision rather than area devastation. A single well-aimed Lightstrike can blind an eye, sever a bowstring, or ignite an oil-soaked wick from across a courtyard.

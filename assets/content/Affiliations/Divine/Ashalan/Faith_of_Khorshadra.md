@@ -86,14 +86,14 @@ data:
     - ashanpnthn
   relations:
     ashanpnthn: aligned
+  packFolder: ashaian
 name:
   full: Faith of Khóršádrä
   aliases:
     - Bearer of Eternal Light
     - Wisdom Goddess
+    - Khóršádrä, Bearer of Eternal Light
 shortcode: korsadra
-alias: Khóršádrä, Bearer of Eternal Light
-packFolder: ashaian
 sohl:
   system:
     commonSkills: []

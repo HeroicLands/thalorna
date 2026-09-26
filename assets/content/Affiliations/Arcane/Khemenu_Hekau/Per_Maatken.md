@@ -72,13 +72,13 @@ data:
     kemtnpnthn: aligned
     maat: aligned
     sefut: aligned
+  packFolder: khemenuhekau
 name:
   full: Per-Maat'ken
   aliases:
     - House of the Balance
     - The House of Order
 shortcode: maatken
-packFolder: khemenuhekau
 sohl:
   system:
     commonSkills: []

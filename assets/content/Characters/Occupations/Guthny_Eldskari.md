@@ -10,7 +10,6 @@ name:
   clan: Eldskari
   home: skarholme
   aliases: []
-packFolder: ankarisnordlands
 shortcode: gthnyldskr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: weathered
     extra_features:
       - a scar on the right forearm
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

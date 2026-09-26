@@ -13,11 +13,11 @@ data:
   parents:
     - wasetkaranome
   population: 450000
+  packFolder: capitalnome
 name:
   full: Wasetkara
   aliases: []
 shortcode: wasetkara
-packFolder: capitalnome
 ---
 
 ## Overview

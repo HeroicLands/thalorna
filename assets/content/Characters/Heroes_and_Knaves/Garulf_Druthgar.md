@@ -9,7 +9,6 @@ name:
   given: Garulf
   clan: Druthgar
   aliases: []
-packFolder: ankarisvrystwald
 shortcode: grlfdrthgr
 type: being
 data:
@@ -41,6 +40,7 @@ data:
       - a broken nose
       - massive hands
       - carries a heavy battleaxe he calls 'Vára'
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

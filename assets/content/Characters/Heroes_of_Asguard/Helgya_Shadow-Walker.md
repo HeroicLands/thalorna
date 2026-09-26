@@ -13,7 +13,6 @@ name:
   aliases:
     - Shadow-Walker
   home: null
-packFolder: ankarisnordlands
 shortcode: hlgyshdwlkr
 type: being
 data:
@@ -41,6 +40,7 @@ data:
     skin_color: light
     complexion: ruddy
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

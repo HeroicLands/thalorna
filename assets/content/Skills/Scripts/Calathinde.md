@@ -11,6 +11,7 @@ subType: script
 data:
   icon: icon-speaking
   templatePriority: null
+  packFolder: script
 sohl:
   system:
     skillBaseFormula: "@rea, @per"
@@ -19,10 +20,9 @@ sohl:
     combatCategory: none
     parentSkillCode: script
     initSkillMult: 0
-packFolder: script
-flags:
-  "thalorna":
-    script_family: Calligraphic
+  flags:
+    "thalorna":
+      script_family: Calligraphic
 ---
 
 The Calathindë—the starlight-hand—is the writing of the [[skill-sinalelng|Sinalë]]: organic, curved, continuously connected letterforms that run left to right and top to bottom and give a page the look of vine-growth or moving water. Ligatures are constant rather than occasional; diacritics carry vowel length, pitch and poetic emphasis, and in a language whose grammar encodes mood and philosophical stance through vowel gradation, those marks are not ornament—they are most of the meaning.

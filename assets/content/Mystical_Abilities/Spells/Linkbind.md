@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-circle
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: kentra
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Chain
-packFolder: spells
+
+# hmk:
+#   name: Chain
 ---
 
 The caster weaves invisible threads of arcane connectivity between two or more separate magical effects, binding them into a coordinated sequence that activates in a predetermined order or in response to shared conditions. A ward might be linked to an alarm, ensuring that when the alarm triggers, the ward simultaneously activates. A healing spell might be chained to a diagnostic, automatically administering treatment when injury is detected.

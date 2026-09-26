@@ -10,7 +10,6 @@ name:
   clan: Delvánor
   home: null # was: Eskárath
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: klrthdlvnr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: bronzed
     extra_features:
       - a scar on the lower abdomen
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

@@ -12,7 +12,6 @@ name:
   clan: Myrkelis
   home: liranel
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: sevnmyrkls
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: pale
     complexion: null
     extra_features: []
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

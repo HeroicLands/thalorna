@@ -7,5 +7,6 @@ name:
   full: Ātáröš
   aliases: []
 shortcode: atarosdty
-packFolder: deitiesashalan
+data:
+  packFolder: deitiesashalan
 ---

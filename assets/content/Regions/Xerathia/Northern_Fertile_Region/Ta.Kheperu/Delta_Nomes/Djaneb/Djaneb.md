@@ -11,11 +11,11 @@ data:
   parents:
     - djanebnome
   population: 56000
+  packFolder: deltanomes
 name:
   full: Djaneb
   aliases: []
 shortcode: djaneb
-packFolder: deltanomes
 ---
 
 ## Overview

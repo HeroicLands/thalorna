@@ -11,11 +11,11 @@ data:
   parents:
     - wawatnome
   population: 14000
+  packFolder: bordernomes
 name:
   full: Wawat
   aliases: []
 shortcode: wawat
-packFolder: bordernomes
 ---
 
 ## Overview

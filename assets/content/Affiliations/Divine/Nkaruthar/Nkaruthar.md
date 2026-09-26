@@ -117,7 +117,7 @@ data:
     - nkaruthar
   relations:
     njiayaroho: aligned
-packFolder: pantheonsnkaruthar
+  packFolder: pantheonsnkaruthar
 sohl:
   system:
     commonSkills:

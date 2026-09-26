@@ -15,7 +15,7 @@ data:
   parents:
     - nrdlndsrgn
   population: 340000
-packFolder: malagna
+  packFolder: malagna
 ---
 
 ## Overview

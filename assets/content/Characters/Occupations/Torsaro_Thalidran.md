@@ -10,7 +10,6 @@ name:
   clan: Thalídran
   home: castamere
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: trsrthldrn
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: medium
     complexion: smooth
     extra_features: []
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

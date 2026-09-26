@@ -12,12 +12,12 @@ data:
   parents:
     - vedyarargn
   population: null
+  packFolder: vedyara
 name:
   full: The Bhārava
   aliases:
     - Bhārava
 shortcode: bharavarivr
-packFolder: vedyara
 ---
 
 The **Bhārava** rises at [[place-bhrvprbhav|Bhāravaprabhava]] under [[place-estrnreach|the Eastern Reach]], falls fast through the gold-bearing highlands, and then slows for six hundred miles through forest country to the eastern coast. It is the least navigable of the four and the most walked.

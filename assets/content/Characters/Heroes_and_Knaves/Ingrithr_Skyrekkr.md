@@ -10,7 +10,6 @@ name:
   clan: Skýrekkr
   home: havamal
   aliases: []
-packFolder: ankarisnordlands
 shortcode: ingrthrskyrkr
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: pale
     complexion: fair
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

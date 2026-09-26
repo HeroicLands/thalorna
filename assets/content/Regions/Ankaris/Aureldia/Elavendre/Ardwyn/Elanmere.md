@@ -12,11 +12,11 @@ data:
   parents:
     - ardwyn
   population: 2100
+  packFolder: elavendre
 name:
   full: Elanmere
   aliases: []
 shortcode: elanmere
-packFolder: elavendre
 ---
 
 **Elanmere** stands on the shore of the lake that gives it its name, in a glacial valley at the western

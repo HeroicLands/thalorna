@@ -10,7 +10,6 @@ name:
   clan: Álvianar
   home: null # was: Eskárath
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: jolrenlvnr
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: medium
     complexion: tanned
     extra_features: []
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

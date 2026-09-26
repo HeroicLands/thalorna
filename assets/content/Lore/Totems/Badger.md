@@ -10,9 +10,9 @@ name:
   aliases:
     - Badger Totem
 shortcode: badgerttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-badgertotem|Badger]]{float: top-left, size: medium}

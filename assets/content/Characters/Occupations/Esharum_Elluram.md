@@ -10,7 +10,6 @@ name:
   clan: Ellûram
   home: kashmuret
   aliases: []
-packFolder: midhalionharad
 shortcode: esharumlrm
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: olive_toned
     extra_features:
       - a tattoo of a waterfall on the shoulder
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

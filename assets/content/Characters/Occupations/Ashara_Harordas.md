@@ -11,7 +11,6 @@ name:
   clan: Hârôrdâs
   home: tyrellan
   aliases: []
-packFolder: midhalionvylaria
 shortcode: asharhrrds
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a dragonfly on the neck
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

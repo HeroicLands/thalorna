@@ -10,7 +10,6 @@ name:
   clan: Namrûzî
   home: qadhirun
   aliases: []
-packFolder: midhalionharad
 shortcode: tirushnmrz
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a compass on the chest
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

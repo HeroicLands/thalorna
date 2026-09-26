@@ -9,6 +9,7 @@ type: weapongear
 data:
   icon: icon-sword
   templatePriority: null
+  packFolder: weapons
 sohl:
   kbcat: sword
   weaponType: Sword
@@ -150,7 +151,6 @@ sohl:
         defense:
           blockMod: 0
           counterstrikeMod: 0
-packFolder: weapons
 ---
 
 A single-edged blade with a gentle curve, the dao gathers momentum through its geometry. The blade widens gradually toward the tip, which concentrates the cutting force in a sweeping stroke from foot soldier or mounted troop alike. Simple in craft but effective in the press of bodies, this saber serves both disciplined formations and ranged skirmish.

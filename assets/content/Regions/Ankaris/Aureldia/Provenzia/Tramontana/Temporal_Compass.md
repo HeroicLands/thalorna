@@ -7,9 +7,9 @@ name:
   full: Temporal Compass
   aliases: []
 shortcode: temprlcmpss
-packFolder: provenzia
 data:
   templatePriority: null
+  packFolder: provenzia
 sohl:
   system:
     weightBase: 1

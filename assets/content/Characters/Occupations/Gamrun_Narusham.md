@@ -11,7 +11,6 @@ name:
   clan: Narûsham
   home: qadhirun
   aliases: []
-packFolder: midhalionharad
 shortcode: gamrunrshm
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: tanned
     complexion: smooth
     extra_features: []
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

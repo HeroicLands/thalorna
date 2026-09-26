@@ -11,13 +11,11 @@ name:
   aliases:
     - Iron Spear Piercing the Clouds
 shortcode: teitjekvngyrt
-renamedFrom: ttjkvngyrt
 description: >-
   Vüshōk general of the Empire of Tānvür turned rebel—condemned for a
   disobedience that won the battle it defied, and now leading the revolt that
   condemnation made inevitable.
 type: being
-packFolder: threats
 data:
   icon: icon-person
   templatePriority: null
@@ -40,6 +38,7 @@ data:
     skin_color: null
     complexion: null
     extra_features: []
+  packFolder: threats
 ---
 
 # Appearance {#appearance}

@@ -10,7 +10,6 @@ name:
   clan: Bjargskorn
   home: steinmark
   aliases: []
-packFolder: ankarisnordlands
 shortcode: osknbjrgskrn
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: pale
     complexion: fair
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }

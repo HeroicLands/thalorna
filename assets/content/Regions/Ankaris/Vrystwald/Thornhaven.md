@@ -10,9 +10,9 @@ data:
   parents:
     - vrystwald
   population: 300
+  packFolder: vrystwald
 name:
   full: Thornhaven
   aliases: []
 shortcode: thornhaven
-packFolder: vrystwald
 ---

@@ -10,9 +10,7 @@ name:
   clan: Porphyrákit
   home: yesilhan2
   aliases: []
-packFolder: helladbyzaria
 shortcode: klnksprphrkt
-renamedFrom: klnkszygmls
 type: being
 data:
   icon: icon-person
@@ -39,6 +37,7 @@ data:
     complexion: tanned
     extra_features:
       - a scar on the left thigh
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

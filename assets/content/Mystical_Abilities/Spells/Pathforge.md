@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-tree
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: physera
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Tunnel
-packFolder: spells
+
+# hmk:
+#   name: Tunnel
 ---
 
 The caster presses a palm against earthen material—soil, a dirt floor, loose gravel, even sand—and their vision penetrates through the substance as though gazing through murky water, revealing everything within a depth proportional to their Spell Index measured in five-foot increments. The base version of the spell does not penetrate bedrock, solid metal, stone, or organic material such as roots and living creatures; these appear as dark, opaque shapes that block vision behind them. Light from outside the tunnel illuminates the viewed space at roughly half strength, creating a dim, shadowlike impression that may require keen perception to interpret fine details.

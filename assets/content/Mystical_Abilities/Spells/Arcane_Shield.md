@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-circle
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: kentra
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Aegis
-packFolder: spells
+
+# hmk:
+#   name: Aegis
 ---
 
 A ripple of pale force shimmers into existence before the caster, coalescing into a translucent disc that hovers at arm's length. The shield responds to incoming threats with startling speed, angling itself to deflect blows, absorb the kinetic force of projectiles, and scatter hostile magical energies. Its surface flickers with faint geometric patterns—the visible signature of compressed arcane force held under tension.

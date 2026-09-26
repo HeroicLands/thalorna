@@ -10,7 +10,6 @@ name:
   clan: Náredh
   home: valdun
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: haliranrdh
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: medium
     complexion: clear
     extra_features: []
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

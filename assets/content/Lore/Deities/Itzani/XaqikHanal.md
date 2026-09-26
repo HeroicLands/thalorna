@@ -7,5 +7,6 @@ name:
   full: Xaq'ik Ha'nal
   aliases: []
 shortcode: xaqikhanaldty
-packFolder: deitiesitzani
+data:
+  packFolder: deitiesitzani
 ---

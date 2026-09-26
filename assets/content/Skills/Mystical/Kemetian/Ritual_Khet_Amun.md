@@ -12,6 +12,7 @@ name:
     - Khet'Amun, The River-God
 data:
   templatePriority: null
+  packFolder: kemetian
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -20,7 +21,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: kemetian
 ---
 
 See [[affiliation-khetamun|Faith of Khet'Amun]]

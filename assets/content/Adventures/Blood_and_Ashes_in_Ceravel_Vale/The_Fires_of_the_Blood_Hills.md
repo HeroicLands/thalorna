@@ -16,11 +16,11 @@ data:
   party:
     size: null
     archetypes: []
+  packFolder: bloodandashesinceravelvale
 shortcode: firsbldhls
 name:
   full: The Fires of the Blood Hills
   aliases: []
-packFolder: bloodandashesinceravelvale
 ---
 
 ## Teaser

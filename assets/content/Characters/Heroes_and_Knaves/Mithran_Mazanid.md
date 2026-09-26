@@ -10,7 +10,6 @@ name:
   clan: Mazânid
   home: shamsun
   aliases: []
-packFolder: sultanateofamradad
 shortcode: mithrnmznd
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: tanned
     complexion: weathered
     extra_features: []
+  packFolder: sultanateofamradad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

@@ -11,7 +11,6 @@ name:
   clan: Gûlamû
   home: miravel
   aliases: []
-packFolder: midhalionharad
 shortcode: belsharglm
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a knight's helmet on the shoulder
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

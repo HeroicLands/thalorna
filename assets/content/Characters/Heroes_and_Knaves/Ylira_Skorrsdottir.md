@@ -9,7 +9,6 @@ name:
   given: Ylíra
   clan: Íseldr
   aliases: []
-packFolder: ankarisnordlands
 shortcode: ylrskrsdtr
 type: being
 data:
@@ -41,6 +40,7 @@ data:
       - lean and wiry
       - scar on her right hand
       - intensity in her gaze that unnerves strangers
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

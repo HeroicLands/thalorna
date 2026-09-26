@@ -12,12 +12,12 @@ data:
   parents:
     - cntrlhghlnds
   population: null
+  packFolder: aelwyth
 name:
   full: The Three Sisters
   aliases:
     - Battle of Three Sisters
 shortcode: threesisters
-packFolder: aelwyth
 ---
 
 Three peaks standing together above the open ground of the [[place-cntrlhghlnds|Central Highlands]], in

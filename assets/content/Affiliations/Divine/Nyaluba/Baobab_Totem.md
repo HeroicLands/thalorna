@@ -71,13 +71,13 @@ data:
     - nyalbpnthn
   relations:
     nyalbpnthn: aligned
+  packFolder: nyaluba
 name:
   full: "Baobab Totem"
   aliases:
     - Baobab of the Bombwe
     - Bombwe Totem
 shortcode: nyalbbaob
-packFolder: nyaluba
 sohl:
   system:
     commonSkills:

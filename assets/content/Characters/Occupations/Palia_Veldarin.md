@@ -10,7 +10,6 @@ name:
   clan: Véldarin
   home: cerdwnshlw
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: paliavldrn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: clear
     extra_features:
       - a tattoo of a bird in flight on the left shoulder
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

@@ -12,7 +12,6 @@ name:
   aliases:
     - Silverhand
   home: null
-packFolder: ankarisnordlands
 shortcode: frydslvrhnd
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: medium
     complexion: fair
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

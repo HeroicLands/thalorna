@@ -11,11 +11,11 @@ data:
   parents:
     - septneterunome
   population: 11000
+  packFolder: deltanomes
 name:
   full: Iat-Neteru
   aliases: []
 shortcode: iatneteru
-packFolder: deltanomes
 ---
 
 ## Overview

@@ -12,11 +12,11 @@ data:
   parents:
     - aldorathrgn
   population: 34000
+  packFolder: aelwyth
 name:
   full: The Wyndmarch
   aliases: []
 shortcode: wyndmarch
-packFolder: aelwyth
 ---
 
 The **Wyndmarch** is Aldorath's eastern frontier: the foothill country under the

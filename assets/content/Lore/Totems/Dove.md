@@ -10,9 +10,9 @@ name:
   aliases:
     - Dove Totem
 shortcode: dovettm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-dovetotem|Dove]]{float: top-left, size: medium}

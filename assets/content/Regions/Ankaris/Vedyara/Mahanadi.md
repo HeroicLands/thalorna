@@ -12,12 +12,12 @@ data:
   parents:
     - vedyarargn
   population: null
+  packFolder: vedyara
 name:
   full: The Mahānadi
   aliases:
     - Mahānadi
 shortcode: mahanadi
-packFolder: vedyara
 ---
 
 The **Mahānadi** is the great river of Vedyara: longest, widest, most populous along its banks, and the one a Vedyari means if he says "the river" and does not say which. It rises at [[place-mahaprbhva|Mahāprabhava]] and runs the length of the central plain to the eastern sea.

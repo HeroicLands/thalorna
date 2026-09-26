@@ -5,7 +5,8 @@ name:
   full: Philosophy of Lëivōr
   aliases: []
 shortcode: phlsphylvr
-packFolder: tanvur
+data:
+  packFolder: tanvur
 ---
 
 ## The Philosophy of Lëivōr in Tānvür

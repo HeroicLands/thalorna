@@ -11,7 +11,6 @@ name:
   home: theradon2
   aliases:
     - Lady Mirabel Shadowthorn
-packFolder: helladhelionis
 shortcode: nubarsjdrs
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: tanned
     complexion: olive_toned
     extra_features: []
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

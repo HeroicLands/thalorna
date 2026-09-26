@@ -23,11 +23,11 @@ data:
   parents: []
   relations:
     kingdmdnvr: nemesis
+  packFolder: aelwyth
 name:
   full: Saelvri
   aliases: []
 shortcode: saelvri
-packFolder: aelwyth
 sohl:
   system:
     commonSkills: []

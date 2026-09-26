@@ -13,11 +13,11 @@ data:
   parents:
     - suvarnagirijnpd
   population: null
+  packFolder: vedyara
 name:
   full: The Temple of Lower Suvarnagiri
   aliases: []
 shortcode: lowersuvtmpl
-packFolder: vedyara
 ---
 
 The **temple of Lower Suvarnagiri** stands at the foot of [[place-goldmountain|the Gold Mountain]], where [[place-bharavarivr|the Bhārava]] proper begins. It is the temple outsiders meet, because the road up the valley reaches it first and because the jewelers' quarter is at its gate.

@@ -106,7 +106,7 @@ data:
     ordoarcanis: nemesis
     justbladeordr: rival
     velvethand: aligned
-packFolder: crimesyndicates
+  packFolder: crimesyndicates
 sohl:
   system:
     commonSkills: []

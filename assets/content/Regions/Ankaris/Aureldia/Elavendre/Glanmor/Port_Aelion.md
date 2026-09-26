@@ -11,11 +11,11 @@ data:
   parents:
     - glanmor
   population: 9000
+  packFolder: elavendre
 name:
   full: Port Aelion
   aliases: []
 shortcode: portaelion
-packFolder: elavendre
 ---
 
 ## Overview

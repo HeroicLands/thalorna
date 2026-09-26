@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: rensesh
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: rensesh
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 Works on the living speaker's meaning rather than on the language, so it fails on writing, on

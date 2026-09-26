@@ -18,8 +18,9 @@ data:
   parents:
     - ankrscntnnt
   population: 50000
-terran_analog: "Belarus—a forest-and-marsh enclave at the eastern margin of the Nordlands, distinct in people and polity from its Norse/Germanic neighbors."
-packFolder: grukarholm
+  packFolder: grukarholm
+
+# terran_analog: "Belarus—a forest-and-marsh enclave at the eastern margin of the Nordlands, distinct in people and polity from its Norse/Germanic neighbors."
 ---
 
 Grukarhölm is a landlocked enclave at the eastern margin of the [[place-nrdlndsrgn|Nordlands]]—a country of dense mixed-and-coniferous forest, vast roadless marshlands, slow brown rivers, and innumerable shallow lakes that is the recognized homeland of the [[skill-grukarlng|Grukar]]. It is wholly surrounded by Nordmal-and-Velanthian neighbors and has no coast of its own; what natural defenses it possesses come not from mountains or seas but from the forest cover and the swamp country itself, which is impassable to organized armies for most of the year. Unlike the neighboring Nordmal kingdoms, Grukarhölm is not a confederation of sovereign kingdoms but a constantly shifting mosaic of tribal war-camps, held in precarious check by the hive-politics of Grukar society and by the brutal logic of a country whose terrain punishes the impatient and the soft.

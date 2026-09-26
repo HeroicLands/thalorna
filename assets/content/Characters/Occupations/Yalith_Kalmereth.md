@@ -10,7 +10,6 @@ name:
   clan: Kálmereth
   home: liranel
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: ylthklmrth
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: freckled
     extra_features:
       - a scar on the left eye
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

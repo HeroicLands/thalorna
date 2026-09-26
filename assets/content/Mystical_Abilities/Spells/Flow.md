@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-tree
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: physera
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Transfer
-packFolder: spells
+
+# hmk:
+#   name: Transfer
 ---
 
 The caster places hands on two creatures simultaneously—one suffering from a known ailment, the other serving as the recipient—and channels Physéra energy to transfer the disease or condition from the subject to the target. The target creature must be a living entity with a body and possess both Aura and Will. An unwilling recipient may resist with a Spirit test whose success level must exceed the caster's, with ties broken in the caster's favor. Even if the Spirit contest succeeds, the transfer also requires the target to succeed on an Aura test, with the spell providing a substantial bonus—ensuring that the recipient's spiritual essence is compatible with accepting the transferred condition.

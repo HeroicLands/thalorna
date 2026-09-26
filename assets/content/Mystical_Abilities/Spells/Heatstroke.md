@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-firebdg
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: pyrethos
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Fever
-packFolder: spells
+
+# hmk:
+#   name: Fever
 ---
 
 The caster reaches into the target's body and accelerates the thermal processes within, driving their core temperature upward at a rate the body's natural cooling mechanisms cannot match. The victim's skin flushes, sweat pours in rivulets, and the air around them seems to shimmer with escaping heat. Dizziness, nausea, and confusion set in as the brain struggles to function at elevated temperature, and muscles cramp and weaken as the body's systems begin to fail.

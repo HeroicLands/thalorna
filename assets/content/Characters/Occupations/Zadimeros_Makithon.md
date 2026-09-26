@@ -11,7 +11,6 @@ name:
   clan: Mâkîthôn
   home: thyrenae2
   aliases: []
-packFolder: helladhelionis
 shortcode: zdmrsmkthn
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a crescent moon on the neck
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: maatken
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: maatken
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 Two parties speak the oath with the hekau as witness, and the form is set on a shard, a doorpost

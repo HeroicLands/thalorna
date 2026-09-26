@@ -10,9 +10,9 @@ name:
   aliases:
     - Shark Totem
 shortcode: sharkttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-sharktotem|Shark]]{float: top-left, size: medium}

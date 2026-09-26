@@ -104,7 +104,7 @@ data:
   relations:
     kemtnpnthn: aligned
     ra: aligned
-packFolder: deltanomes
+  packFolder: deltanomes
 sohl:
   system:
     commonSkills:

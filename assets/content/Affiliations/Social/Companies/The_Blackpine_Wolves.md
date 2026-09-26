@@ -88,11 +88,11 @@ data:
   lore: []
   parents: []
   relations: {}
+  packFolder: politiescompanies
 name:
   full: The Blackpine Wolves
   aliases: []
 shortcode: blckpnwlvs
-packFolder: politiescompanies
 sohl:
   system:
     commonSkills: []

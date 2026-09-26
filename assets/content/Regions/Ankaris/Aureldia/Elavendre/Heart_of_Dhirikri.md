@@ -6,9 +6,9 @@ name:
   full: Heart of Dhiríkri
   aliases: []
 shortcode: heartofdhirikri
-packFolder: elavendre
 data:
   templatePriority: null
+  packFolder: elavendre
 sohl:
   system:
     weightBase: 1

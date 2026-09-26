@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-wind
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: zepharis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Flash
-packFolder: spells
+
+# hmk:
+#   name: Flash
 ---
 
 The caster claps both hands together and a sphere of searing white light erupts from the point of contact, expanding in a silent, concussive wave that strips color from the world for every onlooker within its compass. Eyes that were open at the moment of ignition are flooded with a painful after-image—a negative silhouette of everything in the field of view—that persists for several heartbeats, during which the afflicted can neither read a blade's trajectory nor place a sure foot on uneven ground.

@@ -11,11 +11,11 @@ data:
   parents:
     - tramontana
   population: null
+  packFolder: provenzia
 name:
   full: Ménavar Abbey
   aliases: []
 shortcode: menavarabbey
-packFolder: provenzia
 ---
 
 **Ménavar** was once a center of Aurèldían learning and spiritual practice—a great house of the

@@ -104,11 +104,12 @@ data:
   parents: []
   relations:
     itzanpnthn: aligned
-terran_analog: Venezuela, Guyana, Suriname, French Guiana, northern Brazil
-packFolder: tzikin
+  packFolder: tzikin
 sohl:
   system:
     commonSkills: []
+
+# terran_analog: Venezuela, Guyana, Suriname, French Guiana, northern Brazil
 ---
 
 ## Overview

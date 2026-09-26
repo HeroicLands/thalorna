@@ -67,12 +67,12 @@ data:
     - kemtnpnthn
   relations:
     kemtnpnthn: aligned
+  packFolder: pantheonskemetian
 name:
   full: Faith of Sobek
   aliases:
     - Sobek, The Crocodile-God
 shortcode: sobek
-packFolder: pantheonskemetian
 sohl:
   system:
     commonSkills: []

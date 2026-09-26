@@ -11,7 +11,6 @@ name:
   clan: Garwald
   home: falkensten
   aliases: []
-packFolder: ankarisvrystwald
 shortcode: hrmndgrwld
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: light
     complexion: wrinkled
     extra_features: []
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

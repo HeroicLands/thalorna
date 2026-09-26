@@ -13,7 +13,6 @@ name:
   home: stalbrekka
   aliases:
     - the Rogue Skald
-packFolder: ankarisnordlands
 shortcode: dagmrwndrr
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: light
     complexion: null
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

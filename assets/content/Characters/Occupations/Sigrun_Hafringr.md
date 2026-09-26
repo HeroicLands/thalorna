@@ -11,7 +11,6 @@ name:
   clan: Hafringr
   home: stormveil
   aliases: []
-packFolder: aureldiaaelwyth
 shortcode: sgrnhfrngr
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: ruddy
     extra_features:
       - burn mark on wrist
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }

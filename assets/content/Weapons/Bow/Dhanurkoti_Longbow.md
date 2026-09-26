@@ -9,6 +9,7 @@ type: weapongear
 data:
   icon: icon-bow
   templatePriority: null
+  packFolder: weapons
 sohl:
   kbcat: bow
   weaponType: Bow
@@ -106,7 +107,6 @@ sohl:
           noStrMod: false
           halfImpact: false
           lowAim: false
-packFolder: weapons
 ---
 
 Cut to a single stave and drawn heavy, the Dhanurkoti longbow is the Academy of the High Draw's own make—the "great longbow tradition" the academy has taught for fifteen centuries. A recruit graduates onto it only after his draw hand can hold the full war weight steady through a volley, which is most of what the academy's training is for. Its owners staff the missile ranks of every kingdom that can afford them, and a Dhanurkoti-strung company is recognized on the field by the weight of the arrows it puts in the air rather than by any banner.

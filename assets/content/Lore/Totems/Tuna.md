@@ -10,9 +10,9 @@ name:
   aliases:
     - Tuna Totem
 shortcode: tunattm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-tunatotem|Tuna]]{float: top-left, size: medium}

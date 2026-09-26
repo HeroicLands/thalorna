@@ -16,6 +16,7 @@ name:
 data:
   icon: thoth
   templatePriority: null
+  packFolder: kemetian
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -24,7 +25,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: kemetian
 ---
 
 See [[affiliation-thoth|Faith of Thōth]]

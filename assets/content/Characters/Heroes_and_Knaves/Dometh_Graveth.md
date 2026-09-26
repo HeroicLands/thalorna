@@ -11,7 +11,6 @@ name:
   clan: Gráveth
   home: solarden
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: domthgrvth
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a snake on the chest
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

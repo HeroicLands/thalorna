@@ -105,7 +105,7 @@ data:
     arldnpnthn: aligned
     kingdmtrvn: unaligned
     kngdmlvndr: unaligned
-packFolder: tarvenia
+  packFolder: tarvenia
 sohl:
   system:
     commonSkills:

@@ -12,7 +12,6 @@ name:
   aliases:
     - Fire-Tongue
   home: null
-packFolder: ankarisnordlands
 shortcode: hakonfrtng
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: pale
     complexion: sun_kissed
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

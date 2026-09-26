@@ -7,5 +7,6 @@ name:
   full: Vénusia
   aliases: []
 shortcode: venusiadty
-packFolder: deitiesaureldian
+data:
+  packFolder: deitiesaureldian
 ---

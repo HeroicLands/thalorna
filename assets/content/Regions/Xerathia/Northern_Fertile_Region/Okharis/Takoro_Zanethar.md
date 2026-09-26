@@ -9,7 +9,6 @@ name:
   given: Tákoro
   clan: Zanethar
   aliases: []
-packFolder: northernfertileregionokharis
 shortcode: takorozanethar
 type: being
 data:
@@ -35,6 +34,7 @@ data:
     skin_color: ebony
     complexion: medium
     extra_features: []
+  packFolder: northernfertileregionokharis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

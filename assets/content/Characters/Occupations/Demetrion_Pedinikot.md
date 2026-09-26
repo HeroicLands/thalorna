@@ -11,9 +11,7 @@ name:
   clan: Pediníkot
   home: ""
   aliases: []
-packFolder: helladbyzaria
 shortcode: dmtrnpdnkt
-renamedFrom: dmtrnkmnns
 type: being
 data:
   icon: icon-person
@@ -41,6 +39,7 @@ data:
     complexion: fair
     extra_features:
       - deep-set eyes
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 11 } }

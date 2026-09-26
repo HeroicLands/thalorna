@@ -10,11 +10,11 @@ data:
   parents:
     - alyssa
   population: 6000
+  packFolder: vylaria
 name:
   full: Vennara
   aliases: []
 shortcode: vennara
-packFolder: vylaria
 ---
 
 ## Overview

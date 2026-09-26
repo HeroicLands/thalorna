@@ -11,11 +11,11 @@ data:
   parents:
     - neferusinome
   population: 38000
+  packFolder: upperrivernomes
 name:
   full: Neferusi
   aliases: []
 shortcode: neferusi
-packFolder: upperrivernomes
 ---
 
 ## Overview

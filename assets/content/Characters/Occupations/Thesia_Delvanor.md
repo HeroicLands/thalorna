@@ -10,7 +10,6 @@ name:
   clan: Delvánor
   home: null # was: Eskárath
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: thesidlvnr
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: medium
     complexion: bronzed
     extra_features: []
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

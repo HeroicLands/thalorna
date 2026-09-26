@@ -10,7 +10,6 @@ name:
   clan: Khâvandar
   home: kethramir
   aliases: []
-packFolder: ankariskhazryndesert
 shortcode: kamdkhvndr
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: ruddy
     extra_features:
       - a tattoo of a phoenix on the chest
+  packFolder: ankariskhazryndesert
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

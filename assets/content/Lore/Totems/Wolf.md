@@ -10,9 +10,9 @@ name:
   aliases:
     - Wolf Totem
 shortcode: wolfttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-wolftotem|Wolf]]{float: top-left, size: medium}

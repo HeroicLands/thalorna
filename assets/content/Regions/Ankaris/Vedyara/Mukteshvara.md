@@ -12,11 +12,11 @@ data:
   parents:
     - rajapurjnpd
   population: 780
+  packFolder: vedyara
 name:
   full: Mukteshvara
   aliases: []
 shortcode: mukteshvara
-packFolder: vedyara
 ---
 
 Mukteshvara (780) is the downstream village of the janapada, and the dead of every village in it come here. The Rásikara cremation-ground runs along a half-mile of bank below the houses. Its ghats are stone and are kept by the village at the janapada's charge.

@@ -10,6 +10,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: 0
+  packFolder: cash
 sohl:
   craft:
     skill: mtlc
@@ -20,7 +21,6 @@ sohl:
     valueBase: 0.125
     qualityBase: 0
     durabilityBase: 3
-packFolder: cash
 ---
 
 The Confederation's small change, an eighth of a Haradian Argentus, cut or struck as the imperial equivalent is and holding the same standard.

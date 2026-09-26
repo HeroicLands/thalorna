@@ -11,7 +11,8 @@ name:
     - The Lion Guide
     - Lion of the Mvuzi
 shortcode: lionmvuzispr
-packFolder: lorespiritsnyaluba
+data:
+  packFolder: lorespiritsnyaluba
 ---
 
 The totemic being venerated by the [[affiliation-nylbtrblntn|Mvuzi]]. For the cult, its

@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-anvilbdg
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: sideros
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Anvil
-packFolder: spells
+
+# hmk:
+#   name: Anvil
 ---
 
 The caster raises a clenched fist overhead and a block of solid metal materializes high above the target—a massive, gleaming anvil of condensed steel that hangs motionless for a heartbeat before plummeting with gravity-assisted, magically accelerated force. The impact is catastrophic, combining the sheer weight of hundreds of pounds of solid metal with the velocity of a falling boulder. The ground craters, structures collapse, and anything directly beneath the anvil is simply obliterated.

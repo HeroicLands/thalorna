@@ -10,7 +10,6 @@ name:
   clan: Vetrdómr
   home: havamal
   aliases: []
-packFolder: ankarisnordlands
 shortcode: dekvetrdmr
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: tanned
     complexion: weathered
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

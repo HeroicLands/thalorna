@@ -15,11 +15,11 @@ data:
   party:
     size: null
     archetypes: []
+  packFolder: bloodandashesinceravelvale
 name:
   full: Cave Outline
   aliases: []
 shortcode: caveoutlin
-packFolder: bloodandashesinceravelvale
 ---
 
 ### Approach to the Cave

@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: maatken
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: maatken
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 The duty must be written out in full and without ambiguity, and this is where the working is

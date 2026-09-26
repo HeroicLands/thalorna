@@ -7,7 +7,8 @@ name:
   aliases:
     - People of the Pact
 shortcode: aelendnppl
-packFolder: elavendre
+data:
+  packFolder: elavendre
 ---
 
 - **Parent realm:** [[place-elavendre|Élavendre]]

@@ -10,53 +10,55 @@ name:
   aliases:
     - The Uplift of Kalihara
 shortcode: kaliharupl
-packFolder: settinglore
-event:
-  kind: founding
-  depth: world
-  when:
-    year: -9280
-    precision: millennium
-    derived: ten thousand years
-  sources:
-    - lore-theithari
-    - affiliation-kalihara
-    - place-klhrcntnnt
-  summary: >-
-    The Ithári raise the humans of Kalihara into a civilization that arrives complete—agriculture,
-    medicine, governance, a vocabulary for all of it, and the philosophical tradition Thári'vaan.
-    Nothing on the island shows the long ascent every other human tradition shows. It is the only
-    place on Thalorna where the Ithári raised anyone.
-  standing: reconstructed
-  names:
-    - name: Thári'vaan
-      by: affiliation-tharivaan
-      gloss: the philosophy given at the raising, and the tradition that keeps it
-  where:
-    locus:
-      - place-kaliharargn
-  who:
-    - ref: lore-theithari
-      role: actor
-  follows:
-    - event: lore-ithariarrv
-      how: enabled
-      note: the people who did this were already on the island and had been for centuries
-  accounts:
-    - by: affiliation-kalihara
-      says: >-
-        We were taught because teaching was the right way to treat what they found, and Thári'vaan is
-        true independently of who first said it.
-      agrees: full
-    - by: place-worldthlrn
-      says: >-
-        The learned world argues about an inheritance from the Elder Races and has never heard this
-        case at all.
-      agrees: silent
-  unresolved:
-    - whether the civilization was the purpose or a byproduct of something else
-    - why Kalihara alone
-    - the year is a round Kaliharan figure counted back from the present, not a date any record fixes
+data:
+  packFolder: settinglore
+
+# event:
+#   kind: founding
+#   depth: world
+#   when:
+#     year: -9280
+#     precision: millennium
+#     derived: ten thousand years
+#   sources:
+#     - lore-theithari
+#     - affiliation-kalihara
+#     - place-klhrcntnnt
+#   summary: >-
+#     The Ithári raise the humans of Kalihara into a civilization that arrives complete—agriculture,
+#     medicine, governance, a vocabulary for all of it, and the philosophical tradition Thári'vaan.
+#     Nothing on the island shows the long ascent every other human tradition shows. It is the only
+#     place on Thalorna where the Ithári raised anyone.
+#   standing: reconstructed
+#   names:
+#     - name: Thári'vaan
+#       by: affiliation-tharivaan
+#       gloss: the philosophy given at the raising, and the tradition that keeps it
+#   where:
+#     locus:
+#       - place-kaliharargn
+#   who:
+#     - ref: lore-theithari
+#       role: actor
+#   follows:
+#     - event: lore-ithariarrv
+#       how: enabled
+#       note: the people who did this were already on the island and had been for centuries
+#   accounts:
+#     - by: affiliation-kalihara
+#       says: >-
+#         We were taught because teaching was the right way to treat what they found, and Thári'vaan is
+#         true independently of who first said it.
+#       agrees: full
+#     - by: place-worldthlrn
+#       says: >-
+#         The learned world argues about an inheritance from the Elder Races and has never heard this
+#         case at all.
+#       agrees: silent
+#   unresolved:
+#     - whether the civilization was the purpose or a byproduct of something else
+#     - why Kalihara alone
+#     - the year is a round Kaliharan figure counted back from the present, not a date any record fixes
 ---
 
 What the Ithári made on Kalihara was not a people improved but a civilization invented. It arrived

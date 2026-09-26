@@ -11,9 +11,9 @@ data:
   parents:
     - amradadrgn
   population: 15000
+  packFolder: amradad
 name:
   full: Shamsûn
   aliases: []
 shortcode: shamsun
-packFolder: amradad
 ---

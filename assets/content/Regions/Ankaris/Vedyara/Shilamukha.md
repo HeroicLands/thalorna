@@ -12,9 +12,9 @@ data:
   parents:
     - suvarnagirijnpd
   population: 480
+  packFolder: vedyara
 name:
   full: Shilāmukha
   aliases: []
 shortcode: shilamukha
-packFolder: vedyara
 ---

@@ -10,6 +10,7 @@ subType: birthsign
 data:
   icon: icon-astrology
   templatePriority: 0
+  packFolder: astrokyklos
 sohl:
   kbcat: birthsign
   system:
@@ -37,7 +38,6 @@ sohl:
       "subType:social": 15
       water: 15
       hydalis: 15
-packFolder: astrokyklos
 ---
 
 Nalos, the River, carries its children toward company and speech. Persuasive and worldly, at home in field and gathering, they are ill-starred for the martial disciplines and the labors of the maker's hand.

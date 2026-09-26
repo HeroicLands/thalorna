@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-tree
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: physera
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Stay
-packFolder: spells
+
+# hmk:
+#   name: Stay
 ---
 
 The caster designates one understood injury on a target creature and lays a stabilizing enchantment upon it, ensuring that the next Healing Roll which would result in a Course Failure is instead treated as though no roll occurred at all—the wound simply holds steady rather than deteriorating. This grants the Healing talent bonus and requires Understanding. The spell ends when this protective intervention triggers, when a second Course Failure would occur, or when the injury heals naturally. A given trauma can benefit from only one such stabilizing enchantment at a time, preventing the stacking of multiple safety nets.

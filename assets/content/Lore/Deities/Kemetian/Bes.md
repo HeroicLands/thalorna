@@ -7,7 +7,8 @@ name:
   full: Bēs
   aliases: []
 shortcode: besdty
-packFolder: deitieskemetian
+data:
+  packFolder: deitieskemetian
 ---
 
 ![[icon-bes|Bēs]]{float: top-left, size: medium}

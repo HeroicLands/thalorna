@@ -12,11 +12,11 @@ data:
   parents:
     - suvarnagirijnpd
   population: 720
+  packFolder: vedyara
 name:
   full: Kanakasetu
   aliases: []
 shortcode: kanakasetu
-packFolder: vedyara
 ---
 
 Kanakasetu (720) stands at the bridge where the pilgrim road crosses the Bhārava below the mountain. Everything that goes up to Suvarnagiri comes through it. The bridge is stone, of four spans, and is kept by the janapada out of the common share.

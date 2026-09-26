@@ -11,11 +11,11 @@ data:
   parents:
     - moktur
   population: 6000
+  packFolder: vylaria
 name:
   full: Castrovar
   aliases: []
 shortcode: castrovar
-packFolder: vylaria
 ---
 
 ## Overview

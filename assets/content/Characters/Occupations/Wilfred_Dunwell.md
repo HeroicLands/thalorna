@@ -10,7 +10,6 @@ name:
   clan: Dunwell
   home: brynhallow
   aliases: []
-packFolder: aureldiaaelwyth
 shortcode: wilfrednwl
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: fair
     complexion: weathered
     extra_features: []
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

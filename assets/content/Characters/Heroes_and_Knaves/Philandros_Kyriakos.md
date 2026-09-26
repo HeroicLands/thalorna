@@ -11,7 +11,6 @@ name:
   clan: Kyriákos
   home: byzaris
   aliases: []
-packFolder: helladbyzaria
 shortcode: phlndrskyrks
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a lion on the thigh
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

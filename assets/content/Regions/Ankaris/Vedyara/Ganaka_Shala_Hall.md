@@ -10,11 +10,11 @@ data:
   parents:
     - chandrapur2
   population: null
+  packFolder: vedyara
 name:
   full: The Ganaka-shala
   aliases: []
 shortcode: ganakahall
-packFolder: vedyara
 ---
 
 The **Ganaka-shala** stands on the high ground behind the ninth quarter of [[place-chandrapur2|Chandrapur]], far enough from the river that the delta haze does not spoil a sighting. It is three things joined: an open hall with a slate floor, a walled courtyard of graduated arcs and gnomons, and a flat roof laid out with sightlines cut into the parapet.

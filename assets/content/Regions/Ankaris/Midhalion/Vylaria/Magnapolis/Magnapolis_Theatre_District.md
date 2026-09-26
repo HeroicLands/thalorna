@@ -13,11 +13,11 @@ data:
   parents:
     - magnapolis
   population: null
+  packFolder: vylaria
 name:
   full: Theatre District
   aliases: []
 shortcode: magntheatredstr
-packFolder: vylaria
 ---
 
 The **Theatre District** is the quieter of Magnápolis's two quarters of pleasure—the Circus quarter

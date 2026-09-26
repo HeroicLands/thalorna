@@ -9,11 +9,10 @@ description: "Deep gray blue-tinged liquid; induces deep sleep and rest."
 shortcode: ptnsops
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Soporific, Strong"
 data:
   icon: icon-potion
   templatePriority: null
+  packFolder: strong
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +21,9 @@ sohl:
     durabilityBase: 5
     potency: "strong"
     strength: 0
-packFolder: strong
+
+# hmk:
+#   name: "Potion, Soporific, Strong"
 ---
 
 This draft is darker than its mild counterpart—a deep gray or blue-tinged liquid that seems to hold the color of twilight itself. The aroma is heavier and more cloying: a thick miasma of sleep-herbs, poppy, and something mineral that weighs on the senses. A small sip induces immediate drowsiness so profound that many users report their eyes beginning to close before they finish swallowing. Those who drink it often describe the experience as falling into warm water, growing heavier and heavier until nothing remains but the pull toward sleep.

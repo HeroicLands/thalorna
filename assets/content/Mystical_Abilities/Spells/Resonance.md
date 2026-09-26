@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-wind
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: zepharis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Sound
-packFolder: spells
+
+# hmk:
+#   name: Sound
 ---
 
 The caster presses fingertips to their own throat and hums a sustained note; the surrounding air picks up the vibration and begins to oscillate in sympathy, placing every sound within the spell's radius under the caster's direct control. Whispers can be swelled to thunderous volume, a sentry's challenge can be muted to inaudibility, and phantom sounds—phantom footsteps approaching from behind, the creak of a bowstring being drawn—can be woven into the ambient soundscape with unsettling realism.

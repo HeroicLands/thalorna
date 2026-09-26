@@ -88,7 +88,7 @@ data:
   relations:
     tngvkvnlei: aligned
     yokveng: aligned
-packFolder: demonlords
+  packFolder: demonlords
 sohl:
   system:
     commonSkills: []

@@ -10,49 +10,51 @@ name:
   aliases:
     - The Only Meeting
 shortcode: itharicntc
-packFolder: settinglore
-event:
-  kind: contact
-  depth: world
-  when:
-    year: -7500
-    precision: century
-  sources:
-    - lore-theithari
-    - lore-flksinale
-  summary: >-
-    Sinalë wayfarers come upon the Ithári in a place neither people has ever named. They are received,
-    offered no exchange, and politely declined. The Sinalë come away without learning who they had met,
-    where those people came from, what they were doing on Thalorna, or that there was any connection
-    between them and the works on Kalihara. It is the only contact between the Ithári and an Elder
-    Race in any record.
-  standing: single-source
-  where:
-    locus:
-      - place-worldthlrn
-  who:
-    - ref: lore-flksinale
-      role: actor
-    - ref: lore-theithari
-      role: actor
-  follows:
-    - event: lore-sinalearrv
-      how: enabled
-      note: the wayfarers who came upon them had been in the world a short time
-  accounts:
-    - by: lore-flksinale
-      says: >-
-        We came upon them, we were not rebuffed and not taken seriously, and the impression we came
-        away with—given as an impression—is that we were found quaint.
-      agrees: partly
-      withholds: where it happened, what was said, and what the others were doing when they were found
-    - by: affiliation-kalihara
-      says: >-
-        Nothing. The island was not party to it and did not learn of it from the Ithári.
-      agrees: silent
-  unresolved:
-    - where the meeting happened
-    - whether the Sinalë ever put that afternoon together with the builders of Kalihara's works
+data:
+  packFolder: settinglore
+
+# event:
+#   kind: contact
+#   depth: world
+#   when:
+#     year: -7500
+#     precision: century
+#   sources:
+#     - lore-theithari
+#     - lore-flksinale
+#   summary: >-
+#     Sinalë wayfarers come upon the Ithári in a place neither people has ever named. They are received,
+#     offered no exchange, and politely declined. The Sinalë come away without learning who they had met,
+#     where those people came from, what they were doing on Thalorna, or that there was any connection
+#     between them and the works on Kalihara. It is the only contact between the Ithári and an Elder
+#     Race in any record.
+#   standing: single-source
+#   where:
+#     locus:
+#       - place-worldthlrn
+#   who:
+#     - ref: lore-flksinale
+#       role: actor
+#     - ref: lore-theithari
+#       role: actor
+#   follows:
+#     - event: lore-sinalearrv
+#       how: enabled
+#       note: the wayfarers who came upon them had been in the world a short time
+#   accounts:
+#     - by: lore-flksinale
+#       says: >-
+#         We came upon them, we were not rebuffed and not taken seriously, and the impression we came
+#         away with—given as an impression—is that we were found quaint.
+#       agrees: partly
+#       withholds: where it happened, what was said, and what the others were doing when they were found
+#     - by: affiliation-kalihara
+#       says: >-
+#         Nothing. The island was not party to it and did not learn of it from the Ithári.
+#       agrees: silent
+#   unresolved:
+#     - where the meeting happened
+#     - whether the Sinalë ever put that afternoon together with the builders of Kalihara's works
 ---
 
 The one crack in the silence is an afternoon, and almost nothing came through it.

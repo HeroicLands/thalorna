@@ -11,7 +11,6 @@ name:
   clan: Hârlânis
   home: ""
   aliases: []
-packFolder: midhalionvylaria
 shortcode: lothnhrlns
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: freckled
     extra_features:
       - calloused knuckles
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 9 } }

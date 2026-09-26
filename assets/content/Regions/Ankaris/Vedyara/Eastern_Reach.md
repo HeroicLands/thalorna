@@ -12,11 +12,11 @@ data:
   parents:
     - graznmntns
   population: null
+  packFolder: vedyara
 name:
   full: The Eastern Reach
   aliases: []
 shortcode: estrnreach
-packFolder: vedyara
 ---
 
 The **Eastern Reach** is where the [[place-graznmntns|Grazian Mountains]] leave [[place-vedyarargn|Vedyara]]'s northern margin and swing east toward the western frontier of [[place-tanvuregin|Tānvür]]. It is the overland barrier between the two great eastern civilizations, and the only reason either of them has ever had to think about the other.

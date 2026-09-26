@@ -12,7 +12,6 @@ name:
   given: Dágulf
   clan: Véthar
   aliases: []
-packFolder: ankarisvrystwald
 shortcode: dagulfvthr
 type: being
 data:
@@ -41,6 +40,7 @@ data:
     complexion: medium
     extra_features:
       - Pox marks
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

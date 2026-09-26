@@ -64,12 +64,12 @@ data:
     - kemtnpnthn
   relations:
     kemtnpnthn: aligned
+  packFolder: pantheonskemetian
 name:
   full: Faith of Bēs
   aliases:
     - Bēs, Guardian of Night Visions
 shortcode: bes
-packFolder: pantheonskemetian
 sohl:
   system:
     commonSkills: []

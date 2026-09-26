@@ -103,11 +103,12 @@ data:
     - humanflk
   parents: []
   relations: {}
-terran_analog: Ontario, Quebec in Canada—Eastern Great Lakes and boreal forest
-packFolder: xikulchakal
+  packFolder: xikulchakal
 sohl:
   system:
     commonSkills: []
+
+# terran_analog: Ontario, Quebec in Canada—Eastern Great Lakes and boreal forest
 ---
 
 ## Overview

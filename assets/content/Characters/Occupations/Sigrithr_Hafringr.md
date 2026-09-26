@@ -11,7 +11,6 @@ name:
   clan: Hafringr
   home: ""
   aliases: []
-packFolder: ankarisnordlands
 shortcode: sgrthrhfrngr
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: clear
     extra_features:
       - crooked nose
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 11 } }

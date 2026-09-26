@@ -10,7 +10,6 @@ name:
   clan: Barnwell
   home: ashford
   aliases: []
-packFolder: aureldiaaelwyth
 shortcode: lefrcbrnwl
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: fair
     complexion: freckled
     extra_features: []
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

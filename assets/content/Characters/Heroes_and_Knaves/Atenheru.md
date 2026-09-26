@@ -13,7 +13,6 @@ name:
   aliases:
     - The Silent Jackal
     - The Desert Wanderer
-packFolder: dunharatribes
 shortcode: atenhershr
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: olive_tanned
     complexion: null
     extra_features: []
+  packFolder: dunharatribes
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

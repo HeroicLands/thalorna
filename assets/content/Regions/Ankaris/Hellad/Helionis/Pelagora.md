@@ -110,7 +110,7 @@ data:
     - ctysttshlns
   relations:
     arldnpnthn: aligned
-packFolder: helionis
+  packFolder: helionis
 sohl:
   system:
     commonSkills:

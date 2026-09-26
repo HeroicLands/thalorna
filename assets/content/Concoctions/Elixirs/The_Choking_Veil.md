@@ -9,11 +9,10 @@ description: "Murky greenish liquid; hurled to create choking smoke cloud."
 shortcode: elxfmb
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Fumebomb
 data:
   icon: icon-potion
   templatePriority: null
+  packFolder: elixirs
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +21,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Fumebomb
 ---
 
 A thick, murky greenish-gray liquid that emits a faint chemical reek even through sealed glass, bound to the Principle of Smoke (Pyréthos). Like its volatile sibling Eruption, Fumebomb is designed to be hurled, not drunk. When the vial's container is smashed—whether lobbed at enemies, thrown against a barrier, or dashed to the ground—it erupts in a billowing cloud of choking, acrid smoke that spreads in a ten-foot diameter and blocks line of sight for one round before dissipating.

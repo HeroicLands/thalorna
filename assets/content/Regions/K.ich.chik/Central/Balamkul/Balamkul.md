@@ -104,11 +104,12 @@ data:
   parents: []
   relations:
     itzanpnthn: aligned
-terran_analog: Central Mexico
-packFolder: balamkul
+  packFolder: balamkul
 sohl:
   system:
     commonSkills: []
+
+# terran_analog: Central Mexico
 ---
 
 ## Overview

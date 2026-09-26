@@ -10,7 +10,6 @@ name:
   clan: Mórlineth
   home: liranel
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: sdrkmrlnth
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: light
     complexion: weathered
     extra_features: []
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

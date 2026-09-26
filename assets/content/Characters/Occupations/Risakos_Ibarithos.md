@@ -10,7 +10,6 @@ name:
   clan: Ibârìthôs
   home: korinthea2
   aliases: []
-packFolder: helladhelionis
 shortcode: risksbrths
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: clear
     extra_features:
       - a scar on the left calf
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

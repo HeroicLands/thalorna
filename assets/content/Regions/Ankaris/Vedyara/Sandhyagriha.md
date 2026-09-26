@@ -14,12 +14,12 @@ data:
   parents:
     - vyalendra3
   population: null
+  packFolder: vedyara
 name:
   full: Sandhyāgriha
   aliases:
     - The House of the Long Evening
 shortcode: sandhyagrha
-packFolder: vedyara
 ---
 
 **Sandhyāgriha** stands in the palace quarter of [[place-vyalendra3|Vyālendra]], four streets from the hall where the [[affiliation-vyalendra2|Loom-Council]] sits. It is the principal house of [[affiliation-twilighths|the Twilight House]], and satellite houses stand under it in each of the major Vedyaran cities. What a client buys here is an evening's company, a room his rivals also enter, and a room his servants do not follow him into.

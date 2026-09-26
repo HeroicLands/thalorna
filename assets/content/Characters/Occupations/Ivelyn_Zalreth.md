@@ -10,7 +10,6 @@ name:
   clan: Zálreth
   home: valdun
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: ivlynzlrth
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: fair
     complexion: fair
     extra_features: []
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

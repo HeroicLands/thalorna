@@ -12,11 +12,11 @@ data:
   parents:
     - rajapurjnpd
   population: null
+  packFolder: vedyara
 name:
   full: The Sandstone Altar
   aliases: []
 shortcode: sandstonealtr
-packFolder: vedyara
 ---
 
 The **sandstone altar** in the main hall of the great Vyālendra temple at [[place-rajapur|Rājapur]] is the original altar of the temple, cut at the founding of the dynastic capital twelve centuries ago. It is one block, of a workmanship the Rājapuri consider unmatched in the janapada and possibly in the circuit, and it is the oldest object in continuous ritual use in the janapada by three hundred years.

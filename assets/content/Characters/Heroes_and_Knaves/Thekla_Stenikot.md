@@ -10,9 +10,7 @@ name:
   clan: Steníkot
   home: kostaros
   aliases: []
-packFolder: helladbyzaria
 shortcode: theklastnkt
-renamedFrom: theklarhms
 type: being
 data:
   icon: icon-person
@@ -38,6 +36,7 @@ data:
     skin_color: tanned
     complexion: null
     extra_features: []
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

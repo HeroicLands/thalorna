@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: imnetau
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: imnetau
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 The deepest layer of tomb defense, worked jointly with Per-Khat'nu, which makes the body and Per-

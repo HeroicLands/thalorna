@@ -7,5 +7,6 @@ name:
   full: Súrtr
   aliases: []
 shortcode: surtrdty
-packFolder: deitiesasguardian
+data:
+  packFolder: deitiesasguardian
 ---

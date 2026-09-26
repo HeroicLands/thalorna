@@ -23,11 +23,11 @@ data:
   parents:
     - kingdomlgn
   relations: {}
+  packFolder: malagna
 name:
   full: Grímvar
   aliases: []
 shortcode: grimvar
-packFolder: malagna
 sohl:
   system:
     commonSkills: []

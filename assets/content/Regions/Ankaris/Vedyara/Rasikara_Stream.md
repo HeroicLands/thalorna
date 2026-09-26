@@ -12,11 +12,11 @@ data:
   parents:
     - suvarnagirijnpd
   population: null
+  packFolder: vedyara
 name:
   full: The Rásikara Stream
   aliases: []
 shortcode: rasikarastrm
-packFolder: vedyara
 ---
 
 The **Rásikara stream** rises on the back slope of [[place-goldmountain|the Gold Mountain]] and yields no gold. Panning is forbidden in it by Suvarnagiri tradition, which is a prohibition on a thing nobody has a reason to do, and that is the point of it.

@@ -10,11 +10,11 @@ data:
   parents:
     - norgaad
   population: 300
+  packFolder: norgaad
 name:
   full: Hrafnfjord
   aliases: []
 shortcode: hrafnfjord
-packFolder: norgaad
 ---
 
 ## Overview

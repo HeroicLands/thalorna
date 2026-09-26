@@ -12,7 +12,6 @@ name:
   aliases:
     - Tefnutî HetWera
     - Tefnuti HetWera
-packFolder: northernfertileregiontakheperu
 shortcode: tefnuthtwr
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: warm
     complexion: null
     extra_features: []
+  packFolder: northernfertileregiontakheperu
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

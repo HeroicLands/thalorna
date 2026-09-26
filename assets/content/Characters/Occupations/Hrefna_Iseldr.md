@@ -10,7 +10,6 @@ name:
   clan: Íseldr
   home: ravensholm
   aliases: []
-packFolder: ankarisnordlands
 shortcode: hrefnasldr
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: pale
     complexion: pale
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

@@ -10,6 +10,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: 0
+  packFolder: cash
 sohl:
   craft:
     skill: mtlc
@@ -20,7 +21,6 @@ sohl:
     valueBase: 0.125
     qualityBase: 0
     durabilityBase: 3
-packFolder: cash
 ---
 
 The smallest sealed piece the temples issue, bronze at one kite. Like the copper deben it passes at its attested face rather than its metal, and the metal is worth a fraction of it.

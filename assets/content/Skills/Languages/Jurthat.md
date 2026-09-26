@@ -11,6 +11,7 @@ subType: language
 data:
   icon: icon-speaking
   templatePriority: null
+  packFolder: language
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -19,10 +20,9 @@ sohl:
     combatCategory: none
     parentSkillCode: lang
     initSkillMult: 0
-packFolder: language
-flags:
-  "thalorna":
-    lang_family: Tānvüri
+  flags:
+    "thalorna":
+      lang_family: Tānvüri
 ---
 
 Jürthāti is a tongue of the Tānvüri family. Fluency measures the sophistication of expression in Jürthāti, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.

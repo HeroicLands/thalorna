@@ -12,6 +12,7 @@ subType: script
 data:
   icon: icon-speaking
   templatePriority: null
+  packFolder: script
 sohl:
   system:
     skillBaseFormula: "@rea, @per"
@@ -20,10 +21,9 @@ sohl:
     combatCategory: none
     parentSkillCode: script
     initSkillMult: 0
-packFolder: script
-flags:
-  "thalorna":
-    script_family: Logographic
+  flags:
+    "thalorna":
+      script_family: Logographic
 ---
 
 Demotika is what happened when the empire's paperwork outgrew its priesthood. Roughly eight centuries ago the scribes of [[affiliation-empirtkhpr|Ta'Kheperu]] cut the seven hundred signs of [[skill-khprsshscrpt|Kheperi-sesh]] down to about a hundred, ran them together with ligatures for the common sequences, and learned to write them with a reed at speed. It is the same language underneath and a different skill entirely to read.

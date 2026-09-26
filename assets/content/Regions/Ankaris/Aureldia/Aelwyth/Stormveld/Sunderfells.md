@@ -12,11 +12,11 @@ data:
   parents:
     - stormveld
   population: 16000
+  packFolder: aelwyth
 name:
   full: The Sunderfells
   aliases: []
 shortcode: sunderfells
-packFolder: aelwyth
 ---
 
 The **Sunderfells** are Stormveld's southern march: the northern arm of the [[place-ironfells|Ironfells]]

@@ -13,6 +13,7 @@ name:
     - The Wind Spirits of the Road
 data:
   templatePriority: null
+  packFolder: varnaka
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +22,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: varnaka
 ---
 
 ## Ritual: Pavanajitras

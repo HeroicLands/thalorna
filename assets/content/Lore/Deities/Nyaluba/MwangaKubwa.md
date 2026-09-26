@@ -9,7 +9,8 @@ name:
   aliases:
     - The Great Brightness
 shortcode: mwangadty
-packFolder: deitiesnyaluba
+data:
+  packFolder: deitiesnyaluba
 ---
 
 The diffuse creative presence the Nyáluba name, in the idiom of the griots, as **the Great

@@ -111,12 +111,13 @@ data:
     empirtkhpr: aligned
     vylarinmpr: nemesis
     ctysttshlns: unaligned
-terran_analog: "Morocco + Algeria + Tunisia + Libya (Maghreb / Carthage—Mediterranean coast shading into Saharan interior)"
-packFolder: bethua
+  packFolder: bethua
 sohl:
   system:
     commonSkills:
       - bethunlng
+
+# terran_analog: "Morocco + Algeria + Tunisia + Libya (Maghreb / Carthage—Mediterranean coast shading into Saharan interior)"
 ---
 
 ## Overview

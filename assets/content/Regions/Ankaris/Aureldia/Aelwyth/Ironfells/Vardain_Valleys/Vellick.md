@@ -12,11 +12,11 @@ data:
   parents:
     - vardainvalleys
   population: 700
+  packFolder: aelwyth
 name:
   full: Vellick
   aliases: []
 shortcode: vellick
-packFolder: aelwyth
 ---
 
 **Vellick** sits where the beck drops enough to drive hammers, and it is where the

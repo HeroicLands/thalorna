@@ -13,11 +13,11 @@ data:
   parents:
     - alndntrblnds
   population: 70
+  packFolder: elavendre
 name:
   full: Ethalossë
   aliases: []
 shortcode: ethalosse
-packFolder: elavendre
 ---
 
 **Ethalossë** sits at the eastern margin of the [[place-alndntrblnds|Áelendan Tribal Lands]], where the

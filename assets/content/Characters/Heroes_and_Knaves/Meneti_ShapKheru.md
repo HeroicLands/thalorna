@@ -12,7 +12,6 @@ name:
   home: khensuret
   aliases:
     - Meneti Shapkher
-packFolder: northernfertileregiontakheperu
 shortcode: mentshpkhr
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: ebony
     complexion: null
     extra_features: []
+  packFolder: northernfertileregiontakheperu
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

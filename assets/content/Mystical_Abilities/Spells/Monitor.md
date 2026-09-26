@@ -10,6 +10,7 @@ subType: arcaneincantation
 data:
   icon: icon-circle
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: kentra
@@ -18,9 +19,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Monitor
-packFolder: spells
+
+# hmk:
+#   name: Monitor
 ---
 
 The caster fixes a location firmly in mind—a room they have visited, a crossroads they have studied—and extends a thread of awareness to that distant point. Through this invisible tether, the caster perceives the location as though standing within it: hearing conversations, observing movements, and sensing any magical activity. The monitoring point is stationary and invisible, betraying no physical sign of the caster's remote presence.

@@ -7,7 +7,8 @@ name:
   full: Mentu
   aliases: []
 shortcode: mentudty
-packFolder: deitieskemetian
+data:
+  packFolder: deitieskemetian
 ---
 
 _The War-God._

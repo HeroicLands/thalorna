@@ -10,7 +10,6 @@ name:
   clan: Rálwen
   home: chastelclr
   aliases: []
-packFolder: aureldiaprovenzia
 shortcode: ureleralwn
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: olive
     complexion: fair
     extra_features: []
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

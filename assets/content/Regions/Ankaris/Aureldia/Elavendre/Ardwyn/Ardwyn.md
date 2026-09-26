@@ -12,11 +12,11 @@ data:
   parents:
     - elavendre
   population: 180000
+  packFolder: elavendre
 name:
   full: Ardwyn
   aliases: []
 shortcode: ardwyn
-packFolder: elavendre
 ---
 
 **Ardwyn**—_the high land_—is the mountain quarter of [[place-elavendre|Élavendre]], running along

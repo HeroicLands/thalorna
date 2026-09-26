@@ -11,11 +11,11 @@ data:
   parents:
     - anpetkhentnome
   population: 24000
+  packFolder: upperrivernomes
 name:
   full: Anpet
   aliases: []
 shortcode: anpet
-packFolder: upperrivernomes
 ---
 
 ## Overview

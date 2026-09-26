@@ -9,7 +9,6 @@ name:
   given: Sélvara
   clan: Válskyr
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: slvrvlskyr
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     extra_features:
       - a commanding presence
       - moves with quiet precision
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

@@ -14,11 +14,11 @@ data:
     - sthrnwall
   population: 640
   market: 3
+  packFolder: vedyara
 name:
   full: Öskhelt
   aliases: []
 shortcode: oskhelt
-packFolder: vedyara
 ---
 
 **Öskhelt** stands on a south-facing slope above the upper stages of [[place-suryadvara|Sūryadvāra]], four days' climb from [[place-suryagarha|Sūryāgarha]] and well above anything that will grow grain. It is the largest settlement of the [[affiliation-osketguides|Ösket]] and the one place on the wall where a lowlander arranges a crossing instead of being granted one.

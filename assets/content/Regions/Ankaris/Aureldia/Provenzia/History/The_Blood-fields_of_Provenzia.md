@@ -9,7 +9,8 @@ name:
     - Blood-fields
     - Blood-field
 shortcode: bloodfields
-packFolder: provenzia
+data:
+  packFolder: provenzia
 ---
 
 Provènzia's history is one of dispute and warfare going back as far as anyone can remember, and the

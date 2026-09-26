@@ -17,8 +17,9 @@ data:
   parents:
     - ankrscntnnt
   population: 500000
-terran_analog: Japanese archipelago (mountainous volcanic islands)
-packFolder: jurthat
+  packFolder: jurthat
+
+# terran_analog: Japanese archipelago (mountainous volcanic islands)
 ---
 
 The Jürthāt Region is the eastern archipelago of [[place-ankrscntnnt|Ankaris Continent]]—a ring of nine mountainous, volcanic islands separated from the [[place-tanvuregin|Tānvüri mainland]] by a treacherous strait. It is dominated politically by the sovereign empire of [[affiliation-jurthatempr|Jürthāt]], which the [[affiliation-tanvurempr|Empire of Tānvür]] has for a thousand years refused to recognize—considering the archipelago a rebellious province rather than an independent state. The islanders return the compliment, viewing themselves as heaven's favored inheritors of the Celestial Mandate that Tānvür, in their telling, has long since forfeited.

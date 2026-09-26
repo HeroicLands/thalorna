@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-divination
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: pneumenos
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Enervation
-packFolder: spells
+
+# hmk:
+#   name: Enervation
 ---
 
 The caster projects a tendril of draining energy into the target's psyche, and their will to act simply bleeds away. Motivation evaporates, replaced by a crushing apathy that makes even the simplest action feel pointless and exhausting. The target's thoughts slow to a crawl, their emotional responses flatten, and the driving force that normally propels conscious behavior gutters and dims like a candle in rain.

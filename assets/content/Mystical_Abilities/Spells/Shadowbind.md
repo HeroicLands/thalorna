@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-water
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: hydalis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Gloomweb
-packFolder: spells
+
+# hmk:
+#   name: Gloomweb
 ---
 
 The caster weaves strands of tangible shadow into a sticky, clinging web that entangles and restrains. The shadows thicken and reach out like dark tendrils, wrapping around limbs, sealing shut doors, and binding objects in place. The web has real physical substance—cold, damp, and slightly yielding, like touching something that exists halfway between cloth and smoke.

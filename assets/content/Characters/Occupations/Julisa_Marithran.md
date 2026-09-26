@@ -11,7 +11,6 @@ name:
   clan: Maríthran
   home: solarden
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: julsmrthrn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: dark
     complexion: weathered
     extra_features: []
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

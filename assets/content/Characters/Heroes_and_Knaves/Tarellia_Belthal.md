@@ -11,7 +11,6 @@ name:
   clan: Bélthal
   home: portaelion
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: tarelblthl
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: light
     complexion: fair
     extra_features: []
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

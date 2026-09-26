@@ -12,11 +12,11 @@ data:
   parents:
     - norgaad
   population: 600
+  packFolder: norgaad
 name:
   full: Steinmark
   aliases: []
 shortcode: steinmark
-packFolder: norgaad
 ---
 
 ## Overview

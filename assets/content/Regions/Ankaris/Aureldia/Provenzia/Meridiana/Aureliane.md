@@ -11,11 +11,11 @@ data:
   parents:
     - meridiana
   population: 30000
+  packFolder: provenzia
 name:
   full: Aurèliane
   aliases: []
 shortcode: aureliane
-packFolder: provenzia
 ---
 
 **Aurèliane** stands inland in the south, on the great road, and is the oldest city in Provènzia. It

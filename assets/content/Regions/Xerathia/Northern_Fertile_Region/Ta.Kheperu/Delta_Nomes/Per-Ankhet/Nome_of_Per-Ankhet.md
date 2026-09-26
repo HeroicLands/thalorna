@@ -107,7 +107,7 @@ data:
   relations:
     kemtnpnthn: aligned
     hapi: aligned
-packFolder: perankhet
+  packFolder: perankhet
 sohl:
   system:
     commonSkills:

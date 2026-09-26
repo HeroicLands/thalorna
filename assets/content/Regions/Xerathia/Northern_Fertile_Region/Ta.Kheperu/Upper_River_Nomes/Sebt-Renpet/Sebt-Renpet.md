@@ -11,11 +11,11 @@ data:
   parents:
     - sebtrenpetnome
   population: 28000
+  packFolder: upperrivernomes
 name:
   full: Sebt-Renpet
   aliases: []
 shortcode: sebtrenpet
-packFolder: upperrivernomes
 ---
 
 ## Overview

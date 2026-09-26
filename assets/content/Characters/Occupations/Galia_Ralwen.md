@@ -11,7 +11,6 @@ name:
   home: chastelclr
   aliases:
     - Lady Elowen Brightwood
-packFolder: aureldiaprovenzia
 shortcode: galiaralwn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: warm
     complexion: tanned
     extra_features: []
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

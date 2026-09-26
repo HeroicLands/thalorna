@@ -107,7 +107,7 @@ data:
   relations:
     kemtnpnthn: aligned
     maat: aligned
-packFolder: ankhsetun
+  packFolder: ankhsetun
 sohl:
   system:
     commonSkills:

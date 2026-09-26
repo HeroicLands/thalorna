@@ -12,7 +12,6 @@ name:
   home: greywater
   aliases:
     - Shénasenè Callista Tradewind
-packFolder: aureldiaaelwyth
 shortcode: audryhrdng
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: medium
     complexion: weathered
     extra_features: []
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

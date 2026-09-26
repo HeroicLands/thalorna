@@ -10,7 +10,6 @@ name:
   clan: Pâresak
   home: dunashir
   aliases: []
-packFolder: dunharatribes
 shortcode: firavdprsk
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: tanned
     complexion: weathered
     extra_features: []
+  packFolder: dunharatribes
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

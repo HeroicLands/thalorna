@@ -12,11 +12,11 @@ data:
   parents:
     - tarvenne
   population: 14000
+  packFolder: aelwyth
 name:
   full: Thornbury
   aliases: []
 shortcode: thornbury
-packFolder: aelwyth
 ---
 
 **Thornbury** is the seat of the [[affiliation-repblctrvn|Republic of Tarvenne]], on Aelwyth's western

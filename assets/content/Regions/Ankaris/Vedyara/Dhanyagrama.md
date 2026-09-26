@@ -12,9 +12,9 @@ data:
   parents:
     - suvarnagirijnpd
   population: 930
+  packFolder: vedyara
 name:
   full: Dhānyagrāma
   aliases: []
 shortcode: dhanyagrama
-packFolder: vedyara
 ---

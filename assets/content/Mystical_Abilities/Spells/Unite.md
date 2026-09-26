@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-tree
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: physera
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Meld
-packFolder: spells
+
+# hmk:
+#   name: Meld
 ---
 
 The caster draws upon the deepest reserves of Physéra power and merges their own body—along with up to half their Spirit Mastery Level in pounds of worn or carried gear—directly into stone, earth, or wood, passing through solid matter as though it were dense fog. The caster retains full solidity while melded, remaining subject to physical injuries and magical effects, but movement speed varies dramatically by material: earth permits a full Move action, while stone and wood allow only half speed with Difficult movement conditions. Forged metal, enchanted objects, and living material are completely impervious to the melding effect and block passage absolutely.

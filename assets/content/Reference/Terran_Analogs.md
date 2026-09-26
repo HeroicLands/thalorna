@@ -7,7 +7,8 @@ name:
 type: doc
 subType: reference
 shortcode: trnnlgsrfrnc
-pack: none
+data:
+  pack: none
 ---
 
 _Private worldbuilding reference—not published to the website._

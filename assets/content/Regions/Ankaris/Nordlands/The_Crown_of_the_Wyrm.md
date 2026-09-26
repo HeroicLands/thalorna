@@ -9,9 +9,9 @@ name:
   full: The Crown of the Wyrm
   aliases: []
 shortcode: crwnwyrm
-packFolder: nordlands
 data:
   templatePriority: null
+  packFolder: nordlands
 sohl:
   system:
     weightBase: 3

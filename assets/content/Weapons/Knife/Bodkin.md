@@ -9,6 +9,7 @@ type: weapongear
 data:
   icon: icon-broaddagger
   templatePriority: null
+  packFolder: weapons
 sohl:
   kbcat: knife
   weaponType: Knife
@@ -150,7 +151,6 @@ sohl:
         defense:
           blockMod: 5
           counterstrikeMod: 5
-packFolder: weapons
 ---
 
 A needle-pointed dart of forged iron, the bodkin tapers to a rigid point built to punch through mail and punched plate. Thrown or thrust, it trades cutting edge for arm-piercing penetration, narrowing its force to a needlepoint rather than a blade. Born of the archer’s armory but honed into a duelist’s finishing knife for enemies in harness.

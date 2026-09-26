@@ -10,7 +10,6 @@ name:
   clan: Sálthar
   home: liranel
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: ovlynslthr
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: fair
     complexion: smooth
     extra_features: []
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }

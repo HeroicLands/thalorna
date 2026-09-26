@@ -18,8 +18,9 @@ data:
   parents:
     - vedyarargn
   population: 2400000
-terran_analog: "Central and peninsular Indian forest belt under temple-estate tenure—hardwood, resin, lac and spice country worked by forest-dwelling communities and held as endowed land by temples rather than by village federations"
-packFolder: vedyara
+  packFolder: vedyara
+
+# terran_analog: "Central and peninsular Indian forest belt under temple-estate tenure—hardwood, resin, lac and spice country worked by forest-dwelling communities and held as endowed land by temples rather than by village federations"
 ---
 
 **Bhāravavana** is the forest country of the lower [[place-bharavarivr|Bhārava]]: six hundred miles of closed canopy between the foot of the gold-bearing highlands and the coastal farmland, and the largest single stretch of Vedyara that no janapada has ever federated.
@@ -68,14 +69,14 @@ SELECT s.address.slug AS _ref,
                    END, ' and ' ORDER BY p.name.full)
         FROM entries p
         WHERE p.type = 'affiliation'
-          AND list_contains(p.data.domains, concat(s.package, '-none-', s.type, '-', s.shortcode))) AS "Held by",
+          AND list_contains(p.data.domains, concat(s.package, '-note-', s.type, '-', s.shortcode))) AS "Held by",
        -- No field states why a place stands where it does, so "For" projects nothing.
        NULL AS "For"
 FROM entries s
 LEFT JOIN market m ON m.value = s.data.market
 WHERE s.type = 'place'
   AND s.subType = 'settlement'
-  AND list_contains(s.data.parents, 'thalorna-none-place-bharavavana')
+  AND list_contains(s.data.parents, 'thalorna-note-place-bharavavana')
 ORDER BY s.name.full COLLATE NOCASE
 ```
 

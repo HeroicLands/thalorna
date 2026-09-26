@@ -9,7 +9,8 @@ name:
   full: Aranwy of the Long Stair
   aliases: []
 shortcode: aranwyspr
-packFolder: lorespiritsaelendan
+data:
+  packFolder: lorespiritsaelendan
 ---
 
 - **Kind:** Water-kin, of [[lore-thekindred|the Kindred]]

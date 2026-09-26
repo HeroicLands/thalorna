@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: deshrut
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: deshrut
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 The House teaches it for the same reason Per-Sefút teaches unmaking: the physicians who break an

@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-circle
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: kentra
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Vessel
-packFolder: spells
+
+# hmk:
+#   name: Vessel
 ---
 
 The caster binds arcane energy into the molecular structure of a prepared object, transforming it into a vessel capable of storing, channeling, and releasing magical power on command. The object's material composition determines its capacity and stability—precious metals and crystals serve best, while organic materials tend to leak or distort stored energy. The resulting artifact can hold a complete spell in suspended readiness, release a steady trickle of magical enhancement, or serve as a reservoir for future use.

@@ -10,9 +10,9 @@ name:
   aliases:
     - Trout Totem
 shortcode: troutttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-trouttotem|Trout]]{float: top-left, size: medium}

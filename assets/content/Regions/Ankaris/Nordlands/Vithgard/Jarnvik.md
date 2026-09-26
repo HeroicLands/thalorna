@@ -11,9 +11,9 @@ data:
   parents:
     - vithgard
   population: 400
+  packFolder: vithgard
 name:
   full: Járnvík
   aliases: []
 shortcode: jarnvik
-packFolder: vithgard
 ---

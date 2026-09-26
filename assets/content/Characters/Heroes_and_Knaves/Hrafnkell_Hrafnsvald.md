@@ -11,7 +11,6 @@ name:
   clan: Hrafnsvald
   home: jarnvik
   aliases: []
-packFolder: ankarisnordlands
 shortcode: hrfnklhrfnsvld
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: fair
     extra_features:
       - a tattoo of a fire on the leg
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

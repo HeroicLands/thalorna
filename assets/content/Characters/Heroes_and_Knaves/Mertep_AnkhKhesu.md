@@ -11,7 +11,6 @@ name:
   home: perankhet
   aliases:
     - Mertep AnkhKhes
-packFolder: northernfertileregiontakheperu
 shortcode: mrtpnkhkhs
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a bird in flight on the left shoulder
+  packFolder: northernfertileregiontakheperu
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

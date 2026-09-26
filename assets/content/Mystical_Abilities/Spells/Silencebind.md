@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-water
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: hydalis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Hush
-packFolder: spells
+
+# hmk:
+#   name: Hush
 ---
 
 The caster wraps a target or area in a cocoon of dense, moisture-laden air that devours sound. Voices drop to inaudible murmurs, footsteps vanish, and even the clang of steel is reduced to a dull, distant thud. The effect is not silence so much as smothering—sound waves are absorbed and scattered by the water-saturated air before they can propagate.

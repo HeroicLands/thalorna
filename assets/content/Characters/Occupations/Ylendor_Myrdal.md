@@ -11,7 +11,6 @@ name:
   clan: Mýrdal
   home: lunacorte
   aliases: []
-packFolder: aureldiaprovenzia
 shortcode: ylndrmyrdl
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: olive
     complexion: weathered
     extra_features: []
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }

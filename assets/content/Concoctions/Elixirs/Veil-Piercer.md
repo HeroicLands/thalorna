@@ -9,11 +9,10 @@ description: "Pearlescent opalescent draft; grants perception of unseen incorpor
 shortcode: elxgst
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Ghostsight
 data:
   icon: icon-potion
   templatePriority: null
+  packFolder: elixirs
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +21,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Ghostsight
 ---
 
 A pearlescent, opalescent draft that seems to contain wisps of smoke or mist trapped in liquid, bound to the Principle of Incorporeality (Hydälis). When drunk, Ghostsight grants the imbiber a profound shift in perception: they can now take Spirit Sensing actions while remaining fully incarnate in their flesh. As a free action on their turn, the drinker may shift their perspective from the physical landscape to the astralscape of the spirit world, or back again. Only one perspective can be maintained at a time; the imbiber cannot see both realms simultaneously.

@@ -12,9 +12,9 @@ data:
   parents:
     - suvarnagirijnpd
   population: 520
+  packFolder: vedyara
 name:
   full: Ratnakūpa
   aliases: []
 shortcode: ratnakupa
-packFolder: vedyara
 ---

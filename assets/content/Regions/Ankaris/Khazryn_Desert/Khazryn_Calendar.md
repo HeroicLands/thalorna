@@ -10,7 +10,6 @@ name:
   aliases:
     - Khazryn Calendar
 shortcode: khzrnclndr
-packFolder: khazryndesert
 data:
   epoch: 720/1/1
   months:
@@ -28,6 +27,7 @@ data:
     - { name: Twelfth, days: 30 }
     - { name: The Intercalary Festival, days: 5 }
   weekdays: []
+  packFolder: khazryndesert
 ---
 
 The **Khazryn calendar** is the ancient reckoning of the Khazryn kingdoms, maintained before the Catastrophe by the Mōbads of the Great Temple of [[affiliation-ahurdaen|Āhúrdáén]] at Shirvan and kept since by the exile Mōbadate. Twelve months of thirty days each carry the year, and a five-day festival closes it before the next begins. Every month runs thirty days; only the closing festival is shorter.

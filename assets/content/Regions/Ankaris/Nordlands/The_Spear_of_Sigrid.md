@@ -9,9 +9,9 @@ name:
   full: The Spear of Sigrid
   aliases: []
 shortcode: sprsigrid
-packFolder: nordlands
 data:
   templatePriority: null
+  packFolder: nordlands
 sohl:
   system:
     weightBase: 5

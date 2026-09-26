@@ -15,11 +15,11 @@ data:
   party:
     size: null
     archetypes: []
+  packFolder: bloodandashesinceravelvale
 shortcode: bndtscrvlvl
 name:
   full: The Bandits of Céravel Vale
   aliases: []
-packFolder: bloodandashesinceravelvale
 ---
 
 ### Teaser

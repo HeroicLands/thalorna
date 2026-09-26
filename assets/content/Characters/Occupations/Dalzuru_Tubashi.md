@@ -10,7 +10,6 @@ name:
   clan: Tûbashî
   home: kethara2
   aliases: []
-packFolder: midhalionharad
 shortcode: dalzurtbsh
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: olive_toned
     extra_features:
       - a tattoo of a falcon on the right arm
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

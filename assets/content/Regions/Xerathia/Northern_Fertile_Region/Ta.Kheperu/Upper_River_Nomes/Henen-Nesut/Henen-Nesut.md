@@ -11,11 +11,11 @@ data:
   parents:
     - henennesutnome
   population: 26000
+  packFolder: upperrivernomes
 name:
   full: Henen-Nesut
   aliases: []
 shortcode: henennesut
-packFolder: upperrivernomes
 ---
 
 ## Overview

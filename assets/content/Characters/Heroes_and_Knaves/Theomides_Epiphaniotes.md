@@ -10,7 +10,6 @@ name:
   clan: Epiphaniôtês
   home: byzaris
   aliases: []
-packFolder: helladbyzaria
 shortcode: thmdspphnts
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: tanned
     complexion: weathered
     extra_features: []
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

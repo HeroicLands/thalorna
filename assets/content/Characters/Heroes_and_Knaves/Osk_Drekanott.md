@@ -10,7 +10,6 @@ name:
   clan: Drekanótt
   home: brunvik
   aliases: []
-packFolder: ankarisnordlands
 shortcode: oskdrekant
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: fair
     extra_features:
       - a scar running down the right leg
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

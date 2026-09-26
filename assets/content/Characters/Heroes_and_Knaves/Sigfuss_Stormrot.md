@@ -10,7 +10,6 @@ name:
   clan: Stormrót
   home: bjornstad
   aliases: []
-packFolder: ankarisnordlands
 shortcode: sigfstrmrt
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: tanned
     complexion: weathered
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

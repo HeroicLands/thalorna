@@ -14,6 +14,7 @@ name:
 data:
   icon: icon-psychicwaves
   templatePriority: null
+  packFolder: spiritskillsokharic
 sohl:
   system:
     skillBaseFormula: "@aur, @wil"
@@ -22,7 +23,6 @@ sohl:
     combatCategory: none
     parentSkillCode: spirit
     initSkillMult: 0
-packFolder: spiritskillsokharic
 ---
 
 See [[lore-mzazispr|Mzazi wa Ardhi]]—zohira of fertility, met through [[affiliation-njiayaroho|the Njia ya Roho]].

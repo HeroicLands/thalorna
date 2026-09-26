@@ -11,7 +11,6 @@ name:
   home: liranel
   aliases:
     - Captain Elysia Windrider
-packFolder: aureldiaelavendre
 shortcode: rhalizlrth
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: smooth
     extra_features:
       - a tattoo of a skull on the upper arm
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

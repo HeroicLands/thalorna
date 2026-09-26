@@ -11,11 +11,11 @@ data:
   parents:
     - provenzrgn
   population: 2500000
+  packFolder: provenzia
 name:
   full: Meridiàna
   aliases: []
 shortcode: meridiana
-packFolder: provenzia
 ---
 
 **Meridiàna**—_the noon country_; the south, and by long implication the warm and prosperous part.

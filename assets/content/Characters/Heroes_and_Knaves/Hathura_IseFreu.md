@@ -11,7 +11,6 @@ name:
   home: meruhotep
   aliases:
     - Hathura Isefré
-packFolder: northernfertileregiontakheperu
 shortcode: hathurasfr
 type: being
 data:
@@ -41,6 +40,7 @@ data:
     extra_features:
       - Feather-of-Má'át scarification across the collarbones, concealed by vestments
       - Fine gold chain bearing a miniature golden scale, worn beneath her robes
+  packFolder: northernfertileregiontakheperu
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

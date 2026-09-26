@@ -11,9 +11,9 @@ data:
   parents:
     - alyssa
   population: 45000
+  packFolder: vylaria
 name:
   full: Alyssar
   aliases: []
 shortcode: alyssar
-packFolder: vylaria
 ---

@@ -12,7 +12,6 @@ name:
   aliases:
     - the Reforged
   home: null
-packFolder: ankarisvrystwald
 shortcode: ragnarfrgd
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: fair
     complexion: battle_scarred
     extra_features: []
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 18 } }

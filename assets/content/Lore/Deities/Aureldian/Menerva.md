@@ -7,5 +7,6 @@ name:
   full: Ménérva
   aliases: []
 shortcode: menervadty
-packFolder: deitiesaureldian
+data:
+  packFolder: deitiesaureldian
 ---

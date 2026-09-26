@@ -91,11 +91,11 @@ data:
   relations:
     tngvkvnlei: aligned
     tanvurempr: unaligned
+  packFolder: threats
 name:
   full: Yürtthāt Zhāk
   aliases: []
 shortcode: yurthatzhk
-packFolder: threats
 sohl:
   system:
     commonSkills:

@@ -9,7 +9,8 @@ name:
   full: The At'aan Wyrd
   aliases: []
 shortcode: ataanspr
-packFolder: lorespiritsaelendan
+data:
+  packFolder: lorespiritsaelendan
 ---
 
 - **Kind:** Place-kin, of [[lore-thekindred|the Kindred]]

@@ -10,7 +10,8 @@ name:
   aliases:
     - The Reader in the Yánda Maláika
 shortcode: orclbonesspr
-packFolder: lorespiritsokharic
+data:
+  packFolder: lorespiritsokharic
 ---
 
 - **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]

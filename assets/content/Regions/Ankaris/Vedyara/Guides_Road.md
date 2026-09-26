@@ -15,11 +15,11 @@ data:
   population: null
   routes:
     - { to: khzryndsrtrgn, bearing: N, mode: land, days: 45, terrain: [mountains, ice, desert] }
+  packFolder: vedyara
 name:
   full: The Guides' Road
   aliases: []
 shortcode: gudesroad
-packFolder: vedyara
 ---
 
 There are six crossings of the wall. Five are blessed, tolled, recorded and argued over. The sixth is **the Guides' Road**, which lies somewhere between [[place-meghadvara|Meghadvāra]] and [[place-suryadvara|Sūryadvāra]], and about which those four verbs are all false.

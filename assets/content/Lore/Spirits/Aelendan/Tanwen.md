@@ -11,7 +11,8 @@ name:
     - The Hearth
     - Tanwen
 shortcode: tanwenspr
-packFolder: lorespiritsaelendan
+data:
+  packFolder: lorespiritsaelendan
 ---
 
 - **Kind:** Hearth-kin, of [[lore-thekindred|the Kindred]]

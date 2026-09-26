@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-anvilbdg
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: sideros
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Dart
-packFolder: spells
+
+# hmk:
+#   name: Dart
 ---
 
 The caster extends their hand and a volley of razor-sharp metal shards materializes and launches toward the target in a glittering, deadly spray. Each shard is small—no larger than a finger joint—but they fly with the velocity and penetrating power of crossbow bolts, their edges honed to molecular sharpness by the magic that created them. The shards punch through leather and cloth with ease and can penetrate mail links or find the gaps between plates.

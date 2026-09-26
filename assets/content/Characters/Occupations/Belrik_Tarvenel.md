@@ -11,7 +11,6 @@ name:
   clan: Tárvenel
   home: ""
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: belrktrvnl
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: bronzed
     extra_features:
       - prominent scar on neck
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 11 } }

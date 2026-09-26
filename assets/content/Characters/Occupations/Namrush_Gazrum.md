@@ -11,7 +11,6 @@ name:
   clan: Gazrûm
   home: ""
   aliases: []
-packFolder: midhalionharad
 shortcode: namrshgzrm
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: clear
     extra_features:
       - scar through left eyebrow
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 9 } }

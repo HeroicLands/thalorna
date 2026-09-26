@@ -10,6 +10,7 @@ subType: birthsign
 data:
   icon: icon-astrology
   templatePriority: 0
+  packFolder: astrokyklos
 sohl:
   kbcat: birthsign
   system:
@@ -37,7 +38,6 @@ sohl:
       "subType:social": -10
       water: -10
       hydalis: -10
-packFolder: astrokyklos
 ---
 
 Korith, the Helm, tempers its children for endurance and the clash of arms. Strong in body and steady under the strike, they nonetheless find the lore of nature and the graces of speech slow to answer their call.

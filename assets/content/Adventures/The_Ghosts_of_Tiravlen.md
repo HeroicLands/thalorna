@@ -16,7 +16,7 @@ data:
   party:
     size: null
     archetypes: []
-packFolder: adventures
+  packFolder: adventures
 ---
 
 Lake Tîravel is haunted by the spirits of ancient warriors and a fallen king. The party must investigate the ghosts at the Blood-field of Tîravlen, where King Trédavar III fell centuries before the Founding, and uncover why the dead refuse to rest.

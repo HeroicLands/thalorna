@@ -12,7 +12,6 @@ name:
   home: ashford
   aliases:
     - Shénasenè Lysandra Goldleaf
-packFolder: aureldiaaelwyth
 shortcode: aldthchltn
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: light
     complexion: weathered
     extra_features: []
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

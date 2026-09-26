@@ -13,7 +13,6 @@ name:
   home: bethura
   aliases:
     - The Merchant Princess
-packFolder: northernfertileregionbethua
 shortcode: laylamarut
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: light
     complexion: null
     extra_features: []
+  packFolder: northernfertileregionbethua
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

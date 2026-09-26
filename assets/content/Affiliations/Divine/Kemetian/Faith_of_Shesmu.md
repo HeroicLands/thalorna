@@ -67,12 +67,12 @@ data:
     kemtnpnthn: aligned
     pernuw: aligned
     anhur: aligned
+  packFolder: pantheonskemetian
 name:
   full: Faith of Shesmu
   aliases:
     - Shesmu, Patron of the Hunt
 shortcode: shesmu
-packFolder: pantheonskemetian
 sohl:
   system:
     commonSkills: []

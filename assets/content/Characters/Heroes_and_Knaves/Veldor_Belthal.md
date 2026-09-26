@@ -10,7 +10,6 @@ name:
   clan: Bélthal
   home: cerdwnshlw
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: veldrblthl
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: light
     complexion: fair
     extra_features: []
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

@@ -10,7 +10,6 @@ name:
   clan: Tûbanî
   home: azhun2
   aliases: []
-packFolder: midhalionharad
 shortcode: piturutubn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: dusky
     extra_features:
       - a tattoo of a fish on the lower back
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

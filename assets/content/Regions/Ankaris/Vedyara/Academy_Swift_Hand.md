@@ -12,11 +12,11 @@ data:
   parents:
     - dhanurkotajnpd
   population: null
+  packFolder: vedyara
 name:
   full: The Academy of the Swift Hand
   aliases: []
 shortcode: swifthand
-packFolder: vedyara
 ---
 
 The **Academy of the Swift Hand** teaches the mounted bow, and it is the hall every Vedyari kingdom that fields cavalry sends to. Its hall stands against the east wall of [[place-bowfort|the Bow-Fort]] and its ground is outside the walls, because a riding school cannot be fitted inside them.

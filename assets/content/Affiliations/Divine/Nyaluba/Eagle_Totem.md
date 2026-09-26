@@ -70,13 +70,13 @@ data:
     - nyalbpnthn
   relations:
     nyalbpnthn: aligned
+  packFolder: nyaluba
 name:
   full: "Eagle Totem"
   aliases:
     - Eagle of the Ngonzi
     - Ngonzi Totem
 shortcode: nyalbeagl
-packFolder: nyaluba
 sohl:
   system:
     commonSkills:

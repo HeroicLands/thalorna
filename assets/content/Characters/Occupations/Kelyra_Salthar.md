@@ -11,7 +11,6 @@ name:
   clan: Sálthar
   home: cerdwnshlw
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: kelyrslthr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: pale
     complexion: smooth
     extra_features: []
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

@@ -115,7 +115,7 @@ data:
     kingdmtrgd: unaligned
     kngdmvthgrd: unaligned
     vrystwldtrbs: rival
-packFolder: nordheim
+  packFolder: nordheim
 sohl:
   system:
     commonSkills:

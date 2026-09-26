@@ -11,11 +11,11 @@ data:
   parents:
     - tramontana
   population: null
+  packFolder: provenzia
 name:
   full: Blood-field of Yhârvalen
   aliases: []
 shortcode: bldfldyharvalen
-packFolder: provenzia
 ---
 
 A battlefield of Provènzia remembered as a blood-field—ground where an engagement was fought at such

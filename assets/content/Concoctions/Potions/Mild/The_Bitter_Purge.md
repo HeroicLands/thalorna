@@ -9,11 +9,10 @@ description: "Clear greenish tinted draft; causes violent purging of body."
 shortcode: ptnemm
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Emetic, Mild"
 data:
   icon: icon-potion
   templatePriority: null
+  packFolder: mild
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +21,9 @@ sohl:
     durabilityBase: 5
     potency: "mild"
     strength: 0
-packFolder: mild
+
+# hmk:
+#   name: "Potion, Emetic, Mild"
 ---
 
 Clear as water with a faintly greenish tint, this emetic has a smell like spoiled herbs and acidic fruit—the kind of aroma that makes the stomach anticipate trouble before the liquid even touches the tongue. On the palate it is bitter and almost metallic, with a texture that coats the mouth with the sensation of coming sickness. Those who know the preparation by reputation often drink it down quickly, in a single gulp, wanting to have it over with rather than prolonging the unpleasant taste. The vial is usually small and easily carried, as doses are measured in sips rather than drafts.

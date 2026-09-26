@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: rensesh
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: rensesh
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 Made for the archives, where a decaying scroll must be renewed without becoming a different

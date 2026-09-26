@@ -12,11 +12,11 @@ data:
   parents:
     - meridiana
   population: 18000
+  packFolder: provenzia
 name:
   full: Belpòrte
   aliases: []
 shortcode: belporte
-packFolder: provenzia
 ---
 
 **Belpòrte** stands on the warm southern shore and is, with [[place-lunacorte|Lunacòrte]], one of the

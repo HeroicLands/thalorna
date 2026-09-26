@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-circle
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: kentra
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Absorb
-packFolder: spells
+
+# hmk:
+#   name: Absorb
 ---
 
 The caster extends an open palm toward a source of arcane power—an enchanted object, a lingering ward, a rival's gathering spell—and draws its energy inward through invisible filaments of will. The stolen power flows into the caster's own reserves like water finding its level, a cool tingling sensation spreading from fingertips to chest. The source dims perceptibly as its magic bleeds away, leaving it weakened or depleted entirely.

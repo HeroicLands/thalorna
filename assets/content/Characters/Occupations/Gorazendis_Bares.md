@@ -10,7 +10,6 @@ name:
   clan: Bârês
   home: corvinus
   aliases: []
-packFolder: midhalionvylaria
 shortcode: gorzndsbrs
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: tanned
     extra_features:
       - a scar across the cheek
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

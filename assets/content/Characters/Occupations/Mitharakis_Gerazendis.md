@@ -10,7 +10,6 @@ name:
   clan: Gêrazêndis
   home: tyrellan
   aliases: []
-packFolder: midhalionvylaria
 shortcode: mthrksgrznds
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: light
     complexion: weathered
     extra_features: []
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

@@ -13,7 +13,8 @@ name:
     - The Twilight People
     - The Elder Folk
 shortcode: flksinale
-packFolder: settinglore
+data:
+  packFolder: settinglore
 ---
 
 - **Common Names:** The Elder Folk, the Firstborn, the Star-Kindled, the Twilight People

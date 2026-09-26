@@ -9,7 +9,8 @@ name:
     - Khazártúrn
     - The Valley of Seven Towers
 shortcode: khazarturn
-packFolder: settinglore
+data:
+  packFolder: settinglore
 ---
 
 **Khazártúrn** was the greatest city the [[lore-flkkhazar|Khazári]] ever built. In **2427 BF** it was

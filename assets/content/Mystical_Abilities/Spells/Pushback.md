@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-anvilbdg
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: sideros
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Repel
-packFolder: spells
+
+# hmk:
+#   name: Repel
 ---
 
 The caster extends their palm and releases a surge of concussive force that slams outward in a broad wave, shoving everything in its path away from the caster with the irresistible momentum of a swinging battering ram. Opponents stagger backward, lose their footing, and are driven away from the caster's position. Loose objects fly outward. Projectiles in mid-flight are deflected or reversed. The force is invisible but unmistakable in its effect.

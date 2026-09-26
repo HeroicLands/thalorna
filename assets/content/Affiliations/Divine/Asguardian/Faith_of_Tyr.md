@@ -85,12 +85,12 @@ data:
     - asguardian
   relations:
     asguardian: aligned
+  packFolder: pantheonsasguardian
 name:
   full: Faith of Týr
   aliases:
     - The Just Path
 shortcode: tyr
-packFolder: pantheonsasguardian
 sohl:
   system:
     commonSkills: []

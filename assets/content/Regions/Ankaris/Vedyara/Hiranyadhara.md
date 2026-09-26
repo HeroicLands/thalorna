@@ -12,11 +12,11 @@ data:
   parents:
     - suvarnagirijnpd
   population: 980
+  packFolder: vedyara
 name:
   full: Hiranyadhārā
   aliases: []
 shortcode: hiranyadhara
-packFolder: vedyara
 ---
 
 Hiranyadhārā (980) lies two miles above Middle Suvarnagiri on the richest of the mountain's streams, and is where most of the gold is won. Nine of the twenty-eight hereditary panning families live here, which is more than any other village holds.

@@ -11,7 +11,6 @@ name:
   clan: Parnâzar
   home: kethramir
   aliases: []
-packFolder: ankariskhazryndesert
 shortcode: afzndhprnzr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: null
     extra_features:
       - a scar on the left ankle
+  packFolder: ankariskhazryndesert
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

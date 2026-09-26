@@ -86,13 +86,13 @@ data:
     - ashanpnthn
   relations:
     ashanpnthn: aligned
+  packFolder: ashaian
 name:
   full: Faith of Ázráván
   aliases:
     - Lord of the Final Horizon
+    - Ázráván, Lord of the Final Horizon
 shortcode: azravan
-alias: Ázráván, Lord of the Final Horizon
-packFolder: ashaian
 sohl:
   system:
     commonSkills: []

@@ -10,7 +10,6 @@ name:
   clan: Garmon
   home: kingsholow
   aliases: []
-packFolder: aureldiaaelwyth
 shortcode: edwingarmn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: fair
     extra_features:
       - a scar on the right calf
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

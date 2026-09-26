@@ -10,9 +10,9 @@ name:
   aliases:
     - Hamster Totem
 shortcode: hamsterttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-hamstertotem|Hamster]]{float: top-left, size: medium}

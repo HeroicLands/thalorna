@@ -69,13 +69,13 @@ data:
     - arldnpnthn
   relations:
     arldnpnthn: aligned
+  packFolder: pantheonsaureldian
 name:
   full: Faith of Venusia
   aliases:
     - The Bountiful One
     - Vénusia
 shortcode: venusia
-packFolder: pantheonsaureldian
 sohl:
   system:
     commonSkills: []

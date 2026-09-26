@@ -11,7 +11,6 @@ name:
   home: thornhaven
   aliases:
     - Ermina Froban
-packFolder: ankarisvrystwald
 shortcode: erminfrdbn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: pale
     complexion: ruddy
     extra_features: []
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

@@ -5,7 +5,8 @@ name:
   full: Personal Names
   aliases: []
 shortcode: personlnms
-packFolder: tanvur
+data:
+  packFolder: tanvur
 ---
 
 ## Personal Names in the Empire of Tānvür

@@ -12,11 +12,11 @@ data:
   parents:
     - provenzrgn
   population: 1000000
+  packFolder: provenzia
 name:
   full: Sèrramarca
   aliases: []
 shortcode: serramarca
-packFolder: provenzia
 ---
 
 **Sèrramarca**—_the mountain march_.

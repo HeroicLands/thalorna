@@ -12,7 +12,6 @@ name:
   home: korinthea2
   aliases:
     - Sérolan Cedric Lightbringer
-packFolder: helladhelionis
 shortcode: dumarsrfrs
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: medium
     complexion: tanned
     extra_features: []
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

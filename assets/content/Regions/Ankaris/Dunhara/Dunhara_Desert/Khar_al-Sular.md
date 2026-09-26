@@ -11,9 +11,9 @@ data:
   parents:
     - dunhardsrtrgn
   population: 400
+  packFolder: dunharadesert
 name:
   full: Khar al-Sular
   aliases: []
 shortcode: kharalsulr
-packFolder: dunharadesert
 ---

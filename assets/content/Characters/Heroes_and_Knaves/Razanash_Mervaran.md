@@ -10,7 +10,6 @@ name:
   clan: Mervaran
   home: kethramir
   aliases: []
-packFolder: ankariskhazryndesert
 shortcode: rznshmrvrn
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: null
     extra_features:
       - a scar on the left thigh
+  packFolder: ankariskhazryndesert
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

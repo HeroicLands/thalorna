@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-anvilbdg
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: sideros
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Tempering
-packFolder: spells
+
+# hmk:
+#   name: Tempering
 ---
 
 The caster runs their hands slowly along an object's surface, and the magic sinks deep into its molecular structure, tightening bonds, filling microscopic voids, and eliminating the subtle flaws that weaken all manufactured materials. Steel becomes harder and more resilient. Stone grows denser and more resistant to cracking. Even wood treated by this spell gains a remarkable toughness, its fibers compressed and aligned to resist splitting and wear.

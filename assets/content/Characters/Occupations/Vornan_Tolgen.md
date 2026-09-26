@@ -10,7 +10,6 @@ name:
   clan: Tólgen
   home: valcerise
   aliases: []
-packFolder: aureldiaprovenzia
 shortcode: vornantlgn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: smooth
     extra_features:
       - a tattoo of a crescent moon on the neck
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

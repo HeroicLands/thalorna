@@ -11,7 +11,6 @@ name:
   clan: Rudrata
   home: chandrapur2
   aliases: []
-packFolder: ankarisvedyara
 shortcode: madhurvrdr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: null
     extra_features:
       - a scar on the left foot
+  packFolder: ankarisvedyara
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

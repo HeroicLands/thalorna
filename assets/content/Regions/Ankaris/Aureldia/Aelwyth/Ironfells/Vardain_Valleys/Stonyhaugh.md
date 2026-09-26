@@ -12,11 +12,11 @@ data:
   parents:
     - vardainvalleys
   population: 620
+  packFolder: aelwyth
 name:
   full: Stonyhaugh
   aliases: []
 shortcode: stonyhaugh
-packFolder: aelwyth
 ---
 
 **Stonyhaugh** is the quarry, and the masons. Four hundred and sixty people cutting the gray stone that

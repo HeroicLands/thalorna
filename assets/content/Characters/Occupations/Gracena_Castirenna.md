@@ -11,7 +11,6 @@ name:
   clan: Castírenna
   home: ""
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: gracncstrn
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: tanned
     extra_features:
       - missing tooth
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 11 } }

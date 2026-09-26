@@ -85,13 +85,13 @@ data:
     - ashanpnthn
   relations:
     ashanpnthn: aligned
+  packFolder: ashaian
 name:
   full: Faith of Árávēštä
   aliases:
     - The Golden Giver
+    - Árávēštä, The Golden Giver
 shortcode: aravesta
-alias: Árávēštä, The Golden Giver
-packFolder: ashaian
 sohl:
   system:
     commonSkills: []

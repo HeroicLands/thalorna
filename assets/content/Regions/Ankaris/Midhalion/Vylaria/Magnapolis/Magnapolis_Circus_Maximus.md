@@ -12,6 +12,6 @@ data:
   parents:
     - magnapolis
   population: null
+  packFolder: vylaria
 shortcode: circusmaximusmagnapls
-packFolder: vylaria
 ---

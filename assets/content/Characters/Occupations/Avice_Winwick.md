@@ -10,7 +10,6 @@ name:
   clan: Winwick
   home: thornbury
   aliases: []
-packFolder: aureldiaaelwyth
 shortcode: avicewnwck
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: fair
     complexion: freckled
     extra_features: []
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

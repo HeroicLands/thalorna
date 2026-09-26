@@ -12,7 +12,6 @@ name:
   clan: Arnthúl
   aliases:
     - the Crow
-packFolder: ankarisvrystwald
 shortcode: hrodrrnthl
 type: being
 data:
@@ -44,6 +43,7 @@ data:
       - gaunt angular face
       - long arms that give him a gangly look
       - perpetual scowl
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

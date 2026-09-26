@@ -81,7 +81,7 @@ data:
     ganakashala: aligned
     passshrineushtakas: aligned
     chayavrata: nemesis
-packFolder: pantheonsvarnaka
+  packFolder: pantheonsvarnaka
 sohl:
   system:
     commonSkills:

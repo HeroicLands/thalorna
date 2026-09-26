@@ -71,12 +71,12 @@ data:
     kemtnpnthn: aligned
     sekhetneru: aligned
     sobek: aligned
+  packFolder: pantheonskemetian
 name:
   full: Faith of Khet'Amun
   aliases:
     - Khet'Amun, The River-God
 shortcode: khetamun
-packFolder: pantheonskemetian
 sohl:
   system:
     commonSkills: []

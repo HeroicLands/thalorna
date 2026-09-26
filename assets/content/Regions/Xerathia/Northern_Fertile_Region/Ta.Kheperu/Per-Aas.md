@@ -10,7 +10,8 @@ name:
     - Per-Aá
     - The Per-Aás
 shortcode: peraa
-packFolder: takheperu
+data:
+  packFolder: takheperu
 ---
 
 The plural of Per-Aá—the line of divine sovereigns of Ta'Kheperu taken together, as the king-lists and the regnal dating reckon them.

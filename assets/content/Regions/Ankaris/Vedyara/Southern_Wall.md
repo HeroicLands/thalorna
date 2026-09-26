@@ -12,12 +12,12 @@ data:
   parents:
     - graznmntns
   population: null
+  packFolder: vedyara
 name:
   full: The Southern Wall
   aliases:
     - The Wall
 shortcode: sthrnwall
-packFolder: vedyara
 ---
 
 The **Southern Wall** is the long face of the [[place-graznmntns|Grazian Mountains]] that stands over [[place-vedyarargn|Vedyara]]. It is the reason the subcontinent has one land door and that door is in the west.

@@ -10,7 +10,6 @@ name:
   clan: Shavân
   home: zaristan
   aliases: []
-packFolder: sultanateofamradad
 shortcode: daryshshvn
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: tawny
     complexion: null
     extra_features: []
+  packFolder: sultanateofamradad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

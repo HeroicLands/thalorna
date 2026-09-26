@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-water
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: hydalis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: River
-packFolder: spells
+
+# hmk:
+#   name: River
 ---
 
 The caster calls upon moving water to accelerate and strengthen, transforming a gentle brook into a rushing torrent or an irrigation channel into a forceful sluice. The water responds eagerly, surging forward with increased speed and pressure as if the streambed had suddenly steepened. Banks may overflow, debris is swept along, and anything caught in the flow must fight against a much stronger current than nature intended.

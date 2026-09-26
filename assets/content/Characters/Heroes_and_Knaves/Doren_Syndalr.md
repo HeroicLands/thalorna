@@ -11,7 +11,6 @@ name:
   given: Dôren
   clan: Sýndalr
   aliases: []
-packFolder: aureldiaprovenzia
 shortcode: dornsyndlr
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: battle_scarred
     extra_features:
       - Deep ragged scar diagonally across left cheek
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 17 } }

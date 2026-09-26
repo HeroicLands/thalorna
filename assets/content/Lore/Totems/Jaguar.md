@@ -10,9 +10,9 @@ name:
   aliases:
     - Jaguar Totem
 shortcode: jaguarttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-jaguartotem|Jaguar]]{float: top-left, size: medium}

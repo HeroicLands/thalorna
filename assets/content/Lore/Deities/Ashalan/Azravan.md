@@ -7,5 +7,6 @@ name:
   full: Ázráván
   aliases: []
 shortcode: azravandty
-packFolder: deitiesashalan
+data:
+  packFolder: deitiesashalan
 ---

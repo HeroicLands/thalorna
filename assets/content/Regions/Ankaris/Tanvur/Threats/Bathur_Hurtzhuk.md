@@ -11,15 +11,11 @@ name:
   aliases:
     - Master Tiger of the Steppes
 shortcode: bathurhurtzhuk
-renamedFrom:
-  - hathurhtzhk
-  - bthrhrtzhk
 description: >-
   Warlord risen out of the Hëkvōr, the Black Wilds north of the Empire of
   Tānvür—a master strategist whose steppe confederation has become the
   gravest external threat the imperial frontier has faced in a generation.
 type: being
-packFolder: threats
 data:
   icon: icon-person
   templatePriority: null
@@ -42,6 +38,7 @@ data:
     skin_color: null
     complexion: null
     extra_features: []
+  packFolder: threats
 ---
 
 # Appearance {#appearance}

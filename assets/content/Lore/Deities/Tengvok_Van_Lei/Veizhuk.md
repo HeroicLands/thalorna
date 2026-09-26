@@ -7,5 +7,6 @@ name:
   full: Vëizhük
   aliases: []
 shortcode: veizhukdty
-packFolder: deitiestengvokvanlei
+data:
+  packFolder: deitiestengvokvanlei
 ---

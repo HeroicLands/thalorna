@@ -11,11 +11,11 @@ data:
   parents:
     - moktur
   population: 4000
+  packFolder: vylaria
 name:
   full: Stennvold
   aliases: []
 shortcode: stennvold
-packFolder: vylaria
 ---
 
 ## Overview

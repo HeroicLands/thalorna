@@ -12,9 +12,9 @@ data:
   parents:
     - suvarnagirijnpd
   population: 390
+  packFolder: vedyara
 name:
   full: Vrishatīra
   aliases: []
 shortcode: vrishatira
-packFolder: vedyara
 ---

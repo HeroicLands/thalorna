@@ -12,7 +12,6 @@ name:
   home: liranel
   aliases:
     - Reslâva Elowen Meadowbloom
-packFolder: aureldiaelavendre
 shortcode: velarithrl
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: medium
     complexion: fair
     extra_features: []
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

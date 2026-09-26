@@ -7,7 +7,8 @@ name:
   full: Sēker
   aliases: []
 shortcode: sekerdty
-packFolder: deitieskemetian
+data:
+  packFolder: deitieskemetian
 ---
 
 ![[icon-seker|Sēker]]{float: top-left, size: medium}

@@ -13,11 +13,11 @@ data:
   parents:
     - khensuretnome
   population: 90000
+  packFolder: khensuret
 name:
   full: Khensuret
   aliases: []
 shortcode: khensuret
-packFolder: khensuret
 ---
 
 ## Overview

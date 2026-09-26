@@ -10,7 +10,6 @@ name:
   clan: Drekanótt
   home: ulfheim
   aliases: []
-packFolder: ankarisnordlands
 shortcode: bjorgdrknt
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: pale
     extra_features:
       - a tattoo of a crescent moon on the neck
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }

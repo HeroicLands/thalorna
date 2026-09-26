@@ -19,7 +19,7 @@ data:
   party:
     size: null
     archetypes: []
-packFolder: adventures
+  packFolder: adventures
 ---
 
 ## Gróa, the Seidr of Malagna

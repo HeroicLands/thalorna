@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-anvilbdg
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: sideros
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Hand
-packFolder: spells
+
+# hmk:
+#   name: Hand
 ---
 
 The caster gestures forcefully and a massive hand of gleaming metal assembles itself from ambient minerals and traces of metal in the surrounding environment. The construct is enormous—large enough to grip a person around the torso—and moves with surprising dexterity under the caster's mental direction. Its fingers can close with crushing force, pry open barred gates, or lift loads that would require a team of laborers and a system of pulleys.

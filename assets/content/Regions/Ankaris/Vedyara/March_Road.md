@@ -12,11 +12,11 @@ data:
   parents:
     - bhumipalaland
   population: null
+  packFolder: vedyara
 name:
   full: The March Road
   aliases: []
 shortcode: marchroad
-packFolder: vedyara
 ---
 
 **The march road** runs from [[place-sandhyapur|Sandhyāpur]] on the western coast north to [[place-ashvapada|Ashvapada]] under the foothills, west from there to the wells of [[place-marukupa|Marukūpa]], and out of Vedyara across the desert-margin toward the Dunhari oases and the emporia beyond them. It crosses no pass. It goes round the western end of the [[place-graznmntns|Grazian]] wall through the broken country of [[place-wstrndscnt|the Western Descent]], and a loaded camel takes it without climbing anything worth the name.

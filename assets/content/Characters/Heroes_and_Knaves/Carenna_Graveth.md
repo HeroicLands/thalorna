@@ -11,7 +11,6 @@ name:
   clan: Gráveth
   home: torreviga
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: carengrvth
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: warm
     complexion: null
     extra_features: []
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

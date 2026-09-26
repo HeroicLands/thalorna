@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-wind
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: zepharis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Palm
-packFolder: spells
+
+# hmk:
+#   name: Palm
 ---
 
 The caster opens a relaxed palm and a gentle current of air unfurls from the fingertips, cool and steady as a mountain draft. The breeze responds to the slightest tilt of the hand—angled upward it lifts a veil of dust, swept sideways it parts a curtain of smoke, directed downward it dries a rain-soaked map. The current carries no more force than a brisk autumn wind, but its precision is remarkable, allowing the caster to extinguish a single candle in a row without disturbing its neighbors.

@@ -10,7 +10,6 @@ name:
   clan: Stormrót
   home: thrymstead
   aliases: []
-packFolder: ankarisnordlands
 shortcode: frthstrmrt
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: medium
     complexion: ruddy
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

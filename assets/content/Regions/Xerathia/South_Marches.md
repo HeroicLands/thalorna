@@ -17,8 +17,9 @@ data:
   parents:
     - xerathia
   population: null
-terran_analog: "The pre-Saharan steppe south of the Maghreb—the Atlas foothills, the High Plateaus and the northern Sahel: esparto scrub, seasonal wadis and transhumant herders."
-packFolder: xerathia
+  packFolder: xerathia
+
+# terran_analog: "The pre-Saharan steppe south of the Maghreb—the Atlas foothills, the High Plateaus and the northern Sahel: esparto scrub, seasonal wadis and transhumant herders."
 ---
 
 The South Marches are the drylands south of the

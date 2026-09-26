@@ -15,7 +15,7 @@ data:
   parents:
     - vylariargn
   population: 7000000
-packFolder: vylaria
+  packFolder: vylaria
 ---
 
 ## Overview

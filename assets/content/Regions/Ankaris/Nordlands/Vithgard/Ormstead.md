@@ -10,9 +10,9 @@ data:
   parents:
     - vithgard
   population: 500
+  packFolder: vithgard
 name:
   full: Ormstead
   aliases: []
 shortcode: ormstead
-packFolder: vithgard
 ---

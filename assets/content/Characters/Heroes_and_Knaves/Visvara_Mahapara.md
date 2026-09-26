@@ -10,7 +10,6 @@ name:
   clan: Mahâpara
   home: vyalendra3
   aliases: []
-packFolder: ankarisvedyara
 shortcode: visvarmhpr
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: null
     extra_features:
       - a scar on the right calf
+  packFolder: ankarisvedyara
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

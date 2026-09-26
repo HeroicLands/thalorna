@@ -13,7 +13,6 @@ name:
   aliases:
     - Patnefur Setmaâr
     - Patnefur Setmaar
-packFolder: northernfertileregiontakheperu
 shortcode: patnfrstmr
 type: being
 data:
@@ -42,6 +41,7 @@ data:
     complexion: null
     extra_features:
       - a scar on the left side of the neck
+  packFolder: northernfertileregiontakheperu
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-divination
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: pneumenos
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Perspective
-packFolder: spells
+
+# hmk:
+#   name: Perspective
 ---
 
 The caster's consciousness expands outward, briefly transcending the limitations of their individual perspective. They perceive their current situation not from their own viewpoint but from a metaphorical vantage point above it, seeing the full pattern of relationships, motivations, and consequences that connect the people and events around them. It is as though the caster has stepped outside a tapestry they had been studying from inches away and can now see the entire design.

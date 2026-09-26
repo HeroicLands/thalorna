@@ -7,5 +7,6 @@ name:
   full: Flórania
   aliases: []
 shortcode: floraniadty
-packFolder: deitiesaureldian
+data:
+  packFolder: deitiesaureldian
 ---

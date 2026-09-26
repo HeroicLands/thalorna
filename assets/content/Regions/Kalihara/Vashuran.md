@@ -11,9 +11,9 @@ data:
   parents:
     - kaliharargn
   population: 5000
+  packFolder: kalihara
 name:
   full: Vashurán
   aliases: []
 shortcode: vashuran
-packFolder: kalihara
 ---

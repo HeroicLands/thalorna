@@ -12,7 +12,6 @@ name:
   aliases:
     - Harvest-Blessed
   home: null
-packFolder: ankarisnordlands
 shortcode: inghrvstblsd
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: medium
     complexion: smooth
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

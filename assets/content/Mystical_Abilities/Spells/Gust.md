@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-wind
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: zepharis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Wind
-packFolder: spells
+
+# hmk:
+#   name: Wind
 ---
 
 The caster throws both arms wide and a wall of shrieking wind erupts forward, expanding into a full-scale tempest that tears across the battlefield with enough force to topple cavalry, shatter wooden barricades, and hurl loose debris like sling-stones. The howling gale strips banners from poles, extinguishes every open flame in its path, and fills the air with a blinding maelstrom of dust, leaves, and grit that renders archers useless and cavalry charges suicidal.

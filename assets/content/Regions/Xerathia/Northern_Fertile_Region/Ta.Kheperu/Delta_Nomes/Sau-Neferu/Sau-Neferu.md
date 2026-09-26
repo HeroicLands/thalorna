@@ -16,7 +16,7 @@ data:
   parents:
     - takheperurgn
   population: 900000
-packFolder: sauneferu
+  packFolder: sauneferu
 ---
 
 ## Overview

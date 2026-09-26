@@ -12,11 +12,11 @@ data:
   parents:
     - tirwen
   population: 55000
+  packFolder: elavendre
 name:
   full: Béravel
   aliases: []
 shortcode: beravel
-packFolder: elavendre
 ---
 
 **Béravel** stands on the [[place-beravriver|Bérav]] some **fifteen miles up from the western sea**, at

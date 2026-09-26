@@ -10,7 +10,6 @@ name:
   clan: Dhárel
   home: portaelion
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: porenadhrl
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: pale
     complexion: smooth
     extra_features: []
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

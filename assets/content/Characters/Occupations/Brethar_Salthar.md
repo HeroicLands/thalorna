@@ -10,7 +10,6 @@ name:
   clan: Sálthar
   home: valdun
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: brthrslthr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a mystical symbol on the forearm
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

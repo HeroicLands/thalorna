@@ -9,6 +9,7 @@ type: weapongear
 data:
   icon: icon-sword
   templatePriority: null
+  packFolder: weapons
 sohl:
   kbcat: sword
   weaponType: Sword
@@ -150,7 +151,6 @@ sohl:
         defense:
           blockMod: 0
           counterstrikeMod: 0
-packFolder: weapons
 ---
 
 A straight or slightly curved blade fixed to a wide steel gauntlet that runs from fingertips to elbow, providing hand and arm defense while the blade strikes. Worn as a single piece, the pata thrusts and cuts with the whole armored arm behind it, making it both sword and shield for the swordhand. Favored by heavily armored horsemen and duel-fighters.

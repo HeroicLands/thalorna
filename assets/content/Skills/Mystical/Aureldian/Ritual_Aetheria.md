@@ -15,6 +15,7 @@ name:
 data:
   icon: aetheria
   templatePriority: null
+  packFolder: aureldian
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -23,7 +24,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: aureldian
 ---
 
 See [[affiliation-aetheria|Faith of Aethería]]

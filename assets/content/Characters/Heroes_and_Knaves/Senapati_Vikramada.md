@@ -10,7 +10,6 @@ name:
   clan: Vikramâda
   home: vyalendra3
   aliases: []
-packFolder: ankarisvedyara
 shortcode: senptvkrmd
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a crescent moon on the neck
+  packFolder: ankarisvedyara
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

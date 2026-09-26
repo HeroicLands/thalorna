@@ -15,7 +15,6 @@ name:
   clan: Visbari
   home: valdosta
   aliases: []
-packFolder: midhalionvylaria
 shortcode: lrdmlnvsbr
 type: being
 data:
@@ -45,6 +44,7 @@ data:
       - limp
       - mustache
       - beard
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

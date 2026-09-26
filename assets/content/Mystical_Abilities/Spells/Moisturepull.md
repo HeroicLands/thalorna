@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-water
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: hydalis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Sweat
-packFolder: spells
+
+# hmk:
+#   name: Sweat
 ---
 
 The caster draws moisture directly from a target—a creature, a length of timber, a sack of grain—leaving it parched and desiccated. Living targets feel an unpleasant draining sensation as water is pulled from their skin and tissues, experiencing sudden thirst, cracked lips, and dried mucous membranes. Organic materials become brittle, shrunken, and lighter.

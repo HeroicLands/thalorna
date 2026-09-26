@@ -9,7 +9,6 @@ name:
   given: Elowyr
   clan: Nimávren
   aliases: []
-packFolder: adventures
 shortcode: elowyrnimavren
 type: being
 data:
@@ -23,6 +22,7 @@ data:
     - kingdmdnvr
   gender: male
   species: humanflk
+  packFolder: adventures
 ---
 
 # Appearance {#appearance}

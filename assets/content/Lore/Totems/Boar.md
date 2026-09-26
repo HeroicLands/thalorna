@@ -10,9 +10,9 @@ name:
   aliases:
     - Boar Totem
 shortcode: boarttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-boartotem|Boar]]{float: top-left, size: medium}

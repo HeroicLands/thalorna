@@ -11,7 +11,6 @@ name:
   home: ankhsetun
   aliases:
     - Khatah Meykhari
-packFolder: northernfertileregiontakheperu
 shortcode: khathmykhr
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a spider on the shoulder
+  packFolder: northernfertileregiontakheperu
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

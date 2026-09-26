@@ -5,7 +5,8 @@ name:
   full: Infernal Realms
   aliases: []
 shortcode: infrnlrlms
-packFolder: celestialorder
+data:
+  packFolder: celestialorder
 ---
 
 ## The Infernal Realms

@@ -86,13 +86,13 @@ data:
     - ashanpnthn
   relations:
     ashanpnthn: aligned
+  packFolder: ashaian
 name:
   full: Faith of Šírvádár
   aliases:
     - The Wandering Guide
+    - Šírvádár, The Wandering Guide
 shortcode: sirvadar
-alias: Šírvádár, The Wandering Guide
-packFolder: ashaian
 sohl:
   system:
     commonSkills: []

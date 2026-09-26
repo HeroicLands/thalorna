@@ -10,7 +10,6 @@ name:
   clan: Tarûzî
   home: sulun
   aliases: []
-packFolder: midhalionharad
 shortcode: qirushtarz
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: olive_toned
     extra_features:
       - a scar running down the right leg
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

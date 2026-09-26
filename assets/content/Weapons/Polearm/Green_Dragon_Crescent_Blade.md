@@ -9,6 +9,7 @@ type: weapongear
 data:
   icon: icon-polearm
   templatePriority: null
+  packFolder: weapons
 sohl:
   kbcat: polearm
   weaponType: Polearm
@@ -150,7 +151,6 @@ sohl:
         defense:
           blockMod: 0
           counterstrikeMod: 0
-packFolder: weapons
 ---
 
 A curved, forward-sweeping blade affixed to a long shaft, the Green Dragon Crescent Blade delivers powerful slashing strokes and thrusts in a single weapon. The distinctive arc lets trained warriors make broad arcs that cut across multiple opponents and interdict cavalry charges with formidable reach and cutting edge.

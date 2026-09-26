@@ -10,7 +10,6 @@ name:
   clan: Hildvith
   home: waldburg
   aliases: []
-packFolder: ankarisvrystwald
 shortcode: vthrhldvth
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a serpent on the back
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

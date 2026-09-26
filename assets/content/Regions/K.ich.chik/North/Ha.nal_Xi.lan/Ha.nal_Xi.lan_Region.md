@@ -15,8 +15,9 @@ data:
   parents:
     - nrthrnkchchk
   population: null
-terran_analog: Central US west of Appalachian Mountains—Mississippi and Ohio River valleys
-packFolder: hanalxilan
+  packFolder: hanalxilan
+
+# terran_analog: Central US west of Appalachian Mountains—Mississippi and Ohio River valleys
 ---
 
 ## Overview

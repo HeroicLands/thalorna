@@ -11,9 +11,9 @@ data:
   parents:
     - rajapurjnpd
   population: 490
+  packFolder: vedyara
 name:
   full: Māshakshetra
   aliases: []
 shortcode: mashakshetra
-packFolder: vedyara
 ---

@@ -13,6 +13,7 @@ name:
 data:
   icon: surtr
   templatePriority: null
+  packFolder: asguardian
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +22,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: asguardian
 ---
 
 See [[affiliation-surtr|Faith of Súrtr]]

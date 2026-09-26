@@ -12,11 +12,11 @@ data:
   parents:
     - silvrfrsts
   population: 600
+  packFolder: elavendre
 name:
   full: Silvain
   aliases: []
 shortcode: silvain
-packFolder: elavendre
 ---
 
 **Silvain** lies inside the **[[place-silvrfrsts|Silver Forests]]** of [[place-ardwyn|Ardwyn]], which

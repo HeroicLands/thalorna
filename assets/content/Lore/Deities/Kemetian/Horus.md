@@ -7,7 +7,8 @@ name:
   full: Hórús
   aliases: []
 shortcode: horusdty
-packFolder: deitieskemetian
+data:
+  packFolder: deitieskemetian
 ---
 
 ![[icon-horus|Hórús]]{float: top-left, size: medium}

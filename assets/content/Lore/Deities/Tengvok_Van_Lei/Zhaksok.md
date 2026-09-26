@@ -7,5 +7,6 @@ name:
   full: Zhāksōk
   aliases: []
 shortcode: zhaksokdty
-packFolder: deitiestengvokvanlei
+data:
+  packFolder: deitiestengvokvanlei
 ---

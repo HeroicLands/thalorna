@@ -12,9 +12,9 @@ data:
   parents:
     - rajapurjnpd
   population: 560
+  packFolder: vedyara
 name:
   full: Uttaratīra
   aliases: []
 shortcode: uttaratira
-packFolder: vedyara
 ---

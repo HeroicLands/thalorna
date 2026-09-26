@@ -11,7 +11,6 @@ name:
   clan: Storton
   home: ravenmoor
   aliases: []
-packFolder: aureldiaaelwyth
 shortcode: rowenstrtn
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: pale
     extra_features:
       - a tattoo of a bird on the forearm
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

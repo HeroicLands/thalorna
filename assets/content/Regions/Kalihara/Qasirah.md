@@ -11,11 +11,11 @@ data:
   parents:
     - kaliharargn
   population: 18000
+  packFolder: kalihara
 name:
   full: Qasirah
   aliases: []
 shortcode: qasirah
-packFolder: kalihara
 ---
 
 ## Overview

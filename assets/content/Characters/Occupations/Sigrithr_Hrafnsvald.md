@@ -10,7 +10,6 @@ name:
   clan: Hrafnsvald
   home: vindborg
   aliases: []
-packFolder: ankarisnordlands
 shortcode: sgrthrhrfnsvld
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: fair
     extra_features:
       - a tattoo of a bear on the left arm
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

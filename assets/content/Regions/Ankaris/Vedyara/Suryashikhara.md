@@ -13,11 +13,11 @@ data:
     - graznmntns
     - sthrnwall
   population: null
+  packFolder: vedyara
 name:
   full: Sūryashikhara
   aliases: []
 shortcode: suryashkhr
-packFolder: vedyara
 ---
 
 **Sūryashikhara** ("the sun's summit") is the highest point of [[place-sthrnwall|the Southern Wall]] and, by the reckoning of everyone who has stood under it, of the world. From the terraces below it the summit lights the better part of an hour before the valley does. The temples that can see it set the whole of the Vedyari ritual day from that moment.

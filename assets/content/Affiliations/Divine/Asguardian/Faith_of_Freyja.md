@@ -93,12 +93,12 @@ data:
     - asguardian
   relations:
     asguardian: aligned
+  packFolder: pantheonsasguardian
 name:
   full: Faith of Fréyja
   aliases:
     - The Golden Path
 shortcode: freyja
-packFolder: pantheonsasguardian
 sohl:
   system:
     commonSkills: []

@@ -11,7 +11,6 @@ name:
   clan: Ghânîdês
   home: athenikos2
   aliases: []
-packFolder: helladhelionis
 shortcode: habdnghnds
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: bronzed
     extra_features:
       - tattoo on arm
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 14 } }

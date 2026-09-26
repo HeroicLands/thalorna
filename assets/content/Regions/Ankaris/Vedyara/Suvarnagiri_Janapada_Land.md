@@ -16,8 +16,9 @@ data:
   parents:
     - vedyarargn
   population: 35000
-terran_analog: "Medieval South Indian temple-republic with mineral-resource wealth—Chola-era brahmadeya village federation centered on a gold-bearing mountain, governed by an unusually elaborate constitutional structure designed to prevent the concentration of mineral wealth in any one lineage or temple"
-packFolder: vedyara
+  packFolder: vedyara
+
+# terran_analog: "Medieval South Indian temple-republic with mineral-resource wealth—Chola-era brahmadeya village federation centered on a gold-bearing mountain, governed by an unusually elaborate constitutional structure designed to prevent the concentration of mineral wealth in any one lineage or temple"
 ---
 
 Suvarnagiri Janapada is the land of the temple-republic of [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]], in the Bhārava highlands of [[place-vedyarargn|Vedyara]].
@@ -44,14 +45,14 @@ SELECT s.address.slug AS _ref,
                    END, ' and ' ORDER BY p.name.full)
         FROM entries p
         WHERE p.type = 'affiliation'
-          AND list_contains(p.data.domains, concat(s.package, '-none-', s.type, '-', s.shortcode))) AS "Held by",
+          AND list_contains(p.data.domains, concat(s.package, '-note-', s.type, '-', s.shortcode))) AS "Held by",
        -- No field states why a place stands where it does, so "For" projects nothing.
        NULL AS "For"
 FROM entries s
 LEFT JOIN market m ON m.value = s.data.market
 WHERE s.type = 'place'
   AND s.subType = 'settlement'
-  AND list_contains(s.data.parents, 'thalorna-none-place-suvarnagirijnpd')
+  AND list_contains(s.data.parents, 'thalorna-note-place-suvarnagirijnpd')
 ORDER BY s.name.full COLLATE NOCASE
 ```
 

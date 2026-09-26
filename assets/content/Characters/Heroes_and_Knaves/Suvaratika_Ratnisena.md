@@ -10,7 +10,6 @@ name:
   clan: Ratnisena
   home: chandrapur2
   aliases: []
-packFolder: ankarisvedyara
 shortcode: suvrtkrtns
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: null
     extra_features:
       - a scar running down the right leg
+  packFolder: ankarisvedyara
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

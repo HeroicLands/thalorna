@@ -7,5 +7,6 @@ name:
   full: Vëngdāk Zhütvōr
   aliases: []
 shortcode: vngdkzhtvrdty
-packFolder: deitiestengvokvanlei
+data:
+  packFolder: deitiestengvokvanlei
 ---

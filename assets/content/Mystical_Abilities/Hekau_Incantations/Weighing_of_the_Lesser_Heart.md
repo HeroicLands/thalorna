@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: maatken
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: maatken
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 A deliberate small echo of the judgment after death, and named to be one. The subject may still

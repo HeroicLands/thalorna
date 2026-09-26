@@ -11,7 +11,6 @@ name:
   home: aureliane
   aliases:
     - Braden Hask
-packFolder: aureldiaprovenzia
 shortcode: hrlkvlskyr
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: clear
     extra_features:
       - a scar on the back of the left arm
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

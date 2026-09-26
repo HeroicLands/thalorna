@@ -16,7 +16,7 @@ data:
     cycle: 30
     newOn: 720/1/1
     eclipses: rare
-packFolder: setting
+  packFolder: setting
 name:
   full: Vaelith
   aliases: []

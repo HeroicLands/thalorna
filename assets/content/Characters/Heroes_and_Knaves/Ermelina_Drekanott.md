@@ -10,7 +10,6 @@ name:
   clan: Drekanótt
   home: valgard
   aliases: []
-packFolder: ankarisnordlands
 shortcode: ermlndrknt
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: light
     complexion: weathered
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

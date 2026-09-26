@@ -9,11 +9,10 @@ description: "Black viscous darkness elixir; breathes obscuring shadow around be
 shortcode: elxshd
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Shadowbreath
 data:
   icon: icon-potion
   templatePriority: null
+  packFolder: elixirs
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +21,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Shadowbreath
 ---
 
 A Shadowbreath Elixir is a black, viscous draft that seems to absorb light, smelling of midnight and extinguished flames. Upon drinking, the imbiber may exhale Darkness principle in a controlled burst—a 1-turn action that creates a zone of absolute obscurity extending five feet in all directions. The shadowed area moves with the imbiber and persists for AS minutes, blocking line of sight entirely. Within the darkness, Stealth tests gain one automatic success level, making hidden movement nearly impossible to detect.

@@ -10,11 +10,11 @@ data:
   parents:
     - midhalnrgn
   population: 24000000
+  packFolder: vylaria
 name:
   full: Vylaría Region
   aliases: []
 shortcode: vylariargn
-packFolder: vylaria
 ---
 
 ## Overview

@@ -9,6 +9,7 @@ type: weapongear
 data:
   icon: icon-roundshield
   templatePriority: null
+  packFolder: weapons
 sohl:
   kbcat: shield
   weaponType: Shield
@@ -62,7 +63,6 @@ sohl:
         defense:
           blockMod: 0
           counterstrikeMod: 0
-packFolder: weapons
 ---
 
 A circular shield of steel and hide, often richly worked with brass bosses and damascened patterns, the Dhal is both shield and ornament. Its multiple bosses deflect blows and conceal reinforced zones; warriors prize it for protection and the prestige of its craft.

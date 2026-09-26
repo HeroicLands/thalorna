@@ -10,7 +10,6 @@ name:
   clan: Kálmereth
   home: elanmere
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: tldrklmrth
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: weathered
     extra_features:
       - a scar near the right ear
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

@@ -7,5 +7,6 @@ name:
   full: K'in'ul Tq'an
   aliases: []
 shortcode: kinultqandty
-packFolder: deitiesitzani
+data:
+  packFolder: deitiesitzani
 ---

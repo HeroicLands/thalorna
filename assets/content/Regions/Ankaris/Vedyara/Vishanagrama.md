@@ -12,9 +12,9 @@ data:
   parents:
     - dhanurkotajnpd
   population: 720
+  packFolder: vedyara
 name:
   full: Vishānagrāma
   aliases: []
 shortcode: vishanagrama
-packFolder: vedyara
 ---

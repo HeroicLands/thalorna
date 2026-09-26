@@ -12,11 +12,11 @@ data:
   parents:
     - vardainvalleys
   population: 780
+  packFolder: aelwyth
 name:
   full: Barakth
   aliases: []
 shortcode: barakth
-packFolder: aelwyth
 ---
 
 **Barakth** lies highest of the inhabited valleys but one, closest to the road up to

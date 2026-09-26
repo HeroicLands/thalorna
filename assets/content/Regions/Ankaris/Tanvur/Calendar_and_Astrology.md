@@ -5,7 +5,6 @@ name:
   full: Calendar and Astrology
   aliases: []
 shortcode: clndrstrlgy
-packFolder: tanvur
 data:
   epoch: 720/1/1
   months:
@@ -22,6 +21,7 @@ data:
     - { name: Zhürtyüt, days: 30 }
     - { name: Thürtyüt, days: 30 }
   weekdays: []
+  packFolder: tanvur
 ---
 
 ## Tānvür Calendar and Astrology

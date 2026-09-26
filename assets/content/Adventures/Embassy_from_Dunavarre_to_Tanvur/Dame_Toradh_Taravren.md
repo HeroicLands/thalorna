@@ -9,7 +9,6 @@ name:
   given: Toradh
   clan: Taravren
   aliases: []
-packFolder: adventures
 shortcode: toradhtaravren
 type: being
 data:
@@ -23,6 +22,7 @@ data:
     - kingdmdnvr
   gender: female
   species: humanflk
+  packFolder: adventures
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

@@ -11,11 +11,11 @@ data:
   parents:
     - hylen
   population: 7000
+  packFolder: vylaria
 name:
   full: Granaria
   aliases: []
 shortcode: granaria
-packFolder: vylaria
 ---
 
 ## Overview

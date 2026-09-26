@@ -11,11 +11,11 @@ data:
   parents:
     - alyssa
   population: 12000
+  packFolder: vylaria
 name:
   full: Tibur
   aliases: []
 shortcode: tibur
-packFolder: vylaria
 ---
 
 ## Overview

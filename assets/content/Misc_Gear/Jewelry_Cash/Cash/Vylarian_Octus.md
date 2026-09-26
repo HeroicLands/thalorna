@@ -10,6 +10,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: 0
+  packFolder: cash
 sohl:
   craft:
     skill: mtlc
@@ -20,7 +21,6 @@ sohl:
     valueBase: 0.125
     qualityBase: 0
     durabilityBase: 3
-packFolder: cash
 ---
 
 An eighth of an Argentus, either cut from the parent coin along the eight-segment pattern struck into its reverse or produced ready-struck at the imperial and provincial mints. A cut Octus is a wedge, triangular in outline; a struck one is cleaner and more uniformly weighted.

@@ -112,12 +112,13 @@ data:
     mtrrchybth: aligned
     vylarinmpr: unaligned
     okharis: unaligned
-terran_analog: "Egypt + Sudan (Nile valley civilization)"
-packFolder: takheperu
+  packFolder: takheperu
 sohl:
   system:
     commonSkills:
       - kheperlng
+
+# terran_analog: "Egypt + Sudan (Nile valley civilization)"
 ---
 
 {{< cartouche slug="takheperu" height="10rem" align="right" >}}

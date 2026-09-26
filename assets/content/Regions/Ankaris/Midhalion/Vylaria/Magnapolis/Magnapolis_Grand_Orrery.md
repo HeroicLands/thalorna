@@ -13,6 +13,6 @@ data:
   parents:
     - magnapolis
   population: null
+  packFolder: vylaria
 shortcode: magngndorery
-packFolder: vylaria
 ---

@@ -23,11 +23,11 @@ data:
   lore: []
   parents: []
   relations: {}
+  packFolder:
 name:
   full: Hideworkers' Collective
   aliases: []
 shortcode: hideworkerscltv
-packFolder:
 sohl:
   system:
     commonSkills: []

@@ -11,14 +11,15 @@ data:
   parents:
     - worldthlrn
   population: null
+  packFolder: iseron
 shortcode: isrncntnnt
 name:
   full: Iseron Continent
   aliases:
     - Iseron
 description: The frozen southernmost continent—desolate, largely unexplored, rumored to hold ancient ruins beneath the ice and tiny reclusive communities adapted to its extremes.
-terran_analog: "Antarctica—the frozen southernmost continent: desolate, largely unexplored, rumored to hold ancient ruins beneath the ice and tiny reclusive communities adapted to its extremes."
-packFolder: iseron
+
+# terran_analog: "Antarctica—the frozen southernmost continent: desolate, largely unexplored, rumored to hold ancient ruins beneath the ice and tiny reclusive communities adapted to its extremes."
 ---
 
 Iseron is the southernmost continent of [[place-worldthlrn|Thalorna]]—a vast ice-bound landmass at the southern pole, desolate and almost entirely unexplored. It is the least-known of Thalorna's continents by a wide margin. What is reported of Iseron is reported by a vanishingly small number of returned expeditions, and much of what the rest of the world believes about the place is informed as much by legend as by documented observation. It is rumored to hold ancient ruins beneath the ice, small reclusive communities adapted to its extremes, and knowledge that predates every other civilization on Thalorna.
@@ -40,7 +41,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'place'
   AND subType = 'region'
-  AND list_contains(data.parents, 'thalorna-none-place-isrncntnnt')
+  AND list_contains(data.parents, 'thalorna-note-place-isrncntnnt')
 ORDER BY name.full COLLATE NOCASE
 ```
 

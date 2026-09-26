@@ -10,6 +10,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: 0
+  packFolder: cash
 sohl:
   craft:
     skill: mtlc
@@ -20,7 +21,6 @@ sohl:
     valueBase: 80
     qualityBase: 0
     durabilityBase: 3
-packFolder: cash
 ---
 
 A silver piece at the full deben weight, sealed by the attesting temple. Silver at this mass is the ordinary instrument of serious commerce—a consignment of cloth, a draft animal, a craftsman's contract for a season.

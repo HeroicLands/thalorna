@@ -11,11 +11,11 @@ data:
   parents:
     - permentunome
   population: 13000
+  packFolder: bordernomes
 name:
   full: Per-Mentu
   aliases: []
 shortcode: permentu
-packFolder: bordernomes
 ---
 
 ## Overview

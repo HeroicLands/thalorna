@@ -10,7 +10,6 @@ name:
   clan: Sampsiôn
   home: karatas2
   aliases: []
-packFolder: helladbyzaria
 shortcode: damklsmpsn
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a crescent moon on the neck
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

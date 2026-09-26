@@ -11,7 +11,6 @@ name:
   clan: Dróttgar
   home: frostmark
   aliases: []
-packFolder: ankarisnordlands
 shortcode: yngvrdrtgr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: fair
     extra_features:
       - a scar on the left shoulder
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

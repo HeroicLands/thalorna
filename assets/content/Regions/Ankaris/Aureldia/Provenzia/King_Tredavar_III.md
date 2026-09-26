@@ -10,7 +10,6 @@ name:
   clan: ""
   home: ""
   aliases: []
-packFolder: provenzia
 shortcode: kingtredavariii
 type: being
 data:
@@ -24,6 +23,7 @@ data:
   affiliations: []
   gender: male
   species: humanflk
+  packFolder: provenzia
 ---
 
 A king of Provènzia.

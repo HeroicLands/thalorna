@@ -10,7 +10,6 @@ name:
   clan: Vetrdómr
   home: skarholme
   aliases: []
-packFolder: ankarisnordlands
 shortcode: hrjlfvtrdmr
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: weathered
     extra_features:
       - a scar along the jawline
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

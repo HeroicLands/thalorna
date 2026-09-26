@@ -10,7 +10,6 @@ name:
   clan: Tâbîrês
   home: thyrenae2
   aliases: []
-packFolder: helladhelionis
 shortcode: zahiratbrs
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: fair
     complexion: weathered
     extra_features: []
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

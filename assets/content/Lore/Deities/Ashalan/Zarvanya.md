@@ -7,5 +7,6 @@ name:
   full: Zárványä
   aliases: []
 shortcode: zarvanyadty
-packFolder: deitiesashalan
+data:
+  packFolder: deitiesashalan
 ---

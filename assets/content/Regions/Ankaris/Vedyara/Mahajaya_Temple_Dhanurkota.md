@@ -12,11 +12,11 @@ data:
   parents:
     - dhanurkotajnpd
   population: null
+  packFolder: vedyara
 name:
   full: The Mahájaya Temple at Dhanurkota
   aliases: []
 shortcode: dhnrktemple
-packFolder: vedyara
 ---
 
 The **Mahájaya temple** inside [[place-bowfort|the Bow-Fort]] is the religious and political heart of the [[affiliation-dhnrktjnpd|Dhanurkota Janapada]], and one of the major establishments of the goddess in inland Vedyara. Its great hall is where the sabhā meets, and its senior priest convenes it.

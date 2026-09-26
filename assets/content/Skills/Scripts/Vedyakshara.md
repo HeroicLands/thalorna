@@ -11,6 +11,7 @@ subType: script
 data:
   icon: icon-speaking
   templatePriority: null
+  packFolder: script
 sohl:
   system:
     skillBaseFormula: "@rea, @per"
@@ -19,10 +20,9 @@ sohl:
     combatCategory: none
     parentSkillCode: script
     initSkillMult: 0
-packFolder: script
-flags:
-  "thalorna":
-    script_family: Syllabary
+  flags:
+    "thalorna":
+      script_family: Syllabary
 ---
 
 The Vedyákshara is a syllabary: roughly forty-eight characters, each standing for a consonant-plus-vowel, with clusters and bare final consonants written by modifying the base glyph rather than by adding a letter. Every sign hangs from a headline, so a line of Vedyari looks like a rope with the words strung beneath it.

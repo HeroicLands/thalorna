@@ -11,12 +11,12 @@ data:
   parents:
     - silvrfrsts
   population: null
+  packFolder: elavendre
 name:
   full: The At'aan Wyrd
   aliases:
     - The Wyrd
 shortcode: ataanwyrd
-packFolder: elavendre
 ---
 
 A single vast tree standing alone in a clearing of the Silver Forests that nothing else grows in.

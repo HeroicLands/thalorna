@@ -10,7 +10,6 @@ name:
   clan: Lýskal
   home: lunacorte
   aliases: []
-packFolder: aureldiaprovenzia
 shortcode: jaranlyskl
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: fair
     extra_features:
       - a scar running down the right leg
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

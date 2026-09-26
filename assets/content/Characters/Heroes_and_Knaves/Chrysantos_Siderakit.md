@@ -11,9 +11,7 @@ name:
   clan: Siderákit
   home: thalassos
   aliases: []
-packFolder: helladbyzaria
 shortcode: chrysntssdrkt
-renamedFrom: chrysntskvdrs
 type: being
 data:
   icon: icon-person
@@ -40,6 +38,7 @@ data:
     complexion: pale
     extra_features:
       - a tattoo of a fire on the leg
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

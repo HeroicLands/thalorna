@@ -5,7 +5,8 @@ name:
   full: Five Elemental Lords
   aliases: []
 shortcode: fvlmntlrds
-packFolder: celestialorder
+data:
+  packFolder: celestialorder
 ---
 
 ## The Five Elemental Lords

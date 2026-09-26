@@ -19,7 +19,7 @@ data:
     - { to: vedyarargn, bearing: W }
     - { to: meghsamdra, bearing: SW }
   population: null
-packFolder: vedyara
+  packFolder: vedyara
 ---
 
 ## Overview

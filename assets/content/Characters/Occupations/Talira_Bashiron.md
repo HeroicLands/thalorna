@@ -11,7 +11,6 @@ name:
   home: thyrenae2
   aliases:
     - Elspeth Rowen
-packFolder: helladhelionis
 shortcode: talirbshrn
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: olive_toned
     extra_features:
       - a scar on the left ear
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }

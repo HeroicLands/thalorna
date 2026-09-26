@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-divination
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: pneumenos
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Link
-packFolder: spells
+
+# hmk:
+#   name: Link
 ---
 
 The caster creates a bridge of shared awareness between two or more willing participants, and suddenly each becomes conscious of the others' thoughts, emotions, and sensory experiences. The bond is intimate and immediate—not merely the transmission of words but the sharing of understanding itself. Participants can communicate complex ideas in an instant, coordinate actions without discussion, and share sensory data as though they possessed multiple sets of eyes and ears.

@@ -11,7 +11,6 @@ name:
     - The Sun at the World's Edge
     - "K'in'ul Tq'an"
 shortcode: kinultqan
-packFolder: pantheonitzani
 data:
   banner: faithbnr
   icon: null
@@ -121,6 +120,7 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
+  packFolder: pantheonitzani
 sohl:
   system:
     commonSkills:

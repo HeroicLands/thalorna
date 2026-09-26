@@ -10,7 +10,6 @@ name:
   clan: Róseneth
   home: null # was: Eskárath
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: anirarsnth
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a tree on the back
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

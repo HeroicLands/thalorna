@@ -68,13 +68,13 @@ data:
     - arldnpnthn
   relations:
     arldnpnthn: aligned
+  packFolder: pantheonsaureldian
 name:
   full: Faith of Murkir
   aliases:
     - The Wayfarer
     - Múrkír
 shortcode: murkir
-packFolder: pantheonsaureldian
 sohl:
   system:
     commonSkills: []

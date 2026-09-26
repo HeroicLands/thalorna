@@ -7,5 +7,6 @@ name:
   full: Báhrámiš
   aliases: []
 shortcode: bahramisdty
-packFolder: deitiesashalan
+data:
+  packFolder: deitiesashalan
 ---

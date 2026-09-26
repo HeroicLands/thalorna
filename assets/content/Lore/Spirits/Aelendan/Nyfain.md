@@ -9,7 +9,8 @@ name:
   full: Nyfain, the White Owl of the Hollow
   aliases: []
 shortcode: nyfainspr
-packFolder: lorespiritsaelendan
+data:
+  packFolder: lorespiritsaelendan
 ---
 
 - **Kind:** Animal-kin, of [[lore-thekindred|the Kindred]]

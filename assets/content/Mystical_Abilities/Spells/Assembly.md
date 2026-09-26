@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-firebdg
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: pyrethos
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Convoke
-packFolder: spells
+
+# hmk:
+#   name: Convoke
 ---
 
 The caster conducts an elaborate summoning, channeling the full fury of Pyréthos to call forth a greater fire elemental from the plane of pure flame. The being that manifests is immense—a towering pillar of roaring fire whose mere presence heats the surrounding air to oven-like temperatures and whose radiance illuminates the area like a second sun. Loose materials within range spontaneously combust, and the ground beneath its form scorches and cracks.

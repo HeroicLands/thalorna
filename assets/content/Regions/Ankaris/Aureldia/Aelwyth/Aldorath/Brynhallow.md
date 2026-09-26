@@ -12,11 +12,11 @@ data:
   parents:
     - brynwold
   population: 1800
+  packFolder: aelwyth
 name:
   full: Brynhallow
   aliases: []
 shortcode: brynhallow
-packFolder: aelwyth
 ---
 
 **Brynhallow** sits high in Aldorath's upland country, where the manorial arable gives out and the land

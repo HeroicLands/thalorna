@@ -64,13 +64,13 @@ data:
     - arldnpnthn
   relations:
     arldnpnthn: aligned
+  packFolder: pantheonsaureldian
 name:
   full: Faith of Lusinia
   aliases:
     - The World-Weaver
     - Lúsinía
 shortcode: lusinia
-packFolder: pantheonsaureldian
 sohl:
   system:
     commonSkills: []

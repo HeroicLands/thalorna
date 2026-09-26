@@ -10,9 +10,9 @@ name:
   aliases:
     - Sturgeon Totem
 shortcode: sturgeonttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-sturgeontotem|Sturgeon]]{float: top-left, size: medium}

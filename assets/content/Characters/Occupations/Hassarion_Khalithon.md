@@ -11,7 +11,6 @@ name:
   home: myrtillos
   aliases:
     - Lord Alaric Stormhaven
-packFolder: helladhelionis
 shortcode: hsrnkhlthn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: olive
     complexion: olive_toned
     extra_features: []
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

@@ -7,5 +7,6 @@ name:
   full: Ix'ilan Ch'alix
   aliases: []
 shortcode: ixilanchalixdty
-packFolder: deitiesitzani
+data:
+  packFolder: deitiesitzani
 ---

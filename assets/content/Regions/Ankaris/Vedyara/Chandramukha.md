@@ -20,12 +20,12 @@ data:
     - { to: chandrapur2, bearing: N, mode: boat, days: 1, terrain: [river] }
     - { to: takheperurgn, bearing: SW, mode: ship, days: 30 }
     - { to: bharanya, bearing: E, mode: ship, days: 5, terrain: [coast] }
+  packFolder: vedyara
 name:
   full: Chandramukha
   aliases:
     - The Moon-Mouth
 shortcode: chandrmukha
-packFolder: vedyara
 ---
 
 **Chandramukha** (16,000, market 5) stands on the seaward edge of the delta, where the last navigable channel of the [[place-chandrmahi|Chandramahī]] crosses the bar into the [[place-meghsamdra|Megha-samudra]]. The name means the moon's mouth, and it is the mouth of [[affiliation-chandrapur|Chandrapur]] in every sense that matters: nothing reaches the white city from the sea, and nothing leaves it for the sea, except through here.

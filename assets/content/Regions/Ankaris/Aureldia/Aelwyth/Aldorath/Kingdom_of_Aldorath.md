@@ -166,7 +166,7 @@ data:
     kingdmdnvr: rival
     repblctrvn: unaligned
     jrldmstrmvld: nemesis
-packFolder: aelwyth
+  packFolder: aelwyth
 sohl:
   system:
     commonSkills:

@@ -11,12 +11,12 @@ data:
   parents:
     - vandhyabhumi
   population: null
+  packFolder: vedyara
 name:
   full: Mādhavendra
   aliases:
     - The Capital of the Philosopher-Kings
 shortcode: madhavendra
-packFolder: vedyara
 ---
 
 **Mādhavendra** stands on open pasture in the centre of [[place-vandhyabhumi|Vandhyabhūmi]], twelve centuries after the reign that raised it and the better part of nine since anyone lived in it. It is roofless. It has never been quarried. Its walls stand to the height of a man over most of their circuit, its street grid is legible from the ridge above it, and the dry air that makes the plateau poor ground for a plough has made it very good ground for a ruin.

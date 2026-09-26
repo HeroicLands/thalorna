@@ -7,12 +7,11 @@ data:
   parents:
     - nordheim
   population: null
+  packFolder: nordheim
 name:
   full: Haulonna
   aliases: []
 shortcode: haulonna
-renamedFrom: laurelosse
-packFolder: nordheim
 ---
 
 - **Type:** Sinalëan enclave (destroyed)

@@ -15,7 +15,7 @@ data:
   parents:
     - swoasisbelt
   population: 1200
-packFolder: khazryndesert
+  packFolder: khazryndesert
 ---
 
 Kethramír lies along the caravan routes that cross the Khazryn Desert, serving as a waypoint and refuge for merchants traversing the harsh landscape. The settlement has grown around three deep wells that have provided water to travelers for centuries, and the settlement's inhabitants—a mix of permanent residents and those who have given up the nomadic life—have built structures designed for both resilience and adaptation to the relentless heat. Adobe buildings with thick walls and narrow windows provide shelter, while courtyards offer gathering places for merchants to negotiate, rest, and prepare for the journey ahead.

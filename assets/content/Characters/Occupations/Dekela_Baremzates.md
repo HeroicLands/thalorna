@@ -10,7 +10,6 @@ name:
   clan: Bàremzâtês
   home: aelissium
   aliases: []
-packFolder: midhalionvylaria
 shortcode: deklbrmzts
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: olive
     complexion: ruddy
     extra_features: []
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

@@ -10,7 +10,6 @@ name:
   clan: Kórisvar
   home: elanmere
   aliases: []
-packFolder: aureldiaprovenzia
 shortcode: idriskrsvr
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: warm
     complexion: null
     extra_features: []
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

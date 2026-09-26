@@ -10,9 +10,9 @@ name:
   aliases:
     - Bobcat Totem
 shortcode: bobcatttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-bobcattotem|Bobcat]]{float: top-left, size: medium}

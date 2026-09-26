@@ -12,11 +12,11 @@ data:
   parents:
     - tramontana
   population: null
+  packFolder: provenzia
 name:
   full: Maze of Echoes
   aliases: []
 shortcode: mazeofechos
-packFolder: provenzia
 ---
 
 A maze encountered within [[lore-aralwen|Úqua-Arálwen]], where sound does not behave as it should—the

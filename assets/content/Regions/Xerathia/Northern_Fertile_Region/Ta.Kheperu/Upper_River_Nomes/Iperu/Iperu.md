@@ -11,11 +11,11 @@ data:
   parents:
     - iperunome
   population: 33000
+  packFolder: upperrivernomes
 name:
   full: Iperu
   aliases: []
 shortcode: iperu
-packFolder: upperrivernomes
 ---
 
 ## Overview

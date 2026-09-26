@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: sefut
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: sefut
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 The gravest working in the tradition and the one its whole philosophy makes possible: if a thing

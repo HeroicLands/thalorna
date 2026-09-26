@@ -10,7 +10,6 @@ name:
   clan: Kâlmâkanês
   home: ashenmere
   aliases: []
-packFolder: midhalionvylaria
 shortcode: xrphnklmkns
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: weathered
     extra_features:
       - a scar on the left ear
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

@@ -10,7 +10,6 @@ name:
   clan: Sánriceth
   home: valdes
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: estrsnrcth
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: tanned
     complexion: olive_toned
     extra_features: []
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

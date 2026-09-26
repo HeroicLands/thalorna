@@ -12,7 +12,6 @@ name:
   aliases:
     - Thunderstrike
   home: null
-packFolder: ankarisnordlands
 shortcode: thrglthndrstrk
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: medium
     complexion: weathered
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 18 } }

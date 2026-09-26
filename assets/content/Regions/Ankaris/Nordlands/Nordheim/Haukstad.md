@@ -11,9 +11,9 @@ data:
   parents:
     - nordheim
   population: 150
+  packFolder: nordheim
 name:
   full: Haukstad
   aliases: []
 shortcode: haukstad
-packFolder: nordheim
 ---

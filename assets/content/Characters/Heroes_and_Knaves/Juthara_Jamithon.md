@@ -10,7 +10,6 @@ name:
   clan: Jâmîthôn
   home: ashira
   aliases: []
-packFolder: northernfertileregionbethua
 shortcode: juthrjmthn
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: null
     extra_features:
       - a scar running across the stomach
+  packFolder: northernfertileregionbethua
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

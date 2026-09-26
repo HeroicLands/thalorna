@@ -10,7 +10,6 @@ name:
   clan: Vârênlâs
   home: belekos
   aliases: []
-packFolder: midhalionvylaria
 shortcode: syphrnsvrnls
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a moon on the neck
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

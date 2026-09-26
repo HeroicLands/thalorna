@@ -10,11 +10,11 @@ data:
   parents:
     - alyssa
   population: 32000
+  packFolder: vylaria
 name:
   full: Lentora
   aliases: []
 shortcode: lentora
-packFolder: vylaria
 ---
 
 ## Overview

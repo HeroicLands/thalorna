@@ -9,11 +9,10 @@ description: "Jewel-toned amber aromatic; enhances social appeal and persuasion.
 shortcode: ptnaroms
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Aromatic, Strong"
 data:
   icon: icon-potion
   templatePriority: null
+  packFolder: strong
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +21,9 @@ sohl:
     durabilityBase: 5
     potency: "strong"
     strength: 0
-packFolder: strong
+
+# hmk:
+#   name: "Potion, Aromatic, Strong"
 ---
 
 Jewel-toned amber, as though the preparation has imprisoned sunlight itself, this concentrated aromatic announces its presence long before the vial is opened. The fragrance is extraordinary—rich florals layered with exotic spices, a hint of precious woods, and the ineffable sweetness of rare compounds that cost as much as their weight in silver. A single drop applied to the neck, wrist, or collarbone spreads through the surrounding air like thrown water, intoxicating everyone within ten feet with a scent that seems designed to trigger memory and desire simultaneously. Those nearby find themselves unable to focus on anything but the wearer, their attention drawn back again and again to this source of pleasure.

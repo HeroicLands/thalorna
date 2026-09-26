@@ -10,7 +10,6 @@ name:
   clan: Ríkhild
   home: falkensten
   aliases: []
-packFolder: ankarisvrystwald
 shortcode: thrgrmrkhld
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: light
     complexion: weathered
     extra_features: []
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

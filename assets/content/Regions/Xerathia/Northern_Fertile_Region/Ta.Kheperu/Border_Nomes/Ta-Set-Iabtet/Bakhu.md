@@ -13,11 +13,11 @@ data:
   parents:
     - tasetiabtetnome
   population: 22000
+  packFolder: tasetiabtet
 name:
   full: Bakhu
   aliases: []
 shortcode: bakhu
-packFolder: tasetiabtet
 ---
 
 ## Overview

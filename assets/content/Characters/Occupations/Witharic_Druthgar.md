@@ -11,7 +11,6 @@ name:
   clan: Druthgar
   home: waldburg
   aliases: []
-packFolder: ankarisvrystwald
 shortcode: wthrcdrthgr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: medium
     complexion: weathered
     extra_features: []
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

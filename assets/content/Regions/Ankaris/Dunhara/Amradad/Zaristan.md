@@ -10,9 +10,9 @@ data:
   parents:
     - amradadrgn
   population: 5000
+  packFolder: amradad
 name:
   full: Zaristan
   aliases: []
 shortcode: zaristan
-packFolder: amradad
 ---

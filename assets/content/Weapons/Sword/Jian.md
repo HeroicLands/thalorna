@@ -9,6 +9,7 @@ type: weapongear
 data:
   icon: icon-sword
   templatePriority: null
+  packFolder: weapons
 sohl:
   kbcat: sword
   weaponType: Sword
@@ -194,7 +195,6 @@ sohl:
         defense:
           blockMod: 0
           counterstrikeMod: 0
-packFolder: weapons
 ---
 
 A straight double-edged blade narrow and supple, the jian rewards skill and timing over strength. The blade tapers gradually to a leaf point, suited equally to the cut and the thrust. Duelists prize this steel for its responsiveness and the way it reads an opponent's intent through the guard's contact.

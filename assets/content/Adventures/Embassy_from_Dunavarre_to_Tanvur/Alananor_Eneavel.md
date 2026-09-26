@@ -9,7 +9,6 @@ name:
   given: Alananor
   clan: Enéavel
   aliases: []
-packFolder: adventures
 shortcode: alanoreneavel
 type: being
 data:
@@ -23,6 +22,7 @@ data:
     - kingdmdnvr
   gender: male
   species: humanflk
+  packFolder: adventures
 ---
 
 # Appearance {#appearance}

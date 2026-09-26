@@ -85,13 +85,13 @@ data:
     - ashanpnthn
   relations:
     ashanpnthn: aligned
+  packFolder: ashaian
 name:
   full: Faith of Míthárä
   aliases:
     - The World's First Light
+    - Míthárä, The World's First Light
 shortcode: mithara
-alias: Míthárä, The World's First Light
-packFolder: ashaian
 sohl:
   system:
     commonSkills: []

@@ -11,9 +11,7 @@ name:
   clan: Pyrgíkot
   home: ""
   aliases: []
-packFolder: helladbyzaria
 shortcode: lendspyrgkt
-renamedFrom: lendspllgs
 type: being
 data:
   icon: icon-person
@@ -41,6 +39,7 @@ data:
     complexion: smooth
     extra_features:
       - tattoo on arm
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 11 } }

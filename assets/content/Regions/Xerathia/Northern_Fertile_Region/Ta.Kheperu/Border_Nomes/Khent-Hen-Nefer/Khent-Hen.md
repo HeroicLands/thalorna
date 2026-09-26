@@ -11,11 +11,11 @@ data:
   parents:
     - khenthennefernome
   population: 15000
+  packFolder: bordernomes
 name:
   full: Khent-Hen
   aliases: []
 shortcode: khenthen
-packFolder: bordernomes
 ---
 
 ## Overview

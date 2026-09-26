@@ -9,13 +9,14 @@ data:
   parents:
     - ankrscntnnt
   population: 500000
+  packFolder: vrystwald
 name:
   full: Vrystwald
   aliases:
     - Vrystwald Region
 shortcode: vrystwald
-terran_analog: "European Russia—the vast taiga, mixed forest, and great river-and-lake systems of the Russian Plain from the eastern Baltic frontier across to the Ural-analog mountain chain that marks the start of the Khazryn."
-packFolder: vrystwald
+
+# terran_analog: "European Russia—the vast taiga, mixed forest, and great river-and-lake systems of the Russian Plain from the eastern Baltic frontier across to the Ural-analog mountain chain that marks the start of the Khazryn."
 ---
 
 ## Overview

@@ -9,9 +9,9 @@ name:
   full: The Horn of Njördur
   aliases: []
 shortcode: hornnjordur
-packFolder: nordlands
 data:
   templatePriority: null
+  packFolder: nordlands
 sohl:
   system:
     weightBase: 2

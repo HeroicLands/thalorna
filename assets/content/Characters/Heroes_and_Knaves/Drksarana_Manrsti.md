@@ -10,7 +10,6 @@ name:
   clan: Manrshti
   home: chandrapur2
   aliases: []
-packFolder: ankarisvedyara
 shortcode: drkaranamn
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a waterfall on the shoulder
+  packFolder: ankarisvedyara
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

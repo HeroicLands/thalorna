@@ -12,9 +12,9 @@ data:
   parents:
     - dhanurkotajnpd
   population: 380
+  packFolder: vedyara
 name:
   full: Madhupāda
   aliases: []
 shortcode: madhupada
-packFolder: vedyara
 ---

@@ -10,9 +10,9 @@ name:
   aliases:
     - Bison Totem
 shortcode: bisonttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-bisontotem|Bison]]{float: top-left, size: medium}

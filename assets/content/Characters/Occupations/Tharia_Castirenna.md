@@ -10,7 +10,6 @@ name:
   clan: Castírenna
   home: solarden
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: tharicstrn
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: olive
     complexion: battle_scarred
     extra_features: []
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

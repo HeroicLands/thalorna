@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-water
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: hydalis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Crystals
-packFolder: spells
+
+# hmk:
+#   name: Crystals
 ---
 
 The caster shapes ice from ambient moisture into solid, crystalline forms of surprising strength and permanence. Water vapor freezes and accumulates rapidly under the caster's direction, building up into walls, barriers, steps, platforms, or crude tools. The resulting ice is denser and harder than natural ice, with a blue-white clarity that makes it ring like metal when struck.

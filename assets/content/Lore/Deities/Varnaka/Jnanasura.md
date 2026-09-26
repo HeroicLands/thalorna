@@ -7,7 +7,8 @@ name:
   full: Jñānasūra
   aliases: []
 shortcode: jnanasuradty
-packFolder: deitiesvarnaka
+data:
+  packFolder: deitiesvarnaka
 ---
 
 _The Radiant Sage—an open book blazing with the light of a rising sun._

@@ -10,11 +10,11 @@ data:
   parents:
     - tramontana
   population: null
+  packFolder: provenzia
 name:
   full: Gulf of Batáren
   aliases: []
 shortcode: batarengulf
-packFolder: provenzia
 ---
 
 Provènzia's western shore is a cliff coast: craggy, wind-scoured and almost entirely useless to

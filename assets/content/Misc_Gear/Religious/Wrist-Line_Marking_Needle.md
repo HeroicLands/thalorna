@@ -9,6 +9,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: null
+  packFolder: religious
 sohl:
   kbcat: religious
   craft:
@@ -19,7 +20,6 @@ sohl:
     valueBase: 12
     qualityBase: 0
     durabilityBase: 6
-packFolder: religious
 ---
 
 A fine, hollow-ground needle kept by every temple that performs the naming, used to cut the wrist-line into an eight-day-old child inside the left wrist: the first sign for tharana, the second for kula, a single stroke through an Outcaste's mark. The needle itself is unremarkable metalwork; what a temple guards is the trained hand and the ink, not the tool, and a needle lost or stolen is replaced without ceremony.

@@ -10,11 +10,11 @@ data:
   parents:
     - magnapolis
   population: null
+  packFolder: vylaria
 name:
   full: Necropolis of Magnápolis
   aliases: []
 shortcode: necropolismagnapolis
-packFolder: vylaria
 ---
 
 The burial ground of [[place-magnapolis|Magnápolis]], outside the walls with the rest of what the city will not keep within them.

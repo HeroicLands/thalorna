@@ -68,13 +68,13 @@ data:
     - arldnpnthn
   relations:
     arldnpnthn: aligned
+  packFolder: pantheonsaureldian
 name:
   full: Faith of Taranon
   aliases:
     - The Thunderer
     - Táranon
 shortcode: taranon
-packFolder: pantheonsaureldian
 sohl:
   system:
     commonSkills: []

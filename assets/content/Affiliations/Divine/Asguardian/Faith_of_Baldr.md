@@ -55,20 +55,21 @@ data:
     - asguardian
   relations:
     asguardian: aligned
+  packFolder: pantheonsasguardian
 name:
   full: Faith of Baldr
   aliases:
     - The Luminous Path
 shortcode: baldr
-thalorna:
-  deity: Baldr
-  epithet: The Radiant One
-  domain: Elder Races, Dreams, and Light
-  symbol: Sunstone and silver leaf
-packFolder: pantheonsasguardian
 sohl:
   system:
     commonSkills: []
+
+# thalorna:
+#   deity: Baldr
+#   epithet: The Radiant One
+#   domain: Elder Races, Dreams, and Light
+#   symbol: Sunstone and silver leaf
 ---
 
 "Baldr" is the Asguardian name for [[lore-goddreams|The God of Dreams]]—a deity far older than any human pantheon, worshipped by the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] since before humanity existed. The Aurèldían peoples know the same deity as [[affiliation-aetheria|Aethería]].

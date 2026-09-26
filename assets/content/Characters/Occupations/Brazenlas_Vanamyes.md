@@ -10,7 +10,6 @@ name:
   clan: Vânamyês
   home: corvinus
   aliases: []
-packFolder: midhalionvylaria
 shortcode: brznlsvnmys
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: olive_tanned
     complexion: weathered
     extra_features: []
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

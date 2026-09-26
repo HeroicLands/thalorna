@@ -7,5 +7,6 @@ name:
   full: Thórr
   aliases: []
 shortcode: thorrdty
-packFolder: deitiesasguardian
+data:
+  packFolder: deitiesasguardian
 ---

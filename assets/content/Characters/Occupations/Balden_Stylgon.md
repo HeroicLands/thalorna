@@ -10,7 +10,6 @@ name:
   clan: Stýlgon
   home: aureliane
   aliases: []
-packFolder: aureldiaprovenzia
 shortcode: bldnstylgn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: fair
     extra_features:
       - a scar on the right hand
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

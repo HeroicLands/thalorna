@@ -103,11 +103,12 @@ data:
     - humanflk
   parents: []
   relations: {}
-terran_analog: Central US and Plains States East of Rockies
-packFolder: haxaman
+  packFolder: haxaman
 sohl:
   system:
     commonSkills: []
+
+# terran_analog: Central US and Plains States East of Rockies
 ---
 
 ## Overview

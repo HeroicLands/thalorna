@@ -12,11 +12,11 @@ data:
   parents:
     - stormplain
   population: 6000
+  packFolder: aelwyth
 name:
   full: Stormveil
   aliases: []
 shortcode: stormveil
-packFolder: aelwyth
 ---
 
 **Stormveil** is the seat of the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]], on the north-eastern

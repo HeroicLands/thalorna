@@ -5,7 +5,8 @@ name:
   full: Thātlüng
   aliases: []
 shortcode: thatlung
-packFolder: threats
+data:
+  packFolder: threats
 ---
 
 ## The Thātlüng ("Mountain Dragon")

@@ -11,9 +11,9 @@ data:
   parents:
     - kaliharargn
   population: 1200
+  packFolder: kalihara
 name:
   full: Telvári
   aliases: []
 shortcode: telvari
-packFolder: kalihara
 ---

@@ -10,7 +10,6 @@ name:
   clan: Delvánor
   home: valdes
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: tavirdlvnr
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: light
     complexion: rugged
     extra_features: []
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

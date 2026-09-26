@@ -10,7 +10,6 @@ name:
   clan: Zálreth
   home: liranel
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: methrzlrth
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: fair
     extra_features:
       - a scar on the left arm
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

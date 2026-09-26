@@ -123,12 +123,13 @@ data:
     varakpnthn: aligned
     vyalendra2: aligned
     chandrapur: aligned
-terran_analog: "Medieval South Indian temple-republic with a martial-caste specialty—Chola-era brahmadeya village federation centered on a fortified temple complex, distinguished by hereditary archery training traditions"
-packFolder: vedyara
+  packFolder: vedyara
 sohl:
   system:
     commonSkills:
       - vedyarlng
+
+# terran_analog: "Medieval South Indian temple-republic with a martial-caste specialty—Chola-era brahmadeya village federation centered on a fortified temple complex, distinguished by hereditary archery training traditions"
 ---
 
 The **Dhanurkota Janapada** is the federation of the villages of the upper Sarvada river valley, governed jointly through the great hall of the **Mahájaya temple** at Dhanurkota. The town is the "Bow-Fort" the janapada takes its name from.

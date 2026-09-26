@@ -13,11 +13,11 @@ data:
   parents:
     - glanmor
   population: 90
+  packFolder: elavendre
 name:
   full: Serenthalë
   aliases: []
 shortcode: serenthale
-packFolder: elavendre
 ---
 
 **Serenthalë** stands in the old forest of [[place-glanmor|Glanmor]], somewhere in the country between

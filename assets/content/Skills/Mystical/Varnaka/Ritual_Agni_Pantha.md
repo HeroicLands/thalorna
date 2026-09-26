@@ -14,6 +14,7 @@ name:
     - Flame Path
 data:
   templatePriority: null
+  packFolder: varnaka
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -22,7 +23,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: varnaka
 ---
 
 ## Ritual: Agnī-panthā

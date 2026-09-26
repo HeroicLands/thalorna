@@ -10,9 +10,9 @@ data:
   parents:
     - nordheim
   population: 300
+  packFolder: nordheim
 name:
   full: Ulfheim
   aliases: []
 shortcode: ulfheim
-packFolder: nordheim
 ---

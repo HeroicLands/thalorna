@@ -12,7 +12,6 @@ name:
   aliases:
     - Hersaîs SaAnut
     - Hersais SaAnut
-packFolder: northernfertileregiontakheperu
 shortcode: hersaisant
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: olive
     complexion: weathered
     extra_features: []
+  packFolder: northernfertileregiontakheperu
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

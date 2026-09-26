@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-water
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: hydalis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Enigma
-packFolder: spells
+
+# hmk:
+#   name: Enigma
 ---
 
 The caster cloaks a target, object, or area in an aura of impenetrable magical obscurity. Divination spells slide off the enchantment like water off oiled leather; scrying pools show only murky depths; magical tracking simply loses the trail. The protection extends beyond mere invisibility—it hides the target from magical perception itself, making them a blind spot in the weave of arcane detection.

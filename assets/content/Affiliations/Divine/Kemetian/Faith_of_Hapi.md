@@ -74,6 +74,7 @@ data:
     - kemtnpnthn
   relations:
     kemtnpnthn: aligned
+  packFolder: pantheonskemetian
 name:
   full: Faith of Hâpi
   aliases:
@@ -83,7 +84,6 @@ name:
     - The Golden Reveler
     - The Overflowing One
 shortcode: hapi
-packFolder: pantheonskemetian
 sohl:
   system:
     commonSkills: []

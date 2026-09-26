@@ -13,11 +13,11 @@ data:
   parents:
     - vardainvalleys
   population: 1500
+  packFolder: aelwyth
 name:
   full: Vargate
   aliases: []
 shortcode: vargate
-packFolder: aelwyth
 ---
 
 **Vargate** stands at the foot of the road that climbs to [[place-vorgald|Vorgald]], and it is the only

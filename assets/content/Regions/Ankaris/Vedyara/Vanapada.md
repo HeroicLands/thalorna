@@ -12,9 +12,9 @@ data:
   parents:
     - suvarnagirijnpd
   population: 440
+  packFolder: vedyara
 name:
   full: Vanapāda
   aliases: []
 shortcode: vanapada
-packFolder: vedyara
 ---

@@ -11,7 +11,6 @@ name:
     - Common Calendar
     - Vylarian Reckoning
 shortcode: commoncal
-packFolder: vylaria
 data:
   epoch: 720/1/1
   months:
@@ -34,6 +33,7 @@ data:
       abbreviation: AF
       proclaimedBy: vylarinmpr
       start: 1
+  packFolder: vylaria
 ---
 
 The **Common Calendar** counts twelve months from Floralis to Janar, running thirty and thirty-one days by turns and breaking that turn once, where Venuris and Karnavar both run thirty. The twelve sum to a full solar year. Floralis opens on the vernal equinox, and the calendar's own name for that day is **1 Floralis**.

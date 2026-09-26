@@ -11,7 +11,6 @@ name:
   given: Elýsè
   clan: Skýrn
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: elyseskyrn
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: fair
     complexion: freckled
     extra_features: []
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }

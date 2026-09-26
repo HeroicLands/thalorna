@@ -12,7 +12,6 @@ name:
   home: hrafnfjord
   aliases:
     - the Seidr of Norgaad
-packFolder: ankarisnordlands
 shortcode: grosdrnrgd
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: pale
     complexion: null
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

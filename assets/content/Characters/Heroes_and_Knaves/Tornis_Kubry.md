@@ -12,7 +12,6 @@ name:
   clan: Kúbrý
   aliases:
     - Calen
-packFolder: aureldiatarvenia
 shortcode: torniskbry
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: fair
     complexion: null
     extra_features: []
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

@@ -10,9 +10,7 @@ name:
   clan: Hodíkot
   home: gumushisar2
   aliases: []
-packFolder: helladbyzaria
 shortcode: phtnshdkt
-renamedFrom: phtnstrtgpls
 type: being
 data:
   icon: icon-person
@@ -39,6 +37,7 @@ data:
     complexion: weathered
     extra_features:
       - a scar on the right hand
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

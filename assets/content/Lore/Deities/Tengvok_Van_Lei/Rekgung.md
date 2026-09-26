@@ -7,5 +7,6 @@ name:
   full: Rëkgüng
   aliases: []
 shortcode: rekgungdty
-packFolder: deitiestengvokvanlei
+data:
+  packFolder: deitiestengvokvanlei
 ---

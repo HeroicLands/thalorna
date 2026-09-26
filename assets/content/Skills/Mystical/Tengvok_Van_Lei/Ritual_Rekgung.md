@@ -13,6 +13,7 @@ name:
     - Rekgung
 data:
   templatePriority: null
+  packFolder: tengvokvanlei
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -21,7 +22,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: tengvokvanlei
 ---
 
 See [[affiliation-rekgung|Rëkgüng]]

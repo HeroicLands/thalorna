@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-wind
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: zepharis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Muffle
-packFolder: spells
+
+# hmk:
+#   name: Muffle
 ---
 
 The caster clamps both fists shut and twists them inward; the air within a defined radius goes utterly, unnervingly dead. Sound does not merely diminish—it ceases entirely. Swords strike shields without a ring, boots hit flagstone without a tap, and screaming mouths produce nothing but the visible straining of throat muscles. The silence is absolute and immediate, a void so complete that those caught within it often experience a moment of primal panic, convinced they have been struck deaf.

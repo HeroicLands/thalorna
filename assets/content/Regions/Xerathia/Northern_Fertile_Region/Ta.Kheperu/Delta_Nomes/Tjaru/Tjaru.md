@@ -11,11 +11,11 @@ data:
   parents:
     - tjarunome
   population: 41000
+  packFolder: deltanomes
 name:
   full: Tjaru
   aliases: []
 shortcode: tjaru
-packFolder: deltanomes
 ---
 
 ## Overview

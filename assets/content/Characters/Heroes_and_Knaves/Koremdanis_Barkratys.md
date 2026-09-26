@@ -10,7 +10,6 @@ name:
   clan: Bárkrâtys
   home: belekos
   aliases: []
-packFolder: midhalionvylaria
 shortcode: krmdnsbrkrtys
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a dragonfly on the neck
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

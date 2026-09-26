@@ -15,7 +15,7 @@ data:
   parents:
     - tarvenirgn
   population: 200000
-packFolder: tarvenia
+  packFolder: tarvenia
 ---
 
 ## Overview

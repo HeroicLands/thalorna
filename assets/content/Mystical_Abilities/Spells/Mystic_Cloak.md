@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-divination
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: pneumenos
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Veil
-packFolder: spells
+
+# hmk:
+#   name: Veil
 ---
 
 The caster weaves a dense cocoon of psychic interference around the target, creating a barrier that is opaque to all forms of mental and spiritual perception. Scrying spells slide off its surface like water off oiled leather. Empathic probes encounter only a blank void. Even the general sense of presence that psychically sensitive individuals develop—the ability to feel when someone is nearby—is completely occluded. To spiritual perception, the cloaked individual simply does not exist.

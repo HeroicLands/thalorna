@@ -12,7 +12,6 @@ name:
   clan: Bessarîon
   home: byzaris
   aliases: []
-packFolder: helladbyzaria
 shortcode: kasndrbsrn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: warm
     complexion: null
     extra_features: []
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

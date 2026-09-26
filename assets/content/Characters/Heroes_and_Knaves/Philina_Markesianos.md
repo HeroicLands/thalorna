@@ -10,7 +10,6 @@ name:
   clan: Markêsianos
   home: byzaris
   aliases: []
-packFolder: helladbyzaria
 shortcode: phlnmrksns
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: golden
     complexion: null
     extra_features: []
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

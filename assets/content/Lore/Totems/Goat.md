@@ -10,9 +10,9 @@ name:
   aliases:
     - Goat Totem
 shortcode: goatttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-goattotem|Goat]]{float: top-left, size: medium}

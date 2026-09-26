@@ -11,6 +11,7 @@ name:
 data:
   icon: pneumenos
   templatePriority: null
+  packFolder: hexhodai
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"
@@ -19,7 +20,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: hexhodai
 ---
 
 See [[affiliation-pneumenos|Eídma Pneuménos]]

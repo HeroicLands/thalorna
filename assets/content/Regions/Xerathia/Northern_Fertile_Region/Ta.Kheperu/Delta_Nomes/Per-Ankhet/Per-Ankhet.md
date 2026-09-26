@@ -12,11 +12,11 @@ data:
   parents:
     - perankhetnome
   population: 120000
+  packFolder: perankhet
 name:
   full: Per-Ankhet
   aliases: []
 shortcode: perankhet
-packFolder: perankhet
 ---
 
 ## Overview

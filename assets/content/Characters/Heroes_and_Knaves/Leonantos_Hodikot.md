@@ -12,9 +12,7 @@ name:
   clan: Hodíkot
   home: chrysamar
   aliases: []
-packFolder: helladbyzaria
 shortcode: lnntshdkt
-renamedFrom: lnntstrtgpls
 type: being
 data:
   icon: icon-person
@@ -41,6 +39,7 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a skill and crossbones on the chest
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

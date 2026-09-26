@@ -61,12 +61,12 @@ data:
     - arldnpnthn
   relations:
     arldnpnthn: aligned
+  packFolder: pantheonsaureldian
 name:
   full: Faith of Karnavos
   aliases:
     - The Wild Beast
 shortcode: karnavos
-packFolder: pantheonsaureldian
 sohl:
   system:
     commonSkills: []

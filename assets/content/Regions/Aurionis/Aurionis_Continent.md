@@ -11,14 +11,15 @@ data:
   parents:
     - worldthlrn
   population: null
+  packFolder: aurionis
 shortcode: arnscntnnt
 name:
   full: Aurionis Continent
   aliases:
     - Aurionis
 description: A distant southern continent of paradoxes—arid interiors, lush coastal zones, and ancient peoples whose spiritual traditions are tied to the land itself.
-terran_analog: "Australia—the great isolated southern continent. Note: Maritime Southeast Asia (Indonesia, Philippines, Malaysia, Singapore, Papua New Guinea) does not exist on Thalorna, so the open ocean between Tānvür's eastern margin and the Aurionian shore is vast—a sea-crossing of weeks, not days, and a fact that has kept the two continents almost entirely out of contact for as long as records have been kept on either side."
-packFolder: aurionis
+
+# terran_analog: "Australia—the great isolated southern continent. Note: Maritime Southeast Asia (Indonesia, Philippines, Malaysia, Singapore, Papua New Guinea) does not exist on Thalorna, so the open ocean between Tānvür's eastern margin and the Aurionian shore is vast—a sea-crossing of weeks, not days, and a fact that has kept the two continents almost entirely out of contact for as long as records have been kept on either side."
 ---
 
 Aurionis is a distant southern continent, separated from [[place-ankrscntnnt|Ankaris]] and [[place-xerathia|Xerathia]] by vast stretches of open ocean. Its interior is dominated by arid plains, red-earth deserts, and stony uplands; its coasts and river systems support lush subtropical forests, wetlands, and an extraordinary diversity of plant and animal life found nowhere else on [[place-worldthlrn|Thalorna]]. It is a continent of paradoxes, where some of the oldest human cultures on the world have adapted over millennia to one of its most demanding environments.
@@ -40,7 +41,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'place'
   AND subType = 'region'
-  AND list_contains(data.parents, 'thalorna-none-place-arnscntnnt')
+  AND list_contains(data.parents, 'thalorna-note-place-arnscntnnt')
 ORDER BY name.full COLLATE NOCASE
 ```
 

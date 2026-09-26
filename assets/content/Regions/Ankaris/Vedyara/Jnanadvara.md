@@ -15,12 +15,12 @@ data:
   population: null
   routes:
     - { to: tanvuregin, bearing: NE, mode: land, days: 45, terrain: [mountains, ice, forest] }
+  packFolder: vedyara
 name:
   full: Jñānadvāra
   aliases:
     - The Scholars' Door
 shortcode: jnanadvara
-packFolder: vedyara
 ---
 
 **Jñānadvāra**, the scholars' door, crosses [[place-estrnreach|the Eastern Reach]] north-east to the western frontier of [[place-tanvuregin|Tānvür]]. It is a month and a half of travel and the least dangerous of the eastern crossings, which is a comparison and no recommendation.

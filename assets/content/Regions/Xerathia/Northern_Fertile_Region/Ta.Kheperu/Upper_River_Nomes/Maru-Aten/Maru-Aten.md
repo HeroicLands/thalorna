@@ -11,11 +11,11 @@ data:
   parents:
     - maruatennome
   population: 22000
+  packFolder: upperrivernomes
 name:
   full: Maru-Aten
   aliases: []
 shortcode: maruaten
-packFolder: upperrivernomes
 ---
 
 ## Overview

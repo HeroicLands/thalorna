@@ -11,11 +11,11 @@ data:
   parents:
     - perbanitnome
   population: 34000
+  packFolder: deltanomes
 name:
   full: Per-Banit
   aliases: []
 shortcode: perbanit
-packFolder: deltanomes
 ---
 
 ## Overview

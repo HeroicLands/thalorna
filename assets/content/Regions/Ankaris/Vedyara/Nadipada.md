@@ -12,9 +12,9 @@ data:
   parents:
     - rajapurjnpd
   population: 350
+  packFolder: vedyara
 name:
   full: Nadīpāda
   aliases: []
 shortcode: nadipada
-packFolder: vedyara
 ---

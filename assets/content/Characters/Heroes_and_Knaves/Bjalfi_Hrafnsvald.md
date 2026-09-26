@@ -10,7 +10,6 @@ name:
   clan: Hrafnsvald
   home: haldrvik
   aliases: []
-packFolder: ankarisnordlands
 shortcode: bjlfhrfnsvld
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: light
     complexion: fair
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

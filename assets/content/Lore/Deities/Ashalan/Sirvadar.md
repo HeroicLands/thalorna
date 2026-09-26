@@ -7,5 +7,6 @@ name:
   full: Šírvádár
   aliases: []
 shortcode: sirvadardty
-packFolder: deitiesashalan
+data:
+  packFolder: deitiesashalan
 ---

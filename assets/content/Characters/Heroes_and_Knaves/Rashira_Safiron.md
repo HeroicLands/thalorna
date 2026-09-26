@@ -13,7 +13,6 @@ name:
   aliases:
     - The Keeper of the Purple Warrant
     - The Renegade Grammatíssa
-packFolder: northernfertileregionbethua
 shortcode: rshrhssfrn
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: dark
     complexion: olive
     extra_features: []
+  packFolder: northernfertileregionbethua
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

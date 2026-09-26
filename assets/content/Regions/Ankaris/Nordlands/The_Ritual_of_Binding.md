@@ -9,7 +9,8 @@ name:
   full: The Ritual of Binding
   aliases: []
 shortcode: njordurritlbinding
-packFolder: nordlands
+data:
+  packFolder: nordlands
 ---
 
 The **Ritual of Binding** is the rite by which the Sea Wraith [[being-njorven|Njörven]] is sealed

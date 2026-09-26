@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: sefut
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: sefut
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 The classic threshold-curse, and the form most often found on tombs by people who were not

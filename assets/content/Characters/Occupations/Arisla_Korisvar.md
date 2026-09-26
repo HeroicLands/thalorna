@@ -11,7 +11,6 @@ name:
   home: chastelclr
   aliases:
     - Lady Elowen Faircourt
-packFolder: aureldiaprovenzia
 shortcode: arislkrsvr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: olive_tanned
     complexion: weathered
     extra_features: []
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

@@ -11,7 +11,6 @@ name:
   clan: Bélthal
   home: valdun
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: prthnblthl
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: ruddy
     extra_features:
       - a scar on the left foot
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

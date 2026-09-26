@@ -10,7 +10,6 @@ name:
   clan: Mârinadês
   home: kalydria2
   aliases: []
-packFolder: helladhelionis
 shortcode: tabismrnds
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: olive
     complexion: weathered
     extra_features: []
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

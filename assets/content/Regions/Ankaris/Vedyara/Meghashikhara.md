@@ -13,11 +13,11 @@ data:
     - graznmntns
     - sthrnwall
   population: null
+  packFolder: vedyara
 name:
   full: Meghashikhara
   aliases: []
 shortcode: meghashkhr
-packFolder: vedyara
 ---
 
 **Meghashikhara**—"the cloud's summit"—stands over the western end of [[place-sthrnwall|the Southern Wall]], and it is where the monsoon stops. The wet air comes up out of the south, meets the face of the peak, and goes no further; what falls out of it falls on the Vedyari side, and the country north of the ridge line gets nothing.

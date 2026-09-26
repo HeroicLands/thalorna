@@ -7,5 +7,6 @@ name:
   full: Yökzhük
   aliases: []
 shortcode: yokzhukdty
-packFolder: deitiestengvokvanlei
+data:
+  packFolder: deitiestengvokvanlei
 ---

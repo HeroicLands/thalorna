@@ -11,11 +11,11 @@ data:
   parents:
     - ironfells
   population: 2000
+  packFolder: aelwyth
 name:
   full: Vorgald
   aliases: []
 shortcode: vorgald
-packFolder: aelwyth
 ---
 
 **Vorgald** is a hold of the [[lore-flkkhazar|Khazári]] in the eastern heights of the

@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-divination
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: pneumenos
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Candour
-packFolder: spells
+
+# hmk:
+#   name: Candour
 ---
 
 The caster focuses their attention on a speaking subject, and the words reach them transformed—truth rings with a subtle warmth, a sense of rightness that resonates in the caster's awareness, while falsehood arrives cold and discordant, carrying an unmistakable taste of wrongness. The distinction is visceral and immediate, requiring no analysis or deliberation; the caster simply knows whether what they are hearing is honest.

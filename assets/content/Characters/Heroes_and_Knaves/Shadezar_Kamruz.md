@@ -10,7 +10,6 @@ name:
   clan: Kamruz
   home: dunashir
   aliases: []
-packFolder: dunharatribes
 shortcode: shadzrkmrz
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: tanned
     complexion: ruddy
     extra_features: []
+  packFolder: dunharatribes
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 17 } }

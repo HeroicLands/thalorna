@@ -12,7 +12,6 @@ name:
   home: liranel
   aliases:
     - Aldric Fallow
-packFolder: aureldiaelavendre
 shortcode: belrkflwyn
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: fair
     complexion: pale
     extra_features: []
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

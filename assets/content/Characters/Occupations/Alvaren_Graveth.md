@@ -10,7 +10,6 @@ name:
   clan: Gráveth
   home: valdes
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: alvrngrvth
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: bronzed
     extra_features:
       - a scar on the left knee
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

@@ -11,8 +11,9 @@ name:
   aliases:
     - Magic (GM)
 subType: arcana
-packFolder: settinglore
 shortcode: magictruth
+data:
+  packFolder: settinglore
 ---
 
 Magic, in its actual nature, is undifferentiated potential. It has no form, no structure, no inherent qualities, no categories. It is not "fire" or "water" or "spirit" or "metal"; it is the formless capacity from which any of these—and any number of others—can be produced.

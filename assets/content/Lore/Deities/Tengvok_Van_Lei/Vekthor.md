@@ -7,5 +7,6 @@ name:
   full: Vëkthōr
   aliases: []
 shortcode: vekthordty
-packFolder: deitiestengvokvanlei
+data:
+  packFolder: deitiestengvokvanlei
 ---

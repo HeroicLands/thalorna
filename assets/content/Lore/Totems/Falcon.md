@@ -10,9 +10,9 @@ name:
   aliases:
     - Falcon Totem
 shortcode: falconttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-falcontotem|Falcon]]{float: top-left, size: medium}

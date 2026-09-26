@@ -7,5 +7,6 @@ name:
   full: Nkaru'thar
   aliases: []
 shortcode: nkaruthardty
-packFolder: deitiesnkaruthar
+data:
+  packFolder: deitiesnkaruthar
 ---

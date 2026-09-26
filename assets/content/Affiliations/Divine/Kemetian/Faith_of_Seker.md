@@ -80,13 +80,13 @@ data:
     - kemtnpnthn
   relations:
     kemtnpnthn: aligned
+  packFolder: pantheonskemetian
 name:
   full: Faith of Sēker
   aliases:
     - Lord of Silent Passage
+    - Sēker, Lord of Silent Passage
 shortcode: seker
-alias: Sēker, Lord of Silent Passage
-packFolder: pantheonskemetian
 sohl:
   system:
     commonSkills: []

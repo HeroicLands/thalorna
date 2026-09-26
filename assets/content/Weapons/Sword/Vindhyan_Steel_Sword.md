@@ -9,6 +9,7 @@ type: weapongear
 data:
   icon: icon-sword
   templatePriority: null
+  packFolder: weapons
 sohl:
   kbcat: sword
   weaponType: Sword
@@ -150,7 +151,6 @@ sohl:
         defense:
           blockMod: 0
           counterstrikeMod: 0
-packFolder: weapons
 ---
 
 Straight, single-fullered and undecorated, the Vindhyan steel sword is what the mountain kingdom's own mines and hereditary smithing clans turn out in quantity: copper, tin and iron worked to arms rather than ornament. Against Vylarian or even Chandrapuri steel it is not celebrated, and nobody who carries one claims otherwise. It is serviceable, cheap and reliably supplied, and those are the virtues that matter to the mercenary companies of the western Vedyari kingdoms, who buy it by the wagonload rather than the blade.

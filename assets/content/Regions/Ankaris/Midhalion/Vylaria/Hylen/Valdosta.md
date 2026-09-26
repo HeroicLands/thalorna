@@ -10,9 +10,9 @@ data:
   parents:
     - hylen
   population: 5000
+  packFolder: vylaria
 name:
   full: Valdosta
   aliases: []
 shortcode: valdosta
-packFolder: vylaria
 ---

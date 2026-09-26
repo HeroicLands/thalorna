@@ -11,7 +11,6 @@ name:
   clan: Lamari
   home: qasirah
   aliases: []
-packFolder: heroesandknaveskalihara
 shortcode: qamiralamr
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: rich_brown
     complexion: null
     extra_features: []
+  packFolder: heroesandknaveskalihara
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }

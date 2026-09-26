@@ -11,9 +11,9 @@ data:
   parents:
     - vithgard
   population: 450
+  packFolder: vithgard
 name:
   full: Haldrvík
   aliases: []
 shortcode: haldrvik
-packFolder: vithgard
 ---

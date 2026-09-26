@@ -10,7 +10,6 @@ name:
   clan: Náredh
   home: elanmere
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: malianardh
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: light
     complexion: smooth
     extra_features: []
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

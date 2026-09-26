@@ -10,7 +10,6 @@ name:
   clan: Tólgen
   home: belporte
   aliases: []
-packFolder: aureldiaprovenzia
 shortcode: tarligtlgn
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: fair
     complexion: clear
     extra_features: []
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

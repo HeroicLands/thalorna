@@ -12,9 +12,9 @@ data:
   parents:
     - dhanurkotajnpd
   population: 870
+  packFolder: vedyara
 name:
   full: Ikshukshetra
   aliases: []
 shortcode: ikshukshetra
-packFolder: vedyara
 ---

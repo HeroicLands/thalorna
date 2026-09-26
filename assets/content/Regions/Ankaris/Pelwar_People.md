@@ -6,7 +6,8 @@ name:
   full: Pelwar People
   aliases: []
 shortcode: pelwarpepl
-packFolder: ankaris
+data:
+  packFolder: ankaris
 ---
 
 - **Type:** Ancestral people / language family

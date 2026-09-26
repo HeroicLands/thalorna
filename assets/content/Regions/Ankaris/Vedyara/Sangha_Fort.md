@@ -13,11 +13,11 @@ data:
     - graznmntns
     - estrnreach
   population: null
+  packFolder: vedyara
 name:
   full: The Sangha-fort
   aliases: []
 shortcode: sanghafort
-packFolder: vedyara
 ---
 
 The **Sangha-fort** stands on the Vedyari col of [[place-sankhadvra|Shankhadvāra]], under the black face of [[place-kalashkhra|Kālashikhara]]. It is a squat stone work with a cistern, a granary, a signal-tower and quarters for sixty men, and it is the only standing garrison the [[affiliation-janpdsvdyr|Mahā-Sangha]] maintains anywhere in Vedyara.

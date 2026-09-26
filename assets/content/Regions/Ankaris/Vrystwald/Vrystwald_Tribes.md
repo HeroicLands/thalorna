@@ -103,7 +103,7 @@ data:
     asguardian: aligned
     kngdmnrdhm: rival
     vylarinmpr: rival
-packFolder: vrystwald
+  packFolder: vrystwald
 sohl:
   system:
     commonSkills:

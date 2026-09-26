@@ -12,9 +12,9 @@ data:
   parents:
     - dhanurkotajnpd
   population: 330
+  packFolder: vedyara
 name:
   full: Vanasthalī
   aliases: []
 shortcode: vanasthali
-packFolder: vedyara
 ---

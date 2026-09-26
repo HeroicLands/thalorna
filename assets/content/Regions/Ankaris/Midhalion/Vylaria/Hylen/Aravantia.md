@@ -11,11 +11,11 @@ data:
   parents:
     - hylen
   population: 28000
+  packFolder: vylaria
 name:
   full: Aravantia
   aliases: []
 shortcode: aravantia
-packFolder: vylaria
 ---
 
 ## Overview

@@ -10,7 +10,6 @@ name:
   clan: Hâdrîkês
   home: theradon2
   aliases: []
-packFolder: helladhelionis
 shortcode: salmnhdrks
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: olive_toned
     extra_features:
       - a scar above the left eyebrow
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

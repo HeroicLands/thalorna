@@ -5,7 +5,8 @@ name:
   full: Vüshōk
   aliases: []
 shortcode: vushok
-packFolder: castes
+data:
+  packFolder: castes
 ---
 
 **Warrior Nobility**

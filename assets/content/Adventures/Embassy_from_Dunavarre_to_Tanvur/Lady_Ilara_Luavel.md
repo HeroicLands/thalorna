@@ -9,7 +9,6 @@ name:
   given: Ilara
   clan: Lúavel
   aliases: []
-packFolder: adventures
 shortcode: ilaraluavel
 type: being
 data:
@@ -23,6 +22,7 @@ data:
     - kingdmdnvr
   gender: female
   species: humanflk
+  packFolder: adventures
 ---
 
 # Appearance {#appearance}

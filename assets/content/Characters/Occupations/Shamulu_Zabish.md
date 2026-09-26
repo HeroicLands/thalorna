@@ -11,7 +11,6 @@ name:
   clan: Zabîsh
   home: ashkabel2
   aliases: []
-packFolder: midhalionharad
 shortcode: shamulzbsh
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: olive
     complexion: medium
     extra_features: []
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

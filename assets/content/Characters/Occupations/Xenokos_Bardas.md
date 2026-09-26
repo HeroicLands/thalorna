@@ -11,7 +11,6 @@ name:
   clan: Bárdâs
   home: ""
   aliases: []
-packFolder: midhalionvylaria
 shortcode: xenoksbrds
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: pale
     extra_features:
       - scar across forehead
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }

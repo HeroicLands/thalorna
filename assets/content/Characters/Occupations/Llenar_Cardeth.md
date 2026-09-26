@@ -10,7 +10,6 @@ name:
   clan: Cárdeth
   home: silvain
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: lenarcrdth
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: smooth
     extra_features:
       - a scar on the right elbow
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

@@ -103,7 +103,7 @@ data:
     kngdmlvndr: aligned
     alndnwrdns: aligned
     ordoarcanis: nemesis
-packFolder: elavendre
+  packFolder: elavendre
 sohl:
   system:
     commonSkills:

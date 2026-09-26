@@ -13,6 +13,7 @@ name:
 data:
   icon: icon-unicorn
   templatePriority: null
+  packFolder: lore
 sohl:
   system:
     skillBaseFormula: "@rea, @wil"
@@ -21,7 +22,6 @@ sohl:
     combatCategory: none
     parentSkillCode: folklr
     initSkillMult: 0
-packFolder: lore
 ---
 
 The specialist branch of folklore practiced where a people keeps no writing and must therefore

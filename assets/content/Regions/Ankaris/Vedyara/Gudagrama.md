@@ -12,11 +12,11 @@ data:
   parents:
     - rajapurjnpd
   population: 890
+  packFolder: vedyara
 name:
   full: Gudagrāma
   aliases: []
 shortcode: gudagrama
-packFolder: vedyara
 ---
 
 Gudagrāma (890) boils the Mahānadi sugar. The cane grows on the wet ground either side of the village, and the boiling-sheds work from the cutting in the cold season until the last of the crop is through, about eleven weeks.

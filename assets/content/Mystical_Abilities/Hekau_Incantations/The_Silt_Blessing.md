@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: ankhkemet
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: ankhkemet
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 The workaday form of the House, spoken over fields the flood reached poorly or not at all, and the

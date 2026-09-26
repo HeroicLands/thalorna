@@ -62,12 +62,12 @@ data:
     - kemtnpnthn
   relations:
     kemtnpnthn: aligned
+  packFolder: pantheonskemetian
 name:
   full: Faith of Min
   aliases:
     - Min, The Fertility-God
 shortcode: min
-packFolder: pantheonskemetian
 sohl:
   system:
     commonSkills: []

@@ -9,6 +9,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: null
+  packFolder: religious
 sohl:
   kbcat: religious
   craft:
@@ -19,7 +20,6 @@ sohl:
     valueBase: 0
     qualityBase: 0
     durabilityBase: 3
-packFolder: religious
 ---
 
 Struck with no mark of any mint, the coin of passage is placed in the hand of the dead as the pyre is lit, and it is not spent by [[affiliation-kalavrata|Kālavrata]] or paid to any toll. Its theology is exact on the point: the coin reminds every mourner present that a soul stands at the threshold with only what it has made of its life, and nothing bought or bribed carries further than that.

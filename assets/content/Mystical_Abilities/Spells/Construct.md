@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-anvilbdg
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: sideros
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Assemble
-packFolder: spells
+
+# hmk:
+#   name: Assemble
 ---
 
 The caster extends their will toward a quantity of raw or worked metal and commands it to move, flow, and assemble. Ingots stretch into plates. Plates fold and rivet themselves into shapes. Wire draws itself through invisible dies and weaves into mail rings that link and close without a hand touching them. The metal moves with deliberate, mechanical precision, each piece finding its place in the emerging construction like the parts of a well-designed puzzle.

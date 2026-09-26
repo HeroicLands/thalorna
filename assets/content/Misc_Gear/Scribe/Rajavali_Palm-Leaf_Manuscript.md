@@ -9,6 +9,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: null
+  packFolder: scribe
 sohl:
   kbcat: scribe
   system:
@@ -16,7 +17,6 @@ sohl:
     valueBase: 25
     qualityBase: 0
     durabilityBase: 4
-packFolder: scribe
 ---
 
 Dried and scored palm leaves, strung on a cord through two bored holes and written in the old abjad rather than the [[skill-vdykshrscrpt|Vedyákshara]] syllabary the reckoners keep to. The [[affiliation-rajaprjnpd|Rājavalī Library]] holds the largest single accumulation of them in Vedyara—every chronicle, treaty and legal text of the kingdom-period, plus the continuous archive of every sabhā session since the dissolution—and recopies its holdings on a standing thirty-year cycle before the leaves crack past legibility.

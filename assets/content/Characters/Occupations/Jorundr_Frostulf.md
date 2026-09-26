@@ -10,7 +10,6 @@ name:
   clan: Frostulf
   home: thrymstead
   aliases: []
-packFolder: ankarisnordlands
 shortcode: jrndrfrstlf
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: fair
     extra_features:
       - a scar on the left ear
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

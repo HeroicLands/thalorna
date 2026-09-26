@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-divination
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: pneumenos
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Probity
-packFolder: spells
+
+# hmk:
+#   name: Probity
 ---
 
 The caster touches the target and establishes a resonance with their deepest moral convictions—not imposing external judgment but amplifying the target's own innate sense of right and wrong until it becomes the dominant voice in their decision-making. Impulses rooted in selfishness, cruelty, or dishonesty are not suppressed so much as overwhelmed by the strengthened conscience, which makes their wrongness feel viscerally obvious and emotionally intolerable.

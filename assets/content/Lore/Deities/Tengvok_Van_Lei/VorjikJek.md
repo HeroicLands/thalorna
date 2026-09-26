@@ -7,5 +7,6 @@ name:
   full: Vōrjīk Jëk
   aliases: []
 shortcode: vorjikjekdty
-packFolder: deitiestengvokvanlei
+data:
+  packFolder: deitiestengvokvanlei
 ---

@@ -12,7 +12,6 @@ name:
   home: fenjaravlg
   aliases:
     - The Spirit Tracker
-packFolder: xerathiasouthernsavannahs
 shortcode: gahijwfnjr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: dark
     complexion: null
     extra_features: []
+  packFolder: xerathiasouthernsavannahs
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

@@ -5,7 +5,8 @@ name:
   full: Numerology
   aliases: []
 shortcode: numerology
-packFolder: tanvur
+data:
+  packFolder: tanvur
 ---
 
 ## Numerology in the Empire of Tānvür

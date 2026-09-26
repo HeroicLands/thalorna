@@ -11,9 +11,7 @@ name:
   clan: Naulákit
   home: chrysamar
   aliases: []
-packFolder: helladbyzaria
 shortcode: timthnnlkt
-renamedFrom: timthngvls
 type: being
 data:
   icon: icon-person
@@ -39,6 +37,7 @@ data:
     skin_color: light
     complexion: ruddy
     extra_features: []
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

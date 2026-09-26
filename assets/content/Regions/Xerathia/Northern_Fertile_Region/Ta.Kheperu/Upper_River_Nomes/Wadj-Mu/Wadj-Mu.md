@@ -11,11 +11,11 @@ data:
   parents:
     - wadjmunome
   population: 27000
+  packFolder: upperrivernomes
 name:
   full: Wadj-Mu
   aliases: []
 shortcode: wadjmu
-packFolder: upperrivernomes
 ---
 
 ## Overview

@@ -20,7 +20,7 @@ data:
     - { to: meghsamdra, bearing: SE }
     - { to: xerathia, bearing: W }
   population: null
-packFolder: vedyara
+  packFolder: vedyara
 ---
 
 ## Overview

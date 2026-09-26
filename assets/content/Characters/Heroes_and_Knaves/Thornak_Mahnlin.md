@@ -14,7 +14,6 @@ name:
     - The Boar-Totem Warrior
     - Blodtūsc Bār
     - Thornak Mahnlin
-packFolder: ankarisvrystwald
 shortcode: thrnkbldtscbr
 type: being
 data:
@@ -41,6 +40,7 @@ data:
     skin_color: pale
     complexion: null
     extra_features: []
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 17 } }

@@ -14,7 +14,6 @@ name:
     - The Jackal-Queen
     - The Unhoused
     - Yâsûra
-packFolder: northernfertileregionbethua
 shortcode: yasurajckl
 type: being
 data:
@@ -42,6 +41,7 @@ data:
     complexion: sun-scarred
     extra_features:
       - A long scar from brow to jaw on the left side
+  packFolder: northernfertileregionbethua
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

@@ -10,7 +10,6 @@ name:
   clan: Cáriselda
   home: solarden
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: banrkcrsld
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a flower on the ankle
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

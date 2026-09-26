@@ -90,7 +90,7 @@ data:
   relations:
     nylbtrblntn: aligned
     nyalbleop: aligned
-packFolder: politiesnyaluba
+  packFolder: politiesnyaluba
 sohl:
   system:
     commonSkills:

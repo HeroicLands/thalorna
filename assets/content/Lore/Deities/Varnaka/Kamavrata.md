@@ -7,7 +7,8 @@ name:
   full: Kāmavrata
   aliases: []
 shortcode: kamavratadty
-packFolder: deitiesvarnaka
+data:
+  packFolder: deitiesvarnaka
 ---
 
 _The Celestial Lover—a youth garlanded with flowers, a sugarcane bow strung with five flower-arrows._

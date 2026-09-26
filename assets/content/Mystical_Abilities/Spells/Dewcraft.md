@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-water
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: hydalis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Condensation
-packFolder: spells
+
+# hmk:
+#   name: Condensation
 ---
 
 The caster forces moisture from the air to condense rapidly onto surfaces, objects, or into containers. In humid conditions, water collects in visible streams and rivulets; even in dry air, a slow but steady accumulation of droplets appears. The spell accelerates and concentrates a natural process, allowing the caster to fill vessels, dampen large areas, or coat surfaces in a slick film of water.

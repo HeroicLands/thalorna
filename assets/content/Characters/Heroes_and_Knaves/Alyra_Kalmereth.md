@@ -10,7 +10,6 @@ name:
   clan: Kálmereth
   home: valdun
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: alyrklmrth
 type: being
 data:
@@ -37,6 +36,7 @@ data:
     skin_color: pale
     complexion: fair
     extra_features: []
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

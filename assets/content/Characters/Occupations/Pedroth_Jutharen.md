@@ -10,7 +10,6 @@ name:
   clan: Jútharen
   home: torreviga
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: pdrthjthrn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a falcon on the right arm
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

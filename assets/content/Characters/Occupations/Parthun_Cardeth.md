@@ -11,7 +11,6 @@ name:
   clan: Cárdeth
   home: valdun
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: prthncrdth
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: flawless
     extra_features:
       - a scar on the right side of the face
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

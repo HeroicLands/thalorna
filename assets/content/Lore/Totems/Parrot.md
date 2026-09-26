@@ -10,9 +10,9 @@ name:
   aliases:
     - Parrot Totem
 shortcode: parrotttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-parrottotem|Parrot]]{float: top-left, size: medium}

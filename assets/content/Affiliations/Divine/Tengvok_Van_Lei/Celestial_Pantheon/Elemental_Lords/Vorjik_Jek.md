@@ -116,7 +116,7 @@ data:
     - tngvkvnlei
   relations:
     tngvkvnlei: aligned
-packFolder: elementallords
+  packFolder: elementallords
 sohl:
   system:
     commonSkills: []

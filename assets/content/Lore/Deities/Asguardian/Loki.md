@@ -7,5 +7,6 @@ name:
   full: Lôki
   aliases: []
 shortcode: lokidty
-packFolder: deitiesasguardian
+data:
+  packFolder: deitiesasguardian
 ---

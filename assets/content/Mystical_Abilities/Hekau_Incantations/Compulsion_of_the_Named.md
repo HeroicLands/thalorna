@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: rensesh
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: rensesh
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 The apex of the tradition and the reason true names are guarded as they are. The named cannot

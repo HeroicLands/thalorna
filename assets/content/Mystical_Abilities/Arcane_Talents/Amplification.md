@@ -10,6 +10,7 @@ subType: arcanetalent
 data:
   icon: icon-psionics
   templatePriority: null
+  packFolder: arcanetalents
 sohl:
   system:
     assocSkillCode: ""
@@ -18,7 +19,7 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: ""
-packFolder: arcanetalents
+
+# hmk:
+#   name: ""
 ---

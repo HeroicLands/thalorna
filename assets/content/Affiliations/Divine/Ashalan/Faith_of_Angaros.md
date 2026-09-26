@@ -86,13 +86,13 @@ data:
     - ashanpnthn
   relations:
     ashanpnthn: aligned
+  packFolder: ashaian
 name:
   full: Faith of Ángáróš
   aliases:
     - The Shadowed Serpent
+    - Ángáróš, The Shadowed Serpent
 shortcode: angaros
-alias: Ángáróš, The Shadowed Serpent
-packFolder: ashaian
 sohl:
   system:
     commonSkills: []

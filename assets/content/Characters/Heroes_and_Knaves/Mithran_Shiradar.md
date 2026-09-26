@@ -10,7 +10,6 @@ name:
   clan: Shiradar
   home: oasisteyrn
   aliases: []
-packFolder: dunharatribes
 shortcode: mthrnshrdr
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: weathered
     extra_features:
       - a scar from forehead to cheek across the left eye
+  packFolder: dunharatribes
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

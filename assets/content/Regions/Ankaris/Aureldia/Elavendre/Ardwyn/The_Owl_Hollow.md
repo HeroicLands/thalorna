@@ -12,12 +12,12 @@ data:
   parents:
     - alndntrblnds
   population: null
+  packFolder: elavendre
 name:
   full: The Owl Hollow
   aliases:
     - Nyfain's Hollow
 shortcode: owlhollow
-packFolder: elavendre
 ---
 
 A steep wooded fold in the lower [[place-drenavrspn|Drenavar]] country, dark under its canopy at

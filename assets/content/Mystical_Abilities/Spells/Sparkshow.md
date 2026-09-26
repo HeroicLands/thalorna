@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-firebdg
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: pyrethos
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Fireworks
-packFolder: spells
+
+# hmk:
+#   name: Fireworks
 ---
 
 The caster flings handfuls of magical fire into the air, where the flames burst apart in cascading explosions of color and light. Red, gold, silver, and green sparks shower across the sky, trailing luminous streamers and crackling with sharp, satisfying reports. The display can be shaped to form patterns, words, or images, limited only by the caster's imagination and skill.

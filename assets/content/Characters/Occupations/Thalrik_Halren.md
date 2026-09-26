@@ -10,7 +10,6 @@ name:
   clan: Hálren
   home: portaelion
   aliases: []
-packFolder: aureldiaelavendre
 shortcode: thalrkhlrn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: flawless
     extra_features:
       - a scar along the jawline
+  packFolder: aureldiaelavendre
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

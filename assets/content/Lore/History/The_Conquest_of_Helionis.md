@@ -10,90 +10,92 @@ name:
   aliases:
     - The Constituting of the Praefectura Arcana
 shortcode: helionscnq
-packFolder: settinglore
-event:
-  kind: conquest
-  depth: world
-  when:
-    year: -335
-    precision: span
-    span:
-      from: -335
-      to: -312
-  sources:
-    - decided-midhalion
-    - decided-chronology
-    - place-helionis
-    - affiliation-ctysttshlns
-    - affiliation-vylarinmpr
-    - affiliation-panepistmm
-  summary: >-
-    The Vylarian Republic takes the Helionite city-states over twenty-three years, ending with the
-    last of them. The city-states answer the legions with their mages and the worst magical warfare
-    western Ankaris has seen, and the Republic answers with the Dragon Riders, near whom a working
-    turns back on the one who made it. In the year the last city falls the Senate reaches into the
-    Panepistemium, extracts its College of Arcane Philosophy,
-    and places it under a magistracy—the Praefectura Arcana—which holds the Republic's arcanists
-    as state property, teaches nothing, publishes nothing and decides nothing.
-  standing: attested
-  names:
-    - name: the Praefectura Arcana
-      by: affiliation-vylarinmpr
-      gloss: an office of the war ministry with a register, a garrison and no doctrine
-  where:
-    locus:
-      - place-helionis
-    reach:
-      - place: place-midhalnrgn
-        how: >-
-          every arcanist born inside the Republic goes onto a register held by a prefect who changes
-          with the year's magistracies, and is lent out to whoever the Senate owes
-        knowledge: named
-      - place: place-vylariargn
-        how: >-
-          a standing appropriation is renewed every year for the keeping of a thing the docket names
-          only by a number, and goes on being renewed for two hundred and thirty-nine
-        knowledge: unlinked
-      - place: place-byzariargn
-        how: >-
-          the Helionite academies that gave the Republic its arcane theory keep their remaining
-          colleges and lose their standing
-        knowledge: named
-  who:
-    - ref: affiliation-vylarinmpr
-      role: actor
-    - ref: affiliation-ctysttshlns
-      role: victim
-    - ref: affiliation-panepistmm
-      role: victim
-  follows:
-    - event: lore-panepistfnd
-      how: ended
-      note: the federation of colleges of equal standing does not survive the extraction of one of them
-    - event: lore-vylarirpbl
-      how: enabled
-      note: the Republic that could do this had been growing for three centuries
-  accounts:
-    - by: place-helionis
-      says: >-
-        The Ordo's terminology is Vylari and its foundations are thoroughly Helionite, and we have
-        never let the Vylarians forget it.
-      agrees: partly
-      withholds: that it was Helionite mages who made the institution necessary
-    - by: affiliation-vylarinmpr
-      says: >-
-        The Dragon Riders broke the great mages of Heliónis where legions could not. How the Republic
-        first secured the dragons' aid is poorly documented.
-      agrees: partly
-      withholds: the terms of the bargain, and what the Republic took at Théradon
-    - by: affiliation-panepistmm
-      says: >-
-        In institutional terms it was a vivisection. The remaining colleges were left in place,
-        diminished and shaken, but still functioning.
-      agrees: full
-  unresolved:
-    - what the Republic promised the dragons for their part in it, which is written nowhere
-    - what the standing appropriation was keeping, which the chancery's own word for it does not say
+data:
+  packFolder: settinglore
+
+# event:
+#   kind: conquest
+#   depth: world
+#   when:
+#     year: -335
+#     precision: span
+#     span:
+#       from: -335
+#       to: -312
+#   sources:
+#     - decided-midhalion
+#     - decided-chronology
+#     - place-helionis
+#     - affiliation-ctysttshlns
+#     - affiliation-vylarinmpr
+#     - affiliation-panepistmm
+#   summary: >-
+#     The Vylarian Republic takes the Helionite city-states over twenty-three years, ending with the
+#     last of them. The city-states answer the legions with their mages and the worst magical warfare
+#     western Ankaris has seen, and the Republic answers with the Dragon Riders, near whom a working
+#     turns back on the one who made it. In the year the last city falls the Senate reaches into the
+#     Panepistemium, extracts its College of Arcane Philosophy,
+#     and places it under a magistracy—the Praefectura Arcana—which holds the Republic's arcanists
+#     as state property, teaches nothing, publishes nothing and decides nothing.
+#   standing: attested
+#   names:
+#     - name: the Praefectura Arcana
+#       by: affiliation-vylarinmpr
+#       gloss: an office of the war ministry with a register, a garrison and no doctrine
+#   where:
+#     locus:
+#       - place-helionis
+#     reach:
+#       - place: place-midhalnrgn
+#         how: >-
+#           every arcanist born inside the Republic goes onto a register held by a prefect who changes
+#           with the year's magistracies, and is lent out to whoever the Senate owes
+#         knowledge: named
+#       - place: place-vylariargn
+#         how: >-
+#           a standing appropriation is renewed every year for the keeping of a thing the docket names
+#           only by a number, and goes on being renewed for two hundred and thirty-nine
+#         knowledge: unlinked
+#       - place: place-byzariargn
+#         how: >-
+#           the Helionite academies that gave the Republic its arcane theory keep their remaining
+#           colleges and lose their standing
+#         knowledge: named
+#   who:
+#     - ref: affiliation-vylarinmpr
+#       role: actor
+#     - ref: affiliation-ctysttshlns
+#       role: victim
+#     - ref: affiliation-panepistmm
+#       role: victim
+#   follows:
+#     - event: lore-panepistfnd
+#       how: ended
+#       note: the federation of colleges of equal standing does not survive the extraction of one of them
+#     - event: lore-vylarirpbl
+#       how: enabled
+#       note: the Republic that could do this had been growing for three centuries
+#   accounts:
+#     - by: place-helionis
+#       says: >-
+#         The Ordo's terminology is Vylari and its foundations are thoroughly Helionite, and we have
+#         never let the Vylarians forget it.
+#       agrees: partly
+#       withholds: that it was Helionite mages who made the institution necessary
+#     - by: affiliation-vylarinmpr
+#       says: >-
+#         The Dragon Riders broke the great mages of Heliónis where legions could not. How the Republic
+#         first secured the dragons' aid is poorly documented.
+#       agrees: partly
+#       withholds: the terms of the bargain, and what the Republic took at Théradon
+#     - by: affiliation-panepistmm
+#       says: >-
+#         In institutional terms it was a vivisection. The remaining colleges were left in place,
+#         diminished and shaken, but still functioning.
+#       agrees: full
+#   unresolved:
+#     - what the Republic promised the dragons for their part in it, which is written nowhere
+#     - what the standing appropriation was keeping, which the chancery's own word for it does not say
 ---
 
 The Vylarian Republic turned its legions against the Helionite city-states in 335 BF and took the

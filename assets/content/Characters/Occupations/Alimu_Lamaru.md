@@ -11,7 +11,6 @@ name:
   clan: Lâmarû
   home: kashmuret
   aliases: []
-packFolder: midhalionharad
 shortcode: alimulamar
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: olive
     complexion: smooth
     extra_features: []
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }

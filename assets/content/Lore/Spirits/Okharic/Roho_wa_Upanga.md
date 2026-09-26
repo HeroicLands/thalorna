@@ -10,7 +10,8 @@ name:
   aliases:
     - The Spirit of the Blade
 shortcode: upangaspr
-packFolder: lorespiritsokharic
+data:
+  packFolder: lorespiritsokharic
 ---
 
 - **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]

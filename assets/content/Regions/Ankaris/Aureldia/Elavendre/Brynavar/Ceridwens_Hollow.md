@@ -12,11 +12,11 @@ data:
   parents:
     - brynavar
   population: 280
+  packFolder: elavendre
 name:
   full: Ceridwen's Hollow
   aliases: []
 shortcode: cerdwnshlw
-packFolder: elavendre
 ---
 
 **Ceridwen's Hollow** sits in a deep fold of the [[place-brynavar|Brynavar]] hills, off the ridge roads

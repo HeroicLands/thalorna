@@ -11,6 +11,7 @@ subType: script
 data:
   icon: icon-speaking
   templatePriority: null
+  packFolder: script
 sohl:
   system:
     skillBaseFormula: "@rea, @per"
@@ -19,10 +20,9 @@ sohl:
     combatCategory: none
     parentSkillCode: script
     initSkillMult: 0
-packFolder: script
-flags:
-  "thalorna":
-    script_family: Runic
+  flags:
+    "thalorna":
+      script_family: Runic
 ---
 
 Thurávark is the rune-row of the north—an ancient carving script adapted long ago to the sounds of [[skill-nordmalng|Nordmal]], and still the only writing the five Nordmen kingdoms consider entirely their own. The name is Proto-Pelwar _thura-vark_, "graven work"; the same compound survives in the south as the imperial [[skill-thrvrknscrpt|Thâravárkon]], which is the clearest evidence that the two tongues share a nomadic ancestor.

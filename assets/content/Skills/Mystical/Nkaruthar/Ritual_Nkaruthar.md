@@ -15,6 +15,7 @@ name:
     - The Triune Fire
 data:
   templatePriority: null
+  packFolder: nkaruthar
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -23,7 +24,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: nkaruthar
 ---
 
 See [[affiliation-nkaruthar|Nkaru'thar]]

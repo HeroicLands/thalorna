@@ -11,7 +11,6 @@ name:
     - The Golden Giver
     - "K'anix Ha'kan"
 shortcode: kanixhakan
-packFolder: pantheonitzani
 data:
   banner: faithbnr
   icon: null
@@ -121,6 +120,7 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
+  packFolder: pantheonitzani
 sohl:
   system:
     commonSkills:

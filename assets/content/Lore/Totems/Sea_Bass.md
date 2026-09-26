@@ -10,9 +10,9 @@ name:
   aliases:
     - Sea Bass Totem
 shortcode: seabassttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-seabasstotem|Sea Bass]]{float: top-left, size: medium}

@@ -7,5 +7,6 @@ name:
   full: Nüshöt
   aliases: []
 shortcode: nushotdty
-packFolder: deitiestengvokvanlei
+data:
+  packFolder: deitiestengvokvanlei
 ---

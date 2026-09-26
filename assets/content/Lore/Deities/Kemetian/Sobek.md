@@ -7,7 +7,8 @@ name:
   full: Sobek
   aliases: []
 shortcode: sobekdty
-packFolder: deitieskemetian
+data:
+  packFolder: deitieskemetian
 ---
 
 _The Crocodile-God._

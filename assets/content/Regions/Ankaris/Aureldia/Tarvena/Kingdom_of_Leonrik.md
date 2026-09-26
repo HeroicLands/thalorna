@@ -168,7 +168,7 @@ data:
     kngdmstrth: rival
     kngdmglvrn: rival
     vylarinmpr: nemesis
-packFolder: tarvenia
+  packFolder: tarvenia
 sohl:
   system:
     commonSkills:

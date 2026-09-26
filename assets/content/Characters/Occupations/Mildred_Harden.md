@@ -11,7 +11,6 @@ name:
   clan: Harden
   home: brynhallow
   aliases: []
-packFolder: aureldiaaelwyth
 shortcode: mildrdhrdn
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a snake on the chest
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

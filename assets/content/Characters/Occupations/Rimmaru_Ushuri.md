@@ -10,7 +10,6 @@ name:
   clan: Ushûrî
   home: miravel
   aliases: []
-packFolder: midhalionharad
 shortcode: rimarushur
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: sun_kissed
     extra_features:
       - a scar on the neck
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

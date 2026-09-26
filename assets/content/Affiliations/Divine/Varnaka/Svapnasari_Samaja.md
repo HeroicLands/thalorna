@@ -76,7 +76,7 @@ data:
     - varakpnthn
   relations:
     varakpnthn: aligned
-packFolder: pantheonsvarnaka
+  packFolder: pantheonsvarnaka
 sohl:
   system:
     commonSkills:

@@ -7,7 +7,8 @@ name:
   full: Kālavrata
   aliases: []
 shortcode: kalavratadty
-packFolder: deitiesvarnaka
+data:
+  packFolder: deitiesvarnaka
 ---
 
 _The Gatekeeper of Death—a shrouded figure, faceless, with a black conch at its lips._

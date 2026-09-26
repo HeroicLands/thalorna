@@ -12,11 +12,11 @@ data:
   parents:
     - zuravlenrgn
   population: 1400
+  packFolder: provenzia
 name:
   full: Mercadaure
   aliases: []
 shortcode: mercadaure
-packFolder: provenzia
 ---
 
 **Mercadaure** stands where the Zûravlen valley opens toward the plain, and it exists to sell what the

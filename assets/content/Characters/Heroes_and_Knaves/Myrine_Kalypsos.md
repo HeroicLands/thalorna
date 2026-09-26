@@ -12,7 +12,6 @@ name:
   home: belekos
   aliases:
     - The Mendicant Priestess of the Black Flame
-packFolder: midhalionvylaria
 shortcode: myrnklypss
 type: being
 data:
@@ -49,6 +48,7 @@ data:
         A thin cord of braided copper wire worn around the left wrist, signifying her status
         as a mendicant—a wandering priestess authorized to preach and perform rites outside
         a fixed temple
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

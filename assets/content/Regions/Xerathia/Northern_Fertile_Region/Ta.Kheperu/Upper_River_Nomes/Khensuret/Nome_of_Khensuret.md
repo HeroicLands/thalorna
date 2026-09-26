@@ -108,7 +108,7 @@ data:
     kemtnpnthn: aligned
     seker: aligned
     anubis: aligned
-packFolder: khensuret
+  packFolder: khensuret
 sohl:
   system:
     commonSkills:

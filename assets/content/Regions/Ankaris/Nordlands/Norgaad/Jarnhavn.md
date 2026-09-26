@@ -12,11 +12,11 @@ data:
   parents:
     - norgaad
   population: 800
+  packFolder: norgaad
 name:
   full: Járnhavn
   aliases: []
 shortcode: jarnhavn
-packFolder: norgaad
 ---
 
 ## Overview

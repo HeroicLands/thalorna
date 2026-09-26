@@ -10,7 +10,6 @@ name:
   clan: Alverton
   home: brynhallow
   aliases: []
-packFolder: aureldiaaelwyth
 shortcode: edriclvrtn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: ruddy
     extra_features:
       - a scar on the left side of the ribcage
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

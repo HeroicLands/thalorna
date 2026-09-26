@@ -10,7 +10,6 @@ name:
   clan: Harden
   home: kingsholow
   aliases: []
-packFolder: aureldiaaelwyth
 shortcode: aldredhrdn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: freckled
     extra_features:
       - a tattoo of a fire on the leg
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

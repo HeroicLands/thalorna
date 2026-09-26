@@ -104,7 +104,7 @@ data:
   relations:
     kemtnpnthn: aligned
     ptah: aligned
-packFolder: upperrivernomes
+  packFolder: upperrivernomes
 sohl:
   system:
     commonSkills:

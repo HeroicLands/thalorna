@@ -10,7 +10,6 @@ name:
   clan: Sólvargr
   home: greyfjord
   aliases: []
-packFolder: ankarisnordlands
 shortcode: gthrnslvrgr
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: fair
     extra_features:
       - a tattoo of a skull on the upper arm
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

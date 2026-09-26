@@ -11,9 +11,7 @@ name:
   clan: Xylákit
   home: selimara
   aliases: []
-packFolder: helladbyzaria
 shortcode: lysndrsxylkt
-renamedFrom: lysndrschrysnthpls
 type: being
 data:
   icon: icon-person
@@ -39,6 +37,7 @@ data:
     skin_color: tanned
     complexion: weathered
     extra_features: []
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

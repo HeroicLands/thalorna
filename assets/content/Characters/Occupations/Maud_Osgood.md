@@ -10,7 +10,6 @@ name:
   clan: Osgood
   home: greywater
   aliases: []
-packFolder: aureldiaaelwyth
 shortcode: maudosgood
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: freckled
     extra_features:
       - a scar on the back of the left arm
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 7 } }

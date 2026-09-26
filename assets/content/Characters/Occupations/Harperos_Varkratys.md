@@ -10,7 +10,6 @@ name:
   clan: Vârkrâtys
   home: corvinus
   aliases: []
-packFolder: midhalionvylaria
 shortcode: hrprsvrkrtys
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: tanned
     extra_features:
       - a scar along the jawline
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

@@ -71,7 +71,7 @@ data:
   relations:
     yokveng: aligned
     tngvkvnlei: nemesis
-packFolder: organizations
+  packFolder: organizations
 sohl:
   system:
     commonSkills:

@@ -9,11 +9,10 @@ description: "Pale green poultice; heals wounds and promotes recovery."
 shortcode: ptncurm
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Curative, Mild"
 data:
   icon: icon-potion
   templatePriority: null
+  packFolder: mild
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +21,9 @@ sohl:
     durabilityBase: 5
     potency: "mild"
     strength: 0
-packFolder: mild
+
+# hmk:
+#   name: "Potion, Curative, Mild"
 ---
 
 Pale green as spring leaves, this poultice preparation has the texture of thin mustard and smells of fresh herbs mixed with rendered animal fat and alum powder. When applied to an injury, the preparation cools the surrounding flesh, drawing heat from inflammation and fever alike. The patient experiences an immediate sensation of relief, as though a hand has lifted slightly from pressing down on their wound. The paste dries quickly, forming a protective seal that discourages infection while allowing the injury to breathe.

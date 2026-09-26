@@ -12,7 +12,6 @@ name:
   home: oasishirvn
   aliases:
     - The Desert Mystic
-packFolder: ankariskhazryndesert
 shortcode: narisahrvn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: tawny
     complexion: null
     extra_features: []
+  packFolder: ankariskhazryndesert
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

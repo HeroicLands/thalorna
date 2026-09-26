@@ -10,7 +10,6 @@ name:
   clan: Sherwin
   home: thornbury
   aliases: []
-packFolder: aureldiaaelwyth
 shortcode: cthbrtshrwn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: fair
     extra_features:
       - a scar running down the back
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

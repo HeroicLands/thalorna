@@ -11,7 +11,6 @@ name:
   clan: Torvaleth
   home: null # was: Eskárath
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: thlstrvlth
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a wolf on the shoulder
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

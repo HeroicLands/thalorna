@@ -11,9 +11,9 @@ data:
   parents:
     - vylariargn
   population: 40000
+  packFolder: vylaria
 name:
   full: Aelissium
   aliases: []
 shortcode: aelissium
-packFolder: vylaria
 ---

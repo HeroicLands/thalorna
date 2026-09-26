@@ -11,9 +11,9 @@ data:
   parents:
     - vrystwald
   population: 300
+  packFolder: vrystwald
 name:
   full: Falkenstein
   aliases: []
 shortcode: falkensten
-packFolder: vrystwald
 ---

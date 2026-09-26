@@ -76,13 +76,13 @@ data:
     ptah: aligned
     anubis: aligned
     rensesh: aligned
+  packFolder: khemenuhekau
 name:
   full: Per-Khat'nu
   aliases:
     - House of the Body
     - The House of Form
 shortcode: khatnu
-packFolder: khemenuhekau
 sohl:
   system:
     commonSkills: []

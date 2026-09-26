@@ -7,7 +7,8 @@ name:
   full: Svapnadēvas
   aliases: []
 shortcode: svapnadevasdty
-packFolder: deitiesvarnaka
+data:
+  packFolder: deitiesvarnaka
 ---
 
 _The Dreaming Host—slender, silver-robed figures moving together in a gentle dance, half-lit by moonlight._

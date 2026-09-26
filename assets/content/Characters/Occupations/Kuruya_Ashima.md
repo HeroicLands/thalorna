@@ -10,7 +10,6 @@ name:
   clan: Ashîmâ
   home: kashmuret
   aliases: []
-packFolder: midhalionharad
 shortcode: kuruyashim
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: bronzed
     extra_features:
       - a scar on the left ankle
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

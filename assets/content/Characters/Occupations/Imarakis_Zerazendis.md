@@ -10,7 +10,6 @@ name:
   clan: Zêrâzêndis
   home: belekos
   aliases: []
-packFolder: midhalionvylaria
 shortcode: imrkszrznds
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: ruddy
     extra_features:
       - a scar along the jawline
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

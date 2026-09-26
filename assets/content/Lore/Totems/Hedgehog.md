@@ -10,9 +10,9 @@ name:
   aliases:
     - Hedgehog Totem
 shortcode: hedgehogttm
-packFolder: loretotems
 data:
   banner: creaturebnr
+  packFolder: loretotems
 ---
 
 ![[icon-hedgehogtotem|Hedgehog]]{float: top-left, size: medium}

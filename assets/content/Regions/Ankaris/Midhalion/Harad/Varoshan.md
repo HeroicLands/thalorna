@@ -103,7 +103,7 @@ data:
   relations:
     ashanpnthn: aligned
     arldnpnthn: aligned
-packFolder: harad
+  packFolder: harad
 sohl:
   system:
     commonSkills:

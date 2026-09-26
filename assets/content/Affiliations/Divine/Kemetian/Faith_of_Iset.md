@@ -75,15 +75,15 @@ data:
     - kemtnpnthn
   relations:
     kemtnpnthn: aligned
+  packFolder: pantheonskemetian
 name:
   full: Faith of Íšét
   aliases:
     - Mother of New Beginnings
     - Íšét
     - Iset
+    - Íšét, Mother of New Beginnings and Restorer of Health
 shortcode: iset
-alias: Íšét, Mother of New Beginnings and Restorer of Health
-packFolder: pantheonskemetian
 sohl:
   system:
     commonSkills: []

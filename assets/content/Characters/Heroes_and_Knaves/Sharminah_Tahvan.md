@@ -11,7 +11,6 @@ name:
   clan: Tahvân
   home: kethramir
   aliases: []
-packFolder: ankariskhazryndesert
 shortcode: shrmnhthvn
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: warm
     complexion: null
     extra_features: []
+  packFolder: ankariskhazryndesert
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

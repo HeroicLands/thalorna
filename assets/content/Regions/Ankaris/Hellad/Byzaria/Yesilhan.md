@@ -104,7 +104,7 @@ data:
   relations:
     arldnpnthn: aligned
     ashanpnthn: aligned
-packFolder: byzaria
+  packFolder: byzaria
 sohl:
   system:
     commonSkills:

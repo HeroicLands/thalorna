@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-water
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: hydalis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Dowsing
-packFolder: spells
+
+# hmk:
+#   name: Dowsing
 ---
 
 The caster extends their awareness through the ground and air, feeling for the presence of water below the surface or hidden within structures. The spell manifests as a tingling pull in the caster's hands, growing stronger and more insistent as they approach a water source—an underground spring, a sealed cistern, a water table beneath dry soil.

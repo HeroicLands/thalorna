@@ -10,9 +10,9 @@ data:
   parents:
     - malagna
   population: 600
+  packFolder: malagna
 name:
   full: Hávamál
   aliases: []
 shortcode: havamal
-packFolder: malagna
 ---

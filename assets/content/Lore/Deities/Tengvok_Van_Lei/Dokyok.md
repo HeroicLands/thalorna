@@ -7,5 +7,6 @@ name:
   full: Dōkyök
   aliases: []
 shortcode: dokyokdty
-packFolder: deitiestengvokvanlei
+data:
+  packFolder: deitiestengvokvanlei
 ---

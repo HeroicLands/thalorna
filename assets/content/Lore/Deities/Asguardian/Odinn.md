@@ -7,5 +7,6 @@ name:
   full: Ódinn
   aliases: []
 shortcode: oinndty
-packFolder: deitiesasguardian
+data:
+  packFolder: deitiesasguardian
 ---

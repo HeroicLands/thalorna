@@ -11,7 +11,6 @@ name:
   clan: Balthhelm
   home: waldburg
   aliases: []
-packFolder: ankarisvrystwald
 shortcode: vthrblthlm
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: rough
     extra_features:
       - a scar on the right hand
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

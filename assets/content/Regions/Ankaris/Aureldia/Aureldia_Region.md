@@ -20,8 +20,9 @@ data:
   parents:
     - ankrscntnnt
   population: 11000000
-terran_analog: Medieval Western Europe (Western Christendom)
-packFolder: aureldia
+  packFolder: aureldia
+
+# terran_analog: Medieval Western Europe (Western Christendom)
 ---
 
 Aurèldía is a region bound by faith. It is the western heartland of the [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the Twelve—worshipped across a mosaic of sovereign kingdoms, merchant city-states, and island realms that together form the western third of [[place-ankrscntnnt|Ankaris Continent]]. From the mist-shrouded shores of [[place-aelwyth|Aelwyth]] in the far northwest to the sunlit vineyards of [[place-provenzrgn|Provènzia Region]] on the Vylarian coast, Aurèldía binds together peoples as different as the Aelwythan islanders of the Misty Isle, the mystically attuned Pelwar of [[place-elavendre|Élavendre]], the peninsular kingdoms of [[place-tarvenirgn|Tarvénia Region]], the merchant oligarchs of [[affiliation-calypsa|Calypsa]], and the cultured Provenzian coast. What they share is not language, not lineage, and not a common crown—but the Twelve, and centuries of pilgrimage, intermarriage, trade, rivalry, and quiet mutual recognition.
@@ -43,7 +44,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'affiliation'
   AND subType = 'polity'
-  AND list_contains(data.domains, 'thalorna-none-place-aureldirgn')
+  AND list_contains(data.domains, 'thalorna-note-place-aureldirgn')
 ORDER BY name.full COLLATE NOCASE
 ```
 

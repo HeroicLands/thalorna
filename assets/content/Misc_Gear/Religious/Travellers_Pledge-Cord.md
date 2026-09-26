@@ -10,6 +10,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: null
+  packFolder: religious
 sohl:
   kbcat: religious
   craft:
@@ -20,7 +21,6 @@ sohl:
     valueBase: 2
     qualityBase: 0
     durabilityBase: 5
-packFolder: religious
 ---
 
 A plain cord, unremarkable until it is read: a knot for every shrine passed, every pass crossed and every promise made on the strength of the road holding fair. It is [[affiliation-pavanajitras|Pavanajitras]]'s own observance rather than a temple's manufacture, tied by the traveller and not sold blessed, and a Pass-Shrine ushtaka will glance at one before granting the summit blessing without ever touching it.

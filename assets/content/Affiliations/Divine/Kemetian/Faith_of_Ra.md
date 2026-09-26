@@ -90,15 +90,15 @@ data:
     - kemtnpnthn
   relations:
     kemtnpnthn: aligned
+  packFolder: pantheonskemetian
 name:
   full: Faith of Rā
   aliases:
     - The Solar Flame
     - Rā
     - Ra
+    - Rā, The Solar Flame
 shortcode: ra
-alias: Rā, The Solar Flame
-packFolder: pantheonskemetian
 sohl:
   system:
     commonSkills: []

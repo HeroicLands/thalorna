@@ -11,7 +11,6 @@ name:
   clan: Kâyadara
   home: chandrapur2
   aliases: []
-packFolder: ankarisvedyara
 shortcode: prthmjkydr
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: light
     complexion: null
     extra_features: []
+  packFolder: ankarisvedyara
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

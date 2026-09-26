@@ -11,7 +11,8 @@ name:
     - The Intermediary Spirits
     - The Emissaries of the Flame
 shortcode: zohira
-packFolder: settinglore
+data:
+  packFolder: settinglore
 ---
 
 Between [[affiliation-nkaruthar|Nkaru'thar]] and the mortal world stand the **zohira**—demi-gods

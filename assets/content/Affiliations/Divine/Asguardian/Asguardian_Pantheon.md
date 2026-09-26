@@ -101,7 +101,7 @@ data:
     thorr: aligned
     tyr: aligned
     ymir: aligned
-packFolder: pantheonsasguardian
+  packFolder: pantheonsasguardian
 sohl:
   system:
     commonSkills: []

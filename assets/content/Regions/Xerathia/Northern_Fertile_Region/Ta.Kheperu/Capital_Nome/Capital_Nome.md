@@ -109,7 +109,7 @@ data:
   relations:
     kemtnpnthn: aligned
     ra: aligned
-packFolder: capitalnome
+  packFolder: capitalnome
 sohl:
   system:
     commonSkills:

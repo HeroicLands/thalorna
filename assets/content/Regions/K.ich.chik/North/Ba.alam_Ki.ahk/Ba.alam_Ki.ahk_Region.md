@@ -15,8 +15,9 @@ data:
   parents:
     - nrthrnkchchk
   population: null
-terran_analog: Western U.S. to Rockies and up to British Columbia and southern Alaska
-packFolder: baalamkiahk
+  packFolder: baalamkiahk
+
+# terran_analog: Western U.S. to Rockies and up to British Columbia and southern Alaska
 ---
 
 ## Overview

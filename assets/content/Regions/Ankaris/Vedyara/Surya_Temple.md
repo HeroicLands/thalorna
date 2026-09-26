@@ -13,11 +13,11 @@ data:
   parents:
     - chandrprbh
   population: null
+  packFolder: vedyara
 name:
   full: The Sūrya temple
   aliases: []
 shortcode: suryatempl
-packFolder: vedyara
 ---
 
 The **Sūrya temple** stands on the rock shelf beside the outflow at [[place-chandrprbh|Chandraprabhava]], where the [[place-chandrmahi|Chandramahī]] comes out of the ice under [[place-suryashkhr|Sūryashikhara]]. It is small, and everything about it is built for two purposes: to survive a winter at that altitude, and to see the sun come over the peak.

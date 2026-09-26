@@ -9,7 +9,6 @@ name:
   clan: ""
   home: skorrborg
   aliases: []
-packFolder: malagna
 shortcode: kinghakoniii
 type: being
 data:
@@ -24,6 +23,7 @@ data:
     - kingdomlgn
   gender: male
   species: humanflk
+  packFolder: malagna
 ---
 
 # Appearance {#appearance}

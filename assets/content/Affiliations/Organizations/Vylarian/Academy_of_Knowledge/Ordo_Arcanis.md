@@ -8,11 +8,8 @@ tags:
 description: "Arcane monopoly born from conquest, wielding state power to regulate all magic, maintain dragon-backed enforcement, and extend control through academy chapterhouses."
 name:
   full: Ordo Arcanis
-  aliases: []
-alias: The Order
-region: Western Ankaris
-headquarters: Alyssa, Vylarian Empire
-founded: Late Republic era (before the Founding)
+  aliases:
+    - The Order
 shortcode: ordoarcanis
 type: affiliation
 subType: guild
@@ -71,10 +68,14 @@ data:
   lore: []
   parents: []
   relations: {}
-packFolder: academyofknowledge
+  packFolder: academyofknowledge
 sohl:
   system:
     commonSkills: []
+
+# headquarters: Alyssa, Vylarian Empire
+# region: Western Ankaris
+# founded: Late Republic era (before the Founding)
 ---
 
 The **Ordo Arcanis** is the dominant arcane guild of western [[place-ankrscntnnt|Ankaris Continent]] and one of the most powerful institutions in [[place-midhalnrgn|Mídhalión Region]]. It holds a monopoly on the practice, research, and teaching of arcane lore throughout the regions under its authority. Only members of the Ordo are sanctioned to practice magic; all others are subject to investigation, sanction, and—if necessary—elimination.

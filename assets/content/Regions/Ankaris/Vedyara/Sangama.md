@@ -14,11 +14,11 @@ data:
     - melaground
     - mahanadi
   population: null
+  packFolder: vedyara
 name:
   full: Sangama
   aliases: []
 shortcode: sangama
-packFolder: vedyara
 ---
 
 **Sangama** (confluence) is the temple on [[place-melaground|the Mela Ground]], and the only building of any consequence on it. It stands above the highest water the Mahānadi has reached in written record, on a mound raised higher still, and it is the one thing on the plain that does not have to be laid out again after a flood.

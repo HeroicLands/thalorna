@@ -10,7 +10,6 @@ name:
   clan: Chárnis
   home: monverdre
   aliases: []
-packFolder: aureldiaprovenzia
 shortcode: cardnchrns
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: light
     complexion: bronzed
     extra_features: []
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }

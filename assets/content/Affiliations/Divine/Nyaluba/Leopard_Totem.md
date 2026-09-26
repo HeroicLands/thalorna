@@ -70,13 +70,13 @@ data:
     - nyalbpnthn
   relations:
     nyalbpnthn: aligned
+  packFolder: nyaluba
 name:
   full: "Leopard Totem"
   aliases:
     - Leopard of the Sengala
     - Sengala Totem
 shortcode: nyalbleop
-packFolder: nyaluba
 sohl:
   system:
     commonSkills:

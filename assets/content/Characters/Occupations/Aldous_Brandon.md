@@ -10,7 +10,6 @@ name:
   clan: Brandon
   home: thornbury
   aliases: []
-packFolder: aureldiaaelwyth
 shortcode: aldosbrndn
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: fair
     complexion: fair
     extra_features: []
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

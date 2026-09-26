@@ -10,7 +10,6 @@ name:
   clan: Kourkásios
   home: yesilhan2
   aliases: []
-packFolder: helladbyzaria
 shortcode: arkhekrkss
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: wrinkled
     extra_features:
       - a limp
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 7 } }

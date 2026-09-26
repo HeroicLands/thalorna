@@ -9,11 +9,10 @@ description: "Nearly black tar-like liquid; causes violent vomiting and illness.
 shortcode: ptnemg
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Emetic, Great"
 data:
   icon: icon-potion
   templatePriority: null
+  packFolder: great
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +21,9 @@ sohl:
     durabilityBase: 5
     potency: "great"
     strength: 0
-packFolder: great
+
+# hmk:
+#   name: "Potion, Emetic, Great"
 ---
 
 Nearly black, with the opacity of tar and the fluidity of mercury, this legendary emetic exudes an aroma so potently repugnant that bottles are often kept in sealed leather cases rather than exposed even to air. The mere sight of the stuff—much less the smell—is enough to make the experienced drinker's entire body rebel. To consume the great emetic is to enter a state of deliberate and total bodily rejection, a calculated assault on the stomach and bowels in service of survival. Those who have had to administer or consume the great emetic often refuse to speak of the specific details of the experience, acknowledging only that it worked and that they lived.

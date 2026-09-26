@@ -65,13 +65,13 @@ data:
     - arldnpnthn
   relations:
     arldnpnthn: aligned
+  packFolder: pantheonsaureldian
 name:
   full: Faith of Morvana
   aliases:
     - Mistress of the Waning Moon
     - Mórváná
 shortcode: morvana
-packFolder: pantheonsaureldian
 sohl:
   system:
     commonSkills: []

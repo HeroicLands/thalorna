@@ -7,5 +7,6 @@ name:
   full: Āhúrdáén
   aliases: []
 shortcode: ahurdaendty
-packFolder: deitiesashalan
+data:
+  packFolder: deitiesashalan
 ---

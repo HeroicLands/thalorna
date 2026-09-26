@@ -115,7 +115,7 @@ data:
     kingdomlgn: unaligned
     kingdmtrgd: unaligned
     kngdmvthgrd: unaligned
-packFolder: norgaad
+  packFolder: norgaad
 sohl:
   system:
     commonSkills:

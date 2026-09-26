@@ -10,7 +10,6 @@ name:
   clan: Válskyr
   home: valcerise
   aliases: []
-packFolder: aureldiaprovenzia
 shortcode: lyrnvlskyr
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: olive
     complexion: medium
     extra_features: []
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

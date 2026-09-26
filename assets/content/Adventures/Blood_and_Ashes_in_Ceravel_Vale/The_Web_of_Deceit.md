@@ -16,11 +16,11 @@ data:
   party:
     size: null
     archetypes: []
+  packFolder: bloodandashesinceravelvale
 shortcode: webdeceit
 name:
   full: The Web of Deceit
   aliases: []
-packFolder: bloodandashesinceravelvale
 ---
 
 ## Teaser

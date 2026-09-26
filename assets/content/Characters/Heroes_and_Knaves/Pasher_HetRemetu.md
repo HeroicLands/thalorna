@@ -11,7 +11,6 @@ name:
   home: wasetkara
   aliases:
     - Pasher Hetremet
-packFolder: northernfertileregiontakheperu
 shortcode: pashrhtrmt
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: weathered
     extra_features:
       - a scar on the left eye
+  packFolder: northernfertileregiontakheperu
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

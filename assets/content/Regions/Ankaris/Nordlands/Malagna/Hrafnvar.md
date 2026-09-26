@@ -23,11 +23,11 @@ data:
   parents:
     - kingdomlgn
   relations: {}
+  packFolder: malagna
 name:
   full: Hrafnvar
   aliases: []
 shortcode: hrafnvar
-packFolder: malagna
 sohl:
   system:
     commonSkills: []

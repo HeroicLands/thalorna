@@ -10,7 +10,6 @@ name:
   clan: Lýskal
   home: chastelclr
   aliases: []
-packFolder: aureldiaprovenzia
 shortcode: zalrnlyskl
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: olive_toned
     extra_features:
       - a tattoo of a butterfly on the neck
+  packFolder: aureldiaprovenzia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

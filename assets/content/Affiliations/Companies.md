@@ -2,7 +2,6 @@
 tags: []
 type: doc
 subType: reference
-packFolder: politiescompanies
 name:
   full: Companies
   aliases: []
@@ -10,6 +9,7 @@ shortcode: companies
 description: Warbands, mercenary companies, hunting bands, and ships' crews of note.
 data:
   banner: companybnr
+  packFolder: politiescompanies
 ---
 
 There are various groups of individuals of note in the world of Thalorna. The following is a short and incomplete list:

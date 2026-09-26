@@ -9,11 +9,10 @@ description: "Writhing near-black liquid; grants prophetic visions and future si
 shortcode: ptnhalg
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Hallucinogenic, Great"
 data:
   icon: icon-potion
   templatePriority: null
+  packFolder: great
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +21,9 @@ sohl:
     durabilityBase: 5
     potency: "great"
     strength: 0
-packFolder: great
+
+# hmk:
+#   name: "Potion, Hallucinogenic, Great"
 ---
 
 The vial contains something that barely resembles a potion at all—a writhing, near-black liquid that seems to move against the laws of nature, its surface rippling with colors that no herbalist can fully name. Even sealed, the bottle radiates a subtle heat. The aroma is overpowering: incense, copper, and something ancient and wrong. A single drop on the skin causes temporary numbness. Ingesting this preparation requires both courage and desperation.

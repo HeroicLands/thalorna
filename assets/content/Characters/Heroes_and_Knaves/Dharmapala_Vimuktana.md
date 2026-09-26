@@ -10,7 +10,6 @@ name:
   clan: Vimuktana
   home: dhanurkota
   aliases: []
-packFolder: ankarisvedyara
 shortcode: dhrmplvmkt
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a flower on the ankle
+  packFolder: ankarisvedyara
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

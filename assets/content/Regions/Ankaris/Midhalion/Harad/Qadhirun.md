@@ -11,9 +11,9 @@ data:
   parents:
     - haradregin
   population: 30000
+  packFolder: harad
 name:
   full: Qadhirun
   aliases: []
 shortcode: qadhirun
-packFolder: harad
 ---

@@ -70,6 +70,7 @@ data:
     - kemtnpnthn
   relations:
     kemtnpnthn: aligned
+  packFolder: pantheonskemetian
 name:
   full: Faith of Ápōphis
   aliases:
@@ -79,7 +80,6 @@ name:
     - The Devouring Shadow
     - The Chaos Serpent
 shortcode: apophis
-packFolder: pantheonskemetian
 sohl:
   system:
     commonSkills: []

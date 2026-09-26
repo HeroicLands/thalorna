@@ -13,7 +13,6 @@ name:
   aliases:
     - Knight of the Western Marches
     - Sir Andres Lorca
-packFolder: aureldiatarvenia
 shortcode: srndrslrcknghtwstrnmrchs
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: olive_tanned
     complexion: null
     extra_features: []
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

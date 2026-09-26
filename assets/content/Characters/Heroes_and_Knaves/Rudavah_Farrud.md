@@ -11,7 +11,6 @@ name:
   clan: Farrud
   home: tahrodan
   aliases: []
-packFolder: sultanateofamradad
 shortcode: rudavahfrd
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: null
     extra_features:
       - a burn mark on the left hand
+  packFolder: sultanateofamradad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

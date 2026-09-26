@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-circle
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: kentra
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Attune
-packFolder: spells
+
+# hmk:
+#   name: Attune
 ---
 
 The caster places both hands upon an object or being and enters a state of deep concentration, allowing their own arcane resonance to shift and adapt until it mirrors that of their subject. A subtle hum, felt more than heard, marks the moment of alignment—a sympathetic vibration between two patterns of magical energy that were previously distinct. This attunement grants the caster an intimate awareness of the subject's magical properties, hidden enchantments, or latent potential.

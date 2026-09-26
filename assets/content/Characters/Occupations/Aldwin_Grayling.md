@@ -10,7 +10,6 @@ name:
   clan: Grayling
   home: ravenmoor
   aliases: []
-packFolder: aureldiaaelwyth
 shortcode: aldwngrylng
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: fair
     extra_features:
       - a tattoo of a phoenix on the chest
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

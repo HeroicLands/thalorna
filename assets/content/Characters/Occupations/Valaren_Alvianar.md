@@ -10,7 +10,6 @@ name:
   clan: Álvianar
   home: null # was: Eskárath
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: valarnlvnr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: olive_toned
     extra_features:
       - a scar on the left foot
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

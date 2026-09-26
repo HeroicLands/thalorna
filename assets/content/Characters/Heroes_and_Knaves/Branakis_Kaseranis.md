@@ -11,7 +11,6 @@ name:
   clan: Kâserânis
   home: solheim
   aliases: []
-packFolder: midhalionvylaria
 shortcode: brnksksrns
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a tree on the forearm
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

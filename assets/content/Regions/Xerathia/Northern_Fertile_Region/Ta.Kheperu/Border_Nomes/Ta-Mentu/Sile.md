@@ -11,11 +11,11 @@ data:
   parents:
     - tamentunome
   population: 12000
+  packFolder: bordernomes
 name:
   full: Sile
   aliases: []
 shortcode: sile
-packFolder: bordernomes
 ---
 
 ## Overview

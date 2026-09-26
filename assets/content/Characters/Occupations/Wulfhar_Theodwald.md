@@ -10,7 +10,6 @@ name:
   clan: Theódwald
   home: thornhaven
   aliases: []
-packFolder: ankarisvrystwald
 shortcode: wlfhrthdwld
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: light
     complexion: tanned
     extra_features: []
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 17 } }

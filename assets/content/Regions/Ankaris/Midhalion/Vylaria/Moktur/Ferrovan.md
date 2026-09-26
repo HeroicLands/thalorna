@@ -11,11 +11,11 @@ data:
   parents:
     - moktur
   population: 7000
+  packFolder: vylaria
 name:
   full: Ferrovan
   aliases: []
 shortcode: ferrovan
-packFolder: vylaria
 ---
 
 ## Overview

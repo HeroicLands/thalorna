@@ -6,11 +6,11 @@ name:
     - Notation Tablet
 description: "A slate and stylus carried by a working Ganaka; the tables and notation of the Reckoners' College, portable enough for a court's service."
 shortcode: ganakaboard
-packFolder: instruments
 type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: null
+  packFolder: instruments
 sohl:
   kbcat: instruments
   system:

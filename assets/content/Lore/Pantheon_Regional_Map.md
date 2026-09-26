@@ -6,7 +6,8 @@ name:
 shortcode: pnthnrgnlmp
 type: lore
 subType: theology
-packFolder: pantheons
+data:
+  packFolder: pantheons
 ---
 
 This note maps which pantheons are worshipped in which regions of [[place-worldthlrn|Thalorna]].

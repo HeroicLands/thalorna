@@ -11,7 +11,6 @@ name:
   home: tyrellan
   aliases:
     - Sir Cedric Loudvale
-packFolder: midhalionvylaria
 shortcode: grlndrskrzns
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a lion on the thigh
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

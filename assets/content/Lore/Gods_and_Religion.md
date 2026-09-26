@@ -13,8 +13,9 @@ name:
     - Gods (GM)
     - Religion (GM)
 subType: theology
-packFolder: settinglore
 shortcode: godsrelign
+data:
+  packFolder: settinglore
 ---
 
 ## Religion and Gods Are Not the Same Thing

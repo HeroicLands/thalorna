@@ -11,11 +11,11 @@ data:
   parents:
     - cilfor
   population: null
+  packFolder: elavendre
 name:
   full: Cilfor Bay
   aliases: []
 shortcode: cilforbay
-packFolder: elavendre
 ---
 
 **Cilfor Bay** bites deep into the northern coast of Ankaris between [[place-elavendre|Élavendre]] and

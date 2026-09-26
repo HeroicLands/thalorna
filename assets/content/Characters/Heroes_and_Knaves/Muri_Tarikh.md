@@ -10,7 +10,6 @@ name:
   clan: Târikh
   home: vashuran
   aliases: []
-packFolder: heroesandknaveskalihara
 shortcode: muritarikh
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: null
     extra_features:
       - a scar across the bridge of the nose
+  packFolder: heroesandknaveskalihara
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

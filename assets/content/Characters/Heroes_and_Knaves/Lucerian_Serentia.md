@@ -9,7 +9,6 @@ name:
   given: Lucerian
   clan: Serentia
   aliases: []
-packFolder: midhalionvylaria
 shortcode: lucernsrnt
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     extra_features:
       - immaculate grooming even in rough conditions
       - carries a fine leather medical bag
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

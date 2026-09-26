@@ -10,6 +10,7 @@ subType: arcaneincantation
 data:
   icon: icon-firebdg
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: pyrethos
@@ -18,9 +19,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Flame
-packFolder: spells
+
+# hmk:
+#   name: Flame
 ---
 
 The caster snaps their fingers or makes a small gesture, and a tongue of fire springs to life—dancing above their palm, perched on a fingertip, or hovering at a designated point. The flame burns without fuel, its size and intensity fully under the caster's control, from a candle's gentle flicker to a roaring campfire's warmth. It provides steady light and heat, responds to the caster's mental direction, and persists as long as concentration is maintained.

@@ -11,12 +11,12 @@ data:
   parents:
     - vylariargn
   population: 900000
+  packFolder: vylaria
 name:
   full: Magnápolis City
   aliases:
     - The Great City
 shortcode: magnapolis
-packFolder: vylaria
 ---
 
 > _"All roads are the Empire's roads, and every one of them runs home to Magnápolis."_—Vylarian proverb

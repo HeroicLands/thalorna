@@ -10,7 +10,6 @@ name:
   clan: Chilwell
   home: kingsholow
   aliases: []
-packFolder: aureldiaaelwyth
 shortcode: lefrnchlwl
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: freckled
     extra_features:
       - a tattoo of a skull on the upper arm
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

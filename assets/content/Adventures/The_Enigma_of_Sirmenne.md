@@ -3,7 +3,6 @@ name:
   full: The Enigma of Sirmennë
   aliases: []
 shortcode: engmsrmnn
-renamedFrom: engmlhnvrn
 type: scenario
 subType: adventure
 data:
@@ -17,7 +16,7 @@ data:
   party:
     size: null
     archetypes: []
-packFolder: adventures
+  packFolder: adventures
 ---
 
 Ancient ruins in the borderlands hold secrets from before human memory, guarded by the reclusive [[skill-aelendlng|Áelendi]] tribes and their [[lore-flksinale|Sinalë]] allies. The artifacts within could reshape Provenzian power—if the party can uncover them without awakening what guards them.

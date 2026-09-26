@@ -10,7 +10,6 @@ name:
   clan: Helmsley
   home: caerwynd
   aliases: []
-packFolder: aureldiaaelwyth
 shortcode: hrldhlmsly
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: clear
     extra_features:
       - a tattoo of a woman on the shoulder
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

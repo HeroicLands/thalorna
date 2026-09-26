@@ -9,9 +9,9 @@ data:
   parents:
     - okharisrgn
   population: null
+  packFolder: tribes
 name:
   full: Okharis Tribes Placeholder
   aliases: []
 shortcode: okhrstrbsplchldr
-packFolder: tribes
 ---

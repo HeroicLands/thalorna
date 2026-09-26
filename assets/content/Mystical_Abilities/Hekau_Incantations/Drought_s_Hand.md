@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: deshrut
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: deshrut
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 Kept under the same restriction as the House's plague forms though it is not a working of Chaos,

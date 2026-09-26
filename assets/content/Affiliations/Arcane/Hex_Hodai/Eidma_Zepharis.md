@@ -86,17 +86,18 @@ data:
     sideros: nemesis
     pyrethos: aligned
     physera: aligned
+  packFolder: affiliationshexhodai
 shortcode: zepharis
 name:
   full: Zephäris
   aliases:
     - Eídma Zephäris
-thalorna:
-  school: air
-packFolder: affiliationshexhodai
 sohl:
   system:
     commonSkills: []
+
+# thalorna:
+#   school: air
 ---
 
 Eídma **Zephäris** is the Eídma of wind, weather, sound, illusion, and the intangible. It occupies the upper-right vertex of the [[lore-hexhodai|Sigillum]], directly opposite [[affiliation-sideros|Eídma Sidéros]]. Where Metal seeks to define, bind, and make orderly, Air seeks to dissolve boundaries, escape categories, and reveal that what appears solid may be nothing more than a trick of perception. Zephäris is the smallest of the six Sodalitates by membership, but its practitioners are disproportionately represented among the Ordo's most subtle and dangerous operatives.

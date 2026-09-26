@@ -11,9 +11,9 @@ data:
   parents:
     - moktur
   population: 15000
+  packFolder: vylaria
 name:
   full: Tyrellan
   aliases: []
 shortcode: tyrellan
-packFolder: vylaria
 ---

@@ -10,7 +10,6 @@ name:
   clan: Kadûmû
   home: qadhirun
   aliases: []
-packFolder: midhalionharad
 shortcode: sharushkdm
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: golden
     complexion: tanned
     extra_features: []
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

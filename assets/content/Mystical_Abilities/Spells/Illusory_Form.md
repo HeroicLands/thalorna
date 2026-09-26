@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-wind
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: zepharis
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Image
-packFolder: spells
+
+# hmk:
+#   name: Image
 ---
 
 The caster sculpts the air with deliberate, sweeping gestures, layering currents of refracted light and shaped wind into a three-dimensional image so convincing that onlookers instinctively step aside to let it pass. The illusion can replicate any person, creature, or object the caster has personally observed, rendered in full color with accurate proportions and surface detail down to the texture of fabric or the sheen of wet scales. Movement is fluid and natural—a phantom guard paces its route, a spectral wolf prowls with predatory intent—though the image casts no shadow and displaces no air.

@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-circle
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: kentra
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Vortex
-packFolder: spells
+
+# hmk:
+#   name: Vortex
 ---
 
 The caster unleashes a churning vortex of raw, unstructured arcane energy at a targeted area, creating a howling maelstrom that tears at the fabric of any magic caught within its radius. Enchantments unravel, wards shatter, active spells detonate prematurely or collapse, and even latent magical properties are temporarily suppressed. The area becomes a zone of magical chaos where spellcasting is unreliable at best and catastrophically unpredictable at worst.

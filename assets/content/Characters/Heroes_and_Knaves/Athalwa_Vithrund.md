@@ -10,7 +10,6 @@ name:
   clan: Vithrúnd
   home: eichengrnd
   aliases: []
-packFolder: ankarisvrystwald
 shortcode: athlwvthrnd
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: fair
     extra_features:
       - a tattoo of an eagle on the back
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

@@ -15,8 +15,9 @@ data:
   parents:
     - nrthrnkchchk
   population: null
-terran_analog: Alberta, Saskatchewan, and Manitoba in Canada
-packFolder: kiximtzul
+  packFolder: kiximtzul
+
+# terran_analog: Alberta, Saskatchewan, and Manitoba in Canada
 ---
 
 ## Overview

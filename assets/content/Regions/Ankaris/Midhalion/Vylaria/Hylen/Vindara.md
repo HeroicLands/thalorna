@@ -10,11 +10,11 @@ data:
   parents:
     - hylen
   population: 6000
+  packFolder: vylaria
 name:
   full: Vindara
   aliases: []
 shortcode: vindara
-packFolder: vylaria
 ---
 
 ## Overview

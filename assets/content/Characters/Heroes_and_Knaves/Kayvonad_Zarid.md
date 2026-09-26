@@ -11,7 +11,6 @@ name:
   clan: Zârîd
   home: ashkarad
   aliases: []
-packFolder: ankariskhazryndesert
 shortcode: kayvondzrd
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: light
     complexion: null
     extra_features: []
+  packFolder: ankariskhazryndesert
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 7 } }

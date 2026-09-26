@@ -11,7 +11,8 @@ name:
     - The Leopard Guide
     - Leopard of the Sengala
 shortcode: leopardsengalaspr
-packFolder: lorespiritsnyaluba
+data:
+  packFolder: lorespiritsnyaluba
 ---
 
 The totemic being venerated by the [[affiliation-nylbtrblntn|Sengala]]. For the cult, its

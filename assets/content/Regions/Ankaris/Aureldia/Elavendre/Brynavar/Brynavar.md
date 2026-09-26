@@ -12,11 +12,11 @@ data:
   parents:
     - elavendre
   population: 240000
+  packFolder: elavendre
 name:
   full: Brynavar
   aliases: []
 shortcode: brynavar
-packFolder: elavendre
 ---
 
 **Brynavar**—_the hill country_—is Élavendre's eastern march: some two hundred and forty thousand

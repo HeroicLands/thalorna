@@ -10,6 +10,7 @@ type: miscgear
 data:
   icon: icon-coinsbdg
   templatePriority: 0
+  packFolder: cash
 sohl:
   craft:
     skill: mtlc
@@ -20,7 +21,6 @@ sohl:
     valueBase: 1
     qualityBase: 0
     durabilityBase: 3
-packFolder: cash
 ---
 
 The workhorse of imperial commerce, struck at Magnápolis and at the provincial mints under Aerarium standards. The obverse bears the imperial eagle and cypher, the reverse the value mark and the issuing mint's stamp, and the reverse face carries the eight-segment pattern along which the coin is cut for change.

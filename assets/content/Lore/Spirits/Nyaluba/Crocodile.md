@@ -11,7 +11,8 @@ name:
     - The Crocodile Guide
     - Crocodile of the Kambezi
 shortcode: crocodilekambezispr
-packFolder: lorespiritsnyaluba
+data:
+  packFolder: lorespiritsnyaluba
 ---
 
 The totemic being venerated by the [[affiliation-nylbtrblntn|Kambezi]]. For the cult, its

@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-divination
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: pneumenos
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Aural Blast
-packFolder: spells
+
+# hmk:
+#   name: Aural Blast
 ---
 
 The caster releases a concussive blast of raw psychic force that radiates outward from their position, striking every conscious mind within range with the mental equivalent of a thunderclap. Thoughts scatter, concentration shatters, and victims experience a blinding moment of psychic overload—ringing disorientation, nausea, and a piercing pain behind the eyes that makes focused thought temporarily impossible.

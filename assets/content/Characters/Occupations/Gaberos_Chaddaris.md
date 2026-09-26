@@ -11,7 +11,6 @@ name:
   clan: Chàddâris
   home: athenikos2
   aliases: []
-packFolder: helladhelionis
 shortcode: gabrschdrs
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: warm
     complexion: bronzed
     extra_features: []
+  packFolder: helladhelionis
 sohl:
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 11 } }

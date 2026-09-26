@@ -12,6 +12,7 @@ subType: arcaneincantation
 data:
   icon: khatnu
   templatePriority: null
+  packFolder: hekauincantations
 sohl:
   system:
     assocSkillCode: khatnu
@@ -20,7 +21,6 @@ sohl:
     charges:
       value: null
       max: null
-packFolder: hekauincantations
 ---
 
 Not decoration and not improvement: the form is brought to the established standard, which in

@@ -10,7 +10,6 @@ name:
   clan: Desolárdran
   home: valthari
   aliases: []
-packFolder: aureldiatarvenia
 shortcode: almrdslrdrn
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: olive_tanned
     complexion: ruddy
     extra_features: []
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

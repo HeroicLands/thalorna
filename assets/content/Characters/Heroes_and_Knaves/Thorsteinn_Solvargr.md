@@ -11,7 +11,6 @@ name:
   clan: Sólvargr
   home: haldrvik
   aliases: []
-packFolder: ankarisnordlands
 shortcode: thrstnslvrgr
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: weathered
     extra_features:
       - a scar on the chin
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

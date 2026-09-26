@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-circle
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: kentra
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Ward
-packFolder: spells
+
+# hmk:
+#   name: Ward
 ---
 
 The caster raises a hand and speaks a word of warding, and a shimmering curtain of force springs into existence along a chosen boundary—across a doorway, around a sleeping companion, or encircling an entire camp. The barrier is translucent and faintly luminous, humming with constrained energy. Physical objects and hostile magic alike meet resistance at its surface, their force blunted or deflected entirely depending on the ward's strength.

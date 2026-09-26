@@ -90,7 +90,7 @@ data:
   parents: []
   relations:
     nkaruthar: aligned
-packFolder: pantheonsnkaruthar
+  packFolder: pantheonsnkaruthar
 sohl:
   system:
     commonSkills:

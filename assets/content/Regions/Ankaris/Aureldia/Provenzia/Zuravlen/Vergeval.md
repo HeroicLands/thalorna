@@ -11,11 +11,11 @@ data:
   parents:
     - zuravlenrgn
   population: 310
+  packFolder: provenzia
 name:
   full: Vergéval
   aliases: []
 shortcode: vergeval
-packFolder: provenzia
 ---
 
 **Vergéval** holds the best of the upper terraces, and is the wealthiest manor in

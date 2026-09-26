@@ -10,7 +10,6 @@ name:
   clan: Adwell
   home: brynhallow
   aliases: []
-packFolder: aureldiaaelwyth
 shortcode: kenelmadwl
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: freckled
     extra_features:
       - a scar across the bridge of the nose
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

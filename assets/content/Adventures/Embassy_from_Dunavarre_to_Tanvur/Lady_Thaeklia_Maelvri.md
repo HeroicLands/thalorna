@@ -9,7 +9,6 @@ name:
   given: Thaeklia
   clan: Maelvri
   aliases: []
-packFolder: adventures
 shortcode: thaekliamaelvri
 type: being
 data:
@@ -23,6 +22,7 @@ data:
     - kingdmdnvr
   gender: female
   species: humanflk
+  packFolder: adventures
 ---
 
 # Appearance {#appearance}

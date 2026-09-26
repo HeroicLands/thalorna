@@ -104,11 +104,12 @@ data:
   parents: []
   relations:
     itzanpnthn: aligned
-terran_analog: ""
-packFolder: kawiiltzakul
+  packFolder: kawiiltzakul
 sohl:
   system:
     commonSkills: []
+
+# terran_analog: ""
 ---
 
 ## Overview

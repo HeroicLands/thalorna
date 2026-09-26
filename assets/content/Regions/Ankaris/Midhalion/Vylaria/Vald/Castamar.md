@@ -12,11 +12,11 @@ data:
   parents:
     - vald
   population: 20000
+  packFolder: vylaria
 name:
   full: Castamar
   aliases: []
 shortcode: castamar
-packFolder: vylaria
 ---
 
 ## Overview

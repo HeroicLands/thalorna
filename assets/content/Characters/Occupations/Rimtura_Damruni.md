@@ -10,7 +10,6 @@ name:
   clan: Damrûnî
   home: azhun2
   aliases: []
-packFolder: midhalionharad
 shortcode: rimturdmrn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: tanned
     extra_features:
       - a tattoo of a leaf on the wrist
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

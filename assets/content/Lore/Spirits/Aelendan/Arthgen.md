@@ -9,7 +9,8 @@ name:
   full: Arthgen, the Bear of the High Corries
   aliases: []
 shortcode: arthgenspr
-packFolder: lorespiritsaelendan
+data:
+  packFolder: lorespiritsaelendan
 ---
 
 - **Kind:** Animal-kin, of [[lore-thekindred|the Kindred]]

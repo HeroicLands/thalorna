@@ -10,7 +10,6 @@ name:
   clan: Vithrúnd
   home: falkensten
   aliases: []
-packFolder: ankarisvrystwald
 shortcode: frthgrvthrnd
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: ruddy
     extra_features:
       - a scar on the left ear
+  packFolder: ankarisvrystwald
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

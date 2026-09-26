@@ -10,7 +10,6 @@ name:
   clan: Zarrâshî
   home: azhun2
   aliases: []
-packFolder: midhalionharad
 shortcode: nulazizrsh
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: warm
     complexion: tanned
     extra_features: []
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

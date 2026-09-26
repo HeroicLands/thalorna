@@ -11,12 +11,12 @@ data:
   parents:
     - okharisrgn
   population: 40000
+  packFolder: citystates
 name:
   full: Zarhánor
   aliases:
     - The First Flame
 shortcode: zarhanor
-packFolder: citystates
 ---
 
 **meaning:** _The First Flame_

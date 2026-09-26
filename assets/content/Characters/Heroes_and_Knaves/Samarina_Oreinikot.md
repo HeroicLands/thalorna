@@ -10,9 +10,7 @@ name:
   clan: Oreiníkot
   home: byzaris
   aliases: []
-packFolder: helladbyzaria
 shortcode: smrnorenkt
-renamedFrom: smrnklkyrs
 type: being
 data:
   icon: icon-person
@@ -38,6 +36,7 @@ data:
     skin_color: light
     complexion: null
     extra_features: []
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

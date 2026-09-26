@@ -11,7 +11,6 @@ name:
   clan: Ratnāngadēvadāsa
   home: chandrapur2
   aliases: []
-packFolder: ankarisvedyara
 shortcode: vsvmbhrkhlrtngdvds
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: dark_brown
     complexion: null
     extra_features: []
+  packFolder: ankarisvedyara
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

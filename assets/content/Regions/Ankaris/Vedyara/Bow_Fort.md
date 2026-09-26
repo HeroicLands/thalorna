@@ -13,11 +13,11 @@ data:
   parents:
     - dhanurkotajnpd
   population: null
+  packFolder: vedyara
 name:
   full: The Bow-Fort
   aliases: []
 shortcode: bowfort
-packFolder: vedyara
 ---
 
 The **Bow-Fort** stands on the low hill where the Sarvada bends west round an outcrop of red rock, and [[place-dhanurkota|Dhanurkota]] is the town that grew below it and took its name. The fort holds the Mahájaya temple, the four academy halls, the sabhā chamber and the granary. In extremity it takes the whole janapada, and the granary is stocked against that year by year.

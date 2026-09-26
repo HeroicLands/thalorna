@@ -11,7 +11,8 @@ name:
     - The Arálwain
     - Thin Places
 shortcode: aralwen
-packFolder: settinglore
+data:
+  packFolder: settinglore
 ---
 
 An **arálwen** is a place where the material world and the spirit world lie thin against one another—close enough that things pass between them. They are the reason [[place-elavendre|Élavendre]] has

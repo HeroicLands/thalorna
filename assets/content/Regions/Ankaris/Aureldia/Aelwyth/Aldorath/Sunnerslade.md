@@ -12,11 +12,11 @@ data:
   parents:
     - aldorathrgn
   population: 21000
+  packFolder: aelwyth
 name:
   full: Sunnerslade
   aliases: []
 shortcode: sunnerslade
-packFolder: aelwyth
 ---
 
 **Sunnerslade** is the strip of south- and west-facing slope where the

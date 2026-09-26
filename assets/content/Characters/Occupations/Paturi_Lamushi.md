@@ -11,7 +11,6 @@ name:
   clan: Lamûshî
   home: azhun2
   aliases: []
-packFolder: midhalionharad
 shortcode: paturilmsh
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     complexion: sun_kissed
     extra_features:
       - a tattoo of a horse on the thigh
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

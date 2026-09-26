@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-firebdg
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: pyrethos
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Eyes
-packFolder: spells
+
+# hmk:
+#   name: Eyes
 ---
 
 The caster's vision shifts into a strange new register, and the world is painted in gradients of thermal energy rather than reflected light. Living creatures glow with the bright warmth of their body heat, standing out vividly against the cooler background of stone, earth, and vegetation. Recently occupied spaces retain fading heat signatures—a warm footprint on cold flagstone, the lingering impression of a hand on a door handle, the heated air left behind by a passing breath.

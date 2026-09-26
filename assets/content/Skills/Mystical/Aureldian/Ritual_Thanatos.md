@@ -14,6 +14,7 @@ name:
 data:
   icon: thanatos
   templatePriority: null
+  packFolder: aureldian
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -22,7 +23,6 @@ sohl:
     combatCategory: none
     parentSkillCode: ""
     initSkillMult: 0
-packFolder: aureldian
 ---
 
 See [[affiliation-thanatos|Faith of Thanatos]]

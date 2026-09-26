@@ -7,11 +7,11 @@ data:
   parents:
     - alndntrblnds
   population: null
+  packFolder: elavendre
 name:
   full: The Silver Forests
   aliases: []
 shortcode: silvrfrsts
-packFolder: elavendre
 ---
 
 - **Type:** Ancient fae-touched woodland

@@ -11,11 +11,11 @@ data:
   parents:
     - zuravlenrgn
   population: 240
+  packFolder: provenzia
 name:
   full: Blavéra
   aliases: []
 shortcode: blavera
-packFolder: provenzia
 ---
 
 **Blavéra** lies on the flat ground where the Zûravlen river slows, and grows wheat, barley, beans and

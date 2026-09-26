@@ -126,12 +126,13 @@ data:
     varakpnthn: aligned
     chandrapur: aligned
     mrchntclctvvdyr: rival
-terran_analog: "Medieval South Indian temple-republic with mineral-resource wealth—Chola-era brahmadeya village federation centered on a gold-bearing mountain, governed by an unusually elaborate constitutional structure designed to prevent the concentration of mineral wealth in any one lineage or temple"
-packFolder: vedyara
+  packFolder: vedyara
 sohl:
   system:
     commonSkills:
       - vedyarlng
+
+# terran_analog: "Medieval South Indian temple-republic with mineral-resource wealth—Chola-era brahmadeya village federation centered on a gold-bearing mountain, governed by an unusually elaborate constitutional structure designed to prevent the concentration of mineral wealth in any one lineage or temple"
 ---
 
 The **Suvarnagiri Janapada** is the federation of the villages of the Bhārava highlands, governed jointly through three great temples of **Mahájaya** that ring the slopes of the gold-bearing mountain it is named for, _Suvarna_ (gold) _giri_ (mountain). Its population is thirty-five thousand. It is one of the wealthier and more elaborately governed janapadas of the [[affiliation-janpdsvdyr|Mahā-Sangha]]. Every Vedyari political-economy treatise takes it as the case-study in how a temple-republic holds mineral wealth without failing and without turning itself into a kingdom. The janapada holds the land of [[place-suvarnagirijnpd|Suvarnagiri Janapada]].

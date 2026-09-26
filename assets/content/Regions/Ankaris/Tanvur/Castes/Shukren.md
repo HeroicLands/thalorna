@@ -5,7 +5,8 @@ name:
   full: Shükrën
   aliases: []
 shortcode: shukren
-packFolder: castes
+data:
+  packFolder: castes
 ---
 
 **Merchants and Usurers**

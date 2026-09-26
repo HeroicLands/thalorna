@@ -11,11 +11,11 @@ data:
   parents:
     - pekhenunome
   population: 30000
+  packFolder: upperrivernomes
 name:
   full: Pekhenu
   aliases: []
 shortcode: pekhenu
-packFolder: upperrivernomes
 ---
 
 ## Overview

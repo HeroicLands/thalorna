@@ -95,12 +95,12 @@ data:
     - asguardian
   relations:
     asguardian: aligned
+  packFolder: pantheonsasguardian
 name:
   full: Faith of Hél
   aliases:
     - The Eternal Night
 shortcode: hel
-packFolder: pantheonsasguardian
 sohl:
   system:
     commonSkills: []

@@ -11,11 +11,11 @@ data:
   parents:
     - septminnome
   population: 34000
+  packFolder: upperrivernomes
 name:
   full: Ipu
   aliases: []
 shortcode: ipu
-packFolder: upperrivernomes
 ---
 
 ## Overview

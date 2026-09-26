@@ -11,11 +11,11 @@ data:
   parents:
     - perhutnome
   population: 18000
+  packFolder: upperrivernomes
 name:
   full: Per-Hût
   aliases: []
 shortcode: perhut
-packFolder: upperrivernomes
 ---
 
 ## Overview

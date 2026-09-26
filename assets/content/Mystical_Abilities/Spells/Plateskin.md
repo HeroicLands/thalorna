@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-anvilbdg
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: sideros
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Armour
-packFolder: spells
+
+# hmk:
+#   name: Armour
 ---
 
 The caster channels protective magic into the target's body, and a shell of gleaming metal forms directly over their skin—a seamless layer of articulated plate that covers torso, limbs, and head with the protection of heavy armor but none of its weight or encumbrance. The magical armor moves with the wearer's body as naturally as their own skin, flexing at joints and breathing with their chest, imposing no restriction on movement, agility, or endurance.

@@ -10,7 +10,6 @@ name:
   clan: Grayling
   home: ravenmoor
   aliases: []
-packFolder: aureldiaaelwyth
 shortcode: edrthgrylng
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: pale
     complexion: rough
     extra_features: []
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

@@ -12,11 +12,11 @@ data:
   parents:
     - suvarnagirijnpd
   population: null
+  packFolder: vedyara
 name:
   full: Aráti's Hermitage
   aliases: []
 shortcode: suvhermitage
-packFolder: vedyara
 ---
 
 **Aráti's hermitage** is a cell and a walled yard high on [[place-goldmountain|the Gold Mountain]], above the panning grounds and off the path to the observation posts. **Aráti the Wise** lives in it. She is a holy woman of indeterminate age and a considerable reputation, and the reputation travels further than her address does.

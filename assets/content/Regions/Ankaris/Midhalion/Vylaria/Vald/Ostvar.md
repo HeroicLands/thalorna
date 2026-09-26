@@ -11,11 +11,11 @@ data:
   parents:
     - vald
   population: 8000
+  packFolder: vylaria
 name:
   full: Ostvar
   aliases: []
 shortcode: ostvar
-packFolder: vylaria
 ---
 
 ## Overview

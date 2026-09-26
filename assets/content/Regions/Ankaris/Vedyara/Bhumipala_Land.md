@@ -17,7 +17,7 @@ data:
   parents:
     - vedyarargn
   population: 2000000
-packFolder: vedyara
+  packFolder: vedyara
 ---
 
 ## Overview
@@ -58,14 +58,14 @@ SELECT s.address.slug AS _ref,
                    END, ' and ' ORDER BY p.name.full)
         FROM entries p
         WHERE p.type = 'affiliation'
-          AND list_contains(p.data.domains, concat(s.package, '-none-', s.type, '-', s.shortcode))) AS "Held by",
+          AND list_contains(p.data.domains, concat(s.package, '-note-', s.type, '-', s.shortcode))) AS "Held by",
        -- No field states why a place stands where it does, so "For" projects nothing.
        NULL AS "For"
 FROM entries s
 LEFT JOIN market m ON m.value = s.data.market
 WHERE s.type = 'place'
   AND s.subType = 'settlement'
-  AND list_contains(s.data.parents, 'thalorna-none-place-bhumipalaland')
+  AND list_contains(s.data.parents, 'thalorna-note-place-bhumipalaland')
 ORDER BY s.name.full COLLATE NOCASE
 ```
 

@@ -122,7 +122,7 @@ data:
   lore: []
   parents: []
   relations: {}
-packFolder: pantheonitzani
+  packFolder: pantheonitzani
 sohl:
   system:
     commonSkills: []

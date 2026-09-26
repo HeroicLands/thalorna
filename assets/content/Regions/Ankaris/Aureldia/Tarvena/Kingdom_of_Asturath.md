@@ -168,7 +168,7 @@ data:
     kngdmglvrn: unaligned
     kingdmlnrk: rival
     vylarinmpr: nemesis
-packFolder: tarvenia
+  packFolder: tarvenia
 sohl:
   system:
     commonSkills:

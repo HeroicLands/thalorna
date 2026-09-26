@@ -10,7 +10,6 @@ name:
   clan: Sūryatejamahānanda
   home: rajapur
   aliases: []
-packFolder: ankarisvedyara
 shortcode: tmrsrytjmhnnd
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: null
     extra_features:
       - a tattoo of a butterfly on the neck
+  packFolder: ankarisvedyara
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

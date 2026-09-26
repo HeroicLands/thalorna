@@ -10,7 +10,6 @@ name:
   clan: Ashîmâ
   home: qadhirun
   aliases: []
-packFolder: midhalionharad
 shortcode: elimuashim
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: warm_golden
     complexion: weathered
     extra_features: []
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }

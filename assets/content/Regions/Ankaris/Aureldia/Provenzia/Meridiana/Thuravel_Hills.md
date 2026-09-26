@@ -12,11 +12,11 @@ data:
   parents:
     - meridiana
   population: null
+  packFolder: provenzia
 name:
   full: Thúravel Hills
   aliases: []
 shortcode: thuravelhills
-packFolder: provenzia
 ---
 
 The **Thúravel Hills** roll across the south of the [[place-provenzrgn|Provènzia Region]]—low,

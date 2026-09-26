@@ -9,11 +9,10 @@ description: "Milky white pale gray liquid; promotes sleep and restfulness."
 shortcode: ptnsopm
 type: concoctiongear
 subType: exotic
-hmk:
-  name: "Potion, Soporific, Mild"
 data:
   icon: icon-potion
   templatePriority: null
+  packFolder: mild
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +21,9 @@ sohl:
     durabilityBase: 5
     potency: "mild"
     strength: 0
-packFolder: mild
+
+# hmk:
+#   name: "Potion, Soporific, Mild"
 ---
 
 A milky white or pale gray liquid that smells faintly of lavender, chamomile, and valerian—the scents of an herbalist's sleep remedy. The potion coats the cup or glass with a faint residue. When tasted, it is bitter but not unpleasant, with subtle floral notes that soften the flavor. Those who drink it often report a heaviness in the limbs almost immediately, and a drowsiness that becomes impossible to resist. Mothers use this potion to help fretful infants sleep through the night; physicians use it before setting bones or lancing wounds.

@@ -10,7 +10,6 @@ name:
   clan: Hârôrdîs
   home: velysara
   aliases: []
-packFolder: midhalionvylaria
 shortcode: kdmrshrrds
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     skin_color: olive
     complexion: smooth
     extra_features: []
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }

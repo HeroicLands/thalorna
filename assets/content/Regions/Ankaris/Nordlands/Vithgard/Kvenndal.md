@@ -11,9 +11,9 @@ data:
   parents:
     - vithgard
   population: 250
+  packFolder: vithgard
 name:
   full: Kvenndal
   aliases: []
 shortcode: kvenndal
-packFolder: vithgard
 ---

@@ -10,7 +10,6 @@ name:
   clan: Sólvargr
   home: brunvik
   aliases: []
-packFolder: ankarisnordlands
 shortcode: bthvrslvrgr
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a lion's mane on the chest
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }

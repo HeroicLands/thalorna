@@ -10,9 +10,9 @@ data:
   parents:
     - amradadrgn
   population: 6000
+  packFolder: amradad
 name:
   full: Mihrabad
   aliases: []
 shortcode: mihrabad
-packFolder: amradad
 ---

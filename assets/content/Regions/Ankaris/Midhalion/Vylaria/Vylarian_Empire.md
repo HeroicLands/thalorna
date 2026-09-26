@@ -112,12 +112,13 @@ data:
     vrystwldtrbs: rival
     empirtkhpr: unaligned
     hlykngdmnrtm: rival
-terran_analog: "Italy, Croatia, Bosnia, Serbia, Hungary, and Austria—the Roman empire reaching from its Italian heartland up through the Adriatic east into the Carpathian basin, with provincial reach further east into the Vylarian Sea littoral. The Alps form the empire's western mountain frontier (Cervaron Spine in-world); claimed by the Vylarian chancery, contested by the Áelendan tribes who hold the range as sacred and effectively control its passes."
-packFolder: vylaria
+  packFolder: vylaria
 sohl:
   system:
     commonSkills:
       - vylarilng
+
+# terran_analog: "Italy, Croatia, Bosnia, Serbia, Hungary, and Austria—the Roman empire reaching from its Italian heartland up through the Adriatic east into the Carpathian basin, with provincial reach further east into the Vylarian Sea littoral. The Alps form the empire's western mountain frontier (Cervaron Spine in-world); claimed by the Vylarian chancery, contested by the Áelendan tribes who hold the range as sacred and effectively control its passes."
 ---
 
 ## Overview

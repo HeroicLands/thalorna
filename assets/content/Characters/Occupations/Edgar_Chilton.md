@@ -10,7 +10,6 @@ name:
   clan: Chilton
   home: caerwynd
   aliases: []
-packFolder: aureldiaaelwyth
 shortcode: edgarchltn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: freckled
     extra_features:
       - a scar on the abdomen
+  packFolder: aureldiaaelwyth
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

@@ -12,7 +12,6 @@ name:
   aliases:
     - the Enchantress
   home: null
-packFolder: ankarisnordlands
 shortcode: sgynnchntrs
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: fair
     complexion: fair
     extra_features: []
+  packFolder: ankarisnordlands
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }

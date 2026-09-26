@@ -8,11 +8,11 @@ data:
   parents:
     - heladrgn
   population: 3000000
+  packFolder: helionis
 name:
   full: Heliónis
   aliases: []
 shortcode: helionis
-packFolder: helionis
 ---
 
 ## Overview

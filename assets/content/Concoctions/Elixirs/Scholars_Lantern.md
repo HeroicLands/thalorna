@@ -9,11 +9,10 @@ description: "Golden elixir; sharpens mind with preternatural clarity in reasoni
 shortcode: elxerd
 type: concoctiongear
 subType: elixir
-hmk:
-  name: Erudition
 data:
   icon: icon-potion
   templatePriority: null
+  packFolder: elixirs
 sohl:
   system:
     weightBase: 0.25
@@ -22,7 +21,9 @@ sohl:
     durabilityBase: 5
     potency: "na"
     strength: 0
-packFolder: elixirs
+
+# hmk:
+#   name: Erudition
 ---
 
 A luminous golden elixir that tastes of honey and old parchment, infused with the Principle of Knowledge (Pneuménos). When drunk, the imbiber's mind sharpens and clarifies. Their thoughts accelerate and connect with preternatural clarity, allowing them to grasp esoteric truths and penetrate knotted arguments. Successful tests in Lore Group skills, Reasoning, and Creativity are automatically treated as Critical Successes—the very die roll becomes blessed, the units place determined as if fortune itself smiled upon wisdom.

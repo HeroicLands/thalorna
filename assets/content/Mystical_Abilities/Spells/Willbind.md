@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-circle
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: kentra
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Resolve
-packFolder: spells
+
+# hmk:
+#   name: Resolve
 ---
 
 The caster fortifies the boundaries of their own mind with layered walls of arcane reinforcement, creating a mental fortress that resists intrusion, manipulation, and magical compulsion. External attempts to read the caster's thoughts encounter smooth, impenetrable surfaces. Spells designed to confuse, terrify, or control find no purchase against the hardened will. The caster's thoughts remain their own, clear and undistorted even amid psychic assault.

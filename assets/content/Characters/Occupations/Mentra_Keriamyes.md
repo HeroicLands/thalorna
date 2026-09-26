@@ -10,7 +10,6 @@ name:
   clan: Kêrîamyês
   home: belekos
   aliases: []
-packFolder: midhalionvylaria
 shortcode: mentrkrmys
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: ruddy
     extra_features:
       - a tattoo of a wolf on the shoulder
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

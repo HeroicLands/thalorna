@@ -11,6 +11,7 @@ subType: arcaneincantation
 data:
   icon: icon-firebdg
   templatePriority: null
+  packFolder: spells
 sohl:
   system:
     assocSkillCode: pyrethos
@@ -19,9 +20,9 @@ sohl:
     charges:
       value: null
       max: null
-hmk:
-  name: Burn
-packFolder: spells
+
+# hmk:
+#   name: Burn
 ---
 
 The caster directs a stream of magical fire at a target, and where it strikes, the flame adheres—clinging to flesh, clothing, and armor with tenacious, burning malice. The fire cannot be brushed off, smothered, or rolled out; it feeds on the magical energy sustaining it rather than on any physical fuel, and it will continue to burn until that energy is exhausted. The target must endure the sustained agony or seek magical aid to extinguish the flames.

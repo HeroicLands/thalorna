@@ -7,5 +7,6 @@ name:
   full: Ángáróš
   aliases: []
 shortcode: angarosdty
-packFolder: deitiesashalan
+data:
+  packFolder: deitiesashalan
 ---

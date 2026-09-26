@@ -16,7 +16,7 @@ data:
   parents:
     - takheperurgn
   population: 2500000
-packFolder: capitalnome
+  packFolder: capitalnome
 ---
 
 ## Overview

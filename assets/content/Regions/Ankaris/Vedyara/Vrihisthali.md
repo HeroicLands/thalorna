@@ -12,9 +12,9 @@ data:
   parents:
     - rajapurjnpd
   population: 830
+  packFolder: vedyara
 name:
   full: Vrīhisthalī
   aliases: []
 shortcode: vrihisthali
-packFolder: vedyara
 ---

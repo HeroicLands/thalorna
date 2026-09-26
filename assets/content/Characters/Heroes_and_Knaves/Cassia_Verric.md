@@ -13,7 +13,6 @@ name:
   aliases:
     - The Harbour Factor
     - The Empire's Hand on the Southern Shore
-packFolder: midhalionvylaria
 shortcode: casiaveric
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: fair
     complexion: weathered
     extra_features: []
+  packFolder: midhalionvylaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

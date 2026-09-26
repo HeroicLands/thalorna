@@ -7,7 +7,8 @@ name:
   full: Vyāhrati
   aliases: []
 shortcode: vyahratidty
-packFolder: deitiesvarnaka
+data:
+  packFolder: deitiesvarnaka
 ---
 
 _The Keeper of Decay—a serene older woman crowned with wilting blossoms, holding a shallow bowl of gathered petals and dew._

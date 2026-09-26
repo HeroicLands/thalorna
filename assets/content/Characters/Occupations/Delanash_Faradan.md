@@ -11,7 +11,6 @@ name:
   clan: Faradân
   home: ""
   aliases: []
-packFolder: dunharatribes
 shortcode: delnshfrdn
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     skin_color: medium
     complexion: freckled
     extra_features: []
+  packFolder: dunharatribes
 sohl:
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 14 } }

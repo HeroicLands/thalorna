@@ -10,9 +10,9 @@ data:
   parents:
     - malagna
   population: 350
+  packFolder: malagna
 name:
   full: Valdarheim
   aliases: []
 shortcode: valdarheim
-packFolder: malagna
 ---

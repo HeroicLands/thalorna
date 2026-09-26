@@ -5,7 +5,8 @@ name:
   full: Zhëklüng
   aliases: []
 shortcode: zheklung
-packFolder: castes
+data:
+  packFolder: castes
 ---
 
 **Sons of the Dragon**

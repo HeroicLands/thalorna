@@ -10,7 +10,6 @@ name:
   clan: Damîkî
   home: kethara2
   aliases: []
-packFolder: midhalionharad
 shortcode: lamzudamik
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: olive_toned
     extra_features:
       - a scar on the chin
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }

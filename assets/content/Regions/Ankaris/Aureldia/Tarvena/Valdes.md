@@ -11,9 +11,9 @@ data:
   parents:
     - tarvenirgn
   population: 6000
+  packFolder: tarvenia
 name:
   full: Valdés
   aliases: []
 shortcode: valdes
-packFolder: tarvenia
 ---

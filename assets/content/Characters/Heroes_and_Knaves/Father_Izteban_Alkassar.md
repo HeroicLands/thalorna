@@ -13,7 +13,6 @@ name:
   home: torreviga
   aliases:
     - The Jánusian Priest
-packFolder: aureldiatarvenia
 shortcode: frztbnlksr
 type: being
 data:
@@ -40,6 +39,7 @@ data:
     skin_color: tanned
     complexion: null
     extra_features: []
+  packFolder: aureldiatarvenia
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }

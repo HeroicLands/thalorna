@@ -13,11 +13,11 @@ data:
   parents:
     - vardainvalleys
   population: 460
+  packFolder: aelwyth
 name:
   full: Threndale
   aliases: []
 shortcode: threndale
-packFolder: aelwyth
 ---
 
 **Threndale** is a side valley given over to the dead, and the village of three hundred and fifty that

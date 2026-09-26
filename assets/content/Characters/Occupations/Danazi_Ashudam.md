@@ -10,7 +10,6 @@ name:
   clan: Ashûdam
   home: kashmuret
   aliases: []
-packFolder: midhalionharad
 shortcode: danazishdm
 type: being
 data:
@@ -39,6 +38,7 @@ data:
     complexion: olive_toned
     extra_features:
       - a scar on the right upper arm
+  packFolder: midhalionharad
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }

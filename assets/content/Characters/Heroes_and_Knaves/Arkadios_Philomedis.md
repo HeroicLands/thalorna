@@ -10,7 +10,6 @@ name:
   clan: Philomédis
   home: chrysamar
   aliases: []
-packFolder: helladbyzaria
 shortcode: arkdsphlmds
 type: being
 data:
@@ -38,6 +37,7 @@ data:
     complexion: weathered
     extra_features:
       - a tattoo of a serpent on the back
+  packFolder: helladbyzaria
 sohl:
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }

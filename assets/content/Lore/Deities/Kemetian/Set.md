@@ -7,7 +7,8 @@ name:
   full: Sét
   aliases: []
 shortcode: setdty
-packFolder: deitieskemetian
+data:
+  packFolder: deitieskemetian
 ---
 
 ![[icon-set|Sét]]{float: top-left, size: medium}

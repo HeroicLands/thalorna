@@ -14,8 +14,9 @@ data:
   parents:
     - sthrnkchchk
   population: null
-terran_analog: Southern South America
-packFolder: tzikinbaalam
+  packFolder: tzikinbaalam
+
+# terran_analog: Southern South America
 ---
 
 ## Overview

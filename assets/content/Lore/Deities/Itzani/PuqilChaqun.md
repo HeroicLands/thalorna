@@ -7,5 +7,6 @@ name:
   full: P'uqil Ch'aqun
   aliases: []
 shortcode: puqilchaqundty
-packFolder: deitiesitzani
+data:
+  packFolder: deitiesitzani
 ---

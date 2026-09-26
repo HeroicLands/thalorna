@@ -16,8 +16,9 @@ data:
   parents:
     - byzariargn
   population: null
-terran_analog: "The Anatolian–Persian frontier—the Taurus and Armenian highland passes between the Aegean world and the Central Asian steppe."
-packFolder: byzaria
+  packFolder: byzaria
+
+# terran_analog: "The Anatolian–Persian frontier—the Taurus and Armenian highland passes between the Aegean world and the Central Asian steppe."
 ---
 
 The Eastern March is the frontier district of the [[affiliation-byzarianlg|Byzarian League]] on the desert side of [[place-byzariargn|Byzaría]]—the high passes east of [[affiliation-gumushisar|Gümüşhisar]] and the dry country at their feet, where the League's territory ends and the [[place-khzryndsrtrgn|Khazryn Desert]] begins. It is a march in the old sense: land held not because it is worth anything in itself but because whoever holds it holds the road, and the road is the whole reason the League exists.
