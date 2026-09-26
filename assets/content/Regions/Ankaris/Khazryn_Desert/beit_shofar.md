@@ -2,6 +2,7 @@
 tags:
   - settlement
   - temple
+  - draft
 description: "Temple Settlement"
 type: place
 subType: settlement

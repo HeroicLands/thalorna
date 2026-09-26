@@ -2,6 +2,7 @@
 tags:
   - first-gods
   - spirit-power
+  - draft
 description: "Standing with The At'aan Wyrd—what this allied Kindred is met, asked and bargained with."
 type: skill
 subType: mystical

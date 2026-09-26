@@ -2,6 +2,7 @@
 tags:
   - nkaruthar
   - spirit-power
+  - draft
 description: "Standing with Roho wa Upanga, zohira of the blade—what this emissary of the Flame is petitioned and interceded with."
 type: skill
 subType: mystical

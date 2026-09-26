@@ -8,9 +8,9 @@ name:
   aliases: []
 shortcode: ptahdty
 packFolder: deitieskemetian
-data:
-  icon: ptah
 ---
+
+![[icon-ptah|Ptā'h]]{float: top-left, size: medium}
 
 _Shaper of the Eternal World—a chisel carving a star._
 

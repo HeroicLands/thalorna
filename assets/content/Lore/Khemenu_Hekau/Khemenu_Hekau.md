@@ -15,9 +15,9 @@ name:
     - The Eight Powers
     - The Kemetían Arcane Tradition
 packFolder: khemenuhekau
-data:
-  icon: khemenuhekau
 ---
+
+![[icon-khemenuhekau|Khemenu Hekau]]{float: top-left, size: medium}
 
 ## Khemenu Hekau (The Eight Powers)
 

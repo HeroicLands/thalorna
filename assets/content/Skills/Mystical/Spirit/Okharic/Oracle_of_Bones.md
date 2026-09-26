@@ -2,6 +2,7 @@
 tags:
   - nkaruthar
   - spirit-power
+  - draft
 description: "Standing with The Oracle of Bones, zohira of death and prophecy—what this emissary of the Flame is petitioned and interceded with."
 type: skill
 subType: mystical

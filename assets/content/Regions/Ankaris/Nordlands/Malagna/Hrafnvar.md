@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - draft
 description: "A polity of Malagna, under the crown of Lögnheim."
 type: affiliation
 subType: polity

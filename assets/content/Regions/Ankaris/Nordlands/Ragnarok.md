@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - draft
 description: "The Nordlands' account of the end—the doom the Asguardian gods are held to be moving toward, and against which the whole tradition is arranged."
 type: lore
 subType: theology

@@ -8,9 +8,9 @@ name:
   aliases: []
 shortcode: thothdty
 packFolder: deitieskemetian
-data:
-  icon: thoth
 ---
+
+![[icon-thoth|Thōth]]{float: top-left, size: medium}
 
 _Scribe of the Eternal Library—an ibis quill writing on a golden scroll._
 

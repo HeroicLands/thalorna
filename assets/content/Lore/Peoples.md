@@ -6,6 +6,7 @@ type: doc
 subType: reference
 shortcode: peoples
 tags:
+  - draft
 description: Distinct peoples, races, and lineages.
 data:
   banner: peoplebnr

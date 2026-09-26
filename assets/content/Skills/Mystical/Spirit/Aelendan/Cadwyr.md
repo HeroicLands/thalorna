@@ -2,6 +2,7 @@
 tags:
   - first-gods
   - spirit-power
+  - draft
 description: "Standing with Cadwyr, the Grey Wolf of the Ridge—what this allied Kindred is met, asked and bargained with."
 type: skill
 subType: mystical

@@ -6,6 +6,7 @@ type: doc
 subType: reference
 shortcode: polities
 tags:
+  - draft
 description: States, kingdoms, empires, and other political bodies.
 data:
   banner: null

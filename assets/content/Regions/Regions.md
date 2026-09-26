@@ -6,6 +6,7 @@ type: doc
 subType: reference
 shortcode: regions
 tags:
+  - draft
 description: Geographic and cultural regions.
 data:
   banner: regionbnr

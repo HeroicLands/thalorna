@@ -6,6 +6,7 @@ type: doc
 subType: reference
 shortcode: locations
 tags:
+  - draft
 description: Notable places—ruins, landmarks, dungeons, and wonders.
 data:
   banner: sitebnr

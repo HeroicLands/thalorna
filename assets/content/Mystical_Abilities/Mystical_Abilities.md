@@ -6,6 +6,7 @@ type: doc
 subType: reference
 shortcode: mysticalability
 tags:
+  - draft
 description: Magical and supernatural powers.
 data:
   banner: packagebuild-none-image-mysticalabilitybnr

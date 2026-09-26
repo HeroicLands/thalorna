@@ -6,6 +6,7 @@ type: doc
 subType: reference
 shortcode: lore
 tags:
+  - draft
 description: Myths, legends, and background lore.
 data:
   banner: null

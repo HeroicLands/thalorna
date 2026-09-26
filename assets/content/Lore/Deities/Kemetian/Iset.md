@@ -8,9 +8,9 @@ name:
   aliases: []
 shortcode: isetdty
 packFolder: deitieskemetian
-data:
-  icon: iset
 ---
+
+![[icon-iset|Íšét]]{float: top-left, size: medium}
 
 _Mother of New Beginnings—a blooming lotus intertwined with a serpent._
 

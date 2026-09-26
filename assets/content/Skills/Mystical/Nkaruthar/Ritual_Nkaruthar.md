@@ -2,6 +2,7 @@
 tags:
   - nkaruthar
   - faith-skill
+  - draft
 type: skill
 subType: mystical
 shortcode: nkaruthar

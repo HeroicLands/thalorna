@@ -6,6 +6,7 @@ type: doc
 subType: reference
 shortcode: scenario
 tags:
+  - draft
 description: Playable adventures and modules.
 data:
   banner: null

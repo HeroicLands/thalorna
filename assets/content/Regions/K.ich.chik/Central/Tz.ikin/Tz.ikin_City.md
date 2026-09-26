@@ -1,6 +1,7 @@
 ---
 tags:
   - city
+  - draft
 description: "City"
 type: place
 subType: settlement

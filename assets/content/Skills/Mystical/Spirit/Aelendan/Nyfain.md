@@ -2,6 +2,7 @@
 tags:
   - first-gods
   - spirit-power
+  - draft
 description: "Standing with Nyfain, the White Owl of the Hollow—what this allied Kindred is met, asked and bargained with."
 type: skill
 subType: mystical

@@ -2,6 +2,7 @@
 tags:
   - nyaluba
   - spirit-power
+  - draft
 description: "Standing with the crocodile-spirit of the Kambezi—what an allied guide of the Nyáluba Way is met and asked with."
 type: skill
 subType: mystical

@@ -6,6 +6,7 @@ type: doc
 subType: reference
 shortcode: worlds
 tags:
+  - draft
 description: The worlds of the Heroic Lands multiverse.
 data:
   banner: null

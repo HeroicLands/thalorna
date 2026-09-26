@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - draft
 description: "The burial ground of Magnápolis, outside the walls with the rest of what the city will not keep within them."
 type: place
 subType: site

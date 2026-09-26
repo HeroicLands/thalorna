@@ -13,8 +13,9 @@ shortcode: jaguarttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: jaguartotem
 ---
+
+![[icon-jaguartotem|Jaguar]]{float: top-left, size: medium}
 
 Stealthy and powerful, jaguars are solitary hunters that rely on their strength and stealth to ambush and overpower their prey in dense forests.
 

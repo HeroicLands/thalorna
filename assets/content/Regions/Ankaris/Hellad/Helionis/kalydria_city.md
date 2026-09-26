@@ -2,6 +2,7 @@
 tags:
   - city-state
   - city
+  - draft
 description: "City-State"
 type: place
 subType: settlement

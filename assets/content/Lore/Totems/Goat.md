@@ -13,8 +13,9 @@ shortcode: goatttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: goattotem
 ---
+
+![[icon-goattotem|Goat]]{float: top-left, size: medium}
 
 Curious and determined, goats are naturally inquisitive animals that will climb, explore, and test their environment to satisfy their curiosity.
 

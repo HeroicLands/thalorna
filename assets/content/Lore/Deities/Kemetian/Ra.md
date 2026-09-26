@@ -8,9 +8,9 @@ name:
   aliases: []
 shortcode: radty
 packFolder: deitieskemetian
-data:
-  icon: ra
 ---
+
+![[icon-ra|Rā]]{float: top-left, size: medium}
 
 _The Solar Flame—a blazing sun disk with rays of fire._
 
