@@ -102,7 +102,6 @@ data:
   relations:
     asguardian: aligned
     kngdmnrdhm: rival
-    grukarholm: nemesis
     vylarinmpr: rival
 packFolder: vrystwald
 sohl:
